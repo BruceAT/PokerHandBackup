@@ -1,0 +1,5626 @@
+ï»¿PokerStars Hand #230539977792:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:16:11 PT [2021/10/11 22:16:11 ET]
+Table 'Ellicott II' 9-max Seat #8 is the button
+Seat 1: Vini_doid ($1.41 in chips) 
+Seat 3: juancsnm ($0.53 in chips) 
+Seat 4: vasmit ($2.01 in chips) 
+Seat 5: senea11 ($1.62 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: MC_Shamik ($2.72 in chips) 
+Seat 8: Demidov V.S. ($3.38 in chips) 
+Vini_doid: posts small blind $0.01
+juancsnm: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 4d]
+vasmit: folds 
+senea11: calls $0.02
+LC_Cazzani joins the table at seat #9 
+Dorex2007: checks 
+MC_Shamik: raises $0.09 to $0.11
+Demidov V.S.: folds 
+Vini_doid: folds 
+juancsnm: folds 
+senea11: folds 
+Dorex2007: folds 
+Uncalled bet ($0.09) returned to MC_Shamik
+MC_Shamik collected $0.09 from pot
+MC_Shamik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: Vini_doid (small blind) folded before Flop
+Seat 3: juancsnm (big blind) folded before Flop
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: senea11 folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik collected ($0.09)
+Seat 8: Demidov V.S. (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230539983118:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:16:37 PT [2021/10/11 22:16:37 ET]
+Table 'Ellicott II' 9-max Seat #1 is the button
+Seat 1: Vini_doid ($1.40 in chips) 
+Seat 3: juancsnm ($0.51 in chips) 
+Seat 4: vasmit ($2.01 in chips) 
+Seat 5: senea11 ($1.60 in chips) 
+Seat 6: Dorex2007 ($1.98 in chips) 
+Seat 7: MC_Shamik ($2.79 in chips) 
+Seat 8: Demidov V.S. ($3.38 in chips) 
+Seat 9: LC_Cazzani ($2 in chips) 
+juancsnm: posts small blind $0.01
+vasmit: posts big blind $0.02
+LC_Cazzani: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 6s]
+juancsnm said, "uhuhuhuh ahahahahha"
+juancsnm said, "uhuhuhuh ahahahahha"
+senea11: folds 
+Dorex2007: folds 
+MC_Shamik: folds 
+Demidov V.S.: folds 
+LC_Cazzani: checks 
+Vini_doid: folds 
+juancsnm: folds 
+vasmit: checks 
+*** FLOP *** [9c Jc As]
+vasmit: checks 
+juancsnm said, "monkeysito"
+LC_Cazzani: checks 
+*** TURN *** [9c Jc As] [Tc]
+vasmit: checks 
+LC_Cazzani: checks 
+*** RIVER *** [9c Jc As Tc] [4h]
+vasmit: checks 
+LC_Cazzani: checks 
+*** SHOW DOWN ***
+vasmit: shows [Qc 6h] (high card Ace)
+LC_Cazzani: shows [9d 5c] (a pair of Nines)
+LC_Cazzani collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9c Jc As Tc 4h]
+Seat 1: Vini_doid (button) folded before Flop (didn't bet)
+Seat 3: juancsnm (small blind) folded before Flop
+Seat 4: vasmit (big blind) showed [Qc 6h] and lost with high card Ace
+Seat 5: senea11 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: LC_Cazzani showed [9d 5c] and won ($0.05) with a pair of Nines
+
+
+
+PokerStars Hand #230539996262:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:17:41 PT [2021/10/11 22:17:41 ET]
+Table 'Ellicott II' 9-max Seat #3 is the button
+Seat 1: Vini_doid ($1.40 in chips) 
+Seat 3: juancsnm ($0.50 in chips) 
+Seat 4: vasmit ($2 in chips) 
+Seat 5: senea11 ($1.60 in chips) 
+Seat 6: Dorex2007 ($1.98 in chips) 
+Seat 7: MC_Shamik ($2.79 in chips) 
+Seat 8: Demidov V.S. ($3.38 in chips) 
+Seat 9: LC_Cazzani ($2.03 in chips) 
+vasmit: posts small blind $0.01
+senea11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 8s]
+Dorex2007: folds 
+MC_Shamik: folds 
+Demidov V.S.: folds 
+LC_Cazzani: calls $0.02
+Vini_doid: calls $0.02
+juancsnm: calls $0.02
+vasmit: folds 
+senea11: checks 
+*** FLOP *** [7d 5s 6c]
+senea11: bets $0.09
+LC_Cazzani: calls $0.09
+Vini_doid: folds 
+juancsnm: calls $0.09
+*** TURN *** [7d 5s 6c] [Js]
+senea11: bets $0.23
+LC_Cazzani: folds 
+juancsnm: folds 
+Uncalled bet ($0.23) returned to senea11
+senea11 collected $0.35 from pot
+senea11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [7d 5s 6c Js]
+Seat 1: Vini_doid folded on the Flop
+Seat 3: juancsnm (button) folded on the Turn
+Seat 4: vasmit (small blind) folded before Flop
+Seat 5: senea11 (big blind) collected ($0.35)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: LC_Cazzani folded on the Turn
+
+
+
+PokerStars Hand #230540006702:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:18:33 PT [2021/10/11 22:18:33 ET]
+Table 'Ellicott II' 9-max Seat #4 is the button
+Seat 1: Vini_doid ($1.38 in chips) 
+Seat 3: juancsnm ($0.39 in chips) 
+Seat 4: vasmit ($2 in chips) 
+Seat 5: senea11 ($1.84 in chips) 
+Seat 6: Dorex2007 ($1.98 in chips) 
+Seat 7: MC_Shamik ($2.79 in chips) 
+Seat 8: Demidov V.S. ($3.38 in chips) 
+Seat 9: LC_Cazzani ($1.92 in chips) 
+senea11: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 6h]
+MC_Shamik: folds 
+Demidov V.S.: folds 
+LC_Cazzani: folds 
+Vini_doid: folds 
+juancsnm: folds 
+vasmit: raises $0.02 to $0.04
+senea11: folds 
+Dorex2007: folds 
+Uncalled bet ($0.02) returned to vasmit
+vasmit collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 3: juancsnm folded before Flop (didn't bet)
+Seat 4: vasmit (button) collected ($0.05)
+Seat 5: senea11 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: LC_Cazzani folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540009279:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:18:45 PT [2021/10/11 22:18:45 ET]
+Table 'Ellicott II' 9-max Seat #5 is the button
+Seat 1: Vini_doid ($1.38 in chips) 
+Seat 3: juancsnm ($0.39 in chips) 
+Seat 4: vasmit ($2.03 in chips) 
+Seat 5: senea11 ($1.83 in chips) 
+Seat 6: Dorex2007 ($1.96 in chips) 
+Seat 7: MC_Shamik ($2.79 in chips) 
+Seat 8: Demidov V.S. ($3.38 in chips) 
+Seat 9: LC_Cazzani ($1.92 in chips) 
+Dorex2007: posts small blind $0.01
+MC_Shamik: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 7d]
+Demidov V.S.: folds 
+LC_Cazzani has timed out
+LC_Cazzani: folds 
+Vini_doid: folds 
+juancsnm: folds 
+vasmit: folds 
+senea11: raises $0.05 to $0.07
+Dorex2007: folds 
+MC_Shamik: folds 
+Uncalled bet ($0.05) returned to senea11
+senea11 collected $0.05 from pot
+senea11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 3: juancsnm folded before Flop (didn't bet)
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: senea11 (button) collected ($0.05)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: MC_Shamik (big blind) folded before Flop
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: LC_Cazzani folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540015797:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:19:17 PT [2021/10/11 22:19:17 ET]
+Table 'Ellicott II' 9-max Seat #6 is the button
+Seat 1: Vini_doid ($1.38 in chips) 
+Seat 3: juancsnm ($0.91 in chips) 
+Seat 4: vasmit ($2.03 in chips) 
+Seat 5: senea11 ($1.86 in chips) 
+Seat 6: Dorex2007 ($1.95 in chips) 
+Seat 7: MC_Shamik ($2.77 in chips) 
+Seat 8: Demidov V.S. ($3.38 in chips) 
+Seat 9: LC_Cazzani ($1.92 in chips) 
+MC_Shamik: posts small blind $0.01
+Demidov V.S.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 4c]
+LC_Cazzani: calls $0.02
+Vini_doid: folds 
+juancsnm: folds 
+vasmit: calls $0.02
+senea11: folds 
+Dorex2007: folds 
+MC_Shamik: folds 
+Demidov V.S.: checks 
+*** FLOP *** [2c 2d 8d]
+Demidov V.S.: bets $0.05
+LC_Cazzani: folds 
+vasmit: folds 
+Uncalled bet ($0.05) returned to Demidov V.S.
+Demidov V.S. collected $0.07 from pot
+Demidov V.S.: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [2c 2d 8d]
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 3: juancsnm folded before Flop (didn't bet)
+Seat 4: vasmit folded on the Flop
+Seat 5: senea11 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: MC_Shamik (small blind) folded before Flop
+Seat 8: Demidov V.S. (big blind) collected ($0.07)
+Seat 9: LC_Cazzani folded on the Flop
+
+
+
+PokerStars Hand #230540024172:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:19:58 PT [2021/10/11 22:19:58 ET]
+Table 'Ellicott II' 9-max Seat #7 is the button
+Seat 1: Vini_doid ($1.38 in chips) 
+Seat 3: juancsnm ($0.91 in chips) 
+Seat 4: vasmit ($2.01 in chips) 
+Seat 5: senea11 ($1.86 in chips) 
+Seat 6: Dorex2007 ($1.95 in chips) 
+Seat 7: MC_Shamik ($2.76 in chips) 
+Seat 8: Demidov V.S. ($3.43 in chips) 
+Seat 9: LC_Cazzani ($1.90 in chips) 
+Demidov V.S.: posts small blind $0.01
+LC_Cazzani: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 5h]
+Vini_doid: folds 
+juancsnm: folds 
+vasmit: folds 
+senea11: folds 
+Dorex2007: raises $0.02 to $0.04
+MC_Shamik: folds 
+Demidov V.S.: calls $0.03
+LC_Cazzani: folds 
+*** FLOP *** [3c 4d 5c]
+Demidov V.S.: checks 
+Dorex2007: bets $0.10
+Demidov V.S.: calls $0.10
+*** TURN *** [3c 4d 5c] [7h]
+Demidov V.S.: checks 
+Dorex2007: bets $0.15
+Demidov V.S.: calls $0.15
+*** RIVER *** [3c 4d 5c 7h] [7d]
+Demidov V.S.: checks 
+Dorex2007: bets $0.74
+Demidov V.S.: calls $0.74
+*** SHOW DOWN ***
+Dorex2007: shows [5d 5h] (a full house, Fives full of Sevens)
+Demidov V.S.: mucks hand 
+Dorex2007 collected $2.01 from pot
+*** SUMMARY ***
+Total pot $2.08 | Rake $0.07 
+Board [3c 4d 5c 7h 7d]
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 3: juancsnm folded before Flop (didn't bet)
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: senea11 folded before Flop (didn't bet)
+Seat 6: Dorex2007 showed [5d 5h] and won ($2.01) with a full house, Fives full of Sevens
+Seat 7: MC_Shamik (button) folded before Flop (didn't bet)
+Seat 8: Demidov V.S. (small blind) mucked [Jh Js]
+Seat 9: LC_Cazzani (big blind) folded before Flop
+
+
+
+PokerStars Hand #230540040644:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:21:05 PT [2021/10/11 22:21:05 ET]
+Table 'Ellicott II' 9-max Seat #8 is the button
+Seat 1: Vini_doid ($1.38 in chips) 
+Seat 3: juancsnm ($0.91 in chips) 
+Seat 4: vasmit ($2.01 in chips) 
+Seat 5: senea11 ($1.86 in chips) 
+Seat 6: Dorex2007 ($2.93 in chips) 
+Seat 7: MC_Shamik ($2.76 in chips) 
+Seat 8: Demidov V.S. ($2.40 in chips) 
+Seat 9: LC_Cazzani ($1.88 in chips) 
+LC_Cazzani: posts small blind $0.01
+Vini_doid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 4h]
+juancsnm: folds 
+vasmit: folds 
+senea11: folds 
+Dorex2007: folds 
+MC_Shamik: raises $0.03 to $0.05
+Demidov V.S.: folds 
+LC_Cazzani: folds 
+Vini_doid: calls $0.03
+*** FLOP *** [6d Th 3d]
+Vini_doid: checks 
+MC_Shamik: bets $0.06
+Vini_doid: folds 
+Uncalled bet ($0.06) returned to MC_Shamik
+MC_Shamik collected $0.11 from pot
+MC_Shamik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [6d Th 3d]
+Seat 1: Vini_doid (big blind) folded on the Flop
+Seat 3: juancsnm folded before Flop (didn't bet)
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: senea11 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik collected ($0.11)
+Seat 8: Demidov V.S. (button) folded before Flop (didn't bet)
+Seat 9: LC_Cazzani (small blind) folded before Flop
+
+
+
+PokerStars Hand #230540049042:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:21:47 PT [2021/10/11 22:21:47 ET]
+Table 'Ellicott II' 9-max Seat #9 is the button
+Seat 1: Vini_doid ($1.33 in chips) 
+Seat 3: juancsnm ($0.91 in chips) 
+Seat 4: vasmit ($2.01 in chips) 
+Seat 5: senea11 ($1.86 in chips) 
+Seat 6: Dorex2007 ($2.93 in chips) 
+Seat 7: MC_Shamik ($2.82 in chips) 
+Seat 8: Demidov V.S. ($2.40 in chips) 
+Seat 9: LC_Cazzani ($1.87 in chips) 
+Vini_doid: posts small blind $0.01
+juancsnm: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 7h]
+vasmit: folds 
+senea11: folds 
+Dorex2007: folds 
+MC_Shamik: folds 
+Demidov V.S.: raises $0.04 to $0.06
+LC_Cazzani: folds 
+Vini_doid: folds 
+juancsnm: folds 
+Uncalled bet ($0.04) returned to Demidov V.S.
+Demidov V.S. collected $0.05 from pot
+Demidov V.S.: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Vini_doid (small blind) folded before Flop
+Seat 3: juancsnm (big blind) folded before Flop
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: senea11 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. collected ($0.05)
+Seat 9: LC_Cazzani (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540054399:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:22:13 PT [2021/10/11 22:22:13 ET]
+Table 'Ellicott II' 9-max Seat #1 is the button
+Seat 1: Vini_doid ($1.32 in chips) 
+Seat 3: juancsnm ($0.89 in chips) 
+Seat 4: vasmit ($2.01 in chips) 
+Seat 5: senea11 ($1.86 in chips) 
+Seat 6: Dorex2007 ($2.93 in chips) 
+Seat 7: MC_Shamik ($2.82 in chips) 
+Seat 8: Demidov V.S. ($2.43 in chips) 
+Seat 9: LC_Cazzani ($1.87 in chips) 
+juancsnm: posts small blind $0.01
+vasmit: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Qs]
+senea11: calls $0.02
+Dorex2007: folds 
+MC_Shamik: calls $0.02
+Demidov V.S.: folds 
+LC_Cazzani: calls $0.02
+Vini_doid: folds 
+juancsnm: folds 
+vasmit: checks 
+*** FLOP *** [5d Jh Ad]
+juancsnm leaves the table
+vasmit: checks 
+senea11: checks 
+MC_Shamik: checks 
+LC_Cazzani: checks 
+*** TURN *** [5d Jh Ad] [8s]
+vasmit: checks 
+senea11: bets $0.06
+pedrilskis joins the table at seat #3 
+MC_Shamik: folds 
+LC_Cazzani: folds 
+vasmit: folds 
+Uncalled bet ($0.06) returned to senea11
+senea11 collected $0.09 from pot
+senea11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [5d Jh Ad 8s]
+Seat 1: Vini_doid (button) folded before Flop (didn't bet)
+Seat 3: juancsnm (small blind) folded before Flop
+Seat 4: vasmit (big blind) folded on the Turn
+Seat 5: senea11 collected ($0.09)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded on the Turn
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: LC_Cazzani folded on the Turn
+
+
+
+PokerStars Hand #230540071663:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:23:14 PT [2021/10/11 22:23:14 ET]
+Table 'Ellicott II' 9-max Seat #4 is the button
+Seat 1: Vini_doid ($1.32 in chips) 
+Seat 3: pedrilskis ($0.80 in chips) 
+Seat 4: vasmit ($2 in chips) 
+Seat 5: senea11 ($1.93 in chips) 
+Seat 6: Dorex2007 ($2.93 in chips) 
+Seat 7: MC_Shamik ($2.80 in chips) 
+Seat 8: Demidov V.S. ($2.43 in chips) 
+Seat 9: LC_Cazzani ($1.85 in chips) 
+senea11: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+pedrilskis: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 4d]
+MC_Shamik: calls $0.02
+Demidov V.S.: folds 
+LC_Cazzani: calls $0.02
+Vini_doid: folds 
+pedrilskis: checks 
+vasmit: calls $0.02
+senea11: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [Tc 6h 9s]
+senea11: checks 
+Dorex2007: checks 
+MC_Shamik: checks 
+LC_Cazzani: checks 
+pedrilskis: checks 
+vasmit: checks 
+*** TURN *** [Tc 6h 9s] [2h]
+senea11: checks 
+Dorex2007: checks 
+MC_Shamik: checks 
+LC_Cazzani: checks 
+pedrilskis: checks 
+vasmit: checks 
+*** RIVER *** [Tc 6h 9s 2h] [Kc]
+senea11: checks 
+Dorex2007: checks 
+MC_Shamik: checks 
+LC_Cazzani: checks 
+pedrilskis: checks 
+vasmit: checks 
+*** SHOW DOWN ***
+senea11: shows [9d Jc] (a pair of Nines)
+Dorex2007: mucks hand 
+MC_Shamik: mucks hand 
+LC_Cazzani: shows [9h Qd] (a pair of Nines - King+Queen kicker)
+pedrilskis: mucks hand 
+vasmit: mucks hand 
+LC_Cazzani collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Tc 6h 9s 2h Kc]
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 3: pedrilskis mucked [2d Qs]
+Seat 4: vasmit (button) mucked [6s 8c]
+Seat 5: senea11 (small blind) showed [9d Jc] and lost with a pair of Nines
+Seat 6: Dorex2007 (big blind) mucked [Js 4d]
+Seat 7: MC_Shamik mucked [Ac 7c]
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: LC_Cazzani showed [9h Qd] and won ($0.12) with a pair of Nines
+
+
+
+PokerStars Hand #230540095744:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:25:13 PT [2021/10/11 22:25:13 ET]
+Table 'Ellicott II' 9-max Seat #5 is the button
+Seat 1: Vini_doid ($1.32 in chips) 
+Seat 3: pedrilskis ($0.78 in chips) 
+Seat 4: vasmit ($2 in chips) 
+Seat 5: senea11 ($1.91 in chips) 
+Seat 6: Dorex2007 ($2.91 in chips) 
+Seat 7: MC_Shamik ($2.78 in chips) 
+Seat 8: Demidov V.S. ($2.43 in chips) 
+Seat 9: LC_Cazzani ($1.95 in chips) 
+Dorex2007: posts small blind $0.01
+MC_Shamik: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 6h]
+Demidov V.S.: folds 
+LC_Cazzani: calls $0.02
+Vini_doid: folds 
+pedrilskis: folds 
+vasmit: folds 
+senea11: folds 
+Dorex2007: calls $0.01
+MC_Shamik: checks 
+*** FLOP *** [4d 7c Th]
+Dorex2007: checks 
+MC_Shamik: checks 
+LC_Cazzani: checks 
+*** TURN *** [4d 7c Th] [Ts]
+Dorex2007: checks 
+MC_Shamik: checks 
+LC_Cazzani: checks 
+*** RIVER *** [4d 7c Th Ts] [8h]
+Dorex2007: bets $0.12
+MC_Shamik: folds 
+LC_Cazzani: folds 
+Uncalled bet ($0.12) returned to Dorex2007
+Dorex2007 collected $0.06 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [4d 7c Th Ts 8h]
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 3: pedrilskis folded before Flop (didn't bet)
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: senea11 (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) collected ($0.06)
+Seat 7: MC_Shamik (big blind) folded on the River
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: LC_Cazzani folded on the River
+
+
+
+PokerStars Hand #230540109111:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:26:19 PT [2021/10/11 22:26:19 ET]
+Table 'Ellicott II' 9-max Seat #6 is the button
+Seat 1: Vini_doid ($1.32 in chips) 
+Seat 3: pedrilskis ($0.78 in chips) 
+Seat 4: vasmit ($2 in chips) 
+Seat 5: senea11 ($1.91 in chips) 
+Seat 6: Dorex2007 ($2.95 in chips) 
+Seat 7: MC_Shamik ($2.76 in chips) 
+Seat 9: LC_Cazzani ($1.93 in chips) 
+MC_Shamik: posts small blind $0.01
+LC_Cazzani: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Kd]
+Vini_doid: folds 
+pedrilskis: folds 
+vasmit: folds 
+senea11: folds 
+Dorex2007: raises $0.02 to $0.04
+MC_Shamik: calls $0.03
+LC_Cazzani: calls $0.02
+*** FLOP *** [9h 7s Th]
+MC_Shamik: checks 
+LC_Cazzani: bets $0.08
+Dorex2007: folds 
+MC_Shamik: calls $0.08
+*** TURN *** [9h 7s Th] [Kc]
+MC_Shamik: checks 
+LC_Cazzani: bets $0.10
+MC_Shamik: calls $0.10
+*** RIVER *** [9h 7s Th Kc] [As]
+MC_Shamik: checks 
+LC_Cazzani: checks 
+*** SHOW DOWN ***
+MC_Shamik: shows [8h 8c] (a pair of Eights)
+LC_Cazzani: shows [9c Jd] (a pair of Nines)
+LC_Cazzani collected $0.46 from pot
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [9h 7s Th Kc As]
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 3: pedrilskis folded before Flop (didn't bet)
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: senea11 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded on the Flop
+Seat 7: MC_Shamik (small blind) showed [8h 8c] and lost with a pair of Eights
+Seat 9: LC_Cazzani (big blind) showed [9c Jd] and won ($0.46) with a pair of Nines
+
+
+
+PokerStars Hand #230540120493:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:27:16 PT [2021/10/11 22:27:16 ET]
+Table 'Ellicott II' 9-max Seat #7 is the button
+Seat 1: Vini_doid ($1.32 in chips) 
+Seat 3: pedrilskis ($0.78 in chips) 
+Seat 4: vasmit ($2 in chips) 
+Seat 5: senea11 ($1.91 in chips) 
+Seat 6: Dorex2007 ($2.91 in chips) 
+Seat 7: MC_Shamik ($2.54 in chips) 
+Seat 9: LC_Cazzani ($2.17 in chips) 
+LC_Cazzani: posts small blind $0.01
+Vini_doid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 4c]
+pedrilskis: raises $0.02 to $0.04
+vasmit: folds 
+senea11: folds 
+Dorex2007: folds 
+MC_Shamik: calls $0.04
+LC_Cazzani: calls $0.03
+Vini_doid: calls $0.02
+*** FLOP *** [9c 4d 7d]
+LC_Cazzani: checks 
+Vini_doid: checks 
+pedrilskis: checks 
+MC_Shamik: checks 
+*** TURN *** [9c 4d 7d] [9s]
+LC_Cazzani: bets $0.26
+Vini_doid: folds 
+pedrilskis: folds 
+MC_Shamik: folds 
+Uncalled bet ($0.26) returned to LC_Cazzani
+LC_Cazzani collected $0.15 from pot
+LC_Cazzani: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [9c 4d 7d 9s]
+Seat 1: Vini_doid (big blind) folded on the Turn
+Seat 3: pedrilskis folded on the Turn
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: senea11 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik (button) folded on the Turn
+Seat 9: LC_Cazzani (small blind) collected ($0.15)
+
+
+
+PokerStars Hand #230540136578:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:28:37 PT [2021/10/11 22:28:37 ET]
+Table 'Ellicott II' 9-max Seat #9 is the button
+Seat 1: Vini_doid ($1.28 in chips) 
+Seat 3: pedrilskis ($0.74 in chips) 
+Seat 4: vasmit ($2 in chips) 
+Seat 5: senea11 ($1.91 in chips) 
+Seat 6: Dorex2007 ($2.91 in chips) 
+Seat 7: MC_Shamik ($2.50 in chips) 
+Seat 9: LC_Cazzani ($2.28 in chips) 
+Vini_doid: posts small blind $0.01
+pedrilskis: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 3d]
+vasmit: folds 
+senea11: folds 
+Dorex2007: folds 
+MC_Shamik: folds 
+LC_Cazzani: calls $0.02
+Vini_doid: folds 
+pedrilskis: checks 
+*** FLOP *** [Jh Tc Qs]
+pedrilskis: checks 
+LC_Cazzani: bets $0.10
+pedrilskis: calls $0.10
+*** TURN *** [Jh Tc Qs] [5s]
+pedrilskis: bets $0.20
+LC_Cazzani: calls $0.20
+*** RIVER *** [Jh Tc Qs 5s] [2d]
+pedrilskis: bets $0.20
+LC_Cazzani: calls $0.20
+*** SHOW DOWN ***
+pedrilskis: shows [Ah Ad] (a pair of Aces)
+LC_Cazzani: mucks hand 
+pedrilskis collected $1.01 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.04 
+Board [Jh Tc Qs 5s 2d]
+Seat 1: Vini_doid (small blind) folded before Flop
+Seat 3: pedrilskis (big blind) showed [Ah Ad] and won ($1.01) with a pair of Aces
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: senea11 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 9: LC_Cazzani (button) mucked [9s Qc]
+
+
+
+PokerStars Hand #230540153135:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:29:54 PT [2021/10/11 22:29:54 ET]
+Table 'Ellicott II' 9-max Seat #1 is the button
+Seat 1: Vini_doid ($1.27 in chips) 
+Seat 3: pedrilskis ($1.23 in chips) 
+Seat 4: vasmit ($2 in chips) 
+Seat 5: senea11 ($1.91 in chips) 
+Seat 6: Dorex2007 ($2.91 in chips) 
+Seat 7: MC_Shamik ($2.50 in chips) 
+Seat 9: LC_Cazzani ($1.76 in chips) 
+pedrilskis: posts small blind $0.01
+vasmit: posts big blind $0.02
+Demidov V.S.: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 3c]
+senea11: raises $0.05 to $0.07
+Dorex2007: folds 
+MC_Shamik: folds 
+LC_Cazzani: calls $0.07
+Vini_doid: folds 
+pedrilskis: calls $0.06
+vasmit: folds 
+*** FLOP *** [Ah 8h 3d]
+pedrilskis: checks 
+senea11: bets $0.10
+LC_Cazzani: folds 
+pedrilskis: calls $0.10
+*** TURN *** [Ah 8h 3d] [7h]
+pedrilskis: checks 
+senea11: checks 
+*** RIVER *** [Ah 8h 3d 7h] [4h]
+pedrilskis: checks 
+senea11: checks 
+*** SHOW DOWN ***
+pedrilskis: shows [Td 8d] (a pair of Eights)
+senea11: shows [Ad Ac] (three of a kind, Aces)
+senea11 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [Ah 8h 3d 7h 4h]
+Seat 1: Vini_doid (button) folded before Flop (didn't bet)
+Seat 3: pedrilskis (small blind) showed [Td 8d] and lost with a pair of Eights
+Seat 4: vasmit (big blind) folded before Flop
+Seat 5: senea11 showed [Ad Ac] and won ($0.41) with three of a kind, Aces
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 9: LC_Cazzani folded on the Flop
+
+
+
+PokerStars Hand #230540167754:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:31:08 PT [2021/10/11 22:31:08 ET]
+Table 'Ellicott II' 9-max Seat #3 is the button
+Seat 1: Vini_doid ($1.27 in chips) 
+Seat 3: pedrilskis ($1.06 in chips) 
+Seat 4: vasmit ($2 in chips) 
+Seat 5: senea11 ($2.15 in chips) 
+Seat 6: Dorex2007 ($2.91 in chips) 
+Seat 7: MC_Shamik ($2.50 in chips) 
+Seat 9: LC_Cazzani ($1.69 in chips) 
+vasmit: posts small blind $0.01
+senea11: posts big blind $0.02
+Demidov V.S.: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Td]
+Dorex2007: raises $0.02 to $0.04
+MC_Shamik: folds 
+LC_Cazzani: raises $0.04 to $0.08
+Vini_doid: folds 
+pedrilskis: folds 
+vasmit: folds 
+senea11: folds 
+Dorex2007: calls $0.04
+*** FLOP *** [6h Ac 2h]
+Dorex2007: checks 
+LC_Cazzani: checks 
+*** TURN *** [6h Ac 2h] [8c]
+pedrilskis leaves the table
+Dorex2007: checks 
+LC_Cazzani: bets $1.61 and is all-in
+yjqian23 joins the table at seat #3 
+Dorex2007: folds 
+Uncalled bet ($1.61) returned to LC_Cazzani
+LC_Cazzani collected $0.18 from pot
+LC_Cazzani: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [6h Ac 2h 8c]
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 3: pedrilskis (button) folded before Flop (didn't bet)
+Seat 4: vasmit (small blind) folded before Flop
+Seat 5: senea11 (big blind) folded before Flop
+Seat 6: Dorex2007 folded on the Turn
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 9: LC_Cazzani collected ($0.18)
+
+
+
+PokerStars Hand #230540194614:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:32:42 PT [2021/10/11 22:32:42 ET]
+Table 'Ellicott II' 9-max Seat #4 is the button
+Seat 1: Vini_doid ($1.27 in chips) 
+Seat 3: yjqian23 ($2 in chips) 
+Seat 4: vasmit ($2 in chips) 
+Seat 5: senea11 ($2.13 in chips) 
+Seat 6: Dorex2007 ($2.83 in chips) 
+Seat 7: MC_Shamik ($2.50 in chips) 
+Seat 9: LC_Cazzani ($1.79 in chips) 
+senea11: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Demidov V.S.: sits out 
+yjqian23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Ks]
+MC_Shamik: calls $0.02
+LC_Cazzani: calls $0.02
+Vini_doid: calls $0.02
+yjqian23: checks 
+vasmit: folds 
+senea11: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [9c Qs 2c]
+senea11: checks 
+Dorex2007: checks 
+MC_Shamik: checks 
+LC_Cazzani: bets $1.77 and is all-in
+Vini_doid: folds 
+yjqian23: folds 
+senea11: folds 
+Dorex2007: folds 
+MC_Shamik: folds 
+Uncalled bet ($1.77) returned to LC_Cazzani
+LC_Cazzani collected $0.12 from pot
+LC_Cazzani: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [9c Qs 2c]
+Seat 1: Vini_doid folded on the Flop
+Seat 3: yjqian23 folded on the Flop (didn't bet)
+Seat 4: vasmit (button) folded before Flop (didn't bet)
+Seat 5: senea11 (small blind) folded on the Flop
+Seat 6: Dorex2007 (big blind) folded on the Flop
+Seat 7: MC_Shamik folded on the Flop
+Seat 9: LC_Cazzani collected ($0.12)
+
+
+
+PokerStars Hand #230540206323:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:33:42 PT [2021/10/11 22:33:42 ET]
+Table 'Ellicott II' 9-max Seat #5 is the button
+Seat 1: Vini_doid ($1.25 in chips) 
+Seat 3: yjqian23 ($1.98 in chips) 
+Seat 4: vasmit ($2 in chips) 
+Seat 5: senea11 ($2.11 in chips) 
+Seat 6: Dorex2007 ($2.81 in chips) 
+Seat 7: MC_Shamik ($2.48 in chips) 
+Seat 9: LC_Cazzani ($1.89 in chips) 
+Dorex2007: posts small blind $0.01
+MC_Shamik: posts big blind $0.02
+Demidov V.S.: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Td]
+LC_Cazzani: calls $0.02
+Vini_doid: folds 
+yjqian23: folds 
+vasmit: calls $0.02
+senea11: calls $0.02
+Dorex2007: folds 
+MC_Shamik: checks 
+*** FLOP *** [7c 9h Jd]
+MC_Shamik: checks 
+LC_Cazzani: checks 
+vasmit: checks 
+senea11: bets $0.06
+MC_Shamik: folds 
+LC_Cazzani: folds 
+vasmit: calls $0.06
+*** TURN *** [7c 9h Jd] [8s]
+vasmit: checks 
+senea11: checks 
+*** RIVER *** [7c 9h Jd 8s] [3h]
+vasmit: checks 
+senea11: checks 
+*** SHOW DOWN ***
+vasmit: shows [Ad Ac] (a pair of Aces)
+senea11: mucks hand 
+vasmit collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [7c 9h Jd 8s 3h]
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: vasmit showed [Ad Ac] and won ($0.20) with a pair of Aces
+Seat 5: senea11 (button) mucked [Kc Jh]
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: MC_Shamik (big blind) folded on the Flop
+Seat 9: LC_Cazzani folded on the Flop
+
+
+
+PokerStars Hand #230540215155:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:34:28 PT [2021/10/11 22:34:28 ET]
+Table 'Ellicott II' 9-max Seat #6 is the button
+Seat 1: Vini_doid ($1.25 in chips) 
+Seat 3: yjqian23 ($1.98 in chips) 
+Seat 4: vasmit ($2.12 in chips) 
+Seat 5: senea11 ($2.03 in chips) 
+Seat 6: Dorex2007 ($2.80 in chips) 
+Seat 7: MC_Shamik ($2.46 in chips) 
+Seat 8: Demidov V.S. ($2.43 in chips) 
+Seat 9: LC_Cazzani ($1.87 in chips) 
+MC_Shamik: posts small blind $0.01
+Demidov V.S.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 4c]
+LC_Cazzani has timed out
+LC_Cazzani: folds 
+Vini_doid: folds 
+yjqian23: folds 
+vasmit: folds 
+senea11: calls $0.02
+Dorex2007: folds 
+MC_Shamik: calls $0.01
+Demidov V.S.: checks 
+*** FLOP *** [9d 6d Ad]
+MC_Shamik: checks 
+Demidov V.S.: checks 
+senea11: bets $0.04
+MC_Shamik: folds 
+Demidov V.S.: folds 
+Uncalled bet ($0.04) returned to senea11
+senea11 collected $0.06 from pot
+senea11: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [9d 6d Ad]
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: senea11 collected ($0.06)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: MC_Shamik (small blind) folded on the Flop
+Seat 8: Demidov V.S. (big blind) folded on the Flop
+Seat 9: LC_Cazzani folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540224379:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:35:16 PT [2021/10/11 22:35:16 ET]
+Table 'Ellicott II' 9-max Seat #7 is the button
+Seat 1: Vini_doid ($1.25 in chips) 
+Seat 3: yjqian23 ($1.98 in chips) 
+Seat 4: vasmit ($2.12 in chips) 
+Seat 5: senea11 ($2.07 in chips) 
+Seat 6: Dorex2007 ($2.80 in chips) 
+Seat 7: MC_Shamik ($2.44 in chips) 
+Seat 8: Demidov V.S. ($2.41 in chips) 
+Seat 9: LC_Cazzani ($1.87 in chips) 
+Demidov V.S.: posts small blind $0.01
+LC_Cazzani: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 5c]
+Vini_doid: folds 
+yjqian23: calls $0.02
+vasmit: folds 
+senea11: folds 
+Dorex2007: folds 
+MC_Shamik: calls $0.02
+Demidov V.S.: folds 
+LC_Cazzani: checks 
+*** FLOP *** [Th 3s Ad]
+LC_Cazzani: checks 
+yjqian23: bets $0.02
+MC_Shamik: folds 
+LC_Cazzani: folds 
+Uncalled bet ($0.02) returned to yjqian23
+yjqian23 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Th 3s Ad]
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 3: yjqian23 collected ($0.07)
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: senea11 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik (button) folded on the Flop
+Seat 8: Demidov V.S. (small blind) folded before Flop
+Seat 9: LC_Cazzani (big blind) folded on the Flop
+
+
+
+PokerStars Hand #230540234418:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:36:08 PT [2021/10/11 22:36:08 ET]
+Table 'Ellicott II' 9-max Seat #8 is the button
+Seat 1: Vini_doid ($1.25 in chips) 
+Seat 3: yjqian23 ($2.03 in chips) 
+Seat 4: vasmit ($2.12 in chips) 
+Seat 5: senea11 ($2.07 in chips) 
+Seat 6: Dorex2007 ($2.80 in chips) 
+Seat 7: MC_Shamik ($2.42 in chips) 
+Seat 8: Demidov V.S. ($2.40 in chips) 
+Seat 9: LC_Cazzani ($1.85 in chips) 
+LC_Cazzani: posts small blind $0.01
+Vini_doid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 7h]
+yjqian23: folds 
+yjqian23 leaves the table
+vasmit: folds 
+senea11: folds 
+Dorex2007: folds 
+MC_Shamik: raises $0.03 to $0.05
+Demidov V.S.: folds 
+LC_Cazzani: calls $0.04
+Vini_doid: folds 
+*** FLOP *** [3c 7c Ad]
+LC_Cazzani: checks 
+MC_Shamik: checks 
+*** TURN *** [3c 7c Ad] [Jc]
+LC_Cazzani: bets $0.02
+MC_Shamik: folds 
+Uncalled bet ($0.02) returned to LC_Cazzani
+LC_Cazzani collected $0.12 from pot
+LC_Cazzani: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [3c 7c Ad Jc]
+Seat 1: Vini_doid (big blind) folded before Flop
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: senea11 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded on the Turn
+Seat 8: Demidov V.S. (button) folded before Flop (didn't bet)
+Seat 9: LC_Cazzani (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #230540243423:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:36:55 PT [2021/10/11 22:36:55 ET]
+Table 'Ellicott II' 9-max Seat #9 is the button
+Seat 1: Vini_doid ($1.23 in chips) 
+Seat 4: vasmit ($2.12 in chips) 
+Seat 5: senea11 ($2.07 in chips) 
+Seat 6: Dorex2007 ($2.80 in chips) 
+Seat 7: MC_Shamik ($2.37 in chips) 
+Seat 8: Demidov V.S. ($2.40 in chips) 
+Seat 9: LC_Cazzani ($1.92 in chips) 
+Vini_doid: posts small blind $0.01
+vasmit: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 9c]
+senea11: calls $0.02
+Dorex2007: folds 
+MC_Shamik: calls $0.02
+Demidov V.S.: folds 
+LC_Cazzani: calls $0.02
+Vini_doid: calls $0.01
+vasmit: checks 
+*** FLOP *** [7c 3c 5c]
+Vini_doid: checks 
+vasmit: checks 
+senea11: checks 
+MC_Shamik: checks 
+LC_Cazzani: checks 
+*** TURN *** [7c 3c 5c] [Jc]
+Vini_doid: checks 
+BOCTOK88 joins the table at seat #3 
+vasmit: checks 
+senea11: checks 
+MC_Shamik: checks 
+LC_Cazzani: checks 
+*** RIVER *** [7c 3c 5c Jc] [As]
+Vini_doid: checks 
+vasmit: checks 
+senea11: checks 
+MC_Shamik: checks 
+LC_Cazzani: checks 
+*** SHOW DOWN ***
+Vini_doid: shows [9h Qh] (high card Ace)
+vasmit: mucks hand 
+senea11: shows [Jd 3d] (two pair, Jacks and Threes)
+MC_Shamik: shows [Ad Tc] (a flush, Jack high)
+LC_Cazzani: mucks hand 
+MC_Shamik collected $0.10 from pot
+BUTAW701 leaves the table
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [7c 3c 5c Jc As]
+Seat 1: Vini_doid (small blind) showed [9h Qh] and lost with high card Ace
+Seat 4: vasmit (big blind) mucked [8d 4h]
+Seat 5: senea11 showed [Jd 3d] and lost with two pair, Jacks and Threes
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik showed [Ad Tc] and won ($0.10) with a flush, Jack high
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: LC_Cazzani (button) mucked [5d 9d]
+
+
+
+PokerStars Hand #230540258432:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:38:14 PT [2021/10/11 22:38:14 ET]
+Table 'Ellicott II' 9-max Seat #1 is the button
+Seat 1: Vini_doid ($1.21 in chips) 
+Seat 4: vasmit ($2.10 in chips) 
+Seat 5: senea11 ($2.05 in chips) 
+Seat 6: Dorex2007 ($2.80 in chips) 
+Seat 7: MC_Shamik ($2.45 in chips) 
+Seat 8: Demidov V.S. ($2.40 in chips) 
+Seat 9: LC_Cazzani ($1.90 in chips) 
+vasmit: posts small blind $0.01
+senea11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 5c]
+Dorex2007: folds 
+MC_Shamik: folds 
+Demidov V.S.: folds 
+roman777142 joins the table at seat #2 
+LC_Cazzani: calls $0.02
+Vini_doid: folds 
+vasmit: folds 
+senea11: checks 
+*** FLOP *** [7c 6h Jd]
+senea11: checks 
+LC_Cazzani: checks 
+*** TURN *** [7c 6h Jd] [4d]
+senea11: checks 
+LC_Cazzani: checks 
+*** RIVER *** [7c 6h Jd 4d] [2s]
+senea11: checks 
+LC_Cazzani: checks 
+*** SHOW DOWN ***
+senea11: shows [Td 4s] (a pair of Fours)
+LC_Cazzani: mucks hand 
+senea11 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [7c 6h Jd 4d 2s]
+Seat 1: Vini_doid (button) folded before Flop (didn't bet)
+Seat 4: vasmit (small blind) folded before Flop
+Seat 5: senea11 (big blind) showed [Td 4s] and won ($0.05) with a pair of Fours
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: LC_Cazzani mucked [3c Qh]
+
+
+
+PokerStars Hand #230540265776:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:38:53 PT [2021/10/11 22:38:53 ET]
+Table 'Ellicott II' 9-max Seat #4 is the button
+Seat 1: Vini_doid ($1.21 in chips) 
+Seat 3: BOCTOK88 ($0.80 in chips) 
+Seat 4: vasmit ($2.09 in chips) 
+Seat 5: senea11 ($2.08 in chips) 
+Seat 6: Dorex2007 ($2.80 in chips) 
+Seat 7: MC_Shamik ($2.45 in chips) 
+Seat 8: Demidov V.S. ($2.40 in chips) 
+Seat 9: LC_Cazzani ($1.88 in chips) 
+senea11: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+roman777142: sits out 
+BOCTOK88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Ks]
+MC_Shamik: calls $0.02
+Demidov V.S.: folds 
+LC_Cazzani: calls $0.02
+Vini_doid: folds 
+BOCTOK88: checks 
+vasmit: folds 
+senea11: calls $0.01
+Dorex2007: raises $0.16 to $0.18
+MC_Shamik: folds 
+LC_Cazzani: folds 
+BOCTOK88: folds 
+senea11: folds 
+Uncalled bet ($0.16) returned to Dorex2007
+Dorex2007 collected $0.10 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 3: BOCTOK88 folded before Flop (didn't bet)
+Seat 4: vasmit (button) folded before Flop (didn't bet)
+Seat 5: senea11 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) collected ($0.10)
+Seat 7: MC_Shamik folded before Flop
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: LC_Cazzani folded before Flop
+
+
+
+PokerStars Hand #230540271453:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:39:23 PT [2021/10/11 22:39:23 ET]
+Table 'Ellicott II' 9-max Seat #5 is the button
+Seat 1: Vini_doid ($1.21 in chips) 
+Seat 3: BOCTOK88 ($0.78 in chips) 
+Seat 4: vasmit ($2.09 in chips) 
+Seat 5: senea11 ($2.06 in chips) 
+Seat 6: Dorex2007 ($2.88 in chips) 
+Seat 7: MC_Shamik ($2.43 in chips) 
+Seat 8: Demidov V.S. ($2.40 in chips) 
+Seat 9: LC_Cazzani ($1.86 in chips) 
+Dorex2007: posts small blind $0.01
+MC_Shamik: posts big blind $0.02
+roman777142: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 7s]
+Demidov V.S.: folds 
+LC_Cazzani: calls $0.02
+Vini_doid: folds 
+BOCTOK88: calls $0.02
+vasmit: folds 
+senea11: calls $0.02
+Dorex2007: folds 
+MC_Shamik: checks 
+*** FLOP *** [6h Kh Th]
+MC_Shamik: checks 
+LC_Cazzani: checks 
+BOCTOK88: checks 
+senea11: checks 
+*** TURN *** [6h Kh Th] [2s]
+MC_Shamik: checks 
+LC_Cazzani: checks 
+BOCTOK88: checks 
+senea11: checks 
+*** RIVER *** [6h Kh Th 2s] [5d]
+MC_Shamik: checks 
+LC_Cazzani: checks 
+BOCTOK88: checks 
+senea11: checks 
+*** SHOW DOWN ***
+MC_Shamik: shows [7c Ts] (a pair of Tens)
+LC_Cazzani: mucks hand 
+BOCTOK88: mucks hand 
+senea11: mucks hand 
+MC_Shamik collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [6h Kh Th 2s 5d]
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 3: BOCTOK88 mucked [9d Qd]
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: senea11 (button) mucked [3s 3c]
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: MC_Shamik (big blind) showed [7c Ts] and won ($0.09) with a pair of Tens
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: LC_Cazzani mucked [9c 6s]
+
+
+
+PokerStars Hand #230540280905:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:40:13 PT [2021/10/11 22:40:13 ET]
+Table 'Ellicott II' 9-max Seat #6 is the button
+Seat 1: Vini_doid ($1.21 in chips) 
+Seat 3: BOCTOK88 ($0.76 in chips) 
+Seat 4: vasmit ($2.09 in chips) 
+Seat 5: senea11 ($2.04 in chips) 
+Seat 6: Dorex2007 ($2.87 in chips) 
+Seat 7: MC_Shamik ($2.50 in chips) 
+Seat 8: Demidov V.S. ($2.40 in chips) 
+Seat 9: LC_Cazzani ($1.84 in chips) 
+MC_Shamik: posts small blind $0.01
+Demidov V.S.: posts big blind $0.02
+roman777142: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 4d]
+LC_Cazzani has timed out
+LC_Cazzani: folds 
+Vini_doid: folds 
+BOCTOK88: raises $0.02 to $0.04
+vasmit: folds 
+senea11: calls $0.04
+Dorex2007: folds 
+MC_Shamik: folds 
+Demidov V.S.: folds 
+*** FLOP *** [9s Ac 8s]
+BOCTOK88: checks 
+senea11: checks 
+*** TURN *** [9s Ac 8s] [9c]
+BOCTOK88: bets $0.02
+senea11: calls $0.02
+*** RIVER *** [9s Ac 8s 9c] [4c]
+BOCTOK88: checks 
+senea11: checks 
+*** SHOW DOWN ***
+BOCTOK88: shows [As Kc] (two pair, Aces and Nines)
+senea11: mucks hand 
+BOCTOK88 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9s Ac 8s 9c 4c]
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 3: BOCTOK88 showed [As Kc] and won ($0.14) with two pair, Aces and Nines
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: senea11 mucked [Qd Jh]
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: MC_Shamik (small blind) folded before Flop
+Seat 8: Demidov V.S. (big blind) folded before Flop
+Seat 9: LC_Cazzani folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540289336:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:40:58 PT [2021/10/11 22:40:58 ET]
+Table 'Ellicott II' 9-max Seat #7 is the button
+Seat 1: Vini_doid ($1.21 in chips) 
+Seat 3: BOCTOK88 ($0.84 in chips) 
+Seat 4: vasmit ($2.09 in chips) 
+Seat 5: senea11 ($1.98 in chips) 
+Seat 6: Dorex2007 ($2.87 in chips) 
+Seat 7: MC_Shamik ($2.49 in chips) 
+Seat 8: Demidov V.S. ($2.38 in chips) 
+Demidov V.S.: posts small blind $0.01
+Vini_doid: posts big blind $0.02
+roman777142: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 2d]
+BOCTOK88: folds 
+vasmit has timed out
+vasmit: folds 
+LC_Cazzani leaves the table
+senea11: folds 
+Dorex2007: folds 
+MC_Shamik: raises $0.03 to $0.05
+Demidov V.S.: folds 
+Vini_doid: folds 
+Uncalled bet ($0.03) returned to MC_Shamik
+MC_Shamik collected $0.05 from pot
+MC_Shamik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Vini_doid (big blind) folded before Flop
+Seat 3: BOCTOK88 folded before Flop (didn't bet)
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: senea11 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik (button) collected ($0.05)
+Seat 8: Demidov V.S. (small blind) folded before Flop
+
+
+
+PokerStars Hand #230540293716:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:41:22 PT [2021/10/11 22:41:22 ET]
+Table 'Ellicott II' 9-max Seat #8 is the button
+Seat 1: Vini_doid ($1.19 in chips) 
+Seat 2: roman777142 ($2 in chips) 
+Seat 3: BOCTOK88 ($0.84 in chips) 
+Seat 4: vasmit ($2.09 in chips) 
+Seat 5: senea11 ($1.98 in chips) 
+Seat 6: Dorex2007 ($2.87 in chips) 
+Seat 7: MC_Shamik ($2.52 in chips) 
+Seat 8: Demidov V.S. ($2.37 in chips) 
+Vini_doid: posts small blind $0.01
+roman777142: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 6d]
+IldeRider01 joins the table at seat #9 
+BOCTOK88: folds 
+vasmit: folds 
+senea11: folds 
+Dorex2007: folds 
+MC_Shamik: raises $0.03 to $0.05
+Demidov V.S.: raises $0.13 to $0.18
+Vini_doid: folds 
+roman777142: folds 
+MC_Shamik: folds 
+Uncalled bet ($0.13) returned to Demidov V.S.
+Demidov V.S. collected $0.13 from pot
+Demidov V.S.: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: Vini_doid (small blind) folded before Flop
+Seat 2: roman777142 (big blind) folded before Flop
+Seat 3: BOCTOK88 folded before Flop (didn't bet)
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: senea11 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded before Flop
+Seat 8: Demidov V.S. (button) collected ($0.13)
+
+
+
+PokerStars Hand #230540299313:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:41:53 PT [2021/10/11 22:41:53 ET]
+Table 'Ellicott II' 9-max Seat #1 is the button
+Seat 1: Vini_doid ($1.18 in chips) 
+Seat 2: roman777142 ($2 in chips) 
+Seat 3: BOCTOK88 ($0.84 in chips) 
+Seat 4: vasmit ($2.09 in chips) 
+Seat 5: senea11 ($1.98 in chips) 
+Seat 6: Dorex2007 ($2.87 in chips) 
+Seat 7: MC_Shamik ($2.47 in chips) 
+Seat 8: Demidov V.S. ($2.45 in chips) 
+Seat 9: IldeRider01 ($1.60 in chips) 
+roman777142: posts small blind $0.01
+BOCTOK88: posts big blind $0.02
+IldeRider01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 9s]
+vasmit: folds 
+senea11: folds 
+Dorex2007 has timed out
+Dorex2007: folds 
+MC_Shamik: calls $0.02
+Demidov V.S.: folds 
+IldeRider01: checks 
+Vini_doid: calls $0.02
+roman777142: calls $0.01
+BOCTOK88: checks 
+*** FLOP *** [Kd Qc As]
+roman777142: checks 
+BOCTOK88: checks 
+MC_Shamik: checks 
+IldeRider01: bets $0.05
+Vini_doid: folds 
+roman777142: raises $0.05 to $0.10
+BOCTOK88: folds 
+MC_Shamik: folds 
+IldeRider01: calls $0.05
+*** TURN *** [Kd Qc As] [6h]
+roman777142: bets $0.14
+IldeRider01: calls $0.14
+*** RIVER *** [Kd Qc As 6h] [8d]
+roman777142: bets $0.34
+IldeRider01: folds 
+Uncalled bet ($0.34) returned to roman777142
+roman777142 collected $0.56 from pot
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [Kd Qc As 6h 8d]
+Seat 1: Vini_doid (button) folded on the Flop
+Seat 2: roman777142 (small blind) collected ($0.56)
+Seat 3: BOCTOK88 (big blind) folded on the Flop
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: senea11 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded on the Flop
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: IldeRider01 folded on the River
+
+
+
+PokerStars Hand #230540317765:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:43:32 PT [2021/10/11 22:43:32 ET]
+Table 'Ellicott II' 9-max Seat #2 is the button
+Seat 1: Vini_doid ($1.16 in chips) 
+Seat 2: roman777142 ($2.30 in chips) 
+Seat 3: BOCTOK88 ($0.82 in chips) 
+Seat 4: vasmit ($2.09 in chips) 
+Seat 5: senea11 ($1.98 in chips) 
+Seat 6: Dorex2007 ($2.87 in chips) 
+Seat 7: MC_Shamik ($2.45 in chips) 
+Seat 8: Demidov V.S. ($2.45 in chips) 
+Seat 9: IldeRider01 ($1.34 in chips) 
+BOCTOK88: posts small blind $0.01
+vasmit: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 2s]
+senea11: calls $0.02
+Dorex2007: folds 
+MC_Shamik: folds 
+Demidov V.S.: raises $0.07 to $0.09
+IldeRider01: calls $0.09
+Vini_doid: folds 
+roman777142: folds 
+BOCTOK88: folds 
+vasmit: folds 
+senea11: calls $0.07
+*** FLOP *** [5c Qh 9h]
+senea11: checks 
+Demidov V.S.: checks 
+IldeRider01: bets $0.18
+senea11: calls $0.18
+Demidov V.S.: folds 
+*** TURN *** [5c Qh 9h] [4c]
+senea11: checks 
+IldeRider01: bets $0.34
+senea11: calls $0.34
+*** RIVER *** [5c Qh 9h 4c] [6s]
+senea11: checks 
+IldeRider01: bets $0.34
+senea11: calls $0.34
+*** SHOW DOWN ***
+IldeRider01: shows [Qc Ad] (a pair of Queens)
+senea11: mucks hand 
+IldeRider01 collected $1.95 from pot
+*** SUMMARY ***
+Total pot $2.02 | Rake $0.07 
+Board [5c Qh 9h 4c 6s]
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 2: roman777142 (button) folded before Flop (didn't bet)
+Seat 3: BOCTOK88 (small blind) folded before Flop
+Seat 4: vasmit (big blind) folded before Flop
+Seat 5: senea11 mucked [Kh Qs]
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded on the Flop
+Seat 9: IldeRider01 showed [Qc Ad] and won ($1.95) with a pair of Queens
+
+
+
+PokerStars Hand #230540344458:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:45:08 PT [2021/10/11 22:45:08 ET]
+Table 'Ellicott II' 9-max Seat #3 is the button
+Seat 1: Vini_doid ($1.16 in chips) 
+Seat 2: roman777142 ($2.30 in chips) 
+Seat 3: BOCTOK88 ($0.81 in chips) 
+Seat 4: vasmit ($2.07 in chips) 
+Seat 5: senea11 ($1.03 in chips) 
+Seat 6: Dorex2007 ($2.87 in chips) 
+Seat 7: MC_Shamik ($2.45 in chips) 
+Seat 8: Demidov V.S. ($2.36 in chips) 
+Seat 9: IldeRider01 ($2.34 in chips) 
+vasmit: posts small blind $0.01
+senea11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 8c]
+Dorex2007: folds 
+MC_Shamik: folds 
+Demidov V.S.: raises $0.04 to $0.06
+IldeRider01: folds 
+Vini_doid: folds 
+roman777142: folds 
+BOCTOK88: folds 
+vasmit: folds 
+senea11: folds 
+Uncalled bet ($0.04) returned to Demidov V.S.
+Demidov V.S. collected $0.05 from pot
+Demidov V.S.: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 3: BOCTOK88 (button) folded before Flop (didn't bet)
+Seat 4: vasmit (small blind) folded before Flop
+Seat 5: senea11 (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. collected ($0.05)
+Seat 9: IldeRider01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540348511:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:45:30 PT [2021/10/11 22:45:30 ET]
+Table 'Ellicott II' 9-max Seat #4 is the button
+Seat 1: Vini_doid ($1.16 in chips) 
+Seat 2: roman777142 ($2.30 in chips) 
+Seat 3: BOCTOK88 ($0.81 in chips) 
+Seat 4: vasmit ($2.06 in chips) 
+Seat 5: senea11 ($1.01 in chips) 
+Seat 6: Dorex2007 ($2.87 in chips) 
+Seat 7: MC_Shamik ($2.45 in chips) 
+Seat 8: Demidov V.S. ($2.39 in chips) 
+Seat 9: IldeRider01 ($2.34 in chips) 
+senea11: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 4d]
+MC_Shamik: folds 
+Demidov V.S.: folds 
+IldeRider01: folds 
+Vini_doid: folds 
+roman777142: folds 
+BOCTOK88: folds 
+vasmit: folds 
+senea11: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [7h Jh 7c]
+senea11: checks 
+Dorex2007: checks 
+*** TURN *** [7h Jh 7c] [Qh]
+senea11: checks 
+Dorex2007: bets $0.03
+senea11: calls $0.03
+*** RIVER *** [7h Jh 7c Qh] [3d]
+senea11: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+senea11: shows [Qs 2s] (two pair, Queens and Sevens)
+Dorex2007: mucks hand 
+senea11 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [7h Jh 7c Qh 3d]
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 3: BOCTOK88 folded before Flop (didn't bet)
+Seat 4: vasmit (button) folded before Flop (didn't bet)
+Seat 5: senea11 (small blind) showed [Qs 2s] and won ($0.10) with two pair, Queens and Sevens
+Seat 6: Dorex2007 (big blind) mucked [Kd 4d]
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: IldeRider01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540355838:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:46:10 PT [2021/10/11 22:46:10 ET]
+Table 'Ellicott II' 9-max Seat #5 is the button
+Seat 1: Vini_doid ($1.16 in chips) 
+Seat 2: roman777142 ($2.30 in chips) 
+Seat 3: BOCTOK88 ($0.81 in chips) 
+Seat 4: vasmit ($2.06 in chips) 
+Seat 5: senea11 ($1.06 in chips) 
+Seat 6: Dorex2007 ($2.82 in chips) 
+Seat 7: MC_Shamik ($2.45 in chips) 
+Seat 8: Demidov V.S. ($2.39 in chips) 
+Seat 9: IldeRider01 ($2.34 in chips) 
+Dorex2007: posts small blind $0.01
+MC_Shamik: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 7s]
+Demidov V.S.: folds 
+IldeRider01: raises $0.04 to $0.06
+Vini_doid: folds 
+roman777142: folds 
+BOCTOK88: folds 
+vasmit: folds 
+senea11: folds 
+Dorex2007: folds 
+MC_Shamik: folds 
+Uncalled bet ($0.04) returned to IldeRider01
+IldeRider01 collected $0.05 from pot
+IldeRider01: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 3: BOCTOK88 folded before Flop (didn't bet)
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: senea11 (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: MC_Shamik (big blind) folded before Flop
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: IldeRider01 collected ($0.05)
+
+
+
+PokerStars Hand #230540360563:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:46:36 PT [2021/10/11 22:46:36 ET]
+Table 'Ellicott II' 9-max Seat #6 is the button
+Seat 1: Vini_doid ($1.16 in chips) 
+Seat 2: roman777142 ($2.30 in chips) 
+Seat 3: BOCTOK88 ($0.81 in chips) 
+Seat 4: vasmit ($2.06 in chips) 
+Seat 5: senea11 ($1.06 in chips) 
+Seat 6: Dorex2007 ($2.81 in chips) 
+Seat 7: MC_Shamik ($2.43 in chips) 
+Seat 8: Demidov V.S. ($2.39 in chips) 
+Seat 9: IldeRider01 ($2.37 in chips) 
+MC_Shamik: posts small blind $0.01
+Demidov V.S.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Jc]
+IldeRider01: folds 
+Vini_doid: folds 
+roman777142: calls $0.02
+BOCTOK88: folds 
+vasmit: folds 
+senea11: calls $0.02
+Dorex2007: calls $0.02
+MC_Shamik: calls $0.01
+Demidov V.S.: checks 
+*** FLOP *** [8h Js Kd]
+MC_Shamik: checks 
+Demidov V.S.: checks 
+roman777142: checks 
+senea11: folds 
+senea11 leaves the table
+Dorex2007: bets $0.05
+MC_Shamik: folds 
+vctrnvs joins the table at seat #5 
+Demidov V.S.: folds 
+roman777142: folds 
+Uncalled bet ($0.05) returned to Dorex2007
+Dorex2007 collected $0.10 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [8h Js Kd]
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 2: roman777142 folded on the Flop
+Seat 3: BOCTOK88 folded before Flop (didn't bet)
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: senea11 folded on the Flop
+Seat 6: Dorex2007 (button) collected ($0.10)
+Seat 7: MC_Shamik (small blind) folded on the Flop
+Seat 8: Demidov V.S. (big blind) folded on the Flop
+Seat 9: IldeRider01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540373066:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:47:45 PT [2021/10/11 22:47:45 ET]
+Table 'Ellicott II' 9-max Seat #7 is the button
+Seat 1: Vini_doid ($1.16 in chips) 
+Seat 2: roman777142 ($2.28 in chips) 
+Seat 3: BOCTOK88 ($0.81 in chips) 
+Seat 4: vasmit ($2.06 in chips) 
+Seat 6: Dorex2007 ($2.89 in chips) 
+Seat 7: MC_Shamik ($2.41 in chips) 
+Seat 8: Demidov V.S. ($2.37 in chips) 
+Seat 9: IldeRider01 ($2.37 in chips) 
+Demidov V.S.: posts small blind $0.01
+IldeRider01: posts big blind $0.02
+vctrnvs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 8h]
+Vini_doid: folds 
+IldeRider01 is disconnected 
+roman777142: calls $0.02
+BOCTOK88: folds 
+vasmit: folds 
+Dorex2007: calls $0.02
+MC_Shamik: folds 
+Demidov V.S.: calls $0.01
+IldeRider01 is connected 
+IldeRider01: checks 
+*** FLOP *** [5s 4c Kc]
+Demidov V.S.: checks 
+IldeRider01: checks 
+roman777142: checks 
+Dorex2007: bets $0.04
+Demidov V.S.: calls $0.04
+IldeRider01: calls $0.04
+roman777142: folds 
+*** TURN *** [5s 4c Kc] [Qc]
+Demidov V.S.: checks 
+IldeRider01: checks 
+Dorex2007: checks 
+*** RIVER *** [5s 4c Kc Qc] [Kd]
+Demidov V.S.: bets $0.10
+IldeRider01: raises $0.20 to $0.30
+Dorex2007: folds 
+Demidov V.S.: calls $0.20
+*** SHOW DOWN ***
+IldeRider01: shows [Jc 6c] (a flush, King high)
+Demidov V.S.: shows [5d 5h] (a full house, Fives full of Kings)
+Demidov V.S. collected $0.77 from pot
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.03 
+Board [5s 4c Kc Qc Kd]
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 2: roman777142 folded on the Flop
+Seat 3: BOCTOK88 folded before Flop (didn't bet)
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded on the River
+Seat 7: MC_Shamik (button) folded before Flop (didn't bet)
+Seat 8: Demidov V.S. (small blind) showed [5d 5h] and won ($0.77) with a full house, Fives full of Kings
+Seat 9: IldeRider01 (big blind) showed [Jc 6c] and lost with a flush, King high
+
+
+
+PokerStars Hand #230540385612:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:48:52 PT [2021/10/11 22:48:52 ET]
+Table 'Ellicott II' 9-max Seat #8 is the button
+Seat 1: Vini_doid ($1.16 in chips) 
+Seat 2: roman777142 ($2.26 in chips) 
+Seat 3: BOCTOK88 ($0.81 in chips) 
+Seat 4: vasmit ($2.06 in chips) 
+Seat 5: vctrnvs ($1 in chips) 
+Seat 6: Dorex2007 ($2.83 in chips) 
+Seat 7: MC_Shamik ($2.41 in chips) 
+Seat 8: Demidov V.S. ($2.78 in chips) 
+Seat 9: IldeRider01 ($2.01 in chips) 
+IldeRider01: posts small blind $0.01
+Vini_doid: posts big blind $0.02
+vctrnvs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 5c]
+roman777142: folds 
+BOCTOK88: folds 
+vasmit: folds 
+vctrnvs: checks 
+Dorex2007: folds 
+MC_Shamik: raises $0.04 to $0.06
+Demidov V.S.: folds 
+IldeRider01: folds 
+Vini_doid: folds 
+vctrnvs: folds 
+Uncalled bet ($0.04) returned to MC_Shamik
+MC_Shamik collected $0.07 from pot
+MC_Shamik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Vini_doid (big blind) folded before Flop
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 3: BOCTOK88 folded before Flop (didn't bet)
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: vctrnvs folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik collected ($0.07)
+Seat 8: Demidov V.S. (button) folded before Flop (didn't bet)
+Seat 9: IldeRider01 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230540392178:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:49:27 PT [2021/10/11 22:49:27 ET]
+Table 'Ellicott II' 9-max Seat #9 is the button
+Seat 1: Vini_doid ($1.14 in chips) 
+Seat 2: roman777142 ($2.26 in chips) 
+Seat 3: BOCTOK88 ($0.81 in chips) 
+Seat 4: vasmit ($2.06 in chips) 
+Seat 5: vctrnvs ($0.98 in chips) 
+Seat 6: Dorex2007 ($2.83 in chips) 
+Seat 7: MC_Shamik ($2.46 in chips) 
+Seat 8: Demidov V.S. ($2.78 in chips) 
+Seat 9: IldeRider01 ($2 in chips) 
+Vini_doid: posts small blind $0.01
+roman777142: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Td]
+BOCTOK88: folds 
+vasmit: folds 
+vctrnvs: raises $0.04 to $0.06
+Dorex2007: folds 
+BOCTOK88 leaves the table
+MC_Shamik: folds 
+Demidov V.S.: folds 
+IldeRider01: folds 
+pinskin1 joins the table at seat #3 
+Vini_doid: folds 
+roman777142: calls $0.04
+*** FLOP *** [Ks Qc 3c]
+roman777142: checks 
+vctrnvs: checks 
+*** TURN *** [Ks Qc 3c] [8s]
+roman777142: checks 
+vctrnvs: checks 
+*** RIVER *** [Ks Qc 3c 8s] [5d]
+roman777142: checks 
+vctrnvs: checks 
+*** SHOW DOWN ***
+roman777142: shows [Ts 7s] (high card King)
+vctrnvs: shows [As Th] (high card Ace)
+vctrnvs collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ks Qc 3c 8s 5d]
+Seat 1: Vini_doid (small blind) folded before Flop
+Seat 2: roman777142 (big blind) showed [Ts 7s] and lost with high card King
+Seat 3: BOCTOK88 folded before Flop (didn't bet)
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: vctrnvs showed [As Th] and won ($0.13) with high card Ace
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: IldeRider01 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540401959:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:50:21 PT [2021/10/11 22:50:21 ET]
+Table 'Ellicott II' 9-max Seat #1 is the button
+Seat 1: Vini_doid ($1.13 in chips) 
+Seat 2: roman777142 ($2.20 in chips) 
+Seat 3: pinskin1 ($0.82 in chips) 
+Seat 4: vasmit ($2.06 in chips) 
+Seat 5: vctrnvs ($1.05 in chips) 
+Seat 6: Dorex2007 ($2.83 in chips) 
+Seat 7: MC_Shamik ($2.46 in chips) 
+Seat 8: Demidov V.S. ($2.78 in chips) 
+Seat 9: IldeRider01 ($2 in chips) 
+roman777142: posts small blind $0.01
+pinskin1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Jc]
+vasmit: calls $0.02
+vctrnvs: folds 
+Dorex2007: folds 
+MC_Shamik: calls $0.02
+Demidov V.S.: folds 
+IldeRider01: folds 
+Vini_doid: folds 
+roman777142: calls $0.01
+pinskin1: checks 
+*** FLOP *** [Jd 2h Qs]
+roman777142: checks 
+pinskin1: checks 
+vasmit: checks 
+MC_Shamik: bets $0.04
+roman777142: folds 
+pinskin1: folds 
+vasmit: raises $0.08 to $0.12
+MC_Shamik: raises $2.32 to $2.44 and is all-in
+vasmit: folds 
+Uncalled bet ($2.32) returned to MC_Shamik
+MC_Shamik collected $0.31 from pot
+MC_Shamik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Jd 2h Qs]
+Seat 1: Vini_doid (button) folded before Flop (didn't bet)
+Seat 2: roman777142 (small blind) folded on the Flop
+Seat 3: pinskin1 (big blind) folded on the Flop
+Seat 4: vasmit folded on the Flop
+Seat 5: vctrnvs folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik collected ($0.31)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: IldeRider01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540424484:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:51:31 PT [2021/10/11 22:51:31 ET]
+Table 'Ellicott II' 9-max Seat #2 is the button
+Seat 1: Vini_doid ($1.13 in chips) 
+Seat 2: roman777142 ($2.18 in chips) 
+Seat 3: pinskin1 ($0.80 in chips) 
+Seat 4: vasmit ($2 in chips) 
+Seat 5: vctrnvs ($1.05 in chips) 
+Seat 6: Dorex2007 ($2.83 in chips) 
+Seat 7: MC_Shamik ($2.63 in chips) 
+Seat 8: Demidov V.S. ($2.78 in chips) 
+Seat 9: IldeRider01 ($2 in chips) 
+pinskin1: posts small blind $0.01
+vasmit: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 8d]
+vctrnvs has timed out
+vctrnvs: folds 
+Dorex2007: folds 
+MC_Shamik: folds 
+Demidov V.S.: folds 
+IldeRider01: calls $0.02
+Vini_doid: folds 
+roman777142: folds 
+pinskin1: raises $0.06 to $0.08
+vasmit: folds 
+IldeRider01: folds 
+Uncalled bet ($0.06) returned to pinskin1
+pinskin1 collected $0.06 from pot
+pinskin1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 2: roman777142 (button) folded before Flop (didn't bet)
+Seat 3: pinskin1 (small blind) collected ($0.06)
+Seat 4: vasmit (big blind) folded before Flop
+Seat 5: vctrnvs folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: IldeRider01 folded before Flop
+
+
+
+PokerStars Hand #230540429654:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:52:00 PT [2021/10/11 22:52:00 ET]
+Table 'Ellicott II' 9-max Seat #3 is the button
+Seat 1: Vini_doid ($1.13 in chips) 
+Seat 2: roman777142 ($2.18 in chips) 
+Seat 3: pinskin1 ($0.84 in chips) 
+Seat 4: vasmit ($2 in chips) 
+Seat 5: vctrnvs ($1.05 in chips) 
+Seat 6: Dorex2007 ($2.83 in chips) 
+Seat 7: MC_Shamik ($2.63 in chips) 
+Seat 8: Demidov V.S. ($2.78 in chips) 
+Seat 9: IldeRider01 ($1.98 in chips) 
+vasmit: posts small blind $0.01
+vctrnvs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 4s]
+Dorex2007: folds 
+MC_Shamik: folds 
+Demidov V.S.: folds 
+IldeRider01: folds 
+Vini_doid: folds 
+roman777142: raises $0.04 to $0.06
+pinskin1: folds 
+vasmit: folds 
+vctrnvs: folds 
+Uncalled bet ($0.04) returned to roman777142
+roman777142 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 2: roman777142 collected ($0.05)
+Seat 3: pinskin1 (button) folded before Flop (didn't bet)
+Seat 4: vasmit (small blind) folded before Flop
+Seat 5: vctrnvs (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: IldeRider01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540437998:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:52:46 PT [2021/10/11 22:52:46 ET]
+Table 'Ellicott II' 9-max Seat #4 is the button
+Seat 1: Vini_doid ($1.13 in chips) 
+Seat 2: roman777142 ($2.21 in chips) 
+Seat 3: pinskin1 ($0.84 in chips) 
+Seat 4: vasmit ($2 in chips) 
+Seat 5: vctrnvs ($1.03 in chips) 
+Seat 6: Dorex2007 ($2.83 in chips) 
+Seat 7: MC_Shamik ($2.63 in chips) 
+Seat 8: Demidov V.S. ($2.78 in chips) 
+Seat 9: IldeRider01 ($1.98 in chips) 
+vctrnvs: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 8h]
+MC_Shamik: folds 
+Demidov V.S.: folds 
+IldeRider01: folds 
+Vini_doid: folds 
+roman777142: folds 
+pinskin1: raises $0.04 to $0.06
+vasmit: folds 
+vctrnvs: calls $0.05
+Dorex2007: folds 
+*** FLOP *** [8s 5d Qc]
+vctrnvs: checks 
+pinskin1: bets $0.06
+vctrnvs: calls $0.06
+*** TURN *** [8s 5d Qc] [9h]
+vctrnvs: checks 
+pinskin1: bets $0.12
+vctrnvs: calls $0.12
+*** RIVER *** [8s 5d Qc 9h] [Ks]
+vctrnvs: checks 
+pinskin1: checks 
+*** SHOW DOWN ***
+vctrnvs: shows [Js Td] (a straight, Nine to King)
+pinskin1: mucks hand 
+vctrnvs collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [8s 5d Qc 9h Ks]
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 3: pinskin1 mucked [Ac 9s]
+Seat 4: vasmit (button) folded before Flop (didn't bet)
+Seat 5: vctrnvs (small blind) showed [Js Td] and won ($0.48) with a straight, Nine to King
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: IldeRider01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540447625:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:53:39 PT [2021/10/11 22:53:39 ET]
+Table 'Ellicott II' 9-max Seat #5 is the button
+Seat 1: Vini_doid ($1.13 in chips) 
+Seat 2: roman777142 ($2.21 in chips) 
+Seat 3: pinskin1 ($0.60 in chips) 
+Seat 4: vasmit ($2 in chips) 
+Seat 5: vctrnvs ($1.27 in chips) 
+Seat 6: Dorex2007 ($2.81 in chips) 
+Seat 7: MC_Shamik ($2.63 in chips) 
+Seat 8: Demidov V.S. ($2.78 in chips) 
+Seat 9: IldeRider01 ($1.98 in chips) 
+Dorex2007: posts small blind $0.01
+MC_Shamik: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 2c]
+Demidov V.S.: folds 
+IldeRider01: raises $0.05 to $0.07
+Vini_doid: folds 
+roman777142: folds 
+pinskin1: folds 
+vasmit: calls $0.07
+vctrnvs: calls $0.07
+Dorex2007: folds 
+MC_Shamik: folds 
+*** FLOP *** [9h Ad Qs]
+IldeRider01: bets $0.11
+vasmit: folds 
+vctrnvs: folds 
+Uncalled bet ($0.11) returned to IldeRider01
+IldeRider01 collected $0.23 from pot
+IldeRider01: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [9h Ad Qs]
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 3: pinskin1 folded before Flop (didn't bet)
+Seat 4: vasmit folded on the Flop
+Seat 5: vctrnvs (button) folded on the Flop
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: MC_Shamik (big blind) folded before Flop
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: IldeRider01 collected ($0.23)
+
+
+
+PokerStars Hand #230540456006:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:54:25 PT [2021/10/11 22:54:25 ET]
+Table 'Ellicott II' 9-max Seat #6 is the button
+Seat 1: Vini_doid ($1.13 in chips) 
+Seat 2: roman777142 ($2.21 in chips) 
+Seat 3: pinskin1 ($0.60 in chips) 
+Seat 4: vasmit ($2 in chips) 
+Seat 5: vctrnvs ($1.20 in chips) 
+Seat 6: Dorex2007 ($2.80 in chips) 
+Seat 7: MC_Shamik ($2.61 in chips) 
+Seat 8: Demidov V.S. ($2.78 in chips) 
+Seat 9: IldeRider01 ($2.14 in chips) 
+MC_Shamik: posts small blind $0.01
+Demidov V.S.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 3c]
+IldeRider01: calls $0.02
+Vini_doid: folds 
+roman777142: raises $0.10 to $0.12
+pinskin1: folds 
+vasmit: folds 
+vctrnvs: calls $0.12
+Dorex2007: folds 
+MC_Shamik: folds 
+Demidov V.S.: folds 
+IldeRider01: folds 
+*** FLOP *** [6h 9d As]
+roman777142: bets $0.16
+vctrnvs: folds 
+Uncalled bet ($0.16) returned to roman777142
+roman777142 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [6h 9d As]
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 2: roman777142 collected ($0.28)
+Seat 3: pinskin1 folded before Flop (didn't bet)
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: vctrnvs folded on the Flop
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: MC_Shamik (small blind) folded before Flop
+Seat 8: Demidov V.S. (big blind) folded before Flop
+Seat 9: IldeRider01 folded before Flop
+
+
+
+PokerStars Hand #230540464080:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:55:10 PT [2021/10/11 22:55:10 ET]
+Table 'Ellicott II' 9-max Seat #7 is the button
+Seat 1: Vini_doid ($1.13 in chips) 
+Seat 2: roman777142 ($2.37 in chips) 
+Seat 3: pinskin1 ($0.60 in chips) 
+Seat 4: vasmit ($2 in chips) 
+Seat 5: vctrnvs ($1.08 in chips) 
+Seat 6: Dorex2007 ($2.80 in chips) 
+Seat 7: MC_Shamik ($2.60 in chips) 
+Seat 8: Demidov V.S. ($2.76 in chips) 
+Seat 9: IldeRider01 ($2.12 in chips) 
+Demidov V.S.: posts small blind $0.01
+IldeRider01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 3s]
+Vini_doid: folds 
+roman777142: folds 
+pinskin1: folds 
+vasmit: folds 
+vctrnvs: calls $0.02
+Dorex2007: folds 
+MC_Shamik: folds 
+Demidov V.S.: folds 
+IldeRider01: checks 
+*** FLOP *** [Qd 6s 6c]
+IldeRider01: checks 
+vctrnvs: bets $0.04
+IldeRider01: folds 
+Uncalled bet ($0.04) returned to vctrnvs
+vctrnvs collected $0.05 from pot
+vctrnvs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qd 6s 6c]
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 3: pinskin1 folded before Flop (didn't bet)
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: vctrnvs collected ($0.05)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik (button) folded before Flop (didn't bet)
+Seat 8: Demidov V.S. (small blind) folded before Flop
+Seat 9: IldeRider01 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #230540470048:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:55:49 PT [2021/10/11 22:55:49 ET]
+Table 'Ellicott II' 9-max Seat #8 is the button
+Seat 1: Vini_doid ($1.13 in chips) 
+Seat 2: roman777142 ($2.37 in chips) 
+Seat 3: pinskin1 ($0.60 in chips) 
+Seat 4: vasmit ($2 in chips) 
+Seat 5: vctrnvs ($1.11 in chips) 
+Seat 6: Dorex2007 ($2.80 in chips) 
+Seat 7: MC_Shamik ($2.60 in chips) 
+Seat 8: Demidov V.S. ($2.75 in chips) 
+Seat 9: IldeRider01 ($2.10 in chips) 
+IldeRider01: posts small blind $0.01
+Vini_doid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Jd]
+roman777142: folds 
+pinskin1 has timed out
+pinskin1: folds 
+vasmit: folds 
+vctrnvs: folds 
+Dorex2007: folds 
+MC_Shamik: folds 
+Demidov V.S.: raises $0.03 to $0.05
+IldeRider01: calls $0.04
+Vini_doid: raises $0.05 to $0.10
+Demidov V.S.: calls $0.05
+IldeRider01: calls $0.05
+*** FLOP *** [7h 9d 9h]
+IldeRider01: checks 
+Vini_doid: checks 
+Demidov V.S.: checks 
+*** TURN *** [7h 9d 9h] [8d]
+IldeRider01: checks 
+Vini_doid: checks 
+Demidov V.S.: bets $0.15
+IldeRider01: folds 
+Vini_doid: calls $0.15
+*** RIVER *** [7h 9d 9h 8d] [Qs]
+Vini_doid: checks 
+Demidov V.S.: checks 
+*** SHOW DOWN ***
+Vini_doid: shows [As Ac] (two pair, Aces and Nines)
+Demidov V.S.: mucks hand 
+Vini_doid collected $0.58 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [7h 9d 9h 8d Qs]
+Seat 1: Vini_doid (big blind) showed [As Ac] and won ($0.58) with two pair, Aces and Nines
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 3: pinskin1 folded before Flop (didn't bet)
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: vctrnvs folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. (button) mucked [5c 5s]
+Seat 9: IldeRider01 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #230540496355:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:57:57 PT [2021/10/11 22:57:57 ET]
+Table 'Ellicott II' 9-max Seat #9 is the button
+Seat 1: Vini_doid ($1.46 in chips) 
+Seat 2: roman777142 ($2.37 in chips) 
+Seat 3: pinskin1 ($0.60 in chips) 
+Seat 4: vasmit ($2 in chips) 
+Seat 5: vctrnvs ($1.11 in chips) 
+Seat 6: Dorex2007 ($2.80 in chips) 
+Seat 7: MC_Shamik ($2.60 in chips) 
+Seat 8: Demidov V.S. ($2.50 in chips) 
+Seat 9: IldeRider01 ($2 in chips) 
+Vini_doid: posts small blind $0.01
+roman777142: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 4s]
+pinskin1 has timed out
+pinskin1: folds 
+vasmit: folds 
+vctrnvs: raises $0.04 to $0.06
+Dorex2007: folds 
+MC_Shamik: folds 
+Demidov V.S.: folds 
+IldeRider01: folds 
+Vini_doid: folds 
+roman777142: calls $0.04
+*** FLOP *** [9c 8d 8c]
+roman777142: checks 
+vctrnvs: checks 
+*** TURN *** [9c 8d 8c] [5h]
+roman777142: bets $0.07
+vctrnvs: folds 
+Uncalled bet ($0.07) returned to roman777142
+roman777142 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9c 8d 8c 5h]
+Seat 1: Vini_doid (small blind) folded before Flop
+Seat 2: roman777142 (big blind) collected ($0.13)
+Seat 3: pinskin1 folded before Flop (didn't bet)
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: vctrnvs folded on the Turn
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: IldeRider01 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540504988:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:58:54 PT [2021/10/11 22:58:54 ET]
+Table 'Ellicott II' 9-max Seat #1 is the button
+Seat 1: Vini_doid ($1.45 in chips) 
+Seat 2: roman777142 ($2.44 in chips) 
+Seat 3: pinskin1 ($0.60 in chips) 
+Seat 4: vasmit ($2 in chips) 
+Seat 5: vctrnvs ($1.05 in chips) 
+Seat 6: Dorex2007 ($2.80 in chips) 
+Seat 7: MC_Shamik ($2.60 in chips) 
+Seat 8: Demidov V.S. ($2.50 in chips) 
+Seat 9: IldeRider01 ($2 in chips) 
+roman777142: posts small blind $0.01
+pinskin1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 3c]
+vasmit: folds 
+vctrnvs: calls $0.02
+Dorex2007: folds 
+MC_Shamik: folds 
+Demidov V.S.: folds 
+IldeRider01: folds 
+Vini_doid: calls $0.02
+roman777142: folds 
+pinskin1: checks 
+*** FLOP *** [9c Ah Qc]
+pinskin1: bets $0.04
+vctrnvs: folds 
+Vini_doid: folds 
+Uncalled bet ($0.04) returned to pinskin1
+pinskin1 collected $0.07 from pot
+pinskin1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [9c Ah Qc]
+Seat 1: Vini_doid (button) folded on the Flop
+Seat 2: roman777142 (small blind) folded before Flop
+Seat 3: pinskin1 (big blind) collected ($0.07)
+Seat 4: vasmit folded before Flop (didn't bet)
+Seat 5: vctrnvs folded on the Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: IldeRider01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540511411:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 19:59:36 PT [2021/10/11 22:59:36 ET]
+Table 'Ellicott II' 9-max Seat #2 is the button
+Seat 1: Vini_doid ($1.43 in chips) 
+Seat 2: roman777142 ($2.43 in chips) 
+Seat 3: pinskin1 ($0.65 in chips) 
+Seat 5: vctrnvs ($1.03 in chips) 
+Seat 6: Dorex2007 ($2.80 in chips) 
+Seat 7: MC_Shamik ($2.60 in chips) 
+Seat 8: Demidov V.S. ($2.50 in chips) 
+Seat 9: IldeRider01 ($2 in chips) 
+pinskin1: posts small blind $0.01
+vctrnvs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Qh]
+Dorex2007: raises $0.04 to $0.06
+MC_Shamik: folds 
+Demidov V.S.: folds 
+IldeRider01: folds 
+Vini_doid: calls $0.06
+roman777142: folds 
+pinskin1: folds 
+vctrnvs: calls $0.04
+*** FLOP *** [7s 3s 5h]
+vctrnvs: checks 
+Dorex2007: bets $0.09
+Vini_doid: folds 
+vctrnvs: folds 
+Uncalled bet ($0.09) returned to Dorex2007
+Dorex2007 collected $0.18 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [7s 3s 5h]
+Seat 1: Vini_doid folded on the Flop
+Seat 2: roman777142 (button) folded before Flop (didn't bet)
+Seat 3: pinskin1 (small blind) folded before Flop
+Seat 5: vctrnvs (big blind) folded on the Flop
+Seat 6: Dorex2007 collected ($0.18)
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: IldeRider01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540517907:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:00:18 PT [2021/10/11 23:00:18 ET]
+Table 'Ellicott II' 9-max Seat #3 is the button
+Seat 1: Vini_doid ($1.37 in chips) 
+Seat 2: roman777142 ($2.43 in chips) 
+Seat 3: pinskin1 ($0.64 in chips) 
+Seat 5: vctrnvs ($0.97 in chips) 
+Seat 6: Dorex2007 ($2.92 in chips) 
+Seat 7: MC_Shamik ($2.60 in chips) 
+Seat 8: Demidov V.S. ($2.50 in chips) 
+Seat 9: IldeRider01 ($2 in chips) 
+vctrnvs: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 8d]
+MC_Shamik: calls $0.02
+Demidov V.S.: folds 
+IldeRider01: folds 
+Vini_doid: folds 
+roman777142: folds 
+pinskin1: calls $0.02
+vctrnvs: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [Ad Ac 5s]
+vctrnvs: checks 
+Dorex2007: checks 
+MC_Shamik: checks 
+pinskin1: bets $0.04
+vctrnvs: folds 
+Dorex2007: folds 
+MC_Shamik: folds 
+Uncalled bet ($0.04) returned to pinskin1
+pinskin1 collected $0.08 from pot
+pinskin1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Ad Ac 5s]
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 3: pinskin1 (button) collected ($0.08)
+Seat 5: vctrnvs (small blind) folded on the Flop
+Seat 6: Dorex2007 (big blind) folded on the Flop
+Seat 7: MC_Shamik folded on the Flop
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: IldeRider01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540526827:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:01:11 PT [2021/10/11 23:01:11 ET]
+Table 'Ellicott II' 9-max Seat #5 is the button
+Seat 1: Vini_doid ($1.37 in chips) 
+Seat 2: roman777142 ($2.43 in chips) 
+Seat 3: pinskin1 ($0.70 in chips) 
+Seat 5: vctrnvs ($0.95 in chips) 
+Seat 6: Dorex2007 ($2.90 in chips) 
+Seat 7: MC_Shamik ($2.58 in chips) 
+Seat 8: Demidov V.S. ($2.50 in chips) 
+Seat 9: IldeRider01 ($2 in chips) 
+Dorex2007: posts small blind $0.01
+MC_Shamik: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 4h]
+Demidov V.S.: folds 
+IldeRider01: folds 
+Vini_doid: folds 
+roman777142: raises $0.04 to $0.06
+pinskin1: folds 
+vctrnvs: folds 
+Dorex2007: folds 
+MC_Shamik: folds 
+Uncalled bet ($0.04) returned to roman777142
+roman777142 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 2: roman777142 collected ($0.05)
+Seat 3: pinskin1 folded before Flop (didn't bet)
+Seat 5: vctrnvs (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: MC_Shamik (big blind) folded before Flop
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: IldeRider01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540531959:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:01:41 PT [2021/10/11 23:01:41 ET]
+Table 'Ellicott II' 9-max Seat #6 is the button
+Seat 1: Vini_doid ($1.37 in chips) 
+Seat 2: roman777142 ($2.46 in chips) 
+Seat 3: pinskin1 ($0.70 in chips) 
+Seat 5: vctrnvs ($0.95 in chips) 
+Seat 6: Dorex2007 ($2.89 in chips) 
+Seat 7: MC_Shamik ($2.56 in chips) 
+Seat 8: Demidov V.S. ($2.50 in chips) 
+Seat 9: IldeRider01 ($2 in chips) 
+MC_Shamik: posts small blind $0.01
+Demidov V.S.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Qs]
+IldeRider01: folds 
+Vini_doid: folds 
+roman777142: folds 
+pinskin1: folds 
+IldeRider01 leaves the table
+vctrnvs: folds 
+Dorex2007: folds 
+MC_Shamik: raises $0.02 to $0.04
+Demidov V.S.: folds 
+Uncalled bet ($0.02) returned to MC_Shamik
+MC_Shamik collected $0.04 from pot
+MC_Shamik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 3: pinskin1 folded before Flop (didn't bet)
+Seat 5: vctrnvs folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: MC_Shamik (small blind) collected ($0.04)
+Seat 8: Demidov V.S. (big blind) folded before Flop
+Seat 9: IldeRider01 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540536051:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:02:04 PT [2021/10/11 23:02:04 ET]
+Table 'Ellicott II' 9-max Seat #7 is the button
+Seat 1: Vini_doid ($1.37 in chips) 
+Seat 2: roman777142 ($2.46 in chips) 
+Seat 3: pinskin1 ($0.70 in chips) 
+Seat 5: vctrnvs ($0.95 in chips) 
+Seat 6: Dorex2007 ($2.89 in chips) 
+Seat 7: MC_Shamik ($2.58 in chips) 
+Seat 8: Demidov V.S. ($2.48 in chips) 
+Demidov V.S.: posts small blind $0.01
+Vini_doid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Qd]
+roman777142: folds 
+pinskin1: folds 
+vctrnvs: folds 
+Dorex2007: folds 
+MC_Shamik: raises $0.03 to $0.05
+Demidov V.S.: folds 
+Vini_doid: folds 
+Uncalled bet ($0.03) returned to MC_Shamik
+MC_Shamik collected $0.05 from pot
+MC_Shamik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Vini_doid (big blind) folded before Flop
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 3: pinskin1 folded before Flop (didn't bet)
+Seat 5: vctrnvs folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik (button) collected ($0.05)
+Seat 8: Demidov V.S. (small blind) folded before Flop
+
+
+
+PokerStars Hand #230540540800:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:02:31 PT [2021/10/11 23:02:31 ET]
+Table 'Ellicott II' 9-max Seat #8 is the button
+Seat 1: Vini_doid ($1.35 in chips) 
+Seat 2: roman777142 ($2.46 in chips) 
+Seat 3: pinskin1 ($0.70 in chips) 
+Seat 5: vctrnvs ($0.95 in chips) 
+Seat 6: Dorex2007 ($2.89 in chips) 
+Seat 7: MC_Shamik ($2.61 in chips) 
+Seat 8: Demidov V.S. ($2.47 in chips) 
+Vini_doid: posts small blind $0.01
+roman777142: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Tc]
+pinskin1: folds 
+vctrnvs: folds 
+Dorex2007: folds 
+MC_Shamik: folds 
+Demidov V.S.: folds 
+Vini_doid: calls $0.01
+roman777142: checks 
+*** FLOP *** [3d 9d 2d]
+Vini_doid: checks 
+roman777142: checks 
+*** TURN *** [3d 9d 2d] [7h]
+Vini_doid: checks 
+roman777142: checks 
+*** RIVER *** [3d 9d 2d 7h] [9c]
+Vini_doid: checks 
+roman777142: checks 
+*** SHOW DOWN ***
+Vini_doid: shows [Ks 8d] (a pair of Nines)
+roman777142: mucks hand 
+k0vacs joins the table at seat #9 
+Vini_doid collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3d 9d 2d 7h 9c]
+Seat 1: Vini_doid (small blind) showed [Ks 8d] and won ($0.04) with a pair of Nines
+Seat 2: roman777142 (big blind) mucked [Js 5c]
+Seat 3: pinskin1 folded before Flop (didn't bet)
+Seat 5: vctrnvs folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540546297:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:03:02 PT [2021/10/11 23:03:02 ET]
+Table 'Ellicott II' 9-max Seat #1 is the button
+Seat 1: Vini_doid ($1.37 in chips) 
+Seat 2: roman777142 ($2.44 in chips) 
+Seat 3: pinskin1 ($0.70 in chips) 
+Seat 5: vctrnvs ($0.95 in chips) 
+Seat 6: Dorex2007 ($2.89 in chips) 
+Seat 7: MC_Shamik ($2.61 in chips) 
+Seat 8: Demidov V.S. ($2.47 in chips) 
+roman777142: posts small blind $0.01
+pinskin1: posts big blind $0.02
+k0vacs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Qd]
+vctrnvs: raises $0.04 to $0.06
+Dorex2007: folds 
+MC_Shamik: calls $0.06
+Demidov V.S.: folds 
+Vini_doid: calls $0.06
+roman777142: folds 
+pinskin1: folds 
+*** FLOP *** [9c 4s Td]
+vctrnvs: bets $0.10
+MC_Shamik: folds 
+Vini_doid: folds 
+Uncalled bet ($0.10) returned to vctrnvs
+vctrnvs collected $0.20 from pot
+vctrnvs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [9c 4s Td]
+Seat 1: Vini_doid (button) folded on the Flop
+Seat 2: roman777142 (small blind) folded before Flop
+Seat 3: pinskin1 (big blind) folded before Flop
+Seat 5: vctrnvs collected ($0.20)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded on the Flop
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540556091:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:03:58 PT [2021/10/11 23:03:58 ET]
+Table 'Ellicott II' 9-max Seat #2 is the button
+Seat 1: Vini_doid ($1.31 in chips) 
+Seat 2: roman777142 ($2.43 in chips) 
+Seat 3: pinskin1 ($0.68 in chips) 
+Seat 5: vctrnvs ($1.09 in chips) 
+Seat 6: Dorex2007 ($2.89 in chips) 
+Seat 7: MC_Shamik ($2.55 in chips) 
+Seat 8: Demidov V.S. ($2.47 in chips) 
+pinskin1: posts small blind $0.01
+vctrnvs: posts big blind $0.02
+k0vacs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 6h]
+Dorex2007: folds 
+MC_Shamik: raises $0.03 to $0.05
+Demidov V.S.: folds 
+Vini_doid: folds 
+roman777142: folds 
+pinskin1: calls $0.04
+vctrnvs: folds 
+*** FLOP *** [3h 9c Ac]
+pinskin1: bets $0.08
+MC_Shamik: folds 
+Uncalled bet ($0.08) returned to pinskin1
+pinskin1 collected $0.12 from pot
+pinskin1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [3h 9c Ac]
+Seat 1: Vini_doid folded before Flop (didn't bet)
+Seat 2: roman777142 (button) folded before Flop (didn't bet)
+Seat 3: pinskin1 (small blind) collected ($0.12)
+Seat 5: vctrnvs (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded on the Flop
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540561107:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:04:28 PT [2021/10/11 23:04:28 ET]
+Table 'Ellicott II' 9-max Seat #3 is the button
+Seat 2: roman777142 ($2.43 in chips) 
+Seat 3: pinskin1 ($0.75 in chips) 
+Seat 5: vctrnvs ($1.07 in chips) 
+Seat 6: Dorex2007 ($2.89 in chips) 
+Seat 7: MC_Shamik ($2.50 in chips) 
+Seat 8: Demidov V.S. ($2.47 in chips) 
+vctrnvs: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+k0vacs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 5s]
+MC_Shamik: folds 
+Demidov V.S.: folds 
+roman777142: folds 
+pinskin1: folds 
+pinskin1 leaves the table
+vctrnvs: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [9d 5c 7s]
+DVP6200 joins the table at seat #3 
+vctrnvs: checks 
+Dorex2007: bets $0.04
+vctrnvs: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.04 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [9d 5c 7s]
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 3: pinskin1 (button) folded before Flop (didn't bet)
+Seat 5: vctrnvs (small blind) folded on the Flop
+Seat 6: Dorex2007 (big blind) collected ($0.04)
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540568685:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:05:11 PT [2021/10/11 23:05:11 ET]
+Table 'Ellicott II' 9-max Seat #5 is the button
+Seat 2: roman777142 ($2.43 in chips) 
+Seat 5: vctrnvs ($1.05 in chips) 
+Seat 6: Dorex2007 ($2.91 in chips) 
+Seat 7: MC_Shamik ($2.50 in chips) 
+Seat 8: Demidov V.S. ($2.47 in chips) 
+Dorex2007: posts small blind $0.01
+MC_Shamik: posts big blind $0.02
+k0vacs: sits out 
+DVP6200: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Ac]
+Demidov V.S.: folds 
+roman777142: folds 
+vctrnvs: raises $0.04 to $0.06
+Dorex2007: folds 
+MC_Shamik: folds 
+Uncalled bet ($0.04) returned to vctrnvs
+vctrnvs collected $0.05 from pot
+vctrnvs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 5: vctrnvs (button) collected ($0.05)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: MC_Shamik (big blind) folded before Flop
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540571793:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:05:29 PT [2021/10/11 23:05:29 ET]
+Table 'Ellicott II' 9-max Seat #6 is the button
+Seat 2: roman777142 ($2.43 in chips) 
+Seat 5: vctrnvs ($1.08 in chips) 
+Seat 6: Dorex2007 ($2.90 in chips) 
+Seat 7: MC_Shamik ($2.48 in chips) 
+Seat 8: Demidov V.S. ($2.47 in chips) 
+MC_Shamik: posts small blind $0.01
+Demidov V.S.: posts big blind $0.02
+k0vacs: sits out 
+DVP6200: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 3h]
+roman777142: folds 
+vctrnvs: calls $0.02
+Dorex2007: folds 
+MC_Shamik: folds 
+Demidov V.S.: checks 
+*** FLOP *** [Ac Qs Jh]
+Demidov V.S.: checks 
+vctrnvs: checks 
+*** TURN *** [Ac Qs Jh] [2c]
+Demidov V.S.: checks 
+vctrnvs: bets $0.04
+Demidov V.S.: calls $0.04
+*** RIVER *** [Ac Qs Jh 2c] [9s]
+Demidov V.S.: checks 
+vctrnvs: bets $0.08
+Demidov V.S.: folds 
+Uncalled bet ($0.08) returned to vctrnvs
+vctrnvs collected $0.13 from pot
+vctrnvs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ac Qs Jh 2c 9s]
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 5: vctrnvs collected ($0.13)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: MC_Shamik (small blind) folded before Flop
+Seat 8: Demidov V.S. (big blind) folded on the River
+
+
+
+PokerStars Hand #230540585096:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:06:45 PT [2021/10/11 23:06:45 ET]
+Table 'Ellicott II' 9-max Seat #7 is the button
+Seat 2: roman777142 ($2.43 in chips) 
+Seat 5: vctrnvs ($1.15 in chips) 
+Seat 6: Dorex2007 ($2.90 in chips) 
+Seat 7: MC_Shamik ($2.47 in chips) 
+Seat 8: Demidov V.S. ($2.41 in chips) 
+Seat 9: k0vacs ($2 in chips) 
+Demidov V.S.: posts small blind $0.01
+k0vacs: posts big blind $0.02
+DVP6200: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 8h]
+roman777142: folds 
+vctrnvs: calls $0.02
+Dorex2007: folds 
+MC_Shamik: folds 
+Demidov V.S.: folds 
+k0vacs: checks 
+*** FLOP *** [8c 9s 6h]
+k0vacs: checks 
+vctrnvs: bets $0.04
+k0vacs: folds 
+Uncalled bet ($0.04) returned to vctrnvs
+vctrnvs collected $0.05 from pot
+vctrnvs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8c 9s 6h]
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 5: vctrnvs collected ($0.05)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik (button) folded before Flop (didn't bet)
+Seat 8: Demidov V.S. (small blind) folded before Flop
+Seat 9: k0vacs (big blind) folded on the Flop
+
+
+
+PokerStars Hand #230540593710:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:07:34 PT [2021/10/11 23:07:34 ET]
+Table 'Ellicott II' 9-max Seat #8 is the button
+Seat 2: roman777142 ($2.43 in chips) 
+Seat 5: vctrnvs ($1.18 in chips) 
+Seat 6: Dorex2007 ($2.90 in chips) 
+Seat 7: MC_Shamik ($2.47 in chips) 
+Seat 8: Demidov V.S. ($2.40 in chips) 
+Seat 9: k0vacs ($1.98 in chips) 
+k0vacs: posts small blind $0.01
+roman777142: posts big blind $0.02
+DVP6200: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 7h]
+vctrnvs: folds 
+Dorex2007: folds 
+MC_Shamik: raises $0.03 to $0.05
+Demidov V.S.: folds 
+k0vacs: folds 
+roman777142: folds 
+Uncalled bet ($0.03) returned to MC_Shamik
+MC_Shamik collected $0.05 from pot
+MC_Shamik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: roman777142 (big blind) folded before Flop
+Seat 5: vctrnvs folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik collected ($0.05)
+Seat 8: Demidov V.S. (button) folded before Flop (didn't bet)
+Seat 9: k0vacs (small blind) folded before Flop
+
+
+
+PokerStars Hand #230540596891:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:07:53 PT [2021/10/11 23:07:53 ET]
+Table 'Ellicott II' 9-max Seat #9 is the button
+Seat 2: roman777142 ($2.41 in chips) 
+Seat 3: DVP6200 ($0.80 in chips) 
+Seat 5: vctrnvs ($1.18 in chips) 
+Seat 6: Dorex2007 ($2.90 in chips) 
+Seat 7: MC_Shamik ($2.50 in chips) 
+Seat 8: Demidov V.S. ($2.40 in chips) 
+Seat 9: k0vacs ($1.97 in chips) 
+roman777142: posts small blind $0.01
+DVP6200: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Td]
+vctrnvs has timed out
+vctrnvs: folds 
+Dorex2007: folds 
+MC_Shamik: raises $0.03 to $0.05
+Demidov V.S.: folds 
+k0vacs: folds 
+roman777142: folds 
+DVP6200: calls $0.03
+*** FLOP *** [Kd Jc 4s]
+DVP6200: checks 
+MC_Shamik: bets $0.06
+DVP6200: folds 
+Uncalled bet ($0.06) returned to MC_Shamik
+MC_Shamik collected $0.11 from pot
+MC_Shamik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Kd Jc 4s]
+Seat 2: roman777142 (small blind) folded before Flop
+Seat 3: DVP6200 (big blind) folded on the Flop
+Seat 5: vctrnvs folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik collected ($0.11)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: k0vacs (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540602238:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:08:24 PT [2021/10/11 23:08:24 ET]
+Table 'Ellicott II' 9-max Seat #2 is the button
+Seat 2: roman777142 ($2.40 in chips) 
+Seat 3: DVP6200 ($0.75 in chips) 
+Seat 5: vctrnvs ($1.18 in chips) 
+Seat 6: Dorex2007 ($2.90 in chips) 
+Seat 7: MC_Shamik ($2.56 in chips) 
+Seat 8: Demidov V.S. ($2.40 in chips) 
+Seat 9: k0vacs ($1.97 in chips) 
+DVP6200: posts small blind $0.01
+vctrnvs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 2s]
+Dorex2007: folds 
+MC_Shamik: folds 
+Demidov V.S.: folds 
+k0vacs: folds 
+roman777142: folds 
+DVP6200: folds 
+Uncalled bet ($0.01) returned to vctrnvs
+vctrnvs collected $0.02 from pot
+vctrnvs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: roman777142 (button) folded before Flop (didn't bet)
+Seat 3: DVP6200 (small blind) folded before Flop
+Seat 5: vctrnvs (big blind) collected ($0.02)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: k0vacs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540605486:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:08:43 PT [2021/10/11 23:08:43 ET]
+Table 'Ellicott II' 9-max Seat #3 is the button
+Seat 2: roman777142 ($2.40 in chips) 
+Seat 3: DVP6200 ($0.74 in chips) 
+Seat 5: vctrnvs ($1.19 in chips) 
+Seat 6: Dorex2007 ($2.90 in chips) 
+Seat 7: MC_Shamik ($2.56 in chips) 
+Seat 8: Demidov V.S. ($2.40 in chips) 
+Seat 9: k0vacs ($1.97 in chips) 
+vctrnvs: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Qd]
+MC_Shamik: calls $0.02
+Demidov V.S.: folds 
+k0vacs: folds 
+roman777142: folds 
+DVP6200: folds 
+vctrnvs: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [Kd Jc Ad]
+vctrnvs: checks 
+Dorex2007: checks 
+MC_Shamik: checks 
+*** TURN *** [Kd Jc Ad] [Qh]
+vctrnvs: checks 
+Dorex2007: checks 
+MC_Shamik: checks 
+*** RIVER *** [Kd Jc Ad Qh] [6s]
+vctrnvs: checks 
+Dorex2007: bets $0.10
+MC_Shamik: folds 
+vctrnvs: folds 
+Uncalled bet ($0.10) returned to Dorex2007
+Dorex2007 collected $0.06 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Kd Jc Ad Qh 6s]
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 3: DVP6200 (button) folded before Flop (didn't bet)
+Seat 5: vctrnvs (small blind) folded on the River
+Seat 6: Dorex2007 (big blind) collected ($0.06)
+Seat 7: MC_Shamik folded on the River
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: k0vacs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540612958:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:09:26 PT [2021/10/11 23:09:26 ET]
+Table 'Ellicott II' 9-max Seat #5 is the button
+Seat 2: roman777142 ($2.40 in chips) 
+Seat 3: DVP6200 ($0.74 in chips) 
+Seat 5: vctrnvs ($1.17 in chips) 
+Seat 6: Dorex2007 ($2.94 in chips) 
+Seat 7: MC_Shamik ($2.54 in chips) 
+Seat 8: Demidov V.S. ($2.40 in chips) 
+Seat 9: k0vacs ($1.97 in chips) 
+Dorex2007: posts small blind $0.01
+MC_Shamik: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 4d]
+Demidov V.S.: folds 
+k0vacs: raises $0.03 to $0.05
+roman777142: calls $0.05
+DVP6200: folds 
+vctrnvs: calls $0.05
+Dorex2007: folds 
+MC_Shamik: folds 
+*** FLOP *** [Jh Ac Kd]
+k0vacs: bets $0.08
+roman777142: folds 
+vctrnvs: folds 
+Uncalled bet ($0.08) returned to k0vacs
+k0vacs collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Jh Ac Kd]
+Seat 2: roman777142 folded on the Flop
+Seat 3: DVP6200 folded before Flop (didn't bet)
+Seat 5: vctrnvs (button) folded on the Flop
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: MC_Shamik (big blind) folded before Flop
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: k0vacs collected ($0.17)
+
+
+
+PokerStars Hand #230540618673:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:10:00 PT [2021/10/11 23:10:00 ET]
+Table 'Ellicott II' 9-max Seat #6 is the button
+Seat 2: roman777142 ($2.35 in chips) 
+Seat 3: DVP6200 ($0.74 in chips) 
+Seat 5: vctrnvs ($1.12 in chips) 
+Seat 6: Dorex2007 ($2.93 in chips) 
+Seat 7: MC_Shamik ($2.52 in chips) 
+Seat 8: Demidov V.S. ($2.40 in chips) 
+Seat 9: k0vacs ($2.09 in chips) 
+MC_Shamik: posts small blind $0.01
+Demidov V.S.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 3h]
+k0vacs: folds 
+roman777142: folds 
+DVP6200: folds 
+vctrnvs: folds 
+Dorex2007: folds 
+MC_Shamik: raises $0.02 to $0.04
+Demidov V.S.: folds 
+Uncalled bet ($0.02) returned to MC_Shamik
+MC_Shamik collected $0.04 from pot
+MC_Shamik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 3: DVP6200 folded before Flop (didn't bet)
+Seat 5: vctrnvs folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: MC_Shamik (small blind) collected ($0.04)
+Seat 8: Demidov V.S. (big blind) folded before Flop
+Seat 9: k0vacs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540622782:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:10:24 PT [2021/10/11 23:10:24 ET]
+Table 'Ellicott II' 9-max Seat #7 is the button
+Seat 2: roman777142 ($2.35 in chips) 
+Seat 3: DVP6200 ($0.74 in chips) 
+Seat 5: vctrnvs ($1.12 in chips) 
+Seat 6: Dorex2007 ($2.93 in chips) 
+Seat 7: MC_Shamik ($2.54 in chips) 
+Seat 8: Demidov V.S. ($2.38 in chips) 
+Seat 9: k0vacs ($2.09 in chips) 
+Demidov V.S.: posts small blind $0.01
+k0vacs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Kd]
+roman777142: folds 
+DVP6200: folds 
+vctrnvs: folds 
+Dorex2007: folds 
+MC_Shamik: raises $0.03 to $0.05
+Demidov V.S.: folds 
+k0vacs: calls $0.03
+*** FLOP *** [6d 9d Kh]
+k0vacs: checks 
+MC_Shamik: checks 
+*** TURN *** [6d 9d Kh] [9c]
+k0vacs: checks 
+MC_Shamik: checks 
+*** RIVER *** [6d 9d Kh 9c] [2h]
+k0vacs: bets $0.02
+MC_Shamik: folds 
+Uncalled bet ($0.02) returned to k0vacs
+k0vacs collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [6d 9d Kh 9c 2h]
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 3: DVP6200 folded before Flop (didn't bet)
+Seat 5: vctrnvs folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik (button) folded on the River
+Seat 8: Demidov V.S. (small blind) folded before Flop
+Seat 9: k0vacs (big blind) collected ($0.11)
+
+
+
+PokerStars Hand #230540629677:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:11:04 PT [2021/10/11 23:11:04 ET]
+Table 'Ellicott II' 9-max Seat #8 is the button
+Seat 2: roman777142 ($2.35 in chips) 
+Seat 3: DVP6200 ($0.74 in chips) 
+Seat 5: vctrnvs ($1.12 in chips) 
+Seat 6: Dorex2007 ($2.93 in chips) 
+Seat 7: MC_Shamik ($2.49 in chips) 
+Seat 8: Demidov V.S. ($2.37 in chips) 
+Seat 9: k0vacs ($2.15 in chips) 
+k0vacs: posts small blind $0.01
+roman777142: posts big blind $0.02
+vasmit: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 2h]
+DVP6200: folds 
+vctrnvs: folds 
+Dorex2007: folds 
+MC_Shamik: raises $0.03 to $0.05
+Demidov V.S.: folds 
+k0vacs: folds 
+roman777142: calls $0.03
+*** FLOP *** [7s Kh Ad]
+roman777142: checks 
+MC_Shamik: checks 
+*** TURN *** [7s Kh Ad] [5s]
+roman777142: checks 
+MC_Shamik: checks 
+*** RIVER *** [7s Kh Ad 5s] [9d]
+roman777142: checks 
+MC_Shamik: checks 
+*** SHOW DOWN ***
+roman777142: shows [Qh Jd] (high card Ace)
+MC_Shamik: mucks hand 
+roman777142 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [7s Kh Ad 5s 9d]
+Seat 2: roman777142 (big blind) showed [Qh Jd] and won ($0.11) with high card Ace
+Seat 3: DVP6200 folded before Flop (didn't bet)
+Seat 5: vctrnvs folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik mucked [Qc Ts]
+Seat 8: Demidov V.S. (button) folded before Flop (didn't bet)
+Seat 9: k0vacs (small blind) folded before Flop
+
+
+
+PokerStars Hand #230540637052:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:11:48 PT [2021/10/11 23:11:48 ET]
+Table 'Ellicott II' 9-max Seat #9 is the button
+Seat 2: roman777142 ($2.41 in chips) 
+Seat 3: DVP6200 ($0.74 in chips) 
+Seat 5: vctrnvs ($1.12 in chips) 
+Seat 6: Dorex2007 ($2.93 in chips) 
+Seat 7: MC_Shamik ($2.44 in chips) 
+Seat 8: Demidov V.S. ($2.37 in chips) 
+Seat 9: k0vacs ($2.14 in chips) 
+roman777142: posts small blind $0.01
+DVP6200: posts big blind $0.02
+vasmit: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Ac]
+vctrnvs: folds 
+Dorex2007: raises $0.02 to $0.04
+MC_Shamik: folds 
+Demidov V.S.: folds 
+k0vacs: folds 
+roman777142: folds 
+DVP6200: calls $0.02
+*** FLOP *** [Th 3d 6s]
+DVP6200: checks 
+Dorex2007: checks 
+*** TURN *** [Th 3d 6s] [9s]
+DVP6200: checks 
+Dorex2007: checks 
+*** RIVER *** [Th 3d 6s 9s] [Ad]
+DVP6200: bets $0.02
+Dorex2007: raises $0.09 to $0.11
+DVP6200: calls $0.09
+*** SHOW DOWN ***
+Dorex2007: shows [Kd Ac] (a pair of Aces)
+DVP6200: mucks hand 
+Dorex2007 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Th 3d 6s 9s Ad]
+Seat 2: roman777142 (small blind) folded before Flop
+Seat 3: DVP6200 (big blind) mucked [Ah 7s]
+Seat 5: vctrnvs folded before Flop (didn't bet)
+Seat 6: Dorex2007 showed [Kd Ac] and won ($0.30) with a pair of Aces
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: k0vacs (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540644444:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:12:32 PT [2021/10/11 23:12:32 ET]
+Table 'Ellicott II' 9-max Seat #2 is the button
+Seat 2: roman777142 ($2.40 in chips) 
+Seat 3: DVP6200 ($0.59 in chips) 
+Seat 5: vctrnvs ($1.12 in chips) 
+Seat 6: Dorex2007 ($3.08 in chips) 
+Seat 7: MC_Shamik ($2.44 in chips) 
+Seat 8: Demidov V.S. ($2.37 in chips) 
+Seat 9: k0vacs ($2.14 in chips) 
+DVP6200: posts small blind $0.01
+vctrnvs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 8s]
+Dorex2007: folds 
+MC_Shamik: folds 
+Demidov V.S.: folds 
+k0vacs: folds 
+roman777142: folds 
+DVP6200: folds 
+Uncalled bet ($0.01) returned to vctrnvs
+vctrnvs collected $0.02 from pot
+vasmit leaves the table
+vctrnvs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: roman777142 (button) folded before Flop (didn't bet)
+Seat 3: DVP6200 (small blind) folded before Flop
+Seat 5: vctrnvs (big blind) collected ($0.02)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: k0vacs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540647143:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:12:47 PT [2021/10/11 23:12:47 ET]
+Table 'Ellicott II' 9-max Seat #3 is the button
+Seat 2: roman777142 ($2.40 in chips) 
+Seat 3: DVP6200 ($0.58 in chips) 
+Seat 5: vctrnvs ($1.13 in chips) 
+Seat 6: Dorex2007 ($3.08 in chips) 
+Seat 7: MC_Shamik ($2.44 in chips) 
+Seat 8: Demidov V.S. ($2.37 in chips) 
+Seat 9: k0vacs ($2.14 in chips) 
+vctrnvs: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Ah]
+MC_Shamik: folds 
+Demidov V.S.: folds 
+k0vacs: folds 
+roman777142: folds 
+DVP6200: folds 
+vctrnvs: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [Qc Jd 5h]
+vctrnvs: checks 
+Dorex2007: checks 
+*** TURN *** [Qc Jd 5h] [7d]
+vctrnvs: checks 
+Dorex2007: checks 
+*** RIVER *** [Qc Jd 5h 7d] [5d]
+vctrnvs: bets $0.04
+Vini_doid leaves the table
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to vctrnvs
+vctrnvs collected $0.04 from pot
+vctrnvs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Qc Jd 5h 7d 5d]
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 3: DVP6200 (button) folded before Flop (didn't bet)
+Seat 5: vctrnvs (small blind) collected ($0.04)
+Seat 6: Dorex2007 (big blind) folded on the River
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: k0vacs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540658182:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:13:52 PT [2021/10/11 23:13:52 ET]
+Table 'Ellicott II' 9-max Seat #5 is the button
+Seat 2: roman777142 ($2.40 in chips) 
+Seat 3: DVP6200 ($0.58 in chips) 
+Seat 5: vctrnvs ($1.15 in chips) 
+Seat 6: Dorex2007 ($3.06 in chips) 
+Seat 7: MC_Shamik ($2.44 in chips) 
+Seat 8: Demidov V.S. ($2.37 in chips) 
+Seat 9: k0vacs ($2.14 in chips) 
+Dorex2007: posts small blind $0.01
+MC_Shamik: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 5s]
+Demidov V.S.: folds 
+k0vacs: folds 
+roman777142: calls $0.02
+DVP6200: folds 
+vctrnvs: calls $0.02
+Dorex2007: folds 
+MC_Shamik: checks 
+*** FLOP *** [7c 5d Tc]
+guto81 joins the table at seat #1 
+MC_Shamik: checks 
+roman777142: checks 
+vctrnvs: checks 
+*** TURN *** [7c 5d Tc] [Qd]
+MC_Shamik: checks 
+Jdawglet joins the table at seat #4 
+roman777142: checks 
+vctrnvs: checks 
+*** RIVER *** [7c 5d Tc Qd] [Jd]
+Jdawglet leaves the table
+MC_Shamik: checks 
+roman777142: bets $0.02
+vctrnvs: raises $0.06 to $0.08
+MC_Shamik: folds 
+roman777142: folds 
+Uncalled bet ($0.06) returned to vctrnvs
+vctrnvs collected $0.11 from pot
+vctrnvs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [7c 5d Tc Qd Jd]
+Seat 2: roman777142 folded on the River
+Seat 3: DVP6200 folded before Flop (didn't bet)
+Seat 5: vctrnvs (button) collected ($0.11)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: MC_Shamik (big blind) folded on the River
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: k0vacs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540667580:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:14:49 PT [2021/10/11 23:14:49 ET]
+Table 'Ellicott II' 9-max Seat #6 is the button
+Seat 2: roman777142 ($2.36 in chips) 
+Seat 3: DVP6200 ($0.58 in chips) 
+Seat 5: vctrnvs ($1.22 in chips) 
+Seat 6: Dorex2007 ($3.05 in chips) 
+Seat 7: MC_Shamik ($2.42 in chips) 
+Seat 8: Demidov V.S. ($2.37 in chips) 
+Seat 9: k0vacs ($2.14 in chips) 
+MC_Shamik: posts small blind $0.01
+Demidov V.S.: posts big blind $0.02
+guto81: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 8c]
+shom1972 joins the table at seat #4 
+k0vacs: folds 
+roman777142: folds 
+DVP6200: folds 
+vctrnvs: folds 
+Dorex2007: raises $0.04 to $0.06
+MC_Shamik: folds 
+Demidov V.S.: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 3: DVP6200 folded before Flop (didn't bet)
+Seat 5: vctrnvs folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) collected ($0.05)
+Seat 7: MC_Shamik (small blind) folded before Flop
+Seat 8: Demidov V.S. (big blind) folded before Flop
+Seat 9: k0vacs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540672073:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:15:16 PT [2021/10/11 23:15:16 ET]
+Table 'Ellicott II' 9-max Seat #7 is the button
+Seat 2: roman777142 ($2.36 in chips) 
+Seat 3: DVP6200 ($0.58 in chips) 
+Seat 4: shom1972 ($0.80 in chips) 
+Seat 5: vctrnvs ($1.22 in chips) 
+Seat 6: Dorex2007 ($3.08 in chips) 
+Seat 7: MC_Shamik ($2.41 in chips) 
+Seat 8: Demidov V.S. ($2.35 in chips) 
+Seat 9: k0vacs ($2.14 in chips) 
+Demidov V.S.: posts small blind $0.01
+k0vacs: posts big blind $0.02
+guto81: sits out 
+shom1972: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Ad]
+roman777142: folds 
+DVP6200: folds 
+shom1972: checks 
+vctrnvs: calls $0.02
+Dorex2007: folds 
+MC_Shamik: folds 
+Demidov V.S.: folds 
+k0vacs: checks 
+*** FLOP *** [7s Tc 9s]
+k0vacs: checks 
+shom1972: bets $0.02
+vctrnvs: calls $0.02
+k0vacs: calls $0.02
+*** TURN *** [7s Tc 9s] [5c]
+k0vacs: checks 
+shom1972: bets $0.02
+vctrnvs: calls $0.02
+k0vacs: calls $0.02
+*** RIVER *** [7s Tc 9s 5c] [7c]
+k0vacs: checks 
+shom1972: bets $0.02
+vctrnvs: folds 
+k0vacs: folds 
+Uncalled bet ($0.02) returned to shom1972
+shom1972 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [7s Tc 9s 5c 7c]
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 3: DVP6200 folded before Flop (didn't bet)
+Seat 4: shom1972 collected ($0.18)
+Seat 5: vctrnvs folded on the River
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik (button) folded before Flop (didn't bet)
+Seat 8: Demidov V.S. (small blind) folded before Flop
+Seat 9: k0vacs (big blind) folded on the River
+
+
+
+PokerStars Hand #230540680717:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:16:07 PT [2021/10/11 23:16:07 ET]
+Table 'Ellicott II' 9-max Seat #8 is the button
+Seat 1: guto81 ($2 in chips) 
+Seat 2: roman777142 ($2.36 in chips) 
+Seat 3: DVP6200 ($0.58 in chips) 
+Seat 4: shom1972 ($0.92 in chips) 
+Seat 5: vctrnvs ($1.16 in chips) 
+Seat 6: Dorex2007 ($3.08 in chips) 
+Seat 7: MC_Shamik ($2.41 in chips) 
+Seat 8: Demidov V.S. ($2.34 in chips) 
+Seat 9: k0vacs ($2.08 in chips) 
+k0vacs: posts small blind $0.01
+guto81: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 6d]
+roman777142: folds 
+DVP6200: folds 
+shom1972: calls $0.02
+vctrnvs: calls $0.02
+Dorex2007: folds 
+MC_Shamik: folds 
+Demidov V.S.: folds 
+k0vacs: folds 
+guto81: checks 
+*** FLOP *** [Ad 6c Qc]
+guto81: checks 
+shom1972: bets $0.02
+vctrnvs: raises $0.06 to $0.08
+guto81: folds 
+shom1972: folds 
+Uncalled bet ($0.06) returned to vctrnvs
+vctrnvs collected $0.11 from pot
+vctrnvs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Ad 6c Qc]
+Seat 1: guto81 (big blind) folded on the Flop
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 3: DVP6200 folded before Flop (didn't bet)
+Seat 4: shom1972 folded on the Flop
+Seat 5: vctrnvs collected ($0.11)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. (button) folded before Flop (didn't bet)
+Seat 9: k0vacs (small blind) folded before Flop
+
+
+
+PokerStars Hand #230540687679:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:16:49 PT [2021/10/11 23:16:49 ET]
+Table 'Ellicott II' 9-max Seat #9 is the button
+Seat 1: guto81 ($1.98 in chips) 
+Seat 2: roman777142 ($2.36 in chips) 
+Seat 3: DVP6200 ($0.58 in chips) 
+Seat 4: shom1972 ($0.88 in chips) 
+Seat 5: vctrnvs ($1.23 in chips) 
+Seat 6: Dorex2007 ($3.08 in chips) 
+Seat 7: MC_Shamik ($2.41 in chips) 
+Seat 8: Demidov V.S. ($2.34 in chips) 
+Seat 9: k0vacs ($2.07 in chips) 
+guto81: posts small blind $0.01
+roman777142: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 2h]
+DVP6200: folds 
+shom1972: calls $0.02
+vctrnvs: calls $0.02
+Dorex2007: folds 
+MC_Shamik: folds 
+Demidov V.S.: folds 
+k0vacs: folds 
+guto81: raises $0.06 to $0.08
+roman777142: folds 
+MC_Shamik leaves the table
+shom1972: folds 
+vctrnvs: calls $0.06
+*** FLOP *** [Td 6d 8d]
+fujiyoto joins the table at seat #7 
+guto81: checks 
+vctrnvs: bets $0.10
+guto81: folds 
+Uncalled bet ($0.10) returned to vctrnvs
+vctrnvs collected $0.19 from pot
+vctrnvs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Td 6d 8d]
+Seat 1: guto81 (small blind) folded on the Flop
+Seat 2: roman777142 (big blind) folded before Flop
+Seat 3: DVP6200 folded before Flop (didn't bet)
+Seat 4: shom1972 folded before Flop
+Seat 5: vctrnvs collected ($0.19)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: MC_Shamik folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: k0vacs (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540697470:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:17:47 PT [2021/10/11 23:17:47 ET]
+Table 'Ellicott II' 9-max Seat #1 is the button
+Seat 1: guto81 ($1.90 in chips) 
+Seat 2: roman777142 ($2.34 in chips) 
+Seat 3: DVP6200 ($0.58 in chips) 
+Seat 4: shom1972 ($0.86 in chips) 
+Seat 5: vctrnvs ($1.34 in chips) 
+Seat 6: Dorex2007 ($3.08 in chips) 
+Seat 8: Demidov V.S. ($2.34 in chips) 
+Seat 9: k0vacs ($2.07 in chips) 
+roman777142: posts small blind $0.01
+DVP6200: posts big blind $0.02
+fujiyoto: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Jd]
+shom1972: folds 
+vctrnvs: calls $0.02
+Dorex2007: raises $0.04 to $0.06
+Demidov V.S.: folds 
+k0vacs: folds 
+guto81: folds 
+roman777142: folds 
+DVP6200: folds 
+vctrnvs: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.07 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: guto81 (button) folded before Flop (didn't bet)
+Seat 2: roman777142 (small blind) folded before Flop
+Seat 3: DVP6200 (big blind) folded before Flop
+Seat 4: shom1972 folded before Flop (didn't bet)
+Seat 5: vctrnvs folded before Flop
+Seat 6: Dorex2007 collected ($0.07)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: k0vacs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540702441:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:18:17 PT [2021/10/11 23:18:17 ET]
+Table 'Ellicott II' 9-max Seat #2 is the button
+Seat 1: guto81 ($1.90 in chips) 
+Seat 2: roman777142 ($2.33 in chips) 
+Seat 3: DVP6200 ($0.56 in chips) 
+Seat 4: shom1972 ($0.86 in chips) 
+Seat 5: vctrnvs ($1.32 in chips) 
+Seat 6: Dorex2007 ($3.13 in chips) 
+Seat 8: Demidov V.S. ($2.34 in chips) 
+Seat 9: k0vacs ($2.07 in chips) 
+DVP6200: posts small blind $0.01
+shom1972: posts big blind $0.02
+fujiyoto: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Tc]
+vctrnvs: folds 
+Dorex2007: folds 
+Demidov V.S.: folds 
+k0vacs: folds 
+guto81: folds 
+roman777142: calls $0.02
+DVP6200: raises $0.06 to $0.08
+shom1972: folds 
+roman777142: folds 
+Uncalled bet ($0.06) returned to DVP6200
+DVP6200 collected $0.06 from pot
+DVP6200: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: guto81 folded before Flop (didn't bet)
+Seat 2: roman777142 (button) folded before Flop
+Seat 3: DVP6200 (small blind) collected ($0.06)
+Seat 4: shom1972 (big blind) folded before Flop
+Seat 5: vctrnvs folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: k0vacs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540707740:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:18:49 PT [2021/10/11 23:18:49 ET]
+Table 'Ellicott II' 9-max Seat #3 is the button
+Seat 1: guto81 ($1.90 in chips) 
+Seat 2: roman777142 ($2.31 in chips) 
+Seat 3: DVP6200 ($0.60 in chips) 
+Seat 4: shom1972 ($0.84 in chips) 
+Seat 5: vctrnvs ($1.32 in chips) 
+Seat 6: Dorex2007 ($3.13 in chips) 
+Seat 8: Demidov V.S. ($2.34 in chips) 
+Seat 9: k0vacs ($2.07 in chips) 
+shom1972: posts small blind $0.01
+vctrnvs: posts big blind $0.02
+fujiyoto: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Kh]
+Dorex2007: folds 
+Demidov V.S.: folds 
+k0vacs: calls $0.02
+guto81: raises $0.04 to $0.06
+roman777142: calls $0.06
+DVP6200: folds 
+shom1972: calls $0.05
+DVP6200 leaves the table
+vctrnvs: folds 
+k0vacs: calls $0.04
+*** FLOP *** [3h 7h 2c]
+shom1972: checks 
+k0vacs: checks 
+guto81: bets $0.12
+roman777142: folds 
+shom1972: folds 
+k0vacs: calls $0.12
+*** TURN *** [3h 7h 2c] [2s]
+k0vacs: checks 
+guto81: bets $0.24
+k0vacs: folds 
+Uncalled bet ($0.24) returned to guto81
+guto81 collected $0.48 from pot
+guto81: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [3h 7h 2c 2s]
+Seat 1: guto81 collected ($0.48)
+Seat 2: roman777142 folded on the Flop
+Seat 3: DVP6200 (button) folded before Flop (didn't bet)
+Seat 4: shom1972 (small blind) folded on the Flop
+Seat 5: vctrnvs (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: k0vacs folded on the Turn
+
+
+
+PokerStars Hand #230540722776:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:19:43 PT [2021/10/11 23:19:43 ET]
+Table 'Ellicott II' 9-max Seat #4 is the button
+Seat 1: guto81 ($2.20 in chips) 
+Seat 2: roman777142 ($2.25 in chips) 
+Seat 4: shom1972 ($0.78 in chips) 
+Seat 5: vctrnvs ($1.30 in chips) 
+Seat 6: Dorex2007 ($3.13 in chips) 
+Seat 8: Demidov V.S. ($2.34 in chips) 
+Seat 9: k0vacs ($1.89 in chips) 
+vctrnvs: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+fujiyoto: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 9h]
+Demidov V.S.: folds 
+k0vacs: folds 
+guto81: folds 
+roman777142: folds 
+shom1972: calls $0.02
+crescendo34 joins the table at seat #3 
+vctrnvs: raises $0.06 to $0.08
+Dorex2007: folds 
+shom1972: calls $0.06
+*** FLOP *** [Qh Ks 4s]
+vctrnvs: checks 
+shom1972: checks 
+*** TURN *** [Qh Ks 4s] [3d]
+vctrnvs: bets $0.10
+shom1972: folds 
+Uncalled bet ($0.10) returned to vctrnvs
+vctrnvs collected $0.17 from pot
+vctrnvs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Qh Ks 4s 3d]
+Seat 1: guto81 folded before Flop (didn't bet)
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 4: shom1972 (button) folded on the Turn
+Seat 5: vctrnvs (small blind) collected ($0.17)
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: k0vacs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540728847:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:20:19 PT [2021/10/11 23:20:19 ET]
+Table 'Ellicott II' 9-max Seat #5 is the button
+Seat 1: guto81 ($2.20 in chips) 
+Seat 2: roman777142 ($2.25 in chips) 
+Seat 4: shom1972 ($0.70 in chips) 
+Seat 5: vctrnvs ($1.39 in chips) 
+Seat 6: Dorex2007 ($3.11 in chips) 
+Seat 7: fujiyoto ($2 in chips) 
+Seat 8: Demidov V.S. ($2.34 in chips) 
+Seat 9: k0vacs ($1.89 in chips) 
+Dorex2007: posts small blind $0.01
+fujiyoto: posts big blind $0.02
+crescendo34: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 4d]
+Demidov V.S.: folds 
+k0vacs: folds 
+guto81: folds 
+roman777142: folds 
+shom1972: folds 
+vctrnvs: calls $0.02
+Dorex2007: folds 
+fujiyoto: checks 
+*** FLOP *** [Qh Ah Qd]
+fujiyoto: checks 
+vctrnvs: checks 
+*** TURN *** [Qh Ah Qd] [2h]
+fujiyoto: checks 
+vctrnvs: checks 
+*** RIVER *** [Qh Ah Qd 2h] [Jc]
+fujiyoto: checks 
+vctrnvs: checks 
+*** SHOW DOWN ***
+fujiyoto: shows [3c 8s] (a pair of Queens)
+vctrnvs: mucks hand 
+fujiyoto collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qh Ah Qd 2h Jc]
+Seat 1: guto81 folded before Flop (didn't bet)
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 4: shom1972 folded before Flop (didn't bet)
+Seat 5: vctrnvs (button) mucked [5h 3d]
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: fujiyoto (big blind) showed [3c 8s] and won ($0.05) with a pair of Queens
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: k0vacs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540739383:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:21:23 PT [2021/10/11 23:21:23 ET]
+Table 'Ellicott II' 9-max Seat #6 is the button
+Seat 1: guto81 ($2.20 in chips) 
+Seat 2: roman777142 ($2.25 in chips) 
+Seat 4: shom1972 ($0.70 in chips) 
+Seat 5: vctrnvs ($1.37 in chips) 
+Seat 6: Dorex2007 ($3.10 in chips) 
+Seat 7: fujiyoto ($2.03 in chips) 
+Seat 9: k0vacs ($1.89 in chips) 
+fujiyoto: posts small blind $0.01
+k0vacs: posts big blind $0.02
+crescendo34: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Qd]
+guto81: raises $0.04 to $0.06
+roman777142: calls $0.06
+shom1972: folds 
+vctrnvs: folds 
+Dorex2007: folds 
+fujiyoto: folds 
+k0vacs: calls $0.04
+*** FLOP *** [6c 8d 4s]
+k0vacs: checks 
+guto81: bets $0.10
+roman777142: folds 
+k0vacs: folds 
+Uncalled bet ($0.10) returned to guto81
+guto81 collected $0.18 from pot
+guto81: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [6c 8d 4s]
+Seat 1: guto81 collected ($0.18)
+Seat 2: roman777142 folded on the Flop
+Seat 4: shom1972 folded before Flop (didn't bet)
+Seat 5: vctrnvs folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: fujiyoto (small blind) folded before Flop
+Seat 9: k0vacs (big blind) folded on the Flop
+
+
+
+PokerStars Hand #230540745260:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:21:58 PT [2021/10/11 23:21:58 ET]
+Table 'Ellicott II' 9-max Seat #7 is the button
+Seat 1: guto81 ($2.32 in chips) 
+Seat 2: roman777142 ($2.19 in chips) 
+Seat 4: shom1972 ($0.70 in chips) 
+Seat 5: vctrnvs ($1.37 in chips) 
+Seat 6: Dorex2007 ($3.10 in chips) 
+Seat 7: fujiyoto ($2.02 in chips) 
+Seat 9: k0vacs ($1.83 in chips) 
+k0vacs: posts small blind $0.01
+guto81: posts big blind $0.02
+crescendo34: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Qh]
+roman777142: folds 
+shom1972: calls $0.02
+vctrnvs: folds 
+Dorex2007: folds 
+fujiyoto: folds 
+k0vacs: calls $0.01
+guto81: checks 
+*** FLOP *** [7c 6c Ks]
+k0vacs: checks 
+guto81: checks 
+shom1972: checks 
+*** TURN *** [7c 6c Ks] [8h]
+k0vacs: checks 
+guto81: checks 
+shom1972: bets $0.02
+k0vacs: folds 
+guto81: calls $0.02
+*** RIVER *** [7c 6c Ks 8h] [7d]
+guto81: checks 
+shom1972: bets $0.04
+guto81: folds 
+Uncalled bet ($0.04) returned to shom1972
+shom1972 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [7c 6c Ks 8h 7d]
+Seat 1: guto81 (big blind) folded on the River
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 4: shom1972 collected ($0.10)
+Seat 5: vctrnvs folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fujiyoto (button) folded before Flop (didn't bet)
+Seat 9: k0vacs (small blind) folded on the Turn
+
+
+
+PokerStars Hand #230540755406:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:22:58 PT [2021/10/11 23:22:58 ET]
+Table 'Ellicott II' 9-max Seat #9 is the button
+Seat 1: guto81 ($2.28 in chips) 
+Seat 2: roman777142 ($2.19 in chips) 
+Seat 4: shom1972 ($0.76 in chips) 
+Seat 5: vctrnvs ($1.37 in chips) 
+Seat 6: Dorex2007 ($3.10 in chips) 
+Seat 7: fujiyoto ($2.02 in chips) 
+Seat 8: Demidov V.S. ($2.34 in chips) 
+Seat 9: k0vacs ($1.81 in chips) 
+guto81: posts small blind $0.01
+roman777142: posts big blind $0.02
+crescendo34: sits out 
+Demidov V.S.: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 2d]
+crescendo34 leaves the table
+shom1972: calls $0.02
+vctrnvs: calls $0.02
+Dorex2007: folds 
+sofaking1973 joins the table at seat #3 
+fujiyoto: calls $0.02
+Demidov V.S.: checks 
+k0vacs: calls $0.02
+guto81: calls $0.01
+roman777142: checks 
+*** FLOP *** [4s 5h Jd]
+guto81: checks 
+roman777142: checks 
+shom1972: checks 
+vctrnvs: checks 
+fujiyoto: checks 
+Demidov V.S.: checks 
+k0vacs: bets $0.10
+guto81: folds 
+roman777142: folds 
+shom1972: folds 
+vctrnvs: folds 
+fujiyoto: calls $0.10
+Demidov V.S.: folds 
+*** TURN *** [4s 5h Jd] [Qc]
+fujiyoto: checks 
+k0vacs: checks 
+*** RIVER *** [4s 5h Jd Qc] [6h]
+fujiyoto: checks 
+k0vacs: bets $0.06
+fujiyoto: calls $0.06
+*** SHOW DOWN ***
+k0vacs: shows [Ks Jc] (a pair of Jacks)
+fujiyoto: mucks hand 
+k0vacs collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [4s 5h Jd Qc 6h]
+Seat 1: guto81 (small blind) folded on the Flop
+Seat 2: roman777142 (big blind) folded on the Flop
+Seat 4: shom1972 folded on the Flop
+Seat 5: vctrnvs folded on the Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fujiyoto mucked [6s 7s]
+Seat 8: Demidov V.S. folded on the Flop (didn't bet)
+Seat 9: k0vacs (button) showed [Ks Jc] and won ($0.45) with a pair of Jacks
+
+
+
+PokerStars Hand #230540781935:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:24:37 PT [2021/10/11 23:24:37 ET]
+Table 'Ellicott II' 9-max Seat #1 is the button
+Seat 1: guto81 ($2.26 in chips) 
+Seat 2: roman777142 ($2.17 in chips) 
+Seat 3: sofaking1973 ($2 in chips) 
+Seat 4: shom1972 ($0.74 in chips) 
+Seat 5: vctrnvs ($1.35 in chips) 
+Seat 6: Dorex2007 ($3.10 in chips) 
+Seat 7: fujiyoto ($2 in chips) 
+Seat 8: Demidov V.S. ($2.31 in chips) 
+Seat 9: k0vacs ($2.08 in chips) 
+roman777142: posts small blind $0.01
+sofaking1973: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c As]
+shom1972: calls $0.02
+vctrnvs: folds 
+Dorex2007: folds 
+fujiyoto: folds 
+Demidov V.S.: raises $0.07 to $0.09
+k0vacs: folds 
+guto81: folds 
+roman777142: calls $0.08
+sofaking1973: folds 
+shom1972: calls $0.07
+*** FLOP *** [7d Js 2s]
+roman777142: checks 
+shom1972: checks 
+Demidov V.S.: bets $0.21
+roman777142: folds 
+shom1972: folds 
+Uncalled bet ($0.21) returned to Demidov V.S.
+Demidov V.S. collected $0.28 from pot
+Demidov V.S.: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [7d Js 2s]
+Seat 1: guto81 (button) folded before Flop (didn't bet)
+Seat 2: roman777142 (small blind) folded on the Flop
+Seat 3: sofaking1973 (big blind) folded before Flop
+Seat 4: shom1972 folded on the Flop
+Seat 5: vctrnvs folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fujiyoto folded before Flop (didn't bet)
+Seat 8: Demidov V.S. collected ($0.28)
+Seat 9: k0vacs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540790029:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:25:25 PT [2021/10/11 23:25:25 ET]
+Table 'Ellicott II' 9-max Seat #2 is the button
+Seat 1: guto81 ($2.26 in chips) 
+Seat 2: roman777142 ($2.08 in chips) 
+Seat 3: sofaking1973 ($1.98 in chips) 
+Seat 4: shom1972 ($0.65 in chips) 
+Seat 5: vctrnvs ($1.35 in chips) 
+Seat 6: Dorex2007 ($3.10 in chips) 
+Seat 7: fujiyoto ($2 in chips) 
+Seat 8: Demidov V.S. ($2.50 in chips) 
+Seat 9: k0vacs ($2.08 in chips) 
+sofaking1973: posts small blind $0.01
+shom1972: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Qc]
+vctrnvs: folds 
+Dorex2007: raises $0.04 to $0.06
+fujiyoto: folds 
+Demidov V.S.: folds 
+k0vacs: folds 
+guto81: folds 
+roman777142: folds 
+sofaking1973: folds 
+shom1972: calls $0.04
+*** FLOP *** [Td 9d 3h]
+shom1972: checks 
+Dorex2007: bets $0.07
+shom1972: folds 
+Uncalled bet ($0.07) returned to Dorex2007
+Dorex2007 collected $0.13 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Td 9d 3h]
+Seat 1: guto81 folded before Flop (didn't bet)
+Seat 2: roman777142 (button) folded before Flop (didn't bet)
+Seat 3: sofaking1973 (small blind) folded before Flop
+Seat 4: shom1972 (big blind) folded on the Flop
+Seat 5: vctrnvs folded before Flop (didn't bet)
+Seat 6: Dorex2007 collected ($0.13)
+Seat 7: fujiyoto folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: k0vacs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540796588:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:26:04 PT [2021/10/11 23:26:04 ET]
+Table 'Ellicott II' 9-max Seat #3 is the button
+Seat 1: guto81 ($2.26 in chips) 
+Seat 2: roman777142 ($2.08 in chips) 
+Seat 3: sofaking1973 ($1.97 in chips) 
+Seat 4: shom1972 ($0.59 in chips) 
+Seat 5: vctrnvs ($1.35 in chips) 
+Seat 6: Dorex2007 ($3.17 in chips) 
+Seat 7: fujiyoto ($2 in chips) 
+Seat 8: Demidov V.S. ($2.50 in chips) 
+Seat 9: k0vacs ($2.08 in chips) 
+shom1972: posts small blind $0.01
+vctrnvs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 3d]
+Dorex2007: calls $0.02
+fujiyoto: folds 
+Demidov V.S.: folds 
+k0vacs: folds 
+guto81: raises $0.02 to $0.04
+roman777142: calls $0.04
+sofaking1973: calls $0.04
+shom1972: folds 
+vctrnvs: folds 
+Dorex2007: folds 
+*** FLOP *** [9s 8c 8h]
+guto81: checks 
+roman777142: checks 
+sofaking1973: checks 
+*** TURN *** [9s 8c 8h] [9h]
+guto81: checks 
+roman777142: checks 
+sofaking1973: bets $0.02
+guto81: calls $0.02
+roman777142: calls $0.02
+*** RIVER *** [9s 8c 8h 9h] [Qd]
+guto81: checks 
+roman777142: checks 
+sofaking1973: bets $0.06
+guto81: calls $0.06
+roman777142: folds 
+*** SHOW DOWN ***
+sofaking1973: shows [Ts 9c] (a full house, Nines full of Eights)
+guto81: mucks hand 
+sofaking1973 collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [9s 8c 8h 9h Qd]
+Seat 1: guto81 mucked [Tc Qh]
+Seat 2: roman777142 folded on the River
+Seat 3: sofaking1973 (button) showed [Ts 9c] and won ($0.34) with a full house, Nines full of Eights
+Seat 4: shom1972 (small blind) folded before Flop
+Seat 5: vctrnvs (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop
+Seat 7: fujiyoto folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: k0vacs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540810416:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:27:26 PT [2021/10/11 23:27:26 ET]
+Table 'Ellicott II' 9-max Seat #4 is the button
+Seat 1: guto81 ($2.14 in chips) 
+Seat 2: roman777142 ($2.02 in chips) 
+Seat 3: sofaking1973 ($2.19 in chips) 
+Seat 4: shom1972 ($0.58 in chips) 
+Seat 5: vctrnvs ($1.33 in chips) 
+Seat 6: Dorex2007 ($3.15 in chips) 
+Seat 7: fujiyoto ($2 in chips) 
+Seat 8: Demidov V.S. ($2.50 in chips) 
+Seat 9: k0vacs ($2.08 in chips) 
+vctrnvs: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Th]
+fujiyoto: raises $0.04 to $0.06
+Demidov V.S.: folds 
+k0vacs: folds 
+guto81: folds 
+roman777142: folds 
+sofaking1973: folds 
+shom1972: folds 
+vctrnvs: raises $0.04 to $0.10
+Dorex2007: folds 
+fujiyoto: calls $0.04
+*** FLOP *** [9s 3c Ac]
+vctrnvs: checks 
+fujiyoto: bets $0.11
+vctrnvs: calls $0.11
+*** TURN *** [9s 3c Ac] [5d]
+vctrnvs: checks 
+fujiyoto: bets $0.21
+vctrnvs: calls $0.21
+*** RIVER *** [9s 3c Ac 5d] [7s]
+vctrnvs: checks 
+fujiyoto: checks 
+*** SHOW DOWN ***
+vctrnvs: shows [Kc Ad] (a pair of Aces)
+fujiyoto: mucks hand 
+vctrnvs collected $0.83 from pot
+*** SUMMARY ***
+Total pot $0.86 | Rake $0.03 
+Board [9s 3c Ac 5d 7s]
+Seat 1: guto81 folded before Flop (didn't bet)
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 3: sofaking1973 folded before Flop (didn't bet)
+Seat 4: shom1972 (button) folded before Flop (didn't bet)
+Seat 5: vctrnvs (small blind) showed [Kc Ad] and won ($0.83) with a pair of Aces
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: fujiyoto mucked [9c 8c]
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: k0vacs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540822773:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:28:41 PT [2021/10/11 23:28:41 ET]
+Table 'Ellicott II' 9-max Seat #5 is the button
+Seat 1: guto81 ($2.14 in chips) 
+Seat 2: roman777142 ($2.02 in chips) 
+Seat 3: sofaking1973 ($2.19 in chips) 
+Seat 4: shom1972 ($0.58 in chips) 
+Seat 5: vctrnvs ($1.74 in chips) 
+Seat 6: Dorex2007 ($3.13 in chips) 
+Seat 7: fujiyoto ($2 in chips) 
+Seat 8: Demidov V.S. ($2.50 in chips) 
+Seat 9: k0vacs ($2.08 in chips) 
+Dorex2007: posts small blind $0.01
+fujiyoto: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 4d]
+Demidov V.S.: folds 
+k0vacs: folds 
+guto81: folds 
+roman777142: calls $0.02
+sofaking1973: calls $0.02
+shom1972: folds 
+vctrnvs: folds 
+Dorex2007: calls $0.01
+fujiyoto: checks 
+*** FLOP *** [9s Qs 2h]
+Dorex2007: checks 
+fujiyoto: checks 
+roman777142: checks 
+sofaking1973: checks 
+*** TURN *** [9s Qs 2h] [3h]
+Dorex2007: checks 
+fujiyoto: checks 
+roman777142: checks 
+sofaking1973: checks 
+*** RIVER *** [9s Qs 2h 3h] [Kd]
+Dorex2007: checks 
+fujiyoto: checks 
+roman777142: checks 
+sofaking1973: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [7d 4d] (high card King)
+fujiyoto: shows [2d 6c] (a pair of Deuces)
+roman777142: shows [5s 2s] (a pair of Deuces)
+sofaking1973: mucks hand 
+fujiyoto collected $0.04 from pot
+roman777142 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [9s Qs 2h 3h Kd]
+Seat 1: guto81 folded before Flop (didn't bet)
+Seat 2: roman777142 showed [5s 2s] and won ($0.04) with a pair of Deuces
+Seat 3: sofaking1973 mucked [8s 7s]
+Seat 4: shom1972 folded before Flop (didn't bet)
+Seat 5: vctrnvs (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) showed [7d 4d] and lost with high card King
+Seat 7: fujiyoto (big blind) showed [2d 6c] and won ($0.04) with a pair of Deuces
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: k0vacs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540834269:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:29:50 PT [2021/10/11 23:29:50 ET]
+Table 'Ellicott II' 9-max Seat #6 is the button
+Seat 1: guto81 ($2.14 in chips) 
+Seat 2: roman777142 ($2.04 in chips) 
+Seat 3: sofaking1973 ($2.17 in chips) 
+Seat 4: shom1972 ($0.58 in chips) 
+Seat 5: vctrnvs ($1.74 in chips) 
+Seat 6: Dorex2007 ($3.11 in chips) 
+Seat 7: fujiyoto ($2.02 in chips) 
+Seat 8: Demidov V.S. ($2.50 in chips) 
+Seat 9: k0vacs ($2.08 in chips) 
+fujiyoto: posts small blind $0.01
+Demidov V.S.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 9h]
+k0vacs: folds 
+k0vacs leaves the table
+guto81: raises $0.04 to $0.06
+roman777142: folds 
+sofaking1973: calls $0.06
+shom1972: folds 
+vctrnvs: folds 
+Dorex2007: folds 
+fujiyoto: folds 
+Demidov V.S.: folds 
+*** FLOP *** [7s 2h 4h]
+CA Sanchez joins the table at seat #9 
+guto81: bets $0.08
+sofaking1973: calls $0.08
+*** TURN *** [7s 2h 4h] [Ts]
+guto81: bets $0.16
+sofaking1973: folds 
+Uncalled bet ($0.16) returned to guto81
+guto81 collected $0.30 from pot
+guto81: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [7s 2h 4h Ts]
+Seat 1: guto81 collected ($0.30)
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 3: sofaking1973 folded on the Turn
+Seat 4: shom1972 folded before Flop (didn't bet)
+Seat 5: vctrnvs folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: fujiyoto (small blind) folded before Flop
+Seat 8: Demidov V.S. (big blind) folded before Flop
+Seat 9: k0vacs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540842014:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:30:37 PT [2021/10/11 23:30:37 ET]
+Table 'Ellicott II' 9-max Seat #7 is the button
+Seat 1: guto81 ($2.30 in chips) 
+Seat 2: roman777142 ($2.04 in chips) 
+Seat 3: sofaking1973 ($2.03 in chips) 
+Seat 4: shom1972 ($0.58 in chips) 
+Seat 5: vctrnvs ($1.74 in chips) 
+Seat 6: Dorex2007 ($3.11 in chips) 
+Seat 7: fujiyoto ($2.01 in chips) 
+Seat 8: Demidov V.S. ($2.48 in chips) 
+Seat 9: CA Sanchez ($1.20 in chips) 
+Demidov V.S.: posts small blind $0.01
+CA Sanchez: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Ts]
+guto81: folds 
+roman777142: calls $0.02
+sofaking1973: calls $0.02
+shom1972: calls $0.02
+vctrnvs: raises $0.08 to $0.10
+Dorex2007: folds 
+fujiyoto: folds 
+Demidov V.S.: calls $0.09
+CA Sanchez: folds 
+roman777142: calls $0.08
+sofaking1973: folds 
+shom1972: folds 
+*** FLOP *** [Qh 3h Kc]
+Demidov V.S.: checks 
+roman777142: checks 
+vctrnvs: bets $0.20
+sofaking1973 leaves the table
+Demidov V.S.: folds 
+roman777142: folds 
+Uncalled bet ($0.20) returned to vctrnvs
+vctrnvs collected $0.35 from pot
+vctrnvs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Qh 3h Kc]
+Seat 1: guto81 folded before Flop (didn't bet)
+Seat 2: roman777142 folded on the Flop
+Seat 3: sofaking1973 folded before Flop
+Seat 4: shom1972 folded before Flop
+Seat 5: vctrnvs collected ($0.35)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fujiyoto (button) folded before Flop (didn't bet)
+Seat 8: Demidov V.S. (small blind) folded on the Flop
+Seat 9: CA Sanchez (big blind) folded before Flop
+
+
+
+PokerStars Hand #230540852638:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:31:42 PT [2021/10/11 23:31:42 ET]
+Table 'Ellicott II' 9-max Seat #8 is the button
+Seat 1: guto81 ($2.30 in chips) 
+Seat 2: roman777142 ($2 in chips) 
+Seat 4: shom1972 ($0.56 in chips) 
+Seat 5: vctrnvs ($1.99 in chips) 
+Seat 6: Dorex2007 ($3.11 in chips) 
+Seat 7: fujiyoto ($2.01 in chips) 
+Seat 8: Demidov V.S. ($2.38 in chips) 
+Seat 9: CA Sanchez ($1.18 in chips) 
+CA Sanchez: posts small blind $0.01
+guto81: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 9d]
+roman777142: folds 
+roman777142 leaves the table
+shom1972: calls $0.02
+vctrnvs: folds 
+Dorex2007: calls $0.02
+fujiyoto: folds 
+Demidov V.S.: folds 
+CA Sanchez: folds 
+guto81: checks 
+*** FLOP *** [7c 7h 9h]
+guto81: checks 
+shom1972: checks 
+Dorex2007: bets $0.07
+guto81: folds 
+shom1972: folds 
+Uncalled bet ($0.07) returned to Dorex2007
+Dorex2007 collected $0.07 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [7c 7h 9h]
+Seat 1: guto81 (big blind) folded on the Flop
+Seat 2: roman777142 folded before Flop (didn't bet)
+Seat 4: shom1972 folded on the Flop
+Seat 5: vctrnvs folded before Flop (didn't bet)
+Seat 6: Dorex2007 collected ($0.07)
+Seat 7: fujiyoto folded before Flop (didn't bet)
+Seat 8: Demidov V.S. (button) folded before Flop (didn't bet)
+Seat 9: CA Sanchez (small blind) folded before Flop
+
+
+
+PokerStars Hand #230540859313:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:32:23 PT [2021/10/11 23:32:23 ET]
+Table 'Ellicott II' 9-max Seat #9 is the button
+Seat 1: guto81 ($2.28 in chips) 
+Seat 4: shom1972 ($0.54 in chips) 
+Seat 5: vctrnvs ($1.99 in chips) 
+Seat 6: Dorex2007 ($3.16 in chips) 
+Seat 7: fujiyoto ($2.01 in chips) 
+Seat 8: Demidov V.S. ($2.38 in chips) 
+Seat 9: CA Sanchez ($1.17 in chips) 
+guto81: posts small blind $0.01
+shom1972: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Ks]
+vctrnvs: folds 
+Dorex2007: folds 
+fujiyoto: raises $0.03 to $0.05
+Demidov V.S.: folds 
+CA Sanchez: folds 
+guto81: folds 
+shom1972: calls $0.03
+*** FLOP *** [Kc 3h Ts]
+shom1972: checks 
+fujiyoto: bets $0.06
+perffect16 joins the table at seat #3 
+shom1972: folds 
+Uncalled bet ($0.06) returned to fujiyoto
+fujiyoto collected $0.11 from pot
+fujiyoto: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Kc 3h Ts]
+Seat 1: guto81 (small blind) folded before Flop
+Seat 4: shom1972 (big blind) folded on the Flop
+Seat 5: vctrnvs folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fujiyoto collected ($0.11)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: CA Sanchez (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540866315:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:33:05 PT [2021/10/11 23:33:05 ET]
+Table 'Ellicott II' 9-max Seat #1 is the button
+Seat 1: guto81 ($2.27 in chips) 
+Seat 4: shom1972 ($0.49 in chips) 
+Seat 5: vctrnvs ($1.99 in chips) 
+Seat 6: Dorex2007 ($3.16 in chips) 
+Seat 7: fujiyoto ($2.07 in chips) 
+Seat 8: Demidov V.S. ($2.38 in chips) 
+Seat 9: CA Sanchez ($1.17 in chips) 
+shom1972: posts small blind $0.01
+vctrnvs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 6d]
+Dorex2007: folds 
+fujiyoto: raises $0.03 to $0.05
+Demidov V.S.: folds 
+CA Sanchez: calls $0.05
+guto81: folds 
+shom1972: calls $0.04
+Feijãojf joins the table at seat #2 
+vctrnvs: folds 
+*** FLOP *** [Tc Jd Qh]
+shom1972: checks 
+fujiyoto: bets $0.08
+CA Sanchez: calls $0.08
+shom1972: calls $0.08
+*** TURN *** [Tc Jd Qh] [Td]
+shom1972: checks 
+fujiyoto: bets $0.27
+CA Sanchez: folds 
+shom1972: folds 
+Uncalled bet ($0.27) returned to fujiyoto
+fujiyoto collected $0.40 from pot
+fujiyoto: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Tc Jd Qh Td]
+Seat 1: guto81 (button) folded before Flop (didn't bet)
+Seat 4: shom1972 (small blind) folded on the Turn
+Seat 5: vctrnvs (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fujiyoto collected ($0.40)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: CA Sanchez folded on the Turn
+
+
+
+PokerStars Hand #230540876668:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:34:09 PT [2021/10/11 23:34:09 ET]
+Table 'Ellicott II' 9-max Seat #4 is the button
+Seat 1: guto81 ($2.27 in chips) 
+Seat 4: shom1972 ($0.36 in chips) 
+Seat 5: vctrnvs ($1.97 in chips) 
+Seat 6: Dorex2007 ($3.16 in chips) 
+Seat 7: fujiyoto ($2.34 in chips) 
+Seat 8: Demidov V.S. ($2.38 in chips) 
+Seat 9: CA Sanchez ($1.04 in chips) 
+vctrnvs: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Feijãojf: sits out 
+perffect16: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Ac]
+fujiyoto: folds 
+Demidov V.S.: folds 
+CA Sanchez: folds 
+guto81: raises $0.02 to $0.04
+shom1972: folds 
+vctrnvs: calls $0.03
+Dorex2007: calls $0.02
+*** FLOP *** [8h Qd 8c]
+vctrnvs: checks 
+Dorex2007: checks 
+guto81: bets $0.06
+vctrnvs: folds 
+Dorex2007: folds 
+Uncalled bet ($0.06) returned to guto81
+guto81 collected $0.12 from pot
+guto81: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8h Qd 8c]
+Seat 1: guto81 collected ($0.12)
+Seat 4: shom1972 (button) folded before Flop (didn't bet)
+Seat 5: vctrnvs (small blind) folded on the Flop
+Seat 6: Dorex2007 (big blind) folded on the Flop
+Seat 7: fujiyoto folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: CA Sanchez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540882950:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:34:48 PT [2021/10/11 23:34:48 ET]
+Table 'Ellicott II' 9-max Seat #5 is the button
+Seat 1: guto81 ($2.35 in chips) 
+Seat 3: perffect16 ($2 in chips) 
+Seat 4: shom1972 ($0.36 in chips) 
+Seat 5: vctrnvs ($1.93 in chips) 
+Seat 6: Dorex2007 ($3.12 in chips) 
+Seat 7: fujiyoto ($2.34 in chips) 
+Seat 8: Demidov V.S. ($2.38 in chips) 
+Seat 9: CA Sanchez ($1.04 in chips) 
+Dorex2007: posts small blind $0.01
+fujiyoto: posts big blind $0.02
+Feijãojf: sits out 
+perffect16: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 9h]
+Demidov V.S.: folds 
+CA Sanchez: calls $0.02
+guto81: folds 
+perffect16: raises $0.02 to $0.04
+shom1972: folds 
+vctrnvs: folds 
+Dorex2007: folds 
+fujiyoto: calls $0.02
+CA Sanchez: calls $0.02
+*** FLOP *** [Kc Js As]
+fujiyoto: checks 
+CA Sanchez: checks 
+perffect16: bets $0.13
+fujiyoto: folds 
+CA Sanchez: folds 
+Uncalled bet ($0.13) returned to perffect16
+perffect16 collected $0.13 from pot
+perffect16: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Kc Js As]
+Seat 1: guto81 folded before Flop (didn't bet)
+Seat 3: perffect16 collected ($0.13)
+Seat 4: shom1972 folded before Flop (didn't bet)
+Seat 5: vctrnvs (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: fujiyoto (big blind) folded on the Flop
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: CA Sanchez folded on the Flop
+
+
+
+PokerStars Hand #230540891676:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:35:42 PT [2021/10/11 23:35:42 ET]
+Table 'Ellicott II' 9-max Seat #6 is the button
+Seat 1: guto81 ($2.35 in chips) 
+Seat 3: perffect16 ($2.09 in chips) 
+Seat 4: shom1972 ($0.36 in chips) 
+Seat 5: vctrnvs ($1.93 in chips) 
+Seat 6: Dorex2007 ($3.11 in chips) 
+Seat 7: fujiyoto ($2.30 in chips) 
+Seat 8: Demidov V.S. ($2.38 in chips) 
+Seat 9: CA Sanchez ($1 in chips) 
+fujiyoto: posts small blind $0.01
+Demidov V.S.: posts big blind $0.02
+Feijãojf: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 4s]
+CA Sanchez: folds 
+guto81: folds 
+perffect16: raises $0.02 to $0.04
+shom1972: calls $0.04
+vctrnvs: raises $0.06 to $0.10
+Dorex2007: folds 
+fujiyoto: folds 
+Demidov V.S.: folds 
+perffect16: calls $0.06
+shom1972: calls $0.06
+*** FLOP *** [5d Kh Tc]
+perffect16: checks 
+shom1972: checks 
+vctrnvs: bets $0.20
+perffect16: folds 
+shom1972: folds 
+Uncalled bet ($0.20) returned to vctrnvs
+vctrnvs collected $0.32 from pot
+vctrnvs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [5d Kh Tc]
+Seat 1: guto81 folded before Flop (didn't bet)
+Seat 3: perffect16 folded on the Flop
+Seat 4: shom1972 folded on the Flop
+Seat 5: vctrnvs collected ($0.32)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: fujiyoto (small blind) folded before Flop
+Seat 8: Demidov V.S. (big blind) folded before Flop
+Seat 9: CA Sanchez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540901426:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:36:42 PT [2021/10/11 23:36:42 ET]
+Table 'Ellicott II' 9-max Seat #7 is the button
+Seat 1: guto81 ($2.35 in chips) 
+Seat 3: perffect16 ($1.99 in chips) 
+Seat 4: shom1972 ($0.26 in chips) 
+Seat 5: vctrnvs ($2.15 in chips) 
+Seat 6: Dorex2007 ($3.11 in chips) 
+Seat 7: fujiyoto ($2.29 in chips) 
+Seat 8: Demidov V.S. ($2.36 in chips) 
+Seat 9: CA Sanchez ($1 in chips) 
+Demidov V.S.: posts small blind $0.01
+CA Sanchez: posts big blind $0.02
+Feijãojf: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 5c]
+guto81: raises $0.02 to $0.04
+perffect16: folds 
+shom1972: calls $0.04
+vctrnvs: raises $0.06 to $0.10
+Dorex2007: folds 
+fujiyoto: folds 
+Demidov V.S.: folds 
+CA Sanchez: calls $0.08
+guto81: calls $0.06
+shom1972: calls $0.06
+*** FLOP *** [Qh 6d 9c]
+CA Sanchez: checks 
+guto81: checks 
+shom1972: checks 
+vctrnvs: bets $0.20
+CA Sanchez: calls $0.20
+guto81: folds 
+shom1972: folds 
+*** TURN *** [Qh 6d 9c] [2d]
+CA Sanchez: bets $0.70 and is all-in
+vctrnvs: calls $0.70
+*** RIVER *** [Qh 6d 9c 2d] [Ad]
+*** SHOW DOWN ***
+CA Sanchez: shows [Qd Jc] (a pair of Queens)
+vctrnvs: shows [Jh 9h] (a pair of Nines)
+CA Sanchez collected $2.13 from pot
+*** SUMMARY ***
+Total pot $2.21 | Rake $0.08 
+Board [Qh 6d 9c 2d Ad]
+Seat 1: guto81 folded on the Flop
+Seat 3: perffect16 folded before Flop (didn't bet)
+Seat 4: shom1972 folded on the Flop
+Seat 5: vctrnvs showed [Jh 9h] and lost with a pair of Nines
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fujiyoto (button) folded before Flop (didn't bet)
+Seat 8: Demidov V.S. (small blind) folded before Flop
+Seat 9: CA Sanchez (big blind) showed [Qd Jc] and won ($2.13) with a pair of Queens
+
+
+
+PokerStars Hand #230540913985:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:37:59 PT [2021/10/11 23:37:59 ET]
+Table 'Ellicott II' 9-max Seat #8 is the button
+Seat 1: guto81 ($2.25 in chips) 
+Seat 3: perffect16 ($1.99 in chips) 
+Seat 4: shom1972 ($0.16 in chips) 
+Seat 5: vctrnvs ($1.15 in chips) 
+Seat 6: Dorex2007 ($3.11 in chips) 
+Seat 7: fujiyoto ($2.29 in chips) 
+Seat 8: Demidov V.S. ($2.35 in chips) 
+Seat 9: CA Sanchez ($2.13 in chips) 
+CA Sanchez: posts small blind $0.01
+guto81: posts big blind $0.02
+Feijãojf: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 7h]
+perffect16: folds 
+shom1972: calls $0.02
+vctrnvs: raises $0.06 to $0.08
+Dorex2007: folds 
+fujiyoto: folds 
+Demidov V.S.: folds 
+CA Sanchez: folds 
+guto81: folds 
+shom1972: folds 
+Uncalled bet ($0.06) returned to vctrnvs
+vctrnvs collected $0.07 from pot
+vctrnvs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: guto81 (big blind) folded before Flop
+Seat 3: perffect16 folded before Flop (didn't bet)
+Seat 4: shom1972 folded before Flop
+Seat 5: vctrnvs collected ($0.07)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fujiyoto folded before Flop (didn't bet)
+Seat 8: Demidov V.S. (button) folded before Flop (didn't bet)
+Seat 9: CA Sanchez (small blind) folded before Flop
+
+
+
+PokerStars Hand #230540922180:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:38:27 PT [2021/10/11 23:38:27 ET]
+Table 'Ellicott II' 9-max Seat #9 is the button
+Seat 1: guto81 ($2.23 in chips) 
+Seat 2: Feijãojf ($0.80 in chips) 
+Seat 3: perffect16 ($1.99 in chips) 
+Seat 4: shom1972 ($0.14 in chips) 
+Seat 5: vctrnvs ($1.20 in chips) 
+Seat 6: Dorex2007 ($3.11 in chips) 
+Seat 7: fujiyoto ($2.29 in chips) 
+Seat 8: Demidov V.S. ($2.35 in chips) 
+Seat 9: CA Sanchez ($2.12 in chips) 
+guto81: posts small blind $0.01
+Feijãojf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 6c]
+perffect16: folds 
+shom1972: folds 
+vctrnvs: calls $0.02
+Dorex2007: folds 
+fujiyoto: folds 
+Demidov V.S.: folds 
+CA Sanchez: calls $0.02
+guto81 has timed out
+guto81: folds 
+Feijãojf: checks 
+*** FLOP *** [3h Jh Kh]
+Feijãojf: checks 
+vctrnvs: checks 
+CA Sanchez: checks 
+*** TURN *** [3h Jh Kh] [Qc]
+Feijãojf: checks 
+vctrnvs: checks 
+CA Sanchez: checks 
+*** RIVER *** [3h Jh Kh Qc] [4d]
+Feijãojf: checks 
+vctrnvs: checks 
+CA Sanchez: checks 
+*** SHOW DOWN ***
+Feijãojf: shows [6s Ts] (high card King)
+vctrnvs: shows [Td 3d] (a pair of Threes)
+CA Sanchez: shows [Kc Js] (two pair, Kings and Jacks)
+CA Sanchez collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [3h Jh Kh Qc 4d]
+Seat 1: guto81 (small blind) folded before Flop
+Seat 2: Feijãojf (big blind) showed [6s Ts] and lost with high card King
+Seat 3: perffect16 folded before Flop (didn't bet)
+Seat 4: shom1972 folded before Flop (didn't bet)
+Seat 5: vctrnvs showed [Td 3d] and lost with a pair of Threes
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fujiyoto folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: CA Sanchez (button) showed [Kc Js] and won ($0.07) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #230540939968:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:40:19 PT [2021/10/11 23:40:19 ET]
+Table 'Ellicott II' 9-max Seat #1 is the button
+Seat 1: guto81 ($2.22 in chips) 
+Seat 2: Feijãojf ($0.78 in chips) 
+Seat 3: perffect16 ($1.99 in chips) 
+Seat 4: shom1972 ($0.14 in chips) 
+Seat 5: vctrnvs ($1.18 in chips) 
+Seat 6: Dorex2007 ($3.11 in chips) 
+Seat 7: fujiyoto ($2.29 in chips) 
+Seat 8: Demidov V.S. ($2.35 in chips) 
+Seat 9: CA Sanchez ($2.17 in chips) 
+Feijãojf: posts small blind $0.01
+perffect16: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 2d]
+shom1972: folds 
+vctrnvs: raises $0.02 to $0.04
+Dorex2007: folds 
+fujiyoto: folds 
+Demidov V.S.: folds 
+CA Sanchez: folds 
+guto81: folds 
+Feijãojf: folds 
+perffect16: folds 
+Uncalled bet ($0.02) returned to vctrnvs
+Feijãojf leaves the table
+vctrnvs collected $0.05 from pot
+vctrnvs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: guto81 (button) folded before Flop (didn't bet)
+Seat 2: Feijãojf (small blind) folded before Flop
+Seat 3: perffect16 (big blind) folded before Flop
+Seat 4: shom1972 folded before Flop (didn't bet)
+Seat 5: vctrnvs collected ($0.05)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fujiyoto folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: CA Sanchez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540943578:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:40:41 PT [2021/10/11 23:40:41 ET]
+Table 'Ellicott II' 9-max Seat #3 is the button
+Seat 1: guto81 ($2.22 in chips) 
+Seat 3: perffect16 ($1.97 in chips) 
+Seat 4: shom1972 ($0.14 in chips) 
+Seat 5: vctrnvs ($1.21 in chips) 
+Seat 6: Dorex2007 ($3.11 in chips) 
+Seat 7: fujiyoto ($2.29 in chips) 
+Seat 8: Demidov V.S. ($2.35 in chips) 
+Seat 9: CA Sanchez ($2.17 in chips) 
+shom1972: posts small blind $0.01
+vctrnvs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 3h]
+Dorex2007: folds 
+fujiyoto: folds 
+Demidov V.S.: folds 
+dhabiles52 joins the table at seat #2 
+CA Sanchez: folds 
+guto81: folds 
+perffect16: folds 
+shom1972: calls $0.01
+vctrnvs: raises $0.06 to $0.08
+shom1972: folds 
+Uncalled bet ($0.06) returned to vctrnvs
+vctrnvs collected $0.04 from pot
+vctrnvs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: guto81 folded before Flop (didn't bet)
+Seat 3: perffect16 (button) folded before Flop (didn't bet)
+Seat 4: shom1972 (small blind) folded before Flop
+Seat 5: vctrnvs (big blind) collected ($0.04)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fujiyoto folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: CA Sanchez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540948526:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:41:12 PT [2021/10/11 23:41:12 ET]
+Table 'Ellicott II' 9-max Seat #4 is the button
+Seat 1: guto81 ($2.22 in chips) 
+Seat 3: perffect16 ($1.97 in chips) 
+Seat 4: shom1972 ($0.12 in chips) 
+Seat 5: vctrnvs ($1.23 in chips) 
+Seat 6: Dorex2007 ($3.11 in chips) 
+Seat 7: fujiyoto ($2.29 in chips) 
+Seat 8: Demidov V.S. ($2.35 in chips) 
+Seat 9: CA Sanchez ($2.17 in chips) 
+vctrnvs: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+dhabiles52: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Ts]
+fujiyoto: folds 
+Demidov V.S.: folds 
+CA Sanchez: folds 
+guto81: folds 
+perffect16: folds 
+shom1972: folds 
+vctrnvs: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [9s 6d Td]
+vctrnvs: checks 
+Dorex2007: bets $0.04
+vctrnvs: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.04 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [9s 6d Td]
+Seat 1: guto81 folded before Flop (didn't bet)
+Seat 3: perffect16 folded before Flop (didn't bet)
+Seat 4: shom1972 (button) folded before Flop (didn't bet)
+Seat 5: vctrnvs (small blind) folded on the Flop
+Seat 6: Dorex2007 (big blind) collected ($0.04)
+Seat 7: fujiyoto folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: CA Sanchez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540954502:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:41:49 PT [2021/10/11 23:41:49 ET]
+Table 'Ellicott II' 9-max Seat #5 is the button
+Seat 1: guto81 ($2.22 in chips) 
+Seat 3: perffect16 ($1.97 in chips) 
+Seat 4: shom1972 ($0.12 in chips) 
+Seat 5: vctrnvs ($1.21 in chips) 
+Seat 6: Dorex2007 ($3.13 in chips) 
+Seat 7: fujiyoto ($2.29 in chips) 
+Seat 8: Demidov V.S. ($2.35 in chips) 
+Seat 9: CA Sanchez ($2.17 in chips) 
+Dorex2007: posts small blind $0.01
+vctrnvs is disconnected 
+fujiyoto: posts big blind $0.02
+dhabiles52: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad Kd]
+Demidov V.S.: folds 
+CA Sanchez: folds 
+guto81: folds 
+perffect16: folds 
+shom1972: calls $0.02
+vctrnvs has timed out while disconnected
+vctrnvs: folds 
+Dorex2007: raises $0.04 to $0.06
+fujiyoto: folds 
+shom1972: calls $0.04
+*** FLOP *** [2c Jc 8s]
+Dorex2007: checks 
+shom1972: checks 
+*** TURN *** [2c Jc 8s] [Ts]
+Dorex2007: checks 
+shom1972: checks 
+*** RIVER *** [2c Jc 8s Ts] [4d]
+Dorex2007: bets $0.14
+shom1972: calls $0.06 and is all-in
+Uncalled bet ($0.08) returned to Dorex2007
+*** SHOW DOWN ***
+Dorex2007: shows [Ad Kd] (high card Ace)
+shom1972: shows [9h Qs] (a straight, Eight to Queen)
+shom1972 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [2c Jc 8s Ts 4d]
+Seat 1: guto81 folded before Flop (didn't bet)
+Seat 3: perffect16 folded before Flop (didn't bet)
+Seat 4: shom1972 showed [9h Qs] and won ($0.25) with a straight, Eight to Queen
+Seat 5: vctrnvs (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) showed [Ad Kd] and lost with high card Ace
+Seat 7: fujiyoto (big blind) folded before Flop
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: CA Sanchez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540963348:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:42:45 PT [2021/10/11 23:42:45 ET]
+Table 'Ellicott II' 9-max Seat #6 is the button
+Seat 1: guto81 ($2.22 in chips) 
+Seat 3: perffect16 ($1.97 in chips) 
+Seat 4: shom1972 ($0.25 in chips) 
+Seat 6: Dorex2007 ($3.01 in chips) 
+Seat 7: fujiyoto ($2.27 in chips) 
+Seat 8: Demidov V.S. ($2.35 in chips) 
+Seat 9: CA Sanchez ($2.17 in chips) 
+fujiyoto: posts small blind $0.01
+Demidov V.S.: posts big blind $0.02
+dhabiles52: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Th]
+CA Sanchez: folds 
+guto81: folds 
+perffect16: folds 
+shom1972: folds 
+Dorex2007: raises $0.02 to $0.04
+fujiyoto: folds 
+Demidov V.S.: folds 
+Uncalled bet ($0.02) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: guto81 folded before Flop (didn't bet)
+Seat 3: perffect16 folded before Flop (didn't bet)
+Seat 4: shom1972 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) collected ($0.05)
+Seat 7: fujiyoto (small blind) folded before Flop
+Seat 8: Demidov V.S. (big blind) folded before Flop
+Seat 9: CA Sanchez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540966123:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:43:02 PT [2021/10/11 23:43:02 ET]
+Table 'Ellicott II' 9-max Seat #7 is the button
+Seat 1: guto81 ($2.22 in chips) 
+Seat 3: perffect16 ($1.97 in chips) 
+Seat 4: shom1972 ($0.25 in chips) 
+Seat 6: Dorex2007 ($3.04 in chips) 
+Seat 7: fujiyoto ($2.26 in chips) 
+Seat 8: Demidov V.S. ($2.33 in chips) 
+Seat 9: CA Sanchez ($2.17 in chips) 
+Demidov V.S.: posts small blind $0.01
+CA Sanchez: posts big blind $0.02
+dhabiles52: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 5d]
+guto81: folds 
+guto81 leaves the table
+perffect16: folds 
+Alvarenga0708 joins the table at seat #1 
+shom1972: folds 
+Dorex2007: folds 
+fujiyoto: folds 
+Demidov V.S.: raises $0.04 to $0.06
+CA Sanchez: calls $0.04
+*** FLOP *** [Jc 7d Jh]
+Demidov V.S.: checks 
+CA Sanchez: checks 
+*** TURN *** [Jc 7d Jh] [8h]
+Demidov V.S.: checks 
+CA Sanchez: checks 
+*** RIVER *** [Jc 7d Jh 8h] [Ks]
+Demidov V.S.: checks 
+CA Sanchez: checks 
+*** SHOW DOWN ***
+Demidov V.S.: shows [Ad 6d] (a pair of Jacks)
+CA Sanchez: mucks hand 
+Demidov V.S. collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Jc 7d Jh 8h Ks]
+Seat 1: guto81 folded before Flop (didn't bet)
+Seat 3: perffect16 folded before Flop (didn't bet)
+Seat 4: shom1972 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fujiyoto (button) folded before Flop (didn't bet)
+Seat 8: Demidov V.S. (small blind) showed [Ad 6d] and won ($0.12) with a pair of Jacks
+Seat 9: CA Sanchez (big blind) mucked [4s Qs]
+
+
+
+PokerStars Hand #230540972852:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:43:45 PT [2021/10/11 23:43:45 ET]
+Table 'Ellicott II' 9-max Seat #8 is the button
+Seat 1: Alvarenga0708 ($1.60 in chips) 
+Seat 3: perffect16 ($1.97 in chips) 
+Seat 4: shom1972 ($0.25 in chips) 
+Seat 6: Dorex2007 ($3.04 in chips) 
+Seat 7: fujiyoto ($2.26 in chips) 
+Seat 8: Demidov V.S. ($2.39 in chips) 
+Seat 9: CA Sanchez ($2.11 in chips) 
+CA Sanchez: posts small blind $0.01
+Alvarenga0708: posts big blind $0.02
+dhabiles52: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Js]
+perffect16: folds 
+shom1972: folds 
+Dorex2007: folds 
+fujiyoto: raises $0.04 to $0.06
+Demidov V.S.: folds 
+CA Sanchez: folds 
+Alvarenga0708: folds 
+Uncalled bet ($0.04) returned to fujiyoto
+fujiyoto collected $0.05 from pot
+fujiyoto: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Alvarenga0708 (big blind) folded before Flop
+Seat 3: perffect16 folded before Flop (didn't bet)
+Seat 4: shom1972 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fujiyoto collected ($0.05)
+Seat 8: Demidov V.S. (button) folded before Flop (didn't bet)
+Seat 9: CA Sanchez (small blind) folded before Flop
+
+
+
+PokerStars Hand #230540976319:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:44:07 PT [2021/10/11 23:44:07 ET]
+Table 'Ellicott II' 9-max Seat #9 is the button
+Seat 1: Alvarenga0708 ($1.58 in chips) 
+Seat 2: dhabiles52 ($2 in chips) 
+Seat 3: perffect16 ($1.97 in chips) 
+Seat 4: shom1972 ($0.25 in chips) 
+Seat 6: Dorex2007 ($3.04 in chips) 
+Seat 7: fujiyoto ($2.29 in chips) 
+Seat 8: Demidov V.S. ($2.39 in chips) 
+Seat 9: CA Sanchez ($2.10 in chips) 
+Alvarenga0708: posts small blind $0.01
+dhabiles52: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 9d]
+perffect16: raises $0.05 to $0.07
+shom1972: calls $0.07
+Dorex2007: folds 
+fujiyoto: folds 
+Demidov V.S.: folds 
+CA Sanchez: folds 
+Alvarenga0708: folds 
+dhabiles52: folds 
+*** FLOP *** [5s Ac Tc]
+perffect16: checks 
+shom1972: checks 
+*** TURN *** [5s Ac Tc] [Jc]
+perffect16: checks 
+shom1972: checks 
+*** RIVER *** [5s Ac Tc Jc] [8h]
+perffect16: bets $0.08
+shom1972: folds 
+Uncalled bet ($0.08) returned to perffect16
+perffect16 collected $0.16 from pot
+perffect16: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [5s Ac Tc Jc 8h]
+Seat 1: Alvarenga0708 (small blind) folded before Flop
+Seat 2: dhabiles52 (big blind) folded before Flop
+Seat 3: perffect16 collected ($0.16)
+Seat 4: shom1972 folded on the River
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fujiyoto folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: CA Sanchez (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540983728:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:44:54 PT [2021/10/11 23:44:54 ET]
+Table 'Ellicott II' 9-max Seat #1 is the button
+Seat 1: Alvarenga0708 ($1.57 in chips) 
+Seat 2: dhabiles52 ($1.98 in chips) 
+Seat 3: perffect16 ($2.06 in chips) 
+Seat 4: shom1972 ($0.18 in chips) 
+Seat 6: Dorex2007 ($3.04 in chips) 
+Seat 7: fujiyoto ($2.29 in chips) 
+Seat 8: Demidov V.S. ($2.39 in chips) 
+Seat 9: CA Sanchez ($2.10 in chips) 
+dhabiles52: posts small blind $0.01
+perffect16: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Jc]
+shom1972: folds 
+Dorex2007: folds 
+fujiyoto: folds 
+Demidov V.S.: raises $0.04 to $0.06
+CA Sanchez: folds 
+Alvarenga0708: calls $0.06
+dhabiles52: folds 
+perffect16: calls $0.04
+*** FLOP *** [6d 8d 3c]
+perffect16: checks 
+Demidov V.S.: bets $0.14
+Alvarenga0708: calls $0.14
+perffect16: folds 
+*** TURN *** [6d 8d 3c] [9h]
+Demidov V.S.: bets $0.34
+Alvarenga0708: calls $0.34
+*** RIVER *** [6d 8d 3c 9h] [Tc]
+Demidov V.S.: bets $1.85 and is all-in
+Alvarenga0708: calls $1.03 and is all-in
+Uncalled bet ($0.82) returned to Demidov V.S.
+*** SHOW DOWN ***
+Demidov V.S.: shows [9d Ad] (a pair of Nines)
+Alvarenga0708: shows [7d Ah] (a straight, Six to Ten)
+Alvarenga0708 collected $3.10 from pot
+*** SUMMARY ***
+Total pot $3.21 | Rake $0.11 
+Board [6d 8d 3c 9h Tc]
+Seat 1: Alvarenga0708 (button) showed [7d Ah] and won ($3.10) with a straight, Six to Ten
+Seat 2: dhabiles52 (small blind) folded before Flop
+Seat 3: perffect16 (big blind) folded on the Flop
+Seat 4: shom1972 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fujiyoto folded before Flop (didn't bet)
+Seat 8: Demidov V.S. showed [9d Ad] and lost with a pair of Nines
+Seat 9: CA Sanchez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230540997705:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:46:23 PT [2021/10/11 23:46:23 ET]
+Table 'Ellicott II' 9-max Seat #2 is the button
+Seat 1: Alvarenga0708 ($3.10 in chips) 
+Seat 2: dhabiles52 ($1.97 in chips) 
+Seat 3: perffect16 ($2 in chips) 
+Seat 4: shom1972 ($0.18 in chips) 
+Seat 6: Dorex2007 ($3.04 in chips) 
+Seat 7: fujiyoto ($2.29 in chips) 
+Seat 8: Demidov V.S. ($0.82 in chips) 
+Seat 9: CA Sanchez ($2.10 in chips) 
+perffect16: posts small blind $0.01
+shom1972: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 6s]
+Dorex2007: folds 
+fujiyoto: folds 
+Demidov V.S.: folds 
+CA Sanchez: folds 
+Alvarenga0708: calls $0.02
+dhabiles52: folds 
+perffect16: calls $0.01
+shom1972: checks 
+*** FLOP *** [9h Ks 8s]
+perffect16: bets $0.02
+shom1972: folds 
+Alvarenga0708: calls $0.02
+*** TURN *** [9h Ks 8s] [Ts]
+perffect16: bets $0.02
+Alvarenga0708: calls $0.02
+*** RIVER *** [9h Ks 8s Ts] [Js]
+perffect16: checks 
+Alvarenga0708: checks 
+*** SHOW DOWN ***
+perffect16: shows [Kd 2c] (a pair of Kings)
+Alvarenga0708: mucks hand 
+perffect16 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [9h Ks 8s Ts Js]
+Seat 1: Alvarenga0708 mucked [Td Ah]
+Seat 2: dhabiles52 (button) folded before Flop (didn't bet)
+Seat 3: perffect16 (small blind) showed [Kd 2c] and won ($0.14) with a pair of Kings
+Seat 4: shom1972 (big blind) folded on the Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fujiyoto folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: CA Sanchez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230541004875:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:47:08 PT [2021/10/11 23:47:08 ET]
+Table 'Ellicott II' 9-max Seat #3 is the button
+Seat 1: Alvarenga0708 ($3.04 in chips) 
+Seat 2: dhabiles52 ($1.97 in chips) 
+Seat 3: perffect16 ($2.08 in chips) 
+Seat 4: shom1972 ($0.16 in chips) 
+Seat 6: Dorex2007 ($3.04 in chips) 
+Seat 7: fujiyoto ($2.29 in chips) 
+Seat 8: Demidov V.S. ($0.82 in chips) 
+Seat 9: CA Sanchez ($2.10 in chips) 
+shom1972: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Kd]
+fujiyoto: raises $0.05 to $0.07
+Demidov V.S.: folds 
+CA Sanchez: calls $0.07
+Alvarenga0708: folds 
+dhabiles52: calls $0.07
+perffect16: folds 
+shom1972: folds 
+Dorex2007: folds 
+*** FLOP *** [4d Qc Ac]
+fujiyoto: checks 
+CA Sanchez: bets $0.02
+dhabiles52: raises $0.10 to $0.12
+fujiyoto: folds 
+CA Sanchez: calls $0.10
+*** TURN *** [4d Qc Ac] [8s]
+CA Sanchez: bets $0.14
+dhabiles52: calls $0.14
+*** RIVER *** [4d Qc Ac 8s] [5d]
+CA Sanchez: bets $0.37
+dhabiles52: folds 
+Uncalled bet ($0.37) returned to CA Sanchez
+CA Sanchez collected $0.73 from pot
+CA Sanchez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.76 | Rake $0.03 
+Board [4d Qc Ac 8s 5d]
+Seat 1: Alvarenga0708 folded before Flop (didn't bet)
+Seat 2: dhabiles52 folded on the River
+Seat 3: perffect16 (button) folded before Flop (didn't bet)
+Seat 4: shom1972 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: fujiyoto folded on the Flop
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: CA Sanchez collected ($0.73)
+
+
+
+PokerStars Hand #230541015972:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:48:17 PT [2021/10/11 23:48:17 ET]
+Table 'Ellicott II' 9-max Seat #4 is the button
+Seat 1: Alvarenga0708 ($3.04 in chips) 
+Seat 2: dhabiles52 ($2 in chips) 
+Seat 3: perffect16 ($2.08 in chips) 
+Seat 4: shom1972 ($0.15 in chips) 
+Seat 6: Dorex2007 ($3.02 in chips) 
+Seat 7: fujiyoto ($2.22 in chips) 
+Seat 8: Demidov V.S. ($0.82 in chips) 
+Seat 9: CA Sanchez ($2.50 in chips) 
+Dorex2007: posts small blind $0.01
+fujiyoto: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Jc]
+Demidov V.S.: folds 
+CA Sanchez has timed out
+CA Sanchez: folds 
+Alvarenga0708 has timed out
+Alvarenga0708: folds 
+dhabiles52: folds 
+perffect16: folds 
+shom1972: calls $0.02
+Dorex2007: calls $0.01
+fujiyoto: checks 
+*** FLOP *** [9s 8c 2d]
+Dorex2007: checks 
+fujiyoto: checks 
+shom1972: checks 
+*** TURN *** [9s 8c 2d] [Ks]
+Dorex2007: checks 
+fujiyoto: checks 
+shom1972: bets $0.02
+Dorex2007: calls $0.02
+fujiyoto: folds 
+*** RIVER *** [9s 8c 2d Ks] [4c]
+Dorex2007: checks 
+shom1972: bets $0.04
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to shom1972
+shom1972 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [9s 8c 2d Ks 4c]
+Seat 1: Alvarenga0708 folded before Flop (didn't bet)
+Seat 2: dhabiles52 folded before Flop (didn't bet)
+Seat 3: perffect16 folded before Flop (didn't bet)
+Seat 4: shom1972 (button) collected ($0.10)
+Seat 6: Dorex2007 (small blind) folded on the River
+Seat 7: fujiyoto (big blind) folded on the Turn
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: CA Sanchez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230541028589:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:49:37 PT [2021/10/11 23:49:37 ET]
+Table 'Ellicott II' 9-max Seat #6 is the button
+Seat 1: Alvarenga0708 ($3.04 in chips) 
+Seat 2: dhabiles52 ($2 in chips) 
+Seat 3: perffect16 ($2.08 in chips) 
+Seat 4: shom1972 ($0.21 in chips) 
+Seat 6: Dorex2007 ($2.98 in chips) 
+Seat 7: fujiyoto ($2.20 in chips) 
+Seat 8: Demidov V.S. ($0.82 in chips) 
+Seat 9: CA Sanchez ($2.50 in chips) 
+fujiyoto: posts small blind $0.01
+Demidov V.S.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 4s]
+CA Sanchez: folds 
+Alvarenga0708: calls $0.02
+dhabiles52: raises $0.04 to $0.06
+perffect16: folds 
+shom1972: calls $0.06
+Dorex2007: folds 
+fujiyoto: calls $0.05
+Demidov V.S.: folds 
+Alvarenga0708: calls $0.04
+*** FLOP *** [Qs 6s 7c]
+fujiyoto: bets $0.34
+Alvarenga0708: raises $2.64 to $2.98 and is all-in
+dhabiles52: folds 
+shom1972: calls $0.15 and is all-in
+fujiyoto: calls $1.80 and is all-in
+Uncalled bet ($0.84) returned to Alvarenga0708
+Alvarenga0708 has timed out
+*** TURN *** [Qs 6s 7c] [9c]
+*** RIVER *** [Qs 6s 7c 9c] [Ks]
+*** SHOW DOWN ***
+fujiyoto: shows [Qh Ad] (a pair of Queens)
+Alvarenga0708: shows [3s As] (a flush, Ace high)
+Alvarenga0708 collected $3.84 from side pot
+shom1972: shows [9d Qd] (two pair, Queens and Nines)
+Alvarenga0708 collected $0.69 from main pot
+*** SUMMARY ***
+Total pot $4.69 Main pot $0.69. Side pot $3.84. | Rake $0.16 
+Board [Qs 6s 7c 9c Ks]
+Seat 1: Alvarenga0708 showed [3s As] and won ($4.53) with a flush, Ace high
+Seat 2: dhabiles52 folded on the Flop
+Seat 3: perffect16 folded before Flop (didn't bet)
+Seat 4: shom1972 showed [9d Qd] and lost with two pair, Queens and Nines
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: fujiyoto (small blind) showed [Qh Ad] and lost with a pair of Queens
+Seat 8: Demidov V.S. (big blind) folded before Flop
+Seat 9: CA Sanchez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230541042451:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:51:05 PT [2021/10/11 23:51:05 ET]
+Table 'Ellicott II' 9-max Seat #7 is the button
+Seat 1: Alvarenga0708 ($5.37 in chips) 
+Seat 2: dhabiles52 ($1.94 in chips) 
+Seat 3: perffect16 ($2.08 in chips) 
+Seat 6: Dorex2007 ($2.98 in chips) 
+Seat 7: fujiyoto ($2 in chips) 
+Seat 8: Demidov V.S. ($0.80 in chips) 
+Seat 9: CA Sanchez ($2.50 in chips) 
+Demidov V.S.: posts small blind $0.01
+CA Sanchez: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 6d]
+Alvarenga0708: calls $0.02
+dhabiles52: raises $0.07 to $0.09
+perffect16: folds 
+Dorex2007: folds 
+fujiyoto: folds 
+shom1972 leaves the table
+Demidov V.S.: folds 
+CA Sanchez: calls $0.07
+Alvarenga0708: calls $0.07
+*** FLOP *** [3c Qs 5d]
+CA Sanchez: checks 
+Alvarenga0708: bets $0.13
+Serafim1025 joins the table at seat #4 
+dhabiles52: calls $0.13
+CA Sanchez: folds 
+*** TURN *** [3c Qs 5d] [2s]
+Alvarenga0708: checks 
+dhabiles52: bets $0.41
+vctrnvs leaves the table
+Alvarenga0708: folds 
+Uncalled bet ($0.41) returned to dhabiles52
+dhabiles52 collected $0.52 from pot
+dhabiles52: doesn't show hand 
+nightbadger joins the table at seat #5 
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [3c Qs 5d 2s]
+Seat 1: Alvarenga0708 folded on the Turn
+Seat 2: dhabiles52 collected ($0.52)
+Seat 3: perffect16 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fujiyoto (button) folded before Flop (didn't bet)
+Seat 8: Demidov V.S. (small blind) folded before Flop
+Seat 9: CA Sanchez (big blind) folded on the Flop
+
+
+
+PokerStars Hand #230541053910:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:52:17 PT [2021/10/11 23:52:17 ET]
+Table 'Ellicott II' 9-max Seat #8 is the button
+Seat 1: Alvarenga0708 ($5.15 in chips) 
+Seat 2: dhabiles52 ($2.24 in chips) 
+Seat 3: perffect16 ($2.08 in chips) 
+Seat 6: Dorex2007 ($2.98 in chips) 
+Seat 7: fujiyoto ($2 in chips) 
+Seat 8: Demidov V.S. ($0.79 in chips) 
+Seat 9: CA Sanchez ($2.41 in chips) 
+CA Sanchez: posts small blind $0.01
+Alvarenga0708: posts big blind $0.02
+Serafim1025: sits out 
+nightbadger: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Kc]
+dhabiles52: raises $0.02 to $0.04
+perffect16: raises $0.02 to $0.06
+Dorex2007: calls $0.06
+fujiyoto: folds 
+Demidov V.S.: folds 
+CA Sanchez: calls $0.05
+Alvarenga0708: folds 
+dhabiles52: calls $0.02
+*** FLOP *** [8s 3s Qs]
+CA Sanchez: checks 
+dhabiles52: checks 
+perffect16: checks 
+Dorex2007: checks 
+*** TURN *** [8s 3s Qs] [4h]
+CA Sanchez: checks 
+dhabiles52: checks 
+perffect16: checks 
+Dorex2007: bets $0.17
+CA Sanchez: folds 
+dhabiles52: folds 
+perffect16: calls $0.17
+*** RIVER *** [8s 3s Qs 4h] [4c]
+perffect16: checks 
+Dorex2007: bets $0.29
+perffect16: calls $0.29
+*** SHOW DOWN ***
+Dorex2007: shows [Ac Kc] (a pair of Fours)
+perffect16: shows [Ks Qc] (two pair, Queens and Fours)
+perffect16 collected $1.14 from pot
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.04 
+Board [8s 3s Qs 4h 4c]
+Seat 1: Alvarenga0708 (big blind) folded before Flop
+Seat 2: dhabiles52 folded on the Turn
+Seat 3: perffect16 showed [Ks Qc] and won ($1.14) with two pair, Queens and Fours
+Seat 6: Dorex2007 showed [Ac Kc] and lost with a pair of Fours
+Seat 7: fujiyoto folded before Flop (didn't bet)
+Seat 8: Demidov V.S. (button) folded before Flop (didn't bet)
+Seat 9: CA Sanchez (small blind) folded on the Turn
+
+
+
+PokerStars Hand #230541069901:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:53:23 PT [2021/10/11 23:53:23 ET]
+Table 'Ellicott II' 9-max Seat #9 is the button
+Seat 1: Alvarenga0708 ($5.13 in chips) 
+Seat 2: dhabiles52 ($2.18 in chips) 
+Seat 3: perffect16 ($2.70 in chips) 
+Seat 6: Dorex2007 ($2.46 in chips) 
+Seat 7: fujiyoto ($2 in chips) 
+Seat 8: Demidov V.S. ($0.79 in chips) 
+Seat 9: CA Sanchez ($2.35 in chips) 
+Alvarenga0708: posts small blind $0.01
+dhabiles52: posts big blind $0.02
+Serafim1025: sits out 
+nightbadger: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 9d]
+perffect16: folds 
+Dorex2007: folds 
+fujiyoto: raises $0.04 to $0.06
+Demidov V.S.: folds 
+CA Sanchez: calls $0.06
+Alvarenga0708: folds 
+dhabiles52: calls $0.04
+*** FLOP *** [Tc 4s Qs]
+dhabiles52: checks 
+fujiyoto: checks 
+CA Sanchez: bets $0.09
+dhabiles52: calls $0.09
+fujiyoto: folds 
+*** TURN *** [Tc 4s Qs] [2c]
+dhabiles52: checks 
+CA Sanchez: bets $0.36
+dhabiles52: folds 
+Uncalled bet ($0.36) returned to CA Sanchez
+CA Sanchez collected $0.36 from pot
+CA Sanchez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Tc 4s Qs 2c]
+Seat 1: Alvarenga0708 (small blind) folded before Flop
+Seat 2: dhabiles52 (big blind) folded on the Turn
+Seat 3: perffect16 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fujiyoto folded on the Flop
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: CA Sanchez (button) collected ($0.36)
+
+
+
+PokerStars Hand #230541076808:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:54:07 PT [2021/10/11 23:54:07 ET]
+Table 'Ellicott II' 9-max Seat #1 is the button
+Seat 1: Alvarenga0708 ($5.12 in chips) 
+Seat 2: dhabiles52 ($2.03 in chips) 
+Seat 3: perffect16 ($2.70 in chips) 
+Seat 6: Dorex2007 ($2.46 in chips) 
+Seat 7: fujiyoto ($2 in chips) 
+Seat 8: Demidov V.S. ($0.79 in chips) 
+Seat 9: CA Sanchez ($2.56 in chips) 
+dhabiles52: posts small blind $0.01
+perffect16: posts big blind $0.02
+Serafim1025: sits out 
+nightbadger: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 8h]
+Dorex2007: folds 
+fujiyoto: folds 
+Demidov V.S.: folds 
+CA Sanchez: folds 
+Alvarenga0708: folds 
+dhabiles52: folds 
+Uncalled bet ($0.01) returned to perffect16
+perffect16 collected $0.02 from pot
+perffect16: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Alvarenga0708 (button) folded before Flop (didn't bet)
+Seat 2: dhabiles52 (small blind) folded before Flop
+Seat 3: perffect16 (big blind) collected ($0.02)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fujiyoto folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: CA Sanchez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230541079353:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:54:24 PT [2021/10/11 23:54:24 ET]
+Table 'Ellicott II' 9-max Seat #3 is the button
+Seat 1: Alvarenga0708 ($5.12 in chips) 
+Seat 3: perffect16 ($2.71 in chips) 
+Seat 6: Dorex2007 ($2.46 in chips) 
+Seat 8: Demidov V.S. ($0.79 in chips) 
+Seat 9: CA Sanchez ($2.56 in chips) 
+Dorex2007: posts small blind $0.01
+fujiyoto: is sitting out 
+Demidov V.S.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 5s]
+fujiyoto leaves the table
+CA Sanchez has timed out
+CA Sanchez: folds 
+Alvarenga0708: folds 
+perffect16: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to Demidov V.S.
+Demidov V.S. collected $0.02 from pot
+Demidov V.S.: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Alvarenga0708 folded before Flop (didn't bet)
+Seat 3: perffect16 (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 8: Demidov V.S. (big blind) collected ($0.02)
+Seat 9: CA Sanchez folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230541083209:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:54:47 PT [2021/10/11 23:54:47 ET]
+Table 'Ellicott II' 9-max Seat #6 is the button
+Seat 3: perffect16 ($2.71 in chips) 
+Seat 4: Serafim1025 ($2 in chips) 
+Seat 6: Dorex2007 ($2.45 in chips) 
+Seat 8: Demidov V.S. ($0.80 in chips) 
+Seat 9: CA Sanchez ($2.56 in chips) 
+Alvarenga0708 leaves the table
+Demidov V.S.: posts small blind $0.01
+CA Sanchez: posts big blind $0.02
+Serafim1025: posts big blind $0.02
+nightbadger: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 4h]
+perffect16: folds 
+Serafim1025: checks 
+Dorex2007: folds 
+Demidov V.S.: folds 
+CA Sanchez: checks 
+*** FLOP *** [3c 3s Ah]
+CA Sanchez: checks 
+Serafim1025: checks 
+*** TURN *** [3c 3s Ah] [Jc]
+CA Sanchez: checks 
+Serafim1025: checks 
+*** RIVER *** [3c 3s Ah Jc] [Ac]
+CA Sanchez: checks 
+Serafim1025: bets $0.02
+CA Sanchez: calls $0.02
+*** SHOW DOWN ***
+Serafim1025: shows [5h Jh] (two pair, Aces and Jacks)
+CA Sanchez: mucks hand 
+Serafim1025 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [3c 3s Ah Jc Ac]
+Seat 3: perffect16 folded before Flop (didn't bet)
+Seat 4: Serafim1025 showed [5h Jh] and won ($0.09) with two pair, Aces and Jacks
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: Demidov V.S. (small blind) folded before Flop
+Seat 9: CA Sanchez (big blind) mucked [5s 5d]
+
+
+
+PokerStars Hand #230541088543:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:55:25 PT [2021/10/11 23:55:25 ET]
+Table 'Ellicott II' 9-max Seat #8 is the button
+Seat 3: perffect16 ($2.71 in chips) 
+Seat 4: Serafim1025 ($2.05 in chips) 
+Seat 6: Dorex2007 ($2.45 in chips) 
+Seat 8: Demidov V.S. ($0.79 in chips) 
+Seat 9: CA Sanchez ($2.52 in chips) 
+CA Sanchez: posts small blind $0.01
+perffect16: posts big blind $0.02
+nightbadger: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 6d]
+Serafim1025: folds 
+Dorex2007: folds 
+Demidov V.S.: folds 
+CA Sanchez: calls $0.01
+perffect16: checks 
+*** FLOP *** [8d 9d Qh]
+CA Sanchez: checks 
+perffect16: checks 
+*** TURN *** [8d 9d Qh] [3d]
+dhabiles52 leaves the table
+CA Sanchez: bets $0.02
+perffect16: calls $0.02
+*** RIVER *** [8d 9d Qh 3d] [6h]
+CA Sanchez: bets $0.02
+perffect16: calls $0.02
+*** SHOW DOWN ***
+CA Sanchez: shows [Th 9c] (a pair of Nines)
+perffect16: mucks hand 
+CA Sanchez collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8d 9d Qh 3d 6h]
+Seat 3: perffect16 (big blind) mucked [3c 5c]
+Seat 4: Serafim1025 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 8: Demidov V.S. (button) folded before Flop (didn't bet)
+Seat 9: CA Sanchez (small blind) showed [Th 9c] and won ($0.12) with a pair of Nines
+
+
+
+PokerStars Hand #230541092939:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/11 20:55:58 PT [2021/10/11 23:55:58 ET]
+Table 'Ellicott II' 9-max Seat #9 is the button
+Seat 3: perffect16 ($2.65 in chips) 
+Seat 4: Serafim1025 ($2.05 in chips) 
+Seat 6: Dorex2007 ($2.45 in chips) 
+Seat 8: Demidov V.S. ($0.79 in chips) 
+Seat 9: CA Sanchez ($2.58 in chips) 
+perffect16: posts small blind $0.01
+Serafim1025: posts big blind $0.02
+nightbadger: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 3s]
+Dorex2007: folds 
+Demidov V.S.: folds 
+CA Sanchez: folds 
+perffect16: calls $0.01
+Serafim1025: checks 
+*** FLOP *** [6c 4s 6d]
+perffect16: checks 
+nightbadger leaves the table
+Serafim1025: bets $0.10
+perffect16: folds 
+Uncalled bet ($0.10) returned to Serafim1025
+Serafim1025 collected $0.04 from pot
+Serafim1025: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [6c 4s 6d]
+Seat 3: perffect16 (small blind) folded on the Flop
+Seat 4: Serafim1025 (big blind) collected ($0.04)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 8: Demidov V.S. folded before Flop (didn't bet)
+Seat 9: CA Sanchez (button) folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,4459 @@
+﻿PokerStars Hand #228201951520:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:07:08 PT [2021/07/10 19:07:08 ET]
+Table 'Dembowska V' 9-max Seat #2 is the button
+Seat 1: hausmann777 ($3.92 in chips) 
+Seat 2: Wesslan404 ($1.64 in chips) 
+Seat 3: Bongstockings ($4.94 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: batorpeti ($2.08 in chips) 
+Seat 6: floriano1946 ($1.73 in chips) 
+Seat 7: Yakov_008 ($1.29 in chips) 
+Seat 8: ArfurDaley ($2.82 in chips) 
+Seat 9: MCAS1994 ($1.30 in chips) 
+Bongstockings: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 8s]
+batorpeti: folds 
+floriano1946: folds 
+Yakov_008: raises $0.05 to $0.07
+ArfurDaley: folds 
+MCAS1994: folds 
+hausmann777: raises $0.11 to $0.18
+Wesslan404: folds 
+Bongstockings: folds 
+Dorex2007: folds 
+Yakov_008: calls $0.11
+*** FLOP *** [5c Kd Ah]
+floriano1946 leaves the table
+Yakov_008: checks 
+hausmann777: checks 
+*** TURN *** [5c Kd Ah] [Ks]
+Yakov_008: checks 
+enixblr joins the table at seat #6 
+hausmann777: bets $0.22
+Yakov_008: calls $0.22
+*** RIVER *** [5c Kd Ah Ks] [4s]
+Yakov_008: checks 
+hausmann777: checks 
+*** SHOW DOWN ***
+Yakov_008: shows [7d 7s] (two pair, Kings and Sevens)
+hausmann777: shows [Jd Js] (two pair, Kings and Jacks)
+hausmann777 collected $0.79 from pot
+*** SUMMARY ***
+Total pot $0.83 | Rake $0.04 
+Board [5c Kd Ah Ks 4s]
+Seat 1: hausmann777 showed [Jd Js] and won ($0.79) with two pair, Kings and Jacks
+Seat 2: Wesslan404 (button) folded before Flop (didn't bet)
+Seat 3: Bongstockings (small blind) folded before Flop
+Seat 4: Dorex2007 (big blind) folded before Flop
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: floriano1946 folded before Flop (didn't bet)
+Seat 7: Yakov_008 showed [7d 7s] and lost with two pair, Kings and Sevens
+Seat 8: ArfurDaley folded before Flop (didn't bet)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228201974977:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:08:18 PT [2021/07/10 19:08:18 ET]
+Table 'Dembowska V' 9-max Seat #3 is the button
+Seat 1: hausmann777 ($4.31 in chips) 
+Seat 2: Wesslan404 ($1.64 in chips) 
+Seat 3: Bongstockings ($4.93 in chips) 
+Seat 4: Dorex2007 ($1.98 in chips) 
+Seat 5: batorpeti ($2.08 in chips) 
+Seat 7: Yakov_008 ($0.89 in chips) 
+Seat 8: ArfurDaley ($2.82 in chips) 
+Seat 9: MCAS1994 ($1.30 in chips) 
+Dorex2007: posts small blind $0.01
+batorpeti: posts big blind $0.02
+enixblr: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 6h]
+Yakov_008: folds 
+ArfurDaley: folds 
+MCAS1994: raises $0.04 to $0.06
+hausmann777: folds 
+Wesslan404: folds 
+Bongstockings: folds 
+Dorex2007: folds 
+batorpeti: folds 
+Uncalled bet ($0.04) returned to MCAS1994
+MCAS1994 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: Wesslan404 folded before Flop (didn't bet)
+Seat 3: Bongstockings (button) folded before Flop (didn't bet)
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: batorpeti (big blind) folded before Flop
+Seat 7: Yakov_008 folded before Flop (didn't bet)
+Seat 8: ArfurDaley folded before Flop (didn't bet)
+Seat 9: MCAS1994 collected ($0.05)
+
+
+
+PokerStars Hand #228201984948:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:08:47 PT [2021/07/10 19:08:47 ET]
+Table 'Dembowska V' 9-max Seat #4 is the button
+Seat 1: hausmann777 ($4.31 in chips) 
+Seat 2: Wesslan404 ($1.64 in chips) 
+Seat 3: Bongstockings ($4.93 in chips) 
+Seat 4: Dorex2007 ($1.97 in chips) 
+Seat 5: batorpeti ($2.06 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($0.89 in chips) 
+Seat 8: ArfurDaley ($2.82 in chips) 
+Seat 9: MCAS1994 ($1.33 in chips) 
+batorpeti: posts small blind $0.01
+enixblr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Qd]
+Yakov_008: raises $0.05 to $0.07
+ArfurDaley: folds 
+MCAS1994: folds 
+hausmann777: raises $0.09 to $0.16
+Wesslan404: folds 
+Bongstockings: folds 
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Yakov_008: raises $0.35 to $0.51
+hausmann777: raises $0.35 to $0.86
+Yakov_008: raises $0.03 to $0.89 and is all-in
+hausmann777: calls $0.03
+*** FLOP *** [5s 6h 5d]
+*** TURN *** [5s 6h 5d] [Qh]
+*** RIVER *** [5s 6h 5d Qh] [Th]
+*** SHOW DOWN ***
+Yakov_008: shows [Ah Ks] (a pair of Fives)
+hausmann777: shows [As Ac] (two pair, Aces and Fives)
+hausmann777 collected $1.73 from pot
+*** SUMMARY ***
+Total pot $1.81 | Rake $0.08 
+Board [5s 6h 5d Qh Th]
+Seat 1: hausmann777 showed [As Ac] and won ($1.73) with two pair, Aces and Fives
+Seat 2: Wesslan404 folded before Flop (didn't bet)
+Seat 3: Bongstockings folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: batorpeti (small blind) folded before Flop
+Seat 6: enixblr (big blind) folded before Flop
+Seat 7: Yakov_008 showed [Ah Ks] and lost with a pair of Fives
+Seat 8: ArfurDaley folded before Flop (didn't bet)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202003119:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:09:42 PT [2021/07/10 19:09:42 ET]
+Table 'Dembowska V' 9-max Seat #5 is the button
+Seat 1: hausmann777 ($5.15 in chips) 
+Seat 2: Wesslan404 ($1.64 in chips) 
+Seat 3: Bongstockings ($4.93 in chips) 
+Seat 4: Dorex2007 ($1.97 in chips) 
+Seat 5: batorpeti ($2.05 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 8: ArfurDaley ($2.82 in chips) 
+Seat 9: MCAS1994 ($1.33 in chips) 
+enixblr: posts small blind $0.01
+ArfurDaley: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 6d]
+MCAS1994: folds 
+hausmann777: raises $0.06 to $0.08
+Wesslan404: folds 
+Bongstockings: folds 
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+ArfurDaley: folds 
+Uncalled bet ($0.06) returned to hausmann777
+hausmann777 collected $0.05 from pot
+hausmann777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hausmann777 collected ($0.05)
+Seat 2: Wesslan404 folded before Flop (didn't bet)
+Seat 3: Bongstockings folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti (button) folded before Flop (didn't bet)
+Seat 6: enixblr (small blind) folded before Flop
+Seat 8: ArfurDaley (big blind) folded before Flop
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202009764:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:10:01 PT [2021/07/10 19:10:01 ET]
+Table 'Dembowska V' 9-max Seat #6 is the button
+Seat 1: hausmann777 ($5.18 in chips) 
+Seat 2: Wesslan404 ($1.64 in chips) 
+Seat 3: Bongstockings ($4.93 in chips) 
+Seat 4: Dorex2007 ($1.97 in chips) 
+Seat 5: batorpeti ($2.05 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 8: ArfurDaley ($2.80 in chips) 
+Seat 9: MCAS1994 ($1.33 in chips) 
+ArfurDaley: posts small blind $0.01
+MCAS1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 8s]
+hausmann777 has timed out
+hausmann777: folds 
+Wesslan404: raises $0.04 to $0.06
+Bongstockings: folds 
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+ArfurDaley: folds 
+MCAS1994: folds 
+Uncalled bet ($0.04) returned to Wesslan404
+Wesslan404 collected $0.05 from pot
+Wesslan404: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: Wesslan404 collected ($0.05)
+Seat 3: Bongstockings folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr (button) folded before Flop (didn't bet)
+Seat 8: ArfurDaley (small blind) folded before Flop
+Seat 9: MCAS1994 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228202019607:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:10:30 PT [2021/07/10 19:10:30 ET]
+Table 'Dembowska V' 9-max Seat #8 is the button
+Seat 1: hausmann777 ($5.18 in chips) 
+Seat 2: Wesslan404 ($1.67 in chips) 
+Seat 3: Bongstockings ($4.93 in chips) 
+Seat 4: Dorex2007 ($1.97 in chips) 
+Seat 5: batorpeti ($2.05 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($1.62 in chips) 
+Seat 8: ArfurDaley ($2.79 in chips) 
+Seat 9: MCAS1994 ($1.31 in chips) 
+MCAS1994: posts small blind $0.01
+hausmann777: posts big blind $0.02
+Yakov_008: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 4h]
+Wesslan404: folds 
+Bongstockings: raises $0.04 to $0.06
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Yakov_008: calls $0.04
+ArfurDaley: folds 
+MCAS1994: folds 
+hausmann777: calls $0.04
+*** FLOP *** [2c 7d Kc]
+hausmann777: checks 
+Bongstockings: bets $0.10
+Yakov_008: folds 
+hausmann777: folds 
+Uncalled bet ($0.10) returned to Bongstockings
+Bongstockings collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2c 7d Kc]
+Seat 1: hausmann777 (big blind) folded on the Flop
+Seat 2: Wesslan404 folded before Flop (didn't bet)
+Seat 3: Bongstockings collected ($0.19)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Yakov_008 folded on the Flop
+Seat 8: ArfurDaley (button) folded before Flop (didn't bet)
+Seat 9: MCAS1994 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228202063193:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:12:40 PT [2021/07/10 19:12:40 ET]
+Table 'Dembowska V' 9-max Seat #5 is the button
+Seat 1: hausmann777 ($5.11 in chips) 
+Seat 2: Wesslan404 ($1.64 in chips) 
+Seat 4: Dorex2007 ($1.97 in chips) 
+Seat 5: batorpeti ($2.02 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($1.55 in chips) 
+Seat 8: ArfurDaley ($2.50 in chips) 
+Seat 9: MCAS1994 ($1.63 in chips) 
+enixblr: posts small blind $0.01
+Yakov_008: posts big blind $0.02
+profmansur: sits out 
+Dorex2007: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 6d]
+ArfurDaley: folds 
+MCAS1994: folds 
+hausmann777: folds 
+Wesslan404: raises $0.04 to $0.06
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Yakov_008: calls $0.04
+*** FLOP *** [6h Kd Ac]
+Yakov_008: checks 
+Wesslan404: checks 
+*** TURN *** [6h Kd Ac] [2s]
+Yakov_008: checks 
+Wesslan404: bets $0.04
+Yakov_008: folds 
+Uncalled bet ($0.04) returned to Wesslan404
+Wesslan404 collected $0.15 from pot
+Wesslan404: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [6h Kd Ac 2s]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: Wesslan404 collected ($0.15)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti (button) folded before Flop (didn't bet)
+Seat 6: enixblr (small blind) folded before Flop
+Seat 7: Yakov_008 (big blind) folded on the Turn
+Seat 8: ArfurDaley folded before Flop (didn't bet)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202078213:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:13:25 PT [2021/07/10 19:13:25 ET]
+Table 'Dembowska V' 9-max Seat #6 is the button
+Seat 1: hausmann777 ($5.11 in chips) 
+Seat 2: Wesslan404 ($1.73 in chips) 
+Seat 4: Dorex2007 ($1.94 in chips) 
+Seat 5: batorpeti ($2.02 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($1.49 in chips) 
+Seat 8: ArfurDaley ($2.50 in chips) 
+Seat 9: MCAS1994 ($1.63 in chips) 
+Yakov_008: posts small blind $0.01
+ArfurDaley: posts big blind $0.02
+profmansur: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 7d]
+MCAS1994: raises $0.04 to $0.06
+hausmann777: calls $0.06
+Wesslan404: folds 
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Yakov_008: calls $0.05
+ArfurDaley: folds 
+*** FLOP *** [7s 8c 7h]
+Yakov_008: bets $0.09
+MCAS1994: calls $0.09
+hausmann777: folds 
+*** TURN *** [7s 8c 7h] [5d]
+Yakov_008: checks 
+MCAS1994: checks 
+*** RIVER *** [7s 8c 7h 5d] [8d]
+Yakov_008: checks 
+MCAS1994: checks 
+*** SHOW DOWN ***
+Yakov_008: shows [Th 3h] (two pair, Eights and Sevens)
+MCAS1994: shows [Jh Jc] (two pair, Jacks and Eights)
+MCAS1994 collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [7s 8c 7h 5d 8d]
+Seat 1: hausmann777 folded on the Flop
+Seat 2: Wesslan404 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr (button) folded before Flop (didn't bet)
+Seat 7: Yakov_008 (small blind) showed [Th 3h] and lost with two pair, Eights and Sevens
+Seat 8: ArfurDaley (big blind) folded before Flop
+Seat 9: MCAS1994 showed [Jh Jc] and won ($0.37) with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #228202092871:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:14:10 PT [2021/07/10 19:14:10 ET]
+Table 'Dembowska V' 9-max Seat #7 is the button
+Seat 1: hausmann777 ($5.05 in chips) 
+Seat 2: Wesslan404 ($1.73 in chips) 
+Seat 4: Dorex2007 ($1.94 in chips) 
+Seat 5: batorpeti ($2.02 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($1.34 in chips) 
+Seat 8: ArfurDaley ($2.48 in chips) 
+Seat 9: MCAS1994 ($1.85 in chips) 
+ArfurDaley: posts small blind $0.01
+MCAS1994: posts big blind $0.02
+profmansur: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Js]
+hausmann777: folds 
+Wesslan404: folds 
+Dorex2007: folds 
+batorpeti: folds 
+enixblr has timed out
+enixblr: folds 
+Yakov_008 has timed out
+Yakov_008: folds 
+ArfurDaley: calls $0.01
+MCAS1994: raises $0.04 to $0.06
+ArfurDaley: calls $0.04
+*** FLOP *** [4d 3h Kh]
+ArfurDaley: checks 
+MCAS1994: bets $0.06
+ArfurDaley: folds 
+Uncalled bet ($0.06) returned to MCAS1994
+MCAS1994 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [4d 3h Kh]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: Wesslan404 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Yakov_008 (button) folded before Flop (didn't bet)
+Seat 8: ArfurDaley (small blind) folded on the Flop
+Seat 9: MCAS1994 (big blind) collected ($0.12)
+
+
+
+PokerStars Hand #228202115555:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:14:58 PT [2021/07/10 19:14:58 ET]
+Table 'Dembowska V' 9-max Seat #8 is the button
+Seat 1: hausmann777 ($5.05 in chips) 
+Seat 2: Wesslan404 ($1.73 in chips) 
+Seat 4: Dorex2007 ($1.94 in chips) 
+Seat 5: batorpeti ($2.02 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($1.34 in chips) 
+Seat 8: ArfurDaley ($2.42 in chips) 
+Seat 9: MCAS1994 ($1.91 in chips) 
+MCAS1994: posts small blind $0.01
+hausmann777: posts big blind $0.02
+profmansur: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Jd]
+Wesslan404: folds 
+Dorex2007: raises $0.02 to $0.04
+batorpeti: folds 
+enixblr: folds 
+Yakov_008: folds 
+ArfurDaley: folds 
+MCAS1994: calls $0.03
+hausmann777: calls $0.02
+*** FLOP *** [9s Kc Qh]
+MCAS1994: checks 
+hausmann777: checks 
+Dorex2007: bets $0.06
+MCAS1994: folds 
+hausmann777: folds 
+Uncalled bet ($0.06) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [9s Kc Qh]
+Seat 1: hausmann777 (big blind) folded on the Flop
+Seat 2: Wesslan404 folded before Flop (didn't bet)
+Seat 4: Dorex2007 collected ($0.12)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Yakov_008 folded before Flop (didn't bet)
+Seat 8: ArfurDaley (button) folded before Flop (didn't bet)
+Seat 9: MCAS1994 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #228202130459:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:15:43 PT [2021/07/10 19:15:43 ET]
+Table 'Dembowska V' 9-max Seat #9 is the button
+Seat 1: hausmann777 ($5.01 in chips) 
+Seat 2: Wesslan404 ($1.73 in chips) 
+Seat 4: Dorex2007 ($2.02 in chips) 
+Seat 5: batorpeti ($2.02 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($1.34 in chips) 
+Seat 8: ArfurDaley ($2.42 in chips) 
+Seat 9: MCAS1994 ($1.87 in chips) 
+hausmann777: posts small blind $0.01
+Wesslan404: posts big blind $0.02
+profmansur: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 2d]
+Dorex2007: folds 
+batorpeti: raises $0.02 to $0.04
+enixblr: folds 
+Yakov_008: folds 
+ArfurDaley: folds 
+MCAS1994: folds 
+hausmann777: folds 
+Wesslan404: folds 
+Uncalled bet ($0.02) returned to batorpeti
+batorpeti collected $0.05 from pot
+batorpeti: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hausmann777 (small blind) folded before Flop
+Seat 2: Wesslan404 (big blind) folded before Flop
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti collected ($0.05)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Yakov_008 folded before Flop (didn't bet)
+Seat 8: ArfurDaley folded before Flop (didn't bet)
+Seat 9: MCAS1994 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202137438:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:16:04 PT [2021/07/10 19:16:04 ET]
+Table 'Dembowska V' 9-max Seat #1 is the button
+Seat 1: hausmann777 ($5 in chips) 
+Seat 2: Wesslan404 ($1.71 in chips) 
+Seat 3: profmansur ($1.10 in chips) 
+Seat 4: Dorex2007 ($2.02 in chips) 
+Seat 5: batorpeti ($2.05 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($1.34 in chips) 
+Seat 8: ArfurDaley ($2.42 in chips) 
+Seat 9: MCAS1994 ($1.87 in chips) 
+Wesslan404: posts small blind $0.01
+profmansur: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 7d]
+Dorex2007: folds 
+batorpeti: raises $0.02 to $0.04
+enixblr: folds 
+Yakov_008: raises $0.11 to $0.15
+ArfurDaley: folds 
+MCAS1994: folds 
+hausmann777: folds 
+Wesslan404: folds 
+profmansur: calls $0.13
+batorpeti: calls $0.11
+*** FLOP *** [Ac 8h 6d]
+profmansur: checks 
+batorpeti: checks 
+Yakov_008: bets $0.20
+profmansur: calls $0.20
+batorpeti: folds 
+*** TURN *** [Ac 8h 6d] [Td]
+profmansur: checks 
+ArfurDaley leaves the table
+Yakov_008: bets $0.34
+profmansur: calls $0.34
+*** RIVER *** [Ac 8h 6d Td] [9d]
+profmansur: checks 
+Yakov_008: bets $0.65 and is all-in
+profmansur: folds 
+Uncalled bet ($0.65) returned to Yakov_008
+Yakov_008 collected $1.49 from pot
+*** SUMMARY ***
+Total pot $1.54 | Rake $0.05 
+Board [Ac 8h 6d Td 9d]
+Seat 1: hausmann777 (button) folded before Flop (didn't bet)
+Seat 2: Wesslan404 (small blind) folded before Flop
+Seat 3: profmansur (big blind) folded on the River
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded on the Flop
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Yakov_008 collected ($1.49)
+Seat 8: ArfurDaley folded before Flop (didn't bet)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202156553:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:17:02 PT [2021/07/10 19:17:02 ET]
+Table 'Dembowska V' 9-max Seat #2 is the button
+Seat 1: hausmann777 ($5 in chips) 
+Seat 2: Wesslan404 ($1.70 in chips) 
+Seat 3: profmansur ($0.41 in chips) 
+Seat 4: Dorex2007 ($2.02 in chips) 
+Seat 5: batorpeti ($2 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($2.14 in chips) 
+Seat 9: MCAS1994 ($1.87 in chips) 
+profmansur: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 4h]
+batorpeti: folds 
+enixblr: folds 
+Yakov_008: raises $0.05 to $0.07
+MCAS1994: folds 
+hausmann777: folds 
+Wesslan404: folds 
+profmansur: raises $0.05 to $0.12
+Dorex2007: folds 
+Yakov_008: calls $0.05
+*** FLOP *** [4c 3d Qh]
+profmansur: bets $0.29 and is all-in
+Yakov_008: calls $0.29
+*** TURN *** [4c 3d Qh] [4d]
+*** RIVER *** [4c 3d Qh 4d] [7h]
+*** SHOW DOWN ***
+profmansur: shows [5c Jh] (a pair of Fours)
+Yakov_008: shows [6h 6s] (two pair, Sixes and Fours)
+Yakov_008 collected $0.81 from pot
+profmansur cashed out the hand for $0.13
+*** SUMMARY ***
+Total pot $0.84 | Rake $0.03 
+Board [4c 3d Qh 4d 7h]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: Wesslan404 (button) folded before Flop (didn't bet)
+Seat 3: profmansur (small blind) showed [5c Jh] and lost with a pair of Fours (cashed out).
+Seat 4: Dorex2007 (big blind) folded before Flop
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Yakov_008 showed [6h 6s] and won ($0.81) with two pair, Sixes and Fours
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202169686:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:17:42 PT [2021/07/10 19:17:42 ET]
+Table 'Dembowska V' 9-max Seat #3 is the button
+Seat 1: hausmann777 ($5 in chips) 
+Seat 2: Wesslan404 ($1.70 in chips) 
+Seat 3: profmansur ($0.13 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: batorpeti ($2 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($2.54 in chips) 
+Seat 9: MCAS1994 ($1.87 in chips) 
+Dorex2007: posts small blind $0.01
+batorpeti: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Kd]
+enixblr: folds 
+SleepyShepherd joins the table at seat #8 
+Yakov_008: raises $0.03 to $0.05
+MCAS1994: folds 
+hausmann777: folds 
+Wesslan404: folds 
+profmansur: raises $0.08 to $0.13 and is all-in
+Dorex2007: folds 
+batorpeti: folds 
+Yakov_008: calls $0.08
+*** FLOP *** [Qh As 9s]
+*** TURN *** [Qh As 9s] [4s]
+*** RIVER *** [Qh As 9s 4s] [Ad]
+*** SHOW DOWN ***
+Yakov_008: shows [7s 7d] (two pair, Aces and Sevens)
+profmansur: shows [5c 9d] (two pair, Aces and Nines)
+profmansur cashed out the hand for $0.08
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Qh As 9s 4s Ad]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: Wesslan404 folded before Flop (didn't bet)
+Seat 3: profmansur (button) showed [5c 9d] and won ($0.28) with two pair, Aces and Nines (pot not awarded as player cashed out)
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: batorpeti (big blind) folded before Flop
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Yakov_008 showed [7s 7d] and lost with two pair, Aces and Sevens
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202180820:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:18:16 PT [2021/07/10 19:18:16 ET]
+Table 'Dembowska V' 9-max Seat #4 is the button
+Seat 1: hausmann777 ($5 in chips) 
+Seat 2: Wesslan404 ($1.70 in chips) 
+Seat 3: profmansur ($0.08 in chips) 
+Seat 4: Dorex2007 ($1.99 in chips) 
+Seat 5: batorpeti ($2 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($2.41 in chips) 
+Seat 8: SleepyShepherd ($2 in chips) 
+Seat 9: MCAS1994 ($1.87 in chips) 
+batorpeti: posts small blind $0.01
+enixblr: posts big blind $0.02
+SleepyShepherd: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Ad]
+Yakov_008: folds 
+SleepyShepherd: raises $0.04 to $0.06
+MCAS1994: folds 
+hausmann777: folds 
+Wesslan404: calls $0.06
+profmansur: calls $0.06
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+*** FLOP *** [Jd 6d 2s]
+SleepyShepherd: bets $0.10
+Wesslan404: folds 
+profmansur: calls $0.02 and is all-in
+Uncalled bet ($0.08) returned to SleepyShepherd
+*** TURN *** [Jd 6d 2s] [Th]
+*** RIVER *** [Jd 6d 2s Th] [5c]
+*** SHOW DOWN ***
+SleepyShepherd: shows [7d 3d] (high card Jack)
+profmansur: shows [Jh 9s] (a pair of Jacks)
+profmansur cashed out the hand for $0.14
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Jd 6d 2s Th 5c]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: Wesslan404 folded on the Flop
+Seat 3: profmansur showed [Jh 9s] and won ($0.24) with a pair of Jacks (pot not awarded as player cashed out)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: batorpeti (small blind) folded before Flop
+Seat 6: enixblr (big blind) folded before Flop
+Seat 7: Yakov_008 folded before Flop (didn't bet)
+Seat 8: SleepyShepherd showed [7d 3d] and lost with high card Jack
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202197833:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:19:07 PT [2021/07/10 19:19:07 ET]
+Table 'Dembowska V' 9-max Seat #5 is the button
+Seat 1: hausmann777 ($5 in chips) 
+Seat 2: Wesslan404 ($1.64 in chips) 
+Seat 3: profmansur ($0.14 in chips) 
+Seat 4: Dorex2007 ($1.99 in chips) 
+Seat 5: batorpeti ($2 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($2.41 in chips) 
+Seat 8: SleepyShepherd ($1.92 in chips) 
+Seat 9: MCAS1994 ($1.87 in chips) 
+enixblr: posts small blind $0.01
+Yakov_008: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 5d]
+SleepyShepherd: raises $0.05 to $0.07
+MCAS1994: folds 
+hausmann777: folds 
+Wesslan404: folds 
+profmansur: raises $0.07 to $0.14 and is all-in
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Yakov_008: folds 
+SleepyShepherd: calls $0.07
+*** FLOP *** [8c Qs Jh]
+*** TURN *** [8c Qs Jh] [9h]
+*** RIVER *** [8c Qs Jh 9h] [Kh]
+*** SHOW DOWN ***
+SleepyShepherd: shows [As Ah] (a pair of Aces)
+profmansur: shows [8h 8s] (three of a kind, Eights)
+profmansur cashed out the hand for $0.05
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [8c Qs Jh 9h Kh]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: Wesslan404 folded before Flop (didn't bet)
+Seat 3: profmansur showed [8h 8s] and won ($0.30) with three of a kind, Eights (pot not awarded as player cashed out)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti (button) folded before Flop (didn't bet)
+Seat 6: enixblr (small blind) folded before Flop
+Seat 7: Yakov_008 (big blind) folded before Flop
+Seat 8: SleepyShepherd showed [As Ah] and lost with a pair of Aces
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202208846:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:19:40 PT [2021/07/10 19:19:40 ET]
+Table 'Dembowska V' 9-max Seat #6 is the button
+Seat 1: hausmann777 ($5 in chips) 
+Seat 2: Wesslan404 ($1.64 in chips) 
+Seat 3: profmansur ($0.05 in chips) 
+Seat 4: Dorex2007 ($1.99 in chips) 
+Seat 5: batorpeti ($2 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($2.39 in chips) 
+Seat 8: SleepyShepherd ($1.78 in chips) 
+Seat 9: MCAS1994 ($1.87 in chips) 
+Yakov_008: posts small blind $0.01
+SleepyShepherd: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 3h]
+MCAS1994 said, "hahahahahaha"
+MCAS1994: folds 
+hausmann777: folds 
+Wesslan404: folds 
+profmansur: calls $0.02
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Yakov_008: calls $0.01
+SleepyShepherd: raises $0.06 to $0.08
+SleepyShepherd said, "just variance"
+profmansur: calls $0.03 and is all-in
+Yakov_008: calls $0.06
+*** FLOP *** [3s Jd 2h]
+Yakov_008: bets $0.09
+SleepyShepherd: calls $0.09
+*** TURN *** [3s Jd 2h] [As]
+Yakov_008: checks 
+SleepyShepherd: checks 
+*** RIVER *** [3s Jd 2h As] [6s]
+Yakov_008: checks 
+SleepyShepherd: bets $0.38
+Yakov_008: folds 
+Uncalled bet ($0.38) returned to SleepyShepherd
+*** SHOW DOWN ***
+SleepyShepherd: shows [9s Tc] (high card Ace)
+SleepyShepherd collected $0.24 from side pot
+profmansur: shows [2c Qc] (a pair of Deuces)
+profmansur collected $0.14 from main pot
+*** SUMMARY ***
+Total pot $0.39 Main pot $0.14. Side pot $0.24. | Rake $0.01 
+Board [3s Jd 2h As 6s]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: Wesslan404 folded before Flop (didn't bet)
+Seat 3: profmansur showed [2c Qc] and won ($0.14) with a pair of Deuces
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr (button) folded before Flop (didn't bet)
+Seat 7: Yakov_008 (small blind) folded on the River
+Seat 8: SleepyShepherd (big blind) showed [9s Tc] and won ($0.24) with high card Ace
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202223717:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:20:25 PT [2021/07/10 19:20:25 ET]
+Table 'Dembowska V' 9-max Seat #7 is the button
+Seat 1: hausmann777 ($5 in chips) 
+Seat 2: Wesslan404 ($1.64 in chips) 
+Seat 3: profmansur ($0.14 in chips) 
+Seat 4: Dorex2007 ($1.99 in chips) 
+Seat 5: batorpeti ($2 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($2.22 in chips) 
+Seat 8: SleepyShepherd ($1.85 in chips) 
+Seat 9: MCAS1994 ($1.87 in chips) 
+SleepyShepherd: posts small blind $0.01
+MCAS1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Tc]
+hausmann777: folds 
+Wesslan404: raises $0.04 to $0.06
+profmansur: folds 
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Yakov_008: calls $0.06
+SleepyShepherd: calls $0.05
+MCAS1994: raises $0.24 to $0.30
+Wesslan404: folds 
+Yakov_008: folds 
+SleepyShepherd: calls $0.24
+*** FLOP *** [2s Ac Kc]
+SleepyShepherd: checks 
+MCAS1994: bets $0.18
+SleepyShepherd: folds 
+Uncalled bet ($0.18) returned to MCAS1994
+MCAS1994 collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03 
+Board [2s Ac Kc]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: Wesslan404 folded before Flop
+Seat 3: profmansur folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Yakov_008 (button) folded before Flop
+Seat 8: SleepyShepherd (small blind) folded on the Flop
+Seat 9: MCAS1994 (big blind) collected ($0.69)
+
+
+
+PokerStars Hand #228202249990:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:21:46 PT [2021/07/10 19:21:46 ET]
+Table 'Dembowska V' 9-max Seat #8 is the button
+Seat 1: hausmann777 ($5 in chips) 
+Seat 2: Wesslan404 ($1.58 in chips) 
+Seat 3: profmansur ($0.14 in chips) 
+Seat 4: Dorex2007 ($1.99 in chips) 
+Seat 5: batorpeti ($2 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($2.16 in chips) 
+Seat 8: SleepyShepherd ($1.55 in chips) 
+Seat 9: MCAS1994 ($2.26 in chips) 
+MCAS1994: posts small blind $0.01
+hausmann777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 9h]
+Wesslan404: folds 
+Wesslan404 leaves the table
+profmansur: folds 
+Dorex2007: raises $0.02 to $0.04
+batorpeti: folds 
+enixblr has timed out
+enixblr: folds 
+Yakov_008: raises $0.11 to $0.15
+BAHbKA003 joins the table at seat #2 
+SleepyShepherd: folds 
+MCAS1994: folds 
+hausmann777: folds 
+Dorex2007: folds 
+Uncalled bet ($0.11) returned to Yakov_008
+Yakov_008 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: hausmann777 (big blind) folded before Flop
+Seat 2: Wesslan404 folded before Flop (didn't bet)
+Seat 3: profmansur folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Yakov_008 collected ($0.11)
+Seat 8: SleepyShepherd (button) folded before Flop (didn't bet)
+Seat 9: MCAS1994 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228202274883:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:22:37 PT [2021/07/10 19:22:37 ET]
+Table 'Dembowska V' 9-max Seat #9 is the button
+Seat 1: hausmann777 ($4.98 in chips) 
+Seat 2: BAHbKA003 ($2 in chips) 
+Seat 3: profmansur ($0.14 in chips) 
+Seat 4: Dorex2007 ($1.95 in chips) 
+Seat 5: batorpeti ($2 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($2.23 in chips) 
+Seat 8: SleepyShepherd ($1.55 in chips) 
+Seat 9: MCAS1994 ($2.25 in chips) 
+hausmann777: posts small blind $0.01
+BAHbKA003: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 4s]
+profmansur: folds 
+Dorex2007: folds 
+batorpeti: calls $0.02
+enixblr: folds 
+Yakov_008: raises $0.07 to $0.09
+SleepyShepherd: folds 
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: folds 
+batorpeti: calls $0.07
+*** FLOP *** [7c As 9s]
+batorpeti: bets $0.10
+Yakov_008: calls $0.10
+*** TURN *** [7c As 9s] [Qs]
+batorpeti: checks 
+Yakov_008: bets $0.26
+batorpeti: folds 
+Uncalled bet ($0.26) returned to Yakov_008
+Yakov_008 collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [7c As 9s Qs]
+Seat 1: hausmann777 (small blind) folded before Flop
+Seat 2: BAHbKA003 (big blind) folded before Flop
+Seat 3: profmansur folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded on the Turn
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Yakov_008 collected ($0.40)
+Seat 8: SleepyShepherd folded before Flop (didn't bet)
+Seat 9: MCAS1994 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202291672:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:23:18 PT [2021/07/10 19:23:18 ET]
+Table 'Dembowska V' 9-max Seat #1 is the button
+Seat 1: hausmann777 ($4.97 in chips) 
+Seat 2: BAHbKA003 ($1.98 in chips) 
+Seat 3: profmansur ($0.14 in chips) 
+Seat 4: Dorex2007 ($1.95 in chips) 
+Seat 5: batorpeti ($2 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($2.44 in chips) 
+Seat 8: SleepyShepherd ($1.55 in chips) 
+Seat 9: MCAS1994 ($2.25 in chips) 
+BAHbKA003: posts small blind $0.01
+profmansur: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 5c]
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Yakov_008: folds 
+SleepyShepherd: calls $0.02
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: calls $0.01
+profmansur: checks 
+*** FLOP *** [Kc As Jh]
+BAHbKA003: checks 
+profmansur: bets $0.02
+SleepyShepherd: raises $0.05 to $0.07
+BAHbKA003: folds 
+profmansur: raises $0.05 to $0.12 and is all-in
+SleepyShepherd: calls $0.05
+*** TURN *** [Kc As Jh] [6h]
+*** RIVER *** [Kc As Jh 6h] [2c]
+*** SHOW DOWN ***
+profmansur: shows [Qd Ts] (a straight, Ten to Ace)
+SleepyShepherd: shows [7s Jd] (a pair of Jacks)
+profmansur collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Kc As Jh 6h 2c]
+Seat 1: hausmann777 (button) folded before Flop (didn't bet)
+Seat 2: BAHbKA003 (small blind) folded on the Flop
+Seat 3: profmansur (big blind) showed [Qd Ts] and won ($0.29) with a straight, Ten to Ace
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Yakov_008 folded before Flop (didn't bet)
+Seat 8: SleepyShepherd showed [7s Jd] and lost with a pair of Jacks
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202308000:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:24:09 PT [2021/07/10 19:24:09 ET]
+Table 'Dembowska V' 9-max Seat #2 is the button
+Seat 1: hausmann777 ($4.97 in chips) 
+Seat 2: BAHbKA003 ($1.96 in chips) 
+Seat 3: profmansur ($0.29 in chips) 
+Seat 4: Dorex2007 ($1.95 in chips) 
+Seat 5: batorpeti ($2 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($2.44 in chips) 
+Seat 8: SleepyShepherd ($1.41 in chips) 
+Seat 9: MCAS1994 ($2.25 in chips) 
+profmansur: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s Qd]
+batorpeti: folds 
+enixblr: folds 
+Yakov_008: raises $0.03 to $0.05
+SleepyShepherd: folds 
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: folds 
+profmansur: folds 
+Dorex2007: folds 
+Uncalled bet ($0.03) returned to Yakov_008
+Yakov_008 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 (button) folded before Flop (didn't bet)
+Seat 3: profmansur (small blind) folded before Flop
+Seat 4: Dorex2007 (big blind) folded before Flop
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Yakov_008 collected ($0.05)
+Seat 8: SleepyShepherd folded before Flop (didn't bet)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202315991:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:24:34 PT [2021/07/10 19:24:34 ET]
+Table 'Dembowska V' 9-max Seat #3 is the button
+Seat 1: hausmann777 ($4.97 in chips) 
+Seat 2: BAHbKA003 ($1.96 in chips) 
+Seat 3: profmansur ($0.28 in chips) 
+Seat 4: Dorex2007 ($1.93 in chips) 
+Seat 5: batorpeti ($2 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($2.47 in chips) 
+Seat 8: SleepyShepherd ($1.41 in chips) 
+Seat 9: MCAS1994 ($2.25 in chips) 
+Dorex2007: posts small blind $0.01
+batorpeti: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 9h]
+enixblr: folds 
+Yakov_008: folds 
+SleepyShepherd: raises $0.04 to $0.06
+MCAS1994: calls $0.06
+hausmann777: folds 
+BAHbKA003: calls $0.06
+profmansur: calls $0.06
+Dorex2007: folds 
+batorpeti: folds 
+*** FLOP *** [2d 4s 2s]
+SleepyShepherd: bets $0.13
+MCAS1994: raises $0.26 to $0.39
+BAHbKA003: folds 
+profmansur: folds 
+SleepyShepherd: calls $0.26
+*** TURN *** [2d 4s 2s] [Ad]
+SleepyShepherd: checks 
+MCAS1994: bets $0.51
+SleepyShepherd: raises $0.45 to $0.96 and is all-in
+MCAS1994: calls $0.45
+*** RIVER *** [2d 4s 2s Ad] [6s]
+*** SHOW DOWN ***
+SleepyShepherd: shows [Qh Ts] (a pair of Deuces)
+MCAS1994: shows [As 5s] (a flush, Ace high)
+MCAS1994 collected $2.87 from pot
+*** SUMMARY ***
+Total pot $2.97 | Rake $0.10 
+Board [2d 4s 2s Ad 6s]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 folded on the Flop
+Seat 3: profmansur (button) folded on the Flop
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: batorpeti (big blind) folded before Flop
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Yakov_008 folded before Flop (didn't bet)
+Seat 8: SleepyShepherd showed [Qh Ts] and lost with a pair of Deuces
+Seat 9: MCAS1994 showed [As 5s] and won ($2.87) with a flush, Ace high
+
+
+
+PokerStars Hand #228202338867:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:25:45 PT [2021/07/10 19:25:45 ET]
+Table 'Dembowska V' 9-max Seat #4 is the button
+Seat 1: hausmann777 ($4.97 in chips) 
+Seat 2: BAHbKA003 ($1.90 in chips) 
+Seat 3: profmansur ($0.22 in chips) 
+Seat 4: Dorex2007 ($1.92 in chips) 
+Seat 5: batorpeti ($2 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($2.47 in chips) 
+Seat 9: MCAS1994 ($3.71 in chips) 
+batorpeti: posts small blind $0.01
+enixblr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Js]
+Yakov_008: folds 
+MCAS1994: folds 
+MrMoocat joins the table at seat #8 
+hausmann777: folds 
+BAHbKA003: folds 
+profmansur: folds 
+Dorex2007: folds 
+batorpeti: calls $0.01
+enixblr: checks 
+*** FLOP *** [Jh Qc 6d]
+batorpeti: bets $0.02
+enixblr: folds 
+Uncalled bet ($0.02) returned to batorpeti
+batorpeti collected $0.04 from pot
+batorpeti: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Jh Qc 6d]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: profmansur folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: batorpeti (small blind) collected ($0.04)
+Seat 6: enixblr (big blind) folded on the Flop
+Seat 7: Yakov_008 folded before Flop (didn't bet)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202351487:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:26:24 PT [2021/07/10 19:26:24 ET]
+Table 'Dembowska V' 9-max Seat #5 is the button
+Seat 1: hausmann777 ($4.97 in chips) 
+Seat 2: BAHbKA003 ($1.90 in chips) 
+Seat 3: profmansur ($0.22 in chips) 
+Seat 4: Dorex2007 ($1.92 in chips) 
+Seat 5: batorpeti ($2.02 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($2.47 in chips) 
+Seat 9: MCAS1994 ($3.71 in chips) 
+enixblr: posts small blind $0.01
+Yakov_008: posts big blind $0.02
+MrMoocat: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Th]
+MCAS1994: folds 
+hausmann777: raises $0.06 to $0.08
+BAHbKA003: folds 
+profmansur: raises $0.14 to $0.22 and is all-in
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Yakov_008: folds 
+hausmann777: calls $0.14
+*** FLOP *** [Kh Js 8h]
+*** TURN *** [Kh Js 8h] [2c]
+*** RIVER *** [Kh Js 8h 2c] [Qs]
+*** SHOW DOWN ***
+hausmann777: shows [3s 6s] (high card King)
+profmansur: shows [Kc Qd] (two pair, Kings and Queens)
+profmansur collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [Kh Js 8h 2c Qs]
+Seat 1: hausmann777 showed [3s 6s] and lost with high card King
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: profmansur showed [Kc Qd] and won ($0.45) with two pair, Kings and Queens
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti (button) folded before Flop (didn't bet)
+Seat 6: enixblr (small blind) folded before Flop
+Seat 7: Yakov_008 (big blind) folded before Flop
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202364619:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:27:05 PT [2021/07/10 19:27:05 ET]
+Table 'Dembowska V' 9-max Seat #6 is the button
+Seat 1: hausmann777 ($4.75 in chips) 
+Seat 2: BAHbKA003 ($1.90 in chips) 
+Seat 3: profmansur ($0.45 in chips) 
+Seat 4: Dorex2007 ($1.92 in chips) 
+Seat 5: batorpeti ($2.02 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($2.45 in chips) 
+Seat 8: MrMoocat ($0.80 in chips) 
+Seat 9: MCAS1994 ($3.71 in chips) 
+Yakov_008: posts small blind $0.01
+MrMoocat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Kd]
+MCAS1994: folds 
+hausmann777: raises $0.02 to $0.04
+BAHbKA003: folds 
+profmansur: folds 
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Yakov_008: folds 
+MrMoocat: folds 
+Uncalled bet ($0.02) returned to hausmann777
+hausmann777 collected $0.05 from pot
+hausmann777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hausmann777 collected ($0.05)
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: profmansur folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr (button) folded before Flop (didn't bet)
+Seat 7: Yakov_008 (small blind) folded before Flop
+Seat 8: MrMoocat (big blind) folded before Flop
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202373605:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:27:33 PT [2021/07/10 19:27:33 ET]
+Table 'Dembowska V' 9-max Seat #7 is the button
+Seat 1: hausmann777 ($4.78 in chips) 
+Seat 2: BAHbKA003 ($1.90 in chips) 
+Seat 3: profmansur ($0.45 in chips) 
+Seat 4: Dorex2007 ($1.92 in chips) 
+Seat 5: batorpeti ($2.02 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($2.44 in chips) 
+Seat 8: MrMoocat ($0.78 in chips) 
+Seat 9: MCAS1994 ($3.71 in chips) 
+MrMoocat: posts small blind $0.01
+MCAS1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Kc]
+hausmann777: raises $0.02 to $0.04
+BAHbKA003: folds 
+profmansur: folds 
+Dorex2007: calls $0.04
+batorpeti: folds 
+enixblr: folds 
+Yakov_008: folds 
+MrMoocat: folds 
+MCAS1994: calls $0.02
+*** FLOP *** [Qh 4s 3d]
+MCAS1994: checks 
+hausmann777: checks 
+Dorex2007: checks 
+*** TURN *** [Qh 4s 3d] [9c]
+MCAS1994: checks 
+hausmann777: bets $0.07
+Dorex2007: folds 
+MCAS1994: folds 
+Uncalled bet ($0.07) returned to hausmann777
+hausmann777 collected $0.13 from pot
+hausmann777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qh 4s 3d 9c]
+Seat 1: hausmann777 collected ($0.13)
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: profmansur folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded on the Turn
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Yakov_008 (button) folded before Flop (didn't bet)
+Seat 8: MrMoocat (small blind) folded before Flop
+Seat 9: MCAS1994 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #228202388431:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:28:20 PT [2021/07/10 19:28:20 ET]
+Table 'Dembowska V' 9-max Seat #8 is the button
+Seat 1: hausmann777 ($4.87 in chips) 
+Seat 2: BAHbKA003 ($1.90 in chips) 
+Seat 3: profmansur ($0.45 in chips) 
+Seat 4: Dorex2007 ($1.88 in chips) 
+Seat 5: batorpeti ($2.02 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($2.44 in chips) 
+Seat 8: MrMoocat ($0.77 in chips) 
+Seat 9: MCAS1994 ($3.67 in chips) 
+MCAS1994: posts small blind $0.01
+hausmann777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 2c]
+BAHbKA003: folds 
+profmansur: folds 
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Yakov_008: raises $0.05 to $0.07
+MrMoocat: calls $0.07
+MCAS1994: folds 
+hausmann777: calls $0.05
+*** FLOP *** [7d 3h Qs]
+hausmann777: checks 
+Yakov_008: bets $0.14
+MrMoocat: calls $0.14
+hausmann777: calls $0.14
+*** TURN *** [7d 3h Qs] [Kd]
+hausmann777: checks 
+Yakov_008: bets $0.40
+MrMoocat: folds 
+hausmann777: calls $0.40
+*** RIVER *** [7d 3h Qs Kd] [7c]
+hausmann777: checks 
+Yakov_008: checks 
+*** SHOW DOWN ***
+hausmann777: shows [7s 8d] (three of a kind, Sevens)
+Yakov_008: mucks hand 
+hausmann777 collected $1.38 from pot
+*** SUMMARY ***
+Total pot $1.44 | Rake $0.06 
+Board [7d 3h Qs Kd 7c]
+Seat 1: hausmann777 (big blind) showed [7s 8d] and won ($1.38) with three of a kind, Sevens
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: profmansur folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Yakov_008 mucked [9h Qh]
+Seat 8: MrMoocat (button) folded on the Turn
+Seat 9: MCAS1994 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228202410333:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:29:30 PT [2021/07/10 19:29:30 ET]
+Table 'Dembowska V' 9-max Seat #9 is the button
+Seat 1: hausmann777 ($5.64 in chips) 
+Seat 2: BAHbKA003 ($2 in chips) 
+Seat 3: profmansur ($0.45 in chips) 
+Seat 4: Dorex2007 ($1.88 in chips) 
+Seat 5: batorpeti ($2.02 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($1.83 in chips) 
+Seat 8: MrMoocat ($0.56 in chips) 
+Seat 9: MCAS1994 ($3.66 in chips) 
+hausmann777: posts small blind $0.01
+BAHbKA003: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 8c]
+profmansur: folds 
+Dorex2007: raises $0.02 to $0.04
+batorpeti: folds 
+enixblr: folds 
+Yakov_008: folds 
+MrMoocat: folds 
+MCAS1994: calls $0.04
+hausmann777: folds 
+BAHbKA003: folds 
+*** FLOP *** [5c 3h 5s]
+Dorex2007: checks 
+MCAS1994: bets $0.06
+Dorex2007: calls $0.06
+*** TURN *** [5c 3h 5s] [7c]
+Dorex2007: bets $0.22
+MCAS1994: calls $0.22
+*** RIVER *** [5c 3h 5s 7c] [2h]
+Dorex2007: bets $0.33
+MCAS1994: raises $0.66 to $0.99
+Dorex2007: folds 
+Uncalled bet ($0.66) returned to MCAS1994
+MCAS1994 collected $1.28 from pot
+*** SUMMARY ***
+Total pot $1.33 | Rake $0.05 
+Board [5c 3h 5s 7c 2h]
+Seat 1: hausmann777 (small blind) folded before Flop
+Seat 2: BAHbKA003 (big blind) folded before Flop
+Seat 3: profmansur folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded on the River
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Yakov_008 folded before Flop (didn't bet)
+Seat 8: MrMoocat folded before Flop (didn't bet)
+Seat 9: MCAS1994 (button) collected ($1.28)
+
+
+
+PokerStars Hand #228202425652:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:30:19 PT [2021/07/10 19:30:19 ET]
+Table 'Dembowska V' 9-max Seat #1 is the button
+Seat 1: hausmann777 ($5.63 in chips) 
+Seat 2: BAHbKA003 ($1.98 in chips) 
+Seat 3: profmansur ($0.45 in chips) 
+Seat 4: Dorex2007 ($1.23 in chips) 
+Seat 5: batorpeti ($2.02 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($1.83 in chips) 
+Seat 8: MrMoocat ($0.56 in chips) 
+Seat 9: MCAS1994 ($4.29 in chips) 
+BAHbKA003: posts small blind $0.01
+profmansur: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 4d]
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Yakov_008: raises $0.05 to $0.07
+MrMoocat: calls $0.07
+MCAS1994: calls $0.07
+hausmann777: folds 
+BAHbKA003: folds 
+profmansur: folds 
+*** FLOP *** [9h Jc Tc]
+Yakov_008: checks 
+MrMoocat: checks 
+MCAS1994: checks 
+*** TURN *** [9h Jc Tc] [9d]
+Yakov_008: bets $0.15
+MrMoocat: folds 
+MCAS1994: folds 
+Uncalled bet ($0.15) returned to Yakov_008
+Yakov_008 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [9h Jc Tc 9d]
+Seat 1: hausmann777 (button) folded before Flop (didn't bet)
+Seat 2: BAHbKA003 (small blind) folded before Flop
+Seat 3: profmansur (big blind) folded before Flop
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Yakov_008 collected ($0.23)
+Seat 8: MrMoocat folded on the Turn
+Seat 9: MCAS1994 folded on the Turn
+
+
+
+PokerStars Hand #228202446348:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:31:09 PT [2021/07/10 19:31:09 ET]
+Table 'Dembowska V' 9-max Seat #2 is the button
+Seat 1: hausmann777 ($5.63 in chips) 
+Seat 2: BAHbKA003 ($1.97 in chips) 
+Seat 3: profmansur ($0.43 in chips) 
+Seat 4: Dorex2007 ($1.23 in chips) 
+Seat 5: batorpeti ($2.02 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Yakov_008 ($1.99 in chips) 
+Seat 8: MrMoocat ($0.49 in chips) 
+Seat 9: MCAS1994 ($4.22 in chips) 
+profmansur: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 8s]
+batorpeti: raises $0.04 to $0.06
+enixblr: folds 
+Yakov_008: raises $0.15 to $0.21
+MrMoocat: folds 
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: folds 
+profmansur: folds 
+Dorex2007: folds 
+batorpeti: calls $0.15
+*** FLOP *** [5c 7c 4c]
+batorpeti: bets $0.22
+Yakov_008: calls $0.22
+*** TURN *** [5c 7c 4c] [7d]
+batorpeti: bets $0.86
+Yakov_008: raises $0.70 to $1.56 and is all-in
+batorpeti: calls $0.70
+*** RIVER *** [5c 7c 4c 7d] [6h]
+*** SHOW DOWN ***
+batorpeti: shows [5s 5h] (a full house, Fives full of Sevens)
+Yakov_008: shows [Ts Jh] (a pair of Sevens)
+batorpeti collected $3.87 from pot
+*** SUMMARY ***
+Total pot $4.01 | Rake $0.14 
+Board [5c 7c 4c 7d 6h]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 (button) folded before Flop (didn't bet)
+Seat 3: profmansur (small blind) folded before Flop
+Seat 4: Dorex2007 (big blind) folded before Flop
+Seat 5: batorpeti showed [5s 5h] and won ($3.87) with a full house, Fives full of Sevens
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Yakov_008 showed [Ts Jh] and lost with a pair of Sevens
+Seat 8: MrMoocat folded before Flop (didn't bet)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202462661:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:32:02 PT [2021/07/10 19:32:02 ET]
+Table 'Dembowska V' 9-max Seat #3 is the button
+Seat 1: hausmann777 ($5.63 in chips) 
+Seat 2: BAHbKA003 ($1.97 in chips) 
+Seat 3: profmansur ($0.42 in chips) 
+Seat 4: Dorex2007 ($1.21 in chips) 
+Seat 5: batorpeti ($3.90 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 8: MrMoocat ($0.49 in chips) 
+Seat 9: MCAS1994 ($4.22 in chips) 
+Dorex2007: posts small blind $0.01
+batorpeti: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 2h]
+Yakov_008 leaves the table
+enixblr: folds 
+MrMoocat: folds 
+Gelovek joins the table at seat #7 
+MCAS1994: raises $0.04 to $0.06
+hausmann777: folds 
+BAHbKA003: calls $0.06
+profmansur: folds 
+Dorex2007: folds 
+batorpeti: folds 
+*** FLOP *** [6h 2s Jh]
+MCAS1994: bets $0.07
+BAHbKA003: calls $0.07
+*** TURN *** [6h 2s Jh] [Kh]
+MCAS1994: checks 
+BAHbKA003: bets $0.14
+MCAS1994: folds 
+Uncalled bet ($0.14) returned to BAHbKA003
+BAHbKA003 collected $0.28 from pot
+BAHbKA003: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [6h 2s Jh Kh]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 collected ($0.28)
+Seat 3: profmansur (button) folded before Flop (didn't bet)
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: batorpeti (big blind) folded before Flop
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 8: MrMoocat folded before Flop (didn't bet)
+Seat 9: MCAS1994 folded on the Turn
+
+
+
+PokerStars Hand #228202475780:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:32:44 PT [2021/07/10 19:32:44 ET]
+Table 'Dembowska V' 9-max Seat #4 is the button
+Seat 1: hausmann777 ($5.63 in chips) 
+Seat 2: BAHbKA003 ($2.12 in chips) 
+Seat 3: profmansur ($0.42 in chips) 
+Seat 4: Dorex2007 ($1.20 in chips) 
+Seat 5: batorpeti ($3.88 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 8: MrMoocat ($0.49 in chips) 
+Seat 9: MCAS1994 ($4.09 in chips) 
+batorpeti: posts small blind $0.01
+enixblr: posts big blind $0.02
+Gelovek: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Ac]
+MrMoocat: folds 
+MCAS1994: raises $0.04 to $0.06
+hausmann777: raises $0.08 to $0.14
+BAHbKA003: folds 
+profmansur: folds 
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+MCAS1994: calls $0.08
+*** FLOP *** [7c Td 5s]
+MCAS1994: checks 
+hausmann777: bets $0.34
+MCAS1994: folds 
+Uncalled bet ($0.34) returned to hausmann777
+hausmann777 collected $0.30 from pot
+hausmann777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [7c Td 5s]
+Seat 1: hausmann777 collected ($0.30)
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: profmansur folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: batorpeti (small blind) folded before Flop
+Seat 6: enixblr (big blind) folded before Flop
+Seat 8: MrMoocat folded before Flop (didn't bet)
+Seat 9: MCAS1994 folded on the Flop
+
+
+
+PokerStars Hand #228202487905:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:33:24 PT [2021/07/10 19:33:24 ET]
+Table 'Dembowska V' 9-max Seat #5 is the button
+Seat 1: hausmann777 ($5.79 in chips) 
+Seat 2: BAHbKA003 ($2.12 in chips) 
+Seat 3: profmansur ($0.42 in chips) 
+Seat 4: Dorex2007 ($1.20 in chips) 
+Seat 5: batorpeti ($3.87 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($1.60 in chips) 
+Seat 8: MrMoocat ($0.49 in chips) 
+Seat 9: MCAS1994 ($3.95 in chips) 
+enixblr: posts small blind $0.01
+Gelovek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 8h]
+MrMoocat: folds 
+MCAS1994: raises $0.04 to $0.06
+hausmann777: folds 
+BAHbKA003: folds 
+profmansur: calls $0.06
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Gelovek: calls $0.04
+*** FLOP *** [5d Tc Ah]
+Gelovek: checks 
+MCAS1994: checks 
+profmansur: checks 
+*** TURN *** [5d Tc Ah] [8s]
+Gelovek: checks 
+MCAS1994: checks 
+profmansur: checks 
+*** RIVER *** [5d Tc Ah 8s] [6c]
+Gelovek: checks 
+MCAS1994: checks 
+profmansur: checks 
+*** SHOW DOWN ***
+Gelovek: shows [6d Jd] (a pair of Sixes)
+MCAS1994: mucks hand 
+profmansur: mucks hand 
+Gelovek collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5d Tc Ah 8s 6c]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: profmansur mucked [2d 4d]
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti (button) folded before Flop (didn't bet)
+Seat 6: enixblr (small blind) folded before Flop
+Seat 7: Gelovek (big blind) showed [6d Jd] and won ($0.18) with a pair of Sixes
+Seat 8: MrMoocat folded before Flop (didn't bet)
+Seat 9: MCAS1994 mucked [Kh 9h]
+
+
+
+PokerStars Hand #228202506716:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:34:24 PT [2021/07/10 19:34:24 ET]
+Table 'Dembowska V' 9-max Seat #6 is the button
+Seat 1: hausmann777 ($5.79 in chips) 
+Seat 2: BAHbKA003 ($2.12 in chips) 
+Seat 3: profmansur ($0.36 in chips) 
+Seat 4: Dorex2007 ($1.20 in chips) 
+Seat 5: batorpeti ($3.87 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($1.72 in chips) 
+Seat 8: MrMoocat ($0.49 in chips) 
+Seat 9: MCAS1994 ($3.89 in chips) 
+Gelovek: posts small blind $0.01
+MrMoocat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 6c]
+MCAS1994: folds 
+hausmann777: raises $0.02 to $0.04
+BAHbKA003: folds 
+profmansur: calls $0.04
+Dorex2007: folds 
+batorpeti: calls $0.04
+enixblr: folds 
+Gelovek: folds 
+MrMoocat: calls $0.02
+*** FLOP *** [5c Ad 7h]
+MrMoocat: checks 
+hausmann777: checks 
+profmansur: checks 
+batorpeti: checks 
+*** TURN *** [5c Ad 7h] [4h]
+MrMoocat: bets $0.02
+hausmann777: raises $0.06 to $0.08
+profmansur: folds 
+batorpeti: folds 
+MrMoocat: calls $0.06
+*** RIVER *** [5c Ad 7h 4h] [9h]
+MrMoocat: checks 
+hausmann777: checks 
+*** SHOW DOWN ***
+MrMoocat: shows [8h As] (a pair of Aces)
+hausmann777: mucks hand 
+MrMoocat collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [5c Ad 7h 4h 9h]
+Seat 1: hausmann777 mucked [8c 9c]
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: profmansur folded on the Turn
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded on the Turn
+Seat 6: enixblr (button) folded before Flop (didn't bet)
+Seat 7: Gelovek (small blind) folded before Flop
+Seat 8: MrMoocat (big blind) showed [8h As] and won ($0.32) with a pair of Aces
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202524418:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:35:21 PT [2021/07/10 19:35:21 ET]
+Table 'Dembowska V' 9-max Seat #7 is the button
+Seat 1: hausmann777 ($5.67 in chips) 
+Seat 2: BAHbKA003 ($2.12 in chips) 
+Seat 3: profmansur ($0.32 in chips) 
+Seat 4: Dorex2007 ($1.20 in chips) 
+Seat 5: batorpeti ($3.83 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($1.71 in chips) 
+Seat 8: MrMoocat ($0.69 in chips) 
+Seat 9: MCAS1994 ($3.89 in chips) 
+MrMoocat: posts small blind $0.01
+MCAS1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 7d]
+hausmann777: raises $0.05 to $0.07
+BAHbKA003: calls $0.07
+profmansur: folds 
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Gelovek: folds 
+MrMoocat: calls $0.06
+MCAS1994: folds 
+*** FLOP *** [7s 2d Ks]
+MrMoocat: checks 
+hausmann777: bets $0.28
+BAHbKA003: folds 
+MrMoocat: folds 
+Uncalled bet ($0.28) returned to hausmann777
+hausmann777 collected $0.22 from pot
+hausmann777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [7s 2d Ks]
+Seat 1: hausmann777 collected ($0.22)
+Seat 2: BAHbKA003 folded on the Flop
+Seat 3: profmansur folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Gelovek (button) folded before Flop (didn't bet)
+Seat 8: MrMoocat (small blind) folded on the Flop
+Seat 9: MCAS1994 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228202534920:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:35:56 PT [2021/07/10 19:35:56 ET]
+Table 'Dembowska V' 9-max Seat #8 is the button
+Seat 1: hausmann777 ($5.82 in chips) 
+Seat 2: BAHbKA003 ($2.05 in chips) 
+Seat 3: profmansur ($0.32 in chips) 
+Seat 4: Dorex2007 ($1.20 in chips) 
+Seat 5: batorpeti ($3.83 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($1.71 in chips) 
+Seat 8: MrMoocat ($0.62 in chips) 
+Seat 9: MCAS1994 ($3.87 in chips) 
+MCAS1994: posts small blind $0.01
+hausmann777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Ks]
+BAHbKA003: folds 
+profmansur: calls $0.02
+Dorex2007: folds 
+batorpeti: raises $0.04 to $0.06
+enixblr: folds 
+Gelovek: folds 
+MrMoocat: folds 
+MCAS1994: folds 
+hausmann777: calls $0.04
+profmansur: calls $0.04
+*** FLOP *** [Kd 5s 7c]
+hausmann777: checks 
+profmansur: checks 
+batorpeti: checks 
+*** TURN *** [Kd 5s 7c] [Kh]
+hausmann777: checks 
+profmansur: checks 
+batorpeti: bets $0.09
+hausmann777: folds 
+profmansur: folds 
+Uncalled bet ($0.09) returned to batorpeti
+batorpeti collected $0.18 from pot
+batorpeti: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Kd 5s 7c Kh]
+Seat 1: hausmann777 (big blind) folded on the Turn
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: profmansur folded on the Turn
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti collected ($0.18)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Gelovek folded before Flop (didn't bet)
+Seat 8: MrMoocat (button) folded before Flop (didn't bet)
+Seat 9: MCAS1994 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228202553344:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:36:56 PT [2021/07/10 19:36:56 ET]
+Table 'Dembowska V' 9-max Seat #9 is the button
+Seat 1: hausmann777 ($5.76 in chips) 
+Seat 2: BAHbKA003 ($2.05 in chips) 
+Seat 3: profmansur ($0.26 in chips) 
+Seat 4: Dorex2007 ($1.20 in chips) 
+Seat 5: batorpeti ($3.95 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($1.71 in chips) 
+Seat 8: MrMoocat ($0.62 in chips) 
+Seat 9: MCAS1994 ($3.86 in chips) 
+hausmann777: posts small blind $0.01
+BAHbKA003: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 3c]
+profmansur: folds 
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Gelovek: folds 
+MrMoocat: calls $0.02
+MCAS1994: folds 
+hausmann777: calls $0.01
+BAHbKA003: checks 
+*** FLOP *** [Jd Tc 8d]
+hausmann777: checks 
+BAHbKA003: checks 
+MrMoocat: checks 
+*** TURN *** [Jd Tc 8d] [3h]
+hausmann777: checks 
+BAHbKA003: checks 
+MrMoocat: checks 
+*** RIVER *** [Jd Tc 8d 3h] [Ts]
+hausmann777: checks 
+BAHbKA003: checks 
+MrMoocat: checks 
+*** SHOW DOWN ***
+hausmann777: shows [Ks 8s] (two pair, Tens and Eights)
+BAHbKA003: mucks hand 
+MrMoocat: mucks hand 
+hausmann777 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Jd Tc 8d 3h Ts]
+Seat 1: hausmann777 (small blind) showed [Ks 8s] and won ($0.06) with two pair, Tens and Eights
+Seat 2: BAHbKA003 (big blind) mucked [Kh 5c]
+Seat 3: profmansur folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Gelovek folded before Flop (didn't bet)
+Seat 8: MrMoocat mucked [6d As]
+Seat 9: MCAS1994 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202570320:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:37:52 PT [2021/07/10 19:37:52 ET]
+Table 'Dembowska V' 9-max Seat #1 is the button
+Seat 1: hausmann777 ($5.80 in chips) 
+Seat 2: BAHbKA003 ($2.03 in chips) 
+Seat 3: profmansur ($0.26 in chips) 
+Seat 4: Dorex2007 ($1.20 in chips) 
+Seat 5: batorpeti ($3.95 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($1.71 in chips) 
+Seat 8: MrMoocat ($0.60 in chips) 
+Seat 9: MCAS1994 ($3.86 in chips) 
+BAHbKA003: posts small blind $0.01
+profmansur: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 7s]
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Gelovek: folds 
+MrMoocat: folds 
+MCAS1994: folds 
+hausmann777: raises $0.06 to $0.08
+BAHbKA003: folds 
+profmansur: folds 
+Uncalled bet ($0.06) returned to hausmann777
+hausmann777 collected $0.05 from pot
+hausmann777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hausmann777 (button) collected ($0.05)
+Seat 2: BAHbKA003 (small blind) folded before Flop
+Seat 3: profmansur (big blind) folded before Flop
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Gelovek folded before Flop (didn't bet)
+Seat 8: MrMoocat folded before Flop (didn't bet)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202577610:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:38:16 PT [2021/07/10 19:38:16 ET]
+Table 'Dembowska V' 9-max Seat #2 is the button
+Seat 1: hausmann777 ($5.83 in chips) 
+Seat 2: BAHbKA003 ($2.02 in chips) 
+Seat 3: profmansur ($0.24 in chips) 
+Seat 4: Dorex2007 ($1.20 in chips) 
+Seat 5: batorpeti ($3.95 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($1.71 in chips) 
+Seat 8: MrMoocat ($0.60 in chips) 
+Seat 9: MCAS1994 ($3.86 in chips) 
+profmansur: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 2d]
+batorpeti: folds 
+enixblr has timed out
+enixblr: folds 
+Gelovek: folds 
+MrMoocat: calls $0.02
+MCAS1994: raises $0.07 to $0.09
+hausmann777: calls $0.09
+BAHbKA003: folds 
+profmansur: raises $0.15 to $0.24 and is all-in
+Dorex2007: folds 
+MrMoocat: raises $0.36 to $0.60 and is all-in
+MCAS1994: folds 
+hausmann777: folds 
+Uncalled bet ($0.36) returned to MrMoocat
+*** FLOP *** [3s 6h 8s]
+*** TURN *** [3s 6h 8s] [3h]
+*** RIVER *** [3s 6h 8s 3h] [2s]
+*** SHOW DOWN ***
+profmansur: shows [6s Ac] (two pair, Sixes and Threes)
+MrMoocat: shows [Ah Tc] (a pair of Threes)
+profmansur cashed out the hand for $0.20
+*** SUMMARY ***
+Total pot $0.68 | Rake $0.02 
+Board [3s 6h 8s 3h 2s]
+Seat 1: hausmann777 folded before Flop
+Seat 2: BAHbKA003 (button) folded before Flop (didn't bet)
+Seat 3: profmansur (small blind) showed [6s Ac] and won ($0.66) with two pair, Sixes and Threes (pot not awarded as player cashed out)
+Seat 4: Dorex2007 (big blind) folded before Flop
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Gelovek folded before Flop (didn't bet)
+Seat 8: MrMoocat showed [Ah Tc] and lost with a pair of Threes
+Seat 9: MCAS1994 folded before Flop
+
+
+
+PokerStars Hand #228202597160:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:39:21 PT [2021/07/10 19:39:21 ET]
+Table 'Dembowska V' 9-max Seat #3 is the button
+Seat 1: hausmann777 ($5.74 in chips) 
+Seat 2: BAHbKA003 ($2.02 in chips) 
+Seat 3: profmansur ($0.20 in chips) 
+Seat 4: Dorex2007 ($1.18 in chips) 
+Seat 5: batorpeti ($3.95 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($1.71 in chips) 
+Seat 8: MrMoocat ($0.36 in chips) 
+Seat 9: MCAS1994 ($3.77 in chips) 
+Dorex2007: posts small blind $0.01
+batorpeti: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 9h]
+enixblr: folds 
+Gelovek: folds 
+MrMoocat: raises $0.34 to $0.36 and is all-in
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: folds 
+profmansur: folds 
+Dorex2007: folds 
+batorpeti: folds 
+Uncalled bet ($0.34) returned to MrMoocat
+MrMoocat collected $0.05 from pot
+MrMoocat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: profmansur (button) folded before Flop (didn't bet)
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: batorpeti (big blind) folded before Flop
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Gelovek folded before Flop (didn't bet)
+Seat 8: MrMoocat collected ($0.05)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202602370:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:39:38 PT [2021/07/10 19:39:38 ET]
+Table 'Dembowska V' 9-max Seat #4 is the button
+Seat 1: hausmann777 ($5.74 in chips) 
+Seat 2: BAHbKA003 ($2.02 in chips) 
+Seat 3: profmansur ($0.20 in chips) 
+Seat 4: Dorex2007 ($1.17 in chips) 
+Seat 5: batorpeti ($3.93 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($1.71 in chips) 
+Seat 8: MrMoocat ($0.39 in chips) 
+Seat 9: MCAS1994 ($3.77 in chips) 
+batorpeti: posts small blind $0.01
+enixblr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 4d]
+Gelovek: folds 
+MrMoocat: calls $0.02
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: calls $0.02
+profmansur: calls $0.02
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: checks 
+*** FLOP *** [8d 5c Jh]
+enixblr: checks 
+MrMoocat: bets $0.37 and is all-in
+BAHbKA003: folds 
+profmansur: folds 
+enixblr: folds 
+Uncalled bet ($0.37) returned to MrMoocat
+MrMoocat collected $0.09 from pot
+MrMoocat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [8d 5c Jh]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 folded on the Flop
+Seat 3: profmansur folded on the Flop
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: batorpeti (small blind) folded before Flop
+Seat 6: enixblr (big blind) folded on the Flop
+Seat 7: Gelovek folded before Flop (didn't bet)
+Seat 8: MrMoocat collected ($0.09)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202613565:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:40:16 PT [2021/07/10 19:40:16 ET]
+Table 'Dembowska V' 9-max Seat #5 is the button
+Seat 1: hausmann777 ($5.74 in chips) 
+Seat 2: BAHbKA003 ($2 in chips) 
+Seat 3: profmansur ($0.18 in chips) 
+Seat 4: Dorex2007 ($1.17 in chips) 
+Seat 5: batorpeti ($3.92 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($1.71 in chips) 
+Seat 8: MrMoocat ($0.46 in chips) 
+Seat 9: MCAS1994 ($3.77 in chips) 
+enixblr: posts small blind $0.01
+Gelovek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Kc]
+MrMoocat: folds 
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: raises $0.04 to $0.06
+profmansur has timed out
+profmansur: folds 
+Dorex2007: calls $0.06
+batorpeti: folds 
+enixblr: folds 
+profmansur is disconnected 
+Gelovek: calls $0.04
+*** FLOP *** [5h 8s 4d]
+Gelovek: checks 
+BAHbKA003: bets $0.09
+Dorex2007: folds 
+Gelovek: calls $0.09
+*** TURN *** [5h 8s 4d] [Qd]
+Gelovek: checks 
+BAHbKA003: bets $0.28
+Gelovek: calls $0.28
+*** RIVER *** [5h 8s 4d Qd] [9d]
+Gelovek: checks 
+BAHbKA003: checks 
+*** SHOW DOWN ***
+Gelovek: shows [Ts Jh] (a straight, Eight to Queen)
+BAHbKA003: mucks hand 
+Gelovek collected $0.90 from pot
+*** SUMMARY ***
+Total pot $0.93 | Rake $0.03 
+Board [5h 8s 4d Qd 9d]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 mucked [Ah As]
+Seat 3: profmansur folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded on the Flop
+Seat 5: batorpeti (button) folded before Flop (didn't bet)
+Seat 6: enixblr (small blind) folded before Flop
+Seat 7: Gelovek (big blind) showed [Ts Jh] and won ($0.90) with a straight, Eight to Queen
+Seat 8: MrMoocat folded before Flop (didn't bet)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202635991:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:41:31 PT [2021/07/10 19:41:31 ET]
+Table 'Dembowska V' 9-max Seat #6 is the button
+Seat 1: hausmann777 ($5.74 in chips) 
+Seat 2: BAHbKA003 ($1.57 in chips) 
+Seat 3: profmansur ($0.18 in chips) 
+Seat 4: Dorex2007 ($1.11 in chips) 
+Seat 5: batorpeti ($3.92 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($2.18 in chips) 
+Seat 8: MrMoocat ($0.46 in chips) 
+Seat 9: MCAS1994 ($3.77 in chips) 
+Gelovek: posts small blind $0.01
+MrMoocat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Jd]
+MCAS1994: folds 
+hausmann777: raises $0.06 to $0.08
+BAHbKA003: folds 
+profmansur: folds 
+Dorex2007: folds 
+batorpeti: calls $0.08
+enixblr: folds 
+Gelovek: folds 
+MrMoocat: folds 
+*** FLOP *** [5d 8h 3d]
+hausmann777: checks 
+batorpeti: checks 
+*** TURN *** [5d 8h 3d] [6d]
+hausmann777: checks 
+batorpeti: checks 
+*** RIVER *** [5d 8h 3d 6d] [Kd]
+hausmann777: checks 
+batorpeti: checks 
+*** SHOW DOWN ***
+hausmann777: shows [Td Ah] (a flush, King high)
+batorpeti: mucks hand 
+hausmann777 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5d 8h 3d 6d Kd]
+Seat 1: hausmann777 showed [Td Ah] and won ($0.18) with a flush, King high
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: profmansur folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti mucked [Kc Js]
+Seat 6: enixblr (button) folded before Flop (didn't bet)
+Seat 7: Gelovek (small blind) folded before Flop
+Seat 8: MrMoocat (big blind) folded before Flop
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202651394:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:42:22 PT [2021/07/10 19:42:22 ET]
+Table 'Dembowska V' 9-max Seat #7 is the button
+Seat 1: hausmann777 ($5.84 in chips) 
+Seat 2: BAHbKA003 ($1.57 in chips) 
+Seat 3: profmansur ($0.18 in chips) 
+Seat 4: Dorex2007 ($1.11 in chips) 
+Seat 5: batorpeti ($3.84 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($2.17 in chips) 
+Seat 8: MrMoocat ($0.44 in chips) 
+Seat 9: MCAS1994 ($3.77 in chips) 
+MrMoocat: posts small blind $0.01
+MCAS1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Js]
+hausmann777: raises $0.04 to $0.06
+BAHbKA003: folds 
+profmansur: folds 
+Dorex2007: folds 
+batorpeti: calls $0.06
+enixblr: folds 
+Gelovek: folds 
+MrMoocat: calls $0.05
+MCAS1994: folds 
+*** FLOP *** [2c 2d Jd]
+MrMoocat: bets $0.02
+hausmann777: calls $0.02
+batorpeti: folds 
+*** TURN *** [2c 2d Jd] [7h]
+MrMoocat: bets $0.02
+hausmann777: calls $0.02
+*** RIVER *** [2c 2d Jd 7h] [2h]
+MrMoocat: bets $0.27
+hausmann777: folds 
+Uncalled bet ($0.27) returned to MrMoocat
+MrMoocat collected $0.27 from pot
+MrMoocat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [2c 2d Jd 7h 2h]
+Seat 1: hausmann777 folded on the River
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: profmansur folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded on the Flop
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Gelovek (button) folded before Flop (didn't bet)
+Seat 8: MrMoocat (small blind) collected ($0.27)
+Seat 9: MCAS1994 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228202665602:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:43:10 PT [2021/07/10 19:43:10 ET]
+Table 'Dembowska V' 9-max Seat #8 is the button
+Seat 1: hausmann777 ($5.74 in chips) 
+Seat 2: BAHbKA003 ($1.57 in chips) 
+Seat 3: profmansur ($0.18 in chips) 
+Seat 4: Dorex2007 ($1.11 in chips) 
+Seat 5: batorpeti ($3.78 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($2.17 in chips) 
+Seat 8: MrMoocat ($0.61 in chips) 
+Seat 9: MCAS1994 ($3.75 in chips) 
+MCAS1994: posts small blind $0.01
+hausmann777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 5c]
+BAHbKA003: raises $0.04 to $0.06
+profmansur: folds 
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Gelovek: calls $0.06
+MrMoocat: folds 
+MCAS1994: calls $0.05
+hausmann777: folds 
+*** FLOP *** [3c 2s Qh]
+MCAS1994: checks 
+BAHbKA003: checks 
+Gelovek: checks 
+*** TURN *** [3c 2s Qh] [2c]
+MCAS1994: checks 
+BAHbKA003: checks 
+Gelovek: checks 
+*** RIVER *** [3c 2s Qh 2c] [Qs]
+MCAS1994: checks 
+BAHbKA003: bets $0.10
+Gelovek: folds 
+MCAS1994: folds 
+Uncalled bet ($0.10) returned to BAHbKA003
+BAHbKA003 collected $0.19 from pot
+BAHbKA003: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [3c 2s Qh 2c Qs]
+Seat 1: hausmann777 (big blind) folded before Flop
+Seat 2: BAHbKA003 collected ($0.19)
+Seat 3: profmansur folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Gelovek folded on the River
+Seat 8: MrMoocat (button) folded before Flop (didn't bet)
+Seat 9: MCAS1994 (small blind) folded on the River
+
+
+
+PokerStars Hand #228202679348:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:43:56 PT [2021/07/10 19:43:56 ET]
+Table 'Dembowska V' 9-max Seat #9 is the button
+Seat 1: hausmann777 ($5.72 in chips) 
+Seat 2: BAHbKA003 ($1.70 in chips) 
+Seat 3: profmansur ($0.18 in chips) 
+Seat 4: Dorex2007 ($1.11 in chips) 
+Seat 5: batorpeti ($3.78 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($2.11 in chips) 
+Seat 8: MrMoocat ($0.61 in chips) 
+Seat 9: MCAS1994 ($3.69 in chips) 
+hausmann777: posts small blind $0.01
+BAHbKA003: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 9h]
+profmansur: folds 
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+profmansur leaves the table
+Gelovek: raises $0.04 to $0.06
+MrMoocat: calls $0.06
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: folds 
+*** FLOP *** [3s 2d Qh]
+Gelovek: checks 
+MrMoocat: checks 
+*** TURN *** [3s 2d Qh] [6c]
+Gelovek: checks 
+MrMoocat: checks 
+*** RIVER *** [3s 2d Qh 6c] [5h]
+Gelovek: checks 
+MrMoocat: checks 
+*** SHOW DOWN ***
+Gelovek: shows [Ad 9c] (high card Ace)
+MrMoocat: mucks hand 
+Gelovek collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3s 2d Qh 6c 5h]
+Seat 1: hausmann777 (small blind) folded before Flop
+Seat 2: BAHbKA003 (big blind) folded before Flop
+Seat 3: profmansur folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Gelovek showed [Ad 9c] and won ($0.14) with high card Ace
+Seat 8: MrMoocat mucked [8d Jd]
+Seat 9: MCAS1994 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202691468:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:44:28 PT [2021/07/10 19:44:28 ET]
+Table 'Dembowska V' 9-max Seat #1 is the button
+Seat 1: hausmann777 ($5.71 in chips) 
+Seat 2: BAHbKA003 ($1.98 in chips) 
+Seat 4: Dorex2007 ($1.11 in chips) 
+Seat 5: batorpeti ($3.78 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($2.19 in chips) 
+Seat 8: MrMoocat ($0.55 in chips) 
+Seat 9: MCAS1994 ($3.69 in chips) 
+BAHbKA003: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 2s]
+888NIKOS888 joins the table at seat #3 
+batorpeti: folds 
+enixblr has timed out
+enixblr: folds 
+Gelovek: folds 
+MrMoocat: raises $0.02 to $0.04
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: folds 
+Dorex2007: folds 
+Uncalled bet ($0.02) returned to MrMoocat
+MrMoocat collected $0.05 from pot
+MrMoocat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hausmann777 (button) folded before Flop (didn't bet)
+Seat 2: BAHbKA003 (small blind) folded before Flop
+Seat 4: Dorex2007 (big blind) folded before Flop
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Gelovek folded before Flop (didn't bet)
+Seat 8: MrMoocat collected ($0.05)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202699401:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:44:55 PT [2021/07/10 19:44:55 ET]
+Table 'Dembowska V' 9-max Seat #2 is the button
+Seat 1: hausmann777 ($5.71 in chips) 
+Seat 2: BAHbKA003 ($1.97 in chips) 
+Seat 4: Dorex2007 ($1.09 in chips) 
+Seat 5: batorpeti ($3.78 in chips) 
+Seat 7: Gelovek ($2.19 in chips) 
+Seat 8: MrMoocat ($0.58 in chips) 
+Seat 9: MCAS1994 ($3.69 in chips) 
+Dorex2007: posts small blind $0.01
+batorpeti: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 3s]
+Gelovek: calls $0.02
+MrMoocat: folds 
+MCAS1994: raises $0.07 to $0.09
+hausmann777 has timed out
+hausmann777: folds 
+BAHbKA003: folds 
+Dorex2007: folds 
+batorpeti: folds 
+Gelovek: calls $0.07
+*** FLOP *** [Ad 4h Ts]
+Gelovek: checks 
+MCAS1994: bets $0.10
+Gelovek: calls $0.10
+*** TURN *** [Ad 4h Ts] [Qd]
+Gelovek: checks 
+MCAS1994: bets $0.20
+Gelovek: raises $0.40 to $0.60
+MCAS1994: calls $0.40
+*** RIVER *** [Ad 4h Ts Qd] [3c]
+Gelovek: bets $0.77
+MCAS1994: folds 
+Uncalled bet ($0.77) returned to Gelovek
+Gelovek collected $1.55 from pot
+Gelovek: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.61 | Rake $0.06 
+Board [Ad 4h Ts Qd 3c]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 (button) folded before Flop (didn't bet)
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: batorpeti (big blind) folded before Flop
+Seat 7: Gelovek collected ($1.55)
+Seat 8: MrMoocat folded before Flop (didn't bet)
+Seat 9: MCAS1994 folded on the River
+
+
+
+PokerStars Hand #228202715853:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:45:51 PT [2021/07/10 19:45:51 ET]
+Table 'Dembowska V' 9-max Seat #4 is the button
+Seat 2: BAHbKA003 ($1.97 in chips) 
+Seat 3: 888NIKOS888 ($0.80 in chips) 
+Seat 4: Dorex2007 ($1.08 in chips) 
+Seat 5: batorpeti ($3.76 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($2.95 in chips) 
+Seat 8: MrMoocat ($0.58 in chips) 
+Seat 9: MCAS1994 ($2.90 in chips) 
+batorpeti: posts small blind $0.01
+enixblr: posts big blind $0.02
+888NIKOS888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 9h]
+Gelovek: folds 
+MrMoocat: folds 
+MCAS1994: raises $0.04 to $0.06
+BAHbKA003: folds 
+888NIKOS888: calls $0.04
+Dorex2007: folds 
+batorpeti: calls $0.05
+enixblr: folds 
+*** FLOP *** [9s 7h Qd]
+batorpeti: checks 
+MCAS1994: bets $0.08
+888NIKOS888: calls $0.08
+batorpeti: folds 
+*** TURN *** [9s 7h Qd] [Qc]
+MCAS1994: checks 
+888NIKOS888: checks 
+*** RIVER *** [9s 7h Qd Qc] [5s]
+MCAS1994: bets $0.18
+888NIKOS888: folds 
+Uncalled bet ($0.18) returned to MCAS1994
+MCAS1994 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [9s 7h Qd Qc 5s]
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: 888NIKOS888 folded on the River
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: batorpeti (small blind) folded on the Flop
+Seat 6: enixblr (big blind) folded before Flop
+Seat 7: Gelovek folded before Flop (didn't bet)
+Seat 8: MrMoocat folded before Flop (didn't bet)
+Seat 9: MCAS1994 collected ($0.35)
+
+
+
+PokerStars Hand #228202735738:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:46:59 PT [2021/07/10 19:46:59 ET]
+Table 'Dembowska V' 9-max Seat #5 is the button
+Seat 2: BAHbKA003 ($1.97 in chips) 
+Seat 3: 888NIKOS888 ($0.66 in chips) 
+Seat 4: Dorex2007 ($1.08 in chips) 
+Seat 5: batorpeti ($3.70 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($2.95 in chips) 
+Seat 8: MrMoocat ($0.58 in chips) 
+Seat 9: MCAS1994 ($3.11 in chips) 
+enixblr: posts small blind $0.01
+Gelovek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Th]
+MrMoocat: calls $0.02
+MCAS1994: folds 
+BAHbKA003: folds 
+888NIKOS888: folds 
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: calls $0.01
+Gelovek: checks 
+*** FLOP *** [8h Td 7d]
+enixblr: checks 
+Gelovek: checks 
+MrMoocat: checks 
+*** TURN *** [8h Td 7d] [4d]
+enixblr: checks 
+Gelovek: bets $0.03
+MrMoocat: raises $0.03 to $0.06
+enixblr: folds 
+Gelovek: folds 
+Uncalled bet ($0.03) returned to MrMoocat
+MrMoocat collected $0.12 from pot
+MrMoocat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8h Td 7d 4d]
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: 888NIKOS888 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti (button) folded before Flop (didn't bet)
+Seat 6: enixblr (small blind) folded on the Turn
+Seat 7: Gelovek (big blind) folded on the Turn
+Seat 8: MrMoocat collected ($0.12)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202748665:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:47:43 PT [2021/07/10 19:47:43 ET]
+Table 'Dembowska V' 9-max Seat #6 is the button
+Seat 2: BAHbKA003 ($1.97 in chips) 
+Seat 3: 888NIKOS888 ($0.66 in chips) 
+Seat 4: Dorex2007 ($1.08 in chips) 
+Seat 5: batorpeti ($3.70 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($2.90 in chips) 
+Seat 8: MrMoocat ($0.65 in chips) 
+Seat 9: MCAS1994 ($3.11 in chips) 
+Gelovek: posts small blind $0.01
+MrMoocat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 4d]
+MCAS1994: folds 
+BAHbKA003: raises $0.04 to $0.06
+888NIKOS888: calls $0.06
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Gelovek: calls $0.05
+MrMoocat: calls $0.04
+*** FLOP *** [Qd Td 2h]
+Gelovek: checks 
+MrMoocat: bets $0.11
+BAHbKA003: calls $0.11
+888NIKOS888: folds 
+Gelovek: calls $0.11
+*** TURN *** [Qd Td 2h] [9h]
+Gelovek: checks 
+MrMoocat: bets $0.27
+BAHbKA003: calls $0.27
+Gelovek: calls $0.27
+*** RIVER *** [Qd Td 2h 9h] [8c]
+Gelovek: checks 
+MrMoocat: bets $0.21 and is all-in
+BAHbKA003: folds 
+Gelovek: folds 
+Uncalled bet ($0.21) returned to MrMoocat
+MrMoocat collected $1.33 from pot
+MrMoocat: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.38 | Rake $0.05 
+Board [Qd Td 2h 9h 8c]
+Seat 2: BAHbKA003 folded on the River
+Seat 3: 888NIKOS888 folded on the Flop
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr (button) folded before Flop (didn't bet)
+Seat 7: Gelovek (small blind) folded on the River
+Seat 8: MrMoocat (big blind) collected ($1.33)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202767121:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:48:47 PT [2021/07/10 19:48:47 ET]
+Table 'Dembowska V' 9-max Seat #7 is the button
+Seat 1: hausmann777 ($5.71 in chips) 
+Seat 2: BAHbKA003 ($1.53 in chips) 
+Seat 3: 888NIKOS888 ($0.60 in chips) 
+Seat 4: Dorex2007 ($1.08 in chips) 
+Seat 5: batorpeti ($3.70 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($2.46 in chips) 
+Seat 8: MrMoocat ($1.54 in chips) 
+Seat 9: MCAS1994 ($3.11 in chips) 
+MrMoocat: posts small blind $0.01
+MCAS1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Js]
+hausmann777 has timed out
+hausmann777: folds 
+BAHbKA003: folds 
+888NIKOS888: raises $0.04 to $0.06
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Gelovek: calls $0.06
+MrMoocat: calls $0.05
+MCAS1994: calls $0.04
+*** FLOP *** [5d 2c Qh]
+MrMoocat: bets $0.02
+MCAS1994: folds 
+888NIKOS888: raises $0.14 to $0.16
+Gelovek: calls $0.16
+MrMoocat: calls $0.14
+*** TURN *** [5d 2c Qh] [Jd]
+MrMoocat: checks 
+888NIKOS888: bets $0.38 and is all-in
+Gelovek: calls $0.38
+MrMoocat: calls $0.38
+*** RIVER *** [5d 2c Qh Jd] [Kc]
+MrMoocat: checks 
+Gelovek: checks 
+*** SHOW DOWN ***
+MrMoocat: shows [9d 9h] (a pair of Nines)
+888NIKOS888: mucks hand 
+Gelovek: shows [Qc Tc] (a pair of Queens)
+Gelovek collected $1.79 from pot
+*** SUMMARY ***
+Total pot $1.86 | Rake $0.07 
+Board [5d 2c Qh Jd Kc]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: 888NIKOS888 mucked [8s 9s]
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Gelovek (button) showed [Qc Tc] and won ($1.79) with a pair of Queens
+Seat 8: MrMoocat (small blind) showed [9d 9h] and lost with a pair of Nines
+Seat 9: MCAS1994 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228202783412:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:49:44 PT [2021/07/10 19:49:44 ET]
+Table 'Dembowska V' 9-max Seat #8 is the button
+Seat 1: hausmann777 ($5.71 in chips) 
+Seat 2: BAHbKA003 ($2 in chips) 
+Seat 4: Dorex2007 ($1.08 in chips) 
+Seat 5: batorpeti ($3.70 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($3.65 in chips) 
+Seat 8: MrMoocat ($0.94 in chips) 
+Seat 9: MCAS1994 ($3.05 in chips) 
+MCAS1994: posts small blind $0.01
+hausmann777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 7s]
+BAHbKA003: folds 
+Dorex2007: folds 
+888NIKOS888 is disconnected 
+batorpeti: folds 
+enixblr: raises $0.04 to $0.06
+Gelovek: folds 
+MrMoocat: folds 
+MCAS1994: folds 
+hausmann777: folds 
+Uncalled bet ($0.04) returned to enixblr
+enixblr collected $0.05 from pot
+enixblr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hausmann777 (big blind) folded before Flop
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr collected ($0.05)
+Seat 7: Gelovek folded before Flop (didn't bet)
+Seat 8: MrMoocat (button) folded before Flop (didn't bet)
+Seat 9: MCAS1994 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228202790338:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:50:08 PT [2021/07/10 19:50:08 ET]
+Table 'Dembowska V' 9-max Seat #9 is the button
+Seat 1: hausmann777 ($5.69 in chips) 
+Seat 2: BAHbKA003 ($2 in chips) 
+Seat 4: Dorex2007 ($1.08 in chips) 
+Seat 5: batorpeti ($3.70 in chips) 
+Seat 6: enixblr ($2.03 in chips) 
+Seat 7: Gelovek ($3.65 in chips) 
+Seat 8: MrMoocat ($0.94 in chips) 
+Seat 9: MCAS1994 ($3.04 in chips) 
+hausmann777: posts small blind $0.01
+BAHbKA003: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Jh]
+Dorex2007 has timed out
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Gelovek: folds 
+MrMoocat: calls $0.02
+MCAS1994: folds 
+hausmann777: raises $0.02 to $0.04
+BAHbKA003: calls $0.02
+MrMoocat: calls $0.02
+*** FLOP *** [4d 5h Qs]
+hausmann777: bets $0.06
+BAHbKA003: calls $0.06
+MrMoocat: folds 
+*** TURN *** [4d 5h Qs] [Ts]
+hausmann777: checks 
+BAHbKA003: checks 
+*** RIVER *** [4d 5h Qs Ts] [7s]
+hausmann777: bets $0.23
+BAHbKA003: folds 
+Uncalled bet ($0.23) returned to hausmann777
+hausmann777 collected $0.23 from pot
+hausmann777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [4d 5h Qs Ts 7s]
+Seat 1: hausmann777 (small blind) collected ($0.23)
+Seat 2: BAHbKA003 (big blind) folded on the River
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Gelovek folded before Flop (didn't bet)
+Seat 8: MrMoocat folded on the Flop
+Seat 9: MCAS1994 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202811411:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:51:17 PT [2021/07/10 19:51:17 ET]
+Table 'Dembowska V' 9-max Seat #1 is the button
+Seat 1: hausmann777 ($5.82 in chips) 
+Seat 2: BAHbKA003 ($1.90 in chips) 
+Seat 4: Dorex2007 ($1.08 in chips) 
+Seat 5: batorpeti ($3.70 in chips) 
+Seat 6: enixblr ($2.03 in chips) 
+Seat 7: Gelovek ($3.65 in chips) 
+Seat 8: MrMoocat ($0.90 in chips) 
+Seat 9: MCAS1994 ($3.04 in chips) 
+BAHbKA003: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Ac]
+batorpeti: folds 
+enixblr: folds 
+Gelovek: raises $0.04 to $0.06
+MrMoocat: folds 
+MCAS1994: calls $0.06
+hausmann777: folds 
+BAHbKA003: folds 
+Dorex2007: folds 
+*** FLOP *** [8s 8d 7s]
+Gelovek: checks 
+MCAS1994: bets $0.07
+Gelovek: folds 
+Uncalled bet ($0.07) returned to MCAS1994
+MCAS1994 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8s 8d 7s]
+Seat 1: hausmann777 (button) folded before Flop (didn't bet)
+Seat 2: BAHbKA003 (small blind) folded before Flop
+Seat 4: Dorex2007 (big blind) folded before Flop
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Gelovek folded on the Flop
+Seat 8: MrMoocat folded before Flop (didn't bet)
+Seat 9: MCAS1994 collected ($0.14)
+
+
+
+PokerStars Hand #228202824489:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:51:46 PT [2021/07/10 19:51:46 ET]
+Table 'Dembowska V' 9-max Seat #2 is the button
+Seat 1: hausmann777 ($5.82 in chips) 
+Seat 2: BAHbKA003 ($2 in chips) 
+Seat 4: Dorex2007 ($1.06 in chips) 
+Seat 5: batorpeti ($3.70 in chips) 
+Seat 6: enixblr ($2.03 in chips) 
+Seat 7: Gelovek ($3.59 in chips) 
+Seat 8: MrMoocat ($0.90 in chips) 
+Seat 9: MCAS1994 ($3.12 in chips) 
+Dorex2007: posts small blind $0.01
+batorpeti: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 7s]
+enixblr: raises $0.04 to $0.06
+Gelovek: folds 
+MrMoocat: folds 
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: calls $0.06
+Dorex2007: folds 
+batorpeti: folds 
+*** FLOP *** [2c 7h 5d]
+enixblr: checks 
+BAHbKA003: checks 
+*** TURN *** [2c 7h 5d] [Ad]
+enixblr: checks 
+BAHbKA003: bets $0.09
+enixblr: folds 
+Uncalled bet ($0.09) returned to BAHbKA003
+BAHbKA003 collected $0.14 from pot
+BAHbKA003: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2c 7h 5d Ad]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 (button) collected ($0.14)
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: batorpeti (big blind) folded before Flop
+Seat 6: enixblr folded on the Turn
+Seat 7: Gelovek folded before Flop (didn't bet)
+Seat 8: MrMoocat folded before Flop (didn't bet)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202836937:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:52:30 PT [2021/07/10 19:52:30 ET]
+Table 'Dembowska V' 9-max Seat #4 is the button
+Seat 1: hausmann777 ($5.82 in chips) 
+Seat 2: BAHbKA003 ($2.08 in chips) 
+Seat 4: Dorex2007 ($1.05 in chips) 
+Seat 5: batorpeti ($3.68 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($3.59 in chips) 
+Seat 8: MrMoocat ($0.90 in chips) 
+Seat 9: MCAS1994 ($3.12 in chips) 
+batorpeti: posts small blind $0.01
+enixblr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Jd]
+Gelovek: folds 
+MrMoocat: folds 
+MCAS1994: folds 
+hausmann777: raises $0.02 to $0.04
+BAHbKA003: folds 
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Uncalled bet ($0.02) returned to hausmann777
+hausmann777 collected $0.05 from pot
+hausmann777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hausmann777 collected ($0.05)
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: batorpeti (small blind) folded before Flop
+Seat 6: enixblr (big blind) folded before Flop
+Seat 7: Gelovek folded before Flop (didn't bet)
+Seat 8: MrMoocat folded before Flop (didn't bet)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202841871:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:52:48 PT [2021/07/10 19:52:48 ET]
+Table 'Dembowska V' 9-max Seat #5 is the button
+Seat 1: hausmann777 ($5.85 in chips) 
+Seat 2: BAHbKA003 ($2.08 in chips) 
+Seat 4: Dorex2007 ($1.05 in chips) 
+Seat 5: batorpeti ($3.67 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($3.59 in chips) 
+Seat 8: MrMoocat ($0.90 in chips) 
+Seat 9: MCAS1994 ($3.12 in chips) 
+enixblr: posts small blind $0.01
+Gelovek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 9d]
+MrMoocat: folds 
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: raises $0.04 to $0.06
+Dorex2007: calls $0.06
+batorpeti: folds 
+enixblr: folds 
+Gelovek: calls $0.04
+*** FLOP *** [2h Kh 2c]
+Gelovek: checks 
+BAHbKA003: checks 
+Dorex2007: checks 
+*** TURN *** [2h Kh 2c] [5s]
+Gelovek: checks 
+BAHbKA003: checks 
+Dorex2007: checks 
+*** RIVER *** [2h Kh 2c 5s] [5d]
+Gelovek: checks 
+BAHbKA003: bets $0.09
+Dorex2007: calls $0.09
+Gelovek: folds 
+*** SHOW DOWN ***
+BAHbKA003: shows [9s Jh] (two pair, Fives and Deuces)
+Dorex2007: shows [9c 9d] (two pair, Nines and Fives)
+Dorex2007 collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [2h Kh 2c 5s 5d]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 showed [9s Jh] and lost with two pair, Fives and Deuces
+Seat 4: Dorex2007 showed [9c 9d] and won ($0.36) with two pair, Nines and Fives
+Seat 5: batorpeti (button) folded before Flop (didn't bet)
+Seat 6: enixblr (small blind) folded before Flop
+Seat 7: Gelovek (big blind) folded on the River
+Seat 8: MrMoocat folded before Flop (didn't bet)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202865994:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:54:00 PT [2021/07/10 19:54:00 ET]
+Table 'Dembowska V' 9-max Seat #6 is the button
+Seat 1: hausmann777 ($5.85 in chips) 
+Seat 2: BAHbKA003 ($1.93 in chips) 
+Seat 4: Dorex2007 ($1.26 in chips) 
+Seat 5: batorpeti ($3.67 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($3.53 in chips) 
+Seat 8: MrMoocat ($0.90 in chips) 
+Seat 9: MCAS1994 ($3.12 in chips) 
+Gelovek: posts small blind $0.01
+MrMoocat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Ts]
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: folds 
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Gelovek: raises $0.04 to $0.06
+MrMoocat: calls $0.04
+*** FLOP *** [Qh Js 9s]
+Gelovek: checks 
+MrMoocat: checks 
+*** TURN *** [Qh Js 9s] [5s]
+Gelovek: checks 
+MrMoocat: checks 
+*** RIVER *** [Qh Js 9s 5s] [6d]
+Gelovek: checks 
+MrMoocat: checks 
+*** SHOW DOWN ***
+Gelovek: shows [6s Ac] (a pair of Sixes)
+MrMoocat: mucks hand 
+Gelovek collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Qh Js 9s 5s 6d]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr (button) folded before Flop (didn't bet)
+Seat 7: Gelovek (small blind) showed [6s Ac] and won ($0.12) with a pair of Sixes
+Seat 8: MrMoocat (big blind) mucked [6h 4d]
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202875577:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:54:35 PT [2021/07/10 19:54:35 ET]
+Table 'Dembowska V' 9-max Seat #7 is the button
+Seat 1: hausmann777 ($5.85 in chips) 
+Seat 2: BAHbKA003 ($1.93 in chips) 
+Seat 4: Dorex2007 ($1.26 in chips) 
+Seat 5: batorpeti ($3.67 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($3.59 in chips) 
+Seat 8: MrMoocat ($0.84 in chips) 
+Seat 9: MCAS1994 ($3.12 in chips) 
+MrMoocat: posts small blind $0.01
+MCAS1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Jc]
+hausmann777: folds 
+BAHbKA003: folds 
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Gelovek: raises $0.04 to $0.06
+MrMoocat: raises $0.04 to $0.10
+MCAS1994: folds 
+Gelovek: calls $0.04
+*** FLOP *** [Qd Kd Jd]
+MrMoocat: bets $0.10
+Gelovek: folds 
+Uncalled bet ($0.10) returned to MrMoocat
+MrMoocat collected $0.21 from pot
+MrMoocat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Qd Kd Jd]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Gelovek (button) folded on the Flop
+Seat 8: MrMoocat (small blind) collected ($0.21)
+Seat 9: MCAS1994 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228202884226:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:55:07 PT [2021/07/10 19:55:07 ET]
+Table 'Dembowska V' 9-max Seat #8 is the button
+Seat 1: hausmann777 ($5.85 in chips) 
+Seat 2: BAHbKA003 ($1.93 in chips) 
+Seat 4: Dorex2007 ($1.26 in chips) 
+Seat 5: batorpeti ($3.67 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: Gelovek ($3.49 in chips) 
+Seat 8: MrMoocat ($0.95 in chips) 
+Seat 9: MCAS1994 ($3.10 in chips) 
+MCAS1994: posts small blind $0.01
+hausmann777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 5c]
+BAHbKA003: folds 
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: raises $0.04 to $0.06
+Gelovek: calls $0.06
+MrMoocat: folds 
+MCAS1994: folds 
+hausmann777: folds 
+*** FLOP *** [7d Ts Kd]
+enixblr: checks 
+Gelovek: checks 
+*** TURN *** [7d Ts Kd] [4d]
+enixblr: checks 
+Gelovek: checks 
+*** RIVER *** [7d Ts Kd 4d] [6s]
+enixblr: checks 
+Gelovek: checks 
+*** SHOW DOWN ***
+enixblr: shows [Ah Js] (high card Ace)
+Gelovek: mucks hand 
+enixblr collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7d Ts Kd 4d 6s]
+Seat 1: hausmann777 (big blind) folded before Flop
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr showed [Ah Js] and won ($0.14) with high card Ace
+Seat 7: Gelovek mucked [Ad 3s]
+Seat 8: MrMoocat (button) folded before Flop (didn't bet)
+Seat 9: MCAS1994 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228202894162:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:55:50 PT [2021/07/10 19:55:50 ET]
+Table 'Dembowska V' 9-max Seat #9 is the button
+Seat 1: hausmann777 ($5.83 in chips) 
+Seat 2: BAHbKA003 ($1.93 in chips) 
+Seat 4: Dorex2007 ($1.26 in chips) 
+Seat 5: batorpeti ($3.67 in chips) 
+Seat 6: enixblr ($2.08 in chips) 
+Seat 7: Gelovek ($3.43 in chips) 
+Seat 8: MrMoocat ($0.95 in chips) 
+Seat 9: MCAS1994 ($3.09 in chips) 
+hausmann777: posts small blind $0.01
+BAHbKA003: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Kc]
+Dorex2007: folds 
+batorpeti: raises $0.02 to $0.04
+enixblr: folds 
+Gelovek: folds 
+MrMoocat: folds 
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: folds 
+Uncalled bet ($0.02) returned to batorpeti
+batorpeti collected $0.05 from pot
+batorpeti: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hausmann777 (small blind) folded before Flop
+Seat 2: BAHbKA003 (big blind) folded before Flop
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti collected ($0.05)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Gelovek folded before Flop (didn't bet)
+Seat 8: MrMoocat folded before Flop (didn't bet)
+Seat 9: MCAS1994 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202897730:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:56:06 PT [2021/07/10 19:56:06 ET]
+Table 'Dembowska V' 9-max Seat #1 is the button
+Seat 1: hausmann777 ($5.82 in chips) 
+Seat 2: BAHbKA003 ($1.91 in chips) 
+Seat 4: Dorex2007 ($1.26 in chips) 
+Seat 5: batorpeti ($3.70 in chips) 
+Seat 6: enixblr ($2.08 in chips) 
+Seat 7: Gelovek ($3.43 in chips) 
+Seat 8: MrMoocat ($0.95 in chips) 
+Seat 9: MCAS1994 ($3.09 in chips) 
+BAHbKA003: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 7h]
+batorpeti: raises $0.02 to $0.04
+enixblr: folds 
+Gelovek: folds 
+MrMoocat: calls $0.04
+MCAS1994: calls $0.04
+hausmann777: calls $0.04
+BAHbKA003: folds 
+Dorex2007: folds 
+*** FLOP *** [2s Td 3d]
+batorpeti: bets $0.09
+MrMoocat: folds 
+MCAS1994: folds 
+hausmann777: calls $0.09
+*** TURN *** [2s Td 3d] [7c]
+batorpeti: checks 
+hausmann777: checks 
+*** RIVER *** [2s Td 3d 7c] [6c]
+batorpeti: checks 
+hausmann777: checks 
+*** SHOW DOWN ***
+batorpeti: shows [4s As] (high card Ace)
+hausmann777: shows [Ac 3c] (a pair of Threes)
+hausmann777 collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [2s Td 3d 7c 6c]
+Seat 1: hausmann777 (button) showed [Ac 3c] and won ($0.36) with a pair of Threes
+Seat 2: BAHbKA003 (small blind) folded before Flop
+Seat 4: Dorex2007 (big blind) folded before Flop
+Seat 5: batorpeti showed [4s As] and lost with high card Ace
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Gelovek folded before Flop (didn't bet)
+Seat 8: MrMoocat folded on the Flop
+Seat 9: MCAS1994 folded on the Flop
+
+
+
+PokerStars Hand #228202922415:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:57:15 PT [2021/07/10 19:57:15 ET]
+Table 'Dembowska V' 9-max Seat #2 is the button
+Seat 1: hausmann777 ($6.05 in chips) 
+Seat 2: BAHbKA003 ($1.90 in chips) 
+Seat 4: Dorex2007 ($1.24 in chips) 
+Seat 5: batorpeti ($3.57 in chips) 
+Seat 6: enixblr ($2.08 in chips) 
+Seat 7: Gelovek ($3.43 in chips) 
+Seat 8: MrMoocat ($0.91 in chips) 
+Seat 9: MCAS1994 ($3.05 in chips) 
+Dorex2007: posts small blind $0.01
+batorpeti: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 2c]
+enixblr: folds 
+Gelovek: folds 
+Gelovek leaves the table
+MrMoocat: calls $0.02
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: calls $0.02
+Dorex2007: folds 
+batorpeti: checks 
+*** FLOP *** [Ah Th 6h]
+batorpeti: checks 
+MrMoocat: checks 
+BAHbKA003: bets $0.04
+batorpeti: folds 
+MrMoocat: calls $0.04
+*** TURN *** [Ah Th 6h] [Js]
+MrMoocat: checks 
+BAHbKA003: checks 
+*** RIVER *** [Ah Th 6h Js] [2d]
+DAMAGER99 joins the table at seat #7 
+MrMoocat: checks 
+BAHbKA003: checks 
+*** SHOW DOWN ***
+MrMoocat: shows [4c 4d] (a pair of Fours)
+BAHbKA003: shows [Ac 3c] (a pair of Aces)
+BAHbKA003 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ah Th 6h Js 2d]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 (button) showed [Ac 3c] and won ($0.14) with a pair of Aces
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: batorpeti (big blind) folded on the Flop
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: Gelovek folded before Flop (didn't bet)
+Seat 8: MrMoocat showed [4c 4d] and lost with a pair of Fours
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202931688:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:57:56 PT [2021/07/10 19:57:56 ET]
+Table 'Dembowska V' 9-max Seat #4 is the button
+Seat 1: hausmann777 ($6.05 in chips) 
+Seat 2: BAHbKA003 ($1.98 in chips) 
+Seat 4: Dorex2007 ($1.23 in chips) 
+Seat 5: batorpeti ($3.55 in chips) 
+Seat 6: enixblr ($2.08 in chips) 
+Seat 8: MrMoocat ($0.85 in chips) 
+Seat 9: MCAS1994 ($3.05 in chips) 
+batorpeti: posts small blind $0.01
+enixblr: posts big blind $0.02
+DAMAGER99: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 6s]
+MrMoocat: raises $0.02 to $0.04
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: folds 
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+Uncalled bet ($0.02) returned to MrMoocat
+MrMoocat collected $0.05 from pot
+MrMoocat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: batorpeti (small blind) folded before Flop
+Seat 6: enixblr (big blind) folded before Flop
+Seat 8: MrMoocat collected ($0.05)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202936552:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:58:18 PT [2021/07/10 19:58:18 ET]
+Table 'Dembowska V' 9-max Seat #5 is the button
+Seat 1: hausmann777 ($6.05 in chips) 
+Seat 2: BAHbKA003 ($1.98 in chips) 
+Seat 4: Dorex2007 ($1.23 in chips) 
+Seat 5: batorpeti ($3.54 in chips) 
+Seat 6: enixblr ($2.06 in chips) 
+Seat 7: DAMAGER99 ($2 in chips) 
+Seat 8: MrMoocat ($0.88 in chips) 
+Seat 9: MCAS1994 ($3.05 in chips) 
+enixblr: posts small blind $0.01
+DAMAGER99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Ts]
+MrMoocat: folds 
+MCAS1994: folds 
+hausmann777 is disconnected 
+hausmann777 has timed out while being disconnected
+hausmann777: folds 
+BAHbKA003: raises $0.04 to $0.06
+Dorex2007: folds 
+batorpeti: calls $0.06
+enixblr: folds 
+DAMAGER99: folds 
+*** FLOP *** [6h 8s 9s]
+BAHbKA003: bets $0.07
+batorpeti: folds 
+Uncalled bet ($0.07) returned to BAHbKA003
+BAHbKA003 collected $0.14 from pot
+BAHbKA003: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [6h 8s 9s]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 collected ($0.14)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti (button) folded on the Flop
+Seat 6: enixblr (small blind) folded before Flop
+Seat 7: DAMAGER99 (big blind) folded before Flop
+Seat 8: MrMoocat folded before Flop (didn't bet)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202946200:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 16:59:00 PT [2021/07/10 19:59:00 ET]
+Table 'Dembowska V' 9-max Seat #6 is the button
+Seat 2: BAHbKA003 ($2.06 in chips) 
+Seat 4: Dorex2007 ($1.23 in chips) 
+Seat 5: batorpeti ($3.48 in chips) 
+Seat 6: enixblr ($2.05 in chips) 
+Seat 7: DAMAGER99 ($1.98 in chips) 
+Seat 8: MrMoocat ($0.88 in chips) 
+Seat 9: MCAS1994 ($3.05 in chips) 
+DAMAGER99: posts small blind $0.01
+MrMoocat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 2s]
+MCAS1994: folds 
+BAHbKA003: folds 
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: raises $0.03 to $0.05
+DAMAGER99: calls $0.04
+MrMoocat: folds 
+*** FLOP *** [Jh Ah Jc]
+DAMAGER99: checks 
+enixblr: bets $0.08
+DAMAGER99: calls $0.08
+*** TURN *** [Jh Ah Jc] [6s]
+888NIKOS888 leaves the table
+DAMAGER99: checks 
+enixblr: bets $0.22
+DAMAGER99: folds 
+Uncalled bet ($0.22) returned to enixblr
+enixblr collected $0.27 from pot
+enixblr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Jh Ah Jc 6s]
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr (button) collected ($0.27)
+Seat 7: DAMAGER99 (small blind) folded on the Turn
+Seat 8: MrMoocat (big blind) folded before Flop
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228202962794:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:00:15 PT [2021/07/10 20:00:15 ET]
+Table 'Dembowska V' 9-max Seat #7 is the button
+Seat 1: hausmann777 ($6.05 in chips) 
+Seat 2: BAHbKA003 ($2.06 in chips) 
+Seat 4: Dorex2007 ($1.23 in chips) 
+Seat 5: batorpeti ($3.48 in chips) 
+Seat 6: enixblr ($2.19 in chips) 
+Seat 7: DAMAGER99 ($1.85 in chips) 
+Seat 8: MrMoocat ($0.86 in chips) 
+Seat 9: MCAS1994 ($3.05 in chips) 
+MrMoocat: posts small blind $0.01
+MCAS1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Ad]
+hausmann777: raises $0.02 to $0.04
+BAHbKA003: folds 
+Dorex2007: folds 
+batorpeti: raises $0.02 to $0.06
+enixblr: folds 
+DAMAGER99: folds 
+MrMoocat: calls $0.05
+MCAS1994: folds 
+hausmann777: calls $0.02
+*** FLOP *** [2d Ts 5c]
+MrMoocat: checks 
+hausmann777: checks 
+batorpeti: checks 
+*** TURN *** [2d Ts 5c] [7c]
+MrMoocat: bets $0.04
+hausmann777: folds 
+batorpeti: calls $0.04
+*** RIVER *** [2d Ts 5c 7c] [3d]
+MrMoocat: bets $0.10
+batorpeti: folds 
+Uncalled bet ($0.10) returned to MrMoocat
+MrMoocat collected $0.27 from pot
+MrMoocat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [2d Ts 5c 7c 3d]
+Seat 1: hausmann777 folded on the Turn
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded on the River
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: DAMAGER99 (button) folded before Flop (didn't bet)
+Seat 8: MrMoocat (small blind) collected ($0.27)
+Seat 9: MCAS1994 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228202978236:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:01:18 PT [2021/07/10 20:01:18 ET]
+Table 'Dembowska V' 9-max Seat #8 is the button
+Seat 1: hausmann777 ($5.99 in chips) 
+Seat 2: BAHbKA003 ($2.06 in chips) 
+Seat 4: Dorex2007 ($1.23 in chips) 
+Seat 5: batorpeti ($3.38 in chips) 
+Seat 6: enixblr ($2.19 in chips) 
+Seat 7: DAMAGER99 ($1.85 in chips) 
+Seat 8: MrMoocat ($1.03 in chips) 
+Seat 9: MCAS1994 ($3.03 in chips) 
+MCAS1994: posts small blind $0.01
+hausmann777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 6h]
+BAHbKA003: folds 
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+DAMAGER99: folds 
+MrMoocat: folds 
+josejosek joins the table at seat #3 
+MCAS1994: raises $0.04 to $0.06
+hausmann777: raises $0.08 to $0.14
+MCAS1994: folds 
+Uncalled bet ($0.08) returned to hausmann777
+hausmann777 collected $0.12 from pot
+hausmann777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: hausmann777 (big blind) collected ($0.12)
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: DAMAGER99 folded before Flop (didn't bet)
+Seat 8: MrMoocat (button) folded before Flop (didn't bet)
+Seat 9: MCAS1994 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228202984397:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:01:42 PT [2021/07/10 20:01:42 ET]
+Table 'Dembowska V' 9-max Seat #9 is the button
+Seat 1: hausmann777 ($6.05 in chips) 
+Seat 2: BAHbKA003 ($2.06 in chips) 
+Seat 4: Dorex2007 ($1.23 in chips) 
+Seat 5: batorpeti ($3.38 in chips) 
+Seat 6: enixblr ($2.19 in chips) 
+Seat 7: DAMAGER99 ($1.85 in chips) 
+Seat 8: MrMoocat ($1.03 in chips) 
+Seat 9: MCAS1994 ($2.97 in chips) 
+hausmann777: posts small blind $0.01
+BAHbKA003: posts big blind $0.02
+josejosek: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Qc]
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+DAMAGER99: calls $0.02
+MrMoocat: calls $0.02
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: checks 
+*** FLOP *** [Ac Qh 5c]
+BAHbKA003: checks 
+DAMAGER99: checks 
+MrMoocat: checks 
+*** TURN *** [Ac Qh 5c] [Td]
+BAHbKA003: bets $0.05
+DAMAGER99: folds 
+MrMoocat: calls $0.05
+*** RIVER *** [Ac Qh 5c Td] [2h]
+BAHbKA003: bets $0.08
+MrMoocat: raises $0.08 to $0.16
+BAHbKA003: folds 
+Uncalled bet ($0.08) returned to MrMoocat
+MrMoocat collected $0.32 from pot
+MrMoocat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Ac Qh 5c Td 2h]
+Seat 1: hausmann777 (small blind) folded before Flop
+Seat 2: BAHbKA003 (big blind) folded on the River
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: DAMAGER99 folded on the Turn
+Seat 8: MrMoocat collected ($0.32)
+Seat 9: MCAS1994 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228203003698:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:02:55 PT [2021/07/10 20:02:55 ET]
+Table 'Dembowska V' 9-max Seat #1 is the button
+Seat 1: hausmann777 ($6.04 in chips) 
+Seat 2: BAHbKA003 ($1.91 in chips) 
+Seat 3: josejosek ($1.40 in chips) 
+Seat 4: Dorex2007 ($1.23 in chips) 
+Seat 5: batorpeti ($3.38 in chips) 
+Seat 6: enixblr ($2.19 in chips) 
+Seat 7: DAMAGER99 ($1.83 in chips) 
+Seat 8: MrMoocat ($1.20 in chips) 
+Seat 9: MCAS1994 ($2.97 in chips) 
+BAHbKA003: posts small blind $0.01
+josejosek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 9s]
+Dorex2007: folds 
+batorpeti: folds 
+enixblr: folds 
+DAMAGER99: folds 
+MrMoocat: calls $0.02
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: calls $0.01
+josejosek: raises $0.06 to $0.08
+MrMoocat: calls $0.06
+BAHbKA003: calls $0.06
+*** FLOP *** [Jc Kd 9c]
+BAHbKA003: checks 
+josejosek: bets $0.11
+MrMoocat: calls $0.11
+BAHbKA003: folds 
+*** TURN *** [Jc Kd 9c] [Qd]
+josejosek: bets $0.14
+MrMoocat: calls $0.14
+*** RIVER *** [Jc Kd 9c Qd] [2d]
+josejosek: checks 
+MrMoocat: checks 
+*** SHOW DOWN ***
+josejosek: shows [Qs Qc] (three of a kind, Queens)
+MrMoocat: mucks hand 
+josejosek collected $0.71 from pot
+*** SUMMARY ***
+Total pot $0.74 | Rake $0.03 
+Board [Jc Kd 9c Qd 2d]
+Seat 1: hausmann777 (button) folded before Flop (didn't bet)
+Seat 2: BAHbKA003 (small blind) folded on the Flop
+Seat 3: josejosek (big blind) showed [Qs Qc] and won ($0.71) with three of a kind, Queens
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: batorpeti folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: DAMAGER99 folded before Flop (didn't bet)
+Seat 8: MrMoocat mucked [9h Ad]
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228203025372:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:04:18 PT [2021/07/10 20:04:18 ET]
+Table 'Dembowska V' 9-max Seat #2 is the button
+Seat 1: hausmann777 ($6.04 in chips) 
+Seat 2: BAHbKA003 ($1.83 in chips) 
+Seat 3: josejosek ($1.78 in chips) 
+Seat 4: Dorex2007 ($1.23 in chips) 
+Seat 5: batorpeti ($3.38 in chips) 
+Seat 6: enixblr ($2.19 in chips) 
+Seat 7: DAMAGER99 ($1.83 in chips) 
+Seat 8: MrMoocat ($0.87 in chips) 
+Seat 9: MCAS1994 ($2.97 in chips) 
+josejosek: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Jc]
+batorpeti: raises $0.02 to $0.04
+enixblr: folds 
+DAMAGER99: folds 
+MrMoocat: folds 
+MCAS1994: folds 
+hausmann777: raises $0.06 to $0.10
+BAHbKA003: calls $0.10
+josejosek: folds 
+Dorex2007: folds 
+batorpeti: calls $0.06
+*** FLOP *** [Ad Qc 3h]
+batorpeti: checks 
+hausmann777: bets $0.14
+BAHbKA003: folds 
+batorpeti: folds 
+Uncalled bet ($0.14) returned to hausmann777
+hausmann777 collected $0.32 from pot
+hausmann777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Ad Qc 3h]
+Seat 1: hausmann777 collected ($0.32)
+Seat 2: BAHbKA003 (button) folded on the Flop
+Seat 3: josejosek (small blind) folded before Flop
+Seat 4: Dorex2007 (big blind) folded before Flop
+Seat 5: batorpeti folded on the Flop
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: DAMAGER99 folded before Flop (didn't bet)
+Seat 8: MrMoocat folded before Flop (didn't bet)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228203038215:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:05:07 PT [2021/07/10 20:05:07 ET]
+Table 'Dembowska V' 9-max Seat #3 is the button
+Seat 1: hausmann777 ($6.26 in chips) 
+Seat 2: BAHbKA003 ($1.73 in chips) 
+Seat 3: josejosek ($1.77 in chips) 
+Seat 4: Dorex2007 ($1.21 in chips) 
+Seat 6: enixblr ($2.19 in chips) 
+Seat 7: DAMAGER99 ($1.83 in chips) 
+Seat 8: MrMoocat ($0.87 in chips) 
+Seat 9: MCAS1994 ($2.97 in chips) 
+Dorex2007: posts small blind $0.01
+enixblr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Kc]
+DAMAGER99: calls $0.02
+batorpeti leaves the table
+MrMoocat: folds 
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: folds 
+josejosek: calls $0.02
+Dorex2007: folds 
+Iezamu joins the table at seat #5 
+enixblr: checks 
+*** FLOP *** [4d Ks Js]
+enixblr: checks 
+DAMAGER99: checks 
+josejosek: bets $0.05
+enixblr: folds 
+DAMAGER99: folds 
+Uncalled bet ($0.05) returned to josejosek
+josejosek collected $0.07 from pot
+josejosek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [4d Ks Js]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: josejosek (button) collected ($0.07)
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 6: enixblr (big blind) folded on the Flop
+Seat 7: DAMAGER99 folded on the Flop
+Seat 8: MrMoocat folded before Flop (didn't bet)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228203048480:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:05:46 PT [2021/07/10 20:05:46 ET]
+Table 'Dembowska V' 9-max Seat #4 is the button
+Seat 1: hausmann777 ($6.26 in chips) 
+Seat 2: BAHbKA003 ($2 in chips) 
+Seat 3: josejosek ($1.82 in chips) 
+Seat 4: Dorex2007 ($1.20 in chips) 
+Seat 6: enixblr ($2.17 in chips) 
+Seat 7: DAMAGER99 ($1.81 in chips) 
+Seat 8: MrMoocat ($0.87 in chips) 
+Seat 9: MCAS1994 ($2.97 in chips) 
+enixblr: posts small blind $0.01
+DAMAGER99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Th]
+MrMoocat: folds 
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: folds 
+josejosek: raises $0.04 to $0.06
+Dorex2007: calls $0.06
+enixblr: folds 
+DAMAGER99: calls $0.04
+*** FLOP *** [8d 6d 5h]
+DAMAGER99: checks 
+josejosek: checks 
+Dorex2007: checks 
+*** TURN *** [8d 6d 5h] [8s]
+DAMAGER99: checks 
+josejosek: bets $0.09
+Dorex2007: folds 
+DAMAGER99: calls $0.09
+*** RIVER *** [8d 6d 5h 8s] [4c]
+DAMAGER99: checks 
+josejosek: bets $0.18
+DAMAGER99: folds 
+Uncalled bet ($0.18) returned to josejosek
+josejosek collected $0.36 from pot
+josejosek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [8d 6d 5h 8s 4c]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: josejosek collected ($0.36)
+Seat 4: Dorex2007 (button) folded on the Turn
+Seat 6: enixblr (small blind) folded before Flop
+Seat 7: DAMAGER99 (big blind) folded on the River
+Seat 8: MrMoocat folded before Flop (didn't bet)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228203062415:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:06:39 PT [2021/07/10 20:06:39 ET]
+Table 'Dembowska V' 9-max Seat #6 is the button
+Seat 1: hausmann777 ($6.26 in chips) 
+Seat 2: BAHbKA003 ($2 in chips) 
+Seat 3: josejosek ($2.03 in chips) 
+Seat 4: Dorex2007 ($1.14 in chips) 
+Seat 5: Iezamu ($2 in chips) 
+Seat 6: enixblr ($2.16 in chips) 
+Seat 7: DAMAGER99 ($1.66 in chips) 
+Seat 8: MrMoocat ($0.87 in chips) 
+Seat 9: MCAS1994 ($2.97 in chips) 
+DAMAGER99: posts small blind $0.01
+MrMoocat: posts big blind $0.02
+Iezamu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Ah]
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: folds 
+josejosek: folds 
+Dorex2007: folds 
+Iezamu: raises $0.05 to $0.07
+enixblr: folds 
+DAMAGER99: folds 
+MrMoocat: calls $0.05
+*** FLOP *** [5s 9h 4d]
+MrMoocat: checks 
+Iezamu: bets $0.11
+MrMoocat: calls $0.11
+*** TURN *** [5s 9h 4d] [2s]
+MrMoocat: bets $0.36
+Iezamu: calls $0.36
+*** RIVER *** [5s 9h 4d 2s] [Kc]
+MrMoocat: bets $0.33 and is all-in
+Iezamu: calls $0.33
+*** SHOW DOWN ***
+MrMoocat: shows [3h 3c] (a pair of Threes)
+Iezamu: shows [Kd 6d] (a pair of Kings)
+Iezamu collected $1.67 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.08 
+Board [5s 9h 4d 2s Kc]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: josejosek folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Iezamu showed [Kd 6d] and won ($1.67) with a pair of Kings
+Seat 6: enixblr (button) folded before Flop (didn't bet)
+Seat 7: DAMAGER99 (small blind) folded before Flop
+Seat 8: MrMoocat (big blind) showed [3h 3c] and lost with a pair of Threes
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228203073521:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:07:22 PT [2021/07/10 20:07:22 ET]
+Table 'Dembowska V' 9-max Seat #7 is the button
+Seat 1: hausmann777 ($6.26 in chips) 
+Seat 2: BAHbKA003 ($2 in chips) 
+Seat 3: josejosek ($2.03 in chips) 
+Seat 4: Dorex2007 ($1.14 in chips) 
+Seat 5: Iezamu ($2.80 in chips) 
+Seat 6: enixblr ($2.16 in chips) 
+Seat 7: DAMAGER99 ($1.65 in chips) 
+Seat 9: MCAS1994 ($2.97 in chips) 
+MCAS1994: posts small blind $0.01
+hausmann777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 7s]
+BAHbKA003: folds 
+josejosek: folds 
+Dorex2007: folds 
+Iezamu: folds 
+enixblr: raises $0.03 to $0.05
+MrMoocat leaves the table
+DAMAGER99: folds 
+MCAS1994: folds 
+hausmann777: folds 
+Uncalled bet ($0.03) returned to enixblr
+enixblr collected $0.05 from pot
+enixblr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hausmann777 (big blind) folded before Flop
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: josejosek folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Iezamu folded before Flop (didn't bet)
+Seat 6: enixblr collected ($0.05)
+Seat 7: DAMAGER99 (button) folded before Flop (didn't bet)
+Seat 9: MCAS1994 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228203078794:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:07:41 PT [2021/07/10 20:07:41 ET]
+Table 'Dembowska V' 9-max Seat #9 is the button
+Seat 1: hausmann777 ($6.24 in chips) 
+Seat 2: BAHbKA003 ($2 in chips) 
+Seat 3: josejosek ($2.03 in chips) 
+Seat 4: Dorex2007 ($1.14 in chips) 
+Seat 5: Iezamu ($2.80 in chips) 
+Seat 6: enixblr ($2.19 in chips) 
+Seat 7: DAMAGER99 ($1.65 in chips) 
+Seat 9: MCAS1994 ($2.96 in chips) 
+hausmann777: posts small blind $0.01
+BAHbKA003: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Ad]
+josejosek: raises $0.02 to $0.04
+Dorex2007: folds 
+Iezamu: folds 
+enixblr: folds 
+DAMAGER99: folds 
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: folds 
+Uncalled bet ($0.02) returned to josejosek
+josejosek collected $0.05 from pot
+josejosek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hausmann777 (small blind) folded before Flop
+Seat 2: BAHbKA003 (big blind) folded before Flop
+Seat 3: josejosek collected ($0.05)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Iezamu folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: DAMAGER99 folded before Flop (didn't bet)
+Seat 9: MCAS1994 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228203083969:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:08:01 PT [2021/07/10 20:08:01 ET]
+Table 'Dembowska V' 9-max Seat #1 is the button
+Seat 1: hausmann777 ($6.23 in chips) 
+Seat 2: BAHbKA003 ($1.98 in chips) 
+Seat 3: josejosek ($2.06 in chips) 
+Seat 4: Dorex2007 ($1.14 in chips) 
+Seat 5: Iezamu ($2.80 in chips) 
+Seat 6: enixblr ($2.19 in chips) 
+Seat 7: DAMAGER99 ($1.65 in chips) 
+Seat 9: MCAS1994 ($2.96 in chips) 
+BAHbKA003: posts small blind $0.01
+josejosek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Qh]
+Dorex2007: folds 
+Iezamu: folds 
+enixblr: folds 
+DAMAGER99: folds 
+MCAS1994: folds 
+hausmann777: raises $0.06 to $0.08
+BAHbKA003: folds 
+josejosek: calls $0.06
+*** FLOP *** [4c 5c Qd]
+josejosek: checks 
+hausmann777: checks 
+*** TURN *** [4c 5c Qd] [Js]
+josejosek: bets $0.08
+hausmann777: folds 
+Uncalled bet ($0.08) returned to josejosek
+josejosek collected $0.16 from pot
+josejosek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [4c 5c Qd Js]
+Seat 1: hausmann777 (button) folded on the Turn
+Seat 2: BAHbKA003 (small blind) folded before Flop
+Seat 3: josejosek (big blind) collected ($0.16)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Iezamu folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: DAMAGER99 folded before Flop (didn't bet)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228203094557:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:08:41 PT [2021/07/10 20:08:41 ET]
+Table 'Dembowska V' 9-max Seat #2 is the button
+Seat 1: hausmann777 ($6.15 in chips) 
+Seat 2: BAHbKA003 ($1.97 in chips) 
+Seat 3: josejosek ($2.14 in chips) 
+Seat 4: Dorex2007 ($1.14 in chips) 
+Seat 5: Iezamu ($2.80 in chips) 
+Seat 6: enixblr ($2.19 in chips) 
+Seat 7: DAMAGER99 ($1.65 in chips) 
+Seat 9: MCAS1994 ($2.96 in chips) 
+josejosek: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 3h]
+Iezamu: folds 
+enixblr: folds 
+DAMAGER99: folds 
+Lorelleyna joins the table at seat #8 
+MCAS1994: raises $0.04 to $0.06
+hausmann777: folds 
+BAHbKA003: folds 
+josejosek: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to MCAS1994
+MCAS1994 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 (button) folded before Flop (didn't bet)
+Seat 3: josejosek (small blind) folded before Flop
+Seat 4: Dorex2007 (big blind) folded before Flop
+Seat 5: Iezamu folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: DAMAGER99 folded before Flop (didn't bet)
+Seat 9: MCAS1994 collected ($0.05)
+
+
+
+PokerStars Hand #228203102522:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:09:11 PT [2021/07/10 20:09:11 ET]
+Table 'Dembowska V' 9-max Seat #3 is the button
+Seat 1: hausmann777 ($6.15 in chips) 
+Seat 2: BAHbKA003 ($1.97 in chips) 
+Seat 3: josejosek ($2.13 in chips) 
+Seat 4: Dorex2007 ($1.12 in chips) 
+Seat 5: Iezamu ($2.80 in chips) 
+Seat 6: enixblr ($2.19 in chips) 
+Seat 7: DAMAGER99 ($1.65 in chips) 
+Seat 9: MCAS1994 ($2.99 in chips) 
+Dorex2007: posts small blind $0.01
+Iezamu: posts big blind $0.02
+Lorelleyna: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Qs]
+enixblr: folds 
+DAMAGER99: folds 
+MCAS1994: raises $0.04 to $0.06
+hausmann777: raises $0.08 to $0.14
+BAHbKA003: folds 
+josejosek: folds 
+Dorex2007: folds 
+Iezamu: folds 
+MCAS1994: raises $0.31 to $0.45
+hausmann777: folds 
+Uncalled bet ($0.31) returned to MCAS1994
+MCAS1994 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0 
+Seat 1: hausmann777 folded before Flop
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: josejosek (button) folded before Flop (didn't bet)
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: Iezamu (big blind) folded before Flop
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: DAMAGER99 folded before Flop (didn't bet)
+Seat 9: MCAS1994 collected ($0.31)
+
+
+
+PokerStars Hand #228203118073:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:09:49 PT [2021/07/10 20:09:49 ET]
+Table 'Dembowska V' 9-max Seat #4 is the button
+Seat 1: hausmann777 ($6.01 in chips) 
+Seat 2: BAHbKA003 ($1.97 in chips) 
+Seat 3: josejosek ($2.13 in chips) 
+Seat 4: Dorex2007 ($1.11 in chips) 
+Seat 5: Iezamu ($2.78 in chips) 
+Seat 6: enixblr ($2.19 in chips) 
+Seat 7: DAMAGER99 ($1.65 in chips) 
+Seat 9: MCAS1994 ($3.16 in chips) 
+Iezamu: posts small blind $0.01
+enixblr: posts big blind $0.02
+Lorelleyna: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 7h]
+DAMAGER99: folds 
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: folds 
+josejosek: raises $0.02 to $0.04
+Dorex2007: folds 
+Iezamu: folds 
+enixblr: raises $0.14 to $0.18
+josejosek: calls $0.14
+*** FLOP *** [Tc Th Kc]
+enixblr: checks 
+josejosek: bets $0.18
+enixblr: calls $0.18
+*** TURN *** [Tc Th Kc] [Ah]
+enixblr: checks 
+josejosek: checks 
+*** RIVER *** [Tc Th Kc Ah] [7s]
+enixblr: checks 
+josejosek: bets $0.35
+enixblr: folds 
+Uncalled bet ($0.35) returned to josejosek
+josejosek collected $0.70 from pot
+josejosek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [Tc Th Kc Ah 7s]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: josejosek collected ($0.70)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: Iezamu (small blind) folded before Flop
+Seat 6: enixblr (big blind) folded on the River
+Seat 7: DAMAGER99 folded before Flop (didn't bet)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228203138517:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:11:07 PT [2021/07/10 20:11:07 ET]
+Table 'Dembowska V' 9-max Seat #5 is the button
+Seat 1: hausmann777 ($6.01 in chips) 
+Seat 2: BAHbKA003 ($1.97 in chips) 
+Seat 3: josejosek ($2.47 in chips) 
+Seat 4: Dorex2007 ($1.11 in chips) 
+Seat 5: Iezamu ($2.77 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: DAMAGER99 ($1.65 in chips) 
+Seat 9: MCAS1994 ($3.16 in chips) 
+enixblr: posts small blind $0.01
+DAMAGER99: posts big blind $0.02
+Lorelleyna: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Jh]
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: folds 
+josejosek: raises $0.03 to $0.05
+Dorex2007: folds 
+Iezamu: calls $0.05
+enixblr: folds 
+DAMAGER99: calls $0.03
+*** FLOP *** [Th Tc 3d]
+DAMAGER99: checks 
+josejosek: bets $0.04
+Iezamu: calls $0.04
+DAMAGER99: folds 
+*** TURN *** [Th Tc 3d] [5d]
+josejosek: bets $0.11
+Iezamu: raises $0.11 to $0.22
+josejosek: calls $0.11
+*** RIVER *** [Th Tc 3d 5d] [7c]
+josejosek: checks 
+Iezamu: bets $0.66
+josejosek: folds 
+Uncalled bet ($0.66) returned to Iezamu
+Iezamu collected $0.66 from pot
+Iezamu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.68 | Rake $0.02 
+Board [Th Tc 3d 5d 7c]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: josejosek folded on the River
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Iezamu (button) collected ($0.66)
+Seat 6: enixblr (small blind) folded before Flop
+Seat 7: DAMAGER99 (big blind) folded on the Flop
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228203157391:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:12:20 PT [2021/07/10 20:12:20 ET]
+Table 'Dembowska V' 9-max Seat #6 is the button
+Seat 1: hausmann777 ($6.01 in chips) 
+Seat 2: BAHbKA003 ($1.97 in chips) 
+Seat 3: josejosek ($2.16 in chips) 
+Seat 4: Dorex2007 ($1.11 in chips) 
+Seat 5: Iezamu ($3.12 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: DAMAGER99 ($1.60 in chips) 
+Seat 8: Lorelleyna ($1.60 in chips) 
+Seat 9: MCAS1994 ($3.16 in chips) 
+DAMAGER99: posts small blind $0.01
+Lorelleyna: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Ah]
+MCAS1994: folds 
+hausmann777: folds 
+BAHbKA003: folds 
+josejosek: folds 
+Dorex2007: raises $0.02 to $0.04
+Iezamu: folds 
+enixblr: folds 
+DAMAGER99: calls $0.03
+Lorelleyna: calls $0.02
+*** FLOP *** [2c 8c Tc]
+DAMAGER99: checks 
+Lorelleyna: checks 
+Dorex2007: checks 
+*** TURN *** [2c 8c Tc] [3h]
+DAMAGER99: checks 
+Lorelleyna: checks 
+Dorex2007: checks 
+*** RIVER *** [2c 8c Tc 3h] [5s]
+DAMAGER99: checks 
+Lorelleyna: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+DAMAGER99: shows [Kd Jd] (high card King)
+Lorelleyna: shows [5h 7c] (a pair of Fives)
+Dorex2007: mucks hand 
+Lorelleyna collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [2c 8c Tc 3h 5s]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: josejosek folded before Flop (didn't bet)
+Seat 4: Dorex2007 mucked [7h Ah]
+Seat 5: Iezamu folded before Flop (didn't bet)
+Seat 6: enixblr (button) folded before Flop (didn't bet)
+Seat 7: DAMAGER99 (small blind) showed [Kd Jd] and lost with high card King
+Seat 8: Lorelleyna (big blind) showed [5h 7c] and won ($0.12) with a pair of Fives
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228203174368:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:13:26 PT [2021/07/10 20:13:26 ET]
+Table 'Dembowska V' 9-max Seat #7 is the button
+Seat 1: hausmann777 ($6.01 in chips) 
+Seat 2: BAHbKA003 ($1.97 in chips) 
+Seat 3: josejosek ($2.16 in chips) 
+Seat 4: Dorex2007 ($1.07 in chips) 
+Seat 5: Iezamu ($3.12 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: DAMAGER99 ($1.56 in chips) 
+Seat 8: Lorelleyna ($1.68 in chips) 
+Seat 9: MCAS1994 ($3.16 in chips) 
+Lorelleyna: posts small blind $0.01
+MCAS1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 6d]
+hausmann777: folds 
+BAHbKA003: folds 
+josejosek: raises $0.02 to $0.04
+Dorex2007: folds 
+Iezamu: folds 
+enixblr: folds 
+DAMAGER99: folds 
+Lorelleyna: folds 
+MCAS1994: calls $0.02
+*** FLOP *** [6s Qh 3h]
+Lorelleyna leaves the table
+MCAS1994: checks 
+josejosek: bets $0.04
+MCAS1994: calls $0.04
+*** TURN *** [6s Qh 3h] [9c]
+MCAS1994: checks 
+josejosek: bets $0.16
+MCAS1994: folds 
+Uncalled bet ($0.16) returned to josejosek
+josejosek collected $0.16 from pot
+josejosek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [6s Qh 3h 9c]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 2: BAHbKA003 folded before Flop (didn't bet)
+Seat 3: josejosek collected ($0.16)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Iezamu folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: DAMAGER99 (button) folded before Flop (didn't bet)
+Seat 8: Lorelleyna (small blind) folded before Flop
+Seat 9: MCAS1994 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #228203184125:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:14:04 PT [2021/07/10 20:14:04 ET]
+Table 'Dembowska V' 9-max Seat #9 is the button
+Seat 1: hausmann777 ($6.01 in chips) 
+Seat 3: josejosek ($2.24 in chips) 
+Seat 4: Dorex2007 ($1.07 in chips) 
+Seat 5: Iezamu ($3.12 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: DAMAGER99 ($1.56 in chips) 
+Seat 9: MCAS1994 ($3.08 in chips) 
+hausmann777: posts small blind $0.01
+BAHbKA003: is sitting out 
+josejosek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Td]
+Dorex2007: folds 
+BAHbKA003 leaves the table
+Iezamu: calls $0.02
+enixblr: folds 
+DAMAGER99: folds 
+MCAS1994: folds 
+hausmann777: raises $0.02 to $0.04
+josejosek: calls $0.02
+Iezamu: calls $0.02
+*** FLOP *** [5c 9h Ac]
+hausmann777: checks 
+josejosek: bets $0.06
+Iezamu: raises $0.24 to $0.30
+hausmann777: folds 
+josejosek: calls $0.24
+*** TURN *** [5c 9h Ac] [8h]
+josejosek: checks 
+Iezamu: bets $2.22
+josejosek: folds 
+Uncalled bet ($2.22) returned to Iezamu
+Iezamu collected $0.68 from pot
+Iezamu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.04 
+Board [5c 9h Ac 8h]
+Seat 1: hausmann777 (small blind) folded on the Flop
+Seat 3: josejosek (big blind) folded on the Turn
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Iezamu collected ($0.68)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: DAMAGER99 folded before Flop (didn't bet)
+Seat 9: MCAS1994 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228203199185:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:15:03 PT [2021/07/10 20:15:03 ET]
+Table 'Dembowska V' 9-max Seat #1 is the button
+Seat 1: hausmann777 ($5.97 in chips) 
+Seat 3: josejosek ($1.90 in chips) 
+Seat 4: Dorex2007 ($1.07 in chips) 
+Seat 5: Iezamu ($3.46 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: DAMAGER99 ($1.56 in chips) 
+Seat 9: MCAS1994 ($3.08 in chips) 
+josejosek: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 8h]
+Iezamu: calls $0.02
+TrzymamKolo joins the table at seat #2 
+enixblr: folds 
+DAMAGER99: folds 
+MCAS1994: folds 
+hausmann777: folds 
+josejosek: raises $0.06 to $0.08
+Dorex2007: folds 
+Iezamu: calls $0.06
+*** FLOP *** [Qd 4s 6d]
+Yuri Colmerauer joins the table at seat #8 
+josejosek: bets $0.17
+Iezamu: raises $3.15 to $3.32
+josejosek: folds 
+Uncalled bet ($3.15) returned to Iezamu
+Iezamu collected $0.50 from pot
+Iezamu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [Qd 4s 6d]
+Seat 1: hausmann777 (button) folded before Flop (didn't bet)
+Seat 3: josejosek (small blind) folded on the Flop
+Seat 4: Dorex2007 (big blind) folded before Flop
+Seat 5: Iezamu collected ($0.50)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: DAMAGER99 folded before Flop (didn't bet)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228203209770:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:15:45 PT [2021/07/10 20:15:45 ET]
+Table 'Dembowska V' 9-max Seat #3 is the button
+Seat 1: hausmann777 ($5.97 in chips) 
+Seat 3: josejosek ($1.65 in chips) 
+Seat 4: Dorex2007 ($1.05 in chips) 
+Seat 5: Iezamu ($3.71 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: DAMAGER99 ($1.56 in chips) 
+Seat 9: MCAS1994 ($3.08 in chips) 
+Dorex2007: posts small blind $0.01
+Iezamu: posts big blind $0.02
+Yuri Colmerauer: sits out 
+TrzymamKolo: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 2d]
+enixblr: folds 
+DAMAGER99: folds 
+MCAS1994: folds 
+hausmann777: raises $0.04 to $0.06
+josejosek: calls $0.06
+Dorex2007: folds 
+Iezamu: folds 
+*** FLOP *** [9c Jh 8s]
+hausmann777: checks 
+josejosek: bets $0.05
+hausmann777: folds 
+Uncalled bet ($0.05) returned to josejosek
+josejosek collected $0.14 from pot
+josejosek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9c Jh 8s]
+Seat 1: hausmann777 folded on the Flop
+Seat 3: josejosek (button) collected ($0.14)
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: Iezamu (big blind) folded before Flop
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: DAMAGER99 folded before Flop (didn't bet)
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228203217676:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:16:17 PT [2021/07/10 20:16:17 ET]
+Table 'Dembowska V' 9-max Seat #4 is the button
+Seat 1: hausmann777 ($5.91 in chips) 
+Seat 3: josejosek ($1.73 in chips) 
+Seat 4: Dorex2007 ($1.04 in chips) 
+Seat 5: Iezamu ($3.69 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: DAMAGER99 ($1.56 in chips) 
+Seat 9: MCAS1994 ($3.08 in chips) 
+Iezamu: posts small blind $0.01
+enixblr: posts big blind $0.02
+Yuri Colmerauer: sits out 
+TrzymamKolo: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 4s]
+DAMAGER99: raises $0.02 to $0.04
+MCAS1994: folds 
+hausmann777: folds 
+josejosek: raises $0.09 to $0.13
+Dorex2007: folds 
+Iezamu: folds 
+enixblr: folds 
+DAMAGER99: folds 
+Uncalled bet ($0.09) returned to josejosek
+josejosek collected $0.11 from pot
+josejosek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 3: josejosek collected ($0.11)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: Iezamu (small blind) folded before Flop
+Seat 6: enixblr (big blind) folded before Flop
+Seat 7: DAMAGER99 folded before Flop
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228203223617:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:16:40 PT [2021/07/10 20:16:40 ET]
+Table 'Dembowska V' 9-max Seat #5 is the button
+Seat 1: hausmann777 ($5.91 in chips) 
+Seat 3: josejosek ($1.80 in chips) 
+Seat 4: Dorex2007 ($1.04 in chips) 
+Seat 5: Iezamu ($3.68 in chips) 
+Seat 6: enixblr ($2 in chips) 
+Seat 7: DAMAGER99 ($1.52 in chips) 
+Seat 9: MCAS1994 ($3.08 in chips) 
+enixblr: posts small blind $0.01
+DAMAGER99: posts big blind $0.02
+Yuri Colmerauer: sits out 
+TrzymamKolo: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Js]
+MCAS1994: folds 
+hausmann777 has timed out
+hausmann777: folds 
+josejosek: folds 
+Dorex2007: folds 
+Iezamu: folds 
+enixblr: raises $0.03 to $0.05
+DAMAGER99: folds 
+Uncalled bet ($0.03) returned to enixblr
+enixblr collected $0.04 from pot
+enixblr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 3: josejosek folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Iezamu (button) folded before Flop (didn't bet)
+Seat 6: enixblr (small blind) collected ($0.04)
+Seat 7: DAMAGER99 (big blind) folded before Flop
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228203230147:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:17:06 PT [2021/07/10 20:17:06 ET]
+Table 'Dembowska V' 9-max Seat #6 is the button
+Seat 3: josejosek ($1.80 in chips) 
+Seat 4: Dorex2007 ($1.04 in chips) 
+Seat 5: Iezamu ($3.68 in chips) 
+Seat 6: enixblr ($2.02 in chips) 
+Seat 7: DAMAGER99 ($1.50 in chips) 
+Seat 8: Yuri Colmerauer ($2 in chips) 
+Seat 9: MCAS1994 ($3.08 in chips) 
+DAMAGER99: posts small blind $0.01
+Yuri Colmerauer: posts big blind $0.02
+TrzymamKolo: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 9s]
+MCAS1994: folds 
+josejosek: folds 
+Dorex2007: folds 
+Iezamu: folds 
+enixblr: folds 
+DAMAGER99: raises $0.04 to $0.06
+Yuri Colmerauer: folds 
+Uncalled bet ($0.04) returned to DAMAGER99
+DAMAGER99 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: josejosek folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Iezamu folded before Flop (didn't bet)
+Seat 6: enixblr (button) folded before Flop (didn't bet)
+Seat 7: DAMAGER99 (small blind) collected ($0.04)
+Seat 8: Yuri Colmerauer (big blind) folded before Flop
+Seat 9: MCAS1994 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228203235384:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:17:26 PT [2021/07/10 20:17:26 ET]
+Table 'Dembowska V' 9-max Seat #7 is the button
+Seat 1: hausmann777 ($5.91 in chips) 
+Seat 3: josejosek ($1.80 in chips) 
+Seat 4: Dorex2007 ($1.04 in chips) 
+Seat 5: Iezamu ($3.68 in chips) 
+Seat 6: enixblr ($2.02 in chips) 
+Seat 7: DAMAGER99 ($1.52 in chips) 
+Seat 8: Yuri Colmerauer ($2 in chips) 
+Seat 9: MCAS1994 ($3.08 in chips) 
+Yuri Colmerauer: posts small blind $0.01
+MCAS1994: posts big blind $0.02
+TrzymamKolo: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 3d]
+hausmann777 has timed out
+hausmann777: folds 
+josejosek: raises $0.03 to $0.05
+Dorex2007: folds 
+Iezamu: folds 
+enixblr: folds 
+DAMAGER99: folds 
+Yuri Colmerauer: calls $0.04
+MCAS1994: folds 
+*** FLOP *** [5s Qc Qs]
+Yuri Colmerauer: checks 
+josejosek: checks 
+*** TURN *** [5s Qc Qs] [Qh]
+Yuri Colmerauer: checks 
+josejosek: bets $0.06
+Yuri Colmerauer: folds 
+Uncalled bet ($0.06) returned to josejosek
+josejosek collected $0.12 from pot
+josejosek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [5s Qc Qs Qh]
+Seat 1: hausmann777 folded before Flop (didn't bet)
+Seat 3: josejosek collected ($0.12)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Iezamu folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: DAMAGER99 (button) folded before Flop (didn't bet)
+Seat 8: Yuri Colmerauer (small blind) folded on the Turn
+Seat 9: MCAS1994 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228203245393:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:18:06 PT [2021/07/10 20:18:06 ET]
+Table 'Dembowska V' 9-max Seat #8 is the button
+Seat 2: TrzymamKolo ($2 in chips) 
+Seat 3: josejosek ($1.87 in chips) 
+Seat 4: Dorex2007 ($1.04 in chips) 
+Seat 5: Iezamu ($3.68 in chips) 
+Seat 6: enixblr ($2.02 in chips) 
+Seat 7: DAMAGER99 ($1.52 in chips) 
+Seat 8: Yuri Colmerauer ($2 in chips) 
+Seat 9: MCAS1994 ($3.06 in chips) 
+MCAS1994: posts small blind $0.01
+TrzymamKolo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Td]
+josejosek: folds 
+Dorex2007: folds 
+Iezamu: calls $0.02
+enixblr: folds 
+DAMAGER99: folds 
+Yuri Colmerauer: folds 
+MCAS1994: folds 
+TrzymamKolo: checks 
+*** FLOP *** [5d 3c As]
+TrzymamKolo: checks 
+Iezamu: bets $0.02
+TrzymamKolo: folds 
+Uncalled bet ($0.02) returned to Iezamu
+Iezamu collected $0.05 from pot
+Iezamu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5d 3c As]
+Seat 2: TrzymamKolo (big blind) folded on the Flop
+Seat 3: josejosek folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Iezamu collected ($0.05)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: DAMAGER99 folded before Flop (didn't bet)
+Seat 8: Yuri Colmerauer (button) folded before Flop (didn't bet)
+Seat 9: MCAS1994 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228203253291:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/10 17:18:37 PT [2021/07/10 20:18:37 ET]
+Table 'Dembowska V' 9-max Seat #9 is the button
+Seat 2: TrzymamKolo ($2 in chips) 
+Seat 3: josejosek ($1.87 in chips) 
+Seat 4: Dorex2007 ($1.04 in chips) 
+Seat 5: Iezamu ($3.71 in chips) 
+Seat 6: enixblr ($2.02 in chips) 
+Seat 7: DAMAGER99 ($1.52 in chips) 
+Seat 8: Yuri Colmerauer ($2 in chips) 
+Seat 9: MCAS1994 ($3.05 in chips) 
+TrzymamKolo: posts small blind $0.01
+josejosek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 5s]
+Dorex2007: folds 
+Iezamu: folds 
+enixblr: folds 
+DAMAGER99: folds 
+Yuri Colmerauer: folds 
+MCAS1994: folds 
+TrzymamKolo: folds 
+Uncalled bet ($0.01) returned to josejosek
+josejosek collected $0.02 from pot
+josejosek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: TrzymamKolo (small blind) folded before Flop
+Seat 3: josejosek (big blind) collected ($0.02)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Iezamu folded before Flop (didn't bet)
+Seat 6: enixblr folded before Flop (didn't bet)
+Seat 7: DAMAGER99 folded before Flop (didn't bet)
+Seat 8: Yuri Colmerauer folded before Flop (didn't bet)
+Seat 9: MCAS1994 (button) folded before Flop (didn't bet)
+
+
+

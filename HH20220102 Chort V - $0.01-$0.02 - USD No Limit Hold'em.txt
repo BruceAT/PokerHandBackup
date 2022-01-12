@@ -1,0 +1,5127 @@
+﻿PokerStars Hand #232733727525:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:00:15 PT [2022/01/02 0:00:15 ET]
+Table 'Chort V' 9-max Seat #3 is the button
+Seat 1: FaithfulDuck ($1.97 in chips) 
+Seat 2: tutjak ($2.24 in chips) 
+Seat 3: creamyscreamer ($2.89 in chips) 
+Seat 6: djkimera ($6.62 in chips) 
+Seat 7: Dorex2007 ($2.89 in chips) 
+Seat 8: hgpperez ($2.39 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+djkimera: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Ah]
+hgpperez: folds 
+MelchiorF1: folds 
+pro.gr.gr leaves the table
+FaithfulDuck: folds 
+tutjak: folds 
+Nepfion joins the table at seat #4 
+creamyscreamer: calls $0.02
+djkimera: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [7c 3d 6c]
+djkimera: checks 
+Dorex2007: checks 
+creamyscreamer: checks 
+*** TURN *** [7c 3d 6c] [Js]
+djkimera: checks 
+Dorex2007: checks 
+creamyscreamer: bets $0.08
+djkimera: folds 
+Dorex2007: folds 
+Uncalled bet ($0.08) returned to creamyscreamer
+creamyscreamer collected $0.06 from pot
+creamyscreamer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [7c 3d 6c Js]
+Seat 1: FaithfulDuck folded before Flop (didn't bet)
+Seat 2: tutjak folded before Flop (didn't bet)
+Seat 3: creamyscreamer (button) collected ($0.06)
+Seat 6: djkimera (small blind) folded on the Turn
+Seat 7: Dorex2007 (big blind) folded on the Turn
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733736648:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:01:11 PT [2022/01/02 0:01:11 ET]
+Table 'Chort V' 9-max Seat #6 is the button
+Seat 1: FaithfulDuck ($1.97 in chips) 
+Seat 2: tutjak ($2.24 in chips) 
+Seat 3: creamyscreamer ($2.93 in chips) 
+Seat 6: djkimera ($6.60 in chips) 
+Seat 7: Dorex2007 ($2.87 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+Dorex2007: posts small blind $0.01
+hgpperez: is sitting out 
+MelchiorF1: posts big blind $0.02
+Nepfion: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 3h]
+FaithfulDuck has timed out
+FaithfulDuck: folds 
+tutjak: raises $0.04 to $0.06
+creamyscreamer: folds 
+creamyscreamer leaves the table
+djkimera: calls $0.06
+Dorex2007: folds 
+MelchiorF1: folds 
+*** FLOP *** [7s 8s 9s]
+tutjak: bets $0.10
+djkimera: calls $0.10
+*** TURN *** [7s 8s 9s] [Kc]
+Sergius410 joins the table at seat #3 
+tutjak: bets $0.26
+djkimera: calls $0.26
+*** RIVER *** [7s 8s 9s Kc] [Qh]
+tutjak: bets $0.50
+djkimera: raises $1.09 to $1.59
+tutjak: folds 
+Uncalled bet ($1.09) returned to djkimera
+djkimera collected $1.80 from pot
+djkimera: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.87 | Rake $0.07 
+Board [7s 8s 9s Kc Qh]
+Seat 1: FaithfulDuck folded before Flop (didn't bet)
+Seat 2: tutjak folded on the River
+Seat 3: creamyscreamer folded before Flop (didn't bet)
+Seat 6: djkimera (button) collected ($1.80)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 9: MelchiorF1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232733745959:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:02:07 PT [2022/01/02 0:02:07 ET]
+Table 'Chort V' 9-max Seat #7 is the button
+Seat 2: tutjak ($2 in chips) 
+Seat 3: Sergius410 ($0.80 in chips) 
+Seat 6: djkimera ($7.48 in chips) 
+Seat 7: Dorex2007 ($2.86 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+MelchiorF1: posts small blind $0.01
+FaithfulDuck: is sitting out 
+tutjak: posts big blind $0.02
+Sergius410: posts big blind $0.02
+Nepfion: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Qd]
+Sergius410: checks 
+djkimera: folds 
+FaithfulDuck leaves the table
+Dorex2007: folds 
+MelchiorF1: folds 
+tutjak: checks 
+*** FLOP *** [Ac 9c Ts]
+tutjak: checks 
+Sergius410: checks 
+*** TURN *** [Ac 9c Ts] [6c]
+tutjak: checks 
+Sergius410: checks 
+*** RIVER *** [Ac 9c Ts 6c] [8d]
+tutjak: checks 
+zockermietze joins the table at seat #1 
+Sergius410: checks 
+*** SHOW DOWN ***
+tutjak: shows [5d 5h] (a pair of Fives)
+Sergius410: shows [As 2d] (a pair of Aces)
+Sergius410 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ac 9c Ts 6c 8d]
+Seat 2: tutjak (big blind) showed [5d 5h] and lost with a pair of Fives
+Seat 3: Sergius410 showed [As 2d] and won ($0.05) with a pair of Aces
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: MelchiorF1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232733751481:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:02:40 PT [2022/01/02 0:02:40 ET]
+Table 'Chort V' 9-max Seat #9 is the button
+Seat 2: tutjak ($2 in chips) 
+Seat 3: Sergius410 ($0.83 in chips) 
+Seat 6: djkimera ($7.48 in chips) 
+Seat 7: Dorex2007 ($2.86 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+tutjak: posts small blind $0.01
+Sergius410: posts big blind $0.02
+Nepfion: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 3c]
+djkimera: folds 
+Dorex2007: folds 
+MelchiorF1: raises $0.04 to $0.06
+tutjak: folds 
+Sergius410: calls $0.04
+*** FLOP *** [2d 6s Js]
+Sergius410: checks 
+MelchiorF1: bets $0.07
+Sergius410: folds 
+Uncalled bet ($0.07) returned to MelchiorF1
+MelchiorF1 collected $0.13 from pot
+MelchiorF1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2d 6s Js]
+Seat 2: tutjak (small blind) folded before Flop
+Seat 3: Sergius410 (big blind) folded on the Flop
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: MelchiorF1 (button) collected ($0.13)
+
+
+
+PokerStars Hand #232733756763:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:03:10 PT [2022/01/02 0:03:10 ET]
+Table 'Chort V' 9-max Seat #2 is the button
+Seat 1: zockermietze ($0.80 in chips) 
+Seat 2: tutjak ($2 in chips) 
+Seat 3: Sergius410 ($0.77 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 6: djkimera ($7.48 in chips) 
+Seat 7: Dorex2007 ($2.86 in chips) 
+Seat 9: MelchiorF1 ($2.07 in chips) 
+Sergius410: posts small blind $0.01
+Nepfion: posts big blind $0.02
+zockermietze: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c Ts]
+djkimera: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+zockermietze: checks 
+tutjak: folds 
+tutjak leaves the table
+Sergius410: calls $0.01
+Nepfion: checks 
+*** FLOP *** [Jd 3s Jc]
+Sergius410: checks 
+Nepfion: checks 
+zockermietze: bets $0.02
+Sergius410: folds 
+Nepfion: folds 
+Uncalled bet ($0.02) returned to zockermietze
+zockermietze collected $0.06 from pot
+zockermietze: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Jd 3s Jc]
+Seat 1: zockermietze collected ($0.06)
+Seat 2: tutjak (button) folded before Flop (didn't bet)
+Seat 3: Sergius410 (small blind) folded on the Flop
+Seat 4: Nepfion (big blind) folded on the Flop
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733763520:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:03:48 PT [2022/01/02 0:03:48 ET]
+Table 'Chort V' 9-max Seat #3 is the button
+Seat 1: zockermietze ($0.84 in chips) 
+Seat 3: Sergius410 ($0.75 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 6: djkimera ($7.48 in chips) 
+Seat 7: Dorex2007 ($2.86 in chips) 
+Seat 9: MelchiorF1 ($2.07 in chips) 
+Nepfion: posts small blind $0.01
+djkimera: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Th]
+Dorex2007: folds 
+MelchiorF1: raises $0.04 to $0.06
+zockermietze: calls $0.06
+Sergius410: calls $0.06
+Nepfion: folds 
+djkimera: calls $0.04
+*** FLOP *** [Qc Jc 7h]
+djkimera: checks 
+MelchiorF1: checks 
+zockermietze: bets $0.24
+Sergius410: calls $0.24
+djkimera: folds 
+MelchiorF1: folds 
+*** TURN *** [Qc Jc 7h] [4d]
+zockermietze: checks 
+Sergius410: checks 
+*** RIVER *** [Qc Jc 7h 4d] [5h]
+zockermietze: checks 
+Sergius410: checks 
+*** SHOW DOWN ***
+zockermietze: shows [Ks Qh] (a pair of Queens)
+Sergius410: shows [Kd Kc] (a pair of Kings)
+Sergius410 collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [Qc Jc 7h 4d 5h]
+Seat 1: zockermietze showed [Ks Qh] and lost with a pair of Queens
+Seat 3: Sergius410 (button) showed [Kd Kc] and won ($0.70) with a pair of Kings
+Seat 4: Nepfion (small blind) folded before Flop
+Seat 6: djkimera (big blind) folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded on the Flop
+
+
+
+PokerStars Hand #232733769735:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:04:24 PT [2022/01/02 0:04:24 ET]
+Table 'Chort V' 9-max Seat #4 is the button
+Seat 1: zockermietze ($0.54 in chips) 
+Seat 3: Sergius410 ($1.15 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 6: djkimera ($7.42 in chips) 
+Seat 7: Dorex2007 ($2.86 in chips) 
+Seat 9: MelchiorF1 ($2.01 in chips) 
+djkimera: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 9d]
+MelchiorF1: folds 
+zockermietze: folds 
+Sergius410: calls $0.02
+Nepfion: folds 
+djkimera: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [3c Ks 8c]
+djkimera: bets $0.05
+Dorex2007: folds 
+Sergius410: folds 
+Uncalled bet ($0.05) returned to djkimera
+djkimera collected $0.06 from pot
+djkimera: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [3c Ks 8c]
+Seat 1: zockermietze folded before Flop (didn't bet)
+Seat 3: Sergius410 folded on the Flop
+Seat 4: Nepfion (button) folded before Flop (didn't bet)
+Seat 6: djkimera (small blind) collected ($0.06)
+Seat 7: Dorex2007 (big blind) folded on the Flop
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733776564:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:05:03 PT [2022/01/02 0:05:03 ET]
+Table 'Chort V' 9-max Seat #6 is the button
+Seat 1: zockermietze ($0.54 in chips) 
+Seat 3: Sergius410 ($1.13 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 6: djkimera ($7.46 in chips) 
+Seat 7: Dorex2007 ($2.84 in chips) 
+Seat 9: MelchiorF1 ($2.01 in chips) 
+Dorex2007: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 3d]
+zockermietze: calls $0.02
+Sergius410: calls $0.02
+Nepfion: folds 
+djkimera: calls $0.02
+Dorex2007: folds 
+MelchiorF1: checks 
+*** FLOP *** [Kh 9d Jh]
+MelchiorF1: checks 
+zockermietze: checks 
+Sergius410: checks 
+djkimera: checks 
+*** TURN *** [Kh 9d Jh] [5d]
+MelchiorF1: checks 
+babyleeama joins the table at seat #2 
+zockermietze: checks 
+Sergius410: checks 
+djkimera: bets $0.09
+MelchiorF1: folds 
+zockermietze: folds 
+Sergius410: calls $0.09
+*** RIVER *** [Kh 9d Jh 5d] [8h]
+Sergius410: checks 
+djkimera: bets $0.11
+Sergius410: calls $0.11
+*** SHOW DOWN ***
+djkimera: shows [Jd 5c] (two pair, Jacks and Fives)
+Sergius410: mucks hand 
+djkimera collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Kh 9d Jh 5d 8h]
+Seat 1: zockermietze folded on the Turn
+Seat 3: Sergius410 mucked [Th 9s]
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 6: djkimera (button) showed [Jd 5c] and won ($0.47) with two pair, Jacks and Fives
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 9: MelchiorF1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #232733786513:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:06:01 PT [2022/01/02 0:06:01 ET]
+Table 'Chort V' 9-max Seat #7 is the button
+Seat 1: zockermietze ($0.52 in chips) 
+Seat 3: Sergius410 ($0.91 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 6: djkimera ($7.71 in chips) 
+Seat 7: Dorex2007 ($2.83 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+MelchiorF1: posts small blind $0.01
+zockermietze: posts big blind $0.02
+babyleeama: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Ad]
+Sergius410: calls $0.02
+Nepfion: raises $0.06 to $0.08
+djkimera: calls $0.08
+Dorex2007: folds 
+MelchiorF1: folds 
+zockermietze: calls $0.06
+Sergius410: calls $0.06
+*** FLOP *** [8c 7d 6h]
+zockermietze: bets $0.02
+Sergius410: calls $0.02
+Nepfion: folds 
+djkimera: calls $0.02
+*** TURN *** [8c 7d 6h] [Kd]
+zockermietze: bets $0.42 and is all-in
+Sergius410: folds 
+djkimera: folds 
+Uncalled bet ($0.42) returned to zockermietze
+zockermietze collected $0.38 from pot
+zockermietze: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [8c 7d 6h Kd]
+Seat 1: zockermietze (big blind) collected ($0.38)
+Seat 3: Sergius410 folded on the Turn
+Seat 4: Nepfion folded on the Flop
+Seat 6: djkimera folded on the Turn
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: MelchiorF1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232733800326:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:07:19 PT [2022/01/02 0:07:19 ET]
+Table 'Chort V' 9-max Seat #9 is the button
+Seat 1: zockermietze ($0.80 in chips) 
+Seat 2: babyleeama ($2 in chips) 
+Seat 3: Sergius410 ($0.81 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 6: djkimera ($7.61 in chips) 
+Seat 7: Dorex2007 ($2.83 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+zockermietze: posts small blind $0.01
+babyleeama: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 6d]
+Sergius410: folds 
+Nepfion: folds 
+djkimera: folds 
+Dorex2007: raises $0.04 to $0.06
+MelchiorF1: folds 
+zockermietze: folds 
+babyleeama: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: zockermietze (small blind) folded before Flop
+Seat 2: babyleeama (big blind) folded before Flop
+Seat 3: Sergius410 folded before Flop (didn't bet)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.05)
+Seat 9: MelchiorF1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733802598:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:07:32 PT [2022/01/02 0:07:32 ET]
+Table 'Chort V' 9-max Seat #1 is the button
+Seat 1: zockermietze ($0.79 in chips) 
+Seat 2: babyleeama ($2 in chips) 
+Seat 3: Sergius410 ($0.81 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 6: djkimera ($7.61 in chips) 
+Seat 7: Dorex2007 ($2.86 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+babyleeama: posts small blind $0.01
+Sergius410: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 7d]
+Nepfion: folds 
+djkimera: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+zockermietze: folds 
+babyleeama: folds 
+Uncalled bet ($0.01) returned to Sergius410
+Sergius410 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: zockermietze (button) folded before Flop (didn't bet)
+Seat 2: babyleeama (small blind) folded before Flop
+Seat 3: Sergius410 (big blind) collected ($0.02)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733804757:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:07:45 PT [2022/01/02 0:07:45 ET]
+Table 'Chort V' 9-max Seat #2 is the button
+Seat 1: zockermietze ($0.79 in chips) 
+Seat 2: babyleeama ($2 in chips) 
+Seat 3: Sergius410 ($0.82 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 6: djkimera ($7.61 in chips) 
+Seat 7: Dorex2007 ($2.86 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+Sergius410: posts small blind $0.01
+Nepfion: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Ks]
+djkimera: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+zockermietze: folds 
+babyleeama: raises $0.08 to $0.10
+Sergius410: calls $0.09
+Nepfion: folds 
+*** FLOP *** [2s 7h Ah]
+Sergius410: checks 
+babyleeama: checks 
+*** TURN *** [2s 7h Ah] [5c]
+Sergius410: checks 
+babyleeama: bets $0.11
+Sergius410: folds 
+Uncalled bet ($0.11) returned to babyleeama
+babyleeama collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [2s 7h Ah 5c]
+Seat 1: zockermietze folded before Flop (didn't bet)
+Seat 2: babyleeama (button) collected ($0.21)
+Seat 3: Sergius410 (small blind) folded on the Turn
+Seat 4: Nepfion (big blind) folded before Flop
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733811190:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:08:22 PT [2022/01/02 0:08:22 ET]
+Table 'Chort V' 9-max Seat #3 is the button
+Seat 1: zockermietze ($0.79 in chips) 
+Seat 2: babyleeama ($2.11 in chips) 
+Seat 3: Sergius410 ($0.72 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 6: djkimera ($7.61 in chips) 
+Seat 7: Dorex2007 ($2.86 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+Nepfion: posts small blind $0.01
+djkimera: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Qc]
+Dorex2007: folds 
+MelchiorF1: folds 
+zockermietze: folds 
+babyleeama: folds 
+Sergius410: calls $0.02
+Nepfion: folds 
+djkimera: checks 
+*** FLOP *** [Kc 4d 4s]
+djkimera: checks 
+Sergius410: checks 
+*** TURN *** [Kc 4d 4s] [6c]
+djkimera: checks 
+Sergius410: checks 
+*** RIVER *** [Kc 4d 4s 6c] [9d]
+djkimera: checks 
+Sergius410: bets $0.12
+djkimera: folds 
+Uncalled bet ($0.12) returned to Sergius410
+Sergius410 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kc 4d 4s 6c 9d]
+Seat 1: zockermietze folded before Flop (didn't bet)
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: Sergius410 (button) collected ($0.05)
+Seat 4: Nepfion (small blind) folded before Flop
+Seat 6: djkimera (big blind) folded on the River
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733822126:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:08:59 PT [2022/01/02 0:08:59 ET]
+Table 'Chort V' 9-max Seat #4 is the button
+Seat 2: babyleeama ($2.11 in chips) 
+Seat 3: Sergius410 ($0.75 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 6: djkimera ($7.59 in chips) 
+Seat 7: Dorex2007 ($2.86 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+djkimera: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 6c]
+MelchiorF1: raises $0.04 to $0.06
+babyleeama: folds 
+Sergius410: calls $0.06
+Nepfion: folds 
+djkimera: calls $0.05
+Dorex2007: folds 
+*** FLOP *** [4c Qd Tc]
+djkimera: bets $0.05
+MelchiorF1: raises $0.11 to $0.16
+Sergius410: folds 
+djkimera: folds 
+Uncalled bet ($0.11) returned to MelchiorF1
+MelchiorF1 collected $0.29 from pot
+MelchiorF1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [4c Qd Tc]
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: Sergius410 folded on the Flop
+Seat 4: Nepfion (button) folded before Flop (didn't bet)
+Seat 6: djkimera (small blind) folded on the Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 9: MelchiorF1 collected ($0.29)
+
+
+
+PokerStars Hand #232733828411:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:09:36 PT [2022/01/02 0:09:36 ET]
+Table 'Chort V' 9-max Seat #6 is the button
+Seat 1: zockermietze ($0.79 in chips) 
+Seat 2: babyleeama ($2.11 in chips) 
+Seat 3: Sergius410 ($0.69 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 6: djkimera ($7.48 in chips) 
+Seat 7: Dorex2007 ($2.84 in chips) 
+Seat 9: MelchiorF1 ($2.18 in chips) 
+Dorex2007: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s Ad]
+zockermietze: calls $0.02
+babyleeama: folds 
+Sergius410: calls $0.02
+Nepfion: raises $0.06 to $0.08
+djkimera: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+zockermietze: calls $0.06
+Sergius410: calls $0.06
+*** FLOP *** [5h 3h Th]
+zockermietze: checks 
+Sergius410: checks 
+Nepfion: checks 
+*** TURN *** [5h 3h Th] [Qs]
+zockermietze: checks 
+Sergius410: checks 
+Nepfion: checks 
+*** RIVER *** [5h 3h Th Qs] [Qd]
+zockermietze: checks 
+Sergius410: checks 
+Nepfion: checks 
+*** SHOW DOWN ***
+zockermietze: shows [4d Ac] (a pair of Queens)
+Sergius410: shows [Jd 5d] (two pair, Queens and Fives)
+Nepfion: shows [7h 7d] (two pair, Queens and Sevens)
+Nepfion collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [5h 3h Th Qs Qd]
+Seat 1: zockermietze showed [4d Ac] and lost with a pair of Queens
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: Sergius410 showed [Jd 5d] and lost with two pair, Queens and Fives
+Seat 4: Nepfion showed [7h 7d] and won ($0.26) with two pair, Queens and Sevens
+Seat 6: djkimera (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 9: MelchiorF1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232733835828:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:10:19 PT [2022/01/02 0:10:19 ET]
+Table 'Chort V' 9-max Seat #7 is the button
+Seat 1: zockermietze ($0.71 in chips) 
+Seat 2: babyleeama ($2.11 in chips) 
+Seat 3: Sergius410 ($0.61 in chips) 
+Seat 4: Nepfion ($2.18 in chips) 
+Seat 6: djkimera ($7.48 in chips) 
+Seat 7: Dorex2007 ($2.83 in chips) 
+Seat 9: MelchiorF1 ($2.16 in chips) 
+MelchiorF1: posts small blind $0.01
+zockermietze: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Ac]
+babyleeama: folds 
+Sergius410: calls $0.02
+Nepfion: folds 
+djkimera: folds 
+Dorex2007: raises $0.08 to $0.10
+MelchiorF1: folds 
+zockermietze: folds 
+Sergius410: raises $0.51 to $0.61 and is all-in
+Dorex2007: calls $0.51
+*** FLOP *** [Tc 9h 5h]
+*** TURN *** [Tc 9h 5h] [Th]
+*** RIVER *** [Tc 9h 5h Th] [As]
+*** SHOW DOWN ***
+Sergius410: shows [Ah Qh] (a flush, Ace high)
+Dorex2007: shows [Kc Ac] (two pair, Aces and Tens)
+Sergius410 collected $1.21 from pot
+Dorex2007 cashed out the hand for $0.85 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.04 
+Board [Tc 9h 5h Th As]
+Seat 1: zockermietze (big blind) folded before Flop
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: Sergius410 showed [Ah Qh] and won ($1.21) with a flush, Ace high
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) showed [Kc Ac] and lost with two pair, Aces and Tens (cashed out).
+Seat 9: MelchiorF1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232733850762:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:10:49 PT [2022/01/02 0:10:49 ET]
+Table 'Chort V' 9-max Seat #9 is the button
+Seat 1: zockermietze ($0.69 in chips) 
+Seat 2: babyleeama ($2.11 in chips) 
+Seat 3: Sergius410 ($1.21 in chips) 
+Seat 4: Nepfion ($2.18 in chips) 
+Seat 6: djkimera ($7.48 in chips) 
+Seat 7: Dorex2007 ($3.07 in chips) 
+Seat 9: MelchiorF1 ($2.15 in chips) 
+zockermietze: posts small blind $0.01
+babyleeama: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Kd]
+Sergius410: folds 
+Sergius410 leaves the table
+Nepfion: folds 
+djkimera: folds 
+Dorex2007: folds 
+MelchiorF1: raises $0.04 to $0.06
+zockermietze: folds 
+babyleeama: folds 
+Uncalled bet ($0.04) returned to MelchiorF1
+MelchiorF1 collected $0.05 from pot
+MelchiorF1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: zockermietze (small blind) folded before Flop
+Seat 2: babyleeama (big blind) folded before Flop
+Seat 3: Sergius410 folded before Flop (didn't bet)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: MelchiorF1 (button) collected ($0.05)
+
+
+
+PokerStars Hand #232733852666:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:11:00 PT [2022/01/02 0:11:00 ET]
+Table 'Chort V' 9-max Seat #1 is the button
+Seat 1: zockermietze ($0.68 in chips) 
+Seat 2: babyleeama ($2.09 in chips) 
+Seat 4: Nepfion ($2.18 in chips) 
+Seat 6: djkimera ($7.48 in chips) 
+Seat 7: Dorex2007 ($3.07 in chips) 
+Seat 9: MelchiorF1 ($2.18 in chips) 
+babyleeama: posts small blind $0.01
+Nepfion: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Jc]
+djkimera: folds 
+Dorex2007: calls $0.02
+MelchiorF1: folds 
+zockermietze: calls $0.02
+babyleeama: folds 
+Nepfion: checks 
+*** FLOP *** [Js 9d 8c]
+Nepfion: checks 
+Dorex2007: bets $0.07
+zockermietze: raises $0.07 to $0.14
+Nepfion: folds 
+Dorex2007: calls $0.07
+*** TURN *** [Js 9d 8c] [4h]
+Dorex2007: checks 
+zockermietze: bets $0.34
+Dorex2007: calls $0.34
+*** RIVER *** [Js 9d 8c 4h] [3d]
+Dorex2007: bets $0.50
+zockermietze: calls $0.18 and is all-in
+Uncalled bet ($0.32) returned to Dorex2007
+*** SHOW DOWN ***
+Dorex2007: shows [Tc Jc] (a pair of Jacks)
+zockermietze: shows [Kc Kh] (a pair of Kings)
+zockermietze collected $1.33 from pot
+sashamel980 joins the table at seat #3 
+*** SUMMARY ***
+Total pot $1.39 | Rake $0.06 
+Board [Js 9d 8c 4h 3d]
+Seat 1: zockermietze (button) showed [Kc Kh] and won ($1.33) with a pair of Kings
+Seat 2: babyleeama (small blind) folded before Flop
+Seat 4: Nepfion (big blind) folded on the Flop
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 showed [Tc Jc] and lost with a pair of Jacks
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733860907:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:11:48 PT [2022/01/02 0:11:48 ET]
+Table 'Chort V' 9-max Seat #2 is the button
+Seat 1: zockermietze ($1.33 in chips) 
+Seat 2: babyleeama ($2.08 in chips) 
+Seat 4: Nepfion ($2.16 in chips) 
+Seat 6: djkimera ($7.48 in chips) 
+Seat 7: Dorex2007 ($2.39 in chips) 
+Seat 9: MelchiorF1 ($2.18 in chips) 
+Nepfion: posts small blind $0.01
+djkimera: posts big blind $0.02
+hgpperez: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 9c]
+Dorex2007: folds 
+MelchiorF1: folds 
+zockermietze: folds 
+babyleeama: raises $0.08 to $0.10
+Nepfion: folds 
+djkimera: calls $0.08
+*** FLOP *** [7c 2h 8d]
+djkimera: checks 
+babyleeama: checks 
+*** TURN *** [7c 2h 8d] [Qd]
+djkimera: bets $0.09
+babyleeama: raises $0.09 to $0.18
+djkimera: folds 
+Uncalled bet ($0.09) returned to babyleeama
+babyleeama collected $0.38 from pot
+desdinova13 leaves the table
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [7c 2h 8d Qd]
+Seat 1: zockermietze folded before Flop (didn't bet)
+Seat 2: babyleeama (button) collected ($0.38)
+Seat 4: Nepfion (small blind) folded before Flop
+Seat 6: djkimera (big blind) folded on the Turn
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733867520:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:12:27 PT [2022/01/02 0:12:27 ET]
+Table 'Chort V' 9-max Seat #4 is the button
+Seat 1: zockermietze ($1.33 in chips) 
+Seat 2: babyleeama ($2.27 in chips) 
+Seat 4: Nepfion ($2.15 in chips) 
+Seat 6: djkimera ($7.29 in chips) 
+Seat 7: Dorex2007 ($2.39 in chips) 
+Seat 9: MelchiorF1 ($2.18 in chips) 
+djkimera: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+hgpperez: sits out 
+sashamel980: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Qd]
+MelchiorF1: folds 
+zockermietze: folds 
+babyleeama: raises $0.02 to $0.04
+Nepfion: folds 
+djkimera: calls $0.03
+BRunohenrij joins the table at seat #5 
+Dorex2007: raises $2.35 to $2.39 and is all-in
+babyleeama: folds 
+djkimera: folds 
+Uncalled bet ($2.35) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: zockermietze folded before Flop (didn't bet)
+Seat 2: babyleeama folded before Flop
+Seat 4: Nepfion (button) folded before Flop (didn't bet)
+Seat 6: djkimera (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) collected ($0.12)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733873767:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:13:03 PT [2022/01/02 0:13:03 ET]
+Table 'Chort V' 9-max Seat #6 is the button
+Seat 1: zockermietze ($1.33 in chips) 
+Seat 2: babyleeama ($2.23 in chips) 
+Seat 4: Nepfion ($2.15 in chips) 
+Seat 5: BRunohenrij ($1 in chips) 
+Seat 6: djkimera ($7.25 in chips) 
+Seat 7: Dorex2007 ($2.47 in chips) 
+Seat 8: hgpperez ($2.39 in chips) 
+Seat 9: MelchiorF1 ($2.18 in chips) 
+Dorex2007: posts small blind $0.01
+hgpperez: posts big blind $0.02
+sashamel980: sits out 
+BRunohenrij: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 6s]
+MelchiorF1: folds 
+zockermietze: folds 
+babyleeama: folds 
+Nepfion: raises $0.04 to $0.06
+BRunohenrij: folds 
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: raises $0.09 to $0.15
+Nepfion: raises $0.17 to $0.32
+hgpperez: calls $0.17
+*** FLOP *** [7s 2s 4d]
+hgpperez: bets $0.24
+Nepfion: folds 
+Uncalled bet ($0.24) returned to hgpperez
+hgpperez collected $0.65 from pot
+hgpperez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.02 
+Board [7s 2s 4d]
+Seat 1: zockermietze folded before Flop (didn't bet)
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 4: Nepfion folded on the Flop
+Seat 5: BRunohenrij folded before Flop (didn't bet)
+Seat 6: djkimera (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: hgpperez (big blind) collected ($0.65)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733883093:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:13:58 PT [2022/01/02 0:13:58 ET]
+Table 'Chort V' 9-max Seat #7 is the button
+Seat 1: zockermietze ($1.33 in chips) 
+Seat 2: babyleeama ($2.23 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: BRunohenrij ($0.98 in chips) 
+Seat 6: djkimera ($7.25 in chips) 
+Seat 7: Dorex2007 ($2.46 in chips) 
+Seat 8: hgpperez ($2.72 in chips) 
+Seat 9: MelchiorF1 ($2.18 in chips) 
+hgpperez: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+sashamel980: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 7h]
+zockermietze: folds 
+babyleeama: folds 
+Nepfion: raises $0.06 to $0.08
+BRunohenrij: folds 
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: folds 
+MelchiorF1 has timed out
+MelchiorF1: folds 
+Uncalled bet ($0.06) returned to Nepfion
+Nepfion collected $0.05 from pot
+Nepfion: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: zockermietze folded before Flop (didn't bet)
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 4: Nepfion collected ($0.05)
+Seat 5: BRunohenrij folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: hgpperez (small blind) folded before Flop
+Seat 9: MelchiorF1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232733895220:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:15:10 PT [2022/01/02 0:15:10 ET]
+Table 'Chort V' 9-max Seat #8 is the button
+Seat 1: zockermietze ($1.33 in chips) 
+Seat 2: babyleeama ($2.23 in chips) 
+Seat 4: Nepfion ($2.03 in chips) 
+Seat 5: BRunohenrij ($0.98 in chips) 
+Seat 6: djkimera ($7.25 in chips) 
+Seat 7: Dorex2007 ($2.46 in chips) 
+Seat 8: hgpperez ($2.71 in chips) 
+zockermietze: posts small blind $0.01
+babyleeama: posts big blind $0.02
+sashamel980: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s Td]
+Nepfion: folds 
+BRunohenrij: folds 
+djkimera: folds 
+Dorex2007: folds 
+hgpperez has timed out
+hgpperez: folds 
+zockermietze: calls $0.01
+babyleeama: checks 
+*** FLOP *** [3c Kh 9h]
+zockermietze: checks 
+babyleeama: checks 
+*** TURN *** [3c Kh 9h] [Qd]
+zockermietze: bets $0.02
+babyleeama: folds 
+Uncalled bet ($0.02) returned to zockermietze
+zockermietze collected $0.04 from pot
+zockermietze: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3c Kh 9h Qd]
+Seat 1: zockermietze (small blind) collected ($0.04)
+Seat 2: babyleeama (big blind) folded on the Turn
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: BRunohenrij folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733902045:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:15:51 PT [2022/01/02 0:15:51 ET]
+Table 'Chort V' 9-max Seat #1 is the button
+Seat 1: zockermietze ($1.35 in chips) 
+Seat 2: babyleeama ($2.21 in chips) 
+Seat 3: sashamel980 ($0.80 in chips) 
+Seat 4: Nepfion ($2.03 in chips) 
+Seat 5: BRunohenrij ($0.98 in chips) 
+Seat 6: djkimera ($7.25 in chips) 
+Seat 7: Dorex2007 ($2.46 in chips) 
+babyleeama: posts small blind $0.01
+sashamel980: posts big blind $0.02
+MelchiorF1: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Ad]
+Nepfion: folds 
+BRunohenrij: folds 
+djkimera: folds 
+Dorex2007: calls $0.02
+zockermietze: folds 
+babyleeama: folds 
+sashamel980: checks 
+*** FLOP *** [Qc 3s Ah]
+sashamel980: checks 
+Dorex2007: checks 
+*** TURN *** [Qc 3s Ah] [5c]
+sashamel980: checks 
+Dorex2007: checks 
+*** RIVER *** [Qc 3s Ah 5c] [2c]
+sashamel980: bets $0.02
+Dorex2007: calls $0.02
+*** SHOW DOWN ***
+sashamel980: shows [5s 8h] (a pair of Fives)
+Dorex2007: shows [7d Ad] (a pair of Aces)
+Dorex2007 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Qc 3s Ah 5c 2c]
+Seat 1: zockermietze (button) folded before Flop (didn't bet)
+Seat 2: babyleeama (small blind) folded before Flop
+Seat 3: sashamel980 (big blind) showed [5s 8h] and lost with a pair of Fives
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: BRunohenrij folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 showed [7d Ad] and won ($0.09) with a pair of Aces
+
+
+
+PokerStars Hand #232733913959:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:17:03 PT [2022/01/02 0:17:03 ET]
+Table 'Chort V' 9-max Seat #2 is the button
+Seat 1: zockermietze ($1.35 in chips) 
+Seat 2: babyleeama ($2.20 in chips) 
+Seat 3: sashamel980 ($0.76 in chips) 
+Seat 4: Nepfion ($2.03 in chips) 
+Seat 5: BRunohenrij ($0.98 in chips) 
+Seat 6: djkimera ($7.25 in chips) 
+Seat 7: Dorex2007 ($2.51 in chips) 
+Seat 8: hgpperez ($2.71 in chips) 
+sashamel980: posts small blind $0.01
+Nepfion: posts big blind $0.02
+MelchiorF1: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 2c]
+BRunohenrij: folds 
+djkimera: raises $0.03 to $0.05
+Dorex2007: folds 
+hgpperez: raises $0.03 to $0.08
+zockermietze: folds 
+babyleeama: folds 
+sashamel980: folds 
+Nepfion: folds 
+djkimera: calls $0.03
+*** FLOP *** [Js 7s Qh]
+djkimera: checks 
+hgpperez: bets $0.10
+djkimera: calls $0.10
+*** TURN *** [Js 7s Qh] [6c]
+djkimera: checks 
+hgpperez: bets $0.14
+djkimera: folds 
+Uncalled bet ($0.14) returned to hgpperez
+hgpperez collected $0.38 from pot
+hgpperez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [Js 7s Qh 6c]
+Seat 1: zockermietze folded before Flop (didn't bet)
+Seat 2: babyleeama (button) folded before Flop (didn't bet)
+Seat 3: sashamel980 (small blind) folded before Flop
+Seat 4: Nepfion (big blind) folded before Flop
+Seat 5: BRunohenrij folded before Flop (didn't bet)
+Seat 6: djkimera folded on the Turn
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez collected ($0.38)
+
+
+
+PokerStars Hand #232733935336:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:18:37 PT [2022/01/02 0:18:37 ET]
+Table 'Chort V' 9-max Seat #3 is the button
+Seat 1: zockermietze ($1.35 in chips) 
+Seat 2: babyleeama ($2.20 in chips) 
+Seat 3: sashamel980 ($0.75 in chips) 
+Seat 4: Nepfion ($2.01 in chips) 
+Seat 5: BRunohenrij ($0.98 in chips) 
+Seat 6: djkimera ($7.07 in chips) 
+Seat 7: Dorex2007 ($2.51 in chips) 
+Seat 8: hgpperez ($2.91 in chips) 
+Nepfion: posts small blind $0.01
+BRunohenrij: posts big blind $0.02
+MelchiorF1: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 6c]
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: calls $0.02
+zockermietze: folds 
+babyleeama: folds 
+sashamel980: raises $0.73 to $0.75 and is all-in
+Nepfion: folds 
+BRunohenrij: calls $0.73
+hgpperez: folds 
+sashamel980 has timed out
+*** FLOP *** [2d 8s 5d]
+*** TURN *** [2d 8s 5d] [Ac]
+*** RIVER *** [2d 8s 5d Ac] [4c]
+*** SHOW DOWN ***
+BRunohenrij: shows [7h 7s] (a pair of Sevens)
+sashamel980: shows [Ah Qs] (a pair of Aces)
+sashamel980 collected $1.48 from pot
+*** SUMMARY ***
+Total pot $1.53 | Rake $0.05 
+Board [2d 8s 5d Ac 4c]
+Seat 1: zockermietze folded before Flop (didn't bet)
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: sashamel980 (button) showed [Ah Qs] and won ($1.48) with a pair of Aces
+Seat 4: Nepfion (small blind) folded before Flop
+Seat 5: BRunohenrij (big blind) showed [7h 7s] and lost with a pair of Sevens
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez folded before Flop
+
+
+
+PokerStars Hand #232733951078:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:19:22 PT [2022/01/02 0:19:22 ET]
+Table 'Chort V' 9-max Seat #4 is the button
+Seat 1: zockermietze ($1.35 in chips) 
+Seat 2: babyleeama ($2.20 in chips) 
+Seat 3: sashamel980 ($2 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: BRunohenrij ($0.23 in chips) 
+Seat 6: djkimera ($7.07 in chips) 
+Seat 7: Dorex2007 ($2.51 in chips) 
+Seat 8: hgpperez ($2.89 in chips) 
+BRunohenrij: posts small blind $0.01
+djkimera: posts big blind $0.02
+MelchiorF1: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 3h]
+Dorex2007: folds 
+hgpperez: calls $0.02
+zockermietze: folds 
+babyleeama: folds 
+sashamel980: calls $0.02
+Nepfion: folds 
+BRunohenrij: calls $0.01
+djkimera: checks 
+*** FLOP *** [Th 2h Jd]
+BRunohenrij: checks 
+djkimera: checks 
+hgpperez: bets $0.03
+sashamel980: folds 
+BRunohenrij: folds 
+djkimera: folds 
+Uncalled bet ($0.03) returned to hgpperez
+hgpperez collected $0.08 from pot
+hgpperez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Th 2h Jd]
+Seat 1: zockermietze folded before Flop (didn't bet)
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: sashamel980 folded on the Flop
+Seat 4: Nepfion (button) folded before Flop (didn't bet)
+Seat 5: BRunohenrij (small blind) folded on the Flop
+Seat 6: djkimera (big blind) folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez collected ($0.08)
+
+
+
+PokerStars Hand #232733959326:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:20:11 PT [2022/01/02 0:20:11 ET]
+Table 'Chort V' 9-max Seat #5 is the button
+Seat 1: zockermietze ($1.35 in chips) 
+Seat 2: babyleeama ($2.20 in chips) 
+Seat 3: sashamel980 ($1.98 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: BRunohenrij ($0.21 in chips) 
+Seat 6: djkimera ($7.05 in chips) 
+Seat 7: Dorex2007 ($2.51 in chips) 
+Seat 8: hgpperez ($2.95 in chips) 
+djkimera: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+MelchiorF1: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s As]
+hgpperez: raises $0.02 to $0.04
+zockermietze: calls $0.04
+babyleeama: folds 
+sashamel980: folds 
+Nepfion: folds 
+BRunohenrij: raises $0.17 to $0.21 and is all-in
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: raises $0.49 to $0.70
+zockermietze: folds 
+Uncalled bet ($0.49) returned to hgpperez
+*** FLOP *** [3s 7s 9d]
+*** TURN *** [3s 7s 9d] [Jh]
+*** RIVER *** [3s 7s 9d Jh] [4d]
+*** SHOW DOWN ***
+hgpperez: shows [Jc Ac] (a pair of Jacks)
+BRunohenrij: shows [6c 2c] (high card Jack)
+hgpperez collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [3s 7s 9d Jh 4d]
+Seat 1: zockermietze folded before Flop
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: sashamel980 folded before Flop (didn't bet)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: BRunohenrij (button) showed [6c 2c] and lost with high card Jack
+Seat 6: djkimera (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: hgpperez showed [Jc Ac] and won ($0.47) with a pair of Jacks
+
+
+
+PokerStars Hand #232733965725:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:20:50 PT [2022/01/02 0:20:50 ET]
+Table 'Chort V' 9-max Seat #6 is the button
+Seat 1: zockermietze ($1.31 in chips) 
+Seat 2: babyleeama ($2.20 in chips) 
+Seat 3: sashamel980 ($1.98 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 6: djkimera ($7.04 in chips) 
+Seat 7: Dorex2007 ($2.49 in chips) 
+Seat 8: hgpperez ($3.21 in chips) 
+Dorex2007: posts small blind $0.01
+hgpperez: posts big blind $0.02
+MelchiorF1: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 2h]
+zockermietze: calls $0.02
+babyleeama: folds 
+sashamel980: folds 
+Nepfion: raises $0.06 to $0.08
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: calls $0.06
+zockermietze: folds 
+*** FLOP *** [Qc 6s 5h]
+BRunohenrij leaves the table
+hgpperez: checks 
+koroto2 joins the table at seat #5 
+Nepfion: bets $0.12
+hgpperez: folds 
+Uncalled bet ($0.12) returned to Nepfion
+Nepfion collected $0.18 from pot
+Nepfion: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Qc 6s 5h]
+Seat 1: zockermietze folded before Flop
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: sashamel980 folded before Flop (didn't bet)
+Seat 4: Nepfion collected ($0.18)
+Seat 6: djkimera (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: hgpperez (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232733971631:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:21:25 PT [2022/01/02 0:21:25 ET]
+Table 'Chort V' 9-max Seat #7 is the button
+Seat 1: zockermietze ($1.29 in chips) 
+Seat 2: babyleeama ($2.20 in chips) 
+Seat 3: sashamel980 ($1.98 in chips) 
+Seat 4: Nepfion ($2.10 in chips) 
+Seat 7: Dorex2007 ($2.48 in chips) 
+Seat 8: hgpperez ($3.13 in chips) 
+Seat 9: MelchiorF1 ($2.16 in chips) 
+hgpperez: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+koroto2: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 3s]
+zockermietze: folds 
+babyleeama: folds 
+sashamel980: folds 
+Nepfion: raises $0.04 to $0.06
+Dorex2007: folds 
+hgpperez: calls $0.05
+MelchiorF1: folds 
+*** FLOP *** [8c Ac Qd]
+hgpperez: checks 
+Nepfion: bets $0.09
+hgpperez: calls $0.09
+*** TURN *** [8c Ac Qd] [Kd]
+hgpperez: checks 
+Nepfion: bets $0.21
+hgpperez: folds 
+Uncalled bet ($0.21) returned to Nepfion
+Nepfion collected $0.31 from pot
+Nepfion: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [8c Ac Qd Kd]
+Seat 1: zockermietze folded before Flop (didn't bet)
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: sashamel980 folded before Flop (didn't bet)
+Seat 4: Nepfion collected ($0.31)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: hgpperez (small blind) folded on the Turn
+Seat 9: MelchiorF1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232733980655:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:22:19 PT [2022/01/02 0:22:19 ET]
+Table 'Chort V' 9-max Seat #8 is the button
+Seat 1: zockermietze ($1.29 in chips) 
+Seat 2: babyleeama ($2.20 in chips) 
+Seat 3: sashamel980 ($1.98 in chips) 
+Seat 4: Nepfion ($2.26 in chips) 
+Seat 6: djkimera ($7.04 in chips) 
+Seat 7: Dorex2007 ($2.48 in chips) 
+Seat 8: hgpperez ($2.98 in chips) 
+Seat 9: MelchiorF1 ($2.14 in chips) 
+MelchiorF1: posts small blind $0.01
+zockermietze: posts big blind $0.02
+koroto2: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 2d]
+babyleeama: folds 
+sashamel980: folds 
+Nepfion: raises $0.04 to $0.06
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: calls $0.06
+MelchiorF1: folds 
+zockermietze: folds 
+*** FLOP *** [Jh 6h Qd]
+Nepfion: checks 
+hgpperez: bets $0.05
+Nepfion: folds 
+Uncalled bet ($0.05) returned to hgpperez
+hgpperez collected $0.14 from pot
+hgpperez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Jh 6h Qd]
+Seat 1: zockermietze (big blind) folded before Flop
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: sashamel980 folded before Flop (didn't bet)
+Seat 4: Nepfion folded on the Flop
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez (button) collected ($0.14)
+Seat 9: MelchiorF1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232733986625:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:22:54 PT [2022/01/02 0:22:54 ET]
+Table 'Chort V' 9-max Seat #9 is the button
+Seat 1: zockermietze ($1.27 in chips) 
+Seat 2: babyleeama ($2.20 in chips) 
+Seat 3: sashamel980 ($1.98 in chips) 
+Seat 4: Nepfion ($2.20 in chips) 
+Seat 6: djkimera ($7.04 in chips) 
+Seat 7: Dorex2007 ($2.48 in chips) 
+Seat 8: hgpperez ($3.06 in chips) 
+Seat 9: MelchiorF1 ($2.13 in chips) 
+zockermietze: posts small blind $0.01
+babyleeama: posts big blind $0.02
+koroto2: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Qc]
+sashamel980: folds 
+sashamel980 leaves the table
+Nepfion: folds 
+djkimera: raises $0.03 to $0.05
+Dorex2007: folds 
+hgpperez: folds 
+MelchiorF1: calls $0.05
+zockermietze: calls $0.04
+babyleeama: folds 
+*** FLOP *** [Qs Ks 4s]
+zockermietze: bets $0.02
+djkimera: folds 
+MelchiorF1: folds 
+Uncalled bet ($0.02) returned to zockermietze
+zockermietze collected $0.16 from pot
+zockermietze: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Qs Ks 4s]
+Seat 1: zockermietze (small blind) collected ($0.16)
+Seat 2: babyleeama (big blind) folded before Flop
+Seat 3: sashamel980 folded before Flop (didn't bet)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 6: djkimera folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 (button) folded on the Flop
+
+
+
+PokerStars Hand #232733991920:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:23:26 PT [2022/01/02 0:23:26 ET]
+Table 'Chort V' 9-max Seat #1 is the button
+Seat 1: zockermietze ($1.38 in chips) 
+Seat 2: babyleeama ($2.18 in chips) 
+Seat 4: Nepfion ($2.20 in chips) 
+Seat 6: djkimera ($6.99 in chips) 
+Seat 7: Dorex2007 ($2.48 in chips) 
+Seat 8: hgpperez ($3.06 in chips) 
+Seat 9: MelchiorF1 ($2.08 in chips) 
+babyleeama: posts small blind $0.01
+Nepfion: posts big blind $0.02
+koroto2: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 9h]
+djkimera: folds 
+ssv1978 joins the table at seat #3 
+Dorex2007: folds 
+hgpperez: raises $0.02 to $0.04
+MelchiorF1: folds 
+zockermietze: folds 
+babyleeama: folds 
+Nepfion: folds 
+Uncalled bet ($0.02) returned to hgpperez
+hgpperez collected $0.05 from pot
+hgpperez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: zockermietze (button) folded before Flop (didn't bet)
+Seat 2: babyleeama (small blind) folded before Flop
+Seat 4: Nepfion (big blind) folded before Flop
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez collected ($0.05)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733995252:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:23:46 PT [2022/01/02 0:23:46 ET]
+Table 'Chort V' 9-max Seat #2 is the button
+Seat 1: zockermietze ($1.38 in chips) 
+Seat 2: babyleeama ($2.17 in chips) 
+Seat 4: Nepfion ($2.18 in chips) 
+Seat 5: koroto2 ($2 in chips) 
+Seat 6: djkimera ($6.99 in chips) 
+Seat 7: Dorex2007 ($2.48 in chips) 
+Seat 8: hgpperez ($3.09 in chips) 
+Seat 9: MelchiorF1 ($2.08 in chips) 
+Nepfion: posts small blind $0.01
+koroto2: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 8s]
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: folds 
+MelchiorF1: raises $0.04 to $0.06
+zockermietze: folds 
+babyleeama: folds 
+Nepfion: folds 
+koroto2: calls $0.04
+*** FLOP *** [Ac Qd 7d]
+koroto2: checks 
+MelchiorF1: bets $0.08
+koroto2: raises $1.86 to $1.94 and is all-in
+MelchiorF1: folds 
+Uncalled bet ($1.86) returned to koroto2
+koroto2 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Ac Qd 7d]
+Seat 1: zockermietze folded before Flop (didn't bet)
+Seat 2: babyleeama (button) folded before Flop (didn't bet)
+Seat 4: Nepfion (small blind) folded before Flop
+Seat 5: koroto2 (big blind) collected ($0.28)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded on the Flop
+
+
+
+PokerStars Hand #232734003177:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:24:33 PT [2022/01/02 0:24:33 ET]
+Table 'Chort V' 9-max Seat #4 is the button
+Seat 1: zockermietze ($1.38 in chips) 
+Seat 2: babyleeama ($2.17 in chips) 
+Seat 3: ssv1978 ($0.80 in chips) 
+Seat 4: Nepfion ($2.17 in chips) 
+Seat 5: koroto2 ($2.14 in chips) 
+Seat 6: djkimera ($6.99 in chips) 
+Seat 7: Dorex2007 ($2.48 in chips) 
+Seat 8: hgpperez ($3.09 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+koroto2: posts small blind $0.01
+djkimera: posts big blind $0.02
+ssv1978: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h As]
+Dorex2007: folds 
+hgpperez: calls $0.02
+MelchiorF1: raises $0.06 to $0.08
+zockermietze: calls $0.08
+babyleeama: folds 
+ssv1978: folds 
+Nepfion: folds 
+koroto2: folds 
+djkimera: calls $0.06
+hgpperez: folds 
+*** FLOP *** [3s 9s 5s]
+djkimera: checks 
+MelchiorF1: bets $0.11
+zockermietze: calls $0.11
+djkimera: folds 
+*** TURN *** [3s 9s 5s] [7c]
+MelchiorF1: checks 
+zockermietze: checks 
+*** RIVER *** [3s 9s 5s 7c] [2h]
+MelchiorF1: bets $0.27
+zockermietze: folds 
+Uncalled bet ($0.27) returned to MelchiorF1
+MelchiorF1 collected $0.49 from pot
+MelchiorF1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [3s 9s 5s 7c 2h]
+Seat 1: zockermietze folded on the River
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: ssv1978 folded before Flop (didn't bet)
+Seat 4: Nepfion (button) folded before Flop (didn't bet)
+Seat 5: koroto2 (small blind) folded before Flop
+Seat 6: djkimera (big blind) folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez folded before Flop
+Seat 9: MelchiorF1 collected ($0.49)
+
+
+
+PokerStars Hand #232734015710:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:25:48 PT [2022/01/02 0:25:48 ET]
+Table 'Chort V' 9-max Seat #5 is the button
+Seat 1: zockermietze ($1.19 in chips) 
+Seat 2: babyleeama ($2.17 in chips) 
+Seat 3: ssv1978 ($0.78 in chips) 
+Seat 4: Nepfion ($2.17 in chips) 
+Seat 5: koroto2 ($2.13 in chips) 
+Seat 6: djkimera ($6.91 in chips) 
+Seat 7: Dorex2007 ($2.48 in chips) 
+Seat 8: hgpperez ($3.07 in chips) 
+Seat 9: MelchiorF1 ($2.30 in chips) 
+djkimera: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 5c]
+hgpperez: calls $0.02
+MelchiorF1: folds 
+zockermietze: calls $0.02
+babyleeama: folds 
+ssv1978: calls $0.02
+Nepfion: folds 
+koroto2: folds 
+djkimera: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [As Js 2c]
+djkimera: checks 
+Dorex2007: checks 
+hgpperez: checks 
+zockermietze: checks 
+ssv1978: bets $0.04
+djkimera: calls $0.04
+Dorex2007: calls $0.04
+hgpperez: folds 
+zockermietze: folds 
+*** TURN *** [As Js 2c] [9s]
+djkimera: checks 
+Dorex2007: checks 
+ssv1978: bets $0.04
+djkimera: calls $0.04
+Dorex2007: folds 
+*** RIVER *** [As Js 2c 9s] [Ks]
+djkimera: checks 
+ssv1978: checks 
+*** SHOW DOWN ***
+djkimera: shows [Qc Th] (a straight, Ten to Ace)
+ssv1978: shows [5s 4s] (a flush, Ace high)
+ssv1978 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [As Js 2c 9s Ks]
+Seat 1: zockermietze folded on the Flop
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: ssv1978 showed [5s 4s] and won ($0.29) with a flush, Ace high
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: koroto2 (button) folded before Flop (didn't bet)
+Seat 6: djkimera (small blind) showed [Qc Th] and lost with a straight, Ten to Ace
+Seat 7: Dorex2007 (big blind) folded on the Turn
+Seat 8: hgpperez folded on the Flop
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734025791:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:26:49 PT [2022/01/02 0:26:49 ET]
+Table 'Chort V' 9-max Seat #6 is the button
+Seat 1: zockermietze ($1.17 in chips) 
+Seat 2: babyleeama ($2.17 in chips) 
+Seat 3: ssv1978 ($0.97 in chips) 
+Seat 4: Nepfion ($2.17 in chips) 
+Seat 5: koroto2 ($2.13 in chips) 
+Seat 6: djkimera ($6.81 in chips) 
+Seat 7: Dorex2007 ($2.42 in chips) 
+Seat 8: hgpperez ($3.05 in chips) 
+Seat 9: MelchiorF1 ($2.30 in chips) 
+Dorex2007: posts small blind $0.01
+hgpperez: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s Ad]
+MelchiorF1: folds 
+zockermietze: calls $0.02
+babyleeama: raises $0.08 to $0.10
+ssv1978: folds 
+Nepfion: folds 
+koroto2: folds 
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: folds 
+zockermietze: folds 
+Uncalled bet ($0.08) returned to babyleeama
+babyleeama collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: zockermietze folded before Flop
+Seat 2: babyleeama collected ($0.07)
+Seat 3: ssv1978 folded before Flop (didn't bet)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: koroto2 folded before Flop (didn't bet)
+Seat 6: djkimera (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: hgpperez (big blind) folded before Flop
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734029188:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:27:09 PT [2022/01/02 0:27:09 ET]
+Table 'Chort V' 9-max Seat #7 is the button
+Seat 1: zockermietze ($1.15 in chips) 
+Seat 2: babyleeama ($2.22 in chips) 
+Seat 3: ssv1978 ($0.97 in chips) 
+Seat 4: Nepfion ($2.17 in chips) 
+Seat 5: koroto2 ($2.13 in chips) 
+Seat 6: djkimera ($6.81 in chips) 
+Seat 7: Dorex2007 ($2.41 in chips) 
+Seat 8: hgpperez ($3.03 in chips) 
+Seat 9: MelchiorF1 ($2.30 in chips) 
+hgpperez: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 2d]
+zockermietze: folds 
+babyleeama: folds 
+ssv1978: calls $0.02
+Nepfion: folds 
+koroto2: calls $0.02
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: raises $0.04 to $0.06
+MelchiorF1: folds 
+ssv1978: calls $0.04
+koroto2: calls $0.04
+*** FLOP *** [4s Qc 5c]
+hgpperez: bets $0.14
+ssv1978: folds 
+koroto2: calls $0.14
+*** TURN *** [4s Qc 5c] [Jc]
+hgpperez: bets $0.27
+koroto2: raises $1.66 to $1.93 and is all-in
+hgpperez: calls $1.66
+*** RIVER *** [4s Qc 5c Jc] [3h]
+*** SHOW DOWN ***
+hgpperez: shows [Qh Ks] (a pair of Queens)
+koroto2: shows [Ac Tc] (a flush, Ace high)
+koroto2 collected $4.19 from pot
+*** SUMMARY ***
+Total pot $4.34 | Rake $0.15 
+Board [4s Qc 5c Jc 3h]
+Seat 1: zockermietze folded before Flop (didn't bet)
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: ssv1978 folded on the Flop
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: koroto2 showed [Ac Tc] and won ($4.19) with a flush, Ace high
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: hgpperez (small blind) showed [Qh Ks] and lost with a pair of Queens
+Seat 9: MelchiorF1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232734039054:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:28:08 PT [2022/01/02 0:28:08 ET]
+Table 'Chort V' 9-max Seat #8 is the button
+Seat 1: zockermietze ($1.15 in chips) 
+Seat 2: babyleeama ($2.22 in chips) 
+Seat 3: ssv1978 ($0.91 in chips) 
+Seat 4: Nepfion ($2.17 in chips) 
+Seat 5: koroto2 ($4.19 in chips) 
+Seat 6: djkimera ($6.81 in chips) 
+Seat 7: Dorex2007 ($2.41 in chips) 
+Seat 8: hgpperez ($0.90 in chips) 
+Seat 9: MelchiorF1 ($2.28 in chips) 
+MelchiorF1: posts small blind $0.01
+zockermietze: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 8c]
+babyleeama: folds 
+ssv1978: calls $0.02
+Nepfion: folds 
+koroto2: folds 
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: folds 
+MelchiorF1: folds 
+zockermietze: checks 
+*** FLOP *** [3h 9d 9h]
+zockermietze: checks 
+ssv1978: checks 
+*** TURN *** [3h 9d 9h] [9c]
+zockermietze: bets $0.02
+ssv1978: calls $0.02
+*** RIVER *** [3h 9d 9h 9c] [Jh]
+zockermietze: checks 
+ssv1978: bets $0.05
+zockermietze: folds 
+Uncalled bet ($0.05) returned to ssv1978
+ssv1978 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [3h 9d 9h 9c Jh]
+Seat 1: zockermietze (big blind) folded on the River
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: ssv1978 collected ($0.09)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: koroto2 folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez (button) folded before Flop (didn't bet)
+Seat 9: MelchiorF1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232734046440:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:28:53 PT [2022/01/02 0:28:53 ET]
+Table 'Chort V' 9-max Seat #9 is the button
+Seat 1: zockermietze ($1.11 in chips) 
+Seat 2: babyleeama ($2.22 in chips) 
+Seat 3: ssv1978 ($0.96 in chips) 
+Seat 4: Nepfion ($2.17 in chips) 
+Seat 5: koroto2 ($4.19 in chips) 
+Seat 6: djkimera ($6.81 in chips) 
+Seat 7: Dorex2007 ($2.41 in chips) 
+Seat 8: hgpperez ($0.90 in chips) 
+Seat 9: MelchiorF1 ($2.27 in chips) 
+zockermietze: posts small blind $0.01
+babyleeama: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 4d]
+ssv1978: folds 
+Nepfion: folds 
+koroto2: raises $0.03 to $0.05
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: folds 
+MelchiorF1: folds 
+zockermietze: calls $0.04
+babyleeama: folds 
+*** FLOP *** [5d 8c Ts]
+zockermietze: bets $0.12
+koroto2: raises $0.12 to $0.24
+zockermietze: calls $0.12
+*** TURN *** [5d 8c Ts] [3s]
+zockermietze: checks 
+koroto2: bets $0.29
+zockermietze: calls $0.29
+*** RIVER *** [5d 8c Ts 3s] [6c]
+zockermietze: checks 
+koroto2: bets $0.14
+zockermietze: raises $0.39 to $0.53 and is all-in
+koroto2: calls $0.39
+*** SHOW DOWN ***
+zockermietze: shows [Ah Td] (a pair of Tens)
+koroto2: shows [8s 8d] (three of a kind, Eights)
+koroto2 collected $2.16 from pot
+*** SUMMARY ***
+Total pot $2.24 | Rake $0.08 
+Board [5d 8c Ts 3s 6c]
+Seat 1: zockermietze (small blind) showed [Ah Td] and lost with a pair of Tens
+Seat 2: babyleeama (big blind) folded before Flop
+Seat 3: ssv1978 folded before Flop (didn't bet)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: koroto2 showed [8s 8d] and won ($2.16) with three of a kind, Eights
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734054759:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:29:43 PT [2022/01/02 0:29:43 ET]
+Table 'Chort V' 9-max Seat #2 is the button
+Seat 2: babyleeama ($2.20 in chips) 
+Seat 3: ssv1978 ($0.96 in chips) 
+Seat 4: Nepfion ($2.17 in chips) 
+Seat 5: koroto2 ($5.24 in chips) 
+Seat 6: djkimera ($6.81 in chips) 
+Seat 7: Dorex2007 ($2.41 in chips) 
+Seat 8: hgpperez ($0.90 in chips) 
+Seat 9: MelchiorF1 ($2.27 in chips) 
+ssv1978: posts small blind $0.01
+Nepfion: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 4d]
+koroto2: folds 
+djkimera: folds 
+zockermietze leaves the table
+Dorex2007: folds 
+koroto2 leaves the table
+hgpperez: folds 
+MelchiorF1: folds 
+babyleeama: folds 
+ssv1978: calls $0.01
+Nepfion: checks 
+*** FLOP *** [8s 5d 8h]
+ssv1978: checks 
+Nepfion: checks 
+*** TURN *** [8s 5d 8h] [Ac]
+ssv1978: checks 
+Nepfion: checks 
+*** RIVER *** [8s 5d 8h Ac] [6d]
+Jbravo902 joins the table at seat #1 
+ssv1978: bets $0.02
+Nepfion: calls $0.02
+*** SHOW DOWN ***
+ssv1978: shows [8d 5s] (a full house, Eights full of Fives)
+Nepfion: mucks hand 
+ssv1978 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [8s 5d 8h Ac 6d]
+Seat 2: babyleeama (button) folded before Flop (didn't bet)
+Seat 3: ssv1978 (small blind) showed [8d 5s] and won ($0.08) with a full house, Eights full of Fives
+Seat 4: Nepfion (big blind) mucked [As 9s]
+Seat 5: koroto2 folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734062258:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:30:29 PT [2022/01/02 0:30:29 ET]
+Table 'Chort V' 9-max Seat #3 is the button
+Seat 1: Jbravo902 ($2 in chips) 
+Seat 2: babyleeama ($2.20 in chips) 
+Seat 3: ssv1978 ($1 in chips) 
+Seat 4: Nepfion ($2.13 in chips) 
+Seat 6: djkimera ($6.81 in chips) 
+Seat 7: Dorex2007 ($2.41 in chips) 
+Seat 8: hgpperez ($0.90 in chips) 
+Seat 9: MelchiorF1 ($2.27 in chips) 
+Nepfion: posts small blind $0.01
+djkimera: posts big blind $0.02
+Jbravo902: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 3c]
+Dorex2007: folds 
+hgpperez: folds 
+sapziro666 joins the table at seat #5 
+MelchiorF1: folds 
+Jbravo902: checks 
+babyleeama: raises $0.08 to $0.10
+ssv1978: folds 
+Nepfion: folds 
+djkimera: folds 
+Jbravo902: calls $0.08
+*** FLOP *** [2c Ad 9h]
+Jbravo902: checks 
+babyleeama: checks 
+*** TURN *** [2c Ad 9h] [4s]
+Jbravo902: checks 
+babyleeama: bets $0.11
+Jbravo902: calls $0.11
+*** RIVER *** [2c Ad 9h 4s] [2h]
+Jbravo902: bets $1.79 and is all-in
+babyleeama: folds 
+Uncalled bet ($1.79) returned to Jbravo902
+Jbravo902 collected $0.43 from pot
+Jbravo902: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [2c Ad 9h 4s 2h]
+Seat 1: Jbravo902 collected ($0.43)
+Seat 2: babyleeama folded on the River
+Seat 3: ssv1978 (button) folded before Flop (didn't bet)
+Seat 4: Nepfion (small blind) folded before Flop
+Seat 6: djkimera (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734071060:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:31:23 PT [2022/01/02 0:31:23 ET]
+Table 'Chort V' 9-max Seat #4 is the button
+Seat 1: Jbravo902 ($2.22 in chips) 
+Seat 2: babyleeama ($2 in chips) 
+Seat 3: ssv1978 ($1 in chips) 
+Seat 4: Nepfion ($2.12 in chips) 
+Seat 6: djkimera ($6.79 in chips) 
+Seat 7: Dorex2007 ($2.41 in chips) 
+Seat 8: hgpperez ($0.90 in chips) 
+Seat 9: MelchiorF1 ($2.27 in chips) 
+djkimera: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 6c]
+hgpperez: folds 
+MelchiorF1: folds 
+Jbravo902: calls $0.02
+babyleeama: folds 
+ssv1978: raises $0.07 to $0.09
+Nepfion: raises $0.15 to $0.24
+djkimera: folds 
+Dorex2007: folds 
+Jbravo902: folds 
+ssv1978: raises $0.76 to $1 and is all-in
+Nepfion: folds 
+Uncalled bet ($0.76) returned to ssv1978
+ssv1978 collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.53 | Rake $0 
+Seat 1: Jbravo902 folded before Flop
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: ssv1978 collected ($0.53)
+Seat 4: Nepfion (button) folded before Flop
+Seat 6: djkimera (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734077009:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:31:59 PT [2022/01/02 0:31:59 ET]
+Table 'Chort V' 9-max Seat #6 is the button
+Seat 1: Jbravo902 ($2.20 in chips) 
+Seat 2: babyleeama ($2 in chips) 
+Seat 3: ssv1978 ($1.29 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: sapziro666 ($1.30 in chips) 
+Seat 6: djkimera ($6.78 in chips) 
+Seat 7: Dorex2007 ($2.39 in chips) 
+Seat 8: hgpperez ($0.90 in chips) 
+Seat 9: MelchiorF1 ($2.27 in chips) 
+Dorex2007: posts small blind $0.01
+hgpperez: posts big blind $0.02
+sapziro666: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts Ad]
+MelchiorF1: folds 
+Jbravo902: calls $0.02
+babyleeama: folds 
+ssv1978: folds 
+Nepfion: folds 
+sapziro666: checks 
+ssv1978 leaves the table
+djkimera: folds 
+Dorex2007: calls $0.01
+hgpperez: checks 
+*** FLOP *** [9d 3d 4h]
+SerjiB21 joins the table at seat #3 
+Dorex2007: checks 
+hgpperez: bets $0.05
+Jbravo902: folds 
+sapziro666: folds 
+Dorex2007: folds 
+Uncalled bet ($0.05) returned to hgpperez
+hgpperez collected $0.08 from pot
+hgpperez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [9d 3d 4h]
+Seat 1: Jbravo902 folded on the Flop
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: ssv1978 folded before Flop (didn't bet)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: sapziro666 folded on the Flop (didn't bet)
+Seat 6: djkimera (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded on the Flop
+Seat 8: hgpperez (big blind) collected ($0.08)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734083754:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:32:40 PT [2022/01/02 0:32:40 ET]
+Table 'Chort V' 9-max Seat #7 is the button
+Seat 1: Jbravo902 ($2.18 in chips) 
+Seat 2: babyleeama ($2 in chips) 
+Seat 3: SerjiB21 ($2 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: sapziro666 ($1.28 in chips) 
+Seat 6: djkimera ($6.78 in chips) 
+Seat 7: Dorex2007 ($2.37 in chips) 
+Seat 8: hgpperez ($0.96 in chips) 
+Seat 9: MelchiorF1 ($2.27 in chips) 
+hgpperez: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+SerjiB21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 5c]
+Jbravo902: folds 
+babyleeama: folds 
+SerjiB21: checks 
+Nepfion: folds 
+sapziro666: folds 
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: raises $0.04 to $0.06
+MelchiorF1: folds 
+SerjiB21: folds 
+Uncalled bet ($0.04) returned to hgpperez
+hgpperez collected $0.06 from pot
+hgpperez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: Jbravo902 folded before Flop (didn't bet)
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: SerjiB21 folded before Flop (didn't bet)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: sapziro666 folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: hgpperez (small blind) collected ($0.06)
+Seat 9: MelchiorF1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232734087930:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:33:05 PT [2022/01/02 0:33:05 ET]
+Table 'Chort V' 9-max Seat #8 is the button
+Seat 1: Jbravo902 ($2.18 in chips) 
+Seat 2: babyleeama ($2 in chips) 
+Seat 3: SerjiB21 ($1.98 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: sapziro666 ($1.28 in chips) 
+Seat 6: djkimera ($6.78 in chips) 
+Seat 7: Dorex2007 ($2.37 in chips) 
+Seat 8: hgpperez ($1 in chips) 
+Seat 9: MelchiorF1 ($2.25 in chips) 
+MelchiorF1: posts small blind $0.01
+Jbravo902: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Ac]
+babyleeama: folds 
+SerjiB21: calls $0.02
+Nepfion: folds 
+sapziro666: folds 
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: calls $0.02
+MelchiorF1: calls $0.01
+Jbravo902: checks 
+*** FLOP *** [Ts 2d 4c]
+MelchiorF1: checks 
+Jbravo902: checks 
+SerjiB21: checks 
+hgpperez: bets $0.02
+MelchiorF1: calls $0.02
+Jbravo902: calls $0.02
+SerjiB21: calls $0.02
+*** TURN *** [Ts 2d 4c] [5c]
+MelchiorF1: checks 
+Jbravo902: checks 
+SerjiB21: checks 
+hgpperez: bets $0.06
+MelchiorF1: folds 
+Jbravo902: folds 
+SerjiB21: calls $0.06
+*** RIVER *** [Ts 2d 4c 5c] [8s]
+SerjiB21: checks 
+hgpperez: checks 
+*** SHOW DOWN ***
+SerjiB21: shows [3c 3d] (a pair of Threes)
+hgpperez: mucks hand 
+SerjiB21 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Ts 2d 4c 5c 8s]
+Seat 1: Jbravo902 (big blind) folded on the Turn
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: SerjiB21 showed [3c 3d] and won ($0.27) with a pair of Threes
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: sapziro666 folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez (button) mucked [2c Kc]
+Seat 9: MelchiorF1 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #232734104477:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:34:47 PT [2022/01/02 0:34:47 ET]
+Table 'Chort V' 9-max Seat #9 is the button
+Seat 1: Jbravo902 ($2.14 in chips) 
+Seat 2: babyleeama ($2 in chips) 
+Seat 3: SerjiB21 ($2.15 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: sapziro666 ($1.28 in chips) 
+Seat 6: djkimera ($6.78 in chips) 
+Seat 7: Dorex2007 ($2.37 in chips) 
+Seat 8: hgpperez ($0.90 in chips) 
+Seat 9: MelchiorF1 ($2.21 in chips) 
+Jbravo902: posts small blind $0.01
+babyleeama: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Qd]
+SerjiB21: folds 
+Nepfion: folds 
+sapziro666: folds 
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: folds 
+MelchiorF1: raises $0.04 to $0.06
+Jbravo902: folds 
+babyleeama: folds 
+Uncalled bet ($0.04) returned to MelchiorF1
+MelchiorF1 collected $0.05 from pot
+MelchiorF1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jbravo902 (small blind) folded before Flop
+Seat 2: babyleeama (big blind) folded before Flop
+Seat 3: SerjiB21 folded before Flop (didn't bet)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: sapziro666 folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 (button) collected ($0.05)
+
+
+
+PokerStars Hand #232734107800:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:35:08 PT [2022/01/02 0:35:08 ET]
+Table 'Chort V' 9-max Seat #1 is the button
+Seat 1: Jbravo902 ($2.13 in chips) 
+Seat 2: babyleeama ($2 in chips) 
+Seat 3: SerjiB21 ($2.15 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: sapziro666 ($1.28 in chips) 
+Seat 6: djkimera ($6.78 in chips) 
+Seat 7: Dorex2007 ($2.37 in chips) 
+Seat 8: hgpperez ($0.90 in chips) 
+Seat 9: MelchiorF1 ($2.24 in chips) 
+babyleeama: posts small blind $0.01
+SerjiB21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 8d]
+Nepfion: folds 
+sapziro666: folds 
+djkimera: raises $0.03 to $0.05
+Dorex2007: folds 
+hgpperez: folds 
+MelchiorF1: folds 
+Jbravo902: folds 
+babyleeama: folds 
+SerjiB21: calls $0.03
+*** FLOP *** [6c 4d 5h]
+SerjiB21: checks 
+djkimera: checks 
+*** TURN *** [6c 4d 5h] [8c]
+SerjiB21: bets $0.04
+djkimera: calls $0.04
+*** RIVER *** [6c 4d 5h 8c] [Ac]
+SerjiB21: bets $0.04
+djkimera: raises $1.97 to $2.01
+SerjiB21: folds 
+Uncalled bet ($1.97) returned to djkimera
+djkimera collected $0.26 from pot
+djkimera: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [6c 4d 5h 8c Ac]
+Seat 1: Jbravo902 (button) folded before Flop (didn't bet)
+Seat 2: babyleeama (small blind) folded before Flop
+Seat 3: SerjiB21 (big blind) folded on the River
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: sapziro666 folded before Flop (didn't bet)
+Seat 6: djkimera collected ($0.26)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734117956:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:36:12 PT [2022/01/02 0:36:12 ET]
+Table 'Chort V' 9-max Seat #2 is the button
+Seat 1: Jbravo902 ($2.13 in chips) 
+Seat 2: babyleeama ($2 in chips) 
+Seat 3: SerjiB21 ($2.02 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: sapziro666 ($1.28 in chips) 
+Seat 6: djkimera ($6.91 in chips) 
+Seat 7: Dorex2007 ($2.37 in chips) 
+Seat 8: hgpperez ($0.90 in chips) 
+Seat 9: MelchiorF1 ($2.24 in chips) 
+SerjiB21: posts small blind $0.01
+Nepfion: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Js]
+sapziro666: raises $0.02 to $0.04
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: folds 
+MelchiorF1: folds 
+Jbravo902: folds 
+babyleeama: calls $0.04
+SerjiB21: folds 
+Nepfion: folds 
+*** FLOP *** [8c Qc Jd]
+sapziro666: checks 
+babyleeama: bets $0.06
+sapziro666: folds 
+Uncalled bet ($0.06) returned to babyleeama
+babyleeama collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [8c Qc Jd]
+Seat 1: Jbravo902 folded before Flop (didn't bet)
+Seat 2: babyleeama (button) collected ($0.11)
+Seat 3: SerjiB21 (small blind) folded before Flop
+Seat 4: Nepfion (big blind) folded before Flop
+Seat 5: sapziro666 folded on the Flop
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734124377:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:36:51 PT [2022/01/02 0:36:51 ET]
+Table 'Chort V' 9-max Seat #3 is the button
+Seat 1: Jbravo902 ($2.13 in chips) 
+Seat 2: babyleeama ($2.07 in chips) 
+Seat 3: SerjiB21 ($2.01 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: sapziro666 ($1.24 in chips) 
+Seat 6: djkimera ($6.91 in chips) 
+Seat 7: Dorex2007 ($2.37 in chips) 
+Seat 8: hgpperez ($0.90 in chips) 
+Seat 9: MelchiorF1 ($2.24 in chips) 
+Nepfion: posts small blind $0.01
+sapziro666: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 8h]
+djkimera: folds 
+Dorex2007 has timed out
+Dorex2007: folds 
+hgpperez: folds 
+MelchiorF1: folds 
+Jbravo902: folds 
+babyleeama: folds 
+SerjiB21: raises $0.02 to $0.04
+Nepfion: folds 
+sapziro666: calls $0.02
+*** FLOP *** [6c 5d Kc]
+sapziro666: checks 
+SerjiB21: bets $0.04
+sapziro666: folds 
+Uncalled bet ($0.04) returned to SerjiB21
+SerjiB21 collected $0.09 from pot
+SerjiB21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [6c 5d Kc]
+Seat 1: Jbravo902 folded before Flop (didn't bet)
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: SerjiB21 (button) collected ($0.09)
+Seat 4: Nepfion (small blind) folded before Flop
+Seat 5: sapziro666 (big blind) folded on the Flop
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734141196:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:38:38 PT [2022/01/02 0:38:38 ET]
+Table 'Chort V' 9-max Seat #5 is the button
+Seat 1: Jbravo902 ($2.13 in chips) 
+Seat 2: babyleeama ($2.07 in chips) 
+Seat 3: SerjiB21 ($2 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: sapziro666 ($1.14 in chips) 
+Seat 6: djkimera ($7.08 in chips) 
+Seat 7: Dorex2007 ($2.37 in chips) 
+Seat 8: hgpperez ($0.90 in chips) 
+Seat 9: MelchiorF1 ($2.24 in chips) 
+djkimera: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Js]
+hgpperez: folds 
+MelchiorF1: folds 
+Jbravo902: folds 
+babyleeama: folds 
+SerjiB21: folds 
+Nepfion: folds 
+sapziro666: raises $0.02 to $0.04
+djkimera: folds 
+Dorex2007: calls $0.02
+*** FLOP *** [2s Jd 6c]
+Dorex2007: bets $0.09
+sapziro666: folds 
+Uncalled bet ($0.09) returned to Dorex2007
+Dorex2007 collected $0.09 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [2s Jd 6c]
+Seat 1: Jbravo902 folded before Flop (didn't bet)
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: SerjiB21 folded before Flop (didn't bet)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: sapziro666 (button) folded on the Flop
+Seat 6: djkimera (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) collected ($0.09)
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734147326:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:39:16 PT [2022/01/02 0:39:16 ET]
+Table 'Chort V' 9-max Seat #6 is the button
+Seat 1: Jbravo902 ($2.13 in chips) 
+Seat 2: babyleeama ($2.07 in chips) 
+Seat 3: SerjiB21 ($2 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: sapziro666 ($1.10 in chips) 
+Seat 6: djkimera ($7.07 in chips) 
+Seat 7: Dorex2007 ($2.42 in chips) 
+Seat 8: hgpperez ($0.90 in chips) 
+Seat 9: MelchiorF1 ($2.24 in chips) 
+Dorex2007: posts small blind $0.01
+hgpperez: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Qd]
+MelchiorF1: folds 
+Jbravo902: folds 
+babyleeama: folds 
+SerjiB21: folds 
+Nepfion: raises $0.04 to $0.06
+sapziro666: folds 
+djkimera: folds 
+Dorex2007: calls $0.05
+hgpperez: folds 
+*** FLOP *** [5c 3h 9h]
+Dorex2007: checks 
+Nepfion: bets $0.09
+Dorex2007: folds 
+Uncalled bet ($0.09) returned to Nepfion
+Nepfion collected $0.14 from pot
+Nepfion: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [5c 3h 9h]
+Seat 1: Jbravo902 folded before Flop (didn't bet)
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: SerjiB21 folded before Flop (didn't bet)
+Seat 4: Nepfion collected ($0.14)
+Seat 5: sapziro666 folded before Flop (didn't bet)
+Seat 6: djkimera (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded on the Flop
+Seat 8: hgpperez (big blind) folded before Flop
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734153552:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:39:56 PT [2022/01/02 0:39:56 ET]
+Table 'Chort V' 9-max Seat #7 is the button
+Seat 1: Jbravo902 ($2.13 in chips) 
+Seat 2: babyleeama ($2.07 in chips) 
+Seat 3: SerjiB21 ($2 in chips) 
+Seat 4: Nepfion ($2.08 in chips) 
+Seat 5: sapziro666 ($1.10 in chips) 
+Seat 6: djkimera ($7.07 in chips) 
+Seat 7: Dorex2007 ($2.36 in chips) 
+Seat 8: hgpperez ($0.88 in chips) 
+Seat 9: MelchiorF1 ($2.24 in chips) 
+hgpperez: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 9c]
+Jbravo902: calls $0.02
+babyleeama: raises $0.08 to $0.10
+SerjiB21: folds 
+Nepfion: folds 
+sapziro666: folds 
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: folds 
+MelchiorF1: folds 
+Jbravo902: calls $0.08
+*** FLOP *** [4s 3d Kc]
+Jbravo902: checks 
+babyleeama: checks 
+*** TURN *** [4s 3d Kc] [3c]
+Jbravo902: checks 
+babyleeama: bets $0.11
+Jbravo902: calls $0.11
+*** RIVER *** [4s 3d Kc 3c] [Th]
+Jbravo902: checks 
+babyleeama: bets $0.43
+Jbravo902: calls $0.43
+*** SHOW DOWN ***
+babyleeama: shows [Qs Ac] (a pair of Threes)
+Jbravo902: shows [Qh Qd] (two pair, Queens and Threes)
+Jbravo902 collected $1.26 from pot
+*** SUMMARY ***
+Total pot $1.31 | Rake $0.05 
+Board [4s 3d Kc 3c Th]
+Seat 1: Jbravo902 showed [Qh Qd] and won ($1.26) with two pair, Queens and Threes
+Seat 2: babyleeama showed [Qs Ac] and lost with a pair of Threes
+Seat 3: SerjiB21 folded before Flop (didn't bet)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: sapziro666 folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: hgpperez (small blind) folded before Flop
+Seat 9: MelchiorF1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232734172025:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:40:56 PT [2022/01/02 0:40:56 ET]
+Table 'Chort V' 9-max Seat #8 is the button
+Seat 1: Jbravo902 ($2.75 in chips) 
+Seat 2: babyleeama ($2 in chips) 
+Seat 3: SerjiB21 ($2 in chips) 
+Seat 4: Nepfion ($2.08 in chips) 
+Seat 5: sapziro666 ($1.10 in chips) 
+Seat 6: djkimera ($7.07 in chips) 
+Seat 7: Dorex2007 ($2.36 in chips) 
+Seat 8: hgpperez ($0.87 in chips) 
+Seat 9: MelchiorF1 ($2.22 in chips) 
+MelchiorF1: posts small blind $0.01
+Jbravo902: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Js]
+babyleeama: raises $0.08 to $0.10
+SerjiB21: folds 
+Nepfion: folds 
+sapziro666: folds 
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: folds 
+MelchiorF1: folds 
+Jbravo902: folds 
+Uncalled bet ($0.08) returned to babyleeama
+babyleeama collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Jbravo902 (big blind) folded before Flop
+Seat 2: babyleeama collected ($0.05)
+Seat 3: SerjiB21 folded before Flop (didn't bet)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: sapziro666 folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez (button) folded before Flop (didn't bet)
+Seat 9: MelchiorF1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232734176468:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:41:24 PT [2022/01/02 0:41:24 ET]
+Table 'Chort V' 9-max Seat #9 is the button
+Seat 1: Jbravo902 ($2.73 in chips) 
+Seat 2: babyleeama ($2.03 in chips) 
+Seat 3: SerjiB21 ($2 in chips) 
+Seat 4: Nepfion ($2.08 in chips) 
+Seat 5: sapziro666 ($1.10 in chips) 
+Seat 6: djkimera ($7.07 in chips) 
+Seat 7: Dorex2007 ($2.36 in chips) 
+Seat 8: hgpperez ($0.87 in chips) 
+Seat 9: MelchiorF1 ($2.21 in chips) 
+Jbravo902: posts small blind $0.01
+babyleeama: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c Ac]
+SerjiB21: calls $0.02
+Nepfion: folds 
+sapziro666: folds 
+djkimera: folds 
+Dorex2007: calls $0.02
+hgpperez: calls $0.02
+MelchiorF1: raises $0.10 to $0.12
+Jbravo902: folds 
+babyleeama: folds 
+SerjiB21: folds 
+Dorex2007: folds 
+hgpperez: folds 
+Uncalled bet ($0.10) returned to MelchiorF1
+MelchiorF1 collected $0.11 from pot
+MelchiorF1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: Jbravo902 (small blind) folded before Flop
+Seat 2: babyleeama (big blind) folded before Flop
+Seat 3: SerjiB21 folded before Flop
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: sapziro666 folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop
+Seat 8: hgpperez folded before Flop
+Seat 9: MelchiorF1 (button) collected ($0.11)
+
+
+
+PokerStars Hand #232734183949:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:42:11 PT [2022/01/02 0:42:11 ET]
+Table 'Chort V' 9-max Seat #1 is the button
+Seat 1: Jbravo902 ($2.72 in chips) 
+Seat 2: babyleeama ($2.01 in chips) 
+Seat 3: SerjiB21 ($1.98 in chips) 
+Seat 4: Nepfion ($2.08 in chips) 
+Seat 5: sapziro666 ($1.10 in chips) 
+Seat 6: djkimera ($7.07 in chips) 
+Seat 7: Dorex2007 ($2.34 in chips) 
+Seat 8: hgpperez ($0.85 in chips) 
+Seat 9: MelchiorF1 ($2.30 in chips) 
+babyleeama: posts small blind $0.01
+SerjiB21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Kc]
+Nepfion: folds 
+sapziro666: folds 
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: folds 
+MelchiorF1: folds 
+Jbravo902: calls $0.02
+babyleeama: raises $0.06 to $0.08
+SerjiB21: folds 
+Jbravo902: calls $0.06
+*** FLOP *** [5c 3s 2d]
+babyleeama: checks 
+Jbravo902: checks 
+*** TURN *** [5c 3s 2d] [6h]
+babyleeama: bets $0.09
+Jbravo902: calls $0.09
+*** RIVER *** [5c 3s 2d 6h] [Ks]
+babyleeama: checks 
+Jbravo902: checks 
+*** SHOW DOWN ***
+babyleeama: shows [Ah 5h] (a pair of Fives)
+Jbravo902: mucks hand 
+babyleeama collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [5c 3s 2d 6h Ks]
+Seat 1: Jbravo902 (button) mucked [8s 7s]
+Seat 2: babyleeama (small blind) showed [Ah 5h] and won ($0.35) with a pair of Fives
+Seat 3: SerjiB21 (big blind) folded before Flop
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: sapziro666 folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734193450:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:43:12 PT [2022/01/02 0:43:12 ET]
+Table 'Chort V' 9-max Seat #2 is the button
+Seat 1: Jbravo902 ($2.55 in chips) 
+Seat 2: babyleeama ($2.19 in chips) 
+Seat 3: SerjiB21 ($1.96 in chips) 
+Seat 4: Nepfion ($2.08 in chips) 
+Seat 5: sapziro666 ($1.10 in chips) 
+Seat 6: djkimera ($7.07 in chips) 
+Seat 7: Dorex2007 ($2.34 in chips) 
+Seat 8: hgpperez ($0.85 in chips) 
+Seat 9: MelchiorF1 ($2.30 in chips) 
+SerjiB21: posts small blind $0.01
+Nepfion: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 6h]
+sapziro666: folds 
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: folds 
+MelchiorF1: folds 
+Jbravo902: calls $0.02
+babyleeama: raises $0.08 to $0.10
+SerjiB21: raises $0.10 to $0.20
+Nepfion: folds 
+Jbravo902: folds 
+babyleeama: calls $0.10
+*** FLOP *** [2d 7h 4c]
+SerjiB21: bets $0.42
+babyleeama: folds 
+Uncalled bet ($0.42) returned to SerjiB21
+SerjiB21 collected $0.42 from pot
+SerjiB21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [2d 7h 4c]
+Seat 1: Jbravo902 folded before Flop
+Seat 2: babyleeama (button) folded on the Flop
+Seat 3: SerjiB21 (small blind) collected ($0.42)
+Seat 4: Nepfion (big blind) folded before Flop
+Seat 5: sapziro666 folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734199526:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:43:51 PT [2022/01/02 0:43:51 ET]
+Table 'Chort V' 9-max Seat #3 is the button
+Seat 1: Jbravo902 ($2.53 in chips) 
+Seat 2: babyleeama ($2 in chips) 
+Seat 3: SerjiB21 ($2.18 in chips) 
+Seat 4: Nepfion ($2.06 in chips) 
+Seat 5: sapziro666 ($1.10 in chips) 
+Seat 6: djkimera ($7.07 in chips) 
+Seat 7: Dorex2007 ($2.34 in chips) 
+Seat 8: hgpperez ($0.85 in chips) 
+Seat 9: MelchiorF1 ($2.30 in chips) 
+Nepfion: posts small blind $0.01
+sapziro666: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 4s]
+djkimera: raises $0.03 to $0.05
+Dorex2007: folds 
+hgpperez: folds 
+MelchiorF1: folds 
+Jbravo902: calls $0.05
+babyleeama: folds 
+SerjiB21: folds 
+Nepfion: folds 
+sapziro666: folds 
+*** FLOP *** [3h 9d 6s]
+djkimera: bets $0.06
+Jbravo902: calls $0.06
+*** TURN *** [3h 9d 6s] [2h]
+djkimera: checks 
+Jbravo902: checks 
+*** RIVER *** [3h 9d 6s 2h] [9h]
+djkimera: bets $0.09
+Jbravo902: folds 
+Uncalled bet ($0.09) returned to djkimera
+djkimera collected $0.24 from pot
+djkimera: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3h 9d 6s 2h 9h]
+Seat 1: Jbravo902 folded on the River
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: SerjiB21 (button) folded before Flop (didn't bet)
+Seat 4: Nepfion (small blind) folded before Flop
+Seat 5: sapziro666 (big blind) folded before Flop
+Seat 6: djkimera collected ($0.24)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734208595:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:44:48 PT [2022/01/02 0:44:48 ET]
+Table 'Chort V' 9-max Seat #4 is the button
+Seat 1: Jbravo902 ($2.42 in chips) 
+Seat 2: babyleeama ($2 in chips) 
+Seat 3: SerjiB21 ($2.18 in chips) 
+Seat 4: Nepfion ($2.05 in chips) 
+Seat 5: sapziro666 ($1.08 in chips) 
+Seat 6: djkimera ($7.20 in chips) 
+Seat 7: Dorex2007 ($2.34 in chips) 
+Seat 8: hgpperez ($0.85 in chips) 
+Seat 9: MelchiorF1 ($2.30 in chips) 
+sapziro666: posts small blind $0.01
+djkimera: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 7c]
+Dorex2007: folds 
+hgpperez: folds 
+MelchiorF1: folds 
+Jbravo902: folds 
+babyleeama: folds 
+SerjiB21: folds 
+Nepfion: folds 
+sapziro666: folds 
+Uncalled bet ($0.01) returned to djkimera
+djkimera collected $0.02 from pot
+djkimera: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Jbravo902 folded before Flop (didn't bet)
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: SerjiB21 folded before Flop (didn't bet)
+Seat 4: Nepfion (button) folded before Flop (didn't bet)
+Seat 5: sapziro666 (small blind) folded before Flop
+Seat 6: djkimera (big blind) collected ($0.02)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734226916:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:46:45 PT [2022/01/02 0:46:45 ET]
+Table 'Chort V' 9-max Seat #8 is the button
+Seat 1: Jbravo902 ($2.40 in chips) 
+Seat 2: babyleeama ($2 in chips) 
+Seat 3: SerjiB21 ($2.18 in chips) 
+Seat 4: Nepfion ($2.05 in chips) 
+Seat 5: sapziro666 ($0.97 in chips) 
+Seat 6: djkimera ($7.06 in chips) 
+Seat 7: Dorex2007 ($2.34 in chips) 
+Seat 8: hgpperez ($1.24 in chips) 
+Seat 9: MelchiorF1 ($2.28 in chips) 
+MelchiorF1: posts small blind $0.01
+Jbravo902: posts big blind $0.02
+Dorex2007: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 3d]
+babyleeama: folds 
+SerjiB21: raises $0.06 to $0.08
+Nepfion: folds 
+sapziro666: folds 
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: folds 
+MelchiorF1: folds 
+Jbravo902: folds 
+Uncalled bet ($0.06) returned to SerjiB21
+babyleeama leaves the table
+SerjiB21 collected $0.08 from pot
+SerjiB21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: Jbravo902 (big blind) folded before Flop
+Seat 2: babyleeama folded before Flop (didn't bet)
+Seat 3: SerjiB21 collected ($0.08)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: sapziro666 folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez (button) folded before Flop (didn't bet)
+Seat 9: MelchiorF1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232734233568:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:47:13 PT [2022/01/02 0:47:13 ET]
+Table 'Chort V' 9-max Seat #9 is the button
+Seat 1: Jbravo902 ($2.38 in chips) 
+Seat 3: SerjiB21 ($2.24 in chips) 
+Seat 4: Nepfion ($2.05 in chips) 
+Seat 5: sapziro666 ($1.27 in chips) 
+Seat 6: djkimera ($7.06 in chips) 
+Seat 7: Dorex2007 ($2.31 in chips) 
+Seat 8: hgpperez ($1.24 in chips) 
+Seat 9: MelchiorF1 ($2.27 in chips) 
+Jbravo902: posts small blind $0.01
+SerjiB21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 2c]
+Nepfion: raises $0.04 to $0.06
+sapziro666: folds 
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: folds 
+MelchiorF1: folds 
+Jbravo902: folds 
+SerjiB21: calls $0.04
+*** FLOP *** [4c 3d Jh]
+SerjiB21: checks 
+Nepfion: bets $0.09
+SerjiB21: folds 
+Uncalled bet ($0.09) returned to Nepfion
+Nepfion collected $0.13 from pot
+Nepfion: doesn't show hand 
+KENTNAGA NO joins the table at seat #2 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4c 3d Jh]
+Seat 1: Jbravo902 (small blind) folded before Flop
+Seat 3: SerjiB21 (big blind) folded on the Flop
+Seat 4: Nepfion collected ($0.13)
+Seat 5: sapziro666 folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734239049:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:47:47 PT [2022/01/02 0:47:47 ET]
+Table 'Chort V' 9-max Seat #1 is the button
+Seat 1: Jbravo902 ($2.37 in chips) 
+Seat 3: SerjiB21 ($2.18 in chips) 
+Seat 4: Nepfion ($2.12 in chips) 
+Seat 5: sapziro666 ($1.27 in chips) 
+Seat 6: djkimera ($7.06 in chips) 
+Seat 7: Dorex2007 ($2.31 in chips) 
+Seat 8: hgpperez ($1.24 in chips) 
+Seat 9: MelchiorF1 ($2.27 in chips) 
+SerjiB21: posts small blind $0.01
+Nepfion: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 4d]
+sapziro666: folds 
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: folds 
+MelchiorF1: folds 
+Jbravo902: folds 
+SerjiB21: calls $0.01
+Nepfion: raises $0.04 to $0.06
+SerjiB21: folds 
+Uncalled bet ($0.04) returned to Nepfion
+Nepfion collected $0.04 from pot
+Nepfion: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Jbravo902 (button) folded before Flop (didn't bet)
+Seat 3: SerjiB21 (small blind) folded before Flop
+Seat 4: Nepfion (big blind) collected ($0.04)
+Seat 5: sapziro666 folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734245998:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:48:32 PT [2022/01/02 0:48:32 ET]
+Table 'Chort V' 9-max Seat #3 is the button
+Seat 1: Jbravo902 ($2.37 in chips) 
+Seat 2: KENTNAGA NO ($1.60 in chips) 
+Seat 3: SerjiB21 ($2.16 in chips) 
+Seat 4: Nepfion ($2.14 in chips) 
+Seat 5: sapziro666 ($1.27 in chips) 
+Seat 6: djkimera ($7.06 in chips) 
+Seat 7: Dorex2007 ($2.31 in chips) 
+Seat 8: hgpperez ($1.24 in chips) 
+Seat 9: MelchiorF1 ($2.27 in chips) 
+Nepfion: posts small blind $0.01
+sapziro666: posts big blind $0.02
+KENTNAGA NO: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 5h]
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: raises $0.04 to $0.06
+MelchiorF1: calls $0.06
+Jbravo902: folds 
+KENTNAGA NO: folds 
+SerjiB21: folds 
+Nepfion: folds 
+sapziro666: folds 
+*** FLOP *** [7d 7c 6d]
+hgpperez: bets $0.06
+MelchiorF1: raises $0.08 to $0.14
+hgpperez: folds 
+Uncalled bet ($0.08) returned to MelchiorF1
+MelchiorF1 collected $0.28 from pot
+MelchiorF1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [7d 7c 6d]
+Seat 1: Jbravo902 folded before Flop (didn't bet)
+Seat 2: KENTNAGA NO folded before Flop (didn't bet)
+Seat 3: SerjiB21 (button) folded before Flop (didn't bet)
+Seat 4: Nepfion (small blind) folded before Flop
+Seat 5: sapziro666 (big blind) folded before Flop
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez folded on the Flop
+Seat 9: MelchiorF1 collected ($0.28)
+
+
+
+PokerStars Hand #232734256790:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:49:41 PT [2022/01/02 0:49:41 ET]
+Table 'Chort V' 9-max Seat #4 is the button
+Seat 1: Jbravo902 ($2.37 in chips) 
+Seat 2: KENTNAGA NO ($1.58 in chips) 
+Seat 3: SerjiB21 ($2.16 in chips) 
+Seat 4: Nepfion ($2.13 in chips) 
+Seat 5: sapziro666 ($1.25 in chips) 
+Seat 6: djkimera ($7.06 in chips) 
+Seat 7: Dorex2007 ($2.31 in chips) 
+Seat 8: hgpperez ($1.12 in chips) 
+Seat 9: MelchiorF1 ($2.43 in chips) 
+sapziro666: posts small blind $0.01
+djkimera: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Qs]
+Dorex2007: raises $0.02 to $0.04
+hgpperez: calls $0.04
+MelchiorF1: folds 
+Jbravo902: folds 
+KENTNAGA NO: calls $0.04
+SerjiB21: folds 
+Nepfion: folds 
+sapziro666: folds 
+djkimera: calls $0.02
+*** FLOP *** [8s 7s Th]
+djkimera: checks 
+Dorex2007: bets $0.16
+hgpperez: folds 
+KENTNAGA NO: folds 
+djkimera: folds 
+Uncalled bet ($0.16) returned to Dorex2007
+Dorex2007 collected $0.16 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [8s 7s Th]
+Seat 1: Jbravo902 folded before Flop (didn't bet)
+Seat 2: KENTNAGA NO folded on the Flop
+Seat 3: SerjiB21 folded before Flop (didn't bet)
+Seat 4: Nepfion (button) folded before Flop (didn't bet)
+Seat 5: sapziro666 (small blind) folded before Flop
+Seat 6: djkimera (big blind) folded on the Flop
+Seat 7: Dorex2007 collected ($0.16)
+Seat 8: hgpperez folded on the Flop
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734264753:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:50:32 PT [2022/01/02 0:50:32 ET]
+Table 'Chort V' 9-max Seat #5 is the button
+Seat 1: Jbravo902 ($2.37 in chips) 
+Seat 2: KENTNAGA NO ($1.54 in chips) 
+Seat 3: SerjiB21 ($2.16 in chips) 
+Seat 4: Nepfion ($2.13 in chips) 
+Seat 5: sapziro666 ($1.24 in chips) 
+Seat 6: djkimera ($7.02 in chips) 
+Seat 7: Dorex2007 ($2.43 in chips) 
+Seat 8: hgpperez ($1.08 in chips) 
+Seat 9: MelchiorF1 ($2.43 in chips) 
+djkimera: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 3h]
+hgpperez: folds 
+MelchiorF1: folds 
+Jbravo902: folds 
+KENTNAGA NO: calls $0.02
+SerjiB21: folds 
+Nepfion: folds 
+sapziro666: folds 
+djkimera: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [6s 4h As]
+djkimera: checks 
+Dorex2007: checks 
+KENTNAGA NO: checks 
+*** TURN *** [6s 4h As] [Js]
+djkimera: checks 
+Dorex2007: checks 
+KENTNAGA NO: bets $0.06
+djkimera: folds 
+Dorex2007: folds 
+Uncalled bet ($0.06) returned to KENTNAGA NO
+KENTNAGA NO collected $0.06 from pot
+KENTNAGA NO: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [6s 4h As Js]
+Seat 1: Jbravo902 folded before Flop (didn't bet)
+Seat 2: KENTNAGA NO collected ($0.06)
+Seat 3: SerjiB21 folded before Flop (didn't bet)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: sapziro666 (button) folded before Flop (didn't bet)
+Seat 6: djkimera (small blind) folded on the Turn
+Seat 7: Dorex2007 (big blind) folded on the Turn
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734273676:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:51:29 PT [2022/01/02 0:51:29 ET]
+Table 'Chort V' 9-max Seat #6 is the button
+Seat 1: Jbravo902 ($2.37 in chips) 
+Seat 2: KENTNAGA NO ($1.58 in chips) 
+Seat 3: SerjiB21 ($2.16 in chips) 
+Seat 4: Nepfion ($2.13 in chips) 
+Seat 5: sapziro666 ($1.24 in chips) 
+Seat 6: djkimera ($7 in chips) 
+Seat 7: Dorex2007 ($2.41 in chips) 
+Seat 8: hgpperez ($1.08 in chips) 
+Seat 9: MelchiorF1 ($2.43 in chips) 
+Dorex2007: posts small blind $0.01
+hgpperez: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 8h]
+MelchiorF1: folds 
+Jbravo902: folds 
+KENTNAGA NO: calls $0.02
+SerjiB21: raises $0.02 to $0.04
+Nepfion: calls $0.04
+sapziro666: calls $0.04
+djkimera: folds 
+Dorex2007: calls $0.03
+hgpperez: folds 
+KENTNAGA NO: folds 
+*** FLOP *** [5s 8s 7h]
+Dorex2007: bets $0.10
+SerjiB21: folds 
+Nepfion: folds 
+sapziro666: folds 
+Uncalled bet ($0.10) returned to Dorex2007
+Dorex2007 collected $0.19 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [5s 8s 7h]
+Seat 1: Jbravo902 folded before Flop (didn't bet)
+Seat 2: KENTNAGA NO folded before Flop
+Seat 3: SerjiB21 folded on the Flop
+Seat 4: Nepfion folded on the Flop
+Seat 5: sapziro666 folded on the Flop
+Seat 6: djkimera (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) collected ($0.19)
+Seat 8: hgpperez (big blind) folded before Flop
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734281374:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:52:14 PT [2022/01/02 0:52:14 ET]
+Table 'Chort V' 9-max Seat #7 is the button
+Seat 1: Jbravo902 ($2.37 in chips) 
+Seat 2: KENTNAGA NO ($1.56 in chips) 
+Seat 3: SerjiB21 ($2.12 in chips) 
+Seat 4: Nepfion ($2.09 in chips) 
+Seat 5: sapziro666 ($1.20 in chips) 
+Seat 6: djkimera ($7 in chips) 
+Seat 7: Dorex2007 ($2.56 in chips) 
+Seat 8: hgpperez ($1.06 in chips) 
+Seat 9: MelchiorF1 ($2.43 in chips) 
+hgpperez: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 2s]
+Jbravo902: folds 
+KENTNAGA NO: calls $0.02
+SerjiB21: folds 
+Nepfion: raises $0.04 to $0.06
+sapziro666: folds 
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: folds 
+MelchiorF1: folds 
+KENTNAGA NO: calls $0.04
+*** FLOP *** [8h Tc Ac]
+KENTNAGA NO: checks 
+Nepfion: bets $0.09
+KENTNAGA NO: calls $0.09
+*** TURN *** [8h Tc Ac] [5c]
+KENTNAGA NO: bets $0.32
+Nepfion: folds 
+Uncalled bet ($0.32) returned to KENTNAGA NO
+KENTNAGA NO collected $0.32 from pot
+KENTNAGA NO: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [8h Tc Ac 5c]
+Seat 1: Jbravo902 folded before Flop (didn't bet)
+Seat 2: KENTNAGA NO collected ($0.32)
+Seat 3: SerjiB21 folded before Flop (didn't bet)
+Seat 4: Nepfion folded on the Turn
+Seat 5: sapziro666 folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: hgpperez (small blind) folded before Flop
+Seat 9: MelchiorF1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232734288440:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:53:01 PT [2022/01/02 0:53:01 ET]
+Table 'Chort V' 9-max Seat #8 is the button
+Seat 1: Jbravo902 ($2.37 in chips) 
+Seat 2: KENTNAGA NO ($1.73 in chips) 
+Seat 3: SerjiB21 ($2.12 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: sapziro666 ($1.20 in chips) 
+Seat 6: djkimera ($7 in chips) 
+Seat 7: Dorex2007 ($2.56 in chips) 
+Seat 8: hgpperez ($1.05 in chips) 
+Seat 9: MelchiorF1 ($2.41 in chips) 
+MelchiorF1: posts small blind $0.01
+Jbravo902: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 9c]
+KENTNAGA NO: calls $0.02
+SerjiB21: folds 
+Nepfion: folds 
+sapziro666: folds 
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: folds 
+MelchiorF1: raises $0.04 to $0.06
+Jbravo902: folds 
+KENTNAGA NO: calls $0.04
+*** FLOP *** [9d Qh Ah]
+MelchiorF1: bets $0.08
+KENTNAGA NO: folds 
+Uncalled bet ($0.08) returned to MelchiorF1
+MelchiorF1 collected $0.14 from pot
+MelchiorF1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [9d Qh Ah]
+Seat 1: Jbravo902 (big blind) folded before Flop
+Seat 2: KENTNAGA NO folded on the Flop
+Seat 3: SerjiB21 folded before Flop (didn't bet)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: sapziro666 folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez (button) folded before Flop (didn't bet)
+Seat 9: MelchiorF1 (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #232734304030:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:53:38 PT [2022/01/02 0:53:38 ET]
+Table 'Chort V' 9-max Seat #9 is the button
+Seat 1: Jbravo902 ($2.35 in chips) 
+Seat 2: KENTNAGA NO ($1.67 in chips) 
+Seat 3: SerjiB21 ($2.12 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: sapziro666 ($1.20 in chips) 
+Seat 6: djkimera ($7 in chips) 
+Seat 7: Dorex2007 ($2.56 in chips) 
+Seat 8: hgpperez ($1.05 in chips) 
+Seat 9: MelchiorF1 ($2.49 in chips) 
+Jbravo902: posts small blind $0.01
+KENTNAGA NO: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Js]
+SerjiB21 has timed out
+SerjiB21: folds 
+Nepfion: folds 
+sapziro666: folds 
+djkimera: folds 
+Dorex2007: raises $0.08 to $0.10
+hgpperez: folds 
+MelchiorF1: folds 
+Jbravo902: folds 
+KENTNAGA NO: calls $0.08
+*** FLOP *** [Ks 5s Qd]
+KENTNAGA NO: checks 
+Dorex2007: bets $0.10
+KENTNAGA NO: raises $0.10 to $0.20
+Dorex2007: calls $0.10
+*** TURN *** [Ks 5s Qd] [5d]
+KENTNAGA NO: bets $0.59
+Dorex2007: folds 
+Uncalled bet ($0.59) returned to KENTNAGA NO
+KENTNAGA NO collected $0.59 from pot
+KENTNAGA NO: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [Ks 5s Qd 5d]
+Seat 1: Jbravo902 (small blind) folded before Flop
+Seat 2: KENTNAGA NO (big blind) collected ($0.59)
+Seat 3: SerjiB21 folded before Flop (didn't bet)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: sapziro666 folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded on the Turn
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734313836:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:54:42 PT [2022/01/02 0:54:42 ET]
+Table 'Chort V' 9-max Seat #1 is the button
+Seat 1: Jbravo902 ($2.34 in chips) 
+Seat 2: KENTNAGA NO ($1.96 in chips) 
+Seat 3: SerjiB21 ($2.12 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: sapziro666 ($1.20 in chips) 
+Seat 6: djkimera ($7 in chips) 
+Seat 7: Dorex2007 ($2.26 in chips) 
+Seat 8: hgpperez ($1.05 in chips) 
+Seat 9: MelchiorF1 ($2.49 in chips) 
+KENTNAGA NO: posts small blind $0.01
+SerjiB21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Qh]
+Nepfion: folds 
+sapziro666: raises $0.04 to $0.06
+djkimera: folds 
+Dorex2007: raises $0.12 to $0.18
+hgpperez: folds 
+MelchiorF1: folds 
+Jbravo902: folds 
+KENTNAGA NO: folds 
+SerjiB21: folds 
+sapziro666: folds 
+Uncalled bet ($0.12) returned to Dorex2007
+Dorex2007 collected $0.15 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Jbravo902 (button) folded before Flop (didn't bet)
+Seat 2: KENTNAGA NO (small blind) folded before Flop
+Seat 3: SerjiB21 (big blind) folded before Flop
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: sapziro666 folded before Flop
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.15)
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734318891:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:55:15 PT [2022/01/02 0:55:15 ET]
+Table 'Chort V' 9-max Seat #2 is the button
+Seat 1: Jbravo902 ($2.34 in chips) 
+Seat 2: KENTNAGA NO ($1.95 in chips) 
+Seat 3: SerjiB21 ($2.10 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: sapziro666 ($1.14 in chips) 
+Seat 6: djkimera ($7 in chips) 
+Seat 7: Dorex2007 ($2.35 in chips) 
+Seat 8: hgpperez ($1.05 in chips) 
+Seat 9: MelchiorF1 ($2.49 in chips) 
+SerjiB21: posts small blind $0.01
+Nepfion: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 4s]
+sapziro666: raises $0.05 to $0.07
+djkimera: folds 
+Dorex2007: folds 
+hgpperez: folds 
+MelchiorF1: folds 
+Jbravo902: folds 
+KENTNAGA NO: calls $0.07
+SerjiB21: folds 
+Nepfion: folds 
+*** FLOP *** [Td Qc 9c]
+sapziro666: bets $0.16
+KENTNAGA NO: folds 
+Uncalled bet ($0.16) returned to sapziro666
+sapziro666 collected $0.16 from pot
+sapziro666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Td Qc 9c]
+Seat 1: Jbravo902 folded before Flop (didn't bet)
+Seat 2: KENTNAGA NO (button) folded on the Flop
+Seat 3: SerjiB21 (small blind) folded before Flop
+Seat 4: Nepfion (big blind) folded before Flop
+Seat 5: sapziro666 collected ($0.16)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734323944:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:55:55 PT [2022/01/02 0:55:55 ET]
+Table 'Chort V' 9-max Seat #3 is the button
+Seat 1: Jbravo902 ($2.34 in chips) 
+Seat 2: KENTNAGA NO ($1.88 in chips) 
+Seat 3: SerjiB21 ($2.09 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: sapziro666 ($1.23 in chips) 
+Seat 6: djkimera ($7 in chips) 
+Seat 7: Dorex2007 ($2.35 in chips) 
+Seat 8: hgpperez ($1.05 in chips) 
+Seat 9: MelchiorF1 ($2.49 in chips) 
+Nepfion: posts small blind $0.01
+sapziro666: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 5h]
+djkimera: raises $0.03 to $0.05
+Dorex2007: folds 
+hgpperez: raises $0.03 to $0.08
+MelchiorF1: folds 
+Jbravo902: folds 
+KENTNAGA NO: folds 
+SerjiB21: calls $0.08
+Nepfion: folds 
+sapziro666: folds 
+djkimera: calls $0.03
+*** FLOP *** [8s 2h 3s]
+djkimera: checks 
+hgpperez: bets $0.15
+SerjiB21: calls $0.15
+djkimera: folds 
+*** TURN *** [8s 2h 3s] [Jh]
+hgpperez: bets $0.32
+SerjiB21: raises $0.32 to $0.64
+hgpperez: raises $0.18 to $0.82 and is all-in
+SerjiB21: calls $0.18
+*** RIVER *** [8s 2h 3s Jh] [5s]
+*** SHOW DOWN ***
+hgpperez: shows [Qs Jd] (a pair of Jacks)
+SerjiB21: shows [2d 2c] (three of a kind, Deuces)
+SerjiB21 collected $2.13 from pot
+*** SUMMARY ***
+Total pot $2.21 | Rake $0.08 
+Board [8s 2h 3s Jh 5s]
+Seat 1: Jbravo902 folded before Flop (didn't bet)
+Seat 2: KENTNAGA NO folded before Flop (didn't bet)
+Seat 3: SerjiB21 (button) showed [2d 2c] and won ($2.13) with three of a kind, Deuces
+Seat 4: Nepfion (small blind) folded before Flop
+Seat 5: sapziro666 (big blind) folded before Flop
+Seat 6: djkimera folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez showed [Qs Jd] and lost with a pair of Jacks
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734336338:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:56:52 PT [2022/01/02 0:56:52 ET]
+Table 'Chort V' 9-max Seat #4 is the button
+Seat 1: Jbravo902 ($2.34 in chips) 
+Seat 2: KENTNAGA NO ($1.88 in chips) 
+Seat 3: SerjiB21 ($3.17 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: sapziro666 ($1.21 in chips) 
+Seat 6: djkimera ($6.92 in chips) 
+Seat 7: Dorex2007 ($2.35 in chips) 
+Seat 8: hgpperez ($0.80 in chips) 
+Seat 9: MelchiorF1 ($2.49 in chips) 
+sapziro666: posts small blind $0.01
+djkimera: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 2h]
+Dorex2007: folds 
+KENTNAGA NO said, "nh"
+hgpperez: folds 
+MelchiorF1: raises $0.04 to $0.06
+Jbravo902: folds 
+KENTNAGA NO: calls $0.06
+SerjiB21: calls $0.06
+Nepfion: folds 
+sapziro666: folds 
+djkimera: calls $0.04
+*** FLOP *** [Qh Ts 3c]
+djkimera: checks 
+MelchiorF1: checks 
+KENTNAGA NO: checks 
+SerjiB21: checks 
+*** TURN *** [Qh Ts 3c] [Qs]
+djkimera: checks 
+MelchiorF1: bets $0.09
+KENTNAGA NO: folds 
+SerjiB21: folds 
+djkimera: folds 
+Uncalled bet ($0.09) returned to MelchiorF1
+MelchiorF1 collected $0.24 from pot
+MelchiorF1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qh Ts 3c Qs]
+Seat 1: Jbravo902 folded before Flop (didn't bet)
+Seat 2: KENTNAGA NO folded on the Turn
+Seat 3: SerjiB21 folded on the Turn
+Seat 4: Nepfion (button) folded before Flop (didn't bet)
+Seat 5: sapziro666 (small blind) folded before Flop
+Seat 6: djkimera (big blind) folded on the Turn
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 collected ($0.24)
+
+
+
+PokerStars Hand #232734345630:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:58:02 PT [2022/01/02 0:58:02 ET]
+Table 'Chort V' 9-max Seat #5 is the button
+Seat 1: Jbravo902 ($2.34 in chips) 
+Seat 2: KENTNAGA NO ($1.82 in chips) 
+Seat 3: SerjiB21 ($3.11 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: sapziro666 ($1.20 in chips) 
+Seat 6: djkimera ($6.86 in chips) 
+Seat 7: Dorex2007 ($2.35 in chips) 
+Seat 8: hgpperez ($0.80 in chips) 
+Seat 9: MelchiorF1 ($2.67 in chips) 
+djkimera: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 6s]
+hgpperez: folds 
+MelchiorF1: folds 
+Jbravo902: calls $0.02
+KENTNAGA NO: calls $0.02
+SerjiB21: folds 
+Nepfion: folds 
+sapziro666: calls $0.02
+djkimera: folds 
+Dorex2007: checks 
+*** FLOP *** [7s 9c 2d]
+Dorex2007: checks 
+Jbravo902: checks 
+KENTNAGA NO: checks 
+sapziro666: checks 
+*** TURN *** [7s 9c 2d] [3s]
+Dorex2007: checks 
+Jbravo902: checks 
+KENTNAGA NO: bets $0.09
+sapziro666: folds 
+SerjiB21 leaves the table
+Dorex2007: folds 
+Jbravo902: folds 
+Uncalled bet ($0.09) returned to KENTNAGA NO
+KENTNAGA NO collected $0.09 from pot
+KENTNAGA NO: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [7s 9c 2d 3s]
+Seat 1: Jbravo902 folded on the Turn
+Seat 2: KENTNAGA NO collected ($0.09)
+Seat 3: SerjiB21 folded before Flop (didn't bet)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: sapziro666 (button) folded on the Turn
+Seat 6: djkimera (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded on the Turn
+Seat 8: hgpperez folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734354203:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 21:59:08 PT [2022/01/02 0:59:08 ET]
+Table 'Chort V' 9-max Seat #6 is the button
+Seat 1: Jbravo902 ($2.32 in chips) 
+Seat 2: KENTNAGA NO ($1.89 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: sapziro666 ($1.18 in chips) 
+Seat 6: djkimera ($6.85 in chips) 
+Seat 7: Dorex2007 ($2.33 in chips) 
+Seat 9: MelchiorF1 ($2.67 in chips) 
+Dorex2007: posts small blind $0.01
+hgpperez: is sitting out 
+hgpperez leaves the table
+MelchiorF1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad Ah]
+cho-kchero joins the table at seat #3 
+FACCHETADE$ joins the table at seat #8 
+Jbravo902: folds 
+KENTNAGA NO: calls $0.02
+Nepfion: raises $0.06 to $0.08
+sapziro666: folds 
+djkimera: calls $0.08
+Dorex2007: raises $0.14 to $0.22
+MelchiorF1: raises $0.20 to $0.42
+KENTNAGA NO: folds 
+Nepfion: folds 
+djkimera: folds 
+Dorex2007: raises $1.91 to $2.33 and is all-in
+MelchiorF1: calls $1.91
+*** FLOP *** [9c Ks Kh]
+*** TURN *** [9c Ks Kh] [3d]
+*** RIVER *** [9c Ks Kh 3d] [Tc]
+*** SHOW DOWN ***
+Dorex2007: shows [Ad Ah] (two pair, Aces and Kings)
+MelchiorF1: shows [Qh Qc] (two pair, Kings and Queens)
+Dorex2007 cashed out the hand for $3.77 | Cash Out Fee $0.04
+*** SUMMARY ***
+Total pot $4.84 | Rake $0.17 
+Board [9c Ks Kh 3d Tc]
+Seat 1: Jbravo902 folded before Flop (didn't bet)
+Seat 2: KENTNAGA NO folded before Flop
+Seat 4: Nepfion folded before Flop
+Seat 5: sapziro666 folded before Flop (didn't bet)
+Seat 6: djkimera (button) folded before Flop
+Seat 7: Dorex2007 (small blind) showed [Ad Ah] and won ($4.67) with two pair, Aces and Kings (pot not awarded as player cashed out)
+Seat 9: MelchiorF1 (big blind) showed [Qh Qc] and lost with two pair, Kings and Queens
+
+
+
+PokerStars Hand #232734371189:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:00:16 PT [2022/01/02 1:00:16 ET]
+Table 'Chort V' 9-max Seat #7 is the button
+Seat 1: Jbravo902 ($2.32 in chips) 
+Seat 2: KENTNAGA NO ($1.87 in chips) 
+Seat 3: cho-kchero ($1.60 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: sapziro666 ($1.18 in chips) 
+Seat 6: djkimera ($6.77 in chips) 
+Seat 7: Dorex2007 ($3.77 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+MelchiorF1: posts small blind $0.01
+Jbravo902: posts big blind $0.02
+cho-kchero: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 6h]
+KENTNAGA NO: calls $0.02
+cho-kchero: raises $0.02 to $0.04
+Nepfion: folds 
+sapziro666: folds 
+djkimera: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+Jbravo902: calls $0.02
+KENTNAGA NO: calls $0.02
+*** FLOP *** [9c Td 4d]
+Jbravo902: checks 
+KENTNAGA NO: bets $0.13
+cho-kchero: calls $0.13
+Jbravo902: folds 
+*** TURN *** [9c Td 4d] [7d]
+KENTNAGA NO: bets $0.38
+cho-kchero: raises $1.05 to $1.43 and is all-in
+KENTNAGA NO: folds 
+Uncalled bet ($1.05) returned to cho-kchero
+cho-kchero collected $1.11 from pot
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.04 
+Board [9c Td 4d 7d]
+Seat 1: Jbravo902 (big blind) folded on the Flop
+Seat 2: KENTNAGA NO folded on the Turn
+Seat 3: cho-kchero collected ($1.11)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: sapziro666 folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: MelchiorF1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232734385109:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:01:50 PT [2022/01/02 1:01:50 ET]
+Table 'Chort V' 9-max Seat #9 is the button
+Seat 1: Jbravo902 ($2.28 in chips) 
+Seat 2: KENTNAGA NO ($1.45 in chips) 
+Seat 3: cho-kchero ($2.16 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: sapziro666 ($1.18 in chips) 
+Seat 6: djkimera ($6.77 in chips) 
+Seat 7: Dorex2007 ($3.77 in chips) 
+Seat 8: FACCHETADE$ ($2 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+Jbravo902: posts small blind $0.01
+KENTNAGA NO: posts big blind $0.02
+FACCHETADE$: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 3s]
+cho-kchero has timed out
+cho-kchero: folds 
+Nepfion: folds 
+sapziro666: folds 
+djkimera: raises $0.03 to $0.05
+Dorex2007: folds 
+FACCHETADE$: calls $0.03
+MelchiorF1: folds 
+Jbravo902: calls $0.04
+KENTNAGA NO: calls $0.03
+*** FLOP *** [Ad Js Qc]
+Jbravo902: checks 
+KENTNAGA NO: checks 
+djkimera: checks 
+FACCHETADE$: bets $0.19
+Jbravo902: folds 
+KENTNAGA NO: folds 
+djkimera: folds 
+Uncalled bet ($0.19) returned to FACCHETADE$
+FACCHETADE$ collected $0.19 from pot
+FACCHETADE$: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Ad Js Qc]
+Seat 1: Jbravo902 (small blind) folded on the Flop
+Seat 2: KENTNAGA NO (big blind) folded on the Flop
+Seat 3: cho-kchero folded before Flop (didn't bet)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: sapziro666 folded before Flop (didn't bet)
+Seat 6: djkimera folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: FACCHETADE$ collected ($0.19)
+Seat 9: MelchiorF1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734394024:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:02:48 PT [2022/01/02 1:02:48 ET]
+Table 'Chort V' 9-max Seat #1 is the button
+Seat 1: Jbravo902 ($2.23 in chips) 
+Seat 2: KENTNAGA NO ($1.40 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: sapziro666 ($1.18 in chips) 
+Seat 6: djkimera ($6.72 in chips) 
+Seat 7: Dorex2007 ($3.77 in chips) 
+Seat 8: FACCHETADE$ ($2.14 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+KENTNAGA NO: posts small blind $0.01
+Nepfion: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 9d]
+sapziro666: folds 
+djkimera: raises $0.03 to $0.05
+Dorex2007: folds 
+FACCHETADE$: calls $0.05
+MelchiorF1: folds 
+sapziro666 leaves the table
+Jbravo902: folds 
+KENTNAGA NO: calls $0.04
+Nepfion: folds 
+*** FLOP *** [Jd Qd Kc]
+KENTNAGA NO: checks 
+djkimera: checks 
+Djek300 joins the table at seat #5 
+FACCHETADE$: checks 
+*** TURN *** [Jd Qd Kc] [4s]
+KENTNAGA NO: checks 
+djkimera: checks 
+FACCHETADE$: checks 
+*** RIVER *** [Jd Qd Kc 4s] [8s]
+KENTNAGA NO: bets $0.16
+djkimera: folds 
+FACCHETADE$: raises $0.48 to $0.64
+KENTNAGA NO: raises $0.48 to $1.12
+FACCHETADE$: calls $0.48
+*** SHOW DOWN ***
+KENTNAGA NO: shows [Jh 9c] (a pair of Jacks)
+FACCHETADE$: shows [8d 8h] (three of a kind, Eights)
+FACCHETADE$ collected $2.33 from pot
+*** SUMMARY ***
+Total pot $2.41 | Rake $0.08 
+Board [Jd Qd Kc 4s 8s]
+Seat 1: Jbravo902 (button) folded before Flop (didn't bet)
+Seat 2: KENTNAGA NO (small blind) showed [Jh 9c] and lost with a pair of Jacks
+Seat 4: Nepfion (big blind) folded before Flop
+Seat 5: sapziro666 folded before Flop (didn't bet)
+Seat 6: djkimera folded on the River
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: FACCHETADE$ showed [8d 8h] and won ($2.33) with three of a kind, Eights
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734404690:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:03:57 PT [2022/01/02 1:03:57 ET]
+Table 'Chort V' 9-max Seat #2 is the button
+Seat 1: Jbravo902 ($2.23 in chips) 
+Seat 2: KENTNAGA NO ($0.23 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: Djek300 ($2 in chips) 
+Seat 6: djkimera ($6.67 in chips) 
+Seat 7: Dorex2007 ($3.77 in chips) 
+Seat 8: FACCHETADE$ ($3.30 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+Nepfion: posts small blind $0.01
+Djek300: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s Qh]
+djkimera: folds 
+Dorex2007: folds 
+FACCHETADE$: folds 
+MelchiorF1: folds 
+Jbravo902: folds 
+KENTNAGA NO: calls $0.02
+Nepfion: folds 
+Djek300: checks 
+*** FLOP *** [Kh 2d 3s]
+Djek300: checks 
+KENTNAGA NO: checks 
+*** TURN *** [Kh 2d 3s] [8d]
+Djek300: checks 
+KENTNAGA NO: bets $0.02
+Djek300: calls $0.02
+*** RIVER *** [Kh 2d 3s 8d] [Jd]
+Djek300: bets $0.02
+KENTNAGA NO: calls $0.02
+*** SHOW DOWN ***
+Djek300: shows [9d 7d] (a flush, Jack high)
+KENTNAGA NO: mucks hand 
+Djek300 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Kh 2d 3s 8d Jd]
+Seat 1: Jbravo902 folded before Flop (didn't bet)
+Seat 2: KENTNAGA NO (button) mucked [4s 8h]
+Seat 4: Nepfion (small blind) folded before Flop
+Seat 5: Djek300 (big blind) showed [9d 7d] and won ($0.13) with a flush, Jack high
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: FACCHETADE$ folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734410658:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:04:36 PT [2022/01/02 1:04:36 ET]
+Table 'Chort V' 9-max Seat #4 is the button
+Seat 1: Jbravo902 ($2.23 in chips) 
+Seat 2: KENTNAGA NO ($0.17 in chips) 
+Seat 4: Nepfion ($2 in chips) 
+Seat 5: Djek300 ($2.07 in chips) 
+Seat 6: djkimera ($6.67 in chips) 
+Seat 7: Dorex2007 ($3.77 in chips) 
+Seat 8: FACCHETADE$ ($3.30 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+Djek300: posts small blind $0.01
+djkimera: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Kd]
+Dorex2007: folds 
+FACCHETADE$: raises $0.02 to $0.04
+MelchiorF1: calls $0.04
+Jbravo902: folds 
+KENTNAGA NO: raises $0.13 to $0.17 and is all-in
+Nepfion: calls $0.17
+Djek300: folds 
+djkimera: folds 
+FACCHETADE$: calls $0.13
+MelchiorF1: folds 
+*** FLOP *** [7s 9d 5h]
+FACCHETADE$: checks 
+Nepfion: checks 
+*** TURN *** [7s 9d 5h] [4s]
+FACCHETADE$: checks 
+Nepfion: bets $0.37
+FACCHETADE$: folds 
+Uncalled bet ($0.37) returned to Nepfion
+*** RIVER *** [7s 9d 5h 4s] [Ah]
+*** SHOW DOWN ***
+KENTNAGA NO: shows [3s Ac] (a pair of Aces)
+Nepfion: shows [9c 9h] (three of a kind, Nines)
+Nepfion collected $0.56 from pot
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [7s 9d 5h 4s Ah]
+Seat 1: Jbravo902 folded before Flop (didn't bet)
+Seat 2: KENTNAGA NO showed [3s Ac] and lost with a pair of Aces
+Seat 4: Nepfion (button) showed [9c 9h] and won ($0.56) with three of a kind, Nines
+Seat 5: Djek300 (small blind) folded before Flop
+Seat 6: djkimera (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: FACCHETADE$ folded on the Turn
+Seat 9: MelchiorF1 folded before Flop
+
+
+
+PokerStars Hand #232734419541:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:05:34 PT [2022/01/02 1:05:34 ET]
+Table 'Chort V' 9-max Seat #5 is the button
+Seat 1: Jbravo902 ($2.23 in chips) 
+Seat 4: Nepfion ($2.39 in chips) 
+Seat 5: Djek300 ($2.06 in chips) 
+Seat 6: djkimera ($6.65 in chips) 
+Seat 7: Dorex2007 ($3.77 in chips) 
+Seat 8: FACCHETADE$ ($3.13 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+djkimera: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 9s]
+FACCHETADE$: folds 
+FACCHETADE$ leaves the table
+MelchiorF1: folds 
+Jbravo902: folds 
+Nepfion: folds 
+Djek300: folds 
+djkimera: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+Dorex2007: doesn't show hand 
+peterchina68 joins the table at seat #8 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Jbravo902 folded before Flop (didn't bet)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: Djek300 (button) folded before Flop (didn't bet)
+Seat 6: djkimera (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) collected ($0.02)
+Seat 8: FACCHETADE$ folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734422556:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:05:54 PT [2022/01/02 1:05:54 ET]
+Table 'Chort V' 9-max Seat #6 is the button
+Seat 1: Jbravo902 ($2.23 in chips) 
+Seat 4: Nepfion ($2.39 in chips) 
+Seat 5: Djek300 ($2.06 in chips) 
+Seat 6: djkimera ($6.64 in chips) 
+Seat 7: Dorex2007 ($3.78 in chips) 
+Seat 8: peterchina68 ($0.82 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+Dorex2007: posts small blind $0.01
+peterchina68: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s Th]
+MelchiorF1: folds 
+Jbravo902: folds 
+Nepfion: folds 
+Djek300: folds 
+djkimera: raises $0.03 to $0.05
+Dorex2007: folds 
+peterchina68: calls $0.03
+*** FLOP *** [2c 4h 8c]
+peterchina68: bets $0.06
+djkimera: folds 
+Uncalled bet ($0.06) returned to peterchina68
+peterchina68 collected $0.11 from pot
+peterchina68: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [2c 4h 8c]
+Seat 1: Jbravo902 folded before Flop (didn't bet)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: Djek300 folded before Flop (didn't bet)
+Seat 6: djkimera (button) folded on the Flop
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: peterchina68 (big blind) collected ($0.11)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734427981:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:06:28 PT [2022/01/02 1:06:28 ET]
+Table 'Chort V' 9-max Seat #7 is the button
+Seat 1: Jbravo902 ($2.23 in chips) 
+Seat 4: Nepfion ($2.39 in chips) 
+Seat 5: Djek300 ($2.06 in chips) 
+Seat 6: djkimera ($6.59 in chips) 
+Seat 7: Dorex2007 ($3.77 in chips) 
+Seat 8: peterchina68 ($0.88 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+peterchina68: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 9c]
+Jbravo902: folds 
+Nepfion: raises $0.04 to $0.06
+Djek300: folds 
+djkimera: calls $0.06
+Dorex2007: folds 
+peterchina68: folds 
+MelchiorF1: folds 
+*** FLOP *** [7c Kh Jc]
+Nepfion: checks 
+djkimera: bets $0.07
+Nepfion: folds 
+Uncalled bet ($0.07) returned to djkimera
+djkimera collected $0.14 from pot
+djkimera: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7c Kh Jc]
+Seat 1: Jbravo902 folded before Flop (didn't bet)
+Seat 4: Nepfion folded on the Flop
+Seat 5: Djek300 folded before Flop (didn't bet)
+Seat 6: djkimera collected ($0.14)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: peterchina68 (small blind) folded before Flop
+Seat 9: MelchiorF1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232734434735:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:07:12 PT [2022/01/02 1:07:12 ET]
+Table 'Chort V' 9-max Seat #8 is the button
+Seat 1: Jbravo902 ($2.23 in chips) 
+Seat 4: Nepfion ($2.33 in chips) 
+Seat 5: Djek300 ($2.06 in chips) 
+Seat 6: djkimera ($6.67 in chips) 
+Seat 7: Dorex2007 ($3.77 in chips) 
+Seat 8: peterchina68 ($0.87 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+MelchiorF1: posts small blind $0.01
+Jbravo902: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 6c]
+Nepfion: folds 
+Djek300: folds 
+djkimera: raises $0.03 to $0.05
+Dorex2007: folds 
+peterchina68: calls $0.05
+MelchiorF1: folds 
+Jbravo902: folds 
+*** FLOP *** [7c 6h Kc]
+djkimera: bets $0.06
+peterchina68: calls $0.06
+*** TURN *** [7c 6h Kc] [3d]
+djkimera: checks 
+peterchina68: bets $0.12
+djkimera: calls $0.12
+*** RIVER *** [7c 6h Kc 3d] [5c]
+djkimera: checks 
+peterchina68: checks 
+*** SHOW DOWN ***
+djkimera: shows [Jd Js] (a pair of Jacks)
+peterchina68: shows [9h Kd] (a pair of Kings)
+peterchina68 collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [7c 6h Kc 3d 5c]
+Seat 1: Jbravo902 (big blind) folded before Flop
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: Djek300 folded before Flop (didn't bet)
+Seat 6: djkimera showed [Jd Js] and lost with a pair of Jacks
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: peterchina68 (button) showed [9h Kd] and won ($0.47) with a pair of Kings
+Seat 9: MelchiorF1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232734441109:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:07:53 PT [2022/01/02 1:07:53 ET]
+Table 'Chort V' 9-max Seat #9 is the button
+Seat 1: Jbravo902 ($2.21 in chips) 
+Seat 4: Nepfion ($2.33 in chips) 
+Seat 5: Djek300 ($2.06 in chips) 
+Seat 6: djkimera ($6.44 in chips) 
+Seat 7: Dorex2007 ($3.77 in chips) 
+Seat 8: peterchina68 ($1.11 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+Jbravo902: posts small blind $0.01
+Nepfion: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c Kc]
+Djek300: folds 
+djkimera: folds 
+Dorex2007: folds 
+peterchina68: calls $0.02
+MelchiorF1: raises $0.02 to $0.04
+KENTNAGA NO leaves the table
+Jbravo902: calls $0.03
+andrey354 joins the table at seat #2 
+Nepfion: calls $0.02
+peterchina68: calls $0.02
+*** FLOP *** [Qd 3h 5s]
+Jbravo902: checks 
+Nepfion: checks 
+peterchina68: checks 
+MelchiorF1: checks 
+*** TURN *** [Qd 3h 5s] [4c]
+Jbravo902: checks 
+Nepfion: bets $0.11
+peterchina68: calls $0.11
+MelchiorF1: folds 
+Jbravo902: folds 
+*** RIVER *** [Qd 3h 5s 4c] [9c]
+Nepfion: checks 
+peterchina68: checks 
+*** SHOW DOWN ***
+Nepfion: shows [Kh Qc] (a pair of Queens)
+peterchina68: mucks hand 
+Nepfion collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [Qd 3h 5s 4c 9c]
+Seat 1: Jbravo902 (small blind) folded on the Turn
+Seat 4: Nepfion (big blind) showed [Kh Qc] and won ($0.37) with a pair of Queens
+Seat 5: Djek300 folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: peterchina68 mucked [7d As]
+Seat 9: MelchiorF1 (button) folded on the Turn
+
+
+
+PokerStars Hand #232734457320:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:09:39 PT [2022/01/02 1:09:39 ET]
+Table 'Chort V' 9-max Seat #1 is the button
+Seat 1: Jbravo902 ($2.17 in chips) 
+Seat 4: Nepfion ($2.55 in chips) 
+Seat 5: Djek300 ($2.06 in chips) 
+Seat 6: djkimera ($6.44 in chips) 
+Seat 7: Dorex2007 ($3.77 in chips) 
+Seat 8: peterchina68 ($0.96 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+Nepfion: posts small blind $0.01
+Djek300: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Ah]
+djkimera: folds 
+Dorex2007: folds 
+peterchina68: folds 
+MelchiorF1: folds 
+Jbravo902: folds 
+Nepfion: folds 
+Uncalled bet ($0.01) returned to Djek300
+Djek300 collected $0.02 from pot
+Djek300: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Jbravo902 (button) folded before Flop (didn't bet)
+Seat 4: Nepfion (small blind) folded before Flop
+Seat 5: Djek300 (big blind) collected ($0.02)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: peterchina68 folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734459991:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:09:57 PT [2022/01/02 1:09:57 ET]
+Table 'Chort V' 9-max Seat #4 is the button
+Seat 1: Jbravo902 ($2.17 in chips) 
+Seat 4: Nepfion ($2.54 in chips) 
+Seat 5: Djek300 ($2.07 in chips) 
+Seat 6: djkimera ($6.44 in chips) 
+Seat 7: Dorex2007 ($3.77 in chips) 
+Seat 8: peterchina68 ($0.96 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+Djek300: posts small blind $0.01
+djkimera: posts big blind $0.02
+andrey354: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 2h]
+Dorex2007: folds 
+peterchina68: folds 
+MelchiorF1: folds 
+Jbravo902: calls $0.02
+Nepfion: folds 
+Djek300: folds 
+djkimera: checks 
+*** FLOP *** [Qc Kh Tc]
+djkimera: checks 
+Jbravo902: checks 
+*** TURN *** [Qc Kh Tc] [As]
+djkimera: checks 
+Jbravo902: checks 
+*** RIVER *** [Qc Kh Tc As] [Jc]
+djkimera: checks 
+Jbravo902: bets $0.02
+djkimera: calls $0.02
+*** SHOW DOWN ***
+Jbravo902: shows [Th Ah] (a straight, Ten to Ace)
+djkimera: shows [7c 4h] (a straight, Ten to Ace)
+djkimera collected $0.05 from pot
+Jbravo902 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Qc Kh Tc As Jc]
+Seat 1: Jbravo902 showed [Th Ah] and won ($0.04) with a straight, Ten to Ace
+Seat 4: Nepfion (button) folded before Flop (didn't bet)
+Seat 5: Djek300 (small blind) folded before Flop
+Seat 6: djkimera (big blind) showed [7c 4h] and won ($0.05) with a straight, Ten to Ace
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: peterchina68 folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734466095:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:10:37 PT [2022/01/02 1:10:37 ET]
+Table 'Chort V' 9-max Seat #5 is the button
+Seat 1: Jbravo902 ($2.17 in chips) 
+Seat 4: Nepfion ($2.54 in chips) 
+Seat 5: Djek300 ($2.06 in chips) 
+Seat 6: djkimera ($6.45 in chips) 
+Seat 7: Dorex2007 ($3.77 in chips) 
+Seat 8: peterchina68 ($0.96 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+djkimera: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+andrey354: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Ac]
+peterchina68: calls $0.02
+MelchiorF1: folds 
+Jbravo902: folds 
+Nepfion: raises $0.04 to $0.06
+Djek300: folds 
+djkimera: raises $0.13 to $0.19
+Dorex2007: folds 
+peterchina68: folds 
+Nepfion: raises $0.15 to $0.34
+djkimera: calls $0.15
+*** FLOP *** [7c 5s 8s]
+djkimera: checks 
+Nepfion: bets $0.46
+djkimera: calls $0.46
+*** TURN *** [7c 5s 8s] [Ad]
+djkimera: checks 
+Nepfion: checks 
+*** RIVER *** [7c 5s 8s Ad] [2h]
+djkimera: checks 
+Nepfion: checks 
+*** SHOW DOWN ***
+djkimera: shows [Ks Qs] (high card Ace)
+Nepfion: shows [3h 3c] (a pair of Threes)
+Nepfion collected $1.58 from pot
+*** SUMMARY ***
+Total pot $1.64 | Rake $0.06 
+Board [7c 5s 8s Ad 2h]
+Seat 1: Jbravo902 folded before Flop (didn't bet)
+Seat 4: Nepfion showed [3h 3c] and won ($1.58) with a pair of Threes
+Seat 5: Djek300 (button) folded before Flop (didn't bet)
+Seat 6: djkimera (small blind) showed [Ks Qs] and lost with high card Ace
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: peterchina68 folded before Flop
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734476827:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:11:47 PT [2022/01/02 1:11:47 ET]
+Table 'Chort V' 9-max Seat #6 is the button
+Seat 1: Jbravo902 ($2.17 in chips) 
+Seat 4: Nepfion ($3.32 in chips) 
+Seat 5: Djek300 ($2.06 in chips) 
+Seat 6: djkimera ($5.65 in chips) 
+Seat 7: Dorex2007 ($3.75 in chips) 
+Seat 8: peterchina68 ($0.94 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+Dorex2007: posts small blind $0.01
+peterchina68: posts big blind $0.02
+andrey354: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Jd]
+MelchiorF1: folds 
+Jbravo902: calls $0.02
+Nepfion: folds 
+Djek300: calls $0.02
+djkimera: calls $0.02
+Dorex2007: calls $0.01
+peterchina68: checks 
+*** FLOP *** [8d 3c As]
+Dorex2007: checks 
+peterchina68: checks 
+Jbravo902: folds 
+Jbravo902 leaves the table
+Djek300: checks 
+djkimera: checks 
+*** TURN *** [8d 3c As] [2c]
+Dorex2007: bets $0.07
+peterchina68: folds 
+Djek300: calls $0.07
+djkimera: calls $0.07
+*** RIVER *** [8d 3c As 2c] [Qc]
+Dorex2007: checks 
+67boon joins the table at seat #1 
+Djek300: bets $0.06
+djkimera: raises $0.13 to $0.19
+Dorex2007: folds 
+Djek300: calls $0.13
+*** SHOW DOWN ***
+djkimera: shows [Kc 8c] (a flush, King high)
+Djek300: mucks hand 
+djkimera collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.02 
+Board [8d 3c As 2c Qc]
+Seat 1: Jbravo902 folded on the Flop
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: Djek300 mucked [7c 6c]
+Seat 6: djkimera (button) showed [Kc 8c] and won ($0.67) with a flush, King high
+Seat 7: Dorex2007 (small blind) folded on the River
+Seat 8: peterchina68 (big blind) folded on the Turn
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734490822:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:13:19 PT [2022/01/02 1:13:19 ET]
+Table 'Chort V' 9-max Seat #7 is the button
+Seat 1: 67boon ($1.02 in chips) 
+Seat 4: Nepfion ($3.32 in chips) 
+Seat 5: Djek300 ($2 in chips) 
+Seat 6: djkimera ($6.04 in chips) 
+Seat 7: Dorex2007 ($3.66 in chips) 
+Seat 8: peterchina68 ($0.92 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+peterchina68: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+67boon: posts big blind $0.02
+andrey354: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Ac]
+67boon: checks 
+Nepfion: folds 
+Djek300: raises $0.02 to $0.04
+djkimera: folds 
+Dorex2007: folds 
+peterchina68: calls $0.03
+MelchiorF1: folds 
+67boon: calls $0.02
+*** FLOP *** [Tc Jc 9h]
+peterchina68: checks 
+67boon: bets $0.06
+Djek300: calls $0.06
+peterchina68: folds 
+*** TURN *** [Tc Jc 9h] [Kh]
+67boon: bets $0.25
+Djek300: folds 
+Uncalled bet ($0.25) returned to 67boon
+67boon collected $0.25 from pot
+67boon: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [Tc Jc 9h Kh]
+Seat 1: 67boon collected ($0.25)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: Djek300 folded on the Turn
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: peterchina68 (small blind) folded on the Flop
+Seat 9: MelchiorF1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232734498682:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:14:11 PT [2022/01/02 1:14:11 ET]
+Table 'Chort V' 9-max Seat #8 is the button
+Seat 1: 67boon ($1.17 in chips) 
+Seat 4: Nepfion ($3.32 in chips) 
+Seat 5: Djek300 ($2 in chips) 
+Seat 6: djkimera ($6.04 in chips) 
+Seat 7: Dorex2007 ($3.66 in chips) 
+Seat 8: peterchina68 ($0.88 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+MelchiorF1: posts small blind $0.01
+67boon: posts big blind $0.02
+andrey354: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 4h]
+Nepfion: folds 
+Djek300: calls $0.02
+djkimera: calls $0.02
+Dorex2007: calls $0.02
+peterchina68: folds 
+MelchiorF1: raises $0.04 to $0.06
+67boon: folds 
+Djek300: calls $0.04
+djkimera: calls $0.04
+Dorex2007: calls $0.04
+*** FLOP *** [Td 3c 7h]
+MelchiorF1: checks 
+Djek300: checks 
+djkimera: checks 
+Dorex2007: checks 
+*** TURN *** [Td 3c 7h] [Ad]
+MelchiorF1: checks 
+Djek300: checks 
+djkimera: checks 
+Dorex2007: bets $0.06
+MelchiorF1: calls $0.06
+Djek300: calls $0.06
+djkimera: folds 
+*** RIVER *** [Td 3c 7h Ad] [8s]
+MelchiorF1: checks 
+Djek300: bets $0.08
+Dorex2007: folds 
+MelchiorF1: calls $0.08
+*** SHOW DOWN ***
+Djek300: shows [As Js] (a pair of Aces)
+MelchiorF1: mucks hand 
+Djek300 collected $0.58 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [Td 3c 7h Ad 8s]
+Seat 1: 67boon (big blind) folded before Flop
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: Djek300 showed [As Js] and won ($0.58) with a pair of Aces
+Seat 6: djkimera folded on the Turn
+Seat 7: Dorex2007 folded on the River
+Seat 8: peterchina68 (button) folded before Flop (didn't bet)
+Seat 9: MelchiorF1 (small blind) mucked [Ac 9c]
+
+
+
+PokerStars Hand #232734520293:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:16:05 PT [2022/01/02 1:16:05 ET]
+Table 'Chort V' 9-max Seat #9 is the button
+Seat 1: 67boon ($1.15 in chips) 
+Seat 2: andrey354 ($0.80 in chips) 
+Seat 4: Nepfion ($3.32 in chips) 
+Seat 5: Djek300 ($2.38 in chips) 
+Seat 6: djkimera ($5.98 in chips) 
+Seat 7: Dorex2007 ($3.54 in chips) 
+Seat 8: peterchina68 ($0.88 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+67boon: posts small blind $0.01
+andrey354: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 6d]
+Nepfion: folds 
+Djek300: folds 
+djkimera: folds 
+Dorex2007: folds 
+peterchina68: folds 
+MelchiorF1: folds 
+67boon: folds 
+Uncalled bet ($0.01) returned to andrey354
+andrey354 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: 67boon (small blind) folded before Flop
+Seat 2: andrey354 (big blind) collected ($0.02)
+Seat 4: Nepfion folded before Flop (didn't bet)
+Seat 5: Djek300 folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: peterchina68 folded before Flop (didn't bet)
+Seat 9: MelchiorF1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734523499:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:16:27 PT [2022/01/02 1:16:27 ET]
+Table 'Chort V' 9-max Seat #1 is the button
+Seat 1: 67boon ($1.14 in chips) 
+Seat 2: andrey354 ($0.81 in chips) 
+Seat 5: Djek300 ($2.38 in chips) 
+Seat 6: djkimera ($5.98 in chips) 
+Seat 7: Dorex2007 ($3.54 in chips) 
+Seat 8: peterchina68 ($0.88 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+andrey354: posts small blind $0.01
+Nepfion: is sitting out 
+Djek300: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 8h]
+djkimera: raises $0.03 to $0.05
+Nepfion leaves the table
+Dorex2007: folds 
+peterchina68: folds 
+MelchiorF1: calls $0.05
+67boon: folds 
+andrey354: folds 
+Djek300: folds 
+*** FLOP *** [6c 5d Qh]
+djkimera: bets $0.06
+MelchiorF1: calls $0.06
+*** TURN *** [6c 5d Qh] [9h]
+djkimera: checks 
+MelchiorF1: checks 
+*** RIVER *** [6c 5d Qh 9h] [2c]
+djkimera: checks 
+donkHype joins the table at seat #4 
+MelchiorF1: checks 
+*** SHOW DOWN ***
+djkimera: shows [6s 8s] (a pair of Sixes)
+MelchiorF1: mucks hand 
+djkimera collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6c 5d Qh 9h 2c]
+Seat 1: 67boon (button) folded before Flop (didn't bet)
+Seat 2: andrey354 (small blind) folded before Flop
+Seat 5: Djek300 (big blind) folded before Flop
+Seat 6: djkimera showed [6s 8s] and won ($0.24) with a pair of Sixes
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: peterchina68 folded before Flop (didn't bet)
+Seat 9: MelchiorF1 mucked [Ac Tc]
+
+
+
+PokerStars Hand #232734530733:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:17:14 PT [2022/01/02 1:17:14 ET]
+Table 'Chort V' 9-max Seat #2 is the button
+Seat 1: 67boon ($1.14 in chips) 
+Seat 2: andrey354 ($0.80 in chips) 
+Seat 5: Djek300 ($2.36 in chips) 
+Seat 6: djkimera ($6.11 in chips) 
+Seat 7: Dorex2007 ($3.54 in chips) 
+Seat 8: peterchina68 ($0.88 in chips) 
+Seat 9: MelchiorF1 ($2 in chips) 
+Djek300: posts small blind $0.01
+djkimera: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 4c]
+Dorex2007: folds 
+peterchina68: folds 
+MelchiorF1: raises $0.04 to $0.06
+67boon: calls $0.06
+andrey354: folds 
+Djek300: folds 
+djkimera: calls $0.04
+*** FLOP *** [6h Th 5d]
+djkimera: checks 
+MelchiorF1: bets $0.10
+67boon: calls $0.10
+djkimera: calls $0.10
+*** TURN *** [6h Th 5d] [Js]
+djkimera: checks 
+MelchiorF1: bets $0.37
+67boon: folds 
+djkimera: folds 
+Uncalled bet ($0.37) returned to MelchiorF1
+MelchiorF1 collected $0.47 from pot
+MelchiorF1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [6h Th 5d Js]
+Seat 1: 67boon folded on the Turn
+Seat 2: andrey354 (button) folded before Flop (didn't bet)
+Seat 5: Djek300 (small blind) folded before Flop
+Seat 6: djkimera (big blind) folded on the Turn
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: peterchina68 folded before Flop (didn't bet)
+Seat 9: MelchiorF1 collected ($0.47)
+
+
+
+PokerStars Hand #232734539587:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:18:11 PT [2022/01/02 1:18:11 ET]
+Table 'Chort V' 9-max Seat #5 is the button
+Seat 1: 67boon ($0.98 in chips) 
+Seat 2: andrey354 ($0.80 in chips) 
+Seat 5: Djek300 ($2.35 in chips) 
+Seat 6: djkimera ($5.95 in chips) 
+Seat 7: Dorex2007 ($3.54 in chips) 
+Seat 8: peterchina68 ($0.88 in chips) 
+Seat 9: MelchiorF1 ($2.31 in chips) 
+djkimera: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+donkHype: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Ah]
+peterchina68: calls $0.02
+MelchiorF1: folds 
+67boon: calls $0.02
+andrey354: folds 
+Djek300: folds 
+djkimera: folds 
+Dorex2007: checks 
+*** FLOP *** [Ad 4h 3h]
+Dorex2007: checks 
+peterchina68: checks 
+67boon: bets $0.02
+Dorex2007: calls $0.02
+peterchina68: calls $0.02
+*** TURN *** [Ad 4h 3h] [Td]
+Dorex2007: checks 
+peterchina68: checks 
+67boon: bets $0.07
+Dorex2007: calls $0.07
+peterchina68: folds 
+*** RIVER *** [Ad 4h 3h Td] [6d]
+Dorex2007: bets $0.13
+67boon: folds 
+Uncalled bet ($0.13) returned to Dorex2007
+Dorex2007 collected $0.26 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Ad 4h 3h Td 6d]
+Seat 1: 67boon folded on the River
+Seat 2: andrey354 folded before Flop (didn't bet)
+Seat 5: Djek300 (button) folded before Flop (didn't bet)
+Seat 6: djkimera (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) collected ($0.26)
+Seat 8: peterchina68 folded on the Turn
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734549818:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:19:19 PT [2022/01/02 1:19:19 ET]
+Table 'Chort V' 9-max Seat #6 is the button
+Seat 1: 67boon ($0.87 in chips) 
+Seat 2: andrey354 ($0.80 in chips) 
+Seat 5: Djek300 ($2.35 in chips) 
+Seat 6: djkimera ($5.94 in chips) 
+Seat 7: Dorex2007 ($3.69 in chips) 
+Seat 8: peterchina68 ($0.84 in chips) 
+Seat 9: MelchiorF1 ($2.31 in chips) 
+Dorex2007: posts small blind $0.01
+peterchina68: posts big blind $0.02
+donkHype: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Tc]
+MelchiorF1: folds 
+67boon: calls $0.02
+andrey354: folds 
+Djek300: folds 
+cho-kchero is disconnected 
+djkimera: raises $0.09 to $0.11
+Dorex2007: folds 
+peterchina68: folds 
+67boon: calls $0.09
+*** FLOP *** [6d 8s 9s]
+67boon: checks 
+djkimera: checks 
+*** TURN *** [6d 8s 9s] [3s]
+67boon: bets $0.76 and is all-in
+djkimera: folds 
+Uncalled bet ($0.76) returned to 67boon
+67boon collected $0.24 from pot
+67boon: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6d 8s 9s 3s]
+Seat 1: 67boon collected ($0.24)
+Seat 2: andrey354 folded before Flop (didn't bet)
+Seat 5: Djek300 folded before Flop (didn't bet)
+Seat 6: djkimera (button) folded on the Turn
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: peterchina68 (big blind) folded before Flop
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734557846:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:20:12 PT [2022/01/02 1:20:12 ET]
+Table 'Chort V' 9-max Seat #7 is the button
+Seat 1: 67boon ($1 in chips) 
+Seat 2: andrey354 ($0.80 in chips) 
+Seat 5: Djek300 ($2.35 in chips) 
+Seat 6: djkimera ($5.83 in chips) 
+Seat 7: Dorex2007 ($3.68 in chips) 
+Seat 8: peterchina68 ($0.82 in chips) 
+Seat 9: MelchiorF1 ($2.31 in chips) 
+peterchina68: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+donkHype: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 9c]
+67boon: folds 
+andrey354: folds 
+Djek300: calls $0.02
+djkimera: folds 
+Dorex2007: folds 
+peterchina68: calls $0.01
+MelchiorF1: checks 
+*** FLOP *** [4s 8c Ac]
+peterchina68: checks 
+MelchiorF1: checks 
+Djek300: checks 
+*** TURN *** [4s 8c Ac] [Jd]
+peterchina68: checks 
+MelchiorF1: checks 
+Djek300: checks 
+*** RIVER *** [4s 8c Ac Jd] [Ad]
+peterchina68: checks 
+MelchiorF1: checks 
+Djek300: checks 
+*** SHOW DOWN ***
+peterchina68: shows [Kd 9s] (a pair of Aces)
+MelchiorF1: shows [3s 8h] (two pair, Aces and Eights)
+Djek300: mucks hand 
+MelchiorF1 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [4s 8c Ac Jd Ad]
+Seat 1: 67boon folded before Flop (didn't bet)
+Seat 2: andrey354 folded before Flop (didn't bet)
+Seat 5: Djek300 mucked [Ks Qh]
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: peterchina68 (small blind) showed [Kd 9s] and lost with a pair of Aces
+Seat 9: MelchiorF1 (big blind) showed [3s 8h] and won ($0.06) with two pair, Aces and Eights
+
+
+
+PokerStars Hand #232734566093:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:21:05 PT [2022/01/02 1:21:05 ET]
+Table 'Chort V' 9-max Seat #8 is the button
+Seat 1: 67boon ($1 in chips) 
+Seat 2: andrey354 ($0.80 in chips) 
+Seat 5: Djek300 ($2.33 in chips) 
+Seat 6: djkimera ($5.83 in chips) 
+Seat 7: Dorex2007 ($3.68 in chips) 
+Seat 8: peterchina68 ($0.80 in chips) 
+Seat 9: MelchiorF1 ($2.35 in chips) 
+MelchiorF1: posts small blind $0.01
+67boon: posts big blind $0.02
+donkHype: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts Qc]
+andrey354: folds 
+Djek300: folds 
+djkimera: folds 
+Dorex2007: folds 
+peterchina68: folds 
+MelchiorF1: folds 
+Uncalled bet ($0.01) returned to 67boon
+67boon collected $0.02 from pot
+67boon: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: 67boon (big blind) collected ($0.02)
+Seat 2: andrey354 folded before Flop (didn't bet)
+Seat 5: Djek300 folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: peterchina68 (button) folded before Flop (didn't bet)
+Seat 9: MelchiorF1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232734567490:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:21:14 PT [2022/01/02 1:21:14 ET]
+Table 'Chort V' 9-max Seat #9 is the button
+Seat 1: 67boon ($1.01 in chips) 
+Seat 2: andrey354 ($0.80 in chips) 
+Seat 5: Djek300 ($2.33 in chips) 
+Seat 6: djkimera ($5.83 in chips) 
+Seat 7: Dorex2007 ($3.68 in chips) 
+Seat 8: peterchina68 ($0.80 in chips) 
+Seat 9: MelchiorF1 ($2.34 in chips) 
+67boon: posts small blind $0.01
+andrey354: posts big blind $0.02
+donkHype: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 9d]
+Djek300: folds 
+djkimera: folds 
+Dorex2007: folds 
+peterchina68: folds 
+MelchiorF1: folds 
+67boon: calls $0.01
+andrey354: raises $0.78 to $0.80 and is all-in
+67boon: folds 
+Uncalled bet ($0.78) returned to andrey354
+andrey354 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: 67boon (small blind) folded before Flop
+Seat 2: andrey354 (big blind) collected ($0.04)
+Seat 5: Djek300 folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: peterchina68 folded before Flop (didn't bet)
+Seat 9: MelchiorF1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734570730:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:21:35 PT [2022/01/02 1:21:35 ET]
+Table 'Chort V' 9-max Seat #1 is the button
+Seat 1: 67boon ($0.99 in chips) 
+Seat 2: andrey354 ($0.82 in chips) 
+Seat 4: donkHype ($2 in chips) 
+Seat 5: Djek300 ($2.33 in chips) 
+Seat 6: djkimera ($5.83 in chips) 
+Seat 7: Dorex2007 ($3.68 in chips) 
+Seat 8: peterchina68 ($0.80 in chips) 
+Seat 9: MelchiorF1 ($2.34 in chips) 
+andrey354: posts small blind $0.01
+donkHype: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts Qc]
+Djek300: calls $0.02
+djkimera: folds 
+Dorex2007: folds 
+peterchina68: raises $0.04 to $0.06
+MelchiorF1: folds 
+67boon: calls $0.06
+andrey354: folds 
+donkHype: folds 
+Djek300: calls $0.04
+*** FLOP *** [2c Kd 2d]
+Djek300: checks 
+peterchina68: checks 
+67boon: checks 
+*** TURN *** [2c Kd 2d] [Qh]
+Djek300: checks 
+peterchina68: checks 
+67boon: checks 
+*** RIVER *** [2c Kd 2d Qh] [2s]
+Djek300: bets $0.02
+peterchina68: folds 
+67boon: folds 
+Uncalled bet ($0.02) returned to Djek300
+Djek300 collected $0.20 from pot
+cho-kchero leaves the table
+Djek300: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [2c Kd 2d Qh 2s]
+Seat 1: 67boon (button) folded on the River
+Seat 2: andrey354 (small blind) folded before Flop
+Seat 4: donkHype (big blind) folded before Flop
+Seat 5: Djek300 collected ($0.20)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: peterchina68 folded on the River
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734581153:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:22:43 PT [2022/01/02 1:22:43 ET]
+Table 'Chort V' 9-max Seat #2 is the button
+Seat 1: 67boon ($0.93 in chips) 
+Seat 2: andrey354 ($0.81 in chips) 
+Seat 4: donkHype ($1.98 in chips) 
+Seat 5: Djek300 ($2.47 in chips) 
+Seat 6: djkimera ($5.83 in chips) 
+Seat 7: Dorex2007 ($3.68 in chips) 
+Seat 8: peterchina68 ($0.74 in chips) 
+Seat 9: MelchiorF1 ($2.34 in chips) 
+donkHype: posts small blind $0.01
+Djek300: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Kc]
+djkimera: folds 
+Dorex2007: folds 
+peterchina68: calls $0.02
+MelchiorF1: folds 
+67boon: folds 
+andrey354: calls $0.02
+donkHype: folds 
+Djek300: checks 
+*** FLOP *** [3h Ac 3c]
+Djek300: checks 
+peterchina68: bets $0.04
+andrey354: folds 
+kiling1 joins the table at seat #3 
+Djek300: calls $0.04
+*** TURN *** [3h Ac 3c] [3d]
+Djek300: checks 
+peterchina68: bets $0.07
+Djek300: folds 
+Uncalled bet ($0.07) returned to peterchina68
+peterchina68 collected $0.14 from pot
+peterchina68: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3h Ac 3c 3d]
+Seat 1: 67boon folded before Flop (didn't bet)
+Seat 2: andrey354 (button) folded on the Flop
+Seat 4: donkHype (small blind) folded before Flop
+Seat 5: Djek300 (big blind) folded on the Turn
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: peterchina68 collected ($0.14)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734590067:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:23:41 PT [2022/01/02 1:23:41 ET]
+Table 'Chort V' 9-max Seat #4 is the button
+Seat 1: 67boon ($0.93 in chips) 
+Seat 2: andrey354 ($0.79 in chips) 
+Seat 4: donkHype ($1.97 in chips) 
+Seat 5: Djek300 ($2.41 in chips) 
+Seat 6: djkimera ($5.83 in chips) 
+Seat 7: Dorex2007 ($3.68 in chips) 
+Seat 8: peterchina68 ($0.82 in chips) 
+Seat 9: MelchiorF1 ($2.34 in chips) 
+Djek300: posts small blind $0.01
+djkimera: posts big blind $0.02
+kiling1: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Kc]
+Dorex2007: folds 
+peterchina68: calls $0.02
+MelchiorF1: folds 
+67boon: calls $0.02
+andrey354: calls $0.02
+donkHype: folds 
+Djek300: folds 
+djkimera: checks 
+*** FLOP *** [Qc Tc 2s]
+djkimera: checks 
+peterchina68: checks 
+67boon: checks 
+andrey354: checks 
+*** TURN *** [Qc Tc 2s] [2c]
+djkimera: bets $0.05
+peterchina68: folds 
+67boon: folds 
+andrey354: folds 
+Uncalled bet ($0.05) returned to djkimera
+djkimera collected $0.09 from pot
+djkimera: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Qc Tc 2s 2c]
+Seat 1: 67boon folded on the Turn
+Seat 2: andrey354 folded on the Turn
+Seat 4: donkHype (button) folded before Flop (didn't bet)
+Seat 5: Djek300 (small blind) folded before Flop
+Seat 6: djkimera (big blind) collected ($0.09)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: peterchina68 folded on the Turn
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734597330:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:24:28 PT [2022/01/02 1:24:28 ET]
+Table 'Chort V' 9-max Seat #5 is the button
+Seat 1: 67boon ($0.91 in chips) 
+Seat 2: andrey354 ($0.77 in chips) 
+Seat 4: donkHype ($1.97 in chips) 
+Seat 5: Djek300 ($2.40 in chips) 
+Seat 6: djkimera ($5.90 in chips) 
+Seat 7: Dorex2007 ($3.68 in chips) 
+Seat 8: peterchina68 ($0.80 in chips) 
+Seat 9: MelchiorF1 ($2.34 in chips) 
+djkimera: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+kiling1: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 2c]
+peterchina68: calls $0.02
+MelchiorF1: folds 
+67boon: raises $0.07 to $0.09
+andrey354: folds 
+donkHype: folds 
+Djek300: folds 
+djkimera: folds 
+Dorex2007: folds 
+peterchina68: calls $0.07
+*** FLOP *** [9c 3h Qd]
+peterchina68: checks 
+67boon: bets $0.14
+peterchina68: folds 
+Uncalled bet ($0.14) returned to 67boon
+67boon collected $0.20 from pot
+67boon: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [9c 3h Qd]
+Seat 1: 67boon collected ($0.20)
+Seat 2: andrey354 folded before Flop (didn't bet)
+Seat 4: donkHype folded before Flop (didn't bet)
+Seat 5: Djek300 (button) folded before Flop (didn't bet)
+Seat 6: djkimera (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: peterchina68 folded on the Flop
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734603006:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:25:05 PT [2022/01/02 1:25:05 ET]
+Table 'Chort V' 9-max Seat #6 is the button
+Seat 1: 67boon ($1.02 in chips) 
+Seat 2: andrey354 ($0.77 in chips) 
+Seat 4: donkHype ($1.97 in chips) 
+Seat 5: Djek300 ($2.40 in chips) 
+Seat 6: djkimera ($5.89 in chips) 
+Seat 7: Dorex2007 ($3.66 in chips) 
+Seat 8: peterchina68 ($0.71 in chips) 
+Seat 9: MelchiorF1 ($2.34 in chips) 
+Dorex2007: posts small blind $0.01
+peterchina68: posts big blind $0.02
+kiling1: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h As]
+MelchiorF1: folds 
+67boon: folds 
+andrey354: folds 
+donkHype: folds 
+Djek300: folds 
+djkimera: raises $0.03 to $0.05
+Dorex2007: folds 
+peterchina68: folds 
+Uncalled bet ($0.03) returned to djkimera
+djkimera collected $0.05 from pot
+djkimera: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: 67boon folded before Flop (didn't bet)
+Seat 2: andrey354 folded before Flop (didn't bet)
+Seat 4: donkHype folded before Flop (didn't bet)
+Seat 5: Djek300 folded before Flop (didn't bet)
+Seat 6: djkimera (button) collected ($0.05)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: peterchina68 (big blind) folded before Flop
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734606823:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:25:30 PT [2022/01/02 1:25:30 ET]
+Table 'Chort V' 9-max Seat #7 is the button
+Seat 1: 67boon ($1.02 in chips) 
+Seat 2: andrey354 ($0.77 in chips) 
+Seat 4: donkHype ($1.97 in chips) 
+Seat 5: Djek300 ($2.40 in chips) 
+Seat 6: djkimera ($5.92 in chips) 
+Seat 7: Dorex2007 ($3.65 in chips) 
+Seat 8: peterchina68 ($0.69 in chips) 
+Seat 9: MelchiorF1 ($2.34 in chips) 
+peterchina68: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+kiling1: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Ks]
+67boon: folds 
+andrey354: folds 
+donkHype: folds 
+Djek300: folds 
+djkimera: folds 
+Dorex2007: folds 
+peterchina68: calls $0.01
+MelchiorF1: checks 
+*** FLOP *** [9h 4s 4d]
+peterchina68: checks 
+MelchiorF1: checks 
+*** TURN *** [9h 4s 4d] [Tc]
+peterchina68: checks 
+MelchiorF1: checks 
+*** RIVER *** [9h 4s 4d Tc] [Qd]
+peterchina68: bets $0.04
+MelchiorF1: folds 
+Uncalled bet ($0.04) returned to peterchina68
+peterchina68 collected $0.04 from pot
+peterchina68: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [9h 4s 4d Tc Qd]
+Seat 1: 67boon folded before Flop (didn't bet)
+Seat 2: andrey354 folded before Flop (didn't bet)
+Seat 4: donkHype folded before Flop (didn't bet)
+Seat 5: Djek300 folded before Flop (didn't bet)
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: peterchina68 (small blind) collected ($0.04)
+Seat 9: MelchiorF1 (big blind) folded on the River
+
+
+
+PokerStars Hand #232734615625:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:26:27 PT [2022/01/02 1:26:27 ET]
+Table 'Chort V' 9-max Seat #8 is the button
+Seat 1: 67boon ($1.02 in chips) 
+Seat 2: andrey354 ($0.77 in chips) 
+Seat 4: donkHype ($1.97 in chips) 
+Seat 5: Djek300 ($2.40 in chips) 
+Seat 6: djkimera ($5.92 in chips) 
+Seat 7: Dorex2007 ($3.65 in chips) 
+Seat 8: peterchina68 ($0.71 in chips) 
+Seat 9: MelchiorF1 ($2.32 in chips) 
+MelchiorF1: posts small blind $0.01
+67boon: posts big blind $0.02
+kiling1: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Jc]
+andrey354: folds 
+andrey354 leaves the table
+donkHype: folds 
+Djek300: calls $0.02
+djkimera: folds 
+Dorex2007: calls $0.02
+peterchina68: folds 
+MelchiorF1: raises $0.04 to $0.06
+67boon: folds 
+Djek300: calls $0.04
+Dorex2007: calls $0.04
+*** FLOP *** [Ah 7s 2s]
+MelchiorF1: bets $0.07
+Djek300: folds 
+Dorex2007: folds 
+Uncalled bet ($0.07) returned to MelchiorF1
+MelchiorF1 collected $0.19 from pot
+MelchiorF1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Ah 7s 2s]
+Seat 1: 67boon (big blind) folded before Flop
+Seat 2: andrey354 folded before Flop (didn't bet)
+Seat 4: donkHype folded before Flop (didn't bet)
+Seat 5: Djek300 folded on the Flop
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded on the Flop
+Seat 8: peterchina68 (button) folded before Flop (didn't bet)
+Seat 9: MelchiorF1 (small blind) collected ($0.19)
+
+
+
+PokerStars Hand #232734624872:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:27:10 PT [2022/01/02 1:27:10 ET]
+Table 'Chort V' 9-max Seat #9 is the button
+Seat 1: 67boon ($1 in chips) 
+Seat 3: kiling1 ($2 in chips) 
+Seat 4: donkHype ($1.97 in chips) 
+Seat 5: Djek300 ($2.34 in chips) 
+Seat 6: djkimera ($5.92 in chips) 
+Seat 7: Dorex2007 ($3.59 in chips) 
+Seat 8: peterchina68 ($0.71 in chips) 
+Seat 9: MelchiorF1 ($2.45 in chips) 
+67boon: posts small blind $0.01
+kiling1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 5d]
+donkHype: folds 
+Djek300: folds 
+djkimera: raises $0.03 to $0.05
+Dorex2007: folds 
+peterchina68: folds 
+peterchina68 leaves the table
+MelchiorF1: calls $0.05
+67boon: calls $0.04
+kiling1: folds 
+*** FLOP *** [4d 2d 5s]
+67boon: checks 
+djkimera: checks 
+MelchiorF1: checks 
+*** TURN *** [4d 2d 5s] [9d]
+67boon: checks 
+djkimera: bets $0.08
+MelchiorF1: folds 
+67boon: folds 
+Uncalled bet ($0.08) returned to djkimera
+djkimera collected $0.16 from pot
+djkimera: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [4d 2d 5s 9d]
+Seat 1: 67boon (small blind) folded on the Turn
+Seat 3: kiling1 (big blind) folded before Flop
+Seat 4: donkHype folded before Flop (didn't bet)
+Seat 5: Djek300 folded before Flop (didn't bet)
+Seat 6: djkimera collected ($0.16)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: peterchina68 folded before Flop (didn't bet)
+Seat 9: MelchiorF1 (button) folded on the Turn
+
+
+
+PokerStars Hand #232734633601:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:28:08 PT [2022/01/02 1:28:08 ET]
+Table 'Chort V' 9-max Seat #1 is the button
+Seat 1: 67boon ($0.95 in chips) 
+Seat 3: kiling1 ($1.98 in chips) 
+Seat 4: donkHype ($1.97 in chips) 
+Seat 5: Djek300 ($2.34 in chips) 
+Seat 6: djkimera ($6.03 in chips) 
+Seat 7: Dorex2007 ($3.59 in chips) 
+Seat 9: MelchiorF1 ($2.40 in chips) 
+kiling1: posts small blind $0.01
+donkHype: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Ah]
+Djek300: folds 
+djkimera: raises $0.03 to $0.05
+Dorex2007: folds 
+MelchiorF1: folds 
+67boon: calls $0.05
+kiling1: folds 
+donkHype: folds 
+*** FLOP *** [3d 9s Td]
+djkimera: bets $0.06
+67boon: calls $0.06
+*** TURN *** [3d 9s Td] [5s]
+djkimera: bets $0.11
+67boon: raises $0.73 to $0.84 and is all-in
+djkimera: calls $0.73
+*** RIVER *** [3d 9s Td 5s] [Kh]
+*** SHOW DOWN ***
+djkimera: shows [Qs Js] (a straight, Nine to King)
+67boon: shows [6h Th] (a pair of Tens)
+djkimera collected $1.86 from pot
+*** SUMMARY ***
+Total pot $1.93 | Rake $0.07 
+Board [3d 9s Td 5s Kh]
+Seat 1: 67boon (button) showed [6h Th] and lost with a pair of Tens
+Seat 3: kiling1 (small blind) folded before Flop
+Seat 4: donkHype (big blind) folded before Flop
+Seat 5: Djek300 folded before Flop (didn't bet)
+Seat 6: djkimera showed [Qs Js] and won ($1.86) with a straight, Nine to King
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734641277:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:28:58 PT [2022/01/02 1:28:58 ET]
+Table 'Chort V' 9-max Seat #3 is the button
+Seat 3: kiling1 ($1.97 in chips) 
+Seat 4: donkHype ($1.95 in chips) 
+Seat 5: Djek300 ($2.34 in chips) 
+Seat 6: djkimera ($6.94 in chips) 
+Seat 7: Dorex2007 ($3.59 in chips) 
+Seat 9: MelchiorF1 ($2.40 in chips) 
+donkHype: posts small blind $0.01
+Djek300: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Js]
+djkimera: folds 
+Dorex2007: raises $0.04 to $0.06
+MelchiorF1: calls $0.06
+67boon leaves the table
+kiling1: calls $0.06
+donkHype: folds 
+Djek300: folds 
+*** FLOP *** [8h As Ac]
+Dorex2007: checks 
+MelchiorF1: checks 
+kiling1: checks 
+*** TURN *** [8h As Ac] [Tc]
+Dorex2007: bets $0.10
+MelchiorF1: folds 
+kiling1: folds 
+Uncalled bet ($0.10) returned to Dorex2007
+Dorex2007 collected $0.20 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [8h As Ac Tc]
+Seat 3: kiling1 (button) folded on the Turn
+Seat 4: donkHype (small blind) folded before Flop
+Seat 5: Djek300 (big blind) folded before Flop
+Seat 6: djkimera folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.20)
+Seat 9: MelchiorF1 folded on the Turn
+
+
+
+PokerStars Hand #232734648570:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:29:47 PT [2022/01/02 1:29:47 ET]
+Table 'Chort V' 9-max Seat #4 is the button
+Seat 3: kiling1 ($1.91 in chips) 
+Seat 4: donkHype ($2 in chips) 
+Seat 5: Djek300 ($2.32 in chips) 
+Seat 7: Dorex2007 ($3.73 in chips) 
+Seat 9: MelchiorF1 ($2.34 in chips) 
+Djek300: posts small blind $0.01
+djkimera: is sitting out 
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c Qc]
+djkimera leaves the table
+MelchiorF1: folds 
+kiling1: calls $0.02
+donkHype: folds 
+Djek300: folds 
+Dorex2007: checks 
+*** FLOP *** [5d 4d Ks]
+Dorex2007: checks 
+kiling1: checks 
+*** TURN *** [5d 4d Ks] [2d]
+Dorex2007: checks 
+kiling1: checks 
+*** RIVER *** [5d 4d Ks 2d] [3d]
+Dorex2007: bets $0.03
+kiling1: folds 
+Uncalled bet ($0.03) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5d 4d Ks 2d 3d]
+Seat 3: kiling1 folded on the River
+Seat 4: donkHype (button) folded before Flop (didn't bet)
+Seat 5: Djek300 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) collected ($0.05)
+Seat 9: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232734659369:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 22:30:58 PT [2022/01/02 1:30:58 ET]
+Table 'Chort V' 9-max Seat #5 is the button
+Seat 3: kiling1 ($1.89 in chips) 
+Seat 4: donkHype ($2 in chips) 
+Seat 5: Djek300 ($2.31 in chips) 
+Seat 7: Dorex2007 ($3.76 in chips) 
+Seat 9: MelchiorF1 ($2.34 in chips) 
+Dorex2007: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Ad]
+kiling1: folds 
+donkHype: folds 
+Djek300: folds 
+Dorex2007: raises $0.04 to $0.06
+MelchiorF1: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.04 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: donkHype folded before Flop (didn't bet)
+Seat 5: Djek300 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) collected ($0.04)
+Seat 9: MelchiorF1 (big blind) folded before Flop
+
+
+

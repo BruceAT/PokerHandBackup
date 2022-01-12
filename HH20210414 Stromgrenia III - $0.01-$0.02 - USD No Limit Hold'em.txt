@@ -1,0 +1,1875 @@
+﻿PokerStars Hand #225846659583:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:32:36 PT [2021/04/14 20:32:36 ET]
+Table 'Stromgrenia III' 9-max Seat #5 is the button
+Seat 1: VEMenshikov ($2.71 in chips) 
+Seat 2: flacoboris ($3.96 in chips) 
+Seat 3: Dorex2007 ($1.50 in chips) 
+Seat 4: mataski ($0.70 in chips) 
+Seat 5: HardMickey83 ($1.16 in chips) 
+Seat 6: baligo666 ($2.15 in chips) 
+Seat 7: SIALPHDO ($1.99 in chips) 
+Seat 9: TRUBACH ($0.55 in chips) 
+baligo666: posts small blind $0.01
+SIALPHDO: posts big blind $0.02
+mahspace: sits out 
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Ah]
+TRUBACH: folds 
+VEMenshikov: folds 
+flacoboris: folds 
+Dorex2007: raises $0.04 to $0.06
+mataski: folds 
+HardMickey83: calls $0.06
+baligo666: calls $0.05
+SIALPHDO: folds 
+*** FLOP *** [9s 7c Kd]
+baligo666: checks 
+Dorex2007: checks 
+HardMickey83: checks 
+*** TURN *** [9s 7c Kd] [Td]
+baligo666: checks 
+Dorex2007: bets $0.02
+HardMickey83: folds 
+baligo666: calls $0.02
+*** RIVER *** [9s 7c Kd Td] [5c]
+baligo666: checks 
+Dorex2007: bets $0.02
+baligo666: calls $0.02
+*** SHOW DOWN ***
+Dorex2007: shows [Qh Ah] (high card Ace)
+baligo666: shows [Th Qs] (a pair of Tens)
+baligo666 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [9s 7c Kd Td 5c]
+Seat 1: VEMenshikov folded before Flop (didn't bet)
+Seat 2: flacoboris folded before Flop (didn't bet)
+Seat 3: Dorex2007 showed [Qh Ah] and lost with high card Ace
+Seat 4: mataski folded before Flop (didn't bet)
+Seat 5: HardMickey83 (button) folded on the Turn
+Seat 6: baligo666 (small blind) showed [Th Qs] and won ($0.27) with a pair of Tens
+Seat 7: SIALPHDO (big blind) folded before Flop
+Seat 9: TRUBACH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225846687655:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:34:08 PT [2021/04/14 20:34:08 ET]
+Table 'Stromgrenia III' 9-max Seat #6 is the button
+Seat 1: VEMenshikov ($2.71 in chips) 
+Seat 2: flacoboris ($3.96 in chips) 
+Seat 3: Dorex2007 ($1.40 in chips) 
+Seat 4: mataski ($0.70 in chips) 
+Seat 5: HardMickey83 ($1.10 in chips) 
+Seat 6: baligo666 ($2.32 in chips) 
+Seat 7: SIALPHDO ($1.97 in chips) 
+Seat 8: mahspace ($2 in chips) 
+Seat 9: TRUBACH ($0.55 in chips) 
+SIALPHDO: posts small blind $0.01
+mahspace: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 6d]
+TRUBACH: folds 
+VEMenshikov: folds 
+flacoboris: folds 
+Dorex2007: folds 
+mataski: calls $0.02
+HardMickey83: raises $0.06 to $0.08
+baligo666: folds 
+SIALPHDO: folds 
+mahspace: folds 
+mataski: folds 
+Uncalled bet ($0.06) returned to HardMickey83
+HardMickey83 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: VEMenshikov folded before Flop (didn't bet)
+Seat 2: flacoboris folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: mataski folded before Flop
+Seat 5: HardMickey83 collected ($0.07)
+Seat 6: baligo666 (button) folded before Flop (didn't bet)
+Seat 7: SIALPHDO (small blind) folded before Flop
+Seat 8: mahspace (big blind) folded before Flop
+Seat 9: TRUBACH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225846697277:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:34:39 PT [2021/04/14 20:34:39 ET]
+Table 'Stromgrenia III' 9-max Seat #7 is the button
+Seat 1: VEMenshikov ($2.71 in chips) 
+Seat 2: flacoboris ($3.96 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: mataski ($0.68 in chips) 
+Seat 5: HardMickey83 ($1.15 in chips) 
+Seat 6: baligo666 ($2.32 in chips) 
+Seat 7: SIALPHDO ($1.96 in chips) 
+Seat 8: mahspace ($1.98 in chips) 
+Seat 9: TRUBACH ($0.55 in chips) 
+mahspace: posts small blind $0.01
+TRUBACH: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 7h]
+VEMenshikov: raises $0.04 to $0.06
+flacoboris: folds 
+Dorex2007: folds 
+mataski: folds 
+HardMickey83: folds 
+baligo666: folds 
+SIALPHDO: folds 
+mahspace: folds 
+TRUBACH: folds 
+Uncalled bet ($0.04) returned to VEMenshikov
+VEMenshikov collected $0.05 from pot
+VEMenshikov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: VEMenshikov collected ($0.05)
+Seat 2: flacoboris folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: mataski folded before Flop (didn't bet)
+Seat 5: HardMickey83 folded before Flop (didn't bet)
+Seat 6: baligo666 folded before Flop (didn't bet)
+Seat 7: SIALPHDO (button) folded before Flop (didn't bet)
+Seat 8: mahspace (small blind) folded before Flop
+Seat 9: TRUBACH (big blind) folded before Flop
+
+
+
+PokerStars Hand #225846704895:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:35:04 PT [2021/04/14 20:35:04 ET]
+Table 'Stromgrenia III' 9-max Seat #8 is the button
+Seat 1: VEMenshikov ($2.74 in chips) 
+Seat 2: flacoboris ($3.96 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: mataski ($0.68 in chips) 
+Seat 5: HardMickey83 ($1.15 in chips) 
+Seat 6: baligo666 ($2.32 in chips) 
+Seat 7: SIALPHDO ($1.96 in chips) 
+Seat 8: mahspace ($1.97 in chips) 
+Seat 9: TRUBACH ($0.53 in chips) 
+TRUBACH: posts small blind $0.01
+VEMenshikov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd As]
+flacoboris: folds 
+Dorex2007: raises $0.04 to $0.06
+mataski: folds 
+HardMickey83: folds 
+baligo666: folds 
+SIALPHDO: calls $0.06
+mahspace: folds 
+TRUBACH: folds 
+VEMenshikov: calls $0.04
+*** FLOP *** [Jc Qd 9c]
+VEMenshikov: bets $0.14
+Dorex2007: calls $0.14
+SIALPHDO: folds 
+*** TURN *** [Jc Qd 9c] [3h]
+VEMenshikov: checks 
+Dorex2007: checks 
+*** RIVER *** [Jc Qd 9c 3h] [6d]
+VEMenshikov: bets $0.23
+Dorex2007: raises $0.23 to $0.46
+VEMenshikov: calls $0.23
+*** SHOW DOWN ***
+Dorex2007: shows [Kd As] (high card Ace)
+VEMenshikov: shows [Ad Qc] (a pair of Queens)
+VEMenshikov collected $1.34 from pot
+*** SUMMARY ***
+Total pot $1.39 | Rake $0.05 
+Board [Jc Qd 9c 3h 6d]
+Seat 1: VEMenshikov (big blind) showed [Ad Qc] and won ($1.34) with a pair of Queens
+Seat 2: flacoboris folded before Flop (didn't bet)
+Seat 3: Dorex2007 showed [Kd As] and lost with high card Ace
+Seat 4: mataski folded before Flop (didn't bet)
+Seat 5: HardMickey83 folded before Flop (didn't bet)
+Seat 6: baligo666 folded before Flop (didn't bet)
+Seat 7: SIALPHDO folded on the Flop
+Seat 8: mahspace (button) folded before Flop (didn't bet)
+Seat 9: TRUBACH (small blind) folded before Flop
+
+
+
+PokerStars Hand #225846726236:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:35:57 PT [2021/04/14 20:35:57 ET]
+Table 'Stromgrenia III' 9-max Seat #9 is the button
+Seat 1: VEMenshikov ($3.42 in chips) 
+Seat 2: flacoboris ($3.96 in chips) 
+Seat 3: Dorex2007 ($1.34 in chips) 
+Seat 4: mataski ($0.68 in chips) 
+Seat 5: HardMickey83 ($1.15 in chips) 
+Seat 6: baligo666 ($2.32 in chips) 
+Seat 7: SIALPHDO ($1.90 in chips) 
+Seat 8: mahspace ($1.97 in chips) 
+Seat 9: TRUBACH ($0.52 in chips) 
+VEMenshikov: posts small blind $0.01
+flacoboris: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 2h]
+Dorex2007: folds 
+mataski: folds 
+HardMickey83: folds 
+baligo666: folds 
+SIALPHDO: folds 
+mahspace: folds 
+TRUBACH: calls $0.02
+VEMenshikov: raises $0.04 to $0.06
+flacoboris: folds 
+TRUBACH: calls $0.04
+*** FLOP *** [Qc Kd 8d]
+VEMenshikov: checks 
+TRUBACH: bets $0.07
+VEMenshikov: folds 
+Uncalled bet ($0.07) returned to TRUBACH
+TRUBACH collected $0.14 from pot
+TRUBACH: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Qc Kd 8d]
+Seat 1: VEMenshikov (small blind) folded on the Flop
+Seat 2: flacoboris (big blind) folded before Flop
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: mataski folded before Flop (didn't bet)
+Seat 5: HardMickey83 folded before Flop (didn't bet)
+Seat 6: baligo666 folded before Flop (didn't bet)
+Seat 7: SIALPHDO folded before Flop (didn't bet)
+Seat 8: mahspace folded before Flop (didn't bet)
+Seat 9: TRUBACH (button) collected ($0.14)
+
+
+
+PokerStars Hand #225846740344:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:36:44 PT [2021/04/14 20:36:44 ET]
+Table 'Stromgrenia III' 9-max Seat #1 is the button
+Seat 1: VEMenshikov ($3.36 in chips) 
+Seat 2: flacoboris ($3.94 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: mataski ($0.68 in chips) 
+Seat 5: HardMickey83 ($1.15 in chips) 
+Seat 6: baligo666 ($2.32 in chips) 
+Seat 7: SIALPHDO ($1.90 in chips) 
+Seat 8: mahspace ($1.97 in chips) 
+Seat 9: TRUBACH ($0.60 in chips) 
+flacoboris: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Tc]
+mataski: folds 
+HardMickey83: folds 
+baligo666: folds 
+baligo666 leaves the table
+SIALPHDO: calls $0.02
+mahspace: folds 
+TRUBACH: folds 
+VEMenshikov: folds 
+flacoboris: folds 
+Dorex2007: checks 
+*** FLOP *** [3h 9d 2s]
+Dorex2007: checks 
+SIALPHDO: checks 
+*** TURN *** [3h 9d 2s] [2h]
+Dorex2007: checks 
+SIALPHDO: checks 
+*** RIVER *** [3h 9d 2s 2h] [Jc]
+slemi1986 joins the table at seat #6 
+Dorex2007: bets $0.05
+SIALPHDO: folds 
+Uncalled bet ($0.05) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3h 9d 2s 2h Jc]
+Seat 1: VEMenshikov (button) folded before Flop (didn't bet)
+Seat 2: flacoboris (small blind) folded before Flop
+Seat 3: Dorex2007 (big blind) collected ($0.05)
+Seat 4: mataski folded before Flop (didn't bet)
+Seat 5: HardMickey83 folded before Flop (didn't bet)
+Seat 6: baligo666 folded before Flop (didn't bet)
+Seat 7: SIALPHDO folded on the River
+Seat 8: mahspace folded before Flop (didn't bet)
+Seat 9: TRUBACH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225846751712:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:37:21 PT [2021/04/14 20:37:21 ET]
+Table 'Stromgrenia III' 9-max Seat #2 is the button
+Seat 1: VEMenshikov ($3.36 in chips) 
+Seat 2: flacoboris ($3.93 in chips) 
+Seat 3: Dorex2007 ($2.03 in chips) 
+Seat 4: mataski ($0.68 in chips) 
+Seat 5: HardMickey83 ($1.15 in chips) 
+Seat 7: SIALPHDO ($1.88 in chips) 
+Seat 8: mahspace ($1.97 in chips) 
+Seat 9: TRUBACH ($0.60 in chips) 
+Dorex2007: posts small blind $0.01
+mataski: posts big blind $0.02
+slemi1986: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Js]
+HardMickey83: raises $0.04 to $0.06
+SIALPHDO: folds 
+mahspace: folds 
+TRUBACH: folds 
+VEMenshikov: folds 
+flacoboris: folds 
+Dorex2007: folds 
+mataski: folds 
+Uncalled bet ($0.04) returned to HardMickey83
+HardMickey83 collected $0.05 from pot
+HardMickey83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: VEMenshikov folded before Flop (didn't bet)
+Seat 2: flacoboris (button) folded before Flop (didn't bet)
+Seat 3: Dorex2007 (small blind) folded before Flop
+Seat 4: mataski (big blind) folded before Flop
+Seat 5: HardMickey83 collected ($0.05)
+Seat 7: SIALPHDO folded before Flop (didn't bet)
+Seat 8: mahspace folded before Flop (didn't bet)
+Seat 9: TRUBACH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225846758298:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:37:43 PT [2021/04/14 20:37:43 ET]
+Table 'Stromgrenia III' 9-max Seat #3 is the button
+Seat 1: VEMenshikov ($3.36 in chips) 
+Seat 2: flacoboris ($3.93 in chips) 
+Seat 3: Dorex2007 ($2.02 in chips) 
+Seat 4: mataski ($0.66 in chips) 
+Seat 5: HardMickey83 ($1.18 in chips) 
+Seat 6: slemi1986 ($2 in chips) 
+Seat 7: SIALPHDO ($1.88 in chips) 
+Seat 8: mahspace ($1.97 in chips) 
+Seat 9: TRUBACH ($0.60 in chips) 
+mataski: posts small blind $0.01
+HardMickey83: posts big blind $0.02
+slemi1986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Qh]
+slemi1986: checks 
+SIALPHDO: folds 
+mahspace: folds 
+TRUBACH: folds 
+VEMenshikov: folds 
+flacoboris: folds 
+Dorex2007: raises $0.04 to $0.06
+mataski: folds 
+HardMickey83: calls $0.04
+slemi1986: folds 
+*** FLOP *** [Js 9s 9h]
+HardMickey83: checks 
+Dorex2007: bets $0.14
+HardMickey83: folds 
+Uncalled bet ($0.14) returned to Dorex2007
+Dorex2007 collected $0.14 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Js 9s 9h]
+Seat 1: VEMenshikov folded before Flop (didn't bet)
+Seat 2: flacoboris folded before Flop (didn't bet)
+Seat 3: Dorex2007 (button) collected ($0.14)
+Seat 4: mataski (small blind) folded before Flop
+Seat 5: HardMickey83 (big blind) folded on the Flop
+Seat 6: slemi1986 folded before Flop (didn't bet)
+Seat 7: SIALPHDO folded before Flop (didn't bet)
+Seat 8: mahspace folded before Flop (didn't bet)
+Seat 9: TRUBACH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225846770443:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:38:23 PT [2021/04/14 20:38:23 ET]
+Table 'Stromgrenia III' 9-max Seat #4 is the button
+Seat 1: VEMenshikov ($3.36 in chips) 
+Seat 2: flacoboris ($3.93 in chips) 
+Seat 3: Dorex2007 ($2.10 in chips) 
+Seat 4: mataski ($0.65 in chips) 
+Seat 5: HardMickey83 ($1.12 in chips) 
+Seat 6: slemi1986 ($1.98 in chips) 
+Seat 7: SIALPHDO ($1.88 in chips) 
+Seat 8: mahspace ($1.97 in chips) 
+Seat 9: TRUBACH ($0.60 in chips) 
+HardMickey83: posts small blind $0.01
+slemi1986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Td]
+SIALPHDO: folds 
+mahspace: folds 
+TRUBACH: folds 
+VEMenshikov: folds 
+flacoboris: raises $0.03 to $0.05
+SIALPHDO leaves the table
+Dorex2007: calls $0.05
+mataski: folds 
+11decopas joins the table at seat #7 
+HardMickey83: folds 
+slemi1986: folds 
+*** FLOP *** [9c Qs 5s]
+flacoboris: bets $0.08
+Dorex2007: calls $0.08
+*** TURN *** [9c Qs 5s] [8c]
+flacoboris: bets $0.21
+Dorex2007: calls $0.21
+*** RIVER *** [9c Qs 5s 8c] [5d]
+flacoboris: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+flacoboris: shows [Jc Ac] (a pair of Fives)
+Dorex2007: shows [Tc Td] (two pair, Tens and Fives)
+Dorex2007 collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02 
+Board [9c Qs 5s 8c 5d]
+Seat 1: VEMenshikov folded before Flop (didn't bet)
+Seat 2: flacoboris showed [Jc Ac] and lost with a pair of Fives
+Seat 3: Dorex2007 showed [Tc Td] and won ($0.69) with two pair, Tens and Fives
+Seat 4: mataski (button) folded before Flop (didn't bet)
+Seat 5: HardMickey83 (small blind) folded before Flop
+Seat 6: slemi1986 (big blind) folded before Flop
+Seat 7: SIALPHDO folded before Flop (didn't bet)
+Seat 8: mahspace folded before Flop (didn't bet)
+Seat 9: TRUBACH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225846790108:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:39:28 PT [2021/04/14 20:39:28 ET]
+Table 'Stromgrenia III' 9-max Seat #5 is the button
+Seat 1: VEMenshikov ($3.36 in chips) 
+Seat 2: flacoboris ($3.59 in chips) 
+Seat 3: Dorex2007 ($2.45 in chips) 
+Seat 4: mataski ($0.65 in chips) 
+Seat 5: HardMickey83 ($1.11 in chips) 
+Seat 6: slemi1986 ($1.96 in chips) 
+Seat 7: 11decopas ($0.90 in chips) 
+Seat 8: mahspace ($1.97 in chips) 
+Seat 9: TRUBACH ($0.60 in chips) 
+slemi1986: posts small blind $0.01
+11decopas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 3d]
+mahspace: folds 
+TRUBACH: folds 
+VEMenshikov: folds 
+flacoboris: folds 
+Dorex2007: folds 
+mataski: folds 
+HardMickey83: folds 
+slemi1986: folds 
+Uncalled bet ($0.01) returned to 11decopas
+11decopas collected $0.02 from pot
+11decopas: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: VEMenshikov folded before Flop (didn't bet)
+Seat 2: flacoboris folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: mataski folded before Flop (didn't bet)
+Seat 5: HardMickey83 (button) folded before Flop (didn't bet)
+Seat 6: slemi1986 (small blind) folded before Flop
+Seat 7: 11decopas (big blind) collected ($0.02)
+Seat 8: mahspace folded before Flop (didn't bet)
+Seat 9: TRUBACH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225846795254:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:39:45 PT [2021/04/14 20:39:45 ET]
+Table 'Stromgrenia III' 9-max Seat #6 is the button
+Seat 1: VEMenshikov ($3.36 in chips) 
+Seat 2: flacoboris ($3.59 in chips) 
+Seat 3: Dorex2007 ($2.45 in chips) 
+Seat 4: mataski ($0.65 in chips) 
+Seat 5: HardMickey83 ($1.11 in chips) 
+Seat 6: slemi1986 ($1.95 in chips) 
+Seat 7: 11decopas ($0.91 in chips) 
+Seat 8: mahspace ($1.97 in chips) 
+Seat 9: TRUBACH ($0.60 in chips) 
+11decopas: posts small blind $0.01
+mahspace: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 4c]
+TRUBACH: folds 
+VEMenshikov: folds 
+flacoboris: folds 
+Dorex2007: folds 
+mataski: folds 
+HardMickey83: raises $0.04 to $0.06
+slemi1986: folds 
+11decopas: folds 
+mahspace: folds 
+Uncalled bet ($0.04) returned to HardMickey83
+HardMickey83 collected $0.05 from pot
+HardMickey83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: VEMenshikov folded before Flop (didn't bet)
+Seat 2: flacoboris folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: mataski folded before Flop (didn't bet)
+Seat 5: HardMickey83 collected ($0.05)
+Seat 6: slemi1986 (button) folded before Flop (didn't bet)
+Seat 7: 11decopas (small blind) folded before Flop
+Seat 8: mahspace (big blind) folded before Flop
+Seat 9: TRUBACH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225846805910:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:40:20 PT [2021/04/14 20:40:20 ET]
+Table 'Stromgrenia III' 9-max Seat #7 is the button
+Seat 1: VEMenshikov ($3.36 in chips) 
+Seat 2: flacoboris ($3.59 in chips) 
+Seat 3: Dorex2007 ($2.45 in chips) 
+Seat 4: mataski ($0.65 in chips) 
+Seat 5: HardMickey83 ($1.14 in chips) 
+Seat 6: slemi1986 ($1.95 in chips) 
+Seat 7: 11decopas ($0.90 in chips) 
+Seat 8: mahspace ($1.95 in chips) 
+Seat 9: TRUBACH ($0.60 in chips) 
+mahspace: posts small blind $0.01
+TRUBACH: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Js]
+VEMenshikov: folds 
+flacoboris: folds 
+Dorex2007: folds 
+mataski: calls $0.02
+HardMickey83: folds 
+slemi1986: folds 
+11decopas: calls $0.02
+mahspace: raises $0.08 to $0.10
+TRUBACH: folds 
+mataski: folds 
+11decopas: calls $0.08
+*** FLOP *** [8d 9c Kc]
+mahspace: bets $0.17
+11decopas: folds 
+Uncalled bet ($0.17) returned to mahspace
+mahspace collected $0.23 from pot
+mahspace: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [8d 9c Kc]
+Seat 1: VEMenshikov folded before Flop (didn't bet)
+Seat 2: flacoboris folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: mataski folded before Flop
+Seat 5: HardMickey83 folded before Flop (didn't bet)
+Seat 6: slemi1986 folded before Flop (didn't bet)
+Seat 7: 11decopas (button) folded on the Flop
+Seat 8: mahspace (small blind) collected ($0.23)
+Seat 9: TRUBACH (big blind) folded before Flop
+
+
+
+PokerStars Hand #225846816262:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:40:55 PT [2021/04/14 20:40:55 ET]
+Table 'Stromgrenia III' 9-max Seat #8 is the button
+Seat 1: VEMenshikov ($3.36 in chips) 
+Seat 2: flacoboris ($3.59 in chips) 
+Seat 3: Dorex2007 ($2.45 in chips) 
+Seat 4: mataski ($0.63 in chips) 
+Seat 5: HardMickey83 ($1.14 in chips) 
+Seat 6: slemi1986 ($1.95 in chips) 
+Seat 7: 11decopas ($0.80 in chips) 
+Seat 8: mahspace ($2.08 in chips) 
+Seat 9: TRUBACH ($0.58 in chips) 
+TRUBACH: posts small blind $0.01
+VEMenshikov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Ks]
+flacoboris: folds 
+Dorex2007: raises $0.04 to $0.06
+mataski: calls $0.06
+HardMickey83: folds 
+slemi1986: folds 
+11decopas: folds 
+mahspace: folds 
+TRUBACH: folds 
+VEMenshikov: calls $0.04
+*** FLOP *** [2s Th Kc]
+VEMenshikov: checks 
+Dorex2007: checks 
+mataski: bets $0.09
+VEMenshikov: folds 
+Dorex2007: calls $0.09
+*** TURN *** [2s Th Kc] [3h]
+Dorex2007: checks 
+mataski: checks 
+*** RIVER *** [2s Th Kc 3h] [Ac]
+Dorex2007: checks 
+mataski: bets $0.18
+Dorex2007: raises $0.18 to $0.36
+mataski: calls $0.18
+*** SHOW DOWN ***
+Dorex2007: shows [Kh Ks] (three of a kind, Kings)
+mataski: mucks hand 
+Dorex2007 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.09 | Rake $0.04 
+Board [2s Th Kc 3h Ac]
+Seat 1: VEMenshikov (big blind) folded on the Flop
+Seat 2: flacoboris folded before Flop (didn't bet)
+Seat 3: Dorex2007 showed [Kh Ks] and won ($1.05) with three of a kind, Kings
+Seat 4: mataski mucked [Qh Tc]
+Seat 5: HardMickey83 folded before Flop (didn't bet)
+Seat 6: slemi1986 folded before Flop (didn't bet)
+Seat 7: 11decopas folded before Flop (didn't bet)
+Seat 8: mahspace (button) folded before Flop (didn't bet)
+Seat 9: TRUBACH (small blind) folded before Flop
+
+
+
+PokerStars Hand #225846840679:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:42:14 PT [2021/04/14 20:42:14 ET]
+Table 'Stromgrenia III' 9-max Seat #9 is the button
+Seat 1: VEMenshikov ($3.30 in chips) 
+Seat 2: flacoboris ($3.59 in chips) 
+Seat 3: Dorex2007 ($2.99 in chips) 
+Seat 4: mataski ($0.12 in chips) 
+Seat 5: HardMickey83 ($1.14 in chips) 
+Seat 6: slemi1986 ($1.95 in chips) 
+Seat 7: 11decopas ($0.80 in chips) 
+Seat 8: mahspace ($2.08 in chips) 
+Seat 9: TRUBACH ($0.57 in chips) 
+VEMenshikov: posts small blind $0.01
+flacoboris: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Jh]
+Dorex2007: folds 
+mataski: folds 
+HardMickey83: folds 
+slemi1986: folds 
+11decopas: calls $0.02
+mahspace: raises $0.06 to $0.08
+TRUBACH: calls $0.08
+VEMenshikov: folds 
+flacoboris: folds 
+11decopas: folds 
+*** FLOP *** [Kc Td 3d]
+mahspace: bets $0.12
+TRUBACH: folds 
+Uncalled bet ($0.12) returned to mahspace
+mahspace collected $0.20 from pot
+mahspace: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Kc Td 3d]
+Seat 1: VEMenshikov (small blind) folded before Flop
+Seat 2: flacoboris (big blind) folded before Flop
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: mataski folded before Flop (didn't bet)
+Seat 5: HardMickey83 folded before Flop (didn't bet)
+Seat 6: slemi1986 folded before Flop (didn't bet)
+Seat 7: 11decopas folded before Flop
+Seat 8: mahspace collected ($0.20)
+Seat 9: TRUBACH (button) folded on the Flop
+
+
+
+PokerStars Hand #225846853062:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:42:56 PT [2021/04/14 20:42:56 ET]
+Table 'Stromgrenia III' 9-max Seat #1 is the button
+Seat 1: VEMenshikov ($3.29 in chips) 
+Seat 2: flacoboris ($3.57 in chips) 
+Seat 3: Dorex2007 ($2.99 in chips) 
+Seat 4: mataski ($0.12 in chips) 
+Seat 5: HardMickey83 ($1.14 in chips) 
+Seat 6: slemi1986 ($1.95 in chips) 
+Seat 7: 11decopas ($0.80 in chips) 
+Seat 8: mahspace ($2.20 in chips) 
+Seat 9: TRUBACH ($0.49 in chips) 
+flacoboris: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 4c]
+mataski: folds 
+HardMickey83: raises $0.04 to $0.06
+slemi1986: folds 
+11decopas: folds 
+mahspace: folds 
+TRUBACH: folds 
+VEMenshikov: folds 
+flacoboris: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to HardMickey83
+HardMickey83 collected $0.05 from pot
+HardMickey83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: VEMenshikov (button) folded before Flop (didn't bet)
+Seat 2: flacoboris (small blind) folded before Flop
+Seat 3: Dorex2007 (big blind) folded before Flop
+Seat 4: mataski folded before Flop (didn't bet)
+Seat 5: HardMickey83 collected ($0.05)
+Seat 6: slemi1986 folded before Flop (didn't bet)
+Seat 7: 11decopas folded before Flop (didn't bet)
+Seat 8: mahspace folded before Flop (didn't bet)
+Seat 9: TRUBACH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225846865554:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:43:37 PT [2021/04/14 20:43:37 ET]
+Table 'Stromgrenia III' 9-max Seat #2 is the button
+Seat 1: VEMenshikov ($3.29 in chips) 
+Seat 2: flacoboris ($3.56 in chips) 
+Seat 3: Dorex2007 ($2.97 in chips) 
+Seat 4: mataski ($0.12 in chips) 
+Seat 5: HardMickey83 ($1.17 in chips) 
+Seat 6: slemi1986 ($1.95 in chips) 
+Seat 7: 11decopas ($0.80 in chips) 
+Seat 8: mahspace ($2.20 in chips) 
+Seat 9: TRUBACH ($0.49 in chips) 
+Dorex2007: posts small blind $0.01
+mataski: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 2d]
+HardMickey83: folds 
+slemi1986: folds 
+11decopas: calls $0.02
+mahspace: folds 
+TRUBACH: folds 
+VEMenshikov: raises $0.06 to $0.08
+flacoboris: folds 
+Dorex2007: folds 
+mataski: folds 
+11decopas: folds 
+Uncalled bet ($0.06) returned to VEMenshikov
+VEMenshikov collected $0.07 from pot
+VEMenshikov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: VEMenshikov collected ($0.07)
+Seat 2: flacoboris (button) folded before Flop (didn't bet)
+Seat 3: Dorex2007 (small blind) folded before Flop
+Seat 4: mataski (big blind) folded before Flop
+Seat 5: HardMickey83 folded before Flop (didn't bet)
+Seat 6: slemi1986 folded before Flop (didn't bet)
+Seat 7: 11decopas folded before Flop
+Seat 8: mahspace folded before Flop (didn't bet)
+Seat 9: TRUBACH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225846883646:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:44:18 PT [2021/04/14 20:44:18 ET]
+Table 'Stromgrenia III' 9-max Seat #3 is the button
+Seat 1: VEMenshikov ($3.34 in chips) 
+Seat 2: flacoboris ($3.56 in chips) 
+Seat 3: Dorex2007 ($2.96 in chips) 
+Seat 4: mataski ($0.10 in chips) 
+Seat 6: slemi1986 ($1.95 in chips) 
+Seat 7: 11decopas ($0.80 in chips) 
+Seat 8: mahspace ($2.20 in chips) 
+Seat 9: TRUBACH ($0.49 in chips) 
+mataski: posts small blind $0.01
+HardMickey83: is sitting out 
+slemi1986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 9s]
+11decopas: folds 
+mahspace: folds 
+TRUBACH: folds 
+VEMenshikov: raises $0.04 to $0.06
+flacoboris: calls $0.06
+Dorex2007: calls $0.06
+mataski: calls $0.05
+slemi1986: raises $1.89 to $1.95 and is all-in
+VEMenshikov: folds 
+flacoboris: folds 
+Dorex2007: folds 
+mataski: calls $0.04 and is all-in
+Uncalled bet ($1.85) returned to slemi1986
+*** FLOP *** [Qd Ah Ks]
+*** TURN *** [Qd Ah Ks] [Jh]
+HardMickey83 leaves the table
+*** RIVER *** [Qd Ah Ks Jh] [Ts]
+*** SHOW DOWN ***
+mataski: shows [3h Qs] (a straight, Ten to Ace)
+slemi1986: shows [Qh Qc] (a straight, Ten to Ace)
+mataski collected $0.19 from pot
+slemi1986 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [Qd Ah Ks Jh Ts]
+Seat 1: VEMenshikov folded before Flop
+Seat 2: flacoboris folded before Flop
+Seat 3: Dorex2007 (button) folded before Flop
+Seat 4: mataski (small blind) showed [3h Qs] and won ($0.19) with a straight, Ten to Ace
+Seat 6: slemi1986 (big blind) showed [Qh Qc] and won ($0.18) with a straight, Ten to Ace
+Seat 7: 11decopas folded before Flop (didn't bet)
+Seat 8: mahspace folded before Flop (didn't bet)
+Seat 9: TRUBACH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225846898014:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:45:07 PT [2021/04/14 20:45:07 ET]
+Table 'Stromgrenia III' 9-max Seat #4 is the button
+Seat 1: VEMenshikov ($3.28 in chips) 
+Seat 2: flacoboris ($3.50 in chips) 
+Seat 3: Dorex2007 ($2.90 in chips) 
+Seat 4: mataski ($0.19 in chips) 
+Seat 6: slemi1986 ($2.03 in chips) 
+Seat 7: 11decopas ($0.80 in chips) 
+Seat 8: mahspace ($2.20 in chips) 
+Seat 9: TRUBACH ($0.49 in chips) 
+slemi1986: posts small blind $0.01
+11decopas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 8d]
+kruge joins the table at seat #5 
+mahspace: raises $0.06 to $0.08
+TRUBACH: folds 
+VEMenshikov: folds 
+flacoboris: folds 
+Dorex2007: folds 
+mataski: folds 
+slemi1986: folds 
+11decopas: folds 
+Uncalled bet ($0.06) returned to mahspace
+mahspace collected $0.05 from pot
+mahspace: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: VEMenshikov folded before Flop (didn't bet)
+Seat 2: flacoboris folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: mataski (button) folded before Flop (didn't bet)
+Seat 6: slemi1986 (small blind) folded before Flop
+Seat 7: 11decopas (big blind) folded before Flop
+Seat 8: mahspace collected ($0.05)
+Seat 9: TRUBACH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225846902680:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:45:23 PT [2021/04/14 20:45:23 ET]
+Table 'Stromgrenia III' 9-max Seat #6 is the button
+Seat 1: VEMenshikov ($3.28 in chips) 
+Seat 2: flacoboris ($3.50 in chips) 
+Seat 3: Dorex2007 ($2.90 in chips) 
+Seat 4: mataski ($0.19 in chips) 
+Seat 6: slemi1986 ($2.02 in chips) 
+Seat 7: 11decopas ($0.80 in chips) 
+Seat 8: mahspace ($2.23 in chips) 
+Seat 9: TRUBACH ($0.49 in chips) 
+11decopas: posts small blind $0.01
+mahspace: posts big blind $0.02
+kruge: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 7s]
+TRUBACH: folds 
+VEMenshikov: folds 
+flacoboris: folds 
+Dorex2007: folds 
+mataski: calls $0.02
+slemi1986: folds 
+11decopas: calls $0.01
+mahspace: checks 
+*** FLOP *** [6c 6h 5d]
+11decopas: checks 
+mahspace: checks 
+mataski: checks 
+*** TURN *** [6c 6h 5d] [8d]
+11decopas: checks 
+mahspace: checks 
+mataski: checks 
+*** RIVER *** [6c 6h 5d 8d] [4d]
+11decopas: checks 
+mahspace: checks 
+mataski: checks 
+*** SHOW DOWN ***
+11decopas: shows [7c Kc] (a straight, Four to Eight)
+mahspace: mucks hand 
+mataski: mucks hand 
+11decopas collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [6c 6h 5d 8d 4d]
+Seat 1: VEMenshikov folded before Flop (didn't bet)
+Seat 2: flacoboris folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: mataski mucked [9h Th]
+Seat 6: slemi1986 (button) folded before Flop (didn't bet)
+Seat 7: 11decopas (small blind) showed [7c Kc] and won ($0.06) with a straight, Four to Eight
+Seat 8: mahspace (big blind) mucked [Qc 5h]
+Seat 9: TRUBACH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225846919618:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:46:05 PT [2021/04/14 20:46:05 ET]
+Table 'Stromgrenia III' 9-max Seat #7 is the button
+Seat 1: VEMenshikov ($3.28 in chips) 
+Seat 2: flacoboris ($3.50 in chips) 
+Seat 3: Dorex2007 ($2.90 in chips) 
+Seat 4: mataski ($0.17 in chips) 
+Seat 5: kruge ($1.60 in chips) 
+Seat 6: slemi1986 ($2.02 in chips) 
+Seat 7: 11decopas ($0.84 in chips) 
+Seat 8: mahspace ($2.21 in chips) 
+Seat 9: TRUBACH ($0.49 in chips) 
+mahspace: posts small blind $0.01
+TRUBACH: posts big blind $0.02
+kruge: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 7c]
+VEMenshikov: folds 
+flacoboris: folds 
+Dorex2007: folds 
+mataski: folds 
+kruge: checks 
+slemi1986: raises $0.02 to $0.04
+11decopas: folds 
+mahspace: raises $0.12 to $0.16
+TRUBACH: folds 
+kruge: folds 
+slemi1986: calls $0.12
+*** FLOP *** [Ah 6h Td]
+mahspace: bets $0.21
+slemi1986: calls $0.21
+*** TURN *** [Ah 6h Td] [Ac]
+mahspace: bets $0.45
+slemi1986: calls $0.45
+*** RIVER *** [Ah 6h Td Ac] [Kd]
+mahspace: checks 
+slemi1986: checks 
+*** SHOW DOWN ***
+mahspace: shows [Qc Qh] (two pair, Aces and Queens)
+slemi1986: mucks hand 
+mahspace collected $1.62 from pot
+*** SUMMARY ***
+Total pot $1.68 | Rake $0.06 
+Board [Ah 6h Td Ac Kd]
+Seat 1: VEMenshikov folded before Flop (didn't bet)
+Seat 2: flacoboris folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: mataski folded before Flop (didn't bet)
+Seat 5: kruge folded before Flop (didn't bet)
+Seat 6: slemi1986 mucked [Qs Th]
+Seat 7: 11decopas (button) folded before Flop (didn't bet)
+Seat 8: mahspace (small blind) showed [Qc Qh] and won ($1.62) with two pair, Aces and Queens
+Seat 9: TRUBACH (big blind) folded before Flop
+
+
+
+PokerStars Hand #225846934928:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:46:57 PT [2021/04/14 20:46:57 ET]
+Table 'Stromgrenia III' 9-max Seat #8 is the button
+Seat 1: VEMenshikov ($3.28 in chips) 
+Seat 2: flacoboris ($3.50 in chips) 
+Seat 3: Dorex2007 ($2.90 in chips) 
+Seat 4: mataski ($0.17 in chips) 
+Seat 5: kruge ($1.58 in chips) 
+Seat 6: slemi1986 ($1.20 in chips) 
+Seat 7: 11decopas ($0.84 in chips) 
+Seat 8: mahspace ($3.01 in chips) 
+Seat 9: TRUBACH ($0.47 in chips) 
+TRUBACH: posts small blind $0.01
+VEMenshikov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 2d]
+flacoboris: folds 
+Dorex2007: folds 
+mataski: folds 
+kruge: calls $0.02
+slemi1986: folds 
+11decopas: folds 
+mahspace: folds 
+TRUBACH: calls $0.01
+VEMenshikov: checks 
+*** FLOP *** [Ad 7h Kd]
+TRUBACH: checks 
+VEMenshikov: checks 
+kruge: bets $0.06
+TRUBACH: calls $0.06
+VEMenshikov: folds 
+*** TURN *** [Ad 7h Kd] [9c]
+TRUBACH: checks 
+kruge: bets $0.06
+TRUBACH: raises $0.33 to $0.39 and is all-in
+kruge: calls $0.33
+*** RIVER *** [Ad 7h Kd 9c] [Qc]
+*** SHOW DOWN ***
+TRUBACH: shows [As Js] (a pair of Aces)
+kruge: shows [Td 8d] (high card Ace)
+TRUBACH collected $0.93 from pot
+*** SUMMARY ***
+Total pot $0.96 | Rake $0.03 
+Board [Ad 7h Kd 9c Qc]
+Seat 1: VEMenshikov (big blind) folded on the Flop
+Seat 2: flacoboris folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: mataski folded before Flop (didn't bet)
+Seat 5: kruge showed [Td 8d] and lost with high card Ace
+Seat 6: slemi1986 folded before Flop (didn't bet)
+Seat 7: 11decopas folded before Flop (didn't bet)
+Seat 8: mahspace (button) folded before Flop (didn't bet)
+Seat 9: TRUBACH (small blind) showed [As Js] and won ($0.93) with a pair of Aces
+
+
+
+PokerStars Hand #225846949514:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:47:46 PT [2021/04/14 20:47:46 ET]
+Table 'Stromgrenia III' 9-max Seat #9 is the button
+Seat 1: VEMenshikov ($3.26 in chips) 
+Seat 2: flacoboris ($3.50 in chips) 
+Seat 3: Dorex2007 ($2.90 in chips) 
+Seat 4: mataski ($0.17 in chips) 
+Seat 5: kruge ($1.11 in chips) 
+Seat 6: slemi1986 ($2 in chips) 
+Seat 7: 11decopas ($0.84 in chips) 
+Seat 8: mahspace ($3.01 in chips) 
+Seat 9: TRUBACH ($0.93 in chips) 
+VEMenshikov: posts small blind $0.01
+flacoboris: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 4h]
+Dorex2007: folds 
+mataski: folds 
+kruge: calls $0.02
+slemi1986: folds 
+11decopas: folds 
+mahspace: calls $0.02
+TRUBACH: calls $0.02
+VEMenshikov: raises $0.04 to $0.06
+flacoboris: folds 
+kruge: calls $0.04
+mahspace: calls $0.04
+TRUBACH: calls $0.04
+*** FLOP *** [5h Ac 8s]
+VEMenshikov: bets $0.19
+kruge: folds 
+mahspace: folds 
+TRUBACH: folds 
+Uncalled bet ($0.19) returned to VEMenshikov
+VEMenshikov collected $0.25 from pot
+VEMenshikov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [5h Ac 8s]
+Seat 1: VEMenshikov (small blind) collected ($0.25)
+Seat 2: flacoboris (big blind) folded before Flop
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: mataski folded before Flop (didn't bet)
+Seat 5: kruge folded on the Flop
+Seat 6: slemi1986 folded before Flop (didn't bet)
+Seat 7: 11decopas folded before Flop (didn't bet)
+Seat 8: mahspace folded on the Flop
+Seat 9: TRUBACH (button) folded on the Flop
+
+
+
+PokerStars Hand #225846959962:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:48:21 PT [2021/04/14 20:48:21 ET]
+Table 'Stromgrenia III' 9-max Seat #1 is the button
+Seat 1: VEMenshikov ($3.45 in chips) 
+Seat 2: flacoboris ($3.48 in chips) 
+Seat 3: Dorex2007 ($2.90 in chips) 
+Seat 4: mataski ($0.17 in chips) 
+Seat 5: kruge ($1.05 in chips) 
+Seat 6: slemi1986 ($2 in chips) 
+Seat 7: 11decopas ($0.84 in chips) 
+Seat 8: mahspace ($2.95 in chips) 
+Seat 9: TRUBACH ($0.87 in chips) 
+flacoboris: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Qs]
+mataski: raises $0.15 to $0.17 and is all-in
+kruge: folds 
+slemi1986: folds 
+11decopas: folds 
+mahspace: folds 
+TRUBACH: folds 
+VEMenshikov: folds 
+flacoboris: folds 
+Dorex2007: folds 
+Uncalled bet ($0.15) returned to mataski
+mataski collected $0.05 from pot
+mataski: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: VEMenshikov (button) folded before Flop (didn't bet)
+Seat 2: flacoboris (small blind) folded before Flop
+Seat 3: Dorex2007 (big blind) folded before Flop
+Seat 4: mataski collected ($0.05)
+Seat 5: kruge folded before Flop (didn't bet)
+Seat 6: slemi1986 folded before Flop (didn't bet)
+Seat 7: 11decopas folded before Flop (didn't bet)
+Seat 8: mahspace folded before Flop (didn't bet)
+Seat 9: TRUBACH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225846967158:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:48:45 PT [2021/04/14 20:48:45 ET]
+Table 'Stromgrenia III' 9-max Seat #2 is the button
+Seat 1: VEMenshikov ($3.45 in chips) 
+Seat 2: flacoboris ($3.47 in chips) 
+Seat 3: Dorex2007 ($2.88 in chips) 
+Seat 4: mataski ($0.20 in chips) 
+Seat 5: kruge ($1.05 in chips) 
+Seat 6: slemi1986 ($2 in chips) 
+Seat 7: 11decopas ($0.84 in chips) 
+Seat 8: mahspace ($2.95 in chips) 
+Seat 9: TRUBACH ($0.87 in chips) 
+Dorex2007: posts small blind $0.01
+mataski: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 3c]
+kruge: folds 
+slemi1986: folds 
+11decopas: calls $0.02
+mahspace: folds 
+TRUBACH: folds 
+VEMenshikov: folds 
+flacoboris: folds 
+Dorex2007: folds 
+mataski: raises $0.18 to $0.20 and is all-in
+11decopas: folds 
+Uncalled bet ($0.18) returned to mataski
+mataski collected $0.05 from pot
+mataski: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: VEMenshikov folded before Flop (didn't bet)
+Seat 2: flacoboris (button) folded before Flop (didn't bet)
+Seat 3: Dorex2007 (small blind) folded before Flop
+Seat 4: mataski (big blind) collected ($0.05)
+Seat 5: kruge folded before Flop (didn't bet)
+Seat 6: slemi1986 folded before Flop (didn't bet)
+Seat 7: 11decopas folded before Flop
+Seat 8: mahspace folded before Flop (didn't bet)
+Seat 9: TRUBACH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225846976369:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:49:16 PT [2021/04/14 20:49:16 ET]
+Table 'Stromgrenia III' 9-max Seat #3 is the button
+Seat 1: VEMenshikov ($3.45 in chips) 
+Seat 2: flacoboris ($3.47 in chips) 
+Seat 3: Dorex2007 ($2.87 in chips) 
+Seat 4: mataski ($0.23 in chips) 
+Seat 5: kruge ($1.05 in chips) 
+Seat 6: slemi1986 ($2 in chips) 
+Seat 7: 11decopas ($0.82 in chips) 
+Seat 8: mahspace ($2.95 in chips) 
+Seat 9: TRUBACH ($0.87 in chips) 
+mataski: posts small blind $0.01
+kruge: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 8c]
+slemi1986 has timed out
+slemi1986: folds 
+11decopas: folds 
+mahspace: folds 
+TRUBACH: folds 
+VEMenshikov: folds 
+flacoboris: raises $0.03 to $0.05
+Dorex2007: folds 
+mataski: folds 
+kruge: folds 
+Uncalled bet ($0.03) returned to flacoboris
+flacoboris collected $0.05 from pot
+flacoboris: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: VEMenshikov folded before Flop (didn't bet)
+Seat 2: flacoboris collected ($0.05)
+Seat 3: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 4: mataski (small blind) folded before Flop
+Seat 5: kruge (big blind) folded before Flop
+Seat 6: slemi1986 folded before Flop (didn't bet)
+Seat 7: 11decopas folded before Flop (didn't bet)
+Seat 8: mahspace folded before Flop (didn't bet)
+Seat 9: TRUBACH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225846984777:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:49:44 PT [2021/04/14 20:49:44 ET]
+Table 'Stromgrenia III' 9-max Seat #4 is the button
+Seat 1: VEMenshikov ($3.45 in chips) 
+Seat 2: flacoboris ($3.50 in chips) 
+Seat 3: Dorex2007 ($2.87 in chips) 
+Seat 4: mataski ($0.22 in chips) 
+Seat 5: kruge ($1.03 in chips) 
+Seat 6: slemi1986 ($2 in chips) 
+Seat 7: 11decopas ($0.82 in chips) 
+Seat 8: mahspace ($2.95 in chips) 
+Seat 9: TRUBACH ($0.87 in chips) 
+kruge: posts small blind $0.01
+slemi1986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 5c]
+11decopas: calls $0.02
+mahspace: calls $0.02
+TRUBACH: folds 
+VEMenshikov: folds 
+flacoboris: folds 
+Dorex2007: calls $0.02
+mataski: folds 
+kruge: calls $0.01
+slemi1986: checks 
+*** FLOP *** [7c Jh Ks]
+kruge: checks 
+slemi1986: checks 
+11decopas: checks 
+mahspace: checks 
+Dorex2007: checks 
+*** TURN *** [7c Jh Ks] [4d]
+kruge: checks 
+slemi1986: bets $0.04
+11decopas: calls $0.04
+mahspace: folds 
+Dorex2007: folds 
+kruge: folds 
+*** RIVER *** [7c Jh Ks 4d] [Jc]
+slemi1986: checks 
+11decopas: checks 
+*** SHOW DOWN ***
+slemi1986: shows [Kd Qh] (two pair, Kings and Jacks)
+11decopas: mucks hand 
+slemi1986 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [7c Jh Ks 4d Jc]
+Seat 1: VEMenshikov folded before Flop (didn't bet)
+Seat 2: flacoboris folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded on the Turn
+Seat 4: mataski (button) folded before Flop (didn't bet)
+Seat 5: kruge (small blind) folded on the Turn
+Seat 6: slemi1986 (big blind) showed [Kd Qh] and won ($0.17) with two pair, Kings and Jacks
+Seat 7: 11decopas mucked [Qd Ts]
+Seat 8: mahspace folded on the Turn
+Seat 9: TRUBACH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847008607:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:51:05 PT [2021/04/14 20:51:05 ET]
+Table 'Stromgrenia III' 9-max Seat #5 is the button
+Seat 1: VEMenshikov ($3.45 in chips) 
+Seat 2: flacoboris ($3.50 in chips) 
+Seat 3: Dorex2007 ($2.85 in chips) 
+Seat 4: mataski ($0.22 in chips) 
+Seat 5: kruge ($1.01 in chips) 
+Seat 6: slemi1986 ($2.11 in chips) 
+Seat 7: 11decopas ($0.80 in chips) 
+Seat 8: mahspace ($2.93 in chips) 
+Seat 9: TRUBACH ($0.87 in chips) 
+slemi1986: posts small blind $0.01
+11decopas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 4s]
+mahspace: folds 
+TRUBACH: folds 
+VEMenshikov: folds 
+flacoboris: raises $0.03 to $0.05
+Dorex2007: folds 
+mataski: folds 
+kruge: folds 
+slemi1986: folds 
+11decopas: calls $0.03
+*** FLOP *** [9d Td 2h]
+11decopas: checks 
+flacoboris: bets $0.08
+11decopas: folds 
+Uncalled bet ($0.08) returned to flacoboris
+flacoboris collected $0.11 from pot
+flacoboris: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [9d Td 2h]
+Seat 1: VEMenshikov folded before Flop (didn't bet)
+Seat 2: flacoboris collected ($0.11)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: mataski folded before Flop (didn't bet)
+Seat 5: kruge (button) folded before Flop (didn't bet)
+Seat 6: slemi1986 (small blind) folded before Flop
+Seat 7: 11decopas (big blind) folded on the Flop
+Seat 8: mahspace folded before Flop (didn't bet)
+Seat 9: TRUBACH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847019485:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:51:43 PT [2021/04/14 20:51:43 ET]
+Table 'Stromgrenia III' 9-max Seat #6 is the button
+Seat 1: VEMenshikov ($3.45 in chips) 
+Seat 2: flacoboris ($3.56 in chips) 
+Seat 3: Dorex2007 ($2.85 in chips) 
+Seat 4: mataski ($0.22 in chips) 
+Seat 5: kruge ($1.01 in chips) 
+Seat 6: slemi1986 ($2.10 in chips) 
+Seat 7: 11decopas ($0.80 in chips) 
+Seat 8: mahspace ($2.93 in chips) 
+Seat 9: TRUBACH ($0.87 in chips) 
+11decopas: posts small blind $0.01
+mahspace: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Td]
+TRUBACH: raises $0.02 to $0.04
+VEMenshikov: folds 
+flacoboris: folds 
+Dorex2007: folds 
+mataski: folds 
+kruge: folds 
+slemi1986: folds 
+11decopas: folds 
+mahspace: folds 
+Uncalled bet ($0.02) returned to TRUBACH
+TRUBACH collected $0.05 from pot
+TRUBACH: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: VEMenshikov folded before Flop (didn't bet)
+Seat 2: flacoboris folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: mataski folded before Flop (didn't bet)
+Seat 5: kruge folded before Flop (didn't bet)
+Seat 6: slemi1986 (button) folded before Flop (didn't bet)
+Seat 7: 11decopas (small blind) folded before Flop
+Seat 8: mahspace (big blind) folded before Flop
+Seat 9: TRUBACH collected ($0.05)
+
+
+
+PokerStars Hand #225847026063:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:52:05 PT [2021/04/14 20:52:05 ET]
+Table 'Stromgrenia III' 9-max Seat #7 is the button
+Seat 1: VEMenshikov ($3.45 in chips) 
+Seat 2: flacoboris ($3.56 in chips) 
+Seat 3: Dorex2007 ($2.85 in chips) 
+Seat 4: mataski ($0.22 in chips) 
+Seat 5: kruge ($1.01 in chips) 
+Seat 6: slemi1986 ($2.10 in chips) 
+Seat 7: 11decopas ($0.80 in chips) 
+Seat 8: mahspace ($2.91 in chips) 
+Seat 9: TRUBACH ($0.90 in chips) 
+mahspace: posts small blind $0.01
+TRUBACH: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 6s]
+VEMenshikov: folds 
+flacoboris: folds 
+Dorex2007: folds 
+mataski: folds 
+kruge: calls $0.02
+slemi1986: calls $0.02
+11decopas: folds 
+mahspace: folds 
+TRUBACH: checks 
+*** FLOP *** [2h 5h 2s]
+TRUBACH: checks 
+kruge: checks 
+slemi1986: checks 
+*** TURN *** [2h 5h 2s] [2d]
+TRUBACH: checks 
+kruge: checks 
+slemi1986: checks 
+*** RIVER *** [2h 5h 2s 2d] [As]
+TRUBACH: checks 
+kruge: checks 
+slemi1986: checks 
+*** SHOW DOWN ***
+TRUBACH: shows [9c Kd] (three of a kind, Deuces)
+kruge: mucks hand 
+slemi1986: mucks hand 
+TRUBACH collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [2h 5h 2s 2d As]
+Seat 1: VEMenshikov folded before Flop (didn't bet)
+Seat 2: flacoboris folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: mataski folded before Flop (didn't bet)
+Seat 5: kruge mucked [Ts 8c]
+Seat 6: slemi1986 mucked [9s Qs]
+Seat 7: 11decopas (button) folded before Flop (didn't bet)
+Seat 8: mahspace (small blind) folded before Flop
+Seat 9: TRUBACH (big blind) showed [9c Kd] and won ($0.07) with three of a kind, Deuces
+
+
+
+PokerStars Hand #225847058936:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:53:30 PT [2021/04/14 20:53:30 ET]
+Table 'Stromgrenia III' 9-max Seat #8 is the button
+Seat 1: VEMenshikov ($3.45 in chips) 
+Seat 2: flacoboris ($3.56 in chips) 
+Seat 3: Dorex2007 ($2.85 in chips) 
+Seat 4: mataski ($0.22 in chips) 
+Seat 5: kruge ($0.99 in chips) 
+Seat 6: slemi1986 ($2.08 in chips) 
+Seat 7: 11decopas ($0.80 in chips) 
+Seat 8: mahspace ($2.90 in chips) 
+Seat 9: TRUBACH ($0.95 in chips) 
+TRUBACH: posts small blind $0.01
+VEMenshikov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Td]
+flacoboris: calls $0.02
+Dorex2007: folds 
+mataski: folds 
+kruge: folds 
+slemi1986: folds 
+11decopas: folds 
+mahspace: folds 
+TRUBACH: folds 
+VEMenshikov: checks 
+*** FLOP *** [Qs 7s Ac]
+VEMenshikov: checks 
+flacoboris: bets $0.04
+VEMenshikov: folds 
+Uncalled bet ($0.04) returned to flacoboris
+flacoboris collected $0.05 from pot
+flacoboris: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qs 7s Ac]
+Seat 1: VEMenshikov (big blind) folded on the Flop
+Seat 2: flacoboris collected ($0.05)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: mataski folded before Flop (didn't bet)
+Seat 5: kruge folded before Flop (didn't bet)
+Seat 6: slemi1986 folded before Flop (didn't bet)
+Seat 7: 11decopas folded before Flop (didn't bet)
+Seat 8: mahspace (button) folded before Flop (didn't bet)
+Seat 9: TRUBACH (small blind) folded before Flop
+
+
+
+PokerStars Hand #225847065622:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:53:53 PT [2021/04/14 20:53:53 ET]
+Table 'Stromgrenia III' 9-max Seat #9 is the button
+Seat 1: VEMenshikov ($3.43 in chips) 
+Seat 2: flacoboris ($3.59 in chips) 
+Seat 3: Dorex2007 ($2.85 in chips) 
+Seat 4: mataski ($0.22 in chips) 
+Seat 5: kruge ($0.99 in chips) 
+Seat 6: slemi1986 ($2.08 in chips) 
+Seat 7: 11decopas ($0.80 in chips) 
+Seat 8: mahspace ($2.90 in chips) 
+Seat 9: TRUBACH ($0.94 in chips) 
+VEMenshikov: posts small blind $0.01
+flacoboris: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Ah]
+Dorex2007: folds 
+mataski: folds 
+kruge: folds 
+slemi1986: raises $0.02 to $0.04
+11decopas: folds 
+mahspace: folds 
+TRUBACH: folds 
+VEMenshikov: folds 
+flacoboris: folds 
+Uncalled bet ($0.02) returned to slemi1986
+slemi1986 collected $0.05 from pot
+slemi1986: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: VEMenshikov (small blind) folded before Flop
+Seat 2: flacoboris (big blind) folded before Flop
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: mataski folded before Flop (didn't bet)
+Seat 5: kruge folded before Flop (didn't bet)
+Seat 6: slemi1986 collected ($0.05)
+Seat 7: 11decopas folded before Flop (didn't bet)
+Seat 8: mahspace folded before Flop (didn't bet)
+Seat 9: TRUBACH (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847073153:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:54:12 PT [2021/04/14 20:54:12 ET]
+Table 'Stromgrenia III' 9-max Seat #1 is the button
+Seat 1: VEMenshikov ($3.42 in chips) 
+Seat 2: flacoboris ($3.57 in chips) 
+Seat 3: Dorex2007 ($2.85 in chips) 
+Seat 4: mataski ($0.22 in chips) 
+Seat 5: kruge ($0.99 in chips) 
+Seat 6: slemi1986 ($2.11 in chips) 
+Seat 7: 11decopas ($0.80 in chips) 
+Seat 8: mahspace ($2.90 in chips) 
+Seat 9: TRUBACH ($0.94 in chips) 
+flacoboris: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 6h]
+mataski: folds 
+kruge: folds 
+slemi1986: raises $0.04 to $0.06
+11decopas: folds 
+mahspace: folds 
+TRUBACH: folds 
+VEMenshikov: folds 
+flacoboris: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to slemi1986
+slemi1986 collected $0.05 from pot
+slemi1986: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: VEMenshikov (button) folded before Flop (didn't bet)
+Seat 2: flacoboris (small blind) folded before Flop
+Seat 3: Dorex2007 (big blind) folded before Flop
+Seat 4: mataski folded before Flop (didn't bet)
+Seat 5: kruge folded before Flop (didn't bet)
+Seat 6: slemi1986 collected ($0.05)
+Seat 7: 11decopas folded before Flop (didn't bet)
+Seat 8: mahspace folded before Flop (didn't bet)
+Seat 9: TRUBACH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847082809:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:54:46 PT [2021/04/14 20:54:46 ET]
+Table 'Stromgrenia III' 9-max Seat #2 is the button
+Seat 1: VEMenshikov ($3.42 in chips) 
+Seat 2: flacoboris ($3.56 in chips) 
+Seat 3: Dorex2007 ($2.83 in chips) 
+Seat 4: mataski ($0.22 in chips) 
+Seat 5: kruge ($0.99 in chips) 
+Seat 6: slemi1986 ($2.14 in chips) 
+Seat 7: 11decopas ($0.80 in chips) 
+Seat 8: mahspace ($2.90 in chips) 
+Seat 9: TRUBACH ($0.94 in chips) 
+Dorex2007: posts small blind $0.01
+mataski: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Ad]
+kruge: folds 
+slemi1986: raises $0.02 to $0.04
+11decopas: folds 
+mahspace: folds 
+TRUBACH: folds 
+VEMenshikov: folds 
+flacoboris: calls $0.04
+Dorex2007: folds 
+mataski: folds 
+*** FLOP *** [Qs 5c 8s]
+slemi1986: checks 
+flacoboris: checks 
+*** TURN *** [Qs 5c 8s] [4s]
+slemi1986: bets $0.04
+flacoboris: raises $0.08 to $0.12
+slemi1986: calls $0.08
+*** RIVER *** [Qs 5c 8s 4s] [Kh]
+slemi1986: checks 
+flacoboris: bets $0.26
+slemi1986: calls $0.26
+*** SHOW DOWN ***
+flacoboris: shows [Js 9s] (a flush, Queen high)
+slemi1986: mucks hand 
+flacoboris collected $0.84 from pot
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.03 
+Board [Qs 5c 8s 4s Kh]
+Seat 1: VEMenshikov folded before Flop (didn't bet)
+Seat 2: flacoboris (button) showed [Js 9s] and won ($0.84) with a flush, Queen high
+Seat 3: Dorex2007 (small blind) folded before Flop
+Seat 4: mataski (big blind) folded before Flop
+Seat 5: kruge folded before Flop (didn't bet)
+Seat 6: slemi1986 mucked [5d 4d]
+Seat 7: 11decopas folded before Flop (didn't bet)
+Seat 8: mahspace folded before Flop (didn't bet)
+Seat 9: TRUBACH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847101877:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:55:29 PT [2021/04/14 20:55:29 ET]
+Table 'Stromgrenia III' 9-max Seat #3 is the button
+Seat 1: VEMenshikov ($3.42 in chips) 
+Seat 2: flacoboris ($3.98 in chips) 
+Seat 3: Dorex2007 ($2.82 in chips) 
+Seat 4: mataski ($0.20 in chips) 
+Seat 5: kruge ($0.99 in chips) 
+Seat 6: slemi1986 ($1.72 in chips) 
+Seat 7: 11decopas ($0.80 in chips) 
+Seat 8: mahspace ($2.90 in chips) 
+Seat 9: TRUBACH ($0.94 in chips) 
+mataski: posts small blind $0.01
+kruge: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 9d]
+slemi1986: folds 
+11decopas: calls $0.02
+mahspace: folds 
+TRUBACH: folds 
+VEMenshikov: folds 
+flacoboris: calls $0.02
+Dorex2007: folds 
+mataski: folds 
+kruge: checks 
+*** FLOP *** [As Kh Jh]
+kruge: bets $0.04
+11decopas: calls $0.04
+flacoboris: folds 
+*** TURN *** [As Kh Jh] [4c]
+kruge: bets $0.04
+11decopas: raises $0.04 to $0.08
+kruge: calls $0.04
+*** RIVER *** [As Kh Jh 4c] [3d]
+kruge: checks 
+11decopas: checks 
+*** SHOW DOWN ***
+kruge: shows [4d Qh] (a pair of Fours)
+11decopas: shows [Ah Td] (a pair of Aces)
+11decopas collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [As Kh Jh 4c 3d]
+Seat 1: VEMenshikov folded before Flop (didn't bet)
+Seat 2: flacoboris folded on the Flop
+Seat 3: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 4: mataski (small blind) folded before Flop
+Seat 5: kruge (big blind) showed [4d Qh] and lost with a pair of Fours
+Seat 6: slemi1986 folded before Flop (didn't bet)
+Seat 7: 11decopas showed [Ah Td] and won ($0.30) with a pair of Aces
+Seat 8: mahspace folded before Flop (didn't bet)
+Seat 9: TRUBACH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847111569:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:56:11 PT [2021/04/14 20:56:11 ET]
+Table 'Stromgrenia III' 9-max Seat #4 is the button
+Seat 1: VEMenshikov ($3.42 in chips) 
+Seat 2: flacoboris ($3.96 in chips) 
+Seat 3: Dorex2007 ($2.82 in chips) 
+Seat 4: mataski ($0.19 in chips) 
+Seat 5: kruge ($0.85 in chips) 
+Seat 6: slemi1986 ($1.72 in chips) 
+Seat 7: 11decopas ($0.96 in chips) 
+Seat 8: mahspace ($2.90 in chips) 
+Seat 9: TRUBACH ($0.94 in chips) 
+kruge: posts small blind $0.01
+slemi1986: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 7c]
+11decopas: calls $0.02
+mahspace: folds 
+TRUBACH: folds 
+VEMenshikov: folds 
+flacoboris: folds 
+Dorex2007: folds 
+mataski: folds 
+kruge: calls $0.01
+slemi1986: checks 
+*** FLOP *** [Ah Tc 6s]
+kruge: checks 
+slemi1986: bets $0.04
+11decopas: folds 
+kruge: folds 
+Uncalled bet ($0.04) returned to slemi1986
+slemi1986 collected $0.06 from pot
+slemi1986: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Ah Tc 6s]
+Seat 1: VEMenshikov folded before Flop (didn't bet)
+Seat 2: flacoboris folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: mataski (button) folded before Flop (didn't bet)
+Seat 5: kruge (small blind) folded on the Flop
+Seat 6: slemi1986 (big blind) collected ($0.06)
+Seat 7: 11decopas folded on the Flop
+Seat 8: mahspace folded before Flop (didn't bet)
+Seat 9: TRUBACH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847120488:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:56:49 PT [2021/04/14 20:56:49 ET]
+Table 'Stromgrenia III' 9-max Seat #5 is the button
+Seat 1: VEMenshikov ($3.42 in chips) 
+Seat 2: flacoboris ($3.96 in chips) 
+Seat 3: Dorex2007 ($2.82 in chips) 
+Seat 4: mataski ($0.19 in chips) 
+Seat 5: kruge ($0.83 in chips) 
+Seat 6: slemi1986 ($1.76 in chips) 
+Seat 7: 11decopas ($0.94 in chips) 
+Seat 8: mahspace ($2.90 in chips) 
+Seat 9: TRUBACH ($0.94 in chips) 
+slemi1986: posts small blind $0.01
+11decopas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 4c]
+mahspace: folds 
+TRUBACH: folds 
+VEMenshikov: folds 
+flacoboris: raises $0.03 to $0.05
+Dorex2007: folds 
+mataski: folds 
+kruge: folds 
+slemi1986: folds 
+11decopas: folds 
+Uncalled bet ($0.03) returned to flacoboris
+flacoboris collected $0.05 from pot
+flacoboris: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: VEMenshikov folded before Flop (didn't bet)
+Seat 2: flacoboris collected ($0.05)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: mataski folded before Flop (didn't bet)
+Seat 5: kruge (button) folded before Flop (didn't bet)
+Seat 6: slemi1986 (small blind) folded before Flop
+Seat 7: 11decopas (big blind) folded before Flop
+Seat 8: mahspace folded before Flop (didn't bet)
+Seat 9: TRUBACH folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847125238:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:57:10 PT [2021/04/14 20:57:10 ET]
+Table 'Stromgrenia III' 9-max Seat #6 is the button
+Seat 1: VEMenshikov ($3.42 in chips) 
+Seat 2: flacoboris ($3.99 in chips) 
+Seat 3: Dorex2007 ($2.82 in chips) 
+Seat 4: mataski ($0.19 in chips) 
+Seat 5: kruge ($1.63 in chips) 
+Seat 6: slemi1986 ($1.75 in chips) 
+Seat 7: 11decopas ($0.92 in chips) 
+Seat 9: TRUBACH ($0.94 in chips) 
+11decopas: posts small blind $0.01
+TRUBACH: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Ts]
+VEMenshikov: folds 
+flacoboris: folds 
+Dorex2007: folds 
+mataski: folds 
+kruge: folds 
+slemi1986: folds 
+11decopas: calls $0.01
+TRUBACH: checks 
+*** FLOP *** [3s 3c Qh]
+flacoboris leaves the table
+mahspace leaves the table
+11decopas: checks 
+TRUBACH: checks 
+*** TURN *** [3s 3c Qh] [2c]
+11decopas: checks 
+TRUBACH: checks 
+*** RIVER *** [3s 3c Qh 2c] [Ad]
+11decopas: checks 
+TRUBACH: checks 
+*** SHOW DOWN ***
+11decopas: shows [Jc Tc] (a pair of Threes)
+TRUBACH: mucks hand 
+11decopas collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3s 3c Qh 2c Ad]
+Seat 1: VEMenshikov folded before Flop (didn't bet)
+Seat 2: flacoboris folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: mataski folded before Flop (didn't bet)
+Seat 5: kruge folded before Flop (didn't bet)
+Seat 6: slemi1986 (button) folded before Flop (didn't bet)
+Seat 7: 11decopas (small blind) showed [Jc Tc] and won ($0.04) with a pair of Threes
+Seat 9: TRUBACH (big blind) mucked [Th 7c]
+
+
+
+PokerStars Hand #225847133353:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:57:45 PT [2021/04/14 20:57:45 ET]
+Table 'Stromgrenia III' 9-max Seat #7 is the button
+Seat 1: VEMenshikov ($3.42 in chips) 
+Seat 3: Dorex2007 ($2.82 in chips) 
+Seat 4: mataski ($0.19 in chips) 
+Seat 5: kruge ($1.63 in chips) 
+Seat 6: slemi1986 ($1.75 in chips) 
+Seat 7: 11decopas ($0.94 in chips) 
+Seat 9: TRUBACH ($0.92 in chips) 
+TRUBACH: posts small blind $0.01
+VEMenshikov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Kh]
+Dorex2007: folds 
+mataski: raises $0.02 to $0.04
+kruge: folds 
+slemi1986: raises $0.04 to $0.08
+11decopas: folds 
+TRUBACH: folds 
+VEMenshikov: folds 
+mataski: raises $0.11 to $0.19 and is all-in
+slemi1986: calls $0.11
+*** FLOP *** [Ts 3d 9s]
+*** TURN *** [Ts 3d 9s] [Kd]
+*** RIVER *** [Ts 3d 9s Kd] [2s]
+*** SHOW DOWN ***
+mataski: shows [Ac Jh] (high card Ace)
+slemi1986: shows [Kc Jd] (a pair of Kings)
+slemi1986 collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Ts 3d 9s Kd 2s]
+Seat 1: VEMenshikov (big blind) folded before Flop
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: mataski showed [Ac Jh] and lost with high card Ace
+Seat 5: kruge folded before Flop (didn't bet)
+Seat 6: slemi1986 showed [Kc Jd] and won ($0.40) with a pair of Kings
+Seat 7: 11decopas (button) folded before Flop (didn't bet)
+Seat 9: TRUBACH (small blind) folded before Flop
+
+
+
+PokerStars Hand #225847141027:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:58:19 PT [2021/04/14 20:58:19 ET]
+Table 'Stromgrenia III' 9-max Seat #9 is the button
+Seat 1: VEMenshikov ($3.40 in chips) 
+Seat 3: Dorex2007 ($2.82 in chips) 
+Seat 5: kruge ($1.63 in chips) 
+Seat 6: slemi1986 ($1.96 in chips) 
+Seat 7: 11decopas ($0.94 in chips) 
+Seat 9: TRUBACH ($0.91 in chips) 
+VEMenshikov: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 8c]
+mataski leaves the table
+kruge: raises $0.02 to $0.04
+slemi1986: folds 
+11decopas: folds 
+TRUBACH: folds 
+VEMenshikov: folds 
+Dorex2007: folds 
+Uncalled bet ($0.02) returned to kruge
+kruge collected $0.05 from pot
+kruge: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: VEMenshikov (small blind) folded before Flop
+Seat 3: Dorex2007 (big blind) folded before Flop
+Seat 5: kruge collected ($0.05)
+Seat 6: slemi1986 folded before Flop (didn't bet)
+Seat 7: 11decopas folded before Flop (didn't bet)
+Seat 9: TRUBACH (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847143951:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 17:58:31 PT [2021/04/14 20:58:31 ET]
+Table 'Stromgrenia III' 9-max Seat #1 is the button
+Seat 1: VEMenshikov ($3.39 in chips) 
+Seat 3: Dorex2007 ($2.80 in chips) 
+Seat 5: kruge ($1.66 in chips) 
+Seat 6: slemi1986 ($1.96 in chips) 
+Seat 7: 11decopas ($0.94 in chips) 
+Seat 9: TRUBACH ($0.91 in chips) 
+Dorex2007: posts small blind $0.01
+kruge: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 2d]
+slemi1986: raises $0.02 to $0.04
+11decopas: folds 
+TRUBACH: calls $0.04
+VEMenshikov: folds 
+Dorex2007: folds 
+kruge: calls $0.02
+*** FLOP *** [As Kd Ah]
+VEMenshikov leaves the table
+kruge: checks 
+slemi1986: bets $0.04
+TRUBACH: calls $0.04
+kruge: folds 
+*** TURN *** [As Kd Ah] [9s]
+slemi1986: bets $0.06
+TRUBACH: raises $0.06 to $0.12
+slemi1986: calls $0.06
+*** RIVER *** [As Kd Ah 9s] [6c]
+kruge leaves the table
+slemi1986: bets $0.06
+TRUBACH: calls $0.06
+*** SHOW DOWN ***
+slemi1986: shows [Tc Ks] (two pair, Aces and Kings)
+TRUBACH: shows [Ac 8c] (three of a kind, Aces)
+TRUBACH collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [As Kd Ah 9s 6c]
+Seat 1: VEMenshikov (button) folded before Flop (didn't bet)
+Seat 3: Dorex2007 (small blind) folded before Flop
+Seat 5: kruge (big blind) folded on the Flop
+Seat 6: slemi1986 showed [Tc Ks] and lost with two pair, Aces and Kings
+Seat 7: 11decopas folded before Flop (didn't bet)
+Seat 9: TRUBACH showed [Ac 8c] and won ($0.55) with three of a kind, Aces
+
+
+

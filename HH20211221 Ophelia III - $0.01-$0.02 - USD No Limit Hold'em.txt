@@ -1,0 +1,4344 @@
+﻿PokerStars Hand #232418686385:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:26:12 PT [2021/12/21 22:26:12 ET]
+Table 'Ophelia III' 9-max Seat #9 is the button
+Seat 1: sketch077 ($1.82 in chips) 
+Seat 2: sansisbai ($2.21 in chips) 
+Seat 3: zsolt1972051 ($6.39 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: dudoippon ($3.02 in chips) 
+Seat 6: Tenorio422 ($3.56 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: DalvMgdn ($0.79 in chips) 
+sketch077: posts small blind $0.01
+sansisbai: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 5s]
+zsolt1972051: calls $0.02
+bloody55hawk: folds 
+dudoippon: raises $0.02 to $0.04
+Tenorio422: folds 
+Dorex2007: folds 
+kramuka77 is disconnected 
+DalvMgdn: calls $0.04
+sketch077: folds 
+sansisbai: folds 
+zsolt1972051: calls $0.02
+*** FLOP *** [4h Jd 7d]
+zsolt1972051: checks 
+dudoippon: checks 
+DalvMgdn: checks 
+*** TURN *** [4h Jd 7d] [Kh]
+zsolt1972051: checks 
+dudoippon: checks 
+DalvMgdn: checks 
+*** RIVER *** [4h Jd 7d Kh] [6s]
+zsolt1972051: checks 
+dudoippon: checks 
+DalvMgdn: checks 
+*** SHOW DOWN ***
+zsolt1972051: shows [8c Ah] (high card Ace)
+dudoippon: mucks hand 
+DalvMgdn: mucks hand 
+zsolt1972051 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [4h Jd 7d Kh 6s]
+Seat 1: sketch077 (small blind) folded before Flop
+Seat 2: sansisbai (big blind) folded before Flop
+Seat 3: zsolt1972051 showed [8c Ah] and won ($0.16) with high card Ace
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: dudoippon mucked [Ac 3c]
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: DalvMgdn (button) mucked [3h Qc]
+
+
+
+PokerStars Hand #232418704242:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:27:25 PT [2021/12/21 22:27:25 ET]
+Table 'Ophelia III' 9-max Seat #1 is the button
+Seat 1: sketch077 ($1.81 in chips) 
+Seat 2: sansisbai ($2.19 in chips) 
+Seat 3: zsolt1972051 ($6.51 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: dudoippon ($2.98 in chips) 
+Seat 6: Tenorio422 ($3.56 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: DalvMgdn ($0.75 in chips) 
+sansisbai: posts small blind $0.01
+zsolt1972051: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Kh]
+bloody55hawk: folds 
+dudoippon: calls $0.02
+Tenorio422: folds 
+Dorex2007: folds 
+DalvMgdn: folds 
+sketch077: folds 
+sansisbai: folds 
+zsolt1972051: checks 
+*** FLOP *** [Ac Ks 6s]
+zsolt1972051: checks 
+dudoippon: bets $0.03
+zsolt1972051: folds 
+Uncalled bet ($0.03) returned to dudoippon
+dudoippon collected $0.05 from pot
+dudoippon: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ac Ks 6s]
+Seat 1: sketch077 (button) folded before Flop (didn't bet)
+Seat 2: sansisbai (small blind) folded before Flop
+Seat 3: zsolt1972051 (big blind) folded on the Flop
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: dudoippon collected ($0.05)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: DalvMgdn folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232418723958:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:28:13 PT [2021/12/21 22:28:13 ET]
+Table 'Ophelia III' 9-max Seat #2 is the button
+Seat 1: sketch077 ($1.81 in chips) 
+Seat 2: sansisbai ($2.18 in chips) 
+Seat 3: zsolt1972051 ($6.49 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: dudoippon ($3.01 in chips) 
+Seat 6: Tenorio422 ($3.56 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: DalvMgdn ($0.75 in chips) 
+zsolt1972051: posts small blind $0.01
+bloody55hawk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Ac]
+dudoippon: folds 
+Tenorio422: folds 
+dudoippon leaves the table
+Dorex2007: folds 
+DalvMgdn: calls $0.02
+sketch077: folds 
+sansisbai: folds 
+zsolt1972051: calls $0.01
+tuzzz444 joins the table at seat #5 
+bloody55hawk: checks 
+*** FLOP *** [Kc 4d 8c]
+zsolt1972051: checks 
+bloody55hawk: checks 
+DalvMgdn: checks 
+*** TURN *** [Kc 4d 8c] [Ts]
+zsolt1972051: checks 
+bloody55hawk: checks 
+DalvMgdn: checks 
+*** RIVER *** [Kc 4d 8c Ts] [2s]
+zsolt1972051: checks 
+bloody55hawk: checks 
+DalvMgdn: checks 
+*** SHOW DOWN ***
+zsolt1972051: shows [As Qd] (high card Ace)
+bloody55hawk: shows [3s 2c] (a pair of Deuces)
+DalvMgdn: mucks hand 
+bloody55hawk collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Kc 4d 8c Ts 2s]
+Seat 1: sketch077 folded before Flop (didn't bet)
+Seat 2: sansisbai (button) folded before Flop (didn't bet)
+Seat 3: zsolt1972051 (small blind) showed [As Qd] and lost with high card Ace
+Seat 4: bloody55hawk (big blind) showed [3s 2c] and won ($0.06) with a pair of Deuces
+Seat 5: dudoippon folded before Flop (didn't bet)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: DalvMgdn mucked [Ah 3h]
+
+
+
+PokerStars Hand #232418752240:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:29:54 PT [2021/12/21 22:29:54 ET]
+Table 'Ophelia III' 9-max Seat #3 is the button
+Seat 1: sketch077 ($1.81 in chips) 
+Seat 2: sansisbai ($2.18 in chips) 
+Seat 3: zsolt1972051 ($6.47 in chips) 
+Seat 4: bloody55hawk ($0.84 in chips) 
+Seat 5: tuzzz444 ($1.33 in chips) 
+Seat 6: Tenorio422 ($3.56 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: DalvMgdn ($0.73 in chips) 
+bloody55hawk: posts small blind $0.01
+tuzzz444: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 4d]
+Tenorio422: folds 
+Dorex2007: folds 
+DalvMgdn: calls $0.02
+sketch077: raises $0.08 to $0.10
+sansisbai: folds 
+zsolt1972051: folds 
+bloody55hawk: folds 
+tuzzz444: calls $0.08
+DalvMgdn: folds 
+*** FLOP *** [Ah Th 9d]
+tuzzz444: checks 
+sketch077: bets $0.11
+tuzzz444: raises $1.12 to $1.23 and is all-in
+sketch077: calls $1.12
+*** TURN *** [Ah Th 9d] [Js]
+*** RIVER *** [Ah Th 9d Js] [Jh]
+*** SHOW DOWN ***
+tuzzz444: shows [9c Ad] (two pair, Aces and Jacks)
+sketch077: shows [Qc Ac] (two pair, Aces and Jacks - Queen kicker)
+sketch077 collected $2.60 from pot
+*** SUMMARY ***
+Total pot $2.69 | Rake $0.09 
+Board [Ah Th 9d Js Jh]
+Seat 1: sketch077 showed [Qc Ac] and won ($2.60) with two pair, Aces and Jacks
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 (button) folded before Flop (didn't bet)
+Seat 4: bloody55hawk (small blind) folded before Flop
+Seat 5: tuzzz444 (big blind) showed [9c Ad] and lost with two pair, Aces and Jacks
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: DalvMgdn folded before Flop
+
+
+
+PokerStars Hand #232418762940:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:30:44 PT [2021/12/21 22:30:44 ET]
+Table 'Ophelia III' 9-max Seat #4 is the button
+Seat 1: sketch077 ($3.08 in chips) 
+Seat 2: sansisbai ($2.18 in chips) 
+Seat 3: zsolt1972051 ($6.47 in chips) 
+Seat 4: bloody55hawk ($0.83 in chips) 
+Seat 6: Tenorio422 ($3.56 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: DalvMgdn ($0.71 in chips) 
+Tenorio422: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 9c]
+tuzzz444 leaves the table
+DalvMgdn has timed out
+DalvMgdn: folds 
+sketch077: folds 
+sansisbai: folds 
+zsolt1972051: folds 
+bloody55hawk: folds 
+Tenorio422: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: sketch077 folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 folded before Flop (didn't bet)
+Seat 4: bloody55hawk (button) folded before Flop (didn't bet)
+Seat 6: Tenorio422 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) collected ($0.02)
+Seat 9: DalvMgdn folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232418767053:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:31:04 PT [2021/12/21 22:31:04 ET]
+Table 'Ophelia III' 9-max Seat #6 is the button
+Seat 1: sketch077 ($3.08 in chips) 
+Seat 2: sansisbai ($2.18 in chips) 
+Seat 3: zsolt1972051 ($6.47 in chips) 
+Seat 4: bloody55hawk ($0.83 in chips) 
+Seat 6: Tenorio422 ($3.55 in chips) 
+Seat 8: Dorex2007 ($2.01 in chips) 
+Dorex2007: posts small blind $0.01
+sketch077: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 9d]
+sansisbai: folds 
+zsolt1972051: calls $0.02
+bloody55hawk: folds 
+Tenorio422: raises $0.10 to $0.12
+Dorex2007: folds 
+sketch077: folds 
+zsolt1972051: calls $0.10
+*** FLOP *** [Kd Kc 5c]
+zsolt1972051: checks 
+Tenorio422: bets $0.22
+pIay2kiLL joins the table at seat #5 
+zsolt1972051: calls $0.22
+*** TURN *** [Kd Kc 5c] [2c]
+zsolt1972051: checks 
+Tenorio422: bets $0.50
+zsolt1972051: calls $0.50
+*** RIVER *** [Kd Kc 5c 2c] [Js]
+zsolt1972051: checks 
+Tenorio422: checks 
+*** SHOW DOWN ***
+zsolt1972051: shows [3c 9c] (a flush, King high)
+Tenorio422: mucks hand 
+zsolt1972051 collected $1.65 from pot
+*** SUMMARY ***
+Total pot $1.71 | Rake $0.06 
+Board [Kd Kc 5c 2c Js]
+Seat 1: sketch077 (big blind) folded before Flop
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 showed [3c 9c] and won ($1.65) with a flush, King high
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 6: Tenorio422 (button) mucked [9s 6s]
+Seat 8: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232418779932:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:32:05 PT [2021/12/21 22:32:05 ET]
+Table 'Ophelia III' 9-max Seat #8 is the button
+Seat 1: sketch077 ($3.06 in chips) 
+Seat 2: sansisbai ($2.18 in chips) 
+Seat 3: zsolt1972051 ($7.28 in chips) 
+Seat 4: bloody55hawk ($0.83 in chips) 
+Seat 6: Tenorio422 ($2.71 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+sketch077: posts small blind $0.01
+sansisbai: posts big blind $0.02
+pIay2kiLL: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 2c]
+zsolt1972051: folds 
+bloody55hawk: raises $0.04 to $0.06
+Tenorio422: folds 
+Dorex2007: folds 
+sketch077: folds 
+sansisbai: calls $0.04
+*** FLOP *** [3s As Jh]
+sansisbai: checks 
+bloody55hawk: bets $0.77 and is all-in
+sansisbai: calls $0.77
+*** TURN *** [3s As Jh] [7h]
+*** RIVER *** [3s As Jh 7h] [Qd]
+*** SHOW DOWN ***
+sansisbai: shows [9c Ac] (a pair of Aces)
+bloody55hawk: shows [Qs Ks] (a pair of Queens)
+sansisbai cashed out the hand for $0.84 | Cash Out Fee $0.01
+bloody55hawk cashed out the hand for $0.75 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $1.67 | Rake $0.06 
+Board [3s As Jh 7h Qd]
+Seat 1: sketch077 (small blind) folded before Flop
+Seat 2: sansisbai (big blind) showed [9c Ac] and won ($1.61) with a pair of Aces (pot not awarded as player cashed out)
+Seat 3: zsolt1972051 folded before Flop (didn't bet)
+Seat 4: bloody55hawk showed [Qs Ks] and lost with a pair of Queens (cashed out).
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232418797275:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:32:40 PT [2021/12/21 22:32:40 ET]
+Table 'Ophelia III' 9-max Seat #1 is the button
+Seat 1: sketch077 ($3.05 in chips) 
+Seat 2: sansisbai ($2.19 in chips) 
+Seat 3: zsolt1972051 ($7.28 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 6: Tenorio422 ($2.71 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: DalvMgdn ($0.71 in chips) 
+sansisbai: posts small blind $0.01
+zsolt1972051: posts big blind $0.02
+pIay2kiLL: sits out 
+DalvMgdn: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 6d]
+bloody55hawk: folds 
+Tenorio422: folds 
+Dorex2007: folds 
+DalvMgdn: checks 
+sketch077: folds 
+sansisbai: folds 
+zsolt1972051: checks 
+*** FLOP *** [4s 6s 2c]
+zsolt1972051: bets $0.02
+DalvMgdn: folds 
+Uncalled bet ($0.02) returned to zsolt1972051
+zsolt1972051 collected $0.06 from pot
+zsolt1972051: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [4s 6s 2c]
+Seat 1: sketch077 (button) folded before Flop (didn't bet)
+Seat 2: sansisbai (small blind) folded before Flop
+Seat 3: zsolt1972051 (big blind) collected ($0.06)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: DalvMgdn folded on the Flop (didn't bet)
+
+
+
+PokerStars Hand #232418804793:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:33:15 PT [2021/12/21 22:33:15 ET]
+Table 'Ophelia III' 9-max Seat #2 is the button
+Seat 1: sketch077 ($3.05 in chips) 
+Seat 2: sansisbai ($2.18 in chips) 
+Seat 3: zsolt1972051 ($7.32 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 6: Tenorio422 ($2.71 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: DalvMgdn ($0.68 in chips) 
+zsolt1972051: posts small blind $0.01
+bloody55hawk: posts big blind $0.02
+pIay2kiLL: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 8c]
+Tenorio422: folds 
+Dorex2007: folds 
+DalvMgdn: calls $0.02
+sketch077: folds 
+sansisbai: folds 
+zsolt1972051: calls $0.01
+bloody55hawk: checks 
+*** FLOP *** [4s Td 6s]
+zsolt1972051: checks 
+bloody55hawk: checks 
+DalvMgdn: checks 
+*** TURN *** [4s Td 6s] [6c]
+zsolt1972051: checks 
+bloody55hawk: checks 
+DalvMgdn: checks 
+*** RIVER *** [4s Td 6s 6c] [2d]
+zsolt1972051: checks 
+bloody55hawk: checks 
+DalvMgdn: checks 
+*** SHOW DOWN ***
+zsolt1972051: shows [5d Jd] (a pair of Sixes)
+bloody55hawk: shows [Kc 7d] (a pair of Sixes - King kicker)
+DalvMgdn: shows [8s Kd] (a pair of Sixes - King+Ten+Eight kicker)
+DalvMgdn collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [4s Td 6s 6c 2d]
+Seat 1: sketch077 folded before Flop (didn't bet)
+Seat 2: sansisbai (button) folded before Flop (didn't bet)
+Seat 3: zsolt1972051 (small blind) showed [5d Jd] and lost with a pair of Sixes
+Seat 4: bloody55hawk (big blind) showed [Kc 7d] and lost with a pair of Sixes
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: DalvMgdn showed [8s Kd] and won ($0.06) with a pair of Sixes
+
+
+
+PokerStars Hand #232418816079:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:34:09 PT [2021/12/21 22:34:09 ET]
+Table 'Ophelia III' 9-max Seat #3 is the button
+Seat 1: sketch077 ($3.05 in chips) 
+Seat 2: sansisbai ($2.18 in chips) 
+Seat 3: zsolt1972051 ($7.30 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2 in chips) 
+Seat 6: Tenorio422 ($2.71 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: DalvMgdn ($0.72 in chips) 
+bloody55hawk: posts small blind $0.01
+pIay2kiLL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Qs]
+Tenorio422: folds 
+Dorex2007: folds 
+DalvMgdn: folds 
+sketch077: folds 
+sansisbai: folds 
+zsolt1972051: folds 
+bloody55hawk: folds 
+Uncalled bet ($0.01) returned to pIay2kiLL
+pIay2kiLL collected $0.02 from pot
+pIay2kiLL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: sketch077 folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 (button) folded before Flop (didn't bet)
+Seat 4: bloody55hawk (small blind) folded before Flop
+Seat 5: pIay2kiLL (big blind) collected ($0.02)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: DalvMgdn folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232418819395:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:34:24 PT [2021/12/21 22:34:24 ET]
+Table 'Ophelia III' 9-max Seat #4 is the button
+Seat 1: sketch077 ($3.05 in chips) 
+Seat 2: sansisbai ($2.18 in chips) 
+Seat 3: zsolt1972051 ($7.30 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.01 in chips) 
+Seat 6: Tenorio422 ($2.71 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: DalvMgdn ($0.72 in chips) 
+pIay2kiLL: posts small blind $0.01
+Tenorio422: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Kc]
+Dorex2007: folds 
+DalvMgdn has timed out
+DalvMgdn: folds 
+sketch077: folds 
+sansisbai: folds 
+zsolt1972051: folds 
+bloody55hawk: raises $0.04 to $0.06
+pIay2kiLL: folds 
+Tenorio422: folds 
+Uncalled bet ($0.04) returned to bloody55hawk
+bloody55hawk collected $0.05 from pot
+bloody55hawk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: sketch077 folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 folded before Flop (didn't bet)
+Seat 4: bloody55hawk (button) collected ($0.05)
+Seat 5: pIay2kiLL (small blind) folded before Flop
+Seat 6: Tenorio422 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: DalvMgdn folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232418824904:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:34:50 PT [2021/12/21 22:34:50 ET]
+Table 'Ophelia III' 9-max Seat #5 is the button
+Seat 1: sketch077 ($3.05 in chips) 
+Seat 2: sansisbai ($2.18 in chips) 
+Seat 3: zsolt1972051 ($7.30 in chips) 
+Seat 4: bloody55hawk ($0.83 in chips) 
+Seat 5: pIay2kiLL ($2 in chips) 
+Seat 6: Tenorio422 ($2.69 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: DalvMgdn ($0.72 in chips) 
+Tenorio422: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 7s]
+DalvMgdn: folds 
+sketch077: folds 
+sansisbai: raises $0.04 to $0.06
+zsolt1972051: calls $0.06
+bloody55hawk: folds 
+pIay2kiLL: folds 
+Tenorio422: raises $0.32 to $0.38
+Dorex2007: folds 
+sansisbai: folds 
+zsolt1972051: calls $0.32
+*** FLOP *** [4s Qc 4h]
+Tenorio422: checks 
+zsolt1972051: checks 
+*** TURN *** [4s Qc 4h] [7c]
+Tenorio422: bets $0.52
+zsolt1972051: folds 
+Uncalled bet ($0.52) returned to Tenorio422
+Tenorio422 collected $0.81 from pot
+*** SUMMARY ***
+Total pot $0.84 | Rake $0.03 
+Board [4s Qc 4h 7c]
+Seat 1: sketch077 folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop
+Seat 3: zsolt1972051 folded on the Turn
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL (button) folded before Flop (didn't bet)
+Seat 6: Tenorio422 (small blind) collected ($0.81)
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: DalvMgdn folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232418838856:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:35:56 PT [2021/12/21 22:35:56 ET]
+Table 'Ophelia III' 9-max Seat #6 is the button
+Seat 1: sketch077 ($3.05 in chips) 
+Seat 2: sansisbai ($2.12 in chips) 
+Seat 3: zsolt1972051 ($6.92 in chips) 
+Seat 4: bloody55hawk ($0.83 in chips) 
+Seat 5: pIay2kiLL ($2 in chips) 
+Seat 6: Tenorio422 ($3.12 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: DalvMgdn ($0.72 in chips) 
+Dorex2007: posts small blind $0.01
+DalvMgdn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 3c]
+sketch077: folds 
+sansisbai: folds 
+zsolt1972051: folds 
+bloody55hawk: folds 
+pIay2kiLL: folds 
+Tenorio422: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to DalvMgdn
+DalvMgdn collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: sketch077 folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 folded before Flop (didn't bet)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: Tenorio422 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: DalvMgdn (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #232418841382:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:36:08 PT [2021/12/21 22:36:08 ET]
+Table 'Ophelia III' 9-max Seat #8 is the button
+Seat 1: sketch077 ($3.05 in chips) 
+Seat 2: sansisbai ($2.12 in chips) 
+Seat 3: zsolt1972051 ($6.92 in chips) 
+Seat 4: bloody55hawk ($0.83 in chips) 
+Seat 5: pIay2kiLL ($2 in chips) 
+Seat 6: Tenorio422 ($3.12 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: DalvMgdn ($0.73 in chips) 
+DalvMgdn: posts small blind $0.01
+sketch077: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 7h]
+sansisbai: raises $0.04 to $0.06
+zsolt1972051: calls $0.06
+bloody55hawk: folds 
+pIay2kiLL: folds 
+Tenorio422: folds 
+Dorex2007: folds 
+DalvMgdn: folds 
+sketch077: calls $0.04
+*** FLOP *** [3h 4c Js]
+sketch077: checks 
+sansisbai: bets $0.18
+kramuka77 leaves the table
+zsolt1972051: calls $0.18
+sketch077: folds 
+*** TURN *** [3h 4c Js] [4s]
+sansisbai: checks 
+zsolt1972051: bets $0.27
+sansisbai: raises $1.61 to $1.88 and is all-in
+zsolt1972051: calls $1.61
+*** RIVER *** [3h 4c Js 4s] [2c]
+*** SHOW DOWN ***
+sansisbai: shows [Ac Ah] (two pair, Aces and Fours)
+zsolt1972051: shows [Ks 6s] (a pair of Fours)
+sansisbai cashed out the hand for $3.38 | Cash Out Fee $0.03
+*** SUMMARY ***
+Total pot $4.31 | Rake $0.15 
+Board [3h 4c Js 4s 2c]
+Seat 1: sketch077 (big blind) folded on the Flop
+Seat 2: sansisbai showed [Ac Ah] and won ($4.16) with two pair, Aces and Fours (pot not awarded as player cashed out)
+Seat 3: zsolt1972051 showed [Ks 6s] and lost with a pair of Fours
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: DalvMgdn (small blind) folded before Flop
+
+
+
+PokerStars Hand #232418852191:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:37:00 PT [2021/12/21 22:37:00 ET]
+Table 'Ophelia III' 9-max Seat #9 is the button
+Seat 1: sketch077 ($2.99 in chips) 
+Seat 2: sansisbai ($3.38 in chips) 
+Seat 3: zsolt1972051 ($4.80 in chips) 
+Seat 4: bloody55hawk ($0.83 in chips) 
+Seat 5: pIay2kiLL ($2 in chips) 
+Seat 6: Tenorio422 ($3.12 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: DalvMgdn ($0.72 in chips) 
+sketch077: posts small blind $0.01
+sansisbai: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 9s]
+zsolt1972051: raises $0.05 to $0.07
+bloody55hawk: folds 
+pIay2kiLL: folds 
+Tenorio422: folds 
+Dorex2007: folds 
+DalvMgdn: calls $0.07
+sketch077: folds 
+sansisbai: folds 
+*** FLOP *** [2s 8c As]
+zsolt1972051: checks 
+DalvMgdn: checks 
+*** TURN *** [2s 8c As] [8h]
+zsolt1972051: checks 
+DalvMgdn: checks 
+*** RIVER *** [2s 8c As 8h] [5s]
+zsolt1972051: checks 
+DalvMgdn: checks 
+*** SHOW DOWN ***
+zsolt1972051: shows [Jd Kd] (a pair of Eights)
+DalvMgdn: mucks hand 
+zsolt1972051 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [2s 8c As 8h 5s]
+Seat 1: sketch077 (small blind) folded before Flop
+Seat 2: sansisbai (big blind) folded before Flop
+Seat 3: zsolt1972051 showed [Jd Kd] and won ($0.16) with a pair of Eights
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: DalvMgdn (button) mucked [Jh 9d]
+
+
+
+PokerStars Hand #232418865497:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:38:03 PT [2021/12/21 22:38:03 ET]
+Table 'Ophelia III' 9-max Seat #1 is the button
+Seat 1: sketch077 ($2.98 in chips) 
+Seat 2: sansisbai ($3.36 in chips) 
+Seat 3: zsolt1972051 ($4.89 in chips) 
+Seat 4: bloody55hawk ($0.83 in chips) 
+Seat 5: pIay2kiLL ($2 in chips) 
+Seat 6: Tenorio422 ($3.12 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: DalvMgdn ($0.65 in chips) 
+sansisbai: posts small blind $0.01
+zsolt1972051: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 2d]
+bloody55hawk: raises $0.04 to $0.06
+pIay2kiLL: folds 
+Tenorio422: folds 
+Dorex2007: folds 
+DalvMgdn: calls $0.06
+sketch077: folds 
+sansisbai: folds 
+zsolt1972051: folds 
+*** FLOP *** [6d Ah 3d]
+bloody55hawk: bets $0.14
+TEMNIY2110 joins the table at seat #7 
+DalvMgdn: folds 
+Uncalled bet ($0.14) returned to bloody55hawk
+bloody55hawk collected $0.14 from pot
+bloody55hawk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [6d Ah 3d]
+Seat 1: sketch077 (button) folded before Flop (didn't bet)
+Seat 2: sansisbai (small blind) folded before Flop
+Seat 3: zsolt1972051 (big blind) folded before Flop
+Seat 4: bloody55hawk collected ($0.14)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: DalvMgdn folded on the Flop
+
+
+
+PokerStars Hand #232418872313:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:38:36 PT [2021/12/21 22:38:36 ET]
+Table 'Ophelia III' 9-max Seat #2 is the button
+Seat 1: sketch077 ($2.98 in chips) 
+Seat 2: sansisbai ($3.35 in chips) 
+Seat 3: zsolt1972051 ($4.87 in chips) 
+Seat 4: bloody55hawk ($0.91 in chips) 
+Seat 5: pIay2kiLL ($2 in chips) 
+Seat 6: Tenorio422 ($3.12 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: DalvMgdn ($0.59 in chips) 
+zsolt1972051: posts small blind $0.01
+bloody55hawk: posts big blind $0.02
+TEMNIY2110: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 2h]
+pIay2kiLL: folds 
+Tenorio422: folds 
+Dorex2007: folds 
+DalvMgdn: calls $0.02
+sketch077: raises $0.06 to $0.08
+sansisbai: folds 
+zsolt1972051: calls $0.07
+bloody55hawk: folds 
+DalvMgdn: calls $0.06
+*** FLOP *** [6c 4d 8c]
+zsolt1972051: checks 
+DalvMgdn: checks 
+sketch077: bets $0.13
+zsolt1972051: calls $0.13
+DalvMgdn: folds 
+*** TURN *** [6c 4d 8c] [2d]
+zsolt1972051: checks 
+sketch077: checks 
+*** RIVER *** [6c 4d 8c 2d] [5c]
+zsolt1972051: checks 
+sketch077: checks 
+*** SHOW DOWN ***
+zsolt1972051: shows [5s 3h] (a straight, Deuce to Six)
+sketch077: mucks hand 
+zsolt1972051 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [6c 4d 8c 2d 5c]
+Seat 1: sketch077 mucked [Kh Kd]
+Seat 2: sansisbai (button) folded before Flop (didn't bet)
+Seat 3: zsolt1972051 (small blind) showed [5s 3h] and won ($0.50) with a straight, Deuce to Six
+Seat 4: bloody55hawk (big blind) folded before Flop
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: DalvMgdn folded on the Flop
+
+
+
+PokerStars Hand #232418888204:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:39:53 PT [2021/12/21 22:39:53 ET]
+Table 'Ophelia III' 9-max Seat #3 is the button
+Seat 1: sketch077 ($2.77 in chips) 
+Seat 2: sansisbai ($3.35 in chips) 
+Seat 3: zsolt1972051 ($5.16 in chips) 
+Seat 4: bloody55hawk ($0.89 in chips) 
+Seat 5: pIay2kiLL ($2 in chips) 
+Seat 6: Tenorio422 ($3.12 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: DalvMgdn ($0.51 in chips) 
+bloody55hawk: posts small blind $0.01
+pIay2kiLL: posts big blind $0.02
+TEMNIY2110: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 9c]
+Tenorio422: folds 
+Dorex2007: folds 
+DalvMgdn: folds 
+sketch077: folds 
+sansisbai: folds 
+sketch077 said, "lol"
+zsolt1972051: folds 
+bloody55hawk: calls $0.01
+pIay2kiLL: raises $0.06 to $0.08
+bloody55hawk: folds 
+Uncalled bet ($0.06) returned to pIay2kiLL
+pIay2kiLL collected $0.04 from pot
+pIay2kiLL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: sketch077 folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 (button) folded before Flop (didn't bet)
+Seat 4: bloody55hawk (small blind) folded before Flop
+Seat 5: pIay2kiLL (big blind) collected ($0.04)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: DalvMgdn folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232418894578:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:40:24 PT [2021/12/21 22:40:24 ET]
+Table 'Ophelia III' 9-max Seat #4 is the button
+Seat 1: sketch077 ($2.77 in chips) 
+Seat 2: sansisbai ($3.35 in chips) 
+Seat 3: zsolt1972051 ($5.16 in chips) 
+Seat 4: bloody55hawk ($0.87 in chips) 
+Seat 5: pIay2kiLL ($2.02 in chips) 
+Seat 6: Tenorio422 ($3.12 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: DalvMgdn ($0.51 in chips) 
+pIay2kiLL: posts small blind $0.01
+Tenorio422: posts big blind $0.02
+TEMNIY2110: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 6c]
+Dorex2007: folds 
+DalvMgdn: calls $0.02
+sketch077: folds 
+sansisbai: folds 
+zsolt1972051: calls $0.02
+bloody55hawk: calls $0.02
+pIay2kiLL: folds 
+Tenorio422: checks 
+*** FLOP *** [4d Qh 8s]
+Tenorio422: checks 
+DalvMgdn: checks 
+zsolt1972051: checks 
+bloody55hawk: checks 
+*** TURN *** [4d Qh 8s] [7c]
+Tenorio422: bets $0.09
+DalvMgdn: folds 
+zsolt1972051: folds 
+bloody55hawk: folds 
+Uncalled bet ($0.09) returned to Tenorio422
+Tenorio422 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [4d Qh 8s 7c]
+Seat 1: sketch077 folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 folded on the Turn
+Seat 4: bloody55hawk (button) folded on the Turn
+Seat 5: pIay2kiLL (small blind) folded before Flop
+Seat 6: Tenorio422 (big blind) collected ($0.09)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: DalvMgdn folded on the Turn
+
+
+
+PokerStars Hand #232418904221:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:41:11 PT [2021/12/21 22:41:11 ET]
+Table 'Ophelia III' 9-max Seat #5 is the button
+Seat 1: sketch077 ($2.77 in chips) 
+Seat 2: sansisbai ($3.35 in chips) 
+Seat 3: zsolt1972051 ($5.14 in chips) 
+Seat 4: bloody55hawk ($0.85 in chips) 
+Seat 5: pIay2kiLL ($2.01 in chips) 
+Seat 6: Tenorio422 ($3.19 in chips) 
+Seat 7: TEMNIY2110 ($0.80 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: DalvMgdn ($0.49 in chips) 
+Tenorio422: posts small blind $0.01
+TEMNIY2110: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 6c]
+Dorex2007: folds 
+DalvMgdn: folds 
+sketch077: folds 
+sansisbai: folds 
+zsolt1972051: calls $0.02
+bloody55hawk: folds 
+pIay2kiLL: folds 
+Tenorio422: folds 
+TEMNIY2110: checks 
+*** FLOP *** [Ah Qd 4h]
+TEMNIY2110: checks 
+zsolt1972051: checks 
+*** TURN *** [Ah Qd 4h] [Qh]
+TEMNIY2110: bets $0.02
+zsolt1972051: calls $0.02
+*** RIVER *** [Ah Qd 4h Qh] [Ad]
+TEMNIY2110: bets $0.06
+zsolt1972051: folds 
+Uncalled bet ($0.06) returned to TEMNIY2110
+TEMNIY2110 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Ah Qd 4h Qh Ad]
+Seat 1: sketch077 folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 folded on the River
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL (button) folded before Flop (didn't bet)
+Seat 6: Tenorio422 (small blind) folded before Flop
+Seat 7: TEMNIY2110 (big blind) collected ($0.09)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: DalvMgdn folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232418912766:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:41:53 PT [2021/12/21 22:41:53 ET]
+Table 'Ophelia III' 9-max Seat #6 is the button
+Seat 1: sketch077 ($2.77 in chips) 
+Seat 2: sansisbai ($3.35 in chips) 
+Seat 3: zsolt1972051 ($5.10 in chips) 
+Seat 4: bloody55hawk ($0.85 in chips) 
+Seat 5: pIay2kiLL ($2.01 in chips) 
+Seat 6: Tenorio422 ($3.18 in chips) 
+Seat 7: TEMNIY2110 ($0.85 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: DalvMgdn ($0.49 in chips) 
+TEMNIY2110: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 8h]
+DalvMgdn: folds 
+sketch077: folds 
+sansisbai: folds 
+zsolt1972051: calls $0.02
+bloody55hawk: calls $0.02
+pIay2kiLL: folds 
+Tenorio422: folds 
+TEMNIY2110: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [2c 6s Kh]
+TEMNIY2110: checks 
+Dorex2007: checks 
+zsolt1972051: bets $0.08
+bloody55hawk: folds 
+TEMNIY2110: folds 
+Dorex2007: folds 
+Uncalled bet ($0.08) returned to zsolt1972051
+zsolt1972051 collected $0.08 from pot
+zsolt1972051: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [2c 6s Kh]
+Seat 1: sketch077 folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 collected ($0.08)
+Seat 4: bloody55hawk folded on the Flop
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: Tenorio422 (button) folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 (small blind) folded on the Flop
+Seat 8: Dorex2007 (big blind) folded on the Flop
+Seat 9: DalvMgdn folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232418922746:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:42:43 PT [2021/12/21 22:42:43 ET]
+Table 'Ophelia III' 9-max Seat #7 is the button
+Seat 1: sketch077 ($2.77 in chips) 
+Seat 2: sansisbai ($3.35 in chips) 
+Seat 3: zsolt1972051 ($5.16 in chips) 
+Seat 4: bloody55hawk ($0.83 in chips) 
+Seat 5: pIay2kiLL ($2.01 in chips) 
+Seat 6: Tenorio422 ($3.18 in chips) 
+Seat 7: TEMNIY2110 ($0.83 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: DalvMgdn ($0.49 in chips) 
+Dorex2007: posts small blind $0.01
+DalvMgdn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 5s]
+sketch077: folds 
+sansisbai: folds 
+sketch077 leaves the table
+zsolt1972051: folds 
+bloody55hawk: folds 
+pIay2kiLL: raises $0.04 to $0.06
+Tenorio422: calls $0.06
+TEMNIY2110: folds 
+Dorex2007: folds 
+DalvMgdn: calls $0.04
+*** FLOP *** [2s As 3d]
+DalvMgdn: checks 
+pIay2kiLL: bets $0.12
+Tenorio422: calls $0.12
+DalvMgdn: folds 
+*** TURN *** [2s As 3d] [Jc]
+pIay2kiLL: bets $1.83 and is all-in
+shawmoney joins the table at seat #1 
+Tenorio422: folds 
+Uncalled bet ($1.83) returned to pIay2kiLL
+pIay2kiLL collected $0.41 from pot
+pIay2kiLL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [2s As 3d Jc]
+Seat 1: sketch077 folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 folded before Flop (didn't bet)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL collected ($0.41)
+Seat 6: Tenorio422 folded on the Turn
+Seat 7: TEMNIY2110 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: DalvMgdn (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232418933552:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:43:36 PT [2021/12/21 22:43:36 ET]
+Table 'Ophelia III' 9-max Seat #8 is the button
+Seat 1: shawmoney ($1.60 in chips) 
+Seat 2: sansisbai ($3.35 in chips) 
+Seat 3: zsolt1972051 ($5.16 in chips) 
+Seat 4: bloody55hawk ($0.83 in chips) 
+Seat 5: pIay2kiLL ($2.24 in chips) 
+Seat 6: Tenorio422 ($3 in chips) 
+Seat 7: TEMNIY2110 ($0.83 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: DalvMgdn ($0.43 in chips) 
+DalvMgdn: posts small blind $0.01
+shawmoney: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 3s]
+sansisbai: folds 
+zsolt1972051: calls $0.02
+bloody55hawk: folds 
+pIay2kiLL: folds 
+Tenorio422: folds 
+TEMNIY2110: raises $0.04 to $0.06
+Dorex2007: folds 
+DalvMgdn: raises $0.04 to $0.10
+shawmoney: folds 
+zsolt1972051: calls $0.08
+TEMNIY2110: raises $0.22 to $0.32
+DalvMgdn: raises $0.11 to $0.43 and is all-in
+zsolt1972051: calls $0.33
+TEMNIY2110: calls $0.11
+*** FLOP *** [8d Kh Ad]
+zsolt1972051: checks 
+TEMNIY2110: bets $0.40 and is all-in
+zsolt1972051: folds 
+Uncalled bet ($0.40) returned to TEMNIY2110
+*** TURN *** [8d Kh Ad] [Ac]
+*** RIVER *** [8d Kh Ad Ac] [2h]
+*** SHOW DOWN ***
+DalvMgdn: shows [Ts Tc] (two pair, Aces and Tens)
+TEMNIY2110: shows [Qd Qc] (two pair, Aces and Queens)
+TEMNIY2110 collected $1.26 from pot
+*** SUMMARY ***
+Total pot $1.31 | Rake $0.05 
+Board [8d Kh Ad Ac 2h]
+Seat 1: shawmoney (big blind) folded before Flop
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 folded on the Flop
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 showed [Qd Qc] and won ($1.26) with two pair, Aces and Queens
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: DalvMgdn (small blind) showed [Ts Tc] and lost with two pair, Aces and Tens
+
+
+
+PokerStars Hand #232418946323:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:44:39 PT [2021/12/21 22:44:39 ET]
+Table 'Ophelia III' 9-max Seat #1 is the button
+Seat 1: shawmoney ($1.58 in chips) 
+Seat 2: sansisbai ($3.35 in chips) 
+Seat 3: zsolt1972051 ($4.73 in chips) 
+Seat 4: bloody55hawk ($0.83 in chips) 
+Seat 5: pIay2kiLL ($2.24 in chips) 
+Seat 6: Tenorio422 ($3 in chips) 
+Seat 7: TEMNIY2110 ($1.66 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+sansisbai: posts small blind $0.01
+zsolt1972051: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 8c]
+bloody55hawk: folds 
+DalvMgdn leaves the table
+pIay2kiLL: folds 
+Tenorio422: folds 
+TEMNIY2110: folds 
+Dorex2007: folds 
+shawmoney: calls $0.02
+sansisbai: folds 
+zsolt1972051: checks 
+*** FLOP *** [Qc Jh 3h]
+zsolt1972051: bets $0.02
+shawmoney: folds 
+Uncalled bet ($0.02) returned to zsolt1972051
+zsolt1972051 collected $0.05 from pot
+zsolt1972051: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qc Jh 3h]
+Seat 1: shawmoney (button) folded on the Flop
+Seat 2: sansisbai (small blind) folded before Flop
+Seat 3: zsolt1972051 (big blind) collected ($0.05)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232418952199:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:45:08 PT [2021/12/21 22:45:08 ET]
+Table 'Ophelia III' 9-max Seat #2 is the button
+Seat 1: shawmoney ($1.56 in chips) 
+Seat 2: sansisbai ($3.34 in chips) 
+Seat 3: zsolt1972051 ($4.76 in chips) 
+Seat 4: bloody55hawk ($0.83 in chips) 
+Seat 5: pIay2kiLL ($2.24 in chips) 
+Seat 6: Tenorio422 ($3 in chips) 
+Seat 7: TEMNIY2110 ($1.66 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+zsolt1972051: posts small blind $0.01
+bloody55hawk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Tc]
+pIay2kiLL: raises $0.04 to $0.06
+Tenorio422: folds 
+TEMNIY2110: folds 
+Dorex2007: folds 
+shawmoney: folds 
+sansisbai: folds 
+zsolt1972051: folds 
+bloody55hawk: folds 
+Uncalled bet ($0.04) returned to pIay2kiLL
+pIay2kiLL collected $0.05 from pot
+pIay2kiLL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: shawmoney folded before Flop (didn't bet)
+Seat 2: sansisbai (button) folded before Flop (didn't bet)
+Seat 3: zsolt1972051 (small blind) folded before Flop
+Seat 4: bloody55hawk (big blind) folded before Flop
+Seat 5: pIay2kiLL collected ($0.05)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232418954566:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:45:20 PT [2021/12/21 22:45:20 ET]
+Table 'Ophelia III' 9-max Seat #3 is the button
+Seat 1: shawmoney ($1.56 in chips) 
+Seat 2: sansisbai ($3.34 in chips) 
+Seat 3: zsolt1972051 ($4.75 in chips) 
+Seat 4: bloody55hawk ($0.81 in chips) 
+Seat 5: pIay2kiLL ($2.27 in chips) 
+Seat 7: TEMNIY2110 ($1.66 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+bloody55hawk: posts small blind $0.01
+pIay2kiLL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 5s]
+TEMNIY2110: calls $0.02
+Dorex2007: folds 
+shawmoney: folds 
+sansisbai: folds 
+zsolt1972051: calls $0.02
+bloody55hawk: calls $0.01
+pIay2kiLL: raises $0.12 to $0.14
+TEMNIY2110: folds 
+zsolt1972051: calls $0.12
+bloody55hawk: folds 
+*** FLOP *** [Jh Js 8h]
+pIay2kiLL: bets $0.16
+zsolt1972051: calls $0.16
+*** TURN *** [Jh Js 8h] [9c]
+pIay2kiLL: bets $1.97 and is all-in
+zsolt1972051: folds 
+Uncalled bet ($1.97) returned to pIay2kiLL
+pIay2kiLL collected $0.62 from pot
+pIay2kiLL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [Jh Js 8h 9c]
+Seat 1: shawmoney folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 (button) folded on the Turn
+Seat 4: bloody55hawk (small blind) folded before Flop
+Seat 5: pIay2kiLL (big blind) collected ($0.62)
+Seat 7: TEMNIY2110 folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232418965239:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:46:13 PT [2021/12/21 22:46:13 ET]
+Table 'Ophelia III' 9-max Seat #4 is the button
+Seat 1: shawmoney ($1.56 in chips) 
+Seat 2: sansisbai ($3.34 in chips) 
+Seat 3: zsolt1972051 ($4.45 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.59 in chips) 
+Seat 7: TEMNIY2110 ($1.64 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+pIay2kiLL: posts small blind $0.01
+TEMNIY2110: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 4h]
+Dorex2007: folds 
+shawmoney has timed out
+shawmoney: folds 
+sansisbai: folds 
+zsolt1972051: folds 
+bloody55hawk: folds 
+pIay2kiLL: folds 
+Uncalled bet ($0.01) returned to TEMNIY2110
+TEMNIY2110 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: shawmoney folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 folded before Flop (didn't bet)
+Seat 4: bloody55hawk (button) folded before Flop (didn't bet)
+Seat 5: pIay2kiLL (small blind) folded before Flop
+Seat 7: TEMNIY2110 (big blind) collected ($0.02)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232418972077:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:46:33 PT [2021/12/21 22:46:33 ET]
+Table 'Ophelia III' 9-max Seat #5 is the button
+Seat 1: shawmoney ($1.56 in chips) 
+Seat 2: sansisbai ($3.34 in chips) 
+Seat 3: zsolt1972051 ($4.45 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.58 in chips) 
+Seat 7: TEMNIY2110 ($1.65 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+TEMNIY2110: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 6c]
+shawmoney: raises $0.02 to $0.04
+sansisbai: raises $0.11 to $0.15
+zsolt1972051 is disconnected 
+zsolt1972051 is connected 
+zsolt1972051 has timed out
+zsolt1972051: folds 
+bloody55hawk: folds 
+pIay2kiLL: folds 
+TEMNIY2110: calls $0.14
+Dorex2007: folds 
+shawmoney: folds 
+*** FLOP *** [9h 9c Td]
+TEMNIY2110: bets $0.18
+sansisbai: raises $3.01 to $3.19 and is all-in
+TEMNIY2110: calls $1.32 and is all-in
+Uncalled bet ($1.69) returned to sansisbai
+*** TURN *** [9h 9c Td] [Qh]
+*** RIVER *** [9h 9c Td Qh] [Ts]
+*** SHOW DOWN ***
+TEMNIY2110: shows [Th Kd] (a full house, Tens full of Nines)
+sansisbai: shows [Qs Qd] (a full house, Queens full of Tens)
+sansisbai cashed out the hand for $2.59 | Cash Out Fee $0.03
+*** SUMMARY ***
+Total pot $3.36 | Rake $0.12 
+Board [9h 9c Td Qh Ts]
+Seat 1: shawmoney folded before Flop
+Seat 2: sansisbai showed [Qs Qd] and won ($3.24) with a full house, Queens full of Tens (pot not awarded as player cashed out)
+Seat 3: zsolt1972051 folded before Flop (didn't bet)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL (button) folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 (small blind) showed [Th Kd] and lost with a full house, Tens full of Nines
+Seat 8: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232418981242:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:47:19 PT [2021/12/21 22:47:19 ET]
+Table 'Ophelia III' 9-max Seat #8 is the button
+Seat 1: shawmoney ($1.52 in chips) 
+Seat 2: sansisbai ($4.28 in chips) 
+Seat 3: zsolt1972051 ($4.45 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.58 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+shawmoney: posts small blind $0.01
+sansisbai: posts big blind $0.02
+Tenorio422: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Ah]
+zsolt1972051: calls $0.02
+bloody55hawk: folds 
+pIay2kiLL: folds 
+Dorex2007 has timed out
+Dorex2007: folds 
+shawmoney: folds 
+sansisbai: checks 
+*** FLOP *** [9h 4h 4d]
+sansisbai: checks 
+zsolt1972051: checks 
+*** TURN *** [9h 4h 4d] [As]
+sansisbai: bets $0.05
+zsolt1972051: folds 
+Uncalled bet ($0.05) returned to sansisbai
+sansisbai collected $0.05 from pot
+sansisbai: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9h 4h 4d As]
+Seat 1: shawmoney (small blind) folded before Flop
+Seat 2: sansisbai (big blind) collected ($0.05)
+Seat 3: zsolt1972051 folded on the Turn
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232418991714:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:48:10 PT [2021/12/21 22:48:10 ET]
+Table 'Ophelia III' 9-max Seat #1 is the button
+Seat 1: shawmoney ($1.51 in chips) 
+Seat 2: sansisbai ($4.31 in chips) 
+Seat 3: zsolt1972051 ($4.43 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.58 in chips) 
+Seat 7: TEMNIY2110 ($2 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+sansisbai: posts small blind $0.01
+zsolt1972051: posts big blind $0.02
+Tenorio422: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Ts]
+bloody55hawk: folds 
+pIay2kiLL: folds 
+TEMNIY2110: calls $0.02
+Dorex2007: calls $0.02
+shawmoney: calls $0.02
+sansisbai: folds 
+zsolt1972051: checks 
+*** FLOP *** [Kc 4s Kh]
+tavo_peralta joins the table at seat #9 
+zsolt1972051: checks 
+TEMNIY2110: checks 
+Dorex2007: checks 
+shawmoney: checks 
+*** TURN *** [Kc 4s Kh] [Td]
+zsolt1972051: checks 
+TEMNIY2110: checks 
+Dorex2007: checks 
+shawmoney: checks 
+*** RIVER *** [Kc 4s Kh Td] [Qh]
+zsolt1972051: checks 
+TEMNIY2110: bets $0.02
+Dorex2007: calls $0.02
+shawmoney: folds 
+zsolt1972051: folds 
+*** SHOW DOWN ***
+TEMNIY2110: shows [Qc 7d] (two pair, Kings and Queens)
+Dorex2007: mucks hand 
+TEMNIY2110 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Kc 4s Kh Td Qh]
+Seat 1: shawmoney (button) folded on the River
+Seat 2: sansisbai (small blind) folded before Flop
+Seat 3: zsolt1972051 (big blind) folded on the River
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 showed [Qc 7d] and won ($0.13) with two pair, Kings and Queens
+Seat 8: Dorex2007 mucked [Ac Ts]
+
+
+
+PokerStars Hand #232419001969:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:49:01 PT [2021/12/21 22:49:01 ET]
+Table 'Ophelia III' 9-max Seat #2 is the button
+Seat 1: shawmoney ($1.49 in chips) 
+Seat 2: sansisbai ($4.30 in chips) 
+Seat 3: zsolt1972051 ($4.41 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.58 in chips) 
+Seat 7: TEMNIY2110 ($2.09 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: tavo_peralta ($2 in chips) 
+zsolt1972051: posts small blind $0.01
+bloody55hawk: posts big blind $0.02
+Tenorio422: sits out 
+tavo_peralta: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Qc]
+pIay2kiLL: folds 
+TEMNIY2110: calls $0.02
+Dorex2007: folds 
+tavo_peralta: checks 
+shawmoney: folds 
+sansisbai: folds 
+zsolt1972051: calls $0.01
+bloody55hawk: checks 
+*** FLOP *** [4c Qs As]
+zsolt1972051: checks 
+bloody55hawk: checks 
+TEMNIY2110: bets $0.04
+tavo_peralta: folds 
+zsolt1972051: folds 
+bloody55hawk: folds 
+Uncalled bet ($0.04) returned to TEMNIY2110
+TEMNIY2110 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [4c Qs As]
+Seat 1: shawmoney folded before Flop (didn't bet)
+Seat 2: sansisbai (button) folded before Flop (didn't bet)
+Seat 3: zsolt1972051 (small blind) folded on the Flop
+Seat 4: bloody55hawk (big blind) folded on the Flop
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 collected ($0.08)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tavo_peralta folded on the Flop (didn't bet)
+
+
+
+PokerStars Hand #232419008725:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:49:35 PT [2021/12/21 22:49:35 ET]
+Table 'Ophelia III' 9-max Seat #3 is the button
+Seat 1: shawmoney ($1.49 in chips) 
+Seat 2: sansisbai ($4.30 in chips) 
+Seat 3: zsolt1972051 ($4.39 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.58 in chips) 
+Seat 7: TEMNIY2110 ($2.15 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: tavo_peralta ($1.98 in chips) 
+bloody55hawk: posts small blind $0.01
+pIay2kiLL: posts big blind $0.02
+Tenorio422: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 6d]
+TEMNIY2110: calls $0.02
+Dorex2007: folds 
+tavo_peralta: calls $0.02
+shawmoney: raises $0.02 to $0.04
+sansisbai: folds 
+zsolt1972051: calls $0.04
+bloody55hawk: folds 
+pIay2kiLL: folds 
+TEMNIY2110: calls $0.02
+tavo_peralta: calls $0.02
+*** FLOP *** [9d Tc 2c]
+TEMNIY2110: checks 
+tavo_peralta: checks 
+shawmoney: checks 
+zsolt1972051: checks 
+*** TURN *** [9d Tc 2c] [Qh]
+TEMNIY2110: bets $0.04
+tavo_peralta: calls $0.04
+shawmoney: folds 
+zsolt1972051: folds 
+*** RIVER *** [9d Tc 2c Qh] [3h]
+TEMNIY2110: bets $0.02
+tavo_peralta: calls $0.02
+*** SHOW DOWN ***
+TEMNIY2110: shows [7c Td] (a pair of Tens)
+tavo_peralta: mucks hand 
+TEMNIY2110 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [9d Tc 2c Qh 3h]
+Seat 1: shawmoney folded on the Turn
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 (button) folded on the Turn
+Seat 4: bloody55hawk (small blind) folded before Flop
+Seat 5: pIay2kiLL (big blind) folded before Flop
+Seat 7: TEMNIY2110 showed [7c Td] and won ($0.30) with a pair of Tens
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tavo_peralta mucked [7d 7h]
+
+
+
+PokerStars Hand #232419019124:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:50:28 PT [2021/12/21 22:50:28 ET]
+Table 'Ophelia III' 9-max Seat #4 is the button
+Seat 1: shawmoney ($1.45 in chips) 
+Seat 2: sansisbai ($4.30 in chips) 
+Seat 3: zsolt1972051 ($4.35 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.56 in chips) 
+Seat 6: Tenorio422 ($3 in chips) 
+Seat 7: TEMNIY2110 ($2.35 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: tavo_peralta ($1.88 in chips) 
+pIay2kiLL: posts small blind $0.01
+Tenorio422: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 4c]
+TEMNIY2110: calls $0.02
+Dorex2007: folds 
+tavo_peralta: calls $0.02
+shawmoney: folds 
+sansisbai: folds 
+zsolt1972051: calls $0.02
+bloody55hawk: folds 
+pIay2kiLL: folds 
+Tenorio422: raises $0.16 to $0.18
+TEMNIY2110: folds 
+tavo_peralta: folds 
+zsolt1972051: calls $0.16
+*** FLOP *** [3s 6h Ac]
+Tenorio422: bets $0.30
+zsolt1972051: calls $0.30
+*** TURN *** [3s 6h Ac] [Kh]
+Tenorio422: checks 
+zsolt1972051: checks 
+*** RIVER *** [3s 6h Ac Kh] [6c]
+Tenorio422: checks 
+zsolt1972051: checks 
+*** SHOW DOWN ***
+Tenorio422: shows [8h 8d] (two pair, Eights and Sixes)
+zsolt1972051: shows [Ts Td] (two pair, Tens and Sixes)
+zsolt1972051 collected $0.97 from pot
+*** SUMMARY ***
+Total pot $1.01 | Rake $0.04 
+Board [3s 6h Ac Kh 6c]
+Seat 1: shawmoney folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 showed [Ts Td] and won ($0.97) with two pair, Tens and Sixes
+Seat 4: bloody55hawk (button) folded before Flop (didn't bet)
+Seat 5: pIay2kiLL (small blind) folded before Flop
+Seat 6: Tenorio422 (big blind) showed [8h 8d] and lost with two pair, Eights and Sixes
+Seat 7: TEMNIY2110 folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tavo_peralta folded before Flop
+
+
+
+PokerStars Hand #232419031452:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:51:32 PT [2021/12/21 22:51:32 ET]
+Table 'Ophelia III' 9-max Seat #5 is the button
+Seat 1: shawmoney ($1.45 in chips) 
+Seat 2: sansisbai ($4.30 in chips) 
+Seat 3: zsolt1972051 ($4.84 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.55 in chips) 
+Seat 6: Tenorio422 ($2.52 in chips) 
+Seat 7: TEMNIY2110 ($2.33 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: tavo_peralta ($1.86 in chips) 
+Tenorio422: posts small blind $0.01
+TEMNIY2110: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Ks]
+Dorex2007: folds 
+tavo_peralta: calls $0.02
+shawmoney: folds 
+sansisbai: folds 
+zsolt1972051: folds 
+bloody55hawk: calls $0.02
+pIay2kiLL: folds 
+Tenorio422: folds 
+TEMNIY2110: checks 
+*** FLOP *** [9h Qc 4d]
+TEMNIY2110: bets $0.04
+tavo_peralta: calls $0.04
+bloody55hawk: calls $0.04
+*** TURN *** [9h Qc 4d] [4s]
+TEMNIY2110: bets $0.06
+tavo_peralta: calls $0.06
+bloody55hawk: folds 
+*** RIVER *** [9h Qc 4d 4s] [8s]
+TEMNIY2110: bets $0.12
+tavo_peralta: calls $0.12
+*** SHOW DOWN ***
+TEMNIY2110: shows [Qd 8h] (two pair, Queens and Eights)
+tavo_peralta: mucks hand 
+TEMNIY2110 collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [9h Qc 4d 4s 8s]
+Seat 1: shawmoney folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 folded before Flop (didn't bet)
+Seat 4: bloody55hawk folded on the Turn
+Seat 5: pIay2kiLL (button) folded before Flop (didn't bet)
+Seat 6: Tenorio422 (small blind) folded before Flop
+Seat 7: TEMNIY2110 (big blind) showed [Qd 8h] and won ($0.53) with two pair, Queens and Eights
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tavo_peralta mucked [9s 6s]
+
+
+
+PokerStars Hand #232419040833:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:52:19 PT [2021/12/21 22:52:19 ET]
+Table 'Ophelia III' 9-max Seat #6 is the button
+Seat 1: shawmoney ($1.45 in chips) 
+Seat 2: sansisbai ($4.30 in chips) 
+Seat 3: zsolt1972051 ($4.84 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.55 in chips) 
+Seat 6: Tenorio422 ($2.51 in chips) 
+Seat 7: TEMNIY2110 ($2.62 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: tavo_peralta ($1.62 in chips) 
+TEMNIY2110: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 4d]
+tavo_peralta: folds 
+shawmoney: calls $0.02
+sansisbai: folds 
+zsolt1972051: calls $0.02
+bloody55hawk: calls $0.02
+pIay2kiLL: folds 
+Tenorio422: folds 
+TEMNIY2110: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [Ac 6d Kc]
+TEMNIY2110: bets $0.02
+Dorex2007: calls $0.02
+shawmoney: calls $0.02
+zsolt1972051: calls $0.02
+bloody55hawk: calls $0.02
+*** TURN *** [Ac 6d Kc] [7h]
+TEMNIY2110: bets $0.02
+Dorex2007: calls $0.02
+shawmoney: raises $0.05 to $0.07
+zsolt1972051: calls $0.07
+bloody55hawk: folds 
+TEMNIY2110: calls $0.05
+Dorex2007: folds 
+*** RIVER *** [Ac 6d Kc 7h] [2c]
+TEMNIY2110: checks 
+shawmoney: checks 
+zsolt1972051: checks 
+*** SHOW DOWN ***
+TEMNIY2110: shows [Kd 3d] (a pair of Kings)
+shawmoney: shows [Ad 4s] (a pair of Aces)
+zsolt1972051: mucks hand 
+shawmoney collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [Ac 6d Kc 7h 2c]
+Seat 1: shawmoney showed [Ad 4s] and won ($0.41) with a pair of Aces
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 mucked [Qh Tc]
+Seat 4: bloody55hawk folded on the Turn
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: Tenorio422 (button) folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 (small blind) showed [Kd 3d] and lost with a pair of Kings
+Seat 8: Dorex2007 (big blind) folded on the Turn
+Seat 9: tavo_peralta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419063748:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:53:34 PT [2021/12/21 22:53:34 ET]
+Table 'Ophelia III' 9-max Seat #7 is the button
+Seat 1: shawmoney ($1.75 in chips) 
+Seat 2: sansisbai ($4.30 in chips) 
+Seat 3: zsolt1972051 ($4.73 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.55 in chips) 
+Seat 6: Tenorio422 ($2.51 in chips) 
+Seat 7: TEMNIY2110 ($2.51 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: tavo_peralta ($1.62 in chips) 
+Dorex2007: posts small blind $0.01
+tavo_peralta: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 2h]
+shawmoney: folds 
+sansisbai: raises $0.04 to $0.06
+zsolt1972051: calls $0.06
+bloody55hawk: folds 
+pIay2kiLL: folds 
+Tenorio422: folds 
+TEMNIY2110: folds 
+Dorex2007: folds 
+tavo_peralta: folds 
+*** FLOP *** [5s Tc Ac]
+sansisbai: checks 
+zsolt1972051: checks 
+*** TURN *** [5s Tc Ac] [5h]
+sansisbai: bets $0.14
+zsolt1972051: calls $0.14
+*** RIVER *** [5s Tc Ac 5h] [4s]
+sansisbai: bets $0.41
+zsolt1972051: calls $0.41
+*** SHOW DOWN ***
+sansisbai: shows [Qh Ah] (two pair, Aces and Fives)
+zsolt1972051: mucks hand 
+sansisbai collected $1.21 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.04 
+Board [5s Tc Ac 5h 4s]
+Seat 1: shawmoney folded before Flop (didn't bet)
+Seat 2: sansisbai showed [Qh Ah] and won ($1.21) with two pair, Aces and Fives
+Seat 3: zsolt1972051 mucked [Jc Jd]
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: tavo_peralta (big blind) folded before Flop
+
+
+
+PokerStars Hand #232419071646:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:54:14 PT [2021/12/21 22:54:14 ET]
+Table 'Ophelia III' 9-max Seat #8 is the button
+Seat 2: sansisbai ($4.90 in chips) 
+Seat 3: zsolt1972051 ($4.12 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.55 in chips) 
+Seat 6: Tenorio422 ($2.51 in chips) 
+Seat 7: TEMNIY2110 ($2.51 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: tavo_peralta ($1.60 in chips) 
+tavo_peralta: posts small blind $0.01
+shawmoney: is sitting out 
+sansisbai: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 4h]
+zsolt1972051: raises $0.05 to $0.07
+bloody55hawk: folds 
+pIay2kiLL: folds 
+Tenorio422: folds 
+TEMNIY2110: calls $0.07
+Dorex2007: folds 
+tavo_peralta: folds 
+sansisbai: folds 
+*** FLOP *** [9h Jc 3h]
+zsolt1972051: bets $0.02
+TEMNIY2110: raises $0.02 to $0.04
+zsolt1972051: calls $0.02
+*** TURN *** [9h Jc 3h] [Qd]
+zsolt1972051: checks 
+TEMNIY2110: bets $0.12
+zsolt1972051: calls $0.12
+*** RIVER *** [9h Jc 3h Qd] [2h]
+zsolt1972051: checks 
+TEMNIY2110: bets $0.24
+zsolt1972051: raises $2.63 to $2.87
+TEMNIY2110: calls $2.04 and is all-in
+Uncalled bet ($0.59) returned to zsolt1972051
+*** SHOW DOWN ***
+zsolt1972051: shows [Kh 7h] (a flush, King high)
+TEMNIY2110: shows [Ts 8d] (a straight, Eight to Queen)
+zsolt1972051 collected $4.87 from pot
+*** SUMMARY ***
+Total pot $5.05 | Rake $0.18 
+Board [9h Jc 3h Qd 2h]
+Seat 2: sansisbai (big blind) folded before Flop
+Seat 3: zsolt1972051 showed [Kh 7h] and won ($4.87) with a flush, King high
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 showed [Ts 8d] and lost with a straight, Eight to Queen
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: tavo_peralta (small blind) folded before Flop
+
+
+
+PokerStars Hand #232419082446:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:55:10 PT [2021/12/21 22:55:10 ET]
+Table 'Ophelia III' 9-max Seat #9 is the button
+Seat 2: sansisbai ($4.88 in chips) 
+Seat 3: zsolt1972051 ($6.48 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.55 in chips) 
+Seat 6: Tenorio422 ($2.51 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: tavo_peralta ($1.59 in chips) 
+sansisbai: posts small blind $0.01
+zsolt1972051: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 6c]
+bloody55hawk: folds 
+pIay2kiLL: raises $0.04 to $0.06
+Tenorio422: folds 
+Dorex2007: folds 
+tavo_peralta: folds 
+sansisbai: folds 
+zsolt1972051: calls $0.04
+*** FLOP *** [9d Ts 2s]
+zsolt1972051: checks 
+pIay2kiLL: bets $0.09
+zsolt1972051: calls $0.09
+*** TURN *** [9d Ts 2s] [6h]
+zsolt1972051: checks 
+pIay2kiLL: checks 
+*** RIVER *** [9d Ts 2s 6h] [Jh]
+zsolt1972051: bets $0.30
+pIay2kiLL: calls $0.30
+*** SHOW DOWN ***
+zsolt1972051: shows [Jd Td] (two pair, Jacks and Tens)
+pIay2kiLL: mucks hand 
+zsolt1972051 collected $0.88 from pot
+*** SUMMARY ***
+Total pot $0.91 | Rake $0.03 
+Board [9d Ts 2s 6h Jh]
+Seat 2: sansisbai (small blind) folded before Flop
+Seat 3: zsolt1972051 (big blind) showed [Jd Td] and won ($0.88) with two pair, Jacks and Tens
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL mucked [Ah Js]
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tavo_peralta (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419092357:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:56:09 PT [2021/12/21 22:56:09 ET]
+Table 'Ophelia III' 9-max Seat #2 is the button
+Seat 2: sansisbai ($4.87 in chips) 
+Seat 3: zsolt1972051 ($6.91 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.10 in chips) 
+Seat 6: Tenorio422 ($2.51 in chips) 
+Seat 7: TEMNIY2110 ($0.80 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: tavo_peralta ($1.59 in chips) 
+zsolt1972051: posts small blind $0.01
+bloody55hawk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Ah]
+pIay2kiLL: folds 
+Tenorio422: folds 
+TEMNIY2110: folds 
+Dorex2007: raises $0.04 to $0.06
+tavo_peralta: folds 
+sansisbai: folds 
+zsolt1972051: calls $0.05
+bloody55hawk: folds 
+*** FLOP *** [As 5d Qs]
+zsolt1972051: checks 
+Dorex2007: bets $0.07
+zsolt1972051: calls $0.07
+*** TURN *** [As 5d Qs] [5c]
+tavo_peralta leaves the table
+zsolt1972051: checks 
+Dorex2007: bets $1.87 and is all-in
+zsolt1972051: folds 
+Uncalled bet ($1.87) returned to Dorex2007
+Dorex2007 collected $0.27 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [As 5d Qs 5c]
+Seat 2: sansisbai (button) folded before Flop (didn't bet)
+Seat 3: zsolt1972051 (small blind) folded on the Turn
+Seat 4: bloody55hawk (big blind) folded before Flop
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 folded before Flop (didn't bet)
+Seat 8: Dorex2007 collected ($0.27)
+Seat 9: tavo_peralta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419099014:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:56:50 PT [2021/12/21 22:56:50 ET]
+Table 'Ophelia III' 9-max Seat #3 is the button
+Seat 2: sansisbai ($4.87 in chips) 
+Seat 3: zsolt1972051 ($6.78 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.10 in chips) 
+Seat 6: Tenorio422 ($2.51 in chips) 
+Seat 7: TEMNIY2110 ($0.80 in chips) 
+Seat 8: Dorex2007 ($2.14 in chips) 
+bloody55hawk: posts small blind $0.01
+pIay2kiLL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 2s]
+Tenorio422: folds 
+TEMNIY2110: calls $0.02
+Dorex2007: folds 
+maggiebrasil joins the table at seat #9 
+sansisbai: raises $0.04 to $0.06
+zsolt1972051: calls $0.06
+bloody55hawk: folds 
+pIay2kiLL: folds 
+TEMNIY2110: calls $0.04
+*** FLOP *** [Qs 9c 7h]
+TEMNIY2110: checks 
+sansisbai: checks 
+zsolt1972051: checks 
+*** TURN *** [Qs 9c 7h] [7d]
+TEMNIY2110: checks 
+sansisbai: bets $0.20
+zsolt1972051: folds 
+TEMNIY2110: folds 
+Uncalled bet ($0.20) returned to sansisbai
+sansisbai collected $0.20 from pot
+sansisbai: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Qs 9c 7h 7d]
+Seat 2: sansisbai collected ($0.20)
+Seat 3: zsolt1972051 (button) folded on the Turn
+Seat 4: bloody55hawk (small blind) folded before Flop
+Seat 5: pIay2kiLL (big blind) folded before Flop
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 folded on the Turn
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419105146:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:57:27 PT [2021/12/21 22:57:27 ET]
+Table 'Ophelia III' 9-max Seat #4 is the button
+Seat 2: sansisbai ($5.01 in chips) 
+Seat 3: zsolt1972051 ($6.72 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.08 in chips) 
+Seat 6: Tenorio422 ($2.51 in chips) 
+Seat 7: TEMNIY2110 ($0.74 in chips) 
+Seat 8: Dorex2007 ($2.14 in chips) 
+pIay2kiLL: posts small blind $0.01
+Tenorio422: posts big blind $0.02
+maggiebrasil: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 3s]
+TEMNIY2110: calls $0.02
+Dorex2007: folds 
+sansisbai: raises $0.04 to $0.06
+zsolt1972051: folds 
+bloody55hawk: folds 
+pIay2kiLL: folds 
+Tenorio422: folds 
+TEMNIY2110: calls $0.04
+*** FLOP *** [6c 3c Tc]
+TEMNIY2110: bets $0.07
+sansisbai: folds 
+Uncalled bet ($0.07) returned to TEMNIY2110
+TEMNIY2110 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [6c 3c Tc]
+Seat 2: sansisbai folded on the Flop
+Seat 3: zsolt1972051 folded before Flop (didn't bet)
+Seat 4: bloody55hawk (button) folded before Flop (didn't bet)
+Seat 5: pIay2kiLL (small blind) folded before Flop
+Seat 6: Tenorio422 (big blind) folded before Flop
+Seat 7: TEMNIY2110 collected ($0.14)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419109465:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:57:53 PT [2021/12/21 22:57:53 ET]
+Table 'Ophelia III' 9-max Seat #5 is the button
+Seat 2: sansisbai ($4.95 in chips) 
+Seat 3: zsolt1972051 ($6.72 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.07 in chips) 
+Seat 6: Tenorio422 ($2.49 in chips) 
+Seat 7: TEMNIY2110 ($0.82 in chips) 
+Seat 8: Dorex2007 ($2.14 in chips) 
+Tenorio422: posts small blind $0.01
+TEMNIY2110: posts big blind $0.02
+maggiebrasil: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s Td]
+Dorex2007: folds 
+sansisbai: folds 
+zsolt1972051: calls $0.02
+bloody55hawk: folds 
+pIay2kiLL: folds 
+Tenorio422: folds 
+TEMNIY2110: checks 
+*** FLOP *** [8s 3d Qc]
+TEMNIY2110: checks 
+shawmoney leaves the table
+zsolt1972051: checks 
+*** TURN *** [8s 3d Qc] [7d]
+TEMNIY2110: checks 
+zsolt1972051: checks 
+*** RIVER *** [8s 3d Qc 7d] [9d]
+TEMNIY2110: checks 
+zsolt1972051: checks 
+*** SHOW DOWN ***
+TEMNIY2110: shows [Jc 5h] (high card Queen)
+zsolt1972051: mucks hand 
+TEMNIY2110 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8s 3d Qc 7d 9d]
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 mucked [4h 5d]
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL (button) folded before Flop (didn't bet)
+Seat 6: Tenorio422 (small blind) folded before Flop
+Seat 7: TEMNIY2110 (big blind) showed [Jc 5h] and won ($0.05) with high card Queen
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419113811:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:58:20 PT [2021/12/21 22:58:20 ET]
+Table 'Ophelia III' 9-max Seat #6 is the button
+Seat 2: sansisbai ($4.95 in chips) 
+Seat 3: zsolt1972051 ($6.70 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.07 in chips) 
+Seat 6: Tenorio422 ($2.48 in chips) 
+Seat 7: TEMNIY2110 ($0.85 in chips) 
+Seat 8: Dorex2007 ($2.14 in chips) 
+TEMNIY2110: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+maggiebrasil: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Qd]
+sansisbai: folds 
+zsolt1972051: folds 
+bloody55hawk: folds 
+pIay2kiLL: folds 
+Tenorio422: raises $0.04 to $0.06
+TEMNIY2110: calls $0.05
+Dorex2007: folds 
+*** FLOP *** [Jh 8d Ks]
+TEMNIY2110: checks 
+Tenorio422: bets $0.14
+TEMNIY2110: folds 
+Uncalled bet ($0.14) returned to Tenorio422
+Tenorio422 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Jh 8d Ks]
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 folded before Flop (didn't bet)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: Tenorio422 (button) collected ($0.14)
+Seat 7: TEMNIY2110 (small blind) folded on the Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232419119009:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:58:53 PT [2021/12/21 22:58:53 ET]
+Table 'Ophelia III' 9-max Seat #7 is the button
+Seat 2: sansisbai ($4.95 in chips) 
+Seat 3: zsolt1972051 ($6.70 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.07 in chips) 
+Seat 6: Tenorio422 ($2.56 in chips) 
+Seat 7: TEMNIY2110 ($0.79 in chips) 
+Seat 8: Dorex2007 ($2.12 in chips) 
+Seat 9: maggiebrasil ($1.60 in chips) 
+Dorex2007: posts small blind $0.01
+maggiebrasil: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Ad]
+olmanriv joins the table at seat #1 
+sansisbai: folds 
+zsolt1972051 has timed out
+zsolt1972051: folds 
+bloody55hawk: folds 
+pIay2kiLL: raises $0.04 to $0.06
+Tenorio422: folds 
+TEMNIY2110: calls $0.06
+Dorex2007: calls $0.05
+maggiebrasil: folds 
+*** FLOP *** [Kc 3s 2h]
+Dorex2007: checks 
+pIay2kiLL: bets $0.13
+TEMNIY2110: calls $0.13
+Dorex2007: folds 
+*** TURN *** [Kc 3s 2h] [Qd]
+pIay2kiLL: checks 
+TEMNIY2110: checks 
+*** RIVER *** [Kc 3s 2h Qd] [9h]
+pIay2kiLL: checks 
+TEMNIY2110: checks 
+*** SHOW DOWN ***
+pIay2kiLL: shows [Th Tc] (a pair of Tens)
+TEMNIY2110: mucks hand 
+pIay2kiLL collected $0.44 from pot
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [Kc 3s 2h Qd 9h]
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 folded before Flop (didn't bet)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL showed [Th Tc] and won ($0.44) with a pair of Tens
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 (button) mucked [Ac 4h]
+Seat 8: Dorex2007 (small blind) folded on the Flop
+Seat 9: maggiebrasil (big blind) folded before Flop
+
+
+
+PokerStars Hand #232419132504:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 19:59:56 PT [2021/12/21 22:59:56 ET]
+Table 'Ophelia III' 9-max Seat #8 is the button
+Seat 1: olmanriv ($2 in chips) 
+Seat 2: sansisbai ($4.95 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.32 in chips) 
+Seat 6: Tenorio422 ($2.56 in chips) 
+Seat 7: TEMNIY2110 ($0.60 in chips) 
+Seat 8: Dorex2007 ($2.06 in chips) 
+Seat 9: maggiebrasil ($1.58 in chips) 
+maggiebrasil: posts small blind $0.01
+olmanriv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 4d]
+sansisbai: folds 
+bloody55hawk: folds 
+pIay2kiLL: folds 
+Tenorio422: folds 
+TEMNIY2110: folds 
+Dorex2007: folds 
+maggiebrasil: folds 
+Uncalled bet ($0.01) returned to olmanriv
+olmanriv collected $0.02 from pot
+olmanriv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: olmanriv (big blind) collected ($0.02)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: maggiebrasil (small blind) folded before Flop
+
+
+
+PokerStars Hand #232419135146:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:00:11 PT [2021/12/21 23:00:11 ET]
+Table 'Ophelia III' 9-max Seat #9 is the button
+Seat 1: olmanriv ($2.01 in chips) 
+Seat 2: sansisbai ($4.95 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.32 in chips) 
+Seat 6: Tenorio422 ($2.56 in chips) 
+Seat 7: TEMNIY2110 ($0.60 in chips) 
+Seat 8: Dorex2007 ($2.06 in chips) 
+Seat 9: maggiebrasil ($1.57 in chips) 
+olmanriv: posts small blind $0.01
+sansisbai: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d Ts]
+bloody55hawk: folds 
+pIay2kiLL: folds 
+Tenorio422: folds 
+TEMNIY2110: calls $0.02
+Dorex2007: folds 
+maggiebrasil: calls $0.02
+olmanriv: calls $0.01
+sansisbai: checks 
+*** FLOP *** [8c 6d 4c]
+olmanriv: checks 
+sansisbai: checks 
+TEMNIY2110: bets $0.04
+maggiebrasil: folds 
+olmanriv: calls $0.04
+sansisbai: folds 
+*** TURN *** [8c 6d 4c] [8s]
+olmanriv: checks 
+TEMNIY2110: bets $0.08
+olmanriv: folds 
+Uncalled bet ($0.08) returned to TEMNIY2110
+TEMNIY2110 collected $0.15 from pot
+TEMNIY2110: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [8c 6d 4c 8s]
+Seat 1: olmanriv (small blind) folded on the Turn
+Seat 2: sansisbai (big blind) folded on the Flop
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 collected ($0.15)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: maggiebrasil (button) folded on the Flop
+
+
+
+PokerStars Hand #232419145858:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:00:59 PT [2021/12/21 23:00:59 ET]
+Table 'Ophelia III' 9-max Seat #1 is the button
+Seat 1: olmanriv ($1.95 in chips) 
+Seat 2: sansisbai ($4.93 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.32 in chips) 
+Seat 6: Tenorio422 ($2.56 in chips) 
+Seat 7: TEMNIY2110 ($0.69 in chips) 
+Seat 8: Dorex2007 ($2.06 in chips) 
+Seat 9: maggiebrasil ($1.55 in chips) 
+sansisbai: posts small blind $0.01
+bloody55hawk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Ad]
+pIay2kiLL: folds 
+Tenorio422: folds 
+TEMNIY2110: folds 
+Dorex2007: calls $0.02
+maggiebrasil: folds 
+olmanriv: folds 
+sansisbai: folds 
+bloody55hawk: checks 
+*** FLOP *** [Ks Ah 7c]
+bloody55hawk: checks 
+Dorex2007: bets $0.05
+bloody55hawk: calls $0.05
+*** TURN *** [Ks Ah 7c] [6d]
+bloody55hawk: checks 
+Dorex2007: checks 
+*** RIVER *** [Ks Ah 7c 6d] [6c]
+bloody55hawk: checks 
+Dorex2007: bets $0.09
+bloody55hawk: folds 
+Uncalled bet ($0.09) returned to Dorex2007
+Dorex2007 collected $0.14 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ks Ah 7c 6d 6c]
+Seat 1: olmanriv (button) folded before Flop (didn't bet)
+Seat 2: sansisbai (small blind) folded before Flop
+Seat 4: bloody55hawk (big blind) folded on the River
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 folded before Flop (didn't bet)
+Seat 8: Dorex2007 collected ($0.14)
+Seat 9: maggiebrasil folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419153985:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:01:43 PT [2021/12/21 23:01:43 ET]
+Table 'Ophelia III' 9-max Seat #2 is the button
+Seat 1: olmanriv ($1.95 in chips) 
+Seat 2: sansisbai ($4.92 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.32 in chips) 
+Seat 6: Tenorio422 ($2.56 in chips) 
+Seat 7: TEMNIY2110 ($0.69 in chips) 
+Seat 8: Dorex2007 ($2.13 in chips) 
+Seat 9: maggiebrasil ($1.55 in chips) 
+bloody55hawk: posts small blind $0.01
+pIay2kiLL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 7s]
+Tenorio422: raises $0.04 to $0.06
+TEMNIY2110: calls $0.06
+Dorex2007: folds 
+maggiebrasil: folds 
+olmanriv: folds 
+sansisbai: folds 
+bloody55hawk: folds 
+pIay2kiLL: raises $0.27 to $0.33
+Tenorio422: calls $0.27
+TEMNIY2110: folds 
+*** FLOP *** [2c 8h 9s]
+pIay2kiLL: bets $1.87
+Tenorio422: folds 
+Uncalled bet ($1.87) returned to pIay2kiLL
+pIay2kiLL collected $0.70 from pot
+pIay2kiLL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [2c 8h 9s]
+Seat 1: olmanriv folded before Flop (didn't bet)
+Seat 2: sansisbai (button) folded before Flop (didn't bet)
+Seat 4: bloody55hawk (small blind) folded before Flop
+Seat 5: pIay2kiLL (big blind) collected ($0.70)
+Seat 6: Tenorio422 folded on the Flop
+Seat 7: TEMNIY2110 folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: maggiebrasil folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419161846:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:02:23 PT [2021/12/21 23:02:23 ET]
+Table 'Ophelia III' 9-max Seat #4 is the button
+Seat 1: olmanriv ($1.95 in chips) 
+Seat 2: sansisbai ($4.92 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.69 in chips) 
+Seat 6: Tenorio422 ($2.23 in chips) 
+Seat 7: TEMNIY2110 ($0.63 in chips) 
+Seat 8: Dorex2007 ($2.13 in chips) 
+Seat 9: maggiebrasil ($1.55 in chips) 
+pIay2kiLL: posts small blind $0.01
+Tenorio422: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Ah]
+TEMNIY2110: calls $0.02
+Dorex2007: calls $0.02
+maggiebrasil: folds 
+olmanriv: calls $0.02
+sansisbai: folds 
+bloody55hawk: folds 
+pIay2kiLL: folds 
+Tenorio422: checks 
+*** FLOP *** [4d 2d 8h]
+Tenorio422: checks 
+TEMNIY2110: bets $0.04
+Dorex2007: folds 
+olmanriv: folds 
+Tenorio422: folds 
+Uncalled bet ($0.04) returned to TEMNIY2110
+TEMNIY2110 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [4d 2d 8h]
+Seat 1: olmanriv folded on the Flop
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 4: bloody55hawk (button) folded before Flop (didn't bet)
+Seat 5: pIay2kiLL (small blind) folded before Flop
+Seat 6: Tenorio422 (big blind) folded on the Flop
+Seat 7: TEMNIY2110 collected ($0.09)
+Seat 8: Dorex2007 folded on the Flop
+Seat 9: maggiebrasil folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419166606:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:02:49 PT [2021/12/21 23:02:49 ET]
+Table 'Ophelia III' 9-max Seat #5 is the button
+Seat 1: olmanriv ($1.93 in chips) 
+Seat 2: sansisbai ($4.92 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.68 in chips) 
+Seat 6: Tenorio422 ($2.21 in chips) 
+Seat 7: TEMNIY2110 ($0.70 in chips) 
+Seat 8: Dorex2007 ($2.11 in chips) 
+Seat 9: maggiebrasil ($1.55 in chips) 
+Tenorio422: posts small blind $0.01
+TEMNIY2110: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 2d]
+Dorex2007: folds 
+maggiebrasil: folds 
+olmanriv: folds 
+sansisbai: folds 
+bloody55hawk: folds 
+pIay2kiLL: raises $0.04 to $0.06
+Tenorio422: folds 
+TEMNIY2110: calls $0.04
+*** FLOP *** [8c Ts Qc]
+TEMNIY2110: checks 
+pIay2kiLL: checks 
+*** TURN *** [8c Ts Qc] [Th]
+TEMNIY2110: checks 
+pIay2kiLL: bets $0.03
+TEMNIY2110: calls $0.03
+*** RIVER *** [8c Ts Qc Th] [Qd]
+TEMNIY2110: checks 
+pIay2kiLL: checks 
+*** SHOW DOWN ***
+TEMNIY2110: shows [3c 5c] (two pair, Queens and Tens)
+pIay2kiLL: shows [4h Ad] (two pair, Queens and Tens - Ace kicker)
+pIay2kiLL collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [8c Ts Qc Th Qd]
+Seat 1: olmanriv folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL (button) showed [4h Ad] and won ($0.18) with two pair, Queens and Tens
+Seat 6: Tenorio422 (small blind) folded before Flop
+Seat 7: TEMNIY2110 (big blind) showed [3c 5c] and lost with two pair, Queens and Tens
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: maggiebrasil folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419173012:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:03:22 PT [2021/12/21 23:03:22 ET]
+Table 'Ophelia III' 9-max Seat #6 is the button
+Seat 1: olmanriv ($1.93 in chips) 
+Seat 2: sansisbai ($4.92 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.77 in chips) 
+Seat 6: Tenorio422 ($2.20 in chips) 
+Seat 7: TEMNIY2110 ($0.61 in chips) 
+Seat 8: Dorex2007 ($2.11 in chips) 
+Seat 9: maggiebrasil ($1.55 in chips) 
+TEMNIY2110: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 6d]
+maggiebrasil: folds 
+olmanriv has timed out
+olmanriv: folds 
+sansisbai: raises $0.04 to $0.06
+bloody55hawk: folds 
+pIay2kiLL: folds 
+Tenorio422: calls $0.06
+TEMNIY2110: folds 
+Dorex2007: folds 
+*** FLOP *** [7h As Jc]
+sansisbai: bets $0.14
+Tenorio422: calls $0.14
+*** TURN *** [7h As Jc] [3h]
+sansisbai: bets $0.26
+zsolt1972051 is disconnected 
+Tenorio422: folds 
+Uncalled bet ($0.26) returned to sansisbai
+sansisbai collected $0.41 from pot
+sansisbai: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [7h As Jc 3h]
+Seat 1: olmanriv folded before Flop (didn't bet)
+Seat 2: sansisbai collected ($0.41)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: Tenorio422 (button) folded on the Turn
+Seat 7: TEMNIY2110 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: maggiebrasil folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419180860:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:04:03 PT [2021/12/21 23:04:03 ET]
+Table 'Ophelia III' 9-max Seat #7 is the button
+Seat 1: olmanriv ($1.93 in chips) 
+Seat 2: sansisbai ($5.13 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.77 in chips) 
+Seat 6: Tenorio422 ($2 in chips) 
+Seat 7: TEMNIY2110 ($0.60 in chips) 
+Seat 8: Dorex2007 ($2.09 in chips) 
+Seat 9: maggiebrasil ($1.55 in chips) 
+Dorex2007: posts small blind $0.01
+maggiebrasil: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 7s]
+olmanriv: calls $0.02
+sansisbai: folds 
+bloody55hawk: folds 
+pIay2kiLL: raises $0.09 to $0.11
+Tenorio422: folds 
+TEMNIY2110: calls $0.11
+Dorex2007: folds 
+maggiebrasil: folds 
+olmanriv: calls $0.09
+*** FLOP *** [Kh 2s 3s]
+olmanriv: checks 
+pIay2kiLL: bets $0.19
+TEMNIY2110: calls $0.19
+olmanriv: folds 
+*** TURN *** [Kh 2s 3s] [2d]
+pIay2kiLL: bets $0.47
+TEMNIY2110: calls $0.30 and is all-in
+Uncalled bet ($0.17) returned to pIay2kiLL
+*** RIVER *** [Kh 2s 3s 2d] [Tc]
+*** SHOW DOWN ***
+pIay2kiLL: shows [Ad Qd] (a pair of Deuces)
+TEMNIY2110: shows [Ac As] (two pair, Aces and Deuces)
+TEMNIY2110 collected $1.29 from pot
+*** SUMMARY ***
+Total pot $1.34 | Rake $0.05 
+Board [Kh 2s 3s 2d Tc]
+Seat 1: olmanriv folded on the Flop
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL showed [Ad Qd] and lost with a pair of Deuces
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 (button) showed [Ac As] and won ($1.29) with two pair, Aces and Deuces
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: maggiebrasil (big blind) folded before Flop
+
+
+
+PokerStars Hand #232419188042:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:04:41 PT [2021/12/21 23:04:41 ET]
+Table 'Ophelia III' 9-max Seat #8 is the button
+Seat 1: olmanriv ($1.82 in chips) 
+Seat 2: sansisbai ($5.13 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.17 in chips) 
+Seat 6: Tenorio422 ($2 in chips) 
+Seat 7: TEMNIY2110 ($1.29 in chips) 
+Seat 8: Dorex2007 ($2.08 in chips) 
+Seat 9: maggiebrasil ($1.53 in chips) 
+maggiebrasil: posts small blind $0.01
+olmanriv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 6d]
+sansisbai: folds 
+bloody55hawk: folds 
+pIay2kiLL: raises $0.09 to $0.11
+Tenorio422: folds 
+TEMNIY2110: calls $0.11
+Dorex2007: folds 
+maggiebrasil: folds 
+olmanriv: calls $0.09
+*** FLOP *** [5c 8h Td]
+olmanriv: checks 
+pIay2kiLL: bets $0.38
+TEMNIY2110: folds 
+olmanriv: folds 
+Uncalled bet ($0.38) returned to pIay2kiLL
+pIay2kiLL collected $0.33 from pot
+pIay2kiLL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [5c 8h Td]
+Seat 1: olmanriv (big blind) folded on the Flop
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL collected ($0.33)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 folded on the Flop
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: maggiebrasil (small blind) folded before Flop
+
+
+
+PokerStars Hand #232419194578:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:05:15 PT [2021/12/21 23:05:15 ET]
+Table 'Ophelia III' 9-max Seat #9 is the button
+Seat 1: olmanriv ($1.71 in chips) 
+Seat 2: sansisbai ($5.13 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.39 in chips) 
+Seat 6: Tenorio422 ($2 in chips) 
+Seat 7: TEMNIY2110 ($1.18 in chips) 
+Seat 8: Dorex2007 ($2.08 in chips) 
+Seat 9: maggiebrasil ($1.52 in chips) 
+olmanriv: posts small blind $0.01
+sansisbai: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 3s]
+bloody55hawk: folds 
+pIay2kiLL: raises $0.04 to $0.06
+Tenorio422: calls $0.06
+TEMNIY2110: calls $0.06
+Dorex2007: folds 
+maggiebrasil: folds 
+olmanriv: folds 
+sansisbai: calls $0.04
+*** FLOP *** [9c 7d Ts]
+sansisbai: checks 
+pIay2kiLL: bets $0.24
+Tenorio422: folds 
+TEMNIY2110: calls $0.24
+sansisbai: folds 
+*** TURN *** [9c 7d Ts] [Jc]
+pIay2kiLL: bets $0.10
+TEMNIY2110: raises $0.78 to $0.88 and is all-in
+pIay2kiLL: calls $0.78
+*** RIVER *** [9c 7d Ts Jc] [2h]
+*** SHOW DOWN ***
+pIay2kiLL: shows [Tc Kc] (a pair of Tens)
+TEMNIY2110: shows [8s 9d] (a straight, Seven to Jack)
+TEMNIY2110 collected $2.40 from pot
+pIay2kiLL cashed out the hand for $0.70 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $2.49 | Rake $0.09 
+Board [9c 7d Ts Jc 2h]
+Seat 1: olmanriv (small blind) folded before Flop
+Seat 2: sansisbai (big blind) folded on the Flop
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL showed [Tc Kc] and lost with a pair of Tens (cashed out).
+Seat 6: Tenorio422 folded on the Flop
+Seat 7: TEMNIY2110 showed [8s 9d] and won ($2.40) with a straight, Seven to Jack
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: maggiebrasil (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419203743:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:06:03 PT [2021/12/21 23:06:03 ET]
+Table 'Ophelia III' 9-max Seat #1 is the button
+Seat 1: olmanriv ($1.70 in chips) 
+Seat 2: sansisbai ($5.07 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2 in chips) 
+Seat 6: Tenorio422 ($2 in chips) 
+Seat 7: TEMNIY2110 ($2.40 in chips) 
+Seat 8: Dorex2007 ($2.08 in chips) 
+Seat 9: maggiebrasil ($1.52 in chips) 
+sansisbai: posts small blind $0.01
+bloody55hawk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Ts]
+pIay2kiLL: folds 
+Tenorio422: folds 
+TEMNIY2110: calls $0.02
+Dorex2007: calls $0.02
+maggiebrasil: folds 
+olmanriv: calls $0.02
+sansisbai: folds 
+bloody55hawk: checks 
+*** FLOP *** [9c 3c 3s]
+bloody55hawk: checks 
+TEMNIY2110: checks 
+Dorex2007: checks 
+olmanriv: checks 
+*** TURN *** [9c 3c 3s] [Jh]
+bloody55hawk: checks 
+TEMNIY2110: checks 
+Dorex2007: checks 
+olmanriv: bets $0.06
+bloody55hawk: folds 
+TEMNIY2110: folds 
+Dorex2007: folds 
+Uncalled bet ($0.06) returned to olmanriv
+olmanriv collected $0.09 from pot
+olmanriv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [9c 3c 3s Jh]
+Seat 1: olmanriv (button) collected ($0.09)
+Seat 2: sansisbai (small blind) folded before Flop
+Seat 4: bloody55hawk (big blind) folded on the Turn
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 folded on the Turn
+Seat 8: Dorex2007 folded on the Turn
+Seat 9: maggiebrasil folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419213477:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:06:54 PT [2021/12/21 23:06:54 ET]
+Table 'Ophelia III' 9-max Seat #2 is the button
+Seat 1: olmanriv ($1.77 in chips) 
+Seat 2: sansisbai ($5.06 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2 in chips) 
+Seat 6: Tenorio422 ($2 in chips) 
+Seat 7: TEMNIY2110 ($2.38 in chips) 
+Seat 8: Dorex2007 ($2.06 in chips) 
+Seat 9: maggiebrasil ($1.52 in chips) 
+bloody55hawk: posts small blind $0.01
+pIay2kiLL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s Ah]
+Tenorio422: folds 
+TEMNIY2110: calls $0.02
+Dorex2007: folds 
+maggiebrasil: folds 
+olmanriv: calls $0.02
+sansisbai: folds 
+bloody55hawk: calls $0.01
+pIay2kiLL: checks 
+*** FLOP *** [8h Qh 8s]
+bloody55hawk: checks 
+pIay2kiLL: checks 
+TEMNIY2110: checks 
+olmanriv: checks 
+*** TURN *** [8h Qh 8s] [7d]
+bloody55hawk: checks 
+pIay2kiLL: checks 
+TEMNIY2110: checks 
+olmanriv: checks 
+*** RIVER *** [8h Qh 8s 7d] [Qc]
+bloody55hawk: checks 
+pIay2kiLL: checks 
+TEMNIY2110: checks 
+olmanriv: checks 
+*** SHOW DOWN ***
+bloody55hawk: shows [5d 9c] (two pair, Queens and Eights)
+pIay2kiLL: shows [4h Kd] (two pair, Queens and Eights - King kicker)
+TEMNIY2110: mucks hand 
+olmanriv: shows [Js Kh] (two pair, Queens and Eights)
+pIay2kiLL collected $0.04 from pot
+olmanriv collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [8h Qh 8s 7d Qc]
+Seat 1: olmanriv showed [Js Kh] and won ($0.04) with two pair, Queens and Eights
+Seat 2: sansisbai (button) folded before Flop (didn't bet)
+Seat 4: bloody55hawk (small blind) showed [5d 9c] and lost with two pair, Queens and Eights
+Seat 5: pIay2kiLL (big blind) showed [4h Kd] and won ($0.04) with two pair, Queens and Eights
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 mucked [Ts 4s]
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: maggiebrasil folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419223034:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:07:45 PT [2021/12/21 23:07:45 ET]
+Table 'Ophelia III' 9-max Seat #4 is the button
+Seat 1: olmanriv ($1.79 in chips) 
+Seat 2: sansisbai ($5.06 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.02 in chips) 
+Seat 6: Tenorio422 ($2 in chips) 
+Seat 7: TEMNIY2110 ($2.36 in chips) 
+Seat 8: Dorex2007 ($2.06 in chips) 
+Seat 9: maggiebrasil ($1.52 in chips) 
+pIay2kiLL: posts small blind $0.01
+Tenorio422: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Jc]
+TEMNIY2110: calls $0.02
+Dorex2007: folds 
+maggiebrasil: folds 
+olmanriv: folds 
+sansisbai: folds 
+bloody55hawk: raises $0.78 to $0.80 and is all-in
+pIay2kiLL: folds 
+Tenorio422: folds 
+TEMNIY2110: folds 
+Uncalled bet ($0.78) returned to bloody55hawk
+bloody55hawk collected $0.07 from pot
+bloody55hawk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: olmanriv folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 4: bloody55hawk (button) collected ($0.07)
+Seat 5: pIay2kiLL (small blind) folded before Flop
+Seat 6: Tenorio422 (big blind) folded before Flop
+Seat 7: TEMNIY2110 folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: maggiebrasil folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419227061:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:08:06 PT [2021/12/21 23:08:06 ET]
+Table 'Ophelia III' 9-max Seat #5 is the button
+Seat 1: olmanriv ($1.79 in chips) 
+Seat 2: sansisbai ($5.06 in chips) 
+Seat 4: bloody55hawk ($0.85 in chips) 
+Seat 5: pIay2kiLL ($2.01 in chips) 
+Seat 6: Tenorio422 ($2 in chips) 
+Seat 7: TEMNIY2110 ($2.34 in chips) 
+Seat 8: Dorex2007 ($2.06 in chips) 
+Seat 9: maggiebrasil ($1.52 in chips) 
+Tenorio422: posts small blind $0.01
+TEMNIY2110: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 6s]
+Dorex2007: folds 
+maggiebrasil: calls $0.02
+olmanriv: folds 
+sansisbai: folds 
+bloody55hawk: folds 
+pIay2kiLL: folds 
+Tenorio422: raises $0.04 to $0.06
+TEMNIY2110: folds 
+maggiebrasil: calls $0.04
+*** FLOP *** [4d 8h 3s]
+Tenorio422: checks 
+maggiebrasil: checks 
+*** TURN *** [4d 8h 3s] [Qc]
+Tenorio422: bets $0.14
+maggiebrasil: folds 
+Uncalled bet ($0.14) returned to Tenorio422
+Tenorio422 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [4d 8h 3s Qc]
+Seat 1: olmanriv folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL (button) folded before Flop (didn't bet)
+Seat 6: Tenorio422 (small blind) collected ($0.14)
+Seat 7: TEMNIY2110 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: maggiebrasil folded on the Turn
+
+
+
+PokerStars Hand #232419240753:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:08:54 PT [2021/12/21 23:08:54 ET]
+Table 'Ophelia III' 9-max Seat #6 is the button
+Seat 1: olmanriv ($1.79 in chips) 
+Seat 2: sansisbai ($5.06 in chips) 
+Seat 4: bloody55hawk ($0.85 in chips) 
+Seat 5: pIay2kiLL ($2.01 in chips) 
+Seat 6: Tenorio422 ($2.08 in chips) 
+Seat 7: TEMNIY2110 ($2.32 in chips) 
+Seat 8: Dorex2007 ($2.06 in chips) 
+Seat 9: maggiebrasil ($1.46 in chips) 
+TEMNIY2110: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Tc]
+maggiebrasil: folds 
+olmanriv: calls $0.02
+sansisbai: folds 
+bloody55hawk: raises $0.83 to $0.85 and is all-in
+pIay2kiLL: folds 
+Tenorio422: folds 
+TEMNIY2110: folds 
+Dorex2007: folds 
+olmanriv: folds 
+Uncalled bet ($0.83) returned to bloody55hawk
+bloody55hawk collected $0.07 from pot
+bloody55hawk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: olmanriv folded before Flop
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 4: bloody55hawk collected ($0.07)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: Tenorio422 (button) folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: maggiebrasil folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419251144:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:09:13 PT [2021/12/21 23:09:13 ET]
+Table 'Ophelia III' 9-max Seat #7 is the button
+Seat 1: olmanriv ($1.77 in chips) 
+Seat 2: sansisbai ($5.06 in chips) 
+Seat 4: bloody55hawk ($0.90 in chips) 
+Seat 5: pIay2kiLL ($2.01 in chips) 
+Seat 6: Tenorio422 ($2.08 in chips) 
+Seat 7: TEMNIY2110 ($2.31 in chips) 
+Seat 8: Dorex2007 ($2.04 in chips) 
+Seat 9: maggiebrasil ($1.46 in chips) 
+Dorex2007: posts small blind $0.01
+maggiebrasil: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Tc]
+olmanriv: folds 
+sansisbai: folds 
+bloody55hawk: folds 
+pIay2kiLL: folds 
+Tenorio422: folds 
+TEMNIY2110: raises $0.02 to $0.04
+Dorex2007: calls $0.03
+maggiebrasil: calls $0.02
+*** FLOP *** [Ks 3c 6d]
+Dorex2007: checks 
+maggiebrasil: checks 
+TEMNIY2110: bets $0.04
+Dorex2007: folds 
+maggiebrasil: raises $0.04 to $0.08
+TEMNIY2110: calls $0.04
+*** TURN *** [Ks 3c 6d] [5s]
+maggiebrasil: bets $0.14
+TEMNIY2110: calls $0.14
+*** RIVER *** [Ks 3c 6d 5s] [6s]
+maggiebrasil: checks 
+TEMNIY2110: checks 
+*** SHOW DOWN ***
+maggiebrasil: shows [Jc Kc] (two pair, Kings and Sixes)
+TEMNIY2110: mucks hand 
+maggiebrasil collected $0.54 from pot
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.02 
+Board [Ks 3c 6d 5s 6s]
+Seat 1: olmanriv folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 (button) mucked [Th Ts]
+Seat 8: Dorex2007 (small blind) folded on the Flop
+Seat 9: maggiebrasil (big blind) showed [Jc Kc] and won ($0.54) with two pair, Kings and Sixes
+
+
+
+PokerStars Hand #232419262292:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:10:13 PT [2021/12/21 23:10:13 ET]
+Table 'Ophelia III' 9-max Seat #8 is the button
+Seat 1: olmanriv ($1.77 in chips) 
+Seat 2: sansisbai ($5.06 in chips) 
+Seat 4: bloody55hawk ($0.90 in chips) 
+Seat 5: pIay2kiLL ($2.01 in chips) 
+Seat 6: Tenorio422 ($2.08 in chips) 
+Seat 7: TEMNIY2110 ($2.05 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: maggiebrasil ($1.74 in chips) 
+maggiebrasil: posts small blind $0.01
+olmanriv: posts big blind $0.02
+zsolt1972051: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 9d]
+sansisbai: folds 
+bloody55hawk: folds 
+pIay2kiLL: folds 
+Tenorio422: folds 
+TEMNIY2110: calls $0.02
+Dorex2007: folds 
+maggiebrasil: calls $0.01
+olmanriv: checks 
+*** FLOP *** [4h 3c Qh]
+maggiebrasil: bets $0.06
+olmanriv: folds 
+TEMNIY2110: calls $0.06
+*** TURN *** [4h 3c Qh] [Th]
+maggiebrasil: checks 
+TEMNIY2110: bets $0.06
+maggiebrasil: calls $0.06
+*** RIVER *** [4h 3c Qh Th] [5s]
+maggiebrasil: checks 
+TEMNIY2110: bets $0.15
+maggiebrasil: folds 
+Uncalled bet ($0.15) returned to TEMNIY2110
+TEMNIY2110 collected $0.29 from pot
+TEMNIY2110: shows [6s Qs] (a pair of Queens)
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [4h 3c Qh Th 5s]
+Seat 1: olmanriv (big blind) folded on the Flop
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 collected ($0.29)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: maggiebrasil (small blind) folded on the River
+
+
+
+PokerStars Hand #232419280677:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:10:59 PT [2021/12/21 23:10:59 ET]
+Table 'Ophelia III' 9-max Seat #9 is the button
+Seat 1: olmanriv ($1.75 in chips) 
+Seat 2: sansisbai ($5.06 in chips) 
+Seat 4: bloody55hawk ($0.90 in chips) 
+Seat 5: pIay2kiLL ($2.01 in chips) 
+Seat 6: Tenorio422 ($2.08 in chips) 
+Seat 7: TEMNIY2110 ($2.20 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: maggiebrasil ($1.60 in chips) 
+olmanriv: posts small blind $0.01
+sansisbai: posts big blind $0.02
+zsolt1972051: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 3c]
+bloody55hawk: folds 
+pIay2kiLL: raises $0.04 to $0.06
+Tenorio422: folds 
+TEMNIY2110: folds 
+Dorex2007: folds 
+TEMNIY2110 leaves the table
+maggiebrasil: folds 
+olmanriv: folds 
+sansisbai: folds 
+Uncalled bet ($0.04) returned to pIay2kiLL
+pIay2kiLL collected $0.05 from pot
+pIay2kiLL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: olmanriv (small blind) folded before Flop
+Seat 2: sansisbai (big blind) folded before Flop
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL collected ($0.05)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 7: TEMNIY2110 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: maggiebrasil (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419284381:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:11:19 PT [2021/12/21 23:11:19 ET]
+Table 'Ophelia III' 9-max Seat #1 is the button
+Seat 1: olmanriv ($1.74 in chips) 
+Seat 2: sansisbai ($5.04 in chips) 
+Seat 3: zsolt1972051 ($6.70 in chips) 
+Seat 4: bloody55hawk ($0.90 in chips) 
+Seat 5: pIay2kiLL ($2.04 in chips) 
+Seat 6: Tenorio422 ($2.08 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: maggiebrasil ($1.60 in chips) 
+sansisbai: posts small blind $0.01
+zsolt1972051: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Th]
+bloody55hawk: folds 
+pIay2kiLL: folds 
+Tenorio422: raises $0.04 to $0.06
+Dorex2007: folds 
+pksv333 joins the table at seat #7 
+maggiebrasil: folds 
+olmanriv: folds 
+sansisbai: folds 
+zsolt1972051: folds 
+Uncalled bet ($0.04) returned to Tenorio422
+Tenorio422 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: olmanriv (button) folded before Flop (didn't bet)
+Seat 2: sansisbai (small blind) folded before Flop
+Seat 3: zsolt1972051 (big blind) folded before Flop
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: Tenorio422 collected ($0.05)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: maggiebrasil folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419290433:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:11:51 PT [2021/12/21 23:11:51 ET]
+Table 'Ophelia III' 9-max Seat #2 is the button
+Seat 1: olmanriv ($1.74 in chips) 
+Seat 2: sansisbai ($5.03 in chips) 
+Seat 3: zsolt1972051 ($6.68 in chips) 
+Seat 4: bloody55hawk ($0.90 in chips) 
+Seat 5: pIay2kiLL ($2.04 in chips) 
+Seat 6: Tenorio422 ($2.11 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: maggiebrasil ($1.60 in chips) 
+zsolt1972051: posts small blind $0.01
+bloody55hawk: posts big blind $0.02
+pksv333: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 7h]
+pIay2kiLL: folds 
+Tenorio422: folds 
+Dorex2007: folds 
+maggiebrasil: raises $0.02 to $0.04
+olmanriv: calls $0.04
+sansisbai: folds 
+zsolt1972051: folds 
+Tenorio422 leaves the table
+bloody55hawk: calls $0.02
+*** FLOP *** [7c 2h 4h]
+bloody55hawk: checks 
+maggiebrasil: checks 
+olmanriv: bets $0.13
+bloody55hawk: folds 
+maggiebrasil: folds 
+Uncalled bet ($0.13) returned to olmanriv
+olmanriv collected $0.13 from pot
+olmanriv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [7c 2h 4h]
+Seat 1: olmanriv collected ($0.13)
+Seat 2: sansisbai (button) folded before Flop (didn't bet)
+Seat 3: zsolt1972051 (small blind) folded before Flop
+Seat 4: bloody55hawk (big blind) folded on the Flop
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: Tenorio422 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: maggiebrasil folded on the Flop
+
+
+
+PokerStars Hand #232419297501:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:12:29 PT [2021/12/21 23:12:29 ET]
+Table 'Ophelia III' 9-max Seat #3 is the button
+Seat 1: olmanriv ($1.83 in chips) 
+Seat 2: sansisbai ($5.03 in chips) 
+Seat 3: zsolt1972051 ($6.67 in chips) 
+Seat 4: bloody55hawk ($0.86 in chips) 
+Seat 5: pIay2kiLL ($2.04 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: maggiebrasil ($1.56 in chips) 
+bloody55hawk: posts small blind $0.01
+pIay2kiLL: posts big blind $0.02
+pksv333: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Ad]
+Dorex2007: raises $0.04 to $0.06
+maggiebrasil: folds 
+olmanriv: folds 
+sansisbai: folds 
+zsolt1972051: folds 
+bloody55hawk: folds 
+MV.Werly-nf joins the table at seat #6 
+pIay2kiLL: calls $0.04
+*** FLOP *** [3s 4h 8h]
+pIay2kiLL: bets $0.09
+Dorex2007: folds 
+Uncalled bet ($0.09) returned to pIay2kiLL
+pIay2kiLL collected $0.13 from pot
+pIay2kiLL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3s 4h 8h]
+Seat 1: olmanriv folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 (button) folded before Flop (didn't bet)
+Seat 4: bloody55hawk (small blind) folded before Flop
+Seat 5: pIay2kiLL (big blind) collected ($0.13)
+Seat 8: Dorex2007 folded on the Flop
+Seat 9: maggiebrasil folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419302129:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:12:53 PT [2021/12/21 23:12:53 ET]
+Table 'Ophelia III' 9-max Seat #4 is the button
+Seat 1: olmanriv ($1.83 in chips) 
+Seat 2: sansisbai ($5.03 in chips) 
+Seat 3: zsolt1972051 ($6.67 in chips) 
+Seat 4: bloody55hawk ($0.85 in chips) 
+Seat 5: pIay2kiLL ($2.11 in chips) 
+Seat 6: MV.Werly-nf ($2 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: maggiebrasil ($1.56 in chips) 
+pIay2kiLL: posts small blind $0.01
+MV.Werly-nf: posts big blind $0.02
+pksv333: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Kh]
+Dorex2007: folds 
+maggiebrasil: raises $0.02 to $0.04
+olmanriv: folds 
+sansisbai: folds 
+zsolt1972051: calls $0.04
+bloody55hawk: folds 
+pIay2kiLL: folds 
+MV.Werly-nf: calls $0.02
+*** FLOP *** [2h 4s Jd]
+MV.Werly-nf: bets $0.06
+maggiebrasil: folds 
+zsolt1972051: calls $0.06
+*** TURN *** [2h 4s Jd] [9c]
+MV.Werly-nf: bets $0.08
+zsolt1972051: calls $0.08
+*** RIVER *** [2h 4s Jd 9c] [Th]
+MV.Werly-nf: bets $0.20
+zsolt1972051: folds 
+Uncalled bet ($0.20) returned to MV.Werly-nf
+MV.Werly-nf collected $0.40 from pot
+MV.Werly-nf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [2h 4s Jd 9c Th]
+Seat 1: olmanriv folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 folded on the River
+Seat 4: bloody55hawk (button) folded before Flop (didn't bet)
+Seat 5: pIay2kiLL (small blind) folded before Flop
+Seat 6: MV.Werly-nf (big blind) collected ($0.40)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: maggiebrasil folded on the Flop
+
+
+
+PokerStars Hand #232419316283:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:14:09 PT [2021/12/21 23:14:09 ET]
+Table 'Ophelia III' 9-max Seat #5 is the button
+Seat 1: olmanriv ($1.83 in chips) 
+Seat 2: sansisbai ($5.03 in chips) 
+Seat 3: zsolt1972051 ($6.49 in chips) 
+Seat 4: bloody55hawk ($0.85 in chips) 
+Seat 5: pIay2kiLL ($2.10 in chips) 
+Seat 6: MV.Werly-nf ($2.22 in chips) 
+Seat 7: pksv333 ($1.60 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: maggiebrasil ($1.52 in chips) 
+MV.Werly-nf: posts small blind $0.01
+pksv333: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 4s]
+Dorex2007: folds 
+maggiebrasil: folds 
+olmanriv: raises $0.02 to $0.04
+sansisbai: folds 
+zsolt1972051: folds 
+bloody55hawk: folds 
+pIay2kiLL: folds 
+MV.Werly-nf: calls $0.03
+pksv333: folds 
+*** FLOP *** [2h 4d 5c]
+MV.Werly-nf: checks 
+olmanriv: checks 
+*** TURN *** [2h 4d 5c] [3d]
+MV.Werly-nf: checks 
+olmanriv: bets $0.05
+MV.Werly-nf: calls $0.05
+*** RIVER *** [2h 4d 5c 3d] [9h]
+MV.Werly-nf: checks 
+olmanriv: checks 
+*** SHOW DOWN ***
+MV.Werly-nf: shows [3s Kh] (a pair of Threes)
+olmanriv: shows [Ts Ah] (a straight, Ace to Five)
+olmanriv collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2h 4d 5c 3d 9h]
+Seat 1: olmanriv showed [Ts Ah] and won ($0.19) with a straight, Ace to Five
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 folded before Flop (didn't bet)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL (button) folded before Flop (didn't bet)
+Seat 6: MV.Werly-nf (small blind) showed [3s Kh] and lost with a pair of Threes
+Seat 7: pksv333 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: maggiebrasil folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419326706:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:15:04 PT [2021/12/21 23:15:04 ET]
+Table 'Ophelia III' 9-max Seat #6 is the button
+Seat 1: olmanriv ($1.93 in chips) 
+Seat 2: sansisbai ($5.03 in chips) 
+Seat 3: zsolt1972051 ($6.49 in chips) 
+Seat 4: bloody55hawk ($0.85 in chips) 
+Seat 5: pIay2kiLL ($2.10 in chips) 
+Seat 6: MV.Werly-nf ($2.13 in chips) 
+Seat 7: pksv333 ($1.60 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: maggiebrasil ($1.52 in chips) 
+pksv333: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 7c]
+maggiebrasil: raises $0.05 to $0.07
+olmanriv: folds 
+sansisbai: folds 
+zsolt1972051: folds 
+bloody55hawk: folds 
+pIay2kiLL: folds 
+MV.Werly-nf: folds 
+pksv333: folds 
+Dorex2007: folds 
+Uncalled bet ($0.05) returned to maggiebrasil
+maggiebrasil collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: olmanriv folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 folded before Flop (didn't bet)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: MV.Werly-nf (button) folded before Flop (didn't bet)
+Seat 7: pksv333 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: maggiebrasil collected ($0.05)
+
+
+
+PokerStars Hand #232419331347:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:15:29 PT [2021/12/21 23:15:29 ET]
+Table 'Ophelia III' 9-max Seat #7 is the button
+Seat 1: olmanriv ($1.93 in chips) 
+Seat 2: sansisbai ($5.03 in chips) 
+Seat 3: zsolt1972051 ($6.49 in chips) 
+Seat 4: bloody55hawk ($0.85 in chips) 
+Seat 5: pIay2kiLL ($2.10 in chips) 
+Seat 6: MV.Werly-nf ($2.13 in chips) 
+Seat 7: pksv333 ($1.60 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: maggiebrasil ($1.55 in chips) 
+Dorex2007: posts small blind $0.01
+maggiebrasil: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc As]
+olmanriv: folds 
+sansisbai: folds 
+zsolt1972051: folds 
+bloody55hawk: folds 
+pIay2kiLL: raises $0.04 to $0.06
+MV.Werly-nf: calls $0.06
+pksv333: folds 
+Dorex2007: raises $0.12 to $0.18
+maggiebrasil: folds 
+pIay2kiLL: raises $1.92 to $2.10 and is all-in
+MV.Werly-nf: folds 
+Dorex2007: calls $1.82 and is all-in
+Uncalled bet ($0.10) returned to pIay2kiLL
+*** FLOP *** [9c Jd 8c]
+*** TURN *** [9c Jd 8c] [4c]
+*** RIVER *** [9c Jd 8c 4c] [3h]
+*** SHOW DOWN ***
+Dorex2007: shows [Kc As] (high card Ace)
+pIay2kiLL: shows [Js Jh] (three of a kind, Jacks)
+pIay2kiLL cashed out the hand for $2.21 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $4.08 | Rake $0.14 
+Board [9c Jd 8c 4c 3h]
+Seat 1: olmanriv folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 folded before Flop (didn't bet)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL showed [Js Jh] and won ($3.94) with three of a kind, Jacks (pot not awarded as player cashed out)
+Seat 6: MV.Werly-nf folded before Flop
+Seat 7: pksv333 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) showed [Kc As] and lost with high card Ace
+Seat 9: maggiebrasil (big blind) folded before Flop
+
+
+
+PokerStars Hand #232419342557:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:16:28 PT [2021/12/21 23:16:28 ET]
+Table 'Ophelia III' 9-max Seat #8 is the button
+Seat 1: olmanriv ($1.93 in chips) 
+Seat 2: sansisbai ($5.03 in chips) 
+Seat 3: zsolt1972051 ($6.49 in chips) 
+Seat 4: bloody55hawk ($0.85 in chips) 
+Seat 5: pIay2kiLL ($2.31 in chips) 
+Seat 6: MV.Werly-nf ($2.07 in chips) 
+Seat 7: pksv333 ($1.60 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: maggiebrasil ($1.53 in chips) 
+maggiebrasil: posts small blind $0.01
+olmanriv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 8h]
+sansisbai: folds 
+zsolt1972051: calls $0.02
+bloody55hawk: folds 
+pIay2kiLL: folds 
+MV.Werly-nf: folds 
+pksv333 has timed out
+pksv333: folds 
+Dorex2007: folds 
+maggiebrasil: calls $0.01
+olmanriv: checks 
+*** FLOP *** [Th Jh Kh]
+maggiebrasil: checks 
+olmanriv: checks 
+zsolt1972051: checks 
+*** TURN *** [Th Jh Kh] [Ad]
+maggiebrasil: checks 
+olmanriv: checks 
+zsolt1972051: checks 
+*** RIVER *** [Th Jh Kh Ad] [8s]
+maggiebrasil: checks 
+olmanriv: checks 
+zsolt1972051: checks 
+*** SHOW DOWN ***
+maggiebrasil: shows [Ks 7s] (a pair of Kings)
+olmanriv: mucks hand 
+zsolt1972051: mucks hand 
+maggiebrasil collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Th Jh Kh Ad 8s]
+Seat 1: olmanriv (big blind) mucked [9c Jc]
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 mucked [2c 2d]
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: MV.Werly-nf folded before Flop (didn't bet)
+Seat 7: pksv333 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: maggiebrasil (small blind) showed [Ks 7s] and won ($0.06) with a pair of Kings
+
+
+
+PokerStars Hand #232419356794:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:17:43 PT [2021/12/21 23:17:43 ET]
+Table 'Ophelia III' 9-max Seat #9 is the button
+Seat 1: olmanriv ($1.91 in chips) 
+Seat 2: sansisbai ($5.03 in chips) 
+Seat 3: zsolt1972051 ($6.47 in chips) 
+Seat 4: bloody55hawk ($0.85 in chips) 
+Seat 5: pIay2kiLL ($2.31 in chips) 
+Seat 6: MV.Werly-nf ($2.07 in chips) 
+Seat 7: pksv333 ($1.60 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: maggiebrasil ($1.57 in chips) 
+olmanriv: posts small blind $0.01
+sansisbai: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 2s]
+zsolt1972051: folds 
+bloody55hawk: folds 
+pIay2kiLL: folds 
+MV.Werly-nf: folds 
+pksv333: folds 
+Dorex2007: folds 
+maggiebrasil: folds 
+olmanriv: folds 
+Uncalled bet ($0.01) returned to sansisbai
+sansisbai collected $0.02 from pot
+sansisbai: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: olmanriv (small blind) folded before Flop
+Seat 2: sansisbai (big blind) collected ($0.02)
+Seat 3: zsolt1972051 folded before Flop (didn't bet)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: MV.Werly-nf folded before Flop (didn't bet)
+Seat 7: pksv333 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: maggiebrasil (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419361265:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:18:07 PT [2021/12/21 23:18:07 ET]
+Table 'Ophelia III' 9-max Seat #1 is the button
+Seat 1: olmanriv ($1.90 in chips) 
+Seat 2: sansisbai ($5.04 in chips) 
+Seat 3: zsolt1972051 ($6.47 in chips) 
+Seat 4: bloody55hawk ($0.85 in chips) 
+Seat 5: pIay2kiLL ($2.31 in chips) 
+Seat 6: MV.Werly-nf ($2.07 in chips) 
+Seat 7: pksv333 ($1.60 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: maggiebrasil ($1.57 in chips) 
+sansisbai: posts small blind $0.01
+zsolt1972051: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Qh]
+bloody55hawk: folds 
+pIay2kiLL: folds 
+MV.Werly-nf: folds 
+pksv333: folds 
+Dorex2007: folds 
+maggiebrasil has timed out
+maggiebrasil: folds 
+olmanriv: folds 
+sansisbai: folds 
+Uncalled bet ($0.01) returned to zsolt1972051
+zsolt1972051 collected $0.02 from pot
+zsolt1972051: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: olmanriv (button) folded before Flop (didn't bet)
+Seat 2: sansisbai (small blind) folded before Flop
+Seat 3: zsolt1972051 (big blind) collected ($0.02)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: MV.Werly-nf folded before Flop (didn't bet)
+Seat 7: pksv333 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: maggiebrasil folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419365411:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:18:29 PT [2021/12/21 23:18:29 ET]
+Table 'Ophelia III' 9-max Seat #2 is the button
+Seat 1: olmanriv ($1.90 in chips) 
+Seat 2: sansisbai ($5.03 in chips) 
+Seat 3: zsolt1972051 ($6.48 in chips) 
+Seat 4: bloody55hawk ($0.85 in chips) 
+Seat 5: pIay2kiLL ($2.31 in chips) 
+Seat 6: MV.Werly-nf ($2.07 in chips) 
+Seat 7: pksv333 ($1.60 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+zsolt1972051: posts small blind $0.01
+bloody55hawk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 8h]
+pIay2kiLL: folds 
+MV.Werly-nf: folds 
+pksv333: folds 
+Dorex2007: raises $0.02 to $0.04
+olmanriv: calls $0.04
+sansisbai: folds 
+zsolt1972051: folds 
+bloody55hawk: calls $0.02
+*** FLOP *** [Jd 9d 6s]
+bloody55hawk: checks 
+Dorex2007: checks 
+olmanriv: bets $0.13
+bloody55hawk: folds 
+Dorex2007: folds 
+Uncalled bet ($0.13) returned to olmanriv
+olmanriv collected $0.13 from pot
+olmanriv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Jd 9d 6s]
+Seat 1: olmanriv collected ($0.13)
+Seat 2: sansisbai (button) folded before Flop (didn't bet)
+Seat 3: zsolt1972051 (small blind) folded before Flop
+Seat 4: bloody55hawk (big blind) folded on the Flop
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: MV.Werly-nf folded before Flop (didn't bet)
+Seat 7: pksv333 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded on the Flop
+
+
+
+PokerStars Hand #232419373169:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:19:10 PT [2021/12/21 23:19:10 ET]
+Table 'Ophelia III' 9-max Seat #3 is the button
+Seat 1: olmanriv ($1.99 in chips) 
+Seat 2: sansisbai ($5.03 in chips) 
+Seat 3: zsolt1972051 ($6.47 in chips) 
+Seat 4: bloody55hawk ($0.81 in chips) 
+Seat 5: pIay2kiLL ($2.31 in chips) 
+Seat 6: MV.Werly-nf ($2.07 in chips) 
+Seat 7: pksv333 ($1.60 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: maggiebrasil ($1.57 in chips) 
+bloody55hawk: posts small blind $0.01
+pIay2kiLL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Jh]
+MV.Werly-nf: folds 
+pksv333: folds 
+Dorex2007: folds 
+maggiebrasil: raises $0.02 to $0.04
+olmanriv: calls $0.04
+sansisbai: folds 
+zsolt1972051: calls $0.04
+bloody55hawk: folds 
+pIay2kiLL: folds 
+*** FLOP *** [Kd Qd Ac]
+maggiebrasil: checks 
+olmanriv: checks 
+zsolt1972051: checks 
+*** TURN *** [Kd Qd Ac] [Ah]
+maggiebrasil: bets $0.04
+olmanriv: folds 
+zsolt1972051: folds 
+Uncalled bet ($0.04) returned to maggiebrasil
+maggiebrasil collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Kd Qd Ac Ah]
+Seat 1: olmanriv folded on the Turn
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 (button) folded on the Turn
+Seat 4: bloody55hawk (small blind) folded before Flop
+Seat 5: pIay2kiLL (big blind) folded before Flop
+Seat 6: MV.Werly-nf folded before Flop (didn't bet)
+Seat 7: pksv333 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: maggiebrasil collected ($0.14)
+
+
+
+PokerStars Hand #232419385990:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:20:19 PT [2021/12/21 23:20:19 ET]
+Table 'Ophelia III' 9-max Seat #4 is the button
+Seat 1: olmanriv ($1.95 in chips) 
+Seat 2: sansisbai ($5.03 in chips) 
+Seat 3: zsolt1972051 ($6.43 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.29 in chips) 
+Seat 6: MV.Werly-nf ($2.07 in chips) 
+Seat 7: pksv333 ($1.60 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: maggiebrasil ($1.67 in chips) 
+pIay2kiLL: posts small blind $0.01
+MV.Werly-nf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 6s]
+pksv333: calls $0.02
+Dorex2007: folds 
+maggiebrasil: folds 
+olmanriv: folds 
+sansisbai: raises $0.07 to $0.09
+zsolt1972051: calls $0.09
+bloody55hawk: folds 
+pIay2kiLL: folds 
+MV.Werly-nf: folds 
+pksv333: folds 
+*** FLOP *** [5h Ah Jc]
+sansisbai: bets $0.22
+zsolt1972051: folds 
+Uncalled bet ($0.22) returned to sansisbai
+sansisbai collected $0.22 from pot
+sansisbai: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [5h Ah Jc]
+Seat 1: olmanriv folded before Flop (didn't bet)
+Seat 2: sansisbai collected ($0.22)
+Seat 3: zsolt1972051 folded on the Flop
+Seat 4: bloody55hawk (button) folded before Flop (didn't bet)
+Seat 5: pIay2kiLL (small blind) folded before Flop
+Seat 6: MV.Werly-nf (big blind) folded before Flop
+Seat 7: pksv333 folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: maggiebrasil folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419394785:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:21:06 PT [2021/12/21 23:21:06 ET]
+Table 'Ophelia III' 9-max Seat #5 is the button
+Seat 1: olmanriv ($1.95 in chips) 
+Seat 2: sansisbai ($5.16 in chips) 
+Seat 3: zsolt1972051 ($6.34 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.28 in chips) 
+Seat 6: MV.Werly-nf ($2.05 in chips) 
+Seat 7: pksv333 ($1.60 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: maggiebrasil ($1.67 in chips) 
+MV.Werly-nf: posts small blind $0.01
+pksv333: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Td]
+Dorex2007: raises $0.02 to $0.04
+maggiebrasil: folds 
+olmanriv: folds 
+sansisbai: folds 
+zsolt1972051: raises $0.02 to $0.06
+bloody55hawk: folds 
+pIay2kiLL: folds 
+MV.Werly-nf: folds 
+pksv333: folds 
+Dorex2007: raises $0.16 to $0.22
+zsolt1972051: calls $0.16
+*** FLOP *** [5s 7d 9d]
+Dorex2007: bets $1.78 and is all-in
+zsolt1972051: folds 
+Uncalled bet ($1.78) returned to Dorex2007
+Dorex2007 collected $0.45 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [5s 7d 9d]
+Seat 1: olmanriv folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 folded on the Flop
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL (button) folded before Flop (didn't bet)
+Seat 6: MV.Werly-nf (small blind) folded before Flop
+Seat 7: pksv333 (big blind) folded before Flop
+Seat 8: Dorex2007 collected ($0.45)
+Seat 9: maggiebrasil folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419405913:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:22:06 PT [2021/12/21 23:22:06 ET]
+Table 'Ophelia III' 9-max Seat #6 is the button
+Seat 1: olmanriv ($1.95 in chips) 
+Seat 2: sansisbai ($5.16 in chips) 
+Seat 3: zsolt1972051 ($6.12 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.28 in chips) 
+Seat 6: MV.Werly-nf ($2.04 in chips) 
+Seat 7: pksv333 ($1.60 in chips) 
+Seat 8: Dorex2007 ($2.23 in chips) 
+Seat 9: maggiebrasil ($1.67 in chips) 
+pksv333: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 4h]
+maggiebrasil: folds 
+olmanriv: folds 
+sansisbai: folds 
+zsolt1972051: calls $0.02
+bloody55hawk: folds 
+pIay2kiLL: folds 
+MV.Werly-nf: calls $0.02
+pksv333: folds 
+Dorex2007: checks 
+*** FLOP *** [9s 4d 4c]
+Dorex2007: checks 
+zsolt1972051: checks 
+MV.Werly-nf: checks 
+*** TURN *** [9s 4d 4c] [Ts]
+Dorex2007: bets $0.07
+zsolt1972051: folds 
+MV.Werly-nf: folds 
+Uncalled bet ($0.07) returned to Dorex2007
+Dorex2007 collected $0.07 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [9s 4d 4c Ts]
+Seat 1: olmanriv folded before Flop (didn't bet)
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 folded on the Turn
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: MV.Werly-nf (button) folded on the Turn
+Seat 7: pksv333 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) collected ($0.07)
+Seat 9: maggiebrasil folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419413607:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:22:40 PT [2021/12/21 23:22:40 ET]
+Table 'Ophelia III' 9-max Seat #7 is the button
+Seat 1: olmanriv ($1.95 in chips) 
+Seat 2: sansisbai ($5.16 in chips) 
+Seat 3: zsolt1972051 ($6.10 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.28 in chips) 
+Seat 6: MV.Werly-nf ($2.02 in chips) 
+Seat 7: pksv333 ($1.60 in chips) 
+Seat 8: Dorex2007 ($2.28 in chips) 
+Seat 9: maggiebrasil ($1.67 in chips) 
+Dorex2007: posts small blind $0.01
+maggiebrasil: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Qs]
+olmanriv: calls $0.02
+sansisbai: folds 
+zsolt1972051: calls $0.02
+bloody55hawk: folds 
+pIay2kiLL: folds 
+MV.Werly-nf: folds 
+sansisbai leaves the table
+pksv333: folds 
+Dorex2007: calls $0.01
+maggiebrasil: checks 
+*** FLOP *** [9c Qd 8s]
+Dorex2007: bets $0.08
+maggiebrasil: folds 
+olmanriv: calls $0.08
+zsolt1972051: calls $0.08
+*** TURN *** [9c Qd 8s] [9s]
+Dorex2007: bets $0.21
+olmanriv: calls $0.21
+Castor1 joins the table at seat #2 
+zsolt1972051: calls $0.21
+*** RIVER *** [9c Qd 8s 9s] [Js]
+Dorex2007: bets $0.61
+olmanriv: raises $0.61 to $1.22
+zsolt1972051: folds 
+Dorex2007: calls $0.61
+*** SHOW DOWN ***
+olmanriv: shows [Jd Jc] (a full house, Jacks full of Nines)
+Dorex2007: mucks hand 
+olmanriv collected $3.27 from pot
+*** SUMMARY ***
+Total pot $3.39 | Rake $0.12 
+Board [9c Qd 8s 9s Js]
+Seat 1: olmanriv showed [Jd Jc] and won ($3.27) with a full house, Jacks full of Nines
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: zsolt1972051 folded on the River
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: MV.Werly-nf folded before Flop (didn't bet)
+Seat 7: pksv333 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) mucked [Th Qs]
+Seat 9: maggiebrasil (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232419427707:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:23:57 PT [2021/12/21 23:23:57 ET]
+Table 'Ophelia III' 9-max Seat #8 is the button
+Seat 2: Castor1 ($0.80 in chips) 
+Seat 3: zsolt1972051 ($5.79 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.28 in chips) 
+Seat 6: MV.Werly-nf ($2.02 in chips) 
+Seat 7: pksv333 ($1.60 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: maggiebrasil ($1.65 in chips) 
+maggiebrasil: posts small blind $0.01
+olmanriv: is sitting out 
+Castor1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 2s]
+olmanriv leaves the table
+zsolt1972051: calls $0.02
+bloody55hawk: folds 
+pIay2kiLL: raises $0.06 to $0.08
+MV.Werly-nf: folds 
+pksv333: folds 
+Dorex2007: folds 
+maggiebrasil: folds 
+Castor1: folds 
+zsolt1972051: calls $0.06
+*** FLOP *** [9d 8h Js]
+zsolt1972051: checks 
+pIay2kiLL: checks 
+*** TURN *** [9d 8h Js] [9c]
+jcoddd187 joins the table at seat #1 
+zsolt1972051: checks 
+pIay2kiLL: bets $0.12
+zsolt1972051: calls $0.12
+*** RIVER *** [9d 8h Js 9c] [5c]
+zsolt1972051: bets $0.21
+pIay2kiLL: folds 
+Uncalled bet ($0.21) returned to zsolt1972051
+zsolt1972051 collected $0.41 from pot
+zsolt1972051: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [9d 8h Js 9c 5c]
+Seat 2: Castor1 (big blind) folded before Flop
+Seat 3: zsolt1972051 collected ($0.41)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded on the River
+Seat 6: MV.Werly-nf folded before Flop (didn't bet)
+Seat 7: pksv333 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: maggiebrasil (small blind) folded before Flop
+
+
+
+PokerStars Hand #232419436324:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:24:45 PT [2021/12/21 23:24:45 ET]
+Table 'Ophelia III' 9-max Seat #9 is the button
+Seat 2: Castor1 ($0.78 in chips) 
+Seat 3: zsolt1972051 ($6 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.08 in chips) 
+Seat 6: MV.Werly-nf ($2.02 in chips) 
+Seat 7: pksv333 ($1.60 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: maggiebrasil ($1.64 in chips) 
+Castor1: posts small blind $0.01
+zsolt1972051: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts Kh]
+bloody55hawk: folds 
+pIay2kiLL: folds 
+MV.Werly-nf: folds 
+pksv333: folds 
+Dorex2007: raises $0.02 to $0.04
+maggiebrasil: folds 
+Castor1: folds 
+jcoddd187 leaves the table
+zsolt1972051: calls $0.02
+*** FLOP *** [5c 5d 2s]
+zsolt1972051: checks 
+Dorex2007: checks 
+*** TURN *** [5c 5d 2s] [Jh]
+zsolt1972051: checks 
+Dorex2007: checks 
+*** RIVER *** [5c 5d 2s Jh] [8h]
+azikenzo joins the table at seat #1 
+zsolt1972051: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+zsolt1972051: shows [3h 6d] (a pair of Fives)
+Dorex2007: shows [Ts Kh] (a pair of Fives - King kicker)
+Dorex2007 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [5c 5d 2s Jh 8h]
+Seat 2: Castor1 (small blind) folded before Flop
+Seat 3: zsolt1972051 (big blind) showed [3h 6d] and lost with a pair of Fives
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: MV.Werly-nf folded before Flop (didn't bet)
+Seat 7: pksv333 folded before Flop (didn't bet)
+Seat 8: Dorex2007 showed [Ts Kh] and won ($0.09) with a pair of Fives
+Seat 9: maggiebrasil (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419447726:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:25:49 PT [2021/12/21 23:25:49 ET]
+Table 'Ophelia III' 9-max Seat #2 is the button
+Seat 2: Castor1 ($0.77 in chips) 
+Seat 3: zsolt1972051 ($5.96 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.08 in chips) 
+Seat 6: MV.Werly-nf ($2.02 in chips) 
+Seat 7: pksv333 ($1.60 in chips) 
+Seat 8: Dorex2007 ($2.05 in chips) 
+Seat 9: maggiebrasil ($1.64 in chips) 
+zsolt1972051: posts small blind $0.01
+bloody55hawk: posts big blind $0.02
+azikenzo: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 6h]
+pIay2kiLL: raises $0.05 to $0.07
+MV.Werly-nf: folds 
+pksv333: folds 
+Dorex2007: folds 
+maggiebrasil: folds 
+Castor1: folds 
+zsolt1972051: calls $0.06
+bloody55hawk: folds 
+*** FLOP *** [8c 4d Ac]
+zsolt1972051: checks 
+pIay2kiLL: bets $0.10
+zsolt1972051: calls $0.10
+*** TURN *** [8c 4d Ac] [Ts]
+zsolt1972051: checks 
+pIay2kiLL: bets $0.28
+zsolt1972051: calls $0.28
+*** RIVER *** [8c 4d Ac Ts] [7c]
+zsolt1972051: checks 
+pIay2kiLL: checks 
+*** SHOW DOWN ***
+zsolt1972051: shows [Qh Ks] (high card Ace)
+pIay2kiLL: shows [As Kc] (a pair of Aces)
+pIay2kiLL collected $0.89 from pot
+*** SUMMARY ***
+Total pot $0.92 | Rake $0.03 
+Board [8c 4d Ac Ts 7c]
+Seat 2: Castor1 (button) folded before Flop (didn't bet)
+Seat 3: zsolt1972051 (small blind) showed [Qh Ks] and lost with high card Ace
+Seat 4: bloody55hawk (big blind) folded before Flop
+Seat 5: pIay2kiLL showed [As Kc] and won ($0.89) with a pair of Aces
+Seat 6: MV.Werly-nf folded before Flop (didn't bet)
+Seat 7: pksv333 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: maggiebrasil folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419460074:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:26:39 PT [2021/12/21 23:26:39 ET]
+Table 'Ophelia III' 9-max Seat #3 is the button
+Seat 2: Castor1 ($0.77 in chips) 
+Seat 3: zsolt1972051 ($5.51 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.52 in chips) 
+Seat 6: MV.Werly-nf ($2.02 in chips) 
+Seat 7: pksv333 ($1.60 in chips) 
+Seat 8: Dorex2007 ($2.05 in chips) 
+Seat 9: maggiebrasil ($1.64 in chips) 
+bloody55hawk: posts small blind $0.01
+pIay2kiLL: posts big blind $0.02
+azikenzo: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Qc]
+MV.Werly-nf: folds 
+pksv333: folds 
+Dorex2007: raises $0.04 to $0.06
+maggiebrasil: folds 
+Castor1: folds 
+zsolt1972051: folds 
+bloody55hawk: folds 
+pIay2kiLL: calls $0.04
+*** FLOP *** [4c 9c Tc]
+pIay2kiLL: bets $0.09
+Dorex2007: calls $0.09
+*** TURN *** [4c 9c Tc] [Kd]
+pIay2kiLL: checks 
+Dorex2007: bets $0.15
+pIay2kiLL: folds 
+Uncalled bet ($0.15) returned to Dorex2007
+Dorex2007 collected $0.30 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [4c 9c Tc Kd]
+Seat 2: Castor1 folded before Flop (didn't bet)
+Seat 3: zsolt1972051 (button) folded before Flop (didn't bet)
+Seat 4: bloody55hawk (small blind) folded before Flop
+Seat 5: pIay2kiLL (big blind) folded on the Turn
+Seat 6: MV.Werly-nf folded before Flop (didn't bet)
+Seat 7: pksv333 folded before Flop (didn't bet)
+Seat 8: Dorex2007 collected ($0.30)
+Seat 9: maggiebrasil folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419467257:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:27:18 PT [2021/12/21 23:27:18 ET]
+Table 'Ophelia III' 9-max Seat #4 is the button
+Seat 1: azikenzo ($2 in chips) 
+Seat 2: Castor1 ($0.77 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.37 in chips) 
+Seat 6: MV.Werly-nf ($2.02 in chips) 
+Seat 7: pksv333 ($1.60 in chips) 
+Seat 8: Dorex2007 ($2.20 in chips) 
+Seat 9: maggiebrasil ($1.64 in chips) 
+pIay2kiLL: posts small blind $0.01
+MV.Werly-nf: posts big blind $0.02
+azikenzo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 5c]
+pksv333: folds 
+Dorex2007: folds 
+maggiebrasil: folds 
+azikenzo: raises $0.05 to $0.07
+Castor1: folds 
+bloody55hawk: calls $0.07
+pIay2kiLL: folds 
+MV.Werly-nf: calls $0.05
+*** FLOP *** [5d Ts Ah]
+Castor1 leaves the table
+MV.Werly-nf: checks 
+azikenzo: bets $0.11
+bloody55hawk: folds 
+MV.Werly-nf: folds 
+Uncalled bet ($0.11) returned to azikenzo
+azikenzo collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [5d Ts Ah]
+Seat 1: azikenzo collected ($0.21)
+Seat 2: Castor1 folded before Flop (didn't bet)
+Seat 4: bloody55hawk (button) folded on the Flop
+Seat 5: pIay2kiLL (small blind) folded before Flop
+Seat 6: MV.Werly-nf (big blind) folded on the Flop
+Seat 7: pksv333 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: maggiebrasil folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419475476:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:28:03 PT [2021/12/21 23:28:03 ET]
+Table 'Ophelia III' 9-max Seat #5 is the button
+Seat 3: zsolt1972051 ($5.51 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.36 in chips) 
+Seat 6: MV.Werly-nf ($1.95 in chips) 
+Seat 7: pksv333 ($1.60 in chips) 
+Seat 8: Dorex2007 ($2.20 in chips) 
+Seat 9: maggiebrasil ($1.64 in chips) 
+MV.Werly-nf: posts small blind $0.01
+pksv333: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d Ks]
+Dorex2007: folds 
+maggiebrasil: folds 
+zsolt1972051: folds 
+bloody55hawk: folds 
+pIay2kiLL: raises $0.03 to $0.05
+MV.Werly-nf: folds 
+pksv333: folds 
+Uncalled bet ($0.03) returned to pIay2kiLL
+pIay2kiLL collected $0.05 from pot
+pIay2kiLL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 3: zsolt1972051 folded before Flop (didn't bet)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL (button) collected ($0.05)
+Seat 6: MV.Werly-nf (small blind) folded before Flop
+Seat 7: pksv333 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: maggiebrasil folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419479835:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:28:28 PT [2021/12/21 23:28:28 ET]
+Table 'Ophelia III' 9-max Seat #6 is the button
+Seat 3: zsolt1972051 ($5.51 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.39 in chips) 
+Seat 6: MV.Werly-nf ($1.94 in chips) 
+Seat 7: pksv333 ($1.60 in chips) 
+Seat 8: Dorex2007 ($2.20 in chips) 
+Seat 9: maggiebrasil ($1.64 in chips) 
+pksv333: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Td]
+maggiebrasil: folds 
+zsolt1972051: folds 
+bloody55hawk: folds 
+pIay2kiLL: folds 
+maggiebrasil leaves the table
+MV.Werly-nf: raises $0.02 to $0.04
+pksv333: folds 
+Dorex2007: folds 
+Uncalled bet ($0.02) returned to MV.Werly-nf
+MV.Werly-nf collected $0.05 from pot
+MV.Werly-nf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 3: zsolt1972051 folded before Flop (didn't bet)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: MV.Werly-nf (button) collected ($0.05)
+Seat 7: pksv333 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: maggiebrasil folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419482135:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:28:40 PT [2021/12/21 23:28:40 ET]
+Table 'Ophelia III' 9-max Seat #7 is the button
+Seat 3: zsolt1972051 ($5.51 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.39 in chips) 
+Seat 6: MV.Werly-nf ($1.97 in chips) 
+Seat 7: pksv333 ($1.60 in chips) 
+Seat 8: Dorex2007 ($2.18 in chips) 
+Dorex2007: posts small blind $0.01
+zsolt1972051: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Kd]
+bloody55hawk: folds 
+pIay2kiLL: raises $0.05 to $0.07
+MV.Werly-nf: folds 
+pksv333: folds 
+Dorex2007: calls $0.06
+zsolt1972051: folds 
+*** FLOP *** [6s 4s 4c]
+Dorex2007: checks 
+azikenzo joins the table at seat #1 
+pIay2kiLL: bets $0.13
+Dorex2007: folds 
+Uncalled bet ($0.13) returned to pIay2kiLL
+pIay2kiLL collected $0.15 from pot
+pIay2kiLL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [6s 4s 4c]
+Seat 3: zsolt1972051 (big blind) folded before Flop
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL collected ($0.15)
+Seat 6: MV.Werly-nf folded before Flop (didn't bet)
+Seat 7: pksv333 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #232419487246:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:29:08 PT [2021/12/21 23:29:08 ET]
+Table 'Ophelia III' 9-max Seat #8 is the button
+Seat 3: zsolt1972051 ($5.49 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.47 in chips) 
+Seat 6: MV.Werly-nf ($1.97 in chips) 
+Seat 7: pksv333 ($1.60 in chips) 
+Seat 8: Dorex2007 ($2.11 in chips) 
+zsolt1972051: posts small blind $0.01
+bloody55hawk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 4h]
+pIay2kiLL: folds 
+MV.Werly-nf: folds 
+pksv333: folds 
+Dorex2007: folds 
+zsolt1972051: calls $0.01
+bloody55hawk: checks 
+*** FLOP *** [9d Qd Td]
+zsolt1972051: checks 
+bloody55hawk: checks 
+*** TURN *** [9d Qd Td] [Kh]
+zsolt1972051: checks 
+bloody55hawk: checks 
+*** RIVER *** [9d Qd Td Kh] [Kc]
+zsolt1972051: checks 
+bloody55hawk: checks 
+*** SHOW DOWN ***
+zsolt1972051: shows [7h Ah] (a pair of Kings)
+bloody55hawk: mucks hand 
+zsolt1972051 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [9d Qd Td Kh Kc]
+Seat 3: zsolt1972051 (small blind) showed [7h Ah] and won ($0.04) with a pair of Kings
+Seat 4: bloody55hawk (big blind) mucked [6h 5d]
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: MV.Werly-nf folded before Flop (didn't bet)
+Seat 7: pksv333 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419493742:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:29:45 PT [2021/12/21 23:29:45 ET]
+Table 'Ophelia III' 9-max Seat #3 is the button
+Seat 3: zsolt1972051 ($5.51 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.47 in chips) 
+Seat 6: MV.Werly-nf ($1.97 in chips) 
+Seat 7: pksv333 ($1.60 in chips) 
+Seat 8: Dorex2007 ($2.11 in chips) 
+bloody55hawk: posts small blind $0.01
+pIay2kiLL: posts big blind $0.02
+azikenzo: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 4c]
+MV.Werly-nf: folds 
+pksv333: folds 
+Dorex2007: folds 
+zsolt1972051: folds 
+bloody55hawk: calls $0.01
+pIay2kiLL: checks 
+*** FLOP *** [7c 3c Qh]
+bloody55hawk: bets $0.02
+pIay2kiLL: calls $0.02
+*** TURN *** [7c 3c Qh] [Qd]
+bloody55hawk: checks 
+pIay2kiLL: bets $0.02
+bloody55hawk: folds 
+Uncalled bet ($0.02) returned to pIay2kiLL
+pIay2kiLL collected $0.08 from pot
+pIay2kiLL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [7c 3c Qh Qd]
+Seat 3: zsolt1972051 (button) folded before Flop (didn't bet)
+Seat 4: bloody55hawk (small blind) folded on the Turn
+Seat 5: pIay2kiLL (big blind) collected ($0.08)
+Seat 6: MV.Werly-nf folded before Flop (didn't bet)
+Seat 7: pksv333 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419501843:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:30:30 PT [2021/12/21 23:30:30 ET]
+Table 'Ophelia III' 9-max Seat #4 is the button
+Seat 3: zsolt1972051 ($5.51 in chips) 
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.51 in chips) 
+Seat 6: MV.Werly-nf ($1.97 in chips) 
+Seat 7: pksv333 ($1.60 in chips) 
+Seat 8: Dorex2007 ($2.11 in chips) 
+pIay2kiLL: posts small blind $0.01
+MV.Werly-nf: posts big blind $0.02
+azikenzo: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s Kd]
+pksv333: raises $0.02 to $0.04
+Dorex2007: folds 
+zsolt1972051 has timed out
+zsolt1972051: folds 
+bloody55hawk: calls $0.04
+pIay2kiLL: folds 
+MV.Werly-nf: calls $0.02
+*** FLOP *** [Jd As 3d]
+MV.Werly-nf: checks 
+pksv333: checks 
+bloody55hawk: bets $0.07
+MV.Werly-nf: folds 
+pksv333: calls $0.07
+*** TURN *** [Jd As 3d] [2s]
+pksv333: checks 
+bloody55hawk: checks 
+*** RIVER *** [Jd As 3d 2s] [4d]
+pksv333: bets $0.02
+bloody55hawk: calls $0.02
+*** SHOW DOWN ***
+pksv333: shows [Qd Ad] (a flush, Ace high)
+bloody55hawk: mucks hand 
+pksv333 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Jd As 3d 2s 4d]
+Seat 3: zsolt1972051 folded before Flop (didn't bet)
+Seat 4: bloody55hawk (button) mucked [Jc Kc]
+Seat 5: pIay2kiLL (small blind) folded before Flop
+Seat 6: MV.Werly-nf (big blind) folded on the Flop
+Seat 7: pksv333 showed [Qd Ad] and won ($0.30) with a flush, Ace high
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419515873:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:31:50 PT [2021/12/21 23:31:50 ET]
+Table 'Ophelia III' 9-max Seat #5 is the button
+Seat 4: bloody55hawk ($0.80 in chips) 
+Seat 5: pIay2kiLL ($2.50 in chips) 
+Seat 6: MV.Werly-nf ($1.93 in chips) 
+Seat 7: pksv333 ($1.77 in chips) 
+Seat 8: Dorex2007 ($2.11 in chips) 
+MV.Werly-nf: posts small blind $0.01
+pksv333: posts big blind $0.02
+azikenzo: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 9s]
+Dorex2007: calls $0.02
+bloody55hawk: raises $0.78 to $0.80 and is all-in
+pIay2kiLL: folds 
+MV.Werly-nf: folds 
+pksv333: folds 
+Dorex2007: folds 
+Uncalled bet ($0.78) returned to bloody55hawk
+bloody55hawk collected $0.07 from pot
+bloody55hawk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 4: bloody55hawk collected ($0.07)
+Seat 5: pIay2kiLL (button) folded before Flop (didn't bet)
+Seat 6: MV.Werly-nf (small blind) folded before Flop
+Seat 7: pksv333 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop
+
+
+
+PokerStars Hand #232419519269:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:32:09 PT [2021/12/21 23:32:09 ET]
+Table 'Ophelia III' 9-max Seat #6 is the button
+Seat 4: bloody55hawk ($0.85 in chips) 
+Seat 5: pIay2kiLL ($2.50 in chips) 
+Seat 6: MV.Werly-nf ($1.92 in chips) 
+Seat 7: pksv333 ($1.75 in chips) 
+Seat 8: Dorex2007 ($2.09 in chips) 
+pksv333: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+azikenzo: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh As]
+bloody55hawk: folds 
+pIay2kiLL: folds 
+MV.Werly-nf: raises $0.02 to $0.04
+pksv333: folds 
+Dorex2007: calls $0.02
+*** FLOP *** [8c 4s 7c]
+Dorex2007: checks 
+MV.Werly-nf: bets $0.05
+Dorex2007: calls $0.05
+*** TURN *** [8c 4s 7c] [9d]
+Dorex2007: checks 
+MV.Werly-nf: bets $0.06
+Dorex2007: calls $0.06
+*** RIVER *** [8c 4s 7c 9d] [6d]
+Dorex2007: bets $0.30
+MV.Werly-nf: calls $0.30
+*** SHOW DOWN ***
+Dorex2007: shows [Qh As] (high card Ace)
+MV.Werly-nf: shows [9s Td] (a straight, Six to Ten)
+MV.Werly-nf collected $0.88 from pot
+*** SUMMARY ***
+Total pot $0.91 | Rake $0.03 
+Board [8c 4s 7c 9d 6d]
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: MV.Werly-nf (button) showed [9s Td] and won ($0.88) with a straight, Six to Ten
+Seat 7: pksv333 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) showed [Qh As] and lost with high card Ace
+
+
+
+PokerStars Hand #232419526432:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:32:50 PT [2021/12/21 23:32:50 ET]
+Table 'Ophelia III' 9-max Seat #7 is the button
+Seat 1: azikenzo ($2.14 in chips) 
+Seat 4: bloody55hawk ($0.85 in chips) 
+Seat 5: pIay2kiLL ($2.50 in chips) 
+Seat 6: MV.Werly-nf ($2.35 in chips) 
+Seat 7: pksv333 ($1.74 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Dorex2007: posts small blind $0.01
+azikenzo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 3h]
+bloody55hawk: folds 
+pIay2kiLL: folds 
+MV.Werly-nf: folds 
+pksv333: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to azikenzo
+azikenzo collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: azikenzo (big blind) collected ($0.02)
+Seat 4: bloody55hawk folded before Flop (didn't bet)
+Seat 5: pIay2kiLL folded before Flop (didn't bet)
+Seat 6: MV.Werly-nf folded before Flop (didn't bet)
+Seat 7: pksv333 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232419528625:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:33:03 PT [2021/12/21 23:33:03 ET]
+Table 'Ophelia III' 9-max Seat #8 is the button
+Seat 1: azikenzo ($2.15 in chips) 
+Seat 5: pIay2kiLL ($2.50 in chips) 
+Seat 6: MV.Werly-nf ($2.35 in chips) 
+Seat 7: pksv333 ($1.74 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+azikenzo: posts small blind $0.01
+bloody55hawk: is sitting out 
+pIay2kiLL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 2c]
+MV.Werly-nf: raises $0.02 to $0.04
+bloody55hawk leaves the table
+pksv333: folds 
+Dorex2007: folds 
+azikenzo: raises $0.10 to $0.14
+pIay2kiLL: folds 
+MV.Werly-nf: calls $0.10
+*** FLOP *** [6h 4d 3c]
+azikenzo: bets $0.15
+MV.Werly-nf: folds 
+Uncalled bet ($0.15) returned to azikenzo
+azikenzo collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [6h 4d 3c]
+Seat 1: azikenzo (small blind) collected ($0.29)
+Seat 5: pIay2kiLL (big blind) folded before Flop
+Seat 6: MV.Werly-nf folded on the Flop
+Seat 7: pksv333 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232419533151:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/21 20:33:29 PT [2021/12/21 23:33:29 ET]
+Table 'Ophelia III' 9-max Seat #1 is the button
+Seat 1: azikenzo ($2.30 in chips) 
+Seat 5: pIay2kiLL ($2.48 in chips) 
+Seat 6: MV.Werly-nf ($2.21 in chips) 
+Seat 7: pksv333 ($1.74 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+pIay2kiLL: posts small blind $0.01
+MV.Werly-nf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 7s]
+pksv333: folds 
+Dorex2007: folds 
+azikenzo: folds 
+pIay2kiLL: raises $0.04 to $0.06
+MV.Werly-nf: calls $0.04
+*** FLOP *** [9h 7c Qd]
+pIay2kiLL: bets $0.08
+MV.Werly-nf: calls $0.08
+*** TURN *** [9h 7c Qd] [Qc]
+pIay2kiLL: bets $0.18
+MV.Werly-nf: raises $1.89 to $2.07 and is all-in
+pIay2kiLL: folds 
+Uncalled bet ($1.89) returned to MV.Werly-nf
+MV.Werly-nf collected $0.62 from pot
+MV.Werly-nf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [9h 7c Qd Qc]
+Seat 1: azikenzo (button) folded before Flop (didn't bet)
+Seat 5: pIay2kiLL (small blind) folded on the Turn
+Seat 6: MV.Werly-nf (big blind) collected ($0.62)
+Seat 7: pksv333 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+

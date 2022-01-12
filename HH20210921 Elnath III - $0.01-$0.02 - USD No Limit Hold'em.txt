@@ -1,0 +1,4829 @@
+﻿PokerStars Hand #230018175614:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:41:45 PT [2021/09/21 1:41:45 ET]
+Table 'Elnath III' 9-max Seat #3 is the button
+Seat 1: vSpongeBoBv ($2.81 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: tolyan83823 ($1.89 in chips) 
+Seat 4: cookoofs ($1.50 in chips) 
+Seat 5: AVV_72008 ($1.68 in chips) 
+Seat 6: pikesz ($0.80 in chips) 
+Seat 7: alex_dorda ($0.76 in chips) 
+Seat 9: JasonCR_14 ($1.56 in chips) 
+cookoofs: posts small blind $0.01
+AVV_72008: posts big blind $0.02
+katakata26: sits out 
+Dorex2007: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c Jc]
+pikesz: folds 
+alex_dorda: folds 
+JasonCR_14: calls $0.02
+vSpongeBoBv: calls $0.02
+Dorex2007: checks 
+tolyan83823: folds 
+cookoofs: calls $0.01
+AVV_72008: checks 
+*** FLOP *** [Tc 7d 2c]
+cookoofs: checks 
+AVV_72008: bets $0.06
+JasonCR_14: folds 
+vSpongeBoBv: raises $0.12 to $0.18
+Dorex2007: folds 
+cookoofs: folds 
+AVV_72008: calls $0.12
+*** TURN *** [Tc 7d 2c] [9h]
+JasonCR_14 leaves the table
+AVV_72008: bets $0.06
+vSpongeBoBv: raises $0.57 to $0.63
+AVV_72008: folds 
+Uncalled bet ($0.57) returned to vSpongeBoBv
+vSpongeBoBv collected $0.57 from pot
+vSpongeBoBv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.02 
+Board [Tc 7d 2c 9h]
+Seat 1: vSpongeBoBv collected ($0.57)
+Seat 2: Dorex2007 folded on the Flop (didn't bet)
+Seat 3: tolyan83823 (button) folded before Flop (didn't bet)
+Seat 4: cookoofs (small blind) folded on the Flop
+Seat 5: AVV_72008 (big blind) folded on the Turn
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: alex_dorda folded before Flop (didn't bet)
+Seat 9: JasonCR_14 folded on the Flop
+
+
+
+PokerStars Hand #230018182622:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:42:39 PT [2021/09/21 1:42:39 ET]
+Table 'Elnath III' 9-max Seat #4 is the button
+Seat 1: vSpongeBoBv ($3.12 in chips) 
+Seat 2: Dorex2007 ($1.97 in chips) 
+Seat 3: tolyan83823 ($1.89 in chips) 
+Seat 4: cookoofs ($1.48 in chips) 
+Seat 5: AVV_72008 ($1.42 in chips) 
+Seat 6: pikesz ($0.80 in chips) 
+Seat 7: alex_dorda ($0.76 in chips) 
+AVV_72008: posts small blind $0.01
+pikesz: posts big blind $0.02
+katakata26: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Js]
+alex_dorda: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+cookoofs: calls $0.02
+AVV_72008: calls $0.01
+pikesz: checks 
+*** FLOP *** [Jc Qs Ac]
+AVV_72008: checks 
+pikesz: checks 
+cookoofs: checks 
+*** TURN *** [Jc Qs Ac] [Qd]
+AVV_72008: bets $0.04
+pikesz: folds 
+cookoofs: folds 
+Uncalled bet ($0.04) returned to AVV_72008
+AVV_72008 collected $0.06 from pot
+AVV_72008: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Jc Qs Ac Qd]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: cookoofs (button) folded on the Turn
+Seat 5: AVV_72008 (small blind) collected ($0.06)
+Seat 6: pikesz (big blind) folded on the Turn
+Seat 7: alex_dorda folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018187510:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:43:17 PT [2021/09/21 1:43:17 ET]
+Table 'Elnath III' 9-max Seat #5 is the button
+Seat 1: vSpongeBoBv ($3.12 in chips) 
+Seat 2: Dorex2007 ($1.97 in chips) 
+Seat 3: tolyan83823 ($1.89 in chips) 
+Seat 4: cookoofs ($1.46 in chips) 
+Seat 5: AVV_72008 ($1.46 in chips) 
+Seat 6: pikesz ($0.78 in chips) 
+Seat 7: alex_dorda ($0.76 in chips) 
+pikesz: posts small blind $0.01
+alex_dorda: posts big blind $0.02
+katakata26: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 4s]
+bojnice21 joins the table at seat #9 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+cookoofs: folds 
+AVV_72008: calls $0.02
+pikesz: raises $0.06 to $0.08
+alex_dorda: folds 
+AVV_72008: folds 
+Uncalled bet ($0.06) returned to pikesz
+pikesz collected $0.06 from pot
+pikesz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: cookoofs folded before Flop (didn't bet)
+Seat 5: AVV_72008 (button) folded before Flop
+Seat 6: pikesz (small blind) collected ($0.06)
+Seat 7: alex_dorda (big blind) folded before Flop
+
+
+
+PokerStars Hand #230018190358:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:43:39 PT [2021/09/21 1:43:39 ET]
+Table 'Elnath III' 9-max Seat #6 is the button
+Seat 1: vSpongeBoBv ($3.12 in chips) 
+Seat 2: Dorex2007 ($1.97 in chips) 
+Seat 3: tolyan83823 ($1.89 in chips) 
+Seat 4: cookoofs ($1.46 in chips) 
+Seat 5: AVV_72008 ($1.44 in chips) 
+Seat 6: pikesz ($0.82 in chips) 
+Seat 7: alex_dorda ($0.74 in chips) 
+Seat 8: katakata26 ($2 in chips) 
+alex_dorda: posts small blind $0.01
+katakata26: posts big blind $0.02
+bojnice21: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Kh]
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: raises $0.02 to $0.04
+cookoofs: folds 
+AVV_72008: folds 
+pikesz: folds 
+alex_dorda: calls $0.03
+katakata26: calls $0.02
+*** FLOP *** [Ts 4h 9d]
+alex_dorda: checks 
+katakata26: checks 
+tolyan83823: bets $0.06
+alex_dorda: folds 
+katakata26: folds 
+Uncalled bet ($0.06) returned to tolyan83823
+tolyan83823 collected $0.12 from pot
+tolyan83823: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ts 4h 9d]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 collected ($0.12)
+Seat 4: cookoofs folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz (button) folded before Flop (didn't bet)
+Seat 7: alex_dorda (small blind) folded on the Flop
+Seat 8: katakata26 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #230018196236:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:44:24 PT [2021/09/21 1:44:24 ET]
+Table 'Elnath III' 9-max Seat #7 is the button
+Seat 1: vSpongeBoBv ($3.12 in chips) 
+Seat 2: Dorex2007 ($1.97 in chips) 
+Seat 3: tolyan83823 ($1.97 in chips) 
+Seat 4: cookoofs ($1.46 in chips) 
+Seat 5: AVV_72008 ($1.44 in chips) 
+Seat 6: pikesz ($0.82 in chips) 
+Seat 7: alex_dorda ($0.70 in chips) 
+Seat 8: katakata26 ($1.96 in chips) 
+Seat 9: bojnice21 ($2 in chips) 
+katakata26: posts small blind $0.01
+bojnice21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 7s]
+vSpongeBoBv has timed out
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+cookoofs: folds 
+AVV_72008: calls $0.02
+pikesz: folds 
+alex_dorda: calls $0.02
+katakata26: folds 
+bojnice21: checks 
+*** FLOP *** [Ad Kd 3c]
+bojnice21: checks 
+AVV_72008: bets $0.06
+alex_dorda: calls $0.06
+bojnice21: calls $0.06
+*** TURN *** [Ad Kd 3c] [5s]
+bojnice21: checks 
+AVV_72008: bets $0.06
+alex_dorda: calls $0.06
+bojnice21: calls $0.06
+*** RIVER *** [Ad Kd 3c 5s] [3s]
+bojnice21: checks 
+AVV_72008: checks 
+alex_dorda: checks 
+*** SHOW DOWN ***
+bojnice21: shows [Tc As] (two pair, Aces and Threes)
+AVV_72008: mucks hand 
+alex_dorda: mucks hand 
+bojnice21 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [Ad Kd 3c 5s 3s]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: cookoofs folded before Flop (didn't bet)
+Seat 5: AVV_72008 mucked [6d 5d]
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: alex_dorda (button) mucked [Ts Js]
+Seat 8: katakata26 (small blind) folded before Flop
+Seat 9: bojnice21 (big blind) showed [Tc As] and won ($0.41) with two pair, Aces and Threes
+
+
+
+PokerStars Hand #230018203088:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:45:16 PT [2021/09/21 1:45:16 ET]
+Table 'Elnath III' 9-max Seat #8 is the button
+Seat 1: vSpongeBoBv ($3.12 in chips) 
+Seat 2: Dorex2007 ($1.97 in chips) 
+Seat 3: tolyan83823 ($1.97 in chips) 
+Seat 4: cookoofs ($1.46 in chips) 
+Seat 5: AVV_72008 ($1.30 in chips) 
+Seat 6: pikesz ($0.82 in chips) 
+Seat 7: alex_dorda ($0.56 in chips) 
+Seat 8: katakata26 ($1.95 in chips) 
+Seat 9: bojnice21 ($2.27 in chips) 
+bojnice21: posts small blind $0.01
+vSpongeBoBv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s Qd]
+Dorex2007: folds 
+tolyan83823: folds 
+cookoofs: folds 
+AVV_72008: calls $0.02
+pikesz: calls $0.02
+alex_dorda: calls $0.02
+katakata26: folds 
+bojnice21: calls $0.01
+vSpongeBoBv: raises $0.04 to $0.06
+AVV_72008: calls $0.04
+pikesz: calls $0.04
+alex_dorda: calls $0.04
+bojnice21: folds 
+*** FLOP *** [6h 2h 5c]
+vSpongeBoBv: checks 
+AVV_72008: bets $0.06
+pikesz: folds 
+alex_dorda: calls $0.06
+vSpongeBoBv: folds 
+*** TURN *** [6h 2h 5c] [Kd]
+AVV_72008: bets $0.06
+alex_dorda: calls $0.06
+*** RIVER *** [6h 2h 5c Kd] [Jh]
+AVV_72008: bets $0.06
+alex_dorda: folds 
+Uncalled bet ($0.06) returned to AVV_72008
+AVV_72008 collected $0.48 from pot
+AVV_72008: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [6h 2h 5c Kd Jh]
+Seat 1: vSpongeBoBv (big blind) folded on the Flop
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: cookoofs folded before Flop (didn't bet)
+Seat 5: AVV_72008 collected ($0.48)
+Seat 6: pikesz folded on the Flop
+Seat 7: alex_dorda folded on the River
+Seat 8: katakata26 (button) folded before Flop (didn't bet)
+Seat 9: bojnice21 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230018214649:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:46:47 PT [2021/09/21 1:46:47 ET]
+Table 'Elnath III' 9-max Seat #9 is the button
+Seat 1: vSpongeBoBv ($3.06 in chips) 
+Seat 2: Dorex2007 ($1.97 in chips) 
+Seat 3: tolyan83823 ($1.97 in chips) 
+Seat 4: cookoofs ($1.46 in chips) 
+Seat 5: AVV_72008 ($1.60 in chips) 
+Seat 6: pikesz ($0.76 in chips) 
+Seat 7: alex_dorda ($0.38 in chips) 
+Seat 8: katakata26 ($1.95 in chips) 
+Seat 9: bojnice21 ($2.25 in chips) 
+vSpongeBoBv: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 8s]
+tolyan83823: raises $0.04 to $0.06
+cookoofs: folds 
+AVV_72008: folds 
+pikesz: folds 
+alex_dorda: folds 
+katakata26: folds 
+bojnice21: folds 
+vSpongeBoBv: calls $0.05
+Dorex2007: folds 
+*** FLOP *** [Jh 2c 4d]
+vSpongeBoBv: checks 
+tolyan83823: checks 
+*** TURN *** [Jh 2c 4d] [Jc]
+vSpongeBoBv: bets $0.07
+tolyan83823: folds 
+Uncalled bet ($0.07) returned to vSpongeBoBv
+vSpongeBoBv collected $0.14 from pot
+vSpongeBoBv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Jh 2c 4d Jc]
+Seat 1: vSpongeBoBv (small blind) collected ($0.14)
+Seat 2: Dorex2007 (big blind) folded before Flop
+Seat 3: tolyan83823 folded on the Turn
+Seat 4: cookoofs folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: alex_dorda folded before Flop (didn't bet)
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: bojnice21 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018219211:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:47:23 PT [2021/09/21 1:47:23 ET]
+Table 'Elnath III' 9-max Seat #1 is the button
+Seat 1: vSpongeBoBv ($3.14 in chips) 
+Seat 2: Dorex2007 ($1.95 in chips) 
+Seat 3: tolyan83823 ($1.91 in chips) 
+Seat 4: cookoofs ($1.46 in chips) 
+Seat 5: AVV_72008 ($1.60 in chips) 
+Seat 6: pikesz ($0.76 in chips) 
+Seat 7: alex_dorda ($0.38 in chips) 
+Seat 8: katakata26 ($1.95 in chips) 
+Seat 9: bojnice21 ($2.25 in chips) 
+Dorex2007: posts small blind $0.01
+tolyan83823: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 2h]
+cookoofs: raises $0.02 to $0.04
+AVV_72008: folds 
+pikesz: folds 
+alex_dorda: folds 
+katakata26: folds 
+bojnice21: calls $0.04
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+*** FLOP *** [4d 2c 9h]
+cookoofs: checks 
+bojnice21: checks 
+*** TURN *** [4d 2c 9h] [9s]
+cookoofs: checks 
+bojnice21: checks 
+*** RIVER *** [4d 2c 9h 9s] [3c]
+cookoofs: checks 
+bojnice21: checks 
+*** SHOW DOWN ***
+cookoofs: shows [Ac 7c] (a pair of Nines)
+bojnice21: shows [As Js] (a pair of Nines - Ace+Jack kicker)
+bojnice21 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [4d 2c 9h 9s 3c]
+Seat 1: vSpongeBoBv (button) folded before Flop (didn't bet)
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 3: tolyan83823 (big blind) folded before Flop
+Seat 4: cookoofs showed [Ac 7c] and lost with a pair of Nines
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: alex_dorda folded before Flop (didn't bet)
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: bojnice21 showed [As Js] and won ($0.11) with a pair of Nines
+
+
+
+PokerStars Hand #230018231055:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:47:58 PT [2021/09/21 1:47:58 ET]
+Table 'Elnath III' 9-max Seat #2 is the button
+Seat 1: vSpongeBoBv ($3.14 in chips) 
+Seat 2: Dorex2007 ($1.94 in chips) 
+Seat 3: tolyan83823 ($1.89 in chips) 
+Seat 4: cookoofs ($1.42 in chips) 
+Seat 5: AVV_72008 ($1.60 in chips) 
+Seat 6: pikesz ($0.76 in chips) 
+Seat 7: alex_dorda ($0.38 in chips) 
+Seat 8: katakata26 ($1.95 in chips) 
+Seat 9: bojnice21 ($2.32 in chips) 
+tolyan83823: posts small blind $0.01
+cookoofs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 9s]
+AVV_72008: folds 
+pikesz: folds 
+alex_dorda: folds 
+katakata26: raises $0.04 to $0.06
+bojnice21: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+cookoofs: folds 
+Uncalled bet ($0.04) returned to katakata26
+katakata26 collected $0.05 from pot
+katakata26: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: tolyan83823 (small blind) folded before Flop
+Seat 4: cookoofs (big blind) folded before Flop
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: alex_dorda folded before Flop (didn't bet)
+Seat 8: katakata26 collected ($0.05)
+Seat 9: bojnice21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018233276:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:48:15 PT [2021/09/21 1:48:15 ET]
+Table 'Elnath III' 9-max Seat #3 is the button
+Seat 1: vSpongeBoBv ($3.14 in chips) 
+Seat 2: Dorex2007 ($1.94 in chips) 
+Seat 3: tolyan83823 ($1.88 in chips) 
+Seat 4: cookoofs ($1.40 in chips) 
+Seat 5: AVV_72008 ($1.60 in chips) 
+Seat 6: pikesz ($0.76 in chips) 
+Seat 7: alex_dorda ($0.38 in chips) 
+Seat 8: katakata26 ($1.98 in chips) 
+Seat 9: bojnice21 ($2.32 in chips) 
+cookoofs: posts small blind $0.01
+AVV_72008: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 7c]
+pikesz: folds 
+alex_dorda: folds 
+katakata26: folds 
+bojnice21: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+cookoofs: calls $0.01
+AVV_72008: checks 
+*** FLOP *** [Qd 2d 7d]
+cookoofs: checks 
+AVV_72008: bets $0.04
+cookoofs: folds 
+Uncalled bet ($0.04) returned to AVV_72008
+AVV_72008 collected $0.04 from pot
+AVV_72008: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Qd 2d 7d]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 (button) folded before Flop (didn't bet)
+Seat 4: cookoofs (small blind) folded on the Flop
+Seat 5: AVV_72008 (big blind) collected ($0.04)
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: alex_dorda folded before Flop (didn't bet)
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: bojnice21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018236948:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:48:43 PT [2021/09/21 1:48:43 ET]
+Table 'Elnath III' 9-max Seat #4 is the button
+Seat 1: vSpongeBoBv ($3.14 in chips) 
+Seat 2: Dorex2007 ($1.94 in chips) 
+Seat 3: tolyan83823 ($1.88 in chips) 
+Seat 4: cookoofs ($1.38 in chips) 
+Seat 5: AVV_72008 ($1.62 in chips) 
+Seat 6: pikesz ($0.76 in chips) 
+Seat 7: alex_dorda ($0.38 in chips) 
+Seat 8: katakata26 ($1.98 in chips) 
+Seat 9: bojnice21 ($2.32 in chips) 
+AVV_72008: posts small blind $0.01
+pikesz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 6c]
+alex_dorda: folds 
+katakata26: folds 
+bojnice21: calls $0.02
+vSpongeBoBv: raises $0.08 to $0.10
+Dorex2007: folds 
+tolyan83823: calls $0.10
+cookoofs: folds 
+AVV_72008: folds 
+pikesz: folds 
+bojnice21: calls $0.08
+*** FLOP *** [4s Kh Kd]
+bojnice21: checks 
+vSpongeBoBv: checks 
+tolyan83823: bets $0.32
+bojnice21: folds 
+vSpongeBoBv: folds 
+Uncalled bet ($0.32) returned to tolyan83823
+tolyan83823 collected $0.32 from pot
+tolyan83823: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [4s Kh Kd]
+Seat 1: vSpongeBoBv folded on the Flop
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 collected ($0.32)
+Seat 4: cookoofs (button) folded before Flop (didn't bet)
+Seat 5: AVV_72008 (small blind) folded before Flop
+Seat 6: pikesz (big blind) folded before Flop
+Seat 7: alex_dorda folded before Flop (didn't bet)
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: bojnice21 folded on the Flop
+
+
+
+PokerStars Hand #230018242330:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:49:25 PT [2021/09/21 1:49:25 ET]
+Table 'Elnath III' 9-max Seat #5 is the button
+Seat 1: vSpongeBoBv ($3.04 in chips) 
+Seat 2: Dorex2007 ($1.94 in chips) 
+Seat 3: tolyan83823 ($2.10 in chips) 
+Seat 4: cookoofs ($1.38 in chips) 
+Seat 5: AVV_72008 ($1.61 in chips) 
+Seat 6: pikesz ($0.74 in chips) 
+Seat 7: alex_dorda ($0.38 in chips) 
+Seat 8: katakata26 ($1.98 in chips) 
+Seat 9: bojnice21 ($2.22 in chips) 
+pikesz: posts small blind $0.01
+alex_dorda: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 8h]
+katakata26: folds 
+bojnice21: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+cookoofs: raises $0.04 to $0.06
+AVV_72008: folds 
+pikesz: folds 
+alex_dorda: calls $0.04
+*** FLOP *** [9s 3h 2c]
+alex_dorda: bets $0.02
+cookoofs: raises $0.04 to $0.06
+alex_dorda: raises $0.26 to $0.32 and is all-in
+cookoofs: calls $0.26
+*** TURN *** [9s 3h 2c] [6c]
+*** RIVER *** [9s 3h 2c 6c] [Th]
+*** SHOW DOWN ***
+alex_dorda: shows [7h 9d] (a pair of Nines)
+cookoofs: shows [Ac Qd] (high card Ace)
+alex_dorda collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [9s 3h 2c 6c Th]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: cookoofs showed [Ac Qd] and lost with high card Ace
+Seat 5: AVV_72008 (button) folded before Flop (didn't bet)
+Seat 6: pikesz (small blind) folded before Flop
+Seat 7: alex_dorda (big blind) showed [7h 9d] and won ($0.74) with a pair of Nines
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: bojnice21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018246687:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:50:00 PT [2021/09/21 1:50:00 ET]
+Table 'Elnath III' 9-max Seat #6 is the button
+Seat 1: vSpongeBoBv ($3.04 in chips) 
+Seat 2: Dorex2007 ($1.94 in chips) 
+Seat 3: tolyan83823 ($2.10 in chips) 
+Seat 4: cookoofs ($1 in chips) 
+Seat 5: AVV_72008 ($1.61 in chips) 
+Seat 6: pikesz ($0.73 in chips) 
+Seat 7: alex_dorda ($0.74 in chips) 
+Seat 8: katakata26 ($1.98 in chips) 
+Seat 9: bojnice21 ($2.22 in chips) 
+alex_dorda: posts small blind $0.01
+katakata26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 7s]
+bojnice21: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+cookoofs: calls $0.02
+AVV_72008: folds 
+pikesz: folds 
+alex_dorda: calls $0.01
+katakata26: checks 
+*** FLOP *** [Ts Ac Jc]
+alex_dorda: checks 
+katakata26: checks 
+cookoofs: bets $0.04
+alex_dorda: calls $0.04
+katakata26: calls $0.04
+*** TURN *** [Ts Ac Jc] [4s]
+alex_dorda: checks 
+katakata26: checks 
+cookoofs: checks 
+*** RIVER *** [Ts Ac Jc 4s] [5c]
+alex_dorda: bets $0.68 and is all-in
+katakata26: folds 
+cookoofs: folds 
+Uncalled bet ($0.68) returned to alex_dorda
+alex_dorda collected $0.17 from pot
+alex_dorda: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Ts Ac Jc 4s 5c]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: cookoofs folded on the River
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz (button) folded before Flop (didn't bet)
+Seat 7: alex_dorda (small blind) collected ($0.17)
+Seat 8: katakata26 (big blind) folded on the River
+Seat 9: bojnice21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018253209:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:50:52 PT [2021/09/21 1:50:52 ET]
+Table 'Elnath III' 9-max Seat #7 is the button
+Seat 1: vSpongeBoBv ($3.04 in chips) 
+Seat 2: Dorex2007 ($1.94 in chips) 
+Seat 3: tolyan83823 ($2.10 in chips) 
+Seat 4: cookoofs ($0.94 in chips) 
+Seat 5: AVV_72008 ($1.61 in chips) 
+Seat 6: pikesz ($0.73 in chips) 
+Seat 7: alex_dorda ($0.85 in chips) 
+Seat 8: katakata26 ($1.92 in chips) 
+Seat 9: bojnice21 ($2.22 in chips) 
+katakata26: posts small blind $0.01
+bojnice21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 6s]
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+cookoofs: folds 
+AVV_72008: folds 
+pikesz: folds 
+alex_dorda: folds 
+katakata26: folds 
+Uncalled bet ($0.01) returned to bojnice21
+bojnice21 collected $0.02 from pot
+bojnice21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: cookoofs folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: alex_dorda (button) folded before Flop (didn't bet)
+Seat 8: katakata26 (small blind) folded before Flop
+Seat 9: bojnice21 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #230018254721:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:51:04 PT [2021/09/21 1:51:04 ET]
+Table 'Elnath III' 9-max Seat #8 is the button
+Seat 1: vSpongeBoBv ($3.04 in chips) 
+Seat 2: Dorex2007 ($1.94 in chips) 
+Seat 3: tolyan83823 ($2.10 in chips) 
+Seat 4: cookoofs ($0.94 in chips) 
+Seat 5: AVV_72008 ($1.61 in chips) 
+Seat 6: pikesz ($0.73 in chips) 
+Seat 7: alex_dorda ($0.85 in chips) 
+Seat 8: katakata26 ($1.91 in chips) 
+Seat 9: bojnice21 ($2.23 in chips) 
+bojnice21: posts small blind $0.01
+vSpongeBoBv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 9h]
+Dorex2007: folds 
+tolyan83823: raises $0.04 to $0.06
+cookoofs: folds 
+AVV_72008: folds 
+pikesz: folds 
+alex_dorda: folds 
+katakata26: raises $0.12 to $0.18
+bojnice21: folds 
+vSpongeBoBv: folds 
+tolyan83823: calls $0.12
+*** FLOP *** [5c 8s 2h]
+tolyan83823: checks 
+katakata26: bets $0.18
+tolyan83823: folds 
+Uncalled bet ($0.18) returned to katakata26
+katakata26 collected $0.38 from pot
+katakata26: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [5c 8s 2h]
+Seat 1: vSpongeBoBv (big blind) folded before Flop
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded on the Flop
+Seat 4: cookoofs folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: alex_dorda folded before Flop (didn't bet)
+Seat 8: katakata26 (button) collected ($0.38)
+Seat 9: bojnice21 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230018260658:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:51:50 PT [2021/09/21 1:51:50 ET]
+Table 'Elnath III' 9-max Seat #9 is the button
+Seat 1: vSpongeBoBv ($3.02 in chips) 
+Seat 2: Dorex2007 ($1.94 in chips) 
+Seat 3: tolyan83823 ($1.92 in chips) 
+Seat 4: cookoofs ($1.27 in chips) 
+Seat 5: AVV_72008 ($1.61 in chips) 
+Seat 6: pikesz ($0.73 in chips) 
+Seat 7: alex_dorda ($0.85 in chips) 
+Seat 8: katakata26 ($2.11 in chips) 
+Seat 9: bojnice21 ($2.22 in chips) 
+vSpongeBoBv: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 8d]
+tolyan83823: folds 
+cookoofs: folds 
+AVV_72008: folds 
+pikesz: folds 
+alex_dorda: folds 
+katakata26: folds 
+bojnice21: folds 
+vSpongeBoBv: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: vSpongeBoBv (small blind) folded before Flop
+Seat 2: Dorex2007 (big blind) collected ($0.02)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: cookoofs folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: alex_dorda folded before Flop (didn't bet)
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: bojnice21 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018262817:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:52:07 PT [2021/09/21 1:52:07 ET]
+Table 'Elnath III' 9-max Seat #1 is the button
+Seat 1: vSpongeBoBv ($3.01 in chips) 
+Seat 2: Dorex2007 ($1.95 in chips) 
+Seat 3: tolyan83823 ($1.92 in chips) 
+Seat 4: cookoofs ($1.27 in chips) 
+Seat 5: AVV_72008 ($1.61 in chips) 
+Seat 6: pikesz ($0.73 in chips) 
+Seat 7: alex_dorda ($0.85 in chips) 
+Seat 8: katakata26 ($2.11 in chips) 
+Seat 9: bojnice21 ($2.22 in chips) 
+Dorex2007: posts small blind $0.01
+tolyan83823: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Js]
+cookoofs: calls $0.02
+AVV_72008: folds 
+pikesz: folds 
+alex_dorda: folds 
+katakata26: folds 
+bojnice21: folds 
+vSpongeBoBv: folds 
+Dorex2007: raises $0.02 to $0.04
+tolyan83823: calls $0.02
+cookoofs: calls $0.02
+*** FLOP *** [Jc 4d 2d]
+Dorex2007: checks 
+tolyan83823: checks 
+cookoofs: bets $0.06
+Dorex2007: raises $0.12 to $0.18
+tolyan83823: folds 
+cookoofs: folds 
+Uncalled bet ($0.12) returned to Dorex2007
+Dorex2007 collected $0.23 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Jc 4d 2d]
+Seat 1: vSpongeBoBv (button) folded before Flop (didn't bet)
+Seat 2: Dorex2007 (small blind) collected ($0.23)
+Seat 3: tolyan83823 (big blind) folded on the Flop
+Seat 4: cookoofs folded on the Flop
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: alex_dorda folded before Flop (didn't bet)
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: bojnice21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018267616:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:52:45 PT [2021/09/21 1:52:45 ET]
+Table 'Elnath III' 9-max Seat #2 is the button
+Seat 1: vSpongeBoBv ($3.01 in chips) 
+Seat 2: Dorex2007 ($2.08 in chips) 
+Seat 3: tolyan83823 ($1.88 in chips) 
+Seat 4: cookoofs ($1.17 in chips) 
+Seat 5: AVV_72008 ($1.61 in chips) 
+Seat 6: pikesz ($0.73 in chips) 
+Seat 7: alex_dorda ($0.85 in chips) 
+Seat 8: katakata26 ($2.11 in chips) 
+Seat 9: bojnice21 ($2.22 in chips) 
+tolyan83823: posts small blind $0.01
+cookoofs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 7s]
+AVV_72008: folds 
+pikesz: raises $0.02 to $0.04
+alex_dorda: folds 
+katakata26: folds 
+bojnice21: folds 
+vSpongeBoBv: calls $0.04
+Dorex2007: folds 
+tolyan83823: folds 
+cookoofs: calls $0.02
+*** FLOP *** [5h 5c 8s]
+cookoofs: checks 
+pikesz: checks 
+vSpongeBoBv: checks 
+*** TURN *** [5h 5c 8s] [9d]
+cookoofs: checks 
+pikesz: checks 
+vSpongeBoBv: checks 
+*** RIVER *** [5h 5c 8s 9d] [Js]
+cookoofs: checks 
+pikesz: checks 
+vSpongeBoBv: bets $0.06
+cookoofs: folds 
+pikesz: folds 
+Uncalled bet ($0.06) returned to vSpongeBoBv
+vSpongeBoBv collected $0.13 from pot
+vSpongeBoBv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5h 5c 8s 9d Js]
+Seat 1: vSpongeBoBv collected ($0.13)
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: tolyan83823 (small blind) folded before Flop
+Seat 4: cookoofs (big blind) folded on the River
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz folded on the River
+Seat 7: alex_dorda folded before Flop (didn't bet)
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: bojnice21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018274603:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:53:40 PT [2021/09/21 1:53:40 ET]
+Table 'Elnath III' 9-max Seat #3 is the button
+Seat 1: vSpongeBoBv ($3.10 in chips) 
+Seat 2: Dorex2007 ($2.08 in chips) 
+Seat 3: tolyan83823 ($1.87 in chips) 
+Seat 4: cookoofs ($1.13 in chips) 
+Seat 5: AVV_72008 ($1.61 in chips) 
+Seat 6: pikesz ($0.69 in chips) 
+Seat 7: alex_dorda ($0.85 in chips) 
+Seat 8: katakata26 ($2.11 in chips) 
+Seat 9: bojnice21 ($2.22 in chips) 
+cookoofs: posts small blind $0.01
+AVV_72008: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 9h]
+pikesz: folds 
+alex_dorda: calls $0.02
+katakata26: folds 
+bojnice21: folds 
+vSpongeBoBv has timed out
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+cookoofs: calls $0.01
+AVV_72008: checks 
+*** FLOP *** [Ts 2s 8c]
+cookoofs: checks 
+AVV_72008: checks 
+alex_dorda: bets $0.03
+cookoofs: calls $0.03
+AVV_72008: folds 
+*** TURN *** [Ts 2s 8c] [Tc]
+cookoofs: checks 
+alex_dorda: checks 
+*** RIVER *** [Ts 2s 8c Tc] [2c]
+cookoofs: checks 
+alex_dorda: bets $0.80 and is all-in
+cookoofs: folds 
+Uncalled bet ($0.80) returned to alex_dorda
+alex_dorda collected $0.12 from pot
+alex_dorda: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ts 2s 8c Tc 2c]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 (button) folded before Flop (didn't bet)
+Seat 4: cookoofs (small blind) folded on the River
+Seat 5: AVV_72008 (big blind) folded on the Flop
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: alex_dorda collected ($0.12)
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: bojnice21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018282486:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:54:42 PT [2021/09/21 1:54:42 ET]
+Table 'Elnath III' 9-max Seat #4 is the button
+Seat 1: vSpongeBoBv ($3.10 in chips) 
+Seat 2: Dorex2007 ($2.08 in chips) 
+Seat 3: tolyan83823 ($1.87 in chips) 
+Seat 4: cookoofs ($1.08 in chips) 
+Seat 5: AVV_72008 ($1.59 in chips) 
+Seat 6: pikesz ($0.69 in chips) 
+Seat 7: alex_dorda ($0.92 in chips) 
+Seat 8: katakata26 ($2.11 in chips) 
+Seat 9: bojnice21 ($2.22 in chips) 
+AVV_72008: posts small blind $0.01
+pikesz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Th]
+alex_dorda: calls $0.02
+katakata26: folds 
+bojnice21: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+cookoofs: folds 
+AVV_72008: calls $0.01
+pikesz: checks 
+*** FLOP *** [9d 8c Jh]
+AVV_72008: bets $0.04
+pikesz: folds 
+alex_dorda: calls $0.04
+*** TURN *** [9d 8c Jh] [7s]
+AVV_72008: checks 
+alex_dorda: checks 
+*** RIVER *** [9d 8c Jh 7s] [3h]
+AVV_72008: checks 
+alex_dorda: checks 
+*** SHOW DOWN ***
+AVV_72008: shows [9c 2c] (a pair of Nines)
+alex_dorda: mucks hand 
+AVV_72008 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [9d 8c Jh 7s 3h]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: cookoofs (button) folded before Flop (didn't bet)
+Seat 5: AVV_72008 (small blind) showed [9c 2c] and won ($0.14) with a pair of Nines
+Seat 6: pikesz (big blind) folded on the Flop
+Seat 7: alex_dorda mucked [Qh Ks]
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: bojnice21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018287545:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:55:24 PT [2021/09/21 1:55:24 ET]
+Table 'Elnath III' 9-max Seat #5 is the button
+Seat 1: vSpongeBoBv ($3.10 in chips) 
+Seat 2: Dorex2007 ($2.08 in chips) 
+Seat 3: tolyan83823 ($1.87 in chips) 
+Seat 4: cookoofs ($1.08 in chips) 
+Seat 5: AVV_72008 ($1.67 in chips) 
+Seat 6: pikesz ($0.67 in chips) 
+Seat 7: alex_dorda ($0.86 in chips) 
+Seat 8: katakata26 ($2.11 in chips) 
+Seat 9: bojnice21 ($2.22 in chips) 
+pikesz: posts small blind $0.01
+alex_dorda: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 7s]
+katakata26: folds 
+bojnice21: calls $0.02
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+cookoofs: raises $0.06 to $0.08
+AVV_72008: folds 
+pikesz: folds 
+alex_dorda: folds 
+bojnice21: calls $0.06
+*** FLOP *** [6d 2c 6h]
+bojnice21: checks 
+cookoofs: bets $0.10
+bojnice21: folds 
+Uncalled bet ($0.10) returned to cookoofs
+cookoofs collected $0.18 from pot
+cookoofs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [6d 2c 6h]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: cookoofs collected ($0.18)
+Seat 5: AVV_72008 (button) folded before Flop (didn't bet)
+Seat 6: pikesz (small blind) folded before Flop
+Seat 7: alex_dorda (big blind) folded before Flop
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: bojnice21 folded on the Flop
+
+
+
+PokerStars Hand #230018291742:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:56:01 PT [2021/09/21 1:56:01 ET]
+Table 'Elnath III' 9-max Seat #6 is the button
+Seat 1: vSpongeBoBv ($3.10 in chips) 
+Seat 2: Dorex2007 ($2.08 in chips) 
+Seat 3: tolyan83823 ($1.87 in chips) 
+Seat 4: cookoofs ($1.18 in chips) 
+Seat 5: AVV_72008 ($1.67 in chips) 
+Seat 6: pikesz ($0.66 in chips) 
+Seat 7: alex_dorda ($0.84 in chips) 
+Seat 8: katakata26 ($2.11 in chips) 
+Seat 9: bojnice21 ($2.14 in chips) 
+alex_dorda: posts small blind $0.01
+katakata26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 6h]
+bojnice21: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+cookoofs: calls $0.02
+AVV_72008: folds 
+pikesz: calls $0.02
+alex_dorda: calls $0.01
+katakata26: checks 
+*** FLOP *** [3d 8c Kc]
+alex_dorda: checks 
+katakata26: checks 
+cookoofs: checks 
+pikesz: bets $0.08
+alex_dorda: folds 
+katakata26: folds 
+cookoofs: folds 
+Uncalled bet ($0.08) returned to pikesz
+pikesz collected $0.08 from pot
+pikesz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [3d 8c Kc]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: cookoofs folded on the Flop
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz (button) collected ($0.08)
+Seat 7: alex_dorda (small blind) folded on the Flop
+Seat 8: katakata26 (big blind) folded on the Flop
+Seat 9: bojnice21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018296636:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:56:44 PT [2021/09/21 1:56:44 ET]
+Table 'Elnath III' 9-max Seat #7 is the button
+Seat 1: vSpongeBoBv ($3.10 in chips) 
+Seat 2: Dorex2007 ($2.08 in chips) 
+Seat 3: tolyan83823 ($1.87 in chips) 
+Seat 4: cookoofs ($1.16 in chips) 
+Seat 5: AVV_72008 ($1.67 in chips) 
+Seat 6: pikesz ($0.72 in chips) 
+Seat 7: alex_dorda ($0.82 in chips) 
+Seat 8: katakata26 ($2.09 in chips) 
+Seat 9: bojnice21 ($2.14 in chips) 
+katakata26: posts small blind $0.01
+bojnice21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 6s]
+vSpongeBoBv: raises $0.04 to $0.06
+Dorex2007: folds 
+tolyan83823: folds 
+cookoofs: folds 
+AVV_72008: folds 
+pikesz: calls $0.06
+alex_dorda: folds 
+katakata26: folds 
+bojnice21: calls $0.04
+*** FLOP *** [Jc 7d 3c]
+bojnice21: checks 
+vSpongeBoBv: checks 
+pikesz: checks 
+*** TURN *** [Jc 7d 3c] [Th]
+bojnice21: checks 
+vSpongeBoBv: bets $0.09
+pikesz: calls $0.09
+bojnice21: calls $0.09
+*** RIVER *** [Jc 7d 3c Th] [Jh]
+bojnice21: checks 
+vSpongeBoBv: checks 
+pikesz: bets $0.22
+bojnice21: folds 
+vSpongeBoBv: folds 
+Uncalled bet ($0.22) returned to pikesz
+pikesz collected $0.44 from pot
+pikesz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [Jc 7d 3c Th Jh]
+Seat 1: vSpongeBoBv folded on the River
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: cookoofs folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz collected ($0.44)
+Seat 7: alex_dorda (button) folded before Flop (didn't bet)
+Seat 8: katakata26 (small blind) folded before Flop
+Seat 9: bojnice21 (big blind) folded on the River
+
+
+
+PokerStars Hand #230018303738:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:57:46 PT [2021/09/21 1:57:46 ET]
+Table 'Elnath III' 9-max Seat #8 is the button
+Seat 1: vSpongeBoBv ($2.95 in chips) 
+Seat 2: Dorex2007 ($2.08 in chips) 
+Seat 3: tolyan83823 ($1.87 in chips) 
+Seat 4: cookoofs ($1.16 in chips) 
+Seat 5: AVV_72008 ($1.67 in chips) 
+Seat 6: pikesz ($1.01 in chips) 
+Seat 7: alex_dorda ($0.82 in chips) 
+Seat 8: katakata26 ($2.08 in chips) 
+Seat 9: bojnice21 ($1.99 in chips) 
+bojnice21: posts small blind $0.01
+vSpongeBoBv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 8d]
+Dorex2007: folds 
+tolyan83823: raises $0.02 to $0.04
+cookoofs: calls $0.04
+AVV_72008: calls $0.04
+pikesz: folds 
+alex_dorda: folds 
+katakata26: folds 
+bojnice21: folds 
+alex_dorda leaves the table
+vSpongeBoBv has timed out
+vSpongeBoBv: folds 
+*** FLOP *** [Tc 2s Jc]
+bojnice21 leaves the table
+tolyan83823: checks 
+cookoofs: checks 
+AVV_72008: bets $0.04
+tolyan83823: calls $0.04
+cookoofs: calls $0.04
+*** TURN *** [Tc 2s Jc] [3c]
+tolyan83823: checks 
+cookoofs: checks 
+blunt604 joins the table at seat #9 
+AVV_72008: checks 
+*** RIVER *** [Tc 2s Jc 3c] [Js]
+tolyan83823: checks 
+dirtyolman joins the table at seat #7 
+cookoofs: checks 
+AVV_72008: checks 
+*** SHOW DOWN ***
+tolyan83823: shows [8c 8s] (two pair, Jacks and Eights)
+cookoofs: mucks hand 
+AVV_72008: mucks hand 
+tolyan83823 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Tc 2s Jc 3c Js]
+Seat 1: vSpongeBoBv (big blind) folded before Flop
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 showed [8c 8s] and won ($0.26) with two pair, Jacks and Eights
+Seat 4: cookoofs mucked [9d 7d]
+Seat 5: AVV_72008 mucked [Kh As]
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: alex_dorda folded before Flop (didn't bet)
+Seat 8: katakata26 (button) folded before Flop (didn't bet)
+Seat 9: bojnice21 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230018313450:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 22:59:14 PT [2021/09/21 1:59:14 ET]
+Table 'Elnath III' 9-max Seat #2 is the button
+Seat 2: Dorex2007 ($2.08 in chips) 
+Seat 3: tolyan83823 ($2.05 in chips) 
+Seat 4: cookoofs ($1.08 in chips) 
+Seat 5: AVV_72008 ($1.59 in chips) 
+Seat 6: pikesz ($1.01 in chips) 
+Seat 7: dirtyolman ($1.60 in chips) 
+Seat 8: katakata26 ($2.08 in chips) 
+tolyan83823: posts small blind $0.01
+cookoofs: posts big blind $0.02
+dirtyolman: posts big blind $0.02
+blunt604: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 9h]
+AVV_72008: folds 
+pikesz: folds 
+dirtyolman: checks 
+katakata26: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+cookoofs has timed out
+cookoofs: checks 
+*** FLOP *** [7h Ks 9c]
+cookoofs: checks 
+dirtyolman: checks 
+*** TURN *** [7h Ks 9c] [8d]
+cookoofs: checks 
+dirtyolman: bets $0.02
+cookoofs: calls $0.02
+*** RIVER *** [7h Ks 9c 8d] [2s]
+cookoofs: checks 
+dirtyolman: bets $0.09
+cookoofs: folds 
+Uncalled bet ($0.09) returned to dirtyolman
+dirtyolman collected $0.09 from pot
+dirtyolman: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [7h Ks 9c 8d 2s]
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: tolyan83823 (small blind) folded before Flop
+Seat 4: cookoofs (big blind) folded on the River
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: dirtyolman collected ($0.09)
+Seat 8: katakata26 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018322688:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:00:37 PT [2021/09/21 2:00:37 ET]
+Table 'Elnath III' 9-max Seat #3 is the button
+Seat 1: vSpongeBoBv ($2.93 in chips) 
+Seat 2: Dorex2007 ($2.08 in chips) 
+Seat 3: tolyan83823 ($2.04 in chips) 
+Seat 4: cookoofs ($1.04 in chips) 
+Seat 5: AVV_72008 ($1.59 in chips) 
+Seat 6: pikesz ($1.01 in chips) 
+Seat 7: dirtyolman ($1.65 in chips) 
+Seat 8: katakata26 ($2.08 in chips) 
+cookoofs: posts small blind $0.01
+AVV_72008: posts big blind $0.02
+blunt604: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 7s]
+pikesz: folds 
+dirtyolman: folds 
+katakata26: folds 
+vSpongeBoBv: raises $0.04 to $0.06
+Dorex2007: folds 
+tolyan83823: folds 
+cookoofs: calls $0.05
+AVV_72008: folds 
+*** FLOP *** [3s Qs Qc]
+cookoofs: checks 
+vSpongeBoBv: checks 
+*** TURN *** [3s Qs Qc] [Ac]
+cookoofs: checks 
+vSpongeBoBv: bets $0.07
+cookoofs: folds 
+Uncalled bet ($0.07) returned to vSpongeBoBv
+vSpongeBoBv collected $0.14 from pot
+vSpongeBoBv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [3s Qs Qc Ac]
+Seat 1: vSpongeBoBv collected ($0.14)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 (button) folded before Flop (didn't bet)
+Seat 4: cookoofs (small blind) folded on the Turn
+Seat 5: AVV_72008 (big blind) folded before Flop
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: dirtyolman folded before Flop (didn't bet)
+Seat 8: katakata26 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018327161:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:01:14 PT [2021/09/21 2:01:14 ET]
+Table 'Elnath III' 9-max Seat #4 is the button
+Seat 1: vSpongeBoBv ($3.01 in chips) 
+Seat 2: Dorex2007 ($2.08 in chips) 
+Seat 3: tolyan83823 ($2.04 in chips) 
+Seat 4: cookoofs ($0.98 in chips) 
+Seat 5: AVV_72008 ($1.57 in chips) 
+Seat 6: pikesz ($1.01 in chips) 
+Seat 7: dirtyolman ($1.65 in chips) 
+Seat 8: katakata26 ($2.08 in chips) 
+AVV_72008: posts small blind $0.01
+pikesz: posts big blind $0.02
+blunt604: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Jd]
+dirtyolman: folds 
+katakata26: raises $0.04 to $0.06
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+cookoofs: folds 
+cookoofs leaves the table
+AVV_72008: folds 
+pikesz: folds 
+Uncalled bet ($0.04) returned to katakata26
+katakata26 collected $0.05 from pot
+katakata26: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: cookoofs (button) folded before Flop (didn't bet)
+Seat 5: AVV_72008 (small blind) folded before Flop
+Seat 6: pikesz (big blind) folded before Flop
+Seat 7: dirtyolman folded before Flop (didn't bet)
+Seat 8: katakata26 collected ($0.05)
+
+
+
+PokerStars Hand #230018329455:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:01:33 PT [2021/09/21 2:01:33 ET]
+Table 'Elnath III' 9-max Seat #5 is the button
+Seat 1: vSpongeBoBv ($3.01 in chips) 
+Seat 2: Dorex2007 ($2.08 in chips) 
+Seat 3: tolyan83823 ($2.04 in chips) 
+Seat 5: AVV_72008 ($1.56 in chips) 
+Seat 6: pikesz ($0.99 in chips) 
+Seat 7: dirtyolman ($1.65 in chips) 
+Seat 8: katakata26 ($2.11 in chips) 
+pikesz: posts small blind $0.01
+dirtyolman: posts big blind $0.02
+blunt604: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 7d]
+katakata26: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: raises $0.04 to $0.06
+AVV_72008: folds 
+pikesz: folds 
+dirtyolman: calls $0.04
+*** FLOP *** [Qc 3c 7c]
+dirtyolman: bets $0.13
+tolyan83823: folds 
+Uncalled bet ($0.13) returned to dirtyolman
+dirtyolman collected $0.13 from pot
+dirtyolman: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qc 3c 7c]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded on the Flop
+Seat 5: AVV_72008 (button) folded before Flop (didn't bet)
+Seat 6: pikesz (small blind) folded before Flop
+Seat 7: dirtyolman (big blind) collected ($0.13)
+Seat 8: katakata26 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018333078:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:02:02 PT [2021/09/21 2:02:02 ET]
+Table 'Elnath III' 9-max Seat #6 is the button
+Seat 1: vSpongeBoBv ($3.01 in chips) 
+Seat 2: Dorex2007 ($2.08 in chips) 
+Seat 3: tolyan83823 ($1.98 in chips) 
+Seat 5: AVV_72008 ($1.56 in chips) 
+Seat 6: pikesz ($0.98 in chips) 
+Seat 7: dirtyolman ($1.72 in chips) 
+Seat 8: katakata26 ($2.11 in chips) 
+dirtyolman: posts small blind $0.01
+katakata26: posts big blind $0.02
+blunt604: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Qs]
+vSpongeBoBv has timed out
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+AVV_72008: folds 
+pikesz: folds 
+dirtyolman: folds 
+Uncalled bet ($0.01) returned to katakata26
+katakata26 collected $0.02 from pot
+katakata26: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz (button) folded before Flop (didn't bet)
+Seat 7: dirtyolman (small blind) folded before Flop
+Seat 8: katakata26 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #230018334916:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:02:18 PT [2021/09/21 2:02:18 ET]
+Table 'Elnath III' 9-max Seat #7 is the button
+Seat 2: Dorex2007 ($2.08 in chips) 
+Seat 3: tolyan83823 ($1.98 in chips) 
+Seat 5: AVV_72008 ($1.56 in chips) 
+Seat 6: pikesz ($0.98 in chips) 
+Seat 7: dirtyolman ($1.71 in chips) 
+Seat 8: katakata26 ($2.12 in chips) 
+Seat 9: blunt604 ($2 in chips) 
+katakata26: posts small blind $0.01
+blunt604: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Ks]
+Dorex2007: raises $0.04 to $0.06
+tolyan83823: calls $0.06
+AVV_72008: folds 
+pikesz: folds 
+dirtyolman: folds 
+katakata26: folds 
+blunt604: folds 
+*** FLOP *** [2h Ac Jd]
+Dorex2007: checks 
+tolyan83823: bets $0.16
+Dorex2007: folds 
+Uncalled bet ($0.16) returned to tolyan83823
+tolyan83823 collected $0.14 from pot
+tolyan83823: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2h Ac Jd]
+Seat 2: Dorex2007 folded on the Flop
+Seat 3: tolyan83823 collected ($0.14)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: dirtyolman (button) folded before Flop (didn't bet)
+Seat 8: katakata26 (small blind) folded before Flop
+Seat 9: blunt604 (big blind) folded before Flop
+
+
+
+PokerStars Hand #230018340175:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:03:00 PT [2021/09/21 2:03:00 ET]
+Table 'Elnath III' 9-max Seat #8 is the button
+Seat 2: Dorex2007 ($2.02 in chips) 
+Seat 3: tolyan83823 ($2.06 in chips) 
+Seat 5: AVV_72008 ($1.56 in chips) 
+Seat 6: pikesz ($0.98 in chips) 
+Seat 7: dirtyolman ($1.71 in chips) 
+Seat 8: katakata26 ($2.11 in chips) 
+Seat 9: blunt604 ($2 in chips) 
+blunt604: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 8d]
+tolyan83823: folds 
+AVV_72008: calls $0.02
+pikesz: folds 
+dirtyolman: folds 
+katakata26: raises $0.06 to $0.08
+blunt604: folds 
+Dorex2007: folds 
+AVV_72008: folds 
+Uncalled bet ($0.06) returned to katakata26
+katakata26 collected $0.07 from pot
+katakata26: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 2: Dorex2007 (big blind) folded before Flop
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: dirtyolman folded before Flop (didn't bet)
+Seat 8: katakata26 (button) collected ($0.07)
+Seat 9: blunt604 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230018343598:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:03:27 PT [2021/09/21 2:03:27 ET]
+Table 'Elnath III' 9-max Seat #9 is the button
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 5: AVV_72008 ($1.54 in chips) 
+Seat 6: pikesz ($0.98 in chips) 
+Seat 7: dirtyolman ($1.71 in chips) 
+Seat 8: katakata26 ($2.16 in chips) 
+Seat 9: blunt604 ($2 in chips) 
+Dorex2007: posts small blind $0.01
+AVV_72008: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Qd]
+pikesz: folds 
+dirtyolman: calls $0.02
+katakata26: folds 
+blunt604: raises $0.10 to $0.12
+Dorex2007: folds 
+AVV_72008: folds 
+dirtyolman: folds 
+Uncalled bet ($0.10) returned to blunt604
+blunt604 collected $0.07 from pot
+blunt604: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 5: AVV_72008 (big blind) folded before Flop
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: dirtyolman folded before Flop
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: blunt604 (button) collected ($0.07)
+
+
+
+PokerStars Hand #230018345642:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:03:43 PT [2021/09/21 2:03:43 ET]
+Table 'Elnath III' 9-max Seat #2 is the button
+Seat 2: Dorex2007 ($1.99 in chips) 
+Seat 5: AVV_72008 ($1.52 in chips) 
+Seat 6: pikesz ($0.98 in chips) 
+Seat 7: dirtyolman ($1.69 in chips) 
+Seat 8: katakata26 ($2.16 in chips) 
+Seat 9: blunt604 ($2.05 in chips) 
+AVV_72008: posts small blind $0.01
+pikesz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 5d]
+dirtyolman: calls $0.02
+katakata26: folds 
+blunt604: folds 
+Dorex2007: folds 
+AVV_72008: calls $0.01
+pikesz: checks 
+*** FLOP *** [9s 2c As]
+takeshie1971 joins the table at seat #4 
+AVV_72008: checks 
+pikesz: checks 
+dirtyolman: checks 
+*** TURN *** [9s 2c As] [Js]
+AVV_72008: checks 
+pikesz: checks 
+dirtyolman: bets $0.03
+AVV_72008: folds 
+pikesz: folds 
+Uncalled bet ($0.03) returned to dirtyolman
+dirtyolman collected $0.06 from pot
+dirtyolman: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [9s 2c As Js]
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: AVV_72008 (small blind) folded on the Turn
+Seat 6: pikesz (big blind) folded on the Turn
+Seat 7: dirtyolman collected ($0.06)
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: blunt604 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018350785:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:04:24 PT [2021/09/21 2:04:24 ET]
+Table 'Elnath III' 9-max Seat #5 is the button
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 4: takeshie1971 ($1.60 in chips) 
+Seat 5: AVV_72008 ($1.50 in chips) 
+Seat 6: pikesz ($0.96 in chips) 
+Seat 7: dirtyolman ($1.73 in chips) 
+Seat 8: katakata26 ($2.16 in chips) 
+Seat 9: blunt604 ($2.05 in chips) 
+pikesz: posts small blind $0.01
+dirtyolman: posts big blind $0.02
+takeshie1971: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 2s]
+katakata26: folds 
+blunt604: folds 
+Dorex2007: folds 
+takeshie1971: checks 
+AVV_72008: calls $0.02
+pikesz: calls $0.01
+dirtyolman: checks 
+*** FLOP *** [9c 9s Th]
+pikesz: checks 
+dirtyolman: checks 
+takeshie1971: checks 
+AVV_72008: bets $0.06
+pikesz: folds 
+dirtyolman: folds 
+takeshie1971: folds 
+Uncalled bet ($0.06) returned to AVV_72008
+AVV_72008 collected $0.08 from pot
+AVV_72008: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [9c 9s Th]
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 4: takeshie1971 folded on the Flop (didn't bet)
+Seat 5: AVV_72008 (button) collected ($0.08)
+Seat 6: pikesz (small blind) folded on the Flop
+Seat 7: dirtyolman (big blind) folded on the Flop
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: blunt604 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018354079:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:04:49 PT [2021/09/21 2:04:49 ET]
+Table 'Elnath III' 9-max Seat #6 is the button
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 4: takeshie1971 ($1.58 in chips) 
+Seat 5: AVV_72008 ($1.56 in chips) 
+Seat 6: pikesz ($0.94 in chips) 
+Seat 7: dirtyolman ($1.71 in chips) 
+Seat 8: katakata26 ($2.16 in chips) 
+Seat 9: blunt604 ($2.05 in chips) 
+dirtyolman: posts small blind $0.01
+katakata26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Th]
+blunt604: folds 
+Dorex2007: folds 
+takeshie1971: folds 
+AVV_72008: calls $0.02
+pikesz: folds 
+dirtyolman: folds 
+katakata26: checks 
+*** FLOP *** [Jh 2c Ah]
+katakata26: checks 
+AVV_72008: checks 
+*** TURN *** [Jh 2c Ah] [4d]
+katakata26: checks 
+AVV_72008: checks 
+*** RIVER *** [Jh 2c Ah 4d] [Jc]
+katakata26: checks 
+vSpongeBoBv is disconnected 
+AVV_72008: checks 
+*** SHOW DOWN ***
+katakata26: shows [3c Kd] (a pair of Jacks)
+AVV_72008: shows [8c 8d] (two pair, Jacks and Eights)
+AVV_72008 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jh 2c Ah 4d Jc]
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 showed [8c 8d] and won ($0.05) with two pair, Jacks and Eights
+Seat 6: pikesz (button) folded before Flop (didn't bet)
+Seat 7: dirtyolman (small blind) folded before Flop
+Seat 8: katakata26 (big blind) showed [3c Kd] and lost with a pair of Jacks
+Seat 9: blunt604 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018358913:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:05:27 PT [2021/09/21 2:05:27 ET]
+Table 'Elnath III' 9-max Seat #7 is the button
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 4: takeshie1971 ($1.58 in chips) 
+Seat 5: AVV_72008 ($1.59 in chips) 
+Seat 6: pikesz ($0.94 in chips) 
+Seat 7: dirtyolman ($1.70 in chips) 
+Seat 8: katakata26 ($2.14 in chips) 
+Seat 9: blunt604 ($2.05 in chips) 
+katakata26: posts small blind $0.01
+blunt604: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 4c]
+Dorex2007: folds 
+takeshie1971: folds 
+AVV_72008: folds 
+pikesz: raises $0.02 to $0.04
+dirtyolman: folds 
+katakata26: folds 
+blunt604: folds 
+Uncalled bet ($0.02) returned to pikesz
+pikesz collected $0.05 from pot
+pikesz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz collected ($0.05)
+Seat 7: dirtyolman (button) folded before Flop (didn't bet)
+Seat 8: katakata26 (small blind) folded before Flop
+Seat 9: blunt604 (big blind) folded before Flop
+
+
+
+PokerStars Hand #230018360832:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:05:42 PT [2021/09/21 2:05:42 ET]
+Table 'Elnath III' 9-max Seat #8 is the button
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 4: takeshie1971 ($1.58 in chips) 
+Seat 5: AVV_72008 ($1.59 in chips) 
+Seat 6: pikesz ($0.97 in chips) 
+Seat 7: dirtyolman ($1.70 in chips) 
+Seat 8: katakata26 ($2.13 in chips) 
+Seat 9: blunt604 ($2.03 in chips) 
+blunt604: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 9c]
+takeshie1971: raises $0.04 to $0.06
+AVV_72008: calls $0.06
+pikesz: folds 
+dirtyolman: calls $0.06
+katakata26: calls $0.06
+blunt604: calls $0.05
+Dorex2007: folds 
+*** FLOP *** [6c Ks 5c]
+blunt604: checks 
+takeshie1971: checks 
+AVV_72008: bets $0.42
+dirtyolman: folds 
+katakata26: calls $0.42
+blunt604: folds 
+takeshie1971: folds 
+*** TURN *** [6c Ks 5c] [2h]
+AVV_72008: bets $0.62
+katakata26: raises $1.03 to $1.65 and is all-in
+AVV_72008: calls $0.49 and is all-in
+Uncalled bet ($0.54) returned to katakata26
+*** RIVER *** [6c Ks 5c 2h] [7s]
+*** SHOW DOWN ***
+AVV_72008: shows [Ad Ah] (a pair of Aces)
+katakata26: shows [Kh Qc] (a pair of Kings)
+AVV_72008 collected $3.26 from pot
+*** SUMMARY ***
+Total pot $3.38 | Rake $0.12 
+Board [6c Ks 5c 2h 7s]
+Seat 2: Dorex2007 (big blind) folded before Flop
+Seat 4: takeshie1971 folded on the Flop
+Seat 5: AVV_72008 showed [Ad Ah] and won ($3.26) with a pair of Aces
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: dirtyolman folded on the Flop
+Seat 8: katakata26 (button) showed [Kh Qc] and lost with a pair of Kings
+Seat 9: blunt604 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #230018372956:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:07:18 PT [2021/09/21 2:07:18 ET]
+Table 'Elnath III' 9-max Seat #9 is the button
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 4: takeshie1971 ($1.52 in chips) 
+Seat 5: AVV_72008 ($3.26 in chips) 
+Seat 6: pikesz ($0.97 in chips) 
+Seat 7: dirtyolman ($1.64 in chips) 
+Seat 8: katakata26 ($0.54 in chips) 
+Seat 9: blunt604 ($2 in chips) 
+Dorex2007: posts small blind $0.01
+takeshie1971: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Ah]
+AVV_72008: folds 
+pikesz: folds 
+dirtyolman: folds 
+katakata26: folds 
+blunt604: folds 
+Dorex2007: raises $0.02 to $0.04
+takeshie1971: calls $0.02
+*** FLOP *** [5d Qd 9h]
+Dorex2007: checks 
+takeshie1971: bets $0.06
+Dorex2007: folds 
+Uncalled bet ($0.06) returned to takeshie1971
+takeshie1971 collected $0.08 from pot
+takeshie1971: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [5d Qd 9h]
+Seat 2: Dorex2007 (small blind) folded on the Flop
+Seat 4: takeshie1971 (big blind) collected ($0.08)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: dirtyolman folded before Flop (didn't bet)
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: blunt604 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018377657:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:07:55 PT [2021/09/21 2:07:55 ET]
+Table 'Elnath III' 9-max Seat #2 is the button
+Seat 1: vSpongeBoBv ($3.01 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 4: takeshie1971 ($1.56 in chips) 
+Seat 5: AVV_72008 ($3.26 in chips) 
+Seat 6: pikesz ($0.97 in chips) 
+Seat 7: dirtyolman ($1.64 in chips) 
+Seat 8: katakata26 ($0.54 in chips) 
+Seat 9: blunt604 ($2 in chips) 
+takeshie1971: posts small blind $0.01
+AVV_72008: posts big blind $0.02
+vSpongeBoBv: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 7s]
+pikesz: folds 
+dirtyolman: calls $0.02
+katakata26: folds 
+blunt604: raises $0.10 to $0.12
+vSpongeBoBv: folds 
+Dorex2007: folds 
+takeshie1971: folds 
+AVV_72008: folds 
+dirtyolman: calls $0.10
+*** FLOP *** [Jc 7d Kh]
+dirtyolman: bets $0.29
+blunt604: calls $0.29
+*** TURN *** [Jc 7d Kh] [4d]
+dirtyolman: bets $0.85
+blunt604: raises $0.74 to $1.59 and is all-in
+dirtyolman: folds 
+Uncalled bet ($0.74) returned to blunt604
+blunt604 collected $2.49 from pot
+blunt604: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.58 | Rake $0.09 
+Board [Jc 7d Kh 4d]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 4: takeshie1971 (small blind) folded before Flop
+Seat 5: AVV_72008 (big blind) folded before Flop
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: dirtyolman folded on the Turn
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: blunt604 collected ($2.49)
+
+
+
+PokerStars Hand #230018382690:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:08:35 PT [2021/09/21 2:08:35 ET]
+Table 'Elnath III' 9-max Seat #4 is the button
+Seat 1: vSpongeBoBv ($2.98 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: tolyan83823 ($2.06 in chips) 
+Seat 4: takeshie1971 ($1.55 in chips) 
+Seat 5: AVV_72008 ($3.24 in chips) 
+Seat 6: pikesz ($0.97 in chips) 
+Seat 7: dirtyolman ($0.38 in chips) 
+Seat 8: katakata26 ($0.54 in chips) 
+Seat 9: blunt604 ($3.23 in chips) 
+AVV_72008: posts small blind $0.01
+pikesz: posts big blind $0.02
+tolyan83823: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 5h]
+dirtyolman: calls $0.02
+katakata26: folds 
+blunt604: folds 
+vSpongeBoBv: raises $0.06 to $0.08
+Dorex2007: folds 
+tolyan83823: folds 
+takeshie1971: folds 
+AVV_72008: folds 
+pikesz: folds 
+dirtyolman: calls $0.06
+*** FLOP *** [2s 9c Ad]
+dirtyolman: checks 
+vSpongeBoBv: bets $0.10
+dirtyolman: folds 
+Uncalled bet ($0.10) returned to vSpongeBoBv
+vSpongeBoBv collected $0.21 from pot
+vSpongeBoBv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [2s 9c Ad]
+Seat 1: vSpongeBoBv collected ($0.21)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: takeshie1971 (button) folded before Flop (didn't bet)
+Seat 5: AVV_72008 (small blind) folded before Flop
+Seat 6: pikesz (big blind) folded before Flop
+Seat 7: dirtyolman folded on the Flop
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: blunt604 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018387231:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:09:11 PT [2021/09/21 2:09:11 ET]
+Table 'Elnath III' 9-max Seat #5 is the button
+Seat 1: vSpongeBoBv ($3.11 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: tolyan83823 ($2.03 in chips) 
+Seat 4: takeshie1971 ($1.55 in chips) 
+Seat 5: AVV_72008 ($3.23 in chips) 
+Seat 6: pikesz ($0.95 in chips) 
+Seat 7: dirtyolman ($0.30 in chips) 
+Seat 8: katakata26 ($0.54 in chips) 
+Seat 9: blunt604 ($3.23 in chips) 
+pikesz: posts small blind $0.01
+dirtyolman: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Td]
+katakata26: folds 
+blunt604: raises $0.06 to $0.08
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: calls $0.08
+takeshie1971: folds 
+AVV_72008: folds 
+pikesz: raises $0.06 to $0.14
+dirtyolman: raises $0.16 to $0.30 and is all-in
+blunt604: raises $2.93 to $3.23 and is all-in
+tolyan83823: folds 
+pikesz: calls $0.81 and is all-in
+Uncalled bet ($2.28) returned to blunt604
+*** FLOP *** [2h Jd Jc]
+*** TURN *** [2h Jd Jc] [8d]
+*** RIVER *** [2h Jd Jc 8d] [3h]
+*** SHOW DOWN ***
+pikesz: shows [Jh Ah] (three of a kind, Jacks)
+blunt604: shows [Kh Ad] (a pair of Jacks)
+pikesz collected $1.25 from side pot
+dirtyolman: shows [5s 5c] (two pair, Jacks and Fives)
+pikesz collected $0.95 from main pot
+*** SUMMARY ***
+Total pot $2.28 Main pot $0.95. Side pot $1.25. | Rake $0.08 
+Board [2h Jd Jc 8d 3h]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 (button) folded before Flop (didn't bet)
+Seat 6: pikesz (small blind) showed [Jh Ah] and won ($2.20) with three of a kind, Jacks
+Seat 7: dirtyolman (big blind) showed [5s 5c] and lost with two pair, Jacks and Fives
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: blunt604 showed [Kh Ad] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #230018392613:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:09:53 PT [2021/09/21 2:09:53 ET]
+Table 'Elnath III' 9-max Seat #6 is the button
+Seat 1: vSpongeBoBv ($3.11 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: tolyan83823 ($1.95 in chips) 
+Seat 4: takeshie1971 ($1.55 in chips) 
+Seat 5: AVV_72008 ($3.23 in chips) 
+Seat 6: pikesz ($2.20 in chips) 
+Seat 8: katakata26 ($0.54 in chips) 
+Seat 9: blunt604 ($2.28 in chips) 
+katakata26: posts small blind $0.01
+blunt604: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 6s]
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+dirtyolman leaves the table
+takeshie1971: raises $0.04 to $0.06
+AVV_72008: folds 
+pikesz: folds 
+katakata26: folds 
+blunt604: folds 
+Uncalled bet ($0.04) returned to takeshie1971
+takeshie1971 collected $0.05 from pot
+takeshie1971: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: takeshie1971 collected ($0.05)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz (button) folded before Flop (didn't bet)
+Seat 8: katakata26 (small blind) folded before Flop
+Seat 9: blunt604 (big blind) folded before Flop
+
+
+
+PokerStars Hand #230018395012:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:10:12 PT [2021/09/21 2:10:12 ET]
+Table 'Elnath III' 9-max Seat #8 is the button
+Seat 1: vSpongeBoBv ($3.11 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: tolyan83823 ($1.95 in chips) 
+Seat 4: takeshie1971 ($1.58 in chips) 
+Seat 5: AVV_72008 ($3.23 in chips) 
+Seat 6: pikesz ($2.20 in chips) 
+Seat 8: katakata26 ($0.53 in chips) 
+Seat 9: blunt604 ($2.26 in chips) 
+blunt604: posts small blind $0.01
+vSpongeBoBv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Ts]
+Dorex2007: raises $0.04 to $0.06
+tolyan83823: folds 
+Djinn 161iq joins the table at seat #7 
+takeshie1971: folds 
+AVV_72008: folds 
+pikesz: folds 
+katakata26: folds 
+blunt604: folds 
+vSpongeBoBv: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: vSpongeBoBv (big blind) folded before Flop
+Seat 2: Dorex2007 collected ($0.05)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 8: katakata26 (button) folded before Flop (didn't bet)
+Seat 9: blunt604 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230018397345:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:10:30 PT [2021/09/21 2:10:30 ET]
+Table 'Elnath III' 9-max Seat #9 is the button
+Seat 1: vSpongeBoBv ($3.09 in chips) 
+Seat 2: Dorex2007 ($2.03 in chips) 
+Seat 3: tolyan83823 ($1.95 in chips) 
+Seat 4: takeshie1971 ($1.58 in chips) 
+Seat 5: AVV_72008 ($3.23 in chips) 
+Seat 6: pikesz ($2.20 in chips) 
+Seat 8: katakata26 ($0.53 in chips) 
+Seat 9: blunt604 ($2.25 in chips) 
+vSpongeBoBv: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Djinn 161iq: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 8c]
+tolyan83823: folds 
+takeshie1971: folds 
+AVV_72008: calls $0.02
+pikesz: raises $0.02 to $0.04
+katakata26: folds 
+blunt604: folds 
+vSpongeBoBv: calls $0.03
+Dorex2007: folds 
+AVV_72008: calls $0.02
+*** FLOP *** [Tc 6s 5s]
+vSpongeBoBv: bets $0.07
+AVV_72008: folds 
+pikesz: calls $0.07
+*** TURN *** [Tc 6s 5s] [2h]
+vSpongeBoBv: bets $0.13
+pikesz: folds 
+Uncalled bet ($0.13) returned to vSpongeBoBv
+vSpongeBoBv collected $0.27 from pot
+vSpongeBoBv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Tc 6s 5s 2h]
+Seat 1: vSpongeBoBv (small blind) collected ($0.27)
+Seat 2: Dorex2007 (big blind) folded before Flop
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded on the Flop
+Seat 6: pikesz folded on the Turn
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: blunt604 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018403882:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:11:22 PT [2021/09/21 2:11:22 ET]
+Table 'Elnath III' 9-max Seat #1 is the button
+Seat 1: vSpongeBoBv ($3.25 in chips) 
+Seat 2: Dorex2007 ($2.01 in chips) 
+Seat 3: tolyan83823 ($1.95 in chips) 
+Seat 4: takeshie1971 ($1.58 in chips) 
+Seat 5: AVV_72008 ($3.19 in chips) 
+Seat 6: pikesz ($2.09 in chips) 
+Seat 7: Djinn 161iq ($2 in chips) 
+Seat 8: katakata26 ($0.53 in chips) 
+Seat 9: blunt604 ($2.25 in chips) 
+Dorex2007: posts small blind $0.01
+tolyan83823: posts big blind $0.02
+Djinn 161iq: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Kc]
+takeshie1971: raises $0.04 to $0.06
+AVV_72008: folds 
+pikesz: folds 
+Djinn 161iq: calls $0.04
+katakata26: folds 
+blunt604: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+*** FLOP *** [Jh Ah Ts]
+takeshie1971: checks 
+Djinn 161iq: checks 
+*** TURN *** [Jh Ah Ts] [5h]
+takeshie1971: checks 
+Djinn 161iq: checks 
+*** RIVER *** [Jh Ah Ts 5h] [3s]
+takeshie1971: checks 
+Djinn 161iq: checks 
+*** SHOW DOWN ***
+takeshie1971: shows [Ac 8s] (a pair of Aces)
+Djinn 161iq: mucks hand 
+takeshie1971 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Jh Ah Ts 5h 3s]
+Seat 1: vSpongeBoBv (button) folded before Flop (didn't bet)
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 3: tolyan83823 (big blind) folded before Flop
+Seat 4: takeshie1971 showed [Ac 8s] and won ($0.14) with a pair of Aces
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: Djinn 161iq mucked [6d 8d]
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: blunt604 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018408840:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:12:02 PT [2021/09/21 2:12:02 ET]
+Table 'Elnath III' 9-max Seat #2 is the button
+Seat 1: vSpongeBoBv ($3.25 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: tolyan83823 ($1.93 in chips) 
+Seat 4: takeshie1971 ($1.66 in chips) 
+Seat 5: AVV_72008 ($3.19 in chips) 
+Seat 6: pikesz ($2.09 in chips) 
+Seat 7: Djinn 161iq ($1.94 in chips) 
+Seat 8: katakata26 ($0.53 in chips) 
+Seat 9: blunt604 ($2.25 in chips) 
+tolyan83823: posts small blind $0.01
+takeshie1971: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 6d]
+AVV_72008: folds 
+pikesz: folds 
+Djinn 161iq: calls $0.02
+katakata26: folds 
+blunt604: folds 
+vSpongeBoBv: raises $0.04 to $0.06
+Dorex2007: calls $0.06
+tolyan83823: folds 
+takeshie1971: calls $0.04
+Djinn 161iq: calls $0.04
+*** FLOP *** [Ts 3d 4d]
+takeshie1971: checks 
+Djinn 161iq: bets $0.24
+vSpongeBoBv: folds 
+Dorex2007: folds 
+takeshie1971: folds 
+Uncalled bet ($0.24) returned to Djinn 161iq
+Djinn 161iq collected $0.24 from pot
+Djinn 161iq: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ts 3d 4d]
+Seat 1: vSpongeBoBv folded on the Flop
+Seat 2: Dorex2007 (button) folded on the Flop
+Seat 3: tolyan83823 (small blind) folded before Flop
+Seat 4: takeshie1971 (big blind) folded on the Flop
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: Djinn 161iq collected ($0.24)
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: blunt604 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018413991:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:12:43 PT [2021/09/21 2:12:43 ET]
+Table 'Elnath III' 9-max Seat #3 is the button
+Seat 1: vSpongeBoBv ($3.19 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: tolyan83823 ($1.92 in chips) 
+Seat 4: takeshie1971 ($1.60 in chips) 
+Seat 5: AVV_72008 ($3.19 in chips) 
+Seat 6: pikesz ($2.09 in chips) 
+Seat 7: Djinn 161iq ($2.12 in chips) 
+Seat 8: katakata26 ($0.53 in chips) 
+Seat 9: blunt604 ($2.25 in chips) 
+takeshie1971: posts small blind $0.01
+AVV_72008: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Js]
+pikesz: folds 
+Djinn 161iq: calls $0.02
+katakata26: folds 
+blunt604: folds 
+vSpongeBoBv: folds 
+Dorex2007: calls $0.02
+tolyan83823: folds 
+takeshie1971: folds 
+AVV_72008: checks 
+*** FLOP *** [5d 9d Qs]
+AVV_72008: checks 
+Djinn 161iq: bets $0.07
+Dorex2007: folds 
+AVV_72008: folds 
+Uncalled bet ($0.07) returned to Djinn 161iq
+Djinn 161iq collected $0.07 from pot
+Djinn 161iq: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [5d 9d Qs]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded on the Flop
+Seat 3: tolyan83823 (button) folded before Flop (didn't bet)
+Seat 4: takeshie1971 (small blind) folded before Flop
+Seat 5: AVV_72008 (big blind) folded on the Flop
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: Djinn 161iq collected ($0.07)
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: blunt604 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018417674:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:13:12 PT [2021/09/21 2:13:12 ET]
+Table 'Elnath III' 9-max Seat #4 is the button
+Seat 1: vSpongeBoBv ($3.19 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: tolyan83823 ($1.92 in chips) 
+Seat 4: takeshie1971 ($1.59 in chips) 
+Seat 5: AVV_72008 ($3.17 in chips) 
+Seat 6: pikesz ($2.09 in chips) 
+Seat 7: Djinn 161iq ($2.17 in chips) 
+Seat 8: katakata26 ($0.53 in chips) 
+Seat 9: blunt604 ($2.25 in chips) 
+AVV_72008: posts small blind $0.01
+pikesz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 3d]
+Djinn 161iq: calls $0.02
+katakata26: folds 
+blunt604: folds 
+vSpongeBoBv: raises $0.04 to $0.06
+Dorex2007: folds 
+tolyan83823: folds 
+takeshie1971: calls $0.06
+AVV_72008: folds 
+pikesz: folds 
+Djinn 161iq: calls $0.04
+*** FLOP *** [5s 3h Jc]
+Djinn 161iq: checks 
+vSpongeBoBv: bets $0.10
+takeshie1971: folds 
+Djinn 161iq: calls $0.10
+*** TURN *** [5s 3h Jc] [4s]
+Djinn 161iq: checks 
+vSpongeBoBv: checks 
+*** RIVER *** [5s 3h Jc 4s] [Ac]
+Djinn 161iq: bets $0.40
+vSpongeBoBv: folds 
+Uncalled bet ($0.40) returned to Djinn 161iq
+Djinn 161iq collected $0.40 from pot
+Djinn 161iq: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [5s 3h Jc 4s Ac]
+Seat 1: vSpongeBoBv folded on the River
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: takeshie1971 (button) folded on the Flop
+Seat 5: AVV_72008 (small blind) folded before Flop
+Seat 6: pikesz (big blind) folded before Flop
+Seat 7: Djinn 161iq collected ($0.40)
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: blunt604 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018424731:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:14:08 PT [2021/09/21 2:14:08 ET]
+Table 'Elnath III' 9-max Seat #5 is the button
+Seat 1: vSpongeBoBv ($3.03 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: tolyan83823 ($1.92 in chips) 
+Seat 4: takeshie1971 ($1.53 in chips) 
+Seat 5: AVV_72008 ($3.16 in chips) 
+Seat 6: pikesz ($2.07 in chips) 
+Seat 7: Djinn 161iq ($2.41 in chips) 
+Seat 8: katakata26 ($0.53 in chips) 
+Seat 9: blunt604 ($2.25 in chips) 
+pikesz: posts small blind $0.01
+Djinn 161iq: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 5d]
+katakata26: folds 
+blunt604: folds 
+vSpongeBoBv: raises $0.04 to $0.06
+Dorex2007: folds 
+tolyan83823: folds 
+takeshie1971: folds 
+AVV_72008: folds 
+pikesz: raises $0.12 to $0.18
+Djinn 161iq: folds 
+vSpongeBoBv: calls $0.12
+*** FLOP *** [8h 8d Qs]
+pikesz: bets $0.19
+vSpongeBoBv: folds 
+Uncalled bet ($0.19) returned to pikesz
+pikesz collected $0.37 from pot
+pikesz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [8h 8d Qs]
+Seat 1: vSpongeBoBv folded on the Flop
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 (button) folded before Flop (didn't bet)
+Seat 6: pikesz (small blind) collected ($0.37)
+Seat 7: Djinn 161iq (big blind) folded before Flop
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: blunt604 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018429219:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:14:43 PT [2021/09/21 2:14:43 ET]
+Table 'Elnath III' 9-max Seat #6 is the button
+Seat 1: vSpongeBoBv ($2.85 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: tolyan83823 ($1.92 in chips) 
+Seat 4: takeshie1971 ($1.53 in chips) 
+Seat 5: AVV_72008 ($3.16 in chips) 
+Seat 6: pikesz ($2.26 in chips) 
+Seat 7: Djinn 161iq ($2.39 in chips) 
+Seat 8: katakata26 ($0.53 in chips) 
+Seat 9: blunt604 ($2.25 in chips) 
+Djinn 161iq: posts small blind $0.01
+katakata26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Qd]
+blunt604: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+takeshie1971: folds 
+AVV_72008: calls $0.02
+pikesz: folds 
+Djinn 161iq: calls $0.01
+katakata26: checks 
+*** FLOP *** [Th Td 9d]
+Djinn 161iq: bets $0.06
+katakata26: folds 
+AVV_72008: folds 
+Uncalled bet ($0.06) returned to Djinn 161iq
+Djinn 161iq collected $0.06 from pot
+Djinn 161iq: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Th Td 9d]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded on the Flop
+Seat 6: pikesz (button) folded before Flop (didn't bet)
+Seat 7: Djinn 161iq (small blind) collected ($0.06)
+Seat 8: katakata26 (big blind) folded on the Flop
+Seat 9: blunt604 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018433133:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:15:14 PT [2021/09/21 2:15:14 ET]
+Table 'Elnath III' 9-max Seat #7 is the button
+Seat 1: vSpongeBoBv ($2.85 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: tolyan83823 ($1.92 in chips) 
+Seat 4: takeshie1971 ($1.53 in chips) 
+Seat 5: AVV_72008 ($3.14 in chips) 
+Seat 6: pikesz ($2.26 in chips) 
+Seat 7: Djinn 161iq ($2.43 in chips) 
+Seat 8: katakata26 ($0.51 in chips) 
+Seat 9: blunt604 ($2.25 in chips) 
+katakata26: posts small blind $0.01
+blunt604: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 9c]
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+takeshie1971: folds 
+AVV_72008: folds 
+pikesz: raises $0.02 to $0.04
+Djinn 161iq: calls $0.04
+katakata26: folds 
+blunt604: folds 
+*** FLOP *** [Qd 8d Qc]
+pikesz: checks 
+Djinn 161iq: checks 
+*** TURN *** [Qd 8d Qc] [3h]
+pikesz: bets $0.06
+Djinn 161iq: folds 
+Uncalled bet ($0.06) returned to pikesz
+pikesz collected $0.11 from pot
+pikesz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Qd 8d Qc 3h]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz collected ($0.11)
+Seat 7: Djinn 161iq (button) folded on the Turn
+Seat 8: katakata26 (small blind) folded before Flop
+Seat 9: blunt604 (big blind) folded before Flop
+
+
+
+PokerStars Hand #230018438586:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:15:57 PT [2021/09/21 2:15:57 ET]
+Table 'Elnath III' 9-max Seat #8 is the button
+Seat 1: vSpongeBoBv ($2.85 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: tolyan83823 ($1.92 in chips) 
+Seat 4: takeshie1971 ($1.53 in chips) 
+Seat 5: AVV_72008 ($3.14 in chips) 
+Seat 6: pikesz ($2.33 in chips) 
+Seat 7: Djinn 161iq ($2.39 in chips) 
+Seat 8: katakata26 ($0.50 in chips) 
+Seat 9: blunt604 ($2.23 in chips) 
+blunt604: posts small blind $0.01
+vSpongeBoBv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Jh]
+Dorex2007: folds 
+tolyan83823: raises $0.04 to $0.06
+takeshie1971: folds 
+AVV_72008: folds 
+pikesz: folds 
+Djinn 161iq: folds 
+katakata26: folds 
+blunt604: folds 
+vSpongeBoBv has timed out
+vSpongeBoBv: folds 
+Uncalled bet ($0.04) returned to tolyan83823
+tolyan83823 collected $0.05 from pot
+tolyan83823: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: vSpongeBoBv (big blind) folded before Flop
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 collected ($0.05)
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: Djinn 161iq folded before Flop (didn't bet)
+Seat 8: katakata26 (button) folded before Flop (didn't bet)
+Seat 9: blunt604 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230018443448:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:16:35 PT [2021/09/21 2:16:35 ET]
+Table 'Elnath III' 9-max Seat #9 is the button
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: tolyan83823 ($1.95 in chips) 
+Seat 4: takeshie1971 ($1.53 in chips) 
+Seat 5: AVV_72008 ($3.14 in chips) 
+Seat 6: pikesz ($2.33 in chips) 
+Seat 7: Djinn 161iq ($2.39 in chips) 
+Seat 8: katakata26 ($0.50 in chips) 
+Seat 9: blunt604 ($2.22 in chips) 
+Dorex2007: posts small blind $0.01
+tolyan83823: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 9h]
+takeshie1971 has timed out
+takeshie1971: folds 
+AVV_72008: folds 
+pikesz: calls $0.02
+Djinn 161iq: calls $0.02
+katakata26: raises $0.08 to $0.10
+blunt604: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+pikesz: folds 
+Djinn 161iq: calls $0.08
+*** FLOP *** [Qs Jd 6s]
+Djinn 161iq: checks 
+katakata26: bets $0.16
+Djinn 161iq: calls $0.16
+*** TURN *** [Qs Jd 6s] [7s]
+Djinn 161iq: checks 
+katakata26: checks 
+*** RIVER *** [Qs Jd 6s 7s] [Js]
+Djinn 161iq: checks 
+katakata26: checks 
+*** SHOW DOWN ***
+Djinn 161iq: shows [3c Ts] (a flush, Queen high)
+katakata26: mucks hand 
+Djinn 161iq collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [Qs Jd 6s 7s Js]
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 3: tolyan83823 (big blind) folded before Flop
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz folded before Flop
+Seat 7: Djinn 161iq showed [3c Ts] and won ($0.55) with a flush, Queen high
+Seat 8: katakata26 mucked [Qh Kc]
+Seat 9: blunt604 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018452530:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:17:46 PT [2021/09/21 2:17:46 ET]
+Table 'Elnath III' 9-max Seat #2 is the button
+Seat 1: vSpongeBoBv ($2.83 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: tolyan83823 ($1.93 in chips) 
+Seat 4: takeshie1971 ($1.53 in chips) 
+Seat 5: AVV_72008 ($3.14 in chips) 
+Seat 6: pikesz ($2.31 in chips) 
+Seat 7: Djinn 161iq ($2.68 in chips) 
+Seat 8: katakata26 ($0.24 in chips) 
+Seat 9: blunt604 ($2.22 in chips) 
+tolyan83823: posts small blind $0.01
+takeshie1971: posts big blind $0.02
+vSpongeBoBv: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Kd]
+AVV_72008: folds 
+pikesz: folds 
+Djinn 161iq: calls $0.02
+katakata26: folds 
+blunt604: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+takeshie1971: raises $0.04 to $0.06
+Djinn 161iq: calls $0.04
+*** FLOP *** [Qd 7s Tc]
+takeshie1971: bets $0.09
+Djinn 161iq: calls $0.09
+*** TURN *** [Qd 7s Tc] [3d]
+takeshie1971: checks 
+Djinn 161iq: checks 
+*** RIVER *** [Qd 7s Tc 3d] [Ah]
+takeshie1971: checks 
+Djinn 161iq: checks 
+*** SHOW DOWN ***
+takeshie1971: shows [Kc Qs] (a pair of Queens)
+Djinn 161iq: mucks hand 
+takeshie1971 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Qd 7s Tc 3d Ah]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: tolyan83823 (small blind) folded before Flop
+Seat 4: takeshie1971 (big blind) showed [Kc Qs] and won ($0.31) with a pair of Queens
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: Djinn 161iq mucked [7c Jc]
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: blunt604 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018457331:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:18:23 PT [2021/09/21 2:18:23 ET]
+Table 'Elnath III' 9-max Seat #3 is the button
+Seat 1: vSpongeBoBv ($2.82 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: tolyan83823 ($1.92 in chips) 
+Seat 4: takeshie1971 ($1.69 in chips) 
+Seat 5: AVV_72008 ($3.14 in chips) 
+Seat 6: pikesz ($2.31 in chips) 
+Seat 7: Djinn 161iq ($2.53 in chips) 
+Seat 8: katakata26 ($0.24 in chips) 
+Seat 9: blunt604 ($2.22 in chips) 
+takeshie1971: posts small blind $0.01
+AVV_72008: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 4h]
+pikesz: folds 
+Djinn 161iq: calls $0.02
+katakata26: folds 
+blunt604: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+takeshie1971: calls $0.01
+AVV_72008: checks 
+*** FLOP *** [Ac 6s 2c]
+takeshie1971: checks 
+AVV_72008: checks 
+Djinn 161iq: checks 
+*** TURN *** [Ac 6s 2c] [7s]
+takeshie1971: checks 
+AVV_72008: checks 
+Djinn 161iq: checks 
+*** RIVER *** [Ac 6s 2c 7s] [4s]
+takeshie1971: bets $0.04
+AVV_72008: folds 
+Djinn 161iq: folds 
+Uncalled bet ($0.04) returned to takeshie1971
+takeshie1971 collected $0.06 from pot
+takeshie1971: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Ac 6s 2c 7s 4s]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 (button) folded before Flop (didn't bet)
+Seat 4: takeshie1971 (small blind) collected ($0.06)
+Seat 5: AVV_72008 (big blind) folded on the River
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: Djinn 161iq folded on the River
+Seat 8: katakata26 folded before Flop (didn't bet)
+Seat 9: blunt604 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018462590:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:19:03 PT [2021/09/21 2:19:03 ET]
+Table 'Elnath III' 9-max Seat #4 is the button
+Seat 1: vSpongeBoBv ($2.82 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: tolyan83823 ($1.92 in chips) 
+Seat 4: takeshie1971 ($1.73 in chips) 
+Seat 5: AVV_72008 ($3.12 in chips) 
+Seat 6: pikesz ($2.31 in chips) 
+Seat 7: Djinn 161iq ($2.51 in chips) 
+Seat 8: katakata26 ($0.24 in chips) 
+Seat 9: blunt604 ($2.22 in chips) 
+AVV_72008: posts small blind $0.01
+pikesz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 9d]
+Djinn 161iq: calls $0.02
+katakata26: raises $0.06 to $0.08
+blunt604: folds 
+vSpongeBoBv: calls $0.08
+Dorex2007: folds 
+tolyan83823: raises $0.16 to $0.24
+takeshie1971: folds 
+AVV_72008 has timed out
+AVV_72008: folds 
+pikesz: folds 
+Djinn 161iq: calls $0.22
+katakata26: calls $0.16 and is all-in
+vSpongeBoBv: folds 
+*** FLOP *** [7s 2d Ah]
+Djinn 161iq: checks 
+tolyan83823: bets $0.40
+Djinn 161iq: folds 
+Uncalled bet ($0.40) returned to tolyan83823
+*** TURN *** [7s 2d Ah] [5d]
+*** RIVER *** [7s 2d Ah 5d] [Th]
+*** SHOW DOWN ***
+katakata26: shows [Qc Ac] (a pair of Aces)
+tolyan83823: shows [Kh As] (a pair of Aces - King kicker)
+tolyan83823 cashed out the hand for $0.68 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $0.83 | Rake $0.03 
+Board [7s 2d Ah 5d Th]
+Seat 1: vSpongeBoBv folded before Flop
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 showed [Kh As] and won ($0.80) with a pair of Aces (pot not awarded as player cashed out)
+Seat 4: takeshie1971 (button) folded before Flop (didn't bet)
+Seat 5: AVV_72008 (small blind) folded before Flop
+Seat 6: pikesz (big blind) folded before Flop
+Seat 7: Djinn 161iq folded on the Flop
+Seat 8: katakata26 showed [Qc Ac] and lost with a pair of Aces
+Seat 9: blunt604 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018475674:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:20:45 PT [2021/09/21 2:20:45 ET]
+Table 'Elnath III' 9-max Seat #5 is the button
+Seat 1: vSpongeBoBv ($2.74 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: tolyan83823 ($2.36 in chips) 
+Seat 4: takeshie1971 ($1.73 in chips) 
+Seat 5: AVV_72008 ($3.11 in chips) 
+Seat 6: pikesz ($2.29 in chips) 
+Seat 7: Djinn 161iq ($2.27 in chips) 
+Seat 9: blunt604 ($2.22 in chips) 
+pikesz: posts small blind $0.01
+Djinn 161iq: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 5s]
+katakata26 leaves the table
+blunt604: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+takeshie1971: raises $0.04 to $0.06
+AVV_72008: calls $0.06
+pikesz: calls $0.05
+Djinn 161iq: calls $0.04
+*** FLOP *** [Kd Qd Ks]
+pikesz: checks 
+Djinn 161iq: checks 
+Happy we:-) joins the table at seat #8 
+takeshie1971: bets $0.15
+AVV_72008: calls $0.15
+pikesz: folds 
+Djinn 161iq: folds 
+*** TURN *** [Kd Qd Ks] [7d]
+takeshie1971: bets $0.26
+AVV_72008: calls $0.26
+*** RIVER *** [Kd Qd Ks 7d] [4c]
+takeshie1971: checks 
+AVV_72008: bets $0.20
+takeshie1971: calls $0.20
+*** SHOW DOWN ***
+AVV_72008: shows [Qs Qc] (a full house, Queens full of Kings)
+takeshie1971: mucks hand 
+AVV_72008 collected $1.41 from pot
+*** SUMMARY ***
+Total pot $1.46 | Rake $0.05 
+Board [Kd Qd Ks 7d 4c]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: takeshie1971 mucked [Td Kh]
+Seat 5: AVV_72008 (button) showed [Qs Qc] and won ($1.41) with a full house, Queens full of Kings
+Seat 6: pikesz (small blind) folded on the Flop
+Seat 7: Djinn 161iq (big blind) folded on the Flop
+Seat 9: blunt604 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018481846:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:21:32 PT [2021/09/21 2:21:32 ET]
+Table 'Elnath III' 9-max Seat #6 is the button
+Seat 1: vSpongeBoBv ($2.74 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: tolyan83823 ($2.36 in chips) 
+Seat 4: takeshie1971 ($1.06 in chips) 
+Seat 5: AVV_72008 ($3.85 in chips) 
+Seat 6: pikesz ($2.23 in chips) 
+Seat 7: Djinn 161iq ($2.21 in chips) 
+Seat 8: Happy we:-) ($0.80 in chips) 
+Seat 9: blunt604 ($2.22 in chips) 
+Djinn 161iq: posts small blind $0.01
+Happy we:-): posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 9d]
+blunt604: raises $0.06 to $0.08
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: raises $0.06 to $0.14
+takeshie1971: folds 
+AVV_72008: folds 
+pikesz: folds 
+Djinn 161iq: calls $0.13
+Happy we:-): folds 
+blunt604: raises $0.28 to $0.42
+tolyan83823: calls $0.28
+Djinn 161iq: folds 
+*** FLOP *** [8s 5h 6c]
+blunt604: bets $0.60
+tolyan83823: folds 
+Uncalled bet ($0.60) returned to blunt604
+blunt604 collected $0.96 from pot
+blunt604: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [8s 5h 6c]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded on the Flop
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz (button) folded before Flop (didn't bet)
+Seat 7: Djinn 161iq (small blind) folded before Flop
+Seat 8: Happy we:-) (big blind) folded before Flop
+Seat 9: blunt604 collected ($0.96)
+
+
+
+PokerStars Hand #230018488963:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:22:25 PT [2021/09/21 2:22:25 ET]
+Table 'Elnath III' 9-max Seat #7 is the button
+Seat 1: vSpongeBoBv ($2.74 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: tolyan83823 ($1.94 in chips) 
+Seat 4: takeshie1971 ($1.06 in chips) 
+Seat 5: AVV_72008 ($3.85 in chips) 
+Seat 6: pikesz ($2.23 in chips) 
+Seat 7: Djinn 161iq ($2.07 in chips) 
+Seat 8: Happy we:-) ($0.78 in chips) 
+Seat 9: blunt604 ($2.76 in chips) 
+Happy we:-): posts small blind $0.01
+blunt604: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Js]
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+takeshie1971: folds 
+AVV_72008: folds 
+pikesz: raises $0.02 to $0.04
+Djinn 161iq: calls $0.04
+Happy we:-): folds 
+blunt604: folds 
+*** FLOP *** [7d Jh 3s]
+pikesz: bets $0.06
+Djinn 161iq: folds 
+Uncalled bet ($0.06) returned to pikesz
+pikesz collected $0.11 from pot
+pikesz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [7d Jh 3s]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz collected ($0.11)
+Seat 7: Djinn 161iq (button) folded on the Flop
+Seat 8: Happy we:-) (small blind) folded before Flop
+Seat 9: blunt604 (big blind) folded before Flop
+
+
+
+PokerStars Hand #230018492172:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:22:49 PT [2021/09/21 2:22:49 ET]
+Table 'Elnath III' 9-max Seat #8 is the button
+Seat 1: vSpongeBoBv ($2.74 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: tolyan83823 ($1.94 in chips) 
+Seat 4: takeshie1971 ($1.06 in chips) 
+Seat 5: AVV_72008 ($3.85 in chips) 
+Seat 6: pikesz ($2.30 in chips) 
+Seat 7: Djinn 161iq ($2.03 in chips) 
+Seat 8: Happy we:-) ($0.77 in chips) 
+Seat 9: blunt604 ($2.74 in chips) 
+blunt604: posts small blind $0.01
+vSpongeBoBv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Ad]
+Dorex2007: raises $0.04 to $0.06
+tolyan83823: calls $0.06
+takeshie1971: folds 
+AVV_72008: folds 
+pikesz: folds 
+Djinn 161iq: calls $0.06
+Happy we:-): folds 
+blunt604: folds 
+vSpongeBoBv: calls $0.04
+*** FLOP *** [4h 3h Qs]
+vSpongeBoBv: checks 
+Dorex2007: bets $0.24
+tolyan83823: folds 
+Djinn 161iq: folds 
+vSpongeBoBv: folds 
+Uncalled bet ($0.24) returned to Dorex2007
+Dorex2007 collected $0.24 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [4h 3h Qs]
+Seat 1: vSpongeBoBv (big blind) folded on the Flop
+Seat 2: Dorex2007 collected ($0.24)
+Seat 3: tolyan83823 folded on the Flop
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: Djinn 161iq folded on the Flop
+Seat 8: Happy we:-) (button) folded before Flop (didn't bet)
+Seat 9: blunt604 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230018495623:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:23:15 PT [2021/09/21 2:23:15 ET]
+Table 'Elnath III' 9-max Seat #9 is the button
+Seat 1: vSpongeBoBv ($2.68 in chips) 
+Seat 2: Dorex2007 ($2.18 in chips) 
+Seat 3: tolyan83823 ($1.88 in chips) 
+Seat 4: takeshie1971 ($1.06 in chips) 
+Seat 5: AVV_72008 ($3.85 in chips) 
+Seat 6: pikesz ($2.30 in chips) 
+Seat 7: Djinn 161iq ($1.97 in chips) 
+Seat 8: Happy we:-) ($0.77 in chips) 
+Seat 9: blunt604 ($2.73 in chips) 
+vSpongeBoBv: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 3h]
+tolyan83823: raises $0.04 to $0.06
+takeshie1971: folds 
+AVV_72008: folds 
+pikesz: calls $0.06
+Djinn 161iq: calls $0.06
+Happy we:-): calls $0.06
+blunt604: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+*** FLOP *** [3s 5s Qh]
+tolyan83823: checks 
+pikesz: checks 
+Djinn 161iq: checks 
+Happy we:-): checks 
+*** TURN *** [3s 5s Qh] [Js]
+tolyan83823: checks 
+pikesz: checks 
+Djinn 161iq: checks 
+Happy we:-): bets $0.13
+tolyan83823: calls $0.13
+pikesz: folds 
+Djinn 161iq: calls $0.13
+*** RIVER *** [3s 5s Qh Js] [Ah]
+tolyan83823: checks 
+Djinn 161iq: bets $0.64
+Happy we:-): calls $0.58 and is all-in
+tolyan83823: folds 
+Uncalled bet ($0.06) returned to Djinn 161iq
+*** SHOW DOWN ***
+Djinn 161iq: shows [Ac 8c] (a pair of Aces)
+Happy we:-): shows [Jd Qd] (two pair, Queens and Jacks)
+Happy we:-) collected $1.76 from pot
+*** SUMMARY ***
+Total pot $1.82 | Rake $0.06 
+Board [3s 5s Qh Js Ah]
+Seat 1: vSpongeBoBv (small blind) folded before Flop
+Seat 2: Dorex2007 (big blind) folded before Flop
+Seat 3: tolyan83823 folded on the River
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz folded on the Turn
+Seat 7: Djinn 161iq showed [Ac 8c] and lost with a pair of Aces
+Seat 8: Happy we:-) showed [Jd Qd] and won ($1.76) with two pair, Queens and Jacks
+Seat 9: blunt604 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018506011:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:24:34 PT [2021/09/21 2:24:34 ET]
+Table 'Elnath III' 9-max Seat #1 is the button
+Seat 1: vSpongeBoBv ($2.67 in chips) 
+Seat 2: Dorex2007 ($2.16 in chips) 
+Seat 3: tolyan83823 ($1.69 in chips) 
+Seat 4: takeshie1971 ($1.06 in chips) 
+Seat 5: AVV_72008 ($3.85 in chips) 
+Seat 6: pikesz ($2.24 in chips) 
+Seat 7: Djinn 161iq ($1.20 in chips) 
+Seat 8: Happy we:-) ($1.76 in chips) 
+Seat 9: blunt604 ($2.73 in chips) 
+Dorex2007: posts small blind $0.01
+tolyan83823: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Kd]
+takeshie1971: folds 
+AVV_72008: folds 
+pikesz: folds 
+Djinn 161iq: calls $0.02
+Happy we:-): folds 
+blunt604: folds 
+vSpongeBoBv: raises $0.04 to $0.06
+Dorex2007: folds 
+tolyan83823: folds 
+Djinn 161iq: calls $0.04
+*** FLOP *** [3s 6c Qc]
+Djinn 161iq: checks 
+vSpongeBoBv: checks 
+*** TURN *** [3s 6c Qc] [Th]
+Djinn 161iq: checks 
+vSpongeBoBv: bets $0.07
+Djinn 161iq: folds 
+Uncalled bet ($0.07) returned to vSpongeBoBv
+vSpongeBoBv collected $0.14 from pot
+vSpongeBoBv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3s 6c Qc Th]
+Seat 1: vSpongeBoBv (button) collected ($0.14)
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 3: tolyan83823 (big blind) folded before Flop
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: Djinn 161iq folded on the Turn
+Seat 8: Happy we:-) folded before Flop (didn't bet)
+Seat 9: blunt604 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018511509:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:25:16 PT [2021/09/21 2:25:16 ET]
+Table 'Elnath III' 9-max Seat #2 is the button
+Seat 1: vSpongeBoBv ($2.75 in chips) 
+Seat 2: Dorex2007 ($2.15 in chips) 
+Seat 3: tolyan83823 ($1.67 in chips) 
+Seat 4: takeshie1971 ($1.06 in chips) 
+Seat 5: AVV_72008 ($3.85 in chips) 
+Seat 6: pikesz ($2.24 in chips) 
+Seat 7: Djinn 161iq ($1.14 in chips) 
+Seat 8: Happy we:-) ($1.76 in chips) 
+Seat 9: blunt604 ($2.73 in chips) 
+tolyan83823: posts small blind $0.01
+takeshie1971: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 8d]
+AVV_72008: folds 
+pikesz: folds 
+Djinn 161iq: calls $0.02
+Happy we:-): folds 
+blunt604: folds 
+vSpongeBoBv has timed out
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+takeshie1971: checks 
+*** FLOP *** [5s 8s Ah]
+takeshie1971: checks 
+Djinn 161iq: checks 
+*** TURN *** [5s 8s Ah] [8c]
+takeshie1971: checks 
+Djinn 161iq: checks 
+*** RIVER *** [5s 8s Ah 8c] [3h]
+takeshie1971: checks 
+Djinn 161iq: checks 
+*** SHOW DOWN ***
+takeshie1971: shows [Kc 9h] (a pair of Eights)
+Djinn 161iq: mucks hand 
+takeshie1971 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5s 8s Ah 8c 3h]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: tolyan83823 (small blind) folded before Flop
+Seat 4: takeshie1971 (big blind) showed [Kc 9h] and won ($0.05) with a pair of Eights
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: Djinn 161iq mucked [4h Jc]
+Seat 8: Happy we:-) folded before Flop (didn't bet)
+Seat 9: blunt604 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018516627:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:25:55 PT [2021/09/21 2:25:55 ET]
+Table 'Elnath III' 9-max Seat #3 is the button
+Seat 1: vSpongeBoBv ($2.75 in chips) 
+Seat 2: Dorex2007 ($2.15 in chips) 
+Seat 3: tolyan83823 ($1.66 in chips) 
+Seat 4: takeshie1971 ($1.09 in chips) 
+Seat 5: AVV_72008 ($3.85 in chips) 
+Seat 6: pikesz ($2.24 in chips) 
+Seat 7: Djinn 161iq ($1.12 in chips) 
+Seat 8: Happy we:-) ($1.76 in chips) 
+Seat 9: blunt604 ($2.73 in chips) 
+takeshie1971: posts small blind $0.01
+AVV_72008: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 8d]
+pikesz: folds 
+Djinn 161iq: calls $0.02
+Happy we:-): folds 
+blunt604: folds 
+vSpongeBoBv has timed out
+vSpongeBoBv: folds 
+Dorex2007: calls $0.02
+tolyan83823: folds 
+takeshie1971: calls $0.01
+AVV_72008: checks 
+*** FLOP *** [Ks Kh 4s]
+takeshie1971: checks 
+AVV_72008: checks 
+Djinn 161iq: checks 
+Dorex2007: bets $0.04
+takeshie1971: folds 
+AVV_72008: folds 
+Happy we:-) leaves the table
+Djinn 161iq: calls $0.04
+*** TURN *** [Ks Kh 4s] [Tc]
+alexahk joins the table at seat #8 
+Djinn 161iq: checks 
+Dorex2007: bets $0.08
+Djinn 161iq: calls $0.08
+*** RIVER *** [Ks Kh 4s Tc] [5h]
+Djinn 161iq: checks 
+Dorex2007: bets $0.16
+Djinn 161iq: folds 
+Uncalled bet ($0.16) returned to Dorex2007
+Dorex2007 collected $0.31 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Ks Kh 4s Tc 5h]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 collected ($0.31)
+Seat 3: tolyan83823 (button) folded before Flop (didn't bet)
+Seat 4: takeshie1971 (small blind) folded on the Flop
+Seat 5: AVV_72008 (big blind) folded on the Flop
+Seat 6: pikesz folded before Flop (didn't bet)
+Seat 7: Djinn 161iq folded on the River
+Seat 8: Happy we:-) folded before Flop (didn't bet)
+Seat 9: blunt604 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018527396:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:27:17 PT [2021/09/21 2:27:17 ET]
+Table 'Elnath III' 9-max Seat #4 is the button
+Seat 2: Dorex2007 ($2.32 in chips) 
+Seat 3: tolyan83823 ($1.66 in chips) 
+Seat 4: takeshie1971 ($1.07 in chips) 
+Seat 5: AVV_72008 ($3.83 in chips) 
+Seat 7: Djinn 161iq ($0.98 in chips) 
+Seat 9: blunt604 ($2.73 in chips) 
+AVV_72008: posts small blind $0.01
+pikesz: is sitting out 
+Djinn 161iq: posts big blind $0.02
+alexahk: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Kh]
+blunt604: folds 
+Dorex2007: folds 
+pikesz leaves the table
+tolyan83823: folds 
+takeshie1971: raises $0.04 to $0.06
+AVV_72008: folds 
+Djinn 161iq: calls $0.04
+*** FLOP *** [Kc Kd 6d]
+*VM*727 joins the table at seat #6 
+Djinn 161iq: checks 
+takeshie1971: bets $0.06
+Djinn 161iq: calls $0.06
+*** TURN *** [Kc Kd 6d] [Jc]
+Djinn 161iq: checks 
+takeshie1971: checks 
+*** RIVER *** [Kc Kd 6d Jc] [8h]
+Djinn 161iq: bets $0.86 and is all-in
+takeshie1971: folds 
+Uncalled bet ($0.86) returned to Djinn 161iq
+Djinn 161iq collected $0.24 from pot
+Djinn 161iq: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Kc Kd 6d Jc 8h]
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: takeshie1971 (button) folded on the River
+Seat 5: AVV_72008 (small blind) folded before Flop
+Seat 7: Djinn 161iq (big blind) collected ($0.24)
+Seat 9: blunt604 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018532741:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:27:58 PT [2021/09/21 2:27:58 ET]
+Table 'Elnath III' 9-max Seat #5 is the button
+Seat 1: vSpongeBoBv ($2.75 in chips) 
+Seat 2: Dorex2007 ($2.32 in chips) 
+Seat 3: tolyan83823 ($1.66 in chips) 
+Seat 4: takeshie1971 ($0.95 in chips) 
+Seat 5: AVV_72008 ($3.82 in chips) 
+Seat 7: Djinn 161iq ($1.10 in chips) 
+Seat 8: alexahk ($2 in chips) 
+Seat 9: blunt604 ($2.73 in chips) 
+Djinn 161iq: posts small blind $0.01
+alexahk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Tc]
+blunt604: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+takeshie1971: raises $0.04 to $0.06
+AVV_72008: folds 
+Djinn 161iq: raises $0.04 to $0.10
+alexahk: folds 
+takeshie1971: calls $0.04
+*** FLOP *** [7c Ad 8d]
+Djinn 161iq: bets $0.21
+takeshie1971: folds 
+Uncalled bet ($0.21) returned to Djinn 161iq
+Djinn 161iq collected $0.21 from pot
+Djinn 161iq: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [7c Ad 8d]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: takeshie1971 folded on the Flop
+Seat 5: AVV_72008 (button) folded before Flop (didn't bet)
+Seat 7: Djinn 161iq (small blind) collected ($0.21)
+Seat 8: alexahk (big blind) folded before Flop
+Seat 9: blunt604 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018536729:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:28:29 PT [2021/09/21 2:28:29 ET]
+Table 'Elnath III' 9-max Seat #7 is the button
+Seat 1: vSpongeBoBv ($2.75 in chips) 
+Seat 2: Dorex2007 ($2.32 in chips) 
+Seat 3: tolyan83823 ($1.66 in chips) 
+Seat 4: takeshie1971 ($0.85 in chips) 
+Seat 5: AVV_72008 ($3.82 in chips) 
+Seat 6: *VM*727 ($2 in chips) 
+Seat 7: Djinn 161iq ($1.21 in chips) 
+Seat 8: alexahk ($2 in chips) 
+Seat 9: blunt604 ($2.73 in chips) 
+alexahk: posts small blind $0.01
+blunt604: posts big blind $0.02
+*VM*727: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Qc]
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+takeshie1971: folds 
+AVV_72008: folds 
+*VM*727: checks 
+Djinn 161iq: calls $0.02
+alexahk: calls $0.01
+blunt604: raises $0.14 to $0.16
+*VM*727: folds 
+Djinn 161iq: calls $0.14
+alexahk: folds 
+*** FLOP *** [3s Ah 7h]
+blunt604: bets $0.20
+Djinn 161iq: folds 
+Uncalled bet ($0.20) returned to blunt604
+blunt604 collected $0.35 from pot
+blunt604: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [3s Ah 7h]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: *VM*727 folded before Flop (didn't bet)
+Seat 7: Djinn 161iq (button) folded on the Flop
+Seat 8: alexahk (small blind) folded before Flop
+Seat 9: blunt604 (big blind) collected ($0.35)
+
+
+
+PokerStars Hand #230018541708:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:29:07 PT [2021/09/21 2:29:07 ET]
+Table 'Elnath III' 9-max Seat #8 is the button
+Seat 1: vSpongeBoBv ($2.75 in chips) 
+Seat 2: Dorex2007 ($2.32 in chips) 
+Seat 3: tolyan83823 ($1.66 in chips) 
+Seat 4: takeshie1971 ($0.85 in chips) 
+Seat 5: AVV_72008 ($3.82 in chips) 
+Seat 6: *VM*727 ($1.98 in chips) 
+Seat 7: Djinn 161iq ($1.05 in chips) 
+Seat 8: alexahk ($2 in chips) 
+Seat 9: blunt604 ($2.92 in chips) 
+blunt604: posts small blind $0.01
+vSpongeBoBv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 6h]
+Dorex2007: folds 
+tolyan83823: folds 
+takeshie1971: folds 
+AVV_72008: calls $0.02
+*VM*727: folds 
+Djinn 161iq: calls $0.02
+alexahk: folds 
+blunt604: folds 
+vSpongeBoBv: checks 
+*** FLOP *** [Kh 6s 4c]
+vSpongeBoBv: checks 
+AVV_72008: checks 
+Djinn 161iq: checks 
+*** TURN *** [Kh 6s 4c] [3d]
+vSpongeBoBv: checks 
+AVV_72008: checks 
+Djinn 161iq: checks 
+*** RIVER *** [Kh 6s 4c 3d] [2d]
+vSpongeBoBv has timed out
+vSpongeBoBv: checks 
+AVV_72008: checks 
+Djinn 161iq: checks 
+*** SHOW DOWN ***
+vSpongeBoBv: shows [9h 2s] (a pair of Deuces)
+AVV_72008: mucks hand 
+Djinn 161iq: shows [4d Tc] (a pair of Fours)
+Djinn 161iq collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Kh 6s 4c 3d 2d]
+Seat 1: vSpongeBoBv (big blind) showed [9h 2s] and lost with a pair of Deuces
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 mucked [Qc Js]
+Seat 6: *VM*727 folded before Flop (didn't bet)
+Seat 7: Djinn 161iq showed [4d Tc] and won ($0.07) with a pair of Fours
+Seat 8: alexahk (button) folded before Flop (didn't bet)
+Seat 9: blunt604 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230018560296:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:30:57 PT [2021/09/21 2:30:57 ET]
+Table 'Elnath III' 9-max Seat #9 is the button
+Seat 1: vSpongeBoBv ($2.73 in chips) 
+Seat 2: Dorex2007 ($2.32 in chips) 
+Seat 3: tolyan83823 ($1.66 in chips) 
+Seat 4: takeshie1971 ($0.85 in chips) 
+Seat 5: AVV_72008 ($3.80 in chips) 
+Seat 6: *VM*727 ($1.98 in chips) 
+Seat 7: Djinn 161iq ($1.10 in chips) 
+Seat 8: alexahk ($2 in chips) 
+Seat 9: blunt604 ($2.91 in chips) 
+vSpongeBoBv: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 8d]
+tolyan83823: raises $0.04 to $0.06
+takeshie1971: folds 
+AVV_72008: folds 
+*VM*727: folds 
+Djinn 161iq: folds 
+alexahk: folds 
+blunt604: folds 
+vSpongeBoBv has timed out
+vSpongeBoBv: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to tolyan83823
+tolyan83823 collected $0.05 from pot
+tolyan83823: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: vSpongeBoBv (small blind) folded before Flop
+Seat 2: Dorex2007 (big blind) folded before Flop
+Seat 3: tolyan83823 collected ($0.05)
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: *VM*727 folded before Flop (didn't bet)
+Seat 7: Djinn 161iq folded before Flop (didn't bet)
+Seat 8: alexahk folded before Flop (didn't bet)
+Seat 9: blunt604 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018567968:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:31:55 PT [2021/09/21 2:31:55 ET]
+Table 'Elnath III' 9-max Seat #2 is the button
+Seat 2: Dorex2007 ($2.30 in chips) 
+Seat 3: tolyan83823 ($1.69 in chips) 
+Seat 4: takeshie1971 ($0.85 in chips) 
+Seat 5: AVV_72008 ($3.80 in chips) 
+Seat 6: *VM*727 ($1.98 in chips) 
+Seat 7: Djinn 161iq ($1.10 in chips) 
+Seat 8: alexahk ($2 in chips) 
+Seat 9: blunt604 ($2.91 in chips) 
+tolyan83823: posts small blind $0.01
+takeshie1971: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Ts]
+AVV_72008: folds 
+*VM*727: folds 
+Djinn 161iq: calls $0.02
+alexahk: raises $0.08 to $0.10
+blunt604: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+takeshie1971: folds 
+Djinn 161iq: calls $0.08
+*** FLOP *** [5d Jd 3s]
+Djinn 161iq: checks 
+alexahk: bets $0.13
+Djinn 161iq: folds 
+Uncalled bet ($0.13) returned to alexahk
+alexahk collected $0.22 from pot
+alexahk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [5d Jd 3s]
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: tolyan83823 (small blind) folded before Flop
+Seat 4: takeshie1971 (big blind) folded before Flop
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: *VM*727 folded before Flop (didn't bet)
+Seat 7: Djinn 161iq folded on the Flop
+Seat 8: alexahk collected ($0.22)
+Seat 9: blunt604 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018574264:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:32:42 PT [2021/09/21 2:32:42 ET]
+Table 'Elnath III' 9-max Seat #3 is the button
+Seat 2: Dorex2007 ($2.30 in chips) 
+Seat 3: tolyan83823 ($1.68 in chips) 
+Seat 4: takeshie1971 ($0.83 in chips) 
+Seat 5: AVV_72008 ($3.80 in chips) 
+Seat 6: *VM*727 ($1.98 in chips) 
+Seat 7: Djinn 161iq ($1 in chips) 
+Seat 8: alexahk ($2.12 in chips) 
+Seat 9: blunt604 ($2.91 in chips) 
+takeshie1971: posts small blind $0.01
+AVV_72008: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 5h]
+*VM*727: folds 
+Djinn 161iq: calls $0.02
+alexahk: folds 
+blunt604: raises $0.06 to $0.08
+Dorex2007: folds 
+tolyan83823: folds 
+vSpongeBoBv is disconnected 
+takeshie1971: folds 
+AVV_72008: folds 
+Djinn 161iq: folds 
+Uncalled bet ($0.06) returned to blunt604
+blunt604 collected $0.07 from pot
+blunt604: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 (button) folded before Flop (didn't bet)
+Seat 4: takeshie1971 (small blind) folded before Flop
+Seat 5: AVV_72008 (big blind) folded before Flop
+Seat 6: *VM*727 folded before Flop (didn't bet)
+Seat 7: Djinn 161iq folded before Flop
+Seat 8: alexahk folded before Flop (didn't bet)
+Seat 9: blunt604 collected ($0.07)
+
+
+
+PokerStars Hand #230018578881:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:33:17 PT [2021/09/21 2:33:17 ET]
+Table 'Elnath III' 9-max Seat #4 is the button
+Seat 2: Dorex2007 ($2.30 in chips) 
+Seat 3: tolyan83823 ($1.68 in chips) 
+Seat 4: takeshie1971 ($0.82 in chips) 
+Seat 5: AVV_72008 ($3.78 in chips) 
+Seat 6: *VM*727 ($1.98 in chips) 
+Seat 7: Djinn 161iq ($0.98 in chips) 
+Seat 8: alexahk ($2.12 in chips) 
+Seat 9: blunt604 ($2.96 in chips) 
+AVV_72008: posts small blind $0.01
+*VM*727: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 5c]
+Djinn 161iq: calls $0.02
+alexahk: folds 
+blunt604: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+takeshie1971 has timed out
+takeshie1971: folds 
+AVV_72008: calls $0.01
+*VM*727: checks 
+*** FLOP *** [7c Ts Qd]
+AVV_72008: checks 
+*VM*727: checks 
+Djinn 161iq: bets $0.06
+AVV_72008: folds 
+*VM*727: folds 
+Uncalled bet ($0.06) returned to Djinn 161iq
+Djinn 161iq collected $0.06 from pot
+Djinn 161iq: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [7c Ts Qd]
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: takeshie1971 (button) folded before Flop (didn't bet)
+Seat 5: AVV_72008 (small blind) folded on the Flop
+Seat 6: *VM*727 (big blind) folded on the Flop
+Seat 7: Djinn 161iq collected ($0.06)
+Seat 8: alexahk folded before Flop (didn't bet)
+Seat 9: blunt604 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018584560:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:34:00 PT [2021/09/21 2:34:00 ET]
+Table 'Elnath III' 9-max Seat #5 is the button
+Seat 2: Dorex2007 ($2.30 in chips) 
+Seat 3: tolyan83823 ($1.68 in chips) 
+Seat 5: AVV_72008 ($3.76 in chips) 
+Seat 6: *VM*727 ($1.96 in chips) 
+Seat 7: Djinn 161iq ($1.02 in chips) 
+Seat 8: alexahk ($2.12 in chips) 
+Seat 9: blunt604 ($2.96 in chips) 
+*VM*727: posts small blind $0.01
+Djinn 161iq: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Kc]
+alexahk: folds 
+blunt604: folds 
+Dorex2007: raises $0.02 to $0.04
+tolyan83823: folds 
+AVV_72008: folds 
+*VM*727: folds 
+Djinn 161iq: calls $0.02
+*** FLOP *** [2h Js Th]
+Djinn 161iq: checks 
+Dorex2007: bets $0.09
+Djinn 161iq: folds 
+Uncalled bet ($0.09) returned to Dorex2007
+Dorex2007 collected $0.09 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [2h Js Th]
+Seat 2: Dorex2007 collected ($0.09)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 5: AVV_72008 (button) folded before Flop (didn't bet)
+Seat 6: *VM*727 (small blind) folded before Flop
+Seat 7: Djinn 161iq (big blind) folded on the Flop
+Seat 8: alexahk folded before Flop (didn't bet)
+Seat 9: blunt604 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018588276:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:34:28 PT [2021/09/21 2:34:28 ET]
+Table 'Elnath III' 9-max Seat #6 is the button
+Seat 2: Dorex2007 ($2.35 in chips) 
+Seat 3: tolyan83823 ($1.68 in chips) 
+Seat 4: takeshie1971 ($0.82 in chips) 
+Seat 5: AVV_72008 ($3.76 in chips) 
+Seat 6: *VM*727 ($1.95 in chips) 
+Seat 7: Djinn 161iq ($0.98 in chips) 
+Seat 8: alexahk ($2.12 in chips) 
+Seat 9: blunt604 ($2.96 in chips) 
+Djinn 161iq: posts small blind $0.01
+alexahk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 2h]
+blunt604: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+takeshie1971: raises $0.04 to $0.06
+AVV_72008: folds 
+*VM*727: folds 
+Djinn 161iq: calls $0.05
+blunt604 leaves the table
+alexahk: raises $0.14 to $0.20
+takeshie1971: folds 
+Djinn 161iq: calls $0.14
+*** FLOP *** [Kc 3s 6d]
+Djinn 161iq: checks 
+alexahk: bets $0.27
+Djinn 161iq: folds 
+Uncalled bet ($0.27) returned to alexahk
+alexahk collected $0.44 from pot
+alexahk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [Kc 3s 6d]
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: takeshie1971 folded before Flop
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: *VM*727 (button) folded before Flop (didn't bet)
+Seat 7: Djinn 161iq (small blind) folded on the Flop
+Seat 8: alexahk (big blind) collected ($0.44)
+Seat 9: blunt604 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018593188:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:35:04 PT [2021/09/21 2:35:04 ET]
+Table 'Elnath III' 9-max Seat #7 is the button
+Seat 2: Dorex2007 ($2.35 in chips) 
+Seat 3: tolyan83823 ($1.68 in chips) 
+Seat 4: takeshie1971 ($0.76 in chips) 
+Seat 5: AVV_72008 ($3.76 in chips) 
+Seat 6: *VM*727 ($1.95 in chips) 
+Seat 7: Djinn 161iq ($0.78 in chips) 
+Seat 8: alexahk ($2.36 in chips) 
+alexahk: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Ah]
+siomos66 joins the table at seat #9 
+tolyan83823: raises $0.04 to $0.06
+takeshie1971: folds 
+AVV_72008: folds 
+*VM*727: folds 
+Djinn 161iq: calls $0.06
+alexahk: folds 
+Dorex2007: calls $0.04
+*** FLOP *** [7h Js 5s]
+Dorex2007: checks 
+tolyan83823: checks 
+Djinn 161iq: checks 
+*** TURN *** [7h Js 5s] [Td]
+Dorex2007: bets $0.09
+tolyan83823: calls $0.09
+Djinn 161iq: folds 
+*** RIVER *** [7h Js 5s Td] [Ts]
+Dorex2007: bets $0.24
+tolyan83823: folds 
+Uncalled bet ($0.24) returned to Dorex2007
+Dorex2007 collected $0.36 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [7h Js 5s Td Ts]
+Seat 2: Dorex2007 (big blind) collected ($0.36)
+Seat 3: tolyan83823 folded on the River
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: *VM*727 folded before Flop (didn't bet)
+Seat 7: Djinn 161iq (button) folded on the Turn
+Seat 8: alexahk (small blind) folded before Flop
+
+
+
+PokerStars Hand #230018597540:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:35:37 PT [2021/09/21 2:35:37 ET]
+Table 'Elnath III' 9-max Seat #8 is the button
+Seat 2: Dorex2007 ($2.56 in chips) 
+Seat 3: tolyan83823 ($1.53 in chips) 
+Seat 4: takeshie1971 ($0.76 in chips) 
+Seat 5: AVV_72008 ($3.76 in chips) 
+Seat 6: *VM*727 ($1.95 in chips) 
+Seat 7: Djinn 161iq ($0.72 in chips) 
+Seat 8: alexahk ($2.35 in chips) 
+Dorex2007: posts small blind $0.01
+tolyan83823: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 8d]
+takeshie1971: folds 
+AVV_72008: folds 
+*VM*727: calls $0.02
+Djinn 161iq: calls $0.02
+alexahk: folds 
+Dorex2007: folds 
+tolyan83823: checks 
+*** FLOP *** [7d 9s Qc]
+tolyan83823: bets $0.07
+*VM*727: folds 
+Djinn 161iq: folds 
+Uncalled bet ($0.07) returned to tolyan83823
+tolyan83823 collected $0.07 from pot
+tolyan83823: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [7d 9s Qc]
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 3: tolyan83823 (big blind) collected ($0.07)
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: *VM*727 folded on the Flop
+Seat 7: Djinn 161iq folded on the Flop
+Seat 8: alexahk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018600460:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:35:59 PT [2021/09/21 2:35:59 ET]
+Table 'Elnath III' 9-max Seat #2 is the button
+Seat 1: vSpongeBoBv ($2.72 in chips) 
+Seat 2: Dorex2007 ($2.55 in chips) 
+Seat 3: tolyan83823 ($1.58 in chips) 
+Seat 4: takeshie1971 ($0.76 in chips) 
+Seat 5: AVV_72008 ($3.76 in chips) 
+Seat 6: *VM*727 ($1.93 in chips) 
+Seat 7: Djinn 161iq ($0.70 in chips) 
+Seat 8: alexahk ($2.35 in chips) 
+tolyan83823: posts small blind $0.01
+takeshie1971: posts big blind $0.02
+siomos66: sits out 
+vSpongeBoBv: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 9d]
+AVV_72008: folds 
+*VM*727: calls $0.02
+Djinn 161iq: calls $0.02
+alexahk: folds 
+vSpongeBoBv: checks 
+Dorex2007: calls $0.02
+tolyan83823: calls $0.01
+takeshie1971: raises $0.74 to $0.76 and is all-in
+*VM*727: folds 
+Djinn 161iq: folds 
+vSpongeBoBv has timed out
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: calls $0.74
+*** FLOP *** [Qc 4d 3c]
+*** TURN *** [Qc 4d 3c] [Jc]
+*** RIVER *** [Qc 4d 3c Jc] [9s]
+*** SHOW DOWN ***
+tolyan83823: shows [Ac Td] (high card Ace)
+takeshie1971: shows [Th Ad] (high card Ace)
+tolyan83823 collected $0.78 from pot
+takeshie1971 collected $0.77 from pot
+*** SUMMARY ***
+Total pot $1.61 | Rake $0.06 
+Board [Qc 4d 3c Jc 9s]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 (button) folded before Flop
+Seat 3: tolyan83823 (small blind) showed [Ac Td] and won ($0.78) with high card Ace
+Seat 4: takeshie1971 (big blind) showed [Th Ad] and won ($0.77) with high card Ace
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: *VM*727 folded before Flop
+Seat 7: Djinn 161iq folded before Flop
+Seat 8: alexahk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018608583:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:36:59 PT [2021/09/21 2:36:59 ET]
+Table 'Elnath III' 9-max Seat #3 is the button
+Seat 2: Dorex2007 ($2.53 in chips) 
+Seat 3: tolyan83823 ($1.60 in chips) 
+Seat 4: takeshie1971 ($0.77 in chips) 
+Seat 5: AVV_72008 ($3.76 in chips) 
+Seat 6: *VM*727 ($1.91 in chips) 
+Seat 7: Djinn 161iq ($0.68 in chips) 
+Seat 8: alexahk ($2.35 in chips) 
+takeshie1971: posts small blind $0.01
+AVV_72008: posts big blind $0.02
+siomos66: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 9h]
+*VM*727: folds 
+Djinn 161iq: calls $0.02
+alexahk: folds 
+Dorex2007: folds 
+tolyan83823 has timed out
+tolyan83823: folds 
+takeshie1971: calls $0.01
+tolyan83823 is disconnected 
+AVV_72008: checks 
+*** FLOP *** [2s 5d 4d]
+takeshie1971: checks 
+AVV_72008: checks 
+Djinn 161iq: checks 
+*** TURN *** [2s 5d 4d] [Jc]
+takeshie1971: checks 
+AVV_72008: bets $0.04
+Djinn 161iq: calls $0.04
+takeshie1971: folds 
+*** RIVER *** [2s 5d 4d Jc] [4h]
+AVV_72008: bets $0.08
+Djinn 161iq: calls $0.08
+*** SHOW DOWN ***
+AVV_72008: shows [Jd 7s] (two pair, Jacks and Fours)
+Djinn 161iq: mucks hand 
+AVV_72008 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [2s 5d 4d Jc 4h]
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 (button) folded before Flop (didn't bet)
+Seat 4: takeshie1971 (small blind) folded on the Turn
+Seat 5: AVV_72008 (big blind) showed [Jd 7s] and won ($0.29) with two pair, Jacks and Fours
+Seat 6: *VM*727 folded before Flop (didn't bet)
+Seat 7: Djinn 161iq mucked [5h Qh]
+Seat 8: alexahk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018617485:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:38:04 PT [2021/09/21 2:38:04 ET]
+Table 'Elnath III' 9-max Seat #4 is the button
+Seat 1: vSpongeBoBv ($2.69 in chips) 
+Seat 2: Dorex2007 ($2.53 in chips) 
+Seat 3: tolyan83823 ($1.60 in chips) 
+Seat 4: takeshie1971 ($0.75 in chips) 
+Seat 5: AVV_72008 ($3.91 in chips) 
+Seat 6: *VM*727 ($1.91 in chips) 
+Seat 7: Djinn 161iq ($0.54 in chips) 
+Seat 8: alexahk ($2.35 in chips) 
+AVV_72008: posts small blind $0.01
+*VM*727: posts big blind $0.02
+siomos66: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 4s]
+Djinn 161iq: folds 
+alexahk: raises $0.06 to $0.08
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+takeshie1971: folds 
+AVV_72008: folds 
+*VM*727: calls $0.06
+*** FLOP *** [2s 6d Kd]
+*VM*727: checks 
+alexahk: bets $0.10
+*VM*727: raises $1.73 to $1.83 and is all-in
+alexahk: calls $1.73
+*** TURN *** [2s 6d Kd] [Jd]
+*** RIVER *** [2s 6d Kd Jd] [Th]
+*** SHOW DOWN ***
+*VM*727: shows [Ad Kh] (a pair of Kings)
+alexahk: shows [Jh Jc] (three of a kind, Jacks)
+alexahk collected $3.70 from pot
+*VM*727 cashed out the hand for $3.38 | Cash Out Fee $0.03
+*** SUMMARY ***
+Total pot $3.83 | Rake $0.13 
+Board [2s 6d Kd Jd Th]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: takeshie1971 (button) folded before Flop (didn't bet)
+Seat 5: AVV_72008 (small blind) folded before Flop
+Seat 6: *VM*727 (big blind) showed [Ad Kh] and lost with a pair of Kings (cashed out).
+Seat 7: Djinn 161iq folded before Flop (didn't bet)
+Seat 8: alexahk showed [Jh Jc] and won ($3.70) with three of a kind, Jacks
+
+
+
+PokerStars Hand #230018622488:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:38:41 PT [2021/09/21 2:38:41 ET]
+Table 'Elnath III' 9-max Seat #5 is the button
+Seat 1: vSpongeBoBv ($2.69 in chips) 
+Seat 2: Dorex2007 ($2.53 in chips) 
+Seat 3: tolyan83823 ($1.60 in chips) 
+Seat 4: takeshie1971 ($0.75 in chips) 
+Seat 5: AVV_72008 ($3.90 in chips) 
+Seat 6: *VM*727 ($3.38 in chips) 
+Seat 7: Djinn 161iq ($0.54 in chips) 
+Seat 8: alexahk ($4.14 in chips) 
+*VM*727: posts small blind $0.01
+Djinn 161iq: posts big blind $0.02
+siomos66: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 9d]
+alexahk: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+takeshie1971: folds 
+AVV_72008: folds 
+*VM*727: folds 
+Uncalled bet ($0.01) returned to Djinn 161iq
+Djinn 161iq collected $0.02 from pot
+Djinn 161iq: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 (button) folded before Flop (didn't bet)
+Seat 6: *VM*727 (small blind) folded before Flop
+Seat 7: Djinn 161iq (big blind) collected ($0.02)
+Seat 8: alexahk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018624138:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:38:53 PT [2021/09/21 2:38:53 ET]
+Table 'Elnath III' 9-max Seat #6 is the button
+Seat 1: vSpongeBoBv ($2.69 in chips) 
+Seat 2: Dorex2007 ($2.53 in chips) 
+Seat 3: tolyan83823 ($1.60 in chips) 
+Seat 4: takeshie1971 ($0.75 in chips) 
+Seat 5: AVV_72008 ($3.90 in chips) 
+Seat 6: *VM*727 ($3.37 in chips) 
+Seat 7: Djinn 161iq ($0.55 in chips) 
+Seat 8: alexahk ($4.14 in chips) 
+Djinn 161iq: posts small blind $0.01
+alexahk: posts big blind $0.02
+siomos66: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Js]
+vSpongeBoBv: folds 
+Dorex2007: raises $0.04 to $0.06
+tolyan83823: folds 
+takeshie1971: folds 
+AVV_72008: calls $0.06
+*VM*727: folds 
+Djinn 161iq: calls $0.05
+alexahk: folds 
+*** FLOP *** [As 3d 9d]
+Djinn 161iq: checks 
+Dorex2007: bets $0.13
+AVV_72008: folds 
+Djinn 161iq: calls $0.13
+*** TURN *** [As 3d 9d] [Jc]
+Djinn 161iq: checks 
+Dorex2007: bets $2.34 and is all-in
+Djinn 161iq: folds 
+Uncalled bet ($2.34) returned to Dorex2007
+Dorex2007 collected $0.44 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [As 3d 9d Jc]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 collected ($0.44)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded on the Flop
+Seat 6: *VM*727 (button) folded before Flop (didn't bet)
+Seat 7: Djinn 161iq (small blind) folded on the Turn
+Seat 8: alexahk (big blind) folded before Flop
+
+
+
+PokerStars Hand #230018632184:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:39:53 PT [2021/09/21 2:39:53 ET]
+Table 'Elnath III' 9-max Seat #7 is the button
+Seat 1: vSpongeBoBv ($2.69 in chips) 
+Seat 2: Dorex2007 ($2.78 in chips) 
+Seat 3: tolyan83823 ($1.60 in chips) 
+Seat 4: takeshie1971 ($0.75 in chips) 
+Seat 5: AVV_72008 ($3.84 in chips) 
+Seat 6: *VM*727 ($3.37 in chips) 
+Seat 7: Djinn 161iq ($0.36 in chips) 
+Seat 8: alexahk ($4.12 in chips) 
+Seat 9: siomos66 ($2 in chips) 
+alexahk: posts small blind $0.01
+siomos66: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 3c]
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+takeshie1971: raises $0.04 to $0.06
+AVV_72008: folds 
+*VM*727: calls $0.06
+Djinn 161iq: calls $0.06
+alexahk: folds 
+siomos66: folds 
+*** FLOP *** [2h 2c Jd]
+takeshie1971: bets $0.10
+*VM*727: folds 
+Djinn 161iq: folds 
+Uncalled bet ($0.10) returned to takeshie1971
+takeshie1971 collected $0.20 from pot
+takeshie1971: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [2h 2c Jd]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: takeshie1971 collected ($0.20)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: *VM*727 folded on the Flop
+Seat 7: Djinn 161iq (button) folded on the Flop
+Seat 8: alexahk (small blind) folded before Flop
+Seat 9: siomos66 (big blind) folded before Flop
+
+
+
+PokerStars Hand #230018636933:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:40:29 PT [2021/09/21 2:40:29 ET]
+Table 'Elnath III' 9-max Seat #8 is the button
+Seat 1: vSpongeBoBv ($2.69 in chips) 
+Seat 2: Dorex2007 ($2.78 in chips) 
+Seat 3: tolyan83823 ($1.60 in chips) 
+Seat 4: takeshie1971 ($0.89 in chips) 
+Seat 5: AVV_72008 ($3.84 in chips) 
+Seat 6: *VM*727 ($3.31 in chips) 
+Seat 7: Djinn 161iq ($0.30 in chips) 
+Seat 8: alexahk ($4.11 in chips) 
+Seat 9: siomos66 ($2 in chips) 
+siomos66: posts small blind $0.01
+vSpongeBoBv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 7h]
+Dorex2007: folds 
+tolyan83823: folds 
+takeshie1971: raises $0.04 to $0.06
+AVV_72008: folds 
+*VM*727: folds 
+Djinn 161iq: calls $0.06
+alexahk: folds 
+siomos66: folds 
+vSpongeBoBv: calls $0.04
+*** FLOP *** [6c 8h 3c]
+vSpongeBoBv: checks 
+takeshie1971: checks 
+Djinn 161iq: checks 
+*** TURN *** [6c 8h 3c] [Kc]
+vSpongeBoBv: checks 
+takeshie1971: bets $0.09
+Djinn 161iq: calls $0.09
+vSpongeBoBv: folds 
+*** RIVER *** [6c 8h 3c Kc] [2s]
+takeshie1971: checks 
+Djinn 161iq: checks 
+*** SHOW DOWN ***
+takeshie1971: shows [Js Kd] (a pair of Kings)
+Djinn 161iq: mucks hand 
+takeshie1971 collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [6c 8h 3c Kc 2s]
+Seat 1: vSpongeBoBv (big blind) folded on the Turn
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: takeshie1971 showed [Js Kd] and won ($0.36) with a pair of Kings
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: *VM*727 folded before Flop (didn't bet)
+Seat 7: Djinn 161iq mucked [6s Ad]
+Seat 8: alexahk (button) folded before Flop (didn't bet)
+Seat 9: siomos66 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230018644850:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:41:29 PT [2021/09/21 2:41:29 ET]
+Table 'Elnath III' 9-max Seat #9 is the button
+Seat 1: vSpongeBoBv ($2.63 in chips) 
+Seat 2: Dorex2007 ($2.78 in chips) 
+Seat 3: tolyan83823 ($1.60 in chips) 
+Seat 4: takeshie1971 ($1.10 in chips) 
+Seat 5: AVV_72008 ($3.84 in chips) 
+Seat 6: *VM*727 ($3.31 in chips) 
+Seat 7: Djinn 161iq ($0.15 in chips) 
+Seat 8: alexahk ($4.11 in chips) 
+Seat 9: siomos66 ($2 in chips) 
+vSpongeBoBv: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 7h]
+tolyan83823: folds 
+takeshie1971: folds 
+AVV_72008: folds 
+*VM*727: folds 
+Djinn 161iq: folds 
+alexahk: folds 
+siomos66: folds 
+vSpongeBoBv: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: vSpongeBoBv (small blind) folded before Flop
+Seat 2: Dorex2007 (big blind) collected ($0.02)
+Seat 3: tolyan83823 folded before Flop (didn't bet)
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: *VM*727 folded before Flop (didn't bet)
+Seat 7: Djinn 161iq folded before Flop (didn't bet)
+Seat 8: alexahk folded before Flop (didn't bet)
+Seat 9: siomos66 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018647343:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:41:46 PT [2021/09/21 2:41:46 ET]
+Table 'Elnath III' 9-max Seat #1 is the button
+Seat 1: vSpongeBoBv ($2.62 in chips) 
+Seat 2: Dorex2007 ($2.79 in chips) 
+Seat 3: tolyan83823 ($1.60 in chips) 
+Seat 4: takeshie1971 ($1.10 in chips) 
+Seat 5: AVV_72008 ($3.84 in chips) 
+Seat 6: *VM*727 ($3.31 in chips) 
+Seat 7: Djinn 161iq ($0.15 in chips) 
+Seat 8: alexahk ($4.11 in chips) 
+Seat 9: siomos66 ($2 in chips) 
+Dorex2007: posts small blind $0.01
+tolyan83823: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Jd]
+takeshie1971: folds 
+AVV_72008: folds 
+*VM*727: calls $0.02
+Djinn 161iq: calls $0.02
+alexahk: folds 
+siomos66: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: checks 
+*** FLOP *** [2d Qd 8d]
+tolyan83823: checks 
+*VM*727: checks 
+Djinn 161iq: bets $0.13 and is all-in
+tolyan83823: folds 
+*VM*727: folds 
+Uncalled bet ($0.13) returned to Djinn 161iq
+Djinn 161iq collected $0.07 from pot
+Djinn 161iq: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [2d Qd 8d]
+Seat 1: vSpongeBoBv (button) folded before Flop (didn't bet)
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 3: tolyan83823 (big blind) folded on the Flop
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: *VM*727 folded on the Flop
+Seat 7: Djinn 161iq collected ($0.07)
+Seat 8: alexahk folded before Flop (didn't bet)
+Seat 9: siomos66 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018653115:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:42:30 PT [2021/09/21 2:42:30 ET]
+Table 'Elnath III' 9-max Seat #2 is the button
+Seat 1: vSpongeBoBv ($2.62 in chips) 
+Seat 2: Dorex2007 ($2.78 in chips) 
+Seat 3: tolyan83823 ($1.58 in chips) 
+Seat 4: takeshie1971 ($1.10 in chips) 
+Seat 5: AVV_72008 ($3.84 in chips) 
+Seat 6: *VM*727 ($3.29 in chips) 
+Seat 7: Djinn 161iq ($0.20 in chips) 
+Seat 8: alexahk ($4.11 in chips) 
+Seat 9: siomos66 ($2 in chips) 
+tolyan83823: posts small blind $0.01
+takeshie1971: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Th]
+AVV_72008 has timed out
+AVV_72008: folds 
+*VM*727: folds 
+Djinn 161iq: folds 
+alexahk: folds 
+siomos66: folds 
+vSpongeBoBv: raises $0.04 to $0.06
+Dorex2007: folds 
+tolyan83823: calls $0.05
+takeshie1971: folds 
+*** FLOP *** [8d 6d 5c]
+Djinn 161iq leaves the table
+tolyan83823: bets $0.07
+vSpongeBoBv: calls $0.07
+*** TURN *** [8d 6d 5c] [Qs]
+tolyan83823: bets $0.14
+vSpongeBoBv: calls $0.14
+*** RIVER *** [8d 6d 5c Qs] [Jc]
+DMF 211 joins the table at seat #7 
+tolyan83823: bets $0.27
+vSpongeBoBv: folds 
+Uncalled bet ($0.27) returned to tolyan83823
+tolyan83823 collected $0.54 from pot
+tolyan83823: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.02 
+Board [8d 6d 5c Qs Jc]
+Seat 1: vSpongeBoBv folded on the River
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: tolyan83823 (small blind) collected ($0.54)
+Seat 4: takeshie1971 (big blind) folded before Flop
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: *VM*727 folded before Flop (didn't bet)
+Seat 7: Djinn 161iq folded before Flop (didn't bet)
+Seat 8: alexahk folded before Flop (didn't bet)
+Seat 9: siomos66 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018659447:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:43:16 PT [2021/09/21 2:43:16 ET]
+Table 'Elnath III' 9-max Seat #3 is the button
+Seat 1: vSpongeBoBv ($2.35 in chips) 
+Seat 2: Dorex2007 ($2.78 in chips) 
+Seat 3: tolyan83823 ($1.85 in chips) 
+Seat 4: takeshie1971 ($1.08 in chips) 
+Seat 5: AVV_72008 ($3.84 in chips) 
+Seat 6: *VM*727 ($3.29 in chips) 
+Seat 8: alexahk ($4.11 in chips) 
+Seat 9: siomos66 ($2 in chips) 
+takeshie1971: posts small blind $0.01
+AVV_72008: posts big blind $0.02
+DMF 211: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 3d]
+*VM*727: calls $0.02
+alexahk: folds 
+siomos66: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+tolyan83823: folds 
+tolyan83823 leaves the table
+takeshie1971: folds 
+AVV_72008: checks 
+*** FLOP *** [Ac 8s Qs]
+AVV_72008: checks 
+*VM*727: bets $0.03
+birgit233 joins the table at seat #3 
+AVV_72008: folds 
+Uncalled bet ($0.03) returned to *VM*727
+*VM*727 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ac 8s Qs]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tolyan83823 (button) folded before Flop (didn't bet)
+Seat 4: takeshie1971 (small blind) folded before Flop
+Seat 5: AVV_72008 (big blind) folded on the Flop
+Seat 6: *VM*727 collected ($0.05)
+Seat 8: alexahk folded before Flop (didn't bet)
+Seat 9: siomos66 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018663235:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:43:44 PT [2021/09/21 2:43:44 ET]
+Table 'Elnath III' 9-max Seat #4 is the button
+Seat 1: vSpongeBoBv ($2.35 in chips) 
+Seat 2: Dorex2007 ($2.78 in chips) 
+Seat 4: takeshie1971 ($1.07 in chips) 
+Seat 5: AVV_72008 ($3.82 in chips) 
+Seat 6: *VM*727 ($3.32 in chips) 
+Seat 8: alexahk ($4.11 in chips) 
+Seat 9: siomos66 ($2 in chips) 
+AVV_72008: posts small blind $0.01
+*VM*727: posts big blind $0.02
+DMF 211: sits out 
+birgit233: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 3s]
+alexahk: folds 
+siomos66: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+takeshie1971: raises $0.04 to $0.06
+AVV_72008: folds 
+*VM*727: folds 
+Uncalled bet ($0.04) returned to takeshie1971
+takeshie1971 collected $0.05 from pot
+takeshie1971: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 4: takeshie1971 (button) collected ($0.05)
+Seat 5: AVV_72008 (small blind) folded before Flop
+Seat 6: *VM*727 (big blind) folded before Flop
+Seat 8: alexahk folded before Flop (didn't bet)
+Seat 9: siomos66 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018665208:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:43:59 PT [2021/09/21 2:43:59 ET]
+Table 'Elnath III' 9-max Seat #5 is the button
+Seat 1: vSpongeBoBv ($2.35 in chips) 
+Seat 2: Dorex2007 ($2.78 in chips) 
+Seat 4: takeshie1971 ($1.10 in chips) 
+Seat 5: AVV_72008 ($3.81 in chips) 
+Seat 6: *VM*727 ($3.30 in chips) 
+Seat 7: DMF 211 ($1.60 in chips) 
+Seat 8: alexahk ($4.11 in chips) 
+Seat 9: siomos66 ($2 in chips) 
+*VM*727: posts small blind $0.01
+DMF 211: posts big blind $0.02
+birgit233: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Td]
+alexahk: folds 
+siomos66: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+takeshie1971: folds 
+AVV_72008: folds 
+*VM*727: folds 
+Uncalled bet ($0.01) returned to DMF 211
+DMF 211 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 (button) folded before Flop (didn't bet)
+Seat 6: *VM*727 (small blind) folded before Flop
+Seat 7: DMF 211 (big blind) collected ($0.02)
+Seat 8: alexahk folded before Flop (didn't bet)
+Seat 9: siomos66 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018667086:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:44:13 PT [2021/09/21 2:44:13 ET]
+Table 'Elnath III' 9-max Seat #6 is the button
+Seat 1: vSpongeBoBv ($2.35 in chips) 
+Seat 2: Dorex2007 ($2.78 in chips) 
+Seat 4: takeshie1971 ($1.10 in chips) 
+Seat 5: AVV_72008 ($3.81 in chips) 
+Seat 6: *VM*727 ($3.29 in chips) 
+Seat 7: DMF 211 ($1.61 in chips) 
+Seat 8: alexahk ($4.11 in chips) 
+Seat 9: siomos66 ($2 in chips) 
+DMF 211: posts small blind $0.01
+alexahk: posts big blind $0.02
+birgit233: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Kd]
+siomos66: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+takeshie1971: raises $0.04 to $0.06
+AVV_72008: folds 
+*VM*727: folds 
+DMF 211: folds 
+alexahk: raises $0.16 to $0.22
+takeshie1971: folds 
+Uncalled bet ($0.16) returned to alexahk
+alexahk collected $0.13 from pot
+alexahk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 4: takeshie1971 folded before Flop
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: *VM*727 (button) folded before Flop (didn't bet)
+Seat 7: DMF 211 (small blind) folded before Flop
+Seat 8: alexahk (big blind) collected ($0.13)
+Seat 9: siomos66 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018670331:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:44:36 PT [2021/09/21 2:44:36 ET]
+Table 'Elnath III' 9-max Seat #7 is the button
+Seat 1: vSpongeBoBv ($2.35 in chips) 
+Seat 2: Dorex2007 ($2.78 in chips) 
+Seat 4: takeshie1971 ($1.04 in chips) 
+Seat 5: AVV_72008 ($3.81 in chips) 
+Seat 6: *VM*727 ($3.29 in chips) 
+Seat 7: DMF 211 ($1.60 in chips) 
+Seat 8: alexahk ($4.18 in chips) 
+Seat 9: siomos66 ($2 in chips) 
+alexahk: posts small blind $0.01
+siomos66: posts big blind $0.02
+birgit233: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 3s]
+vSpongeBoBv: folds 
+Dorex2007: folds 
+takeshie1971: folds 
+AVV_72008: folds 
+*VM*727: calls $0.02
+DMF 211: calls $0.02
+alexahk: folds 
+siomos66: checks 
+*** FLOP *** [8c 4s 6c]
+siomos66: checks 
+*VM*727: checks 
+DMF 211: checks 
+*** TURN *** [8c 4s 6c] [2h]
+siomos66: checks 
+*VM*727: checks 
+DMF 211: checks 
+*** RIVER *** [8c 4s 6c 2h] [9h]
+siomos66: checks 
+*VM*727: checks 
+DMF 211: checks 
+*** SHOW DOWN ***
+siomos66: shows [Ac Js] (high card Ace)
+*VM*727: shows [Jc Ah] (high card Ace)
+DMF 211: mucks hand 
+siomos66 collected $0.04 from pot
+*VM*727 collected $0.03 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [8c 4s 6c 2h 9h]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: *VM*727 showed [Jc Ah] and won ($0.03) with high card Ace
+Seat 7: DMF 211 (button) mucked [Td Qd]
+Seat 8: alexahk (small blind) folded before Flop
+Seat 9: siomos66 (big blind) showed [Ac Js] and won ($0.04) with high card Ace
+
+
+
+PokerStars Hand #230018675857:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:45:17 PT [2021/09/21 2:45:17 ET]
+Table 'Elnath III' 9-max Seat #8 is the button
+Seat 1: vSpongeBoBv ($2.35 in chips) 
+Seat 2: Dorex2007 ($2.78 in chips) 
+Seat 4: takeshie1971 ($1.04 in chips) 
+Seat 5: AVV_72008 ($3.81 in chips) 
+Seat 6: *VM*727 ($3.30 in chips) 
+Seat 7: DMF 211 ($1.58 in chips) 
+Seat 8: alexahk ($4.17 in chips) 
+Seat 9: siomos66 ($2.02 in chips) 
+siomos66: posts small blind $0.01
+vSpongeBoBv: posts big blind $0.02
+birgit233: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 3c]
+Dorex2007: folds 
+takeshie1971: raises $0.04 to $0.06
+AVV_72008: folds 
+*VM*727: folds 
+DMF 211: folds 
+alexahk: folds 
+siomos66: folds 
+vSpongeBoBv: folds 
+Uncalled bet ($0.04) returned to takeshie1971
+takeshie1971 collected $0.05 from pot
+takeshie1971: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: vSpongeBoBv (big blind) folded before Flop
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 4: takeshie1971 collected ($0.05)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: *VM*727 folded before Flop (didn't bet)
+Seat 7: DMF 211 folded before Flop (didn't bet)
+Seat 8: alexahk (button) folded before Flop (didn't bet)
+Seat 9: siomos66 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230018678574:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:45:37 PT [2021/09/21 2:45:37 ET]
+Table 'Elnath III' 9-max Seat #9 is the button
+Seat 1: vSpongeBoBv ($2.33 in chips) 
+Seat 2: Dorex2007 ($2.78 in chips) 
+Seat 4: takeshie1971 ($1.07 in chips) 
+Seat 5: AVV_72008 ($3.81 in chips) 
+Seat 6: *VM*727 ($3.30 in chips) 
+Seat 7: DMF 211 ($1.58 in chips) 
+Seat 8: alexahk ($4.17 in chips) 
+Seat 9: siomos66 ($2.01 in chips) 
+vSpongeBoBv: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+birgit233: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 9d]
+takeshie1971: folds 
+AVV_72008: folds 
+*VM*727: calls $0.02
+DMF 211: folds 
+alexahk: folds 
+siomos66: folds 
+vSpongeBoBv: folds 
+Dorex2007: checks 
+*** FLOP *** [7c Jc 2s]
+Dorex2007: checks 
+*VM*727: bets $0.03
+Dorex2007: folds 
+Uncalled bet ($0.03) returned to *VM*727
+*VM*727 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [7c Jc 2s]
+Seat 1: vSpongeBoBv (small blind) folded before Flop
+Seat 2: Dorex2007 (big blind) folded on the Flop
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: *VM*727 collected ($0.05)
+Seat 7: DMF 211 folded before Flop (didn't bet)
+Seat 8: alexahk folded before Flop (didn't bet)
+Seat 9: siomos66 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018683047:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:46:05 PT [2021/09/21 2:46:05 ET]
+Table 'Elnath III' 9-max Seat #1 is the button
+Seat 1: vSpongeBoBv ($2.32 in chips) 
+Seat 2: Dorex2007 ($2.76 in chips) 
+Seat 3: birgit233 ($0.80 in chips) 
+Seat 4: takeshie1971 ($1.07 in chips) 
+Seat 5: AVV_72008 ($3.81 in chips) 
+Seat 6: *VM*727 ($3.33 in chips) 
+Seat 7: DMF 211 ($1.58 in chips) 
+Seat 8: alexahk ($4.17 in chips) 
+Seat 9: siomos66 ($2.01 in chips) 
+Dorex2007: posts small blind $0.01
+birgit233: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 7h]
+takeshie1971: folds 
+AVV_72008: folds 
+*VM*727: folds 
+DMF 211: folds 
+alexahk: folds 
+siomos66: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to birgit233
+birgit233 collected $0.02 from pot
+birgit233: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: vSpongeBoBv (button) folded before Flop (didn't bet)
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 3: birgit233 (big blind) collected ($0.02)
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: *VM*727 folded before Flop (didn't bet)
+Seat 7: DMF 211 folded before Flop (didn't bet)
+Seat 8: alexahk folded before Flop (didn't bet)
+Seat 9: siomos66 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018685824:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:46:25 PT [2021/09/21 2:46:25 ET]
+Table 'Elnath III' 9-max Seat #2 is the button
+Seat 1: vSpongeBoBv ($2.32 in chips) 
+Seat 2: Dorex2007 ($2.75 in chips) 
+Seat 3: birgit233 ($0.81 in chips) 
+Seat 4: takeshie1971 ($1.07 in chips) 
+Seat 5: AVV_72008 ($3.81 in chips) 
+Seat 6: *VM*727 ($3.33 in chips) 
+Seat 7: DMF 211 ($1.58 in chips) 
+Seat 8: alexahk ($4.17 in chips) 
+Seat 9: siomos66 ($2.01 in chips) 
+birgit233: posts small blind $0.01
+takeshie1971: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Td]
+AVV_72008 has timed out
+AVV_72008: folds 
+*VM*727: folds 
+DMF 211: folds 
+alexahk: folds 
+siomos66: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+birgit233: folds 
+Uncalled bet ($0.01) returned to takeshie1971
+takeshie1971 collected $0.02 from pot
+takeshie1971: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: birgit233 (small blind) folded before Flop
+Seat 4: takeshie1971 (big blind) collected ($0.02)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: *VM*727 folded before Flop (didn't bet)
+Seat 7: DMF 211 folded before Flop (didn't bet)
+Seat 8: alexahk folded before Flop (didn't bet)
+Seat 9: siomos66 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018689856:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:46:55 PT [2021/09/21 2:46:55 ET]
+Table 'Elnath III' 9-max Seat #3 is the button
+Seat 1: vSpongeBoBv ($2.32 in chips) 
+Seat 2: Dorex2007 ($2.75 in chips) 
+Seat 3: birgit233 ($0.80 in chips) 
+Seat 4: takeshie1971 ($1.08 in chips) 
+Seat 5: AVV_72008 ($3.81 in chips) 
+Seat 6: *VM*727 ($3.33 in chips) 
+Seat 7: DMF 211 ($1.58 in chips) 
+Seat 8: alexahk ($4.17 in chips) 
+Seat 9: siomos66 ($2.01 in chips) 
+takeshie1971: posts small blind $0.01
+AVV_72008: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Qd]
+*VM*727: folds 
+*VM*727 leaves the table
+DMF 211: folds 
+alexahk: folds 
+siomos66: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+birgit233: folds 
+takeshie1971: folds 
+Uncalled bet ($0.01) returned to AVV_72008
+AVV_72008 collected $0.02 from pot
+AVV_72008: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: birgit233 (button) folded before Flop (didn't bet)
+Seat 4: takeshie1971 (small blind) folded before Flop
+Seat 5: AVV_72008 (big blind) collected ($0.02)
+Seat 6: *VM*727 folded before Flop (didn't bet)
+Seat 7: DMF 211 folded before Flop (didn't bet)
+Seat 8: alexahk folded before Flop (didn't bet)
+Seat 9: siomos66 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018693003:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:47:18 PT [2021/09/21 2:47:18 ET]
+Table 'Elnath III' 9-max Seat #4 is the button
+Seat 1: vSpongeBoBv ($2.32 in chips) 
+Seat 2: Dorex2007 ($2.75 in chips) 
+Seat 3: birgit233 ($0.80 in chips) 
+Seat 4: takeshie1971 ($1.07 in chips) 
+Seat 5: AVV_72008 ($3.82 in chips) 
+Seat 7: DMF 211 ($1.58 in chips) 
+Seat 8: alexahk ($4.17 in chips) 
+Seat 9: siomos66 ($2.01 in chips) 
+AVV_72008: posts small blind $0.01
+DMF 211: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 7d]
+alexahk: folds 
+siomos66: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+birgit233: folds 
+takeshie1971: folds 
+AVV_72008: calls $0.01
+DMF 211: checks 
+*** FLOP *** [8s Jc 3s]
+AVV_72008: bets $0.04
+DMF 211: folds 
+Uncalled bet ($0.04) returned to AVV_72008
+AVV_72008 collected $0.04 from pot
+AVV_72008: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [8s Jc 3s]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: birgit233 folded before Flop (didn't bet)
+Seat 4: takeshie1971 (button) folded before Flop (didn't bet)
+Seat 5: AVV_72008 (small blind) collected ($0.04)
+Seat 7: DMF 211 (big blind) folded on the Flop
+Seat 8: alexahk folded before Flop (didn't bet)
+Seat 9: siomos66 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018696220:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:47:42 PT [2021/09/21 2:47:42 ET]
+Table 'Elnath III' 9-max Seat #5 is the button
+Seat 1: vSpongeBoBv ($2.32 in chips) 
+Seat 2: Dorex2007 ($2.75 in chips) 
+Seat 3: birgit233 ($0.80 in chips) 
+Seat 4: takeshie1971 ($1.07 in chips) 
+Seat 5: AVV_72008 ($3.84 in chips) 
+Seat 7: DMF 211 ($1.56 in chips) 
+Seat 8: alexahk ($4.17 in chips) 
+Seat 9: siomos66 ($2.01 in chips) 
+DMF 211: posts small blind $0.01
+alexahk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 8c]
+siomos66: folds 
+vSpongeBoBv: folds 
+Dorex2007: folds 
+birgit233: folds 
+takeshie1971: raises $0.04 to $0.06
+AVV_72008: folds 
+DMF 211: calls $0.05
+alexahk: folds 
+*** FLOP *** [5h 6c Kd]
+DMF 211: checks 
+takeshie1971: bets $0.07
+DMF 211: calls $0.07
+*** TURN *** [5h 6c Kd] [4c]
+DMF 211: checks 
+takeshie1971: checks 
+*** RIVER *** [5h 6c Kd 4c] [2h]
+DMF 211: checks 
+takeshie1971: checks 
+*** SHOW DOWN ***
+DMF 211: shows [Jc Jh] (a pair of Jacks)
+takeshie1971: mucks hand 
+DMF 211 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [5h 6c Kd 4c 2h]
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: birgit233 folded before Flop (didn't bet)
+Seat 4: takeshie1971 mucked [9d 6d]
+Seat 5: AVV_72008 (button) folded before Flop (didn't bet)
+Seat 7: DMF 211 (small blind) showed [Jc Jh] and won ($0.27) with a pair of Jacks
+Seat 8: alexahk (big blind) folded before Flop
+Seat 9: siomos66 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018701740:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:48:23 PT [2021/09/21 2:48:23 ET]
+Table 'Elnath III' 9-max Seat #7 is the button
+Seat 1: vSpongeBoBv ($2.32 in chips) 
+Seat 2: Dorex2007 ($2.75 in chips) 
+Seat 3: birgit233 ($0.80 in chips) 
+Seat 4: takeshie1971 ($1.44 in chips) 
+Seat 5: AVV_72008 ($3.84 in chips) 
+Seat 7: DMF 211 ($1.70 in chips) 
+Seat 8: alexahk ($4.15 in chips) 
+Seat 9: siomos66 ($2.01 in chips) 
+alexahk: posts small blind $0.01
+siomos66: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 3s]
+vSpongeBoBv has timed out
+vSpongeBoBv: folds 
+Dorex2007: folds 
+birgit233: raises $0.06 to $0.08
+takeshie1971: folds 
+AVV_72008: folds 
+DMF 211: folds 
+alexahk: folds 
+Gauthier514 joins the table at seat #6 
+siomos66: folds 
+Uncalled bet ($0.06) returned to birgit233
+birgit233 collected $0.05 from pot
+birgit233: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: vSpongeBoBv folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: birgit233 collected ($0.05)
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 7: DMF 211 (button) folded before Flop (didn't bet)
+Seat 8: alexahk (small blind) folded before Flop
+Seat 9: siomos66 (big blind) folded before Flop
+
+
+
+PokerStars Hand #230018705064:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:48:47 PT [2021/09/21 2:48:47 ET]
+Table 'Elnath III' 9-max Seat #8 is the button
+Seat 2: Dorex2007 ($2.75 in chips) 
+Seat 3: birgit233 ($0.83 in chips) 
+Seat 4: takeshie1971 ($1.44 in chips) 
+Seat 5: AVV_72008 ($3.84 in chips) 
+Seat 6: Gauthier514 ($0.80 in chips) 
+Seat 7: DMF 211 ($1.70 in chips) 
+Seat 8: alexahk ($4.14 in chips) 
+Seat 9: siomos66 ($2 in chips) 
+siomos66: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Gauthier514: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 3d]
+birgit233: folds 
+takeshie1971: folds 
+AVV_72008: calls $0.02
+Gauthier514: raises $0.02 to $0.04
+DMF 211: calls $0.04
+alexahk: folds 
+siomos66: folds 
+Dorex2007: folds 
+AVV_72008: folds 
+*** FLOP *** [9c 2h 8s]
+Gauthier514: bets $0.02
+DMF 211: calls $0.02
+*** TURN *** [9c 2h 8s] [Ac]
+Gauthier514: bets $0.08
+DMF 211: calls $0.08
+*** RIVER *** [9c 2h 8s Ac] [Jh]
+Gauthier514: bets $0.16
+DMF 211: calls $0.16
+*** SHOW DOWN ***
+Gauthier514: shows [Qs 8h] (a pair of Eights)
+DMF 211: shows [Ah Th] (a pair of Aces)
+DMF 211 collected $0.63 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [9c 2h 8s Ac Jh]
+Seat 2: Dorex2007 (big blind) folded before Flop
+Seat 3: birgit233 folded before Flop (didn't bet)
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop
+Seat 6: Gauthier514 showed [Qs 8h] and lost with a pair of Eights
+Seat 7: DMF 211 showed [Ah Th] and won ($0.63) with a pair of Aces
+Seat 8: alexahk (button) folded before Flop (didn't bet)
+Seat 9: siomos66 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230018713074:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:49:46 PT [2021/09/21 2:49:46 ET]
+Table 'Elnath III' 9-max Seat #9 is the button
+Seat 2: Dorex2007 ($2.73 in chips) 
+Seat 3: birgit233 ($0.83 in chips) 
+Seat 4: takeshie1971 ($1.44 in chips) 
+Seat 5: AVV_72008 ($3.82 in chips) 
+Seat 6: Gauthier514 ($0.50 in chips) 
+Seat 7: DMF 211 ($2.03 in chips) 
+Seat 8: alexahk ($4.14 in chips) 
+Seat 9: siomos66 ($2 in chips) 
+Dorex2007: posts small blind $0.01
+birgit233: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 5h]
+takeshie1971: folds 
+AVV_72008 has timed out
+AVV_72008: folds 
+Gauthier514: calls $0.02
+DMF 211: folds 
+alexahk: folds 
+siomos66: raises $0.07 to $0.09
+Dorex2007: folds 
+birgit233: folds 
+Gauthier514: raises $0.07 to $0.16
+siomos66: calls $0.07
+*** FLOP *** [Qc Td 6c]
+Gauthier514: bets $0.34 and is all-in
+siomos66: folds 
+Uncalled bet ($0.34) returned to Gauthier514
+Gauthier514 collected $0.34 from pot
+Gauthier514: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [Qc Td 6c]
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 3: birgit233 (big blind) folded before Flop
+Seat 4: takeshie1971 folded before Flop (didn't bet)
+Seat 5: AVV_72008 folded before Flop (didn't bet)
+Seat 6: Gauthier514 collected ($0.34)
+Seat 7: DMF 211 folded before Flop (didn't bet)
+Seat 8: alexahk folded before Flop (didn't bet)
+Seat 9: siomos66 (button) folded on the Flop
+
+
+
+PokerStars Hand #230018722609:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:50:56 PT [2021/09/21 2:50:56 ET]
+Table 'Elnath III' 9-max Seat #2 is the button
+Seat 2: Dorex2007 ($2.72 in chips) 
+Seat 3: birgit233 ($0.81 in chips) 
+Seat 4: takeshie1971 ($1.44 in chips) 
+Seat 6: Gauthier514 ($0.68 in chips) 
+Seat 7: DMF 211 ($2.03 in chips) 
+Seat 8: alexahk ($4.14 in chips) 
+Seat 9: siomos66 ($2 in chips) 
+birgit233: posts small blind $0.01
+takeshie1971: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 3d]
+Gauthier514: raises $0.02 to $0.04
+DMF 211: folds 
+alexahk: raises $0.11 to $0.15
+siomos66: folds 
+Dorex2007: folds 
+birgit233: folds 
+takeshie1971: folds 
+Gauthier514: raises $0.11 to $0.26
+alexahk: calls $0.11
+*** FLOP *** [Kh 4h 9h]
+Gauthier514: bets $0.42 and is all-in
+alexahk: calls $0.42
+vSpongeBoBv is disconnected 
+*** TURN *** [Kh 4h 9h] [Kc]
+*** RIVER *** [Kh 4h 9h Kc] [4c]
+*** SHOW DOWN ***
+Gauthier514: shows [8d 7d] (two pair, Kings and Fours)
+alexahk: shows [Ah Ks] (a full house, Kings full of Fours)
+alexahk collected $1.34 from pot
+*** SUMMARY ***
+Total pot $1.39 | Rake $0.05 
+Board [Kh 4h 9h Kc 4c]
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: birgit233 (small blind) folded before Flop
+Seat 4: takeshie1971 (big blind) folded before Flop
+Seat 6: Gauthier514 showed [8d 7d] and lost with two pair, Kings and Fours
+Seat 7: DMF 211 folded before Flop (didn't bet)
+Seat 8: alexahk showed [Ah Ks] and won ($1.34) with a full house, Kings full of Fours
+Seat 9: siomos66 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018727882:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:51:36 PT [2021/09/21 2:51:36 ET]
+Table 'Elnath III' 9-max Seat #3 is the button
+Seat 2: Dorex2007 ($2.72 in chips) 
+Seat 3: birgit233 ($0.80 in chips) 
+Seat 4: takeshie1971 ($1.42 in chips) 
+Seat 8: alexahk ($4.80 in chips) 
+Seat 9: siomos66 ($2 in chips) 
+takeshie1971: posts small blind $0.01
+DMF 211: is sitting out 
+alexahk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 9d]
+siomos66: folds 
+Gauthier514 leaves the table
+Dorex2007: raises $0.04 to $0.06
+birgit233: folds 
+takeshie1971: folds 
+alexahk: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Dorex2007 collected ($0.05)
+Seat 3: birgit233 (button) folded before Flop (didn't bet)
+Seat 4: takeshie1971 (small blind) folded before Flop
+Seat 8: alexahk (big blind) folded before Flop
+Seat 9: siomos66 folded before Flop (didn't bet)
+
+
+

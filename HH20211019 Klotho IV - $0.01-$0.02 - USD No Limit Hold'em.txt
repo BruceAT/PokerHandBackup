@@ -1,0 +1,3798 @@
+﻿PokerStars Hand #230720145716:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:12:08 PT [2021/10/19 1:12:08 ET]
+Table 'Klotho IV' 9-max Seat #5 is the button
+Seat 1: Scallum P ($1.87 in chips) 
+Seat 3: urka_epu ($2 in chips) 
+Seat 4: pinbotani ($2.88 in chips) 
+Seat 5: MrThomas28 ($2.32 in chips) 
+Seat 6: nobb777 ($1.73 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: KING DEMO691 ($1.30 in chips) 
+Seat 9: JMLPDC ($1.98 in chips) 
+nobb777: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*VM*727: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 3c]
+KING DEMO691: folds 
+JMLPDC: raises $0.02 to $0.04
+Scallum P: folds 
+urka_epu: folds 
+pinbotani: folds 
+MrThomas28: folds 
+nobb777: folds 
+Dorex2007: calls $0.02
+*** FLOP *** [7s Js As]
+Dorex2007: checks 
+JMLPDC: bets $0.05
+Dorex2007: folds 
+Uncalled bet ($0.05) returned to JMLPDC
+JMLPDC collected $0.09 from pot
+JMLPDC: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [7s Js As]
+Seat 1: Scallum P folded before Flop (didn't bet)
+Seat 3: urka_epu folded before Flop (didn't bet)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 (button) folded before Flop (didn't bet)
+Seat 6: nobb777 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded on the Flop
+Seat 8: KING DEMO691 folded before Flop (didn't bet)
+Seat 9: JMLPDC collected ($0.09)
+
+
+
+PokerStars Hand #230720149769:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:12:40 PT [2021/10/19 1:12:40 ET]
+Table 'Klotho IV' 9-max Seat #6 is the button
+Seat 1: Scallum P ($1.87 in chips) 
+Seat 3: urka_epu ($2 in chips) 
+Seat 4: pinbotani ($2.88 in chips) 
+Seat 5: MrThomas28 ($2.32 in chips) 
+Seat 6: nobb777 ($1.72 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 9: JMLPDC ($2.03 in chips) 
+Dorex2007: posts small blind $0.01
+KING DEMO691 has timed out
+KING DEMO691: is sitting out 
+JMLPDC: posts big blind $0.02
+*VM*727: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Jd]
+Scallum P: folds 
+urka_epu: raises $0.04 to $0.06
+pinbotani: folds 
+MrThomas28: folds 
+nobb777: folds 
+Dorex2007: folds 
+JMLPDC: calls $0.04
+*** FLOP *** [5d 6h Tc]
+JMLPDC: checks 
+urka_epu: bets $0.06
+JMLPDC: calls $0.06
+*** TURN *** [5d 6h Tc] [2d]
+JMLPDC: checks 
+urka_epu: checks 
+*** RIVER *** [5d 6h Tc 2d] [As]
+JMLPDC: checks 
+urka_epu: bets $0.16
+JMLPDC: raises $0.16 to $0.32
+urka_epu: calls $0.16
+*** SHOW DOWN ***
+JMLPDC: shows [Jh Qd] (high card Ace)
+urka_epu: shows [Ac Kc] (a pair of Aces)
+urka_epu collected $0.86 from pot
+*** SUMMARY ***
+Total pot $0.89 | Rake $0.03 
+Board [5d 6h Tc 2d As]
+Seat 1: Scallum P folded before Flop (didn't bet)
+Seat 3: urka_epu showed [Ac Kc] and won ($0.86) with a pair of Aces
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 folded before Flop (didn't bet)
+Seat 6: nobb777 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 9: JMLPDC (big blind) showed [Jh Qd] and lost with high card Ace
+
+
+
+PokerStars Hand #230720158585:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:13:50 PT [2021/10/19 1:13:50 ET]
+Table 'Klotho IV' 9-max Seat #7 is the button
+Seat 1: Scallum P ($1.87 in chips) 
+Seat 3: urka_epu ($2.42 in chips) 
+Seat 4: pinbotani ($2.88 in chips) 
+Seat 5: MrThomas28 ($2.32 in chips) 
+Seat 6: nobb777 ($1.72 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 9: JMLPDC ($1.59 in chips) 
+JMLPDC: posts small blind $0.01
+Scallum P: posts big blind $0.02
+*VM*727: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Ks]
+urka_epu: folds 
+pinbotani: folds 
+MrThomas28: folds 
+nobb777: calls $0.02
+Dorex2007: raises $0.04 to $0.06
+JMLPDC: raises $0.16 to $0.22
+Scallum P: calls $0.20
+nobb777: folds 
+Dorex2007: calls $0.16
+*** FLOP *** [8h 2d 3d]
+JMLPDC: bets $1.37 and is all-in
+Scallum P: folds 
+Dorex2007: folds 
+Uncalled bet ($1.37) returned to JMLPDC
+JMLPDC collected $0.66 from pot
+JMLPDC: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.68 | Rake $0.02 
+Board [8h 2d 3d]
+Seat 1: Scallum P (big blind) folded on the Flop
+Seat 3: urka_epu folded before Flop (didn't bet)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 folded before Flop (didn't bet)
+Seat 6: nobb777 folded before Flop
+Seat 7: Dorex2007 (button) folded on the Flop
+Seat 9: JMLPDC (small blind) collected ($0.66)
+
+
+
+PokerStars Hand #230720163517:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:14:28 PT [2021/10/19 1:14:28 ET]
+Table 'Klotho IV' 9-max Seat #9 is the button
+Seat 1: Scallum P ($1.65 in chips) 
+Seat 2: *VM*727 ($1.71 in chips) 
+Seat 3: urka_epu ($2.42 in chips) 
+Seat 4: pinbotani ($2.88 in chips) 
+Seat 5: MrThomas28 ($2.32 in chips) 
+Seat 6: nobb777 ($1.70 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: KING DEMO691 ($1.30 in chips) 
+Seat 9: JMLPDC ($2.03 in chips) 
+Scallum P: posts small blind $0.01
+*VM*727: posts big blind $0.02
+KING DEMO691: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Ks]
+urka_epu: folds 
+pinbotani: folds 
+MrThomas28: folds 
+nobb777: calls $0.02
+Dorex2007: calls $0.02
+KING DEMO691: checks 
+JMLPDC: raises $0.12 to $0.14
+Scallum P: folds 
+*VM*727: folds 
+nobb777: folds 
+Dorex2007: calls $0.12
+KING DEMO691: folds 
+*** FLOP *** [8d Td 8c]
+Dorex2007: checks 
+JMLPDC: bets $1.89 and is all-in
+Dorex2007: folds 
+Uncalled bet ($1.89) returned to JMLPDC
+JMLPDC collected $0.35 from pot
+JMLPDC: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [8d Td 8c]
+Seat 1: Scallum P (small blind) folded before Flop
+Seat 2: *VM*727 (big blind) folded before Flop
+Seat 3: urka_epu folded before Flop (didn't bet)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 folded before Flop (didn't bet)
+Seat 6: nobb777 folded before Flop
+Seat 7: Dorex2007 folded on the Flop
+Seat 8: KING DEMO691 folded before Flop (didn't bet)
+Seat 9: JMLPDC (button) collected ($0.35)
+
+
+
+PokerStars Hand #230720168360:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:15:06 PT [2021/10/19 1:15:06 ET]
+Table 'Klotho IV' 9-max Seat #1 is the button
+Seat 1: Scallum P ($1.64 in chips) 
+Seat 2: *VM*727 ($1.69 in chips) 
+Seat 3: urka_epu ($2.42 in chips) 
+Seat 4: pinbotani ($2.88 in chips) 
+Seat 5: MrThomas28 ($2.32 in chips) 
+Seat 6: nobb777 ($1.68 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: KING DEMO691 ($1.27 in chips) 
+Seat 9: JMLPDC ($2.24 in chips) 
+*VM*727: posts small blind $0.01
+urka_epu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Th]
+pinbotani: folds 
+MrThomas28: folds 
+nobb777: calls $0.02
+Dorex2007: folds 
+KING DEMO691: folds 
+JMLPDC: folds 
+JMLPDC leaves the table
+Scallum P: raises $0.10 to $0.12
+*VM*727: folds 
+urka_epu: folds 
+nobb777: folds 
+Uncalled bet ($0.10) returned to Scallum P
+Scallum P collected $0.07 from pot
+Scallum P: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Scallum P (button) collected ($0.07)
+Seat 2: *VM*727 (small blind) folded before Flop
+Seat 3: urka_epu (big blind) folded before Flop
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 folded before Flop (didn't bet)
+Seat 6: nobb777 folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KING DEMO691 folded before Flop (didn't bet)
+Seat 9: JMLPDC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720172900:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:15:42 PT [2021/10/19 1:15:42 ET]
+Table 'Klotho IV' 9-max Seat #2 is the button
+Seat 1: Scallum P ($1.69 in chips) 
+Seat 2: *VM*727 ($1.68 in chips) 
+Seat 3: urka_epu ($2.40 in chips) 
+Seat 4: pinbotani ($2.88 in chips) 
+Seat 5: MrThomas28 ($2.32 in chips) 
+Seat 6: nobb777 ($1.66 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: KING DEMO691 ($1.27 in chips) 
+urka_epu: posts small blind $0.01
+pinbotani: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 8c]
+MrThomas28: raises $0.04 to $0.06
+nobb777: folds 
+Dorex2007: folds 
+KING DEMO691: folds 
+Scallum P: folds 
+*VM*727: folds 
+urka_epu: folds 
+pinbotani: folds 
+Uncalled bet ($0.04) returned to MrThomas28
+MrThomas28 collected $0.05 from pot
+MrThomas28: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Scallum P folded before Flop (didn't bet)
+Seat 2: *VM*727 (button) folded before Flop (didn't bet)
+Seat 3: urka_epu (small blind) folded before Flop
+Seat 4: pinbotani (big blind) folded before Flop
+Seat 5: MrThomas28 collected ($0.05)
+Seat 6: nobb777 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KING DEMO691 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720174800:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:15:57 PT [2021/10/19 1:15:57 ET]
+Table 'Klotho IV' 9-max Seat #3 is the button
+Seat 1: Scallum P ($1.69 in chips) 
+Seat 2: *VM*727 ($1.68 in chips) 
+Seat 3: urka_epu ($2.39 in chips) 
+Seat 4: pinbotani ($2.86 in chips) 
+Seat 5: MrThomas28 ($2.35 in chips) 
+Seat 6: nobb777 ($1.66 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: KING DEMO691 ($1.27 in chips) 
+pinbotani: posts small blind $0.01
+MrThomas28: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 5d]
+nobb777: folds 
+Dorex2007: folds 
+KING DEMO691: calls $0.02
+Scallum P: folds 
+*VM*727: calls $0.02
+urka_epu: folds 
+pinbotani: folds 
+MrThomas28: checks 
+*** FLOP *** [Jc Kd Ks]
+MrThomas28: checks 
+KING DEMO691: checks 
+*VM*727: checks 
+*** TURN *** [Jc Kd Ks] [5c]
+MrThomas28: bets $0.04
+roma19765 joins the table at seat #9 
+KING DEMO691: folds 
+*VM*727: folds 
+Uncalled bet ($0.04) returned to MrThomas28
+MrThomas28 collected $0.07 from pot
+MrThomas28: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Jc Kd Ks 5c]
+Seat 1: Scallum P folded before Flop (didn't bet)
+Seat 2: *VM*727 folded on the Turn
+Seat 3: urka_epu (button) folded before Flop (didn't bet)
+Seat 4: pinbotani (small blind) folded before Flop
+Seat 5: MrThomas28 (big blind) collected ($0.07)
+Seat 6: nobb777 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KING DEMO691 folded on the Turn
+
+
+
+PokerStars Hand #230720180409:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:16:42 PT [2021/10/19 1:16:42 ET]
+Table 'Klotho IV' 9-max Seat #4 is the button
+Seat 1: Scallum P ($1.69 in chips) 
+Seat 2: *VM*727 ($1.66 in chips) 
+Seat 3: urka_epu ($2.39 in chips) 
+Seat 4: pinbotani ($2.85 in chips) 
+Seat 5: MrThomas28 ($2.40 in chips) 
+Seat 6: nobb777 ($1.66 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: KING DEMO691 ($1.25 in chips) 
+MrThomas28: posts small blind $0.01
+nobb777: posts big blind $0.02
+roma19765: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Td]
+Dorex2007: calls $0.02
+KING DEMO691: folds 
+Scallum P: folds 
+*VM*727: folds 
+urka_epu: folds 
+pinbotani: raises $0.06 to $0.08
+MrThomas28: folds 
+nobb777: folds 
+Dorex2007: calls $0.06
+*** FLOP *** [9s 5c Tc]
+Dorex2007: checks 
+pinbotani: bets $0.14
+Dorex2007: raises $0.46 to $0.60
+pinbotani: raises $2.17 to $2.77 and is all-in
+Dorex2007: calls $1.32 and is all-in
+Uncalled bet ($0.85) returned to pinbotani
+*** TURN *** [9s 5c Tc] [Js]
+*** RIVER *** [9s 5c Tc Js] [2s]
+*** SHOW DOWN ***
+Dorex2007: shows [Qh Td] (a pair of Tens)
+pinbotani: shows [5h 5s] (three of a kind, Fives)
+pinbotani collected $3.89 from pot
+*** SUMMARY ***
+Total pot $4.03 | Rake $0.14 
+Board [9s 5c Tc Js 2s]
+Seat 1: Scallum P folded before Flop (didn't bet)
+Seat 2: *VM*727 folded before Flop (didn't bet)
+Seat 3: urka_epu folded before Flop (didn't bet)
+Seat 4: pinbotani (button) showed [5h 5s] and won ($3.89) with three of a kind, Fives
+Seat 5: MrThomas28 (small blind) folded before Flop
+Seat 6: nobb777 (big blind) folded before Flop
+Seat 7: Dorex2007 showed [Qh Td] and lost with a pair of Tens
+Seat 8: KING DEMO691 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720186057:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:17:26 PT [2021/10/19 1:17:26 ET]
+Table 'Klotho IV' 9-max Seat #5 is the button
+Seat 1: Scallum P ($1.69 in chips) 
+Seat 2: *VM*727 ($1.66 in chips) 
+Seat 3: urka_epu ($2.39 in chips) 
+Seat 4: pinbotani ($4.74 in chips) 
+Seat 5: MrThomas28 ($2.39 in chips) 
+Seat 6: nobb777 ($1.64 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: KING DEMO691 ($1.25 in chips) 
+nobb777: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+roma19765: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Ts]
+KING DEMO691: folds 
+Scallum P: folds 
+*VM*727: folds 
+urka_epu: folds 
+pinbotani: folds 
+MrThomas28: raises $0.04 to $0.06
+nobb777: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to MrThomas28
+MrThomas28 collected $0.05 from pot
+MrThomas28: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Scallum P folded before Flop (didn't bet)
+Seat 2: *VM*727 folded before Flop (didn't bet)
+Seat 3: urka_epu folded before Flop (didn't bet)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 (button) collected ($0.05)
+Seat 6: nobb777 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: KING DEMO691 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720188892:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:17:49 PT [2021/10/19 1:17:49 ET]
+Table 'Klotho IV' 9-max Seat #6 is the button
+Seat 1: Scallum P ($1.69 in chips) 
+Seat 2: *VM*727 ($1.66 in chips) 
+Seat 3: urka_epu ($2.39 in chips) 
+Seat 4: pinbotani ($4.74 in chips) 
+Seat 5: MrThomas28 ($2.42 in chips) 
+Seat 6: nobb777 ($1.63 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: KING DEMO691 ($1.25 in chips) 
+Dorex2007: posts small blind $0.01
+KING DEMO691: posts big blind $0.02
+roma19765: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 9c]
+Scallum P has timed out
+Scallum P: folds 
+*VM*727: folds 
+urka_epu: folds 
+pinbotani: folds 
+MrThomas28: raises $0.04 to $0.06
+nobb777: calls $0.06
+Dorex2007: folds 
+KING DEMO691: folds 
+*** FLOP *** [7s 2d Ah]
+MrThomas28: bets $0.08
+nobb777: folds 
+Uncalled bet ($0.08) returned to MrThomas28
+MrThomas28 collected $0.14 from pot
+MrThomas28: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7s 2d Ah]
+Seat 1: Scallum P folded before Flop (didn't bet)
+Seat 2: *VM*727 folded before Flop (didn't bet)
+Seat 3: urka_epu folded before Flop (didn't bet)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 collected ($0.14)
+Seat 6: nobb777 (button) folded on the Flop
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: KING DEMO691 (big blind) folded before Flop
+
+
+
+PokerStars Hand #230720195374:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:18:42 PT [2021/10/19 1:18:42 ET]
+Table 'Klotho IV' 9-max Seat #7 is the button
+Seat 1: Scallum P ($1.69 in chips) 
+Seat 2: *VM*727 ($1.66 in chips) 
+Seat 3: urka_epu ($2.39 in chips) 
+Seat 4: pinbotani ($4.74 in chips) 
+Seat 5: MrThomas28 ($2.50 in chips) 
+Seat 6: nobb777 ($1.57 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: KING DEMO691 ($1.23 in chips) 
+Seat 9: roma19765 ($2 in chips) 
+KING DEMO691: posts small blind $0.01
+roma19765: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 9c]
+Scallum P: folds 
+*VM*727: raises $0.04 to $0.06
+urka_epu: folds 
+pinbotani: folds 
+Scallum P leaves the table
+MrThomas28: folds 
+nobb777: folds 
+Dorex2007: folds 
+KING DEMO691: calls $0.05
+roma19765: folds 
+*** FLOP *** [7d 3d Qd]
+KING DEMO691: checks 
+*VM*727: bets $0.07
+KING DEMO691: folds 
+Uncalled bet ($0.07) returned to *VM*727
+*VM*727 collected $0.14 from pot
+*VM*727: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [7d 3d Qd]
+Seat 1: Scallum P folded before Flop (didn't bet)
+Seat 2: *VM*727 collected ($0.14)
+Seat 3: urka_epu folded before Flop (didn't bet)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 folded before Flop (didn't bet)
+Seat 6: nobb777 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: KING DEMO691 (small blind) folded on the Flop
+Seat 9: roma19765 (big blind) folded before Flop
+
+
+
+PokerStars Hand #230720203918:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:19:16 PT [2021/10/19 1:19:16 ET]
+Table 'Klotho IV' 9-max Seat #8 is the button
+Seat 2: *VM*727 ($1.74 in chips) 
+Seat 3: urka_epu ($2.39 in chips) 
+Seat 4: pinbotani ($4.74 in chips) 
+Seat 5: MrThomas28 ($2.50 in chips) 
+Seat 6: nobb777 ($1.57 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: KING DEMO691 ($1.17 in chips) 
+Seat 9: roma19765 ($1.98 in chips) 
+roma19765: posts small blind $0.01
+*VM*727: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Tc]
+urka_epu: folds 
+pinbotani: folds 
+MrThomas28: folds 
+nobb777: folds 
+Dorex2007: folds 
+KING DEMO691: calls $0.02
+roma19765: calls $0.01
+*VM*727: checks 
+*** FLOP *** [4s Jh Qh]
+roma19765: checks 
+*VM*727: checks 
+KING DEMO691: checks 
+*** TURN *** [4s Jh Qh] [Jd]
+roma19765: checks 
+*VM*727: checks 
+KING DEMO691: checks 
+*** RIVER *** [4s Jh Qh Jd] [Qd]
+roma19765: checks 
+*VM*727: checks 
+KING DEMO691: checks 
+*** SHOW DOWN ***
+roma19765: shows [2h 6c] (two pair, Queens and Jacks)
+*VM*727: shows [2s 9s] (two pair, Queens and Jacks - Nine kicker)
+KING DEMO691: shows [Ah 9c] (two pair, Queens and Jacks - Ace kicker)
+KING DEMO691 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [4s Jh Qh Jd Qd]
+Seat 2: *VM*727 (big blind) showed [2s 9s] and lost with two pair, Queens and Jacks
+Seat 3: urka_epu folded before Flop (didn't bet)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 folded before Flop (didn't bet)
+Seat 6: nobb777 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KING DEMO691 (button) showed [Ah 9c] and won ($0.06) with two pair, Queens and Jacks
+Seat 9: roma19765 (small blind) showed [2h 6c] and lost with two pair, Queens and Jacks
+
+
+
+PokerStars Hand #230720208109:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:19:50 PT [2021/10/19 1:19:50 ET]
+Table 'Klotho IV' 9-max Seat #9 is the button
+Seat 2: *VM*727 ($1.72 in chips) 
+Seat 3: urka_epu ($2.39 in chips) 
+Seat 4: pinbotani ($4.74 in chips) 
+Seat 5: MrThomas28 ($2.50 in chips) 
+Seat 6: nobb777 ($1.57 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: KING DEMO691 ($1.21 in chips) 
+Seat 9: roma19765 ($1.96 in chips) 
+*VM*727: posts small blind $0.01
+urka_epu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Jd]
+pinbotani: folds 
+MrThomas28: folds 
+nobb777: folds 
+Dorex2007: raises $0.04 to $0.06
+KING DEMO691: folds 
+Roma_O._777 joins the table at seat #1 
+roma19765: calls $0.06
+*VM*727: folds 
+urka_epu: folds 
+*** FLOP *** [2s Ks 9d]
+Dorex2007: checks 
+roma19765: bets $0.07
+Dorex2007: calls $0.07
+*** TURN *** [2s Ks 9d] [6h]
+Dorex2007: checks 
+roma19765: bets $0.14
+Dorex2007: raises $0.56 to $0.70
+roma19765: folds 
+Uncalled bet ($0.56) returned to Dorex2007
+Dorex2007 collected $0.55 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [2s Ks 9d 6h]
+Seat 2: *VM*727 (small blind) folded before Flop
+Seat 3: urka_epu (big blind) folded before Flop
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 folded before Flop (didn't bet)
+Seat 6: nobb777 folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.55)
+Seat 8: KING DEMO691 folded before Flop (didn't bet)
+Seat 9: roma19765 (button) folded on the Turn
+
+
+
+PokerStars Hand #230720224189:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:20:44 PT [2021/10/19 1:20:44 ET]
+Table 'Klotho IV' 9-max Seat #2 is the button
+Seat 1: Roma_O._777 ($1.50 in chips) 
+Seat 2: *VM*727 ($1.71 in chips) 
+Seat 3: urka_epu ($2.37 in chips) 
+Seat 4: pinbotani ($4.74 in chips) 
+Seat 5: MrThomas28 ($2.50 in chips) 
+Seat 6: nobb777 ($1.57 in chips) 
+Seat 7: Dorex2007 ($2.28 in chips) 
+Seat 8: KING DEMO691 ($1.21 in chips) 
+Seat 9: roma19765 ($1.69 in chips) 
+urka_epu: posts small blind $0.01
+pinbotani: posts big blind $0.02
+Roma_O._777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 3c]
+MrThomas28: folds 
+nobb777: folds 
+Dorex2007: folds 
+KING DEMO691: raises $0.04 to $0.06
+roma19765: calls $0.06
+Roma_O._777: calls $0.04
+*VM*727: raises $1.65 to $1.71 and is all-in
+urka_epu: folds 
+pinbotani: folds 
+KING DEMO691: calls $1.15 and is all-in
+roma19765: folds 
+Roma_O._777: folds 
+Uncalled bet ($0.50) returned to *VM*727
+*** FLOP *** [8c 5s 6s]
+*** TURN *** [8c 5s 6s] [4d]
+*** RIVER *** [8c 5s 6s 4d] [9h]
+*** SHOW DOWN ***
+KING DEMO691: shows [Jc Ac] (high card Ace)
+*VM*727: shows [Kd Ks] (a pair of Kings)
+*VM*727 cashed out the hand for $1.65 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $2.57 | Rake $0.09 
+Board [8c 5s 6s 4d 9h]
+Seat 1: Roma_O._777 folded before Flop
+Seat 2: *VM*727 (button) showed [Kd Ks] and won ($2.48) with a pair of Kings (pot not awarded as player cashed out)
+Seat 3: urka_epu (small blind) folded before Flop
+Seat 4: pinbotani (big blind) folded before Flop
+Seat 5: MrThomas28 folded before Flop (didn't bet)
+Seat 6: nobb777 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KING DEMO691 showed [Jc Ac] and lost with high card Ace
+Seat 9: roma19765 folded before Flop
+
+
+
+PokerStars Hand #230720229139:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:21:24 PT [2021/10/19 1:21:24 ET]
+Table 'Klotho IV' 9-max Seat #3 is the button
+Seat 1: Roma_O._777 ($1.44 in chips) 
+Seat 2: *VM*727 ($2.15 in chips) 
+Seat 3: urka_epu ($2.36 in chips) 
+Seat 4: pinbotani ($4.72 in chips) 
+Seat 5: MrThomas28 ($2.50 in chips) 
+Seat 6: nobb777 ($1.57 in chips) 
+Seat 7: Dorex2007 ($2.28 in chips) 
+Seat 9: roma19765 ($1.63 in chips) 
+pinbotani: posts small blind $0.01
+MrThomas28: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 4s]
+nobb777: raises $0.02 to $0.04
+Dorex2007: calls $0.04
+roma19765: folds 
+Roma_O._777: calls $0.04
+*VM*727: folds 
+urka_epu: calls $0.04
+pinbotani: folds 
+MrThomas28: folds 
+*** FLOP *** [Jd 2d 2s]
+KING DEMO691 leaves the table
+nobb777: checks 
+Dorex2007: bets $0.18
+Roma_O._777: calls $0.18
+urka_epu: calls $0.18
+nobb777: calls $0.18
+*** TURN *** [Jd 2d 2s] [Th]
+nobb777: checks 
+Dorex2007: checks 
+Roma_O._777: checks 
+urka_epu: checks 
+*** RIVER *** [Jd 2d 2s Th] [Qd]
+nobb777: bets $0.16
+Dorex2007: folds 
+Roma_O._777: raises $0.60 to $0.76
+urka_epu: raises $1.38 to $2.14 and is all-in
+gosha277 joins the table at seat #8 
+nobb777: folds 
+gosha277 leaves the table
+Roma_O._777: calls $0.46 and is all-in
+Uncalled bet ($0.92) returned to urka_epu
+*** SHOW DOWN ***
+urka_epu: shows [8d Kd] (a flush, King high)
+Roma_O._777: shows [3d 5d] (a flush, Queen high)
+urka_epu collected $3.39 from pot
+*** SUMMARY ***
+Total pot $3.51 | Rake $0.12 
+Board [Jd 2d 2s Th Qd]
+Seat 1: Roma_O._777 showed [3d 5d] and lost with a flush, Queen high
+Seat 2: *VM*727 folded before Flop (didn't bet)
+Seat 3: urka_epu (button) showed [8d Kd] and won ($3.39) with a flush, King high
+Seat 4: pinbotani (small blind) folded before Flop
+Seat 5: MrThomas28 (big blind) folded before Flop
+Seat 6: nobb777 folded on the River
+Seat 7: Dorex2007 folded on the River
+Seat 9: roma19765 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720245787:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:22:37 PT [2021/10/19 1:22:37 ET]
+Table 'Klotho IV' 9-max Seat #4 is the button
+Seat 2: *VM*727 ($2.15 in chips) 
+Seat 3: urka_epu ($4.31 in chips) 
+Seat 4: pinbotani ($4.71 in chips) 
+Seat 5: MrThomas28 ($2.48 in chips) 
+Seat 6: nobb777 ($1.19 in chips) 
+Seat 7: Dorex2007 ($2.06 in chips) 
+Seat 9: roma19765 ($1.63 in chips) 
+MrThomas28: posts small blind $0.01
+nobb777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Tc]
+Dorex2007: folds 
+roma19765: folds 
+*VM*727: folds 
+urka_epu: folds 
+pinbotani: folds 
+tyzlit joins the table at seat #8 
+MrThomas28: folds 
+Uncalled bet ($0.01) returned to nobb777
+nobb777 collected $0.02 from pot
+nobb777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: *VM*727 folded before Flop (didn't bet)
+Seat 3: urka_epu folded before Flop (didn't bet)
+Seat 4: pinbotani (button) folded before Flop (didn't bet)
+Seat 5: MrThomas28 (small blind) folded before Flop
+Seat 6: nobb777 (big blind) collected ($0.02)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: roma19765 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720247909:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:22:55 PT [2021/10/19 1:22:55 ET]
+Table 'Klotho IV' 9-max Seat #5 is the button
+Seat 1: Roma_O._777 ($1 in chips) 
+Seat 2: *VM*727 ($2.15 in chips) 
+Seat 3: urka_epu ($4.31 in chips) 
+Seat 4: pinbotani ($4.71 in chips) 
+Seat 5: MrThomas28 ($2.47 in chips) 
+Seat 6: nobb777 ($1.20 in chips) 
+Seat 7: Dorex2007 ($2.06 in chips) 
+Seat 9: roma19765 ($1.63 in chips) 
+nobb777: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+tyzlit: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 5h]
+roma19765: folds 
+Roma_O._777: folds 
+*VM*727: folds 
+urka_epu: folds 
+pinbotani: raises $0.04 to $0.06
+MrThomas28: folds 
+nobb777: calls $0.05
+Dorex2007: calls $0.04
+*** FLOP *** [As Kh 8h]
+nobb777: checks 
+Dorex2007: bets $0.09
+pinbotani: folds 
+nobb777: folds 
+Uncalled bet ($0.09) returned to Dorex2007
+Dorex2007 collected $0.17 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [As Kh 8h]
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: *VM*727 folded before Flop (didn't bet)
+Seat 3: urka_epu folded before Flop (didn't bet)
+Seat 4: pinbotani folded on the Flop
+Seat 5: MrThomas28 (button) folded before Flop (didn't bet)
+Seat 6: nobb777 (small blind) folded on the Flop
+Seat 7: Dorex2007 (big blind) collected ($0.17)
+Seat 9: roma19765 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720254329:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:23:48 PT [2021/10/19 1:23:48 ET]
+Table 'Klotho IV' 9-max Seat #6 is the button
+Seat 1: Roma_O._777 ($1 in chips) 
+Seat 2: *VM*727 ($2.15 in chips) 
+Seat 3: urka_epu ($4.31 in chips) 
+Seat 4: pinbotani ($4.65 in chips) 
+Seat 5: MrThomas28 ($2.47 in chips) 
+Seat 6: nobb777 ($1.14 in chips) 
+Seat 7: Dorex2007 ($2.17 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.63 in chips) 
+Dorex2007: posts small blind $0.01
+tyzlit: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Jd]
+roma19765: folds 
+Roma_O._777: calls $0.02
+*VM*727: folds 
+urka_epu: folds 
+pinbotani: folds 
+MrThomas28: folds 
+nobb777: raises $0.02 to $0.04
+Dorex2007: folds 
+tyzlit: folds 
+Roma_O._777: calls $0.02
+*** FLOP *** [8s 8d Kh]
+Roma_O._777: checks 
+nobb777: bets $0.05
+Roma_O._777: folds 
+Uncalled bet ($0.05) returned to nobb777
+nobb777 collected $0.11 from pot
+nobb777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [8s 8d Kh]
+Seat 1: Roma_O._777 folded on the Flop
+Seat 2: *VM*727 folded before Flop (didn't bet)
+Seat 3: urka_epu folded before Flop (didn't bet)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 folded before Flop (didn't bet)
+Seat 6: nobb777 (button) collected ($0.11)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: tyzlit (big blind) folded before Flop
+Seat 9: roma19765 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720259025:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:24:25 PT [2021/10/19 1:24:25 ET]
+Table 'Klotho IV' 9-max Seat #7 is the button
+Seat 1: Roma_O._777 ($0.96 in chips) 
+Seat 2: *VM*727 ($2.15 in chips) 
+Seat 3: urka_epu ($4.31 in chips) 
+Seat 4: pinbotani ($4.65 in chips) 
+Seat 5: MrThomas28 ($2.47 in chips) 
+Seat 6: nobb777 ($1.21 in chips) 
+Seat 7: Dorex2007 ($2.16 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.63 in chips) 
+tyzlit: posts small blind $0.01
+roma19765: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad Qh]
+Roma_O._777: folds 
+*VM*727: calls $0.02
+urka_epu: raises $0.06 to $0.08
+pinbotani: folds 
+MrThomas28: folds 
+nobb777: folds 
+Dorex2007: calls $0.08
+tyzlit: folds 
+roma19765: folds 
+*VM*727: calls $0.06
+*** FLOP *** [5h 5d 5s]
+*VM*727: checks 
+urka_epu: checks 
+Dorex2007: bets $0.26
+*VM*727: folds 
+urka_epu: folds 
+Uncalled bet ($0.26) returned to Dorex2007
+Dorex2007 collected $0.26 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [5h 5d 5s]
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: *VM*727 folded on the Flop
+Seat 3: urka_epu folded on the Flop
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 folded before Flop (didn't bet)
+Seat 6: nobb777 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) collected ($0.26)
+Seat 8: tyzlit (small blind) folded before Flop
+Seat 9: roma19765 (big blind) folded before Flop
+
+
+
+PokerStars Hand #230720263380:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:25:01 PT [2021/10/19 1:25:01 ET]
+Table 'Klotho IV' 9-max Seat #8 is the button
+Seat 1: Roma_O._777 ($0.96 in chips) 
+Seat 2: *VM*727 ($2.07 in chips) 
+Seat 3: urka_epu ($4.23 in chips) 
+Seat 4: pinbotani ($4.65 in chips) 
+Seat 5: MrThomas28 ($2.47 in chips) 
+Seat 6: nobb777 ($1.21 in chips) 
+Seat 7: Dorex2007 ($2.34 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.61 in chips) 
+roma19765: posts small blind $0.01
+Roma_O._777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 4h]
+*VM*727: raises $0.02 to $0.04
+urka_epu: folds 
+pinbotani: folds 
+MrThomas28: folds 
+nobb777: folds 
+Dorex2007: folds 
+tyzlit: folds 
+roma19765: folds 
+Roma_O._777: calls $0.02
+*** FLOP *** [As 6h 5c]
+Roma_O._777: checks 
+*VM*727: bets $0.05
+Roma_O._777: calls $0.05
+*** TURN *** [As 6h 5c] [7h]
+Roma_O._777: checks 
+*VM*727: checks 
+*** RIVER *** [As 6h 5c 7h] [2h]
+Roma_O._777: checks 
+*VM*727: checks 
+*** SHOW DOWN ***
+Roma_O._777: shows [Jh 6s] (a pair of Sixes)
+*VM*727: mucks hand 
+Roma_O._777 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [As 6h 5c 7h 2h]
+Seat 1: Roma_O._777 (big blind) showed [Jh 6s] and won ($0.18) with a pair of Sixes
+Seat 2: *VM*727 mucked [Jd Kd]
+Seat 3: urka_epu folded before Flop (didn't bet)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 folded before Flop (didn't bet)
+Seat 6: nobb777 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit (button) folded before Flop (didn't bet)
+Seat 9: roma19765 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230720268708:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:25:43 PT [2021/10/19 1:25:43 ET]
+Table 'Klotho IV' 9-max Seat #9 is the button
+Seat 1: Roma_O._777 ($1.05 in chips) 
+Seat 2: *VM*727 ($1.98 in chips) 
+Seat 3: urka_epu ($4.23 in chips) 
+Seat 4: pinbotani ($4.65 in chips) 
+Seat 5: MrThomas28 ($2.47 in chips) 
+Seat 6: nobb777 ($1.21 in chips) 
+Seat 7: Dorex2007 ($2.34 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.60 in chips) 
+Roma_O._777: posts small blind $0.01
+*VM*727: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Jc]
+urka_epu: folds 
+pinbotani: folds 
+MrThomas28: folds 
+nobb777: folds 
+Dorex2007: raises $0.04 to $0.06
+tyzlit: folds 
+roma19765: folds 
+Roma_O._777: folds 
+*VM*727: calls $0.04
+*** FLOP *** [Ad 8d 3d]
+*VM*727: checks 
+Dorex2007: checks 
+*** TURN *** [Ad 8d 3d] [Td]
+*VM*727: bets $0.02
+Dorex2007: raises $0.11 to $0.13
+*VM*727: folds 
+Uncalled bet ($0.11) returned to Dorex2007
+Dorex2007 collected $0.16 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Ad 8d 3d Td]
+Seat 1: Roma_O._777 (small blind) folded before Flop
+Seat 2: *VM*727 (big blind) folded on the Turn
+Seat 3: urka_epu folded before Flop (didn't bet)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 folded before Flop (didn't bet)
+Seat 6: nobb777 folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.16)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: roma19765 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720273153:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:26:19 PT [2021/10/19 1:26:19 ET]
+Table 'Klotho IV' 9-max Seat #1 is the button
+Seat 1: Roma_O._777 ($1.04 in chips) 
+Seat 2: *VM*727 ($1.90 in chips) 
+Seat 3: urka_epu ($4.23 in chips) 
+Seat 4: pinbotani ($4.65 in chips) 
+Seat 5: MrThomas28 ($2.47 in chips) 
+Seat 6: nobb777 ($1.21 in chips) 
+Seat 7: Dorex2007 ($2.42 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.60 in chips) 
+*VM*727: posts small blind $0.01
+urka_epu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 5d]
+pinbotani: folds 
+MrThomas28: folds 
+nobb777: raises $0.02 to $0.04
+Dorex2007: folds 
+tyzlit: folds 
+roma19765: folds 
+Roma_O._777: folds 
+*VM*727: calls $0.03
+urka_epu: folds 
+*** FLOP *** [4h 4s 2s]
+*VM*727: checks 
+nobb777: bets $0.04
+*VM*727: folds 
+Uncalled bet ($0.04) returned to nobb777
+nobb777 collected $0.10 from pot
+nobb777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [4h 4s 2s]
+Seat 1: Roma_O._777 (button) folded before Flop (didn't bet)
+Seat 2: *VM*727 (small blind) folded on the Flop
+Seat 3: urka_epu (big blind) folded before Flop
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 folded before Flop (didn't bet)
+Seat 6: nobb777 collected ($0.10)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: roma19765 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720277770:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:26:56 PT [2021/10/19 1:26:56 ET]
+Table 'Klotho IV' 9-max Seat #2 is the button
+Seat 1: Roma_O._777 ($1.04 in chips) 
+Seat 2: *VM*727 ($1.86 in chips) 
+Seat 3: urka_epu ($4.21 in chips) 
+Seat 4: pinbotani ($4.65 in chips) 
+Seat 5: MrThomas28 ($2.47 in chips) 
+Seat 6: nobb777 ($1.27 in chips) 
+Seat 7: Dorex2007 ($2.42 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.60 in chips) 
+urka_epu: posts small blind $0.01
+pinbotani: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 8h]
+MrThomas28: raises $0.03 to $0.05
+nobb777: folds 
+Dorex2007: folds 
+tyzlit: folds 
+roma19765: folds 
+Roma_O._777: folds 
+*VM*727: folds 
+urka_epu: calls $0.04
+pinbotani: folds 
+*** FLOP *** [Kh 9h 7d]
+urka_epu: checks 
+MrThomas28: bets $0.07
+urka_epu: calls $0.07
+*** TURN *** [Kh 9h 7d] [6s]
+urka_epu: checks 
+MrThomas28: checks 
+*** RIVER *** [Kh 9h 7d 6s] [3d]
+urka_epu: checks 
+MrThomas28: bets $0.13
+urka_epu: calls $0.13
+*** SHOW DOWN ***
+MrThomas28: shows [Js Ks] (a pair of Kings)
+urka_epu: mucks hand 
+MrThomas28 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [Kh 9h 7d 6s 3d]
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: *VM*727 (button) folded before Flop (didn't bet)
+Seat 3: urka_epu (small blind) mucked [Qs 7s]
+Seat 4: pinbotani (big blind) folded before Flop
+Seat 5: MrThomas28 showed [Js Ks] and won ($0.50) with a pair of Kings
+Seat 6: nobb777 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: roma19765 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720282247:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:27:32 PT [2021/10/19 1:27:32 ET]
+Table 'Klotho IV' 9-max Seat #3 is the button
+Seat 1: Roma_O._777 ($1.04 in chips) 
+Seat 2: *VM*727 ($1.86 in chips) 
+Seat 3: urka_epu ($3.96 in chips) 
+Seat 4: pinbotani ($4.63 in chips) 
+Seat 5: MrThomas28 ($2.72 in chips) 
+Seat 6: nobb777 ($1.27 in chips) 
+Seat 7: Dorex2007 ($2.42 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.60 in chips) 
+pinbotani: posts small blind $0.01
+MrThomas28: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 9h]
+nobb777: raises $0.02 to $0.04
+Dorex2007: folds 
+tyzlit: folds 
+roma19765: folds 
+Roma_O._777: calls $0.04
+*VM*727: calls $0.04
+urka_epu: folds 
+urka_epu leaves the table
+pinbotani: folds 
+MrThomas28: folds 
+*** FLOP *** [9s 9d Jd]
+nobb777: checks 
+Roma_O._777: checks 
+*VM*727: checks 
+*** TURN *** [9s 9d Jd] [3d]
+neverich joins the table at seat #3 
+nobb777: checks 
+Roma_O._777: checks 
+*VM*727: checks 
+*** RIVER *** [9s 9d Jd 3d] [4h]
+nobb777: bets $0.06
+Roma_O._777: folds 
+*VM*727: folds 
+Uncalled bet ($0.06) returned to nobb777
+nobb777 collected $0.14 from pot
+nobb777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9s 9d Jd 3d 4h]
+Seat 1: Roma_O._777 folded on the River
+Seat 2: *VM*727 folded on the River
+Seat 3: urka_epu (button) folded before Flop (didn't bet)
+Seat 4: pinbotani (small blind) folded before Flop
+Seat 5: MrThomas28 (big blind) folded before Flop
+Seat 6: nobb777 collected ($0.14)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: roma19765 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720289158:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:28:27 PT [2021/10/19 1:28:27 ET]
+Table 'Klotho IV' 9-max Seat #4 is the button
+Seat 1: Roma_O._777 ($1 in chips) 
+Seat 2: *VM*727 ($1.82 in chips) 
+Seat 3: neverich ($0.80 in chips) 
+Seat 4: pinbotani ($4.62 in chips) 
+Seat 5: MrThomas28 ($2.70 in chips) 
+Seat 6: nobb777 ($1.37 in chips) 
+Seat 7: Dorex2007 ($2.42 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.60 in chips) 
+MrThomas28: posts small blind $0.01
+nobb777: posts big blind $0.02
+neverich: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 5h]
+Dorex2007: folds 
+tyzlit: folds 
+roma19765: folds 
+Roma_O._777: folds 
+*VM*727: folds 
+neverich: raises $0.02 to $0.04
+pinbotani: folds 
+MrThomas28: folds 
+nobb777: calls $0.02
+*** FLOP *** [9s 5c Td]
+nobb777: bets $0.04
+neverich: folds 
+Uncalled bet ($0.04) returned to nobb777
+nobb777 collected $0.09 from pot
+nobb777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [9s 5c Td]
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: *VM*727 folded before Flop (didn't bet)
+Seat 3: neverich folded on the Flop
+Seat 4: pinbotani (button) folded before Flop (didn't bet)
+Seat 5: MrThomas28 (small blind) folded before Flop
+Seat 6: nobb777 (big blind) collected ($0.09)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: roma19765 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720295247:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:29:18 PT [2021/10/19 1:29:18 ET]
+Table 'Klotho IV' 9-max Seat #5 is the button
+Seat 1: Roma_O._777 ($1 in chips) 
+Seat 2: *VM*727 ($1.82 in chips) 
+Seat 3: neverich ($0.76 in chips) 
+Seat 4: pinbotani ($4.62 in chips) 
+Seat 5: MrThomas28 ($2.69 in chips) 
+Seat 6: nobb777 ($1.42 in chips) 
+Seat 7: Dorex2007 ($2.42 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.60 in chips) 
+nobb777: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 8d]
+tyzlit: folds 
+roma19765: folds 
+Roma_O._777: folds 
+*VM*727: calls $0.02
+neverich: raises $0.03 to $0.05
+pinbotani: folds 
+MrThomas28: folds 
+nobb777: calls $0.04
+Dorex2007: folds 
+*VM*727: calls $0.03
+*** FLOP *** [2d 2c Jd]
+nobb777: checks 
+*VM*727: checks 
+neverich: bets $0.06
+nobb777: folds 
+*VM*727: folds 
+Uncalled bet ($0.06) returned to neverich
+neverich collected $0.16 from pot
+neverich: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [2d 2c Jd]
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: *VM*727 folded on the Flop
+Seat 3: neverich collected ($0.16)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 (button) folded before Flop (didn't bet)
+Seat 6: nobb777 (small blind) folded on the Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: roma19765 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720300888:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:30:04 PT [2021/10/19 1:30:04 ET]
+Table 'Klotho IV' 9-max Seat #6 is the button
+Seat 1: Roma_O._777 ($1 in chips) 
+Seat 2: *VM*727 ($1.77 in chips) 
+Seat 3: neverich ($0.87 in chips) 
+Seat 4: pinbotani ($4.62 in chips) 
+Seat 5: MrThomas28 ($2.69 in chips) 
+Seat 6: nobb777 ($1.37 in chips) 
+Seat 7: Dorex2007 ($2.40 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.60 in chips) 
+Dorex2007: posts small blind $0.01
+tyzlit: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Ac]
+roma19765 has timed out
+roma19765: folds 
+Roma_O._777: folds 
+*VM*727: calls $0.02
+neverich: raises $0.03 to $0.05
+pinbotani: calls $0.05
+MrThomas28: folds 
+nobb777: folds 
+Dorex2007: raises $0.15 to $0.20
+tyzlit: folds 
+*VM*727: folds 
+neverich: calls $0.15
+pinbotani: calls $0.15
+*** FLOP *** [9h 8s Qc]
+Dorex2007: bets $0.62
+neverich: folds 
+pinbotani: folds 
+Uncalled bet ($0.62) returned to Dorex2007
+Dorex2007 collected $0.62 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [9h 8s Qc]
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: *VM*727 folded before Flop
+Seat 3: neverich folded on the Flop
+Seat 4: pinbotani folded on the Flop
+Seat 5: MrThomas28 folded before Flop (didn't bet)
+Seat 6: nobb777 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) collected ($0.62)
+Seat 8: tyzlit (big blind) folded before Flop
+Seat 9: roma19765 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720308346:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:31:04 PT [2021/10/19 1:31:04 ET]
+Table 'Klotho IV' 9-max Seat #7 is the button
+Seat 1: Roma_O._777 ($1 in chips) 
+Seat 2: *VM*727 ($1.75 in chips) 
+Seat 3: neverich ($0.67 in chips) 
+Seat 4: pinbotani ($4.42 in chips) 
+Seat 5: MrThomas28 ($2.69 in chips) 
+Seat 6: nobb777 ($1.37 in chips) 
+Seat 7: Dorex2007 ($2.82 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.60 in chips) 
+tyzlit: posts small blind $0.01
+roma19765: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 5d]
+Roma_O._777: folds 
+*VM*727: folds 
+neverich: folds 
+pinbotani: folds 
+MrThomas28: folds 
+nobb777 has timed out
+nobb777: folds 
+Dorex2007: calls $0.02
+tyzlit: folds 
+roma19765: checks 
+*** FLOP *** [7s Td 2h]
+roma19765: checks 
+Dorex2007: checks 
+*** TURN *** [7s Td 2h] [9d]
+roma19765: bets $0.02
+Dorex2007: calls $0.02
+*** RIVER *** [7s Td 2h 9d] [5s]
+roma19765: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+roma19765: shows [9c 3s] (a pair of Nines)
+Dorex2007: mucks hand 
+roma19765 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [7s Td 2h 9d 5s]
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: *VM*727 folded before Flop (didn't bet)
+Seat 3: neverich folded before Flop (didn't bet)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 folded before Flop (didn't bet)
+Seat 6: nobb777 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) mucked [Ad 5d]
+Seat 8: tyzlit (small blind) folded before Flop
+Seat 9: roma19765 (big blind) showed [9c 3s] and won ($0.09) with a pair of Nines
+
+
+
+PokerStars Hand #230720314000:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:31:50 PT [2021/10/19 1:31:50 ET]
+Table 'Klotho IV' 9-max Seat #8 is the button
+Seat 1: Roma_O._777 ($1 in chips) 
+Seat 2: *VM*727 ($1.75 in chips) 
+Seat 3: neverich ($0.67 in chips) 
+Seat 4: pinbotani ($4.42 in chips) 
+Seat 5: MrThomas28 ($2.69 in chips) 
+Seat 6: nobb777 ($1.37 in chips) 
+Seat 7: Dorex2007 ($2.78 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.65 in chips) 
+roma19765: posts small blind $0.01
+Roma_O._777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 9s]
+*VM*727: folds 
+neverich: raises $0.03 to $0.05
+pinbotani: folds 
+MrThomas28: raises $0.13 to $0.18
+nobb777: folds 
+Dorex2007: folds 
+tyzlit: folds 
+roma19765: folds 
+Roma_O._777: calls $0.16
+neverich: folds 
+*** FLOP *** [3d 2s 7d]
+Roma_O._777: checks 
+MrThomas28: checks 
+*** TURN *** [3d 2s 7d] [Ks]
+Roma_O._777: checks 
+MrThomas28: bets $0.26
+Roma_O._777: folds 
+Uncalled bet ($0.26) returned to MrThomas28
+MrThomas28 collected $0.41 from pot
+MrThomas28: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [3d 2s 7d Ks]
+Seat 1: Roma_O._777 (big blind) folded on the Turn
+Seat 2: *VM*727 folded before Flop (didn't bet)
+Seat 3: neverich folded before Flop
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 collected ($0.41)
+Seat 6: nobb777 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit (button) folded before Flop (didn't bet)
+Seat 9: roma19765 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230720319635:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:32:36 PT [2021/10/19 1:32:36 ET]
+Table 'Klotho IV' 9-max Seat #9 is the button
+Seat 1: Roma_O._777 ($0.82 in chips) 
+Seat 2: *VM*727 ($1.75 in chips) 
+Seat 3: neverich ($0.62 in chips) 
+Seat 4: pinbotani ($4.42 in chips) 
+Seat 5: MrThomas28 ($2.92 in chips) 
+Seat 6: nobb777 ($1.37 in chips) 
+Seat 7: Dorex2007 ($2.78 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.64 in chips) 
+Roma_O._777: posts small blind $0.01
+*VM*727: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Ts]
+neverich: folds 
+pinbotani: folds 
+neverich leaves the table
+MrThomas28: raises $0.04 to $0.06
+nobb777: calls $0.06
+Dorex2007: folds 
+tyzlit: folds 
+roma19765: folds 
+Roma_O._777: folds 
+*VM*727: folds 
+*** FLOP *** [3h Js 4s]
+MrThomas28: bets $0.08
+nobb777: calls $0.08
+*** TURN *** [3h Js 4s] [2h]
+MrThomas28: checks 
+kiling1 joins the table at seat #3 
+nobb777: checks 
+*** RIVER *** [3h Js 4s 2h] [Ah]
+MrThomas28: checks 
+nobb777: bets $0.15
+MrThomas28: folds 
+Uncalled bet ($0.15) returned to nobb777
+nobb777 collected $0.30 from pot
+nobb777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [3h Js 4s 2h Ah]
+Seat 1: Roma_O._777 (small blind) folded before Flop
+Seat 2: *VM*727 (big blind) folded before Flop
+Seat 3: neverich folded before Flop (didn't bet)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 folded on the River
+Seat 6: nobb777 collected ($0.30)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: roma19765 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720326117:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:33:28 PT [2021/10/19 1:33:28 ET]
+Table 'Klotho IV' 9-max Seat #1 is the button
+Seat 1: Roma_O._777 ($0.81 in chips) 
+Seat 2: *VM*727 ($1.73 in chips) 
+Seat 3: kiling1 ($1.60 in chips) 
+Seat 4: pinbotani ($4.42 in chips) 
+Seat 5: MrThomas28 ($2.78 in chips) 
+Seat 6: nobb777 ($1.53 in chips) 
+Seat 7: Dorex2007 ($2.78 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.64 in chips) 
+*VM*727: posts small blind $0.01
+kiling1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 5h]
+pinbotani: folds 
+MrThomas28: folds 
+nobb777: calls $0.02
+Dorex2007 has timed out
+Dorex2007: folds 
+tyzlit: folds 
+roma19765: raises $0.06 to $0.08
+Roma_O._777: folds 
+*VM*727: folds 
+kiling1: folds 
+nobb777: calls $0.06
+*** FLOP *** [7d Jh 2d]
+nobb777: checks 
+roma19765: bets $0.09
+nobb777: calls $0.09
+*** TURN *** [7d Jh 2d] [6h]
+nobb777: checks 
+roma19765: checks 
+*** RIVER *** [7d Jh 2d 6h] [9c]
+nobb777: bets $0.12
+roma19765: calls $0.12
+*** SHOW DOWN ***
+nobb777: shows [9d Ad] (a pair of Nines)
+roma19765: mucks hand 
+nobb777 collected $0.59 from pot
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [7d Jh 2d 6h 9c]
+Seat 1: Roma_O._777 (button) folded before Flop (didn't bet)
+Seat 2: *VM*727 (small blind) folded before Flop
+Seat 3: kiling1 (big blind) folded before Flop
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 folded before Flop (didn't bet)
+Seat 6: nobb777 showed [9d Ad] and won ($0.59) with a pair of Nines
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: roma19765 mucked [8c 8h]
+
+
+
+PokerStars Hand #230720336878:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:34:54 PT [2021/10/19 1:34:54 ET]
+Table 'Klotho IV' 9-max Seat #2 is the button
+Seat 1: Roma_O._777 ($0.81 in chips) 
+Seat 2: *VM*727 ($1.72 in chips) 
+Seat 3: kiling1 ($1.58 in chips) 
+Seat 4: pinbotani ($4.42 in chips) 
+Seat 5: MrThomas28 ($2.78 in chips) 
+Seat 6: nobb777 ($1.83 in chips) 
+Seat 7: Dorex2007 ($2.78 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.35 in chips) 
+kiling1: posts small blind $0.01
+pinbotani: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Jh]
+MrThomas28: folds 
+nobb777: folds 
+Dorex2007: folds 
+nobb777 leaves the table
+tyzlit: folds 
+roma19765: folds 
+Roma_O._777: calls $0.02
+*VM*727: folds 
+kiling1: folds 
+pinbotani: checks 
+*** FLOP *** [3c 8s 4d]
+pinbotani: checks 
+Roma_O._777: bets $0.04
+nippy20 joins the table at seat #6 
+pinbotani: folds 
+Uncalled bet ($0.04) returned to Roma_O._777
+Roma_O._777 collected $0.05 from pot
+Roma_O._777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3c 8s 4d]
+Seat 1: Roma_O._777 collected ($0.05)
+Seat 2: *VM*727 (button) folded before Flop (didn't bet)
+Seat 3: kiling1 (small blind) folded before Flop
+Seat 4: pinbotani (big blind) folded on the Flop
+Seat 5: MrThomas28 folded before Flop (didn't bet)
+Seat 6: nobb777 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: roma19765 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720341101:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:35:28 PT [2021/10/19 1:35:28 ET]
+Table 'Klotho IV' 9-max Seat #3 is the button
+Seat 1: Roma_O._777 ($0.84 in chips) 
+Seat 2: *VM*727 ($1.72 in chips) 
+Seat 3: kiling1 ($1.57 in chips) 
+Seat 4: pinbotani ($4.40 in chips) 
+Seat 5: MrThomas28 ($2.78 in chips) 
+Seat 7: Dorex2007 ($2.78 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.35 in chips) 
+pinbotani: posts small blind $0.01
+MrThomas28: posts big blind $0.02
+nippy20: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 4d]
+Dorex2007: folds 
+tyzlit: folds 
+roma19765: folds 
+Roma_O._777: folds 
+*VM*727: folds 
+kiling1: raises $0.04 to $0.06
+pinbotani: raises $0.12 to $0.18
+MrThomas28: folds 
+kiling1: folds 
+Uncalled bet ($0.12) returned to pinbotani
+pinbotani collected $0.14 from pot
+pinbotani: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: *VM*727 folded before Flop (didn't bet)
+Seat 3: kiling1 (button) folded before Flop
+Seat 4: pinbotani (small blind) collected ($0.14)
+Seat 5: MrThomas28 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: roma19765 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720344957:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:35:59 PT [2021/10/19 1:35:59 ET]
+Table 'Klotho IV' 9-max Seat #4 is the button
+Seat 1: Roma_O._777 ($0.84 in chips) 
+Seat 2: *VM*727 ($1.72 in chips) 
+Seat 3: kiling1 ($1.51 in chips) 
+Seat 4: pinbotani ($4.48 in chips) 
+Seat 5: MrThomas28 ($2.76 in chips) 
+Seat 6: nippy20 ($1.50 in chips) 
+Seat 7: Dorex2007 ($2.78 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.35 in chips) 
+MrThomas28: posts small blind $0.01
+nippy20: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 5s]
+Dorex2007: folds 
+tyzlit: folds 
+roma19765: folds 
+Roma_O._777: calls $0.02
+*VM*727: calls $0.02
+kiling1: raises $0.09 to $0.11
+pinbotani: folds 
+MrThomas28: folds 
+nippy20: folds 
+Roma_O._777: folds 
+*VM*727: folds 
+Uncalled bet ($0.09) returned to kiling1
+kiling1 collected $0.09 from pot
+kiling1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: Roma_O._777 folded before Flop
+Seat 2: *VM*727 folded before Flop
+Seat 3: kiling1 collected ($0.09)
+Seat 4: pinbotani (button) folded before Flop (didn't bet)
+Seat 5: MrThomas28 (small blind) folded before Flop
+Seat 6: nippy20 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: roma19765 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720349292:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:36:35 PT [2021/10/19 1:36:35 ET]
+Table 'Klotho IV' 9-max Seat #5 is the button
+Seat 1: Roma_O._777 ($0.82 in chips) 
+Seat 2: *VM*727 ($1.70 in chips) 
+Seat 3: kiling1 ($1.58 in chips) 
+Seat 4: pinbotani ($4.48 in chips) 
+Seat 5: MrThomas28 ($2.75 in chips) 
+Seat 6: nippy20 ($1.48 in chips) 
+Seat 7: Dorex2007 ($2.78 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.35 in chips) 
+nippy20: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Tc]
+tyzlit: folds 
+roma19765: folds 
+Roma_O._777: calls $0.02
+*VM*727: calls $0.02
+kiling1: raises $0.08 to $0.10
+pinbotani: folds 
+MrThomas28: folds 
+nippy20: folds 
+Dorex2007: folds 
+Roma_O._777: calls $0.08
+*VM*727: folds 
+*** FLOP *** [Qs 3s 4c]
+Roma_O._777: checks 
+kiling1: checks 
+*** TURN *** [Qs 3s 4c] [3c]
+Roma_O._777: checks 
+kiling1: checks 
+*** RIVER *** [Qs 3s 4c 3c] [5d]
+Roma_O._777: checks 
+kiling1: checks 
+*** SHOW DOWN ***
+Roma_O._777: shows [8c Kc] (a pair of Threes)
+kiling1: mucks hand 
+Roma_O._777 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qs 3s 4c 3c 5d]
+Seat 1: Roma_O._777 showed [8c Kc] and won ($0.24) with a pair of Threes
+Seat 2: *VM*727 folded before Flop
+Seat 3: kiling1 mucked [Js Td]
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 (button) folded before Flop (didn't bet)
+Seat 6: nippy20 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: roma19765 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720357449:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:37:40 PT [2021/10/19 1:37:40 ET]
+Table 'Klotho IV' 9-max Seat #6 is the button
+Seat 1: Roma_O._777 ($0.96 in chips) 
+Seat 2: *VM*727 ($1.68 in chips) 
+Seat 3: kiling1 ($1.48 in chips) 
+Seat 4: pinbotani ($4.48 in chips) 
+Seat 5: MrThomas28 ($2.75 in chips) 
+Seat 6: nippy20 ($1.47 in chips) 
+Seat 7: Dorex2007 ($2.76 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.35 in chips) 
+Dorex2007: posts small blind $0.01
+tyzlit: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 4h]
+roma19765: folds 
+Roma_O._777: folds 
+*VM*727: calls $0.02
+kiling1: folds 
+pinbotani: folds 
+MrThomas28: raises $0.06 to $0.08
+nippy20: folds 
+Dorex2007: folds 
+tyzlit: folds 
+*VM*727: calls $0.06
+*** FLOP *** [3c 2d Js]
+*VM*727: checks 
+MrThomas28: checks 
+*** TURN *** [3c 2d Js] [Jh]
+*VM*727: checks 
+MrThomas28: checks 
+*** RIVER *** [3c 2d Js Jh] [4d]
+*VM*727: bets $0.09
+MrThomas28: calls $0.09
+*** SHOW DOWN ***
+*VM*727: shows [5h Ah] (a straight, Ace to Five)
+MrThomas28: mucks hand 
+*VM*727 collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [3c 2d Js Jh 4d]
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: *VM*727 showed [5h Ah] and won ($0.36) with a straight, Ace to Five
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 mucked [6c 6h]
+Seat 6: nippy20 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: tyzlit (big blind) folded before Flop
+Seat 9: roma19765 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720365745:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:38:46 PT [2021/10/19 1:38:46 ET]
+Table 'Klotho IV' 9-max Seat #7 is the button
+Seat 1: Roma_O._777 ($0.96 in chips) 
+Seat 2: *VM*727 ($1.87 in chips) 
+Seat 3: kiling1 ($1.48 in chips) 
+Seat 4: pinbotani ($4.48 in chips) 
+Seat 5: MrThomas28 ($2.58 in chips) 
+Seat 6: nippy20 ($1.47 in chips) 
+Seat 7: Dorex2007 ($2.75 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.35 in chips) 
+tyzlit: posts small blind $0.01
+roma19765: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 6d]
+Roma_O._777: calls $0.02
+*VM*727: folds 
+kiling1: raises $0.06 to $0.08
+pinbotani: folds 
+MrThomas28: folds 
+nippy20: folds 
+Dorex2007: folds 
+tyzlit: folds 
+roma19765: folds 
+Roma_O._777: calls $0.06
+*** FLOP *** [Qh Jc 8d]
+Roma_O._777: checks 
+kiling1: bets $0.07
+Roma_O._777: folds 
+Uncalled bet ($0.07) returned to kiling1
+kiling1 collected $0.18 from pot
+kiling1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Qh Jc 8d]
+Seat 1: Roma_O._777 folded on the Flop
+Seat 2: *VM*727 folded before Flop (didn't bet)
+Seat 3: kiling1 collected ($0.18)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 folded before Flop (didn't bet)
+Seat 6: nippy20 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: tyzlit (small blind) folded before Flop
+Seat 9: roma19765 (big blind) folded before Flop
+
+
+
+PokerStars Hand #230720369843:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:39:19 PT [2021/10/19 1:39:19 ET]
+Table 'Klotho IV' 9-max Seat #8 is the button
+Seat 1: Roma_O._777 ($0.88 in chips) 
+Seat 2: *VM*727 ($1.87 in chips) 
+Seat 3: kiling1 ($1.58 in chips) 
+Seat 4: pinbotani ($4.48 in chips) 
+Seat 5: MrThomas28 ($2.58 in chips) 
+Seat 6: nippy20 ($1.47 in chips) 
+Seat 7: Dorex2007 ($2.75 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.33 in chips) 
+roma19765: posts small blind $0.01
+Roma_O._777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Jc]
+*VM*727: folds 
+kiling1: folds 
+pinbotani: folds 
+MrThomas28: folds 
+nippy20: folds 
+Dorex2007: raises $0.04 to $0.06
+tyzlit: folds 
+roma19765: folds 
+Roma_O._777: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Roma_O._777 (big blind) folded before Flop
+Seat 2: *VM*727 folded before Flop (didn't bet)
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 folded before Flop (didn't bet)
+Seat 6: nippy20 folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.05)
+Seat 8: tyzlit (button) folded before Flop (didn't bet)
+Seat 9: roma19765 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230720372651:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:39:42 PT [2021/10/19 1:39:42 ET]
+Table 'Klotho IV' 9-max Seat #9 is the button
+Seat 1: Roma_O._777 ($0.86 in chips) 
+Seat 2: *VM*727 ($1.87 in chips) 
+Seat 3: kiling1 ($1.58 in chips) 
+Seat 4: pinbotani ($4.48 in chips) 
+Seat 5: MrThomas28 ($2.58 in chips) 
+Seat 6: nippy20 ($1.47 in chips) 
+Seat 7: Dorex2007 ($2.78 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.32 in chips) 
+Roma_O._777: posts small blind $0.01
+*VM*727: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Kh]
+kiling1: folds 
+pinbotani: folds 
+MrThomas28: folds 
+nippy20: folds 
+Dorex2007: folds 
+tyzlit: raises $0.03 to $0.05
+roma19765: folds 
+Roma_O._777: folds 
+*VM*727: calls $0.03
+*** FLOP *** [Ah 8d 9c]
+*VM*727: checks 
+tyzlit: checks 
+*** TURN *** [Ah 8d 9c] [Jd]
+*VM*727: bets $0.11
+tyzlit: calls $0.11
+*** RIVER *** [Ah 8d 9c Jd] [3h]
+*VM*727: bets $0.07
+tyzlit: folds 
+Uncalled bet ($0.07) returned to *VM*727
+*VM*727 collected $0.32 from pot
+*VM*727: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Ah 8d 9c Jd 3h]
+Seat 1: Roma_O._777 (small blind) folded before Flop
+Seat 2: *VM*727 (big blind) collected ($0.32)
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 folded before Flop (didn't bet)
+Seat 6: nippy20 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded on the River
+Seat 9: roma19765 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720378539:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:40:29 PT [2021/10/19 1:40:29 ET]
+Table 'Klotho IV' 9-max Seat #1 is the button
+Seat 1: Roma_O._777 ($0.85 in chips) 
+Seat 2: *VM*727 ($2.03 in chips) 
+Seat 3: kiling1 ($1.58 in chips) 
+Seat 4: pinbotani ($4.48 in chips) 
+Seat 5: MrThomas28 ($2.58 in chips) 
+Seat 6: nippy20 ($1.47 in chips) 
+Seat 7: Dorex2007 ($2.78 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($2 in chips) 
+*VM*727: posts small blind $0.01
+kiling1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Qd]
+pinbotani: folds 
+MrThomas28: folds 
+nippy20: folds 
+Dorex2007: folds 
+tyzlit: folds 
+roma19765: folds 
+Roma_O._777: folds 
+*VM*727 has timed out
+*VM*727: folds 
+Uncalled bet ($0.01) returned to kiling1
+kiling1 collected $0.02 from pot
+kiling1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Roma_O._777 (button) folded before Flop (didn't bet)
+Seat 2: *VM*727 (small blind) folded before Flop
+Seat 3: kiling1 (big blind) collected ($0.02)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: MrThomas28 folded before Flop (didn't bet)
+Seat 6: nippy20 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: roma19765 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720385348:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:41:23 PT [2021/10/19 1:41:23 ET]
+Table 'Klotho IV' 9-max Seat #3 is the button
+Seat 1: Roma_O._777 ($0.85 in chips) 
+Seat 3: kiling1 ($1.59 in chips) 
+Seat 4: pinbotani ($4.48 in chips) 
+Seat 6: nippy20 ($1.47 in chips) 
+Seat 7: Dorex2007 ($2.78 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($2 in chips) 
+pinbotani: posts small blind $0.01
+MrThomas28: is sitting out 
+nippy20: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 8h]
+Dorex2007: folds 
+tyzlit: folds 
+roma19765: raises $0.04 to $0.06
+Roma_O._777: calls $0.06
+kiling1: folds 
+pinbotani: folds 
+nippy20: calls $0.04
+*** FLOP *** [Jc 2c Tc]
+nippy20: checks 
+roma19765: checks 
+Roma_O._777: bets $0.09
+nippy20: folds 
+roma19765: calls $0.09
+*** TURN *** [Jc 2c Tc] [8c]
+roma19765: checks 
+Roma_O._777: checks 
+*** RIVER *** [Jc 2c Tc 8c] [Js]
+roma19765: bets $0.36
+Roma_O._777: raises $0.34 to $0.70 and is all-in
+roma19765: folds 
+Uncalled bet ($0.34) returned to Roma_O._777
+Roma_O._777 collected $1.05 from pot
+Roma_O._777: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.09 | Rake $0.04 
+Board [Jc 2c Tc 8c Js]
+Seat 1: Roma_O._777 collected ($1.05)
+Seat 3: kiling1 (button) folded before Flop (didn't bet)
+Seat 4: pinbotani (small blind) folded before Flop
+Seat 6: nippy20 (big blind) folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: roma19765 folded on the River
+
+
+
+PokerStars Hand #230720394331:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:42:35 PT [2021/10/19 1:42:35 ET]
+Table 'Klotho IV' 9-max Seat #4 is the button
+Seat 1: Roma_O._777 ($1.39 in chips) 
+Seat 3: kiling1 ($1.59 in chips) 
+Seat 4: pinbotani ($4.47 in chips) 
+Seat 6: nippy20 ($1.41 in chips) 
+Seat 7: Dorex2007 ($2.78 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.49 in chips) 
+nippy20: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Qh]
+tyzlit: folds 
+roma19765: folds 
+Roma_O._777: folds 
+kiling1: folds 
+pinbotani: folds 
+nippy20: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: pinbotani (button) folded before Flop (didn't bet)
+Seat 6: nippy20 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) collected ($0.02)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: roma19765 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720396825:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:42:56 PT [2021/10/19 1:42:56 ET]
+Table 'Klotho IV' 9-max Seat #6 is the button
+Seat 1: Roma_O._777 ($1.39 in chips) 
+Seat 2: *VM*727 ($2.02 in chips) 
+Seat 3: kiling1 ($1.59 in chips) 
+Seat 4: pinbotani ($4.47 in chips) 
+Seat 6: nippy20 ($1.40 in chips) 
+Seat 7: Dorex2007 ($2.79 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.49 in chips) 
+Dorex2007: posts small blind $0.01
+tyzlit: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 9h]
+roma19765: calls $0.02
+Roma_O._777: calls $0.02
+*VM*727: folds 
+kiling1: folds 
+pinbotani: raises $0.08 to $0.10
+nippy20: folds 
+Dorex2007: folds 
+tyzlit: folds 
+roma19765: folds 
+Roma_O._777: calls $0.08
+*** FLOP *** [5h Ad 7d]
+Roma_O._777: checks 
+MrThomas28 leaves the table
+pinbotani: bets $0.12
+*VM*727 leaves the table
+Roma_O._777: folds 
+Uncalled bet ($0.12) returned to pinbotani
+pinbotani collected $0.24 from pot
+pinbotani: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [5h Ad 7d]
+Seat 1: Roma_O._777 folded on the Flop
+Seat 2: *VM*727 folded before Flop (didn't bet)
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: pinbotani collected ($0.24)
+Seat 6: nippy20 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: tyzlit (big blind) folded before Flop
+Seat 9: roma19765 folded before Flop
+
+
+
+PokerStars Hand #230720401392:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:43:33 PT [2021/10/19 1:43:33 ET]
+Table 'Klotho IV' 9-max Seat #7 is the button
+Seat 1: Roma_O._777 ($1.29 in chips) 
+Seat 3: kiling1 ($1.59 in chips) 
+Seat 4: pinbotani ($4.61 in chips) 
+Seat 6: nippy20 ($1.40 in chips) 
+Seat 7: Dorex2007 ($2.78 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: roma19765 ($1.47 in chips) 
+tyzlit: posts small blind $0.01
+roma19765: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 8c]
+Roma_O._777: folds 
+kiling1 has timed out
+kiling1: folds 
+pinbotani: folds 
+nippy20: calls $0.02
+Dorex2007: raises $0.04 to $0.06
+tyzlit: folds 
+roma19765: folds 
+nippy20: calls $0.04
+*** FLOP *** [6d Tc 7s]
+roma19765 leaves the table
+nippy20: checks 
+Dorex2007: bets $0.14
+nippy20: raises $1.20 to $1.34 and is all-in
+Dorex2007: folds 
+Uncalled bet ($1.20) returned to nippy20
+nippy20 collected $0.41 from pot
+nippy20: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [6d Tc 7s]
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 6: nippy20 collected ($0.41)
+Seat 7: Dorex2007 (button) folded on the Flop
+Seat 8: tyzlit (small blind) folded before Flop
+Seat 9: roma19765 (big blind) folded before Flop
+
+
+
+PokerStars Hand #230720406929:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:44:17 PT [2021/10/19 1:44:17 ET]
+Table 'Klotho IV' 9-max Seat #8 is the button
+Seat 1: Roma_O._777 ($1.29 in chips) 
+Seat 3: kiling1 ($1.59 in chips) 
+Seat 4: pinbotani ($4.61 in chips) 
+Seat 6: nippy20 ($1.61 in chips) 
+Seat 7: Dorex2007 ($2.58 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Roma_O._777: posts small blind $0.01
+kiling1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 4d]
+pinbotani: folds 
+nippy20: folds 
+Dorex2007: folds 
+tyzlit: folds 
+Roma_O._777: folds 
+Uncalled bet ($0.01) returned to kiling1
+kiling1 collected $0.02 from pot
+kiling1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Roma_O._777 (small blind) folded before Flop
+Seat 3: kiling1 (big blind) collected ($0.02)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 6: nippy20 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720408739:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:44:32 PT [2021/10/19 1:44:32 ET]
+Table 'Klotho IV' 9-max Seat #1 is the button
+Seat 1: Roma_O._777 ($1.28 in chips) 
+Seat 3: kiling1 ($1.60 in chips) 
+Seat 4: pinbotani ($4.61 in chips) 
+Seat 6: nippy20 ($1.61 in chips) 
+Seat 7: Dorex2007 ($2.58 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+kiling1: posts small blind $0.01
+pinbotani: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Qc]
+nippy20: calls $0.02
+Dorex2007: folds 
+tyzlit: raises $0.10 to $0.12
+Roma_O._777: calls $0.12
+kiling1: folds 
+pinbotani: folds 
+nippy20: folds 
+*** FLOP *** [2d 8s Th]
+tyzlit: bets $0.20
+starik1965 joins the table at seat #5 
+Roma_O._777: folds 
+Uncalled bet ($0.20) returned to tyzlit
+tyzlit collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [2d 8s Th]
+Seat 1: Roma_O._777 (button) folded on the Flop
+Seat 3: kiling1 (small blind) folded before Flop
+Seat 4: pinbotani (big blind) folded before Flop
+Seat 6: nippy20 folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit collected ($0.28)
+
+
+
+PokerStars Hand #230720413871:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:45:13 PT [2021/10/19 1:45:13 ET]
+Table 'Klotho IV' 9-max Seat #3 is the button
+Seat 1: Roma_O._777 ($1.16 in chips) 
+Seat 3: kiling1 ($1.59 in chips) 
+Seat 4: pinbotani ($4.59 in chips) 
+Seat 5: starik1965 ($0.80 in chips) 
+Seat 6: nippy20 ($1.59 in chips) 
+Seat 7: Dorex2007 ($2.58 in chips) 
+Seat 8: tyzlit ($2.16 in chips) 
+pinbotani: posts small blind $0.01
+starik1965: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 3s]
+nippy20: folds 
+Dorex2007: folds 
+tyzlit: folds 
+Roma_O._777: folds 
+kiling1: folds 
+pinbotani: raises $0.04 to $0.06
+starik1965: folds 
+Uncalled bet ($0.04) returned to pinbotani
+pinbotani collected $0.04 from pot
+pinbotani: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 3: kiling1 (button) folded before Flop (didn't bet)
+Seat 4: pinbotani (small blind) collected ($0.04)
+Seat 5: starik1965 (big blind) folded before Flop
+Seat 6: nippy20 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720415469:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:45:26 PT [2021/10/19 1:45:26 ET]
+Table 'Klotho IV' 9-max Seat #4 is the button
+Seat 1: Roma_O._777 ($1.16 in chips) 
+Seat 3: kiling1 ($1.59 in chips) 
+Seat 4: pinbotani ($4.61 in chips) 
+Seat 5: starik1965 ($0.78 in chips) 
+Seat 6: nippy20 ($1.59 in chips) 
+Seat 7: Dorex2007 ($2.58 in chips) 
+Seat 8: tyzlit ($2.16 in chips) 
+starik1965: posts small blind $0.01
+nippy20: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 9s]
+Dorex2007: folds 
+tyzlit: folds 
+Roma_O._777: folds 
+kiling1: folds 
+pinbotani: raises $0.04 to $0.06
+starik1965: calls $0.05
+nippy20: folds 
+*** FLOP *** [Js 2d 5h]
+starik1965: bets $0.06
+sheriff640 joins the table at seat #2 
+pinbotani: calls $0.06
+*** TURN *** [Js 2d 5h] [3s]
+starik1965: checks 
+pinbotani: checks 
+*** RIVER *** [Js 2d 5h 3s] [Ts]
+starik1965: bets $0.66 and is all-in
+Mypka34 joins the table at seat #9 
+pinbotani: folds 
+Uncalled bet ($0.66) returned to starik1965
+starik1965 collected $0.25 from pot
+starik1965: shows [Qs 9d] (high card Queen)
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [Js 2d 5h 3s Ts]
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: pinbotani (button) folded on the River
+Seat 5: starik1965 (small blind) collected ($0.25)
+Seat 6: nippy20 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720424283:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:46:37 PT [2021/10/19 1:46:37 ET]
+Table 'Klotho IV' 9-max Seat #5 is the button
+Seat 1: Roma_O._777 ($1.16 in chips) 
+Seat 2: sheriff640 ($1.60 in chips) 
+Seat 3: kiling1 ($1.59 in chips) 
+Seat 4: pinbotani ($4.49 in chips) 
+Seat 5: starik1965 ($0.91 in chips) 
+Seat 6: nippy20 ($1.57 in chips) 
+Seat 7: Dorex2007 ($2.58 in chips) 
+Seat 8: tyzlit ($2.16 in chips) 
+Seat 9: Mypka34 ($1.60 in chips) 
+nippy20: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Mypka34: posts big blind $0.02
+sheriff640: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Jh]
+tyzlit: folds 
+Mypka34: checks 
+Roma_O._777: folds 
+sheriff640: checks 
+kiling1: folds 
+pinbotani: folds 
+starik1965: raises $0.09 to $0.11
+nippy20: folds 
+Dorex2007: folds 
+Mypka34: folds 
+sheriff640: folds 
+Uncalled bet ($0.09) returned to starik1965
+starik1965 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: sheriff640 folded before Flop (didn't bet)
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: starik1965 (button) collected ($0.09)
+Seat 6: nippy20 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: Mypka34 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720428254:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:47:09 PT [2021/10/19 1:47:09 ET]
+Table 'Klotho IV' 9-max Seat #6 is the button
+Seat 1: Roma_O._777 ($1.16 in chips) 
+Seat 2: sheriff640 ($1.58 in chips) 
+Seat 3: kiling1 ($1.59 in chips) 
+Seat 4: pinbotani ($4.49 in chips) 
+Seat 5: starik1965 ($0.98 in chips) 
+Seat 6: nippy20 ($1.56 in chips) 
+Seat 7: Dorex2007 ($2.56 in chips) 
+Seat 8: tyzlit ($2.16 in chips) 
+Seat 9: Mypka34 ($1.58 in chips) 
+Dorex2007: posts small blind $0.01
+tyzlit: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Ts]
+Mypka34: folds 
+Roma_O._777: folds 
+sheriff640: folds 
+kiling1: folds 
+pinbotani: folds 
+starik1965: folds 
+nippy20: folds 
+Dorex2007: raises $0.04 to $0.06
+tyzlit: raises $0.12 to $0.18
+Dorex2007: calls $0.12
+*** FLOP *** [8h 7s Js]
+Dorex2007: checks 
+tyzlit: checks 
+*** TURN *** [8h 7s Js] [5c]
+Dorex2007: bets $0.18
+tyzlit: folds 
+Uncalled bet ($0.18) returned to Dorex2007
+Dorex2007 collected $0.35 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [8h 7s Js 5c]
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: sheriff640 folded before Flop (didn't bet)
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: starik1965 folded before Flop (didn't bet)
+Seat 6: nippy20 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) collected ($0.35)
+Seat 8: tyzlit (big blind) folded on the Turn
+Seat 9: Mypka34 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720433941:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:47:54 PT [2021/10/19 1:47:54 ET]
+Table 'Klotho IV' 9-max Seat #7 is the button
+Seat 1: Roma_O._777 ($1.16 in chips) 
+Seat 2: sheriff640 ($1.58 in chips) 
+Seat 3: kiling1 ($1.59 in chips) 
+Seat 4: pinbotani ($4.49 in chips) 
+Seat 5: starik1965 ($0.98 in chips) 
+Seat 6: nippy20 ($1.56 in chips) 
+Seat 7: Dorex2007 ($2.73 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.58 in chips) 
+tyzlit: posts small blind $0.01
+Mypka34: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 9s]
+Roma_O._777: folds 
+sheriff640: folds 
+kiling1: folds 
+pinbotani: folds 
+starik1965: calls $0.02
+nippy20: folds 
+Dorex2007: folds 
+tyzlit: folds 
+Mypka34: raises $0.02 to $0.04
+starik1965: calls $0.02
+*** FLOP *** [7s 2d 5c]
+Mypka34: checks 
+starik1965: checks 
+*** TURN *** [7s 2d 5c] [Ks]
+Mypka34: bets $0.02
+starik1965: folds 
+Uncalled bet ($0.02) returned to Mypka34
+Mypka34 collected $0.09 from pot
+Mypka34: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [7s 2d 5c Ks]
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: sheriff640 folded before Flop (didn't bet)
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: starik1965 folded on the Turn
+Seat 6: nippy20 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: tyzlit (small blind) folded before Flop
+Seat 9: Mypka34 (big blind) collected ($0.09)
+
+
+
+PokerStars Hand #230720438332:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:48:29 PT [2021/10/19 1:48:29 ET]
+Table 'Klotho IV' 9-max Seat #8 is the button
+Seat 1: Roma_O._777 ($1.16 in chips) 
+Seat 2: sheriff640 ($1.58 in chips) 
+Seat 3: kiling1 ($1.59 in chips) 
+Seat 4: pinbotani ($4.49 in chips) 
+Seat 5: starik1965 ($0.94 in chips) 
+Seat 6: nippy20 ($1.56 in chips) 
+Seat 7: Dorex2007 ($2.73 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.63 in chips) 
+Mypka34: posts small blind $0.01
+Roma_O._777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 8d]
+sheriff640: folds 
+kiling1: folds 
+pinbotani: folds 
+starik1965: folds 
+nippy20: folds 
+Dorex2007: raises $0.04 to $0.06
+tyzlit: folds 
+Mypka34: folds 
+Roma_O._777: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Roma_O._777 (big blind) folded before Flop
+Seat 2: sheriff640 folded before Flop (didn't bet)
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: starik1965 folded before Flop (didn't bet)
+Seat 6: nippy20 folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.05)
+Seat 8: tyzlit (button) folded before Flop (didn't bet)
+Seat 9: Mypka34 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230720441228:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:48:52 PT [2021/10/19 1:48:52 ET]
+Table 'Klotho IV' 9-max Seat #9 is the button
+Seat 1: Roma_O._777 ($1.14 in chips) 
+Seat 2: sheriff640 ($1.58 in chips) 
+Seat 3: kiling1 ($1.59 in chips) 
+Seat 4: pinbotani ($4.49 in chips) 
+Seat 5: starik1965 ($0.94 in chips) 
+Seat 6: nippy20 ($1.56 in chips) 
+Seat 7: Dorex2007 ($2.76 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.62 in chips) 
+Roma_O._777: posts small blind $0.01
+sheriff640: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 3d]
+kiling1: folds 
+pinbotani: folds 
+starik1965: folds 
+nippy20: folds 
+Dorex2007: folds 
+tyzlit: folds 
+Mypka34: raises $0.04 to $0.06
+Roma_O._777: folds 
+sheriff640: folds 
+Uncalled bet ($0.04) returned to Mypka34
+Mypka34 collected $0.05 from pot
+Mypka34: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Roma_O._777 (small blind) folded before Flop
+Seat 2: sheriff640 (big blind) folded before Flop
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: starik1965 folded before Flop (didn't bet)
+Seat 6: nippy20 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: Mypka34 (button) collected ($0.05)
+
+
+
+PokerStars Hand #230720443609:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:49:11 PT [2021/10/19 1:49:11 ET]
+Table 'Klotho IV' 9-max Seat #1 is the button
+Seat 1: Roma_O._777 ($1.13 in chips) 
+Seat 2: sheriff640 ($1.56 in chips) 
+Seat 3: kiling1 ($1.59 in chips) 
+Seat 4: pinbotani ($4.49 in chips) 
+Seat 5: starik1965 ($0.94 in chips) 
+Seat 6: nippy20 ($1.56 in chips) 
+Seat 7: Dorex2007 ($2.76 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.65 in chips) 
+sheriff640: posts small blind $0.01
+kiling1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Kd]
+pinbotani: folds 
+starik1965: raises $0.02 to $0.04
+nippy20: calls $0.04
+Dorex2007: folds 
+tyzlit: folds 
+Mypka34: folds 
+Roma_O._777: folds 
+sheriff640: calls $0.03
+kiling1: folds 
+*** FLOP *** [4h 6d 2c]
+sheriff640: checks 
+starik1965: checks 
+nippy20: checks 
+*** TURN *** [4h 6d 2c] [5s]
+sheriff640: checks 
+starik1965: checks 
+nippy20: checks 
+*** RIVER *** [4h 6d 2c 5s] [Kh]
+sheriff640: bets $0.02
+starik1965: calls $0.02
+nippy20: folds 
+*** SHOW DOWN ***
+sheriff640: shows [7c 7s] (a pair of Sevens)
+starik1965: shows [Ks Qd] (a pair of Kings)
+starik1965 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [4h 6d 2c 5s Kh]
+Seat 1: Roma_O._777 (button) folded before Flop (didn't bet)
+Seat 2: sheriff640 (small blind) showed [7c 7s] and lost with a pair of Sevens
+Seat 3: kiling1 (big blind) folded before Flop
+Seat 4: pinbotani folded before Flop (didn't bet)
+Seat 5: starik1965 showed [Ks Qd] and won ($0.17) with a pair of Kings
+Seat 6: nippy20 folded on the River
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: Mypka34 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720450887:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:50:10 PT [2021/10/19 1:50:10 ET]
+Table 'Klotho IV' 9-max Seat #2 is the button
+Seat 1: Roma_O._777 ($1.13 in chips) 
+Seat 2: sheriff640 ($1.50 in chips) 
+Seat 3: kiling1 ($1.57 in chips) 
+Seat 5: starik1965 ($1.05 in chips) 
+Seat 6: nippy20 ($1.52 in chips) 
+Seat 7: Dorex2007 ($2.76 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.65 in chips) 
+kiling1: posts small blind $0.01
+pinbotani: is sitting out 
+starik1965: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 7h]
+pinbotani leaves the table
+nippy20: folds 
+Dorex2007: folds 
+tyzlit: folds 
+Mypka34: folds 
+Roma_O._777: folds 
+sheriff640: calls $0.02
+kiling1: calls $0.01
+starik1965: checks 
+*** FLOP *** [Jd Th Ad]
+kiling1: checks 
+starik1965: checks 
+sheriff640: bets $0.02
+kiling1: folds 
+starik1965: folds 
+Uncalled bet ($0.02) returned to sheriff640
+sheriff640 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Jd Th Ad]
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: sheriff640 (button) collected ($0.06)
+Seat 3: kiling1 (small blind) folded on the Flop
+Seat 5: starik1965 (big blind) folded on the Flop
+Seat 6: nippy20 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: Mypka34 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720455938:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:50:50 PT [2021/10/19 1:50:50 ET]
+Table 'Klotho IV' 9-max Seat #3 is the button
+Seat 1: Roma_O._777 ($1.13 in chips) 
+Seat 2: sheriff640 ($1.54 in chips) 
+Seat 3: kiling1 ($1.55 in chips) 
+Seat 5: starik1965 ($1.03 in chips) 
+Seat 6: nippy20 ($1.52 in chips) 
+Seat 7: Dorex2007 ($2.76 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.65 in chips) 
+starik1965: posts small blind $0.01
+nippy20: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 7d]
+Dorex2007: folds 
+tyzlit: folds 
+Mypka34: calls $0.02
+Roma_O._777: folds 
+sheriff640: folds 
+kiling1: calls $0.02
+starik1965: calls $0.01
+nippy20: checks 
+*** FLOP *** [3c 5s 3h]
+williams9897819 joins the table at seat #4 
+starik1965: checks 
+nippy20: checks 
+Mypka34: bets $0.02
+kiling1: calls $0.02
+starik1965: folds 
+nippy20: folds 
+*** TURN *** [3c 5s 3h] [2h]
+Mypka34: bets $0.02
+kiling1: folds 
+Uncalled bet ($0.02) returned to Mypka34
+Mypka34 collected $0.12 from pot
+Mypka34: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [3c 5s 3h 2h]
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: sheriff640 folded before Flop (didn't bet)
+Seat 3: kiling1 (button) folded on the Turn
+Seat 5: starik1965 (small blind) folded on the Flop
+Seat 6: nippy20 (big blind) folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: Mypka34 collected ($0.12)
+
+
+
+PokerStars Hand #230720462609:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:51:43 PT [2021/10/19 1:51:43 ET]
+Table 'Klotho IV' 9-max Seat #5 is the button
+Seat 1: Roma_O._777 ($1.13 in chips) 
+Seat 2: sheriff640 ($1.54 in chips) 
+Seat 3: kiling1 ($1.51 in chips) 
+Seat 4: williams9897819 ($1.60 in chips) 
+Seat 5: starik1965 ($1.01 in chips) 
+Seat 6: nippy20 ($1.50 in chips) 
+Seat 7: Dorex2007 ($2.76 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.73 in chips) 
+nippy20: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+williams9897819: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Ad]
+tyzlit: folds 
+Mypka34: folds 
+Roma_O._777: folds 
+sheriff640: folds 
+kiling1 has timed out
+kiling1: folds 
+williams9897819: checks 
+starik1965: folds 
+nippy20: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [4h 3c Ac]
+nippy20: checks 
+Dorex2007: checks 
+williams9897819: checks 
+*** TURN *** [4h 3c Ac] [6d]
+nippy20: checks 
+Dorex2007: bets $0.06
+williams9897819: folds 
+nippy20: folds 
+Uncalled bet ($0.06) returned to Dorex2007
+Dorex2007 collected $0.06 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [4h 3c Ac 6d]
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: sheriff640 folded before Flop (didn't bet)
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: williams9897819 folded on the Turn (didn't bet)
+Seat 5: starik1965 (button) folded before Flop (didn't bet)
+Seat 6: nippy20 (small blind) folded on the Turn
+Seat 7: Dorex2007 (big blind) collected ($0.06)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: Mypka34 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720468376:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:52:29 PT [2021/10/19 1:52:29 ET]
+Table 'Klotho IV' 9-max Seat #6 is the button
+Seat 1: Roma_O._777 ($1.13 in chips) 
+Seat 2: sheriff640 ($1.54 in chips) 
+Seat 3: kiling1 ($1.51 in chips) 
+Seat 4: williams9897819 ($1.58 in chips) 
+Seat 5: starik1965 ($1.01 in chips) 
+Seat 6: nippy20 ($1.48 in chips) 
+Seat 7: Dorex2007 ($2.80 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.73 in chips) 
+Dorex2007: posts small blind $0.01
+tyzlit: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Jd]
+Mypka34: raises $0.02 to $0.04
+Roma_O._777: calls $0.04
+sheriff640: folds 
+kiling1: folds 
+williams9897819: calls $0.04
+starik1965: calls $0.04
+nippy20: folds 
+Dorex2007: folds 
+tyzlit: folds 
+*** FLOP *** [9c Qh 9d]
+Mypka34: checks 
+Roma_O._777: checks 
+williams9897819: checks 
+starik1965: checks 
+*** TURN *** [9c Qh 9d] [Kc]
+Mypka34: checks 
+Roma_O._777: checks 
+williams9897819: checks 
+starik1965: bets $0.02
+Mypka34: calls $0.02
+Roma_O._777: calls $0.02
+williams9897819: folds 
+*** RIVER *** [9c Qh 9d Kc] [Th]
+Mypka34: checks 
+Roma_O._777: checks 
+starik1965: bets $0.10
+Mypka34: folds 
+Roma_O._777: folds 
+Uncalled bet ($0.10) returned to starik1965
+starik1965 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9c Qh 9d Kc Th]
+Seat 1: Roma_O._777 folded on the River
+Seat 2: sheriff640 folded before Flop (didn't bet)
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: williams9897819 folded on the Turn
+Seat 5: starik1965 collected ($0.24)
+Seat 6: nippy20 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: tyzlit (big blind) folded before Flop
+Seat 9: Mypka34 folded on the River
+
+
+
+PokerStars Hand #230720475342:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:53:25 PT [2021/10/19 1:53:25 ET]
+Table 'Klotho IV' 9-max Seat #7 is the button
+Seat 1: Roma_O._777 ($1.07 in chips) 
+Seat 2: sheriff640 ($1.54 in chips) 
+Seat 3: kiling1 ($1.51 in chips) 
+Seat 4: williams9897819 ($1.54 in chips) 
+Seat 5: starik1965 ($1.19 in chips) 
+Seat 6: nippy20 ($1.48 in chips) 
+Seat 7: Dorex2007 ($2.79 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.67 in chips) 
+tyzlit: posts small blind $0.01
+Mypka34: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Jh]
+Roma_O._777: folds 
+sheriff640: folds 
+kiling1: folds 
+williams9897819: folds 
+starik1965: calls $0.02
+nippy20: calls $0.02
+Dorex2007: folds 
+tyzlit: folds 
+Mypka34: checks 
+*** FLOP *** [2c 4d Tc]
+Mypka34: checks 
+starik1965: checks 
+nippy20: checks 
+*** TURN *** [2c 4d Tc] [8c]
+Mypka34: checks 
+starik1965: checks 
+nippy20: checks 
+*** RIVER *** [2c 4d Tc 8c] [3h]
+Mypka34: checks 
+starik1965: checks 
+nippy20: checks 
+*** SHOW DOWN ***
+Mypka34: shows [6s 7h] (high card Ten)
+starik1965: shows [Ah 8s] (a pair of Eights)
+nippy20: mucks hand 
+starik1965 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [2c 4d Tc 8c 3h]
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: sheriff640 folded before Flop (didn't bet)
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: williams9897819 folded before Flop (didn't bet)
+Seat 5: starik1965 showed [Ah 8s] and won ($0.07) with a pair of Eights
+Seat 6: nippy20 mucked [As Qc]
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: tyzlit (small blind) folded before Flop
+Seat 9: Mypka34 (big blind) showed [6s 7h] and lost with high card Ten
+
+
+
+PokerStars Hand #230720480796:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:54:09 PT [2021/10/19 1:54:09 ET]
+Table 'Klotho IV' 9-max Seat #8 is the button
+Seat 1: Roma_O._777 ($1.07 in chips) 
+Seat 2: sheriff640 ($1.54 in chips) 
+Seat 3: kiling1 ($1.51 in chips) 
+Seat 4: williams9897819 ($1.54 in chips) 
+Seat 5: starik1965 ($1.24 in chips) 
+Seat 6: nippy20 ($1.46 in chips) 
+Seat 7: Dorex2007 ($2.79 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.65 in chips) 
+Mypka34: posts small blind $0.01
+Roma_O._777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 6c]
+sheriff640: folds 
+kiling1: folds 
+williams9897819: folds 
+starik1965: calls $0.02
+nippy20: folds 
+Dorex2007: calls $0.02
+tyzlit: folds 
+Mypka34: calls $0.01
+Roma_O._777: checks 
+*** FLOP *** [Kc 4s 7s]
+Mypka34: checks 
+Roma_O._777: bets $0.04
+starik1965: folds 
+Dorex2007: folds 
+Mypka34: folds 
+Uncalled bet ($0.04) returned to Roma_O._777
+Roma_O._777 collected $0.08 from pot
+Roma_O._777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Kc 4s 7s]
+Seat 1: Roma_O._777 (big blind) collected ($0.08)
+Seat 2: sheriff640 folded before Flop (didn't bet)
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: williams9897819 folded before Flop (didn't bet)
+Seat 5: starik1965 folded on the Flop
+Seat 6: nippy20 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded on the Flop
+Seat 8: tyzlit (button) folded before Flop (didn't bet)
+Seat 9: Mypka34 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #230720485171:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:54:45 PT [2021/10/19 1:54:45 ET]
+Table 'Klotho IV' 9-max Seat #9 is the button
+Seat 1: Roma_O._777 ($1.13 in chips) 
+Seat 2: sheriff640 ($1.54 in chips) 
+Seat 3: kiling1 ($1.51 in chips) 
+Seat 4: williams9897819 ($1.54 in chips) 
+Seat 5: starik1965 ($1.22 in chips) 
+Seat 6: nippy20 ($1.46 in chips) 
+Seat 7: Dorex2007 ($2.77 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.63 in chips) 
+Roma_O._777: posts small blind $0.01
+sheriff640: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Ad]
+kiling1: folds 
+williams9897819: calls $0.02
+starik1965: raises $0.04 to $0.06
+nippy20: folds 
+Dorex2007: folds 
+tyzlit: folds 
+Mypka34: calls $0.06
+Roma_O._777: raises $0.22 to $0.28
+sheriff640: folds 
+williams9897819: folds 
+starik1965: folds 
+Mypka34: calls $0.22
+*** FLOP *** [Kd Kc 6h]
+Roma_O._777: bets $0.34
+Mypka34: folds 
+Uncalled bet ($0.34) returned to Roma_O._777
+Roma_O._777 collected $0.64 from pot
+Roma_O._777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.02 
+Board [Kd Kc 6h]
+Seat 1: Roma_O._777 (small blind) collected ($0.64)
+Seat 2: sheriff640 (big blind) folded before Flop
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: williams9897819 folded before Flop
+Seat 5: starik1965 folded before Flop
+Seat 6: nippy20 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: Mypka34 (button) folded on the Flop
+
+
+
+PokerStars Hand #230720489854:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:55:24 PT [2021/10/19 1:55:24 ET]
+Table 'Klotho IV' 9-max Seat #1 is the button
+Seat 1: Roma_O._777 ($1.49 in chips) 
+Seat 2: sheriff640 ($1.52 in chips) 
+Seat 3: kiling1 ($1.51 in chips) 
+Seat 4: williams9897819 ($1.52 in chips) 
+Seat 5: starik1965 ($1.16 in chips) 
+Seat 6: nippy20 ($1.46 in chips) 
+Seat 7: Dorex2007 ($2.77 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.35 in chips) 
+sheriff640: posts small blind $0.01
+kiling1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 3s]
+williams9897819: folds 
+starik1965: folds 
+nippy20: calls $0.02
+Dorex2007: raises $0.04 to $0.06
+tyzlit: folds 
+Mypka34: folds 
+Roma_O._777: calls $0.06
+sheriff640: folds 
+kiling1: calls $0.04
+nippy20: raises $1.40 to $1.46 and is all-in
+Dorex2007: folds 
+Roma_O._777: folds 
+kiling1: folds 
+Uncalled bet ($1.40) returned to nippy20
+nippy20 collected $0.25 from pot
+nippy20: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Roma_O._777 (button) folded before Flop
+Seat 2: sheriff640 (small blind) folded before Flop
+Seat 3: kiling1 (big blind) folded before Flop
+Seat 4: williams9897819 folded before Flop (didn't bet)
+Seat 5: starik1965 folded before Flop (didn't bet)
+Seat 6: nippy20 collected ($0.25)
+Seat 7: Dorex2007 folded before Flop
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: Mypka34 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720494185:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:56:05 PT [2021/10/19 1:56:05 ET]
+Table 'Klotho IV' 9-max Seat #2 is the button
+Seat 1: Roma_O._777 ($1.43 in chips) 
+Seat 2: sheriff640 ($1.51 in chips) 
+Seat 3: kiling1 ($1.45 in chips) 
+Seat 4: williams9897819 ($1.52 in chips) 
+Seat 5: starik1965 ($1.16 in chips) 
+Seat 6: nippy20 ($1.65 in chips) 
+Seat 7: Dorex2007 ($2.71 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.35 in chips) 
+kiling1: posts small blind $0.01
+williams9897819: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 5d]
+starik1965: folds 
+nippy20: calls $0.02
+Dorex2007: folds 
+tyzlit: folds 
+Mypka34: folds 
+Roma_O._777: folds 
+sheriff640: folds 
+kiling1: folds 
+williams9897819: checks 
+*** FLOP *** [Ks 5h Ah]
+williams9897819: checks 
+nippy20: bets $0.03
+williams9897819: calls $0.03
+*** TURN *** [Ks 5h Ah] [5c]
+williams9897819: checks 
+nippy20: checks 
+*** RIVER *** [Ks 5h Ah 5c] [Tc]
+williams9897819: checks 
+nippy20: checks 
+*** SHOW DOWN ***
+williams9897819: shows [2s Ad] (two pair, Aces and Fives)
+nippy20: mucks hand 
+williams9897819 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Ks 5h Ah 5c Tc]
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: sheriff640 (button) folded before Flop (didn't bet)
+Seat 3: kiling1 (small blind) folded before Flop
+Seat 4: williams9897819 (big blind) showed [2s Ad] and won ($0.11) with two pair, Aces and Fives
+Seat 5: starik1965 folded before Flop (didn't bet)
+Seat 6: nippy20 mucked [Kh Qs]
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: Mypka34 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720499189:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:56:52 PT [2021/10/19 1:56:52 ET]
+Table 'Klotho IV' 9-max Seat #3 is the button
+Seat 1: Roma_O._777 ($1.43 in chips) 
+Seat 2: sheriff640 ($1.51 in chips) 
+Seat 3: kiling1 ($1.44 in chips) 
+Seat 4: williams9897819 ($1.58 in chips) 
+Seat 5: starik1965 ($1.16 in chips) 
+Seat 6: nippy20 ($1.60 in chips) 
+Seat 7: Dorex2007 ($2.71 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.35 in chips) 
+williams9897819: posts small blind $0.01
+starik1965: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 4s]
+nippy20: folds 
+Dorex2007: folds 
+tyzlit: folds 
+Mypka34: folds 
+Roma_O._777: calls $0.02
+sheriff640: folds 
+kiling1: folds 
+williams9897819: calls $0.01
+starik1965: checks 
+*** FLOP *** [Jd Jc 9d]
+williams9897819: checks 
+starik1965: checks 
+Roma_O._777: checks 
+*** TURN *** [Jd Jc 9d] [Qs]
+williams9897819: bets $0.02
+starik1965: calls $0.02
+Roma_O._777: folds 
+*** RIVER *** [Jd Jc 9d Qs] [Tc]
+williams9897819: bets $0.10
+starik1965: folds 
+Uncalled bet ($0.10) returned to williams9897819
+williams9897819 collected $0.10 from pot
+williams9897819: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Jd Jc 9d Qs Tc]
+Seat 1: Roma_O._777 folded on the Turn
+Seat 2: sheriff640 folded before Flop (didn't bet)
+Seat 3: kiling1 (button) folded before Flop (didn't bet)
+Seat 4: williams9897819 (small blind) collected ($0.10)
+Seat 5: starik1965 (big blind) folded on the River
+Seat 6: nippy20 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: Mypka34 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720504465:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:57:40 PT [2021/10/19 1:57:40 ET]
+Table 'Klotho IV' 9-max Seat #4 is the button
+Seat 1: Roma_O._777 ($1.41 in chips) 
+Seat 2: sheriff640 ($1.51 in chips) 
+Seat 3: kiling1 ($1.44 in chips) 
+Seat 4: williams9897819 ($1.64 in chips) 
+Seat 6: nippy20 ($1.60 in chips) 
+Seat 7: Dorex2007 ($2.71 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.35 in chips) 
+nippy20: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Qh]
+tyzlit: folds 
+Mypka34: folds 
+Roma_O._777: calls $0.02
+sheriff640: folds 
+kiling1: folds 
+williams9897819: folds 
+nippy20: folds 
+Dorex2007: checks 
+*** FLOP *** [5h 2d 4h]
+Dorex2007: checks 
+Roma_O._777: checks 
+*** TURN *** [5h 2d 4h] [9s]
+Dorex2007: checks 
+Roma_O._777: checks 
+*** RIVER *** [5h 2d 4h 9s] [2c]
+Dorex2007: bets $0.18
+Roma_O._777: folds 
+Uncalled bet ($0.18) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5h 2d 4h 9s 2c]
+Seat 1: Roma_O._777 folded on the River
+Seat 2: sheriff640 folded before Flop (didn't bet)
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: williams9897819 (button) folded before Flop (didn't bet)
+Seat 6: nippy20 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) collected ($0.05)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: Mypka34 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720510699:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:58:37 PT [2021/10/19 1:58:37 ET]
+Table 'Klotho IV' 9-max Seat #6 is the button
+Seat 1: Roma_O._777 ($1.39 in chips) 
+Seat 2: sheriff640 ($1.51 in chips) 
+Seat 3: kiling1 ($1.44 in chips) 
+Seat 4: williams9897819 ($1.64 in chips) 
+Seat 6: nippy20 ($1.59 in chips) 
+Seat 7: Dorex2007 ($2.74 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.35 in chips) 
+Dorex2007: posts small blind $0.01
+tyzlit: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Td]
+Mypka34: calls $0.02
+Roma_O._777: folds 
+sheriff640: folds 
+kiling1: folds 
+williams9897819: calls $0.02
+nippy20: folds 
+Dorex2007: folds 
+tyzlit: checks 
+*** FLOP *** [2c Qh 9s]
+tyzlit: checks 
+Mypka34: checks 
+williams9897819: checks 
+*** TURN *** [2c Qh 9s] [3h]
+tyzlit: checks 
+Mypka34: bets $0.04
+williams9897819: folds 
+tyzlit: folds 
+Uncalled bet ($0.04) returned to Mypka34
+Mypka34 collected $0.07 from pot
+Mypka34: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [2c Qh 9s 3h]
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: sheriff640 folded before Flop (didn't bet)
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: williams9897819 folded on the Turn
+Seat 6: nippy20 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: tyzlit (big blind) folded on the Turn
+Seat 9: Mypka34 collected ($0.07)
+
+
+
+PokerStars Hand #230720515104:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:59:18 PT [2021/10/19 1:59:18 ET]
+Table 'Klotho IV' 9-max Seat #7 is the button
+Seat 1: Roma_O._777 ($1.39 in chips) 
+Seat 2: sheriff640 ($1.51 in chips) 
+Seat 3: kiling1 ($1.44 in chips) 
+Seat 4: williams9897819 ($1.62 in chips) 
+Seat 6: nippy20 ($1.59 in chips) 
+Seat 7: Dorex2007 ($2.73 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.40 in chips) 
+tyzlit: posts small blind $0.01
+Mypka34: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Tc]
+Roma_O._777: folds 
+sheriff640: folds 
+kiling1: folds 
+williams9897819: folds 
+nippy20: folds 
+Dorex2007: raises $0.04 to $0.06
+tyzlit: folds 
+Mypka34: calls $0.04
+*** FLOP *** [6h 3h Ks]
+Mypka34: checks 
+Dorex2007: bets $0.13
+Mypka34: folds 
+Uncalled bet ($0.13) returned to Dorex2007
+Dorex2007 collected $0.13 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6h 3h Ks]
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: sheriff640 folded before Flop (didn't bet)
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: williams9897819 folded before Flop (didn't bet)
+Seat 6: nippy20 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) collected ($0.13)
+Seat 8: tyzlit (small blind) folded before Flop
+Seat 9: Mypka34 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #230720519544:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 22:59:59 PT [2021/10/19 1:59:59 ET]
+Table 'Klotho IV' 9-max Seat #8 is the button
+Seat 1: Roma_O._777 ($1.39 in chips) 
+Seat 2: sheriff640 ($1.51 in chips) 
+Seat 3: kiling1 ($1.44 in chips) 
+Seat 4: williams9897819 ($1.62 in chips) 
+Seat 6: nippy20 ($1.59 in chips) 
+Seat 7: Dorex2007 ($2.80 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.34 in chips) 
+Mypka34: posts small blind $0.01
+Roma_O._777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 7c]
+sheriff640: folds 
+kiling1: folds 
+williams9897819: folds 
+nippy20: folds 
+Dorex2007: folds 
+tyzlit: folds 
+Mypka34: calls $0.01
+Roma_O._777: checks 
+*** FLOP *** [7h 5d 2d]
+Mypka34: checks 
+Roma_O._777: checks 
+*** TURN *** [7h 5d 2d] [Tc]
+Mypka34: checks 
+Roma_O._777: checks 
+*** RIVER *** [7h 5d 2d Tc] [9h]
+Mypka34: checks 
+Roma_O._777: checks 
+*** SHOW DOWN ***
+Mypka34: shows [9s 8s] (a pair of Nines)
+Roma_O._777: mucks hand 
+Mypka34 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [7h 5d 2d Tc 9h]
+Seat 1: Roma_O._777 (big blind) mucked [Ks 3s]
+Seat 2: sheriff640 folded before Flop (didn't bet)
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: williams9897819 folded before Flop (didn't bet)
+Seat 6: nippy20 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit (button) folded before Flop (didn't bet)
+Seat 9: Mypka34 (small blind) showed [9s 8s] and won ($0.04) with a pair of Nines
+
+
+
+PokerStars Hand #230720522772:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 23:00:28 PT [2021/10/19 2:00:28 ET]
+Table 'Klotho IV' 9-max Seat #9 is the button
+Seat 1: Roma_O._777 ($1.37 in chips) 
+Seat 2: sheriff640 ($1.51 in chips) 
+Seat 3: kiling1 ($1.44 in chips) 
+Seat 4: williams9897819 ($1.62 in chips) 
+Seat 6: nippy20 ($1.59 in chips) 
+Seat 7: Dorex2007 ($2.80 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.36 in chips) 
+Roma_O._777: posts small blind $0.01
+sheriff640: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Kh]
+kiling1: folds 
+williams9897819: folds 
+nippy20: calls $0.02
+Dorex2007: raises $0.04 to $0.06
+tyzlit: folds 
+Mypka34: folds 
+Roma_O._777: calls $0.05
+sheriff640: folds 
+nippy20: calls $0.04
+*** FLOP *** [2d 4c Th]
+Roma_O._777: checks 
+nippy20: checks 
+Dorex2007: bets $0.13
+Roma_O._777: folds 
+nippy20: folds 
+Uncalled bet ($0.13) returned to Dorex2007
+Dorex2007 collected $0.19 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2d 4c Th]
+Seat 1: Roma_O._777 (small blind) folded on the Flop
+Seat 2: sheriff640 (big blind) folded before Flop
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: williams9897819 folded before Flop (didn't bet)
+Seat 6: nippy20 folded on the Flop
+Seat 7: Dorex2007 collected ($0.19)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: Mypka34 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720526989:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 23:01:04 PT [2021/10/19 2:01:04 ET]
+Table 'Klotho IV' 9-max Seat #1 is the button
+Seat 1: Roma_O._777 ($1.31 in chips) 
+Seat 2: sheriff640 ($1.49 in chips) 
+Seat 3: kiling1 ($1.44 in chips) 
+Seat 4: williams9897819 ($1.62 in chips) 
+Seat 6: nippy20 ($1.53 in chips) 
+Seat 7: Dorex2007 ($2.93 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.36 in chips) 
+sheriff640: posts small blind $0.01
+kiling1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 6d]
+williams9897819: folds 
+nippy20: folds 
+Dorex2007: folds 
+tyzlit: folds 
+Mypka34: calls $0.02
+Roma_O._777: calls $0.02
+sheriff640: calls $0.01
+kiling1: checks 
+*** FLOP *** [3c 2s Jd]
+sheriff640: checks 
+kiling1: checks 
+Mypka34: checks 
+Roma_O._777: checks 
+*** TURN *** [3c 2s Jd] [5s]
+sheriff640: checks 
+kiling1: bets $0.08
+Mypka34: folds 
+Roma_O._777: folds 
+sheriff640: folds 
+Uncalled bet ($0.08) returned to kiling1
+kiling1 collected $0.08 from pot
+kiling1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [3c 2s Jd 5s]
+Seat 1: Roma_O._777 (button) folded on the Turn
+Seat 2: sheriff640 (small blind) folded on the Turn
+Seat 3: kiling1 (big blind) collected ($0.08)
+Seat 4: williams9897819 folded before Flop (didn't bet)
+Seat 6: nippy20 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: Mypka34 folded on the Turn
+
+
+
+PokerStars Hand #230720533604:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 23:01:58 PT [2021/10/19 2:01:58 ET]
+Table 'Klotho IV' 9-max Seat #2 is the button
+Seat 1: Roma_O._777 ($1.29 in chips) 
+Seat 2: sheriff640 ($1.47 in chips) 
+Seat 3: kiling1 ($1.50 in chips) 
+Seat 4: williams9897819 ($1.62 in chips) 
+Seat 6: nippy20 ($1.53 in chips) 
+Seat 7: Dorex2007 ($2.93 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.34 in chips) 
+kiling1: posts small blind $0.01
+williams9897819: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Jd]
+nippy20: folds 
+Dorex2007: raises $0.08 to $0.10
+tyzlit: folds 
+Mypka34: folds 
+Roma_O._777: folds 
+sheriff640: folds 
+kiling1: calls $0.09
+williams9897819: folds 
+*** FLOP *** [Kd 6h Ah]
+kiling1: checks 
+Dorex2007: bets $0.14
+kiling1: folds 
+Uncalled bet ($0.14) returned to Dorex2007
+Dorex2007 collected $0.21 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Kd 6h Ah]
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: sheriff640 (button) folded before Flop (didn't bet)
+Seat 3: kiling1 (small blind) folded on the Flop
+Seat 4: williams9897819 (big blind) folded before Flop
+Seat 6: nippy20 folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.21)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: Mypka34 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720539330:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 23:02:46 PT [2021/10/19 2:02:46 ET]
+Table 'Klotho IV' 9-max Seat #3 is the button
+Seat 1: Roma_O._777 ($1.29 in chips) 
+Seat 2: sheriff640 ($1.47 in chips) 
+Seat 3: kiling1 ($1.40 in chips) 
+Seat 4: williams9897819 ($1.60 in chips) 
+Seat 6: nippy20 ($1.53 in chips) 
+Seat 7: Dorex2007 ($3.04 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.34 in chips) 
+williams9897819: posts small blind $0.01
+nippy20: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 8d]
+Dorex2007: folds 
+tyzlit: folds 
+Mypka34: folds 
+Roma_O._777: calls $0.02
+sheriff640: folds 
+kiling1: folds 
+williams9897819: calls $0.01
+nippy20: checks 
+*** FLOP *** [Kd 8h 7h]
+williams9897819: checks 
+nippy20: checks 
+Roma_O._777: checks 
+*** TURN *** [Kd 8h 7h] [2c]
+williams9897819: checks 
+nippy20: bets $0.03
+Roma_O._777: calls $0.03
+williams9897819: calls $0.03
+*** RIVER *** [Kd 8h 7h 2c] [8c]
+williams9897819: checks 
+nippy20: checks 
+Roma_O._777: checks 
+*** SHOW DOWN ***
+williams9897819: shows [9d 9s] (two pair, Nines and Eights)
+nippy20: shows [9h Kh] (two pair, Kings and Eights)
+Roma_O._777: mucks hand 
+nippy20 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Kd 8h 7h 2c 8c]
+Seat 1: Roma_O._777 mucked [3h Ah]
+Seat 2: sheriff640 folded before Flop (didn't bet)
+Seat 3: kiling1 (button) folded before Flop (didn't bet)
+Seat 4: williams9897819 (small blind) showed [9d 9s] and lost with two pair, Nines and Eights
+Seat 6: nippy20 (big blind) showed [9h Kh] and won ($0.14) with two pair, Kings and Eights
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: Mypka34 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720544325:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 23:03:26 PT [2021/10/19 2:03:26 ET]
+Table 'Klotho IV' 9-max Seat #4 is the button
+Seat 1: Roma_O._777 ($1.24 in chips) 
+Seat 2: sheriff640 ($1.47 in chips) 
+Seat 3: kiling1 ($1.40 in chips) 
+Seat 4: williams9897819 ($1.55 in chips) 
+Seat 6: nippy20 ($1.62 in chips) 
+Seat 7: Dorex2007 ($3.04 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.34 in chips) 
+nippy20: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 8c]
+tyzlit: raises $0.03 to $0.05
+Mypka34: folds 
+Roma_O._777: folds 
+sheriff640: folds 
+kiling1: folds 
+williams9897819: folds 
+nippy20: folds 
+Dorex2007: folds 
+Uncalled bet ($0.03) returned to tyzlit
+tyzlit collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: sheriff640 folded before Flop (didn't bet)
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: williams9897819 (button) folded before Flop (didn't bet)
+Seat 6: nippy20 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: tyzlit collected ($0.05)
+Seat 9: Mypka34 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720545744:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 23:03:38 PT [2021/10/19 2:03:38 ET]
+Table 'Klotho IV' 9-max Seat #6 is the button
+Seat 1: Roma_O._777 ($1.24 in chips) 
+Seat 2: sheriff640 ($1.47 in chips) 
+Seat 3: kiling1 ($1.40 in chips) 
+Seat 4: williams9897819 ($1.55 in chips) 
+Seat 6: nippy20 ($1.61 in chips) 
+Seat 7: Dorex2007 ($3.02 in chips) 
+Seat 8: tyzlit ($2.03 in chips) 
+Seat 9: Mypka34 ($1.34 in chips) 
+Dorex2007: posts small blind $0.01
+tyzlit: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 3c]
+Mypka34: folds 
+Roma_O._777: folds 
+sheriff640: folds 
+kiling1: raises $0.04 to $0.06
+williams9897819: folds 
+nippy20: folds 
+Dorex2007: folds 
+tyzlit: folds 
+Uncalled bet ($0.04) returned to kiling1
+kiling1 collected $0.05 from pot
+kiling1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: sheriff640 folded before Flop (didn't bet)
+Seat 3: kiling1 collected ($0.05)
+Seat 4: williams9897819 folded before Flop (didn't bet)
+Seat 6: nippy20 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: tyzlit (big blind) folded before Flop
+Seat 9: Mypka34 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720548645:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 23:04:01 PT [2021/10/19 2:04:01 ET]
+Table 'Klotho IV' 9-max Seat #7 is the button
+Seat 1: Roma_O._777 ($1.24 in chips) 
+Seat 2: sheriff640 ($1.47 in chips) 
+Seat 3: kiling1 ($1.43 in chips) 
+Seat 4: williams9897819 ($1.55 in chips) 
+Seat 6: nippy20 ($1.61 in chips) 
+Seat 7: Dorex2007 ($3.01 in chips) 
+Seat 8: tyzlit ($2.01 in chips) 
+Seat 9: Mypka34 ($1.34 in chips) 
+tyzlit: posts small blind $0.01
+Mypka34: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Td]
+Roma_O._777: folds 
+sheriff640: folds 
+kiling1: folds 
+williams9897819: folds 
+nippy20: folds 
+Dorex2007: raises $0.04 to $0.06
+tyzlit: folds 
+Mypka34: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: sheriff640 folded before Flop (didn't bet)
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: williams9897819 folded before Flop (didn't bet)
+Seat 6: nippy20 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) collected ($0.05)
+Seat 8: tyzlit (small blind) folded before Flop
+Seat 9: Mypka34 (big blind) folded before Flop
+
+
+
+PokerStars Hand #230720551329:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 23:04:23 PT [2021/10/19 2:04:23 ET]
+Table 'Klotho IV' 9-max Seat #8 is the button
+Seat 1: Roma_O._777 ($1.24 in chips) 
+Seat 2: sheriff640 ($1.47 in chips) 
+Seat 3: kiling1 ($1.43 in chips) 
+Seat 4: williams9897819 ($1.55 in chips) 
+Seat 6: nippy20 ($1.61 in chips) 
+Seat 7: Dorex2007 ($3.04 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.32 in chips) 
+Mypka34: posts small blind $0.01
+Roma_O._777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 7c]
+sheriff640: folds 
+kiling1: folds 
+williams9897819: folds 
+nippy20: folds 
+Dorex2007: folds 
+tyzlit: raises $0.03 to $0.05
+Mypka34: calls $0.04
+Roma_O._777: calls $0.03
+*** FLOP *** [Ah 9c Th]
+Mypka34: bets $0.04
+Roma_O._777: calls $0.04
+tyzlit: folds 
+*** TURN *** [Ah 9c Th] [5d]
+Mypka34: bets $0.04
+Roma_O._777: raises $0.15 to $0.19
+Mypka34: folds 
+Uncalled bet ($0.15) returned to Roma_O._777
+Roma_O._777 collected $0.30 from pot
+Roma_O._777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Ah 9c Th 5d]
+Seat 1: Roma_O._777 (big blind) collected ($0.30)
+Seat 2: sheriff640 folded before Flop (didn't bet)
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: williams9897819 folded before Flop (didn't bet)
+Seat 6: nippy20 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit (button) folded on the Flop
+Seat 9: Mypka34 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #230720557606:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 23:05:14 PT [2021/10/19 2:05:14 ET]
+Table 'Klotho IV' 9-max Seat #9 is the button
+Seat 1: Roma_O._777 ($1.41 in chips) 
+Seat 2: sheriff640 ($1.47 in chips) 
+Seat 3: kiling1 ($1.43 in chips) 
+Seat 4: williams9897819 ($1.55 in chips) 
+Seat 6: nippy20 ($1.61 in chips) 
+Seat 7: Dorex2007 ($3.04 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+Seat 9: Mypka34 ($1.19 in chips) 
+Roma_O._777: posts small blind $0.01
+sheriff640: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 2d]
+kiling1: folds 
+williams9897819: folds 
+nippy20: folds 
+Dorex2007: folds 
+tyzlit: folds 
+Mypka34: folds 
+Mypka34 leaves the table
+Roma_O._777: calls $0.01
+sheriff640: checks 
+*** FLOP *** [Jd Tc Kc]
+Roma_O._777: checks 
+sofaking1973 joins the table at seat #9 
+sheriff640: checks 
+*** TURN *** [Jd Tc Kc] [Kd]
+Roma_O._777: checks 
+sofaking1973 leaves the table
+sheriff640: checks 
+*** RIVER *** [Jd Tc Kc Kd] [3s]
+Roma_O._777: checks 
+sheriff640: checks 
+*** SHOW DOWN ***
+Roma_O._777: shows [7c 8d] (a pair of Kings)
+sheriff640: shows [5s Qs] (a pair of Kings - Queen kicker)
+sheriff640 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Jd Tc Kc Kd 3s]
+Seat 1: Roma_O._777 (small blind) showed [7c 8d] and lost with a pair of Kings
+Seat 2: sheriff640 (big blind) showed [5s Qs] and won ($0.04) with a pair of Kings
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: williams9897819 folded before Flop (didn't bet)
+Seat 6: nippy20 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tyzlit folded before Flop (didn't bet)
+Seat 9: Mypka34 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720562026:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 23:05:50 PT [2021/10/19 2:05:50 ET]
+Table 'Klotho IV' 9-max Seat #1 is the button
+Seat 1: Roma_O._777 ($1.39 in chips) 
+Seat 2: sheriff640 ($1.49 in chips) 
+Seat 3: kiling1 ($1.43 in chips) 
+Seat 4: williams9897819 ($1.55 in chips) 
+Seat 6: nippy20 ($1.61 in chips) 
+Seat 7: Dorex2007 ($3.04 in chips) 
+Seat 8: tyzlit ($2 in chips) 
+sheriff640: posts small blind $0.01
+kiling1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Jh]
+williams9897819: calls $0.02
+nippy20: folds 
+Dorex2007: raises $0.04 to $0.06
+tyzlit: folds 
+tyzlit leaves the table
+Roma_O._777: calls $0.06
+sheriff640: folds 
+kiling1: folds 
+williams9897819: calls $0.04
+*** FLOP *** [9h Qd Qs]
+williams9897819: checks 
+Dorex2007: bets $0.10
+Roma_O._777: calls $0.10
+williams9897819: folds 
+*** TURN *** [9h Qd Qs] [2d]
+Dorex2007: checks 
+Roma_O._777: bets $0.20
+Dorex2007: folds 
+Uncalled bet ($0.20) returned to Roma_O._777
+Roma_O._777 collected $0.40 from pot
+Roma_O._777: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [9h Qd Qs 2d]
+Seat 1: Roma_O._777 (button) collected ($0.40)
+Seat 2: sheriff640 (small blind) folded before Flop
+Seat 3: kiling1 (big blind) folded before Flop
+Seat 4: williams9897819 folded on the Flop
+Seat 6: nippy20 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded on the Turn
+Seat 8: tyzlit folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720566440:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 23:06:27 PT [2021/10/19 2:06:27 ET]
+Table 'Klotho IV' 9-max Seat #2 is the button
+Seat 1: Roma_O._777 ($1.63 in chips) 
+Seat 2: sheriff640 ($1.48 in chips) 
+Seat 3: kiling1 ($1.41 in chips) 
+Seat 4: williams9897819 ($1.49 in chips) 
+Seat 6: nippy20 ($1.61 in chips) 
+Seat 7: Dorex2007 ($2.88 in chips) 
+kiling1: posts small blind $0.01
+williams9897819: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Qd]
+nippy20: folds 
+Dorex2007: folds 
+Roma_O._777: calls $0.02
+sheriff640: folds 
+kiling1: folds 
+williams9897819: checks 
+*** FLOP *** [Tc 8c 9s]
+williams9897819: checks 
+Roma_O._777: bets $0.02
+williams9897819: calls $0.02
+*** TURN *** [Tc 8c 9s] [Td]
+williams9897819: checks 
+Roma_O._777: bets $0.04
+williams9897819: calls $0.04
+*** RIVER *** [Tc 8c 9s Td] [3c]
+williams9897819: checks 
+Roma_O._777: checks 
+*** SHOW DOWN ***
+williams9897819: shows [Kh Js] (a pair of Tens)
+Roma_O._777: shows [Qs 9h] (two pair, Tens and Nines)
+Roma_O._777 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Tc 8c 9s Td 3c]
+Seat 1: Roma_O._777 showed [Qs 9h] and won ($0.16) with two pair, Tens and Nines
+Seat 2: sheriff640 (button) folded before Flop (didn't bet)
+Seat 3: kiling1 (small blind) folded before Flop
+Seat 4: williams9897819 (big blind) showed [Kh Js] and lost with a pair of Tens
+Seat 6: nippy20 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230720572080:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 23:07:13 PT [2021/10/19 2:07:13 ET]
+Table 'Klotho IV' 9-max Seat #3 is the button
+Seat 1: Roma_O._777 ($1.71 in chips) 
+Seat 2: sheriff640 ($1.48 in chips) 
+Seat 3: kiling1 ($1.40 in chips) 
+Seat 4: williams9897819 ($1.41 in chips) 
+Seat 7: Dorex2007 ($2.88 in chips) 
+williams9897819: posts small blind $0.01
+nippy20: is sitting out 
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Kh]
+Roma_O._777: folds 
+sheriff640: calls $0.02
+kiling1: folds 
+williams9897819: calls $0.01
+nippy20 leaves the table
+Dorex2007: checks 
+*** FLOP *** [8s 3s 7h]
+williams9897819: checks 
+Dorex2007: checks 
+sheriff640: checks 
+*** TURN *** [8s 3s 7h] [4s]
+williams9897819: checks 
+Dorex2007: checks 
+sheriff640: checks 
+*** RIVER *** [8s 3s 7h 4s] [Ad]
+williams9897819: checks 
+Dorex2007: checks 
+sheriff640: bets $0.02
+williams9897819: folds 
+Dorex2007: folds 
+Uncalled bet ($0.02) returned to sheriff640
+sheriff640 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [8s 3s 7h 4s Ad]
+Seat 1: Roma_O._777 folded before Flop (didn't bet)
+Seat 2: sheriff640 collected ($0.06)
+Seat 3: kiling1 (button) folded before Flop (didn't bet)
+Seat 4: williams9897819 (small blind) folded on the River
+Seat 7: Dorex2007 (big blind) folded on the River
+
+
+
+PokerStars Hand #230720577767:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/18 23:08:00 PT [2021/10/19 2:08:00 ET]
+Table 'Klotho IV' 9-max Seat #4 is the button
+Seat 1: Roma_O._777 ($1.71 in chips) 
+Seat 2: sheriff640 ($1.52 in chips) 
+Seat 3: kiling1 ($1.40 in chips) 
+Seat 4: williams9897819 ($1.39 in chips) 
+Seat 7: Dorex2007 ($2.86 in chips) 
+Dorex2007: posts small blind $0.01
+Roma_O._777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Ad]
+sheriff640: folds 
+kiling1: folds 
+williams9897819: folds 
+Dorex2007: raises $0.04 to $0.06
+Roma_O._777: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.04 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Roma_O._777 (big blind) folded before Flop
+Seat 2: sheriff640 folded before Flop (didn't bet)
+Seat 3: kiling1 folded before Flop (didn't bet)
+Seat 4: williams9897819 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) collected ($0.04)
+
+
+

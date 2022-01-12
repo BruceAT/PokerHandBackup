@@ -1,0 +1,220 @@
+﻿PokerStars Hand #230364127225:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/04 20:38:04 PT [2021/10/04 23:38:04 ET]
+Table 'Clementina III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: jackeldest ($0.44 in chips) 
+Seat 3: WrthTheDrive ($2.18 in chips) 
+Seat 4: Saitama_Fist ($3.45 in chips) 
+Seat 6: losmerca ($2.27 in chips) 
+Seat 7: Chumargez ($10.63 in chips) 
+Seat 8: VMDT. ($2.43 in chips) 
+Saitama_Fist: posts small blind $0.01
+losmerca: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 5c]
+Chumargez: folds 
+VMDT.: calls $0.02
+Dorex2007: checks 
+jackeldest: calls $0.02
+WrthTheDrive: folds 
+Saitama_Fist: folds 
+losmerca: checks 
+*** FLOP *** [5h 6s 3s]
+losmerca: checks 
+VMDT.: checks 
+Dorex2007: bets $0.09
+jackeldest: calls $0.09
+losmerca: folds 
+VMDT.: folds 
+*** TURN *** [5h 6s 3s] [2h]
+Dorex2007: checks 
+jackeldest: checks 
+*** RIVER *** [5h 6s 3s 2h] [Qh]
+Dorex2007: bets $0.17
+jackeldest: folds 
+Uncalled bet ($0.17) returned to Dorex2007
+Dorex2007 collected $0.26 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [5h 6s 3s 2h Qh]
+Seat 1: Dorex2007 collected ($0.26)
+Seat 2: jackeldest folded on the River
+Seat 3: WrthTheDrive (button) folded before Flop (didn't bet)
+Seat 4: Saitama_Fist (small blind) folded before Flop
+Seat 6: losmerca (big blind) folded on the Flop
+Seat 7: Chumargez folded before Flop (didn't bet)
+Seat 8: VMDT. folded on the Flop
+
+
+
+PokerStars Hand #230364136258:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/04 20:39:01 PT [2021/10/04 23:39:01 ET]
+Table 'Clementina III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2.15 in chips) 
+Seat 2: jackeldest ($0.33 in chips) 
+Seat 3: WrthTheDrive ($2.18 in chips) 
+Seat 4: Saitama_Fist ($3.44 in chips) 
+Seat 6: losmerca ($2.25 in chips) 
+Seat 7: Chumargez ($10.63 in chips) 
+Seat 8: VMDT. ($2.41 in chips) 
+losmerca: posts small blind $0.01
+Chumargez: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 9d]
+VMDT.: folds 
+Dorex2007: raises $0.04 to $0.06
+jackeldest: calls $0.06
+WrthTheDrive: folds 
+Saitama_Fist: folds 
+losmerca: raises $2.19 to $2.25 and is all-in
+Chumargez: folds 
+Dorex2007: folds 
+jackeldest: calls $0.27 and is all-in
+Uncalled bet ($1.92) returned to losmerca
+*** FLOP *** [7h 9c 9h]
+*** TURN *** [7h 9c 9h] [2h]
+*** RIVER *** [7h 9c 9h 2h] [Qs]
+*** SHOW DOWN ***
+losmerca: shows [Js Jd] (two pair, Jacks and Nines)
+jackeldest: shows [7d Jh] (two pair, Nines and Sevens)
+losmerca collected $0.71 from pot
+*** SUMMARY ***
+Total pot $0.74 | Rake $0.03 
+Board [7h 9c 9h 2h Qs]
+Seat 1: Dorex2007 folded before Flop
+Seat 2: jackeldest showed [7d Jh] and lost with two pair, Nines and Sevens
+Seat 3: WrthTheDrive folded before Flop (didn't bet)
+Seat 4: Saitama_Fist (button) folded before Flop (didn't bet)
+Seat 6: losmerca (small blind) showed [Js Jd] and won ($0.71) with two pair, Jacks and Nines
+Seat 7: Chumargez (big blind) folded before Flop
+Seat 8: VMDT. folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230364146444:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/04 20:39:45 PT [2021/10/04 23:39:45 ET]
+Table 'Clementina III' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($2.09 in chips) 
+Seat 3: WrthTheDrive ($2.18 in chips) 
+Seat 4: Saitama_Fist ($3.44 in chips) 
+Seat 6: losmerca ($2.63 in chips) 
+Seat 7: Chumargez ($10.61 in chips) 
+Chumargez: posts small blind $0.01
+VMDT.: is sitting out 
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 7s]
+WrthTheDrive: raises $0.04 to $0.06
+Saitama_Fist: folds 
+losmerca: folds 
+Chumargez: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to WrthTheDrive
+WrthTheDrive collected $0.05 from pot
+WrthTheDrive: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 3: WrthTheDrive collected ($0.05)
+Seat 4: Saitama_Fist folded before Flop (didn't bet)
+Seat 6: losmerca (button) folded before Flop (didn't bet)
+Seat 7: Chumargez (small blind) folded before Flop
+
+
+
+PokerStars Hand #230364147714:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/04 20:39:53 PT [2021/10/04 23:39:53 ET]
+Table 'Clementina III' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2.07 in chips) 
+Seat 3: WrthTheDrive ($2.21 in chips) 
+Seat 4: Saitama_Fist ($3.44 in chips) 
+Seat 6: losmerca ($2.63 in chips) 
+Seat 7: Chumargez ($10.60 in chips) 
+Dorex2007: posts small blind $0.01
+WrthTheDrive: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Qc]
+Saitama_Fist: folds 
+losmerca: calls $0.02
+Chumargez: folds 
+VMDT. leaves the table
+Dorex2007: folds 
+WrthTheDrive: checks 
+*** FLOP *** [Ah 5h 9d]
+WrthTheDrive: bets $0.05
+losmerca: folds 
+Uncalled bet ($0.05) returned to WrthTheDrive
+losmerca leaves the table
+WrthTheDrive collected $0.05 from pot
+WrthTheDrive: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ah 5h 9d]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 3: WrthTheDrive (big blind) collected ($0.05)
+Seat 4: Saitama_Fist folded before Flop (didn't bet)
+Seat 6: losmerca folded on the Flop
+Seat 7: Chumargez (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230364150542:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/04 20:40:11 PT [2021/10/04 23:40:11 ET]
+Table 'Clementina III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2.06 in chips) 
+Seat 3: WrthTheDrive ($2.24 in chips) 
+Seat 4: Saitama_Fist ($3.44 in chips) 
+Seat 7: Chumargez ($10.60 in chips) 
+WrthTheDrive: posts small blind $0.01
+Saitama_Fist: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Ah]
+Chumargez: raises $0.02 to $0.04
+Dorex2007: folds 
+WrthTheDrive: folds 
+Saitama_Fist: folds 
+Uncalled bet ($0.02) returned to Chumargez
+Chumargez collected $0.05 from pot
+Chumargez: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: WrthTheDrive (small blind) folded before Flop
+Seat 4: Saitama_Fist (big blind) folded before Flop
+Seat 7: Chumargez collected ($0.05)
+
+
+
+PokerStars Hand #230364153238:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/04 20:40:28 PT [2021/10/04 23:40:28 ET]
+Table 'Clementina III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2.06 in chips) 
+Seat 3: WrthTheDrive ($2.23 in chips) 
+Seat 4: Saitama_Fist ($3.42 in chips) 
+Seat 7: Chumargez ($10.63 in chips) 
+Saitama_Fist: posts small blind $0.01
+Chumargez: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Ts]
+Dorex2007: calls $0.02
+WrthTheDrive: folds 
+Saitama_Fist: folds 
+Chumargez: raises $0.04 to $0.06
+Dorex2007: calls $0.04
+*** FLOP *** [Jc 4s 4c]
+Chumargez: checks 
+Dorex2007: checks 
+*** TURN *** [Jc 4s 4c] [Ad]
+Chumargez: checks 
+Dorex2007: bets $0.13
+jackeldest leaves the table
+Chumargez: folds 
+Uncalled bet ($0.13) returned to Dorex2007
+Dorex2007 collected $0.13 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Jc 4s 4c Ad]
+Seat 1: Dorex2007 collected ($0.13)
+Seat 3: WrthTheDrive (button) folded before Flop (didn't bet)
+Seat 4: Saitama_Fist (small blind) folded before Flop
+Seat 7: Chumargez (big blind) folded on the Turn
+
+
+

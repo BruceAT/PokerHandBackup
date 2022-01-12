@@ -1,0 +1,4838 @@
+﻿PokerStars Hand #228279436120:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:22:22 PT [2021/07/14 1:22:22 ET]
+Table 'Bellatrix IV' 9-max Seat #9 is the button
+Seat 1: 84d83473r ($2.36 in chips) 
+Seat 2: nextdoo ($2 in chips) 
+Seat 3: Nikolai9103 ($2 in chips) 
+Seat 5: Pyziakaa ($1.90 in chips) 
+Seat 6: MagnusCarlson ($2.31 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: BulletsEatR ($1.18 in chips) 
+84d83473r: posts small blind $0.01
+nextdoo: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 8c]
+Nikolai9103: folds 
+Pyziakaa: folds 
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: raises $0.04 to $0.06
+BulletsEatR: calls $0.06
+84d83473r: calls $0.05
+nextdoo: folds 
+*** FLOP *** [6c 9s 7h]
+84d83473r: checks 
+Dorex2007: checks 
+BulletsEatR: checks 
+*** TURN *** [6c 9s 7h] [5s]
+84d83473r: checks 
+Dorex2007: bets $0.13
+BulletsEatR: folds 
+84d83473r: folds 
+Uncalled bet ($0.13) returned to Dorex2007
+Dorex2007 collected $0.19 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [6c 9s 7h 5s]
+Seat 1: 84d83473r (small blind) folded on the Turn
+Seat 2: nextdoo (big blind) folded before Flop
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 5: Pyziakaa folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 collected ($0.19)
+Seat 9: BulletsEatR (button) folded on the Turn
+
+
+
+PokerStars Hand #228279450221:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:23:16 PT [2021/07/14 1:23:16 ET]
+Table 'Bellatrix IV' 9-max Seat #1 is the button
+Seat 1: 84d83473r ($2.30 in chips) 
+Seat 2: nextdoo ($2 in chips) 
+Seat 3: Nikolai9103 ($2 in chips) 
+Seat 5: Pyziakaa ($1.90 in chips) 
+Seat 6: MagnusCarlson ($2.31 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($2.13 in chips) 
+Seat 9: BulletsEatR ($1.12 in chips) 
+nextdoo: posts small blind $0.01
+Nikolai9103: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts Ks]
+Pyziakaa: raises $0.04 to $0.06
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: calls $0.06
+84d83473r: folds 
+nextdoo: folds 
+Nikolai9103: folds 
+*** FLOP *** [2s 4c 9c]
+Pyziakaa: checks 
+BulletsEatR: checks 
+*** TURN *** [2s 4c 9c] [6s]
+Pyziakaa: checks 
+BulletsEatR: bets $0.14
+Pyziakaa: folds 
+Uncalled bet ($0.14) returned to BulletsEatR
+BulletsEatR collected $0.14 from pot
+BulletsEatR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2s 4c 9c 6s]
+Seat 1: 84d83473r (button) folded before Flop (didn't bet)
+Seat 2: nextdoo (small blind) folded before Flop
+Seat 3: Nikolai9103 (big blind) folded before Flop
+Seat 5: Pyziakaa folded on the Turn
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR collected ($0.14)
+
+
+
+PokerStars Hand #228279455916:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:23:56 PT [2021/07/14 1:23:56 ET]
+Table 'Bellatrix IV' 9-max Seat #2 is the button
+Seat 1: 84d83473r ($2.30 in chips) 
+Seat 2: nextdoo ($2 in chips) 
+Seat 3: Nikolai9103 ($2 in chips) 
+Seat 6: MagnusCarlson ($2.31 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($2.13 in chips) 
+Seat 9: BulletsEatR ($1.20 in chips) 
+Nikolai9103: posts small blind $0.01
+Pyziakaa: is sitting out 
+MagnusCarlson: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Kd]
+Pyziakaa leaves the table
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: calls $0.02
+84d83473r: folds 
+nextdoo: folds 
+Nikolai9103: folds 
+MagnusCarlson: checks 
+*** FLOP *** [Ks Qc 7d]
+MagnusCarlson: checks 
+BulletsEatR: checks 
+*** TURN *** [Ks Qc 7d] [6c]
+MagnusCarlson: checks 
+BulletsEatR: checks 
+*** RIVER *** [Ks Qc 7d 6c] [2c]
+MagnusCarlson: checks 
+BulletsEatR: checks 
+*** SHOW DOWN ***
+MagnusCarlson: shows [8d 2d] (a pair of Deuces)
+BulletsEatR: mucks hand 
+MagnusCarlson collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ks Qc 7d 6c 2c]
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 2: nextdoo (button) folded before Flop (didn't bet)
+Seat 3: Nikolai9103 (small blind) folded before Flop
+Seat 6: MagnusCarlson (big blind) showed [8d 2d] and won ($0.05) with a pair of Deuces
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR mucked [Ad 5c]
+
+
+
+PokerStars Hand #228279460095:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:24:27 PT [2021/07/14 1:24:27 ET]
+Table 'Bellatrix IV' 9-max Seat #3 is the button
+Seat 1: 84d83473r ($2.30 in chips) 
+Seat 2: nextdoo ($2 in chips) 
+Seat 3: Nikolai9103 ($2 in chips) 
+Seat 6: MagnusCarlson ($2.34 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($2.13 in chips) 
+Seat 9: BulletsEatR ($1.18 in chips) 
+MagnusCarlson: posts small blind $0.01
+facundo23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Js]
+Dorex2007: folds 
+BulletsEatR: folds 
+abufirs joins the table at seat #5 
+84d83473r: folds 
+nextdoo: raises $0.04 to $0.06
+Nikolai9103: folds 
+MagnusCarlson: folds 
+facundo23: folds 
+Uncalled bet ($0.04) returned to nextdoo
+nextdoo collected $0.05 from pot
+nextdoo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 2: nextdoo collected ($0.05)
+Seat 3: Nikolai9103 (button) folded before Flop (didn't bet)
+Seat 6: MagnusCarlson (small blind) folded before Flop
+Seat 7: facundo23 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279463660:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:24:52 PT [2021/07/14 1:24:52 ET]
+Table 'Bellatrix IV' 9-max Seat #6 is the button
+Seat 1: 84d83473r ($2.30 in chips) 
+Seat 2: nextdoo ($2.03 in chips) 
+Seat 3: Nikolai9103 ($2 in chips) 
+Seat 6: MagnusCarlson ($2.33 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($2.13 in chips) 
+Seat 9: BulletsEatR ($1.18 in chips) 
+facundo23: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+abufirs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 2h]
+BulletsEatR: calls $0.02
+84d83473r: folds 
+nextdoo: folds 
+nextdoo leaves the table
+Nikolai9103: folds 
+MagnusCarlson: folds 
+facundo23: folds 
+nextdoo joins the table at seat #2 
+Dorex2007: checks 
+*** FLOP *** [Th 4c 4d]
+Dorex2007: checks 
+BulletsEatR: checks 
+*** TURN *** [Th 4c 4d] [Qh]
+Dorex2007: checks 
+BulletsEatR: checks 
+*** RIVER *** [Th 4c 4d Qh] [7c]
+Dorex2007: checks 
+BulletsEatR: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [Ad 2h] (a pair of Fours)
+BulletsEatR: shows [Ts 5s] (two pair, Tens and Fours)
+BulletsEatR collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Th 4c 4d Qh 7c]
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 2: nextdoo folded before Flop (didn't bet)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 6: MagnusCarlson (button) folded before Flop (didn't bet)
+Seat 7: facundo23 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) showed [Ad 2h] and lost with a pair of Fours
+Seat 9: BulletsEatR showed [Ts 5s] and won ($0.05) with two pair, Tens and Fours
+
+
+
+PokerStars Hand #228279469230:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:25:32 PT [2021/07/14 1:25:32 ET]
+Table 'Bellatrix IV' 9-max Seat #7 is the button
+Seat 1: 84d83473r ($2.30 in chips) 
+Seat 3: Nikolai9103 ($2 in chips) 
+Seat 6: MagnusCarlson ($2.33 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($2.11 in chips) 
+Seat 9: BulletsEatR ($1.21 in chips) 
+Dorex2007: posts small blind $0.01
+BulletsEatR: posts big blind $0.02
+nextdoo: sits out 
+abufirs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s Jc]
+84d83473r: folds 
+Nikolai9103: folds 
+MagnusCarlson: folds 
+facundo23: raises $0.04 to $0.06
+Dorex2007: folds 
+BulletsEatR: folds 
+Uncalled bet ($0.04) returned to facundo23
+facundo23 collected $0.05 from pot
+facundo23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 (button) collected ($0.05)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: BulletsEatR (big blind) folded before Flop
+
+
+
+PokerStars Hand #228279471746:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:25:50 PT [2021/07/14 1:25:50 ET]
+Table 'Bellatrix IV' 9-max Seat #8 is the button
+Seat 1: 84d83473r ($2.30 in chips) 
+Seat 3: Nikolai9103 ($2 in chips) 
+Seat 6: MagnusCarlson ($2.33 in chips) 
+Seat 7: facundo23 ($2.03 in chips) 
+Seat 8: Dorex2007 ($2.10 in chips) 
+Seat 9: BulletsEatR ($1.19 in chips) 
+BulletsEatR: posts small blind $0.01
+84d83473r: posts big blind $0.02
+nextdoo: sits out 
+abufirs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Ac]
+Nikolai9103: folds 
+wwdecider leaves the table
+MagnusCarlson: raises $0.04 to $0.06
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+84d83473r: folds 
+Uncalled bet ($0.04) returned to MagnusCarlson
+MagnusCarlson collected $0.05 from pot
+MagnusCarlson: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: 84d83473r (big blind) folded before Flop
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 6: MagnusCarlson collected ($0.05)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: BulletsEatR (small blind) folded before Flop
+
+
+
+PokerStars Hand #228279474479:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:26:10 PT [2021/07/14 1:26:10 ET]
+Table 'Bellatrix IV' 9-max Seat #9 is the button
+Seat 1: 84d83473r ($2.28 in chips) 
+Seat 2: nextdoo ($2.03 in chips) 
+Seat 3: Nikolai9103 ($2 in chips) 
+Seat 6: MagnusCarlson ($2.36 in chips) 
+Seat 7: facundo23 ($2.03 in chips) 
+Seat 8: Dorex2007 ($2.10 in chips) 
+Seat 9: BulletsEatR ($1.18 in chips) 
+84d83473r: posts small blind $0.01
+nextdoo: posts big blind $0.02
+abufirs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 2c]
+Nikolai9103: folds 
+MagnusCarlson: raises $0.04 to $0.06
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+84d83473r: folds 
+nextdoo: folds 
+Uncalled bet ($0.04) returned to MagnusCarlson
+MagnusCarlson collected $0.05 from pot
+MagnusCarlson: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: 84d83473r (small blind) folded before Flop
+Seat 2: nextdoo (big blind) folded before Flop
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 6: MagnusCarlson collected ($0.05)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279477953:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:26:35 PT [2021/07/14 1:26:35 ET]
+Table 'Bellatrix IV' 9-max Seat #1 is the button
+Seat 1: 84d83473r ($2.27 in chips) 
+Seat 2: nextdoo ($2.01 in chips) 
+Seat 3: Nikolai9103 ($2 in chips) 
+Seat 6: MagnusCarlson ($2.39 in chips) 
+Seat 7: facundo23 ($2.03 in chips) 
+Seat 8: Dorex2007 ($2.10 in chips) 
+Seat 9: BulletsEatR ($1.18 in chips) 
+nextdoo: posts small blind $0.01
+Nikolai9103: posts big blind $0.02
+Chrymz joins the table at seat #4 
+abufirs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 8c]
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: calls $0.02
+84d83473r: folds 
+nextdoo: folds 
+Nikolai9103: checks 
+*** FLOP *** [4s 6c 8s]
+Nikolai9103: checks 
+BulletsEatR: checks 
+*** TURN *** [4s 6c 8s] [Td]
+Nikolai9103: checks 
+BulletsEatR: checks 
+*** RIVER *** [4s 6c 8s Td] [Qd]
+Nikolai9103: checks 
+BulletsEatR: checks 
+*** SHOW DOWN ***
+Nikolai9103: shows [Ts 5h] (a pair of Tens)
+BulletsEatR: mucks hand 
+Nikolai9103 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4s 6c 8s Td Qd]
+Seat 1: 84d83473r (button) folded before Flop (didn't bet)
+Seat 2: nextdoo (small blind) folded before Flop
+Seat 3: Nikolai9103 (big blind) showed [Ts 5h] and won ($0.05) with a pair of Tens
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR mucked [3d 2d]
+
+
+
+PokerStars Hand #228279482372:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:27:07 PT [2021/07/14 1:27:07 ET]
+Table 'Bellatrix IV' 9-max Seat #2 is the button
+Seat 1: 84d83473r ($2.27 in chips) 
+Seat 2: nextdoo ($2 in chips) 
+Seat 3: Nikolai9103 ($2.03 in chips) 
+Seat 4: Chrymz ($0.80 in chips) 
+Seat 6: MagnusCarlson ($2.39 in chips) 
+Seat 7: facundo23 ($2.03 in chips) 
+Seat 8: Dorex2007 ($2.10 in chips) 
+Seat 9: BulletsEatR ($1.16 in chips) 
+Nikolai9103: posts small blind $0.01
+Chrymz: posts big blind $0.02
+abufirs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 8s]
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+84d83473r: raises $0.04 to $0.06
+nextdoo: folds 
+Nikolai9103: calls $0.05
+Chrymz: calls $0.04
+*** FLOP *** [6s 8d 6c]
+Nikolai9103: checks 
+Chrymz: checks 
+84d83473r: checks 
+*** TURN *** [6s 8d 6c] [2s]
+Nikolai9103: checks 
+Chrymz: checks 
+84d83473r: checks 
+*** RIVER *** [6s 8d 6c 2s] [4h]
+Nikolai9103: checks 
+Chrymz: checks 
+84d83473r: checks 
+*** SHOW DOWN ***
+Nikolai9103: shows [Ad Tc] (a pair of Sixes)
+Chrymz: mucks hand 
+84d83473r: mucks hand 
+Nikolai9103 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [6s 8d 6c 2s 4h]
+Seat 1: 84d83473r mucked [Jc Kh]
+Seat 2: nextdoo (button) folded before Flop (didn't bet)
+Seat 3: Nikolai9103 (small blind) showed [Ad Tc] and won ($0.17) with a pair of Sixes
+Seat 4: Chrymz (big blind) mucked [Ah 3c]
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279493089:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:28:25 PT [2021/07/14 1:28:25 ET]
+Table 'Bellatrix IV' 9-max Seat #3 is the button
+Seat 1: 84d83473r ($2.21 in chips) 
+Seat 2: nextdoo ($2 in chips) 
+Seat 3: Nikolai9103 ($2.14 in chips) 
+Seat 4: Chrymz ($0.74 in chips) 
+Seat 5: abufirs ($1.70 in chips) 
+Seat 6: MagnusCarlson ($2.39 in chips) 
+Seat 7: facundo23 ($2.03 in chips) 
+Seat 8: Dorex2007 ($2.10 in chips) 
+Seat 9: BulletsEatR ($1.16 in chips) 
+Chrymz: posts small blind $0.01
+abufirs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 3c]
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: calls $0.02
+84d83473r: folds 
+nextdoo: folds 
+Nikolai9103: folds 
+Chrymz: calls $0.01
+abufirs: checks 
+*** FLOP *** [8h Jc 3d]
+Chrymz: checks 
+abufirs: checks 
+BulletsEatR: checks 
+*** TURN *** [8h Jc 3d] [Ac]
+Chrymz: bets $0.04
+abufirs: folds 
+BulletsEatR: folds 
+Uncalled bet ($0.04) returned to Chrymz
+Chrymz collected $0.06 from pot
+Chrymz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [8h Jc 3d Ac]
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 2: nextdoo folded before Flop (didn't bet)
+Seat 3: Nikolai9103 (button) folded before Flop (didn't bet)
+Seat 4: Chrymz (small blind) collected ($0.06)
+Seat 5: abufirs (big blind) folded on the Turn
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded on the Turn
+
+
+
+PokerStars Hand #228279500862:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:29:20 PT [2021/07/14 1:29:20 ET]
+Table 'Bellatrix IV' 9-max Seat #4 is the button
+Seat 1: 84d83473r ($2.21 in chips) 
+Seat 2: nextdoo ($2 in chips) 
+Seat 3: Nikolai9103 ($2.14 in chips) 
+Seat 4: Chrymz ($0.78 in chips) 
+Seat 5: abufirs ($1.68 in chips) 
+Seat 6: MagnusCarlson ($2.39 in chips) 
+Seat 7: facundo23 ($2.03 in chips) 
+Seat 8: Dorex2007 ($2.10 in chips) 
+Seat 9: BulletsEatR ($1.14 in chips) 
+abufirs: posts small blind $0.01
+MagnusCarlson: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Kh]
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+84d83473r: folds 
+nextdoo: folds 
+Nikolai9103: folds 
+Chrymz has timed out
+Chrymz: folds 
+abufirs: calls $0.01
+MagnusCarlson: checks 
+*** FLOP *** [Ts 7s 4d]
+abufirs: checks 
+MagnusCarlson: checks 
+*** TURN *** [Ts 7s 4d] [2d]
+abufirs: checks 
+MagnusCarlson: checks 
+*** RIVER *** [Ts 7s 4d 2d] [5h]
+abufirs: checks 
+MagnusCarlson: checks 
+*** SHOW DOWN ***
+abufirs: shows [8c Ks] (high card King)
+MagnusCarlson: shows [Jc 2h] (a pair of Deuces)
+MagnusCarlson collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Ts 7s 4d 2d 5h]
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 2: nextdoo folded before Flop (didn't bet)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz (button) folded before Flop (didn't bet)
+Seat 5: abufirs (small blind) showed [8c Ks] and lost with high card King
+Seat 6: MagnusCarlson (big blind) showed [Jc 2h] and won ($0.04) with a pair of Deuces
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279506491:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:30:00 PT [2021/07/14 1:30:00 ET]
+Table 'Bellatrix IV' 9-max Seat #5 is the button
+Seat 1: 84d83473r ($2.21 in chips) 
+Seat 2: nextdoo ($2 in chips) 
+Seat 3: Nikolai9103 ($2.14 in chips) 
+Seat 4: Chrymz ($0.78 in chips) 
+Seat 5: abufirs ($1.66 in chips) 
+Seat 6: MagnusCarlson ($2.41 in chips) 
+Seat 7: facundo23 ($2.03 in chips) 
+Seat 8: Dorex2007 ($2.10 in chips) 
+Seat 9: BulletsEatR ($1.14 in chips) 
+MagnusCarlson: posts small blind $0.01
+facundo23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 7c]
+Dorex2007: folds 
+BulletsEatR: calls $0.02
+84d83473r: folds 
+nextdoo: folds 
+Nikolai9103: folds 
+Chrymz: folds 
+abufirs: folds 
+MagnusCarlson: folds 
+facundo23: checks 
+*** FLOP *** [3h 4c 5c]
+facundo23: checks 
+BulletsEatR: checks 
+*** TURN *** [3h 4c 5c] [Qd]
+facundo23: checks 
+BulletsEatR: checks 
+*** RIVER *** [3h 4c 5c Qd] [3d]
+facundo23: checks 
+BulletsEatR: checks 
+*** SHOW DOWN ***
+facundo23: shows [5d Tc] (two pair, Fives and Threes)
+BulletsEatR: shows [Jh Jc] (two pair, Jacks and Threes)
+BulletsEatR collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3h 4c 5c Qd 3d]
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 2: nextdoo folded before Flop (didn't bet)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz folded before Flop (didn't bet)
+Seat 5: abufirs (button) folded before Flop (didn't bet)
+Seat 6: MagnusCarlson (small blind) folded before Flop
+Seat 7: facundo23 (big blind) showed [5d Tc] and lost with two pair, Fives and Threes
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR showed [Jh Jc] and won ($0.05) with two pair, Jacks and Threes
+
+
+
+PokerStars Hand #228279514550:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:30:57 PT [2021/07/14 1:30:57 ET]
+Table 'Bellatrix IV' 9-max Seat #6 is the button
+Seat 1: 84d83473r ($2.21 in chips) 
+Seat 2: nextdoo ($2 in chips) 
+Seat 3: Nikolai9103 ($2.14 in chips) 
+Seat 4: Chrymz ($0.78 in chips) 
+Seat 5: abufirs ($1.66 in chips) 
+Seat 6: MagnusCarlson ($2.40 in chips) 
+Seat 7: facundo23 ($2.01 in chips) 
+Seat 8: Dorex2007 ($2.10 in chips) 
+Seat 9: BulletsEatR ($1.17 in chips) 
+facundo23: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 2d]
+BulletsEatR: calls $0.02
+84d83473r: folds 
+nextdoo: folds 
+Nikolai9103: folds 
+Chrymz: folds 
+abufirs: calls $0.02
+MagnusCarlson has timed out
+MagnusCarlson: folds 
+facundo23: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [Tc 4s 6c]
+facundo23: bets $0.08
+Dorex2007: folds 
+BulletsEatR: folds 
+abufirs: folds 
+Uncalled bet ($0.08) returned to facundo23
+facundo23 collected $0.08 from pot
+facundo23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Tc 4s 6c]
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 2: nextdoo folded before Flop (didn't bet)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz folded before Flop (didn't bet)
+Seat 5: abufirs folded on the Flop
+Seat 6: MagnusCarlson (button) folded before Flop (didn't bet)
+Seat 7: facundo23 (small blind) collected ($0.08)
+Seat 8: Dorex2007 (big blind) folded on the Flop
+Seat 9: BulletsEatR folded on the Flop
+
+
+
+PokerStars Hand #228279520651:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:31:40 PT [2021/07/14 1:31:40 ET]
+Table 'Bellatrix IV' 9-max Seat #7 is the button
+Seat 1: 84d83473r ($2.21 in chips) 
+Seat 2: nextdoo ($2 in chips) 
+Seat 3: Nikolai9103 ($2.14 in chips) 
+Seat 4: Chrymz ($0.78 in chips) 
+Seat 5: abufirs ($1.64 in chips) 
+Seat 6: MagnusCarlson ($2.40 in chips) 
+Seat 7: facundo23 ($2.07 in chips) 
+Seat 8: Dorex2007 ($2.08 in chips) 
+Seat 9: BulletsEatR ($1.15 in chips) 
+Dorex2007: posts small blind $0.01
+BulletsEatR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 6d]
+84d83473r: folds 
+nextdoo: folds 
+Nikolai9103: folds 
+Chrymz: calls $0.02
+abufirs: raises $0.04 to $0.06
+MagnusCarlson: raises $0.12 to $0.18
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+Chrymz: folds 
+abufirs: calls $0.12
+*** FLOP *** [8h 3s 7d]
+abufirs: checks 
+MagnusCarlson: bets $0.11
+abufirs: folds 
+Uncalled bet ($0.11) returned to MagnusCarlson
+MagnusCarlson collected $0.40 from pot
+MagnusCarlson: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [8h 3s 7d]
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 2: nextdoo folded before Flop (didn't bet)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz folded before Flop
+Seat 5: abufirs folded on the Flop
+Seat 6: MagnusCarlson collected ($0.40)
+Seat 7: facundo23 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: BulletsEatR (big blind) folded before Flop
+
+
+
+PokerStars Hand #228279532678:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:32:23 PT [2021/07/14 1:32:23 ET]
+Table 'Bellatrix IV' 9-max Seat #8 is the button
+Seat 1: 84d83473r ($2.21 in chips) 
+Seat 2: nextdoo ($2 in chips) 
+Seat 3: Nikolai9103 ($2.14 in chips) 
+Seat 4: Chrymz ($0.76 in chips) 
+Seat 5: abufirs ($1.46 in chips) 
+Seat 6: MagnusCarlson ($2.62 in chips) 
+Seat 7: facundo23 ($2.07 in chips) 
+Seat 8: Dorex2007 ($2.07 in chips) 
+Seat 9: BulletsEatR ($1.13 in chips) 
+BulletsEatR: posts small blind $0.01
+84d83473r: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s Qc]
+nextdoo: folds 
+Nikolai9103: folds 
+Chrymz: calls $0.02
+abufirs: folds 
+MagnusCarlson: folds 
+facundo23 has timed out
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: raises $0.02 to $0.04
+84d83473r: calls $0.02
+Chrymz: calls $0.02
+*** FLOP *** [Jh 5s Jd]
+BulletsEatR: checks 
+84d83473r: checks 
+Chrymz: checks 
+*** TURN *** [Jh 5s Jd] [Ks]
+BulletsEatR: checks 
+84d83473r: checks 
+Chrymz: checks 
+*** RIVER *** [Jh 5s Jd Ks] [Kh]
+BulletsEatR: checks 
+84d83473r: checks 
+Chrymz: checks 
+*** SHOW DOWN ***
+BulletsEatR: shows [8d Qh] (two pair, Kings and Jacks)
+84d83473r: mucks hand 
+Chrymz: mucks hand 
+BulletsEatR collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Jh 5s Jd Ks Kh]
+Seat 1: 84d83473r (big blind) mucked [9c 6d]
+Seat 2: nextdoo folded before Flop (didn't bet)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz mucked [7d 4d]
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: BulletsEatR (small blind) showed [8d Qh] and won ($0.12) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #228279540777:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:33:23 PT [2021/07/14 1:33:23 ET]
+Table 'Bellatrix IV' 9-max Seat #9 is the button
+Seat 1: 84d83473r ($2.17 in chips) 
+Seat 3: Nikolai9103 ($2.14 in chips) 
+Seat 4: Chrymz ($0.72 in chips) 
+Seat 5: abufirs ($1.46 in chips) 
+Seat 6: MagnusCarlson ($2.62 in chips) 
+Seat 7: facundo23 ($2.07 in chips) 
+Seat 8: Dorex2007 ($2.07 in chips) 
+Seat 9: BulletsEatR ($1.21 in chips) 
+84d83473r: posts small blind $0.01
+nextdoo: is sitting out 
+Nikolai9103: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 5s]
+nextdoo leaves the table
+Chrymz: calls $0.02
+abufirs: folds 
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: raises $0.02 to $0.04
+84d83473r: folds 
+Nikolai9103: folds 
+Chrymz: calls $0.02
+*** FLOP *** [5c Jc Kh]
+Chrymz: checks 
+BulletsEatR: checks 
+*** TURN *** [5c Jc Kh] [3s]
+Chrymz: bets $0.04
+BulletsEatR: raises $0.04 to $0.08
+Chrymz: calls $0.04
+*** RIVER *** [5c Jc Kh 3s] [8c]
+Chrymz: bets $0.10
+BulletsEatR: calls $0.10
+*** SHOW DOWN ***
+Chrymz: shows [7c 6c] (a flush, Jack high)
+BulletsEatR: mucks hand 
+Chrymz collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [5c Jc Kh 3s 8c]
+Seat 1: 84d83473r (small blind) folded before Flop
+Seat 3: Nikolai9103 (big blind) folded before Flop
+Seat 4: Chrymz showed [7c 6c] and won ($0.45) with a flush, Jack high
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR (button) mucked [Th Js]
+
+
+
+PokerStars Hand #228279549111:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:34:24 PT [2021/07/14 1:34:24 ET]
+Table 'Bellatrix IV' 9-max Seat #1 is the button
+Seat 1: 84d83473r ($2.16 in chips) 
+Seat 3: Nikolai9103 ($2.12 in chips) 
+Seat 4: Chrymz ($0.95 in chips) 
+Seat 5: abufirs ($1.46 in chips) 
+Seat 6: MagnusCarlson ($2.62 in chips) 
+Seat 7: facundo23 ($2.07 in chips) 
+Seat 8: Dorex2007 ($2.07 in chips) 
+Seat 9: BulletsEatR ($0.99 in chips) 
+Nikolai9103: posts small blind $0.01
+Chrymz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 9s]
+abufirs: folds 
+MagnusCarlson: folds 
+DocAces83 joins the table at seat #2 
+facundo23 has timed out
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+84d83473r: raises $0.04 to $0.06
+Nikolai9103: folds 
+Chrymz: calls $0.04
+*** FLOP *** [Tc 7h Jh]
+Chrymz: checks 
+84d83473r: bets $0.07
+Chrymz: calls $0.07
+*** TURN *** [Tc 7h Jh] [2s]
+Chrymz: checks 
+84d83473r: checks 
+*** RIVER *** [Tc 7h Jh 2s] [6h]
+Chrymz: bets $0.12
+84d83473r: folds 
+Uncalled bet ($0.12) returned to Chrymz
+Chrymz collected $0.26 from pot
+Chrymz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Tc 7h Jh 2s 6h]
+Seat 1: 84d83473r (button) folded on the River
+Seat 3: Nikolai9103 (small blind) folded before Flop
+Seat 4: Chrymz (big blind) collected ($0.26)
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279560858:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:35:49 PT [2021/07/14 1:35:49 ET]
+Table 'Bellatrix IV' 9-max Seat #3 is the button
+Seat 1: 84d83473r ($2.03 in chips) 
+Seat 3: Nikolai9103 ($2.11 in chips) 
+Seat 4: Chrymz ($1.08 in chips) 
+Seat 5: abufirs ($1.46 in chips) 
+Seat 6: MagnusCarlson ($2.62 in chips) 
+Seat 8: Dorex2007 ($2.07 in chips) 
+Seat 9: BulletsEatR ($0.99 in chips) 
+Chrymz: posts small blind $0.01
+abufirs: posts big blind $0.02
+DocAces83: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Ac]
+MagnusCarlson: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+84d83473r has timed out
+84d83473r: folds 
+Nikolai9103 has timed out
+Nikolai9103: folds 
+Chrymz: calls $0.01
+abufirs: checks 
+*** FLOP *** [8s 6c Jh]
+Chrymz: checks 
+abufirs: bets $0.04
+Chrymz: folds 
+Uncalled bet ($0.04) returned to abufirs
+abufirs collected $0.04 from pot
+abufirs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [8s 6c Jh]
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 3: Nikolai9103 (button) folded before Flop (didn't bet)
+Seat 4: Chrymz (small blind) folded on the Flop
+Seat 5: abufirs (big blind) collected ($0.04)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279570158:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:36:55 PT [2021/07/14 1:36:55 ET]
+Table 'Bellatrix IV' 9-max Seat #4 is the button
+Seat 1: 84d83473r ($2.03 in chips) 
+Seat 3: Nikolai9103 ($2.11 in chips) 
+Seat 4: Chrymz ($1.06 in chips) 
+Seat 5: abufirs ($1.48 in chips) 
+Seat 6: MagnusCarlson ($2.62 in chips) 
+Seat 8: Dorex2007 ($2.07 in chips) 
+Seat 9: BulletsEatR ($0.99 in chips) 
+abufirs: posts small blind $0.01
+MagnusCarlson: posts big blind $0.02
+DocAces83: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 4h]
+Dorex2007: folds 
+BulletsEatR: folds 
+84d83473r: raises $0.04 to $0.06
+Nikolai9103: calls $0.06
+Chrymz: calls $0.06
+abufirs: folds 
+MagnusCarlson: folds 
+*** FLOP *** [9d Td 7s]
+84d83473r: checks 
+Nikolai9103: bets $0.10
+Chrymz: folds 
+84d83473r: folds 
+Uncalled bet ($0.10) returned to Nikolai9103
+Nikolai9103 collected $0.20 from pot
+Nikolai9103: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [9d Td 7s]
+Seat 1: 84d83473r folded on the Flop
+Seat 3: Nikolai9103 collected ($0.20)
+Seat 4: Chrymz (button) folded on the Flop
+Seat 5: abufirs (small blind) folded before Flop
+Seat 6: MagnusCarlson (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279577227:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:37:47 PT [2021/07/14 1:37:47 ET]
+Table 'Bellatrix IV' 9-max Seat #5 is the button
+Seat 1: 84d83473r ($1.97 in chips) 
+Seat 3: Nikolai9103 ($2.25 in chips) 
+Seat 4: Chrymz ($1 in chips) 
+Seat 5: abufirs ($1.47 in chips) 
+Seat 6: MagnusCarlson ($2.60 in chips) 
+Seat 8: Dorex2007 ($2.07 in chips) 
+Seat 9: BulletsEatR ($0.99 in chips) 
+MagnusCarlson: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+DocAces83: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 5d]
+BulletsEatR: folds 
+84d83473r: folds 
+Nikolai9103: folds 
+Chrymz: calls $0.02
+abufirs: raises $0.06 to $0.08
+MagnusCarlson: folds 
+Dorex2007: folds 
+Chrymz: folds 
+Uncalled bet ($0.06) returned to abufirs
+abufirs collected $0.07 from pot
+abufirs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz folded before Flop
+Seat 5: abufirs (button) collected ($0.07)
+Seat 6: MagnusCarlson (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279580756:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:38:12 PT [2021/07/14 1:38:12 ET]
+Table 'Bellatrix IV' 9-max Seat #6 is the button
+Seat 1: 84d83473r ($1.97 in chips) 
+Seat 3: Nikolai9103 ($2.25 in chips) 
+Seat 4: Chrymz ($0.98 in chips) 
+Seat 5: abufirs ($1.52 in chips) 
+Seat 6: MagnusCarlson ($2.59 in chips) 
+Seat 8: Dorex2007 ($2.05 in chips) 
+Seat 9: BulletsEatR ($0.99 in chips) 
+Dorex2007: posts small blind $0.01
+BulletsEatR: posts big blind $0.02
+DocAces83: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 2d]
+84d83473r: calls $0.02
+Nikolai9103: folds 
+Chrymz: folds 
+abufirs: calls $0.02
+MagnusCarlson: folds 
+Dorex2007: folds 
+BulletsEatR: checks 
+*** FLOP *** [Jc Jh 3c]
+BulletsEatR: checks 
+84d83473r: bets $0.04
+abufirs: folds 
+BulletsEatR: folds 
+Uncalled bet ($0.04) returned to 84d83473r
+84d83473r collected $0.07 from pot
+84d83473r: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Jc Jh 3c]
+Seat 1: 84d83473r collected ($0.07)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz folded before Flop (didn't bet)
+Seat 5: abufirs folded on the Flop
+Seat 6: MagnusCarlson (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: BulletsEatR (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228279584639:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:38:40 PT [2021/07/14 1:38:40 ET]
+Table 'Bellatrix IV' 9-max Seat #8 is the button
+Seat 1: 84d83473r ($2.02 in chips) 
+Seat 3: Nikolai9103 ($2.25 in chips) 
+Seat 4: Chrymz ($0.98 in chips) 
+Seat 5: abufirs ($1.50 in chips) 
+Seat 6: MagnusCarlson ($2.59 in chips) 
+Seat 8: Dorex2007 ($2.04 in chips) 
+Seat 9: BulletsEatR ($0.97 in chips) 
+BulletsEatR: posts small blind $0.01
+84d83473r: posts big blind $0.02
+DocAces83: sits out 
+facundo23: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Th]
+Nikolai9103: folds 
+Chrymz: folds 
+abufirs: folds 
+MagnusCarlson: folds 
+Dorex2007: folds 
+BulletsEatR: calls $0.01
+84d83473r: checks 
+*** FLOP *** [5d Ts Kc]
+BulletsEatR: checks 
+84d83473r: checks 
+*** TURN *** [5d Ts Kc] [Ad]
+BulletsEatR: checks 
+84d83473r: checks 
+*** RIVER *** [5d Ts Kc Ad] [9s]
+BulletsEatR: checks 
+84d83473r: checks 
+*** SHOW DOWN ***
+BulletsEatR: shows [8c 4c] (high card Ace)
+84d83473r: shows [Jh 2s] (high card Ace - King+Jack kicker)
+84d83473r collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [5d Ts Kc Ad 9s]
+Seat 1: 84d83473r (big blind) showed [Jh 2s] and won ($0.04) with high card Ace
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz folded before Flop (didn't bet)
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: BulletsEatR (small blind) showed [8c 4c] and lost with high card Ace
+
+
+
+PokerStars Hand #228279590130:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:39:19 PT [2021/07/14 1:39:19 ET]
+Table 'Bellatrix IV' 9-max Seat #9 is the button
+Seat 1: 84d83473r ($2.04 in chips) 
+Seat 2: DocAces83 ($2 in chips) 
+Seat 3: Nikolai9103 ($2.25 in chips) 
+Seat 4: Chrymz ($0.98 in chips) 
+Seat 5: abufirs ($1.50 in chips) 
+Seat 6: MagnusCarlson ($2.59 in chips) 
+Seat 8: Dorex2007 ($2.04 in chips) 
+Seat 9: BulletsEatR ($0.95 in chips) 
+84d83473r: posts small blind $0.01
+DocAces83: posts big blind $0.02
+facundo23: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Qh]
+Nikolai9103: folds 
+Chrymz: folds 
+abufirs: folds 
+MagnusCarlson: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+84d83473r: folds 
+Uncalled bet ($0.01) returned to DocAces83
+DocAces83 collected $0.02 from pot
+DocAces83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: 84d83473r (small blind) folded before Flop
+Seat 2: DocAces83 (big blind) collected ($0.02)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz folded before Flop (didn't bet)
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279592656:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:39:37 PT [2021/07/14 1:39:37 ET]
+Table 'Bellatrix IV' 9-max Seat #1 is the button
+Seat 1: 84d83473r ($2.03 in chips) 
+Seat 2: DocAces83 ($2.01 in chips) 
+Seat 3: Nikolai9103 ($2.25 in chips) 
+Seat 4: Chrymz ($0.98 in chips) 
+Seat 5: abufirs ($1.50 in chips) 
+Seat 6: MagnusCarlson ($2.59 in chips) 
+Seat 8: Dorex2007 ($2.04 in chips) 
+Seat 9: BulletsEatR ($0.95 in chips) 
+DocAces83: posts small blind $0.01
+Nikolai9103: posts big blind $0.02
+facundo23: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 4h]
+Chrymz: calls $0.02
+abufirs: folds 
+MagnusCarlson: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+84d83473r: folds 
+DocAces83: folds 
+Nikolai9103: checks 
+*** FLOP *** [7c Kc Qc]
+Nikolai9103: checks 
+Chrymz: bets $0.02
+Nikolai9103: calls $0.02
+*** TURN *** [7c Kc Qc] [3s]
+Nikolai9103: checks 
+Chrymz: bets $0.04
+Nikolai9103: calls $0.04
+*** RIVER *** [7c Kc Qc 3s] [Ac]
+Nikolai9103: checks 
+Chrymz: checks 
+*** SHOW DOWN ***
+Nikolai9103: shows [Kh 3c] (a flush, Ace high)
+Chrymz: mucks hand 
+Nikolai9103 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [7c Kc Qc 3s Ac]
+Seat 1: 84d83473r (button) folded before Flop (didn't bet)
+Seat 2: DocAces83 (small blind) folded before Flop
+Seat 3: Nikolai9103 (big blind) showed [Kh 3c] and won ($0.16) with a flush, Ace high
+Seat 4: Chrymz mucked [Qs Js]
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279598313:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:40:17 PT [2021/07/14 1:40:17 ET]
+Table 'Bellatrix IV' 9-max Seat #2 is the button
+Seat 1: 84d83473r ($2.03 in chips) 
+Seat 2: DocAces83 ($2 in chips) 
+Seat 3: Nikolai9103 ($2.33 in chips) 
+Seat 4: Chrymz ($0.90 in chips) 
+Seat 5: abufirs ($1.50 in chips) 
+Seat 6: MagnusCarlson ($2.59 in chips) 
+Seat 8: Dorex2007 ($2.04 in chips) 
+Seat 9: BulletsEatR ($0.95 in chips) 
+Nikolai9103: posts small blind $0.01
+Chrymz: posts big blind $0.02
+facundo23: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 2h]
+abufirs: folds 
+MagnusCarlson: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+84d83473r: folds 
+DocAces83: folds 
+Nikolai9103: calls $0.01
+Chrymz: checks 
+*** FLOP *** [9s Qs Qc]
+Nikolai9103: checks 
+Chrymz: bets $0.02
+Nikolai9103: folds 
+Uncalled bet ($0.02) returned to Chrymz
+Chrymz collected $0.04 from pot
+Chrymz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [9s Qs Qc]
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 2: DocAces83 (button) folded before Flop (didn't bet)
+Seat 3: Nikolai9103 (small blind) folded on the Flop
+Seat 4: Chrymz (big blind) collected ($0.04)
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279603590:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:40:55 PT [2021/07/14 1:40:55 ET]
+Table 'Bellatrix IV' 9-max Seat #3 is the button
+Seat 1: 84d83473r ($2.03 in chips) 
+Seat 2: DocAces83 ($2 in chips) 
+Seat 3: Nikolai9103 ($2.31 in chips) 
+Seat 4: Chrymz ($0.92 in chips) 
+Seat 5: abufirs ($1.50 in chips) 
+Seat 6: MagnusCarlson ($2.59 in chips) 
+Seat 8: Dorex2007 ($2.04 in chips) 
+Seat 9: BulletsEatR ($0.95 in chips) 
+Chrymz: posts small blind $0.01
+abufirs: posts big blind $0.02
+facundo23: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 5d]
+MagnusCarlson: folds 
+Dorex2007: raises $0.02 to $0.04
+BulletsEatR: folds 
+84d83473r: folds 
+DocAces83: folds 
+Nikolai9103: folds 
+Chrymz: folds 
+abufirs: folds 
+Uncalled bet ($0.02) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: Nikolai9103 (button) folded before Flop (didn't bet)
+Seat 4: Chrymz (small blind) folded before Flop
+Seat 5: abufirs (big blind) folded before Flop
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 8: Dorex2007 collected ($0.05)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279606779:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:41:18 PT [2021/07/14 1:41:18 ET]
+Table 'Bellatrix IV' 9-max Seat #4 is the button
+Seat 1: 84d83473r ($2.03 in chips) 
+Seat 2: DocAces83 ($2 in chips) 
+Seat 3: Nikolai9103 ($2.31 in chips) 
+Seat 4: Chrymz ($0.91 in chips) 
+Seat 5: abufirs ($1.48 in chips) 
+Seat 6: MagnusCarlson ($2.59 in chips) 
+Seat 8: Dorex2007 ($2.07 in chips) 
+Seat 9: BulletsEatR ($0.95 in chips) 
+abufirs: posts small blind $0.01
+MagnusCarlson: posts big blind $0.02
+facundo23: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Jd]
+Dorex2007: folds 
+BulletsEatR: folds 
+84d83473r: calls $0.02
+DocAces83: folds 
+Nikolai9103: folds 
+Chrymz: folds 
+abufirs: calls $0.01
+MagnusCarlson: checks 
+*** FLOP *** [5h Tc 4c]
+abufirs: bets $0.03
+MagnusCarlson: folds 
+84d83473r: calls $0.03
+*** TURN *** [5h Tc 4c] [9d]
+abufirs: bets $0.06
+84d83473r: calls $0.06
+*** RIVER *** [5h Tc 4c 9d] [8c]
+abufirs: checks 
+84d83473r: checks 
+*** SHOW DOWN ***
+abufirs: shows [Qd Th] (a pair of Tens)
+84d83473r: mucks hand 
+abufirs collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [5h Tc 4c 9d 8c]
+Seat 1: 84d83473r mucked [Qc Ks]
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz (button) folded before Flop (didn't bet)
+Seat 5: abufirs (small blind) showed [Qd Th] and won ($0.23) with a pair of Tens
+Seat 6: MagnusCarlson (big blind) folded on the Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279619587:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:42:51 PT [2021/07/14 1:42:51 ET]
+Table 'Bellatrix IV' 9-max Seat #5 is the button
+Seat 1: 84d83473r ($1.92 in chips) 
+Seat 2: DocAces83 ($2 in chips) 
+Seat 3: Nikolai9103 ($2.31 in chips) 
+Seat 4: Chrymz ($0.91 in chips) 
+Seat 5: abufirs ($1.60 in chips) 
+Seat 6: MagnusCarlson ($2.57 in chips) 
+Seat 7: facundo23 ($2.07 in chips) 
+Seat 8: Dorex2007 ($2.07 in chips) 
+Seat 9: BulletsEatR ($0.95 in chips) 
+MagnusCarlson: posts small blind $0.01
+facundo23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Tc]
+Dorex2007: folds 
+BulletsEatR: folds 
+84d83473r: folds 
+DocAces83: folds 
+Nikolai9103: folds 
+Chrymz: folds 
+abufirs: calls $0.02
+MagnusCarlson: folds 
+facundo23: checks 
+*** FLOP *** [Jc Ac Qh]
+facundo23: checks 
+abufirs: checks 
+*** TURN *** [Jc Ac Qh] [5d]
+facundo23: checks 
+abufirs: checks 
+*** RIVER *** [Jc Ac Qh 5d] [3d]
+facundo23: checks 
+abufirs: checks 
+*** SHOW DOWN ***
+facundo23: shows [9h Th] (high card Ace)
+abufirs: shows [Kc 4c] (high card Ace - King kicker)
+abufirs collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jc Ac Qh 5d 3d]
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz folded before Flop (didn't bet)
+Seat 5: abufirs (button) showed [Kc 4c] and won ($0.05) with high card Ace
+Seat 6: MagnusCarlson (small blind) folded before Flop
+Seat 7: facundo23 (big blind) showed [9h Th] and lost with high card Ace
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279634609:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:43:33 PT [2021/07/14 1:43:33 ET]
+Table 'Bellatrix IV' 9-max Seat #6 is the button
+Seat 1: 84d83473r ($1.92 in chips) 
+Seat 2: DocAces83 ($2 in chips) 
+Seat 3: Nikolai9103 ($2.31 in chips) 
+Seat 4: Chrymz ($0.91 in chips) 
+Seat 5: abufirs ($1.63 in chips) 
+Seat 6: MagnusCarlson ($2.56 in chips) 
+Seat 7: facundo23 ($2.05 in chips) 
+Seat 8: Dorex2007 ($2.07 in chips) 
+Seat 9: BulletsEatR ($0.95 in chips) 
+facundo23: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 4c]
+BulletsEatR: calls $0.02
+84d83473r: folds 
+DocAces83: folds 
+Nikolai9103: folds 
+Chrymz: folds 
+abufirs: calls $0.02
+MagnusCarlson: folds 
+facundo23: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [7h 9h 6d]
+facundo23: checks 
+Dorex2007: checks 
+BulletsEatR: checks 
+abufirs: checks 
+*** TURN *** [7h 9h 6d] [Ks]
+facundo23: checks 
+Dorex2007: checks 
+BulletsEatR: checks 
+abufirs: bets $0.06
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+Uncalled bet ($0.06) returned to abufirs
+abufirs collected $0.08 from pot
+abufirs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [7h 9h 6d Ks]
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz folded before Flop (didn't bet)
+Seat 5: abufirs collected ($0.08)
+Seat 6: MagnusCarlson (button) folded before Flop (didn't bet)
+Seat 7: facundo23 (small blind) folded on the Turn
+Seat 8: Dorex2007 (big blind) folded on the Turn
+Seat 9: BulletsEatR folded on the Turn
+
+
+
+PokerStars Hand #228279641263:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:44:23 PT [2021/07/14 1:44:23 ET]
+Table 'Bellatrix IV' 9-max Seat #7 is the button
+Seat 1: 84d83473r ($1.92 in chips) 
+Seat 2: DocAces83 ($2 in chips) 
+Seat 3: Nikolai9103 ($2.31 in chips) 
+Seat 4: Chrymz ($0.91 in chips) 
+Seat 5: abufirs ($1.69 in chips) 
+Seat 6: MagnusCarlson ($2.56 in chips) 
+Seat 7: facundo23 ($2.03 in chips) 
+Seat 8: Dorex2007 ($2.05 in chips) 
+Seat 9: BulletsEatR ($0.93 in chips) 
+Dorex2007: posts small blind $0.01
+BulletsEatR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 5d]
+84d83473r: folds 
+DocAces83: folds 
+Nikolai9103: folds 
+Chrymz: folds 
+abufirs: folds 
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to BulletsEatR
+BulletsEatR collected $0.02 from pot
+BulletsEatR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz folded before Flop (didn't bet)
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: BulletsEatR (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #228279644541:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:44:47 PT [2021/07/14 1:44:47 ET]
+Table 'Bellatrix IV' 9-max Seat #8 is the button
+Seat 1: 84d83473r ($1.92 in chips) 
+Seat 2: DocAces83 ($2 in chips) 
+Seat 3: Nikolai9103 ($2.31 in chips) 
+Seat 4: Chrymz ($0.91 in chips) 
+Seat 5: abufirs ($1.69 in chips) 
+Seat 6: MagnusCarlson ($2.56 in chips) 
+Seat 7: facundo23 ($2.03 in chips) 
+Seat 8: Dorex2007 ($2.04 in chips) 
+Seat 9: BulletsEatR ($0.94 in chips) 
+BulletsEatR: posts small blind $0.01
+84d83473r: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 2h]
+DocAces83: raises $0.06 to $0.08
+Nikolai9103: folds 
+Chrymz: folds 
+abufirs: folds 
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: calls $0.07
+84d83473r: calls $0.06
+*** FLOP *** [Td 4d Kh]
+BulletsEatR: checks 
+84d83473r: checks 
+DocAces83: bets $0.08
+BulletsEatR: calls $0.08
+84d83473r: folds 
+*** TURN *** [Td 4d Kh] [6s]
+BulletsEatR: checks 
+DocAces83: bets $0.24
+BulletsEatR: folds 
+Uncalled bet ($0.24) returned to DocAces83
+DocAces83 collected $0.39 from pot
+DocAces83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [Td 4d Kh 6s]
+Seat 1: 84d83473r (big blind) folded on the Flop
+Seat 2: DocAces83 collected ($0.39)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz folded before Flop (didn't bet)
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: BulletsEatR (small blind) folded on the Turn
+
+
+
+PokerStars Hand #228279652295:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:45:44 PT [2021/07/14 1:45:44 ET]
+Table 'Bellatrix IV' 9-max Seat #9 is the button
+Seat 1: 84d83473r ($1.84 in chips) 
+Seat 2: DocAces83 ($2.23 in chips) 
+Seat 3: Nikolai9103 ($2.31 in chips) 
+Seat 4: Chrymz ($0.91 in chips) 
+Seat 5: abufirs ($1.69 in chips) 
+Seat 6: MagnusCarlson ($2.56 in chips) 
+Seat 7: facundo23 ($2.03 in chips) 
+Seat 8: Dorex2007 ($2.04 in chips) 
+Seat 9: BulletsEatR ($0.78 in chips) 
+84d83473r: posts small blind $0.01
+DocAces83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 2d]
+Nikolai9103: raises $0.04 to $0.06
+Chrymz: folds 
+abufirs: folds 
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+84d83473r: folds 
+DocAces83: folds 
+Uncalled bet ($0.04) returned to Nikolai9103
+Nikolai9103 collected $0.05 from pot
+Nikolai9103: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: 84d83473r (small blind) folded before Flop
+Seat 2: DocAces83 (big blind) folded before Flop
+Seat 3: Nikolai9103 collected ($0.05)
+Seat 4: Chrymz folded before Flop (didn't bet)
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279656613:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:46:16 PT [2021/07/14 1:46:16 ET]
+Table 'Bellatrix IV' 9-max Seat #1 is the button
+Seat 1: 84d83473r ($1.83 in chips) 
+Seat 2: DocAces83 ($2.21 in chips) 
+Seat 3: Nikolai9103 ($2.34 in chips) 
+Seat 4: Chrymz ($0.91 in chips) 
+Seat 5: abufirs ($1.69 in chips) 
+Seat 6: MagnusCarlson ($2.56 in chips) 
+Seat 7: facundo23 ($2.03 in chips) 
+Seat 8: Dorex2007 ($2.04 in chips) 
+Seat 9: BulletsEatR ($0.78 in chips) 
+DocAces83: posts small blind $0.01
+Nikolai9103: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 6c]
+Chrymz: folds 
+abufirs: folds 
+MagnusCarlson: raises $0.04 to $0.06
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+84d83473r: folds 
+DocAces83: folds 
+Nikolai9103: folds 
+Uncalled bet ($0.04) returned to MagnusCarlson
+MagnusCarlson collected $0.05 from pot
+MagnusCarlson: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: 84d83473r (button) folded before Flop (didn't bet)
+Seat 2: DocAces83 (small blind) folded before Flop
+Seat 3: Nikolai9103 (big blind) folded before Flop
+Seat 4: Chrymz folded before Flop (didn't bet)
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson collected ($0.05)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279660174:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:46:42 PT [2021/07/14 1:46:42 ET]
+Table 'Bellatrix IV' 9-max Seat #2 is the button
+Seat 1: 84d83473r ($1.83 in chips) 
+Seat 2: DocAces83 ($2.20 in chips) 
+Seat 3: Nikolai9103 ($2.32 in chips) 
+Seat 4: Chrymz ($0.91 in chips) 
+Seat 5: abufirs ($1.69 in chips) 
+Seat 6: MagnusCarlson ($2.59 in chips) 
+Seat 7: facundo23 ($2.03 in chips) 
+Seat 8: Dorex2007 ($2.04 in chips) 
+Seat 9: BulletsEatR ($0.78 in chips) 
+Nikolai9103: posts small blind $0.01
+Chrymz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 9s]
+abufirs: folds 
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: calls $0.02
+84d83473r: raises $0.06 to $0.08
+DocAces83: folds 
+Nikolai9103: folds 
+Chrymz: folds 
+BulletsEatR: calls $0.06
+*** FLOP *** [Jc 6h 2d]
+BulletsEatR: checks 
+84d83473r: bets $0.10
+BulletsEatR: folds 
+Uncalled bet ($0.10) returned to 84d83473r
+84d83473r collected $0.18 from pot
+84d83473r: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Jc 6h 2d]
+Seat 1: 84d83473r collected ($0.18)
+Seat 2: DocAces83 (button) folded before Flop (didn't bet)
+Seat 3: Nikolai9103 (small blind) folded before Flop
+Seat 4: Chrymz (big blind) folded before Flop
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded on the Flop
+
+
+
+PokerStars Hand #228279667183:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:47:33 PT [2021/07/14 1:47:33 ET]
+Table 'Bellatrix IV' 9-max Seat #3 is the button
+Seat 1: 84d83473r ($1.93 in chips) 
+Seat 2: DocAces83 ($2.20 in chips) 
+Seat 3: Nikolai9103 ($2.31 in chips) 
+Seat 4: Chrymz ($0.89 in chips) 
+Seat 5: abufirs ($1.69 in chips) 
+Seat 6: MagnusCarlson ($2.59 in chips) 
+Seat 7: facundo23 ($2.03 in chips) 
+Seat 8: Dorex2007 ($2.04 in chips) 
+Seat 9: BulletsEatR ($0.70 in chips) 
+Chrymz: posts small blind $0.01
+abufirs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Kh]
+MagnusCarlson: folds 
+facundo23: raises $0.04 to $0.06
+Dorex2007: folds 
+BulletsEatR: calls $0.06
+84d83473r: folds 
+DocAces83: folds 
+Nikolai9103: calls $0.06
+Chrymz: folds 
+abufirs: folds 
+*** FLOP *** [4s 4c Qs]
+facundo23: bets $0.20
+BulletsEatR: folds 
+Nikolai9103: calls $0.20
+*** TURN *** [4s 4c Qs] [7d]
+facundo23: bets $0.59
+Nikolai9103: calls $0.59
+*** RIVER *** [4s 4c Qs 7d] [2d]
+facundo23: bets $1.18 and is all-in
+Nikolai9103: calls $1.18
+*** SHOW DOWN ***
+facundo23: shows [Ad Ah] (two pair, Aces and Fours)
+Nikolai9103: shows [4h 4d] (four of a kind, Fours)
+Nikolai9103 collected $4 from pot
+*** SUMMARY ***
+Total pot $4.15 | Rake $0.15 
+Board [4s 4c Qs 7d 2d]
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: Nikolai9103 (button) showed [4h 4d] and won ($4) with four of a kind, Fours
+Seat 4: Chrymz (small blind) folded before Flop
+Seat 5: abufirs (big blind) folded before Flop
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 showed [Ad Ah] and lost with two pair, Aces and Fours
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded on the Flop
+
+
+
+PokerStars Hand #228279676344:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:48:42 PT [2021/07/14 1:48:42 ET]
+Table 'Bellatrix IV' 9-max Seat #4 is the button
+Seat 1: 84d83473r ($1.93 in chips) 
+Seat 2: DocAces83 ($2.20 in chips) 
+Seat 3: Nikolai9103 ($4.28 in chips) 
+Seat 4: Chrymz ($0.88 in chips) 
+Seat 5: abufirs ($1.67 in chips) 
+Seat 6: MagnusCarlson ($2.59 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($2.04 in chips) 
+Seat 9: BulletsEatR ($0.64 in chips) 
+abufirs: posts small blind $0.01
+MagnusCarlson: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Js]
+facundo23 has timed out
+facundo23: folds 
+Dorex2007: raises $0.04 to $0.06
+BulletsEatR: folds 
+84d83473r: folds 
+DocAces83: folds 
+Nikolai9103: folds 
+Chrymz: folds 
+abufirs: calls $0.05
+MagnusCarlson: raises $0.22 to $0.28
+Dorex2007: folds 
+abufirs: folds 
+Uncalled bet ($0.22) returned to MagnusCarlson
+MagnusCarlson collected $0.18 from pot
+MagnusCarlson: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0 
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz (button) folded before Flop (didn't bet)
+Seat 5: abufirs (small blind) folded before Flop
+Seat 6: MagnusCarlson (big blind) collected ($0.18)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279682123:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:49:25 PT [2021/07/14 1:49:25 ET]
+Table 'Bellatrix IV' 9-max Seat #5 is the button
+Seat 1: 84d83473r ($1.93 in chips) 
+Seat 2: DocAces83 ($2.20 in chips) 
+Seat 3: Nikolai9103 ($4.28 in chips) 
+Seat 4: Chrymz ($0.88 in chips) 
+Seat 5: abufirs ($1.61 in chips) 
+Seat 6: MagnusCarlson ($2.71 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($1.98 in chips) 
+Seat 9: BulletsEatR ($0.64 in chips) 
+MagnusCarlson: posts small blind $0.01
+facundo23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 3h]
+Dorex2007: folds 
+BulletsEatR: folds 
+84d83473r: calls $0.02
+DocAces83: folds 
+Nikolai9103: folds 
+Chrymz: folds 
+abufirs: raises $0.02 to $0.04
+MagnusCarlson: folds 
+facundo23: folds 
+84d83473r: calls $0.02
+*** FLOP *** [9s Td 5s]
+84d83473r: checks 
+abufirs: checks 
+*** TURN *** [9s Td 5s] [2h]
+84d83473r: checks 
+abufirs: checks 
+*** RIVER *** [9s Td 5s 2h] [Ts]
+84d83473r: checks 
+abufirs: bets $0.06
+84d83473r: folds 
+Uncalled bet ($0.06) returned to abufirs
+abufirs collected $0.11 from pot
+abufirs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [9s Td 5s 2h Ts]
+Seat 1: 84d83473r folded on the River
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz folded before Flop (didn't bet)
+Seat 5: abufirs (button) collected ($0.11)
+Seat 6: MagnusCarlson (small blind) folded before Flop
+Seat 7: facundo23 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279690895:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:50:31 PT [2021/07/14 1:50:31 ET]
+Table 'Bellatrix IV' 9-max Seat #6 is the button
+Seat 1: 84d83473r ($1.89 in chips) 
+Seat 2: DocAces83 ($2.20 in chips) 
+Seat 3: Nikolai9103 ($4.28 in chips) 
+Seat 4: Chrymz ($0.88 in chips) 
+Seat 5: abufirs ($1.68 in chips) 
+Seat 6: MagnusCarlson ($2.70 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($1.98 in chips) 
+Seat 9: BulletsEatR ($0.64 in chips) 
+facundo23: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 5d]
+BulletsEatR: folds 
+84d83473r: folds 
+DocAces83: folds 
+Nikolai9103: folds 
+Chrymz: calls $0.02
+abufirs: folds 
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: checks 
+*** FLOP *** [Kc 5c 9h]
+Dorex2007: checks 
+Chrymz: checks 
+*** TURN *** [Kc 5c 9h] [Js]
+Dorex2007: bets $0.05
+Chrymz: folds 
+Uncalled bet ($0.05) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kc 5c 9h Js]
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz folded on the Turn
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson (button) folded before Flop (didn't bet)
+Seat 7: facundo23 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) collected ($0.05)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279698408:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:51:28 PT [2021/07/14 1:51:28 ET]
+Table 'Bellatrix IV' 9-max Seat #7 is the button
+Seat 1: 84d83473r ($1.89 in chips) 
+Seat 2: DocAces83 ($2.20 in chips) 
+Seat 3: Nikolai9103 ($4.28 in chips) 
+Seat 4: Chrymz ($0.86 in chips) 
+Seat 5: abufirs ($1.68 in chips) 
+Seat 6: MagnusCarlson ($2.70 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($2.01 in chips) 
+Seat 9: BulletsEatR ($0.64 in chips) 
+Dorex2007: posts small blind $0.01
+BulletsEatR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Kd]
+84d83473r: raises $0.06 to $0.08
+DocAces83: folds 
+Nikolai9103: folds 
+Chrymz: folds 
+abufirs: folds 
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: calls $0.06
+*** FLOP *** [5c As 5h]
+BulletsEatR: checks 
+84d83473r: bets $0.08
+BulletsEatR: folds 
+Uncalled bet ($0.08) returned to 84d83473r
+84d83473r collected $0.16 from pot
+84d83473r: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [5c As 5h]
+Seat 1: 84d83473r collected ($0.16)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz folded before Flop (didn't bet)
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: BulletsEatR (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228279704043:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:52:10 PT [2021/07/14 1:52:10 ET]
+Table 'Bellatrix IV' 9-max Seat #8 is the button
+Seat 1: 84d83473r ($1.97 in chips) 
+Seat 2: DocAces83 ($2.20 in chips) 
+Seat 3: Nikolai9103 ($4.28 in chips) 
+Seat 4: Chrymz ($0.86 in chips) 
+Seat 5: abufirs ($1.68 in chips) 
+Seat 6: MagnusCarlson ($2.70 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: BulletsEatR ($0.56 in chips) 
+BulletsEatR: posts small blind $0.01
+84d83473r: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Ks]
+DocAces83: folds 
+Nikolai9103: folds 
+Chrymz: calls $0.02
+abufirs: folds 
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: calls $0.01
+84d83473r: checks 
+*** FLOP *** [9c 7h 3s]
+BulletsEatR: checks 
+84d83473r: bets $0.03
+Chrymz: calls $0.03
+BulletsEatR: calls $0.03
+*** TURN *** [9c 7h 3s] [3c]
+BulletsEatR: bets $0.51 and is all-in
+84d83473r: folds 
+Chrymz: folds 
+Uncalled bet ($0.51) returned to BulletsEatR
+BulletsEatR collected $0.14 from pot
+BulletsEatR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9c 7h 3s 3c]
+Seat 1: 84d83473r (big blind) folded on the Turn
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz folded on the Turn
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: BulletsEatR (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #228279712232:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:53:12 PT [2021/07/14 1:53:12 ET]
+Table 'Bellatrix IV' 9-max Seat #9 is the button
+Seat 1: 84d83473r ($1.92 in chips) 
+Seat 2: DocAces83 ($2.20 in chips) 
+Seat 3: Nikolai9103 ($4.28 in chips) 
+Seat 4: Chrymz ($0.81 in chips) 
+Seat 5: abufirs ($1.68 in chips) 
+Seat 6: MagnusCarlson ($2.70 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: BulletsEatR ($0.65 in chips) 
+84d83473r: posts small blind $0.01
+DocAces83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 4d]
+Nikolai9103: folds 
+Chrymz: raises $0.04 to $0.06
+abufirs: folds 
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+84d83473r: folds 
+DocAces83: folds 
+Uncalled bet ($0.04) returned to Chrymz
+Chrymz collected $0.05 from pot
+Chrymz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: 84d83473r (small blind) folded before Flop
+Seat 2: DocAces83 (big blind) folded before Flop
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz collected ($0.05)
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279714692:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:53:30 PT [2021/07/14 1:53:30 ET]
+Table 'Bellatrix IV' 9-max Seat #1 is the button
+Seat 1: 84d83473r ($1.91 in chips) 
+Seat 2: DocAces83 ($2.18 in chips) 
+Seat 3: Nikolai9103 ($4.28 in chips) 
+Seat 4: Chrymz ($0.84 in chips) 
+Seat 5: abufirs ($1.68 in chips) 
+Seat 6: MagnusCarlson ($2.70 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: BulletsEatR ($0.65 in chips) 
+DocAces83: posts small blind $0.01
+Nikolai9103: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 5s]
+Chrymz: folds 
+abufirs: folds 
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+84d83473r: raises $0.04 to $0.06
+DocAces83: folds 
+Nikolai9103: calls $0.04
+*** FLOP *** [3c 2d Qd]
+Nikolai9103: checks 
+84d83473r: bets $0.07
+Nikolai9103: calls $0.07
+*** TURN *** [3c 2d Qd] [6h]
+Nikolai9103: checks 
+84d83473r: checks 
+*** RIVER *** [3c 2d Qd 6h] [4c]
+Nikolai9103: checks 
+84d83473r: checks 
+*** SHOW DOWN ***
+Nikolai9103: shows [Qs 7s] (a pair of Queens)
+84d83473r: mucks hand 
+Nikolai9103 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [3c 2d Qd 6h 4c]
+Seat 1: 84d83473r (button) mucked [As 4h]
+Seat 2: DocAces83 (small blind) folded before Flop
+Seat 3: Nikolai9103 (big blind) showed [Qs 7s] and won ($0.26) with a pair of Queens
+Seat 4: Chrymz folded before Flop (didn't bet)
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279721592:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:54:22 PT [2021/07/14 1:54:22 ET]
+Table 'Bellatrix IV' 9-max Seat #2 is the button
+Seat 1: 84d83473r ($1.78 in chips) 
+Seat 2: DocAces83 ($2.17 in chips) 
+Seat 3: Nikolai9103 ($4.41 in chips) 
+Seat 4: Chrymz ($0.84 in chips) 
+Seat 5: abufirs ($1.68 in chips) 
+Seat 6: MagnusCarlson ($2.70 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: BulletsEatR ($0.65 in chips) 
+Nikolai9103: posts small blind $0.01
+Chrymz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 2s]
+abufirs: folds 
+MagnusCarlson: folds 
+facundo23 has timed out
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: calls $0.02
+84d83473r: folds 
+DocAces83: folds 
+Nikolai9103: folds 
+Chrymz: checks 
+*** FLOP *** [Kd Qc Jd]
+Chrymz: checks 
+BulletsEatR: checks 
+*** TURN *** [Kd Qc Jd] [9s]
+Chrymz: checks 
+BulletsEatR: checks 
+*** RIVER *** [Kd Qc Jd 9s] [8s]
+Chrymz: bets $0.02
+BulletsEatR: folds 
+Uncalled bet ($0.02) returned to Chrymz
+Chrymz collected $0.05 from pot
+Chrymz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kd Qc Jd 9s 8s]
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 2: DocAces83 (button) folded before Flop (didn't bet)
+Seat 3: Nikolai9103 (small blind) folded before Flop
+Seat 4: Chrymz (big blind) collected ($0.05)
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded on the River
+
+
+
+PokerStars Hand #228279727586:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:55:07 PT [2021/07/14 1:55:07 ET]
+Table 'Bellatrix IV' 9-max Seat #3 is the button
+Seat 1: 84d83473r ($1.78 in chips) 
+Seat 2: DocAces83 ($2.17 in chips) 
+Seat 3: Nikolai9103 ($4.40 in chips) 
+Seat 4: Chrymz ($0.87 in chips) 
+Seat 5: abufirs ($1.68 in chips) 
+Seat 6: MagnusCarlson ($2.70 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: BulletsEatR ($0.63 in chips) 
+Chrymz: posts small blind $0.01
+abufirs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 9h]
+MagnusCarlson: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+84d83473r: folds 
+DocAces83: folds 
+Nikolai9103: folds 
+Chrymz: calls $0.01
+abufirs: checks 
+*** FLOP *** [4d Ac Ad]
+Chrymz: checks 
+abufirs: checks 
+*** TURN *** [4d Ac Ad] [2d]
+Chrymz: checks 
+abufirs: checks 
+*** RIVER *** [4d Ac Ad 2d] [Tc]
+Chrymz: checks 
+abufirs: bets $0.02
+Chrymz: calls $0.02
+*** SHOW DOWN ***
+abufirs: shows [Qd Jh] (a pair of Aces)
+Chrymz: shows [7c Kd] (a pair of Aces - King kicker)
+Chrymz collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [4d Ac Ad 2d Tc]
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: Nikolai9103 (button) folded before Flop (didn't bet)
+Seat 4: Chrymz (small blind) showed [7c Kd] and won ($0.08) with a pair of Aces
+Seat 5: abufirs (big blind) showed [Qd Jh] and lost with a pair of Aces
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279733402:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:55:57 PT [2021/07/14 1:55:57 ET]
+Table 'Bellatrix IV' 9-max Seat #4 is the button
+Seat 1: 84d83473r ($1.78 in chips) 
+Seat 2: DocAces83 ($2.17 in chips) 
+Seat 3: Nikolai9103 ($4.40 in chips) 
+Seat 4: Chrymz ($0.91 in chips) 
+Seat 5: abufirs ($1.64 in chips) 
+Seat 6: MagnusCarlson ($2.70 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: BulletsEatR ($0.63 in chips) 
+abufirs: posts small blind $0.01
+MagnusCarlson: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 9c]
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+84d83473r: folds 
+DocAces83: folds 
+Nikolai9103: folds 
+Chrymz: folds 
+abufirs: folds 
+Uncalled bet ($0.01) returned to MagnusCarlson
+MagnusCarlson collected $0.02 from pot
+MagnusCarlson: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz (button) folded before Flop (didn't bet)
+Seat 5: abufirs (small blind) folded before Flop
+Seat 6: MagnusCarlson (big blind) collected ($0.02)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279735290:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:56:13 PT [2021/07/14 1:56:13 ET]
+Table 'Bellatrix IV' 9-max Seat #5 is the button
+Seat 1: 84d83473r ($1.78 in chips) 
+Seat 2: DocAces83 ($2.17 in chips) 
+Seat 3: Nikolai9103 ($4.40 in chips) 
+Seat 4: Chrymz ($0.91 in chips) 
+Seat 5: abufirs ($1.63 in chips) 
+Seat 6: MagnusCarlson ($2.71 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: BulletsEatR ($0.63 in chips) 
+MagnusCarlson: posts small blind $0.01
+facundo23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Td]
+Dorex2007: folds 
+BulletsEatR: folds 
+84d83473r: calls $0.02
+DocAces83: folds 
+Nikolai9103: raises $0.08 to $0.10
+Chrymz: folds 
+abufirs: folds 
+MagnusCarlson: folds 
+facundo23: folds 
+84d83473r: calls $0.08
+*** FLOP *** [Ah Jh Ks]
+84d83473r: checks 
+Nikolai9103: bets $0.22
+84d83473r: folds 
+Uncalled bet ($0.22) returned to Nikolai9103
+Nikolai9103 collected $0.22 from pot
+Nikolai9103: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Ah Jh Ks]
+Seat 1: 84d83473r folded on the Flop
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: Nikolai9103 collected ($0.22)
+Seat 4: Chrymz folded before Flop (didn't bet)
+Seat 5: abufirs (button) folded before Flop (didn't bet)
+Seat 6: MagnusCarlson (small blind) folded before Flop
+Seat 7: facundo23 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279740292:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:56:57 PT [2021/07/14 1:56:57 ET]
+Table 'Bellatrix IV' 9-max Seat #6 is the button
+Seat 1: 84d83473r ($1.68 in chips) 
+Seat 2: DocAces83 ($2.17 in chips) 
+Seat 3: Nikolai9103 ($4.52 in chips) 
+Seat 4: Chrymz ($0.91 in chips) 
+Seat 5: abufirs ($1.63 in chips) 
+Seat 6: MagnusCarlson ($2.70 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: BulletsEatR ($0.63 in chips) 
+facundo23: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Qc]
+BulletsEatR: folds 
+84d83473r: folds 
+DocAces83: folds 
+Nikolai9103: folds 
+Chrymz: calls $0.02
+abufirs: calls $0.02
+MagnusCarlson has timed out
+MagnusCarlson: folds 
+facundo23: raises $0.08 to $0.10
+Dorex2007: folds 
+Chrymz: folds 
+abufirs: calls $0.08
+*** FLOP *** [9d 5d 8d]
+facundo23: bets $0.23
+abufirs: folds 
+Uncalled bet ($0.23) returned to facundo23
+facundo23 collected $0.23 from pot
+facundo23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [9d 5d 8d]
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz folded before Flop
+Seat 5: abufirs folded on the Flop
+Seat 6: MagnusCarlson (button) folded before Flop (didn't bet)
+Seat 7: facundo23 (small blind) collected ($0.23)
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279745859:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:57:46 PT [2021/07/14 1:57:46 ET]
+Table 'Bellatrix IV' 9-max Seat #7 is the button
+Seat 1: 84d83473r ($1.68 in chips) 
+Seat 2: DocAces83 ($2.17 in chips) 
+Seat 3: Nikolai9103 ($4.52 in chips) 
+Seat 4: Chrymz ($0.89 in chips) 
+Seat 5: abufirs ($1.53 in chips) 
+Seat 6: MagnusCarlson ($2.70 in chips) 
+Seat 7: facundo23 ($2.13 in chips) 
+Seat 8: Dorex2007 ($1.98 in chips) 
+Seat 9: BulletsEatR ($0.63 in chips) 
+Dorex2007: posts small blind $0.01
+BulletsEatR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s Js]
+84d83473r: folds 
+84d83473r leaves the table
+DocAces83: folds 
+Nikolai9103: folds 
+Chrymz: calls $0.02
+abufirs: calls $0.02
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: checks 
+*** FLOP *** [Tc Qc 8c]
+BulletsEatR: checks 
+Chrymz: bets $0.06
+abufirs: folds 
+BulletsEatR: folds 
+Uncalled bet ($0.06) returned to Chrymz
+Chrymz collected $0.07 from pot
+Chrymz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Tc Qc 8c]
+Seat 1: 84d83473r folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz collected ($0.07)
+Seat 5: abufirs folded on the Flop
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: BulletsEatR (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228279750134:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:58:23 PT [2021/07/14 1:58:23 ET]
+Table 'Bellatrix IV' 9-max Seat #8 is the button
+Seat 2: DocAces83 ($2.17 in chips) 
+Seat 3: Nikolai9103 ($4.52 in chips) 
+Seat 4: Chrymz ($0.94 in chips) 
+Seat 5: abufirs ($1.51 in chips) 
+Seat 6: MagnusCarlson ($2.70 in chips) 
+Seat 7: facundo23 ($2.13 in chips) 
+Seat 8: Dorex2007 ($1.97 in chips) 
+Seat 9: BulletsEatR ($0.61 in chips) 
+BulletsEatR: posts small blind $0.01
+DocAces83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 7s]
+Nikolai9103: folds 
+Chrymz: folds 
+abufirs: folds 
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: raises $0.04 to $0.06
+BulletsEatR: calls $0.05
+DocAces83: folds 
+*** FLOP *** [Tc 8c 4c]
+BulletsEatR: checks 
+Dorex2007: bets $0.14
+BulletsEatR: raises $0.41 to $0.55 and is all-in
+Dorex2007: calls $0.41
+*** TURN *** [Tc 8c 4c] [6s]
+*** RIVER *** [Tc 8c 4c 6s] [Qh]
+*** SHOW DOWN ***
+BulletsEatR: shows [Td Qd] (two pair, Queens and Tens)
+Dorex2007: shows [7h 7s] (a pair of Sevens)
+BulletsEatR collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.24 | Rake $0.04 
+Board [Tc 8c 4c 6s Qh]
+Seat 2: DocAces83 (big blind) folded before Flop
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz folded before Flop (didn't bet)
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) showed [7h 7s] and lost with a pair of Sevens
+Seat 9: BulletsEatR (small blind) showed [Td Qd] and won ($1.20) with two pair, Queens and Tens
+
+
+
+PokerStars Hand #228279756068:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:59:13 PT [2021/07/14 1:59:13 ET]
+Table 'Bellatrix IV' 9-max Seat #9 is the button
+Seat 2: DocAces83 ($2.15 in chips) 
+Seat 3: Nikolai9103 ($4.52 in chips) 
+Seat 4: Chrymz ($0.94 in chips) 
+Seat 5: abufirs ($1.51 in chips) 
+Seat 6: MagnusCarlson ($2.70 in chips) 
+Seat 7: facundo23 ($2.13 in chips) 
+Seat 8: Dorex2007 ($1.36 in chips) 
+Seat 9: BulletsEatR ($1.20 in chips) 
+DocAces83: posts small blind $0.01
+Nikolai9103: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Ad]
+Chrymz: calls $0.02
+abufirs: raises $0.04 to $0.06
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+DocAces83: folds 
+Nikolai9103: folds 
+Chrymz: calls $0.04
+*** FLOP *** [9d 6d Js]
+Chrymz: checks 
+abufirs: checks 
+*** TURN *** [9d 6d Js] [7h]
+Chrymz: bets $0.04
+abufirs: calls $0.04
+*** RIVER *** [9d 6d Js 7h] [Qd]
+Chrymz: bets $0.08
+abufirs: calls $0.08
+*** SHOW DOWN ***
+Chrymz: shows [Kd Td] (a flush, King high)
+abufirs: mucks hand 
+Chrymz collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [9d 6d Js 7h Qd]
+Seat 2: DocAces83 (small blind) folded before Flop
+Seat 3: Nikolai9103 (big blind) folded before Flop
+Seat 4: Chrymz showed [Kd Td] and won ($0.38) with a flush, King high
+Seat 5: abufirs mucked [Qh As]
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279761598:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 22:59:59 PT [2021/07/14 1:59:59 ET]
+Table 'Bellatrix IV' 9-max Seat #2 is the button
+Seat 2: DocAces83 ($2.14 in chips) 
+Seat 3: Nikolai9103 ($4.50 in chips) 
+Seat 4: Chrymz ($1.14 in chips) 
+Seat 5: abufirs ($1.33 in chips) 
+Seat 6: MagnusCarlson ($2.70 in chips) 
+Seat 7: facundo23 ($2.13 in chips) 
+Seat 8: Dorex2007 ($1.36 in chips) 
+Seat 9: BulletsEatR ($1.20 in chips) 
+Nikolai9103: posts small blind $0.01
+Chrymz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 5h]
+abufirs: folds 
+MagnusCarlson: raises $0.04 to $0.06
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+DocAces83: folds 
+Nikolai9103: folds 
+Chrymz: folds 
+Uncalled bet ($0.04) returned to MagnusCarlson
+MagnusCarlson collected $0.05 from pot
+MagnusCarlson: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: DocAces83 (button) folded before Flop (didn't bet)
+Seat 3: Nikolai9103 (small blind) folded before Flop
+Seat 4: Chrymz (big blind) folded before Flop
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson collected ($0.05)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279764346:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:00:23 PT [2021/07/14 2:00:23 ET]
+Table 'Bellatrix IV' 9-max Seat #3 is the button
+Seat 2: DocAces83 ($2.14 in chips) 
+Seat 3: Nikolai9103 ($4.49 in chips) 
+Seat 4: Chrymz ($1.12 in chips) 
+Seat 5: abufirs ($1.33 in chips) 
+Seat 6: MagnusCarlson ($2.73 in chips) 
+Seat 7: facundo23 ($2.13 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: BulletsEatR ($1.20 in chips) 
+Chrymz: posts small blind $0.01
+abufirs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 7h]
+MagnusCarlson: raises $0.04 to $0.06
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+DocAces83: folds 
+Nikolai9103: folds 
+Chrymz: folds 
+abufirs: calls $0.04
+*** FLOP *** [9s As 7d]
+ShivaShango joins the table at seat #1 
+abufirs: bets $0.04
+MagnusCarlson: raises $0.12 to $0.16
+abufirs: calls $0.12
+*** TURN *** [9s As 7d] [8c]
+abufirs: checks 
+MagnusCarlson: bets $0.34
+abufirs: folds 
+Uncalled bet ($0.34) returned to MagnusCarlson
+MagnusCarlson collected $0.43 from pot
+MagnusCarlson: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [9s As 7d 8c]
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: Nikolai9103 (button) folded before Flop (didn't bet)
+Seat 4: Chrymz (small blind) folded before Flop
+Seat 5: abufirs (big blind) folded on the Turn
+Seat 6: MagnusCarlson collected ($0.43)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279769827:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:01:06 PT [2021/07/14 2:01:06 ET]
+Table 'Bellatrix IV' 9-max Seat #4 is the button
+Seat 2: DocAces83 ($2.14 in chips) 
+Seat 3: Nikolai9103 ($4.49 in chips) 
+Seat 4: Chrymz ($1.11 in chips) 
+Seat 5: abufirs ($1.11 in chips) 
+Seat 6: MagnusCarlson ($2.94 in chips) 
+Seat 7: facundo23 ($2.13 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: BulletsEatR ($1.20 in chips) 
+abufirs: posts small blind $0.01
+MagnusCarlson: posts big blind $0.02
+ShivaShango: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 2d]
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+DocAces83: folds 
+Nikolai9103: folds 
+Chrymz: folds 
+abufirs: folds 
+Uncalled bet ($0.01) returned to MagnusCarlson
+MagnusCarlson collected $0.02 from pot
+MagnusCarlson: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: Nikolai9103 folded before Flop (didn't bet)
+Seat 4: Chrymz (button) folded before Flop (didn't bet)
+Seat 5: abufirs (small blind) folded before Flop
+Seat 6: MagnusCarlson (big blind) collected ($0.02)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279771210:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:01:17 PT [2021/07/14 2:01:17 ET]
+Table 'Bellatrix IV' 9-max Seat #5 is the button
+Seat 2: DocAces83 ($2.14 in chips) 
+Seat 3: Nikolai9103 ($4.49 in chips) 
+Seat 4: Chrymz ($1.11 in chips) 
+Seat 5: abufirs ($1.10 in chips) 
+Seat 6: MagnusCarlson ($2.95 in chips) 
+Seat 7: facundo23 ($2.13 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: BulletsEatR ($1.20 in chips) 
+MagnusCarlson: posts small blind $0.01
+facundo23: posts big blind $0.02
+ShivaShango: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 2h]
+Dorex2007: folds 
+BulletsEatR: calls $0.02
+DocAces83: folds 
+Nikolai9103: raises $0.04 to $0.06
+Chrymz: folds 
+abufirs: folds 
+MagnusCarlson: folds 
+facundo23: folds 
+BulletsEatR: calls $0.04
+*** FLOP *** [Qc 8h 8s]
+BulletsEatR: checks 
+Nikolai9103: checks 
+*** TURN *** [Qc 8h 8s] [3s]
+BulletsEatR: checks 
+Nikolai9103: checks 
+*** RIVER *** [Qc 8h 8s 3s] [Jh]
+BulletsEatR: checks 
+Nikolai9103: checks 
+*** SHOW DOWN ***
+BulletsEatR: shows [9c 7c] (a pair of Eights)
+Nikolai9103: shows [Ts Tc] (two pair, Tens and Eights)
+Nikolai9103 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qc 8h 8s 3s Jh]
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: Nikolai9103 showed [Ts Tc] and won ($0.14) with two pair, Tens and Eights
+Seat 4: Chrymz folded before Flop (didn't bet)
+Seat 5: abufirs (button) folded before Flop (didn't bet)
+Seat 6: MagnusCarlson (small blind) folded before Flop
+Seat 7: facundo23 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR showed [9c 7c] and lost with a pair of Eights
+
+
+
+PokerStars Hand #228279779834:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:02:20 PT [2021/07/14 2:02:20 ET]
+Table 'Bellatrix IV' 9-max Seat #6 is the button
+Seat 2: DocAces83 ($2.14 in chips) 
+Seat 4: Chrymz ($1.11 in chips) 
+Seat 5: abufirs ($1.10 in chips) 
+Seat 6: MagnusCarlson ($2.94 in chips) 
+Seat 7: facundo23 ($2.11 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: BulletsEatR ($1.14 in chips) 
+facundo23: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+ShivaShango: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 9c]
+BulletsEatR: folds 
+DocAces83: raises $0.04 to $0.06
+Chrymz: folds 
+abufirs: folds 
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to DocAces83
+DocAces83 collected $0.05 from pot
+DocAces83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: DocAces83 collected ($0.05)
+Seat 4: Chrymz folded before Flop (didn't bet)
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson (button) folded before Flop (didn't bet)
+Seat 7: facundo23 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279783280:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:02:45 PT [2021/07/14 2:02:45 ET]
+Table 'Bellatrix IV' 9-max Seat #7 is the button
+Seat 2: DocAces83 ($2.17 in chips) 
+Seat 4: Chrymz ($1.11 in chips) 
+Seat 5: abufirs ($1.10 in chips) 
+Seat 6: MagnusCarlson ($2.94 in chips) 
+Seat 7: facundo23 ($2.10 in chips) 
+Seat 8: Dorex2007 ($1.98 in chips) 
+Seat 9: BulletsEatR ($1.14 in chips) 
+Dorex2007: posts small blind $0.01
+BulletsEatR: posts big blind $0.02
+ShivaShango: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Ah]
+DocAces83: folds 
+Chrymz: folds 
+abufirs: folds 
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: raises $0.04 to $0.06
+BulletsEatR: calls $0.04
+*** FLOP *** [Tc Qc 4h]
+Dorex2007: bets $0.12
+BulletsEatR: folds 
+Uncalled bet ($0.12) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Tc Qc 4h]
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 4: Chrymz folded before Flop (didn't bet)
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) collected ($0.12)
+Seat 9: BulletsEatR (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228279786591:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:03:09 PT [2021/07/14 2:03:09 ET]
+Table 'Bellatrix IV' 9-max Seat #8 is the button
+Seat 1: ShivaShango ($2 in chips) 
+Seat 2: DocAces83 ($2.17 in chips) 
+Seat 4: Chrymz ($1.11 in chips) 
+Seat 5: abufirs ($1.10 in chips) 
+Seat 6: MagnusCarlson ($2.94 in chips) 
+Seat 7: facundo23 ($2.10 in chips) 
+Seat 8: Dorex2007 ($2.04 in chips) 
+Seat 9: BulletsEatR ($1.08 in chips) 
+BulletsEatR: posts small blind $0.01
+ShivaShango: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 4s]
+DocAces83: folds 
+Chrymz: folds 
+abufirs: folds 
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+Uncalled bet ($0.01) returned to ShivaShango
+ShivaShango collected $0.02 from pot
+ShivaShango: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: ShivaShango (big blind) collected ($0.02)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 4: Chrymz folded before Flop (didn't bet)
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: BulletsEatR (small blind) folded before Flop
+
+
+
+PokerStars Hand #228279788804:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:03:25 PT [2021/07/14 2:03:25 ET]
+Table 'Bellatrix IV' 9-max Seat #9 is the button
+Seat 1: ShivaShango ($2.01 in chips) 
+Seat 2: DocAces83 ($2.17 in chips) 
+Seat 4: Chrymz ($1.11 in chips) 
+Seat 5: abufirs ($1.10 in chips) 
+Seat 6: MagnusCarlson ($2.94 in chips) 
+Seat 7: facundo23 ($2.10 in chips) 
+Seat 8: Dorex2007 ($2.04 in chips) 
+Seat 9: BulletsEatR ($1.07 in chips) 
+ShivaShango: posts small blind $0.01
+DocAces83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 4h]
+Chrymz: calls $0.02
+abufirs: folds 
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: raises $0.04 to $0.06
+BulletsEatR: folds 
+ShivaShango: calls $0.05
+DocAces83: folds 
+Chrymz: calls $0.04
+*** FLOP *** [2h 3c Qd]
+ShivaShango: checks 
+Chrymz: checks 
+Nikolai9103 leaves the table
+Dorex2007: checks 
+*** TURN *** [2h 3c Qd] [3d]
+ShivaShango: checks 
+Chrymz: bets $0.04
+Dorex2007: folds 
+ShivaShango: folds 
+Uncalled bet ($0.04) returned to Chrymz
+Chrymz collected $0.19 from pot
+Chrymz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2h 3c Qd 3d]
+Seat 1: ShivaShango (small blind) folded on the Turn
+Seat 2: DocAces83 (big blind) folded before Flop
+Seat 4: Chrymz collected ($0.19)
+Seat 5: abufirs folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded on the Turn
+Seat 9: BulletsEatR (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279797286:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:04:28 PT [2021/07/14 2:04:28 ET]
+Table 'Bellatrix IV' 9-max Seat #1 is the button
+Seat 1: ShivaShango ($1.95 in chips) 
+Seat 2: DocAces83 ($2.15 in chips) 
+Seat 6: MagnusCarlson ($2.94 in chips) 
+Seat 7: facundo23 ($2.10 in chips) 
+Seat 8: Dorex2007 ($1.98 in chips) 
+Seat 9: BulletsEatR ($1.07 in chips) 
+DocAces83: posts small blind $0.01
+Chrymz: is sitting out 
+abufirs: is sitting out 
+MagnusCarlson: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Ad]
+facundo23: folds 
+Dorex2007: raises $0.02 to $0.04
+BulletsEatR: folds 
+ShivaShango: folds 
+DocAces83: folds 
+MagnusCarlson: folds 
+Uncalled bet ($0.02) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ShivaShango (button) folded before Flop (didn't bet)
+Seat 2: DocAces83 (small blind) folded before Flop
+Seat 6: MagnusCarlson (big blind) folded before Flop
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 collected ($0.05)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279799144:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:04:41 PT [2021/07/14 2:04:41 ET]
+Table 'Bellatrix IV' 9-max Seat #2 is the button
+Seat 1: ShivaShango ($1.95 in chips) 
+Seat 2: DocAces83 ($2.14 in chips) 
+Seat 6: MagnusCarlson ($2.92 in chips) 
+Seat 7: facundo23 ($2.10 in chips) 
+Seat 8: Dorex2007 ($2.01 in chips) 
+Seat 9: BulletsEatR ($1.07 in chips) 
+MagnusCarlson: posts small blind $0.01
+facundo23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d As]
+Dorex2007: folds 
+BulletsEatR: calls $0.02
+ShivaShango: folds 
+Chrymz leaves the table
+DocAces83: calls $0.02
+MagnusCarlson: folds 
+facundo23: checks 
+*** FLOP *** [8s 2h Qd]
+ulia75432 joins the table at seat #3 
+abufirs leaves the table
+facundo23: checks 
+BulletsEatR: checks 
+DocAces83: checks 
+*** TURN *** [8s 2h Qd] [4d]
+facundo23: checks 
+BulletsEatR: checks 
+DocAces83: checks 
+*** RIVER *** [8s 2h Qd 4d] [4c]
+facundo23: checks 
+BulletsEatR: checks 
+DocAces83: bets $0.04
+facundo23: folds 
+BulletsEatR: folds 
+Uncalled bet ($0.04) returned to DocAces83
+DocAces83 collected $0.07 from pot
+DocAces83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [8s 2h Qd 4d 4c]
+Seat 1: ShivaShango folded before Flop (didn't bet)
+Seat 2: DocAces83 (button) collected ($0.07)
+Seat 6: MagnusCarlson (small blind) folded before Flop
+Seat 7: facundo23 (big blind) folded on the River
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded on the River
+
+
+
+PokerStars Hand #228279807063:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:05:39 PT [2021/07/14 2:05:39 ET]
+Table 'Bellatrix IV' 9-max Seat #6 is the button
+Seat 1: ShivaShango ($1.95 in chips) 
+Seat 2: DocAces83 ($2.19 in chips) 
+Seat 3: ulia75432 ($2 in chips) 
+Seat 6: MagnusCarlson ($2.91 in chips) 
+Seat 7: facundo23 ($2.08 in chips) 
+Seat 8: Dorex2007 ($2.01 in chips) 
+Seat 9: BulletsEatR ($1.05 in chips) 
+facundo23: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+ulia75432: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Td]
+BulletsEatR: folds 
+ShivaShango: folds 
+DocAces83: folds 
+ulia75432: checks 
+MagnusCarlson: raises $0.07 to $0.09
+facundo23: folds 
+Dorex2007: folds 
+ulia75432: calls $0.07
+*** FLOP *** [Ac Qs 8s]
+ulia75432: checks 
+MagnusCarlson: bets $0.16
+ulia75432: folds 
+Uncalled bet ($0.16) returned to MagnusCarlson
+MagnusCarlson collected $0.20 from pot
+MagnusCarlson: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Ac Qs 8s]
+Seat 1: ShivaShango folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: ulia75432 folded on the Flop
+Seat 6: MagnusCarlson (button) collected ($0.20)
+Seat 7: facundo23 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279811255:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:06:10 PT [2021/07/14 2:06:10 ET]
+Table 'Bellatrix IV' 9-max Seat #7 is the button
+Seat 1: ShivaShango ($1.95 in chips) 
+Seat 2: DocAces83 ($2.19 in chips) 
+Seat 3: ulia75432 ($1.91 in chips) 
+Seat 6: MagnusCarlson ($3.02 in chips) 
+Seat 7: facundo23 ($2.07 in chips) 
+Seat 8: Dorex2007 ($1.99 in chips) 
+Seat 9: BulletsEatR ($1.05 in chips) 
+Dorex2007: posts small blind $0.01
+BulletsEatR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 3c]
+ShivaShango: folds 
+DocAces83: folds 
+ulia75432: calls $0.02
+MagnusCarlson: raises $0.06 to $0.08
+facundo23: calls $0.08
+Dorex2007: folds 
+BulletsEatR: folds 
+igooorc joins the table at seat #4 
+ulia75432: calls $0.06
+*** FLOP *** [Kh 4h 7h]
+ulia75432: checks 
+MagnusCarlson: checks 
+facundo23: checks 
+*** TURN *** [Kh 4h 7h] [Ks]
+ulia75432: checks 
+MagnusCarlson: bets $0.20
+facundo23: folds 
+ulia75432: folds 
+Uncalled bet ($0.20) returned to MagnusCarlson
+MagnusCarlson collected $0.26 from pot
+MagnusCarlson: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Kh 4h 7h Ks]
+Seat 1: ShivaShango folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: ulia75432 folded on the Turn
+Seat 6: MagnusCarlson collected ($0.26)
+Seat 7: facundo23 (button) folded on the Turn
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: BulletsEatR (big blind) folded before Flop
+
+
+
+PokerStars Hand #228279816771:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:06:51 PT [2021/07/14 2:06:51 ET]
+Table 'Bellatrix IV' 9-max Seat #8 is the button
+Seat 1: ShivaShango ($1.95 in chips) 
+Seat 2: DocAces83 ($2.19 in chips) 
+Seat 3: ulia75432 ($1.83 in chips) 
+Seat 6: MagnusCarlson ($3.20 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($1.98 in chips) 
+Seat 9: BulletsEatR ($1.03 in chips) 
+BulletsEatR: posts small blind $0.01
+ShivaShango: posts big blind $0.02
+igooorc: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Jc]
+DocAces83: folds 
+ulia75432: calls $0.02
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: calls $0.01
+ShivaShango: checks 
+*** FLOP *** [Td 5h 8h]
+evanw123 joins the table at seat #5 
+BulletsEatR: checks 
+ShivaShango: checks 
+ulia75432: bets $0.02
+BulletsEatR: calls $0.02
+ShivaShango: calls $0.02
+*** TURN *** [Td 5h 8h] [2h]
+BulletsEatR: checks 
+ShivaShango: checks 
+ulia75432: checks 
+*** RIVER *** [Td 5h 8h 2h] [Ad]
+BulletsEatR: checks 
+ShivaShango: checks 
+ulia75432: checks 
+*** SHOW DOWN ***
+BulletsEatR: shows [2d 5c] (two pair, Fives and Deuces)
+ShivaShango: mucks hand 
+ulia75432: mucks hand 
+BulletsEatR collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Td 5h 8h 2h Ad]
+Seat 1: ShivaShango (big blind) mucked [Jd 6d]
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: ulia75432 mucked [6h 8c]
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: BulletsEatR (small blind) showed [2d 5c] and won ($0.12) with two pair, Fives and Deuces
+
+
+
+PokerStars Hand #228279822085:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:07:31 PT [2021/07/14 2:07:31 ET]
+Table 'Bellatrix IV' 9-max Seat #9 is the button
+Seat 1: ShivaShango ($1.91 in chips) 
+Seat 2: DocAces83 ($2.19 in chips) 
+Seat 3: ulia75432 ($1.79 in chips) 
+Seat 6: MagnusCarlson ($3.20 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($1.98 in chips) 
+Seat 9: BulletsEatR ($1.11 in chips) 
+ShivaShango: posts small blind $0.01
+DocAces83: posts big blind $0.02
+igooorc: sits out 
+evanw123: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 8h]
+ulia75432: folds 
+MagnusCarlson: folds 
+facundo23: raises $0.04 to $0.06
+Dorex2007: folds 
+BulletsEatR: folds 
+ShivaShango: folds 
+DocAces83: folds 
+Uncalled bet ($0.04) returned to facundo23
+facundo23 collected $0.05 from pot
+facundo23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ShivaShango (small blind) folded before Flop
+Seat 2: DocAces83 (big blind) folded before Flop
+Seat 3: ulia75432 folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 collected ($0.05)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279825148:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:07:53 PT [2021/07/14 2:07:53 ET]
+Table 'Bellatrix IV' 9-max Seat #1 is the button
+Seat 1: ShivaShango ($1.90 in chips) 
+Seat 2: DocAces83 ($2.17 in chips) 
+Seat 3: ulia75432 ($1.79 in chips) 
+Seat 6: MagnusCarlson ($3.20 in chips) 
+Seat 7: facundo23 ($2.03 in chips) 
+Seat 8: Dorex2007 ($1.98 in chips) 
+Seat 9: BulletsEatR ($1.11 in chips) 
+DocAces83: posts small blind $0.01
+ulia75432: posts big blind $0.02
+igooorc: sits out 
+evanw123: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Jh]
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: raises $0.02 to $0.04
+BulletsEatR: calls $0.04
+ShivaShango: folds 
+DocAces83: folds 
+ulia75432: calls $0.02
+*** FLOP *** [Th Js Jc]
+ulia75432: checks 
+Dorex2007: bets $0.13
+BulletsEatR: folds 
+ulia75432: folds 
+Uncalled bet ($0.13) returned to Dorex2007
+Dorex2007 collected $0.13 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Th Js Jc]
+Seat 1: ShivaShango (button) folded before Flop (didn't bet)
+Seat 2: DocAces83 (small blind) folded before Flop
+Seat 3: ulia75432 (big blind) folded on the Flop
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 collected ($0.13)
+Seat 9: BulletsEatR folded on the Flop
+
+
+
+PokerStars Hand #228279830744:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:08:35 PT [2021/07/14 2:08:35 ET]
+Table 'Bellatrix IV' 9-max Seat #2 is the button
+Seat 1: ShivaShango ($1.90 in chips) 
+Seat 2: DocAces83 ($2.16 in chips) 
+Seat 3: ulia75432 ($1.75 in chips) 
+Seat 4: igooorc ($1.60 in chips) 
+Seat 6: MagnusCarlson ($3.20 in chips) 
+Seat 7: facundo23 ($2.03 in chips) 
+Seat 8: Dorex2007 ($2.07 in chips) 
+Seat 9: BulletsEatR ($1.07 in chips) 
+ulia75432: posts small blind $0.01
+igooorc: posts big blind $0.02
+evanw123: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 2h]
+MagnusCarlson: raises $0.04 to $0.06
+facundo23 has timed out
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+ShivaShango: calls $0.06
+DocAces83: folds 
+ulia75432: folds 
+igooorc: folds 
+*** FLOP *** [2s Th 4c]
+MagnusCarlson: bets $0.07
+ShivaShango: raises $0.09 to $0.16
+MagnusCarlson: folds 
+Uncalled bet ($0.09) returned to ShivaShango
+ShivaShango collected $0.28 from pot
+ShivaShango: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [2s Th 4c]
+Seat 1: ShivaShango collected ($0.28)
+Seat 2: DocAces83 (button) folded before Flop (didn't bet)
+Seat 3: ulia75432 (small blind) folded before Flop
+Seat 4: igooorc (big blind) folded before Flop
+Seat 6: MagnusCarlson folded on the Flop
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279839101:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:09:38 PT [2021/07/14 2:09:38 ET]
+Table 'Bellatrix IV' 9-max Seat #3 is the button
+Seat 1: ShivaShango ($2.05 in chips) 
+Seat 2: DocAces83 ($2.16 in chips) 
+Seat 3: ulia75432 ($1.74 in chips) 
+Seat 4: igooorc ($1.58 in chips) 
+Seat 5: evanw123 ($0.80 in chips) 
+Seat 6: MagnusCarlson ($3.07 in chips) 
+Seat 8: Dorex2007 ($2.07 in chips) 
+Seat 9: BulletsEatR ($1.07 in chips) 
+igooorc: posts small blind $0.01
+evanw123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 7s]
+MagnusCarlson: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+ShivaShango: folds 
+DocAces83: folds 
+ulia75432: calls $0.02
+igooorc: calls $0.01
+evanw123: checks 
+*** FLOP *** [9c Kd 9d]
+igooorc: checks 
+evanw123: bets $0.04
+ulia75432: folds 
+igooorc: folds 
+Uncalled bet ($0.04) returned to evanw123
+evanw123 collected $0.06 from pot
+evanw123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [9c Kd 9d]
+Seat 1: ShivaShango folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: ulia75432 (button) folded on the Flop
+Seat 4: igooorc (small blind) folded on the Flop
+Seat 5: evanw123 (big blind) collected ($0.06)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279843246:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:10:09 PT [2021/07/14 2:10:09 ET]
+Table 'Bellatrix IV' 9-max Seat #4 is the button
+Seat 1: ShivaShango ($2.05 in chips) 
+Seat 2: DocAces83 ($2.16 in chips) 
+Seat 3: ulia75432 ($1.72 in chips) 
+Seat 4: igooorc ($1.56 in chips) 
+Seat 5: evanw123 ($0.84 in chips) 
+Seat 6: MagnusCarlson ($3.07 in chips) 
+Seat 7: facundo23 ($2.03 in chips) 
+Seat 8: Dorex2007 ($2.07 in chips) 
+Seat 9: BulletsEatR ($1.07 in chips) 
+evanw123: posts small blind $0.01
+MagnusCarlson: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Js]
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+ShivaShango: folds 
+DocAces83: folds 
+ulia75432: calls $0.02
+igooorc: folds 
+evanw123: folds 
+MagnusCarlson: checks 
+*** FLOP *** [Kd 8d Ts]
+MagnusCarlson: checks 
+ulia75432: checks 
+*** TURN *** [Kd 8d Ts] [Kc]
+MagnusCarlson: checks 
+ulia75432: checks 
+*** RIVER *** [Kd 8d Ts Kc] [Jd]
+MagnusCarlson: checks 
+ulia75432: bets $0.05
+MagnusCarlson: folds 
+Uncalled bet ($0.05) returned to ulia75432
+ulia75432 collected $0.05 from pot
+ulia75432: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kd 8d Ts Kc Jd]
+Seat 1: ShivaShango folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: ulia75432 collected ($0.05)
+Seat 4: igooorc (button) folded before Flop (didn't bet)
+Seat 5: evanw123 (small blind) folded before Flop
+Seat 6: MagnusCarlson (big blind) folded on the River
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279848612:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:10:49 PT [2021/07/14 2:10:49 ET]
+Table 'Bellatrix IV' 9-max Seat #5 is the button
+Seat 1: ShivaShango ($2.05 in chips) 
+Seat 2: DocAces83 ($2.16 in chips) 
+Seat 3: ulia75432 ($1.75 in chips) 
+Seat 4: igooorc ($1.56 in chips) 
+Seat 5: evanw123 ($0.83 in chips) 
+Seat 6: MagnusCarlson ($3.05 in chips) 
+Seat 7: facundo23 ($2.03 in chips) 
+Seat 8: Dorex2007 ($2.07 in chips) 
+Seat 9: BulletsEatR ($1.07 in chips) 
+MagnusCarlson: posts small blind $0.01
+facundo23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s Ac]
+Dorex2007: folds 
+BulletsEatR: folds 
+ShivaShango: folds 
+DocAces83: folds 
+ulia75432: folds 
+igooorc: folds 
+evanw123: raises $0.02 to $0.04
+MagnusCarlson: folds 
+facundo23: folds 
+Uncalled bet ($0.02) returned to evanw123
+evanw123 collected $0.05 from pot
+evanw123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ShivaShango folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: ulia75432 folded before Flop (didn't bet)
+Seat 4: igooorc folded before Flop (didn't bet)
+Seat 5: evanw123 (button) collected ($0.05)
+Seat 6: MagnusCarlson (small blind) folded before Flop
+Seat 7: facundo23 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279853411:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:11:25 PT [2021/07/14 2:11:25 ET]
+Table 'Bellatrix IV' 9-max Seat #6 is the button
+Seat 1: ShivaShango ($2.05 in chips) 
+Seat 2: DocAces83 ($2.16 in chips) 
+Seat 3: ulia75432 ($1.75 in chips) 
+Seat 4: igooorc ($1.56 in chips) 
+Seat 6: MagnusCarlson ($3.04 in chips) 
+Seat 7: facundo23 ($2.01 in chips) 
+Seat 8: Dorex2007 ($2.07 in chips) 
+Seat 9: BulletsEatR ($1.07 in chips) 
+facundo23: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Qc]
+BulletsEatR: calls $0.02
+ShivaShango: folds 
+evanw123 leaves the table
+DocAces83: folds 
+ulia75432: calls $0.02
+igooorc: folds 
+MagnusCarlson: folds 
+facundo23: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [8s 3s Ah]
+facundo23: checks 
+Dorex2007: checks 
+BulletsEatR: checks 
+ulia75432: checks 
+*** TURN *** [8s 3s Ah] [Ts]
+facundo23: checks 
+Dorex2007: checks 
+BulletsEatR: checks 
+ulia75432: checks 
+*** RIVER *** [8s 3s Ah Ts] [Qs]
+facundo23: checks 
+Dorex2007: bets $0.08
+BulletsEatR: folds 
+ulia75432: calls $0.08
+facundo23: folds 
+*** SHOW DOWN ***
+Dorex2007: shows [5s Qc] (a flush, Queen high)
+ulia75432: shows [8h 7s] (a flush, Queen high - Seven higher)
+ulia75432 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [8s 3s Ah Ts Qs]
+Seat 1: ShivaShango folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: ulia75432 showed [8h 7s] and won ($0.23) with a flush, Queen high
+Seat 4: igooorc folded before Flop (didn't bet)
+Seat 6: MagnusCarlson (button) folded before Flop (didn't bet)
+Seat 7: facundo23 (small blind) folded on the River
+Seat 8: Dorex2007 (big blind) showed [5s Qc] and lost with a flush, Queen high
+Seat 9: BulletsEatR folded on the River
+
+
+
+PokerStars Hand #228279860437:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:12:18 PT [2021/07/14 2:12:18 ET]
+Table 'Bellatrix IV' 9-max Seat #7 is the button
+Seat 1: ShivaShango ($2.05 in chips) 
+Seat 2: DocAces83 ($2.16 in chips) 
+Seat 3: ulia75432 ($1.88 in chips) 
+Seat 4: igooorc ($1.56 in chips) 
+Seat 6: MagnusCarlson ($3.04 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($1.97 in chips) 
+Seat 9: BulletsEatR ($1.05 in chips) 
+Dorex2007: posts small blind $0.01
+BulletsEatR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts Tc]
+ShivaShango: folds 
+DocAces83: folds 
+ulia75432: folds 
+igooorc: folds 
+MagnusCarlson: raises $0.04 to $0.06
+facundo23: folds 
+Dorex2007: calls $0.05
+BulletsEatR: folds 
+*** FLOP *** [2h Qs Kh]
+Dorex2007: checks 
+MagnusCarlson: bets $0.11
+Dorex2007: folds 
+Uncalled bet ($0.11) returned to MagnusCarlson
+MagnusCarlson collected $0.14 from pot
+MagnusCarlson: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [2h Qs Kh]
+Seat 1: ShivaShango folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: ulia75432 folded before Flop (didn't bet)
+Seat 4: igooorc folded before Flop (didn't bet)
+Seat 6: MagnusCarlson collected ($0.14)
+Seat 7: facundo23 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded on the Flop
+Seat 9: BulletsEatR (big blind) folded before Flop
+
+
+
+PokerStars Hand #228279864534:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:12:49 PT [2021/07/14 2:12:49 ET]
+Table 'Bellatrix IV' 9-max Seat #8 is the button
+Seat 1: ShivaShango ($2.05 in chips) 
+Seat 2: DocAces83 ($2.16 in chips) 
+Seat 3: ulia75432 ($1.88 in chips) 
+Seat 4: igooorc ($1.56 in chips) 
+Seat 6: MagnusCarlson ($3.12 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($1.91 in chips) 
+Seat 9: BulletsEatR ($1.03 in chips) 
+BulletsEatR: posts small blind $0.01
+ShivaShango: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Jc]
+DocAces83: folds 
+ulia75432: folds 
+igooorc: folds 
+MagnusCarlson: raises $0.04 to $0.06
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+ShivaShango: folds 
+Uncalled bet ($0.04) returned to MagnusCarlson
+MagnusCarlson collected $0.05 from pot
+MagnusCarlson: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ShivaShango (big blind) folded before Flop
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: ulia75432 folded before Flop (didn't bet)
+Seat 4: igooorc folded before Flop (didn't bet)
+Seat 6: MagnusCarlson collected ($0.05)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: BulletsEatR (small blind) folded before Flop
+
+
+
+PokerStars Hand #228279867141:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:13:08 PT [2021/07/14 2:13:08 ET]
+Table 'Bellatrix IV' 9-max Seat #9 is the button
+Seat 1: ShivaShango ($2.03 in chips) 
+Seat 2: DocAces83 ($2.16 in chips) 
+Seat 3: ulia75432 ($1.88 in chips) 
+Seat 4: igooorc ($1.56 in chips) 
+Seat 6: MagnusCarlson ($3.15 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($1.91 in chips) 
+Seat 9: BulletsEatR ($1.02 in chips) 
+ShivaShango: posts small blind $0.01
+DocAces83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 6h]
+ulia75432: raises $0.02 to $0.04
+igooorc: folds 
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+ShivaShango: folds 
+DocAces83: folds 
+Uncalled bet ($0.02) returned to ulia75432
+ulia75432 collected $0.05 from pot
+ulia75432: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ShivaShango (small blind) folded before Flop
+Seat 2: DocAces83 (big blind) folded before Flop
+Seat 3: ulia75432 collected ($0.05)
+Seat 4: igooorc folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279869078:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:13:23 PT [2021/07/14 2:13:23 ET]
+Table 'Bellatrix IV' 9-max Seat #1 is the button
+Seat 1: ShivaShango ($2.02 in chips) 
+Seat 2: DocAces83 ($2.14 in chips) 
+Seat 3: ulia75432 ($1.91 in chips) 
+Seat 4: igooorc ($1.56 in chips) 
+Seat 6: MagnusCarlson ($3.15 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($1.91 in chips) 
+Seat 9: BulletsEatR ($1.02 in chips) 
+DocAces83: posts small blind $0.01
+ulia75432: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Kh]
+igooorc: folds 
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+ShivaShango: raises $0.03 to $0.05
+DocAces83: folds 
+ulia75432: calls $0.03
+*** FLOP *** [8d 5c 5s]
+ulia75432: checks 
+ShivaShango: bets $0.06
+ulia75432: calls $0.06
+*** TURN *** [8d 5c 5s] [7s]
+ulia75432: checks 
+scrapper7777 joins the table at seat #5 
+ShivaShango: bets $0.11
+ulia75432: calls $0.11
+*** RIVER *** [8d 5c 5s 7s] [6c]
+ulia75432: checks 
+ShivaShango: checks 
+*** SHOW DOWN ***
+ulia75432: shows [8h Td] (two pair, Eights and Fives)
+ShivaShango: mucks hand 
+ulia75432 collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [8d 5c 5s 7s 6c]
+Seat 1: ShivaShango (button) mucked [Ac 2h]
+Seat 2: DocAces83 (small blind) folded before Flop
+Seat 3: ulia75432 (big blind) showed [8h Td] and won ($0.43) with two pair, Eights and Fives
+Seat 4: igooorc folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279873257:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:13:54 PT [2021/07/14 2:13:54 ET]
+Table 'Bellatrix IV' 9-max Seat #2 is the button
+Seat 1: ShivaShango ($1.80 in chips) 
+Seat 2: DocAces83 ($2.13 in chips) 
+Seat 3: ulia75432 ($2.12 in chips) 
+Seat 4: igooorc ($1.56 in chips) 
+Seat 5: scrapper7777 ($0.80 in chips) 
+Seat 6: MagnusCarlson ($3.15 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($1.91 in chips) 
+Seat 9: BulletsEatR ($1.02 in chips) 
+ulia75432: posts small blind $0.01
+igooorc: posts big blind $0.02
+scrapper7777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 8s]
+scrapper7777: raises $0.06 to $0.08
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: folds 
+ShivaShango: calls $0.08
+DocAces83: folds 
+ulia75432: raises $0.26 to $0.34
+igooorc: folds 
+scrapper7777: calls $0.26
+ShivaShango: folds 
+*** FLOP *** [6d 4d 6h]
+ulia75432: bets $0.75
+scrapper7777: calls $0.46 and is all-in
+Uncalled bet ($0.29) returned to ulia75432
+*** TURN *** [6d 4d 6h] [Jh]
+*** RIVER *** [6d 4d 6h Jh] [Ah]
+*** SHOW DOWN ***
+ulia75432: shows [Ac Ad] (a full house, Aces full of Sixes)
+scrapper7777: shows [6c 5h] (three of a kind, Sixes)
+ulia75432 collected $1.64 from pot
+*** SUMMARY ***
+Total pot $1.70 | Rake $0.06 
+Board [6d 4d 6h Jh Ah]
+Seat 1: ShivaShango folded before Flop
+Seat 2: DocAces83 (button) folded before Flop (didn't bet)
+Seat 3: ulia75432 (small blind) showed [Ac Ad] and won ($1.64) with a full house, Aces full of Sixes
+Seat 4: igooorc (big blind) folded before Flop
+Seat 5: scrapper7777 showed [6c 5h] and lost with three of a kind, Sixes
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279879669:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:14:43 PT [2021/07/14 2:14:43 ET]
+Table 'Bellatrix IV' 9-max Seat #3 is the button
+Seat 1: ShivaShango ($1.72 in chips) 
+Seat 2: DocAces83 ($2.13 in chips) 
+Seat 3: ulia75432 ($2.96 in chips) 
+Seat 4: igooorc ($1.54 in chips) 
+Seat 6: MagnusCarlson ($3.15 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($1.91 in chips) 
+Seat 9: BulletsEatR ($1.02 in chips) 
+igooorc: posts small blind $0.01
+MagnusCarlson: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 7c]
+facundo23: folds 
+Dorex2007: folds 
+BulletsEatR: calls $0.02
+ShivaShango: folds 
+DocAces83: folds 
+ulia75432: calls $0.02
+igooorc: raises $0.12 to $0.14
+MagnusCarlson: folds 
+BulletsEatR: folds 
+ulia75432: folds 
+Uncalled bet ($0.12) returned to igooorc
+igooorc collected $0.08 from pot
+igooorc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: ShivaShango folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: ulia75432 (button) folded before Flop
+Seat 4: igooorc (small blind) collected ($0.08)
+Seat 6: MagnusCarlson (big blind) folded before Flop
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop
+
+
+
+PokerStars Hand #228279883315:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:15:10 PT [2021/07/14 2:15:10 ET]
+Table 'Bellatrix IV' 9-max Seat #4 is the button
+Seat 1: ShivaShango ($1.72 in chips) 
+Seat 2: DocAces83 ($2.13 in chips) 
+Seat 3: ulia75432 ($2.94 in chips) 
+Seat 4: igooorc ($1.60 in chips) 
+Seat 6: MagnusCarlson ($3.13 in chips) 
+Seat 7: facundo23 ($2 in chips) 
+Seat 8: Dorex2007 ($1.91 in chips) 
+Seat 9: BulletsEatR ($1 in chips) 
+MagnusCarlson: posts small blind $0.01
+facundo23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 6s]
+Dorex2007: folds 
+BulletsEatR: folds 
+ShivaShango: folds 
+DocAces83: folds 
+ulia75432: calls $0.02
+igooorc: folds 
+MagnusCarlson: folds 
+facundo23: checks 
+*** FLOP *** [8h Kh 6d]
+facundo23: checks 
+ulia75432: checks 
+*** TURN *** [8h Kh 6d] [6h]
+facundo23: checks 
+ulia75432: checks 
+*** RIVER *** [8h Kh 6d 6h] [5d]
+facundo23: checks 
+ulia75432: checks 
+*** SHOW DOWN ***
+facundo23: shows [Qd Js] (a pair of Sixes)
+ulia75432: mucks hand 
+facundo23 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8h Kh 6d 6h 5d]
+Seat 1: ShivaShango folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: ulia75432 mucked [2h Qc]
+Seat 4: igooorc (button) folded before Flop (didn't bet)
+Seat 6: MagnusCarlson (small blind) folded before Flop
+Seat 7: facundo23 (big blind) showed [Qd Js] and won ($0.05) with a pair of Sixes
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279888410:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:15:48 PT [2021/07/14 2:15:48 ET]
+Table 'Bellatrix IV' 9-max Seat #6 is the button
+Seat 1: ShivaShango ($1.72 in chips) 
+Seat 2: DocAces83 ($2.13 in chips) 
+Seat 3: ulia75432 ($2.92 in chips) 
+Seat 4: igooorc ($1.60 in chips) 
+Seat 5: scrapper7777 ($0.80 in chips) 
+Seat 6: MagnusCarlson ($3.12 in chips) 
+Seat 7: facundo23 ($2.03 in chips) 
+Seat 8: Dorex2007 ($1.91 in chips) 
+Seat 9: BulletsEatR ($1 in chips) 
+facundo23: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+scrapper7777: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 7d]
+BulletsEatR: folds 
+ShivaShango: folds 
+DocAces83 has timed out
+DocAces83: folds 
+ulia75432: folds 
+igooorc: folds 
+scrapper7777: raises $0.06 to $0.08
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: folds 
+Uncalled bet ($0.06) returned to scrapper7777
+scrapper7777 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: ShivaShango folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: ulia75432 folded before Flop (didn't bet)
+Seat 4: igooorc folded before Flop (didn't bet)
+Seat 5: scrapper7777 collected ($0.06)
+Seat 6: MagnusCarlson (button) folded before Flop (didn't bet)
+Seat 7: facundo23 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: BulletsEatR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279891896:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:16:14 PT [2021/07/14 2:16:14 ET]
+Table 'Bellatrix IV' 9-max Seat #7 is the button
+Seat 1: ShivaShango ($1.72 in chips) 
+Seat 3: ulia75432 ($2.92 in chips) 
+Seat 4: igooorc ($1.60 in chips) 
+Seat 5: scrapper7777 ($0.83 in chips) 
+Seat 6: MagnusCarlson ($3.12 in chips) 
+Seat 7: facundo23 ($2.02 in chips) 
+Seat 8: Dorex2007 ($1.89 in chips) 
+Seat 9: BulletsEatR ($1 in chips) 
+Dorex2007: posts small blind $0.01
+BulletsEatR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 9c]
+ShivaShango: folds 
+ulia75432: calls $0.02
+igooorc: folds 
+scrapper7777: folds 
+MagnusCarlson: folds 
+facundo23: raises $0.08 to $0.10
+Dorex2007: folds 
+BulletsEatR: calls $0.08
+ulia75432: folds 
+*** FLOP *** [Js Ac Ad]
+BulletsEatR: checks 
+facundo23: bets $0.22
+BulletsEatR: calls $0.22
+*** TURN *** [Js Ac Ad] [2h]
+BulletsEatR: bets $0.68 and is all-in
+facundo23: calls $0.68
+*** RIVER *** [Js Ac Ad 2h] [3h]
+*** SHOW DOWN ***
+BulletsEatR: shows [Qc Qd] (two pair, Aces and Queens)
+facundo23: shows [As 7s] (three of a kind, Aces)
+facundo23 collected $1.96 from pot
+*** SUMMARY ***
+Total pot $2.03 | Rake $0.07 
+Board [Js Ac Ad 2h 3h]
+Seat 1: ShivaShango folded before Flop (didn't bet)
+Seat 3: ulia75432 folded before Flop
+Seat 4: igooorc folded before Flop (didn't bet)
+Seat 5: scrapper7777 folded before Flop (didn't bet)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 (button) showed [As 7s] and won ($1.96) with three of a kind, Aces
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: BulletsEatR (big blind) showed [Qc Qd] and lost with two pair, Aces and Queens
+
+
+
+PokerStars Hand #228279900870:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:16:51 PT [2021/07/14 2:16:51 ET]
+Table 'Bellatrix IV' 9-max Seat #8 is the button
+Seat 1: ShivaShango ($1.72 in chips) 
+Seat 3: ulia75432 ($2.90 in chips) 
+Seat 4: igooorc ($1.60 in chips) 
+Seat 5: scrapper7777 ($0.83 in chips) 
+Seat 6: MagnusCarlson ($3.12 in chips) 
+Seat 7: facundo23 ($2.98 in chips) 
+Seat 8: Dorex2007 ($1.88 in chips) 
+ShivaShango: posts small blind $0.01
+ulia75432: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 5h]
+igooorc: folds 
+scrapper7777: raises $0.06 to $0.08
+MagnusCarlson: folds 
+facundo23: folds 
+Dorex2007: folds 
+ShivaShango: folds 
+ulia75432: folds 
+Uncalled bet ($0.06) returned to scrapper7777
+scrapper7777 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ShivaShango (small blind) folded before Flop
+Seat 3: ulia75432 (big blind) folded before Flop
+Seat 4: igooorc folded before Flop (didn't bet)
+Seat 5: scrapper7777 collected ($0.05)
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279903677:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:17:11 PT [2021/07/14 2:17:11 ET]
+Table 'Bellatrix IV' 9-max Seat #1 is the button
+Seat 1: ShivaShango ($1.71 in chips) 
+Seat 3: ulia75432 ($2.88 in chips) 
+Seat 4: igooorc ($1.60 in chips) 
+Seat 5: scrapper7777 ($0.86 in chips) 
+Seat 6: MagnusCarlson ($3.12 in chips) 
+Seat 7: facundo23 ($2.98 in chips) 
+Seat 8: Dorex2007 ($1.88 in chips) 
+ulia75432: posts small blind $0.01
+igooorc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 8c]
+scrapper7777: raises $0.06 to $0.08
+MagnusCarlson: folds 
+facundo23: calls $0.08
+Dorex2007: folds 
+ShivaShango: raises $0.16 to $0.24
+ulia75432: folds 
+igooorc: folds 
+scrapper7777: calls $0.16
+facundo23: folds 
+*** FLOP *** [Jc 9d 3h]
+scrapper7777: checks 
+ShivaShango: bets $0.40
+scrapper7777: folds 
+Uncalled bet ($0.40) returned to ShivaShango
+ShivaShango collected $0.57 from pot
+ShivaShango: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.02 
+Board [Jc 9d 3h]
+Seat 1: ShivaShango (button) collected ($0.57)
+Seat 3: ulia75432 (small blind) folded before Flop
+Seat 4: igooorc (big blind) folded before Flop
+Seat 5: scrapper7777 folded on the Flop
+Seat 6: MagnusCarlson folded before Flop (didn't bet)
+Seat 7: facundo23 folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279909133:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:17:52 PT [2021/07/14 2:17:52 ET]
+Table 'Bellatrix IV' 9-max Seat #3 is the button
+Seat 1: ShivaShango ($2.04 in chips) 
+Seat 3: ulia75432 ($2.87 in chips) 
+Seat 4: igooorc ($1.58 in chips) 
+Seat 5: scrapper7777 ($0.62 in chips) 
+Seat 6: MagnusCarlson ($3.12 in chips) 
+Seat 7: facundo23 ($2.90 in chips) 
+Seat 8: Dorex2007 ($1.88 in chips) 
+igooorc: posts small blind $0.01
+scrapper7777: posts big blind $0.02
+DocAces83: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 7h]
+MagnusCarlson: raises $0.04 to $0.06
+facundo23: folds 
+Dorex2007: folds 
+ShivaShango: folds 
+ulia75432: calls $0.06
+igooorc: folds 
+vinroy1 joins the table at seat #9 
+scrapper7777: calls $0.04
+*** FLOP *** [Qc 8d 2d]
+scrapper7777: checks 
+MagnusCarlson: bets $0.14
+ulia75432: folds 
+scrapper7777: folds 
+Uncalled bet ($0.14) returned to MagnusCarlson
+MagnusCarlson collected $0.18 from pot
+MagnusCarlson: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Qc 8d 2d]
+Seat 1: ShivaShango folded before Flop (didn't bet)
+Seat 3: ulia75432 (button) folded on the Flop
+Seat 4: igooorc (small blind) folded before Flop
+Seat 5: scrapper7777 (big blind) folded on the Flop
+Seat 6: MagnusCarlson collected ($0.18)
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279913741:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:18:26 PT [2021/07/14 2:18:26 ET]
+Table 'Bellatrix IV' 9-max Seat #4 is the button
+Seat 1: ShivaShango ($2.04 in chips) 
+Seat 3: ulia75432 ($2.81 in chips) 
+Seat 4: igooorc ($1.57 in chips) 
+Seat 5: scrapper7777 ($0.56 in chips) 
+Seat 6: MagnusCarlson ($3.24 in chips) 
+Seat 7: facundo23 ($2.90 in chips) 
+Seat 8: Dorex2007 ($1.88 in chips) 
+scrapper7777: posts small blind $0.01
+MagnusCarlson: posts big blind $0.02
+vinroy1: sits out 
+DocAces83: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 4s]
+facundo23: folds 
+facundo23 leaves the table
+Dorex2007: folds 
+ShivaShango: folds 
+ulia75432: calls $0.02
+igooorc: folds 
+scrapper7777: calls $0.01
+MagnusCarlson: raises $0.08 to $0.10
+ulia75432: calls $0.08
+scrapper7777: calls $0.08
+*** FLOP *** [8d Kd 5c]
+scrapper7777: checks 
+MagnusCarlson: bets $0.08
+ulia75432: raises $0.45 to $0.53
+scrapper7777: folds 
+MagnusCarlson: folds 
+Uncalled bet ($0.45) returned to ulia75432
+ulia75432 collected $0.44 from pot
+ulia75432: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [8d Kd 5c]
+Seat 1: ShivaShango folded before Flop (didn't bet)
+Seat 3: ulia75432 collected ($0.44)
+Seat 4: igooorc (button) folded before Flop (didn't bet)
+Seat 5: scrapper7777 (small blind) folded on the Flop
+Seat 6: MagnusCarlson (big blind) folded on the Flop
+Seat 7: facundo23 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279921882:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:19:28 PT [2021/07/14 2:19:28 ET]
+Table 'Bellatrix IV' 9-max Seat #5 is the button
+Seat 3: ulia75432 ($3.07 in chips) 
+Seat 4: igooorc ($1.57 in chips) 
+Seat 5: scrapper7777 ($0.46 in chips) 
+Seat 8: Dorex2007 ($1.88 in chips) 
+Seat 9: vinroy1 ($2 in chips) 
+Dorex2007: posts small blind $0.01
+vinroy1: posts big blind $0.02
+DocAces83: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 9h]
+MagnusCarlson leaves the table
+ulia75432: folds 
+igooorc: folds 
+scrapper7777: raises $0.06 to $0.08
+Dorex2007: folds 
+vinroy1: folds 
+Uncalled bet ($0.06) returned to scrapper7777
+scrapper7777 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 3: ulia75432 folded before Flop (didn't bet)
+Seat 4: igooorc folded before Flop (didn't bet)
+Seat 5: scrapper7777 (button) collected ($0.05)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: vinroy1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228279923911:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:19:43 PT [2021/07/14 2:19:43 ET]
+Table 'Bellatrix IV' 9-max Seat #8 is the button
+Seat 2: DocAces83 ($2.13 in chips) 
+Seat 3: ulia75432 ($3.07 in chips) 
+Seat 4: igooorc ($1.57 in chips) 
+Seat 5: scrapper7777 ($0.49 in chips) 
+Seat 8: Dorex2007 ($1.87 in chips) 
+Seat 9: vinroy1 ($1.98 in chips) 
+vinroy1: posts small blind $0.01
+DocAces83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 3d]
+ulia75432: folds 
+igooorc: folds 
+scrapper7777: raises $0.06 to $0.08
+Dorex2007: folds 
+vinroy1: calls $0.07
+DocAces83: folds 
+*** FLOP *** [Qh 7s 7d]
+vinroy1: checks 
+scrapper7777: bets $0.41 and is all-in
+vinroy1: folds 
+Uncalled bet ($0.41) returned to scrapper7777
+scrapper7777 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Qh 7s 7d]
+Seat 2: DocAces83 (big blind) folded before Flop
+Seat 3: ulia75432 folded before Flop (didn't bet)
+Seat 4: igooorc folded before Flop (didn't bet)
+Seat 5: scrapper7777 collected ($0.17)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: vinroy1 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #228279927470:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:20:09 PT [2021/07/14 2:20:09 ET]
+Table 'Bellatrix IV' 9-max Seat #9 is the button
+Seat 2: DocAces83 ($2.11 in chips) 
+Seat 3: ulia75432 ($3.07 in chips) 
+Seat 4: igooorc ($1.57 in chips) 
+Seat 5: scrapper7777 ($0.58 in chips) 
+Seat 8: Dorex2007 ($1.87 in chips) 
+Seat 9: vinroy1 ($1.90 in chips) 
+DocAces83: posts small blind $0.01
+ulia75432: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Ah]
+igooorc: folds 
+scrapper7777: raises $0.06 to $0.08
+Dorex2007: raises $0.14 to $0.22
+vinroy1: folds 
+DocAces83: folds 
+ulia75432: folds 
+scrapper7777: calls $0.14
+*** FLOP *** [8s Jh 5h]
+scrapper7777: checks 
+Dorex2007: bets $1.65 and is all-in
+scrapper7777: folds 
+Uncalled bet ($1.65) returned to Dorex2007
+Dorex2007 collected $0.45 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [8s Jh 5h]
+Seat 2: DocAces83 (small blind) folded before Flop
+Seat 3: ulia75432 (big blind) folded before Flop
+Seat 4: igooorc folded before Flop (didn't bet)
+Seat 5: scrapper7777 folded on the Flop
+Seat 8: Dorex2007 collected ($0.45)
+Seat 9: vinroy1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279932026:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:20:43 PT [2021/07/14 2:20:43 ET]
+Table 'Bellatrix IV' 9-max Seat #2 is the button
+Seat 2: DocAces83 ($2.10 in chips) 
+Seat 3: ulia75432 ($3.05 in chips) 
+Seat 4: igooorc ($1.57 in chips) 
+Seat 5: scrapper7777 ($0.36 in chips) 
+Seat 8: Dorex2007 ($2.10 in chips) 
+Seat 9: vinroy1 ($1.90 in chips) 
+ulia75432: posts small blind $0.01
+igooorc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 3d]
+scrapper7777: folds 
+Dorex2007: folds 
+vinroy1: folds 
+DocAces83: raises $0.04 to $0.06
+ulia75432: calls $0.05
+igooorc: folds 
+*** FLOP *** [Kd Td 6d]
+ulia75432: checks 
+DocAces83: checks 
+*** TURN *** [Kd Td 6d] [9c]
+ulia75432: checks 
+DocAces83: checks 
+*** RIVER *** [Kd Td 6d 9c] [Qh]
+ulia75432: checks 
+DocAces83: bets $0.06
+ulia75432: folds 
+Uncalled bet ($0.06) returned to DocAces83
+DocAces83 collected $0.14 from pot
+DocAces83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Kd Td 6d 9c Qh]
+Seat 2: DocAces83 (button) collected ($0.14)
+Seat 3: ulia75432 (small blind) folded on the River
+Seat 4: igooorc (big blind) folded before Flop
+Seat 5: scrapper7777 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: vinroy1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279937228:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:21:21 PT [2021/07/14 2:21:21 ET]
+Table 'Bellatrix IV' 9-max Seat #3 is the button
+Seat 2: DocAces83 ($2.18 in chips) 
+Seat 3: ulia75432 ($2.99 in chips) 
+Seat 4: igooorc ($1.55 in chips) 
+Seat 5: scrapper7777 ($0.36 in chips) 
+Seat 8: Dorex2007 ($2.10 in chips) 
+Seat 9: vinroy1 ($1.90 in chips) 
+igooorc: posts small blind $0.01
+scrapper7777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 8h]
+Dorex2007: folds 
+vinroy1: folds 
+DocAces83: folds 
+ulia75432: calls $0.02
+igooorc: calls $0.01
+scrapper7777: raises $0.34 to $0.36 and is all-in
+ulia75432: folds 
+igooorc: calls $0.34
+*** FLOP *** [6h 3d 8c]
+*** TURN *** [6h 3d 8c] [Jc]
+*** RIVER *** [6h 3d 8c Jc] [Ts]
+*** SHOW DOWN ***
+igooorc: shows [Qh Kh] (high card King)
+scrapper7777: shows [6c 9c] (a pair of Sixes)
+scrapper7777 collected $0.71 from pot
+igooorc cashed out the hand for $0.45
+*** SUMMARY ***
+Total pot $0.74 | Rake $0.03 
+Board [6h 3d 8c Jc Ts]
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: ulia75432 (button) folded before Flop
+Seat 4: igooorc (small blind) showed [Qh Kh] and lost with high card King (cashed out).
+Seat 5: scrapper7777 (big blind) showed [6c 9c] and won ($0.71) with a pair of Sixes
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: vinroy1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279941218:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:21:51 PT [2021/07/14 2:21:51 ET]
+Table 'Bellatrix IV' 9-max Seat #4 is the button
+Seat 1: ShivaShango ($2.04 in chips) 
+Seat 2: DocAces83 ($2.18 in chips) 
+Seat 3: ulia75432 ($2.97 in chips) 
+Seat 4: igooorc ($1.64 in chips) 
+Seat 5: scrapper7777 ($0.71 in chips) 
+Seat 8: Dorex2007 ($2.10 in chips) 
+Seat 9: vinroy1 ($1.90 in chips) 
+whywouldjesus joins the table at seat #6 
+scrapper7777: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+ShivaShango: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Qs]
+vinroy1: folds 
+ShivaShango: checks 
+DocAces83: folds 
+ulia75432: folds 
+igooorc: folds 
+urax13 joins the table at seat #7 
+scrapper7777: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [6h 8d Th]
+scrapper7777: checks 
+Dorex2007: checks 
+ShivaShango: bets $0.02
+scrapper7777: calls $0.02
+Dorex2007: folds 
+*** TURN *** [6h 8d Th] [7h]
+scrapper7777: checks 
+ShivaShango: bets $0.03
+scrapper7777: calls $0.03
+*** RIVER *** [6h 8d Th 7h] [3h]
+scrapper7777: checks 
+ShivaShango: checks 
+*** SHOW DOWN ***
+scrapper7777: shows [5d Qd] (high card Queen)
+ShivaShango: shows [8h 6s] (a flush, Ten high)
+ShivaShango collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [6h 8d Th 7h 3h]
+Seat 1: ShivaShango showed [8h 6s] and won ($0.16) with a flush, Ten high
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: ulia75432 folded before Flop (didn't bet)
+Seat 4: igooorc (button) folded before Flop (didn't bet)
+Seat 5: scrapper7777 (small blind) showed [5d Qd] and lost with high card Queen
+Seat 8: Dorex2007 (big blind) folded on the Flop
+Seat 9: vinroy1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279946953:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:22:34 PT [2021/07/14 2:22:34 ET]
+Table 'Bellatrix IV' 9-max Seat #5 is the button
+Seat 1: ShivaShango ($2.12 in chips) 
+Seat 2: DocAces83 ($2.18 in chips) 
+Seat 3: ulia75432 ($2.97 in chips) 
+Seat 4: igooorc ($1.64 in chips) 
+Seat 5: scrapper7777 ($0.64 in chips) 
+Seat 8: Dorex2007 ($2.08 in chips) 
+Seat 9: vinroy1 ($1.90 in chips) 
+Dorex2007: posts small blind $0.01
+vinroy1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 5s]
+ShivaShango: folds 
+DocAces83: folds 
+ulia75432: folds 
+igooorc: folds 
+scrapper7777: raises $0.06 to $0.08
+Dorex2007: folds 
+vinroy1: folds 
+Uncalled bet ($0.06) returned to scrapper7777
+scrapper7777 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ShivaShango folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: ulia75432 folded before Flop (didn't bet)
+Seat 4: igooorc folded before Flop (didn't bet)
+Seat 5: scrapper7777 (button) collected ($0.05)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: vinroy1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228279949592:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:22:53 PT [2021/07/14 2:22:53 ET]
+Table 'Bellatrix IV' 9-max Seat #8 is the button
+Seat 1: ShivaShango ($2.12 in chips) 
+Seat 2: DocAces83 ($2.18 in chips) 
+Seat 3: ulia75432 ($2.97 in chips) 
+Seat 4: igooorc ($1.64 in chips) 
+Seat 5: scrapper7777 ($0.67 in chips) 
+Seat 8: Dorex2007 ($2.07 in chips) 
+Seat 9: vinroy1 ($1.88 in chips) 
+vinroy1: posts small blind $0.01
+ShivaShango: posts big blind $0.02
+whywouldjesus: sits out 
+urax13: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Qc]
+DocAces83: folds 
+ulia75432: calls $0.02
+igooorc: calls $0.02
+scrapper7777: folds 
+Dorex2007: raises $0.04 to $0.06
+vinroy1: folds 
+ShivaShango: folds 
+ulia75432: calls $0.04
+igooorc: calls $0.04
+*** FLOP *** [Qd 7s 2d]
+ulia75432: checks 
+igooorc: checks 
+Dorex2007: bets $0.20
+ulia75432: folds 
+igooorc: folds 
+Uncalled bet ($0.20) returned to Dorex2007
+Dorex2007 collected $0.20 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Qd 7s 2d]
+Seat 1: ShivaShango (big blind) folded before Flop
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: ulia75432 folded on the Flop
+Seat 4: igooorc folded on the Flop
+Seat 5: scrapper7777 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) collected ($0.20)
+Seat 9: vinroy1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228279955061:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:23:34 PT [2021/07/14 2:23:34 ET]
+Table 'Bellatrix IV' 9-max Seat #9 is the button
+Seat 1: ShivaShango ($2.10 in chips) 
+Seat 2: DocAces83 ($2.18 in chips) 
+Seat 3: ulia75432 ($2.91 in chips) 
+Seat 4: igooorc ($1.58 in chips) 
+Seat 5: scrapper7777 ($0.67 in chips) 
+Seat 6: whywouldjesus ($2 in chips) 
+Seat 8: Dorex2007 ($2.21 in chips) 
+Seat 9: vinroy1 ($1.87 in chips) 
+ShivaShango: posts small blind $0.01
+DocAces83: posts big blind $0.02
+whywouldjesus: posts big blind $0.02
+urax13: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Qd]
+ulia75432: folds 
+igooorc: folds 
+scrapper7777: raises $0.06 to $0.08
+ulia75432 leaves the table
+whywouldjesus: folds 
+Dorex2007: folds 
+vinroy1: folds 
+ShivaShango: folds 
+DocAces83: folds 
+Uncalled bet ($0.06) returned to scrapper7777
+scrapper7777 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: ShivaShango (small blind) folded before Flop
+Seat 2: DocAces83 (big blind) folded before Flop
+Seat 3: ulia75432 folded before Flop (didn't bet)
+Seat 4: igooorc folded before Flop (didn't bet)
+Seat 5: scrapper7777 collected ($0.07)
+Seat 6: whywouldjesus folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: vinroy1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279958894:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:24:03 PT [2021/07/14 2:24:03 ET]
+Table 'Bellatrix IV' 9-max Seat #1 is the button
+Seat 1: ShivaShango ($2.09 in chips) 
+Seat 2: DocAces83 ($2.16 in chips) 
+Seat 4: igooorc ($1.58 in chips) 
+Seat 5: scrapper7777 ($0.72 in chips) 
+Seat 6: whywouldjesus ($1.98 in chips) 
+Seat 7: urax13 ($2 in chips) 
+Seat 8: Dorex2007 ($2.21 in chips) 
+Seat 9: vinroy1 ($1.87 in chips) 
+DocAces83: posts small blind $0.01
+igooorc: posts big blind $0.02
+urax13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 6d]
+scrapper7777: folds 
+whywouldjesus: folds 
+urax13: checks 
+Dorex2007: folds 
+vinroy1: folds 
+ShivaShango: folds 
+DocAces83: folds 
+magnusom joins the table at seat #3 
+igooorc: checks 
+*** FLOP *** [5d 8h Th]
+igooorc: checks 
+urax13: bets $0.05
+igooorc: folds 
+Uncalled bet ($0.05) returned to urax13
+urax13 collected $0.05 from pot
+urax13: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5d 8h Th]
+Seat 1: ShivaShango (button) folded before Flop (didn't bet)
+Seat 2: DocAces83 (small blind) folded before Flop
+Seat 4: igooorc (big blind) folded on the Flop
+Seat 5: scrapper7777 folded before Flop (didn't bet)
+Seat 6: whywouldjesus folded before Flop (didn't bet)
+Seat 7: urax13 collected ($0.05)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: vinroy1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279962508:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:24:30 PT [2021/07/14 2:24:30 ET]
+Table 'Bellatrix IV' 9-max Seat #2 is the button
+Seat 1: ShivaShango ($2.09 in chips) 
+Seat 2: DocAces83 ($2.15 in chips) 
+Seat 4: igooorc ($1.56 in chips) 
+Seat 5: scrapper7777 ($0.72 in chips) 
+Seat 6: whywouldjesus ($1.98 in chips) 
+Seat 7: urax13 ($2.03 in chips) 
+Seat 8: Dorex2007 ($2.21 in chips) 
+Seat 9: vinroy1 ($1.87 in chips) 
+igooorc: posts small blind $0.01
+scrapper7777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Td]
+whywouldjesus: folds 
+urax13: calls $0.02
+Dorex2007: raises $0.10 to $0.12
+vinroy1: folds 
+ShivaShango: calls $0.12
+DocAces83: folds 
+igooorc: folds 
+scrapper7777: calls $0.10
+urax13: calls $0.10
+*** FLOP *** [Ah Ks 3d]
+scrapper7777: checks 
+urax13: checks 
+Dorex2007: checks 
+ShivaShango: bets $0.14
+scrapper7777: folds 
+urax13: folds 
+Dorex2007: calls $0.14
+*** TURN *** [Ah Ks 3d] [2c]
+Dorex2007: checks 
+ShivaShango: bets $0.22
+Dorex2007: calls $0.22
+*** RIVER *** [Ah Ks 3d 2c] [Kc]
+Dorex2007: bets $1.73 and is all-in
+ShivaShango: folds 
+Uncalled bet ($1.73) returned to Dorex2007
+Dorex2007 collected $1.17 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.21 | Rake $0.04 
+Board [Ah Ks 3d 2c Kc]
+Seat 1: ShivaShango folded on the River
+Seat 2: DocAces83 (button) folded before Flop (didn't bet)
+Seat 4: igooorc (small blind) folded before Flop
+Seat 5: scrapper7777 (big blind) folded on the Flop
+Seat 6: whywouldjesus folded before Flop (didn't bet)
+Seat 7: urax13 folded on the Flop
+Seat 8: Dorex2007 collected ($1.17)
+Seat 9: vinroy1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279973249:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:25:49 PT [2021/07/14 2:25:49 ET]
+Table 'Bellatrix IV' 9-max Seat #4 is the button
+Seat 1: ShivaShango ($1.61 in chips) 
+Seat 2: DocAces83 ($2.15 in chips) 
+Seat 3: magnusom ($0.80 in chips) 
+Seat 4: igooorc ($1.55 in chips) 
+Seat 5: scrapper7777 ($0.60 in chips) 
+Seat 6: whywouldjesus ($1.98 in chips) 
+Seat 7: urax13 ($1.91 in chips) 
+Seat 8: Dorex2007 ($2.90 in chips) 
+Seat 9: vinroy1 ($1.87 in chips) 
+scrapper7777: posts small blind $0.01
+whywouldjesus: posts big blind $0.02
+magnusom: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Qs]
+urax13: folds 
+Dorex2007: folds 
+vinroy1: folds 
+ShivaShango: folds 
+DocAces83: folds 
+magnusom: checks 
+igooorc: folds 
+scrapper7777 said, "KKKK"
+scrapper7777: calls $0.01
+whywouldjesus: checks 
+*** FLOP *** [7d Ad Kc]
+scrapper7777: checks 
+whywouldjesus: checks 
+magnusom: checks 
+*** TURN *** [7d Ad Kc] [2h]
+scrapper7777: bets $0.58 and is all-in
+whywouldjesus: folds 
+magnusom: folds 
+Uncalled bet ($0.58) returned to scrapper7777
+scrapper7777 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [7d Ad Kc 2h]
+Seat 1: ShivaShango folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: magnusom folded on the Turn (didn't bet)
+Seat 4: igooorc (button) folded before Flop (didn't bet)
+Seat 5: scrapper7777 (small blind) collected ($0.06)
+Seat 6: whywouldjesus (big blind) folded on the Turn
+Seat 7: urax13 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: vinroy1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228279980098:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:26:41 PT [2021/07/14 2:26:41 ET]
+Table 'Bellatrix IV' 9-max Seat #5 is the button
+Seat 1: ShivaShango ($1.61 in chips) 
+Seat 2: DocAces83 ($2.15 in chips) 
+Seat 3: magnusom ($0.78 in chips) 
+Seat 4: igooorc ($1.55 in chips) 
+Seat 5: scrapper7777 ($0.64 in chips) 
+Seat 6: whywouldjesus ($1.96 in chips) 
+Seat 7: urax13 ($1.91 in chips) 
+Seat 8: Dorex2007 ($2.90 in chips) 
+whywouldjesus: posts small blind $0.01
+urax13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Ks]
+Dorex2007: raises $0.04 to $0.06
+ShivaShango: folds 
+DocAces83: folds 
+magnusom: folds 
+igooorc: folds 
+scrapper7777: folds 
+whywouldjesus: folds 
+urax13: calls $0.04
+*** FLOP *** [2h 2c 8s]
+urax13: bets $0.13
+Dorex2007: raises $0.39 to $0.52
+urax13: calls $0.39
+*** TURN *** [2h 2c 8s] [3s]
+urax13: bets $0.57
+Dorex2007: calls $0.57
+*** RIVER *** [2h 2c 8s 3s] [7d]
+urax13: bets $0.76 and is all-in
+Dorex2007: calls $0.76
+*** SHOW DOWN ***
+urax13: shows [8d Th] (two pair, Eights and Deuces)
+Dorex2007: shows [Ac Ks] (a pair of Deuces)
+urax13 collected $3.70 from pot
+*** SUMMARY ***
+Total pot $3.83 | Rake $0.13 
+Board [2h 2c 8s 3s 7d]
+Seat 1: ShivaShango folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: magnusom folded before Flop (didn't bet)
+Seat 4: igooorc folded before Flop (didn't bet)
+Seat 5: scrapper7777 (button) folded before Flop (didn't bet)
+Seat 6: whywouldjesus (small blind) folded before Flop
+Seat 7: urax13 (big blind) showed [8d Th] and won ($3.70) with two pair, Eights and Deuces
+Seat 8: Dorex2007 showed [Ac Ks] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #228279986027:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:27:25 PT [2021/07/14 2:27:25 ET]
+Table 'Bellatrix IV' 9-max Seat #6 is the button
+Seat 1: ShivaShango ($1.61 in chips) 
+Seat 2: DocAces83 ($2.15 in chips) 
+Seat 3: magnusom ($0.78 in chips) 
+Seat 4: igooorc ($1.55 in chips) 
+Seat 5: scrapper7777 ($0.64 in chips) 
+Seat 6: whywouldjesus ($1.95 in chips) 
+Seat 7: urax13 ($3.70 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+urax13: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Js]
+ShivaShango: folds 
+DocAces83: folds 
+magnusom: raises $0.02 to $0.04
+igooorc: folds 
+scrapper7777: raises $0.04 to $0.08
+whywouldjesus: folds 
+urax13: folds 
+Dorex2007: calls $0.06
+magnusom: raises $0.04 to $0.12
+scrapper7777: calls $0.04
+Dorex2007: calls $0.04
+*** FLOP *** [Jh Ts 6h]
+Dorex2007: bets $0.36
+magnusom: raises $0.30 to $0.66 and is all-in
+scrapper7777: folds 
+Dorex2007: calls $0.30
+*** TURN *** [Jh Ts 6h] [7h]
+*** RIVER *** [Jh Ts 6h 7h] [6s]
+*** SHOW DOWN ***
+Dorex2007: shows [Ks Js] (two pair, Jacks and Sixes)
+magnusom: shows [Kc Kd] (two pair, Kings and Sixes)
+magnusom collected $1.63 from pot
+*** SUMMARY ***
+Total pot $1.69 | Rake $0.06 
+Board [Jh Ts 6h 7h 6s]
+Seat 1: ShivaShango folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: magnusom showed [Kc Kd] and won ($1.63) with two pair, Kings and Sixes
+Seat 4: igooorc folded before Flop (didn't bet)
+Seat 5: scrapper7777 folded on the Flop
+Seat 6: whywouldjesus (button) folded before Flop (didn't bet)
+Seat 7: urax13 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) showed [Ks Js] and lost with two pair, Jacks and Sixes
+
+
+
+PokerStars Hand #228279995230:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:28:34 PT [2021/07/14 2:28:34 ET]
+Table 'Bellatrix IV' 9-max Seat #7 is the button
+Seat 1: ShivaShango ($1.61 in chips) 
+Seat 2: DocAces83 ($2.15 in chips) 
+Seat 3: magnusom ($1.63 in chips) 
+Seat 4: igooorc ($1.55 in chips) 
+Seat 5: scrapper7777 ($0.52 in chips) 
+Seat 6: whywouldjesus ($1.95 in chips) 
+Seat 7: urax13 ($3.69 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Dorex2007: posts small blind $0.01
+ShivaShango: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Kd]
+DocAces83: folds 
+magnusom: calls $0.02
+igooorc: folds 
+scrapper7777: folds 
+whywouldjesus: folds 
+urax13: calls $0.02
+Dorex2007: folds 
+ShivaShango: checks 
+*** FLOP *** [8s Td 4s]
+ShivaShango: checks 
+magnusom: checks 
+urax13: bets $0.04
+ShivaShango: folds 
+magnusom: calls $0.04
+*** TURN *** [8s Td 4s] [Jd]
+magnusom: checks 
+urax13: bets $0.14
+magnusom: folds 
+Uncalled bet ($0.14) returned to urax13
+urax13 collected $0.14 from pot
+urax13: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8s Td 4s Jd]
+Seat 1: ShivaShango (big blind) folded on the Flop
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: magnusom folded on the Turn
+Seat 4: igooorc folded before Flop (didn't bet)
+Seat 5: scrapper7777 folded before Flop (didn't bet)
+Seat 6: whywouldjesus folded before Flop (didn't bet)
+Seat 7: urax13 (button) collected ($0.14)
+Seat 8: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228280000980:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:29:17 PT [2021/07/14 2:29:17 ET]
+Table 'Bellatrix IV' 9-max Seat #8 is the button
+Seat 1: ShivaShango ($1.59 in chips) 
+Seat 2: DocAces83 ($2.15 in chips) 
+Seat 3: magnusom ($1.57 in chips) 
+Seat 4: igooorc ($1.55 in chips) 
+Seat 5: scrapper7777 ($0.52 in chips) 
+Seat 6: whywouldjesus ($1.95 in chips) 
+Seat 7: urax13 ($3.77 in chips) 
+Seat 8: Dorex2007 ($1.99 in chips) 
+ShivaShango: posts small blind $0.01
+DocAces83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 8d]
+magnusom: calls $0.02
+igooorc: folds 
+scrapper7777: raises $0.06 to $0.08
+whywouldjesus: folds 
+urax13: folds 
+Dorex2007: folds 
+ShivaShango: folds 
+DocAces83: folds 
+magnusom: calls $0.06
+*** FLOP *** [Qd 4d 3h]
+magnusom: checks 
+scrapper7777: bets $0.44 and is all-in
+magnusom: folds 
+Uncalled bet ($0.44) returned to scrapper7777
+scrapper7777 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Qd 4d 3h]
+Seat 1: ShivaShango (small blind) folded before Flop
+Seat 2: DocAces83 (big blind) folded before Flop
+Seat 3: magnusom folded on the Flop
+Seat 4: igooorc folded before Flop (didn't bet)
+Seat 5: scrapper7777 collected ($0.18)
+Seat 6: whywouldjesus folded before Flop (didn't bet)
+Seat 7: urax13 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228280005303:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:29:49 PT [2021/07/14 2:29:49 ET]
+Table 'Bellatrix IV' 9-max Seat #1 is the button
+Seat 1: ShivaShango ($1.58 in chips) 
+Seat 2: DocAces83 ($2.13 in chips) 
+Seat 3: magnusom ($1.49 in chips) 
+Seat 4: igooorc ($1.55 in chips) 
+Seat 5: scrapper7777 ($0.62 in chips) 
+Seat 6: whywouldjesus ($1.95 in chips) 
+Seat 7: urax13 ($3.77 in chips) 
+Seat 8: Dorex2007 ($1.99 in chips) 
+DocAces83: posts small blind $0.01
+magnusom: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d Ac]
+igooorc: folds 
+scrapper7777: raises $0.06 to $0.08
+whywouldjesus: folds 
+urax13: folds 
+Dorex2007: folds 
+ShivaShango: folds 
+DocAces83: folds 
+magnusom: calls $0.06
+*** FLOP *** [5h 3d Th]
+magnusom: checks 
+scrapper7777: bets $0.54 and is all-in
+magnusom: calls $0.54
+*** TURN *** [5h 3d Th] [4s]
+*** RIVER *** [5h 3d Th 4s] [6c]
+*** SHOW DOWN ***
+magnusom: shows [Kh Qs] (high card King)
+scrapper7777: shows [5d Kd] (a pair of Fives)
+scrapper7777 collected $1.21 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.04 
+Board [5h 3d Th 4s 6c]
+Seat 1: ShivaShango (button) folded before Flop (didn't bet)
+Seat 2: DocAces83 (small blind) folded before Flop
+Seat 3: magnusom (big blind) showed [Kh Qs] and lost with high card King
+Seat 4: igooorc folded before Flop (didn't bet)
+Seat 5: scrapper7777 showed [5d Kd] and won ($1.21) with a pair of Fives
+Seat 6: whywouldjesus folded before Flop (didn't bet)
+Seat 7: urax13 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228280012784:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:30:45 PT [2021/07/14 2:30:45 ET]
+Table 'Bellatrix IV' 9-max Seat #2 is the button
+Seat 1: ShivaShango ($1.58 in chips) 
+Seat 2: DocAces83 ($2.12 in chips) 
+Seat 3: magnusom ($0.87 in chips) 
+Seat 4: igooorc ($1.55 in chips) 
+Seat 5: scrapper7777 ($1.21 in chips) 
+Seat 6: whywouldjesus ($1.95 in chips) 
+Seat 7: urax13 ($3.77 in chips) 
+Seat 8: Dorex2007 ($1.99 in chips) 
+magnusom: posts small blind $0.01
+igooorc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Kd]
+scrapper7777: folds 
+whywouldjesus: folds 
+urax13: folds 
+Dorex2007: raises $0.08 to $0.10
+ShivaShango: folds 
+DocAces83: folds 
+magnusom: folds 
+igooorc: folds 
+Uncalled bet ($0.08) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ShivaShango folded before Flop (didn't bet)
+Seat 2: DocAces83 (button) folded before Flop (didn't bet)
+Seat 3: magnusom (small blind) folded before Flop
+Seat 4: igooorc (big blind) folded before Flop
+Seat 5: scrapper7777 folded before Flop (didn't bet)
+Seat 6: whywouldjesus folded before Flop (didn't bet)
+Seat 7: urax13 folded before Flop (didn't bet)
+Seat 8: Dorex2007 collected ($0.05)
+
+
+
+PokerStars Hand #228280015292:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:31:04 PT [2021/07/14 2:31:04 ET]
+Table 'Bellatrix IV' 9-max Seat #3 is the button
+Seat 1: ShivaShango ($1.58 in chips) 
+Seat 2: DocAces83 ($2.12 in chips) 
+Seat 3: magnusom ($0.86 in chips) 
+Seat 4: igooorc ($1.53 in chips) 
+Seat 5: scrapper7777 ($1.21 in chips) 
+Seat 6: whywouldjesus ($1.95 in chips) 
+Seat 7: urax13 ($3.77 in chips) 
+Seat 8: Dorex2007 ($2.02 in chips) 
+igooorc: posts small blind $0.01
+scrapper7777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 8h]
+whywouldjesus: folds 
+urax13: folds 
+Dorex2007: folds 
+ShivaShango: raises $0.03 to $0.05
+DocAces83: folds 
+magnusom: raises $0.03 to $0.08
+igooorc: folds 
+scrapper7777: folds 
+ShivaShango: calls $0.03
+*** FLOP *** [Qs 3c 6h]
+ShivaShango: checks 
+magnusom: bets $0.18
+ShivaShango: folds 
+Uncalled bet ($0.18) returned to magnusom
+magnusom collected $0.18 from pot
+magnusom: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Qs 3c 6h]
+Seat 1: ShivaShango folded on the Flop
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: magnusom (button) collected ($0.18)
+Seat 4: igooorc (small blind) folded before Flop
+Seat 5: scrapper7777 (big blind) folded before Flop
+Seat 6: whywouldjesus folded before Flop (didn't bet)
+Seat 7: urax13 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228280019813:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:31:38 PT [2021/07/14 2:31:38 ET]
+Table 'Bellatrix IV' 9-max Seat #4 is the button
+Seat 1: ShivaShango ($1.50 in chips) 
+Seat 2: DocAces83 ($2.12 in chips) 
+Seat 3: magnusom ($0.96 in chips) 
+Seat 4: igooorc ($1.52 in chips) 
+Seat 5: scrapper7777 ($1.19 in chips) 
+Seat 6: whywouldjesus ($1.95 in chips) 
+Seat 7: urax13 ($3.77 in chips) 
+Seat 8: Dorex2007 ($2.02 in chips) 
+scrapper7777: posts small blind $0.01
+whywouldjesus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 6s]
+urax13: folds 
+Dorex2007: folds 
+ShivaShango: folds 
+DocAces83: folds 
+magnusom: raises $0.02 to $0.04
+igooorc: folds 
+scrapper7777: raises $0.04 to $0.08
+whywouldjesus: calls $0.06
+magnusom: raises $0.04 to $0.12
+scrapper7777: calls $0.04
+whywouldjesus: raises $1.83 to $1.95 and is all-in
+magnusom: calls $0.84 and is all-in
+scrapper7777: folds 
+Uncalled bet ($0.99) returned to whywouldjesus
+*** FLOP *** [Ah 8d 7h]
+*** TURN *** [Ah 8d 7h] [6h]
+*** RIVER *** [Ah 8d 7h 6h] [5d]
+*** SHOW DOWN ***
+whywouldjesus: shows [Ad Qc] (a pair of Aces)
+magnusom: shows [Jd Kd] (high card Ace)
+whywouldjesus collected $1.97 from pot
+*** SUMMARY ***
+Total pot $2.04 | Rake $0.07 
+Board [Ah 8d 7h 6h 5d]
+Seat 1: ShivaShango folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: magnusom showed [Jd Kd] and lost with high card Ace
+Seat 4: igooorc (button) folded before Flop (didn't bet)
+Seat 5: scrapper7777 (small blind) folded before Flop
+Seat 6: whywouldjesus (big blind) showed [Ad Qc] and won ($1.97) with a pair of Aces
+Seat 7: urax13 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228280026925:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:32:31 PT [2021/07/14 2:32:31 ET]
+Table 'Bellatrix IV' 9-max Seat #5 is the button
+Seat 1: ShivaShango ($1.50 in chips) 
+Seat 2: DocAces83 ($2.12 in chips) 
+Seat 4: igooorc ($1.52 in chips) 
+Seat 5: scrapper7777 ($1.07 in chips) 
+Seat 6: whywouldjesus ($2.96 in chips) 
+Seat 7: urax13 ($3.77 in chips) 
+Seat 8: Dorex2007 ($2.02 in chips) 
+whywouldjesus: posts small blind $0.01
+urax13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 4d]
+Dorex2007: folds 
+magnusom leaves the table
+ShivaShango: raises $0.04 to $0.06
+DocAces83: folds 
+igooorc: folds 
+RazvanBabanu joins the table at seat #3 
+scrapper7777: folds 
+whywouldjesus: folds 
+urax13: folds 
+Uncalled bet ($0.04) returned to ShivaShango
+ShivaShango collected $0.05 from pot
+ShivaShango: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ShivaShango collected ($0.05)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 4: igooorc folded before Flop (didn't bet)
+Seat 5: scrapper7777 (button) folded before Flop (didn't bet)
+Seat 6: whywouldjesus (small blind) folded before Flop
+Seat 7: urax13 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228280029781:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:32:53 PT [2021/07/14 2:32:53 ET]
+Table 'Bellatrix IV' 9-max Seat #6 is the button
+Seat 1: ShivaShango ($1.53 in chips) 
+Seat 2: DocAces83 ($2.12 in chips) 
+Seat 3: RazvanBabanu ($2 in chips) 
+Seat 4: igooorc ($1.52 in chips) 
+Seat 5: scrapper7777 ($1.07 in chips) 
+Seat 6: whywouldjesus ($2.95 in chips) 
+Seat 7: urax13 ($3.75 in chips) 
+Seat 8: Dorex2007 ($2.02 in chips) 
+urax13: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+RazvanBabanu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s As]
+ShivaShango: folds 
+DocAces83: folds 
+RazvanBabanu: checks 
+igooorc: folds 
+scrapper7777: raises $0.10 to $0.12
+whywouldjesus: folds 
+whywouldjesus leaves the table
+urax13: calls $0.11
+Dorex2007: folds 
+RazvanBabanu: folds 
+*** FLOP *** [Ad Kc 2s]
+urax13: checks 
+scrapper7777: checks 
+*** TURN *** [Ad Kc 2s] [7h]
+urax13: bets $0.14
+scrapper7777: folds 
+Uncalled bet ($0.14) returned to urax13
+urax13 collected $0.27 from pot
+urax13: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Ad Kc 2s 7h]
+Seat 1: ShivaShango folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: RazvanBabanu folded before Flop (didn't bet)
+Seat 4: igooorc folded before Flop (didn't bet)
+Seat 5: scrapper7777 folded on the Turn
+Seat 6: whywouldjesus (button) folded before Flop (didn't bet)
+Seat 7: urax13 (small blind) collected ($0.27)
+Seat 8: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228280035311:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/13 23:33:34 PT [2021/07/14 2:33:34 ET]
+Table 'Bellatrix IV' 9-max Seat #7 is the button
+Seat 1: ShivaShango ($1.53 in chips) 
+Seat 2: DocAces83 ($2.12 in chips) 
+Seat 3: RazvanBabanu ($1.98 in chips) 
+Seat 4: igooorc ($1.52 in chips) 
+Seat 5: scrapper7777 ($0.95 in chips) 
+Seat 7: urax13 ($3.90 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: vinroy1 ($1.87 in chips) 
+Dorex2007: posts small blind $0.01
+vinroy1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 8d]
+ShivaShango: folds 
+DocAces83: folds 
+RazvanBabanu: folds 
+igooorc: folds 
+scrapper7777: raises $0.06 to $0.08
+urax13: folds 
+Dorex2007: folds 
+vinroy1: folds 
+Uncalled bet ($0.06) returned to scrapper7777
+scrapper7777 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ShivaShango folded before Flop (didn't bet)
+Seat 2: DocAces83 folded before Flop (didn't bet)
+Seat 3: RazvanBabanu folded before Flop (didn't bet)
+Seat 4: igooorc folded before Flop (didn't bet)
+Seat 5: scrapper7777 collected ($0.05)
+Seat 7: urax13 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: vinroy1 (big blind) folded before Flop
+
+
+

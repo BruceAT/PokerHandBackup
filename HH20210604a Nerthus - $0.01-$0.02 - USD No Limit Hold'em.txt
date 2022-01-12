@@ -1,0 +1,312 @@
+﻿PokerStars Hand #227311048014:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/04 1:05:58 PT [2021/06/04 4:05:58 ET]
+Table 'Nerthus' 9-max Seat #3 is the button
+Seat 3: O_Micha_68 ($0.78 in chips) 
+Seat 4: UbearA ($1.21 in chips) 
+Seat 5: Tweedy620 ($2.03 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: dimonv ($0.80 in chips) 
+UbearA: posts small blind $0.01
+Tweedy620: posts big blind $0.02
+Gemsetreiber: sits out 
+Dorex2007: posts big blind $0.02
+volodka471: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 6d]
+neude leaves the table
+Dorex2007: checks 
+CherT678 joins the table at seat #1 
+dimonv: folds 
+O_Micha_68: folds 
+UbearA: calls $0.01
+Tweedy620: checks 
+*** FLOP *** [3d Ac 5d]
+letsg0fishin joins the table at seat #2 
+UbearA: checks 
+Tweedy620: checks 
+letsg0fishin leaves the table
+bjrtyuk joins the table at seat #2 
+Dorex2007: checks 
+*** TURN *** [3d Ac 5d] [3h]
+UbearA: checks 
+Tweedy620: checks 
+Dorex2007: bets $0.04
+UbearA: folds 
+Tweedy620: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.06 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [3d Ac 5d 3h]
+Seat 3: O_Micha_68 (button) folded before Flop (didn't bet)
+Seat 4: UbearA (small blind) folded on the Turn
+Seat 5: Tweedy620 (big blind) folded on the Turn
+Seat 7: Dorex2007 collected ($0.06)
+Seat 8: dimonv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227311058674:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/04 1:07:00 PT [2021/06/04 4:07:00 ET]
+Table 'Nerthus' 9-max Seat #4 is the button
+Seat 3: O_Micha_68 ($0.78 in chips) 
+Seat 4: UbearA ($1.19 in chips) 
+Seat 5: Tweedy620 ($2.01 in chips) 
+Seat 6: Gemsetreiber ($0.80 in chips) 
+Seat 7: Dorex2007 ($2.04 in chips) 
+Seat 8: dimonv ($0.80 in chips) 
+Tweedy620: posts small blind $0.01
+Gemsetreiber: posts big blind $0.02
+volodka471: sits out 
+CherT678: sits out 
+bjrtyuk: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Js]
+Dorex2007: folds 
+dimonv has timed out
+dimonv: folds 
+O_Micha_68: raises $0.08 to $0.10
+UbearA: folds 
+Tweedy620: folds 
+Gemsetreiber: calls $0.08
+*** FLOP *** [Ac 7h 7s]
+Gemsetreiber: checks 
+O_Micha_68: bets $0.20
+Gemsetreiber: raises $0.20 to $0.40
+O_Micha_68: raises $0.28 to $0.68 and is all-in
+Gemsetreiber: calls $0.28
+*** TURN *** [Ac 7h 7s] [Qd]
+*** RIVER *** [Ac 7h 7s Qd] [Ks]
+*** SHOW DOWN ***
+Gemsetreiber: shows [Tc 2d] (a pair of Sevens)
+O_Micha_68: shows [Ah Kh] (two pair, Aces and Kings)
+O_Micha_68 collected $1.52 from pot
+*** SUMMARY ***
+Total pot $1.57 | Rake $0.05 
+Board [Ac 7h 7s Qd Ks]
+Seat 3: O_Micha_68 showed [Ah Kh] and won ($1.52) with two pair, Aces and Kings
+Seat 4: UbearA (button) folded before Flop (didn't bet)
+Seat 5: Tweedy620 (small blind) folded before Flop
+Seat 6: Gemsetreiber (big blind) showed [Tc 2d] and lost with a pair of Sevens
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: dimonv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227311067361:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/04 1:07:51 PT [2021/06/04 4:07:51 ET]
+Table 'Nerthus' 9-max Seat #5 is the button
+Seat 3: O_Micha_68 ($1.52 in chips) 
+Seat 4: UbearA ($1.19 in chips) 
+Seat 5: Tweedy620 ($2 in chips) 
+Seat 6: Gemsetreiber ($0.02 in chips) 
+Seat 7: Dorex2007 ($2.04 in chips) 
+Seat 8: dimonv ($0.80 in chips) 
+Gemsetreiber: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+volodka471: sits out 
+CherT678: sits out 
+bjrtyuk: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 6d]
+dimonv: folds 
+O_Micha_68: folds 
+UbearA: folds 
+Tweedy620: folds 
+Gemsetreiber: calls $0.01 and is all-in
+*** FLOP *** [4s Th Jh]
+*** TURN *** [4s Th Jh] [Kc]
+*** RIVER *** [4s Th Jh Kc] [7h]
+*** SHOW DOWN ***
+Gemsetreiber: shows [8h 3h] (a flush, Jack high)
+Dorex2007: shows [9d 6d] (high card King)
+Gemsetreiber collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [4s Th Jh Kc 7h]
+Seat 3: O_Micha_68 folded before Flop (didn't bet)
+Seat 4: UbearA folded before Flop (didn't bet)
+Seat 5: Tweedy620 (button) folded before Flop (didn't bet)
+Seat 6: Gemsetreiber (small blind) showed [8h 3h] and won ($0.04) with a flush, Jack high
+Seat 7: Dorex2007 (big blind) showed [9d 6d] and lost with high card King
+Seat 8: dimonv folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227311071143:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/04 1:08:13 PT [2021/06/04 4:08:13 ET]
+Table 'Nerthus' 9-max Seat #6 is the button
+Seat 3: O_Micha_68 ($1.52 in chips) 
+Seat 4: UbearA ($1.19 in chips) 
+Seat 5: Tweedy620 ($2 in chips) 
+Seat 6: Gemsetreiber ($0.04 in chips) 
+Seat 7: Dorex2007 ($2.02 in chips) 
+Seat 8: dimonv ($0.80 in chips) 
+Dorex2007: posts small blind $0.01
+dimonv: posts big blind $0.02
+volodka471: sits out 
+CherT678: sits out 
+bjrtyuk: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 5d]
+O_Micha_68: folds 
+UbearA: folds 
+Tweedy620: folds 
+Gemsetreiber: raises $0.02 to $0.04 and is all-in
+Dorex2007: calls $0.03
+dimonv: folds 
+*** FLOP *** [Jc 9d Jh]
+*** TURN *** [Jc 9d Jh] [7h]
+*** RIVER *** [Jc 9d Jh 7h] [Qc]
+*** SHOW DOWN ***
+Dorex2007: shows [Ad 5d] (a pair of Jacks)
+Gemsetreiber: shows [Th 6d] (a pair of Jacks - lower kicker)
+Dorex2007 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Jc 9d Jh 7h Qc]
+Seat 3: O_Micha_68 folded before Flop (didn't bet)
+Seat 4: UbearA folded before Flop (didn't bet)
+Seat 5: Tweedy620 folded before Flop (didn't bet)
+Seat 6: Gemsetreiber (button) showed [Th 6d] and lost with a pair of Jacks
+Seat 7: Dorex2007 (small blind) showed [Ad 5d] and won ($0.10) with a pair of Jacks
+Seat 8: dimonv (big blind) folded before Flop
+
+
+
+PokerStars Hand #227311075555:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/04 1:08:39 PT [2021/06/04 4:08:39 ET]
+Table 'Nerthus' 9-max Seat #7 is the button
+Seat 3: O_Micha_68 ($1.52 in chips) 
+Seat 4: UbearA ($1.19 in chips) 
+Seat 5: Tweedy620 ($2 in chips) 
+Seat 6: Gemsetreiber ($0.80 in chips) 
+Seat 7: Dorex2007 ($2.08 in chips) 
+Seat 8: dimonv ($0.80 in chips) 
+Seat 9: volodka471 ($1.60 in chips) 
+dimonv: posts small blind $0.01
+volodka471: posts big blind $0.02
+CherT678: sits out 
+bjrtyuk: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Kh]
+O_Micha_68: folds 
+UbearA: raises $0.05 to $0.07
+Tweedy620: folds 
+Gemsetreiber: raises $0.73 to $0.80 and is all-in
+Dorex2007: folds 
+dimonv: folds 
+volodka471: folds 
+UbearA: calls $0.73
+*** FLOP *** [Ts Kd 2c]
+*** TURN *** [Ts Kd 2c] [Qh]
+*** RIVER *** [Ts Kd 2c Qh] [9d]
+*** SHOW DOWN ***
+UbearA: shows [Qd Ac] (a pair of Queens)
+Gemsetreiber: shows [3d Kc] (a pair of Kings)
+Gemsetreiber collected $1.57 from pot
+UbearA cashed out the hand for $1.03 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $1.63 | Rake $0.06 
+Board [Ts Kd 2c Qh 9d]
+Seat 3: O_Micha_68 folded before Flop (didn't bet)
+Seat 4: UbearA showed [Qd Ac] and lost with a pair of Queens (cashed out).
+Seat 5: Tweedy620 folded before Flop (didn't bet)
+Seat 6: Gemsetreiber showed [3d Kc] and won ($1.57) with a pair of Kings
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: dimonv (small blind) folded before Flop
+Seat 9: volodka471 (big blind) folded before Flop
+
+
+
+PokerStars Hand #227311081086:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/04 1:09:11 PT [2021/06/04 4:09:11 ET]
+Table 'Nerthus' 9-max Seat #8 is the button
+Seat 1: CherT678 ($2 in chips) 
+Seat 3: O_Micha_68 ($1.52 in chips) 
+Seat 4: UbearA ($1.42 in chips) 
+Seat 5: Tweedy620 ($2 in chips) 
+Seat 6: Gemsetreiber ($1.57 in chips) 
+Seat 7: Dorex2007 ($2.08 in chips) 
+Seat 8: dimonv ($0.80 in chips) 
+Seat 9: volodka471 ($1.58 in chips) 
+volodka471: posts small blind $0.01
+CherT678: posts big blind $0.02
+bjrtyuk: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 4s]
+O_Micha_68: folds 
+UbearA: folds 
+Tweedy620: calls $0.02
+Gemsetreiber: folds 
+Dorex2007: folds 
+dimonv: folds 
+volodka471: calls $0.01
+CherT678: checks 
+*** FLOP *** [Tc Jc 5d]
+volodka471: checks 
+CherT678: bets $0.02
+Tweedy620: calls $0.02
+volodka471: calls $0.02
+*** TURN *** [Tc Jc 5d] [9c]
+volodka471: checks 
+CherT678: bets $0.08
+Tweedy620: calls $0.08
+volodka471: folds 
+*** RIVER *** [Tc Jc 5d 9c] [6d]
+CherT678: bets $0.18
+Tweedy620: calls $0.18
+*** SHOW DOWN ***
+CherT678: shows [8c 3c] (a flush, Jack high)
+Tweedy620: mucks hand 
+CherT678 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [Tc Jc 5d 9c 6d]
+Seat 1: CherT678 (big blind) showed [8c 3c] and won ($0.62) with a flush, Jack high
+Seat 3: O_Micha_68 folded before Flop (didn't bet)
+Seat 4: UbearA folded before Flop (didn't bet)
+Seat 5: Tweedy620 mucked [Qd Kh]
+Seat 6: Gemsetreiber folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: dimonv (button) folded before Flop (didn't bet)
+Seat 9: volodka471 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #227311089069:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/04 1:09:56 PT [2021/06/04 4:09:56 ET]
+Table 'Nerthus' 9-max Seat #9 is the button
+Seat 1: CherT678 ($2.32 in chips) 
+Seat 2: bjrtyuk ($2 in chips) 
+Seat 3: O_Micha_68 ($1.52 in chips) 
+Seat 4: UbearA ($1.42 in chips) 
+Seat 5: Tweedy620 ($1.70 in chips) 
+Seat 6: Gemsetreiber ($1.57 in chips) 
+Seat 7: Dorex2007 ($2.08 in chips) 
+Seat 8: dimonv ($0.80 in chips) 
+Seat 9: volodka471 ($1.54 in chips) 
+CherT678: posts small blind $0.01
+bjrtyuk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Ks]
+O_Micha_68: folds 
+UbearA: folds 
+Tweedy620: calls $0.02
+Gemsetreiber: raises $0.28 to $0.30
+Dorex2007: folds 
+dimonv: folds 
+volodka471: folds 
+CherT678: folds 
+bjrtyuk: folds 
+Tweedy620: folds 
+Uncalled bet ($0.28) returned to Gemsetreiber
+Gemsetreiber collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: CherT678 (small blind) folded before Flop
+Seat 2: bjrtyuk (big blind) folded before Flop
+Seat 3: O_Micha_68 folded before Flop (didn't bet)
+Seat 4: UbearA folded before Flop (didn't bet)
+Seat 5: Tweedy620 folded before Flop
+Seat 6: Gemsetreiber collected ($0.07)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: dimonv folded before Flop (didn't bet)
+Seat 9: volodka471 (button) folded before Flop (didn't bet)
+
+
+

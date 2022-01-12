@@ -1,0 +1,107 @@
+﻿PokerStars Hand #227658854418:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/17 17:25:43 PT [2021/06/17 20:25:43 ET]
+Table 'Amor' 9-max Seat #7 is the button
+Seat 1: Diegolpda ($0.77 in chips) 
+Seat 2: Tequilapoper ($3.76 in chips) 
+Seat 3: Viniasm ($0.66 in chips) 
+Seat 4: Toppi888 ($2 in chips) 
+Seat 5: Derevtsssova ($0.87 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: runnyboar ($1.43 in chips) 
+Seat 8: erjoronu ($2.04 in chips) 
+Seat 9: TT_Arg2020 ($0.31 in chips) 
+erjoronu: posts small blind $0.01
+TT_Arg2020: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 6s]
+Diegolpda has timed out
+Diegolpda: folds 
+Tequilapoper: folds 
+Viniasm: folds 
+Toppi888: folds 
+Derevtsssova: folds 
+Dorex2007: raises $0.04 to $0.06
+runnyboar: folds 
+erjoronu: raises $0.06 to $0.12
+TT_Arg2020: folds 
+Dorex2007: calls $0.06
+*** FLOP *** [As Ks Qc]
+erjoronu: checks 
+Dorex2007: bets $0.25
+erjoronu: calls $0.25
+*** TURN *** [As Ks Qc] [Td]
+erjoronu: checks 
+Dorex2007: checks 
+*** RIVER *** [As Ks Qc Td] [5c]
+erjoronu: bets $0.99
+Dorex2007: folds 
+Uncalled bet ($0.99) returned to erjoronu
+erjoronu collected $0.73 from pot
+*** SUMMARY ***
+Total pot $0.76 | Rake $0.03 
+Board [As Ks Qc Td 5c]
+Seat 1: Diegolpda folded before Flop (didn't bet)
+Seat 2: Tequilapoper folded before Flop (didn't bet)
+Seat 3: Viniasm folded before Flop (didn't bet)
+Seat 4: Toppi888 folded before Flop (didn't bet)
+Seat 5: Derevtsssova folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded on the River
+Seat 7: runnyboar (button) folded before Flop (didn't bet)
+Seat 8: erjoronu (small blind) collected ($0.73)
+Seat 9: TT_Arg2020 (big blind) folded before Flop
+
+
+
+PokerStars Hand #227658868322:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/17 17:26:37 PT [2021/06/17 20:26:37 ET]
+Table 'Amor' 9-max Seat #8 is the button
+Seat 1: Diegolpda ($0.77 in chips) 
+Seat 2: Tequilapoper ($3.76 in chips) 
+Seat 3: Viniasm ($0.66 in chips) 
+Seat 4: Toppi888 ($2 in chips) 
+Seat 5: Derevtsssova ($0.87 in chips) 
+Seat 6: Dorex2007 ($1.63 in chips) 
+Seat 7: runnyboar ($1.43 in chips) 
+Seat 8: erjoronu ($2.40 in chips) 
+Seat 9: TT_Arg2020 ($0.29 in chips) 
+TT_Arg2020: posts small blind $0.01
+Diegolpda: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 3h]
+Tequilapoper: folds 
+Viniasm: folds 
+Toppi888: folds 
+Derevtsssova: folds 
+Dorex2007: folds 
+runnyboar: folds 
+erjoronu: raises $0.05 to $0.07
+TT_Arg2020: folds 
+Diegolpda: calls $0.05
+*** FLOP *** [8d Ad 4s]
+Diegolpda: checks 
+erjoronu: bets $0.12
+Diegolpda: calls $0.12
+*** TURN *** [8d Ad 4s] [8h]
+Diegolpda: checks 
+erjoronu: checks 
+*** RIVER *** [8d Ad 4s 8h] [7c]
+Diegolpda: bets $0.58 and is all-in
+erjoronu: calls $0.58
+*** SHOW DOWN ***
+Diegolpda: shows [8c 7s] (a full house, Eights full of Sevens)
+erjoronu: shows [Ah 2h] (two pair, Aces and Eights)
+Diegolpda collected $1.50 from pot
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.05 
+Board [8d Ad 4s 8h 7c]
+Seat 1: Diegolpda (big blind) showed [8c 7s] and won ($1.50) with a full house, Eights full of Sevens
+Seat 2: Tequilapoper folded before Flop (didn't bet)
+Seat 3: Viniasm folded before Flop (didn't bet)
+Seat 4: Toppi888 folded before Flop (didn't bet)
+Seat 5: Derevtsssova folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: runnyboar folded before Flop (didn't bet)
+Seat 8: erjoronu (button) showed [Ah 2h] and lost with two pair, Aces and Eights
+Seat 9: TT_Arg2020 (small blind) folded before Flop
+
+
+

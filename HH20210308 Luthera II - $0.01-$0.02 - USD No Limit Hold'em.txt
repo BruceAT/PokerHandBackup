@@ -1,0 +1,54 @@
+﻿PokerStars Hand #224583187836:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/07 21:06:55 PT [2021/03/08 0:06:55 ET]
+Table 'Luthera II' 9-max Seat #5 is the button
+Seat 1: vladimir5421 ($1.95 in chips) 
+Seat 2: Manihani ($1.96 in chips) 
+Seat 3: dddeeeggg ($3.69 in chips) 
+Seat 4: CarlosMag660 ($1.39 in chips) 
+Seat 5: xman_KKKK ($4.44 in chips) 
+Seat 6: vasmit ($2.47 in chips) 
+Seat 7: Dorex2007 ($1.50 in chips) 
+Seat 8: dmcrbr ($2.07 in chips) 
+vasmit: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+SkaPunk11: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Td]
+dmcrbr: folds 
+vladimir5421: folds 
+Manihani: folds 
+dddeeeggg: folds 
+CarlosMag660: calls $0.02
+xman_KKKK: folds 
+vasmit: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [4d 7h 2h]
+vasmit: checks 
+Dorex2007: checks 
+CarlosMag660: checks 
+*** TURN *** [4d 7h 2h] [3d]
+vasmit: checks 
+Dorex2007: checks 
+CarlosMag660: bets $0.02
+vasmit: folds 
+Dorex2007: calls $0.02
+*** RIVER *** [4d 7h 2h 3d] [2s]
+Dorex2007: checks 
+CarlosMag660: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [Qd Td] (a pair of Deuces)
+CarlosMag660: shows [6d 6h] (two pair, Sixes and Deuces)
+CarlosMag660 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [4d 7h 2h 3d 2s]
+Seat 1: vladimir5421 folded before Flop (didn't bet)
+Seat 2: Manihani folded before Flop (didn't bet)
+Seat 3: dddeeeggg folded before Flop (didn't bet)
+Seat 4: CarlosMag660 showed [6d 6h] and won ($0.10) with two pair, Sixes and Deuces
+Seat 5: xman_KKKK (button) folded before Flop (didn't bet)
+Seat 6: vasmit (small blind) folded on the Turn
+Seat 7: Dorex2007 (big blind) showed [Qd Td] and lost with a pair of Deuces
+Seat 8: dmcrbr folded before Flop (didn't bet)
+
+
+

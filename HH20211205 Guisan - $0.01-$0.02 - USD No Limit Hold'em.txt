@@ -1,0 +1,3913 @@
+﻿PokerStars Hand #231951019054:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:37:05 PT [2021/12/05 0:37:05 ET]
+Table 'Guisan' 9-max Seat #8 is the button
+Seat 1: redblud ($1.64 in chips) 
+Seat 2: ALLRUS79 ($2.24 in chips) 
+Seat 3: SrO157 ($1.55 in chips) 
+Seat 4: Tavrus32 ($2.58 in chips) 
+Seat 5: rpatenau91 ($1.93 in chips) 
+Seat 6: Kela1373 ($1.91 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: KKshx ($2.44 in chips) 
+redblud: posts small blind $0.01
+ALLRUS79: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Qc]
+SrO157: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: raises $0.04 to $0.06
+Dorex2007: folds 
+KKshx: folds 
+redblud: calls $0.05
+ALLRUS79: folds 
+*** FLOP *** [6c 4s Kh]
+redblud: bets $0.02
+Kela1373: calls $0.02
+*** TURN *** [6c 4s Kh] [Td]
+redblud: bets $0.02
+Kela1373: calls $0.02
+*** RIVER *** [6c 4s Kh Td] [9c]
+redblud: bets $0.23
+Kela1373: folds 
+Uncalled bet ($0.23) returned to redblud
+redblud collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [6c 4s Kh Td 9c]
+Seat 1: redblud (small blind) collected ($0.23)
+Seat 2: ALLRUS79 (big blind) folded before Flop
+Seat 3: SrO157 folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded on the River
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951027558:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:38:02 PT [2021/12/05 0:38:02 ET]
+Table 'Guisan' 9-max Seat #1 is the button
+Seat 1: redblud ($1.77 in chips) 
+Seat 2: ALLRUS79 ($2.22 in chips) 
+Seat 3: SrO157 ($1.55 in chips) 
+Seat 4: Tavrus32 ($2.58 in chips) 
+Seat 5: rpatenau91 ($1.93 in chips) 
+Seat 6: Kela1373 ($1.81 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: KKshx ($2.44 in chips) 
+ALLRUS79: posts small blind $0.01
+SrO157: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 8s]
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+KKshx: folds 
+redblud: calls $0.02
+ALLRUS79: calls $0.01
+SrO157: checks 
+*** FLOP *** [Qd As Qs]
+ALLRUS79: bets $0.02
+SrO157: folds 
+redblud: calls $0.02
+*** TURN *** [Qd As Qs] [Qc]
+ALLRUS79: bets $0.02
+redblud: folds 
+Uncalled bet ($0.02) returned to ALLRUS79
+ALLRUS79 collected $0.10 from pot
+ALLRUS79: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Qd As Qs Qc]
+Seat 1: redblud (button) folded on the Turn
+Seat 2: ALLRUS79 (small blind) collected ($0.10)
+Seat 3: SrO157 (big blind) folded on the Flop
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951033978:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:38:44 PT [2021/12/05 0:38:44 ET]
+Table 'Guisan' 9-max Seat #2 is the button
+Seat 1: redblud ($1.73 in chips) 
+Seat 2: ALLRUS79 ($2.28 in chips) 
+Seat 3: SrO157 ($1.53 in chips) 
+Seat 4: Tavrus32 ($2.58 in chips) 
+Seat 5: rpatenau91 ($1.93 in chips) 
+Seat 6: Kela1373 ($1.81 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: KKshx ($2.44 in chips) 
+SrO157: posts small blind $0.01
+Tavrus32: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Jh]
+rpatenau91: folds 
+Kela1373: calls $0.02
+Dorex2007: folds 
+KKshx: folds 
+redblud: calls $0.02
+ALLRUS79: folds 
+SrO157: calls $0.01
+Tavrus32: checks 
+*** FLOP *** [6d Jd Ah]
+SrO157: checks 
+Tavrus32: checks 
+Kela1373: checks 
+redblud: checks 
+*** TURN *** [6d Jd Ah] [Qs]
+SrO157: checks 
+Tavrus32: checks 
+Kela1373: bets $0.08
+redblud: folds 
+SrO157: folds 
+Tavrus32: folds 
+Uncalled bet ($0.08) returned to Kela1373
+Kela1373 collected $0.08 from pot
+Kela1373: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [6d Jd Ah Qs]
+Seat 1: redblud folded on the Turn
+Seat 2: ALLRUS79 (button) folded before Flop (didn't bet)
+Seat 3: SrO157 (small blind) folded on the Turn
+Seat 4: Tavrus32 (big blind) folded on the Turn
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 collected ($0.08)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951041498:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:39:34 PT [2021/12/05 0:39:34 ET]
+Table 'Guisan' 9-max Seat #3 is the button
+Seat 1: redblud ($1.71 in chips) 
+Seat 2: ALLRUS79 ($2.28 in chips) 
+Seat 3: SrO157 ($1.51 in chips) 
+Seat 4: Tavrus32 ($2.56 in chips) 
+Seat 5: rpatenau91 ($1.93 in chips) 
+Seat 6: Kela1373 ($2 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: KKshx ($2.44 in chips) 
+Tavrus32: posts small blind $0.01
+rpatenau91: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 9d]
+Kela1373: folds 
+Dorex2007: folds 
+KKshx: folds 
+redblud: raises $0.02 to $0.04
+ALLRUS79: calls $0.04
+SrO157: calls $0.04
+Tavrus32: folds 
+rpatenau91: folds 
+*** FLOP *** [Ts 5h Ac]
+redblud: bets $0.14
+ALLRUS79: folds 
+SrO157: raises $1.33 to $1.47 and is all-in
+redblud: calls $1.33
+*** TURN *** [Ts 5h Ac] [4d]
+*** RIVER *** [Ts 5h Ac 4d] [7c]
+*** SHOW DOWN ***
+redblud: shows [9s Ad] (a pair of Aces)
+SrO157: shows [As Td] (two pair, Aces and Tens)
+SrO157 cashed out the hand for $2.90 | Cash Out Fee $0.03
+*** SUMMARY ***
+Total pot $3.09 | Rake $0.11 
+Board [Ts 5h Ac 4d 7c]
+Seat 1: redblud showed [9s Ad] and lost with a pair of Aces
+Seat 2: ALLRUS79 folded on the Flop
+Seat 3: SrO157 (button) showed [As Td] and won ($2.98) with two pair, Aces and Tens (pot not awarded as player cashed out)
+Seat 4: Tavrus32 (small blind) folded before Flop
+Seat 5: rpatenau91 (big blind) folded before Flop
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951048165:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:40:17 PT [2021/12/05 0:40:17 ET]
+Table 'Guisan' 9-max Seat #4 is the button
+Seat 1: redblud ($0.20 in chips) 
+Seat 2: ALLRUS79 ($2.24 in chips) 
+Seat 3: SrO157 ($2.90 in chips) 
+Seat 4: Tavrus32 ($2.55 in chips) 
+Seat 5: rpatenau91 ($1.91 in chips) 
+Seat 6: Kela1373 ($2 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: KKshx ($2.44 in chips) 
+rpatenau91: posts small blind $0.01
+Kela1373: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 4c]
+Dorex2007: folds 
+KKshx: folds 
+redblud: folds 
+ALLRUS79: folds 
+SrO157: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Uncalled bet ($0.01) returned to Kela1373
+Kela1373 collected $0.02 from pot
+Kela1373: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 2: ALLRUS79 folded before Flop (didn't bet)
+Seat 3: SrO157 folded before Flop (didn't bet)
+Seat 4: Tavrus32 (button) folded before Flop (didn't bet)
+Seat 5: rpatenau91 (small blind) folded before Flop
+Seat 6: Kela1373 (big blind) collected ($0.02)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951050597:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:40:33 PT [2021/12/05 0:40:33 ET]
+Table 'Guisan' 9-max Seat #5 is the button
+Seat 1: redblud ($0.20 in chips) 
+Seat 2: ALLRUS79 ($2.24 in chips) 
+Seat 3: SrO157 ($2.90 in chips) 
+Seat 4: Tavrus32 ($2.55 in chips) 
+Seat 5: rpatenau91 ($1.90 in chips) 
+Seat 6: Kela1373 ($2.01 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: KKshx ($2.44 in chips) 
+Kela1373: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Tc]
+KKshx: folds 
+redblud: raises $0.18 to $0.20 and is all-in
+ALLRUS79: folds 
+SrO157: calls $0.20
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: calls $0.19
+Dorex2007: folds 
+*** FLOP *** [2h 6h Js]
+Kela1373: checks 
+SrO157: bets $0.30
+Kela1373: calls $0.30
+*** TURN *** [2h 6h Js] [Ad]
+Kela1373: checks 
+SrO157: checks 
+*** RIVER *** [2h 6h Js Ad] [9c]
+Kela1373: checks 
+SrO157: checks 
+*** SHOW DOWN ***
+Kela1373: shows [3h 3s] (a pair of Threes)
+SrO157: shows [Qh Ah] (a pair of Aces)
+SrO157 collected $0.58 from side pot
+redblud: shows [Jc Ac] (two pair, Aces and Jacks)
+redblud collected $0.60 from main pot
+*** SUMMARY ***
+Total pot $1.22 Main pot $0.60. Side pot $0.58. | Rake $0.04 
+Board [2h 6h Js Ad 9c]
+Seat 1: redblud showed [Jc Ac] and won ($0.60) with two pair, Aces and Jacks
+Seat 2: ALLRUS79 folded before Flop (didn't bet)
+Seat 3: SrO157 showed [Qh Ah] and won ($0.58) with a pair of Aces
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 (button) folded before Flop (didn't bet)
+Seat 6: Kela1373 (small blind) showed [3h 3s] and lost with a pair of Threes
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: KKshx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951063613:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:41:19 PT [2021/12/05 0:41:19 ET]
+Table 'Guisan' 9-max Seat #6 is the button
+Seat 1: redblud ($0.60 in chips) 
+Seat 2: ALLRUS79 ($2.24 in chips) 
+Seat 3: SrO157 ($2.98 in chips) 
+Seat 4: Tavrus32 ($2.55 in chips) 
+Seat 5: rpatenau91 ($1.90 in chips) 
+Seat 6: Kela1373 ($1.51 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: KKshx ($2.44 in chips) 
+Dorex2007: posts small blind $0.01
+KKshx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Kc]
+redblud: folds 
+ALLRUS79: folds 
+SrO157: folds 
+Tavrus32: folds 
+rpatenau91: calls $0.02
+Kela1373: folds 
+Dorex2007: raises $0.04 to $0.06
+KKshx: folds 
+rpatenau91: calls $0.04
+*** FLOP *** [Qs 9d 7s]
+Dorex2007: bets $0.14
+rpatenau91: calls $0.14
+*** TURN *** [Qs 9d 7s] [Ac]
+Dorex2007: checks 
+rpatenau91: checks 
+*** RIVER *** [Qs 9d 7s Ac] [5s]
+Dorex2007: bets $0.27
+rpatenau91: folds 
+Uncalled bet ($0.27) returned to Dorex2007
+Dorex2007 collected $0.41 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [Qs 9d 7s Ac 5s]
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 2: ALLRUS79 folded before Flop (didn't bet)
+Seat 3: SrO157 folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded on the River
+Seat 6: Kela1373 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) collected ($0.41)
+Seat 8: KKshx (big blind) folded before Flop
+
+
+
+PokerStars Hand #231951070647:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:42:06 PT [2021/12/05 0:42:06 ET]
+Table 'Guisan' 9-max Seat #7 is the button
+Seat 1: redblud ($0.60 in chips) 
+Seat 2: ALLRUS79 ($2.24 in chips) 
+Seat 3: SrO157 ($2.98 in chips) 
+Seat 4: Tavrus32 ($2.55 in chips) 
+Seat 5: rpatenau91 ($1.70 in chips) 
+Seat 6: Kela1373 ($2 in chips) 
+Seat 7: Dorex2007 ($2.21 in chips) 
+Seat 8: KKshx ($2.42 in chips) 
+KKshx: posts small blind $0.01
+redblud: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Tc]
+ALLRUS79: folds 
+SrO157: raises $0.04 to $0.06
+Tavrus32: folds 
+rpatenau91: calls $0.06
+Kela1373: folds 
+Dorex2007: folds 
+KKshx: calls $0.05
+redblud: folds 
+*** FLOP *** [Ks Th Td]
+KKshx: checks 
+SrO157: bets $0.09
+rpatenau91: folds 
+KKshx: calls $0.09
+*** TURN *** [Ks Th Td] [3c]
+KKshx: checks 
+SrO157: checks 
+*** RIVER *** [Ks Th Td 3c] [2h]
+KKshx: checks 
+SrO157: checks 
+*** SHOW DOWN ***
+KKshx: shows [Qs As] (a pair of Tens)
+SrO157: shows [Kd Jh] (two pair, Kings and Tens)
+SrO157 collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [Ks Th Td 3c 2h]
+Seat 1: redblud (big blind) folded before Flop
+Seat 2: ALLRUS79 folded before Flop (didn't bet)
+Seat 3: SrO157 showed [Kd Jh] and won ($0.37) with two pair, Kings and Tens
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded on the Flop
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: KKshx (small blind) showed [Qs As] and lost with a pair of Tens
+
+
+
+PokerStars Hand #231951078212:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:42:56 PT [2021/12/05 0:42:56 ET]
+Table 'Guisan' 9-max Seat #8 is the button
+Seat 1: redblud ($0.58 in chips) 
+Seat 2: ALLRUS79 ($2.24 in chips) 
+Seat 3: SrO157 ($3.20 in chips) 
+Seat 4: Tavrus32 ($2.55 in chips) 
+Seat 5: rpatenau91 ($1.64 in chips) 
+Seat 6: Kela1373 ($2 in chips) 
+Seat 7: Dorex2007 ($2.21 in chips) 
+Seat 8: KKshx ($2.27 in chips) 
+redblud: posts small blind $0.01
+ALLRUS79: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 5d]
+SrO157: raises $0.03 to $0.05
+Tavrus32: calls $0.05
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+KKshx: folds 
+redblud: folds 
+ALLRUS79: folds 
+*** FLOP *** [As 7c 6h]
+SrO157: bets $0.06
+Tavrus32: raises $0.13 to $0.19
+SrO157: folds 
+Uncalled bet ($0.13) returned to Tavrus32
+Tavrus32 collected $0.24 from pot
+Tavrus32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [As 7c 6h]
+Seat 1: redblud (small blind) folded before Flop
+Seat 2: ALLRUS79 (big blind) folded before Flop
+Seat 3: SrO157 folded on the Flop
+Seat 4: Tavrus32 collected ($0.24)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951083652:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:43:31 PT [2021/12/05 0:43:31 ET]
+Table 'Guisan' 9-max Seat #1 is the button
+Seat 1: redblud ($0.57 in chips) 
+Seat 2: ALLRUS79 ($2.22 in chips) 
+Seat 4: Tavrus32 ($2.68 in chips) 
+Seat 5: rpatenau91 ($1.64 in chips) 
+Seat 6: Kela1373 ($2 in chips) 
+Seat 7: Dorex2007 ($2.21 in chips) 
+Seat 8: KKshx ($2.27 in chips) 
+ALLRUS79: posts small blind $0.01
+SrO157: is sitting out 
+Tavrus32: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Kc]
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+KKshx: folds 
+SrO157 leaves the table
+redblud: raises $0.02 to $0.04
+ALLRUS79: calls $0.03
+Tavrus32: calls $0.02
+*** FLOP *** [Ts 5h 2h]
+ALLRUS79: bets $0.02
+Tavrus32: folds 
+Lion9M joins the table at seat #3 
+redblud: raises $0.08 to $0.10
+ALLRUS79: folds 
+Uncalled bet ($0.08) returned to redblud
+redblud collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Ts 5h 2h]
+Seat 1: redblud (button) collected ($0.15)
+Seat 2: ALLRUS79 (small blind) folded on the Flop
+Seat 4: Tavrus32 (big blind) folded on the Flop
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951089316:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:44:09 PT [2021/12/05 0:44:09 ET]
+Table 'Guisan' 9-max Seat #2 is the button
+Seat 1: redblud ($0.66 in chips) 
+Seat 2: ALLRUS79 ($2.16 in chips) 
+Seat 4: Tavrus32 ($2.64 in chips) 
+Seat 5: rpatenau91 ($1.64 in chips) 
+Seat 6: Kela1373 ($2 in chips) 
+Seat 7: Dorex2007 ($2.21 in chips) 
+Seat 8: KKshx ($2.27 in chips) 
+Tavrus32: posts small blind $0.01
+rpatenau91: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 9h]
+Kela1373: folds 
+Dorex2007: folds 
+KKshx: folds 
+redblud: raises $0.04 to $0.06
+ALLRUS79: folds 
+Tavrus32: folds 
+rpatenau91: calls $0.04
+*** FLOP *** [4d 5c Th]
+rpatenau91: bets $0.13
+redblud: raises $0.47 to $0.60 and is all-in
+rpatenau91: folds 
+Uncalled bet ($0.47) returned to redblud
+redblud collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [4d 5c Th]
+Seat 1: redblud collected ($0.38)
+Seat 2: ALLRUS79 (button) folded before Flop (didn't bet)
+Seat 4: Tavrus32 (small blind) folded before Flop
+Seat 5: rpatenau91 (big blind) folded on the Flop
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951096754:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:44:57 PT [2021/12/05 0:44:57 ET]
+Table 'Guisan' 9-max Seat #4 is the button
+Seat 1: redblud ($0.85 in chips) 
+Seat 2: ALLRUS79 ($2.16 in chips) 
+Seat 3: Lion9M ($2 in chips) 
+Seat 4: Tavrus32 ($2.63 in chips) 
+Seat 5: rpatenau91 ($1.45 in chips) 
+Seat 6: Kela1373 ($2 in chips) 
+Seat 7: Dorex2007 ($2.21 in chips) 
+Seat 8: KKshx ($2.27 in chips) 
+rpatenau91: posts small blind $0.01
+Kela1373: posts big blind $0.02
+Lion9M: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 8d]
+Dorex2007: folds 
+KKshx: folds 
+redblud: calls $0.02
+ALLRUS79: calls $0.02
+Lion9M: checks 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: checks 
+*** FLOP *** [8h 7h Th]
+Kela1373: checks 
+redblud: checks 
+ALLRUS79: checks 
+Lion9M: checks 
+*** TURN *** [8h 7h Th] [7c]
+Kela1373: checks 
+redblud: bets $0.04
+ALLRUS79: folds 
+Lion9M: raises $0.08 to $0.12
+m-sapper leaves the table
+Kela1373: folds 
+redblud: folds 
+Uncalled bet ($0.08) returned to Lion9M
+Lion9M collected $0.16 from pot
+Lion9M: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [8h 7h Th 7c]
+Seat 1: redblud folded on the Turn
+Seat 2: ALLRUS79 folded on the Turn
+Seat 3: Lion9M collected ($0.16)
+Seat 4: Tavrus32 (button) folded before Flop (didn't bet)
+Seat 5: rpatenau91 (small blind) folded before Flop
+Seat 6: Kela1373 (big blind) folded on the Turn
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951104566:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:45:49 PT [2021/12/05 0:45:49 ET]
+Table 'Guisan' 9-max Seat #5 is the button
+Seat 1: redblud ($0.79 in chips) 
+Seat 2: ALLRUS79 ($2.14 in chips) 
+Seat 3: Lion9M ($2.10 in chips) 
+Seat 4: Tavrus32 ($2.63 in chips) 
+Seat 5: rpatenau91 ($1.44 in chips) 
+Seat 6: Kela1373 ($1.98 in chips) 
+Seat 7: Dorex2007 ($2.21 in chips) 
+Seat 8: KKshx ($2.27 in chips) 
+Kela1373: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 5c]
+KKshx: folds 
+redblud: calls $0.02
+ALLRUS79: folds 
+Lion9M: raises $0.06 to $0.08
+Tavrus32: folds 
+STAIRUS1989 joins the table at seat #9 
+rpatenau91: calls $0.08
+Kela1373: folds 
+Dorex2007: folds 
+redblud: calls $0.06
+*** FLOP *** [Ts 3d 3s]
+redblud: checks 
+Lion9M: bets $0.13
+rpatenau91: folds 
+redblud: folds 
+Uncalled bet ($0.13) returned to Lion9M
+Lion9M collected $0.26 from pot
+Lion9M: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Ts 3d 3s]
+Seat 1: redblud folded on the Flop
+Seat 2: ALLRUS79 folded before Flop (didn't bet)
+Seat 3: Lion9M collected ($0.26)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 (button) folded on the Flop
+Seat 6: Kela1373 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: KKshx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951111826:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:46:37 PT [2021/12/05 0:46:37 ET]
+Table 'Guisan' 9-max Seat #6 is the button
+Seat 1: redblud ($0.71 in chips) 
+Seat 2: ALLRUS79 ($2.14 in chips) 
+Seat 3: Lion9M ($2.28 in chips) 
+Seat 4: Tavrus32 ($2.63 in chips) 
+Seat 5: rpatenau91 ($1.36 in chips) 
+Seat 6: Kela1373 ($1.97 in chips) 
+Seat 7: Dorex2007 ($2.19 in chips) 
+Seat 8: KKshx ($2.27 in chips) 
+Dorex2007: posts small blind $0.01
+KKshx: posts big blind $0.02
+STAIRUS1989: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 6c]
+redblud: folds 
+ALLRUS79: calls $0.02
+Lion9M: folds 
+Tavrus32: calls $0.02
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+KKshx: checks 
+*** FLOP *** [7d 2h Td]
+KKshx: checks 
+ALLRUS79: bets $0.02
+Tavrus32: folds 
+KKshx: folds 
+Uncalled bet ($0.02) returned to ALLRUS79
+ALLRUS79 collected $0.07 from pot
+ALLRUS79: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [7d 2h Td]
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 2: ALLRUS79 collected ($0.07)
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded on the Flop
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: KKshx (big blind) folded on the Flop
+
+
+
+PokerStars Hand #231951117107:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:47:12 PT [2021/12/05 0:47:12 ET]
+Table 'Guisan' 9-max Seat #7 is the button
+Seat 1: redblud ($0.71 in chips) 
+Seat 2: ALLRUS79 ($2.19 in chips) 
+Seat 3: Lion9M ($2.28 in chips) 
+Seat 4: Tavrus32 ($2.61 in chips) 
+Seat 5: rpatenau91 ($1.36 in chips) 
+Seat 6: Kela1373 ($1.97 in chips) 
+Seat 7: Dorex2007 ($2.18 in chips) 
+Seat 8: KKshx ($2.25 in chips) 
+Seat 9: STAIRUS1989 ($2 in chips) 
+KKshx: posts small blind $0.01
+STAIRUS1989: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 5c]
+redblud has timed out
+redblud: folds 
+ALLRUS79: folds 
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+KKshx: folds 
+Uncalled bet ($0.01) returned to STAIRUS1989
+STAIRUS1989 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 2: ALLRUS79 folded before Flop (didn't bet)
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: KKshx (small blind) folded before Flop
+Seat 9: STAIRUS1989 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #231951121867:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:47:44 PT [2021/12/05 0:47:44 ET]
+Table 'Guisan' 9-max Seat #8 is the button
+Seat 1: redblud ($0.71 in chips) 
+Seat 2: ALLRUS79 ($2.19 in chips) 
+Seat 3: Lion9M ($2.28 in chips) 
+Seat 4: Tavrus32 ($2.61 in chips) 
+Seat 5: rpatenau91 ($1.36 in chips) 
+Seat 6: Kela1373 ($1.97 in chips) 
+Seat 7: Dorex2007 ($2.18 in chips) 
+Seat 8: KKshx ($2.24 in chips) 
+Seat 9: STAIRUS1989 ($2.01 in chips) 
+STAIRUS1989: posts small blind $0.01
+redblud: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Kh]
+ALLRUS79: calls $0.02
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: raises $0.04 to $0.06
+KKshx: folds 
+STAIRUS1989: folds 
+redblud: folds 
+ALLRUS79: calls $0.04
+*** FLOP *** [7h 3s 9d]
+ALLRUS79: checks 
+Dorex2007: checks 
+*** TURN *** [7h 3s 9d] [Th]
+ALLRUS79: checks 
+Dorex2007: bets $0.14
+ALLRUS79: folds 
+Uncalled bet ($0.14) returned to Dorex2007
+Dorex2007 collected $0.14 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7h 3s 9d Th]
+Seat 1: redblud (big blind) folded before Flop
+Seat 2: ALLRUS79 folded on the Turn
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.14)
+Seat 8: KKshx (button) folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #231951130213:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:48:39 PT [2021/12/05 0:48:39 ET]
+Table 'Guisan' 9-max Seat #9 is the button
+Seat 1: redblud ($0.69 in chips) 
+Seat 2: ALLRUS79 ($2.13 in chips) 
+Seat 3: Lion9M ($2.28 in chips) 
+Seat 4: Tavrus32 ($2.61 in chips) 
+Seat 5: rpatenau91 ($1.36 in chips) 
+Seat 6: Kela1373 ($1.97 in chips) 
+Seat 7: Dorex2007 ($2.26 in chips) 
+Seat 8: KKshx ($2.24 in chips) 
+Seat 9: STAIRUS1989 ($2 in chips) 
+redblud: posts small blind $0.01
+ALLRUS79: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 6h]
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+KKshx: folds 
+STAIRUS1989: raises $0.04 to $0.06
+redblud: folds 
+ALLRUS79: folds 
+Uncalled bet ($0.04) returned to STAIRUS1989
+STAIRUS1989 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: redblud (small blind) folded before Flop
+Seat 2: ALLRUS79 (big blind) folded before Flop
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 (button) collected ($0.05)
+
+
+
+PokerStars Hand #231951134544:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:49:07 PT [2021/12/05 0:49:07 ET]
+Table 'Guisan' 9-max Seat #1 is the button
+Seat 1: redblud ($0.68 in chips) 
+Seat 2: ALLRUS79 ($2.11 in chips) 
+Seat 3: Lion9M ($2.28 in chips) 
+Seat 4: Tavrus32 ($2.61 in chips) 
+Seat 5: rpatenau91 ($1.36 in chips) 
+Seat 6: Kela1373 ($1.97 in chips) 
+Seat 7: Dorex2007 ($2.26 in chips) 
+Seat 8: KKshx ($2.24 in chips) 
+Seat 9: STAIRUS1989 ($2.03 in chips) 
+ALLRUS79: posts small blind $0.01
+Lion9M: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 8d]
+Tavrus32: folds 
+rpatenau91 has timed out
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+KKshx: folds 
+STAIRUS1989: raises $0.04 to $0.06
+redblud: folds 
+ALLRUS79: calls $0.05
+Lion9M: calls $0.04
+*** FLOP *** [4c 6s 3c]
+ALLRUS79: checks 
+Lion9M: checks 
+STAIRUS1989: checks 
+*** TURN *** [4c 6s 3c] [Qh]
+ALLRUS79: checks 
+Lion9M: bets $0.17
+STAIRUS1989: folds 
+ALLRUS79: folds 
+Uncalled bet ($0.17) returned to Lion9M
+Lion9M collected $0.17 from pot
+Lion9M: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [4c 6s 3c Qh]
+Seat 1: redblud (button) folded before Flop (didn't bet)
+Seat 2: ALLRUS79 (small blind) folded on the Turn
+Seat 3: Lion9M (big blind) collected ($0.17)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded on the Turn
+
+
+
+PokerStars Hand #231951144028:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:50:10 PT [2021/12/05 0:50:10 ET]
+Table 'Guisan' 9-max Seat #2 is the button
+Seat 1: redblud ($0.68 in chips) 
+Seat 2: ALLRUS79 ($2.05 in chips) 
+Seat 3: Lion9M ($2.39 in chips) 
+Seat 4: Tavrus32 ($2.61 in chips) 
+Seat 5: rpatenau91 ($1.36 in chips) 
+Seat 6: Kela1373 ($1.97 in chips) 
+Seat 7: Dorex2007 ($2.26 in chips) 
+Seat 8: KKshx ($2.24 in chips) 
+Seat 9: STAIRUS1989 ($2 in chips) 
+Lion9M: posts small blind $0.01
+Tavrus32: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h As]
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+KKshx: folds 
+STAIRUS1989: folds 
+redblud: calls $0.02
+ALLRUS79: folds 
+Lion9M: raises $0.04 to $0.06
+Tavrus32: folds 
+redblud: calls $0.04
+*** FLOP *** [Qh Qd 3h]
+Lion9M: checks 
+redblud: checks 
+*** TURN *** [Qh Qd 3h] [Jh]
+Lion9M: checks 
+redblud: checks 
+*** RIVER *** [Qh Qd 3h Jh] [2c]
+Lion9M: bets $0.07
+redblud: folds 
+Uncalled bet ($0.07) returned to Lion9M
+Lion9M collected $0.14 from pot
+Lion9M: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Qh Qd 3h Jh 2c]
+Seat 1: redblud folded on the River
+Seat 2: ALLRUS79 (button) folded before Flop (didn't bet)
+Seat 3: Lion9M (small blind) collected ($0.14)
+Seat 4: Tavrus32 (big blind) folded before Flop
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951152043:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:51:03 PT [2021/12/05 0:51:03 ET]
+Table 'Guisan' 9-max Seat #3 is the button
+Seat 1: redblud ($0.62 in chips) 
+Seat 2: ALLRUS79 ($2.05 in chips) 
+Seat 3: Lion9M ($2.47 in chips) 
+Seat 4: Tavrus32 ($2.59 in chips) 
+Seat 5: rpatenau91 ($1.36 in chips) 
+Seat 6: Kela1373 ($1.97 in chips) 
+Seat 7: Dorex2007 ($2.26 in chips) 
+Seat 8: KKshx ($2.24 in chips) 
+Seat 9: STAIRUS1989 ($2 in chips) 
+Tavrus32: posts small blind $0.01
+rpatenau91: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 9d]
+Kela1373: calls $0.02
+Dorex2007: folds 
+KKshx: folds 
+STAIRUS1989: folds 
+redblud: raises $0.02 to $0.04
+ALLRUS79: folds 
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: calls $0.02
+ALLRUS79 leaves the table
+Kela1373: calls $0.02
+*** FLOP *** [3d Jd Qd]
+rpatenau91: bets $0.13
+Kela1373: calls $0.13
+redblud: folds 
+*** TURN *** [3d Jd Qd] [5d]
+rpatenau91: checks 
+Kela1373: bets $0.19
+rpatenau91: folds 
+Uncalled bet ($0.19) returned to Kela1373
+Kela1373 collected $0.38 from pot
+Kela1373: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [3d Jd Qd 5d]
+Seat 1: redblud folded on the Flop
+Seat 2: ALLRUS79 folded before Flop (didn't bet)
+Seat 3: Lion9M (button) folded before Flop (didn't bet)
+Seat 4: Tavrus32 (small blind) folded before Flop
+Seat 5: rpatenau91 (big blind) folded on the Turn
+Seat 6: Kela1373 collected ($0.38)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951162327:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:52:11 PT [2021/12/05 0:52:11 ET]
+Table 'Guisan' 9-max Seat #4 is the button
+Seat 1: redblud ($0.58 in chips) 
+Seat 3: Lion9M ($2.47 in chips) 
+Seat 4: Tavrus32 ($2.58 in chips) 
+Seat 5: rpatenau91 ($1.19 in chips) 
+Seat 6: Kela1373 ($2.18 in chips) 
+Seat 7: Dorex2007 ($2.26 in chips) 
+Seat 8: KKshx ($2.24 in chips) 
+Seat 9: STAIRUS1989 ($2 in chips) 
+rpatenau91: posts small blind $0.01
+Kela1373: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 2d]
+Dorex2007: folds 
+KKshx: raises $0.06 to $0.08
+STAIRUS1989: raises $0.16 to $0.24
+redblud: folds 
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+KKshx: calls $0.16
+*** FLOP *** [6s 3h Kd]
+KKshx: checks 
+STAIRUS1989: bets $0.25
+IndigoShirt joins the table at seat #2 
+KKshx: folds 
+Uncalled bet ($0.25) returned to STAIRUS1989
+STAIRUS1989 collected $0.49 from pot
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [6s 3h Kd]
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 (button) folded before Flop (didn't bet)
+Seat 5: rpatenau91 (small blind) folded before Flop
+Seat 6: Kela1373 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx folded on the Flop
+Seat 9: STAIRUS1989 collected ($0.49)
+
+
+
+PokerStars Hand #231951172793:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:53:21 PT [2021/12/05 0:53:21 ET]
+Table 'Guisan' 9-max Seat #5 is the button
+Seat 1: redblud ($0.58 in chips) 
+Seat 3: Lion9M ($2.47 in chips) 
+Seat 4: Tavrus32 ($2.58 in chips) 
+Seat 5: rpatenau91 ($1.18 in chips) 
+Seat 6: Kela1373 ($2.16 in chips) 
+Seat 7: Dorex2007 ($2.26 in chips) 
+Seat 8: KKshx ($2 in chips) 
+Seat 9: STAIRUS1989 ($2.25 in chips) 
+Kela1373: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+IndigoShirt: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Qc]
+KKshx: folds 
+STAIRUS1989: raises $0.06 to $0.08
+redblud: raises $0.06 to $0.14
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+STAIRUS1989: calls $0.06
+*** FLOP *** [3s 9c 9d]
+STAIRUS1989: checks 
+redblud: bets $0.44 and is all-in
+STAIRUS1989: calls $0.44
+*** TURN *** [3s 9c 9d] [4s]
+*** RIVER *** [3s 9c 9d 4s] [6h]
+*** SHOW DOWN ***
+STAIRUS1989: shows [9h Ah] (three of a kind, Nines)
+redblud: shows [Kc Kh] (two pair, Kings and Nines)
+STAIRUS1989 collected $1.15 from pot
+*** SUMMARY ***
+Total pot $1.19 | Rake $0.04 
+Board [3s 9c 9d 4s 6h]
+Seat 1: redblud showed [Kc Kh] and lost with two pair, Kings and Nines
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 (button) folded before Flop (didn't bet)
+Seat 6: Kela1373 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: KKshx folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 showed [9h Ah] and won ($1.15) with three of a kind, Nines
+
+
+
+PokerStars Hand #231951179644:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:54:06 PT [2021/12/05 0:54:06 ET]
+Table 'Guisan' 9-max Seat #6 is the button
+Seat 3: Lion9M ($2.47 in chips) 
+Seat 4: Tavrus32 ($2.58 in chips) 
+Seat 5: rpatenau91 ($1.18 in chips) 
+Seat 6: Kela1373 ($2.15 in chips) 
+Seat 7: Dorex2007 ($2.24 in chips) 
+Seat 8: KKshx ($2 in chips) 
+Seat 9: STAIRUS1989 ($2.82 in chips) 
+Dorex2007: posts small blind $0.01
+KKshx: posts big blind $0.02
+IndigoShirt: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 8c]
+STAIRUS1989: raises $0.04 to $0.06
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+KKshx: folds 
+Uncalled bet ($0.04) returned to STAIRUS1989
+STAIRUS1989 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: KKshx (big blind) folded before Flop
+Seat 9: STAIRUS1989 collected ($0.05)
+
+
+
+PokerStars Hand #231951182497:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:54:25 PT [2021/12/05 0:54:25 ET]
+Table 'Guisan' 9-max Seat #7 is the button
+Seat 3: Lion9M ($2.47 in chips) 
+Seat 4: Tavrus32 ($2.58 in chips) 
+Seat 5: rpatenau91 ($1.18 in chips) 
+Seat 6: Kela1373 ($2.15 in chips) 
+Seat 7: Dorex2007 ($2.23 in chips) 
+Seat 8: KKshx ($1.98 in chips) 
+Seat 9: STAIRUS1989 ($2.85 in chips) 
+KKshx: posts small blind $0.01
+STAIRUS1989: posts big blind $0.02
+IndigoShirt: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Qs]
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+KKshx: raises $0.06 to $0.08
+STAIRUS1989: folds 
+Uncalled bet ($0.06) returned to KKshx
+KKshx collected $0.04 from pot
+KKshx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: KKshx (small blind) collected ($0.04)
+Seat 9: STAIRUS1989 (big blind) folded before Flop
+
+
+
+PokerStars Hand #231951185322:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:54:43 PT [2021/12/05 0:54:43 ET]
+Table 'Guisan' 9-max Seat #8 is the button
+Seat 1: redblud ($2 in chips) 
+Seat 3: Lion9M ($2.47 in chips) 
+Seat 4: Tavrus32 ($2.58 in chips) 
+Seat 5: rpatenau91 ($1.18 in chips) 
+Seat 6: Kela1373 ($2.15 in chips) 
+Seat 7: Dorex2007 ($2.23 in chips) 
+Seat 8: KKshx ($2 in chips) 
+Seat 9: STAIRUS1989 ($2.83 in chips) 
+STAIRUS1989: posts small blind $0.01
+redblud: posts big blind $0.02
+IndigoShirt: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 8c]
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+KKshx: raises $0.06 to $0.08
+STAIRUS1989: folds 
+redblud: folds 
+Uncalled bet ($0.06) returned to KKshx
+KKshx collected $0.05 from pot
+KKshx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: redblud (big blind) folded before Flop
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx (button) collected ($0.05)
+Seat 9: STAIRUS1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #231951190847:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:55:10 PT [2021/12/05 0:55:10 ET]
+Table 'Guisan' 9-max Seat #9 is the button
+Seat 1: redblud ($1.98 in chips) 
+Seat 2: IndigoShirt ($2 in chips) 
+Seat 3: Lion9M ($2.47 in chips) 
+Seat 4: Tavrus32 ($2.58 in chips) 
+Seat 5: rpatenau91 ($1.18 in chips) 
+Seat 6: Kela1373 ($2.15 in chips) 
+Seat 7: Dorex2007 ($2.23 in chips) 
+Seat 8: KKshx ($2.03 in chips) 
+Seat 9: STAIRUS1989 ($2.82 in chips) 
+redblud: posts small blind $0.01
+IndigoShirt: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 3s]
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+KKshx: raises $0.06 to $0.08
+STAIRUS1989: folds 
+redblud: folds 
+IndigoShirt: folds 
+Uncalled bet ($0.06) returned to KKshx
+KKshx collected $0.05 from pot
+KKshx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: redblud (small blind) folded before Flop
+Seat 2: IndigoShirt (big blind) folded before Flop
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx collected ($0.05)
+Seat 9: STAIRUS1989 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951194895:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:55:41 PT [2021/12/05 0:55:41 ET]
+Table 'Guisan' 9-max Seat #1 is the button
+Seat 1: redblud ($1.97 in chips) 
+Seat 2: IndigoShirt ($2 in chips) 
+Seat 3: Lion9M ($2.47 in chips) 
+Seat 4: Tavrus32 ($2.58 in chips) 
+Seat 5: rpatenau91 ($1.18 in chips) 
+Seat 6: Kela1373 ($2.15 in chips) 
+Seat 7: Dorex2007 ($2.23 in chips) 
+Seat 8: KKshx ($2.06 in chips) 
+Seat 9: STAIRUS1989 ($2.82 in chips) 
+IndigoShirt: posts small blind $0.01
+Lion9M: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 2s]
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+KKshx: folds 
+STAIRUS1989: folds 
+redblud: folds 
+IndigoShirt: folds 
+Uncalled bet ($0.01) returned to Lion9M
+Lion9M collected $0.02 from pot
+Lion9M: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: redblud (button) folded before Flop (didn't bet)
+Seat 2: IndigoShirt (small blind) folded before Flop
+Seat 3: Lion9M (big blind) collected ($0.02)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951198128:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:56:07 PT [2021/12/05 0:56:07 ET]
+Table 'Guisan' 9-max Seat #2 is the button
+Seat 1: redblud ($1.97 in chips) 
+Seat 2: IndigoShirt ($2 in chips) 
+Seat 3: Lion9M ($2.48 in chips) 
+Seat 4: Tavrus32 ($2.58 in chips) 
+Seat 5: rpatenau91 ($1.18 in chips) 
+Seat 6: Kela1373 ($2.15 in chips) 
+Seat 7: Dorex2007 ($2.23 in chips) 
+Seat 8: KKshx ($2.06 in chips) 
+Seat 9: STAIRUS1989 ($2.82 in chips) 
+Lion9M: posts small blind $0.01
+Tavrus32: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Th]
+rpatenau91: folds 
+Kela1373: calls $0.02
+Dorex2007: calls $0.02
+KKshx: folds 
+STAIRUS1989: folds 
+redblud: folds 
+IndigoShirt: folds 
+Lion9M: calls $0.01
+Tavrus32: checks 
+*** FLOP *** [Kh 3d Ts]
+Lion9M: checks 
+Tavrus32: checks 
+Kela1373: bets $0.02
+Dorex2007: folds 
+Lion9M: folds 
+Tavrus32: calls $0.02
+*** TURN *** [Kh 3d Ts] [2c]
+Tavrus32: checks 
+Kela1373: bets $0.06
+Tavrus32: folds 
+Uncalled bet ($0.06) returned to Kela1373
+Kela1373 collected $0.12 from pot
+Kela1373: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Kh 3d Ts 2c]
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 2: IndigoShirt (button) folded before Flop (didn't bet)
+Seat 3: Lion9M (small blind) folded on the Flop
+Seat 4: Tavrus32 (big blind) folded on the Turn
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 collected ($0.12)
+Seat 7: Dorex2007 folded on the Flop
+Seat 8: KKshx folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951205145:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:57:00 PT [2021/12/05 0:57:00 ET]
+Table 'Guisan' 9-max Seat #3 is the button
+Seat 1: redblud ($1.97 in chips) 
+Seat 2: IndigoShirt ($2 in chips) 
+Seat 3: Lion9M ($2.46 in chips) 
+Seat 4: Tavrus32 ($2.54 in chips) 
+Seat 5: rpatenau91 ($1.18 in chips) 
+Seat 6: Kela1373 ($2.23 in chips) 
+Seat 7: Dorex2007 ($2.21 in chips) 
+Seat 8: KKshx ($2.06 in chips) 
+Seat 9: STAIRUS1989 ($2.82 in chips) 
+Tavrus32: posts small blind $0.01
+rpatenau91: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 4c]
+Kela1373: folds 
+Dorex2007: calls $0.02
+KKshx: calls $0.02
+STAIRUS1989: folds 
+redblud has timed out
+redblud: folds 
+IndigoShirt: folds 
+Lion9M: calls $0.02
+Tavrus32: folds 
+rpatenau91: checks 
+*** FLOP *** [Kh Ac 3d]
+rpatenau91: checks 
+Dorex2007: checks 
+KKshx: checks 
+Lion9M: bets $0.04
+rpatenau91: folds 
+Dorex2007: folds 
+KKshx: calls $0.04
+*** TURN *** [Kh Ac 3d] [2c]
+KKshx: checks 
+Lion9M: checks 
+*** RIVER *** [Kh Ac 3d 2c] [7d]
+KKshx: checks 
+Lion9M: bets $0.16
+KKshx: calls $0.16
+*** SHOW DOWN ***
+Lion9M: shows [7s Kd] (two pair, Kings and Sevens)
+KKshx: mucks hand 
+Lion9M collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Kh Ac 3d 2c 7d]
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 2: IndigoShirt folded before Flop (didn't bet)
+Seat 3: Lion9M (button) showed [7s Kd] and won ($0.47) with two pair, Kings and Sevens
+Seat 4: Tavrus32 (small blind) folded before Flop
+Seat 5: rpatenau91 (big blind) folded on the Flop
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded on the Flop
+Seat 8: KKshx mucked [6d Ad]
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951218872:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:58:15 PT [2021/12/05 0:58:15 ET]
+Table 'Guisan' 9-max Seat #4 is the button
+Seat 1: redblud ($1.97 in chips) 
+Seat 2: IndigoShirt ($2 in chips) 
+Seat 3: Lion9M ($2.71 in chips) 
+Seat 4: Tavrus32 ($2.53 in chips) 
+Seat 5: rpatenau91 ($1.16 in chips) 
+Seat 6: Kela1373 ($2.23 in chips) 
+Seat 7: Dorex2007 ($2.19 in chips) 
+Seat 8: KKshx ($1.84 in chips) 
+Seat 9: STAIRUS1989 ($2.82 in chips) 
+rpatenau91: posts small blind $0.01
+Kela1373: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 3s]
+Dorex2007: folds 
+KKshx: folds 
+STAIRUS1989: folds 
+redblud: folds 
+IndigoShirt: folds 
+Lion9M: raises $0.04 to $0.06
+Tavrus32: raises $0.13 to $0.19
+rpatenau91: folds 
+Kela1373: folds 
+Lion9M: folds 
+Uncalled bet ($0.13) returned to Tavrus32
+Tavrus32 collected $0.15 from pot
+Tavrus32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 2: IndigoShirt folded before Flop (didn't bet)
+Seat 3: Lion9M folded before Flop
+Seat 4: Tavrus32 (button) collected ($0.15)
+Seat 5: rpatenau91 (small blind) folded before Flop
+Seat 6: Kela1373 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951224190:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:58:56 PT [2021/12/05 0:58:56 ET]
+Table 'Guisan' 9-max Seat #5 is the button
+Seat 1: redblud ($1.97 in chips) 
+Seat 2: IndigoShirt ($2 in chips) 
+Seat 3: Lion9M ($2.65 in chips) 
+Seat 4: Tavrus32 ($2.62 in chips) 
+Seat 5: rpatenau91 ($1.15 in chips) 
+Seat 6: Kela1373 ($2.21 in chips) 
+Seat 7: Dorex2007 ($2.19 in chips) 
+Seat 8: KKshx ($1.84 in chips) 
+Seat 9: STAIRUS1989 ($2.82 in chips) 
+Kela1373: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Qh]
+KKshx: folds 
+STAIRUS1989: folds 
+redblud: calls $0.02
+IndigoShirt: folds 
+Lion9M: folds 
+Tavrus32: raises $0.05 to $0.07
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+redblud: calls $0.05
+*** FLOP *** [6h Qd Ts]
+redblud: checks 
+Tavrus32: checks 
+*** TURN *** [6h Qd Ts] [8s]
+redblud: checks 
+Tavrus32: checks 
+*** RIVER *** [6h Qd Ts 8s] [Qc]
+redblud: bets $0.08
+Tavrus32: folds 
+Uncalled bet ($0.08) returned to redblud
+redblud collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [6h Qd Ts 8s Qc]
+Seat 1: redblud collected ($0.16)
+Seat 2: IndigoShirt folded before Flop (didn't bet)
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded on the River
+Seat 5: rpatenau91 (button) folded before Flop (didn't bet)
+Seat 6: Kela1373 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: KKshx folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951230285:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 21:59:44 PT [2021/12/05 0:59:44 ET]
+Table 'Guisan' 9-max Seat #6 is the button
+Seat 1: redblud ($2.06 in chips) 
+Seat 2: IndigoShirt ($2 in chips) 
+Seat 3: Lion9M ($2.65 in chips) 
+Seat 4: Tavrus32 ($2.55 in chips) 
+Seat 5: rpatenau91 ($1.15 in chips) 
+Seat 6: Kela1373 ($2.20 in chips) 
+Seat 7: Dorex2007 ($2.17 in chips) 
+Seat 8: KKshx ($1.84 in chips) 
+Seat 9: STAIRUS1989 ($2.82 in chips) 
+Dorex2007: posts small blind $0.01
+KKshx: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 4h]
+STAIRUS1989: folds 
+redblud: folds 
+IndigoShirt: folds 
+Lion9M has timed out
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to KKshx
+KKshx collected $0.02 from pot
+KKshx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 2: IndigoShirt folded before Flop (didn't bet)
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: KKshx (big blind) collected ($0.02)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951233647:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:00:11 PT [2021/12/05 1:00:11 ET]
+Table 'Guisan' 9-max Seat #7 is the button
+Seat 1: redblud ($2.06 in chips) 
+Seat 2: IndigoShirt ($2 in chips) 
+Seat 4: Tavrus32 ($2.55 in chips) 
+Seat 5: rpatenau91 ($1.15 in chips) 
+Seat 6: Kela1373 ($2.20 in chips) 
+Seat 7: Dorex2007 ($2.16 in chips) 
+Seat 8: KKshx ($1.85 in chips) 
+Seat 9: STAIRUS1989 ($2.82 in chips) 
+KKshx: posts small blind $0.01
+STAIRUS1989: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 5s]
+redblud: folds 
+IndigoShirt: folds 
+Tavrus32: calls $0.02
+rpatenau91: calls $0.02
+Kela1373: calls $0.02
+Dorex2007: folds 
+KKshx: folds 
+STAIRUS1989: checks 
+*** FLOP *** [5d Js As]
+STAIRUS1989: bets $0.06
+Tavrus32: calls $0.06
+rpatenau91: calls $0.06
+Kela1373: folds 
+*** TURN *** [5d Js As] [Qh]
+STAIRUS1989: checks 
+Tavrus32: bets $0.13
+rpatenau91: calls $0.13
+STAIRUS1989: folds 
+*** RIVER *** [5d Js As Qh] [2h]
+Tavrus32: bets $0.33
+rpatenau91: folds 
+Uncalled bet ($0.33) returned to Tavrus32
+Tavrus32 collected $0.51 from pot
+Tavrus32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [5d Js As Qh 2h]
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 2: IndigoShirt folded before Flop (didn't bet)
+Seat 4: Tavrus32 collected ($0.51)
+Seat 5: rpatenau91 folded on the River
+Seat 6: Kela1373 folded on the Flop
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: KKshx (small blind) folded before Flop
+Seat 9: STAIRUS1989 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #231951243703:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:01:23 PT [2021/12/05 1:01:23 ET]
+Table 'Guisan' 9-max Seat #8 is the button
+Seat 1: redblud ($2.06 in chips) 
+Seat 2: IndigoShirt ($2 in chips) 
+Seat 3: Lion9M ($2.65 in chips) 
+Seat 4: Tavrus32 ($2.85 in chips) 
+Seat 5: rpatenau91 ($0.94 in chips) 
+Seat 6: Kela1373 ($2.18 in chips) 
+Seat 7: Dorex2007 ($2.16 in chips) 
+Seat 8: KKshx ($1.84 in chips) 
+Seat 9: STAIRUS1989 ($2.74 in chips) 
+STAIRUS1989: posts small blind $0.01
+redblud: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 3c]
+IndigoShirt: folds 
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+IndigoShirt leaves the table
+Kela1373: folds 
+Dorex2007: raises $0.04 to $0.06
+KKshx: calls $0.06
+STAIRUS1989: folds 
+redblud: calls $0.04
+*** FLOP *** [4h 5s 3s]
+redblud: checks 
+Dorex2007: bets $0.18
+KKshx: folds 
+Gooner.7.11 joins the table at seat #2 
+redblud: folds 
+Uncalled bet ($0.18) returned to Dorex2007
+Dorex2007 collected $0.18 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [4h 5s 3s]
+Seat 1: redblud (big blind) folded on the Flop
+Seat 2: IndigoShirt folded before Flop (didn't bet)
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.18)
+Seat 8: KKshx (button) folded on the Flop
+Seat 9: STAIRUS1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #231951250446:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:02:09 PT [2021/12/05 1:02:09 ET]
+Table 'Guisan' 9-max Seat #9 is the button
+Seat 1: redblud ($2 in chips) 
+Seat 2: Gooner.7.11 ($0.80 in chips) 
+Seat 3: Lion9M ($2.65 in chips) 
+Seat 4: Tavrus32 ($2.85 in chips) 
+Seat 5: rpatenau91 ($0.94 in chips) 
+Seat 6: Kela1373 ($2.18 in chips) 
+Seat 7: Dorex2007 ($2.28 in chips) 
+Seat 8: KKshx ($1.78 in chips) 
+Seat 9: STAIRUS1989 ($2.73 in chips) 
+redblud: posts small blind $0.01
+Gooner.7.11: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Ks]
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: raises $0.04 to $0.06
+Dorex2007: folds 
+KKshx: folds 
+STAIRUS1989: folds 
+redblud: calls $0.05
+Gooner.7.11: folds 
+*** FLOP *** [Ac 5c 7h]
+redblud: bets $0.02
+Kela1373: calls $0.02
+*** TURN *** [Ac 5c 7h] [9d]
+redblud: checks 
+Kela1373: checks 
+*** RIVER *** [Ac 5c 7h 9d] [Kc]
+redblud: checks 
+Kela1373: checks 
+*** SHOW DOWN ***
+redblud: shows [5d 3h] (a pair of Fives)
+Kela1373: mucks hand 
+redblud collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Ac 5c 7h 9d Kc]
+Seat 1: redblud (small blind) showed [5d 3h] and won ($0.17) with a pair of Fives
+Seat 2: Gooner.7.11 (big blind) folded before Flop
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 mucked [3s 3c]
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951257056:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:02:54 PT [2021/12/05 1:02:54 ET]
+Table 'Guisan' 9-max Seat #1 is the button
+Seat 1: redblud ($2.09 in chips) 
+Seat 2: Gooner.7.11 ($0.78 in chips) 
+Seat 3: Lion9M ($2.65 in chips) 
+Seat 4: Tavrus32 ($2.85 in chips) 
+Seat 5: rpatenau91 ($0.94 in chips) 
+Seat 6: Kela1373 ($2.10 in chips) 
+Seat 7: Dorex2007 ($2.28 in chips) 
+Seat 8: KKshx ($1.78 in chips) 
+Seat 9: STAIRUS1989 ($2.73 in chips) 
+Gooner.7.11: posts small blind $0.01
+Lion9M: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 2h]
+Tavrus32: folds 
+rpatenau91: calls $0.02
+Kela1373: calls $0.02
+Dorex2007: folds 
+KKshx: folds 
+STAIRUS1989: folds 
+redblud: calls $0.02
+Gooner.7.11: calls $0.01
+Lion9M: checks 
+*** FLOP *** [5d 7s Kc]
+Gooner.7.11: checks 
+Lion9M: bets $0.10
+rpatenau91: folds 
+Kela1373: folds 
+redblud: folds 
+Gooner.7.11: calls $0.10
+*** TURN *** [5d 7s Kc] [9h]
+Gooner.7.11: checks 
+Lion9M: bets $0.15
+Gooner.7.11: raises $0.51 to $0.66 and is all-in
+Lion9M: calls $0.51
+*** RIVER *** [5d 7s Kc 9h] [8s]
+*** SHOW DOWN ***
+Gooner.7.11: shows [Kh 4d] (a pair of Kings)
+Lion9M: shows [8c 6d] (a straight, Five to Nine)
+Lion9M collected $1.56 from pot
+*** SUMMARY ***
+Total pot $1.62 | Rake $0.06 
+Board [5d 7s Kc 9h 8s]
+Seat 1: redblud (button) folded on the Flop
+Seat 2: Gooner.7.11 (small blind) showed [Kh 4d] and lost with a pair of Kings
+Seat 3: Lion9M (big blind) showed [8c 6d] and won ($1.56) with a straight, Five to Nine
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded on the Flop
+Seat 6: Kela1373 folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951268960:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:04:14 PT [2021/12/05 1:04:14 ET]
+Table 'Guisan' 9-max Seat #3 is the button
+Seat 1: redblud ($2.07 in chips) 
+Seat 3: Lion9M ($3.43 in chips) 
+Seat 4: Tavrus32 ($2.85 in chips) 
+Seat 5: rpatenau91 ($0.92 in chips) 
+Seat 6: Kela1373 ($2.08 in chips) 
+Seat 7: Dorex2007 ($2.28 in chips) 
+Seat 8: KKshx ($1.78 in chips) 
+Seat 9: STAIRUS1989 ($2.73 in chips) 
+Tavrus32: posts small blind $0.01
+rpatenau91: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Th]
+Kela1373: folds 
+Dorex2007: folds 
+KKshx: folds 
+STAIRUS1989: folds 
+Gooner.7.11 leaves the table
+redblud: calls $0.02
+Lion9M: calls $0.02
+Tavrus32: folds 
+rpatenau91: checks 
+*** FLOP *** [Ts 6d Kh]
+rpatenau91: checks 
+redblud: checks 
+Lion9M: checks 
+*** TURN *** [Ts 6d Kh] [5s]
+rpatenau91: checks 
+redblud: checks 
+Lion9M: bets $0.02
+rpatenau91: calls $0.02
+redblud: folds 
+*** RIVER *** [Ts 6d Kh 5s] [6h]
+rpatenau91: checks 
+Lion9M: checks 
+*** SHOW DOWN ***
+rpatenau91: shows [Tc Qs] (two pair, Tens and Sixes)
+Lion9M: mucks hand 
+rpatenau91 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Ts 6d Kh 5s 6h]
+Seat 1: redblud folded on the Turn
+Seat 3: Lion9M (button) mucked [5h 3h]
+Seat 4: Tavrus32 (small blind) folded before Flop
+Seat 5: rpatenau91 (big blind) showed [Tc Qs] and won ($0.11) with two pair, Tens and Sixes
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951278721:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:05:19 PT [2021/12/05 1:05:19 ET]
+Table 'Guisan' 9-max Seat #4 is the button
+Seat 1: redblud ($2.05 in chips) 
+Seat 3: Lion9M ($3.39 in chips) 
+Seat 4: Tavrus32 ($2.84 in chips) 
+Seat 5: rpatenau91 ($0.99 in chips) 
+Seat 6: Kela1373 ($2.08 in chips) 
+Seat 7: Dorex2007 ($2.28 in chips) 
+Seat 8: KKshx ($1.78 in chips) 
+Seat 9: STAIRUS1989 ($2.73 in chips) 
+rpatenau91: posts small blind $0.01
+Kela1373: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 4h]
+Dorex2007: folds 
+KKshx: folds 
+STAIRUS1989: folds 
+redblud: folds 
+Lion9M: folds 
+Tavrus32: raises $0.04 to $0.06
+rpatenau91: folds 
+Kela1373: folds 
+Uncalled bet ($0.04) returned to Tavrus32
+Tavrus32 collected $0.05 from pot
+Tavrus32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 (button) collected ($0.05)
+Seat 5: rpatenau91 (small blind) folded before Flop
+Seat 6: Kela1373 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951282287:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:05:43 PT [2021/12/05 1:05:43 ET]
+Table 'Guisan' 9-max Seat #5 is the button
+Seat 1: redblud ($2.05 in chips) 
+Seat 3: Lion9M ($3.39 in chips) 
+Seat 4: Tavrus32 ($2.87 in chips) 
+Seat 5: rpatenau91 ($0.98 in chips) 
+Seat 6: Kela1373 ($2.06 in chips) 
+Seat 7: Dorex2007 ($2.28 in chips) 
+Seat 8: KKshx ($1.78 in chips) 
+Seat 9: STAIRUS1989 ($2.73 in chips) 
+Kela1373: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Kc]
+KKshx: folds 
+STAIRUS1989: folds 
+redblud: calls $0.02
+Lion9M: folds 
+Tavrus32: raises $0.06 to $0.08
+rpatenau91: folds 
+Kela1373: calls $0.07
+Dorex2007: folds 
+redblud: calls $0.06
+*** FLOP *** [6d Ad 6s]
+Kela1373: checks 
+m-sapper joins the table at seat #2 
+redblud: checks 
+Tavrus32: bets $0.18
+Kela1373: folds 
+redblud: folds 
+Uncalled bet ($0.18) returned to Tavrus32
+Tavrus32 collected $0.25 from pot
+Tavrus32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [6d Ad 6s]
+Seat 1: redblud folded on the Flop
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 collected ($0.25)
+Seat 5: rpatenau91 (button) folded before Flop (didn't bet)
+Seat 6: Kela1373 (small blind) folded on the Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: KKshx folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951292025:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:06:48 PT [2021/12/05 1:06:48 ET]
+Table 'Guisan' 9-max Seat #6 is the button
+Seat 1: redblud ($1.97 in chips) 
+Seat 3: Lion9M ($3.39 in chips) 
+Seat 4: Tavrus32 ($3.04 in chips) 
+Seat 5: rpatenau91 ($0.98 in chips) 
+Seat 6: Kela1373 ($1.98 in chips) 
+Seat 7: Dorex2007 ($2.26 in chips) 
+Seat 8: KKshx ($1.78 in chips) 
+Seat 9: STAIRUS1989 ($2.73 in chips) 
+Dorex2007: posts small blind $0.01
+KKshx: posts big blind $0.02
+m-sapper: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 7c]
+STAIRUS1989: folds 
+redblud: folds 
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to KKshx
+KKshx collected $0.02 from pot
+KKshx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: KKshx (big blind) collected ($0.02)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951301343:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:07:04 PT [2021/12/05 1:07:04 ET]
+Table 'Guisan' 9-max Seat #7 is the button
+Seat 1: redblud ($1.97 in chips) 
+Seat 3: Lion9M ($3.39 in chips) 
+Seat 4: Tavrus32 ($3.04 in chips) 
+Seat 5: rpatenau91 ($0.98 in chips) 
+Seat 6: Kela1373 ($1.98 in chips) 
+Seat 7: Dorex2007 ($2.25 in chips) 
+Seat 8: KKshx ($1.79 in chips) 
+Seat 9: STAIRUS1989 ($2.73 in chips) 
+KKshx: posts small blind $0.01
+STAIRUS1989: posts big blind $0.02
+m-sapper: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 2s]
+redblud: folds 
+Lion9M: folds 
+Tavrus32: raises $0.04 to $0.06
+rpatenau91: calls $0.06
+Kela1373: folds 
+Dorex2007: folds 
+KKshx: folds 
+STAIRUS1989: folds 
+*** FLOP *** [Jh 3h Tc]
+Tavrus32: checks 
+redblud is disconnected 
+rpatenau91: bets $0.08
+Tavrus32: folds 
+Uncalled bet ($0.08) returned to rpatenau91
+rpatenau91 collected $0.14 from pot
+rpatenau91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Jh 3h Tc]
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded on the Flop
+Seat 5: rpatenau91 collected ($0.14)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: KKshx (small blind) folded before Flop
+Seat 9: STAIRUS1989 (big blind) folded before Flop
+
+
+
+PokerStars Hand #231951308578:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:07:52 PT [2021/12/05 1:07:52 ET]
+Table 'Guisan' 9-max Seat #8 is the button
+Seat 1: redblud ($1.97 in chips) 
+Seat 3: Lion9M ($3.39 in chips) 
+Seat 4: Tavrus32 ($2.98 in chips) 
+Seat 5: rpatenau91 ($1.06 in chips) 
+Seat 6: Kela1373 ($1.98 in chips) 
+Seat 7: Dorex2007 ($2.25 in chips) 
+Seat 8: KKshx ($1.78 in chips) 
+Seat 9: STAIRUS1989 ($2.71 in chips) 
+STAIRUS1989: posts small blind $0.01
+redblud: posts big blind $0.02
+m-sapper: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 7d]
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: raises $0.06 to $0.08
+Kela1373: folds 
+Dorex2007: folds 
+KKshx: calls $0.08
+STAIRUS1989: folds 
+redblud: calls $0.06
+*** FLOP *** [6s 4h 5h]
+redblud: checks 
+rpatenau91: bets $0.16
+KKshx: calls $0.16
+redblud: folds 
+*** TURN *** [6s 4h 5h] [8d]
+rpatenau91: checks 
+KKshx: checks 
+*** RIVER *** [6s 4h 5h 8d] [2s]
+rpatenau91: bets $0.82 and is all-in
+KKshx: folds 
+Uncalled bet ($0.82) returned to rpatenau91
+rpatenau91 collected $0.55 from pot
+rpatenau91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [6s 4h 5h 8d 2s]
+Seat 1: redblud (big blind) folded on the Flop
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 collected ($0.55)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx (button) folded on the River
+Seat 9: STAIRUS1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #231951320334:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:08:45 PT [2021/12/05 1:08:45 ET]
+Table 'Guisan' 9-max Seat #9 is the button
+Seat 1: redblud ($1.89 in chips) 
+Seat 2: m-sapper ($2.28 in chips) 
+Seat 3: Lion9M ($3.39 in chips) 
+Seat 4: Tavrus32 ($2.98 in chips) 
+Seat 5: rpatenau91 ($1.37 in chips) 
+Seat 6: Kela1373 ($1.98 in chips) 
+Seat 7: Dorex2007 ($2.25 in chips) 
+Seat 8: KKshx ($1.54 in chips) 
+Seat 9: STAIRUS1989 ($2.70 in chips) 
+redblud: posts small blind $0.01
+m-sapper: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 4s]
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+KKshx: folds 
+KKshx leaves the table
+STAIRUS1989: folds 
+redblud: calls $0.01
+m-sapper: checks 
+*** FLOP *** [5s 3c 2d]
+redblud: checks 
+m-sapper is disconnected 
+m-sapper has timed out while disconnected
+m-sapper: checks 
+*** TURN *** [5s 3c 2d] [5h]
+redblud: checks 
+m-sapper: checks 
+*** RIVER *** [5s 3c 2d 5h] [9c]
+redblud: checks 
+m-sapper: checks 
+*** SHOW DOWN ***
+redblud: shows [Kd 9h] (two pair, Nines and Fives)
+m-sapper: mucks hand 
+redblud collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [5s 3c 2d 5h 9c]
+Seat 1: redblud (small blind) showed [Kd 9h] and won ($0.04) with two pair, Nines and Fives
+Seat 2: m-sapper (big blind) mucked [2h 4h]
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KKshx folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951331004:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:09:56 PT [2021/12/05 1:09:56 ET]
+Table 'Guisan' 9-max Seat #1 is the button
+Seat 1: redblud ($1.91 in chips) 
+Seat 2: m-sapper ($2.26 in chips) 
+Seat 3: Lion9M ($3.39 in chips) 
+Seat 4: Tavrus32 ($2.98 in chips) 
+Seat 5: rpatenau91 ($1.37 in chips) 
+Seat 6: Kela1373 ($1.98 in chips) 
+Seat 7: Dorex2007 ($2.25 in chips) 
+Seat 9: STAIRUS1989 ($2.70 in chips) 
+m-sapper: posts small blind $0.01
+Lion9M: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 4c]
+martz911 joins the table at seat #8 
+Tavrus32: calls $0.02
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: calls $0.02
+STAIRUS1989: folds 
+redblud: calls $0.02
+m-sapper: calls $0.01
+Lion9M: checks 
+*** FLOP *** [7c 8s 3h]
+m-sapper: checks 
+Lion9M: checks 
+Tavrus32: checks 
+Dorex2007: checks 
+redblud: bets $0.05
+m-sapper: folds 
+Lion9M: folds 
+Tavrus32: folds 
+Dorex2007: folds 
+Uncalled bet ($0.05) returned to redblud
+redblud collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [7c 8s 3h]
+Seat 1: redblud (button) collected ($0.10)
+Seat 2: m-sapper (small blind) folded on the Flop
+Seat 3: Lion9M (big blind) folded on the Flop
+Seat 4: Tavrus32 folded on the Flop
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded on the Flop
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951339325:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:10:53 PT [2021/12/05 1:10:53 ET]
+Table 'Guisan' 9-max Seat #2 is the button
+Seat 1: redblud ($1.99 in chips) 
+Seat 2: m-sapper ($2.24 in chips) 
+Seat 3: Lion9M ($3.37 in chips) 
+Seat 4: Tavrus32 ($2.96 in chips) 
+Seat 5: rpatenau91 ($1.37 in chips) 
+Seat 6: Kela1373 ($1.98 in chips) 
+Seat 7: Dorex2007 ($2.23 in chips) 
+Seat 8: martz911 ($2 in chips) 
+Seat 9: STAIRUS1989 ($2.70 in chips) 
+Lion9M: posts small blind $0.01
+Tavrus32: posts big blind $0.02
+martz911: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 4d]
+rpatenau91: folds 
+Kela1373: calls $0.02
+Dorex2007: folds 
+martz911: checks 
+STAIRUS1989: folds 
+redblud: folds 
+m-sapper: folds 
+Lion9M: calls $0.01
+Tavrus32: checks 
+*** FLOP *** [Qs 4c 9c]
+Lion9M: checks 
+Tavrus32: checks 
+Kela1373: bets $0.04
+martz911: folds 
+Lion9M: folds 
+Tavrus32: folds 
+Uncalled bet ($0.04) returned to Kela1373
+Kela1373 collected $0.08 from pot
+Kela1373: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Qs 4c 9c]
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 2: m-sapper (button) folded before Flop (didn't bet)
+Seat 3: Lion9M (small blind) folded on the Flop
+Seat 4: Tavrus32 (big blind) folded on the Flop
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 collected ($0.08)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: martz911 folded on the Flop (didn't bet)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951346041:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:11:37 PT [2021/12/05 1:11:37 ET]
+Table 'Guisan' 9-max Seat #3 is the button
+Seat 1: redblud ($1.99 in chips) 
+Seat 2: m-sapper ($2.24 in chips) 
+Seat 3: Lion9M ($3.35 in chips) 
+Seat 4: Tavrus32 ($2.94 in chips) 
+Seat 5: rpatenau91 ($1.37 in chips) 
+Seat 6: Kela1373 ($2.04 in chips) 
+Seat 7: Dorex2007 ($2.23 in chips) 
+Seat 8: martz911 ($1.98 in chips) 
+Seat 9: STAIRUS1989 ($2.70 in chips) 
+Tavrus32: posts small blind $0.01
+rpatenau91: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad As]
+Kela1373: folds 
+Dorex2007: raises $0.02 to $0.04
+martz911: folds 
+STAIRUS1989: folds 
+redblud: folds 
+m-sapper: folds 
+Lion9M: calls $0.04
+Tavrus32: folds 
+rpatenau91: folds 
+*** FLOP *** [Td 9s 4d]
+Dorex2007: bets $0.11
+Lion9M: calls $0.11
+*** TURN *** [Td 9s 4d] [6h]
+Dorex2007: bets $2.08 and is all-in
+Lion9M: folds 
+Uncalled bet ($2.08) returned to Dorex2007
+Dorex2007 collected $0.32 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Td 9s 4d 6h]
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 2: m-sapper folded before Flop (didn't bet)
+Seat 3: Lion9M (button) folded on the Turn
+Seat 4: Tavrus32 (small blind) folded before Flop
+Seat 5: rpatenau91 (big blind) folded before Flop
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.32)
+Seat 8: martz911 folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951352439:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:12:20 PT [2021/12/05 1:12:20 ET]
+Table 'Guisan' 9-max Seat #4 is the button
+Seat 1: redblud ($1.99 in chips) 
+Seat 2: m-sapper ($2.24 in chips) 
+Seat 3: Lion9M ($3.20 in chips) 
+Seat 4: Tavrus32 ($2.93 in chips) 
+Seat 5: rpatenau91 ($1.35 in chips) 
+Seat 6: Kela1373 ($2.04 in chips) 
+Seat 7: Dorex2007 ($2.40 in chips) 
+Seat 8: martz911 ($1.98 in chips) 
+Seat 9: STAIRUS1989 ($2.70 in chips) 
+rpatenau91: posts small blind $0.01
+Kela1373: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Ac]
+Dorex2007: raises $0.02 to $0.04
+martz911: folds 
+STAIRUS1989: calls $0.04
+redblud: calls $0.04
+m-sapper: folds 
+Lion9M: raises $0.12 to $0.16
+Tavrus32: folds 
+rpatenau91: calls $0.15
+Kela1373: folds 
+Dorex2007: folds 
+STAIRUS1989: calls $0.12
+redblud: folds 
+*** FLOP *** [Jd 9d 3s]
+rpatenau91: checks 
+STAIRUS1989: checks 
+Lion9M: bets $0.30
+rpatenau91: folds 
+STAIRUS1989: folds 
+Uncalled bet ($0.30) returned to Lion9M
+Lion9M collected $0.56 from pot
+Lion9M: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [Jd 9d 3s]
+Seat 1: redblud folded before Flop
+Seat 2: m-sapper folded before Flop (didn't bet)
+Seat 3: Lion9M collected ($0.56)
+Seat 4: Tavrus32 (button) folded before Flop (didn't bet)
+Seat 5: rpatenau91 (small blind) folded on the Flop
+Seat 6: Kela1373 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop
+Seat 8: martz911 folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded on the Flop
+
+
+
+PokerStars Hand #231951363472:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:13:34 PT [2021/12/05 1:13:34 ET]
+Table 'Guisan' 9-max Seat #5 is the button
+Seat 1: redblud ($1.95 in chips) 
+Seat 2: m-sapper ($2.24 in chips) 
+Seat 3: Lion9M ($3.60 in chips) 
+Seat 4: Tavrus32 ($2.93 in chips) 
+Seat 5: rpatenau91 ($1.19 in chips) 
+Seat 6: Kela1373 ($2.02 in chips) 
+Seat 7: Dorex2007 ($2.36 in chips) 
+Seat 8: martz911 ($1.98 in chips) 
+Seat 9: STAIRUS1989 ($2.54 in chips) 
+Kela1373: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Ah]
+martz911: folds 
+STAIRUS1989: raises $0.06 to $0.08
+redblud: calls $0.08
+m-sapper: folds 
+Lion9M: folds 
+Tavrus32: calls $0.08
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: calls $0.06
+*** FLOP *** [Kc 7h Kh]
+Dorex2007: checks 
+STAIRUS1989: checks 
+redblud: checks 
+Tavrus32: checks 
+*** TURN *** [Kc 7h Kh] [Qd]
+Dorex2007: bets $0.16
+STAIRUS1989: folds 
+redblud: folds 
+Tavrus32: folds 
+Uncalled bet ($0.16) returned to Dorex2007
+Dorex2007 collected $0.32 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Kc 7h Kh Qd]
+Seat 1: redblud folded on the Turn
+Seat 2: m-sapper folded before Flop (didn't bet)
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded on the Turn
+Seat 5: rpatenau91 (button) folded before Flop (didn't bet)
+Seat 6: Kela1373 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) collected ($0.32)
+Seat 8: martz911 folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded on the Turn
+
+
+
+PokerStars Hand #231951380919:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:14:33 PT [2021/12/05 1:14:33 ET]
+Table 'Guisan' 9-max Seat #6 is the button
+Seat 1: redblud ($1.87 in chips) 
+Seat 2: m-sapper ($2.24 in chips) 
+Seat 3: Lion9M ($3.60 in chips) 
+Seat 4: Tavrus32 ($2.85 in chips) 
+Seat 5: rpatenau91 ($1.19 in chips) 
+Seat 6: Kela1373 ($2.01 in chips) 
+Seat 7: Dorex2007 ($2.60 in chips) 
+Seat 8: martz911 ($1.98 in chips) 
+Seat 9: STAIRUS1989 ($2.46 in chips) 
+Dorex2007: posts small blind $0.01
+martz911: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 2d]
+STAIRUS1989: folds 
+redblud: calls $0.02
+m-sapper: folds 
+Lion9M: folds 
+Tavrus32: raises $0.06 to $0.08
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+martz911: raises $1.90 to $1.98 and is all-in
+redblud: folds 
+Tavrus32: folds 
+Uncalled bet ($1.90) returned to martz911
+martz911 collected $0.19 from pot
+martz911: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0 
+Seat 1: redblud folded before Flop
+Seat 2: m-sapper folded before Flop (didn't bet)
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: martz911 (big blind) collected ($0.19)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951385533:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:15:04 PT [2021/12/05 1:15:04 ET]
+Table 'Guisan' 9-max Seat #7 is the button
+Seat 1: redblud ($1.85 in chips) 
+Seat 2: m-sapper ($2.24 in chips) 
+Seat 3: Lion9M ($3.60 in chips) 
+Seat 4: Tavrus32 ($2.77 in chips) 
+Seat 5: rpatenau91 ($1.19 in chips) 
+Seat 6: Kela1373 ($2.01 in chips) 
+Seat 7: Dorex2007 ($2.59 in chips) 
+Seat 8: martz911 ($2.09 in chips) 
+Seat 9: STAIRUS1989 ($2.46 in chips) 
+martz911: posts small blind $0.01
+STAIRUS1989: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Qd]
+redblud: folds 
+m-sapper: folds 
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: raises $0.06 to $0.08
+Kela1373: folds 
+Dorex2007: raises $2.51 to $2.59 and is all-in
+martz911: folds 
+STAIRUS1989: folds 
+rpatenau91: calls $1.11 and is all-in
+Uncalled bet ($1.40) returned to Dorex2007
+*** FLOP *** [7d 7h Jc]
+*** TURN *** [7d 7h Jc] [9s]
+*** RIVER *** [7d 7h Jc 9s] [5c]
+*** SHOW DOWN ***
+rpatenau91: shows [Qs Qc] (two pair, Queens and Sevens)
+Dorex2007: shows [Qh Qd] (two pair, Queens and Sevens)
+rpatenau91 collected $1.17 from pot
+Dorex2007 cashed out the hand for $1.15 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $2.41 | Rake $0.08 
+Board [7d 7h Jc 9s 5c]
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 2: m-sapper folded before Flop (didn't bet)
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 showed [Qs Qc] and won ($1.17) with two pair, Queens and Sevens
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) showed [Qh Qd] and won ($1.16) with two pair, Queens and Sevens (pot not awarded as player cashed out)
+Seat 8: martz911 (small blind) folded before Flop
+Seat 9: STAIRUS1989 (big blind) folded before Flop
+
+
+
+PokerStars Hand #231951392097:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:15:48 PT [2021/12/05 1:15:48 ET]
+Table 'Guisan' 9-max Seat #8 is the button
+Seat 1: redblud ($1.85 in chips) 
+Seat 2: m-sapper ($2.24 in chips) 
+Seat 3: Lion9M ($3.60 in chips) 
+Seat 4: Tavrus32 ($2.77 in chips) 
+Seat 5: rpatenau91 ($1.17 in chips) 
+Seat 6: Kela1373 ($2.01 in chips) 
+Seat 7: Dorex2007 ($2.55 in chips) 
+Seat 8: martz911 ($2.08 in chips) 
+Seat 9: STAIRUS1989 ($2.44 in chips) 
+STAIRUS1989: posts small blind $0.01
+redblud: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 9s]
+m-sapper: folds 
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: calls $0.02
+Kela1373: folds 
+Dorex2007: folds 
+martz911: calls $0.02
+STAIRUS1989: calls $0.01
+redblud: checks 
+*** FLOP *** [Ts Ks 5c]
+STAIRUS1989: checks 
+redblud: checks 
+rpatenau91: checks 
+martz911: bets $0.06
+STAIRUS1989: folds 
+m-sapper is disconnected 
+redblud: folds 
+rpatenau91: folds 
+Uncalled bet ($0.06) returned to martz911
+martz911 collected $0.08 from pot
+martz911: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Ts Ks 5c]
+Seat 1: redblud (big blind) folded on the Flop
+Seat 2: m-sapper folded before Flop (didn't bet)
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded on the Flop
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: martz911 (button) collected ($0.08)
+Seat 9: STAIRUS1989 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #231951399962:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:16:41 PT [2021/12/05 1:16:41 ET]
+Table 'Guisan' 9-max Seat #9 is the button
+Seat 1: redblud ($1.83 in chips) 
+Seat 3: Lion9M ($3.60 in chips) 
+Seat 4: Tavrus32 ($2.77 in chips) 
+Seat 5: rpatenau91 ($1.15 in chips) 
+Seat 6: Kela1373 ($2.01 in chips) 
+Seat 7: Dorex2007 ($2.55 in chips) 
+Seat 8: martz911 ($2.14 in chips) 
+Seat 9: STAIRUS1989 ($2.42 in chips) 
+redblud: posts small blind $0.01
+m-sapper has timed out while disconnected
+m-sapper: is sitting out 
+Lion9M: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 4d]
+Tavrus32: folds 
+m-sapper is disconnected 
+rpatenau91 has timed out
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+martz911: folds 
+STAIRUS1989: raises $0.04 to $0.06
+redblud: calls $0.05
+Lion9M: folds 
+*** FLOP *** [2d 6d 7s]
+redblud: checks 
+STAIRUS1989: checks 
+*** TURN *** [2d 6d 7s] [Ah]
+redblud: checks 
+STAIRUS1989: bets $0.09
+redblud: folds 
+Uncalled bet ($0.09) returned to STAIRUS1989
+STAIRUS1989 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [2d 6d 7s Ah]
+Seat 1: redblud (small blind) folded on the Turn
+Seat 3: Lion9M (big blind) folded before Flop
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: martz911 folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 (button) collected ($0.14)
+
+
+
+PokerStars Hand #231951410126:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:17:49 PT [2021/12/05 1:17:49 ET]
+Table 'Guisan' 9-max Seat #1 is the button
+Seat 1: redblud ($1.77 in chips) 
+Seat 3: Lion9M ($3.58 in chips) 
+Seat 4: Tavrus32 ($2.77 in chips) 
+Seat 5: rpatenau91 ($1.15 in chips) 
+Seat 6: Kela1373 ($2.01 in chips) 
+Seat 7: Dorex2007 ($2.55 in chips) 
+Seat 8: martz911 ($2.14 in chips) 
+Seat 9: STAIRUS1989 ($2.50 in chips) 
+Lion9M: posts small blind $0.01
+Tavrus32: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Td]
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+martz911: folds 
+STAIRUS1989: raises $0.03 to $0.05
+redblud: folds 
+Lion9M: folds 
+Tavrus32: folds 
+Uncalled bet ($0.03) returned to STAIRUS1989
+STAIRUS1989 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: redblud (button) folded before Flop (didn't bet)
+Seat 3: Lion9M (small blind) folded before Flop
+Seat 4: Tavrus32 (big blind) folded before Flop
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: martz911 folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 collected ($0.05)
+
+
+
+PokerStars Hand #231951414047:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:18:16 PT [2021/12/05 1:18:16 ET]
+Table 'Guisan' 9-max Seat #3 is the button
+Seat 1: redblud ($1.77 in chips) 
+Seat 2: m-sapper ($2.24 in chips) 
+Seat 3: Lion9M ($3.57 in chips) 
+Seat 4: Tavrus32 ($2.75 in chips) 
+Seat 5: rpatenau91 ($1.15 in chips) 
+Seat 6: Kela1373 ($2.01 in chips) 
+Seat 7: Dorex2007 ($2.55 in chips) 
+Seat 8: martz911 ($2.14 in chips) 
+Seat 9: STAIRUS1989 ($2.53 in chips) 
+Tavrus32: posts small blind $0.01
+rpatenau91: posts big blind $0.02
+m-sapper: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Qh]
+Kela1373: folds 
+Dorex2007: raises $0.02 to $0.04
+martz911: folds 
+STAIRUS1989: folds 
+redblud: folds 
+m-sapper: folds 
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Uncalled bet ($0.02) returned to Dorex2007
+Dorex2007 collected $0.08 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 2: m-sapper folded before Flop (didn't bet)
+Seat 3: Lion9M (button) folded before Flop (didn't bet)
+Seat 4: Tavrus32 (small blind) folded before Flop
+Seat 5: rpatenau91 (big blind) folded before Flop
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.08)
+Seat 8: martz911 folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951416981:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:18:36 PT [2021/12/05 1:18:36 ET]
+Table 'Guisan' 9-max Seat #4 is the button
+Seat 1: redblud ($1.77 in chips) 
+Seat 2: m-sapper ($2.21 in chips) 
+Seat 3: Lion9M ($3.57 in chips) 
+Seat 4: Tavrus32 ($2.74 in chips) 
+Seat 5: rpatenau91 ($1.13 in chips) 
+Seat 6: Kela1373 ($2.01 in chips) 
+Seat 7: Dorex2007 ($2.61 in chips) 
+Seat 8: martz911 ($2.14 in chips) 
+Seat 9: STAIRUS1989 ($2.53 in chips) 
+rpatenau91: posts small blind $0.01
+Kela1373: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 6c]
+Dorex2007: folds 
+martz911: folds 
+STAIRUS1989: raises $0.06 to $0.08
+redblud: folds 
+m-sapper: folds 
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+Uncalled bet ($0.06) returned to STAIRUS1989
+STAIRUS1989 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 2: m-sapper folded before Flop (didn't bet)
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 (button) folded before Flop (didn't bet)
+Seat 5: rpatenau91 (small blind) folded before Flop
+Seat 6: Kela1373 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: martz911 folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 collected ($0.05)
+
+
+
+PokerStars Hand #231951420082:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:18:57 PT [2021/12/05 1:18:57 ET]
+Table 'Guisan' 9-max Seat #5 is the button
+Seat 1: redblud ($1.77 in chips) 
+Seat 2: m-sapper ($2.21 in chips) 
+Seat 3: Lion9M ($3.57 in chips) 
+Seat 4: Tavrus32 ($2.74 in chips) 
+Seat 5: rpatenau91 ($1.12 in chips) 
+Seat 6: Kela1373 ($1.99 in chips) 
+Seat 7: Dorex2007 ($2.61 in chips) 
+Seat 8: martz911 ($2.14 in chips) 
+Seat 9: STAIRUS1989 ($2.56 in chips) 
+Kela1373: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 6d]
+martz911: folds 
+STAIRUS1989: raises $0.06 to $0.08
+redblud: folds 
+m-sapper: folds 
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+Uncalled bet ($0.06) returned to STAIRUS1989
+STAIRUS1989 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 2: m-sapper folded before Flop (didn't bet)
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 (button) folded before Flop (didn't bet)
+Seat 6: Kela1373 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: martz911 folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 collected ($0.05)
+
+
+
+PokerStars Hand #231951422932:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:19:16 PT [2021/12/05 1:19:16 ET]
+Table 'Guisan' 9-max Seat #6 is the button
+Seat 1: redblud ($1.77 in chips) 
+Seat 2: m-sapper ($2.21 in chips) 
+Seat 3: Lion9M ($3.57 in chips) 
+Seat 4: Tavrus32 ($2.74 in chips) 
+Seat 5: rpatenau91 ($1.12 in chips) 
+Seat 6: Kela1373 ($1.98 in chips) 
+Seat 7: Dorex2007 ($2.59 in chips) 
+Seat 8: martz911 ($2.14 in chips) 
+Seat 9: STAIRUS1989 ($2.59 in chips) 
+Dorex2007: posts small blind $0.01
+martz911: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 5c]
+STAIRUS1989: folds 
+redblud: folds 
+m-sapper: folds 
+Lion9M: folds 
+Tavrus32: raises $0.04 to $0.06
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+martz911: folds 
+Uncalled bet ($0.04) returned to Tavrus32
+Tavrus32 collected $0.05 from pot
+Tavrus32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 2: m-sapper folded before Flop (didn't bet)
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 collected ($0.05)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: martz911 (big blind) folded before Flop
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951427188:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:19:46 PT [2021/12/05 1:19:46 ET]
+Table 'Guisan' 9-max Seat #7 is the button
+Seat 1: redblud ($1.77 in chips) 
+Seat 2: m-sapper ($2.21 in chips) 
+Seat 3: Lion9M ($3.57 in chips) 
+Seat 4: Tavrus32 ($2.77 in chips) 
+Seat 5: rpatenau91 ($1.12 in chips) 
+Seat 6: Kela1373 ($1.98 in chips) 
+Seat 7: Dorex2007 ($2.58 in chips) 
+Seat 8: martz911 ($2.12 in chips) 
+Seat 9: STAIRUS1989 ($2.59 in chips) 
+martz911: posts small blind $0.01
+STAIRUS1989: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 9s]
+redblud: folds 
+m-sapper: folds 
+Lion9M: folds 
+Tavrus32: raises $0.04 to $0.06
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+martz911: folds 
+STAIRUS1989: folds 
+Uncalled bet ($0.04) returned to Tavrus32
+Tavrus32 collected $0.05 from pot
+Tavrus32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 2: m-sapper folded before Flop (didn't bet)
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 collected ($0.05)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: martz911 (small blind) folded before Flop
+Seat 9: STAIRUS1989 (big blind) folded before Flop
+
+
+
+PokerStars Hand #231951430087:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:20:06 PT [2021/12/05 1:20:06 ET]
+Table 'Guisan' 9-max Seat #8 is the button
+Seat 1: redblud ($1.77 in chips) 
+Seat 2: m-sapper ($2.21 in chips) 
+Seat 3: Lion9M ($3.57 in chips) 
+Seat 4: Tavrus32 ($2.80 in chips) 
+Seat 5: rpatenau91 ($1.12 in chips) 
+Seat 6: Kela1373 ($1.98 in chips) 
+Seat 7: Dorex2007 ($2.58 in chips) 
+Seat 8: martz911 ($2.11 in chips) 
+Seat 9: STAIRUS1989 ($2.57 in chips) 
+STAIRUS1989: posts small blind $0.01
+redblud: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 8d]
+m-sapper: folds 
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: calls $0.02
+Kela1373: raises $0.08 to $0.10
+Dorex2007: folds 
+martz911 has timed out
+martz911: folds 
+STAIRUS1989: folds 
+redblud: folds 
+rpatenau91: folds 
+Uncalled bet ($0.08) returned to Kela1373
+Kela1373 collected $0.07 from pot
+Kela1373: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: redblud (big blind) folded before Flop
+Seat 2: m-sapper folded before Flop (didn't bet)
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop
+Seat 6: Kela1373 collected ($0.07)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: martz911 (button) folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #231951436245:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:20:49 PT [2021/12/05 1:20:49 ET]
+Table 'Guisan' 9-max Seat #9 is the button
+Seat 1: redblud ($1.75 in chips) 
+Seat 2: m-sapper ($2.21 in chips) 
+Seat 3: Lion9M ($3.57 in chips) 
+Seat 4: Tavrus32 ($2.80 in chips) 
+Seat 5: rpatenau91 ($1.10 in chips) 
+Seat 6: Kela1373 ($2.03 in chips) 
+Seat 7: Dorex2007 ($2.58 in chips) 
+Seat 8: martz911 ($2.11 in chips) 
+Seat 9: STAIRUS1989 ($2.56 in chips) 
+redblud: posts small blind $0.01
+m-sapper: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Td]
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+martz911: folds 
+STAIRUS1989: raises $0.04 to $0.06
+redblud: folds 
+m-sapper: folds 
+Uncalled bet ($0.04) returned to STAIRUS1989
+STAIRUS1989 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: redblud (small blind) folded before Flop
+Seat 2: m-sapper (big blind) folded before Flop
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: martz911 folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 (button) collected ($0.05)
+
+
+
+PokerStars Hand #231951440925:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:21:21 PT [2021/12/05 1:21:21 ET]
+Table 'Guisan' 9-max Seat #1 is the button
+Seat 1: redblud ($1.74 in chips) 
+Seat 2: m-sapper ($2.19 in chips) 
+Seat 3: Lion9M ($3.57 in chips) 
+Seat 4: Tavrus32 ($2.80 in chips) 
+Seat 5: rpatenau91 ($1.10 in chips) 
+Seat 6: Kela1373 ($2.03 in chips) 
+Seat 7: Dorex2007 ($2.58 in chips) 
+Seat 8: martz911 ($2.11 in chips) 
+Seat 9: STAIRUS1989 ($2.59 in chips) 
+m-sapper: posts small blind $0.01
+Lion9M: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 7d]
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: calls $0.02
+Dorex2007: folds 
+martz911: folds 
+STAIRUS1989: folds 
+redblud: calls $0.02
+m-sapper: folds 
+Lion9M: checks 
+*** FLOP *** [5d 8c Tc]
+Lion9M: checks 
+Kela1373: bets $0.02
+redblud: raises $0.11 to $0.13
+Lion9M: folds 
+Kela1373: folds 
+Uncalled bet ($0.11) returned to redblud
+redblud collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [5d 8c Tc]
+Seat 1: redblud (button) collected ($0.11)
+Seat 2: m-sapper (small blind) folded before Flop
+Seat 3: Lion9M (big blind) folded on the Flop
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: martz911 folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951448403:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:22:13 PT [2021/12/05 1:22:13 ET]
+Table 'Guisan' 9-max Seat #2 is the button
+Seat 1: redblud ($1.81 in chips) 
+Seat 2: m-sapper ($2.18 in chips) 
+Seat 3: Lion9M ($3.55 in chips) 
+Seat 4: Tavrus32 ($2.80 in chips) 
+Seat 5: rpatenau91 ($1.10 in chips) 
+Seat 6: Kela1373 ($1.99 in chips) 
+Seat 7: Dorex2007 ($2.58 in chips) 
+Seat 8: martz911 ($2.11 in chips) 
+Seat 9: STAIRUS1989 ($2.59 in chips) 
+Lion9M: posts small blind $0.01
+Tavrus32: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 8c]
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+martz911: folds 
+STAIRUS1989: folds 
+redblud: raises $0.04 to $0.06
+m-sapper: folds 
+Lion9M: calls $0.05
+Tavrus32: raises $0.22 to $0.28
+redblud: calls $0.22
+Lion9M: folds 
+*** FLOP *** [Kh 7d 8h]
+Tavrus32: checks 
+redblud: checks 
+*** TURN *** [Kh 7d 8h] [5h]
+Tavrus32: bets $0.30
+redblud: folds 
+Uncalled bet ($0.30) returned to Tavrus32
+Tavrus32 collected $0.60 from pot
+Tavrus32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.02 
+Board [Kh 7d 8h 5h]
+Seat 1: redblud folded on the Turn
+Seat 2: m-sapper (button) folded before Flop (didn't bet)
+Seat 3: Lion9M (small blind) folded before Flop
+Seat 4: Tavrus32 (big blind) collected ($0.60)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: martz911 folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951457220:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:23:14 PT [2021/12/05 1:23:14 ET]
+Table 'Guisan' 9-max Seat #3 is the button
+Seat 1: redblud ($1.53 in chips) 
+Seat 2: m-sapper ($2.18 in chips) 
+Seat 3: Lion9M ($3.49 in chips) 
+Seat 4: Tavrus32 ($3.12 in chips) 
+Seat 5: rpatenau91 ($1.10 in chips) 
+Seat 6: Kela1373 ($1.99 in chips) 
+Seat 7: Dorex2007 ($2.58 in chips) 
+Seat 8: martz911 ($2.11 in chips) 
+Seat 9: STAIRUS1989 ($2.59 in chips) 
+Tavrus32: posts small blind $0.01
+rpatenau91: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Qd]
+Kela1373: folds 
+Dorex2007: folds 
+martz911: folds 
+STAIRUS1989: folds 
+redblud: folds 
+m-sapper: folds 
+Lion9M: folds 
+Tavrus32: folds 
+Uncalled bet ($0.01) returned to rpatenau91
+rpatenau91 collected $0.02 from pot
+rpatenau91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 2: m-sapper folded before Flop (didn't bet)
+Seat 3: Lion9M (button) folded before Flop (didn't bet)
+Seat 4: Tavrus32 (small blind) folded before Flop
+Seat 5: rpatenau91 (big blind) collected ($0.02)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: martz911 folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951461362:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:23:43 PT [2021/12/05 1:23:43 ET]
+Table 'Guisan' 9-max Seat #4 is the button
+Seat 1: redblud ($1.53 in chips) 
+Seat 2: m-sapper ($2.18 in chips) 
+Seat 3: Lion9M ($3.49 in chips) 
+Seat 4: Tavrus32 ($3.11 in chips) 
+Seat 5: rpatenau91 ($1.11 in chips) 
+Seat 6: Kela1373 ($1.99 in chips) 
+Seat 7: Dorex2007 ($2.58 in chips) 
+Seat 8: martz911 ($2.11 in chips) 
+Seat 9: STAIRUS1989 ($2.59 in chips) 
+rpatenau91: posts small blind $0.01
+Kela1373: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 2c]
+Dorex2007: folds 
+martz911: folds 
+STAIRUS1989: folds 
+redblud: calls $0.02
+m-sapper: folds 
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: checks 
+*** FLOP *** [5s 7h Td]
+Kela1373: checks 
+redblud: checks 
+*** TURN *** [5s 7h Td] [Js]
+Kela1373: checks 
+redblud: bets $0.02
+Kela1373: folds 
+Uncalled bet ($0.02) returned to redblud
+redblud collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5s 7h Td Js]
+Seat 1: redblud collected ($0.05)
+Seat 2: m-sapper folded before Flop (didn't bet)
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 (button) folded before Flop (didn't bet)
+Seat 5: rpatenau91 (small blind) folded before Flop
+Seat 6: Kela1373 (big blind) folded on the Turn
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: martz911 folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951467401:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:24:24 PT [2021/12/05 1:24:24 ET]
+Table 'Guisan' 9-max Seat #5 is the button
+Seat 1: redblud ($1.56 in chips) 
+Seat 2: m-sapper ($2.18 in chips) 
+Seat 3: Lion9M ($3.49 in chips) 
+Seat 4: Tavrus32 ($3.11 in chips) 
+Seat 5: rpatenau91 ($1.10 in chips) 
+Seat 6: Kela1373 ($1.97 in chips) 
+Seat 7: Dorex2007 ($2.58 in chips) 
+Seat 8: martz911 ($2.11 in chips) 
+Seat 9: STAIRUS1989 ($2.59 in chips) 
+Kela1373: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 7d]
+martz911: folds 
+STAIRUS1989: folds 
+redblud: calls $0.02
+m-sapper: folds 
+Lion9M: raises $0.06 to $0.08
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+redblud: calls $0.06
+*** FLOP *** [8s 4s 4d]
+redblud: checks 
+Lion9M: bets $0.09
+redblud: folds 
+Uncalled bet ($0.09) returned to Lion9M
+Lion9M collected $0.18 from pot
+Lion9M: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [8s 4s 4d]
+Seat 1: redblud folded on the Flop
+Seat 2: m-sapper folded before Flop (didn't bet)
+Seat 3: Lion9M collected ($0.18)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 (button) folded before Flop (didn't bet)
+Seat 6: Kela1373 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: martz911 folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951473261:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:25:05 PT [2021/12/05 1:25:05 ET]
+Table 'Guisan' 9-max Seat #6 is the button
+Seat 1: redblud ($1.48 in chips) 
+Seat 2: m-sapper ($2.18 in chips) 
+Seat 3: Lion9M ($3.59 in chips) 
+Seat 4: Tavrus32 ($3.11 in chips) 
+Seat 5: rpatenau91 ($1.10 in chips) 
+Seat 6: Kela1373 ($1.96 in chips) 
+Seat 7: Dorex2007 ($2.56 in chips) 
+Seat 8: martz911 ($2.11 in chips) 
+Seat 9: STAIRUS1989 ($2.59 in chips) 
+Dorex2007: posts small blind $0.01
+martz911: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 5c]
+STAIRUS1989: folds 
+redblud: calls $0.02
+m-sapper: folds 
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: calls $0.02
+Kela1373: calls $0.02
+Dorex2007: calls $0.01
+martz911: checks 
+*** FLOP *** [Jd Qs Kh]
+Dorex2007: checks 
+martz911: checks 
+redblud: checks 
+rpatenau91: checks 
+Kela1373: bets $0.05
+Dorex2007: folds 
+martz911: folds 
+redblud: folds 
+rpatenau91: folds 
+Uncalled bet ($0.05) returned to Kela1373
+Kela1373 collected $0.10 from pot
+Kela1373: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Jd Qs Kh]
+Seat 1: redblud folded on the Flop
+Seat 2: m-sapper folded before Flop (didn't bet)
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded on the Flop
+Seat 6: Kela1373 (button) collected ($0.10)
+Seat 7: Dorex2007 (small blind) folded on the Flop
+Seat 8: martz911 (big blind) folded on the Flop
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951483062:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:26:13 PT [2021/12/05 1:26:13 ET]
+Table 'Guisan' 9-max Seat #7 is the button
+Seat 1: redblud ($1.46 in chips) 
+Seat 2: m-sapper ($2.18 in chips) 
+Seat 3: Lion9M ($3.59 in chips) 
+Seat 4: Tavrus32 ($3.11 in chips) 
+Seat 5: rpatenau91 ($1.08 in chips) 
+Seat 6: Kela1373 ($2.04 in chips) 
+Seat 7: Dorex2007 ($2.54 in chips) 
+Seat 8: martz911 ($2.09 in chips) 
+Seat 9: STAIRUS1989 ($2.59 in chips) 
+martz911: posts small blind $0.01
+STAIRUS1989: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Jh]
+redblud: raises $0.04 to $0.06
+m-sapper: calls $0.06
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: calls $0.06
+Dorex2007: folds 
+martz911: folds 
+STAIRUS1989: folds 
+*** FLOP *** [Kc 3d 6d]
+redblud: bets $0.20
+m-sapper: folds 
+Kela1373: raises $0.20 to $0.40
+redblud: raises $0.20 to $0.60
+Kela1373: raises $1.38 to $1.98 and is all-in
+redblud: calls $0.80 and is all-in
+Uncalled bet ($0.58) returned to Kela1373
+*** TURN *** [Kc 3d 6d] [8h]
+*** RIVER *** [Kc 3d 6d 8h] [Kh]
+*** SHOW DOWN ***
+redblud: shows [Kd Qc] (three of a kind, Kings)
+Kela1373: shows [3s 3h] (a full house, Threes full of Kings)
+Kela1373 collected $2.90 from pot
+*** SUMMARY ***
+Total pot $3.01 | Rake $0.11 
+Board [Kc 3d 6d 8h Kh]
+Seat 1: redblud showed [Kd Qc] and lost with three of a kind, Kings
+Seat 2: m-sapper folded on the Flop
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 showed [3s 3h] and won ($2.90) with a full house, Threes full of Kings
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: martz911 (small blind) folded before Flop
+Seat 9: STAIRUS1989 (big blind) folded before Flop
+
+
+
+PokerStars Hand #231951490946:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:27:08 PT [2021/12/05 1:27:08 ET]
+Table 'Guisan' 9-max Seat #8 is the button
+Seat 2: m-sapper ($2.12 in chips) 
+Seat 3: Lion9M ($3.59 in chips) 
+Seat 4: Tavrus32 ($3.11 in chips) 
+Seat 5: rpatenau91 ($1.08 in chips) 
+Seat 6: Kela1373 ($3.48 in chips) 
+Seat 7: Dorex2007 ($2.54 in chips) 
+Seat 8: martz911 ($2.08 in chips) 
+Seat 9: STAIRUS1989 ($2.57 in chips) 
+STAIRUS1989: posts small blind $0.01
+m-sapper: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 6s]
+Lion9M: raises $0.04 to $0.06
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+martz911: calls $0.06
+STAIRUS1989: folds 
+m-sapper: folds 
+*** FLOP *** [Jh Jc Ad]
+Lion9M: bets $0.14
+martz911: folds 
+Uncalled bet ($0.14) returned to Lion9M
+Lion9M collected $0.14 from pot
+Lion9M: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Jh Jc Ad]
+Seat 2: m-sapper (big blind) folded before Flop
+Seat 3: Lion9M collected ($0.14)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: martz911 (button) folded on the Flop
+Seat 9: STAIRUS1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #231951494985:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:27:36 PT [2021/12/05 1:27:36 ET]
+Table 'Guisan' 9-max Seat #9 is the button
+Seat 2: m-sapper ($2.10 in chips) 
+Seat 3: Lion9M ($3.67 in chips) 
+Seat 4: Tavrus32 ($3.11 in chips) 
+Seat 5: rpatenau91 ($1.08 in chips) 
+Seat 6: Kela1373 ($3.48 in chips) 
+Seat 7: Dorex2007 ($2.54 in chips) 
+Seat 8: martz911 ($2.02 in chips) 
+Seat 9: STAIRUS1989 ($2.56 in chips) 
+m-sapper: posts small blind $0.01
+Lion9M: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Ts]
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+martz911: raises $0.02 to $0.04
+STAIRUS1989: folds 
+m-sapper: folds 
+Lion9M: calls $0.02
+*** FLOP *** [9c 6s Qs]
+Lion9M: checks 
+martz911: bets $0.09
+Lion9M: folds 
+Uncalled bet ($0.09) returned to martz911
+martz911 collected $0.09 from pot
+martz911: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [9c 6s Qs]
+Seat 2: m-sapper (small blind) folded before Flop
+Seat 3: Lion9M (big blind) folded on the Flop
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: martz911 collected ($0.09)
+Seat 9: STAIRUS1989 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951500850:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:28:16 PT [2021/12/05 1:28:16 ET]
+Table 'Guisan' 9-max Seat #2 is the button
+Seat 1: redblud ($2 in chips) 
+Seat 2: m-sapper ($2.09 in chips) 
+Seat 3: Lion9M ($3.63 in chips) 
+Seat 4: Tavrus32 ($3.11 in chips) 
+Seat 5: rpatenau91 ($1.08 in chips) 
+Seat 6: Kela1373 ($3.48 in chips) 
+Seat 7: Dorex2007 ($2.54 in chips) 
+Seat 8: martz911 ($2.07 in chips) 
+Seat 9: STAIRUS1989 ($2.56 in chips) 
+Lion9M: posts small blind $0.01
+Tavrus32: posts big blind $0.02
+redblud: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 4s]
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+martz911 has timed out
+martz911: folds 
+STAIRUS1989: folds 
+redblud: checks 
+m-sapper: folds 
+Lion9M: raises $0.04 to $0.06
+Tavrus32: calls $0.04
+redblud: folds 
+*** FLOP *** [Kh 3s 4c]
+Lion9M: checks 
+Tavrus32: checks 
+*** TURN *** [Kh 3s 4c] [Ks]
+Lion9M: bets $0.07
+Tavrus32: folds 
+Uncalled bet ($0.07) returned to Lion9M
+Lion9M collected $0.14 from pot
+Lion9M: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Kh 3s 4c Ks]
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 2: m-sapper (button) folded before Flop (didn't bet)
+Seat 3: Lion9M (small blind) collected ($0.14)
+Seat 4: Tavrus32 (big blind) folded on the Turn
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: martz911 folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951509849:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:29:18 PT [2021/12/05 1:29:18 ET]
+Table 'Guisan' 9-max Seat #3 is the button
+Seat 1: redblud ($1.97 in chips) 
+Seat 2: m-sapper ($2.09 in chips) 
+Seat 3: Lion9M ($3.71 in chips) 
+Seat 4: Tavrus32 ($3.05 in chips) 
+Seat 5: rpatenau91 ($1.08 in chips) 
+Seat 6: Kela1373 ($3.48 in chips) 
+Seat 7: Dorex2007 ($2.54 in chips) 
+Seat 9: STAIRUS1989 ($2.56 in chips) 
+Tavrus32: posts small blind $0.01
+rpatenau91: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 7c]
+Kela1373: folds 
+Dorex2007: folds 
+STAIRUS1989: raises $0.04 to $0.06
+redblud: folds 
+m-sapper: folds 
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: calls $0.04
+*** FLOP *** [Jc 2s 5d]
+rpatenau91: checks 
+STAIRUS1989: bets $0.07
+rpatenau91: calls $0.07
+*** TURN *** [Jc 2s 5d] [8d]
+rpatenau91: checks 
+STAIRUS1989: bets $0.17
+rpatenau91: calls $0.17
+*** RIVER *** [Jc 2s 5d 8d] [7d]
+rpatenau91: checks 
+STAIRUS1989: checks 
+*** SHOW DOWN ***
+rpatenau91: shows [Js Kc] (a pair of Jacks)
+STAIRUS1989: mucks hand 
+rpatenau91 collected $0.59 from pot
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [Jc 2s 5d 8d 7d]
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 2: m-sapper folded before Flop (didn't bet)
+Seat 3: Lion9M (button) folded before Flop (didn't bet)
+Seat 4: Tavrus32 (small blind) folded before Flop
+Seat 5: rpatenau91 (big blind) showed [Js Kc] and won ($0.59) with a pair of Jacks
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 mucked [8h 9h]
+
+
+
+PokerStars Hand #231951517348:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:30:08 PT [2021/12/05 1:30:08 ET]
+Table 'Guisan' 9-max Seat #4 is the button
+Seat 1: redblud ($1.97 in chips) 
+Seat 2: m-sapper ($2.09 in chips) 
+Seat 3: Lion9M ($3.71 in chips) 
+Seat 4: Tavrus32 ($3.04 in chips) 
+Seat 5: rpatenau91 ($1.37 in chips) 
+Seat 6: Kela1373 ($3.48 in chips) 
+Seat 7: Dorex2007 ($2.54 in chips) 
+Seat 8: martz911 ($2.07 in chips) 
+Seat 9: STAIRUS1989 ($2.26 in chips) 
+rpatenau91: posts small blind $0.01
+Kela1373: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 9s]
+Dorex2007: folds 
+martz911: folds 
+STAIRUS1989: folds 
+redblud: raises $0.05 to $0.07
+m-sapper: folds 
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+Uncalled bet ($0.05) returned to redblud
+redblud collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: redblud collected ($0.05)
+Seat 2: m-sapper folded before Flop (didn't bet)
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 (button) folded before Flop (didn't bet)
+Seat 5: rpatenau91 (small blind) folded before Flop
+Seat 6: Kela1373 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: martz911 folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951527048:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:31:14 PT [2021/12/05 1:31:14 ET]
+Table 'Guisan' 9-max Seat #5 is the button
+Seat 1: redblud ($2 in chips) 
+Seat 2: m-sapper ($2.09 in chips) 
+Seat 3: Lion9M ($3.71 in chips) 
+Seat 4: Tavrus32 ($3.04 in chips) 
+Seat 5: rpatenau91 ($1.36 in chips) 
+Seat 6: Kela1373 ($3.46 in chips) 
+Seat 7: Dorex2007 ($2.54 in chips) 
+Seat 8: martz911 ($2.07 in chips) 
+Seat 9: STAIRUS1989 ($2.26 in chips) 
+Kela1373: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 9h]
+martz911: calls $0.02
+STAIRUS1989: folds 
+redblud: folds 
+m-sapper: raises $0.07 to $0.09
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+martz911: calls $0.07
+*** FLOP *** [4d 2h 8h]
+martz911: bets $0.20
+m-sapper: raises $0.60 to $0.80
+martz911: raises $1.18 to $1.98 and is all-in
+m-sapper: calls $1.18
+*** TURN *** [4d 2h 8h] [Ac]
+*** RIVER *** [4d 2h 8h Ac] [9c]
+*** SHOW DOWN ***
+martz911: shows [Ks Qc] (high card Ace)
+m-sapper: shows [Ah As] (three of a kind, Aces)
+m-sapper cashed out the hand for $3.92 | Cash Out Fee $0.04
+martz911 cashed out the hand for $0.06
+*** SUMMARY ***
+Total pot $4.17 | Rake $0.15 
+Board [4d 2h 8h Ac 9c]
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 2: m-sapper showed [Ah As] and won ($4.02) with three of a kind, Aces (pot not awarded as player cashed out)
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 (button) folded before Flop (didn't bet)
+Seat 6: Kela1373 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: martz911 showed [Ks Qc] and lost with high card Ace (cashed out).
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951536618:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:32:17 PT [2021/12/05 1:32:17 ET]
+Table 'Guisan' 9-max Seat #6 is the button
+Seat 1: redblud ($2 in chips) 
+Seat 2: m-sapper ($3.94 in chips) 
+Seat 3: Lion9M ($3.71 in chips) 
+Seat 4: Tavrus32 ($3.04 in chips) 
+Seat 5: rpatenau91 ($1.36 in chips) 
+Seat 6: Kela1373 ($3.45 in chips) 
+Seat 7: Dorex2007 ($2.52 in chips) 
+Seat 9: STAIRUS1989 ($2.26 in chips) 
+Dorex2007: posts small blind $0.01
+STAIRUS1989: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Kc]
+redblud: calls $0.02
+m-sapper: folds 
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: calls $0.01
+STAIRUS1989: checks 
+*** FLOP *** [7h Jh Qd]
+Dorex2007: checks 
+STAIRUS1989: checks 
+Misno21 joins the table at seat #8 
+redblud is disconnected 
+redblud is connected 
+redblud: checks 
+*** TURN *** [7h Jh Qd] [4s]
+Dorex2007: checks 
+STAIRUS1989: bets $0.03
+redblud has timed out
+redblud: folds 
+Dorex2007: folds 
+Uncalled bet ($0.03) returned to STAIRUS1989
+STAIRUS1989 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [7h Jh Qd 4s]
+Seat 1: redblud folded on the Turn
+Seat 2: m-sapper folded before Flop (didn't bet)
+Seat 3: Lion9M folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded on the Turn
+Seat 9: STAIRUS1989 (big blind) collected ($0.06)
+
+
+
+PokerStars Hand #231951556991:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:34:35 PT [2021/12/05 1:34:35 ET]
+Table 'Guisan' 9-max Seat #7 is the button
+Seat 3: Lion9M ($3.71 in chips) 
+Seat 4: Tavrus32 ($3.04 in chips) 
+Seat 5: rpatenau91 ($1.36 in chips) 
+Seat 6: Kela1373 ($3.45 in chips) 
+Seat 7: Dorex2007 ($2.50 in chips) 
+Seat 9: STAIRUS1989 ($2.30 in chips) 
+STAIRUS1989: posts small blind $0.01
+m-sapper: is sitting out 
+Lion9M: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 2d]
+m-sapper is disconnected 
+Tavrus32: raises $0.04 to $0.06
+rpatenau91: calls $0.06
+Kela1373: folds 
+Dorex2007: folds 
+STAIRUS1989: folds 
+Lion9M: folds 
+*** FLOP *** [3h Qh 8d]
+Tavrus32: bets $0.09
+rpatenau91: folds 
+Uncalled bet ($0.09) returned to Tavrus32
+Tavrus32 collected $0.14 from pot
+Tavrus32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3h Qh 8d]
+Seat 3: Lion9M (big blind) folded before Flop
+Seat 4: Tavrus32 collected ($0.14)
+Seat 5: rpatenau91 folded on the Flop
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #231951562212:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:35:10 PT [2021/12/05 1:35:10 ET]
+Table 'Guisan' 9-max Seat #9 is the button
+Seat 3: Lion9M ($3.69 in chips) 
+Seat 4: Tavrus32 ($3.12 in chips) 
+Seat 5: rpatenau91 ($1.30 in chips) 
+Seat 6: Kela1373 ($3.45 in chips) 
+Seat 7: Dorex2007 ($2.50 in chips) 
+Seat 8: Misno21 ($2 in chips) 
+Seat 9: STAIRUS1989 ($2.29 in chips) 
+Lion9M: posts small blind $0.01
+Tavrus32: posts big blind $0.02
+Misno21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 9h]
+rpatenau91: calls $0.02
+Kela1373: raises $0.06 to $0.08
+Dorex2007: folds 
+Misno21: folds 
+STAIRUS1989: folds 
+Lion9M: folds 
+Tavrus32: folds 
+rpatenau91: calls $0.06
+*** FLOP *** [Ad Kd 8d]
+Lion9M leaves the table
+rpatenau91: checks 
+Kela1373: checks 
+*** TURN *** [Ad Kd 8d] [7d]
+rpatenau91: checks 
+Kela1373: bets $0.02
+rpatenau91: raises $0.12 to $0.14
+Kela1373: calls $0.12
+*** RIVER *** [Ad Kd 8d 7d] [9c]
+rpatenau91: bets $0.24
+Kela1373: calls $0.24
+*** SHOW DOWN ***
+rpatenau91: shows [8h 8s] (three of a kind, Eights)
+Kela1373: shows [Td Th] (a flush, Ace high)
+Kela1373 collected $0.94 from pot
+*** SUMMARY ***
+Total pot $0.97 | Rake $0.03 
+Board [Ad Kd 8d 7d 9c]
+Seat 3: Lion9M (small blind) folded before Flop
+Seat 4: Tavrus32 (big blind) folded before Flop
+Seat 5: rpatenau91 showed [8h 8s] and lost with three of a kind, Eights
+Seat 6: Kela1373 showed [Td Th] and won ($0.94) with a flush, Ace high
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: Misno21 folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951571747:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:36:15 PT [2021/12/05 1:36:15 ET]
+Table 'Guisan' 9-max Seat #4 is the button
+Seat 4: Tavrus32 ($3.10 in chips) 
+Seat 5: rpatenau91 ($0.84 in chips) 
+Seat 6: Kela1373 ($3.93 in chips) 
+Seat 7: Dorex2007 ($2.50 in chips) 
+Seat 8: Misno21 ($1.98 in chips) 
+Seat 9: STAIRUS1989 ($2.29 in chips) 
+rpatenau91: posts small blind $0.01
+Kela1373: posts big blind $0.02
+m-sapper has timed out while disconnected
+m-sapper: is sitting out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 5d]
+Dorex2007: folds 
+Misno21: folds 
+STAIRUS1989: folds 
+Dudelinger joins the table at seat #3 
+Tavrus32: folds 
+rpatenau91: folds 
+Uncalled bet ($0.01) returned to Kela1373
+Kela1373 collected $0.02 from pot
+Kela1373: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 4: Tavrus32 (button) folded before Flop (didn't bet)
+Seat 5: rpatenau91 (small blind) folded before Flop
+Seat 6: Kela1373 (big blind) collected ($0.02)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: Misno21 folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951575987:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:36:44 PT [2021/12/05 1:36:44 ET]
+Table 'Guisan' 9-max Seat #5 is the button
+Seat 1: redblud ($1.98 in chips) 
+Seat 4: Tavrus32 ($3.10 in chips) 
+Seat 5: rpatenau91 ($0.83 in chips) 
+Seat 6: Kela1373 ($3.94 in chips) 
+Seat 7: Dorex2007 ($2.50 in chips) 
+Seat 8: Misno21 ($1.98 in chips) 
+Seat 9: STAIRUS1989 ($2.29 in chips) 
+Kela1373: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+redblud: posts small & big blinds $0.03
+Dudelinger: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 4c]
+Misno21: folds 
+STAIRUS1989: folds 
+redblud: checks 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373 is disconnected 
+Kela1373 is connected 
+Dudelinger leaves the table
+Kela1373: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [4d Ah Qs]
+Kela1373: checks 
+Dorex2007: checks 
+redblud: bets $0.02
+Kela1373: calls $0.02
+Dorex2007: calls $0.02
+*** TURN *** [4d Ah Qs] [6c]
+Kela1373: checks 
+Dorex2007: checks 
+redblud: bets $0.13
+Kela1373: folds 
+Dorex2007: folds 
+Uncalled bet ($0.13) returned to redblud
+redblud collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4d Ah Qs 6c]
+Seat 1: redblud collected ($0.13)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 (button) folded before Flop (didn't bet)
+Seat 6: Kela1373 (small blind) folded on the Turn
+Seat 7: Dorex2007 (big blind) folded on the Turn
+Seat 8: Misno21 folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951586312:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:37:56 PT [2021/12/05 1:37:56 ET]
+Table 'Guisan' 9-max Seat #6 is the button
+Seat 1: redblud ($2.06 in chips) 
+Seat 4: Tavrus32 ($3.10 in chips) 
+Seat 5: rpatenau91 ($0.83 in chips) 
+Seat 6: Kela1373 ($3.90 in chips) 
+Seat 7: Dorex2007 ($2.46 in chips) 
+Seat 8: Misno21 ($1.98 in chips) 
+Seat 9: STAIRUS1989 ($2.29 in chips) 
+Dorex2007: posts small blind $0.01
+Misno21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Jh]
+STAIRUS1989: folds 
+redblud: folds 
+Andy_Plant1 joins the table at seat #3 
+Tavrus32: raises $0.04 to $0.06
+rpatenau91: folds 
+Kela1373: calls $0.06
+Dorex2007: folds 
+Misno21: folds 
+*** FLOP *** [Td 7s 3c]
+Tavrus32: bets $0.09
+Kela1373: folds 
+Uncalled bet ($0.09) returned to Tavrus32
+Tavrus32 collected $0.14 from pot
+Tavrus32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Td 7s 3c]
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 4: Tavrus32 collected ($0.14)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 (button) folded on the Flop
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: Misno21 (big blind) folded before Flop
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951590831:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:38:27 PT [2021/12/05 1:38:27 ET]
+Table 'Guisan' 9-max Seat #7 is the button
+Seat 1: redblud ($2.06 in chips) 
+Seat 4: Tavrus32 ($3.18 in chips) 
+Seat 5: rpatenau91 ($0.83 in chips) 
+Seat 6: Kela1373 ($3.84 in chips) 
+Seat 7: Dorex2007 ($2.45 in chips) 
+Seat 8: Misno21 ($1.96 in chips) 
+Seat 9: STAIRUS1989 ($2.29 in chips) 
+Misno21: posts small blind $0.01
+STAIRUS1989: posts big blind $0.02
+Andy_Plant1: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 6s]
+redblud: folds 
+Tavrus32: folds 
+rpatenau91: folds 
+Kela1373: folds 
+Dorex2007: folds 
+Misno21: calls $0.01
+STAIRUS1989: checks 
+*** FLOP *** [2s 2h 3s]
+Misno21: bets $0.04
+STAIRUS1989: folds 
+Uncalled bet ($0.04) returned to Misno21
+Misno21 collected $0.04 from pot
+Misno21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [2s 2h 3s]
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 4: Tavrus32 folded before Flop (didn't bet)
+Seat 5: rpatenau91 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: Misno21 (small blind) collected ($0.04)
+Seat 9: STAIRUS1989 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #231951595539:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:38:59 PT [2021/12/05 1:38:59 ET]
+Table 'Guisan' 9-max Seat #8 is the button
+Seat 1: redblud ($2.06 in chips) 
+Seat 4: Tavrus32 ($3.18 in chips) 
+Seat 5: rpatenau91 ($0.83 in chips) 
+Seat 6: Kela1373 ($3.84 in chips) 
+Seat 7: Dorex2007 ($2.45 in chips) 
+Seat 8: Misno21 ($1.98 in chips) 
+Seat 9: STAIRUS1989 ($2.27 in chips) 
+STAIRUS1989: posts small blind $0.01
+redblud: posts big blind $0.02
+Andy_Plant1: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 9s]
+Tavrus32: raises $0.04 to $0.06
+rpatenau91: calls $0.06
+Kela1373: folds 
+Dorex2007: folds 
+Misno21: folds 
+STAIRUS1989: folds 
+redblud: calls $0.04
+*** FLOP *** [Qc 3c 8h]
+redblud: bets $0.02
+Tavrus32: raises $0.16 to $0.18
+rpatenau91: calls $0.18
+redblud: calls $0.16
+*** TURN *** [Qc 3c 8h] [Ks]
+redblud: checks 
+Tavrus32: bets $0.62
+rpatenau91: calls $0.59 and is all-in
+redblud: folds 
+Uncalled bet ($0.03) returned to Tavrus32
+*** RIVER *** [Qc 3c 8h Ks] [4h]
+*** SHOW DOWN ***
+Tavrus32: shows [Qd Qh] (three of a kind, Queens)
+rpatenau91: shows [9h 9c] (a pair of Nines)
+Tavrus32 collected $1.84 from pot
+*** SUMMARY ***
+Total pot $1.91 | Rake $0.07 
+Board [Qc 3c 8h Ks 4h]
+Seat 1: redblud (big blind) folded on the Turn
+Seat 4: Tavrus32 showed [Qd Qh] and won ($1.84) with three of a kind, Queens
+Seat 5: rpatenau91 showed [9h 9c] and lost with a pair of Nines
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: Misno21 (button) folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #231951615654:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:40:14 PT [2021/12/05 1:40:14 ET]
+Table 'Guisan' 9-max Seat #9 is the button
+Seat 1: redblud ($1.82 in chips) 
+Seat 3: Andy_Plant1 ($2 in chips) 
+Seat 4: Tavrus32 ($4.19 in chips) 
+Seat 6: Kela1373 ($3.84 in chips) 
+Seat 7: Dorex2007 ($2.45 in chips) 
+Seat 8: Misno21 ($1.98 in chips) 
+Seat 9: STAIRUS1989 ($2.26 in chips) 
+rpatenau91 leaves the table
+redblud: posts small blind $0.01
+Andy_Plant1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Kd]
+Tavrus32: raises $0.04 to $0.06
+Kela1373: folds 
+Dorex2007: folds 
+Misno21: folds 
+STAIRUS1989: folds 
+redblud: folds 
+Andy_Plant1: folds 
+Uncalled bet ($0.04) returned to Tavrus32
+Tavrus32 collected $0.05 from pot
+Tavrus32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: redblud (small blind) folded before Flop
+Seat 3: Andy_Plant1 (big blind) folded before Flop
+Seat 4: Tavrus32 collected ($0.05)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: Misno21 folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951618634:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:40:34 PT [2021/12/05 1:40:34 ET]
+Table 'Guisan' 9-max Seat #1 is the button
+Seat 1: redblud ($1.81 in chips) 
+Seat 3: Andy_Plant1 ($2 in chips) 
+Seat 4: Tavrus32 ($4.22 in chips) 
+Seat 6: Kela1373 ($3.84 in chips) 
+Seat 7: Dorex2007 ($2.45 in chips) 
+Seat 8: Misno21 ($1.98 in chips) 
+Seat 9: STAIRUS1989 ($2.26 in chips) 
+Andy_Plant1: posts small blind $0.01
+Tavrus32: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Kh]
+Hockeist777 joins the table at seat #5 
+Kela1373: calls $0.02
+Dorex2007: folds 
+Misno21: raises $0.02 to $0.04
+STAIRUS1989: calls $0.04
+redblud has timed out
+redblud: folds 
+Andy_Plant1: folds 
+Tavrus32: folds 
+Kela1373: calls $0.02
+*** FLOP *** [9h 3s 9c]
+Kela1373: checks 
+Misno21: bets $0.04
+STAIRUS1989: folds 
+Kela1373: folds 
+Uncalled bet ($0.04) returned to Misno21
+Misno21 collected $0.14 from pot
+Misno21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9h 3s 9c]
+Seat 1: redblud (button) folded before Flop (didn't bet)
+Seat 3: Andy_Plant1 (small blind) folded before Flop
+Seat 4: Tavrus32 (big blind) folded before Flop
+Seat 6: Kela1373 folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: Misno21 collected ($0.14)
+Seat 9: STAIRUS1989 folded on the Flop
+
+
+
+PokerStars Hand #231951627557:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:41:33 PT [2021/12/05 1:41:33 ET]
+Table 'Guisan' 9-max Seat #3 is the button
+Seat 1: redblud ($1.81 in chips) 
+Seat 3: Andy_Plant1 ($2 in chips) 
+Seat 4: Tavrus32 ($4.20 in chips) 
+Seat 5: Hockeist777 ($1.60 in chips) 
+Seat 6: Kela1373 ($3.80 in chips) 
+Seat 7: Dorex2007 ($2.45 in chips) 
+Seat 8: Misno21 ($2.08 in chips) 
+Seat 9: STAIRUS1989 ($2.22 in chips) 
+Tavrus32: posts small blind $0.01
+Hockeist777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Ac]
+Kela1373: folds 
+Dorex2007: folds 
+Misno21: folds 
+STAIRUS1989: folds 
+redblud: calls $0.02
+Andy_Plant1: folds 
+Tavrus32: folds 
+Hockeist777 has timed out
+Hockeist777: checks 
+*** FLOP *** [5d Js Qh]
+Hockeist777: checks 
+redblud: checks 
+*** TURN *** [5d Js Qh] [7d]
+Hockeist777: checks 
+redblud: checks 
+*** RIVER *** [5d Js Qh 7d] [2d]
+Hockeist777: checks 
+redblud: checks 
+*** SHOW DOWN ***
+Hockeist777: shows [9h Ts] (high card Queen)
+redblud: shows [Ah 4h] (high card Ace)
+redblud collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5d Js Qh 7d 2d]
+Seat 1: redblud showed [Ah 4h] and won ($0.05) with high card Ace
+Seat 3: Andy_Plant1 (button) folded before Flop (didn't bet)
+Seat 4: Tavrus32 (small blind) folded before Flop
+Seat 5: Hockeist777 (big blind) showed [9h Ts] and lost with high card Queen
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: Misno21 folded before Flop (didn't bet)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231951636393:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/04 22:42:32 PT [2021/12/05 1:42:32 ET]
+Table 'Guisan' 9-max Seat #4 is the button
+Seat 1: redblud ($1.84 in chips) 
+Seat 3: Andy_Plant1 ($2 in chips) 
+Seat 4: Tavrus32 ($4.19 in chips) 
+Seat 5: Hockeist777 ($1.58 in chips) 
+Seat 6: Kela1373 ($3.80 in chips) 
+Seat 7: Dorex2007 ($2.45 in chips) 
+Seat 8: Misno21 ($2.08 in chips) 
+Seat 9: STAIRUS1989 ($2.22 in chips) 
+Hockeist777: posts small blind $0.01
+Kela1373: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Qh]
+Dorex2007: folds 
+Misno21: raises $0.04 to $0.06
+STAIRUS1989: folds 
+redblud: folds 
+Andy_Plant1: folds 
+Tavrus32: folds 
+Hockeist777: folds 
+Kela1373: calls $0.04
+*** FLOP *** [Js 9c Kc]
+Kela1373: bets $0.07
+Misno21: raises $0.13 to $0.20
+Kela1373: folds 
+Uncalled bet ($0.13) returned to Misno21
+Misno21 collected $0.26 from pot
+Misno21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Js 9c Kc]
+Seat 1: redblud folded before Flop (didn't bet)
+Seat 3: Andy_Plant1 folded before Flop (didn't bet)
+Seat 4: Tavrus32 (button) folded before Flop (didn't bet)
+Seat 5: Hockeist777 (small blind) folded before Flop
+Seat 6: Kela1373 (big blind) folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: Misno21 collected ($0.26)
+Seat 9: STAIRUS1989 folded before Flop (didn't bet)
+
+
+

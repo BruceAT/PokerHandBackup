@@ -1,0 +1,2551 @@
+﻿PokerStars Hand #229318184760:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:40:49 PT [2021/08/25 2:40:49 ET]
+Table 'Alfaterna' 9-max Seat #2 is the button
+Seat 2: birgit233 ($0.76 in chips) 
+Seat 3: 2040800 ($2.28 in chips) 
+Seat 4: AnException ($1.72 in chips) 
+Seat 5: Kela1373 ($2.03 in chips) 
+Seat 6: h1_tech_1mba ($2 in chips) 
+Seat 7: Greeny'R ($2.38 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2 in chips) 
+2040800: posts small blind $0.01
+AnException: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh As]
+Kela1373: folds 
+h1_tech_1mba: folds 
+Greeny'R: folds 
+sleeper hipi: folds 
+Dorex2007: raises $0.02 to $0.04
+birgit233: folds 
+2040800: calls $0.03
+AnException: folds 
+*** FLOP *** [2s 2d 7c]
+2040800: checks 
+Dorex2007: bets $0.10
+2040800: folds 
+Uncalled bet ($0.10) returned to Dorex2007
+Dorex2007 collected $0.10 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [2s 2d 7c]
+Seat 2: birgit233 (button) folded before Flop (didn't bet)
+Seat 3: 2040800 (small blind) folded on the Flop
+Seat 4: AnException (big blind) folded before Flop
+Seat 5: Kela1373 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: Greeny'R folded before Flop (didn't bet)
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 collected ($0.10)
+
+
+
+PokerStars Hand #229318188429:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:41:16 PT [2021/08/25 2:41:16 ET]
+Table 'Alfaterna' 9-max Seat #3 is the button
+Seat 2: birgit233 ($0.76 in chips) 
+Seat 3: 2040800 ($2.24 in chips) 
+Seat 4: AnException ($1.70 in chips) 
+Seat 5: Kela1373 ($2.03 in chips) 
+Seat 6: h1_tech_1mba ($2 in chips) 
+Seat 7: Greeny'R ($2.38 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.06 in chips) 
+AnException: posts small blind $0.01
+Kela1373: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 7d]
+h1_tech_1mba: raises $0.04 to $0.06
+Greeny'R: calls $0.06
+sleeper hipi: folds 
+Dorex2007: folds 
+birgit233: folds 
+2040800: folds 
+AnException: folds 
+Kela1373: calls $0.04
+*** FLOP *** [2c 9d 4h]
+Kela1373: checks 
+h1_tech_1mba: checks 
+Greeny'R: checks 
+*** TURN *** [2c 9d 4h] [7c]
+Kela1373: checks 
+h1_tech_1mba: checks 
+Greeny'R: bets $0.02
+Kela1373: calls $0.02
+h1_tech_1mba: folds 
+*** RIVER *** [2c 9d 4h 7c] [6c]
+Kela1373: bets $0.02
+Greeny'R: raises $0.02 to $0.04
+Kela1373: calls $0.02
+*** SHOW DOWN ***
+Greeny'R: shows [Qs Qd] (a pair of Queens)
+Kela1373: mucks hand 
+Greeny'R collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [2c 9d 4h 7c 6c]
+Seat 2: birgit233 folded before Flop (didn't bet)
+Seat 3: 2040800 (button) folded before Flop (didn't bet)
+Seat 4: AnException (small blind) folded before Flop
+Seat 5: Kela1373 (big blind) mucked [Js As]
+Seat 6: h1_tech_1mba folded on the Turn
+Seat 7: Greeny'R showed [Qs Qd] and won ($0.30) with a pair of Queens
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318194677:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:42:01 PT [2021/08/25 2:42:01 ET]
+Table 'Alfaterna' 9-max Seat #4 is the button
+Seat 2: birgit233 ($0.76 in chips) 
+Seat 3: 2040800 ($2.24 in chips) 
+Seat 4: AnException ($1.69 in chips) 
+Seat 5: Kela1373 ($2 in chips) 
+Seat 6: h1_tech_1mba ($2 in chips) 
+Seat 7: Greeny'R ($2.56 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.06 in chips) 
+Kela1373: posts small blind $0.01
+h1_tech_1mba: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 3h]
+Greeny'R: folds 
+sleeper hipi has timed out
+sleeper hipi: folds 
+Dorex2007: folds 
+birgit233: raises $0.06 to $0.08
+2040800: folds 
+AnException: folds 
+Kela1373: folds 
+h1_tech_1mba: folds 
+Uncalled bet ($0.06) returned to birgit233
+birgit233 collected $0.05 from pot
+birgit233: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: birgit233 collected ($0.05)
+Seat 3: 2040800 folded before Flop (didn't bet)
+Seat 4: AnException (button) folded before Flop (didn't bet)
+Seat 5: Kela1373 (small blind) folded before Flop
+Seat 6: h1_tech_1mba (big blind) folded before Flop
+Seat 7: Greeny'R folded before Flop (didn't bet)
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318197769:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:42:24 PT [2021/08/25 2:42:24 ET]
+Table 'Alfaterna' 9-max Seat #5 is the button
+Seat 2: birgit233 ($0.79 in chips) 
+Seat 3: 2040800 ($2.24 in chips) 
+Seat 4: AnException ($1.69 in chips) 
+Seat 5: Kela1373 ($2 in chips) 
+Seat 6: h1_tech_1mba ($2 in chips) 
+Seat 7: Greeny'R ($2.56 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.06 in chips) 
+h1_tech_1mba: posts small blind $0.01
+Greeny'R: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Ad]
+sleeper hipi: folds 
+Dorex2007: folds 
+birgit233: folds 
+2040800: folds 
+AnException: folds 
+Kela1373: folds 
+h1_tech_1mba: folds 
+Uncalled bet ($0.01) returned to Greeny'R
+Greeny'R collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: birgit233 folded before Flop (didn't bet)
+Seat 3: 2040800 folded before Flop (didn't bet)
+Seat 4: AnException folded before Flop (didn't bet)
+Seat 5: Kela1373 (button) folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba (small blind) folded before Flop
+Seat 7: Greeny'R (big blind) collected ($0.02)
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318200139:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:42:41 PT [2021/08/25 2:42:41 ET]
+Table 'Alfaterna' 9-max Seat #6 is the button
+Seat 2: birgit233 ($0.79 in chips) 
+Seat 3: 2040800 ($2.24 in chips) 
+Seat 4: AnException ($1.69 in chips) 
+Seat 5: Kela1373 ($2 in chips) 
+Seat 6: h1_tech_1mba ($2 in chips) 
+Seat 7: Greeny'R ($2.57 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.06 in chips) 
+Greeny'R: posts small blind $0.01
+sleeper hipi: posts big blind $0.02
+GeorgeRussel: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 8s]
+Dorex2007: folds 
+birgit233: folds 
+2040800: folds 
+AnException: folds 
+Kela1373: folds 
+h1_tech_1mba: raises $0.03 to $0.05
+Greeny'R: calls $0.04
+sleeper hipi: folds 
+*** FLOP *** [Ad Ah Td]
+Greeny'R: checks 
+h1_tech_1mba: bets $0.06
+GeorgeRussel leaves the table
+Greeny'R: folds 
+Uncalled bet ($0.06) returned to h1_tech_1mba
+h1_tech_1mba collected $0.12 from pot
+h1_tech_1mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ad Ah Td]
+Seat 2: birgit233 folded before Flop (didn't bet)
+Seat 3: 2040800 folded before Flop (didn't bet)
+Seat 4: AnException folded before Flop (didn't bet)
+Seat 5: Kela1373 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba (button) collected ($0.12)
+Seat 7: Greeny'R (small blind) folded on the Flop
+Seat 8: sleeper hipi (big blind) folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318205191:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:43:16 PT [2021/08/25 2:43:16 ET]
+Table 'Alfaterna' 9-max Seat #7 is the button
+Seat 2: birgit233 ($0.79 in chips) 
+Seat 3: 2040800 ($2.24 in chips) 
+Seat 4: AnException ($1.69 in chips) 
+Seat 5: Kela1373 ($2 in chips) 
+Seat 6: h1_tech_1mba ($2.07 in chips) 
+Seat 7: Greeny'R ($2.52 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.06 in chips) 
+sleeper hipi: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s Kc]
+birgit233: folds 
+2040800: calls $0.02
+Zexion1993 joins the table at seat #1 
+AnException: folds 
+Kela1373: calls $0.02
+h1_tech_1mba: folds 
+Greeny'R: folds 
+sleeper hipi: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [7h 6d 5d]
+sleeper hipi: checks 
+Dorex2007: checks 
+2040800: checks 
+Kela1373: checks 
+*** TURN *** [7h 6d 5d] [Qc]
+sleeper hipi: checks 
+Dorex2007: checks 
+2040800: checks 
+Kela1373: checks 
+*** RIVER *** [7h 6d 5d Qc] [2c]
+sleeper hipi: checks 
+Dorex2007: checks 
+2040800: checks 
+Kela1373: checks 
+*** SHOW DOWN ***
+sleeper hipi: shows [Kh Td] (high card King)
+Dorex2007: mucks hand 
+2040800: shows [Th Kd] (high card King)
+Kela1373: shows [8c 8s] (a pair of Eights)
+Kela1373 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [7h 6d 5d Qc 2c]
+Seat 2: birgit233 folded before Flop (didn't bet)
+Seat 3: 2040800 showed [Th Kd] and lost with high card King
+Seat 4: AnException folded before Flop (didn't bet)
+Seat 5: Kela1373 showed [8c 8s] and won ($0.08) with a pair of Eights
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: Greeny'R (button) folded before Flop (didn't bet)
+Seat 8: sleeper hipi (small blind) showed [Kh Td] and lost with high card King
+Seat 9: Dorex2007 (big blind) mucked [3s Kc]
+
+
+
+PokerStars Hand #229318212065:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:44:05 PT [2021/08/25 2:44:05 ET]
+Table 'Alfaterna' 9-max Seat #8 is the button
+Seat 1: Zexion1993 ($1.60 in chips) 
+Seat 2: birgit233 ($0.79 in chips) 
+Seat 3: 2040800 ($2.22 in chips) 
+Seat 4: AnException ($1.69 in chips) 
+Seat 5: Kela1373 ($2.06 in chips) 
+Seat 6: h1_tech_1mba ($2.07 in chips) 
+Seat 7: Greeny'R ($2.52 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.04 in chips) 
+Dorex2007: posts small blind $0.01
+Zexion1993: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad Kc]
+birgit233: folds 
+2040800: folds 
+AnException: folds 
+Kela1373: folds 
+h1_tech_1mba: folds 
+Greeny'R: folds 
+sleeper hipi: raises $0.04 to $0.06
+Dorex2007: calls $0.05
+Zexion1993: folds 
+*** FLOP *** [Jd Qh 5s]
+Dorex2007: bets $0.07
+sleeper hipi: folds 
+Uncalled bet ($0.07) returned to Dorex2007
+Dorex2007 collected $0.14 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Jd Qh 5s]
+Seat 1: Zexion1993 (big blind) folded before Flop
+Seat 2: birgit233 folded before Flop (didn't bet)
+Seat 3: 2040800 folded before Flop (didn't bet)
+Seat 4: AnException folded before Flop (didn't bet)
+Seat 5: Kela1373 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: Greeny'R folded before Flop (didn't bet)
+Seat 8: sleeper hipi (button) folded on the Flop
+Seat 9: Dorex2007 (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #229318216393:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:44:36 PT [2021/08/25 2:44:36 ET]
+Table 'Alfaterna' 9-max Seat #9 is the button
+Seat 1: Zexion1993 ($2 in chips) 
+Seat 2: birgit233 ($0.79 in chips) 
+Seat 3: 2040800 ($2.22 in chips) 
+Seat 4: AnException ($1.69 in chips) 
+Seat 5: Kela1373 ($2.06 in chips) 
+Seat 6: h1_tech_1mba ($2.07 in chips) 
+Seat 7: Greeny'R ($2.52 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.12 in chips) 
+Zexion1993: posts small blind $0.01
+birgit233: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 8d]
+2040800: folds 
+AnException: folds 
+Kela1373: folds 
+h1_tech_1mba: folds 
+Greeny'R: folds 
+sleeper hipi: folds 
+Dorex2007: folds 
+Zexion1993: folds 
+Uncalled bet ($0.01) returned to birgit233
+birgit233 collected $0.02 from pot
+birgit233: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Zexion1993 (small blind) folded before Flop
+Seat 2: birgit233 (big blind) collected ($0.02)
+Seat 3: 2040800 folded before Flop (didn't bet)
+Seat 4: AnException folded before Flop (didn't bet)
+Seat 5: Kela1373 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: Greeny'R folded before Flop (didn't bet)
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318219234:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:44:56 PT [2021/08/25 2:44:56 ET]
+Table 'Alfaterna' 9-max Seat #1 is the button
+Seat 1: Zexion1993 ($2 in chips) 
+Seat 2: birgit233 ($0.80 in chips) 
+Seat 3: 2040800 ($2.22 in chips) 
+Seat 4: AnException ($1.69 in chips) 
+Seat 5: Kela1373 ($2.06 in chips) 
+Seat 6: h1_tech_1mba ($2.07 in chips) 
+Seat 7: Greeny'R ($2.52 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.12 in chips) 
+birgit233: posts small blind $0.01
+2040800: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Td]
+AnException: calls $0.02
+Kela1373: folds 
+h1_tech_1mba: folds 
+Greeny'R: calls $0.02
+sleeper hipi: folds 
+Dorex2007: folds 
+Zexion1993: raises $0.08 to $0.10
+birgit233: folds 
+2040800: folds 
+AnException: folds 
+Greeny'R: calls $0.08
+*** FLOP *** [8d 6c 5s]
+Greeny'R: checks 
+Zexion1993: bets $0.12
+Greeny'R: folds 
+Uncalled bet ($0.12) returned to Zexion1993
+Zexion1993 collected $0.24 from pot
+Zexion1993: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [8d 6c 5s]
+Seat 1: Zexion1993 (button) collected ($0.24)
+Seat 2: birgit233 (small blind) folded before Flop
+Seat 3: 2040800 (big blind) folded before Flop
+Seat 4: AnException folded before Flop
+Seat 5: Kela1373 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: Greeny'R folded on the Flop
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318225505:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:45:41 PT [2021/08/25 2:45:41 ET]
+Table 'Alfaterna' 9-max Seat #2 is the button
+Seat 1: Zexion1993 ($2.14 in chips) 
+Seat 2: birgit233 ($0.79 in chips) 
+Seat 3: 2040800 ($2.20 in chips) 
+Seat 4: AnException ($1.67 in chips) 
+Seat 5: Kela1373 ($2.06 in chips) 
+Seat 6: h1_tech_1mba ($2.07 in chips) 
+Seat 7: Greeny'R ($2.42 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.12 in chips) 
+2040800: posts small blind $0.01
+AnException: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Td]
+Kela1373: folds 
+h1_tech_1mba: folds 
+Greeny'R: calls $0.02
+sleeper hipi: calls $0.02
+Dorex2007: calls $0.02
+Zexion1993: folds 
+birgit233: folds 
+2040800: calls $0.01
+AnException: checks 
+*** FLOP *** [3c 6h Tc]
+2040800: checks 
+AnException: checks 
+Greeny'R: checks 
+sleeper hipi: checks 
+Dorex2007: bets $0.10
+2040800: calls $0.10
+AnException: folds 
+Greeny'R: folds 
+sleeper hipi: folds 
+*** TURN *** [3c 6h Tc] [Kc]
+2040800: bets $0.10
+Dorex2007: calls $0.10
+*** RIVER *** [3c 6h Tc Kc] [2c]
+2040800: bets $0.08
+Dorex2007: raises $1.82 to $1.90 and is all-in
+2040800: folds 
+Uncalled bet ($1.82) returned to Dorex2007
+Dorex2007 collected $0.64 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.02 
+Board [3c 6h Tc Kc 2c]
+Seat 1: Zexion1993 folded before Flop (didn't bet)
+Seat 2: birgit233 (button) folded before Flop (didn't bet)
+Seat 3: 2040800 (small blind) folded on the River
+Seat 4: AnException (big blind) folded on the Flop
+Seat 5: Kela1373 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: Greeny'R folded on the Flop
+Seat 8: sleeper hipi folded on the Flop
+Seat 9: Dorex2007 collected ($0.64)
+
+
+
+PokerStars Hand #229318235888:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:46:54 PT [2021/08/25 2:46:54 ET]
+Table 'Alfaterna' 9-max Seat #3 is the button
+Seat 1: Zexion1993 ($2.14 in chips) 
+Seat 2: birgit233 ($0.79 in chips) 
+Seat 3: 2040800 ($1.90 in chips) 
+Seat 4: AnException ($1.65 in chips) 
+Seat 5: Kela1373 ($2.06 in chips) 
+Seat 6: h1_tech_1mba ($2.07 in chips) 
+Seat 7: Greeny'R ($2.40 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.46 in chips) 
+AnException: posts small blind $0.01
+Kela1373: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Th]
+h1_tech_1mba: folds 
+Greeny'R: folds 
+sleeper hipi: folds 
+Dorex2007: folds 
+Zexion1993: folds 
+birgit233: folds 
+2040800: folds 
+AnException: folds 
+Uncalled bet ($0.01) returned to Kela1373
+Kela1373 collected $0.02 from pot
+Kela1373: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Zexion1993 folded before Flop (didn't bet)
+Seat 2: birgit233 folded before Flop (didn't bet)
+Seat 3: 2040800 (button) folded before Flop (didn't bet)
+Seat 4: AnException (small blind) folded before Flop
+Seat 5: Kela1373 (big blind) collected ($0.02)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: Greeny'R folded before Flop (didn't bet)
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318238210:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:47:10 PT [2021/08/25 2:47:10 ET]
+Table 'Alfaterna' 9-max Seat #4 is the button
+Seat 1: Zexion1993 ($2.14 in chips) 
+Seat 2: birgit233 ($0.79 in chips) 
+Seat 3: 2040800 ($1.90 in chips) 
+Seat 4: AnException ($1.64 in chips) 
+Seat 5: Kela1373 ($2.07 in chips) 
+Seat 6: h1_tech_1mba ($2.07 in chips) 
+Seat 7: Greeny'R ($2.40 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.46 in chips) 
+Kela1373: posts small blind $0.01
+h1_tech_1mba: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 8s]
+Greeny'R: folds 
+sleeper hipi: raises $0.04 to $0.06
+Dorex2007: folds 
+Zexion1993: folds 
+birgit233: folds 
+2040800: folds 
+AnException: folds 
+Kela1373: folds 
+h1_tech_1mba: folds 
+Uncalled bet ($0.04) returned to sleeper hipi
+sleeper hipi collected $0.05 from pot
+sleeper hipi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Zexion1993 folded before Flop (didn't bet)
+Seat 2: birgit233 folded before Flop (didn't bet)
+Seat 3: 2040800 folded before Flop (didn't bet)
+Seat 4: AnException (button) folded before Flop (didn't bet)
+Seat 5: Kela1373 (small blind) folded before Flop
+Seat 6: h1_tech_1mba (big blind) folded before Flop
+Seat 7: Greeny'R folded before Flop (didn't bet)
+Seat 8: sleeper hipi collected ($0.05)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318241339:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:47:32 PT [2021/08/25 2:47:32 ET]
+Table 'Alfaterna' 9-max Seat #5 is the button
+Seat 1: Zexion1993 ($2.14 in chips) 
+Seat 2: birgit233 ($0.79 in chips) 
+Seat 3: 2040800 ($1.90 in chips) 
+Seat 4: AnException ($1.64 in chips) 
+Seat 5: Kela1373 ($2.06 in chips) 
+Seat 6: h1_tech_1mba ($2.05 in chips) 
+Seat 7: Greeny'R ($2.40 in chips) 
+Seat 8: sleeper hipi ($2.03 in chips) 
+Seat 9: Dorex2007 ($2.46 in chips) 
+h1_tech_1mba: posts small blind $0.01
+Greeny'R: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Kc]
+sleeper hipi: folds 
+Dorex2007: folds 
+Zexion1993: raises $0.06 to $0.08
+birgit233: folds 
+2040800: folds 
+AnException: folds 
+Kela1373: calls $0.08
+h1_tech_1mba: folds 
+Greeny'R: folds 
+*** FLOP *** [Kd 6d Qc]
+Zexion1993: checks 
+Kela1373: bets $0.06
+Zexion1993: folds 
+Uncalled bet ($0.06) returned to Kela1373
+Kela1373 collected $0.18 from pot
+Kela1373: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Kd 6d Qc]
+Seat 1: Zexion1993 folded on the Flop
+Seat 2: birgit233 folded before Flop (didn't bet)
+Seat 3: 2040800 folded before Flop (didn't bet)
+Seat 4: AnException folded before Flop (didn't bet)
+Seat 5: Kela1373 (button) collected ($0.18)
+Seat 6: h1_tech_1mba (small blind) folded before Flop
+Seat 7: Greeny'R (big blind) folded before Flop
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318250382:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:48:34 PT [2021/08/25 2:48:34 ET]
+Table 'Alfaterna' 9-max Seat #6 is the button
+Seat 1: Zexion1993 ($2.06 in chips) 
+Seat 2: birgit233 ($0.79 in chips) 
+Seat 3: 2040800 ($1.90 in chips) 
+Seat 4: AnException ($1.64 in chips) 
+Seat 5: Kela1373 ($2.16 in chips) 
+Seat 6: h1_tech_1mba ($2.04 in chips) 
+Seat 7: Greeny'R ($2.38 in chips) 
+Seat 8: sleeper hipi ($2.03 in chips) 
+Seat 9: Dorex2007 ($2.46 in chips) 
+Greeny'R: posts small blind $0.01
+sleeper hipi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 5h]
+Dorex2007: folds 
+Zexion1993: folds 
+birgit233: folds 
+2040800: calls $0.02
+AnException: calls $0.02
+Kela1373: folds 
+h1_tech_1mba: folds 
+Greeny'R: folds 
+sleeper hipi: checks 
+*** FLOP *** [Td 2s Qs]
+sleeper hipi: checks 
+2040800: bets $0.04
+AnException: calls $0.04
+sleeper hipi: folds 
+*** TURN *** [Td 2s Qs] [Jc]
+2040800: bets $0.06
+AnException: calls $0.06
+*** RIVER *** [Td 2s Qs Jc] [9d]
+2040800: bets $0.08
+AnException: calls $0.08
+*** SHOW DOWN ***
+2040800: shows [6s 8s] (a straight, Eight to Queen)
+AnException: mucks hand 
+2040800 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [Td 2s Qs Jc 9d]
+Seat 1: Zexion1993 folded before Flop (didn't bet)
+Seat 2: birgit233 folded before Flop (didn't bet)
+Seat 3: 2040800 showed [6s 8s] and won ($0.41) with a straight, Eight to Queen
+Seat 4: AnException mucked [Tc As]
+Seat 5: Kela1373 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba (button) folded before Flop (didn't bet)
+Seat 7: Greeny'R (small blind) folded before Flop
+Seat 8: sleeper hipi (big blind) folded on the Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318256896:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:49:20 PT [2021/08/25 2:49:20 ET]
+Table 'Alfaterna' 9-max Seat #7 is the button
+Seat 1: Zexion1993 ($2.06 in chips) 
+Seat 2: birgit233 ($0.79 in chips) 
+Seat 3: 2040800 ($2.11 in chips) 
+Seat 4: AnException ($1.44 in chips) 
+Seat 5: Kela1373 ($2.16 in chips) 
+Seat 6: h1_tech_1mba ($2.04 in chips) 
+Seat 7: Greeny'R ($2.37 in chips) 
+Seat 8: sleeper hipi ($2.01 in chips) 
+Seat 9: Dorex2007 ($2.46 in chips) 
+sleeper hipi: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c As]
+Zexion1993: folds 
+birgit233: raises $0.06 to $0.08
+2040800: folds 
+AnException: folds 
+Kela1373: folds 
+h1_tech_1mba: folds 
+Greeny'R: folds 
+sleeper hipi: folds 
+Dorex2007: folds 
+Uncalled bet ($0.06) returned to birgit233
+birgit233 collected $0.05 from pot
+birgit233: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Zexion1993 folded before Flop (didn't bet)
+Seat 2: birgit233 collected ($0.05)
+Seat 3: 2040800 folded before Flop (didn't bet)
+Seat 4: AnException folded before Flop (didn't bet)
+Seat 5: Kela1373 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: Greeny'R (button) folded before Flop (didn't bet)
+Seat 8: sleeper hipi (small blind) folded before Flop
+Seat 9: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #229318261124:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:49:49 PT [2021/08/25 2:49:49 ET]
+Table 'Alfaterna' 9-max Seat #8 is the button
+Seat 1: Zexion1993 ($2.06 in chips) 
+Seat 2: birgit233 ($0.82 in chips) 
+Seat 3: 2040800 ($2.11 in chips) 
+Seat 4: AnException ($1.44 in chips) 
+Seat 5: Kela1373 ($2.16 in chips) 
+Seat 6: h1_tech_1mba ($2.04 in chips) 
+Seat 7: Greeny'R ($2.37 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.44 in chips) 
+Dorex2007: posts small blind $0.01
+Zexion1993: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 5d]
+birgit233: folds 
+2040800: folds 
+AnException: raises $0.04 to $0.06
+Kela1373: folds 
+h1_tech_1mba: folds 
+Greeny'R: folds 
+sleeper hipi: raises $0.12 to $0.18
+Dorex2007: folds 
+Zexion1993: folds 
+AnException: raises $1.26 to $1.44 and is all-in
+sleeper hipi: folds 
+Uncalled bet ($1.26) returned to AnException
+AnException collected $0.39 from pot
+AnException: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0 
+Seat 1: Zexion1993 (big blind) folded before Flop
+Seat 2: birgit233 folded before Flop (didn't bet)
+Seat 3: 2040800 folded before Flop (didn't bet)
+Seat 4: AnException collected ($0.39)
+Seat 5: Kela1373 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: Greeny'R folded before Flop (didn't bet)
+Seat 8: sleeper hipi (button) folded before Flop
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #229318266409:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:50:26 PT [2021/08/25 2:50:26 ET]
+Table 'Alfaterna' 9-max Seat #9 is the button
+Seat 1: Zexion1993 ($2.04 in chips) 
+Seat 2: birgit233 ($0.82 in chips) 
+Seat 3: 2040800 ($2.11 in chips) 
+Seat 4: AnException ($1.65 in chips) 
+Seat 5: Kela1373 ($2.16 in chips) 
+Seat 6: h1_tech_1mba ($2.04 in chips) 
+Seat 7: Greeny'R ($2.37 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.43 in chips) 
+Zexion1993: posts small blind $0.01
+birgit233: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Th]
+2040800: folds 
+AnException: folds 
+Kela1373: folds 
+h1_tech_1mba: raises $0.04 to $0.06
+Greeny'R: folds 
+sleeper hipi: folds 
+Dorex2007: folds 
+Zexion1993: folds 
+birgit233: folds 
+Uncalled bet ($0.04) returned to h1_tech_1mba
+h1_tech_1mba collected $0.05 from pot
+h1_tech_1mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Zexion1993 (small blind) folded before Flop
+Seat 2: birgit233 (big blind) folded before Flop
+Seat 3: 2040800 folded before Flop (didn't bet)
+Seat 4: AnException folded before Flop (didn't bet)
+Seat 5: Kela1373 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba collected ($0.05)
+Seat 7: Greeny'R folded before Flop (didn't bet)
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318268752:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:50:42 PT [2021/08/25 2:50:42 ET]
+Table 'Alfaterna' 9-max Seat #1 is the button
+Seat 1: Zexion1993 ($2.03 in chips) 
+Seat 2: birgit233 ($0.80 in chips) 
+Seat 4: AnException ($1.65 in chips) 
+Seat 5: Kela1373 ($2.16 in chips) 
+Seat 6: h1_tech_1mba ($2.07 in chips) 
+Seat 7: Greeny'R ($2.37 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.43 in chips) 
+birgit233: posts small blind $0.01
+2040800: is sitting out 
+AnException: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 2c]
+Kela1373: folds 
+h1_tech_1mba: folds 
+2040800 leaves the table
+Greeny'R: folds 
+sleeper hipi: folds 
+Dorex2007: folds 
+Zexion1993: folds 
+birgit233: folds 
+Uncalled bet ($0.01) returned to AnException
+AnException collected $0.02 from pot
+AnException: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Zexion1993 (button) folded before Flop (didn't bet)
+Seat 2: birgit233 (small blind) folded before Flop
+Seat 4: AnException (big blind) collected ($0.02)
+Seat 5: Kela1373 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: Greeny'R folded before Flop (didn't bet)
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318271041:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:50:58 PT [2021/08/25 2:50:58 ET]
+Table 'Alfaterna' 9-max Seat #2 is the button
+Seat 1: Zexion1993 ($2.03 in chips) 
+Seat 2: birgit233 ($0.79 in chips) 
+Seat 4: AnException ($1.66 in chips) 
+Seat 5: Kela1373 ($2.16 in chips) 
+Seat 6: h1_tech_1mba ($2.07 in chips) 
+Seat 7: Greeny'R ($2.37 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.43 in chips) 
+AnException: posts small blind $0.01
+Kela1373: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 7h]
+h1_tech_1mba: folds 
+Greeny'R: folds 
+sleeper hipi: folds 
+Dorex2007: folds 
+Zexion1993: folds 
+birgit233: folds 
+AnException: folds 
+Uncalled bet ($0.01) returned to Kela1373
+Kela1373 collected $0.02 from pot
+Kela1373: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Zexion1993 folded before Flop (didn't bet)
+Seat 2: birgit233 (button) folded before Flop (didn't bet)
+Seat 4: AnException (small blind) folded before Flop
+Seat 5: Kela1373 (big blind) collected ($0.02)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: Greeny'R folded before Flop (didn't bet)
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318273698:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:51:17 PT [2021/08/25 2:51:17 ET]
+Table 'Alfaterna' 9-max Seat #4 is the button
+Seat 1: Zexion1993 ($2.03 in chips) 
+Seat 2: birgit233 ($0.79 in chips) 
+Seat 4: AnException ($1.65 in chips) 
+Seat 5: Kela1373 ($2.17 in chips) 
+Seat 6: h1_tech_1mba ($2.07 in chips) 
+Seat 7: Greeny'R ($2.37 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.43 in chips) 
+Kela1373: posts small blind $0.01
+h1_tech_1mba: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Tc]
+Greeny'R: folds 
+sleeper hipi: raises $0.04 to $0.06
+Dorex2007: folds 
+Zexion1993: folds 
+birgit233: folds 
+AnException: folds 
+Kela1373: folds 
+h1_tech_1mba: folds 
+Uncalled bet ($0.04) returned to sleeper hipi
+sleeper hipi collected $0.05 from pot
+sleeper hipi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Zexion1993 folded before Flop (didn't bet)
+Seat 2: birgit233 folded before Flop (didn't bet)
+Seat 4: AnException (button) folded before Flop (didn't bet)
+Seat 5: Kela1373 (small blind) folded before Flop
+Seat 6: h1_tech_1mba (big blind) folded before Flop
+Seat 7: Greeny'R folded before Flop (didn't bet)
+Seat 8: sleeper hipi collected ($0.05)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318275967:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:51:33 PT [2021/08/25 2:51:33 ET]
+Table 'Alfaterna' 9-max Seat #5 is the button
+Seat 1: Zexion1993 ($2.03 in chips) 
+Seat 2: birgit233 ($0.79 in chips) 
+Seat 4: AnException ($1.65 in chips) 
+Seat 5: Kela1373 ($2.16 in chips) 
+Seat 6: h1_tech_1mba ($2.05 in chips) 
+Seat 7: Greeny'R ($2.37 in chips) 
+Seat 8: sleeper hipi ($2.03 in chips) 
+Seat 9: Dorex2007 ($2.43 in chips) 
+h1_tech_1mba: posts small blind $0.01
+Greeny'R: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 5c]
+sleeper hipi: folds 
+Dorex2007: folds 
+Zexion1993: folds 
+birgit233: folds 
+AnException: folds 
+Kela1373: folds 
+h1_tech_1mba: folds 
+Uncalled bet ($0.01) returned to Greeny'R
+Greeny'R collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Zexion1993 folded before Flop (didn't bet)
+Seat 2: birgit233 folded before Flop (didn't bet)
+Seat 4: AnException folded before Flop (didn't bet)
+Seat 5: Kela1373 (button) folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba (small blind) folded before Flop
+Seat 7: Greeny'R (big blind) collected ($0.02)
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318277977:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:51:47 PT [2021/08/25 2:51:47 ET]
+Table 'Alfaterna' 9-max Seat #6 is the button
+Seat 1: Zexion1993 ($2.03 in chips) 
+Seat 2: birgit233 ($0.79 in chips) 
+Seat 4: AnException ($1.65 in chips) 
+Seat 5: Kela1373 ($2.16 in chips) 
+Seat 6: h1_tech_1mba ($2.04 in chips) 
+Seat 7: Greeny'R ($2.38 in chips) 
+Seat 8: sleeper hipi ($2.03 in chips) 
+Seat 9: Dorex2007 ($2.43 in chips) 
+Greeny'R: posts small blind $0.01
+sleeper hipi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Ks]
+Dorex2007: folds 
+Zexion1993: folds 
+birgit233: folds 
+AnException: folds 
+Kela1373: folds 
+h1_tech_1mba: folds 
+Greeny'R: folds 
+Uncalled bet ($0.01) returned to sleeper hipi
+sleeper hipi collected $0.02 from pot
+sleeper hipi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Zexion1993 folded before Flop (didn't bet)
+Seat 2: birgit233 folded before Flop (didn't bet)
+Seat 4: AnException folded before Flop (didn't bet)
+Seat 5: Kela1373 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba (button) folded before Flop (didn't bet)
+Seat 7: Greeny'R (small blind) folded before Flop
+Seat 8: sleeper hipi (big blind) collected ($0.02)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318280232:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:52:04 PT [2021/08/25 2:52:04 ET]
+Table 'Alfaterna' 9-max Seat #7 is the button
+Seat 1: Zexion1993 ($2.03 in chips) 
+Seat 2: birgit233 ($0.79 in chips) 
+Seat 4: AnException ($1.65 in chips) 
+Seat 5: Kela1373 ($2.16 in chips) 
+Seat 6: h1_tech_1mba ($2.04 in chips) 
+Seat 7: Greeny'R ($2.37 in chips) 
+Seat 8: sleeper hipi ($2.04 in chips) 
+Seat 9: Dorex2007 ($2.43 in chips) 
+sleeper hipi: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Jc]
+Zexion1993: folds 
+birgit233: folds 
+AnException: folds 
+Kela1373: folds 
+marall999 joins the table at seat #3 
+h1_tech_1mba: folds 
+Greeny'R: folds 
+sleeper hipi: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Zexion1993 folded before Flop (didn't bet)
+Seat 2: birgit233 folded before Flop (didn't bet)
+Seat 4: AnException folded before Flop (didn't bet)
+Seat 5: Kela1373 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: Greeny'R (button) folded before Flop (didn't bet)
+Seat 8: sleeper hipi (small blind) folded before Flop
+Seat 9: Dorex2007 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #229318282295:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:52:18 PT [2021/08/25 2:52:18 ET]
+Table 'Alfaterna' 9-max Seat #8 is the button
+Seat 1: Zexion1993 ($2.03 in chips) 
+Seat 2: birgit233 ($0.79 in chips) 
+Seat 4: AnException ($1.65 in chips) 
+Seat 5: Kela1373 ($2.16 in chips) 
+Seat 6: h1_tech_1mba ($2.04 in chips) 
+Seat 7: Greeny'R ($2.37 in chips) 
+Seat 8: sleeper hipi ($2.03 in chips) 
+Seat 9: Dorex2007 ($2.44 in chips) 
+Dorex2007: posts small blind $0.01
+Zexion1993: posts big blind $0.02
+marall999: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 6h]
+birgit233: folds 
+AnException: folds 
+Kela1373: folds 
+h1_tech_1mba: folds 
+Greeny'R: calls $0.02
+sleeper hipi: folds 
+Dorex2007: folds 
+Zexion1993: checks 
+*** FLOP *** [Qs 2d Jh]
+Zexion1993: checks 
+Greeny'R: checks 
+*** TURN *** [Qs 2d Jh] [7h]
+Zexion1993: checks 
+Greeny'R: checks 
+*** RIVER *** [Qs 2d Jh 7h] [3d]
+Zexion1993: checks 
+Greeny'R: bets $0.06
+Zexion1993: folds 
+Uncalled bet ($0.06) returned to Greeny'R
+Greeny'R collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qs 2d Jh 7h 3d]
+Seat 1: Zexion1993 (big blind) folded on the River
+Seat 2: birgit233 folded before Flop (didn't bet)
+Seat 4: AnException folded before Flop (didn't bet)
+Seat 5: Kela1373 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: Greeny'R collected ($0.05)
+Seat 8: sleeper hipi (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #229318291278:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:53:22 PT [2021/08/25 2:53:22 ET]
+Table 'Alfaterna' 9-max Seat #9 is the button
+Seat 1: Zexion1993 ($2.01 in chips) 
+Seat 2: birgit233 ($0.79 in chips) 
+Seat 4: AnException ($1.65 in chips) 
+Seat 5: Kela1373 ($2.16 in chips) 
+Seat 6: h1_tech_1mba ($2.04 in chips) 
+Seat 7: Greeny'R ($2.40 in chips) 
+Seat 8: sleeper hipi ($2.03 in chips) 
+Seat 9: Dorex2007 ($2.43 in chips) 
+Zexion1993: posts small blind $0.01
+birgit233: posts big blind $0.02
+marall999: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 7d]
+AnException: folds 
+Kela1373: folds 
+h1_tech_1mba: folds 
+Greeny'R: calls $0.02
+sleeper hipi has timed out
+sleeper hipi: folds 
+Dorex2007: calls $0.02
+Zexion1993: folds 
+birgit233: checks 
+*** FLOP *** [Kc Td 4d]
+birgit233: checks 
+Greeny'R: checks 
+Dorex2007: checks 
+*** TURN *** [Kc Td 4d] [6s]
+birgit233: checks 
+Greeny'R: checks 
+Dorex2007: checks 
+*** RIVER *** [Kc Td 4d 6s] [3d]
+birgit233: checks 
+Greeny'R: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+birgit233: shows [8h Jh] (high card King)
+Greeny'R: shows [5c 6c] (a pair of Sixes)
+Dorex2007: shows [7c 7d] (a pair of Sevens)
+Dorex2007 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Kc Td 4d 6s 3d]
+Seat 1: Zexion1993 (small blind) folded before Flop
+Seat 2: birgit233 (big blind) showed [8h Jh] and lost with high card King
+Seat 4: AnException folded before Flop (didn't bet)
+Seat 5: Kela1373 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: Greeny'R showed [5c 6c] and lost with a pair of Sixes
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) showed [7c 7d] and won ($0.07) with a pair of Sevens
+
+
+
+PokerStars Hand #229318301137:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:54:31 PT [2021/08/25 2:54:31 ET]
+Table 'Alfaterna' 9-max Seat #1 is the button
+Seat 1: Zexion1993 ($2 in chips) 
+Seat 2: birgit233 ($0.77 in chips) 
+Seat 3: marall999 ($1.34 in chips) 
+Seat 4: AnException ($1.65 in chips) 
+Seat 5: Kela1373 ($2.16 in chips) 
+Seat 6: h1_tech_1mba ($2.04 in chips) 
+Seat 7: Greeny'R ($2.38 in chips) 
+Seat 8: sleeper hipi ($2.03 in chips) 
+Seat 9: Dorex2007 ($2.48 in chips) 
+birgit233: posts small blind $0.01
+marall999: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 3d]
+AnException: folds 
+Kela1373: raises $0.04 to $0.06
+h1_tech_1mba: folds 
+Greeny'R: folds 
+sleeper hipi: folds 
+Dorex2007: folds 
+Zexion1993: folds 
+birgit233: folds 
+marall999: calls $0.04
+*** FLOP *** [8s 6h 5d]
+marall999: checks 
+Kela1373: bets $0.07
+marall999: calls $0.07
+*** TURN *** [8s 6h 5d] [Ac]
+marall999: checks 
+Kela1373: bets $0.13
+marall999: calls $0.13
+*** RIVER *** [8s 6h 5d Ac] [Ah]
+marall999: bets $0.25
+Kela1373: raises $0.45 to $0.70
+marall999: calls $0.45
+*** SHOW DOWN ***
+Kela1373: shows [Ad As] (four of a kind, Aces)
+marall999: mucks hand 
+Kela1373 collected $1.86 from pot
+*** SUMMARY ***
+Total pot $1.93 | Rake $0.07 
+Board [8s 6h 5d Ac Ah]
+Seat 1: Zexion1993 (button) folded before Flop (didn't bet)
+Seat 2: birgit233 (small blind) folded before Flop
+Seat 3: marall999 (big blind) mucked [6c Jc]
+Seat 4: AnException folded before Flop (didn't bet)
+Seat 5: Kela1373 showed [Ad As] and won ($1.86) with four of a kind, Aces
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: Greeny'R folded before Flop (didn't bet)
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318316211:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:56:25 PT [2021/08/25 2:56:25 ET]
+Table 'Alfaterna' 9-max Seat #2 is the button
+Seat 1: Zexion1993 ($2 in chips) 
+Seat 2: birgit233 ($0.76 in chips) 
+Seat 3: marall999 ($0.38 in chips) 
+Seat 4: AnException ($1.65 in chips) 
+Seat 5: Kela1373 ($3.06 in chips) 
+Seat 6: h1_tech_1mba ($2.04 in chips) 
+Seat 7: Greeny'R ($2.38 in chips) 
+Seat 8: sleeper hipi ($2.03 in chips) 
+Seat 9: Dorex2007 ($2.48 in chips) 
+marall999: posts small blind $0.01
+AnException: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 9c]
+Kela1373: raises $0.02 to $0.04
+h1_tech_1mba: folds 
+Greeny'R: folds 
+sleeper hipi: folds 
+Dorex2007: folds 
+Zexion1993: folds 
+birgit233: folds 
+marall999: calls $0.03
+AnException: folds 
+*** FLOP *** [As Qs Qh]
+marall999: checks 
+Kela1373: bets $0.05
+marall999: calls $0.05
+*** TURN *** [As Qs Qh] [8c]
+marall999: checks 
+Kela1373: checks 
+*** RIVER *** [As Qs Qh 8c] [2c]
+marall999: checks 
+Kela1373: checks 
+*** SHOW DOWN ***
+marall999: shows [Jh Ks] (a pair of Queens)
+Kela1373: shows [Ac Js] (two pair, Aces and Queens)
+Kela1373 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [As Qs Qh 8c 2c]
+Seat 1: Zexion1993 folded before Flop (didn't bet)
+Seat 2: birgit233 (button) folded before Flop (didn't bet)
+Seat 3: marall999 (small blind) showed [Jh Ks] and lost with a pair of Queens
+Seat 4: AnException (big blind) folded before Flop
+Seat 5: Kela1373 showed [Ac Js] and won ($0.19) with two pair, Aces and Queens
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: Greeny'R folded before Flop (didn't bet)
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318323945:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:57:26 PT [2021/08/25 2:57:26 ET]
+Table 'Alfaterna' 9-max Seat #3 is the button
+Seat 1: Zexion1993 ($2 in chips) 
+Seat 2: birgit233 ($0.76 in chips) 
+Seat 3: marall999 ($0.29 in chips) 
+Seat 4: AnException ($1.63 in chips) 
+Seat 6: h1_tech_1mba ($2.04 in chips) 
+Seat 7: Greeny'R ($2.38 in chips) 
+Seat 8: sleeper hipi ($2.03 in chips) 
+Seat 9: Dorex2007 ($2.48 in chips) 
+AnException: posts small blind $0.01
+Kela1373: is sitting out 
+h1_tech_1mba: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 3d]
+Kela1373 leaves the table
+Greeny'R: folds 
+sleeper hipi: raises $0.04 to $0.06
+Dorex2007: folds 
+Zexion1993: folds 
+birgit233: folds 
+marall999: folds 
+AnException: folds 
+h1_tech_1mba: folds 
+Uncalled bet ($0.04) returned to sleeper hipi
+sleeper hipi collected $0.05 from pot
+sleeper hipi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Zexion1993 folded before Flop (didn't bet)
+Seat 2: birgit233 folded before Flop (didn't bet)
+Seat 3: marall999 (button) folded before Flop (didn't bet)
+Seat 4: AnException (small blind) folded before Flop
+Seat 6: h1_tech_1mba (big blind) folded before Flop
+Seat 7: Greeny'R folded before Flop (didn't bet)
+Seat 8: sleeper hipi collected ($0.05)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318326854:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:57:48 PT [2021/08/25 2:57:48 ET]
+Table 'Alfaterna' 9-max Seat #4 is the button
+Seat 1: Zexion1993 ($2 in chips) 
+Seat 2: birgit233 ($0.76 in chips) 
+Seat 3: marall999 ($0.29 in chips) 
+Seat 4: AnException ($1.62 in chips) 
+Seat 6: h1_tech_1mba ($2.02 in chips) 
+Seat 7: Greeny'R ($2.38 in chips) 
+Seat 8: sleeper hipi ($2.06 in chips) 
+Seat 9: Dorex2007 ($2.48 in chips) 
+h1_tech_1mba: posts small blind $0.01
+Greeny'R: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 3d]
+sleeper hipi: folds 
+Dorex2007: folds 
+Zexion1993: raises $0.06 to $0.08
+birgit233: folds 
+marall999: calls $0.08
+AnException: folds 
+h1_tech_1mba: folds 
+Greeny'R: folds 
+*** FLOP *** [Ks Tc 4s]
+Zexion1993: bets $0.14
+marall999: raises $0.07 to $0.21 and is all-in
+Zexion1993: calls $0.07
+*** TURN *** [Ks Tc 4s] [Qc]
+*** RIVER *** [Ks Tc 4s Qc] [Js]
+*** SHOW DOWN ***
+Zexion1993: shows [7h 7d] (a pair of Sevens)
+marall999: shows [Qd Kd] (two pair, Kings and Queens)
+marall999 collected $0.59 from pot
+Zexion1993 cashed out the hand for $0.06
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [Ks Tc 4s Qc Js]
+Seat 1: Zexion1993 showed [7h 7d] and lost with a pair of Sevens (cashed out).
+Seat 2: birgit233 folded before Flop (didn't bet)
+Seat 3: marall999 showed [Qd Kd] and won ($0.59) with two pair, Kings and Queens
+Seat 4: AnException (button) folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba (small blind) folded before Flop
+Seat 7: Greeny'R (big blind) folded before Flop
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318333968:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:58:44 PT [2021/08/25 2:58:44 ET]
+Table 'Alfaterna' 9-max Seat #6 is the button
+Seat 1: Zexion1993 ($2 in chips) 
+Seat 2: birgit233 ($0.76 in chips) 
+Seat 3: marall999 ($0.59 in chips) 
+Seat 4: AnException ($1.62 in chips) 
+Seat 6: h1_tech_1mba ($2.01 in chips) 
+Seat 7: Greeny'R ($2.36 in chips) 
+Seat 8: sleeper hipi ($2.06 in chips) 
+Seat 9: Dorex2007 ($2.48 in chips) 
+Greeny'R: posts small blind $0.01
+sleeper hipi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 4d]
+Dorex2007: folds 
+Zexion1993: folds 
+birgit233: folds 
+marall999: calls $0.02
+AnException: calls $0.02
+h1_tech_1mba: raises $0.11 to $0.13
+Greeny'R: folds 
+sleeper hipi: folds 
+marall999: folds 
+AnException: folds 
+Uncalled bet ($0.11) returned to h1_tech_1mba
+h1_tech_1mba collected $0.09 from pot
+h1_tech_1mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: Zexion1993 folded before Flop (didn't bet)
+Seat 2: birgit233 folded before Flop (didn't bet)
+Seat 3: marall999 folded before Flop
+Seat 4: AnException folded before Flop
+Seat 6: h1_tech_1mba (button) collected ($0.09)
+Seat 7: Greeny'R (small blind) folded before Flop
+Seat 8: sleeper hipi (big blind) folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318337362:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/24 23:59:11 PT [2021/08/25 2:59:11 ET]
+Table 'Alfaterna' 9-max Seat #7 is the button
+Seat 1: Zexion1993 ($2 in chips) 
+Seat 2: birgit233 ($0.76 in chips) 
+Seat 3: marall999 ($0.57 in chips) 
+Seat 4: AnException ($1.60 in chips) 
+Seat 6: h1_tech_1mba ($2.08 in chips) 
+Seat 7: Greeny'R ($2.35 in chips) 
+Seat 8: sleeper hipi ($2.04 in chips) 
+Seat 9: Dorex2007 ($2.48 in chips) 
+sleeper hipi: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 5s]
+Zexion1993: folds 
+birgit233: folds 
+marall999: folds 
+AnException: folds 
+h1_tech_1mba: folds 
+Zexion1993 leaves the table
+Greeny'R: calls $0.02
+sleeper hipi: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [Kd 4h 9d]
+sleeper hipi: checks 
+Dorex2007: checks 
+Greeny'R: checks 
+*** TURN *** [Kd 4h 9d] [Js]
+Juanocruz joins the table at seat #1 
+sleeper hipi: checks 
+Dorex2007: checks 
+Greeny'R: checks 
+*** RIVER *** [Kd 4h 9d Js] [2d]
+sleeper hipi: checks 
+Dorex2007: checks 
+Greeny'R: bets $0.02
+sleeper hipi: folds 
+Dorex2007: folds 
+Uncalled bet ($0.02) returned to Greeny'R
+Greeny'R collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Kd 4h 9d Js 2d]
+Seat 1: Zexion1993 folded before Flop (didn't bet)
+Seat 2: birgit233 folded before Flop (didn't bet)
+Seat 3: marall999 folded before Flop (didn't bet)
+Seat 4: AnException folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: Greeny'R (button) collected ($0.06)
+Seat 8: sleeper hipi (small blind) folded on the River
+Seat 9: Dorex2007 (big blind) folded on the River
+
+
+
+PokerStars Hand #229318346142:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:00:20 PT [2021/08/25 3:00:20 ET]
+Table 'Alfaterna' 9-max Seat #8 is the button
+Seat 1: Juanocruz ($1.58 in chips) 
+Seat 2: birgit233 ($0.76 in chips) 
+Seat 3: marall999 ($0.57 in chips) 
+Seat 4: AnException ($1.60 in chips) 
+Seat 6: h1_tech_1mba ($2.08 in chips) 
+Seat 7: Greeny'R ($2.39 in chips) 
+Seat 8: sleeper hipi ($2.02 in chips) 
+Seat 9: Dorex2007 ($2.46 in chips) 
+Dorex2007: posts small blind $0.01
+Juanocruz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 6s]
+birgit233: folds 
+marall999: folds 
+AnException: calls $0.02
+h1_tech_1mba: calls $0.02
+Greeny'R: calls $0.02
+sleeper hipi: folds 
+Dorex2007: folds 
+Juanocruz: checks 
+*** FLOP *** [4c 2s Th]
+Juanocruz: bets $0.06
+AnException: folds 
+h1_tech_1mba: folds 
+Greeny'R: folds 
+Uncalled bet ($0.06) returned to Juanocruz
+Juanocruz collected $0.09 from pot
+Juanocruz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [4c 2s Th]
+Seat 1: Juanocruz (big blind) collected ($0.09)
+Seat 2: birgit233 folded before Flop (didn't bet)
+Seat 3: marall999 folded before Flop (didn't bet)
+Seat 4: AnException folded on the Flop
+Seat 6: h1_tech_1mba folded on the Flop
+Seat 7: Greeny'R folded on the Flop
+Seat 8: sleeper hipi (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #229318354445:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:01:20 PT [2021/08/25 3:01:20 ET]
+Table 'Alfaterna' 9-max Seat #9 is the button
+Seat 1: Juanocruz ($1.65 in chips) 
+Seat 2: birgit233 ($0.76 in chips) 
+Seat 3: marall999 ($0.57 in chips) 
+Seat 4: AnException ($1.58 in chips) 
+Seat 6: h1_tech_1mba ($2.06 in chips) 
+Seat 7: Greeny'R ($2.37 in chips) 
+Seat 8: sleeper hipi ($2.02 in chips) 
+Seat 9: Dorex2007 ($2.45 in chips) 
+Juanocruz: posts small blind $0.01
+birgit233: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Qs]
+marall999: raises $0.04 to $0.06
+AnException: calls $0.06
+h1_tech_1mba: folds 
+Greeny'R: folds 
+sleeper hipi: folds 
+Dorex2007: folds 
+Juanocruz: folds 
+birgit233: folds 
+*** FLOP *** [3h Ts Qc]
+marall999: checks 
+AnException: bets $0.14
+marall999: calls $0.14
+*** TURN *** [3h Ts Qc] [Jc]
+Chameleon812 joins the table at seat #5 
+marall999: checks 
+AnException: bets $0.21
+marall999: folds 
+Uncalled bet ($0.21) returned to AnException
+AnException collected $0.41 from pot
+AnException: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [3h Ts Qc Jc]
+Seat 1: Juanocruz (small blind) folded before Flop
+Seat 2: birgit233 (big blind) folded before Flop
+Seat 3: marall999 folded on the Turn
+Seat 4: AnException collected ($0.41)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: Greeny'R folded before Flop (didn't bet)
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318361579:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:02:10 PT [2021/08/25 3:02:10 ET]
+Table 'Alfaterna' 9-max Seat #1 is the button
+Seat 1: Juanocruz ($1.64 in chips) 
+Seat 2: birgit233 ($0.74 in chips) 
+Seat 3: marall999 ($0.37 in chips) 
+Seat 4: AnException ($1.79 in chips) 
+Seat 6: h1_tech_1mba ($2.06 in chips) 
+Seat 7: Greeny'R ($2.37 in chips) 
+Seat 8: sleeper hipi ($2.02 in chips) 
+Seat 9: Dorex2007 ($2.45 in chips) 
+birgit233: posts small blind $0.01
+marall999: posts big blind $0.02
+Chameleon812: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 9s]
+AnException: raises $0.04 to $0.06
+h1_tech_1mba: folds 
+Greeny'R: folds 
+sleeper hipi: folds 
+Dorex2007: folds 
+Juanocruz: folds 
+birgit233: raises $0.68 to $0.74 and is all-in
+marall999: folds 
+AnException: calls $0.68
+*** FLOP *** [8s 9d 3s]
+*** TURN *** [8s 9d 3s] [Kd]
+*** RIVER *** [8s 9d 3s Kd] [Qh]
+*** SHOW DOWN ***
+birgit233: shows [Ad Kc] (a pair of Kings)
+AnException: shows [Qc Jh] (a pair of Queens)
+birgit233 collected $1.44 from pot
+AnException cashed out the hand for $0.50
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.06 
+Board [8s 9d 3s Kd Qh]
+Seat 1: Juanocruz (button) folded before Flop (didn't bet)
+Seat 2: birgit233 (small blind) showed [Ad Kc] and won ($1.44) with a pair of Kings
+Seat 3: marall999 (big blind) folded before Flop
+Seat 4: AnException showed [Qc Jh] and lost with a pair of Queens (cashed out).
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: Greeny'R folded before Flop (didn't bet)
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318368659:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:03:00 PT [2021/08/25 3:03:00 ET]
+Table 'Alfaterna' 9-max Seat #2 is the button
+Seat 1: Juanocruz ($1.64 in chips) 
+Seat 2: birgit233 ($1.44 in chips) 
+Seat 3: marall999 ($0.35 in chips) 
+Seat 4: AnException ($1.55 in chips) 
+Seat 6: h1_tech_1mba ($2.06 in chips) 
+Seat 7: Greeny'R ($2.37 in chips) 
+Seat 8: sleeper hipi ($2.02 in chips) 
+Seat 9: Dorex2007 ($2.45 in chips) 
+marall999: posts small blind $0.01
+AnException: posts big blind $0.02
+Chameleon812: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Jd]
+h1_tech_1mba: folds 
+Greeny'R: folds 
+sleeper hipi: folds 
+Dorex2007: calls $0.02
+Juanocruz: folds 
+birgit233: folds 
+marall999: folds 
+birgit233 leaves the table
+AnException: raises $0.02 to $0.04
+Dorex2007: calls $0.02
+*** FLOP *** [2d 6h 2h]
+K_raisyGuy joins the table at seat #2 
+AnException: bets $0.09
+Dorex2007: folds 
+Uncalled bet ($0.09) returned to AnException
+AnException collected $0.09 from pot
+AnException: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [2d 6h 2h]
+Seat 1: Juanocruz folded before Flop (didn't bet)
+Seat 2: birgit233 (button) folded before Flop (didn't bet)
+Seat 3: marall999 (small blind) folded before Flop
+Seat 4: AnException (big blind) collected ($0.09)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: Greeny'R folded before Flop (didn't bet)
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded on the Flop
+
+
+
+PokerStars Hand #229318376247:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:03:52 PT [2021/08/25 3:03:52 ET]
+Table 'Alfaterna' 9-max Seat #3 is the button
+Seat 1: Juanocruz ($1.64 in chips) 
+Seat 2: K_raisyGuy ($1.60 in chips) 
+Seat 3: marall999 ($0.34 in chips) 
+Seat 4: AnException ($1.60 in chips) 
+Seat 5: Chameleon812 ($1.40 in chips) 
+Seat 6: h1_tech_1mba ($2.06 in chips) 
+Seat 7: Greeny'R ($2.37 in chips) 
+Seat 8: sleeper hipi ($2.02 in chips) 
+Seat 9: Dorex2007 ($2.41 in chips) 
+AnException: posts small blind $0.01
+Chameleon812: posts big blind $0.02
+K_raisyGuy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 8d]
+h1_tech_1mba: raises $0.07 to $0.09
+Greeny'R: folds 
+sleeper hipi: folds 
+Dorex2007: folds 
+Juanocruz: folds 
+K_raisyGuy: folds 
+marall999: folds 
+AnException: folds 
+Chameleon812: folds 
+Uncalled bet ($0.07) returned to h1_tech_1mba
+h1_tech_1mba collected $0.07 from pot
+h1_tech_1mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Juanocruz folded before Flop (didn't bet)
+Seat 2: K_raisyGuy folded before Flop (didn't bet)
+Seat 3: marall999 (button) folded before Flop (didn't bet)
+Seat 4: AnException (small blind) folded before Flop
+Seat 5: Chameleon812 (big blind) folded before Flop
+Seat 6: h1_tech_1mba collected ($0.07)
+Seat 7: Greeny'R folded before Flop (didn't bet)
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318381251:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:04:26 PT [2021/08/25 3:04:26 ET]
+Table 'Alfaterna' 9-max Seat #4 is the button
+Seat 1: Juanocruz ($1.64 in chips) 
+Seat 2: K_raisyGuy ($1.58 in chips) 
+Seat 3: marall999 ($0.34 in chips) 
+Seat 4: AnException ($1.59 in chips) 
+Seat 5: Chameleon812 ($1.38 in chips) 
+Seat 6: h1_tech_1mba ($2.11 in chips) 
+Seat 7: Greeny'R ($2.37 in chips) 
+Seat 8: sleeper hipi ($2.02 in chips) 
+Seat 9: Dorex2007 ($2.41 in chips) 
+Chameleon812: posts small blind $0.01
+h1_tech_1mba: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 9h]
+Greeny'R has timed out
+Greeny'R: folds 
+sleeper hipi: folds 
+Dorex2007: folds 
+Juanocruz: folds 
+K_raisyGuy: folds 
+marall999: calls $0.02
+AnException: folds 
+Chameleon812: calls $0.01
+h1_tech_1mba: checks 
+*** FLOP *** [Jh 2d 7d]
+Chameleon812: checks 
+h1_tech_1mba: checks 
+marall999: bets $0.03
+Chameleon812: folds 
+h1_tech_1mba: folds 
+Uncalled bet ($0.03) returned to marall999
+marall999 collected $0.06 from pot
+marall999: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Jh 2d 7d]
+Seat 1: Juanocruz folded before Flop (didn't bet)
+Seat 2: K_raisyGuy folded before Flop (didn't bet)
+Seat 3: marall999 collected ($0.06)
+Seat 4: AnException (button) folded before Flop (didn't bet)
+Seat 5: Chameleon812 (small blind) folded on the Flop
+Seat 6: h1_tech_1mba (big blind) folded on the Flop
+Seat 7: Greeny'R folded before Flop (didn't bet)
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318387880:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:05:10 PT [2021/08/25 3:05:10 ET]
+Table 'Alfaterna' 9-max Seat #5 is the button
+Seat 1: Juanocruz ($1.64 in chips) 
+Seat 2: K_raisyGuy ($1.58 in chips) 
+Seat 3: marall999 ($0.38 in chips) 
+Seat 4: AnException ($1.59 in chips) 
+Seat 5: Chameleon812 ($1.36 in chips) 
+Seat 6: h1_tech_1mba ($2.09 in chips) 
+Seat 7: Greeny'R ($2.37 in chips) 
+Seat 8: sleeper hipi ($2.02 in chips) 
+Seat 9: Dorex2007 ($2.41 in chips) 
+h1_tech_1mba: posts small blind $0.01
+Greeny'R: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 5h]
+sleeper hipi: folds 
+Dorex2007: raises $0.02 to $0.04
+Juanocruz: folds 
+K_raisyGuy: folds 
+marall999: calls $0.04
+AnException: folds 
+Chameleon812: calls $0.04
+h1_tech_1mba: folds 
+Greeny'R: folds 
+*** FLOP *** [Ad 8h 9s]
+Dorex2007: checks 
+marall999: checks 
+Chameleon812: checks 
+*** TURN *** [Ad 8h 9s] [Ts]
+Dorex2007: bets $0.09
+marall999: calls $0.09
+Chameleon812: calls $0.09
+*** RIVER *** [Ad 8h 9s Ts] [3c]
+Dorex2007: checks 
+marall999: checks 
+Chameleon812: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [Ah 5h] (a pair of Aces)
+marall999: mucks hand 
+Chameleon812: mucks hand 
+Dorex2007 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [Ad 8h 9s Ts 3c]
+Seat 1: Juanocruz folded before Flop (didn't bet)
+Seat 2: K_raisyGuy folded before Flop (didn't bet)
+Seat 3: marall999 mucked [9c Jc]
+Seat 4: AnException folded before Flop (didn't bet)
+Seat 5: Chameleon812 (button) mucked [8s Jh]
+Seat 6: h1_tech_1mba (small blind) folded before Flop
+Seat 7: Greeny'R (big blind) folded before Flop
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 showed [Ah 5h] and won ($0.41) with a pair of Aces
+
+
+
+PokerStars Hand #229318394684:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:05:57 PT [2021/08/25 3:05:57 ET]
+Table 'Alfaterna' 9-max Seat #6 is the button
+Seat 1: Juanocruz ($1.64 in chips) 
+Seat 2: K_raisyGuy ($1.58 in chips) 
+Seat 3: marall999 ($0.25 in chips) 
+Seat 4: AnException ($1.59 in chips) 
+Seat 5: Chameleon812 ($1.23 in chips) 
+Seat 6: h1_tech_1mba ($2.08 in chips) 
+Seat 7: Greeny'R ($2.35 in chips) 
+Seat 8: sleeper hipi ($2.02 in chips) 
+Seat 9: Dorex2007 ($2.69 in chips) 
+Greeny'R: posts small blind $0.01
+sleeper hipi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Tc]
+Dorex2007: folds 
+Juanocruz: raises $0.02 to $0.04
+K_raisyGuy: calls $0.04
+marall999: calls $0.04
+AnException: calls $0.04
+Chameleon812: raises $0.08 to $0.12
+h1_tech_1mba: folds 
+Greeny'R: folds 
+sleeper hipi: folds 
+Juanocruz: folds 
+K_raisyGuy: folds 
+marall999: calls $0.08
+AnException: calls $0.08
+*** FLOP *** [Jc Th 7c]
+marall999: checks 
+AnException: bets $1.47 and is all-in
+Chameleon812: calls $1.11 and is all-in
+marall999: folds 
+Uncalled bet ($0.36) returned to AnException
+*** TURN *** [Jc Th 7c] [Qh]
+*** RIVER *** [Jc Th 7c Qh] [2s]
+*** SHOW DOWN ***
+AnException: shows [Qd Js] (two pair, Queens and Jacks)
+Chameleon812: shows [Qc Qs] (three of a kind, Queens)
+Chameleon812 cashed out the hand for $2.29 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $2.69 | Rake $0.09 
+Board [Jc Th 7c Qh 2s]
+Seat 1: Juanocruz folded before Flop
+Seat 2: K_raisyGuy folded before Flop
+Seat 3: marall999 folded on the Flop
+Seat 4: AnException showed [Qd Js] and lost with two pair, Queens and Jacks
+Seat 5: Chameleon812 showed [Qc Qs] and won ($2.60) with three of a kind, Queens (pot not awarded as player cashed out)
+Seat 6: h1_tech_1mba (button) folded before Flop (didn't bet)
+Seat 7: Greeny'R (small blind) folded before Flop
+Seat 8: sleeper hipi (big blind) folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318406037:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:07:14 PT [2021/08/25 3:07:14 ET]
+Table 'Alfaterna' 9-max Seat #7 is the button
+Seat 1: Juanocruz ($1.60 in chips) 
+Seat 2: K_raisyGuy ($1.54 in chips) 
+Seat 3: marall999 ($0.13 in chips) 
+Seat 4: AnException ($0.36 in chips) 
+Seat 5: Chameleon812 ($2.29 in chips) 
+Seat 6: h1_tech_1mba ($2.08 in chips) 
+Seat 7: Greeny'R ($2.34 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.69 in chips) 
+sleeper hipi: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Ts]
+Juanocruz: folds 
+K_raisyGuy: folds 
+marall999: folds 
+AnException: folds 
+Chameleon812: folds 
+h1_tech_1mba: raises $0.04 to $0.06
+Greeny'R: folds 
+sleeper hipi: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to h1_tech_1mba
+h1_tech_1mba collected $0.05 from pot
+h1_tech_1mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Juanocruz folded before Flop (didn't bet)
+Seat 2: K_raisyGuy folded before Flop (didn't bet)
+Seat 3: marall999 folded before Flop (didn't bet)
+Seat 4: AnException folded before Flop (didn't bet)
+Seat 5: Chameleon812 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba collected ($0.05)
+Seat 7: Greeny'R (button) folded before Flop (didn't bet)
+Seat 8: sleeper hipi (small blind) folded before Flop
+Seat 9: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #229318410513:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:07:44 PT [2021/08/25 3:07:44 ET]
+Table 'Alfaterna' 9-max Seat #8 is the button
+Seat 1: Juanocruz ($1.60 in chips) 
+Seat 2: K_raisyGuy ($1.54 in chips) 
+Seat 3: marall999 ($0.13 in chips) 
+Seat 4: AnException ($0.36 in chips) 
+Seat 5: Chameleon812 ($2.29 in chips) 
+Seat 6: h1_tech_1mba ($2.11 in chips) 
+Seat 7: Greeny'R ($2.34 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.67 in chips) 
+Dorex2007: posts small blind $0.01
+Juanocruz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 5d]
+K_raisyGuy: folds 
+marall999: folds 
+AnException: raises $0.34 to $0.36 and is all-in
+Chameleon812: folds 
+h1_tech_1mba: folds 
+Greeny'R: folds 
+sleeper hipi: folds 
+Dorex2007: folds 
+Juanocruz: calls $0.34
+*** FLOP *** [2s 6d Kh]
+*** TURN *** [2s 6d Kh] [9h]
+*** RIVER *** [2s 6d Kh 9h] [2c]
+*** SHOW DOWN ***
+Juanocruz: shows [Ks Tc] (two pair, Kings and Deuces)
+AnException: shows [5c As] (a pair of Deuces)
+Juanocruz collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [2s 6d Kh 9h 2c]
+Seat 1: Juanocruz (big blind) showed [Ks Tc] and won ($0.70) with two pair, Kings and Deuces
+Seat 2: K_raisyGuy folded before Flop (didn't bet)
+Seat 3: marall999 folded before Flop (didn't bet)
+Seat 4: AnException showed [5c As] and lost with a pair of Deuces
+Seat 5: Chameleon812 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: Greeny'R folded before Flop (didn't bet)
+Seat 8: sleeper hipi (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #229318417789:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:08:34 PT [2021/08/25 3:08:34 ET]
+Table 'Alfaterna' 9-max Seat #9 is the button
+Seat 1: Juanocruz ($1.94 in chips) 
+Seat 2: K_raisyGuy ($1.54 in chips) 
+Seat 3: marall999 ($0.13 in chips) 
+Seat 5: Chameleon812 ($2.29 in chips) 
+Seat 6: h1_tech_1mba ($2.11 in chips) 
+Seat 7: Greeny'R ($2.34 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.66 in chips) 
+Juanocruz: posts small blind $0.01
+K_raisyGuy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 7d]
+marall999: folds 
+Chameleon812: folds 
+h1_tech_1mba: folds 
+AnException leaves the table
+Greeny'R has timed out
+Greeny'R: folds 
+sleeper hipi: folds 
+Dorex2007: raises $0.02 to $0.04
+Dr.Goodmen joins the table at seat #4 
+Juanocruz: calls $0.03
+K_raisyGuy: raises $0.12 to $0.16
+Dorex2007: folds 
+Juanocruz: folds 
+Uncalled bet ($0.12) returned to K_raisyGuy
+K_raisyGuy collected $0.12 from pot
+K_raisyGuy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Juanocruz (small blind) folded before Flop
+Seat 2: K_raisyGuy (big blind) collected ($0.12)
+Seat 3: marall999 folded before Flop (didn't bet)
+Seat 5: Chameleon812 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: Greeny'R folded before Flop (didn't bet)
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop
+
+
+
+PokerStars Hand #229318422779:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:09:08 PT [2021/08/25 3:09:08 ET]
+Table 'Alfaterna' 9-max Seat #1 is the button
+Seat 1: Juanocruz ($1.90 in chips) 
+Seat 2: K_raisyGuy ($1.62 in chips) 
+Seat 3: marall999 ($0.13 in chips) 
+Seat 5: Chameleon812 ($2.29 in chips) 
+Seat 6: h1_tech_1mba ($2.11 in chips) 
+Seat 7: Greeny'R ($2.34 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.62 in chips) 
+K_raisyGuy: posts small blind $0.01
+marall999: posts big blind $0.02
+Dr.Goodmen: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 3c]
+Chameleon812: folds 
+h1_tech_1mba: folds 
+Greeny'R: calls $0.02
+sleeper hipi: folds 
+Dorex2007: folds 
+Juanocruz: folds 
+K_raisyGuy: raises $0.02 to $0.04
+marall999: raises $0.09 to $0.13 and is all-in
+Greeny'R: raises $0.09 to $0.22
+K_raisyGuy: folds 
+Uncalled bet ($0.09) returned to Greeny'R
+Greeny'R has timed out
+*** FLOP *** [4s 7d 8h]
+*** TURN *** [4s 7d 8h] [7c]
+*** RIVER *** [4s 7d 8h 7c] [9c]
+*** SHOW DOWN ***
+marall999: shows [Kh 6h] (a pair of Sevens)
+Greeny'R: shows [As Ah] (two pair, Aces and Sevens)
+Greeny'R collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [4s 7d 8h 7c 9c]
+Seat 1: Juanocruz (button) folded before Flop (didn't bet)
+Seat 2: K_raisyGuy (small blind) folded before Flop
+Seat 3: marall999 (big blind) showed [Kh 6h] and lost with a pair of Sevens
+Seat 5: Chameleon812 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: Greeny'R showed [As Ah] and won ($0.29) with two pair, Aces and Sevens
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318431540:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:10:08 PT [2021/08/25 3:10:08 ET]
+Table 'Alfaterna' 9-max Seat #2 is the button
+Seat 1: Juanocruz ($1.90 in chips) 
+Seat 2: K_raisyGuy ($1.58 in chips) 
+Seat 5: Chameleon812 ($2.29 in chips) 
+Seat 6: h1_tech_1mba ($2.11 in chips) 
+Seat 7: Greeny'R ($2.50 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.62 in chips) 
+Chameleon812: posts small blind $0.01
+h1_tech_1mba: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 4s]
+Greeny'R: calls $0.02
+sleeper hipi: folds 
+Dorex2007: folds 
+Juanocruz: calls $0.02
+K_raisyGuy: folds 
+Chameleon812: calls $0.01
+h1_tech_1mba: checks 
+*** FLOP *** [4d 5s Ah]
+Chameleon812: checks 
+h1_tech_1mba: checks 
+Greeny'R: checks 
+Juanocruz: bets $0.10
+Chameleon812: folds 
+h1_tech_1mba: folds 
+Greeny'R: folds 
+Uncalled bet ($0.10) returned to Juanocruz
+Juanocruz collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [4d 5s Ah]
+Seat 1: Juanocruz collected ($0.08)
+Seat 2: K_raisyGuy (button) folded before Flop (didn't bet)
+Seat 5: Chameleon812 (small blind) folded on the Flop
+Seat 6: h1_tech_1mba (big blind) folded on the Flop
+Seat 7: Greeny'R folded on the Flop
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318441053:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:11:12 PT [2021/08/25 3:11:12 ET]
+Table 'Alfaterna' 9-max Seat #5 is the button
+Seat 1: Juanocruz ($1.96 in chips) 
+Seat 2: K_raisyGuy ($1.58 in chips) 
+Seat 5: Chameleon812 ($2.27 in chips) 
+Seat 6: h1_tech_1mba ($2.09 in chips) 
+Seat 7: Greeny'R ($2.48 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.62 in chips) 
+h1_tech_1mba: posts small blind $0.01
+Greeny'R: posts big blind $0.02
+Dr.Goodmen: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Qc]
+sleeper hipi: folds 
+Dorex2007: folds 
+Juanocruz: folds 
+K_raisyGuy: folds 
+Chameleon812: folds 
+h1_tech_1mba: raises $0.04 to $0.06
+Greeny'R: folds 
+Uncalled bet ($0.04) returned to h1_tech_1mba
+Greeny'R leaves the table
+h1_tech_1mba collected $0.04 from pot
+h1_tech_1mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Juanocruz folded before Flop (didn't bet)
+Seat 2: K_raisyGuy folded before Flop (didn't bet)
+Seat 5: Chameleon812 (button) folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba (small blind) collected ($0.04)
+Seat 7: Greeny'R (big blind) folded before Flop
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318443238:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:11:27 PT [2021/08/25 3:11:27 ET]
+Table 'Alfaterna' 9-max Seat #6 is the button
+Seat 1: Juanocruz ($1.96 in chips) 
+Seat 2: K_raisyGuy ($1.58 in chips) 
+Seat 5: Chameleon812 ($2.27 in chips) 
+Seat 6: h1_tech_1mba ($2.11 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.62 in chips) 
+sleeper hipi: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Dr.Goodmen: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Kc]
+Juanocruz: folds 
+K_raisyGuy: folds 
+Chameleon812: folds 
+MaksMurlakat joins the table at seat #7 
+h1_tech_1mba: folds 
+sleeper hipi: raises $0.04 to $0.06
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to sleeper hipi
+sleeper hipi collected $0.04 from pot
+sleeper hipi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Juanocruz folded before Flop (didn't bet)
+Seat 2: K_raisyGuy folded before Flop (didn't bet)
+Seat 5: Chameleon812 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba (button) folded before Flop (didn't bet)
+Seat 8: sleeper hipi (small blind) collected ($0.04)
+Seat 9: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #229318447150:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:11:54 PT [2021/08/25 3:11:54 ET]
+Table 'Alfaterna' 9-max Seat #8 is the button
+Seat 1: Juanocruz ($1.96 in chips) 
+Seat 2: K_raisyGuy ($1.58 in chips) 
+Seat 5: Chameleon812 ($2.27 in chips) 
+Seat 6: h1_tech_1mba ($2.11 in chips) 
+Seat 8: sleeper hipi ($2.02 in chips) 
+Seat 9: Dorex2007 ($2.60 in chips) 
+Dorex2007: posts small blind $0.01
+Juanocruz: posts big blind $0.02
+Dr.Goodmen: sits out 
+MaksMurlakat: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Ad]
+K_raisyGuy: folds 
+Chameleon812: folds 
+h1_tech_1mba: raises $0.04 to $0.06
+K_raisyGuy leaves the table
+sleeper hipi: folds 
+Dorex2007: folds 
+Juanocruz: folds 
+Uncalled bet ($0.04) returned to h1_tech_1mba
+h1_tech_1mba collected $0.05 from pot
+h1_tech_1mba: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Juanocruz (big blind) folded before Flop
+Seat 2: K_raisyGuy folded before Flop (didn't bet)
+Seat 5: Chameleon812 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba collected ($0.05)
+Seat 8: sleeper hipi (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #229318449468:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:12:10 PT [2021/08/25 3:12:10 ET]
+Table 'Alfaterna' 9-max Seat #9 is the button
+Seat 1: Juanocruz ($1.94 in chips) 
+Seat 4: Dr.Goodmen ($1.60 in chips) 
+Seat 5: Chameleon812 ($2.27 in chips) 
+Seat 6: h1_tech_1mba ($2.14 in chips) 
+Seat 8: sleeper hipi ($2.02 in chips) 
+Seat 9: Dorex2007 ($2.59 in chips) 
+Juanocruz: posts small blind $0.01
+Dr.Goodmen: posts big blind $0.02
+MaksMurlakat: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Ks]
+Chameleon812: folds 
+ni_k.o._0914 joins the table at seat #2 
+h1_tech_1mba: folds 
+sleeper hipi: folds 
+Dorex2007: raises $0.04 to $0.06
+Juanocruz: calls $0.05
+Dr.Goodmen: calls $0.04
+*** FLOP *** [7d Jc 4c]
+Juanocruz: bets $0.04
+Dr.Goodmen: folds 
+Dorex2007: calls $0.04
+*** TURN *** [7d Jc 4c] [8c]
+Juanocruz: bets $0.25
+Dorex2007: folds 
+Uncalled bet ($0.25) returned to Juanocruz
+Juanocruz collected $0.25 from pot
+Juanocruz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [7d Jc 4c 8c]
+Seat 1: Juanocruz (small blind) collected ($0.25)
+Seat 4: Dr.Goodmen (big blind) folded on the Flop
+Seat 5: Chameleon812 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded on the Turn
+
+
+
+PokerStars Hand #229318454701:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:12:46 PT [2021/08/25 3:12:46 ET]
+Table 'Alfaterna' 9-max Seat #1 is the button
+Seat 1: Juanocruz ($2.09 in chips) 
+Seat 4: Dr.Goodmen ($1.54 in chips) 
+Seat 6: h1_tech_1mba ($2.14 in chips) 
+Seat 8: sleeper hipi ($2.02 in chips) 
+Seat 9: Dorex2007 ($2.49 in chips) 
+Dr.Goodmen: posts small blind $0.01
+Chameleon812: is sitting out 
+h1_tech_1mba: posts big blind $0.02
+MaksMurlakat: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c Td]
+Chameleon812 leaves the table
+sleeper hipi: folds 
+Dorex2007: folds 
+Juanocruz: raises $0.02 to $0.04
+Dr.Goodmen: calls $0.03
+h1_tech_1mba: folds 
+*** FLOP *** [Qs 4s 3h]
+nikemon123 joins the table at seat #5 
+Dr.Goodmen: checks 
+Juanocruz: bets $0.04
+Dr.Goodmen: folds 
+Uncalled bet ($0.04) returned to Juanocruz
+Juanocruz collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Qs 4s 3h]
+Seat 1: Juanocruz (button) collected ($0.10)
+Seat 4: Dr.Goodmen (small blind) folded on the Flop
+Seat 6: h1_tech_1mba (big blind) folded before Flop
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318459680:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:13:19 PT [2021/08/25 3:13:19 ET]
+Table 'Alfaterna' 9-max Seat #4 is the button
+Seat 1: Juanocruz ($2.15 in chips) 
+Seat 4: Dr.Goodmen ($1.50 in chips) 
+Seat 6: h1_tech_1mba ($2.12 in chips) 
+Seat 7: MaksMurlakat ($1 in chips) 
+Seat 8: sleeper hipi ($2.02 in chips) 
+Seat 9: Dorex2007 ($2.49 in chips) 
+h1_tech_1mba: posts small blind $0.01
+MaksMurlakat: posts big blind $0.02
+ni_k.o._0914: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Td]
+sleeper hipi: folds 
+Dorex2007: folds 
+Juanocruz: raises $0.06 to $0.08
+Dr.Goodmen: folds 
+marall999 is disconnected 
+h1_tech_1mba: folds 
+MaksMurlakat: folds 
+Uncalled bet ($0.06) returned to Juanocruz
+Juanocruz collected $0.05 from pot
+Juanocruz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Juanocruz collected ($0.05)
+Seat 4: Dr.Goodmen (button) folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba (small blind) folded before Flop
+Seat 7: MaksMurlakat (big blind) folded before Flop
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318462188:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:13:37 PT [2021/08/25 3:13:37 ET]
+Table 'Alfaterna' 9-max Seat #6 is the button
+Seat 1: Juanocruz ($2.18 in chips) 
+Seat 4: Dr.Goodmen ($1.50 in chips) 
+Seat 5: nikemon123 ($2 in chips) 
+Seat 6: h1_tech_1mba ($2.11 in chips) 
+Seat 7: MaksMurlakat ($1 in chips) 
+Seat 8: sleeper hipi ($2.02 in chips) 
+Seat 9: Dorex2007 ($2.49 in chips) 
+MaksMurlakat: posts small blind $0.01
+sleeper hipi: posts big blind $0.02
+ni_k.o._0914: sits out 
+nikemon123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Ts]
+Dorex2007: folds 
+Juanocruz: folds 
+Dr.Goodmen: folds 
+nikemon123: raises $0.03 to $0.05
+h1_tech_1mba: folds 
+MaksMurlakat: folds 
+sleeper hipi: folds 
+Uncalled bet ($0.03) returned to nikemon123
+nikemon123 collected $0.05 from pot
+nikemon123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Juanocruz folded before Flop (didn't bet)
+Seat 4: Dr.Goodmen folded before Flop (didn't bet)
+Seat 5: nikemon123 collected ($0.05)
+Seat 6: h1_tech_1mba (button) folded before Flop (didn't bet)
+Seat 7: MaksMurlakat (small blind) folded before Flop
+Seat 8: sleeper hipi (big blind) folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318465765:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:14:01 PT [2021/08/25 3:14:01 ET]
+Table 'Alfaterna' 9-max Seat #7 is the button
+Seat 1: Juanocruz ($2.18 in chips) 
+Seat 4: Dr.Goodmen ($1.50 in chips) 
+Seat 5: nikemon123 ($2.03 in chips) 
+Seat 6: h1_tech_1mba ($2.11 in chips) 
+Seat 7: MaksMurlakat ($1 in chips) 
+Seat 8: sleeper hipi ($2 in chips) 
+Seat 9: Dorex2007 ($2.49 in chips) 
+sleeper hipi: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+ni_k.o._0914: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d As]
+Juanocruz: folds 
+Dr.Goodmen: folds 
+nikemon123: folds 
+h1_tech_1mba: folds 
+MaksMurlakat: folds 
+sleeper hipi: raises $0.04 to $0.06
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to sleeper hipi
+sleeper hipi collected $0.04 from pot
+sleeper hipi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Juanocruz folded before Flop (didn't bet)
+Seat 4: Dr.Goodmen folded before Flop (didn't bet)
+Seat 5: nikemon123 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: MaksMurlakat (button) folded before Flop (didn't bet)
+Seat 8: sleeper hipi (small blind) collected ($0.04)
+Seat 9: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #229318468344:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:14:18 PT [2021/08/25 3:14:18 ET]
+Table 'Alfaterna' 9-max Seat #8 is the button
+Seat 1: Juanocruz ($2.18 in chips) 
+Seat 4: Dr.Goodmen ($1.50 in chips) 
+Seat 5: nikemon123 ($2.03 in chips) 
+Seat 6: h1_tech_1mba ($2.11 in chips) 
+Seat 7: MaksMurlakat ($1 in chips) 
+Seat 8: sleeper hipi ($2.02 in chips) 
+Seat 9: Dorex2007 ($2.47 in chips) 
+Dorex2007: posts small blind $0.01
+Juanocruz: posts big blind $0.02
+ni_k.o._0914: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 4s]
+Dr.Goodmen: folds 
+nikemon123: raises $0.02 to $0.04
+h1_tech_1mba: folds 
+MaksMurlakat: folds 
+sleeper hipi: folds 
+Dorex2007: folds 
+Juanocruz: calls $0.02
+*** FLOP *** [7c Kh Th]
+Juanocruz: checks 
+nikemon123: bets $0.05
+Juanocruz: folds 
+Uncalled bet ($0.05) returned to nikemon123
+nikemon123 collected $0.09 from pot
+nikemon123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [7c Kh Th]
+Seat 1: Juanocruz (big blind) folded on the Flop
+Seat 4: Dr.Goodmen folded before Flop (didn't bet)
+Seat 5: nikemon123 collected ($0.09)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: MaksMurlakat folded before Flop (didn't bet)
+Seat 8: sleeper hipi (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #229318474658:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:15:01 PT [2021/08/25 3:15:01 ET]
+Table 'Alfaterna' 9-max Seat #9 is the button
+Seat 1: Juanocruz ($2.14 in chips) 
+Seat 2: ni_k.o._0914 ($2 in chips) 
+Seat 4: Dr.Goodmen ($1.50 in chips) 
+Seat 5: nikemon123 ($2.08 in chips) 
+Seat 6: h1_tech_1mba ($2.11 in chips) 
+Seat 7: MaksMurlakat ($1 in chips) 
+Seat 8: sleeper hipi ($2.02 in chips) 
+Seat 9: Dorex2007 ($2.46 in chips) 
+Juanocruz: posts small blind $0.01
+ni_k.o._0914: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 3c]
+Dr.Goodmen: folds 
+nikemon123: folds 
+h1_tech_1mba: folds 
+MaksMurlakat: folds 
+sleeper hipi: folds 
+Dorex2007: folds 
+Juanocruz: calls $0.01
+ni_k.o._0914: checks 
+*** FLOP *** [9d 6h Jd]
+Juanocruz: bets $0.04
+ni_k.o._0914: folds 
+Uncalled bet ($0.04) returned to Juanocruz
+Juanocruz collected $0.04 from pot
+Juanocruz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [9d 6h Jd]
+Seat 1: Juanocruz (small blind) collected ($0.04)
+Seat 2: ni_k.o._0914 (big blind) folded on the Flop
+Seat 4: Dr.Goodmen folded before Flop (didn't bet)
+Seat 5: nikemon123 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: MaksMurlakat folded before Flop (didn't bet)
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318482480:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:15:54 PT [2021/08/25 3:15:54 ET]
+Table 'Alfaterna' 9-max Seat #1 is the button
+Seat 1: Juanocruz ($2.16 in chips) 
+Seat 2: ni_k.o._0914 ($2 in chips) 
+Seat 4: Dr.Goodmen ($1.50 in chips) 
+Seat 5: nikemon123 ($2.08 in chips) 
+Seat 6: h1_tech_1mba ($2.11 in chips) 
+Seat 7: MaksMurlakat ($1 in chips) 
+Seat 8: sleeper hipi ($2.02 in chips) 
+Seat 9: Dorex2007 ($2.46 in chips) 
+ni_k.o._0914: posts small blind $0.01
+Dr.Goodmen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 6s]
+nikemon123: folds 
+h1_tech_1mba: folds 
+MaksMurlakat: folds 
+sleeper hipi: folds 
+Dorex2007: folds 
+Juanocruz: folds 
+ni_k.o._0914: raises $0.04 to $0.06
+Dr.Goodmen: calls $0.04
+*** FLOP *** [5d Td 3d]
+ni_k.o._0914: bets $0.02
+Dr.Goodmen: raises $0.04 to $0.06
+ni_k.o._0914: calls $0.04
+*** TURN *** [5d Td 3d] [5h]
+ni_k.o._0914: bets $0.02
+Dr.Goodmen: raises $0.09 to $0.11
+ni_k.o._0914: folds 
+Uncalled bet ($0.09) returned to Dr.Goodmen
+Dr.Goodmen collected $0.27 from pot
+Dr.Goodmen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [5d Td 3d 5h]
+Seat 1: Juanocruz (button) folded before Flop (didn't bet)
+Seat 2: ni_k.o._0914 (small blind) folded on the Turn
+Seat 4: Dr.Goodmen (big blind) collected ($0.27)
+Seat 5: nikemon123 folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: MaksMurlakat folded before Flop (didn't bet)
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318487752:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:16:30 PT [2021/08/25 3:16:30 ET]
+Table 'Alfaterna' 9-max Seat #2 is the button
+Seat 1: Juanocruz ($2.16 in chips) 
+Seat 2: ni_k.o._0914 ($2 in chips) 
+Seat 4: Dr.Goodmen ($1.63 in chips) 
+Seat 5: nikemon123 ($2.08 in chips) 
+Seat 6: h1_tech_1mba ($2.11 in chips) 
+Seat 7: MaksMurlakat ($1 in chips) 
+Seat 8: sleeper hipi ($2.02 in chips) 
+Seat 9: Dorex2007 ($2.46 in chips) 
+Dr.Goodmen: posts small blind $0.01
+nikemon123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad Kd]
+h1_tech_1mba: folds 
+MaksMurlakat: folds 
+sleeper hipi: raises $0.04 to $0.06
+Dorex2007: calls $0.06
+Juanocruz: folds 
+ni_k.o._0914: folds 
+Dr.Goodmen: folds 
+nikemon123: folds 
+*** FLOP *** [3h Ac Kc]
+sleeper hipi: bets $0.04
+Dorex2007: calls $0.04
+*** TURN *** [3h Ac Kc] [7s]
+sleeper hipi: bets $0.12
+Dorex2007: calls $0.12
+*** RIVER *** [3h Ac Kc 7s] [9c]
+sleeper hipi: bets $0.68
+Dorex2007: folds 
+Uncalled bet ($0.68) returned to sleeper hipi
+sleeper hipi collected $0.45 from pot
+sleeper hipi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [3h Ac Kc 7s 9c]
+Seat 1: Juanocruz folded before Flop (didn't bet)
+Seat 2: ni_k.o._0914 (button) folded before Flop (didn't bet)
+Seat 4: Dr.Goodmen (small blind) folded before Flop
+Seat 5: nikemon123 (big blind) folded before Flop
+Seat 6: h1_tech_1mba folded before Flop (didn't bet)
+Seat 7: MaksMurlakat folded before Flop (didn't bet)
+Seat 8: sleeper hipi collected ($0.45)
+Seat 9: Dorex2007 folded on the River
+
+
+
+PokerStars Hand #229318501492:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:18:04 PT [2021/08/25 3:18:04 ET]
+Table 'Alfaterna' 9-max Seat #4 is the button
+Seat 1: Juanocruz ($2.16 in chips) 
+Seat 2: ni_k.o._0914 ($2 in chips) 
+Seat 4: Dr.Goodmen ($1.62 in chips) 
+Seat 5: nikemon123 ($2.06 in chips) 
+Seat 6: h1_tech_1mba ($2.11 in chips) 
+Seat 7: MaksMurlakat ($1 in chips) 
+Seat 8: sleeper hipi ($2.25 in chips) 
+Seat 9: Dorex2007 ($2.24 in chips) 
+nikemon123: posts small blind $0.01
+h1_tech_1mba: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Qc]
+MaksMurlakat: folds 
+sleeper hipi: folds 
+Dorex2007: folds 
+Juanocruz: folds 
+ni_k.o._0914: raises $0.04 to $0.06
+Dr.Goodmen: raises $0.06 to $0.12
+nikemon123: folds 
+h1_tech_1mba: folds 
+ni_k.o._0914: calls $0.06
+*** FLOP *** [8d 8h 6h]
+ni_k.o._0914: checks 
+Dr.Goodmen: bets $0.14
+ni_k.o._0914: folds 
+Uncalled bet ($0.14) returned to Dr.Goodmen
+Dr.Goodmen collected $0.26 from pot
+Dr.Goodmen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [8d 8h 6h]
+Seat 1: Juanocruz folded before Flop (didn't bet)
+Seat 2: ni_k.o._0914 folded on the Flop
+Seat 4: Dr.Goodmen (button) collected ($0.26)
+Seat 5: nikemon123 (small blind) folded before Flop
+Seat 6: h1_tech_1mba (big blind) folded before Flop
+Seat 7: MaksMurlakat folded before Flop (didn't bet)
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #229318505919:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/08/25 0:18:34 PT [2021/08/25 3:18:34 ET]
+Table 'Alfaterna' 9-max Seat #5 is the button
+Seat 1: Juanocruz ($2.16 in chips) 
+Seat 2: ni_k.o._0914 ($2 in chips) 
+Seat 4: Dr.Goodmen ($1.76 in chips) 
+Seat 5: nikemon123 ($2.05 in chips) 
+Seat 6: h1_tech_1mba ($2.09 in chips) 
+Seat 7: MaksMurlakat ($1 in chips) 
+Seat 8: sleeper hipi ($2.25 in chips) 
+Seat 9: Dorex2007 ($2.24 in chips) 
+h1_tech_1mba: posts small blind $0.01
+MaksMurlakat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 2s]
+sleeper hipi: folds 
+Dorex2007: folds 
+Juanocruz: raises $0.04 to $0.06
+ni_k.o._0914: folds 
+Dr.Goodmen: folds 
+nikemon123: folds 
+h1_tech_1mba: folds 
+MaksMurlakat: folds 
+Uncalled bet ($0.04) returned to Juanocruz
+Juanocruz collected $0.05 from pot
+Juanocruz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Juanocruz collected ($0.05)
+Seat 2: ni_k.o._0914 folded before Flop (didn't bet)
+Seat 4: Dr.Goodmen folded before Flop (didn't bet)
+Seat 5: nikemon123 (button) folded before Flop (didn't bet)
+Seat 6: h1_tech_1mba (small blind) folded before Flop
+Seat 7: MaksMurlakat (big blind) folded before Flop
+Seat 8: sleeper hipi folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+

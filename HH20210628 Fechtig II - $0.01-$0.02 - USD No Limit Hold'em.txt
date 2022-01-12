@@ -1,0 +1,5186 @@
+﻿PokerStars Hand #227918980746:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 15:45:11 PT [2021/06/28 18:45:11 ET]
+Table 'Fechtig II' 9-max Seat #5 is the button
+Seat 1: 12AJV9 ($2.42 in chips) 
+Seat 2: leomax100 ($2.17 in chips) 
+Seat 4: abobora33 ($3.77 in chips) 
+Seat 5: Dr_Poliakov ($2.11 in chips) 
+Seat 6: sidiot ($0.39 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 9: ST3RK ($4.39 in chips) 
+sidiot: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+LeandroAku: sits out 
+Gabriel.SMAA: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Kd]
+ST3RK: folds 
+12AJV9: raises $0.03 to $0.05
+leomax100: folds 
+abobora33: folds 
+Dr_Poliakov: calls $0.05
+sidiot: calls $0.04
+Dorex2007: calls $0.03
+*** FLOP *** [Ad Jh 2s]
+sidiot: checks 
+Dorex2007: bets $0.10
+12AJV9: calls $0.10
+Dr_Poliakov: folds 
+sidiot: calls $0.10
+*** TURN *** [Ad Jh 2s] [2c]
+sidiot: checks 
+Dorex2007: checks 
+12AJV9: bets $0.24
+sidiot: calls $0.24 and is all-in
+Dorex2007: folds 
+*** RIVER *** [Ad Jh 2s 2c] [6d]
+*** SHOW DOWN ***
+sidiot: shows [Qc Ah] (two pair, Aces and Deuces)
+12AJV9: shows [4s As] (two pair, Aces and Deuces - lower kicker)
+sidiot collected $0.95 from pot
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.03 
+Board [Ad Jh 2s 2c 6d]
+Seat 1: 12AJV9 showed [4s As] and lost with two pair, Aces and Deuces
+Seat 2: leomax100 folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov (button) folded on the Flop
+Seat 6: sidiot (small blind) showed [Qc Ah] and won ($0.95) with two pair, Aces and Deuces
+Seat 7: Dorex2007 (big blind) folded on the Turn
+Seat 9: ST3RK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227919001964:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 15:46:13 PT [2021/06/28 18:46:13 ET]
+Table 'Fechtig II' 9-max Seat #6 is the button
+Seat 1: 12AJV9 ($2.03 in chips) 
+Seat 2: leomax100 ($2.17 in chips) 
+Seat 4: abobora33 ($3.77 in chips) 
+Seat 5: Dr_Poliakov ($2.06 in chips) 
+Seat 6: sidiot ($0.95 in chips) 
+Seat 7: Dorex2007 ($1.85 in chips) 
+Seat 8: LeandroAku ($0.80 in chips) 
+Seat 9: ST3RK ($4.39 in chips) 
+Dorex2007: posts small blind $0.01
+LeandroAku: posts big blind $0.02
+Gabriel.SMAA: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 3c]
+ST3RK: calls $0.02
+12AJV9: folds 
+leomax100: folds 
+abobora33 has timed out
+abobora33: folds 
+Dr_Poliakov: folds 
+sidiot: folds 
+Dorex2007: folds 
+LeandroAku: checks 
+*** FLOP *** [5c 2c Kh]
+LeandroAku: checks 
+ST3RK: bets $0.05
+LeandroAku: folds 
+Uncalled bet ($0.05) returned to ST3RK
+ST3RK collected $0.05 from pot
+ST3RK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5c 2c Kh]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: leomax100 folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: sidiot (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: LeandroAku (big blind) folded on the Flop
+Seat 9: ST3RK collected ($0.05)
+
+
+
+PokerStars Hand #227919013725:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 15:46:48 PT [2021/06/28 18:46:48 ET]
+Table 'Fechtig II' 9-max Seat #7 is the button
+Seat 1: 12AJV9 ($2.03 in chips) 
+Seat 2: leomax100 ($2.17 in chips) 
+Seat 4: abobora33 ($3.77 in chips) 
+Seat 5: Dr_Poliakov ($2.06 in chips) 
+Seat 6: sidiot ($0.95 in chips) 
+Seat 7: Dorex2007 ($1.84 in chips) 
+Seat 8: LeandroAku ($0.78 in chips) 
+Seat 9: ST3RK ($4.42 in chips) 
+LeandroAku: posts small blind $0.01
+ST3RK: posts big blind $0.02
+Gabriel.SMAA: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Qh]
+12AJV9: folds 
+leomax100: folds 
+abobora33: raises $0.02 to $0.04
+Dr_Poliakov: folds 
+sidiot: folds 
+Dorex2007: raises $0.02 to $0.06
+LeandroAku: calls $0.05
+ST3RK: folds 
+abobora33: calls $0.02
+*** FLOP *** [4s 9s 2s]
+LeandroAku: checks 
+abobora33: checks 
+Dorex2007: bets $0.10
+LeandroAku: calls $0.10
+abobora33: folds 
+*** TURN *** [4s 9s 2s] [Jc]
+LeandroAku: checks 
+Dorex2007: bets $0.20
+LeandroAku: raises $0.42 to $0.62 and is all-in
+Dorex2007: folds 
+Uncalled bet ($0.42) returned to LeandroAku
+LeandroAku collected $0.77 from pot
+LeandroAku: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.03 
+Board [4s 9s 2s Jc]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: leomax100 folded before Flop (didn't bet)
+Seat 4: abobora33 folded on the Flop
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: sidiot folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded on the Turn
+Seat 8: LeandroAku (small blind) collected ($0.77)
+Seat 9: ST3RK (big blind) folded before Flop
+
+
+
+PokerStars Hand #227919041812:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 15:48:11 PT [2021/06/28 18:48:11 ET]
+Table 'Fechtig II' 9-max Seat #8 is the button
+Seat 1: 12AJV9 ($2.03 in chips) 
+Seat 2: leomax100 ($2.17 in chips) 
+Seat 4: abobora33 ($3.71 in chips) 
+Seat 5: Dr_Poliakov ($2.06 in chips) 
+Seat 6: sidiot ($0.95 in chips) 
+Seat 7: Dorex2007 ($1.48 in chips) 
+Seat 8: LeandroAku ($1.19 in chips) 
+Seat 9: ST3RK ($4.40 in chips) 
+ST3RK: posts small blind $0.01
+12AJV9: posts big blind $0.02
+Gabriel.SMAA: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s Tc]
+leomax100: folds 
+abobora33: folds 
+Dr_Poliakov: folds 
+sidiot: calls $0.02
+Dorex2007: folds 
+LeandroAku: folds 
+ST3RK: calls $0.01
+12AJV9: checks 
+*** FLOP *** [3h Ad 6c]
+ST3RK: bets $0.02
+12AJV9: calls $0.02
+sidiot: folds 
+*** TURN *** [3h Ad 6c] [Kd]
+ST3RK: checks 
+12AJV9: checks 
+*** RIVER *** [3h Ad 6c Kd] [9h]
+ST3RK: checks 
+12AJV9: bets $0.05
+ST3RK: folds 
+Uncalled bet ($0.05) returned to 12AJV9
+12AJV9 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [3h Ad 6c Kd 9h]
+Seat 1: 12AJV9 (big blind) collected ($0.10)
+Seat 2: leomax100 folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: sidiot folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku (button) folded before Flop (didn't bet)
+Seat 9: ST3RK (small blind) folded on the River
+
+
+
+PokerStars Hand #227919062675:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 15:49:04 PT [2021/06/28 18:49:04 ET]
+Table 'Fechtig II' 9-max Seat #9 is the button
+Seat 1: 12AJV9 ($2.09 in chips) 
+Seat 2: leomax100 ($2.17 in chips) 
+Seat 4: abobora33 ($3.71 in chips) 
+Seat 5: Dr_Poliakov ($2.06 in chips) 
+Seat 6: sidiot ($0.93 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: LeandroAku ($1.19 in chips) 
+Seat 9: ST3RK ($4.36 in chips) 
+12AJV9: posts small blind $0.01
+leomax100: posts big blind $0.02
+Gabriel.SMAA: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 6s]
+abobora33: folds 
+Dr_Poliakov: folds 
+sidiot: calls $0.02
+Dorex2007: folds 
+LeandroAku: folds 
+ST3RK: folds 
+12AJV9: raises $0.05 to $0.07
+leomax100: calls $0.05
+sidiot: calls $0.05
+*** FLOP *** [4s 8d 9c]
+12AJV9: bets $0.07
+leomax100: calls $0.07
+sidiot: calls $0.07
+*** TURN *** [4s 8d 9c] [Qd]
+12AJV9: bets $0.14
+leomax100: raises $0.35 to $0.49
+sidiot: calls $0.49
+12AJV9: folds 
+*** RIVER *** [4s 8d 9c Qd] [Jh]
+leomax100: bets $0.75
+sidiot: calls $0.30 and is all-in
+Uncalled bet ($0.45) returned to leomax100
+*** SHOW DOWN ***
+leomax100: shows [Js Ts] (a straight, Eight to Queen)
+sidiot: shows [8s 8c] (three of a kind, Eights)
+leomax100 collected $2.07 from pot
+*** SUMMARY ***
+Total pot $2.14 | Rake $0.07 
+Board [4s 8d 9c Qd Jh]
+Seat 1: 12AJV9 (small blind) folded on the Turn
+Seat 2: leomax100 (big blind) showed [Js Ts] and won ($2.07) with a straight, Eight to Queen
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: sidiot showed [8s 8c] and lost with three of a kind, Eights
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227919087835:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 15:50:19 PT [2021/06/28 18:50:19 ET]
+Table 'Fechtig II' 9-max Seat #1 is the button
+Seat 1: 12AJV9 ($1.81 in chips) 
+Seat 2: leomax100 ($3.31 in chips) 
+Seat 3: Gabriel.SMAA ($0.80 in chips) 
+Seat 4: abobora33 ($3.71 in chips) 
+Seat 5: Dr_Poliakov ($2.06 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: LeandroAku ($1.19 in chips) 
+Seat 9: ST3RK ($4.36 in chips) 
+leomax100: posts small blind $0.01
+Gabriel.SMAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 2c]
+abobora33: folds 
+Dr_Poliakov: folds 
+Dorex2007: calls $0.02
+LeandroAku: folds 
+sidiot leaves the table
+ST3RK: raises $0.07 to $0.09
+12AJV9: folds 
+leomax100: folds 
+Gabriel.SMAA: folds 
+Dorex2007: folds 
+Uncalled bet ($0.07) returned to ST3RK
+ST3RK collected $0.07 from pot
+ST3RK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: 12AJV9 (button) folded before Flop (didn't bet)
+Seat 2: leomax100 (small blind) folded before Flop
+Seat 3: Gabriel.SMAA (big blind) folded before Flop
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK collected ($0.07)
+
+
+
+PokerStars Hand #227919100391:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 15:50:56 PT [2021/06/28 18:50:56 ET]
+Table 'Fechtig II' 9-max Seat #2 is the button
+Seat 1: 12AJV9 ($1.81 in chips) 
+Seat 2: leomax100 ($3.30 in chips) 
+Seat 3: Gabriel.SMAA ($0.78 in chips) 
+Seat 4: abobora33 ($3.71 in chips) 
+Seat 5: Dr_Poliakov ($2.06 in chips) 
+Seat 7: Dorex2007 ($1.98 in chips) 
+Seat 8: LeandroAku ($1.19 in chips) 
+Seat 9: ST3RK ($4.41 in chips) 
+Gabriel.SMAA: posts small blind $0.01
+abobora33: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Jh]
+Dr_Poliakov: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+ST3RK: raises $0.06 to $0.08
+Aristarh0 joins the table at seat #6 
+12AJV9: calls $0.08
+leomax100: folds 
+Gabriel.SMAA: folds 
+abobora33: folds 
+*** FLOP *** [Js 5d 6h]
+ST3RK: bets $0.08
+12AJV9: calls $0.08
+*** TURN *** [Js 5d 6h] [Jd]
+ST3RK: checks 
+12AJV9: checks 
+*** RIVER *** [Js 5d 6h Jd] [3s]
+ST3RK: checks 
+12AJV9: bets $0.11
+ST3RK: calls $0.11
+*** SHOW DOWN ***
+12AJV9: shows [Jc Ks] (three of a kind, Jacks)
+ST3RK: mucks hand 
+12AJV9 collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [Js 5d 6h Jd 3s]
+Seat 1: 12AJV9 showed [Jc Ks] and won ($0.55) with three of a kind, Jacks
+Seat 2: leomax100 (button) folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA (small blind) folded before Flop
+Seat 4: abobora33 (big blind) folded before Flop
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK mucked [4c 4d]
+
+
+
+PokerStars Hand #227919118695:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 15:51:51 PT [2021/06/28 18:51:51 ET]
+Table 'Fechtig II' 9-max Seat #3 is the button
+Seat 1: 12AJV9 ($2.09 in chips) 
+Seat 2: leomax100 ($3.30 in chips) 
+Seat 3: Gabriel.SMAA ($0.77 in chips) 
+Seat 4: abobora33 ($3.69 in chips) 
+Seat 5: Dr_Poliakov ($2.06 in chips) 
+Seat 7: Dorex2007 ($1.98 in chips) 
+Seat 8: LeandroAku ($1.19 in chips) 
+Seat 9: ST3RK ($4.14 in chips) 
+abobora33: posts small blind $0.01
+Dr_Poliakov: posts big blind $0.02
+Aristarh0: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 5d]
+Dorex2007: folds 
+LeandroAku: folds 
+ST3RK: raises $0.06 to $0.08
+12AJV9: calls $0.08
+leomax100: folds 
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: calls $0.06
+*** FLOP *** [Td Jh 4h]
+Dr_Poliakov: checks 
+ST3RK: checks 
+12AJV9: checks 
+*** TURN *** [Td Jh 4h] [7d]
+Dr_Poliakov: checks 
+ST3RK: bets $0.08
+12AJV9: calls $0.08
+Dr_Poliakov: folds 
+*** RIVER *** [Td Jh 4h 7d] [7c]
+ST3RK: bets $0.40
+12AJV9: calls $0.40
+*** SHOW DOWN ***
+ST3RK: shows [Ac 7h] (three of a kind, Sevens)
+12AJV9: shows [Qd Jd] (two pair, Jacks and Sevens)
+ST3RK collected $1.17 from pot
+*** SUMMARY ***
+Total pot $1.21 | Rake $0.04 
+Board [Td Jh 4h 7d 7c]
+Seat 1: 12AJV9 showed [Qd Jd] and lost with two pair, Jacks and Sevens
+Seat 2: leomax100 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA (button) folded before Flop (didn't bet)
+Seat 4: abobora33 (small blind) folded before Flop
+Seat 5: Dr_Poliakov (big blind) folded on the Turn
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK showed [Ac 7h] and won ($1.17) with three of a kind, Sevens
+
+
+
+PokerStars Hand #227919143668:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 15:53:05 PT [2021/06/28 18:53:05 ET]
+Table 'Fechtig II' 9-max Seat #4 is the button
+Seat 1: 12AJV9 ($1.53 in chips) 
+Seat 2: leomax100 ($3.30 in chips) 
+Seat 3: Gabriel.SMAA ($0.77 in chips) 
+Seat 4: abobora33 ($3.68 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.80 in chips) 
+Seat 7: Dorex2007 ($1.98 in chips) 
+Seat 8: LeandroAku ($1.19 in chips) 
+Seat 9: ST3RK ($4.75 in chips) 
+Dr_Poliakov: posts small blind $0.01
+Aristarh0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 7d]
+Dorex2007: folds 
+LeandroAku: folds 
+ST3RK: calls $0.02
+12AJV9: folds 
+leomax100: folds 
+Gabriel.SMAA: folds 
+abobora33: raises $0.02 to $0.04
+Dr_Poliakov: folds 
+Aristarh0: folds 
+ST3RK: calls $0.02
+*** FLOP *** [Qc 4c 5h]
+ST3RK: checks 
+abobora33: bets $0.06
+ST3RK: folds 
+Uncalled bet ($0.06) returned to abobora33
+abobora33 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Qc 4c 5h]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: leomax100 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 (button) collected ($0.11)
+Seat 5: Dr_Poliakov (small blind) folded before Flop
+Seat 6: Aristarh0 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK folded on the Flop
+
+
+
+PokerStars Hand #227919159290:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 15:53:52 PT [2021/06/28 18:53:52 ET]
+Table 'Fechtig II' 9-max Seat #5 is the button
+Seat 1: 12AJV9 ($1.53 in chips) 
+Seat 2: leomax100 ($3.30 in chips) 
+Seat 3: Gabriel.SMAA ($0.77 in chips) 
+Seat 4: abobora33 ($3.75 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.78 in chips) 
+Seat 7: Dorex2007 ($1.98 in chips) 
+Seat 8: LeandroAku ($1.19 in chips) 
+Seat 9: ST3RK ($4.71 in chips) 
+Aristarh0: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Tc]
+LeandroAku: folds 
+ST3RK: calls $0.02
+12AJV9: folds 
+leomax100: folds 
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: checks 
+*** FLOP *** [Qc As 8h]
+Dorex2007: checks 
+ST3RK: checks 
+*** TURN *** [Qc As 8h] [Qd]
+Dorex2007: checks 
+ST3RK: checks 
+*** RIVER *** [Qc As 8h Qd] [9s]
+Dorex2007: checks 
+ST3RK: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [4c Tc] (a pair of Queens)
+ST3RK: shows [Kd 9h] (two pair, Queens and Nines)
+ST3RK collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qc As 8h Qd 9s]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: leomax100 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov (button) folded before Flop (didn't bet)
+Seat 6: Aristarh0 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) showed [4c Tc] and lost with a pair of Queens
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK showed [Kd 9h] and won ($0.05) with two pair, Queens and Nines
+
+
+
+PokerStars Hand #227919169810:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 15:54:23 PT [2021/06/28 18:54:23 ET]
+Table 'Fechtig II' 9-max Seat #6 is the button
+Seat 1: 12AJV9 ($1.53 in chips) 
+Seat 2: leomax100 ($3.30 in chips) 
+Seat 3: Gabriel.SMAA ($0.77 in chips) 
+Seat 4: abobora33 ($3.75 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.77 in chips) 
+Seat 7: Dorex2007 ($1.96 in chips) 
+Seat 8: LeandroAku ($1.19 in chips) 
+Seat 9: ST3RK ($4.74 in chips) 
+Dorex2007: posts small blind $0.01
+LeandroAku: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 8d]
+ST3RK: calls $0.02
+12AJV9: folds 
+leomax100: raises $0.07 to $0.09
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+ST3RK: folds 
+Uncalled bet ($0.07) returned to leomax100
+leomax100 collected $0.07 from pot
+leomax100: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: leomax100 collected ($0.07)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: LeandroAku (big blind) folded before Flop
+Seat 9: ST3RK folded before Flop
+
+
+
+PokerStars Hand #227919178907:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 15:54:51 PT [2021/06/28 18:54:51 ET]
+Table 'Fechtig II' 9-max Seat #7 is the button
+Seat 1: 12AJV9 ($1.53 in chips) 
+Seat 2: leomax100 ($3.35 in chips) 
+Seat 3: Gabriel.SMAA ($0.77 in chips) 
+Seat 4: abobora33 ($3.75 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.77 in chips) 
+Seat 7: Dorex2007 ($1.95 in chips) 
+Seat 8: LeandroAku ($1.17 in chips) 
+Seat 9: ST3RK ($4.72 in chips) 
+LeandroAku: posts small blind $0.01
+ST3RK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 4s]
+12AJV9: folds 
+leomax100: folds 
+Gabriel.SMAA has timed out
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: raises $0.02 to $0.04
+LeandroAku: folds 
+ST3RK: raises $0.10 to $0.14
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to ST3RK
+ST3RK collected $0.09 from pot
+ST3RK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: leomax100 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop
+Seat 8: LeandroAku (small blind) folded before Flop
+Seat 9: ST3RK (big blind) collected ($0.09)
+
+
+
+PokerStars Hand #227919188748:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 15:55:24 PT [2021/06/28 18:55:24 ET]
+Table 'Fechtig II' 9-max Seat #8 is the button
+Seat 1: 12AJV9 ($1.53 in chips) 
+Seat 2: leomax100 ($3.35 in chips) 
+Seat 3: Gabriel.SMAA ($0.77 in chips) 
+Seat 4: abobora33 ($3.75 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.77 in chips) 
+Seat 7: Dorex2007 ($1.91 in chips) 
+Seat 8: LeandroAku ($1.16 in chips) 
+Seat 9: ST3RK ($4.77 in chips) 
+ST3RK: posts small blind $0.01
+12AJV9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 7s]
+leomax100: folds 
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0 has timed out
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+ST3RK: calls $0.01
+12AJV9: checks 
+*** FLOP *** [3s 5h Ac]
+ST3RK: bets $0.02
+12AJV9: calls $0.02
+*** TURN *** [3s 5h Ac] [5s]
+ST3RK: bets $0.02
+12AJV9: calls $0.02
+*** RIVER *** [3s 5h Ac 5s] [2s]
+ST3RK: checks 
+12AJV9: checks 
+*** SHOW DOWN ***
+ST3RK: shows [3c 6s] (two pair, Fives and Threes)
+12AJV9: mucks hand 
+ST3RK collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [3s 5h Ac 5s 2s]
+Seat 1: 12AJV9 (big blind) mucked [7c Kc]
+Seat 2: leomax100 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku (button) folded before Flop (didn't bet)
+Seat 9: ST3RK (small blind) showed [3c 6s] and won ($0.12) with two pair, Fives and Threes
+
+
+
+PokerStars Hand #227919205523:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 15:56:23 PT [2021/06/28 18:56:23 ET]
+Table 'Fechtig II' 9-max Seat #9 is the button
+Seat 1: 12AJV9 ($1.47 in chips) 
+Seat 2: leomax100 ($3.35 in chips) 
+Seat 3: Gabriel.SMAA ($0.77 in chips) 
+Seat 4: abobora33 ($3.75 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.77 in chips) 
+Seat 7: Dorex2007 ($1.91 in chips) 
+Seat 8: LeandroAku ($1.16 in chips) 
+Seat 9: ST3RK ($4.83 in chips) 
+12AJV9: posts small blind $0.01
+leomax100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Kc]
+Gabriel.SMAA has timed out
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: raises $0.04 to $0.06
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+ST3RK: folds 
+12AJV9: calls $0.05
+leomax100: folds 
+*** FLOP *** [9s 6h 7c]
+12AJV9: checks 
+Dr_Poliakov: bets $0.05
+12AJV9: calls $0.05
+*** TURN *** [9s 6h 7c] [Qd]
+12AJV9: checks 
+Dr_Poliakov: bets $0.08
+12AJV9: raises $0.24 to $0.32
+Dr_Poliakov: calls $0.24
+*** RIVER *** [9s 6h 7c Qd] [Qs]
+12AJV9: checks 
+Dr_Poliakov: checks 
+*** SHOW DOWN ***
+12AJV9: shows [3h Ah] (a pair of Queens)
+Dr_Poliakov: mucks hand 
+12AJV9 collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.88 | Rake $0.03 
+Board [9s 6h 7c Qd Qs]
+Seat 1: 12AJV9 (small blind) showed [3h Ah] and won ($0.85) with a pair of Queens
+Seat 2: leomax100 (big blind) folded before Flop
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov mucked [Td Kd]
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227919232556:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 15:57:52 PT [2021/06/28 18:57:52 ET]
+Table 'Fechtig II' 9-max Seat #1 is the button
+Seat 1: 12AJV9 ($1.89 in chips) 
+Seat 2: leomax100 ($3.33 in chips) 
+Seat 3: Gabriel.SMAA ($0.77 in chips) 
+Seat 4: abobora33 ($3.75 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.77 in chips) 
+Seat 7: Dorex2007 ($1.91 in chips) 
+Seat 8: LeandroAku ($1.16 in chips) 
+Seat 9: ST3RK ($4.83 in chips) 
+leomax100: posts small blind $0.01
+Gabriel.SMAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 4d]
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+ST3RK: calls $0.02
+12AJV9: folds 
+leomax100: folds 
+Gabriel.SMAA: checks 
+*** FLOP *** [Ad 9d As]
+Gabriel.SMAA: checks 
+ST3RK: bets $0.05
+Gabriel.SMAA: folds 
+Uncalled bet ($0.05) returned to ST3RK
+ST3RK collected $0.05 from pot
+ST3RK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ad 9d As]
+Seat 1: 12AJV9 (button) folded before Flop (didn't bet)
+Seat 2: leomax100 (small blind) folded before Flop
+Seat 3: Gabriel.SMAA (big blind) folded on the Flop
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK collected ($0.05)
+
+
+
+PokerStars Hand #227919243158:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 15:58:31 PT [2021/06/28 18:58:31 ET]
+Table 'Fechtig II' 9-max Seat #2 is the button
+Seat 1: 12AJV9 ($1.89 in chips) 
+Seat 2: leomax100 ($3.32 in chips) 
+Seat 3: Gabriel.SMAA ($0.75 in chips) 
+Seat 4: abobora33 ($3.75 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.77 in chips) 
+Seat 7: Dorex2007 ($1.91 in chips) 
+Seat 8: LeandroAku ($1.16 in chips) 
+Seat 9: ST3RK ($4.86 in chips) 
+Gabriel.SMAA: posts small blind $0.01
+abobora33: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 8d]
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+ST3RK: folds 
+12AJV9: folds 
+leomax100: folds 
+Gabriel.SMAA: calls $0.01
+abobora33: checks 
+*** FLOP *** [Js Ah 7s]
+Gabriel.SMAA: checks 
+abobora33: checks 
+*** TURN *** [Js Ah 7s] [8c]
+Gabriel.SMAA: checks 
+abobora33: checks 
+*** RIVER *** [Js Ah 7s 8c] [4d]
+Gabriel.SMAA: checks 
+abobora33: checks 
+*** SHOW DOWN ***
+Gabriel.SMAA: shows [Ts Jc] (a pair of Jacks)
+abobora33: mucks hand 
+Gabriel.SMAA collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Js Ah 7s 8c 4d]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: leomax100 (button) folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA (small blind) showed [Ts Jc] and won ($0.04) with a pair of Jacks
+Seat 4: abobora33 (big blind) mucked [2c 5h]
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227919253973:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 15:59:11 PT [2021/06/28 18:59:11 ET]
+Table 'Fechtig II' 9-max Seat #3 is the button
+Seat 1: 12AJV9 ($1.89 in chips) 
+Seat 2: leomax100 ($3.32 in chips) 
+Seat 3: Gabriel.SMAA ($0.77 in chips) 
+Seat 4: abobora33 ($3.73 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.77 in chips) 
+Seat 7: Dorex2007 ($1.91 in chips) 
+Seat 8: LeandroAku ($1.16 in chips) 
+Seat 9: ST3RK ($4.86 in chips) 
+abobora33: posts small blind $0.01
+Dr_Poliakov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 4s]
+Aristarh0: folds 
+Dorex2007: raises $0.02 to $0.04
+LeandroAku: folds 
+ST3RK: folds 
+12AJV9: folds 
+leomax100: folds 
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: calls $0.02
+*** FLOP *** [Qs Jh 5h]
+Dr_Poliakov: checks 
+Dorex2007: checks 
+*** TURN *** [Qs Jh 5h] [Ad]
+Dr_Poliakov: checks 
+Dorex2007: checks 
+*** RIVER *** [Qs Jh 5h Ad] [5s]
+Dr_Poliakov: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+Dr_Poliakov: shows [Td 7d] (a pair of Fives)
+Dorex2007: shows [4c 4s] (two pair, Fives and Fours)
+Dorex2007 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Qs Jh 5h Ad 5s]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: leomax100 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA (button) folded before Flop (didn't bet)
+Seat 4: abobora33 (small blind) folded before Flop
+Seat 5: Dr_Poliakov (big blind) showed [Td 7d] and lost with a pair of Fives
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 showed [4c 4s] and won ($0.09) with two pair, Fives and Fours
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227919264699:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 15:59:51 PT [2021/06/28 18:59:51 ET]
+Table 'Fechtig II' 9-max Seat #4 is the button
+Seat 1: 12AJV9 ($1.89 in chips) 
+Seat 2: leomax100 ($3.32 in chips) 
+Seat 3: Gabriel.SMAA ($0.77 in chips) 
+Seat 4: abobora33 ($3.72 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.77 in chips) 
+Seat 7: Dorex2007 ($1.96 in chips) 
+Seat 8: LeandroAku ($1.16 in chips) 
+Seat 9: ST3RK ($4.86 in chips) 
+Dr_Poliakov: posts small blind $0.01
+Aristarh0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 7c]
+Dorex2007: folds 
+LeandroAku: folds 
+ST3RK: folds 
+12AJV9: folds 
+leomax100: folds 
+Gabriel.SMAA: folds 
+abobora33: raises $0.02 to $0.04
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Uncalled bet ($0.02) returned to abobora33
+abobora33 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: leomax100 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 (button) collected ($0.05)
+Seat 5: Dr_Poliakov (small blind) folded before Flop
+Seat 6: Aristarh0 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227919271779:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:00:18 PT [2021/06/28 19:00:18 ET]
+Table 'Fechtig II' 9-max Seat #5 is the button
+Seat 1: 12AJV9 ($1.89 in chips) 
+Seat 2: leomax100 ($3.32 in chips) 
+Seat 3: Gabriel.SMAA ($0.77 in chips) 
+Seat 4: abobora33 ($3.75 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.75 in chips) 
+Seat 7: Dorex2007 ($1.96 in chips) 
+Seat 8: LeandroAku ($1.16 in chips) 
+Seat 9: ST3RK ($4.86 in chips) 
+Aristarh0: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Qh]
+LeandroAku: folds 
+ST3RK: raises $0.08 to $0.10
+12AJV9: folds 
+leomax100: folds 
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+Uncalled bet ($0.08) returned to ST3RK
+ST3RK collected $0.05 from pot
+ST3RK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: leomax100 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov (button) folded before Flop (didn't bet)
+Seat 6: Aristarh0 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK collected ($0.05)
+
+
+
+PokerStars Hand #227919282839:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:00:33 PT [2021/06/28 19:00:33 ET]
+Table 'Fechtig II' 9-max Seat #6 is the button
+Seat 1: 12AJV9 ($1.89 in chips) 
+Seat 2: leomax100 ($3.32 in chips) 
+Seat 3: Gabriel.SMAA ($0.77 in chips) 
+Seat 4: abobora33 ($3.75 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.74 in chips) 
+Seat 7: Dorex2007 ($1.94 in chips) 
+Seat 8: LeandroAku ($1.16 in chips) 
+Seat 9: ST3RK ($4.89 in chips) 
+Dorex2007: posts small blind $0.01
+LeandroAku: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Ac]
+ST3RK: folds 
+12AJV9: folds 
+leomax100: folds 
+Gabriel.SMAA: folds 
+abobora33: raises $0.02 to $0.04
+Dr_Poliakov: raises $0.11 to $0.15
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+abobora33: folds 
+Uncalled bet ($0.11) returned to Dr_Poliakov
+Dr_Poliakov collected $0.11 from pot
+Dr_Poliakov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: leomax100 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop
+Seat 5: Dr_Poliakov collected ($0.11)
+Seat 6: Aristarh0 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: LeandroAku (big blind) folded before Flop
+Seat 9: ST3RK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227919292013:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:01:04 PT [2021/06/28 19:01:04 ET]
+Table 'Fechtig II' 9-max Seat #7 is the button
+Seat 1: 12AJV9 ($1.89 in chips) 
+Seat 2: leomax100 ($3.32 in chips) 
+Seat 3: Gabriel.SMAA ($0.77 in chips) 
+Seat 4: abobora33 ($3.71 in chips) 
+Seat 5: Dr_Poliakov ($2.07 in chips) 
+Seat 6: Aristarh0 ($0.74 in chips) 
+Seat 7: Dorex2007 ($1.93 in chips) 
+Seat 8: LeandroAku ($1.14 in chips) 
+Seat 9: ST3RK ($4.89 in chips) 
+LeandroAku: posts small blind $0.01
+ST3RK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Ac]
+12AJV9: folds 
+leomax100: folds 
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: raises $0.04 to $0.06
+LeandroAku: folds 
+ST3RK: calls $0.04
+*** FLOP *** [3s Qh 4c]
+ST3RK: checks 
+Dorex2007: checks 
+*** TURN *** [3s Qh 4c] [Kh]
+ST3RK: bets $0.04
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to ST3RK
+ST3RK collected $0.13 from pot
+ST3RK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3s Qh 4c Kh]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: leomax100 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded on the Turn
+Seat 8: LeandroAku (small blind) folded before Flop
+Seat 9: ST3RK (big blind) collected ($0.13)
+
+
+
+PokerStars Hand #227919303867:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:01:41 PT [2021/06/28 19:01:41 ET]
+Table 'Fechtig II' 9-max Seat #8 is the button
+Seat 1: 12AJV9 ($1.89 in chips) 
+Seat 2: leomax100 ($3.32 in chips) 
+Seat 3: Gabriel.SMAA ($0.77 in chips) 
+Seat 4: abobora33 ($3.71 in chips) 
+Seat 5: Dr_Poliakov ($2.07 in chips) 
+Seat 6: Aristarh0 ($0.74 in chips) 
+Seat 7: Dorex2007 ($1.87 in chips) 
+Seat 8: LeandroAku ($1.13 in chips) 
+Seat 9: ST3RK ($4.96 in chips) 
+ST3RK: posts small blind $0.01
+12AJV9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Ts]
+leomax100: folds 
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0 has timed out
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+ST3RK: raises $0.06 to $0.08
+12AJV9: folds 
+Uncalled bet ($0.06) returned to ST3RK
+ST3RK collected $0.04 from pot
+ST3RK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: 12AJV9 (big blind) folded before Flop
+Seat 2: leomax100 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku (button) folded before Flop (didn't bet)
+Seat 9: ST3RK (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #227919313953:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:02:13 PT [2021/06/28 19:02:13 ET]
+Table 'Fechtig II' 9-max Seat #9 is the button
+Seat 1: 12AJV9 ($1.87 in chips) 
+Seat 2: leomax100 ($3.32 in chips) 
+Seat 3: Gabriel.SMAA ($0.77 in chips) 
+Seat 4: abobora33 ($3.71 in chips) 
+Seat 5: Dr_Poliakov ($2.07 in chips) 
+Seat 6: Aristarh0 ($0.74 in chips) 
+Seat 7: Dorex2007 ($1.87 in chips) 
+Seat 8: LeandroAku ($1.13 in chips) 
+Seat 9: ST3RK ($4.98 in chips) 
+12AJV9: posts small blind $0.01
+leomax100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 6h]
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+ST3RK: raises $0.04 to $0.06
+12AJV9: folds 
+leomax100: calls $0.04
+*** FLOP *** [9h Ah 8h]
+leomax100: checks 
+ST3RK: bets $0.13
+leomax100: folds 
+Uncalled bet ($0.13) returned to ST3RK
+ST3RK collected $0.13 from pot
+ST3RK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9h Ah 8h]
+Seat 1: 12AJV9 (small blind) folded before Flop
+Seat 2: leomax100 (big blind) folded on the Flop
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK (button) collected ($0.13)
+
+
+
+PokerStars Hand #227919325469:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:02:48 PT [2021/06/28 19:02:48 ET]
+Table 'Fechtig II' 9-max Seat #1 is the button
+Seat 1: 12AJV9 ($1.86 in chips) 
+Seat 2: leomax100 ($3.26 in chips) 
+Seat 3: Gabriel.SMAA ($0.77 in chips) 
+Seat 4: abobora33 ($3.71 in chips) 
+Seat 5: Dr_Poliakov ($2.07 in chips) 
+Seat 6: Aristarh0 ($0.74 in chips) 
+Seat 7: Dorex2007 ($1.87 in chips) 
+Seat 8: LeandroAku ($1.13 in chips) 
+Seat 9: ST3RK ($5.05 in chips) 
+leomax100: posts small blind $0.01
+Gabriel.SMAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Qs]
+abobora33: calls $0.02
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+ST3RK: raises $0.06 to $0.08
+12AJV9: folds 
+leomax100: calls $0.07
+Gabriel.SMAA: folds 
+abobora33: calls $0.06
+*** FLOP *** [9h 2s 6c]
+leomax100: checks 
+abobora33: checks 
+ST3RK: bets $0.08
+leomax100: calls $0.08
+abobora33: calls $0.08
+*** TURN *** [9h 2s 6c] [5c]
+leomax100: checks 
+abobora33: checks 
+ST3RK: checks 
+*** RIVER *** [9h 2s 6c 5c] [Ah]
+leomax100: checks 
+abobora33: checks 
+ST3RK: checks 
+*** SHOW DOWN ***
+leomax100: shows [8s 8c] (a pair of Eights)
+abobora33: shows [9d 8d] (a pair of Nines)
+ST3RK: mucks hand 
+abobora33 collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [9h 2s 6c 5c Ah]
+Seat 1: 12AJV9 (button) folded before Flop (didn't bet)
+Seat 2: leomax100 (small blind) showed [8s 8c] and lost with a pair of Eights
+Seat 3: Gabriel.SMAA (big blind) folded before Flop
+Seat 4: abobora33 showed [9d 8d] and won ($0.48) with a pair of Nines
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK mucked [Qd Jc]
+
+
+
+PokerStars Hand #227919346843:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:03:54 PT [2021/06/28 19:03:54 ET]
+Table 'Fechtig II' 9-max Seat #2 is the button
+Seat 1: 12AJV9 ($1.86 in chips) 
+Seat 2: leomax100 ($3.10 in chips) 
+Seat 3: Gabriel.SMAA ($0.75 in chips) 
+Seat 4: abobora33 ($4.03 in chips) 
+Seat 5: Dr_Poliakov ($2.07 in chips) 
+Seat 6: Aristarh0 ($0.74 in chips) 
+Seat 7: Dorex2007 ($1.87 in chips) 
+Seat 8: LeandroAku ($1.13 in chips) 
+Seat 9: ST3RK ($4.89 in chips) 
+Gabriel.SMAA: posts small blind $0.01
+abobora33: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 2c]
+Dr_Poliakov has timed out
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+ST3RK: calls $0.02
+12AJV9: folds 
+leomax100: folds 
+Gabriel.SMAA: calls $0.01
+abobora33: checks 
+*** FLOP *** [Qh 4s 6c]
+Gabriel.SMAA: checks 
+abobora33: checks 
+ST3RK: bets $0.06
+Gabriel.SMAA: folds 
+abobora33: folds 
+Uncalled bet ($0.06) returned to ST3RK
+ST3RK collected $0.06 from pot
+ST3RK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Qh 4s 6c]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: leomax100 (button) folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA (small blind) folded on the Flop
+Seat 4: abobora33 (big blind) folded on the Flop
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK collected ($0.06)
+
+
+
+PokerStars Hand #227919365934:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:04:53 PT [2021/06/28 19:04:53 ET]
+Table 'Fechtig II' 9-max Seat #3 is the button
+Seat 1: 12AJV9 ($1.86 in chips) 
+Seat 2: leomax100 ($3.10 in chips) 
+Seat 3: Gabriel.SMAA ($0.73 in chips) 
+Seat 4: abobora33 ($4.01 in chips) 
+Seat 5: Dr_Poliakov ($2.07 in chips) 
+Seat 6: Aristarh0 ($0.74 in chips) 
+Seat 7: Dorex2007 ($1.87 in chips) 
+Seat 8: LeandroAku ($1.13 in chips) 
+Seat 9: ST3RK ($4.93 in chips) 
+abobora33: posts small blind $0.01
+Dr_Poliakov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 4d]
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+ST3RK: folds 
+12AJV9: folds 
+leomax100: folds 
+Gabriel.SMAA: raises $0.02 to $0.04
+abobora33: folds 
+Dr_Poliakov: raises $0.09 to $0.13
+Gabriel.SMAA: folds 
+Uncalled bet ($0.09) returned to Dr_Poliakov
+Dr_Poliakov collected $0.09 from pot
+Dr_Poliakov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: leomax100 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA (button) folded before Flop
+Seat 4: abobora33 (small blind) folded before Flop
+Seat 5: Dr_Poliakov (big blind) collected ($0.09)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227919375876:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:05:24 PT [2021/06/28 19:05:24 ET]
+Table 'Fechtig II' 9-max Seat #4 is the button
+Seat 1: 12AJV9 ($1.86 in chips) 
+Seat 2: leomax100 ($3.10 in chips) 
+Seat 3: Gabriel.SMAA ($0.69 in chips) 
+Seat 4: abobora33 ($4 in chips) 
+Seat 5: Dr_Poliakov ($2.12 in chips) 
+Seat 6: Aristarh0 ($0.74 in chips) 
+Seat 7: Dorex2007 ($1.87 in chips) 
+Seat 8: LeandroAku ($1.13 in chips) 
+Seat 9: ST3RK ($4.93 in chips) 
+Dr_Poliakov: posts small blind $0.01
+Aristarh0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Jd]
+Dorex2007: folds 
+LeandroAku: raises $0.04 to $0.06
+ST3RK: calls $0.06
+12AJV9: folds 
+leomax100: folds 
+Gabriel.SMAA: calls $0.06
+abobora33: calls $0.06
+Dr_Poliakov: folds 
+Aristarh0: folds 
+*** FLOP *** [Ts 4s Jc]
+LeandroAku: checks 
+ST3RK: bets $0.13
+Gabriel.SMAA: calls $0.13
+abobora33: folds 
+LeandroAku: calls $0.13
+*** TURN *** [Ts 4s Jc] [6d]
+LeandroAku: checks 
+ST3RK: checks 
+Gabriel.SMAA: bets $0.10
+LeandroAku: calls $0.10
+ST3RK: calls $0.10
+*** RIVER *** [Ts 4s Jc 6d] [Kd]
+LeandroAku: checks 
+ST3RK: bets $0.93
+Gabriel.SMAA: calls $0.40 and is all-in
+LeandroAku: folds 
+Uncalled bet ($0.53) returned to ST3RK
+*** SHOW DOWN ***
+ST3RK: shows [9h Qh] (a straight, Nine to King)
+Gabriel.SMAA: shows [As Qs] (a straight, Ten to Ace)
+Gabriel.SMAA collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.76 | Rake $0.06 
+Board [Ts 4s Jc 6d Kd]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: leomax100 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA showed [As Qs] and won ($1.70) with a straight, Ten to Ace
+Seat 4: abobora33 (button) folded on the Flop
+Seat 5: Dr_Poliakov (small blind) folded before Flop
+Seat 6: Aristarh0 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded on the River
+Seat 9: ST3RK showed [9h Qh] and lost with a straight, Nine to King
+
+
+
+PokerStars Hand #227919416513:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:07:02 PT [2021/06/28 19:07:02 ET]
+Table 'Fechtig II' 9-max Seat #5 is the button
+Seat 1: 12AJV9 ($1.86 in chips) 
+Seat 2: leomax100 ($3.10 in chips) 
+Seat 3: Gabriel.SMAA ($1.70 in chips) 
+Seat 4: abobora33 ($3.94 in chips) 
+Seat 5: Dr_Poliakov ($2.11 in chips) 
+Seat 6: Aristarh0 ($0.72 in chips) 
+Seat 7: Dorex2007 ($1.87 in chips) 
+Seat 8: LeandroAku ($0.84 in chips) 
+Seat 9: ST3RK ($4.24 in chips) 
+Aristarh0: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 6c]
+LeandroAku: folds 
+ST3RK: calls $0.02
+12AJV9: raises $0.05 to $0.07
+leomax100: calls $0.07
+Gabriel.SMAA: folds 
+abobora33: calls $0.07
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+ST3RK: calls $0.05
+*** FLOP *** [3d 2h 5c]
+ST3RK: checks 
+12AJV9: checks 
+leomax100: checks 
+abobora33: bets $0.14
+ST3RK: raises $1.14 to $1.28
+12AJV9: folds 
+leomax100: folds 
+abobora33: folds 
+Uncalled bet ($1.14) returned to ST3RK
+ST3RK collected $0.57 from pot
+ST3RK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.02 
+Board [3d 2h 5c]
+Seat 1: 12AJV9 folded on the Flop
+Seat 2: leomax100 folded on the Flop
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded on the Flop
+Seat 5: Dr_Poliakov (button) folded before Flop (didn't bet)
+Seat 6: Aristarh0 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK collected ($0.57)
+
+
+
+PokerStars Hand #227919435005:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:08:00 PT [2021/06/28 19:08:00 ET]
+Table 'Fechtig II' 9-max Seat #6 is the button
+Seat 1: 12AJV9 ($1.79 in chips) 
+Seat 2: leomax100 ($3.03 in chips) 
+Seat 3: Gabriel.SMAA ($1.70 in chips) 
+Seat 4: abobora33 ($3.73 in chips) 
+Seat 5: Dr_Poliakov ($2.11 in chips) 
+Seat 6: Aristarh0 ($0.71 in chips) 
+Seat 7: Dorex2007 ($1.85 in chips) 
+Seat 8: LeandroAku ($0.84 in chips) 
+Seat 9: ST3RK ($4.60 in chips) 
+Dorex2007: posts small blind $0.01
+LeandroAku: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 4s]
+ST3RK: folds 
+12AJV9: folds 
+leomax100: folds 
+Gabriel.SMAA: raises $0.02 to $0.04
+abobora33: folds 
+Dr_Poliakov: calls $0.04
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+*** FLOP *** [Ks 8c 5d]
+Gabriel.SMAA: checks 
+Dr_Poliakov: bets $0.04
+Gabriel.SMAA: raises $0.04 to $0.08
+Dr_Poliakov: calls $0.04
+*** TURN *** [Ks 8c 5d] [3c]
+Gabriel.SMAA: checks 
+Dr_Poliakov: bets $0.09
+Gabriel.SMAA: folds 
+Uncalled bet ($0.09) returned to Dr_Poliakov
+Dr_Poliakov collected $0.26 from pot
+Dr_Poliakov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Ks 8c 5d 3c]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: leomax100 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded on the Turn
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov collected ($0.26)
+Seat 6: Aristarh0 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: LeandroAku (big blind) folded before Flop
+Seat 9: ST3RK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227919450736:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:08:50 PT [2021/06/28 19:08:50 ET]
+Table 'Fechtig II' 9-max Seat #7 is the button
+Seat 1: 12AJV9 ($1.79 in chips) 
+Seat 2: leomax100 ($3.03 in chips) 
+Seat 3: Gabriel.SMAA ($1.58 in chips) 
+Seat 4: abobora33 ($3.73 in chips) 
+Seat 5: Dr_Poliakov ($2.25 in chips) 
+Seat 6: Aristarh0 ($0.71 in chips) 
+Seat 7: Dorex2007 ($1.84 in chips) 
+Seat 8: LeandroAku ($0.82 in chips) 
+Seat 9: ST3RK ($4.60 in chips) 
+LeandroAku: posts small blind $0.01
+ST3RK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 5s]
+12AJV9: folds 
+leomax100: folds 
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: raises $0.03 to $0.05
+Aristarh0: folds 
+Dorex2007: calls $0.05
+LeandroAku: folds 
+ST3RK: calls $0.03
+*** FLOP *** [Ac Qh 3h]
+ST3RK: bets $0.08
+Dr_Poliakov: calls $0.08
+leomax100 leaves the table
+Dorex2007: calls $0.08
+*** TURN *** [Ac Qh 3h] [Ah]
+ST3RK: checks 
+Dr_Poliakov: bets $0.13
+lvfurtado007 joins the table at seat #2 
+Dorex2007: folds 
+ST3RK: calls $0.13
+*** RIVER *** [Ac Qh 3h Ah] [Tc]
+ST3RK: checks 
+Dr_Poliakov: checks 
+*** SHOW DOWN ***
+ST3RK: shows [Qc 6h] (two pair, Aces and Queens)
+Dr_Poliakov: mucks hand 
+ST3RK collected $0.64 from pot
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.02 
+Board [Ac Qh 3h Ah Tc]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: leomax100 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov mucked [Kh 9c]
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded on the Turn
+Seat 8: LeandroAku (small blind) folded before Flop
+Seat 9: ST3RK (big blind) showed [Qc 6h] and won ($0.64) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #227919469470:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:09:49 PT [2021/06/28 19:09:49 ET]
+Table 'Fechtig II' 9-max Seat #8 is the button
+Seat 1: 12AJV9 ($1.79 in chips) 
+Seat 3: Gabriel.SMAA ($1.58 in chips) 
+Seat 4: abobora33 ($3.73 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.71 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: LeandroAku ($0.81 in chips) 
+Seat 9: ST3RK ($4.98 in chips) 
+ST3RK: posts small blind $0.01
+12AJV9: posts big blind $0.02
+lvfurtado007: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Ah]
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+ST3RK: raises $0.04 to $0.06
+12AJV9: folds 
+Uncalled bet ($0.04) returned to ST3RK
+ST3RK collected $0.04 from pot
+ST3RK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: 12AJV9 (big blind) folded before Flop
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku (button) folded before Flop (didn't bet)
+Seat 9: ST3RK (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #227919477993:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:10:16 PT [2021/06/28 19:10:16 ET]
+Table 'Fechtig II' 9-max Seat #9 is the button
+Seat 1: 12AJV9 ($1.77 in chips) 
+Seat 2: lvfurtado007 ($2 in chips) 
+Seat 3: Gabriel.SMAA ($1.58 in chips) 
+Seat 4: abobora33 ($3.73 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.71 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: LeandroAku ($0.81 in chips) 
+Seat 9: ST3RK ($5 in chips) 
+12AJV9: posts small blind $0.01
+lvfurtado007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 8s]
+Gabriel.SMAA: calls $0.02
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+ST3RK: raises $0.07 to $0.09
+12AJV9: calls $0.08
+lvfurtado007: calls $0.07
+Gabriel.SMAA: folds 
+*** FLOP *** [Jd Js Ts]
+12AJV9: checks 
+lvfurtado007: bets $0.12
+ST3RK: calls $0.12
+12AJV9: raises $0.40 to $0.52
+lvfurtado007: folds 
+ST3RK: calls $0.40
+*** TURN *** [Jd Js Ts] [4d]
+12AJV9: bets $1.16 and is all-in
+ST3RK: folds 
+Uncalled bet ($1.16) returned to 12AJV9
+12AJV9 collected $1.40 from pot
+*** SUMMARY ***
+Total pot $1.45 | Rake $0.05 
+Board [Jd Js Ts 4d]
+Seat 1: 12AJV9 (small blind) collected ($1.40)
+Seat 2: lvfurtado007 (big blind) folded on the Flop
+Seat 3: Gabriel.SMAA folded before Flop
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK (button) folded on the Turn
+
+
+
+PokerStars Hand #227919503644:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:11:36 PT [2021/06/28 19:11:36 ET]
+Table 'Fechtig II' 9-max Seat #1 is the button
+Seat 1: 12AJV9 ($2.56 in chips) 
+Seat 2: lvfurtado007 ($1.79 in chips) 
+Seat 3: Gabriel.SMAA ($1.56 in chips) 
+Seat 4: abobora33 ($3.73 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.71 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: LeandroAku ($0.81 in chips) 
+Seat 9: ST3RK ($4.39 in chips) 
+lvfurtado007: posts small blind $0.01
+Gabriel.SMAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Td]
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+ST3RK: folds 
+12AJV9: folds 
+lvfurtado007: raises $0.02 to $0.04
+Gabriel.SMAA: folds 
+Uncalled bet ($0.02) returned to lvfurtado007
+lvfurtado007 collected $0.04 from pot
+lvfurtado007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: 12AJV9 (button) folded before Flop (didn't bet)
+Seat 2: lvfurtado007 (small blind) collected ($0.04)
+Seat 3: Gabriel.SMAA (big blind) folded before Flop
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227919508530:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:11:52 PT [2021/06/28 19:11:52 ET]
+Table 'Fechtig II' 9-max Seat #2 is the button
+Seat 1: 12AJV9 ($2.56 in chips) 
+Seat 2: lvfurtado007 ($1.81 in chips) 
+Seat 3: Gabriel.SMAA ($1.54 in chips) 
+Seat 4: abobora33 ($3.73 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.71 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: LeandroAku ($0.81 in chips) 
+Seat 9: ST3RK ($4.39 in chips) 
+Gabriel.SMAA: posts small blind $0.01
+abobora33: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Qc]
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+ST3RK: calls $0.02
+12AJV9: folds 
+lvfurtado007: calls $0.02
+Gabriel.SMAA: calls $0.01
+abobora33: checks 
+*** FLOP *** [Kd Ah Th]
+Gabriel.SMAA: checks 
+abobora33: checks 
+ST3RK: bets $0.08
+lvfurtado007: calls $0.08
+Gabriel.SMAA: folds 
+abobora33: folds 
+*** TURN *** [Kd Ah Th] [Ad]
+ST3RK: checks 
+lvfurtado007: bets $0.35
+ST3RK: folds 
+Uncalled bet ($0.35) returned to lvfurtado007
+lvfurtado007 collected $0.23 from pot
+lvfurtado007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Kd Ah Th Ad]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: lvfurtado007 (button) collected ($0.23)
+Seat 3: Gabriel.SMAA (small blind) folded on the Flop
+Seat 4: abobora33 (big blind) folded on the Flop
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK folded on the Turn
+
+
+
+PokerStars Hand #227919526431:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:12:48 PT [2021/06/28 19:12:48 ET]
+Table 'Fechtig II' 9-max Seat #3 is the button
+Seat 1: 12AJV9 ($2.56 in chips) 
+Seat 2: lvfurtado007 ($1.94 in chips) 
+Seat 3: Gabriel.SMAA ($1.52 in chips) 
+Seat 4: abobora33 ($3.71 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.71 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: LeandroAku ($0.81 in chips) 
+Seat 9: ST3RK ($4.29 in chips) 
+abobora33: posts small blind $0.01
+Dr_Poliakov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 6h]
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+ST3RK: folds 
+12AJV9: raises $0.03 to $0.05
+lvfurtado007: folds 
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: calls $0.03
+*** FLOP *** [Kd Js 5h]
+Dr_Poliakov: checks 
+12AJV9: bets $0.08
+Dr_Poliakov: calls $0.08
+*** TURN *** [Kd Js 5h] [3d]
+Dr_Poliakov: checks 
+12AJV9: bets $0.13
+Dr_Poliakov: folds 
+Uncalled bet ($0.13) returned to 12AJV9
+12AJV9 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Kd Js 5h 3d]
+Seat 1: 12AJV9 collected ($0.26)
+Seat 2: lvfurtado007 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA (button) folded before Flop (didn't bet)
+Seat 4: abobora33 (small blind) folded before Flop
+Seat 5: Dr_Poliakov (big blind) folded on the Turn
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227919541289:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:13:36 PT [2021/06/28 19:13:36 ET]
+Table 'Fechtig II' 9-max Seat #4 is the button
+Seat 1: 12AJV9 ($2.69 in chips) 
+Seat 2: lvfurtado007 ($1.94 in chips) 
+Seat 3: Gabriel.SMAA ($1.52 in chips) 
+Seat 4: abobora33 ($3.70 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.71 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: LeandroAku ($0.81 in chips) 
+Seat 9: ST3RK ($4.29 in chips) 
+Dr_Poliakov: posts small blind $0.01
+Aristarh0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 2c]
+Dorex2007: folds 
+LeandroAku: folds 
+ST3RK: raises $0.06 to $0.08
+12AJV9: folds 
+lvfurtado007: folds 
+Gabriel.SMAA has timed out
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Uncalled bet ($0.06) returned to ST3RK
+ST3RK collected $0.05 from pot
+ST3RK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: lvfurtado007 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 (button) folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov (small blind) folded before Flop
+Seat 6: Aristarh0 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK collected ($0.05)
+
+
+
+PokerStars Hand #227919554380:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:14:17 PT [2021/06/28 19:14:17 ET]
+Table 'Fechtig II' 9-max Seat #5 is the button
+Seat 1: 12AJV9 ($2.69 in chips) 
+Seat 2: lvfurtado007 ($1.94 in chips) 
+Seat 3: Gabriel.SMAA ($1.52 in chips) 
+Seat 4: abobora33 ($3.70 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.69 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: LeandroAku ($0.81 in chips) 
+Seat 9: ST3RK ($4.32 in chips) 
+Aristarh0: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 4h]
+LeandroAku: folds 
+ST3RK: calls $0.02
+12AJV9: folds 
+lvfurtado007: calls $0.02
+Gabriel.SMAA: folds 
+abobora33: calls $0.02
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: checks 
+*** FLOP *** [Js 7d 6h]
+Dorex2007: checks 
+ST3RK: bets $0.06
+lvfurtado007: raises $0.19 to $0.25
+abobora33: folds 
+Dorex2007: folds 
+ST3RK: folds 
+Uncalled bet ($0.19) returned to lvfurtado007
+lvfurtado007 collected $0.20 from pot
+lvfurtado007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Js 7d 6h]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: lvfurtado007 collected ($0.20)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded on the Flop
+Seat 5: Dr_Poliakov (button) folded before Flop (didn't bet)
+Seat 6: Aristarh0 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded on the Flop
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK folded on the Flop
+
+
+
+PokerStars Hand #227919566190:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:14:55 PT [2021/06/28 19:14:55 ET]
+Table 'Fechtig II' 9-max Seat #6 is the button
+Seat 1: 12AJV9 ($2.69 in chips) 
+Seat 2: lvfurtado007 ($2.06 in chips) 
+Seat 3: Gabriel.SMAA ($1.52 in chips) 
+Seat 4: abobora33 ($3.68 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.68 in chips) 
+Seat 7: Dorex2007 ($1.98 in chips) 
+Seat 8: LeandroAku ($0.81 in chips) 
+Seat 9: ST3RK ($4.24 in chips) 
+Dorex2007: posts small blind $0.01
+LeandroAku: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Ts]
+ST3RK: folds 
+12AJV9: raises $0.03 to $0.05
+lvfurtado007: raises $0.05 to $0.10
+Gabriel.SMAA: folds 
+abobora33: calls $0.10
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+12AJV9: calls $0.05
+*** FLOP *** [2s Td 7h]
+12AJV9: checks 
+lvfurtado007: bets $0.05
+abobora33: calls $0.05
+12AJV9: calls $0.05
+*** TURN *** [2s Td 7h] [Ac]
+12AJV9: checks 
+lvfurtado007: bets $0.20
+abobora33: folds 
+12AJV9: folds 
+Uncalled bet ($0.20) returned to lvfurtado007
+lvfurtado007 collected $0.46 from pot
+lvfurtado007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [2s Td 7h Ac]
+Seat 1: 12AJV9 folded on the Turn
+Seat 2: lvfurtado007 collected ($0.46)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded on the Turn
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: LeandroAku (big blind) folded before Flop
+Seat 9: ST3RK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227919584821:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:15:54 PT [2021/06/28 19:15:54 ET]
+Table 'Fechtig II' 9-max Seat #7 is the button
+Seat 1: 12AJV9 ($2.54 in chips) 
+Seat 2: lvfurtado007 ($2.37 in chips) 
+Seat 3: Gabriel.SMAA ($1.52 in chips) 
+Seat 4: abobora33 ($3.53 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.68 in chips) 
+Seat 7: Dorex2007 ($1.97 in chips) 
+Seat 8: LeandroAku ($0.79 in chips) 
+Seat 9: ST3RK ($4.24 in chips) 
+LeandroAku: posts small blind $0.01
+ST3RK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Qd]
+12AJV9: folds 
+lvfurtado007: raises $0.02 to $0.04
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: calls $0.04
+LeandroAku: folds 
+ST3RK: calls $0.02
+*** FLOP *** [Ad Jc 8d]
+ST3RK: checks 
+lvfurtado007: bets $0.04
+Dorex2007: calls $0.04
+ST3RK: folds 
+*** TURN *** [Ad Jc 8d] [5c]
+lvfurtado007: bets $0.25
+Dorex2007: calls $0.25
+*** RIVER *** [Ad Jc 8d 5c] [Jd]
+lvfurtado007: bets $1
+Dorex2007: calls $1
+*** SHOW DOWN ***
+lvfurtado007: shows [Kh Ah] (two pair, Aces and Jacks)
+Dorex2007: mucks hand 
+lvfurtado007 collected $2.62 from pot
+*** SUMMARY ***
+Total pot $2.71 | Rake $0.09 
+Board [Ad Jc 8d 5c Jd]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: lvfurtado007 showed [Kh Ah] and won ($2.62) with two pair, Aces and Jacks
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) mucked [As Qd]
+Seat 8: LeandroAku (small blind) folded before Flop
+Seat 9: ST3RK (big blind) folded on the Flop
+
+
+
+PokerStars Hand #227919607739:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:17:08 PT [2021/06/28 19:17:08 ET]
+Table 'Fechtig II' 9-max Seat #8 is the button
+Seat 1: 12AJV9 ($2.54 in chips) 
+Seat 2: lvfurtado007 ($3.66 in chips) 
+Seat 3: Gabriel.SMAA ($1.52 in chips) 
+Seat 4: abobora33 ($3.53 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.68 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: LeandroAku ($0.78 in chips) 
+Seat 9: ST3RK ($4.20 in chips) 
+ST3RK: posts small blind $0.01
+12AJV9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 5h]
+lvfurtado007: calls $0.02
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: raises $0.06 to $0.08
+ST3RK: calls $0.07
+12AJV9: folds 
+lvfurtado007: folds 
+*** FLOP *** [Qd 6c 2d]
+ST3RK: checks 
+LeandroAku: checks 
+*** TURN *** [Qd 6c 2d] [Ac]
+ST3RK: checks 
+LeandroAku: checks 
+*** RIVER *** [Qd 6c 2d Ac] [9h]
+ST3RK: checks 
+LeandroAku: checks 
+*** SHOW DOWN ***
+ST3RK: shows [9c Jd] (a pair of Nines)
+LeandroAku: shows [Jh Jc] (a pair of Jacks)
+LeandroAku collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Qd 6c 2d Ac 9h]
+Seat 1: 12AJV9 (big blind) folded before Flop
+Seat 2: lvfurtado007 folded before Flop
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku (button) showed [Jh Jc] and won ($0.19) with a pair of Jacks
+Seat 9: ST3RK (small blind) showed [9c Jd] and lost with a pair of Nines
+
+
+
+PokerStars Hand #227919624046:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:18:01 PT [2021/06/28 19:18:01 ET]
+Table 'Fechtig II' 9-max Seat #9 is the button
+Seat 1: 12AJV9 ($2.52 in chips) 
+Seat 2: lvfurtado007 ($3.64 in chips) 
+Seat 3: Gabriel.SMAA ($1.52 in chips) 
+Seat 4: abobora33 ($3.53 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.68 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: LeandroAku ($0.89 in chips) 
+Seat 9: ST3RK ($4.12 in chips) 
+12AJV9: posts small blind $0.01
+lvfurtado007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Ks]
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0 has timed out
+Aristarh0: folds 
+Dorex2007: raises $0.04 to $0.06
+LeandroAku: folds 
+ST3RK: calls $0.06
+12AJV9: folds 
+lvfurtado007: calls $0.04
+*** FLOP *** [5c Th 8c]
+lvfurtado007: checks 
+Dorex2007: checks 
+ST3RK: bets $0.18
+lvfurtado007: folds 
+Dorex2007: raises $0.18 to $0.36
+ST3RK: calls $0.18
+*** TURN *** [5c Th 8c] [2c]
+Dorex2007: bets $0.88
+ST3RK: raises $2.82 to $3.70 and is all-in
+Dorex2007: calls $0.70 and is all-in
+Uncalled bet ($2.12) returned to ST3RK
+*** RIVER *** [5c Th 8c 2c] [3d]
+*** SHOW DOWN ***
+Dorex2007: shows [Kc Ks] (a pair of Kings)
+ST3RK: shows [9d Jc] (high card Jack)
+Dorex2007 cashed out the hand for $3.37 | Cash Out Fee $0.03
+*** SUMMARY ***
+Total pot $4.07 | Rake $0.14 
+Board [5c Th 8c 2c 3d]
+Seat 1: 12AJV9 (small blind) folded before Flop
+Seat 2: lvfurtado007 (big blind) folded on the Flop
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 showed [Kc Ks] and won ($3.93) with a pair of Kings (pot not awarded as player cashed out)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK (button) showed [9d Jc] and lost with high card Jack
+
+
+
+PokerStars Hand #227919648248:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:19:19 PT [2021/06/28 19:19:19 ET]
+Table 'Fechtig II' 9-max Seat #1 is the button
+Seat 1: 12AJV9 ($2.51 in chips) 
+Seat 2: lvfurtado007 ($3.58 in chips) 
+Seat 3: Gabriel.SMAA ($1.52 in chips) 
+Seat 4: abobora33 ($3.53 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.68 in chips) 
+Seat 7: Dorex2007 ($3.37 in chips) 
+Seat 8: LeandroAku ($0.89 in chips) 
+Seat 9: ST3RK ($2.12 in chips) 
+lvfurtado007: posts small blind $0.01
+Gabriel.SMAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Ad]
+abobora33: folds 
+Dr_Poliakov: raises $0.04 to $0.06
+Aristarh0: folds 
+Dorex2007: calls $0.06
+LeandroAku: folds 
+ST3RK: folds 
+12AJV9: calls $0.06
+lvfurtado007: calls $0.05
+Gabriel.SMAA: folds 
+*** FLOP *** [Ks 3s 2h]
+lvfurtado007: bets $0.08
+Dr_Poliakov: calls $0.08
+Dorex2007: raises $0.12 to $0.20
+12AJV9: folds 
+lvfurtado007: calls $0.12
+Dr_Poliakov: calls $0.12
+*** TURN *** [Ks 3s 2h] [6d]
+lvfurtado007: bets $0.75
+Dr_Poliakov: folds 
+Dorex2007: raises $1.07 to $1.82
+lvfurtado007: raises $1.07 to $2.89
+Dorex2007: raises $0.22 to $3.11 and is all-in
+lvfurtado007: calls $0.22
+*** RIVER *** [Ks 3s 2h 6d] [2s]
+*** SHOW DOWN ***
+lvfurtado007: shows [4d Kh] (two pair, Kings and Deuces)
+Dorex2007: shows [Ah Ad] (two pair, Aces and Deuces)
+Dorex2007 collected $6.83 from pot
+lvfurtado007 cashed out the hand for $1.39 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $7.08 | Rake $0.25 
+Board [Ks 3s 2h 6d 2s]
+Seat 1: 12AJV9 (button) folded on the Flop
+Seat 2: lvfurtado007 (small blind) showed [4d Kh] and lost with two pair, Kings and Deuces (cashed out).
+Seat 3: Gabriel.SMAA (big blind) folded before Flop
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded on the Turn
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 showed [Ah Ad] and won ($6.83) with two pair, Aces and Deuces
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: ST3RK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227919685323:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:20:48 PT [2021/06/28 19:20:48 ET]
+Table 'Fechtig II' 9-max Seat #2 is the button
+Seat 1: 12AJV9 ($2.45 in chips) 
+Seat 2: lvfurtado007 ($1.60 in chips) 
+Seat 3: Gabriel.SMAA ($1.50 in chips) 
+Seat 4: abobora33 ($3.53 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.68 in chips) 
+Seat 7: Dorex2007 ($6.83 in chips) 
+Seat 9: ST3RK ($2.12 in chips) 
+Gabriel.SMAA: posts small blind $0.01
+abobora33: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 5c]
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+ST3RK: raises $0.05 to $0.07
+12AJV9: folds 
+lvfurtado007: folds 
+Gabriel.SMAA: folds 
+abobora33: folds 
+Uncalled bet ($0.05) returned to ST3RK
+ST3RK collected $0.05 from pot
+ST3RK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: lvfurtado007 (button) folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA (small blind) folded before Flop
+Seat 4: abobora33 (big blind) folded before Flop
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: ST3RK collected ($0.05)
+
+
+
+PokerStars Hand #227919703595:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:21:24 PT [2021/06/28 19:21:24 ET]
+Table 'Fechtig II' 9-max Seat #3 is the button
+Seat 1: 12AJV9 ($2.45 in chips) 
+Seat 2: lvfurtado007 ($1.60 in chips) 
+Seat 3: Gabriel.SMAA ($1.49 in chips) 
+Seat 4: abobora33 ($3.51 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.68 in chips) 
+Seat 7: Dorex2007 ($6.83 in chips) 
+Seat 9: ST3RK ($2.15 in chips) 
+abobora33: posts small blind $0.01
+Dr_Poliakov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d Js]
+Aristarh0: folds 
+Dorex2007: folds 
+ST3RK: raises $0.02 to $0.04
+12AJV9: folds 
+lvfurtado007: raises $0.04 to $0.08
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: folds 
+ST3RK: calls $0.04
+*** FLOP *** [Kc 2h Ac]
+ST3RK: checks 
+lvfurtado007: bets $0.20
+ST3RK: folds 
+Uncalled bet ($0.20) returned to lvfurtado007
+lvfurtado007 collected $0.18 from pot
+lvfurtado007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Kc 2h Ac]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: lvfurtado007 collected ($0.18)
+Seat 3: Gabriel.SMAA (button) folded before Flop (didn't bet)
+Seat 4: abobora33 (small blind) folded before Flop
+Seat 5: Dr_Poliakov (big blind) folded before Flop
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: ST3RK folded on the Flop
+
+
+
+PokerStars Hand #227919713147:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:21:56 PT [2021/06/28 19:21:56 ET]
+Table 'Fechtig II' 9-max Seat #4 is the button
+Seat 1: 12AJV9 ($2.45 in chips) 
+Seat 2: lvfurtado007 ($1.70 in chips) 
+Seat 3: Gabriel.SMAA ($1.49 in chips) 
+Seat 4: abobora33 ($3.50 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.68 in chips) 
+Seat 7: Dorex2007 ($6.83 in chips) 
+Seat 9: ST3RK ($2.07 in chips) 
+Dr_Poliakov: posts small blind $0.01
+Aristarh0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Jc]
+Dorex2007: folds 
+ST3RK: raises $0.04 to $0.06
+12AJV9: folds 
+lvfurtado007: calls $0.06
+Gabriel.SMAA: folds 
+abobora33: calls $0.06
+Dr_Poliakov: folds 
+Aristarh0: folds 
+*** FLOP *** [Ts 8s 2c]
+ST3RK: checks 
+lvfurtado007: bets $0.12
+abobora33: folds 
+ST3RK: folds 
+Uncalled bet ($0.12) returned to lvfurtado007
+lvfurtado007 collected $0.20 from pot
+lvfurtado007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Ts 8s 2c]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: lvfurtado007 collected ($0.20)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 (button) folded on the Flop
+Seat 5: Dr_Poliakov (small blind) folded before Flop
+Seat 6: Aristarh0 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: ST3RK folded on the Flop
+
+
+
+PokerStars Hand #227919723740:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:22:31 PT [2021/06/28 19:22:31 ET]
+Table 'Fechtig II' 9-max Seat #5 is the button
+Seat 1: 12AJV9 ($2.45 in chips) 
+Seat 2: lvfurtado007 ($1.84 in chips) 
+Seat 3: Gabriel.SMAA ($1.49 in chips) 
+Seat 4: abobora33 ($3.44 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($0.66 in chips) 
+Seat 7: Dorex2007 ($6.83 in chips) 
+Seat 9: ST3RK ($2.01 in chips) 
+Aristarh0: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Qh]
+ST3RK: calls $0.02
+12AJV9: raises $0.05 to $0.07
+lvfurtado007: folds 
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: calls $0.07
+Aristarh0: folds 
+Dorex2007: folds 
+ST3RK: calls $0.05
+*** FLOP *** [Jh 7c 5s]
+ST3RK: checks 
+12AJV9: bets $0.08
+Dr_Poliakov: calls $0.08
+ST3RK: calls $0.08
+*** TURN *** [Jh 7c 5s] [6s]
+ST3RK: checks 
+12AJV9: checks 
+Dr_Poliakov: bets $0.35
+ST3RK: folds 
+12AJV9: raises $0.55 to $0.90
+Dr_Poliakov: raises $0.95 to $1.85 and is all-in
+12AJV9: folds 
+Uncalled bet ($0.95) returned to Dr_Poliakov
+Dr_Poliakov collected $2.20 from pot
+Dr_Poliakov: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.28 | Rake $0.08 
+Board [Jh 7c 5s 6s]
+Seat 1: 12AJV9 folded on the Turn
+Seat 2: lvfurtado007 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov (button) collected ($2.20)
+Seat 6: Aristarh0 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 9: ST3RK folded on the Turn
+
+
+
+PokerStars Hand #227919752853:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:24:07 PT [2021/06/28 19:24:07 ET]
+Table 'Fechtig II' 9-max Seat #6 is the button
+Seat 1: 12AJV9 ($1.40 in chips) 
+Seat 2: lvfurtado007 ($1.84 in chips) 
+Seat 3: Gabriel.SMAA ($1.49 in chips) 
+Seat 4: abobora33 ($3.44 in chips) 
+Seat 5: Dr_Poliakov ($3.15 in chips) 
+Seat 6: Aristarh0 ($0.65 in chips) 
+Seat 7: Dorex2007 ($6.81 in chips) 
+Dorex2007: posts small blind $0.01
+ST3RK: is sitting out 
+12AJV9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 2d]
+ST3RK leaves the table
+lvfurtado007: calls $0.02
+Gabriel.SMAA: folds 
+abobora33: raises $0.04 to $0.06
+Dr_Poliakov: calls $0.06
+Aristarh0: folds 
+Dorex2007: folds 
+12AJV9: folds 
+Ch0pperch1c joins the table at seat #9 
+lvfurtado007: raises $0.04 to $0.10
+abobora33: calls $0.04
+Dr_Poliakov: calls $0.04
+*** FLOP *** [8s 5d 4d]
+lvfurtado007: bets $0.15
+abobora33: folds 
+Dr_Poliakov: folds 
+Uncalled bet ($0.15) returned to lvfurtado007
+lvfurtado007 collected $0.32 from pot
+lvfurtado007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [8s 5d 4d]
+Seat 1: 12AJV9 (big blind) folded before Flop
+Seat 2: lvfurtado007 collected ($0.32)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded on the Flop
+Seat 5: Dr_Poliakov folded on the Flop
+Seat 6: Aristarh0 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #227919769094:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:25:00 PT [2021/06/28 19:25:00 ET]
+Table 'Fechtig II' 9-max Seat #7 is the button
+Seat 1: 12AJV9 ($1.38 in chips) 
+Seat 2: lvfurtado007 ($2.06 in chips) 
+Seat 3: Gabriel.SMAA ($1.49 in chips) 
+Seat 4: abobora33 ($3.34 in chips) 
+Seat 5: Dr_Poliakov ($3.05 in chips) 
+Seat 6: Aristarh0 ($0.65 in chips) 
+Seat 7: Dorex2007 ($6.80 in chips) 
+12AJV9: posts small blind $0.01
+lvfurtado007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Qh]
+Gabriel.SMAA has timed out
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+12AJV9: folds 
+Uncalled bet ($0.01) returned to lvfurtado007
+lvfurtado007 collected $0.02 from pot
+lvfurtado007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: 12AJV9 (small blind) folded before Flop
+Seat 2: lvfurtado007 (big blind) collected ($0.02)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227919774176:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:25:18 PT [2021/06/28 19:25:18 ET]
+Table 'Fechtig II' 9-max Seat #1 is the button
+Seat 1: 12AJV9 ($1.37 in chips) 
+Seat 2: lvfurtado007 ($2.07 in chips) 
+Seat 3: Gabriel.SMAA ($1.49 in chips) 
+Seat 4: abobora33 ($3.34 in chips) 
+Seat 5: Dr_Poliakov ($3.05 in chips) 
+Seat 6: Aristarh0 ($0.65 in chips) 
+Seat 7: Dorex2007 ($6.80 in chips) 
+Seat 9: Ch0pperch1c ($2 in chips) 
+lvfurtado007: posts small blind $0.01
+Gabriel.SMAA: posts big blind $0.02
+Ch0pperch1c: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Kc]
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: raises $0.02 to $0.04
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+lvfurtado007: calls $0.03
+Gabriel.SMAA: folds 
+*** FLOP *** [6s 6d 8c]
+lvfurtado007: checks 
+Dorex2007: checks 
+Ch0pperch1c: checks 
+*** TURN *** [6s 6d 8c] [7h]
+lvfurtado007: checks 
+Dorex2007: checks 
+Ch0pperch1c: checks 
+*** RIVER *** [6s 6d 8c 7h] [3h]
+lvfurtado007: checks 
+Dorex2007: checks 
+Ch0pperch1c: checks 
+*** SHOW DOWN ***
+lvfurtado007: shows [Jh 4s] (a pair of Sixes)
+Dorex2007: shows [Qd Kc] (a pair of Sixes - King kicker)
+Ch0pperch1c: mucks hand 
+Dorex2007 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [6s 6d 8c 7h 3h]
+Seat 1: 12AJV9 (button) folded before Flop (didn't bet)
+Seat 2: lvfurtado007 (small blind) showed [Jh 4s] and lost with a pair of Sixes
+Seat 3: Gabriel.SMAA (big blind) folded before Flop
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 showed [Qd Kc] and won ($0.14) with a pair of Sixes
+Seat 9: Ch0pperch1c mucked [Jc Th]
+
+
+
+PokerStars Hand #227919788717:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:26:06 PT [2021/06/28 19:26:06 ET]
+Table 'Fechtig II' 9-max Seat #2 is the button
+Seat 1: 12AJV9 ($1.37 in chips) 
+Seat 2: lvfurtado007 ($2.03 in chips) 
+Seat 3: Gabriel.SMAA ($1.47 in chips) 
+Seat 4: abobora33 ($3.34 in chips) 
+Seat 5: Dr_Poliakov ($3.05 in chips) 
+Seat 6: Aristarh0 ($0.65 in chips) 
+Seat 7: Dorex2007 ($6.90 in chips) 
+Seat 9: Ch0pperch1c ($1.96 in chips) 
+Gabriel.SMAA: posts small blind $0.01
+abobora33: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Ts]
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007 has timed out
+Dorex2007: folds 
+Ch0pperch1c: calls $0.02
+12AJV9: raises $0.08 to $0.10
+lvfurtado007: raises $0.10 to $0.20
+Gabriel.SMAA: folds 
+abobora33: folds 
+Ch0pperch1c: folds 
+12AJV9: calls $0.10
+*** FLOP *** [6c 9s Qc]
+12AJV9: checks 
+lvfurtado007: bets $0.30
+12AJV9: calls $0.30
+*** TURN *** [6c 9s Qc] [4c]
+12AJV9: checks 
+lvfurtado007: bets $0.45
+12AJV9: raises $0.42 to $0.87 and is all-in
+lvfurtado007: calls $0.42
+*** RIVER *** [6c 9s Qc 4c] [6d]
+*** SHOW DOWN ***
+12AJV9: shows [9h 9c] (a full house, Nines full of Sixes)
+lvfurtado007: shows [4s 4h] (a full house, Fours full of Sixes)
+12AJV9 collected $2.69 from pot
+*** SUMMARY ***
+Total pot $2.79 | Rake $0.10 
+Board [6c 9s Qc 4c 6d]
+Seat 1: 12AJV9 showed [9h 9c] and won ($2.69) with a full house, Nines full of Sixes
+Seat 2: lvfurtado007 (button) showed [4s 4h] and lost with a full house, Fours full of Sixes
+Seat 3: Gabriel.SMAA (small blind) folded before Flop
+Seat 4: abobora33 (big blind) folded before Flop
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c folded before Flop
+
+
+
+PokerStars Hand #227919826212:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:27:56 PT [2021/06/28 19:27:56 ET]
+Table 'Fechtig II' 9-max Seat #3 is the button
+Seat 1: 12AJV9 ($2.69 in chips) 
+Seat 2: lvfurtado007 ($0.66 in chips) 
+Seat 3: Gabriel.SMAA ($1.46 in chips) 
+Seat 4: abobora33 ($3.32 in chips) 
+Seat 5: Dr_Poliakov ($3.05 in chips) 
+Seat 6: Aristarh0 ($0.65 in chips) 
+Seat 7: Dorex2007 ($6.90 in chips) 
+Seat 9: Ch0pperch1c ($1.94 in chips) 
+abobora33: posts small blind $0.01
+Dr_Poliakov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 2d]
+Aristarh0: raises $0.05 to $0.07
+Dorex2007: folds 
+Ch0pperch1c: folds 
+12AJV9: folds 
+lvfurtado007: raises $0.05 to $0.12
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0: raises $0.53 to $0.65 and is all-in
+lvfurtado007: calls $0.53
+*** FLOP *** [Jd 9c 9d]
+*** TURN *** [Jd 9c 9d] [4s]
+*** RIVER *** [Jd 9c 9d 4s] [Qc]
+*** SHOW DOWN ***
+Aristarh0: shows [Jh Jc] (a full house, Jacks full of Nines)
+lvfurtado007: shows [Qd 7d] (two pair, Queens and Nines)
+Aristarh0 cashed out the hand for $0.87 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $1.33 | Rake $0.05 
+Board [Jd 9c 9d 4s Qc]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: lvfurtado007 showed [Qd 7d] and lost with two pair, Queens and Nines
+Seat 3: Gabriel.SMAA (button) folded before Flop (didn't bet)
+Seat 4: abobora33 (small blind) folded before Flop
+Seat 5: Dr_Poliakov (big blind) folded before Flop
+Seat 6: Aristarh0 showed [Jh Jc] and won ($1.28) with a full house, Jacks full of Nines (pot not awarded as player cashed out)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227919838324:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:28:38 PT [2021/06/28 19:28:38 ET]
+Table 'Fechtig II' 9-max Seat #4 is the button
+Seat 1: 12AJV9 ($2.69 in chips) 
+Seat 3: Gabriel.SMAA ($1.46 in chips) 
+Seat 4: abobora33 ($3.31 in chips) 
+Seat 5: Dr_Poliakov ($3.03 in chips) 
+Seat 6: Aristarh0 ($0.87 in chips) 
+Seat 7: Dorex2007 ($6.90 in chips) 
+Seat 9: Ch0pperch1c ($1.94 in chips) 
+Dr_Poliakov: posts small blind $0.01
+Aristarh0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 7s]
+Dorex2007: folds 
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+lvfurtado007 leaves the table
+Gabriel.SMAA: folds 
+SouthStyle88 joins the table at seat #2 
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0: checks 
+*** FLOP *** [Ks 3s Ah]
+Aristarh0: checks 
+Ch0pperch1c: checks 
+*** TURN *** [Ks 3s Ah] [Ts]
+Aristarh0: checks 
+Ch0pperch1c: checks 
+*** RIVER *** [Ks 3s Ah Ts] [Js]
+Aristarh0: checks 
+Ch0pperch1c: checks 
+*** SHOW DOWN ***
+Aristarh0: shows [8h Qh] (a straight, Ten to Ace)
+Ch0pperch1c: shows [Tc Qs] (a flush, King high)
+Ch0pperch1c collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ks 3s Ah Ts Js]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 (button) folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov (small blind) folded before Flop
+Seat 6: Aristarh0 (big blind) showed [8h Qh] and lost with a straight, Ten to Ace
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c showed [Tc Qs] and won ($0.05) with a flush, King high
+
+
+
+PokerStars Hand #227919850147:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:29:18 PT [2021/06/28 19:29:18 ET]
+Table 'Fechtig II' 9-max Seat #5 is the button
+Seat 1: 12AJV9 ($2.69 in chips) 
+Seat 3: Gabriel.SMAA ($1.46 in chips) 
+Seat 4: abobora33 ($3.31 in chips) 
+Seat 5: Dr_Poliakov ($3.02 in chips) 
+Seat 6: Aristarh0 ($0.85 in chips) 
+Seat 7: Dorex2007 ($6.90 in chips) 
+Seat 9: Ch0pperch1c ($1.97 in chips) 
+Aristarh0: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+SouthStyle88: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 8d]
+Ch0pperch1c: folds 
+12AJV9: raises $0.03 to $0.05
+Gabriel.SMAA has timed out
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+Uncalled bet ($0.03) returned to 12AJV9
+12AJV9 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: 12AJV9 collected ($0.05)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov (button) folded before Flop (didn't bet)
+Seat 6: Aristarh0 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 9: Ch0pperch1c folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227919862413:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:30:01 PT [2021/06/28 19:30:01 ET]
+Table 'Fechtig II' 9-max Seat #6 is the button
+Seat 1: 12AJV9 ($2.72 in chips) 
+Seat 3: Gabriel.SMAA ($1.46 in chips) 
+Seat 4: abobora33 ($3.31 in chips) 
+Seat 5: Dr_Poliakov ($3.02 in chips) 
+Seat 6: Aristarh0 ($0.84 in chips) 
+Seat 7: Dorex2007 ($6.88 in chips) 
+Seat 9: Ch0pperch1c ($1.97 in chips) 
+Dorex2007: posts small blind $0.01
+Ch0pperch1c: posts big blind $0.02
+SouthStyle88: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 2s]
+12AJV9: folds 
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: raises $0.04 to $0.06
+Aristarh0: folds 
+Dorex2007: folds 
+Ch0pperch1c: folds 
+Uncalled bet ($0.04) returned to Dr_Poliakov
+Dr_Poliakov collected $0.05 from pot
+Dr_Poliakov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov collected ($0.05)
+Seat 6: Aristarh0 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 9: Ch0pperch1c (big blind) folded before Flop
+
+
+
+PokerStars Hand #227919867614:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:30:18 PT [2021/06/28 19:30:18 ET]
+Table 'Fechtig II' 9-max Seat #7 is the button
+Seat 1: 12AJV9 ($2.72 in chips) 
+Seat 3: Gabriel.SMAA ($1.46 in chips) 
+Seat 4: abobora33 ($3.31 in chips) 
+Seat 5: Dr_Poliakov ($3.05 in chips) 
+Seat 6: Aristarh0 ($0.84 in chips) 
+Seat 7: Dorex2007 ($6.87 in chips) 
+Seat 9: Ch0pperch1c ($1.95 in chips) 
+Ch0pperch1c: posts small blind $0.01
+12AJV9: posts big blind $0.02
+SouthStyle88: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 3s]
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+Ch0pperch1c: raises $0.02 to $0.04
+12AJV9: folds 
+Uncalled bet ($0.02) returned to Ch0pperch1c
+Ch0pperch1c collected $0.04 from pot
+Ch0pperch1c: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: 12AJV9 (big blind) folded before Flop
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #227919872771:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:30:36 PT [2021/06/28 19:30:36 ET]
+Table 'Fechtig II' 9-max Seat #9 is the button
+Seat 1: 12AJV9 ($2.70 in chips) 
+Seat 2: SouthStyle88 ($2 in chips) 
+Seat 3: Gabriel.SMAA ($1.46 in chips) 
+Seat 4: abobora33 ($3.31 in chips) 
+Seat 5: Dr_Poliakov ($3.05 in chips) 
+Seat 6: Aristarh0 ($0.84 in chips) 
+Seat 7: Dorex2007 ($6.87 in chips) 
+Seat 9: Ch0pperch1c ($1.97 in chips) 
+12AJV9: posts small blind $0.01
+SouthStyle88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 2h]
+Gabriel.SMAA has timed out
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: raises $0.04 to $0.06
+Aristarh0: folds 
+Dorex2007: folds 
+Ch0pperch1c: calls $0.06
+12AJV9: calls $0.05
+SouthStyle88: folds 
+*** FLOP *** [4d Ah 2s]
+12AJV9: checks 
+Dr_Poliakov: bets $0.06
+Ch0pperch1c: calls $0.06
+12AJV9: folds 
+*** TURN *** [4d Ah 2s] [6s]
+Dr_Poliakov: bets $0.08
+Ch0pperch1c: calls $0.08
+*** RIVER *** [4d Ah 2s 6s] [2d]
+Dr_Poliakov: checks 
+Ch0pperch1c: bets $0.46
+Dr_Poliakov: folds 
+Uncalled bet ($0.46) returned to Ch0pperch1c
+Ch0pperch1c collected $0.46 from pot
+Ch0pperch1c: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [4d Ah 2s 6s 2d]
+Seat 1: 12AJV9 (small blind) folded on the Flop
+Seat 2: SouthStyle88 (big blind) folded before Flop
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded on the River
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c (button) collected ($0.46)
+
+
+
+PokerStars Hand #227919892398:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:31:43 PT [2021/06/28 19:31:43 ET]
+Table 'Fechtig II' 9-max Seat #1 is the button
+Seat 1: 12AJV9 ($2.64 in chips) 
+Seat 2: SouthStyle88 ($2 in chips) 
+Seat 3: Gabriel.SMAA ($1.46 in chips) 
+Seat 4: abobora33 ($3.31 in chips) 
+Seat 5: Dr_Poliakov ($2.85 in chips) 
+Seat 6: Aristarh0 ($0.84 in chips) 
+Seat 7: Dorex2007 ($6.87 in chips) 
+Seat 9: Ch0pperch1c ($2.23 in chips) 
+SouthStyle88: posts small blind $0.01
+Gabriel.SMAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 7d]
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+Ch0pperch1c: folds 
+12AJV9: raises $0.03 to $0.05
+SouthStyle88: folds 
+Gabriel.SMAA: folds 
+Uncalled bet ($0.03) returned to 12AJV9
+12AJV9 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: 12AJV9 (button) collected ($0.05)
+Seat 2: SouthStyle88 (small blind) folded before Flop
+Seat 3: Gabriel.SMAA (big blind) folded before Flop
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227919898758:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:32:05 PT [2021/06/28 19:32:05 ET]
+Table 'Fechtig II' 9-max Seat #2 is the button
+Seat 1: 12AJV9 ($2.67 in chips) 
+Seat 2: SouthStyle88 ($2 in chips) 
+Seat 3: Gabriel.SMAA ($1.44 in chips) 
+Seat 4: abobora33 ($3.31 in chips) 
+Seat 5: Dr_Poliakov ($2.85 in chips) 
+Seat 6: Aristarh0 ($0.84 in chips) 
+Seat 7: Dorex2007 ($6.87 in chips) 
+Seat 9: Ch0pperch1c ($2.23 in chips) 
+Gabriel.SMAA: posts small blind $0.01
+abobora33: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 4s]
+Dr_Poliakov has timed out
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+SouthStyle88: folds 
+Gabriel.SMAA: folds 
+abobora33: checks 
+*** FLOP *** [2d 6c 5h]
+abobora33: checks 
+Ch0pperch1c: checks 
+*** TURN *** [2d 6c 5h] [3h]
+abobora33: checks 
+Ch0pperch1c: checks 
+*** RIVER *** [2d 6c 5h 3h] [Td]
+abobora33: checks 
+Ch0pperch1c: checks 
+*** SHOW DOWN ***
+abobora33: shows [Ks 2h] (a pair of Deuces)
+Ch0pperch1c: mucks hand 
+abobora33 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2d 6c 5h 3h Td]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 (button) folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA (small blind) folded before Flop
+Seat 4: abobora33 (big blind) showed [Ks 2h] and won ($0.05) with a pair of Deuces
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c mucked [Kc 9s]
+
+
+
+PokerStars Hand #227919915207:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:33:02 PT [2021/06/28 19:33:02 ET]
+Table 'Fechtig II' 9-max Seat #3 is the button
+Seat 1: 12AJV9 ($2.67 in chips) 
+Seat 2: SouthStyle88 ($2 in chips) 
+Seat 3: Gabriel.SMAA ($1.43 in chips) 
+Seat 4: abobora33 ($3.34 in chips) 
+Seat 5: Dr_Poliakov ($2.85 in chips) 
+Seat 6: Aristarh0 ($0.84 in chips) 
+Seat 7: Dorex2007 ($6.87 in chips) 
+Seat 9: Ch0pperch1c ($2.21 in chips) 
+abobora33: posts small blind $0.01
+Dr_Poliakov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 9h]
+Aristarh0: folds 
+Dorex2007: folds 
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+SouthStyle88: folds 
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: checks 
+*** FLOP *** [Ad 4s 7h]
+Dr_Poliakov: checks 
+Ch0pperch1c: checks 
+*** TURN *** [Ad 4s 7h] [Tc]
+Dr_Poliakov: bets $0.04
+Ch0pperch1c: folds 
+Uncalled bet ($0.04) returned to Dr_Poliakov
+Dr_Poliakov collected $0.05 from pot
+Dr_Poliakov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ad 4s 7h Tc]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA (button) folded before Flop (didn't bet)
+Seat 4: abobora33 (small blind) folded before Flop
+Seat 5: Dr_Poliakov (big blind) collected ($0.05)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c folded on the Turn
+
+
+
+PokerStars Hand #227919929736:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:33:52 PT [2021/06/28 19:33:52 ET]
+Table 'Fechtig II' 9-max Seat #4 is the button
+Seat 1: 12AJV9 ($2.67 in chips) 
+Seat 2: SouthStyle88 ($2 in chips) 
+Seat 3: Gabriel.SMAA ($1.43 in chips) 
+Seat 4: abobora33 ($3.33 in chips) 
+Seat 5: Dr_Poliakov ($2.88 in chips) 
+Seat 6: Aristarh0 ($0.84 in chips) 
+Seat 7: Dorex2007 ($6.87 in chips) 
+Seat 9: Ch0pperch1c ($2.19 in chips) 
+Dr_Poliakov: posts small blind $0.01
+Aristarh0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 5c]
+Dorex2007: folds 
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+SouthStyle88: folds 
+Gabriel.SMAA: folds 
+abobora33: raises $0.04 to $0.06
+Dr_Poliakov: raises $0.16 to $0.22
+Aristarh0: folds 
+Ch0pperch1c: folds 
+abobora33: calls $0.16
+*** FLOP *** [Qc 6s Ts]
+Dr_Poliakov: bets $0.35
+abobora33: folds 
+Uncalled bet ($0.35) returned to Dr_Poliakov
+Dr_Poliakov collected $0.46 from pot
+Dr_Poliakov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [Qc 6s Ts]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 (button) folded on the Flop
+Seat 5: Dr_Poliakov (small blind) collected ($0.46)
+Seat 6: Aristarh0 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c folded before Flop
+
+
+
+PokerStars Hand #227919944306:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:34:44 PT [2021/06/28 19:34:44 ET]
+Table 'Fechtig II' 9-max Seat #5 is the button
+Seat 1: 12AJV9 ($2.67 in chips) 
+Seat 2: SouthStyle88 ($2 in chips) 
+Seat 3: Gabriel.SMAA ($1.43 in chips) 
+Seat 5: Dr_Poliakov ($3.12 in chips) 
+Seat 6: Aristarh0 ($0.82 in chips) 
+Seat 7: Dorex2007 ($6.87 in chips) 
+Seat 9: Ch0pperch1c ($2.17 in chips) 
+Aristarh0: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 6h]
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+SouthStyle88: raises $0.06 to $0.08
+Gabriel.SMAA: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+Ch0pperch1c: calls $0.06
+*** FLOP *** [6c Ad As]
+Ch0pperch1c: checks 
+SouthStyle88: bets $0.08
+Ch0pperch1c: folds 
+Uncalled bet ($0.08) returned to SouthStyle88
+SouthStyle88 collected $0.18 from pot
+SouthStyle88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [6c Ad As]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 collected ($0.18)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov (button) folded before Flop (didn't bet)
+Seat 6: Aristarh0 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 9: Ch0pperch1c folded on the Flop
+
+
+
+PokerStars Hand #227919957214:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:35:28 PT [2021/06/28 19:35:28 ET]
+Table 'Fechtig II' 9-max Seat #6 is the button
+Seat 1: 12AJV9 ($2.67 in chips) 
+Seat 2: SouthStyle88 ($2.10 in chips) 
+Seat 3: Gabriel.SMAA ($1.43 in chips) 
+Seat 4: abobora33 ($3.11 in chips) 
+Seat 5: Dr_Poliakov ($3.12 in chips) 
+Seat 6: Aristarh0 ($0.81 in chips) 
+Seat 7: Dorex2007 ($6.85 in chips) 
+Seat 8: LeandroAku ($0.89 in chips) 
+Seat 9: Ch0pperch1c ($2.09 in chips) 
+Dorex2007: posts small blind $0.01
+LeandroAku: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 4d]
+Ch0pperch1c: folds 
+12AJV9: folds 
+SouthStyle88: raises $0.04 to $0.06
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+Uncalled bet ($0.04) returned to SouthStyle88
+SouthStyle88 collected $0.05 from pot
+SouthStyle88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 collected ($0.05)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: LeandroAku (big blind) folded before Flop
+Seat 9: Ch0pperch1c folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227919965791:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:35:58 PT [2021/06/28 19:35:58 ET]
+Table 'Fechtig II' 9-max Seat #7 is the button
+Seat 1: 12AJV9 ($2.67 in chips) 
+Seat 2: SouthStyle88 ($2.13 in chips) 
+Seat 3: Gabriel.SMAA ($1.43 in chips) 
+Seat 4: abobora33 ($3.11 in chips) 
+Seat 5: Dr_Poliakov ($3.12 in chips) 
+Seat 6: Aristarh0 ($0.81 in chips) 
+Seat 7: Dorex2007 ($6.84 in chips) 
+Seat 8: LeandroAku ($0.87 in chips) 
+Seat 9: Ch0pperch1c ($2.09 in chips) 
+LeandroAku: posts small blind $0.01
+Ch0pperch1c: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 9c]
+12AJV9: folds 
+SouthStyle88: folds 
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: raises $0.03 to $0.05
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: calls $0.03
+*** FLOP *** [Js Jc Jd]
+Ch0pperch1c: checks 
+Dr_Poliakov: bets $0.04
+Ch0pperch1c: folds 
+Uncalled bet ($0.04) returned to Dr_Poliakov
+Dr_Poliakov collected $0.11 from pot
+Dr_Poliakov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Js Jc Jd]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov collected ($0.11)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: LeandroAku (small blind) folded before Flop
+Seat 9: Ch0pperch1c (big blind) folded on the Flop
+
+
+
+PokerStars Hand #227919976404:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:36:35 PT [2021/06/28 19:36:35 ET]
+Table 'Fechtig II' 9-max Seat #8 is the button
+Seat 1: 12AJV9 ($2.67 in chips) 
+Seat 2: SouthStyle88 ($2.13 in chips) 
+Seat 3: Gabriel.SMAA ($1.43 in chips) 
+Seat 4: abobora33 ($3.11 in chips) 
+Seat 5: Dr_Poliakov ($3.18 in chips) 
+Seat 6: Aristarh0 ($0.81 in chips) 
+Seat 7: Dorex2007 ($6.84 in chips) 
+Seat 8: LeandroAku ($0.86 in chips) 
+Seat 9: Ch0pperch1c ($2.04 in chips) 
+Ch0pperch1c: posts small blind $0.01
+12AJV9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Kd]
+SouthStyle88: folds 
+Gabriel.SMAA: folds 
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Gabriel.SMAA said, "1110111011514111"
+Dorex2007: raises $0.04 to $0.06
+LeandroAku: folds 
+Ch0pperch1c: calls $0.05
+12AJV9: calls $0.04
+*** FLOP *** [Ac 5c 5d]
+Ch0pperch1c: checks 
+12AJV9: checks 
+Dorex2007: bets $0.09
+Ch0pperch1c: calls $0.09
+12AJV9: calls $0.09
+*** TURN *** [Ac 5c 5d] [8s]
+Ch0pperch1c: checks 
+12AJV9: checks 
+Dorex2007: checks 
+*** RIVER *** [Ac 5c 5d 8s] [Jc]
+Ch0pperch1c: bets $0.43
+12AJV9: folds 
+Dorex2007: folds 
+Uncalled bet ($0.43) returned to Ch0pperch1c
+Ch0pperch1c collected $0.43 from pot
+Ch0pperch1c: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Ac 5c 5d 8s Jc]
+Seat 1: 12AJV9 (big blind) folded on the River
+Seat 2: SouthStyle88 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded on the River
+Seat 8: LeandroAku (button) folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c (small blind) collected ($0.43)
+
+
+
+PokerStars Hand #227919995350:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:37:42 PT [2021/06/28 19:37:42 ET]
+Table 'Fechtig II' 9-max Seat #9 is the button
+Seat 1: 12AJV9 ($2.52 in chips) 
+Seat 2: SouthStyle88 ($2.13 in chips) 
+Seat 3: Gabriel.SMAA ($1.43 in chips) 
+Seat 4: abobora33 ($3.11 in chips) 
+Seat 5: Dr_Poliakov ($3.18 in chips) 
+Seat 6: Aristarh0 ($0.81 in chips) 
+Seat 7: Dorex2007 ($6.69 in chips) 
+Seat 8: LeandroAku ($0.86 in chips) 
+Seat 9: Ch0pperch1c ($2.32 in chips) 
+12AJV9: posts small blind $0.01
+SouthStyle88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 6h]
+Gabriel.SMAA said, "yes"
+Gabriel.SMAA: folds 
+abobora33: calls $0.02
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: calls $0.02
+12AJV9: raises $0.07 to $0.09
+SouthStyle88: folds 
+abobora33: folds 
+Ch0pperch1c: folds 
+Uncalled bet ($0.07) returned to 12AJV9
+12AJV9 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: 12AJV9 (small blind) collected ($0.08)
+Seat 2: SouthStyle88 (big blind) folded before Flop
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: abobora33 folded before Flop
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c (button) folded before Flop
+
+
+
+PokerStars Hand #227920004737:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:38:14 PT [2021/06/28 19:38:14 ET]
+Table 'Fechtig II' 9-max Seat #1 is the button
+Seat 1: 12AJV9 ($2.58 in chips) 
+Seat 2: SouthStyle88 ($2.11 in chips) 
+Seat 3: Gabriel.SMAA ($1.43 in chips) 
+Seat 4: abobora33 ($3.09 in chips) 
+Seat 5: Dr_Poliakov ($3.18 in chips) 
+Seat 6: Aristarh0 ($0.81 in chips) 
+Seat 7: Dorex2007 ($6.69 in chips) 
+Seat 8: LeandroAku ($0.86 in chips) 
+Seat 9: Ch0pperch1c ($2.30 in chips) 
+SouthStyle88: posts small blind $0.01
+Gabriel.SMAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Tc]
+abobora33: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+SouthStyle88: calls $0.01
+Gabriel.SMAA: checks 
+*** FLOP *** [Ts 8c Kc]
+SouthStyle88: checks 
+Gabriel.SMAA: checks 
+Ch0pperch1c: bets $0.03
+SouthStyle88: folds 
+Gabriel.SMAA: raises $0.03 to $0.06
+Ch0pperch1c: calls $0.03
+*** TURN *** [Ts 8c Kc] [4c]
+Gabriel.SMAA: checks 
+Ch0pperch1c: checks 
+*** RIVER *** [Ts 8c Kc 4c] [6d]
+Gabriel.SMAA: bets $0.06
+Ch0pperch1c: calls $0.06
+*** SHOW DOWN ***
+Gabriel.SMAA: shows [9h Th] (a pair of Tens)
+Ch0pperch1c: shows [2h Kd] (a pair of Kings)
+Ch0pperch1c collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Ts 8c Kc 4c 6d]
+Seat 1: 12AJV9 (button) folded before Flop (didn't bet)
+Seat 2: SouthStyle88 (small blind) folded on the Flop
+Seat 3: Gabriel.SMAA (big blind) showed [9h Th] and lost with a pair of Tens
+Seat 4: abobora33 folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c showed [2h Kd] and won ($0.29) with a pair of Kings
+
+
+
+PokerStars Hand #227920021605:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:39:02 PT [2021/06/28 19:39:02 ET]
+Table 'Fechtig II' 9-max Seat #2 is the button
+Seat 1: 12AJV9 ($2.58 in chips) 
+Seat 2: SouthStyle88 ($2.09 in chips) 
+Seat 3: Gabriel.SMAA ($1.29 in chips) 
+Seat 5: Dr_Poliakov ($3.18 in chips) 
+Seat 6: Aristarh0 ($0.81 in chips) 
+Seat 7: Dorex2007 ($6.69 in chips) 
+Seat 8: LeandroAku ($0.86 in chips) 
+Seat 9: Ch0pperch1c ($2.45 in chips) 
+Gabriel.SMAA: posts small blind $0.01
+abobora33: is sitting out 
+Dr_Poliakov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Qs]
+Aristarh0: folds 
+Dorex2007: folds 
+abobora33 leaves the table
+LeandroAku: folds 
+Ch0pperch1c: calls $0.02
+12AJV9: calls $0.02
+SouthStyle88: folds 
+Gabriel.SMAA: calls $0.01
+Dr_Poliakov: checks 
+*** FLOP *** [5s Qc 2h]
+Gabriel.SMAA: checks 
+Dr_Poliakov: checks 
+Ch0pperch1c: checks 
+12AJV9: checks 
+*** TURN *** [5s Qc 2h] [Ts]
+Gabriel.SMAA: checks 
+Dr_Poliakov: checks 
+Ch0pperch1c: checks 
+12AJV9: checks 
+*** RIVER *** [5s Qc 2h Ts] [9d]
+Gabriel.SMAA: bets $0.02
+Dr_Poliakov: folds 
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+*** SHOW DOWN ***
+Gabriel.SMAA: shows [Ks Th] (a pair of Tens)
+Ch0pperch1c: mucks hand 
+Gabriel.SMAA collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [5s Qc 2h Ts 9d]
+Seat 1: 12AJV9 folded on the River
+Seat 2: SouthStyle88 (button) folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA (small blind) showed [Ks Th] and won ($0.12) with a pair of Tens
+Seat 5: Dr_Poliakov (big blind) folded on the River
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c mucked [2c 4c]
+
+
+
+PokerStars Hand #227920042759:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:40:17 PT [2021/06/28 19:40:17 ET]
+Table 'Fechtig II' 9-max Seat #3 is the button
+Seat 1: 12AJV9 ($2.56 in chips) 
+Seat 2: SouthStyle88 ($2.09 in chips) 
+Seat 3: Gabriel.SMAA ($1.37 in chips) 
+Seat 5: Dr_Poliakov ($3.16 in chips) 
+Seat 6: Aristarh0 ($0.81 in chips) 
+Seat 7: Dorex2007 ($6.69 in chips) 
+Seat 8: LeandroAku ($0.86 in chips) 
+Seat 9: Ch0pperch1c ($2.41 in chips) 
+Dr_Poliakov: posts small blind $0.01
+Aristarh0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 4s]
+Dorex2007: folds 
+Burgarn joins the table at seat #4 
+LeandroAku: calls $0.02
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+SouthStyle88: calls $0.02
+Gabriel.SMAA: folds 
+Dr_Poliakov: folds 
+Aristarh0: checks 
+*** FLOP *** [Kc 5h Jc]
+Aristarh0: checks 
+LeandroAku: checks 
+Ch0pperch1c: checks 
+SouthStyle88: checks 
+*** TURN *** [Kc 5h Jc] [Ks]
+Aristarh0: checks 
+LeandroAku: checks 
+Ch0pperch1c: checks 
+SouthStyle88: checks 
+*** RIVER *** [Kc 5h Jc Ks] [Kd]
+Aristarh0: checks 
+LeandroAku: bets $0.02
+Ch0pperch1c: calls $0.02
+SouthStyle88: raises $2.05 to $2.07 and is all-in
+Aristarh0: folds 
+LeandroAku: folds 
+Ch0pperch1c: folds 
+Uncalled bet ($2.05) returned to SouthStyle88
+SouthStyle88 collected $0.14 from pot
+SouthStyle88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Kc 5h Jc Ks Kd]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 collected ($0.14)
+Seat 3: Gabriel.SMAA (button) folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov (small blind) folded before Flop
+Seat 6: Aristarh0 (big blind) folded on the River
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded on the River
+Seat 9: Ch0pperch1c folded on the River
+
+
+
+PokerStars Hand #227920064348:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:41:28 PT [2021/06/28 19:41:28 ET]
+Table 'Fechtig II' 9-max Seat #5 is the button
+Seat 1: 12AJV9 ($2.56 in chips) 
+Seat 2: SouthStyle88 ($2.19 in chips) 
+Seat 3: Gabriel.SMAA ($1.37 in chips) 
+Seat 5: Dr_Poliakov ($3.15 in chips) 
+Seat 6: Aristarh0 ($0.79 in chips) 
+Seat 7: Dorex2007 ($6.69 in chips) 
+Seat 8: LeandroAku ($0.82 in chips) 
+Seat 9: Ch0pperch1c ($2.37 in chips) 
+Aristarh0: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Burgarn: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 9c]
+LeandroAku: folds 
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+SouthStyle88: folds 
+Gabriel.SMAA: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: checks 
+*** FLOP *** [Jd As 9d]
+Dorex2007: checks 
+Ch0pperch1c: checks 
+*** TURN *** [Jd As 9d] [7h]
+Dorex2007: bets $0.05
+Ch0pperch1c: folds 
+Uncalled bet ($0.05) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jd As 9d 7h]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov (button) folded before Flop (didn't bet)
+Seat 6: Aristarh0 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) collected ($0.05)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c folded on the Turn
+
+
+
+PokerStars Hand #227920077054:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:42:13 PT [2021/06/28 19:42:13 ET]
+Table 'Fechtig II' 9-max Seat #6 is the button
+Seat 1: 12AJV9 ($2.56 in chips) 
+Seat 2: SouthStyle88 ($2.19 in chips) 
+Seat 3: Gabriel.SMAA ($1.37 in chips) 
+Seat 5: Dr_Poliakov ($3.15 in chips) 
+Seat 6: Aristarh0 ($0.78 in chips) 
+Seat 7: Dorex2007 ($6.72 in chips) 
+Seat 8: LeandroAku ($0.82 in chips) 
+Seat 9: Ch0pperch1c ($2.35 in chips) 
+Dorex2007: posts small blind $0.01
+LeandroAku: posts big blind $0.02
+Burgarn: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 5h]
+Ch0pperch1c: raises $0.02 to $0.04
+12AJV9: folds 
+SouthStyle88: folds 
+Gabriel.SMAA: folds 
+Dr_Poliakov: calls $0.04
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+*** FLOP *** [8s Ah 6d]
+Ch0pperch1c: checks 
+Dr_Poliakov: checks 
+*** TURN *** [8s Ah 6d] [2d]
+Ch0pperch1c: checks 
+Dr_Poliakov: checks 
+*** RIVER *** [8s Ah 6d 2d] [Ac]
+Ch0pperch1c: checks 
+Dr_Poliakov: checks 
+*** SHOW DOWN ***
+Ch0pperch1c: shows [Tc Td] (two pair, Aces and Tens)
+Dr_Poliakov: mucks hand 
+Ch0pperch1c collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [8s Ah 6d 2d Ac]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov mucked [Js Qh]
+Seat 6: Aristarh0 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: LeandroAku (big blind) folded before Flop
+Seat 9: Ch0pperch1c showed [Tc Td] and won ($0.11) with two pair, Aces and Tens
+
+
+
+PokerStars Hand #227920088974:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:42:55 PT [2021/06/28 19:42:55 ET]
+Table 'Fechtig II' 9-max Seat #7 is the button
+Seat 1: 12AJV9 ($2.56 in chips) 
+Seat 2: SouthStyle88 ($2.19 in chips) 
+Seat 3: Gabriel.SMAA ($1.37 in chips) 
+Seat 5: Dr_Poliakov ($3.11 in chips) 
+Seat 6: Aristarh0 ($0.78 in chips) 
+Seat 7: Dorex2007 ($6.71 in chips) 
+Seat 8: LeandroAku ($0.80 in chips) 
+Seat 9: Ch0pperch1c ($2.42 in chips) 
+LeandroAku: posts small blind $0.01
+Ch0pperch1c: posts big blind $0.02
+Burgarn: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 2h]
+12AJV9: folds 
+SouthStyle88: folds 
+Gabriel.SMAA: folds 
+Dr_Poliakov has timed out
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+Uncalled bet ($0.01) returned to Ch0pperch1c
+Ch0pperch1c collected $0.02 from pot
+Ch0pperch1c: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: LeandroAku (small blind) folded before Flop
+Seat 9: Ch0pperch1c (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #227920096446:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:43:22 PT [2021/06/28 19:43:22 ET]
+Table 'Fechtig II' 9-max Seat #8 is the button
+Seat 1: 12AJV9 ($2.56 in chips) 
+Seat 2: SouthStyle88 ($2.19 in chips) 
+Seat 3: Gabriel.SMAA ($1.37 in chips) 
+Seat 5: Dr_Poliakov ($3.11 in chips) 
+Seat 6: Aristarh0 ($0.78 in chips) 
+Seat 7: Dorex2007 ($6.71 in chips) 
+Seat 8: LeandroAku ($0.79 in chips) 
+Seat 9: Ch0pperch1c ($2.43 in chips) 
+Ch0pperch1c: posts small blind $0.01
+12AJV9: posts big blind $0.02
+Burgarn: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 4c]
+SouthStyle88: folds 
+Gabriel.SMAA: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: calls $0.01
+12AJV9: checks 
+*** FLOP *** [Kd 7h Qh]
+Ch0pperch1c: checks 
+12AJV9: checks 
+*** TURN *** [Kd 7h Qh] [2h]
+Ch0pperch1c: checks 
+12AJV9: checks 
+*** RIVER *** [Kd 7h Qh 2h] [Kc]
+Ch0pperch1c: checks 
+12AJV9: checks 
+*** SHOW DOWN ***
+Ch0pperch1c: shows [3c 6c] (a pair of Kings)
+12AJV9: shows [6s 5c] (a pair of Kings)
+Ch0pperch1c collected $0.02 from pot
+12AJV9 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Kd 7h Qh 2h Kc]
+Seat 1: 12AJV9 (big blind) showed [6s 5c] and won ($0.02) with a pair of Kings
+Seat 2: SouthStyle88 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku (button) folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c (small blind) showed [3c 6c] and won ($0.02) with a pair of Kings
+
+
+
+PokerStars Hand #227920106707:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:43:58 PT [2021/06/28 19:43:58 ET]
+Table 'Fechtig II' 9-max Seat #9 is the button
+Seat 1: 12AJV9 ($2.56 in chips) 
+Seat 2: SouthStyle88 ($2.19 in chips) 
+Seat 3: Gabriel.SMAA ($1.37 in chips) 
+Seat 5: Dr_Poliakov ($3.11 in chips) 
+Seat 6: Aristarh0 ($0.78 in chips) 
+Seat 7: Dorex2007 ($6.71 in chips) 
+Seat 8: LeandroAku ($0.79 in chips) 
+Seat 9: Ch0pperch1c ($2.43 in chips) 
+12AJV9: posts small blind $0.01
+SouthStyle88: posts big blind $0.02
+Burgarn: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 7d]
+Gabriel.SMAA has timed out
+Gabriel.SMAA: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+SouthStyle88: checks 
+*** FLOP *** [Td Ks As]
+SouthStyle88: checks 
+Ch0pperch1c: bets $0.05
+SouthStyle88: folds 
+Uncalled bet ($0.05) returned to Ch0pperch1c
+Ch0pperch1c collected $0.05 from pot
+Ch0pperch1c: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Td Ks As]
+Seat 1: 12AJV9 (small blind) folded before Flop
+Seat 2: SouthStyle88 (big blind) folded on the Flop
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c (button) collected ($0.05)
+
+
+
+PokerStars Hand #227920117273:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:44:36 PT [2021/06/28 19:44:36 ET]
+Table 'Fechtig II' 9-max Seat #1 is the button
+Seat 1: 12AJV9 ($2.55 in chips) 
+Seat 2: SouthStyle88 ($2.17 in chips) 
+Seat 3: Gabriel.SMAA ($1.37 in chips) 
+Seat 5: Dr_Poliakov ($3.11 in chips) 
+Seat 6: Aristarh0 ($0.78 in chips) 
+Seat 7: Dorex2007 ($6.71 in chips) 
+Seat 8: LeandroAku ($0.79 in chips) 
+Seat 9: Ch0pperch1c ($2.46 in chips) 
+SouthStyle88: posts small blind $0.01
+Gabriel.SMAA: posts big blind $0.02
+Burgarn: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c As]
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+SouthStyle88: calls $0.01
+Gabriel.SMAA: checks 
+*** FLOP *** [Qd Kd Ks]
+SouthStyle88: checks 
+Gabriel.SMAA: checks 
+Ch0pperch1c: checks 
+*** TURN *** [Qd Kd Ks] [7c]
+SouthStyle88: bets $0.04
+Gabriel.SMAA: folds 
+Ch0pperch1c: calls $0.04
+*** RIVER *** [Qd Kd Ks 7c] [5h]
+SouthStyle88: checks 
+Ch0pperch1c: checks 
+*** SHOW DOWN ***
+SouthStyle88: shows [Qh 8d] (two pair, Kings and Queens)
+Ch0pperch1c: mucks hand 
+SouthStyle88 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Qd Kd Ks 7c 5h]
+Seat 1: 12AJV9 (button) folded before Flop (didn't bet)
+Seat 2: SouthStyle88 (small blind) showed [Qh 8d] and won ($0.14) with two pair, Kings and Queens
+Seat 3: Gabriel.SMAA (big blind) folded on the Turn
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c mucked [Ah Js]
+
+
+
+PokerStars Hand #227920132200:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:45:23 PT [2021/06/28 19:45:23 ET]
+Table 'Fechtig II' 9-max Seat #2 is the button
+Seat 1: 12AJV9 ($2.55 in chips) 
+Seat 2: SouthStyle88 ($2.25 in chips) 
+Seat 3: Gabriel.SMAA ($1.35 in chips) 
+Seat 4: Burgarn ($2 in chips) 
+Seat 5: Dr_Poliakov ($3.11 in chips) 
+Seat 6: Aristarh0 ($0.78 in chips) 
+Seat 7: Dorex2007 ($6.71 in chips) 
+Seat 8: LeandroAku ($0.79 in chips) 
+Seat 9: Ch0pperch1c ($2.40 in chips) 
+Gabriel.SMAA: posts small blind $0.01
+Burgarn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Kc]
+Dr_Poliakov: folds 
+Aristarh0: raises $0.05 to $0.07
+Dorex2007: calls $0.07
+LeandroAku: calls $0.07
+Ch0pperch1c: folds 
+12AJV9: calls $0.07
+SouthStyle88: folds 
+Gabriel.SMAA: calls $0.06
+Burgarn: folds 
+*** FLOP *** [2h 9d Qc]
+Gabriel.SMAA: checks 
+Aristarh0: checks 
+Dorex2007: bets $0.18
+LeandroAku: folds 
+12AJV9: folds 
+Gabriel.SMAA: folds 
+Aristarh0: raises $0.53 to $0.71 and is all-in
+Dorex2007: calls $0.53
+*** TURN *** [2h 9d Qc] [5h]
+*** RIVER *** [2h 9d Qc 5h] [7h]
+*** SHOW DOWN ***
+Aristarh0: shows [7d 7c] (three of a kind, Sevens)
+Dorex2007: shows [Kh Kc] (a pair of Kings)
+Aristarh0 collected $1.73 from pot
+Dorex2007 cashed out the hand for $1.56 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $1.79 | Rake $0.06 
+Board [2h 9d Qc 5h 7h]
+Seat 1: 12AJV9 folded on the Flop
+Seat 2: SouthStyle88 (button) folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA (small blind) folded on the Flop
+Seat 4: Burgarn (big blind) folded before Flop
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 showed [7d 7c] and won ($1.73) with three of a kind, Sevens
+Seat 7: Dorex2007 showed [Kh Kc] and lost with a pair of Kings (cashed out).
+Seat 8: LeandroAku folded on the Flop
+Seat 9: Ch0pperch1c folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227920158204:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:46:41 PT [2021/06/28 19:46:41 ET]
+Table 'Fechtig II' 9-max Seat #3 is the button
+Seat 1: 12AJV9 ($2.48 in chips) 
+Seat 2: SouthStyle88 ($2.25 in chips) 
+Seat 3: Gabriel.SMAA ($1.28 in chips) 
+Seat 4: Burgarn ($1.98 in chips) 
+Seat 5: Dr_Poliakov ($3.11 in chips) 
+Seat 6: Aristarh0 ($1.73 in chips) 
+Seat 7: Dorex2007 ($7.49 in chips) 
+Seat 8: LeandroAku ($0.72 in chips) 
+Seat 9: Ch0pperch1c ($2.40 in chips) 
+Burgarn: posts small blind $0.01
+Dr_Poliakov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts Ks]
+Aristarh0: folds 
+Dorex2007: calls $0.02
+LeandroAku: folds 
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+Dorex2007 said, "love it when goes like that, both win"
+SouthStyle88: raises $0.06 to $0.08
+Gabriel.SMAA: folds 
+Burgarn: folds 
+Dr_Poliakov: calls $0.06
+Dorex2007: folds 
+Ch0pperch1c: folds 
+*** FLOP *** [2d Th 7h]
+Dr_Poliakov: bets $0.15
+SouthStyle88: folds 
+Uncalled bet ($0.15) returned to Dr_Poliakov
+Dr_Poliakov collected $0.20 from pot
+Dr_Poliakov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [2d Th 7h]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 folded on the Flop
+Seat 3: Gabriel.SMAA (button) folded before Flop (didn't bet)
+Seat 4: Burgarn (small blind) folded before Flop
+Seat 5: Dr_Poliakov (big blind) collected ($0.20)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c folded before Flop
+
+
+
+PokerStars Hand #227920171171:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:47:28 PT [2021/06/28 19:47:28 ET]
+Table 'Fechtig II' 9-max Seat #4 is the button
+Seat 1: 12AJV9 ($2.48 in chips) 
+Seat 2: SouthStyle88 ($2.17 in chips) 
+Seat 3: Gabriel.SMAA ($1.28 in chips) 
+Seat 4: Burgarn ($1.97 in chips) 
+Seat 5: Dr_Poliakov ($3.23 in chips) 
+Seat 6: Aristarh0 ($1.73 in chips) 
+Seat 7: Dorex2007 ($7.47 in chips) 
+Seat 8: LeandroAku ($0.72 in chips) 
+Seat 9: Ch0pperch1c ($2.38 in chips) 
+Dr_Poliakov: posts small blind $0.01
+Aristarh0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 5d]
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+SouthStyle88: folds 
+Gabriel.SMAA: folds 
+Burgarn: calls $0.02
+Dr_Poliakov: raises $0.08 to $0.10
+Aristarh0: folds 
+Ch0pperch1c: folds 
+Burgarn: folds 
+Uncalled bet ($0.08) returned to Dr_Poliakov
+Dr_Poliakov collected $0.08 from pot
+Dr_Poliakov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: Burgarn (button) folded before Flop
+Seat 5: Dr_Poliakov (small blind) collected ($0.08)
+Seat 6: Aristarh0 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c folded before Flop
+
+
+
+PokerStars Hand #227920178190:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:47:54 PT [2021/06/28 19:47:54 ET]
+Table 'Fechtig II' 9-max Seat #5 is the button
+Seat 1: 12AJV9 ($2.48 in chips) 
+Seat 2: SouthStyle88 ($2.17 in chips) 
+Seat 3: Gabriel.SMAA ($1.28 in chips) 
+Seat 4: Burgarn ($1.95 in chips) 
+Seat 5: Dr_Poliakov ($3.29 in chips) 
+Seat 6: Aristarh0 ($1.71 in chips) 
+Seat 7: Dorex2007 ($7.47 in chips) 
+Seat 8: LeandroAku ($0.72 in chips) 
+Seat 9: Ch0pperch1c ($2.36 in chips) 
+Aristarh0: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 9h]
+LeandroAku: folds 
+Ch0pperch1c: folds 
+12AJV9: folds 
+SouthStyle88: folds 
+Gabriel.SMAA: folds 
+Burgarn: raises $0.02 to $0.04
+Dr_Poliakov: calls $0.04
+Aristarh0: folds 
+Dorex2007: folds 
+*** FLOP *** [4h 9d 4s]
+Burgarn: checks 
+Dr_Poliakov: checks 
+*** TURN *** [4h 9d 4s] [4c]
+Burgarn: bets $0.06
+Dr_Poliakov: calls $0.06
+*** RIVER *** [4h 9d 4s 4c] [Jh]
+Burgarn: bets $0.11
+Dr_Poliakov: folds 
+Uncalled bet ($0.11) returned to Burgarn
+Burgarn collected $0.22 from pot
+Burgarn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [4h 9d 4s 4c Jh]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: Burgarn collected ($0.22)
+Seat 5: Dr_Poliakov (button) folded on the River
+Seat 6: Aristarh0 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227920200601:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:48:43 PT [2021/06/28 19:48:43 ET]
+Table 'Fechtig II' 9-max Seat #7 is the button
+Seat 1: 12AJV9 ($2.48 in chips) 
+Seat 2: SouthStyle88 ($2.17 in chips) 
+Seat 3: Gabriel.SMAA ($1.28 in chips) 
+Seat 4: Burgarn ($2.07 in chips) 
+Seat 5: Dr_Poliakov ($3.19 in chips) 
+Seat 7: Dorex2007 ($7.45 in chips) 
+Seat 8: LeandroAku ($0.72 in chips) 
+Seat 9: Ch0pperch1c ($2.36 in chips) 
+LeandroAku: posts small blind $0.01
+Ch0pperch1c: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 4d]
+12AJV9: folds 
+SouthStyle88: folds 
+Gabriel.SMAA has timed out
+Gabriel.SMAA: folds 
+Burgarn: folds 
+Dr_Poliakov: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+Uncalled bet ($0.01) returned to Ch0pperch1c
+Ch0pperch1c collected $0.02 from pot
+Ch0pperch1c: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: Burgarn folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: LeandroAku (small blind) folded before Flop
+Seat 9: Ch0pperch1c (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #227920207544:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:49:09 PT [2021/06/28 19:49:09 ET]
+Table 'Fechtig II' 9-max Seat #8 is the button
+Seat 1: 12AJV9 ($2.48 in chips) 
+Seat 2: SouthStyle88 ($2.17 in chips) 
+Seat 4: Burgarn ($2.07 in chips) 
+Seat 5: Dr_Poliakov ($3.19 in chips) 
+Seat 7: Dorex2007 ($7.45 in chips) 
+Seat 8: LeandroAku ($0.71 in chips) 
+Seat 9: Ch0pperch1c ($2.37 in chips) 
+Ch0pperch1c: posts small blind $0.01
+12AJV9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Jc]
+SouthStyle88: folds 
+Burgarn: folds 
+Dr_Poliakov: raises $0.03 to $0.05
+Dorex2007: calls $0.05
+LeandroAku: folds 
+Ch0pperch1c: folds 
+12AJV9: folds 
+*** FLOP *** [As 9d 9s]
+Dr_Poliakov: bets $0.10
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to Dr_Poliakov
+Dr_Poliakov collected $0.13 from pot
+Dr_Poliakov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [As 9d 9s]
+Seat 1: 12AJV9 (big blind) folded before Flop
+Seat 2: SouthStyle88 folded before Flop (didn't bet)
+Seat 4: Burgarn folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov collected ($0.13)
+Seat 7: Dorex2007 folded on the Flop
+Seat 8: LeandroAku (button) folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c (small blind) folded before Flop
+
+
+
+PokerStars Hand #227920220487:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:49:57 PT [2021/06/28 19:49:57 ET]
+Table 'Fechtig II' 9-max Seat #9 is the button
+Seat 1: 12AJV9 ($2.46 in chips) 
+Seat 2: SouthStyle88 ($2.17 in chips) 
+Seat 4: Burgarn ($2.07 in chips) 
+Seat 5: Dr_Poliakov ($3.27 in chips) 
+Seat 6: Aristarh0 ($1.70 in chips) 
+Seat 7: Dorex2007 ($7.40 in chips) 
+Seat 8: LeandroAku ($0.71 in chips) 
+Seat 9: Ch0pperch1c ($2.36 in chips) 
+12AJV9: posts small blind $0.01
+SouthStyle88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 6d]
+Burgarn: folds 
+Dr_Poliakov: folds 
+Aristarh0 has timed out
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: folds 
+12AJV9: calls $0.01
+SouthStyle88: checks 
+*** FLOP *** [2c 7s Qd]
+12AJV9: checks 
+SouthStyle88: checks 
+*** TURN *** [2c 7s Qd] [Qs]
+12AJV9: checks 
+SouthStyle88: checks 
+*** RIVER *** [2c 7s Qd Qs] [8d]
+12AJV9: checks 
+SouthStyle88: checks 
+*** SHOW DOWN ***
+12AJV9: shows [4c Ad] (a pair of Queens)
+SouthStyle88: mucks hand 
+12AJV9 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [2c 7s Qd Qs 8d]
+Seat 1: 12AJV9 (small blind) showed [4c Ad] and won ($0.04) with a pair of Queens
+Seat 2: SouthStyle88 (big blind) mucked [Kc 9h]
+Seat 4: Burgarn folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227920239725:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:51:09 PT [2021/06/28 19:51:09 ET]
+Table 'Fechtig II' 9-max Seat #1 is the button
+Seat 1: 12AJV9 ($2.48 in chips) 
+Seat 2: SouthStyle88 ($2.15 in chips) 
+Seat 3: Gabriel.SMAA ($1.28 in chips) 
+Seat 4: Burgarn ($2.07 in chips) 
+Seat 5: Dr_Poliakov ($3.27 in chips) 
+Seat 6: Aristarh0 ($1.70 in chips) 
+Seat 7: Dorex2007 ($7.40 in chips) 
+Seat 8: LeandroAku ($0.71 in chips) 
+Seat 9: Ch0pperch1c ($2.36 in chips) 
+SouthStyle88: posts small blind $0.01
+Gabriel.SMAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 5s]
+Burgarn: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+SouthStyle88: folds 
+Gabriel.SMAA: checks 
+*** FLOP *** [6h Tc Qh]
+Gabriel.SMAA: checks 
+Ch0pperch1c: checks 
+*** TURN *** [6h Tc Qh] [8c]
+Gabriel.SMAA: bets $0.02
+Ch0pperch1c: folds 
+Uncalled bet ($0.02) returned to Gabriel.SMAA
+Gabriel.SMAA collected $0.05 from pot
+Gabriel.SMAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6h Tc Qh 8c]
+Seat 1: 12AJV9 (button) folded before Flop (didn't bet)
+Seat 2: SouthStyle88 (small blind) folded before Flop
+Seat 3: Gabriel.SMAA (big blind) collected ($0.05)
+Seat 4: Burgarn folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c folded on the Turn
+
+
+
+PokerStars Hand #227920253660:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:52:01 PT [2021/06/28 19:52:01 ET]
+Table 'Fechtig II' 9-max Seat #2 is the button
+Seat 1: 12AJV9 ($2.48 in chips) 
+Seat 2: SouthStyle88 ($2.14 in chips) 
+Seat 3: Gabriel.SMAA ($1.31 in chips) 
+Seat 4: Burgarn ($2.07 in chips) 
+Seat 5: Dr_Poliakov ($3.27 in chips) 
+Seat 6: Aristarh0 ($1.70 in chips) 
+Seat 7: Dorex2007 ($7.40 in chips) 
+Seat 8: LeandroAku ($0.71 in chips) 
+Seat 9: Ch0pperch1c ($2.34 in chips) 
+Gabriel.SMAA: posts small blind $0.01
+Burgarn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 8d]
+Dr_Poliakov: raises $0.04 to $0.06
+Aristarh0: folds 
+Dorex2007: calls $0.06
+LeandroAku: folds 
+Ch0pperch1c: folds 
+12AJV9: folds 
+SouthStyle88: folds 
+Gabriel.SMAA: folds 
+Burgarn: raises $0.06 to $0.12
+Dr_Poliakov: raises $0.31 to $0.43
+Dorex2007: folds 
+Burgarn: raises $1.64 to $2.07 and is all-in
+Dr_Poliakov: calls $1.64
+*** FLOP *** [4c 9h 6h]
+*** TURN *** [4c 9h 6h] [Jc]
+*** RIVER *** [4c 9h 6h Jc] [6c]
+*** SHOW DOWN ***
+Burgarn: shows [Qs Qh] (two pair, Queens and Sixes)
+Dr_Poliakov: shows [Ah Ks] (a pair of Sixes)
+Burgarn collected $4.06 from pot
+*** SUMMARY ***
+Total pot $4.21 | Rake $0.15 
+Board [4c 9h 6h Jc 6c]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 (button) folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA (small blind) folded before Flop
+Seat 4: Burgarn (big blind) showed [Qs Qh] and won ($4.06) with two pair, Queens and Sixes
+Seat 5: Dr_Poliakov showed [Ah Ks] and lost with a pair of Sixes
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227920268998:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:52:58 PT [2021/06/28 19:52:58 ET]
+Table 'Fechtig II' 9-max Seat #3 is the button
+Seat 1: 12AJV9 ($2.48 in chips) 
+Seat 2: SouthStyle88 ($2.14 in chips) 
+Seat 3: Gabriel.SMAA ($1.30 in chips) 
+Seat 4: Burgarn ($4.06 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($1.70 in chips) 
+Seat 7: Dorex2007 ($7.34 in chips) 
+Seat 8: LeandroAku ($0.71 in chips) 
+Seat 9: Ch0pperch1c ($2.34 in chips) 
+Burgarn: posts small blind $0.01
+Dr_Poliakov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Kd]
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+SouthStyle88: folds 
+Gabriel.SMAA: raises $0.04 to $0.06
+Burgarn: folds 
+Dr_Poliakov: raises $0.15 to $0.21
+Ch0pperch1c: folds 
+Gabriel.SMAA: folds 
+Uncalled bet ($0.15) returned to Dr_Poliakov
+Dr_Poliakov collected $0.15 from pot
+Dr_Poliakov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA (button) folded before Flop
+Seat 4: Burgarn (small blind) folded before Flop
+Seat 5: Dr_Poliakov (big blind) collected ($0.15)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c folded before Flop
+
+
+
+PokerStars Hand #227920279320:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:53:37 PT [2021/06/28 19:53:37 ET]
+Table 'Fechtig II' 9-max Seat #4 is the button
+Seat 1: 12AJV9 ($2.48 in chips) 
+Seat 2: SouthStyle88 ($2.14 in chips) 
+Seat 3: Gabriel.SMAA ($1.24 in chips) 
+Seat 4: Burgarn ($4.05 in chips) 
+Seat 5: Dr_Poliakov ($2.09 in chips) 
+Seat 6: Aristarh0 ($1.70 in chips) 
+Seat 7: Dorex2007 ($7.34 in chips) 
+Seat 8: LeandroAku ($0.71 in chips) 
+Seat 9: Ch0pperch1c ($2.32 in chips) 
+Dr_Poliakov: posts small blind $0.01
+Aristarh0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 2c]
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: folds 
+12AJV9: folds 
+SouthStyle88: folds 
+Gabriel.SMAA: folds 
+Burgarn: folds 
+Dr_Poliakov: raises $0.04 to $0.06
+Aristarh0: folds 
+Uncalled bet ($0.04) returned to Dr_Poliakov
+Dr_Poliakov collected $0.04 from pot
+Dr_Poliakov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: Burgarn (button) folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov (small blind) collected ($0.04)
+Seat 6: Aristarh0 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227920285314:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:54:00 PT [2021/06/28 19:54:00 ET]
+Table 'Fechtig II' 9-max Seat #5 is the button
+Seat 1: 12AJV9 ($2.48 in chips) 
+Seat 2: SouthStyle88 ($2.14 in chips) 
+Seat 3: Gabriel.SMAA ($1.24 in chips) 
+Seat 4: Burgarn ($4.05 in chips) 
+Seat 5: Dr_Poliakov ($2.11 in chips) 
+Seat 6: Aristarh0 ($1.68 in chips) 
+Seat 7: Dorex2007 ($7.34 in chips) 
+Seat 8: LeandroAku ($0.71 in chips) 
+Seat 9: Ch0pperch1c ($2.32 in chips) 
+Aristarh0: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 3c]
+LeandroAku: folds 
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+SouthStyle88: folds 
+Gabriel.SMAA: folds 
+Burgarn: folds 
+Dr_Poliakov: raises $0.02 to $0.04
+Aristarh0: folds 
+Dorex2007: folds 
+Ch0pperch1c: calls $0.02
+*** FLOP *** [Qh Jh Ac]
+Ch0pperch1c: checks 
+Dr_Poliakov: checks 
+*** TURN *** [Qh Jh Ac] [5d]
+Ch0pperch1c: checks 
+Dr_Poliakov: checks 
+*** RIVER *** [Qh Jh Ac 5d] [As]
+Ch0pperch1c: checks 
+Dr_Poliakov: checks 
+*** SHOW DOWN ***
+Ch0pperch1c: shows [7d Kd] (a pair of Aces)
+Dr_Poliakov: shows [Ks 7s] (a pair of Aces)
+Ch0pperch1c collected $0.06 from pot
+Dr_Poliakov collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Qh Jh Ac 5d As]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: Burgarn folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov (button) showed [Ks 7s] and won ($0.05) with a pair of Aces
+Seat 6: Aristarh0 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c showed [7d Kd] and won ($0.06) with a pair of Aces
+
+
+
+PokerStars Hand #227920304697:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:55:16 PT [2021/06/28 19:55:16 ET]
+Table 'Fechtig II' 9-max Seat #6 is the button
+Seat 1: 12AJV9 ($2.48 in chips) 
+Seat 2: SouthStyle88 ($2.14 in chips) 
+Seat 3: Gabriel.SMAA ($1.24 in chips) 
+Seat 4: Burgarn ($4.05 in chips) 
+Seat 5: Dr_Poliakov ($2.12 in chips) 
+Seat 6: Aristarh0 ($1.67 in chips) 
+Seat 7: Dorex2007 ($7.32 in chips) 
+Seat 8: LeandroAku ($0.71 in chips) 
+Seat 9: Ch0pperch1c ($2.34 in chips) 
+Dorex2007: posts small blind $0.01
+LeandroAku: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Kd]
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+SouthStyle88: folds 
+Gabriel.SMAA: folds 
+Burgarn: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: calls $0.01
+LeandroAku: checks 
+*** FLOP *** [3s 3d 8h]
+Dorex2007: checks 
+LeandroAku: checks 
+Ch0pperch1c: checks 
+*** TURN *** [3s 3d 8h] [4d]
+Dorex2007: checks 
+LeandroAku: checks 
+Ch0pperch1c: checks 
+*** RIVER *** [3s 3d 8h 4d] [2h]
+Dorex2007: bets $0.06
+LeandroAku: folds 
+Ch0pperch1c: folds 
+Uncalled bet ($0.06) returned to Dorex2007
+Dorex2007 collected $0.06 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [3s 3d 8h 4d 2h]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: Burgarn folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) collected ($0.06)
+Seat 8: LeandroAku (big blind) folded on the River
+Seat 9: Ch0pperch1c folded on the River
+
+
+
+PokerStars Hand #227920318077:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:56:18 PT [2021/06/28 19:56:18 ET]
+Table 'Fechtig II' 9-max Seat #7 is the button
+Seat 1: 12AJV9 ($2.48 in chips) 
+Seat 2: SouthStyle88 ($2.14 in chips) 
+Seat 3: Gabriel.SMAA ($1.24 in chips) 
+Seat 4: Burgarn ($4.05 in chips) 
+Seat 5: Dr_Poliakov ($2.12 in chips) 
+Seat 6: Aristarh0 ($1.67 in chips) 
+Seat 7: Dorex2007 ($7.36 in chips) 
+Seat 8: LeandroAku ($0.69 in chips) 
+Seat 9: Ch0pperch1c ($2.32 in chips) 
+LeandroAku: posts small blind $0.01
+Ch0pperch1c: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Qc]
+12AJV9: folds 
+SouthStyle88: raises $0.04 to $0.06
+Gabriel.SMAA has timed out
+Gabriel.SMAA: folds 
+Burgarn: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: calls $0.04
+*** FLOP *** [4d 7h Ah]
+Ch0pperch1c: checks 
+SouthStyle88: bets $0.06
+Ch0pperch1c: folds 
+Uncalled bet ($0.06) returned to SouthStyle88
+SouthStyle88 collected $0.13 from pot
+SouthStyle88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4d 7h Ah]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 collected ($0.13)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: Burgarn folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: LeandroAku (small blind) folded before Flop
+Seat 9: Ch0pperch1c (big blind) folded on the Flop
+
+
+
+PokerStars Hand #227920330106:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:57:13 PT [2021/06/28 19:57:13 ET]
+Table 'Fechtig II' 9-max Seat #8 is the button
+Seat 1: 12AJV9 ($2.48 in chips) 
+Seat 2: SouthStyle88 ($2.21 in chips) 
+Seat 4: Burgarn ($4.05 in chips) 
+Seat 5: Dr_Poliakov ($2.12 in chips) 
+Seat 6: Aristarh0 ($1.67 in chips) 
+Seat 7: Dorex2007 ($7.36 in chips) 
+Seat 8: LeandroAku ($0.68 in chips) 
+Seat 9: Ch0pperch1c ($2.26 in chips) 
+Ch0pperch1c: posts small blind $0.01
+12AJV9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Ks]
+SouthStyle88: folds 
+Burgarn: folds 
+Dr_Poliakov: raises $0.03 to $0.05
+Aristarh0: folds 
+Dorex2007: calls $0.05
+LeandroAku: folds 
+Ch0pperch1c: calls $0.04
+12AJV9: folds 
+*** FLOP *** [Ah 7s 6c]
+Ch0pperch1c: checks 
+Dr_Poliakov: checks 
+Dorex2007: checks 
+*** TURN *** [Ah 7s 6c] [6s]
+Ch0pperch1c: checks 
+Dr_Poliakov: checks 
+Dorex2007: bets $0.08
+Ch0pperch1c: folds 
+Dr_Poliakov: folds 
+Uncalled bet ($0.08) returned to Dorex2007
+Dorex2007 collected $0.16 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Ah 7s 6c 6s]
+Seat 1: 12AJV9 (big blind) folded before Flop
+Seat 2: SouthStyle88 folded before Flop (didn't bet)
+Seat 4: Burgarn folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded on the Turn
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.16)
+Seat 8: LeandroAku (button) folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c (small blind) folded on the Turn
+
+
+
+PokerStars Hand #227920353924:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:58:17 PT [2021/06/28 19:58:17 ET]
+Table 'Fechtig II' 9-max Seat #9 is the button
+Seat 1: 12AJV9 ($2.46 in chips) 
+Seat 2: SouthStyle88 ($2.21 in chips) 
+Seat 3: Gabriel.SMAA ($1.24 in chips) 
+Seat 4: Burgarn ($4.05 in chips) 
+Seat 5: Dr_Poliakov ($2.07 in chips) 
+Seat 6: Aristarh0 ($1.67 in chips) 
+Seat 7: Dorex2007 ($7.47 in chips) 
+Seat 8: LeandroAku ($0.68 in chips) 
+Seat 9: Ch0pperch1c ($2.21 in chips) 
+12AJV9: posts small blind $0.01
+SouthStyle88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 9h]
+Gabriel.SMAA: folds 
+Burgarn: folds 
+Dr_Poliakov: folds 
+Aristarh0 has timed out
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: calls $0.02
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+SouthStyle88: checks 
+*** FLOP *** [Qc 7s 9d]
+SouthStyle88: bets $0.02
+LeandroAku: raises $0.12 to $0.14
+Ch0pperch1c: folds 
+SouthStyle88: folds 
+Uncalled bet ($0.12) returned to LeandroAku
+LeandroAku collected $0.11 from pot
+LeandroAku: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Qc 7s 9d]
+Seat 1: 12AJV9 (small blind) folded before Flop
+Seat 2: SouthStyle88 (big blind) folded on the Flop
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: Burgarn folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku collected ($0.11)
+Seat 9: Ch0pperch1c (button) folded on the Flop
+
+
+
+PokerStars Hand #227920365066:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 16:59:08 PT [2021/06/28 19:59:08 ET]
+Table 'Fechtig II' 9-max Seat #1 is the button
+Seat 1: 12AJV9 ($2.45 in chips) 
+Seat 2: SouthStyle88 ($2.17 in chips) 
+Seat 3: Gabriel.SMAA ($1.24 in chips) 
+Seat 4: Burgarn ($4.05 in chips) 
+Seat 5: Dr_Poliakov ($2.07 in chips) 
+Seat 6: Aristarh0 ($1.67 in chips) 
+Seat 7: Dorex2007 ($7.47 in chips) 
+Seat 8: LeandroAku ($0.75 in chips) 
+Seat 9: Ch0pperch1c ($2.19 in chips) 
+SouthStyle88: posts small blind $0.01
+Gabriel.SMAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 6s]
+Burgarn: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: raises $0.02 to $0.04
+12AJV9: calls $0.04
+SouthStyle88: folds 
+Gabriel.SMAA: folds 
+*** FLOP *** [Jc 4c Tc]
+Ch0pperch1c: checks 
+12AJV9: checks 
+*** TURN *** [Jc 4c Tc] [2h]
+Ch0pperch1c: checks 
+12AJV9: checks 
+*** RIVER *** [Jc 4c Tc 2h] [Kh]
+Ch0pperch1c: checks 
+12AJV9: checks 
+*** SHOW DOWN ***
+Ch0pperch1c: shows [Qs Qh] (a pair of Queens)
+12AJV9: shows [Th 8h] (a pair of Tens)
+Ch0pperch1c collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Jc 4c Tc 2h Kh]
+Seat 1: 12AJV9 (button) showed [Th 8h] and lost with a pair of Tens
+Seat 2: SouthStyle88 (small blind) folded before Flop
+Seat 3: Gabriel.SMAA (big blind) folded before Flop
+Seat 4: Burgarn folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c showed [Qs Qh] and won ($0.11) with a pair of Queens
+
+
+
+PokerStars Hand #227920376726:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 17:00:01 PT [2021/06/28 20:00:01 ET]
+Table 'Fechtig II' 9-max Seat #2 is the button
+Seat 1: 12AJV9 ($2.41 in chips) 
+Seat 2: SouthStyle88 ($2.16 in chips) 
+Seat 3: Gabriel.SMAA ($1.22 in chips) 
+Seat 4: Burgarn ($4.05 in chips) 
+Seat 5: Dr_Poliakov ($2.07 in chips) 
+Seat 6: Aristarh0 ($1.67 in chips) 
+Seat 7: Dorex2007 ($7.47 in chips) 
+Seat 8: LeandroAku ($0.75 in chips) 
+Seat 9: Ch0pperch1c ($2.26 in chips) 
+Gabriel.SMAA: posts small blind $0.01
+Burgarn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 5h]
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: calls $0.02
+12AJV9: raises $0.05 to $0.07
+SouthStyle88: calls $0.07
+Gabriel.SMAA: folds 
+Burgarn: folds 
+Ch0pperch1c: calls $0.05
+*** FLOP *** [2d 7d Ad]
+Ch0pperch1c: checks 
+12AJV9: bets $0.08
+SouthStyle88: calls $0.08
+Ch0pperch1c: calls $0.08
+*** TURN *** [2d 7d Ad] [7c]
+Ch0pperch1c: checks 
+12AJV9: bets $0.15
+SouthStyle88: calls $0.15
+Ch0pperch1c: calls $0.15
+*** RIVER *** [2d 7d Ad 7c] [2h]
+Ch0pperch1c: checks 
+12AJV9: bets $0.30
+SouthStyle88: raises $0.70 to $1
+Ch0pperch1c: calls $1
+12AJV9: folds 
+*** SHOW DOWN ***
+SouthStyle88: shows [6d 6c] (two pair, Sevens and Sixes)
+Ch0pperch1c: shows [5d As] (two pair, Aces and Sevens)
+Ch0pperch1c collected $3.12 from pot
+*** SUMMARY ***
+Total pot $3.23 | Rake $0.11 
+Board [2d 7d Ad 7c 2h]
+Seat 1: 12AJV9 folded on the River
+Seat 2: SouthStyle88 (button) showed [6d 6c] and lost with two pair, Sevens and Sixes
+Seat 3: Gabriel.SMAA (small blind) folded before Flop
+Seat 4: Burgarn (big blind) folded before Flop
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c showed [5d As] and won ($3.12) with two pair, Aces and Sevens
+
+
+
+PokerStars Hand #227920396275:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 17:01:24 PT [2021/06/28 20:01:24 ET]
+Table 'Fechtig II' 9-max Seat #3 is the button
+Seat 1: 12AJV9 ($1.81 in chips) 
+Seat 2: SouthStyle88 ($2 in chips) 
+Seat 3: Gabriel.SMAA ($1.21 in chips) 
+Seat 4: Burgarn ($4.03 in chips) 
+Seat 5: Dr_Poliakov ($2.07 in chips) 
+Seat 6: Aristarh0 ($1.67 in chips) 
+Seat 7: Dorex2007 ($7.47 in chips) 
+Seat 8: LeandroAku ($0.75 in chips) 
+Seat 9: Ch0pperch1c ($4.08 in chips) 
+Burgarn: posts small blind $0.01
+Dr_Poliakov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 2h]
+Aristarh0: folds 
+Dorex2007 has timed out
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+SouthStyle88: raises $0.06 to $0.08
+Gabriel.SMAA: folds 
+Burgarn: folds 
+Dr_Poliakov: folds 
+Ch0pperch1c: calls $0.06
+*** FLOP *** [Js 4d Jc]
+Ch0pperch1c: checks 
+SouthStyle88: checks 
+*** TURN *** [Js 4d Jc] [5c]
+Ch0pperch1c: checks 
+SouthStyle88: checks 
+*** RIVER *** [Js 4d Jc 5c] [Ac]
+Ch0pperch1c: checks 
+SouthStyle88: bets $0.09
+Ch0pperch1c: calls $0.09
+*** SHOW DOWN ***
+SouthStyle88: shows [Ad Ks] (two pair, Aces and Jacks)
+Ch0pperch1c: mucks hand 
+SouthStyle88 collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Js 4d Jc 5c Ac]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 showed [Ad Ks] and won ($0.36) with two pair, Aces and Jacks
+Seat 3: Gabriel.SMAA (button) folded before Flop (didn't bet)
+Seat 4: Burgarn (small blind) folded before Flop
+Seat 5: Dr_Poliakov (big blind) folded before Flop
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c mucked [4c Qd]
+
+
+
+PokerStars Hand #227920414786:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 17:02:36 PT [2021/06/28 20:02:36 ET]
+Table 'Fechtig II' 9-max Seat #4 is the button
+Seat 1: 12AJV9 ($1.81 in chips) 
+Seat 2: SouthStyle88 ($2.19 in chips) 
+Seat 3: Gabriel.SMAA ($1.21 in chips) 
+Seat 4: Burgarn ($4.02 in chips) 
+Seat 5: Dr_Poliakov ($2.05 in chips) 
+Seat 6: Aristarh0 ($1.67 in chips) 
+Seat 7: Dorex2007 ($7.47 in chips) 
+Seat 8: LeandroAku ($0.75 in chips) 
+Seat 9: Ch0pperch1c ($3.91 in chips) 
+Dr_Poliakov: posts small blind $0.01
+Aristarh0: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 4d]
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: folds 
+12AJV9: folds 
+SouthStyle88: folds 
+Gabriel.SMAA: folds 
+Burgarn: folds 
+Dr_Poliakov: raises $0.04 to $0.06
+Aristarh0: folds 
+Uncalled bet ($0.04) returned to Dr_Poliakov
+Dr_Poliakov collected $0.04 from pot
+Dr_Poliakov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: Burgarn (button) folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov (small blind) collected ($0.04)
+Seat 6: Aristarh0 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227920420566:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 17:02:59 PT [2021/06/28 20:02:59 ET]
+Table 'Fechtig II' 9-max Seat #5 is the button
+Seat 1: 12AJV9 ($1.81 in chips) 
+Seat 2: SouthStyle88 ($2.19 in chips) 
+Seat 3: Gabriel.SMAA ($1.21 in chips) 
+Seat 4: Burgarn ($4.02 in chips) 
+Seat 5: Dr_Poliakov ($2.07 in chips) 
+Seat 6: Aristarh0 ($1.65 in chips) 
+Seat 7: Dorex2007 ($7.47 in chips) 
+Seat 8: LeandroAku ($0.75 in chips) 
+Seat 9: Ch0pperch1c ($3.91 in chips) 
+Aristarh0: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 4s]
+LeandroAku: folds 
+Ch0pperch1c: calls $0.02
+12AJV9: raises $0.05 to $0.07
+SouthStyle88: folds 
+Gabriel.SMAA: folds 
+Burgarn: calls $0.07
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+Ch0pperch1c: calls $0.05
+*** FLOP *** [5h Ac Ks]
+Ch0pperch1c: checks 
+12AJV9: bets $0.08
+Burgarn: folds 
+Ch0pperch1c: folds 
+Uncalled bet ($0.08) returned to 12AJV9
+12AJV9 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [5h Ac Ks]
+Seat 1: 12AJV9 collected ($0.23)
+Seat 2: SouthStyle88 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: Burgarn folded on the Flop
+Seat 5: Dr_Poliakov (button) folded before Flop (didn't bet)
+Seat 6: Aristarh0 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c folded on the Flop
+
+
+
+PokerStars Hand #227920432823:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 17:03:47 PT [2021/06/28 20:03:47 ET]
+Table 'Fechtig II' 9-max Seat #6 is the button
+Seat 1: 12AJV9 ($1.97 in chips) 
+Seat 2: SouthStyle88 ($2.19 in chips) 
+Seat 3: Gabriel.SMAA ($1.21 in chips) 
+Seat 4: Burgarn ($3.95 in chips) 
+Seat 5: Dr_Poliakov ($2.07 in chips) 
+Seat 6: Aristarh0 ($1.64 in chips) 
+Seat 7: Dorex2007 ($7.45 in chips) 
+Seat 8: LeandroAku ($0.75 in chips) 
+Seat 9: Ch0pperch1c ($3.84 in chips) 
+Dorex2007: posts small blind $0.01
+LeandroAku: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 9d]
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+SouthStyle88: folds 
+Gabriel.SMAA: raises $0.04 to $0.06
+Burgarn has timed out
+Burgarn: folds 
+Dr_Poliakov: folds 
+Aristarh0 has timed out
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: calls $0.04
+*** FLOP *** [7h 8c Qs]
+Ch0pperch1c: checks 
+Gabriel.SMAA: bets $0.14
+Ch0pperch1c: folds 
+Uncalled bet ($0.14) returned to Gabriel.SMAA
+Gabriel.SMAA collected $0.14 from pot
+Gabriel.SMAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7h 8c Qs]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA collected ($0.14)
+Seat 4: Burgarn folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: LeandroAku (big blind) folded before Flop
+Seat 9: Ch0pperch1c folded on the Flop
+
+
+
+PokerStars Hand #227920451251:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 17:04:59 PT [2021/06/28 20:04:59 ET]
+Table 'Fechtig II' 9-max Seat #7 is the button
+Seat 1: 12AJV9 ($1.97 in chips) 
+Seat 2: SouthStyle88 ($2.19 in chips) 
+Seat 3: Gabriel.SMAA ($1.29 in chips) 
+Seat 4: Burgarn ($3.95 in chips) 
+Seat 5: Dr_Poliakov ($2.07 in chips) 
+Seat 6: Aristarh0 ($1.64 in chips) 
+Seat 7: Dorex2007 ($7.44 in chips) 
+Seat 8: LeandroAku ($0.73 in chips) 
+Seat 9: Ch0pperch1c ($3.78 in chips) 
+LeandroAku: posts small blind $0.01
+Ch0pperch1c: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 4d]
+12AJV9: folds 
+SouthStyle88: folds 
+Gabriel.SMAA: folds 
+Burgarn: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: raises $0.04 to $0.06
+LeandroAku: folds 
+Ch0pperch1c: calls $0.04
+*** FLOP *** [5d 6d Ac]
+Ch0pperch1c: checks 
+Dorex2007: bets $0.09
+Ch0pperch1c: folds 
+Uncalled bet ($0.09) returned to Dorex2007
+Dorex2007 collected $0.13 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5d 6d Ac]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 2: SouthStyle88 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: Burgarn folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) collected ($0.13)
+Seat 8: LeandroAku (small blind) folded before Flop
+Seat 9: Ch0pperch1c (big blind) folded on the Flop
+
+
+
+PokerStars Hand #227920466003:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 17:05:38 PT [2021/06/28 20:05:38 ET]
+Table 'Fechtig II' 9-max Seat #8 is the button
+Seat 1: 12AJV9 ($1.97 in chips) 
+Seat 2: SouthStyle88 ($2.19 in chips) 
+Seat 3: Gabriel.SMAA ($1.29 in chips) 
+Seat 4: Burgarn ($3.95 in chips) 
+Seat 5: Dr_Poliakov ($2.07 in chips) 
+Seat 6: Aristarh0 ($1.64 in chips) 
+Seat 7: Dorex2007 ($7.51 in chips) 
+Seat 8: LeandroAku ($0.72 in chips) 
+Seat 9: Ch0pperch1c ($3.72 in chips) 
+Ch0pperch1c: posts small blind $0.01
+12AJV9: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Kd]
+SouthStyle88: folds 
+Gabriel.SMAA: folds 
+Burgarn: folds 
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: calls $0.01
+12AJV9: raises $0.05 to $0.07
+Ch0pperch1c: folds 
+Uncalled bet ($0.05) returned to 12AJV9
+12AJV9 collected $0.04 from pot
+SouthStyle88 leaves the table
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: 12AJV9 (big blind) collected ($0.04)
+Seat 2: SouthStyle88 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: Burgarn folded before Flop (didn't bet)
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku (button) folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c (small blind) folded before Flop
+
+
+
+PokerStars Hand #227920473350:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 17:06:08 PT [2021/06/28 20:06:08 ET]
+Table 'Fechtig II' 9-max Seat #9 is the button
+Seat 1: 12AJV9 ($1.99 in chips) 
+Seat 3: Gabriel.SMAA ($1.29 in chips) 
+Seat 4: Burgarn ($3.95 in chips) 
+Seat 5: Dr_Poliakov ($2.07 in chips) 
+Seat 6: Aristarh0 ($1.64 in chips) 
+Seat 7: Dorex2007 ($7.51 in chips) 
+Seat 8: LeandroAku ($0.72 in chips) 
+Seat 9: Ch0pperch1c ($3.70 in chips) 
+12AJV9: posts small blind $0.01
+Gabriel.SMAA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 8s]
+Burgarn: raises $0.02 to $0.04
+Dr_Poliakov: raises $0.11 to $0.15
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: folds 
+12AJV9: folds 
+Gabriel.SMAA: folds 
+Burgarn: calls $0.11
+*** FLOP *** [6c Ah 3c]
+Burgarn: bets $0.20
+AtonarhFE joins the table at seat #2 
+Dr_Poliakov: folds 
+Uncalled bet ($0.20) returned to Burgarn
+Burgarn collected $0.32 from pot
+Burgarn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [6c Ah 3c]
+Seat 1: 12AJV9 (small blind) folded before Flop
+Seat 3: Gabriel.SMAA (big blind) folded before Flop
+Seat 4: Burgarn collected ($0.32)
+Seat 5: Dr_Poliakov folded on the Flop
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227920479685:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 17:06:32 PT [2021/06/28 20:06:32 ET]
+Table 'Fechtig II' 9-max Seat #1 is the button
+Seat 1: 12AJV9 ($1.98 in chips) 
+Seat 3: Gabriel.SMAA ($1.27 in chips) 
+Seat 4: Burgarn ($4.12 in chips) 
+Seat 5: Dr_Poliakov ($2 in chips) 
+Seat 6: Aristarh0 ($1.64 in chips) 
+Seat 7: Dorex2007 ($7.51 in chips) 
+Seat 8: LeandroAku ($0.72 in chips) 
+Seat 9: Ch0pperch1c ($3.70 in chips) 
+Gabriel.SMAA: posts small blind $0.01
+Burgarn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 7h]
+Dr_Poliakov: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+Gabriel.SMAA has timed out
+Gabriel.SMAA: folds 
+Burgarn: checks 
+*** FLOP *** [Td 5d 9s]
+Dr_Poliakov leaves the table
+Burgarn: bets $0.03
+Ch0pperch1c: calls $0.03
+*** TURN *** [Td 5d 9s] [2d]
+Burgarn: bets $0.04
+Ch0pperch1c: calls $0.04
+*** RIVER *** [Td 5d 9s 2d] [5h]
+Burgarn: bets $0.06
+Ch0pperch1c: calls $0.06
+*** SHOW DOWN ***
+Burgarn: shows [Ks Tc] (two pair, Tens and Fives)
+Ch0pperch1c: mucks hand 
+Burgarn collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Td 5d 9s 2d 5h]
+Seat 1: 12AJV9 (button) folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA (small blind) folded before Flop
+Seat 4: Burgarn (big blind) showed [Ks Tc] and won ($0.30) with two pair, Tens and Fives
+Seat 5: Dr_Poliakov folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c mucked [9h 7d]
+
+
+
+PokerStars Hand #227920504411:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 17:08:09 PT [2021/06/28 20:08:09 ET]
+Table 'Fechtig II' 9-max Seat #3 is the button
+Seat 1: 12AJV9 ($1.98 in chips) 
+Seat 3: Gabriel.SMAA ($1.26 in chips) 
+Seat 4: Burgarn ($4.27 in chips) 
+Seat 6: Aristarh0 ($1.64 in chips) 
+Seat 7: Dorex2007 ($7.51 in chips) 
+Seat 8: LeandroAku ($0.72 in chips) 
+Seat 9: Ch0pperch1c ($3.55 in chips) 
+Burgarn: posts small blind $0.01
+Aristarh0: posts big blind $0.02
+AtonarhFE: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 2h]
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: folds 
+12AJV9: raises $0.03 to $0.05
+Gabriel.SMAA: folds 
+Burgarn: folds 
+Aristarh0: calls $0.03
+*** FLOP *** [Jc 8c 4h]
+Aristarh0: checks 
+STM32 joins the table at seat #5 
+12AJV9: checks 
+*** TURN *** [Jc 8c 4h] [8d]
+Aristarh0: checks 
+12AJV9: bets $0.04
+Aristarh0: folds 
+Uncalled bet ($0.04) returned to 12AJV9
+12AJV9 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Jc 8c 4h 8d]
+Seat 1: 12AJV9 collected ($0.11)
+Seat 3: Gabriel.SMAA (button) folded before Flop (didn't bet)
+Seat 4: Burgarn (small blind) folded before Flop
+Seat 6: Aristarh0 (big blind) folded on the Turn
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227920515329:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 17:08:53 PT [2021/06/28 20:08:53 ET]
+Table 'Fechtig II' 9-max Seat #4 is the button
+Seat 1: 12AJV9 ($2.04 in chips) 
+Seat 3: Gabriel.SMAA ($1.26 in chips) 
+Seat 4: Burgarn ($4.26 in chips) 
+Seat 6: Aristarh0 ($1.59 in chips) 
+Seat 7: Dorex2007 ($7.51 in chips) 
+Seat 8: LeandroAku ($0.72 in chips) 
+Seat 9: Ch0pperch1c ($3.55 in chips) 
+Aristarh0: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+AtonarhFE: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 6d]
+LeandroAku: folds 
+Ch0pperch1c: folds 
+12AJV9: folds 
+Gabriel.SMAA: raises $0.02 to $0.04
+Burgarn: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+Uncalled bet ($0.02) returned to Gabriel.SMAA
+Gabriel.SMAA collected $0.05 from pot
+Gabriel.SMAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA collected ($0.05)
+Seat 4: Burgarn (button) folded before Flop (didn't bet)
+Seat 6: Aristarh0 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227920520301:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 17:09:13 PT [2021/06/28 20:09:13 ET]
+Table 'Fechtig II' 9-max Seat #6 is the button
+Seat 1: 12AJV9 ($2.04 in chips) 
+Seat 3: Gabriel.SMAA ($1.29 in chips) 
+Seat 4: Burgarn ($4.26 in chips) 
+Seat 6: Aristarh0 ($1.58 in chips) 
+Seat 7: Dorex2007 ($7.49 in chips) 
+Seat 8: LeandroAku ($0.72 in chips) 
+Seat 9: Ch0pperch1c ($3.55 in chips) 
+Dorex2007: posts small blind $0.01
+LeandroAku: posts big blind $0.02
+AtonarhFE: sits out 
+STM32: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 9d]
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+Gabriel.SMAA: raises $0.02 to $0.04
+Burgarn: calls $0.04
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: calls $0.02
+*** FLOP *** [Th 8c Jd]
+Ch0pperch1c: checks 
+Gabriel.SMAA: checks 
+Burgarn: bets $0.08
+Ch0pperch1c: calls $0.08
+Gabriel.SMAA: folds 
+*** TURN *** [Th 8c Jd] [7h]
+Ch0pperch1c: checks 
+Burgarn: checks 
+*** RIVER *** [Th 8c Jd 7h] [9c]
+Ch0pperch1c: checks 
+Burgarn: bets $0.08
+Ch0pperch1c: folds 
+Uncalled bet ($0.08) returned to Burgarn
+Burgarn collected $0.30 from pot
+Burgarn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Th 8c Jd 7h 9c]
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded on the Flop
+Seat 4: Burgarn collected ($0.30)
+Seat 6: Aristarh0 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: LeandroAku (big blind) folded before Flop
+Seat 9: Ch0pperch1c folded on the River
+
+
+
+PokerStars Hand #227920536754:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 17:10:18 PT [2021/06/28 20:10:18 ET]
+Table 'Fechtig II' 9-max Seat #7 is the button
+Seat 1: 12AJV9 ($2.04 in chips) 
+Seat 3: Gabriel.SMAA ($1.25 in chips) 
+Seat 4: Burgarn ($4.44 in chips) 
+Seat 6: Aristarh0 ($1.58 in chips) 
+Seat 7: Dorex2007 ($7.48 in chips) 
+Seat 8: LeandroAku ($0.70 in chips) 
+Seat 9: Ch0pperch1c ($3.43 in chips) 
+LeandroAku: posts small blind $0.01
+Ch0pperch1c: posts big blind $0.02
+AtonarhFE: sits out 
+STM32: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 6h]
+12AJV9: folds 
+Gabriel.SMAA has timed out
+Gabriel.SMAA: folds 
+Burgarn: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+Uncalled bet ($0.01) returned to Ch0pperch1c
+Ch0pperch1c collected $0.02 from pot
+Ch0pperch1c: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: 12AJV9 folded before Flop (didn't bet)
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: Burgarn folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: LeandroAku (small blind) folded before Flop
+Seat 9: Ch0pperch1c (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #227920542104:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 17:10:40 PT [2021/06/28 20:10:40 ET]
+Table 'Fechtig II' 9-max Seat #8 is the button
+Seat 1: 12AJV9 ($2.04 in chips) 
+Seat 4: Burgarn ($4.44 in chips) 
+Seat 6: Aristarh0 ($1.58 in chips) 
+Seat 7: Dorex2007 ($7.48 in chips) 
+Seat 8: LeandroAku ($0.69 in chips) 
+Seat 9: Ch0pperch1c ($3.44 in chips) 
+Ch0pperch1c: posts small blind $0.01
+12AJV9: posts big blind $0.02
+AtonarhFE: sits out 
+STM32: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Ah]
+Burgarn: folds 
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: calls $0.01
+12AJV9: checks 
+*** FLOP *** [3h Qs As]
+Ch0pperch1c: checks 
+12AJV9: checks 
+*** TURN *** [3h Qs As] [6c]
+Ch0pperch1c: checks 
+12AJV9: bets $0.02
+Ch0pperch1c: folds 
+Uncalled bet ($0.02) returned to 12AJV9
+12AJV9 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3h Qs As 6c]
+Seat 1: 12AJV9 (big blind) collected ($0.04)
+Seat 4: Burgarn folded before Flop (didn't bet)
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku (button) folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c (small blind) folded on the Turn
+
+
+
+PokerStars Hand #227920553741:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 17:11:27 PT [2021/06/28 20:11:27 ET]
+Table 'Fechtig II' 9-max Seat #9 is the button
+Seat 1: 12AJV9 ($2.06 in chips) 
+Seat 2: AtonarhFE ($2 in chips) 
+Seat 3: Gabriel.SMAA ($1.25 in chips) 
+Seat 4: Burgarn ($4.44 in chips) 
+Seat 6: Aristarh0 ($1.58 in chips) 
+Seat 7: Dorex2007 ($7.48 in chips) 
+Seat 8: LeandroAku ($0.69 in chips) 
+Seat 9: Ch0pperch1c ($3.42 in chips) 
+12AJV9: posts small blind $0.01
+AtonarhFE: posts big blind $0.02
+STM32: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 7s]
+Gabriel.SMAA: folds 
+Gabriel.SMAA leaves the table
+Burgarn: calls $0.02
+Aristarh0: folds 
+Dorex2007: folds 
+LeandroAku: folds 
+Ch0pperch1c: calls $0.02
+12AJV9: folds 
+Aristarh0 leaves the table
+AtonarhFE: checks 
+*** FLOP *** [Qc 8h 4c]
+AtonarhFE: bets $0.04
+Burgarn: raises $0.08 to $0.12
+STM32 leaves the table
+Ch0pperch1c: folds 
+AtonarhFE: raises $1.86 to $1.98 and is all-in
+Burgarn: calls $1.86
+*** TURN *** [Qc 8h 4c] [4d]
+*** RIVER *** [Qc 8h 4c 4d] [Qh]
+*** SHOW DOWN ***
+AtonarhFE: shows [Qs 8s] (a full house, Queens full of Eights)
+Burgarn: shows [8c 8d] (a full house, Eights full of Queens)
+AtonarhFE collected $3.89 from pot
+*** SUMMARY ***
+Total pot $4.03 | Rake $0.14 
+Board [Qc 8h 4c 4d Qh]
+Seat 1: 12AJV9 (small blind) folded before Flop
+Seat 2: AtonarhFE (big blind) showed [Qs 8s] and won ($3.89) with a full house, Queens full of Eights
+Seat 3: Gabriel.SMAA folded before Flop (didn't bet)
+Seat 4: Burgarn showed [8c 8d] and lost with a full house, Eights full of Queens
+Seat 6: Aristarh0 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c (button) folded on the Flop
+
+
+
+PokerStars Hand #227920576275:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 17:12:47 PT [2021/06/28 20:12:47 ET]
+Table 'Fechtig II' 9-max Seat #1 is the button
+Seat 1: 12AJV9 ($2.05 in chips) 
+Seat 2: AtonarhFE ($3.89 in chips) 
+Seat 4: Burgarn ($2.44 in chips) 
+Seat 7: Dorex2007 ($7.48 in chips) 
+Seat 8: LeandroAku ($0.69 in chips) 
+Seat 9: Ch0pperch1c ($3.40 in chips) 
+AtonarhFE: posts small blind $0.01
+Burgarn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad Kd]
+Dorex2007: raises $0.04 to $0.06
+LeandroAku: calls $0.06
+Ch0pperch1c: calls $0.06
+12AJV9: folds 
+AtonarhFE: folds 
+Burgarn: folds 
+*** FLOP *** [Qd 4d 5h]
+Dorex2007: bets $0.20
+LeandroAku: raises $0.43 to $0.63 and is all-in
+Ch0pperch1c: calls $0.63
+Dorex2007: calls $0.43
+*** TURN *** [Qd 4d 5h] [7h]
+Dorex2007: checks 
+Ch0pperch1c: checks 
+*** RIVER *** [Qd 4d 5h 7h] [Ks]
+Dorex2007: checks 
+Ch0pperch1c: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [Ad Kd] (a pair of Kings)
+LeandroAku: shows [4c 4s] (three of a kind, Fours)
+Ch0pperch1c: mucks hand 
+LeandroAku collected $2.03 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.07 
+Board [Qd 4d 5h 7h Ks]
+Seat 1: 12AJV9 (button) folded before Flop (didn't bet)
+Seat 2: AtonarhFE (small blind) folded before Flop
+Seat 4: Burgarn (big blind) folded before Flop
+Seat 7: Dorex2007 showed [Ad Kd] and lost with a pair of Kings
+Seat 8: LeandroAku showed [4c 4s] and won ($2.03) with three of a kind, Fours
+Seat 9: Ch0pperch1c mucked [Qc Js]
+
+
+
+PokerStars Hand #227920587005:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 17:13:30 PT [2021/06/28 20:13:30 ET]
+Table 'Fechtig II' 9-max Seat #2 is the button
+Seat 1: 12AJV9 ($2.05 in chips) 
+Seat 2: AtonarhFE ($3.88 in chips) 
+Seat 4: Burgarn ($2.42 in chips) 
+Seat 7: Dorex2007 ($6.79 in chips) 
+Seat 8: LeandroAku ($2.03 in chips) 
+Seat 9: Ch0pperch1c ($2.71 in chips) 
+Burgarn: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 8h]
+LeandroAku: folds 
+Ch0pperch1c: calls $0.02
+12AJV9: raises $0.05 to $0.07
+AtonarhFE: folds 
+Burgarn: folds 
+Dorex2007: folds 
+Ch0pperch1c: calls $0.05
+*** FLOP *** [8c 7h Th]
+Ch0pperch1c: checks 
+12AJV9: checks 
+*** TURN *** [8c 7h Th] [4d]
+Ch0pperch1c: checks 
+12AJV9: bets $0.02
+Ch0pperch1c: calls $0.02
+*** RIVER *** [8c 7h Th 4d] [6h]
+Ch0pperch1c: checks 
+12AJV9: bets $0.07
+Ch0pperch1c: calls $0.07
+*** SHOW DOWN ***
+12AJV9: shows [7d 6d] (two pair, Sevens and Sixes)
+Ch0pperch1c: mucks hand 
+12AJV9 collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [8c 7h Th 4d 6h]
+Seat 1: 12AJV9 showed [7d 6d] and won ($0.34) with two pair, Sevens and Sixes
+Seat 2: AtonarhFE (button) folded before Flop (didn't bet)
+Seat 4: Burgarn (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: LeandroAku folded before Flop (didn't bet)
+Seat 9: Ch0pperch1c mucked [4c Kc]
+
+
+
+PokerStars Hand #227920598841:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 17:14:18 PT [2021/06/28 20:14:18 ET]
+Table 'Fechtig II' 9-max Seat #4 is the button
+Seat 1: 12AJV9 ($2.23 in chips) 
+Seat 2: AtonarhFE ($3.88 in chips) 
+Seat 4: Burgarn ($2.41 in chips) 
+Seat 7: Dorex2007 ($6.77 in chips) 
+Seat 9: Ch0pperch1c ($2.55 in chips) 
+Dorex2007: posts small blind $0.01
+LeandroAku: is sitting out 
+Ch0pperch1c: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 9s]
+12AJV9: raises $0.03 to $0.05
+AtonarhFE: raises $0.10 to $0.15
+Burgarn: folds 
+Dorex2007: folds 
+Ch0pperch1c: calls $0.13
+12AJV9: calls $0.10
+*** FLOP *** [5s 6h 8h]
+Ch0pperch1c: bets $0.22
+12AJV9: calls $0.22
+AtonarhFE: raises $3.51 to $3.73 and is all-in
+Ch0pperch1c: folds 
+12AJV9: folds 
+Uncalled bet ($3.51) returned to AtonarhFE
+AtonarhFE collected $1.08 from pot
+AtonarhFE: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.12 | Rake $0.04 
+Board [5s 6h 8h]
+Seat 1: 12AJV9 folded on the Flop
+Seat 2: AtonarhFE collected ($1.08)
+Seat 4: Burgarn (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 9: Ch0pperch1c (big blind) folded on the Flop
+
+
+

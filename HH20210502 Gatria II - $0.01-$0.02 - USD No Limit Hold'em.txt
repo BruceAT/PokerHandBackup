@@ -1,0 +1,203 @@
+﻿PokerStars Hand #226408691685:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/02 14:27:51 PT [2021/05/02 17:27:51 ET]
+Table 'Gatria II' 9-max Seat #4 is the button
+Seat 1: G_E_M_P_S_A ($1.49 in chips) 
+Seat 2: Dorex2007 ($1.50 in chips) 
+Seat 3: showtimeJJ ($6.68 in chips) 
+Seat 4: Sparky1337s ($1.72 in chips) 
+Seat 5: quartzstone ($1.32 in chips) 
+Seat 7: VadimQaaaa ($1.65 in chips) 
+Seat 8: McPartiZano ($5.11 in chips) 
+Seat 9: Benevolented ($2.86 in chips) 
+quartzstone: posts small blind $0.01
+VadimQaaaa: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 5c]
+McPartiZano: raises $0.04 to $0.06
+Benevolented: folds 
+G_E_M_P_S_A: raises $0.18 to $0.24
+Dorex2007: folds 
+showtimeJJ: folds 
+Sparky1337s: folds 
+quartzstone: folds 
+VadimQaaaa: raises $0.18 to $0.42
+McPartiZano: folds 
+G_E_M_P_S_A: calls $0.18
+*** FLOP *** [3d 3s As]
+VadimQaaaa: bets $0.40
+G_E_M_P_S_A: raises $0.67 to $1.07 and is all-in
+VadimQaaaa: calls $0.67
+*** TURN *** [3d 3s As] [6s]
+*** RIVER *** [3d 3s As 6s] [8h]
+*** SHOW DOWN ***
+VadimQaaaa: shows [Ad Ts] (two pair, Aces and Threes)
+G_E_M_P_S_A: shows [7d 7s] (two pair, Sevens and Threes)
+VadimQaaaa collected $2.96 from pot
+*** SUMMARY ***
+Total pot $3.07 | Rake $0.11 
+Board [3d 3s As 6s 8h]
+Seat 1: G_E_M_P_S_A showed [7d 7s] and lost with two pair, Sevens and Threes
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: showtimeJJ folded before Flop (didn't bet)
+Seat 4: Sparky1337s (button) folded before Flop (didn't bet)
+Seat 5: quartzstone (small blind) folded before Flop
+Seat 7: VadimQaaaa (big blind) showed [Ad Ts] and won ($2.96) with two pair, Aces and Threes
+Seat 8: McPartiZano folded before Flop
+Seat 9: Benevolented folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226408722631:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/02 14:28:43 PT [2021/05/02 17:28:43 ET]
+Table 'Gatria II' 9-max Seat #5 is the button
+Seat 2: Dorex2007 ($1.48 in chips) 
+Seat 3: showtimeJJ ($6.68 in chips) 
+Seat 4: Sparky1337s ($1.72 in chips) 
+Seat 5: quartzstone ($1.31 in chips) 
+Seat 7: VadimQaaaa ($3.12 in chips) 
+Seat 8: McPartiZano ($5.05 in chips) 
+Seat 9: Benevolented ($2.86 in chips) 
+VadimQaaaa: posts small blind $0.01
+McPartiZano: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 8c]
+Benevolented: folds 
+Dorex2007: calls $0.02
+G_E_M_P_S_A leaves the table
+showtimeJJ: folds 
+Sparky1337s: folds 
+quartzstone: raises $0.02 to $0.04
+VadimQaaaa: folds 
+McPartiZano: calls $0.02
+Dorex2007: calls $0.02
+*** FLOP *** [4s 9s 3h]
+VadimQaaaa leaves the table
+McPartiZano: checks 
+Dorex2007: checks 
+quartzstone: checks 
+*** TURN *** [4s 9s 3h] [8s]
+McPartiZano: checks 
+Dorex2007: checks 
+quartzstone: bets $0.07
+McPartiZano: folds 
+Dorex2007: folds 
+Uncalled bet ($0.07) returned to quartzstone
+quartzstone collected $0.13 from pot
+quartzstone: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4s 9s 3h 8s]
+Seat 2: Dorex2007 folded on the Turn
+Seat 3: showtimeJJ folded before Flop (didn't bet)
+Seat 4: Sparky1337s folded before Flop (didn't bet)
+Seat 5: quartzstone (button) collected ($0.13)
+Seat 7: VadimQaaaa (small blind) folded before Flop
+Seat 8: McPartiZano (big blind) folded on the Turn
+Seat 9: Benevolented folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226408774242:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/02 14:30:03 PT [2021/05/02 17:30:03 ET]
+Table 'Gatria II' 9-max Seat #8 is the button
+Seat 2: Dorex2007 ($1.96 in chips) 
+Seat 3: showtimeJJ ($6.68 in chips) 
+Seat 4: Sparky1337s ($1.72 in chips) 
+Seat 5: quartzstone ($1.40 in chips) 
+Seat 8: McPartiZano ($5.01 in chips) 
+Seat 9: Benevolented ($2.86 in chips) 
+Benevolented: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 2s]
+showtimeJJ: raises $0.06 to $0.08
+Sparky1337s: folds 
+quartzstone: folds 
+McPartiZano: folds 
+Benevolented: folds 
+Dorex2007: folds 
+Uncalled bet ($0.06) returned to showtimeJJ
+showtimeJJ collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Dorex2007 (big blind) folded before Flop
+Seat 3: showtimeJJ collected ($0.05)
+Seat 4: Sparky1337s folded before Flop (didn't bet)
+Seat 5: quartzstone folded before Flop (didn't bet)
+Seat 8: McPartiZano (button) folded before Flop (didn't bet)
+Seat 9: Benevolented (small blind) folded before Flop
+
+
+
+PokerStars Hand #226408783605:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/02 14:30:19 PT [2021/05/02 17:30:19 ET]
+Table 'Gatria II' 9-max Seat #9 is the button
+Seat 2: Dorex2007 ($1.94 in chips) 
+Seat 3: showtimeJJ ($6.71 in chips) 
+Seat 4: Sparky1337s ($1.72 in chips) 
+Seat 5: quartzstone ($1.40 in chips) 
+Seat 8: McPartiZano ($5.01 in chips) 
+Seat 9: Benevolented ($2.85 in chips) 
+Dorex2007: posts small blind $0.01
+showtimeJJ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 4d]
+Sparky1337s: raises $0.06 to $0.08
+quartzstone: folds 
+McPartiZano is disconnected 
+McPartiZano is connected 
+McPartiZano has timed out
+McPartiZano: folds 
+Benevolented: folds 
+Dorex2007: folds 
+showtimeJJ: raises $0.16 to $0.24
+Sparky1337s: calls $0.16
+*** FLOP *** [Ac 2c 5d]
+showtimeJJ: bets $0.20
+Sparky1337s: raises $0.20 to $0.40
+showtimeJJ: folds 
+Uncalled bet ($0.20) returned to Sparky1337s
+Sparky1337s collected $0.86 from pot
+Sparky1337s: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.89 | Rake $0.03 
+Board [Ac 2c 5d]
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 3: showtimeJJ (big blind) folded on the Flop
+Seat 4: Sparky1337s collected ($0.86)
+Seat 5: quartzstone folded before Flop (didn't bet)
+Seat 8: McPartiZano folded before Flop (didn't bet)
+Seat 9: Benevolented (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226408820318:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/02 14:31:08 PT [2021/05/02 17:31:08 ET]
+Table 'Gatria II' 9-max Seat #2 is the button
+Seat 2: Dorex2007 ($1.93 in chips) 
+Seat 3: showtimeJJ ($6.27 in chips) 
+Seat 4: Sparky1337s ($2.14 in chips) 
+Seat 5: quartzstone ($1.40 in chips) 
+Seat 8: McPartiZano ($5.01 in chips) 
+Seat 9: Benevolented ($2.85 in chips) 
+showtimeJJ: posts small blind $0.01
+Sparky1337s: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Ts]
+quartzstone: raises $0.02 to $0.04
+McPartiZano: folds 
+Benevolented: folds 
+Dorex2007: folds 
+showtimeJJ: folds 
+Sparky1337s: folds 
+Uncalled bet ($0.02) returned to quartzstone
+Sparky1337s leaves the table
+quartzstone collected $0.05 from pot
+quartzstone: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: showtimeJJ (small blind) folded before Flop
+Seat 4: Sparky1337s (big blind) folded before Flop
+Seat 5: quartzstone collected ($0.05)
+Seat 8: McPartiZano folded before Flop (didn't bet)
+Seat 9: Benevolented folded before Flop (didn't bet)
+
+
+

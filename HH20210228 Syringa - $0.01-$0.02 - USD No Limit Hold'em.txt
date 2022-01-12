@@ -1,0 +1,989 @@
+﻿PokerStars Hand #224299837671:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/27 21:39:58 PT [2021/02/28 0:39:58 ET]
+Table 'Syringa' 9-max Seat #5 is the button
+Seat 1: AnXioUs82 ($6.13 in chips) 
+Seat 2: ze_carlos656 ($0.44 in chips) 
+Seat 3: tito.ruiz94 ($2.75 in chips) 
+Seat 4: kusto1488 ($1.13 in chips) 
+Seat 5: indie_max ($5 in chips) 
+Seat 6: KnewEat ($2.06 in chips) 
+Seat 7: Dorex2007 ($1.50 in chips) 
+Seat 8: drawmonkey8 ($0.33 in chips) 
+Seat 9: arravalero ($2.99 in chips) 
+KnewEat: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 8h]
+drawmonkey8: calls $0.02
+arravalero: calls $0.02
+AnXioUs82: folds 
+ze_carlos656: folds 
+tito.ruiz94: folds 
+kusto1488: raises $0.14 to $0.16
+indie_max: folds 
+KnewEat: folds 
+Dorex2007: folds 
+drawmonkey8: folds 
+arravalero: calls $0.14
+*** FLOP *** [5h 9d Ks]
+arravalero: checks 
+kusto1488: bets $0.23
+arravalero: folds 
+Uncalled bet ($0.23) returned to kusto1488
+kusto1488 collected $0.36 from pot
+kusto1488: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [5h 9d Ks]
+Seat 1: AnXioUs82 folded before Flop (didn't bet)
+Seat 2: ze_carlos656 folded before Flop (didn't bet)
+Seat 3: tito.ruiz94 folded before Flop (didn't bet)
+Seat 4: kusto1488 collected ($0.36)
+Seat 5: indie_max (button) folded before Flop (didn't bet)
+Seat 6: KnewEat (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: drawmonkey8 folded before Flop
+Seat 9: arravalero folded on the Flop
+
+
+
+PokerStars Hand #224299852127:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/27 21:41:02 PT [2021/02/28 0:41:02 ET]
+Table 'Syringa' 9-max Seat #6 is the button
+Seat 1: AnXioUs82 ($6.13 in chips) 
+Seat 2: ze_carlos656 ($0.44 in chips) 
+Seat 3: tito.ruiz94 ($2.75 in chips) 
+Seat 4: kusto1488 ($1.33 in chips) 
+Seat 5: indie_max ($5 in chips) 
+Seat 6: KnewEat ($2.05 in chips) 
+Seat 7: Dorex2007 ($1.48 in chips) 
+Seat 8: drawmonkey8 ($0.31 in chips) 
+Seat 9: arravalero ($2.83 in chips) 
+Dorex2007: posts small blind $0.01
+drawmonkey8: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Qd]
+arravalero: folds 
+AnXioUs82: folds 
+ze_carlos656: folds 
+tito.ruiz94: calls $0.02
+kusto1488: folds 
+indie_max: folds 
+KnewEat: folds 
+Dorex2007: folds 
+drawmonkey8: checks 
+*** FLOP *** [6d As 3s]
+drawmonkey8: checks 
+tito.ruiz94: checks 
+*** TURN *** [6d As 3s] [8h]
+drawmonkey8: bets $0.04
+tito.ruiz94: folds 
+Uncalled bet ($0.04) returned to drawmonkey8
+drawmonkey8 collected $0.05 from pot
+drawmonkey8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6d As 3s 8h]
+Seat 1: AnXioUs82 folded before Flop (didn't bet)
+Seat 2: ze_carlos656 folded before Flop (didn't bet)
+Seat 3: tito.ruiz94 folded on the Turn
+Seat 4: kusto1488 folded before Flop (didn't bet)
+Seat 5: indie_max folded before Flop (didn't bet)
+Seat 6: KnewEat (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: drawmonkey8 (big blind) collected ($0.05)
+Seat 9: arravalero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224299860277:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/27 21:41:38 PT [2021/02/28 0:41:38 ET]
+Table 'Syringa' 9-max Seat #7 is the button
+Seat 1: AnXioUs82 ($6.13 in chips) 
+Seat 2: ze_carlos656 ($0.44 in chips) 
+Seat 3: tito.ruiz94 ($2.73 in chips) 
+Seat 4: kusto1488 ($1.33 in chips) 
+Seat 5: indie_max ($5 in chips) 
+Seat 6: KnewEat ($2.05 in chips) 
+Seat 7: Dorex2007 ($1.47 in chips) 
+Seat 8: drawmonkey8 ($0.34 in chips) 
+Seat 9: arravalero ($2.83 in chips) 
+drawmonkey8: posts small blind $0.01
+arravalero: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s Kd]
+AnXioUs82: calls $0.02
+ze_carlos656: folds 
+tito.ruiz94: calls $0.02
+kusto1488: folds 
+indie_max: calls $0.02
+KnewEat: folds 
+Dorex2007: folds 
+drawmonkey8: calls $0.01
+arravalero: checks 
+*** FLOP *** [7s 9c 5d]
+drawmonkey8: checks 
+arravalero: checks 
+AnXioUs82: checks 
+tito.ruiz94: bets $0.05
+indie_max: folds 
+drawmonkey8: calls $0.05
+arravalero: folds 
+AnXioUs82: calls $0.05
+*** TURN *** [7s 9c 5d] [Qc]
+drawmonkey8: checks 
+AnXioUs82: checks 
+tito.ruiz94: checks 
+*** RIVER *** [7s 9c 5d Qc] [Td]
+drawmonkey8: checks 
+AnXioUs82: checks 
+tito.ruiz94: checks 
+*** SHOW DOWN ***
+drawmonkey8: shows [Kc Ad] (high card Ace)
+AnXioUs82: mucks hand 
+tito.ruiz94: shows [7d 8d] (a pair of Sevens)
+tito.ruiz94 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [7s 9c 5d Qc Td]
+Seat 1: AnXioUs82 mucked [4d Ac]
+Seat 2: ze_carlos656 folded before Flop (didn't bet)
+Seat 3: tito.ruiz94 showed [7d 8d] and won ($0.24) with a pair of Sevens
+Seat 4: kusto1488 folded before Flop (didn't bet)
+Seat 5: indie_max folded on the Flop
+Seat 6: KnewEat folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: drawmonkey8 (small blind) showed [Kc Ad] and lost with high card Ace
+Seat 9: arravalero (big blind) folded on the Flop
+
+
+
+PokerStars Hand #224299873843:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/27 21:42:38 PT [2021/02/28 0:42:38 ET]
+Table 'Syringa' 9-max Seat #8 is the button
+Seat 1: AnXioUs82 ($6.06 in chips) 
+Seat 2: ze_carlos656 ($0.44 in chips) 
+Seat 3: tito.ruiz94 ($2.90 in chips) 
+Seat 4: kusto1488 ($1.33 in chips) 
+Seat 5: indie_max ($4.98 in chips) 
+Seat 6: KnewEat ($2.05 in chips) 
+Seat 7: Dorex2007 ($1.47 in chips) 
+Seat 8: drawmonkey8 ($0.27 in chips) 
+Seat 9: arravalero ($2.81 in chips) 
+arravalero: posts small blind $0.01
+AnXioUs82: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Js]
+ze_carlos656: folds 
+tito.ruiz94: folds 
+kusto1488: folds 
+indie_max: folds 
+KnewEat: calls $0.02
+Dorex2007: folds 
+drawmonkey8: raises $0.06 to $0.08
+arravalero: calls $0.07
+AnXioUs82: raises $0.06 to $0.14
+KnewEat: folds 
+drawmonkey8: calls $0.06
+arravalero: calls $0.06
+*** FLOP *** [Jh Ah 4c]
+arravalero: checks 
+AnXioUs82: bets $0.18
+drawmonkey8: folds 
+arravalero: calls $0.18
+*** TURN *** [Jh Ah 4c] [7h]
+arravalero: bets $0.39
+AnXioUs82: calls $0.39
+*** RIVER *** [Jh Ah 4c 7h] [5s]
+arravalero: checks 
+AnXioUs82: checks 
+*** SHOW DOWN ***
+arravalero: shows [Kh Ac] (a pair of Aces)
+AnXioUs82: mucks hand 
+arravalero collected $1.52 from pot
+*** SUMMARY ***
+Total pot $1.58 | Rake $0.06 
+Board [Jh Ah 4c 7h 5s]
+Seat 1: AnXioUs82 (big blind) mucked [As Qc]
+Seat 2: ze_carlos656 folded before Flop (didn't bet)
+Seat 3: tito.ruiz94 folded before Flop (didn't bet)
+Seat 4: kusto1488 folded before Flop (didn't bet)
+Seat 5: indie_max folded before Flop (didn't bet)
+Seat 6: KnewEat folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: drawmonkey8 (button) folded on the Flop
+Seat 9: arravalero (small blind) showed [Kh Ac] and won ($1.52) with a pair of Aces
+
+
+
+PokerStars Hand #224299894398:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/27 21:44:11 PT [2021/02/28 0:44:11 ET]
+Table 'Syringa' 9-max Seat #9 is the button
+Seat 1: AnXioUs82 ($5.35 in chips) 
+Seat 2: ze_carlos656 ($0.44 in chips) 
+Seat 3: tito.ruiz94 ($2.90 in chips) 
+Seat 4: kusto1488 ($1.33 in chips) 
+Seat 5: indie_max ($4.98 in chips) 
+Seat 6: KnewEat ($2.03 in chips) 
+Seat 7: Dorex2007 ($1.47 in chips) 
+Seat 8: drawmonkey8 ($0.13 in chips) 
+Seat 9: arravalero ($3.62 in chips) 
+AnXioUs82: posts small blind $0.01
+ze_carlos656: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Kh]
+tito.ruiz94: folds 
+kusto1488: folds 
+indie_max: folds 
+KnewEat: folds 
+Dorex2007: folds 
+drawmonkey8: raises $0.11 to $0.13 and is all-in
+arravalero: folds 
+AnXioUs82: folds 
+ze_carlos656: calls $0.11
+*** FLOP *** [5d Td Qh]
+*** TURN *** [5d Td Qh] [9d]
+*** RIVER *** [5d Td Qh 9d] [8d]
+*** SHOW DOWN ***
+ze_carlos656: shows [5h 5c] (three of a kind, Fives)
+drawmonkey8: shows [8h Ah] (a pair of Eights)
+ze_carlos656 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [5d Td Qh 9d 8d]
+Seat 1: AnXioUs82 (small blind) folded before Flop
+Seat 2: ze_carlos656 (big blind) showed [5h 5c] and won ($0.26) with three of a kind, Fives
+Seat 3: tito.ruiz94 folded before Flop (didn't bet)
+Seat 4: kusto1488 folded before Flop (didn't bet)
+Seat 5: indie_max folded before Flop (didn't bet)
+Seat 6: KnewEat folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: drawmonkey8 showed [8h Ah] and lost with a pair of Eights
+Seat 9: arravalero (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224299904461:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/27 21:44:56 PT [2021/02/28 0:44:56 ET]
+Table 'Syringa' 9-max Seat #1 is the button
+Seat 1: AnXioUs82 ($5.34 in chips) 
+Seat 2: ze_carlos656 ($0.57 in chips) 
+Seat 3: tito.ruiz94 ($2.90 in chips) 
+Seat 4: kusto1488 ($1.33 in chips) 
+Seat 5: indie_max ($4.98 in chips) 
+Seat 6: KnewEat ($2.03 in chips) 
+Seat 7: Dorex2007 ($1.47 in chips) 
+Seat 9: arravalero ($3.62 in chips) 
+ze_carlos656: posts small blind $0.01
+tito.ruiz94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Jc]
+kusto1488: folds 
+indie_max: calls $0.02
+KnewEat: folds 
+drawmonkey8 leaves the table
+Dorex2007: folds 
+arravalero: folds 
+AnXioUs82: calls $0.02
+ze_carlos656: calls $0.01
+tito.ruiz94: raises $0.08 to $0.10
+indie_max: folds 
+AnXioUs82: folds 
+Nick.Siloff joins the table at seat #8 
+ze_carlos656: calls $0.08
+*** FLOP *** [6d Kh 4h]
+ze_carlos656: checks 
+tito.ruiz94: bets $0.23
+ze_carlos656: folds 
+Uncalled bet ($0.23) returned to tito.ruiz94
+tito.ruiz94 collected $0.23 from pot
+tito.ruiz94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [6d Kh 4h]
+Seat 1: AnXioUs82 (button) folded before Flop
+Seat 2: ze_carlos656 (small blind) folded on the Flop
+Seat 3: tito.ruiz94 (big blind) collected ($0.23)
+Seat 4: kusto1488 folded before Flop (didn't bet)
+Seat 5: indie_max folded before Flop
+Seat 6: KnewEat folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: arravalero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224299916984:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/27 21:45:52 PT [2021/02/28 0:45:52 ET]
+Table 'Syringa' 9-max Seat #2 is the button
+Seat 1: AnXioUs82 ($5.32 in chips) 
+Seat 2: ze_carlos656 ($0.47 in chips) 
+Seat 3: tito.ruiz94 ($3.03 in chips) 
+Seat 4: kusto1488 ($1.33 in chips) 
+Seat 5: indie_max ($4.96 in chips) 
+Seat 6: KnewEat ($2.03 in chips) 
+Seat 7: Dorex2007 ($1.47 in chips) 
+Seat 8: Nick.Siloff ($2 in chips) 
+Seat 9: arravalero ($3.62 in chips) 
+tito.ruiz94: posts small blind $0.01
+kusto1488: posts big blind $0.02
+Nick.Siloff: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad Tc]
+indie_max: calls $0.02
+KnewEat: folds 
+Dorex2007: folds 
+Nick.Siloff: checks 
+arravalero: folds 
+AnXioUs82: calls $0.02
+ze_carlos656: folds 
+tito.ruiz94: calls $0.01
+kusto1488: checks 
+*** FLOP *** [3d 9s As]
+tito.ruiz94: checks 
+kusto1488: checks 
+indie_max: bets $0.05
+Nick.Siloff: folds 
+AnXioUs82: folds 
+tito.ruiz94: folds 
+kusto1488: folds 
+Uncalled bet ($0.05) returned to indie_max
+indie_max collected $0.10 from pot
+indie_max: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [3d 9s As]
+Seat 1: AnXioUs82 folded on the Flop
+Seat 2: ze_carlos656 (button) folded before Flop (didn't bet)
+Seat 3: tito.ruiz94 (small blind) folded on the Flop
+Seat 4: kusto1488 (big blind) folded on the Flop
+Seat 5: indie_max collected ($0.10)
+Seat 6: KnewEat folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: Nick.Siloff folded on the Flop (didn't bet)
+Seat 9: arravalero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224299933387:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/27 21:47:05 PT [2021/02/28 0:47:05 ET]
+Table 'Syringa' 9-max Seat #3 is the button
+Seat 1: AnXioUs82 ($5.30 in chips) 
+Seat 2: ze_carlos656 ($0.47 in chips) 
+Seat 3: tito.ruiz94 ($3.01 in chips) 
+Seat 4: kusto1488 ($1.31 in chips) 
+Seat 5: indie_max ($5.04 in chips) 
+Seat 6: KnewEat ($2.03 in chips) 
+Seat 7: Dorex2007 ($1.47 in chips) 
+Seat 8: Nick.Siloff ($2 in chips) 
+Seat 9: arravalero ($3.62 in chips) 
+kusto1488: posts small blind $0.01
+indie_max: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 6d]
+KnewEat: folds 
+Dorex2007: raises $0.04 to $0.06
+Nick.Siloff: folds 
+arravalero: folds 
+AnXioUs82: folds 
+ze_carlos656: calls $0.06
+tito.ruiz94: calls $0.06
+kusto1488: folds 
+indie_max: folds 
+*** FLOP *** [Qc 7c 6s]
+Dorex2007: bets $0.15
+ze_carlos656: calls $0.15
+tito.ruiz94: folds 
+*** TURN *** [Qc 7c 6s] [2s]
+Dorex2007: checks 
+ze_carlos656: checks 
+*** RIVER *** [Qc 7c 6s 2s] [2h]
+Dorex2007: checks 
+ze_carlos656: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [Ad 6d] (two pair, Sixes and Deuces)
+ze_carlos656: shows [Qs 9s] (two pair, Queens and Deuces)
+ze_carlos656 collected $0.49 from pot
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [Qc 7c 6s 2s 2h]
+Seat 1: AnXioUs82 folded before Flop (didn't bet)
+Seat 2: ze_carlos656 showed [Qs 9s] and won ($0.49) with two pair, Queens and Deuces
+Seat 3: tito.ruiz94 (button) folded on the Flop
+Seat 4: kusto1488 (small blind) folded before Flop
+Seat 5: indie_max (big blind) folded before Flop
+Seat 6: KnewEat folded before Flop (didn't bet)
+Seat 7: Dorex2007 showed [Ad 6d] and lost with two pair, Sixes and Deuces
+Seat 8: Nick.Siloff folded before Flop (didn't bet)
+Seat 9: arravalero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224299945860:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/27 21:48:02 PT [2021/02/28 0:48:02 ET]
+Table 'Syringa' 9-max Seat #4 is the button
+Seat 1: AnXioUs82 ($5.30 in chips) 
+Seat 2: ze_carlos656 ($0.75 in chips) 
+Seat 3: tito.ruiz94 ($2.95 in chips) 
+Seat 4: kusto1488 ($1.30 in chips) 
+Seat 5: indie_max ($5.02 in chips) 
+Seat 6: KnewEat ($2.03 in chips) 
+Seat 7: Dorex2007 ($1.26 in chips) 
+Seat 8: Nick.Siloff ($2 in chips) 
+Seat 9: arravalero ($3.62 in chips) 
+indie_max: posts small blind $0.01
+KnewEat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Kd]
+Dorex2007: raises $0.04 to $0.06
+Nick.Siloff: folds 
+arravalero: folds 
+AnXioUs82: folds 
+ze_carlos656: folds 
+tito.ruiz94: folds 
+kusto1488: calls $0.06
+indie_max: folds 
+KnewEat: folds 
+*** FLOP *** [Th 3d 2s]
+Dorex2007: checks 
+kusto1488: bets $0.08
+Dorex2007: calls $0.08
+*** TURN *** [Th 3d 2s] [9d]
+Dorex2007: checks 
+kusto1488: bets $0.20
+Dorex2007: calls $0.20
+*** RIVER *** [Th 3d 2s 9d] [5c]
+Dorex2007: bets $0.35
+kusto1488: folds 
+Uncalled bet ($0.35) returned to Dorex2007
+Dorex2007 collected $0.69 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02 
+Board [Th 3d 2s 9d 5c]
+Seat 1: AnXioUs82 folded before Flop (didn't bet)
+Seat 2: ze_carlos656 folded before Flop (didn't bet)
+Seat 3: tito.ruiz94 folded before Flop (didn't bet)
+Seat 4: kusto1488 (button) folded on the River
+Seat 5: indie_max (small blind) folded before Flop
+Seat 6: KnewEat (big blind) folded before Flop
+Seat 7: Dorex2007 collected ($0.69)
+Seat 8: Nick.Siloff folded before Flop (didn't bet)
+Seat 9: arravalero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224300063332:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/27 21:56:13 PT [2021/02/28 0:56:13 ET]
+Table 'Syringa' 9-max Seat #5 is the button
+Seat 1: AnXioUs82 ($5.57 in chips) 
+Seat 2: ze_carlos656 ($0.37 in chips) 
+Seat 3: tito.ruiz94 ($3.60 in chips) 
+Seat 4: bruno3223 ($1.36 in chips) 
+Seat 5: indie_max ($4.98 in chips) 
+Seat 6: KnewEat ($2 in chips) 
+Seat 7: Dorex2007 ($1.61 in chips) 
+Seat 8: Nick.Siloff ($2 in chips) 
+Seat 9: arravalero ($3.79 in chips) 
+KnewEat: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 6h]
+Nick.Siloff: folds 
+arravalero: folds 
+AnXioUs82: calls $0.02
+ze_carlos656: calls $0.02
+tito.ruiz94: folds 
+bruno3223: folds 
+indie_max: calls $0.02
+KnewEat: folds 
+Dorex2007: checks 
+*** FLOP *** [3s 3c 4c]
+Dorex2007: checks 
+AnXioUs82: checks 
+ze_carlos656: checks 
+indie_max: checks 
+*** TURN *** [3s 3c 4c] [7c]
+Dorex2007: checks 
+AnXioUs82: checks 
+ze_carlos656: checks 
+indie_max: checks 
+*** RIVER *** [3s 3c 4c 7c] [7h]
+Dorex2007: checks 
+AnXioUs82: bets $0.02
+ze_carlos656: folds 
+indie_max: folds 
+Dorex2007: folds 
+Uncalled bet ($0.02) returned to AnXioUs82
+AnXioUs82 collected $0.09 from pot
+AnXioUs82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [3s 3c 4c 7c 7h]
+Seat 1: AnXioUs82 collected ($0.09)
+Seat 2: ze_carlos656 folded on the River
+Seat 3: tito.ruiz94 folded before Flop (didn't bet)
+Seat 4: bruno3223 folded before Flop (didn't bet)
+Seat 5: indie_max (button) folded on the River
+Seat 6: KnewEat (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded on the River
+Seat 8: Nick.Siloff folded before Flop (didn't bet)
+Seat 9: arravalero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224300083390:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/27 21:58:04 PT [2021/02/28 0:58:04 ET]
+Table 'Syringa' 9-max Seat #6 is the button
+Seat 1: AnXioUs82 ($5.64 in chips) 
+Seat 2: ze_carlos656 ($0.35 in chips) 
+Seat 3: tito.ruiz94 ($3.60 in chips) 
+Seat 4: bruno3223 ($1.36 in chips) 
+Seat 5: indie_max ($4.96 in chips) 
+Seat 6: KnewEat ($2 in chips) 
+Seat 7: Dorex2007 ($1.59 in chips) 
+Seat 8: Nick.Siloff ($2 in chips) 
+Seat 9: arravalero ($3.79 in chips) 
+Dorex2007: posts small blind $0.01
+Nick.Siloff: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Qs]
+arravalero: folds 
+AnXioUs82: folds 
+ze_carlos656: calls $0.02
+tito.ruiz94: folds 
+bruno3223: folds 
+indie_max: folds 
+KnewEat: folds 
+Dorex2007: raises $0.04 to $0.06
+Nick.Siloff: calls $0.04
+ze_carlos656: folds 
+*** FLOP *** [6c 7h Jc]
+Dorex2007: bets $0.14
+Nick.Siloff: folds 
+Uncalled bet ($0.14) returned to Dorex2007
+Dorex2007 collected $0.14 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [6c 7h Jc]
+Seat 1: AnXioUs82 folded before Flop (didn't bet)
+Seat 2: ze_carlos656 folded before Flop
+Seat 3: tito.ruiz94 folded before Flop (didn't bet)
+Seat 4: bruno3223 folded before Flop (didn't bet)
+Seat 5: indie_max folded before Flop (didn't bet)
+Seat 6: KnewEat (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) collected ($0.14)
+Seat 8: Nick.Siloff (big blind) folded on the Flop
+Seat 9: arravalero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224300095356:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/27 21:59:11 PT [2021/02/28 0:59:11 ET]
+Table 'Syringa' 9-max Seat #7 is the button
+Seat 1: AnXioUs82 ($5.64 in chips) 
+Seat 2: ze_carlos656 ($0.33 in chips) 
+Seat 3: tito.ruiz94 ($3.60 in chips) 
+Seat 4: bruno3223 ($1.36 in chips) 
+Seat 5: indie_max ($4.96 in chips) 
+Seat 6: KnewEat ($2 in chips) 
+Seat 7: Dorex2007 ($1.67 in chips) 
+Seat 8: Nick.Siloff ($2 in chips) 
+Seat 9: arravalero ($3.79 in chips) 
+Nick.Siloff: posts small blind $0.01
+arravalero: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Ks]
+AnXioUs82: calls $0.02
+ze_carlos656: folds 
+tito.ruiz94: folds 
+bruno3223: calls $0.02
+indie_max: folds 
+KnewEat: folds 
+Dorex2007: calls $0.02
+Nick.Siloff: folds 
+arravalero: checks 
+*** FLOP *** [Jd 6d 6h]
+arravalero: checks 
+AnXioUs82: checks 
+bruno3223: checks 
+Dorex2007: checks 
+*** TURN *** [Jd 6d 6h] [Js]
+arravalero: checks 
+AnXioUs82: checks 
+bruno3223: checks 
+Dorex2007: checks 
+*** RIVER *** [Jd 6d 6h Js] [4s]
+arravalero: checks 
+AnXioUs82: checks 
+bruno3223: checks 
+Dorex2007: bets $0.07
+arravalero: folds 
+AnXioUs82: folds 
+bruno3223: folds 
+Uncalled bet ($0.07) returned to Dorex2007
+Dorex2007 collected $0.09 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Jd 6d 6h Js 4s]
+Seat 1: AnXioUs82 folded on the River
+Seat 2: ze_carlos656 folded before Flop (didn't bet)
+Seat 3: tito.ruiz94 folded before Flop (didn't bet)
+Seat 4: bruno3223 folded on the River
+Seat 5: indie_max folded before Flop (didn't bet)
+Seat 6: KnewEat folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) collected ($0.09)
+Seat 8: Nick.Siloff (small blind) folded before Flop
+Seat 9: arravalero (big blind) folded on the River
+
+
+
+PokerStars Hand #224300107397:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/27 22:00:15 PT [2021/02/28 1:00:15 ET]
+Table 'Syringa' 9-max Seat #8 is the button
+Seat 1: AnXioUs82 ($5.62 in chips) 
+Seat 2: ze_carlos656 ($0.33 in chips) 
+Seat 3: tito.ruiz94 ($3.60 in chips) 
+Seat 4: bruno3223 ($1.34 in chips) 
+Seat 5: indie_max ($4.96 in chips) 
+Seat 6: KnewEat ($2 in chips) 
+Seat 7: Dorex2007 ($1.74 in chips) 
+Seat 8: Nick.Siloff ($2 in chips) 
+Seat 9: arravalero ($3.77 in chips) 
+arravalero: posts small blind $0.01
+AnXioUs82: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Ts]
+ze_carlos656 has timed out
+ze_carlos656: folds 
+tito.ruiz94: calls $0.02
+bruno3223: folds 
+indie_max: folds 
+KnewEat: folds 
+Dorex2007: folds 
+Nick.Siloff: folds 
+arravalero: calls $0.01
+AnXioUs82: checks 
+*** FLOP *** [9d Kc 3h]
+arravalero: checks 
+AnXioUs82: bets $0.04
+tito.ruiz94: calls $0.04
+arravalero: folds 
+*** TURN *** [9d Kc 3h] [8s]
+AnXioUs82: checks 
+tito.ruiz94: checks 
+*** RIVER *** [9d Kc 3h 8s] [5c]
+AnXioUs82: bets $0.04
+tito.ruiz94: folds 
+Uncalled bet ($0.04) returned to AnXioUs82
+AnXioUs82 collected $0.14 from pot
+AnXioUs82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [9d Kc 3h 8s 5c]
+Seat 1: AnXioUs82 (big blind) collected ($0.14)
+Seat 2: ze_carlos656 folded before Flop (didn't bet)
+Seat 3: tito.ruiz94 folded on the River
+Seat 4: bruno3223 folded before Flop (didn't bet)
+Seat 5: indie_max folded before Flop (didn't bet)
+Seat 6: KnewEat folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: Nick.Siloff (button) folded before Flop (didn't bet)
+Seat 9: arravalero (small blind) folded on the Flop
+
+
+
+PokerStars Hand #224300129583:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/27 22:01:18 PT [2021/02/28 1:01:18 ET]
+Table 'Syringa' 9-max Seat #9 is the button
+Seat 1: AnXioUs82 ($5.70 in chips) 
+Seat 2: ze_carlos656 ($0.33 in chips) 
+Seat 3: tito.ruiz94 ($3.54 in chips) 
+Seat 4: bruno3223 ($1.34 in chips) 
+Seat 5: indie_max ($4.96 in chips) 
+Seat 6: KnewEat ($2 in chips) 
+Seat 7: Dorex2007 ($1.74 in chips) 
+Seat 8: Nick.Siloff ($2 in chips) 
+Seat 9: arravalero ($3.75 in chips) 
+AnXioUs82: posts small blind $0.01
+ze_carlos656: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 2h]
+tito.ruiz94: folds 
+bruno3223: calls $0.02
+indie_max: folds 
+KnewEat: folds 
+Dorex2007: folds 
+Nick.Siloff: folds 
+arravalero: folds 
+AnXioUs82: calls $0.01
+ze_carlos656: checks 
+*** FLOP *** [4d 9s Ah]
+AnXioUs82: checks 
+ze_carlos656: checks 
+bruno3223: bets $0.03
+AnXioUs82: folds 
+ze_carlos656: folds 
+Uncalled bet ($0.03) returned to bruno3223
+bruno3223 collected $0.06 from pot
+bruno3223: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [4d 9s Ah]
+Seat 1: AnXioUs82 (small blind) folded on the Flop
+Seat 2: ze_carlos656 (big blind) folded on the Flop
+Seat 3: tito.ruiz94 folded before Flop (didn't bet)
+Seat 4: bruno3223 collected ($0.06)
+Seat 5: indie_max folded before Flop (didn't bet)
+Seat 6: KnewEat folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: Nick.Siloff folded before Flop (didn't bet)
+Seat 9: arravalero (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224300138932:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/27 22:02:01 PT [2021/02/28 1:02:01 ET]
+Table 'Syringa' 9-max Seat #1 is the button
+Seat 1: AnXioUs82 ($5.68 in chips) 
+Seat 2: ze_carlos656 ($0.31 in chips) 
+Seat 3: tito.ruiz94 ($3.54 in chips) 
+Seat 4: bruno3223 ($1.38 in chips) 
+Seat 5: indie_max ($4.96 in chips) 
+Seat 6: KnewEat ($2 in chips) 
+Seat 7: Dorex2007 ($1.74 in chips) 
+Seat 8: Nick.Siloff ($2 in chips) 
+Seat 9: arravalero ($3.75 in chips) 
+ze_carlos656: posts small blind $0.01
+tito.ruiz94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Qd]
+bruno3223: calls $0.02
+indie_max: folds 
+KnewEat: folds 
+Dorex2007: raises $0.06 to $0.08
+Nick.Siloff: folds 
+arravalero: folds 
+AnXioUs82: calls $0.08
+ze_carlos656: calls $0.07
+tito.ruiz94: calls $0.06
+bruno3223: folds 
+*** FLOP *** [2c 7d 9d]
+ze_carlos656: checks 
+tito.ruiz94: checks 
+Dorex2007: bets $0.33
+AnXioUs82: folds 
+ze_carlos656: calls $0.23 and is all-in
+tito.ruiz94: calls $0.33
+*** TURN *** [2c 7d 9d] [7c]
+tito.ruiz94: checks 
+Dorex2007: checks 
+*** RIVER *** [2c 7d 9d 7c] [6d]
+tito.ruiz94: bets $0.59
+Dorex2007: folds 
+Uncalled bet ($0.59) returned to tito.ruiz94
+*** SHOW DOWN ***
+tito.ruiz94: shows [Ad 2d] (a flush, Ace high)
+tito.ruiz94 collected $0.20 from side pot
+ze_carlos656: shows [Ac 5s] (a pair of Sevens)
+tito.ruiz94 collected $0.99 from main pot
+*** SUMMARY ***
+Total pot $1.23 Main pot $0.99. Side pot $0.20. | Rake $0.04 
+Board [2c 7d 9d 7c 6d]
+Seat 1: AnXioUs82 (button) folded on the Flop
+Seat 2: ze_carlos656 (small blind) showed [Ac 5s] and lost with a pair of Sevens
+Seat 3: tito.ruiz94 (big blind) showed [Ad 2d] and won ($1.19) with a flush, Ace high
+Seat 4: bruno3223 folded before Flop
+Seat 5: indie_max folded before Flop (didn't bet)
+Seat 6: KnewEat folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded on the River
+Seat 8: Nick.Siloff folded before Flop (didn't bet)
+Seat 9: arravalero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224300154857:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/27 22:03:14 PT [2021/02/28 1:03:14 ET]
+Table 'Syringa' 9-max Seat #3 is the button
+Seat 1: AnXioUs82 ($5.60 in chips) 
+Seat 3: tito.ruiz94 ($4.32 in chips) 
+Seat 4: bruno3223 ($1.36 in chips) 
+Seat 5: indie_max ($4.96 in chips) 
+Seat 6: KnewEat ($2 in chips) 
+Seat 7: Dorex2007 ($1.33 in chips) 
+Seat 8: Nick.Siloff ($2 in chips) 
+Seat 9: arravalero ($3.75 in chips) 
+bruno3223: posts small blind $0.01
+indie_max: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 3h]
+KnewEat: folds 
+ze_carlos656 leaves the table
+Dorex2007: folds 
+Nick.Siloff: folds 
+Nick.Siloff leaves the table
+arravalero: folds 
+AnXioUs82: folds 
+AnXioUs82 leaves the table
+tito.ruiz94: folds 
+bruno3223: raises $0.02 to $0.04
+indie_max: folds 
+Uncalled bet ($0.02) returned to bruno3223
+bruno3223 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: AnXioUs82 folded before Flop (didn't bet)
+Seat 3: tito.ruiz94 (button) folded before Flop (didn't bet)
+Seat 4: bruno3223 (small blind) collected ($0.04)
+Seat 5: indie_max (big blind) folded before Flop
+Seat 6: KnewEat folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: Nick.Siloff folded before Flop (didn't bet)
+Seat 9: arravalero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224300159950:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/27 22:03:38 PT [2021/02/28 1:03:38 ET]
+Table 'Syringa' 9-max Seat #4 is the button
+Seat 3: tito.ruiz94 ($4.32 in chips) 
+Seat 4: bruno3223 ($1.38 in chips) 
+Seat 5: indie_max ($4.94 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 9: arravalero ($3.75 in chips) 
+indie_max: posts small blind $0.01
+KnewEat: is sitting out 
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 9s]
+KnewEat leaves the table
+arravalero: folds 
+tito.ruiz94: folds 
+bruno3223: raises $0.02 to $0.04
+indie_max: folds 
+Dorex2007: calls $0.02
+*** FLOP *** [5h 9h Ac]
+Dorex2007: checks 
+bruno3223: bets $0.08
+Dorex2007: calls $0.08
+*** TURN *** [5h 9h Ac] [Tc]
+Dorex2007: checks 
+bruno3223: bets $0.10
+Dorex2007: raises $0.10 to $0.20
+bruno3223: calls $0.10
+*** RIVER *** [5h 9h Ac Tc] [3s]
+Dorex2007: bets $0.47
+bruno3223: calls $0.47
+*** SHOW DOWN ***
+Dorex2007: shows [Ts 9s] (two pair, Tens and Nines)
+bruno3223: mucks hand 
+Dorex2007 collected $1.53 from pot
+*** SUMMARY ***
+Total pot $1.59 | Rake $0.06 
+Board [5h 9h Ac Tc 3s]
+Seat 3: tito.ruiz94 folded before Flop (didn't bet)
+Seat 4: bruno3223 (button) mucked [3d Qc]
+Seat 5: indie_max (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) showed [Ts 9s] and won ($1.53) with two pair, Tens and Nines
+Seat 9: arravalero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224300171538:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/27 22:04:30 PT [2021/02/28 1:04:30 ET]
+Table 'Syringa' 9-max Seat #5 is the button
+Seat 3: tito.ruiz94 ($4.32 in chips) 
+Seat 4: bruno3223 ($0.59 in chips) 
+Seat 5: indie_max ($4.93 in chips) 
+Seat 7: Dorex2007 ($2.74 in chips) 
+Seat 9: arravalero ($3.75 in chips) 
+Dorex2007: posts small blind $0.01
+arravalero: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Jc]
+tito.ruiz94: calls $0.02
+bruno3223: calls $0.02
+indie_max: folds 
+Dorex2007: raises $0.04 to $0.06
+arravalero: folds 
+tito.ruiz94: calls $0.04
+bruno3223: calls $0.04
+*** FLOP *** [2h Qc 8d]
+Dorex2007: bets $0.19
+tito.ruiz94: folds 
+bruno3223: folds 
+Uncalled bet ($0.19) returned to Dorex2007
+Dorex2007 collected $0.19 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2h Qc 8d]
+Seat 3: tito.ruiz94 folded on the Flop
+Seat 4: bruno3223 folded on the Flop
+Seat 5: indie_max (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) collected ($0.19)
+Seat 9: arravalero (big blind) folded before Flop
+
+
+
+PokerStars Hand #224300177956:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/27 22:04:59 PT [2021/02/28 1:04:59 ET]
+Table 'Syringa' 9-max Seat #7 is the button
+Seat 3: tito.ruiz94 ($4.26 in chips) 
+Seat 4: bruno3223 ($0.53 in chips) 
+Seat 5: indie_max ($4.93 in chips) 
+Seat 7: Dorex2007 ($2.87 in chips) 
+Seat 9: arravalero ($3.73 in chips) 
+arravalero: posts small blind $0.01
+tito.ruiz94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Ad]
+bruno3223: folds 
+indie_max: folds 
+Dorex2007: calls $0.02
+arravalero: calls $0.01
+tito.ruiz94: checks 
+*** FLOP *** [Kh 2c 7h]
+arravalero: checks 
+tito.ruiz94: checks 
+Dorex2007: checks 
+*** TURN *** [Kh 2c 7h] [Ks]
+arravalero: checks 
+tito.ruiz94: bets $0.02
+Dorex2007: folds 
+arravalero: folds 
+Uncalled bet ($0.02) returned to tito.ruiz94
+tito.ruiz94 collected $0.06 from pot
+tito.ruiz94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Kh 2c 7h Ks]
+Seat 3: tito.ruiz94 (big blind) collected ($0.06)
+Seat 4: bruno3223 folded before Flop (didn't bet)
+Seat 5: indie_max folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded on the Turn
+Seat 9: arravalero (small blind) folded on the Turn
+
+
+
+PokerStars Hand #224300186357:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/27 22:05:38 PT [2021/02/28 1:05:38 ET]
+Table 'Syringa' 9-max Seat #9 is the button
+Seat 3: tito.ruiz94 ($4.30 in chips) 
+Seat 4: bruno3223 ($0.53 in chips) 
+Seat 5: indie_max ($4.93 in chips) 
+Seat 7: Dorex2007 ($2.85 in chips) 
+Seat 9: arravalero ($3.71 in chips) 
+tito.ruiz94: posts small blind $0.01
+bruno3223: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Qd]
+indie_max: raises $0.04 to $0.06
+Dorex2007: folds 
+arravalero: folds 
+tito.ruiz94: folds 
+bruno3223: calls $0.04
+*** FLOP *** [Jd Kc 9s]
+bruno3223: bets $0.07
+indie_max: raises $0.14 to $0.21
+pinyopapa joins the table at seat #6 
+bruno3223: raises $0.26 to $0.47 and is all-in
+indie_max: calls $0.26
+*** TURN *** [Jd Kc 9s] [As]
+*** RIVER *** [Jd Kc 9s As] [4s]
+*** SHOW DOWN ***
+bruno3223: shows [9c Ac] (two pair, Aces and Nines)
+indie_max: shows [Kd Kh] (three of a kind, Kings)
+indie_max collected $1.03 from pot
+*** SUMMARY ***
+Total pot $1.07 | Rake $0.04 
+Board [Jd Kc 9s As 4s]
+Seat 3: tito.ruiz94 (small blind) folded before Flop
+Seat 4: bruno3223 (big blind) showed [9c Ac] and lost with two pair, Aces and Nines
+Seat 5: indie_max showed [Kd Kh] and won ($1.03) with three of a kind, Kings
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: arravalero (button) folded before Flop (didn't bet)
+
+
+

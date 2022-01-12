@@ -1,0 +1,4250 @@
+﻿PokerStars Hand #224530296228:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 12:57:55 PT [2021/03/06 15:57:55 ET]
+Table 'Piccolo III' 9-max Seat #2 is the button
+Seat 1: Golsuorsi ($2 in chips) 
+Seat 2: BAZA-BONIK ($1.41 in chips) 
+Seat 3: Kondratiy ($1.50 in chips) 
+Seat 6: Dorex2007 ($1.50 in chips) 
+Seat 7: eviece_108 ($2.11 in chips) 
+Seat 9: HolyJokero ($4.01 in chips) 
+Kondratiy: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+bober2702: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 2h]
+eviece_108: folds 
+HolyJokero: raises $0.08 to $0.10
+Golsuorsi: folds 
+BAZA-BONIK: folds 
+Kondratiy: folds 
+Dorex2007: folds 
+Uncalled bet ($0.08) returned to HolyJokero
+HolyJokero collected $0.05 from pot
+HolyJokero: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Golsuorsi folded before Flop (didn't bet)
+Seat 2: BAZA-BONIK (button) folded before Flop (didn't bet)
+Seat 3: Kondratiy (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 9: HolyJokero collected ($0.05)
+
+
+
+PokerStars Hand #224530313778:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 12:58:30 PT [2021/03/06 15:58:30 ET]
+Table 'Piccolo III' 9-max Seat #3 is the button
+Seat 1: Golsuorsi ($2 in chips) 
+Seat 2: BAZA-BONIK ($1.41 in chips) 
+Seat 3: Kondratiy ($1.49 in chips) 
+Seat 6: Dorex2007 ($1.48 in chips) 
+Seat 7: eviece_108 ($2.11 in chips) 
+Seat 9: HolyJokero ($4.04 in chips) 
+Dorex2007: posts small blind $0.01
+eviece_108: posts big blind $0.02
+bober2702: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Ad]
+Denman84 joins the table at seat #5 
+HolyJokero: raises $0.08 to $0.10
+Golsuorsi: folds 
+BAZA-BONIK: folds 
+Kondratiy: folds 
+Dorex2007: calls $0.09
+eviece_108: folds 
+*** FLOP *** [As 9h Ks]
+Dorex2007: checks 
+HolyJokero: bets $0.11
+Dorex2007: calls $0.11
+*** TURN *** [As 9h Ks] [Kc]
+Dorex2007: checks 
+HolyJokero: bets $0.21
+Dorex2007: calls $0.21
+*** RIVER *** [As 9h Ks Kc] [6d]
+Dorex2007: checks 
+HolyJokero: bets $0.42
+Dorex2007: calls $0.42
+*** SHOW DOWN ***
+HolyJokero: shows [Kd Qs] (three of a kind, Kings)
+Dorex2007: mucks hand 
+HolyJokero collected $1.64 from pot
+*** SUMMARY ***
+Total pot $1.70 | Rake $0.06 
+Board [As 9h Ks Kc 6d]
+Seat 1: Golsuorsi folded before Flop (didn't bet)
+Seat 2: BAZA-BONIK folded before Flop (didn't bet)
+Seat 3: Kondratiy (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) mucked [Qd Ad]
+Seat 7: eviece_108 (big blind) folded before Flop
+Seat 9: HolyJokero showed [Kd Qs] and won ($1.64) with three of a kind, Kings
+
+
+
+PokerStars Hand #224530337962:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 12:59:19 PT [2021/03/06 15:59:19 ET]
+Table 'Piccolo III' 9-max Seat #6 is the button
+Seat 1: Golsuorsi ($2 in chips) 
+Seat 2: BAZA-BONIK ($1.41 in chips) 
+Seat 3: Kondratiy ($1.49 in chips) 
+Seat 6: Dorex2007 ($0.64 in chips) 
+Seat 7: eviece_108 ($2.09 in chips) 
+Seat 8: bober2702 ($1.50 in chips) 
+Seat 9: HolyJokero ($4.84 in chips) 
+eviece_108: posts small blind $0.01
+bober2702: posts big blind $0.02
+Denman84: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 3d]
+HolyJokero: calls $0.02
+Golsuorsi: folds 
+BAZA-BONIK: folds 
+Kondratiy: folds 
+Dorex2007: folds 
+eviece_108: calls $0.01
+bober2702: checks 
+*** FLOP *** [8h 7h Qd]
+eviece_108: checks 
+bober2702: checks 
+HolyJokero: bets $0.04
+eviece_108: calls $0.04
+bober2702: folds 
+*** TURN *** [8h 7h Qd] [9c]
+eviece_108: checks 
+HolyJokero: bets $0.06
+eviece_108: calls $0.06
+*** RIVER *** [8h 7h Qd 9c] [Qs]
+eviece_108: checks 
+HolyJokero: checks 
+*** SHOW DOWN ***
+eviece_108: shows [Qc 6s] (three of a kind, Queens)
+HolyJokero: mucks hand 
+eviece_108 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [8h 7h Qd 9c Qs]
+Seat 1: Golsuorsi folded before Flop (didn't bet)
+Seat 2: BAZA-BONIK folded before Flop (didn't bet)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: eviece_108 (small blind) showed [Qc 6s] and won ($0.25) with three of a kind, Queens
+Seat 8: bober2702 (big blind) folded on the Flop
+Seat 9: HolyJokero mucked [Td 4h]
+
+
+
+PokerStars Hand #224530356019:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 12:59:56 PT [2021/03/06 15:59:56 ET]
+Table 'Piccolo III' 9-max Seat #7 is the button
+Seat 1: Golsuorsi ($2 in chips) 
+Seat 2: BAZA-BONIK ($1.41 in chips) 
+Seat 3: Kondratiy ($1.49 in chips) 
+Seat 6: Dorex2007 ($1.44 in chips) 
+Seat 7: eviece_108 ($2.22 in chips) 
+Seat 8: bober2702 ($1.50 in chips) 
+Seat 9: HolyJokero ($4.72 in chips) 
+bober2702: posts small blind $0.01
+HolyJokero: posts big blind $0.02
+Denman84: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 7d]
+Golsuorsi: folds 
+BAZA-BONIK: folds 
+Kondratiy: folds 
+Dorex2007: folds 
+eviece_108: calls $0.02
+bober2702: raises $0.05 to $0.07
+HolyJokero: raises $0.07 to $0.14
+eviece_108: calls $0.12
+bober2702: calls $0.07
+*** FLOP *** [4c Qh As]
+bober2702: checks 
+HolyJokero: checks 
+eviece_108: checks 
+*** TURN *** [4c Qh As] [5d]
+bober2702: checks 
+HolyJokero: checks 
+eviece_108: bets $0.14
+bober2702: calls $0.14
+HolyJokero: folds 
+*** RIVER *** [4c Qh As 5d] [2s]
+bober2702: checks 
+eviece_108: bets $0.51
+bober2702: calls $0.51
+*** SHOW DOWN ***
+eviece_108: shows [Qd Ac] (two pair, Aces and Queens)
+bober2702: mucks hand 
+eviece_108 collected $1.66 from pot
+*** SUMMARY ***
+Total pot $1.72 | Rake $0.06 
+Board [4c Qh As 5d 2s]
+Seat 1: Golsuorsi folded before Flop (didn't bet)
+Seat 2: BAZA-BONIK folded before Flop (didn't bet)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 (button) showed [Qd Ac] and won ($1.66) with two pair, Aces and Queens
+Seat 8: bober2702 (small blind) mucked [Qs Jc]
+Seat 9: HolyJokero (big blind) folded on the Turn
+
+
+
+PokerStars Hand #224530389439:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:00:55 PT [2021/03/06 16:00:55 ET]
+Table 'Piccolo III' 9-max Seat #8 is the button
+Seat 1: Golsuorsi ($2 in chips) 
+Seat 2: BAZA-BONIK ($1.41 in chips) 
+Seat 3: Kondratiy ($1.49 in chips) 
+Seat 6: Dorex2007 ($1.44 in chips) 
+Seat 7: eviece_108 ($3.09 in chips) 
+Seat 8: bober2702 ($0.71 in chips) 
+Seat 9: HolyJokero ($4.58 in chips) 
+HolyJokero: posts small blind $0.01
+Golsuorsi: posts big blind $0.02
+Denman84: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 4s]
+BAZA-BONIK: folds 
+Effelino joins the table at seat #4 
+Kondratiy: raises $0.04 to $0.06
+Dorex2007: folds 
+eviece_108: folds 
+bober2702: folds 
+HolyJokero: raises $0.06 to $0.12
+Golsuorsi: folds 
+Kondratiy: calls $0.06
+*** FLOP *** [2d 7h 5s]
+HolyJokero: bets $0.14
+Kondratiy: calls $0.14
+*** TURN *** [2d 7h 5s] [Ac]
+HolyJokero: checks 
+Kondratiy: checks 
+*** RIVER *** [2d 7h 5s Ac] [5d]
+HolyJokero: bets $0.04
+Kondratiy: raises $0.30 to $0.34
+HolyJokero: folds 
+Uncalled bet ($0.30) returned to Kondratiy
+Kondratiy collected $0.60 from pot
+Kondratiy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.02 
+Board [2d 7h 5s Ac 5d]
+Seat 1: Golsuorsi (big blind) folded before Flop
+Seat 2: BAZA-BONIK folded before Flop (didn't bet)
+Seat 3: Kondratiy collected ($0.60)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: bober2702 (button) folded before Flop (didn't bet)
+Seat 9: HolyJokero (small blind) folded on the River
+
+
+
+PokerStars Hand #224530423532:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:01:49 PT [2021/03/06 16:01:49 ET]
+Table 'Piccolo III' 9-max Seat #9 is the button
+Seat 1: Golsuorsi ($2 in chips) 
+Seat 2: BAZA-BONIK ($1.41 in chips) 
+Seat 3: Kondratiy ($1.79 in chips) 
+Seat 6: Dorex2007 ($1.44 in chips) 
+Seat 7: eviece_108 ($3.09 in chips) 
+Seat 8: bober2702 ($0.71 in chips) 
+Seat 9: HolyJokero ($4.28 in chips) 
+Golsuorsi: posts small blind $0.01
+BAZA-BONIK: posts big blind $0.02
+Effelino: sits out 
+Denman84: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Jh]
+Kondratiy: folds 
+Dorex2007: folds 
+eviece_108: folds 
+bober2702: folds 
+HolyJokero: folds 
+Golsuorsi: folds 
+Uncalled bet ($0.01) returned to BAZA-BONIK
+BAZA-BONIK collected $0.02 from pot
+BAZA-BONIK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Golsuorsi (small blind) folded before Flop
+Seat 2: BAZA-BONIK (big blind) collected ($0.02)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: bober2702 folded before Flop (didn't bet)
+Seat 9: HolyJokero (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224530432776:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:02:02 PT [2021/03/06 16:02:02 ET]
+Table 'Piccolo III' 9-max Seat #1 is the button
+Seat 1: Golsuorsi ($2 in chips) 
+Seat 2: BAZA-BONIK ($1.42 in chips) 
+Seat 3: Kondratiy ($1.79 in chips) 
+Seat 6: Dorex2007 ($1.44 in chips) 
+Seat 7: eviece_108 ($3.09 in chips) 
+Seat 8: bober2702 ($0.71 in chips) 
+Seat 9: HolyJokero ($4.28 in chips) 
+BAZA-BONIK: posts small blind $0.01
+Kondratiy: posts big blind $0.02
+Effelino: sits out 
+Denman84: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 6h]
+Dorex2007: folds 
+eviece_108: folds 
+bober2702: folds 
+HolyJokero: raises $0.04 to $0.06
+Golsuorsi: folds 
+BAZA-BONIK: folds 
+Kondratiy: folds 
+Uncalled bet ($0.04) returned to HolyJokero
+HolyJokero collected $0.05 from pot
+HolyJokero: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Golsuorsi (button) folded before Flop (didn't bet)
+Seat 2: BAZA-BONIK (small blind) folded before Flop
+Seat 3: Kondratiy (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: bober2702 folded before Flop (didn't bet)
+Seat 9: HolyJokero collected ($0.05)
+
+
+
+PokerStars Hand #224530441240:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:02:13 PT [2021/03/06 16:02:13 ET]
+Table 'Piccolo III' 9-max Seat #2 is the button
+Seat 1: Golsuorsi ($2 in chips) 
+Seat 2: BAZA-BONIK ($1.41 in chips) 
+Seat 3: Kondratiy ($1.77 in chips) 
+Seat 4: Effelino ($1.60 in chips) 
+Seat 6: Dorex2007 ($1.44 in chips) 
+Seat 7: eviece_108 ($3.09 in chips) 
+Seat 8: bober2702 ($0.71 in chips) 
+Seat 9: HolyJokero ($4.31 in chips) 
+Kondratiy: posts small blind $0.01
+Effelino: posts big blind $0.02
+Denman84: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 5s]
+Dorex2007: folds 
+eviece_108: folds 
+bober2702: raises $0.03 to $0.05
+HolyJokero: raises $0.05 to $0.10
+Golsuorsi: folds 
+BAZA-BONIK: folds 
+Kondratiy: folds 
+Effelino: calls $0.08
+bober2702: raises $0.61 to $0.71 and is all-in
+HolyJokero: folds 
+Effelino: folds 
+Uncalled bet ($0.61) returned to bober2702
+bober2702 collected $0.31 from pot
+bober2702: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0 
+Seat 1: Golsuorsi folded before Flop (didn't bet)
+Seat 2: BAZA-BONIK (button) folded before Flop (didn't bet)
+Seat 3: Kondratiy (small blind) folded before Flop
+Seat 4: Effelino (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: bober2702 collected ($0.31)
+Seat 9: HolyJokero folded before Flop
+
+
+
+PokerStars Hand #224530465085:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:02:47 PT [2021/03/06 16:02:47 ET]
+Table 'Piccolo III' 9-max Seat #3 is the button
+Seat 1: Golsuorsi ($2 in chips) 
+Seat 2: BAZA-BONIK ($1.41 in chips) 
+Seat 3: Kondratiy ($1.76 in chips) 
+Seat 4: Effelino ($1.50 in chips) 
+Seat 5: Denman84 ($2 in chips) 
+Seat 6: Dorex2007 ($1.44 in chips) 
+Seat 7: eviece_108 ($3.09 in chips) 
+Seat 8: bober2702 ($0.93 in chips) 
+Seat 9: HolyJokero ($4.21 in chips) 
+Effelino: posts small blind $0.01
+Denman84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Qs]
+eviece_108 is disconnected 
+Dorex2007: folds 
+eviece_108: raises $0.02 to $0.04
+bober2702: folds 
+HolyJokero: folds 
+Golsuorsi: folds 
+BAZA-BONIK: folds 
+Kondratiy: calls $0.04
+Effelino: calls $0.03
+Denman84: folds 
+*** FLOP *** [6h 2h 2d]
+Effelino: checks 
+eviece_108: checks 
+Kondratiy: checks 
+*** TURN *** [6h 2h 2d] [2s]
+Effelino: checks 
+eviece_108: checks 
+Kondratiy: checks 
+*** RIVER *** [6h 2h 2d 2s] [9h]
+Effelino: checks 
+eviece_108: checks 
+Kondratiy: bets $0.14
+Effelino: folds 
+eviece_108: folds 
+Uncalled bet ($0.14) returned to Kondratiy
+Kondratiy collected $0.14 from pot
+Kondratiy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [6h 2h 2d 2s 9h]
+Seat 1: Golsuorsi folded before Flop (didn't bet)
+Seat 2: BAZA-BONIK folded before Flop (didn't bet)
+Seat 3: Kondratiy (button) collected ($0.14)
+Seat 4: Effelino (small blind) folded on the River
+Seat 5: Denman84 (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded on the River
+Seat 8: bober2702 folded before Flop (didn't bet)
+Seat 9: HolyJokero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224530503537:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:03:40 PT [2021/03/06 16:03:40 ET]
+Table 'Piccolo III' 9-max Seat #4 is the button
+Seat 1: Golsuorsi ($2 in chips) 
+Seat 2: BAZA-BONIK ($1.41 in chips) 
+Seat 3: Kondratiy ($1.86 in chips) 
+Seat 4: Effelino ($1.46 in chips) 
+Seat 5: Denman84 ($1.98 in chips) 
+Seat 6: Dorex2007 ($1.44 in chips) 
+Seat 7: eviece_108 ($3.05 in chips) 
+Seat 8: bober2702 ($0.93 in chips) 
+Seat 9: HolyJokero ($4.21 in chips) 
+Denman84: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 5c]
+eviece_108: folds 
+bober2702: folds 
+HolyJokero: folds 
+Golsuorsi: folds 
+BAZA-BONIK: raises $0.04 to $0.06
+Kondratiy: folds 
+Effelino: folds 
+Denman84: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to BAZA-BONIK
+BAZA-BONIK collected $0.05 from pot
+BAZA-BONIK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Golsuorsi folded before Flop (didn't bet)
+Seat 2: BAZA-BONIK collected ($0.05)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: Effelino (button) folded before Flop (didn't bet)
+Seat 5: Denman84 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: bober2702 folded before Flop (didn't bet)
+Seat 9: HolyJokero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224530516770:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:03:58 PT [2021/03/06 16:03:58 ET]
+Table 'Piccolo III' 9-max Seat #5 is the button
+Seat 1: Golsuorsi ($2 in chips) 
+Seat 2: BAZA-BONIK ($1.44 in chips) 
+Seat 3: Kondratiy ($1.86 in chips) 
+Seat 4: Effelino ($1.46 in chips) 
+Seat 5: Denman84 ($1.97 in chips) 
+Seat 6: Dorex2007 ($1.42 in chips) 
+Seat 7: eviece_108 ($3.05 in chips) 
+Seat 8: bober2702 ($0.93 in chips) 
+Seat 9: HolyJokero ($4.21 in chips) 
+Dorex2007: posts small blind $0.01
+eviece_108: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 9c]
+bober2702: folds 
+HolyJokero: raises $0.08 to $0.10
+Golsuorsi: folds 
+BAZA-BONIK: folds 
+Kondratiy: calls $0.10
+Effelino: folds 
+Denman84: folds 
+Dorex2007: folds 
+eviece_108: folds 
+*** FLOP *** [Qs Td 9d]
+HolyJokero: bets $0.22
+Kondratiy: calls $0.22
+*** TURN *** [Qs Td 9d] [Kh]
+HolyJokero: bets $0.20
+Kondratiy: calls $0.20
+*** RIVER *** [Qs Td 9d Kh] [4c]
+HolyJokero: bets $0.20
+Kondratiy: raises $1.14 to $1.34 and is all-in
+HolyJokero: folds 
+Uncalled bet ($1.14) returned to Kondratiy
+Kondratiy collected $1.42 from pot
+Kondratiy: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.47 | Rake $0.05 
+Board [Qs Td 9d Kh 4c]
+Seat 1: Golsuorsi folded before Flop (didn't bet)
+Seat 2: BAZA-BONIK folded before Flop (didn't bet)
+Seat 3: Kondratiy collected ($1.42)
+Seat 4: Effelino folded before Flop (didn't bet)
+Seat 5: Denman84 (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: eviece_108 (big blind) folded before Flop
+Seat 8: bober2702 folded before Flop (didn't bet)
+Seat 9: HolyJokero folded on the River
+
+
+
+PokerStars Hand #224530552384:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:04:46 PT [2021/03/06 16:04:46 ET]
+Table 'Piccolo III' 9-max Seat #6 is the button
+Seat 1: Golsuorsi ($2 in chips) 
+Seat 2: BAZA-BONIK ($1.44 in chips) 
+Seat 3: Kondratiy ($2.56 in chips) 
+Seat 4: Effelino ($1.46 in chips) 
+Seat 5: Denman84 ($1.97 in chips) 
+Seat 6: Dorex2007 ($1.41 in chips) 
+Seat 7: eviece_108 ($3.03 in chips) 
+Seat 8: bober2702 ($0.93 in chips) 
+Seat 9: HolyJokero ($3.49 in chips) 
+eviece_108: posts small blind $0.01
+bober2702: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Qh]
+HolyJokero: raises $0.08 to $0.10
+Golsuorsi: folds 
+BAZA-BONIK: folds 
+Kondratiy: calls $0.10
+Effelino: calls $0.10
+Denman84: folds 
+Dorex2007: folds 
+eviece_108: folds 
+bober2702: folds 
+*** FLOP *** [Jh 9c Ks]
+HolyJokero: bets $0.32
+Kondratiy: folds 
+Effelino: folds 
+Uncalled bet ($0.32) returned to HolyJokero
+HolyJokero collected $0.32 from pot
+HolyJokero: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Jh 9c Ks]
+Seat 1: Golsuorsi folded before Flop (didn't bet)
+Seat 2: BAZA-BONIK folded before Flop (didn't bet)
+Seat 3: Kondratiy folded on the Flop
+Seat 4: Effelino folded on the Flop
+Seat 5: Denman84 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: eviece_108 (small blind) folded before Flop
+Seat 8: bober2702 (big blind) folded before Flop
+Seat 9: HolyJokero collected ($0.32)
+
+
+
+PokerStars Hand #224530585259:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:05:21 PT [2021/03/06 16:05:21 ET]
+Table 'Piccolo III' 9-max Seat #7 is the button
+Seat 1: Golsuorsi ($2 in chips) 
+Seat 2: BAZA-BONIK ($1.44 in chips) 
+Seat 3: Kondratiy ($2.46 in chips) 
+Seat 4: Effelino ($1.36 in chips) 
+Seat 5: Denman84 ($1.97 in chips) 
+Seat 6: Dorex2007 ($1.41 in chips) 
+Seat 7: eviece_108 ($3.02 in chips) 
+Seat 8: bober2702 ($0.91 in chips) 
+Seat 9: HolyJokero ($3.71 in chips) 
+bober2702: posts small blind $0.01
+HolyJokero: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 3c]
+Golsuorsi: folds 
+BAZA-BONIK: folds 
+Kondratiy: folds 
+Effelino: calls $0.02
+Denman84: folds 
+Dorex2007: folds 
+eviece_108: folds 
+bober2702: folds 
+HolyJokero: raises $0.08 to $0.10
+Effelino: calls $0.08
+*** FLOP *** [2s Ts 2d]
+HolyJokero: checks 
+Effelino: checks 
+*** TURN *** [2s Ts 2d] [9s]
+HolyJokero: checks 
+Effelino: bets $0.02
+HolyJokero: calls $0.02
+*** RIVER *** [2s Ts 2d 9s] [7h]
+HolyJokero: bets $0.02
+Effelino: raises $0.02 to $0.04
+HolyJokero: calls $0.02
+*** SHOW DOWN ***
+Effelino: shows [4s 2h] (three of a kind, Deuces)
+HolyJokero: mucks hand 
+Effelino collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [2s Ts 2d 9s 7h]
+Seat 1: Golsuorsi folded before Flop (didn't bet)
+Seat 2: BAZA-BONIK folded before Flop (didn't bet)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: Effelino showed [4s 2h] and won ($0.32) with three of a kind, Deuces
+Seat 5: Denman84 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 (button) folded before Flop (didn't bet)
+Seat 8: bober2702 (small blind) folded before Flop
+Seat 9: HolyJokero (big blind) mucked [8d Kc]
+
+
+
+PokerStars Hand #224530617040:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:06:04 PT [2021/03/06 16:06:04 ET]
+Table 'Piccolo III' 9-max Seat #8 is the button
+Seat 1: Golsuorsi ($2 in chips) 
+Seat 2: BAZA-BONIK ($1.44 in chips) 
+Seat 3: Kondratiy ($2.46 in chips) 
+Seat 4: Effelino ($1.52 in chips) 
+Seat 5: Denman84 ($1.97 in chips) 
+Seat 6: Dorex2007 ($1.41 in chips) 
+Seat 7: eviece_108 ($3.02 in chips) 
+Seat 8: bober2702 ($0.90 in chips) 
+Seat 9: HolyJokero ($3.55 in chips) 
+HolyJokero: posts small blind $0.01
+Golsuorsi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Ad]
+BAZA-BONIK: folds 
+Kondratiy: raises $0.04 to $0.06
+Effelino: calls $0.06
+Denman84: folds 
+Dorex2007: calls $0.06
+eviece_108: raises $0.12 to $0.18
+bober2702: folds 
+HolyJokero: calls $0.17
+Golsuorsi: folds 
+Kondratiy: calls $0.12
+Effelino: folds 
+Dorex2007: folds 
+*** FLOP *** [3c Jh 2c]
+HolyJokero: checks 
+Kondratiy: checks 
+eviece_108: bets $1.60
+HolyJokero: folds 
+Kondratiy: folds 
+Uncalled bet ($1.60) returned to eviece_108
+eviece_108 collected $0.66 from pot
+eviece_108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.68 | Rake $0.02 
+Board [3c Jh 2c]
+Seat 1: Golsuorsi (big blind) folded before Flop
+Seat 2: BAZA-BONIK folded before Flop (didn't bet)
+Seat 3: Kondratiy folded on the Flop
+Seat 4: Effelino folded before Flop
+Seat 5: Denman84 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop
+Seat 7: eviece_108 collected ($0.66)
+Seat 8: bober2702 (button) folded before Flop (didn't bet)
+Seat 9: HolyJokero (small blind) folded on the Flop
+
+
+
+PokerStars Hand #224530665853:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:07:10 PT [2021/03/06 16:07:10 ET]
+Table 'Piccolo III' 9-max Seat #9 is the button
+Seat 1: Golsuorsi ($2 in chips) 
+Seat 2: BAZA-BONIK ($1.44 in chips) 
+Seat 3: Kondratiy ($2.28 in chips) 
+Seat 4: Effelino ($1.46 in chips) 
+Seat 5: Denman84 ($1.97 in chips) 
+Seat 6: Dorex2007 ($1.35 in chips) 
+Seat 7: eviece_108 ($3.50 in chips) 
+Seat 8: bober2702 ($0.90 in chips) 
+Seat 9: HolyJokero ($3.37 in chips) 
+Golsuorsi: posts small blind $0.01
+BAZA-BONIK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 5d]
+Kondratiy: folds 
+Effelino: calls $0.02
+Denman84: raises $0.04 to $0.06
+Dorex2007: folds 
+eviece_108: calls $0.06
+bober2702: folds 
+HolyJokero: raises $0.24 to $0.30
+Golsuorsi: folds 
+BAZA-BONIK: folds 
+Effelino: folds 
+Denman84: folds 
+eviece_108: folds 
+Uncalled bet ($0.24) returned to HolyJokero
+HolyJokero collected $0.23 from pot
+HolyJokero: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0 
+Seat 1: Golsuorsi (small blind) folded before Flop
+Seat 2: BAZA-BONIK (big blind) folded before Flop
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: Effelino folded before Flop
+Seat 5: Denman84 folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop
+Seat 8: bober2702 folded before Flop (didn't bet)
+Seat 9: HolyJokero (button) collected ($0.23)
+
+
+
+PokerStars Hand #224530692412:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:07:46 PT [2021/03/06 16:07:46 ET]
+Table 'Piccolo III' 9-max Seat #1 is the button
+Seat 1: Golsuorsi ($2 in chips) 
+Seat 2: BAZA-BONIK ($1.42 in chips) 
+Seat 3: Kondratiy ($2.28 in chips) 
+Seat 4: Effelino ($1.44 in chips) 
+Seat 5: Denman84 ($1.91 in chips) 
+Seat 6: Dorex2007 ($1.35 in chips) 
+Seat 7: eviece_108 ($3.44 in chips) 
+Seat 8: bober2702 ($0.90 in chips) 
+Seat 9: HolyJokero ($3.54 in chips) 
+BAZA-BONIK: posts small blind $0.01
+Kondratiy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Ah]
+Effelino: folds 
+Denman84: folds 
+Dorex2007: raises $0.04 to $0.06
+eviece_108: folds 
+bober2702: folds 
+HolyJokero: folds 
+Golsuorsi: folds 
+BAZA-BONIK: folds 
+Kondratiy: calls $0.04
+*** FLOP *** [9d Ad Jc]
+Kondratiy: bets $0.06
+Dorex2007: raises $0.06 to $0.12
+Kondratiy: calls $0.06
+*** TURN *** [9d Ad Jc] [3h]
+Kondratiy: bets $0.10
+Dorex2007: raises $0.42 to $0.52
+Kondratiy: raises $0.42 to $0.94
+Dorex2007: raises $0.23 to $1.17 and is all-in
+Kondratiy: calls $0.23
+*** RIVER *** [9d Ad Jc 3h] [2s]
+*** SHOW DOWN ***
+Kondratiy: shows [Ac Qd] (a pair of Aces)
+Dorex2007: shows [9h Ah] (two pair, Aces and Nines)
+Dorex2007 collected $2.62 from pot
+Kondratiy cashed out the hand for $0.36
+*** SUMMARY ***
+Total pot $2.71 | Rake $0.09 
+Board [9d Ad Jc 3h 2s]
+Seat 1: Golsuorsi (button) folded before Flop (didn't bet)
+Seat 2: BAZA-BONIK (small blind) folded before Flop
+Seat 3: Kondratiy (big blind) showed [Ac Qd] and lost with a pair of Aces (cashed out).
+Seat 4: Effelino folded before Flop (didn't bet)
+Seat 5: Denman84 folded before Flop (didn't bet)
+Seat 6: Dorex2007 showed [9h Ah] and won ($2.62) with two pair, Aces and Nines
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: bober2702 folded before Flop (didn't bet)
+Seat 9: HolyJokero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224530743602:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:08:55 PT [2021/03/06 16:08:55 ET]
+Table 'Piccolo III' 9-max Seat #2 is the button
+Seat 1: Golsuorsi ($2 in chips) 
+Seat 2: BAZA-BONIK ($1.41 in chips) 
+Seat 3: Kondratiy ($1.29 in chips) 
+Seat 4: Effelino ($1.44 in chips) 
+Seat 5: Denman84 ($1.91 in chips) 
+Seat 6: Dorex2007 ($2.62 in chips) 
+Seat 7: eviece_108 ($3.44 in chips) 
+Seat 8: bober2702 ($0.90 in chips) 
+Seat 9: HolyJokero ($3.54 in chips) 
+Kondratiy: posts small blind $0.01
+Effelino: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 9s]
+Denman84: folds 
+Dorex2007: folds 
+eviece_108: folds 
+bober2702: folds 
+HolyJokero: folds 
+Golsuorsi: raises $0.03 to $0.05
+BAZA-BONIK: folds 
+Kondratiy: folds 
+Effelino: calls $0.03
+*** FLOP *** [3d Tc 5d]
+Effelino: checks 
+Golsuorsi: checks 
+*** TURN *** [3d Tc 5d] [7h]
+Effelino: checks 
+Golsuorsi: checks 
+*** RIVER *** [3d Tc 5d 7h] [2d]
+Effelino: bets $0.12
+Golsuorsi: folds 
+Uncalled bet ($0.12) returned to Effelino
+Effelino collected $0.11 from pot
+Effelino: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [3d Tc 5d 7h 2d]
+Seat 1: Golsuorsi folded on the River
+Seat 2: BAZA-BONIK (button) folded before Flop (didn't bet)
+Seat 3: Kondratiy (small blind) folded before Flop
+Seat 4: Effelino (big blind) collected ($0.11)
+Seat 5: Denman84 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: bober2702 folded before Flop (didn't bet)
+Seat 9: HolyJokero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224530780134:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:09:44 PT [2021/03/06 16:09:44 ET]
+Table 'Piccolo III' 9-max Seat #3 is the button
+Seat 1: Golsuorsi ($2 in chips) 
+Seat 2: BAZA-BONIK ($1.41 in chips) 
+Seat 3: Kondratiy ($1.28 in chips) 
+Seat 4: Effelino ($1.50 in chips) 
+Seat 5: Denman84 ($1.91 in chips) 
+Seat 6: Dorex2007 ($2.62 in chips) 
+Seat 7: eviece_108 ($3.44 in chips) 
+Seat 8: bober2702 ($0.90 in chips) 
+Seat 9: HolyJokero ($3.54 in chips) 
+Effelino: posts small blind $0.01
+Denman84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s Jc]
+Dorex2007: folds 
+eviece_108: folds 
+bober2702: folds 
+HolyJokero: raises $0.08 to $0.10
+Golsuorsi: folds 
+BAZA-BONIK: folds 
+Kondratiy: calls $0.10
+Effelino: calls $0.09
+Denman84: folds 
+*** FLOP *** [8d 8c Qh]
+Effelino: checks 
+HolyJokero: checks 
+Kondratiy: checks 
+*** TURN *** [8d 8c Qh] [7d]
+Effelino: checks 
+HolyJokero: bets $0.10
+Kondratiy: calls $0.10
+Effelino: folds 
+*** RIVER *** [8d 8c Qh 7d] [Kc]
+HolyJokero: checks 
+Kondratiy: bets $0.50
+HolyJokero: folds 
+Uncalled bet ($0.50) returned to Kondratiy
+Kondratiy collected $0.50 from pot
+Kondratiy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [8d 8c Qh 7d Kc]
+Seat 1: Golsuorsi folded before Flop (didn't bet)
+Seat 2: BAZA-BONIK folded before Flop (didn't bet)
+Seat 3: Kondratiy (button) collected ($0.50)
+Seat 4: Effelino (small blind) folded on the Turn
+Seat 5: Denman84 (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: bober2702 folded before Flop (didn't bet)
+Seat 9: HolyJokero folded on the River
+
+
+
+PokerStars Hand #224530822165:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:10:42 PT [2021/03/06 16:10:42 ET]
+Table 'Piccolo III' 9-max Seat #4 is the button
+Seat 1: Golsuorsi ($2 in chips) 
+Seat 2: BAZA-BONIK ($1.41 in chips) 
+Seat 3: Kondratiy ($1.58 in chips) 
+Seat 4: Effelino ($1.40 in chips) 
+Seat 5: Denman84 ($1.89 in chips) 
+Seat 6: Dorex2007 ($2.62 in chips) 
+Seat 7: eviece_108 ($3.44 in chips) 
+Seat 8: bober2702 ($0.90 in chips) 
+Seat 9: HolyJokero ($3.34 in chips) 
+Denman84: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 5h]
+eviece_108: folds 
+bober2702: raises $0.03 to $0.05
+HolyJokero: raises $0.15 to $0.20
+Golsuorsi: folds 
+BAZA-BONIK: folds 
+Kondratiy: folds 
+Effelino: calls $0.20
+Denman84: raises $0.30 to $0.50
+Dorex2007: folds 
+bober2702: folds 
+HolyJokero: calls $0.30
+Effelino: calls $0.30
+*** FLOP *** [9h Kd 5d]
+Denman84: bets $1.39 and is all-in
+HolyJokero: calls $1.39
+Effelino: calls $0.90 and is all-in
+*** TURN *** [9h Kd 5d] [5s]
+*** RIVER *** [9h Kd 5d 5s] [Ts]
+*** SHOW DOWN ***
+Denman84: shows [Ad Ah] (two pair, Aces and Fives)
+HolyJokero: shows [Th Jh] (two pair, Tens and Fives)
+Denman84 collected $0.95 from side pot
+Effelino: shows [9c 8h] (two pair, Nines and Fives)
+Denman84 collected $4.12 from main pot
+*** SUMMARY ***
+Total pot $5.25 Main pot $4.12. Side pot $0.95. | Rake $0.18 
+Board [9h Kd 5d 5s Ts]
+Seat 1: Golsuorsi folded before Flop (didn't bet)
+Seat 2: BAZA-BONIK folded before Flop (didn't bet)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: Effelino (button) showed [9c 8h] and lost with two pair, Nines and Fives
+Seat 5: Denman84 (small blind) showed [Ad Ah] and won ($5.07) with two pair, Aces and Fives
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: bober2702 folded before Flop
+Seat 9: HolyJokero showed [Th Jh] and lost with two pair, Tens and Fives
+
+
+
+PokerStars Hand #224530862531:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:11:36 PT [2021/03/06 16:11:36 ET]
+Table 'Piccolo III' 9-max Seat #5 is the button
+Seat 1: Golsuorsi ($2 in chips) 
+Seat 2: BAZA-BONIK ($1.41 in chips) 
+Seat 3: Kondratiy ($1.58 in chips) 
+Seat 5: Denman84 ($5.07 in chips) 
+Seat 6: Dorex2007 ($2.60 in chips) 
+Seat 7: eviece_108 ($3.44 in chips) 
+Seat 8: bober2702 ($0.85 in chips) 
+Seat 9: HolyJokero ($1.45 in chips) 
+Dorex2007: posts small blind $0.01
+eviece_108: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 9h]
+bober2702: folds 
+HolyJokero: raises $0.18 to $0.20
+Golsuorsi: folds 
+BAZA-BONIK: folds 
+Kondratiy: folds 
+Denman84: folds 
+Dorex2007: folds 
+eviece_108: folds 
+Uncalled bet ($0.18) returned to HolyJokero
+HolyJokero collected $0.05 from pot
+HolyJokero: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Golsuorsi folded before Flop (didn't bet)
+Seat 2: BAZA-BONIK folded before Flop (didn't bet)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 5: Denman84 (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: eviece_108 (big blind) folded before Flop
+Seat 8: bober2702 folded before Flop (didn't bet)
+Seat 9: HolyJokero collected ($0.05)
+
+
+
+PokerStars Hand #224530871046:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:11:48 PT [2021/03/06 16:11:48 ET]
+Table 'Piccolo III' 9-max Seat #6 is the button
+Seat 1: Golsuorsi ($2 in chips) 
+Seat 2: BAZA-BONIK ($1.41 in chips) 
+Seat 3: Kondratiy ($1.58 in chips) 
+Seat 4: Effelino ($2 in chips) 
+Seat 5: Denman84 ($5.07 in chips) 
+Seat 6: Dorex2007 ($2.59 in chips) 
+Seat 7: eviece_108 ($3.42 in chips) 
+Seat 8: bober2702 ($0.85 in chips) 
+Seat 9: HolyJokero ($1.48 in chips) 
+eviece_108: posts small blind $0.01
+bober2702: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 4h]
+HolyJokero: folds 
+Golsuorsi: folds 
+BAZA-BONIK: folds 
+Kondratiy: folds 
+Effelino: folds 
+Denman84: folds 
+Dorex2007: folds 
+eviece_108: raises $0.04 to $0.06
+bober2702: folds 
+Uncalled bet ($0.04) returned to eviece_108
+eviece_108 collected $0.04 from pot
+eviece_108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Golsuorsi folded before Flop (didn't bet)
+Seat 2: BAZA-BONIK folded before Flop (didn't bet)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: Effelino folded before Flop (didn't bet)
+Seat 5: Denman84 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: eviece_108 (small blind) collected ($0.04)
+Seat 8: bober2702 (big blind) folded before Flop
+Seat 9: HolyJokero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224530886302:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:12:09 PT [2021/03/06 16:12:09 ET]
+Table 'Piccolo III' 9-max Seat #7 is the button
+Seat 1: Golsuorsi ($2 in chips) 
+Seat 2: BAZA-BONIK ($1.41 in chips) 
+Seat 3: Kondratiy ($1.58 in chips) 
+Seat 4: Effelino ($2 in chips) 
+Seat 5: Denman84 ($5.07 in chips) 
+Seat 6: Dorex2007 ($2.59 in chips) 
+Seat 7: eviece_108 ($3.44 in chips) 
+Seat 8: bober2702 ($0.83 in chips) 
+Seat 9: HolyJokero ($1.48 in chips) 
+bober2702: posts small blind $0.01
+HolyJokero: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Jd]
+Golsuorsi: raises $0.04 to $0.06
+BAZA-BONIK: calls $0.06
+Kondratiy: folds 
+Effelino: calls $0.06
+Denman84: folds 
+Dorex2007: folds 
+eviece_108: folds 
+bober2702: folds 
+HolyJokero: raises $0.14 to $0.20
+Golsuorsi: calls $0.14
+BAZA-BONIK: folds 
+Effelino: calls $0.14
+*** FLOP *** [9d As 3s]
+HolyJokero: bets $0.65
+Golsuorsi: folds 
+Effelino: folds 
+Uncalled bet ($0.65) returned to HolyJokero
+HolyJokero collected $0.65 from pot
+HolyJokero: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.02 
+Board [9d As 3s]
+Seat 1: Golsuorsi folded on the Flop
+Seat 2: BAZA-BONIK folded before Flop
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: Effelino folded on the Flop
+Seat 5: Denman84 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 (button) folded before Flop (didn't bet)
+Seat 8: bober2702 (small blind) folded before Flop
+Seat 9: HolyJokero (big blind) collected ($0.65)
+
+
+
+PokerStars Hand #224530910789:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:12:42 PT [2021/03/06 16:12:42 ET]
+Table 'Piccolo III' 9-max Seat #8 is the button
+Seat 3: Kondratiy ($1.58 in chips) 
+Seat 4: Effelino ($1.80 in chips) 
+Seat 5: Denman84 ($5.07 in chips) 
+Seat 6: Dorex2007 ($2.59 in chips) 
+Seat 7: eviece_108 ($3.44 in chips) 
+Seat 8: bober2702 ($0.82 in chips) 
+Seat 9: HolyJokero ($1.93 in chips) 
+HolyJokero: posts small blind $0.01
+Golsuorsi: is sitting out 
+BAZA-BONIK: is sitting out 
+Kondratiy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 9c]
+Effelino: calls $0.02
+Denman84: folds 
+Dorex2007: folds 
+eviece_108: folds 
+bober2702: folds 
+HolyJokero: raises $0.08 to $0.10
+Kondratiy: folds 
+Effelino: calls $0.08
+*** FLOP *** [7c 9h Qd]
+HolyJokero: checks 
+Effelino: checks 
+*** TURN *** [7c 9h Qd] [3h]
+HolyJokero: checks 
+Effelino: checks 
+*** RIVER *** [7c 9h Qd 3h] [5h]
+HolyJokero: checks 
+BAZA-BONIK leaves the table
+Effelino: checks 
+*** SHOW DOWN ***
+HolyJokero: shows [As 8d] (high card Ace)
+Effelino: shows [Kh 7d] (a pair of Sevens)
+Effelino collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [7c 9h Qd 3h 5h]
+Seat 3: Kondratiy (big blind) folded before Flop
+Seat 4: Effelino showed [Kh 7d] and won ($0.21) with a pair of Sevens
+Seat 5: Denman84 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: bober2702 (button) folded before Flop (didn't bet)
+Seat 9: HolyJokero (small blind) showed [As 8d] and lost with high card Ace
+
+
+
+PokerStars Hand #224530930996:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:13:10 PT [2021/03/06 16:13:10 ET]
+Table 'Piccolo III' 9-max Seat #9 is the button
+Seat 3: Kondratiy ($1.56 in chips) 
+Seat 4: Effelino ($1.91 in chips) 
+Seat 5: Denman84 ($5.07 in chips) 
+Seat 6: Dorex2007 ($2.59 in chips) 
+Seat 7: eviece_108 ($3.44 in chips) 
+Seat 8: bober2702 ($0.82 in chips) 
+Seat 9: HolyJokero ($1.83 in chips) 
+Kondratiy: posts small blind $0.01
+Effelino: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Ac]
+Denman84: folds 
+Dorex2007: calls $0.02
+eviece_108: folds 
+bober2702: folds 
+HolyJokero: raises $0.10 to $0.12
+Kondratiy: folds 
+Effelino: folds 
+Dorex2007: calls $0.10
+*** FLOP *** [Qh 3s 5s]
+Dorex2007: checks 
+HolyJokero: checks 
+*** TURN *** [Qh 3s 5s] [Th]
+Dorex2007: bets $0.20
+HolyJokero: folds 
+Uncalled bet ($0.20) returned to Dorex2007
+Dorex2007 collected $0.26 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Qh 3s 5s Th]
+Seat 3: Kondratiy (small blind) folded before Flop
+Seat 4: Effelino (big blind) folded before Flop
+Seat 5: Denman84 folded before Flop (didn't bet)
+Seat 6: Dorex2007 collected ($0.26)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: bober2702 folded before Flop (didn't bet)
+Seat 9: HolyJokero (button) folded on the Turn
+
+
+
+PokerStars Hand #224530967889:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:13:54 PT [2021/03/06 16:13:54 ET]
+Table 'Piccolo III' 9-max Seat #3 is the button
+Seat 3: Kondratiy ($1.55 in chips) 
+Seat 4: Effelino ($1.89 in chips) 
+Seat 5: Denman84 ($5.07 in chips) 
+Seat 6: Dorex2007 ($2.73 in chips) 
+Seat 7: eviece_108 ($3.44 in chips) 
+Seat 8: bober2702 ($0.82 in chips) 
+Seat 9: HolyJokero ($1.71 in chips) 
+Effelino: posts small blind $0.01
+Denman84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 8d]
+fritz233 joins the table at seat #2 
+Dorex2007: folds 
+eviece_108: raises $0.06 to $0.08
+bober2702: folds 
+HolyJokero: folds 
+Kondratiy: folds 
+Effelino: calls $0.07
+Denman84: folds 
+*** FLOP *** [9d Qs Td]
+Effelino: checks 
+eviece_108: bets $0.08
+Effelino: folds 
+Uncalled bet ($0.08) returned to eviece_108
+eviece_108 collected $0.17 from pot
+eviece_108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [9d Qs Td]
+Seat 3: Kondratiy (button) folded before Flop (didn't bet)
+Seat 4: Effelino (small blind) folded on the Flop
+Seat 5: Denman84 (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 collected ($0.17)
+Seat 8: bober2702 folded before Flop (didn't bet)
+Seat 9: HolyJokero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224530993455:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:14:29 PT [2021/03/06 16:14:29 ET]
+Table 'Piccolo III' 9-max Seat #4 is the button
+Seat 3: Kondratiy ($1.55 in chips) 
+Seat 4: Effelino ($1.81 in chips) 
+Seat 5: Denman84 ($5.05 in chips) 
+Seat 6: Dorex2007 ($2.73 in chips) 
+Seat 7: eviece_108 ($3.53 in chips) 
+Seat 8: bober2702 ($0.82 in chips) 
+Seat 9: HolyJokero ($1.71 in chips) 
+Denman84: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+fritz233: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Qh]
+eviece_108: folds 
+bober2702: folds 
+HolyJokero: folds 
+Kondratiy: folds 
+Effelino: calls $0.02
+Denman84: folds 
+Dorex2007: raises $0.06 to $0.08
+Effelino: calls $0.06
+*** FLOP *** [5h Kc 9h]
+Dorex2007: bets $0.16
+Effelino: folds 
+Uncalled bet ($0.16) returned to Dorex2007
+Dorex2007 collected $0.16 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [5h Kc 9h]
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: Effelino (button) folded on the Flop
+Seat 5: Denman84 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) collected ($0.16)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: bober2702 folded before Flop (didn't bet)
+Seat 9: HolyJokero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224531012004:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:14:54 PT [2021/03/06 16:14:54 ET]
+Table 'Piccolo III' 9-max Seat #5 is the button
+Seat 3: Kondratiy ($1.55 in chips) 
+Seat 4: Effelino ($1.73 in chips) 
+Seat 5: Denman84 ($5.04 in chips) 
+Seat 6: Dorex2007 ($2.81 in chips) 
+Seat 7: eviece_108 ($3.53 in chips) 
+Seat 8: bober2702 ($0.82 in chips) 
+Seat 9: HolyJokero ($1.71 in chips) 
+Dorex2007: posts small blind $0.01
+eviece_108: posts big blind $0.02
+fritz233: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Jh]
+bober2702: folds 
+HolyJokero: folds 
+Kondratiy: folds 
+Effelino: calls $0.02
+Denman84: raises $0.06 to $0.08
+Dorex2007: folds 
+eviece_108: folds 
+Effelino: calls $0.06
+*** FLOP *** [Qd 6s 4c]
+Effelino: checks 
+Denman84: bets $0.10
+Effelino: calls $0.10
+*** TURN *** [Qd 6s 4c] [7c]
+Effelino: checks 
+Denman84: checks 
+*** RIVER *** [Qd 6s 4c 7c] [9c]
+Effelino: checks 
+Denman84: checks 
+*** SHOW DOWN ***
+Effelino: shows [As 4d] (a pair of Fours)
+Denman84: mucks hand 
+Effelino collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [Qd 6s 4c 7c 9c]
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: Effelino showed [As 4d] and won ($0.38) with a pair of Fours
+Seat 5: Denman84 (button) mucked [Ts Ac]
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: eviece_108 (big blind) folded before Flop
+Seat 8: bober2702 folded before Flop (didn't bet)
+Seat 9: HolyJokero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224531054290:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:15:50 PT [2021/03/06 16:15:50 ET]
+Table 'Piccolo III' 9-max Seat #6 is the button
+Seat 3: Kondratiy ($1.55 in chips) 
+Seat 4: Effelino ($1.93 in chips) 
+Seat 5: Denman84 ($4.86 in chips) 
+Seat 6: Dorex2007 ($2.80 in chips) 
+Seat 7: eviece_108 ($3.51 in chips) 
+Seat 8: bober2702 ($0.82 in chips) 
+Seat 9: HolyJokero ($1.71 in chips) 
+eviece_108: posts small blind $0.01
+bober2702: posts big blind $0.02
+fritz233: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 7s]
+HolyJokero: raises $0.10 to $0.12
+Kondratiy: folds 
+Golsuorsi leaves the table
+Effelino: calls $0.12
+Denman84: folds 
+Dorex2007: folds 
+eviece_108: folds 
+P.V.S.1905 joins the table at seat #1 
+bober2702: folds 
+*** FLOP *** [Ts 6c 7h]
+HolyJokero: bets $0.14
+Effelino: folds 
+Uncalled bet ($0.14) returned to HolyJokero
+HolyJokero collected $0.26 from pot
+HolyJokero: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Ts 6c 7h]
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: Effelino folded on the Flop
+Seat 5: Denman84 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: eviece_108 (small blind) folded before Flop
+Seat 8: bober2702 (big blind) folded before Flop
+Seat 9: HolyJokero collected ($0.26)
+
+
+
+PokerStars Hand #224531083005:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:16:28 PT [2021/03/06 16:16:28 ET]
+Table 'Piccolo III' 9-max Seat #7 is the button
+Seat 1: P.V.S.1905 ($0.80 in chips) 
+Seat 3: Kondratiy ($1.55 in chips) 
+Seat 4: Effelino ($1.81 in chips) 
+Seat 5: Denman84 ($4.86 in chips) 
+Seat 6: Dorex2007 ($2.80 in chips) 
+Seat 7: eviece_108 ($3.50 in chips) 
+Seat 8: bober2702 ($0.80 in chips) 
+Seat 9: HolyJokero ($1.85 in chips) 
+bober2702: posts small blind $0.01
+HolyJokero: posts big blind $0.02
+P.V.S.1905: posts big blind $0.02
+fritz233: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 4d]
+P.V.S.1905: checks 
+Kondratiy: folds 
+Effelino: calls $0.02
+Denman84: folds 
+Dorex2007: folds 
+eviece_108: folds 
+bober2702: folds 
+HolyJokero: raises $0.10 to $0.12
+P.V.S.1905: folds 
+Effelino: folds 
+Uncalled bet ($0.10) returned to HolyJokero
+HolyJokero collected $0.07 from pot
+HolyJokero: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: P.V.S.1905 folded before Flop (didn't bet)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: Effelino folded before Flop
+Seat 5: Denman84 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 (button) folded before Flop (didn't bet)
+Seat 8: bober2702 (small blind) folded before Flop
+Seat 9: HolyJokero (big blind) collected ($0.07)
+
+
+
+PokerStars Hand #224531107456:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:17:00 PT [2021/03/06 16:17:00 ET]
+Table 'Piccolo III' 9-max Seat #8 is the button
+Seat 1: P.V.S.1905 ($0.78 in chips) 
+Seat 3: Kondratiy ($1.55 in chips) 
+Seat 4: Effelino ($1.79 in chips) 
+Seat 5: Denman84 ($4.86 in chips) 
+Seat 6: Dorex2007 ($2.80 in chips) 
+Seat 7: eviece_108 ($3.50 in chips) 
+Seat 8: bober2702 ($0.79 in chips) 
+Seat 9: HolyJokero ($1.90 in chips) 
+HolyJokero: posts small blind $0.01
+P.V.S.1905: posts big blind $0.02
+fritz233: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Jd]
+Kondratiy: raises $0.02 to $0.04
+Effelino: calls $0.04
+Denman84: raises $0.08 to $0.12
+Dorex2007: folds 
+eviece_108: folds 
+bober2702: folds 
+HolyJokero: calls $0.11
+P.V.S.1905: folds 
+Kondratiy: calls $0.08
+Effelino: calls $0.08
+*** FLOP *** [2h Ah 5h]
+HolyJokero: bets $0.26
+Kondratiy: folds 
+Effelino: calls $0.26
+Denman84: raises $4.48 to $4.74 and is all-in
+HolyJokero: calls $1.52 and is all-in
+Effelino: folds 
+Uncalled bet ($2.96) returned to Denman84
+*** TURN *** [2h Ah 5h] [Ts]
+*** RIVER *** [2h Ah 5h Ts] [9c]
+*** SHOW DOWN ***
+HolyJokero: shows [8h 7s] (high card Ace)
+Denman84: shows [Ac Ad] (three of a kind, Aces)
+Denman84 collected $4.17 from pot
+*** SUMMARY ***
+Total pot $4.32 | Rake $0.15 
+Board [2h Ah 5h Ts 9c]
+Seat 1: P.V.S.1905 (big blind) folded before Flop
+Seat 3: Kondratiy folded on the Flop
+Seat 4: Effelino folded on the Flop
+Seat 5: Denman84 showed [Ac Ad] and won ($4.17) with three of a kind, Aces
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: bober2702 (button) folded before Flop (didn't bet)
+Seat 9: HolyJokero (small blind) showed [8h 7s] and lost with high card Ace
+
+
+
+PokerStars Hand #224531154000:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:18:01 PT [2021/03/06 16:18:01 ET]
+Table 'Piccolo III' 9-max Seat #1 is the button
+Seat 1: P.V.S.1905 ($0.76 in chips) 
+Seat 3: Kondratiy ($1.43 in chips) 
+Seat 4: Effelino ($1.41 in chips) 
+Seat 5: Denman84 ($7.13 in chips) 
+Seat 6: Dorex2007 ($2.80 in chips) 
+Seat 7: eviece_108 ($3.50 in chips) 
+Seat 8: bober2702 ($0.79 in chips) 
+Kondratiy: posts small blind $0.01
+Effelino: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 5d]
+Denman84: folds 
+HolyJokero leaves the table
+Dorex2007: folds 
+QuinlanNL joins the table at seat #9 
+eviece_108: folds 
+bober2702: raises $0.03 to $0.05
+P.V.S.1905: folds 
+Kondratiy: folds 
+Effelino: calls $0.03
+*** FLOP *** [8h 2d Kc]
+Effelino: checks 
+bober2702: checks 
+*** TURN *** [8h 2d Kc] [7h]
+Effelino: checks 
+bober2702: checks 
+*** RIVER *** [8h 2d Kc 7h] [9c]
+Effelino: checks 
+bober2702: bets $0.03
+fritz233 leaves the table
+Effelino: calls $0.03
+*** SHOW DOWN ***
+bober2702: shows [8d Kd] (two pair, Kings and Eights)
+Effelino: mucks hand 
+bober2702 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [8h 2d Kc 7h 9c]
+Seat 1: P.V.S.1905 (button) folded before Flop (didn't bet)
+Seat 3: Kondratiy (small blind) folded before Flop
+Seat 4: Effelino (big blind) mucked [Kh 6c]
+Seat 5: Denman84 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: bober2702 showed [8d Kd] and won ($0.16) with two pair, Kings and Eights
+
+
+
+PokerStars Hand #224531198185:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:18:59 PT [2021/03/06 16:18:59 ET]
+Table 'Piccolo III' 9-max Seat #3 is the button
+Seat 1: P.V.S.1905 ($0.76 in chips) 
+Seat 3: Kondratiy ($1.42 in chips) 
+Seat 4: Effelino ($1.33 in chips) 
+Seat 5: Denman84 ($7.13 in chips) 
+Seat 6: Dorex2007 ($2.80 in chips) 
+Seat 7: eviece_108 ($3.50 in chips) 
+Seat 8: bober2702 ($0.87 in chips) 
+Seat 9: QuinlanNL ($1.60 in chips) 
+Effelino: posts small blind $0.01
+Denman84: posts big blind $0.02
+QuinlanNL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 3s]
+Dorex2007: folds 
+eviece_108: calls $0.02
+bober2702: folds 
+QuinlanNL: checks 
+P.V.S.1905: calls $0.02
+Kondratiy: calls $0.02
+LulzSecRu joins the table at seat #2 
+Effelino: calls $0.01
+Denman84: checks 
+*** FLOP *** [2h 8s Td]
+Effelino: checks 
+Denman84: checks 
+eviece_108: checks 
+QuinlanNL: checks 
+P.V.S.1905: checks 
+Kondratiy: bets $0.06
+Effelino: folds 
+Denman84: folds 
+eviece_108: calls $0.06
+QuinlanNL: folds 
+P.V.S.1905: folds 
+*** TURN *** [2h 8s Td] [9h]
+eviece_108: checks 
+Kondratiy: bets $0.06
+eviece_108: calls $0.06
+*** RIVER *** [2h 8s Td 9h] [3h]
+eviece_108: checks 
+Kondratiy: bets $0.08
+eviece_108: calls $0.08
+*** SHOW DOWN ***
+Kondratiy: shows [Qs Tc] (a pair of Tens)
+eviece_108: shows [Jh Jd] (a pair of Jacks)
+eviece_108 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [2h 8s Td 9h 3h]
+Seat 1: P.V.S.1905 folded on the Flop
+Seat 3: Kondratiy (button) showed [Qs Tc] and lost with a pair of Tens
+Seat 4: Effelino (small blind) folded on the Flop
+Seat 5: Denman84 (big blind) folded on the Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 showed [Jh Jd] and won ($0.50) with a pair of Jacks
+Seat 8: bober2702 folded before Flop (didn't bet)
+Seat 9: QuinlanNL folded on the Flop (didn't bet)
+
+
+
+PokerStars Hand #224531268138:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:20:23 PT [2021/03/06 16:20:23 ET]
+Table 'Piccolo III' 9-max Seat #4 is the button
+Seat 1: P.V.S.1905 ($0.74 in chips) 
+Seat 3: Kondratiy ($1.20 in chips) 
+Seat 4: Effelino ($1.31 in chips) 
+Seat 5: Denman84 ($7.11 in chips) 
+Seat 6: Dorex2007 ($2.80 in chips) 
+Seat 7: eviece_108 ($3.78 in chips) 
+Seat 8: bober2702 ($0.87 in chips) 
+Seat 9: QuinlanNL ($1.58 in chips) 
+Denman84: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+LulzSecRu: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Tc]
+eviece_108: calls $0.02
+bober2702: raises $0.05 to $0.07
+QuinlanNL: folds 
+P.V.S.1905: folds 
+Kondratiy: folds 
+Effelino: folds 
+Denman84: folds 
+Dorex2007: folds 
+eviece_108: folds 
+Uncalled bet ($0.05) returned to bober2702
+bober2702 collected $0.07 from pot
+bober2702: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: P.V.S.1905 folded before Flop (didn't bet)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: Effelino (button) folded before Flop (didn't bet)
+Seat 5: Denman84 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: eviece_108 folded before Flop
+Seat 8: bober2702 collected ($0.07)
+Seat 9: QuinlanNL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224531286236:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:20:47 PT [2021/03/06 16:20:47 ET]
+Table 'Piccolo III' 9-max Seat #5 is the button
+Seat 1: P.V.S.1905 ($0.74 in chips) 
+Seat 3: Kondratiy ($1.20 in chips) 
+Seat 4: Effelino ($1.31 in chips) 
+Seat 5: Denman84 ($7.10 in chips) 
+Seat 6: Dorex2007 ($2.78 in chips) 
+Seat 7: eviece_108 ($3.76 in chips) 
+Seat 8: bober2702 ($0.92 in chips) 
+Seat 9: QuinlanNL ($1.58 in chips) 
+Dorex2007: posts small blind $0.01
+eviece_108: posts big blind $0.02
+LulzSecRu: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad Qh]
+bober2702: raises $0.03 to $0.05
+QuinlanNL: calls $0.05
+P.V.S.1905: folds 
+Kondratiy: folds 
+Effelino: calls $0.05
+Denman84: folds 
+Dorex2007: calls $0.04
+eviece_108: folds 
+*** FLOP *** [7d 5h 3s]
+Dorex2007: checks 
+bober2702: bets $0.87 and is all-in
+QuinlanNL: folds 
+Effelino: folds 
+Dorex2007: folds 
+Uncalled bet ($0.87) returned to bober2702
+bober2702 collected $0.21 from pot
+bober2702: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [7d 5h 3s]
+Seat 1: P.V.S.1905 folded before Flop (didn't bet)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: Effelino folded on the Flop
+Seat 5: Denman84 (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded on the Flop
+Seat 7: eviece_108 (big blind) folded before Flop
+Seat 8: bober2702 collected ($0.21)
+Seat 9: QuinlanNL folded on the Flop
+
+
+
+PokerStars Hand #224531327966:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:21:42 PT [2021/03/06 16:21:42 ET]
+Table 'Piccolo III' 9-max Seat #6 is the button
+Seat 1: P.V.S.1905 ($0.74 in chips) 
+Seat 3: Kondratiy ($1.20 in chips) 
+Seat 4: Effelino ($1.26 in chips) 
+Seat 5: Denman84 ($7.10 in chips) 
+Seat 6: Dorex2007 ($2.73 in chips) 
+Seat 7: eviece_108 ($3.74 in chips) 
+Seat 8: bober2702 ($1.08 in chips) 
+Seat 9: QuinlanNL ($1.53 in chips) 
+eviece_108: posts small blind $0.01
+bober2702: posts big blind $0.02
+LulzSecRu: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 4h]
+QuinlanNL: folds 
+P.V.S.1905: folds 
+Kondratiy: folds 
+Effelino: folds 
+Denman84: folds 
+Dorex2007: calls $0.02
+Effelino leaves the table
+eviece_108: raises $0.04 to $0.06
+bober2702: folds 
+Dorex2007: calls $0.04
+*** FLOP *** [Ah 7c 6h]
+eviece_108: checks 
+Dorex2007: bets $0.14
+eviece_108: calls $0.14
+*** TURN *** [Ah 7c 6h] [9h]
+eviece_108: checks 
+Dorex2007: bets $0.41
+eviece_108: folds 
+Uncalled bet ($0.41) returned to Dorex2007
+Dorex2007 collected $0.41 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [Ah 7c 6h 9h]
+Seat 1: P.V.S.1905 folded before Flop (didn't bet)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: Effelino folded before Flop (didn't bet)
+Seat 5: Denman84 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) collected ($0.41)
+Seat 7: eviece_108 (small blind) folded on the Turn
+Seat 8: bober2702 (big blind) folded before Flop
+Seat 9: QuinlanNL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224531361951:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:22:27 PT [2021/03/06 16:22:27 ET]
+Table 'Piccolo III' 9-max Seat #7 is the button
+Seat 1: P.V.S.1905 ($0.74 in chips) 
+Seat 3: Kondratiy ($1.20 in chips) 
+Seat 5: Denman84 ($7.10 in chips) 
+Seat 6: Dorex2007 ($2.94 in chips) 
+Seat 7: eviece_108 ($3.54 in chips) 
+Seat 8: bober2702 ($1.06 in chips) 
+Seat 9: QuinlanNL ($1.53 in chips) 
+bober2702: posts small blind $0.01
+QuinlanNL: posts big blind $0.02
+LulzSecRu: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 9c]
+P.V.S.1905: calls $0.02
+Kondratiy: folds 
+Denman84: folds 
+Dorex2007: calls $0.02
+eviece_108: calls $0.02
+bober2702: raises $0.11 to $0.13
+QuinlanNL: calls $0.11
+P.V.S.1905: folds 
+Dorex2007: folds 
+eviece_108: folds 
+*** FLOP *** [3h 8s 4h]
+bober2702: bets $0.93 and is all-in
+QuinlanNL: calls $0.93
+*** TURN *** [3h 8s 4h] [5h]
+*** RIVER *** [3h 8s 4h 5h] [Qc]
+*** SHOW DOWN ***
+bober2702: shows [Jd Kh] (high card King)
+QuinlanNL: shows [Jh Qh] (a flush, Queen high)
+QuinlanNL collected $2.10 from pot
+*** SUMMARY ***
+Total pot $2.18 | Rake $0.08 
+Board [3h 8s 4h 5h Qc]
+Seat 1: P.V.S.1905 folded before Flop
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 5: Denman84 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop
+Seat 7: eviece_108 (button) folded before Flop
+Seat 8: bober2702 (small blind) showed [Jd Kh] and lost with high card King
+Seat 9: QuinlanNL (big blind) showed [Jh Qh] and won ($2.10) with a flush, Queen high
+
+
+
+PokerStars Hand #224531401365:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:23:18 PT [2021/03/06 16:23:18 ET]
+Table 'Piccolo III' 9-max Seat #9 is the button
+Seat 1: P.V.S.1905 ($0.72 in chips) 
+Seat 2: LulzSecRu ($2 in chips) 
+Seat 3: Kondratiy ($1.20 in chips) 
+Seat 5: Denman84 ($7.10 in chips) 
+Seat 6: Dorex2007 ($2.92 in chips) 
+Seat 7: eviece_108 ($3.52 in chips) 
+Seat 9: QuinlanNL ($2.57 in chips) 
+P.V.S.1905: posts small blind $0.01
+LulzSecRu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs As]
+Kondratiy: raises $0.02 to $0.04
+Denman84: folds 
+bober2702 leaves the table
+Dorex2007: raises $0.04 to $0.08
+eviece_108: folds 
+QuinlanNL: calls $0.08
+P.V.S.1905: folds 
+LulzSecRu: folds 
+Kondratiy: calls $0.04
+*** FLOP *** [6d 2s 2c]
+Kondratiy: checks 
+Dorex2007: bets $0.26
+QuinlanNL: folds 
+Kondratiy: folds 
+Uncalled bet ($0.26) returned to Dorex2007
+Dorex2007 collected $0.26 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [6d 2s 2c]
+Seat 1: P.V.S.1905 (small blind) folded before Flop
+Seat 2: LulzSecRu (big blind) folded before Flop
+Seat 3: Kondratiy folded on the Flop
+Seat 5: Denman84 folded before Flop (didn't bet)
+Seat 6: Dorex2007 collected ($0.26)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 9: QuinlanNL (button) folded on the Flop
+
+
+
+PokerStars Hand #224531426091:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:23:51 PT [2021/03/06 16:23:51 ET]
+Table 'Piccolo III' 9-max Seat #1 is the button
+Seat 1: P.V.S.1905 ($0.71 in chips) 
+Seat 2: LulzSecRu ($2 in chips) 
+Seat 3: Kondratiy ($1.12 in chips) 
+Seat 5: Denman84 ($7.10 in chips) 
+Seat 6: Dorex2007 ($3.10 in chips) 
+Seat 7: eviece_108 ($3.52 in chips) 
+Seat 9: QuinlanNL ($2.49 in chips) 
+LulzSecRu: posts small blind $0.01
+Kondratiy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 7h]
+Denman84 has timed out
+Denman84: folds 
+Dorex2007: folds 
+eviece_108: folds 
+QuinlanNL: calls $0.02
+P.V.S.1905: calls $0.02
+LulzSecRu: folds 
+Kondratiy: checks 
+*** FLOP *** [6c 5c 9d]
+Kondratiy: bets $0.07
+QuinlanNL: folds 
+P.V.S.1905: calls $0.07
+*** TURN *** [6c 5c 9d] [Ts]
+Kondratiy: bets $0.06
+P.V.S.1905: calls $0.06
+*** RIVER *** [6c 5c 9d Ts] [4c]
+Kondratiy: bets $0.06
+P.V.S.1905: calls $0.06
+*** SHOW DOWN ***
+Kondratiy: shows [9s 4d] (two pair, Nines and Fours)
+P.V.S.1905: mucks hand 
+Kondratiy collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [6c 5c 9d Ts 4c]
+Seat 1: P.V.S.1905 (button) mucked [Td 7d]
+Seat 2: LulzSecRu (small blind) folded before Flop
+Seat 3: Kondratiy (big blind) showed [9s 4d] and won ($0.43) with two pair, Nines and Fours
+Seat 5: Denman84 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 9: QuinlanNL folded on the Flop
+
+
+
+PokerStars Hand #224531469838:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:24:46 PT [2021/03/06 16:24:46 ET]
+Table 'Piccolo III' 9-max Seat #2 is the button
+Seat 1: P.V.S.1905 ($0.50 in chips) 
+Seat 2: LulzSecRu ($2 in chips) 
+Seat 3: Kondratiy ($1.34 in chips) 
+Seat 5: Denman84 ($7.10 in chips) 
+Seat 6: Dorex2007 ($3.10 in chips) 
+Seat 7: eviece_108 ($3.52 in chips) 
+Seat 9: QuinlanNL ($2.47 in chips) 
+Kondratiy: posts small blind $0.01
+Denman84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 3c]
+Dorex2007: folds 
+eviece_108: folds 
+rusty438 joins the table at seat #4 
+Giorgio3D joins the table at seat #8 
+QuinlanNL: calls $0.02
+P.V.S.1905: calls $0.02
+LulzSecRu: folds 
+Kondratiy: folds 
+Denman84: checks 
+*** FLOP *** [Ac 8c 3h]
+Denman84: checks 
+QuinlanNL: bets $0.07
+P.V.S.1905: calls $0.07
+Denman84: folds 
+*** TURN *** [Ac 8c 3h] [Qs]
+QuinlanNL: bets $0.10
+P.V.S.1905: calls $0.10
+*** RIVER *** [Ac 8c 3h Qs] [3s]
+QuinlanNL: checks 
+P.V.S.1905: bets $0.10
+QuinlanNL: calls $0.10
+*** SHOW DOWN ***
+P.V.S.1905: shows [As 3d] (a full house, Threes full of Aces)
+QuinlanNL: mucks hand 
+P.V.S.1905 collected $0.59 from pot
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [Ac 8c 3h Qs 3s]
+Seat 1: P.V.S.1905 showed [As 3d] and won ($0.59) with a full house, Threes full of Aces
+Seat 2: LulzSecRu (button) folded before Flop (didn't bet)
+Seat 3: Kondratiy (small blind) folded before Flop
+Seat 5: Denman84 (big blind) folded on the Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 9: QuinlanNL mucked [6c 8s]
+
+
+
+PokerStars Hand #224531512609:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:25:43 PT [2021/03/06 16:25:43 ET]
+Table 'Piccolo III' 9-max Seat #3 is the button
+Seat 1: P.V.S.1905 ($0.80 in chips) 
+Seat 2: LulzSecRu ($2 in chips) 
+Seat 3: Kondratiy ($1.33 in chips) 
+Seat 5: Denman84 ($7.08 in chips) 
+Seat 6: Dorex2007 ($3.10 in chips) 
+Seat 7: eviece_108 ($3.52 in chips) 
+Seat 8: Giorgio3D ($1.60 in chips) 
+Seat 9: QuinlanNL ($2.18 in chips) 
+Denman84: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Giorgio3D: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 3c]
+eviece_108: folds 
+Giorgio3D: checks 
+QuinlanNL: calls $0.02
+P.V.S.1905: calls $0.02
+LulzSecRu: raises $0.11 to $0.13
+Kondratiy: folds 
+Denman84: folds 
+Dorex2007: folds 
+Giorgio3D: folds 
+QuinlanNL: calls $0.11
+P.V.S.1905: calls $0.11
+*** FLOP *** [7d 5h 3d]
+QuinlanNL: checks 
+P.V.S.1905: checks 
+LulzSecRu: bets $0.32
+QuinlanNL: folds 
+P.V.S.1905: folds 
+Uncalled bet ($0.32) returned to LulzSecRu
+LulzSecRu collected $0.42 from pot
+LulzSecRu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [7d 5h 3d]
+Seat 1: P.V.S.1905 folded on the Flop
+Seat 2: LulzSecRu collected ($0.42)
+Seat 3: Kondratiy (button) folded before Flop (didn't bet)
+Seat 5: Denman84 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: Giorgio3D folded before Flop (didn't bet)
+Seat 9: QuinlanNL folded on the Flop
+
+
+
+PokerStars Hand #224531544189:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:26:25 PT [2021/03/06 16:26:25 ET]
+Table 'Piccolo III' 9-max Seat #5 is the button
+Seat 1: P.V.S.1905 ($0.67 in chips) 
+Seat 2: LulzSecRu ($2.29 in chips) 
+Seat 3: Kondratiy ($1.33 in chips) 
+Seat 4: rusty438 ($1.60 in chips) 
+Seat 5: Denman84 ($7.07 in chips) 
+Seat 6: Dorex2007 ($3.08 in chips) 
+Seat 7: eviece_108 ($3.52 in chips) 
+Seat 8: Giorgio3D ($1.58 in chips) 
+Seat 9: QuinlanNL ($2.05 in chips) 
+Dorex2007: posts small blind $0.01
+eviece_108: posts big blind $0.02
+rusty438: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Kd]
+Giorgio3D: folds 
+QuinlanNL: folds 
+P.V.S.1905: folds 
+LulzSecRu: folds 
+Kondratiy: raises $0.04 to $0.06
+rusty438: folds 
+Denman84: folds 
+Dorex2007: folds 
+eviece_108: folds 
+Uncalled bet ($0.04) returned to Kondratiy
+Kondratiy collected $0.07 from pot
+Kondratiy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: P.V.S.1905 folded before Flop (didn't bet)
+Seat 2: LulzSecRu folded before Flop (didn't bet)
+Seat 3: Kondratiy collected ($0.07)
+Seat 4: rusty438 folded before Flop (didn't bet)
+Seat 5: Denman84 (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: eviece_108 (big blind) folded before Flop
+Seat 8: Giorgio3D folded before Flop (didn't bet)
+Seat 9: QuinlanNL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224531556171:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:26:41 PT [2021/03/06 16:26:41 ET]
+Table 'Piccolo III' 9-max Seat #6 is the button
+Seat 1: P.V.S.1905 ($0.67 in chips) 
+Seat 2: LulzSecRu ($2.29 in chips) 
+Seat 3: Kondratiy ($1.38 in chips) 
+Seat 4: rusty438 ($1.58 in chips) 
+Seat 5: Denman84 ($7.07 in chips) 
+Seat 6: Dorex2007 ($3.07 in chips) 
+Seat 7: eviece_108 ($3.50 in chips) 
+Seat 8: Giorgio3D ($1.58 in chips) 
+Seat 9: QuinlanNL ($2.05 in chips) 
+eviece_108: posts small blind $0.01
+Giorgio3D: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 8c]
+QuinlanNL: calls $0.02
+P.V.S.1905: calls $0.02
+LulzSecRu: folds 
+Kondratiy: folds 
+rusty438: folds 
+Denman84: folds 
+Dorex2007: calls $0.02
+eviece_108: folds 
+Giorgio3D: checks 
+*** FLOP *** [4d 8d 4h]
+Giorgio3D: checks 
+QuinlanNL: checks 
+P.V.S.1905: checks 
+Dorex2007: bets $0.09
+Giorgio3D: folds 
+QuinlanNL: folds 
+P.V.S.1905: folds 
+Uncalled bet ($0.09) returned to Dorex2007
+Dorex2007 collected $0.09 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [4d 8d 4h]
+Seat 1: P.V.S.1905 folded on the Flop
+Seat 2: LulzSecRu folded before Flop (didn't bet)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: rusty438 folded before Flop (didn't bet)
+Seat 5: Denman84 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) collected ($0.09)
+Seat 7: eviece_108 (small blind) folded before Flop
+Seat 8: Giorgio3D (big blind) folded on the Flop
+Seat 9: QuinlanNL folded on the Flop
+
+
+
+PokerStars Hand #224531591002:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:27:27 PT [2021/03/06 16:27:27 ET]
+Table 'Piccolo III' 9-max Seat #7 is the button
+Seat 1: P.V.S.1905 ($0.65 in chips) 
+Seat 2: LulzSecRu ($2.29 in chips) 
+Seat 3: Kondratiy ($1.38 in chips) 
+Seat 4: rusty438 ($1.58 in chips) 
+Seat 5: Denman84 ($7.07 in chips) 
+Seat 6: Dorex2007 ($3.14 in chips) 
+Seat 7: eviece_108 ($3.49 in chips) 
+Seat 8: Giorgio3D ($1.56 in chips) 
+Seat 9: QuinlanNL ($2.03 in chips) 
+Giorgio3D: posts small blind $0.01
+QuinlanNL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 2d]
+P.V.S.1905: folds 
+LulzSecRu: folds 
+Kondratiy: folds 
+rusty438: folds 
+Denman84: folds 
+Dorex2007: folds 
+eviece_108: raises $0.02 to $0.04
+Giorgio3D: calls $0.03
+QuinlanNL: calls $0.02
+*** FLOP *** [Tc 3c 8d]
+Giorgio3D: checks 
+QuinlanNL: checks 
+rusty438 leaves the table
+eviece_108: checks 
+*** TURN *** [Tc 3c 8d] [Ts]
+Giorgio3D: bets $0.04
+QuinlanNL: folds 
+QuinlanNL leaves the table
+eviece_108: folds 
+Uncalled bet ($0.04) returned to Giorgio3D
+Giorgio3D collected $0.12 from pot
+Giorgio3D: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Tc 3c 8d Ts]
+Seat 1: P.V.S.1905 folded before Flop (didn't bet)
+Seat 2: LulzSecRu folded before Flop (didn't bet)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: rusty438 folded before Flop (didn't bet)
+Seat 5: Denman84 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 (button) folded on the Turn
+Seat 8: Giorgio3D (small blind) collected ($0.12)
+Seat 9: QuinlanNL (big blind) folded on the Turn
+
+
+
+PokerStars Hand #224531639859:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:28:33 PT [2021/03/06 16:28:33 ET]
+Table 'Piccolo III' 9-max Seat #8 is the button
+Seat 1: P.V.S.1905 ($0.65 in chips) 
+Seat 2: LulzSecRu ($2.29 in chips) 
+Seat 3: Kondratiy ($1.38 in chips) 
+Seat 5: Denman84 ($7.07 in chips) 
+Seat 6: Dorex2007 ($3.14 in chips) 
+Seat 7: eviece_108 ($3.45 in chips) 
+Seat 8: Giorgio3D ($1.64 in chips) 
+P.V.S.1905: posts small blind $0.01
+LulzSecRu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 2d]
+Kondratiy: folds 
+pivovarchi joins the table at seat #4 
+Dertual joins the table at seat #9 
+Denman84: folds 
+Dorex2007: folds 
+eviece_108: folds 
+Giorgio3D: folds 
+P.V.S.1905: calls $0.01
+LulzSecRu: checks 
+*** FLOP *** [Ad 3c Kd]
+P.V.S.1905: checks 
+LulzSecRu: checks 
+*** TURN *** [Ad 3c Kd] [3d]
+P.V.S.1905: checks 
+LulzSecRu: bets $0.03
+P.V.S.1905: folds 
+Uncalled bet ($0.03) returned to LulzSecRu
+LulzSecRu collected $0.04 from pot
+LulzSecRu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Ad 3c Kd 3d]
+Seat 1: P.V.S.1905 (small blind) folded on the Turn
+Seat 2: LulzSecRu (big blind) collected ($0.04)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 5: Denman84 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: Giorgio3D (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224531665758:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:29:06 PT [2021/03/06 16:29:06 ET]
+Table 'Piccolo III' 9-max Seat #1 is the button
+Seat 1: P.V.S.1905 ($0.63 in chips) 
+Seat 2: LulzSecRu ($2.31 in chips) 
+Seat 3: Kondratiy ($1.38 in chips) 
+Seat 5: Denman84 ($7.07 in chips) 
+Seat 6: Dorex2007 ($3.14 in chips) 
+Seat 7: eviece_108 ($3.45 in chips) 
+Seat 8: Giorgio3D ($1.64 in chips) 
+Seat 9: Dertual ($0.80 in chips) 
+LulzSecRu: posts small blind $0.01
+Kondratiy: posts big blind $0.02
+pivovarchi: sits out 
+Dertual: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s Kh]
+Denman84: folds 
+Dorex2007: folds 
+eviece_108: folds 
+Giorgio3D: folds 
+Dertual: checks 
+P.V.S.1905: folds 
+LulzSecRu: calls $0.01
+Kondratiy: checks 
+*** FLOP *** [6h 2c Ac]
+LulzSecRu: checks 
+Kondratiy: checks 
+Dertual: bets $0.03
+LulzSecRu: folds 
+Kondratiy: calls $0.03
+*** TURN *** [6h 2c Ac] [Ad]
+Kondratiy: checks 
+Dertual: bets $0.08
+Kondratiy: folds 
+Uncalled bet ($0.08) returned to Dertual
+Dertual collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [6h 2c Ac Ad]
+Seat 1: P.V.S.1905 (button) folded before Flop (didn't bet)
+Seat 2: LulzSecRu (small blind) folded on the Flop
+Seat 3: Kondratiy (big blind) folded on the Turn
+Seat 5: Denman84 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: Giorgio3D folded before Flop (didn't bet)
+Seat 9: Dertual collected ($0.12)
+
+
+
+PokerStars Hand #224531702157:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:29:55 PT [2021/03/06 16:29:55 ET]
+Table 'Piccolo III' 9-max Seat #2 is the button
+Seat 1: P.V.S.1905 ($0.63 in chips) 
+Seat 2: LulzSecRu ($2.29 in chips) 
+Seat 3: Kondratiy ($1.33 in chips) 
+Seat 4: pivovarchi ($1.06 in chips) 
+Seat 5: Denman84 ($7.07 in chips) 
+Seat 6: Dorex2007 ($3.14 in chips) 
+Seat 7: eviece_108 ($3.45 in chips) 
+Seat 8: Giorgio3D ($1.64 in chips) 
+Seat 9: Dertual ($0.87 in chips) 
+Kondratiy: posts small blind $0.01
+pivovarchi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 8h]
+Denman84: folds 
+Dorex2007: folds 
+eviece_108: folds 
+Giorgio3D: folds 
+Dertual: raises $0.04 to $0.06
+P.V.S.1905: folds 
+LulzSecRu: folds 
+Kondratiy: folds 
+pivovarchi: calls $0.04
+*** FLOP *** [7d 8c Ks]
+pivovarchi: checks 
+Dertual: checks 
+*** TURN *** [7d 8c Ks] [8s]
+pivovarchi: checks 
+Dertual: bets $0.06
+pivovarchi: folds 
+Uncalled bet ($0.06) returned to Dertual
+Dertual collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [7d 8c Ks 8s]
+Seat 1: P.V.S.1905 folded before Flop (didn't bet)
+Seat 2: LulzSecRu (button) folded before Flop (didn't bet)
+Seat 3: Kondratiy (small blind) folded before Flop
+Seat 4: pivovarchi (big blind) folded on the Turn
+Seat 5: Denman84 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: Giorgio3D folded before Flop (didn't bet)
+Seat 9: Dertual collected ($0.13)
+
+
+
+PokerStars Hand #224531728159:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:30:29 PT [2021/03/06 16:30:29 ET]
+Table 'Piccolo III' 9-max Seat #3 is the button
+Seat 1: P.V.S.1905 ($0.63 in chips) 
+Seat 2: LulzSecRu ($2.29 in chips) 
+Seat 3: Kondratiy ($1.32 in chips) 
+Seat 4: pivovarchi ($1 in chips) 
+Seat 6: Dorex2007 ($3.14 in chips) 
+Seat 7: eviece_108 ($3.45 in chips) 
+Seat 8: Giorgio3D ($1.64 in chips) 
+Seat 9: Dertual ($0.94 in chips) 
+pivovarchi: posts small blind $0.01
+Denman84: is sitting out 
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 8c]
+eviece_108: folds 
+Giorgio3D: folds 
+Dertual: folds 
+P.V.S.1905: calls $0.02
+LulzSecRu: folds 
+Kondratiy: raises $0.04 to $0.06
+pivovarchi: calls $0.05
+Dorex2007: folds 
+P.V.S.1905: calls $0.04
+*** FLOP *** [Th Ad Ac]
+pivovarchi: checks 
+P.V.S.1905: checks 
+Kondratiy: checks 
+*** TURN *** [Th Ad Ac] [2d]
+pivovarchi: checks 
+P.V.S.1905: checks 
+Kondratiy: bets $0.04
+pivovarchi: folds 
+P.V.S.1905: calls $0.04
+*** RIVER *** [Th Ad Ac 2d] [8h]
+P.V.S.1905: checks 
+Kondratiy: bets $0.08
+P.V.S.1905: folds 
+Uncalled bet ($0.08) returned to Kondratiy
+Kondratiy collected $0.27 from pot
+Kondratiy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Th Ad Ac 2d 8h]
+Seat 1: P.V.S.1905 folded on the River
+Seat 2: LulzSecRu folded before Flop (didn't bet)
+Seat 3: Kondratiy (button) collected ($0.27)
+Seat 4: pivovarchi (small blind) folded on the Turn
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: Giorgio3D folded before Flop (didn't bet)
+Seat 9: Dertual folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224531778866:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:31:33 PT [2021/03/06 16:31:33 ET]
+Table 'Piccolo III' 9-max Seat #4 is the button
+Seat 1: P.V.S.1905 ($0.53 in chips) 
+Seat 2: LulzSecRu ($2.29 in chips) 
+Seat 3: Kondratiy ($1.49 in chips) 
+Seat 4: pivovarchi ($0.94 in chips) 
+Seat 6: Dorex2007 ($3.12 in chips) 
+Seat 7: eviece_108 ($3.45 in chips) 
+Seat 8: Giorgio3D ($1.64 in chips) 
+Seat 9: Dertual ($0.94 in chips) 
+Dorex2007: posts small blind $0.01
+eviece_108: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 5h]
+Giorgio3D: folds 
+Dertual: folds 
+P.V.S.1905: folds 
+LulzSecRu: raises $0.04 to $0.06
+Kondratiy: folds 
+pivovarchi: folds 
+Dorex2007: folds 
+eviece_108: folds 
+Uncalled bet ($0.04) returned to LulzSecRu
+LulzSecRu collected $0.05 from pot
+LulzSecRu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: P.V.S.1905 folded before Flop (didn't bet)
+Seat 2: LulzSecRu collected ($0.05)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: pivovarchi (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: eviece_108 (big blind) folded before Flop
+Seat 8: Giorgio3D folded before Flop (didn't bet)
+Seat 9: Dertual folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224531791914:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:31:50 PT [2021/03/06 16:31:50 ET]
+Table 'Piccolo III' 9-max Seat #6 is the button
+Seat 1: P.V.S.1905 ($0.53 in chips) 
+Seat 2: LulzSecRu ($2.32 in chips) 
+Seat 3: Kondratiy ($1.49 in chips) 
+Seat 4: pivovarchi ($0.94 in chips) 
+Seat 6: Dorex2007 ($3.11 in chips) 
+Seat 7: eviece_108 ($3.43 in chips) 
+Seat 8: Giorgio3D ($1.64 in chips) 
+Seat 9: Dertual ($0.94 in chips) 
+eviece_108: posts small blind $0.01
+Giorgio3D: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 6h]
+Dertual: raises $0.04 to $0.06
+P.V.S.1905: folds 
+LulzSecRu: folds 
+Kondratiy: folds 
+pivovarchi: calls $0.06
+Dorex2007: folds 
+eviece_108: folds 
+Giorgio3D: calls $0.04
+*** FLOP *** [Qd 7d 6d]
+Giorgio3D: checks 
+Dertual: bets $0.08
+pivovarchi: folds 
+Giorgio3D: calls $0.08
+*** TURN *** [Qd 7d 6d] [Ts]
+Giorgio3D: checks 
+Dertual: checks 
+*** RIVER *** [Qd 7d 6d Ts] [8c]
+Giorgio3D: checks 
+Dertual: checks 
+*** SHOW DOWN ***
+Giorgio3D: shows [Ad 5s] (high card Ace)
+Dertual: shows [6c 7s] (two pair, Sevens and Sixes)
+Dertual collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [Qd 7d 6d Ts 8c]
+Seat 1: P.V.S.1905 folded before Flop (didn't bet)
+Seat 2: LulzSecRu folded before Flop (didn't bet)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: pivovarchi folded on the Flop
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: eviece_108 (small blind) folded before Flop
+Seat 8: Giorgio3D (big blind) showed [Ad 5s] and lost with high card Ace
+Seat 9: Dertual showed [6c 7s] and won ($0.34) with two pair, Sevens and Sixes
+
+
+
+PokerStars Hand #224531862448:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:33:15 PT [2021/03/06 16:33:15 ET]
+Table 'Piccolo III' 9-max Seat #7 is the button
+Seat 1: P.V.S.1905 ($0.53 in chips) 
+Seat 2: LulzSecRu ($2.32 in chips) 
+Seat 3: Kondratiy ($1.49 in chips) 
+Seat 4: pivovarchi ($0.88 in chips) 
+Seat 6: Dorex2007 ($3.11 in chips) 
+Seat 7: eviece_108 ($3.42 in chips) 
+Seat 8: Giorgio3D ($1.50 in chips) 
+Seat 9: Dertual ($1.14 in chips) 
+Giorgio3D: posts small blind $0.01
+Dertual: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 7s]
+P.V.S.1905: folds 
+LulzSecRu: folds 
+Kondratiy: raises $0.04 to $0.06
+pivovarchi: folds 
+Dorex2007: folds 
+eviece_108: folds 
+Giorgio3D: calls $0.05
+Dertual: folds 
+*** FLOP *** [Th 5s Qd]
+Giorgio3D: checks 
+Kondratiy: checks 
+*** TURN *** [Th 5s Qd] [Kh]
+Giorgio3D: checks 
+Kondratiy: checks 
+*** RIVER *** [Th 5s Qd Kh] [5h]
+Giorgio3D: bets $0.04
+Kondratiy: calls $0.04
+*** SHOW DOWN ***
+Giorgio3D: shows [6h 7h] (a flush, King high)
+Kondratiy: mucks hand 
+Giorgio3D collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Th 5s Qd Kh 5h]
+Seat 1: P.V.S.1905 folded before Flop (didn't bet)
+Seat 2: LulzSecRu folded before Flop (didn't bet)
+Seat 3: Kondratiy mucked [9c 9s]
+Seat 4: pivovarchi folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 (button) folded before Flop (didn't bet)
+Seat 8: Giorgio3D (small blind) showed [6h 7h] and won ($0.21) with a flush, King high
+Seat 9: Dertual (big blind) folded before Flop
+
+
+
+PokerStars Hand #224531904240:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:34:11 PT [2021/03/06 16:34:11 ET]
+Table 'Piccolo III' 9-max Seat #8 is the button
+Seat 1: P.V.S.1905 ($0.53 in chips) 
+Seat 2: LulzSecRu ($2.32 in chips) 
+Seat 3: Kondratiy ($1.39 in chips) 
+Seat 4: pivovarchi ($0.88 in chips) 
+Seat 6: Dorex2007 ($3.11 in chips) 
+Seat 7: eviece_108 ($3.42 in chips) 
+Seat 8: Giorgio3D ($1.61 in chips) 
+Seat 9: Dertual ($1.12 in chips) 
+Dertual: posts small blind $0.01
+P.V.S.1905: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 3h]
+LulzSecRu: folds 
+Kondratiy: folds 
+pivovarchi: calls $0.02
+Dorex2007: folds 
+eviece_108: folds 
+Giorgio3D: calls $0.02
+Dertual: calls $0.01
+P.V.S.1905: checks 
+*** FLOP *** [Js 7s 9h]
+Dertual: checks 
+P.V.S.1905: checks 
+pivovarchi: checks 
+Giorgio3D: checks 
+*** TURN *** [Js 7s 9h] [Td]
+Dertual: checks 
+P.V.S.1905: checks 
+pivovarchi: checks 
+Giorgio3D: bets $0.02
+Dertual: raises $0.04 to $0.06
+P.V.S.1905: folds 
+pivovarchi: folds 
+Giorgio3D: calls $0.04
+*** RIVER *** [Js 7s 9h Td] [2c]
+Dertual: bets $0.10
+Giorgio3D: calls $0.10
+*** SHOW DOWN ***
+Dertual: shows [Ts 3c] (a pair of Tens)
+Giorgio3D: shows [As Jd] (a pair of Jacks)
+Giorgio3D collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [Js 7s 9h Td 2c]
+Seat 1: P.V.S.1905 (big blind) folded on the Turn
+Seat 2: LulzSecRu folded before Flop (didn't bet)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: pivovarchi folded on the Turn
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: Giorgio3D (button) showed [As Jd] and won ($0.39) with a pair of Jacks
+Seat 9: Dertual (small blind) showed [Ts 3c] and lost with a pair of Tens
+
+
+
+PokerStars Hand #224531958887:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:35:25 PT [2021/03/06 16:35:25 ET]
+Table 'Piccolo III' 9-max Seat #9 is the button
+Seat 1: P.V.S.1905 ($0.51 in chips) 
+Seat 2: LulzSecRu ($2.32 in chips) 
+Seat 3: Kondratiy ($1.39 in chips) 
+Seat 4: pivovarchi ($0.86 in chips) 
+Seat 6: Dorex2007 ($3.11 in chips) 
+Seat 7: eviece_108 ($3.42 in chips) 
+Seat 8: Giorgio3D ($1.82 in chips) 
+Seat 9: Dertual ($0.94 in chips) 
+P.V.S.1905: posts small blind $0.01
+LulzSecRu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 8c]
+Kondratiy: folds 
+pivovarchi: calls $0.02
+Dorex2007: folds 
+eviece_108: calls $0.02
+Giorgio3D: calls $0.02
+Dertual: folds 
+P.V.S.1905: calls $0.01
+LulzSecRu: checks 
+*** FLOP *** [2c Qh 9s]
+P.V.S.1905: checks 
+Denman84 leaves the table
+LulzSecRu: checks 
+pivovarchi: bets $0.04
+eviece_108: calls $0.04
+Giorgio3D: folds 
+P.V.S.1905: folds 
+LulzSecRu: folds 
+*** TURN *** [2c Qh 9s] [9c]
+pivovarchi: checks 
+Ramellzee joins the table at seat #5 
+eviece_108: checks 
+*** RIVER *** [2c Qh 9s 9c] [3c]
+pivovarchi: checks 
+eviece_108: checks 
+*** SHOW DOWN ***
+pivovarchi: shows [Jh 8h] (a pair of Nines)
+eviece_108: shows [Th Kc] (a pair of Nines - King kicker)
+eviece_108 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [2c Qh 9s 9c 3c]
+Seat 1: P.V.S.1905 (small blind) folded on the Flop
+Seat 2: LulzSecRu (big blind) folded on the Flop
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: pivovarchi showed [Jh 8h] and lost with a pair of Nines
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 showed [Th Kc] and won ($0.17) with a pair of Nines
+Seat 8: Giorgio3D folded on the Flop
+Seat 9: Dertual (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224532030179:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:36:52 PT [2021/03/06 16:36:52 ET]
+Table 'Piccolo III' 9-max Seat #1 is the button
+Seat 1: P.V.S.1905 ($0.49 in chips) 
+Seat 2: LulzSecRu ($2.30 in chips) 
+Seat 3: Kondratiy ($1.39 in chips) 
+Seat 4: pivovarchi ($0.80 in chips) 
+Seat 5: Ramellzee ($1.60 in chips) 
+Seat 6: Dorex2007 ($3.11 in chips) 
+Seat 7: eviece_108 ($3.53 in chips) 
+Seat 8: Giorgio3D ($1.80 in chips) 
+Seat 9: Dertual ($0.94 in chips) 
+LulzSecRu: posts small blind $0.01
+Kondratiy: posts big blind $0.02
+Ramellzee: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 7d]
+pivovarchi: folds 
+Ramellzee: checks 
+Dorex2007: folds 
+eviece_108: calls $0.02
+Giorgio3D: calls $0.02
+Dertual: folds 
+P.V.S.1905: folds 
+LulzSecRu: folds 
+Kondratiy: checks 
+*** FLOP *** [4h 5h Jh]
+Kondratiy: checks 
+Ramellzee: bets $0.05
+eviece_108: folds 
+Giorgio3D: folds 
+Kondratiy: calls $0.05
+*** TURN *** [4h 5h Jh] [3h]
+Kondratiy: checks 
+Ramellzee: checks 
+*** RIVER *** [4h 5h Jh 3h] [3s]
+Kondratiy: bets $0.09
+Ramellzee: calls $0.09
+*** SHOW DOWN ***
+Kondratiy: shows [Th 8h] (a flush, Jack high)
+Ramellzee: mucks hand 
+Kondratiy collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [4h 5h Jh 3h 3s]
+Seat 1: P.V.S.1905 (button) folded before Flop (didn't bet)
+Seat 2: LulzSecRu (small blind) folded before Flop
+Seat 3: Kondratiy (big blind) showed [Th 8h] and won ($0.36) with a flush, Jack high
+Seat 4: pivovarchi folded before Flop (didn't bet)
+Seat 5: Ramellzee mucked [Jd Ts]
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded on the Flop
+Seat 8: Giorgio3D folded on the Flop
+Seat 9: Dertual folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224532064789:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:37:40 PT [2021/03/06 16:37:40 ET]
+Table 'Piccolo III' 9-max Seat #2 is the button
+Seat 1: P.V.S.1905 ($0.49 in chips) 
+Seat 2: LulzSecRu ($2.29 in chips) 
+Seat 3: Kondratiy ($1.59 in chips) 
+Seat 5: Ramellzee ($1.44 in chips) 
+Seat 6: Dorex2007 ($3.11 in chips) 
+Seat 7: eviece_108 ($3.51 in chips) 
+Seat 8: Giorgio3D ($1.78 in chips) 
+Seat 9: Dertual ($0.94 in chips) 
+Kondratiy: posts small blind $0.01
+Ramellzee: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d As]
+Dorex2007: folds 
+eviece_108: folds 
+Giorgio3D: calls $0.02
+Dertual: raises $0.06 to $0.08
+P.V.S.1905: folds 
+LulzSecRu: folds 
+Kondratiy: folds 
+Ramellzee: calls $0.06
+Giorgio3D: calls $0.06
+*** FLOP *** [4c 2s 6s]
+Ramellzee: checks 
+Giorgio3D: bets $0.24
+Dertual: folds 
+Ramellzee: calls $0.24
+*** TURN *** [4c 2s 6s] [3s]
+Ramellzee: checks 
+Giorgio3D: checks 
+*** RIVER *** [4c 2s 6s 3s] [Kh]
+Ramellzee: bets $0.70
+Giorgio3D: calls $0.70
+*** SHOW DOWN ***
+Ramellzee: shows [7c 5s] (a straight, Three to Seven)
+Giorgio3D: mucks hand 
+Ramellzee collected $2.06 from pot
+*** SUMMARY ***
+Total pot $2.13 | Rake $0.07 
+Board [4c 2s 6s 3s Kh]
+Seat 1: P.V.S.1905 folded before Flop (didn't bet)
+Seat 2: LulzSecRu (button) folded before Flop (didn't bet)
+Seat 3: Kondratiy (small blind) folded before Flop
+Seat 5: Ramellzee (big blind) showed [7c 5s] and won ($2.06) with a straight, Three to Seven
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: Giorgio3D mucked [7d 7h]
+Seat 9: Dertual folded on the Flop
+
+
+
+PokerStars Hand #224532109677:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:38:42 PT [2021/03/06 16:38:42 ET]
+Table 'Piccolo III' 9-max Seat #3 is the button
+Seat 1: P.V.S.1905 ($0.49 in chips) 
+Seat 2: LulzSecRu ($2.29 in chips) 
+Seat 3: Kondratiy ($1.58 in chips) 
+Seat 5: Ramellzee ($2.48 in chips) 
+Seat 6: Dorex2007 ($3.11 in chips) 
+Seat 7: eviece_108 ($3.51 in chips) 
+Seat 8: Giorgio3D ($0.76 in chips) 
+Seat 9: Dertual ($0.86 in chips) 
+Ramellzee: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Qc]
+eviece_108: folds 
+Giorgio3D: folds 
+Dertual: folds 
+P.V.S.1905: folds 
+LulzSecRu: folds 
+Giorgio3D leaves the table
+Kondratiy: folds 
+Ramellzee: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [5h Ad 7d]
+Ramellzee: checks 
+Dorex2007: checks 
+*** TURN *** [5h Ad 7d] [9d]
+Ramellzee: bets $0.02
+Dorex2007: calls $0.02
+*** RIVER *** [5h Ad 7d 9d] [6s]
+Ramellzee: bets $0.04
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to Ramellzee
+Ramellzee collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [5h Ad 7d 9d 6s]
+Seat 1: P.V.S.1905 folded before Flop (didn't bet)
+Seat 2: LulzSecRu folded before Flop (didn't bet)
+Seat 3: Kondratiy (button) folded before Flop (didn't bet)
+Seat 5: Ramellzee (small blind) collected ($0.08)
+Seat 6: Dorex2007 (big blind) folded on the River
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: Giorgio3D folded before Flop (didn't bet)
+Seat 9: Dertual folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224532147122:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:39:33 PT [2021/03/06 16:39:33 ET]
+Table 'Piccolo III' 9-max Seat #5 is the button
+Seat 1: P.V.S.1905 ($0.49 in chips) 
+Seat 2: LulzSecRu ($2.29 in chips) 
+Seat 3: Kondratiy ($1.58 in chips) 
+Seat 5: Ramellzee ($2.52 in chips) 
+Seat 6: Dorex2007 ($3.07 in chips) 
+Seat 7: eviece_108 ($3.51 in chips) 
+Seat 9: Dertual ($0.86 in chips) 
+Dorex2007: posts small blind $0.01
+eviece_108: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 5s]
+Dertual: folds 
+P.V.S.1905: calls $0.02
+LulzSecRu: raises $0.06 to $0.08
+Kondratiy: folds 
+Ramellzee: folds 
+Dorex2007: calls $0.07
+eviece_108: folds 
+P.V.S.1905: calls $0.06
+*** FLOP *** [7s 8s 3c]
+Dorex2007: checks 
+P.V.S.1905: checks 
+LulzSecRu: bets $0.20
+Dorex2007: folds 
+P.V.S.1905: folds 
+Uncalled bet ($0.20) returned to LulzSecRu
+LulzSecRu collected $0.25 from pot
+LulzSecRu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [7s 8s 3c]
+Seat 1: P.V.S.1905 folded on the Flop
+Seat 2: LulzSecRu collected ($0.25)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 5: Ramellzee (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded on the Flop
+Seat 7: eviece_108 (big blind) folded before Flop
+Seat 9: Dertual folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224532184112:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:40:24 PT [2021/03/06 16:40:24 ET]
+Table 'Piccolo III' 9-max Seat #6 is the button
+Seat 1: P.V.S.1905 ($0.41 in chips) 
+Seat 2: LulzSecRu ($2.46 in chips) 
+Seat 3: Kondratiy ($1.58 in chips) 
+Seat 4: pivovarchi ($0.80 in chips) 
+Seat 5: Ramellzee ($2.52 in chips) 
+Seat 6: Dorex2007 ($2.99 in chips) 
+Seat 7: eviece_108 ($3.49 in chips) 
+Seat 9: Dertual ($0.86 in chips) 
+eviece_108: posts small blind $0.01
+Dertual: posts big blind $0.02
+pivovarchi: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 8s]
+P.V.S.1905: calls $0.02
+LulzSecRu: folds 
+Kondratiy: folds 
+pivovarchi: checks 
+Ramellzee: calls $0.02
+Dorex2007: folds 
+eviece_108: folds 
+Dertual has timed out
+Dertual: checks 
+*** FLOP *** [8h Qd 7c]
+Dertual: checks 
+P.V.S.1905: checks 
+pivovarchi: checks 
+Ramellzee: checks 
+*** TURN *** [8h Qd 7c] [5h]
+Dertual: bets $0.06
+P.V.S.1905: calls $0.06
+pivovarchi: folds 
+Ramellzee: folds 
+*** RIVER *** [8h Qd 7c 5h] [Ad]
+Dertual: bets $0.12
+P.V.S.1905: raises $0.21 to $0.33 and is all-in
+Dertual: calls $0.21
+*** SHOW DOWN ***
+P.V.S.1905: shows [Ac Qh] (two pair, Aces and Queens)
+Dertual: shows [7h 7s] (three of a kind, Sevens)
+Dertual collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.88 | Rake $0.03 
+Board [8h Qd 7c 5h Ad]
+Seat 1: P.V.S.1905 showed [Ac Qh] and lost with two pair, Aces and Queens
+Seat 2: LulzSecRu folded before Flop (didn't bet)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: pivovarchi folded on the Turn (didn't bet)
+Seat 5: Ramellzee folded on the Turn
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: eviece_108 (small blind) folded before Flop
+Seat 9: Dertual (big blind) showed [7h 7s] and won ($0.85) with three of a kind, Sevens
+
+
+
+PokerStars Hand #224532246582:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:41:51 PT [2021/03/06 16:41:51 ET]
+Table 'Piccolo III' 9-max Seat #7 is the button
+Seat 2: LulzSecRu ($2.46 in chips) 
+Seat 3: Kondratiy ($1.58 in chips) 
+Seat 4: pivovarchi ($0.77 in chips) 
+Seat 5: Ramellzee ($2.50 in chips) 
+Seat 6: Dorex2007 ($2.99 in chips) 
+Seat 7: eviece_108 ($3.48 in chips) 
+Seat 9: Dertual ($1.30 in chips) 
+Dertual: posts small blind $0.01
+LulzSecRu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Ac]
+Kondratiy: folds 
+pivovarchi: calls $0.02
+Ramellzee: folds 
+Dorex2007: folds 
+eviece_108: folds 
+Dertual: calls $0.01
+P.V.S.1905 leaves the table
+LulzSecRu: checks 
+*** FLOP *** [2h Kh 9h]
+Dertual: checks 
+LulzSecRu: checks 
+pivovarchi: checks 
+*** TURN *** [2h Kh 9h] [4d]
+Dertual: bets $0.06
+LulzSecRu: folds 
+pivovarchi: folds 
+Uncalled bet ($0.06) returned to Dertual
+Dertual collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [2h Kh 9h 4d]
+Seat 2: LulzSecRu (big blind) folded on the Turn
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: pivovarchi folded on the Turn
+Seat 5: Ramellzee folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 (button) folded before Flop (didn't bet)
+Seat 9: Dertual (small blind) collected ($0.06)
+
+
+
+PokerStars Hand #224532270624:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:42:25 PT [2021/03/06 16:42:25 ET]
+Table 'Piccolo III' 9-max Seat #9 is the button
+Seat 2: LulzSecRu ($2.44 in chips) 
+Seat 3: Kondratiy ($1.58 in chips) 
+Seat 4: pivovarchi ($0.75 in chips) 
+Seat 5: Ramellzee ($2.50 in chips) 
+Seat 6: Dorex2007 ($2.99 in chips) 
+Seat 7: eviece_108 ($3.48 in chips) 
+Seat 9: Dertual ($1.34 in chips) 
+LulzSecRu: posts small blind $0.01
+Kondratiy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 2h]
+pivovarchi: calls $0.02
+Ramellzee has timed out
+Ramellzee: folds 
+Dorex2007: calls $0.02
+eviece_108: folds 
+Dertual has timed out
+Dertual: folds 
+LulzSecRu: folds 
+Kondratiy: checks 
+*** FLOP *** [3c 5h 5s]
+Kondratiy: checks 
+pivovarchi: bets $0.04
+Dorex2007: raises $0.06 to $0.10
+Kondratiy: folds 
+pivovarchi: calls $0.06
+*** TURN *** [3c 5h 5s] [Qc]
+pivovarchi: checks 
+Dorex2007: checks 
+*** RIVER *** [3c 5h 5s Qc] [Jh]
+pivovarchi: checks 
+Dorex2007: bets $0.20
+pivovarchi: folds 
+Uncalled bet ($0.20) returned to Dorex2007
+Dorex2007 collected $0.26 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [3c 5h 5s Qc Jh]
+Seat 2: LulzSecRu (small blind) folded before Flop
+Seat 3: Kondratiy (big blind) folded on the Flop
+Seat 4: pivovarchi folded on the River
+Seat 5: Ramellzee folded before Flop (didn't bet)
+Seat 6: Dorex2007 collected ($0.26)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 9: Dertual (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224532323881:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:43:39 PT [2021/03/06 16:43:39 ET]
+Table 'Piccolo III' 9-max Seat #2 is the button
+Seat 2: LulzSecRu ($2.43 in chips) 
+Seat 3: Kondratiy ($1.56 in chips) 
+Seat 4: pivovarchi ($0.63 in chips) 
+Seat 5: Ramellzee ($2.50 in chips) 
+Seat 6: Dorex2007 ($3.13 in chips) 
+Seat 7: eviece_108 ($3.48 in chips) 
+Seat 9: Dertual ($1.34 in chips) 
+Kondratiy: posts small blind $0.01
+pivovarchi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 8h]
+Ramellzee: folds 
+Dorex2007: folds 
+eviece_108: raises $0.02 to $0.04
+Dertual has timed out
+Dertual: folds 
+LulzSecRu: folds 
+Kondratiy: raises $0.04 to $0.08
+pivovarchi: calls $0.06
+eviece_108: calls $0.04
+*** FLOP *** [4c As Th]
+Kondratiy: bets $0.08
+pivovarchi: folds 
+eviece_108: folds 
+Uncalled bet ($0.08) returned to Kondratiy
+Kondratiy collected $0.23 from pot
+Kondratiy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [4c As Th]
+Seat 2: LulzSecRu (button) folded before Flop (didn't bet)
+Seat 3: Kondratiy (small blind) collected ($0.23)
+Seat 4: pivovarchi (big blind) folded on the Flop
+Seat 5: Ramellzee folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded on the Flop
+Seat 9: Dertual folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224532360423:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:44:30 PT [2021/03/06 16:44:30 ET]
+Table 'Piccolo III' 9-max Seat #3 is the button
+Seat 2: LulzSecRu ($2.43 in chips) 
+Seat 3: Kondratiy ($1.71 in chips) 
+Seat 4: pivovarchi ($0.55 in chips) 
+Seat 5: Ramellzee ($2.50 in chips) 
+Seat 6: Dorex2007 ($3.13 in chips) 
+Seat 7: eviece_108 ($3.40 in chips) 
+Seat 9: Dertual ($1.34 in chips) 
+pivovarchi: posts small blind $0.01
+Ramellzee: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Td]
+Dorex2007: folds 
+eviece_108: folds 
+Dertual has timed out
+Dertual: folds 
+LulzSecRu: folds 
+Kondratiy: folds 
+pivovarchi: raises $0.04 to $0.06
+Ramellzee: calls $0.04
+*** FLOP *** [7d 6s 5s]
+pivovarchi: bets $0.06
+Ramellzee: calls $0.06
+*** TURN *** [7d 6s 5s] [8s]
+pivovarchi: bets $0.12
+Ramellzee: raises $0.24 to $0.36
+pivovarchi: raises $0.07 to $0.43 and is all-in
+Ramellzee: calls $0.07
+*** RIVER *** [7d 6s 5s 8s] [4d]
+*** SHOW DOWN ***
+pivovarchi: shows [Qs Ts] (a flush, Queen high)
+Ramellzee: shows [Tc 9s] (a straight, Six to Ten)
+pivovarchi collected $1.06 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.04 
+Board [7d 6s 5s 8s 4d]
+Seat 2: LulzSecRu folded before Flop (didn't bet)
+Seat 3: Kondratiy (button) folded before Flop (didn't bet)
+Seat 4: pivovarchi (small blind) showed [Qs Ts] and won ($1.06) with a flush, Queen high
+Seat 5: Ramellzee (big blind) showed [Tc 9s] and lost with a straight, Six to Ten
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 9: Dertual folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224532411578:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:45:40 PT [2021/03/06 16:45:40 ET]
+Table 'Piccolo III' 9-max Seat #4 is the button
+Seat 2: LulzSecRu ($2.43 in chips) 
+Seat 3: Kondratiy ($1.71 in chips) 
+Seat 4: pivovarchi ($1.06 in chips) 
+Seat 5: Ramellzee ($1.95 in chips) 
+Seat 6: Dorex2007 ($3.13 in chips) 
+Seat 7: eviece_108 ($3.40 in chips) 
+Seat 9: Dertual ($1.34 in chips) 
+Ramellzee: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 2s]
+eviece_108: folds 
+Dertual: raises $0.02 to $0.04
+LulzSecRu: calls $0.04
+Kondratiy: folds 
+pivovarchi: calls $0.04
+Ramellzee: folds 
+Dorex2007: calls $0.02
+*** FLOP *** [6c 2c 5s]
+Dorex2007: checks 
+Dertual: checks 
+LulzSecRu: bets $0.08
+pivovarchi: folds 
+Dorex2007: folds 
+Dertual: calls $0.08
+*** TURN *** [6c 2c 5s] [6h]
+Dertual: checks 
+LulzSecRu: checks 
+*** RIVER *** [6c 2c 5s 6h] [2h]
+Dertual: bets $0.16
+LulzSecRu: folds 
+Uncalled bet ($0.16) returned to Dertual
+Dertual collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [6c 2c 5s 6h 2h]
+Seat 2: LulzSecRu folded on the River
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: pivovarchi (button) folded on the Flop
+Seat 5: Ramellzee (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded on the Flop
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 9: Dertual collected ($0.32)
+
+
+
+PokerStars Hand #224532468072:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:46:50 PT [2021/03/06 16:46:50 ET]
+Table 'Piccolo III' 9-max Seat #5 is the button
+Seat 2: LulzSecRu ($2.31 in chips) 
+Seat 3: Kondratiy ($1.71 in chips) 
+Seat 4: pivovarchi ($1.02 in chips) 
+Seat 5: Ramellzee ($1.94 in chips) 
+Seat 6: Dorex2007 ($3.09 in chips) 
+Seat 7: eviece_108 ($3.40 in chips) 
+Seat 9: Dertual ($1.54 in chips) 
+Dorex2007: posts small blind $0.01
+eviece_108: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 8h]
+Dertual: raises $0.06 to $0.08
+LulzSecRu: calls $0.08
+Kondratiy: folds 
+pivovarchi: calls $0.08
+Ramellzee: folds 
+Dorex2007: folds 
+eviece_108: folds 
+*** FLOP *** [2c Qd Ts]
+Dertual: bets $0.12
+LulzSecRu: calls $0.12
+pivovarchi: folds 
+*** TURN *** [2c Qd Ts] [5d]
+Dertual: checks 
+LulzSecRu: bets $0.18
+Dertual: folds 
+Uncalled bet ($0.18) returned to LulzSecRu
+LulzSecRu collected $0.49 from pot
+LulzSecRu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [2c Qd Ts 5d]
+Seat 2: LulzSecRu collected ($0.49)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: pivovarchi folded on the Flop
+Seat 5: Ramellzee (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: eviece_108 (big blind) folded before Flop
+Seat 9: Dertual folded on the Turn
+
+
+
+PokerStars Hand #224532614505:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:50:08 PT [2021/03/06 16:50:08 ET]
+Table 'Piccolo III' 9-max Seat #3 is the button
+Seat 1: DenyLi ($2 in chips) 
+Seat 2: LulzSecRu ($2.76 in chips) 
+Seat 3: Kondratiy ($1.64 in chips) 
+Seat 4: pivovarchi ($0.91 in chips) 
+Seat 5: Ramellzee ($1.94 in chips) 
+Seat 6: Dorex2007 ($3.08 in chips) 
+Seat 7: eviece_108 ($3.32 in chips) 
+Seat 9: Dertual ($1.33 in chips) 
+pivovarchi: posts small blind $0.01
+Ramellzee: posts big blind $0.02
+marko2401: sits out 
+DenyLi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 3h]
+Dorex2007: folds 
+eviece_108: folds 
+Dertual: raises $0.04 to $0.06
+DenyLi: folds 
+LulzSecRu: raises $0.14 to $0.20
+Kondratiy: folds 
+pivovarchi: calls $0.19
+Ramellzee: folds 
+Dertual: folds 
+*** FLOP *** [7h 5h 5c]
+pivovarchi: checks 
+LulzSecRu: bets $0.20
+pivovarchi: folds 
+Uncalled bet ($0.20) returned to LulzSecRu
+LulzSecRu collected $0.48 from pot
+LulzSecRu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [7h 5h 5c]
+Seat 1: DenyLi folded before Flop (didn't bet)
+Seat 2: LulzSecRu collected ($0.48)
+Seat 3: Kondratiy (button) folded before Flop (didn't bet)
+Seat 4: pivovarchi (small blind) folded on the Flop
+Seat 5: Ramellzee (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 9: Dertual folded before Flop
+
+
+
+PokerStars Hand #224532670160:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:51:13 PT [2021/03/06 16:51:13 ET]
+Table 'Piccolo III' 9-max Seat #4 is the button
+Seat 1: DenyLi ($1.98 in chips) 
+Seat 2: LulzSecRu ($3.04 in chips) 
+Seat 3: Kondratiy ($1.64 in chips) 
+Seat 4: pivovarchi ($0.71 in chips) 
+Seat 5: Ramellzee ($1.92 in chips) 
+Seat 6: Dorex2007 ($3.08 in chips) 
+Seat 7: eviece_108 ($3.32 in chips) 
+Seat 9: Dertual ($1.27 in chips) 
+Ramellzee: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+marko2401: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Qc]
+eviece_108: folds 
+Dertual: folds 
+DenyLi: folds 
+LulzSecRu: folds 
+Kondratiy: raises $0.04 to $0.06
+pivovarchi: raises $0.04 to $0.10
+Ramellzee: folds 
+Dorex2007: folds 
+Kondratiy: calls $0.04
+*** FLOP *** [9s Tc Ac]
+Kondratiy: checks 
+pivovarchi: checks 
+*** TURN *** [9s Tc Ac] [7s]
+Kondratiy: bets $0.11
+pivovarchi: calls $0.11
+*** RIVER *** [9s Tc Ac 7s] [4s]
+Kondratiy: bets $0.10
+pivovarchi: calls $0.10
+*** SHOW DOWN ***
+Kondratiy: shows [Ks Ah] (a pair of Aces)
+pivovarchi: mucks hand 
+Kondratiy collected $0.63 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [9s Tc Ac 7s 4s]
+Seat 1: DenyLi folded before Flop (didn't bet)
+Seat 2: LulzSecRu folded before Flop (didn't bet)
+Seat 3: Kondratiy showed [Ks Ah] and won ($0.63) with a pair of Aces
+Seat 4: pivovarchi (button) mucked [Kc Ts]
+Seat 5: Ramellzee (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 9: Dertual folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224532707455:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:52:04 PT [2021/03/06 16:52:04 ET]
+Table 'Piccolo III' 9-max Seat #5 is the button
+Seat 1: DenyLi ($1.98 in chips) 
+Seat 2: LulzSecRu ($3.04 in chips) 
+Seat 3: Kondratiy ($1.96 in chips) 
+Seat 4: pivovarchi ($0.40 in chips) 
+Seat 5: Ramellzee ($1.91 in chips) 
+Seat 6: Dorex2007 ($3.06 in chips) 
+Seat 7: eviece_108 ($3.32 in chips) 
+Seat 9: Dertual ($1.27 in chips) 
+Dorex2007: posts small blind $0.01
+eviece_108: posts big blind $0.02
+marko2401: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Qd]
+Dertual has timed out
+Dertual: folds 
+DenyLi: folds 
+LulzSecRu: folds 
+Kondratiy: raises $0.04 to $0.06
+pivovarchi: calls $0.06
+Ramellzee: calls $0.06
+Dorex2007: folds 
+eviece_108: folds 
+*** FLOP *** [5c Ts 8h]
+Kondratiy: bets $0.10
+pivovarchi: folds 
+Ramellzee: calls $0.10
+*** TURN *** [5c Ts 8h] [Ah]
+Kondratiy: bets $0.08
+Ramellzee: calls $0.08
+*** RIVER *** [5c Ts 8h Ah] [Kd]
+Kondratiy: bets $0.08
+Ramellzee: raises $0.12 to $0.20
+Kondratiy: folds 
+Uncalled bet ($0.12) returned to Ramellzee
+Ramellzee collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [5c Ts 8h Ah Kd]
+Seat 1: DenyLi folded before Flop (didn't bet)
+Seat 2: LulzSecRu folded before Flop (didn't bet)
+Seat 3: Kondratiy folded on the River
+Seat 4: pivovarchi folded on the Flop
+Seat 5: Ramellzee (button) collected ($0.70)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: eviece_108 (big blind) folded before Flop
+Seat 9: Dertual folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224532770395:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:53:27 PT [2021/03/06 16:53:27 ET]
+Table 'Piccolo III' 9-max Seat #6 is the button
+Seat 1: DenyLi ($1.98 in chips) 
+Seat 2: LulzSecRu ($3.04 in chips) 
+Seat 3: Kondratiy ($1.64 in chips) 
+Seat 4: pivovarchi ($0.34 in chips) 
+Seat 5: Ramellzee ($2.29 in chips) 
+Seat 6: Dorex2007 ($3.05 in chips) 
+Seat 7: eviece_108 ($3.30 in chips) 
+Seat 8: marko2401 ($1.60 in chips) 
+Seat 9: Dertual ($1.27 in chips) 
+eviece_108: posts small blind $0.01
+marko2401: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 2h]
+Dertual has timed out
+Dertual: folds 
+DenyLi: folds 
+LulzSecRu: folds 
+Kondratiy: folds 
+pivovarchi: calls $0.02
+Ramellzee: raises $0.06 to $0.08
+Dorex2007: folds 
+eviece_108: folds 
+marko2401: folds 
+pivovarchi: folds 
+Uncalled bet ($0.06) returned to Ramellzee
+Ramellzee collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: DenyLi folded before Flop (didn't bet)
+Seat 2: LulzSecRu folded before Flop (didn't bet)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: pivovarchi folded before Flop
+Seat 5: Ramellzee collected ($0.07)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: eviece_108 (small blind) folded before Flop
+Seat 8: marko2401 (big blind) folded before Flop
+Seat 9: Dertual folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224532800154:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:54:07 PT [2021/03/06 16:54:07 ET]
+Table 'Piccolo III' 9-max Seat #7 is the button
+Seat 1: DenyLi ($1.98 in chips) 
+Seat 2: LulzSecRu ($3.04 in chips) 
+Seat 3: Kondratiy ($1.64 in chips) 
+Seat 4: pivovarchi ($0.32 in chips) 
+Seat 5: Ramellzee ($2.34 in chips) 
+Seat 6: Dorex2007 ($3.05 in chips) 
+Seat 7: eviece_108 ($3.29 in chips) 
+Seat 8: marko2401 ($1.58 in chips) 
+Seat 9: Dertual ($1.27 in chips) 
+marko2401: posts small blind $0.01
+Dertual: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 5s]
+DenyLi: folds 
+LulzSecRu: folds 
+Kondratiy: raises $0.02 to $0.04
+pivovarchi: calls $0.04
+Ramellzee: calls $0.04
+Dorex2007: folds 
+eviece_108: folds 
+marko2401: calls $0.03
+Dertual: folds 
+*** FLOP *** [6h 2h Kh]
+marko2401: checks 
+Kondratiy: checks 
+pivovarchi: bets $0.17
+Ramellzee: folds 
+marko2401: folds 
+Kondratiy: raises $0.17 to $0.34
+pivovarchi: calls $0.11 and is all-in
+Uncalled bet ($0.06) returned to Kondratiy
+*** TURN *** [6h 2h Kh] [Jd]
+*** RIVER *** [6h 2h Kh Jd] [5d]
+*** SHOW DOWN ***
+Kondratiy: shows [Th Ah] (a flush, Ace high)
+pivovarchi: shows [Kd 2d] (two pair, Kings and Deuces)
+Kondratiy collected $0.71 from pot
+pivovarchi cashed out the hand for $0.12
+*** SUMMARY ***
+Total pot $0.74 | Rake $0.03 
+Board [6h 2h Kh Jd 5d]
+Seat 1: DenyLi folded before Flop (didn't bet)
+Seat 2: LulzSecRu folded before Flop (didn't bet)
+Seat 3: Kondratiy showed [Th Ah] and won ($0.71) with a flush, Ace high
+Seat 4: pivovarchi showed [Kd 2d] and lost with two pair, Kings and Deuces (cashed out).
+Seat 5: Ramellzee folded on the Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 (button) folded before Flop (didn't bet)
+Seat 8: marko2401 (small blind) folded on the Flop
+Seat 9: Dertual (big blind) folded before Flop
+
+
+
+PokerStars Hand #224532855283:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:55:33 PT [2021/03/06 16:55:33 ET]
+Table 'Piccolo III' 9-max Seat #8 is the button
+Seat 1: DenyLi ($1.98 in chips) 
+Seat 2: LulzSecRu ($3.04 in chips) 
+Seat 3: Kondratiy ($2.03 in chips) 
+Seat 4: pivovarchi ($0.12 in chips) 
+Seat 5: Ramellzee ($2.30 in chips) 
+Seat 6: Dorex2007 ($3.05 in chips) 
+Seat 7: eviece_108 ($3.29 in chips) 
+Seat 8: marko2401 ($1.54 in chips) 
+Seat 9: Dertual ($1.25 in chips) 
+Dertual: posts small blind $0.01
+DenyLi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 5h]
+LulzSecRu: folds 
+Kondratiy: folds 
+pivovarchi: folds 
+Ramellzee: folds 
+Dorex2007: folds 
+eviece_108: calls $0.02
+marko2401: folds 
+Dertual: raises $0.04 to $0.06
+DenyLi: folds 
+eviece_108: folds 
+Uncalled bet ($0.04) returned to Dertual
+Dertual collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: DenyLi (big blind) folded before Flop
+Seat 2: LulzSecRu folded before Flop (didn't bet)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: pivovarchi folded before Flop (didn't bet)
+Seat 5: Ramellzee folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop
+Seat 8: marko2401 (button) folded before Flop (didn't bet)
+Seat 9: Dertual (small blind) collected ($0.06)
+
+
+
+PokerStars Hand #224532869439:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:56:02 PT [2021/03/06 16:56:02 ET]
+Table 'Piccolo III' 9-max Seat #9 is the button
+Seat 1: DenyLi ($1.96 in chips) 
+Seat 2: LulzSecRu ($3.04 in chips) 
+Seat 3: Kondratiy ($2.03 in chips) 
+Seat 4: pivovarchi ($0.12 in chips) 
+Seat 5: Ramellzee ($2.30 in chips) 
+Seat 6: Dorex2007 ($3.05 in chips) 
+Seat 7: eviece_108 ($3.27 in chips) 
+Seat 8: marko2401 ($1.54 in chips) 
+Seat 9: Dertual ($1.29 in chips) 
+DenyLi: posts small blind $0.01
+LulzSecRu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 2h]
+Kondratiy: folds 
+pivovarchi: raises $0.10 to $0.12 and is all-in
+Ramellzee: folds 
+Dorex2007: folds 
+eviece_108: calls $0.12
+marko2401: folds 
+Dertual: folds 
+DenyLi: folds 
+LulzSecRu: folds 
+*** FLOP *** [5s Qh Kh]
+*** TURN *** [5s Qh Kh] [5d]
+*** RIVER *** [5s Qh Kh 5d] [6s]
+*** SHOW DOWN ***
+pivovarchi: shows [Ah 7d] (a pair of Fives)
+eviece_108: shows [Jh As] (a pair of Fives)
+pivovarchi collected $0.13 from pot
+eviece_108 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [5s Qh Kh 5d 6s]
+Seat 1: DenyLi (small blind) folded before Flop
+Seat 2: LulzSecRu (big blind) folded before Flop
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: pivovarchi showed [Ah 7d] and won ($0.13) with a pair of Fives
+Seat 5: Ramellzee folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 showed [Jh As] and won ($0.13) with a pair of Fives
+Seat 8: marko2401 folded before Flop (didn't bet)
+Seat 9: Dertual (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224532892012:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:56:47 PT [2021/03/06 16:56:47 ET]
+Table 'Piccolo III' 9-max Seat #1 is the button
+Seat 1: DenyLi ($1.95 in chips) 
+Seat 2: LulzSecRu ($3.02 in chips) 
+Seat 3: Kondratiy ($2.03 in chips) 
+Seat 4: pivovarchi ($0.13 in chips) 
+Seat 5: Ramellzee ($2.30 in chips) 
+Seat 6: Dorex2007 ($3.05 in chips) 
+Seat 7: eviece_108 ($3.28 in chips) 
+Seat 8: marko2401 ($1.54 in chips) 
+Seat 9: Dertual ($1.29 in chips) 
+LulzSecRu: posts small blind $0.01
+Kondratiy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 4h]
+pivovarchi: folds 
+Ramellzee: folds 
+Dorex2007: folds 
+eviece_108: folds 
+marko2401: folds 
+Dertual: raises $0.04 to $0.06
+DenyLi: folds 
+LulzSecRu: calls $0.05
+Kondratiy: folds 
+*** FLOP *** [7h Qs 9c]
+LulzSecRu: checks 
+Dertual: bets $0.06
+LulzSecRu: calls $0.06
+*** TURN *** [7h Qs 9c] [Kh]
+LulzSecRu: checks 
+Dertual: bets $0.12
+LulzSecRu: calls $0.12
+*** RIVER *** [7h Qs 9c Kh] [6c]
+LulzSecRu: checks 
+Dertual: bets $0.48
+LulzSecRu: calls $0.48
+*** SHOW DOWN ***
+Dertual: shows [Tc Jd] (a straight, Nine to King)
+LulzSecRu: mucks hand 
+Dertual collected $1.41 from pot
+*** SUMMARY ***
+Total pot $1.46 | Rake $0.05 
+Board [7h Qs 9c Kh 6c]
+Seat 1: DenyLi (button) folded before Flop (didn't bet)
+Seat 2: LulzSecRu (small blind) mucked [Js Kd]
+Seat 3: Kondratiy (big blind) folded before Flop
+Seat 4: pivovarchi folded before Flop (didn't bet)
+Seat 5: Ramellzee folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: marko2401 folded before Flop (didn't bet)
+Seat 9: Dertual showed [Tc Jd] and won ($1.41) with a straight, Nine to King
+
+
+
+PokerStars Hand #224532927611:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:57:59 PT [2021/03/06 16:57:59 ET]
+Table 'Piccolo III' 9-max Seat #2 is the button
+Seat 1: DenyLi ($1.95 in chips) 
+Seat 2: LulzSecRu ($2.30 in chips) 
+Seat 3: Kondratiy ($2.01 in chips) 
+Seat 4: pivovarchi ($0.13 in chips) 
+Seat 5: Ramellzee ($2.30 in chips) 
+Seat 6: Dorex2007 ($3.05 in chips) 
+Seat 7: eviece_108 ($3.28 in chips) 
+Seat 8: marko2401 ($1.54 in chips) 
+Seat 9: Dertual ($1.98 in chips) 
+Kondratiy: posts small blind $0.01
+pivovarchi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Qd]
+Ramellzee: folds 
+Dorex2007: folds 
+eviece_108: folds 
+marko2401: folds 
+Dertual: raises $0.04 to $0.06
+DenyLi: calls $0.06
+LulzSecRu: folds 
+LulzSecRu leaves the table
+Kondratiy: folds 
+pivovarchi: raises $0.07 to $0.13 and is all-in
+Dertual: folds 
+Red Revell joins the table at seat #2 
+DenyLi: calls $0.07
+*** FLOP *** [4h Jd 8d]
+*** TURN *** [4h Jd 8d] [8c]
+*** RIVER *** [4h Jd 8d 8c] [3h]
+*** SHOW DOWN ***
+pivovarchi: shows [Tc Qh] (a pair of Eights)
+DenyLi: shows [Ts Th] (two pair, Tens and Eights)
+DenyLi collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [4h Jd 8d 8c 3h]
+Seat 1: DenyLi showed [Ts Th] and won ($0.32) with two pair, Tens and Eights
+Seat 2: LulzSecRu (button) folded before Flop (didn't bet)
+Seat 3: Kondratiy (small blind) folded before Flop
+Seat 4: pivovarchi (big blind) showed [Tc Qh] and lost with a pair of Eights
+Seat 5: Ramellzee folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: marko2401 folded before Flop (didn't bet)
+Seat 9: Dertual folded before Flop
+
+
+
+PokerStars Hand #224532956327:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:58:45 PT [2021/03/06 16:58:45 ET]
+Table 'Piccolo III' 9-max Seat #3 is the button
+Seat 1: DenyLi ($2.14 in chips) 
+Seat 2: Red Revell ($1.60 in chips) 
+Seat 3: Kondratiy ($2 in chips) 
+Seat 5: Ramellzee ($2.30 in chips) 
+Seat 6: Dorex2007 ($3.05 in chips) 
+Seat 7: eviece_108 ($3.28 in chips) 
+Seat 8: marko2401 ($1.54 in chips) 
+Seat 9: Dertual ($1.92 in chips) 
+Ramellzee: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Red Revell: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 2s]
+eviece_108: folds 
+marko2401: folds 
+Dertual: raises $0.04 to $0.06
+pivovarchi leaves the table
+DenyLi: folds 
+Red Revell: calls $0.04
+Kondratiy: folds 
+Ramellzee: folds 
+Dorex2007: calls $0.04
+*** FLOP *** [7h 5h 5c]
+Dorex2007: bets $0.18
+Dertual: folds 
+Red Revell: calls $0.18
+*** TURN *** [7h 5h 5c] [8d]
+Dorex2007: bets $0.84
+Red Revell: calls $0.84
+*** RIVER *** [7h 5h 5c 8d] [As]
+Dorex2007: checks 
+Red Revell: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [2d 2s] (two pair, Fives and Deuces)
+Red Revell: shows [7c 6s] (two pair, Sevens and Fives)
+Red Revell collected $2.15 from pot
+*** SUMMARY ***
+Total pot $2.23 | Rake $0.08 
+Board [7h 5h 5c 8d As]
+Seat 1: DenyLi folded before Flop (didn't bet)
+Seat 2: Red Revell showed [7c 6s] and won ($2.15) with two pair, Sevens and Fives
+Seat 3: Kondratiy (button) folded before Flop (didn't bet)
+Seat 5: Ramellzee (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) showed [2d 2s] and lost with two pair, Fives and Deuces
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: marko2401 folded before Flop (didn't bet)
+Seat 9: Dertual folded on the Flop
+
+
+
+PokerStars Hand #224532985448:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 13:59:43 PT [2021/03/06 16:59:43 ET]
+Table 'Piccolo III' 9-max Seat #5 is the button
+Seat 1: DenyLi ($2.14 in chips) 
+Seat 2: Red Revell ($2.67 in chips) 
+Seat 3: Kondratiy ($2 in chips) 
+Seat 5: Ramellzee ($2.29 in chips) 
+Seat 6: Dorex2007 ($1.97 in chips) 
+Seat 7: eviece_108 ($3.28 in chips) 
+Seat 8: marko2401 ($1.54 in chips) 
+Seat 9: Dertual ($1.86 in chips) 
+Dorex2007: posts small blind $0.01
+eviece_108: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Js]
+marko2401: folds 
+Dertual: raises $0.04 to $0.06
+DenyLi: folds 
+Red Revell: folds 
+Kondratiy: folds 
+vanes97 joins the table at seat #4 
+Ramellzee: folds 
+Dorex2007: folds 
+eviece_108: folds 
+Uncalled bet ($0.04) returned to Dertual
+Dertual collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: DenyLi folded before Flop (didn't bet)
+Seat 2: Red Revell folded before Flop (didn't bet)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 5: Ramellzee (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: eviece_108 (big blind) folded before Flop
+Seat 8: marko2401 folded before Flop (didn't bet)
+Seat 9: Dertual collected ($0.05)
+
+
+
+PokerStars Hand #224533001075:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 14:00:13 PT [2021/03/06 17:00:13 ET]
+Table 'Piccolo III' 9-max Seat #6 is the button
+Seat 1: DenyLi ($2.14 in chips) 
+Seat 2: Red Revell ($2.67 in chips) 
+Seat 3: Kondratiy ($2 in chips) 
+Seat 5: Ramellzee ($2.29 in chips) 
+Seat 6: Dorex2007 ($1.96 in chips) 
+Seat 7: eviece_108 ($3.26 in chips) 
+Seat 8: marko2401 ($1.54 in chips) 
+Seat 9: Dertual ($1.89 in chips) 
+eviece_108: posts small blind $0.01
+marko2401: posts big blind $0.02
+vanes97: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 4d]
+Dertual: folds 
+DenyLi: folds 
+Red Revell: calls $0.02
+vanes97 leaves the table
+Kondratiy: raises $0.02 to $0.04
+Ramellzee has timed out
+Ramellzee: folds 
+Dorex2007: folds 
+eviece_108: folds 
+marko2401: folds 
+Red Revell: calls $0.02
+*** FLOP *** [8s 9h Jc]
+Red Revell: checks 
+Kondratiy: bets $0.05
+Dertual leaves the table
+Red Revell: calls $0.05
+*** TURN *** [8s 9h Jc] [9d]
+Red Revell: checks 
+Kondratiy: checks 
+*** RIVER *** [8s 9h Jc 9d] [6c]
+Red Revell: checks 
+Kondratiy: bets $0.10
+Red Revell: folds 
+Uncalled bet ($0.10) returned to Kondratiy
+Kondratiy collected $0.20 from pot
+Kondratiy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [8s 9h Jc 9d 6c]
+Seat 1: DenyLi folded before Flop (didn't bet)
+Seat 2: Red Revell folded on the River
+Seat 3: Kondratiy collected ($0.20)
+Seat 5: Ramellzee folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: eviece_108 (small blind) folded before Flop
+Seat 8: marko2401 (big blind) folded before Flop
+Seat 9: Dertual folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224533041458:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 14:01:20 PT [2021/03/06 17:01:20 ET]
+Table 'Piccolo III' 9-max Seat #7 is the button
+Seat 1: DenyLi ($2.14 in chips) 
+Seat 2: Red Revell ($2.58 in chips) 
+Seat 3: Kondratiy ($2.11 in chips) 
+Seat 5: Ramellzee ($2.29 in chips) 
+Seat 6: Dorex2007 ($1.96 in chips) 
+Seat 7: eviece_108 ($3.25 in chips) 
+Seat 8: marko2401 ($1.52 in chips) 
+marko2401: posts small blind $0.01
+DenyLi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 3d]
+Red Revell: calls $0.02
+Kondratiy: raises $0.02 to $0.04
+Ramellzee: calls $0.04
+Dorex2007: folds 
+eviece_108: folds 
+marko2401: folds 
+DenyLi: folds 
+Red Revell: calls $0.02
+*** FLOP *** [Jd Js As]
+Red Revell: bets $0.08
+Kondratiy: folds 
+Ramellzee: folds 
+Uncalled bet ($0.08) returned to Red Revell
+Red Revell collected $0.14 from pot
+Red Revell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Jd Js As]
+Seat 1: DenyLi (big blind) folded before Flop
+Seat 2: Red Revell collected ($0.14)
+Seat 3: Kondratiy folded on the Flop
+Seat 5: Ramellzee folded on the Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 (button) folded before Flop (didn't bet)
+Seat 8: marko2401 (small blind) folded before Flop
+
+
+
+PokerStars Hand #224533078448:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 14:02:14 PT [2021/03/06 17:02:14 ET]
+Table 'Piccolo III' 9-max Seat #8 is the button
+Seat 1: DenyLi ($2.12 in chips) 
+Seat 2: Red Revell ($2.68 in chips) 
+Seat 3: Kondratiy ($2.07 in chips) 
+Seat 5: Ramellzee ($2.25 in chips) 
+Seat 6: Dorex2007 ($1.96 in chips) 
+Seat 7: eviece_108 ($3.25 in chips) 
+Seat 8: marko2401 ($1.51 in chips) 
+DenyLi: posts small blind $0.01
+Red Revell: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 9h]
+Kondratiy: raises $0.02 to $0.04
+Ramellzee: folds 
+Dorex2007: folds 
+eviece_108: folds 
+marko2401: folds 
+DenyLi: folds 
+Red Revell: folds 
+Uncalled bet ($0.02) returned to Kondratiy
+Kondratiy collected $0.05 from pot
+Kondratiy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: DenyLi (small blind) folded before Flop
+Seat 2: Red Revell (big blind) folded before Flop
+Seat 3: Kondratiy collected ($0.05)
+Seat 5: Ramellzee folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: marko2401 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224533101821:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 14:02:46 PT [2021/03/06 17:02:46 ET]
+Table 'Piccolo III' 9-max Seat #1 is the button
+Seat 1: DenyLi ($2.11 in chips) 
+Seat 2: Red Revell ($2.66 in chips) 
+Seat 3: Kondratiy ($2.10 in chips) 
+Seat 5: Ramellzee ($2.25 in chips) 
+Seat 6: Dorex2007 ($1.96 in chips) 
+Seat 7: eviece_108 ($3.25 in chips) 
+Seat 8: marko2401 ($1.51 in chips) 
+Red Revell: posts small blind $0.01
+Kondratiy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 4d]
+Ramellzee: calls $0.02
+Dorex2007: folds 
+eviece_108: calls $0.02
+marko2401: folds 
+DenyLi: folds 
+Red Revell: folds 
+Kondratiy: checks 
+*** FLOP *** [2h Kd 7h]
+Kondratiy: checks 
+Ramellzee: checks 
+eviece_108: checks 
+*** TURN *** [2h Kd 7h] [3h]
+Kondratiy: checks 
+Ramellzee: checks 
+eviece_108: checks 
+*** RIVER *** [2h Kd 7h 3h] [Th]
+Kondratiy: checks 
+Ramellzee: checks 
+PurestAwesome joins the table at seat #9 
+eviece_108: bets $0.04
+Kondratiy: folds 
+PoxmeL77rus joins the table at seat #4 
+Ramellzee: folds 
+Uncalled bet ($0.04) returned to eviece_108
+eviece_108 collected $0.07 from pot
+eviece_108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [2h Kd 7h 3h Th]
+Seat 1: DenyLi (button) folded before Flop (didn't bet)
+Seat 2: Red Revell (small blind) folded before Flop
+Seat 3: Kondratiy (big blind) folded on the River
+Seat 5: Ramellzee folded on the River
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 collected ($0.07)
+Seat 8: marko2401 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224533163867:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 14:04:12 PT [2021/03/06 17:04:12 ET]
+Table 'Piccolo III' 9-max Seat #2 is the button
+Seat 1: DenyLi ($2.11 in chips) 
+Seat 2: Red Revell ($2.65 in chips) 
+Seat 3: Kondratiy ($2.08 in chips) 
+Seat 4: PoxmeL77rus ($0.80 in chips) 
+Seat 5: Ramellzee ($2.23 in chips) 
+Seat 6: Dorex2007 ($1.96 in chips) 
+Seat 7: eviece_108 ($3.30 in chips) 
+Seat 8: marko2401 ($1.51 in chips) 
+Kondratiy: posts small blind $0.01
+PoxmeL77rus: posts big blind $0.02
+PurestAwesome: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Qd]
+Ramellzee: calls $0.02
+Dorex2007: calls $0.02
+eviece_108: folds 
+marko2401: folds 
+DenyLi: folds 
+Red Revell: folds 
+Kondratiy: folds 
+PoxmeL77rus: checks 
+*** FLOP *** [Th Ks 8d]
+PoxmeL77rus: bets $0.02
+Ramellzee: calls $0.02
+Dorex2007: calls $0.02
+*** TURN *** [Th Ks 8d] [6h]
+PoxmeL77rus: bets $0.02
+Ramellzee: raises $0.20 to $0.22
+Dorex2007: folds 
+PoxmeL77rus: raises $0.54 to $0.76 and is all-in
+Ramellzee: calls $0.54
+*** RIVER *** [Th Ks 8d 6h] [9s]
+*** SHOW DOWN ***
+PoxmeL77rus: shows [Kh 5h] (a pair of Kings)
+Ramellzee: shows [8h 8c] (three of a kind, Eights)
+Ramellzee collected $1.59 from pot
+*** SUMMARY ***
+Total pot $1.65 | Rake $0.06 
+Board [Th Ks 8d 6h 9s]
+Seat 1: DenyLi folded before Flop (didn't bet)
+Seat 2: Red Revell (button) folded before Flop (didn't bet)
+Seat 3: Kondratiy (small blind) folded before Flop
+Seat 4: PoxmeL77rus (big blind) showed [Kh 5h] and lost with a pair of Kings
+Seat 5: Ramellzee showed [8h 8c] and won ($1.59) with three of a kind, Eights
+Seat 6: Dorex2007 folded on the Turn
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: marko2401 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224533206326:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 14:05:09 PT [2021/03/06 17:05:09 ET]
+Table 'Piccolo III' 9-max Seat #3 is the button
+Seat 1: DenyLi ($2.11 in chips) 
+Seat 2: Red Revell ($2.65 in chips) 
+Seat 3: Kondratiy ($2.07 in chips) 
+Seat 5: Ramellzee ($3.02 in chips) 
+Seat 6: Dorex2007 ($1.92 in chips) 
+Seat 7: eviece_108 ($3.30 in chips) 
+Seat 8: marko2401 ($1.51 in chips) 
+Ramellzee: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+PurestAwesome: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 3d]
+eviece_108: folds 
+PoxmeL77rus leaves the table
+marko2401: folds 
+DenyLi: folds 
+Red Revell: folds 
+Kondratiy: raises $0.02 to $0.04
+Ramellzee: folds 
+Dorex2007: calls $0.02
+*** FLOP *** [As 9s 6c]
+Dorex2007: checks 
+Kondratiy: bets $0.04
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to Kondratiy
+Kondratiy collected $0.09 from pot
+Kondratiy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [As 9s 6c]
+Seat 1: DenyLi folded before Flop (didn't bet)
+Seat 2: Red Revell folded before Flop (didn't bet)
+Seat 3: Kondratiy (button) collected ($0.09)
+Seat 5: Ramellzee (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded on the Flop
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: marko2401 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224533228810:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 14:05:40 PT [2021/03/06 17:05:40 ET]
+Table 'Piccolo III' 9-max Seat #5 is the button
+Seat 1: DenyLi ($2.11 in chips) 
+Seat 2: Red Revell ($2.65 in chips) 
+Seat 3: Kondratiy ($2.12 in chips) 
+Seat 5: Ramellzee ($3.01 in chips) 
+Seat 6: Dorex2007 ($1.88 in chips) 
+Seat 7: eviece_108 ($3.30 in chips) 
+Seat 8: marko2401 ($1.51 in chips) 
+Seat 9: PurestAwesome ($2 in chips) 
+Dorex2007: posts small blind $0.01
+eviece_108: posts big blind $0.02
+PurestAwesome: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 7c]
+marko2401: folds 
+PurestAwesome: checks 
+DenyLi: folds 
+Red Revell: folds 
+Kondratiy: folds 
+Ramellzee: raises $0.04 to $0.06
+Dorex2007: folds 
+eviece_108: calls $0.04
+PurestAwesome: calls $0.04
+*** FLOP *** [6s 5s 4c]
+eviece_108: checks 
+PurestAwesome: bets $0.16
+Ramellzee: calls $0.16
+MegasMeg5543 joins the table at seat #4 
+eviece_108: calls $0.16
+*** TURN *** [6s 5s 4c] [2d]
+eviece_108: checks 
+PurestAwesome: bets $0.50
+Ramellzee: raises $1.65 to $2.15
+eviece_108: folds 
+PurestAwesome: calls $1.28 and is all-in
+Uncalled bet ($0.37) returned to Ramellzee
+*** RIVER *** [6s 5s 4c 2d] [Ac]
+*** SHOW DOWN ***
+PurestAwesome: shows [5h 3s] (a straight, Deuce to Six)
+Ramellzee: shows [Qh Qd] (a pair of Queens)
+PurestAwesome collected $4.08 from pot
+*** SUMMARY ***
+Total pot $4.23 | Rake $0.15 
+Board [6s 5s 4c 2d Ac]
+Seat 1: DenyLi folded before Flop (didn't bet)
+Seat 2: Red Revell folded before Flop (didn't bet)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 5: Ramellzee (button) showed [Qh Qd] and lost with a pair of Queens
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: eviece_108 (big blind) folded on the Turn
+Seat 8: marko2401 folded before Flop (didn't bet)
+Seat 9: PurestAwesome showed [5h 3s] and won ($4.08) with a straight, Deuce to Six
+
+
+
+PokerStars Hand #224533290465:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 14:07:05 PT [2021/03/06 17:07:05 ET]
+Table 'Piccolo III' 9-max Seat #6 is the button
+Seat 1: DenyLi ($2.11 in chips) 
+Seat 2: Red Revell ($2.65 in chips) 
+Seat 3: Kondratiy ($2.12 in chips) 
+Seat 4: MegasMeg5543 ($0.80 in chips) 
+Seat 5: Ramellzee ($1.01 in chips) 
+Seat 6: Dorex2007 ($1.87 in chips) 
+Seat 7: eviece_108 ($3.08 in chips) 
+Seat 8: marko2401 ($1.51 in chips) 
+Seat 9: PurestAwesome ($4.08 in chips) 
+eviece_108: posts small blind $0.01
+marko2401: posts big blind $0.02
+MegasMeg5543: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 7s]
+PurestAwesome: folds 
+DenyLi: folds 
+Red Revell: folds 
+Kondratiy: folds 
+MegasMeg5543: checks 
+Ramellzee: raises $0.04 to $0.06
+Dorex2007: folds 
+eviece_108: folds 
+marko2401: folds 
+MegasMeg5543: calls $0.04
+*** FLOP *** [5c Jh Qc]
+MegasMeg5543: bets $0.08
+Ramellzee: calls $0.08
+*** TURN *** [5c Jh Qc] [8h]
+MegasMeg5543: bets $0.10
+Ramellzee: calls $0.10
+*** RIVER *** [5c Jh Qc 8h] [5d]
+MegasMeg5543: checks 
+Ramellzee: checks 
+*** SHOW DOWN ***
+MegasMeg5543: shows [7h 9d] (a pair of Fives)
+Ramellzee: shows [Ad Kd] (a pair of Fives - Ace kicker)
+Ramellzee collected $0.49 from pot
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [5c Jh Qc 8h 5d]
+Seat 1: DenyLi folded before Flop (didn't bet)
+Seat 2: Red Revell folded before Flop (didn't bet)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: MegasMeg5543 showed [7h 9d] and lost with a pair of Fives
+Seat 5: Ramellzee showed [Ad Kd] and won ($0.49) with a pair of Fives
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: eviece_108 (small blind) folded before Flop
+Seat 8: marko2401 (big blind) folded before Flop
+Seat 9: PurestAwesome folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224533323847:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 14:07:50 PT [2021/03/06 17:07:50 ET]
+Table 'Piccolo III' 9-max Seat #7 is the button
+Seat 1: DenyLi ($2.11 in chips) 
+Seat 2: Red Revell ($2.65 in chips) 
+Seat 3: Kondratiy ($2.12 in chips) 
+Seat 4: MegasMeg5543 ($0.56 in chips) 
+Seat 5: Ramellzee ($1.26 in chips) 
+Seat 6: Dorex2007 ($1.87 in chips) 
+Seat 7: eviece_108 ($3.07 in chips) 
+Seat 8: marko2401 ($1.49 in chips) 
+Seat 9: PurestAwesome ($4.08 in chips) 
+marko2401: posts small blind $0.01
+PurestAwesome: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Jd]
+DenyLi: folds 
+Red Revell: folds 
+Kondratiy: folds 
+MegasMeg5543: folds 
+Ramellzee: calls $0.02
+Dorex2007: calls $0.02
+eviece_108: calls $0.02
+marko2401: folds 
+PurestAwesome: checks 
+*** FLOP *** [Ad Kh 2s]
+PurestAwesome: checks 
+Ramellzee: checks 
+Dorex2007: checks 
+eviece_108: checks 
+*** TURN *** [Ad Kh 2s] [Qs]
+PurestAwesome: checks 
+Ramellzee: checks 
+Dorex2007: checks 
+eviece_108: checks 
+*** RIVER *** [Ad Kh 2s Qs] [5s]
+PurestAwesome: checks 
+Ramellzee: checks 
+Dorex2007: bets $0.05
+eviece_108: folds 
+PurestAwesome: calls $0.05
+Ramellzee: folds 
+*** SHOW DOWN ***
+Dorex2007: shows [7d Jd] (high card Ace)
+PurestAwesome: shows [Qd 3s] (a pair of Queens)
+PurestAwesome collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Ad Kh 2s Qs 5s]
+Seat 1: DenyLi folded before Flop (didn't bet)
+Seat 2: Red Revell folded before Flop (didn't bet)
+Seat 3: Kondratiy folded before Flop (didn't bet)
+Seat 4: MegasMeg5543 folded before Flop (didn't bet)
+Seat 5: Ramellzee folded on the River
+Seat 6: Dorex2007 showed [7d Jd] and lost with high card Ace
+Seat 7: eviece_108 (button) folded on the River
+Seat 8: marko2401 (small blind) folded before Flop
+Seat 9: PurestAwesome (big blind) showed [Qd 3s] and won ($0.18) with a pair of Queens
+
+
+
+PokerStars Hand #224533384794:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 14:09:00 PT [2021/03/06 17:09:00 ET]
+Table 'Piccolo III' 9-max Seat #8 is the button
+Seat 1: DenyLi ($2.11 in chips) 
+Seat 2: Red Revell ($2.65 in chips) 
+Seat 3: Kondratiy ($2.12 in chips) 
+Seat 4: MegasMeg5543 ($0.56 in chips) 
+Seat 5: Ramellzee ($1.24 in chips) 
+Seat 6: Dorex2007 ($1.80 in chips) 
+Seat 7: eviece_108 ($3.05 in chips) 
+Seat 8: marko2401 ($1.48 in chips) 
+Seat 9: PurestAwesome ($4.19 in chips) 
+PurestAwesome: posts small blind $0.01
+DenyLi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Kc]
+Red Revell: folds 
+Kondratiy: raises $0.02 to $0.04
+MegasMeg5543: calls $0.04
+Ramellzee: folds 
+Dorex2007: folds 
+eviece_108: calls $0.04
+marko2401: calls $0.04
+PurestAwesome: calls $0.03
+DenyLi: folds 
+*** FLOP *** [4d Ts 9h]
+PurestAwesome: bets $0.02
+Kondratiy: calls $0.02
+MegasMeg5543: folds 
+eviece_108: calls $0.02
+marko2401: calls $0.02
+*** TURN *** [4d Ts 9h] [7d]
+PurestAwesome: bets $0.02
+Kondratiy: calls $0.02
+eviece_108: calls $0.02
+marko2401: calls $0.02
+*** RIVER *** [4d Ts 9h 7d] [7c]
+PurestAwesome: bets $0.04
+Kondratiy: folds 
+eviece_108: raises $0.14 to $0.18
+marko2401: folds 
+PurestAwesome: calls $0.14
+*** SHOW DOWN ***
+eviece_108: shows [7s 6s] (three of a kind, Sevens)
+PurestAwesome: shows [6h 7h] (three of a kind, Sevens)
+PurestAwesome collected $0.36 from pot
+eviece_108 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.74 | Rake $0.03 
+Board [4d Ts 9h 7d 7c]
+Seat 1: DenyLi (big blind) folded before Flop
+Seat 2: Red Revell folded before Flop (didn't bet)
+Seat 3: Kondratiy folded on the River
+Seat 4: MegasMeg5543 folded on the Flop
+Seat 5: Ramellzee folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 showed [7s 6s] and won ($0.35) with three of a kind, Sevens
+Seat 8: marko2401 (button) folded on the River
+Seat 9: PurestAwesome (small blind) showed [6h 7h] and won ($0.36) with three of a kind, Sevens
+
+
+
+PokerStars Hand #224533448348:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 14:10:26 PT [2021/03/06 17:10:26 ET]
+Table 'Piccolo III' 9-max Seat #9 is the button
+Seat 1: DenyLi ($2.09 in chips) 
+Seat 2: Red Revell ($2.65 in chips) 
+Seat 3: Kondratiy ($2.04 in chips) 
+Seat 4: MegasMeg5543 ($0.52 in chips) 
+Seat 5: Ramellzee ($1.24 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: eviece_108 ($3.14 in chips) 
+Seat 8: marko2401 ($1.40 in chips) 
+Seat 9: PurestAwesome ($4.29 in chips) 
+DenyLi: posts small blind $0.01
+Red Revell: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d As]
+Kondratiy: raises $0.02 to $0.04
+MegasMeg5543: folds 
+Ramellzee: calls $0.04
+Dorex2007: folds 
+eviece_108: folds 
+marko2401: raises $0.10 to $0.14
+PurestAwesome: folds 
+DenyLi: folds 
+Red Revell: folds 
+Kondratiy: calls $0.10
+Ramellzee: folds 
+*** FLOP *** [6s 4d 9d]
+Kondratiy: checks 
+marko2401: checks 
+*** TURN *** [6s 4d 9d] [Qd]
+Kondratiy: bets $0.10
+marko2401: folds 
+Uncalled bet ($0.10) returned to Kondratiy
+Kondratiy collected $0.34 from pot
+Kondratiy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [6s 4d 9d Qd]
+Seat 1: DenyLi (small blind) folded before Flop
+Seat 2: Red Revell (big blind) folded before Flop
+Seat 3: Kondratiy collected ($0.34)
+Seat 4: MegasMeg5543 folded before Flop (didn't bet)
+Seat 5: Ramellzee folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: marko2401 folded on the Turn
+Seat 9: PurestAwesome (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224533507803:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 14:11:47 PT [2021/03/06 17:11:47 ET]
+Table 'Piccolo III' 9-max Seat #1 is the button
+Seat 1: DenyLi ($2.08 in chips) 
+Seat 2: Red Revell ($2.63 in chips) 
+Seat 3: Kondratiy ($2.24 in chips) 
+Seat 4: MegasMeg5543 ($0.52 in chips) 
+Seat 5: Ramellzee ($1.20 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: eviece_108 ($3.14 in chips) 
+Seat 8: marko2401 ($1.26 in chips) 
+Seat 9: PurestAwesome ($4.29 in chips) 
+Red Revell: posts small blind $0.01
+Kondratiy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 5s]
+MegasMeg5543: raises $0.02 to $0.04
+Ramellzee: calls $0.04
+Dorex2007: folds 
+eviece_108: folds 
+marko2401: folds 
+PurestAwesome: folds 
+DenyLi: folds 
+Red Revell: calls $0.03
+Kondratiy: calls $0.02
+*** FLOP *** [6d Ad Ah]
+Red Revell: checks 
+Kondratiy: checks 
+MegasMeg5543: bets $0.06
+Ramellzee: calls $0.06
+Red Revell: folds 
+Kondratiy: folds 
+*** TURN *** [6d Ad Ah] [Th]
+MegasMeg5543: bets $0.08
+Ramellzee: calls $0.08
+*** RIVER *** [6d Ad Ah Th] [Jc]
+MegasMeg5543: bets $0.10
+Ramellzee: calls $0.10
+*** SHOW DOWN ***
+MegasMeg5543: shows [8c 7d] (a pair of Aces)
+Ramellzee: shows [Ac 7h] (three of a kind, Aces)
+Ramellzee collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [6d Ad Ah Th Jc]
+Seat 1: DenyLi (button) folded before Flop (didn't bet)
+Seat 2: Red Revell (small blind) folded on the Flop
+Seat 3: Kondratiy (big blind) folded on the Flop
+Seat 4: MegasMeg5543 showed [8c 7d] and lost with a pair of Aces
+Seat 5: Ramellzee showed [Ac 7h] and won ($0.62) with three of a kind, Aces
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: marko2401 folded before Flop (didn't bet)
+Seat 9: PurestAwesome folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224533562635:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 14:13:03 PT [2021/03/06 17:13:03 ET]
+Table 'Piccolo III' 9-max Seat #2 is the button
+Seat 1: DenyLi ($2.08 in chips) 
+Seat 2: Red Revell ($2.59 in chips) 
+Seat 3: Kondratiy ($2.20 in chips) 
+Seat 4: MegasMeg5543 ($0.24 in chips) 
+Seat 5: Ramellzee ($1.54 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: eviece_108 ($3.14 in chips) 
+Seat 8: marko2401 ($1.26 in chips) 
+Seat 9: PurestAwesome ($4.29 in chips) 
+Kondratiy: posts small blind $0.01
+MegasMeg5543: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s As]
+Ramellzee: calls $0.02
+Dorex2007: calls $0.02
+eviece_108: folds 
+marko2401: raises $0.08 to $0.10
+PurestAwesome: folds 
+DenyLi: folds 
+Red Revell: folds 
+Kondratiy: folds 
+MegasMeg5543: raises $0.14 to $0.24 and is all-in
+Ramellzee: folds 
+Dorex2007: folds 
+marko2401: calls $0.14
+*** FLOP *** [Ah Ad 6s]
+*** TURN *** [Ah Ad 6s] [8s]
+*** RIVER *** [Ah Ad 6s 8s] [3c]
+*** SHOW DOWN ***
+MegasMeg5543: shows [5c Jc] (a pair of Aces)
+marko2401: shows [Js Jh] (two pair, Aces and Jacks)
+marko2401 collected $0.51 from pot
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [Ah Ad 6s 8s 3c]
+Seat 1: DenyLi folded before Flop (didn't bet)
+Seat 2: Red Revell (button) folded before Flop (didn't bet)
+Seat 3: Kondratiy (small blind) folded before Flop
+Seat 4: MegasMeg5543 (big blind) showed [5c Jc] and lost with a pair of Aces
+Seat 5: Ramellzee folded before Flop
+Seat 6: Dorex2007 folded before Flop
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: marko2401 showed [Js Jh] and won ($0.51) with two pair, Aces and Jacks
+Seat 9: PurestAwesome folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224533603930:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/06 14:14:00 PT [2021/03/06 17:14:00 ET]
+Table 'Piccolo III' 9-max Seat #3 is the button
+Seat 1: DenyLi ($2.08 in chips) 
+Seat 2: Red Revell ($2.59 in chips) 
+Seat 3: Kondratiy ($2.19 in chips) 
+Seat 5: Ramellzee ($1.52 in chips) 
+Seat 6: Dorex2007 ($1.98 in chips) 
+Seat 7: eviece_108 ($3.14 in chips) 
+Seat 8: marko2401 ($1.53 in chips) 
+Seat 9: PurestAwesome ($4.29 in chips) 
+Ramellzee: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c Qs]
+eviece_108: folds 
+marko2401: folds 
+MegasMeg5543 leaves the table
+PurestAwesome: folds 
+DenyLi: folds 
+Red Revell: calls $0.02
+Kondratiy: folds 
+Ramellzee: folds 
+Dorex2007: checks 
+*** FLOP *** [2c Kc 7c]
+Dorex2007: checks 
+Red Revell: checks 
+*** TURN *** [2c Kc 7c] [6s]
+Dorex2007: checks 
+Red Revell: checks 
+*** RIVER *** [2c Kc 7c 6s] [Qc]
+Dorex2007: bets $0.05
+Red Revell: calls $0.05
+*** SHOW DOWN ***
+Dorex2007: shows [5c Qs] (a flush, King high)
+Red Revell: mucks hand 
+Dorex2007 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2c Kc 7c 6s Qc]
+Seat 1: DenyLi folded before Flop (didn't bet)
+Seat 2: Red Revell mucked [3c 3d]
+Seat 3: Kondratiy (button) folded before Flop (didn't bet)
+Seat 5: Ramellzee (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) showed [5c Qs] and won ($0.14) with a flush, King high
+Seat 7: eviece_108 folded before Flop (didn't bet)
+Seat 8: marko2401 folded before Flop (didn't bet)
+Seat 9: PurestAwesome folded before Flop (didn't bet)
+
+
+

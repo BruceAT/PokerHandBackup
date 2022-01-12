@@ -1,0 +1,3243 @@
+﻿PokerStars Hand #231246233196:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:09:33 PT [2021/11/08 15:09:33 ET]
+Table 'Tombaugh II' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 3: Californian_888 ($2.18 in chips) 
+Seat 4: palomopack77 ($0.18 in chips) 
+Seat 5: deileon ($1.54 in chips) 
+Seat 7: EvgenShadura ($1.09 in chips) 
+Seat 8: Artishell ($2.45 in chips) 
+Seat 9: dan74t ($3.45 in chips) 
+palomopack77: posts small blind $0.01
+deileon: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 9d]
+EvgenShadura: folds 
+Artishell: folds 
+dan74t: folds 
+Dorex2007: raises $0.04 to $0.06
+Californian_888: folds 
+palomopack77: calls $0.05
+deileon: calls $0.04
+*** FLOP *** [9h 8h 2d]
+palomopack77: bets $0.12 and is all-in
+deileon: calls $0.12
+Dorex2007: calls $0.12
+*** TURN *** [9h 8h 2d] [5c]
+deileon: checks 
+Dorex2007: bets $1.82 and is all-in
+deileon: folds 
+Uncalled bet ($1.82) returned to Dorex2007
+*** RIVER *** [9h 8h 2d 5c] [7s]
+*** SHOW DOWN ***
+palomopack77: shows [9s Ts] (a pair of Nines)
+Dorex2007: shows [Js 9d] (a pair of Nines - Jack kicker)
+Dorex2007 cashed out the hand for $0.48
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [9h 8h 2d 5c 7s]
+Seat 1: Dorex2007 showed [Js 9d] and won ($0.52) with a pair of Nines (pot not awarded as player cashed out)
+Seat 3: Californian_888 (button) folded before Flop (didn't bet)
+Seat 4: palomopack77 (small blind) showed [9s Ts] and lost with a pair of Nines
+Seat 5: deileon (big blind) folded on the Turn
+Seat 7: EvgenShadura folded before Flop (didn't bet)
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: dan74t folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231246276887:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:10:56 PT [2021/11/08 15:10:56 ET]
+Table 'Tombaugh II' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2.30 in chips) 
+Seat 3: Californian_888 ($2.18 in chips) 
+Seat 5: deileon ($1.36 in chips) 
+Seat 6: RIXX6 ($6.26 in chips) 
+Seat 7: EvgenShadura ($1.09 in chips) 
+Seat 8: Artishell ($2.45 in chips) 
+Seat 9: dan74t ($3.45 in chips) 
+RIXX6: posts small blind $0.01
+EvgenShadura: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 3h]
+Artishell: calls $0.02
+dan74t: folds 
+palomopack77 leaves the table
+Dorex2007: folds 
+Californian_888: folds 
+deileon: raises $0.02 to $0.04
+RIXX6: folds 
+EvgenShadura: folds 
+Artishell: calls $0.02
+*** FLOP *** [Ah 7c 8s]
+Artishell: checks 
+deileon: bets $0.06
+murdoc.cz joins the table at seat #4 
+Artishell: folds 
+Uncalled bet ($0.06) returned to deileon
+deileon collected $0.11 from pot
+deileon: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Ah 7c 8s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Californian_888 folded before Flop (didn't bet)
+Seat 5: deileon (button) collected ($0.11)
+Seat 6: RIXX6 (small blind) folded before Flop
+Seat 7: EvgenShadura (big blind) folded before Flop
+Seat 8: Artishell folded on the Flop
+Seat 9: dan74t folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231246304778:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:11:30 PT [2021/11/08 15:11:30 ET]
+Table 'Tombaugh II' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($2.30 in chips) 
+Seat 3: Californian_888 ($2.18 in chips) 
+Seat 5: deileon ($1.43 in chips) 
+Seat 6: RIXX6 ($6.25 in chips) 
+Seat 7: EvgenShadura ($1.07 in chips) 
+Seat 8: Artishell ($2.41 in chips) 
+Seat 9: dan74t ($3.45 in chips) 
+EvgenShadura: posts small blind $0.01
+Artishell: posts big blind $0.02
+murdoc.cz: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Jh]
+dan74t: folds 
+Dorex2007: raises $0.04 to $0.06
+Californian_888: folds 
+deileon: folds 
+RIXX6: calls $0.06
+EvgenShadura: folds 
+Artishell: calls $0.04
+*** FLOP *** [Qd 7d As]
+Artishell: checks 
+Dorex2007: bets $0.18
+RIXX6: calls $0.18
+Artishell: folds 
+*** TURN *** [Qd 7d As] [Ac]
+Dorex2007: bets $2.06 and is all-in
+RIXX6: calls $2.06
+*** RIVER *** [Qd 7d As Ac] [Jc]
+*** SHOW DOWN ***
+Dorex2007: shows [Ah Jh] (a full house, Aces full of Jacks)
+RIXX6: shows [9c Ad] (three of a kind, Aces)
+Dorex2007 cashed out the hand for $3.66 | Cash Out Fee $0.04
+*** SUMMARY ***
+Total pot $4.67 | Rake $0.16 
+Board [Qd 7d As Ac Jc]
+Seat 1: Dorex2007 showed [Ah Jh] and won ($4.51) with a full house, Aces full of Jacks (pot not awarded as player cashed out)
+Seat 3: Californian_888 folded before Flop (didn't bet)
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: RIXX6 (button) showed [9c Ad] and lost with three of a kind, Aces
+Seat 7: EvgenShadura (small blind) folded before Flop
+Seat 8: Artishell (big blind) folded on the Flop
+Seat 9: dan74t folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231246338564:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:12:34 PT [2021/11/08 15:12:34 ET]
+Table 'Tombaugh II' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($3.66 in chips) 
+Seat 3: Californian_888 ($2.18 in chips) 
+Seat 5: deileon ($1.43 in chips) 
+Seat 6: RIXX6 ($3.95 in chips) 
+Seat 7: EvgenShadura ($1.06 in chips) 
+Seat 8: Artishell ($2.35 in chips) 
+Seat 9: dan74t ($3.45 in chips) 
+Artishell: posts small blind $0.01
+dan74t: posts big blind $0.02
+murdoc.cz: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 9s]
+Dorex2007: folds 
+Californian_888: folds 
+deileon: calls $0.02
+RIXX6: folds 
+EvgenShadura: folds 
+Artishell: folds 
+dan74t: checks 
+*** FLOP *** [Qh Kh 7s]
+dan74t: checks 
+deileon: bets $0.02
+dan74t: calls $0.02
+*** TURN *** [Qh Kh 7s] [6d]
+dan74t: checks 
+deileon: checks 
+*** RIVER *** [Qh Kh 7s 6d] [4c]
+dan74t: bets $0.02
+deileon: folds 
+Uncalled bet ($0.02) returned to dan74t
+dan74t collected $0.09 from pot
+dan74t: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Qh Kh 7s 6d 4c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Californian_888 folded before Flop (didn't bet)
+Seat 5: deileon folded on the River
+Seat 6: RIXX6 folded before Flop (didn't bet)
+Seat 7: EvgenShadura (button) folded before Flop (didn't bet)
+Seat 8: Artishell (small blind) folded before Flop
+Seat 9: dan74t (big blind) collected ($0.09)
+
+
+
+PokerStars Hand #231246360408:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:13:15 PT [2021/11/08 15:13:15 ET]
+Table 'Tombaugh II' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($3.66 in chips) 
+Seat 3: Californian_888 ($2.18 in chips) 
+Seat 5: deileon ($1.39 in chips) 
+Seat 6: RIXX6 ($3.95 in chips) 
+Seat 7: EvgenShadura ($1.06 in chips) 
+Seat 8: Artishell ($2.34 in chips) 
+Seat 9: dan74t ($3.50 in chips) 
+dan74t: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+murdoc.cz: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 8h]
+Californian_888: folds 
+deileon: folds 
+RIXX6: folds 
+EvgenShadura: folds 
+Artishell: raises $0.05 to $0.07
+dan74t: folds 
+Dorex2007: folds 
+Uncalled bet ($0.05) returned to Artishell
+Artishell collected $0.05 from pot
+Artishell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 3: Californian_888 folded before Flop (didn't bet)
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: RIXX6 folded before Flop (didn't bet)
+Seat 7: EvgenShadura folded before Flop (didn't bet)
+Seat 8: Artishell (button) collected ($0.05)
+Seat 9: dan74t (small blind) folded before Flop
+
+
+
+PokerStars Hand #231246382331:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:13:57 PT [2021/11/08 15:13:57 ET]
+Table 'Tombaugh II' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($3.64 in chips) 
+Seat 3: Californian_888 ($2.18 in chips) 
+Seat 5: deileon ($1.39 in chips) 
+Seat 6: RIXX6 ($3.95 in chips) 
+Seat 7: EvgenShadura ($1.06 in chips) 
+Seat 8: Artishell ($2.37 in chips) 
+Seat 9: dan74t ($3.49 in chips) 
+Dorex2007: posts small blind $0.01
+Californian_888: posts big blind $0.02
+murdoc.cz: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 7d]
+deileon: folds 
+RIXX6: raises $0.04 to $0.06
+EvgenShadura: folds 
+Artishell: folds 
+dan74t: folds 
+Dorex2007: folds 
+Californian_888: folds 
+Uncalled bet ($0.04) returned to RIXX6
+RIXX6 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 3: Californian_888 (big blind) folded before Flop
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: RIXX6 collected ($0.05)
+Seat 7: EvgenShadura folded before Flop (didn't bet)
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: dan74t (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231246394524:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:14:21 PT [2021/11/08 15:14:21 ET]
+Table 'Tombaugh II' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($3.63 in chips) 
+Seat 3: Californian_888 ($2.16 in chips) 
+Seat 4: murdoc.cz ($2 in chips) 
+Seat 5: deileon ($1.39 in chips) 
+Seat 6: RIXX6 ($3.98 in chips) 
+Seat 7: EvgenShadura ($1.06 in chips) 
+Seat 8: Artishell ($2.37 in chips) 
+Seat 9: dan74t ($3.49 in chips) 
+Californian_888: posts small blind $0.01
+murdoc.cz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 5s]
+deileon: folds 
+RIXX6: raises $0.04 to $0.06
+EvgenShadura: folds 
+Artishell: folds 
+dan74t: folds 
+Dorex2007: folds 
+Californian_888: folds 
+murdoc.cz: folds 
+Uncalled bet ($0.04) returned to RIXX6
+RIXX6 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: Californian_888 (small blind) folded before Flop
+Seat 4: murdoc.cz (big blind) folded before Flop
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: RIXX6 collected ($0.05)
+Seat 7: EvgenShadura folded before Flop (didn't bet)
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: dan74t folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231246413995:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:14:57 PT [2021/11/08 15:14:57 ET]
+Table 'Tombaugh II' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($3.63 in chips) 
+Seat 3: Californian_888 ($2.15 in chips) 
+Seat 4: murdoc.cz ($2 in chips) 
+Seat 5: deileon ($1.39 in chips) 
+Seat 6: RIXX6 ($4.01 in chips) 
+Seat 7: EvgenShadura ($1.06 in chips) 
+Seat 8: Artishell ($2.37 in chips) 
+Seat 9: dan74t ($3.49 in chips) 
+murdoc.cz: posts small blind $0.01
+deileon: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 4s]
+RIXX6: folds 
+EvgenShadura: raises $0.04 to $0.06
+Artishell: folds 
+dan74t has timed out
+dan74t: folds 
+Dorex2007: folds 
+Californian_888: folds 
+murdoc.cz: folds 
+deileon: folds 
+Uncalled bet ($0.04) returned to EvgenShadura
+EvgenShadura collected $0.05 from pot
+EvgenShadura: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Californian_888 (button) folded before Flop (didn't bet)
+Seat 4: murdoc.cz (small blind) folded before Flop
+Seat 5: deileon (big blind) folded before Flop
+Seat 6: RIXX6 folded before Flop (didn't bet)
+Seat 7: EvgenShadura collected ($0.05)
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: dan74t folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231246429723:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:15:27 PT [2021/11/08 15:15:27 ET]
+Table 'Tombaugh II' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($3.63 in chips) 
+Seat 3: Californian_888 ($2.15 in chips) 
+Seat 4: murdoc.cz ($2 in chips) 
+Seat 5: deileon ($1.37 in chips) 
+Seat 6: RIXX6 ($4.01 in chips) 
+Seat 7: EvgenShadura ($1.09 in chips) 
+Seat 8: Artishell ($2.37 in chips) 
+Seat 9: dan74t ($3.49 in chips) 
+deileon: posts small blind $0.01
+RIXX6: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Qc]
+EvgenShadura: folds 
+Artishell: folds 
+dan74t: calls $0.02
+Dorex2007: raises $0.04 to $0.06
+Californian_888: folds 
+murdoc.cz: folds 
+deileon: calls $0.05
+RIXX6: folds 
+dan74t: calls $0.04
+*** FLOP *** [5c 9s 5d]
+deileon: checks 
+dan74t: checks 
+Dorex2007: checks 
+*** TURN *** [5c 9s 5d] [3d]
+deileon: checks 
+dan74t: bets $0.10
+Dorex2007: folds 
+Ilviromentito leaves the table
+deileon: folds 
+Uncalled bet ($0.10) returned to dan74t
+dan74t collected $0.19 from pot
+dan74t: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [5c 9s 5d 3d]
+Seat 1: Dorex2007 folded on the Turn
+Seat 3: Californian_888 folded before Flop (didn't bet)
+Seat 4: murdoc.cz (button) folded before Flop (didn't bet)
+Seat 5: deileon (small blind) folded on the Turn
+Seat 6: RIXX6 (big blind) folded before Flop
+Seat 7: EvgenShadura folded before Flop (didn't bet)
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: dan74t collected ($0.19)
+
+
+
+PokerStars Hand #231246463938:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:16:32 PT [2021/11/08 15:16:32 ET]
+Table 'Tombaugh II' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($3.57 in chips) 
+Seat 3: Californian_888 ($2.15 in chips) 
+Seat 4: murdoc.cz ($2 in chips) 
+Seat 5: deileon ($1.31 in chips) 
+Seat 6: RIXX6 ($3.99 in chips) 
+Seat 7: EvgenShadura ($1.09 in chips) 
+Seat 8: Artishell ($2.37 in chips) 
+Seat 9: dan74t ($3.62 in chips) 
+RIXX6: posts small blind $0.01
+EvgenShadura: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Kc]
+Artishell: folds 
+dan74t: calls $0.02
+Dorex2007: folds 
+Californian_888: folds 
+murdoc.cz: folds 
+deileon: raises $0.02 to $0.04
+RIXX6: calls $0.03
+EvgenShadura: folds 
+dan74t: calls $0.02
+*** FLOP *** [4d 6c 8s]
+RIXX6: checks 
+dan74t: checks 
+deileon: bets $0.07
+RIXX6: raises $0.19 to $0.26
+dan74t: folds 
+deileon: calls $0.19
+*** TURN *** [4d 6c 8s] [2s]
+Dogdo100 joins the table at seat #2 
+RIXX6: bets $0.42
+deileon: calls $0.42
+*** RIVER *** [4d 6c 8s 2s] [7h]
+RIXX6: bets $3.27 and is all-in
+deileon: calls $0.59 and is all-in
+Uncalled bet ($2.68) returned to RIXX6
+*** SHOW DOWN ***
+RIXX6: shows [Jh 8h] (a pair of Eights)
+deileon: shows [7d 7c] (three of a kind, Sevens)
+deileon collected $2.59 from pot
+*** SUMMARY ***
+Total pot $2.68 | Rake $0.09 
+Board [4d 6c 8s 2s 7h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Californian_888 folded before Flop (didn't bet)
+Seat 4: murdoc.cz folded before Flop (didn't bet)
+Seat 5: deileon (button) showed [7d 7c] and won ($2.59) with three of a kind, Sevens
+Seat 6: RIXX6 (small blind) showed [Jh 8h] and lost with a pair of Eights
+Seat 7: EvgenShadura (big blind) folded before Flop
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: dan74t folded on the Flop
+
+
+
+PokerStars Hand #231246500294:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:17:40 PT [2021/11/08 15:17:40 ET]
+Table 'Tombaugh II' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($3.57 in chips) 
+Seat 3: Californian_888 ($2.15 in chips) 
+Seat 4: murdoc.cz ($2 in chips) 
+Seat 5: deileon ($2.59 in chips) 
+Seat 6: RIXX6 ($2.68 in chips) 
+Seat 7: EvgenShadura ($1.07 in chips) 
+Seat 8: Artishell ($2.37 in chips) 
+Seat 9: dan74t ($3.58 in chips) 
+EvgenShadura: posts small blind $0.01
+Artishell: posts big blind $0.02
+Dogdo100: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 3c]
+dan74t: folds 
+Dorex2007: folds 
+Californian_888: folds 
+murdoc.cz: folds 
+deileon: folds 
+RIXX6: raises $0.04 to $0.06
+EvgenShadura: raises $0.14 to $0.20
+Artishell: folds 
+RIXX6: calls $0.14
+*** FLOP *** [5d Ts 8c]
+EvgenShadura: bets $0.33
+RIXX6: calls $0.33
+*** TURN *** [5d Ts 8c] [2d]
+EvgenShadura: bets $0.54 and is all-in
+RIXX6: folds 
+Uncalled bet ($0.54) returned to EvgenShadura
+EvgenShadura collected $1.04 from pot
+EvgenShadura: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.08 | Rake $0.04 
+Board [5d Ts 8c 2d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Californian_888 folded before Flop (didn't bet)
+Seat 4: murdoc.cz folded before Flop (didn't bet)
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: RIXX6 (button) folded on the Turn
+Seat 7: EvgenShadura (small blind) collected ($1.04)
+Seat 8: Artishell (big blind) folded before Flop
+Seat 9: dan74t folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231246543954:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:18:45 PT [2021/11/08 15:18:45 ET]
+Table 'Tombaugh II' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($3.57 in chips) 
+Seat 3: Californian_888 ($2.15 in chips) 
+Seat 4: murdoc.cz ($2 in chips) 
+Seat 5: deileon ($2.59 in chips) 
+Seat 6: RIXX6 ($2.15 in chips) 
+Seat 7: EvgenShadura ($1.58 in chips) 
+Seat 8: Artishell ($2.35 in chips) 
+Seat 9: dan74t ($3.58 in chips) 
+Artishell: posts small blind $0.01
+dan74t: posts big blind $0.02
+Dogdo100: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Ts]
+Dorex2007: folds 
+Californian_888: folds 
+murdoc.cz: raises $0.06 to $0.08
+deileon: folds 
+RIXX6: folds 
+EvgenShadura: calls $0.08
+Artishell: folds 
+dan74t: folds 
+*** FLOP *** [Ac 7d Kc]
+murdoc.cz: bets $0.10
+EvgenShadura: folds 
+Uncalled bet ($0.10) returned to murdoc.cz
+murdoc.cz collected $0.18 from pot
+murdoc.cz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Ac 7d Kc]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Californian_888 folded before Flop (didn't bet)
+Seat 4: murdoc.cz collected ($0.18)
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: RIXX6 folded before Flop (didn't bet)
+Seat 7: EvgenShadura (button) folded on the Flop
+Seat 8: Artishell (small blind) folded before Flop
+Seat 9: dan74t (big blind) folded before Flop
+
+
+
+PokerStars Hand #231246572203:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:19:38 PT [2021/11/08 15:19:38 ET]
+Table 'Tombaugh II' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($3.57 in chips) 
+Seat 4: murdoc.cz ($2.10 in chips) 
+Seat 5: deileon ($2.59 in chips) 
+Seat 6: RIXX6 ($2.15 in chips) 
+Seat 7: EvgenShadura ($1.50 in chips) 
+Seat 8: Artishell ($2.34 in chips) 
+Seat 9: dan74t ($3.56 in chips) 
+dan74t: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Dogdo100: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 6h]
+murdoc.cz: folds 
+deileon: folds 
+RIXX6: raises $0.04 to $0.06
+EvgenShadura: calls $0.06
+Artishell: folds 
+dan74t: folds 
+Dorex2007: folds 
+*** FLOP *** [3h 8h Th]
+RIXX6: checks 
+EvgenShadura: checks 
+*** TURN *** [3h 8h Th] [Kh]
+RIXX6: bets $0.07
+EvgenShadura: folds 
+Uncalled bet ($0.07) returned to RIXX6
+RIXX6 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3h 8h Th Kh]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 4: murdoc.cz folded before Flop (didn't bet)
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: RIXX6 collected ($0.14)
+Seat 7: EvgenShadura folded on the Turn
+Seat 8: Artishell (button) folded before Flop (didn't bet)
+Seat 9: dan74t (small blind) folded before Flop
+
+
+
+PokerStars Hand #231246597720:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:20:27 PT [2021/11/08 15:20:27 ET]
+Table 'Tombaugh II' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($3.55 in chips) 
+Seat 2: Dogdo100 ($2 in chips) 
+Seat 4: murdoc.cz ($2.10 in chips) 
+Seat 5: deileon ($2.59 in chips) 
+Seat 6: RIXX6 ($2.23 in chips) 
+Seat 7: EvgenShadura ($1.44 in chips) 
+Seat 8: Artishell ($2.34 in chips) 
+Seat 9: dan74t ($3.55 in chips) 
+Dorex2007: posts small blind $0.01
+Dogdo100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Jc]
+murdoc.cz: folds 
+deileon: folds 
+RIXX6: folds 
+EvgenShadura has timed out
+EvgenShadura: folds 
+Artishell: folds 
+dan74t: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to Dogdo100
+Dogdo100 collected $0.02 from pot
+Dogdo100: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: Dogdo100 (big blind) collected ($0.02)
+Seat 4: murdoc.cz folded before Flop (didn't bet)
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: RIXX6 folded before Flop (didn't bet)
+Seat 7: EvgenShadura folded before Flop (didn't bet)
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: dan74t (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231246616916:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:21:03 PT [2021/11/08 15:21:03 ET]
+Table 'Tombaugh II' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($3.54 in chips) 
+Seat 2: Dogdo100 ($2.01 in chips) 
+Seat 4: murdoc.cz ($2.10 in chips) 
+Seat 5: deileon ($2.59 in chips) 
+Seat 6: RIXX6 ($2.23 in chips) 
+Seat 7: EvgenShadura ($1.44 in chips) 
+Seat 8: Artishell ($2.34 in chips) 
+Seat 9: dan74t ($3.55 in chips) 
+Dogdo100: posts small blind $0.01
+murdoc.cz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 2d]
+deileon: folds 
+RIXX6 has timed out
+RIXX6: folds 
+EvgenShadura: folds 
+Artishell: folds 
+dan74t: folds 
+Dorex2007: raises $0.02 to $0.04
+Dogdo100: folds 
+murdoc.cz: raises $0.06 to $0.10
+EvgenShadura leaves the table
+Dorex2007: calls $0.06
+*** FLOP *** [6d Ad Jc]
+murdoc.cz: bets $0.10
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to murdoc.cz
+murdoc.cz collected $0.20 from pot
+murdoc.cz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [6d Ad Jc]
+Seat 1: Dorex2007 (button) folded on the Flop
+Seat 2: Dogdo100 (small blind) folded before Flop
+Seat 4: murdoc.cz (big blind) collected ($0.20)
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: RIXX6 folded before Flop (didn't bet)
+Seat 7: EvgenShadura folded before Flop (didn't bet)
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: dan74t folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231246639841:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:21:47 PT [2021/11/08 15:21:47 ET]
+Table 'Tombaugh II' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($3.44 in chips) 
+Seat 2: Dogdo100 ($2 in chips) 
+Seat 4: murdoc.cz ($2.20 in chips) 
+Seat 5: deileon ($2.59 in chips) 
+Seat 6: RIXX6 ($2.23 in chips) 
+Seat 8: Artishell ($2.34 in chips) 
+Seat 9: dan74t ($3.55 in chips) 
+murdoc.cz: posts small blind $0.01
+deileon: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 5d]
+RIXX6 has timed out
+RIXX6: folds 
+Artishell: folds 
+dan74t: folds 
+Dorex2007: folds 
+Dogdo100: folds 
+murdoc.cz: folds 
+Uncalled bet ($0.01) returned to deileon
+deileon collected $0.02 from pot
+deileon: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 (button) folded before Flop (didn't bet)
+Seat 4: murdoc.cz (small blind) folded before Flop
+Seat 5: deileon (big blind) collected ($0.02)
+Seat 6: RIXX6 folded before Flop (didn't bet)
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: dan74t folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231246652598:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:22:11 PT [2021/11/08 15:22:11 ET]
+Table 'Tombaugh II' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($3.44 in chips) 
+Seat 2: Dogdo100 ($2 in chips) 
+Seat 4: murdoc.cz ($2.19 in chips) 
+Seat 5: deileon ($2.60 in chips) 
+Seat 6: RIXX6 ($2.23 in chips) 
+Seat 8: Artishell ($2.34 in chips) 
+Seat 9: dan74t ($3.55 in chips) 
+deileon: posts small blind $0.01
+RIXX6: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 7h]
+Artishell: folds 
+dan74t: folds 
+Dorex2007: folds 
+Dogdo100: folds 
+murdoc.cz: raises $0.06 to $0.08
+deileon: folds 
+RIXX6: folds 
+Uncalled bet ($0.06) returned to murdoc.cz
+murdoc.cz collected $0.05 from pot
+murdoc.cz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 4: murdoc.cz (button) collected ($0.05)
+Seat 5: deileon (small blind) folded before Flop
+Seat 6: RIXX6 (big blind) folded before Flop
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: dan74t folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231246668268:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:22:41 PT [2021/11/08 15:22:41 ET]
+Table 'Tombaugh II' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($3.44 in chips) 
+Seat 2: Dogdo100 ($2 in chips) 
+Seat 4: murdoc.cz ($2.22 in chips) 
+Seat 5: deileon ($2.59 in chips) 
+Seat 6: RIXX6 ($2.21 in chips) 
+Seat 8: Artishell ($2.34 in chips) 
+Seat 9: dan74t ($3.55 in chips) 
+RIXX6: posts small blind $0.01
+Artishell: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 2s]
+dan74t: folds 
+Dorex2007: folds 
+Dogdo100: folds 
+murdoc.cz: folds 
+deileon: raises $0.02 to $0.04
+RIXX6: folds 
+Artishell: folds 
+Uncalled bet ($0.02) returned to deileon
+deileon collected $0.05 from pot
+deileon: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 4: murdoc.cz folded before Flop (didn't bet)
+Seat 5: deileon (button) collected ($0.05)
+Seat 6: RIXX6 (small blind) folded before Flop
+Seat 8: Artishell (big blind) folded before Flop
+Seat 9: dan74t folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231246687108:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:23:17 PT [2021/11/08 15:23:17 ET]
+Table 'Tombaugh II' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($3.44 in chips) 
+Seat 2: Dogdo100 ($2 in chips) 
+Seat 4: murdoc.cz ($2.22 in chips) 
+Seat 5: deileon ($2.62 in chips) 
+Seat 6: RIXX6 ($2.20 in chips) 
+Seat 8: Artishell ($2.32 in chips) 
+Seat 9: dan74t ($3.55 in chips) 
+Artishell: posts small blind $0.01
+dan74t: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Jd]
+Dorex2007: folds 
+Dogdo100: folds 
+murdoc.cz: folds 
+deileon: folds 
+RIXX6: folds 
+Artishell: folds 
+Uncalled bet ($0.01) returned to dan74t
+dan74t collected $0.02 from pot
+dan74t: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 4: murdoc.cz folded before Flop (didn't bet)
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: RIXX6 (button) folded before Flop (didn't bet)
+Seat 8: Artishell (small blind) folded before Flop
+Seat 9: dan74t (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #231246697141:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:23:36 PT [2021/11/08 15:23:36 ET]
+Table 'Tombaugh II' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($3.44 in chips) 
+Seat 2: Dogdo100 ($2 in chips) 
+Seat 4: murdoc.cz ($2.22 in chips) 
+Seat 5: deileon ($2.62 in chips) 
+Seat 6: RIXX6 ($2.20 in chips) 
+Seat 8: Artishell ($2.31 in chips) 
+Seat 9: dan74t ($3.56 in chips) 
+dan74t: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 7s]
+Dogdo100: raises $0.04 to $0.06
+murdoc.cz: folds 
+deileon: folds 
+RIXX6: folds 
+Artishell: folds 
+dan74t: calls $0.05
+Dorex2007: folds 
+*** FLOP *** [5s 3c 9c]
+dan74t: checks 
+victor2k88 joins the table at seat #7 
+Dogdo100: bets $0.09
+dan74t: folds 
+Uncalled bet ($0.09) returned to Dogdo100
+Dogdo100 collected $0.14 from pot
+Dogdo100: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [5s 3c 9c]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: Dogdo100 collected ($0.14)
+Seat 4: murdoc.cz folded before Flop (didn't bet)
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: RIXX6 folded before Flop (didn't bet)
+Seat 8: Artishell (button) folded before Flop (didn't bet)
+Seat 9: dan74t (small blind) folded on the Flop
+
+
+
+PokerStars Hand #231246712152:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:24:04 PT [2021/11/08 15:24:04 ET]
+Table 'Tombaugh II' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($3.42 in chips) 
+Seat 2: Dogdo100 ($2.08 in chips) 
+Seat 4: murdoc.cz ($2.22 in chips) 
+Seat 5: deileon ($2.62 in chips) 
+Seat 6: RIXX6 ($2.20 in chips) 
+Seat 7: victor2k88 ($0.80 in chips) 
+Seat 8: Artishell ($2.31 in chips) 
+Seat 9: dan74t ($3.50 in chips) 
+Dorex2007: posts small blind $0.01
+Dogdo100: posts big blind $0.02
+victor2k88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 2h]
+murdoc.cz: folds 
+deileon: folds 
+RIXX6: folds 
+victor2k88: checks 
+Artishell: folds 
+dan74t: folds 
+Dorex2007: folds 
+Dogdo100: checks 
+*** FLOP *** [Tc Kd Ac]
+Dogdo100: checks 
+victor2k88: checks 
+*** TURN *** [Tc Kd Ac] [Qd]
+Dogdo100: checks 
+victor2k88: bets $0.02
+Dogdo100: folds 
+Uncalled bet ($0.02) returned to victor2k88
+victor2k88 collected $0.05 from pot
+victor2k88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Tc Kd Ac Qd]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: Dogdo100 (big blind) folded on the Turn
+Seat 4: murdoc.cz folded before Flop (didn't bet)
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: RIXX6 folded before Flop (didn't bet)
+Seat 7: victor2k88 collected ($0.05)
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: dan74t (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231246728657:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:24:35 PT [2021/11/08 15:24:35 ET]
+Table 'Tombaugh II' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($3.41 in chips) 
+Seat 2: Dogdo100 ($2.06 in chips) 
+Seat 4: murdoc.cz ($2.22 in chips) 
+Seat 5: deileon ($2.62 in chips) 
+Seat 6: RIXX6 ($2.20 in chips) 
+Seat 7: victor2k88 ($0.83 in chips) 
+Seat 8: Artishell ($2.31 in chips) 
+Seat 9: dan74t ($3.50 in chips) 
+Dogdo100: posts small blind $0.01
+murdoc.cz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Ad]
+deileon: folds 
+RIXX6 has timed out
+RIXX6: folds 
+victor2k88: calls $0.02
+Artishell: folds 
+dan74t: calls $0.02
+Dorex2007: calls $0.02
+Dogdo100: folds 
+murdoc.cz: checks 
+*** FLOP *** [Qs 2s 3s]
+murdoc.cz: checks 
+victor2k88: bets $0.02
+dan74t: folds 
+Dorex2007: folds 
+murdoc.cz: folds 
+Uncalled bet ($0.02) returned to victor2k88
+victor2k88 collected $0.09 from pot
+victor2k88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Qs 2s 3s]
+Seat 1: Dorex2007 (button) folded on the Flop
+Seat 2: Dogdo100 (small blind) folded before Flop
+Seat 4: murdoc.cz (big blind) folded on the Flop
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: RIXX6 folded before Flop (didn't bet)
+Seat 7: victor2k88 collected ($0.09)
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: dan74t folded on the Flop
+
+
+
+PokerStars Hand #231246758834:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:25:32 PT [2021/11/08 15:25:32 ET]
+Table 'Tombaugh II' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($3.39 in chips) 
+Seat 2: Dogdo100 ($2.05 in chips) 
+Seat 4: murdoc.cz ($2.20 in chips) 
+Seat 5: deileon ($2.62 in chips) 
+Seat 6: RIXX6 ($2.20 in chips) 
+Seat 7: victor2k88 ($0.90 in chips) 
+Seat 8: Artishell ($2.31 in chips) 
+Seat 9: dan74t ($3.48 in chips) 
+murdoc.cz: posts small blind $0.01
+deileon: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Kh]
+RIXX6: folds 
+victor2k88: calls $0.02
+Artishell: folds 
+dan74t: folds 
+Dorex2007: folds 
+Dogdo100: raises $0.04 to $0.06
+murdoc.cz: folds 
+deileon: calls $0.04
+victor2k88: calls $0.04
+*** FLOP *** [7s Kd 7c]
+deileon: checks 
+victor2k88: checks 
+Dogdo100: checks 
+*** TURN *** [7s Kd 7c] [5d]
+deileon: checks 
+victor2k88: checks 
+Dogdo100: bets $0.08
+deileon: folds 
+victor2k88: folds 
+Uncalled bet ($0.08) returned to Dogdo100
+Dogdo100 collected $0.18 from pot
+Dogdo100: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [7s Kd 7c 5d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 (button) collected ($0.18)
+Seat 4: murdoc.cz (small blind) folded before Flop
+Seat 5: deileon (big blind) folded on the Turn
+Seat 6: RIXX6 folded before Flop (didn't bet)
+Seat 7: victor2k88 folded on the Turn
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: dan74t folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231246796369:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:26:43 PT [2021/11/08 15:26:43 ET]
+Table 'Tombaugh II' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($3.39 in chips) 
+Seat 2: Dogdo100 ($2.17 in chips) 
+Seat 4: murdoc.cz ($2.19 in chips) 
+Seat 5: deileon ($2.56 in chips) 
+Seat 6: RIXX6 ($2.20 in chips) 
+Seat 7: victor2k88 ($0.84 in chips) 
+Seat 8: Artishell ($2.31 in chips) 
+Seat 9: dan74t ($3.48 in chips) 
+deileon: posts small blind $0.01
+RIXX6: posts big blind $0.02
+Californian_888: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 9h]
+victor2k88: folds 
+Artishell: folds 
+dan74t: calls $0.02
+Dorex2007: folds 
+Dogdo100: raises $0.04 to $0.06
+murdoc.cz: folds 
+deileon: folds 
+RIXX6: folds 
+dan74t: calls $0.04
+*** FLOP *** [6h Jc 9c]
+dan74t: checks 
+Dogdo100: checks 
+*** TURN *** [6h Jc 9c] [2d]
+dan74t: bets $0.02
+Dogdo100: calls $0.02
+*** RIVER *** [6h Jc 9c 2d] [5s]
+dan74t: bets $0.02
+Dogdo100: calls $0.02
+*** SHOW DOWN ***
+dan74t: shows [Kd 6d] (a pair of Sixes)
+Dogdo100: shows [As 9s] (a pair of Nines)
+Dogdo100 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [6h Jc 9c 2d 5s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 showed [As 9s] and won ($0.22) with a pair of Nines
+Seat 4: murdoc.cz (button) folded before Flop (didn't bet)
+Seat 5: deileon (small blind) folded before Flop
+Seat 6: RIXX6 (big blind) folded before Flop
+Seat 7: victor2k88 folded before Flop (didn't bet)
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: dan74t showed [Kd 6d] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #231246828118:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:27:44 PT [2021/11/08 15:27:44 ET]
+Table 'Tombaugh II' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($3.39 in chips) 
+Seat 2: Dogdo100 ($2.29 in chips) 
+Seat 4: murdoc.cz ($2.19 in chips) 
+Seat 5: deileon ($2.55 in chips) 
+Seat 6: RIXX6 ($2.18 in chips) 
+Seat 7: victor2k88 ($0.84 in chips) 
+Seat 8: Artishell ($2.31 in chips) 
+Seat 9: dan74t ($3.38 in chips) 
+RIXX6: posts small blind $0.01
+victor2k88: posts big blind $0.02
+Californian_888: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 6d]
+Artishell: folds 
+dan74t: calls $0.02
+Dorex2007: folds 
+Dogdo100: folds 
+murdoc.cz: folds 
+deileon: folds 
+RIXX6: raises $0.08 to $0.10
+victor2k88: calls $0.08
+dan74t: folds 
+*** FLOP *** [8s 8c Qd]
+RIXX6: bets $0.14
+victor2k88: folds 
+Uncalled bet ($0.14) returned to RIXX6
+RIXX6 collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [8s 8c Qd]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 4: murdoc.cz folded before Flop (didn't bet)
+Seat 5: deileon (button) folded before Flop (didn't bet)
+Seat 6: RIXX6 (small blind) collected ($0.21)
+Seat 7: victor2k88 (big blind) folded on the Flop
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: dan74t folded before Flop
+
+
+
+PokerStars Hand #231246847562:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:28:21 PT [2021/11/08 15:28:21 ET]
+Table 'Tombaugh II' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($3.39 in chips) 
+Seat 2: Dogdo100 ($2.29 in chips) 
+Seat 4: murdoc.cz ($2.19 in chips) 
+Seat 5: deileon ($2.55 in chips) 
+Seat 6: RIXX6 ($2.29 in chips) 
+Seat 7: victor2k88 ($0.74 in chips) 
+Seat 8: Artishell ($2.31 in chips) 
+Seat 9: dan74t ($3.36 in chips) 
+victor2k88: posts small blind $0.01
+Artishell: posts big blind $0.02
+Californian_888: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Kd]
+dan74t: folds 
+Dorex2007: folds 
+Dogdo100: folds 
+murdoc.cz: folds 
+deileon: folds 
+RIXX6: folds 
+victor2k88: raises $0.02 to $0.04
+Artishell: folds 
+Uncalled bet ($0.02) returned to victor2k88
+victor2k88 collected $0.04 from pot
+victor2k88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 4: murdoc.cz folded before Flop (didn't bet)
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: RIXX6 (button) folded before Flop (didn't bet)
+Seat 7: victor2k88 (small blind) collected ($0.04)
+Seat 8: Artishell (big blind) folded before Flop
+Seat 9: dan74t folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231246861671:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:28:48 PT [2021/11/08 15:28:48 ET]
+Table 'Tombaugh II' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($3.39 in chips) 
+Seat 2: Dogdo100 ($2.29 in chips) 
+Seat 4: murdoc.cz ($2.19 in chips) 
+Seat 5: deileon ($2.55 in chips) 
+Seat 6: RIXX6 ($2.29 in chips) 
+Seat 7: victor2k88 ($0.76 in chips) 
+Seat 8: Artishell ($2.29 in chips) 
+Seat 9: dan74t ($3.36 in chips) 
+Artishell: posts small blind $0.01
+dan74t: posts big blind $0.02
+Californian_888: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Th]
+Dorex2007: folds 
+Dogdo100: folds 
+murdoc.cz: folds 
+deileon: folds 
+RIXX6: folds 
+victor2k88: calls $0.02
+Artishell: calls $0.01
+dan74t: checks 
+*** FLOP *** [4d 2h 7h]
+Artishell: checks 
+dan74t: checks 
+victor2k88: checks 
+*** TURN *** [4d 2h 7h] [Qd]
+Artishell: bets $0.02
+dan74t: folds 
+victor2k88: folds 
+Uncalled bet ($0.02) returned to Artishell
+Artishell collected $0.06 from pot
+Artishell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [4d 2h 7h Qd]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 4: murdoc.cz folded before Flop (didn't bet)
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: RIXX6 folded before Flop (didn't bet)
+Seat 7: victor2k88 (button) folded on the Turn
+Seat 8: Artishell (small blind) collected ($0.06)
+Seat 9: dan74t (big blind) folded on the Turn
+
+
+
+PokerStars Hand #231246885000:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:29:33 PT [2021/11/08 15:29:33 ET]
+Table 'Tombaugh II' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($3.39 in chips) 
+Seat 2: Dogdo100 ($2.29 in chips) 
+Seat 4: murdoc.cz ($2.19 in chips) 
+Seat 5: deileon ($2.55 in chips) 
+Seat 6: RIXX6 ($2.29 in chips) 
+Seat 7: victor2k88 ($0.74 in chips) 
+Seat 8: Artishell ($2.33 in chips) 
+Seat 9: dan74t ($3.34 in chips) 
+dan74t: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Californian_888: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 3d]
+Dogdo100: folds 
+murdoc.cz has timed out
+murdoc.cz: folds 
+deileon: folds 
+RIXX6: raises $0.04 to $0.06
+victor2k88: folds 
+Artishell: folds 
+dan74t: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to RIXX6
+RIXX6 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 4: murdoc.cz folded before Flop (didn't bet)
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: RIXX6 collected ($0.05)
+Seat 7: victor2k88 folded before Flop (didn't bet)
+Seat 8: Artishell (button) folded before Flop (didn't bet)
+Seat 9: dan74t (small blind) folded before Flop
+
+
+
+PokerStars Hand #231246901721:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:30:05 PT [2021/11/08 15:30:05 ET]
+Table 'Tombaugh II' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($3.37 in chips) 
+Seat 2: Dogdo100 ($2.29 in chips) 
+Seat 5: deileon ($2.55 in chips) 
+Seat 6: RIXX6 ($2.32 in chips) 
+Seat 7: victor2k88 ($0.74 in chips) 
+Seat 8: Artishell ($2.33 in chips) 
+Seat 9: dan74t ($3.33 in chips) 
+Dorex2007: posts small blind $0.01
+Dogdo100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Tc]
+deileon: calls $0.02
+RIXX6: raises $0.10 to $0.12
+victor2k88: calls $0.12
+Artishell: folds 
+dan74t: folds 
+Dorex2007: folds 
+Dogdo100: folds 
+deileon: folds 
+*** FLOP *** [Qc Qs Jh]
+RIXX6: bets $0.16
+victor2k88: calls $0.16
+*** TURN *** [Qc Qs Jh] [6d]
+RIXX6: bets $0.30
+victor2k88: folds 
+Uncalled bet ($0.30) returned to RIXX6
+RIXX6 collected $0.59 from pot
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [Qc Qs Jh 6d]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: Dogdo100 (big blind) folded before Flop
+Seat 5: deileon folded before Flop
+Seat 6: RIXX6 collected ($0.59)
+Seat 7: victor2k88 folded on the Turn
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: dan74t (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231246925828:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:30:51 PT [2021/11/08 15:30:51 ET]
+Table 'Tombaugh II' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($3.36 in chips) 
+Seat 2: Dogdo100 ($2.27 in chips) 
+Seat 5: deileon ($2.53 in chips) 
+Seat 6: RIXX6 ($2.63 in chips) 
+Seat 7: victor2k88 ($0.46 in chips) 
+Seat 8: Artishell ($2.33 in chips) 
+Seat 9: dan74t ($3.33 in chips) 
+Dogdo100: posts small blind $0.01
+deileon: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 6d]
+RIXX6: raises $0.10 to $0.12
+victor2k88: folds 
+Artishell: folds 
+dan74t: folds 
+Dorex2007: folds 
+Dogdo100: folds 
+deileon: folds 
+Uncalled bet ($0.10) returned to RIXX6
+RIXX6 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: Dogdo100 (small blind) folded before Flop
+Seat 5: deileon (big blind) folded before Flop
+Seat 6: RIXX6 collected ($0.05)
+Seat 7: victor2k88 folded before Flop (didn't bet)
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: dan74t folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231246938003:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:31:14 PT [2021/11/08 15:31:14 ET]
+Table 'Tombaugh II' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($3.36 in chips) 
+Seat 2: Dogdo100 ($2.26 in chips) 
+Seat 5: deileon ($2.51 in chips) 
+Seat 6: RIXX6 ($2.66 in chips) 
+Seat 7: victor2k88 ($0.46 in chips) 
+Seat 8: Artishell ($2.33 in chips) 
+Seat 9: dan74t ($3.33 in chips) 
+deileon: posts small blind $0.01
+RIXX6: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Jc]
+victor2k88: calls $0.02
+murdoc.cz leaves the table
+Artishell: calls $0.02
+dan74t: calls $0.02
+Dorex2007: folds 
+Dogdo100: folds 
+deileon: folds 
+fhvty333432 joins the table at seat #4 
+RIXX6: raises $0.18 to $0.20
+victor2k88: folds 
+Artishell: calls $0.18
+dan74t: calls $0.18
+*** FLOP *** [4s 3s Kc]
+RIXX6: bets $0.31
+Artishell: folds 
+dan74t: folds 
+Uncalled bet ($0.31) returned to RIXX6
+RIXX6 collected $0.61 from pot
+*** SUMMARY ***
+Total pot $0.63 | Rake $0.02 
+Board [4s 3s Kc]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 (button) folded before Flop (didn't bet)
+Seat 5: deileon (small blind) folded before Flop
+Seat 6: RIXX6 (big blind) collected ($0.61)
+Seat 7: victor2k88 folded before Flop
+Seat 8: Artishell folded on the Flop
+Seat 9: dan74t folded on the Flop
+
+
+
+PokerStars Hand #231246969251:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:32:13 PT [2021/11/08 15:32:13 ET]
+Table 'Tombaugh II' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($3.36 in chips) 
+Seat 2: Dogdo100 ($2.26 in chips) 
+Seat 4: fhvty333432 ($0.80 in chips) 
+Seat 5: deileon ($2.50 in chips) 
+Seat 6: RIXX6 ($3.07 in chips) 
+Seat 7: victor2k88 ($0.44 in chips) 
+Seat 8: Artishell ($2.13 in chips) 
+Seat 9: dan74t ($3.13 in chips) 
+RIXX6: posts small blind $0.01
+victor2k88: posts big blind $0.02
+fhvty333432: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 3c]
+Artishell: raises $2.11 to $2.13 and is all-in
+dan74t: folds 
+Dorex2007: folds 
+Dogdo100: folds 
+fhvty333432: folds 
+deileon: folds 
+RIXX6: folds 
+victor2k88: folds 
+Uncalled bet ($2.11) returned to Artishell
+Artishell collected $0.07 from pot
+Artishell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 4: fhvty333432 folded before Flop (didn't bet)
+Seat 5: deileon (button) folded before Flop (didn't bet)
+Seat 6: RIXX6 (small blind) folded before Flop
+Seat 7: victor2k88 (big blind) folded before Flop
+Seat 8: Artishell collected ($0.07)
+Seat 9: dan74t folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231246985435:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:32:44 PT [2021/11/08 15:32:44 ET]
+Table 'Tombaugh II' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($3.36 in chips) 
+Seat 2: Dogdo100 ($2.26 in chips) 
+Seat 4: fhvty333432 ($0.78 in chips) 
+Seat 5: deileon ($2.50 in chips) 
+Seat 6: RIXX6 ($3.06 in chips) 
+Seat 7: victor2k88 ($0.42 in chips) 
+Seat 8: Artishell ($2.18 in chips) 
+Seat 9: dan74t ($3.13 in chips) 
+victor2k88: posts small blind $0.01
+Artishell: posts big blind $0.02
+Californian_888: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 9s]
+dan74t: calls $0.02
+Dorex2007: folds 
+Dogdo100: folds 
+fhvty333432: calls $0.02
+deileon: folds 
+RIXX6: raises $0.14 to $0.16
+victor2k88: calls $0.15
+Artishell: folds 
+dan74t: folds 
+fhvty333432: folds 
+*** FLOP *** [Ad Ts Ks]
+victor2k88: bets $0.02
+RIXX6: raises $2.88 to $2.90 and is all-in
+victor2k88: calls $0.24 and is all-in
+Uncalled bet ($2.64) returned to RIXX6
+*** TURN *** [Ad Ts Ks] [Kd]
+*** RIVER *** [Ad Ts Ks Kd] [3h]
+*** SHOW DOWN ***
+victor2k88: shows [Kh 5c] (three of a kind, Kings)
+RIXX6: shows [4h 4c] (two pair, Kings and Fours)
+victor2k88 collected $0.87 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.03 
+Board [Ad Ts Ks Kd 3h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 4: fhvty333432 folded before Flop
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: RIXX6 (button) showed [4h 4c] and lost with two pair, Kings and Fours
+Seat 7: victor2k88 (small blind) showed [Kh 5c] and won ($0.87) with three of a kind, Kings
+Seat 8: Artishell (big blind) folded before Flop
+Seat 9: dan74t folded before Flop
+
+
+
+PokerStars Hand #231247024108:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:33:58 PT [2021/11/08 15:33:58 ET]
+Table 'Tombaugh II' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($3.36 in chips) 
+Seat 2: Dogdo100 ($2.26 in chips) 
+Seat 4: fhvty333432 ($0.76 in chips) 
+Seat 5: deileon ($2.50 in chips) 
+Seat 6: RIXX6 ($2.64 in chips) 
+Seat 7: victor2k88 ($0.87 in chips) 
+Seat 8: Artishell ($2.16 in chips) 
+Seat 9: dan74t ($3.11 in chips) 
+Artishell: posts small blind $0.01
+dan74t: posts big blind $0.02
+Californian_888: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Qs]
+Dorex2007: folds 
+Dogdo100: folds 
+fhvty333432: calls $0.02
+deileon: folds 
+RIXX6: raises $0.10 to $0.12
+victor2k88: folds 
+Artishell: folds 
+dan74t: folds 
+fhvty333432: calls $0.10
+*** FLOP *** [2h Jc 5s]
+fhvty333432: checks 
+RIXX6: bets $0.13
+fhvty333432: folds 
+Uncalled bet ($0.13) returned to RIXX6
+RIXX6 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [2h Jc 5s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 4: fhvty333432 folded on the Flop
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: RIXX6 collected ($0.26)
+Seat 7: victor2k88 (button) folded before Flop (didn't bet)
+Seat 8: Artishell (small blind) folded before Flop
+Seat 9: dan74t (big blind) folded before Flop
+
+
+
+PokerStars Hand #231247051340:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:34:51 PT [2021/11/08 15:34:51 ET]
+Table 'Tombaugh II' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($3.36 in chips) 
+Seat 2: Dogdo100 ($2.26 in chips) 
+Seat 4: fhvty333432 ($0.64 in chips) 
+Seat 5: deileon ($2.50 in chips) 
+Seat 6: RIXX6 ($2.78 in chips) 
+Seat 7: victor2k88 ($0.87 in chips) 
+Seat 8: Artishell ($2.15 in chips) 
+Seat 9: dan74t ($3.09 in chips) 
+dan74t: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Californian_888: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 6s]
+Dogdo100: folds 
+fhvty333432: raises $0.02 to $0.04
+deileon: folds 
+RIXX6: calls $0.04
+victor2k88: calls $0.04
+Artishell: folds 
+dan74t: folds 
+Dorex2007: folds 
+*** FLOP *** [5s 3d Th]
+fhvty333432: bets $0.02
+RIXX6: calls $0.02
+victor2k88: calls $0.02
+*** TURN *** [5s 3d Th] [Qd]
+fhvty333432: bets $0.04
+RIXX6: raises $0.14 to $0.18
+victor2k88: folds 
+fhvty333432: calls $0.14
+*** RIVER *** [5s 3d Th Qd] [2d]
+fhvty333432: checks 
+RIXX6: bets $0.40
+fhvty333432: folds 
+Uncalled bet ($0.40) returned to RIXX6
+RIXX6 collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [5s 3d Th Qd 2d]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 4: fhvty333432 folded on the River
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: RIXX6 collected ($0.55)
+Seat 7: victor2k88 folded on the Turn
+Seat 8: Artishell (button) folded before Flop (didn't bet)
+Seat 9: dan74t (small blind) folded before Flop
+
+
+
+PokerStars Hand #231247079003:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:35:44 PT [2021/11/08 15:35:44 ET]
+Table 'Tombaugh II' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($3.34 in chips) 
+Seat 2: Dogdo100 ($2.26 in chips) 
+Seat 3: Californian_888 ($2.15 in chips) 
+Seat 4: fhvty333432 ($0.40 in chips) 
+Seat 5: deileon ($2.50 in chips) 
+Seat 6: RIXX6 ($3.09 in chips) 
+Seat 7: victor2k88 ($0.81 in chips) 
+Seat 8: Artishell ($2.15 in chips) 
+Dogdo100: posts small blind $0.01
+Californian_888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Td]
+fhvty333432: folds 
+deileon: folds 
+RIXX6: raises $0.06 to $0.08
+victor2k88: calls $0.08
+Artishell: folds 
+Dorex2007: folds 
+Dogdo100: folds 
+Californian_888: folds 
+*** FLOP *** [5h 7s Jh]
+RIXX6: bets $0.09
+victor2k88: folds 
+Uncalled bet ($0.09) returned to RIXX6
+RIXX6 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5h 7s Jh]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: Dogdo100 (small blind) folded before Flop
+Seat 3: Californian_888 (big blind) folded before Flop
+Seat 4: fhvty333432 folded before Flop (didn't bet)
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: RIXX6 collected ($0.18)
+Seat 7: victor2k88 folded on the Flop
+Seat 8: Artishell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231247097458:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:36:19 PT [2021/11/08 15:36:19 ET]
+Table 'Tombaugh II' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($3.34 in chips) 
+Seat 2: Dogdo100 ($2.25 in chips) 
+Seat 3: Californian_888 ($2.13 in chips) 
+Seat 4: fhvty333432 ($0.40 in chips) 
+Seat 5: deileon ($2.50 in chips) 
+Seat 6: RIXX6 ($3.19 in chips) 
+Seat 7: victor2k88 ($0.73 in chips) 
+Seat 8: Artishell ($2.15 in chips) 
+Californian_888: posts small blind $0.01
+fhvty333432: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 2s]
+deileon: folds 
+RIXX6: folds 
+victor2k88: calls $0.02
+Artishell: folds 
+Dorex2007: folds 
+Dogdo100: folds 
+Californian_888: calls $0.01
+fhvty333432: checks 
+*** FLOP *** [8h 6s 5s]
+Californian_888: bets $0.06
+fhvty333432: folds 
+victor2k88: folds 
+Uncalled bet ($0.06) returned to Californian_888
+Californian_888 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [8h 6s 5s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 (button) folded before Flop (didn't bet)
+Seat 3: Californian_888 (small blind) collected ($0.06)
+Seat 4: fhvty333432 (big blind) folded on the Flop
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: RIXX6 folded before Flop (didn't bet)
+Seat 7: victor2k88 folded on the Flop
+Seat 8: Artishell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231247115630:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:36:54 PT [2021/11/08 15:36:54 ET]
+Table 'Tombaugh II' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($3.34 in chips) 
+Seat 2: Dogdo100 ($2.25 in chips) 
+Seat 3: Californian_888 ($2.17 in chips) 
+Seat 4: fhvty333432 ($0.38 in chips) 
+Seat 5: deileon ($2.50 in chips) 
+Seat 6: RIXX6 ($3.19 in chips) 
+Seat 7: victor2k88 ($0.71 in chips) 
+Seat 8: Artishell ($2.15 in chips) 
+fhvty333432: posts small blind $0.01
+deileon: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 4d]
+RIXX6 has timed out
+RIXX6: folds 
+victor2k88: calls $0.02
+Artishell: raises $2.13 to $2.15 and is all-in
+Dorex2007: folds 
+Dogdo100: folds 
+Californian_888: folds 
+fhvty333432: calls $0.37 and is all-in
+deileon: folds 
+victor2k88: folds 
+Uncalled bet ($1.77) returned to Artishell
+*** FLOP *** [Kh 2c 3h]
+*** TURN *** [Kh 2c 3h] [2h]
+*** RIVER *** [Kh 2c 3h 2h] [Jh]
+*** SHOW DOWN ***
+fhvty333432: shows [As 7c] (a pair of Deuces)
+Artishell: shows [Qh Qd] (a flush, King high)
+Artishell collected $0.77 from pot
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.03 
+Board [Kh 2c 3h 2h Jh]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 3: Californian_888 (button) folded before Flop (didn't bet)
+Seat 4: fhvty333432 (small blind) showed [As 7c] and lost with a pair of Deuces
+Seat 5: deileon (big blind) folded before Flop
+Seat 6: RIXX6 folded before Flop (didn't bet)
+Seat 7: victor2k88 folded before Flop
+Seat 8: Artishell showed [Qh Qd] and won ($0.77) with a flush, King high
+
+
+
+PokerStars Hand #231247141228:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:37:44 PT [2021/11/08 15:37:44 ET]
+Table 'Tombaugh II' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($3.34 in chips) 
+Seat 2: Dogdo100 ($2.25 in chips) 
+Seat 3: Californian_888 ($2.17 in chips) 
+Seat 5: deileon ($2.48 in chips) 
+Seat 6: RIXX6 ($3.19 in chips) 
+Seat 7: victor2k88 ($0.69 in chips) 
+Seat 8: Artishell ($2.54 in chips) 
+RIXX6: posts small blind $0.01
+victor2k88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 4c]
+Artishell: folds 
+Dorex2007: folds 
+Dogdo100: folds 
+Californian_888: folds 
+deileon has timed out
+deileon: folds 
+RIXX6: folds 
+Uncalled bet ($0.01) returned to victor2k88
+victor2k88 collected $0.02 from pot
+victor2k88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 3: Californian_888 folded before Flop (didn't bet)
+Seat 5: deileon (button) folded before Flop (didn't bet)
+Seat 6: RIXX6 (small blind) folded before Flop
+Seat 7: victor2k88 (big blind) collected ($0.02)
+Seat 8: Artishell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231247155620:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:38:12 PT [2021/11/08 15:38:12 ET]
+Table 'Tombaugh II' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($3.34 in chips) 
+Seat 2: Dogdo100 ($2.25 in chips) 
+Seat 3: Californian_888 ($2.17 in chips) 
+Seat 4: fhvty333432 ($0.80 in chips) 
+Seat 6: RIXX6 ($3.18 in chips) 
+Seat 7: victor2k88 ($0.70 in chips) 
+Seat 8: Artishell ($2.54 in chips) 
+victor2k88: posts small blind $0.01
+Artishell: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Qs]
+Dorex2007: raises $0.04 to $0.06
+Dogdo100: folds 
+Californian_888: folds 
+fhvty333432: calls $0.06
+RIXX6: folds 
+victor2k88: folds 
+Artishell: folds 
+*** FLOP *** [Kc 6c 9c]
+Dorex2007: bets $0.07
+fhvty333432: calls $0.07
+*** TURN *** [Kc 6c 9c] [Td]
+Dorex2007: checks 
+fhvty333432: checks 
+*** RIVER *** [Kc 6c 9c Td] [3c]
+Dorex2007: bets $0.28
+fhvty333432: folds 
+Uncalled bet ($0.28) returned to Dorex2007
+Dorex2007 collected $0.28 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Kc 6c 9c Td 3c]
+Seat 1: Dorex2007 collected ($0.28)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 3: Californian_888 folded before Flop (didn't bet)
+Seat 4: fhvty333432 folded on the River
+Seat 6: RIXX6 (button) folded before Flop (didn't bet)
+Seat 7: victor2k88 (small blind) folded before Flop
+Seat 8: Artishell (big blind) folded before Flop
+
+
+
+PokerStars Hand #231247178262:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:38:56 PT [2021/11/08 15:38:56 ET]
+Table 'Tombaugh II' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($3.49 in chips) 
+Seat 2: Dogdo100 ($2.25 in chips) 
+Seat 3: Californian_888 ($2.17 in chips) 
+Seat 4: fhvty333432 ($0.67 in chips) 
+Seat 5: deileon ($2.48 in chips) 
+Seat 6: RIXX6 ($3.18 in chips) 
+Seat 7: victor2k88 ($0.69 in chips) 
+Seat 8: Artishell ($2.52 in chips) 
+Artishell: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Qd]
+Dogdo100: folds 
+Californian_888: folds 
+fhvty333432: raises $0.02 to $0.04
+deileon: folds 
+RIXX6: folds 
+victor2k88: calls $0.04
+Artishell: folds 
+Dorex2007: calls $0.02
+*** FLOP *** [4d 8s Jh]
+Dorex2007: checks 
+fhvty333432: checks 
+victor2k88: bets $0.02
+Dorex2007: calls $0.02
+fhvty333432: calls $0.02
+*** TURN *** [4d 8s Jh] [5d]
+Dorex2007: checks 
+fhvty333432: checks 
+victor2k88: bets $0.02
+Dorex2007: calls $0.02
+fhvty333432: folds 
+*** RIVER *** [4d 8s Jh 5d] [Kc]
+Dorex2007: bets $0.11
+victor2k88: raises $0.15 to $0.26
+Dorex2007: folds 
+Uncalled bet ($0.15) returned to victor2k88
+victor2k88 collected $0.43 from pot
+victor2k88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [4d 8s Jh 5d Kc]
+Seat 1: Dorex2007 (big blind) folded on the River
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 3: Californian_888 folded before Flop (didn't bet)
+Seat 4: fhvty333432 folded on the Turn
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: RIXX6 folded before Flop (didn't bet)
+Seat 7: victor2k88 (button) collected ($0.43)
+Seat 8: Artishell (small blind) folded before Flop
+
+
+
+PokerStars Hand #231247210532:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:39:58 PT [2021/11/08 15:39:58 ET]
+Table 'Tombaugh II' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($3.30 in chips) 
+Seat 2: Dogdo100 ($2.25 in chips) 
+Seat 3: Californian_888 ($2.17 in chips) 
+Seat 4: fhvty333432 ($0.61 in chips) 
+Seat 5: deileon ($2.48 in chips) 
+Seat 6: RIXX6 ($3.18 in chips) 
+Seat 7: victor2k88 ($0.93 in chips) 
+Seat 8: Artishell ($2.51 in chips) 
+Dorex2007: posts small blind $0.01
+Dogdo100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Qd]
+Californian_888: folds 
+fhvty333432: folds 
+deileon: folds 
+RIXX6: raises $0.04 to $0.06
+victor2k88: calls $0.06
+Artishell: folds 
+Dorex2007: folds 
+Dogdo100: folds 
+*** FLOP *** [4c Ts As]
+RIXX6: checks 
+victor2k88: checks 
+*** TURN *** [4c Ts As] [Ac]
+RIXX6: bets $0.07
+victor2k88: folds 
+Uncalled bet ($0.07) returned to RIXX6
+RIXX6 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [4c Ts As Ac]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: Dogdo100 (big blind) folded before Flop
+Seat 3: Californian_888 folded before Flop (didn't bet)
+Seat 4: fhvty333432 folded before Flop (didn't bet)
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: RIXX6 collected ($0.14)
+Seat 7: victor2k88 folded on the Turn
+Seat 8: Artishell (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231247239910:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:40:54 PT [2021/11/08 15:40:54 ET]
+Table 'Tombaugh II' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($3.29 in chips) 
+Seat 2: Dogdo100 ($2.23 in chips) 
+Seat 3: Californian_888 ($2.17 in chips) 
+Seat 4: fhvty333432 ($0.61 in chips) 
+Seat 5: deileon ($2.48 in chips) 
+Seat 7: victor2k88 ($0.87 in chips) 
+Seat 8: Artishell ($2.51 in chips) 
+Dogdo100: posts small blind $0.01
+Californian_888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 6s]
+RIXX6 leaves the table
+fhvty333432: raises $0.02 to $0.04
+deileon: folds 
+victor2k88: folds 
+Artishell: folds 
+Dorex2007: folds 
+Dogdo100: folds 
+Californian_888: calls $0.02
+*** FLOP *** [3d 9d 7h]
+Californian_888: checks 
+fhvty333432: bets $0.02
+Californian_888: calls $0.02
+*** TURN *** [3d 9d 7h] [4d]
+Californian_888: checks 
+fhvty333432: checks 
+*** RIVER *** [3d 9d 7h 4d] [5s]
+Californian_888: checks 
+fhvty333432: checks 
+*** SHOW DOWN ***
+Californian_888: shows [8c Ad] (high card Ace)
+fhvty333432: shows [2d 2c] (a pair of Deuces)
+fhvty333432 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3d 9d 7h 4d 5s]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: Dogdo100 (small blind) folded before Flop
+Seat 3: Californian_888 (big blind) showed [8c Ad] and lost with high card Ace
+Seat 4: fhvty333432 showed [2d 2c] and won ($0.13) with a pair of Deuces
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 7: victor2k88 folded before Flop (didn't bet)
+Seat 8: Artishell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231247259399:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:41:32 PT [2021/11/08 15:41:32 ET]
+Table 'Tombaugh II' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($3.29 in chips) 
+Seat 2: Dogdo100 ($2.22 in chips) 
+Seat 3: Californian_888 ($2.11 in chips) 
+Seat 4: fhvty333432 ($0.68 in chips) 
+Seat 5: deileon ($2.48 in chips) 
+Seat 7: victor2k88 ($0.87 in chips) 
+Seat 8: Artishell ($2.51 in chips) 
+Californian_888: posts small blind $0.01
+fhvty333432: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Ac]
+deileon: folds 
+victor2k88: calls $0.02
+Artishell: calls $0.02
+Dorex2007: calls $0.02
+Dogdo100: folds 
+Californian_888: calls $0.01
+fhvty333432: checks 
+*** FLOP *** [Jc 2d 9d]
+Californian_888: checks 
+fhvty333432: checks 
+victor2k88: checks 
+Artishell: checks 
+Dorex2007: bets $0.14
+Californian_888: folds 
+fhvty333432: folds 
+victor2k88: folds 
+Artishell: folds 
+Uncalled bet ($0.14) returned to Dorex2007
+Dorex2007 collected $0.10 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Jc 2d 9d]
+Seat 1: Dorex2007 collected ($0.10)
+Seat 2: Dogdo100 (button) folded before Flop (didn't bet)
+Seat 3: Californian_888 (small blind) folded on the Flop
+Seat 4: fhvty333432 (big blind) folded on the Flop
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 7: victor2k88 folded on the Flop
+Seat 8: Artishell folded on the Flop
+
+
+
+PokerStars Hand #231247288508:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:42:28 PT [2021/11/08 15:42:28 ET]
+Table 'Tombaugh II' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($3.37 in chips) 
+Seat 2: Dogdo100 ($2.22 in chips) 
+Seat 3: Californian_888 ($2.09 in chips) 
+Seat 4: fhvty333432 ($0.66 in chips) 
+Seat 5: deileon ($2.48 in chips) 
+Seat 7: victor2k88 ($0.85 in chips) 
+Seat 8: Artishell ($2.49 in chips) 
+fhvty333432: posts small blind $0.01
+deileon: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Qd]
+victor2k88: calls $0.02
+Artishell: folds 
+Dorex2007: folds 
+Dogdo100: folds 
+Californian_888: calls $0.02
+fhvty333432: folds 
+deileon: checks 
+*** FLOP *** [7c 2s 8c]
+deileon: checks 
+victor2k88: bets $0.02
+Californian_888: calls $0.02
+deileon: calls $0.02
+*** TURN *** [7c 2s 8c] [Jd]
+deileon: checks 
+victor2k88: bets $0.02
+Californian_888: calls $0.02
+deileon: calls $0.02
+*** RIVER *** [7c 2s 8c Jd] [5d]
+deileon: checks 
+victor2k88: bets $0.06
+Californian_888: calls $0.06
+deileon: folds 
+*** SHOW DOWN ***
+victor2k88: shows [Td 6s] (high card Jack)
+Californian_888: shows [9d 8h] (a pair of Eights)
+Californian_888 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [7c 2s 8c Jd 5d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 3: Californian_888 (button) showed [9d 8h] and won ($0.30) with a pair of Eights
+Seat 4: fhvty333432 (small blind) folded before Flop
+Seat 5: deileon (big blind) folded on the River
+Seat 7: victor2k88 showed [Td 6s] and lost with high card Jack
+Seat 8: Artishell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231247316152:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:43:21 PT [2021/11/08 15:43:21 ET]
+Table 'Tombaugh II' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($3.37 in chips) 
+Seat 2: Dogdo100 ($2.22 in chips) 
+Seat 3: Californian_888 ($2.27 in chips) 
+Seat 4: fhvty333432 ($0.65 in chips) 
+Seat 5: deileon ($2.42 in chips) 
+Seat 7: victor2k88 ($0.73 in chips) 
+Seat 8: Artishell ($2.49 in chips) 
+deileon: posts small blind $0.01
+victor2k88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 5c]
+Artishell: folds 
+Dorex2007: folds 
+Dogdo100: folds 
+Californian_888: folds 
+fhvty333432: folds 
+deileon: calls $0.01
+victor2k88: checks 
+*** FLOP *** [8s Jd 4s]
+deileon: checks 
+victor2k88: bets $0.02
+deileon: folds 
+Uncalled bet ($0.02) returned to victor2k88
+victor2k88 collected $0.04 from pot
+victor2k88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [8s Jd 4s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 3: Californian_888 folded before Flop (didn't bet)
+Seat 4: fhvty333432 (button) folded before Flop (didn't bet)
+Seat 5: deileon (small blind) folded on the Flop
+Seat 7: victor2k88 (big blind) collected ($0.04)
+Seat 8: Artishell folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231247333883:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:43:55 PT [2021/11/08 15:43:55 ET]
+Table 'Tombaugh II' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($3.37 in chips) 
+Seat 2: Dogdo100 ($2.22 in chips) 
+Seat 3: Californian_888 ($2.27 in chips) 
+Seat 4: fhvty333432 ($0.65 in chips) 
+Seat 5: deileon ($2.40 in chips) 
+Seat 7: victor2k88 ($0.75 in chips) 
+Seat 8: Artishell ($2.49 in chips) 
+victor2k88: posts small blind $0.01
+Artishell: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 3h]
+Woden95 joins the table at seat #6 
+Dorex2007: folds 
+Dogdo100: folds 
+Californian_888: raises $0.04 to $0.06
+fhvty333432: calls $0.06
+deileon: calls $0.06
+victor2k88: calls $0.05
+Artishell: folds 
+*** FLOP *** [9d 3d 9c]
+victor2k88: checks 
+Californian_888: checks 
+fhvty333432: bets $0.02
+deileon: calls $0.02
+victor2k88: calls $0.02
+Californian_888: calls $0.02
+*** TURN *** [9d 3d 9c] [Qs]
+victor2k88: checks 
+Californian_888: checks 
+fhvty333432: checks 
+deileon: checks 
+*** RIVER *** [9d 3d 9c Qs] [Ad]
+victor2k88: bets $0.10
+Californian_888: calls $0.10
+fhvty333432: folds 
+deileon: folds 
+*** SHOW DOWN ***
+victor2k88: shows [6c 6s] (two pair, Nines and Sixes)
+Californian_888: shows [Js Ah] (two pair, Aces and Nines)
+Californian_888 collected $0.52 from pot
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [9d 3d 9c Qs Ad]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 3: Californian_888 showed [Js Ah] and won ($0.52) with two pair, Aces and Nines
+Seat 4: fhvty333432 folded on the River
+Seat 5: deileon (button) folded on the River
+Seat 7: victor2k88 (small blind) showed [6c 6s] and lost with two pair, Nines and Sixes
+Seat 8: Artishell (big blind) folded before Flop
+
+
+
+PokerStars Hand #231247373679:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:45:12 PT [2021/11/08 15:45:12 ET]
+Table 'Tombaugh II' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($3.37 in chips) 
+Seat 2: Dogdo100 ($2.22 in chips) 
+Seat 3: Californian_888 ($2.61 in chips) 
+Seat 4: fhvty333432 ($0.57 in chips) 
+Seat 5: deileon ($2.32 in chips) 
+Seat 7: victor2k88 ($0.57 in chips) 
+Seat 8: Artishell ($2.47 in chips) 
+Seat 9: dan74t ($3.08 in chips) 
+Artishell: posts small blind $0.01
+dan74t: posts big blind $0.02
+Woden95: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Kd]
+Dorex2007: calls $0.02
+Dogdo100: folds 
+Californian_888: folds 
+fhvty333432: calls $0.02
+deileon: folds 
+victor2k88: calls $0.02
+Artishell: folds 
+dan74t: checks 
+*** FLOP *** [9d Kc 2h]
+dan74t: checks 
+Dorex2007: checks 
+fhvty333432: checks 
+victor2k88: bets $0.02
+dan74t: folds 
+Dorex2007: calls $0.02
+fhvty333432: folds 
+*** TURN *** [9d Kc 2h] [5s]
+Dorex2007: checks 
+victor2k88: bets $0.04
+Dorex2007: raises $0.08 to $0.12
+victor2k88: calls $0.08
+*** RIVER *** [9d Kc 2h 5s] [6c]
+Dorex2007: bets $3.21 and is all-in
+victor2k88: calls $0.41 and is all-in
+Uncalled bet ($2.80) returned to Dorex2007
+*** SHOW DOWN ***
+Dorex2007: shows [Ac Kd] (a pair of Kings)
+victor2k88: shows [4h Kh] (a pair of Kings - lower kicker)
+Dorex2007 collected $1.15 from pot
+*** SUMMARY ***
+Total pot $1.19 | Rake $0.04 
+Board [9d Kc 2h 5s 6c]
+Seat 1: Dorex2007 showed [Ac Kd] and won ($1.15) with a pair of Kings
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 3: Californian_888 folded before Flop (didn't bet)
+Seat 4: fhvty333432 folded on the Flop
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 7: victor2k88 (button) showed [4h Kh] and lost with a pair of Kings
+Seat 8: Artishell (small blind) folded before Flop
+Seat 9: dan74t (big blind) folded on the Flop
+
+
+
+PokerStars Hand #231247408105:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:46:18 PT [2021/11/08 15:46:18 ET]
+Table 'Tombaugh II' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($3.95 in chips) 
+Seat 2: Dogdo100 ($2.22 in chips) 
+Seat 3: Californian_888 ($2.61 in chips) 
+Seat 4: fhvty333432 ($0.55 in chips) 
+Seat 5: deileon ($2.32 in chips) 
+Seat 6: Woden95 ($1.60 in chips) 
+Seat 8: Artishell ($2.46 in chips) 
+Seat 9: dan74t ($3.06 in chips) 
+dan74t: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Woden95: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Ad]
+Dogdo100: folds 
+Californian_888: folds 
+fhvty333432: folds 
+deileon has timed out
+deileon: folds 
+Woden95: checks 
+Artishell: folds 
+dan74t: folds 
+Dorex2007: checks 
+*** FLOP *** [2h 3c 5h]
+Dorex2007: checks 
+Woden95: checks 
+*** TURN *** [2h 3c 5h] [3d]
+Dorex2007: checks 
+Woden95: checks 
+*** RIVER *** [2h 3c 5h 3d] [4c]
+Dorex2007: bets $0.10
+Woden95: calls $0.10
+*** SHOW DOWN ***
+Dorex2007: shows [Td Ad] (a straight, Ace to Five)
+Woden95: mucks hand 
+Dorex2007 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2h 3c 5h 3d 4c]
+Seat 1: Dorex2007 (big blind) showed [Td Ad] and won ($0.24) with a straight, Ace to Five
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 3: Californian_888 folded before Flop (didn't bet)
+Seat 4: fhvty333432 folded before Flop (didn't bet)
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: Woden95 mucked [7d 2c]
+Seat 8: Artishell (button) folded before Flop (didn't bet)
+Seat 9: dan74t (small blind) folded before Flop
+
+
+
+PokerStars Hand #231247431941:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:47:04 PT [2021/11/08 15:47:04 ET]
+Table 'Tombaugh II' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($4.07 in chips) 
+Seat 2: Dogdo100 ($2.22 in chips) 
+Seat 3: Californian_888 ($2.61 in chips) 
+Seat 4: fhvty333432 ($0.55 in chips) 
+Seat 6: Woden95 ($1.48 in chips) 
+Seat 7: victor2k88 ($0.80 in chips) 
+Seat 8: Artishell ($2.46 in chips) 
+Seat 9: dan74t ($3.05 in chips) 
+Dorex2007: posts small blind $0.01
+Dogdo100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 3h]
+Californian_888: folds 
+fhvty333432: calls $0.02
+Woden95: calls $0.02
+victor2k88: calls $0.02
+Artishell: folds 
+dan74t: calls $0.02
+Dorex2007: calls $0.01
+Dogdo100: checks 
+*** FLOP *** [Kh 9h 2h]
+Dorex2007: checks 
+Dogdo100: checks 
+fhvty333432: checks 
+Woden95: checks 
+victor2k88: bets $0.02
+dan74t: calls $0.02
+Dorex2007: folds 
+Dogdo100: folds 
+fhvty333432: folds 
+Woden95: calls $0.02
+*** TURN *** [Kh 9h 2h] [5c]
+Woden95: checks 
+victor2k88: checks 
+dan74t: checks 
+*** RIVER *** [Kh 9h 2h 5c] [Qs]
+Woden95: checks 
+victor2k88: checks 
+dan74t: checks 
+*** SHOW DOWN ***
+Woden95: shows [8h 9c] (a pair of Nines)
+victor2k88: mucks hand 
+dan74t: shows [Qc Ad] (a pair of Queens)
+dan74t collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Kh 9h 2h 5c Qs]
+Seat 1: Dorex2007 (small blind) folded on the Flop
+Seat 2: Dogdo100 (big blind) folded on the Flop
+Seat 3: Californian_888 folded before Flop (didn't bet)
+Seat 4: fhvty333432 folded on the Flop
+Seat 6: Woden95 showed [8h 9c] and lost with a pair of Nines
+Seat 7: victor2k88 mucked [2d Ah]
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: dan74t (button) showed [Qc Ad] and won ($0.17) with a pair of Queens
+
+
+
+PokerStars Hand #231247465039:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:48:08 PT [2021/11/08 15:48:08 ET]
+Table 'Tombaugh II' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($4.05 in chips) 
+Seat 2: Dogdo100 ($2.20 in chips) 
+Seat 3: Californian_888 ($2.61 in chips) 
+Seat 4: fhvty333432 ($0.53 in chips) 
+Seat 5: deileon ($2.32 in chips) 
+Seat 6: Woden95 ($1.44 in chips) 
+Seat 7: victor2k88 ($0.76 in chips) 
+Seat 8: Artishell ($2.46 in chips) 
+Seat 9: dan74t ($3.18 in chips) 
+Dogdo100: posts small blind $0.01
+Californian_888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 4h]
+fhvty333432: folds 
+deileon: folds 
+Woden95: calls $0.02
+victor2k88: calls $0.02
+Artishell: raises $2.44 to $2.46 and is all-in
+dan74t: folds 
+Dorex2007: folds 
+Dogdo100: folds 
+Californian_888: folds 
+Woden95: folds 
+victor2k88: folds 
+Uncalled bet ($2.44) returned to Artishell
+Artishell collected $0.09 from pot
+Artishell: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: Dogdo100 (small blind) folded before Flop
+Seat 3: Californian_888 (big blind) folded before Flop
+Seat 4: fhvty333432 folded before Flop (didn't bet)
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: Woden95 folded before Flop
+Seat 7: victor2k88 folded before Flop
+Seat 8: Artishell collected ($0.09)
+Seat 9: dan74t folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231247483063:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:48:43 PT [2021/11/08 15:48:43 ET]
+Table 'Tombaugh II' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($4.05 in chips) 
+Seat 2: Dogdo100 ($2.19 in chips) 
+Seat 3: Californian_888 ($2.59 in chips) 
+Seat 4: fhvty333432 ($0.53 in chips) 
+Seat 5: deileon ($2.32 in chips) 
+Seat 6: Woden95 ($1.42 in chips) 
+Seat 7: victor2k88 ($0.74 in chips) 
+Seat 8: Artishell ($2.53 in chips) 
+Seat 9: dan74t ($3.18 in chips) 
+Californian_888: posts small blind $0.01
+fhvty333432: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 2c]
+deileon: folds 
+Woden95: calls $0.02
+victor2k88: calls $0.02
+Artishell has timed out
+Artishell: folds 
+dan74t: calls $0.02
+Dorex2007: folds 
+Dogdo100: folds 
+Californian_888: calls $0.01
+fhvty333432: checks 
+*** FLOP *** [3d Jh 4c]
+Californian_888: checks 
+fhvty333432: checks 
+Woden95: checks 
+victor2k88: checks 
+dan74t: checks 
+*** TURN *** [3d Jh 4c] [Kd]
+Californian_888: checks 
+fhvty333432: checks 
+Woden95: checks 
+victor2k88: bets $0.04
+dan74t: folds 
+Californian_888: folds 
+fhvty333432: folds 
+Woden95: folds 
+Uncalled bet ($0.04) returned to victor2k88
+victor2k88 collected $0.10 from pot
+victor2k88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [3d Jh 4c Kd]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 (button) folded before Flop (didn't bet)
+Seat 3: Californian_888 (small blind) folded on the Turn
+Seat 4: fhvty333432 (big blind) folded on the Turn
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: Woden95 folded on the Turn
+Seat 7: victor2k88 collected ($0.10)
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: dan74t folded on the Turn
+
+
+
+PokerStars Hand #231247521756:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:49:58 PT [2021/11/08 15:49:58 ET]
+Table 'Tombaugh II' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($4.05 in chips) 
+Seat 2: Dogdo100 ($2.19 in chips) 
+Seat 3: Californian_888 ($2.57 in chips) 
+Seat 4: fhvty333432 ($0.51 in chips) 
+Seat 5: deileon ($2.32 in chips) 
+Seat 6: Woden95 ($1.40 in chips) 
+Seat 7: victor2k88 ($0.82 in chips) 
+Seat 8: Artishell ($2.53 in chips) 
+Seat 9: dan74t ($3.16 in chips) 
+fhvty333432: posts small blind $0.01
+deileon: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Ad]
+Woden95: folds 
+victor2k88: folds 
+Artishell: folds 
+dan74t: calls $0.02
+Dorex2007: raises $0.04 to $0.06
+Dogdo100: folds 
+Californian_888: folds 
+fhvty333432: calls $0.05
+deileon: folds 
+dan74t: calls $0.04
+*** FLOP *** [6d 4h As]
+fhvty333432: bets $0.02
+dan74t: calls $0.02
+Dorex2007: raises $0.17 to $0.19
+fhvty333432: folds 
+dan74t: folds 
+Uncalled bet ($0.17) returned to Dorex2007
+Dorex2007 collected $0.25 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [6d 4h As]
+Seat 1: Dorex2007 collected ($0.25)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 3: Californian_888 (button) folded before Flop (didn't bet)
+Seat 4: fhvty333432 (small blind) folded on the Flop
+Seat 5: deileon (big blind) folded before Flop
+Seat 6: Woden95 folded before Flop (didn't bet)
+Seat 7: victor2k88 folded before Flop (didn't bet)
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: dan74t folded on the Flop
+
+
+
+PokerStars Hand #231247546621:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:50:47 PT [2021/11/08 15:50:47 ET]
+Table 'Tombaugh II' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($4.22 in chips) 
+Seat 2: Dogdo100 ($2.19 in chips) 
+Seat 3: Californian_888 ($2.57 in chips) 
+Seat 4: fhvty333432 ($0.43 in chips) 
+Seat 5: deileon ($2.30 in chips) 
+Seat 6: Woden95 ($1.40 in chips) 
+Seat 7: victor2k88 ($0.82 in chips) 
+Seat 8: Artishell ($2.53 in chips) 
+Seat 9: dan74t ($3.08 in chips) 
+deileon: posts small blind $0.01
+Woden95: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c As]
+victor2k88: folds 
+Artishell: folds 
+dan74t: folds 
+Dorex2007: folds 
+Dogdo100: folds 
+Californian_888: folds 
+fhvty333432: folds 
+deileon: folds 
+Uncalled bet ($0.01) returned to Woden95
+Woden95 collected $0.02 from pot
+Woden95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 3: Californian_888 folded before Flop (didn't bet)
+Seat 4: fhvty333432 (button) folded before Flop (didn't bet)
+Seat 5: deileon (small blind) folded before Flop
+Seat 6: Woden95 (big blind) collected ($0.02)
+Seat 7: victor2k88 folded before Flop (didn't bet)
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: dan74t folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231247555162:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:51:03 PT [2021/11/08 15:51:03 ET]
+Table 'Tombaugh II' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($4.22 in chips) 
+Seat 2: Dogdo100 ($2.19 in chips) 
+Seat 3: Californian_888 ($2.57 in chips) 
+Seat 4: fhvty333432 ($0.43 in chips) 
+Seat 5: deileon ($2.29 in chips) 
+Seat 6: Woden95 ($1.41 in chips) 
+Seat 7: victor2k88 ($0.82 in chips) 
+Seat 8: Artishell ($2.53 in chips) 
+Seat 9: dan74t ($3.08 in chips) 
+Woden95: posts small blind $0.01
+victor2k88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 9c]
+Artishell: folds 
+dan74t: calls $0.02
+Dorex2007: folds 
+Dogdo100: folds 
+Californian_888: raises $0.04 to $0.06
+fhvty333432: folds 
+deileon: calls $0.06
+Woden95: calls $0.05
+victor2k88: calls $0.04
+dan74t: calls $0.04
+*** FLOP *** [5c 8h 4d]
+Woden95: bets $0.10
+victor2k88: folds 
+dan74t: calls $0.10
+Californian_888: folds 
+deileon: folds 
+*** TURN *** [5c 8h 4d] [7c]
+Woden95: checks 
+dan74t: bets $0.24
+Woden95: folds 
+Uncalled bet ($0.24) returned to dan74t
+dan74t collected $0.48 from pot
+dan74t: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [5c 8h 4d 7c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 3: Californian_888 folded on the Flop
+Seat 4: fhvty333432 folded before Flop (didn't bet)
+Seat 5: deileon (button) folded on the Flop
+Seat 6: Woden95 (small blind) folded on the Turn
+Seat 7: victor2k88 (big blind) folded on the Flop
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: dan74t collected ($0.48)
+
+
+
+PokerStars Hand #231247597530:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:52:16 PT [2021/11/08 15:52:16 ET]
+Table 'Tombaugh II' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($4.22 in chips) 
+Seat 2: Dogdo100 ($2.19 in chips) 
+Seat 3: Californian_888 ($2.51 in chips) 
+Seat 4: fhvty333432 ($0.43 in chips) 
+Seat 5: deileon ($2.23 in chips) 
+Seat 6: Woden95 ($1.25 in chips) 
+Seat 7: victor2k88 ($0.76 in chips) 
+Seat 8: Artishell ($2.53 in chips) 
+victor2k88: posts small blind $0.01
+Artishell: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Jd]
+dan74t leaves the table
+Dorex2007: folds 
+Dogdo100: folds 
+Californian_888: folds 
+fhvty333432: folds 
+deileon: raises $0.02 to $0.04
+Woden95: calls $0.04
+victor2k88: folds 
+Artishell: folds 
+*** FLOP *** [2s 5s 5d]
+Nikand999 joins the table at seat #9 
+deileon: bets $0.06
+Woden95: raises $0.24 to $0.30
+deileon: folds 
+Uncalled bet ($0.24) returned to Woden95
+Woden95 collected $0.22 from pot
+Woden95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [2s 5s 5d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 3: Californian_888 folded before Flop (didn't bet)
+Seat 4: fhvty333432 folded before Flop (didn't bet)
+Seat 5: deileon folded on the Flop
+Seat 6: Woden95 (button) collected ($0.22)
+Seat 7: victor2k88 (small blind) folded before Flop
+Seat 8: Artishell (big blind) folded before Flop
+
+
+
+PokerStars Hand #231247624412:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:53:09 PT [2021/11/08 15:53:09 ET]
+Table 'Tombaugh II' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($4.22 in chips) 
+Seat 2: Dogdo100 ($2.19 in chips) 
+Seat 3: Californian_888 ($2.51 in chips) 
+Seat 4: fhvty333432 ($0.43 in chips) 
+Seat 5: deileon ($2.13 in chips) 
+Seat 6: Woden95 ($1.37 in chips) 
+Seat 7: victor2k88 ($0.75 in chips) 
+Seat 8: Artishell ($2.51 in chips) 
+Seat 9: Nikand999 ($2 in chips) 
+Artishell: posts small blind $0.01
+Nikand999: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 9s]
+Dorex2007: folds 
+Dogdo100: folds 
+Californian_888: raises $0.02 to $0.04
+fhvty333432: folds 
+deileon: folds 
+Woden95: calls $0.04
+victor2k88: calls $0.04
+Artishell: folds 
+Nikand999: folds 
+*** FLOP *** [7s Ad 3h]
+Californian_888: bets $0.10
+Woden95: folds 
+victor2k88: folds 
+Uncalled bet ($0.10) returned to Californian_888
+Californian_888 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7s Ad 3h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 3: Californian_888 collected ($0.14)
+Seat 4: fhvty333432 folded before Flop (didn't bet)
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: Woden95 folded on the Flop
+Seat 7: victor2k88 (button) folded on the Flop
+Seat 8: Artishell (small blind) folded before Flop
+Seat 9: Nikand999 (big blind) folded before Flop
+
+
+
+PokerStars Hand #231247647460:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:53:54 PT [2021/11/08 15:53:54 ET]
+Table 'Tombaugh II' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($4.22 in chips) 
+Seat 2: Dogdo100 ($2.19 in chips) 
+Seat 3: Californian_888 ($2.61 in chips) 
+Seat 4: fhvty333432 ($0.43 in chips) 
+Seat 5: deileon ($2.13 in chips) 
+Seat 6: Woden95 ($1.33 in chips) 
+Seat 7: victor2k88 ($0.71 in chips) 
+Seat 8: Artishell ($2.50 in chips) 
+Seat 9: Nikand999 ($1.98 in chips) 
+Nikand999: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 9c]
+Dogdo100: folds 
+Californian_888: folds 
+fhvty333432: calls $0.02
+deileon: folds 
+Woden95: folds 
+victor2k88: calls $0.02
+Artishell: folds 
+Nikand999: folds 
+Dorex2007: checks 
+*** FLOP *** [Ac As 5d]
+Dorex2007: checks 
+fhvty333432: checks 
+victor2k88: checks 
+*** TURN *** [Ac As 5d] [2c]
+Dorex2007: checks 
+fhvty333432: checks 
+victor2k88: bets $0.02
+Dorex2007: folds 
+fhvty333432: calls $0.02
+*** RIVER *** [Ac As 5d 2c] [3h]
+fhvty333432: checks 
+victor2k88: checks 
+*** SHOW DOWN ***
+fhvty333432: shows [Qs Td] (a pair of Aces)
+victor2k88: shows [Ah Th] (three of a kind, Aces)
+victor2k88 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Ac As 5d 2c 3h]
+Seat 1: Dorex2007 (big blind) folded on the Turn
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 3: Californian_888 folded before Flop (didn't bet)
+Seat 4: fhvty333432 showed [Qs Td] and lost with a pair of Aces
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: Woden95 folded before Flop (didn't bet)
+Seat 7: victor2k88 showed [Ah Th] and won ($0.11) with three of a kind, Aces
+Seat 8: Artishell (button) folded before Flop (didn't bet)
+Seat 9: Nikand999 (small blind) folded before Flop
+
+
+
+PokerStars Hand #231247674539:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:54:47 PT [2021/11/08 15:54:47 ET]
+Table 'Tombaugh II' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($4.20 in chips) 
+Seat 2: Dogdo100 ($2.19 in chips) 
+Seat 3: Californian_888 ($2.61 in chips) 
+Seat 4: fhvty333432 ($0.39 in chips) 
+Seat 5: deileon ($2.13 in chips) 
+Seat 6: Woden95 ($1.33 in chips) 
+Seat 7: victor2k88 ($0.78 in chips) 
+Seat 8: Artishell ($2.50 in chips) 
+Seat 9: Nikand999 ($1.97 in chips) 
+Dorex2007: posts small blind $0.01
+Dogdo100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 4c]
+Californian_888: folds 
+fhvty333432: calls $0.02
+deileon: folds 
+Woden95: folds 
+victor2k88: folds 
+Artishell: folds 
+Nikand999: folds 
+Dorex2007: calls $0.01
+Dogdo100: checks 
+*** FLOP *** [8s Tc Kc]
+Dorex2007: bets $0.03
+Dogdo100: folds 
+fhvty333432: folds 
+Uncalled bet ($0.03) returned to Dorex2007
+Dorex2007 collected $0.06 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [8s Tc Kc]
+Seat 1: Dorex2007 (small blind) collected ($0.06)
+Seat 2: Dogdo100 (big blind) folded on the Flop
+Seat 3: Californian_888 folded before Flop (didn't bet)
+Seat 4: fhvty333432 folded on the Flop
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: Woden95 folded before Flop (didn't bet)
+Seat 7: victor2k88 folded before Flop (didn't bet)
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: Nikand999 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231247692614:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:55:30 PT [2021/11/08 15:55:30 ET]
+Table 'Tombaugh II' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($4.24 in chips) 
+Seat 2: Dogdo100 ($2.17 in chips) 
+Seat 3: Californian_888 ($2.61 in chips) 
+Seat 4: fhvty333432 ($0.37 in chips) 
+Seat 5: deileon ($2.13 in chips) 
+Seat 6: Woden95 ($1.33 in chips) 
+Seat 7: victor2k88 ($0.78 in chips) 
+Seat 8: Artishell ($2.50 in chips) 
+Seat 9: Nikand999 ($1.97 in chips) 
+Dogdo100: posts small blind $0.01
+Californian_888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 7h]
+fhvty333432: folds 
+deileon: folds 
+Woden95: folds 
+victor2k88: calls $0.02
+Artishell: calls $0.02
+Nikand999: folds 
+Dorex2007: calls $0.02
+Dogdo100: calls $0.01
+Californian_888: checks 
+*** FLOP *** [5s Kd 9d]
+Dogdo100: checks 
+Californian_888: checks 
+victor2k88: checks 
+Artishell: checks 
+Dorex2007: checks 
+*** TURN *** [5s Kd 9d] [Td]
+Dogdo100: checks 
+Californian_888: checks 
+victor2k88: checks 
+Artishell: checks 
+Dorex2007: bets $0.04
+Dogdo100: folds 
+Californian_888: folds 
+victor2k88: calls $0.04
+Woden95 leaves the table
+Artishell: calls $0.04
+*** RIVER *** [5s Kd 9d Td] [8s]
+victor2k88: checks 
+Artishell: checks 
+Dorex2007: bets $0.04
+victor2k88: raises $0.16 to $0.20
+Artishell: folds 
+Dorex2007: folds 
+Uncalled bet ($0.16) returned to victor2k88
+victor2k88 collected $0.29 from pot
+victor2k88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [5s Kd 9d Td 8s]
+Seat 1: Dorex2007 (button) folded on the River
+Seat 2: Dogdo100 (small blind) folded on the Turn
+Seat 3: Californian_888 (big blind) folded on the Turn
+Seat 4: fhvty333432 folded before Flop (didn't bet)
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: Woden95 folded before Flop (didn't bet)
+Seat 7: victor2k88 collected ($0.29)
+Seat 8: Artishell folded on the River
+Seat 9: Nikand999 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231247736198:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:57:25 PT [2021/11/08 15:57:25 ET]
+Table 'Tombaugh II' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($4.14 in chips) 
+Seat 2: Dogdo100 ($2.15 in chips) 
+Seat 3: Californian_888 ($2.59 in chips) 
+Seat 4: fhvty333432 ($0.37 in chips) 
+Seat 5: deileon ($2.13 in chips) 
+Seat 7: victor2k88 ($0.97 in chips) 
+Seat 8: Artishell ($2.44 in chips) 
+Seat 9: Nikand999 ($1.97 in chips) 
+Californian_888: posts small blind $0.01
+fhvty333432: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Qd]
+deileon: folds 
+victor2k88: folds 
+Artishell: folds 
+Nikand999: raises $0.03 to $0.05
+Dorex2007: folds 
+Dogdo100: folds 
+Californian_888: folds 
+fhvty333432: folds 
+Uncalled bet ($0.03) returned to Nikand999
+Nikand999 collected $0.05 from pot
+Nikand999: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 (button) folded before Flop (didn't bet)
+Seat 3: Californian_888 (small blind) folded before Flop
+Seat 4: fhvty333432 (big blind) folded before Flop
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 7: victor2k88 folded before Flop (didn't bet)
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: Nikand999 collected ($0.05)
+
+
+
+PokerStars Hand #231247746599:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:57:52 PT [2021/11/08 15:57:52 ET]
+Table 'Tombaugh II' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($4.14 in chips) 
+Seat 2: Dogdo100 ($2.15 in chips) 
+Seat 3: Californian_888 ($2.58 in chips) 
+Seat 4: fhvty333432 ($0.35 in chips) 
+Seat 5: deileon ($2.13 in chips) 
+Seat 7: victor2k88 ($0.97 in chips) 
+Seat 8: Artishell ($2.44 in chips) 
+Seat 9: Nikand999 ($2 in chips) 
+fhvty333432: posts small blind $0.01
+deileon: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 2d]
+richseas joins the table at seat #6 
+victor2k88 has timed out
+victor2k88: folds 
+Artishell: folds 
+Nikand999: raises $0.03 to $0.05
+Dorex2007: folds 
+Dogdo100: folds 
+Californian_888: folds 
+fhvty333432: calls $0.04
+deileon: folds 
+*** FLOP *** [9h 4h Ad]
+fhvty333432: bets $0.02
+Nikand999: calls $0.02
+*** TURN *** [9h 4h Ad] [Jd]
+fhvty333432: checks 
+Nikand999: bets $0.08
+fhvty333432: folds 
+Uncalled bet ($0.08) returned to Nikand999
+Nikand999 collected $0.15 from pot
+Nikand999: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [9h 4h Ad Jd]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 3: Californian_888 (button) folded before Flop (didn't bet)
+Seat 4: fhvty333432 (small blind) folded on the Turn
+Seat 5: deileon (big blind) folded before Flop
+Seat 7: victor2k88 folded before Flop (didn't bet)
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: Nikand999 collected ($0.15)
+
+
+
+PokerStars Hand #231247767484:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:58:47 PT [2021/11/08 15:58:47 ET]
+Table 'Tombaugh II' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($4.14 in chips) 
+Seat 2: Dogdo100 ($2.15 in chips) 
+Seat 3: Californian_888 ($2.58 in chips) 
+Seat 4: fhvty333432 ($0.28 in chips) 
+Seat 5: deileon ($2.11 in chips) 
+Seat 6: richseas ($2 in chips) 
+Seat 7: victor2k88 ($0.97 in chips) 
+Seat 8: Artishell ($2.44 in chips) 
+Seat 9: Nikand999 ($2.08 in chips) 
+deileon: posts small blind $0.01
+richseas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 6h]
+victor2k88: calls $0.02
+Artishell: calls $0.02
+Nikand999: raises $0.08 to $0.10
+Dorex2007: folds 
+Dogdo100: folds 
+Californian_888: folds 
+fhvty333432: folds 
+deileon: folds 
+richseas: folds 
+victor2k88: folds 
+Artishell: folds 
+Uncalled bet ($0.08) returned to Nikand999
+Nikand999 collected $0.09 from pot
+Nikand999: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 3: Californian_888 folded before Flop (didn't bet)
+Seat 4: fhvty333432 (button) folded before Flop (didn't bet)
+Seat 5: deileon (small blind) folded before Flop
+Seat 6: richseas (big blind) folded before Flop
+Seat 7: victor2k88 folded before Flop
+Seat 8: Artishell folded before Flop
+Seat 9: Nikand999 collected ($0.09)
+
+
+
+PokerStars Hand #231247782806:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 12:59:28 PT [2021/11/08 15:59:28 ET]
+Table 'Tombaugh II' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($4.14 in chips) 
+Seat 2: Dogdo100 ($2.15 in chips) 
+Seat 4: fhvty333432 ($0.28 in chips) 
+Seat 5: deileon ($2.10 in chips) 
+Seat 6: richseas ($1.98 in chips) 
+Seat 7: victor2k88 ($0.95 in chips) 
+Seat 8: Artishell ($2.42 in chips) 
+Seat 9: Nikand999 ($2.15 in chips) 
+richseas: posts small blind $0.01
+victor2k88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 5s]
+Artishell: folds 
+Nikand999: folds 
+Dorex2007: folds 
+Dogdo100: folds 
+fhvty333432: raises $0.26 to $0.28 and is all-in
+deileon: folds 
+richseas: folds 
+victor2k88: calls $0.26
+*** FLOP *** [Qs 3s Ts]
+*** TURN *** [Qs 3s Ts] [6c]
+*** RIVER *** [Qs 3s Ts 6c] [5c]
+*** SHOW DOWN ***
+victor2k88: shows [8s As] (a flush, Ace high)
+fhvty333432: shows [4c 4d] (a pair of Fours)
+victor2k88 collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [Qs 3s Ts 6c 5c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 4: fhvty333432 showed [4c 4d] and lost with a pair of Fours
+Seat 5: deileon (button) folded before Flop (didn't bet)
+Seat 6: richseas (small blind) folded before Flop
+Seat 7: victor2k88 (big blind) showed [8s As] and won ($0.55) with a flush, Ace high
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: Nikand999 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231247797148:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 13:00:05 PT [2021/11/08 16:00:05 ET]
+Table 'Tombaugh II' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($4.14 in chips) 
+Seat 2: Dogdo100 ($2.15 in chips) 
+Seat 5: deileon ($2.10 in chips) 
+Seat 6: richseas ($1.97 in chips) 
+Seat 7: victor2k88 ($1.22 in chips) 
+Seat 8: Artishell ($2.42 in chips) 
+Seat 9: Nikand999 ($2.15 in chips) 
+victor2k88: posts small blind $0.01
+Artishell: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 8c]
+fhvty333432 leaves the table
+Nikand999: folds 
+Dorex2007: folds 
+Dogdo100: raises $0.04 to $0.06
+deileon: folds 
+richseas: folds 
+gatemanpaul joins the table at seat #4 
+victor2k88: calls $0.05
+Artishell: folds 
+*** FLOP *** [Kc Ac Ts]
+victor2k88: checks 
+Dogdo100: bets $0.09
+victor2k88: calls $0.09
+*** TURN *** [Kc Ac Ts] [3c]
+victor2k88: checks 
+Dogdo100: checks 
+*** RIVER *** [Kc Ac Ts 3c] [Qc]
+victor2k88: checks 
+Dogdo100: checks 
+*** SHOW DOWN ***
+victor2k88: shows [8d Ks] (a pair of Kings)
+Dogdo100: shows [Kd Ah] (two pair, Aces and Kings)
+Dogdo100 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Kc Ac Ts 3c Qc]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 showed [Kd Ah] and won ($0.31) with two pair, Aces and Kings
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: richseas (button) folded before Flop (didn't bet)
+Seat 7: victor2k88 (small blind) showed [8d Ks] and lost with a pair of Kings
+Seat 8: Artishell (big blind) folded before Flop
+Seat 9: Nikand999 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231247836512:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 13:01:26 PT [2021/11/08 16:01:26 ET]
+Table 'Tombaugh II' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($4.14 in chips) 
+Seat 2: Dogdo100 ($2.31 in chips) 
+Seat 4: gatemanpaul ($1.50 in chips) 
+Seat 5: deileon ($2.10 in chips) 
+Seat 6: richseas ($1.97 in chips) 
+Seat 7: victor2k88 ($1.07 in chips) 
+Seat 8: Artishell ($2.40 in chips) 
+Seat 9: Nikand999 ($2.15 in chips) 
+Artishell: posts small blind $0.01
+Nikand999: posts big blind $0.02
+gatemanpaul: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc As]
+Dorex2007: raises $0.02 to $0.04
+Dogdo100: folds 
+gatemanpaul: calls $0.02
+deileon: folds 
+richseas: folds 
+victor2k88: calls $0.04
+Artishell: folds 
+Nikand999: calls $0.02
+*** FLOP *** [6d Qd Ah]
+Nikand999: checks 
+Dorex2007: bets $0.16
+gatemanpaul: calls $0.16
+victor2k88: calls $0.16
+Nikand999: folds 
+*** TURN *** [6d Qd Ah] [Jc]
+Dorex2007: bets $0.63
+gatemanpaul: calls $0.63
+victor2k88: raises $0.24 to $0.87 and is all-in
+Dorex2007: calls $0.24
+gatemanpaul: calls $0.24
+*** RIVER *** [6d Qd Ah Jc] [Jh]
+Dorex2007: checks 
+gatemanpaul: bets $0.43 and is all-in
+Dorex2007: calls $0.43
+*** SHOW DOWN ***
+gatemanpaul: shows [Js Qh] (a full house, Jacks full of Queens)
+Dorex2007: shows [Kc As] (two pair, Aces and Jacks)
+gatemanpaul collected $0.83 from side pot
+victor2k88: shows [6h Ad] (two pair, Aces and Jacks)
+gatemanpaul collected $3.15 from main pot
+*** SUMMARY ***
+Total pot $4.12 Main pot $3.15. Side pot $0.83. | Rake $0.14 
+Board [6d Qd Ah Jc Jh]
+Seat 1: Dorex2007 showed [Kc As] and lost with two pair, Aces and Jacks
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 4: gatemanpaul showed [Js Qh] and won ($3.98) with a full house, Jacks full of Queens
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: richseas folded before Flop (didn't bet)
+Seat 7: victor2k88 (button) showed [6h Ad] and lost with two pair, Aces and Jacks
+Seat 8: Artishell (small blind) folded before Flop
+Seat 9: Nikand999 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #231247871855:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 13:02:37 PT [2021/11/08 16:02:37 ET]
+Table 'Tombaugh II' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2.64 in chips) 
+Seat 2: Dogdo100 ($2.31 in chips) 
+Seat 4: gatemanpaul ($3.98 in chips) 
+Seat 5: deileon ($2.10 in chips) 
+Seat 6: richseas ($1.97 in chips) 
+Seat 8: Artishell ($2.39 in chips) 
+Seat 9: Nikand999 ($2.11 in chips) 
+Nikand999: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Tc]
+Dogdo100: raises $0.04 to $0.06
+gatemanpaul: calls $0.06
+deileon: calls $0.06
+richseas: folds 
+Artishell: folds 
+Nikand999: folds 
+Dorex2007: folds 
+*** FLOP *** [5s 5c 9s]
+Dogdo100: bets $0.12
+gatemanpaul: folds 
+victor2k88 is disconnected 
+deileon: calls $0.12
+*** TURN *** [5s 5c 9s] [Jc]
+Dogdo100: checks 
+deileon: checks 
+*** RIVER *** [5s 5c 9s Jc] [Jh]
+Dogdo100: bets $0.12
+deileon: raises $0.34 to $0.46
+Dogdo100: calls $0.34
+*** SHOW DOWN ***
+deileon: shows [Js Jd] (four of a kind, Jacks)
+Dogdo100: mucks hand 
+deileon collected $1.32 from pot
+*** SUMMARY ***
+Total pot $1.37 | Rake $0.05 
+Board [5s 5c 9s Jc Jh]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: Dogdo100 mucked [Ah 9h]
+Seat 4: gatemanpaul folded on the Flop
+Seat 5: deileon showed [Js Jd] and won ($1.32) with four of a kind, Jacks
+Seat 6: richseas folded before Flop (didn't bet)
+Seat 8: Artishell (button) folded before Flop (didn't bet)
+Seat 9: Nikand999 (small blind) folded before Flop
+
+
+
+PokerStars Hand #231247910760:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 13:03:55 PT [2021/11/08 16:03:55 ET]
+Table 'Tombaugh II' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2.62 in chips) 
+Seat 2: Dogdo100 ($2 in chips) 
+Seat 4: gatemanpaul ($3.92 in chips) 
+Seat 5: deileon ($2.78 in chips) 
+Seat 6: richseas ($1.97 in chips) 
+Seat 7: victor2k88 ($0.80 in chips) 
+Seat 8: Artishell ($2.39 in chips) 
+Seat 9: Nikand999 ($2.10 in chips) 
+Dorex2007: posts small blind $0.01
+Dogdo100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 5d]
+gatemanpaul: raises $0.06 to $0.08
+deileon: folds 
+richseas: folds 
+victor2k88 has timed out while disconnected
+victor2k88: folds 
+Artishell: folds 
+Nikand999: folds 
+Dorex2007: folds 
+Dogdo100: folds 
+Uncalled bet ($0.06) returned to gatemanpaul
+gatemanpaul collected $0.05 from pot
+gatemanpaul: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: Dogdo100 (big blind) folded before Flop
+Seat 4: gatemanpaul collected ($0.05)
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: richseas folded before Flop (didn't bet)
+Seat 7: victor2k88 folded before Flop (didn't bet)
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: Nikand999 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231247936626:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 13:04:45 PT [2021/11/08 16:04:45 ET]
+Table 'Tombaugh II' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2.61 in chips) 
+Seat 2: Dogdo100 ($2 in chips) 
+Seat 4: gatemanpaul ($3.95 in chips) 
+Seat 5: deileon ($2.78 in chips) 
+Seat 6: richseas ($1.97 in chips) 
+Seat 8: Artishell ($2.39 in chips) 
+Seat 9: Nikand999 ($2.10 in chips) 
+Dogdo100: posts small blind $0.01
+gatemanpaul: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Tc]
+deileon: folds 
+richseas: folds 
+Artishell: folds 
+Nikand999: folds 
+Dorex2007: folds 
+Dogdo100: folds 
+Uncalled bet ($0.01) returned to gatemanpaul
+gatemanpaul collected $0.02 from pot
+gatemanpaul: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: Dogdo100 (small blind) folded before Flop
+Seat 4: gatemanpaul (big blind) collected ($0.02)
+Seat 5: deileon folded before Flop (didn't bet)
+Seat 6: richseas folded before Flop (didn't bet)
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: Nikand999 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231247946211:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 13:05:04 PT [2021/11/08 16:05:04 ET]
+Table 'Tombaugh II' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2.61 in chips) 
+Seat 2: Dogdo100 ($2 in chips) 
+Seat 4: gatemanpaul ($3.96 in chips) 
+Seat 6: richseas ($1.97 in chips) 
+Seat 8: Artishell ($2.39 in chips) 
+Seat 9: Nikand999 ($2.10 in chips) 
+gatemanpaul: posts small blind $0.01
+deileon: is sitting out 
+richseas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Kc]
+Artishell: folds 
+Nikand999: folds 
+Dorex2007: folds 
+Dogdo100: folds 
+gatemanpaul: calls $0.01
+richseas: checks 
+*** FLOP *** [9c 8s Qc]
+gatemanpaul: checks 
+richseas: checks 
+*** TURN *** [9c 8s Qc] [4c]
+gatemanpaul: checks 
+richseas: checks 
+*** RIVER *** [9c 8s Qc 4c] [4h]
+gatemanpaul: bets $0.06
+richseas: folds 
+Uncalled bet ($0.06) returned to gatemanpaul
+gatemanpaul collected $0.04 from pot
+gatemanpaul: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [9c 8s Qc 4c 4h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 (button) folded before Flop (didn't bet)
+Seat 4: gatemanpaul (small blind) collected ($0.04)
+Seat 6: richseas (big blind) folded on the River
+Seat 8: Artishell folded before Flop (didn't bet)
+Seat 9: Nikand999 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231247971488:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 13:05:54 PT [2021/11/08 16:05:54 ET]
+Table 'Tombaugh II' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2.61 in chips) 
+Seat 2: Dogdo100 ($2 in chips) 
+Seat 4: gatemanpaul ($3.98 in chips) 
+Seat 6: richseas ($1.95 in chips) 
+Seat 8: Artishell ($2.39 in chips) 
+Seat 9: Nikand999 ($2.10 in chips) 
+richseas: posts small blind $0.01
+Artishell: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 4s]
+Nikand999: folds 
+Dorex2007: folds 
+Dogdo100: folds 
+gatemanpaul: raises $0.04 to $0.06
+richseas: folds 
+Artishell: folds 
+Uncalled bet ($0.04) returned to gatemanpaul
+gatemanpaul collected $0.05 from pot
+gatemanpaul: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Dogdo100 folded before Flop (didn't bet)
+Seat 4: gatemanpaul (button) collected ($0.05)
+Seat 6: richseas (small blind) folded before Flop
+Seat 8: Artishell (big blind) folded before Flop
+Seat 9: Nikand999 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231247980248:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/08 13:06:11 PT [2021/11/08 16:06:11 ET]
+Table 'Tombaugh II' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($2.61 in chips) 
+Seat 2: Dogdo100 ($2 in chips) 
+Seat 4: gatemanpaul ($4.01 in chips) 
+Seat 6: richseas ($1.94 in chips) 
+Seat 8: Artishell ($2.37 in chips) 
+Seat 9: Nikand999 ($2.10 in chips) 
+Artishell: posts small blind $0.01
+Nikand999: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Qs]
+Dorex2007: raises $0.02 to $0.04
+Dogdo100: calls $0.04
+gatemanpaul: calls $0.04
+richseas: folds 
+Artishell: folds 
+Nikand999: folds 
+*** FLOP *** [5d 9d 4d]
+Dorex2007: checks 
+Dogdo100: checks 
+gatemanpaul: checks 
+*** TURN *** [5d 9d 4d] [4s]
+Dorex2007: checks 
+Dogdo100: checks 
+gatemanpaul: checks 
+*** RIVER *** [5d 9d 4d 4s] [Jd]
+Dorex2007: bets $0.02
+Dogdo100: folds 
+gatemanpaul: raises $0.18 to $0.20
+Dorex2007: folds 
+Uncalled bet ($0.18) returned to gatemanpaul
+gatemanpaul collected $0.18 from pot
+gatemanpaul: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5d 9d 4d 4s Jd]
+Seat 1: Dorex2007 folded on the River
+Seat 2: Dogdo100 folded on the River
+Seat 4: gatemanpaul collected ($0.18)
+Seat 6: richseas (button) folded before Flop (didn't bet)
+Seat 8: Artishell (small blind) folded before Flop
+Seat 9: Nikand999 (big blind) folded before Flop
+
+
+

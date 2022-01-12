@@ -1,0 +1,195 @@
+﻿PokerStars Hand #230018770317:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:56:25 PT [2021/09/21 2:56:25 ET]
+Table 'Tubingia III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 4: kaizer203 ($5.10 in chips) 
+Seat 5: Sr.Benitez448 ($2.17 in chips) 
+Seat 6: acad2011 ($1.42 in chips) 
+Seat 7: mksm197201 ($2.05 in chips) 
+Seat 8: alexahk ($2 in chips) 
+Seat 9: nanaconda ($2 in chips) 
+Sr.Benitez448: posts small blind $0.01
+acad2011: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+Kela1373: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 9c]
+mksm197201: folds 
+alexahk: folds 
+nanaconda: folds 
+Dorex2007: checks 
+kaizer203: folds 
+Sr.Benitez448: folds 
+acad2011: checks 
+*** FLOP *** [Qc 8d 7c]
+acad2011: checks 
+Bartender-Krsk is disconnected 
+Dorex2007: checks 
+*** TURN *** [Qc 8d 7c] [Td]
+acad2011: bets $0.05
+Dorex2007: calls $0.05
+*** RIVER *** [Qc 8d 7c Td] [Kd]
+acad2011: checks 
+Dorex2007: bets $0.07
+acad2011: calls $0.07
+*** SHOW DOWN ***
+Dorex2007: shows [Jh 9c] (a straight, Nine to King)
+acad2011: mucks hand 
+Dorex2007 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Qc 8d 7c Td Kd]
+Seat 1: Dorex2007 showed [Jh 9c] and won ($0.28) with a straight, Nine to King
+Seat 4: kaizer203 (button) folded before Flop (didn't bet)
+Seat 5: Sr.Benitez448 (small blind) folded before Flop
+Seat 6: acad2011 (big blind) mucked [Qd 4s]
+Seat 7: mksm197201 folded before Flop (didn't bet)
+Seat 8: alexahk folded before Flop (didn't bet)
+Seat 9: nanaconda folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018775852:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:57:11 PT [2021/09/21 2:57:11 ET]
+Table 'Tubingia III' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2.14 in chips) 
+Seat 4: kaizer203 ($5.10 in chips) 
+Seat 5: Sr.Benitez448 ($2.16 in chips) 
+Seat 6: acad2011 ($1.28 in chips) 
+Seat 7: mksm197201 ($2.05 in chips) 
+Seat 8: alexahk ($2 in chips) 
+Seat 9: nanaconda ($2 in chips) 
+acad2011: posts small blind $0.01
+mksm197201: posts big blind $0.02
+Kela1373: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 3h]
+alexahk: folds 
+Bartender-Krsk is disconnected 
+nanaconda: folds 
+Dorex2007: folds 
+kaizer203: folds 
+Bartender-Krsk is disconnected 
+Sr.Benitez448: folds 
+acad2011: calls $0.01
+mksm197201: raises $0.04 to $0.06
+acad2011: calls $0.04
+*** FLOP *** [6d 7s Ks]
+acad2011: checks 
+mksm197201: checks 
+*** TURN *** [6d 7s Ks] [6c]
+acad2011: checks 
+mksm197201: checks 
+*** RIVER *** [6d 7s Ks 6c] [8h]
+acad2011: checks 
+mksm197201: bets $0.12
+acad2011: folds 
+Uncalled bet ($0.12) returned to mksm197201
+mksm197201 collected $0.12 from pot
+mksm197201: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [6d 7s Ks 6c 8h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 4: kaizer203 folded before Flop (didn't bet)
+Seat 5: Sr.Benitez448 (button) folded before Flop (didn't bet)
+Seat 6: acad2011 (small blind) folded on the River
+Seat 7: mksm197201 (big blind) collected ($0.12)
+Seat 8: alexahk folded before Flop (didn't bet)
+Seat 9: nanaconda folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018782047:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:58:01 PT [2021/09/21 2:58:01 ET]
+Table 'Tubingia III' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($2.14 in chips) 
+Seat 4: kaizer203 ($5.10 in chips) 
+Seat 5: Sr.Benitez448 ($2.16 in chips) 
+Seat 6: acad2011 ($1.22 in chips) 
+Seat 7: mksm197201 ($2.11 in chips) 
+Seat 8: alexahk ($2 in chips) 
+Seat 9: nanaconda ($2 in chips) 
+mksm197201: posts small blind $0.01
+alexahk: posts big blind $0.02
+Kela1373: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 9d]
+nanaconda: folds 
+Dorex2007: folds 
+kaizer203: folds 
+Sr.Benitez448: calls $0.02
+acad2011: calls $0.02
+mksm197201: folds 
+alexahk: checks 
+*** FLOP *** [9c Ac Js]
+alexahk: bets $0.04
+Sr.Benitez448: calls $0.04
+acad2011: calls $0.04
+*** TURN *** [9c Ac Js] [Qh]
+alexahk: bets $0.10
+Bartender-Krsk is disconnected 
+Sr.Benitez448: calls $0.10
+acad2011: raises $1.06 to $1.16 and is all-in
+alexahk: folds 
+Sr.Benitez448: folds 
+Uncalled bet ($1.06) returned to acad2011
+acad2011 collected $0.47 from pot
+acad2011: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [9c Ac Js Qh]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 4: kaizer203 folded before Flop (didn't bet)
+Seat 5: Sr.Benitez448 folded on the Turn
+Seat 6: acad2011 (button) collected ($0.47)
+Seat 7: mksm197201 (small blind) folded before Flop
+Seat 8: alexahk (big blind) folded on the Turn
+Seat 9: nanaconda folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230018788954:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/09/20 23:58:59 PT [2021/09/21 2:58:59 ET]
+Table 'Tubingia III' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2.14 in chips) 
+Seat 4: kaizer203 ($5.10 in chips) 
+Seat 5: Sr.Benitez448 ($2 in chips) 
+Seat 6: acad2011 ($1.53 in chips) 
+Seat 7: mksm197201 ($2.10 in chips) 
+Seat 8: alexahk ($2 in chips) 
+Seat 9: nanaconda ($2 in chips) 
+alexahk: posts small blind $0.01
+nanaconda: posts big blind $0.02
+Kela1373: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 7d]
+Dorex2007: calls $0.02
+kaizer203: folds 
+Sr.Benitez448: calls $0.02
+acad2011: calls $0.02
+mksm197201: folds 
+Bartender-Krsk is disconnected 
+alexahk: folds 
+nanaconda has timed out
+nanaconda: checks 
+*** FLOP *** [2s 3c Kd]
+nanaconda: checks 
+Dorex2007: checks 
+Sr.Benitez448: bets $0.09
+acad2011: folds 
+Bartender-Krsk is disconnected 
+nanaconda: folds 
+Dorex2007: folds 
+Uncalled bet ($0.09) returned to Sr.Benitez448
+Sr.Benitez448 collected $0.09 from pot
+Sr.Benitez448: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [2s 3c Kd]
+Seat 1: Dorex2007 folded on the Flop
+Seat 4: kaizer203 folded before Flop (didn't bet)
+Seat 5: Sr.Benitez448 collected ($0.09)
+Seat 6: acad2011 folded on the Flop
+Seat 7: mksm197201 (button) folded before Flop (didn't bet)
+Seat 8: alexahk (small blind) folded before Flop
+Seat 9: nanaconda (big blind) folded on the Flop
+
+
+

@@ -1,0 +1,53 @@
+﻿PokerStars Hand #224971577951:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/19 11:33:04 PT [2021/03/19 14:33:04 ET]
+Table 'Requiem V' 9-max Seat #5 is the button
+Seat 1: rmann24 ($2.10 in chips) 
+Seat 2: sychev1994 ($1.38 in chips) 
+Seat 4: Script00 ($2 in chips) 
+Seat 5: Dorex2007 ($1.15 in chips) 
+Seat 6: SmockyStyle ($0.78 in chips) 
+Seat 7: Riddle T.M. ($2 in chips) 
+Seat 8: Gut 69 ($2.24 in chips) 
+Seat 9: Pieckhardt ($0.96 in chips) 
+SmockyStyle: posts small blind $0.01
+Riddle T.M.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 5d]
+Gut 69: folds 
+Pieckhardt: folds 
+rmann24: folds 
+sychev1994: calls $0.02
+Script00: folds 
+Dorex2007: folds 
+SmockyStyle: calls $0.01
+Riddle T.M.: checks 
+*** FLOP *** [6c 8c Kh]
+SmockyStyle: checks 
+Riddle T.M.: checks 
+sychev1994: checks 
+*** TURN *** [6c 8c Kh] [3s]
+SmockyStyle: checks 
+Riddle T.M.: checks 
+sychev1994: checks 
+*** RIVER *** [6c 8c Kh 3s] [Tc]
+SmockyStyle: checks 
+Riddle T.M.: checks 
+sychev1994: checks 
+*** SHOW DOWN ***
+SmockyStyle: shows [4s Qd] (high card King)
+Riddle T.M.: shows [7c Th] (a pair of Tens)
+sychev1994: mucks hand 
+Riddle T.M. collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [6c 8c Kh 3s Tc]
+Seat 1: rmann24 folded before Flop (didn't bet)
+Seat 2: sychev1994 mucked [Qh Jd]
+Seat 4: Script00 folded before Flop (didn't bet)
+Seat 5: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 6: SmockyStyle (small blind) showed [4s Qd] and lost with high card King
+Seat 7: Riddle T.M. (big blind) showed [7c Th] and won ($0.06) with a pair of Tens
+Seat 8: Gut 69 folded before Flop (didn't bet)
+Seat 9: Pieckhardt folded before Flop (didn't bet)
+
+
+

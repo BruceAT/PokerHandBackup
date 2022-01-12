@@ -1,0 +1,793 @@
+﻿PokerStars Hand #223791032402:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/13 20:44:01 PT [2021/02/13 23:44:01 ET]
+Table 'Vala' 9-max Seat #3 is the button
+Seat 1: AlekseyAD173 ($0.78 in chips) 
+Seat 2: emilino.89 ($0.72 in chips) 
+Seat 3: Sticky514 ($2.61 in chips) 
+Seat 4: paraguasc ($2.05 in chips) 
+Seat 6: Dorex2007 ($1.50 in chips) 
+Seat 7: BanneyB ($3.05 in chips) 
+Seat 8: Vladi_master228 ($1.56 in chips) 
+Seat 9: Muuuufasa ($0.69 in chips) 
+paraguasc: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 2c]
+BanneyB: folds 
+Vladi_master228: calls $0.02
+Muuuufasa: folds 
+AlekseyAD173: folds 
+emilino.89: calls $0.02
+Sticky514: folds 
+paraguasc: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [Qc 2d 8h]
+paraguasc: checks 
+Dorex2007: checks 
+Vladi_master228: checks 
+emilino.89: checks 
+*** TURN *** [Qc 2d 8h] [9s]
+paraguasc: bets $0.02
+Dorex2007: calls $0.02
+Vladi_master228: calls $0.02
+emilino.89: folds 
+*** RIVER *** [Qc 2d 8h 9s] [4h]
+paraguasc: bets $0.08
+Dorex2007: folds 
+Vladi_master228: folds 
+Uncalled bet ($0.08) returned to paraguasc
+paraguasc collected $0.14 from pot
+paraguasc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Qc 2d 8h 9s 4h]
+Seat 1: AlekseyAD173 folded before Flop (didn't bet)
+Seat 2: emilino.89 folded on the Turn
+Seat 3: Sticky514 (button) folded before Flop (didn't bet)
+Seat 4: paraguasc (small blind) collected ($0.14)
+Seat 6: Dorex2007 (big blind) folded on the River
+Seat 7: BanneyB folded before Flop (didn't bet)
+Seat 8: Vladi_master228 folded on the River
+Seat 9: Muuuufasa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223791063760:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/13 20:45:02 PT [2021/02/13 23:45:02 ET]
+Table 'Vala' 9-max Seat #4 is the button
+Seat 1: AlekseyAD173 ($0.78 in chips) 
+Seat 2: emilino.89 ($0.70 in chips) 
+Seat 3: Sticky514 ($2.61 in chips) 
+Seat 4: paraguasc ($2.15 in chips) 
+Seat 6: Dorex2007 ($1.46 in chips) 
+Seat 7: BanneyB ($3.05 in chips) 
+Seat 8: Vladi_master228 ($1.52 in chips) 
+Seat 9: Muuuufasa ($0.69 in chips) 
+Dorex2007: posts small blind $0.01
+BanneyB: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 5s]
+Vladi_master228: calls $0.02
+Muuuufasa: raises $0.30 to $0.32
+AlekseyAD173: folds 
+emilino.89: folds 
+Sticky514: folds 
+paraguasc: folds 
+Dorex2007: folds 
+BanneyB: folds 
+Vladi_master228: folds 
+Uncalled bet ($0.30) returned to Muuuufasa
+Muuuufasa collected $0.07 from pot
+Muuuufasa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: AlekseyAD173 folded before Flop (didn't bet)
+Seat 2: emilino.89 folded before Flop (didn't bet)
+Seat 3: Sticky514 folded before Flop (didn't bet)
+Seat 4: paraguasc (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: BanneyB (big blind) folded before Flop
+Seat 8: Vladi_master228 folded before Flop
+Seat 9: Muuuufasa collected ($0.07)
+
+
+
+PokerStars Hand #223791073847:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/13 20:45:42 PT [2021/02/13 23:45:42 ET]
+Table 'Vala' 9-max Seat #6 is the button
+Seat 1: AlekseyAD173 ($0.78 in chips) 
+Seat 2: emilino.89 ($0.70 in chips) 
+Seat 3: Sticky514 ($2.61 in chips) 
+Seat 4: paraguasc ($2.15 in chips) 
+Seat 6: Dorex2007 ($1.45 in chips) 
+Seat 7: BanneyB ($3.03 in chips) 
+Seat 8: Vladi_master228 ($1.50 in chips) 
+Seat 9: Muuuufasa ($0.74 in chips) 
+BanneyB: posts small blind $0.01
+Vladi_master228: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 4c]
+Muuuufasa: raises $0.02 to $0.04
+AlekseyAD173: folds 
+emilino.89: folds 
+Sticky514: folds 
+paraguasc: calls $0.04
+Dorex2007: folds 
+BanneyB: folds 
+Vladi_master228: calls $0.02
+*** FLOP *** [8h Td 6s]
+Vladi_master228: checks 
+Muuuufasa: bets $0.10
+paraguasc: calls $0.10
+Vladi_master228: folds 
+*** TURN *** [8h Td 6s] [4h]
+Muuuufasa: bets $0.16
+paraguasc: raises $1.85 to $2.01 and is all-in
+Muuuufasa: calls $0.44 and is all-in
+Uncalled bet ($1.41) returned to paraguasc
+*** RIVER *** [8h Td 6s 4h] [2c]
+*** SHOW DOWN ***
+Muuuufasa: shows [6c 6h] (three of a kind, Sixes)
+paraguasc: shows [Qd 9h] (high card Queen)
+Muuuufasa collected $1.48 from pot
+*** SUMMARY ***
+Total pot $1.53 | Rake $0.05 
+Board [8h Td 6s 4h 2c]
+Seat 1: AlekseyAD173 folded before Flop (didn't bet)
+Seat 2: emilino.89 folded before Flop (didn't bet)
+Seat 3: Sticky514 folded before Flop (didn't bet)
+Seat 4: paraguasc showed [Qd 9h] and lost with high card Queen
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: BanneyB (small blind) folded before Flop
+Seat 8: Vladi_master228 (big blind) folded on the Flop
+Seat 9: Muuuufasa showed [6c 6h] and won ($1.48) with three of a kind, Sixes
+
+
+
+PokerStars Hand #223791091995:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/13 20:46:53 PT [2021/02/13 23:46:53 ET]
+Table 'Vala' 9-max Seat #7 is the button
+Seat 1: AlekseyAD173 ($0.78 in chips) 
+Seat 2: emilino.89 ($0.70 in chips) 
+Seat 3: Sticky514 ($2.61 in chips) 
+Seat 4: paraguasc ($1.41 in chips) 
+Seat 6: Dorex2007 ($1.45 in chips) 
+Seat 7: BanneyB ($3.02 in chips) 
+Seat 8: Vladi_master228 ($1.46 in chips) 
+Seat 9: Muuuufasa ($1.48 in chips) 
+Vladi_master228: posts small blind $0.01
+Muuuufasa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Js]
+AlekseyAD173: folds 
+emilino.89: calls $0.02
+Sticky514: folds 
+paraguasc: calls $0.02
+Dorex2007: raises $0.04 to $0.06
+BanneyB: folds 
+Vladi_master228: folds 
+Muuuufasa: folds 
+emilino.89: calls $0.04
+paraguasc: calls $0.04
+*** FLOP *** [3h Ac 2h]
+emilino.89: checks 
+paraguasc: checks 
+Dorex2007: bets $0.10
+emilino.89: folds 
+paraguasc: calls $0.10
+*** TURN *** [3h Ac 2h] [3d]
+paraguasc: checks 
+Dorex2007: bets $0.40
+paraguasc: folds 
+Uncalled bet ($0.40) returned to Dorex2007
+Dorex2007 collected $0.40 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [3h Ac 2h 3d]
+Seat 1: AlekseyAD173 folded before Flop (didn't bet)
+Seat 2: emilino.89 folded on the Flop
+Seat 3: Sticky514 folded before Flop (didn't bet)
+Seat 4: paraguasc folded on the Turn
+Seat 6: Dorex2007 collected ($0.40)
+Seat 7: BanneyB (button) folded before Flop (didn't bet)
+Seat 8: Vladi_master228 (small blind) folded before Flop
+Seat 9: Muuuufasa (big blind) folded before Flop
+
+
+
+PokerStars Hand #223791108945:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/13 20:47:59 PT [2021/02/13 23:47:59 ET]
+Table 'Vala' 9-max Seat #8 is the button
+Seat 1: AlekseyAD173 ($0.78 in chips) 
+Seat 2: emilino.89 ($0.64 in chips) 
+Seat 3: Sticky514 ($2.61 in chips) 
+Seat 4: paraguasc ($1.25 in chips) 
+Seat 6: Dorex2007 ($1.69 in chips) 
+Seat 7: BanneyB ($3.02 in chips) 
+Seat 8: Vladi_master228 ($1.45 in chips) 
+Seat 9: Muuuufasa ($1.46 in chips) 
+Muuuufasa: posts small blind $0.01
+AlekseyAD173: posts big blind $0.02
+boy_poker76: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c Jc]
+emilino.89 has timed out
+emilino.89: folds 
+Sticky514: calls $0.02
+paraguasc: calls $0.02
+Dorex2007: folds 
+BanneyB: raises $0.04 to $0.06
+Vladi_master228: calls $0.06
+Muuuufasa: folds 
+AlekseyAD173: folds 
+Sticky514: calls $0.04
+paraguasc: calls $0.04
+*** FLOP *** [Tc 5d 4d]
+Sticky514: bets $0.04
+paraguasc: calls $0.04
+BanneyB: folds 
+Vladi_master228: calls $0.04
+*** TURN *** [Tc 5d 4d] [2d]
+Sticky514: checks 
+paraguasc: checks 
+Vladi_master228: bets $0.02
+Sticky514: calls $0.02
+paraguasc: calls $0.02
+*** RIVER *** [Tc 5d 4d 2d] [Ad]
+Sticky514: checks 
+paraguasc: bets $0.02
+Vladi_master228: calls $0.02
+Sticky514: folds 
+*** SHOW DOWN ***
+paraguasc: shows [4c Kd] (a flush, Ace high)
+Vladi_master228: mucks hand 
+paraguasc collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Tc 5d 4d 2d Ad]
+Seat 1: AlekseyAD173 (big blind) folded before Flop
+Seat 2: emilino.89 folded before Flop (didn't bet)
+Seat 3: Sticky514 folded on the River
+Seat 4: paraguasc showed [4c Kd] and won ($0.47) with a flush, Ace high
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: BanneyB folded on the Flop
+Seat 8: Vladi_master228 (button) mucked [Ac 8d]
+Seat 9: Muuuufasa (small blind) folded before Flop
+
+
+
+PokerStars Hand #223791132319:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/13 20:49:30 PT [2021/02/13 23:49:30 ET]
+Table 'Vala' 9-max Seat #9 is the button
+Seat 1: AlekseyAD173 ($0.76 in chips) 
+Seat 2: emilino.89 ($0.64 in chips) 
+Seat 3: Sticky514 ($2.49 in chips) 
+Seat 4: paraguasc ($1.58 in chips) 
+Seat 6: Dorex2007 ($1.69 in chips) 
+Seat 7: BanneyB ($2.96 in chips) 
+Seat 8: Vladi_master228 ($1.31 in chips) 
+Seat 9: Muuuufasa ($1.45 in chips) 
+AlekseyAD173: posts small blind $0.01
+emilino.89: posts big blind $0.02
+boy_poker76: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 3h]
+Sticky514: folds 
+paraguasc: calls $0.02
+Dorex2007: folds 
+BanneyB: folds 
+Vladi_master228: raises $0.06 to $0.08
+Muuuufasa: folds 
+AlekseyAD173: folds 
+emilino.89: folds 
+paraguasc: calls $0.06
+*** FLOP *** [Kc 2d 8s]
+paraguasc: checks 
+Vladi_master228: bets $0.08
+paraguasc: folds 
+Uncalled bet ($0.08) returned to Vladi_master228
+Vladi_master228 collected $0.18 from pot
+Vladi_master228: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Kc 2d 8s]
+Seat 1: AlekseyAD173 (small blind) folded before Flop
+Seat 2: emilino.89 (big blind) folded before Flop
+Seat 3: Sticky514 folded before Flop (didn't bet)
+Seat 4: paraguasc folded on the Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: BanneyB folded before Flop (didn't bet)
+Seat 8: Vladi_master228 collected ($0.18)
+Seat 9: Muuuufasa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223791139665:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/13 20:49:59 PT [2021/02/13 23:49:59 ET]
+Table 'Vala' 9-max Seat #1 is the button
+Seat 1: AlekseyAD173 ($0.75 in chips) 
+Seat 2: emilino.89 ($0.62 in chips) 
+Seat 3: Sticky514 ($2.49 in chips) 
+Seat 4: paraguasc ($1.50 in chips) 
+Seat 6: Dorex2007 ($1.69 in chips) 
+Seat 7: BanneyB ($2.96 in chips) 
+Seat 8: Vladi_master228 ($1.41 in chips) 
+Seat 9: Muuuufasa ($1.45 in chips) 
+emilino.89: posts small blind $0.01
+Sticky514: posts big blind $0.02
+boy_poker76: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 8h]
+paraguasc: calls $0.02
+Dorex2007: folds 
+BanneyB: folds 
+Vladi_master228: calls $0.02
+Muuuufasa: folds 
+AlekseyAD173: calls $0.02
+emilino.89: folds 
+Sticky514: raises $0.04 to $0.06
+paraguasc: calls $0.04
+Vladi_master228: calls $0.04
+AlekseyAD173: calls $0.04
+*** FLOP *** [Kd Tc Kh]
+Sticky514: bets $0.08
+paraguasc: folds 
+Vladi_master228: folds 
+AlekseyAD173: folds 
+Uncalled bet ($0.08) returned to Sticky514
+Sticky514 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Kd Tc Kh]
+Seat 1: AlekseyAD173 (button) folded on the Flop
+Seat 2: emilino.89 (small blind) folded before Flop
+Seat 3: Sticky514 (big blind) collected ($0.24)
+Seat 4: paraguasc folded on the Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: BanneyB folded before Flop (didn't bet)
+Seat 8: Vladi_master228 folded on the Flop
+Seat 9: Muuuufasa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223791152023:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/13 20:50:48 PT [2021/02/13 23:50:48 ET]
+Table 'Vala' 9-max Seat #2 is the button
+Seat 1: AlekseyAD173 ($0.69 in chips) 
+Seat 2: emilino.89 ($0.61 in chips) 
+Seat 3: Sticky514 ($2.67 in chips) 
+Seat 4: paraguasc ($1.44 in chips) 
+Seat 6: Dorex2007 ($1.69 in chips) 
+Seat 7: BanneyB ($2.96 in chips) 
+Seat 8: Vladi_master228 ($1.35 in chips) 
+Seat 9: Muuuufasa ($1.45 in chips) 
+Sticky514: posts small blind $0.01
+paraguasc: posts big blind $0.02
+boy_poker76: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 6d]
+Dorex2007: folds 
+BanneyB: folds 
+Vladi_master228: calls $0.02
+Muuuufasa: folds 
+AlekseyAD173: calls $0.02
+emilino.89 has timed out
+emilino.89: folds 
+Sticky514: calls $0.01
+paraguasc: checks 
+*** FLOP *** [Jc Kd Ks]
+Sticky514: bets $0.04
+paraguasc: folds 
+Vladi_master228: calls $0.04
+AlekseyAD173: calls $0.04
+*** TURN *** [Jc Kd Ks] [3h]
+Sticky514: bets $0.04
+Vladi_master228: calls $0.04
+AlekseyAD173: raises $0.31 to $0.35
+Sticky514: folds 
+Vladi_master228: calls $0.31
+*** RIVER *** [Jc Kd Ks 3h] [6h]
+Vladi_master228: checks 
+AlekseyAD173: bets $0.28 and is all-in
+Vladi_master228: folds 
+Uncalled bet ($0.28) returned to AlekseyAD173
+AlekseyAD173 collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.94 | Rake $0.03 
+Board [Jc Kd Ks 3h 6h]
+Seat 1: AlekseyAD173 collected ($0.91)
+Seat 2: emilino.89 (button) folded before Flop (didn't bet)
+Seat 3: Sticky514 (small blind) folded on the Turn
+Seat 4: paraguasc (big blind) folded on the Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: BanneyB folded before Flop (didn't bet)
+Seat 8: Vladi_master228 folded on the River
+Seat 9: Muuuufasa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223791173102:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/13 20:52:11 PT [2021/02/13 23:52:11 ET]
+Table 'Vala' 9-max Seat #3 is the button
+Seat 1: AlekseyAD173 ($1.19 in chips) 
+Seat 2: emilino.89 ($0.61 in chips) 
+Seat 3: Sticky514 ($2.57 in chips) 
+Seat 4: paraguasc ($1.42 in chips) 
+Seat 5: boy_poker76 ($1.36 in chips) 
+Seat 6: Dorex2007 ($1.69 in chips) 
+Seat 7: BanneyB ($2.96 in chips) 
+Seat 8: Vladi_master228 ($0.94 in chips) 
+Seat 9: Muuuufasa ($1.45 in chips) 
+paraguasc: posts small blind $0.01
+boy_poker76: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 5s]
+Dorex2007: folds 
+BanneyB: folds 
+Vladi_master228: calls $0.02
+Muuuufasa: folds 
+AlekseyAD173: folds 
+AlekseyAD173 leaves the table
+emilino.89: calls $0.02
+Sticky514: folds 
+paraguasc: calls $0.01
+boy_poker76: checks 
+*** FLOP *** [Ah 8s 3c]
+Zhenia_Nsk joins the table at seat #1 
+paraguasc: checks 
+boy_poker76: checks 
+Vladi_master228: checks 
+emilino.89: bets $0.04
+paraguasc: calls $0.04
+boy_poker76: calls $0.04
+Vladi_master228: calls $0.04
+*** TURN *** [Ah 8s 3c] [2s]
+paraguasc: checks 
+boy_poker76: bets $0.12
+Vladi_master228: folds 
+emilino.89: raises $0.12 to $0.24
+paraguasc: folds 
+boy_poker76: calls $0.12
+*** RIVER *** [Ah 8s 3c 2s] [Kd]
+boy_poker76: checks 
+emilino.89: bets $0.31 and is all-in
+boy_poker76: folds 
+Uncalled bet ($0.31) returned to emilino.89
+emilino.89 collected $0.69 from pot
+emilino.89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03 
+Board [Ah 8s 3c 2s Kd]
+Seat 1: AlekseyAD173 folded before Flop (didn't bet)
+Seat 2: emilino.89 collected ($0.69)
+Seat 3: Sticky514 (button) folded before Flop (didn't bet)
+Seat 4: paraguasc (small blind) folded on the Turn
+Seat 5: boy_poker76 (big blind) folded on the River
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: BanneyB folded before Flop (didn't bet)
+Seat 8: Vladi_master228 folded on the Turn
+Seat 9: Muuuufasa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223791194432:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/13 20:53:36 PT [2021/02/13 23:53:36 ET]
+Table 'Vala' 9-max Seat #4 is the button
+Seat 2: emilino.89 ($1 in chips) 
+Seat 3: Sticky514 ($2.57 in chips) 
+Seat 4: paraguasc ($1.36 in chips) 
+Seat 5: boy_poker76 ($1.06 in chips) 
+Seat 6: Dorex2007 ($1.69 in chips) 
+Seat 7: BanneyB ($2.96 in chips) 
+Seat 8: Vladi_master228 ($0.88 in chips) 
+Seat 9: Muuuufasa ($1.45 in chips) 
+boy_poker76: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Zhenia_Nsk: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 7s]
+BanneyB: folds 
+Vladi_master228: calls $0.02
+Muuuufasa: folds 
+emilino.89: folds 
+Sticky514: folds 
+paraguasc: folds 
+boy_poker76: folds 
+Dorex2007: checks 
+*** FLOP *** [Ts Ad 9d]
+Dorex2007: checks 
+Vladi_master228: bets $0.02
+Dorex2007: calls $0.02
+*** TURN *** [Ts Ad 9d] [Ks]
+Dorex2007: bets $0.10
+Vladi_master228: calls $0.10
+*** RIVER *** [Ts Ad 9d Ks] [Qh]
+Dorex2007: checks 
+Vladi_master228: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [4s 7s] (high card Ace)
+Vladi_master228: shows [9s 8s] (a pair of Nines)
+Vladi_master228 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Ts Ad 9d Ks Qh]
+Seat 2: emilino.89 folded before Flop (didn't bet)
+Seat 3: Sticky514 folded before Flop (didn't bet)
+Seat 4: paraguasc (button) folded before Flop (didn't bet)
+Seat 5: boy_poker76 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) showed [4s 7s] and lost with high card Ace
+Seat 7: BanneyB folded before Flop (didn't bet)
+Seat 8: Vladi_master228 showed [9s 8s] and won ($0.28) with a pair of Nines
+Seat 9: Muuuufasa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223791206439:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/13 20:54:24 PT [2021/02/13 23:54:24 ET]
+Table 'Vala' 9-max Seat #5 is the button
+Seat 2: emilino.89 ($1 in chips) 
+Seat 3: Sticky514 ($2.57 in chips) 
+Seat 4: paraguasc ($1.36 in chips) 
+Seat 5: boy_poker76 ($1.05 in chips) 
+Seat 6: Dorex2007 ($1.55 in chips) 
+Seat 7: BanneyB ($2.96 in chips) 
+Seat 8: Vladi_master228 ($1.02 in chips) 
+Seat 9: Muuuufasa ($1.45 in chips) 
+Dorex2007: posts small blind $0.01
+BanneyB: posts big blind $0.02
+Zhenia_Nsk: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 5d]
+Vladi_master228: calls $0.02
+Muuuufasa has timed out
+Muuuufasa: folds 
+emilino.89: folds 
+Sticky514: raises $0.04 to $0.06
+paraguasc: calls $0.06
+boy_poker76: calls $0.06
+Dorex2007: folds 
+BanneyB: folds 
+Vladi_master228: calls $0.04
+*** FLOP *** [Jc As 3d]
+Vladi_master228: checks 
+Sticky514: bets $0.08
+paraguasc: folds 
+boy_poker76: folds 
+Vladi_master228: folds 
+Uncalled bet ($0.08) returned to Sticky514
+Sticky514 collected $0.26 from pot
+Sticky514: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Jc As 3d]
+Seat 2: emilino.89 folded before Flop (didn't bet)
+Seat 3: Sticky514 collected ($0.26)
+Seat 4: paraguasc folded on the Flop
+Seat 5: boy_poker76 (button) folded on the Flop
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: BanneyB (big blind) folded before Flop
+Seat 8: Vladi_master228 folded on the Flop
+Seat 9: Muuuufasa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223791219784:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/13 20:55:20 PT [2021/02/13 23:55:20 ET]
+Table 'Vala' 9-max Seat #6 is the button
+Seat 2: emilino.89 ($1 in chips) 
+Seat 3: Sticky514 ($2.77 in chips) 
+Seat 4: paraguasc ($1.30 in chips) 
+Seat 5: boy_poker76 ($2 in chips) 
+Seat 6: Dorex2007 ($1.54 in chips) 
+Seat 7: BanneyB ($2.94 in chips) 
+Seat 8: Vladi_master228 ($0.96 in chips) 
+Seat 9: Muuuufasa ($1.45 in chips) 
+BanneyB: posts small blind $0.01
+Vladi_master228: posts big blind $0.02
+Zhenia_Nsk: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Jh]
+Muuuufasa: raises $0.02 to $0.04
+emilino.89: folds 
+Sticky514: raises $0.04 to $0.08
+paraguasc: folds 
+boy_poker76: folds 
+Dorex2007: folds 
+BanneyB: folds 
+Vladi_master228: calls $0.06
+Muuuufasa: calls $0.04
+*** FLOP *** [Ks Tc 2h]
+Vladi_master228: checks 
+Muuuufasa: checks 
+Sticky514: checks 
+*** TURN *** [Ks Tc 2h] [7s]
+Vladi_master228: checks 
+Muuuufasa: checks 
+Sticky514: bets $0.08
+Vladi_master228: calls $0.08
+Muuuufasa: calls $0.08
+*** RIVER *** [Ks Tc 2h 7s] [2c]
+Vladi_master228: checks 
+Muuuufasa: checks 
+Sticky514: checks 
+*** SHOW DOWN ***
+Vladi_master228: shows [9s Ts] (two pair, Tens and Deuces)
+Muuuufasa: shows [Th Qs] (two pair, Tens and Deuces)
+Sticky514: mucks hand 
+Vladi_master228 collected $0.24 from pot
+Muuuufasa collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Ks Tc 2h 7s 2c]
+Seat 2: emilino.89 folded before Flop (didn't bet)
+Seat 3: Sticky514 mucked [As Qh]
+Seat 4: paraguasc folded before Flop (didn't bet)
+Seat 5: boy_poker76 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: BanneyB (small blind) folded before Flop
+Seat 8: Vladi_master228 (big blind) showed [9s Ts] and won ($0.24) with two pair, Tens and Deuces
+Seat 9: Muuuufasa showed [Th Qs] and won ($0.23) with two pair, Tens and Deuces
+
+
+
+PokerStars Hand #223791234038:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/13 20:56:32 PT [2021/02/13 23:56:32 ET]
+Table 'Vala' 9-max Seat #7 is the button
+Seat 2: emilino.89 ($1 in chips) 
+Seat 3: Sticky514 ($2.61 in chips) 
+Seat 4: paraguasc ($1.30 in chips) 
+Seat 5: boy_poker76 ($2 in chips) 
+Seat 6: Dorex2007 ($1.54 in chips) 
+Seat 7: BanneyB ($2.93 in chips) 
+Seat 8: Vladi_master228 ($1.04 in chips) 
+Seat 9: Muuuufasa ($1.52 in chips) 
+Vladi_master228: posts small blind $0.01
+Muuuufasa: posts big blind $0.02
+Zhenia_Nsk: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 2s]
+emilino.89: folds 
+Sticky514: calls $0.02
+paraguasc: calls $0.02
+boy_poker76: raises $0.06 to $0.08
+Dorex2007: folds 
+BanneyB: folds 
+Vladi_master228: calls $0.07
+Muuuufasa: folds 
+Sticky514: folds 
+paraguasc: calls $0.06
+*** FLOP *** [As 8d 6c]
+Vladi_master228: bets $0.02
+paraguasc: calls $0.02
+boy_poker76: raises $0.09 to $0.11
+Vladi_master228: calls $0.09
+paraguasc: folds 
+*** TURN *** [As 8d 6c] [3d]
+Vladi_master228: bets $0.02
+boy_poker76: calls $0.02
+*** RIVER *** [As 8d 6c 3d] [Tc]
+Vladi_master228: bets $0.10
+boy_poker76: calls $0.10
+*** SHOW DOWN ***
+Vladi_master228: shows [Ah Td] (two pair, Aces and Tens)
+boy_poker76: mucks hand 
+Vladi_master228 collected $0.73 from pot
+*** SUMMARY ***
+Total pot $0.76 | Rake $0.03 
+Board [As 8d 6c 3d Tc]
+Seat 2: emilino.89 folded before Flop (didn't bet)
+Seat 3: Sticky514 folded before Flop
+Seat 4: paraguasc folded on the Flop
+Seat 5: boy_poker76 mucked [Kc 8c]
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: BanneyB (button) folded before Flop (didn't bet)
+Seat 8: Vladi_master228 (small blind) showed [Ah Td] and won ($0.73) with two pair, Aces and Tens
+Seat 9: Muuuufasa (big blind) folded before Flop
+
+
+
+PokerStars Hand #223791247000:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/13 20:57:31 PT [2021/02/13 23:57:31 ET]
+Table 'Vala' 9-max Seat #8 is the button
+Seat 1: Zhenia_Nsk ($0.80 in chips) 
+Seat 2: emilino.89 ($1 in chips) 
+Seat 3: Sticky514 ($2.59 in chips) 
+Seat 4: paraguasc ($1.20 in chips) 
+Seat 5: boy_poker76 ($1.69 in chips) 
+Seat 6: Dorex2007 ($1.54 in chips) 
+Seat 7: BanneyB ($2.93 in chips) 
+Seat 8: Vladi_master228 ($1.46 in chips) 
+Seat 9: Muuuufasa ($1.50 in chips) 
+Muuuufasa: posts small blind $0.01
+Zhenia_Nsk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 9h]
+emilino.89: calls $0.02
+Sticky514: calls $0.02
+paraguasc: calls $0.02
+boy_poker76: folds 
+Dorex2007: folds 
+BanneyB: folds 
+Vladi_master228: calls $0.02
+Muuuufasa: calls $0.01
+Zhenia_Nsk: checks 
+*** FLOP *** [Ks Ah Ts]
+Muuuufasa: checks 
+Zhenia_Nsk: checks 
+emilino.89: checks 
+Sticky514: checks 
+paraguasc: checks 
+Vladi_master228: checks 
+*** TURN *** [Ks Ah Ts] [8c]
+Muuuufasa: checks 
+Zhenia_Nsk: bets $0.04
+emilino.89: folds 
+Sticky514: folds 
+paraguasc: calls $0.04
+Vladi_master228: folds 
+Muuuufasa: calls $0.04
+*** RIVER *** [Ks Ah Ts 8c] [Qs]
+Muuuufasa: checks 
+Zhenia_Nsk: checks 
+paraguasc: bets $0.20
+Muuuufasa: folds 
+Zhenia_Nsk: folds 
+Uncalled bet ($0.20) returned to paraguasc
+paraguasc collected $0.23 from pot
+paraguasc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Ks Ah Ts 8c Qs]
+Seat 1: Zhenia_Nsk (big blind) folded on the River
+Seat 2: emilino.89 folded on the Turn
+Seat 3: Sticky514 folded on the Turn
+Seat 4: paraguasc collected ($0.23)
+Seat 5: boy_poker76 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: BanneyB folded before Flop (didn't bet)
+Seat 8: Vladi_master228 (button) folded on the Turn
+Seat 9: Muuuufasa (small blind) folded on the River
+
+
+
+PokerStars Hand #223791266339:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/13 20:59:10 PT [2021/02/13 23:59:10 ET]
+Table 'Vala' 9-max Seat #9 is the button
+Seat 1: Zhenia_Nsk ($0.74 in chips) 
+Seat 2: emilino.89 ($0.98 in chips) 
+Seat 3: Sticky514 ($2.57 in chips) 
+Seat 4: paraguasc ($1.37 in chips) 
+Seat 5: boy_poker76 ($1.69 in chips) 
+Seat 6: Dorex2007 ($1.54 in chips) 
+Seat 7: BanneyB ($2.93 in chips) 
+Seat 8: Vladi_master228 ($1.44 in chips) 
+Seat 9: Muuuufasa ($1.44 in chips) 
+Zhenia_Nsk: posts small blind $0.01
+emilino.89: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Ah]
+Sticky514: folds 
+paraguasc: calls $0.02
+boy_poker76: raises $0.08 to $0.10
+Dorex2007: folds 
+BanneyB: folds 
+Vladi_master228: folds 
+Muuuufasa: folds 
+Zhenia_Nsk: calls $0.09
+emilino.89: raises $0.12 to $0.22
+paraguasc: calls $0.20
+boy_poker76: folds 
+Zhenia_Nsk: calls $0.12
+*** FLOP *** [5d Kh 7c]
+Zhenia_Nsk: checks 
+emilino.89: bets $0.37
+paraguasc: folds 
+Zhenia_Nsk: raises $0.15 to $0.52 and is all-in
+emilino.89: calls $0.15
+*** TURN *** [5d Kh 7c] [4c]
+*** RIVER *** [5d Kh 7c 4c] [3d]
+*** SHOW DOWN ***
+Zhenia_Nsk: shows [Kd Kc] (three of a kind, Kings)
+emilino.89: shows [Th Td] (a pair of Tens)
+Zhenia_Nsk collected $1.74 from pot
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.06 
+Board [5d Kh 7c 4c 3d]
+Seat 1: Zhenia_Nsk (small blind) showed [Kd Kc] and won ($1.74) with three of a kind, Kings
+Seat 2: emilino.89 (big blind) showed [Th Td] and lost with a pair of Tens
+Seat 3: Sticky514 folded before Flop (didn't bet)
+Seat 4: paraguasc folded on the Flop
+Seat 5: boy_poker76 folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: BanneyB folded before Flop (didn't bet)
+Seat 8: Vladi_master228 folded before Flop (didn't bet)
+Seat 9: Muuuufasa (button) folded before Flop (didn't bet)
+
+
+

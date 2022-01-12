@@ -1,0 +1,5673 @@
+﻿PokerStars Hand #228389609391:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:09:26 PT [2021/07/18 15:09:26 ET]
+Table 'Chrysothemis II' 9-max Seat #3 is the button
+Seat 1: MsBennet95 ($1.15 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: eagleow ($2.60 in chips) 
+Seat 6: thestomper68 ($1.88 in chips) 
+Seat 7: InputCel555 ($2 in chips) 
+Seat 9: jorgemolga ($1.53 in chips) 
+thestomper68: posts small blind $0.01
+InputCel555: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 5d]
+jorgemolga: calls $0.02
+MsBennet95: calls $0.02
+Dorex2007: checks 
+eagleow: folds 
+thestomper68: calls $0.01
+InputCel555: checks 
+*** FLOP *** [As 2s 7s]
+thestomper68: checks 
+InputCel555: checks 
+jorgemolga: checks 
+MsBennet95: checks 
+Dorex2007: bets $0.10
+thestomper68: folds 
+InputCel555: folds 
+jorgemolga: folds 
+MsBennet95: calls $0.10
+*** TURN *** [As 2s 7s] [2c]
+MsBennet95: checks 
+Dorex2007: bets $0.29
+MsBennet95: calls $0.29
+*** RIVER *** [As 2s 7s 2c] [6c]
+MsBennet95: checks 
+Dorex2007: bets $0.85
+MsBennet95: calls $0.74 and is all-in
+Uncalled bet ($0.11) returned to Dorex2007
+*** SHOW DOWN ***
+Dorex2007: shows [Ac 5d] (two pair, Aces and Deuces)
+MsBennet95: shows [Kd Ad] (two pair, Aces and Deuces - King kicker)
+MsBennet95 collected $2.28 from pot
+*** SUMMARY ***
+Total pot $2.36 | Rake $0.08 
+Board [As 2s 7s 2c 6c]
+Seat 1: MsBennet95 showed [Kd Ad] and won ($2.28) with two pair, Aces and Deuces
+Seat 2: Dorex2007 showed [Ac 5d] and lost with two pair, Aces and Deuces
+Seat 3: eagleow (button) folded before Flop (didn't bet)
+Seat 6: thestomper68 (small blind) folded on the Flop
+Seat 7: InputCel555 (big blind) folded on the Flop
+Seat 9: jorgemolga folded on the Flop
+
+
+
+PokerStars Hand #228389695844:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:11:45 PT [2021/07/18 15:11:45 ET]
+Table 'Chrysothemis II' 9-max Seat #6 is the button
+Seat 1: MsBennet95 ($2.28 in chips) 
+Seat 2: Dorex2007 ($0.85 in chips) 
+Seat 3: eagleow ($2.60 in chips) 
+Seat 4: tcaz99 ($2 in chips) 
+Seat 6: thestomper68 ($1.86 in chips) 
+Seat 7: InputCel555 ($2 in chips) 
+Seat 9: jorgemolga ($1.51 in chips) 
+InputCel555: posts small blind $0.01
+jorgemolga: posts big blind $0.02
+tcaz99: posts big blind $0.02
+TERUDUM: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 7s]
+MsBennet95: folds 
+Dorex2007: folds 
+eagleow: folds 
+tcaz99: raises $0.04 to $0.06
+thestomper68: calls $0.06
+InputCel555: folds 
+jorgemolga: folds 
+*** FLOP *** [9c 7d As]
+tcaz99: checks 
+thestomper68: checks 
+*** TURN *** [9c 7d As] [9h]
+tcaz99: bets $0.06
+thestomper68: folds 
+Uncalled bet ($0.06) returned to tcaz99
+tcaz99 collected $0.14 from pot
+tcaz99: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9c 7d As 9h]
+Seat 1: MsBennet95 folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: eagleow folded before Flop (didn't bet)
+Seat 4: tcaz99 collected ($0.14)
+Seat 6: thestomper68 (button) folded on the Turn
+Seat 7: InputCel555 (small blind) folded before Flop
+Seat 9: jorgemolga (big blind) folded before Flop
+
+
+
+PokerStars Hand #228389732023:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:12:43 PT [2021/07/18 15:12:43 ET]
+Table 'Chrysothemis II' 9-max Seat #7 is the button
+Seat 1: MsBennet95 ($2.28 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: eagleow ($2.60 in chips) 
+Seat 4: tcaz99 ($2.08 in chips) 
+Seat 6: thestomper68 ($1.80 in chips) 
+Seat 7: InputCel555 ($2 in chips) 
+Seat 9: jorgemolga ($1.49 in chips) 
+jorgemolga: posts small blind $0.01
+MsBennet95: posts big blind $0.02
+TERUDUM: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 6c]
+Dorex2007: folds 
+eagleow: calls $0.02
+tcaz99: calls $0.02
+thestomper68: folds 
+InputCel555: folds 
+jorgemolga: calls $0.01
+MsBennet95: checks 
+*** FLOP *** [8d 7d Js]
+jorgemolga: checks 
+MsBennet95: checks 
+eagleow: checks 
+tcaz99: checks 
+*** TURN *** [8d 7d Js] [Th]
+jorgemolga: checks 
+MsBennet95: checks 
+eagleow: bets $0.10
+tcaz99: folds 
+jorgemolga: folds 
+MsBennet95: folds 
+Uncalled bet ($0.10) returned to eagleow
+eagleow collected $0.08 from pot
+eagleow: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [8d 7d Js Th]
+Seat 1: MsBennet95 (big blind) folded on the Turn
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: eagleow collected ($0.08)
+Seat 4: tcaz99 folded on the Turn
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 (button) folded before Flop (didn't bet)
+Seat 9: jorgemolga (small blind) folded on the Turn
+
+
+
+PokerStars Hand #228389764537:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:13:35 PT [2021/07/18 15:13:35 ET]
+Table 'Chrysothemis II' 9-max Seat #9 is the button
+Seat 1: MsBennet95 ($2.26 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: eagleow ($2.66 in chips) 
+Seat 4: tcaz99 ($2.06 in chips) 
+Seat 6: thestomper68 ($1.80 in chips) 
+Seat 7: InputCel555 ($2 in chips) 
+Seat 9: jorgemolga ($1.47 in chips) 
+MsBennet95: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+TERUDUM: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Th]
+eagleow: calls $0.02
+tcaz99: calls $0.02
+thestomper68: folds 
+InputCel555 has timed out
+InputCel555: folds 
+jorgemolga: calls $0.02
+MsBennet95: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [9h 7h 8s]
+MsBennet95: checks 
+Dorex2007: bets $0.10
+eagleow: calls $0.10
+tcaz99: folds 
+jorgemolga: calls $0.10
+MsBennet95: calls $0.10
+*** TURN *** [9h 7h 8s] [4c]
+MsBennet95: checks 
+Dorex2007: bets $0.32
+eagleow: folds 
+jorgemolga: calls $0.32
+MsBennet95: folds 
+*** RIVER *** [9h 7h 8s 4c] [5s]
+Dorex2007: bets $1.10
+jorgemolga: folds 
+Uncalled bet ($1.10) returned to Dorex2007
+Dorex2007 collected $1.10 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.14 | Rake $0.04 
+Board [9h 7h 8s 4c 5s]
+Seat 1: MsBennet95 (small blind) folded on the Turn
+Seat 2: Dorex2007 (big blind) collected ($1.10)
+Seat 3: eagleow folded on the Turn
+Seat 4: tcaz99 folded on the Flop
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 9: jorgemolga (button) folded on the River
+
+
+
+PokerStars Hand #228389826554:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:15:14 PT [2021/07/18 15:15:14 ET]
+Table 'Chrysothemis II' 9-max Seat #1 is the button
+Seat 1: MsBennet95 ($2.14 in chips) 
+Seat 2: Dorex2007 ($2.66 in chips) 
+Seat 4: tcaz99 ($2.04 in chips) 
+Seat 5: TERUDUM ($1.64 in chips) 
+Seat 6: thestomper68 ($1.80 in chips) 
+Seat 7: InputCel555 ($2 in chips) 
+Seat 9: jorgemolga ($1.03 in chips) 
+Dorex2007: posts small blind $0.01
+eagleow: is sitting out 
+tcaz99: posts big blind $0.02
+TERUDUM: posts big blind $0.02
+stephfern53: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 9s]
+TERUDUM: checks 
+thestomper68: calls $0.02
+InputCel555: folds 
+jorgemolga: calls $0.02
+MsBennet95: calls $0.02
+Dorex2007: folds 
+tcaz99: checks 
+*** FLOP *** [4s Ac 2s]
+tcaz99: checks 
+TERUDUM: checks 
+eagleow leaves the table
+thestomper68: checks 
+jorgemolga: checks 
+MsBennet95: checks 
+*** TURN *** [4s Ac 2s] [Jd]
+tcaz99: bets $0.04
+TERUDUM: calls $0.04
+yjqian23 joins the table at seat #3 
+thestomper68: folds 
+jorgemolga: calls $0.04
+MsBennet95: folds 
+*** RIVER *** [4s Ac 2s Jd] [6d]
+tcaz99: checks 
+TERUDUM: checks 
+jorgemolga: checks 
+*** SHOW DOWN ***
+tcaz99: shows [Ks Jh] (a pair of Jacks)
+TERUDUM: mucks hand 
+jorgemolga: mucks hand 
+tcaz99 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [4s Ac 2s Jd 6d]
+Seat 1: MsBennet95 (button) folded on the Turn
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 4: tcaz99 (big blind) showed [Ks Jh] and won ($0.22) with a pair of Jacks
+Seat 5: TERUDUM mucked [Qd Js]
+Seat 6: thestomper68 folded on the Turn
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 9: jorgemolga mucked [5c 9c]
+
+
+
+PokerStars Hand #228389876285:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:16:26 PT [2021/07/18 15:16:26 ET]
+Table 'Chrysothemis II' 9-max Seat #2 is the button
+Seat 1: MsBennet95 ($2.12 in chips) 
+Seat 2: Dorex2007 ($2.65 in chips) 
+Seat 4: tcaz99 ($2.20 in chips) 
+Seat 5: TERUDUM ($1.58 in chips) 
+Seat 6: thestomper68 ($1.78 in chips) 
+Seat 7: InputCel555 ($2 in chips) 
+Seat 9: jorgemolga ($0.97 in chips) 
+tcaz99: posts small blind $0.01
+TERUDUM: posts big blind $0.02
+stephfern53: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Js]
+thestomper68: folds 
+InputCel555: raises $0.02 to $0.04
+jorgemolga: folds 
+MsBennet95: folds 
+Dorex2007: calls $0.04
+tcaz99: calls $0.03
+TERUDUM: calls $0.02
+*** FLOP *** [Qs 5h 7d]
+tcaz99: checks 
+TERUDUM: checks 
+InputCel555: checks 
+Dorex2007: checks 
+*** TURN *** [Qs 5h 7d] [7s]
+tcaz99: checks 
+TERUDUM: bets $0.06
+InputCel555: calls $0.06
+Dorex2007: folds 
+tcaz99: folds 
+*** RIVER *** [Qs 5h 7d 7s] [Jd]
+TERUDUM: bets $0.14
+InputCel555: calls $0.14
+*** SHOW DOWN ***
+TERUDUM: shows [6s As] (a pair of Sevens)
+InputCel555: shows [8d 8h] (two pair, Eights and Sevens)
+InputCel555 collected $0.54 from pot
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.02 
+Board [Qs 5h 7d 7s Jd]
+Seat 1: MsBennet95 folded before Flop (didn't bet)
+Seat 2: Dorex2007 (button) folded on the Turn
+Seat 4: tcaz99 (small blind) folded on the Turn
+Seat 5: TERUDUM (big blind) showed [6s As] and lost with a pair of Sevens
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 showed [8d 8h] and won ($0.54) with two pair, Eights and Sevens
+Seat 9: jorgemolga folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228389916691:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:17:30 PT [2021/07/18 15:17:30 ET]
+Table 'Chrysothemis II' 9-max Seat #4 is the button
+Seat 1: MsBennet95 ($2.12 in chips) 
+Seat 2: Dorex2007 ($2.61 in chips) 
+Seat 3: yjqian23 ($2 in chips) 
+Seat 4: tcaz99 ($2.16 in chips) 
+Seat 5: TERUDUM ($1.34 in chips) 
+Seat 6: thestomper68 ($1.78 in chips) 
+Seat 7: InputCel555 ($2.30 in chips) 
+Seat 9: jorgemolga ($0.97 in chips) 
+TERUDUM: posts small blind $0.01
+thestomper68: posts big blind $0.02
+stephfern53: sits out 
+yjqian23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Tc]
+InputCel555: folds 
+jorgemolga: folds 
+MsBennet95: calls $0.02
+Dorex2007: folds 
+yjqian23: checks 
+tcaz99: calls $0.02
+TERUDUM: calls $0.01
+thestomper68: checks 
+*** FLOP *** [Qs Ks 9c]
+TERUDUM: checks 
+thestomper68: checks 
+MsBennet95: checks 
+yjqian23: bets $0.02
+tcaz99: folds 
+TERUDUM: folds 
+thestomper68: calls $0.02
+MsBennet95: calls $0.02
+*** TURN *** [Qs Ks 9c] [6d]
+thestomper68: bets $0.02
+MsBennet95: calls $0.02
+yjqian23: calls $0.02
+*** RIVER *** [Qs Ks 9c 6d] [Ah]
+thestomper68: bets $0.21
+MsBennet95: calls $0.21
+yjqian23: folds 
+*** SHOW DOWN ***
+thestomper68: shows [6s Ac] (two pair, Aces and Sixes)
+MsBennet95: mucks hand 
+thestomper68 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [Qs Ks 9c 6d Ah]
+Seat 1: MsBennet95 mucked [9h Kd]
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: yjqian23 folded on the River
+Seat 4: tcaz99 (button) folded on the Flop
+Seat 5: TERUDUM (small blind) folded on the Flop
+Seat 6: thestomper68 (big blind) showed [6s Ac] and won ($0.62) with two pair, Aces and Sixes
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 9: jorgemolga folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228389957431:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:18:35 PT [2021/07/18 15:18:35 ET]
+Table 'Chrysothemis II' 9-max Seat #5 is the button
+Seat 1: MsBennet95 ($1.85 in chips) 
+Seat 2: Dorex2007 ($2.61 in chips) 
+Seat 3: yjqian23 ($1.94 in chips) 
+Seat 4: tcaz99 ($2.14 in chips) 
+Seat 5: TERUDUM ($1.32 in chips) 
+Seat 6: thestomper68 ($2.13 in chips) 
+Seat 7: InputCel555 ($2.30 in chips) 
+Seat 9: jorgemolga ($0.97 in chips) 
+thestomper68: posts small blind $0.01
+InputCel555: posts big blind $0.02
+stephfern53: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 2d]
+jorgemolga: calls $0.02
+MsBennet95: calls $0.02
+Dorex2007: calls $0.02
+yjqian23: calls $0.02
+tcaz99: raises $0.13 to $0.15
+TERUDUM: folds 
+thestomper68: folds 
+InputCel555: folds 
+jorgemolga: calls $0.13
+MsBennet95: calls $0.13
+Dorex2007: folds 
+yjqian23: folds 
+*** FLOP *** [4d Tc 9c]
+jorgemolga: checks 
+MsBennet95: checks 
+tcaz99: bets $0.25
+jorgemolga: calls $0.25
+MsBennet95: folds 
+*** TURN *** [4d Tc 9c] [Qs]
+jorgemolga: checks 
+tcaz99: bets $0.49
+jorgemolga: folds 
+Uncalled bet ($0.49) returned to tcaz99
+tcaz99 collected $0.98 from pot
+tcaz99: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.02 | Rake $0.04 
+Board [4d Tc 9c Qs]
+Seat 1: MsBennet95 folded on the Flop
+Seat 2: Dorex2007 folded before Flop
+Seat 3: yjqian23 folded before Flop
+Seat 4: tcaz99 collected ($0.98)
+Seat 5: TERUDUM (button) folded before Flop (didn't bet)
+Seat 6: thestomper68 (small blind) folded before Flop
+Seat 7: InputCel555 (big blind) folded before Flop
+Seat 9: jorgemolga folded on the Turn
+
+
+
+PokerStars Hand #228389994835:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:19:35 PT [2021/07/18 15:19:35 ET]
+Table 'Chrysothemis II' 9-max Seat #6 is the button
+Seat 1: MsBennet95 ($1.70 in chips) 
+Seat 2: Dorex2007 ($2.59 in chips) 
+Seat 3: yjqian23 ($1.92 in chips) 
+Seat 4: tcaz99 ($2.72 in chips) 
+Seat 5: TERUDUM ($1.32 in chips) 
+Seat 6: thestomper68 ($2.12 in chips) 
+Seat 7: InputCel555 ($2.28 in chips) 
+Seat 8: stephfern53 ($1.50 in chips) 
+Seat 9: jorgemolga ($0.57 in chips) 
+InputCel555: posts small blind $0.01
+stephfern53: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 8s]
+jorgemolga: folds 
+MsBennet95: calls $0.02
+Dorex2007: folds 
+yjqian23: calls $0.02
+tcaz99: folds 
+TERUDUM: folds 
+thestomper68: folds 
+InputCel555: calls $0.01
+stephfern53: checks 
+*** FLOP *** [Qh 9d 8h]
+InputCel555: checks 
+stephfern53: checks 
+MsBennet95: checks 
+yjqian23: bets $0.30
+InputCel555: folds 
+stephfern53: folds 
+MsBennet95: folds 
+Uncalled bet ($0.30) returned to yjqian23
+yjqian23 collected $0.08 from pot
+yjqian23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Qh 9d 8h]
+Seat 1: MsBennet95 folded on the Flop
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: yjqian23 collected ($0.08)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: TERUDUM folded before Flop (didn't bet)
+Seat 6: thestomper68 (button) folded before Flop (didn't bet)
+Seat 7: InputCel555 (small blind) folded on the Flop
+Seat 8: stephfern53 (big blind) folded on the Flop
+Seat 9: jorgemolga folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228390036147:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:20:41 PT [2021/07/18 15:20:41 ET]
+Table 'Chrysothemis II' 9-max Seat #7 is the button
+Seat 1: MsBennet95 ($1.68 in chips) 
+Seat 2: Dorex2007 ($2.59 in chips) 
+Seat 3: yjqian23 ($1.98 in chips) 
+Seat 4: tcaz99 ($2.72 in chips) 
+Seat 5: TERUDUM ($1.32 in chips) 
+Seat 6: thestomper68 ($2.12 in chips) 
+Seat 7: InputCel555 ($2.26 in chips) 
+Seat 8: stephfern53 ($1.48 in chips) 
+Seat 9: jorgemolga ($0.57 in chips) 
+stephfern53: posts small blind $0.01
+jorgemolga: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Kd]
+MsBennet95: folds 
+Dorex2007: raises $0.04 to $0.06
+yjqian23: folds 
+tcaz99: folds 
+stephfern53 said, "0.08"
+TERUDUM: folds 
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+jorgemolga: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MsBennet95 folded before Flop (didn't bet)
+Seat 2: Dorex2007 collected ($0.05)
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: TERUDUM folded before Flop (didn't bet)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 (button) folded before Flop (didn't bet)
+Seat 8: stephfern53 (small blind) folded before Flop
+Seat 9: jorgemolga (big blind) folded before Flop
+
+
+
+PokerStars Hand #228390053934:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:21:10 PT [2021/07/18 15:21:10 ET]
+Table 'Chrysothemis II' 9-max Seat #8 is the button
+Seat 1: MsBennet95 ($1.68 in chips) 
+Seat 2: Dorex2007 ($2.62 in chips) 
+Seat 3: yjqian23 ($1.98 in chips) 
+Seat 4: tcaz99 ($2.72 in chips) 
+Seat 5: TERUDUM ($1.32 in chips) 
+Seat 6: thestomper68 ($2.12 in chips) 
+Seat 7: InputCel555 ($2.26 in chips) 
+Seat 8: stephfern53 ($1.47 in chips) 
+Seat 9: jorgemolga ($0.55 in chips) 
+jorgemolga: posts small blind $0.01
+MsBennet95: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 2d]
+Dorex2007: folds 
+yjqian23: folds 
+tcaz99: folds 
+TERUDUM: calls $0.02
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+jorgemolga: calls $0.01
+MsBennet95: checks 
+*** FLOP *** [7d Js 3s]
+jorgemolga: checks 
+MsBennet95: bets $0.02
+TERUDUM: calls $0.02
+jorgemolga: calls $0.02
+*** TURN *** [7d Js 3s] [2h]
+jorgemolga: checks 
+MsBennet95: bets $0.02
+TERUDUM: folds 
+jorgemolga: calls $0.02
+*** RIVER *** [7d Js 3s 2h] [5s]
+jorgemolga: checks 
+MsBennet95: bets $0.02
+jorgemolga: folds 
+Uncalled bet ($0.02) returned to MsBennet95
+MsBennet95 collected $0.15 from pot
+MsBennet95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [7d Js 3s 2h 5s]
+Seat 1: MsBennet95 (big blind) collected ($0.15)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: TERUDUM folded on the Turn
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 (button) folded before Flop (didn't bet)
+Seat 9: jorgemolga (small blind) folded on the River
+
+
+
+PokerStars Hand #228390089307:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:22:06 PT [2021/07/18 15:22:06 ET]
+Table 'Chrysothemis II' 9-max Seat #9 is the button
+Seat 1: MsBennet95 ($1.77 in chips) 
+Seat 2: Dorex2007 ($2.62 in chips) 
+Seat 3: yjqian23 ($1.98 in chips) 
+Seat 4: tcaz99 ($2.72 in chips) 
+Seat 5: TERUDUM ($1.28 in chips) 
+Seat 6: thestomper68 ($2.12 in chips) 
+Seat 7: InputCel555 ($2.26 in chips) 
+Seat 8: stephfern53 ($1.47 in chips) 
+Seat 9: jorgemolga ($0.49 in chips) 
+MsBennet95: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 3c]
+yjqian23: folds 
+yjqian23 leaves the table
+tcaz99: folds 
+TERUDUM: raises $0.04 to $0.06
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+jorgemolga: calls $0.06
+yjqian23 joins the table at seat #3 
+MsBennet95: calls $0.05
+Dorex2007: folds 
+*** FLOP *** [Ac 5s 4s]
+MsBennet95: checks 
+TERUDUM: bets $0.10
+jorgemolga: folds 
+MsBennet95: folds 
+Uncalled bet ($0.10) returned to TERUDUM
+TERUDUM collected $0.19 from pot
+TERUDUM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Ac 5s 4s]
+Seat 1: MsBennet95 (small blind) folded on the Flop
+Seat 2: Dorex2007 (big blind) folded before Flop
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: TERUDUM collected ($0.19)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: jorgemolga (button) folded on the Flop
+
+
+
+PokerStars Hand #228390111867:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:22:43 PT [2021/07/18 15:22:43 ET]
+Table 'Chrysothemis II' 9-max Seat #1 is the button
+Seat 1: MsBennet95 ($1.71 in chips) 
+Seat 2: Dorex2007 ($2.60 in chips) 
+Seat 3: yjqian23 ($2 in chips) 
+Seat 4: tcaz99 ($2.72 in chips) 
+Seat 5: TERUDUM ($1.41 in chips) 
+Seat 6: thestomper68 ($2.12 in chips) 
+Seat 7: InputCel555 ($2.26 in chips) 
+Seat 8: stephfern53 ($1.47 in chips) 
+Seat 9: jorgemolga ($0.43 in chips) 
+Dorex2007: posts small blind $0.01
+yjqian23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts Kh]
+tcaz99: folds 
+TERUDUM: folds 
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: calls $0.02
+jorgemolga: raises $0.07 to $0.09
+MsBennet95: folds 
+Dorex2007: folds 
+yjqian23: folds 
+stephfern53: calls $0.07
+*** FLOP *** [5c Qc 8d]
+stephfern53: checks 
+jorgemolga: bets $0.34 and is all-in
+stephfern53: folds 
+Uncalled bet ($0.34) returned to jorgemolga
+jorgemolga collected $0.20 from pot
+jorgemolga: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [5c Qc 8d]
+Seat 1: MsBennet95 (button) folded before Flop (didn't bet)
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 3: yjqian23 (big blind) folded before Flop
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: TERUDUM folded before Flop (didn't bet)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded on the Flop
+Seat 9: jorgemolga collected ($0.20)
+
+
+
+PokerStars Hand #228390152687:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:23:48 PT [2021/07/18 15:23:48 ET]
+Table 'Chrysothemis II' 9-max Seat #2 is the button
+Seat 1: MsBennet95 ($1.71 in chips) 
+Seat 2: Dorex2007 ($2.59 in chips) 
+Seat 3: yjqian23 ($1.98 in chips) 
+Seat 4: tcaz99 ($2.72 in chips) 
+Seat 5: TERUDUM ($1.41 in chips) 
+Seat 6: thestomper68 ($2.12 in chips) 
+Seat 7: InputCel555 ($2.26 in chips) 
+Seat 8: stephfern53 ($1.38 in chips) 
+Seat 9: jorgemolga ($0.54 in chips) 
+yjqian23: posts small blind $0.01
+tcaz99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 4d]
+TERUDUM: raises $0.02 to $0.04
+thestomper68: calls $0.04
+InputCel555: folds 
+stephfern53: folds 
+jorgemolga: calls $0.04
+MsBennet95: folds 
+Dorex2007: folds 
+yjqian23: folds 
+tcaz99: calls $0.02
+*** FLOP *** [6h 8h Ad]
+tcaz99: checks 
+TERUDUM: bets $0.16
+thestomper68: folds 
+jorgemolga: folds 
+tcaz99: folds 
+Uncalled bet ($0.16) returned to TERUDUM
+TERUDUM collected $0.16 from pot
+TERUDUM: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [6h 8h Ad]
+Seat 1: MsBennet95 folded before Flop (didn't bet)
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: yjqian23 (small blind) folded before Flop
+Seat 4: tcaz99 (big blind) folded on the Flop
+Seat 5: TERUDUM collected ($0.16)
+Seat 6: thestomper68 folded on the Flop
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: jorgemolga folded on the Flop
+
+
+
+PokerStars Hand #228390182458:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:24:36 PT [2021/07/18 15:24:36 ET]
+Table 'Chrysothemis II' 9-max Seat #3 is the button
+Seat 1: MsBennet95 ($1.71 in chips) 
+Seat 2: Dorex2007 ($2.59 in chips) 
+Seat 3: yjqian23 ($1.97 in chips) 
+Seat 4: tcaz99 ($2.68 in chips) 
+Seat 5: TERUDUM ($1.53 in chips) 
+Seat 6: thestomper68 ($2.08 in chips) 
+Seat 7: InputCel555 ($2.26 in chips) 
+Seat 8: stephfern53 ($1.38 in chips) 
+Seat 9: jorgemolga ($0.50 in chips) 
+tcaz99: posts small blind $0.01
+TERUDUM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 5h]
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: calls $0.02
+jorgemolga: calls $0.02
+MsBennet95: calls $0.02
+Dorex2007: folds 
+yjqian23: folds 
+tcaz99: folds 
+TERUDUM: checks 
+*** FLOP *** [4s 8c 6d]
+TERUDUM: checks 
+stephfern53: checks 
+jorgemolga: checks 
+MsBennet95: checks 
+*** TURN *** [4s 8c 6d] [3d]
+TERUDUM: checks 
+stephfern53: checks 
+jorgemolga: checks 
+MsBennet95: checks 
+*** RIVER *** [4s 8c 6d 3d] [7s]
+TERUDUM: checks 
+stephfern53: checks 
+jorgemolga: checks 
+MsBennet95: checks 
+*** SHOW DOWN ***
+TERUDUM: shows [2h Tc] (high card Ten)
+stephfern53: shows [Jc 8s] (a pair of Eights)
+jorgemolga: mucks hand 
+MsBennet95: mucks hand 
+stephfern53 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [4s 8c 6d 3d 7s]
+Seat 1: MsBennet95 mucked [Qh 3h]
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: yjqian23 (button) folded before Flop (didn't bet)
+Seat 4: tcaz99 (small blind) folded before Flop
+Seat 5: TERUDUM (big blind) showed [2h Tc] and lost with high card Ten
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 showed [Jc 8s] and won ($0.09) with a pair of Eights
+Seat 9: jorgemolga mucked [Ah 3c]
+
+
+
+PokerStars Hand #228390219957:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:25:37 PT [2021/07/18 15:25:37 ET]
+Table 'Chrysothemis II' 9-max Seat #4 is the button
+Seat 1: MsBennet95 ($1.69 in chips) 
+Seat 2: Dorex2007 ($2.59 in chips) 
+Seat 3: yjqian23 ($1.97 in chips) 
+Seat 4: tcaz99 ($2.67 in chips) 
+Seat 5: TERUDUM ($1.51 in chips) 
+Seat 6: thestomper68 ($2.08 in chips) 
+Seat 7: InputCel555 ($2.26 in chips) 
+Seat 8: stephfern53 ($1.45 in chips) 
+Seat 9: jorgemolga ($0.48 in chips) 
+TERUDUM: posts small blind $0.01
+thestomper68: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Qc]
+InputCel555: folds 
+stephfern53: calls $0.02
+jorgemolga: calls $0.02
+MsBennet95: folds 
+Dorex2007: folds 
+yjqian23: folds 
+tcaz99: folds 
+TERUDUM: calls $0.01
+thestomper68: checks 
+*** FLOP *** [Kd 3d Ad]
+TERUDUM: checks 
+thestomper68: checks 
+stephfern53: checks 
+jorgemolga: checks 
+*** TURN *** [Kd 3d Ad] [2c]
+TERUDUM: bets $0.04
+thestomper68: folds 
+stephfern53: folds 
+jorgemolga: calls $0.04
+*** RIVER *** [Kd 3d Ad 2c] [Qh]
+TERUDUM: bets $0.06
+jorgemolga: calls $0.06
+*** SHOW DOWN ***
+TERUDUM: shows [5c 4s] (a straight, Ace to Five)
+jorgemolga: mucks hand 
+TERUDUM collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Kd 3d Ad 2c Qh]
+Seat 1: MsBennet95 folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: tcaz99 (button) folded before Flop (didn't bet)
+Seat 5: TERUDUM (small blind) showed [5c 4s] and won ($0.27) with a straight, Ace to Five
+Seat 6: thestomper68 (big blind) folded on the Turn
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded on the Turn
+Seat 9: jorgemolga mucked [8h Ks]
+
+
+
+PokerStars Hand #228390267106:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:26:52 PT [2021/07/18 15:26:52 ET]
+Table 'Chrysothemis II' 9-max Seat #5 is the button
+Seat 1: MsBennet95 ($1.69 in chips) 
+Seat 2: Dorex2007 ($2.59 in chips) 
+Seat 3: yjqian23 ($1.97 in chips) 
+Seat 4: tcaz99 ($2.67 in chips) 
+Seat 5: TERUDUM ($1.66 in chips) 
+Seat 6: thestomper68 ($2.06 in chips) 
+Seat 7: InputCel555 ($2.26 in chips) 
+Seat 8: stephfern53 ($1.43 in chips) 
+Seat 9: jorgemolga ($0.36 in chips) 
+thestomper68: posts small blind $0.01
+InputCel555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 8s]
+stephfern53: calls $0.02
+jorgemolga has timed out
+jorgemolga: folds 
+MsBennet95: calls $0.02
+Dorex2007: calls $0.02
+yjqian23: folds 
+tcaz99: calls $0.02
+TERUDUM: folds 
+TERUDUM leaves the table
+thestomper68: folds 
+InputCel555: checks 
+*** FLOP *** [9h Ks Js]
+Yeah!Gotcha! joins the table at seat #5 
+InputCel555: checks 
+stephfern53: checks 
+MsBennet95: checks 
+Dorex2007: checks 
+tcaz99: checks 
+*** TURN *** [9h Ks Js] [2c]
+InputCel555: checks 
+stephfern53: checks 
+MsBennet95: checks 
+Dorex2007: bets $0.07
+tcaz99: folds 
+InputCel555: folds 
+stephfern53: folds 
+MsBennet95: folds 
+Uncalled bet ($0.07) returned to Dorex2007
+Dorex2007 collected $0.11 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [9h Ks Js 2c]
+Seat 1: MsBennet95 folded on the Turn
+Seat 2: Dorex2007 collected ($0.11)
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: tcaz99 folded on the Turn
+Seat 5: TERUDUM (button) folded before Flop (didn't bet)
+Seat 6: thestomper68 (small blind) folded before Flop
+Seat 7: InputCel555 (big blind) folded on the Turn
+Seat 8: stephfern53 folded on the Turn
+Seat 9: jorgemolga folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228390333017:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:28:39 PT [2021/07/18 15:28:39 ET]
+Table 'Chrysothemis II' 9-max Seat #6 is the button
+Seat 1: MsBennet95 ($1.67 in chips) 
+Seat 2: Dorex2007 ($2.68 in chips) 
+Seat 3: yjqian23 ($1.97 in chips) 
+Seat 4: tcaz99 ($2.65 in chips) 
+Seat 6: thestomper68 ($2.05 in chips) 
+Seat 7: InputCel555 ($2.24 in chips) 
+Seat 8: stephfern53 ($1.41 in chips) 
+Seat 9: jorgemolga ($0.36 in chips) 
+InputCel555: posts small blind $0.01
+stephfern53: posts big blind $0.02
+Yeah!Gotcha!: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s Qc]
+jorgemolga: calls $0.02
+MsBennet95: raises $0.02 to $0.04
+Dorex2007: folds 
+yjqian23: folds 
+tcaz99: folds 
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+jorgemolga: calls $0.02
+*** FLOP *** [Ac 6h 2h]
+jorgemolga: bets $0.11
+MsBennet95: calls $0.11
+*** TURN *** [Ac 6h 2h] [Js]
+jorgemolga: bets $0.21 and is all-in
+MsBennet95: calls $0.21
+*** RIVER *** [Ac 6h 2h Js] [8h]
+*** SHOW DOWN ***
+jorgemolga: shows [Ah 4h] (a flush, Ace high)
+MsBennet95: shows [4d Ad] (a pair of Aces)
+jorgemolga collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Ac 6h 2h Js 8h]
+Seat 1: MsBennet95 showed [4d Ad] and lost with a pair of Aces
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 6: thestomper68 (button) folded before Flop (didn't bet)
+Seat 7: InputCel555 (small blind) folded before Flop
+Seat 8: stephfern53 (big blind) folded before Flop
+Seat 9: jorgemolga showed [Ah 4h] and won ($0.72) with a flush, Ace high
+
+
+
+PokerStars Hand #228390386819:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:30:06 PT [2021/07/18 15:30:06 ET]
+Table 'Chrysothemis II' 9-max Seat #7 is the button
+Seat 1: MsBennet95 ($1.31 in chips) 
+Seat 2: Dorex2007 ($2.68 in chips) 
+Seat 3: yjqian23 ($1.97 in chips) 
+Seat 4: tcaz99 ($2.65 in chips) 
+Seat 6: thestomper68 ($2.05 in chips) 
+Seat 7: InputCel555 ($2.23 in chips) 
+Seat 8: stephfern53 ($1.39 in chips) 
+Seat 9: jorgemolga ($0.72 in chips) 
+stephfern53: posts small blind $0.01
+jorgemolga: posts big blind $0.02
+Yeah!Gotcha!: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 8c]
+MsBennet95: calls $0.02
+Dorex2007: folds 
+yjqian23: raises $0.02 to $0.04
+tcaz99: calls $0.04
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+jorgemolga: folds 
+MsBennet95: calls $0.02
+*** FLOP *** [Th 9h 4h]
+MsBennet95: checks 
+yjqian23: bets $0.02
+tcaz99: calls $0.02
+MsBennet95: folds 
+*** TURN *** [Th 9h 4h] [8h]
+yjqian23: bets $0.02
+tcaz99: folds 
+Uncalled bet ($0.02) returned to yjqian23
+yjqian23 collected $0.18 from pot
+yjqian23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Th 9h 4h 8h]
+Seat 1: MsBennet95 folded on the Flop
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: yjqian23 collected ($0.18)
+Seat 4: tcaz99 folded on the Turn
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 (button) folded before Flop (didn't bet)
+Seat 8: stephfern53 (small blind) folded before Flop
+Seat 9: jorgemolga (big blind) folded before Flop
+
+
+
+PokerStars Hand #228390437398:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:31:28 PT [2021/07/18 15:31:28 ET]
+Table 'Chrysothemis II' 9-max Seat #8 is the button
+Seat 1: MsBennet95 ($1.27 in chips) 
+Seat 2: Dorex2007 ($2.68 in chips) 
+Seat 3: yjqian23 ($2.09 in chips) 
+Seat 4: tcaz99 ($2.59 in chips) 
+Seat 6: thestomper68 ($2.05 in chips) 
+Seat 7: InputCel555 ($2.23 in chips) 
+Seat 8: stephfern53 ($1.38 in chips) 
+Seat 9: jorgemolga ($0.70 in chips) 
+jorgemolga: posts small blind $0.01
+MsBennet95: posts big blind $0.02
+Yeah!Gotcha!: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 3s]
+Dorex2007: folds 
+yjqian23: folds 
+yjqian23 leaves the table
+tcaz99: folds 
+thestomper68: folds 
+InputCel555: raises $0.02 to $0.04
+stephfern53: folds 
+Rex Dansy joins the table at seat #3 
+jorgemolga: folds 
+MsBennet95: folds 
+Uncalled bet ($0.02) returned to InputCel555
+InputCel555 collected $0.05 from pot
+InputCel555: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MsBennet95 (big blind) folded before Flop
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: yjqian23 folded before Flop (didn't bet)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 collected ($0.05)
+Seat 8: stephfern53 (button) folded before Flop (didn't bet)
+Seat 9: jorgemolga (small blind) folded before Flop
+
+
+
+PokerStars Hand #228390465184:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:32:12 PT [2021/07/18 15:32:12 ET]
+Table 'Chrysothemis II' 9-max Seat #9 is the button
+Seat 1: MsBennet95 ($1.25 in chips) 
+Seat 2: Dorex2007 ($2.68 in chips) 
+Seat 4: tcaz99 ($2.59 in chips) 
+Seat 6: thestomper68 ($2.05 in chips) 
+Seat 7: InputCel555 ($2.26 in chips) 
+Seat 8: stephfern53 ($1.38 in chips) 
+Seat 9: jorgemolga ($0.69 in chips) 
+MsBennet95: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Rex Dansy: sits out 
+Yeah!Gotcha!: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 8h]
+tcaz99: folds 
+thestomper68: raises $0.02 to $0.04
+InputCel555: folds 
+stephfern53: calls $0.04
+jorgemolga: calls $0.04
+MsBennet95: calls $0.03
+Dorex2007: folds 
+*** FLOP *** [Qh 5c 5s]
+MsBennet95: checks 
+thestomper68: checks 
+stephfern53: checks 
+jorgemolga: bets $0.09
+MsBennet95: calls $0.09
+thestomper68: calls $0.09
+stephfern53: folds 
+*** TURN *** [Qh 5c 5s] [9c]
+MsBennet95: checks 
+thestomper68: checks 
+jorgemolga: bets $0.56 and is all-in
+MsBennet95: calls $0.56
+thestomper68: folds 
+jorgemolga has timed out
+*** RIVER *** [Qh 5c 5s 9c] [2d]
+*** SHOW DOWN ***
+MsBennet95: shows [5d 7c] (three of a kind, Fives)
+jorgemolga: shows [Qc 4c] (two pair, Queens and Fives)
+MsBennet95 cashed out the hand for $1.17 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $1.57 | Rake $0.05 
+Board [Qh 5c 5s 9c 2d]
+Seat 1: MsBennet95 (small blind) showed [5d 7c] and won ($1.52) with three of a kind, Fives (pot not awarded as player cashed out)
+Seat 2: Dorex2007 (big blind) folded before Flop
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 6: thestomper68 folded on the Turn
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded on the Flop
+Seat 9: jorgemolga (button) showed [Qc 4c] and lost with two pair, Queens and Fives
+
+
+
+PokerStars Hand #228390543032:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:34:03 PT [2021/07/18 15:34:03 ET]
+Table 'Chrysothemis II' 9-max Seat #1 is the button
+Seat 1: MsBennet95 ($1.73 in chips) 
+Seat 2: Dorex2007 ($2.66 in chips) 
+Seat 3: Rex Dansy ($0.80 in chips) 
+Seat 4: tcaz99 ($2.59 in chips) 
+Seat 6: thestomper68 ($1.92 in chips) 
+Seat 7: InputCel555 ($2.26 in chips) 
+Seat 8: stephfern53 ($1.34 in chips) 
+Dorex2007: posts small blind $0.01
+Rex Dansy: posts big blind $0.02
+Yeah!Gotcha!: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 4s]
+tcaz99: raises $0.02 to $0.04
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+MsBennet95: calls $0.04
+Dorex2007: folds 
+Rex Dansy: folds 
+*** FLOP *** [Qh 7s 8h]
+tcaz99: checks 
+MsBennet95: checks 
+*** TURN *** [Qh 7s 8h] [9s]
+tcaz99: checks 
+MsBennet95: checks 
+*** RIVER *** [Qh 7s 8h 9s] [Td]
+jorgemolga leaves the table
+tcaz99: checks 
+MsBennet95: checks 
+*** SHOW DOWN ***
+tcaz99: shows [As 6s] (a straight, Six to Ten)
+MsBennet95: shows [Tc 6c] (a straight, Six to Ten)
+tcaz99 collected $0.06 from pot
+MsBennet95 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Qh 7s 8h 9s Td]
+Seat 1: MsBennet95 (button) showed [Tc 6c] and won ($0.05) with a straight, Six to Ten
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 3: Rex Dansy (big blind) folded before Flop
+Seat 4: tcaz99 showed [As 6s] and won ($0.06) with a straight, Six to Ten
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228390565003:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:34:38 PT [2021/07/18 15:34:38 ET]
+Table 'Chrysothemis II' 9-max Seat #2 is the button
+Seat 1: MsBennet95 ($1.74 in chips) 
+Seat 2: Dorex2007 ($2.65 in chips) 
+Seat 3: Rex Dansy ($0.78 in chips) 
+Seat 4: tcaz99 ($2.61 in chips) 
+Seat 6: thestomper68 ($1.92 in chips) 
+Seat 7: InputCel555 ($2.26 in chips) 
+Seat 8: stephfern53 ($1.34 in chips) 
+Rex Dansy: posts small blind $0.01
+tcaz99: posts big blind $0.02
+Yeah!Gotcha!: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 2d]
+voshod999 joins the table at seat #9 
+thestomper68: folds 
+InputCel555: raises $0.02 to $0.04
+stephfern53: folds 
+MsBennet95: folds 
+Dorex2007: folds 
+Rex Dansy: calls $0.03
+tcaz99: calls $0.02
+*** FLOP *** [Qc 4s 7d]
+Rex Dansy: bets $0.04
+tcaz99: folds 
+InputCel555: folds 
+Uncalled bet ($0.04) returned to Rex Dansy
+Rex Dansy collected $0.12 from pot
+Rex Dansy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Qc 4s 7d]
+Seat 1: MsBennet95 folded before Flop (didn't bet)
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: Rex Dansy (small blind) collected ($0.12)
+Seat 4: tcaz99 (big blind) folded on the Flop
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded on the Flop
+Seat 8: stephfern53 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228390590474:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:35:20 PT [2021/07/18 15:35:20 ET]
+Table 'Chrysothemis II' 9-max Seat #3 is the button
+Seat 1: MsBennet95 ($1.74 in chips) 
+Seat 2: Dorex2007 ($2.65 in chips) 
+Seat 3: Rex Dansy ($0.86 in chips) 
+Seat 4: tcaz99 ($2.57 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($1.92 in chips) 
+Seat 7: InputCel555 ($2.22 in chips) 
+Seat 8: stephfern53 ($1.34 in chips) 
+Seat 9: voshod999 ($1.60 in chips) 
+tcaz99: posts small blind $0.01
+Yeah!Gotcha!: posts big blind $0.02
+voshod999: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 9d]
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+voshod999: raises $0.04 to $0.06
+MsBennet95: folds 
+Dorex2007: folds 
+Rex Dansy: folds 
+tcaz99: folds 
+Yeah!Gotcha!: folds 
+Uncalled bet ($0.04) returned to voshod999
+voshod999 collected $0.05 from pot
+voshod999: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MsBennet95 folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Rex Dansy (button) folded before Flop (didn't bet)
+Seat 4: tcaz99 (small blind) folded before Flop
+Seat 5: Yeah!Gotcha! (big blind) folded before Flop
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: voshod999 collected ($0.05)
+
+
+
+PokerStars Hand #228390602679:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:35:39 PT [2021/07/18 15:35:39 ET]
+Table 'Chrysothemis II' 9-max Seat #4 is the button
+Seat 2: Dorex2007 ($2.65 in chips) 
+Seat 3: Rex Dansy ($0.86 in chips) 
+Seat 4: tcaz99 ($2.56 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($1.92 in chips) 
+Seat 7: InputCel555 ($2.22 in chips) 
+Seat 8: stephfern53 ($1.34 in chips) 
+Seat 9: voshod999 ($1.63 in chips) 
+Yeah!Gotcha!: posts small blind $0.01
+thestomper68: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 8c]
+InputCel555: folds 
+stephfern53: folds 
+voshod999: folds 
+Dorex2007: folds 
+Rex Dansy: raises $0.02 to $0.04
+tcaz99: calls $0.04
+Yeah!Gotcha!: folds 
+thestomper68: folds 
+*** FLOP *** [7h Kc 7s]
+Rex Dansy: bets $0.04
+tcaz99: folds 
+Uncalled bet ($0.04) returned to Rex Dansy
+Rex Dansy collected $0.11 from pot
+Rex Dansy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [7h Kc 7s]
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Rex Dansy collected ($0.11)
+Seat 4: tcaz99 (button) folded on the Flop
+Seat 5: Yeah!Gotcha! (small blind) folded before Flop
+Seat 6: thestomper68 (big blind) folded before Flop
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: voshod999 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228390709549:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:38:32 PT [2021/07/18 15:38:32 ET]
+Table 'Chrysothemis II' 9-max Seat #3 is the button
+Seat 2: Dorex2007 ($2.65 in chips) 
+Seat 3: Rex Dansy ($0.96 in chips) 
+Seat 4: tcaz99 ($2.54 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($1.99 in chips) 
+Seat 7: InputCel555 ($2.19 in chips) 
+Seat 8: stephfern53 ($1.31 in chips) 
+Seat 9: voshod999 ($1.59 in chips) 
+tcaz99: posts small blind $0.01
+Yeah!Gotcha!: posts big blind $0.02
+Dorex2007: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 4d]
+thestomper68: folds 
+InputCel555: folds 
+stephfern53 has timed out
+stephfern53: folds 
+voshod999: folds 
+Dorex2007: checks 
+Rex Dansy: calls $0.02
+tcaz99: calls $0.01
+Yeah!Gotcha!: checks 
+*** FLOP *** [8c Ts Qs]
+tcaz99: checks 
+Yeah!Gotcha!: checks 
+Dorex2007: checks 
+Rex Dansy: checks 
+*** TURN *** [8c Ts Qs] [6c]
+tcaz99: checks 
+Yeah!Gotcha!: checks 
+Dorex2007: checks 
+Rex Dansy: checks 
+*** RIVER *** [8c Ts Qs 6c] [Kc]
+tcaz99: checks 
+Yeah!Gotcha!: checks 
+Dorex2007: checks 
+Rex Dansy: checks 
+*** SHOW DOWN ***
+tcaz99: shows [7s Ks] (a pair of Kings)
+Yeah!Gotcha!: mucks hand 
+Dorex2007: mucks hand 
+Rex Dansy: shows [7c Kd] (a pair of Kings)
+tcaz99 collected $0.05 from pot
+Rex Dansy collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [8c Ts Qs 6c Kc]
+Seat 2: Dorex2007 mucked [9h 4d]
+Seat 3: Rex Dansy (button) showed [7c Kd] and won ($0.04) with a pair of Kings
+Seat 4: tcaz99 (small blind) showed [7s Ks] and won ($0.05) with a pair of Kings
+Seat 5: Yeah!Gotcha! (big blind) mucked [Th 4s]
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: voshod999 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228390754110:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:39:45 PT [2021/07/18 15:39:45 ET]
+Table 'Chrysothemis II' 9-max Seat #4 is the button
+Seat 2: Dorex2007 ($2.62 in chips) 
+Seat 3: Rex Dansy ($0.98 in chips) 
+Seat 4: tcaz99 ($2.57 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($1.99 in chips) 
+Seat 7: InputCel555 ($2.19 in chips) 
+Seat 9: voshod999 ($1.59 in chips) 
+Yeah!Gotcha!: posts small blind $0.01
+thestomper68: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 2d]
+InputCel555: folds 
+voshod999: folds 
+Dorex2007: folds 
+Rex Dansy: raises $0.02 to $0.04
+tcaz99: calls $0.04
+Yeah!Gotcha!: folds 
+thestomper68: calls $0.02
+*** FLOP *** [Ks 8h 5d]
+thestomper68: checks 
+Rex Dansy: bets $0.04
+tcaz99: folds 
+thestomper68: calls $0.04
+*** TURN *** [Ks 8h 5d] [7c]
+thestomper68: bets $0.02
+Rex Dansy: raises $0.88 to $0.90 and is all-in
+thestomper68: folds 
+Uncalled bet ($0.88) returned to Rex Dansy
+Rex Dansy collected $0.24 from pot
+Rex Dansy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ks 8h 5d 7c]
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Rex Dansy collected ($0.24)
+Seat 4: tcaz99 (button) folded on the Flop
+Seat 5: Yeah!Gotcha! (small blind) folded before Flop
+Seat 6: thestomper68 (big blind) folded on the Turn
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 9: voshod999 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228390800835:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:41:02 PT [2021/07/18 15:41:02 ET]
+Table 'Chrysothemis II' 9-max Seat #5 is the button
+Seat 2: Dorex2007 ($2.62 in chips) 
+Seat 3: Rex Dansy ($1.12 in chips) 
+Seat 4: tcaz99 ($2.53 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($1.89 in chips) 
+Seat 7: InputCel555 ($2.19 in chips) 
+Seat 8: stephfern53 ($1.31 in chips) 
+Seat 9: voshod999 ($1.59 in chips) 
+thestomper68: posts small blind $0.01
+InputCel555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 7s]
+stephfern53: folds 
+voshod999: folds 
+Dorex2007: folds 
+Rex Dansy: folds 
+tcaz99: raises $0.04 to $0.06
+Yeah!Gotcha!: folds 
+thestomper68: folds 
+InputCel555: calls $0.04
+*** FLOP *** [Th 2c 5s]
+InputCel555: checks 
+tcaz99: bets $0.07
+InputCel555: calls $0.07
+*** TURN *** [Th 2c 5s] [Ad]
+InputCel555: checks 
+tcaz99: bets $0.13
+InputCel555: calls $0.13
+*** RIVER *** [Th 2c 5s Ad] [3h]
+InputCel555: checks 
+tcaz99: checks 
+*** SHOW DOWN ***
+InputCel555: shows [9d Tc] (a pair of Tens)
+tcaz99: shows [Jd Ah] (a pair of Aces)
+tcaz99 collected $0.51 from pot
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [Th 2c 5s Ad 3h]
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Rex Dansy folded before Flop (didn't bet)
+Seat 4: tcaz99 showed [Jd Ah] and won ($0.51) with a pair of Aces
+Seat 5: Yeah!Gotcha! (button) folded before Flop (didn't bet)
+Seat 6: thestomper68 (small blind) folded before Flop
+Seat 7: InputCel555 (big blind) showed [9d Tc] and lost with a pair of Tens
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: voshod999 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228390837814:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:41:56 PT [2021/07/18 15:41:56 ET]
+Table 'Chrysothemis II' 9-max Seat #6 is the button
+Seat 2: Dorex2007 ($2.62 in chips) 
+Seat 3: Rex Dansy ($1.12 in chips) 
+Seat 4: tcaz99 ($2.78 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($1.88 in chips) 
+Seat 7: InputCel555 ($2 in chips) 
+Seat 8: stephfern53 ($1.31 in chips) 
+Seat 9: voshod999 ($1.59 in chips) 
+InputCel555: posts small blind $0.01
+stephfern53: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Tc]
+voshod999: folds 
+Dorex2007: folds 
+Rex Dansy: raises $0.02 to $0.04
+tcaz99: folds 
+Yeah!Gotcha!: folds 
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: calls $0.02
+*** FLOP *** [Ts Kc Qs]
+stephfern53: checks 
+Rex Dansy: bets $0.02
+stephfern53: calls $0.02
+*** TURN *** [Ts Kc Qs] [Ks]
+stephfern53: checks 
+Rex Dansy: checks 
+*** RIVER *** [Ts Kc Qs Ks] [5s]
+stephfern53: checks 
+Rex Dansy: checks 
+*** SHOW DOWN ***
+stephfern53: shows [Qc 4c] (two pair, Kings and Queens)
+Rex Dansy: mucks hand 
+stephfern53 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ts Kc Qs Ks 5s]
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Rex Dansy mucked [Ac Td]
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: Yeah!Gotcha! folded before Flop (didn't bet)
+Seat 6: thestomper68 (button) folded before Flop (didn't bet)
+Seat 7: InputCel555 (small blind) folded before Flop
+Seat 8: stephfern53 (big blind) showed [Qc 4c] and won ($0.13) with two pair, Kings and Queens
+Seat 9: voshod999 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228390874575:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:42:56 PT [2021/07/18 15:42:56 ET]
+Table 'Chrysothemis II' 9-max Seat #7 is the button
+Seat 2: Dorex2007 ($2.62 in chips) 
+Seat 3: Rex Dansy ($1.06 in chips) 
+Seat 4: tcaz99 ($2.78 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($1.88 in chips) 
+Seat 7: InputCel555 ($2 in chips) 
+Seat 8: stephfern53 ($1.38 in chips) 
+stephfern53: posts small blind $0.01
+voshod999: is sitting out 
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Jd]
+Rex Dansy: folds 
+tcaz99: folds 
+Yeah!Gotcha!: folds 
+thestomper68: folds 
+InputCel555: raises $0.02 to $0.04
+stephfern53: folds 
+Dorex2007: calls $0.02
+*** FLOP *** [5h 2h 2d]
+Dorex2007: bets $0.09
+InputCel555: raises $0.18 to $0.27
+Dorex2007: calls $0.18
+*** TURN *** [5h 2h 2d] [5s]
+Dorex2007: bets $0.61
+InputCel555: raises $1.08 to $1.69 and is all-in
+Dorex2007: calls $1.08
+*** RIVER *** [5h 2h 2d 5s] [4c]
+*** SHOW DOWN ***
+Dorex2007: shows [Ac Jd] (two pair, Fives and Deuces)
+InputCel555: shows [As Ah] (two pair, Aces and Fives)
+InputCel555 collected $3.87 from pot
+*** SUMMARY ***
+Total pot $4.01 | Rake $0.14 
+Board [5h 2h 2d 5s 4c]
+Seat 2: Dorex2007 (big blind) showed [Ac Jd] and lost with two pair, Fives and Deuces
+Seat 3: Rex Dansy folded before Flop (didn't bet)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: Yeah!Gotcha! folded before Flop (didn't bet)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 (button) showed [As Ah] and won ($3.87) with two pair, Aces and Fives
+Seat 8: stephfern53 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228390907895:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:43:51 PT [2021/07/18 15:43:51 ET]
+Table 'Chrysothemis II' 9-max Seat #8 is the button
+Seat 2: Dorex2007 ($0.62 in chips) 
+Seat 3: Rex Dansy ($1.06 in chips) 
+Seat 4: tcaz99 ($2.78 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($1.88 in chips) 
+Seat 7: InputCel555 ($3.87 in chips) 
+Seat 8: stephfern53 ($1.37 in chips) 
+Dorex2007: posts small blind $0.01
+Rex Dansy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Qd]
+tcaz99: raises $0.02 to $0.04
+Yeah!Gotcha!: folds 
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+Dorex2007: folds 
+Rex Dansy: calls $0.02
+*** FLOP *** [6d 2c 2h]
+Rex Dansy: bets $0.02
+tcaz99: calls $0.02
+*** TURN *** [6d 2c 2h] [4h]
+Rex Dansy: bets $0.07
+tcaz99: folds 
+Uncalled bet ($0.07) returned to Rex Dansy
+Rex Dansy collected $0.13 from pot
+Rex Dansy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6d 2c 2h 4h]
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 3: Rex Dansy (big blind) collected ($0.13)
+Seat 4: tcaz99 folded on the Turn
+Seat 5: Yeah!Gotcha! folded before Flop (didn't bet)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228390934327:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:44:35 PT [2021/07/18 15:44:35 ET]
+Table 'Chrysothemis II' 9-max Seat #2 is the button
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: Rex Dansy ($1.13 in chips) 
+Seat 4: tcaz99 ($2.72 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($1.88 in chips) 
+Seat 7: InputCel555 ($3.87 in chips) 
+Seat 8: stephfern53 ($1.37 in chips) 
+Rex Dansy: posts small blind $0.01
+tcaz99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s As]
+Yeah!Gotcha!: folds 
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+Dorex2007: calls $0.02
+Rex Dansy: calls $0.01
+tcaz99: checks 
+*** FLOP *** [Qd 4h 2c]
+Rex Dansy: checks 
+tcaz99: checks 
+Dorex2007: checks 
+*** TURN *** [Qd 4h 2c] [Th]
+Rex Dansy: checks 
+tcaz99: checks 
+Dorex2007: checks 
+*** RIVER *** [Qd 4h 2c Th] [8d]
+Rex Dansy: bets $0.02
+tcaz99: calls $0.02
+Dorex2007: folds 
+*** SHOW DOWN ***
+Rex Dansy: shows [5c 8c] (a pair of Eights)
+tcaz99: shows [8s Ac] (a pair of Eights - Ace kicker)
+tcaz99 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Qd 4h 2c Th 8d]
+Seat 2: Dorex2007 (button) folded on the River
+Seat 3: Rex Dansy (small blind) showed [5c 8c] and lost with a pair of Eights
+Seat 4: tcaz99 (big blind) showed [8s Ac] and won ($0.10) with a pair of Eights
+Seat 5: Yeah!Gotcha! folded before Flop (didn't bet)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228390969012:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:45:32 PT [2021/07/18 15:45:32 ET]
+Table 'Chrysothemis II' 9-max Seat #3 is the button
+Seat 2: Dorex2007 ($1.98 in chips) 
+Seat 3: Rex Dansy ($1.09 in chips) 
+Seat 4: tcaz99 ($2.78 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($1.88 in chips) 
+Seat 7: InputCel555 ($3.87 in chips) 
+Seat 8: stephfern53 ($1.37 in chips) 
+tcaz99: posts small blind $0.01
+Yeah!Gotcha!: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 9c]
+thestomper68: raises $0.02 to $0.04
+InputCel555: folds 
+stephfern53: folds 
+Dorex2007: calls $0.04
+Rex Dansy: folds 
+tcaz99: folds 
+Yeah!Gotcha!: folds 
+*** FLOP *** [5s 4d Qh]
+thestomper68: checks 
+Dorex2007: checks 
+*** TURN *** [5s 4d Qh] [6d]
+voshod999 leaves the table
+thestomper68: checks 
+Dorex2007: checks 
+*** RIVER *** [5s 4d Qh 6d] [3h]
+thestomper68: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+thestomper68: shows [Js Kh] (high card King)
+Dorex2007: shows [Ac 9c] (high card Ace)
+Dorex2007 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [5s 4d Qh 6d 3h]
+Seat 2: Dorex2007 showed [Ac 9c] and won ($0.11) with high card Ace
+Seat 3: Rex Dansy (button) folded before Flop (didn't bet)
+Seat 4: tcaz99 (small blind) folded before Flop
+Seat 5: Yeah!Gotcha! (big blind) folded before Flop
+Seat 6: thestomper68 showed [Js Kh] and lost with high card King
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228391001141:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:46:25 PT [2021/07/18 15:46:25 ET]
+Table 'Chrysothemis II' 9-max Seat #4 is the button
+Seat 2: Dorex2007 ($2.05 in chips) 
+Seat 3: Rex Dansy ($1.09 in chips) 
+Seat 4: tcaz99 ($2.77 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($1.84 in chips) 
+Seat 7: InputCel555 ($3.87 in chips) 
+Seat 8: stephfern53 ($1.37 in chips) 
+Yeah!Gotcha!: posts small blind $0.01
+thestomper68: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 7h]
+InputCel555 has timed out
+InputCel555: folds 
+stephfern53: folds 
+Dorex2007: folds 
+Rex Dansy: raises $0.02 to $0.04
+tcaz99: folds 
+Yeah!Gotcha!: folds 
+thestomper68: raises $0.02 to $0.06
+Rex Dansy: calls $0.02
+*** FLOP *** [4s Ks Jd]
+thestomper68: checks 
+Rex Dansy: checks 
+*** TURN *** [4s Ks Jd] [Kc]
+thestomper68: checks 
+Rex Dansy: checks 
+*** RIVER *** [4s Ks Jd Kc] [Js]
+thestomper68: checks 
+Rex Dansy: checks 
+*** SHOW DOWN ***
+thestomper68: shows [5d 5s] (two pair, Kings and Jacks)
+Rex Dansy: shows [Qd 7d] (two pair, Kings and Jacks - Queen kicker)
+Rex Dansy collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4s Ks Jd Kc Js]
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Rex Dansy showed [Qd 7d] and won ($0.13) with two pair, Kings and Jacks
+Seat 4: tcaz99 (button) folded before Flop (didn't bet)
+Seat 5: Yeah!Gotcha! (small blind) folded before Flop
+Seat 6: thestomper68 (big blind) showed [5d 5s] and lost with two pair, Kings and Jacks
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228391037738:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:47:25 PT [2021/07/18 15:47:25 ET]
+Table 'Chrysothemis II' 9-max Seat #5 is the button
+Seat 2: Dorex2007 ($2.05 in chips) 
+Seat 3: Rex Dansy ($1.16 in chips) 
+Seat 4: tcaz99 ($2.77 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($1.78 in chips) 
+Seat 7: InputCel555 ($3.87 in chips) 
+Seat 8: stephfern53 ($1.37 in chips) 
+thestomper68: posts small blind $0.01
+InputCel555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Ks]
+sergeibab joins the table at seat #9 
+stephfern53: folds 
+Dorex2007: folds 
+Rex Dansy: folds 
+tcaz99: raises $0.04 to $0.06
+Yeah!Gotcha!: folds 
+thestomper68: folds 
+InputCel555: folds 
+Uncalled bet ($0.04) returned to tcaz99
+tcaz99 collected $0.05 from pot
+tcaz99: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Rex Dansy folded before Flop (didn't bet)
+Seat 4: tcaz99 collected ($0.05)
+Seat 5: Yeah!Gotcha! (button) folded before Flop (didn't bet)
+Seat 6: thestomper68 (small blind) folded before Flop
+Seat 7: InputCel555 (big blind) folded before Flop
+Seat 8: stephfern53 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228391058478:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:48:00 PT [2021/07/18 15:48:00 ET]
+Table 'Chrysothemis II' 9-max Seat #6 is the button
+Seat 2: Dorex2007 ($2.05 in chips) 
+Seat 3: Rex Dansy ($1.16 in chips) 
+Seat 4: tcaz99 ($2.80 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($1.77 in chips) 
+Seat 7: InputCel555 ($3.85 in chips) 
+Seat 8: stephfern53 ($1.37 in chips) 
+InputCel555: posts small blind $0.01
+stephfern53: posts big blind $0.02
+sergeibab: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 6c]
+Dorex2007: folds 
+Rex Dansy: folds 
+tcaz99: folds 
+Yeah!Gotcha!: folds 
+thestomper68: folds 
+InputCel555: folds 
+Uncalled bet ($0.01) returned to stephfern53
+stephfern53 collected $0.02 from pot
+stephfern53: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Rex Dansy folded before Flop (didn't bet)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: Yeah!Gotcha! folded before Flop (didn't bet)
+Seat 6: thestomper68 (button) folded before Flop (didn't bet)
+Seat 7: InputCel555 (small blind) folded before Flop
+Seat 8: stephfern53 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #228391071269:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:48:21 PT [2021/07/18 15:48:21 ET]
+Table 'Chrysothemis II' 9-max Seat #7 is the button
+Seat 2: Dorex2007 ($2.05 in chips) 
+Seat 3: Rex Dansy ($1.16 in chips) 
+Seat 4: tcaz99 ($2.80 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($1.77 in chips) 
+Seat 7: InputCel555 ($3.84 in chips) 
+Seat 8: stephfern53 ($1.38 in chips) 
+Seat 9: sergeibab ($1 in chips) 
+stephfern53: posts small blind $0.01
+sergeibab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 4d]
+Dorex2007: folds 
+Rex Dansy: folds 
+tcaz99: raises $0.02 to $0.04
+Yeah!Gotcha!: folds 
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: calls $0.02
+*** FLOP *** [Qh 5c 3c]
+sergeibab: checks 
+tcaz99: checks 
+*** TURN *** [Qh 5c 3c] [7h]
+sergeibab: checks 
+tcaz99: bets $0.04
+sergeibab: folds 
+Uncalled bet ($0.04) returned to tcaz99
+tcaz99 collected $0.09 from pot
+tcaz99: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Qh 5c 3c 7h]
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Rex Dansy folded before Flop (didn't bet)
+Seat 4: tcaz99 collected ($0.09)
+Seat 5: Yeah!Gotcha! folded before Flop (didn't bet)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 (button) folded before Flop (didn't bet)
+Seat 8: stephfern53 (small blind) folded before Flop
+Seat 9: sergeibab (big blind) folded on the Turn
+
+
+
+PokerStars Hand #228391093242:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:48:58 PT [2021/07/18 15:48:58 ET]
+Table 'Chrysothemis II' 9-max Seat #8 is the button
+Seat 2: Dorex2007 ($2.05 in chips) 
+Seat 3: Rex Dansy ($1.16 in chips) 
+Seat 4: tcaz99 ($2.85 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($1.77 in chips) 
+Seat 7: InputCel555 ($3.84 in chips) 
+Seat 8: stephfern53 ($1.37 in chips) 
+Seat 9: sergeibab ($0.96 in chips) 
+sergeibab: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Qd]
+Rex Dansy: folds 
+tcaz99: raises $0.04 to $0.06
+Yeah!Gotcha!: folds 
+thestomper68: calls $0.06
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: folds 
+Dorex2007: folds 
+*** FLOP *** [Ts 8s Kc]
+tcaz99: checks 
+thestomper68: bets $0.02
+tcaz99: calls $0.02
+*** TURN *** [Ts 8s Kc] [3h]
+tcaz99: checks 
+thestomper68: bets $0.02
+tcaz99: calls $0.02
+*** RIVER *** [Ts 8s Kc 3h] [2c]
+tcaz99: checks 
+thestomper68: checks 
+*** SHOW DOWN ***
+tcaz99: shows [Ac Js] (high card Ace)
+thestomper68: shows [3s As] (a pair of Threes)
+thestomper68 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Ts 8s Kc 3h 2c]
+Seat 2: Dorex2007 (big blind) folded before Flop
+Seat 3: Rex Dansy folded before Flop (didn't bet)
+Seat 4: tcaz99 showed [Ac Js] and lost with high card Ace
+Seat 5: Yeah!Gotcha! folded before Flop (didn't bet)
+Seat 6: thestomper68 showed [3s As] and won ($0.22) with a pair of Threes
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 (button) folded before Flop (didn't bet)
+Seat 9: sergeibab (small blind) folded before Flop
+
+
+
+PokerStars Hand #228391132713:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:50:04 PT [2021/07/18 15:50:04 ET]
+Table 'Chrysothemis II' 9-max Seat #9 is the button
+Seat 2: Dorex2007 ($2.03 in chips) 
+Seat 3: Rex Dansy ($1.16 in chips) 
+Seat 4: tcaz99 ($2.75 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($1.89 in chips) 
+Seat 7: InputCel555 ($3.84 in chips) 
+Seat 8: stephfern53 ($1.37 in chips) 
+Seat 9: sergeibab ($0.95 in chips) 
+Dorex2007: posts small blind $0.01
+Rex Dansy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 6h]
+tcaz99: raises $0.02 to $0.04
+Yeah!Gotcha!: folds 
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: folds 
+Dorex2007: folds 
+Rex Dansy: calls $0.02
+*** FLOP *** [8c Ah 6c]
+Rex Dansy: bets $0.02
+tcaz99: raises $0.07 to $0.09
+Rex Dansy: folds 
+Uncalled bet ($0.07) returned to tcaz99
+tcaz99 collected $0.13 from pot
+tcaz99: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8c Ah 6c]
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 3: Rex Dansy (big blind) folded on the Flop
+Seat 4: tcaz99 collected ($0.13)
+Seat 5: Yeah!Gotcha! folded before Flop (didn't bet)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228391157947:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:50:46 PT [2021/07/18 15:50:46 ET]
+Table 'Chrysothemis II' 9-max Seat #2 is the button
+Seat 2: Dorex2007 ($2.02 in chips) 
+Seat 3: Rex Dansy ($1.10 in chips) 
+Seat 4: tcaz99 ($2.82 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($1.89 in chips) 
+Seat 7: InputCel555 ($3.84 in chips) 
+Seat 8: stephfern53 ($1.37 in chips) 
+Seat 9: sergeibab ($0.95 in chips) 
+Rex Dansy: posts small blind $0.01
+tcaz99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 3d]
+Yeah!Gotcha!: folds 
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: folds 
+Dorex2007: folds 
+Rex Dansy: folds 
+Uncalled bet ($0.01) returned to tcaz99
+tcaz99 collected $0.02 from pot
+tcaz99: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: Rex Dansy (small blind) folded before Flop
+Seat 4: tcaz99 (big blind) collected ($0.02)
+Seat 5: Yeah!Gotcha! folded before Flop (didn't bet)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228391176638:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:51:18 PT [2021/07/18 15:51:18 ET]
+Table 'Chrysothemis II' 9-max Seat #3 is the button
+Seat 2: Dorex2007 ($2.02 in chips) 
+Seat 3: Rex Dansy ($1.09 in chips) 
+Seat 4: tcaz99 ($2.83 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($1.89 in chips) 
+Seat 7: InputCel555 ($3.84 in chips) 
+Seat 8: stephfern53 ($1.37 in chips) 
+Seat 9: sergeibab ($0.95 in chips) 
+tcaz99: posts small blind $0.01
+Yeah!Gotcha!: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Jc]
+thestomper68 has timed out
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: folds 
+Dorex2007: raises $0.04 to $0.06
+Rex Dansy: folds 
+tcaz99: raises $0.14 to $0.20
+Yeah!Gotcha!: folds 
+Dorex2007: calls $0.14
+*** FLOP *** [Th 2s 6c]
+tcaz99: bets $0.41
+Dorex2007: folds 
+Uncalled bet ($0.41) returned to tcaz99
+tcaz99 collected $0.41 from pot
+tcaz99: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [Th 2s 6c]
+Seat 2: Dorex2007 folded on the Flop
+Seat 3: Rex Dansy (button) folded before Flop (didn't bet)
+Seat 4: tcaz99 (small blind) collected ($0.41)
+Seat 5: Yeah!Gotcha! (big blind) folded before Flop
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228391211628:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:52:16 PT [2021/07/18 15:52:16 ET]
+Table 'Chrysothemis II' 9-max Seat #4 is the button
+Seat 2: Dorex2007 ($1.82 in chips) 
+Seat 3: Rex Dansy ($1.09 in chips) 
+Seat 4: tcaz99 ($3.04 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($1.89 in chips) 
+Seat 7: InputCel555 ($3.84 in chips) 
+Seat 8: stephfern53 ($1.37 in chips) 
+Seat 9: sergeibab ($0.95 in chips) 
+Yeah!Gotcha!: posts small blind $0.01
+thestomper68: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 9s]
+InputCel555 has timed out
+InputCel555: folds 
+stephfern53: calls $0.02
+sergeibab: folds 
+Dorex2007: folds 
+Rex Dansy: raises $0.02 to $0.04
+tcaz99: folds 
+Yeah!Gotcha!: folds 
+thestomper68: raises $0.02 to $0.06
+stephfern53: calls $0.04
+Rex Dansy: calls $0.02
+*** FLOP *** [8c 4d 5c]
+thestomper68: checks 
+stephfern53: checks 
+Rex Dansy: bets $0.04
+thestomper68: calls $0.04
+stephfern53: folds 
+*** TURN *** [8c 4d 5c] [3h]
+thestomper68: checks 
+Rex Dansy: checks 
+*** RIVER *** [8c 4d 5c 3h] [4s]
+thestomper68: checks 
+Rex Dansy: checks 
+*** SHOW DOWN ***
+thestomper68: shows [Ah Jd] (a pair of Fours)
+Rex Dansy: mucks hand 
+thestomper68 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [8c 4d 5c 3h 4s]
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Rex Dansy mucked [Ac Ts]
+Seat 4: tcaz99 (button) folded before Flop (didn't bet)
+Seat 5: Yeah!Gotcha! (small blind) folded before Flop
+Seat 6: thestomper68 (big blind) showed [Ah Jd] and won ($0.26) with a pair of Fours
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded on the Flop
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228391274328:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:54:02 PT [2021/07/18 15:54:02 ET]
+Table 'Chrysothemis II' 9-max Seat #5 is the button
+Seat 1: MsBennet95 ($1.74 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: Rex Dansy ($0.99 in chips) 
+Seat 4: tcaz99 ($3.04 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($2.05 in chips) 
+Seat 7: InputCel555 ($3.84 in chips) 
+Seat 8: stephfern53 ($1.31 in chips) 
+Seat 9: sergeibab ($0.95 in chips) 
+thestomper68: posts small blind $0.01
+InputCel555: posts big blind $0.02
+MsBennet95: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 5h]
+stephfern53: folds 
+sergeibab: calls $0.02
+MsBennet95: checks 
+Dorex2007: folds 
+Rex Dansy: calls $0.02
+tcaz99: folds 
+Yeah!Gotcha!: folds 
+thestomper68: folds 
+InputCel555: checks 
+*** FLOP *** [Td 2d 7d]
+InputCel555: checks 
+sergeibab: bets $0.10
+MsBennet95: calls $0.10
+Rex Dansy: folds 
+InputCel555: folds 
+*** TURN *** [Td 2d 7d] [Jc]
+sergeibab: bets $0.29
+MsBennet95: folds 
+Uncalled bet ($0.29) returned to sergeibab
+sergeibab collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Td 2d 7d Jc]
+Seat 1: MsBennet95 folded on the Turn
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Rex Dansy folded on the Flop
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: Yeah!Gotcha! (button) folded before Flop (didn't bet)
+Seat 6: thestomper68 (small blind) folded before Flop
+Seat 7: InputCel555 (big blind) folded on the Flop
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab collected ($0.29)
+
+
+
+PokerStars Hand #228391318141:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:55:24 PT [2021/07/18 15:55:24 ET]
+Table 'Chrysothemis II' 9-max Seat #6 is the button
+Seat 1: MsBennet95 ($1.61 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: Rex Dansy ($0.97 in chips) 
+Seat 4: tcaz99 ($3.04 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($2.04 in chips) 
+Seat 7: InputCel555 ($3.82 in chips) 
+Seat 8: stephfern53 ($1.31 in chips) 
+Seat 9: sergeibab ($1.12 in chips) 
+InputCel555: posts small blind $0.01
+stephfern53: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 4h]
+sergeibab: folds 
+MsBennet95: calls $0.02
+Dorex2007: folds 
+Rex Dansy: folds 
+tcaz99: folds 
+Yeah!Gotcha!: folds 
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: checks 
+*** FLOP *** [4d Qh 3d]
+stephfern53: checks 
+MsBennet95: checks 
+*** TURN *** [4d Qh 3d] [6s]
+stephfern53: checks 
+MsBennet95: checks 
+*** RIVER *** [4d Qh 3d 6s] [7c]
+stephfern53: checks 
+MsBennet95: checks 
+*** SHOW DOWN ***
+stephfern53: shows [Th 8h] (high card Queen)
+MsBennet95: shows [Ad 3s] (a pair of Threes)
+MsBennet95 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4d Qh 3d 6s 7c]
+Seat 1: MsBennet95 showed [Ad 3s] and won ($0.05) with a pair of Threes
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Rex Dansy folded before Flop (didn't bet)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: Yeah!Gotcha! folded before Flop (didn't bet)
+Seat 6: thestomper68 (button) folded before Flop (didn't bet)
+Seat 7: InputCel555 (small blind) folded before Flop
+Seat 8: stephfern53 (big blind) showed [Th 8h] and lost with high card Queen
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228391341364:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:56:32 PT [2021/07/18 15:56:32 ET]
+Table 'Chrysothemis II' 9-max Seat #7 is the button
+Seat 1: MsBennet95 ($1.64 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: Rex Dansy ($0.97 in chips) 
+Seat 4: tcaz99 ($3.04 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($2.04 in chips) 
+Seat 7: InputCel555 ($3.81 in chips) 
+Seat 8: stephfern53 ($1.29 in chips) 
+Seat 9: sergeibab ($1.12 in chips) 
+stephfern53: posts small blind $0.01
+sergeibab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 5d]
+MsBennet95: folds 
+Dorex2007: folds 
+Rex Dansy: folds 
+tcaz99: folds 
+Yeah!Gotcha!: folds 
+thestomper68: calls $0.02
+InputCel555: folds 
+stephfern53: calls $0.01
+sergeibab: checks 
+*** FLOP *** [Kh 4h 9h]
+stephfern53: checks 
+sergeibab: bets $0.12
+thestomper68: calls $0.12
+stephfern53: folds 
+*** TURN *** [Kh 4h 9h] [6h]
+sergeibab: checks 
+thestomper68: bets $0.15
+sergeibab: folds 
+Uncalled bet ($0.15) returned to thestomper68
+thestomper68 collected $0.29 from pot
+thestomper68: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Kh 4h 9h 6h]
+Seat 1: MsBennet95 folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Rex Dansy folded before Flop (didn't bet)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: Yeah!Gotcha! folded before Flop (didn't bet)
+Seat 6: thestomper68 collected ($0.29)
+Seat 7: InputCel555 (button) folded before Flop (didn't bet)
+Seat 8: stephfern53 (small blind) folded on the Flop
+Seat 9: sergeibab (big blind) folded on the Turn
+
+
+
+PokerStars Hand #228391369461:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:57:54 PT [2021/07/18 15:57:54 ET]
+Table 'Chrysothemis II' 9-max Seat #8 is the button
+Seat 1: MsBennet95 ($1.64 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: Rex Dansy ($0.97 in chips) 
+Seat 4: tcaz99 ($3.04 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($2.19 in chips) 
+Seat 7: InputCel555 ($3.81 in chips) 
+Seat 8: stephfern53 ($1.27 in chips) 
+Seat 9: sergeibab ($0.98 in chips) 
+sergeibab: posts small blind $0.01
+MsBennet95: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Th]
+Dorex2007: folds 
+Rex Dansy: folds 
+tcaz99: folds 
+Yeah!Gotcha!: folds 
+thestomper68 has timed out
+thestomper68: folds 
+InputCel555: raises $0.02 to $0.04
+stephfern53: folds 
+sergeibab: folds 
+MsBennet95: calls $0.02
+*** FLOP *** [2s 9h 8c]
+MsBennet95: checks 
+InputCel555: checks 
+*** TURN *** [2s 9h 8c] [8h]
+MsBennet95: checks 
+InputCel555: checks 
+*** RIVER *** [2s 9h 8c 8h] [2d]
+MsBennet95: bets $0.09
+InputCel555: folds 
+Uncalled bet ($0.09) returned to MsBennet95
+MsBennet95 collected $0.09 from pot
+MsBennet95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [2s 9h 8c 8h 2d]
+Seat 1: MsBennet95 (big blind) collected ($0.09)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Rex Dansy folded before Flop (didn't bet)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: Yeah!Gotcha! folded before Flop (didn't bet)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded on the River
+Seat 8: stephfern53 (button) folded before Flop (didn't bet)
+Seat 9: sergeibab (small blind) folded before Flop
+
+
+
+PokerStars Hand #228391391959:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:59:00 PT [2021/07/18 15:59:00 ET]
+Table 'Chrysothemis II' 9-max Seat #9 is the button
+Seat 1: MsBennet95 ($1.69 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: Rex Dansy ($0.97 in chips) 
+Seat 4: tcaz99 ($3.04 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($2.19 in chips) 
+Seat 7: InputCel555 ($3.77 in chips) 
+Seat 8: stephfern53 ($1.27 in chips) 
+Seat 9: sergeibab ($0.97 in chips) 
+MsBennet95: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Jh]
+Rex Dansy: folds 
+tcaz99: folds 
+Yeah!Gotcha!: folds 
+thestomper68 has timed out
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: folds 
+MsBennet95: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: MsBennet95 (small blind) folded before Flop
+Seat 2: Dorex2007 (big blind) collected ($0.02)
+Seat 3: Rex Dansy folded before Flop (didn't bet)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: Yeah!Gotcha! folded before Flop (didn't bet)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228391407352:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 12:59:46 PT [2021/07/18 15:59:46 ET]
+Table 'Chrysothemis II' 9-max Seat #1 is the button
+Seat 1: MsBennet95 ($1.68 in chips) 
+Seat 2: Dorex2007 ($2.01 in chips) 
+Seat 3: Rex Dansy ($0.97 in chips) 
+Seat 4: tcaz99 ($3.04 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($2.19 in chips) 
+Seat 7: InputCel555 ($3.77 in chips) 
+Seat 8: stephfern53 ($1.27 in chips) 
+Seat 9: sergeibab ($0.97 in chips) 
+Dorex2007: posts small blind $0.01
+Rex Dansy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 7h]
+tcaz99: folds 
+Yeah!Gotcha!: folds 
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: folds 
+MsBennet95: folds 
+Dorex2007: raises $0.04 to $0.06
+Rex Dansy: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.04 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: MsBennet95 (button) folded before Flop (didn't bet)
+Seat 2: Dorex2007 (small blind) collected ($0.04)
+Seat 3: Rex Dansy (big blind) folded before Flop
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: Yeah!Gotcha! folded before Flop (didn't bet)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228391424419:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:00:14 PT [2021/07/18 16:00:14 ET]
+Table 'Chrysothemis II' 9-max Seat #2 is the button
+Seat 1: MsBennet95 ($1.68 in chips) 
+Seat 2: Dorex2007 ($2.03 in chips) 
+Seat 3: Rex Dansy ($0.95 in chips) 
+Seat 4: tcaz99 ($3.04 in chips) 
+Seat 5: Yeah!Gotcha! ($2 in chips) 
+Seat 6: thestomper68 ($2.19 in chips) 
+Seat 7: InputCel555 ($3.77 in chips) 
+Seat 8: stephfern53 ($1.27 in chips) 
+Seat 9: sergeibab ($0.97 in chips) 
+Rex Dansy: posts small blind $0.01
+tcaz99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Ad]
+Yeah!Gotcha!: raises $0.21 to $0.23
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: folds 
+MsBennet95: calls $0.23
+Dorex2007: folds 
+Rex Dansy: folds 
+tcaz99: folds 
+*** FLOP *** [As 4s 8h]
+Yeah!Gotcha!: checks 
+MsBennet95: checks 
+*** TURN *** [As 4s 8h] [9h]
+Yeah!Gotcha!: checks 
+MsBennet95: checks 
+*** RIVER *** [As 4s 8h 9h] [Jh]
+Yeah!Gotcha!: checks 
+MsBennet95: bets $0.11
+Yeah!Gotcha!: calls $0.11
+*** SHOW DOWN ***
+MsBennet95: shows [7h 5h] (a flush, Jack high)
+Yeah!Gotcha!: mucks hand 
+MsBennet95 collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02 
+Board [As 4s 8h 9h Jh]
+Seat 1: MsBennet95 showed [7h 5h] and won ($0.69) with a flush, Jack high
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: Rex Dansy (small blind) folded before Flop
+Seat 4: tcaz99 (big blind) folded before Flop
+Seat 5: Yeah!Gotcha! mucked [Kc Kh]
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228391446112:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:01:02 PT [2021/07/18 16:01:02 ET]
+Table 'Chrysothemis II' 9-max Seat #3 is the button
+Seat 1: MsBennet95 ($2.03 in chips) 
+Seat 2: Dorex2007 ($2.03 in chips) 
+Seat 3: Rex Dansy ($0.94 in chips) 
+Seat 4: tcaz99 ($3.02 in chips) 
+Seat 6: thestomper68 ($2.19 in chips) 
+Seat 7: InputCel555 ($3.77 in chips) 
+Seat 8: stephfern53 ($1.27 in chips) 
+Seat 9: sergeibab ($0.97 in chips) 
+tcaz99: posts small blind $0.01
+thestomper68: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 7d]
+Yeah!Gotcha! leaves the table
+InputCel555 has timed out
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: calls $0.02
+MsBennet95: folds 
+Dorex2007: folds 
+Rex Dansy: folds 
+tcaz99: calls $0.01
+thestomper68: checks 
+*** FLOP *** [9s 8d As]
+tcaz99: checks 
+thestomper68: bets $0.03
+sergeibab: raises $0.05 to $0.08
+tcaz99: folds 
+thestomper68: calls $0.05
+*** TURN *** [9s 8d As] [5s]
+thestomper68: bets $0.02
+sergeibab: raises $0.13 to $0.15
+thestomper68: calls $0.13
+*** RIVER *** [9s 8d As 5s] [Tc]
+thestomper68: bets $0.02
+sergeibab: calls $0.02
+*** SHOW DOWN ***
+thestomper68: shows [9c 8h] (two pair, Nines and Eights)
+sergeibab: shows [Ac 5c] (two pair, Aces and Fives)
+sergeibab collected $0.54 from pot
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.02 
+Board [9s 8d As 5s Tc]
+Seat 1: MsBennet95 folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Rex Dansy (button) folded before Flop (didn't bet)
+Seat 4: tcaz99 (small blind) folded on the Flop
+Seat 6: thestomper68 (big blind) showed [9c 8h] and lost with two pair, Nines and Eights
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab showed [Ac 5c] and won ($0.54) with two pair, Aces and Fives
+
+
+
+PokerStars Hand #228391490127:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:02:34 PT [2021/07/18 16:02:34 ET]
+Table 'Chrysothemis II' 9-max Seat #4 is the button
+Seat 1: MsBennet95 ($2.03 in chips) 
+Seat 2: Dorex2007 ($2.03 in chips) 
+Seat 3: Rex Dansy ($0.94 in chips) 
+Seat 4: tcaz99 ($3 in chips) 
+Seat 6: thestomper68 ($1.92 in chips) 
+Seat 7: InputCel555 ($3.77 in chips) 
+Seat 8: stephfern53 ($1.27 in chips) 
+Seat 9: sergeibab ($1.24 in chips) 
+thestomper68: posts small blind $0.01
+InputCel555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Qd]
+stephfern53: folds 
+sergeibab: calls $0.02
+MsBennet95: calls $0.02
+Dorex2007: folds 
+Rex Dansy: folds 
+tcaz99: folds 
+thestomper68: folds 
+InputCel555: checks 
+*** FLOP *** [4d Qs 4s]
+InputCel555: checks 
+sergeibab: checks 
+MsBennet95: checks 
+*** TURN *** [4d Qs 4s] [8d]
+InputCel555: checks 
+sergeibab: checks 
+MsBennet95: checks 
+*** RIVER *** [4d Qs 4s 8d] [4h]
+InputCel555: checks 
+sergeibab: checks 
+MsBennet95: bets $0.02
+InputCel555: folds 
+sergeibab: folds 
+Uncalled bet ($0.02) returned to MsBennet95
+MsBennet95 collected $0.07 from pot
+MsBennet95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [4d Qs 4s 8d 4h]
+Seat 1: MsBennet95 collected ($0.07)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Rex Dansy folded before Flop (didn't bet)
+Seat 4: tcaz99 (button) folded before Flop (didn't bet)
+Seat 6: thestomper68 (small blind) folded before Flop
+Seat 7: InputCel555 (big blind) folded on the River
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab folded on the River
+
+
+
+PokerStars Hand #228391562259:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:04:36 PT [2021/07/18 16:04:36 ET]
+Table 'Chrysothemis II' 9-max Seat #6 is the button
+Seat 1: MsBennet95 ($2.08 in chips) 
+Seat 2: Dorex2007 ($2.03 in chips) 
+Seat 3: Rex Dansy ($0.94 in chips) 
+Seat 4: tcaz99 ($3 in chips) 
+Seat 6: thestomper68 ($1.91 in chips) 
+Seat 7: InputCel555 ($3.75 in chips) 
+Seat 9: sergeibab ($1.22 in chips) 
+InputCel555: posts small blind $0.01
+stephfern53: is sitting out 
+sergeibab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Jh]
+MsBennet95: calls $0.02
+Dorex2007: calls $0.02
+Rex Dansy: folds 
+tcaz99: folds 
+thestomper68: folds 
+InputCel555: folds 
+sergeibab: raises $0.02 to $0.04
+MsBennet95: calls $0.02
+Dorex2007: raises $0.16 to $0.20
+sergeibab: folds 
+MsBennet95: folds 
+Uncalled bet ($0.16) returned to Dorex2007
+Dorex2007 collected $0.13 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: MsBennet95 folded before Flop
+Seat 2: Dorex2007 collected ($0.13)
+Seat 3: Rex Dansy folded before Flop (didn't bet)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 6: thestomper68 (button) folded before Flop (didn't bet)
+Seat 7: InputCel555 (small blind) folded before Flop
+Seat 9: sergeibab (big blind) folded before Flop
+
+
+
+PokerStars Hand #228391593616:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:05:28 PT [2021/07/18 16:05:28 ET]
+Table 'Chrysothemis II' 9-max Seat #7 is the button
+Seat 1: MsBennet95 ($2.04 in chips) 
+Seat 2: Dorex2007 ($2.12 in chips) 
+Seat 3: Rex Dansy ($0.94 in chips) 
+Seat 4: tcaz99 ($3 in chips) 
+Seat 6: thestomper68 ($1.91 in chips) 
+Seat 7: InputCel555 ($3.74 in chips) 
+Seat 9: sergeibab ($1.18 in chips) 
+sergeibab: posts small blind $0.01
+MsBennet95: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 8h]
+Dorex2007: folds 
+Rex Dansy: folds 
+tcaz99: raises $0.02 to $0.04
+margolin777 joins the table at seat #5 
+thestomper68: folds 
+InputCel555: folds 
+sergeibab: folds 
+MsBennet95: calls $0.02
+*** FLOP *** [9c Kh 3d]
+MsBennet95: checks 
+tcaz99: bets $0.05
+MsBennet95: calls $0.05
+*** TURN *** [9c Kh 3d] [7s]
+MsBennet95: checks 
+tcaz99: bets $0.06
+MsBennet95: calls $0.06
+*** RIVER *** [9c Kh 3d 7s] [Ts]
+MsBennet95: bets $0.15
+tcaz99: folds 
+Uncalled bet ($0.15) returned to MsBennet95
+MsBennet95 collected $0.30 from pot
+MsBennet95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [9c Kh 3d 7s Ts]
+Seat 1: MsBennet95 (big blind) collected ($0.30)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Rex Dansy folded before Flop (didn't bet)
+Seat 4: tcaz99 folded on the River
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 (button) folded before Flop (didn't bet)
+Seat 9: sergeibab (small blind) folded before Flop
+
+
+
+PokerStars Hand #228391642340:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:06:50 PT [2021/07/18 16:06:50 ET]
+Table 'Chrysothemis II' 9-max Seat #9 is the button
+Seat 1: MsBennet95 ($2.19 in chips) 
+Seat 2: Dorex2007 ($2.12 in chips) 
+Seat 3: Rex Dansy ($0.94 in chips) 
+Seat 4: tcaz99 ($2.85 in chips) 
+Seat 5: margolin777 ($0.84 in chips) 
+Seat 6: thestomper68 ($1.91 in chips) 
+Seat 7: InputCel555 ($3.74 in chips) 
+Seat 9: sergeibab ($1.17 in chips) 
+MsBennet95: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+margolin777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Ah]
+Rex Dansy: folds 
+tcaz99: folds 
+margolin777: checks 
+Rex Dansy leaves the table
+thestomper68 has timed out
+thestomper68: folds 
+InputCel555: folds 
+sergeibab: folds 
+MsBennet95: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [8h 7h 5h]
+MsBennet95: checks 
+Dorex2007: bets $0.10
+margolin777: calls $0.10
+MsBennet95: folds 
+*** TURN *** [8h 7h 5h] [Ts]
+Dorex2007: bets $0.25
+margolin777: calls $0.25
+*** RIVER *** [8h 7h 5h Ts] [7d]
+Dorex2007: bets $0.73
+margolin777: calls $0.47 and is all-in
+Uncalled bet ($0.26) returned to Dorex2007
+*** SHOW DOWN ***
+Dorex2007: shows [2s Ah] (a pair of Sevens)
+margolin777: shows [6h Td] (two pair, Tens and Sevens)
+margolin777 collected $1.64 from pot
+*** SUMMARY ***
+Total pot $1.70 | Rake $0.06 
+Board [8h 7h 5h Ts 7d]
+Seat 1: MsBennet95 (small blind) folded on the Flop
+Seat 2: Dorex2007 (big blind) showed [2s Ah] and lost with a pair of Sevens
+Seat 3: Rex Dansy folded before Flop (didn't bet)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: margolin777 showed [6h Td] and won ($1.64) with two pair, Tens and Sevens
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 9: sergeibab (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228391694093:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:08:15 PT [2021/07/18 16:08:15 ET]
+Table 'Chrysothemis II' 9-max Seat #1 is the button
+Seat 1: MsBennet95 ($2.17 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 4: tcaz99 ($2.85 in chips) 
+Seat 5: margolin777 ($1.64 in chips) 
+Seat 6: thestomper68 ($1.91 in chips) 
+Seat 7: InputCel555 ($3.74 in chips) 
+Seat 9: sergeibab ($1.17 in chips) 
+Dorex2007: posts small blind $0.01
+tcaz99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 2c]
+chain38 joins the table at seat #3 
+margolin777: calls $0.02
+thestomper68 has timed out
+thestomper68: folds 
+InputCel555: folds 
+sergeibab: calls $0.02
+MsBennet95: calls $0.02
+Dorex2007: folds 
+tcaz99: checks 
+*** FLOP *** [8d Th 4d]
+tcaz99: checks 
+margolin777: bets $0.02
+sergeibab: calls $0.02
+MsBennet95: folds 
+tcaz99: folds 
+*** TURN *** [8d Th 4d] [8s]
+margolin777: checks 
+sergeibab: bets $0.07
+margolin777: calls $0.07
+*** RIVER *** [8d Th 4d 8s] [7d]
+margolin777: checks 
+sergeibab: bets $0.13
+margolin777: folds 
+Uncalled bet ($0.13) returned to sergeibab
+margolin777 leaves the table
+sergeibab collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [8d Th 4d 8s 7d]
+Seat 1: MsBennet95 (button) folded on the Flop
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 4: tcaz99 (big blind) folded on the Flop
+Seat 5: margolin777 folded on the River
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 9: sergeibab collected ($0.26)
+
+
+
+PokerStars Hand #228391740530:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:09:32 PT [2021/07/18 16:09:32 ET]
+Table 'Chrysothemis II' 9-max Seat #2 is the button
+Seat 1: MsBennet95 ($2.15 in chips) 
+Seat 2: Dorex2007 ($1.99 in chips) 
+Seat 4: tcaz99 ($2.83 in chips) 
+Seat 6: thestomper68 ($1.91 in chips) 
+Seat 7: InputCel555 ($3.74 in chips) 
+Seat 9: sergeibab ($1.32 in chips) 
+tcaz99: posts small blind $0.01
+thestomper68: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Jh]
+InputCel555: folds 
+VVC82 joins the table at seat #5 
+sergeibab: raises $0.02 to $0.04
+MsBennet95: calls $0.04
+Dorex2007: folds 
+tcaz99: folds 
+thestomper68: folds 
+*** FLOP *** [Qh 8h Ac]
+sergeibab: bets $0.06
+MsBennet95: calls $0.06
+*** TURN *** [Qh 8h Ac] [5s]
+sergeibab: checks 
+MsBennet95: checks 
+*** RIVER *** [Qh 8h Ac 5s] [9d]
+sergeibab: checks 
+MsBennet95: bets $0.06
+sergeibab: folds 
+Uncalled bet ($0.06) returned to MsBennet95
+MsBennet95 collected $0.22 from pot
+MsBennet95: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Qh 8h Ac 5s 9d]
+Seat 1: MsBennet95 collected ($0.22)
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 4: tcaz99 (small blind) folded before Flop
+Seat 6: thestomper68 (big blind) folded before Flop
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 9: sergeibab folded on the River
+
+
+
+PokerStars Hand #228391791050:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:10:48 PT [2021/07/18 16:10:48 ET]
+Table 'Chrysothemis II' 9-max Seat #4 is the button
+Seat 1: MsBennet95 ($2.27 in chips) 
+Seat 2: Dorex2007 ($1.99 in chips) 
+Seat 3: chain38 ($0.80 in chips) 
+Seat 4: tcaz99 ($2.82 in chips) 
+Seat 6: thestomper68 ($1.89 in chips) 
+Seat 7: InputCel555 ($3.74 in chips) 
+Seat 9: sergeibab ($1.22 in chips) 
+thestomper68: posts small blind $0.01
+InputCel555: posts big blind $0.02
+chain38: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 5d]
+sergeibab: folds 
+MsBennet95: calls $0.02
+Dorex2007: folds 
+chain38: checks 
+tcaz99: calls $0.02
+thestomper68: folds 
+InputCel555: checks 
+*** FLOP *** [3c Tc Kc]
+InputCel555: checks 
+MsBennet95: checks 
+chain38: checks 
+tcaz99: checks 
+*** TURN *** [3c Tc Kc] [2s]
+InputCel555: checks 
+MsBennet95: checks 
+chain38: checks 
+tcaz99: checks 
+*** RIVER *** [3c Tc Kc 2s] [Qd]
+InputCel555: checks 
+MsBennet95: checks 
+chain38: checks 
+tcaz99: checks 
+*** SHOW DOWN ***
+InputCel555: shows [2d 6d] (a pair of Deuces)
+MsBennet95: mucks hand 
+chain38: mucks hand 
+tcaz99: mucks hand 
+InputCel555 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [3c Tc Kc 2s Qd]
+Seat 1: MsBennet95 mucked [4d Ac]
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: chain38 mucked [9d 8c]
+Seat 4: tcaz99 (button) mucked [Jh 5h]
+Seat 6: thestomper68 (small blind) folded before Flop
+Seat 7: InputCel555 (big blind) showed [2d 6d] and won ($0.09) with a pair of Deuces
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228391838185:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:12:06 PT [2021/07/18 16:12:06 ET]
+Table 'Chrysothemis II' 9-max Seat #6 is the button
+Seat 1: MsBennet95 ($2.25 in chips) 
+Seat 2: Dorex2007 ($1.99 in chips) 
+Seat 3: chain38 ($0.78 in chips) 
+Seat 4: tcaz99 ($2.80 in chips) 
+Seat 6: thestomper68 ($1.88 in chips) 
+Seat 7: InputCel555 ($3.81 in chips) 
+Seat 9: sergeibab ($1.22 in chips) 
+InputCel555: posts small blind $0.01
+sergeibab: posts big blind $0.02
+VVC82: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 9s]
+MsBennet95: folds 
+Dorex2007: folds 
+chain38: folds 
+tcaz99: raises $0.02 to $0.04
+thestomper68: folds 
+InputCel555: folds 
+sergeibab: folds 
+Uncalled bet ($0.02) returned to tcaz99
+tcaz99 collected $0.05 from pot
+tcaz99: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MsBennet95 folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: chain38 folded before Flop (didn't bet)
+Seat 4: tcaz99 collected ($0.05)
+Seat 6: thestomper68 (button) folded before Flop (didn't bet)
+Seat 7: InputCel555 (small blind) folded before Flop
+Seat 9: sergeibab (big blind) folded before Flop
+
+
+
+PokerStars Hand #228391852248:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:12:30 PT [2021/07/18 16:12:30 ET]
+Table 'Chrysothemis II' 9-max Seat #7 is the button
+Seat 1: MsBennet95 ($2.25 in chips) 
+Seat 2: Dorex2007 ($1.99 in chips) 
+Seat 3: chain38 ($0.78 in chips) 
+Seat 4: tcaz99 ($2.83 in chips) 
+Seat 6: thestomper68 ($1.88 in chips) 
+Seat 7: InputCel555 ($3.80 in chips) 
+Seat 9: sergeibab ($1.20 in chips) 
+sergeibab: posts small blind $0.01
+MsBennet95: posts big blind $0.02
+VVC82: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 4d]
+Dorex2007: folds 
+chain38: calls $0.02
+tcaz99: folds 
+thestomper68: folds 
+InputCel555: folds 
+sergeibab: calls $0.01
+MsBennet95: checks 
+*** FLOP *** [Jc 6s Ts]
+sergeibab: checks 
+MsBennet95: bets $0.02
+chain38: raises $0.04 to $0.06
+sergeibab: calls $0.06
+MsBennet95: calls $0.04
+*** TURN *** [Jc 6s Ts] [9c]
+sergeibab: checks 
+MsBennet95: checks 
+chain38: bets $0.23
+sergeibab: folds 
+MsBennet95: folds 
+Uncalled bet ($0.23) returned to chain38
+chain38 collected $0.23 from pot
+chain38: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Jc 6s Ts 9c]
+Seat 1: MsBennet95 (big blind) folded on the Turn
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: chain38 collected ($0.23)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 (button) folded before Flop (didn't bet)
+Seat 9: sergeibab (small blind) folded on the Turn
+
+
+
+PokerStars Hand #228391894548:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:13:41 PT [2021/07/18 16:13:41 ET]
+Table 'Chrysothemis II' 9-max Seat #9 is the button
+Seat 1: MsBennet95 ($2.17 in chips) 
+Seat 2: Dorex2007 ($1.99 in chips) 
+Seat 3: chain38 ($0.93 in chips) 
+Seat 4: tcaz99 ($2.83 in chips) 
+Seat 6: thestomper68 ($1.88 in chips) 
+Seat 7: InputCel555 ($3.80 in chips) 
+Seat 9: sergeibab ($1.12 in chips) 
+MsBennet95: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+VVC82: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 2h]
+chain38: folds 
+tcaz99: raises $0.04 to $0.06
+thestomper68: folds 
+chain38 leaves the table
+InputCel555: calls $0.06
+sergeibab: folds 
+MsBennet95: calls $0.05
+Dorex2007: folds 
+*** FLOP *** [Qs 7s Ks]
+MsBennet95: checks 
+DekKand joins the table at seat #3 
+tcaz99: checks 
+InputCel555: checks 
+*** TURN *** [Qs 7s Ks] [4s]
+MsBennet95: checks 
+tcaz99: checks 
+InputCel555: checks 
+*** RIVER *** [Qs 7s Ks 4s] [5d]
+MsBennet95: checks 
+tcaz99: checks 
+InputCel555: checks 
+*** SHOW DOWN ***
+MsBennet95: shows [Kh 6h] (a pair of Kings)
+tcaz99: mucks hand 
+InputCel555: mucks hand 
+MsBennet95 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Qs 7s Ks 4s 5d]
+Seat 1: MsBennet95 (small blind) showed [Kh 6h] and won ($0.19) with a pair of Kings
+Seat 2: Dorex2007 (big blind) folded before Flop
+Seat 3: chain38 folded before Flop (didn't bet)
+Seat 4: tcaz99 mucked [Ad Jh]
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 mucked [6d 6c]
+Seat 9: sergeibab (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228391928967:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:14:39 PT [2021/07/18 16:14:39 ET]
+Table 'Chrysothemis II' 9-max Seat #1 is the button
+Seat 1: MsBennet95 ($2.30 in chips) 
+Seat 2: Dorex2007 ($1.97 in chips) 
+Seat 3: DekKand ($2 in chips) 
+Seat 4: tcaz99 ($2.77 in chips) 
+Seat 6: thestomper68 ($1.88 in chips) 
+Seat 7: InputCel555 ($3.74 in chips) 
+Seat 9: sergeibab ($1.12 in chips) 
+Dorex2007: posts small blind $0.01
+DekKand: posts big blind $0.02
+VVC82: sits out 
+stephfern53: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Kc]
+tcaz99: folds 
+thestomper68: folds 
+InputCel555: raises $0.02 to $0.04
+sergeibab: calls $0.04
+MsBennet95: calls $0.04
+Dorex2007: folds 
+DekKand: folds 
+*** FLOP *** [7h Th 3h]
+InputCel555: checks 
+sergeibab: bets $0.14
+MsBennet95: calls $0.14
+InputCel555: folds 
+*** TURN *** [7h Th 3h] [Qd]
+sergeibab: checks 
+MsBennet95: checks 
+*** RIVER *** [7h Th 3h Qd] [7d]
+sergeibab: bets $0.06
+MsBennet95: calls $0.06
+*** SHOW DOWN ***
+sergeibab: shows [Td Jh] (two pair, Tens and Sevens)
+MsBennet95: shows [Qh 4h] (a flush, Queen high)
+MsBennet95 collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [7h Th 3h Qd 7d]
+Seat 1: MsBennet95 (button) showed [Qh 4h] and won ($0.53) with a flush, Queen high
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 3: DekKand (big blind) folded before Flop
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded on the Flop
+Seat 9: sergeibab showed [Td Jh] and lost with two pair, Tens and Sevens
+
+
+
+PokerStars Hand #228391975420:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:15:56 PT [2021/07/18 16:15:56 ET]
+Table 'Chrysothemis II' 9-max Seat #2 is the button
+Seat 1: MsBennet95 ($2.59 in chips) 
+Seat 2: Dorex2007 ($1.96 in chips) 
+Seat 3: DekKand ($1.98 in chips) 
+Seat 4: tcaz99 ($2.77 in chips) 
+Seat 7: InputCel555 ($3.70 in chips) 
+Seat 9: sergeibab ($0.88 in chips) 
+DekKand: posts small blind $0.01
+tcaz99: posts big blind $0.02
+VVC82: sits out 
+stephfern53: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 5d]
+InputCel555: folds 
+sergeibab: calls $0.02
+MsBennet95: folds 
+Dorex2007: folds 
+DekKand: folds 
+tcaz99: checks 
+*** FLOP *** [7h Jc 2h]
+tcaz99: checks 
+sergeibab: checks 
+*** TURN *** [7h Jc 2h] [Qc]
+tcaz99: checks 
+sergeibab: checks 
+*** RIVER *** [7h Jc 2h Qc] [6h]
+tcaz99: checks 
+sergeibab: checks 
+*** SHOW DOWN ***
+tcaz99: shows [As 3d] (high card Ace)
+sergeibab: shows [Ah 6c] (a pair of Sixes)
+sergeibab collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [7h Jc 2h Qc 6h]
+Seat 1: MsBennet95 folded before Flop (didn't bet)
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: DekKand (small blind) folded before Flop
+Seat 4: tcaz99 (big blind) showed [As 3d] and lost with high card Ace
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 9: sergeibab showed [Ah 6c] and won ($0.05) with a pair of Sixes
+
+
+
+PokerStars Hand #228391997904:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:16:33 PT [2021/07/18 16:16:33 ET]
+Table 'Chrysothemis II' 9-max Seat #3 is the button
+Seat 1: MsBennet95 ($2.59 in chips) 
+Seat 2: Dorex2007 ($1.96 in chips) 
+Seat 3: DekKand ($1.97 in chips) 
+Seat 4: tcaz99 ($2.75 in chips) 
+Seat 5: VVC82 ($2 in chips) 
+Seat 7: InputCel555 ($3.70 in chips) 
+Seat 9: sergeibab ($0.91 in chips) 
+tcaz99: posts small blind $0.01
+VVC82: posts big blind $0.02
+stephfern53: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 4h]
+InputCel555: folds 
+sergeibab: folds 
+MsBennet95: folds 
+Dorex2007: folds 
+DekKand: raises $0.02 to $0.04
+MsBennet95 leaves the table
+tcaz99: calls $0.03
+VVC82: folds 
+*** FLOP *** [5h Ts 2h]
+tcaz99: checks 
+DekKand: bets $0.04
+tcaz99: calls $0.04
+*** TURN *** [5h Ts 2h] [8s]
+Ronkelbonks joins the table at seat #1 
+tcaz99: checks 
+DekKand: bets $0.04
+tcaz99: calls $0.04
+*** RIVER *** [5h Ts 2h 8s] [Qc]
+tcaz99: checks 
+DekKand: bets $0.13
+tcaz99: folds 
+Uncalled bet ($0.13) returned to DekKand
+DekKand collected $0.25 from pot
+DekKand: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [5h Ts 2h 8s Qc]
+Seat 1: MsBennet95 folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: DekKand (button) collected ($0.25)
+Seat 4: tcaz99 (small blind) folded on the River
+Seat 5: VVC82 (big blind) folded before Flop
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228392025860:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:17:19 PT [2021/07/18 16:17:19 ET]
+Table 'Chrysothemis II' 9-max Seat #4 is the button
+Seat 2: Dorex2007 ($1.96 in chips) 
+Seat 3: DekKand ($2.10 in chips) 
+Seat 4: tcaz99 ($2.63 in chips) 
+Seat 5: VVC82 ($1.98 in chips) 
+Seat 7: InputCel555 ($3.70 in chips) 
+Seat 9: sergeibab ($0.91 in chips) 
+VVC82: posts small blind $0.01
+InputCel555: posts big blind $0.02
+stephfern53: sits out 
+Ronkelbonks: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 6h]
+sergeibab: folds 
+Dorex2007: folds 
+DekKand: raises $0.02 to $0.04
+tcaz99: folds 
+VVC82: calls $0.03
+InputCel555: folds 
+*** FLOP *** [Td Qh Kh]
+VVC82: checks 
+DekKand: bets $0.10
+VVC82: folds 
+Uncalled bet ($0.10) returned to DekKand
+DekKand collected $0.10 from pot
+DekKand: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Td Qh Kh]
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: DekKand collected ($0.10)
+Seat 4: tcaz99 (button) folded before Flop (didn't bet)
+Seat 5: VVC82 (small blind) folded on the Flop
+Seat 7: InputCel555 (big blind) folded before Flop
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228392052837:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:18:04 PT [2021/07/18 16:18:04 ET]
+Table 'Chrysothemis II' 9-max Seat #5 is the button
+Seat 1: Ronkelbonks ($0.80 in chips) 
+Seat 2: Dorex2007 ($1.96 in chips) 
+Seat 3: DekKand ($2.16 in chips) 
+Seat 4: tcaz99 ($2.63 in chips) 
+Seat 5: VVC82 ($1.94 in chips) 
+Seat 7: InputCel555 ($3.68 in chips) 
+Seat 8: stephfern53 ($1.27 in chips) 
+Seat 9: sergeibab ($0.91 in chips) 
+InputCel555: posts small blind $0.01
+stephfern53: posts big blind $0.02
+Ronkelbonks: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 4h]
+sergeibab: calls $0.02
+Ronkelbonks: checks 
+Dorex2007: folds 
+DekKand: folds 
+tcaz99: folds 
+VVC82: folds 
+InputCel555: folds 
+stephfern53: checks 
+*** FLOP *** [Jc Qh 5h]
+stephfern53: checks 
+sergeibab: checks 
+Ronkelbonks: checks 
+*** TURN *** [Jc Qh 5h] [Js]
+stephfern53: checks 
+sergeibab: checks 
+Ronkelbonks: checks 
+*** RIVER *** [Jc Qh 5h Js] [Ks]
+stephfern53: checks 
+sergeibab: checks 
+Ronkelbonks: checks 
+*** SHOW DOWN ***
+stephfern53: shows [Th Tc] (two pair, Jacks and Tens)
+sergeibab: mucks hand 
+Ronkelbonks: shows [4c Kd] (two pair, Kings and Jacks)
+Ronkelbonks collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Jc Qh 5h Js Ks]
+Seat 1: Ronkelbonks showed [4c Kd] and won ($0.07) with two pair, Kings and Jacks
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: DekKand folded before Flop (didn't bet)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: VVC82 (button) folded before Flop (didn't bet)
+Seat 7: InputCel555 (small blind) folded before Flop
+Seat 8: stephfern53 (big blind) showed [Th Tc] and lost with two pair, Jacks and Tens
+Seat 9: sergeibab mucked [5c 7d]
+
+
+
+PokerStars Hand #228392116336:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:19:48 PT [2021/07/18 16:19:48 ET]
+Table 'Chrysothemis II' 9-max Seat #7 is the button
+Seat 1: Ronkelbonks ($0.85 in chips) 
+Seat 2: Dorex2007 ($1.96 in chips) 
+Seat 3: DekKand ($2.16 in chips) 
+Seat 4: tcaz99 ($2.63 in chips) 
+Seat 5: VVC82 ($1.94 in chips) 
+Seat 7: InputCel555 ($3.67 in chips) 
+Seat 8: stephfern53 ($1.25 in chips) 
+Seat 9: sergeibab ($0.89 in chips) 
+stephfern53: posts small blind $0.01
+sergeibab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Kd]
+Ronkelbonks: calls $0.02
+Dorex2007: folds 
+DekKand: calls $0.02
+tcaz99: folds 
+VVC82: folds 
+InputCel555: raises $0.06 to $0.08
+stephfern53: folds 
+sergeibab: folds 
+Ronkelbonks: calls $0.06
+DekKand: calls $0.06
+*** FLOP *** [Ac As Qd]
+Ronkelbonks: checks 
+DekKand: checks 
+InputCel555: bets $0.14
+Ronkelbonks: folds 
+DekKand: folds 
+Uncalled bet ($0.14) returned to InputCel555
+InputCel555 collected $0.26 from pot
+InputCel555: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Ac As Qd]
+Seat 1: Ronkelbonks folded on the Flop
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: DekKand folded on the Flop
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: VVC82 folded before Flop (didn't bet)
+Seat 7: InputCel555 (button) collected ($0.26)
+Seat 8: stephfern53 (small blind) folded before Flop
+Seat 9: sergeibab (big blind) folded before Flop
+
+
+
+PokerStars Hand #228392169974:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:21:16 PT [2021/07/18 16:21:16 ET]
+Table 'Chrysothemis II' 9-max Seat #8 is the button
+Seat 1: Ronkelbonks ($0.77 in chips) 
+Seat 2: Dorex2007 ($1.96 in chips) 
+Seat 3: DekKand ($2.08 in chips) 
+Seat 4: tcaz99 ($2.63 in chips) 
+Seat 5: VVC82 ($1.94 in chips) 
+Seat 7: InputCel555 ($3.85 in chips) 
+Seat 8: stephfern53 ($1.24 in chips) 
+Seat 9: sergeibab ($0.87 in chips) 
+sergeibab: posts small blind $0.01
+Ronkelbonks: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Jc]
+Dorex2007: folds 
+DekKand: raises $0.02 to $0.04
+tcaz99: folds 
+VVC82: calls $0.04
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: folds 
+Ronkelbonks: calls $0.02
+*** FLOP *** [6h 4h 7h]
+Ronkelbonks: checks 
+DekKand: checks 
+VVC82: checks 
+*** TURN *** [6h 4h 7h] [3s]
+Ronkelbonks: checks 
+DekKand: checks 
+VVC82: bets $0.06
+Ronkelbonks: calls $0.06
+DekKand: folds 
+*** RIVER *** [6h 4h 7h 3s] [As]
+Ronkelbonks: checks 
+VVC82: checks 
+*** SHOW DOWN ***
+Ronkelbonks: shows [8d 9h] (high card Ace)
+VVC82: shows [Kc Qd] (high card Ace - King kicker)
+VVC82 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6h 4h 7h 3s As]
+Seat 1: Ronkelbonks (big blind) showed [8d 9h] and lost with high card Ace
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: DekKand folded on the Turn
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: VVC82 showed [Kc Qd] and won ($0.24) with high card Ace
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 (button) folded before Flop (didn't bet)
+Seat 9: sergeibab (small blind) folded before Flop
+
+
+
+PokerStars Hand #228392216051:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:22:31 PT [2021/07/18 16:22:31 ET]
+Table 'Chrysothemis II' 9-max Seat #9 is the button
+Seat 1: Ronkelbonks ($0.67 in chips) 
+Seat 2: Dorex2007 ($1.96 in chips) 
+Seat 3: DekKand ($2.04 in chips) 
+Seat 4: tcaz99 ($2.63 in chips) 
+Seat 5: VVC82 ($2.08 in chips) 
+Seat 7: InputCel555 ($3.85 in chips) 
+Seat 8: stephfern53 ($1.24 in chips) 
+Seat 9: sergeibab ($0.86 in chips) 
+Ronkelbonks: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 2d]
+DekKand: folds 
+tcaz99: folds 
+VVC82: calls $0.02
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: folds 
+Ronkelbonks: folds 
+Dorex2007: checks 
+*** FLOP *** [Js 9s 4s]
+Dorex2007: checks 
+VVC82: bets $0.03
+Dorex2007: calls $0.03
+*** TURN *** [Js 9s 4s] [9h]
+Dorex2007: bets $0.11
+VVC82: calls $0.11
+*** RIVER *** [Js 9s 4s 9h] [6h]
+Dorex2007: bets $0.16
+VVC82: calls $0.16
+*** SHOW DOWN ***
+Dorex2007: shows [9d 2d] (three of a kind, Nines)
+VVC82: shows [As 9c] (three of a kind, Nines - Ace kicker)
+VVC82 collected $0.63 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [Js 9s 4s 9h 6h]
+Seat 1: Ronkelbonks (small blind) folded before Flop
+Seat 2: Dorex2007 (big blind) showed [9d 2d] and lost with three of a kind, Nines
+Seat 3: DekKand folded before Flop (didn't bet)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: VVC82 showed [As 9c] and won ($0.63) with three of a kind, Nines
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228392291290:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:24:36 PT [2021/07/18 16:24:36 ET]
+Table 'Chrysothemis II' 9-max Seat #1 is the button
+Seat 1: Ronkelbonks ($0.66 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: DekKand ($2.04 in chips) 
+Seat 4: tcaz99 ($2.63 in chips) 
+Seat 5: VVC82 ($2.39 in chips) 
+Seat 7: InputCel555 ($3.85 in chips) 
+Seat 8: stephfern53 ($1.24 in chips) 
+Seat 9: sergeibab ($0.86 in chips) 
+Dorex2007: posts small blind $0.01
+DekKand: posts big blind $0.02
+thestomper68: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 6h]
+tcaz99: folds 
+VVC82: folds 
+InputCel555: folds 
+stephfern53: calls $0.02
+sergeibab: folds 
+Ronkelbonks: folds 
+Dorex2007: folds 
+DekKand: checks 
+*** FLOP *** [4s 7h 3d]
+DekKand: checks 
+stephfern53: checks 
+*** TURN *** [4s 7h 3d] [8d]
+DekKand: checks 
+stephfern53: bets $0.05
+DekKand: calls $0.05
+*** RIVER *** [4s 7h 3d 8d] [9s]
+DekKand: checks 
+stephfern53: bets $0.14
+DekKand: folds 
+Uncalled bet ($0.14) returned to stephfern53
+stephfern53 collected $0.14 from pot
+stephfern53: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [4s 7h 3d 8d 9s]
+Seat 1: Ronkelbonks (button) folded before Flop (didn't bet)
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 3: DekKand (big blind) folded on the River
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: VVC82 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 collected ($0.14)
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228392330509:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:25:41 PT [2021/07/18 16:25:41 ET]
+Table 'Chrysothemis II' 9-max Seat #2 is the button
+Seat 1: Ronkelbonks ($0.66 in chips) 
+Seat 2: Dorex2007 ($1.99 in chips) 
+Seat 3: DekKand ($1.97 in chips) 
+Seat 4: tcaz99 ($2.63 in chips) 
+Seat 5: VVC82 ($2.39 in chips) 
+Seat 6: thestomper68 ($1.88 in chips) 
+Seat 7: InputCel555 ($3.85 in chips) 
+Seat 8: stephfern53 ($1.31 in chips) 
+Seat 9: sergeibab ($0.86 in chips) 
+DekKand: posts small blind $0.01
+tcaz99: posts big blind $0.02
+thestomper68: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 6h]
+VVC82: folds 
+thestomper68: checks 
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: folds 
+Ronkelbonks: raises $0.64 to $0.66 and is all-in
+Dorex2007: folds 
+DekKand: folds 
+tcaz99: folds 
+thestomper68: folds 
+Uncalled bet ($0.64) returned to Ronkelbonks
+Ronkelbonks collected $0.08 from pot
+Ronkelbonks: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: Ronkelbonks collected ($0.08)
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: DekKand (small blind) folded before Flop
+Seat 4: tcaz99 (big blind) folded before Flop
+Seat 5: VVC82 folded before Flop (didn't bet)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228392351979:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:26:17 PT [2021/07/18 16:26:17 ET]
+Table 'Chrysothemis II' 9-max Seat #3 is the button
+Seat 1: Ronkelbonks ($0.72 in chips) 
+Seat 2: Dorex2007 ($1.99 in chips) 
+Seat 3: DekKand ($1.96 in chips) 
+Seat 4: tcaz99 ($2.61 in chips) 
+Seat 5: VVC82 ($2.39 in chips) 
+Seat 6: thestomper68 ($1.85 in chips) 
+Seat 7: InputCel555 ($3.85 in chips) 
+Seat 8: stephfern53 ($1.31 in chips) 
+Seat 9: sergeibab ($0.86 in chips) 
+tcaz99: posts small blind $0.01
+VVC82: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 3d]
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: folds 
+Ronkelbonks: folds 
+Dorex2007: folds 
+DekKand: folds 
+tcaz99: folds 
+Uncalled bet ($0.01) returned to VVC82
+VVC82 collected $0.02 from pot
+VVC82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Ronkelbonks folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: DekKand (button) folded before Flop (didn't bet)
+Seat 4: tcaz99 (small blind) folded before Flop
+Seat 5: VVC82 (big blind) collected ($0.02)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228392366182:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:26:41 PT [2021/07/18 16:26:41 ET]
+Table 'Chrysothemis II' 9-max Seat #4 is the button
+Seat 1: Ronkelbonks ($0.72 in chips) 
+Seat 2: Dorex2007 ($1.99 in chips) 
+Seat 3: DekKand ($1.96 in chips) 
+Seat 4: tcaz99 ($2.60 in chips) 
+Seat 5: VVC82 ($2.40 in chips) 
+Seat 6: thestomper68 ($1.85 in chips) 
+Seat 7: InputCel555 ($3.85 in chips) 
+Seat 8: stephfern53 ($1.31 in chips) 
+Seat 9: sergeibab ($0.86 in chips) 
+VVC82: posts small blind $0.01
+thestomper68: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Qc]
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: calls $0.02
+Ronkelbonks: folds 
+Dorex2007: folds 
+DekKand: folds 
+tcaz99: calls $0.02
+VVC82: calls $0.01
+thestomper68: checks 
+*** FLOP *** [5h Ac As]
+VVC82: checks 
+thestomper68: checks 
+sergeibab: bets $0.04
+tcaz99: folds 
+VVC82: folds 
+thestomper68: folds 
+Uncalled bet ($0.04) returned to sergeibab
+sergeibab collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [5h Ac As]
+Seat 1: Ronkelbonks folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: DekKand folded before Flop (didn't bet)
+Seat 4: tcaz99 (button) folded on the Flop
+Seat 5: VVC82 (small blind) folded on the Flop
+Seat 6: thestomper68 (big blind) folded on the Flop
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab collected ($0.08)
+
+
+
+PokerStars Hand #228392426000:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:28:05 PT [2021/07/18 16:28:05 ET]
+Table 'Chrysothemis II' 9-max Seat #5 is the button
+Seat 1: Ronkelbonks ($0.72 in chips) 
+Seat 2: Dorex2007 ($1.99 in chips) 
+Seat 3: DekKand ($1.96 in chips) 
+Seat 4: tcaz99 ($2.58 in chips) 
+Seat 5: VVC82 ($2.38 in chips) 
+Seat 6: thestomper68 ($1.83 in chips) 
+Seat 7: InputCel555 ($3.85 in chips) 
+Seat 8: stephfern53 ($1.31 in chips) 
+Seat 9: sergeibab ($0.92 in chips) 
+thestomper68: posts small blind $0.01
+InputCel555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 5s]
+stephfern53: folds 
+sergeibab: raises $0.02 to $0.04
+Ronkelbonks: folds 
+Dorex2007: folds 
+DekKand: folds 
+tcaz99: folds 
+VVC82: raises $0.09 to $0.13
+thestomper68: folds 
+InputCel555: folds 
+sergeibab: folds 
+Uncalled bet ($0.09) returned to VVC82
+VVC82 collected $0.11 from pot
+VVC82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: Ronkelbonks folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: DekKand folded before Flop (didn't bet)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: VVC82 (button) collected ($0.11)
+Seat 6: thestomper68 (small blind) folded before Flop
+Seat 7: InputCel555 (big blind) folded before Flop
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab folded before Flop
+
+
+
+PokerStars Hand #228392448540:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:28:42 PT [2021/07/18 16:28:42 ET]
+Table 'Chrysothemis II' 9-max Seat #6 is the button
+Seat 1: Ronkelbonks ($0.72 in chips) 
+Seat 2: Dorex2007 ($1.99 in chips) 
+Seat 3: DekKand ($1.96 in chips) 
+Seat 4: tcaz99 ($2.58 in chips) 
+Seat 5: VVC82 ($2.45 in chips) 
+Seat 6: thestomper68 ($1.82 in chips) 
+Seat 7: InputCel555 ($3.83 in chips) 
+Seat 8: stephfern53 ($1.31 in chips) 
+Seat 9: sergeibab ($0.88 in chips) 
+InputCel555: posts small blind $0.01
+stephfern53: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 5d]
+sergeibab: folds 
+Ronkelbonks: calls $0.02
+Dorex2007: folds 
+DekKand: folds 
+tcaz99: folds 
+VVC82: calls $0.02
+thestomper68: folds 
+InputCel555: calls $0.01
+stephfern53: checks 
+*** FLOP *** [Td 9d Kd]
+InputCel555: checks 
+stephfern53: checks 
+Ronkelbonks: checks 
+VVC82: bets $0.05
+InputCel555: folds 
+stephfern53: folds 
+Ronkelbonks has timed out
+Ronkelbonks: folds 
+Uncalled bet ($0.05) returned to VVC82
+VVC82 collected $0.08 from pot
+VVC82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Td 9d Kd]
+Seat 1: Ronkelbonks folded on the Flop
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: DekKand folded before Flop (didn't bet)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: VVC82 collected ($0.08)
+Seat 6: thestomper68 (button) folded before Flop (didn't bet)
+Seat 7: InputCel555 (small blind) folded on the Flop
+Seat 8: stephfern53 (big blind) folded on the Flop
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228392508105:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:30:10 PT [2021/07/18 16:30:10 ET]
+Table 'Chrysothemis II' 9-max Seat #7 is the button
+Seat 1: Ronkelbonks ($0.70 in chips) 
+Seat 2: Dorex2007 ($1.99 in chips) 
+Seat 4: tcaz99 ($2.58 in chips) 
+Seat 5: VVC82 ($2.51 in chips) 
+Seat 6: thestomper68 ($1.82 in chips) 
+Seat 7: InputCel555 ($3.81 in chips) 
+Seat 8: stephfern53 ($1.29 in chips) 
+Seat 9: sergeibab ($0.88 in chips) 
+stephfern53: posts small blind $0.01
+sergeibab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Qd]
+Ronkelbonks has timed out
+Ronkelbonks: folds 
+Dorex2007: raises $0.02 to $0.04
+tcaz99: folds 
+VVC82: raises $0.10 to $0.14
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: folds 
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to VVC82
+VVC82 collected $0.11 from pot
+VVC82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: Ronkelbonks folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: VVC82 collected ($0.11)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 (button) folded before Flop (didn't bet)
+Seat 8: stephfern53 (small blind) folded before Flop
+Seat 9: sergeibab (big blind) folded before Flop
+
+
+
+PokerStars Hand #228392536092:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:30:58 PT [2021/07/18 16:30:58 ET]
+Table 'Chrysothemis II' 9-max Seat #8 is the button
+Seat 2: Dorex2007 ($1.95 in chips) 
+Seat 4: tcaz99 ($2.58 in chips) 
+Seat 5: VVC82 ($2.58 in chips) 
+Seat 6: thestomper68 ($1.82 in chips) 
+Seat 7: InputCel555 ($3.81 in chips) 
+Seat 8: stephfern53 ($1.28 in chips) 
+Seat 9: sergeibab ($0.86 in chips) 
+sergeibab: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Td]
+tcaz99: folds 
+VVC82: folds 
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: calls $0.01
+Dorex2007: raises $0.08 to $0.10
+sergeibab: folds 
+Uncalled bet ($0.08) returned to Dorex2007
+Dorex2007 collected $0.04 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: Dorex2007 (big blind) collected ($0.04)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: VVC82 folded before Flop (didn't bet)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 (button) folded before Flop (didn't bet)
+Seat 9: sergeibab (small blind) folded before Flop
+
+
+
+PokerStars Hand #228392548355:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:31:19 PT [2021/07/18 16:31:19 ET]
+Table 'Chrysothemis II' 9-max Seat #9 is the button
+Seat 2: Dorex2007 ($1.97 in chips) 
+Seat 4: tcaz99 ($2.58 in chips) 
+Seat 5: VVC82 ($2.58 in chips) 
+Seat 6: thestomper68 ($1.82 in chips) 
+Seat 8: stephfern53 ($1.28 in chips) 
+Seat 9: sergeibab ($0.84 in chips) 
+Dorex2007: posts small blind $0.01
+tcaz99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 5h]
+VVC82: folds 
+thestomper68: folds 
+stephfern53: folds 
+sergeibab: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to tcaz99
+tcaz99 collected $0.02 from pot
+tcaz99: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 4: tcaz99 (big blind) collected ($0.02)
+Seat 5: VVC82 folded before Flop (didn't bet)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228392561179:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:31:41 PT [2021/07/18 16:31:41 ET]
+Table 'Chrysothemis II' 9-max Seat #2 is the button
+Seat 1: Ronkelbonks ($0.70 in chips) 
+Seat 2: Dorex2007 ($1.96 in chips) 
+Seat 4: tcaz99 ($2.59 in chips) 
+Seat 5: VVC82 ($2.58 in chips) 
+Seat 6: thestomper68 ($1.82 in chips) 
+Seat 8: stephfern53 ($1.28 in chips) 
+Seat 9: sergeibab ($0.84 in chips) 
+tcaz99: posts small blind $0.01
+VVC82: posts big blind $0.02
+Ronkelbonks: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Qd]
+thestomper68: folds 
+stephfern53: folds 
+sergeibab: folds 
+Ronkelbonks: checks 
+Dorex2007: folds 
+tcaz99: calls $0.01
+VVC82: checks 
+*** FLOP *** [4d 2d 5c]
+tcaz99: checks 
+VVC82: bets $0.04
+Ronkelbonks: calls $0.04
+tcaz99: calls $0.04
+*** TURN *** [4d 2d 5c] [Th]
+tcaz99: checks 
+VVC82: bets $0.09
+Ronkelbonks: calls $0.09
+tcaz99: calls $0.09
+*** RIVER *** [4d 2d 5c Th] [8h]
+tcaz99: checks 
+VVC82: bets $0.02
+Ronkelbonks: calls $0.02
+tcaz99: calls $0.02
+*** SHOW DOWN ***
+VVC82: shows [Td 3c] (a pair of Tens)
+Ronkelbonks: mucks hand 
+tcaz99: mucks hand 
+VVC82 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [4d 2d 5c Th 8h]
+Seat 1: Ronkelbonks mucked [2h Ad]
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 4: tcaz99 (small blind) mucked [8c 6h]
+Seat 5: VVC82 (big blind) showed [Td 3c] and won ($0.50) with a pair of Tens
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228392611318:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:32:55 PT [2021/07/18 16:32:55 ET]
+Table 'Chrysothemis II' 9-max Seat #4 is the button
+Seat 1: Ronkelbonks ($0.52 in chips) 
+Seat 2: Dorex2007 ($1.96 in chips) 
+Seat 4: tcaz99 ($2.42 in chips) 
+Seat 5: VVC82 ($2.91 in chips) 
+Seat 8: stephfern53 ($1.28 in chips) 
+Seat 9: sergeibab ($0.84 in chips) 
+VVC82: posts small blind $0.01
+stephfern53: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Jd]
+sergeibab: raises $0.02 to $0.04
+Ronkelbonks: calls $0.04
+Dorex2007: folds 
+tcaz99: folds 
+VVC82: folds 
+stephfern53: calls $0.02
+*** FLOP *** [8d 7h 3s]
+stephfern53: checks 
+sergeibab: checks 
+Ronkelbonks: checks 
+*** TURN *** [8d 7h 3s] [4h]
+stephfern53: checks 
+sergeibab: checks 
+Ronkelbonks: checks 
+*** RIVER *** [8d 7h 3s 4h] [6d]
+stephfern53: checks 
+sergeibab: checks 
+Ronkelbonks: checks 
+*** SHOW DOWN ***
+stephfern53: shows [Kc 7d] (a pair of Sevens)
+sergeibab: mucks hand 
+Ronkelbonks: mucks hand 
+stephfern53 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8d 7h 3s 4h 6d]
+Seat 1: Ronkelbonks mucked [Qs Kh]
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 4: tcaz99 (button) folded before Flop (didn't bet)
+Seat 5: VVC82 (small blind) folded before Flop
+Seat 8: stephfern53 (big blind) showed [Kc 7d] and won ($0.13) with a pair of Sevens
+Seat 9: sergeibab mucked [As Th]
+
+
+
+PokerStars Hand #228392648638:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:33:59 PT [2021/07/18 16:33:59 ET]
+Table 'Chrysothemis II' 9-max Seat #5 is the button
+Seat 1: Ronkelbonks ($0.48 in chips) 
+Seat 2: Dorex2007 ($1.96 in chips) 
+Seat 4: tcaz99 ($2.42 in chips) 
+Seat 5: VVC82 ($2.90 in chips) 
+Seat 8: stephfern53 ($1.37 in chips) 
+Seat 9: sergeibab ($0.80 in chips) 
+stephfern53: posts small blind $0.01
+sergeibab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 2c]
+Ronkelbonks: raises $0.46 to $0.48 and is all-in
+Dorex2007: folds 
+tcaz99: folds 
+VVC82: folds 
+stephfern53: folds 
+sergeibab: folds 
+Uncalled bet ($0.46) returned to Ronkelbonks
+Ronkelbonks collected $0.05 from pot
+Ronkelbonks: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Ronkelbonks collected ($0.05)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: VVC82 (button) folded before Flop (didn't bet)
+Seat 8: stephfern53 (small blind) folded before Flop
+Seat 9: sergeibab (big blind) folded before Flop
+
+
+
+PokerStars Hand #228392659073:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:34:17 PT [2021/07/18 16:34:17 ET]
+Table 'Chrysothemis II' 9-max Seat #8 is the button
+Seat 1: Ronkelbonks ($0.51 in chips) 
+Seat 2: Dorex2007 ($1.96 in chips) 
+Seat 4: tcaz99 ($2.42 in chips) 
+Seat 5: VVC82 ($2.90 in chips) 
+Seat 6: thestomper68 ($1.82 in chips) 
+Seat 8: stephfern53 ($1.36 in chips) 
+Seat 9: sergeibab ($0.78 in chips) 
+sergeibab: posts small blind $0.01
+Ronkelbonks: posts big blind $0.02
+thestomper68: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 6c]
+Dorex2007 has timed out
+Dorex2007: folds 
+tcaz99: raises $0.02 to $0.04
+VVC82: folds 
+thestomper68: folds 
+stephfern53: folds 
+sergeibab: calls $0.03
+Ronkelbonks: calls $0.02
+*** FLOP *** [Ts 9c 7d]
+sergeibab: bets $0.14
+Ronkelbonks: calls $0.14
+tcaz99: calls $0.14
+*** TURN *** [Ts 9c 7d] [3d]
+sergeibab: checks 
+Ronkelbonks: checks 
+tcaz99: checks 
+*** RIVER *** [Ts 9c 7d 3d] [Qs]
+sergeibab: checks 
+Ronkelbonks: bets $0.22
+tcaz99: folds 
+sergeibab: folds 
+Uncalled bet ($0.22) returned to Ronkelbonks
+Ronkelbonks collected $0.55 from pot
+Ronkelbonks: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [Ts 9c 7d 3d Qs]
+Seat 1: Ronkelbonks (big blind) collected ($0.55)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 4: tcaz99 folded on the River
+Seat 5: VVC82 folded before Flop (didn't bet)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 8: stephfern53 (button) folded before Flop (didn't bet)
+Seat 9: sergeibab (small blind) folded on the River
+
+
+
+PokerStars Hand #228392777185:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:37:41 PT [2021/07/18 16:37:41 ET]
+Table 'Chrysothemis II' 9-max Seat #3 is the button
+Seat 1: Ronkelbonks ($0.84 in chips) 
+Seat 2: Dorex2007 ($1.96 in chips) 
+Seat 3: DekKand ($1.82 in chips) 
+Seat 4: tcaz99 ($2.35 in chips) 
+Seat 5: VVC82 ($3.01 in chips) 
+Seat 6: thestomper68 ($1.73 in chips) 
+Seat 8: stephfern53 ($1.36 in chips) 
+Seat 9: sergeibab ($0.60 in chips) 
+tcaz99: posts small blind $0.01
+VVC82: posts big blind $0.02
+InputCel555: sits out 
+Dorex2007: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c Ks]
+thestomper68: folds 
+stephfern53: folds 
+sergeibab has timed out
+sergeibab: folds 
+Ronkelbonks: calls $0.02
+Dorex2007: checks 
+DekKand: folds 
+tcaz99: calls $0.01
+VVC82: checks 
+*** FLOP *** [6d 2h Qc]
+tcaz99: checks 
+VVC82: checks 
+Ronkelbonks: bets $0.82 and is all-in
+Dorex2007: folds 
+tcaz99: folds 
+VVC82: folds 
+Uncalled bet ($0.82) returned to Ronkelbonks
+Ronkelbonks collected $0.09 from pot
+Ronkelbonks: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [6d 2h Qc]
+Seat 1: Ronkelbonks collected ($0.09)
+Seat 2: Dorex2007 folded on the Flop (didn't bet)
+Seat 3: DekKand (button) folded before Flop (didn't bet)
+Seat 4: tcaz99 (small blind) folded on the Flop
+Seat 5: VVC82 (big blind) folded on the Flop
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228392803584:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:38:27 PT [2021/07/18 16:38:27 ET]
+Table 'Chrysothemis II' 9-max Seat #4 is the button
+Seat 1: Ronkelbonks ($0.91 in chips) 
+Seat 2: Dorex2007 ($1.93 in chips) 
+Seat 3: DekKand ($1.82 in chips) 
+Seat 4: tcaz99 ($2.33 in chips) 
+Seat 5: VVC82 ($2.99 in chips) 
+Seat 6: thestomper68 ($1.73 in chips) 
+Seat 8: stephfern53 ($1.36 in chips) 
+VVC82: posts small blind $0.01
+thestomper68: posts big blind $0.02
+InputCel555: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 6h]
+stephfern53 has timed out
+stephfern53: folds 
+Ronkelbonks: calls $0.02
+Dorex2007: folds 
+DekKand: folds 
+tcaz99: folds 
+VVC82: calls $0.01
+thestomper68: checks 
+*** FLOP *** [Jh Qs 3c]
+VVC82: checks 
+thestomper68: checks 
+Ronkelbonks: checks 
+*** TURN *** [Jh Qs 3c] [Kd]
+VVC82: checks 
+thestomper68: checks 
+Ronkelbonks: checks 
+*** RIVER *** [Jh Qs 3c Kd] [Js]
+VVC82: bets $0.06
+thestomper68: folds 
+Ronkelbonks: calls $0.06
+*** SHOW DOWN ***
+VVC82: shows [4d Ks] (two pair, Kings and Jacks)
+Ronkelbonks: mucks hand 
+VVC82 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Jh Qs 3c Kd Js]
+Seat 1: Ronkelbonks mucked [4h 3h]
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: DekKand folded before Flop (didn't bet)
+Seat 4: tcaz99 (button) folded before Flop (didn't bet)
+Seat 5: VVC82 (small blind) showed [4d Ks] and won ($0.17) with two pair, Kings and Jacks
+Seat 6: thestomper68 (big blind) folded on the River
+Seat 8: stephfern53 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228392829971:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:39:14 PT [2021/07/18 16:39:14 ET]
+Table 'Chrysothemis II' 9-max Seat #5 is the button
+Seat 1: Ronkelbonks ($0.83 in chips) 
+Seat 2: Dorex2007 ($1.93 in chips) 
+Seat 3: DekKand ($1.82 in chips) 
+Seat 4: tcaz99 ($2.33 in chips) 
+Seat 5: VVC82 ($3.08 in chips) 
+Seat 6: thestomper68 ($1.71 in chips) 
+Seat 7: InputCel555 ($3.81 in chips) 
+Seat 8: stephfern53 ($1.36 in chips) 
+thestomper68: posts small blind $0.01
+InputCel555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 3s]
+stephfern53: folds 
+Ronkelbonks: raises $0.81 to $0.83 and is all-in
+Dorex2007: folds 
+DekKand: folds 
+tcaz99: folds 
+VVC82: folds 
+thestomper68: folds 
+InputCel555: folds 
+Uncalled bet ($0.81) returned to Ronkelbonks
+Ronkelbonks collected $0.05 from pot
+Ronkelbonks: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Ronkelbonks collected ($0.05)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: DekKand folded before Flop (didn't bet)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: VVC82 (button) folded before Flop (didn't bet)
+Seat 6: thestomper68 (small blind) folded before Flop
+Seat 7: InputCel555 (big blind) folded before Flop
+Seat 8: stephfern53 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228392840791:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:39:33 PT [2021/07/18 16:39:33 ET]
+Table 'Chrysothemis II' 9-max Seat #6 is the button
+Seat 1: Ronkelbonks ($0.86 in chips) 
+Seat 2: Dorex2007 ($1.93 in chips) 
+Seat 3: DekKand ($1.82 in chips) 
+Seat 4: tcaz99 ($2.33 in chips) 
+Seat 5: VVC82 ($3.08 in chips) 
+Seat 6: thestomper68 ($1.70 in chips) 
+Seat 7: InputCel555 ($3.79 in chips) 
+Seat 8: stephfern53 ($1.36 in chips) 
+InputCel555: posts small blind $0.01
+stephfern53: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 5h]
+Ronkelbonks: folds 
+Dorex2007: folds 
+DekKand: folds 
+tcaz99: folds 
+VVC82: raises $0.04 to $0.06
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: calls $0.04
+*** FLOP *** [5d 7h 6c]
+stephfern53: checks 
+VVC82: bets $0.07
+stephfern53: folds 
+Uncalled bet ($0.07) returned to VVC82
+VVC82 collected $0.13 from pot
+VVC82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5d 7h 6c]
+Seat 1: Ronkelbonks folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: DekKand folded before Flop (didn't bet)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: VVC82 collected ($0.13)
+Seat 6: thestomper68 (button) folded before Flop (didn't bet)
+Seat 7: InputCel555 (small blind) folded before Flop
+Seat 8: stephfern53 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #228392871473:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:40:27 PT [2021/07/18 16:40:27 ET]
+Table 'Chrysothemis II' 9-max Seat #7 is the button
+Seat 1: Ronkelbonks ($0.86 in chips) 
+Seat 2: Dorex2007 ($1.93 in chips) 
+Seat 3: DekKand ($1.82 in chips) 
+Seat 4: tcaz99 ($2.33 in chips) 
+Seat 5: VVC82 ($3.15 in chips) 
+Seat 6: thestomper68 ($1.70 in chips) 
+Seat 7: InputCel555 ($3.78 in chips) 
+Seat 8: stephfern53 ($1.30 in chips) 
+stephfern53: posts small blind $0.01
+Ronkelbonks: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Ts]
+Dorex2007: folds 
+DekKand: folds 
+tcaz99: folds 
+VVC82: folds 
+thestomper68: folds 
+InputCel555: raises $0.02 to $0.04
+stephfern53: folds 
+Ronkelbonks: folds 
+Uncalled bet ($0.02) returned to InputCel555
+InputCel555 collected $0.05 from pot
+InputCel555: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Ronkelbonks (big blind) folded before Flop
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: DekKand folded before Flop (didn't bet)
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: VVC82 folded before Flop (didn't bet)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 (button) collected ($0.05)
+Seat 8: stephfern53 (small blind) folded before Flop
+
+
+
+PokerStars Hand #228392880773:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:40:44 PT [2021/07/18 16:40:44 ET]
+Table 'Chrysothemis II' 9-max Seat #8 is the button
+Seat 1: Ronkelbonks ($0.84 in chips) 
+Seat 2: Dorex2007 ($1.93 in chips) 
+Seat 3: DekKand ($1.82 in chips) 
+Seat 4: tcaz99 ($2.33 in chips) 
+Seat 5: VVC82 ($3.15 in chips) 
+Seat 6: thestomper68 ($1.70 in chips) 
+Seat 7: InputCel555 ($3.81 in chips) 
+Seat 8: stephfern53 ($1.29 in chips) 
+Ronkelbonks: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 4h]
+DekKand: folds 
+tcaz99: raises $0.02 to $0.04
+VVC82: calls $0.04
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+Ronkelbonks: calls $0.03
+Dorex2007: folds 
+*** FLOP *** [Ad Qc 5c]
+Ronkelbonks: checks 
+tcaz99: bets $0.07
+VVC82: folds 
+Ronkelbonks: folds 
+Uncalled bet ($0.07) returned to tcaz99
+tcaz99 collected $0.14 from pot
+tcaz99: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Ad Qc 5c]
+Seat 1: Ronkelbonks (small blind) folded on the Flop
+Seat 2: Dorex2007 (big blind) folded before Flop
+Seat 3: DekKand folded before Flop (didn't bet)
+Seat 4: tcaz99 collected ($0.14)
+Seat 5: VVC82 folded on the Flop
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228392905945:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:41:28 PT [2021/07/18 16:41:28 ET]
+Table 'Chrysothemis II' 9-max Seat #1 is the button
+Seat 1: Ronkelbonks ($0.80 in chips) 
+Seat 2: Dorex2007 ($1.91 in chips) 
+Seat 3: DekKand ($1.82 in chips) 
+Seat 4: tcaz99 ($2.43 in chips) 
+Seat 5: VVC82 ($3.11 in chips) 
+Seat 6: thestomper68 ($1.70 in chips) 
+Seat 7: InputCel555 ($3.81 in chips) 
+Seat 8: stephfern53 ($1.29 in chips) 
+Dorex2007: posts small blind $0.01
+DekKand: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 3h]
+tcaz99: folds 
+VVC82: calls $0.02
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: calls $0.02
+Ronkelbonks: calls $0.02
+Dorex2007: folds 
+DekKand: checks 
+*** FLOP *** [Tc 7h 3d]
+DekKand: checks 
+VVC82: bets $0.04
+stephfern53: calls $0.04
+Ronkelbonks: calls $0.04
+DekKand: folds 
+*** TURN *** [Tc 7h 3d] [Ts]
+VVC82: checks 
+stephfern53: bets $0.20
+Ronkelbonks: folds 
+VVC82: folds 
+Uncalled bet ($0.20) returned to stephfern53
+stephfern53 collected $0.20 from pot
+stephfern53: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Tc 7h 3d Ts]
+Seat 1: Ronkelbonks (button) folded on the Turn
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 3: DekKand (big blind) folded on the Flop
+Seat 4: tcaz99 folded before Flop (didn't bet)
+Seat 5: VVC82 folded on the Turn
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 collected ($0.20)
+
+
+
+PokerStars Hand #228392944028:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:42:35 PT [2021/07/18 16:42:35 ET]
+Table 'Chrysothemis II' 9-max Seat #2 is the button
+Seat 1: Ronkelbonks ($0.74 in chips) 
+Seat 2: Dorex2007 ($1.90 in chips) 
+Seat 3: DekKand ($1.80 in chips) 
+Seat 4: tcaz99 ($2.43 in chips) 
+Seat 5: VVC82 ($3.05 in chips) 
+Seat 6: thestomper68 ($1.70 in chips) 
+Seat 7: InputCel555 ($3.81 in chips) 
+Seat 8: stephfern53 ($1.43 in chips) 
+Seat 9: sergeibab ($0.60 in chips) 
+DekKand: posts small blind $0.01
+tcaz99: posts big blind $0.02
+sergeibab: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Kh]
+VVC82: folds 
+thestomper68: calls $0.02
+InputCel555: raises $0.06 to $0.08
+stephfern53: folds 
+sergeibab: folds 
+Ronkelbonks: folds 
+Dorex2007: folds 
+DekKand: folds 
+tcaz99: folds 
+thestomper68: calls $0.06
+*** FLOP *** [4h 5s Kd]
+thestomper68: checks 
+InputCel555: checks 
+*** TURN *** [4h 5s Kd] [Jh]
+thestomper68: bets $0.02
+InputCel555: calls $0.02
+*** RIVER *** [4h 5s Kd Jh] [2c]
+thestomper68: checks 
+InputCel555: bets $0.13
+thestomper68: calls $0.13
+*** SHOW DOWN ***
+InputCel555: shows [As Jd] (a pair of Jacks)
+thestomper68: shows [Ts Kc] (a pair of Kings)
+thestomper68 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [4h 5s Kd Jh 2c]
+Seat 1: Ronkelbonks folded before Flop (didn't bet)
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: DekKand (small blind) folded before Flop
+Seat 4: tcaz99 (big blind) folded before Flop
+Seat 5: VVC82 folded before Flop (didn't bet)
+Seat 6: thestomper68 showed [Ts Kc] and won ($0.50) with a pair of Kings
+Seat 7: InputCel555 showed [As Jd] and lost with a pair of Jacks
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228392988568:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:43:54 PT [2021/07/18 16:43:54 ET]
+Table 'Chrysothemis II' 9-max Seat #3 is the button
+Seat 1: Ronkelbonks ($0.74 in chips) 
+Seat 2: Dorex2007 ($1.90 in chips) 
+Seat 3: DekKand ($1.79 in chips) 
+Seat 4: tcaz99 ($2.41 in chips) 
+Seat 5: VVC82 ($3.05 in chips) 
+Seat 6: thestomper68 ($1.97 in chips) 
+Seat 7: InputCel555 ($3.58 in chips) 
+Seat 8: stephfern53 ($1.43 in chips) 
+Seat 9: sergeibab ($0.57 in chips) 
+tcaz99: posts small blind $0.01
+VVC82: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 5s]
+thestomper68: folds 
+InputCel555 has timed out
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: raises $0.02 to $0.04
+Ronkelbonks: calls $0.04
+Dorex2007: folds 
+DekKand: calls $0.04
+tcaz99: calls $0.03
+VVC82: calls $0.02
+*** FLOP *** [Js 8h 9h]
+tcaz99: checks 
+VVC82: checks 
+sergeibab: bets $0.16
+Ronkelbonks: calls $0.16
+DekKand: calls $0.16
+tcaz99: calls $0.16
+VVC82: folds 
+*** TURN *** [Js 8h 9h] [Kc]
+tcaz99: checks 
+sergeibab: bets $0.37 and is all-in
+Ronkelbonks: calls $0.37
+DekKand: folds 
+tcaz99: folds 
+*** RIVER *** [Js 8h 9h Kc] [Th]
+*** SHOW DOWN ***
+sergeibab: shows [Ks Jd] (two pair, Kings and Jacks)
+Ronkelbonks: shows [Td 9d] (two pair, Tens and Nines)
+sergeibab collected $1.52 from pot
+*** SUMMARY ***
+Total pot $1.58 | Rake $0.06 
+Board [Js 8h 9h Kc Th]
+Seat 1: Ronkelbonks showed [Td 9d] and lost with two pair, Tens and Nines
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: DekKand (button) folded on the Turn
+Seat 4: tcaz99 (small blind) folded on the Turn
+Seat 5: VVC82 (big blind) folded on the Flop
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab showed [Ks Jd] and won ($1.52) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #228393056006:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:45:54 PT [2021/07/18 16:45:54 ET]
+Table 'Chrysothemis II' 9-max Seat #4 is the button
+Seat 1: Ronkelbonks ($0.17 in chips) 
+Seat 2: Dorex2007 ($1.90 in chips) 
+Seat 3: DekKand ($1.59 in chips) 
+Seat 4: tcaz99 ($2.21 in chips) 
+Seat 5: VVC82 ($3.01 in chips) 
+Seat 6: thestomper68 ($1.97 in chips) 
+Seat 7: InputCel555 ($3.58 in chips) 
+Seat 8: stephfern53 ($1.43 in chips) 
+Seat 9: sergeibab ($1.52 in chips) 
+VVC82: posts small blind $0.01
+thestomper68: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad Jh]
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: folds 
+Ronkelbonks: folds 
+Dorex2007: raises $0.02 to $0.04
+DekKand: folds 
+tcaz99: folds 
+tcaz99 leaves the table
+VVC82: folds 
+thestomper68: folds 
+Uncalled bet ($0.02) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Ronkelbonks folded before Flop (didn't bet)
+Seat 2: Dorex2007 collected ($0.05)
+Seat 3: DekKand folded before Flop (didn't bet)
+Seat 4: tcaz99 (button) folded before Flop (didn't bet)
+Seat 5: VVC82 (small blind) folded before Flop
+Seat 6: thestomper68 (big blind) folded before Flop
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228393078781:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:46:34 PT [2021/07/18 16:46:34 ET]
+Table 'Chrysothemis II' 9-max Seat #5 is the button
+Seat 1: Ronkelbonks ($0.17 in chips) 
+Seat 2: Dorex2007 ($1.93 in chips) 
+Seat 3: DekKand ($1.59 in chips) 
+Seat 5: VVC82 ($3 in chips) 
+Seat 6: thestomper68 ($1.95 in chips) 
+Seat 7: InputCel555 ($3.58 in chips) 
+Seat 8: stephfern53 ($1.43 in chips) 
+Seat 9: sergeibab ($1.52 in chips) 
+thestomper68: posts small blind $0.01
+InputCel555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 4c]
+stephfern53: calls $0.02
+sergeibab: raises $0.04 to $0.06
+Ronkelbonks: raises $0.11 to $0.17 and is all-in
+Dorex2007: folds 
+DekKand: folds 
+VVC82: folds 
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: calls $0.11
+*** FLOP *** [7h 7d Js]
+*** TURN *** [7h 7d Js] [5h]
+*** RIVER *** [7h 7d Js 5h] [Jh]
+*** SHOW DOWN ***
+sergeibab: shows [Kh Ks] (two pair, Kings and Jacks)
+Ronkelbonks: shows [Kc Ac] (two pair, Jacks and Sevens)
+sergeibab collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [7h 7d Js 5h Jh]
+Seat 1: Ronkelbonks showed [Kc Ac] and lost with two pair, Jacks and Sevens
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: DekKand folded before Flop (didn't bet)
+Seat 5: VVC82 (button) folded before Flop (didn't bet)
+Seat 6: thestomper68 (small blind) folded before Flop
+Seat 7: InputCel555 (big blind) folded before Flop
+Seat 8: stephfern53 folded before Flop
+Seat 9: sergeibab showed [Kh Ks] and won ($0.38) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #228393210141:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:50:26 PT [2021/07/18 16:50:26 ET]
+Table 'Chrysothemis II' 9-max Seat #9 is the button
+Seat 1: Ronkelbonks ($0.80 in chips) 
+Seat 2: Dorex2007 ($1.93 in chips) 
+Seat 3: DekKand ($2.23 in chips) 
+Seat 5: VVC82 ($2.68 in chips) 
+Seat 6: thestomper68 ($1.78 in chips) 
+Seat 7: InputCel555 ($3.48 in chips) 
+Seat 8: stephfern53 ($1.38 in chips) 
+Seat 9: sergeibab ($1.70 in chips) 
+Ronkelbonks: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 4d]
+DekKand: folds 
+VVC82: raises $0.02 to $0.04
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: calls $0.04
+Ronkelbonks: calls $0.03
+Dorex2007: folds 
+*** FLOP *** [Jc Kd Ts]
+Ronkelbonks: checks 
+VVC82: checks 
+sergeibab: checks 
+*** TURN *** [Jc Kd Ts] [Ks]
+Ronkelbonks: checks 
+VVC82: bets $0.02
+sergeibab: calls $0.02
+Ronkelbonks: calls $0.02
+*** RIVER *** [Jc Kd Ts Ks] [2s]
+Ronkelbonks: checks 
+VVC82: bets $0.02
+sergeibab: folds 
+Ronkelbonks: folds 
+Uncalled bet ($0.02) returned to VVC82
+VVC82 collected $0.19 from pot
+VVC82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Jc Kd Ts Ks 2s]
+Seat 1: Ronkelbonks (small blind) folded on the River
+Seat 2: Dorex2007 (big blind) folded before Flop
+Seat 3: DekKand folded before Flop (didn't bet)
+Seat 5: VVC82 collected ($0.19)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab (button) folded on the River
+
+
+
+PokerStars Hand #228393258773:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:51:38 PT [2021/07/18 16:51:38 ET]
+Table 'Chrysothemis II' 9-max Seat #1 is the button
+Seat 1: Ronkelbonks ($0.80 in chips) 
+Seat 2: Dorex2007 ($1.91 in chips) 
+Seat 3: DekKand ($2.23 in chips) 
+Seat 5: VVC82 ($2.81 in chips) 
+Seat 6: thestomper68 ($1.78 in chips) 
+Seat 7: InputCel555 ($3.48 in chips) 
+Seat 8: stephfern53 ($1.38 in chips) 
+Seat 9: sergeibab ($1.64 in chips) 
+Dorex2007: posts small blind $0.01
+DekKand: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Kd]
+VVC82: calls $0.02
+thestomper68: folds 
+SleepyShepherd joins the table at seat #4 
+InputCel555 has timed out
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: folds 
+Ronkelbonks: calls $0.02
+Dorex2007: raises $0.06 to $0.08
+DekKand: folds 
+VVC82: calls $0.06
+Ronkelbonks: calls $0.06
+*** FLOP *** [8s 2c Qd]
+Dorex2007: bets $0.17
+VVC82: folds 
+Ronkelbonks: calls $0.17
+*** TURN *** [8s 2c Qd] [2s]
+Dorex2007: bets $0.58
+Ronkelbonks: calls $0.55 and is all-in
+Uncalled bet ($0.03) returned to Dorex2007
+*** RIVER *** [8s 2c Qd 2s] [7h]
+*** SHOW DOWN ***
+Dorex2007: shows [Kc Kd] (two pair, Kings and Deuces)
+Ronkelbonks: shows [9d Ts] (a pair of Deuces)
+Dorex2007 collected $1.64 from pot
+*** SUMMARY ***
+Total pot $1.70 | Rake $0.06 
+Board [8s 2c Qd 2s 7h]
+Seat 1: Ronkelbonks (button) showed [9d Ts] and lost with a pair of Deuces
+Seat 2: Dorex2007 (small blind) showed [Kc Kd] and won ($1.64) with two pair, Kings and Deuces
+Seat 3: DekKand (big blind) folded before Flop
+Seat 5: VVC82 folded on the Flop
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228393319359:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:53:27 PT [2021/07/18 16:53:27 ET]
+Table 'Chrysothemis II' 9-max Seat #2 is the button
+Seat 1: Ronkelbonks ($0.80 in chips) 
+Seat 2: Dorex2007 ($2.75 in chips) 
+Seat 3: DekKand ($2.21 in chips) 
+Seat 4: SleepyShepherd ($2 in chips) 
+Seat 5: VVC82 ($2.73 in chips) 
+Seat 6: thestomper68 ($1.78 in chips) 
+Seat 7: InputCel555 ($3.48 in chips) 
+Seat 8: stephfern53 ($1.38 in chips) 
+Seat 9: sergeibab ($1.64 in chips) 
+DekKand: posts small blind $0.01
+SleepyShepherd: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 6s]
+VVC82: folds 
+thestomper68: folds 
+Dorex2007 said, "why would you call that?"
+InputCel555: raises $0.02 to $0.04
+stephfern53: calls $0.04
+sergeibab: folds 
+Ronkelbonks: folds 
+Dorex2007: folds 
+DekKand: calls $0.03
+SleepyShepherd: calls $0.02
+*** FLOP *** [5c Js 3c]
+DekKand: bets $0.06
+SleepyShepherd: folds 
+InputCel555: folds 
+stephfern53: calls $0.06
+*** TURN *** [5c Js 3c] [7d]
+DekKand: bets $0.16
+stephfern53: calls $0.16
+*** RIVER *** [5c Js 3c 7d] [9d]
+DekKand: bets $0.26
+stephfern53: calls $0.26
+*** SHOW DOWN ***
+DekKand: shows [8c Jc] (a pair of Jacks)
+stephfern53: shows [Ad Jh] (a pair of Jacks - Ace kicker)
+stephfern53 collected $1.08 from pot
+*** SUMMARY ***
+Total pot $1.12 | Rake $0.04 
+Board [5c Js 3c 7d 9d]
+Seat 1: Ronkelbonks folded before Flop (didn't bet)
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: DekKand (small blind) showed [8c Jc] and lost with a pair of Jacks
+Seat 4: SleepyShepherd (big blind) folded on the Flop
+Seat 5: VVC82 folded before Flop (didn't bet)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded on the Flop
+Seat 8: stephfern53 showed [Ad Jh] and won ($1.08) with a pair of Jacks
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228393378223:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:55:00 PT [2021/07/18 16:55:00 ET]
+Table 'Chrysothemis II' 9-max Seat #3 is the button
+Seat 1: Ronkelbonks ($0.80 in chips) 
+Seat 2: Dorex2007 ($2.75 in chips) 
+Seat 3: DekKand ($1.69 in chips) 
+Seat 4: SleepyShepherd ($1.96 in chips) 
+Seat 5: VVC82 ($2.73 in chips) 
+Seat 6: thestomper68 ($1.78 in chips) 
+Seat 7: InputCel555 ($3.44 in chips) 
+Seat 8: stephfern53 ($1.94 in chips) 
+Seat 9: sergeibab ($1.64 in chips) 
+SleepyShepherd: posts small blind $0.01
+VVC82: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 9c]
+thestomper68: calls $0.02
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: folds 
+Ronkelbonks: calls $0.02
+Dorex2007: folds 
+DekKand: calls $0.02
+SleepyShepherd: raises $0.10 to $0.12
+VVC82: folds 
+thestomper68: calls $0.10
+Ronkelbonks: calls $0.10
+DekKand: folds 
+*** FLOP *** [Ks 6c Js]
+SleepyShepherd: bets $0.19
+thestomper68: calls $0.19
+Ronkelbonks: folds 
+*** TURN *** [Ks 6c Js] [Kd]
+SleepyShepherd: bets $0.37
+thestomper68: folds 
+Uncalled bet ($0.37) returned to SleepyShepherd
+SleepyShepherd collected $0.75 from pot
+SleepyShepherd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.78 | Rake $0.03 
+Board [Ks 6c Js Kd]
+Seat 1: Ronkelbonks folded on the Flop
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: DekKand (button) folded before Flop
+Seat 4: SleepyShepherd (small blind) collected ($0.75)
+Seat 5: VVC82 (big blind) folded before Flop
+Seat 6: thestomper68 folded on the Turn
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228393402387:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:56:08 PT [2021/07/18 16:56:08 ET]
+Table 'Chrysothemis II' 9-max Seat #4 is the button
+Seat 1: Ronkelbonks ($0.80 in chips) 
+Seat 2: Dorex2007 ($2.75 in chips) 
+Seat 3: DekKand ($1.67 in chips) 
+Seat 4: SleepyShepherd ($2.40 in chips) 
+Seat 5: VVC82 ($2.71 in chips) 
+Seat 6: thestomper68 ($1.47 in chips) 
+Seat 7: InputCel555 ($3.44 in chips) 
+Seat 8: stephfern53 ($1.94 in chips) 
+Seat 9: sergeibab ($1.64 in chips) 
+VVC82: posts small blind $0.01
+thestomper68: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 9h]
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: raises $0.02 to $0.04
+Ronkelbonks: calls $0.04
+Dorex2007: folds 
+DekKand: folds 
+SleepyShepherd: folds 
+VVC82: calls $0.03
+thestomper68: folds 
+*** FLOP *** [2h Jc 7c]
+VVC82: checks 
+sergeibab: checks 
+Ronkelbonks: bets $0.76 and is all-in
+VVC82: folds 
+sergeibab: folds 
+Uncalled bet ($0.76) returned to Ronkelbonks
+Ronkelbonks collected $0.14 from pot
+Ronkelbonks: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [2h Jc 7c]
+Seat 1: Ronkelbonks collected ($0.14)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: DekKand folded before Flop (didn't bet)
+Seat 4: SleepyShepherd (button) folded before Flop (didn't bet)
+Seat 5: VVC82 (small blind) folded on the Flop
+Seat 6: thestomper68 (big blind) folded before Flop
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab folded on the Flop
+
+
+
+PokerStars Hand #228393423299:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:57:10 PT [2021/07/18 16:57:10 ET]
+Table 'Chrysothemis II' 9-max Seat #5 is the button
+Seat 1: Ronkelbonks ($0.90 in chips) 
+Seat 2: Dorex2007 ($2.75 in chips) 
+Seat 3: DekKand ($1.67 in chips) 
+Seat 4: SleepyShepherd ($2.40 in chips) 
+Seat 5: VVC82 ($2.67 in chips) 
+Seat 6: thestomper68 ($1.45 in chips) 
+Seat 7: InputCel555 ($3.44 in chips) 
+Seat 8: stephfern53 ($1.94 in chips) 
+Seat 9: sergeibab ($1.60 in chips) 
+thestomper68: posts small blind $0.01
+InputCel555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Ad]
+stephfern53: folds 
+sergeibab: folds 
+Ronkelbonks: calls $0.02
+Dorex2007: calls $0.02
+DekKand: folds 
+SleepyShepherd: folds 
+VVC82: folds 
+thestomper68: folds 
+InputCel555: checks 
+*** FLOP *** [6h 4s Js]
+InputCel555: checks 
+Ronkelbonks: checks 
+Dorex2007: bets $0.18
+InputCel555: folds 
+Ronkelbonks: calls $0.18
+*** TURN *** [6h 4s Js] [Ts]
+Ronkelbonks: checks 
+Dorex2007: checks 
+*** RIVER *** [6h 4s Js Ts] [9c]
+Ronkelbonks: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+Ronkelbonks: shows [5s 3d] (high card Jack)
+Dorex2007: shows [7d Ad] (high card Ace)
+Dorex2007 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [6h 4s Js Ts 9c]
+Seat 1: Ronkelbonks showed [5s 3d] and lost with high card Jack
+Seat 2: Dorex2007 showed [7d Ad] and won ($0.41) with high card Ace
+Seat 3: DekKand folded before Flop (didn't bet)
+Seat 4: SleepyShepherd folded before Flop (didn't bet)
+Seat 5: VVC82 (button) folded before Flop (didn't bet)
+Seat 6: thestomper68 (small blind) folded before Flop
+Seat 7: InputCel555 (big blind) folded on the Flop
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228393442151:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:58:07 PT [2021/07/18 16:58:07 ET]
+Table 'Chrysothemis II' 9-max Seat #6 is the button
+Seat 1: Ronkelbonks ($0.80 in chips) 
+Seat 2: Dorex2007 ($2.96 in chips) 
+Seat 3: DekKand ($1.67 in chips) 
+Seat 4: SleepyShepherd ($2.40 in chips) 
+Seat 5: VVC82 ($2.67 in chips) 
+Seat 6: thestomper68 ($1.44 in chips) 
+Seat 7: InputCel555 ($3.42 in chips) 
+Seat 8: stephfern53 ($1.94 in chips) 
+Seat 9: sergeibab ($1.60 in chips) 
+InputCel555: posts small blind $0.01
+stephfern53: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 5s]
+sergeibab: folds 
+Ronkelbonks: calls $0.02
+Dorex2007: folds 
+DekKand: raises $0.04 to $0.06
+SleepyShepherd: folds 
+VVC82: folds 
+Dorex2007 said, "this guy is a cash machine LOL"
+thestomper68: calls $0.06
+InputCel555: folds 
+stephfern53: folds 
+Ronkelbonks: calls $0.04
+*** FLOP *** [8c 2d 2s]
+Ronkelbonks: checks 
+DekKand: checks 
+thestomper68: bets $0.02
+Ronkelbonks: folds 
+DekKand: calls $0.02
+*** TURN *** [8c 2d 2s] [Ks]
+DekKand: bets $0.12
+thestomper68: calls $0.12
+*** RIVER *** [8c 2d 2s Ks] [Ad]
+DekKand: bets $0.26
+thestomper68: folds 
+Uncalled bet ($0.26) returned to DekKand
+DekKand collected $0.47 from pot
+DekKand: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [8c 2d 2s Ks Ad]
+Seat 1: Ronkelbonks folded on the Flop
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: DekKand collected ($0.47)
+Seat 4: SleepyShepherd folded before Flop (didn't bet)
+Seat 5: VVC82 folded before Flop (didn't bet)
+Seat 6: thestomper68 (button) folded on the River
+Seat 7: InputCel555 (small blind) folded before Flop
+Seat 8: stephfern53 (big blind) folded before Flop
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228393464731:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 13:59:14 PT [2021/07/18 16:59:14 ET]
+Table 'Chrysothemis II' 9-max Seat #7 is the button
+Seat 1: Ronkelbonks ($0.80 in chips) 
+Seat 2: Dorex2007 ($2.96 in chips) 
+Seat 3: DekKand ($1.94 in chips) 
+Seat 4: SleepyShepherd ($2.40 in chips) 
+Seat 5: VVC82 ($2.67 in chips) 
+Seat 6: thestomper68 ($1.24 in chips) 
+Seat 7: InputCel555 ($3.41 in chips) 
+Seat 8: stephfern53 ($1.92 in chips) 
+Seat 9: sergeibab ($1.60 in chips) 
+stephfern53: posts small blind $0.01
+sergeibab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 6d]
+Ronkelbonks: folds 
+Dorex2007: folds 
+DekKand: folds 
+SleepyShepherd: raises $0.04 to $0.06
+VVC82: calls $0.06
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: calls $0.04
+*** FLOP *** [Ac Ah 8h]
+sergeibab: bets $0.09
+SleepyShepherd: raises $0.09 to $0.18
+VVC82: folds 
+sergeibab: calls $0.09
+*** TURN *** [Ac Ah 8h] [8s]
+sergeibab: bets $0.12
+SleepyShepherd: calls $0.12
+*** RIVER *** [Ac Ah 8h 8s] [Kh]
+sergeibab: bets $0.10
+SleepyShepherd: raises $0.96 to $1.06
+sergeibab: folds 
+Uncalled bet ($0.96) returned to SleepyShepherd
+SleepyShepherd collected $0.96 from pot
+SleepyShepherd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.99 | Rake $0.03 
+Board [Ac Ah 8h 8s Kh]
+Seat 1: Ronkelbonks folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: DekKand folded before Flop (didn't bet)
+Seat 4: SleepyShepherd collected ($0.96)
+Seat 5: VVC82 folded on the Flop
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 (button) folded before Flop (didn't bet)
+Seat 8: stephfern53 (small blind) folded before Flop
+Seat 9: sergeibab (big blind) folded on the River
+
+
+
+PokerStars Hand #228393497914:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 14:00:49 PT [2021/07/18 17:00:49 ET]
+Table 'Chrysothemis II' 9-max Seat #8 is the button
+Seat 1: Ronkelbonks ($0.80 in chips) 
+Seat 2: Dorex2007 ($2.96 in chips) 
+Seat 3: DekKand ($1.94 in chips) 
+Seat 4: SleepyShepherd ($2.90 in chips) 
+Seat 5: VVC82 ($2.61 in chips) 
+Seat 6: thestomper68 ($1.24 in chips) 
+Seat 7: InputCel555 ($3.41 in chips) 
+Seat 8: stephfern53 ($1.91 in chips) 
+Seat 9: sergeibab ($1.14 in chips) 
+sergeibab: posts small blind $0.01
+Ronkelbonks: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 6s]
+Dorex2007: folds 
+DekKand: raises $0.02 to $0.04
+SleepyShepherd: folds 
+VVC82: calls $0.04
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: folds 
+Ronkelbonks: folds 
+*** FLOP *** [Ah Ad 8s]
+DekKand: checks 
+VVC82: checks 
+*** TURN *** [Ah Ad 8s] [2d]
+DekKand: bets $0.06
+VVC82: folds 
+Uncalled bet ($0.06) returned to DekKand
+DekKand collected $0.11 from pot
+DekKand: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Ah Ad 8s 2d]
+Seat 1: Ronkelbonks (big blind) folded before Flop
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: DekKand collected ($0.11)
+Seat 4: SleepyShepherd folded before Flop (didn't bet)
+Seat 5: VVC82 folded on the Turn
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 (button) folded before Flop (didn't bet)
+Seat 9: sergeibab (small blind) folded before Flop
+
+
+
+PokerStars Hand #228393517275:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 14:01:35 PT [2021/07/18 17:01:35 ET]
+Table 'Chrysothemis II' 9-max Seat #9 is the button
+Seat 1: Ronkelbonks ($0.80 in chips) 
+Seat 2: Dorex2007 ($2.96 in chips) 
+Seat 3: DekKand ($2.01 in chips) 
+Seat 4: SleepyShepherd ($2.90 in chips) 
+Seat 5: VVC82 ($2.57 in chips) 
+Seat 6: thestomper68 ($1.24 in chips) 
+Seat 7: InputCel555 ($3.41 in chips) 
+Seat 8: stephfern53 ($1.91 in chips) 
+Seat 9: sergeibab ($1.13 in chips) 
+Ronkelbonks: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 8h]
+DekKand: raises $0.04 to $0.06
+SleepyShepherd: folds 
+VVC82: folds 
+thestomper68: calls $0.06
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: folds 
+Ronkelbonks: folds 
+Dorex2007: folds 
+*** FLOP *** [6d 5h 3c]
+DekKand: bets $0.14
+thestomper68: folds 
+Uncalled bet ($0.14) returned to DekKand
+DekKand collected $0.14 from pot
+DekKand: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [6d 5h 3c]
+Seat 1: Ronkelbonks (small blind) folded before Flop
+Seat 2: Dorex2007 (big blind) folded before Flop
+Seat 3: DekKand collected ($0.14)
+Seat 4: SleepyShepherd folded before Flop (didn't bet)
+Seat 5: VVC82 folded before Flop (didn't bet)
+Seat 6: thestomper68 folded on the Flop
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228393545874:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 14:02:35 PT [2021/07/18 17:02:35 ET]
+Table 'Chrysothemis II' 9-max Seat #1 is the button
+Seat 1: Ronkelbonks ($0.80 in chips) 
+Seat 2: Dorex2007 ($2.94 in chips) 
+Seat 3: DekKand ($2.09 in chips) 
+Seat 4: SleepyShepherd ($2.90 in chips) 
+Seat 5: VVC82 ($2.57 in chips) 
+Seat 6: thestomper68 ($1.18 in chips) 
+Seat 7: InputCel555 ($3.41 in chips) 
+Seat 8: stephfern53 ($1.91 in chips) 
+Seat 9: sergeibab ($1.13 in chips) 
+Dorex2007: posts small blind $0.01
+DekKand: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 3c]
+SleepyShepherd: raises $0.02 to $0.04
+VVC82: folds 
+thestomper68: calls $0.04
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: calls $0.04
+Ronkelbonks: calls $0.04
+Dorex2007: folds 
+DekKand: calls $0.02
+*** FLOP *** [5s 3s 3d]
+DekKand: checks 
+SleepyShepherd: bets $0.10
+thestomper68: folds 
+sergeibab: folds 
+Ronkelbonks: folds 
+DekKand: folds 
+Uncalled bet ($0.10) returned to SleepyShepherd
+SleepyShepherd collected $0.20 from pot
+SleepyShepherd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [5s 3s 3d]
+Seat 1: Ronkelbonks (button) folded on the Flop
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 3: DekKand (big blind) folded on the Flop
+Seat 4: SleepyShepherd collected ($0.20)
+Seat 5: VVC82 folded before Flop (didn't bet)
+Seat 6: thestomper68 folded on the Flop
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab folded on the Flop
+
+
+
+PokerStars Hand #228393600717:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 14:04:15 PT [2021/07/18 17:04:15 ET]
+Table 'Chrysothemis II' 9-max Seat #2 is the button
+Seat 1: Ronkelbonks ($0.80 in chips) 
+Seat 2: Dorex2007 ($2.93 in chips) 
+Seat 3: DekKand ($2.05 in chips) 
+Seat 4: SleepyShepherd ($3.06 in chips) 
+Seat 5: VVC82 ($2.57 in chips) 
+Seat 6: thestomper68 ($1.14 in chips) 
+Seat 7: InputCel555 ($3.41 in chips) 
+Seat 8: stephfern53 ($1.91 in chips) 
+Seat 9: sergeibab ($1.09 in chips) 
+DekKand: posts small blind $0.01
+SleepyShepherd: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 9d]
+VVC82: calls $0.02
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: folds 
+sergeibab: folds 
+Ronkelbonks: calls $0.02
+Dorex2007: calls $0.02
+DekKand: folds 
+SleepyShepherd: raises $0.09 to $0.11
+VVC82: calls $0.09
+Ronkelbonks: raises $0.69 to $0.80 and is all-in
+Dorex2007: folds 
+SleepyShepherd: folds 
+VVC82: folds 
+Uncalled bet ($0.69) returned to Ronkelbonks
+Ronkelbonks collected $0.36 from pot
+Ronkelbonks: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0 
+Seat 1: Ronkelbonks collected ($0.36)
+Seat 2: Dorex2007 (button) folded before Flop
+Seat 3: DekKand (small blind) folded before Flop
+Seat 4: SleepyShepherd (big blind) folded before Flop
+Seat 5: VVC82 folded before Flop
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228393630241:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 14:05:11 PT [2021/07/18 17:05:11 ET]
+Table 'Chrysothemis II' 9-max Seat #3 is the button
+Seat 1: Ronkelbonks ($1.05 in chips) 
+Seat 2: Dorex2007 ($2.91 in chips) 
+Seat 3: DekKand ($2.04 in chips) 
+Seat 4: SleepyShepherd ($2.95 in chips) 
+Seat 5: VVC82 ($2.46 in chips) 
+Seat 6: thestomper68 ($1.14 in chips) 
+Seat 7: InputCel555 ($3.41 in chips) 
+Seat 8: stephfern53 ($1.91 in chips) 
+Seat 9: sergeibab ($1.09 in chips) 
+SleepyShepherd: posts small blind $0.01
+VVC82: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Ks]
+thestomper68: folds 
+InputCel555: folds 
+stephfern53: calls $0.02
+sergeibab: folds 
+Ronkelbonks: calls $0.02
+Dorex2007: calls $0.02
+DekKand: folds 
+SleepyShepherd: folds 
+VVC82: checks 
+*** FLOP *** [2d 3h 2c]
+VVC82: checks 
+stephfern53: checks 
+Ronkelbonks: checks 
+Dorex2007: checks 
+*** TURN *** [2d 3h 2c] [5h]
+VVC82: checks 
+stephfern53: checks 
+Ronkelbonks: checks 
+Dorex2007: checks 
+*** RIVER *** [2d 3h 2c 5h] [3s]
+VVC82: checks 
+stephfern53: checks 
+Ronkelbonks: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+VVC82: shows [8s 9h] (two pair, Threes and Deuces)
+stephfern53: shows [As Kd] (two pair, Threes and Deuces - Ace kicker)
+Ronkelbonks: shows [5c 6h] (two pair, Fives and Threes)
+Dorex2007: mucks hand 
+Ronkelbonks collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [2d 3h 2c 5h 3s]
+Seat 1: Ronkelbonks showed [5c 6h] and won ($0.09) with two pair, Fives and Threes
+Seat 2: Dorex2007 mucked [Jh Ks]
+Seat 3: DekKand (button) folded before Flop (didn't bet)
+Seat 4: SleepyShepherd (small blind) folded before Flop
+Seat 5: VVC82 (big blind) showed [8s 9h] and lost with two pair, Threes and Deuces
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 showed [As Kd] and lost with two pair, Threes and Deuces
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228393660279:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 14:06:11 PT [2021/07/18 17:06:11 ET]
+Table 'Chrysothemis II' 9-max Seat #4 is the button
+Seat 1: Ronkelbonks ($1.12 in chips) 
+Seat 2: Dorex2007 ($2.89 in chips) 
+Seat 3: DekKand ($2.04 in chips) 
+Seat 4: SleepyShepherd ($2.94 in chips) 
+Seat 5: VVC82 ($2.44 in chips) 
+Seat 6: thestomper68 ($1.14 in chips) 
+Seat 7: InputCel555 ($3.41 in chips) 
+Seat 8: stephfern53 ($1.89 in chips) 
+Seat 9: sergeibab ($1.09 in chips) 
+VVC82: posts small blind $0.01
+thestomper68: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Ah]
+InputCel555: folds 
+stephfern53: folds 
+sergeibab has timed out
+sergeibab: folds 
+Ronkelbonks: calls $0.02
+Dorex2007: calls $0.02
+DekKand: raises $0.06 to $0.08
+SleepyShepherd: calls $0.08
+VVC82: folds 
+thestomper68: folds 
+Ronkelbonks: calls $0.06
+Dorex2007: calls $0.06
+*** FLOP *** [Ks 9h Ad]
+Ronkelbonks: checks 
+Dorex2007: checks 
+DekKand: bets $0.17
+SleepyShepherd: raises $0.17 to $0.34
+Ronkelbonks: folds 
+Dorex2007: folds 
+DekKand: calls $0.17
+*** TURN *** [Ks 9h Ad] [Qh]
+DekKand: checks 
+SleepyShepherd: bets $0.32
+DekKand: calls $0.32
+*** RIVER *** [Ks 9h Ad Qh] [2d]
+DekKand: checks 
+SleepyShepherd: checks 
+*** SHOW DOWN ***
+DekKand: shows [Jh Kd] (a pair of Kings)
+SleepyShepherd: shows [Kc 9s] (two pair, Kings and Nines)
+SleepyShepherd collected $1.61 from pot
+*** SUMMARY ***
+Total pot $1.67 | Rake $0.06 
+Board [Ks 9h Ad Qh 2d]
+Seat 1: Ronkelbonks folded on the Flop
+Seat 2: Dorex2007 folded on the Flop
+Seat 3: DekKand showed [Jh Kd] and lost with a pair of Kings
+Seat 4: SleepyShepherd (button) showed [Kc 9s] and won ($1.61) with two pair, Kings and Nines
+Seat 5: VVC82 (small blind) folded before Flop
+Seat 6: thestomper68 (big blind) folded before Flop
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228393698344:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 14:07:27 PT [2021/07/18 17:07:27 ET]
+Table 'Chrysothemis II' 9-max Seat #5 is the button
+Seat 1: Ronkelbonks ($1.04 in chips) 
+Seat 2: Dorex2007 ($2.81 in chips) 
+Seat 3: DekKand ($1.30 in chips) 
+Seat 4: SleepyShepherd ($3.81 in chips) 
+Seat 5: VVC82 ($2.43 in chips) 
+Seat 6: thestomper68 ($1.12 in chips) 
+Seat 7: InputCel555 ($3.41 in chips) 
+Seat 8: stephfern53 ($1.89 in chips) 
+Seat 9: sergeibab ($1.09 in chips) 
+thestomper68: posts small blind $0.01
+InputCel555: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 9s]
+stephfern53: folds 
+stephfern53 leaves the table
+sergeibab: folds 
+Ronkelbonks: calls $0.02
+Dorex2007: calls $0.02
+DekKand: folds 
+DimePlusss joins the table at seat #8 
+SleepyShepherd: folds 
+VVC82: calls $0.02
+thestomper68: folds 
+InputCel555: checks 
+*** FLOP *** [2d 3h Kd]
+InputCel555: checks 
+Ronkelbonks: checks 
+Dorex2007: checks 
+VVC82: checks 
+*** TURN *** [2d 3h Kd] [Jd]
+InputCel555: checks 
+Ronkelbonks: checks 
+Dorex2007: checks 
+VVC82: checks 
+*** RIVER *** [2d 3h Kd Jd] [7h]
+InputCel555: checks 
+Ronkelbonks: checks 
+Dorex2007: checks 
+VVC82: checks 
+*** SHOW DOWN ***
+InputCel555: shows [9c 8c] (high card King)
+Ronkelbonks: shows [9d Ah] (high card Ace)
+Dorex2007: mucks hand 
+VVC82: shows [2s 4c] (a pair of Deuces)
+VVC82 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [2d 3h Kd Jd 7h]
+Seat 1: Ronkelbonks showed [9d Ah] and lost with high card Ace
+Seat 2: Dorex2007 mucked [8d 9s]
+Seat 3: DekKand folded before Flop (didn't bet)
+Seat 4: SleepyShepherd folded before Flop (didn't bet)
+Seat 5: VVC82 (button) showed [2s 4c] and won ($0.09) with a pair of Deuces
+Seat 6: thestomper68 (small blind) folded before Flop
+Seat 7: InputCel555 (big blind) showed [9c 8c] and lost with high card King
+Seat 8: stephfern53 folded before Flop (didn't bet)
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228393736583:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 14:08:42 PT [2021/07/18 17:08:42 ET]
+Table 'Chrysothemis II' 9-max Seat #6 is the button
+Seat 1: Ronkelbonks ($1.02 in chips) 
+Seat 2: Dorex2007 ($2.79 in chips) 
+Seat 3: DekKand ($1.30 in chips) 
+Seat 4: SleepyShepherd ($3.81 in chips) 
+Seat 5: VVC82 ($2.50 in chips) 
+Seat 6: thestomper68 ($1.11 in chips) 
+Seat 7: InputCel555 ($3.39 in chips) 
+Seat 8: DimePlusss ($2 in chips) 
+Seat 9: sergeibab ($1.09 in chips) 
+InputCel555: posts small blind $0.01
+DimePlusss: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 5s]
+sergeibab: folds 
+Ronkelbonks: calls $0.02
+Dorex2007: folds 
+DekKand: folds 
+sergeibab leaves the table
+SleepyShepherd: raises $0.07 to $0.09
+VVC82: folds 
+thestomper68: folds 
+InputCel555: folds 
+DimePlusss: folds 
+Ronkelbonks: calls $0.07
+*** FLOP *** [9s 2s 3s]
+Ronkelbonks: checks 
+SleepyShepherd: bets $0.08
+Ronkelbonks: raises $0.08 to $0.16
+sandeto420 joins the table at seat #9 
+SleepyShepherd: folds 
+Uncalled bet ($0.08) returned to Ronkelbonks
+Ronkelbonks collected $0.36 from pot
+Ronkelbonks: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [9s 2s 3s]
+Seat 1: Ronkelbonks collected ($0.36)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: DekKand folded before Flop (didn't bet)
+Seat 4: SleepyShepherd folded on the Flop
+Seat 5: VVC82 folded before Flop (didn't bet)
+Seat 6: thestomper68 (button) folded before Flop (didn't bet)
+Seat 7: InputCel555 (small blind) folded before Flop
+Seat 8: DimePlusss (big blind) folded before Flop
+Seat 9: sergeibab folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228393756004:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 14:09:21 PT [2021/07/18 17:09:21 ET]
+Table 'Chrysothemis II' 9-max Seat #7 is the button
+Seat 1: Ronkelbonks ($1.21 in chips) 
+Seat 2: Dorex2007 ($2.79 in chips) 
+Seat 3: DekKand ($1.30 in chips) 
+Seat 4: SleepyShepherd ($3.64 in chips) 
+Seat 5: VVC82 ($2.50 in chips) 
+Seat 6: thestomper68 ($1.11 in chips) 
+Seat 7: InputCel555 ($3.38 in chips) 
+Seat 8: DimePlusss ($2 in chips) 
+Seat 9: sandeto420 ($1.70 in chips) 
+DimePlusss: posts small blind $0.01
+sandeto420: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Jd]
+Ronkelbonks: folds 
+Dorex2007: raises $0.02 to $0.04
+DekKand: folds 
+SleepyShepherd: folds 
+VVC82: calls $0.04
+thestomper68: folds 
+InputCel555: calls $0.04
+DimePlusss: folds 
+sandeto420: folds 
+*** FLOP *** [Kc 8d Ah]
+Dorex2007: checks 
+VVC82: checks 
+InputCel555: checks 
+*** TURN *** [Kc 8d Ah] [4s]
+Dorex2007: checks 
+VVC82: checks 
+InputCel555: checks 
+*** RIVER *** [Kc 8d Ah 4s] [5s]
+Dorex2007: checks 
+VVC82: checks 
+InputCel555: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [Jc Jd] (a pair of Jacks)
+VVC82: mucks hand 
+InputCel555: mucks hand 
+Dorex2007 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Kc 8d Ah 4s 5s]
+Seat 1: Ronkelbonks folded before Flop (didn't bet)
+Seat 2: Dorex2007 showed [Jc Jd] and won ($0.14) with a pair of Jacks
+Seat 3: DekKand folded before Flop (didn't bet)
+Seat 4: SleepyShepherd folded before Flop (didn't bet)
+Seat 5: VVC82 mucked [Qd 9c]
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 (button) mucked [7s 7h]
+Seat 8: DimePlusss (small blind) folded before Flop
+Seat 9: sandeto420 (big blind) folded before Flop
+
+
+
+PokerStars Hand #228393798546:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 14:10:46 PT [2021/07/18 17:10:46 ET]
+Table 'Chrysothemis II' 9-max Seat #8 is the button
+Seat 1: Ronkelbonks ($1.21 in chips) 
+Seat 2: Dorex2007 ($2.89 in chips) 
+Seat 3: DekKand ($1.30 in chips) 
+Seat 4: SleepyShepherd ($3.64 in chips) 
+Seat 5: VVC82 ($2.46 in chips) 
+Seat 6: thestomper68 ($1.11 in chips) 
+Seat 7: InputCel555 ($3.34 in chips) 
+Seat 8: DimePlusss ($2 in chips) 
+Seat 9: sandeto420 ($1.68 in chips) 
+sandeto420: posts small blind $0.01
+Ronkelbonks: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts Ad]
+Dorex2007: folds 
+DekKand: raises $0.04 to $0.06
+SleepyShepherd: calls $0.06
+VVC82: calls $0.06
+thestomper68: folds 
+InputCel555: folds 
+DimePlusss: folds 
+sandeto420: raises $0.13 to $0.19
+Ronkelbonks: calls $0.17
+DekKand: calls $0.13
+SleepyShepherd: calls $0.13
+VVC82: folds 
+*** FLOP *** [5s 8c Td]
+sandeto420: checks 
+Ronkelbonks: checks 
+DekKand: bets $0.36
+SleepyShepherd: folds 
+sandeto420: folds 
+Ronkelbonks: calls $0.36
+*** TURN *** [5s 8c Td] [7c]
+Ronkelbonks: checks 
+DekKand: bets $0.75 and is all-in
+Ronkelbonks: calls $0.66 and is all-in
+Uncalled bet ($0.09) returned to DekKand
+*** RIVER *** [5s 8c Td 7c] [3d]
+*** SHOW DOWN ***
+Ronkelbonks: shows [6d 5d] (a pair of Fives)
+DekKand: shows [Ah 8d] (a pair of Eights)
+Ronkelbonks cashed out the hand for $0.81 | Cash Out Fee $0.01
+DekKand cashed out the hand for $1.92 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $2.86 | Rake $0.10 
+Board [5s 8c Td 7c 3d]
+Seat 1: Ronkelbonks (big blind) showed [6d 5d] and lost with a pair of Fives (cashed out).
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: DekKand showed [Ah 8d] and won ($2.76) with a pair of Eights (pot not awarded as player cashed out)
+Seat 4: SleepyShepherd folded on the Flop
+Seat 5: VVC82 folded before Flop
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: DimePlusss (button) folded before Flop (didn't bet)
+Seat 9: sandeto420 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #228393842442:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 14:12:14 PT [2021/07/18 17:12:14 ET]
+Table 'Chrysothemis II' 9-max Seat #9 is the button
+Seat 1: Ronkelbonks ($0.81 in chips) 
+Seat 2: Dorex2007 ($2.89 in chips) 
+Seat 3: DekKand ($2.01 in chips) 
+Seat 4: SleepyShepherd ($3.45 in chips) 
+Seat 5: VVC82 ($2.40 in chips) 
+Seat 6: thestomper68 ($1.11 in chips) 
+Seat 7: InputCel555 ($3.34 in chips) 
+Seat 8: DimePlusss ($2 in chips) 
+Seat 9: sandeto420 ($1.49 in chips) 
+Ronkelbonks: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 2d]
+DekKand: folds 
+SleepyShepherd: folds 
+VVC82: folds 
+thestomper68: folds 
+InputCel555: raises $0.02 to $0.04
+DimePlusss: folds 
+sandeto420: folds 
+Ronkelbonks: calls $0.03
+Dorex2007: folds 
+*** FLOP *** [2h Jh 8c]
+Ronkelbonks: checks 
+InputCel555: checks 
+*** TURN *** [2h Jh 8c] [Js]
+Ronkelbonks: checks 
+InputCel555: checks 
+*** RIVER *** [2h Jh 8c Js] [7d]
+Ronkelbonks: bets $0.77 and is all-in
+InputCel555: folds 
+Uncalled bet ($0.77) returned to Ronkelbonks
+Ronkelbonks collected $0.10 from pot
+Ronkelbonks: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [2h Jh 8c Js 7d]
+Seat 1: Ronkelbonks (small blind) collected ($0.10)
+Seat 2: Dorex2007 (big blind) folded before Flop
+Seat 3: DekKand folded before Flop (didn't bet)
+Seat 4: SleepyShepherd folded before Flop (didn't bet)
+Seat 5: VVC82 folded before Flop (didn't bet)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded on the River
+Seat 8: DimePlusss folded before Flop (didn't bet)
+Seat 9: sandeto420 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228393865294:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 14:12:51 PT [2021/07/18 17:12:51 ET]
+Table 'Chrysothemis II' 9-max Seat #1 is the button
+Seat 1: Ronkelbonks ($0.87 in chips) 
+Seat 2: Dorex2007 ($2.87 in chips) 
+Seat 3: DekKand ($2.01 in chips) 
+Seat 4: SleepyShepherd ($3.45 in chips) 
+Seat 5: VVC82 ($2.40 in chips) 
+Seat 6: thestomper68 ($1.11 in chips) 
+Seat 7: InputCel555 ($3.30 in chips) 
+Seat 8: DimePlusss ($2 in chips) 
+Seat 9: sandeto420 ($1.49 in chips) 
+Dorex2007: posts small blind $0.01
+DekKand: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Qd]
+SleepyShepherd: raises $0.05 to $0.07
+VVC82: folds 
+thestomper68: folds 
+InputCel555: folds 
+DimePlusss: folds 
+sandeto420: folds 
+Ronkelbonks: raises $0.80 to $0.87 and is all-in
+Dorex2007: folds 
+DekKand: folds 
+SleepyShepherd: calls $0.80
+*** FLOP *** [8h 7c Ac]
+*** TURN *** [8h 7c Ac] [7s]
+*** RIVER *** [8h 7c Ac 7s] [9s]
+*** SHOW DOWN ***
+SleepyShepherd: shows [As Th] (two pair, Aces and Sevens)
+Ronkelbonks: shows [Ad 8d] (two pair, Aces and Eights)
+Ronkelbonks collected $1.69 from pot
+*** SUMMARY ***
+Total pot $1.77 | Rake $0.08 
+Board [8h 7c Ac 7s 9s]
+Seat 1: Ronkelbonks (button) showed [Ad 8d] and won ($1.69) with two pair, Aces and Eights
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 3: DekKand (big blind) folded before Flop
+Seat 4: SleepyShepherd showed [As Th] and lost with two pair, Aces and Sevens
+Seat 5: VVC82 folded before Flop (didn't bet)
+Seat 6: thestomper68 folded before Flop (didn't bet)
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: DimePlusss folded before Flop (didn't bet)
+Seat 9: sandeto420 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228393885700:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 14:13:32 PT [2021/07/18 17:13:32 ET]
+Table 'Chrysothemis II' 9-max Seat #2 is the button
+Seat 1: Ronkelbonks ($1.69 in chips) 
+Seat 2: Dorex2007 ($2.86 in chips) 
+Seat 4: SleepyShepherd ($2.58 in chips) 
+Seat 5: VVC82 ($2.40 in chips) 
+Seat 6: thestomper68 ($1.11 in chips) 
+Seat 7: InputCel555 ($3.30 in chips) 
+Seat 8: DimePlusss ($2 in chips) 
+Seat 9: sandeto420 ($1.49 in chips) 
+SleepyShepherd: posts small blind $0.01
+VVC82: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 8h]
+thestomper68: raises $0.02 to $0.04
+InputCel555: folds 
+DimePlusss: calls $0.04
+sandeto420: raises $0.16 to $0.20
+Ronkelbonks: calls $0.20
+Dorex2007: folds 
+SleepyShepherd: folds 
+VVC82: folds 
+thestomper68: calls $0.16
+DimePlusss: calls $0.16
+*** FLOP *** [6c 5d 4h]
+thestomper68: checks 
+DimePlusss: checks 
+SleepyShepherd leaves the table
+sandeto420: bets $0.37
+Ronkelbonks: folds 
+thestomper68: folds 
+DimePlusss: calls $0.37
+*** TURN *** [6c 5d 4h] [9c]
+DimePlusss: checks 
+sandeto420: bets $0.92 and is all-in
+InputCel555 leaves the table
+DimePlusss: folds 
+Uncalled bet ($0.92) returned to sandeto420
+sandeto420 collected $1.52 from pot
+sandeto420: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.57 | Rake $0.05 
+Board [6c 5d 4h 9c]
+Seat 1: Ronkelbonks folded on the Flop
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 4: SleepyShepherd (small blind) folded before Flop
+Seat 5: VVC82 (big blind) folded before Flop
+Seat 6: thestomper68 folded on the Flop
+Seat 7: InputCel555 folded before Flop (didn't bet)
+Seat 8: DimePlusss folded on the Turn
+Seat 9: sandeto420 collected ($1.52)
+
+
+
+PokerStars Hand #228393925160:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 14:14:52 PT [2021/07/18 17:14:52 ET]
+Table 'Chrysothemis II' 9-max Seat #5 is the button
+Seat 1: Ronkelbonks ($1.49 in chips) 
+Seat 2: Dorex2007 ($2.86 in chips) 
+Seat 5: VVC82 ($2.38 in chips) 
+Seat 6: thestomper68 ($0.91 in chips) 
+Seat 9: sandeto420 ($2.44 in chips) 
+thestomper68: posts small blind $0.01
+DimePlusss: is sitting out 
+sandeto420: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 3s]
+Ronkelbonks: calls $0.02
+Dorex2007: folds 
+DimePlusss leaves the table
+VVC82: raises $0.04 to $0.06
+thestomper68: folds 
+sandeto420: calls $0.04
+Ronkelbonks: calls $0.04
+*** FLOP *** [Th Qh 4d]
+sandeto420: checks 
+Ronkelbonks: checks 
+VVC82: checks 
+*** TURN *** [Th Qh 4d] [6d]
+sandeto420: checks 
+Ronkelbonks: checks 
+VVC82: checks 
+*** RIVER *** [Th Qh 4d 6d] [4s]
+sandeto420: checks 
+Ronkelbonks: checks 
+VVC82: bets $0.11
+sandeto420: folds 
+Ronkelbonks: calls $0.11
+*** SHOW DOWN ***
+VVC82: shows [5d 9d] (a pair of Fours)
+Ronkelbonks: shows [Qs 7s] (two pair, Queens and Fours)
+Ronkelbonks collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Th Qh 4d 6d 4s]
+Seat 1: Ronkelbonks showed [Qs 7s] and won ($0.40) with two pair, Queens and Fours
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 5: VVC82 (button) showed [5d 9d] and lost with a pair of Fours
+Seat 6: thestomper68 (small blind) folded before Flop
+Seat 9: sandeto420 (big blind) folded on the River
+
+
+
+PokerStars Hand #228393961788:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 14:16:06 PT [2021/07/18 17:16:06 ET]
+Table 'Chrysothemis II' 9-max Seat #6 is the button
+Seat 1: Ronkelbonks ($1.72 in chips) 
+Seat 2: Dorex2007 ($2.86 in chips) 
+Seat 5: VVC82 ($2.21 in chips) 
+Seat 6: thestomper68 ($0.90 in chips) 
+Seat 9: sandeto420 ($2.38 in chips) 
+sandeto420: posts small blind $0.01
+Ronkelbonks: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 2c]
+Dorex2007: folds 
+VVC82: calls $0.02
+thestomper68: folds 
+sandeto420: calls $0.01
+Ronkelbonks: checks 
+*** FLOP *** [4h Kh Ah]
+sandeto420: checks 
+Ronkelbonks: checks 
+VVC82: bets $0.04
+thestomper68 leaves the table
+sandeto420: folds 
+Ronkelbonks: folds 
+Uncalled bet ($0.04) returned to VVC82
+VVC82 collected $0.06 from pot
+VVC82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [4h Kh Ah]
+Seat 1: Ronkelbonks (big blind) folded on the Flop
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 5: VVC82 collected ($0.06)
+Seat 6: thestomper68 (button) folded before Flop (didn't bet)
+Seat 9: sandeto420 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #228393982265:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 14:16:48 PT [2021/07/18 17:16:48 ET]
+Table 'Chrysothemis II' 9-max Seat #9 is the button
+Seat 1: Ronkelbonks ($1.70 in chips) 
+Seat 2: Dorex2007 ($2.86 in chips) 
+Seat 5: VVC82 ($2.25 in chips) 
+Seat 9: sandeto420 ($2.36 in chips) 
+Ronkelbonks: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Kd]
+VVC82: calls $0.02
+sandeto420: folds 
+Ronkelbonks: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [5s 4h Ks]
+Ronkelbonks: checks 
+Dorex2007: bets $0.06
+VVC82: folds 
+Ronkelbonks: calls $0.06
+*** TURN *** [5s 4h Ks] [3d]
+Ronkelbonks: checks 
+SergioLado joins the table at seat #4 
+Dorex2007: checks 
+*** RIVER *** [5s 4h Ks 3d] [Ac]
+Ronkelbonks: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+Ronkelbonks: shows [5d Td] (a pair of Fives)
+Dorex2007: shows [Jh Kd] (a pair of Kings)
+Dorex2007 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [5s 4h Ks 3d Ac]
+Seat 1: Ronkelbonks (small blind) showed [5d Td] and lost with a pair of Fives
+Seat 2: Dorex2007 (big blind) showed [Jh Kd] and won ($0.17) with a pair of Kings
+Seat 5: VVC82 folded on the Flop
+Seat 9: sandeto420 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #228394013855:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/07/18 14:17:52 PT [2021/07/18 17:17:52 ET]
+Table 'Chrysothemis II' 9-max Seat #1 is the button
+Seat 1: Ronkelbonks ($1.62 in chips) 
+Seat 2: Dorex2007 ($2.95 in chips) 
+Seat 4: SergioLado ($0.80 in chips) 
+Seat 5: VVC82 ($2.23 in chips) 
+Seat 9: sandeto420 ($2.36 in chips) 
+Dorex2007: posts small blind $0.01
+SergioLado: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Ac]
+VVC82: raises $0.02 to $0.04
+sandeto420: folds 
+Ronkelbonks: calls $0.04
+Dorex2007: folds 
+SergioLado: calls $0.02
+*** FLOP *** [7d As Kd]
+SergioLado: checks 
+VVC82: bets $0.09
+Ronkelbonks: folds 
+SergioLado: folds 
+Uncalled bet ($0.09) returned to VVC82
+VVC82 collected $0.13 from pot
+VVC82: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [7d As Kd]
+Seat 1: Ronkelbonks (button) folded on the Flop
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 4: SergioLado (big blind) folded on the Flop
+Seat 5: VVC82 collected ($0.13)
+Seat 9: sandeto420 folded before Flop (didn't bet)
+
+
+

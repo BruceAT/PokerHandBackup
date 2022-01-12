@@ -1,0 +1,4703 @@
+﻿PokerStars Hand #232558798954:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:29:42 PT [2021/12/26 22:29:42 ET]
+Table 'Nephthys IV' 9-max Seat #7 is the button
+Seat 1: guiaoms ($0.81 in chips) 
+Seat 2: sansisbai ($4.31 in chips) 
+Seat 4: Aflil1966 ($2 in chips) 
+Seat 5: RicKHK ($1.13 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: slipfinger72 ($2.46 in chips) 
+Seat 8: mathplayer ($0.85 in chips) 
+mathplayer: posts small blind $0.01
+guiaoms: posts big blind $0.02
+Luigiams: sits out 
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 4d]
+sansisbai: folds 
+Aflil1966: folds 
+RicKHK: folds 
+Dorex2007: checks 
+slipfinger72: calls $0.02
+mathplayer: calls $0.01
+guiaoms: checks 
+*** FLOP *** [Ah Kc Qs]
+mathplayer: checks 
+guiaoms: checks 
+Dorex2007: checks 
+slipfinger72: checks 
+*** TURN *** [Ah Kc Qs] [8d]
+mathplayer: bets $0.03
+guiaoms: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+Uncalled bet ($0.03) returned to mathplayer
+mathplayer collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Ah Kc Qs 8d]
+Seat 1: guiaoms (big blind) folded on the Turn
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 4: Aflil1966 folded before Flop (didn't bet)
+Seat 5: RicKHK folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded on the Turn (didn't bet)
+Seat 7: slipfinger72 (button) folded on the Turn
+Seat 8: mathplayer (small blind) collected ($0.08)
+
+
+
+PokerStars Hand #232558811198:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:30:22 PT [2021/12/26 22:30:22 ET]
+Table 'Nephthys IV' 9-max Seat #8 is the button
+Seat 1: guiaoms ($0.79 in chips) 
+Seat 2: sansisbai ($4.31 in chips) 
+Seat 4: Aflil1966 ($2 in chips) 
+Seat 5: RicKHK ($1.13 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: slipfinger72 ($2.44 in chips) 
+Seat 8: mathplayer ($0.91 in chips) 
+guiaoms: posts small blind $0.01
+sansisbai: posts big blind $0.02
+Luigiams: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 5d]
+Aflil1966: folds 
+RicKHK: folds 
+Dorex2007: folds 
+slipfinger72: raises $0.04 to $0.06
+mathplayer: folds 
+guiaoms: calls $0.05
+sansisbai: calls $0.04
+*** FLOP *** [Qc Kd Jd]
+guiaoms: bets $0.02
+sansisbai: folds 
+slipfinger72: calls $0.02
+*** TURN *** [Qc Kd Jd] [Td]
+guiaoms: bets $0.10
+slipfinger72: raises $0.20 to $0.30
+guiaoms: raises $0.20 to $0.50
+slipfinger72: raises $0.20 to $0.70
+guiaoms: calls $0.20
+*** RIVER *** [Qc Kd Jd Td] [9d]
+guiaoms: bets $0.01 and is all-in
+slipfinger72: calls $0.01
+*** SHOW DOWN ***
+guiaoms: shows [Js 9h] (a straight, Nine to King)
+slipfinger72: shows [Ac 8d] (a flush, King high)
+slipfinger72 collected $1.58 from pot
+*** SUMMARY ***
+Total pot $1.64 | Rake $0.06 
+Board [Qc Kd Jd Td 9d]
+Seat 1: guiaoms (small blind) showed [Js 9h] and lost with a straight, Nine to King
+Seat 2: sansisbai (big blind) folded on the Flop
+Seat 4: Aflil1966 folded before Flop (didn't bet)
+Seat 5: RicKHK folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 showed [Ac 8d] and won ($1.58) with a flush, King high
+Seat 8: mathplayer (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232558826672:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:31:32 PT [2021/12/26 22:31:32 ET]
+Table 'Nephthys IV' 9-max Seat #2 is the button
+Seat 2: sansisbai ($4.25 in chips) 
+Seat 4: Aflil1966 ($2 in chips) 
+Seat 5: RicKHK ($1.13 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: slipfinger72 ($3.23 in chips) 
+Seat 8: mathplayer ($0.91 in chips) 
+Aflil1966: posts small blind $0.01
+RicKHK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad Ks]
+Dorex2007: raises $0.02 to $0.04
+slipfinger72: folds 
+mathplayer: folds 
+sansisbai: folds 
+Aflil1966: folds 
+outasrf joins the table at seat #9 
+RicKHK: calls $0.02
+*** FLOP *** [9h 3s 9d]
+RicKHK: checks 
+Dorex2007: checks 
+*** TURN *** [9h 3s 9d] [2h]
+RicKHK: bets $0.06
+Dorex2007: folds 
+Uncalled bet ($0.06) returned to RicKHK
+RicKHK collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [9h 3s 9d 2h]
+Seat 2: sansisbai (button) folded before Flop (didn't bet)
+Seat 4: Aflil1966 (small blind) folded before Flop
+Seat 5: RicKHK (big blind) collected ($0.09)
+Seat 6: Dorex2007 folded on the Turn
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: mathplayer folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232558837084:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:32:18 PT [2021/12/26 22:32:18 ET]
+Table 'Nephthys IV' 9-max Seat #4 is the button
+Seat 2: sansisbai ($4.25 in chips) 
+Seat 4: Aflil1966 ($1.99 in chips) 
+Seat 5: RicKHK ($1.18 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: slipfinger72 ($3.23 in chips) 
+Seat 8: mathplayer ($0.91 in chips) 
+RicKHK: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+outasrf: sits out 
+Luigiams: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 4c]
+slipfinger72: calls $0.02
+mathplayer: calls $0.02
+sansisbai: folds 
+Aflil1966: folds 
+RicKHK: folds 
+Dorex2007: checks 
+*** FLOP *** [4d Kd 7h]
+Dorex2007: checks 
+slipfinger72: checks 
+mathplayer: checks 
+*** TURN *** [4d Kd 7h] [Ts]
+Dorex2007: checks 
+slipfinger72: checks 
+mathplayer: checks 
+*** RIVER *** [4d Kd 7h Ts] [4s]
+Dorex2007: bets $0.10
+slipfinger72: folds 
+mathplayer: folds 
+Uncalled bet ($0.10) returned to Dorex2007
+Dorex2007 collected $0.07 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [4d Kd 7h Ts 4s]
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 4: Aflil1966 (button) folded before Flop (didn't bet)
+Seat 5: RicKHK (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) collected ($0.07)
+Seat 7: slipfinger72 folded on the River
+Seat 8: mathplayer folded on the River
+
+
+
+PokerStars Hand #232558853174:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:33:30 PT [2021/12/26 22:33:30 ET]
+Table 'Nephthys IV' 9-max Seat #5 is the button
+Seat 2: sansisbai ($4.25 in chips) 
+Seat 4: Aflil1966 ($1.99 in chips) 
+Seat 5: RicKHK ($1.17 in chips) 
+Seat 6: Dorex2007 ($2.05 in chips) 
+Seat 7: slipfinger72 ($3.21 in chips) 
+Seat 8: mathplayer ($0.89 in chips) 
+Dorex2007: posts small blind $0.01
+slipfinger72: posts big blind $0.02
+outasrf: sits out 
+Luigiams: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Qc]
+mathplayer: folds 
+sansisbai: folds 
+Aflil1966: folds 
+RicKHK: folds 
+Dorex2007: raises $0.04 to $0.06
+slipfinger72: calls $0.04
+*** FLOP *** [Tc Ah 6s]
+Dorex2007: bets $0.12
+slipfinger72: folds 
+Uncalled bet ($0.12) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Tc Ah 6s]
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 4: Aflil1966 folded before Flop (didn't bet)
+Seat 5: RicKHK (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) collected ($0.12)
+Seat 7: slipfinger72 (big blind) folded on the Flop
+Seat 8: mathplayer folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232558857762:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:33:50 PT [2021/12/26 22:33:50 ET]
+Table 'Nephthys IV' 9-max Seat #6 is the button
+Seat 2: sansisbai ($4.25 in chips) 
+Seat 4: Aflil1966 ($1.99 in chips) 
+Seat 5: RicKHK ($1.17 in chips) 
+Seat 6: Dorex2007 ($2.11 in chips) 
+Seat 7: slipfinger72 ($3.15 in chips) 
+Seat 8: mathplayer ($0.89 in chips) 
+slipfinger72: posts small blind $0.01
+mathplayer: posts big blind $0.02
+outasrf: sits out 
+Luigiams: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Jh]
+sansisbai: folds 
+Aflil1966: folds 
+RicKHK: calls $0.02
+Dorex2007: folds 
+slipfinger72: calls $0.01
+mathplayer: checks 
+*** FLOP *** [6c 9c 7h]
+slipfinger72: checks 
+mathplayer: checks 
+RicKHK: checks 
+*** TURN *** [6c 9c 7h] [8s]
+slipfinger72: checks 
+mathplayer: checks 
+RicKHK: bets $0.02
+slipfinger72: folds 
+mathplayer: folds 
+Uncalled bet ($0.02) returned to RicKHK
+RicKHK collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [6c 9c 7h 8s]
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 4: Aflil1966 folded before Flop (didn't bet)
+Seat 5: RicKHK collected ($0.06)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: slipfinger72 (small blind) folded on the Turn
+Seat 8: mathplayer (big blind) folded on the Turn
+
+
+
+PokerStars Hand #232558869006:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:34:40 PT [2021/12/26 22:34:40 ET]
+Table 'Nephthys IV' 9-max Seat #7 is the button
+Seat 2: sansisbai ($4.25 in chips) 
+Seat 4: Aflil1966 ($1.99 in chips) 
+Seat 5: RicKHK ($1.21 in chips) 
+Seat 6: Dorex2007 ($2.11 in chips) 
+Seat 7: slipfinger72 ($3.13 in chips) 
+Seat 8: mathplayer ($0.87 in chips) 
+Seat 9: outasrf ($0.80 in chips) 
+mathplayer: posts small blind $0.01
+outasrf: posts big blind $0.02
+Luigiams: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d As]
+sansisbai: folds 
+Aflil1966: folds 
+RicKHK: calls $0.02
+Dorex2007: folds 
+slipfinger72: folds 
+mathplayer: calls $0.01
+outasrf: checks 
+*** FLOP *** [2c 9d 6s]
+mathplayer: checks 
+outasrf: checks 
+RicKHK: checks 
+*** TURN *** [2c 9d 6s] [7d]
+mathplayer: checks 
+outasrf: checks 
+RicKHK: checks 
+*** RIVER *** [2c 9d 6s 7d] [2d]
+mathplayer: checks 
+outasrf: checks 
+RicKHK: checks 
+*** SHOW DOWN ***
+mathplayer: shows [3c 5c] (a pair of Deuces)
+outasrf: shows [Ts 5h] (a pair of Deuces - Ten kicker)
+RicKHK: shows [3h Ad] (a pair of Deuces - Ace kicker)
+RicKHK collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [2c 9d 6s 7d 2d]
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 4: Aflil1966 folded before Flop (didn't bet)
+Seat 5: RicKHK showed [3h Ad] and won ($0.06) with a pair of Deuces
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 (button) folded before Flop (didn't bet)
+Seat 8: mathplayer (small blind) showed [3c 5c] and lost with a pair of Deuces
+Seat 9: outasrf (big blind) showed [Ts 5h] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #232558886171:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:35:58 PT [2021/12/26 22:35:58 ET]
+Table 'Nephthys IV' 9-max Seat #8 is the button
+Seat 2: sansisbai ($4.25 in chips) 
+Seat 4: Aflil1966 ($1.99 in chips) 
+Seat 5: RicKHK ($1.25 in chips) 
+Seat 6: Dorex2007 ($2.11 in chips) 
+Seat 7: slipfinger72 ($3.13 in chips) 
+Seat 8: mathplayer ($0.85 in chips) 
+Seat 9: outasrf ($0.78 in chips) 
+outasrf: posts small blind $0.01
+sansisbai: posts big blind $0.02
+Luigiams: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 2s]
+Aflil1966: folds 
+RicKHK: calls $0.02
+Dorex2007: folds 
+Aflil1966 leaves the table
+slipfinger72: folds 
+mathplayer: calls $0.02
+outasrf: calls $0.01
+sansisbai: checks 
+*** FLOP *** [Jd Qc 9s]
+outasrf: checks 
+sansisbai: checks 
+RicKHK: checks 
+mathplayer: checks 
+*** TURN *** [Jd Qc 9s] [8d]
+outasrf: checks 
+sansisbai: checks 
+RicKHK: bets $0.06
+mathplayer: folds 
+outasrf: folds 
+sansisbai: folds 
+Uncalled bet ($0.06) returned to RicKHK
+RicKHK collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Jd Qc 9s 8d]
+Seat 2: sansisbai (big blind) folded on the Turn
+Seat 4: Aflil1966 folded before Flop (didn't bet)
+Seat 5: RicKHK collected ($0.08)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: mathplayer (button) folded on the Turn
+Seat 9: outasrf (small blind) folded on the Turn
+
+
+
+PokerStars Hand #232558900565:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:37:03 PT [2021/12/26 22:37:03 ET]
+Table 'Nephthys IV' 9-max Seat #9 is the button
+Seat 2: sansisbai ($4.23 in chips) 
+Seat 3: Luigiams ($2 in chips) 
+Seat 5: RicKHK ($1.31 in chips) 
+Seat 6: Dorex2007 ($2.11 in chips) 
+Seat 7: slipfinger72 ($3.13 in chips) 
+Seat 8: mathplayer ($0.83 in chips) 
+Seat 9: outasrf ($0.76 in chips) 
+sansisbai: posts small blind $0.01
+Luigiams: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 5h]
+RicKHK: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+mathplayer: raises $0.03 to $0.05
+outasrf: folds 
+sansisbai: folds 
+Luigiams: folds 
+Uncalled bet ($0.03) returned to mathplayer
+mathplayer collected $0.05 from pot
+mathplayer: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: sansisbai (small blind) folded before Flop
+Seat 3: Luigiams (big blind) folded before Flop
+Seat 5: RicKHK folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: mathplayer collected ($0.05)
+Seat 9: outasrf (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232558905609:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:37:26 PT [2021/12/26 22:37:26 ET]
+Table 'Nephthys IV' 9-max Seat #2 is the button
+Seat 2: sansisbai ($4.22 in chips) 
+Seat 3: Luigiams ($1.98 in chips) 
+Seat 5: RicKHK ($1.31 in chips) 
+Seat 6: Dorex2007 ($2.11 in chips) 
+Seat 7: slipfinger72 ($3.13 in chips) 
+Seat 8: mathplayer ($0.86 in chips) 
+Seat 9: outasrf ($0.76 in chips) 
+Luigiams: posts small blind $0.01
+RicKHK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 8c]
+Dorex2007 has timed out
+Dorex2007: folds 
+slipfinger72: folds 
+mathplayer: folds 
+outasrf: folds 
+sansisbai: folds 
+Luigiams: folds 
+Uncalled bet ($0.01) returned to RicKHK
+RicKHK collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: sansisbai (button) folded before Flop (didn't bet)
+Seat 3: Luigiams (small blind) folded before Flop
+Seat 5: RicKHK (big blind) collected ($0.02)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: mathplayer folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232558910677:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:37:49 PT [2021/12/26 22:37:49 ET]
+Table 'Nephthys IV' 9-max Seat #3 is the button
+Seat 2: sansisbai ($4.22 in chips) 
+Seat 3: Luigiams ($1.97 in chips) 
+Seat 5: RicKHK ($1.32 in chips) 
+Seat 6: Dorex2007 ($2.11 in chips) 
+Seat 7: slipfinger72 ($3.13 in chips) 
+Seat 8: mathplayer ($0.86 in chips) 
+Seat 9: outasrf ($0.76 in chips) 
+RicKHK: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Td]
+slipfinger72: folds 
+GMillerr joins the table at seat #4 
+mathplayer: folds 
+outasrf: calls $0.02
+sansisbai: folds 
+Luigiams: folds 
+RicKHK: folds 
+Dorex2007: checks 
+*** FLOP *** [Jh Ad 3c]
+Dorex2007: checks 
+outasrf: bets $0.04
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to outasrf
+outasrf collected $0.05 from pot
+outasrf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jh Ad 3c]
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: Luigiams (button) folded before Flop (didn't bet)
+Seat 5: RicKHK (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded on the Flop
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: mathplayer folded before Flop (didn't bet)
+Seat 9: outasrf collected ($0.05)
+
+
+
+PokerStars Hand #232558930974:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:38:36 PT [2021/12/26 22:38:36 ET]
+Table 'Nephthys IV' 9-max Seat #5 is the button
+Seat 2: sansisbai ($4.22 in chips) 
+Seat 3: Luigiams ($1.97 in chips) 
+Seat 4: GMillerr ($1.60 in chips) 
+Seat 5: RicKHK ($1.31 in chips) 
+Seat 6: Dorex2007 ($2.09 in chips) 
+Seat 7: slipfinger72 ($3.13 in chips) 
+Seat 8: mathplayer ($0.86 in chips) 
+Seat 9: outasrf ($0.79 in chips) 
+Dorex2007: posts small blind $0.01
+slipfinger72: posts big blind $0.02
+GMillerr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 9h]
+mathplayer: raises $0.84 to $0.86 and is all-in
+outasrf: folds 
+sansisbai: folds 
+Luigiams: folds 
+GMillerr: folds 
+RicKHK: folds 
+Dorex2007: folds 
+slipfinger72: calls $0.84
+sansisbai leaves the table
+*** FLOP *** [7d 9s 8d]
+*** TURN *** [7d 9s 8d] [Kd]
+*** RIVER *** [7d 9s 8d Kd] [Tc]
+*** SHOW DOWN ***
+slipfinger72: shows [Ad As] (a pair of Aces)
+mathplayer: shows [Kh Ac] (a pair of Kings)
+slipfinger72 collected $1.69 from pot
+mathplayer cashed out the hand for $0.12
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.06 
+Board [7d 9s 8d Kd Tc]
+Seat 2: sansisbai folded before Flop (didn't bet)
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: GMillerr folded before Flop (didn't bet)
+Seat 5: RicKHK (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: slipfinger72 (big blind) showed [Ad As] and won ($1.69) with a pair of Aces
+Seat 8: mathplayer showed [Kh Ac] and lost with a pair of Kings (cashed out).
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232558939075:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:39:14 PT [2021/12/26 22:39:14 ET]
+Table 'Nephthys IV' 9-max Seat #6 is the button
+Seat 3: Luigiams ($1.97 in chips) 
+Seat 4: GMillerr ($1.58 in chips) 
+Seat 5: RicKHK ($1.31 in chips) 
+Seat 6: Dorex2007 ($2.08 in chips) 
+Seat 7: slipfinger72 ($3.96 in chips) 
+Seat 9: outasrf ($0.79 in chips) 
+slipfinger72: posts small blind $0.01
+mathplayer: is sitting out 
+outasrf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s Qc]
+mathplayer leaves the table
+Luigiams: folds 
+GMillerr: calls $0.02
+RicKHK: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+outasrf: checks 
+*** FLOP *** [6c 3d 7c]
+4remmacs joins the table at seat #2 
+outasrf: checks 
+GMillerr: checks 
+*** TURN *** [6c 3d 7c] [5h]
+outasrf: checks 
+GMillerr: checks 
+*** RIVER *** [6c 3d 7c 5h] [9c]
+outasrf: bets $0.02
+GMillerr: calls $0.02
+*** SHOW DOWN ***
+outasrf: shows [Kd 4c] (a straight, Three to Seven)
+GMillerr: mucks hand 
+outasrf collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [6c 3d 7c 5h 9c]
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: GMillerr mucked [Ad Th]
+Seat 5: RicKHK folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: slipfinger72 (small blind) folded before Flop
+Seat 9: outasrf (big blind) showed [Kd 4c] and won ($0.09) with a straight, Three to Seven
+
+
+
+PokerStars Hand #232558946933:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:39:50 PT [2021/12/26 22:39:50 ET]
+Table 'Nephthys IV' 9-max Seat #7 is the button
+Seat 2: 4remmacs ($1.60 in chips) 
+Seat 3: Luigiams ($1.97 in chips) 
+Seat 4: GMillerr ($1.54 in chips) 
+Seat 5: RicKHK ($1.31 in chips) 
+Seat 6: Dorex2007 ($2.08 in chips) 
+Seat 7: slipfinger72 ($3.95 in chips) 
+Seat 9: outasrf ($0.84 in chips) 
+outasrf: posts small blind $0.01
+4remmacs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 5h]
+Luigiams: calls $0.02
+GMillerr: folds 
+RicKHK: calls $0.02
+Dorex2007: folds 
+slipfinger72: folds 
+outasrf: calls $0.01
+4remmacs: checks 
+*** FLOP *** [Ac 9h 2s]
+outasrf: checks 
+4remmacs: checks 
+Luigiams: bets $0.04
+RicKHK: raises $0.04 to $0.08
+dwardiola joins the table at seat #8 
+outasrf: raises $0.18 to $0.26
+4remmacs: folds 
+Luigiams: folds 
+RicKHK: calls $0.18
+*** TURN *** [Ac 9h 2s] [Js]
+outasrf: bets $0.22
+RicKHK: calls $0.22
+*** RIVER *** [Ac 9h 2s Js] [3c]
+outasrf: bets $0.34 and is all-in
+RicKHK: calls $0.34
+*** SHOW DOWN ***
+outasrf: shows [As Ah] (three of a kind, Aces)
+RicKHK: shows [7s 7h] (a pair of Sevens)
+outasrf collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.76 | Rake $0.06 
+Board [Ac 9h 2s Js 3c]
+Seat 2: 4remmacs (big blind) folded on the Flop
+Seat 3: Luigiams folded on the Flop
+Seat 4: GMillerr folded before Flop (didn't bet)
+Seat 5: RicKHK showed [7s 7h] and lost with a pair of Sevens
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 (button) folded before Flop (didn't bet)
+Seat 9: outasrf (small blind) showed [As Ah] and won ($1.70) with three of a kind, Aces
+
+
+
+PokerStars Hand #232558968804:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:41:32 PT [2021/12/26 22:41:32 ET]
+Table 'Nephthys IV' 9-max Seat #9 is the button
+Seat 2: 4remmacs ($1.58 in chips) 
+Seat 3: Luigiams ($1.91 in chips) 
+Seat 4: GMillerr ($1.54 in chips) 
+Seat 5: RicKHK ($0.47 in chips) 
+Seat 6: Dorex2007 ($2.08 in chips) 
+Seat 7: slipfinger72 ($3.95 in chips) 
+Seat 8: dwardiola ($2 in chips) 
+Seat 9: outasrf ($1.70 in chips) 
+4remmacs: posts small blind $0.01
+Luigiams: posts big blind $0.02
+dwardiola: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 3c]
+GMillerr: folds 
+RicKHK: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: checks 
+outasrf: folds 
+4remmacs: calls $0.01
+Luigiams: checks 
+*** FLOP *** [2d 2c Qd]
+4remmacs: checks 
+Luigiams: checks 
+dwardiola: checks 
+*** TURN *** [2d 2c Qd] [4s]
+4remmacs: bets $0.03
+Luigiams: folds 
+dwardiola: folds 
+Uncalled bet ($0.03) returned to 4remmacs
+4remmacs collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [2d 2c Qd 4s]
+Seat 2: 4remmacs (small blind) collected ($0.06)
+Seat 3: Luigiams (big blind) folded on the Turn
+Seat 4: GMillerr folded before Flop (didn't bet)
+Seat 5: RicKHK folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded on the Turn (didn't bet)
+Seat 9: outasrf (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232558988833:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:42:33 PT [2021/12/26 22:42:33 ET]
+Table 'Nephthys IV' 9-max Seat #2 is the button
+Seat 2: 4remmacs ($1.62 in chips) 
+Seat 3: Luigiams ($1.89 in chips) 
+Seat 4: GMillerr ($1.54 in chips) 
+Seat 5: RicKHK ($0.47 in chips) 
+Seat 6: Dorex2007 ($2.08 in chips) 
+Seat 7: slipfinger72 ($3.95 in chips) 
+Seat 8: dwardiola ($2 in chips) 
+Seat 9: outasrf ($1.70 in chips) 
+Luigiams: posts small blind $0.01
+GMillerr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Jd]
+RicKHK: raises $0.45 to $0.47 and is all-in
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: raises $1.53 to $2 and is all-in
+outasrf: folds 
+4remmacs: folds 
+Luigiams: folds 
+GMillerr: folds 
+Uncalled bet ($1.53) returned to dwardiola
+*** FLOP *** [2c Js 6s]
+*** TURN *** [2c Js 6s] [7h]
+*** RIVER *** [2c Js 6s 7h] [As]
+*** SHOW DOWN ***
+RicKHK: shows [2s Ah] (two pair, Aces and Deuces)
+dwardiola: shows [Ac Kd] (a pair of Aces)
+RicKHK collected $0.94 from pot
+*** SUMMARY ***
+Total pot $0.97 | Rake $0.03 
+Board [2c Js 6s 7h As]
+Seat 2: 4remmacs (button) folded before Flop (didn't bet)
+Seat 3: Luigiams (small blind) folded before Flop
+Seat 4: GMillerr (big blind) folded before Flop
+Seat 5: RicKHK showed [2s Ah] and won ($0.94) with two pair, Aces and Deuces
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola showed [Ac Kd] and lost with a pair of Aces
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232558994518:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:42:59 PT [2021/12/26 22:42:59 ET]
+Table 'Nephthys IV' 9-max Seat #3 is the button
+Seat 2: 4remmacs ($1.62 in chips) 
+Seat 3: Luigiams ($1.88 in chips) 
+Seat 4: GMillerr ($1.52 in chips) 
+Seat 5: RicKHK ($0.94 in chips) 
+Seat 6: Dorex2007 ($2.08 in chips) 
+Seat 7: slipfinger72 ($3.95 in chips) 
+Seat 8: dwardiola ($2 in chips) 
+Seat 9: outasrf ($1.70 in chips) 
+GMillerr: posts small blind $0.01
+RicKHK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 9d]
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+4remmacs: folds 
+Luigiams: folds 
+GMillerr: folds 
+Uncalled bet ($0.01) returned to RicKHK
+RicKHK collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: 4remmacs folded before Flop (didn't bet)
+Seat 3: Luigiams (button) folded before Flop (didn't bet)
+Seat 4: GMillerr (small blind) folded before Flop
+Seat 5: RicKHK (big blind) collected ($0.02)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559001341:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:43:32 PT [2021/12/26 22:43:32 ET]
+Table 'Nephthys IV' 9-max Seat #4 is the button
+Seat 2: 4remmacs ($1.62 in chips) 
+Seat 3: Luigiams ($1.88 in chips) 
+Seat 4: GMillerr ($1.51 in chips) 
+Seat 5: RicKHK ($0.95 in chips) 
+Seat 6: Dorex2007 ($2.08 in chips) 
+Seat 7: slipfinger72 ($3.95 in chips) 
+Seat 8: dwardiola ($2 in chips) 
+Seat 9: outasrf ($1.70 in chips) 
+RicKHK: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 5c]
+slipfinger72: folds 
+dwardiola: raises $0.04 to $0.06
+outasrf: folds 
+4remmacs: folds 
+Luigiams: folds 
+GMillerr: calls $0.06
+RicKHK: calls $0.05
+Dorex2007: folds 
+*** FLOP *** [4s Td 8d]
+RicKHK: checks 
+dwardiola: bets $0.11
+GMillerr: calls $0.11
+RicKHK: folds 
+*** TURN *** [4s Td 8d] [4c]
+dwardiola: checks 
+GMillerr: checks 
+*** RIVER *** [4s Td 8d 4c] [3d]
+dwardiola: bets $0.61
+GMillerr: calls $0.61
+*** SHOW DOWN ***
+dwardiola: shows [Ts Tc] (a full house, Tens full of Fours)
+GMillerr: mucks hand 
+dwardiola collected $1.58 from pot
+*** SUMMARY ***
+Total pot $1.64 | Rake $0.06 
+Board [4s Td 8d 4c 3d]
+Seat 2: 4remmacs folded before Flop (didn't bet)
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: GMillerr (button) mucked [Ac 8h]
+Seat 5: RicKHK (small blind) folded on the Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola showed [Ts Tc] and won ($1.58) with a full house, Tens full of Fours
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559032930:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:45:17 PT [2021/12/26 22:45:17 ET]
+Table 'Nephthys IV' 9-max Seat #5 is the button
+Seat 2: 4remmacs ($1.62 in chips) 
+Seat 3: Luigiams ($1.88 in chips) 
+Seat 4: GMillerr ($0.73 in chips) 
+Seat 5: RicKHK ($0.89 in chips) 
+Seat 6: Dorex2007 ($2.06 in chips) 
+Seat 7: slipfinger72 ($3.95 in chips) 
+Seat 8: dwardiola ($2.80 in chips) 
+Seat 9: outasrf ($1.70 in chips) 
+Dorex2007: posts small blind $0.01
+slipfinger72: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 4d]
+dwardiola: folds 
+outasrf: calls $0.02
+4remmacs: folds 
+Luigiams: calls $0.02
+GMillerr: calls $0.02
+RicKHK: folds 
+Dorex2007: calls $0.01
+slipfinger72: checks 
+*** FLOP *** [Qd 6s Qs]
+Dorex2007: checks 
+slipfinger72: checks 
+outasrf: checks 
+Luigiams: checks 
+GMillerr: checks 
+*** TURN *** [Qd 6s Qs] [Ac]
+Dorex2007: bets $0.12
+slipfinger72: folds 
+outasrf: folds 
+Luigiams: folds 
+GMillerr: folds 
+Uncalled bet ($0.12) returned to Dorex2007
+Dorex2007 collected $0.10 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Qd 6s Qs Ac]
+Seat 2: 4remmacs folded before Flop (didn't bet)
+Seat 3: Luigiams folded on the Turn
+Seat 4: GMillerr folded on the Turn
+Seat 5: RicKHK (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) collected ($0.10)
+Seat 7: slipfinger72 (big blind) folded on the Turn
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded on the Turn
+
+
+
+PokerStars Hand #232559044651:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:46:13 PT [2021/12/26 22:46:13 ET]
+Table 'Nephthys IV' 9-max Seat #6 is the button
+Seat 2: 4remmacs ($1.62 in chips) 
+Seat 3: Luigiams ($1.86 in chips) 
+Seat 4: GMillerr ($0.71 in chips) 
+Seat 5: RicKHK ($0.89 in chips) 
+Seat 6: Dorex2007 ($2.14 in chips) 
+Seat 7: slipfinger72 ($3.93 in chips) 
+Seat 8: dwardiola ($2.80 in chips) 
+Seat 9: outasrf ($1.68 in chips) 
+slipfinger72: posts small blind $0.01
+dwardiola: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 9d]
+outasrf: folds 
+4remmacs: folds 
+Luigiams: folds 
+GMillerr: calls $0.02
+RicKHK: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: checks 
+*** FLOP *** [2c 5s 3s]
+dwardiola: checks 
+GMillerr: checks 
+*** TURN *** [2c 5s 3s] [7s]
+dwardiola: bets $0.05
+GMillerr: calls $0.05
+*** RIVER *** [2c 5s 3s 7s] [Js]
+dwardiola: checks 
+GMillerr: bets $0.14
+dwardiola: folds 
+Uncalled bet ($0.14) returned to GMillerr
+GMillerr collected $0.14 from pot
+GMillerr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2c 5s 3s 7s Js]
+Seat 2: 4remmacs folded before Flop (didn't bet)
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: GMillerr collected ($0.14)
+Seat 5: RicKHK folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: slipfinger72 (small blind) folded before Flop
+Seat 8: dwardiola (big blind) folded on the River
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559056339:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:47:09 PT [2021/12/26 22:47:09 ET]
+Table 'Nephthys IV' 9-max Seat #7 is the button
+Seat 2: 4remmacs ($1.62 in chips) 
+Seat 3: Luigiams ($1.86 in chips) 
+Seat 4: GMillerr ($0.78 in chips) 
+Seat 5: RicKHK ($0.89 in chips) 
+Seat 6: Dorex2007 ($2.14 in chips) 
+Seat 7: slipfinger72 ($3.92 in chips) 
+Seat 8: dwardiola ($2.73 in chips) 
+Seat 9: outasrf ($1.68 in chips) 
+dwardiola: posts small blind $0.01
+outasrf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Td]
+4remmacs: folds 
+Luigiams: folds 
+GMillerr: folds 
+RicKHK: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+Uncalled bet ($0.01) returned to outasrf
+outasrf collected $0.02 from pot
+outasrf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: 4remmacs folded before Flop (didn't bet)
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: GMillerr folded before Flop (didn't bet)
+Seat 5: RicKHK folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 (button) folded before Flop (didn't bet)
+Seat 8: dwardiola (small blind) folded before Flop
+Seat 9: outasrf (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #232559060216:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:47:28 PT [2021/12/26 22:47:28 ET]
+Table 'Nephthys IV' 9-max Seat #8 is the button
+Seat 2: 4remmacs ($1.62 in chips) 
+Seat 3: Luigiams ($1.86 in chips) 
+Seat 4: GMillerr ($0.78 in chips) 
+Seat 5: RicKHK ($0.89 in chips) 
+Seat 6: Dorex2007 ($2.14 in chips) 
+Seat 7: slipfinger72 ($3.92 in chips) 
+Seat 8: dwardiola ($2.72 in chips) 
+Seat 9: outasrf ($1.69 in chips) 
+outasrf: posts small blind $0.01
+4remmacs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 8c]
+Luigiams: folds 
+GMillerr: folds 
+RicKHK has timed out
+RicKHK: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Uncalled bet ($0.01) returned to 4remmacs
+4remmacs collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: 4remmacs (big blind) collected ($0.02)
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: GMillerr folded before Flop (didn't bet)
+Seat 5: RicKHK folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola (button) folded before Flop (didn't bet)
+Seat 9: outasrf (small blind) folded before Flop
+
+
+
+PokerStars Hand #232559065409:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:47:53 PT [2021/12/26 22:47:53 ET]
+Table 'Nephthys IV' 9-max Seat #9 is the button
+Seat 2: 4remmacs ($1.63 in chips) 
+Seat 3: Luigiams ($1.86 in chips) 
+Seat 4: GMillerr ($0.78 in chips) 
+Seat 6: Dorex2007 ($2.14 in chips) 
+Seat 7: slipfinger72 ($3.92 in chips) 
+Seat 8: dwardiola ($2.72 in chips) 
+Seat 9: outasrf ($1.68 in chips) 
+4remmacs: posts small blind $0.01
+Luigiams: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 9s]
+GMillerr: calls $0.02
+Dorex2007: folds 
+slipfinger72: calls $0.02
+dwardiola has timed out
+dwardiola: folds 
+outasrf: folds 
+4remmacs: calls $0.01
+Luigiams: checks 
+*** FLOP *** [Qh 2d Qs]
+4remmacs: checks 
+Luigiams: checks 
+GMillerr: checks 
+slipfinger72: checks 
+*** TURN *** [Qh 2d Qs] [As]
+4remmacs: checks 
+Luigiams: checks 
+GMillerr: checks 
+slipfinger72: checks 
+*** RIVER *** [Qh 2d Qs As] [3d]
+4remmacs: checks 
+Luigiams: checks 
+GMillerr: checks 
+slipfinger72: checks 
+*** SHOW DOWN ***
+4remmacs: shows [Jc Kh] (a pair of Queens)
+Luigiams: mucks hand 
+GMillerr: shows [Js 3s] (two pair, Queens and Threes)
+slipfinger72: shows [8h 8d] (two pair, Queens and Eights)
+slipfinger72 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Qh 2d Qs As 3d]
+Seat 2: 4remmacs (small blind) showed [Jc Kh] and lost with a pair of Queens
+Seat 3: Luigiams (big blind) mucked [Jd 4d]
+Seat 4: GMillerr showed [Js 3s] and lost with two pair, Queens and Threes
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 showed [8h 8d] and won ($0.08) with two pair, Queens and Eights
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559077626:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:48:52 PT [2021/12/26 22:48:52 ET]
+Table 'Nephthys IV' 9-max Seat #2 is the button
+Seat 2: 4remmacs ($1.61 in chips) 
+Seat 3: Luigiams ($1.84 in chips) 
+Seat 4: GMillerr ($0.76 in chips) 
+Seat 5: RicKHK ($0.89 in chips) 
+Seat 6: Dorex2007 ($2.14 in chips) 
+Seat 7: slipfinger72 ($3.98 in chips) 
+Seat 8: dwardiola ($2.72 in chips) 
+Seat 9: outasrf ($1.68 in chips) 
+Luigiams: posts small blind $0.01
+GMillerr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 2d]
+RicKHK has timed out
+RicKHK: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: calls $0.02
+4remmacs: folds 
+Luigiams: calls $0.01
+GMillerr: checks 
+*** FLOP *** [Qd 8h 4d]
+Luigiams: checks 
+guiaoms leaves the table
+GMillerr: checks 
+outasrf: checks 
+*** TURN *** [Qd 8h 4d] [7h]
+Luigiams: checks 
+GMillerr: bets $0.06
+outasrf: folds 
+Luigiams: folds 
+Uncalled bet ($0.06) returned to GMillerr
+GMillerr collected $0.06 from pot
+GMillerr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Qd 8h 4d 7h]
+Seat 2: 4remmacs (button) folded before Flop (didn't bet)
+Seat 3: Luigiams (small blind) folded on the Turn
+Seat 4: GMillerr (big blind) collected ($0.06)
+Seat 5: RicKHK folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded on the Turn
+
+
+
+PokerStars Hand #232559087162:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:49:38 PT [2021/12/26 22:49:38 ET]
+Table 'Nephthys IV' 9-max Seat #3 is the button
+Seat 2: 4remmacs ($1.61 in chips) 
+Seat 3: Luigiams ($1.82 in chips) 
+Seat 4: GMillerr ($0.80 in chips) 
+Seat 5: RicKHK ($0.89 in chips) 
+Seat 6: Dorex2007 ($2.14 in chips) 
+Seat 7: slipfinger72 ($3.98 in chips) 
+Seat 8: dwardiola ($2.72 in chips) 
+Seat 9: outasrf ($1.66 in chips) 
+GMillerr: posts small blind $0.01
+RicKHK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 3h]
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: calls $0.02
+4remmacs: calls $0.02
+Luigiams: folds 
+GMillerr: folds 
+RicKHK: raises $0.87 to $0.89 and is all-in
+outasrf: folds 
+Maverick1924 joins the table at seat #1 
+4remmacs: folds 
+Uncalled bet ($0.87) returned to RicKHK
+RicKHK collected $0.07 from pot
+RicKHK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 2: 4remmacs folded before Flop
+Seat 3: Luigiams (button) folded before Flop (didn't bet)
+Seat 4: GMillerr (small blind) folded before Flop
+Seat 5: RicKHK (big blind) collected ($0.07)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop
+
+
+
+PokerStars Hand #232559093271:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:50:07 PT [2021/12/26 22:50:07 ET]
+Table 'Nephthys IV' 9-max Seat #4 is the button
+Seat 2: 4remmacs ($1.59 in chips) 
+Seat 3: Luigiams ($1.82 in chips) 
+Seat 4: GMillerr ($0.79 in chips) 
+Seat 5: RicKHK ($0.94 in chips) 
+Seat 6: Dorex2007 ($2.14 in chips) 
+Seat 7: slipfinger72 ($3.98 in chips) 
+Seat 8: dwardiola ($2.72 in chips) 
+Seat 9: outasrf ($1.64 in chips) 
+RicKHK: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Maverick1924: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 4s]
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+4remmacs: folds 
+Luigiams: calls $0.02
+GMillerr: calls $0.02
+RicKHK: folds 
+Dorex2007: checks 
+*** FLOP *** [3d 6d 6h]
+Dorex2007: checks 
+Luigiams: checks 
+GMillerr: checks 
+*** TURN *** [3d 6d 6h] [9h]
+Dorex2007: checks 
+Luigiams: checks 
+GMillerr: checks 
+*** RIVER *** [3d 6d 6h 9h] [Td]
+Dorex2007: checks 
+Luigiams: checks 
+GMillerr: bets $0.07
+Dorex2007: calls $0.07
+Luigiams: folds 
+*** SHOW DOWN ***
+GMillerr: shows [7c 9c] (two pair, Nines and Sixes)
+Dorex2007: shows [Ts 4s] (two pair, Tens and Sixes)
+Dorex2007 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [3d 6d 6h 9h Td]
+Seat 2: 4remmacs folded before Flop (didn't bet)
+Seat 3: Luigiams folded on the River
+Seat 4: GMillerr (button) showed [7c 9c] and lost with two pair, Nines and Sixes
+Seat 5: RicKHK (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) showed [Ts 4s] and won ($0.20) with two pair, Tens and Sixes
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559108303:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:51:19 PT [2021/12/26 22:51:19 ET]
+Table 'Nephthys IV' 9-max Seat #5 is the button
+Seat 2: 4remmacs ($1.59 in chips) 
+Seat 3: Luigiams ($1.80 in chips) 
+Seat 4: GMillerr ($0.70 in chips) 
+Seat 5: RicKHK ($0.93 in chips) 
+Seat 6: Dorex2007 ($2.25 in chips) 
+Seat 7: slipfinger72 ($3.98 in chips) 
+Seat 8: dwardiola ($2.72 in chips) 
+Seat 9: outasrf ($1.64 in chips) 
+Dorex2007: posts small blind $0.01
+slipfinger72: posts big blind $0.02
+Maverick1924: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Ad]
+dwardiola: folds 
+outasrf: folds 
+4remmacs: folds 
+Luigiams: calls $0.02
+GMillerr: folds 
+RicKHK: folds 
+Dorex2007: calls $0.01
+slipfinger72: checks 
+*** FLOP *** [2c Th Qd]
+Dorex2007: bets $0.20
+slipfinger72: folds 
+Luigiams: folds 
+Uncalled bet ($0.20) returned to Dorex2007
+Dorex2007 collected $0.06 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [2c Th Qd]
+Seat 2: 4remmacs folded before Flop (didn't bet)
+Seat 3: Luigiams folded on the Flop
+Seat 4: GMillerr folded before Flop (didn't bet)
+Seat 5: RicKHK (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) collected ($0.06)
+Seat 7: slipfinger72 (big blind) folded on the Flop
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559116658:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:52:00 PT [2021/12/26 22:52:00 ET]
+Table 'Nephthys IV' 9-max Seat #6 is the button
+Seat 2: 4remmacs ($1.60 in chips) 
+Seat 3: Luigiams ($2 in chips) 
+Seat 4: GMillerr ($0.70 in chips) 
+Seat 5: RicKHK ($0.93 in chips) 
+Seat 6: Dorex2007 ($2.29 in chips) 
+Seat 7: slipfinger72 ($3.96 in chips) 
+Seat 8: dwardiola ($2.72 in chips) 
+Seat 9: outasrf ($1.64 in chips) 
+slipfinger72: posts small blind $0.01
+dwardiola: posts big blind $0.02
+Maverick1924: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 7h]
+outasrf: calls $0.02
+4remmacs: folds 
+Luigiams: folds 
+GMillerr: calls $0.02
+RicKHK: calls $0.02
+Dorex2007: folds 
+slipfinger72: calls $0.01
+dwardiola: checks 
+*** FLOP *** [7s Ks Ah]
+slipfinger72: checks 
+dwardiola: checks 
+outasrf: checks 
+GMillerr: checks 
+RicKHK: bets $0.02
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+GMillerr: calls $0.02
+*** TURN *** [7s Ks Ah] [6s]
+GMillerr: checks 
+RicKHK: bets $0.04
+GMillerr: raises $0.04 to $0.08
+RicKHK: calls $0.04
+*** RIVER *** [7s Ks Ah 6s] [Jh]
+GMillerr: checks 
+RicKHK: bets $0.15
+GMillerr: raises $0.43 to $0.58 and is all-in
+RicKHK: calls $0.43
+*** SHOW DOWN ***
+GMillerr: shows [Kc 6c] (two pair, Kings and Sixes)
+RicKHK: shows [9h Ad] (a pair of Aces)
+GMillerr collected $1.41 from pot
+*** SUMMARY ***
+Total pot $1.46 | Rake $0.05 
+Board [7s Ks Ah 6s Jh]
+Seat 2: 4remmacs folded before Flop (didn't bet)
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: GMillerr showed [Kc 6c] and won ($1.41) with two pair, Kings and Sixes
+Seat 5: RicKHK showed [9h Ad] and lost with a pair of Aces
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: slipfinger72 (small blind) folded on the Flop
+Seat 8: dwardiola (big blind) folded on the Flop
+Seat 9: outasrf folded on the Flop
+
+
+
+PokerStars Hand #232559134999:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:53:29 PT [2021/12/26 22:53:29 ET]
+Table 'Nephthys IV' 9-max Seat #7 is the button
+Seat 2: 4remmacs ($1.60 in chips) 
+Seat 3: Luigiams ($2 in chips) 
+Seat 4: GMillerr ($1.41 in chips) 
+Seat 5: RicKHK ($0.23 in chips) 
+Seat 6: Dorex2007 ($2.29 in chips) 
+Seat 7: slipfinger72 ($3.94 in chips) 
+Seat 8: dwardiola ($2.70 in chips) 
+Seat 9: outasrf ($1.62 in chips) 
+dwardiola: posts small blind $0.01
+outasrf: posts big blind $0.02
+Maverick1924: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 4d]
+4remmacs: calls $0.02
+Luigiams: folds 
+GMillerr: calls $0.02
+RicKHK: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: checks 
+*** FLOP *** [8h Ac 3h]
+outasrf: checks 
+4remmacs: bets $0.04
+GMillerr: folds 
+outasrf: folds 
+Uncalled bet ($0.04) returned to 4remmacs
+4remmacs collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [8h Ac 3h]
+Seat 2: 4remmacs collected ($0.07)
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: GMillerr folded on the Flop
+Seat 5: RicKHK folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 (button) folded before Flop (didn't bet)
+Seat 8: dwardiola (small blind) folded before Flop
+Seat 9: outasrf (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232559143481:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:54:10 PT [2021/12/26 22:54:10 ET]
+Table 'Nephthys IV' 9-max Seat #8 is the button
+Seat 1: Maverick1924 ($2 in chips) 
+Seat 2: 4remmacs ($1.65 in chips) 
+Seat 3: Luigiams ($2 in chips) 
+Seat 4: GMillerr ($1.39 in chips) 
+Seat 5: RicKHK ($0.23 in chips) 
+Seat 6: Dorex2007 ($2.29 in chips) 
+Seat 7: slipfinger72 ($3.94 in chips) 
+Seat 8: dwardiola ($2.69 in chips) 
+Seat 9: outasrf ($1.60 in chips) 
+outasrf: posts small blind $0.01
+Maverick1924: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 8c]
+4remmacs: folds 
+Luigiams: calls $0.02
+GMillerr: calls $0.02
+RicKHK: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: calls $0.02
+outasrf: folds 
+Maverick1924: checks 
+*** FLOP *** [Ts 2c Ac]
+Maverick1924: checks 
+Luigiams: checks 
+GMillerr: checks 
+dwardiola: checks 
+*** TURN *** [Ts 2c Ac] [Ad]
+Maverick1924: checks 
+Luigiams: checks 
+GMillerr: checks 
+dwardiola: checks 
+*** RIVER *** [Ts 2c Ac Ad] [Ah]
+Maverick1924: checks 
+Luigiams: checks 
+GMillerr: bets $0.09
+dwardiola: folds 
+Maverick1924: folds 
+Luigiams: folds 
+Uncalled bet ($0.09) returned to GMillerr
+GMillerr collected $0.09 from pot
+GMillerr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Ts 2c Ac Ad Ah]
+Seat 1: Maverick1924 (big blind) folded on the River
+Seat 2: 4remmacs folded before Flop (didn't bet)
+Seat 3: Luigiams folded on the River
+Seat 4: GMillerr collected ($0.09)
+Seat 5: RicKHK folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola (button) folded on the River
+Seat 9: outasrf (small blind) folded before Flop
+
+
+
+PokerStars Hand #232559163959:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:55:32 PT [2021/12/26 22:55:32 ET]
+Table 'Nephthys IV' 9-max Seat #9 is the button
+Seat 1: Maverick1924 ($1.98 in chips) 
+Seat 2: 4remmacs ($1.65 in chips) 
+Seat 3: Luigiams ($1.98 in chips) 
+Seat 4: GMillerr ($1.46 in chips) 
+Seat 5: RicKHK ($0.23 in chips) 
+Seat 6: Dorex2007 ($2.29 in chips) 
+Seat 7: slipfinger72 ($3.94 in chips) 
+Seat 8: dwardiola ($2.67 in chips) 
+Seat 9: outasrf ($1.59 in chips) 
+Maverick1924: posts small blind $0.01
+4remmacs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Ah]
+Luigiams: folds 
+GMillerr: folds 
+RicKHK: raises $0.21 to $0.23 and is all-in
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+4remmacs: folds 
+Uncalled bet ($0.21) returned to RicKHK
+RicKHK collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Maverick1924 (small blind) folded before Flop
+Seat 2: 4remmacs (big blind) folded before Flop
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: GMillerr folded before Flop (didn't bet)
+Seat 5: RicKHK collected ($0.05)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559167507:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:55:53 PT [2021/12/26 22:55:53 ET]
+Table 'Nephthys IV' 9-max Seat #1 is the button
+Seat 1: Maverick1924 ($1.97 in chips) 
+Seat 2: 4remmacs ($1.63 in chips) 
+Seat 3: Luigiams ($1.98 in chips) 
+Seat 4: GMillerr ($1.46 in chips) 
+Seat 5: RicKHK ($0.26 in chips) 
+Seat 6: Dorex2007 ($2.29 in chips) 
+Seat 7: slipfinger72 ($3.94 in chips) 
+Seat 8: dwardiola ($2.67 in chips) 
+Seat 9: outasrf ($1.59 in chips) 
+4remmacs: posts small blind $0.01
+Luigiams: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Ah]
+GMillerr: calls $0.02
+RicKHK: raises $0.24 to $0.26 and is all-in
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+4remmacs: folds 
+Luigiams: folds 
+GMillerr: folds 
+Uncalled bet ($0.24) returned to RicKHK
+RicKHK collected $0.07 from pot
+RicKHK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Maverick1924 (button) folded before Flop (didn't bet)
+Seat 2: 4remmacs (small blind) folded before Flop
+Seat 3: Luigiams (big blind) folded before Flop
+Seat 4: GMillerr folded before Flop
+Seat 5: RicKHK collected ($0.07)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559171314:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:56:15 PT [2021/12/26 22:56:15 ET]
+Table 'Nephthys IV' 9-max Seat #2 is the button
+Seat 1: Maverick1924 ($1.97 in chips) 
+Seat 2: 4remmacs ($1.62 in chips) 
+Seat 3: Luigiams ($1.96 in chips) 
+Seat 4: GMillerr ($1.44 in chips) 
+Seat 5: RicKHK ($0.31 in chips) 
+Seat 6: Dorex2007 ($2.29 in chips) 
+Seat 7: slipfinger72 ($3.94 in chips) 
+Seat 8: dwardiola ($2.67 in chips) 
+Seat 9: outasrf ($1.59 in chips) 
+Luigiams: posts small blind $0.01
+GMillerr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 3s]
+RicKHK: folds 
+Dorex2007: folds 
+slipfinger72: raises $0.04 to $0.06
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+4remmacs: folds 
+Luigiams: folds 
+GMillerr: calls $0.04
+*** FLOP *** [4d Jd 9s]
+GMillerr: checks 
+slipfinger72: bets $0.09
+GMillerr: folds 
+Uncalled bet ($0.09) returned to slipfinger72
+slipfinger72 collected $0.13 from pot
+slipfinger72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4d Jd 9s]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs (button) folded before Flop (didn't bet)
+Seat 3: Luigiams (small blind) folded before Flop
+Seat 4: GMillerr (big blind) folded on the Flop
+Seat 5: RicKHK folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 collected ($0.13)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559177616:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:56:52 PT [2021/12/26 22:56:52 ET]
+Table 'Nephthys IV' 9-max Seat #3 is the button
+Seat 1: Maverick1924 ($1.97 in chips) 
+Seat 2: 4remmacs ($1.62 in chips) 
+Seat 3: Luigiams ($1.95 in chips) 
+Seat 4: GMillerr ($1.38 in chips) 
+Seat 5: RicKHK ($0.31 in chips) 
+Seat 6: Dorex2007 ($2.29 in chips) 
+Seat 7: slipfinger72 ($4.01 in chips) 
+Seat 8: dwardiola ($2.67 in chips) 
+Seat 9: outasrf ($1.59 in chips) 
+GMillerr: posts small blind $0.01
+RicKHK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Jh]
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+4remmacs: folds 
+Luigiams: calls $0.02
+GMillerr: calls $0.01
+RicKHK: raises $0.29 to $0.31 and is all-in
+Luigiams: folds 
+GMillerr: folds 
+Uncalled bet ($0.29) returned to RicKHK
+RicKHK collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs folded before Flop (didn't bet)
+Seat 3: Luigiams (button) folded before Flop
+Seat 4: GMillerr (small blind) folded before Flop
+Seat 5: RicKHK (big blind) collected ($0.06)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559184656:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:57:33 PT [2021/12/26 22:57:33 ET]
+Table 'Nephthys IV' 9-max Seat #4 is the button
+Seat 1: Maverick1924 ($1.97 in chips) 
+Seat 2: 4remmacs ($1.62 in chips) 
+Seat 3: Luigiams ($1.93 in chips) 
+Seat 4: GMillerr ($1.36 in chips) 
+Seat 5: RicKHK ($0.35 in chips) 
+Seat 6: Dorex2007 ($2.29 in chips) 
+Seat 7: slipfinger72 ($4.01 in chips) 
+Seat 8: dwardiola ($2.67 in chips) 
+Seat 9: outasrf ($1.59 in chips) 
+RicKHK: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 2c]
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+4remmacs: folds 
+Luigiams: folds 
+GMillerr: calls $0.02
+RicKHK: raises $0.33 to $0.35 and is all-in
+Dorex2007: folds 
+GMillerr: calls $0.33
+*** FLOP *** [2s 4s Tc]
+*** TURN *** [2s 4s Tc] [7s]
+*** RIVER *** [2s 4s Tc 7s] [Qh]
+*** SHOW DOWN ***
+RicKHK: shows [Ad Kd] (high card Ace)
+GMillerr: shows [Jh Js] (a pair of Jacks)
+GMillerr collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03 
+Board [2s 4s Tc 7s Qh]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs folded before Flop (didn't bet)
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: GMillerr (button) showed [Jh Js] and won ($0.69) with a pair of Jacks
+Seat 5: RicKHK (small blind) showed [Ad Kd] and lost with high card Ace
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559192438:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 19:58:19 PT [2021/12/26 22:58:19 ET]
+Table 'Nephthys IV' 9-max Seat #6 is the button
+Seat 1: Maverick1924 ($1.97 in chips) 
+Seat 2: 4remmacs ($1.62 in chips) 
+Seat 3: Luigiams ($1.93 in chips) 
+Seat 4: GMillerr ($1.70 in chips) 
+Seat 6: Dorex2007 ($2.27 in chips) 
+Seat 7: slipfinger72 ($4.01 in chips) 
+Seat 8: dwardiola ($2.67 in chips) 
+Seat 9: outasrf ($1.59 in chips) 
+slipfinger72: posts small blind $0.01
+dwardiola: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 6h]
+RicKHK leaves the table
+outasrf: folds 
+Maverick1924: folds 
+4remmacs: raises $0.02 to $0.04
+Luigiams: folds 
+GMillerr: calls $0.04
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: calls $0.02
+*** FLOP *** [3c 7d 5d]
+dwardiola: checks 
+4remmacs: bets $0.06
+GMillerr: folds 
+dwardiola: raises $0.13 to $0.19
+rondo08 joins the table at seat #5 
+4remmacs: folds 
+Uncalled bet ($0.13) returned to dwardiola
+dwardiola collected $0.24 from pot
+dwardiola: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3c 7d 5d]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs folded on the Flop
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: GMillerr folded on the Flop
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: slipfinger72 (small blind) folded before Flop
+Seat 8: dwardiola (big blind) collected ($0.24)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559223742:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:01:16 PT [2021/12/26 23:01:16 ET]
+Table 'Nephthys IV' 9-max Seat #9 is the button
+Seat 1: Maverick1924 ($2.15 in chips) 
+Seat 2: 4remmacs ($1.52 in chips) 
+Seat 3: Luigiams ($1.93 in chips) 
+Seat 4: GMillerr ($1.46 in chips) 
+Seat 6: Dorex2007 ($2.27 in chips) 
+Seat 7: slipfinger72 ($4 in chips) 
+Seat 8: dwardiola ($2.85 in chips) 
+Seat 9: outasrf ($1.56 in chips) 
+Maverick1924: posts small blind $0.01
+4remmacs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c As]
+Luigiams: folds 
+GMillerr: calls $0.02
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+4remmacs: checks 
+*** FLOP *** [3c 6d Jd]
+4remmacs: checks 
+GMillerr: checks 
+*** TURN *** [3c 6d Jd] [Th]
+4remmacs: checks 
+GMillerr: checks 
+*** RIVER *** [3c 6d Jd Th] [4h]
+4remmacs: bets $0.05
+GMillerr: calls $0.05
+*** SHOW DOWN ***
+4remmacs: shows [5h 2h] (a straight, Deuce to Six)
+GMillerr: mucks hand 
+4remmacs collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3c 6d Jd Th 4h]
+Seat 1: Maverick1924 (small blind) folded before Flop
+Seat 2: 4remmacs (big blind) showed [5h 2h] and won ($0.14) with a straight, Deuce to Six
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: GMillerr mucked [8h 8s]
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559233484:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:02:05 PT [2021/12/26 23:02:05 ET]
+Table 'Nephthys IV' 9-max Seat #1 is the button
+Seat 1: Maverick1924 ($2.14 in chips) 
+Seat 2: 4remmacs ($1.59 in chips) 
+Seat 3: Luigiams ($1.93 in chips) 
+Seat 4: GMillerr ($1.39 in chips) 
+Seat 6: Dorex2007 ($2.27 in chips) 
+Seat 7: slipfinger72 ($4 in chips) 
+Seat 8: dwardiola ($2.85 in chips) 
+Seat 9: outasrf ($1.56 in chips) 
+4remmacs: posts small blind $0.01
+Luigiams: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 8s]
+GMillerr: calls $0.02
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: calls $0.02
+Maverick1924: folds 
+4remmacs: calls $0.01
+Luigiams: checks 
+*** FLOP *** [4h 9h 6c]
+4remmacs: checks 
+Luigiams: checks 
+GMillerr: checks 
+outasrf: checks 
+*** TURN *** [4h 9h 6c] [Qs]
+4remmacs: checks 
+Luigiams: checks 
+GMillerr: checks 
+outasrf: bets $0.02
+4remmacs: folds 
+Luigiams: calls $0.02
+GMillerr: folds 
+*** RIVER *** [4h 9h 6c Qs] [3c]
+SrO157 joins the table at seat #5 
+Luigiams: checks 
+outasrf: bets $0.02
+Luigiams: calls $0.02
+*** SHOW DOWN ***
+outasrf: shows [Qd Ad] (a pair of Queens)
+Luigiams: mucks hand 
+outasrf collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [4h 9h 6c Qs 3c]
+Seat 1: Maverick1924 (button) folded before Flop (didn't bet)
+Seat 2: 4remmacs (small blind) folded on the Turn
+Seat 3: Luigiams (big blind) mucked [6h 8d]
+Seat 4: GMillerr folded on the Turn
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf showed [Qd Ad] and won ($0.15) with a pair of Queens
+
+
+
+PokerStars Hand #232559261249:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:03:49 PT [2021/12/26 23:03:49 ET]
+Table 'Nephthys IV' 9-max Seat #2 is the button
+Seat 1: Maverick1924 ($2.14 in chips) 
+Seat 2: 4remmacs ($1.57 in chips) 
+Seat 3: Luigiams ($1.87 in chips) 
+Seat 4: GMillerr ($1.37 in chips) 
+Seat 5: SrO157 ($0.84 in chips) 
+Seat 6: Dorex2007 ($2.27 in chips) 
+Seat 7: slipfinger72 ($4 in chips) 
+Seat 8: dwardiola ($2.85 in chips) 
+Seat 9: outasrf ($1.65 in chips) 
+Luigiams: posts small blind $0.01
+GMillerr: posts big blind $0.02
+SrO157: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 8h]
+SrO157: raises $0.03 to $0.05
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: calls $0.05
+Maverick1924: folds 
+4remmacs: folds 
+Luigiams: calls $0.04
+GMillerr: folds 
+*** FLOP *** [2c Kh 6c]
+Luigiams: checks 
+SrO157: bets $0.08
+outasrf: calls $0.08
+Luigiams: folds 
+*** TURN *** [2c Kh 6c] [Ts]
+SrO157: bets $0.14
+outasrf: folds 
+Uncalled bet ($0.14) returned to SrO157
+SrO157 collected $0.32 from pot
+SrO157: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [2c Kh 6c Ts]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs (button) folded before Flop (didn't bet)
+Seat 3: Luigiams (small blind) folded on the Flop
+Seat 4: GMillerr (big blind) folded before Flop
+Seat 5: SrO157 collected ($0.32)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded on the Turn
+
+
+
+PokerStars Hand #232559275344:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:04:59 PT [2021/12/26 23:04:59 ET]
+Table 'Nephthys IV' 9-max Seat #3 is the button
+Seat 1: Maverick1924 ($2.14 in chips) 
+Seat 2: 4remmacs ($1.57 in chips) 
+Seat 3: Luigiams ($1.82 in chips) 
+Seat 4: GMillerr ($1.35 in chips) 
+Seat 5: SrO157 ($1.03 in chips) 
+Seat 6: Dorex2007 ($2.27 in chips) 
+Seat 7: slipfinger72 ($4 in chips) 
+Seat 8: dwardiola ($2.85 in chips) 
+Seat 9: outasrf ($1.52 in chips) 
+GMillerr: posts small blind $0.01
+SrO157: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 6s]
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+4remmacs: raises $0.02 to $0.04
+Luigiams: folds 
+GMillerr: folds 
+SrO157: calls $0.02
+*** FLOP *** [Kd 6c Kh]
+SrO157: checks 
+4remmacs: bets $0.05
+SrO157: folds 
+Uncalled bet ($0.05) returned to 4remmacs
+4remmacs collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Kd 6c Kh]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs collected ($0.09)
+Seat 3: Luigiams (button) folded before Flop (didn't bet)
+Seat 4: GMillerr (small blind) folded before Flop
+Seat 5: SrO157 (big blind) folded on the Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559290884:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:05:38 PT [2021/12/26 23:05:38 ET]
+Table 'Nephthys IV' 9-max Seat #4 is the button
+Seat 1: Maverick1924 ($2.14 in chips) 
+Seat 2: 4remmacs ($1.62 in chips) 
+Seat 3: Luigiams ($1.82 in chips) 
+Seat 4: GMillerr ($1.34 in chips) 
+Seat 5: SrO157 ($0.99 in chips) 
+Seat 6: Dorex2007 ($2.27 in chips) 
+Seat 7: slipfinger72 ($4 in chips) 
+Seat 8: dwardiola ($2.85 in chips) 
+Seat 9: outasrf ($1.52 in chips) 
+SrO157: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 3d]
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: raises $0.03 to $0.05
+4remmacs: raises $0.13 to $0.18
+Luigiams: folds 
+GMillerr: folds 
+SrO157: folds 
+Dorex2007: folds 
+Maverick1924: raises $0.42 to $0.60
+4remmacs: raises $1.02 to $1.62 and is all-in
+Maverick1924: calls $1.02
+*** FLOP *** [Th 8d Kh]
+*** TURN *** [Th 8d Kh] [Jh]
+*** RIVER *** [Th 8d Kh Jh] [Jd]
+*** SHOW DOWN ***
+Maverick1924: shows [9h 9s] (two pair, Jacks and Nines)
+4remmacs: shows [Ad Ac] (two pair, Aces and Jacks)
+4remmacs cashed out the hand for $2.50 | Cash Out Fee $0.03
+*** SUMMARY ***
+Total pot $3.27 | Rake $0.11 
+Board [Th 8d Kh Jh Jd]
+Seat 1: Maverick1924 showed [9h 9s] and lost with two pair, Jacks and Nines
+Seat 2: 4remmacs showed [Ad Ac] and won ($3.16) with two pair, Aces and Jacks (pot not awarded as player cashed out)
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: GMillerr (button) folded before Flop (didn't bet)
+Seat 5: SrO157 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559300466:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:06:26 PT [2021/12/26 23:06:26 ET]
+Table 'Nephthys IV' 9-max Seat #5 is the button
+Seat 1: Maverick1924 ($0.52 in chips) 
+Seat 2: 4remmacs ($2.50 in chips) 
+Seat 3: Luigiams ($1.82 in chips) 
+Seat 4: GMillerr ($1.34 in chips) 
+Seat 5: SrO157 ($0.98 in chips) 
+Seat 6: Dorex2007 ($2.25 in chips) 
+Seat 7: slipfinger72 ($4 in chips) 
+Seat 8: dwardiola ($2.85 in chips) 
+Dorex2007: posts small blind $0.01
+slipfinger72: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Ad]
+dwardiola has timed out
+dwardiola: folds 
+Maverick1924: folds 
+4remmacs: folds 
+Luigiams: folds 
+GMillerr: folds 
+SrO157: folds 
+Dorex2007: raises $0.04 to $0.06
+slipfinger72: calls $0.04
+*** FLOP *** [7c 3h 7s]
+Dorex2007: bets $0.12
+slipfinger72: folds 
+Uncalled bet ($0.12) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [7c 3h 7s]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs folded before Flop (didn't bet)
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: GMillerr folded before Flop (didn't bet)
+Seat 5: SrO157 (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) collected ($0.12)
+Seat 7: slipfinger72 (big blind) folded on the Flop
+Seat 8: dwardiola folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559306854:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:06:58 PT [2021/12/26 23:06:58 ET]
+Table 'Nephthys IV' 9-max Seat #6 is the button
+Seat 1: Maverick1924 ($2 in chips) 
+Seat 2: 4remmacs ($2.50 in chips) 
+Seat 3: Luigiams ($1.82 in chips) 
+Seat 4: GMillerr ($1.34 in chips) 
+Seat 5: SrO157 ($0.98 in chips) 
+Seat 6: Dorex2007 ($2.31 in chips) 
+Seat 7: slipfinger72 ($3.94 in chips) 
+Seat 8: dwardiola ($2.85 in chips) 
+slipfinger72: posts small blind $0.01
+dwardiola: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Qc]
+Maverick1924: folds 
+4remmacs: folds 
+Luigiams: raises $0.02 to $0.04
+GMillerr: calls $0.04
+SrO157: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: calls $0.02
+*** FLOP *** [8s Td 4h]
+dwardiola: checks 
+Luigiams: bets $0.04
+GMillerr: folds 
+dwardiola: folds 
+Uncalled bet ($0.04) returned to Luigiams
+Luigiams collected $0.13 from pot
+Luigiams: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8s Td 4h]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs folded before Flop (didn't bet)
+Seat 3: Luigiams collected ($0.13)
+Seat 4: GMillerr folded on the Flop
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: slipfinger72 (small blind) folded before Flop
+Seat 8: dwardiola (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232559314927:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:07:38 PT [2021/12/26 23:07:38 ET]
+Table 'Nephthys IV' 9-max Seat #7 is the button
+Seat 1: Maverick1924 ($2 in chips) 
+Seat 2: 4remmacs ($2.50 in chips) 
+Seat 3: Luigiams ($1.91 in chips) 
+Seat 4: GMillerr ($1.30 in chips) 
+Seat 5: SrO157 ($0.98 in chips) 
+Seat 6: Dorex2007 ($2.31 in chips) 
+Seat 7: slipfinger72 ($3.93 in chips) 
+Seat 8: dwardiola ($2.81 in chips) 
+dwardiola: posts small blind $0.01
+Maverick1924: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d Qd]
+4remmacs: raises $0.02 to $0.04
+Luigiams: folds 
+GMillerr: calls $0.04
+SrO157: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+Maverick1924: folds 
+*** FLOP *** [Tc 4d 7c]
+4remmacs: bets $0.06
+GMillerr: folds 
+Uncalled bet ($0.06) returned to 4remmacs
+4remmacs collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Tc 4d 7c]
+Seat 1: Maverick1924 (big blind) folded before Flop
+Seat 2: 4remmacs collected ($0.11)
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: GMillerr folded on the Flop
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 (button) folded before Flop (didn't bet)
+Seat 8: dwardiola (small blind) folded before Flop
+
+
+
+PokerStars Hand #232559326049:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:08:34 PT [2021/12/26 23:08:34 ET]
+Table 'Nephthys IV' 9-max Seat #8 is the button
+Seat 1: Maverick1924 ($1.98 in chips) 
+Seat 2: 4remmacs ($2.57 in chips) 
+Seat 3: Luigiams ($1.91 in chips) 
+Seat 4: GMillerr ($1.26 in chips) 
+Seat 5: SrO157 ($0.98 in chips) 
+Seat 6: Dorex2007 ($2.31 in chips) 
+Seat 7: slipfinger72 ($3.93 in chips) 
+Seat 8: dwardiola ($2.80 in chips) 
+Maverick1924: posts small blind $0.01
+4remmacs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Ac]
+Luigiams: folds 
+GMillerr: calls $0.02
+SrO157 has timed out
+SrO157: folds 
+Dorex2007: raises $0.02 to $0.04
+slipfinger72: folds 
+dwardiola: calls $0.04
+Maverick1924: folds 
+4remmacs: calls $0.02
+GMillerr: calls $0.02
+*** FLOP *** [Jd 8s Js]
+4remmacs: checks 
+GMillerr: checks 
+Dorex2007: checks 
+dwardiola: checks 
+*** TURN *** [Jd 8s Js] [8h]
+4remmacs: checks 
+GMillerr: bets $0.04
+Dorex2007: calls $0.04
+dwardiola: folds 
+4remmacs: calls $0.04
+*** RIVER *** [Jd 8s Js 8h] [2d]
+4remmacs: bets $0.12
+GMillerr: raises $1.06 to $1.18 and is all-in
+Dorex2007: folds 
+4remmacs: calls $1.06
+*** SHOW DOWN ***
+GMillerr: shows [Jh Kc] (a full house, Jacks full of Eights)
+4remmacs: shows [Jc Qc] (a full house, Jacks full of Eights)
+4remmacs collected $1.28 from pot
+GMillerr collected $1.28 from pot
+*** SUMMARY ***
+Total pot $2.65 | Rake $0.09 
+Board [Jd 8s Js 8h 2d]
+Seat 1: Maverick1924 (small blind) folded before Flop
+Seat 2: 4remmacs (big blind) showed [Jc Qc] and won ($1.28) with a full house, Jacks full of Eights
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: GMillerr showed [Jh Kc] and won ($1.28) with a full house, Jacks full of Eights
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded on the River
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola (button) folded on the Turn
+
+
+
+PokerStars Hand #232559341305:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:09:51 PT [2021/12/26 23:09:51 ET]
+Table 'Nephthys IV' 9-max Seat #1 is the button
+Seat 1: Maverick1924 ($1.97 in chips) 
+Seat 2: 4remmacs ($2.59 in chips) 
+Seat 3: Luigiams ($1.91 in chips) 
+Seat 4: GMillerr ($1.28 in chips) 
+Seat 5: SrO157 ($0.98 in chips) 
+Seat 6: Dorex2007 ($2.23 in chips) 
+Seat 7: slipfinger72 ($3.93 in chips) 
+Seat 8: dwardiola ($2.76 in chips) 
+4remmacs: posts small blind $0.01
+Luigiams: posts big blind $0.02
+outasrf: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 7s]
+GMillerr: calls $0.02
+SrO157: folds 
+Dorex2007: folds 
+slipfinger72: calls $0.02
+4remmacs said, "well that sucked"
+dwardiola: raises $0.13 to $0.15
+Maverick1924: folds 
+4remmacs: folds 
+Dorex2007 said, "lol"
+Luigiams: folds 
+GMillerr: folds 
+slipfinger72: folds 
+Uncalled bet ($0.13) returned to dwardiola
+dwardiola collected $0.09 from pot
+dwardiola: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: Maverick1924 (button) folded before Flop (didn't bet)
+Seat 2: 4remmacs (small blind) folded before Flop
+Seat 3: Luigiams (big blind) folded before Flop
+Seat 4: GMillerr folded before Flop
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop
+Seat 8: dwardiola collected ($0.09)
+
+
+
+PokerStars Hand #232559348820:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:10:29 PT [2021/12/26 23:10:29 ET]
+Table 'Nephthys IV' 9-max Seat #2 is the button
+Seat 1: Maverick1924 ($1.97 in chips) 
+Seat 2: 4remmacs ($2.58 in chips) 
+Seat 3: Luigiams ($1.89 in chips) 
+Seat 4: GMillerr ($1.26 in chips) 
+Seat 5: SrO157 ($0.98 in chips) 
+Seat 6: Dorex2007 ($2.23 in chips) 
+Seat 7: slipfinger72 ($3.91 in chips) 
+Seat 8: dwardiola ($2.83 in chips) 
+Luigiams: posts small blind $0.01
+GMillerr: posts big blind $0.02
+outasrf: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 9c]
+SrO157: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+Maverick1924: raises $0.03 to $0.05
+4remmacs: calls $0.05
+Luigiams: folds 
+GMillerr said, ";)"
+GMillerr: folds 
+*** FLOP *** [Qs 7d Jc]
+Maverick1924: bets $0.05
+4remmacs: folds 
+Uncalled bet ($0.05) returned to Maverick1924
+Maverick1924 collected $0.13 from pot
+Maverick1924: doesn't show hand 
+Dorex2007 said, "not much you could of done differently"
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qs 7d Jc]
+Seat 1: Maverick1924 collected ($0.13)
+Seat 2: 4remmacs (button) folded on the Flop
+Seat 3: Luigiams (small blind) folded before Flop
+Seat 4: GMillerr (big blind) folded before Flop
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559354525:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:10:58 PT [2021/12/26 23:10:58 ET]
+Table 'Nephthys IV' 9-max Seat #3 is the button
+Seat 1: Maverick1924 ($2.05 in chips) 
+Seat 2: 4remmacs ($2.53 in chips) 
+Seat 3: Luigiams ($1.88 in chips) 
+Seat 4: GMillerr ($1.24 in chips) 
+Seat 5: SrO157 ($0.98 in chips) 
+Seat 6: Dorex2007 ($2.23 in chips) 
+Seat 7: slipfinger72 ($3.91 in chips) 
+Seat 8: dwardiola ($2.83 in chips) 
+GMillerr: posts small blind $0.01
+SrO157: posts big blind $0.02
+outasrf: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 5h]
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: raises $0.04 to $0.06
+Maverick1924: folds 
+4remmacs: folds 
+Luigiams: folds 
+GMillerr: folds 
+SrO157: calls $0.04
+*** FLOP *** [6h 6c Jh]
+SrO157: checks 
+dwardiola: bets $0.04
+4remmacs said, "nope neither are giving up our hands.  I expected to see 4 8's"
+SrO157: folds 
+Uncalled bet ($0.04) returned to dwardiola
+dwardiola collected $0.13 from pot
+dwardiola: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6h 6c Jh]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs folded before Flop (didn't bet)
+Seat 3: Luigiams (button) folded before Flop (didn't bet)
+Seat 4: GMillerr (small blind) folded before Flop
+Seat 5: SrO157 (big blind) folded on the Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola collected ($0.13)
+
+
+
+PokerStars Hand #232559364990:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:11:51 PT [2021/12/26 23:11:51 ET]
+Table 'Nephthys IV' 9-max Seat #4 is the button
+Seat 1: Maverick1924 ($2.05 in chips) 
+Seat 2: 4remmacs ($2.53 in chips) 
+Seat 3: Luigiams ($1.88 in chips) 
+Seat 4: GMillerr ($1.23 in chips) 
+Seat 5: SrO157 ($0.92 in chips) 
+Seat 6: Dorex2007 ($2.23 in chips) 
+Seat 7: slipfinger72 ($3.91 in chips) 
+Seat 8: dwardiola ($2.90 in chips) 
+SrO157: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+outasrf: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 8c]
+slipfinger72: raises $0.04 to $0.06
+dwardiola: folds 
+Maverick1924: folds 
+4remmacs: folds 
+Luigiams: folds 
+GMillerr: folds 
+SrO157: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to slipfinger72
+slipfinger72 collected $0.05 from pot
+slipfinger72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs folded before Flop (didn't bet)
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: GMillerr (button) folded before Flop (didn't bet)
+Seat 5: SrO157 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: slipfinger72 collected ($0.05)
+Seat 8: dwardiola folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559368715:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:12:10 PT [2021/12/26 23:12:10 ET]
+Table 'Nephthys IV' 9-max Seat #5 is the button
+Seat 1: Maverick1924 ($2.05 in chips) 
+Seat 2: 4remmacs ($2.53 in chips) 
+Seat 3: Luigiams ($1.88 in chips) 
+Seat 4: GMillerr ($1.23 in chips) 
+Seat 5: SrO157 ($0.91 in chips) 
+Seat 6: Dorex2007 ($2.21 in chips) 
+Seat 7: slipfinger72 ($3.94 in chips) 
+Seat 8: dwardiola ($2.90 in chips) 
+Dorex2007: posts small blind $0.01
+slipfinger72: posts big blind $0.02
+outasrf: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Qd]
+dwardiola: folds 
+Maverick1924: folds 
+4remmacs: raises $0.02 to $0.04
+Luigiams: folds 
+GMillerr: folds 
+SrO157: folds 
+Dorex2007: calls $0.03
+slipfinger72: folds 
+*** FLOP *** [Qc 9s Qh]
+Dorex2007: checks 
+4remmacs: bets $0.05
+Dorex2007: calls $0.05
+*** TURN *** [Qc 9s Qh] [7d]
+Dorex2007: checks 
+4remmacs: bets $0.08
+Dorex2007: raises $0.08 to $0.16
+4remmacs: folds 
+Uncalled bet ($0.08) returned to Dorex2007
+Dorex2007 collected $0.35 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Qc 9s Qh 7d]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs folded on the Turn
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: GMillerr folded before Flop (didn't bet)
+Seat 5: SrO157 (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) collected ($0.35)
+Seat 7: slipfinger72 (big blind) folded before Flop
+Seat 8: dwardiola folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559381558:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:13:15 PT [2021/12/26 23:13:15 ET]
+Table 'Nephthys IV' 9-max Seat #6 is the button
+Seat 1: Maverick1924 ($2.05 in chips) 
+Seat 2: 4remmacs ($2.36 in chips) 
+Seat 3: Luigiams ($1.88 in chips) 
+Seat 4: GMillerr ($1.23 in chips) 
+Seat 5: SrO157 ($0.91 in chips) 
+Seat 6: Dorex2007 ($2.39 in chips) 
+Seat 7: slipfinger72 ($3.92 in chips) 
+Seat 8: dwardiola ($2.90 in chips) 
+slipfinger72: posts small blind $0.01
+dwardiola: posts big blind $0.02
+outasrf: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Qc]
+Dorex2007 said, "QJ"
+Maverick1924: folds 
+4remmacs: raises $0.04 to $0.06
+Luigiams: folds 
+GMillerr: folds 
+SrO157: folds 
+Dorex2007: calls $0.06
+slipfinger72: folds 
+dwardiola: calls $0.04
+*** FLOP *** [Ah 5h 8h]
+dwardiola: checks 
+4remmacs: bets $0.06
+Dorex2007: folds 
+dwardiola: calls $0.06
+*** TURN *** [Ah 5h 8h] [Jc]
+dwardiola: checks 
+4remmacs: checks 
+*** RIVER *** [Ah 5h 8h Jc] [8d]
+dwardiola: checks 
+4remmacs: checks 
+*** SHOW DOWN ***
+dwardiola: shows [Ad 3s] (two pair, Aces and Eights)
+4remmacs: mucks hand 
+dwardiola collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Ah 5h 8h Jc 8d]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs mucked [6c 6h]
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: GMillerr folded before Flop (didn't bet)
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded on the Flop
+Seat 7: slipfinger72 (small blind) folded before Flop
+Seat 8: dwardiola (big blind) showed [Ad 3s] and won ($0.30) with two pair, Aces and Eights
+
+
+
+PokerStars Hand #232559395454:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:14:25 PT [2021/12/26 23:14:25 ET]
+Table 'Nephthys IV' 9-max Seat #7 is the button
+Seat 1: Maverick1924 ($2.05 in chips) 
+Seat 2: 4remmacs ($2.24 in chips) 
+Seat 3: Luigiams ($1.88 in chips) 
+Seat 4: GMillerr ($1.23 in chips) 
+Seat 5: SrO157 ($0.91 in chips) 
+Seat 6: Dorex2007 ($2.33 in chips) 
+Seat 7: slipfinger72 ($3.91 in chips) 
+Seat 8: dwardiola ($3.08 in chips) 
+Seat 9: outasrf ($1.52 in chips) 
+dwardiola: posts small blind $0.01
+outasrf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 9h]
+Maverick1924: folds 
+4remmacs: folds 
+Luigiams: folds 
+GMillerr: calls $0.02
+SrO157: raises $0.04 to $0.06
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+GMillerr: calls $0.04
+*** FLOP *** [3d Ah 8d]
+GMillerr: checks 
+SrO157: bets $0.07
+GMillerr: calls $0.07
+*** TURN *** [3d Ah 8d] [2c]
+GMillerr: checks 
+SrO157: bets $0.28
+GMillerr: folds 
+Uncalled bet ($0.28) returned to SrO157
+SrO157 collected $0.28 from pot
+SrO157: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [3d Ah 8d 2c]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs folded before Flop (didn't bet)
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: GMillerr folded on the Turn
+Seat 5: SrO157 collected ($0.28)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 (button) folded before Flop (didn't bet)
+Seat 8: dwardiola (small blind) folded before Flop
+Seat 9: outasrf (big blind) folded before Flop
+
+
+
+PokerStars Hand #232559409629:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:15:36 PT [2021/12/26 23:15:36 ET]
+Table 'Nephthys IV' 9-max Seat #8 is the button
+Seat 1: Maverick1924 ($2.05 in chips) 
+Seat 2: 4remmacs ($2.24 in chips) 
+Seat 3: Luigiams ($1.88 in chips) 
+Seat 5: SrO157 ($1.06 in chips) 
+Seat 6: Dorex2007 ($2.33 in chips) 
+Seat 7: slipfinger72 ($3.91 in chips) 
+Seat 8: dwardiola ($3.07 in chips) 
+Seat 9: outasrf ($1.50 in chips) 
+outasrf: posts small blind $0.01
+Maverick1924: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 2s]
+4remmacs: folds 
+GMillerr leaves the table
+Luigiams: calls $0.02
+SrO157: folds 
+Dorex2007: calls $0.02
+slipfinger72: calls $0.02
+dwardiola: folds 
+outasrf: calls $0.01
+Maverick1924: checks 
+*** FLOP *** [4s 7h Js]
+outasrf: checks 
+Maverick1924: checks 
+Luigiams: checks 
+Dorex2007: checks 
+slipfinger72: checks 
+*** TURN *** [4s 7h Js] [3h]
+outasrf: bets $0.02
+Maverick1924: folds 
+Luigiams: folds 
+Dorex2007: folds 
+slipfinger72: calls $0.02
+*** RIVER *** [4s 7h Js 3h] [3c]
+outasrf: bets $0.04
+slipfinger72: calls $0.04
+*** SHOW DOWN ***
+outasrf: shows [Qs Jc] (two pair, Jacks and Threes)
+slipfinger72: mucks hand 
+outasrf collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [4s 7h Js 3h 3c]
+Seat 1: Maverick1924 (big blind) folded on the Turn
+Seat 2: 4remmacs folded before Flop (didn't bet)
+Seat 3: Luigiams folded on the Turn
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded on the Turn
+Seat 7: slipfinger72 mucked [8h Jh]
+Seat 8: dwardiola (button) folded before Flop (didn't bet)
+Seat 9: outasrf (small blind) showed [Qs Jc] and won ($0.21) with two pair, Jacks and Threes
+
+
+
+PokerStars Hand #232559425152:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:16:54 PT [2021/12/26 23:16:54 ET]
+Table 'Nephthys IV' 9-max Seat #9 is the button
+Seat 1: Maverick1924 ($2.03 in chips) 
+Seat 2: 4remmacs ($2.24 in chips) 
+Seat 3: Luigiams ($1.86 in chips) 
+Seat 5: SrO157 ($1.06 in chips) 
+Seat 6: Dorex2007 ($2.31 in chips) 
+Seat 7: slipfinger72 ($3.83 in chips) 
+Seat 8: dwardiola ($3.07 in chips) 
+Seat 9: outasrf ($1.63 in chips) 
+Maverick1924: posts small blind $0.01
+4remmacs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 4c]
+Luigiams: folds 
+SrO157: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+Uncalled bet ($0.01) returned to 4remmacs
+4remmacs collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Maverick1924 (small blind) folded before Flop
+Seat 2: 4remmacs (big blind) collected ($0.02)
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559428431:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:17:12 PT [2021/12/26 23:17:12 ET]
+Table 'Nephthys IV' 9-max Seat #1 is the button
+Seat 1: Maverick1924 ($2.02 in chips) 
+Seat 2: 4remmacs ($2.25 in chips) 
+Seat 3: Luigiams ($1.86 in chips) 
+Seat 5: SrO157 ($1.06 in chips) 
+Seat 6: Dorex2007 ($2.31 in chips) 
+Seat 7: slipfinger72 ($3.83 in chips) 
+Seat 8: dwardiola ($3.07 in chips) 
+Seat 9: outasrf ($1.63 in chips) 
+4remmacs: posts small blind $0.01
+Luigiams: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 2h]
+SrO157: folds 
+Dorex2007: folds 
+slipfinger72: raises $0.04 to $0.06
+dwardiola: calls $0.06
+outasrf: folds 
+Maverick1924: calls $0.06
+4remmacs: folds 
+Luigiams: folds 
+*** FLOP *** [7h 9c 6s]
+slipfinger72: checks 
+dwardiola: checks 
+Maverick1924: checks 
+*** TURN *** [7h 9c 6s] [Ac]
+slipfinger72: checks 
+dwardiola: checks 
+Mes1994 joins the table at seat #4 
+Maverick1924: bets $0.07
+slipfinger72: folds 
+dwardiola: calls $0.07
+*** RIVER *** [7h 9c 6s Ac] [2c]
+dwardiola: checks 
+Maverick1924: checks 
+*** SHOW DOWN ***
+dwardiola: shows [Th 9h] (a pair of Nines)
+Maverick1924: mucks hand 
+dwardiola collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [7h 9c 6s Ac 2c]
+Seat 1: Maverick1924 (button) mucked [8h Qh]
+Seat 2: 4remmacs (small blind) folded before Flop
+Seat 3: Luigiams (big blind) folded before Flop
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded on the Turn
+Seat 8: dwardiola showed [Th 9h] and won ($0.34) with a pair of Nines
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559448889:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:18:12 PT [2021/12/26 23:18:12 ET]
+Table 'Nephthys IV' 9-max Seat #2 is the button
+Seat 1: Maverick1924 ($1.89 in chips) 
+Seat 2: 4remmacs ($2.24 in chips) 
+Seat 3: Luigiams ($1.84 in chips) 
+Seat 4: Mes1994 ($1.60 in chips) 
+Seat 5: SrO157 ($1.06 in chips) 
+Seat 6: Dorex2007 ($2.31 in chips) 
+Seat 7: slipfinger72 ($3.77 in chips) 
+Seat 8: dwardiola ($3.28 in chips) 
+Seat 9: outasrf ($1.63 in chips) 
+Luigiams: posts small blind $0.01
+Mes1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 7c]
+SrO157: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: raises $0.02 to $0.04
+Maverick1924: calls $0.04
+4remmacs: folds 
+Luigiams: calls $0.03
+Mes1994: folds 
+*** FLOP *** [7d Qd 5s]
+Luigiams: bets $0.08
+outasrf: folds 
+Maverick1924: folds 
+Uncalled bet ($0.08) returned to Luigiams
+Luigiams collected $0.14 from pot
+Luigiams: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [7d Qd 5s]
+Seat 1: Maverick1924 folded on the Flop
+Seat 2: 4remmacs (button) folded before Flop (didn't bet)
+Seat 3: Luigiams (small blind) collected ($0.14)
+Seat 4: Mes1994 (big blind) folded before Flop
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded on the Flop
+
+
+
+PokerStars Hand #232559457011:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:18:54 PT [2021/12/26 23:18:54 ET]
+Table 'Nephthys IV' 9-max Seat #3 is the button
+Seat 1: Maverick1924 ($1.85 in chips) 
+Seat 2: 4remmacs ($2.24 in chips) 
+Seat 3: Luigiams ($1.94 in chips) 
+Seat 4: Mes1994 ($1.58 in chips) 
+Seat 5: SrO157 ($1.06 in chips) 
+Seat 6: Dorex2007 ($2.31 in chips) 
+Seat 7: slipfinger72 ($3.77 in chips) 
+Seat 8: dwardiola ($3.28 in chips) 
+Seat 9: outasrf ($1.59 in chips) 
+Mes1994: posts small blind $0.01
+SrO157: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 7c]
+Dorex2007: folds 
+slipfinger72: calls $0.02
+dwardiola: raises $0.04 to $0.06
+outasrf: folds 
+Maverick1924: folds 
+4remmacs: folds 
+Luigiams: calls $0.06
+Mes1994: calls $0.05
+SrO157: calls $0.04
+slipfinger72: calls $0.04
+*** FLOP *** [3s 4d Jd]
+Mes1994: bets $0.14
+SrO157: calls $0.14
+slipfinger72: raises $0.30 to $0.44
+dwardiola: folds 
+Luigiams: folds 
+Mes1994: calls $0.30
+SrO157: calls $0.30
+*** TURN *** [3s 4d Jd] [8d]
+Mes1994: checks 
+SrO157: checks 
+slipfinger72: bets $1.56
+Mes1994: folds 
+SrO157: folds 
+Uncalled bet ($1.56) returned to slipfinger72
+slipfinger72 collected $1.56 from pot
+slipfinger72: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.62 | Rake $0.06 
+Board [3s 4d Jd 8d]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs folded before Flop (didn't bet)
+Seat 3: Luigiams (button) folded on the Flop
+Seat 4: Mes1994 (small blind) folded on the Turn
+Seat 5: SrO157 (big blind) folded on the Turn
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 collected ($1.56)
+Seat 8: dwardiola folded on the Flop
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559476294:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:20:32 PT [2021/12/26 23:20:32 ET]
+Table 'Nephthys IV' 9-max Seat #4 is the button
+Seat 1: Maverick1924 ($1.85 in chips) 
+Seat 2: 4remmacs ($2.24 in chips) 
+Seat 3: Luigiams ($1.88 in chips) 
+Seat 4: Mes1994 ($1.08 in chips) 
+Seat 5: SrO157 ($0.56 in chips) 
+Seat 6: Dorex2007 ($2.31 in chips) 
+Seat 7: slipfinger72 ($4.83 in chips) 
+Seat 8: dwardiola ($3.22 in chips) 
+Seat 9: outasrf ($1.59 in chips) 
+SrO157: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 7h]
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+4remmacs: raises $0.04 to $0.06
+Luigiams: folds 
+Mes1994: calls $0.06
+SrO157: folds 
+Dorex2007: folds 
+*** FLOP *** [3s Th 6h]
+4remmacs: bets $0.07
+Mes1994: folds 
+Uncalled bet ($0.07) returned to 4remmacs
+4remmacs collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3s Th 6h]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs collected ($0.14)
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: Mes1994 (button) folded on the Flop
+Seat 5: SrO157 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559481960:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:21:01 PT [2021/12/26 23:21:01 ET]
+Table 'Nephthys IV' 9-max Seat #5 is the button
+Seat 1: Maverick1924 ($1.85 in chips) 
+Seat 2: 4remmacs ($2.32 in chips) 
+Seat 3: Luigiams ($1.88 in chips) 
+Seat 4: Mes1994 ($1.02 in chips) 
+Seat 5: SrO157 ($0.55 in chips) 
+Seat 6: Dorex2007 ($2.29 in chips) 
+Seat 7: slipfinger72 ($4.83 in chips) 
+Seat 8: dwardiola ($3.22 in chips) 
+Seat 9: outasrf ($1.59 in chips) 
+Dorex2007: posts small blind $0.01
+slipfinger72: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 2s]
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+4remmacs: raises $0.04 to $0.06
+Luigiams: folds 
+Mes1994: folds 
+SrO157: calls $0.06
+Dorex2007: folds 
+slipfinger72: folds 
+*** FLOP *** [3h 9c Td]
+4remmacs: bets $0.06
+SrO157: folds 
+Uncalled bet ($0.06) returned to 4remmacs
+4remmacs collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3h 9c Td]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs collected ($0.14)
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: Mes1994 folded before Flop (didn't bet)
+Seat 5: SrO157 (button) folded on the Flop
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: slipfinger72 (big blind) folded before Flop
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559490388:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:21:44 PT [2021/12/26 23:21:44 ET]
+Table 'Nephthys IV' 9-max Seat #6 is the button
+Seat 1: Maverick1924 ($1.85 in chips) 
+Seat 2: 4remmacs ($2.40 in chips) 
+Seat 3: Luigiams ($1.88 in chips) 
+Seat 4: Mes1994 ($1.02 in chips) 
+Seat 5: SrO157 ($0.49 in chips) 
+Seat 6: Dorex2007 ($2.28 in chips) 
+Seat 7: slipfinger72 ($4.81 in chips) 
+Seat 8: dwardiola ($3.22 in chips) 
+Seat 9: outasrf ($1.59 in chips) 
+slipfinger72: posts small blind $0.01
+dwardiola: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 6h]
+outasrf: folds 
+Maverick1924: folds 
+4remmacs: calls $0.02
+Luigiams: calls $0.02
+Mes1994: folds 
+SrO157: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: checks 
+*** FLOP *** [5d Jc 4h]
+dwardiola: checks 
+4remmacs: bets $0.02
+Luigiams: calls $0.02
+dwardiola: folds 
+*** TURN *** [5d Jc 4h] [Ts]
+4remmacs: checks 
+Luigiams: bets $0.08
+4remmacs: folds 
+Uncalled bet ($0.08) returned to Luigiams
+Luigiams collected $0.11 from pot
+Luigiams: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [5d Jc 4h Ts]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs folded on the Turn
+Seat 3: Luigiams collected ($0.11)
+Seat 4: Mes1994 folded before Flop (didn't bet)
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: slipfinger72 (small blind) folded before Flop
+Seat 8: dwardiola (big blind) folded on the Flop
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559501637:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:22:42 PT [2021/12/26 23:22:42 ET]
+Table 'Nephthys IV' 9-max Seat #7 is the button
+Seat 1: Maverick1924 ($1.85 in chips) 
+Seat 2: 4remmacs ($2.36 in chips) 
+Seat 3: Luigiams ($1.95 in chips) 
+Seat 4: Mes1994 ($1.02 in chips) 
+Seat 5: SrO157 ($0.49 in chips) 
+Seat 6: Dorex2007 ($2.28 in chips) 
+Seat 7: slipfinger72 ($4.80 in chips) 
+Seat 8: dwardiola ($3.20 in chips) 
+Seat 9: outasrf ($1.59 in chips) 
+dwardiola: posts small blind $0.01
+outasrf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s Qs]
+Maverick1924: folds 
+4remmacs: raises $0.02 to $0.04
+Luigiams: calls $0.04
+Mes1994: folds 
+SrO157: raises $0.45 to $0.49 and is all-in
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+4remmacs: folds 
+Luigiams: folds 
+Uncalled bet ($0.45) returned to SrO157
+SrO157 collected $0.15 from pot
+SrO157: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs folded before Flop
+Seat 3: Luigiams folded before Flop
+Seat 4: Mes1994 folded before Flop (didn't bet)
+Seat 5: SrO157 collected ($0.15)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 (button) folded before Flop (didn't bet)
+Seat 8: dwardiola (small blind) folded before Flop
+Seat 9: outasrf (big blind) folded before Flop
+
+
+
+PokerStars Hand #232559509408:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:23:23 PT [2021/12/26 23:23:23 ET]
+Table 'Nephthys IV' 9-max Seat #8 is the button
+Seat 1: Maverick1924 ($1.85 in chips) 
+Seat 2: 4remmacs ($2.32 in chips) 
+Seat 3: Luigiams ($1.91 in chips) 
+Seat 4: Mes1994 ($1.02 in chips) 
+Seat 5: SrO157 ($0.60 in chips) 
+Seat 6: Dorex2007 ($2.28 in chips) 
+Seat 7: slipfinger72 ($4.80 in chips) 
+Seat 8: dwardiola ($3.19 in chips) 
+Seat 9: outasrf ($1.57 in chips) 
+outasrf: posts small blind $0.01
+Maverick1924: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Td]
+4remmacs: folds 
+Luigiams: folds 
+Mes1994: folds 
+SrO157: raises $0.03 to $0.05
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: calls $0.05
+outasrf: calls $0.04
+Maverick1924: folds 
+*** FLOP *** [Ts 2c Jc]
+outasrf: checks 
+SrO157: bets $0.08
+dwardiola: calls $0.08
+outasrf: calls $0.08
+*** TURN *** [Ts 2c Jc] [Kh]
+outasrf: checks 
+SrO157: checks 
+dwardiola: checks 
+*** RIVER *** [Ts 2c Jc Kh] [6h]
+outasrf: checks 
+SrO157: checks 
+dwardiola: bets $0.32
+outasrf: folds 
+SrO157: calls $0.32
+*** SHOW DOWN ***
+dwardiola: shows [8s 9c] (high card King)
+SrO157: shows [Qc Th] (a pair of Tens)
+SrO157 collected $1.01 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.04 
+Board [Ts 2c Jc Kh 6h]
+Seat 1: Maverick1924 (big blind) folded before Flop
+Seat 2: 4remmacs folded before Flop (didn't bet)
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: Mes1994 folded before Flop (didn't bet)
+Seat 5: SrO157 showed [Qc Th] and won ($1.01) with a pair of Tens
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola (button) showed [8s 9c] and lost with high card King
+Seat 9: outasrf (small blind) folded on the River
+
+
+
+PokerStars Hand #232559539196:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:25:48 PT [2021/12/26 23:25:48 ET]
+Table 'Nephthys IV' 9-max Seat #9 is the button
+Seat 1: Maverick1924 ($1.83 in chips) 
+Seat 2: 4remmacs ($2.32 in chips) 
+Seat 3: Luigiams ($1.91 in chips) 
+Seat 4: Mes1994 ($1.02 in chips) 
+Seat 5: SrO157 ($1.16 in chips) 
+Seat 6: Dorex2007 ($2.28 in chips) 
+Seat 7: slipfinger72 ($4.80 in chips) 
+Seat 8: dwardiola ($2.74 in chips) 
+Seat 9: outasrf ($1.44 in chips) 
+Maverick1924: posts small blind $0.01
+4remmacs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Kd]
+Luigiams has timed out
+Luigiams: folds 
+Mes1994: folds 
+SrO157: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+dwardiola said, "Nh "
+Maverick1924: raises $0.02 to $0.04
+4remmacs: calls $0.02
+*** FLOP *** [9d Jc 2h]
+Maverick1924: bets $0.04
+4remmacs: folds 
+Uncalled bet ($0.04) returned to Maverick1924
+Maverick1924 collected $0.08 from pot
+Maverick1924: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [9d Jc 2h]
+Seat 1: Maverick1924 (small blind) collected ($0.08)
+Seat 2: 4remmacs (big blind) folded on the Flop
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: Mes1994 folded before Flop (didn't bet)
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559545833:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:26:22 PT [2021/12/26 23:26:22 ET]
+Table 'Nephthys IV' 9-max Seat #1 is the button
+Seat 1: Maverick1924 ($1.87 in chips) 
+Seat 2: 4remmacs ($2.28 in chips) 
+Seat 3: Luigiams ($1.91 in chips) 
+Seat 4: Mes1994 ($1.02 in chips) 
+Seat 5: SrO157 ($1.16 in chips) 
+Seat 6: Dorex2007 ($2.28 in chips) 
+Seat 7: slipfinger72 ($4.80 in chips) 
+Seat 8: dwardiola ($2.74 in chips) 
+Seat 9: outasrf ($1.44 in chips) 
+4remmacs: posts small blind $0.01
+Luigiams: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 4h]
+Mes1994: folds 
+SrO157: folds 
+Dorex2007: folds 
+slipfinger72: raises $0.04 to $0.06
+dwardiola: raises $0.14 to $0.20
+outasrf: folds 
+Maverick1924: folds 
+4remmacs: folds 
+Luigiams: folds 
+slipfinger72: calls $0.14
+*** FLOP *** [2h Ah Ks]
+slipfinger72: checks 
+dwardiola: bets $0.12
+slipfinger72: folds 
+Uncalled bet ($0.12) returned to dwardiola
+dwardiola collected $0.41 from pot
+dwardiola: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [2h Ah Ks]
+Seat 1: Maverick1924 (button) folded before Flop (didn't bet)
+Seat 2: 4remmacs (small blind) folded before Flop
+Seat 3: Luigiams (big blind) folded before Flop
+Seat 4: Mes1994 folded before Flop (didn't bet)
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded on the Flop
+Seat 8: dwardiola collected ($0.41)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559553643:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:27:03 PT [2021/12/26 23:27:03 ET]
+Table 'Nephthys IV' 9-max Seat #2 is the button
+Seat 1: Maverick1924 ($1.87 in chips) 
+Seat 2: 4remmacs ($2.27 in chips) 
+Seat 3: Luigiams ($1.89 in chips) 
+Seat 5: SrO157 ($1.16 in chips) 
+Seat 6: Dorex2007 ($2.28 in chips) 
+Seat 7: slipfinger72 ($4.60 in chips) 
+Seat 8: dwardiola ($2.95 in chips) 
+Seat 9: outasrf ($1.44 in chips) 
+Luigiams: posts small blind $0.01
+Mes1994: is sitting out 
+SrO157: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 6d]
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+4remmacs: folds 
+Luigiams: raises $0.04 to $0.06
+SrO157: calls $0.04
+*** FLOP *** [3c Qs Ah]
+Luigiams: bets $0.06
+SrO157: folds 
+Uncalled bet ($0.06) returned to Luigiams
+Luigiams collected $0.12 from pot
+Luigiams: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [3c Qs Ah]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs (button) folded before Flop (didn't bet)
+Seat 3: Luigiams (small blind) collected ($0.12)
+Seat 5: SrO157 (big blind) folded on the Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559558893:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:27:31 PT [2021/12/26 23:27:31 ET]
+Table 'Nephthys IV' 9-max Seat #3 is the button
+Seat 1: Maverick1924 ($1.87 in chips) 
+Seat 2: 4remmacs ($2.27 in chips) 
+Seat 3: Luigiams ($1.95 in chips) 
+Seat 5: SrO157 ($1.10 in chips) 
+Seat 6: Dorex2007 ($2.28 in chips) 
+Seat 7: slipfinger72 ($4.60 in chips) 
+Seat 8: dwardiola ($2.95 in chips) 
+Seat 9: outasrf ($1.44 in chips) 
+SrO157: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Ad]
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: raises $0.02 to $0.04
+Maverick1924: folds 
+4remmacs: raises $0.04 to $0.08
+Luigiams: calls $0.08
+SrO157: folds 
+Dorex2007: folds 
+outasrf: calls $0.04
+*** FLOP *** [6d 4s Td]
+outasrf: checks 
+4remmacs: bets $0.12
+Luigiams: folds 
+outasrf: calls $0.12
+*** TURN *** [6d 4s Td] [9s]
+outasrf: checks 
+4remmacs: bets $0.12
+outasrf: raises $0.12 to $0.24
+4remmacs: calls $0.12
+*** RIVER *** [6d 4s Td 9s] [Ac]
+outasrf: bets $0.32
+4remmacs: folds 
+Uncalled bet ($0.32) returned to outasrf
+outasrf collected $0.96 from pot
+outasrf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.99 | Rake $0.03 
+Board [6d 4s Td 9s Ac]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs folded on the River
+Seat 3: Luigiams (button) folded on the Flop
+Seat 5: SrO157 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf collected ($0.96)
+
+
+
+PokerStars Hand #232559599814:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:30:09 PT [2021/12/26 23:30:09 ET]
+Table 'Nephthys IV' 9-max Seat #5 is the button
+Seat 1: Maverick1924 ($1.87 in chips) 
+Seat 2: 4remmacs ($1.83 in chips) 
+Seat 3: Luigiams ($1.87 in chips) 
+Seat 4: Mes1994 ($1.02 in chips) 
+Seat 5: SrO157 ($1.09 in chips) 
+Seat 6: Dorex2007 ($2.26 in chips) 
+Seat 7: slipfinger72 ($4.60 in chips) 
+Seat 8: dwardiola ($2.95 in chips) 
+Seat 9: outasrf ($1.96 in chips) 
+Dorex2007: posts small blind $0.01
+slipfinger72: posts big blind $0.02
+Mes1994: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Ts]
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+4remmacs: folds 
+Luigiams: calls $0.02
+Mes1994: checks 
+SrO157: folds 
+Dorex2007: calls $0.01
+slipfinger72: checks 
+*** FLOP *** [Tc 8c Jc]
+Dorex2007: bets $0.12
+slipfinger72: folds 
+Luigiams: folds 
+Mes1994: folds 
+Uncalled bet ($0.12) returned to Dorex2007
+Dorex2007 collected $0.09 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Tc 8c Jc]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs folded before Flop (didn't bet)
+Seat 3: Luigiams folded on the Flop
+Seat 4: Mes1994 folded on the Flop (didn't bet)
+Seat 5: SrO157 (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) collected ($0.09)
+Seat 7: slipfinger72 (big blind) folded on the Flop
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559609981:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:31:04 PT [2021/12/26 23:31:04 ET]
+Table 'Nephthys IV' 9-max Seat #6 is the button
+Seat 1: Maverick1924 ($1.87 in chips) 
+Seat 2: 4remmacs ($1.83 in chips) 
+Seat 3: Luigiams ($1.85 in chips) 
+Seat 4: Mes1994 ($0.99 in chips) 
+Seat 5: SrO157 ($1.09 in chips) 
+Seat 6: Dorex2007 ($2.33 in chips) 
+Seat 7: slipfinger72 ($4.58 in chips) 
+Seat 8: dwardiola ($2.95 in chips) 
+Seat 9: outasrf ($1.96 in chips) 
+slipfinger72: posts small blind $0.01
+dwardiola: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 5c]
+outasrf: folds 
+Maverick1924: folds 
+4remmacs: folds 
+Luigiams: raises $0.02 to $0.04
+Mes1994: calls $0.04
+SrO157: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: raises $0.21 to $0.25
+Luigiams: folds 
+Mes1994: folds 
+Uncalled bet ($0.21) returned to dwardiola
+dwardiola collected $0.13 from pot
+dwardiola: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs folded before Flop (didn't bet)
+Seat 3: Luigiams folded before Flop
+Seat 4: Mes1994 folded before Flop
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: slipfinger72 (small blind) folded before Flop
+Seat 8: dwardiola (big blind) collected ($0.13)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559619376:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:31:54 PT [2021/12/26 23:31:54 ET]
+Table 'Nephthys IV' 9-max Seat #7 is the button
+Seat 1: Maverick1924 ($1.87 in chips) 
+Seat 2: 4remmacs ($1.83 in chips) 
+Seat 3: Luigiams ($1.81 in chips) 
+Seat 4: Mes1994 ($0.95 in chips) 
+Seat 5: SrO157 ($1.09 in chips) 
+Seat 6: Dorex2007 ($2.33 in chips) 
+Seat 7: slipfinger72 ($4.57 in chips) 
+Seat 8: dwardiola ($3.04 in chips) 
+Seat 9: outasrf ($1.96 in chips) 
+dwardiola: posts small blind $0.01
+outasrf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Qd]
+Maverick1924: folds 
+4remmacs: calls $0.02
+Luigiams: folds 
+Mes1994: folds 
+SrO157: folds 
+Dorex2007: raises $0.08 to $0.10
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+4remmacs: folds 
+Uncalled bet ($0.08) returned to Dorex2007
+Dorex2007 collected $0.07 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs folded before Flop
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: Mes1994 folded before Flop (didn't bet)
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 collected ($0.07)
+Seat 7: slipfinger72 (button) folded before Flop (didn't bet)
+Seat 8: dwardiola (small blind) folded before Flop
+Seat 9: outasrf (big blind) folded before Flop
+
+
+
+PokerStars Hand #232559624789:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:32:24 PT [2021/12/26 23:32:24 ET]
+Table 'Nephthys IV' 9-max Seat #8 is the button
+Seat 1: Maverick1924 ($1.87 in chips) 
+Seat 2: 4remmacs ($1.81 in chips) 
+Seat 3: Luigiams ($1.81 in chips) 
+Seat 4: Mes1994 ($0.95 in chips) 
+Seat 5: SrO157 ($1.09 in chips) 
+Seat 6: Dorex2007 ($2.38 in chips) 
+Seat 7: slipfinger72 ($4.57 in chips) 
+Seat 8: dwardiola ($3.03 in chips) 
+Seat 9: outasrf ($1.94 in chips) 
+outasrf: posts small blind $0.01
+Maverick1924: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 7h]
+4remmacs: folds 
+Luigiams: folds 
+Mes1994: folds 
+SrO157: raises $0.04 to $0.06
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+Uncalled bet ($0.04) returned to SrO157
+SrO157 collected $0.05 from pot
+SrO157: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Maverick1924 (big blind) folded before Flop
+Seat 2: 4remmacs folded before Flop (didn't bet)
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: Mes1994 folded before Flop (didn't bet)
+Seat 5: SrO157 collected ($0.05)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola (button) folded before Flop (didn't bet)
+Seat 9: outasrf (small blind) folded before Flop
+
+
+
+PokerStars Hand #232559629761:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:32:51 PT [2021/12/26 23:32:51 ET]
+Table 'Nephthys IV' 9-max Seat #9 is the button
+Seat 1: Maverick1924 ($1.85 in chips) 
+Seat 2: 4remmacs ($1.81 in chips) 
+Seat 3: Luigiams ($1.81 in chips) 
+Seat 4: Mes1994 ($0.95 in chips) 
+Seat 5: SrO157 ($1.12 in chips) 
+Seat 6: Dorex2007 ($2.38 in chips) 
+Seat 7: slipfinger72 ($4.57 in chips) 
+Seat 8: dwardiola ($3.03 in chips) 
+Seat 9: outasrf ($1.93 in chips) 
+Maverick1924: posts small blind $0.01
+4remmacs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 6s]
+Luigiams: folds 
+Mes1994: folds 
+SrO157: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: raises $0.04 to $0.06
+outasrf: folds 
+Maverick1924: calls $0.05
+4remmacs: calls $0.04
+*** FLOP *** [3h 8h Td]
+Maverick1924: checks 
+4remmacs: bets $0.06
+dwardiola: folds 
+Maverick1924: calls $0.06
+*** TURN *** [3h 8h Td] [Kd]
+Maverick1924: checks 
+4remmacs: bets $0.10
+Maverick1924: raises $0.10 to $0.20
+4remmacs: calls $0.10
+*** RIVER *** [3h 8h Td Kd] [4h]
+Maverick1924: bets $0.51
+4remmacs: folds 
+Uncalled bet ($0.51) returned to Maverick1924
+Maverick1924 collected $0.68 from pot
+Maverick1924: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.02 
+Board [3h 8h Td Kd 4h]
+Seat 1: Maverick1924 (small blind) collected ($0.68)
+Seat 2: 4remmacs (big blind) folded on the River
+Seat 3: Luigiams folded before Flop (didn't bet)
+Seat 4: Mes1994 folded before Flop (didn't bet)
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded on the Flop
+Seat 9: outasrf (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559645814:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:34:18 PT [2021/12/26 23:34:18 ET]
+Table 'Nephthys IV' 9-max Seat #1 is the button
+Seat 1: Maverick1924 ($2.21 in chips) 
+Seat 2: 4remmacs ($1.49 in chips) 
+Seat 4: Mes1994 ($0.95 in chips) 
+Seat 5: SrO157 ($1.12 in chips) 
+Seat 6: Dorex2007 ($2.38 in chips) 
+Seat 7: slipfinger72 ($4.57 in chips) 
+Seat 8: dwardiola ($2.97 in chips) 
+Seat 9: outasrf ($1.93 in chips) 
+4remmacs: posts small blind $0.01
+Luigiams: is sitting out 
+Mes1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 7c]
+Luigiams leaves the table
+SrO157: folds 
+Dorex2007: folds 
+Thales Dente joins the table at seat #3 
+slipfinger72: calls $0.02
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: raises $0.02 to $0.04
+4remmacs: calls $0.03
+Mes1994: calls $0.02
+slipfinger72: calls $0.02
+*** FLOP *** [9c 6c 4c]
+4remmacs: checks 
+Mes1994: checks 
+slipfinger72: checks 
+Maverick1924: checks 
+*** TURN *** [9c 6c 4c] [Ac]
+4remmacs: checks 
+Mes1994: bets $0.06
+slipfinger72: folds 
+Maverick1924: folds 
+4remmacs: folds 
+Uncalled bet ($0.06) returned to Mes1994
+Mes1994 collected $0.15 from pot
+Mes1994: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [9c 6c 4c Ac]
+Seat 1: Maverick1924 (button) folded on the Turn
+Seat 2: 4remmacs (small blind) folded on the Turn
+Seat 4: Mes1994 (big blind) collected ($0.15)
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded on the Turn
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559661394:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:35:42 PT [2021/12/26 23:35:42 ET]
+Table 'Nephthys IV' 9-max Seat #2 is the button
+Seat 1: Maverick1924 ($2.17 in chips) 
+Seat 2: 4remmacs ($1.45 in chips) 
+Seat 4: Mes1994 ($1.06 in chips) 
+Seat 6: Dorex2007 ($2.38 in chips) 
+Seat 7: slipfinger72 ($4.53 in chips) 
+Seat 8: dwardiola ($2.97 in chips) 
+Seat 9: outasrf ($1.93 in chips) 
+Mes1994: posts small blind $0.01
+SrO157: is sitting out 
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 7d]
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+4remmacs: raises $0.02 to $0.04
+Mes1994: folds 
+Dorex2007: calls $0.02
+*** FLOP *** [7c 5d 8d]
+Dorex2007: checks 
+4remmacs: checks 
+*** TURN *** [7c 5d 8d] [5h]
+Dorex2007: bets $0.09
+4remmacs: folds 
+Uncalled bet ($0.09) returned to Dorex2007
+Dorex2007 collected $0.09 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [7c 5d 8d 5h]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs (button) folded on the Turn
+Seat 4: Mes1994 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) collected ($0.09)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559676355:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:36:17 PT [2021/12/26 23:36:17 ET]
+Table 'Nephthys IV' 9-max Seat #4 is the button
+Seat 1: Maverick1924 ($2.17 in chips) 
+Seat 2: 4remmacs ($1.41 in chips) 
+Seat 3: Thales Dente ($1.10 in chips) 
+Seat 4: Mes1994 ($1.05 in chips) 
+Seat 6: Dorex2007 ($2.43 in chips) 
+Seat 7: slipfinger72 ($4.53 in chips) 
+Seat 8: dwardiola ($2.97 in chips) 
+Seat 9: outasrf ($1.93 in chips) 
+Dorex2007: posts small blind $0.01
+slipfinger72: posts big blind $0.02
+Thales Dente: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 4s]
+dwardiola: folds 
+outasrf: folds 
+Maverick1924 has timed out
+Maverick1924: folds 
+4remmacs: calls $0.02
+Thales Dente: checks 
+Mes1994: raises $0.04 to $0.06
+Dorex2007: folds 
+slipfinger72: folds 
+4remmacs: calls $0.04
+Thales Dente: folds 
+*** FLOP *** [Ks 5d Kh]
+4remmacs: checks 
+Mes1994: bets $0.08
+4remmacs: folds 
+Uncalled bet ($0.08) returned to Mes1994
+Mes1994 collected $0.16 from pot
+Mes1994: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Ks 5d Kh]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs folded on the Flop
+Seat 3: Thales Dente folded before Flop (didn't bet)
+Seat 4: Mes1994 (button) collected ($0.16)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: slipfinger72 (big blind) folded before Flop
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559686875:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:37:14 PT [2021/12/26 23:37:14 ET]
+Table 'Nephthys IV' 9-max Seat #6 is the button
+Seat 1: Maverick1924 ($2.17 in chips) 
+Seat 2: 4remmacs ($1.35 in chips) 
+Seat 3: Thales Dente ($1.08 in chips) 
+Seat 4: Mes1994 ($1.15 in chips) 
+Seat 5: SrO157 ($1.12 in chips) 
+Seat 6: Dorex2007 ($2.42 in chips) 
+Seat 7: slipfinger72 ($4.51 in chips) 
+Seat 8: dwardiola ($2.97 in chips) 
+Seat 9: outasrf ($1.93 in chips) 
+slipfinger72: posts small blind $0.01
+dwardiola: posts big blind $0.02
+SrO157: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad Jd]
+outasrf: folds 
+Maverick1924: folds 
+4remmacs: folds 
+Thales Dente: raises $0.02 to $0.04
+Mes1994: raises $0.06 to $0.10
+SrO157: calls $0.08
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+Thales Dente: raises $0.06 to $0.16
+Mes1994: calls $0.06
+SrO157: calls $0.06
+*** FLOP *** [4s 6c Kh]
+4remmacs leaves the table
+Koksmix87 joins the table at seat #2 
+Thales Dente: bets $0.26
+Mes1994: raises $0.73 to $0.99 and is all-in
+SrO157: folds 
+Thales Dente: calls $0.66 and is all-in
+Uncalled bet ($0.07) returned to Mes1994
+*** TURN *** [4s 6c Kh] [7d]
+*** RIVER *** [4s 6c Kh 7d] [Qd]
+*** SHOW DOWN ***
+Thales Dente: shows [Kc 9c] (a pair of Kings)
+Mes1994: shows [Ts Tc] (a pair of Tens)
+Thales Dente collected $2.28 from pot
+Mes1994 cashed out the hand for $0.20
+*** SUMMARY ***
+Total pot $2.36 | Rake $0.08 
+Board [4s 6c Kh 7d Qd]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: 4remmacs folded before Flop (didn't bet)
+Seat 3: Thales Dente showed [Kc 9c] and won ($2.28) with a pair of Kings
+Seat 4: Mes1994 showed [Ts Tc] and lost with a pair of Tens (cashed out).
+Seat 5: SrO157 folded on the Flop
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: slipfinger72 (small blind) folded before Flop
+Seat 8: dwardiola (big blind) folded before Flop
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559700900:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:38:30 PT [2021/12/26 23:38:30 ET]
+Table 'Nephthys IV' 9-max Seat #7 is the button
+Seat 1: Maverick1924 ($2.17 in chips) 
+Seat 3: Thales Dente ($2.28 in chips) 
+Seat 4: Mes1994 ($0.27 in chips) 
+Seat 5: SrO157 ($0.95 in chips) 
+Seat 6: Dorex2007 ($2.42 in chips) 
+Seat 7: slipfinger72 ($4.50 in chips) 
+Seat 8: dwardiola ($2.95 in chips) 
+Seat 9: outasrf ($1.93 in chips) 
+dwardiola: posts small blind $0.01
+outasrf: posts big blind $0.02
+Koksmix87: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 3s]
+Maverick1924: folds 
+Thales Dente: folds 
+Mes1994: folds 
+SrO157: folds 
+Dorex2007: folds 
+slipfinger72: raises $0.04 to $0.06
+dwardiola: folds 
+outasrf: calls $0.04
+*** FLOP *** [9h 6s 4h]
+outasrf: checks 
+slipfinger72: bets $0.09
+outasrf: folds 
+Uncalled bet ($0.09) returned to slipfinger72
+slipfinger72 collected $0.13 from pot
+slipfinger72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9h 6s 4h]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 3: Thales Dente folded before Flop (didn't bet)
+Seat 4: Mes1994 folded before Flop (didn't bet)
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 (button) collected ($0.13)
+Seat 8: dwardiola (small blind) folded before Flop
+Seat 9: outasrf (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232559707553:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:39:06 PT [2021/12/26 23:39:06 ET]
+Table 'Nephthys IV' 9-max Seat #8 is the button
+Seat 1: Maverick1924 ($2.17 in chips) 
+Seat 3: Thales Dente ($2.28 in chips) 
+Seat 4: Mes1994 ($0.27 in chips) 
+Seat 5: SrO157 ($0.95 in chips) 
+Seat 6: Dorex2007 ($2.42 in chips) 
+Seat 7: slipfinger72 ($4.57 in chips) 
+Seat 8: dwardiola ($2.94 in chips) 
+Seat 9: outasrf ($1.87 in chips) 
+outasrf: posts small blind $0.01
+Maverick1924: posts big blind $0.02
+Koksmix87: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 2h]
+Thales Dente: folds 
+Mes1994: folds 
+Thales Dente leaves the table
+No]I[bIk joins the table at seat #3 
+SrO157 has timed out
+SrO157: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: raises $0.04 to $0.06
+outasrf: folds 
+Maverick1924: folds 
+Uncalled bet ($0.04) returned to dwardiola
+dwardiola collected $0.05 from pot
+dwardiola: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Maverick1924 (big blind) folded before Flop
+Seat 3: Thales Dente folded before Flop (didn't bet)
+Seat 4: Mes1994 folded before Flop (didn't bet)
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola (button) collected ($0.05)
+Seat 9: outasrf (small blind) folded before Flop
+
+
+
+PokerStars Hand #232559713371:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:39:38 PT [2021/12/26 23:39:38 ET]
+Table 'Nephthys IV' 9-max Seat #9 is the button
+Seat 1: Maverick1924 ($2.15 in chips) 
+Seat 2: Koksmix87 ($2 in chips) 
+Seat 4: Mes1994 ($0.27 in chips) 
+Seat 5: SrO157 ($0.95 in chips) 
+Seat 6: Dorex2007 ($2.42 in chips) 
+Seat 7: slipfinger72 ($4.57 in chips) 
+Seat 8: dwardiola ($2.97 in chips) 
+Seat 9: outasrf ($1.86 in chips) 
+Maverick1924: posts small blind $0.01
+Koksmix87: posts big blind $0.02
+No]I[bIk: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 2s]
+Mes1994: raises $0.04 to $0.06
+SrO157: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+Koksmix87: folds 
+Uncalled bet ($0.04) returned to Mes1994
+Mes1994 collected $0.05 from pot
+Mes1994: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Maverick1924 (small blind) folded before Flop
+Seat 2: Koksmix87 (big blind) folded before Flop
+Seat 4: Mes1994 collected ($0.05)
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559716037:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:39:52 PT [2021/12/26 23:39:52 ET]
+Table 'Nephthys IV' 9-max Seat #1 is the button
+Seat 1: Maverick1924 ($2.14 in chips) 
+Seat 2: Koksmix87 ($2 in chips) 
+Seat 3: No]I[bIk ($2 in chips) 
+Seat 4: Mes1994 ($0.30 in chips) 
+Seat 5: SrO157 ($0.95 in chips) 
+Seat 6: Dorex2007 ($2.42 in chips) 
+Seat 7: slipfinger72 ($4.57 in chips) 
+Seat 8: dwardiola ($2.97 in chips) 
+Seat 9: outasrf ($1.86 in chips) 
+Koksmix87: posts small blind $0.01
+No]I[bIk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 7d]
+Mes1994: folds 
+SrO157: raises $0.03 to $0.05
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+Koksmix87: folds 
+No]I[bIk: folds 
+Uncalled bet ($0.03) returned to SrO157
+SrO157 collected $0.05 from pot
+SrO157: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Maverick1924 (button) folded before Flop (didn't bet)
+Seat 2: Koksmix87 (small blind) folded before Flop
+Seat 3: No]I[bIk (big blind) folded before Flop
+Seat 4: Mes1994 folded before Flop (didn't bet)
+Seat 5: SrO157 collected ($0.05)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559720553:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:40:17 PT [2021/12/26 23:40:17 ET]
+Table 'Nephthys IV' 9-max Seat #2 is the button
+Seat 1: Maverick1924 ($2.14 in chips) 
+Seat 2: Koksmix87 ($2 in chips) 
+Seat 3: No]I[bIk ($2 in chips) 
+Seat 4: Mes1994 ($0.30 in chips) 
+Seat 5: SrO157 ($0.98 in chips) 
+Seat 6: Dorex2007 ($2.42 in chips) 
+Seat 7: slipfinger72 ($4.57 in chips) 
+Seat 8: dwardiola ($2.97 in chips) 
+Seat 9: outasrf ($1.86 in chips) 
+No]I[bIk: posts small blind $0.01
+Mes1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 6d]
+SrO157: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+Koksmix87: folds 
+No]I[bIk has timed out
+No]I[bIk: folds 
+Uncalled bet ($0.01) returned to Mes1994
+Mes1994 collected $0.02 from pot
+Mes1994: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: Koksmix87 (button) folded before Flop (didn't bet)
+Seat 3: No]I[bIk (small blind) folded before Flop
+Seat 4: Mes1994 (big blind) collected ($0.02)
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559728490:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:41:01 PT [2021/12/26 23:41:01 ET]
+Table 'Nephthys IV' 9-max Seat #3 is the button
+Seat 1: Maverick1924 ($2.14 in chips) 
+Seat 2: Koksmix87 ($2 in chips) 
+Seat 3: No]I[bIk ($2 in chips) 
+Seat 4: Mes1994 ($0.31 in chips) 
+Seat 5: SrO157 ($0.98 in chips) 
+Seat 6: Dorex2007 ($2.42 in chips) 
+Seat 7: slipfinger72 ($4.57 in chips) 
+Seat 8: dwardiola ($2.97 in chips) 
+Seat 9: outasrf ($1.86 in chips) 
+Mes1994: posts small blind $0.01
+SrO157: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 6c]
+Dorex2007: folds 
+slipfinger72: raises $0.04 to $0.06
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+Koksmix87: folds 
+No]I[bIk: folds 
+Mes1994: folds 
+SrO157: folds 
+Uncalled bet ($0.04) returned to slipfinger72
+slipfinger72 collected $0.05 from pot
+slipfinger72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: Koksmix87 folded before Flop (didn't bet)
+Seat 3: No]I[bIk (button) folded before Flop (didn't bet)
+Seat 4: Mes1994 (small blind) folded before Flop
+Seat 5: SrO157 (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 collected ($0.05)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559733752:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:41:29 PT [2021/12/26 23:41:29 ET]
+Table 'Nephthys IV' 9-max Seat #4 is the button
+Seat 1: Maverick1924 ($2.14 in chips) 
+Seat 2: Koksmix87 ($2 in chips) 
+Seat 3: No]I[bIk ($2 in chips) 
+Seat 4: Mes1994 ($0.30 in chips) 
+Seat 5: SrO157 ($0.96 in chips) 
+Seat 6: Dorex2007 ($2.42 in chips) 
+Seat 7: slipfinger72 ($4.60 in chips) 
+Seat 8: dwardiola ($2.97 in chips) 
+Seat 9: outasrf ($1.86 in chips) 
+SrO157: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 2d]
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+Koksmix87: raises $0.04 to $0.06
+No]I[bIk: folds 
+Mes1994: folds 
+SrO157: calls $0.05
+Dorex2007: folds 
+*** FLOP *** [Js 4d Ad]
+SrO157: bets $0.07
+Koksmix87: raises $1.87 to $1.94 and is all-in
+SrO157: folds 
+Uncalled bet ($1.87) returned to Koksmix87
+Koksmix87 collected $0.27 from pot
+Koksmix87: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Js 4d Ad]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: Koksmix87 collected ($0.27)
+Seat 3: No]I[bIk folded before Flop (didn't bet)
+Seat 4: Mes1994 (button) folded before Flop (didn't bet)
+Seat 5: SrO157 (small blind) folded on the Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559739562:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:42:01 PT [2021/12/26 23:42:01 ET]
+Table 'Nephthys IV' 9-max Seat #5 is the button
+Seat 1: Maverick1924 ($2.14 in chips) 
+Seat 2: Koksmix87 ($2.14 in chips) 
+Seat 3: No]I[bIk ($2 in chips) 
+Seat 4: Mes1994 ($0.30 in chips) 
+Seat 5: SrO157 ($0.83 in chips) 
+Seat 6: Dorex2007 ($2.40 in chips) 
+Seat 7: slipfinger72 ($4.60 in chips) 
+Seat 8: dwardiola ($2.97 in chips) 
+Seat 9: outasrf ($1.86 in chips) 
+Dorex2007: posts small blind $0.01
+slipfinger72: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 4d]
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+Koksmix87: folds 
+No]I[bIk: folds 
+Mes1994: folds 
+SrO157: raises $0.04 to $0.06
+Dorex2007: folds 
+slipfinger72: folds 
+Uncalled bet ($0.04) returned to SrO157
+SrO157 collected $0.05 from pot
+SrO157: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: Koksmix87 folded before Flop (didn't bet)
+Seat 3: No]I[bIk folded before Flop (didn't bet)
+Seat 4: Mes1994 folded before Flop (didn't bet)
+Seat 5: SrO157 (button) collected ($0.05)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: slipfinger72 (big blind) folded before Flop
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559745544:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:42:33 PT [2021/12/26 23:42:33 ET]
+Table 'Nephthys IV' 9-max Seat #6 is the button
+Seat 1: Maverick1924 ($2.14 in chips) 
+Seat 2: Koksmix87 ($2.14 in chips) 
+Seat 3: No]I[bIk ($2 in chips) 
+Seat 4: Mes1994 ($0.30 in chips) 
+Seat 5: SrO157 ($0.86 in chips) 
+Seat 6: Dorex2007 ($2.39 in chips) 
+Seat 7: slipfinger72 ($4.58 in chips) 
+Seat 8: dwardiola ($2.97 in chips) 
+Seat 9: outasrf ($1.86 in chips) 
+slipfinger72: posts small blind $0.01
+dwardiola: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 9c]
+outasrf: folds 
+Maverick1924: raises $0.03 to $0.05
+Koksmix87: calls $0.05
+No]I[bIk: folds 
+Mes1994: folds 
+SrO157: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+*** FLOP *** [5s 8d Ad]
+Maverick1924: bets $0.10
+Koksmix87: folds 
+Uncalled bet ($0.10) returned to Maverick1924
+Maverick1924 collected $0.13 from pot
+Maverick1924: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5s 8d Ad]
+Seat 1: Maverick1924 collected ($0.13)
+Seat 2: Koksmix87 folded on the Flop
+Seat 3: No]I[bIk folded before Flop (didn't bet)
+Seat 4: Mes1994 folded before Flop (didn't bet)
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: slipfinger72 (small blind) folded before Flop
+Seat 8: dwardiola (big blind) folded before Flop
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559752949:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:43:14 PT [2021/12/26 23:43:14 ET]
+Table 'Nephthys IV' 9-max Seat #7 is the button
+Seat 1: Maverick1924 ($2.22 in chips) 
+Seat 2: Koksmix87 ($2.09 in chips) 
+Seat 3: No]I[bIk ($2 in chips) 
+Seat 4: Mes1994 ($0.30 in chips) 
+Seat 5: SrO157 ($0.86 in chips) 
+Seat 6: Dorex2007 ($2.39 in chips) 
+Seat 7: slipfinger72 ($4.57 in chips) 
+Seat 8: dwardiola ($2.95 in chips) 
+Seat 9: outasrf ($1.86 in chips) 
+dwardiola: posts small blind $0.01
+outasrf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 5h]
+Maverick1924: folds 
+Koksmix87: folds 
+No]I[bIk: folds 
+Mes1994: folds 
+SrO157: raises $0.04 to $0.06
+Dorex2007: folds 
+slipfinger72: calls $0.06
+dwardiola: folds 
+outasrf: folds 
+*** FLOP *** [2d 7d 5s]
+SrO157: bets $0.07
+slipfinger72: folds 
+Uncalled bet ($0.07) returned to SrO157
+SrO157 collected $0.14 from pot
+SrO157: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2d 7d 5s]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: Koksmix87 folded before Flop (didn't bet)
+Seat 3: No]I[bIk folded before Flop (didn't bet)
+Seat 4: Mes1994 folded before Flop (didn't bet)
+Seat 5: SrO157 collected ($0.14)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 (button) folded on the Flop
+Seat 8: dwardiola (small blind) folded before Flop
+Seat 9: outasrf (big blind) folded before Flop
+
+
+
+PokerStars Hand #232559758350:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:43:44 PT [2021/12/26 23:43:44 ET]
+Table 'Nephthys IV' 9-max Seat #8 is the button
+Seat 1: Maverick1924 ($2.22 in chips) 
+Seat 2: Koksmix87 ($2.09 in chips) 
+Seat 3: No]I[bIk ($2 in chips) 
+Seat 4: Mes1994 ($0.30 in chips) 
+Seat 5: SrO157 ($0.94 in chips) 
+Seat 6: Dorex2007 ($2.39 in chips) 
+Seat 7: slipfinger72 ($4.51 in chips) 
+Seat 8: dwardiola ($2.94 in chips) 
+Seat 9: outasrf ($1.84 in chips) 
+outasrf: posts small blind $0.01
+Maverick1924: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 2s]
+Koksmix87: folds 
+No]I[bIk has timed out
+No]I[bIk: folds 
+Mes1994: raises $0.04 to $0.06
+SrO157: calls $0.06
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+*** FLOP *** [Ks Jd Th]
+Mes1994: bets $0.08
+SrO157: calls $0.08
+*** TURN *** [Ks Jd Th] [Ac]
+Mes1994: bets $0.16 and is all-in
+SrO157: folds 
+Uncalled bet ($0.16) returned to Mes1994
+Mes1994 collected $0.30 from pot
+Mes1994: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Ks Jd Th Ac]
+Seat 1: Maverick1924 (big blind) folded before Flop
+Seat 2: Koksmix87 folded before Flop (didn't bet)
+Seat 3: No]I[bIk folded before Flop (didn't bet)
+Seat 4: Mes1994 collected ($0.30)
+Seat 5: SrO157 folded on the Turn
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola (button) folded before Flop (didn't bet)
+Seat 9: outasrf (small blind) folded before Flop
+
+
+
+PokerStars Hand #232559767791:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:44:36 PT [2021/12/26 23:44:36 ET]
+Table 'Nephthys IV' 9-max Seat #9 is the button
+Seat 1: Maverick1924 ($2.20 in chips) 
+Seat 2: Koksmix87 ($2.09 in chips) 
+Seat 3: No]I[bIk ($2 in chips) 
+Seat 4: Mes1994 ($0.46 in chips) 
+Seat 5: SrO157 ($0.80 in chips) 
+Seat 6: Dorex2007 ($2.39 in chips) 
+Seat 7: slipfinger72 ($4.51 in chips) 
+Seat 8: dwardiola ($2.94 in chips) 
+Seat 9: outasrf ($1.83 in chips) 
+Maverick1924: posts small blind $0.01
+Koksmix87: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 9c]
+No]I[bIk: folds 
+Mes1994: folds 
+SrO157: folds 
+Dorex2007: folds 
+slipfinger72: raises $0.04 to $0.06
+dwardiola: calls $0.06
+outasrf: folds 
+Maverick1924: folds 
+Koksmix87: folds 
+*** FLOP *** [3s Js 9s]
+slipfinger72: checks 
+dwardiola: checks 
+*** TURN *** [3s Js 9s] [Jc]
+slipfinger72: checks 
+dwardiola: checks 
+*** RIVER *** [3s Js 9s Jc] [Jh]
+slipfinger72: checks 
+dwardiola: bets $0.03
+slipfinger72: calls $0.03
+*** SHOW DOWN ***
+dwardiola: shows [Ts As] (a flush, Ace high)
+slipfinger72: shows [4h 4d] (a full house, Jacks full of Fours)
+slipfinger72 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [3s Js 9s Jc Jh]
+Seat 1: Maverick1924 (small blind) folded before Flop
+Seat 2: Koksmix87 (big blind) folded before Flop
+Seat 3: No]I[bIk folded before Flop (didn't bet)
+Seat 4: Mes1994 folded before Flop (didn't bet)
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 showed [4h 4d] and won ($0.20) with a full house, Jacks full of Fours
+Seat 8: dwardiola showed [Ts As] and lost with a flush, Ace high
+Seat 9: outasrf (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559781423:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:45:19 PT [2021/12/26 23:45:19 ET]
+Table 'Nephthys IV' 9-max Seat #1 is the button
+Seat 1: Maverick1924 ($2.19 in chips) 
+Seat 2: Koksmix87 ($2.07 in chips) 
+Seat 3: No]I[bIk ($2 in chips) 
+Seat 4: Mes1994 ($0.46 in chips) 
+Seat 5: SrO157 ($0.80 in chips) 
+Seat 6: Dorex2007 ($2.39 in chips) 
+Seat 7: slipfinger72 ($4.62 in chips) 
+Seat 8: dwardiola ($2.85 in chips) 
+Seat 9: outasrf ($1.83 in chips) 
+Koksmix87: posts small blind $0.01
+No]I[bIk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 4c]
+Mes1994: folds 
+SrO157: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: raises $0.03 to $0.05
+Koksmix87: folds 
+No]I[bIk: folds 
+Uncalled bet ($0.03) returned to Maverick1924
+Maverick1924 collected $0.05 from pot
+Maverick1924: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Maverick1924 (button) collected ($0.05)
+Seat 2: Koksmix87 (small blind) folded before Flop
+Seat 3: No]I[bIk (big blind) folded before Flop
+Seat 4: Mes1994 folded before Flop (didn't bet)
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559785267:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:45:41 PT [2021/12/26 23:45:41 ET]
+Table 'Nephthys IV' 9-max Seat #2 is the button
+Seat 1: Maverick1924 ($2.22 in chips) 
+Seat 2: Koksmix87 ($2.06 in chips) 
+Seat 3: No]I[bIk ($2 in chips) 
+Seat 4: Mes1994 ($0.46 in chips) 
+Seat 5: SrO157 ($0.80 in chips) 
+Seat 6: Dorex2007 ($2.39 in chips) 
+Seat 7: slipfinger72 ($4.62 in chips) 
+Seat 8: dwardiola ($2.85 in chips) 
+Seat 9: outasrf ($1.83 in chips) 
+No]I[bIk: posts small blind $0.01
+Mes1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Jh]
+SrO157: folds 
+Dorex2007: calls $0.02
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+Koksmix87: folds 
+No]I[bIk: folds 
+Mes1994: checks 
+*** FLOP *** [4c 5d 8s]
+Mes1994: bets $0.04
+Dorex2007: calls $0.04
+*** TURN *** [4c 5d 8s] [Qc]
+Mes1994: bets $0.08
+Dorex2007: folds 
+Uncalled bet ($0.08) returned to Mes1994
+Mes1994 collected $0.13 from pot
+Mes1994: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4c 5d 8s Qc]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: Koksmix87 (button) folded before Flop (didn't bet)
+Seat 3: No]I[bIk (small blind) folded before Flop
+Seat 4: Mes1994 (big blind) collected ($0.13)
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded on the Turn
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559795276:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:46:36 PT [2021/12/26 23:46:36 ET]
+Table 'Nephthys IV' 9-max Seat #3 is the button
+Seat 1: Maverick1924 ($2.22 in chips) 
+Seat 2: Koksmix87 ($2.06 in chips) 
+Seat 3: No]I[bIk ($2 in chips) 
+Seat 4: Mes1994 ($0.53 in chips) 
+Seat 5: SrO157 ($0.80 in chips) 
+Seat 6: Dorex2007 ($2.33 in chips) 
+Seat 7: slipfinger72 ($4.62 in chips) 
+Seat 8: dwardiola ($2.85 in chips) 
+Seat 9: outasrf ($1.83 in chips) 
+Mes1994: posts small blind $0.01
+SrO157: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 8c]
+Dorex2007: folds 
+slipfinger72: raises $0.04 to $0.06
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+Koksmix87: folds 
+No]I[bIk: folds 
+Mes1994: folds 
+SrO157: calls $0.04
+*** FLOP *** [Jd 9s 2d]
+SrO157: bets $0.06
+slipfinger72: calls $0.06
+*** TURN *** [Jd 9s 2d] [6s]
+SrO157: bets $0.12
+slipfinger72: calls $0.12
+*** RIVER *** [Jd 9s 2d 6s] [Ad]
+SrO157: checks 
+slipfinger72: checks 
+*** SHOW DOWN ***
+SrO157: shows [7h Js] (a pair of Jacks)
+slipfinger72: mucks hand 
+SrO157 collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Jd 9s 2d 6s Ad]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: Koksmix87 folded before Flop (didn't bet)
+Seat 3: No]I[bIk (button) folded before Flop (didn't bet)
+Seat 4: Mes1994 (small blind) folded before Flop
+Seat 5: SrO157 (big blind) showed [7h Js] and won ($0.47) with a pair of Jacks
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 mucked [9c Tc]
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559806305:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:47:37 PT [2021/12/26 23:47:37 ET]
+Table 'Nephthys IV' 9-max Seat #4 is the button
+Seat 1: Maverick1924 ($2.22 in chips) 
+Seat 2: Koksmix87 ($2.06 in chips) 
+Seat 3: No]I[bIk ($2 in chips) 
+Seat 4: Mes1994 ($0.52 in chips) 
+Seat 5: SrO157 ($1.03 in chips) 
+Seat 6: Dorex2007 ($2.33 in chips) 
+Seat 7: slipfinger72 ($4.38 in chips) 
+Seat 8: dwardiola ($2.85 in chips) 
+Seat 9: outasrf ($1.83 in chips) 
+SrO157: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 3s]
+slipfinger72: raises $0.04 to $0.06
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+Koksmix87: folds 
+No]I[bIk: calls $0.06
+Mes1994: calls $0.06
+SrO157: calls $0.05
+Dorex2007: folds 
+*** FLOP *** [9s 8c 7h]
+SrO157: checks 
+slipfinger72: checks 
+No]I[bIk: bets $0.04
+Mes1994: raises $0.17 to $0.21
+SrO157: folds 
+slipfinger72: folds 
+No]I[bIk: folds 
+Uncalled bet ($0.17) returned to Mes1994
+Mes1994 collected $0.33 from pot
+Mes1994: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [9s 8c 7h]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: Koksmix87 folded before Flop (didn't bet)
+Seat 3: No]I[bIk folded on the Flop
+Seat 4: Mes1994 (button) collected ($0.33)
+Seat 5: SrO157 (small blind) folded on the Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: slipfinger72 folded on the Flop
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559816149:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:48:32 PT [2021/12/26 23:48:32 ET]
+Table 'Nephthys IV' 9-max Seat #5 is the button
+Seat 1: Maverick1924 ($2.22 in chips) 
+Seat 2: Koksmix87 ($2.06 in chips) 
+Seat 3: No]I[bIk ($2 in chips) 
+Seat 4: Mes1994 ($0.75 in chips) 
+Seat 5: SrO157 ($0.97 in chips) 
+Seat 6: Dorex2007 ($2.31 in chips) 
+Seat 7: slipfinger72 ($4.32 in chips) 
+Seat 8: dwardiola ($2.85 in chips) 
+Seat 9: outasrf ($1.83 in chips) 
+Dorex2007: posts small blind $0.01
+slipfinger72: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c Ah]
+dwardiola: raises $0.04 to $0.06
+outasrf: folds 
+Maverick1924: folds 
+Koksmix87: folds 
+No]I[bIk: folds 
+Mes1994: folds 
+SrO157: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+Uncalled bet ($0.04) returned to dwardiola
+dwardiola collected $0.05 from pot
+dwardiola: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: Koksmix87 folded before Flop (didn't bet)
+Seat 3: No]I[bIk folded before Flop (didn't bet)
+Seat 4: Mes1994 folded before Flop (didn't bet)
+Seat 5: SrO157 (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: slipfinger72 (big blind) folded before Flop
+Seat 8: dwardiola collected ($0.05)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559821246:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:49:01 PT [2021/12/26 23:49:01 ET]
+Table 'Nephthys IV' 9-max Seat #6 is the button
+Seat 1: Maverick1924 ($2.22 in chips) 
+Seat 2: Koksmix87 ($2.06 in chips) 
+Seat 3: No]I[bIk ($2 in chips) 
+Seat 4: Mes1994 ($0.75 in chips) 
+Seat 5: SrO157 ($0.97 in chips) 
+Seat 6: Dorex2007 ($2.30 in chips) 
+Seat 7: slipfinger72 ($4.30 in chips) 
+Seat 8: dwardiola ($2.88 in chips) 
+Seat 9: outasrf ($1.83 in chips) 
+slipfinger72: posts small blind $0.01
+dwardiola: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Tc]
+outasrf: folds 
+Maverick1924: folds 
+Koksmix87: folds 
+No]I[bIk: raises $0.04 to $0.06
+Mes1994: calls $0.06
+SrO157: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: calls $0.04
+*** FLOP *** [Kd 3s 6s]
+dwardiola: checks 
+No]I[bIk: bets $0.04
+Mes1994: raises $0.06 to $0.10
+dwardiola: calls $0.10
+No]I[bIk: calls $0.06
+*** TURN *** [Kd 3s 6s] [9d]
+dwardiola: checks 
+No]I[bIk: checks 
+Mes1994: checks 
+*** RIVER *** [Kd 3s 6s 9d] [5d]
+dwardiola: checks 
+No]I[bIk: checks 
+Mes1994: checks 
+*** SHOW DOWN ***
+dwardiola: shows [Ks 7c] (a pair of Kings)
+No]I[bIk: mucks hand 
+Mes1994: mucks hand 
+dwardiola collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Kd 3s 6s 9d 5d]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: Koksmix87 folded before Flop (didn't bet)
+Seat 3: No]I[bIk mucked [As Js]
+Seat 4: Mes1994 mucked [Qs 5s]
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: slipfinger72 (small blind) folded before Flop
+Seat 8: dwardiola (big blind) showed [Ks 7c] and won ($0.47) with a pair of Kings
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559832909:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:50:08 PT [2021/12/26 23:50:08 ET]
+Table 'Nephthys IV' 9-max Seat #7 is the button
+Seat 1: Maverick1924 ($2.22 in chips) 
+Seat 2: Koksmix87 ($2.06 in chips) 
+Seat 3: No]I[bIk ($2 in chips) 
+Seat 4: Mes1994 ($0.59 in chips) 
+Seat 5: SrO157 ($0.97 in chips) 
+Seat 6: Dorex2007 ($2.30 in chips) 
+Seat 7: slipfinger72 ($4.29 in chips) 
+Seat 8: dwardiola ($3.19 in chips) 
+Seat 9: outasrf ($1.83 in chips) 
+dwardiola: posts small blind $0.01
+outasrf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 8d]
+Maverick1924: folds 
+Koksmix87: folds 
+No]I[bIk: folds 
+Mes1994: raises $0.04 to $0.06
+SrO157: calls $0.06
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+*** FLOP *** [2h Th Qc]
+Mes1994: bets $0.07
+SrO157: calls $0.07
+*** TURN *** [2h Th Qc] [Ks]
+Mes1994: bets $0.14
+SrO157: calls $0.14
+*** RIVER *** [2h Th Qc Ks] [5h]
+Mes1994: bets $0.27
+SrO157: folds 
+Uncalled bet ($0.27) returned to Mes1994
+Mes1994 collected $0.55 from pot
+Mes1994: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [2h Th Qc Ks 5h]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 2: Koksmix87 folded before Flop (didn't bet)
+Seat 3: No]I[bIk folded before Flop (didn't bet)
+Seat 4: Mes1994 collected ($0.55)
+Seat 5: SrO157 folded on the River
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 (button) folded before Flop (didn't bet)
+Seat 8: dwardiola (small blind) folded before Flop
+Seat 9: outasrf (big blind) folded before Flop
+
+
+
+PokerStars Hand #232559844007:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:51:10 PT [2021/12/26 23:51:10 ET]
+Table 'Nephthys IV' 9-max Seat #8 is the button
+Seat 1: Maverick1924 ($2.22 in chips) 
+Seat 2: Koksmix87 ($2.06 in chips) 
+Seat 3: No]I[bIk ($2 in chips) 
+Seat 4: Mes1994 ($0.87 in chips) 
+Seat 5: SrO157 ($0.70 in chips) 
+Seat 6: Dorex2007 ($2.30 in chips) 
+Seat 7: slipfinger72 ($4.29 in chips) 
+Seat 8: dwardiola ($3.18 in chips) 
+Seat 9: outasrf ($1.81 in chips) 
+outasrf: posts small blind $0.01
+Maverick1924: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 2c]
+Koksmix87: folds 
+No]I[bIk: folds 
+Mes1994: folds 
+SrO157: raises $0.02 to $0.04
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+Uncalled bet ($0.02) returned to SrO157
+SrO157 collected $0.05 from pot
+SrO157: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Maverick1924 (big blind) folded before Flop
+Seat 2: Koksmix87 folded before Flop (didn't bet)
+Seat 3: No]I[bIk folded before Flop (didn't bet)
+Seat 4: Mes1994 folded before Flop (didn't bet)
+Seat 5: SrO157 collected ($0.05)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola (button) folded before Flop (didn't bet)
+Seat 9: outasrf (small blind) folded before Flop
+
+
+
+PokerStars Hand #232559848415:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:51:36 PT [2021/12/26 23:51:36 ET]
+Table 'Nephthys IV' 9-max Seat #9 is the button
+Seat 1: Maverick1924 ($2.20 in chips) 
+Seat 3: No]I[bIk ($2 in chips) 
+Seat 4: Mes1994 ($0.87 in chips) 
+Seat 5: SrO157 ($0.73 in chips) 
+Seat 6: Dorex2007 ($2.30 in chips) 
+Seat 7: slipfinger72 ($4.29 in chips) 
+Seat 8: dwardiola ($3.18 in chips) 
+Seat 9: outasrf ($1.80 in chips) 
+Maverick1924: posts small blind $0.01
+Koksmix87: is sitting out 
+Koksmix87 leaves the table
+No]I[bIk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Qs]
+Mes1994: folds 
+SrO157: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: raises $0.04 to $0.06
+outasrf: folds 
+Maverick1924: calls $0.05
+No]I[bIk: calls $0.04
+*** FLOP *** [Ac 6c Td]
+Maverick1924: checks 
+No]I[bIk: checks 
+dwardiola: bets $0.17
+Maverick1924: calls $0.17
+No]I[bIk: folds 
+*** TURN *** [Ac 6c Td] [Th]
+Maverick1924: checks 
+dwardiola: bets $0.25
+Maverick1924: folds 
+Uncalled bet ($0.25) returned to dwardiola
+dwardiola collected $0.50 from pot
+dwardiola: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [Ac 6c Td Th]
+Seat 1: Maverick1924 (small blind) folded on the Turn
+Seat 3: No]I[bIk (big blind) folded on the Flop
+Seat 4: Mes1994 folded before Flop (didn't bet)
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola collected ($0.50)
+Seat 9: outasrf (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559860606:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:52:45 PT [2021/12/26 23:52:45 ET]
+Table 'Nephthys IV' 9-max Seat #1 is the button
+Seat 1: Maverick1924 ($1.97 in chips) 
+Seat 3: No]I[bIk ($2 in chips) 
+Seat 4: Mes1994 ($0.87 in chips) 
+Seat 5: SrO157 ($0.73 in chips) 
+Seat 6: Dorex2007 ($2.30 in chips) 
+Seat 7: slipfinger72 ($4.29 in chips) 
+Seat 8: dwardiola ($3.45 in chips) 
+Seat 9: outasrf ($1.80 in chips) 
+No]I[bIk: posts small blind $0.01
+Mes1994: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Ac]
+SrO157: folds 
+Dorex2007: raises $0.04 to $0.06
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: calls $0.06
+No]I[bIk: folds 
+Mes1994: calls $0.04
+*** FLOP *** [8c Js 4d]
+Mes1994: checks 
+Dorex2007: bets $0.09
+Maverick1924: folds 
+Mes1994: folds 
+Uncalled bet ($0.09) returned to Dorex2007
+Dorex2007 collected $0.18 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [8c Js 4d]
+Seat 1: Maverick1924 (button) folded on the Flop
+Seat 3: No]I[bIk (small blind) folded before Flop
+Seat 4: Mes1994 (big blind) folded on the Flop
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 collected ($0.18)
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559868083:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:53:28 PT [2021/12/26 23:53:28 ET]
+Table 'Nephthys IV' 9-max Seat #3 is the button
+Seat 1: Maverick1924 ($1.91 in chips) 
+Seat 3: No]I[bIk ($2 in chips) 
+Seat 4: Mes1994 ($0.81 in chips) 
+Seat 5: SrO157 ($0.73 in chips) 
+Seat 6: Dorex2007 ($2.42 in chips) 
+Seat 7: slipfinger72 ($4.29 in chips) 
+Seat 8: dwardiola ($3.45 in chips) 
+Seat 9: outasrf ($1.80 in chips) 
+Mes1994: posts small blind $0.01
+SrO157: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Th]
+Dorex2007: calls $0.02
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+No]I[bIk: folds 
+Mes1994: raises $0.04 to $0.06
+SrO157: calls $0.04
+Dorex2007: folds 
+*** FLOP *** [4c 9c Kd]
+Mes1994: checks 
+SrO157: bets $0.07
+Mes1994: folds 
+Uncalled bet ($0.07) returned to SrO157
+SrO157 collected $0.14 from pot
+SrO157: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [4c 9c Kd]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 3: No]I[bIk (button) folded before Flop (didn't bet)
+Seat 4: Mes1994 (small blind) folded on the Flop
+Seat 5: SrO157 (big blind) collected ($0.14)
+Seat 6: Dorex2007 folded before Flop
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559875974:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:54:13 PT [2021/12/26 23:54:13 ET]
+Table 'Nephthys IV' 9-max Seat #4 is the button
+Seat 1: Maverick1924 ($1.91 in chips) 
+Seat 3: No]I[bIk ($2 in chips) 
+Seat 4: Mes1994 ($0.75 in chips) 
+Seat 5: SrO157 ($0.81 in chips) 
+Seat 6: Dorex2007 ($2.40 in chips) 
+Seat 7: slipfinger72 ($4.29 in chips) 
+Seat 8: dwardiola ($3.45 in chips) 
+Seat 9: outasrf ($1.80 in chips) 
+SrO157: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Th]
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: raises $0.04 to $0.06
+No]I[bIk: folds 
+Mes1994: folds 
+SrO157: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to Maverick1924
+Maverick1924 collected $0.05 from pot
+Maverick1924: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Maverick1924 collected ($0.05)
+Seat 3: No]I[bIk folded before Flop (didn't bet)
+Seat 4: Mes1994 (button) folded before Flop (didn't bet)
+Seat 5: SrO157 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: slipfinger72 folded before Flop (didn't bet)
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559880366:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:54:38 PT [2021/12/26 23:54:38 ET]
+Table 'Nephthys IV' 9-max Seat #5 is the button
+Seat 1: Maverick1924 ($1.94 in chips) 
+Seat 3: No]I[bIk ($2 in chips) 
+Seat 4: Mes1994 ($0.75 in chips) 
+Seat 5: SrO157 ($0.80 in chips) 
+Seat 6: Dorex2007 ($2.38 in chips) 
+Seat 7: slipfinger72 ($4.29 in chips) 
+Seat 8: dwardiola ($3.45 in chips) 
+Seat 9: outasrf ($1.80 in chips) 
+Dorex2007: posts small blind $0.01
+slipfinger72: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 7h]
+dwardiola: folds 
+outasrf: folds 
+Maverick1924: folds 
+No]I[bIk: folds 
+Mes1994: raises $0.04 to $0.06
+SrO157: raises $0.74 to $0.80 and is all-in
+Dorex2007: folds 
+slipfinger72: folds 
+Mes1994: calls $0.69 and is all-in
+Uncalled bet ($0.05) returned to SrO157
+*** FLOP *** [Kd Kh Ts]
+*** TURN *** [Kd Kh Ts] [9d]
+*** RIVER *** [Kd Kh Ts 9d] [7s]
+*** SHOW DOWN ***
+Mes1994: shows [As Qs] (a pair of Kings)
+SrO157: shows [Qd Qc] (two pair, Kings and Queens)
+SrO157 collected $1.48 from pot
+Mes1994 cashed out the hand for $0.50 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $1.53 | Rake $0.05 
+Board [Kd Kh Ts 9d 7s]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 3: No]I[bIk folded before Flop (didn't bet)
+Seat 4: Mes1994 showed [As Qs] and lost with a pair of Kings (cashed out).
+Seat 5: SrO157 (button) showed [Qd Qc] and won ($1.48) with two pair, Kings and Queens
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: slipfinger72 (big blind) folded before Flop
+Seat 8: dwardiola folded before Flop (didn't bet)
+Seat 9: outasrf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232559887947:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/26 20:55:24 PT [2021/12/26 23:55:24 ET]
+Table 'Nephthys IV' 9-max Seat #6 is the button
+Seat 1: Maverick1924 ($1.94 in chips) 
+Seat 3: No]I[bIk ($2 in chips) 
+Seat 4: Mes1994 ($0.50 in chips) 
+Seat 5: SrO157 ($1.53 in chips) 
+Seat 6: Dorex2007 ($2.37 in chips) 
+Seat 7: slipfinger72 ($4.27 in chips) 
+Seat 8: dwardiola ($3.45 in chips) 
+Seat 9: outasrf ($1.80 in chips) 
+slipfinger72: posts small blind $0.01
+dwardiola: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 2h]
+outasrf: calls $0.02
+Maverick1924: folds 
+No]I[bIk: raises $0.06 to $0.08
+edoschenko joins the table at seat #2 
+Mes1994: folds 
+SrO157: folds 
+Dorex2007: folds 
+slipfinger72: folds 
+dwardiola: folds 
+outasrf: calls $0.06
+*** FLOP *** [Qd 6s As]
+outasrf: checks 
+No]I[bIk: checks 
+*** TURN *** [Qd 6s As] [Kh]
+outasrf: checks 
+No]I[bIk: checks 
+*** RIVER *** [Qd 6s As Kh] [9d]
+outasrf: bets $0.02
+No]I[bIk: calls $0.02
+*** SHOW DOWN ***
+outasrf: shows [Js Qs] (a pair of Queens)
+No]I[bIk: mucks hand 
+outasrf collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Qd 6s As Kh 9d]
+Seat 1: Maverick1924 folded before Flop (didn't bet)
+Seat 3: No]I[bIk mucked [3d 3s]
+Seat 4: Mes1994 folded before Flop (didn't bet)
+Seat 5: SrO157 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: slipfinger72 (small blind) folded before Flop
+Seat 8: dwardiola (big blind) folded before Flop
+Seat 9: outasrf showed [Js Qs] and won ($0.22) with a pair of Queens
+
+
+

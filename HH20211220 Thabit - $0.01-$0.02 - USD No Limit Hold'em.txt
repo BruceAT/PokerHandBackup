@@ -1,0 +1,1236 @@
+﻿PokerStars Hand #232389738781:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:11:08 PT [2021/12/20 20:11:08 ET]
+Table 'Thabit' 9-max Seat #8 is the button
+Seat 1: urka_epu ($4.52 in chips) 
+Seat 3: 13nick2713 ($2.38 in chips) 
+Seat 4: rubenros962 ($2.17 in chips) 
+Seat 5: Muttley336 ($1.65 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: zssasa ($1.47 in chips) 
+Seat 9: Walkel ($2.29 in chips) 
+Walkel: posts small blind $0.01
+urka_epu: posts big blind $0.02
+Dukom: sits out 
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 7c]
+13nick2713: folds 
+rubenros962: folds 
+Muttley336: folds 
+NGC4725: folds 
+Dorex2007: raises $0.04 to $0.06
+zssasa: folds 
+Walkel: folds 
+urka_epu: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: urka_epu (big blind) folded before Flop
+Seat 3: 13nick2713 folded before Flop (didn't bet)
+Seat 4: rubenros962 folded before Flop (didn't bet)
+Seat 5: Muttley336 folded before Flop (didn't bet)
+Seat 6: NGC4725 folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.05)
+Seat 8: zssasa (button) folded before Flop (didn't bet)
+Seat 9: Walkel (small blind) folded before Flop
+
+
+
+PokerStars Hand #232389745837:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:11:33 PT [2021/12/20 20:11:33 ET]
+Table 'Thabit' 9-max Seat #9 is the button
+Seat 1: urka_epu ($4.50 in chips) 
+Seat 2: Dukom ($1.60 in chips) 
+Seat 3: 13nick2713 ($2.38 in chips) 
+Seat 4: rubenros962 ($2.17 in chips) 
+Seat 5: Muttley336 ($1.65 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.03 in chips) 
+Seat 8: zssasa ($1.47 in chips) 
+Seat 9: Walkel ($2.28 in chips) 
+urka_epu: posts small blind $0.01
+Dukom: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d Jc]
+13nick2713: folds 
+rubenros962 has timed out
+rubenros962: folds 
+Muttley336: folds 
+NGC4725: folds 
+Dorex2007: folds 
+zssasa: calls $0.02
+Walkel: folds 
+urka_epu: folds 
+Dukom: checks 
+*** FLOP *** [7c Qh 7s]
+Dukom: checks 
+zssasa: checks 
+*** TURN *** [7c Qh 7s] [4c]
+Dukom: checks 
+zssasa: checks 
+*** RIVER *** [7c Qh 7s 4c] [8c]
+Dukom: checks 
+zssasa: checks 
+*** SHOW DOWN ***
+Dukom: shows [4d Js] (two pair, Sevens and Fours)
+zssasa: mucks hand 
+Dukom collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [7c Qh 7s 4c 8c]
+Seat 1: urka_epu (small blind) folded before Flop
+Seat 2: Dukom (big blind) showed [4d Js] and won ($0.05) with two pair, Sevens and Fours
+Seat 3: 13nick2713 folded before Flop (didn't bet)
+Seat 4: rubenros962 folded before Flop (didn't bet)
+Seat 5: Muttley336 folded before Flop (didn't bet)
+Seat 6: NGC4725 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: zssasa mucked [9c Jd]
+Seat 9: Walkel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232389767370:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:12:42 PT [2021/12/20 20:12:42 ET]
+Table 'Thabit' 9-max Seat #1 is the button
+Seat 1: urka_epu ($4.49 in chips) 
+Seat 2: Dukom ($1.63 in chips) 
+Seat 3: 13nick2713 ($2.38 in chips) 
+Seat 4: rubenros962 ($2.17 in chips) 
+Seat 5: Muttley336 ($1.65 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.03 in chips) 
+Seat 8: zssasa ($1.45 in chips) 
+Seat 9: Walkel ($2.28 in chips) 
+Dukom: posts small blind $0.01
+13nick2713: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Ks]
+rubenros962: folds 
+Muttley336: folds 
+NGC4725: raises $0.04 to $0.06
+Dorex2007: folds 
+zssasa: calls $0.06
+Walkel: folds 
+urka_epu: folds 
+Dukom: folds 
+13nick2713: raises $0.20 to $0.26
+NGC4725: calls $0.20
+zssasa: folds 
+*** FLOP *** [As 7s Js]
+13nick2713: bets $0.19
+NGC4725: folds 
+Uncalled bet ($0.19) returned to 13nick2713
+13nick2713 collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.02 
+Board [As 7s Js]
+Seat 1: urka_epu (button) folded before Flop (didn't bet)
+Seat 2: Dukom (small blind) folded before Flop
+Seat 3: 13nick2713 (big blind) collected ($0.57)
+Seat 4: rubenros962 folded before Flop (didn't bet)
+Seat 5: Muttley336 folded before Flop (didn't bet)
+Seat 6: NGC4725 folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: zssasa folded before Flop
+Seat 9: Walkel folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232389782905:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:13:38 PT [2021/12/20 20:13:38 ET]
+Table 'Thabit' 9-max Seat #2 is the button
+Seat 1: urka_epu ($4.49 in chips) 
+Seat 2: Dukom ($1.62 in chips) 
+Seat 3: 13nick2713 ($2.69 in chips) 
+Seat 4: rubenros962 ($2.17 in chips) 
+Seat 5: Muttley336 ($1.65 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.03 in chips) 
+Seat 8: zssasa ($1.39 in chips) 
+Seat 9: Walkel ($2.28 in chips) 
+13nick2713: posts small blind $0.01
+rubenros962: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 7s]
+Muttley336: folds 
+NGC4725: folds 
+Dorex2007: folds 
+zssasa: folds 
+Walkel: folds 
+urka_epu: raises $0.04 to $0.06
+Dukom: folds 
+13nick2713: folds 
+rubenros962: calls $0.04
+*** FLOP *** [4c 3h Kd]
+rubenros962: checks 
+urka_epu: bets $0.06
+rubenros962: folds 
+Uncalled bet ($0.06) returned to urka_epu
+urka_epu collected $0.13 from pot
+urka_epu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4c 3h Kd]
+Seat 1: urka_epu collected ($0.13)
+Seat 2: Dukom (button) folded before Flop (didn't bet)
+Seat 3: 13nick2713 (small blind) folded before Flop
+Seat 4: rubenros962 (big blind) folded on the Flop
+Seat 5: Muttley336 folded before Flop (didn't bet)
+Seat 6: NGC4725 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: zssasa folded before Flop (didn't bet)
+Seat 9: Walkel folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232389797593:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:14:31 PT [2021/12/20 20:14:31 ET]
+Table 'Thabit' 9-max Seat #3 is the button
+Seat 1: urka_epu ($4.56 in chips) 
+Seat 2: Dukom ($1.62 in chips) 
+Seat 3: 13nick2713 ($2.68 in chips) 
+Seat 4: rubenros962 ($2.11 in chips) 
+Seat 5: Muttley336 ($1.65 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.03 in chips) 
+Seat 8: zssasa ($1.39 in chips) 
+Seat 9: Walkel ($2.28 in chips) 
+rubenros962: posts small blind $0.01
+Muttley336: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 4d]
+NGC4725: folds 
+Dorex2007: folds 
+zssasa: raises $0.02 to $0.04
+Walkel: folds 
+urka_epu: folds 
+Dukom: calls $0.04
+13nick2713: calls $0.04
+rubenros962: folds 
+Muttley336: folds 
+*** FLOP *** [2d 3h Jc]
+zssasa: checks 
+Dukom: checks 
+13nick2713: checks 
+*** TURN *** [2d 3h Jc] [3d]
+zssasa: bets $0.04
+Dukom: folds 
+13nick2713: folds 
+Uncalled bet ($0.04) returned to zssasa
+zssasa collected $0.14 from pot
+zssasa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2d 3h Jc 3d]
+Seat 1: urka_epu folded before Flop (didn't bet)
+Seat 2: Dukom folded on the Turn
+Seat 3: 13nick2713 (button) folded on the Turn
+Seat 4: rubenros962 (small blind) folded before Flop
+Seat 5: Muttley336 (big blind) folded before Flop
+Seat 6: NGC4725 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: zssasa collected ($0.14)
+Seat 9: Walkel folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232389816324:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:15:38 PT [2021/12/20 20:15:38 ET]
+Table 'Thabit' 9-max Seat #4 is the button
+Seat 1: urka_epu ($4.56 in chips) 
+Seat 2: Dukom ($1.58 in chips) 
+Seat 3: 13nick2713 ($2.64 in chips) 
+Seat 4: rubenros962 ($2.10 in chips) 
+Seat 5: Muttley336 ($1.63 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.03 in chips) 
+Seat 8: zssasa ($1.49 in chips) 
+Seat 9: Walkel ($2.28 in chips) 
+Muttley336: posts small blind $0.01
+NGC4725: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Ts]
+Dorex2007: calls $0.02
+zssasa: calls $0.02
+Walkel: folds 
+urka_epu: folds 
+Dukom: calls $0.02
+13nick2713: folds 
+rubenros962 has timed out
+rubenros962: folds 
+Muttley336: calls $0.01
+NGC4725: checks 
+*** FLOP *** [Jd 6c 5s]
+Muttley336: checks 
+NGC4725: checks 
+urka_epu leaves the table
+Dorex2007: bets $0.10
+zssasa: folds 
+Dukom: folds 
+Muttley336: folds 
+NGC4725: folds 
+Uncalled bet ($0.10) returned to Dorex2007
+Dorex2007 collected $0.10 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Jd 6c 5s]
+Seat 1: urka_epu folded before Flop (didn't bet)
+Seat 2: Dukom folded on the Flop
+Seat 3: 13nick2713 folded before Flop (didn't bet)
+Seat 4: rubenros962 (button) folded before Flop (didn't bet)
+Seat 5: Muttley336 (small blind) folded on the Flop
+Seat 6: NGC4725 (big blind) folded on the Flop
+Seat 7: Dorex2007 collected ($0.10)
+Seat 8: zssasa folded on the Flop
+Seat 9: Walkel folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232389833085:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:16:38 PT [2021/12/20 20:16:38 ET]
+Table 'Thabit' 9-max Seat #5 is the button
+Seat 2: Dukom ($1.56 in chips) 
+Seat 3: 13nick2713 ($2.64 in chips) 
+Seat 5: Muttley336 ($1.61 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.11 in chips) 
+Seat 8: zssasa ($1.47 in chips) 
+Seat 9: Walkel ($2.28 in chips) 
+NGC4725: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Ac]
+zssasa: folds 
+Walkel: raises $0.03 to $0.05
+Dukom: folds 
+13nick2713: folds 
+Muttley336: calls $0.05
+R_costa275 joins the table at seat #1 
+NGC4725: folds 
+Dorex2007: calls $0.03
+*** FLOP *** [6h Qs 8d]
+Dorex2007: checks 
+Walkel: bets $0.10
+Muttley336: calls $0.10
+Dorex2007: folds 
+*** TURN *** [6h Qs 8d] [Ah]
+Walkel: bets $0.25
+Muttley336: raises $0.29 to $0.54
+Walkel: calls $0.29
+*** RIVER *** [6h Qs 8d Ah] [8h]
+Walkel: checks 
+Muttley336: checks 
+*** SHOW DOWN ***
+Walkel: shows [Jc Js] (two pair, Jacks and Eights)
+Muttley336: shows [As Qh] (two pair, Aces and Queens)
+Muttley336 collected $1.39 from pot
+*** SUMMARY ***
+Total pot $1.44 | Rake $0.05 
+Board [6h Qs 8d Ah 8h]
+Seat 2: Dukom folded before Flop (didn't bet)
+Seat 3: 13nick2713 folded before Flop (didn't bet)
+Seat 5: Muttley336 (button) showed [As Qh] and won ($1.39) with two pair, Aces and Queens
+Seat 6: NGC4725 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded on the Flop
+Seat 8: zssasa folded before Flop (didn't bet)
+Seat 9: Walkel showed [Jc Js] and lost with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #232389859455:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:17:57 PT [2021/12/20 20:17:57 ET]
+Table 'Thabit' 9-max Seat #6 is the button
+Seat 1: R_costa275 ($1.60 in chips) 
+Seat 2: Dukom ($1.56 in chips) 
+Seat 3: 13nick2713 ($2.64 in chips) 
+Seat 4: rubenros962 ($2.10 in chips) 
+Seat 5: Muttley336 ($2.31 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.06 in chips) 
+Seat 8: zssasa ($1.47 in chips) 
+Seat 9: Walkel ($2 in chips) 
+Dorex2007: posts small blind $0.01
+zssasa: posts big blind $0.02
+R_costa275: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s Kc]
+Walkel: folds 
+R_costa275: checks 
+Dukom: folds 
+13nick2713: folds 
+rubenros962: folds 
+Muttley336: folds 
+NGC4725: folds 
+Dorex2007: folds 
+zssasa: raises $0.04 to $0.06
+R_costa275: folds 
+Uncalled bet ($0.04) returned to zssasa
+zssasa collected $0.05 from pot
+zssasa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: R_costa275 folded before Flop (didn't bet)
+Seat 2: Dukom folded before Flop (didn't bet)
+Seat 3: 13nick2713 folded before Flop (didn't bet)
+Seat 4: rubenros962 folded before Flop (didn't bet)
+Seat 5: Muttley336 folded before Flop (didn't bet)
+Seat 6: NGC4725 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: zssasa (big blind) collected ($0.05)
+Seat 9: Walkel folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232389875396:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:18:55 PT [2021/12/20 20:18:55 ET]
+Table 'Thabit' 9-max Seat #7 is the button
+Seat 1: R_costa275 ($1.58 in chips) 
+Seat 2: Dukom ($1.56 in chips) 
+Seat 3: 13nick2713 ($2.64 in chips) 
+Seat 4: rubenros962 ($2.10 in chips) 
+Seat 5: Muttley336 ($2.31 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.05 in chips) 
+Seat 8: zssasa ($1.50 in chips) 
+Seat 9: Walkel ($2 in chips) 
+zssasa: posts small blind $0.01
+Walkel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Ad]
+R_costa275: raises $0.02 to $0.04
+Dukom: calls $0.04
+13nick2713: folds 
+rubenros962: folds 
+Muttley336: folds 
+NGC4725: calls $0.04
+Dorex2007: folds 
+zssasa: folds 
+Walkel: folds 
+*** FLOP *** [4s 3d 5c]
+R_costa275: bets $0.14
+Dukom: calls $0.14
+NGC4725: calls $0.14
+*** TURN *** [4s 3d 5c] [As]
+R_costa275: checks 
+Dukom: checks 
+NGC4725: checks 
+*** RIVER *** [4s 3d 5c As] [9c]
+R_costa275: checks 
+Dukom: checks 
+NGC4725: checks 
+*** SHOW DOWN ***
+R_costa275: shows [9d 8h] (a pair of Nines)
+Dukom: shows [4h 3h] (two pair, Fours and Threes)
+NGC4725: mucks hand 
+Dukom collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [4s 3d 5c As 9c]
+Seat 1: R_costa275 showed [9d 8h] and lost with a pair of Nines
+Seat 2: Dukom showed [4h 3h] and won ($0.55) with two pair, Fours and Threes
+Seat 3: 13nick2713 folded before Flop (didn't bet)
+Seat 4: rubenros962 folded before Flop (didn't bet)
+Seat 5: Muttley336 folded before Flop (didn't bet)
+Seat 6: NGC4725 mucked [Kc 6c]
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: zssasa (small blind) folded before Flop
+Seat 9: Walkel (big blind) folded before Flop
+
+
+
+PokerStars Hand #232389896708:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:20:11 PT [2021/12/20 20:20:11 ET]
+Table 'Thabit' 9-max Seat #8 is the button
+Seat 1: R_costa275 ($1.40 in chips) 
+Seat 2: Dukom ($1.93 in chips) 
+Seat 3: 13nick2713 ($2.64 in chips) 
+Seat 4: rubenros962 ($2.10 in chips) 
+Seat 5: Muttley336 ($2.31 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.05 in chips) 
+Seat 8: zssasa ($1.49 in chips) 
+Seat 9: Walkel ($1.98 in chips) 
+Walkel: posts small blind $0.01
+R_costa275: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 7d]
+Dukom: calls $0.02
+13nick2713: calls $0.02
+rubenros962: folds 
+Muttley336: raises $0.06 to $0.08
+NGC4725: folds 
+Dorex2007: folds 
+zssasa: folds 
+Walkel: folds 
+R_costa275: raises $0.21 to $0.29
+Dukom: folds 
+13nick2713: folds 
+Muttley336: calls $0.21
+*** FLOP *** [6d As Kc]
+R_costa275: bets $0.61
+Muttley336 has timed out
+Muttley336: folds 
+Uncalled bet ($0.61) returned to R_costa275
+R_costa275 collected $0.61 from pot
+R_costa275: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.63 | Rake $0.02 
+Board [6d As Kc]
+Seat 1: R_costa275 (big blind) collected ($0.61)
+Seat 2: Dukom folded before Flop
+Seat 3: 13nick2713 folded before Flop
+Seat 4: rubenros962 folded before Flop (didn't bet)
+Seat 5: Muttley336 folded on the Flop
+Seat 6: NGC4725 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: zssasa (button) folded before Flop (didn't bet)
+Seat 9: Walkel (small blind) folded before Flop
+
+
+
+PokerStars Hand #232389924501:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:21:32 PT [2021/12/20 20:21:32 ET]
+Table 'Thabit' 9-max Seat #9 is the button
+Seat 1: R_costa275 ($1.72 in chips) 
+Seat 2: Dukom ($1.91 in chips) 
+Seat 3: 13nick2713 ($2.62 in chips) 
+Seat 4: rubenros962 ($2.10 in chips) 
+Seat 5: Muttley336 ($2.02 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.05 in chips) 
+Seat 8: zssasa ($1.49 in chips) 
+Seat 9: Walkel ($1.97 in chips) 
+R_costa275: posts small blind $0.01
+Dukom: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Jh]
+13nick2713: folds 
+rubenros962: folds 
+Muttley336: folds 
+NGC4725: raises $0.03 to $0.05
+Dorex2007: folds 
+zssasa: folds 
+Walkel: folds 
+R_costa275: calls $0.04
+Dukom: calls $0.03
+*** FLOP *** [Ad 7h Kd]
+R_costa275: bets $0.07
+Dukom: calls $0.07
+NGC4725: folds 
+*** TURN *** [Ad 7h Kd] [8c]
+R_costa275: bets $0.14
+Dukom: folds 
+Uncalled bet ($0.14) returned to R_costa275
+R_costa275 collected $0.28 from pot
+R_costa275: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Ad 7h Kd 8c]
+Seat 1: R_costa275 (small blind) collected ($0.28)
+Seat 2: Dukom (big blind) folded on the Turn
+Seat 3: 13nick2713 folded before Flop (didn't bet)
+Seat 4: rubenros962 folded before Flop (didn't bet)
+Seat 5: Muttley336 folded before Flop (didn't bet)
+Seat 6: NGC4725 folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: zssasa folded before Flop (didn't bet)
+Seat 9: Walkel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232389937881:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:22:20 PT [2021/12/20 20:22:20 ET]
+Table 'Thabit' 9-max Seat #1 is the button
+Seat 1: R_costa275 ($1.88 in chips) 
+Seat 2: Dukom ($1.79 in chips) 
+Seat 3: 13nick2713 ($2.62 in chips) 
+Seat 4: rubenros962 ($2.10 in chips) 
+Seat 5: Muttley336 ($2.02 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.05 in chips) 
+Seat 8: zssasa ($1.49 in chips) 
+Seat 9: Walkel ($1.97 in chips) 
+Dukom: posts small blind $0.01
+13nick2713: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s Jh]
+rubenros962: raises $0.02 to $0.04
+Muttley336: folds 
+NGC4725: folds 
+Dorex2007: folds 
+zssasa: calls $0.04
+Walkel: folds 
+R_costa275: calls $0.04
+Dukom: folds 
+13nick2713: folds 
+*** FLOP *** [9s Qd 2h]
+rubenros962: bets $0.03
+zssasa: calls $0.03
+R_costa275: calls $0.03
+*** TURN *** [9s Qd 2h] [Jc]
+rubenros962: checks 
+zssasa: bets $0.12
+R_costa275: raises $0.12 to $0.24
+rubenros962: folds 
+zssasa: calls $0.12
+*** RIVER *** [9s Qd 2h Jc] [Qc]
+zssasa: bets $0.69
+R_costa275: calls $0.69
+*** SHOW DOWN ***
+zssasa: shows [Qs 2s] (a full house, Queens full of Deuces)
+R_costa275: mucks hand 
+zssasa collected $2.03 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.07 
+Board [9s Qd 2h Jc Qc]
+Seat 1: R_costa275 (button) mucked [Tc 8s]
+Seat 2: Dukom (small blind) folded before Flop
+Seat 3: 13nick2713 (big blind) folded before Flop
+Seat 4: rubenros962 folded on the Turn
+Seat 5: Muttley336 folded before Flop (didn't bet)
+Seat 6: NGC4725 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: zssasa showed [Qs 2s] and won ($2.03) with a full house, Queens full of Deuces
+Seat 9: Walkel folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232389960650:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:23:43 PT [2021/12/20 20:23:43 ET]
+Table 'Thabit' 9-max Seat #2 is the button
+Seat 1: R_costa275 ($0.88 in chips) 
+Seat 2: Dukom ($1.78 in chips) 
+Seat 3: 13nick2713 ($2.60 in chips) 
+Seat 4: rubenros962 ($2.03 in chips) 
+Seat 5: Muttley336 ($2.02 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.05 in chips) 
+Seat 8: zssasa ($2.52 in chips) 
+13nick2713: posts small blind $0.01
+rubenros962: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 7s]
+Muttley336: folds 
+NGC4725: folds 
+Dorex2007: folds 
+zssasa: folds 
+R_costa275: raises $0.02 to $0.04
+Dukom: calls $0.04
+13nick2713: calls $0.03
+rubenros962: calls $0.02
+*** FLOP *** [8d 5c 4d]
+13nick2713: checks 
+rubenros962: checks 
+R_costa275: bets $0.15
+Dukom: folds 
+Dukom leaves the table
+13nick2713: calls $0.15
+rubenros962: folds 
+*** TURN *** [8d 5c 4d] [Tc]
+khz71 joins the table at seat #2 
+13nick2713: checks 
+R_costa275: bets $0.44
+13nick2713: folds 
+Uncalled bet ($0.44) returned to R_costa275
+R_costa275 collected $0.44 from pot
+R_costa275: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [8d 5c 4d Tc]
+Seat 1: R_costa275 collected ($0.44)
+Seat 2: Dukom (button) folded on the Flop
+Seat 3: 13nick2713 (small blind) folded on the Turn
+Seat 4: rubenros962 (big blind) folded on the Flop
+Seat 5: Muttley336 folded before Flop (didn't bet)
+Seat 6: NGC4725 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: zssasa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232389984105:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:25:08 PT [2021/12/20 20:25:08 ET]
+Table 'Thabit' 9-max Seat #3 is the button
+Seat 1: R_costa275 ($1.13 in chips) 
+Seat 3: 13nick2713 ($2.41 in chips) 
+Seat 4: rubenros962 ($1.99 in chips) 
+Seat 5: Muttley336 ($2.02 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.05 in chips) 
+Seat 8: zssasa ($2.52 in chips) 
+rubenros962: posts small blind $0.01
+Muttley336: posts big blind $0.02
+khz71: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 2c]
+NGC4725: folds 
+Dorex2007: folds 
+zssasa: folds 
+R_costa275: raises $0.02 to $0.04
+13nick2713: folds 
+rubenros962: folds 
+Muttley336: calls $0.02
+*** FLOP *** [Ks 2h 2d]
+Muttley336: checks 
+R_costa275: bets $0.05
+Muttley336: calls $0.05
+*** TURN *** [Ks 2h 2d] [7h]
+Muttley336: checks 
+R_costa275: checks 
+*** RIVER *** [Ks 2h 2d 7h] [2s]
+Muttley336: bets $0.14
+R_costa275: folds 
+Uncalled bet ($0.14) returned to Muttley336
+Muttley336 collected $0.18 from pot
+Muttley336: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Ks 2h 2d 7h 2s]
+Seat 1: R_costa275 folded on the River
+Seat 3: 13nick2713 (button) folded before Flop (didn't bet)
+Seat 4: rubenros962 (small blind) folded before Flop
+Seat 5: Muttley336 (big blind) collected ($0.18)
+Seat 6: NGC4725 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: zssasa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232390010819:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:26:30 PT [2021/12/20 20:26:30 ET]
+Table 'Thabit' 9-max Seat #4 is the button
+Seat 1: R_costa275 ($1.04 in chips) 
+Seat 3: 13nick2713 ($2.41 in chips) 
+Seat 4: rubenros962 ($1.98 in chips) 
+Seat 5: Muttley336 ($2.11 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.05 in chips) 
+Seat 8: zssasa ($2.52 in chips) 
+Muttley336: posts small blind $0.01
+NGC4725: posts big blind $0.02
+khz71: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Qc]
+Dorex2007: raises $0.08 to $0.10
+zssasa: folds 
+R_costa275: folds 
+13nick2713: calls $0.10
+rubenros962: folds 
+Muttley336: folds 
+NGC4725: folds 
+*** FLOP *** [Qs 9d 7s]
+Dorex2007: bets $0.11
+13nick2713: calls $0.11
+*** TURN *** [Qs 9d 7s] [3h]
+Dorex2007: bets $1.84 and is all-in
+13nick2713: folds 
+Uncalled bet ($1.84) returned to Dorex2007
+Dorex2007 collected $0.43 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Qs 9d 7s 3h]
+Seat 1: R_costa275 folded before Flop (didn't bet)
+Seat 3: 13nick2713 folded on the Turn
+Seat 4: rubenros962 (button) folded before Flop (didn't bet)
+Seat 5: Muttley336 (small blind) folded before Flop
+Seat 6: NGC4725 (big blind) folded before Flop
+Seat 7: Dorex2007 collected ($0.43)
+Seat 8: zssasa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232390033414:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:27:53 PT [2021/12/20 20:27:53 ET]
+Table 'Thabit' 9-max Seat #5 is the button
+Seat 1: R_costa275 ($1.04 in chips) 
+Seat 3: 13nick2713 ($2.20 in chips) 
+Seat 4: rubenros962 ($1.98 in chips) 
+Seat 5: Muttley336 ($2.10 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.27 in chips) 
+Seat 8: zssasa ($2.52 in chips) 
+Seat 9: Walkel ($1.97 in chips) 
+NGC4725: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+khz71: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 9s]
+zssasa: folds 
+Walkel: folds 
+R_costa275: folds 
+13nick2713: raises $0.03 to $0.05
+rubenros962: folds 
+Muttley336: calls $0.05
+NGC4725: folds 
+Dorex2007: folds 
+*** FLOP *** [7c 9c 9d]
+13nick2713: checks 
+Muttley336: bets $0.13
+13nick2713: calls $0.13
+*** TURN *** [7c 9c 9d] [4c]
+13nick2713: checks 
+Muttley336: checks 
+*** RIVER *** [7c 9c 9d 4c] [Jd]
+13nick2713: checks 
+Muttley336: bets $0.26
+13nick2713: folds 
+Uncalled bet ($0.26) returned to Muttley336
+Muttley336 collected $0.38 from pot
+Muttley336: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [7c 9c 9d 4c Jd]
+Seat 1: R_costa275 folded before Flop (didn't bet)
+Seat 3: 13nick2713 folded on the River
+Seat 4: rubenros962 folded before Flop (didn't bet)
+Seat 5: Muttley336 (button) collected ($0.38)
+Seat 6: NGC4725 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: zssasa folded before Flop (didn't bet)
+Seat 9: Walkel folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232390067720:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:29:27 PT [2021/12/20 20:29:27 ET]
+Table 'Thabit' 9-max Seat #6 is the button
+Seat 1: R_costa275 ($1.04 in chips) 
+Seat 3: 13nick2713 ($2.02 in chips) 
+Seat 4: rubenros962 ($1.98 in chips) 
+Seat 5: Muttley336 ($2.30 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.25 in chips) 
+Seat 8: zssasa ($2.52 in chips) 
+Seat 9: Walkel ($1.97 in chips) 
+Dorex2007: posts small blind $0.01
+zssasa: posts big blind $0.02
+khz71: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Ks]
+Walkel: folds 
+R_costa275: folds 
+13nick2713: folds 
+Walkel leaves the table
+rubenros962: raises $0.04 to $0.06
+Muttley336: folds 
+NGC4725: folds 
+Dorex2007: folds 
+zssasa: calls $0.04
+*** FLOP *** [2c 5c 9d]
+zssasa: checks 
+rubenros962: bets $0.04
+zssasa: calls $0.04
+*** TURN *** [2c 5c 9d] [9h]
+zssasa: checks 
+rubenros962: bets $0.10
+zssasa: folds 
+Uncalled bet ($0.10) returned to rubenros962
+rubenros962 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [2c 5c 9d 9h]
+Seat 1: R_costa275 folded before Flop (didn't bet)
+Seat 3: 13nick2713 folded before Flop (didn't bet)
+Seat 4: rubenros962 collected ($0.20)
+Seat 5: Muttley336 folded before Flop (didn't bet)
+Seat 6: NGC4725 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: zssasa (big blind) folded on the Turn
+Seat 9: Walkel folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232390082294:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:30:22 PT [2021/12/20 20:30:22 ET]
+Table 'Thabit' 9-max Seat #7 is the button
+Seat 1: R_costa275 ($1.04 in chips) 
+Seat 3: 13nick2713 ($2.02 in chips) 
+Seat 4: rubenros962 ($2.08 in chips) 
+Seat 5: Muttley336 ($2.30 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.24 in chips) 
+Seat 8: zssasa ($2.42 in chips) 
+zssasa: posts small blind $0.01
+R_costa275: posts big blind $0.02
+khz71: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 5d]
+13nick2713: folds 
+13nick2713 leaves the table
+rubenros962: folds 
+Muttley336: folds 
+NGC4725: folds 
+Dorex2007: raises $0.04 to $0.06
+zssasa: folds 
+R_costa275: calls $0.04
+*** FLOP *** [3d 2d 3h]
+R_costa275: checks 
+Dorex2007: checks 
+*** TURN *** [3d 2d 3h] [6s]
+R_costa275: bets $0.07
+Dorex2007: calls $0.07
+*** RIVER *** [3d 2d 3h 6s] [As]
+R_costa275: checks 
+Dorex2007: bets $0.13
+R_costa275: folds [7c 4h]
+Uncalled bet ($0.13) returned to Dorex2007
+Dorex2007 collected $0.26 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [3d 2d 3h 6s As]
+Seat 1: R_costa275 (big blind) folded on the River
+Seat 3: 13nick2713 folded before Flop (didn't bet)
+Seat 4: rubenros962 folded before Flop (didn't bet)
+Seat 5: Muttley336 folded before Flop (didn't bet)
+Seat 6: NGC4725 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) collected ($0.26)
+Seat 8: zssasa (small blind) folded before Flop
+
+
+
+PokerStars Hand #232390100563:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:31:29 PT [2021/12/20 20:31:29 ET]
+Table 'Thabit' 9-max Seat #8 is the button
+Seat 1: R_costa275 ($0.91 in chips) 
+Seat 2: khz71 ($2 in chips) 
+Seat 4: rubenros962 ($2.08 in chips) 
+Seat 5: Muttley336 ($2.30 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.37 in chips) 
+Seat 8: zssasa ($2.41 in chips) 
+R_costa275: posts small blind $0.01
+khz71: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Jd]
+rubenros962: folds 
+Muttley336: folds 
+NGC4725: folds 
+Dorex2007: folds 
+zssasa: raises $0.02 to $0.04
+R_costa275: folds 
+khz71: calls $0.02
+*** FLOP *** [6h 3c 5s]
+khz71: bets $0.06
+zssasa: folds 
+Uncalled bet ($0.06) returned to khz71
+khz71 collected $0.09 from pot
+khz71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [6h 3c 5s]
+Seat 1: R_costa275 (small blind) folded before Flop
+Seat 2: khz71 (big blind) collected ($0.09)
+Seat 4: rubenros962 folded before Flop (didn't bet)
+Seat 5: Muttley336 folded before Flop (didn't bet)
+Seat 6: NGC4725 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: zssasa (button) folded on the Flop
+
+
+
+PokerStars Hand #232390113043:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:32:15 PT [2021/12/20 20:32:15 ET]
+Table 'Thabit' 9-max Seat #1 is the button
+Seat 1: R_costa275 ($0.90 in chips) 
+Seat 2: khz71 ($2.05 in chips) 
+Seat 4: rubenros962 ($2.08 in chips) 
+Seat 5: Muttley336 ($2.30 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.37 in chips) 
+Seat 8: zssasa ($2.37 in chips) 
+khz71: posts small blind $0.01
+rubenros962: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 7c]
+Muttley336: raises $0.03 to $0.05
+NGC4725: folds 
+Dorex2007: calls $0.05
+zssasa: folds 
+zssasa leaves the table
+R_costa275: folds 
+khz71: calls $0.04
+rubenros962: calls $0.03
+*** FLOP *** [5d 5h 7h]
+chiipsz joins the table at seat #3 
+khz71: checks 
+rubenros962: checks 
+Muttley336: bets $0.06
+Dorex2007: calls $0.06
+khz71: folds 
+rubenros962: folds 
+*** TURN *** [5d 5h 7h] [6s]
+Muttley336: bets $0.14
+Dorex2007: calls $0.14
+*** RIVER *** [5d 5h 7h 6s] [Th]
+Muttley336: checks 
+Dorex2007: bets $0.29
+Muttley336: calls $0.29
+*** SHOW DOWN ***
+Dorex2007: shows [7s 7c] (a full house, Sevens full of Fives)
+Muttley336: mucks hand 
+Dorex2007 collected $1.14 from pot
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.04 
+Board [5d 5h 7h 6s Th]
+Seat 1: R_costa275 (button) folded before Flop (didn't bet)
+Seat 2: khz71 (small blind) folded on the Flop
+Seat 4: rubenros962 (big blind) folded on the Flop
+Seat 5: Muttley336 mucked [8h 6h]
+Seat 6: NGC4725 folded before Flop (didn't bet)
+Seat 7: Dorex2007 showed [7s 7c] and won ($1.14) with a full house, Sevens full of Fives
+Seat 8: zssasa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232390151146:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:34:00 PT [2021/12/20 20:34:00 ET]
+Table 'Thabit' 9-max Seat #2 is the button
+Seat 1: R_costa275 ($0.90 in chips) 
+Seat 2: khz71 ($2 in chips) 
+Seat 4: rubenros962 ($2.03 in chips) 
+Seat 5: Muttley336 ($1.76 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.97 in chips) 
+rubenros962: posts small blind $0.01
+Muttley336: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 5h]
+NGC4725: folds 
+Dorex2007: folds 
+R_costa275 has timed out
+R_costa275: folds 
+khz71: raises $0.04 to $0.06
+rubenros962: folds 
+Muttley336: folds 
+Uncalled bet ($0.04) returned to khz71
+khz71 collected $0.05 from pot
+khz71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: R_costa275 folded before Flop (didn't bet)
+Seat 2: khz71 (button) collected ($0.05)
+Seat 4: rubenros962 (small blind) folded before Flop
+Seat 5: Muttley336 (big blind) folded before Flop
+Seat 6: NGC4725 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232390157628:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:34:24 PT [2021/12/20 20:34:24 ET]
+Table 'Thabit' 9-max Seat #4 is the button
+Seat 2: khz71 ($2.03 in chips) 
+Seat 3: chiipsz ($0.80 in chips) 
+Seat 4: rubenros962 ($2.02 in chips) 
+Seat 5: Muttley336 ($1.74 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.97 in chips) 
+Muttley336: posts small blind $0.01
+NGC4725: posts big blind $0.02
+chiipsz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 8d]
+Dorex2007: folds 
+khz71: folds 
+chiipsz: checks 
+rubenros962: folds 
+Muttley336: raises $0.04 to $0.06
+NGC4725: folds 
+chiipsz: folds 
+Uncalled bet ($0.04) returned to Muttley336
+Muttley336 collected $0.06 from pot
+Muttley336: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 2: khz71 folded before Flop (didn't bet)
+Seat 3: chiipsz folded before Flop (didn't bet)
+Seat 4: rubenros962 (button) folded before Flop (didn't bet)
+Seat 5: Muttley336 (small blind) collected ($0.06)
+Seat 6: NGC4725 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232390167542:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:35:01 PT [2021/12/20 20:35:01 ET]
+Table 'Thabit' 9-max Seat #5 is the button
+Seat 2: khz71 ($2.03 in chips) 
+Seat 3: chiipsz ($0.78 in chips) 
+Seat 4: rubenros962 ($2.02 in chips) 
+Seat 5: Muttley336 ($1.78 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.97 in chips) 
+NGC4725: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 4s]
+khz71: folds 
+chiipsz: folds 
+rubenros962: folds 
+Muttley336: raises $0.04 to $0.06
+NGC4725: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to Muttley336
+Muttley336 collected $0.05 from pot
+Muttley336: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: khz71 folded before Flop (didn't bet)
+Seat 3: chiipsz folded before Flop (didn't bet)
+Seat 4: rubenros962 folded before Flop (didn't bet)
+Seat 5: Muttley336 (button) collected ($0.05)
+Seat 6: NGC4725 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232390172002:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:35:17 PT [2021/12/20 20:35:17 ET]
+Table 'Thabit' 9-max Seat #6 is the button
+Seat 2: khz71 ($2.03 in chips) 
+Seat 3: chiipsz ($0.78 in chips) 
+Seat 4: rubenros962 ($2.02 in chips) 
+Seat 5: Muttley336 ($1.81 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.95 in chips) 
+Dorex2007: posts small blind $0.01
+khz71: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Ts]
+chiipsz: folds 
+rubenros962: folds 
+Muttley336: folds 
+NGC4725: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to khz71
+khz71 collected $0.02 from pot
+khz71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: khz71 (big blind) collected ($0.02)
+Seat 3: chiipsz folded before Flop (didn't bet)
+Seat 4: rubenros962 folded before Flop (didn't bet)
+Seat 5: Muttley336 folded before Flop (didn't bet)
+Seat 6: NGC4725 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232390177856:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:35:39 PT [2021/12/20 20:35:39 ET]
+Table 'Thabit' 9-max Seat #7 is the button
+Seat 2: khz71 ($2.04 in chips) 
+Seat 3: chiipsz ($0.78 in chips) 
+Seat 4: rubenros962 ($2.02 in chips) 
+Seat 5: Muttley336 ($1.81 in chips) 
+Seat 6: NGC4725 ($2 in chips) 
+Seat 7: Dorex2007 ($2.94 in chips) 
+khz71: posts small blind $0.01
+chiipsz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 6h]
+rubenros962: folds 
+Muttley336: folds 
+NGC4725: raises $0.03 to $0.05
+Dorex2007: folds 
+khz71: folds 
+chiipsz: calls $0.03
+*** FLOP *** [Jc 4c 3c]
+chiipsz: checks 
+NGC4725: checks 
+*** TURN *** [Jc 4c 3c] [Qh]
+chiipsz: checks 
+NGC4725: bets $0.07
+chiipsz: folds 
+Uncalled bet ($0.07) returned to NGC4725
+NGC4725 collected $0.11 from pot
+NGC4725: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Jc 4c 3c Qh]
+Seat 2: khz71 (small blind) folded before Flop
+Seat 3: chiipsz (big blind) folded on the Turn
+Seat 4: rubenros962 folded before Flop (didn't bet)
+Seat 5: Muttley336 folded before Flop (didn't bet)
+Seat 6: NGC4725 collected ($0.11)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232390192836:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:36:35 PT [2021/12/20 20:36:35 ET]
+Table 'Thabit' 9-max Seat #2 is the button
+Seat 2: khz71 ($2.03 in chips) 
+Seat 3: chiipsz ($0.73 in chips) 
+Seat 4: rubenros962 ($2.02 in chips) 
+Seat 5: Muttley336 ($1.81 in chips) 
+Seat 6: NGC4725 ($2.06 in chips) 
+Seat 7: Dorex2007 ($2.94 in chips) 
+chiipsz: posts small blind $0.01
+rubenros962: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 7d]
+Muttley336: folds 
+NGC4725: folds 
+Dorex2007: folds 
+khz71: raises $0.03 to $0.05
+chiipsz: folds 
+rubenros962: folds 
+Uncalled bet ($0.03) returned to khz71
+khz71 collected $0.05 from pot
+khz71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: khz71 (button) collected ($0.05)
+Seat 3: chiipsz (small blind) folded before Flop
+Seat 4: rubenros962 (big blind) folded before Flop
+Seat 5: Muttley336 folded before Flop (didn't bet)
+Seat 6: NGC4725 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232390198734:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:36:57 PT [2021/12/20 20:36:57 ET]
+Table 'Thabit' 9-max Seat #3 is the button
+Seat 2: khz71 ($2.06 in chips) 
+Seat 3: chiipsz ($0.72 in chips) 
+Seat 4: rubenros962 ($2 in chips) 
+Seat 5: Muttley336 ($1.81 in chips) 
+Seat 6: NGC4725 ($2.06 in chips) 
+Seat 7: Dorex2007 ($2.94 in chips) 
+rubenros962: posts small blind $0.01
+Muttley336: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Tc]
+NGC4725: folds 
+Dorex2007: folds 
+khz71: raises $0.03 to $0.05
+chiipsz: folds 
+rubenros962: folds 
+Muttley336: folds 
+Uncalled bet ($0.03) returned to khz71
+khz71 collected $0.05 from pot
+khz71: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: khz71 collected ($0.05)
+Seat 3: chiipsz (button) folded before Flop (didn't bet)
+Seat 4: rubenros962 (small blind) folded before Flop
+Seat 5: Muttley336 (big blind) folded before Flop
+Seat 6: NGC4725 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232390203049:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/20 17:37:13 PT [2021/12/20 20:37:13 ET]
+Table 'Thabit' 9-max Seat #4 is the button
+Seat 2: khz71 ($2.09 in chips) 
+Seat 3: chiipsz ($0.72 in chips) 
+Seat 4: rubenros962 ($1.99 in chips) 
+Seat 5: Muttley336 ($1.79 in chips) 
+Seat 6: NGC4725 ($2.06 in chips) 
+Seat 7: Dorex2007 ($2.94 in chips) 
+Muttley336: posts small blind $0.01
+NGC4725: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Qc]
+Dorex2007: folds 
+khz71: folds 
+chiipsz: folds 
+rubenros962: folds 
+Muttley336: folds 
+Uncalled bet ($0.01) returned to NGC4725
+NGC4725 collected $0.02 from pot
+NGC4725: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: khz71 folded before Flop (didn't bet)
+Seat 3: chiipsz folded before Flop (didn't bet)
+Seat 4: rubenros962 (button) folded before Flop (didn't bet)
+Seat 5: Muttley336 (small blind) folded before Flop
+Seat 6: NGC4725 (big blind) collected ($0.02)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+
+
+

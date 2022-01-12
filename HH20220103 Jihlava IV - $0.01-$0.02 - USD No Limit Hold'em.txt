@@ -1,0 +1,3811 @@
+﻿PokerStars Hand #232768377679:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:00:05 PT [2022/01/03 0:00:05 ET]
+Table 'Jihlava IV' 9-max Seat #9 is the button
+Seat 1: BR00RB ($0.65 in chips) 
+Seat 2: Waterloo00 ($4.32 in chips) 
+Seat 3: yabaicwb ($1.23 in chips) 
+Seat 4: VFonsex ($1.59 in chips) 
+Seat 5: juiccyc ($2.26 in chips) 
+Seat 6: tutjak ($5.65 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 9: j+sch1977 ($1.93 in chips) 
+BR00RB: posts small blind $0.01
+Waterloo00: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad Kd]
+yabaicwb: calls $0.02
+VFonsex: folds 
+juiccyc: calls $0.02
+tutjak: folds 
+Dorex2007: raises $0.10 to $0.12
+j+sch1977: folds 
+BR00RB: folds 
+Waterloo00: folds 
+yabaicwb: folds 
+juiccyc: folds 
+Uncalled bet ($0.10) returned to Dorex2007
+Dorex2007 collected $0.09 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: BR00RB (small blind) folded before Flop
+Seat 2: Waterloo00 (big blind) folded before Flop
+Seat 3: yabaicwb folded before Flop
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: juiccyc folded before Flop
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.09)
+Seat 9: j+sch1977 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768383706:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:00:45 PT [2022/01/03 0:00:45 ET]
+Table 'Jihlava IV' 9-max Seat #1 is the button
+Seat 1: BR00RB ($0.64 in chips) 
+Seat 2: Waterloo00 ($4.30 in chips) 
+Seat 3: yabaicwb ($1.21 in chips) 
+Seat 4: VFonsex ($1.59 in chips) 
+Seat 5: juiccyc ($2.24 in chips) 
+Seat 6: tutjak ($5.65 in chips) 
+Seat 7: Dorex2007 ($2.07 in chips) 
+Seat 9: j+sch1977 ($1.93 in chips) 
+Waterloo00: posts small blind $0.01
+yabaicwb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Kc]
+VFonsex: folds 
+juiccyc: calls $0.02
+tutjak: folds 
+Dorex2007: folds 
+j+sch1977: folds 
+BR00RB: folds 
+Waterloo00: folds 
+yabaicwb: checks 
+*** FLOP *** [Tc Qs 3s]
+yabaicwb: checks 
+juiccyc: checks 
+*** TURN *** [Tc Qs 3s] [Qh]
+yabaicwb: checks 
+juiccyc: bets $0.02
+yabaicwb: calls $0.02
+*** RIVER *** [Tc Qs 3s Qh] [6c]
+yabaicwb: checks 
+juiccyc: bets $0.02
+yabaicwb: calls $0.02
+*** SHOW DOWN ***
+juiccyc: shows [Qd 2d] (three of a kind, Queens)
+yabaicwb: mucks hand 
+juiccyc collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Tc Qs 3s Qh 6c]
+Seat 1: BR00RB (button) folded before Flop (didn't bet)
+Seat 2: Waterloo00 (small blind) folded before Flop
+Seat 3: yabaicwb (big blind) mucked [As 5h]
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: juiccyc showed [Qd 2d] and won ($0.13) with three of a kind, Queens
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768391378:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:01:32 PT [2022/01/03 0:01:32 ET]
+Table 'Jihlava IV' 9-max Seat #2 is the button
+Seat 1: BR00RB ($0.64 in chips) 
+Seat 2: Waterloo00 ($4.29 in chips) 
+Seat 3: yabaicwb ($1.15 in chips) 
+Seat 4: VFonsex ($1.59 in chips) 
+Seat 5: juiccyc ($2.31 in chips) 
+Seat 6: tutjak ($5.65 in chips) 
+Seat 7: Dorex2007 ($2.07 in chips) 
+Seat 9: j+sch1977 ($1.93 in chips) 
+yabaicwb: posts small blind $0.01
+VFonsex: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 6h]
+juiccyc: calls $0.02
+tutjak: folds 
+Dorex2007: raises $0.02 to $0.04
+j+sch1977: folds 
+BR00RB: calls $0.04
+Waterloo00: folds 
+yabaicwb: calls $0.03
+VFonsex: folds 
+juiccyc: calls $0.02
+*** FLOP *** [Kh 2h Ks]
+yabaicwb: checks 
+juiccyc: checks 
+Dorex2007: bets $0.11
+BR00RB: calls $0.11
+yabaicwb: folds 
+juiccyc: folds 
+*** TURN *** [Kh 2h Ks] [Js]
+Dorex2007: checks 
+BR00RB: bets $0.13
+Dorex2007: folds 
+Uncalled bet ($0.13) returned to BR00RB
+BR00RB collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [Kh 2h Ks Js]
+Seat 1: BR00RB collected ($0.39)
+Seat 2: Waterloo00 (button) folded before Flop (didn't bet)
+Seat 3: yabaicwb (small blind) folded on the Flop
+Seat 4: VFonsex (big blind) folded before Flop
+Seat 5: juiccyc folded on the Flop
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded on the Turn
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768400512:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:02:26 PT [2022/01/03 0:02:26 ET]
+Table 'Jihlava IV' 9-max Seat #3 is the button
+Seat 1: BR00RB ($0.88 in chips) 
+Seat 2: Waterloo00 ($4.29 in chips) 
+Seat 3: yabaicwb ($1.11 in chips) 
+Seat 4: VFonsex ($1.57 in chips) 
+Seat 5: juiccyc ($2.27 in chips) 
+Seat 6: tutjak ($5.65 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 9: j+sch1977 ($1.93 in chips) 
+VFonsex: posts small blind $0.01
+juiccyc: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s Qd]
+tutjak: folds 
+Dorex2007: folds 
+j+sch1977: folds 
+BR00RB: raises $0.04 to $0.06
+Waterloo00: folds 
+yabaicwb: calls $0.06
+VFonsex: folds 
+juiccyc: calls $0.04
+*** FLOP *** [8h 8s 4s]
+juiccyc: bets $0.02
+BR00RB: raises $0.07 to $0.09
+yabaicwb: folds 
+juiccyc: calls $0.07
+*** TURN *** [8h 8s 4s] [8c]
+juiccyc: checks 
+BR00RB: bets $0.14
+juiccyc: folds 
+Uncalled bet ($0.14) returned to BR00RB
+BR00RB collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [8h 8s 4s 8c]
+Seat 1: BR00RB collected ($0.36)
+Seat 2: Waterloo00 folded before Flop (didn't bet)
+Seat 3: yabaicwb (button) folded on the Flop
+Seat 4: VFonsex (small blind) folded before Flop
+Seat 5: juiccyc (big blind) folded on the Turn
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768409831:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:03:22 PT [2022/01/03 0:03:22 ET]
+Table 'Jihlava IV' 9-max Seat #4 is the button
+Seat 1: BR00RB ($1.09 in chips) 
+Seat 2: Waterloo00 ($4.29 in chips) 
+Seat 3: yabaicwb ($1.05 in chips) 
+Seat 4: VFonsex ($1.56 in chips) 
+Seat 5: juiccyc ($2.12 in chips) 
+Seat 6: tutjak ($5.65 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 9: j+sch1977 ($1.93 in chips) 
+juiccyc: posts small blind $0.01
+tutjak: posts big blind $0.02
+MelchiorF1: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 2h]
+Dorex2007: folds 
+j+sch1977: folds 
+BR00RB: folds 
+Waterloo00: raises $0.04 to $0.06
+yabaicwb: raises $0.16 to $0.22
+VFonsex: folds 
+juiccyc: folds 
+tutjak: folds 
+Waterloo00: calls $0.16
+*** FLOP *** [3d Ac 7d]
+juiccyc leaves the table
+Waterloo00: checks 
+yabaicwb: bets $0.23
+Waterloo00: folds 
+Uncalled bet ($0.23) returned to yabaicwb
+yabaicwb collected $0.45 from pot
+yabaicwb: doesn't show hand 
+Alexsabur joins the table at seat #5 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [3d Ac 7d]
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 2: Waterloo00 folded on the Flop
+Seat 3: yabaicwb collected ($0.45)
+Seat 4: VFonsex (button) folded before Flop (didn't bet)
+Seat 5: juiccyc (small blind) folded before Flop
+Seat 6: tutjak (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768416923:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:04:05 PT [2022/01/03 0:04:05 ET]
+Table 'Jihlava IV' 9-max Seat #6 is the button
+Seat 1: BR00RB ($1.09 in chips) 
+Seat 2: Waterloo00 ($4.07 in chips) 
+Seat 3: yabaicwb ($1.28 in chips) 
+Seat 4: VFonsex ($1.56 in chips) 
+Seat 6: tutjak ($5.63 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: MelchiorF1 ($9.74 in chips) 
+Seat 9: j+sch1977 ($1.93 in chips) 
+Dorex2007: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+Alexsabur: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Kd]
+j+sch1977: folds 
+BR00RB: folds 
+Waterloo00: folds 
+yabaicwb: raises $0.02 to $0.04
+VFonsex: calls $0.04
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+*** FLOP *** [7c 9h Ah]
+yabaicwb: checks 
+VFonsex: checks 
+*** TURN *** [7c 9h Ah] [2c]
+yabaicwb: bets $0.11
+VFonsex: folds 
+Uncalled bet ($0.11) returned to yabaicwb
+yabaicwb collected $0.11 from pot
+yabaicwb: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [7c 9h Ah 2c]
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 2: Waterloo00 folded before Flop (didn't bet)
+Seat 3: yabaicwb collected ($0.11)
+Seat 4: VFonsex folded on the Turn
+Seat 6: tutjak (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: MelchiorF1 (big blind) folded before Flop
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768429841:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:05:23 PT [2022/01/03 0:05:23 ET]
+Table 'Jihlava IV' 9-max Seat #7 is the button
+Seat 1: BR00RB ($1.09 in chips) 
+Seat 2: Waterloo00 ($4.07 in chips) 
+Seat 3: yabaicwb ($1.35 in chips) 
+Seat 4: VFonsex ($1.52 in chips) 
+Seat 6: tutjak ($5.63 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: MelchiorF1 ($9.72 in chips) 
+Seat 9: j+sch1977 ($1.93 in chips) 
+MelchiorF1: posts small blind $0.01
+j+sch1977: posts big blind $0.02
+Alexsabur: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 2s]
+BR00RB: folds 
+Waterloo00: folds 
+yabaicwb: folds 
+VFonsex: raises $0.02 to $0.04
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: calls $0.02
+*** FLOP *** [Jd Ac 7h]
+j+sch1977: checks 
+VFonsex: bets $0.04
+j+sch1977: calls $0.04
+*** TURN *** [Jd Ac 7h] [7s]
+j+sch1977: checks 
+VFonsex: bets $0.08
+j+sch1977: calls $0.08
+*** RIVER *** [Jd Ac 7h 7s] [Kc]
+j+sch1977: checks 
+VFonsex: checks 
+*** SHOW DOWN ***
+j+sch1977: shows [Ad 4c] (two pair, Aces and Sevens)
+VFonsex: shows [As 2d] (two pair, Aces and Sevens)
+j+sch1977 collected $0.16 from pot
+VFonsex collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Jd Ac 7h 7s Kc]
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 2: Waterloo00 folded before Flop (didn't bet)
+Seat 3: yabaicwb folded before Flop (didn't bet)
+Seat 4: VFonsex showed [As 2d] and won ($0.16) with two pair, Aces and Sevens
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: MelchiorF1 (small blind) folded before Flop
+Seat 9: j+sch1977 (big blind) showed [Ad 4c] and won ($0.16) with two pair, Aces and Sevens
+
+
+
+PokerStars Hand #232768436529:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:06:03 PT [2022/01/03 0:06:03 ET]
+Table 'Jihlava IV' 9-max Seat #8 is the button
+Seat 1: BR00RB ($1.09 in chips) 
+Seat 2: Waterloo00 ($4.07 in chips) 
+Seat 3: yabaicwb ($1.35 in chips) 
+Seat 4: VFonsex ($1.52 in chips) 
+Seat 6: tutjak ($5.63 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: MelchiorF1 ($9.71 in chips) 
+Seat 9: j+sch1977 ($1.93 in chips) 
+j+sch1977: posts small blind $0.01
+BR00RB: posts big blind $0.02
+Alexsabur: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Qc]
+Waterloo00: folds 
+yabaicwb: calls $0.02
+VFonsex: folds 
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: raises $0.04 to $0.06
+j+sch1977: folds 
+BR00RB: folds 
+yabaicwb: calls $0.04
+*** FLOP *** [2s Ad 4d]
+yabaicwb: checks 
+MelchiorF1: bets $0.08
+yabaicwb: folds 
+Uncalled bet ($0.08) returned to MelchiorF1
+MelchiorF1 collected $0.14 from pot
+MelchiorF1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2s Ad 4d]
+Seat 1: BR00RB (big blind) folded before Flop
+Seat 2: Waterloo00 folded before Flop (didn't bet)
+Seat 3: yabaicwb folded on the Flop
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 (button) collected ($0.14)
+Seat 9: j+sch1977 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232768442500:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:06:39 PT [2022/01/03 0:06:39 ET]
+Table 'Jihlava IV' 9-max Seat #9 is the button
+Seat 1: BR00RB ($1.07 in chips) 
+Seat 2: Waterloo00 ($4.07 in chips) 
+Seat 3: yabaicwb ($1.29 in chips) 
+Seat 4: VFonsex ($1.52 in chips) 
+Seat 6: tutjak ($5.63 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: MelchiorF1 ($9.79 in chips) 
+Seat 9: j+sch1977 ($1.92 in chips) 
+BR00RB: posts small blind $0.01
+Waterloo00: posts big blind $0.02
+Alexsabur: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s Qh]
+yabaicwb: raises $0.02 to $0.04
+VFonsex: folds 
+tutjak: calls $0.04
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: calls $0.04
+BR00RB: calls $0.03
+Waterloo00: folds 
+*** FLOP *** [7d 3c Th]
+BR00RB: checks 
+yabaicwb: bets $0.09
+tutjak: folds 
+j+sch1977: folds 
+BR00RB: folds 
+Uncalled bet ($0.09) returned to yabaicwb
+yabaicwb collected $0.17 from pot
+yabaicwb: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [7d 3c Th]
+Seat 1: BR00RB (small blind) folded on the Flop
+Seat 2: Waterloo00 (big blind) folded before Flop
+Seat 3: yabaicwb collected ($0.17)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 6: tutjak folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 (button) folded on the Flop
+
+
+
+PokerStars Hand #232768450398:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:07:27 PT [2022/01/03 0:07:27 ET]
+Table 'Jihlava IV' 9-max Seat #1 is the button
+Seat 1: BR00RB ($1.03 in chips) 
+Seat 2: Waterloo00 ($4.05 in chips) 
+Seat 3: yabaicwb ($1.42 in chips) 
+Seat 4: VFonsex ($1.52 in chips) 
+Seat 6: tutjak ($5.59 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: MelchiorF1 ($9.79 in chips) 
+Seat 9: j+sch1977 ($1.88 in chips) 
+Waterloo00: posts small blind $0.01
+yabaicwb: posts big blind $0.02
+Alexsabur: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Kh]
+VFonsex: folds 
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: raises $0.06 to $0.08
+j+sch1977: folds 
+BR00RB: folds 
+Waterloo00: folds 
+yabaicwb: calls $0.06
+*** FLOP *** [8h 6h Ks]
+yabaicwb: checks 
+MelchiorF1: checks 
+*** TURN *** [8h 6h Ks] [7c]
+yabaicwb: bets $0.08
+MelchiorF1: calls $0.08
+*** RIVER *** [8h 6h Ks 7c] [4d]
+yabaicwb: bets $0.26
+MelchiorF1: calls $0.26
+*** SHOW DOWN ***
+yabaicwb: shows [6c 3h] (a pair of Sixes)
+MelchiorF1: shows [Td Th] (a pair of Tens)
+MelchiorF1 collected $0.82 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.03 
+Board [8h 6h Ks 7c 4d]
+Seat 1: BR00RB (button) folded before Flop (didn't bet)
+Seat 2: Waterloo00 (small blind) folded before Flop
+Seat 3: yabaicwb (big blind) showed [6c 3h] and lost with a pair of Sixes
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 showed [Td Th] and won ($0.82) with a pair of Tens
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768462101:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:08:37 PT [2022/01/03 0:08:37 ET]
+Table 'Jihlava IV' 9-max Seat #2 is the button
+Seat 1: BR00RB ($1.03 in chips) 
+Seat 2: Waterloo00 ($4.04 in chips) 
+Seat 3: yabaicwb ($1 in chips) 
+Seat 4: VFonsex ($1.52 in chips) 
+Seat 6: tutjak ($5.59 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: MelchiorF1 ($10.19 in chips) 
+Seat 9: j+sch1977 ($1.88 in chips) 
+yabaicwb: posts small blind $0.01
+VFonsex: posts big blind $0.02
+Alexsabur: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 4c]
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: folds 
+BR00RB has timed out
+BR00RB: folds 
+Waterloo00: folds 
+yabaicwb: raises $0.04 to $0.06
+VFonsex: calls $0.04
+*** FLOP *** [6h Jc 3d]
+yabaicwb: bets $0.08
+VFonsex: folds 
+Uncalled bet ($0.08) returned to yabaicwb
+yabaicwb collected $0.12 from pot
+yabaicwb: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [6h Jc 3d]
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 2: Waterloo00 (button) folded before Flop (didn't bet)
+Seat 3: yabaicwb (small blind) collected ($0.12)
+Seat 4: VFonsex (big blind) folded on the Flop
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768471668:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:09:19 PT [2022/01/03 0:09:19 ET]
+Table 'Jihlava IV' 9-max Seat #3 is the button
+Seat 2: Waterloo00 ($4.04 in chips) 
+Seat 3: yabaicwb ($1.06 in chips) 
+Seat 4: VFonsex ($1.46 in chips) 
+Seat 5: Alexsabur ($2 in chips) 
+Seat 6: tutjak ($5.59 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: MelchiorF1 ($10.19 in chips) 
+Seat 9: j+sch1977 ($1.88 in chips) 
+VFonsex: posts small blind $0.01
+Alexsabur: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Td]
+BR00RB is disconnected 
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: folds 
+Waterloo00: folds 
+yabaicwb: raises $0.02 to $0.04
+VFonsex: calls $0.03
+Alexsabur: calls $0.02
+*** FLOP *** [Qd Qh 7s]
+VFonsex: checks 
+Alexsabur: checks 
+yabaicwb: checks 
+*** TURN *** [Qd Qh 7s] [5s]
+VFonsex: bets $0.06
+Alexsabur: calls $0.06
+yabaicwb: folds 
+*** RIVER *** [Qd Qh 7s 5s] [As]
+VFonsex: bets $0.11
+Alexsabur: raises $0.30 to $0.41
+VFonsex: folds 
+Uncalled bet ($0.30) returned to Alexsabur
+Alexsabur collected $0.44 from pot
+Alexsabur: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [Qd Qh 7s 5s As]
+Seat 2: Waterloo00 folded before Flop (didn't bet)
+Seat 3: yabaicwb (button) folded on the Turn
+Seat 4: VFonsex (small blind) folded on the River
+Seat 5: Alexsabur (big blind) collected ($0.44)
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768483829:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:10:33 PT [2022/01/03 0:10:33 ET]
+Table 'Jihlava IV' 9-max Seat #4 is the button
+Seat 2: Waterloo00 ($4.04 in chips) 
+Seat 3: yabaicwb ($1.02 in chips) 
+Seat 4: VFonsex ($1.25 in chips) 
+Seat 5: Alexsabur ($2.23 in chips) 
+Seat 6: tutjak ($5.59 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: MelchiorF1 ($10.19 in chips) 
+Seat 9: j+sch1977 ($1.88 in chips) 
+Alexsabur: posts small blind $0.01
+tutjak: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Th]
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: folds 
+Waterloo00: raises $0.04 to $0.06
+yabaicwb: folds 
+VFonsex: folds 
+Alexsabur: folds 
+tutjak: folds 
+Uncalled bet ($0.04) returned to Waterloo00
+Waterloo00 collected $0.05 from pot
+Waterloo00: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Waterloo00 collected ($0.05)
+Seat 3: yabaicwb folded before Flop (didn't bet)
+Seat 4: VFonsex (button) folded before Flop (didn't bet)
+Seat 5: Alexsabur (small blind) folded before Flop
+Seat 6: tutjak (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768487481:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:10:55 PT [2022/01/03 0:10:55 ET]
+Table 'Jihlava IV' 9-max Seat #5 is the button
+Seat 2: Waterloo00 ($4.07 in chips) 
+Seat 3: yabaicwb ($1.02 in chips) 
+Seat 4: VFonsex ($1.25 in chips) 
+Seat 5: Alexsabur ($2.22 in chips) 
+Seat 6: tutjak ($5.57 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: MelchiorF1 ($10.19 in chips) 
+Seat 9: j+sch1977 ($1.88 in chips) 
+tutjak: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 3d]
+MelchiorF1: folds 
+j+sch1977: folds 
+Waterloo00: folds 
+yabaicwb: raises $0.04 to $0.06
+VFonsex: folds 
+Alexsabur: folds 
+tutjak: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to yabaicwb
+yabaicwb collected $0.05 from pot
+yabaicwb: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Waterloo00 folded before Flop (didn't bet)
+Seat 3: yabaicwb collected ($0.05)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur (button) folded before Flop (didn't bet)
+Seat 6: tutjak (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768490555:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:11:14 PT [2022/01/03 0:11:14 ET]
+Table 'Jihlava IV' 9-max Seat #6 is the button
+Seat 2: Waterloo00 ($4.07 in chips) 
+Seat 3: yabaicwb ($1.05 in chips) 
+Seat 4: VFonsex ($1.25 in chips) 
+Seat 5: Alexsabur ($2.22 in chips) 
+Seat 6: tutjak ($5.56 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: MelchiorF1 ($10.19 in chips) 
+Seat 9: j+sch1977 ($1.88 in chips) 
+Dorex2007: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Qd]
+j+sch1977: folds 
+Waterloo00: folds 
+yabaicwb: raises $0.02 to $0.04
+VFonsex: folds 
+Alexsabur: folds 
+tutjak: folds 
+Dorex2007: calls $0.03
+MelchiorF1: folds 
+*** FLOP *** [9h Js 3h]
+Dorex2007: bets $0.07
+yabaicwb: folds 
+Uncalled bet ($0.07) returned to Dorex2007
+Dorex2007 collected $0.10 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [9h Js 3h]
+Seat 2: Waterloo00 folded before Flop (didn't bet)
+Seat 3: yabaicwb folded on the Flop
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: tutjak (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) collected ($0.10)
+Seat 8: MelchiorF1 (big blind) folded before Flop
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768496751:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:11:52 PT [2022/01/03 0:11:52 ET]
+Table 'Jihlava IV' 9-max Seat #7 is the button
+Seat 2: Waterloo00 ($4.07 in chips) 
+Seat 3: yabaicwb ($1.01 in chips) 
+Seat 4: VFonsex ($1.25 in chips) 
+Seat 5: Alexsabur ($2.22 in chips) 
+Seat 6: tutjak ($5.56 in chips) 
+Seat 7: Dorex2007 ($2.06 in chips) 
+Seat 8: MelchiorF1 ($10.17 in chips) 
+Seat 9: j+sch1977 ($1.88 in chips) 
+MelchiorF1: posts small blind $0.01
+j+sch1977: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Kc]
+Waterloo00: folds 
+yabaicwb: folds 
+VFonsex: calls $0.02
+Alexsabur: folds 
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: checks 
+*** FLOP *** [7s 5c 8h]
+j+sch1977: checks 
+VFonsex: bets $0.04
+j+sch1977: folds 
+Uncalled bet ($0.04) returned to VFonsex
+VFonsex collected $0.05 from pot
+VFonsex: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [7s 5c 8h]
+Seat 2: Waterloo00 folded before Flop (didn't bet)
+Seat 3: yabaicwb folded before Flop (didn't bet)
+Seat 4: VFonsex collected ($0.05)
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: MelchiorF1 (small blind) folded before Flop
+Seat 9: j+sch1977 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232768512407:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:12:32 PT [2022/01/03 0:12:32 ET]
+Table 'Jihlava IV' 9-max Seat #8 is the button
+Seat 2: Waterloo00 ($4.07 in chips) 
+Seat 3: yabaicwb ($1.01 in chips) 
+Seat 4: VFonsex ($1.28 in chips) 
+Seat 5: Alexsabur ($2.22 in chips) 
+Seat 6: tutjak ($5.56 in chips) 
+Seat 7: Dorex2007 ($2.06 in chips) 
+Seat 8: MelchiorF1 ($10.16 in chips) 
+Seat 9: j+sch1977 ($1.86 in chips) 
+j+sch1977: posts small blind $0.01
+Waterloo00: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Qs]
+yabaicwb: folds 
+VFonsex: folds 
+Alexsabur: folds 
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: folds 
+Uncalled bet ($0.01) returned to Waterloo00
+Waterloo00 collected $0.02 from pot
+Waterloo00: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Waterloo00 (big blind) collected ($0.02)
+Seat 3: yabaicwb folded before Flop (didn't bet)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 (button) folded before Flop (didn't bet)
+Seat 9: j+sch1977 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232768514599:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:12:45 PT [2022/01/03 0:12:45 ET]
+Table 'Jihlava IV' 9-max Seat #9 is the button
+Seat 2: Waterloo00 ($4.08 in chips) 
+Seat 3: yabaicwb ($1.01 in chips) 
+Seat 4: VFonsex ($1.28 in chips) 
+Seat 5: Alexsabur ($2.22 in chips) 
+Seat 6: tutjak ($5.56 in chips) 
+Seat 7: Dorex2007 ($2.06 in chips) 
+Seat 8: MelchiorF1 ($10.16 in chips) 
+Seat 9: j+sch1977 ($1.85 in chips) 
+Waterloo00: posts small blind $0.01
+yabaicwb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 9c]
+VFonsex: folds 
+Alexsabur: folds 
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: folds 
+Waterloo00: calls $0.01
+yabaicwb: checks 
+*** FLOP *** [6d 2c 4h]
+Waterloo00: checks 
+yabaicwb: bets $0.04
+Waterloo00: calls $0.04
+*** TURN *** [6d 2c 4h] [Td]
+Waterloo00: checks 
+yabaicwb: bets $0.12
+Waterloo00: folds 
+Uncalled bet ($0.12) returned to yabaicwb
+yabaicwb collected $0.12 from pot
+yabaicwb: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [6d 2c 4h Td]
+Seat 2: Waterloo00 (small blind) folded on the Turn
+Seat 3: yabaicwb (big blind) collected ($0.12)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768521231:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:13:26 PT [2022/01/03 0:13:26 ET]
+Table 'Jihlava IV' 9-max Seat #2 is the button
+Seat 1: BR00RB ($1.03 in chips) 
+Seat 2: Waterloo00 ($4.02 in chips) 
+Seat 3: yabaicwb ($1.07 in chips) 
+Seat 4: VFonsex ($1.28 in chips) 
+Seat 5: Alexsabur ($2.22 in chips) 
+Seat 6: tutjak ($5.56 in chips) 
+Seat 7: Dorex2007 ($2.06 in chips) 
+Seat 8: MelchiorF1 ($10.16 in chips) 
+Seat 9: j+sch1977 ($1.85 in chips) 
+yabaicwb: posts small blind $0.01
+VFonsex: posts big blind $0.02
+BR00RB: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts Qd]
+Alexsabur: raises $0.02 to $0.04
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: folds 
+BR00RB: calls $0.02
+Waterloo00: folds 
+yabaicwb: calls $0.03
+VFonsex: calls $0.02
+*** FLOP *** [8s 7d Ah]
+yabaicwb: checks 
+VFonsex: checks 
+Alexsabur: bets $0.08
+BR00RB: folds 
+yabaicwb: calls $0.08
+VFonsex: folds 
+*** TURN *** [8s 7d Ah] [Js]
+yabaicwb: checks 
+Alexsabur: checks 
+*** RIVER *** [8s 7d Ah Js] [Jh]
+yabaicwb: bets $0.20
+Alexsabur: raises $0.20 to $0.40
+yabaicwb: calls $0.20
+*** SHOW DOWN ***
+Alexsabur: shows [Ac As] (a full house, Aces full of Jacks)
+yabaicwb: mucks hand 
+Alexsabur collected $1.09 from pot
+*** SUMMARY ***
+Total pot $1.13 | Rake $0.04 
+Board [8s 7d Ah Js Jh]
+Seat 1: BR00RB folded on the Flop
+Seat 2: Waterloo00 (button) folded before Flop (didn't bet)
+Seat 3: yabaicwb (small blind) mucked [Tc 8h]
+Seat 4: VFonsex (big blind) folded on the Flop
+Seat 5: Alexsabur showed [Ac As] and won ($1.09) with a full house, Aces full of Jacks
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768537122:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:15:04 PT [2022/01/03 0:15:04 ET]
+Table 'Jihlava IV' 9-max Seat #3 is the button
+Seat 1: BR00RB ($0.98 in chips) 
+Seat 2: Waterloo00 ($4.02 in chips) 
+Seat 3: yabaicwb ($0.55 in chips) 
+Seat 4: VFonsex ($1.24 in chips) 
+Seat 5: Alexsabur ($2.79 in chips) 
+Seat 6: tutjak ($5.56 in chips) 
+Seat 7: Dorex2007 ($2.06 in chips) 
+Seat 8: MelchiorF1 ($10.16 in chips) 
+Seat 9: j+sch1977 ($1.85 in chips) 
+VFonsex: posts small blind $0.01
+Alexsabur: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 9h]
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977 has timed out
+j+sch1977: folds 
+BR00RB: folds 
+Waterloo00 has timed out
+Waterloo00: folds 
+yabaicwb: folds 
+Waterloo00 leaves the table
+VFonsex: calls $0.01
+Alexsabur: checks 
+*** FLOP *** [2s 8d 3d]
+VFonsex: bets $0.04
+Alexsabur: folds 
+Uncalled bet ($0.04) returned to VFonsex
+VFonsex collected $0.04 from pot
+VFonsex: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [2s 8d 3d]
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 2: Waterloo00 folded before Flop (didn't bet)
+Seat 3: yabaicwb (button) folded before Flop (didn't bet)
+Seat 4: VFonsex (small blind) collected ($0.04)
+Seat 5: Alexsabur (big blind) folded on the Flop
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768545064:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:15:53 PT [2022/01/03 0:15:53 ET]
+Table 'Jihlava IV' 9-max Seat #4 is the button
+Seat 1: BR00RB ($0.98 in chips) 
+Seat 3: yabaicwb ($0.55 in chips) 
+Seat 4: VFonsex ($1.26 in chips) 
+Seat 5: Alexsabur ($2.77 in chips) 
+Seat 6: tutjak ($5.56 in chips) 
+Seat 7: Dorex2007 ($2.06 in chips) 
+Seat 8: MelchiorF1 ($10.16 in chips) 
+Seat 9: j+sch1977 ($1.85 in chips) 
+Alexsabur: posts small blind $0.01
+tutjak: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 3d]
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: folds 
+BR00RB: calls $0.02
+yabaicwb: calls $0.02
+VFonsex: folds 
+Alexsabur: calls $0.01
+tutjak: checks 
+*** FLOP *** [4c Ad 5h]
+Alexsabur: checks 
+tutjak: checks 
+BR00RB: checks 
+yabaicwb: bets $0.08
+Alexsabur: calls $0.08
+tutjak: folds 
+BR00RB: folds 
+*** TURN *** [4c Ad 5h] [Kh]
+Alexsabur: checks 
+yabaicwb: bets $0.23
+Alexsabur: raises $0.23 to $0.46
+yabaicwb: calls $0.22 and is all-in
+Uncalled bet ($0.01) returned to Alexsabur
+*** RIVER *** [4c Ad 5h Kh] [Ah]
+*** SHOW DOWN ***
+Alexsabur: shows [9s As] (three of a kind, Aces)
+yabaicwb: shows [3h 4h] (a flush, Ace high)
+yabaicwb collected $1.10 from pot
+Alexsabur cashed out the hand for $0.67 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $1.14 | Rake $0.04 
+Board [4c Ad 5h Kh Ah]
+Seat 1: BR00RB folded on the Flop
+Seat 3: yabaicwb showed [3h 4h] and won ($1.10) with a flush, Ace high
+Seat 4: VFonsex (button) folded before Flop (didn't bet)
+Seat 5: Alexsabur (small blind) showed [9s As] and lost with three of a kind, Aces (cashed out).
+Seat 6: tutjak (big blind) folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768567762:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:17:15 PT [2022/01/03 0:17:15 ET]
+Table 'Jihlava IV' 9-max Seat #5 is the button
+Seat 1: BR00RB ($0.96 in chips) 
+Seat 3: yabaicwb ($1.10 in chips) 
+Seat 4: VFonsex ($1.26 in chips) 
+Seat 5: Alexsabur ($2.89 in chips) 
+Seat 6: tutjak ($5.54 in chips) 
+Seat 7: Dorex2007 ($2.06 in chips) 
+Seat 8: MelchiorF1 ($10.16 in chips) 
+Seat 9: j+sch1977 ($1.85 in chips) 
+tutjak: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Jd]
+DSilver joins the table at seat #2 
+MelchiorF1: folds 
+j+sch1977: folds 
+BR00RB: folds 
+yabaicwb: calls $0.02
+VFonsex: calls $0.02
+Alexsabur: folds 
+tutjak: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [8c 5d 7h]
+tutjak: checks 
+Dorex2007: checks 
+yabaicwb: checks 
+VFonsex: checks 
+*** TURN *** [8c 5d 7h] [8d]
+tutjak: checks 
+Dorex2007: bets $0.08
+yabaicwb: folds 
+VFonsex: folds 
+tutjak: folds 
+Uncalled bet ($0.08) returned to Dorex2007
+Dorex2007 collected $0.08 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [8c 5d 7h 8d]
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 3: yabaicwb folded on the Turn
+Seat 4: VFonsex folded on the Turn
+Seat 5: Alexsabur (button) folded before Flop (didn't bet)
+Seat 6: tutjak (small blind) folded on the Turn
+Seat 7: Dorex2007 (big blind) collected ($0.08)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768580866:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:18:37 PT [2022/01/03 0:18:37 ET]
+Table 'Jihlava IV' 9-max Seat #6 is the button
+Seat 1: BR00RB ($0.96 in chips) 
+Seat 3: yabaicwb ($1.08 in chips) 
+Seat 4: VFonsex ($1.24 in chips) 
+Seat 5: Alexsabur ($2.89 in chips) 
+Seat 6: tutjak ($5.52 in chips) 
+Seat 7: Dorex2007 ($2.12 in chips) 
+Seat 8: MelchiorF1 ($10.16 in chips) 
+Seat 9: j+sch1977 ($2 in chips) 
+Dorex2007: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+DSilver: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 4c]
+j+sch1977: folds 
+BR00RB has timed out
+BR00RB: folds 
+yabaicwb: raises $0.04 to $0.06
+VFonsex: folds 
+Alexsabur: folds 
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+Uncalled bet ($0.04) returned to yabaicwb
+yabaicwb collected $0.05 from pot
+yabaicwb: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 3: yabaicwb collected ($0.05)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: tutjak (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: MelchiorF1 (big blind) folded before Flop
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768591965:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:19:15 PT [2022/01/03 0:19:15 ET]
+Table 'Jihlava IV' 9-max Seat #7 is the button
+Seat 1: BR00RB ($0.96 in chips) 
+Seat 3: yabaicwb ($1.11 in chips) 
+Seat 4: VFonsex ($1.24 in chips) 
+Seat 5: Alexsabur ($2.89 in chips) 
+Seat 6: tutjak ($5.52 in chips) 
+Seat 7: Dorex2007 ($2.11 in chips) 
+Seat 8: MelchiorF1 ($10.14 in chips) 
+Seat 9: j+sch1977 ($2 in chips) 
+MelchiorF1: posts small blind $0.01
+j+sch1977: posts big blind $0.02
+DSilver: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 2c]
+BR00RB: raises $0.02 to $0.04
+yabaicwb: calls $0.04
+VFonsex: raises $0.15 to $0.19
+Alexsabur: folds 
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: folds 
+DSilver leaves the table
+BR00RB: calls $0.15
+yabaicwb: folds 
+*** FLOP *** [Tc 6d Qc]
+BR00RB: checks 
+VFonsex: bets $0.21
+BR00RB: folds 
+Uncalled bet ($0.21) returned to VFonsex
+VFonsex collected $0.43 from pot
+VFonsex: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Tc 6d Qc]
+Seat 1: BR00RB folded on the Flop
+Seat 3: yabaicwb folded before Flop
+Seat 4: VFonsex collected ($0.43)
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: MelchiorF1 (small blind) folded before Flop
+Seat 9: j+sch1977 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232768599894:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:20:06 PT [2022/01/03 0:20:06 ET]
+Table 'Jihlava IV' 9-max Seat #8 is the button
+Seat 1: BR00RB ($0.77 in chips) 
+Seat 3: yabaicwb ($1.07 in chips) 
+Seat 4: VFonsex ($1.48 in chips) 
+Seat 5: Alexsabur ($2.89 in chips) 
+Seat 6: tutjak ($5.52 in chips) 
+Seat 7: Dorex2007 ($2.11 in chips) 
+Seat 8: MelchiorF1 ($10.13 in chips) 
+Seat 9: j+sch1977 ($1.98 in chips) 
+j+sch1977: posts small blind $0.01
+BR00RB: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 5h]
+yabaicwb: raises $0.02 to $0.04
+VFonsex: folds 
+Alexsabur: calls $0.04
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: calls $0.03
+BR00RB: calls $0.02
+*** FLOP *** [7c Qs Kh]
+j+sch1977: checks 
+BR00RB: checks 
+yabaicwb: bets $0.15
+Alexsabur: folds 
+j+sch1977: folds 
+BR00RB: folds 
+Uncalled bet ($0.15) returned to yabaicwb
+yabaicwb collected $0.15 from pot
+yabaicwb: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [7c Qs Kh]
+Seat 1: BR00RB (big blind) folded on the Flop
+Seat 3: yabaicwb collected ($0.15)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur folded on the Flop
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 (button) folded before Flop (didn't bet)
+Seat 9: j+sch1977 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #232768606584:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:20:48 PT [2022/01/03 0:20:48 ET]
+Table 'Jihlava IV' 9-max Seat #9 is the button
+Seat 1: BR00RB ($0.73 in chips) 
+Seat 3: yabaicwb ($1.18 in chips) 
+Seat 4: VFonsex ($1.48 in chips) 
+Seat 5: Alexsabur ($2.85 in chips) 
+Seat 6: tutjak ($5.52 in chips) 
+Seat 7: Dorex2007 ($2.11 in chips) 
+Seat 8: MelchiorF1 ($10.13 in chips) 
+Seat 9: j+sch1977 ($1.94 in chips) 
+BR00RB: posts small blind $0.01
+yabaicwb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 6h]
+VFonsex: folds 
+Alexsabur: raises $0.04 to $0.06
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: calls $0.06
+BR00RB: folds 
+GENJD joins the table at seat #2 
+yabaicwb: raises $0.04 to $0.10
+Alexsabur: calls $0.04
+j+sch1977: raises $1.84 to $1.94 and is all-in
+yabaicwb: folds 
+Alexsabur: folds 
+Uncalled bet ($1.84) returned to j+sch1977
+j+sch1977 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0 
+Seat 1: BR00RB (small blind) folded before Flop
+Seat 3: yabaicwb (big blind) folded before Flop
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur folded before Flop
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 (button) collected ($0.31)
+
+
+
+PokerStars Hand #232768613992:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:21:35 PT [2022/01/03 0:21:35 ET]
+Table 'Jihlava IV' 9-max Seat #1 is the button
+Seat 1: BR00RB ($0.72 in chips) 
+Seat 3: yabaicwb ($1.08 in chips) 
+Seat 4: VFonsex ($1.48 in chips) 
+Seat 5: Alexsabur ($2.75 in chips) 
+Seat 6: tutjak ($5.52 in chips) 
+Seat 7: Dorex2007 ($2.11 in chips) 
+Seat 8: MelchiorF1 ($10.13 in chips) 
+Seat 9: j+sch1977 ($2.15 in chips) 
+yabaicwb: posts small blind $0.01
+VFonsex: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 8h]
+Alexsabur: folds 
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: calls $0.02
+BR00RB: folds 
+yabaicwb: raises $0.04 to $0.06
+VFonsex: folds 
+j+sch1977: raises $2.09 to $2.15 and is all-in
+yabaicwb: calls $1.02 and is all-in
+Uncalled bet ($1.07) returned to j+sch1977
+*** FLOP *** [Tc 6s 4c]
+*** TURN *** [Tc 6s 4c] [3c]
+*** RIVER *** [Tc 6s 4c 3c] [8s]
+*** SHOW DOWN ***
+yabaicwb: shows [Kh As] (high card Ace)
+j+sch1977: shows [Kd Ad] (high card Ace)
+yabaicwb collected $1.05 from pot
+j+sch1977 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $2.18 | Rake $0.08 
+Board [Tc 6s 4c 3c 8s]
+Seat 1: BR00RB (button) folded before Flop (didn't bet)
+Seat 3: yabaicwb (small blind) showed [Kh As] and won ($1.05) with high card Ace
+Seat 4: VFonsex (big blind) folded before Flop
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 showed [Kd Ad] and won ($1.05) with high card Ace
+
+
+
+PokerStars Hand #232768619148:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:22:08 PT [2022/01/03 0:22:08 ET]
+Table 'Jihlava IV' 9-max Seat #3 is the button
+Seat 1: BR00RB ($0.72 in chips) 
+Seat 2: GENJD ($2 in chips) 
+Seat 3: yabaicwb ($1.05 in chips) 
+Seat 4: VFonsex ($1.46 in chips) 
+Seat 5: Alexsabur ($2.75 in chips) 
+Seat 6: tutjak ($5.52 in chips) 
+Seat 7: Dorex2007 ($2.11 in chips) 
+Seat 8: MelchiorF1 ($10.13 in chips) 
+Seat 9: j+sch1977 ($2.12 in chips) 
+VFonsex: posts small blind $0.01
+Alexsabur: posts big blind $0.02
+GENJD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Js]
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: folds 
+BR00RB: folds 
+GENJD: checks 
+yabaicwb: folds 
+VFonsex: calls $0.01
+Alexsabur: checks 
+*** FLOP *** [Ts 9h Kh]
+VFonsex: bets $0.03
+Alexsabur: folds 
+GENJD: folds 
+Uncalled bet ($0.03) returned to VFonsex
+VFonsex collected $0.06 from pot
+VFonsex: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Ts 9h Kh]
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 2: GENJD folded on the Flop (didn't bet)
+Seat 3: yabaicwb (button) folded before Flop (didn't bet)
+Seat 4: VFonsex (small blind) collected ($0.06)
+Seat 5: Alexsabur (big blind) folded on the Flop
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768625638:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:22:49 PT [2022/01/03 0:22:49 ET]
+Table 'Jihlava IV' 9-max Seat #4 is the button
+Seat 1: BR00RB ($0.72 in chips) 
+Seat 2: GENJD ($2 in chips) 
+Seat 3: yabaicwb ($1.05 in chips) 
+Seat 4: VFonsex ($1.50 in chips) 
+Seat 5: Alexsabur ($2.73 in chips) 
+Seat 6: tutjak ($5.52 in chips) 
+Seat 7: Dorex2007 ($2.11 in chips) 
+Seat 8: MelchiorF1 ($10.13 in chips) 
+Seat 9: j+sch1977 ($2.12 in chips) 
+Alexsabur: posts small blind $0.01
+tutjak: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 6s]
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: folds 
+BR00RB: folds 
+GENJD: raises $0.04 to $0.06
+yabaicwb: calls $0.06
+VFonsex: folds 
+Alexsabur: folds 
+tutjak: folds 
+*** FLOP *** [2s Js 8s]
+GENJD: checks 
+yabaicwb: checks 
+*** TURN *** [2s Js 8s] [3s]
+GENJD: checks 
+yabaicwb: checks 
+*** RIVER *** [2s Js 8s 3s] [5c]
+GENJD: checks 
+yabaicwb: bets $0.14
+GENJD: folds 
+Uncalled bet ($0.14) returned to yabaicwb
+yabaicwb collected $0.14 from pot
+yabaicwb: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2s Js 8s 3s 5c]
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 2: GENJD folded on the River
+Seat 3: yabaicwb collected ($0.14)
+Seat 4: VFonsex (button) folded before Flop (didn't bet)
+Seat 5: Alexsabur (small blind) folded before Flop
+Seat 6: tutjak (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768635248:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:23:50 PT [2022/01/03 0:23:50 ET]
+Table 'Jihlava IV' 9-max Seat #5 is the button
+Seat 1: BR00RB ($0.72 in chips) 
+Seat 2: GENJD ($2 in chips) 
+Seat 3: yabaicwb ($1.13 in chips) 
+Seat 4: VFonsex ($1.50 in chips) 
+Seat 5: Alexsabur ($2.72 in chips) 
+Seat 6: tutjak ($5.50 in chips) 
+Seat 7: Dorex2007 ($2.11 in chips) 
+Seat 8: MelchiorF1 ($10.13 in chips) 
+Seat 9: j+sch1977 ($2.12 in chips) 
+tutjak: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 5c]
+MelchiorF1: folds 
+j+sch1977: folds 
+BR00RB: folds 
+GENJD: folds 
+yabaicwb: raises $0.02 to $0.04
+VFonsex: folds 
+Alexsabur: folds 
+tutjak: folds 
+Dorex2007: folds 
+Uncalled bet ($0.02) returned to yabaicwb
+yabaicwb collected $0.05 from pot
+yabaicwb: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: yabaicwb collected ($0.05)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur (button) folded before Flop (didn't bet)
+Seat 6: tutjak (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768638744:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:24:12 PT [2022/01/03 0:24:12 ET]
+Table 'Jihlava IV' 9-max Seat #6 is the button
+Seat 1: BR00RB ($0.72 in chips) 
+Seat 2: GENJD ($2 in chips) 
+Seat 3: yabaicwb ($1.16 in chips) 
+Seat 4: VFonsex ($1.50 in chips) 
+Seat 5: Alexsabur ($2.72 in chips) 
+Seat 6: tutjak ($5.49 in chips) 
+Seat 7: Dorex2007 ($2.09 in chips) 
+Seat 8: MelchiorF1 ($10.13 in chips) 
+Seat 9: j+sch1977 ($2.12 in chips) 
+Dorex2007: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 9h]
+j+sch1977: raises $0.04 to $0.06
+BR00RB: folds 
+GENJD: calls $0.06
+yabaicwb: calls $0.06
+VFonsex: calls $0.06
+Alexsabur: folds 
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+*** FLOP *** [Kd Kc 2h]
+j+sch1977: bets $0.06
+GENJD: folds 
+yabaicwb: folds 
+VFonsex: calls $0.06
+*** TURN *** [Kd Kc 2h] [2d]
+j+sch1977: checks 
+VFonsex: bets $0.12
+j+sch1977: calls $0.12
+*** RIVER *** [Kd Kc 2h 2d] [8c]
+j+sch1977: checks 
+VFonsex: checks 
+*** SHOW DOWN ***
+j+sch1977: shows [3d 3h] (two pair, Kings and Threes)
+VFonsex: shows [4h 4s] (two pair, Kings and Fours)
+VFonsex collected $0.61 from pot
+*** SUMMARY ***
+Total pot $0.63 | Rake $0.02 
+Board [Kd Kc 2h 2d 8c]
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 2: GENJD folded on the Flop
+Seat 3: yabaicwb folded on the Flop
+Seat 4: VFonsex showed [4h 4s] and won ($0.61) with two pair, Kings and Fours
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: tutjak (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: MelchiorF1 (big blind) folded before Flop
+Seat 9: j+sch1977 showed [3d 3h] and lost with two pair, Kings and Threes
+
+
+
+PokerStars Hand #232768649964:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:25:24 PT [2022/01/03 0:25:24 ET]
+Table 'Jihlava IV' 9-max Seat #7 is the button
+Seat 1: BR00RB ($0.72 in chips) 
+Seat 2: GENJD ($2 in chips) 
+Seat 3: yabaicwb ($1.10 in chips) 
+Seat 4: VFonsex ($1.87 in chips) 
+Seat 5: Alexsabur ($2.72 in chips) 
+Seat 6: tutjak ($5.49 in chips) 
+Seat 7: Dorex2007 ($2.08 in chips) 
+Seat 8: MelchiorF1 ($10.11 in chips) 
+Seat 9: j+sch1977 ($1.88 in chips) 
+MelchiorF1: posts small blind $0.01
+j+sch1977: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 7d]
+BR00RB: folds 
+GENJD: raises $0.02 to $0.04
+yabaicwb: calls $0.04
+VFonsex: folds 
+Alexsabur: folds 
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: calls $0.02
+*** FLOP *** [9h As 2c]
+j+sch1977: checks 
+GENJD: bets $0.13
+yabaicwb: calls $0.13
+j+sch1977: folds 
+*** TURN *** [9h As 2c] [Qs]
+GENJD: bets $1.83 and is all-in
+yabaicwb: folds 
+Uncalled bet ($1.83) returned to GENJD
+GENJD collected $0.38 from pot
+GENJD: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [9h As 2c Qs]
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 2: GENJD collected ($0.38)
+Seat 3: yabaicwb folded on the Turn
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: MelchiorF1 (small blind) folded before Flop
+Seat 9: j+sch1977 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232768658677:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:26:20 PT [2022/01/03 0:26:20 ET]
+Table 'Jihlava IV' 9-max Seat #8 is the button
+Seat 1: BR00RB ($0.72 in chips) 
+Seat 2: GENJD ($2.21 in chips) 
+Seat 3: yabaicwb ($0.93 in chips) 
+Seat 4: VFonsex ($1.87 in chips) 
+Seat 5: Alexsabur ($2.72 in chips) 
+Seat 6: tutjak ($5.49 in chips) 
+Seat 7: Dorex2007 ($2.08 in chips) 
+Seat 8: MelchiorF1 ($10.10 in chips) 
+Seat 9: j+sch1977 ($1.84 in chips) 
+j+sch1977: posts small blind $0.01
+BR00RB: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Kh]
+GENJD: folds 
+yabaicwb: calls $0.02
+VFonsex: folds 
+Alexsabur: folds 
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: raises $0.04 to $0.06
+j+sch1977: folds 
+BR00RB: folds 
+yabaicwb: calls $0.04
+*** FLOP *** [Th Ac Ah]
+yabaicwb: checks 
+MelchiorF1: bets $0.06
+yabaicwb: calls $0.06
+*** TURN *** [Th Ac Ah] [Qh]
+yabaicwb: checks 
+MelchiorF1: checks 
+*** RIVER *** [Th Ac Ah Qh] [4s]
+yabaicwb: bets $0.13
+MelchiorF1: folds 
+Uncalled bet ($0.13) returned to yabaicwb
+yabaicwb collected $0.26 from pot
+yabaicwb: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Th Ac Ah Qh 4s]
+Seat 1: BR00RB (big blind) folded before Flop
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: yabaicwb collected ($0.26)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 (button) folded on the River
+Seat 9: j+sch1977 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232768672563:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:27:47 PT [2022/01/03 0:27:47 ET]
+Table 'Jihlava IV' 9-max Seat #9 is the button
+Seat 1: BR00RB ($0.70 in chips) 
+Seat 2: GENJD ($2.21 in chips) 
+Seat 3: yabaicwb ($1.07 in chips) 
+Seat 4: VFonsex ($1.87 in chips) 
+Seat 5: Alexsabur ($2.72 in chips) 
+Seat 6: tutjak ($5.49 in chips) 
+Seat 7: Dorex2007 ($2.08 in chips) 
+Seat 8: MelchiorF1 ($9.98 in chips) 
+Seat 9: j+sch1977 ($1.83 in chips) 
+BR00RB: posts small blind $0.01
+GENJD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 4h]
+yabaicwb: folds 
+VFonsex: folds 
+Alexsabur: folds 
+tutjak: folds 
+Dorex2007: raises $0.02 to $0.04
+MelchiorF1: folds 
+j+sch1977: calls $0.04
+BR00RB: folds 
+GENJD: calls $0.02
+*** FLOP *** [8c 5s 8h]
+GENJD: checks 
+Dorex2007: checks 
+j+sch1977: checks 
+*** TURN *** [8c 5s 8h] [Td]
+GENJD: checks 
+Dorex2007: bets $0.09
+j+sch1977: folds 
+GENJD: folds 
+Uncalled bet ($0.09) returned to Dorex2007
+Dorex2007 collected $0.13 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8c 5s 8h Td]
+Seat 1: BR00RB (small blind) folded before Flop
+Seat 2: GENJD (big blind) folded on the Turn
+Seat 3: yabaicwb folded before Flop (didn't bet)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.13)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 (button) folded on the Turn
+
+
+
+PokerStars Hand #232768678497:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:28:25 PT [2022/01/03 0:28:25 ET]
+Table 'Jihlava IV' 9-max Seat #1 is the button
+Seat 1: BR00RB ($0.69 in chips) 
+Seat 2: GENJD ($2.17 in chips) 
+Seat 3: yabaicwb ($1.07 in chips) 
+Seat 4: VFonsex ($1.87 in chips) 
+Seat 5: Alexsabur ($2.72 in chips) 
+Seat 6: tutjak ($5.49 in chips) 
+Seat 7: Dorex2007 ($2.17 in chips) 
+Seat 8: MelchiorF1 ($9.98 in chips) 
+Seat 9: j+sch1977 ($1.79 in chips) 
+GENJD: posts small blind $0.01
+yabaicwb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 2h]
+VFonsex: raises $0.04 to $0.06
+Alexsabur: folds 
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: folds 
+BR00RB: folds 
+GENJD: folds 
+yabaicwb: folds 
+Uncalled bet ($0.04) returned to VFonsex
+VFonsex collected $0.05 from pot
+VFonsex: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: BR00RB (button) folded before Flop (didn't bet)
+Seat 2: GENJD (small blind) folded before Flop
+Seat 3: yabaicwb (big blind) folded before Flop
+Seat 4: VFonsex collected ($0.05)
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768681896:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:28:47 PT [2022/01/03 0:28:47 ET]
+Table 'Jihlava IV' 9-max Seat #2 is the button
+Seat 1: BR00RB ($0.69 in chips) 
+Seat 2: GENJD ($2.16 in chips) 
+Seat 3: yabaicwb ($1.05 in chips) 
+Seat 4: VFonsex ($1.90 in chips) 
+Seat 5: Alexsabur ($2.72 in chips) 
+Seat 6: tutjak ($5.49 in chips) 
+Seat 7: Dorex2007 ($2.17 in chips) 
+Seat 8: MelchiorF1 ($9.98 in chips) 
+Seat 9: j+sch1977 ($1.79 in chips) 
+yabaicwb: posts small blind $0.01
+VFonsex: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Jd]
+Alexsabur: folds 
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: folds 
+BR00RB: folds 
+GENJD: raises $0.02 to $0.04
+yabaicwb: calls $0.03
+VFonsex: calls $0.02
+*** FLOP *** [8d Qd 9s]
+yabaicwb: checks 
+VFonsex: checks 
+GENJD: bets $0.12
+yabaicwb: folds 
+VFonsex: calls $0.12
+*** TURN *** [8d Qd 9s] [Ac]
+VFonsex: checks 
+GENJD: checks 
+*** RIVER *** [8d Qd 9s Ac] [5c]
+VFonsex: bets $0.17
+GENJD: folds 
+Uncalled bet ($0.17) returned to VFonsex
+VFonsex collected $0.35 from pot
+VFonsex: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [8d Qd 9s Ac 5c]
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 2: GENJD (button) folded on the River
+Seat 3: yabaicwb (small blind) folded on the Flop
+Seat 4: VFonsex (big blind) collected ($0.35)
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768692004:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:29:52 PT [2022/01/03 0:29:52 ET]
+Table 'Jihlava IV' 9-max Seat #3 is the button
+Seat 1: BR00RB ($0.69 in chips) 
+Seat 2: GENJD ($2 in chips) 
+Seat 3: yabaicwb ($1.01 in chips) 
+Seat 4: VFonsex ($2.09 in chips) 
+Seat 5: Alexsabur ($2.72 in chips) 
+Seat 6: tutjak ($5.49 in chips) 
+Seat 7: Dorex2007 ($2.17 in chips) 
+Seat 8: MelchiorF1 ($9.98 in chips) 
+Seat 9: j+sch1977 ($1.79 in chips) 
+VFonsex: posts small blind $0.01
+Alexsabur: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 2s]
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: folds 
+BR00RB: folds 
+GENJD: folds 
+yabaicwb: raises $0.02 to $0.04
+VFonsex: calls $0.03
+Alexsabur: calls $0.02
+*** FLOP *** [Kh Tc 3s]
+VFonsex: checks 
+Alexsabur: checks 
+yabaicwb: bets $0.12
+VFonsex: folds 
+Alexsabur: folds 
+Uncalled bet ($0.12) returned to yabaicwb
+yabaicwb collected $0.12 from pot
+yabaicwb: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Kh Tc 3s]
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: yabaicwb (button) collected ($0.12)
+Seat 4: VFonsex (small blind) folded on the Flop
+Seat 5: Alexsabur (big blind) folded on the Flop
+Seat 6: tutjak folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768697461:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:30:27 PT [2022/01/03 0:30:27 ET]
+Table 'Jihlava IV' 9-max Seat #4 is the button
+Seat 1: BR00RB ($0.69 in chips) 
+Seat 2: GENJD ($2 in chips) 
+Seat 3: yabaicwb ($1.09 in chips) 
+Seat 4: VFonsex ($2.05 in chips) 
+Seat 5: Alexsabur ($2.68 in chips) 
+Seat 6: tutjak ($5.49 in chips) 
+Seat 7: Dorex2007 ($2.17 in chips) 
+Seat 8: MelchiorF1 ($9.98 in chips) 
+Seat 9: j+sch1977 ($1.79 in chips) 
+Alexsabur: posts small blind $0.01
+tutjak: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 9c]
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: folds 
+BR00RB: folds 
+GENJD: folds 
+yabaicwb: raises $0.06 to $0.08
+VFonsex: folds 
+Alexsabur: folds 
+tutjak: folds 
+Uncalled bet ($0.06) returned to yabaicwb
+yabaicwb collected $0.05 from pot
+yabaicwb: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: yabaicwb collected ($0.05)
+Seat 4: VFonsex (button) folded before Flop (didn't bet)
+Seat 5: Alexsabur (small blind) folded before Flop
+Seat 6: tutjak (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768700861:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:30:49 PT [2022/01/03 0:30:49 ET]
+Table 'Jihlava IV' 9-max Seat #5 is the button
+Seat 1: BR00RB ($0.69 in chips) 
+Seat 2: GENJD ($2 in chips) 
+Seat 3: yabaicwb ($1.12 in chips) 
+Seat 4: VFonsex ($2.05 in chips) 
+Seat 5: Alexsabur ($2.67 in chips) 
+Seat 6: tutjak ($5.47 in chips) 
+Seat 7: Dorex2007 ($2.17 in chips) 
+Seat 8: MelchiorF1 ($9.98 in chips) 
+Seat 9: j+sch1977 ($1.79 in chips) 
+tutjak: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 2c]
+MelchiorF1: folds 
+j+sch1977: folds 
+BR00RB: calls $0.02
+GENJD: calls $0.02
+yabaicwb: folds 
+VFonsex: raises $0.02 to $0.04
+Alexsabur: folds 
+tutjak: folds 
+Dorex2007: folds 
+BR00RB: calls $0.02
+GENJD: calls $0.02
+*** FLOP *** [4s 7d 8h]
+BR00RB: checks 
+GENJD: bets $0.14
+VFonsex: folds 
+BR00RB: folds 
+Uncalled bet ($0.14) returned to GENJD
+GENJD collected $0.14 from pot
+GENJD: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [4s 7d 8h]
+Seat 1: BR00RB folded on the Flop
+Seat 2: GENJD collected ($0.14)
+Seat 3: yabaicwb folded before Flop (didn't bet)
+Seat 4: VFonsex folded on the Flop
+Seat 5: Alexsabur (button) folded before Flop (didn't bet)
+Seat 6: tutjak (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768707530:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:31:33 PT [2022/01/03 0:31:33 ET]
+Table 'Jihlava IV' 9-max Seat #6 is the button
+Seat 1: BR00RB ($0.65 in chips) 
+Seat 2: GENJD ($2.10 in chips) 
+Seat 3: yabaicwb ($1.12 in chips) 
+Seat 4: VFonsex ($2.01 in chips) 
+Seat 5: Alexsabur ($2.67 in chips) 
+Seat 6: tutjak ($5.46 in chips) 
+Seat 7: Dorex2007 ($2.15 in chips) 
+Seat 8: MelchiorF1 ($9.98 in chips) 
+Seat 9: j+sch1977 ($1.79 in chips) 
+Dorex2007: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 6s]
+j+sch1977: folds 
+BR00RB: calls $0.02
+GENJD: folds 
+yabaicwb: folds 
+VFonsex: calls $0.02
+Alexsabur: folds 
+tutjak: folds 
+Dorex2007: folds 
+MelchiorF1: checks 
+*** FLOP *** [7s Kc Qs]
+MelchiorF1: checks 
+BR00RB: bets $0.02
+VFonsex: folds 
+MelchiorF1: calls $0.02
+*** TURN *** [7s Kc Qs] [Td]
+MelchiorF1: checks 
+BR00RB: bets $0.02
+MelchiorF1: raises $0.04 to $0.06
+BR00RB: calls $0.04
+*** RIVER *** [7s Kc Qs Td] [2s]
+MelchiorF1: checks 
+BR00RB: checks 
+*** SHOW DOWN ***
+MelchiorF1: shows [Kd 4d] (a pair of Kings)
+BR00RB: mucks hand 
+MelchiorF1 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [7s Kc Qs Td 2s]
+Seat 1: BR00RB mucked [Jc 7c]
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: yabaicwb folded before Flop (didn't bet)
+Seat 4: VFonsex folded on the Flop
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: tutjak (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: MelchiorF1 (big blind) showed [Kd 4d] and won ($0.22) with a pair of Kings
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768777599:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:39:06 PT [2022/01/03 0:39:06 ET]
+Table 'Jihlava IV' 9-max Seat #8 is the button
+Seat 1: BR00RB ($0.93 in chips) 
+Seat 2: GENJD ($2.14 in chips) 
+Seat 3: yabaicwb ($2.29 in chips) 
+Seat 4: VFonsex ($1.70 in chips) 
+Seat 5: Alexsabur ($1.36 in chips) 
+Seat 6: umka186 ($2 in chips) 
+Seat 7: Dorex2007 ($2.14 in chips) 
+Seat 8: MelchiorF1 ($9.92 in chips) 
+Seat 9: j+sch1977 ($2.76 in chips) 
+j+sch1977: posts small blind $0.01
+BR00RB: posts big blind $0.02
+umka186: posts big blind $0.02
+Dorex2007: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 8h]
+GENJD: calls $0.02
+yabaicwb: folds 
+VFonsex: folds 
+Alexsabur: calls $0.02
+umka186: checks 
+Dorex2007: checks 
+MelchiorF1: folds 
+j+sch1977: calls $0.01
+BR00RB is disconnected 
+BR00RB has timed out while disconnected
+BR00RB: checks 
+*** FLOP *** [4d 4s Td]
+j+sch1977: checks 
+BR00RB has timed out while disconnected
+BR00RB: checks 
+GENJD: checks 
+Alexsabur: checks 
+umka186: checks 
+Dorex2007: checks 
+*** TURN *** [4d 4s Td] [2s]
+j+sch1977: checks 
+BR00RB has timed out while disconnected
+BR00RB: checks 
+GENJD: checks 
+Alexsabur: bets $0.07
+umka186: calls $0.07
+Dorex2007: folds 
+j+sch1977: folds 
+BR00RB has timed out while disconnected
+BR00RB: folds 
+GENJD: folds 
+*** RIVER *** [4d 4s Td 2s] [Ah]
+Alexsabur: bets $0.17
+umka186: raises $1.10 to $1.27
+Alexsabur: calls $1.10 and is all-in
+*** SHOW DOWN ***
+umka186: shows [4c 4h] (four of a kind, Fours)
+Alexsabur: shows [8d Ac] (two pair, Aces and Fours)
+umka186 collected $2.71 from pot
+*** SUMMARY ***
+Total pot $2.81 | Rake $0.10 
+Board [4d 4s Td 2s Ah]
+Seat 1: BR00RB (big blind) folded on the Turn
+Seat 2: GENJD folded on the Turn
+Seat 3: yabaicwb folded before Flop (didn't bet)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur showed [8d Ac] and lost with two pair, Aces and Fours
+Seat 6: umka186 showed [4c 4h] and won ($2.71) with four of a kind, Fours
+Seat 7: Dorex2007 folded on the Turn (didn't bet)
+Seat 8: MelchiorF1 (button) folded before Flop (didn't bet)
+Seat 9: j+sch1977 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #232768812405:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:42:54 PT [2022/01/03 0:42:54 ET]
+Table 'Jihlava IV' 9-max Seat #9 is the button
+Seat 2: GENJD ($2.12 in chips) 
+Seat 3: yabaicwb ($2.29 in chips) 
+Seat 4: VFonsex ($1.70 in chips) 
+Seat 6: umka186 ($3.35 in chips) 
+Seat 7: Dorex2007 ($2.11 in chips) 
+Seat 8: MelchiorF1 ($9.92 in chips) 
+Seat 9: j+sch1977 ($2.74 in chips) 
+GENJD: posts small blind $0.01
+yabaicwb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 7h]
+VFonsex: folds 
+umka186: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: folds 
+GENJD: calls $0.01
+yabaicwb: raises $0.04 to $0.06
+GENJD: calls $0.04
+*** FLOP *** [9d 7d 5s]
+GENJD: checks 
+yabaicwb: bets $0.10
+GENJD: calls $0.10
+*** TURN *** [9d 7d 5s] [2d]
+GENJD: checks 
+yabaicwb: checks 
+*** RIVER *** [9d 7d 5s 2d] [4d]
+GENJD: checks 
+yabaicwb: checks 
+*** SHOW DOWN ***
+GENJD: shows [Ts 8s] (high card Ten)
+yabaicwb: shows [9c Jh] (a pair of Nines)
+yabaicwb collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [9d 7d 5s 2d 4d]
+Seat 2: GENJD (small blind) showed [Ts 8s] and lost with high card Ten
+Seat 3: yabaicwb (big blind) showed [9c Jh] and won ($0.31) with a pair of Nines
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 6: umka186 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768822943:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:44:04 PT [2022/01/03 0:44:04 ET]
+Table 'Jihlava IV' 9-max Seat #2 is the button
+Seat 1: BR00RB ($0.91 in chips) 
+Seat 2: GENJD ($2 in chips) 
+Seat 3: yabaicwb ($2.44 in chips) 
+Seat 4: VFonsex ($1.70 in chips) 
+Seat 5: Alexsabur ($2 in chips) 
+Seat 6: umka186 ($3.35 in chips) 
+Seat 7: Dorex2007 ($2.11 in chips) 
+Seat 8: MelchiorF1 ($9.92 in chips) 
+Seat 9: j+sch1977 ($2.74 in chips) 
+yabaicwb: posts small blind $0.01
+VFonsex: posts big blind $0.02
+BR00RB: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 5d]
+Alexsabur: folds 
+umka186: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: folds 
+BR00RB: raises $0.02 to $0.04
+GENJD: calls $0.04
+yabaicwb: calls $0.03
+VFonsex: calls $0.02
+*** FLOP *** [Js Jd 8d]
+yabaicwb: checks 
+VFonsex: checks 
+BR00RB: checks 
+GENJD: checks 
+*** TURN *** [Js Jd 8d] [2s]
+yabaicwb: bets $0.10
+VFonsex: folds 
+BR00RB: calls $0.10
+GENJD: raises $1.86 to $1.96 and is all-in
+yabaicwb: folds 
+BR00RB: calls $0.76 and is all-in
+Uncalled bet ($1.10) returned to GENJD
+*** RIVER *** [Js Jd 8d 2s] [Th]
+*** SHOW DOWN ***
+BR00RB: shows [Ac Jc] (three of a kind, Jacks)
+GENJD: shows [2d 2h] (a full house, Deuces full of Jacks)
+GENJD cashed out the hand for $1.59 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $1.99 | Rake $0.07 
+Board [Js Jd 8d 2s Th]
+Seat 1: BR00RB showed [Ac Jc] and lost with three of a kind, Jacks
+Seat 2: GENJD (button) showed [2d 2h] and won ($1.92) with a full house, Deuces full of Jacks (pot not awarded as player cashed out)
+Seat 3: yabaicwb (small blind) folded on the Turn
+Seat 4: VFonsex (big blind) folded on the Turn
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: umka186 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768836597:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:45:35 PT [2022/01/03 0:45:35 ET]
+Table 'Jihlava IV' 9-max Seat #3 is the button
+Seat 2: GENJD ($2.69 in chips) 
+Seat 3: yabaicwb ($2.30 in chips) 
+Seat 4: VFonsex ($1.66 in chips) 
+Seat 5: Alexsabur ($2 in chips) 
+Seat 6: umka186 ($3.35 in chips) 
+Seat 7: Dorex2007 ($2.11 in chips) 
+Seat 8: MelchiorF1 ($9.92 in chips) 
+Seat 9: j+sch1977 ($2.74 in chips) 
+VFonsex: posts small blind $0.01
+Alexsabur: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 4s]
+umka186: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+j+sch1977: calls $0.02
+GENJD: folds 
+yabaicwb: raises $0.06 to $0.08
+VFonsex: folds 
+Alexsabur: folds 
+j+sch1977: folds 
+Uncalled bet ($0.06) returned to yabaicwb
+yabaicwb collected $0.07 from pot
+yabaicwb: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: yabaicwb (button) collected ($0.07)
+Seat 4: VFonsex (small blind) folded before Flop
+Seat 5: Alexsabur (big blind) folded before Flop
+Seat 6: umka186 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 folded before Flop
+
+
+
+PokerStars Hand #232768841657:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:46:08 PT [2022/01/03 0:46:08 ET]
+Table 'Jihlava IV' 9-max Seat #4 is the button
+Seat 2: GENJD ($2.69 in chips) 
+Seat 3: yabaicwb ($2.35 in chips) 
+Seat 4: VFonsex ($1.65 in chips) 
+Seat 5: Alexsabur ($1.98 in chips) 
+Seat 6: umka186 ($3.35 in chips) 
+Seat 7: Dorex2007 ($2.11 in chips) 
+Seat 8: MelchiorF1 ($9.92 in chips) 
+Seat 9: j+sch1977 ($2.72 in chips) 
+Alexsabur: posts small blind $0.01
+umka186: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Jh]
+Dorex2007: calls $0.02
+MelchiorF1: folds 
+j+sch1977: folds 
+GENJD: calls $0.02
+yabaicwb: raises $0.04 to $0.06
+VFonsex: folds 
+Alexsabur: calls $0.05
+umka186: folds 
+Dorex2007: calls $0.04
+GENJD: calls $0.04
+*** FLOP *** [7c Qh Jc]
+Alexsabur: checks 
+Dorex2007: checks 
+GENJD: checks 
+yabaicwb: bets $0.14
+Alexsabur: folds 
+Dorex2007: folds 
+GENJD: folds 
+Uncalled bet ($0.14) returned to yabaicwb
+yabaicwb collected $0.25 from pot
+yabaicwb: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [7c Qh Jc]
+Seat 2: GENJD folded on the Flop
+Seat 3: yabaicwb collected ($0.25)
+Seat 4: VFonsex (button) folded before Flop (didn't bet)
+Seat 5: Alexsabur (small blind) folded on the Flop
+Seat 6: umka186 (big blind) folded before Flop
+Seat 7: Dorex2007 folded on the Flop
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768850426:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:47:06 PT [2022/01/03 0:47:06 ET]
+Table 'Jihlava IV' 9-max Seat #5 is the button
+Seat 2: GENJD ($2.63 in chips) 
+Seat 3: yabaicwb ($2.54 in chips) 
+Seat 4: VFonsex ($1.65 in chips) 
+Seat 5: Alexsabur ($1.92 in chips) 
+Seat 6: umka186 ($3.33 in chips) 
+Seat 7: Dorex2007 ($2.05 in chips) 
+Seat 8: MelchiorF1 ($9.92 in chips) 
+Seat 9: j+sch1977 ($2.72 in chips) 
+umka186: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Tc]
+MelchiorF1: folds 
+j+sch1977: folds 
+GENJD: folds 
+yabaicwb: raises $0.02 to $0.04
+VFonsex: calls $0.04
+Alexsabur: calls $0.04
+umka186: folds 
+Dorex2007: folds 
+*** FLOP *** [Ad 9s 4c]
+yabaicwb: checks 
+VFonsex: checks 
+Alexsabur: bets $0.07
+yabaicwb: folds 
+VFonsex: folds 
+Uncalled bet ($0.07) returned to Alexsabur
+Alexsabur collected $0.14 from pot
+Alexsabur: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ad 9s 4c]
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: yabaicwb folded on the Flop
+Seat 4: VFonsex folded on the Flop
+Seat 5: Alexsabur (button) collected ($0.14)
+Seat 6: umka186 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: j+sch1977 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768865672:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:48:01 PT [2022/01/03 0:48:01 ET]
+Table 'Jihlava IV' 9-max Seat #6 is the button
+Seat 2: GENJD ($2.63 in chips) 
+Seat 3: yabaicwb ($2.50 in chips) 
+Seat 4: VFonsex ($1.61 in chips) 
+Seat 5: Alexsabur ($2.02 in chips) 
+Seat 6: umka186 ($3.32 in chips) 
+Seat 7: Dorex2007 ($2.03 in chips) 
+Seat 8: MelchiorF1 ($9.92 in chips) 
+Seat 9: j+sch1977 ($2.72 in chips) 
+Dorex2007: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 6h]
+j+sch1977: raises $0.04 to $0.06
+GENJD: folds 
+yabaicwb: folds 
+VFonsex: folds 
+Alexsabur: calls $0.06
+umka186: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+*** FLOP *** [Kd Tc 7d]
+j+sch1977: bets $0.08
+Alexsabur: calls $0.08
+*** TURN *** [Kd Tc 7d] [Ah]
+j+sch1977: bets $0.30
+Alexsabur: raises $0.30 to $0.60
+j+sch1977: folds 
+Uncalled bet ($0.30) returned to Alexsabur
+Alexsabur collected $0.88 from pot
+Alexsabur: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.91 | Rake $0.03 
+Board [Kd Tc 7d Ah]
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: yabaicwb folded before Flop (didn't bet)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur collected ($0.88)
+Seat 6: umka186 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: MelchiorF1 (big blind) folded before Flop
+Seat 9: j+sch1977 folded on the Turn
+
+
+
+PokerStars Hand #232768876755:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:49:12 PT [2022/01/03 0:49:12 ET]
+Table 'Jihlava IV' 9-max Seat #7 is the button
+Seat 1: BR00RB ($0.80 in chips) 
+Seat 2: GENJD ($2.63 in chips) 
+Seat 3: yabaicwb ($2.50 in chips) 
+Seat 4: VFonsex ($1.61 in chips) 
+Seat 5: Alexsabur ($2.46 in chips) 
+Seat 6: umka186 ($3.32 in chips) 
+Seat 7: Dorex2007 ($2.02 in chips) 
+Seat 8: MelchiorF1 ($9.90 in chips) 
+MelchiorF1: posts small blind $0.01
+j+sch1977: is sitting out 
+BR00RB: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts Kh]
+j+sch1977 leaves the table
+GENJD: folds 
+yabaicwb: folds 
+VFonsex: calls $0.02
+Alexsabur: calls $0.02
+umka186: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+BR00RB: checks 
+*** FLOP *** [Js As Qd]
+BR00RB: checks 
+VFonsex: bets $0.03
+Alexsabur: folds 
+BR00RB: folds 
+Uncalled bet ($0.03) returned to VFonsex
+VFonsex collected $0.07 from pot
+VFonsex: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Js As Qd]
+Seat 1: BR00RB (big blind) folded on the Flop
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: yabaicwb folded before Flop (didn't bet)
+Seat 4: VFonsex collected ($0.07)
+Seat 5: Alexsabur folded on the Flop
+Seat 6: umka186 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: MelchiorF1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232768882905:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:49:52 PT [2022/01/03 0:49:52 ET]
+Table 'Jihlava IV' 9-max Seat #8 is the button
+Seat 1: BR00RB ($0.78 in chips) 
+Seat 2: GENJD ($2.63 in chips) 
+Seat 3: yabaicwb ($2.50 in chips) 
+Seat 4: VFonsex ($1.66 in chips) 
+Seat 5: Alexsabur ($2.44 in chips) 
+Seat 6: umka186 ($3.32 in chips) 
+Seat 7: Dorex2007 ($2.02 in chips) 
+Seat 8: MelchiorF1 ($9.89 in chips) 
+BR00RB: posts small blind $0.01
+GENJD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 5h]
+yabaicwb: raises $0.04 to $0.06
+VFonsex: folds 
+Alexsabur: folds 
+umka186: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+BR00RB: folds 
+GENJD: calls $0.04
+*** FLOP *** [4c Kh 9s]
+GENJD: checks 
+yabaicwb: bets $0.13
+GENJD: folds 
+Uncalled bet ($0.13) returned to yabaicwb
+yabaicwb collected $0.13 from pot
+yabaicwb: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4c Kh 9s]
+Seat 1: BR00RB (small blind) folded before Flop
+Seat 2: GENJD (big blind) folded on the Flop
+Seat 3: yabaicwb collected ($0.13)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: umka186 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768891723:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:50:32 PT [2022/01/03 0:50:32 ET]
+Table 'Jihlava IV' 9-max Seat #1 is the button
+Seat 1: BR00RB ($0.77 in chips) 
+Seat 2: GENJD ($2.57 in chips) 
+Seat 3: yabaicwb ($2.57 in chips) 
+Seat 4: VFonsex ($1.66 in chips) 
+Seat 5: Alexsabur ($2.44 in chips) 
+Seat 6: umka186 ($3.32 in chips) 
+Seat 7: Dorex2007 ($2.02 in chips) 
+Seat 8: MelchiorF1 ($9.89 in chips) 
+GENJD: posts small blind $0.01
+yabaicwb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Kd]
+VFonsex: calls $0.02
+Alexsabur: folds 
+umka186: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+BR00RB: folds 
+GENJD: calls $0.01
+yabaicwb: raises $0.08 to $0.10
+VFonsex: calls $0.08
+GENJD: folds 
+*** FLOP *** [9h 4c 5c]
+yabaicwb: bets $0.16
+VFonsex: calls $0.16
+*** TURN *** [9h 4c 5c] [6c]
+yabaicwb: bets $0.20
+VFonsex: calls $0.20
+*** RIVER *** [9h 4c 5c 6c] [Js]
+yabaicwb: checks 
+Minakhat joins the table at seat #9 
+VFonsex: bets $0.45
+yabaicwb: calls $0.45
+*** SHOW DOWN ***
+VFonsex: shows [Td Tc] (a pair of Tens)
+yabaicwb: shows [Kh Kc] (a pair of Kings)
+yabaicwb collected $1.78 from pot
+*** SUMMARY ***
+Total pot $1.84 | Rake $0.06 
+Board [9h 4c 5c 6c Js]
+Seat 1: BR00RB (button) folded before Flop (didn't bet)
+Seat 2: GENJD (small blind) folded before Flop
+Seat 3: yabaicwb (big blind) showed [Kh Kc] and won ($1.78) with a pair of Kings
+Seat 4: VFonsex showed [Td Tc] and lost with a pair of Tens
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: umka186 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768912524:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:51:46 PT [2022/01/03 0:51:46 ET]
+Table 'Jihlava IV' 9-max Seat #2 is the button
+Seat 1: BR00RB ($0.77 in chips) 
+Seat 2: GENJD ($2.55 in chips) 
+Seat 3: yabaicwb ($3.44 in chips) 
+Seat 4: VFonsex ($0.75 in chips) 
+Seat 5: Alexsabur ($2.44 in chips) 
+Seat 6: umka186 ($3.32 in chips) 
+Seat 7: Dorex2007 ($2.02 in chips) 
+Seat 8: MelchiorF1 ($9.89 in chips) 
+yabaicwb: posts small blind $0.01
+VFonsex: posts big blind $0.02
+Minakhat: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Kh]
+Alexsabur: folds 
+umka186: folds 
+Dorex2007: calls $0.02
+MelchiorF1: raises $0.04 to $0.06
+BR00RB: folds 
+GENJD: folds 
+yabaicwb: folds 
+VFonsex: calls $0.04
+Dorex2007: calls $0.04
+*** FLOP *** [Qh 7d 5d]
+VFonsex: checks 
+Dorex2007: checks 
+MelchiorF1: bets $0.08
+VFonsex: folds 
+Dorex2007: folds 
+Uncalled bet ($0.08) returned to MelchiorF1
+MelchiorF1 collected $0.18 from pot
+MelchiorF1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Qh 7d 5d]
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 2: GENJD (button) folded before Flop (didn't bet)
+Seat 3: yabaicwb (small blind) folded before Flop
+Seat 4: VFonsex (big blind) folded on the Flop
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: umka186 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded on the Flop
+Seat 8: MelchiorF1 collected ($0.18)
+
+
+
+PokerStars Hand #232768921856:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:52:47 PT [2022/01/03 0:52:47 ET]
+Table 'Jihlava IV' 9-max Seat #3 is the button
+Seat 1: BR00RB ($0.77 in chips) 
+Seat 2: GENJD ($2.55 in chips) 
+Seat 3: yabaicwb ($3.43 in chips) 
+Seat 4: VFonsex ($0.69 in chips) 
+Seat 5: Alexsabur ($2.44 in chips) 
+Seat 6: umka186 ($3.32 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: MelchiorF1 ($10.01 in chips) 
+VFonsex: posts small blind $0.01
+Alexsabur: posts big blind $0.02
+Minakhat: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 8d]
+umka186: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+BR00RB: calls $0.02
+GENJD: folds 
+yabaicwb: raises $0.02 to $0.04
+VFonsex: folds 
+Alexsabur: calls $0.02
+BR00RB: calls $0.02
+*** FLOP *** [Kh Qs Js]
+Alexsabur: checks 
+BR00RB: bets $0.02
+yabaicwb: folds 
+Alexsabur: folds 
+Uncalled bet ($0.02) returned to BR00RB
+BR00RB collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Kh Qs Js]
+Seat 1: BR00RB collected ($0.13)
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: yabaicwb (button) folded on the Flop
+Seat 4: VFonsex (small blind) folded before Flop
+Seat 5: Alexsabur (big blind) folded on the Flop
+Seat 6: umka186 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768929800:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:53:40 PT [2022/01/03 0:53:40 ET]
+Table 'Jihlava IV' 9-max Seat #4 is the button
+Seat 1: BR00RB ($0.86 in chips) 
+Seat 2: GENJD ($2.55 in chips) 
+Seat 3: yabaicwb ($3.39 in chips) 
+Seat 4: VFonsex ($0.68 in chips) 
+Seat 5: Alexsabur ($2.40 in chips) 
+Seat 6: umka186 ($3.32 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: MelchiorF1 ($10.01 in chips) 
+Alexsabur: posts small blind $0.01
+umka186: posts big blind $0.02
+Minakhat: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Kh]
+Dorex2007: raises $0.02 to $0.04
+MelchiorF1: folds 
+BR00RB: folds 
+GENJD: folds 
+yabaicwb: folds 
+VFonsex: calls $0.04
+Alexsabur: calls $0.03
+umka186: folds 
+*** FLOP *** [9s Ah 3d]
+Alexsabur: checks 
+Dorex2007: checks 
+VFonsex: checks 
+*** TURN *** [9s Ah 3d] [Qs]
+Alexsabur: bets $0.07
+Dorex2007: calls $0.07
+VFonsex: folds 
+*** RIVER *** [9s Ah 3d Qs] [5d]
+Alexsabur: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+Alexsabur: shows [Th 8d] (high card Ace)
+Dorex2007: shows [Qh Kh] (a pair of Queens)
+Dorex2007 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [9s Ah 3d Qs 5d]
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: yabaicwb folded before Flop (didn't bet)
+Seat 4: VFonsex (button) folded on the Turn
+Seat 5: Alexsabur (small blind) showed [Th 8d] and lost with high card Ace
+Seat 6: umka186 (big blind) folded before Flop
+Seat 7: Dorex2007 showed [Qh Kh] and won ($0.27) with a pair of Queens
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768939872:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:54:47 PT [2022/01/03 0:54:47 ET]
+Table 'Jihlava IV' 9-max Seat #5 is the button
+Seat 1: BR00RB ($0.86 in chips) 
+Seat 2: GENJD ($2.55 in chips) 
+Seat 3: yabaicwb ($3.39 in chips) 
+Seat 4: VFonsex ($0.64 in chips) 
+Seat 5: Alexsabur ($2.29 in chips) 
+Seat 6: umka186 ($3.30 in chips) 
+Seat 7: Dorex2007 ($2.16 in chips) 
+Seat 8: MelchiorF1 ($10.01 in chips) 
+umka186: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Minakhat: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 5h]
+MelchiorF1: folds 
+BR00RB: folds 
+GENJD: raises $0.04 to $0.06
+yabaicwb: raises $0.10 to $0.16
+VFonsex: folds 
+Alexsabur: folds 
+umka186: folds 
+Dorex2007: folds 
+GENJD: raises $0.35 to $0.51
+yabaicwb: calls $0.35
+*** FLOP *** [Kc Tc Jd]
+GENJD: bets $2.04 and is all-in
+yabaicwb: folds 
+Uncalled bet ($2.04) returned to GENJD
+GENJD collected $1.01 from pot
+GENJD: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.04 
+Board [Kc Tc Jd]
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 2: GENJD collected ($1.01)
+Seat 3: yabaicwb folded on the Flop
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur (button) folded before Flop (didn't bet)
+Seat 6: umka186 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768948291:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:55:47 PT [2022/01/03 0:55:47 ET]
+Table 'Jihlava IV' 9-max Seat #6 is the button
+Seat 1: BR00RB ($0.86 in chips) 
+Seat 2: GENJD ($3.05 in chips) 
+Seat 3: yabaicwb ($2.88 in chips) 
+Seat 4: VFonsex ($0.64 in chips) 
+Seat 5: Alexsabur ($2.29 in chips) 
+Seat 6: umka186 ($3.29 in chips) 
+Seat 7: Dorex2007 ($2.14 in chips) 
+Seat 8: MelchiorF1 ($10.01 in chips) 
+Dorex2007: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+Minakhat: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 3d]
+BR00RB: folds 
+GENJD: folds 
+yabaicwb: raises $0.08 to $0.10
+VFonsex: folds 
+Alexsabur: folds 
+umka186: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+Uncalled bet ($0.08) returned to yabaicwb
+yabaicwb collected $0.05 from pot
+yabaicwb: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: yabaicwb collected ($0.05)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: umka186 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: MelchiorF1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232768950414:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:56:04 PT [2022/01/03 0:56:04 ET]
+Table 'Jihlava IV' 9-max Seat #7 is the button
+Seat 1: BR00RB ($0.86 in chips) 
+Seat 2: GENJD ($3.05 in chips) 
+Seat 3: yabaicwb ($2.91 in chips) 
+Seat 4: VFonsex ($0.64 in chips) 
+Seat 5: Alexsabur ($2.29 in chips) 
+Seat 6: umka186 ($3.29 in chips) 
+Seat 7: Dorex2007 ($2.13 in chips) 
+Seat 8: MelchiorF1 ($9.99 in chips) 
+Seat 9: Minakhat ($0.95 in chips) 
+MelchiorF1: posts small blind $0.01
+Minakhat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Jc]
+BR00RB: calls $0.02
+GENJD: calls $0.02
+yabaicwb: raises $0.08 to $0.10
+VFonsex: folds 
+Alexsabur: folds 
+umka186: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+Minakhat: folds 
+BR00RB: calls $0.08
+GENJD: folds 
+*** FLOP *** [3c 7d Qc]
+BR00RB: checks 
+yabaicwb: bets $0.24
+BR00RB: folds 
+Uncalled bet ($0.24) returned to yabaicwb
+yabaicwb collected $0.24 from pot
+yabaicwb: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3c 7d Qc]
+Seat 1: BR00RB folded on the Flop
+Seat 2: GENJD folded before Flop
+Seat 3: yabaicwb collected ($0.24)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: umka186 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: MelchiorF1 (small blind) folded before Flop
+Seat 9: Minakhat (big blind) folded before Flop
+
+
+
+PokerStars Hand #232768958838:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:57:10 PT [2022/01/03 0:57:10 ET]
+Table 'Jihlava IV' 9-max Seat #8 is the button
+Seat 1: BR00RB ($0.76 in chips) 
+Seat 2: GENJD ($3.03 in chips) 
+Seat 3: yabaicwb ($3.05 in chips) 
+Seat 4: VFonsex ($0.64 in chips) 
+Seat 5: Alexsabur ($2.29 in chips) 
+Seat 6: umka186 ($3.29 in chips) 
+Seat 7: Dorex2007 ($2.13 in chips) 
+Seat 8: MelchiorF1 ($9.98 in chips) 
+Seat 9: Minakhat ($0.93 in chips) 
+Minakhat: posts small blind $0.01
+BR00RB: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 7h]
+GENJD: folds 
+yabaicwb: raises $0.02 to $0.04
+VFonsex: folds 
+Alexsabur: folds 
+umka186: folds 
+Dorex2007: calls $0.04
+MelchiorF1: folds 
+Minakhat: folds 
+BR00RB: calls $0.02
+*** FLOP *** [3c 4d Qs]
+BR00RB: bets $0.02
+yabaicwb: calls $0.02
+Dorex2007: folds 
+*** TURN *** [3c 4d Qs] [Jd]
+BR00RB: checks 
+yabaicwb: bets $0.10
+BR00RB: folds 
+Uncalled bet ($0.10) returned to yabaicwb
+yabaicwb collected $0.16 from pot
+yabaicwb: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [3c 4d Qs Jd]
+Seat 1: BR00RB (big blind) folded on the Turn
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: yabaicwb collected ($0.16)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: umka186 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded on the Flop
+Seat 8: MelchiorF1 (button) folded before Flop (didn't bet)
+Seat 9: Minakhat (small blind) folded before Flop
+
+
+
+PokerStars Hand #232768968467:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:58:25 PT [2022/01/03 0:58:25 ET]
+Table 'Jihlava IV' 9-max Seat #9 is the button
+Seat 1: BR00RB ($0.70 in chips) 
+Seat 2: GENJD ($3.03 in chips) 
+Seat 3: yabaicwb ($3.15 in chips) 
+Seat 4: VFonsex ($0.64 in chips) 
+Seat 5: Alexsabur ($2.29 in chips) 
+Seat 6: umka186 ($3.29 in chips) 
+Seat 7: Dorex2007 ($2.09 in chips) 
+Seat 8: MelchiorF1 ($9.98 in chips) 
+Seat 9: Minakhat ($0.92 in chips) 
+BR00RB: posts small blind $0.01
+GENJD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Qd]
+yabaicwb has timed out
+yabaicwb: folds 
+VFonsex: calls $0.02
+Alexsabur: folds 
+umka186: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+Minakhat: folds 
+BR00RB: calls $0.01
+GENJD: checks 
+*** FLOP *** [6d 6h Jd]
+BR00RB: bets $0.02
+GENJD: folds 
+VFonsex: raises $0.05 to $0.07
+BR00RB: calls $0.05
+*** TURN *** [6d 6h Jd] [7c]
+BR00RB: bets $0.02
+VFonsex: raises $0.12 to $0.14
+BR00RB: calls $0.12
+*** RIVER *** [6d 6h Jd 7c] [Ah]
+BR00RB: checks 
+VFonsex: bets $0.41 and is all-in
+BR00RB: folds 
+Uncalled bet ($0.41) returned to VFonsex
+VFonsex collected $0.46 from pot
+VFonsex: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [6d 6h Jd 7c Ah]
+Seat 1: BR00RB (small blind) folded on the River
+Seat 2: GENJD (big blind) folded on the Flop
+Seat 3: yabaicwb folded before Flop (didn't bet)
+Seat 4: VFonsex collected ($0.46)
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: umka186 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: Minakhat (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768979045:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 21:59:48 PT [2022/01/03 0:59:48 ET]
+Table 'Jihlava IV' 9-max Seat #1 is the button
+Seat 1: BR00RB ($0.47 in chips) 
+Seat 2: GENJD ($3.01 in chips) 
+Seat 3: yabaicwb ($3.15 in chips) 
+Seat 4: VFonsex ($0.87 in chips) 
+Seat 5: Alexsabur ($2.29 in chips) 
+Seat 6: umka186 ($3.29 in chips) 
+Seat 7: Dorex2007 ($2.09 in chips) 
+Seat 8: MelchiorF1 ($9.98 in chips) 
+Seat 9: Minakhat ($0.92 in chips) 
+GENJD: posts small blind $0.01
+yabaicwb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 9s]
+VFonsex: folds 
+Alexsabur: folds 
+umka186: folds 
+Dorex2007 has timed out
+Dorex2007: folds 
+MelchiorF1 has timed out
+MelchiorF1: folds 
+Minakhat: folds 
+BR00RB: folds 
+GENJD: calls $0.01
+yabaicwb: raises $0.06 to $0.08
+GENJD: folds 
+Uncalled bet ($0.06) returned to yabaicwb
+yabaicwb collected $0.04 from pot
+yabaicwb: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: BR00RB (button) folded before Flop (didn't bet)
+Seat 2: GENJD (small blind) folded before Flop
+Seat 3: yabaicwb (big blind) collected ($0.04)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: umka186 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: Minakhat folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768986418:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 22:00:43 PT [2022/01/03 1:00:43 ET]
+Table 'Jihlava IV' 9-max Seat #2 is the button
+Seat 1: BR00RB ($0.47 in chips) 
+Seat 2: GENJD ($2.99 in chips) 
+Seat 3: yabaicwb ($3.17 in chips) 
+Seat 4: VFonsex ($0.87 in chips) 
+Seat 5: Alexsabur ($2.29 in chips) 
+Seat 6: umka186 ($3.29 in chips) 
+Seat 7: Dorex2007 ($2.09 in chips) 
+Seat 8: MelchiorF1 ($9.98 in chips) 
+Seat 9: Minakhat ($0.92 in chips) 
+yabaicwb: posts small blind $0.01
+VFonsex: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 3c]
+Alexsabur: folds 
+umka186: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+Minakhat: folds 
+BR00RB: calls $0.02
+GENJD: calls $0.02
+yabaicwb: raises $0.02 to $0.04
+VFonsex: calls $0.02
+BR00RB: calls $0.02
+GENJD: calls $0.02
+*** FLOP *** [Ts Ks 9h]
+yabaicwb: bets $0.08
+VFonsex: folds 
+BR00RB: calls $0.08
+GENJD: calls $0.08
+*** TURN *** [Ts Ks 9h] [2d]
+yabaicwb: checks 
+BR00RB: bets $0.11
+GENJD: calls $0.11
+yabaicwb: folds 
+*** RIVER *** [Ts Ks 9h 2d] [Qs]
+BR00RB: bets $0.04
+GENJD: calls $0.04
+*** SHOW DOWN ***
+BR00RB: shows [Kc 9c] (two pair, Kings and Nines)
+GENJD: mucks hand 
+BR00RB collected $0.68 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.02 
+Board [Ts Ks 9h 2d Qs]
+Seat 1: BR00RB showed [Kc 9c] and won ($0.68) with two pair, Kings and Nines
+Seat 2: GENJD (button) mucked [Tc 9d]
+Seat 3: yabaicwb (small blind) folded on the Turn
+Seat 4: VFonsex (big blind) folded on the Flop
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: umka186 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: Minakhat folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232768998973:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 22:02:11 PT [2022/01/03 1:02:11 ET]
+Table 'Jihlava IV' 9-max Seat #3 is the button
+Seat 1: BR00RB ($0.88 in chips) 
+Seat 2: GENJD ($2.72 in chips) 
+Seat 3: yabaicwb ($3.05 in chips) 
+Seat 4: VFonsex ($0.83 in chips) 
+Seat 5: Alexsabur ($2.29 in chips) 
+Seat 6: umka186 ($3.29 in chips) 
+Seat 7: Dorex2007 ($2.09 in chips) 
+Seat 8: MelchiorF1 ($9.98 in chips) 
+Seat 9: Minakhat ($0.92 in chips) 
+VFonsex: posts small blind $0.01
+Alexsabur: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 6s]
+umka186: folds 
+Dorex2007: folds 
+MelchiorF1: raises $0.04 to $0.06
+Minakhat: folds 
+BR00RB: folds 
+GENJD: folds 
+yabaicwb: calls $0.06
+VFonsex: folds 
+Alexsabur: calls $0.04
+*** FLOP *** [7c 8h 8c]
+Alexsabur: checks 
+MelchiorF1: checks 
+yabaicwb: checks 
+*** TURN *** [7c 8h 8c] [As]
+Alexsabur: bets $0.09
+MelchiorF1: calls $0.09
+yabaicwb: folds 
+*** RIVER *** [7c 8h 8c As] [9c]
+Alexsabur: bets $0.18
+MelchiorF1: calls $0.18
+*** SHOW DOWN ***
+Alexsabur: shows [Ah 7h] (two pair, Aces and Eights)
+MelchiorF1: shows [Ac Jd] (two pair, Aces and Eights - Jack kicker)
+MelchiorF1 collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [7c 8h 8c As 9c]
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: yabaicwb (button) folded on the Turn
+Seat 4: VFonsex (small blind) folded before Flop
+Seat 5: Alexsabur (big blind) showed [Ah 7h] and lost with two pair, Aces and Eights
+Seat 6: umka186 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 showed [Ac Jd] and won ($0.70) with two pair, Aces and Eights
+Seat 9: Minakhat folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232769013442:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 22:03:48 PT [2022/01/03 1:03:48 ET]
+Table 'Jihlava IV' 9-max Seat #4 is the button
+Seat 1: BR00RB ($0.88 in chips) 
+Seat 2: GENJD ($2.72 in chips) 
+Seat 3: yabaicwb ($2.99 in chips) 
+Seat 4: VFonsex ($0.82 in chips) 
+Seat 5: Alexsabur ($1.96 in chips) 
+Seat 6: umka186 ($3.29 in chips) 
+Seat 7: Dorex2007 ($2.09 in chips) 
+Seat 8: MelchiorF1 ($10.35 in chips) 
+Seat 9: Minakhat ($0.92 in chips) 
+Alexsabur: posts small blind $0.01
+umka186: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 8c]
+Dorex2007: folds 
+MelchiorF1: raises $0.04 to $0.06
+Minakhat: folds 
+BR00RB: calls $0.06
+GENJD: folds 
+yabaicwb: folds 
+yabaicwb leaves the table
+VFonsex: raises $0.14 to $0.20
+PhatPanda420 joins the table at seat #3 
+Alexsabur: folds 
+umka186: folds 
+MelchiorF1: folds 
+BR00RB: folds 
+Uncalled bet ($0.14) returned to VFonsex
+VFonsex collected $0.21 from pot
+VFonsex: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0 
+Seat 1: BR00RB folded before Flop
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 3: yabaicwb folded before Flop (didn't bet)
+Seat 4: VFonsex (button) collected ($0.21)
+Seat 5: Alexsabur (small blind) folded before Flop
+Seat 6: umka186 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop
+Seat 9: Minakhat folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232769025566:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 22:04:42 PT [2022/01/03 1:04:42 ET]
+Table 'Jihlava IV' 9-max Seat #5 is the button
+Seat 1: BR00RB ($0.82 in chips) 
+Seat 2: GENJD ($2.72 in chips) 
+Seat 4: VFonsex ($0.97 in chips) 
+Seat 5: Alexsabur ($1.95 in chips) 
+Seat 6: umka186 ($3.27 in chips) 
+Seat 7: Dorex2007 ($2.09 in chips) 
+Seat 8: MelchiorF1 ($10.29 in chips) 
+Seat 9: Minakhat ($0.92 in chips) 
+umka186: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+PhatPanda420: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Qs]
+MelchiorF1: folds 
+Minakhat: folds 
+BR00RB: folds 
+GENJD has timed out
+GENJD: folds 
+VFonsex: folds 
+Alexsabur: folds 
+umka186: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 2: GENJD folded before Flop (didn't bet)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur (button) folded before Flop (didn't bet)
+Seat 6: umka186 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) collected ($0.02)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: Minakhat folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232769029328:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 22:05:06 PT [2022/01/03 1:05:06 ET]
+Table 'Jihlava IV' 9-max Seat #6 is the button
+Seat 1: BR00RB ($0.82 in chips) 
+Seat 4: VFonsex ($0.97 in chips) 
+Seat 5: Alexsabur ($1.95 in chips) 
+Seat 6: umka186 ($3.26 in chips) 
+Seat 7: Dorex2007 ($2.10 in chips) 
+Seat 8: MelchiorF1 ($10.29 in chips) 
+Seat 9: Minakhat ($0.92 in chips) 
+Dorex2007: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+PhatPanda420: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 8c]
+Minakhat: folds 
+BR00RB: folds 
+VFonsex: folds 
+Alexsabur: folds 
+umka186: raises $0.03 to $0.05
+Dorex2007: folds 
+MelchiorF1: calls $0.03
+*** FLOP *** [Ad Kh Jh]
+MelchiorF1: checks 
+umka186: bets $0.09
+MelchiorF1: folds 
+Uncalled bet ($0.09) returned to umka186
+umka186 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Ad Kh Jh]
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: umka186 (button) collected ($0.11)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: MelchiorF1 (big blind) folded on the Flop
+Seat 9: Minakhat folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232769035666:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 22:05:49 PT [2022/01/03 1:05:49 ET]
+Table 'Jihlava IV' 9-max Seat #7 is the button
+Seat 1: BR00RB ($0.82 in chips) 
+Seat 4: VFonsex ($0.97 in chips) 
+Seat 5: Alexsabur ($1.95 in chips) 
+Seat 6: umka186 ($3.32 in chips) 
+Seat 7: Dorex2007 ($2.09 in chips) 
+Seat 8: MelchiorF1 ($10.24 in chips) 
+Seat 9: Minakhat ($0.92 in chips) 
+MelchiorF1: posts small blind $0.01
+Minakhat: posts big blind $0.02
+PhatPanda420: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts Qh]
+BR00RB: folds 
+VFonsex: folds 
+Alexsabur: raises $0.04 to $0.06
+umka186: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+Minakhat: folds 
+Uncalled bet ($0.04) returned to Alexsabur
+Alexsabur collected $0.05 from pot
+Alexsabur: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur collected ($0.05)
+Seat 6: umka186 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: MelchiorF1 (small blind) folded before Flop
+Seat 9: Minakhat (big blind) folded before Flop
+
+
+
+PokerStars Hand #232769038749:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 22:06:10 PT [2022/01/03 1:06:10 ET]
+Table 'Jihlava IV' 9-max Seat #8 is the button
+Seat 1: BR00RB ($0.82 in chips) 
+Seat 4: VFonsex ($0.97 in chips) 
+Seat 5: Alexsabur ($1.98 in chips) 
+Seat 6: umka186 ($3.32 in chips) 
+Seat 7: Dorex2007 ($2.09 in chips) 
+Seat 8: MelchiorF1 ($10.23 in chips) 
+Seat 9: Minakhat ($0.90 in chips) 
+Minakhat: posts small blind $0.01
+BR00RB: posts big blind $0.02
+PhatPanda420: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Js]
+VFonsex: folds 
+Alexsabur: folds 
+umka186: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+Minakhat: folds 
+Uncalled bet ($0.01) returned to BR00RB
+BR00RB collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: BR00RB (big blind) collected ($0.02)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: umka186 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 (button) folded before Flop (didn't bet)
+Seat 9: Minakhat (small blind) folded before Flop
+
+
+
+PokerStars Hand #232769041656:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 22:06:30 PT [2022/01/03 1:06:30 ET]
+Table 'Jihlava IV' 9-max Seat #9 is the button
+Seat 1: BR00RB ($0.83 in chips) 
+Seat 3: PhatPanda420 ($2 in chips) 
+Seat 4: VFonsex ($0.97 in chips) 
+Seat 5: Alexsabur ($1.98 in chips) 
+Seat 6: umka186 ($3.32 in chips) 
+Seat 7: Dorex2007 ($2.09 in chips) 
+Seat 8: MelchiorF1 ($10.23 in chips) 
+Seat 9: Minakhat ($0.89 in chips) 
+BR00RB: posts small blind $0.01
+PhatPanda420: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 4d]
+VFonsex has timed out
+VFonsex: folds 
+Alexsabur: raises $0.04 to $0.06
+umka186: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+Minakhat: folds 
+BR00RB: folds 
+PhatPanda420: calls $0.04
+*** FLOP *** [Tc 9c 8s]
+PhatPanda420: checks 
+Alexsabur: bets $0.09
+PhatPanda420: raises $0.16 to $0.25
+Alexsabur: raises $0.39 to $0.64
+PhatPanda420: raises $1.30 to $1.94 and is all-in
+Alexsabur: calls $1.28 and is all-in
+Uncalled bet ($0.02) returned to PhatPanda420
+*** TURN *** [Tc 9c 8s] [7c]
+*** RIVER *** [Tc 9c 8s 7c] [Ks]
+*** SHOW DOWN ***
+PhatPanda420: shows [8d Td] (two pair, Tens and Eights)
+Alexsabur: shows [Jh Qh] (a straight, Nine to King)
+Alexsabur cashed out the hand for $3.11 | Cash Out Fee $0.03
+*** SUMMARY ***
+Total pot $3.97 | Rake $0.14 
+Board [Tc 9c 8s 7c Ks]
+Seat 1: BR00RB (small blind) folded before Flop
+Seat 3: PhatPanda420 (big blind) showed [8d Td] and lost with two pair, Tens and Eights
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur showed [Jh Qh] and won ($3.83) with a straight, Nine to King (pot not awarded as player cashed out)
+Seat 6: umka186 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: Minakhat (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232769054381:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 22:07:56 PT [2022/01/03 1:07:56 ET]
+Table 'Jihlava IV' 9-max Seat #1 is the button
+Seat 1: BR00RB ($0.82 in chips) 
+Seat 3: PhatPanda420 ($2 in chips) 
+Seat 4: VFonsex ($0.97 in chips) 
+Seat 5: Alexsabur ($3.11 in chips) 
+Seat 6: umka186 ($3.32 in chips) 
+Seat 7: Dorex2007 ($2.09 in chips) 
+Seat 8: MelchiorF1 ($10.23 in chips) 
+Seat 9: Minakhat ($0.89 in chips) 
+PhatPanda420: posts small blind $0.01
+VFonsex: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 8c]
+Alexsabur: folds 
+umka186: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+Minakhat: raises $0.03 to $0.05
+BR00RB: folds 
+PhatPanda420: folds 
+VFonsex: calls $0.03
+*** FLOP *** [9d Qc Kd]
+PhatPanda420 leaves the table
+VFonsex: checks 
+Minakhat: checks 
+*** TURN *** [9d Qc Kd] [3h]
+VFonsex: checks 
+Minakhat: checks 
+*** RIVER *** [9d Qc Kd 3h] [3s]
+VFonsex: checks 
+Minakhat: checks 
+*** SHOW DOWN ***
+VFonsex: shows [2h As] (a pair of Threes)
+Minakhat: shows [Ac Jd] (a pair of Threes)
+VFonsex collected $0.06 from pot
+Minakhat collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [9d Qc Kd 3h 3s]
+Seat 1: BR00RB (button) folded before Flop (didn't bet)
+Seat 3: PhatPanda420 (small blind) folded before Flop
+Seat 4: VFonsex (big blind) showed [2h As] and won ($0.06) with a pair of Threes
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: umka186 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: Minakhat showed [Ac Jd] and won ($0.05) with a pair of Threes
+
+
+
+PokerStars Hand #232769060611:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 22:08:39 PT [2022/01/03 1:08:39 ET]
+Table 'Jihlava IV' 9-max Seat #4 is the button
+Seat 1: BR00RB ($0.82 in chips) 
+Seat 4: VFonsex ($0.98 in chips) 
+Seat 5: Alexsabur ($3.11 in chips) 
+Seat 6: umka186 ($3.32 in chips) 
+Seat 7: Dorex2007 ($2.09 in chips) 
+Seat 8: MelchiorF1 ($10.23 in chips) 
+Seat 9: Minakhat ($0.89 in chips) 
+Alexsabur: posts small blind $0.01
+umka186: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Ac]
+Dorex2007: raises $0.02 to $0.04
+MelchiorF1: folds 
+Minakhat: folds 
+BR00RB: folds 
+VFonsex: folds 
+Alexsabur: calls $0.03
+umka186: folds 
+*** FLOP *** [6d 7s 8s]
+Alexsabur: checks 
+Dorex2007: checks 
+*** TURN *** [6d 7s 8s] [As]
+Alexsabur: bets $0.05
+Dorex2007: raises $0.05 to $0.10
+Thunderbird65 joins the table at seat #3 
+Alexsabur: folds 
+Uncalled bet ($0.05) returned to Dorex2007
+Dorex2007 collected $0.19 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [6d 7s 8s As]
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 4: VFonsex (button) folded before Flop (didn't bet)
+Seat 5: Alexsabur (small blind) folded on the Turn
+Seat 6: umka186 (big blind) folded before Flop
+Seat 7: Dorex2007 collected ($0.19)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: Minakhat folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232769068042:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 22:09:29 PT [2022/01/03 1:09:29 ET]
+Table 'Jihlava IV' 9-max Seat #5 is the button
+Seat 1: BR00RB ($0.82 in chips) 
+Seat 4: VFonsex ($0.98 in chips) 
+Seat 5: Alexsabur ($3.02 in chips) 
+Seat 6: umka186 ($3.30 in chips) 
+Seat 7: Dorex2007 ($2.19 in chips) 
+Seat 8: MelchiorF1 ($10.23 in chips) 
+Seat 9: Minakhat ($0.89 in chips) 
+umka186: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Thunderbird65: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 4h]
+MelchiorF1: folds 
+Minakhat: folds 
+BR00RB: folds 
+VFonsex: folds 
+Alexsabur: raises $0.04 to $0.06
+umka186: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to Alexsabur
+Alexsabur collected $0.05 from pot
+Alexsabur: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur (button) collected ($0.05)
+Seat 6: umka186 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: Minakhat folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232769071287:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 22:09:51 PT [2022/01/03 1:09:51 ET]
+Table 'Jihlava IV' 9-max Seat #6 is the button
+Seat 1: BR00RB ($0.82 in chips) 
+Seat 3: Thunderbird65 ($2 in chips) 
+Seat 4: VFonsex ($0.98 in chips) 
+Seat 5: Alexsabur ($3.05 in chips) 
+Seat 6: umka186 ($3.29 in chips) 
+Seat 7: Dorex2007 ($2.17 in chips) 
+Seat 8: MelchiorF1 ($10.23 in chips) 
+Seat 9: Minakhat ($0.89 in chips) 
+Dorex2007: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+Thunderbird65: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Tc]
+Minakhat: raises $0.05 to $0.07
+BR00RB: folds 
+Thunderbird65: calls $0.05
+VFonsex: folds 
+Alexsabur: folds 
+umka186: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+*** FLOP *** [3h 6c 5h]
+Minakhat: bets $0.07
+Thunderbird65: calls $0.07
+*** TURN *** [3h 6c 5h] [5c]
+Minakhat: checks 
+Thunderbird65: checks 
+*** RIVER *** [3h 6c 5h 5c] [8c]
+Minakhat: checks 
+Thunderbird65: checks 
+*** SHOW DOWN ***
+Minakhat: shows [Js Jh] (two pair, Jacks and Fives)
+Thunderbird65: mucks hand 
+Minakhat collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [3h 6c 5h 5c 8c]
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 3: Thunderbird65 mucked [Ad 8d]
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: umka186 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: MelchiorF1 (big blind) folded before Flop
+Seat 9: Minakhat showed [Js Jh] and won ($0.30) with two pair, Jacks and Fives
+
+
+
+PokerStars Hand #232769078647:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 22:10:40 PT [2022/01/03 1:10:40 ET]
+Table 'Jihlava IV' 9-max Seat #7 is the button
+Seat 1: BR00RB ($0.82 in chips) 
+Seat 3: Thunderbird65 ($1.86 in chips) 
+Seat 4: VFonsex ($0.98 in chips) 
+Seat 5: Alexsabur ($3.05 in chips) 
+Seat 6: umka186 ($3.29 in chips) 
+Seat 7: Dorex2007 ($2.16 in chips) 
+Seat 8: MelchiorF1 ($10.21 in chips) 
+Seat 9: Minakhat ($1.05 in chips) 
+MelchiorF1: posts small blind $0.01
+Minakhat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts Ad]
+BR00RB: folds 
+Thunderbird65: folds 
+VFonsex: folds 
+Alexsabur: folds 
+umka186: raises $0.03 to $0.05
+Dorex2007: calls $0.05
+MelchiorF1: folds 
+Minakhat: folds 
+*** FLOP *** [9c 8s Jc]
+umka186: checks 
+Dorex2007: bets $0.09
+umka186: calls $0.09
+*** TURN *** [9c 8s Jc] [Ah]
+umka186: checks 
+Dorex2007: bets $0.20
+umka186: calls $0.20
+*** RIVER *** [9c 8s Jc Ah] [4h]
+umka186: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+umka186: shows [9h Ac] (two pair, Aces and Nines)
+Dorex2007: mucks hand 
+umka186 collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02 
+Board [9c 8s Jc Ah 4h]
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 3: Thunderbird65 folded before Flop (didn't bet)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: umka186 showed [9h Ac] and won ($0.69) with two pair, Aces and Nines
+Seat 7: Dorex2007 (button) mucked [Ts Ad]
+Seat 8: MelchiorF1 (small blind) folded before Flop
+Seat 9: Minakhat (big blind) folded before Flop
+
+
+
+PokerStars Hand #232769086218:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 22:11:32 PT [2022/01/03 1:11:32 ET]
+Table 'Jihlava IV' 9-max Seat #8 is the button
+Seat 1: BR00RB ($0.82 in chips) 
+Seat 3: Thunderbird65 ($1.86 in chips) 
+Seat 4: VFonsex ($0.98 in chips) 
+Seat 5: Alexsabur ($3.05 in chips) 
+Seat 6: umka186 ($3.64 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: MelchiorF1 ($10.20 in chips) 
+Seat 9: Minakhat ($1.03 in chips) 
+Minakhat: posts small blind $0.01
+BR00RB: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Qh]
+Thunderbird65: folds 
+VFonsex: raises $0.02 to $0.04
+Alexsabur: folds 
+umka186: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+Minakhat: folds 
+BR00RB: calls $0.02
+*** FLOP *** [Qd Qc Js]
+BR00RB: checks 
+VFonsex: bets $0.02
+BR00RB: calls $0.02
+*** TURN *** [Qd Qc Js] [Tc]
+BR00RB: checks 
+VFonsex: bets $0.04
+BR00RB: folds 
+Uncalled bet ($0.04) returned to VFonsex
+VFonsex collected $0.13 from pot
+VFonsex: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qd Qc Js Tc]
+Seat 1: BR00RB (big blind) folded on the Turn
+Seat 3: Thunderbird65 folded before Flop (didn't bet)
+Seat 4: VFonsex collected ($0.13)
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: umka186 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 (button) folded before Flop (didn't bet)
+Seat 9: Minakhat (small blind) folded before Flop
+
+
+
+PokerStars Hand #232769091824:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 22:12:11 PT [2022/01/03 1:12:11 ET]
+Table 'Jihlava IV' 9-max Seat #9 is the button
+Seat 1: BR00RB ($0.76 in chips) 
+Seat 3: Thunderbird65 ($1.86 in chips) 
+Seat 4: VFonsex ($1.05 in chips) 
+Seat 5: Alexsabur ($3.05 in chips) 
+Seat 6: umka186 ($3.64 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: MelchiorF1 ($10.20 in chips) 
+Seat 9: Minakhat ($1.02 in chips) 
+BR00RB: posts small blind $0.01
+Thunderbird65: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 4s]
+VFonsex: raises $0.02 to $0.04
+Alexsabur: folds 
+umka186: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+Minakhat: folds 
+BR00RB: folds 
+Thunderbird65: calls $0.02
+*** FLOP *** [Tc Jh 9d]
+Thunderbird65: bets $0.02
+VFonsex: calls $0.02
+*** TURN *** [Tc Jh 9d] [4c]
+Thunderbird65: bets $0.04
+VFonsex: folds 
+Uncalled bet ($0.04) returned to Thunderbird65
+Thunderbird65 collected $0.13 from pot
+Thunderbird65: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Tc Jh 9d 4c]
+Seat 1: BR00RB (small blind) folded before Flop
+Seat 3: Thunderbird65 (big blind) collected ($0.13)
+Seat 4: VFonsex folded on the Turn
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: umka186 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: Minakhat (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232769102116:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 22:12:53 PT [2022/01/03 1:12:53 ET]
+Table 'Jihlava IV' 9-max Seat #1 is the button
+Seat 1: BR00RB ($0.75 in chips) 
+Seat 3: Thunderbird65 ($1.93 in chips) 
+Seat 4: VFonsex ($0.99 in chips) 
+Seat 6: umka186 ($3.64 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: MelchiorF1 ($10.20 in chips) 
+Seat 9: Minakhat ($1.02 in chips) 
+Thunderbird65: posts small blind $0.01
+VFonsex: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 4d]
+umka186: raises $0.04 to $0.06
+Dorex2007: folds 
+MelchiorF1: folds 
+Minakhat: folds 
+BR00RB: calls $0.06
+Thunderbird65: calls $0.05
+VFonsex: folds 
+*** FLOP *** [Js 6h 2s]
+Thunderbird65: bets $0.02
+umka186: calls $0.02
+BR00RB: calls $0.02
+*** TURN *** [Js 6h 2s] [4h]
+Thunderbird65: bets $0.04
+umka186: folds 
+BR00RB: calls $0.04
+*** RIVER *** [Js 6h 2s 4h] [7s]
+Thunderbird65: bets $0.02
+BR00RB: calls $0.02
+*** SHOW DOWN ***
+Thunderbird65: shows [Ts Jd] (a pair of Jacks)
+BR00RB: mucks hand 
+Thunderbird65 collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [Js 6h 2s 4h 7s]
+Seat 1: BR00RB (button) mucked [3h 3d]
+Seat 3: Thunderbird65 (small blind) showed [Ts Jd] and won ($0.37) with a pair of Jacks
+Seat 4: VFonsex (big blind) folded before Flop
+Seat 6: umka186 folded on the Turn
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: Minakhat folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232769110494:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 22:13:52 PT [2022/01/03 1:13:52 ET]
+Table 'Jihlava IV' 9-max Seat #3 is the button
+Seat 1: BR00RB ($0.61 in chips) 
+Seat 3: Thunderbird65 ($2.16 in chips) 
+Seat 4: VFonsex ($0.97 in chips) 
+Seat 6: umka186 ($3.56 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: MelchiorF1 ($10.20 in chips) 
+Seat 9: Minakhat ($1.02 in chips) 
+VFonsex: posts small blind $0.01
+umka186: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 7c]
+Dorex2007: folds 
+MelchiorF1: folds 
+Minakhat: folds 
+BR00RB: folds 
+Thunderbird65: calls $0.02
+VFonsex: folds 
+umka186: checks 
+*** FLOP *** [As Ah 8h]
+umka186: checks 
+Thunderbird65: bets $0.02
+umka186: folds 
+Uncalled bet ($0.02) returned to Thunderbird65
+Thunderbird65 collected $0.05 from pot
+Thunderbird65: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [As Ah 8h]
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 3: Thunderbird65 (button) collected ($0.05)
+Seat 4: VFonsex (small blind) folded before Flop
+Seat 6: umka186 (big blind) folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: Minakhat folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232769113818:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 22:14:15 PT [2022/01/03 1:14:15 ET]
+Table 'Jihlava IV' 9-max Seat #4 is the button
+Seat 1: BR00RB ($0.61 in chips) 
+Seat 3: Thunderbird65 ($2.19 in chips) 
+Seat 4: VFonsex ($0.96 in chips) 
+Seat 6: umka186 ($3.54 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: MelchiorF1 ($10.20 in chips) 
+Seat 9: Minakhat ($1.02 in chips) 
+umka186: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Ah]
+MelchiorF1: folds 
+Minakhat: folds 
+BR00RB: calls $0.02
+Thunderbird65: calls $0.02
+VFonsex: folds 
+umka186: folds 
+Dorex2007: checks 
+*** FLOP *** [6d 2c Qd]
+Dorex2007: checks 
+BR00RB: checks 
+Thunderbird65: checks 
+*** TURN *** [6d 2c Qd] [4h]
+Dorex2007: checks 
+BR00RB: checks 
+Thunderbird65: bets $0.06
+Dorex2007: folds 
+BR00RB: folds 
+Uncalled bet ($0.06) returned to Thunderbird65
+Thunderbird65 collected $0.07 from pot
+Thunderbird65: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [6d 2c Qd 4h]
+Seat 1: BR00RB folded on the Turn
+Seat 3: Thunderbird65 collected ($0.07)
+Seat 4: VFonsex (button) folded before Flop (didn't bet)
+Seat 6: umka186 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded on the Turn
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: Minakhat folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232769121296:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 22:15:07 PT [2022/01/03 1:15:07 ET]
+Table 'Jihlava IV' 9-max Seat #6 is the button
+Seat 1: BR00RB ($0.59 in chips) 
+Seat 3: Thunderbird65 ($2.24 in chips) 
+Seat 4: VFonsex ($0.96 in chips) 
+Seat 5: Alexsabur ($3.05 in chips) 
+Seat 6: umka186 ($3.53 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: MelchiorF1 ($10.20 in chips) 
+Seat 9: Minakhat ($1.02 in chips) 
+Dorex2007: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+Alexsabur: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 9c]
+Minakhat: folds 
+BR00RB: folds 
+Thunderbird65: calls $0.02
+VFonsex: folds 
+Alexsabur: checks 
+umka186: folds 
+Dorex2007: folds 
+MelchiorF1: checks 
+*** FLOP *** [Qh 5c 8h]
+MelchiorF1: checks 
+Thunderbird65: checks 
+Alexsabur: checks 
+*** TURN *** [Qh 5c 8h] [2c]
+MelchiorF1: bets $0.04
+Thunderbird65: folds 
+Alexsabur: calls $0.04
+*** RIVER *** [Qh 5c 8h 2c] [9s]
+MelchiorF1: bets $0.08
+Alexsabur: calls $0.08
+*** SHOW DOWN ***
+MelchiorF1: shows [5d 4d] (a pair of Fives)
+Alexsabur: shows [Qs Td] (a pair of Queens)
+Alexsabur collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Qh 5c 8h 2c 9s]
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 3: Thunderbird65 folded on the Turn
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur showed [Qs Td] and won ($0.31) with a pair of Queens
+Seat 6: umka186 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: MelchiorF1 (big blind) showed [5d 4d] and lost with a pair of Fives
+Seat 9: Minakhat folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232769132282:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 22:16:23 PT [2022/01/03 1:16:23 ET]
+Table 'Jihlava IV' 9-max Seat #7 is the button
+Seat 1: BR00RB ($0.59 in chips) 
+Seat 3: Thunderbird65 ($2.22 in chips) 
+Seat 4: VFonsex ($0.96 in chips) 
+Seat 5: Alexsabur ($3.21 in chips) 
+Seat 6: umka186 ($3.53 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: MelchiorF1 ($10.06 in chips) 
+Seat 9: Minakhat ($1.02 in chips) 
+MelchiorF1: posts small blind $0.01
+Minakhat: posts big blind $0.02
+GENJD: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 4d]
+BR00RB: folds 
+Thunderbird65: calls $0.02
+VFonsex: folds 
+Alexsabur: raises $0.06 to $0.08
+umka186: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+Minakhat: folds 
+Thunderbird65: folds 
+Uncalled bet ($0.06) returned to Alexsabur
+Alexsabur collected $0.07 from pot
+Alexsabur: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: BR00RB folded before Flop (didn't bet)
+Seat 3: Thunderbird65 folded before Flop
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur collected ($0.07)
+Seat 6: umka186 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: MelchiorF1 (small blind) folded before Flop
+Seat 9: Minakhat (big blind) folded before Flop
+
+
+
+PokerStars Hand #232769135818:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 22:16:48 PT [2022/01/03 1:16:48 ET]
+Table 'Jihlava IV' 9-max Seat #8 is the button
+Seat 1: BR00RB ($0.59 in chips) 
+Seat 3: Thunderbird65 ($2.20 in chips) 
+Seat 4: VFonsex ($0.96 in chips) 
+Seat 5: Alexsabur ($3.26 in chips) 
+Seat 6: umka186 ($3.53 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: MelchiorF1 ($10.05 in chips) 
+Seat 9: Minakhat ($1 in chips) 
+Minakhat: posts small blind $0.01
+BR00RB: posts big blind $0.02
+GENJD: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 5s]
+Thunderbird65: folds 
+VFonsex: folds 
+Alexsabur: raises $0.04 to $0.06
+umka186: folds 
+Dorex2007: folds 
+MelchiorF1: folds 
+Minakhat: folds 
+BR00RB: folds 
+Uncalled bet ($0.04) returned to Alexsabur
+Alexsabur collected $0.05 from pot
+Alexsabur: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: BR00RB (big blind) folded before Flop
+Seat 3: Thunderbird65 folded before Flop (didn't bet)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur collected ($0.05)
+Seat 6: umka186 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: MelchiorF1 (button) folded before Flop (didn't bet)
+Seat 9: Minakhat (small blind) folded before Flop
+
+
+
+PokerStars Hand #232769142356:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/02 22:17:33 PT [2022/01/03 1:17:33 ET]
+Table 'Jihlava IV' 9-max Seat #9 is the button
+Seat 1: BR00RB ($0.57 in chips) 
+Seat 2: GENJD ($2.72 in chips) 
+Seat 3: Thunderbird65 ($2.20 in chips) 
+Seat 4: VFonsex ($0.96 in chips) 
+Seat 5: Alexsabur ($3.29 in chips) 
+Seat 6: umka186 ($3.53 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: MelchiorF1 ($10.05 in chips) 
+Seat 9: Minakhat ($0.99 in chips) 
+BR00RB: posts small blind $0.01
+GENJD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Qs]
+Thunderbird65: folds 
+VFonsex: folds 
+Alexsabur: folds 
+umka186: folds 
+Dorex2007: raises $0.02 to $0.04
+MelchiorF1: folds 
+Minakhat: folds 
+BR00RB: calls $0.03
+GENJD: calls $0.02
+*** FLOP *** [3h 5c 9d]
+BR00RB: bets $0.02
+GENJD: calls $0.02
+Dorex2007: folds 
+*** TURN *** [3h 5c 9d] [8d]
+BR00RB: bets $0.02
+GENJD: calls $0.02
+*** RIVER *** [3h 5c 9d 8d] [Ac]
+BR00RB: bets $0.02
+GENJD: raises $0.23 to $0.25
+BR00RB: folds 
+Uncalled bet ($0.23) returned to GENJD
+GENJD collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [3h 5c 9d 8d Ac]
+Seat 1: BR00RB (small blind) folded on the River
+Seat 2: GENJD (big blind) collected ($0.23)
+Seat 3: Thunderbird65 folded before Flop (didn't bet)
+Seat 4: VFonsex folded before Flop (didn't bet)
+Seat 5: Alexsabur folded before Flop (didn't bet)
+Seat 6: umka186 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded on the Flop
+Seat 8: MelchiorF1 folded before Flop (didn't bet)
+Seat 9: Minakhat (button) folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,1626 @@
+﻿PokerStars Hand #223868952385:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:00:05 PT [2021/02/16 0:00:05 ET]
+Table 'Figneria IV' 9-max Seat #7 is the button
+Seat 3: borkeremz ($1.93 in chips) 
+Seat 4: Dorex2007 ($1.38 in chips) 
+Seat 6: STM32 ($0.83 in chips) 
+Seat 7: Luks_Jr ($1.94 in chips) 
+Seat 8: cornnuts4me ($1.34 in chips) 
+Seat 9: xKerplunkx ($0.92 in chips) 
+cornnuts4me: posts small blind $0.01
+xKerplunkx: posts big blind $0.02
+haibaneden: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Ac]
+borkeremz: folds 
+Dorex2007: calls $0.02
+STM32: folds 
+Luks_Jr: folds 
+cornnuts4me: folds 
+xKerplunkx: checks 
+*** FLOP *** [6s 2h 9s]
+BalcarresKid joins the table at seat #2 
+xKerplunkx: bets $0.02
+Dorex2007: calls $0.02
+*** TURN *** [6s 2h 9s] [3c]
+xKerplunkx: bets $0.02
+Dorex2007: calls $0.02
+*** RIVER *** [6s 2h 9s 3c] [8d]
+xKerplunkx: bets $0.02
+Dorex2007: folds 
+Uncalled bet ($0.02) returned to xKerplunkx
+xKerplunkx collected $0.13 from pot
+xKerplunkx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6s 2h 9s 3c 8d]
+Seat 3: borkeremz folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded on the River
+Seat 6: STM32 folded before Flop (didn't bet)
+Seat 7: Luks_Jr (button) folded before Flop (didn't bet)
+Seat 8: cornnuts4me (small blind) folded before Flop
+Seat 9: xKerplunkx (big blind) collected ($0.13)
+
+
+
+PokerStars Hand #223868959265:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:00:42 PT [2021/02/16 0:00:42 ET]
+Table 'Figneria IV' 9-max Seat #8 is the button
+Seat 1: haibaneden ($2.21 in chips) 
+Seat 2: BalcarresKid ($2 in chips) 
+Seat 3: borkeremz ($1.93 in chips) 
+Seat 4: Dorex2007 ($1.32 in chips) 
+Seat 6: STM32 ($0.83 in chips) 
+Seat 7: Luks_Jr ($1.94 in chips) 
+Seat 8: cornnuts4me ($1.33 in chips) 
+Seat 9: xKerplunkx ($0.99 in chips) 
+xKerplunkx: posts small blind $0.01
+haibaneden: posts big blind $0.02
+BalcarresKid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Qs]
+BalcarresKid: checks 
+borkeremz: folds 
+Dorex2007: raises $0.02 to $0.04
+STM32: folds 
+Luks_Jr: folds 
+cornnuts4me: calls $0.04
+xKerplunkx: calls $0.03
+haibaneden: folds 
+BalcarresKid: calls $0.02
+*** FLOP *** [6c Js Th]
+xKerplunkx: checks 
+BalcarresKid: bets $0.08
+Dorex2007: calls $0.08
+cornnuts4me: folds 
+xKerplunkx: folds 
+*** TURN *** [6c Js Th] [8d]
+BalcarresKid: bets $0.16
+Dorex2007: calls $0.16
+*** RIVER *** [6c Js Th 8d] [5d]
+BalcarresKid: checks 
+Dorex2007: bets $0.32
+BalcarresKid: folds 
+Uncalled bet ($0.32) returned to Dorex2007
+Dorex2007 collected $0.64 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.02 
+Board [6c Js Th 8d 5d]
+Seat 1: haibaneden (big blind) folded before Flop
+Seat 2: BalcarresKid folded on the River
+Seat 3: borkeremz folded before Flop (didn't bet)
+Seat 4: Dorex2007 collected ($0.64)
+Seat 6: STM32 folded before Flop (didn't bet)
+Seat 7: Luks_Jr folded before Flop (didn't bet)
+Seat 8: cornnuts4me (button) folded on the Flop
+Seat 9: xKerplunkx (small blind) folded on the Flop
+
+
+
+PokerStars Hand #223868978754:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:01:43 PT [2021/02/16 0:01:43 ET]
+Table 'Figneria IV' 9-max Seat #9 is the button
+Seat 1: haibaneden ($2.19 in chips) 
+Seat 2: BalcarresKid ($1.72 in chips) 
+Seat 3: borkeremz ($1.93 in chips) 
+Seat 4: Dorex2007 ($1.68 in chips) 
+Seat 6: STM32 ($0.83 in chips) 
+Seat 7: Luks_Jr ($1.94 in chips) 
+Seat 8: cornnuts4me ($1.29 in chips) 
+Seat 9: xKerplunkx ($0.95 in chips) 
+haibaneden: posts small blind $0.01
+BalcarresKid: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 8s]
+borkeremz: folds 
+Dorex2007: folds 
+STM32: folds 
+Luks_Jr: folds 
+cornnuts4me: folds 
+xKerplunkx: folds 
+haibaneden: raises $0.03 to $0.05
+BalcarresKid: calls $0.03
+*** FLOP *** [9h 6s 3d]
+haibaneden: bets $0.07
+BalcarresKid: calls $0.07
+*** TURN *** [9h 6s 3d] [7d]
+haibaneden: checks 
+BalcarresKid: bets $0.11
+haibaneden: calls $0.11
+*** RIVER *** [9h 6s 3d 7d] [7s]
+haibaneden: checks 
+BalcarresKid: bets $0.22
+haibaneden: calls $0.22
+*** SHOW DOWN ***
+BalcarresKid: shows [Qh Jc] (a pair of Sevens)
+haibaneden: shows [Th 6h] (two pair, Sevens and Sixes)
+haibaneden collected $0.87 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.03 
+Board [9h 6s 3d 7d 7s]
+Seat 1: haibaneden (small blind) showed [Th 6h] and won ($0.87) with two pair, Sevens and Sixes
+Seat 2: BalcarresKid (big blind) showed [Qh Jc] and lost with a pair of Sevens
+Seat 3: borkeremz folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 6: STM32 folded before Flop (didn't bet)
+Seat 7: Luks_Jr folded before Flop (didn't bet)
+Seat 8: cornnuts4me folded before Flop (didn't bet)
+Seat 9: xKerplunkx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223868987747:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:02:27 PT [2021/02/16 0:02:27 ET]
+Table 'Figneria IV' 9-max Seat #1 is the button
+Seat 1: haibaneden ($2.61 in chips) 
+Seat 2: BalcarresKid ($1.27 in chips) 
+Seat 3: borkeremz ($1.93 in chips) 
+Seat 4: Dorex2007 ($1.68 in chips) 
+Seat 6: STM32 ($0.83 in chips) 
+Seat 7: Luks_Jr ($1.94 in chips) 
+Seat 8: cornnuts4me ($1.29 in chips) 
+Seat 9: xKerplunkx ($0.95 in chips) 
+BalcarresKid: posts small blind $0.01
+borkeremz: posts big blind $0.02
+kusto1488: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 2d]
+Dorex2007: folds 
+STM32: folds 
+Luks_Jr: folds 
+cornnuts4me: raises $0.04 to $0.06
+xKerplunkx: folds 
+haibaneden: folds 
+BalcarresKid: raises $0.04 to $0.10
+borkeremz: folds 
+cornnuts4me: calls $0.04
+*** FLOP *** [3s Qd 5c]
+BalcarresKid: bets $0.10
+cornnuts4me: calls $0.10
+*** TURN *** [3s Qd 5c] [6d]
+BalcarresKid: checks 
+cornnuts4me: bets $0.20
+BalcarresKid: calls $0.20
+*** RIVER *** [3s Qd 5c 6d] [Js]
+BalcarresKid: checks 
+cornnuts4me: bets $0.89 and is all-in
+BalcarresKid: calls $0.87 and is all-in
+Uncalled bet ($0.02) returned to cornnuts4me
+*** SHOW DOWN ***
+cornnuts4me: shows [Th Ks] (high card King)
+BalcarresKid: shows [Kc Ah] (high card Ace)
+BalcarresKid collected $2.47 from pot
+*** SUMMARY ***
+Total pot $2.56 | Rake $0.09 
+Board [3s Qd 5c 6d Js]
+Seat 1: haibaneden (button) folded before Flop (didn't bet)
+Seat 2: BalcarresKid (small blind) showed [Kc Ah] and won ($2.47) with high card Ace
+Seat 3: borkeremz (big blind) folded before Flop
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 6: STM32 folded before Flop (didn't bet)
+Seat 7: Luks_Jr folded before Flop (didn't bet)
+Seat 8: cornnuts4me showed [Th Ks] and lost with high card King
+Seat 9: xKerplunkx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223868999493:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:03:26 PT [2021/02/16 0:03:26 ET]
+Table 'Figneria IV' 9-max Seat #2 is the button
+Seat 1: haibaneden ($2.61 in chips) 
+Seat 2: BalcarresKid ($2.47 in chips) 
+Seat 3: borkeremz ($1.91 in chips) 
+Seat 4: Dorex2007 ($1.68 in chips) 
+Seat 6: STM32 ($0.83 in chips) 
+Seat 7: Luks_Jr ($1.94 in chips) 
+Seat 8: cornnuts4me ($0.02 in chips) 
+Seat 9: xKerplunkx ($0.95 in chips) 
+borkeremz: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+kusto1488: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 6c]
+STM32: folds 
+Luks_Jr: folds 
+cornnuts4me: folds 
+cornnuts4me leaves the table
+xKerplunkx: calls $0.02
+haibaneden: folds 
+BalcarresKid: folds 
+borkeremz: raises $0.06 to $0.08
+Dorex2007: folds 
+xKerplunkx: calls $0.06
+*** FLOP *** [5c 6h Js]
+borkeremz: bets $0.08
+abufirs joins the table at seat #8 
+xKerplunkx: calls $0.08
+*** TURN *** [5c 6h Js] [Jh]
+borkeremz: bets $0.11
+xKerplunkx: calls $0.11
+*** RIVER *** [5c 6h Js Jh] [5d]
+borkeremz: bets $0.18
+xKerplunkx: calls $0.18
+*** SHOW DOWN ***
+borkeremz: shows [Jc Kc] (a full house, Jacks full of Fives)
+xKerplunkx: mucks hand 
+borkeremz collected $0.89 from pot
+*** SUMMARY ***
+Total pot $0.92 | Rake $0.03 
+Board [5c 6h Js Jh 5d]
+Seat 1: haibaneden folded before Flop (didn't bet)
+Seat 2: BalcarresKid (button) folded before Flop (didn't bet)
+Seat 3: borkeremz (small blind) showed [Jc Kc] and won ($0.89) with a full house, Jacks full of Fives
+Seat 4: Dorex2007 (big blind) folded before Flop
+Seat 6: STM32 folded before Flop (didn't bet)
+Seat 7: Luks_Jr folded before Flop (didn't bet)
+Seat 8: cornnuts4me folded before Flop (didn't bet)
+Seat 9: xKerplunkx mucked [8d 8c]
+
+
+
+PokerStars Hand #223869011190:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:04:25 PT [2021/02/16 0:04:25 ET]
+Table 'Figneria IV' 9-max Seat #3 is the button
+Seat 1: haibaneden ($2.61 in chips) 
+Seat 2: BalcarresKid ($2.47 in chips) 
+Seat 3: borkeremz ($2.35 in chips) 
+Seat 4: Dorex2007 ($1.66 in chips) 
+Seat 5: kusto1488 ($1.82 in chips) 
+Seat 6: STM32 ($0.83 in chips) 
+Seat 7: Luks_Jr ($1.94 in chips) 
+Seat 9: xKerplunkx ($0.50 in chips) 
+Dorex2007: posts small blind $0.01
+kusto1488: posts big blind $0.02
+abufirs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 9c]
+STM32: folds 
+Luks_Jr: folds 
+STM32 leaves the table
+xKerplunkx: folds 
+haibaneden: raises $0.04 to $0.06
+BalcarresKid: raises $0.04 to $0.10
+borkeremz: folds 
+Dorex2007: folds 
+kusto1488: folds 
+haibaneden: calls $0.04
+*** FLOP *** [3d 8c 8h]
+haibaneden: checks 
+BalcarresKid: checks 
+*** TURN *** [3d 8c 8h] [8s]
+Dav1713 joins the table at seat #6 
+haibaneden: bets $0.15
+BalcarresKid: calls $0.15
+*** RIVER *** [3d 8c 8h 8s] [Ad]
+haibaneden: checks 
+BalcarresKid: bets $0.25
+haibaneden: calls $0.25
+*** SHOW DOWN ***
+BalcarresKid: shows [As Jd] (a full house, Eights full of Aces)
+haibaneden: mucks hand 
+BalcarresKid collected $0.99 from pot
+*** SUMMARY ***
+Total pot $1.03 | Rake $0.04 
+Board [3d 8c 8h 8s Ad]
+Seat 1: haibaneden mucked [Ts Tc]
+Seat 2: BalcarresKid showed [As Jd] and won ($0.99) with a full house, Eights full of Aces
+Seat 3: borkeremz (button) folded before Flop (didn't bet)
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: kusto1488 (big blind) folded before Flop
+Seat 6: STM32 folded before Flop (didn't bet)
+Seat 7: Luks_Jr folded before Flop (didn't bet)
+Seat 9: xKerplunkx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223869018010:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:04:59 PT [2021/02/16 0:04:59 ET]
+Table 'Figneria IV' 9-max Seat #4 is the button
+Seat 1: haibaneden ($2.11 in chips) 
+Seat 2: BalcarresKid ($2.96 in chips) 
+Seat 3: borkeremz ($2.35 in chips) 
+Seat 4: Dorex2007 ($1.65 in chips) 
+Seat 5: kusto1488 ($1.80 in chips) 
+Seat 6: Dav1713 ($1.60 in chips) 
+Seat 7: Luks_Jr ($1.94 in chips) 
+Seat 9: xKerplunkx ($0.50 in chips) 
+kusto1488: posts small blind $0.01
+Dav1713: posts big blind $0.02
+abufirs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 3c]
+Luks_Jr: folds 
+xKerplunkx: raises $0.02 to $0.04
+haibaneden: folds 
+BalcarresKid: folds 
+borkeremz: folds 
+Dorex2007: folds 
+kusto1488: folds 
+Dav1713: calls $0.02
+*** FLOP *** [5h 2d 3h]
+Dav1713: checks 
+xKerplunkx: checks 
+*** TURN *** [5h 2d 3h] [2h]
+Dav1713: bets $0.05
+xKerplunkx: folds 
+Uncalled bet ($0.05) returned to Dav1713
+Dav1713 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [5h 2d 3h 2h]
+Seat 1: haibaneden folded before Flop (didn't bet)
+Seat 2: BalcarresKid folded before Flop (didn't bet)
+Seat 3: borkeremz folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: kusto1488 (small blind) folded before Flop
+Seat 6: Dav1713 (big blind) collected ($0.09)
+Seat 7: Luks_Jr folded before Flop (didn't bet)
+Seat 9: xKerplunkx folded on the Turn
+
+
+
+PokerStars Hand #223869026927:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:05:44 PT [2021/02/16 0:05:44 ET]
+Table 'Figneria IV' 9-max Seat #5 is the button
+Seat 1: haibaneden ($2.11 in chips) 
+Seat 2: BalcarresKid ($2.96 in chips) 
+Seat 3: borkeremz ($2.35 in chips) 
+Seat 4: Dorex2007 ($1.65 in chips) 
+Seat 5: kusto1488 ($1.79 in chips) 
+Seat 6: Dav1713 ($1.65 in chips) 
+Seat 7: Luks_Jr ($1.94 in chips) 
+Seat 9: xKerplunkx ($0.46 in chips) 
+Dav1713: posts small blind $0.01
+Luks_Jr: posts big blind $0.02
+abufirs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Kd]
+xKerplunkx: folds 
+haibaneden: folds 
+BalcarresKid: folds 
+borkeremz: folds 
+Dorex2007: folds 
+kusto1488: folds 
+Dav1713: raises $0.02 to $0.04
+Luks_Jr: folds 
+Uncalled bet ($0.02) returned to Dav1713
+Luks_Jr leaves the table
+Dav1713 collected $0.04 from pot
+Dav1713: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: haibaneden folded before Flop (didn't bet)
+Seat 2: BalcarresKid folded before Flop (didn't bet)
+Seat 3: borkeremz folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: kusto1488 (button) folded before Flop (didn't bet)
+Seat 6: Dav1713 (small blind) collected ($0.04)
+Seat 7: Luks_Jr (big blind) folded before Flop
+Seat 9: xKerplunkx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223869030013:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:06:00 PT [2021/02/16 0:06:00 ET]
+Table 'Figneria IV' 9-max Seat #6 is the button
+Seat 1: haibaneden ($2.11 in chips) 
+Seat 2: BalcarresKid ($2.96 in chips) 
+Seat 3: borkeremz ($2.35 in chips) 
+Seat 4: Dorex2007 ($1.65 in chips) 
+Seat 5: kusto1488 ($1.79 in chips) 
+Seat 6: Dav1713 ($1.67 in chips) 
+Seat 9: xKerplunkx ($0.46 in chips) 
+xKerplunkx: posts small blind $0.01
+haibaneden: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Ac]
+BalcarresKid: raises $0.04 to $0.06
+borkeremz: folds 
+Dorex2007: folds 
+kusto1488: folds 
+Dav1713: folds 
+fania77 joins the table at seat #7 
+xKerplunkx: folds 
+haibaneden: folds 
+Uncalled bet ($0.04) returned to BalcarresKid
+BalcarresKid collected $0.05 from pot
+BalcarresKid: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: haibaneden (big blind) folded before Flop
+Seat 2: BalcarresKid collected ($0.05)
+Seat 3: borkeremz folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: kusto1488 folded before Flop (didn't bet)
+Seat 6: Dav1713 (button) folded before Flop (didn't bet)
+Seat 9: xKerplunkx (small blind) folded before Flop
+
+
+
+PokerStars Hand #223869033841:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:06:19 PT [2021/02/16 0:06:19 ET]
+Table 'Figneria IV' 9-max Seat #9 is the button
+Seat 1: haibaneden ($2.09 in chips) 
+Seat 2: BalcarresKid ($2.99 in chips) 
+Seat 3: borkeremz ($2.35 in chips) 
+Seat 4: Dorex2007 ($1.65 in chips) 
+Seat 5: kusto1488 ($1.79 in chips) 
+Seat 6: Dav1713 ($1.67 in chips) 
+Seat 7: fania77 ($2 in chips) 
+Seat 9: xKerplunkx ($0.45 in chips) 
+haibaneden: posts small blind $0.01
+BalcarresKid: posts big blind $0.02
+fania77: posts big blind $0.02
+abufirs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 6c]
+borkeremz: folds 
+Dorex2007: folds 
+kusto1488: folds 
+Dav1713: calls $0.02
+fania77: raises $0.04 to $0.06
+xKerplunkx: folds 
+haibaneden: folds 
+BalcarresKid: calls $0.04
+Dav1713: calls $0.04
+*** FLOP *** [3c Qs Jd]
+BalcarresKid: bets $0.09
+Dav1713: folds 
+fania77: calls $0.09
+*** TURN *** [3c Qs Jd] [Js]
+BalcarresKid: checks 
+fania77: bets $0.12
+BalcarresKid: folds 
+Uncalled bet ($0.12) returned to fania77
+fania77 collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [3c Qs Jd Js]
+Seat 1: haibaneden (small blind) folded before Flop
+Seat 2: BalcarresKid (big blind) folded on the Turn
+Seat 3: borkeremz folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: kusto1488 folded before Flop (didn't bet)
+Seat 6: Dav1713 folded on the Flop
+Seat 7: fania77 collected ($0.36)
+Seat 9: xKerplunkx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223869043471:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:07:08 PT [2021/02/16 0:07:08 ET]
+Table 'Figneria IV' 9-max Seat #1 is the button
+Seat 1: haibaneden ($2.08 in chips) 
+Seat 2: BalcarresKid ($2.84 in chips) 
+Seat 3: borkeremz ($2.35 in chips) 
+Seat 4: Dorex2007 ($1.65 in chips) 
+Seat 5: kusto1488 ($1.79 in chips) 
+Seat 6: Dav1713 ($1.61 in chips) 
+Seat 7: fania77 ($2.21 in chips) 
+Seat 9: xKerplunkx ($0.45 in chips) 
+BalcarresKid: posts small blind $0.01
+borkeremz: posts big blind $0.02
+abufirs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 5c]
+Dorex2007: folds 
+kusto1488: folds 
+Dav1713: folds 
+fania77: folds 
+xKerplunkx: folds 
+haibaneden: raises $0.03 to $0.05
+BalcarresKid: folds 
+borkeremz: calls $0.03
+*** FLOP *** [Ks 5s 3s]
+borkeremz: checks 
+haibaneden: bets $0.06
+borkeremz: folds 
+Uncalled bet ($0.06) returned to haibaneden
+haibaneden collected $0.11 from pot
+haibaneden: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Ks 5s 3s]
+Seat 1: haibaneden (button) collected ($0.11)
+Seat 2: BalcarresKid (small blind) folded before Flop
+Seat 3: borkeremz (big blind) folded on the Flop
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: kusto1488 folded before Flop (didn't bet)
+Seat 6: Dav1713 folded before Flop (didn't bet)
+Seat 7: fania77 folded before Flop (didn't bet)
+Seat 9: xKerplunkx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223869048928:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:07:35 PT [2021/02/16 0:07:35 ET]
+Table 'Figneria IV' 9-max Seat #2 is the button
+Seat 1: haibaneden ($2.14 in chips) 
+Seat 2: BalcarresKid ($2.83 in chips) 
+Seat 3: borkeremz ($2.30 in chips) 
+Seat 4: Dorex2007 ($1.65 in chips) 
+Seat 5: kusto1488 ($1.79 in chips) 
+Seat 6: Dav1713 ($1.61 in chips) 
+Seat 7: fania77 ($2.21 in chips) 
+Seat 9: xKerplunkx ($0.45 in chips) 
+borkeremz: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+abufirs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 5h]
+kusto1488: folds 
+Dav1713: folds 
+fania77: folds 
+xKerplunkx: folds 
+haibaneden: raises $0.04 to $0.06
+BalcarresKid: folds 
+borkeremz: folds 
+Dorex2007: calls $0.04
+*** FLOP *** [6c 6s 3h]
+Dorex2007: checks 
+haibaneden: bets $0.09
+Dorex2007: calls $0.09
+*** TURN *** [6c 6s 3h] [9s]
+Dorex2007: checks 
+haibaneden: bets $0.23
+Dorex2007: calls $0.23
+*** RIVER *** [6c 6s 3h 9s] [8h]
+Dorex2007: checks 
+haibaneden: bets $0.56
+Dorex2007: folds 
+Uncalled bet ($0.56) returned to haibaneden
+haibaneden collected $0.74 from pot
+haibaneden: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [6c 6s 3h 9s 8h]
+Seat 1: haibaneden collected ($0.74)
+Seat 2: BalcarresKid (button) folded before Flop (didn't bet)
+Seat 3: borkeremz (small blind) folded before Flop
+Seat 4: Dorex2007 (big blind) folded on the River
+Seat 5: kusto1488 folded before Flop (didn't bet)
+Seat 6: Dav1713 folded before Flop (didn't bet)
+Seat 7: fania77 folded before Flop (didn't bet)
+Seat 9: xKerplunkx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223869064972:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:08:37 PT [2021/02/16 0:08:37 ET]
+Table 'Figneria IV' 9-max Seat #3 is the button
+Seat 1: haibaneden ($2.50 in chips) 
+Seat 2: BalcarresKid ($2.83 in chips) 
+Seat 3: borkeremz ($2.29 in chips) 
+Seat 4: Dorex2007 ($1.27 in chips) 
+Seat 5: kusto1488 ($1.79 in chips) 
+Seat 6: Dav1713 ($1.61 in chips) 
+Seat 7: fania77 ($2.21 in chips) 
+Seat 9: xKerplunkx ($0.45 in chips) 
+Dorex2007: posts small blind $0.01
+kusto1488: posts big blind $0.02
+abufirs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 6h]
+Dav1713: folds 
+fania77 has timed out
+fania77: folds 
+xKerplunkx: folds 
+haibaneden: folds 
+BalcarresKid: folds 
+borkeremz: raises $0.04 to $0.06
+Dorex2007: calls $0.05
+kusto1488: folds 
+*** FLOP *** [5s 3c Kd]
+Dorex2007: bets $0.14
+borkeremz: folds 
+Uncalled bet ($0.14) returned to Dorex2007
+Dorex2007 collected $0.14 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [5s 3c Kd]
+Seat 1: haibaneden folded before Flop (didn't bet)
+Seat 2: BalcarresKid folded before Flop (didn't bet)
+Seat 3: borkeremz (button) folded on the Flop
+Seat 4: Dorex2007 (small blind) collected ($0.14)
+Seat 5: kusto1488 (big blind) folded before Flop
+Seat 6: Dav1713 folded before Flop (didn't bet)
+Seat 7: fania77 folded before Flop (didn't bet)
+Seat 9: xKerplunkx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223869071465:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:09:10 PT [2021/02/16 0:09:10 ET]
+Table 'Figneria IV' 9-max Seat #4 is the button
+Seat 1: haibaneden ($2.50 in chips) 
+Seat 2: BalcarresKid ($2.83 in chips) 
+Seat 3: borkeremz ($2.23 in chips) 
+Seat 4: Dorex2007 ($1.35 in chips) 
+Seat 5: kusto1488 ($1.77 in chips) 
+Seat 6: Dav1713 ($1.61 in chips) 
+Seat 9: xKerplunkx ($0.45 in chips) 
+kusto1488: posts small blind $0.01
+Dav1713: posts big blind $0.02
+abufirs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c As]
+xKerplunkx has timed out
+xKerplunkx: folds 
+haibaneden: raises $0.04 to $0.06
+BalcarresKid: folds 
+borkeremz: folds 
+Dorex2007: folds 
+kusto1488: calls $0.05
+Dav1713: calls $0.04
+*** FLOP *** [3h 6d Qd]
+kusto1488: checks 
+xKerplunkx leaves the table
+Dav1713: bets $0.08
+haibaneden: raises $0.16 to $0.24
+kusto1488: folds 
+Dav1713: folds 
+Uncalled bet ($0.16) returned to haibaneden
+haibaneden collected $0.33 from pot
+haibaneden: doesn't show hand 
+drawn wave joins the table at seat #9 
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [3h 6d Qd]
+Seat 1: haibaneden collected ($0.33)
+Seat 2: BalcarresKid folded before Flop (didn't bet)
+Seat 3: borkeremz folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: kusto1488 (small blind) folded on the Flop
+Seat 6: Dav1713 (big blind) folded on the Flop
+Seat 9: xKerplunkx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223869083365:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:10:11 PT [2021/02/16 0:10:11 ET]
+Table 'Figneria IV' 9-max Seat #5 is the button
+Seat 1: haibaneden ($2.69 in chips) 
+Seat 2: BalcarresKid ($2.83 in chips) 
+Seat 3: borkeremz ($2.23 in chips) 
+Seat 4: Dorex2007 ($1.35 in chips) 
+Seat 5: kusto1488 ($1.71 in chips) 
+Seat 6: Dav1713 ($1.47 in chips) 
+Seat 8: abufirs ($1.98 in chips) 
+Seat 9: drawn wave ($1.67 in chips) 
+Dav1713: posts small blind $0.01
+abufirs: posts big blind $0.02
+drawn wave is connected 
+drawn wave: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh As]
+drawn wave: checks 
+haibaneden: raises $0.06 to $0.08
+BalcarresKid: folds 
+borkeremz: folds 
+Dorex2007: calls $0.08
+kusto1488: folds 
+Dav1713: folds 
+abufirs: folds 
+drawn wave: calls $0.06
+*** FLOP *** [7c 6c 3h]
+drawn wave: bets $0.02
+haibaneden: raises $0.23 to $0.25
+Dorex2007: folds 
+drawn wave: folds 
+Uncalled bet ($0.23) returned to haibaneden
+haibaneden collected $0.30 from pot
+haibaneden: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [7c 6c 3h]
+Seat 1: haibaneden collected ($0.30)
+Seat 2: BalcarresKid folded before Flop (didn't bet)
+Seat 3: borkeremz folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded on the Flop
+Seat 5: kusto1488 (button) folded before Flop (didn't bet)
+Seat 6: Dav1713 (small blind) folded before Flop
+Seat 8: abufirs (big blind) folded before Flop
+Seat 9: drawn wave folded on the Flop
+
+
+
+PokerStars Hand #223869090318:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:10:47 PT [2021/02/16 0:10:47 ET]
+Table 'Figneria IV' 9-max Seat #6 is the button
+Seat 1: haibaneden ($2.89 in chips) 
+Seat 2: BalcarresKid ($2.83 in chips) 
+Seat 3: borkeremz ($2.23 in chips) 
+Seat 4: Dorex2007 ($1.27 in chips) 
+Seat 5: kusto1488 ($1.71 in chips) 
+Seat 6: Dav1713 ($1.46 in chips) 
+Seat 8: abufirs ($1.96 in chips) 
+Seat 9: drawn wave ($1.57 in chips) 
+abufirs: posts small blind $0.01
+drawn wave: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 9s]
+haibaneden: folds 
+BalcarresKid: folds 
+borkeremz: folds 
+Dorex2007: calls $0.02
+kusto1488: folds 
+Dav1713: raises $0.02 to $0.04
+abufirs: folds 
+drawn wave: calls $0.02
+Dorex2007: calls $0.02
+*** FLOP *** [Ah 6s 5h]
+drawn wave: bets $0.02
+Dorex2007: calls $0.02
+Dav1713: calls $0.02
+*** TURN *** [Ah 6s 5h] [7s]
+drawn wave: bets $0.02
+Dorex2007: calls $0.02
+Dav1713: calls $0.02
+*** RIVER *** [Ah 6s 5h 7s] [5d]
+drawn wave: bets $0.20
+Dorex2007: folds 
+Dav1713: folds 
+Uncalled bet ($0.20) returned to drawn wave
+drawn wave collected $0.24 from pot
+drawn wave: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ah 6s 5h 7s 5d]
+Seat 1: haibaneden folded before Flop (didn't bet)
+Seat 2: BalcarresKid folded before Flop (didn't bet)
+Seat 3: borkeremz folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded on the River
+Seat 5: kusto1488 folded before Flop (didn't bet)
+Seat 6: Dav1713 (button) folded on the River
+Seat 8: abufirs (small blind) folded before Flop
+Seat 9: drawn wave (big blind) collected ($0.24)
+
+
+
+PokerStars Hand #223869100225:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:11:38 PT [2021/02/16 0:11:38 ET]
+Table 'Figneria IV' 9-max Seat #8 is the button
+Seat 1: haibaneden ($2.89 in chips) 
+Seat 2: BalcarresKid ($2.83 in chips) 
+Seat 3: borkeremz ($2.23 in chips) 
+Seat 4: Dorex2007 ($1.19 in chips) 
+Seat 5: kusto1488 ($1.71 in chips) 
+Seat 6: Dav1713 ($1.38 in chips) 
+Seat 8: abufirs ($1.95 in chips) 
+Seat 9: drawn wave ($1.73 in chips) 
+drawn wave: posts small blind $0.01
+haibaneden: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Ad]
+BalcarresKid: folds 
+borkeremz: folds 
+Dorex2007: folds 
+kusto1488: raises $0.04 to $0.06
+Dav1713: calls $0.06
+abufirs: folds 
+drawn wave: folds 
+haibaneden: folds 
+*** FLOP *** [Jc 7c 4d]
+kusto1488: checks 
+Dav1713: bets $0.02
+kusto1488: calls $0.02
+*** TURN *** [Jc 7c 4d] [8s]
+kusto1488: bets $0.11
+Dav1713: raises $0.11 to $0.22
+kusto1488: calls $0.11
+*** RIVER *** [Jc 7c 4d 8s] [4c]
+kusto1488: checks 
+Dav1713: bets $0.14
+kusto1488: folds 
+Uncalled bet ($0.14) returned to Dav1713
+Dav1713 collected $0.61 from pot
+*** SUMMARY ***
+Total pot $0.63 | Rake $0.02 
+Board [Jc 7c 4d 8s 4c]
+Seat 1: haibaneden (big blind) folded before Flop
+Seat 2: BalcarresKid folded before Flop (didn't bet)
+Seat 3: borkeremz folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: kusto1488 folded on the River
+Seat 6: Dav1713 collected ($0.61)
+Seat 8: abufirs (button) folded before Flop (didn't bet)
+Seat 9: drawn wave (small blind) folded before Flop
+
+
+
+PokerStars Hand #223869107407:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:12:14 PT [2021/02/16 0:12:14 ET]
+Table 'Figneria IV' 9-max Seat #9 is the button
+Seat 1: haibaneden ($2.87 in chips) 
+Seat 3: borkeremz ($2.23 in chips) 
+Seat 4: Dorex2007 ($1.19 in chips) 
+Seat 5: kusto1488 ($1.54 in chips) 
+Seat 6: Dav1713 ($1.69 in chips) 
+Seat 8: abufirs ($1.95 in chips) 
+Seat 9: drawn wave ($1.72 in chips) 
+haibaneden: posts small blind $0.01
+BalcarresKid: is sitting out 
+borkeremz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Tc]
+Dorex2007: folds 
+kusto1488: folds 
+Dav1713: calls $0.02
+abufirs: calls $0.02
+BalcarresKid leaves the table
+drawn wave: calls $0.02
+haibaneden: raises $0.26 to $0.28
+borkeremz: raises $1.95 to $2.23 and is all-in
+Dav1713: folds 
+abufirs: folds 
+drawn wave: folds 
+haibaneden: calls $1.95
+*** FLOP *** [Td 7c 9d]
+duemah33 joins the table at seat #2 
+*** TURN *** [Td 7c 9d] [8s]
+*** RIVER *** [Td 7c 9d 8s] [3s]
+*** SHOW DOWN ***
+haibaneden: shows [Jd Js] (a straight, Seven to Jack)
+borkeremz: shows [Kc Ad] (high card Ace)
+haibaneden collected $4.36 from pot
+*** SUMMARY ***
+Total pot $4.52 | Rake $0.16 
+Board [Td 7c 9d 8s 3s]
+Seat 1: haibaneden (small blind) showed [Jd Js] and won ($4.36) with a straight, Seven to Jack
+Seat 3: borkeremz (big blind) showed [Kc Ad] and lost with high card Ace
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: kusto1488 folded before Flop (didn't bet)
+Seat 6: Dav1713 folded before Flop
+Seat 8: abufirs folded before Flop
+Seat 9: drawn wave (button) folded before Flop
+
+
+
+PokerStars Hand #223869113536:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:12:46 PT [2021/02/16 0:12:46 ET]
+Table 'Figneria IV' 9-max Seat #1 is the button
+Seat 1: haibaneden ($5 in chips) 
+Seat 4: Dorex2007 ($1.19 in chips) 
+Seat 5: kusto1488 ($1.54 in chips) 
+Seat 6: Dav1713 ($1.67 in chips) 
+Seat 8: abufirs ($1.93 in chips) 
+Seat 9: drawn wave ($1.70 in chips) 
+Dorex2007: posts small blind $0.01
+kusto1488: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Js]
+Dav1713: folds 
+abufirs: folds 
+drawn wave: calls $0.02
+haibaneden: folds 
+Dorex2007: folds 
+kusto1488: checks 
+*** FLOP *** [6h 5c 9s]
+kusto1488: checks 
+drawn wave: bets $0.02
+kusto1488: calls $0.02
+*** TURN *** [6h 5c 9s] [5s]
+kusto1488: checks 
+drawn wave: bets $0.02
+kusto1488: folds 
+Uncalled bet ($0.02) returned to drawn wave
+drawn wave collected $0.09 from pot
+drawn wave: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [6h 5c 9s 5s]
+Seat 1: haibaneden (button) folded before Flop (didn't bet)
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: kusto1488 (big blind) folded on the Turn
+Seat 6: Dav1713 folded before Flop (didn't bet)
+Seat 8: abufirs folded before Flop (didn't bet)
+Seat 9: drawn wave collected ($0.09)
+
+
+
+PokerStars Hand #223869118458:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:13:11 PT [2021/02/16 0:13:11 ET]
+Table 'Figneria IV' 9-max Seat #4 is the button
+Seat 1: haibaneden ($5 in chips) 
+Seat 2: duemah33 ($1.60 in chips) 
+Seat 4: Dorex2007 ($1.18 in chips) 
+Seat 5: kusto1488 ($1.54 in chips) 
+Seat 6: Dav1713 ($1.67 in chips) 
+Seat 8: abufirs ($1.93 in chips) 
+Seat 9: drawn wave ($1.75 in chips) 
+kusto1488: posts small blind $0.01
+Dav1713: posts big blind $0.02
+duemah33: posts big blind $0.02
+borkeremz: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 2c]
+abufirs: folds 
+drawn wave: calls $0.02
+haibaneden: folds 
+duemah33 has timed out
+duemah33: checks 
+Dorex2007: folds 
+kusto1488: calls $0.01
+Dav1713: checks 
+*** FLOP *** [6c Ah 3h]
+kusto1488: checks 
+Dav1713: bets $0.04
+drawn wave: raises $0.04 to $0.08
+duemah33 has timed out
+duemah33: folds 
+kusto1488: calls $0.08
+Dav1713: raises $0.04 to $0.12
+drawn wave: calls $0.04
+kusto1488: calls $0.04
+*** TURN *** [6c Ah 3h] [Kd]
+kusto1488: checks 
+Dav1713: bets $0.18
+drawn wave: calls $0.18
+kusto1488: calls $0.18
+*** RIVER *** [6c Ah 3h Kd] [8d]
+kusto1488: checks 
+Dav1713: bets $0.08
+drawn wave: folds 
+kusto1488: folds 
+Uncalled bet ($0.08) returned to Dav1713
+Dav1713 collected $0.95 from pot
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.03 
+Board [6c Ah 3h Kd 8d]
+Seat 1: haibaneden folded before Flop (didn't bet)
+Seat 2: duemah33 folded on the Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: kusto1488 (small blind) folded on the River
+Seat 6: Dav1713 (big blind) collected ($0.95)
+Seat 8: abufirs folded before Flop (didn't bet)
+Seat 9: drawn wave folded on the River
+
+
+
+PokerStars Hand #223869140749:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:15:05 PT [2021/02/16 0:15:05 ET]
+Table 'Figneria IV' 9-max Seat #5 is the button
+Seat 1: haibaneden ($5 in chips) 
+Seat 4: Dorex2007 ($1.18 in chips) 
+Seat 5: kusto1488 ($1.54 in chips) 
+Seat 6: Dav1713 ($2.30 in chips) 
+Seat 8: abufirs ($1.93 in chips) 
+Seat 9: drawn wave ($1.43 in chips) 
+Dav1713: posts small blind $0.01
+abufirs: posts big blind $0.02
+borkeremz: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Tc]
+drawn wave: calls $0.02
+haibaneden has timed out
+haibaneden: folds 
+Dorex2007: folds 
+kusto1488: folds 
+Dav1713: raises $0.02 to $0.04
+abufirs: folds 
+drawn wave: calls $0.02
+*** FLOP *** [Qs Ks Td]
+Dav1713: bets $0.02
+drawn wave: calls $0.02
+*** TURN *** [Qs Ks Td] [5c]
+Dav1713: bets $0.02
+drawn wave: calls $0.02
+*** RIVER *** [Qs Ks Td 5c] [Th]
+Dav1713: bets $0.02
+drawn wave: raises $1.33 to $1.35 and is all-in
+Dav1713: folds 
+Uncalled bet ($1.33) returned to drawn wave
+drawn wave collected $0.21 from pot
+drawn wave: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Qs Ks Td 5c Th]
+Seat 1: haibaneden folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: kusto1488 (button) folded before Flop (didn't bet)
+Seat 6: Dav1713 (small blind) folded on the River
+Seat 8: abufirs (big blind) folded before Flop
+Seat 9: drawn wave collected ($0.21)
+
+
+
+PokerStars Hand #223869150721:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:15:56 PT [2021/02/16 0:15:56 ET]
+Table 'Figneria IV' 9-max Seat #6 is the button
+Seat 4: Dorex2007 ($1.18 in chips) 
+Seat 5: kusto1488 ($1.54 in chips) 
+Seat 6: Dav1713 ($2.20 in chips) 
+Seat 8: abufirs ($1.91 in chips) 
+Seat 9: drawn wave ($1.54 in chips) 
+abufirs: posts small blind $0.01
+drawn wave: posts big blind $0.02
+borkeremz: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 2h]
+Dorex2007: folds 
+kusto1488: raises $0.04 to $0.06
+Dav1713: folds 
+abufirs: folds 
+drawn wave: calls $0.04
+*** FLOP *** [Ks Ts 7s]
+drawn wave: bets $0.02
+kusto1488: raises $0.09 to $0.11
+drawn wave: raises $0.09 to $0.20
+kusto1488: calls $0.09
+*** TURN *** [Ks Ts 7s] [5s]
+drawn wave: bets $0.02
+kusto1488: raises $0.24 to $0.26
+drawn wave: raises $1.02 to $1.28 and is all-in
+Dav1713 leaves the table
+kusto1488: folds 
+Uncalled bet ($1.02) returned to drawn wave
+drawn wave collected $1.01 from pot
+drawn wave: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.04 
+Board [Ks Ts 7s 5s]
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: kusto1488 folded on the Turn
+Seat 6: Dav1713 (button) folded before Flop (didn't bet)
+Seat 8: abufirs (small blind) folded before Flop
+Seat 9: drawn wave (big blind) collected ($1.01)
+
+
+
+PokerStars Hand #223869165287:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:16:36 PT [2021/02/16 0:16:36 ET]
+Table 'Figneria IV' 9-max Seat #8 is the button
+Seat 3: borkeremz ($2 in chips) 
+Seat 4: Dorex2007 ($1.18 in chips) 
+Seat 5: kusto1488 ($1.54 in chips) 
+Seat 7: fania77 ($2.21 in chips) 
+Seat 8: abufirs ($1.90 in chips) 
+Seat 9: drawn wave ($2.03 in chips) 
+drawn wave: posts small blind $0.01
+borkeremz: posts big blind $0.02
+fania77: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 5s]
+Dorex2007: folds 
+kusto1488: folds 
+fania77: checks 
+abufirs: calls $0.02
+drawn wave: calls $0.01
+borkeremz: checks 
+*** FLOP *** [Qs 4h Qd]
+drawn wave: bets $0.02
+borkeremz: folds 
+fania77: folds 
+abufirs: folds 
+Uncalled bet ($0.02) returned to drawn wave
+drawn wave collected $0.09 from pot
+drawn wave: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Qs 4h Qd]
+Seat 3: borkeremz (big blind) folded on the Flop
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: kusto1488 folded before Flop (didn't bet)
+Seat 7: fania77 folded on the Flop (didn't bet)
+Seat 8: abufirs (button) folded on the Flop
+Seat 9: drawn wave (small blind) collected ($0.09)
+
+
+
+PokerStars Hand #223869170261:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:17:01 PT [2021/02/16 0:17:01 ET]
+Table 'Figneria IV' 9-max Seat #9 is the button
+Seat 3: borkeremz ($1.98 in chips) 
+Seat 4: Dorex2007 ($1.18 in chips) 
+Seat 5: kusto1488 ($1.54 in chips) 
+Seat 7: fania77 ($2.18 in chips) 
+Seat 8: abufirs ($1.88 in chips) 
+Seat 9: drawn wave ($2.10 in chips) 
+borkeremz: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 5h]
+Ivan prgd joins the table at seat #6 
+kusto1488: folds 
+fania77: raises $0.04 to $0.06
+abufirs: folds 
+drawn wave: calls $0.06
+borkeremz: folds 
+Dorex2007: folds 
+*** FLOP *** [5c Ks Ac]
+fania77: checks 
+drawn wave: bets $0.02
+fania77: folds 
+Uncalled bet ($0.02) returned to drawn wave
+drawn wave collected $0.14 from pot
+drawn wave: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5c Ks Ac]
+Seat 3: borkeremz (small blind) folded before Flop
+Seat 4: Dorex2007 (big blind) folded before Flop
+Seat 5: kusto1488 folded before Flop (didn't bet)
+Seat 7: fania77 folded on the Flop
+Seat 8: abufirs folded before Flop (didn't bet)
+Seat 9: drawn wave (button) collected ($0.14)
+
+
+
+PokerStars Hand #223869173929:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:17:20 PT [2021/02/16 0:17:20 ET]
+Table 'Figneria IV' 9-max Seat #3 is the button
+Seat 3: borkeremz ($1.97 in chips) 
+Seat 4: Dorex2007 ($1.16 in chips) 
+Seat 5: kusto1488 ($1.54 in chips) 
+Seat 7: fania77 ($2.12 in chips) 
+Seat 8: abufirs ($1.88 in chips) 
+Seat 9: drawn wave ($2.18 in chips) 
+Dorex2007: posts small blind $0.01
+kusto1488: posts big blind $0.02
+Ivan prgd: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Qh]
+fania77: raises $0.04 to $0.06
+abufirs: calls $0.06
+drawn wave: calls $0.06
+borkeremz: folds 
+Dorex2007: folds 
+kusto1488: folds 
+*** FLOP *** [3c 6s 7s]
+fania77: checks 
+abufirs: checks 
+drawn wave: bets $0.02
+fania77: calls $0.02
+abufirs: calls $0.02
+*** TURN *** [3c 6s 7s] [5s]
+fania77: checks 
+abufirs: checks 
+drawn wave: bets $0.14
+fania77: folds 
+abufirs: calls $0.14
+*** RIVER *** [3c 6s 7s 5s] [8c]
+abufirs: checks 
+drawn wave: bets $1.96 and is all-in
+abufirs: folds 
+Uncalled bet ($1.96) returned to drawn wave
+drawn wave collected $0.53 from pot
+drawn wave: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [3c 6s 7s 5s 8c]
+Seat 3: borkeremz (button) folded before Flop (didn't bet)
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: kusto1488 (big blind) folded before Flop
+Seat 7: fania77 folded on the Turn
+Seat 8: abufirs folded on the River
+Seat 9: drawn wave collected ($0.53)
+
+
+
+PokerStars Hand #223869184579:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:18:14 PT [2021/02/16 0:18:14 ET]
+Table 'Figneria IV' 9-max Seat #4 is the button
+Seat 3: borkeremz ($1.97 in chips) 
+Seat 4: Dorex2007 ($1.15 in chips) 
+Seat 5: kusto1488 ($1.54 in chips) 
+Seat 6: Ivan prgd ($1 in chips) 
+Seat 7: fania77 ($2.04 in chips) 
+Seat 8: abufirs ($1.66 in chips) 
+Seat 9: drawn wave ($2.49 in chips) 
+kusto1488: posts small blind $0.01
+Ivan prgd: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 7s]
+fania77: raises $0.04 to $0.06
+abufirs: folds 
+drawn wave: calls $0.06
+borkeremz: folds 
+Dorex2007: folds 
+kusto1488: folds 
+Ivan prgd: folds 
+*** FLOP *** [5d 4d Ah]
+fania77: checks 
+drawn wave: bets $0.02
+fania77: calls $0.02
+*** TURN *** [5d 4d Ah] [3c]
+fania77: checks 
+drawn wave: bets $0.02
+fania77: raises $0.04 to $0.06
+drawn wave: calls $0.04
+*** RIVER *** [5d 4d Ah 3c] [8c]
+fania77: checks 
+drawn wave: bets $0.02
+fania77: raises $0.04 to $0.06
+drawn wave: folds 
+Uncalled bet ($0.04) returned to fania77
+fania77 collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [5d 4d Ah 3c 8c]
+Seat 3: borkeremz folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: kusto1488 (small blind) folded before Flop
+Seat 6: Ivan prgd (big blind) folded before Flop
+Seat 7: fania77 collected ($0.34)
+Seat 8: abufirs folded before Flop (didn't bet)
+Seat 9: drawn wave folded on the River
+
+
+
+PokerStars Hand #223869192463:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:18:55 PT [2021/02/16 0:18:55 ET]
+Table 'Figneria IV' 9-max Seat #5 is the button
+Seat 3: borkeremz ($1.97 in chips) 
+Seat 4: Dorex2007 ($1.15 in chips) 
+Seat 5: kusto1488 ($1.54 in chips) 
+Seat 6: Ivan prgd ($1 in chips) 
+Seat 7: fania77 ($2.22 in chips) 
+Seat 8: abufirs ($1.66 in chips) 
+Seat 9: drawn wave ($2.33 in chips) 
+Ivan prgd: posts small blind $0.01
+fania77: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 4h]
+abufirs: folds 
+drawn wave: calls $0.02
+borkeremz: raises $0.06 to $0.08
+Dorex2007: folds 
+kusto1488: folds 
+Ivan prgd: calls $0.07
+fania77: folds 
+drawn wave: folds 
+*** FLOP *** [6d 7h Kd]
+Ivan prgd: checks 
+borkeremz: bets $0.06
+Ivan prgd: folds 
+Uncalled bet ($0.06) returned to borkeremz
+borkeremz collected $0.19 from pot
+borkeremz: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [6d 7h Kd]
+Seat 3: borkeremz collected ($0.19)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: kusto1488 (button) folded before Flop (didn't bet)
+Seat 6: Ivan prgd (small blind) folded on the Flop
+Seat 7: fania77 (big blind) folded before Flop
+Seat 8: abufirs folded before Flop (didn't bet)
+Seat 9: drawn wave folded before Flop
+
+
+
+PokerStars Hand #223869197795:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:19:22 PT [2021/02/16 0:19:22 ET]
+Table 'Figneria IV' 9-max Seat #6 is the button
+Seat 3: borkeremz ($2.08 in chips) 
+Seat 4: Dorex2007 ($1.15 in chips) 
+Seat 5: kusto1488 ($1.54 in chips) 
+Seat 6: Ivan prgd ($1 in chips) 
+Seat 7: fania77 ($2.20 in chips) 
+Seat 8: abufirs ($1.66 in chips) 
+Seat 9: drawn wave ($2.31 in chips) 
+fania77: posts small blind $0.01
+abufirs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 6h]
+drawn wave: folds 
+borkeremz: folds 
+Dorex2007: folds 
+kusto1488: folds 
+Ivan prgd: raises $0.02 to $0.04
+fania77: calls $0.03
+abufirs: folds 
+*** FLOP *** [9d Td 7h]
+fania77: checks 
+Ivan prgd: bets $0.03
+fania77: calls $0.03
+*** TURN *** [9d Td 7h] [4h]
+fania77: checks 
+Ivan prgd: bets $0.05
+fania77: calls $0.05
+*** RIVER *** [9d Td 7h 4h] [Ah]
+fania77: checks 
+Ivan prgd: checks 
+*** SHOW DOWN ***
+fania77: shows [Kd Ad] (a pair of Aces)
+Ivan prgd: mucks hand 
+fania77 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [9d Td 7h 4h Ah]
+Seat 3: borkeremz folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: kusto1488 folded before Flop (didn't bet)
+Seat 6: Ivan prgd (button) mucked [Th 3s]
+Seat 7: fania77 (small blind) showed [Kd Ad] and won ($0.25) with a pair of Aces
+Seat 8: abufirs (big blind) folded before Flop
+Seat 9: drawn wave folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223869211956:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:20:05 PT [2021/02/16 0:20:05 ET]
+Table 'Figneria IV' 9-max Seat #7 is the button
+Seat 3: borkeremz ($2.08 in chips) 
+Seat 4: Dorex2007 ($1.15 in chips) 
+Seat 5: kusto1488 ($1.54 in chips) 
+Seat 6: Ivan prgd ($1 in chips) 
+Seat 7: fania77 ($2.33 in chips) 
+Seat 8: abufirs ($1.64 in chips) 
+Seat 9: drawn wave ($2.31 in chips) 
+abufirs: posts small blind $0.01
+drawn wave: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 9c]
+borkeremz: raises $0.03 to $0.05
+Dorex2007: folds 
+kusto1488: folds 
+Ivan prgd: folds 
+fania77: folds 
+abufirs: calls $0.04
+drawn wave: calls $0.03
+*** FLOP *** [Qd Tc 4d]
+abufirs: checks 
+drawn wave: bets $0.02
+borkeremz: raises $0.06 to $0.08
+abufirs: calls $0.08
+drawn wave: folds 
+*** TURN *** [Qd Tc 4d] [Jc]
+abufirs: checks 
+borkeremz: bets $0.24
+abufirs: calls $0.24
+*** RIVER *** [Qd Tc 4d Jc] [6h]
+abufirs: checks 
+borkeremz: bets $0.26
+abufirs: calls $0.26
+*** SHOW DOWN ***
+borkeremz: shows [As Kd] (a straight, Ten to Ace)
+abufirs: mucks hand 
+borkeremz collected $1.28 from pot
+*** SUMMARY ***
+Total pot $1.33 | Rake $0.05 
+Board [Qd Tc 4d Jc 6h]
+Seat 3: borkeremz showed [As Kd] and won ($1.28) with a straight, Ten to Ace
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: kusto1488 folded before Flop (didn't bet)
+Seat 6: Ivan prgd folded before Flop (didn't bet)
+Seat 7: fania77 (button) folded before Flop (didn't bet)
+Seat 8: abufirs (small blind) mucked [Qs Kh]
+Seat 9: drawn wave (big blind) folded on the Flop
+
+
+
+PokerStars Hand #223869230157:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:21:39 PT [2021/02/16 0:21:39 ET]
+Table 'Figneria IV' 9-max Seat #9 is the button
+Seat 3: borkeremz ($2.71 in chips) 
+Seat 4: Dorex2007 ($1.15 in chips) 
+Seat 5: kusto1488 ($1.54 in chips) 
+Seat 6: Ivan prgd ($1 in chips) 
+Seat 7: fania77 ($2.41 in chips) 
+Seat 9: drawn wave ($2.18 in chips) 
+borkeremz: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 9s]
+kusto1488: folds 
+Ivan prgd: folds 
+fania77: raises $0.04 to $0.06
+drawn wave: folds 
+borkeremz: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to fania77
+fania77 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 3: borkeremz (small blind) folded before Flop
+Seat 4: Dorex2007 (big blind) folded before Flop
+Seat 5: kusto1488 folded before Flop (didn't bet)
+Seat 6: Ivan prgd folded before Flop (didn't bet)
+Seat 7: fania77 collected ($0.05)
+Seat 9: drawn wave (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223869232559:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:21:52 PT [2021/02/16 0:21:52 ET]
+Table 'Figneria IV' 9-max Seat #3 is the button
+Seat 3: borkeremz ($2.70 in chips) 
+Seat 4: Dorex2007 ($1.13 in chips) 
+Seat 5: kusto1488 ($1.54 in chips) 
+Seat 6: Ivan prgd ($1 in chips) 
+Seat 7: fania77 ($2.44 in chips) 
+Seat 9: drawn wave ($2.18 in chips) 
+Dorex2007: posts small blind $0.01
+kusto1488: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Js]
+Ivan prgd: folds 
+fania77: folds 
+drawn wave: folds 
+borkeremz: raises $0.03 to $0.05
+Dorex2007: calls $0.04
+kusto1488: folds 
+*** FLOP *** [Ac 8s 8c]
+Dorex2007: bets $0.12
+borkeremz: calls $0.12
+*** TURN *** [Ac 8s 8c] [5h]
+Dorex2007: checks 
+borkeremz: bets $0.26
+Dorex2007: calls $0.26
+*** RIVER *** [Ac 8s 8c 5h] [2c]
+Dorex2007: checks 
+borkeremz: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [Jh Js] (two pair, Jacks and Eights)
+borkeremz: shows [4h Ad] (two pair, Aces and Eights)
+borkeremz collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.88 | Rake $0.03 
+Board [Ac 8s 8c 5h 2c]
+Seat 3: borkeremz (button) showed [4h Ad] and won ($0.85) with two pair, Aces and Eights
+Seat 4: Dorex2007 (small blind) showed [Jh Js] and lost with two pair, Jacks and Eights
+Seat 5: kusto1488 (big blind) folded before Flop
+Seat 6: Ivan prgd folded before Flop (didn't bet)
+Seat 7: fania77 folded before Flop (didn't bet)
+Seat 9: drawn wave folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223869241667:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:22:38 PT [2021/02/16 0:22:38 ET]
+Table 'Figneria IV' 9-max Seat #4 is the button
+Seat 3: borkeremz ($3.12 in chips) 
+Seat 4: Dorex2007 ($0.70 in chips) 
+Seat 5: kusto1488 ($1.54 in chips) 
+Seat 6: Ivan prgd ($1 in chips) 
+Seat 7: fania77 ($2.44 in chips) 
+Seat 8: abufirs ($1.01 in chips) 
+Seat 9: drawn wave ($2.18 in chips) 
+kusto1488: posts small blind $0.01
+Ivan prgd: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 2d]
+fania77: folds 
+abufirs: calls $0.02
+drawn wave: folds 
+borkeremz: folds 
+Dorex2007: folds 
+kusto1488: folds 
+Ivan prgd: checks 
+*** FLOP *** [Tc Kh 4s]
+Ivan prgd: checks 
+abufirs: checks 
+*** TURN *** [Tc Kh 4s] [2h]
+Ivan prgd: bets $0.02
+abufirs: calls $0.02
+*** RIVER *** [Tc Kh 4s 2h] [2s]
+Ivan prgd: checks 
+abufirs: checks 
+*** SHOW DOWN ***
+Ivan prgd: shows [Jh 6h] (a pair of Deuces)
+abufirs: shows [Js Ah] (a pair of Deuces - Ace kicker)
+abufirs collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Tc Kh 4s 2h 2s]
+Seat 3: borkeremz folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: kusto1488 (small blind) folded before Flop
+Seat 6: Ivan prgd (big blind) showed [Jh 6h] and lost with a pair of Deuces
+Seat 7: fania77 folded before Flop (didn't bet)
+Seat 8: abufirs showed [Js Ah] and won ($0.09) with a pair of Deuces
+Seat 9: drawn wave folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223869247814:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:23:10 PT [2021/02/16 0:23:10 ET]
+Table 'Figneria IV' 9-max Seat #5 is the button
+Seat 3: borkeremz ($3.12 in chips) 
+Seat 4: Dorex2007 ($0.70 in chips) 
+Seat 5: kusto1488 ($1.54 in chips) 
+Seat 6: Ivan prgd ($1 in chips) 
+Seat 7: fania77 ($2.44 in chips) 
+Seat 8: abufirs ($1.06 in chips) 
+Seat 9: drawn wave ($2.18 in chips) 
+Ivan prgd: posts small blind $0.01
+fania77: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 2s]
+abufirs: folds 
+drawn wave: calls $0.02
+borkeremz: folds 
+Dorex2007: folds 
+kusto1488: folds 
+Ivan prgd: raises $0.04 to $0.06
+fania77: calls $0.04
+drawn wave: calls $0.04
+*** FLOP *** [3s Kd 5h]
+Ivan prgd: bets $0.09
+fania77: folds 
+drawn wave: calls $0.09
+*** TURN *** [3s Kd 5h] [Ac]
+Ivan prgd: checks 
+drawn wave: bets $0.02
+Ivan prgd: calls $0.02
+*** RIVER *** [3s Kd 5h Ac] [4h]
+Ivan prgd: checks 
+drawn wave: bets $0.36
+Ivan prgd: folds 
+Uncalled bet ($0.36) returned to drawn wave
+drawn wave collected $0.39 from pot
+drawn wave: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [3s Kd 5h Ac 4h]
+Seat 3: borkeremz folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: kusto1488 (button) folded before Flop (didn't bet)
+Seat 6: Ivan prgd (small blind) folded on the River
+Seat 7: fania77 (big blind) folded on the Flop
+Seat 8: abufirs folded before Flop (didn't bet)
+Seat 9: drawn wave collected ($0.39)
+
+
+
+PokerStars Hand #223869256025:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:23:52 PT [2021/02/16 0:23:52 ET]
+Table 'Figneria IV' 9-max Seat #6 is the button
+Seat 3: borkeremz ($3.12 in chips) 
+Seat 4: Dorex2007 ($0.70 in chips) 
+Seat 5: kusto1488 ($1.54 in chips) 
+Seat 6: Ivan prgd ($1 in chips) 
+Seat 7: fania77 ($2.38 in chips) 
+Seat 8: abufirs ($1.06 in chips) 
+Seat 9: drawn wave ($2.40 in chips) 
+fania77: posts small blind $0.01
+abufirs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 2h]
+drawn wave: folds 
+borkeremz: folds 
+drawn wave leaves the table
+Dorex2007: folds 
+kusto1488: folds 
+Ivan prgd: raises $0.02 to $0.04
+fania77: calls $0.03
+abufirs: folds 
+*** FLOP *** [4c 7h 9s]
+fania77: checks 
+Ivan prgd: bets $0.03
+fania77: raises $0.05 to $0.08
+Ivan prgd: calls $0.05
+*** TURN *** [4c 7h 9s] [6h]
+fania77: checks 
+Ivan prgd: checks 
+*** RIVER *** [4c 7h 9s 6h] [8h]
+fania77: checks 
+Ivan prgd: checks 
+*** SHOW DOWN ***
+fania77: shows [Kd Qs] (high card King)
+Ivan prgd: shows [7c Ah] (a pair of Sevens)
+Ivan prgd collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [4c 7h 9s 6h 8h]
+Seat 3: borkeremz folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: kusto1488 folded before Flop (didn't bet)
+Seat 6: Ivan prgd (button) showed [7c Ah] and won ($0.25) with a pair of Sevens
+Seat 7: fania77 (small blind) showed [Kd Qs] and lost with high card King
+Seat 8: abufirs (big blind) folded before Flop
+Seat 9: drawn wave folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223869267094:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/15 21:24:50 PT [2021/02/16 0:24:50 ET]
+Table 'Figneria IV' 9-max Seat #7 is the button
+Seat 2: duemah33 ($1.58 in chips) 
+Seat 3: borkeremz ($3.12 in chips) 
+Seat 4: Dorex2007 ($0.70 in chips) 
+Seat 5: kusto1488 ($1.54 in chips) 
+Seat 6: Ivan prgd ($1.13 in chips) 
+Seat 7: fania77 ($2.26 in chips) 
+Seat 8: abufirs ($1.04 in chips) 
+abufirs: posts small blind $0.01
+duemah33: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 8d]
+borkeremz: folds 
+Dorex2007: folds 
+kusto1488: raises $0.04 to $0.06
+Ivan prgd: calls $0.06
+fania77: calls $0.06
+abufirs: folds 
+duemah33: calls $0.04
+*** FLOP *** [3d Kd 8s]
+duemah33: checks 
+kusto1488: bets $0.10
+Ivan prgd: folds 
+fania77: folds 
+duemah33: folds 
+Uncalled bet ($0.10) returned to kusto1488
+kusto1488 collected $0.24 from pot
+kusto1488: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3d Kd 8s]
+Seat 2: duemah33 (big blind) folded on the Flop
+Seat 3: borkeremz folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: kusto1488 collected ($0.24)
+Seat 6: Ivan prgd folded on the Flop
+Seat 7: fania77 (button) folded on the Flop
+Seat 8: abufirs (small blind) folded before Flop
+
+
+

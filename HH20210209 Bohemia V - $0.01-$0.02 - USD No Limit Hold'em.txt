@@ -1,0 +1,56 @@
+﻿PokerStars Hand #223618316921:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/09 11:29:52 PT [2021/02/09 14:29:52 ET]
+Table 'Bohemia V' 9-max Seat #6 is the button
+Seat 1: radibbj ($4.39 in chips) 
+Seat 2: ElGinoo1 ($1.39 in chips) 
+Seat 3: alexouk80 ($2.21 in chips) 
+Seat 4: kumiankka1 ($2.98 in chips) 
+Seat 5: Sawa F ($0.93 in chips) 
+Seat 6: Baltazar--40 ($1.15 in chips) 
+Seat 7: kvzonx100pre ($2.13 in chips) 
+Seat 8: BluesBro2007 ($2.62 in chips) 
+Seat 9: Dorex2007 ($1.69 in chips) 
+kvzonx100pre: posts small blind $0.01
+BluesBro2007: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Jc]
+Dorex2007: checks 
+radibbj: folds 
+ElGinoo1: folds 
+alexouk80: folds 
+kumiankka1: folds 
+Sawa F: folds 
+Baltazar--40: raises $0.02 to $0.04
+kvzonx100pre: folds 
+BluesBro2007: folds 
+Dorex2007: calls $0.02
+*** FLOP *** [Qh 8h Js]
+Dorex2007: checks 
+Baltazar--40: bets $0.05
+Dorex2007: calls $0.05
+*** TURN *** [Qh 8h Js] [Ac]
+Dorex2007: checks 
+Baltazar--40: bets $0.02
+Dorex2007: calls $0.02
+*** RIVER *** [Qh 8h Js Ac] [9d]
+Dorex2007: checks 
+Baltazar--40: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [Qs Jc] (two pair, Queens and Jacks)
+Baltazar--40: shows [Qd Tc] (a straight, Eight to Queen)
+Baltazar--40 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qh 8h Js Ac 9d]
+Seat 1: radibbj folded before Flop (didn't bet)
+Seat 2: ElGinoo1 folded before Flop (didn't bet)
+Seat 3: alexouk80 folded before Flop (didn't bet)
+Seat 4: kumiankka1 folded before Flop (didn't bet)
+Seat 5: Sawa F folded before Flop (didn't bet)
+Seat 6: Baltazar--40 (button) showed [Qd Tc] and won ($0.24) with a straight, Eight to Queen
+Seat 7: kvzonx100pre (small blind) folded before Flop
+Seat 8: BluesBro2007 (big blind) folded before Flop
+Seat 9: Dorex2007 showed [Qs Jc] and lost with two pair, Queens and Jacks
+
+
+

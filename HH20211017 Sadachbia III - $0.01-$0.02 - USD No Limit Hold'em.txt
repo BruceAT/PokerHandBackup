@@ -1,0 +1,4345 @@
+﻿PokerStars Hand #230686081171:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:19:15 PT [2021/10/17 16:19:15 ET]
+Table 'Sadachbia III' 9-max Seat #4 is the button
+Seat 1: SenorSpaghetti ($1.97 in chips) 
+Seat 2: CitizenPU ($2.02 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: sowaaaa ($3.95 in chips) 
+Seat 6: Torcicolornd ($2.31 in chips) 
+Seat 8: Manuto94 ($4.72 in chips) 
+Seat 9: ruscalp ($1.52 in chips) 
+Torcicolornd: posts small blind $0.01
+Manuto94: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 9s]
+ruscalp: folds 
+SenorSpaghetti: folds 
+CitizenPU: calls $0.02
+Dorex2007: checks 
+sowaaaa: raises $0.04 to $0.06
+Torcicolornd: folds 
+Manuto94: folds 
+CitizenPU: calls $0.04
+Dorex2007: folds 
+*** FLOP *** [3h Ks 4s]
+CitizenPU: checks 
+sowaaaa: checks 
+*** TURN *** [3h Ks 4s] [Qs]
+CitizenPU: checks 
+sowaaaa: checks 
+*** RIVER *** [3h Ks 4s Qs] [6d]
+CitizenPU: checks 
+DeepManB161 joins the table at seat #5 
+sowaaaa: checks 
+*** SHOW DOWN ***
+CitizenPU: shows [5c Ac] (high card Ace)
+sowaaaa: shows [Ad 7d] (high card Ace - King+Queen+Seven kicker)
+sowaaaa collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [3h Ks 4s Qs 6d]
+Seat 1: SenorSpaghetti folded before Flop (didn't bet)
+Seat 2: CitizenPU showed [5c Ac] and lost with high card Ace
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: sowaaaa (button) showed [Ad 7d] and won ($0.16) with high card Ace
+Seat 6: Torcicolornd (small blind) folded before Flop
+Seat 8: Manuto94 (big blind) folded before Flop
+Seat 9: ruscalp folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230686117734:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:20:17 PT [2021/10/17 16:20:17 ET]
+Table 'Sadachbia III' 9-max Seat #6 is the button
+Seat 1: SenorSpaghetti ($1.97 in chips) 
+Seat 2: CitizenPU ($2 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: sowaaaa ($4.05 in chips) 
+Seat 6: Torcicolornd ($2.30 in chips) 
+Seat 8: Manuto94 ($4.70 in chips) 
+Seat 9: ruscalp ($1.52 in chips) 
+Manuto94: posts small blind $0.01
+ruscalp: posts big blind $0.02
+DeepManB161: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 8h]
+SenorSpaghetti: folds 
+CitizenPU: calls $0.02
+Dorex2007: folds 
+sowaaaa: raises $0.04 to $0.06
+Torcicolornd: calls $0.06
+Manuto94: calls $0.05
+ruscalp: folds 
+CitizenPU: calls $0.04
+*** FLOP *** [Tc 3c 9s]
+Manuto94: checks 
+CitizenPU: checks 
+sowaaaa: checks 
+Torcicolornd: bets $0.10
+Manuto94: folds 
+CitizenPU: folds 
+sowaaaa: folds 
+Uncalled bet ($0.10) returned to Torcicolornd
+Torcicolornd collected $0.25 from pot
+Torcicolornd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [Tc 3c 9s]
+Seat 1: SenorSpaghetti folded before Flop (didn't bet)
+Seat 2: CitizenPU folded on the Flop
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: sowaaaa folded on the Flop
+Seat 6: Torcicolornd (button) collected ($0.25)
+Seat 8: Manuto94 (small blind) folded on the Flop
+Seat 9: ruscalp (big blind) folded before Flop
+
+
+
+PokerStars Hand #230686146383:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:21:05 PT [2021/10/17 16:21:05 ET]
+Table 'Sadachbia III' 9-max Seat #8 is the button
+Seat 1: SenorSpaghetti ($1.97 in chips) 
+Seat 2: CitizenPU ($2 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: sowaaaa ($3.99 in chips) 
+Seat 6: Torcicolornd ($2.49 in chips) 
+Seat 8: Manuto94 ($4.64 in chips) 
+Seat 9: ruscalp ($1.50 in chips) 
+ruscalp: posts small blind $0.01
+SenorSpaghetti: posts big blind $0.02
+DeepManB161: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 5h]
+CitizenPU: folds 
+Dorex2007: folds 
+sowaaaa: raises $0.04 to $0.06
+Torcicolornd: folds 
+Manuto94: folds 
+ruscalp: folds 
+SenorSpaghetti: calls $0.04
+*** FLOP *** [2d 4d Ks]
+SenorSpaghetti: checks 
+sowaaaa: bets $0.07
+SenorSpaghetti: folds 
+Uncalled bet ($0.07) returned to sowaaaa
+sowaaaa collected $0.13 from pot
+sowaaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2d 4d Ks]
+Seat 1: SenorSpaghetti (big blind) folded on the Flop
+Seat 2: CitizenPU folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: sowaaaa collected ($0.13)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 8: Manuto94 (button) folded before Flop (didn't bet)
+Seat 9: ruscalp (small blind) folded before Flop
+
+
+
+PokerStars Hand #230686176994:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:21:41 PT [2021/10/17 16:21:41 ET]
+Table 'Sadachbia III' 9-max Seat #9 is the button
+Seat 1: SenorSpaghetti ($1.91 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: sowaaaa ($4.06 in chips) 
+Seat 6: Torcicolornd ($2.49 in chips) 
+Seat 8: Manuto94 ($4.64 in chips) 
+Seat 9: ruscalp ($1.49 in chips) 
+SenorSpaghetti: posts small blind $0.01
+CitizenPU: is sitting out 
+Dorex2007: posts big blind $0.02
+DeepManB161: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 3d]
+sowaaaa: raises $0.04 to $0.06
+Torcicolornd: folds 
+Manuto94: folds 
+ruscalp: calls $0.06
+SenorSpaghetti: folds 
+Dorex2007: folds 
+*** FLOP *** [Qc 6h 7s]
+sowaaaa: bets $0.07
+ruscalp: folds 
+Uncalled bet ($0.07) returned to sowaaaa
+sowaaaa collected $0.14 from pot
+sowaaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qc 6h 7s]
+Seat 1: SenorSpaghetti (small blind) folded before Flop
+Seat 3: Dorex2007 (big blind) folded before Flop
+Seat 4: sowaaaa collected ($0.14)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: ruscalp (button) folded on the Flop
+
+
+
+PokerStars Hand #230686187061:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:21:59 PT [2021/10/17 16:21:59 ET]
+Table 'Sadachbia III' 9-max Seat #1 is the button
+Seat 1: SenorSpaghetti ($1.90 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 5: DeepManB161 ($1.60 in chips) 
+Seat 6: Torcicolornd ($2.49 in chips) 
+Seat 8: Manuto94 ($4.64 in chips) 
+Seat 9: ruscalp ($1.43 in chips) 
+Dorex2007: posts small blind $0.01
+sowaaaa: is sitting out 
+DeepManB161: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 7c]
+Torcicolornd: folds 
+Manuto94: raises $0.04 to $0.06
+sowaaaa leaves the table
+ruscalp: raises $0.12 to $0.18
+SenorSpaghetti: folds 
+Dorex2007: folds 
+DeepManB161: calls $0.16
+Manuto94: folds 
+*** FLOP *** [Js 8s 5s]
+SDVL joins the table at seat #4 
+DeepManB161: checks 
+ruscalp: bets $1.25 and is all-in
+DeepManB161: calls $1.25
+*** TURN *** [Js 8s 5s] [4s]
+*** RIVER *** [Js 8s 5s 4s] [Tc]
+*** SHOW DOWN ***
+DeepManB161: shows [Ah 2s] (a flush, Jack high)
+ruscalp: shows [Kd Ks] (a flush, King high)
+ruscalp cashed out the hand for $2.57 | Cash Out Fee $0.03
+*** SUMMARY ***
+Total pot $2.93 | Rake $0.10 
+Board [Js 8s 5s 4s Tc]
+Seat 1: SenorSpaghetti (button) folded before Flop (didn't bet)
+Seat 3: Dorex2007 (small blind) folded before Flop
+Seat 5: DeepManB161 (big blind) showed [Ah 2s] and lost with a flush, Jack high
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 8: Manuto94 folded before Flop
+Seat 9: ruscalp showed [Kd Ks] and won ($2.83) with a flush, King high (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #230686225751:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:23:06 PT [2021/10/17 16:23:06 ET]
+Table 'Sadachbia III' 9-max Seat #3 is the button
+Seat 1: SenorSpaghetti ($1.90 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 5: DeepManB161 ($0.17 in chips) 
+Seat 6: Torcicolornd ($2.49 in chips) 
+Seat 8: Manuto94 ($4.58 in chips) 
+Seat 9: ruscalp ($2.57 in chips) 
+DeepManB161: posts small blind $0.01
+Torcicolornd: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Jc]
+Manuto94: folds 
+ruscalp: folds 
+SenorSpaghetti: folds 
+Dorex2007: raises $0.02 to $0.04
+DeepManB161: calls $0.03
+Torcicolornd: folds 
+*** FLOP *** [Kh 2d 4c]
+DeepManB161: checks 
+Dorex2007: checks 
+*** TURN *** [Kh 2d 4c] [Ts]
+DeepManB161: checks 
+Dorex2007: checks 
+*** RIVER *** [Kh 2d 4c Ts] [6s]
+DeepManB161: bets $0.13 and is all-in
+Dorex2007: folds 
+Uncalled bet ($0.13) returned to DeepManB161
+DeepManB161 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Kh 2d 4c Ts 6s]
+Seat 1: SenorSpaghetti folded before Flop (didn't bet)
+Seat 3: Dorex2007 (button) folded on the River
+Seat 5: DeepManB161 (small blind) collected ($0.10)
+Seat 6: Torcicolornd (big blind) folded before Flop
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: ruscalp folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230686253095:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:23:54 PT [2021/10/17 16:23:54 ET]
+Table 'Sadachbia III' 9-max Seat #5 is the button
+Seat 1: SenorSpaghetti ($1.90 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2 in chips) 
+Seat 5: DeepManB161 ($2 in chips) 
+Seat 6: Torcicolornd ($2.47 in chips) 
+Seat 8: Manuto94 ($4.58 in chips) 
+Seat 9: ruscalp ($2.57 in chips) 
+Torcicolornd: posts small blind $0.01
+Manuto94: posts big blind $0.02
+SDVL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Ts]
+ruscalp: folds 
+SenorSpaghetti: folds 
+Dorex2007: folds 
+SDVL: raises $0.04 to $0.06
+DeepManB161: calls $0.06
+Torcicolornd: folds 
+Manuto94: folds 
+*** FLOP *** [9h 8c 8d]
+SDVL: checks 
+DeepManB161: checks 
+*** TURN *** [9h 8c 8d] [4s]
+SDVL: bets $0.07
+DeepManB161: raises $0.07 to $0.14
+SDVL: folds 
+Uncalled bet ($0.07) returned to DeepManB161
+DeepManB161 collected $0.28 from pot
+Nurtore2019 leaves the table
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [9h 8c 8d 4s]
+Seat 1: SenorSpaghetti folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded on the Turn
+Seat 5: DeepManB161 (button) collected ($0.28)
+Seat 6: Torcicolornd (small blind) folded before Flop
+Seat 8: Manuto94 (big blind) folded before Flop
+Seat 9: ruscalp folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230686278296:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:24:38 PT [2021/10/17 16:24:38 ET]
+Table 'Sadachbia III' 9-max Seat #6 is the button
+Seat 1: SenorSpaghetti ($1.90 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($1.87 in chips) 
+Seat 5: DeepManB161 ($2.15 in chips) 
+Seat 6: Torcicolornd ($2.46 in chips) 
+Seat 8: Manuto94 ($4.56 in chips) 
+Seat 9: ruscalp ($2.57 in chips) 
+Manuto94: posts small blind $0.01
+ruscalp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 5d]
+SenorSpaghetti: folds 
+Dorex2007: folds 
+SDVL: folds 
+SenorSpaghetti leaves the table
+DeepManB161: calls $0.02
+Torcicolornd: folds 
+Manuto94: calls $0.01
+ruscalp: checks 
+*** FLOP *** [6d 8c 9h]
+Manuto94: bets $0.05
+ruscalp: folds 
+DeepManB161: calls $0.05
+*** TURN *** [6d 8c 9h] [7h]
+Manuto94: checks 
+DeepManB161: checks 
+*** RIVER *** [6d 8c 9h 7h] [7d]
+Manuto94: checks 
+DeepManB161: checks 
+*** SHOW DOWN ***
+Manuto94: shows [Kc 8s] (two pair, Eights and Sevens)
+region76.rus joins the table at seat #1 
+DeepManB161: mucks hand 
+Manuto94 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [6d 8c 9h 7h 7d]
+Seat 1: SenorSpaghetti folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: DeepManB161 mucked [Ks 3c]
+Seat 6: Torcicolornd (button) folded before Flop (didn't bet)
+Seat 8: Manuto94 (small blind) showed [Kc 8s] and won ($0.15) with two pair, Eights and Sevens
+Seat 9: ruscalp (big blind) folded on the Flop
+
+
+
+PokerStars Hand #230686305742:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:25:26 PT [2021/10/17 16:25:26 ET]
+Table 'Sadachbia III' 9-max Seat #8 is the button
+Seat 1: region76.rus ($1.60 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($1.87 in chips) 
+Seat 5: DeepManB161 ($2.08 in chips) 
+Seat 6: Torcicolornd ($2.46 in chips) 
+Seat 8: Manuto94 ($4.64 in chips) 
+Seat 9: ruscalp ($2.55 in chips) 
+ruscalp: posts small blind $0.01
+region76.rus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 4d]
+Dorex2007: folds 
+SDVL: folds 
+DeepManB161: raises $0.05 to $0.07
+Torcicolornd: folds 
+Manuto94: folds 
+ruscalp: folds 
+region76.rus: folds 
+Uncalled bet ($0.05) returned to DeepManB161
+DeepManB161 collected $0.05 from pot
+ripelnet joins the table at seat #7 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: region76.rus (big blind) folded before Flop
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: DeepManB161 collected ($0.05)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 8: Manuto94 (button) folded before Flop (didn't bet)
+Seat 9: ruscalp (small blind) folded before Flop
+
+
+
+PokerStars Hand #230686320129:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:25:51 PT [2021/10/17 16:25:51 ET]
+Table 'Sadachbia III' 9-max Seat #9 is the button
+Seat 1: region76.rus ($1.58 in chips) 
+Seat 2: CitizenPU ($2 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($1.87 in chips) 
+Seat 5: DeepManB161 ($2.11 in chips) 
+Seat 6: Torcicolornd ($2.46 in chips) 
+Seat 8: Manuto94 ($4.64 in chips) 
+Seat 9: ruscalp ($2.54 in chips) 
+region76.rus: posts small blind $0.01
+CitizenPU: posts big blind $0.02
+ripelnet: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 3d]
+Dorex2007: folds 
+SDVL: calls $0.02
+DeepManB161: calls $0.02
+Torcicolornd: folds 
+Manuto94: folds 
+ruscalp: folds 
+region76.rus: calls $0.01
+CitizenPU: checks 
+*** FLOP *** [8s Js Ah]
+region76.rus: checks 
+CitizenPU: checks 
+SDVL: checks 
+DeepManB161: checks 
+*** TURN *** [8s Js Ah] [4s]
+region76.rus: checks 
+CitizenPU: checks 
+SDVL: bets $0.04
+DeepManB161: calls $0.04
+region76.rus: folds 
+CitizenPU: calls $0.04
+*** RIVER *** [8s Js Ah 4s] [9h]
+CitizenPU: checks 
+SDVL: checks 
+DeepManB161: bets $0.19
+CitizenPU: folds 
+SDVL: calls $0.19
+*** SHOW DOWN ***
+DeepManB161: shows [9d 3h] (a pair of Nines)
+SDVL: shows [Td Ac] (a pair of Aces)
+SDVL collected $0.56 from pot
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [8s Js Ah 4s 9h]
+Seat 1: region76.rus (small blind) folded on the Turn
+Seat 2: CitizenPU (big blind) folded on the River
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL showed [Td Ac] and won ($0.56) with a pair of Aces
+Seat 5: DeepManB161 showed [9d 3h] and lost with a pair of Nines
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: ruscalp (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230686351144:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:26:45 PT [2021/10/17 16:26:45 ET]
+Table 'Sadachbia III' 9-max Seat #1 is the button
+Seat 1: region76.rus ($1.56 in chips) 
+Seat 2: CitizenPU ($2 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.18 in chips) 
+Seat 5: DeepManB161 ($1.86 in chips) 
+Seat 6: Torcicolornd ($2.46 in chips) 
+Seat 8: Manuto94 ($4.64 in chips) 
+Seat 9: ruscalp ($2.54 in chips) 
+CitizenPU: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+ripelnet: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 9c]
+SDVL: folds 
+DeepManB161: raises $0.02 to $0.04
+Torcicolornd: folds 
+Manuto94: folds 
+ruscalp: folds 
+region76.rus: calls $0.04
+CitizenPU: calls $0.03
+Dorex2007: folds 
+*** FLOP *** [Kd Qh Qd]
+CitizenPU: checks 
+DeepManB161: checks 
+region76.rus: checks 
+*** TURN *** [Kd Qh Qd] [Ts]
+CitizenPU: checks 
+DeepManB161: checks 
+region76.rus: bets $0.06
+CitizenPU: folds 
+DeepManB161: raises $0.06 to $0.12
+region76.rus: folds 
+Uncalled bet ($0.06) returned to DeepManB161
+DeepManB161 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [Kd Qh Qd Ts]
+Seat 1: region76.rus (button) folded on the Turn
+Seat 2: CitizenPU (small blind) folded on the Turn
+Seat 3: Dorex2007 (big blind) folded before Flop
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: DeepManB161 collected ($0.25)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: ruscalp folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230686384729:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:27:45 PT [2021/10/17 16:27:45 ET]
+Table 'Sadachbia III' 9-max Seat #2 is the button
+Seat 1: region76.rus ($1.46 in chips) 
+Seat 2: CitizenPU ($2 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.18 in chips) 
+Seat 5: DeepManB161 ($2.01 in chips) 
+Seat 6: Torcicolornd ($2.46 in chips) 
+Seat 8: Manuto94 ($4.64 in chips) 
+Dorex2007: posts small blind $0.01
+SDVL: posts big blind $0.02
+ripelnet: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 4s]
+DeepManB161: raises $0.02 to $0.04
+Torcicolornd: folds 
+ruscalp leaves the table
+Manuto94: folds 
+region76.rus: calls $0.04
+CitizenPU: calls $0.04
+Dorex2007: calls $0.03
+SDVL: calls $0.02
+*** FLOP *** [2d 3s Th]
+Dorex2007: checks 
+SDVL: checks 
+DeepManB161: checks 
+region76.rus: checks 
+CitizenPU: bets $0.08
+Dorex2007: folds 
+SDVL: folds 
+DeepManB161: calls $0.08
+region76.rus: folds 
+*** TURN *** [2d 3s Th] [9d]
+CowboyIsHere joins the table at seat #9 
+DeepManB161: checks 
+CitizenPU: bets $0.24
+DeepManB161: folds 
+Uncalled bet ($0.24) returned to CitizenPU
+CitizenPU collected $0.35 from pot
+CitizenPU: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [2d 3s Th 9d]
+Seat 1: region76.rus folded on the Flop
+Seat 2: CitizenPU (button) collected ($0.35)
+Seat 3: Dorex2007 (small blind) folded on the Flop
+Seat 4: SDVL (big blind) folded on the Flop
+Seat 5: DeepManB161 folded on the Turn
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 8: Manuto94 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230686428737:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:29:01 PT [2021/10/17 16:29:01 ET]
+Table 'Sadachbia III' 9-max Seat #3 is the button
+Seat 1: region76.rus ($1.42 in chips) 
+Seat 2: CitizenPU ($2.23 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.14 in chips) 
+Seat 5: DeepManB161 ($1.89 in chips) 
+Seat 6: Torcicolornd ($2.46 in chips) 
+Seat 8: Manuto94 ($4.64 in chips) 
+Seat 9: CowboyIsHere ($2 in chips) 
+SDVL: posts small blind $0.01
+DeepManB161: posts big blind $0.02
+ripelnet: sits out 
+CowboyIsHere: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 2s]
+Torcicolornd: raises $0.04 to $0.06
+Manuto94: folds 
+CowboyIsHere: calls $0.04
+region76.rus: raises $0.14 to $0.20
+CitizenPU: folds 
+Dorex2007: folds 
+SDVL: folds 
+DeepManB161: calls $0.18
+Torcicolornd: calls $0.14
+CowboyIsHere: calls $0.14
+*** FLOP *** [Ac 7s 4h]
+DeepManB161: checks 
+Torcicolornd: checks 
+CowboyIsHere: checks 
+region76.rus: bets $0.34
+DeepManB161: calls $0.34
+Torcicolornd: folds 
+CowboyIsHere: folds 
+*** TURN *** [Ac 7s 4h] [5d]
+DeepManB161: checks 
+region76.rus: checks 
+*** RIVER *** [Ac 7s 4h 5d] [4c]
+DeepManB161: checks 
+region76.rus: checks 
+*** SHOW DOWN ***
+DeepManB161: shows [Js Ts] (a pair of Fours)
+region76.rus: shows [Kc Ks] (two pair, Kings and Fours)
+region76.rus collected $1.44 from pot
+*** SUMMARY ***
+Total pot $1.49 | Rake $0.05 
+Board [Ac 7s 4h 5d 4c]
+Seat 1: region76.rus showed [Kc Ks] and won ($1.44) with two pair, Kings and Fours
+Seat 2: CitizenPU folded before Flop (didn't bet)
+Seat 3: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 4: SDVL (small blind) folded before Flop
+Seat 5: DeepManB161 (big blind) showed [Js Ts] and lost with a pair of Fours
+Seat 6: Torcicolornd folded on the Flop
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: CowboyIsHere folded on the Flop
+
+
+
+PokerStars Hand #230686483177:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:30:38 PT [2021/10/17 16:30:38 ET]
+Table 'Sadachbia III' 9-max Seat #4 is the button
+Seat 1: region76.rus ($2.32 in chips) 
+Seat 2: CitizenPU ($2.23 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.13 in chips) 
+Seat 5: DeepManB161 ($1.35 in chips) 
+Seat 6: Torcicolornd ($2.26 in chips) 
+Seat 8: Manuto94 ($4.64 in chips) 
+Seat 9: CowboyIsHere ($2 in chips) 
+DeepManB161: posts small blind $0.01
+Torcicolornd: posts big blind $0.02
+ripelnet: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 4d]
+Manuto94: folds 
+CowboyIsHere: folds 
+region76.rus: folds 
+CitizenPU: folds 
+Dorex2007: folds 
+SDVL: calls $0.02
+DeepManB161: calls $0.01
+Torcicolornd: checks 
+*** FLOP *** [Js 7s Qs]
+DeepManB161: checks 
+Torcicolornd: checks 
+SDVL: bets $0.02
+DeepManB161: calls $0.02
+Torcicolornd: folds 
+*** TURN *** [Js 7s Qs] [5h]
+DeepManB161: checks 
+SDVL: bets $0.05
+DeepManB161: calls $0.05
+*** RIVER *** [Js 7s Qs 5h] [9s]
+DeepManB161: checks 
+SDVL: checks 
+*** SHOW DOWN ***
+DeepManB161: shows [8h Ad] (high card Ace)
+SDVL: shows [Qc Kh] (a pair of Queens)
+SDVL collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Js 7s Qs 5h 9s]
+Seat 1: region76.rus folded before Flop (didn't bet)
+Seat 2: CitizenPU folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL (button) showed [Qc Kh] and won ($0.19) with a pair of Queens
+Seat 5: DeepManB161 (small blind) showed [8h Ad] and lost with high card Ace
+Seat 6: Torcicolornd (big blind) folded on the Flop
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: CowboyIsHere folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230686523613:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:31:50 PT [2021/10/17 16:31:50 ET]
+Table 'Sadachbia III' 9-max Seat #5 is the button
+Seat 1: region76.rus ($2.32 in chips) 
+Seat 2: CitizenPU ($2.23 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.23 in chips) 
+Seat 5: DeepManB161 ($1.26 in chips) 
+Seat 6: Torcicolornd ($2.24 in chips) 
+Seat 7: ripelnet ($2 in chips) 
+Seat 8: Manuto94 ($4.64 in chips) 
+Seat 9: CowboyIsHere ($2 in chips) 
+Torcicolornd: posts small blind $0.01
+ripelnet: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 6d]
+Manuto94: folds 
+CowboyIsHere: folds 
+region76.rus: raises $0.02 to $0.04
+CitizenPU: folds 
+Dorex2007: folds 
+SDVL: folds 
+DeepManB161: calls $0.04
+Torcicolornd: raises $0.06 to $0.10
+ripelnet: folds 
+region76.rus: calls $0.06
+DeepManB161: calls $0.06
+*** FLOP *** [Ah 7s Qc]
+Torcicolornd: checks 
+region76.rus: checks 
+DeepManB161: bets $0.16
+Torcicolornd: calls $0.16
+region76.rus: folds 
+*** TURN *** [Ah 7s Qc] [Qs]
+Torcicolornd: checks 
+DeepManB161: bets $0.62
+Torcicolornd: folds 
+Uncalled bet ($0.62) returned to DeepManB161
+DeepManB161 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [Ah 7s Qc Qs]
+Seat 1: region76.rus folded on the Flop
+Seat 2: CitizenPU folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: DeepManB161 (button) collected ($0.62)
+Seat 6: Torcicolornd (small blind) folded on the Turn
+Seat 7: ripelnet (big blind) folded before Flop
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: CowboyIsHere folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230686571865:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:33:17 PT [2021/10/17 16:33:17 ET]
+Table 'Sadachbia III' 9-max Seat #6 is the button
+Seat 1: region76.rus ($2.22 in chips) 
+Seat 2: CitizenPU ($2.23 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.23 in chips) 
+Seat 5: DeepManB161 ($1.62 in chips) 
+Seat 6: Torcicolornd ($1.98 in chips) 
+Seat 7: ripelnet ($2 in chips) 
+Seat 8: Manuto94 ($4.64 in chips) 
+Seat 9: CowboyIsHere ($2 in chips) 
+ripelnet: posts small blind $0.01
+Manuto94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 4c]
+CowboyIsHere: folds 
+region76.rus: folds 
+CitizenPU: folds 
+Dorex2007: folds 
+SDVL: calls $0.02
+DeepManB161: calls $0.02
+Torcicolornd: folds 
+ripelnet: calls $0.01
+Manuto94: checks 
+*** FLOP *** [Ah Th 4s]
+ripelnet: checks 
+Manuto94: checks 
+SDVL: checks 
+DeepManB161: checks 
+*** TURN *** [Ah Th 4s] [Jc]
+ripelnet: checks 
+Manuto94: checks 
+SDVL: bets $0.04
+DeepManB161: calls $0.04
+ripelnet: folds 
+Manuto94: folds 
+*** RIVER *** [Ah Th 4s Jc] [6c]
+SDVL: bets $0.08
+DeepManB161: calls $0.08
+*** SHOW DOWN ***
+SDVL: shows [4d Ad] (two pair, Aces and Fours)
+DeepManB161: mucks hand 
+SDVL collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Ah Th 4s Jc 6c]
+Seat 1: region76.rus folded before Flop (didn't bet)
+Seat 2: CitizenPU folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL showed [4d Ad] and won ($0.31) with two pair, Aces and Fours
+Seat 5: DeepManB161 mucked [Ts 7c]
+Seat 6: Torcicolornd (button) folded before Flop (didn't bet)
+Seat 7: ripelnet (small blind) folded on the Turn
+Seat 8: Manuto94 (big blind) folded on the Turn
+Seat 9: CowboyIsHere folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230686617654:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:34:39 PT [2021/10/17 16:34:39 ET]
+Table 'Sadachbia III' 9-max Seat #7 is the button
+Seat 1: region76.rus ($2.22 in chips) 
+Seat 2: CitizenPU ($2.23 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.40 in chips) 
+Seat 5: DeepManB161 ($1.48 in chips) 
+Seat 6: Torcicolornd ($1.98 in chips) 
+Seat 7: ripelnet ($2 in chips) 
+Seat 8: Manuto94 ($4.62 in chips) 
+Seat 9: CowboyIsHere ($2 in chips) 
+Manuto94: posts small blind $0.01
+CowboyIsHere: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 3s]
+region76.rus: folds 
+CitizenPU: folds 
+Dorex2007: folds 
+SDVL: calls $0.02
+DeepManB161: calls $0.02
+Torcicolornd: calls $0.02
+ripelnet: folds 
+Manuto94: raises $0.12 to $0.14
+CowboyIsHere: folds 
+SDVL: folds 
+DeepManB161: calls $0.12
+Torcicolornd: folds 
+*** FLOP *** [7s Qh 6d]
+Manuto94: bets $0.32
+DeepManB161: calls $0.32
+*** TURN *** [7s Qh 6d] [9h]
+Manuto94: bets $0.95
+DeepManB161: raises $0.07 to $1.02 and is all-in
+Manuto94: calls $0.07
+*** RIVER *** [7s Qh 6d 9h] [5d]
+*** SHOW DOWN ***
+Manuto94: shows [Ah Qs] (a pair of Queens)
+DeepManB161: shows [6h 7h] (two pair, Sevens and Sixes)
+DeepManB161 collected $2.91 from pot
+*** SUMMARY ***
+Total pot $3.02 | Rake $0.11 
+Board [7s Qh 6d 9h 5d]
+Seat 1: region76.rus folded before Flop (didn't bet)
+Seat 2: CitizenPU folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop
+Seat 5: DeepManB161 showed [6h 7h] and won ($2.91) with two pair, Sevens and Sixes
+Seat 6: Torcicolornd folded before Flop
+Seat 7: ripelnet (button) folded before Flop (didn't bet)
+Seat 8: Manuto94 (small blind) showed [Ah Qs] and lost with a pair of Queens
+Seat 9: CowboyIsHere (big blind) folded before Flop
+
+
+
+PokerStars Hand #230686647658:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:35:33 PT [2021/10/17 16:35:33 ET]
+Table 'Sadachbia III' 9-max Seat #8 is the button
+Seat 2: CitizenPU ($2.23 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.38 in chips) 
+Seat 5: DeepManB161 ($2.91 in chips) 
+Seat 6: Torcicolornd ($1.96 in chips) 
+Seat 7: ripelnet ($2 in chips) 
+Seat 8: Manuto94 ($3.14 in chips) 
+Seat 9: CowboyIsHere ($2 in chips) 
+CowboyIsHere: posts small blind $0.01
+region76.rus: is sitting out 
+CitizenPU: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd As]
+Dorex2007: raises $0.04 to $0.06
+region76.rus leaves the table
+SDVL: folds 
+DeepManB161: calls $0.06
+Torcicolornd: folds 
+ripelnet: folds 
+bmwmann8 joins the table at seat #1 
+Manuto94: raises $0.18 to $0.24
+CowboyIsHere: calls $0.23
+CitizenPU: folds 
+Dorex2007: folds 
+DeepManB161: folds 
+*** FLOP *** [Ks Qs 5h]
+CowboyIsHere: checks 
+Manuto94: bets $0.40
+CowboyIsHere: calls $0.40
+*** TURN *** [Ks Qs 5h] [4c]
+CowboyIsHere: checks 
+Manuto94: bets $1.37
+CowboyIsHere: folds 
+Uncalled bet ($1.37) returned to Manuto94
+Manuto94 collected $1.37 from pot
+Manuto94: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.42 | Rake $0.05 
+Board [Ks Qs 5h 4c]
+Seat 2: CitizenPU (big blind) folded before Flop
+Seat 3: Dorex2007 folded before Flop
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: DeepManB161 folded before Flop
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: Manuto94 (button) collected ($1.37)
+Seat 9: CowboyIsHere (small blind) folded on the Turn
+
+
+
+PokerStars Hand #230686693591:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:36:49 PT [2021/10/17 16:36:49 ET]
+Table 'Sadachbia III' 9-max Seat #9 is the button
+Seat 2: CitizenPU ($2.21 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.38 in chips) 
+Seat 5: DeepManB161 ($2.85 in chips) 
+Seat 6: Torcicolornd ($1.96 in chips) 
+Seat 7: ripelnet ($2 in chips) 
+Seat 8: Manuto94 ($3.87 in chips) 
+Seat 9: CowboyIsHere ($2 in chips) 
+CitizenPU: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Kc]
+SDVL: folds 
+DeepManB161: calls $0.02
+Torcicolornd: folds 
+ripelnet: folds 
+Manuto94: folds 
+CowboyIsHere: folds 
+CitizenPU: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [Tc Ah Ad]
+CitizenPU: checks 
+Dorex2007: checks 
+DeepManB161: checks 
+*** TURN *** [Tc Ah Ad] [2d]
+CitizenPU: checks 
+Dorex2007: checks 
+DeepManB161: checks 
+*** RIVER *** [Tc Ah Ad 2d] [Qs]
+CitizenPU: checks 
+Dorex2007: bets $0.04
+DeepManB161: calls $0.04
+CitizenPU: folds 
+*** SHOW DOWN ***
+Dorex2007: shows [9s Kc] (a pair of Aces)
+DeepManB161: shows [Ks 3c] (a pair of Aces)
+Dorex2007 collected $0.07 from pot
+DeepManB161 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Tc Ah Ad 2d Qs]
+Seat 2: CitizenPU (small blind) folded on the River
+Seat 3: Dorex2007 (big blind) showed [9s Kc] and won ($0.07) with a pair of Aces
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: DeepManB161 showed [Ks 3c] and won ($0.07) with a pair of Aces
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: CowboyIsHere (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230686713798:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:37:26 PT [2021/10/17 16:37:26 ET]
+Table 'Sadachbia III' 9-max Seat #2 is the button
+Seat 1: bmwmann8 ($2 in chips) 
+Seat 2: CitizenPU ($2.19 in chips) 
+Seat 3: Dorex2007 ($2.01 in chips) 
+Seat 4: SDVL ($2.38 in chips) 
+Seat 5: DeepManB161 ($2.86 in chips) 
+Seat 6: Torcicolornd ($1.96 in chips) 
+Seat 7: ripelnet ($2 in chips) 
+Seat 8: Manuto94 ($3.87 in chips) 
+Seat 9: CowboyIsHere ($2 in chips) 
+Dorex2007: posts small blind $0.01
+SDVL: posts big blind $0.02
+bmwmann8: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Js]
+DeepManB161: calls $0.02
+Torcicolornd: folds 
+ripelnet: folds 
+Manuto94: raises $0.16 to $0.18
+CowboyIsHere: folds 
+bmwmann8: folds 
+CitizenPU: folds 
+Dorex2007: folds 
+SDVL: folds 
+DeepManB161: calls $0.16
+*** FLOP *** [3c 9c Tc]
+DeepManB161: bets $0.40
+Manuto94: raises $3.29 to $3.69 and is all-in
+DeepManB161: calls $2.28 and is all-in
+Uncalled bet ($1.01) returned to Manuto94
+*** TURN *** [3c 9c Tc] [4d]
+*** RIVER *** [3c 9c Tc 4d] [7c]
+*** SHOW DOWN ***
+DeepManB161: shows [Ts 4h] (two pair, Tens and Fours)
+Manuto94: shows [Ac As] (a flush, Ace high)
+Manuto94 collected $5.57 from pot
+*** SUMMARY ***
+Total pot $5.77 | Rake $0.20 
+Board [3c 9c Tc 4d 7c]
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 2: CitizenPU (button) folded before Flop (didn't bet)
+Seat 3: Dorex2007 (small blind) folded before Flop
+Seat 4: SDVL (big blind) folded before Flop
+Seat 5: DeepManB161 showed [Ts 4h] and lost with two pair, Tens and Fours
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: Manuto94 showed [Ac As] and won ($5.57) with a flush, Ace high
+Seat 9: CowboyIsHere folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230686746533:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:38:21 PT [2021/10/17 16:38:21 ET]
+Table 'Sadachbia III' 9-max Seat #3 is the button
+Seat 1: bmwmann8 ($1.98 in chips) 
+Seat 2: CitizenPU ($2.19 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.36 in chips) 
+Seat 6: Torcicolornd ($1.96 in chips) 
+Seat 7: ripelnet ($2 in chips) 
+Seat 8: Manuto94 ($6.58 in chips) 
+Seat 9: CowboyIsHere ($2 in chips) 
+SDVL: posts small blind $0.01
+Torcicolornd: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts As]
+ripelnet: folds 
+Manuto94: folds 
+CowboyIsHere: raises $0.03 to $0.05
+bmwmann8: folds 
+CitizenPU: folds 
+Dorex2007: calls $0.05
+SDVL: folds 
+Torcicolornd: folds 
+*** FLOP *** [Jc 2c Ks]
+CowboyIsHere: bets $0.07
+Dorex2007: folds 
+Uncalled bet ($0.07) returned to CowboyIsHere
+CowboyIsHere collected $0.13 from pot
+CowboyIsHere: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Jc 2c Ks]
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 2: CitizenPU folded before Flop (didn't bet)
+Seat 3: Dorex2007 (button) folded on the Flop
+Seat 4: SDVL (small blind) folded before Flop
+Seat 6: Torcicolornd (big blind) folded before Flop
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: CowboyIsHere collected ($0.13)
+
+
+
+PokerStars Hand #230686760397:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:38:46 PT [2021/10/17 16:38:46 ET]
+Table 'Sadachbia III' 9-max Seat #4 is the button
+Seat 1: bmwmann8 ($1.98 in chips) 
+Seat 2: CitizenPU ($2.19 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.35 in chips) 
+Seat 6: Torcicolornd ($1.94 in chips) 
+Seat 7: ripelnet ($2 in chips) 
+Seat 8: Manuto94 ($6.58 in chips) 
+Seat 9: CowboyIsHere ($2.08 in chips) 
+Torcicolornd: posts small blind $0.01
+ripelnet: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 9c]
+Manuto94: folds 
+CowboyIsHere: folds 
+bmwmann8: folds 
+CitizenPU: folds 
+Dorex2007: calls $0.02
+SDVL: folds 
+Torcicolornd: folds 
+ripelnet: checks 
+*** FLOP *** [7c 3c 7d]
+ripelnet: checks 
+Dorex2007: bets $0.05
+ripelnet: folds 
+Uncalled bet ($0.05) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [7c 3c 7d]
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 2: CitizenPU folded before Flop (didn't bet)
+Seat 3: Dorex2007 collected ($0.05)
+Seat 4: SDVL (button) folded before Flop (didn't bet)
+Seat 6: Torcicolornd (small blind) folded before Flop
+Seat 7: ripelnet (big blind) folded on the Flop
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: CowboyIsHere folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230686776792:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:39:16 PT [2021/10/17 16:39:16 ET]
+Table 'Sadachbia III' 9-max Seat #6 is the button
+Seat 1: bmwmann8 ($1.98 in chips) 
+Seat 2: CitizenPU ($2.19 in chips) 
+Seat 3: Dorex2007 ($2.03 in chips) 
+Seat 4: SDVL ($2.35 in chips) 
+Seat 5: DeepManB161 ($2 in chips) 
+Seat 6: Torcicolornd ($1.93 in chips) 
+Seat 7: ripelnet ($2 in chips) 
+Seat 8: Manuto94 ($6.58 in chips) 
+Seat 9: CowboyIsHere ($2.08 in chips) 
+ripelnet: posts small blind $0.01
+Manuto94: posts big blind $0.02
+DeepManB161: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 9d]
+CowboyIsHere: folds 
+bmwmann8: folds 
+CitizenPU: raises $0.10 to $0.12
+Dorex2007: folds 
+SDVL: folds 
+DeepManB161: raises $0.10 to $0.22
+Torcicolornd: folds 
+ripelnet: folds 
+Manuto94: folds 
+CitizenPU: calls $0.10
+*** FLOP *** [9c 5h Js]
+CitizenPU: checks 
+DeepManB161: bets $0.46
+CitizenPU: raises $0.46 to $0.92
+DeepManB161: calls $0.46
+*** TURN *** [9c 5h Js] [6s]
+CitizenPU: bets $1.05 and is all-in
+DeepManB161: calls $0.85 and is all-in
+Uncalled bet ($0.20) returned to CitizenPU
+*** RIVER *** [9c 5h Js 6s] [Qd]
+*** SHOW DOWN ***
+CitizenPU: shows [Kd Kc] (a pair of Kings)
+DeepManB161: shows [Ad 6d] (a pair of Sixes)
+CitizenPU collected $3.88 from pot
+*** SUMMARY ***
+Total pot $4.02 | Rake $0.14 
+Board [9c 5h Js 6s Qd]
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 2: CitizenPU showed [Kd Kc] and won ($3.88) with a pair of Kings
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: DeepManB161 showed [Ad 6d] and lost with a pair of Sixes
+Seat 6: Torcicolornd (button) folded before Flop (didn't bet)
+Seat 7: ripelnet (small blind) folded before Flop
+Seat 8: Manuto94 (big blind) folded before Flop
+Seat 9: CowboyIsHere folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230686803277:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:40:05 PT [2021/10/17 16:40:05 ET]
+Table 'Sadachbia III' 9-max Seat #7 is the button
+Seat 1: bmwmann8 ($1.98 in chips) 
+Seat 2: CitizenPU ($4.08 in chips) 
+Seat 3: Dorex2007 ($2.03 in chips) 
+Seat 4: SDVL ($2.35 in chips) 
+Seat 6: Torcicolornd ($1.93 in chips) 
+Seat 7: ripelnet ($2 in chips) 
+Seat 8: Manuto94 ($6.56 in chips) 
+Seat 9: CowboyIsHere ($2.08 in chips) 
+Manuto94: posts small blind $0.01
+CowboyIsHere: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 9c]
+bmwmann8: folds 
+CitizenPU: folds 
+Dorex2007: folds 
+DeepManB161 leaves the table
+SDVL: folds 
+Torcicolornd: folds 
+ripelnet: folds 
+Manuto94: folds 
+Uncalled bet ($0.01) returned to CowboyIsHere
+CowboyIsHere collected $0.02 from pot
+CowboyIsHere: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 2: CitizenPU folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet (button) folded before Flop (didn't bet)
+Seat 8: Manuto94 (small blind) folded before Flop
+Seat 9: CowboyIsHere (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #230686809661:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:40:17 PT [2021/10/17 16:40:17 ET]
+Table 'Sadachbia III' 9-max Seat #8 is the button
+Seat 1: bmwmann8 ($1.98 in chips) 
+Seat 2: CitizenPU ($4.08 in chips) 
+Seat 3: Dorex2007 ($2.03 in chips) 
+Seat 4: SDVL ($2.35 in chips) 
+Seat 6: Torcicolornd ($1.93 in chips) 
+Seat 7: ripelnet ($2 in chips) 
+Seat 8: Manuto94 ($6.55 in chips) 
+Seat 9: CowboyIsHere ($2.09 in chips) 
+CowboyIsHere: posts small blind $0.01
+bmwmann8: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Ts]
+CitizenPU: folds 
+Dorex2007: folds 
+Booney58 joins the table at seat #5 
+SDVL: calls $0.02
+Torcicolornd: raises $0.03 to $0.05
+ripelnet: folds 
+Manuto94: folds 
+CowboyIsHere: folds 
+bmwmann8: folds 
+SDVL: calls $0.03
+*** FLOP *** [Qs 7d Js]
+SDVL: checks 
+Torcicolornd: bets $0.07
+SDVL: calls $0.07
+*** TURN *** [Qs 7d Js] [4d]
+SDVL: checks 
+Torcicolornd: bets $0.13
+SDVL: calls $0.13
+*** RIVER *** [Qs 7d Js 4d] [Jh]
+SDVL: checks 
+Torcicolornd: bets $0.26
+SDVL: calls $0.26
+*** SHOW DOWN ***
+Torcicolornd: shows [As Tc] (a pair of Jacks)
+SDVL: shows [Kh Qd] (two pair, Queens and Jacks)
+SDVL collected $1.01 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.04 
+Board [Qs 7d Js 4d Jh]
+Seat 1: bmwmann8 (big blind) folded before Flop
+Seat 2: CitizenPU folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL showed [Kh Qd] and won ($1.01) with two pair, Queens and Jacks
+Seat 6: Torcicolornd showed [As Tc] and lost with a pair of Jacks
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: Manuto94 (button) folded before Flop (didn't bet)
+Seat 9: CowboyIsHere (small blind) folded before Flop
+
+
+
+PokerStars Hand #230686845727:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:41:23 PT [2021/10/17 16:41:23 ET]
+Table 'Sadachbia III' 9-max Seat #9 is the button
+Seat 1: bmwmann8 ($1.96 in chips) 
+Seat 2: CitizenPU ($4.08 in chips) 
+Seat 3: Dorex2007 ($2.03 in chips) 
+Seat 4: SDVL ($2.85 in chips) 
+Seat 6: Torcicolornd ($1.42 in chips) 
+Seat 7: ripelnet ($2 in chips) 
+Seat 8: Manuto94 ($6.55 in chips) 
+Seat 9: CowboyIsHere ($2.08 in chips) 
+bmwmann8: posts small blind $0.01
+CitizenPU: posts big blind $0.02
+Booney58: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 2s]
+Dorex2007: raises $0.02 to $0.04
+SDVL: folds 
+Torcicolornd: folds 
+ripelnet: folds 
+Manuto94: folds 
+CowboyIsHere: folds 
+bmwmann8: calls $0.03
+CitizenPU: folds 
+*** FLOP *** [Qc 6c 9d]
+bmwmann8: checks 
+Dorex2007: checks 
+*** TURN *** [Qc 6c 9d] [As]
+bmwmann8: checks 
+Dorex2007: checks 
+*** RIVER *** [Qc 6c 9d As] [8h]
+bmwmann8: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+bmwmann8: shows [6h 7c] (a pair of Sixes)
+Dorex2007: mucks hand 
+bmwmann8 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Qc 6c 9d As 8h]
+Seat 1: bmwmann8 (small blind) showed [6h 7c] and won ($0.10) with a pair of Sixes
+Seat 2: CitizenPU (big blind) folded before Flop
+Seat 3: Dorex2007 mucked [2d 2s]
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: CowboyIsHere (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230686861626:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:41:53 PT [2021/10/17 16:41:53 ET]
+Table 'Sadachbia III' 9-max Seat #1 is the button
+Seat 1: bmwmann8 ($2.02 in chips) 
+Seat 2: CitizenPU ($4.06 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.85 in chips) 
+Seat 5: Booney58 ($1.60 in chips) 
+Seat 6: Torcicolornd ($1.42 in chips) 
+Seat 7: ripelnet ($2 in chips) 
+Seat 8: Manuto94 ($6.55 in chips) 
+Seat 9: CowboyIsHere ($2.08 in chips) 
+CitizenPU: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Booney58: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 7s]
+SDVL: folds 
+Booney58: raises $0.14 to $0.16
+Torcicolornd: folds 
+ripelnet: folds 
+Manuto94: folds 
+CowboyIsHere: folds 
+bmwmann8: folds 
+CitizenPU: folds 
+Dorex2007: folds 
+Uncalled bet ($0.14) returned to Booney58
+Booney58 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: bmwmann8 (button) folded before Flop (didn't bet)
+Seat 2: CitizenPU (small blind) folded before Flop
+Seat 3: Dorex2007 (big blind) folded before Flop
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: Booney58 collected ($0.05)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: CowboyIsHere folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230686873948:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:42:15 PT [2021/10/17 16:42:15 ET]
+Table 'Sadachbia III' 9-max Seat #2 is the button
+Seat 1: bmwmann8 ($2.02 in chips) 
+Seat 2: CitizenPU ($4.05 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.85 in chips) 
+Seat 5: Booney58 ($1.63 in chips) 
+Seat 6: Torcicolornd ($1.42 in chips) 
+Seat 7: ripelnet ($2 in chips) 
+Seat 8: Manuto94 ($6.55 in chips) 
+Seat 9: CowboyIsHere ($2.08 in chips) 
+Dorex2007: posts small blind $0.01
+SDVL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 2h]
+Booney58: calls $0.02
+Torcicolornd: folds 
+ripelnet: folds 
+Manuto94: folds 
+CowboyIsHere: folds 
+bmwmann8: calls $0.02
+CitizenPU: folds 
+Dorex2007: folds 
+SDVL: checks 
+*** FLOP *** [Ah 3s Ts]
+SDVL: checks 
+Booney58: checks 
+bmwmann8: bets $0.04
+SDVL: folds 
+Booney58: folds 
+Uncalled bet ($0.04) returned to bmwmann8
+bmwmann8 collected $0.07 from pot
+bmwmann8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Ah 3s Ts]
+Seat 1: bmwmann8 collected ($0.07)
+Seat 2: CitizenPU (button) folded before Flop (didn't bet)
+Seat 3: Dorex2007 (small blind) folded before Flop
+Seat 4: SDVL (big blind) folded on the Flop
+Seat 5: Booney58 folded on the Flop
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: CowboyIsHere folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230686891497:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:42:48 PT [2021/10/17 16:42:48 ET]
+Table 'Sadachbia III' 9-max Seat #3 is the button
+Seat 1: bmwmann8 ($2.07 in chips) 
+Seat 2: CitizenPU ($4.05 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.83 in chips) 
+Seat 5: Booney58 ($1.61 in chips) 
+Seat 6: Torcicolornd ($1.42 in chips) 
+Seat 7: ripelnet ($2 in chips) 
+Seat 8: Manuto94 ($6.55 in chips) 
+Seat 9: CowboyIsHere ($2.08 in chips) 
+SDVL: posts small blind $0.01
+Booney58: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 9d]
+Torcicolornd: folds 
+ripelnet: folds 
+Manuto94: folds 
+CowboyIsHere: raises $0.03 to $0.05
+bmwmann8: folds 
+CitizenPU: folds 
+Dorex2007: folds 
+SDVL: folds 
+Booney58: calls $0.03
+*** FLOP *** [Qd 2s Th]
+Booney58: bets $0.02
+CowboyIsHere: raises $0.04 to $0.06
+Booney58: calls $0.04
+*** TURN *** [Qd 2s Th] [8h]
+Booney58: bets $0.02
+CowboyIsHere: raises $0.10 to $0.12
+Booney58: raises $0.10 to $0.22
+CowboyIsHere: calls $0.10
+*** RIVER *** [Qd 2s Th 8h] [4h]
+Booney58: checks 
+CowboyIsHere: checks 
+*** SHOW DOWN ***
+Booney58: shows [Td Ah] (a pair of Tens)
+CowboyIsHere: mucks hand 
+Booney58 collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.02 
+Board [Qd 2s Th 8h 4h]
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 2: CitizenPU folded before Flop (didn't bet)
+Seat 3: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 4: SDVL (small blind) folded before Flop
+Seat 5: Booney58 (big blind) showed [Td Ah] and won ($0.65) with a pair of Tens
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: CowboyIsHere mucked [Ad Jd]
+
+
+
+PokerStars Hand #230686929731:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:44:00 PT [2021/10/17 16:44:00 ET]
+Table 'Sadachbia III' 9-max Seat #4 is the button
+Seat 1: bmwmann8 ($2.07 in chips) 
+Seat 2: CitizenPU ($4.05 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.82 in chips) 
+Seat 5: Booney58 ($1.93 in chips) 
+Seat 6: Torcicolornd ($1.42 in chips) 
+Seat 7: ripelnet ($2 in chips) 
+Seat 8: Manuto94 ($6.55 in chips) 
+Seat 9: CowboyIsHere ($2 in chips) 
+Booney58: posts small blind $0.01
+Torcicolornd: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 7s]
+ripelnet: folds 
+Manuto94: folds 
+CowboyIsHere: folds 
+bmwmann8: folds 
+CitizenPU: folds 
+Dorex2007: folds 
+SDVL: calls $0.02
+Booney58: calls $0.01
+Torcicolornd: checks 
+*** FLOP *** [Jh Js 2d]
+Booney58: checks 
+Torcicolornd: checks 
+SDVL: checks 
+*** TURN *** [Jh Js 2d] [5s]
+Booney58: checks 
+Torcicolornd: checks 
+SDVL: checks 
+*** RIVER *** [Jh Js 2d 5s] [Kh]
+Booney58: checks 
+Torcicolornd: checks 
+SDVL: checks 
+*** SHOW DOWN ***
+Booney58: shows [3s 7d] (a pair of Jacks)
+Torcicolornd: shows [8s Qs] (a pair of Jacks - King+Queen kicker)
+SDVL: shows [Ac Td] (a pair of Jacks - Ace kicker)
+SDVL collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Jh Js 2d 5s Kh]
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 2: CitizenPU folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL (button) showed [Ac Td] and won ($0.06) with a pair of Jacks
+Seat 5: Booney58 (small blind) showed [3s 7d] and lost with a pair of Jacks
+Seat 6: Torcicolornd (big blind) showed [8s Qs] and lost with a pair of Jacks
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: CowboyIsHere folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230686956920:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:44:51 PT [2021/10/17 16:44:51 ET]
+Table 'Sadachbia III' 9-max Seat #5 is the button
+Seat 1: bmwmann8 ($2.07 in chips) 
+Seat 2: CitizenPU ($4.05 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.86 in chips) 
+Seat 5: Booney58 ($1.91 in chips) 
+Seat 6: Torcicolornd ($1.40 in chips) 
+Seat 7: ripelnet ($2 in chips) 
+Seat 8: Manuto94 ($6.55 in chips) 
+Seat 9: CowboyIsHere ($2 in chips) 
+Torcicolornd: posts small blind $0.01
+ripelnet: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 6c]
+Manuto94: folds 
+CowboyIsHere: folds 
+bmwmann8: calls $0.02
+CitizenPU: folds 
+Dorex2007: folds 
+SDVL: calls $0.02
+Booney58: calls $0.02
+Torcicolornd: folds 
+ripelnet: raises $0.10 to $0.12
+bmwmann8: folds 
+SDVL: folds 
+Booney58: folds 
+Uncalled bet ($0.10) returned to ripelnet
+ripelnet collected $0.09 from pot
+ripelnet: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: bmwmann8 folded before Flop
+Seat 2: CitizenPU folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop
+Seat 5: Booney58 (button) folded before Flop
+Seat 6: Torcicolornd (small blind) folded before Flop
+Seat 7: ripelnet (big blind) collected ($0.09)
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: CowboyIsHere folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230686968138:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:45:12 PT [2021/10/17 16:45:12 ET]
+Table 'Sadachbia III' 9-max Seat #6 is the button
+Seat 1: bmwmann8 ($2.05 in chips) 
+Seat 2: CitizenPU ($4.05 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.84 in chips) 
+Seat 5: Booney58 ($1.89 in chips) 
+Seat 6: Torcicolornd ($1.39 in chips) 
+Seat 7: ripelnet ($2.07 in chips) 
+Seat 8: Manuto94 ($6.55 in chips) 
+Seat 9: CowboyIsHere ($2 in chips) 
+ripelnet: posts small blind $0.01
+Manuto94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Ts]
+CowboyIsHere: folds 
+bmwmann8: calls $0.02
+CitizenPU: folds 
+Dorex2007: folds 
+SDVL: folds 
+Booney58: folds 
+Torcicolornd: raises $0.02 to $0.04
+ripelnet: folds 
+Manuto94: folds 
+bmwmann8: folds 
+Uncalled bet ($0.02) returned to Torcicolornd
+Torcicolornd collected $0.07 from pot
+Torcicolornd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: bmwmann8 folded before Flop
+Seat 2: CitizenPU folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: Booney58 folded before Flop (didn't bet)
+Seat 6: Torcicolornd (button) collected ($0.07)
+Seat 7: ripelnet (small blind) folded before Flop
+Seat 8: Manuto94 (big blind) folded before Flop
+Seat 9: CowboyIsHere folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230686980038:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:45:34 PT [2021/10/17 16:45:34 ET]
+Table 'Sadachbia III' 9-max Seat #7 is the button
+Seat 1: bmwmann8 ($2.03 in chips) 
+Seat 2: CitizenPU ($4.05 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.84 in chips) 
+Seat 5: Booney58 ($1.89 in chips) 
+Seat 6: Torcicolornd ($1.44 in chips) 
+Seat 7: ripelnet ($2.06 in chips) 
+Seat 8: Manuto94 ($6.53 in chips) 
+Seat 9: CowboyIsHere ($2 in chips) 
+Manuto94: posts small blind $0.01
+CowboyIsHere: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 2c]
+bmwmann8: folds 
+CitizenPU: folds 
+Dorex2007: folds 
+SDVL: folds 
+Booney58: calls $0.02
+Torcicolornd: folds 
+ripelnet: folds 
+Manuto94: folds 
+CowboyIsHere: checks 
+*** FLOP *** [2h 9d 7c]
+CowboyIsHere: bets $0.03
+Booney58: calls $0.03
+*** TURN *** [2h 9d 7c] [Ts]
+CowboyIsHere: bets $0.06
+Booney58: raises $0.06 to $0.12
+CowboyIsHere: calls $0.06
+*** RIVER *** [2h 9d 7c Ts] [As]
+CowboyIsHere: checks 
+Booney58: checks 
+*** SHOW DOWN ***
+CowboyIsHere: shows [3h Td] (a pair of Tens)
+Booney58: mucks hand 
+CowboyIsHere collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [2h 9d 7c Ts As]
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 2: CitizenPU folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: Booney58 mucked [9h Qc]
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet (button) folded before Flop (didn't bet)
+Seat 8: Manuto94 (small blind) folded before Flop
+Seat 9: CowboyIsHere (big blind) showed [3h Td] and won ($0.34) with a pair of Tens
+
+
+
+PokerStars Hand #230687010741:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:46:32 PT [2021/10/17 16:46:32 ET]
+Table 'Sadachbia III' 9-max Seat #8 is the button
+Seat 1: bmwmann8 ($2.03 in chips) 
+Seat 2: CitizenPU ($4.05 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.84 in chips) 
+Seat 5: Booney58 ($1.72 in chips) 
+Seat 6: Torcicolornd ($1.44 in chips) 
+Seat 7: ripelnet ($2.06 in chips) 
+Seat 8: Manuto94 ($6.52 in chips) 
+Seat 9: CowboyIsHere ($2.17 in chips) 
+CowboyIsHere: posts small blind $0.01
+bmwmann8: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc As]
+CitizenPU: calls $0.02
+Dorex2007 has timed out
+Dorex2007: folds 
+SDVL: calls $0.02
+Booney58: folds 
+Torcicolornd has timed out
+Torcicolornd: folds 
+ripelnet: folds 
+Manuto94: folds 
+CowboyIsHere: folds 
+bmwmann8: checks 
+*** FLOP *** [5c 3c Jh]
+bmwmann8: checks 
+CitizenPU: checks 
+SDVL: checks 
+*** TURN *** [5c 3c Jh] [8s]
+bmwmann8: checks 
+CitizenPU: checks 
+SDVL: bets $0.04
+bmwmann8: folds 
+CitizenPU: folds 
+Uncalled bet ($0.04) returned to SDVL
+SDVL collected $0.07 from pot
+SDVL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [5c 3c Jh 8s]
+Seat 1: bmwmann8 (big blind) folded on the Turn
+Seat 2: CitizenPU folded on the Turn
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL collected ($0.07)
+Seat 5: Booney58 folded before Flop (didn't bet)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: Manuto94 (button) folded before Flop (didn't bet)
+Seat 9: CowboyIsHere (small blind) folded before Flop
+
+
+
+PokerStars Hand #230687041423:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:47:28 PT [2021/10/17 16:47:28 ET]
+Table 'Sadachbia III' 9-max Seat #9 is the button
+Seat 1: bmwmann8 ($2.01 in chips) 
+Seat 2: CitizenPU ($4.03 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.89 in chips) 
+Seat 5: Booney58 ($1.72 in chips) 
+Seat 6: Torcicolornd ($1.44 in chips) 
+Seat 7: ripelnet ($2.06 in chips) 
+Seat 8: Manuto94 ($6.52 in chips) 
+Seat 9: CowboyIsHere ($2.16 in chips) 
+bmwmann8: posts small blind $0.01
+CitizenPU: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Ah]
+Dorex2007: folds 
+SDVL: folds 
+Booney58: raises $0.02 to $0.04
+Torcicolornd: folds 
+ripelnet: folds 
+Manuto94: folds 
+CowboyIsHere: folds 
+bmwmann8: folds 
+CitizenPU: folds 
+Uncalled bet ($0.02) returned to Booney58
+Booney58 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: bmwmann8 (small blind) folded before Flop
+Seat 2: CitizenPU (big blind) folded before Flop
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: Booney58 collected ($0.05)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: CowboyIsHere (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687048068:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:47:41 PT [2021/10/17 16:47:41 ET]
+Table 'Sadachbia III' 9-max Seat #1 is the button
+Seat 1: bmwmann8 ($2 in chips) 
+Seat 2: CitizenPU ($4.01 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.89 in chips) 
+Seat 5: Booney58 ($1.75 in chips) 
+Seat 6: Torcicolornd ($1.44 in chips) 
+Seat 7: ripelnet ($2.06 in chips) 
+Seat 8: Manuto94 ($6.52 in chips) 
+Seat 9: CowboyIsHere ($2.16 in chips) 
+CitizenPU: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Tc]
+SDVL: calls $0.02
+Booney58: calls $0.02
+Torcicolornd: folds 
+ripelnet: folds 
+Manuto94: raises $0.08 to $0.10
+CowboyIsHere: folds 
+bmwmann8: folds 
+CitizenPU: folds 
+Dorex2007: folds 
+SDVL: calls $0.08
+Booney58: calls $0.08
+*** FLOP *** [Qs Js 8h]
+SDVL: checks 
+Booney58: checks 
+Manuto94: bets $0.22
+SDVL: folds 
+Booney58: calls $0.22
+*** TURN *** [Qs Js 8h] [3c]
+Booney58: checks 
+Manuto94: bets $0.56
+Booney58: folds 
+Uncalled bet ($0.56) returned to Manuto94
+Manuto94 collected $0.74 from pot
+Manuto94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [Qs Js 8h 3c]
+Seat 1: bmwmann8 (button) folded before Flop (didn't bet)
+Seat 2: CitizenPU (small blind) folded before Flop
+Seat 3: Dorex2007 (big blind) folded before Flop
+Seat 4: SDVL folded on the Flop
+Seat 5: Booney58 folded on the Turn
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: Manuto94 collected ($0.74)
+Seat 9: CowboyIsHere folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687077438:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:48:35 PT [2021/10/17 16:48:35 ET]
+Table 'Sadachbia III' 9-max Seat #2 is the button
+Seat 1: bmwmann8 ($2 in chips) 
+Seat 2: CitizenPU ($4 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.79 in chips) 
+Seat 5: Booney58 ($1.43 in chips) 
+Seat 6: Torcicolornd ($1.44 in chips) 
+Seat 7: ripelnet ($2.06 in chips) 
+Seat 8: Manuto94 ($6.94 in chips) 
+Seat 9: CowboyIsHere ($2.16 in chips) 
+Dorex2007: posts small blind $0.01
+SDVL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 3d]
+Booney58: folds 
+Torcicolornd: folds 
+ripelnet: folds 
+Manuto94: raises $0.04 to $0.06
+CowboyIsHere: folds 
+bmwmann8: folds 
+CitizenPU: folds 
+Dorex2007: folds 
+SDVL: folds 
+Uncalled bet ($0.04) returned to Manuto94
+Manuto94 collected $0.05 from pot
+Manuto94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 2: CitizenPU (button) folded before Flop (didn't bet)
+Seat 3: Dorex2007 (small blind) folded before Flop
+Seat 4: SDVL (big blind) folded before Flop
+Seat 5: Booney58 folded before Flop (didn't bet)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: Manuto94 collected ($0.05)
+Seat 9: CowboyIsHere folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687087213:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:48:54 PT [2021/10/17 16:48:54 ET]
+Table 'Sadachbia III' 9-max Seat #3 is the button
+Seat 1: bmwmann8 ($2 in chips) 
+Seat 2: CitizenPU ($4 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.77 in chips) 
+Seat 5: Booney58 ($1.43 in chips) 
+Seat 6: Torcicolornd ($1.44 in chips) 
+Seat 7: ripelnet ($2.06 in chips) 
+Seat 8: Manuto94 ($6.97 in chips) 
+Seat 9: CowboyIsHere ($2.16 in chips) 
+SDVL: posts small blind $0.01
+Booney58: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Kd]
+Torcicolornd: folds 
+ripelnet: folds 
+Manuto94: folds 
+CowboyIsHere: folds 
+bmwmann8: folds 
+CitizenPU: raises $0.04 to $0.06
+Dorex2007: folds 
+SDVL: folds 
+Booney58: folds 
+Uncalled bet ($0.04) returned to CitizenPU
+CitizenPU collected $0.05 from pot
+CitizenPU: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 2: CitizenPU collected ($0.05)
+Seat 3: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 4: SDVL (small blind) folded before Flop
+Seat 5: Booney58 (big blind) folded before Flop
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: CowboyIsHere folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687098171:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:49:14 PT [2021/10/17 16:49:14 ET]
+Table 'Sadachbia III' 9-max Seat #4 is the button
+Seat 1: bmwmann8 ($2 in chips) 
+Seat 2: CitizenPU ($4.03 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.76 in chips) 
+Seat 5: Booney58 ($1.41 in chips) 
+Seat 6: Torcicolornd ($1.44 in chips) 
+Seat 7: ripelnet ($2.06 in chips) 
+Seat 8: Manuto94 ($6.97 in chips) 
+Seat 9: CowboyIsHere ($2.16 in chips) 
+Booney58: posts small blind $0.01
+Torcicolornd: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Td]
+ripelnet: folds 
+Manuto94: folds 
+CowboyIsHere: folds 
+bmwmann8: calls $0.02
+CitizenPU: raises $0.08 to $0.10
+Dorex2007: folds 
+SDVL: folds 
+Booney58: calls $0.09
+Torcicolornd: folds 
+bmwmann8: folds 
+*** FLOP *** [4s 2c 2s]
+Booney58: checks 
+CitizenPU: bets $0.16
+Booney58: folds 
+Uncalled bet ($0.16) returned to CitizenPU
+CitizenPU collected $0.23 from pot
+CitizenPU: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [4s 2c 2s]
+Seat 1: bmwmann8 folded before Flop
+Seat 2: CitizenPU collected ($0.23)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL (button) folded before Flop (didn't bet)
+Seat 5: Booney58 (small blind) folded on the Flop
+Seat 6: Torcicolornd (big blind) folded before Flop
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: CowboyIsHere folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687113227:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:49:42 PT [2021/10/17 16:49:42 ET]
+Table 'Sadachbia III' 9-max Seat #5 is the button
+Seat 1: bmwmann8 ($1.98 in chips) 
+Seat 2: CitizenPU ($4.16 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.76 in chips) 
+Seat 5: Booney58 ($1.31 in chips) 
+Seat 6: Torcicolornd ($1.42 in chips) 
+Seat 7: ripelnet ($2.06 in chips) 
+Seat 8: Manuto94 ($6.97 in chips) 
+Seat 9: CowboyIsHere ($2.16 in chips) 
+Torcicolornd: posts small blind $0.01
+ripelnet: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Kd]
+Manuto94: folds 
+CowboyIsHere: folds 
+bmwmann8: folds 
+CitizenPU: folds 
+Dorex2007: folds 
+CowboyIsHere leaves the table
+SDVL: calls $0.02
+Booney58: calls $0.02
+Torcicolornd: calls $0.01
+ripelnet: checks 
+*** FLOP *** [3s 4c Ts]
+Torcicolornd: checks 
+ripelnet: checks 
+SDVL: checks 
+Booney58: checks 
+*** TURN *** [3s 4c Ts] [Tc]
+Torcicolornd: checks 
+ripelnet: checks 
+SDVL: checks 
+Irishka684 joins the table at seat #9 
+Booney58: checks 
+*** RIVER *** [3s 4c Ts Tc] [9c]
+Torcicolornd: checks 
+ripelnet: checks 
+SDVL: checks 
+Booney58: checks 
+*** SHOW DOWN ***
+Torcicolornd: shows [Jh 8c] (a pair of Tens)
+ripelnet: shows [6s Qc] (a pair of Tens - Queen kicker)
+SDVL: shows [Ad 5d] (a pair of Tens - Ace kicker)
+Booney58: mucks hand 
+SDVL collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [3s 4c Ts Tc 9c]
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 2: CitizenPU folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL showed [Ad 5d] and won ($0.08) with a pair of Tens
+Seat 5: Booney58 (button) mucked [Js 8h]
+Seat 6: Torcicolornd (small blind) showed [Jh 8c] and lost with a pair of Tens
+Seat 7: ripelnet (big blind) showed [6s Qc] and lost with a pair of Tens
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: CowboyIsHere folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687146007:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:50:43 PT [2021/10/17 16:50:43 ET]
+Table 'Sadachbia III' 9-max Seat #6 is the button
+Seat 1: bmwmann8 ($1.98 in chips) 
+Seat 2: CitizenPU ($4.16 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.82 in chips) 
+Seat 5: Booney58 ($1.29 in chips) 
+Seat 6: Torcicolornd ($1.40 in chips) 
+Seat 7: ripelnet ($2.04 in chips) 
+Seat 8: Manuto94 ($6.97 in chips) 
+ripelnet: posts small blind $0.01
+Manuto94: posts big blind $0.02
+Irishka684: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Tc]
+bmwmann8: raises $0.02 to $0.04
+CitizenPU: folds 
+Dorex2007: folds 
+SDVL: folds 
+Booney58: folds 
+Torcicolornd: folds 
+ripelnet: folds 
+Manuto94: folds 
+Uncalled bet ($0.02) returned to bmwmann8
+bmwmann8 collected $0.05 from pot
+bmwmann8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: bmwmann8 collected ($0.05)
+Seat 2: CitizenPU folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: Booney58 folded before Flop (didn't bet)
+Seat 6: Torcicolornd (button) folded before Flop (didn't bet)
+Seat 7: ripelnet (small blind) folded before Flop
+Seat 8: Manuto94 (big blind) folded before Flop
+
+
+
+PokerStars Hand #230687152734:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:50:56 PT [2021/10/17 16:50:56 ET]
+Table 'Sadachbia III' 9-max Seat #7 is the button
+Seat 1: bmwmann8 ($2.01 in chips) 
+Seat 2: CitizenPU ($4.16 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.82 in chips) 
+Seat 5: Booney58 ($1.29 in chips) 
+Seat 6: Torcicolornd ($1.40 in chips) 
+Seat 7: ripelnet ($2.03 in chips) 
+Seat 8: Manuto94 ($6.95 in chips) 
+Seat 9: Irishka684 ($2 in chips) 
+Manuto94: posts small blind $0.01
+Irishka684: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Th]
+bmwmann8: folds 
+CitizenPU: calls $0.02
+Dorex2007: calls $0.02
+SDVL: calls $0.02
+Booney58: folds 
+Torcicolornd: folds 
+ripelnet has timed out
+ripelnet: folds 
+Manuto94: folds 
+Irishka684: checks 
+*** FLOP *** [9c 6h 5s]
+Booney58 leaves the table
+Irishka684: checks 
+Mateo228757 joins the table at seat #5 
+CitizenPU: bets $0.06
+Dorex2007: folds 
+SDVL: folds 
+Irishka684: folds 
+Uncalled bet ($0.06) returned to CitizenPU
+CitizenPU collected $0.09 from pot
+CitizenPU: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [9c 6h 5s]
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 2: CitizenPU collected ($0.09)
+Seat 3: Dorex2007 folded on the Flop
+Seat 4: SDVL folded on the Flop
+Seat 5: Booney58 folded before Flop (didn't bet)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet (button) folded before Flop (didn't bet)
+Seat 8: Manuto94 (small blind) folded before Flop
+Seat 9: Irishka684 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #230687183346:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:51:46 PT [2021/10/17 16:51:46 ET]
+Table 'Sadachbia III' 9-max Seat #8 is the button
+Seat 1: bmwmann8 ($2.01 in chips) 
+Seat 2: CitizenPU ($4.23 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.80 in chips) 
+Seat 6: Torcicolornd ($1.40 in chips) 
+Seat 7: ripelnet ($2.03 in chips) 
+Seat 8: Manuto94 ($6.94 in chips) 
+Seat 9: Irishka684 ($2 in chips) 
+Irishka684: posts small blind $0.01
+bmwmann8: posts big blind $0.02
+Mateo228757: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 7h]
+CitizenPU: folds 
+Dorex2007: folds 
+SDVL: calls $0.02
+Torcicolornd: folds 
+ripelnet: raises $0.07 to $0.09
+Manuto94: calls $0.09
+Irishka684: folds 
+bmwmann8: folds 
+SDVL: folds 
+*** FLOP *** [Ts Jc 7s]
+ripelnet: checks 
+Manuto94: checks 
+*** TURN *** [Ts Jc 7s] [5d]
+ripelnet: bets $0.11
+Manuto94: folds 
+Uncalled bet ($0.11) returned to ripelnet
+ripelnet collected $0.22 from pot
+ripelnet: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Ts Jc 7s 5d]
+Seat 1: bmwmann8 (big blind) folded before Flop
+Seat 2: CitizenPU folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet collected ($0.22)
+Seat 8: Manuto94 (button) folded on the Turn
+Seat 9: Irishka684 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230687200015:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:52:18 PT [2021/10/17 16:52:18 ET]
+Table 'Sadachbia III' 9-max Seat #9 is the button
+Seat 1: bmwmann8 ($1.99 in chips) 
+Seat 2: CitizenPU ($4.23 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.78 in chips) 
+Seat 6: Torcicolornd ($1.40 in chips) 
+Seat 7: ripelnet ($2.16 in chips) 
+Seat 8: Manuto94 ($6.85 in chips) 
+Seat 9: Irishka684 ($2 in chips) 
+bmwmann8: posts small blind $0.01
+CitizenPU: posts big blind $0.02
+Mateo228757: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 8c]
+Dorex2007: folds 
+SDVL: folds 
+Torcicolornd: raises $0.02 to $0.04
+ripelnet: folds 
+Manuto94: folds 
+Irishka684: folds 
+bmwmann8: folds 
+CitizenPU: calls $0.02
+*** FLOP *** [Ts Tc Kh]
+CitizenPU: checks 
+Torcicolornd: bets $0.05
+CitizenPU: calls $0.05
+*** TURN *** [Ts Tc Kh] [Kc]
+CitizenPU: checks 
+Torcicolornd: checks 
+*** RIVER *** [Ts Tc Kh Kc] [Qh]
+CitizenPU: checks 
+Torcicolornd: bets $0.30
+CitizenPU: folds 
+Uncalled bet ($0.30) returned to Torcicolornd
+Torcicolornd collected $0.18 from pot
+Torcicolornd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Ts Tc Kh Kc Qh]
+Seat 1: bmwmann8 (small blind) folded before Flop
+Seat 2: CitizenPU (big blind) folded on the River
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 6: Torcicolornd collected ($0.18)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: Irishka684 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687235051:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:53:23 PT [2021/10/17 16:53:23 ET]
+Table 'Sadachbia III' 9-max Seat #1 is the button
+Seat 1: bmwmann8 ($1.98 in chips) 
+Seat 2: CitizenPU ($4.14 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.78 in chips) 
+Seat 6: Torcicolornd ($1.49 in chips) 
+Seat 7: ripelnet ($2.16 in chips) 
+Seat 8: Manuto94 ($6.85 in chips) 
+Seat 9: Irishka684 ($2 in chips) 
+CitizenPU: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Mateo228757: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 2d]
+SDVL: folds 
+Torcicolornd: raises $0.02 to $0.04
+ripelnet: calls $0.04
+Manuto94: folds 
+Irishka684: folds 
+bmwmann8: calls $0.04
+CitizenPU: folds 
+Dorex2007: folds 
+*** FLOP *** [Td Tc 5d]
+Torcicolornd: checks 
+ripelnet: checks 
+bmwmann8: checks 
+*** TURN *** [Td Tc 5d] [2h]
+Torcicolornd: checks 
+ripelnet: checks 
+bmwmann8: checks 
+*** RIVER *** [Td Tc 5d 2h] [Ks]
+Torcicolornd: checks 
+ripelnet: checks 
+bmwmann8: checks 
+*** SHOW DOWN ***
+Torcicolornd: shows [Qs Jh] (a pair of Tens)
+ripelnet: shows [3c 3s] (two pair, Tens and Threes)
+bmwmann8: mucks hand 
+ripelnet collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Td Tc 5d 2h Ks]
+Seat 1: bmwmann8 (button) mucked [6d 8s]
+Seat 2: CitizenPU (small blind) folded before Flop
+Seat 3: Dorex2007 (big blind) folded before Flop
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 6: Torcicolornd showed [Qs Jh] and lost with a pair of Tens
+Seat 7: ripelnet showed [3c 3s] and won ($0.14) with two pair, Tens and Threes
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687268025:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:54:25 PT [2021/10/17 16:54:25 ET]
+Table 'Sadachbia III' 9-max Seat #2 is the button
+Seat 1: bmwmann8 ($1.94 in chips) 
+Seat 2: CitizenPU ($4.13 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.78 in chips) 
+Seat 6: Torcicolornd ($1.45 in chips) 
+Seat 7: ripelnet ($2.26 in chips) 
+Seat 8: Manuto94 ($6.85 in chips) 
+Seat 9: Irishka684 ($2 in chips) 
+Dorex2007: posts small blind $0.01
+SDVL: posts big blind $0.02
+Mateo228757: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Js]
+Torcicolornd: folds 
+ripelnet: folds 
+Manuto94: raises $0.04 to $0.06
+Irishka684: folds 
+bmwmann8: folds 
+CitizenPU: folds 
+Dorex2007: folds 
+SDVL: calls $0.04
+*** FLOP *** [Qh Th 6s]
+SDVL: checks 
+Manuto94: bets $0.10
+SDVL: folds 
+Uncalled bet ($0.10) returned to Manuto94
+Manuto94 collected $0.13 from pot
+Manuto94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qh Th 6s]
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 2: CitizenPU (button) folded before Flop (didn't bet)
+Seat 3: Dorex2007 (small blind) folded before Flop
+Seat 4: SDVL (big blind) folded on the Flop
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: Manuto94 collected ($0.13)
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687280786:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:54:49 PT [2021/10/17 16:54:49 ET]
+Table 'Sadachbia III' 9-max Seat #3 is the button
+Seat 1: bmwmann8 ($1.94 in chips) 
+Seat 2: CitizenPU ($4.13 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.72 in chips) 
+Seat 5: Mateo228757 ($0.80 in chips) 
+Seat 6: Torcicolornd ($1.45 in chips) 
+Seat 7: ripelnet ($2.26 in chips) 
+Seat 8: Manuto94 ($6.92 in chips) 
+Seat 9: Irishka684 ($2 in chips) 
+SDVL: posts small blind $0.01
+Mateo228757: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 2c]
+Torcicolornd: folds 
+ripelnet: folds 
+Manuto94: folds 
+Irishka684: raises $0.04 to $0.06
+bmwmann8: folds 
+CitizenPU: folds 
+Dorex2007: folds 
+SDVL: calls $0.05
+Mateo228757: folds 
+*** FLOP *** [Qd 4h 5d]
+SDVL: checks 
+Irishka684: bets $0.07
+SDVL: calls $0.07
+*** TURN *** [Qd 4h 5d] [8d]
+SDVL: checks 
+Irishka684: checks 
+*** RIVER *** [Qd 4h 5d 8d] [5h]
+SDVL: bets $0.16
+Irishka684: folds 
+Uncalled bet ($0.16) returned to SDVL
+SDVL collected $0.27 from pot
+SDVL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Qd 4h 5d 8d 5h]
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 2: CitizenPU folded before Flop (didn't bet)
+Seat 3: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 4: SDVL (small blind) collected ($0.27)
+Seat 5: Mateo228757 (big blind) folded before Flop
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: Irishka684 folded on the River
+
+
+
+PokerStars Hand #230687305368:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:55:50 PT [2021/10/17 16:55:50 ET]
+Table 'Sadachbia III' 9-max Seat #4 is the button
+Seat 1: bmwmann8 ($1.94 in chips) 
+Seat 2: CitizenPU ($4.13 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.86 in chips) 
+Seat 5: Mateo228757 ($0.78 in chips) 
+Seat 6: Torcicolornd ($1.45 in chips) 
+Seat 7: ripelnet ($2.26 in chips) 
+Seat 8: Manuto94 ($6.92 in chips) 
+Seat 9: Irishka684 ($2 in chips) 
+Mateo228757: posts small blind $0.01
+Torcicolornd: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 9h]
+ripelnet: folds 
+Manuto94: folds 
+Irishka684: raises $0.04 to $0.06
+bmwmann8: folds 
+CitizenPU: folds 
+Dorex2007: folds 
+SDVL: calls $0.06
+Mateo228757: folds 
+Torcicolornd: calls $0.04
+*** FLOP *** [6h 7s Th]
+Torcicolornd: checks 
+Irishka684: checks 
+SDVL: checks 
+*** TURN *** [6h 7s Th] [Ts]
+Torcicolornd: checks 
+Irishka684: checks 
+SDVL: bets $0.09
+Torcicolornd: raises $0.11 to $0.20
+Irishka684: folds 
+SDVL: calls $0.11
+*** RIVER *** [6h 7s Th Ts] [3d]
+Torcicolornd: bets $0.30
+SDVL: folds 
+Uncalled bet ($0.30) returned to Torcicolornd
+Torcicolornd collected $0.57 from pot
+Torcicolornd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.02 
+Board [6h 7s Th Ts 3d]
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 2: CitizenPU folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL (button) folded on the River
+Seat 5: Mateo228757 (small blind) folded before Flop
+Seat 6: Torcicolornd (big blind) collected ($0.57)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: Manuto94 folded before Flop (didn't bet)
+Seat 9: Irishka684 folded on the Turn
+
+
+
+PokerStars Hand #230687339129:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:57:23 PT [2021/10/17 16:57:23 ET]
+Table 'Sadachbia III' 9-max Seat #5 is the button
+Seat 1: bmwmann8 ($1.94 in chips) 
+Seat 2: CitizenPU ($4.13 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.60 in chips) 
+Seat 5: Mateo228757 ($0.77 in chips) 
+Seat 6: Torcicolornd ($1.76 in chips) 
+Seat 7: ripelnet ($2.26 in chips) 
+Seat 8: Manuto94 ($6.92 in chips) 
+Seat 9: Irishka684 ($2 in chips) 
+Torcicolornd: posts small blind $0.01
+ripelnet: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 8h]
+Manuto94: raises $0.05 to $0.07
+Irishka684: calls $0.07
+bmwmann8: folds 
+CitizenPU: folds 
+Dorex2007: folds 
+SDVL: folds 
+Mateo228757: folds 
+Torcicolornd: calls $0.06
+ripelnet: folds 
+*** FLOP *** [4c 7s As]
+Torcicolornd: checks 
+Manuto94: bets $0.11
+Irishka684: raises $0.22 to $0.33
+Torcicolornd: folds 
+Manuto94: folds 
+Uncalled bet ($0.22) returned to Irishka684
+Irishka684 collected $0.43 from pot
+Irishka684: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [4c 7s As]
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 2: CitizenPU folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: Mateo228757 (button) folded before Flop (didn't bet)
+Seat 6: Torcicolornd (small blind) folded on the Flop
+Seat 7: ripelnet (big blind) folded before Flop
+Seat 8: Manuto94 folded on the Flop
+Seat 9: Irishka684 collected ($0.43)
+
+
+
+PokerStars Hand #230687356074:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:58:12 PT [2021/10/17 16:58:12 ET]
+Table 'Sadachbia III' 9-max Seat #6 is the button
+Seat 1: bmwmann8 ($1.94 in chips) 
+Seat 2: CitizenPU ($4.13 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.60 in chips) 
+Seat 5: Mateo228757 ($0.77 in chips) 
+Seat 6: Torcicolornd ($1.69 in chips) 
+Seat 7: ripelnet ($2.24 in chips) 
+Seat 9: Irishka684 ($2.25 in chips) 
+ripelnet: posts small blind $0.01
+Manuto94: is sitting out 
+Irishka684: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c Ah]
+bmwmann8: folds 
+CitizenPU: folds 
+Dorex2007: folds 
+SDVL: calls $0.02
+Manuto94 leaves the table
+Mateo228757: folds 
+Torcicolornd: folds 
+ripelnet: folds 
+Irishka684: checks 
+*** FLOP *** [Th Ks Jd]
+SUPERFISH35 joins the table at seat #8 
+Irishka684: checks 
+SDVL: bets $0.02
+Irishka684: folds 
+Uncalled bet ($0.02) returned to SDVL
+SDVL collected $0.05 from pot
+SDVL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Th Ks Jd]
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 2: CitizenPU folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL collected ($0.05)
+Seat 5: Mateo228757 folded before Flop (didn't bet)
+Seat 6: Torcicolornd (button) folded before Flop (didn't bet)
+Seat 7: ripelnet (small blind) folded before Flop
+Seat 9: Irishka684 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #230687372341:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:58:54 PT [2021/10/17 16:58:54 ET]
+Table 'Sadachbia III' 9-max Seat #7 is the button
+Seat 1: bmwmann8 ($1.94 in chips) 
+Seat 2: CitizenPU ($4.13 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.63 in chips) 
+Seat 5: Mateo228757 ($0.77 in chips) 
+Seat 6: Torcicolornd ($1.69 in chips) 
+Seat 7: ripelnet ($2.23 in chips) 
+Seat 9: Irishka684 ($2.23 in chips) 
+Irishka684: posts small blind $0.01
+bmwmann8: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 4s]
+CitizenPU: folds 
+Dorex2007: folds 
+SDVL: folds 
+Mateo228757: raises $0.03 to $0.05
+Torcicolornd: folds 
+ripelnet: folds 
+Irishka684: folds 
+bmwmann8: folds 
+Uncalled bet ($0.03) returned to Mateo228757
+Mateo228757 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: bmwmann8 (big blind) folded before Flop
+Seat 2: CitizenPU folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: Mateo228757 collected ($0.05)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet (button) folded before Flop (didn't bet)
+Seat 9: Irishka684 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230687382317:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 13:59:23 PT [2021/10/17 16:59:23 ET]
+Table 'Sadachbia III' 9-max Seat #9 is the button
+Seat 1: bmwmann8 ($1.92 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.63 in chips) 
+Seat 5: Mateo228757 ($0.80 in chips) 
+Seat 6: Torcicolornd ($1.69 in chips) 
+Seat 7: ripelnet ($2.23 in chips) 
+Seat 9: Irishka684 ($2.22 in chips) 
+bmwmann8: posts small blind $0.01
+CitizenPU: is sitting out 
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Qh]
+SDVL: folds 
+Mateo228757: folds 
+Torcicolornd: folds 
+ripelnet: folds 
+Irishka684: raises $0.04 to $0.06
+bmwmann8: calls $0.05
+Dorex2007: folds 
+*** FLOP *** [3s 2h Qc]
+bmwmann8: checks 
+Irishka684: bets $0.07
+bmwmann8: folds 
+Uncalled bet ($0.07) returned to Irishka684
+Irishka684 collected $0.14 from pot
+Irishka684: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [3s 2h Qc]
+Seat 1: bmwmann8 (small blind) folded on the Flop
+Seat 3: Dorex2007 (big blind) folded before Flop
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: Mateo228757 folded before Flop (didn't bet)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 9: Irishka684 (button) collected ($0.14)
+
+
+
+PokerStars Hand #230687399650:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:00:13 PT [2021/10/17 17:00:13 ET]
+Table 'Sadachbia III' 9-max Seat #1 is the button
+Seat 1: bmwmann8 ($1.86 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.63 in chips) 
+Seat 5: Mateo228757 ($0.80 in chips) 
+Seat 6: Torcicolornd ($1.69 in chips) 
+Seat 7: ripelnet ($2.23 in chips) 
+Seat 9: Irishka684 ($2.30 in chips) 
+Dorex2007: posts small blind $0.01
+SDVL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d As]
+Mateo228757: folds 
+Torcicolornd: folds 
+ripelnet: folds 
+Irishka684: folds 
+bmwmann8: raises $0.04 to $0.06
+Dorex2007: folds 
+SDVL: folds 
+Uncalled bet ($0.04) returned to bmwmann8
+bmwmann8 collected $0.05 from pot
+bmwmann8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: bmwmann8 (button) collected ($0.05)
+Seat 3: Dorex2007 (small blind) folded before Flop
+Seat 4: SDVL (big blind) folded before Flop
+Seat 5: Mateo228757 folded before Flop (didn't bet)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687408207:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:00:36 PT [2021/10/17 17:00:36 ET]
+Table 'Sadachbia III' 9-max Seat #3 is the button
+Seat 1: bmwmann8 ($1.89 in chips) 
+Seat 3: Dorex2007 ($2 in chips) 
+Seat 4: SDVL ($2.61 in chips) 
+Seat 5: Mateo228757 ($0.80 in chips) 
+Seat 6: Torcicolornd ($1.69 in chips) 
+Seat 7: ripelnet ($2.23 in chips) 
+Seat 9: Irishka684 ($2.30 in chips) 
+SDVL: posts small blind $0.01
+Mateo228757: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Kh]
+Torcicolornd: folds 
+ripelnet: folds 
+Irishka684: folds 
+bmwmann8: folds 
+Dorex2007: raises $0.04 to $0.06
+SDVL: folds 
+Mateo228757: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 3: Dorex2007 (button) collected ($0.05)
+Seat 4: SDVL (small blind) folded before Flop
+Seat 5: Mateo228757 (big blind) folded before Flop
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687413642:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:00:50 PT [2021/10/17 17:00:50 ET]
+Table 'Sadachbia III' 9-max Seat #4 is the button
+Seat 1: bmwmann8 ($1.89 in chips) 
+Seat 3: Dorex2007 ($2.03 in chips) 
+Seat 4: SDVL ($2.60 in chips) 
+Seat 5: Mateo228757 ($0.78 in chips) 
+Seat 6: Torcicolornd ($1.69 in chips) 
+Seat 7: ripelnet ($2.23 in chips) 
+Seat 9: Irishka684 ($2.30 in chips) 
+Mateo228757: posts small blind $0.01
+Torcicolornd: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Ks]
+ripelnet: folds 
+Irishka684: folds 
+bmwmann8: folds 
+Dorex2007: folds 
+SDVL: folds 
+Mateo228757: folds 
+Uncalled bet ($0.01) returned to Torcicolornd
+Torcicolornd collected $0.02 from pot
+Torcicolornd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL (button) folded before Flop (didn't bet)
+Seat 5: Mateo228757 (small blind) folded before Flop
+Seat 6: Torcicolornd (big blind) collected ($0.02)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687418064:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:01:01 PT [2021/10/17 17:01:01 ET]
+Table 'Sadachbia III' 9-max Seat #5 is the button
+Seat 1: bmwmann8 ($1.89 in chips) 
+Seat 3: Dorex2007 ($2.03 in chips) 
+Seat 4: SDVL ($2.60 in chips) 
+Seat 5: Mateo228757 ($0.77 in chips) 
+Seat 6: Torcicolornd ($1.70 in chips) 
+Seat 7: ripelnet ($2.23 in chips) 
+Seat 9: Irishka684 ($2.30 in chips) 
+Torcicolornd: posts small blind $0.01
+ripelnet: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th As]
+Irishka684: folds 
+bmwmann8: folds 
+Dorex2007: calls $0.02
+SDVL: calls $0.02
+Mateo228757: folds 
+Torcicolornd: folds 
+ripelnet: checks 
+*** FLOP *** [Kd Jd 5c]
+CitizenPU leaves the table
+ripelnet: checks 
+Dorex2007: checks 
+SDVL: bets $0.02
+ripelnet: folds 
+Dorex2007: calls $0.02
+*** TURN *** [Kd Jd 5c] [Qc]
+Dorex2007: checks 
+SDVL: bets $0.04
+Dorex2007: raises $0.06 to $0.10
+SDVL: calls $0.06
+*** RIVER *** [Kd Jd 5c Qc] [8h]
+Dorex2007: bets $0.30
+SDVL: folds 
+Uncalled bet ($0.30) returned to Dorex2007
+Dorex2007 collected $0.30 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Kd Jd 5c Qc 8h]
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 3: Dorex2007 collected ($0.30)
+Seat 4: SDVL folded on the River
+Seat 5: Mateo228757 (button) folded before Flop (didn't bet)
+Seat 6: Torcicolornd (small blind) folded before Flop
+Seat 7: ripelnet (big blind) folded on the Flop
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687437273:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:01:46 PT [2021/10/17 17:01:46 ET]
+Table 'Sadachbia III' 9-max Seat #6 is the button
+Seat 1: bmwmann8 ($1.89 in chips) 
+Seat 3: Dorex2007 ($2.19 in chips) 
+Seat 4: SDVL ($2.46 in chips) 
+Seat 5: Mateo228757 ($0.77 in chips) 
+Seat 6: Torcicolornd ($1.69 in chips) 
+Seat 7: ripelnet ($2.21 in chips) 
+Seat 9: Irishka684 ($2.30 in chips) 
+ripelnet: posts small blind $0.01
+Irishka684: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 4c]
+bmwmann8: folds 
+Dorex2007: folds 
+SDVL: folds 
+Mateo228757: folds 
+Torcicolornd: folds 
+ripelnet: folds 
+Uncalled bet ($0.01) returned to Irishka684
+Irishka684 collected $0.02 from pot
+Irishka684: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: Mateo228757 folded before Flop (didn't bet)
+Seat 6: Torcicolornd (button) folded before Flop (didn't bet)
+Seat 7: ripelnet (small blind) folded before Flop
+Seat 9: Irishka684 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #230687443212:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:01:59 PT [2021/10/17 17:01:59 ET]
+Table 'Sadachbia III' 9-max Seat #7 is the button
+Seat 1: bmwmann8 ($1.89 in chips) 
+Seat 3: Dorex2007 ($2.19 in chips) 
+Seat 4: SDVL ($2.46 in chips) 
+Seat 5: Mateo228757 ($0.77 in chips) 
+Seat 6: Torcicolornd ($1.69 in chips) 
+Seat 7: ripelnet ($2.20 in chips) 
+Seat 9: Irishka684 ($2.31 in chips) 
+Irishka684: posts small blind $0.01
+bmwmann8: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 4d]
+Dorex2007: folds 
+SDVL: calls $0.02
+Mateo228757: folds 
+Torcicolornd: folds 
+ripelnet: folds 
+Irishka684: folds 
+bmwmann8: checks 
+*** FLOP *** [4s 9h Kh]
+bmwmann8: checks 
+SDVL: checks 
+*** TURN *** [4s 9h Kh] [Qh]
+bmwmann8: checks 
+SDVL: bets $0.02
+bmwmann8: folds 
+Uncalled bet ($0.02) returned to SDVL
+SDVL collected $0.05 from pot
+SDVL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4s 9h Kh Qh]
+Seat 1: bmwmann8 (big blind) folded on the Turn
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL collected ($0.05)
+Seat 5: Mateo228757 folded before Flop (didn't bet)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet (button) folded before Flop (didn't bet)
+Seat 9: Irishka684 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230687459725:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:02:31 PT [2021/10/17 17:02:31 ET]
+Table 'Sadachbia III' 9-max Seat #9 is the button
+Seat 1: bmwmann8 ($1.87 in chips) 
+Seat 3: Dorex2007 ($2.19 in chips) 
+Seat 4: SDVL ($2.49 in chips) 
+Seat 5: Mateo228757 ($0.77 in chips) 
+Seat 6: Torcicolornd ($1.69 in chips) 
+Seat 7: ripelnet ($2.20 in chips) 
+Seat 9: Irishka684 ($2.30 in chips) 
+bmwmann8: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Ts]
+SDVL: raises $0.02 to $0.04
+Mateo228757: folds 
+Torcicolornd: folds 
+ripelnet: folds 
+SUPERFISH35 leaves the table
+Irishka684: folds 
+bmwmann8: calls $0.03
+Dorex2007: folds 
+*** FLOP *** [7h 3s 2s]
+bmwmann8: bets $0.05
+SDVL: folds 
+Uncalled bet ($0.05) returned to bmwmann8
+bmwmann8 collected $0.10 from pot
+bmwmann8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [7h 3s 2s]
+Seat 1: bmwmann8 (small blind) collected ($0.10)
+Seat 3: Dorex2007 (big blind) folded before Flop
+Seat 4: SDVL folded on the Flop
+Seat 5: Mateo228757 folded before Flop (didn't bet)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 9: Irishka684 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687475932:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:03:03 PT [2021/10/17 17:03:03 ET]
+Table 'Sadachbia III' 9-max Seat #1 is the button
+Seat 1: bmwmann8 ($1.93 in chips) 
+Seat 3: Dorex2007 ($2.17 in chips) 
+Seat 4: SDVL ($2.45 in chips) 
+Seat 5: Mateo228757 ($0.77 in chips) 
+Seat 6: Torcicolornd ($1.69 in chips) 
+Seat 7: ripelnet ($2.20 in chips) 
+Seat 9: Irishka684 ($2.30 in chips) 
+Dorex2007: posts small blind $0.01
+SDVL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 6d]
+Mateo228757: raises $0.03 to $0.05
+Torcicolornd: folds 
+ripelnet: folds 
+Irishka684: folds 
+bmwmann8: folds 
+Dorex2007: folds 
+SDVL has timed out
+SDVL: folds 
+Uncalled bet ($0.03) returned to Mateo228757
+Mateo228757 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: bmwmann8 (button) folded before Flop (didn't bet)
+Seat 3: Dorex2007 (small blind) folded before Flop
+Seat 4: SDVL (big blind) folded before Flop
+Seat 5: Mateo228757 collected ($0.05)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687517091:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:04:07 PT [2021/10/17 17:04:07 ET]
+Table 'Sadachbia III' 9-max Seat #3 is the button
+Seat 1: bmwmann8 ($1.93 in chips) 
+Seat 3: Dorex2007 ($2.16 in chips) 
+Seat 5: Mateo228757 ($0.80 in chips) 
+Seat 6: Torcicolornd ($1.69 in chips) 
+Seat 7: ripelnet ($2.20 in chips) 
+Seat 9: Irishka684 ($2.30 in chips) 
+Mateo228757: posts small blind $0.01
+Torcicolornd: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Jd]
+ripelnet: folds 
+Irishka684: folds 
+bmwmann8: folds 
+Dorex2007: raises $0.02 to $0.04
+Mateo228757: calls $0.03
+Torcicolornd: folds 
+*** FLOP *** [5d 5h 3d]
+Mateo228757: checks 
+Dorex2007: bets $0.07
+Mateo228757: folds 
+Uncalled bet ($0.07) returned to Dorex2007
+Dorex2007 collected $0.10 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [5d 5h 3d]
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 3: Dorex2007 (button) collected ($0.10)
+Seat 5: Mateo228757 (small blind) folded on the Flop
+Seat 6: Torcicolornd (big blind) folded before Flop
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687527915:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:04:27 PT [2021/10/17 17:04:27 ET]
+Table 'Sadachbia III' 9-max Seat #5 is the button
+Seat 1: bmwmann8 ($1.93 in chips) 
+Seat 3: Dorex2007 ($2.22 in chips) 
+Seat 5: Mateo228757 ($0.76 in chips) 
+Seat 6: Torcicolornd ($1.67 in chips) 
+Seat 7: ripelnet ($2.20 in chips) 
+Seat 9: Irishka684 ($2.30 in chips) 
+Torcicolornd: posts small blind $0.01
+ripelnet: posts big blind $0.02
+SDVL: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 9c]
+Irishka684: folds 
+bmwmann8: folds 
+Dorex2007: folds 
+Mateo228757: folds 
+Torcicolornd: raises $0.02 to $0.04
+ripelnet: calls $0.02
+*** FLOP *** [3d 2h Js]
+Torcicolornd: bets $0.04
+ripelnet: calls $0.04
+*** TURN *** [3d 2h Js] [4s]
+Torcicolornd: bets $0.08
+ripelnet: calls $0.08
+*** RIVER *** [3d 2h Js 4s] [Ah]
+Torcicolornd: bets $0.16
+ripelnet: folds 
+Uncalled bet ($0.16) returned to Torcicolornd
+Torcicolornd collected $0.31 from pot
+Torcicolornd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [3d 2h Js 4s Ah]
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Mateo228757 (button) folded before Flop (didn't bet)
+Seat 6: Torcicolornd (small blind) collected ($0.31)
+Seat 7: ripelnet (big blind) folded on the River
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687549912:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:05:08 PT [2021/10/17 17:05:08 ET]
+Table 'Sadachbia III' 9-max Seat #6 is the button
+Seat 1: bmwmann8 ($1.93 in chips) 
+Seat 3: Dorex2007 ($2.22 in chips) 
+Seat 5: Mateo228757 ($0.76 in chips) 
+Seat 6: Torcicolornd ($1.82 in chips) 
+Seat 7: ripelnet ($2.04 in chips) 
+Seat 9: Irishka684 ($2.30 in chips) 
+ripelnet: posts small blind $0.01
+Irishka684: posts big blind $0.02
+SDVL: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 9c]
+bmwmann8: folds 
+Dorex2007: folds 
+Mateo228757: raises $0.03 to $0.05
+Torcicolornd: folds 
+ripelnet: folds 
+Irishka684: folds 
+Uncalled bet ($0.03) returned to Mateo228757
+Mateo228757 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Mateo228757 collected ($0.05)
+Seat 6: Torcicolornd (button) folded before Flop (didn't bet)
+Seat 7: ripelnet (small blind) folded before Flop
+Seat 9: Irishka684 (big blind) folded before Flop
+
+
+
+PokerStars Hand #230687571004:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:05:31 PT [2021/10/17 17:05:31 ET]
+Table 'Sadachbia III' 9-max Seat #7 is the button
+Seat 1: bmwmann8 ($1.93 in chips) 
+Seat 3: Dorex2007 ($2.22 in chips) 
+Seat 5: Mateo228757 ($0.79 in chips) 
+Seat 6: Torcicolornd ($1.82 in chips) 
+Seat 7: ripelnet ($2.03 in chips) 
+Seat 9: Irishka684 ($2.28 in chips) 
+Irishka684: posts small blind $0.01
+bmwmann8: posts big blind $0.02
+SDVL: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 9c]
+Dorex2007: folds 
+Mateo228757: folds 
+Torcicolornd: raises $0.04 to $0.06
+ripelnet: raises $0.15 to $0.21
+Irishka684: folds 
+bmwmann8: folds 
+Torcicolornd: calls $0.15
+*** FLOP *** [Td 7h 3s]
+Torcicolornd: checks 
+ripelnet: bets $0.32
+Torcicolornd: folds 
+Uncalled bet ($0.32) returned to ripelnet
+ripelnet collected $0.43 from pot
+ripelnet: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Td 7h 3s]
+Seat 1: bmwmann8 (big blind) folded before Flop
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Mateo228757 folded before Flop (didn't bet)
+Seat 6: Torcicolornd folded on the Flop
+Seat 7: ripelnet (button) collected ($0.43)
+Seat 9: Irishka684 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230687592532:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:06:12 PT [2021/10/17 17:06:12 ET]
+Table 'Sadachbia III' 9-max Seat #9 is the button
+Seat 1: bmwmann8 ($1.91 in chips) 
+Seat 3: Dorex2007 ($2.22 in chips) 
+Seat 5: Mateo228757 ($0.79 in chips) 
+Seat 6: Torcicolornd ($1.61 in chips) 
+Seat 7: ripelnet ($2.25 in chips) 
+Seat 9: Irishka684 ($2.27 in chips) 
+bmwmann8: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+SDVL: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 7d]
+Mateo228757: raises $0.03 to $0.05
+Torcicolornd: folds 
+ripelnet: folds 
+Irishka684: folds 
+bmwmann8: folds 
+Dorex2007: folds 
+Uncalled bet ($0.03) returned to Mateo228757
+Mateo228757 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: bmwmann8 (small blind) folded before Flop
+Seat 3: Dorex2007 (big blind) folded before Flop
+Seat 5: Mateo228757 collected ($0.05)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 9: Irishka684 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687598765:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:06:23 PT [2021/10/17 17:06:23 ET]
+Table 'Sadachbia III' 9-max Seat #1 is the button
+Seat 1: bmwmann8 ($1.90 in chips) 
+Seat 3: Dorex2007 ($2.20 in chips) 
+Seat 4: SDVL ($2.43 in chips) 
+Seat 5: Mateo228757 ($0.82 in chips) 
+Seat 6: Torcicolornd ($1.61 in chips) 
+Seat 7: ripelnet ($2.25 in chips) 
+Seat 9: Irishka684 ($2.27 in chips) 
+Dorex2007: posts small blind $0.01
+SDVL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 2d]
+Mateo228757: folds 
+Torcicolornd: folds 
+ripelnet: raises $0.02 to $0.04
+Irishka684: folds 
+bmwmann8: calls $0.04
+Dorex2007: folds 
+SDVL: calls $0.02
+*** FLOP *** [2c 3h 2s]
+SDVL: checks 
+ripelnet: checks 
+bmwmann8: checks 
+*** TURN *** [2c 3h 2s] [4d]
+SDVL: checks 
+ripelnet: checks 
+bmwmann8: checks 
+*** RIVER *** [2c 3h 2s 4d] [Js]
+SDVL: checks 
+ripelnet: checks 
+bmwmann8: checks 
+*** SHOW DOWN ***
+SDVL: shows [6s 7s] (a pair of Deuces)
+ripelnet: shows [Jd Ac] (two pair, Jacks and Deuces)
+bmwmann8: mucks hand 
+ripelnet collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2c 3h 2s 4d Js]
+Seat 1: bmwmann8 (button) mucked [Kc 9h]
+Seat 3: Dorex2007 (small blind) folded before Flop
+Seat 4: SDVL (big blind) showed [6s 7s] and lost with a pair of Deuces
+Seat 5: Mateo228757 folded before Flop (didn't bet)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet showed [Jd Ac] and won ($0.13) with two pair, Jacks and Deuces
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687627217:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:07:18 PT [2021/10/17 17:07:18 ET]
+Table 'Sadachbia III' 9-max Seat #3 is the button
+Seat 1: bmwmann8 ($1.86 in chips) 
+Seat 3: Dorex2007 ($2.19 in chips) 
+Seat 4: SDVL ($2.39 in chips) 
+Seat 5: Mateo228757 ($0.82 in chips) 
+Seat 6: Torcicolornd ($1.61 in chips) 
+Seat 7: ripelnet ($2.34 in chips) 
+Seat 9: Irishka684 ($2.27 in chips) 
+SDVL: posts small blind $0.01
+Mateo228757: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 3c]
+Torcicolornd: folds 
+ripelnet: folds 
+Irishka684: raises $0.04 to $0.06
+bmwmann8: folds 
+Dorex2007: folds 
+SDVL: folds 
+Mateo228757: folds 
+Uncalled bet ($0.04) returned to Irishka684
+Irishka684 collected $0.05 from pot
+Irishka684: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 3: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 4: SDVL (small blind) folded before Flop
+Seat 5: Mateo228757 (big blind) folded before Flop
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 9: Irishka684 collected ($0.05)
+
+
+
+PokerStars Hand #230687637075:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:07:36 PT [2021/10/17 17:07:36 ET]
+Table 'Sadachbia III' 9-max Seat #4 is the button
+Seat 1: bmwmann8 ($1.86 in chips) 
+Seat 3: Dorex2007 ($2.19 in chips) 
+Seat 4: SDVL ($2.38 in chips) 
+Seat 5: Mateo228757 ($0.80 in chips) 
+Seat 6: Torcicolornd ($1.61 in chips) 
+Seat 7: ripelnet ($2.34 in chips) 
+Seat 9: Irishka684 ($2.30 in chips) 
+Mateo228757: posts small blind $0.01
+Torcicolornd: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 2d]
+ripelnet: folds 
+Irishka684: raises $0.04 to $0.06
+bmwmann8: calls $0.06
+Dorex2007: folds 
+SDVL: calls $0.06
+Mateo228757: folds 
+Torcicolornd: calls $0.04
+*** FLOP *** [2s Jd 4h]
+Torcicolornd: checks 
+Irishka684: bets $0.12
+bmwmann8: folds 
+SDVL: folds 
+Torcicolornd: folds 
+Uncalled bet ($0.12) returned to Irishka684
+Irishka684 collected $0.24 from pot
+Irishka684: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2s Jd 4h]
+Seat 1: bmwmann8 folded on the Flop
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL (button) folded on the Flop
+Seat 5: Mateo228757 (small blind) folded before Flop
+Seat 6: Torcicolornd (big blind) folded on the Flop
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 9: Irishka684 collected ($0.24)
+
+
+
+PokerStars Hand #230687664405:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:08:28 PT [2021/10/17 17:08:28 ET]
+Table 'Sadachbia III' 9-max Seat #5 is the button
+Seat 1: bmwmann8 ($1.80 in chips) 
+Seat 3: Dorex2007 ($2.19 in chips) 
+Seat 4: SDVL ($2.32 in chips) 
+Seat 5: Mateo228757 ($0.79 in chips) 
+Seat 6: Torcicolornd ($1.55 in chips) 
+Seat 7: ripelnet ($2.34 in chips) 
+Seat 9: Irishka684 ($2.48 in chips) 
+Torcicolornd: posts small blind $0.01
+ripelnet: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Tc]
+Irishka684: raises $0.04 to $0.06
+bmwmann8: folds 
+Dorex2007: folds 
+SDVL: folds 
+Mateo228757: folds 
+Torcicolornd: folds 
+ripelnet: folds 
+Uncalled bet ($0.04) returned to Irishka684
+Irishka684 collected $0.05 from pot
+Irishka684: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: Mateo228757 (button) folded before Flop (didn't bet)
+Seat 6: Torcicolornd (small blind) folded before Flop
+Seat 7: ripelnet (big blind) folded before Flop
+Seat 9: Irishka684 collected ($0.05)
+
+
+
+PokerStars Hand #230687674940:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:08:48 PT [2021/10/17 17:08:48 ET]
+Table 'Sadachbia III' 9-max Seat #6 is the button
+Seat 1: bmwmann8 ($1.80 in chips) 
+Seat 3: Dorex2007 ($2.19 in chips) 
+Seat 4: SDVL ($2.32 in chips) 
+Seat 5: Mateo228757 ($0.79 in chips) 
+Seat 6: Torcicolornd ($1.54 in chips) 
+Seat 7: ripelnet ($2.32 in chips) 
+Seat 9: Irishka684 ($2.51 in chips) 
+ripelnet: posts small blind $0.01
+Irishka684: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Kh]
+bmwmann8: folds 
+Dorex2007: folds 
+SDVL: folds 
+Mateo228757: folds 
+Torcicolornd: raises $0.04 to $0.06
+ripelnet: folds 
+Irishka684: folds 
+Uncalled bet ($0.04) returned to Torcicolornd
+Torcicolornd collected $0.05 from pot
+Torcicolornd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: Mateo228757 folded before Flop (didn't bet)
+Seat 6: Torcicolornd (button) collected ($0.05)
+Seat 7: ripelnet (small blind) folded before Flop
+Seat 9: Irishka684 (big blind) folded before Flop
+
+
+
+PokerStars Hand #230687683721:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:09:05 PT [2021/10/17 17:09:05 ET]
+Table 'Sadachbia III' 9-max Seat #7 is the button
+Seat 1: bmwmann8 ($1.80 in chips) 
+Seat 3: Dorex2007 ($2.19 in chips) 
+Seat 4: SDVL ($2.32 in chips) 
+Seat 5: Mateo228757 ($0.79 in chips) 
+Seat 6: Torcicolornd ($1.57 in chips) 
+Seat 7: ripelnet ($2.31 in chips) 
+Seat 9: Irishka684 ($2.49 in chips) 
+Irishka684: posts small blind $0.01
+bmwmann8: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Ah]
+Dorex2007: raises $0.04 to $0.06
+SDVL: folds 
+Mateo228757: folds 
+Torcicolornd: folds 
+ripelnet: folds 
+Irishka684: folds 
+bmwmann8: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: bmwmann8 (big blind) folded before Flop
+Seat 3: Dorex2007 collected ($0.05)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: Mateo228757 folded before Flop (didn't bet)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet (button) folded before Flop (didn't bet)
+Seat 9: Irishka684 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230687689643:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:09:16 PT [2021/10/17 17:09:16 ET]
+Table 'Sadachbia III' 9-max Seat #9 is the button
+Seat 1: bmwmann8 ($1.78 in chips) 
+Seat 3: Dorex2007 ($2.22 in chips) 
+Seat 4: SDVL ($2.32 in chips) 
+Seat 5: Mateo228757 ($0.79 in chips) 
+Seat 6: Torcicolornd ($1.57 in chips) 
+Seat 7: ripelnet ($2.31 in chips) 
+Seat 9: Irishka684 ($2.48 in chips) 
+bmwmann8: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 6s]
+SDVL: folds 
+Mateo228757: raises $0.03 to $0.05
+Torcicolornd: folds 
+ripelnet: folds 
+Irishka684: folds 
+edoschenko joins the table at seat #2 
+bmwmann8: folds 
+Dorex2007: folds 
+Uncalled bet ($0.03) returned to Mateo228757
+Mateo228757 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: bmwmann8 (small blind) folded before Flop
+Seat 3: Dorex2007 (big blind) folded before Flop
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: Mateo228757 collected ($0.05)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 9: Irishka684 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687697350:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:09:31 PT [2021/10/17 17:09:31 ET]
+Table 'Sadachbia III' 9-max Seat #1 is the button
+Seat 1: bmwmann8 ($1.77 in chips) 
+Seat 3: Dorex2007 ($2.20 in chips) 
+Seat 4: SDVL ($2.32 in chips) 
+Seat 5: Mateo228757 ($0.82 in chips) 
+Seat 6: Torcicolornd ($1.57 in chips) 
+Seat 7: ripelnet ($2.31 in chips) 
+Seat 9: Irishka684 ($2.48 in chips) 
+Dorex2007: posts small blind $0.01
+SDVL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Qc]
+Mateo228757: folds 
+Torcicolornd: folds 
+droctagon101 joins the table at seat #8 
+ripelnet: raises $0.03 to $0.05
+Irishka684: folds 
+bmwmann8: folds 
+Dorex2007: folds 
+SDVL: folds 
+Uncalled bet ($0.03) returned to ripelnet
+ripelnet collected $0.05 from pot
+ripelnet: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: bmwmann8 (button) folded before Flop (didn't bet)
+Seat 3: Dorex2007 (small blind) folded before Flop
+Seat 4: SDVL (big blind) folded before Flop
+Seat 5: Mateo228757 folded before Flop (didn't bet)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet collected ($0.05)
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687707351:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:09:50 PT [2021/10/17 17:09:50 ET]
+Table 'Sadachbia III' 9-max Seat #3 is the button
+Seat 1: bmwmann8 ($1.77 in chips) 
+Seat 3: Dorex2007 ($2.19 in chips) 
+Seat 4: SDVL ($2.30 in chips) 
+Seat 5: Mateo228757 ($0.82 in chips) 
+Seat 6: Torcicolornd ($1.57 in chips) 
+Seat 7: ripelnet ($2.34 in chips) 
+Seat 9: Irishka684 ($2.48 in chips) 
+SDVL: posts small blind $0.01
+Mateo228757: posts big blind $0.02
+droctagon101: sits out 
+edoschenko: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 5h]
+Torcicolornd: folds 
+ripelnet: folds 
+Irishka684: folds 
+bmwmann8: calls $0.02
+Dorex2007: folds 
+SDVL: calls $0.01
+Mateo228757: checks 
+*** FLOP *** [9c Kd Qs]
+SDVL: checks 
+Mateo228757: checks 
+bmwmann8: checks 
+*** TURN *** [9c Kd Qs] [Td]
+SDVL: checks 
+Mateo228757: checks 
+bmwmann8: checks 
+*** RIVER *** [9c Kd Qs Td] [6d]
+SDVL: checks 
+Mateo228757: checks 
+bmwmann8: checks 
+*** SHOW DOWN ***
+SDVL: shows [7c Jd] (a straight, Nine to King)
+Mateo228757: mucks hand 
+bmwmann8: mucks hand 
+SDVL collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [9c Kd Qs Td 6d]
+Seat 1: bmwmann8 mucked [As 8s]
+Seat 3: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 4: SDVL (small blind) showed [7c Jd] and won ($0.06) with a straight, Nine to King
+Seat 5: Mateo228757 (big blind) mucked [6s 5s]
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687730432:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:10:34 PT [2021/10/17 17:10:34 ET]
+Table 'Sadachbia III' 9-max Seat #4 is the button
+Seat 1: bmwmann8 ($1.75 in chips) 
+Seat 3: Dorex2007 ($2.19 in chips) 
+Seat 4: SDVL ($2.34 in chips) 
+Seat 5: Mateo228757 ($0.80 in chips) 
+Seat 6: Torcicolornd ($1.57 in chips) 
+Seat 7: ripelnet ($2.34 in chips) 
+Seat 9: Irishka684 ($2.48 in chips) 
+Mateo228757: posts small blind $0.01
+Torcicolornd: posts big blind $0.02
+droctagon101: sits out 
+edoschenko: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 7s]
+ripelnet: folds 
+Irishka684: folds 
+bmwmann8: folds 
+Dorex2007: folds 
+SDVL: folds 
+Mateo228757: raises $0.04 to $0.06
+Torcicolornd: folds 
+Uncalled bet ($0.04) returned to Mateo228757
+Mateo228757 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL (button) folded before Flop (didn't bet)
+Seat 5: Mateo228757 (small blind) collected ($0.04)
+Seat 6: Torcicolornd (big blind) folded before Flop
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687740089:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:10:47 PT [2021/10/17 17:10:47 ET]
+Table 'Sadachbia III' 9-max Seat #5 is the button
+Seat 1: bmwmann8 ($1.75 in chips) 
+Seat 3: Dorex2007 ($2.19 in chips) 
+Seat 4: SDVL ($2.34 in chips) 
+Seat 5: Mateo228757 ($0.82 in chips) 
+Seat 6: Torcicolornd ($1.55 in chips) 
+Seat 7: ripelnet ($2.34 in chips) 
+Seat 9: Irishka684 ($2.48 in chips) 
+Torcicolornd: posts small blind $0.01
+ripelnet: posts big blind $0.02
+droctagon101: sits out 
+edoschenko: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Td]
+Irishka684: folds 
+bmwmann8: calls $0.02
+Dorex2007: folds 
+SDVL: folds 
+Mateo228757: folds 
+Torcicolornd: folds 
+ripelnet: checks 
+*** FLOP *** [As 3s 4d]
+ripelnet: checks 
+bmwmann8: checks 
+*** TURN *** [As 3s 4d] [3c]
+ripelnet: checks 
+bmwmann8: checks 
+*** RIVER *** [As 3s 4d 3c] [3h]
+ripelnet: checks 
+bmwmann8: checks 
+*** SHOW DOWN ***
+ripelnet: shows [7s 2d] (three of a kind, Threes)
+bmwmann8: shows [Th Js] (three of a kind, Threes - Ace+Jack kicker)
+bmwmann8 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [As 3s 4d 3c 3h]
+Seat 1: bmwmann8 showed [Th Js] and won ($0.05) with three of a kind, Threes
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: Mateo228757 (button) folded before Flop (didn't bet)
+Seat 6: Torcicolornd (small blind) folded before Flop
+Seat 7: ripelnet (big blind) showed [7s 2d] and lost with three of a kind, Threes
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687761995:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:11:29 PT [2021/10/17 17:11:29 ET]
+Table 'Sadachbia III' 9-max Seat #6 is the button
+Seat 1: bmwmann8 ($1.78 in chips) 
+Seat 3: Dorex2007 ($2.19 in chips) 
+Seat 4: SDVL ($2.34 in chips) 
+Seat 5: Mateo228757 ($0.82 in chips) 
+Seat 6: Torcicolornd ($1.54 in chips) 
+Seat 7: ripelnet ($2.32 in chips) 
+Seat 8: droctagon101 ($2 in chips) 
+Seat 9: Irishka684 ($2.48 in chips) 
+ripelnet: posts small blind $0.01
+droctagon101: posts big blind $0.02
+edoschenko: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Ah]
+Irishka684: folds 
+bmwmann8: folds 
+Dorex2007: folds 
+SDVL: folds 
+Mateo228757: folds 
+Torcicolornd: folds 
+ripelnet: folds 
+Uncalled bet ($0.01) returned to droctagon101
+droctagon101 collected $0.02 from pot
+droctagon101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: Mateo228757 folded before Flop (didn't bet)
+Seat 6: Torcicolornd (button) folded before Flop (didn't bet)
+Seat 7: ripelnet (small blind) folded before Flop
+Seat 8: droctagon101 (big blind) collected ($0.02)
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687773041:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:11:50 PT [2021/10/17 17:11:50 ET]
+Table 'Sadachbia III' 9-max Seat #7 is the button
+Seat 1: bmwmann8 ($1.78 in chips) 
+Seat 3: Dorex2007 ($2.19 in chips) 
+Seat 4: SDVL ($2.34 in chips) 
+Seat 5: Mateo228757 ($0.82 in chips) 
+Seat 6: Torcicolornd ($1.54 in chips) 
+Seat 7: ripelnet ($2.31 in chips) 
+Seat 8: droctagon101 ($2.01 in chips) 
+Seat 9: Irishka684 ($2.48 in chips) 
+droctagon101: posts small blind $0.01
+Irishka684: posts big blind $0.02
+edoschenko: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 8d]
+bmwmann8: folds 
+Dorex2007: folds 
+SDVL: folds 
+Mateo228757: raises $0.03 to $0.05
+Torcicolornd: calls $0.05
+ripelnet: folds 
+droctagon101: folds 
+Irishka684: folds 
+*** FLOP *** [Ks Ad 3s]
+Mateo228757: checks 
+Torcicolornd: checks 
+*** TURN *** [Ks Ad 3s] [6h]
+Mateo228757: checks 
+Torcicolornd: bets $0.07
+Mateo228757: raises $0.16 to $0.23
+Torcicolornd: folds 
+Uncalled bet ($0.16) returned to Mateo228757
+Mateo228757 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Ks Ad 3s 6h]
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: Mateo228757 collected ($0.26)
+Seat 6: Torcicolornd folded on the Turn
+Seat 7: ripelnet (button) folded before Flop (didn't bet)
+Seat 8: droctagon101 (small blind) folded before Flop
+Seat 9: Irishka684 (big blind) folded before Flop
+
+
+
+PokerStars Hand #230687806595:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:12:54 PT [2021/10/17 17:12:54 ET]
+Table 'Sadachbia III' 9-max Seat #8 is the button
+Seat 1: bmwmann8 ($1.78 in chips) 
+Seat 3: Dorex2007 ($2.19 in chips) 
+Seat 4: SDVL ($2.34 in chips) 
+Seat 5: Mateo228757 ($0.96 in chips) 
+Seat 6: Torcicolornd ($1.42 in chips) 
+Seat 7: ripelnet ($2.31 in chips) 
+Seat 8: droctagon101 ($2 in chips) 
+Seat 9: Irishka684 ($2.46 in chips) 
+Irishka684: posts small blind $0.01
+bmwmann8: posts big blind $0.02
+edoschenko: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Jc]
+Dorex2007: folds 
+SDVL: folds 
+Mateo228757: folds 
+Torcicolornd: raises $0.02 to $0.04
+ripelnet: folds 
+droctagon101: folds 
+Irishka684: folds 
+bmwmann8: folds 
+Uncalled bet ($0.02) returned to Torcicolornd
+Torcicolornd collected $0.05 from pot
+Torcicolornd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: bmwmann8 (big blind) folded before Flop
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: Mateo228757 folded before Flop (didn't bet)
+Seat 6: Torcicolornd collected ($0.05)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: droctagon101 (button) folded before Flop (didn't bet)
+Seat 9: Irishka684 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230687816073:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:13:13 PT [2021/10/17 17:13:13 ET]
+Table 'Sadachbia III' 9-max Seat #9 is the button
+Seat 1: bmwmann8 ($1.76 in chips) 
+Seat 2: edoschenko ($2 in chips) 
+Seat 3: Dorex2007 ($2.19 in chips) 
+Seat 4: SDVL ($2.34 in chips) 
+Seat 5: Mateo228757 ($0.96 in chips) 
+Seat 6: Torcicolornd ($1.45 in chips) 
+Seat 7: ripelnet ($2.31 in chips) 
+Seat 8: droctagon101 ($2 in chips) 
+Seat 9: Irishka684 ($2.45 in chips) 
+bmwmann8: posts small blind $0.01
+edoschenko: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Kc]
+Dorex2007: folds 
+SDVL: folds 
+Mateo228757: raises $0.03 to $0.05
+Torcicolornd: calls $0.05
+ripelnet: folds 
+droctagon101: folds 
+Irishka684: folds 
+bmwmann8: folds 
+edoschenko: folds 
+*** FLOP *** [9h 2s 7s]
+Mateo228757: checks 
+Torcicolornd: bets $0.07
+Mateo228757: folds 
+Uncalled bet ($0.07) returned to Torcicolornd
+Torcicolornd collected $0.13 from pot
+Torcicolornd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9h 2s 7s]
+Seat 1: bmwmann8 (small blind) folded before Flop
+Seat 2: edoschenko (big blind) folded before Flop
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: Mateo228757 folded on the Flop
+Seat 6: Torcicolornd collected ($0.13)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: droctagon101 folded before Flop (didn't bet)
+Seat 9: Irishka684 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687836080:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:13:51 PT [2021/10/17 17:13:51 ET]
+Table 'Sadachbia III' 9-max Seat #1 is the button
+Seat 1: bmwmann8 ($1.75 in chips) 
+Seat 2: edoschenko ($1.98 in chips) 
+Seat 3: Dorex2007 ($2.19 in chips) 
+Seat 4: SDVL ($2.34 in chips) 
+Seat 5: Mateo228757 ($0.91 in chips) 
+Seat 6: Torcicolornd ($1.53 in chips) 
+Seat 7: ripelnet ($2.31 in chips) 
+Seat 8: droctagon101 ($2 in chips) 
+Seat 9: Irishka684 ($2.45 in chips) 
+edoschenko: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 5c]
+SDVL has timed out
+SDVL: folds 
+Mateo228757: folds 
+Torcicolornd: raises $0.02 to $0.04
+ripelnet: folds 
+droctagon101: folds 
+Irishka684: calls $0.04
+bmwmann8: calls $0.04
+edoschenko: folds 
+Dorex2007: folds 
+*** FLOP *** [Qd 6s 4c]
+Torcicolornd: checks 
+Irishka684: checks 
+bmwmann8: bets $0.07
+Torcicolornd: folds 
+Irishka684: folds 
+Uncalled bet ($0.07) returned to bmwmann8
+bmwmann8 collected $0.14 from pot
+bmwmann8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qd 6s 4c]
+Seat 1: bmwmann8 (button) collected ($0.14)
+Seat 2: edoschenko (small blind) folded before Flop
+Seat 3: Dorex2007 (big blind) folded before Flop
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 5: Mateo228757 folded before Flop (didn't bet)
+Seat 6: Torcicolornd folded on the Flop
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: droctagon101 folded before Flop (didn't bet)
+Seat 9: Irishka684 folded on the Flop
+
+
+
+PokerStars Hand #230687870104:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:14:56 PT [2021/10/17 17:14:56 ET]
+Table 'Sadachbia III' 9-max Seat #2 is the button
+Seat 1: bmwmann8 ($1.85 in chips) 
+Seat 2: edoschenko ($1.97 in chips) 
+Seat 3: Dorex2007 ($2.17 in chips) 
+Seat 4: SDVL ($2.34 in chips) 
+Seat 5: Mateo228757 ($0.91 in chips) 
+Seat 6: Torcicolornd ($1.49 in chips) 
+Seat 7: ripelnet ($2.31 in chips) 
+Seat 8: droctagon101 ($2 in chips) 
+Seat 9: Irishka684 ($2.41 in chips) 
+Dorex2007: posts small blind $0.01
+SDVL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Jh]
+Mateo228757: folds 
+Torcicolornd has timed out
+Torcicolornd: folds 
+ripelnet: folds 
+droctagon101: folds 
+Irishka684: folds 
+bmwmann8: folds 
+edoschenko: raises $0.05 to $0.07
+Dorex2007: calls $0.06
+SDVL: folds 
+*** FLOP *** [Qc Js Ad]
+Dorex2007: bets $0.15
+edoschenko: calls $0.15
+*** TURN *** [Qc Js Ad] [8d]
+Dorex2007: bets $0.22
+edoschenko: raises $1.53 to $1.75 and is all-in
+Dorex2007: calls $1.53
+*** RIVER *** [Qc Js Ad 8d] [5d]
+*** SHOW DOWN ***
+Dorex2007: shows [Ah Jh] (two pair, Aces and Jacks)
+edoschenko: shows [8c As] (two pair, Aces and Eights)
+Dorex2007 cashed out the hand for $3.48 | Cash Out Fee $0.04
+*** SUMMARY ***
+Total pot $3.96 | Rake $0.14 
+Board [Qc Js Ad 8d 5d]
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 2: edoschenko (button) showed [8c As] and lost with two pair, Aces and Eights
+Seat 3: Dorex2007 (small blind) showed [Ah Jh] and won ($3.82) with two pair, Aces and Jacks (pot not awarded as player cashed out)
+Seat 4: SDVL (big blind) folded before Flop
+Seat 5: Mateo228757 folded before Flop (didn't bet)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: droctagon101 folded before Flop (didn't bet)
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687920537:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:16:34 PT [2021/10/17 17:16:34 ET]
+Table 'Sadachbia III' 9-max Seat #3 is the button
+Seat 1: bmwmann8 ($1.85 in chips) 
+Seat 3: Dorex2007 ($3.68 in chips) 
+Seat 4: SDVL ($2.32 in chips) 
+Seat 5: Mateo228757 ($0.91 in chips) 
+Seat 6: Torcicolornd ($1.49 in chips) 
+Seat 7: ripelnet ($2.31 in chips) 
+Seat 8: droctagon101 ($2 in chips) 
+Seat 9: Irishka684 ($2.41 in chips) 
+SDVL: posts small blind $0.01
+Mateo228757: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Jc]
+Torcicolornd: folds 
+ripelnet: folds 
+droctagon101: folds 
+Irishka684: folds 
+edoschenko leaves the table
+bmwmann8: folds 
+Dorex2007: raises $0.02 to $0.04
+SDVL: folds 
+Mateo228757: calls $0.02
+*** FLOP *** [9d 8c 6d]
+Mateo228757: checks 
+Dorex2007: bets $0.06
+Mateo228757: calls $0.06
+*** TURN *** [9d 8c 6d] [Jh]
+Mateo228757: checks 
+wstway joins the table at seat #2 
+Dorex2007: bets $0.20
+Mateo228757: folds 
+Uncalled bet ($0.20) returned to Dorex2007
+Dorex2007 collected $0.20 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [9d 8c 6d Jh]
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 3: Dorex2007 (button) collected ($0.20)
+Seat 4: SDVL (small blind) folded before Flop
+Seat 5: Mateo228757 (big blind) folded on the Turn
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 7: ripelnet folded before Flop (didn't bet)
+Seat 8: droctagon101 folded before Flop (didn't bet)
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687939676:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:17:11 PT [2021/10/17 17:17:11 ET]
+Table 'Sadachbia III' 9-max Seat #4 is the button
+Seat 1: bmwmann8 ($1.85 in chips) 
+Seat 2: wstway ($2 in chips) 
+Seat 3: Dorex2007 ($3.78 in chips) 
+Seat 4: SDVL ($2.31 in chips) 
+Seat 5: Mateo228757 ($0.81 in chips) 
+Seat 6: Torcicolornd ($1.49 in chips) 
+Seat 7: ripelnet ($2.31 in chips) 
+Seat 8: droctagon101 ($2 in chips) 
+Seat 9: Irishka684 ($2.41 in chips) 
+Mateo228757: posts small blind $0.01
+Torcicolornd: posts big blind $0.02
+wstway: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 4d]
+ripelnet: raises $0.02 to $0.04
+droctagon101: folds 
+Irishka684: raises $0.16 to $0.20
+bmwmann8: folds 
+wstway: folds 
+Dorex2007: folds 
+SDVL: folds 
+Mateo228757: calls $0.19
+Torcicolornd: folds 
+ripelnet: calls $0.16
+*** FLOP *** [8d 5c Qc]
+Mateo228757: checks 
+ripelnet: checks 
+Irishka684: checks 
+*** TURN *** [8d 5c Qc] [7s]
+Mateo228757: bets $0.14
+ripelnet: raises $0.90 to $1.04
+Irishka684: folds 
+Mateo228757: calls $0.47 and is all-in
+Uncalled bet ($0.43) returned to ripelnet
+*** RIVER *** [8d 5c Qc 7s] [Td]
+*** SHOW DOWN ***
+Mateo228757: shows [Js Jc] (a pair of Jacks)
+ripelnet: shows [8s 8c] (three of a kind, Eights)
+ripelnet collected $1.79 from pot
+*** SUMMARY ***
+Total pot $1.86 | Rake $0.07 
+Board [8d 5c Qc 7s Td]
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 2: wstway folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL (button) folded before Flop (didn't bet)
+Seat 5: Mateo228757 (small blind) showed [Js Jc] and lost with a pair of Jacks
+Seat 6: Torcicolornd (big blind) folded before Flop
+Seat 7: ripelnet showed [8s 8c] and won ($1.79) with three of a kind, Eights
+Seat 8: droctagon101 folded before Flop (didn't bet)
+Seat 9: Irishka684 folded on the Turn
+
+
+
+PokerStars Hand #230687977435:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:18:26 PT [2021/10/17 17:18:26 ET]
+Table 'Sadachbia III' 9-max Seat #6 is the button
+Seat 1: bmwmann8 ($1.85 in chips) 
+Seat 2: wstway ($1.98 in chips) 
+Seat 3: Dorex2007 ($3.78 in chips) 
+Seat 4: SDVL ($2.31 in chips) 
+Seat 6: Torcicolornd ($1.47 in chips) 
+Seat 7: ripelnet ($3.29 in chips) 
+Seat 8: droctagon101 ($2 in chips) 
+Seat 9: Irishka684 ($2.21 in chips) 
+ripelnet: posts small blind $0.01
+droctagon101: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 2c]
+Irishka684: folds 
+bmwmann8: raises $0.04 to $0.06
+Mateo228757 leaves the table
+wstway has timed out
+wstway: folds 
+Dorex2007: folds 
+SDVL: folds 
+Torcicolornd: folds 
+ripelnet: folds 
+droctagon101: folds 
+Uncalled bet ($0.04) returned to bmwmann8
+bmwmann8 collected $0.05 from pot
+bmwmann8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: bmwmann8 collected ($0.05)
+Seat 2: wstway folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 6: Torcicolornd (button) folded before Flop (didn't bet)
+Seat 7: ripelnet (small blind) folded before Flop
+Seat 8: droctagon101 (big blind) folded before Flop
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230687992010:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:18:55 PT [2021/10/17 17:18:55 ET]
+Table 'Sadachbia III' 9-max Seat #7 is the button
+Seat 1: bmwmann8 ($1.88 in chips) 
+Seat 3: Dorex2007 ($3.78 in chips) 
+Seat 4: SDVL ($2.31 in chips) 
+Seat 6: Torcicolornd ($1.47 in chips) 
+Seat 7: ripelnet ($3.28 in chips) 
+Seat 8: droctagon101 ($1.98 in chips) 
+Seat 9: Irishka684 ($2.21 in chips) 
+droctagon101: posts small blind $0.01
+Irishka684: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 8h]
+bmwmann8: calls $0.02
+Dorex2007: folds 
+SDVL: calls $0.02
+Torcicolornd: raises $0.04 to $0.06
+ripelnet has timed out
+ripelnet: folds 
+droctagon101: folds 
+Irishka684: folds 
+bmwmann8: folds 
+SDVL: calls $0.04
+*** FLOP *** [Ad 2d Th]
+SDVL: checks 
+Torcicolornd: bets $0.08
+SDVL: folds 
+Uncalled bet ($0.08) returned to Torcicolornd
+Torcicolornd collected $0.16 from pot
+Torcicolornd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Ad 2d Th]
+Seat 1: bmwmann8 folded before Flop
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded on the Flop
+Seat 6: Torcicolornd collected ($0.16)
+Seat 7: ripelnet (button) folded before Flop (didn't bet)
+Seat 8: droctagon101 (small blind) folded before Flop
+Seat 9: Irishka684 (big blind) folded before Flop
+
+
+
+PokerStars Hand #230688023473:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:19:57 PT [2021/10/17 17:19:57 ET]
+Table 'Sadachbia III' 9-max Seat #8 is the button
+Seat 1: bmwmann8 ($1.86 in chips) 
+Seat 2: wstway ($1.98 in chips) 
+Seat 3: Dorex2007 ($3.78 in chips) 
+Seat 4: SDVL ($2.25 in chips) 
+Seat 6: Torcicolornd ($1.57 in chips) 
+Seat 8: droctagon101 ($1.97 in chips) 
+Seat 9: Irishka684 ($2.19 in chips) 
+Irishka684: posts small blind $0.01
+bmwmann8: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Kc]
+wstway: folds 
+Dorex2007: folds 
+SDVL: folds 
+Torcicolornd: raises $0.02 to $0.04
+droctagon101: folds 
+Irishka684: folds 
+bmwmann8: calls $0.02
+*** FLOP *** [Tc 5s Jh]
+bmwmann8: bets $0.02
+Torcicolornd: raises $0.02 to $0.04
+bmwmann8: calls $0.02
+*** TURN *** [Tc 5s Jh] [7c]
+bmwmann8: checks 
+Torcicolornd: bets $0.08
+bmwmann8: folds 
+Uncalled bet ($0.08) returned to Torcicolornd
+Torcicolornd collected $0.16 from pot
+Torcicolornd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Tc 5s Jh 7c]
+Seat 1: bmwmann8 (big blind) folded on the Turn
+Seat 2: wstway folded before Flop (didn't bet)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 6: Torcicolornd collected ($0.16)
+Seat 8: droctagon101 (button) folded before Flop (didn't bet)
+Seat 9: Irishka684 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230688048347:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:20:45 PT [2021/10/17 17:20:45 ET]
+Table 'Sadachbia III' 9-max Seat #9 is the button
+Seat 1: bmwmann8 ($1.78 in chips) 
+Seat 2: wstway ($1.98 in chips) 
+Seat 3: Dorex2007 ($3.78 in chips) 
+Seat 4: SDVL ($2.25 in chips) 
+Seat 6: Torcicolornd ($1.65 in chips) 
+Seat 8: droctagon101 ($1.97 in chips) 
+Seat 9: Irishka684 ($2.18 in chips) 
+bmwmann8: posts small blind $0.01
+wstway: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 7c]
+Dorex2007: folds 
+SDVL: folds 
+Torcicolornd: raises $0.04 to $0.06
+droctagon101: folds 
+Irishka684: folds 
+bmwmann8: folds 
+wstway: calls $0.04
+*** FLOP *** [2h Jh Jd]
+wstway: checks 
+Torcicolornd: bets $0.07
+wstway: calls $0.07
+*** TURN *** [2h Jh Jd] [Qh]
+wstway: bets $0.13
+Torcicolornd: calls $0.13
+*** RIVER *** [2h Jh Jd Qh] [Qd]
+wstway: bets $0.26
+Torcicolornd: raises $1.03 to $1.29
+wstway: calls $1.03
+*** SHOW DOWN ***
+Torcicolornd: shows [Ah Qs] (a full house, Queens full of Jacks)
+wstway: mucks hand 
+Torcicolornd collected $3 from pot
+*** SUMMARY ***
+Total pot $3.11 | Rake $0.11 
+Board [2h Jh Jd Qh Qd]
+Seat 1: bmwmann8 (small blind) folded before Flop
+Seat 2: wstway (big blind) mucked [Js 3s]
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 6: Torcicolornd showed [Ah Qs] and won ($3) with a full house, Queens full of Jacks
+Seat 8: droctagon101 folded before Flop (didn't bet)
+Seat 9: Irishka684 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230688083606:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:21:55 PT [2021/10/17 17:21:55 ET]
+Table 'Sadachbia III' 9-max Seat #1 is the button
+Seat 1: bmwmann8 ($1.77 in chips) 
+Seat 2: wstway ($0.43 in chips) 
+Seat 3: Dorex2007 ($3.78 in chips) 
+Seat 4: SDVL ($2.25 in chips) 
+Seat 6: Torcicolornd ($3.10 in chips) 
+Seat 8: droctagon101 ($1.97 in chips) 
+Seat 9: Irishka684 ($2.18 in chips) 
+wstway: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Tc]
+SDVL: folds 
+Torcicolornd: folds 
+droctagon101: folds 
+Irishka684: folds 
+bmwmann8: folds 
+wstway: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [Th Ad Qc]
+wstway: checks 
+Dorex2007: checks 
+*** TURN *** [Th Ad Qc] [4c]
+wstway: checks 
+Dorex2007: bets $0.08
+wstway: folds 
+Uncalled bet ($0.08) returned to Dorex2007
+Dorex2007 collected $0.04 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Th Ad Qc 4c]
+Seat 1: bmwmann8 (button) folded before Flop (didn't bet)
+Seat 2: wstway (small blind) folded on the Turn
+Seat 3: Dorex2007 (big blind) collected ($0.04)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 8: droctagon101 folded before Flop (didn't bet)
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230688099864:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:22:27 PT [2021/10/17 17:22:27 ET]
+Table 'Sadachbia III' 9-max Seat #2 is the button
+Seat 1: bmwmann8 ($1.77 in chips) 
+Seat 2: wstway ($0.41 in chips) 
+Seat 3: Dorex2007 ($3.80 in chips) 
+Seat 4: SDVL ($2.25 in chips) 
+Seat 6: Torcicolornd ($3.10 in chips) 
+Seat 8: droctagon101 ($1.97 in chips) 
+Seat 9: Irishka684 ($2.18 in chips) 
+Dorex2007: posts small blind $0.01
+SDVL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 5s]
+Torcicolornd: raises $0.02 to $0.04
+droctagon101: folds 
+Irishka684: folds 
+bmwmann8: folds 
+wstway: calls $0.04
+Dorex2007: folds 
+SDVL: calls $0.02
+*** FLOP *** [Js 2h 7d]
+SDVL: checks 
+Torcicolornd: checks 
+wstway: bets $0.13
+SDVL: folds 
+Torcicolornd: folds 
+Uncalled bet ($0.13) returned to wstway
+wstway collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Js 2h 7d]
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 2: wstway (button) collected ($0.13)
+Seat 3: Dorex2007 (small blind) folded before Flop
+Seat 4: SDVL (big blind) folded on the Flop
+Seat 6: Torcicolornd folded on the Flop
+Seat 8: droctagon101 folded before Flop (didn't bet)
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230688114902:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:22:57 PT [2021/10/17 17:22:57 ET]
+Table 'Sadachbia III' 9-max Seat #3 is the button
+Seat 1: bmwmann8 ($1.77 in chips) 
+Seat 2: wstway ($0.50 in chips) 
+Seat 3: Dorex2007 ($3.79 in chips) 
+Seat 4: SDVL ($2.21 in chips) 
+Seat 6: Torcicolornd ($3.06 in chips) 
+Seat 8: droctagon101 ($1.97 in chips) 
+Seat 9: Irishka684 ($2.18 in chips) 
+SDVL: posts small blind $0.01
+Torcicolornd: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts Kc]
+droctagon101: folds 
+Irishka684: folds 
+bmwmann8: folds 
+wstway: folds 
+Dorex2007: raises $0.04 to $0.06
+SDVL: folds 
+Torcicolornd: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 2: wstway folded before Flop (didn't bet)
+Seat 3: Dorex2007 (button) collected ($0.05)
+Seat 4: SDVL (small blind) folded before Flop
+Seat 6: Torcicolornd (big blind) folded before Flop
+Seat 8: droctagon101 folded before Flop (didn't bet)
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230688122112:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:23:12 PT [2021/10/17 17:23:12 ET]
+Table 'Sadachbia III' 9-max Seat #4 is the button
+Seat 1: bmwmann8 ($1.77 in chips) 
+Seat 2: wstway ($2 in chips) 
+Seat 3: Dorex2007 ($3.82 in chips) 
+Seat 4: SDVL ($2.20 in chips) 
+Seat 6: Torcicolornd ($3.04 in chips) 
+Seat 8: droctagon101 ($1.97 in chips) 
+Seat 9: Irishka684 ($2.18 in chips) 
+Torcicolornd: posts small blind $0.01
+droctagon101: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 9h]
+Irishka684: folds 
+bmwmann8: calls $0.02
+wstway: calls $0.02
+Dorex2007: folds 
+SDVL: calls $0.02
+Torcicolornd: raises $0.08 to $0.10
+droctagon101: folds 
+bmwmann8: folds 
+wstway: calls $0.08
+SDVL: calls $0.08
+*** FLOP *** [6d 3d Ks]
+Torcicolornd: checks 
+wstway: checks 
+SDVL: checks 
+*** TURN *** [6d 3d Ks] [5c]
+Torcicolornd: bets $0.15
+wstway: folds 
+SDVL: folds 
+Uncalled bet ($0.15) returned to Torcicolornd
+Torcicolornd collected $0.33 from pot
+Torcicolornd: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [6d 3d Ks 5c]
+Seat 1: bmwmann8 folded before Flop
+Seat 2: wstway folded on the Turn
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL (button) folded on the Turn
+Seat 6: Torcicolornd (small blind) collected ($0.33)
+Seat 8: droctagon101 (big blind) folded before Flop
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230688151999:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:23:56 PT [2021/10/17 17:23:56 ET]
+Table 'Sadachbia III' 9-max Seat #6 is the button
+Seat 1: bmwmann8 ($1.75 in chips) 
+Seat 2: wstway ($1.90 in chips) 
+Seat 3: Dorex2007 ($3.82 in chips) 
+Seat 4: SDVL ($2.10 in chips) 
+Seat 6: Torcicolornd ($3.27 in chips) 
+Seat 8: droctagon101 ($1.95 in chips) 
+Seat 9: Irishka684 ($2.18 in chips) 
+droctagon101: posts small blind $0.01
+Irishka684: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 5c]
+bmwmann8: folds 
+wstway: calls $0.02
+Dorex2007: folds 
+SDVL: calls $0.02
+Torcicolornd: folds 
+droctagon101: folds 
+Irishka684: checks 
+*** FLOP *** [3h Ac Qs]
+Irishka684: checks 
+wstway: checks 
+SDVL: checks 
+*** TURN *** [3h Ac Qs] [Ad]
+Irishka684: bets $0.02
+wstway: folds 
+SDVL: calls $0.02
+*** RIVER *** [3h Ac Qs Ad] [2d]
+Irishka684: checks 
+SDVL: checks 
+*** SHOW DOWN ***
+Irishka684: shows [6c Qc] (two pair, Aces and Queens)
+SDVL: mucks hand 
+Irishka684 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [3h Ac Qs Ad 2d]
+Seat 1: bmwmann8 folded before Flop (didn't bet)
+Seat 2: wstway folded on the Turn
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 4: SDVL mucked [7h 7c]
+Seat 6: Torcicolornd (button) folded before Flop (didn't bet)
+Seat 8: droctagon101 (small blind) folded before Flop
+Seat 9: Irishka684 (big blind) showed [6c Qc] and won ($0.11) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #230688176855:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:24:47 PT [2021/10/17 17:24:47 ET]
+Table 'Sadachbia III' 9-max Seat #8 is the button
+Seat 1: bmwmann8 ($1.75 in chips) 
+Seat 2: wstway ($1.88 in chips) 
+Seat 3: Dorex2007 ($3.82 in chips) 
+Seat 4: SDVL ($2.06 in chips) 
+Seat 6: Torcicolornd ($3.27 in chips) 
+Seat 8: droctagon101 ($1.94 in chips) 
+Seat 9: Irishka684 ($2.25 in chips) 
+Irishka684: posts small blind $0.01
+bmwmann8: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Ks]
+wstway: folds 
+Dorex2007: raises $0.04 to $0.06
+SDVL: folds 
+SDVL leaves the table
+Torcicolornd: calls $0.06
+droctagon101: folds 
+Irishka684: folds 
+bmwmann8: folds 
+*** FLOP *** [5d 3d Th]
+Dorex2007: bets $0.14
+Torcicolornd: folds 
+Uncalled bet ($0.14) returned to Dorex2007
+Dorex2007 collected $0.14 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5d 3d Th]
+Seat 1: bmwmann8 (big blind) folded before Flop
+Seat 2: wstway folded before Flop (didn't bet)
+Seat 3: Dorex2007 collected ($0.14)
+Seat 4: SDVL folded before Flop (didn't bet)
+Seat 6: Torcicolornd folded on the Flop
+Seat 8: droctagon101 (button) folded before Flop (didn't bet)
+Seat 9: Irishka684 (small blind) folded before Flop
+
+
+
+PokerStars Hand #230688192595:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:25:18 PT [2021/10/17 17:25:18 ET]
+Table 'Sadachbia III' 9-max Seat #9 is the button
+Seat 1: bmwmann8 ($1.73 in chips) 
+Seat 2: wstway ($1.88 in chips) 
+Seat 3: Dorex2007 ($3.90 in chips) 
+Seat 6: Torcicolornd ($3.21 in chips) 
+Seat 8: droctagon101 ($1.94 in chips) 
+Seat 9: Irishka684 ($2.24 in chips) 
+bmwmann8: posts small blind $0.01
+wstway: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 7d]
+Dorex2007: folds 
+Torcicolornd: folds 
+droctagon101: folds 
+Irishka684: folds 
+bmwmann8: folds 
+Uncalled bet ($0.01) returned to wstway
+wstway collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: bmwmann8 (small blind) folded before Flop
+Seat 2: wstway (big blind) collected ($0.02)
+Seat 3: Dorex2007 folded before Flop (didn't bet)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 8: droctagon101 folded before Flop (didn't bet)
+Seat 9: Irishka684 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230688199383:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:25:31 PT [2021/10/17 17:25:31 ET]
+Table 'Sadachbia III' 9-max Seat #1 is the button
+Seat 1: bmwmann8 ($1.72 in chips) 
+Seat 2: wstway ($1.89 in chips) 
+Seat 3: Dorex2007 ($3.90 in chips) 
+Seat 6: Torcicolornd ($3.21 in chips) 
+Seat 8: droctagon101 ($1.94 in chips) 
+Seat 9: Irishka684 ($2.24 in chips) 
+wstway: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 9d]
+Torcicolornd: folds 
+droctagon101: folds 
+Irishka684: folds 
+bmwmann8: folds 
+wstway: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: bmwmann8 (button) folded before Flop (didn't bet)
+Seat 2: wstway (small blind) folded before Flop
+Seat 3: Dorex2007 (big blind) collected ($0.02)
+Seat 6: Torcicolornd folded before Flop (didn't bet)
+Seat 8: droctagon101 folded before Flop (didn't bet)
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #230688206440:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/10/17 14:25:45 PT [2021/10/17 17:25:45 ET]
+Table 'Sadachbia III' 9-max Seat #2 is the button
+Seat 1: bmwmann8 ($1.72 in chips) 
+Seat 2: wstway ($1.88 in chips) 
+Seat 3: Dorex2007 ($3.91 in chips) 
+Seat 6: Torcicolornd ($3.21 in chips) 
+Seat 9: Irishka684 ($2.24 in chips) 
+Dorex2007: posts small blind $0.01
+Torcicolornd: posts big blind $0.02
+ripelnet: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Ad]
+Irishka684: folds 
+bmwmann8: calls $0.02
+wstway: calls $0.02
+Dorex2007: calls $0.01
+Torcicolornd: checks 
+*** FLOP *** [Kh Kc 4c]
+Dorex2007: checks 
+ripelnet leaves the table
+Torcicolornd: checks 
+bmwmann8: checks 
+wstway: bets $0.08
+Dorex2007: folds 
+Torcicolornd: folds 
+bmwmann8: folds 
+Uncalled bet ($0.08) returned to wstway
+wstway collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Kh Kc 4c]
+Seat 1: bmwmann8 folded on the Flop
+Seat 2: wstway (button) collected ($0.08)
+Seat 3: Dorex2007 (small blind) folded on the Flop
+Seat 6: Torcicolornd (big blind) folded on the Flop
+Seat 9: Irishka684 folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,2645 @@
+﻿PokerStars Hand #227924715689:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:24:31 PT [2021/06/29 2:24:31 ET]
+Table 'Starshine II' 9-max Seat #5 is the button
+Seat 2: DodgeGTS4 ($0.73 in chips) 
+Seat 3: kusto1488 ($1.93 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: toytown521 ($2.39 in chips) 
+Seat 6: Kela1373 ($3.58 in chips) 
+Seat 8: Zog Buster ($2.90 in chips) 
+Seat 9: blopisanz ($1.80 in chips) 
+Kela1373: posts small blind $0.01
+Zog Buster: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Kh]
+blopisanz: folds 
+DodgeGTS4: calls $0.02
+kusto1488: folds 
+Dorex2007: checks 
+toytown521: calls $0.02
+Kela1373: calls $0.01
+Zog Buster: checks 
+*** FLOP *** [5c 8s 5d]
+Kela1373: checks 
+Zog Buster: checks 
+DodgeGTS4: checks 
+Dorex2007: checks 
+toytown521: bets $0.06
+Kela1373: folds 
+Zog Buster: folds 
+DodgeGTS4: folds 
+Dorex2007: folds 
+Uncalled bet ($0.06) returned to toytown521
+toytown521 collected $0.10 from pot
+toytown521: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [5c 8s 5d]
+Seat 2: DodgeGTS4 folded on the Flop
+Seat 3: kusto1488 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded on the Flop (didn't bet)
+Seat 5: toytown521 (button) collected ($0.10)
+Seat 6: Kela1373 (small blind) folded on the Flop
+Seat 8: Zog Buster (big blind) folded on the Flop
+Seat 9: blopisanz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924720453:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:25:11 PT [2021/06/29 2:25:11 ET]
+Table 'Starshine II' 9-max Seat #6 is the button
+Seat 2: DodgeGTS4 ($0.71 in chips) 
+Seat 3: kusto1488 ($1.93 in chips) 
+Seat 4: Dorex2007 ($1.98 in chips) 
+Seat 5: toytown521 ($2.47 in chips) 
+Seat 6: Kela1373 ($3.56 in chips) 
+Seat 8: Zog Buster ($2.88 in chips) 
+Seat 9: blopisanz ($1.80 in chips) 
+Zog Buster: posts small blind $0.01
+blopisanz: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 5h]
+DodgeGTS4: folds 
+kusto1488: raises $0.04 to $0.06
+Dorex2007: folds 
+toytown521: folds 
+Kela1373: calls $0.06
+Zog Buster: folds 
+blopisanz: folds 
+*** FLOP *** [4h 9d Kh]
+kusto1488: bets $0.11
+Kela1373: calls $0.11
+*** TURN *** [4h 9d Kh] [9c]
+kusto1488: bets $0.18
+Kela1373: calls $0.18
+*** RIVER *** [4h 9d Kh 9c] [Td]
+kusto1488: bets $0.21
+Kela1373: calls $0.21
+*** SHOW DOWN ***
+kusto1488: shows [Ks Qd] (two pair, Kings and Nines)
+Kela1373: mucks hand 
+kusto1488 collected $1.11 from pot
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.04 
+Board [4h 9d Kh 9c Td]
+Seat 2: DodgeGTS4 folded before Flop (didn't bet)
+Seat 3: kusto1488 showed [Ks Qd] and won ($1.11) with two pair, Kings and Nines
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 (button) mucked [Jd Kc]
+Seat 8: Zog Buster (small blind) folded before Flop
+Seat 9: blopisanz (big blind) folded before Flop
+
+
+
+PokerStars Hand #227924727546:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:26:09 PT [2021/06/29 2:26:09 ET]
+Table 'Starshine II' 9-max Seat #8 is the button
+Seat 2: DodgeGTS4 ($0.71 in chips) 
+Seat 3: kusto1488 ($2.48 in chips) 
+Seat 4: Dorex2007 ($1.98 in chips) 
+Seat 5: toytown521 ($2.47 in chips) 
+Seat 6: Kela1373 ($3 in chips) 
+Seat 8: Zog Buster ($2.87 in chips) 
+Seat 9: blopisanz ($1.78 in chips) 
+blopisanz: posts small blind $0.01
+DodgeGTS4: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 4h]
+kusto1488: folds 
+Dorex2007: calls $0.02
+toytown521: folds 
+Kela1373: folds 
+Zog Buster: folds 
+blopisanz: calls $0.01
+DodgeGTS4: raises $0.03 to $0.05
+Dorex2007: calls $0.03
+blopisanz: calls $0.03
+*** FLOP *** [Jh 3c Qh]
+blopisanz: bets $0.04
+DodgeGTS4: raises $0.07 to $0.11
+Dorex2007: folds 
+blopisanz: calls $0.07
+*** TURN *** [Jh 3c Qh] [9s]
+blopisanz: checks 
+DodgeGTS4: bets $0.55 and is all-in
+blopisanz: folds 
+Uncalled bet ($0.55) returned to DodgeGTS4
+DodgeGTS4 collected $0.36 from pot
+DodgeGTS4: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Jh 3c Qh 9s]
+Seat 2: DodgeGTS4 (big blind) collected ($0.36)
+Seat 3: kusto1488 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded on the Flop
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 8: Zog Buster (button) folded before Flop (didn't bet)
+Seat 9: blopisanz (small blind) folded on the Turn
+
+
+
+PokerStars Hand #227924732681:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:26:52 PT [2021/06/29 2:26:52 ET]
+Table 'Starshine II' 9-max Seat #9 is the button
+Seat 2: DodgeGTS4 ($0.91 in chips) 
+Seat 3: kusto1488 ($2.48 in chips) 
+Seat 4: Dorex2007 ($1.93 in chips) 
+Seat 5: toytown521 ($2.47 in chips) 
+Seat 6: Kela1373 ($3 in chips) 
+Seat 8: Zog Buster ($2.87 in chips) 
+Seat 9: blopisanz ($1.62 in chips) 
+DodgeGTS4: posts small blind $0.01
+kusto1488: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 9d]
+Dorex2007: folds 
+toytown521: folds 
+Kela1373: folds 
+Zog Buster: folds 
+blopisanz: folds 
+DodgeGTS4: raises $0.04 to $0.06
+kusto1488: folds 
+Uncalled bet ($0.04) returned to DodgeGTS4
+DodgeGTS4 collected $0.04 from pot
+DodgeGTS4: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: DodgeGTS4 (small blind) collected ($0.04)
+Seat 3: kusto1488 (big blind) folded before Flop
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: blopisanz (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924736273:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:27:22 PT [2021/06/29 2:27:22 ET]
+Table 'Starshine II' 9-max Seat #2 is the button
+Seat 2: DodgeGTS4 ($0.93 in chips) 
+Seat 3: kusto1488 ($2.46 in chips) 
+Seat 4: Dorex2007 ($1.93 in chips) 
+Seat 5: toytown521 ($2.47 in chips) 
+Seat 6: Kela1373 ($3 in chips) 
+Seat 8: Zog Buster ($2.87 in chips) 
+Seat 9: blopisanz ($1.62 in chips) 
+kusto1488: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 2s]
+toytown521: folds 
+Kela1373: calls $0.02
+Zog Buster: folds 
+blopisanz: folds 
+DodgeGTS4: folds 
+kusto1488: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [7s Qs 9h]
+kusto1488: checks 
+Dorex2007: checks 
+Kela1373: checks 
+*** TURN *** [7s Qs 9h] [5d]
+kusto1488: checks 
+Dorex2007: bets $0.04
+Kela1373: folds 
+kusto1488: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.06 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [7s Qs 9h 5d]
+Seat 2: DodgeGTS4 (button) folded before Flop (didn't bet)
+Seat 3: kusto1488 (small blind) folded on the Turn
+Seat 4: Dorex2007 (big blind) collected ($0.06)
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded on the Turn
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: blopisanz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924740492:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:27:56 PT [2021/06/29 2:27:56 ET]
+Table 'Starshine II' 9-max Seat #3 is the button
+Seat 2: DodgeGTS4 ($0.93 in chips) 
+Seat 3: kusto1488 ($2.44 in chips) 
+Seat 4: Dorex2007 ($1.97 in chips) 
+Seat 5: toytown521 ($2.47 in chips) 
+Seat 6: Kela1373 ($2.98 in chips) 
+Seat 8: Zog Buster ($2.87 in chips) 
+Seat 9: blopisanz ($1.62 in chips) 
+Dorex2007: posts small blind $0.01
+toytown521: posts big blind $0.02
+boogaga-5150: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Td]
+Kela1373: folds 
+Zog Buster: raises $0.05 to $0.07
+blopisanz: folds 
+DodgeGTS4: folds 
+kusto1488: folds 
+Dorex2007: folds 
+toytown521: folds 
+Uncalled bet ($0.05) returned to Zog Buster
+Zog Buster collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: DodgeGTS4 folded before Flop (didn't bet)
+Seat 3: kusto1488 (button) folded before Flop (didn't bet)
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: toytown521 (big blind) folded before Flop
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 8: Zog Buster collected ($0.05)
+Seat 9: blopisanz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924742396:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:28:12 PT [2021/06/29 2:28:12 ET]
+Table 'Starshine II' 9-max Seat #4 is the button
+Seat 2: DodgeGTS4 ($0.93 in chips) 
+Seat 3: kusto1488 ($2.44 in chips) 
+Seat 4: Dorex2007 ($1.96 in chips) 
+Seat 5: toytown521 ($2.45 in chips) 
+Seat 6: Kela1373 ($2.98 in chips) 
+Seat 8: Zog Buster ($2.90 in chips) 
+Seat 9: blopisanz ($1.62 in chips) 
+toytown521: posts small blind $0.01
+Kela1373: posts big blind $0.02
+boogaga-5150: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 8c]
+Zog Buster: folds 
+blopisanz: folds 
+DodgeGTS4: folds 
+kusto1488: folds 
+Dorex2007: folds 
+toytown521: folds 
+Uncalled bet ($0.01) returned to Kela1373
+Kela1373 collected $0.02 from pot
+Kela1373: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: DodgeGTS4 folded before Flop (didn't bet)
+Seat 3: kusto1488 folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: toytown521 (small blind) folded before Flop
+Seat 6: Kela1373 (big blind) collected ($0.02)
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: blopisanz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924744659:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:28:30 PT [2021/06/29 2:28:30 ET]
+Table 'Starshine II' 9-max Seat #5 is the button
+Seat 2: DodgeGTS4 ($0.93 in chips) 
+Seat 3: kusto1488 ($2.44 in chips) 
+Seat 4: Dorex2007 ($1.96 in chips) 
+Seat 5: toytown521 ($2.44 in chips) 
+Seat 6: Kela1373 ($2.99 in chips) 
+Seat 8: Zog Buster ($2.90 in chips) 
+Seat 9: blopisanz ($1.62 in chips) 
+Kela1373: posts small blind $0.01
+Zog Buster: posts big blind $0.02
+boogaga-5150: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Tc]
+blopisanz has timed out
+blopisanz: folds 
+DodgeGTS4: folds 
+kusto1488: folds 
+Dorex2007: folds 
+toytown521: raises $0.05 to $0.07
+Kela1373: folds 
+blopisanz leaves the table
+Zog Buster: calls $0.05
+*** FLOP *** [8s Qh As]
+Zog Buster: checks 
+toytown521: bets $0.07
+Zog Buster: calls $0.07
+*** TURN *** [8s Qh As] [2h]
+Zog Buster: checks 
+toytown521: bets $0.14
+Zog Buster: calls $0.14
+*** RIVER *** [8s Qh As 2h] [5c]
+Zog Buster: checks 
+toytown521: checks 
+*** SHOW DOWN ***
+Zog Buster: shows [Jh Jd] (a pair of Jacks)
+toytown521: shows [Kd Kc] (a pair of Kings)
+toytown521 collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [8s Qh As 2h 5c]
+Seat 2: DodgeGTS4 folded before Flop (didn't bet)
+Seat 3: kusto1488 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 (button) showed [Kd Kc] and won ($0.55) with a pair of Kings
+Seat 6: Kela1373 (small blind) folded before Flop
+Seat 8: Zog Buster (big blind) showed [Jh Jd] and lost with a pair of Jacks
+Seat 9: blopisanz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924750325:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:29:15 PT [2021/06/29 2:29:15 ET]
+Table 'Starshine II' 9-max Seat #6 is the button
+Seat 1: boogaga-5150 ($1.08 in chips) 
+Seat 2: DodgeGTS4 ($0.93 in chips) 
+Seat 3: kusto1488 ($2.44 in chips) 
+Seat 4: Dorex2007 ($1.96 in chips) 
+Seat 5: toytown521 ($2.71 in chips) 
+Seat 6: Kela1373 ($2.98 in chips) 
+Seat 8: Zog Buster ($2.62 in chips) 
+Zog Buster: posts small blind $0.01
+boogaga-5150: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Tc]
+DodgeGTS4: folds 
+kusto1488: raises $0.04 to $0.06
+Dorex2007: folds 
+toytown521: folds 
+Kela1373: raises $0.15 to $0.21
+Zog Buster: folds 
+boogaga-5150: folds 
+kusto1488: calls $0.15
+*** FLOP *** [Th 9s As]
+kusto1488: checks 
+Kela1373: checks 
+*** TURN *** [Th 9s As] [8h]
+kusto1488: bets $0.13
+Kela1373: calls $0.13
+*** RIVER *** [Th 9s As 8h] [4c]
+kusto1488: bets $0.35
+Kela1373: folds 
+Uncalled bet ($0.35) returned to kusto1488
+kusto1488 collected $0.69 from pot
+kusto1488: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02 
+Board [Th 9s As 8h 4c]
+Seat 1: boogaga-5150 (big blind) folded before Flop
+Seat 2: DodgeGTS4 folded before Flop (didn't bet)
+Seat 3: kusto1488 collected ($0.69)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 (button) folded on the River
+Seat 8: Zog Buster (small blind) folded before Flop
+
+
+
+PokerStars Hand #227924757418:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:30:13 PT [2021/06/29 2:30:13 ET]
+Table 'Starshine II' 9-max Seat #8 is the button
+Seat 1: boogaga-5150 ($1.06 in chips) 
+Seat 2: DodgeGTS4 ($0.93 in chips) 
+Seat 3: kusto1488 ($2.79 in chips) 
+Seat 4: Dorex2007 ($1.96 in chips) 
+Seat 5: toytown521 ($2.71 in chips) 
+Seat 6: Kela1373 ($2.64 in chips) 
+Seat 7: Gawrosz23 ($3.54 in chips) 
+Seat 8: Zog Buster ($2.61 in chips) 
+boogaga-5150: posts small blind $0.01
+DodgeGTS4: posts big blind $0.02
+Gawrosz23: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Jh]
+kusto1488: folds 
+Dorex2007: folds 
+toytown521: folds 
+Kela1373: folds 
+Gawrosz23: checks 
+Zog Buster: folds 
+boogaga-5150: folds 
+DodgeGTS4: raises $0.06 to $0.08
+Gawrosz23: folds 
+Uncalled bet ($0.06) returned to DodgeGTS4
+DodgeGTS4 collected $0.06 from pot
+DodgeGTS4: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: boogaga-5150 (small blind) folded before Flop
+Seat 2: DodgeGTS4 (big blind) collected ($0.06)
+Seat 3: kusto1488 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Gawrosz23 folded before Flop (didn't bet)
+Seat 8: Zog Buster (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924760314:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:30:37 PT [2021/06/29 2:30:37 ET]
+Table 'Starshine II' 9-max Seat #1 is the button
+Seat 1: boogaga-5150 ($1.05 in chips) 
+Seat 2: DodgeGTS4 ($0.97 in chips) 
+Seat 3: kusto1488 ($2.79 in chips) 
+Seat 4: Dorex2007 ($1.96 in chips) 
+Seat 5: toytown521 ($2.71 in chips) 
+Seat 6: Kela1373 ($2.64 in chips) 
+Seat 7: Gawrosz23 ($3.51 in chips) 
+Seat 8: Zog Buster ($2.61 in chips) 
+DodgeGTS4: posts small blind $0.01
+kusto1488: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 9d]
+Dorex2007: folds 
+toytown521: folds 
+Kela1373: folds 
+Gawrosz23: raises $0.02 to $0.04
+Zog Buster: folds 
+CarthCNZ joins the table at seat #9 
+boogaga-5150: raises $0.02 to $0.06
+DodgeGTS4: calls $0.05
+kusto1488: calls $0.04
+Gawrosz23: calls $0.02
+*** FLOP *** [6h 5h Qc]
+DodgeGTS4: bets $0.07
+kusto1488: calls $0.07
+Gawrosz23: calls $0.07
+boogaga-5150: folds 
+*** TURN *** [6h 5h Qc] [Qh]
+DodgeGTS4: checks 
+kusto1488: checks 
+Gawrosz23: checks 
+*** RIVER *** [6h 5h Qc Qh] [Ah]
+DodgeGTS4: bets $0.24
+kusto1488: folds 
+Gawrosz23: calls $0.24
+*** SHOW DOWN ***
+DodgeGTS4: shows [2s 9s] (a pair of Queens)
+Gawrosz23: shows [Js Jh] (a flush, Ace high)
+Gawrosz23 collected $0.90 from pot
+*** SUMMARY ***
+Total pot $0.93 | Rake $0.03 
+Board [6h 5h Qc Qh Ah]
+Seat 1: boogaga-5150 (button) folded on the Flop
+Seat 2: DodgeGTS4 (small blind) showed [2s 9s] and lost with a pair of Queens
+Seat 3: kusto1488 (big blind) folded on the River
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Gawrosz23 showed [Js Jh] and won ($0.90) with a flush, Ace high
+Seat 8: Zog Buster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924765590:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:31:20 PT [2021/06/29 2:31:20 ET]
+Table 'Starshine II' 9-max Seat #2 is the button
+Seat 1: boogaga-5150 ($0.99 in chips) 
+Seat 2: DodgeGTS4 ($0.60 in chips) 
+Seat 3: kusto1488 ($2.66 in chips) 
+Seat 4: Dorex2007 ($1.96 in chips) 
+Seat 5: toytown521 ($2.71 in chips) 
+Seat 6: Kela1373 ($2.64 in chips) 
+Seat 7: Gawrosz23 ($4.04 in chips) 
+Seat 8: Zog Buster ($2.61 in chips) 
+kusto1488: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+CarthCNZ: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts Kd]
+toytown521: folds 
+Kela1373: folds 
+Gawrosz23: folds 
+Zog Buster: folds 
+boogaga-5150: folds 
+DodgeGTS4: calls $0.02
+kusto1488: raises $0.09 to $0.11
+Dorex2007: folds 
+DodgeGTS4: calls $0.09
+*** FLOP *** [5c 7c 5s]
+kusto1488: bets $0.07
+DodgeGTS4: calls $0.07
+*** TURN *** [5c 7c 5s] [9h]
+kusto1488: bets $0.28
+DodgeGTS4: calls $0.28
+*** RIVER *** [5c 7c 5s 9h] [Qc]
+kusto1488: bets $0.68
+DodgeGTS4: calls $0.14 and is all-in
+Uncalled bet ($0.54) returned to kusto1488
+*** SHOW DOWN ***
+kusto1488: shows [Kc Kh] (two pair, Kings and Fives)
+DodgeGTS4: shows [Jc Qs] (two pair, Queens and Fives)
+kusto1488 collected $1.18 from pot
+*** SUMMARY ***
+Total pot $1.22 | Rake $0.04 
+Board [5c 7c 5s 9h Qc]
+Seat 1: boogaga-5150 folded before Flop (didn't bet)
+Seat 2: DodgeGTS4 (button) showed [Jc Qs] and lost with two pair, Queens and Fives
+Seat 3: kusto1488 (small blind) showed [Kc Kh] and won ($1.18) with two pair, Kings and Fives
+Seat 4: Dorex2007 (big blind) folded before Flop
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Gawrosz23 folded before Flop (didn't bet)
+Seat 8: Zog Buster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924771646:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:32:10 PT [2021/06/29 2:32:10 ET]
+Table 'Starshine II' 9-max Seat #3 is the button
+Seat 1: boogaga-5150 ($0.99 in chips) 
+Seat 3: kusto1488 ($3.24 in chips) 
+Seat 4: Dorex2007 ($1.94 in chips) 
+Seat 5: toytown521 ($2.71 in chips) 
+Seat 6: Kela1373 ($2.64 in chips) 
+Seat 7: Gawrosz23 ($4.04 in chips) 
+Seat 8: Zog Buster ($2.61 in chips) 
+Dorex2007: posts small blind $0.01
+toytown521: posts big blind $0.02
+CarthCNZ: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Qs]
+DodgeGTS4 leaves the table
+Kela1373 has timed out
+Kela1373: folds 
+Gawrosz23: calls $0.02
+Zog Buster: folds 
+boogaga-5150: folds 
+kusto1488: folds 
+Dorex2007: raises $0.04 to $0.06
+toytown521: folds 
+Gawrosz23: calls $0.04
+*** FLOP *** [2s 4d 3d]
+Dorex2007: bets $0.09
+Gawrosz23: folds 
+Uncalled bet ($0.09) returned to Dorex2007
+Dorex2007 collected $0.14 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [2s 4d 3d]
+Seat 1: boogaga-5150 folded before Flop (didn't bet)
+Seat 3: kusto1488 (button) folded before Flop (didn't bet)
+Seat 4: Dorex2007 (small blind) collected ($0.14)
+Seat 5: toytown521 (big blind) folded before Flop
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Gawrosz23 folded on the Flop
+Seat 8: Zog Buster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924776087:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:32:46 PT [2021/06/29 2:32:46 ET]
+Table 'Starshine II' 9-max Seat #4 is the button
+Seat 1: boogaga-5150 ($0.99 in chips) 
+Seat 3: kusto1488 ($3.24 in chips) 
+Seat 4: Dorex2007 ($2.02 in chips) 
+Seat 5: toytown521 ($2.69 in chips) 
+Seat 6: Kela1373 ($2.64 in chips) 
+Seat 7: Gawrosz23 ($3.98 in chips) 
+Seat 8: Zog Buster ($2.61 in chips) 
+toytown521: posts small blind $0.01
+Kela1373: posts big blind $0.02
+CarthCNZ: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 4s]
+Gawrosz23: calls $0.02
+Zog Buster: folds 
+boogaga-5150: folds 
+kusto1488: folds 
+Dorex2007: folds 
+toytown521: calls $0.01
+Kela1373: checks 
+*** FLOP *** [4c 2h Th]
+toytown521: checks 
+Kela1373: bets $0.02
+Gawrosz23: raises $0.02 to $0.04
+toytown521: folds 
+Kela1373: raises $0.02 to $0.06
+Gawrosz23: calls $0.02
+*** TURN *** [4c 2h Th] [5c]
+Kela1373: bets $0.09
+Gawrosz23: calls $0.09
+*** RIVER *** [4c 2h Th 5c] [7c]
+just1one26 joins the table at seat #2 
+Kela1373: bets $0.35
+Gawrosz23: folds 
+Uncalled bet ($0.35) returned to Kela1373
+Kela1373 collected $0.35 from pot
+Kela1373: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [4c 2h Th 5c 7c]
+Seat 1: boogaga-5150 folded before Flop (didn't bet)
+Seat 3: kusto1488 folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: toytown521 (small blind) folded on the Flop
+Seat 6: Kela1373 (big blind) collected ($0.35)
+Seat 7: Gawrosz23 folded on the River
+Seat 8: Zog Buster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924781551:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:33:29 PT [2021/06/29 2:33:29 ET]
+Table 'Starshine II' 9-max Seat #5 is the button
+Seat 1: boogaga-5150 ($0.99 in chips) 
+Seat 3: kusto1488 ($3.24 in chips) 
+Seat 4: Dorex2007 ($2.02 in chips) 
+Seat 5: toytown521 ($2.67 in chips) 
+Seat 6: Kela1373 ($2.82 in chips) 
+Seat 7: Gawrosz23 ($3.81 in chips) 
+Seat 8: Zog Buster ($2.61 in chips) 
+Kela1373: posts small blind $0.01
+Gawrosz23: posts big blind $0.02
+CarthCNZ: sits out 
+just1one26: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 3d]
+Zog Buster: folds 
+boogaga-5150: folds 
+kusto1488: folds 
+Dorex2007: folds 
+toytown521: folds 
+Kela1373: calls $0.01
+Gawrosz23: checks 
+*** FLOP *** [2s Qh Qd]
+Kela1373: checks 
+Gawrosz23: checks 
+*** TURN *** [2s Qh Qd] [4s]
+Kela1373: checks 
+Gawrosz23: checks 
+*** RIVER *** [2s Qh Qd 4s] [3h]
+Kela1373: checks 
+Gawrosz23: checks 
+*** SHOW DOWN ***
+Kela1373: shows [Jd Th] (a pair of Queens)
+Gawrosz23: mucks hand 
+Kela1373 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [2s Qh Qd 4s 3h]
+Seat 1: boogaga-5150 folded before Flop (didn't bet)
+Seat 3: kusto1488 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 (button) folded before Flop (didn't bet)
+Seat 6: Kela1373 (small blind) showed [Jd Th] and won ($0.04) with a pair of Queens
+Seat 7: Gawrosz23 (big blind) mucked [9h Ts]
+Seat 8: Zog Buster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924787581:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:34:19 PT [2021/06/29 2:34:19 ET]
+Table 'Starshine II' 9-max Seat #6 is the button
+Seat 1: boogaga-5150 ($0.99 in chips) 
+Seat 3: kusto1488 ($3.24 in chips) 
+Seat 4: Dorex2007 ($2.02 in chips) 
+Seat 5: toytown521 ($2.67 in chips) 
+Seat 6: Kela1373 ($2.84 in chips) 
+Seat 7: Gawrosz23 ($3.79 in chips) 
+Seat 8: Zog Buster ($2.61 in chips) 
+Gawrosz23: posts small blind $0.01
+Zog Buster: posts big blind $0.02
+CarthCNZ: sits out 
+just1one26: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 3s]
+boogaga-5150: folds 
+kusto1488: folds 
+Dorex2007: folds 
+toytown521: calls $0.02
+Kela1373: folds 
+Gawrosz23: calls $0.01
+Zog Buster: checks 
+*** FLOP *** [6h 3c 9c]
+Gawrosz23: checks 
+Zog Buster: checks 
+toytown521: bets $0.04
+Gawrosz23: folds 
+Zog Buster: folds 
+Uncalled bet ($0.04) returned to toytown521
+toytown521 collected $0.06 from pot
+toytown521: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [6h 3c 9c]
+Seat 1: boogaga-5150 folded before Flop (didn't bet)
+Seat 3: kusto1488 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 collected ($0.06)
+Seat 6: Kela1373 (button) folded before Flop (didn't bet)
+Seat 7: Gawrosz23 (small blind) folded on the Flop
+Seat 8: Zog Buster (big blind) folded on the Flop
+
+
+
+PokerStars Hand #227924790748:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:34:44 PT [2021/06/29 2:34:44 ET]
+Table 'Starshine II' 9-max Seat #7 is the button
+Seat 1: boogaga-5150 ($0.99 in chips) 
+Seat 3: kusto1488 ($3.24 in chips) 
+Seat 4: Dorex2007 ($2.02 in chips) 
+Seat 5: toytown521 ($2.71 in chips) 
+Seat 6: Kela1373 ($2.84 in chips) 
+Seat 7: Gawrosz23 ($3.77 in chips) 
+Seat 8: Zog Buster ($2.59 in chips) 
+Seat 9: CarthCNZ ($2 in chips) 
+Zog Buster: posts small blind $0.01
+CarthCNZ: posts big blind $0.02
+just1one26: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 8h]
+boogaga-5150: folds 
+kusto1488: folds 
+Dorex2007: folds 
+toytown521: folds 
+Kela1373: folds 
+Gawrosz23: folds 
+Zog Buster: folds 
+Uncalled bet ($0.01) returned to CarthCNZ
+CarthCNZ collected $0.02 from pot
+CarthCNZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: boogaga-5150 folded before Flop (didn't bet)
+Seat 3: kusto1488 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Gawrosz23 (button) folded before Flop (didn't bet)
+Seat 8: Zog Buster (small blind) folded before Flop
+Seat 9: CarthCNZ (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #227924792065:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:34:55 PT [2021/06/29 2:34:55 ET]
+Table 'Starshine II' 9-max Seat #8 is the button
+Seat 1: boogaga-5150 ($0.99 in chips) 
+Seat 3: kusto1488 ($3.24 in chips) 
+Seat 4: Dorex2007 ($2.02 in chips) 
+Seat 5: toytown521 ($2.71 in chips) 
+Seat 6: Kela1373 ($2.84 in chips) 
+Seat 7: Gawrosz23 ($3.77 in chips) 
+Seat 8: Zog Buster ($2.58 in chips) 
+Seat 9: CarthCNZ ($2.01 in chips) 
+CarthCNZ: posts small blind $0.01
+boogaga-5150: posts big blind $0.02
+just1one26: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 4s]
+kusto1488: raises $0.04 to $0.06
+Dorex2007: folds 
+toytown521: folds 
+Kela1373: folds 
+Gawrosz23: folds 
+Zog Buster: folds 
+CarthCNZ: folds 
+boogaga-5150: folds 
+Uncalled bet ($0.04) returned to kusto1488
+kusto1488 collected $0.05 from pot
+kusto1488: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: boogaga-5150 (big blind) folded before Flop
+Seat 3: kusto1488 collected ($0.05)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Gawrosz23 folded before Flop (didn't bet)
+Seat 8: Zog Buster (button) folded before Flop (didn't bet)
+Seat 9: CarthCNZ (small blind) folded before Flop
+
+
+
+PokerStars Hand #227924794159:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:35:12 PT [2021/06/29 2:35:12 ET]
+Table 'Starshine II' 9-max Seat #9 is the button
+Seat 1: boogaga-5150 ($0.97 in chips) 
+Seat 2: just1one26 ($2 in chips) 
+Seat 3: kusto1488 ($3.27 in chips) 
+Seat 4: Dorex2007 ($2.02 in chips) 
+Seat 5: toytown521 ($2.71 in chips) 
+Seat 6: Kela1373 ($2.84 in chips) 
+Seat 7: Gawrosz23 ($3.77 in chips) 
+Seat 8: Zog Buster ($2.58 in chips) 
+Seat 9: CarthCNZ ($2 in chips) 
+boogaga-5150: posts small blind $0.01
+just1one26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 7s]
+kusto1488: folds 
+Dorex2007: folds 
+toytown521: folds 
+Kela1373: folds 
+Gawrosz23: calls $0.02
+Zog Buster: folds 
+CarthCNZ: folds 
+boogaga-5150: calls $0.01
+just1one26: checks 
+*** FLOP *** [Kd 5c 3h]
+boogaga-5150: bets $0.03
+just1one26: folds 
+Gawrosz23: folds 
+Uncalled bet ($0.03) returned to boogaga-5150
+boogaga-5150 collected $0.06 from pot
+boogaga-5150: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Kd 5c 3h]
+Seat 1: boogaga-5150 (small blind) collected ($0.06)
+Seat 2: just1one26 (big blind) folded on the Flop
+Seat 3: kusto1488 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Gawrosz23 folded on the Flop
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: CarthCNZ (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924802620:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:35:44 PT [2021/06/29 2:35:44 ET]
+Table 'Starshine II' 9-max Seat #1 is the button
+Seat 1: boogaga-5150 ($1.01 in chips) 
+Seat 2: just1one26 ($2 in chips) 
+Seat 3: kusto1488 ($3.27 in chips) 
+Seat 4: Dorex2007 ($2.02 in chips) 
+Seat 5: toytown521 ($2.71 in chips) 
+Seat 6: Kela1373 ($2.84 in chips) 
+Seat 7: Gawrosz23 ($3.75 in chips) 
+Seat 8: Zog Buster ($2.58 in chips) 
+Seat 9: CarthCNZ ($2 in chips) 
+just1one26: posts small blind $0.01
+kusto1488: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Jh]
+Dorex2007: folds 
+toytown521: folds 
+Kela1373: folds 
+Gawrosz23: raises $0.04 to $0.06
+Zog Buster: folds 
+CarthCNZ: folds 
+boogaga-5150: folds 
+just1one26: folds 
+kusto1488: folds 
+Uncalled bet ($0.04) returned to Gawrosz23
+Gawrosz23 collected $0.05 from pot
+Gawrosz23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: boogaga-5150 (button) folded before Flop (didn't bet)
+Seat 2: just1one26 (small blind) folded before Flop
+Seat 3: kusto1488 (big blind) folded before Flop
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Gawrosz23 collected ($0.05)
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: CarthCNZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924804957:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:36:03 PT [2021/06/29 2:36:03 ET]
+Table 'Starshine II' 9-max Seat #2 is the button
+Seat 1: boogaga-5150 ($1.01 in chips) 
+Seat 2: just1one26 ($2 in chips) 
+Seat 3: kusto1488 ($3.25 in chips) 
+Seat 4: Dorex2007 ($2.02 in chips) 
+Seat 5: toytown521 ($2.71 in chips) 
+Seat 6: Kela1373 ($2.84 in chips) 
+Seat 7: Gawrosz23 ($3.78 in chips) 
+Seat 8: Zog Buster ($2.58 in chips) 
+Seat 9: CarthCNZ ($2 in chips) 
+kusto1488: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 4d]
+toytown521: folds 
+Kela1373: folds 
+Gawrosz23: folds 
+Zog Buster: folds 
+CarthCNZ: folds 
+boogaga-5150: folds 
+just1one26: raises $0.04 to $0.06
+kusto1488: raises $0.19 to $0.25
+Dorex2007: folds 
+just1one26: calls $0.19
+*** FLOP *** [7d Kd Qs]
+kusto1488: checks 
+just1one26: checks 
+*** TURN *** [7d Kd Qs] [5s]
+kusto1488: checks 
+just1one26: checks 
+*** RIVER *** [7d Kd Qs 5s] [Ac]
+kusto1488: checks 
+just1one26: checks 
+*** SHOW DOWN ***
+kusto1488: shows [9h Jh] (high card Ace)
+just1one26: shows [6h 6c] (a pair of Sixes)
+just1one26 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [7d Kd Qs 5s Ac]
+Seat 1: boogaga-5150 folded before Flop (didn't bet)
+Seat 2: just1one26 (button) showed [6h 6c] and won ($0.50) with a pair of Sixes
+Seat 3: kusto1488 (small blind) showed [9h Jh] and lost with high card Ace
+Seat 4: Dorex2007 (big blind) folded before Flop
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Gawrosz23 folded before Flop (didn't bet)
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: CarthCNZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924811821:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:37:00 PT [2021/06/29 2:37:00 ET]
+Table 'Starshine II' 9-max Seat #3 is the button
+Seat 1: boogaga-5150 ($1.01 in chips) 
+Seat 2: just1one26 ($2.25 in chips) 
+Seat 3: kusto1488 ($3 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: toytown521 ($2.71 in chips) 
+Seat 6: Kela1373 ($2.84 in chips) 
+Seat 8: Zog Buster ($2.58 in chips) 
+Seat 9: CarthCNZ ($2 in chips) 
+Dorex2007: posts small blind $0.01
+toytown521: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Ah]
+Kela1373: folds 
+Zog Buster: folds 
+CarthCNZ: folds 
+boogaga-5150: folds 
+just1one26: folds 
+kusto1488: folds 
+Dorex2007: raises $0.04 to $0.06
+toytown521: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.04 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: boogaga-5150 folded before Flop (didn't bet)
+Seat 2: just1one26 folded before Flop (didn't bet)
+Seat 3: kusto1488 (button) folded before Flop (didn't bet)
+Seat 4: Dorex2007 (small blind) collected ($0.04)
+Seat 5: toytown521 (big blind) folded before Flop
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: CarthCNZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924814818:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:37:24 PT [2021/06/29 2:37:24 ET]
+Table 'Starshine II' 9-max Seat #4 is the button
+Seat 1: boogaga-5150 ($1.01 in chips) 
+Seat 2: just1one26 ($2.25 in chips) 
+Seat 3: kusto1488 ($3 in chips) 
+Seat 4: Dorex2007 ($2.02 in chips) 
+Seat 5: toytown521 ($2.69 in chips) 
+Seat 6: Kela1373 ($2.84 in chips) 
+Seat 8: Zog Buster ($2.58 in chips) 
+Seat 9: CarthCNZ ($2 in chips) 
+toytown521: posts small blind $0.01
+Kela1373: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Kc]
+Zog Buster: folds 
+CarthCNZ: folds 
+boogaga-5150: folds 
+just1one26: raises $0.04 to $0.06
+kusto1488: folds 
+Dorex2007: folds 
+toytown521: folds 
+Kela1373: folds 
+Uncalled bet ($0.04) returned to just1one26
+just1one26 collected $0.05 from pot
+just1one26: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: boogaga-5150 folded before Flop (didn't bet)
+Seat 2: just1one26 collected ($0.05)
+Seat 3: kusto1488 folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: toytown521 (small blind) folded before Flop
+Seat 6: Kela1373 (big blind) folded before Flop
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: CarthCNZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924821156:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:38:16 PT [2021/06/29 2:38:16 ET]
+Table 'Starshine II' 9-max Seat #5 is the button
+Seat 1: boogaga-5150 ($1.01 in chips) 
+Seat 2: just1one26 ($2.28 in chips) 
+Seat 3: kusto1488 ($3 in chips) 
+Seat 4: Dorex2007 ($2.02 in chips) 
+Seat 5: toytown521 ($2.68 in chips) 
+Seat 6: Kela1373 ($2.82 in chips) 
+Seat 8: Zog Buster ($2.58 in chips) 
+Seat 9: CarthCNZ ($2 in chips) 
+Kela1373: posts small blind $0.01
+Zog Buster: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 3h]
+CarthCNZ: folds 
+boogaga-5150: folds 
+just1one26: raises $0.04 to $0.06
+kusto1488: folds 
+Dorex2007: folds 
+toytown521 is disconnected 
+toytown521 has timed out while disconnected
+toytown521: folds 
+Kela1373: folds 
+Zog Buster: folds 
+Uncalled bet ($0.04) returned to just1one26
+just1one26 collected $0.05 from pot
+just1one26: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: boogaga-5150 folded before Flop (didn't bet)
+Seat 2: just1one26 collected ($0.05)
+Seat 3: kusto1488 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 (button) folded before Flop (didn't bet)
+Seat 6: Kela1373 (small blind) folded before Flop
+Seat 8: Zog Buster (big blind) folded before Flop
+Seat 9: CarthCNZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924824967:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:38:47 PT [2021/06/29 2:38:47 ET]
+Table 'Starshine II' 9-max Seat #6 is the button
+Seat 1: boogaga-5150 ($1.01 in chips) 
+Seat 2: just1one26 ($2.31 in chips) 
+Seat 3: kusto1488 ($3 in chips) 
+Seat 4: Dorex2007 ($2.02 in chips) 
+Seat 6: Kela1373 ($2.81 in chips) 
+Seat 8: Zog Buster ($2.56 in chips) 
+Seat 9: CarthCNZ ($2 in chips) 
+Zog Buster: posts small blind $0.01
+CarthCNZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Tc]
+boogaga-5150: folds 
+just1one26: folds 
+kusto1488: folds 
+Dorex2007: raises $0.04 to $0.06
+Kela1373: raises $0.04 to $0.10
+Zog Buster: folds 
+CarthCNZ: folds 
+Dorex2007: calls $0.04
+*** FLOP *** [Js 5c 5s]
+Dorex2007: bets $0.11
+Kela1373: calls $0.11
+*** TURN *** [Js 5c 5s] [Ad]
+Dorex2007: bets $0.22
+Kela1373: calls $0.22
+*** RIVER *** [Js 5c 5s Ad] [Ac]
+Dorex2007: bets $0.86
+Kela1373: raises $0.86 to $1.72
+Dorex2007: calls $0.73 and is all-in
+Uncalled bet ($0.13) returned to Kela1373
+*** SHOW DOWN ***
+Kela1373: shows [Qs Ah] (a full house, Aces full of Fives)
+Dorex2007: shows [Qc Tc] (two pair, Aces and Fives)
+Kela1373 collected $3.93 from pot
+*** SUMMARY ***
+Total pot $4.07 | Rake $0.14 
+Board [Js 5c 5s Ad Ac]
+Seat 1: boogaga-5150 folded before Flop (didn't bet)
+Seat 2: just1one26 folded before Flop (didn't bet)
+Seat 3: kusto1488 folded before Flop (didn't bet)
+Seat 4: Dorex2007 showed [Qc Tc] and lost with two pair, Aces and Fives
+Seat 6: Kela1373 (button) showed [Qs Ah] and won ($3.93) with a full house, Aces full of Fives
+Seat 8: Zog Buster (small blind) folded before Flop
+Seat 9: CarthCNZ (big blind) folded before Flop
+
+
+
+PokerStars Hand #227924835074:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:40:09 PT [2021/06/29 2:40:09 ET]
+Table 'Starshine II' 9-max Seat #9 is the button
+Seat 1: boogaga-5150 ($1.07 in chips) 
+Seat 2: just1one26 ($2.31 in chips) 
+Seat 3: kusto1488 ($3 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: toytown521 ($2.68 in chips) 
+Seat 6: Kela1373 ($4.72 in chips) 
+Seat 8: Zog Buster ($2.55 in chips) 
+Seat 9: CarthCNZ ($1.92 in chips) 
+boogaga-5150: posts small blind $0.01
+just1one26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Qc]
+kusto1488: folds 
+Dorex2007: folds 
+toytown521 has timed out
+toytown521: folds 
+Kela1373: folds 
+Zog Buster: folds 
+CarthCNZ: folds 
+boogaga-5150: raises $0.04 to $0.06
+just1one26: folds 
+Uncalled bet ($0.04) returned to boogaga-5150
+boogaga-5150 collected $0.04 from pot
+boogaga-5150: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: boogaga-5150 (small blind) collected ($0.04)
+Seat 2: just1one26 (big blind) folded before Flop
+Seat 3: kusto1488 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: CarthCNZ (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924838447:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:40:37 PT [2021/06/29 2:40:37 ET]
+Table 'Starshine II' 9-max Seat #1 is the button
+Seat 1: boogaga-5150 ($1.09 in chips) 
+Seat 2: just1one26 ($2.29 in chips) 
+Seat 3: kusto1488 ($3 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 6: Kela1373 ($4.72 in chips) 
+Seat 8: Zog Buster ($2.55 in chips) 
+Seat 9: CarthCNZ ($1.92 in chips) 
+just1one26: posts small blind $0.01
+kusto1488: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 9d]
+Dorex2007: calls $0.02
+Kela1373: folds 
+Zog Buster: folds 
+CarthCNZ: raises $0.04 to $0.06
+boogaga-5150: folds 
+just1one26: folds 
+kusto1488: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to CarthCNZ
+CarthCNZ collected $0.07 from pot
+CarthCNZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: boogaga-5150 (button) folded before Flop (didn't bet)
+Seat 2: just1one26 (small blind) folded before Flop
+Seat 3: kusto1488 (big blind) folded before Flop
+Seat 4: Dorex2007 folded before Flop
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: CarthCNZ collected ($0.07)
+
+
+
+PokerStars Hand #227924840645:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:40:55 PT [2021/06/29 2:40:55 ET]
+Table 'Starshine II' 9-max Seat #2 is the button
+Seat 2: just1one26 ($2.28 in chips) 
+Seat 3: kusto1488 ($2.98 in chips) 
+Seat 4: Dorex2007 ($1.98 in chips) 
+Seat 6: Kela1373 ($4.72 in chips) 
+Seat 8: Zog Buster ($2.55 in chips) 
+Seat 9: CarthCNZ ($1.97 in chips) 
+kusto1488: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 4s]
+Kela1373: folds 
+Zog Buster: folds 
+CarthCNZ: folds 
+just1one26: folds 
+kusto1488: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: just1one26 (button) folded before Flop (didn't bet)
+Seat 3: kusto1488 (small blind) folded before Flop
+Seat 4: Dorex2007 (big blind) collected ($0.02)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: CarthCNZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924842169:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:41:08 PT [2021/06/29 2:41:08 ET]
+Table 'Starshine II' 9-max Seat #3 is the button
+Seat 2: just1one26 ($2.28 in chips) 
+Seat 3: kusto1488 ($2.97 in chips) 
+Seat 4: Dorex2007 ($1.99 in chips) 
+Seat 6: Kela1373 ($4.72 in chips) 
+Seat 8: Zog Buster ($2.55 in chips) 
+Seat 9: CarthCNZ ($1.97 in chips) 
+Dorex2007: posts small blind $0.01
+Kela1373: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Qd]
+Zog Buster: folds 
+CarthCNZ has timed out
+CarthCNZ: folds 
+just1one26: folds 
+kusto1488: raises $0.04 to $0.06
+Dorex2007: folds 
+Kela1373: folds 
+Uncalled bet ($0.04) returned to kusto1488
+kusto1488 collected $0.05 from pot
+kusto1488: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: just1one26 folded before Flop (didn't bet)
+Seat 3: kusto1488 (button) collected ($0.05)
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 6: Kela1373 (big blind) folded before Flop
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: CarthCNZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924845896:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:41:37 PT [2021/06/29 2:41:37 ET]
+Table 'Starshine II' 9-max Seat #4 is the button
+Seat 2: just1one26 ($2.28 in chips) 
+Seat 3: kusto1488 ($3 in chips) 
+Seat 4: Dorex2007 ($1.98 in chips) 
+Seat 6: Kela1373 ($4.70 in chips) 
+Seat 7: Gawrosz23 ($3.78 in chips) 
+Seat 8: Zog Buster ($2.55 in chips) 
+Seat 9: CarthCNZ ($1.97 in chips) 
+Kela1373: posts small blind $0.01
+Gawrosz23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 3d]
+Zog Buster: raises $0.04 to $0.06
+CarthCNZ: folds 
+just1one26: folds 
+kusto1488: folds 
+Dorex2007: folds 
+Kela1373: folds 
+Gawrosz23: folds 
+Uncalled bet ($0.04) returned to Zog Buster
+Zog Buster collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: just1one26 folded before Flop (didn't bet)
+Seat 3: kusto1488 folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 6: Kela1373 (small blind) folded before Flop
+Seat 7: Gawrosz23 (big blind) folded before Flop
+Seat 8: Zog Buster collected ($0.05)
+Seat 9: CarthCNZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924847802:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:41:53 PT [2021/06/29 2:41:53 ET]
+Table 'Starshine II' 9-max Seat #6 is the button
+Seat 2: just1one26 ($2.28 in chips) 
+Seat 3: kusto1488 ($3 in chips) 
+Seat 4: Dorex2007 ($1.98 in chips) 
+Seat 5: toytown521 ($2.68 in chips) 
+Seat 6: Kela1373 ($4.69 in chips) 
+Seat 7: Gawrosz23 ($3.76 in chips) 
+Seat 8: Zog Buster ($2.58 in chips) 
+Seat 9: CarthCNZ ($1.97 in chips) 
+Gawrosz23: posts small blind $0.01
+Zog Buster: posts big blind $0.02
+toytown521: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Qd]
+CarthCNZ: folds 
+just1one26: raises $0.04 to $0.06
+kusto1488: calls $0.06
+Dorex2007: folds 
+toytown521: calls $0.04
+Kela1373: folds 
+Gawrosz23: folds 
+Zog Buster: folds 
+*** FLOP *** [6h 2s Th]
+just1one26: checks 
+kusto1488: checks 
+toytown521: bets $0.15
+just1one26: folds 
+kusto1488: folds 
+Uncalled bet ($0.15) returned to toytown521
+toytown521 collected $0.21 from pot
+toytown521: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [6h 2s Th]
+Seat 2: just1one26 folded on the Flop
+Seat 3: kusto1488 folded on the Flop
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 collected ($0.21)
+Seat 6: Kela1373 (button) folded before Flop (didn't bet)
+Seat 7: Gawrosz23 (small blind) folded before Flop
+Seat 8: Zog Buster (big blind) folded before Flop
+Seat 9: CarthCNZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924853983:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:42:42 PT [2021/06/29 2:42:42 ET]
+Table 'Starshine II' 9-max Seat #7 is the button
+Seat 2: just1one26 ($2.22 in chips) 
+Seat 3: kusto1488 ($2.94 in chips) 
+Seat 4: Dorex2007 ($1.98 in chips) 
+Seat 5: toytown521 ($2.82 in chips) 
+Seat 6: Kela1373 ($4.69 in chips) 
+Seat 7: Gawrosz23 ($3.75 in chips) 
+Seat 8: Zog Buster ($2.56 in chips) 
+Seat 9: CarthCNZ ($1.97 in chips) 
+Zog Buster: posts small blind $0.01
+CarthCNZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Td]
+just1one26: folds 
+kusto1488: raises $0.04 to $0.06
+Dorex2007: calls $0.06
+toytown521: folds 
+Kela1373: folds 
+Gawrosz23: folds 
+Zog Buster: folds 
+CarthCNZ: folds 
+*** FLOP *** [8h Ah 5h]
+kusto1488: checks 
+Dorex2007: checks 
+*** TURN *** [8h Ah 5h] [Kc]
+kusto1488: checks 
+Dorex2007: checks 
+*** RIVER *** [8h Ah 5h Kc] [Ks]
+kusto1488: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+kusto1488: shows [9s 9h] (two pair, Kings and Nines)
+Dorex2007: mucks hand 
+kusto1488 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8h Ah 5h Kc Ks]
+Seat 2: just1one26 folded before Flop (didn't bet)
+Seat 3: kusto1488 showed [9s 9h] and won ($0.14) with two pair, Kings and Nines
+Seat 4: Dorex2007 mucked [Qd Td]
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Gawrosz23 (button) folded before Flop (didn't bet)
+Seat 8: Zog Buster (small blind) folded before Flop
+Seat 9: CarthCNZ (big blind) folded before Flop
+
+
+
+PokerStars Hand #227924858443:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:43:17 PT [2021/06/29 2:43:17 ET]
+Table 'Starshine II' 9-max Seat #8 is the button
+Seat 2: just1one26 ($2.22 in chips) 
+Seat 3: kusto1488 ($3.02 in chips) 
+Seat 4: Dorex2007 ($1.92 in chips) 
+Seat 5: toytown521 ($2.82 in chips) 
+Seat 6: Kela1373 ($4.69 in chips) 
+Seat 7: Gawrosz23 ($3.75 in chips) 
+Seat 8: Zog Buster ($2.55 in chips) 
+Seat 9: CarthCNZ ($1.95 in chips) 
+CarthCNZ: posts small blind $0.01
+just1one26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 4s]
+kusto1488: folds 
+Dorex2007: calls $0.02
+toytown521: folds 
+Kela1373: folds 
+Gawrosz23: folds 
+Zog Buster: calls $0.02
+CarthCNZ: raises $0.04 to $0.06
+just1one26: folds 
+Dorex2007: calls $0.04
+Zog Buster: calls $0.04
+*** FLOP *** [Jd 7h 8d]
+CarthCNZ: checks 
+Dorex2007: checks 
+Zog Buster: checks 
+*** TURN *** [Jd 7h 8d] [Td]
+CarthCNZ: checks 
+Dorex2007: checks 
+Zog Buster: checks 
+*** RIVER *** [Jd 7h 8d Td] [Kd]
+CarthCNZ: bets $0.10
+Dorex2007: folds 
+Zog Buster: folds 
+Uncalled bet ($0.10) returned to CarthCNZ
+CarthCNZ collected $0.19 from pot
+CarthCNZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Jd 7h 8d Td Kd]
+Seat 2: just1one26 (big blind) folded before Flop
+Seat 3: kusto1488 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded on the River
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Gawrosz23 folded before Flop (didn't bet)
+Seat 8: Zog Buster (button) folded on the River
+Seat 9: CarthCNZ (small blind) collected ($0.19)
+
+
+
+PokerStars Hand #227924864646:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:44:07 PT [2021/06/29 2:44:07 ET]
+Table 'Starshine II' 9-max Seat #9 is the button
+Seat 2: just1one26 ($2.20 in chips) 
+Seat 3: kusto1488 ($3.02 in chips) 
+Seat 4: Dorex2007 ($1.86 in chips) 
+Seat 5: toytown521 ($2.82 in chips) 
+Seat 6: Kela1373 ($4.69 in chips) 
+Seat 8: Zog Buster ($2.49 in chips) 
+Seat 9: CarthCNZ ($2.08 in chips) 
+just1one26: posts small blind $0.01
+kusto1488: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 7d]
+Dorex2007: folds 
+toytown521: folds 
+Kela1373: calls $0.02
+Zog Buster: folds 
+CarthCNZ: folds 
+just1one26: calls $0.01
+kusto1488: checks 
+*** FLOP *** [Jh 9s As]
+just1one26: checks 
+kusto1488: checks 
+Kela1373: bets $0.02
+just1one26: folds 
+kusto1488: folds 
+Uncalled bet ($0.02) returned to Kela1373
+Kela1373 collected $0.06 from pot
+Kela1373: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Jh 9s As]
+Seat 2: just1one26 (small blind) folded on the Flop
+Seat 3: kusto1488 (big blind) folded on the Flop
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 collected ($0.06)
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: CarthCNZ (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924867884:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:44:33 PT [2021/06/29 2:44:33 ET]
+Table 'Starshine II' 9-max Seat #2 is the button
+Seat 2: just1one26 ($2.18 in chips) 
+Seat 3: kusto1488 ($3 in chips) 
+Seat 4: Dorex2007 ($1.86 in chips) 
+Seat 5: toytown521 ($2.82 in chips) 
+Seat 6: Kela1373 ($4.73 in chips) 
+Seat 8: Zog Buster ($2.49 in chips) 
+Seat 9: CarthCNZ ($2.08 in chips) 
+kusto1488: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Ac]
+toytown521: folds 
+Kela1373: folds 
+Zog Buster: folds 
+CarthCNZ: folds 
+just1one26: folds 
+kusto1488: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: just1one26 (button) folded before Flop (didn't bet)
+Seat 3: kusto1488 (small blind) folded before Flop
+Seat 4: Dorex2007 (big blind) collected ($0.02)
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: CarthCNZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924869723:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:44:48 PT [2021/06/29 2:44:48 ET]
+Table 'Starshine II' 9-max Seat #3 is the button
+Seat 2: just1one26 ($2.18 in chips) 
+Seat 3: kusto1488 ($2.99 in chips) 
+Seat 4: Dorex2007 ($1.87 in chips) 
+Seat 5: toytown521 ($2.82 in chips) 
+Seat 6: Kela1373 ($4.73 in chips) 
+Seat 8: Zog Buster ($2.49 in chips) 
+Seat 9: CarthCNZ ($2.08 in chips) 
+Dorex2007: posts small blind $0.01
+toytown521: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 6h]
+Kela1373: folds 
+Zog Buster: folds 
+CarthCNZ: raises $0.04 to $0.06
+just1one26: folds 
+kusto1488: calls $0.06
+Dorex2007: folds 
+toytown521: folds 
+*** FLOP *** [Ks 4h 3d]
+CarthCNZ: checks 
+kusto1488: checks 
+*** TURN *** [Ks 4h 3d] [9s]
+CarthCNZ: bets $0.04
+kusto1488: calls $0.04
+*** RIVER *** [Ks 4h 3d 9s] [3s]
+CarthCNZ: bets $0.11
+kusto1488: folds 
+Uncalled bet ($0.11) returned to CarthCNZ
+CarthCNZ collected $0.22 from pot
+CarthCNZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Ks 4h 3d 9s 3s]
+Seat 2: just1one26 folded before Flop (didn't bet)
+Seat 3: kusto1488 (button) folded on the River
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: toytown521 (big blind) folded before Flop
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: CarthCNZ collected ($0.22)
+
+
+
+PokerStars Hand #227924875886:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:45:38 PT [2021/06/29 2:45:38 ET]
+Table 'Starshine II' 9-max Seat #4 is the button
+Seat 2: just1one26 ($2.18 in chips) 
+Seat 3: kusto1488 ($2.89 in chips) 
+Seat 4: Dorex2007 ($1.86 in chips) 
+Seat 5: toytown521 ($2.80 in chips) 
+Seat 6: Kela1373 ($4.73 in chips) 
+Seat 7: Gawrosz23 ($3.75 in chips) 
+Seat 8: Zog Buster ($2.49 in chips) 
+Seat 9: CarthCNZ ($2.20 in chips) 
+toytown521: posts small blind $0.01
+Kela1373: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Ac]
+Gawrosz23: folds 
+Zog Buster: folds 
+CarthCNZ: folds 
+just1one26: folds 
+kusto1488: folds 
+Dorex2007: raises $0.04 to $0.06
+toytown521: folds 
+Kela1373: calls $0.04
+*** FLOP *** [5h 3d 2h]
+Kela1373: bets $0.07
+Dorex2007: folds 
+Uncalled bet ($0.07) returned to Kela1373
+Kela1373 collected $0.13 from pot
+Kela1373: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5h 3d 2h]
+Seat 2: just1one26 folded before Flop (didn't bet)
+Seat 3: kusto1488 folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded on the Flop
+Seat 5: toytown521 (small blind) folded before Flop
+Seat 6: Kela1373 (big blind) collected ($0.13)
+Seat 7: Gawrosz23 folded before Flop (didn't bet)
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: CarthCNZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924880015:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:46:11 PT [2021/06/29 2:46:11 ET]
+Table 'Starshine II' 9-max Seat #5 is the button
+Seat 2: just1one26 ($2.18 in chips) 
+Seat 3: kusto1488 ($2.89 in chips) 
+Seat 4: Dorex2007 ($1.80 in chips) 
+Seat 5: toytown521 ($2.79 in chips) 
+Seat 6: Kela1373 ($4.80 in chips) 
+Seat 7: Gawrosz23 ($3.75 in chips) 
+Seat 8: Zog Buster ($2.49 in chips) 
+Seat 9: CarthCNZ ($2.20 in chips) 
+Kela1373: posts small blind $0.01
+Gawrosz23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 5s]
+Zog Buster: folds 
+CarthCNZ: folds 
+just1one26: folds 
+kusto1488: folds 
+Dorex2007 has timed out
+Dorex2007: folds 
+toytown521: calls $0.02
+Kela1373: folds 
+Gawrosz23: checks 
+*** FLOP *** [Qd 2s Ts]
+Gawrosz23: checks 
+toytown521: bets $0.02
+Gawrosz23: folds 
+Uncalled bet ($0.02) returned to toytown521
+toytown521 collected $0.05 from pot
+toytown521: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qd 2s Ts]
+Seat 2: just1one26 folded before Flop (didn't bet)
+Seat 3: kusto1488 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 (button) collected ($0.05)
+Seat 6: Kela1373 (small blind) folded before Flop
+Seat 7: Gawrosz23 (big blind) folded on the Flop
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: CarthCNZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924883545:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:46:39 PT [2021/06/29 2:46:39 ET]
+Table 'Starshine II' 9-max Seat #6 is the button
+Seat 2: just1one26 ($2.18 in chips) 
+Seat 3: kusto1488 ($2.89 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: toytown521 ($2.82 in chips) 
+Seat 6: Kela1373 ($4.79 in chips) 
+Seat 7: Gawrosz23 ($3.73 in chips) 
+Seat 8: Zog Buster ($2.49 in chips) 
+Seat 9: CarthCNZ ($2.20 in chips) 
+Gawrosz23: posts small blind $0.01
+Zog Buster: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 3c]
+CarthCNZ: folds 
+just1one26: folds 
+kusto1488: folds 
+Dorex2007: folds 
+toytown521: calls $0.02
+Kela1373: folds 
+Gawrosz23: calls $0.01
+Zog Buster: checks 
+*** FLOP *** [7s Ts 2s]
+Gawrosz23: checks 
+Zog Buster: checks 
+toytown521: checks 
+*** TURN *** [7s Ts 2s] [Ah]
+Gawrosz23: checks 
+Zog Buster: checks 
+toytown521: checks 
+*** RIVER *** [7s Ts 2s Ah] [Qs]
+Gawrosz23: checks 
+Zog Buster: bets $0.06
+toytown521: folds 
+Gawrosz23: folds 
+Uncalled bet ($0.06) returned to Zog Buster
+Zog Buster collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [7s Ts 2s Ah Qs]
+Seat 2: just1one26 folded before Flop (didn't bet)
+Seat 3: kusto1488 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 folded on the River
+Seat 6: Kela1373 (button) folded before Flop (didn't bet)
+Seat 7: Gawrosz23 (small blind) folded on the River
+Seat 8: Zog Buster (big blind) collected ($0.06)
+Seat 9: CarthCNZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924887860:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:47:14 PT [2021/06/29 2:47:14 ET]
+Table 'Starshine II' 9-max Seat #7 is the button
+Seat 2: just1one26 ($2.18 in chips) 
+Seat 3: kusto1488 ($2.89 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: toytown521 ($2.80 in chips) 
+Seat 6: Kela1373 ($4.79 in chips) 
+Seat 7: Gawrosz23 ($3.71 in chips) 
+Seat 8: Zog Buster ($2.53 in chips) 
+Seat 9: CarthCNZ ($2.20 in chips) 
+Zog Buster: posts small blind $0.01
+CarthCNZ: posts big blind $0.02
+boogaga-5150: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Js]
+just1one26: folds 
+kusto1488: folds 
+Dorex2007: raises $0.04 to $0.06
+toytown521: folds 
+Kela1373: folds 
+Gawrosz23: folds 
+Zog Buster: folds 
+CarthCNZ: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: just1one26 folded before Flop (didn't bet)
+Seat 3: kusto1488 folded before Flop (didn't bet)
+Seat 4: Dorex2007 collected ($0.05)
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Gawrosz23 (button) folded before Flop (didn't bet)
+Seat 8: Zog Buster (small blind) folded before Flop
+Seat 9: CarthCNZ (big blind) folded before Flop
+
+
+
+PokerStars Hand #227924890748:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:47:38 PT [2021/06/29 2:47:38 ET]
+Table 'Starshine II' 9-max Seat #8 is the button
+Seat 1: boogaga-5150 ($1.09 in chips) 
+Seat 2: just1one26 ($2.18 in chips) 
+Seat 3: kusto1488 ($2.89 in chips) 
+Seat 4: Dorex2007 ($2.03 in chips) 
+Seat 5: toytown521 ($2.80 in chips) 
+Seat 6: Kela1373 ($4.79 in chips) 
+Seat 8: Zog Buster ($2.52 in chips) 
+Seat 9: CarthCNZ ($2.18 in chips) 
+CarthCNZ: posts small blind $0.01
+boogaga-5150: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 3h]
+just1one26: folds 
+kusto1488: folds 
+Dorex2007: folds 
+toytown521: folds 
+Kela1373: calls $0.02
+Zog Buster: folds 
+CarthCNZ: folds 
+boogaga-5150: checks 
+*** FLOP *** [8h Qd 5s]
+boogaga-5150: checks 
+Kela1373: checks 
+*** TURN *** [8h Qd 5s] [4s]
+boogaga-5150: bets $0.02
+Kela1373: folds 
+Uncalled bet ($0.02) returned to boogaga-5150
+boogaga-5150 collected $0.05 from pot
+boogaga-5150: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8h Qd 5s 4s]
+Seat 1: boogaga-5150 (big blind) collected ($0.05)
+Seat 2: just1one26 folded before Flop (didn't bet)
+Seat 3: kusto1488 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded on the Turn
+Seat 8: Zog Buster (button) folded before Flop (didn't bet)
+Seat 9: CarthCNZ (small blind) folded before Flop
+
+
+
+PokerStars Hand #227924895631:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:48:18 PT [2021/06/29 2:48:18 ET]
+Table 'Starshine II' 9-max Seat #9 is the button
+Seat 1: boogaga-5150 ($1.12 in chips) 
+Seat 2: just1one26 ($2.18 in chips) 
+Seat 3: kusto1488 ($2.89 in chips) 
+Seat 4: Dorex2007 ($2.03 in chips) 
+Seat 5: toytown521 ($2.80 in chips) 
+Seat 6: Kela1373 ($4.77 in chips) 
+Seat 8: Zog Buster ($2.52 in chips) 
+Seat 9: CarthCNZ ($2.17 in chips) 
+boogaga-5150: posts small blind $0.01
+just1one26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 2s]
+kusto1488: raises $0.04 to $0.06
+Dorex2007: folds 
+toytown521: calls $0.06
+Kela1373: folds 
+Zog Buster: folds 
+CarthCNZ: folds 
+boogaga-5150: folds 
+just1one26: folds 
+*** FLOP *** [9d 6h Qd]
+kusto1488: bets $0.07
+toytown521: folds 
+Uncalled bet ($0.07) returned to kusto1488
+kusto1488 collected $0.14 from pot
+kusto1488: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9d 6h Qd]
+Seat 1: boogaga-5150 (small blind) folded before Flop
+Seat 2: just1one26 (big blind) folded before Flop
+Seat 3: kusto1488 collected ($0.14)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 folded on the Flop
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: CarthCNZ (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924899507:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:48:50 PT [2021/06/29 2:48:50 ET]
+Table 'Starshine II' 9-max Seat #1 is the button
+Seat 1: boogaga-5150 ($1.11 in chips) 
+Seat 2: just1one26 ($2.16 in chips) 
+Seat 4: Dorex2007 ($2.03 in chips) 
+Seat 5: toytown521 ($2.74 in chips) 
+Seat 6: Kela1373 ($4.77 in chips) 
+Seat 8: Zog Buster ($2.52 in chips) 
+Seat 9: CarthCNZ ($2.17 in chips) 
+just1one26: posts small blind $0.01
+kusto1488: is sitting out 
+kusto1488 leaves the table
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Ts]
+toytown521: folds 
+Kela1373: folds 
+Zog Buster: folds 
+CarthCNZ: folds 
+boogaga-5150: folds 
+just1one26: calls $0.01
+Gawrosz23 is disconnected 
+Dorex2007: checks 
+*** FLOP *** [Kc 3c 6c]
+just1one26: bets $0.04
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to just1one26
+just1one26 collected $0.04 from pot
+just1one26: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Kc 3c 6c]
+Seat 1: boogaga-5150 (button) folded before Flop (didn't bet)
+Seat 2: just1one26 (small blind) collected ($0.04)
+Seat 4: Dorex2007 (big blind) folded on the Flop
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: CarthCNZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924903661:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:49:25 PT [2021/06/29 2:49:25 ET]
+Table 'Starshine II' 9-max Seat #2 is the button
+Seat 1: boogaga-5150 ($1.11 in chips) 
+Seat 2: just1one26 ($2.18 in chips) 
+Seat 4: Dorex2007 ($2.01 in chips) 
+Seat 5: toytown521 ($2.74 in chips) 
+Seat 6: Kela1373 ($4.77 in chips) 
+Seat 8: Zog Buster ($2.52 in chips) 
+Seat 9: CarthCNZ ($2.17 in chips) 
+Dorex2007: posts small blind $0.01
+toytown521: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 2h]
+Kela1373: folds 
+Zog Buster: folds 
+CarthCNZ: raises $0.04 to $0.06
+boogaga-5150: folds 
+just1one26: folds 
+Dorex2007: folds 
+toytown521: folds 
+Uncalled bet ($0.04) returned to CarthCNZ
+CarthCNZ collected $0.05 from pot
+CarthCNZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: boogaga-5150 folded before Flop (didn't bet)
+Seat 2: just1one26 (button) folded before Flop (didn't bet)
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: toytown521 (big blind) folded before Flop
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: CarthCNZ collected ($0.05)
+
+
+
+PokerStars Hand #227924905322:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:49:39 PT [2021/06/29 2:49:39 ET]
+Table 'Starshine II' 9-max Seat #4 is the button
+Seat 1: boogaga-5150 ($1.11 in chips) 
+Seat 2: just1one26 ($2.18 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: toytown521 ($2.72 in chips) 
+Seat 6: Kela1373 ($4.77 in chips) 
+Seat 8: Zog Buster ($2.52 in chips) 
+Seat 9: CarthCNZ ($2.20 in chips) 
+toytown521: posts small blind $0.01
+Kela1373: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Qd]
+Zog Buster: folds 
+CarthCNZ has timed out
+CarthCNZ: folds 
+boogaga-5150: raises $0.04 to $0.06
+just1one26: folds 
+Dorex2007: raises $0.06 to $0.12
+toytown521: folds 
+Kela1373: calls $0.10
+boogaga-5150: calls $0.06
+*** FLOP *** [2s 2h 4s]
+Kela1373: checks 
+boogaga-5150: checks 
+Dorex2007: bets $0.18
+Kela1373: folds 
+soultee88 joins the table at seat #3 
+boogaga-5150: raises $0.81 to $0.99 and is all-in
+Dorex2007: calls $0.81
+*** TURN *** [2s 2h 4s] [3c]
+*** RIVER *** [2s 2h 4s 3c] [6d]
+*** SHOW DOWN ***
+boogaga-5150: shows [As 9s] (a pair of Deuces)
+Dorex2007: shows [Qc Qd] (two pair, Queens and Deuces)
+Dorex2007 collected $2.27 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.08 
+Board [2s 2h 4s 3c 6d]
+Seat 1: boogaga-5150 showed [As 9s] and lost with a pair of Deuces
+Seat 2: just1one26 folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) showed [Qc Qd] and won ($2.27) with two pair, Queens and Deuces
+Seat 5: toytown521 (small blind) folded before Flop
+Seat 6: Kela1373 (big blind) folded on the Flop
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: CarthCNZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924913287:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:50:45 PT [2021/06/29 2:50:45 ET]
+Table 'Starshine II' 9-max Seat #5 is the button
+Seat 2: just1one26 ($2.18 in chips) 
+Seat 4: Dorex2007 ($3.16 in chips) 
+Seat 5: toytown521 ($2.71 in chips) 
+Seat 6: Kela1373 ($4.65 in chips) 
+Seat 8: Zog Buster ($2.52 in chips) 
+Seat 9: CarthCNZ ($2.20 in chips) 
+Kela1373: posts small blind $0.01
+Zog Buster: posts big blind $0.02
+soultee88: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 8s]
+boogaga-5150 leaves the table
+CarthCNZ: folds 
+just1one26: folds 
+Dorex2007: folds 
+toytown521: folds 
+Kela1373: calls $0.01
+Zog Buster: checks 
+*** FLOP *** [Qd Jh 2d]
+Kela1373: checks 
+Zog Buster: checks 
+*** TURN *** [Qd Jh 2d] [3h]
+Kela1373: bets $0.02
+Tiltacion26 joins the table at seat #1 
+Zog Buster: calls $0.02
+*** RIVER *** [Qd Jh 2d 3h] [6d]
+Kela1373: bets $0.02
+Zog Buster: folds 
+Uncalled bet ($0.02) returned to Kela1373
+Kela1373 collected $0.08 from pot
+Kela1373: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Qd Jh 2d 3h 6d]
+Seat 2: just1one26 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 (button) folded before Flop (didn't bet)
+Seat 6: Kela1373 (small blind) collected ($0.08)
+Seat 8: Zog Buster (big blind) folded on the River
+Seat 9: CarthCNZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924917317:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:51:18 PT [2021/06/29 2:51:18 ET]
+Table 'Starshine II' 9-max Seat #6 is the button
+Seat 2: just1one26 ($2.18 in chips) 
+Seat 4: Dorex2007 ($3.16 in chips) 
+Seat 5: toytown521 ($2.71 in chips) 
+Seat 6: Kela1373 ($4.69 in chips) 
+Seat 8: Zog Buster ($2.48 in chips) 
+Seat 9: CarthCNZ ($2.20 in chips) 
+Zog Buster: posts small blind $0.01
+CarthCNZ: posts big blind $0.02
+Tiltacion26: sits out 
+soultee88: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Jh]
+just1one26: raises $0.04 to $0.06
+Dorex2007: folds 
+toytown521: calls $0.06
+Kela1373: folds 
+Zog Buster: folds 
+CarthCNZ: folds 
+*** FLOP *** [Td Ac 5s]
+just1one26: checks 
+toytown521: checks 
+*** TURN *** [Td Ac 5s] [4c]
+just1one26: bets $0.07
+toytown521: calls $0.07
+*** RIVER *** [Td Ac 5s 4c] [3s]
+just1one26: bets $0.14
+toytown521: raises $0.56 to $0.70
+just1one26: folds 
+Uncalled bet ($0.56) returned to toytown521
+toytown521 collected $0.55 from pot
+toytown521: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [Td Ac 5s 4c 3s]
+Seat 2: just1one26 folded on the River
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 collected ($0.55)
+Seat 6: Kela1373 (button) folded before Flop (didn't bet)
+Seat 8: Zog Buster (small blind) folded before Flop
+Seat 9: CarthCNZ (big blind) folded before Flop
+
+
+
+PokerStars Hand #227924921955:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:51:56 PT [2021/06/29 2:51:56 ET]
+Table 'Starshine II' 9-max Seat #8 is the button
+Seat 1: Tiltacion26 ($2 in chips) 
+Seat 2: just1one26 ($2 in chips) 
+Seat 4: Dorex2007 ($3.16 in chips) 
+Seat 5: toytown521 ($2.99 in chips) 
+Seat 6: Kela1373 ($4.69 in chips) 
+Seat 7: Gawrosz23 ($3.71 in chips) 
+Seat 8: Zog Buster ($2.47 in chips) 
+Seat 9: CarthCNZ ($2.18 in chips) 
+CarthCNZ: posts small blind $0.01
+Tiltacion26: posts big blind $0.02
+soultee88: sits out 
+Gawrosz23: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 9s]
+just1one26: folds 
+Dorex2007: folds 
+toytown521: folds 
+Kela1373: folds 
+Gawrosz23: checks 
+Zog Buster: folds 
+CarthCNZ: calls $0.01
+Tiltacion26: checks 
+*** FLOP *** [Js 7h 9h]
+CarthCNZ: checks 
+Tiltacion26: bets $0.04
+Gawrosz23: calls $0.04
+CarthCNZ: calls $0.04
+*** TURN *** [Js 7h 9h] [Qs]
+CarthCNZ: checks 
+Tiltacion26: bets $0.14
+Gawrosz23: folds 
+CarthCNZ: calls $0.14
+*** RIVER *** [Js 7h 9h Qs] [Kh]
+CarthCNZ: bets $0.23
+Tiltacion26: folds 
+Uncalled bet ($0.23) returned to CarthCNZ
+CarthCNZ collected $0.45 from pot
+CarthCNZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [Js 7h 9h Qs Kh]
+Seat 1: Tiltacion26 (big blind) folded on the River
+Seat 2: just1one26 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Gawrosz23 folded on the Turn
+Seat 8: Zog Buster (button) folded before Flop (didn't bet)
+Seat 9: CarthCNZ (small blind) collected ($0.45)
+
+
+
+PokerStars Hand #227924931997:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:52:46 PT [2021/06/29 2:52:46 ET]
+Table 'Starshine II' 9-max Seat #9 is the button
+Seat 1: Tiltacion26 ($1.80 in chips) 
+Seat 2: just1one26 ($2 in chips) 
+Seat 4: Dorex2007 ($3.16 in chips) 
+Seat 5: toytown521 ($2.99 in chips) 
+Seat 6: Kela1373 ($4.69 in chips) 
+Seat 7: Gawrosz23 ($3.64 in chips) 
+Seat 8: Zog Buster ($2.47 in chips) 
+Seat 9: CarthCNZ ($2.43 in chips) 
+Tiltacion26: posts small blind $0.01
+just1one26: posts big blind $0.02
+soultee88: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Js]
+Dorex2007: raises $0.04 to $0.06
+toytown521: folds 
+Kela1373: folds 
+Gawrosz23: calls $0.06
+Zog Buster: folds 
+CarthCNZ: folds 
+Tiltacion26: folds 
+just1one26: calls $0.04
+*** FLOP *** [Qc Ah 5c]
+just1one26: checks 
+Dorex2007: checks 
+Gawrosz23: checks 
+*** TURN *** [Qc Ah 5c] [Th]
+just1one26: checks 
+Dorex2007: checks 
+Gawrosz23: checks 
+*** RIVER *** [Qc Ah 5c Th] [Qd]
+just1one26: checks 
+Dorex2007: bets $0.18
+Gawrosz23: calls $0.18
+just1one26: folds 
+*** SHOW DOWN ***
+Dorex2007: shows [Ks Js] (a straight, Ten to Ace)
+Gawrosz23: mucks hand 
+Dorex2007 collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Qc Ah 5c Th Qd]
+Seat 1: Tiltacion26 (small blind) folded before Flop
+Seat 2: just1one26 (big blind) folded on the River
+Seat 4: Dorex2007 showed [Ks Js] and won ($0.53) with a straight, Ten to Ace
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Gawrosz23 mucked [Qh Kd]
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: CarthCNZ (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924936686:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:53:25 PT [2021/06/29 2:53:25 ET]
+Table 'Starshine II' 9-max Seat #1 is the button
+Seat 1: Tiltacion26 ($1.99 in chips) 
+Seat 2: just1one26 ($2 in chips) 
+Seat 3: soultee88 ($2 in chips) 
+Seat 4: Dorex2007 ($3.45 in chips) 
+Seat 5: toytown521 ($2.99 in chips) 
+Seat 6: Kela1373 ($4.69 in chips) 
+Seat 7: Gawrosz23 ($3.40 in chips) 
+Seat 8: Zog Buster ($2.47 in chips) 
+Seat 9: CarthCNZ ($2.43 in chips) 
+just1one26: posts small blind $0.01
+soultee88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Td]
+Dorex2007: folds 
+toytown521: folds 
+Kela1373: folds 
+Gawrosz23: folds 
+Zog Buster: folds 
+CarthCNZ: folds 
+Tiltacion26: folds 
+just1one26: calls $0.01
+soultee88: raises $0.08 to $0.10
+just1one26: folds 
+Uncalled bet ($0.08) returned to soultee88
+soultee88 collected $0.04 from pot
+soultee88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Tiltacion26 (button) folded before Flop (didn't bet)
+Seat 2: just1one26 (small blind) folded before Flop
+Seat 3: soultee88 (big blind) collected ($0.04)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Gawrosz23 folded before Flop (didn't bet)
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: CarthCNZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924939562:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:53:48 PT [2021/06/29 2:53:48 ET]
+Table 'Starshine II' 9-max Seat #2 is the button
+Seat 1: Tiltacion26 ($1.99 in chips) 
+Seat 2: just1one26 ($2 in chips) 
+Seat 3: soultee88 ($2.02 in chips) 
+Seat 4: Dorex2007 ($3.45 in chips) 
+Seat 5: toytown521 ($2.99 in chips) 
+Seat 6: Kela1373 ($4.69 in chips) 
+Seat 7: Gawrosz23 ($3.40 in chips) 
+Seat 8: Zog Buster ($2.47 in chips) 
+Seat 9: CarthCNZ ($2.43 in chips) 
+soultee88: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d Ad]
+toytown521: folds 
+Kela1373: folds 
+Gawrosz23: folds 
+Zog Buster: folds 
+CarthCNZ: raises $0.04 to $0.06
+Tiltacion26: folds 
+just1one26: folds 
+soultee88: folds 
+Dorex2007: calls $0.04
+*** FLOP *** [2h 3d 5c]
+Dorex2007: checks 
+CarthCNZ: bets $0.07
+Dorex2007: calls $0.07
+*** TURN *** [2h 3d 5c] [4h]
+Dorex2007: checks 
+CarthCNZ: checks 
+*** RIVER *** [2h 3d 5c 4h] [Th]
+Dorex2007: bets $0.17
+CarthCNZ: calls $0.17
+*** SHOW DOWN ***
+Dorex2007: shows [8d Ad] (a straight, Ace to Five)
+CarthCNZ: mucks hand 
+Dorex2007 collected $0.59 from pot
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [2h 3d 5c 4h Th]
+Seat 1: Tiltacion26 folded before Flop (didn't bet)
+Seat 2: just1one26 (button) folded before Flop (didn't bet)
+Seat 3: soultee88 (small blind) folded before Flop
+Seat 4: Dorex2007 (big blind) showed [8d Ad] and won ($0.59) with a straight, Ace to Five
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Gawrosz23 folded before Flop (didn't bet)
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: CarthCNZ mucked [9s 9h]
+
+
+
+PokerStars Hand #227924946061:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:54:42 PT [2021/06/29 2:54:42 ET]
+Table 'Starshine II' 9-max Seat #3 is the button
+Seat 1: Tiltacion26 ($1.99 in chips) 
+Seat 2: just1one26 ($2 in chips) 
+Seat 3: soultee88 ($2.01 in chips) 
+Seat 4: Dorex2007 ($3.74 in chips) 
+Seat 5: toytown521 ($2.99 in chips) 
+Seat 6: Kela1373 ($4.69 in chips) 
+Seat 7: Gawrosz23 ($3.40 in chips) 
+Seat 8: Zog Buster ($2.47 in chips) 
+Seat 9: CarthCNZ ($2.13 in chips) 
+Dorex2007: posts small blind $0.01
+toytown521: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 6h]
+Kela1373: folds 
+Gawrosz23: folds 
+Zog Buster: folds 
+CarthCNZ: folds 
+Tiltacion26: folds 
+just1one26: folds 
+soultee88: folds 
+Dorex2007: calls $0.01
+toytown521: checks 
+*** FLOP *** [7d 2c Jc]
+Dorex2007: checks 
+toytown521: bets $0.04
+Dorex2007: calls $0.04
+*** TURN *** [7d 2c Jc] [4d]
+Dorex2007: bets $0.08
+toytown521: calls $0.08
+*** RIVER *** [7d 2c Jc 4d] [Ac]
+Dorex2007: checks 
+toytown521: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [Jd 6h] (a pair of Jacks)
+toytown521: shows [Js Kd] (a pair of Jacks - Ace+King kicker)
+toytown521 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [7d 2c Jc 4d Ac]
+Seat 1: Tiltacion26 folded before Flop (didn't bet)
+Seat 2: just1one26 folded before Flop (didn't bet)
+Seat 3: soultee88 (button) folded before Flop (didn't bet)
+Seat 4: Dorex2007 (small blind) showed [Jd 6h] and lost with a pair of Jacks
+Seat 5: toytown521 (big blind) showed [Js Kd] and won ($0.27) with a pair of Jacks
+Seat 6: Kela1373 folded before Flop (didn't bet)
+Seat 7: Gawrosz23 folded before Flop (didn't bet)
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: CarthCNZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924949962:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:55:15 PT [2021/06/29 2:55:15 ET]
+Table 'Starshine II' 9-max Seat #4 is the button
+Seat 1: Tiltacion26 ($1.99 in chips) 
+Seat 2: just1one26 ($2 in chips) 
+Seat 3: soultee88 ($2.01 in chips) 
+Seat 4: Dorex2007 ($3.60 in chips) 
+Seat 5: toytown521 ($3.12 in chips) 
+Seat 7: Gawrosz23 ($3.40 in chips) 
+Seat 8: Zog Buster ($2.47 in chips) 
+Seat 9: CarthCNZ ($2.13 in chips) 
+toytown521: posts small blind $0.01
+Kela1373: is sitting out 
+Gawrosz23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 2c]
+Zog Buster: folds 
+CarthCNZ: folds 
+Tiltacion26: raises $0.04 to $0.06
+just1one26: folds 
+soultee88: folds 
+Dorex2007: folds 
+toytown521: folds 
+Gawrosz23: calls $0.04
+*** FLOP *** [As 2h Ts]
+Gawrosz23: checks 
+CarthCNZ leaves the table
+Tiltacion26: bets $0.07
+Gawrosz23: calls $0.07
+*** TURN *** [As 2h Ts] [Ad]
+Gawrosz23: checks 
+Tiltacion26: checks 
+*** RIVER *** [As 2h Ts Ad] [6d]
+Gawrosz23: checks 
+Tiltacion26: bets $0.30
+Gawrosz23: folds 
+Uncalled bet ($0.30) returned to Tiltacion26
+Tiltacion26 collected $0.26 from pot
+Tiltacion26: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [As 2h Ts Ad 6d]
+Seat 1: Tiltacion26 collected ($0.26)
+Seat 2: just1one26 folded before Flop (didn't bet)
+Seat 3: soultee88 folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: toytown521 (small blind) folded before Flop
+Seat 7: Gawrosz23 (big blind) folded on the River
+Seat 8: Zog Buster folded before Flop (didn't bet)
+Seat 9: CarthCNZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924952951:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:55:44 PT [2021/06/29 2:55:44 ET]
+Table 'Starshine II' 9-max Seat #5 is the button
+Seat 1: Tiltacion26 ($2.12 in chips) 
+Seat 2: just1one26 ($2 in chips) 
+Seat 3: soultee88 ($2.01 in chips) 
+Seat 4: Dorex2007 ($3.60 in chips) 
+Seat 5: toytown521 ($3.11 in chips) 
+Seat 7: Gawrosz23 ($3.27 in chips) 
+Seat 8: Zog Buster ($2.47 in chips) 
+Gawrosz23: posts small blind $0.01
+Zog Buster: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 9s]
+Kela1373 leaves the table
+Tiltacion26: folds 
+just1one26: folds 
+soultee88: folds 
+Dorex2007: folds 
+toytown521: folds 
+Tiltacion26 leaves the table
+Gawrosz23: calls $0.01
+Zog Buster: checks 
+*** FLOP *** [Qs Th Jd]
+Gawrosz23: checks 
+Zog Buster: checks 
+*** TURN *** [Qs Th Jd] [6d]
+Gawrosz23: checks 
+Zog Buster: checks 
+*** RIVER *** [Qs Th Jd 6d] [5s]
+Gawrosz23: checks 
+Zog Buster: checks 
+*** SHOW DOWN ***
+Gawrosz23: shows [4h Ac] (high card Ace)
+Zog Buster: shows [3c 5d] (a pair of Fives)
+Zog Buster collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Qs Th Jd 6d 5s]
+Seat 1: Tiltacion26 folded before Flop (didn't bet)
+Seat 2: just1one26 folded before Flop (didn't bet)
+Seat 3: soultee88 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 (button) folded before Flop (didn't bet)
+Seat 7: Gawrosz23 (small blind) showed [4h Ac] and lost with high card Ace
+Seat 8: Zog Buster (big blind) showed [3c 5d] and won ($0.04) with a pair of Fives
+
+
+
+PokerStars Hand #227924955185:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:56:06 PT [2021/06/29 2:56:06 ET]
+Table 'Starshine II' 9-max Seat #7 is the button
+Seat 2: just1one26 ($2 in chips) 
+Seat 3: soultee88 ($2.01 in chips) 
+Seat 4: Dorex2007 ($3.60 in chips) 
+Seat 5: toytown521 ($3.11 in chips) 
+Seat 7: Gawrosz23 ($3.25 in chips) 
+Seat 8: Zog Buster ($2.49 in chips) 
+Zog Buster: posts small blind $0.01
+just1one26: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Th]
+soultee88: folds 
+Dorex2007: folds 
+toytown521: folds 
+Gawrosz23: calls $0.02
+Zog Buster: folds 
+just1one26: checks 
+*** FLOP *** [5c 4d Jc]
+just1one26: checks 
+Gawrosz23: checks 
+*** TURN *** [5c 4d Jc] [9c]
+just1one26: checks 
+Gawrosz23: checks 
+*** RIVER *** [5c 4d Jc 9c] [3h]
+just1one26: checks 
+Gawrosz23: checks 
+*** SHOW DOWN ***
+just1one26: shows [3d Ts] (a pair of Threes)
+Gawrosz23: shows [7d 5h] (a pair of Fives)
+Gawrosz23 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5c 4d Jc 9c 3h]
+Seat 2: just1one26 (big blind) showed [3d Ts] and lost with a pair of Threes
+Seat 3: soultee88 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 folded before Flop (didn't bet)
+Seat 7: Gawrosz23 (button) showed [7d 5h] and won ($0.05) with a pair of Fives
+Seat 8: Zog Buster (small blind) folded before Flop
+
+
+
+PokerStars Hand #227924957290:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:56:25 PT [2021/06/29 2:56:25 ET]
+Table 'Starshine II' 9-max Seat #8 is the button
+Seat 2: just1one26 ($2 in chips) 
+Seat 3: soultee88 ($2.01 in chips) 
+Seat 4: Dorex2007 ($3.60 in chips) 
+Seat 5: toytown521 ($3.11 in chips) 
+Seat 7: Gawrosz23 ($3.28 in chips) 
+Seat 8: Zog Buster ($2.48 in chips) 
+just1one26: posts small blind $0.01
+soultee88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Qd]
+Dorex2007: raises $0.04 to $0.06
+toytown521: raises $0.12 to $0.18
+Gawrosz23: folds 
+Zog Buster: folds 
+just1one26: folds 
+soultee88: folds 
+Dorex2007: calls $0.12
+*** FLOP *** [Qh 4d 6d]
+Dorex2007: checks 
+toytown521: bets $0.27
+Dorex2007: raises $3.15 to $3.42 and is all-in
+toytown521: calls $2.66 and is all-in
+Uncalled bet ($0.49) returned to Dorex2007
+*** TURN *** [Qh 4d 6d] [Td]
+*** RIVER *** [Qh 4d 6d Td] [2d]
+*** SHOW DOWN ***
+Dorex2007: shows [Qc Qd] (a flush, Queen high)
+toytown521: shows [Ac Ad] (a flush, Ace high)
+toytown521 collected $6.03 from pot
+Dorex2007 cashed out the hand for $5.25 | Cash Out Fee $0.05
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.22 
+Board [Qh 4d 6d Td 2d]
+Seat 2: just1one26 (small blind) folded before Flop
+Seat 3: soultee88 (big blind) folded before Flop
+Seat 4: Dorex2007 showed [Qc Qd] and lost with a flush, Queen high (cashed out).
+Seat 5: toytown521 showed [Ac Ad] and won ($6.03) with a flush, Ace high
+Seat 7: Gawrosz23 folded before Flop (didn't bet)
+Seat 8: Zog Buster (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924968205:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:58:08 PT [2021/06/29 2:58:08 ET]
+Table 'Starshine II' 9-max Seat #5 is the button
+Seat 2: just1one26 ($2 in chips) 
+Seat 4: Dorex2007 ($5.74 in chips) 
+Seat 5: toytown521 ($6.18 in chips) 
+Seat 7: Gawrosz23 ($3.21 in chips) 
+Seat 8: Zog Buster ($2.48 in chips) 
+Gawrosz23: posts small blind $0.01
+Zog Buster: posts big blind $0.02
+Dorex2007: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 3s]
+just1one26: folds 
+Dorex2007: checks 
+toytown521: folds 
+Gawrosz23: folds 
+Zog Buster: checks 
+*** FLOP *** [3d 8h Kd]
+Zog Buster: checks 
+Dorex2007: checks 
+*** TURN *** [3d 8h Kd] [Ac]
+Zog Buster: checks 
+Dorex2007: checks 
+*** RIVER *** [3d 8h Kd Ac] [6h]
+Zog Buster: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+Zog Buster: shows [9c 6s] (a pair of Sixes)
+Dorex2007: mucks hand 
+Zog Buster collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [3d 8h Kd Ac 6h]
+Seat 2: just1one26 folded before Flop (didn't bet)
+Seat 4: Dorex2007 mucked [9s 3s]
+Seat 5: toytown521 (button) folded before Flop (didn't bet)
+Seat 7: Gawrosz23 (small blind) folded before Flop
+Seat 8: Zog Buster (big blind) showed [9c 6s] and won ($0.06) with a pair of Sixes
+
+
+
+PokerStars Hand #227924970783:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:58:31 PT [2021/06/29 2:58:31 ET]
+Table 'Starshine II' 9-max Seat #7 is the button
+Seat 4: Dorex2007 ($5.71 in chips) 
+Seat 5: toytown521 ($6.18 in chips) 
+Seat 7: Gawrosz23 ($3.20 in chips) 
+Seat 8: Zog Buster ($2.52 in chips) 
+Zog Buster: posts small blind $0.01
+just1one26: is sitting out 
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 7s]
+toytown521: calls $0.02
+Gawrosz23: folds 
+Zog Buster: folds 
+Dorex2007: checks 
+*** FLOP *** [2h Qd 6d]
+Dorex2007: checks 
+just1one26 leaves the table
+toytown521: checks 
+*** TURN *** [2h Qd 6d] [Jd]
+Dorex2007: checks 
+toytown521: checks 
+*** RIVER *** [2h Qd 6d Jd] [9d]
+Dorex2007: checks 
+toytown521: bets $0.05
+Dorex2007: folds 
+Uncalled bet ($0.05) returned to toytown521
+toytown521 collected $0.05 from pot
+toytown521: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2h Qd 6d Jd 9d]
+Seat 4: Dorex2007 (big blind) folded on the River
+Seat 5: toytown521 collected ($0.05)
+Seat 7: Gawrosz23 (button) folded before Flop (didn't bet)
+Seat 8: Zog Buster (small blind) folded before Flop
+
+
+
+PokerStars Hand #227924973350:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:58:55 PT [2021/06/29 2:58:55 ET]
+Table 'Starshine II' 9-max Seat #8 is the button
+Seat 4: Dorex2007 ($5.69 in chips) 
+Seat 5: toytown521 ($6.21 in chips) 
+Seat 7: Gawrosz23 ($3.20 in chips) 
+Seat 8: Zog Buster ($2.51 in chips) 
+Dorex2007: posts small blind $0.01
+toytown521: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 4c]
+Gawrosz23: folds 
+Zog Buster: folds 
+Dorex2007: raises $0.04 to $0.06
+toytown521: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.04 from pot
+CrRocknrolla joins the table at seat #1 
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 4: Dorex2007 (small blind) collected ($0.04)
+Seat 5: toytown521 (big blind) folded before Flop
+Seat 7: Gawrosz23 folded before Flop (didn't bet)
+Seat 8: Zog Buster (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924974893:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:59:10 PT [2021/06/29 2:59:10 ET]
+Table 'Starshine II' 9-max Seat #4 is the button
+Seat 4: Dorex2007 ($5.71 in chips) 
+Seat 5: toytown521 ($6.19 in chips) 
+Seat 7: Gawrosz23 ($3.20 in chips) 
+Seat 8: Zog Buster ($2.51 in chips) 
+toytown521: posts small blind $0.01
+Gawrosz23: posts big blind $0.02
+CrRocknrolla: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 5h]
+toytown521 said, "I have lost the previous 3 AA"
+Zog Buster: folds 
+Zog Buster leaves the table
+Dorex2007: folds 
+toytown521: calls $0.01
+Gawrosz23: checks 
+*** FLOP *** [6s Ah 9s]
+toytown521: bets $0.02
+Gawrosz23: folds 
+Uncalled bet ($0.02) returned to toytown521
+toytown521 collected $0.04 from pot
+toytown521: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [6s Ah 9s]
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: toytown521 (small blind) collected ($0.04)
+Seat 7: Gawrosz23 (big blind) folded on the Flop
+Seat 8: Zog Buster folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #227924976636:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/06/28 23:59:27 PT [2021/06/29 2:59:27 ET]
+Table 'Starshine II' 9-max Seat #5 is the button
+Seat 1: CrRocknrolla ($0.80 in chips) 
+Seat 4: Dorex2007 ($5.71 in chips) 
+Seat 5: toytown521 ($6.21 in chips) 
+Seat 7: Gawrosz23 ($3.18 in chips) 
+Gawrosz23: posts small blind $0.01
+CrRocknrolla: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 6h]
+Dorex2007: folds 
+toytown521: folds 
+Gawrosz23: calls $0.01
+CrRocknrolla: checks 
+*** FLOP *** [3h Kc 8c]
+Gawrosz23: checks 
+CrRocknrolla: checks 
+*** TURN *** [3h Kc 8c] [Ks]
+Gawrosz23: bets $0.02
+Dorex2007 said, "yeah, it's been brutal today for me too"
+CrRocknrolla: calls $0.02
+*** RIVER *** [3h Kc 8c Ks] [9d]
+Gawrosz23: checks 
+CrRocknrolla: bets $0.09
+Gawrosz23: calls $0.09
+*** SHOW DOWN ***
+CrRocknrolla: shows [Td 7d] (a pair of Kings)
+Gawrosz23: shows [Jd 8s] (two pair, Kings and Eights)
+Gawrosz23 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [3h Kc 8c Ks 9d]
+Seat 1: CrRocknrolla (big blind) showed [Td 7d] and lost with a pair of Kings
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: toytown521 (button) folded before Flop (didn't bet)
+Seat 7: Gawrosz23 (small blind) showed [Jd 8s] and won ($0.25) with two pair, Kings and Eights
+
+
+

@@ -1,0 +1,3431 @@
+﻿PokerStars Hand #232004835220:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:34:42 PT [2021/12/06 18:34:42 ET]
+Table 'Terebellum' 9-max Seat #5 is the button
+Seat 1: droctagon101 ($1.01 in chips) 
+Seat 2: WeinertBR ($2.21 in chips) 
+Seat 3: sd_stefan ($2.96 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.14 in chips) 
+Seat 6: ctrbyfn ($2.27 in chips) 
+Seat 8: GummyJ ($2 in chips) 
+ctrbyfn: posts small blind $0.01
+GummyJ: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 8h]
+droctagon101: folds 
+WeinertBR: folds 
+sd_stefan: raises $0.03 to $0.05
+Dorex2007: folds 
+Tenorio422: folds 
+ctrbyfn: folds 
+GummyJ: calls $0.03
+*** FLOP *** [Qc Kc 3c]
+GummyJ: checks 
+sd_stefan: bets $0.03
+GummyJ: calls $0.03
+*** TURN *** [Qc Kc 3c] [6d]
+GummyJ: checks 
+sd_stefan: bets $0.04
+GummyJ: calls $0.04
+*** RIVER *** [Qc Kc 3c 6d] [9s]
+GummyJ: checks 
+sd_stefan: checks 
+*** SHOW DOWN ***
+GummyJ: shows [Ts Jh] (a straight, Nine to King)
+sd_stefan: mucks hand 
+GummyJ collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Qc Kc 3c 6d 9s]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: WeinertBR folded before Flop (didn't bet)
+Seat 3: sd_stefan mucked [Qh Jc]
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 (button) folded before Flop (didn't bet)
+Seat 6: ctrbyfn (small blind) folded before Flop
+Seat 8: GummyJ (big blind) showed [Ts Jh] and won ($0.26) with a straight, Nine to King
+
+
+
+PokerStars Hand #232004853899:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:35:30 PT [2021/12/06 18:35:30 ET]
+Table 'Terebellum' 9-max Seat #6 is the button
+Seat 1: droctagon101 ($1.01 in chips) 
+Seat 2: WeinertBR ($2.21 in chips) 
+Seat 3: sd_stefan ($2.84 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.14 in chips) 
+Seat 6: ctrbyfn ($2.26 in chips) 
+Seat 8: GummyJ ($2.14 in chips) 
+GummyJ: posts small blind $0.01
+droctagon101: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 2s]
+WeinertBR: folds 
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+ctrbyfn: folds 
+GummyJ: raises $0.04 to $0.06
+droctagon101: folds 
+Uncalled bet ($0.04) returned to GummyJ
+GummyJ collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: droctagon101 (big blind) folded before Flop
+Seat 2: WeinertBR folded before Flop (didn't bet)
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: ctrbyfn (button) folded before Flop (didn't bet)
+Seat 8: GummyJ (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #232004860062:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:35:45 PT [2021/12/06 18:35:45 ET]
+Table 'Terebellum' 9-max Seat #8 is the button
+Seat 1: droctagon101 ($0.99 in chips) 
+Seat 2: WeinertBR ($2.21 in chips) 
+Seat 3: sd_stefan ($2.84 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.14 in chips) 
+Seat 6: ctrbyfn ($2.26 in chips) 
+Seat 7: casis44 ($0.06 in chips) 
+Seat 8: GummyJ ($2.16 in chips) 
+droctagon101: posts small blind $0.01
+WeinertBR: posts big blind $0.02
+casis44: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Qc]
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+ctrbyfn: folds 
+casis44: raises $0.03 to $0.05 and is all-in
+GummyJ: calls $0.05
+droctagon101: folds 
+WeinertBR: calls $0.03
+*** FLOP *** [Qh Kc Js]
+WeinertBR: bets $0.05
+GummyJ: calls $0.05
+*** TURN *** [Qh Kc Js] [4s]
+WeinertBR: bets $0.09
+GummyJ: calls $0.09
+*** RIVER *** [Qh Kc Js 4s] [3d]
+WeinertBR: bets $0.14
+GummyJ: calls $0.14
+*** SHOW DOWN ***
+WeinertBR: shows [8h Kh] (a pair of Kings)
+GummyJ: mucks hand 
+WeinertBR collected $0.54 from side pot
+casis44: mucks hand 
+WeinertBR collected $0.16 from main pot
+*** SUMMARY ***
+Total pot $0.73 Main pot $0.16. Side pot $0.54. | Rake $0.03 
+Board [Qh Kc Js 4s 3d]
+Seat 1: droctagon101 (small blind) folded before Flop
+Seat 2: WeinertBR (big blind) showed [8h Kh] and won ($0.70) with a pair of Kings
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: ctrbyfn folded before Flop (didn't bet)
+Seat 7: casis44 mucked [2d 7s]
+Seat 8: GummyJ (button) mucked [9s Qs]
+
+
+
+PokerStars Hand #232004886324:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:36:52 PT [2021/12/06 18:36:52 ET]
+Table 'Terebellum' 9-max Seat #1 is the button
+Seat 1: droctagon101 ($0.98 in chips) 
+Seat 2: WeinertBR ($2.58 in chips) 
+Seat 3: sd_stefan ($2.84 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.14 in chips) 
+Seat 6: ctrbyfn ($2.26 in chips) 
+Seat 8: GummyJ ($1.83 in chips) 
+WeinertBR: posts small blind $0.01
+sd_stefan: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Ah]
+Dorex2007: folds 
+Tenorio422: folds 
+ctrbyfn: calls $0.02
+GummyJ: calls $0.02
+droctagon101: folds 
+WeinertBR: calls $0.01
+sd_stefan: checks 
+*** FLOP *** [7s Jh 8c]
+WeinertBR: checks 
+sd_stefan: checks 
+ctrbyfn: checks 
+GummyJ: bets $0.04
+edoschenko joins the table at seat #7 
+WeinertBR: folds 
+sd_stefan: folds 
+ctrbyfn: calls $0.04
+*** TURN *** [7s Jh 8c] [Qc]
+ctrbyfn: checks 
+GummyJ: bets $0.08
+ctrbyfn: folds 
+Uncalled bet ($0.08) returned to GummyJ
+GummyJ collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [7s Jh 8c Qc]
+Seat 1: droctagon101 (button) folded before Flop (didn't bet)
+Seat 2: WeinertBR (small blind) folded on the Flop
+Seat 3: sd_stefan (big blind) folded on the Flop
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: ctrbyfn folded on the Turn
+Seat 8: GummyJ collected ($0.15)
+
+
+
+PokerStars Hand #232004921465:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:38:22 PT [2021/12/06 18:38:22 ET]
+Table 'Terebellum' 9-max Seat #2 is the button
+Seat 1: droctagon101 ($0.98 in chips) 
+Seat 2: WeinertBR ($2.56 in chips) 
+Seat 3: sd_stefan ($2.82 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.14 in chips) 
+Seat 6: ctrbyfn ($2.20 in chips) 
+Seat 8: GummyJ ($1.92 in chips) 
+sd_stefan: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+edoschenko: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 9d]
+Tenorio422: folds 
+ctrbyfn: folds 
+GummyJ: folds 
+droctagon101: raises $0.04 to $0.06
+WeinertBR: raises $0.08 to $0.14
+sd_stefan: folds 
+Dorex2007: folds 
+droctagon101: folds 
+Uncalled bet ($0.08) returned to WeinertBR
+WeinertBR collected $0.15 from pot
+WeinertBR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: droctagon101 folded before Flop
+Seat 2: WeinertBR (button) collected ($0.15)
+Seat 3: sd_stefan (small blind) folded before Flop
+Seat 4: Dorex2007 (big blind) folded before Flop
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: ctrbyfn folded before Flop (didn't bet)
+Seat 8: GummyJ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232004930020:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:38:44 PT [2021/12/06 18:38:44 ET]
+Table 'Terebellum' 9-max Seat #3 is the button
+Seat 1: droctagon101 ($0.92 in chips) 
+Seat 2: WeinertBR ($2.65 in chips) 
+Seat 3: sd_stefan ($2.81 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.14 in chips) 
+Seat 6: ctrbyfn ($2.20 in chips) 
+Seat 8: GummyJ ($1.92 in chips) 
+Dorex2007: posts small blind $0.01
+Tenorio422: posts big blind $0.02
+edoschenko: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 9h]
+ctrbyfn: folds 
+GummyJ: folds 
+droctagon101: raises $0.04 to $0.06
+WeinertBR: folds 
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+Uncalled bet ($0.04) returned to droctagon101
+droctagon101 collected $0.05 from pot
+droctagon101: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: droctagon101 collected ($0.05)
+Seat 2: WeinertBR folded before Flop (didn't bet)
+Seat 3: sd_stefan (button) folded before Flop (didn't bet)
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: Tenorio422 (big blind) folded before Flop
+Seat 6: ctrbyfn folded before Flop (didn't bet)
+Seat 8: GummyJ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232004941284:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:39:13 PT [2021/12/06 18:39:13 ET]
+Table 'Terebellum' 9-max Seat #4 is the button
+Seat 1: droctagon101 ($0.95 in chips) 
+Seat 2: WeinertBR ($2.65 in chips) 
+Seat 3: sd_stefan ($2.81 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.12 in chips) 
+Seat 6: ctrbyfn ($2.20 in chips) 
+Seat 8: GummyJ ($1.92 in chips) 
+Tenorio422: posts small blind $0.01
+ctrbyfn: posts big blind $0.02
+edoschenko: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 6h]
+GummyJ: folds 
+droctagon101: folds 
+WeinertBR: raises $0.03 to $0.05
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+ctrbyfn: calls $0.03
+*** FLOP *** [Jh 2s Ks]
+ctrbyfn: checks 
+WeinertBR: bets $0.06
+ctrbyfn: calls $0.06
+*** TURN *** [Jh 2s Ks] [2c]
+ctrbyfn: checks 
+WeinertBR: bets $0.10
+ctrbyfn: folds 
+Uncalled bet ($0.10) returned to WeinertBR
+WeinertBR collected $0.22 from pot
+WeinertBR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Jh 2s Ks 2c]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: WeinertBR collected ($0.22)
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: Tenorio422 (small blind) folded before Flop
+Seat 6: ctrbyfn (big blind) folded on the Turn
+Seat 8: GummyJ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232004959189:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:40:00 PT [2021/12/06 18:40:00 ET]
+Table 'Terebellum' 9-max Seat #5 is the button
+Seat 1: droctagon101 ($0.95 in chips) 
+Seat 2: WeinertBR ($2.76 in chips) 
+Seat 3: sd_stefan ($2.81 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.11 in chips) 
+Seat 6: ctrbyfn ($2.09 in chips) 
+Seat 7: edoschenko ($2 in chips) 
+Seat 8: GummyJ ($1.92 in chips) 
+ctrbyfn: posts small blind $0.01
+edoschenko: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 5h]
+GummyJ: raises $0.04 to $0.06
+droctagon101: folds 
+WeinertBR: folds 
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: calls $0.06
+ctrbyfn: folds 
+edoschenko: folds 
+*** FLOP *** [Qc Kd Jd]
+GummyJ: bets $0.08
+Tenorio422: folds 
+Uncalled bet ($0.08) returned to GummyJ
+GummyJ collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qc Kd Jd]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: WeinertBR folded before Flop (didn't bet)
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 (button) folded on the Flop
+Seat 6: ctrbyfn (small blind) folded before Flop
+Seat 7: edoschenko (big blind) folded before Flop
+Seat 8: GummyJ collected ($0.14)
+
+
+
+PokerStars Hand #232004966411:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:40:18 PT [2021/12/06 18:40:18 ET]
+Table 'Terebellum' 9-max Seat #6 is the button
+Seat 1: droctagon101 ($0.95 in chips) 
+Seat 2: WeinertBR ($2.76 in chips) 
+Seat 3: sd_stefan ($2.81 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.05 in chips) 
+Seat 6: ctrbyfn ($2.08 in chips) 
+Seat 7: edoschenko ($1.98 in chips) 
+Seat 8: GummyJ ($2 in chips) 
+edoschenko: posts small blind $0.01
+GummyJ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 4s]
+droctagon101: folds 
+WeinertBR: folds 
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+ctrbyfn: folds 
+edoschenko: folds 
+Uncalled bet ($0.01) returned to GummyJ
+GummyJ collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: WeinertBR folded before Flop (didn't bet)
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: ctrbyfn (button) folded before Flop (didn't bet)
+Seat 7: edoschenko (small blind) folded before Flop
+Seat 8: GummyJ (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #232004970194:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:40:28 PT [2021/12/06 18:40:28 ET]
+Table 'Terebellum' 9-max Seat #7 is the button
+Seat 1: droctagon101 ($0.95 in chips) 
+Seat 2: WeinertBR ($2.76 in chips) 
+Seat 3: sd_stefan ($2.81 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 6: ctrbyfn ($2.08 in chips) 
+Seat 7: edoschenko ($1.97 in chips) 
+Seat 8: GummyJ ($2.01 in chips) 
+GummyJ: posts small blind $0.01
+droctagon101: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Ts]
+WeinertBR: raises $0.03 to $0.05
+sd_stefan: folds 
+Dorex2007: folds 
+ctrbyfn: folds 
+edoschenko: folds 
+GummyJ: folds 
+droctagon101: folds 
+Uncalled bet ($0.03) returned to WeinertBR
+WeinertBR collected $0.05 from pot
+MustardWall leaves the table
+WeinertBR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: droctagon101 (big blind) folded before Flop
+Seat 2: WeinertBR collected ($0.05)
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 6: ctrbyfn folded before Flop (didn't bet)
+Seat 7: edoschenko (button) folded before Flop (didn't bet)
+Seat 8: GummyJ (small blind) folded before Flop
+
+
+
+PokerStars Hand #232004978922:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:40:51 PT [2021/12/06 18:40:51 ET]
+Table 'Terebellum' 9-max Seat #8 is the button
+Seat 1: droctagon101 ($0.93 in chips) 
+Seat 2: WeinertBR ($2.79 in chips) 
+Seat 3: sd_stefan ($2.81 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 6: ctrbyfn ($2.08 in chips) 
+Seat 7: edoschenko ($1.97 in chips) 
+Seat 8: GummyJ ($2 in chips) 
+droctagon101: posts small blind $0.01
+WeinertBR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 7s]
+sd_stefan: raises $0.04 to $0.06
+Dorex2007: folds 
+Disright joins the table at seat #9 
+ctrbyfn: calls $0.06
+edoschenko: folds 
+GummyJ: folds 
+droctagon101: folds 
+WeinertBR: calls $0.04
+*** FLOP *** [Td 9c 8h]
+WeinertBR: checks 
+sd_stefan: bets $0.06
+ctrbyfn: folds 
+WeinertBR: folds 
+Uncalled bet ($0.06) returned to sd_stefan
+sd_stefan collected $0.18 from pot
+sd_stefan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Td 9c 8h]
+Seat 1: droctagon101 (small blind) folded before Flop
+Seat 2: WeinertBR (big blind) folded on the Flop
+Seat 3: sd_stefan collected ($0.18)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 6: ctrbyfn folded on the Flop
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: GummyJ (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232004994577:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:41:31 PT [2021/12/06 18:41:31 ET]
+Table 'Terebellum' 9-max Seat #1 is the button
+Seat 1: droctagon101 ($0.92 in chips) 
+Seat 2: WeinertBR ($2.73 in chips) 
+Seat 3: sd_stefan ($2.93 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 6: ctrbyfn ($2.02 in chips) 
+Seat 7: edoschenko ($1.97 in chips) 
+Seat 8: GummyJ ($2 in chips) 
+WeinertBR: posts small blind $0.01
+sd_stefan: posts big blind $0.02
+Disright: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Th]
+Dorex2007: folds 
+ctrbyfn: folds 
+edoschenko: folds 
+GummyJ: folds 
+droctagon101: folds 
+WeinertBR: raises $0.04 to $0.06
+sd_stefan: folds 
+Uncalled bet ($0.04) returned to WeinertBR
+WeinertBR collected $0.04 from pot
+WeinertBR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: droctagon101 (button) folded before Flop (didn't bet)
+Seat 2: WeinertBR (small blind) collected ($0.04)
+Seat 3: sd_stefan (big blind) folded before Flop
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 6: ctrbyfn folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: GummyJ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005000583:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:41:47 PT [2021/12/06 18:41:47 ET]
+Table 'Terebellum' 9-max Seat #2 is the button
+Seat 1: droctagon101 ($0.92 in chips) 
+Seat 2: WeinertBR ($2.75 in chips) 
+Seat 3: sd_stefan ($2.91 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 6: ctrbyfn ($2.02 in chips) 
+Seat 7: edoschenko ($1.97 in chips) 
+Seat 8: GummyJ ($2 in chips) 
+sd_stefan: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Disright: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Kh]
+ctrbyfn: folds 
+edoschenko: folds 
+GummyJ: folds 
+droctagon101: folds 
+WeinertBR: raises $0.04 to $0.06
+sd_stefan: folds 
+Dorex2007: raises $0.12 to $0.18
+WeinertBR: folds 
+Uncalled bet ($0.12) returned to Dorex2007
+Dorex2007 collected $0.13 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: WeinertBR (button) folded before Flop
+Seat 3: sd_stefan (small blind) folded before Flop
+Seat 4: Dorex2007 (big blind) collected ($0.13)
+Seat 6: ctrbyfn folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: GummyJ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005013373:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:42:20 PT [2021/12/06 18:42:20 ET]
+Table 'Terebellum' 9-max Seat #3 is the button
+Seat 1: droctagon101 ($0.92 in chips) 
+Seat 2: WeinertBR ($2.69 in chips) 
+Seat 3: sd_stefan ($2.90 in chips) 
+Seat 4: Dorex2007 ($2.07 in chips) 
+Seat 5: Tenorio422 ($6.05 in chips) 
+Seat 6: ctrbyfn ($2.02 in chips) 
+Seat 7: edoschenko ($1.97 in chips) 
+Seat 8: GummyJ ($2 in chips) 
+Dorex2007: posts small blind $0.01
+Tenorio422: posts big blind $0.02
+Disright: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 3s]
+ctrbyfn: folds 
+edoschenko: folds 
+GummyJ: folds 
+droctagon101: folds 
+WeinertBR: folds 
+sd_stefan: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to Tenorio422
+Tenorio422 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: WeinertBR folded before Flop (didn't bet)
+Seat 3: sd_stefan (button) folded before Flop (didn't bet)
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: Tenorio422 (big blind) collected ($0.02)
+Seat 6: ctrbyfn folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: GummyJ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005018576:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:42:34 PT [2021/12/06 18:42:34 ET]
+Table 'Terebellum' 9-max Seat #4 is the button
+Seat 1: droctagon101 ($0.92 in chips) 
+Seat 2: WeinertBR ($2.69 in chips) 
+Seat 3: sd_stefan ($2.90 in chips) 
+Seat 4: Dorex2007 ($2.06 in chips) 
+Seat 5: Tenorio422 ($6.06 in chips) 
+Seat 6: ctrbyfn ($2.02 in chips) 
+Seat 7: edoschenko ($1.97 in chips) 
+Seat 8: GummyJ ($2 in chips) 
+Tenorio422: posts small blind $0.01
+ctrbyfn: posts big blind $0.02
+Disright: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 4h]
+edoschenko: folds 
+GummyJ: folds 
+droctagon101: folds 
+WeinertBR: folds 
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: raises $0.04 to $0.06
+ctrbyfn: folds 
+Uncalled bet ($0.04) returned to Tenorio422
+Tenorio422 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: WeinertBR folded before Flop (didn't bet)
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: Tenorio422 (small blind) collected ($0.04)
+Seat 6: ctrbyfn (big blind) folded before Flop
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: GummyJ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005023628:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:42:47 PT [2021/12/06 18:42:47 ET]
+Table 'Terebellum' 9-max Seat #5 is the button
+Seat 1: droctagon101 ($0.92 in chips) 
+Seat 2: WeinertBR ($2.69 in chips) 
+Seat 3: sd_stefan ($2.90 in chips) 
+Seat 4: Dorex2007 ($2.06 in chips) 
+Seat 5: Tenorio422 ($6.08 in chips) 
+Seat 6: ctrbyfn ($2 in chips) 
+Seat 7: edoschenko ($1.97 in chips) 
+Seat 8: GummyJ ($2 in chips) 
+ctrbyfn: posts small blind $0.01
+edoschenko: posts big blind $0.02
+Disright: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 7h]
+GummyJ: folds 
+droctagon101: folds 
+WeinertBR: folds 
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+ctrbyfn: calls $0.01
+edoschenko: raises $0.06 to $0.08
+ctrbyfn: folds 
+Uncalled bet ($0.06) returned to edoschenko
+edoschenko collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: WeinertBR folded before Flop (didn't bet)
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 (button) folded before Flop (didn't bet)
+Seat 6: ctrbyfn (small blind) folded before Flop
+Seat 7: edoschenko (big blind) collected ($0.04)
+Seat 8: GummyJ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005032902:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:43:11 PT [2021/12/06 18:43:11 ET]
+Table 'Terebellum' 9-max Seat #6 is the button
+Seat 1: droctagon101 ($0.92 in chips) 
+Seat 2: WeinertBR ($2.69 in chips) 
+Seat 3: sd_stefan ($2.90 in chips) 
+Seat 4: Dorex2007 ($2.06 in chips) 
+Seat 5: Tenorio422 ($6.08 in chips) 
+Seat 6: ctrbyfn ($1.98 in chips) 
+Seat 7: edoschenko ($1.99 in chips) 
+Seat 8: GummyJ ($2 in chips) 
+edoschenko: posts small blind $0.01
+GummyJ: posts big blind $0.02
+Disright: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 3c]
+droctagon101: folds 
+WeinertBR: folds 
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+ctrbyfn: folds 
+edoschenko: folds 
+Uncalled bet ($0.01) returned to GummyJ
+GummyJ collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: WeinertBR folded before Flop (didn't bet)
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: ctrbyfn (button) folded before Flop (didn't bet)
+Seat 7: edoschenko (small blind) folded before Flop
+Seat 8: GummyJ (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #232005037033:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:43:22 PT [2021/12/06 18:43:22 ET]
+Table 'Terebellum' 9-max Seat #7 is the button
+Seat 1: droctagon101 ($0.92 in chips) 
+Seat 2: WeinertBR ($2.69 in chips) 
+Seat 3: sd_stefan ($2.90 in chips) 
+Seat 4: Dorex2007 ($2.06 in chips) 
+Seat 5: Tenorio422 ($6.08 in chips) 
+Seat 6: ctrbyfn ($1.98 in chips) 
+Seat 7: edoschenko ($1.98 in chips) 
+Seat 8: GummyJ ($2.01 in chips) 
+Seat 9: Disright ($2 in chips) 
+GummyJ: posts small blind $0.01
+Disright: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Kc]
+droctagon101: folds 
+WeinertBR: folds 
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+ctrbyfn: folds 
+edoschenko: folds 
+GummyJ: raises $0.04 to $0.06
+Disright: folds 
+Uncalled bet ($0.04) returned to GummyJ
+GummyJ collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: WeinertBR folded before Flop (didn't bet)
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: ctrbyfn folded before Flop (didn't bet)
+Seat 7: edoschenko (button) folded before Flop (didn't bet)
+Seat 8: GummyJ (small blind) collected ($0.04)
+Seat 9: Disright (big blind) folded before Flop
+
+
+
+PokerStars Hand #232005046036:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:43:45 PT [2021/12/06 18:43:45 ET]
+Table 'Terebellum' 9-max Seat #8 is the button
+Seat 1: droctagon101 ($0.92 in chips) 
+Seat 2: WeinertBR ($2.69 in chips) 
+Seat 3: sd_stefan ($2.90 in chips) 
+Seat 4: Dorex2007 ($2.06 in chips) 
+Seat 5: Tenorio422 ($6.08 in chips) 
+Seat 6: ctrbyfn ($1.98 in chips) 
+Seat 7: edoschenko ($1.98 in chips) 
+Seat 8: GummyJ ($2.03 in chips) 
+Seat 9: Disright ($1.98 in chips) 
+Disright: posts small blind $0.01
+droctagon101: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Th]
+WeinertBR: folds 
+sd_stefan: raises $0.04 to $0.06
+Dorex2007: folds 
+Tenorio422: calls $0.06
+ctrbyfn: folds 
+edoschenko: folds 
+GummyJ: calls $0.06
+Disright: calls $0.05
+droctagon101: folds 
+*** FLOP *** [2d 5d Kc]
+Disright: bets $0.24
+sd_stefan: folds 
+Tenorio422: folds 
+GummyJ: folds 
+Uncalled bet ($0.24) returned to Disright
+Disright collected $0.25 from pot
+Disright: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [2d 5d Kc]
+Seat 1: droctagon101 (big blind) folded before Flop
+Seat 2: WeinertBR folded before Flop (didn't bet)
+Seat 3: sd_stefan folded on the Flop
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded on the Flop
+Seat 6: ctrbyfn folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: GummyJ (button) folded on the Flop
+Seat 9: Disright (small blind) collected ($0.25)
+
+
+
+PokerStars Hand #232005066748:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:44:22 PT [2021/12/06 18:44:22 ET]
+Table 'Terebellum' 9-max Seat #9 is the button
+Seat 1: droctagon101 ($0.90 in chips) 
+Seat 2: WeinertBR ($2.69 in chips) 
+Seat 3: sd_stefan ($2.84 in chips) 
+Seat 4: Dorex2007 ($2.06 in chips) 
+Seat 5: Tenorio422 ($6.02 in chips) 
+Seat 6: ctrbyfn ($1.98 in chips) 
+Seat 7: edoschenko ($1.98 in chips) 
+Seat 8: GummyJ ($1.97 in chips) 
+Seat 9: Disright ($2.17 in chips) 
+droctagon101: posts small blind $0.01
+WeinertBR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 5d]
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: raises $0.04 to $0.06
+ctrbyfn: folds 
+edoschenko: raises $0.06 to $0.12
+GummyJ: folds 
+Disright: folds 
+droctagon101: folds 
+WeinertBR: folds 
+Tenorio422: raises $0.24 to $0.36
+edoschenko: folds 
+Uncalled bet ($0.24) returned to Tenorio422
+Tenorio422 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0 
+Seat 1: droctagon101 (small blind) folded before Flop
+Seat 2: WeinertBR (big blind) folded before Flop
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 collected ($0.27)
+Seat 6: ctrbyfn folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop
+Seat 8: GummyJ folded before Flop (didn't bet)
+Seat 9: Disright (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005077947:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:44:51 PT [2021/12/06 18:44:51 ET]
+Table 'Terebellum' 9-max Seat #1 is the button
+Seat 1: droctagon101 ($0.89 in chips) 
+Seat 2: WeinertBR ($2.67 in chips) 
+Seat 3: sd_stefan ($2.84 in chips) 
+Seat 4: Dorex2007 ($2.06 in chips) 
+Seat 5: Tenorio422 ($6.17 in chips) 
+Seat 6: ctrbyfn ($1.98 in chips) 
+Seat 7: edoschenko ($1.86 in chips) 
+Seat 8: GummyJ ($1.97 in chips) 
+Seat 9: Disright ($2.17 in chips) 
+WeinertBR: posts small blind $0.01
+sd_stefan: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Js]
+Dorex2007: folds 
+Tenorio422: raises $0.04 to $0.06
+ctrbyfn: folds 
+edoschenko: folds 
+GummyJ: folds 
+Disright: folds 
+droctagon101: folds 
+WeinertBR: folds 
+sd_stefan: folds 
+Uncalled bet ($0.04) returned to Tenorio422
+Tenorio422 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: droctagon101 (button) folded before Flop (didn't bet)
+Seat 2: WeinertBR (small blind) folded before Flop
+Seat 3: sd_stefan (big blind) folded before Flop
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 collected ($0.05)
+Seat 6: ctrbyfn folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: GummyJ folded before Flop (didn't bet)
+Seat 9: Disright folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005085672:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:45:12 PT [2021/12/06 18:45:12 ET]
+Table 'Terebellum' 9-max Seat #2 is the button
+Seat 1: droctagon101 ($0.89 in chips) 
+Seat 2: WeinertBR ($2.66 in chips) 
+Seat 3: sd_stefan ($2.82 in chips) 
+Seat 4: Dorex2007 ($2.06 in chips) 
+Seat 5: Tenorio422 ($6.20 in chips) 
+Seat 6: ctrbyfn ($1.98 in chips) 
+Seat 7: edoschenko ($1.86 in chips) 
+Seat 8: GummyJ ($1.97 in chips) 
+Seat 9: Disright ($2.17 in chips) 
+sd_stefan: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Kh]
+Tenorio422: folds 
+ctrbyfn: folds 
+edoschenko: folds 
+GummyJ: raises $0.04 to $0.06
+Disright: folds 
+droctagon101: folds 
+WeinertBR: calls $0.06
+sd_stefan: folds 
+Dorex2007: calls $0.04
+*** FLOP *** [Qh 4h 2d]
+Dorex2007: checks 
+GummyJ: bets $0.08
+WeinertBR: calls $0.08
+Dorex2007: calls $0.08
+*** TURN *** [Qh 4h 2d] [Kd]
+Dorex2007: checks 
+GummyJ: checks 
+WeinertBR: checks 
+*** RIVER *** [Qh 4h 2d Kd] [Jh]
+Dorex2007: bets $0.21
+GummyJ: calls $0.21
+WeinertBR: folds 
+*** SHOW DOWN ***
+Dorex2007: shows [Ac Kh] (a pair of Kings)
+GummyJ: shows [Ks Kc] (three of a kind, Kings)
+GummyJ collected $0.82 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.03 
+Board [Qh 4h 2d Kd Jh]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: WeinertBR (button) folded on the River
+Seat 3: sd_stefan (small blind) folded before Flop
+Seat 4: Dorex2007 (big blind) showed [Ac Kh] and lost with a pair of Kings
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: ctrbyfn folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: GummyJ showed [Ks Kc] and won ($0.82) with three of a kind, Kings
+Seat 9: Disright folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005114606:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:46:29 PT [2021/12/06 18:46:29 ET]
+Table 'Terebellum' 9-max Seat #3 is the button
+Seat 1: droctagon101 ($0.89 in chips) 
+Seat 2: WeinertBR ($2.52 in chips) 
+Seat 3: sd_stefan ($2.81 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.20 in chips) 
+Seat 6: ctrbyfn ($1.98 in chips) 
+Seat 7: edoschenko ($1.86 in chips) 
+Seat 8: GummyJ ($2.44 in chips) 
+Seat 9: Disright ($2.17 in chips) 
+Dorex2007: posts small blind $0.01
+Tenorio422: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Jh]
+ctrbyfn: folds 
+edoschenko: folds 
+GummyJ: folds 
+Disright: folds 
+droctagon101: folds 
+WeinertBR: folds 
+sd_stefan: raises $0.03 to $0.05
+Dorex2007: folds 
+Tenorio422: folds 
+Uncalled bet ($0.03) returned to sd_stefan
+sd_stefan collected $0.05 from pot
+sd_stefan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: WeinertBR folded before Flop (didn't bet)
+Seat 3: sd_stefan (button) collected ($0.05)
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: Tenorio422 (big blind) folded before Flop
+Seat 6: ctrbyfn folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: GummyJ folded before Flop (didn't bet)
+Seat 9: Disright folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005122125:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:46:49 PT [2021/12/06 18:46:49 ET]
+Table 'Terebellum' 9-max Seat #4 is the button
+Seat 1: droctagon101 ($0.89 in chips) 
+Seat 2: WeinertBR ($2.52 in chips) 
+Seat 3: sd_stefan ($2.84 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.18 in chips) 
+Seat 7: edoschenko ($1.86 in chips) 
+Seat 8: GummyJ ($2.44 in chips) 
+Seat 9: Disright ($2.17 in chips) 
+Tenorio422: posts small blind $0.01
+ctrbyfn: is sitting out 
+edoschenko: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s Td]
+GummyJ: folds 
+Disright: folds 
+droctagon101: folds 
+WeinertBR: raises $0.03 to $0.05
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+edoschenko: folds 
+Uncalled bet ($0.03) returned to WeinertBR
+WeinertBR collected $0.05 from pot
+WeinertBR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: WeinertBR collected ($0.05)
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: Tenorio422 (small blind) folded before Flop
+Seat 7: edoschenko (big blind) folded before Flop
+Seat 8: GummyJ folded before Flop (didn't bet)
+Seat 9: Disright folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005131073:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:47:12 PT [2021/12/06 18:47:12 ET]
+Table 'Terebellum' 9-max Seat #5 is the button
+Seat 1: droctagon101 ($0.89 in chips) 
+Seat 2: WeinertBR ($2.55 in chips) 
+Seat 3: sd_stefan ($2.84 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.17 in chips) 
+Seat 7: edoschenko ($1.84 in chips) 
+Seat 8: GummyJ ($2.44 in chips) 
+Seat 9: Disright ($2.17 in chips) 
+edoschenko: posts small blind $0.01
+GummyJ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Jc]
+Disright: folds 
+droctagon101: folds 
+WeinertBR: folds 
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: raises $0.04 to $0.06
+edoschenko: folds 
+GummyJ: calls $0.04
+*** FLOP *** [6c 9h 7h]
+GummyJ: checks 
+Tenorio422: bets $0.10
+GummyJ: calls $0.10
+*** TURN *** [6c 9h 7h] [2d]
+GummyJ: bets $0.12
+Tenorio422: raises $0.28 to $0.40
+GummyJ: calls $0.28
+*** RIVER *** [6c 9h 7h 2d] [4s]
+GummyJ: checks 
+Tenorio422: checks 
+*** SHOW DOWN ***
+GummyJ: shows [9c 8s] (a pair of Nines)
+Tenorio422: shows [6h 6s] (three of a kind, Sixes)
+Tenorio422 collected $1.09 from pot
+*** SUMMARY ***
+Total pot $1.13 | Rake $0.04 
+Board [6c 9h 7h 2d 4s]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: WeinertBR folded before Flop (didn't bet)
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 (button) showed [6h 6s] and won ($1.09) with three of a kind, Sixes
+Seat 7: edoschenko (small blind) folded before Flop
+Seat 8: GummyJ (big blind) showed [9c 8s] and lost with a pair of Nines
+Seat 9: Disright folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005146114:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:47:52 PT [2021/12/06 18:47:52 ET]
+Table 'Terebellum' 9-max Seat #7 is the button
+Seat 1: droctagon101 ($0.89 in chips) 
+Seat 2: WeinertBR ($2.55 in chips) 
+Seat 3: sd_stefan ($2.84 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.70 in chips) 
+Seat 7: edoschenko ($1.83 in chips) 
+Seat 8: GummyJ ($1.88 in chips) 
+Seat 9: Disright ($2.17 in chips) 
+GummyJ: posts small blind $0.01
+Disright: posts big blind $0.02
+ctrbyfn: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 3s]
+droctagon101: folds 
+WeinertBR: folds 
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+edoschenko: raises $0.04 to $0.06
+GummyJ: calls $0.05
+Disright: folds 
+*** FLOP *** [2d 4s Jd]
+GummyJ: checks 
+edoschenko: bets $0.08
+GummyJ: raises $0.12 to $0.20
+edoschenko: folds 
+Uncalled bet ($0.12) returned to GummyJ
+GummyJ collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [2d 4s Jd]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: WeinertBR folded before Flop (didn't bet)
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 7: edoschenko (button) folded on the Flop
+Seat 8: GummyJ (small blind) collected ($0.29)
+Seat 9: Disright (big blind) folded before Flop
+
+
+
+PokerStars Hand #232005159640:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:48:28 PT [2021/12/06 18:48:28 ET]
+Table 'Terebellum' 9-max Seat #8 is the button
+Seat 1: droctagon101 ($0.89 in chips) 
+Seat 2: WeinertBR ($2.55 in chips) 
+Seat 3: sd_stefan ($2.84 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.70 in chips) 
+Seat 7: edoschenko ($1.69 in chips) 
+Seat 8: GummyJ ($2.03 in chips) 
+Seat 9: Disright ($2.15 in chips) 
+Disright: posts small blind $0.01
+droctagon101: posts big blind $0.02
+ctrbyfn: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Jd]
+WeinertBR: folds 
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+edoschenko: folds 
+GummyJ: raises $0.04 to $0.06
+Disright: folds 
+droctagon101: folds 
+Uncalled bet ($0.04) returned to GummyJ
+GummyJ collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: droctagon101 (big blind) folded before Flop
+Seat 2: WeinertBR folded before Flop (didn't bet)
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: GummyJ (button) collected ($0.05)
+Seat 9: Disright (small blind) folded before Flop
+
+
+
+PokerStars Hand #232005168825:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:48:53 PT [2021/12/06 18:48:53 ET]
+Table 'Terebellum' 9-max Seat #9 is the button
+Seat 1: droctagon101 ($0.87 in chips) 
+Seat 2: WeinertBR ($2.55 in chips) 
+Seat 3: sd_stefan ($2.84 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.70 in chips) 
+Seat 7: edoschenko ($1.69 in chips) 
+Seat 8: GummyJ ($2.06 in chips) 
+Seat 9: Disright ($2.14 in chips) 
+droctagon101: posts small blind $0.01
+WeinertBR: posts big blind $0.02
+ctrbyfn: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 5c]
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+edoschenko: folds 
+GummyJ: folds 
+Disright: folds 
+droctagon101: raises $0.04 to $0.06
+WeinertBR: raises $0.06 to $0.12
+droctagon101: calls $0.06
+*** FLOP *** [8d Kd As]
+droctagon101: checks 
+WeinertBR: bets $0.12
+droctagon101: folds 
+Uncalled bet ($0.12) returned to WeinertBR
+WeinertBR collected $0.23 from pot
+WeinertBR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [8d Kd As]
+Seat 1: droctagon101 (small blind) folded on the Flop
+Seat 2: WeinertBR (big blind) collected ($0.23)
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: GummyJ folded before Flop (didn't bet)
+Seat 9: Disright (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005186308:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:49:40 PT [2021/12/06 18:49:40 ET]
+Table 'Terebellum' 9-max Seat #1 is the button
+Seat 1: droctagon101 ($2 in chips) 
+Seat 2: WeinertBR ($2.66 in chips) 
+Seat 3: sd_stefan ($2.84 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.70 in chips) 
+Seat 7: edoschenko ($1.69 in chips) 
+Seat 8: GummyJ ($2.06 in chips) 
+Seat 9: Disright ($2.14 in chips) 
+WeinertBR: posts small blind $0.01
+sd_stefan: posts big blind $0.02
+ctrbyfn: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 7d]
+Dorex2007: folds 
+Tenorio422: folds 
+edoschenko: raises $0.06 to $0.08
+GummyJ: folds 
+Disright: folds 
+droctagon101: folds 
+WeinertBR: calls $0.07
+sd_stefan: folds 
+*** FLOP *** [As 8c 3h]
+WeinertBR: checks 
+edoschenko: bets $0.12
+WeinertBR: folds 
+Uncalled bet ($0.12) returned to edoschenko
+edoschenko collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [As 8c 3h]
+Seat 1: droctagon101 (button) folded before Flop (didn't bet)
+Seat 2: WeinertBR (small blind) folded on the Flop
+Seat 3: sd_stefan (big blind) folded before Flop
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 7: edoschenko collected ($0.17)
+Seat 8: GummyJ folded before Flop (didn't bet)
+Seat 9: Disright folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005200985:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:50:19 PT [2021/12/06 18:50:19 ET]
+Table 'Terebellum' 9-max Seat #2 is the button
+Seat 1: droctagon101 ($2 in chips) 
+Seat 2: WeinertBR ($2.58 in chips) 
+Seat 3: sd_stefan ($2.82 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.70 in chips) 
+Seat 7: edoschenko ($1.78 in chips) 
+Seat 8: GummyJ ($2.06 in chips) 
+Seat 9: Disright ($2.14 in chips) 
+sd_stefan: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+ctrbyfn: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Qh]
+Tenorio422: folds 
+edoschenko: folds 
+GummyJ: raises $0.04 to $0.06
+Disright: calls $0.06
+droctagon101: folds 
+WeinertBR: calls $0.06
+sd_stefan: folds 
+Dorex2007: folds 
+*** FLOP *** [6d 2c Jc]
+GummyJ: bets $0.07
+Disright: raises $0.23 to $0.30
+WeinertBR: folds 
+GummyJ: calls $0.23
+*** TURN *** [6d 2c Jc] [5c]
+GummyJ: checks 
+Disright: bets $0.50
+GummyJ: raises $1.20 to $1.70 and is all-in
+Disright: calls $1.20
+*** RIVER *** [6d 2c Jc 5c] [8h]
+*** SHOW DOWN ***
+GummyJ: shows [2d Ac] (a pair of Deuces)
+Disright: shows [Jd Td] (a pair of Jacks)
+Disright collected $4.06 from pot
+*** SUMMARY ***
+Total pot $4.21 | Rake $0.15 
+Board [6d 2c Jc 5c 8h]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: WeinertBR (button) folded on the Flop
+Seat 3: sd_stefan (small blind) folded before Flop
+Seat 4: Dorex2007 (big blind) folded before Flop
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: GummyJ showed [2d Ac] and lost with a pair of Deuces
+Seat 9: Disright showed [Jd Td] and won ($4.06) with a pair of Jacks
+
+
+
+PokerStars Hand #232005230313:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:51:38 PT [2021/12/06 18:51:38 ET]
+Table 'Terebellum' 9-max Seat #3 is the button
+Seat 1: droctagon101 ($2 in chips) 
+Seat 2: WeinertBR ($2.52 in chips) 
+Seat 3: sd_stefan ($2.81 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.70 in chips) 
+Seat 7: edoschenko ($1.78 in chips) 
+Seat 9: Disright ($4.14 in chips) 
+Dorex2007: posts small blind $0.01
+Tenorio422: posts big blind $0.02
+ctrbyfn: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 6d]
+edoschenko: folds 
+Disright: folds 
+GummyJ leaves the table
+droctagon101: folds 
+WeinertBR: raises $0.04 to $0.06
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+Uncalled bet ($0.04) returned to WeinertBR
+WeinertBR collected $0.05 from pot
+WeinertBR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: WeinertBR collected ($0.05)
+Seat 3: sd_stefan (button) folded before Flop (didn't bet)
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: Tenorio422 (big blind) folded before Flop
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 9: Disright folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005239155:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:52:02 PT [2021/12/06 18:52:02 ET]
+Table 'Terebellum' 9-max Seat #4 is the button
+Seat 1: droctagon101 ($2 in chips) 
+Seat 2: WeinertBR ($2.55 in chips) 
+Seat 3: sd_stefan ($2.81 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.68 in chips) 
+Seat 6: ctrbyfn ($1.98 in chips) 
+Seat 7: edoschenko ($1.78 in chips) 
+Seat 9: Disright ($4.14 in chips) 
+Tenorio422: posts small blind $0.01
+ctrbyfn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 6d]
+bmwmann8 joins the table at seat #8 
+edoschenko: folds 
+Disright: folds 
+droctagon101: folds 
+WeinertBR: folds 
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+Uncalled bet ($0.01) returned to ctrbyfn
+ctrbyfn collected $0.02 from pot
+ctrbyfn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: WeinertBR folded before Flop (didn't bet)
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: Tenorio422 (small blind) folded before Flop
+Seat 6: ctrbyfn (big blind) collected ($0.02)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 9: Disright folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005243868:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:52:15 PT [2021/12/06 18:52:15 ET]
+Table 'Terebellum' 9-max Seat #5 is the button
+Seat 1: droctagon101 ($2 in chips) 
+Seat 2: WeinertBR ($2.55 in chips) 
+Seat 3: sd_stefan ($2.81 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.67 in chips) 
+Seat 6: ctrbyfn ($1.99 in chips) 
+Seat 7: edoschenko ($1.78 in chips) 
+Seat 8: bmwmann8 ($2 in chips) 
+Seat 9: Disright ($4.14 in chips) 
+ctrbyfn: posts small blind $0.01
+edoschenko: posts big blind $0.02
+bmwmann8: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 8c]
+bmwmann8: checks 
+Disright: folds 
+droctagon101: folds 
+WeinertBR: folds 
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+ctrbyfn: folds 
+edoschenko: checks 
+*** FLOP *** [Qs Jd 3h]
+edoschenko: checks 
+bmwmann8: checks 
+*** TURN *** [Qs Jd 3h] [3c]
+edoschenko: checks 
+bmwmann8: checks 
+*** RIVER *** [Qs Jd 3h 3c] [Ks]
+edoschenko: checks 
+bmwmann8: checks 
+*** SHOW DOWN ***
+edoschenko: shows [Ah 6s] (a pair of Threes)
+bmwmann8: shows [2s Ad] (a pair of Threes)
+edoschenko collected $0.03 from pot
+bmwmann8 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qs Jd 3h 3c Ks]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: WeinertBR folded before Flop (didn't bet)
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 (button) folded before Flop (didn't bet)
+Seat 6: ctrbyfn (small blind) folded before Flop
+Seat 7: edoschenko (big blind) showed [Ah 6s] and won ($0.03) with a pair of Threes
+Seat 8: bmwmann8 showed [2s Ad] and won ($0.02) with a pair of Threes
+Seat 9: Disright folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005257746:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:52:53 PT [2021/12/06 18:52:53 ET]
+Table 'Terebellum' 9-max Seat #6 is the button
+Seat 1: droctagon101 ($2 in chips) 
+Seat 2: WeinertBR ($2.55 in chips) 
+Seat 3: sd_stefan ($2.81 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.67 in chips) 
+Seat 6: ctrbyfn ($1.98 in chips) 
+Seat 7: edoschenko ($1.79 in chips) 
+Seat 8: bmwmann8 ($2 in chips) 
+Seat 9: Disright ($4.14 in chips) 
+edoschenko: posts small blind $0.01
+bmwmann8: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Qd]
+Disright: folds 
+droctagon101: folds 
+WeinertBR: raises $0.04 to $0.06
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+ctrbyfn: folds 
+edoschenko: folds 
+bmwmann8: folds 
+Uncalled bet ($0.04) returned to WeinertBR
+WeinertBR collected $0.05 from pot
+WeinertBR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: WeinertBR collected ($0.05)
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: ctrbyfn (button) folded before Flop (didn't bet)
+Seat 7: edoschenko (small blind) folded before Flop
+Seat 8: bmwmann8 (big blind) folded before Flop
+Seat 9: Disright folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005270367:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:53:28 PT [2021/12/06 18:53:28 ET]
+Table 'Terebellum' 9-max Seat #7 is the button
+Seat 1: droctagon101 ($2 in chips) 
+Seat 2: WeinertBR ($2.58 in chips) 
+Seat 3: sd_stefan ($2.81 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.67 in chips) 
+Seat 6: ctrbyfn ($1.98 in chips) 
+Seat 7: edoschenko ($1.78 in chips) 
+Seat 8: bmwmann8 ($1.98 in chips) 
+Seat 9: Disright ($4.14 in chips) 
+bmwmann8: posts small blind $0.01
+Disright: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 4s]
+droctagon101: folds 
+WeinertBR: raises $0.04 to $0.06
+sd_stefan has timed out
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+ctrbyfn: calls $0.06
+edoschenko: folds 
+bmwmann8: folds 
+Disright: folds 
+*** FLOP *** [5c 5h Kd]
+WeinertBR: checks 
+ctrbyfn: checks 
+*** TURN *** [5c 5h Kd] [3s]
+WeinertBR: checks 
+ctrbyfn: checks 
+*** RIVER *** [5c 5h Kd 3s] [6c]
+WeinertBR: checks 
+ctrbyfn: checks 
+*** SHOW DOWN ***
+WeinertBR: shows [Jc Qs] (a pair of Fives)
+ctrbyfn: shows [Ad 8d] (a pair of Fives - Ace kicker)
+ctrbyfn collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5c 5h Kd 3s 6c]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: WeinertBR showed [Jc Qs] and lost with a pair of Fives
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: ctrbyfn showed [Ad 8d] and won ($0.14) with a pair of Fives
+Seat 7: edoschenko (button) folded before Flop (didn't bet)
+Seat 8: bmwmann8 (small blind) folded before Flop
+Seat 9: Disright (big blind) folded before Flop
+
+
+
+PokerStars Hand #232005291617:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:54:26 PT [2021/12/06 18:54:26 ET]
+Table 'Terebellum' 9-max Seat #8 is the button
+Seat 1: droctagon101 ($2 in chips) 
+Seat 2: WeinertBR ($2.52 in chips) 
+Seat 3: sd_stefan ($2.81 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.67 in chips) 
+Seat 6: ctrbyfn ($2.06 in chips) 
+Seat 7: edoschenko ($1.78 in chips) 
+Seat 8: bmwmann8 ($1.97 in chips) 
+Seat 9: Disright ($4.12 in chips) 
+Disright: posts small blind $0.01
+droctagon101: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 8s]
+WeinertBR: raises $0.03 to $0.05
+sd_stefan: calls $0.05
+Dorex2007: folds 
+Tenorio422: folds 
+ctrbyfn: folds 
+edoschenko: folds 
+bmwmann8: calls $0.05
+Disright: folds 
+droctagon101: folds 
+*** FLOP *** [9s Js 9h]
+WeinertBR: bets $0.09
+sd_stefan: calls $0.09
+bmwmann8: folds 
+*** TURN *** [9s Js 9h] [Jc]
+WeinertBR: bets $0.23
+sd_stefan: raises $0.35 to $0.58
+WeinertBR: raises $0.35 to $0.93
+sd_stefan: folds 
+Uncalled bet ($0.35) returned to WeinertBR
+WeinertBR collected $1.47 from pot
+WeinertBR: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.52 | Rake $0.05 
+Board [9s Js 9h Jc]
+Seat 1: droctagon101 (big blind) folded before Flop
+Seat 2: WeinertBR collected ($1.47)
+Seat 3: sd_stefan folded on the Turn
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: ctrbyfn folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: bmwmann8 (button) folded on the Flop
+Seat 9: Disright (small blind) folded before Flop
+
+
+
+PokerStars Hand #232005326744:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:55:49 PT [2021/12/06 18:55:49 ET]
+Table 'Terebellum' 9-max Seat #9 is the button
+Seat 1: droctagon101 ($1.98 in chips) 
+Seat 3: sd_stefan ($2.09 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.67 in chips) 
+Seat 7: edoschenko ($1.78 in chips) 
+Seat 8: bmwmann8 ($1.92 in chips) 
+Seat 9: Disright ($4.11 in chips) 
+droctagon101: posts small blind $0.01
+WeinertBR: is sitting out 
+sd_stefan: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Js]
+Dorex2007: folds 
+WeinertBR leaves the table
+Tenorio422: folds 
+edoschenko: folds 
+bmwmann8: folds 
+Disright: folds 
+droctagon101: folds 
+Uncalled bet ($0.01) returned to sd_stefan
+sd_stefan collected $0.02 from pot
+sd_stefan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: droctagon101 (small blind) folded before Flop
+Seat 3: sd_stefan (big blind) collected ($0.02)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: bmwmann8 folded before Flop (didn't bet)
+Seat 9: Disright (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005329517:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:55:58 PT [2021/12/06 18:55:58 ET]
+Table 'Terebellum' 9-max Seat #1 is the button
+Seat 1: droctagon101 ($1.97 in chips) 
+Seat 3: sd_stefan ($2.10 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: Tenorio422 ($6.67 in chips) 
+Seat 7: edoschenko ($1.78 in chips) 
+Seat 8: bmwmann8 ($1.92 in chips) 
+Seat 9: Disright ($4.11 in chips) 
+sd_stefan: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Th]
+Tenorio422: folds 
+edoschenko: folds 
+bmwmann8: folds 
+Disright: raises $0.04 to $0.06
+droctagon101: folds 
+sd_stefan: folds 
+Dorex2007: calls $0.04
+*** FLOP *** [3d 2c Td]
+Dorex2007: checks 
+Disright: checks 
+*** TURN *** [3d 2c Td] [4h]
+Dorex2007: bets $0.13
+kam505068 joins the table at seat #2 
+Disright: calls $0.13
+*** RIVER *** [3d 2c Td 4h] [6c]
+Dorex2007: bets $0.19
+Disright: calls $0.19
+*** SHOW DOWN ***
+Dorex2007: shows [Ac Th] (a pair of Tens)
+Disright: mucks hand 
+Dorex2007 collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [3d 2c Td 4h 6c]
+Seat 1: droctagon101 (button) folded before Flop (didn't bet)
+Seat 3: sd_stefan (small blind) folded before Flop
+Seat 4: Dorex2007 (big blind) showed [Ac Th] and won ($0.74) with a pair of Tens
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: bmwmann8 folded before Flop (didn't bet)
+Seat 9: Disright mucked [Ah Jh]
+
+
+
+PokerStars Hand #232005341082:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:56:39 PT [2021/12/06 18:56:39 ET]
+Table 'Terebellum' 9-max Seat #3 is the button
+Seat 1: droctagon101 ($1.97 in chips) 
+Seat 3: sd_stefan ($2.09 in chips) 
+Seat 4: Dorex2007 ($2.36 in chips) 
+Seat 5: Tenorio422 ($6.67 in chips) 
+Seat 7: edoschenko ($1.78 in chips) 
+Seat 9: Disright ($3.73 in chips) 
+Dorex2007: posts small blind $0.01
+Tenorio422: posts big blind $0.02
+kam505068: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 6h]
+edoschenko: folds 
+Disright: folds 
+droctagon101: folds 
+sd_stefan: folds 
+Dorex2007: raises $0.02 to $0.04
+Tenorio422: calls $0.02
+*** FLOP *** [As 3c 3d]
+Disright leaves the table
+Dorex2007: checks 
+Tenorio422: bets $0.06
+Dorex2007: folds 
+Uncalled bet ($0.06) returned to Tenorio422
+Tenorio422 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [As 3c 3d]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 3: sd_stefan (button) folded before Flop (didn't bet)
+Seat 4: Dorex2007 (small blind) folded on the Flop
+Seat 5: Tenorio422 (big blind) collected ($0.08)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 9: Disright folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005348395:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:57:05 PT [2021/12/06 18:57:05 ET]
+Table 'Terebellum' 9-max Seat #4 is the button
+Seat 1: droctagon101 ($1.97 in chips) 
+Seat 3: sd_stefan ($2.09 in chips) 
+Seat 4: Dorex2007 ($2.32 in chips) 
+Seat 5: Tenorio422 ($6.71 in chips) 
+Seat 7: edoschenko ($1.78 in chips) 
+Tenorio422: posts small blind $0.01
+edoschenko: posts big blind $0.02
+kam505068: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 5h]
+droctagon101: folds 
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+Uncalled bet ($0.01) returned to edoschenko
+edoschenko collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: Tenorio422 (small blind) folded before Flop
+Seat 7: edoschenko (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #232005350480:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:57:12 PT [2021/12/06 18:57:12 ET]
+Table 'Terebellum' 9-max Seat #5 is the button
+Seat 1: droctagon101 ($1.97 in chips) 
+Seat 3: sd_stefan ($2.09 in chips) 
+Seat 4: Dorex2007 ($2.32 in chips) 
+Seat 5: Tenorio422 ($6.70 in chips) 
+Seat 7: edoschenko ($1.79 in chips) 
+edoschenko: posts small blind $0.01
+droctagon101: posts big blind $0.02
+kam505068: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Qs]
+sd_stefan: raises $0.04 to $0.06
+sbjk1903 joins the table at seat #9 
+Dorex2007: folds 
+Tenorio422: calls $0.06
+edoschenko: folds 
+droctagon101: folds 
+*** FLOP *** [Ad 3s 7c]
+sd_stefan: bets $0.04
+Tenorio422: raises $0.11 to $0.15
+sd_stefan: folds 
+Uncalled bet ($0.11) returned to Tenorio422
+Tenorio422 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Ad 3s 7c]
+Seat 1: droctagon101 (big blind) folded before Flop
+Seat 3: sd_stefan folded on the Flop
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 (button) collected ($0.22)
+Seat 7: edoschenko (small blind) folded before Flop
+
+
+
+PokerStars Hand #232005357840:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:57:37 PT [2021/12/06 18:57:37 ET]
+Table 'Terebellum' 9-max Seat #7 is the button
+Seat 1: droctagon101 ($1.95 in chips) 
+Seat 2: kam505068 ($2 in chips) 
+Seat 3: sd_stefan ($2 in chips) 
+Seat 4: Dorex2007 ($2.32 in chips) 
+Seat 5: Tenorio422 ($6.82 in chips) 
+Seat 7: edoschenko ($1.78 in chips) 
+droctagon101: posts small blind $0.01
+kam505068: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 6c]
+sd_stefan: raises $0.04 to $0.06
+Dorex2007: folds 
+Tenorio422: folds 
+edoschenko: folds 
+droctagon101: folds 
+kam505068: folds 
+Uncalled bet ($0.04) returned to sd_stefan
+sd_stefan collected $0.05 from pot
+sd_stefan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: droctagon101 (small blind) folded before Flop
+Seat 2: kam505068 (big blind) folded before Flop
+Seat 3: sd_stefan collected ($0.05)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 7: edoschenko (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005360605:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:57:46 PT [2021/12/06 18:57:46 ET]
+Table 'Terebellum' 9-max Seat #1 is the button
+Seat 1: droctagon101 ($1.94 in chips) 
+Seat 2: kam505068 ($1.98 in chips) 
+Seat 3: sd_stefan ($2.03 in chips) 
+Seat 4: Dorex2007 ($2.32 in chips) 
+Seat 5: Tenorio422 ($6.82 in chips) 
+Seat 7: edoschenko ($1.78 in chips) 
+Seat 9: sbjk1903 ($0.84 in chips) 
+kam505068: posts small blind $0.01
+sd_stefan: posts big blind $0.02
+sbjk1903: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Qd]
+Dorex2007: raises $0.04 to $0.06
+Tenorio422: folds 
+edoschenko: folds 
+sbjk1903: folds 
+droctagon101: folds 
+kam505068: folds 
+sd_stefan: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.07 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: droctagon101 (button) folded before Flop (didn't bet)
+Seat 2: kam505068 (small blind) folded before Flop
+Seat 3: sd_stefan (big blind) folded before Flop
+Seat 4: Dorex2007 collected ($0.07)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 9: sbjk1903 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005366416:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:58:07 PT [2021/12/06 18:58:07 ET]
+Table 'Terebellum' 9-max Seat #2 is the button
+Seat 1: droctagon101 ($1.94 in chips) 
+Seat 2: kam505068 ($1.97 in chips) 
+Seat 3: sd_stefan ($2.01 in chips) 
+Seat 4: Dorex2007 ($2.37 in chips) 
+Seat 5: Tenorio422 ($6.82 in chips) 
+Seat 7: edoschenko ($1.78 in chips) 
+Seat 9: sbjk1903 ($0.82 in chips) 
+sd_stefan: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Kh]
+Tenorio422: raises $0.04 to $0.06
+edoschenko: folds 
+sbjk1903: folds 
+droctagon101: folds 
+kam505068: calls $0.06
+sd_stefan: calls $0.05
+Dorex2007: folds 
+*** FLOP *** [6h 3c 8s]
+sd_stefan: checks 
+Tenorio422: bets $0.16
+kam505068: folds 
+sd_stefan: folds 
+Uncalled bet ($0.16) returned to Tenorio422
+Tenorio422 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [6h 3c 8s]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: kam505068 (button) folded on the Flop
+Seat 3: sd_stefan (small blind) folded on the Flop
+Seat 4: Dorex2007 (big blind) folded before Flop
+Seat 5: Tenorio422 collected ($0.19)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 9: sbjk1903 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005376736:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:58:42 PT [2021/12/06 18:58:42 ET]
+Table 'Terebellum' 9-max Seat #3 is the button
+Seat 1: droctagon101 ($1.94 in chips) 
+Seat 2: kam505068 ($1.91 in chips) 
+Seat 3: sd_stefan ($2 in chips) 
+Seat 4: Dorex2007 ($2.35 in chips) 
+Seat 5: Tenorio422 ($6.95 in chips) 
+Seat 7: edoschenko ($1.78 in chips) 
+Seat 9: sbjk1903 ($0.82 in chips) 
+Dorex2007: posts small blind $0.01
+Tenorio422: posts big blind $0.02
+bmwmann8: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 5d]
+edoschenko: folds 
+sbjk1903: calls $0.02
+droctagon101: folds 
+kam505068: folds 
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: checks 
+*** FLOP *** [7c 9c Ac]
+Tenorio422: checks 
+sbjk1903: checks 
+*** TURN *** [7c 9c Ac] [2h]
+Tenorio422: checks 
+sbjk1903: checks 
+*** RIVER *** [7c 9c Ac 2h] [Jh]
+Tenorio422: checks 
+sbjk1903: bets $0.02
+Tenorio422: folds 
+Uncalled bet ($0.02) returned to sbjk1903
+sbjk1903 collected $0.05 from pot
+sbjk1903: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [7c 9c Ac 2h Jh]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: kam505068 folded before Flop (didn't bet)
+Seat 3: sd_stefan (button) folded before Flop (didn't bet)
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: Tenorio422 (big blind) folded on the River
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 9: sbjk1903 collected ($0.05)
+
+
+
+PokerStars Hand #232005381929:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:59:00 PT [2021/12/06 18:59:00 ET]
+Table 'Terebellum' 9-max Seat #4 is the button
+Seat 1: droctagon101 ($1.94 in chips) 
+Seat 2: kam505068 ($1.91 in chips) 
+Seat 3: sd_stefan ($2 in chips) 
+Seat 4: Dorex2007 ($2.34 in chips) 
+Seat 5: Tenorio422 ($6.93 in chips) 
+Seat 6: ctrbyfn ($2.06 in chips) 
+Seat 7: edoschenko ($1.78 in chips) 
+Seat 8: bmwmann8 ($1.92 in chips) 
+Seat 9: sbjk1903 ($0.85 in chips) 
+Tenorio422: posts small blind $0.01
+ctrbyfn: posts big blind $0.02
+bmwmann8: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 5h]
+edoschenko: folds 
+bmwmann8: checks 
+sbjk1903: folds 
+droctagon101: folds 
+kam505068: raises $0.04 to $0.06
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+ctrbyfn: folds 
+bmwmann8: folds 
+Uncalled bet ($0.04) returned to kam505068
+kam505068 collected $0.08 from pot
+kam505068: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: kam505068 collected ($0.08)
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: Tenorio422 (small blind) folded before Flop
+Seat 6: ctrbyfn (big blind) folded before Flop
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: bmwmann8 folded before Flop (didn't bet)
+Seat 9: sbjk1903 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005387895:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 15:59:21 PT [2021/12/06 18:59:21 ET]
+Table 'Terebellum' 9-max Seat #5 is the button
+Seat 1: droctagon101 ($1.94 in chips) 
+Seat 2: kam505068 ($1.97 in chips) 
+Seat 3: sd_stefan ($2 in chips) 
+Seat 4: Dorex2007 ($2.34 in chips) 
+Seat 5: Tenorio422 ($6.92 in chips) 
+Seat 6: ctrbyfn ($2.04 in chips) 
+Seat 7: edoschenko ($1.78 in chips) 
+Seat 8: bmwmann8 ($1.89 in chips) 
+Seat 9: sbjk1903 ($0.85 in chips) 
+ctrbyfn: posts small blind $0.01
+edoschenko: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 7s]
+bmwmann8: folds 
+sbjk1903: calls $0.02
+droctagon101: folds 
+kam505068: folds 
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: raises $0.06 to $0.08
+ctrbyfn: calls $0.07
+edoschenko: folds 
+sbjk1903: calls $0.06
+*** FLOP *** [Ad Qs 7h]
+ctrbyfn: checks 
+sbjk1903: checks 
+Tenorio422: checks 
+*** TURN *** [Ad Qs 7h] [Kc]
+ctrbyfn: checks 
+sbjk1903: bets $0.12
+Tenorio422: folds 
+ctrbyfn: folds 
+Uncalled bet ($0.12) returned to sbjk1903
+sbjk1903 collected $0.25 from pot
+sbjk1903: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [Ad Qs 7h Kc]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: kam505068 folded before Flop (didn't bet)
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 (button) folded on the Turn
+Seat 6: ctrbyfn (small blind) folded on the Turn
+Seat 7: edoschenko (big blind) folded before Flop
+Seat 8: bmwmann8 folded before Flop (didn't bet)
+Seat 9: sbjk1903 collected ($0.25)
+
+
+
+PokerStars Hand #232005399751:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:00:03 PT [2021/12/06 19:00:03 ET]
+Table 'Terebellum' 9-max Seat #6 is the button
+Seat 1: droctagon101 ($1.94 in chips) 
+Seat 2: kam505068 ($1.97 in chips) 
+Seat 3: sd_stefan ($2 in chips) 
+Seat 4: Dorex2007 ($2.34 in chips) 
+Seat 5: Tenorio422 ($6.84 in chips) 
+Seat 6: ctrbyfn ($1.96 in chips) 
+Seat 7: edoschenko ($1.76 in chips) 
+Seat 8: bmwmann8 ($1.89 in chips) 
+Seat 9: sbjk1903 ($1.02 in chips) 
+edoschenko: posts small blind $0.01
+bmwmann8: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Kc]
+sbjk1903: folds 
+droctagon101: folds 
+kam505068: raises $0.02 to $0.04
+sd_stefan: raises $0.16 to $0.20
+Dorex2007: folds 
+Tenorio422: folds 
+ctrbyfn: folds 
+edoschenko: folds 
+bmwmann8: folds 
+kam505068: folds 
+Uncalled bet ($0.16) returned to sd_stefan
+sd_stefan collected $0.11 from pot
+sd_stefan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: kam505068 folded before Flop
+Seat 3: sd_stefan collected ($0.11)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: ctrbyfn (button) folded before Flop (didn't bet)
+Seat 7: edoschenko (small blind) folded before Flop
+Seat 8: bmwmann8 (big blind) folded before Flop
+Seat 9: sbjk1903 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005408205:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:00:30 PT [2021/12/06 19:00:30 ET]
+Table 'Terebellum' 9-max Seat #7 is the button
+Seat 1: droctagon101 ($1.94 in chips) 
+Seat 2: kam505068 ($1.93 in chips) 
+Seat 3: sd_stefan ($2.07 in chips) 
+Seat 4: Dorex2007 ($2.34 in chips) 
+Seat 5: Tenorio422 ($6.84 in chips) 
+Seat 6: ctrbyfn ($1.96 in chips) 
+Seat 7: edoschenko ($1.75 in chips) 
+Seat 8: bmwmann8 ($1.87 in chips) 
+Seat 9: sbjk1903 ($1.02 in chips) 
+bmwmann8: posts small blind $0.01
+sbjk1903: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 7s]
+droctagon101: folds 
+kam505068: raises $0.02 to $0.04
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+ctrbyfn: calls $0.04
+edoschenko: calls $0.04
+bmwmann8: folds 
+sbjk1903: folds 
+*** FLOP *** [4d Qc Ts]
+kam505068: checks 
+ctrbyfn: checks 
+edoschenko: checks 
+*** TURN *** [4d Qc Ts] [3s]
+kam505068: bets $0.14
+ctrbyfn: folds 
+edoschenko: folds 
+Uncalled bet ($0.14) returned to kam505068
+kam505068 collected $0.14 from pot
+kam505068: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [4d Qc Ts 3s]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: kam505068 collected ($0.14)
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: ctrbyfn folded on the Turn
+Seat 7: edoschenko (button) folded on the Turn
+Seat 8: bmwmann8 (small blind) folded before Flop
+Seat 9: sbjk1903 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232005424446:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:01:20 PT [2021/12/06 19:01:20 ET]
+Table 'Terebellum' 9-max Seat #8 is the button
+Seat 1: droctagon101 ($1.94 in chips) 
+Seat 2: kam505068 ($2.03 in chips) 
+Seat 3: sd_stefan ($2.07 in chips) 
+Seat 4: Dorex2007 ($2.34 in chips) 
+Seat 5: Tenorio422 ($6.84 in chips) 
+Seat 6: ctrbyfn ($1.92 in chips) 
+Seat 7: edoschenko ($1.71 in chips) 
+Seat 8: bmwmann8 ($1.86 in chips) 
+Seat 9: sbjk1903 ($1 in chips) 
+sbjk1903: posts small blind $0.01
+droctagon101: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 8c]
+kam505068: folds 
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: raises $0.04 to $0.06
+ctrbyfn: folds 
+edoschenko: folds 
+bmwmann8: folds 
+sbjk1903: folds 
+droctagon101: folds 
+Uncalled bet ($0.04) returned to Tenorio422
+Tenorio422 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: droctagon101 (big blind) folded before Flop
+Seat 2: kam505068 folded before Flop (didn't bet)
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 collected ($0.05)
+Seat 6: ctrbyfn folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: bmwmann8 (button) folded before Flop (didn't bet)
+Seat 9: sbjk1903 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232005429515:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:01:35 PT [2021/12/06 19:01:35 ET]
+Table 'Terebellum' 9-max Seat #9 is the button
+Seat 1: droctagon101 ($1.92 in chips) 
+Seat 2: kam505068 ($2.03 in chips) 
+Seat 3: sd_stefan ($2.07 in chips) 
+Seat 4: Dorex2007 ($2.34 in chips) 
+Seat 5: Tenorio422 ($6.87 in chips) 
+Seat 6: ctrbyfn ($1.92 in chips) 
+Seat 7: edoschenko ($1.71 in chips) 
+Seat 8: bmwmann8 ($1.86 in chips) 
+Seat 9: sbjk1903 ($0.99 in chips) 
+droctagon101: posts small blind $0.01
+kam505068: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 8d]
+sd_stefan: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+ctrbyfn: raises $0.04 to $0.06
+edoschenko: folds 
+bmwmann8: folds 
+sbjk1903: folds 
+droctagon101: folds 
+kam505068: folds 
+Uncalled bet ($0.04) returned to ctrbyfn
+ctrbyfn collected $0.05 from pot
+ctrbyfn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: droctagon101 (small blind) folded before Flop
+Seat 2: kam505068 (big blind) folded before Flop
+Seat 3: sd_stefan folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: ctrbyfn collected ($0.05)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: bmwmann8 folded before Flop (didn't bet)
+Seat 9: sbjk1903 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005435503:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:01:53 PT [2021/12/06 19:01:53 ET]
+Table 'Terebellum' 9-max Seat #1 is the button
+Seat 1: droctagon101 ($1.91 in chips) 
+Seat 2: kam505068 ($2.01 in chips) 
+Seat 4: Dorex2007 ($2.34 in chips) 
+Seat 5: Tenorio422 ($6.87 in chips) 
+Seat 6: ctrbyfn ($1.95 in chips) 
+Seat 7: edoschenko ($1.71 in chips) 
+Seat 8: bmwmann8 ($1.86 in chips) 
+Seat 9: sbjk1903 ($0.99 in chips) 
+kam505068: posts small blind $0.01
+sd_stefan: is sitting out 
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Js]
+Tenorio422: folds 
+ctrbyfn: folds 
+sd_stefan leaves the table
+edoschenko: folds 
+bmwmann8: raises $0.04 to $0.06
+sbjk1903: folds 
+droctagon101: folds 
+kam505068: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to bmwmann8
+bmwmann8 collected $0.05 from pot
+bmwmann8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: droctagon101 (button) folded before Flop (didn't bet)
+Seat 2: kam505068 (small blind) folded before Flop
+Seat 4: Dorex2007 (big blind) folded before Flop
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: ctrbyfn folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: bmwmann8 collected ($0.05)
+Seat 9: sbjk1903 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005442015:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:02:11 PT [2021/12/06 19:02:11 ET]
+Table 'Terebellum' 9-max Seat #2 is the button
+Seat 1: droctagon101 ($1.91 in chips) 
+Seat 2: kam505068 ($2 in chips) 
+Seat 4: Dorex2007 ($2.32 in chips) 
+Seat 5: Tenorio422 ($6.87 in chips) 
+Seat 6: ctrbyfn ($1.95 in chips) 
+Seat 7: edoschenko ($1.71 in chips) 
+Seat 8: bmwmann8 ($1.89 in chips) 
+Seat 9: sbjk1903 ($0.99 in chips) 
+Dorex2007: posts small blind $0.01
+Tenorio422: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 8c]
+ctrbyfn: folds 
+edoschenko: folds 
+bmwmann8: calls $0.02
+sbjk1903: calls $0.02
+droctagon101: folds 
+kam505068: folds 
+kam505068 leaves the table
+Dorex2007: raises $0.04 to $0.06
+Tenorio422: folds 
+bmwmann8: folds 
+sbjk1903: calls $0.04
+*** FLOP *** [Js Ac 2d]
+Dorex2007: checks 
+sbjk1903: checks 
+*** TURN *** [Js Ac 2d] [7c]
+Dorex2007: bets $0.10
+sbjk1903: calls $0.10
+*** RIVER *** [Js Ac 2d 7c] [Ad]
+Dorex2007: bets $0.23
+sbjk1903: folds 
+Uncalled bet ($0.23) returned to Dorex2007
+Dorex2007 collected $0.35 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Js Ac 2d 7c Ad]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: kam505068 (button) folded before Flop (didn't bet)
+Seat 4: Dorex2007 (small blind) collected ($0.35)
+Seat 5: Tenorio422 (big blind) folded before Flop
+Seat 6: ctrbyfn folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: bmwmann8 folded before Flop
+Seat 9: sbjk1903 folded on the River
+
+
+
+PokerStars Hand #232005455517:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:02:49 PT [2021/12/06 19:02:49 ET]
+Table 'Terebellum' 9-max Seat #4 is the button
+Seat 1: droctagon101 ($1.91 in chips) 
+Seat 4: Dorex2007 ($2.51 in chips) 
+Seat 5: Tenorio422 ($6.85 in chips) 
+Seat 6: ctrbyfn ($1.95 in chips) 
+Seat 7: edoschenko ($1.71 in chips) 
+Seat 8: bmwmann8 ($1.87 in chips) 
+Seat 9: sbjk1903 ($0.83 in chips) 
+Tenorio422: posts small blind $0.01
+ctrbyfn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 9s]
+edoschenko: folds 
+bmwmann8: calls $0.02
+sbjk1903: calls $0.02
+droctagon101: folds 
+Dorex2007: calls $0.02
+Tenorio422: folds 
+ctrbyfn: checks 
+*** FLOP *** [Ts As 6c]
+ctrbyfn: checks 
+bmwmann8: checks 
+sbjk1903: checks 
+Dorex2007: checks 
+*** TURN *** [Ts As 6c] [Qc]
+ctrbyfn: checks 
+bmwmann8: checks 
+sbjk1903: checks 
+Dorex2007: checks 
+*** RIVER *** [Ts As 6c Qc] [8s]
+ctrbyfn: checks 
+bmwmann8: checks 
+sbjk1903: checks 
+Fool Gambler joins the table at seat #2 
+Dorex2007: checks 
+*** SHOW DOWN ***
+ctrbyfn: shows [Ah 2s] (a pair of Aces)
+bmwmann8: mucks hand 
+sbjk1903: mucks hand 
+Dorex2007: mucks hand 
+ctrbyfn collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Ts As 6c Qc 8s]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) mucked [9h 9s]
+Seat 5: Tenorio422 (small blind) folded before Flop
+Seat 6: ctrbyfn (big blind) showed [Ah 2s] and won ($0.09) with a pair of Aces
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: bmwmann8 mucked [3h 8h]
+Seat 9: sbjk1903 mucked [4d Jc]
+
+
+
+PokerStars Hand #232005468259:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:03:26 PT [2021/12/06 19:03:26 ET]
+Table 'Terebellum' 9-max Seat #5 is the button
+Seat 1: droctagon101 ($1.91 in chips) 
+Seat 4: Dorex2007 ($2.49 in chips) 
+Seat 5: Tenorio422 ($6.84 in chips) 
+Seat 6: ctrbyfn ($2.02 in chips) 
+Seat 7: edoschenko ($1.71 in chips) 
+Seat 8: bmwmann8 ($1.85 in chips) 
+Seat 9: sbjk1903 ($0.81 in chips) 
+ctrbyfn: posts small blind $0.01
+edoschenko: posts big blind $0.02
+Fool Gambler: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Ks]
+bmwmann8: folds 
+sbjk1903: calls $0.02
+droctagon101: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+ctrbyfn: folds 
+edoschenko: checks 
+*** FLOP *** [Ah Th 2s]
+edoschenko: checks 
+sbjk1903: checks 
+*** TURN *** [Ah Th 2s] [Jd]
+edoschenko: checks 
+sbjk1903: checks 
+*** RIVER *** [Ah Th 2s Jd] [6s]
+edoschenko: checks 
+sbjk1903: bets $0.02
+edoschenko: folds 
+Uncalled bet ($0.02) returned to sbjk1903
+sbjk1903 collected $0.05 from pot
+sbjk1903: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ah Th 2s Jd 6s]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 (button) folded before Flop (didn't bet)
+Seat 6: ctrbyfn (small blind) folded before Flop
+Seat 7: edoschenko (big blind) folded on the River
+Seat 8: bmwmann8 folded before Flop (didn't bet)
+Seat 9: sbjk1903 collected ($0.05)
+
+
+
+PokerStars Hand #232005478700:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:03:56 PT [2021/12/06 19:03:56 ET]
+Table 'Terebellum' 9-max Seat #6 is the button
+Seat 1: droctagon101 ($1.91 in chips) 
+Seat 4: Dorex2007 ($2.49 in chips) 
+Seat 5: Tenorio422 ($6.84 in chips) 
+Seat 6: ctrbyfn ($2.01 in chips) 
+Seat 7: edoschenko ($1.69 in chips) 
+Seat 8: bmwmann8 ($1.85 in chips) 
+Seat 9: sbjk1903 ($0.84 in chips) 
+edoschenko: posts small blind $0.01
+bmwmann8: posts big blind $0.02
+Fool Gambler: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s Tc]
+sbjk1903: raises $0.02 to $0.04
+droctagon101: folds 
+Dorex2007: folds 
+Tenorio422: calls $0.04
+ctrbyfn: folds 
+edoschenko: folds 
+bmwmann8: calls $0.02
+*** FLOP *** [9c Td 2h]
+bmwmann8: checks 
+sbjk1903: bets $0.02
+Tenorio422: calls $0.02
+bmwmann8: folds 
+*** TURN *** [9c Td 2h] [5c]
+sbjk1903: bets $0.08
+Tenorio422: calls $0.08
+*** RIVER *** [9c Td 2h 5c] [Jc]
+sbjk1903: bets $0.20
+Tenorio422: calls $0.20
+*** SHOW DOWN ***
+sbjk1903: shows [Kc Kd] (a pair of Kings)
+Tenorio422: shows [4c 3c] (a flush, Jack high)
+Tenorio422 collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [9c Td 2h 5c Jc]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 showed [4c 3c] and won ($0.70) with a flush, Jack high
+Seat 6: ctrbyfn (button) folded before Flop (didn't bet)
+Seat 7: edoschenko (small blind) folded before Flop
+Seat 8: bmwmann8 (big blind) folded on the Flop
+Seat 9: sbjk1903 showed [Kc Kd] and lost with a pair of Kings
+
+
+
+PokerStars Hand #232005490970:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:04:31 PT [2021/12/06 19:04:31 ET]
+Table 'Terebellum' 9-max Seat #7 is the button
+Seat 1: droctagon101 ($1.91 in chips) 
+Seat 4: Dorex2007 ($2.49 in chips) 
+Seat 5: Tenorio422 ($7.20 in chips) 
+Seat 6: ctrbyfn ($2.01 in chips) 
+Seat 7: edoschenko ($1.68 in chips) 
+Seat 8: bmwmann8 ($1.81 in chips) 
+Seat 9: sbjk1903 ($0.50 in chips) 
+bmwmann8: posts small blind $0.01
+sbjk1903: posts big blind $0.02
+Fool Gambler: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 4d]
+droctagon101: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+ctrbyfn: folds 
+edoschenko: folds 
+bmwmann8: folds 
+Uncalled bet ($0.01) returned to sbjk1903
+sbjk1903 collected $0.02 from pot
+sbjk1903: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: ctrbyfn folded before Flop (didn't bet)
+Seat 7: edoschenko (button) folded before Flop (didn't bet)
+Seat 8: bmwmann8 (small blind) folded before Flop
+Seat 9: sbjk1903 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #232005495684:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:04:44 PT [2021/12/06 19:04:44 ET]
+Table 'Terebellum' 9-max Seat #8 is the button
+Seat 1: droctagon101 ($1.91 in chips) 
+Seat 4: Dorex2007 ($2.49 in chips) 
+Seat 5: Tenorio422 ($7.20 in chips) 
+Seat 6: ctrbyfn ($2.01 in chips) 
+Seat 7: edoschenko ($1.68 in chips) 
+Seat 8: bmwmann8 ($1.80 in chips) 
+Seat 9: sbjk1903 ($0.51 in chips) 
+sbjk1903: posts small blind $0.01
+droctagon101: posts big blind $0.02
+Fool Gambler: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad Kd]
+ctrbyfn is disconnected 
+Dorex2007: raises $0.04 to $0.06
+Tenorio422: folds 
+ctrbyfn: folds 
+edoschenko: folds 
+bmwmann8: calls $0.06
+sbjk1903: folds 
+droctagon101: folds 
+*** FLOP *** [8c 6h Qh]
+Dorex2007: checks 
+bmwmann8: checks 
+*** TURN *** [8c 6h Qh] [Jd]
+Dorex2007: checks 
+bmwmann8: checks 
+*** RIVER *** [8c 6h Qh Jd] [3h]
+Dorex2007: checks 
+bmwmann8: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [Ad Kd] (high card Ace)
+bmwmann8: mucks hand 
+Dorex2007 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8c 6h Qh Jd 3h]
+Seat 1: droctagon101 (big blind) folded before Flop
+Seat 4: Dorex2007 showed [Ad Kd] and won ($0.14) with high card Ace
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: ctrbyfn folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: bmwmann8 (button) mucked [Ac 9s]
+Seat 9: sbjk1903 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232005509689:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:05:24 PT [2021/12/06 19:05:24 ET]
+Table 'Terebellum' 9-max Seat #9 is the button
+Seat 1: droctagon101 ($1.89 in chips) 
+Seat 2: Fool Gambler ($1.23 in chips) 
+Seat 4: Dorex2007 ($2.57 in chips) 
+Seat 5: Tenorio422 ($7.20 in chips) 
+Seat 6: ctrbyfn ($2.01 in chips) 
+Seat 7: edoschenko ($1.68 in chips) 
+Seat 8: bmwmann8 ($1.74 in chips) 
+Seat 9: sbjk1903 ($0.50 in chips) 
+droctagon101: posts small blind $0.01
+Fool Gambler: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 3d]
+Dorex2007: folds 
+Tenorio422: folds 
+ctrbyfn: folds 
+edoschenko: raises $0.04 to $0.06
+bmwmann8: folds 
+sbjk1903 has timed out
+sbjk1903: folds 
+droctagon101: folds 
+Fool Gambler: folds 
+Uncalled bet ($0.04) returned to edoschenko
+edoschenko collected $0.05 from pot
+bmwmann8 leaves the table
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: droctagon101 (small blind) folded before Flop
+Seat 2: Fool Gambler (big blind) folded before Flop
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: ctrbyfn folded before Flop (didn't bet)
+Seat 7: edoschenko collected ($0.05)
+Seat 8: bmwmann8 folded before Flop (didn't bet)
+Seat 9: sbjk1903 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005519540:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:05:53 PT [2021/12/06 19:05:53 ET]
+Table 'Terebellum' 9-max Seat #1 is the button
+Seat 1: droctagon101 ($1.88 in chips) 
+Seat 2: Fool Gambler ($1.21 in chips) 
+Seat 4: Dorex2007 ($2.57 in chips) 
+Seat 5: Tenorio422 ($7.20 in chips) 
+Seat 6: ctrbyfn ($2.01 in chips) 
+Seat 7: edoschenko ($1.71 in chips) 
+Seat 9: sbjk1903 ($0.50 in chips) 
+Fool Gambler: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 8d]
+Tenorio422: folds 
+ctrbyfn: folds 
+edoschenko: folds 
+sbjk1903 has timed out
+sbjk1903: folds 
+droctagon101: folds 
+Fool Gambler: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [Js 7c Ad]
+Fool Gambler: checks 
+Dorex2007: checks 
+*** TURN *** [Js 7c Ad] [Td]
+Fool Gambler: checks 
+Dorex2007: checks 
+*** RIVER *** [Js 7c Ad Td] [5s]
+Fool Gambler: checks 
+Dorex2007: bets $0.06
+Fool Gambler: folds 
+Uncalled bet ($0.06) returned to Dorex2007
+Dorex2007 collected $0.04 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Js 7c Ad Td 5s]
+Seat 1: droctagon101 (button) folded before Flop (didn't bet)
+Seat 2: Fool Gambler (small blind) folded on the River
+Seat 4: Dorex2007 (big blind) collected ($0.04)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: ctrbyfn folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 9: sbjk1903 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005538596:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:06:47 PT [2021/12/06 19:06:47 ET]
+Table 'Terebellum' 9-max Seat #2 is the button
+Seat 1: droctagon101 ($1.88 in chips) 
+Seat 2: Fool Gambler ($1.19 in chips) 
+Seat 4: Dorex2007 ($2.59 in chips) 
+Seat 5: Tenorio422 ($7.20 in chips) 
+Seat 6: ctrbyfn ($2.01 in chips) 
+Seat 7: edoschenko ($1.71 in chips) 
+Dorex2007: posts small blind $0.01
+Tenorio422: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 2d]
+ctrbyfn: folds 
+edoschenko: folds 
+droctagon101: folds 
+Fool Gambler: calls $0.02
+Dorex2007: folds 
+Tenorio422: checks 
+*** FLOP *** [6s Ts 6c]
+Tenorio422: checks 
+Fool Gambler: bets $0.02
+Tenorio422: folds 
+Uncalled bet ($0.02) returned to Fool Gambler
+Fool Gambler collected $0.05 from pot
+Fool Gambler: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6s Ts 6c]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: Fool Gambler (button) collected ($0.05)
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: Tenorio422 (big blind) folded on the Flop
+Seat 6: ctrbyfn folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005547847:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:07:13 PT [2021/12/06 19:07:13 ET]
+Table 'Terebellum' 9-max Seat #4 is the button
+Seat 1: droctagon101 ($1.88 in chips) 
+Seat 2: Fool Gambler ($1.22 in chips) 
+Seat 4: Dorex2007 ($2.58 in chips) 
+Seat 5: Tenorio422 ($7.18 in chips) 
+Seat 6: ctrbyfn ($2.01 in chips) 
+Seat 7: edoschenko ($1.71 in chips) 
+Tenorio422: posts small blind $0.01
+ctrbyfn: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Tc]
+edoschenko: folds 
+droctagon101: folds 
+Fool Gambler: calls $0.02
+Dorex2007: calls $0.02
+Tenorio422: folds 
+ctrbyfn: checks 
+*** FLOP *** [Ah 5h 7d]
+ctrbyfn: checks 
+Fool Gambler: checks 
+Dorex2007: checks 
+*** TURN *** [Ah 5h 7d] [5s]
+ctrbyfn: bets $0.04
+Fool Gambler: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to ctrbyfn
+ctrbyfn collected $0.07 from pot
+ctrbyfn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Ah 5h 7d 5s]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: Fool Gambler folded on the Turn
+Seat 4: Dorex2007 (button) folded on the Turn
+Seat 5: Tenorio422 (small blind) folded before Flop
+Seat 6: ctrbyfn (big blind) collected ($0.07)
+Seat 7: edoschenko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005556908:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:07:38 PT [2021/12/06 19:07:38 ET]
+Table 'Terebellum' 9-max Seat #5 is the button
+Seat 1: droctagon101 ($1.88 in chips) 
+Seat 2: Fool Gambler ($1.20 in chips) 
+Seat 4: Dorex2007 ($2.56 in chips) 
+Seat 5: Tenorio422 ($7.17 in chips) 
+Seat 6: ctrbyfn ($2.06 in chips) 
+Seat 7: edoschenko ($1.71 in chips) 
+ctrbyfn: posts small blind $0.01
+edoschenko: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 2h]
+droctagon101: folds 
+Fool Gambler: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+ctrbyfn: folds 
+Uncalled bet ($0.01) returned to edoschenko
+edoschenko collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: Fool Gambler folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 (button) folded before Flop (didn't bet)
+Seat 6: ctrbyfn (small blind) folded before Flop
+Seat 7: edoschenko (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #232005559446:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:07:46 PT [2021/12/06 19:07:46 ET]
+Table 'Terebellum' 9-max Seat #6 is the button
+Seat 1: droctagon101 ($1.88 in chips) 
+Seat 2: Fool Gambler ($1.20 in chips) 
+Seat 4: Dorex2007 ($2.56 in chips) 
+Seat 5: Tenorio422 ($7.17 in chips) 
+Seat 6: ctrbyfn ($2.05 in chips) 
+Seat 7: edoschenko ($1.72 in chips) 
+edoschenko: posts small blind $0.01
+droctagon101: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 5s]
+Fool Gambler: folds 
+Dorex2007: calls $0.02
+Tenorio422: folds 
+ctrbyfn: folds 
+edoschenko: folds 
+droctagon101: checks 
+*** FLOP *** [Ac Kd 3s]
+droctagon101: checks 
+Dorex2007: checks 
+*** TURN *** [Ac Kd 3s] [Ad]
+27tony1990 joins the table at seat #3 
+droctagon101: checks 
+Dorex2007: checks 
+*** RIVER *** [Ac Kd 3s Ad] [6d]
+droctagon101: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+droctagon101: shows [2h Td] (a pair of Aces)
+Dorex2007: shows [5c 5s] (two pair, Aces and Fives)
+Dorex2007 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ac Kd 3s Ad 6d]
+Seat 1: droctagon101 (big blind) showed [2h Td] and lost with a pair of Aces
+Seat 2: Fool Gambler folded before Flop (didn't bet)
+Seat 4: Dorex2007 showed [5c 5s] and won ($0.05) with two pair, Aces and Fives
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: ctrbyfn (button) folded before Flop (didn't bet)
+Seat 7: edoschenko (small blind) folded before Flop
+
+
+
+PokerStars Hand #232005571539:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:08:20 PT [2021/12/06 19:08:20 ET]
+Table 'Terebellum' 9-max Seat #7 is the button
+Seat 1: droctagon101 ($1.86 in chips) 
+Seat 2: Fool Gambler ($1.20 in chips) 
+Seat 3: 27tony1990 ($0.80 in chips) 
+Seat 4: Dorex2007 ($2.59 in chips) 
+Seat 5: Tenorio422 ($7.17 in chips) 
+Seat 6: ctrbyfn ($2.05 in chips) 
+Seat 7: edoschenko ($1.71 in chips) 
+droctagon101: posts small blind $0.01
+Fool Gambler: posts big blind $0.02
+27tony1990: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Qs]
+27tony1990: checks 
+Dorex2007: folds 
+Tenorio422: folds 
+ctrbyfn: calls $0.02
+edoschenko: folds 
+droctagon101: calls $0.01
+Fool Gambler: checks 
+*** FLOP *** [9h 4h 3s]
+droctagon101: checks 
+Fool Gambler: checks 
+27tony1990: checks 
+ctrbyfn: checks 
+*** TURN *** [9h 4h 3s] [2d]
+droctagon101: checks 
+Fool Gambler: checks 
+27tony1990: bets $0.02
+ctrbyfn: calls $0.02
+droctagon101: folds 
+Fool Gambler: folds 
+*** RIVER *** [9h 4h 3s 2d] [Qh]
+27tony1990: checks 
+ctrbyfn: checks 
+*** SHOW DOWN ***
+27tony1990: shows [3h 3d] (three of a kind, Threes)
+ctrbyfn: mucks hand 
+27tony1990 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [9h 4h 3s 2d Qh]
+Seat 1: droctagon101 (small blind) folded on the Turn
+Seat 2: Fool Gambler (big blind) folded on the Turn
+Seat 3: 27tony1990 showed [3h 3d] and won ($0.12) with three of a kind, Threes
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: ctrbyfn mucked [6s 6c]
+Seat 7: edoschenko (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005596060:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:09:11 PT [2021/12/06 19:09:11 ET]
+Table 'Terebellum' 9-max Seat #1 is the button
+Seat 1: droctagon101 ($1.84 in chips) 
+Seat 2: Fool Gambler ($1.18 in chips) 
+Seat 3: 27tony1990 ($0.88 in chips) 
+Seat 4: Dorex2007 ($2.59 in chips) 
+Seat 6: ctrbyfn ($2.01 in chips) 
+Seat 7: edoschenko ($1.71 in chips) 
+Fool Gambler: posts small blind $0.01
+27tony1990: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 6d]
+Dorex2007: calls $0.02
+ctrbyfn: folds 
+ctrbyfn leaves the table
+edoschenko: folds 
+droctagon101: folds 
+Fool Gambler: calls $0.01
+27tony1990: raises $0.02 to $0.04
+Dorex2007: calls $0.02
+Fool Gambler: calls $0.02
+*** FLOP *** [4h Tc Jc]
+Fool Gambler: checks 
+27tony1990: bets $0.02
+Dorex2007: calls $0.02
+Fool Gambler: calls $0.02
+*** TURN *** [4h Tc Jc] [5s]
+Fool Gambler: checks 
+27tony1990: checks 
+Mr Mullers joins the table at seat #6 
+Dorex2007: checks 
+*** RIVER *** [4h Tc Jc 5s] [4d]
+Fool Gambler: checks 
+27tony1990: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+Fool Gambler: shows [7d As] (a pair of Fours)
+27tony1990: shows [Kd Ac] (a pair of Fours - Ace+King kicker)
+Dorex2007: shows [6s 6d] (two pair, Sixes and Fours)
+Tikagus joins the table at seat #8 
+Dorex2007 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [4h Tc Jc 5s 4d]
+Seat 1: droctagon101 (button) folded before Flop (didn't bet)
+Seat 2: Fool Gambler (small blind) showed [7d As] and lost with a pair of Fours
+Seat 3: 27tony1990 (big blind) showed [Kd Ac] and lost with a pair of Fours
+Seat 4: Dorex2007 showed [6s 6d] and won ($0.17) with two pair, Sixes and Fours
+Seat 6: ctrbyfn folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005618848:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:10:18 PT [2021/12/06 19:10:18 ET]
+Table 'Terebellum' 9-max Seat #2 is the button
+Seat 1: droctagon101 ($1.84 in chips) 
+Seat 2: Fool Gambler ($1.12 in chips) 
+Seat 3: 27tony1990 ($0.82 in chips) 
+Seat 4: Dorex2007 ($2.70 in chips) 
+Seat 7: edoschenko ($1.71 in chips) 
+Seat 9: sbjk1903 ($0.50 in chips) 
+27tony1990: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Mr Mullers: sits out 
+Tikagus: sits out 
+sbjk1903: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Ks]
+edoschenko: folds 
+sbjk1903 has timed out
+sbjk1903: checks 
+droctagon101: folds 
+Fool Gambler: calls $0.02
+27tony1990: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [2c 5d 8d]
+27tony1990: checks 
+Dorex2007: checks 
+sbjk1903 has timed out
+sbjk1903: checks 
+Fool Gambler: bets $0.02
+27tony1990: calls $0.02
+Dorex2007: folds 
+sbjk1903 has timed out
+sbjk1903: folds 
+*** TURN *** [2c 5d 8d] [Ah]
+27tony1990: checks 
+Fool Gambler: bets $0.02
+27tony1990: calls $0.02
+*** RIVER *** [2c 5d 8d Ah] [3s]
+27tony1990: bets $0.02
+Fool Gambler: calls $0.02
+*** SHOW DOWN ***
+27tony1990: shows [4h Ad] (a straight, Ace to Five)
+Fool Gambler: mucks hand 
+27tony1990 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [2c 5d 8d Ah 3s]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: Fool Gambler (button) mucked [Jd Js]
+Seat 3: 27tony1990 (small blind) showed [4h Ad] and won ($0.20) with a straight, Ace to Five
+Seat 4: Dorex2007 (big blind) folded on the Flop
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 9: sbjk1903 folded on the Flop (didn't bet)
+
+
+
+PokerStars Hand #232005666397:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:12:37 PT [2021/12/06 19:12:37 ET]
+Table 'Terebellum' 9-max Seat #3 is the button
+Seat 1: droctagon101 ($1.84 in chips) 
+Seat 2: Fool Gambler ($1.04 in chips) 
+Seat 3: 27tony1990 ($0.94 in chips) 
+Seat 4: Dorex2007 ($2.68 in chips) 
+Seat 5: Tenorio422 ($7.17 in chips) 
+Seat 7: edoschenko ($1.71 in chips) 
+Dorex2007: posts small blind $0.01
+Tenorio422: posts big blind $0.02
+Mr Mullers: sits out 
+Tikagus: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Ac]
+edoschenko: raises $0.05 to $0.07
+droctagon101: folds 
+Fool Gambler: calls $0.07
+27tony1990: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+*** FLOP *** [2h 6d Jh]
+edoschenko: bets $0.10
+Fool Gambler: folds 
+Uncalled bet ($0.10) returned to edoschenko
+edoschenko collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [2h 6d Jh]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: Fool Gambler folded on the Flop
+Seat 3: 27tony1990 (button) folded before Flop (didn't bet)
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: Tenorio422 (big blind) folded before Flop
+Seat 7: edoschenko collected ($0.16)
+
+
+
+PokerStars Hand #232005677484:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:13:09 PT [2021/12/06 19:13:09 ET]
+Table 'Terebellum' 9-max Seat #4 is the button
+Seat 1: droctagon101 ($1.84 in chips) 
+Seat 2: Fool Gambler ($0.97 in chips) 
+Seat 3: 27tony1990 ($0.94 in chips) 
+Seat 4: Dorex2007 ($2.67 in chips) 
+Seat 5: Tenorio422 ($7.15 in chips) 
+Seat 6: Mr Mullers ($2 in chips) 
+Seat 7: edoschenko ($1.80 in chips) 
+Tenorio422: posts small blind $0.01
+Mr Mullers: posts big blind $0.02
+Tikagus: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 8s]
+edoschenko: folds 
+droctagon101: folds 
+Fool Gambler: calls $0.02
+27tony1990: calls $0.02
+Dorex2007: folds 
+Tenorio422: folds 
+Mr Mullers: checks 
+*** FLOP *** [3c 9s Ts]
+Mr Mullers: checks 
+Fool Gambler: bets $0.02
+27tony1990: folds 
+Mr Mullers: folds 
+Uncalled bet ($0.02) returned to Fool Gambler
+Fool Gambler collected $0.07 from pot
+Fool Gambler: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [3c 9s Ts]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: Fool Gambler collected ($0.07)
+Seat 3: 27tony1990 folded on the Flop
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: Tenorio422 (small blind) folded before Flop
+Seat 6: Mr Mullers (big blind) folded on the Flop
+Seat 7: edoschenko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005694389:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:13:59 PT [2021/12/06 19:13:59 ET]
+Table 'Terebellum' 9-max Seat #5 is the button
+Seat 1: droctagon101 ($1.84 in chips) 
+Seat 2: Fool Gambler ($1.02 in chips) 
+Seat 3: 27tony1990 ($0.92 in chips) 
+Seat 4: Dorex2007 ($2.67 in chips) 
+Seat 5: Tenorio422 ($7.14 in chips) 
+Seat 6: Mr Mullers ($1.98 in chips) 
+Seat 7: edoschenko ($1.80 in chips) 
+Mr Mullers: posts small blind $0.01
+edoschenko: posts big blind $0.02
+Tikagus: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 2s]
+droctagon101: folds 
+Fool Gambler: calls $0.02
+27tony1990 has timed out
+27tony1990: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+Mr Mullers: calls $0.01
+edoschenko: checks 
+*** FLOP *** [4d Kc Kh]
+Mr Mullers: checks 
+edoschenko: checks 
+Fool Gambler: checks 
+*** TURN *** [4d Kc Kh] [7s]
+Mr Mullers: checks 
+edoschenko: checks 
+Fool Gambler: bets $0.02
+Mr Mullers: calls $0.02
+edoschenko: folds 
+*** RIVER *** [4d Kc Kh 7s] [3c]
+Mr Mullers: checks 
+Fool Gambler: bets $0.02
+Mr Mullers: calls $0.02
+*** SHOW DOWN ***
+Fool Gambler: shows [6h 7d] (two pair, Kings and Sevens)
+Mr Mullers: mucks hand 
+Fool Gambler collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [4d Kc Kh 7s 3c]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 2: Fool Gambler showed [6h 7d] and won ($0.14) with two pair, Kings and Sevens
+Seat 3: 27tony1990 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 (button) folded before Flop (didn't bet)
+Seat 6: Mr Mullers (small blind) mucked [Ts Ah]
+Seat 7: edoschenko (big blind) folded on the Turn
+
+
+
+PokerStars Hand #232005725935:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:15:05 PT [2021/12/06 19:15:05 ET]
+Table 'Terebellum' 9-max Seat #6 is the button
+Seat 1: droctagon101 ($1.84 in chips) 
+Seat 2: Fool Gambler ($1.10 in chips) 
+Seat 3: 27tony1990 ($0.92 in chips) 
+Seat 4: Dorex2007 ($2.67 in chips) 
+Seat 5: Tenorio422 ($7.14 in chips) 
+Seat 6: Mr Mullers ($1.92 in chips) 
+Seat 7: edoschenko ($1.78 in chips) 
+Seat 8: Tikagus ($2 in chips) 
+edoschenko: posts small blind $0.01
+Tikagus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Ks]
+droctagon101: raises $0.04 to $0.06
+Fool Gambler: calls $0.06
+27tony1990: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+Mr Mullers: calls $0.06
+edoschenko: folds 
+Tikagus: folds 
+*** FLOP *** [Jc 3c As]
+droctagon101: checks 
+Fool Gambler: checks 
+Mr Mullers: checks 
+*** TURN *** [Jc 3c As] [6c]
+droctagon101: checks 
+Fool Gambler: checks 
+Mr Mullers: checks 
+*** RIVER *** [Jc 3c As 6c] [4c]
+droctagon101: checks 
+Fool Gambler: checks 
+Mr Mullers: checks 
+*** SHOW DOWN ***
+droctagon101: shows [Kd Kh] (a pair of Kings)
+Fool Gambler: mucks hand 
+Mr Mullers: mucks hand 
+droctagon101 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Jc 3c As 6c 4c]
+Seat 1: droctagon101 showed [Kd Kh] and won ($0.20) with a pair of Kings
+Seat 2: Fool Gambler mucked [Qd Ts]
+Seat 3: 27tony1990 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: Mr Mullers (button) mucked [Th 8s]
+Seat 7: edoschenko (small blind) folded before Flop
+Seat 8: Tikagus (big blind) folded before Flop
+
+
+
+PokerStars Hand #232005747006:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:16:07 PT [2021/12/06 19:16:07 ET]
+Table 'Terebellum' 9-max Seat #7 is the button
+Seat 1: droctagon101 ($1.98 in chips) 
+Seat 2: Fool Gambler ($1.04 in chips) 
+Seat 3: 27tony1990 ($0.92 in chips) 
+Seat 4: Dorex2007 ($2.67 in chips) 
+Seat 5: Tenorio422 ($7.14 in chips) 
+Seat 6: Mr Mullers ($1.86 in chips) 
+Seat 7: edoschenko ($1.77 in chips) 
+Seat 8: Tikagus ($1.98 in chips) 
+Tikagus: posts small blind $0.01
+droctagon101: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Tc]
+Fool Gambler: calls $0.02
+27tony1990 has timed out
+27tony1990: folds 
+Dorex2007: calls $0.02
+Tenorio422: folds 
+Mr Mullers: calls $0.02
+edoschenko: folds 
+Tikagus: calls $0.01
+droctagon101: checks 
+*** FLOP *** [5c Ah 7h]
+Tikagus: checks 
+droctagon101: checks 
+Fool Gambler: checks 
+Dorex2007: checks 
+Mr Mullers: checks 
+*** TURN *** [5c Ah 7h] [Js]
+Tikagus: bets $0.02
+droctagon101: folds 
+Fool Gambler: calls $0.02
+Dorex2007: calls $0.02
+Mr Mullers: calls $0.02
+*** RIVER *** [5c Ah 7h Js] [Jh]
+Tikagus: checks 
+Fool Gambler: bets $0.04
+Dorex2007: folds 
+Mr Mullers: folds 
+Tikagus: calls $0.04
+*** SHOW DOWN ***
+Fool Gambler: shows [Qh Jc] (three of a kind, Jacks)
+Tikagus: mucks hand 
+Fool Gambler collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [5c Ah 7h Js Jh]
+Seat 1: droctagon101 (big blind) folded on the Turn
+Seat 2: Fool Gambler showed [Qh Jc] and won ($0.25) with three of a kind, Jacks
+Seat 3: 27tony1990 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded on the River
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: Mr Mullers folded on the River
+Seat 7: edoschenko (button) folded before Flop (didn't bet)
+Seat 8: Tikagus (small blind) mucked [Ks 7s]
+
+
+
+PokerStars Hand #232005785464:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:17:37 PT [2021/12/06 19:17:37 ET]
+Table 'Terebellum' 9-max Seat #8 is the button
+Seat 1: droctagon101 ($1.96 in chips) 
+Seat 3: 27tony1990 ($0.92 in chips) 
+Seat 4: Dorex2007 ($2.63 in chips) 
+Seat 5: Tenorio422 ($7.14 in chips) 
+Seat 6: Mr Mullers ($1.96 in chips) 
+Seat 7: edoschenko ($1.77 in chips) 
+Seat 8: Tikagus ($1.90 in chips) 
+droctagon101: posts small blind $0.01
+Fool Gambler: is sitting out 
+27tony1990: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Qc]
+Fool Gambler leaves the table
+Dorex2007: folds 
+Tenorio422: folds 
+Mr Mullers: folds 
+edoschenko: folds 
+Tikagus: folds 
+droctagon101: folds 
+Uncalled bet ($0.01) returned to 27tony1990
+27tony1990 collected $0.02 from pot
+27tony1990: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: droctagon101 (small blind) folded before Flop
+Seat 3: 27tony1990 (big blind) collected ($0.02)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: Mr Mullers folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: Tikagus (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005789639:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:17:49 PT [2021/12/06 19:17:49 ET]
+Table 'Terebellum' 9-max Seat #1 is the button
+Seat 1: droctagon101 ($1.95 in chips) 
+Seat 3: 27tony1990 ($0.93 in chips) 
+Seat 4: Dorex2007 ($2.63 in chips) 
+Seat 5: Tenorio422 ($7.14 in chips) 
+Seat 6: Mr Mullers ($1.96 in chips) 
+Seat 7: edoschenko ($1.77 in chips) 
+Seat 8: Tikagus ($1.90 in chips) 
+27tony1990: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Qc]
+Tenorio422: raises $0.04 to $0.06
+Mr Mullers: folds 
+edoschenko: folds 
+Tikagus: folds 
+droctagon101: folds 
+27tony1990: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to Tenorio422
+Tenorio422 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: droctagon101 (button) folded before Flop (didn't bet)
+Seat 3: 27tony1990 (small blind) folded before Flop
+Seat 4: Dorex2007 (big blind) folded before Flop
+Seat 5: Tenorio422 collected ($0.05)
+Seat 6: Mr Mullers folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: Tikagus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005794918:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:18:05 PT [2021/12/06 19:18:05 ET]
+Table 'Terebellum' 9-max Seat #3 is the button
+Seat 1: droctagon101 ($1.95 in chips) 
+Seat 3: 27tony1990 ($0.92 in chips) 
+Seat 4: Dorex2007 ($2.61 in chips) 
+Seat 5: Tenorio422 ($7.17 in chips) 
+Seat 6: Mr Mullers ($1.96 in chips) 
+Seat 7: edoschenko ($1.77 in chips) 
+Seat 8: Tikagus ($1.90 in chips) 
+Dorex2007: posts small blind $0.01
+Tenorio422: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Td]
+Mr Mullers: folds 
+edoschenko: folds 
+Tikagus: calls $0.02
+droctagon101: folds 
+27tony1990: calls $0.02
+Dorex2007: folds 
+Tenorio422: checks 
+*** FLOP *** [Kc 3h 3d]
+Tenorio422: checks 
+Tikagus: checks 
+mccl2012 joins the table at seat #2 
+27tony1990: checks 
+*** TURN *** [Kc 3h 3d] [6c]
+Tenorio422: bets $0.06
+Tikagus: calls $0.06
+27tony1990: folds 
+*** RIVER *** [Kc 3h 3d 6c] [9s]
+Tenorio422: bets $0.10
+Tikagus: folds 
+Uncalled bet ($0.10) returned to Tenorio422
+Tenorio422 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Kc 3h 3d 6c 9s]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 3: 27tony1990 (button) folded on the Turn
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: Tenorio422 (big blind) collected ($0.18)
+Seat 6: Mr Mullers folded before Flop (didn't bet)
+Seat 7: edoschenko folded before Flop (didn't bet)
+Seat 8: Tikagus folded on the River
+
+
+
+PokerStars Hand #232005811174:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:18:54 PT [2021/12/06 19:18:54 ET]
+Table 'Terebellum' 9-max Seat #4 is the button
+Seat 1: droctagon101 ($1.95 in chips) 
+Seat 3: 27tony1990 ($0.90 in chips) 
+Seat 4: Dorex2007 ($2.60 in chips) 
+Seat 5: Tenorio422 ($7.27 in chips) 
+Seat 6: Mr Mullers ($1.96 in chips) 
+Seat 8: Tikagus ($1.82 in chips) 
+Tenorio422: posts small blind $0.01
+Mr Mullers: posts big blind $0.02
+mccl2012: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 5h]
+Tikagus: folds 
+droctagon101: folds 
+27tony1990: calls $0.02
+Dorex2007: folds 
+Tenorio422: folds 
+Mr Mullers: raises $0.06 to $0.08
+27tony1990: calls $0.06
+*** FLOP *** [2d Ah 4s]
+Mr Mullers: bets $0.16
+27tony1990: folds 
+Uncalled bet ($0.16) returned to Mr Mullers
+Mr Mullers collected $0.16 from pot
+Mr Mullers: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [2d Ah 4s]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 3: 27tony1990 folded on the Flop
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: Tenorio422 (small blind) folded before Flop
+Seat 6: Mr Mullers (big blind) collected ($0.16)
+Seat 8: Tikagus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005822605:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:19:29 PT [2021/12/06 19:19:29 ET]
+Table 'Terebellum' 9-max Seat #5 is the button
+Seat 1: droctagon101 ($1.95 in chips) 
+Seat 3: 27tony1990 ($0.82 in chips) 
+Seat 4: Dorex2007 ($2.60 in chips) 
+Seat 5: Tenorio422 ($7.26 in chips) 
+Seat 6: Mr Mullers ($2.04 in chips) 
+Seat 8: Tikagus ($1.82 in chips) 
+Mr Mullers: posts small blind $0.01
+Tikagus: posts big blind $0.02
+mccl2012: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Ts]
+droctagon101: folds 
+27tony1990: folds 
+Dorex2007: raises $0.04 to $0.06
+Tenorio422: calls $0.06
+Mr Mullers: calls $0.05
+Tikagus: folds 
+*** FLOP *** [2s 7s 4d]
+Mr Mullers: checks 
+Dorex2007: bets $0.10
+Tenorio422: calls $0.10
+Mr Mullers: folds 
+*** TURN *** [2s 7s 4d] [5d]
+Dorex2007: bets $0.10
+Tenorio422: calls $0.10
+*** RIVER *** [2s 7s 4d 5d] [2c]
+Dorex2007: bets $0.58
+Tenorio422: folds 
+Uncalled bet ($0.58) returned to Dorex2007
+Dorex2007 collected $0.58 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [2s 7s 4d 5d 2c]
+Seat 1: droctagon101 folded before Flop (didn't bet)
+Seat 3: 27tony1990 folded before Flop (didn't bet)
+Seat 4: Dorex2007 collected ($0.58)
+Seat 5: Tenorio422 (button) folded on the River
+Seat 6: Mr Mullers (small blind) folded on the Flop
+Seat 8: Tikagus (big blind) folded before Flop
+
+
+
+PokerStars Hand #232005836109:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:20:10 PT [2021/12/06 19:20:10 ET]
+Table 'Terebellum' 9-max Seat #6 is the button
+Seat 1: droctagon101 ($1.95 in chips) 
+Seat 3: 27tony1990 ($0.82 in chips) 
+Seat 4: Dorex2007 ($2.92 in chips) 
+Seat 5: Tenorio422 ($7 in chips) 
+Seat 6: Mr Mullers ($1.98 in chips) 
+Seat 8: Tikagus ($1.80 in chips) 
+Tikagus: posts small blind $0.01
+droctagon101: posts big blind $0.02
+mccl2012: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 6h]
+27tony1990: folds 
+Dorex2007: folds 
+Tenorio422: folds 
+Mr Mullers: folds 
+Tikagus: calls $0.01
+droctagon101: checks 
+*** FLOP *** [3h Td Tc]
+Tikagus: checks 
+droctagon101: checks 
+*** TURN *** [3h Td Tc] [5c]
+Tikagus: checks 
+droctagon101: checks 
+*** RIVER *** [3h Td Tc 5c] [Qd]
+Tikagus: checks 
+droctagon101: checks 
+*** SHOW DOWN ***
+Tikagus: shows [Jd 4h] (a pair of Tens)
+droctagon101: mucks hand 
+Tikagus collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3h Td Tc 5c Qd]
+Seat 1: droctagon101 (big blind) mucked [7d 2h]
+Seat 3: 27tony1990 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded before Flop (didn't bet)
+Seat 6: Mr Mullers (button) folded before Flop (didn't bet)
+Seat 8: Tikagus (small blind) showed [Jd 4h] and won ($0.04) with a pair of Tens
+
+
+
+PokerStars Hand #232005850505:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:20:53 PT [2021/12/06 19:20:53 ET]
+Table 'Terebellum' 9-max Seat #8 is the button
+Seat 1: droctagon101 ($1.93 in chips) 
+Seat 2: mccl2012 ($2 in chips) 
+Seat 3: 27tony1990 ($0.82 in chips) 
+Seat 4: Dorex2007 ($2.92 in chips) 
+Seat 5: Tenorio422 ($7 in chips) 
+Seat 6: Mr Mullers ($1.98 in chips) 
+Seat 8: Tikagus ($1.82 in chips) 
+droctagon101: posts small blind $0.01
+mccl2012: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 5d]
+27tony1990: calls $0.02
+Dorex2007: folds 
+Tenorio422: raises $0.06 to $0.08
+Mr Mullers: folds 
+Tikagus: folds 
+droctagon101: folds 
+mccl2012: folds 
+27tony1990: calls $0.06
+*** FLOP *** [4d 6s Ts]
+27tony1990: bets $0.20
+Tenorio422: folds 
+Uncalled bet ($0.20) returned to 27tony1990
+27tony1990 collected $0.18 from pot
+27tony1990: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [4d 6s Ts]
+Seat 1: droctagon101 (small blind) folded before Flop
+Seat 2: mccl2012 (big blind) folded before Flop
+Seat 3: 27tony1990 collected ($0.18)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded on the Flop
+Seat 6: Mr Mullers folded before Flop (didn't bet)
+Seat 8: Tikagus (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232005863373:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/06 16:21:33 PT [2021/12/06 19:21:33 ET]
+Table 'Terebellum' 9-max Seat #1 is the button
+Seat 1: droctagon101 ($1.92 in chips) 
+Seat 2: mccl2012 ($1.98 in chips) 
+Seat 3: 27tony1990 ($0.92 in chips) 
+Seat 4: Dorex2007 ($2.92 in chips) 
+Seat 5: Tenorio422 ($6.92 in chips) 
+Seat 6: Mr Mullers ($1.98 in chips) 
+Seat 8: Tikagus ($1.82 in chips) 
+mccl2012: posts small blind $0.01
+27tony1990: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 4d]
+Dorex2007: folds 
+Tenorio422: raises $0.04 to $0.06
+Mr Mullers: folds 
+Tikagus: calls $0.06
+droctagon101: folds 
+mccl2012: folds 
+27tony1990: folds 
+*** FLOP *** [8d 6h 5c]
+Tenorio422: checks 
+Tikagus: bets $0.14
+Tenorio422: folds 
+Uncalled bet ($0.14) returned to Tikagus
+Tikagus collected $0.14 from pot
+Tikagus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8d 6h 5c]
+Seat 1: droctagon101 (button) folded before Flop (didn't bet)
+Seat 2: mccl2012 (small blind) folded before Flop
+Seat 3: 27tony1990 (big blind) folded before Flop
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: Tenorio422 folded on the Flop
+Seat 6: Mr Mullers folded before Flop (didn't bet)
+Seat 8: Tikagus collected ($0.14)
+
+
+

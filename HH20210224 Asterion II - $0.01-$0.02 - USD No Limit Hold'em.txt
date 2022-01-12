@@ -1,0 +1,57 @@
+﻿PokerStars Hand #224189559369:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/24 20:03:33 PT [2021/02/24 23:03:33 ET]
+Table 'Asterion II' 9-max Seat #1 is the button
+Seat 1: Wabrss ($2.11 in chips) 
+Seat 2: Dorex2007 ($1.50 in chips) 
+Wabrss: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 8s]
+Wabrss: raises $0.02 to $0.04
+Dorex2007: calls $0.02
+*** FLOP *** [7s 2c Tc]
+Dorex2007: checks 
+Wabrss: bets $0.04
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to Wabrss
+Wabrss collected $0.08 from pot
+Wabrss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [7s 2c Tc]
+Seat 1: Wabrss (button) (small blind) collected ($0.08)
+Seat 2: Dorex2007 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #224189563789:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/24 20:03:52 PT [2021/02/24 23:03:52 ET]
+Table 'Asterion II' 9-max Seat #2 is the button
+Seat 1: Wabrss ($2.15 in chips) 
+Seat 2: Dorex2007 ($1.46 in chips) 
+Dorex2007: posts small blind $0.01
+Wabrss: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 9s]
+Dorex2007: calls $0.01
+Wabrss: checks 
+*** FLOP *** [7d Js Jd]
+Wabrss: checks 
+Dorex2007: checks 
+*** TURN *** [7d Js Jd] [8c]
+Wabrss: checks 
+Dorex2007: bets $0.04
+Wabrss: calls $0.04
+*** RIVER *** [7d Js Jd 8c] [As]
+Wabrss: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+Wabrss: shows [5c Td] (a pair of Jacks)
+Dorex2007: mucks hand 
+Wabrss collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [7d Js Jd 8c As]
+Seat 1: Wabrss (big blind) showed [5c Td] and won ($0.12) with a pair of Jacks
+Seat 2: Dorex2007 (button) (small blind) mucked [2c 9s]
+
+
+

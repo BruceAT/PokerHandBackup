@@ -1,0 +1,786 @@
+﻿PokerStars Hand #231788256380:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/28 15:26:36 PT [2021/11/28 18:26:36 ET]
+Table 'Altaj II' 9-max Seat #2 is the button
+Seat 1: PampuLobboxX ($2 in chips) 
+Seat 2: MizzMeduza ($1.60 in chips) 
+Seat 3: in_NUTS1 ($1 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: dncrabbe ($2 in chips) 
+Seat 6: wyobien ($0.80 in chips) 
+in_NUTS1: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Js]
+dncrabbe: folds 
+wyobien: folds 
+PampuLobboxX: raises $0.04 to $0.06
+MizzMeduza: raises $0.15 to $0.21
+in_NUTS1: folds 
+Dorex2007: folds 
+PampuLobboxX: folds 
+Uncalled bet ($0.15) returned to MizzMeduza
+MizzMeduza collected $0.15 from pot
+MizzMeduza: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: PampuLobboxX folded before Flop
+Seat 2: MizzMeduza (button) collected ($0.15)
+Seat 3: in_NUTS1 (small blind) folded before Flop
+Seat 4: Dorex2007 (big blind) folded before Flop
+Seat 5: dncrabbe folded before Flop (didn't bet)
+Seat 6: wyobien folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231788269712:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/28 15:27:09 PT [2021/11/28 18:27:09 ET]
+Table 'Altaj II' 9-max Seat #3 is the button
+Seat 1: PampuLobboxX ($2 in chips) 
+Seat 2: MizzMeduza ($1.69 in chips) 
+Seat 3: in_NUTS1 ($0.99 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: dncrabbe ($2 in chips) 
+Seat 6: wyobien ($0.80 in chips) 
+Dorex2007: posts small blind $0.01
+dncrabbe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Td]
+BrenoCsar joins the table at seat #7 
+wyobien: folds 
+PampuLobboxX: folds 
+mrjapa1000 joins the table at seat #8 
+MizzMeduza: raises $0.05 to $0.07
+in_NUTS1: calls $0.07
+Dorex2007: folds 
+f450gp joins the table at seat #9 
+dncrabbe: calls $0.05
+*** FLOP *** [9h 8h As]
+dncrabbe: checks 
+MizzMeduza: bets $0.10
+in_NUTS1: calls $0.10
+dncrabbe: raises $0.20 to $0.30
+MizzMeduza: folds 
+in_NUTS1: calls $0.20
+*** TURN *** [9h 8h As] [Jc]
+dncrabbe: bets $0.44
+in_NUTS1: raises $0.18 to $0.62 and is all-in
+dncrabbe: calls $0.18
+*** RIVER *** [9h 8h As Jc] [3s]
+*** SHOW DOWN ***
+dncrabbe: shows [8d Ad] (two pair, Aces and Eights)
+in_NUTS1: shows [Jd Tc] (a pair of Jacks)
+dncrabbe cashed out the hand for $1.59 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $2.16 | Rake $0.08 
+Board [9h 8h As Jc 3s]
+Seat 1: PampuLobboxX folded before Flop (didn't bet)
+Seat 2: MizzMeduza folded on the Flop
+Seat 3: in_NUTS1 (button) showed [Jd Tc] and lost with a pair of Jacks
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: dncrabbe (big blind) showed [8d Ad] and won ($2.08) with two pair, Aces and Eights (pot not awarded as player cashed out)
+Seat 6: wyobien folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231788303811:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/28 15:28:30 PT [2021/11/28 18:28:30 ET]
+Table 'Altaj II' 9-max Seat #4 is the button
+Seat 1: PampuLobboxX ($2 in chips) 
+Seat 2: MizzMeduza ($1.52 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: dncrabbe ($2.60 in chips) 
+Seat 6: wyobien ($0.80 in chips) 
+Seat 7: BrenoCsar ($0.80 in chips) 
+Seat 8: mrjapa1000 ($2 in chips) 
+dncrabbe: posts small blind $0.01
+wyobien: posts big blind $0.02
+BrenoCsar: posts big blind $0.02
+mrjapa1000: posts big blind $0.02
+f450gp: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Ts]
+BrenoCsar: checks 
+mrjapa1000: checks 
+PampuLobboxX: folds 
+MizzMeduza: folds 
+Dorex2007: folds 
+dncrabbe: calls $0.01
+wyobien: checks 
+*** FLOP *** [5s 4d As]
+dncrabbe: checks 
+wyobien: checks 
+BrenoCsar: bets $0.04
+mrjapa1000: folds 
+dncrabbe: calls $0.04
+wyobien: folds 
+*** TURN *** [5s 4d As] [9c]
+dncrabbe: checks 
+BrenoCsar: checks 
+*** RIVER *** [5s 4d As 9c] [Js]
+dncrabbe: bets $0.12
+BrenoCsar: calls $0.12
+*** SHOW DOWN ***
+dncrabbe: shows [6c 3c] (high card Ace)
+BrenoCsar: shows [Ad 2s] (a pair of Aces)
+BrenoCsar collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [5s 4d As 9c Js]
+Seat 1: PampuLobboxX folded before Flop (didn't bet)
+Seat 2: MizzMeduza folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: dncrabbe (small blind) showed [6c 3c] and lost with high card Ace
+Seat 6: wyobien (big blind) folded on the Flop
+Seat 7: BrenoCsar showed [Ad 2s] and won ($0.39) with a pair of Aces
+Seat 8: mrjapa1000 folded on the Flop (didn't bet)
+
+
+
+PokerStars Hand #231788331337:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/28 15:29:40 PT [2021/11/28 18:29:40 ET]
+Table 'Altaj II' 9-max Seat #5 is the button
+Seat 1: PampuLobboxX ($2 in chips) 
+Seat 2: MizzMeduza ($1.52 in chips) 
+Seat 3: in_NUTS1 ($2 in chips) 
+Seat 4: Dorex2007 ($2 in chips) 
+Seat 5: dncrabbe ($2.42 in chips) 
+Seat 6: wyobien ($0.78 in chips) 
+Seat 7: BrenoCsar ($1.01 in chips) 
+Seat 8: mrjapa1000 ($1.98 in chips) 
+wyobien: posts small blind $0.01
+BrenoCsar: posts big blind $0.02
+f450gp: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Qh]
+mrjapa1000: folds 
+PampuLobboxX: raises $0.04 to $0.06
+MizzMeduza: folds 
+in_NUTS1: folds 
+Dorex2007: calls $0.06
+dncrabbe: folds 
+wyobien: folds 
+BrenoCsar: folds 
+*** FLOP *** [Ad Jc 3s]
+PampuLobboxX: bets $0.14
+Dorex2007: calls $0.14
+*** TURN *** [Ad Jc 3s] [2c]
+PampuLobboxX: bets $0.21
+Dorex2007: calls $0.21
+*** RIVER *** [Ad Jc 3s 2c] [9s]
+PampuLobboxX: checks 
+Dorex2007: bets $0.55
+PampuLobboxX: folds 
+Uncalled bet ($0.55) returned to Dorex2007
+Dorex2007 collected $0.82 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.03 
+Board [Ad Jc 3s 2c 9s]
+Seat 1: PampuLobboxX folded on the River
+Seat 2: MizzMeduza folded before Flop (didn't bet)
+Seat 3: in_NUTS1 folded before Flop (didn't bet)
+Seat 4: Dorex2007 collected ($0.82)
+Seat 5: dncrabbe (button) folded before Flop (didn't bet)
+Seat 6: wyobien (small blind) folded before Flop
+Seat 7: BrenoCsar (big blind) folded before Flop
+Seat 8: mrjapa1000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231788352230:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/28 15:30:28 PT [2021/11/28 18:30:28 ET]
+Table 'Altaj II' 9-max Seat #6 is the button
+Seat 1: PampuLobboxX ($2 in chips) 
+Seat 2: MizzMeduza ($1.52 in chips) 
+Seat 3: in_NUTS1 ($2 in chips) 
+Seat 4: Dorex2007 ($2.41 in chips) 
+Seat 5: dncrabbe ($2.42 in chips) 
+Seat 6: wyobien ($0.77 in chips) 
+Seat 7: BrenoCsar ($0.99 in chips) 
+Seat 8: mrjapa1000 ($1.98 in chips) 
+BrenoCsar: posts small blind $0.01
+mrjapa1000: posts big blind $0.02
+f450gp: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 9h]
+PampuLobboxX: raises $0.04 to $0.06
+MizzMeduza: calls $0.06
+in_NUTS1: folds 
+Dorex2007: calls $0.06
+dncrabbe: folds 
+wyobien: folds 
+BrenoCsar: calls $0.05
+mrjapa1000: calls $0.04
+*** FLOP *** [3s Qd Qc]
+BrenoCsar: bets $0.08
+mrjapa1000: folds 
+PampuLobboxX: folds 
+MizzMeduza: folds 
+Dorex2007: folds 
+Uncalled bet ($0.08) returned to BrenoCsar
+BrenoCsar collected $0.29 from pot
+BrenoCsar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [3s Qd Qc]
+Seat 1: PampuLobboxX folded on the Flop
+Seat 2: MizzMeduza folded on the Flop
+Seat 3: in_NUTS1 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded on the Flop
+Seat 5: dncrabbe folded before Flop (didn't bet)
+Seat 6: wyobien (button) folded before Flop (didn't bet)
+Seat 7: BrenoCsar (small blind) collected ($0.29)
+Seat 8: mrjapa1000 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #231788382745:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/28 15:31:32 PT [2021/11/28 18:31:32 ET]
+Table 'Altaj II' 9-max Seat #7 is the button
+Seat 1: PampuLobboxX ($2 in chips) 
+Seat 2: MizzMeduza ($1.46 in chips) 
+Seat 3: in_NUTS1 ($2 in chips) 
+Seat 4: Dorex2007 ($2.35 in chips) 
+Seat 5: dncrabbe ($2.42 in chips) 
+Seat 6: wyobien ($0.77 in chips) 
+Seat 7: BrenoCsar ($1.22 in chips) 
+Seat 8: mrjapa1000 ($1.92 in chips) 
+Seat 9: f450gp ($2 in chips) 
+mrjapa1000: posts small blind $0.01
+f450gp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 6d]
+PampuLobboxX: raises $0.04 to $0.06
+MizzMeduza: calls $0.06
+in_NUTS1: calls $0.06
+Dorex2007: folds 
+dncrabbe: folds 
+wyobien: folds 
+BrenoCsar: folds 
+mrjapa1000: folds 
+f450gp: calls $0.04
+*** FLOP *** [As 9d Td]
+f450gp: checks 
+PampuLobboxX: bets $0.24
+MizzMeduza: folds 
+in_NUTS1: calls $0.24
+f450gp: folds 
+*** TURN *** [As 9d Td] [Qd]
+PampuLobboxX: checks 
+in_NUTS1: bets $1.70 and is all-in
+PampuLobboxX: folds 
+Uncalled bet ($1.70) returned to in_NUTS1
+in_NUTS1 collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [As 9d Td Qd]
+Seat 1: PampuLobboxX folded on the Turn
+Seat 2: MizzMeduza folded on the Flop
+Seat 3: in_NUTS1 collected ($0.70)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: dncrabbe folded before Flop (didn't bet)
+Seat 6: wyobien folded before Flop (didn't bet)
+Seat 7: BrenoCsar (button) folded before Flop (didn't bet)
+Seat 8: mrjapa1000 (small blind) folded before Flop
+Seat 9: f450gp (big blind) folded on the Flop
+
+
+
+PokerStars Hand #231788425170:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/28 15:33:06 PT [2021/11/28 18:33:06 ET]
+Table 'Altaj II' 9-max Seat #8 is the button
+Seat 1: PampuLobboxX ($2 in chips) 
+Seat 2: MizzMeduza ($1.40 in chips) 
+Seat 3: in_NUTS1 ($2.40 in chips) 
+Seat 4: Dorex2007 ($2.35 in chips) 
+Seat 5: dncrabbe ($2.42 in chips) 
+Seat 6: wyobien ($0.77 in chips) 
+Seat 8: mrjapa1000 ($1.91 in chips) 
+Seat 9: f450gp ($1.94 in chips) 
+f450gp: posts small blind $0.01
+PampuLobboxX: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 3c]
+MizzMeduza: folds 
+in_NUTS1: folds 
+Dorex2007: folds 
+dncrabbe: folds 
+wyobien: calls $0.02
+mrjapa1000 has timed out
+mrjapa1000: folds 
+f450gp: calls $0.01
+PampuLobboxX: checks 
+*** FLOP *** [7h Jh Jc]
+f450gp: checks 
+PampuLobboxX: checks 
+wyobien: checks 
+*** TURN *** [7h Jh Jc] [4c]
+f450gp: checks 
+PampuLobboxX: checks 
+wyobien: checks 
+*** RIVER *** [7h Jh Jc 4c] [3h]
+f450gp: bets $0.04
+PampuLobboxX: folds 
+wyobien: folds 
+Uncalled bet ($0.04) returned to f450gp
+f450gp collected $0.06 from pot
+f450gp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [7h Jh Jc 4c 3h]
+Seat 1: PampuLobboxX (big blind) folded on the River
+Seat 2: MizzMeduza folded before Flop (didn't bet)
+Seat 3: in_NUTS1 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: dncrabbe folded before Flop (didn't bet)
+Seat 6: wyobien folded on the River
+Seat 8: mrjapa1000 (button) folded before Flop (didn't bet)
+Seat 9: f450gp (small blind) collected ($0.06)
+
+
+
+PokerStars Hand #231788446832:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/28 15:34:01 PT [2021/11/28 18:34:01 ET]
+Table 'Altaj II' 9-max Seat #9 is the button
+Seat 1: PampuLobboxX ($2 in chips) 
+Seat 2: MizzMeduza ($1.40 in chips) 
+Seat 3: in_NUTS1 ($2.40 in chips) 
+Seat 4: Dorex2007 ($2.35 in chips) 
+Seat 5: dncrabbe ($2.42 in chips) 
+Seat 6: wyobien ($0.75 in chips) 
+Seat 8: mrjapa1000 ($1.91 in chips) 
+Seat 9: f450gp ($1.98 in chips) 
+PampuLobboxX: posts small blind $0.01
+MizzMeduza: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 2d]
+in_NUTS1 has timed out
+in_NUTS1: folds 
+Dorex2007: folds 
+dncrabbe: folds 
+wyobien: folds 
+mrjapa1000: folds 
+f450gp: folds 
+PampuLobboxX: raises $0.04 to $0.06
+MizzMeduza: raises $0.12 to $0.18
+PampuLobboxX: folds 
+Uncalled bet ($0.12) returned to MizzMeduza
+MizzMeduza collected $0.12 from pot
+MizzMeduza: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: PampuLobboxX (small blind) folded before Flop
+Seat 2: MizzMeduza (big blind) collected ($0.12)
+Seat 3: in_NUTS1 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: dncrabbe folded before Flop (didn't bet)
+Seat 6: wyobien folded before Flop (didn't bet)
+Seat 8: mrjapa1000 folded before Flop (didn't bet)
+Seat 9: f450gp (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231788459370:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/28 15:34:33 PT [2021/11/28 18:34:33 ET]
+Table 'Altaj II' 9-max Seat #1 is the button
+Seat 1: PampuLobboxX ($2 in chips) 
+Seat 2: MizzMeduza ($1.46 in chips) 
+Seat 3: in_NUTS1 ($2.40 in chips) 
+Seat 4: Dorex2007 ($2.35 in chips) 
+Seat 5: dncrabbe ($2.42 in chips) 
+Seat 6: wyobien ($0.75 in chips) 
+Seat 7: BrenoCsar ($1.22 in chips) 
+Seat 8: mrjapa1000 ($1.91 in chips) 
+Seat 9: f450gp ($1.98 in chips) 
+MizzMeduza: posts small blind $0.01
+in_NUTS1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Tc]
+Dorex2007: folds 
+dncrabbe: raises $0.04 to $0.06
+wyobien: folds 
+BrenoCsar: calls $0.06
+mrjapa1000: folds 
+f450gp: folds 
+PampuLobboxX: folds 
+MizzMeduza: folds 
+in_NUTS1: calls $0.04
+*** FLOP *** [Qh 5c Ks]
+in_NUTS1: checks 
+dncrabbe: checks 
+BrenoCsar: bets $0.02
+in_NUTS1: raises $0.06 to $0.08
+dncrabbe: folds 
+BrenoCsar: raises $0.06 to $0.14
+in_NUTS1: calls $0.06
+*** TURN *** [Qh 5c Ks] [Th]
+in_NUTS1: checks 
+BrenoCsar: checks 
+*** RIVER *** [Qh 5c Ks Th] [6h]
+in_NUTS1: checks 
+BrenoCsar: checks 
+*** SHOW DOWN ***
+in_NUTS1: shows [Kd 4c] (a pair of Kings)
+BrenoCsar: mucks hand 
+in_NUTS1 collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [Qh 5c Ks Th 6h]
+Seat 1: PampuLobboxX (button) folded before Flop (didn't bet)
+Seat 2: MizzMeduza (small blind) folded before Flop
+Seat 3: in_NUTS1 (big blind) showed [Kd 4c] and won ($0.45) with a pair of Kings
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: dncrabbe folded on the Flop
+Seat 6: wyobien folded before Flop (didn't bet)
+Seat 7: BrenoCsar mucked [5s Js]
+Seat 8: mrjapa1000 folded before Flop (didn't bet)
+Seat 9: f450gp folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231788488394:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/28 15:35:46 PT [2021/11/28 18:35:46 ET]
+Table 'Altaj II' 9-max Seat #2 is the button
+Seat 1: PampuLobboxX ($2 in chips) 
+Seat 2: MizzMeduza ($1.45 in chips) 
+Seat 3: in_NUTS1 ($2.65 in chips) 
+Seat 4: Dorex2007 ($2.35 in chips) 
+Seat 5: dncrabbe ($2.36 in chips) 
+Seat 6: wyobien ($0.75 in chips) 
+Seat 7: BrenoCsar ($1.02 in chips) 
+Seat 9: f450gp ($1.98 in chips) 
+in_NUTS1: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 8c]
+dncrabbe: folds 
+wyobien: calls $0.02
+BrenoCsar: calls $0.02
+f450gp: folds 
+PampuLobboxX: raises $0.08 to $0.10
+MizzMeduza: raises $0.27 to $0.37
+in_NUTS1: raises $2.28 to $2.65 and is all-in
+Dorex2007: folds 
+wyobien: folds 
+BrenoCsar: folds 
+PampuLobboxX: folds 
+MizzMeduza: calls $1.08 and is all-in
+Uncalled bet ($1.20) returned to in_NUTS1
+BrenoCsar leaves the table
+*** FLOP *** [5s 9c Qd]
+*** TURN *** [5s 9c Qd] [6d]
+*** RIVER *** [5s 9c Qd 6d] [5d]
+*** SHOW DOWN ***
+in_NUTS1: shows [Jh Jc] (two pair, Jacks and Fives)
+MizzMeduza: shows [6h 6s] (a full house, Sixes full of Fives)
+MizzMeduza collected $2.95 from pot
+*** SUMMARY ***
+Total pot $3.06 | Rake $0.11 
+Board [5s 9c Qd 6d 5d]
+Seat 1: PampuLobboxX folded before Flop
+Seat 2: MizzMeduza (button) showed [6h 6s] and won ($2.95) with a full house, Sixes full of Fives
+Seat 3: in_NUTS1 (small blind) showed [Jh Jc] and lost with two pair, Jacks and Fives
+Seat 4: Dorex2007 (big blind) folded before Flop
+Seat 5: dncrabbe folded before Flop (didn't bet)
+Seat 6: wyobien folded before Flop
+Seat 7: BrenoCsar folded before Flop
+Seat 9: f450gp folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231788525130:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/28 15:37:06 PT [2021/11/28 18:37:06 ET]
+Table 'Altaj II' 9-max Seat #3 is the button
+Seat 1: PampuLobboxX ($2 in chips) 
+Seat 2: MizzMeduza ($2.95 in chips) 
+Seat 3: in_NUTS1 ($1.20 in chips) 
+Seat 4: Dorex2007 ($2.33 in chips) 
+Seat 5: dncrabbe ($2.36 in chips) 
+Seat 6: wyobien ($0.73 in chips) 
+Seat 8: mrjapa1000 ($1.91 in chips) 
+Seat 9: f450gp ($1.98 in chips) 
+Dorex2007: posts small blind $0.01
+dncrabbe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 7d]
+wyobien: folds 
+mrjapa1000: folds 
+f450gp: folds 
+PampuLobboxX: raises $0.04 to $0.06
+MizzMeduza: raises $0.15 to $0.21
+in_NUTS1: folds 
+Dorex2007: folds 
+dncrabbe: folds 
+PampuLobboxX: raises $1.79 to $2 and is all-in
+MizzMeduza: calls $1.79
+*** FLOP *** [Jh Kd 8s]
+*** TURN *** [Jh Kd 8s] [6d]
+*** RIVER *** [Jh Kd 8s 6d] [Ah]
+*** SHOW DOWN ***
+PampuLobboxX: shows [Ac Kh] (two pair, Aces and Kings)
+MizzMeduza: shows [As Js] (two pair, Aces and Jacks)
+PampuLobboxX collected $3.89 from pot
+*** SUMMARY ***
+Total pot $4.03 | Rake $0.14 
+Board [Jh Kd 8s 6d Ah]
+Seat 1: PampuLobboxX showed [Ac Kh] and won ($3.89) with two pair, Aces and Kings
+Seat 2: MizzMeduza showed [As Js] and lost with two pair, Aces and Jacks
+Seat 3: in_NUTS1 (button) folded before Flop (didn't bet)
+Seat 4: Dorex2007 (small blind) folded before Flop
+Seat 5: dncrabbe (big blind) folded before Flop
+Seat 6: wyobien folded before Flop (didn't bet)
+Seat 8: mrjapa1000 folded before Flop (didn't bet)
+Seat 9: f450gp folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231788539575:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/28 15:37:43 PT [2021/11/28 18:37:43 ET]
+Table 'Altaj II' 9-max Seat #4 is the button
+Seat 1: PampuLobboxX ($3.89 in chips) 
+Seat 2: MizzMeduza ($0.95 in chips) 
+Seat 3: in_NUTS1 ($1.20 in chips) 
+Seat 4: Dorex2007 ($2.32 in chips) 
+Seat 5: dncrabbe ($2.34 in chips) 
+Seat 6: wyobien ($0.73 in chips) 
+Seat 8: mrjapa1000 ($1.91 in chips) 
+Seat 9: f450gp ($1.98 in chips) 
+dncrabbe: posts small blind $0.01
+wyobien: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 8c]
+mrjapa1000: folds 
+f450gp: folds 
+PampuLobboxX: raises $0.04 to $0.06
+in_NUTS1 said, "nice idiot"
+MizzMeduza: folds 
+in_NUTS1: folds 
+Dorex2007: folds 
+dncrabbe: folds 
+bob4tier joins the table at seat #7 
+wyobien: folds 
+Uncalled bet ($0.04) returned to PampuLobboxX
+PampuLobboxX collected $0.05 from pot
+PampuLobboxX: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: PampuLobboxX collected ($0.05)
+Seat 2: MizzMeduza folded before Flop (didn't bet)
+Seat 3: in_NUTS1 folded before Flop (didn't bet)
+Seat 4: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 5: dncrabbe (small blind) folded before Flop
+Seat 6: wyobien (big blind) folded before Flop
+Seat 8: mrjapa1000 folded before Flop (didn't bet)
+Seat 9: f450gp folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231788548473:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/28 15:38:06 PT [2021/11/28 18:38:06 ET]
+Table 'Altaj II' 9-max Seat #5 is the button
+Seat 1: PampuLobboxX ($3.92 in chips) 
+Seat 2: MizzMeduza ($0.95 in chips) 
+Seat 3: in_NUTS1 ($1.20 in chips) 
+Seat 4: Dorex2007 ($2.32 in chips) 
+Seat 5: dncrabbe ($2.33 in chips) 
+Seat 6: wyobien ($0.71 in chips) 
+Seat 7: bob4tier ($1.60 in chips) 
+Seat 8: mrjapa1000 ($1.91 in chips) 
+Seat 9: f450gp ($1.98 in chips) 
+wyobien: posts small blind $0.01
+bob4tier: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Ks]
+mrjapa1000: raises $0.04 to $0.06
+f450gp: folds 
+PampuLobboxX: folds 
+MizzMeduza: folds 
+in_NUTS1: folds 
+Dorex2007: folds 
+dncrabbe: folds 
+wyobien: folds 
+bob4tier: folds 
+Uncalled bet ($0.04) returned to mrjapa1000
+mrjapa1000 collected $0.05 from pot
+mrjapa1000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: PampuLobboxX folded before Flop (didn't bet)
+Seat 2: MizzMeduza folded before Flop (didn't bet)
+Seat 3: in_NUTS1 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: dncrabbe (button) folded before Flop (didn't bet)
+Seat 6: wyobien (small blind) folded before Flop
+Seat 7: bob4tier (big blind) folded before Flop
+Seat 8: mrjapa1000 collected ($0.05)
+Seat 9: f450gp folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231788554313:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/28 15:38:21 PT [2021/11/28 18:38:21 ET]
+Table 'Altaj II' 9-max Seat #6 is the button
+Seat 1: PampuLobboxX ($3.92 in chips) 
+Seat 2: MizzMeduza ($0.95 in chips) 
+Seat 3: in_NUTS1 ($1.20 in chips) 
+Seat 4: Dorex2007 ($2.32 in chips) 
+Seat 5: dncrabbe ($2.33 in chips) 
+Seat 6: wyobien ($0.70 in chips) 
+Seat 7: bob4tier ($1.58 in chips) 
+Seat 8: mrjapa1000 ($1.94 in chips) 
+Seat 9: f450gp ($1.98 in chips) 
+bob4tier: posts small blind $0.01
+mrjapa1000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 5c]
+f450gp: folds 
+PampuLobboxX: folds 
+MizzMeduza has timed out
+MizzMeduza: folds 
+in_NUTS1: folds 
+Dorex2007: folds 
+dncrabbe: folds 
+wyobien: folds 
+bob4tier: folds 
+Uncalled bet ($0.01) returned to mrjapa1000
+mrjapa1000 collected $0.02 from pot
+mrjapa1000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: PampuLobboxX folded before Flop (didn't bet)
+Seat 2: MizzMeduza folded before Flop (didn't bet)
+Seat 3: in_NUTS1 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: dncrabbe folded before Flop (didn't bet)
+Seat 6: wyobien (button) folded before Flop (didn't bet)
+Seat 7: bob4tier (small blind) folded before Flop
+Seat 8: mrjapa1000 (big blind) collected ($0.02)
+Seat 9: f450gp folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231788563159:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/28 15:38:44 PT [2021/11/28 18:38:44 ET]
+Table 'Altaj II' 9-max Seat #7 is the button
+Seat 1: PampuLobboxX ($3.92 in chips) 
+Seat 2: MizzMeduza ($0.95 in chips) 
+Seat 3: in_NUTS1 ($1.20 in chips) 
+Seat 4: Dorex2007 ($2.32 in chips) 
+Seat 5: dncrabbe ($2.33 in chips) 
+Seat 6: wyobien ($0.70 in chips) 
+Seat 7: bob4tier ($1.57 in chips) 
+Seat 8: mrjapa1000 ($1.95 in chips) 
+Seat 9: f450gp ($1.98 in chips) 
+mrjapa1000: posts small blind $0.01
+f450gp: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad Td]
+PampuLobboxX: raises $0.04 to $0.06
+MizzMeduza: raises $0.15 to $0.21
+in_NUTS1: folds 
+Dorex2007: folds 
+dncrabbe: folds 
+wyobien: folds 
+bob4tier has timed out
+bob4tier: folds 
+mrjapa1000: folds 
+f450gp: folds 
+PampuLobboxX: folds 
+Uncalled bet ($0.15) returned to MizzMeduza
+MizzMeduza collected $0.15 from pot
+MizzMeduza: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: PampuLobboxX folded before Flop
+Seat 2: MizzMeduza collected ($0.15)
+Seat 3: in_NUTS1 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: dncrabbe folded before Flop (didn't bet)
+Seat 6: wyobien folded before Flop (didn't bet)
+Seat 7: bob4tier (button) folded before Flop (didn't bet)
+Seat 8: mrjapa1000 (small blind) folded before Flop
+Seat 9: f450gp (big blind) folded before Flop
+
+
+
+PokerStars Hand #231788580089:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/28 15:39:27 PT [2021/11/28 18:39:27 ET]
+Table 'Altaj II' 9-max Seat #8 is the button
+Seat 1: PampuLobboxX ($3.86 in chips) 
+Seat 2: MizzMeduza ($1.04 in chips) 
+Seat 3: in_NUTS1 ($1.20 in chips) 
+Seat 4: Dorex2007 ($2.32 in chips) 
+Seat 5: dncrabbe ($2.33 in chips) 
+Seat 6: wyobien ($0.70 in chips) 
+Seat 8: mrjapa1000 ($1.94 in chips) 
+Seat 9: f450gp ($1.96 in chips) 
+f450gp: posts small blind $0.01
+PampuLobboxX: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 8d]
+MizzMeduza: calls $0.02
+in_NUTS1: folds 
+Dorex2007: folds 
+dncrabbe: folds 
+wyobien: calls $0.02
+mrjapa1000: calls $0.02
+f450gp: calls $0.01
+PampuLobboxX: checks 
+*** FLOP *** [Js 4h 4c]
+f450gp: checks 
+PampuLobboxX: checks 
+MizzMeduza: bets $0.10
+wyobien: folds 
+mrjapa1000: folds 
+f450gp: folds 
+PampuLobboxX: folds 
+Uncalled bet ($0.10) returned to MizzMeduza
+MizzMeduza collected $0.10 from pot
+MizzMeduza: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Js 4h 4c]
+Seat 1: PampuLobboxX (big blind) folded on the Flop
+Seat 2: MizzMeduza collected ($0.10)
+Seat 3: in_NUTS1 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: dncrabbe folded before Flop (didn't bet)
+Seat 6: wyobien folded on the Flop
+Seat 8: mrjapa1000 (button) folded on the Flop
+Seat 9: f450gp (small blind) folded on the Flop
+
+
+
+PokerStars Hand #231788598425:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/28 15:40:15 PT [2021/11/28 18:40:15 ET]
+Table 'Altaj II' 9-max Seat #9 is the button
+Seat 1: PampuLobboxX ($3.84 in chips) 
+Seat 2: MizzMeduza ($1.12 in chips) 
+Seat 3: in_NUTS1 ($1.20 in chips) 
+Seat 4: Dorex2007 ($2.32 in chips) 
+Seat 5: dncrabbe ($2.33 in chips) 
+Seat 6: wyobien ($0.68 in chips) 
+Seat 7: bob4tier ($1.57 in chips) 
+Seat 8: mrjapa1000 ($1.92 in chips) 
+Seat 9: f450gp ($1.94 in chips) 
+PampuLobboxX: posts small blind $0.01
+MizzMeduza: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 8c]
+in_NUTS1: folds 
+Dorex2007: folds 
+dncrabbe: folds 
+wyobien: folds 
+bob4tier: folds 
+mrjapa1000: raises $0.04 to $0.06
+f450gp: folds 
+PampuLobboxX: folds 
+MizzMeduza: calls $0.04
+*** FLOP *** [Jc 3d 5c]
+MizzMeduza: checks 
+mrjapa1000: bets $0.04
+MizzMeduza: calls $0.04
+*** TURN *** [Jc 3d 5c] [Ah]
+MizzMeduza: bets $0.20
+mrjapa1000: folds 
+Uncalled bet ($0.20) returned to MizzMeduza
+MizzMeduza collected $0.20 from pot
+MizzMeduza: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Jc 3d 5c Ah]
+Seat 1: PampuLobboxX (small blind) folded before Flop
+Seat 2: MizzMeduza (big blind) collected ($0.20)
+Seat 3: in_NUTS1 folded before Flop (didn't bet)
+Seat 4: Dorex2007 folded before Flop (didn't bet)
+Seat 5: dncrabbe folded before Flop (didn't bet)
+Seat 6: wyobien folded before Flop (didn't bet)
+Seat 7: bob4tier folded before Flop (didn't bet)
+Seat 8: mrjapa1000 folded on the Turn
+Seat 9: f450gp (button) folded before Flop (didn't bet)
+
+
+

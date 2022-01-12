@@ -1,0 +1,654 @@
+﻿PokerStars Hand #225183337192:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/25 15:59:13 PT [2021/03/25 18:59:13 ET]
+Table 'Maia V' 9-max Seat #9 is the button
+Seat 1: Sottaev10 ($2.35 in chips) 
+Seat 2: Dorex2007 ($1.50 in chips) 
+Seat 3: ElGinoo1 ($1.98 in chips) 
+Seat 4: gersomen2791 ($2.04 in chips) 
+Seat 5: daniel0928 ($2.55 in chips) 
+Seat 6: Denis2018123 ($0.94 in chips) 
+Seat 7: MarinaReal ($1.18 in chips) 
+Seat 9: Apostol108 ($2 in chips) 
+Sottaev10: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 4d]
+ElGinoo1 has timed out
+ElGinoo1: folds 
+gersomen2791: folds 
+daniel0928: raises $0.04 to $0.06
+Denis2018123: calls $0.06
+MarinaReal: folds 
+Apostol108: calls $0.06
+Sottaev10: folds 
+Dorex2007: folds 
+*** FLOP *** [5d 2d 6h]
+daniel0928: bets $0.10
+Denis2018123: folds 
+Apostol108: folds 
+Uncalled bet ($0.10) returned to daniel0928
+daniel0928 collected $0.20 from pot
+daniel0928: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [5d 2d 6h]
+Seat 1: Sottaev10 (small blind) folded before Flop
+Seat 2: Dorex2007 (big blind) folded before Flop
+Seat 3: ElGinoo1 folded before Flop (didn't bet)
+Seat 4: gersomen2791 folded before Flop (didn't bet)
+Seat 5: daniel0928 collected ($0.20)
+Seat 6: Denis2018123 folded on the Flop
+Seat 7: MarinaReal folded before Flop (didn't bet)
+Seat 9: Apostol108 (button) folded on the Flop
+
+
+
+PokerStars Hand #225183357870:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/25 16:00:04 PT [2021/03/25 19:00:04 ET]
+Table 'Maia V' 9-max Seat #1 is the button
+Seat 1: Sottaev10 ($2.34 in chips) 
+Seat 2: Dorex2007 ($1.48 in chips) 
+Seat 4: gersomen2791 ($2.04 in chips) 
+Seat 5: daniel0928 ($2.69 in chips) 
+Seat 6: Denis2018123 ($0.88 in chips) 
+Seat 7: MarinaReal ($1.18 in chips) 
+Seat 9: Apostol108 ($2 in chips) 
+Dorex2007: posts small blind $0.01
+gersomen2791: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 9d]
+daniel0928: folds 
+Denis2018123: calls $0.02
+MarinaReal: folds 
+Apostol108: folds 
+Sottaev10: calls $0.02
+Dorex2007: folds 
+gersomen2791: checks 
+*** FLOP *** [9c Kc 8c]
+gersomen2791: checks 
+Denis2018123: checks 
+Sottaev10: checks 
+*** TURN *** [9c Kc 8c] [3c]
+gersomen2791: checks 
+Denis2018123: checks 
+Sottaev10: bets $0.02
+gersomen2791: folds 
+Denis2018123: folds 
+Uncalled bet ($0.02) returned to Sottaev10
+Sottaev10 collected $0.07 from pot
+Sottaev10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [9c Kc 8c 3c]
+Seat 1: Sottaev10 (button) collected ($0.07)
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 4: gersomen2791 (big blind) folded on the Turn
+Seat 5: daniel0928 folded before Flop (didn't bet)
+Seat 6: Denis2018123 folded on the Turn
+Seat 7: MarinaReal folded before Flop (didn't bet)
+Seat 9: Apostol108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225183388775:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/25 16:01:14 PT [2021/03/25 19:01:14 ET]
+Table 'Maia V' 9-max Seat #2 is the button
+Seat 1: Sottaev10 ($2.39 in chips) 
+Seat 2: Dorex2007 ($1.47 in chips) 
+Seat 4: gersomen2791 ($2.02 in chips) 
+Seat 6: Denis2018123 ($0.86 in chips) 
+Seat 7: MarinaReal ($1.18 in chips) 
+Seat 9: Apostol108 ($2 in chips) 
+gersomen2791: posts small blind $0.01
+Denis2018123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Jh]
+MarinaReal: folds 
+Apostol108: folds 
+Sottaev10: calls $0.02
+Dorex2007: folds 
+gersomen2791: folds 
+Denis2018123: checks 
+*** FLOP *** [6h Ah Td]
+Denis2018123: bets $0.02
+Sottaev10: calls $0.02
+*** TURN *** [6h Ah Td] [5d]
+Denis2018123: checks 
+Sottaev10: checks 
+*** RIVER *** [6h Ah Td 5d] [5h]
+Denis2018123: checks 
+Sottaev10: checks 
+*** SHOW DOWN ***
+Denis2018123: shows [6s 4d] (two pair, Sixes and Fives)
+Sottaev10: shows [3c Tc] (two pair, Tens and Fives)
+Sottaev10 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [6h Ah Td 5d 5h]
+Seat 1: Sottaev10 showed [3c Tc] and won ($0.09) with two pair, Tens and Fives
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 4: gersomen2791 (small blind) folded before Flop
+Seat 6: Denis2018123 (big blind) showed [6s 4d] and lost with two pair, Sixes and Fives
+Seat 7: MarinaReal folded before Flop (didn't bet)
+Seat 9: Apostol108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225183411951:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/25 16:02:00 PT [2021/03/25 19:02:00 ET]
+Table 'Maia V' 9-max Seat #4 is the button
+Seat 1: Sottaev10 ($2.44 in chips) 
+Seat 2: Dorex2007 ($1.47 in chips) 
+Seat 4: gersomen2791 ($2.01 in chips) 
+Seat 6: Denis2018123 ($0.82 in chips) 
+Seat 7: MarinaReal ($1.18 in chips) 
+Seat 9: Apostol108 ($2 in chips) 
+Denis2018123: posts small blind $0.01
+MarinaReal: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Ac]
+Apostol108: folds 
+Sottaev10: raises $0.02 to $0.04
+Dorex2007: folds 
+gersomen2791: folds 
+Denis2018123: calls $0.03
+MarinaReal: calls $0.02
+*** FLOP *** [Ah Kh Ad]
+Denis2018123: checks 
+MarinaReal: checks 
+Sottaev10: bets $0.06
+Denis2018123: folds 
+MarinaReal: calls $0.06
+*** TURN *** [Ah Kh Ad] [Ks]
+MarinaReal: checks 
+Sottaev10: checks 
+*** RIVER *** [Ah Kh Ad Ks] [3h]
+MarinaReal: checks 
+Sottaev10: checks 
+*** SHOW DOWN ***
+MarinaReal: shows [Td Th] (two pair, Aces and Kings)
+Sottaev10: shows [Qd Jd] (two pair, Aces and Kings - Queen kicker)
+Sottaev10 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Ah Kh Ad Ks 3h]
+Seat 1: Sottaev10 showed [Qd Jd] and won ($0.23) with two pair, Aces and Kings
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 4: gersomen2791 (button) folded before Flop (didn't bet)
+Seat 6: Denis2018123 (small blind) folded on the Flop
+Seat 7: MarinaReal (big blind) showed [Td Th] and lost with two pair, Aces and Kings
+Seat 9: Apostol108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225183440867:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/25 16:02:57 PT [2021/03/25 19:02:57 ET]
+Table 'Maia V' 9-max Seat #6 is the button
+Seat 1: Sottaev10 ($2.57 in chips) 
+Seat 2: Dorex2007 ($1.47 in chips) 
+Seat 4: gersomen2791 ($2.01 in chips) 
+Seat 6: Denis2018123 ($0.78 in chips) 
+Seat 7: MarinaReal ($1.08 in chips) 
+Seat 9: Apostol108 ($2 in chips) 
+MarinaReal: posts small blind $0.01
+Apostol108: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 6h]
+Sottaev10: raises $0.02 to $0.04
+Dorex2007: folds 
+gersomen2791: folds 
+Denis2018123: calls $0.04
+MarinaReal: folds 
+Apostol108: folds 
+*** FLOP *** [3c 5s 6c]
+Sottaev10: bets $0.04
+Denis2018123: raises $0.04 to $0.08
+Sottaev10: raises $0.14 to $0.22
+Denis2018123: calls $0.14
+*** TURN *** [3c 5s 6c] [Js]
+Sottaev10: bets $0.26
+Denis2018123: raises $0.26 to $0.52 and is all-in
+Sottaev10: calls $0.26
+*** RIVER *** [3c 5s 6c Js] [Ah]
+*** SHOW DOWN ***
+Sottaev10: shows [Ac Kc] (a pair of Aces)
+Denis2018123: shows [5d 4h] (a pair of Fives)
+Sottaev10 cashed out the hand for $0.52 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $1.59 | Rake $0.06 
+Board [3c 5s 6c Js Ah]
+Seat 1: Sottaev10 showed [Ac Kc] and won ($1.53) with a pair of Aces (pot not awarded as player cashed out)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 4: gersomen2791 folded before Flop (didn't bet)
+Seat 6: Denis2018123 (button) showed [5d 4h] and lost with a pair of Fives
+Seat 7: MarinaReal (small blind) folded before Flop
+Seat 9: Apostol108 (big blind) folded before Flop
+
+
+
+PokerStars Hand #225183464950:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/25 16:03:45 PT [2021/03/25 19:03:45 ET]
+Table 'Maia V' 9-max Seat #7 is the button
+Seat 1: Sottaev10 ($2.31 in chips) 
+Seat 2: Dorex2007 ($1.47 in chips) 
+Seat 4: gersomen2791 ($2.01 in chips) 
+Seat 5: daniel0928 ($2.69 in chips) 
+Seat 7: MarinaReal ($1.07 in chips) 
+Seat 9: Apostol108 ($2 in chips) 
+Apostol108: posts small blind $0.01
+Sottaev10: posts big blind $0.02
+ElGinoo1: sits out 
+daniel0928: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 4c]
+Dorex2007: folds 
+gersomen2791: folds 
+daniel0928: checks 
+MarinaReal: calls $0.02
+Apostol108: folds 
+Sottaev10: checks 
+*** FLOP *** [Js 3c 9s]
+Sottaev10: checks 
+daniel0928: bets $0.02
+MarinaReal: calls $0.02
+Sottaev10: calls $0.02
+*** TURN *** [Js 3c 9s] [Ts]
+Sottaev10: checks 
+daniel0928: checks 
+MarinaReal: checks 
+*** RIVER *** [Js 3c 9s Ts] [2s]
+Sottaev10: checks 
+daniel0928: checks 
+MarinaReal: checks 
+*** SHOW DOWN ***
+Sottaev10: shows [8s Kh] (a flush, Jack high)
+daniel0928: mucks hand 
+MarinaReal: mucks hand 
+Sottaev10 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Js 3c 9s Ts 2s]
+Seat 1: Sottaev10 (big blind) showed [8s Kh] and won ($0.14) with a flush, Jack high
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 4: gersomen2791 folded before Flop (didn't bet)
+Seat 5: daniel0928 mucked [5d 3h]
+Seat 7: MarinaReal (button) mucked [Qh Ac]
+Seat 9: Apostol108 (small blind) folded before Flop
+
+
+
+PokerStars Hand #225183492881:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/25 16:04:34 PT [2021/03/25 19:04:34 ET]
+Table 'Maia V' 9-max Seat #9 is the button
+Seat 1: Sottaev10 ($2.41 in chips) 
+Seat 2: Dorex2007 ($1.47 in chips) 
+Seat 4: gersomen2791 ($2.01 in chips) 
+Seat 5: daniel0928 ($2.64 in chips) 
+Seat 7: MarinaReal ($1.03 in chips) 
+Seat 9: Apostol108 ($2 in chips) 
+Sottaev10: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+ElGinoo1: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 4s]
+gersomen2791: folds 
+daniel0928: folds 
+MarinaReal: folds 
+Apostol108: folds 
+Sottaev10: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Sottaev10 (small blind) folded before Flop
+Seat 2: Dorex2007 (big blind) collected ($0.02)
+Seat 4: gersomen2791 folded before Flop (didn't bet)
+Seat 5: daniel0928 folded before Flop (didn't bet)
+Seat 7: MarinaReal folded before Flop (didn't bet)
+Seat 9: Apostol108 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225183496685:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/25 16:04:42 PT [2021/03/25 19:04:42 ET]
+Table 'Maia V' 9-max Seat #1 is the button
+Seat 1: Sottaev10 ($2.40 in chips) 
+Seat 2: Dorex2007 ($1.48 in chips) 
+Seat 3: ElGinoo1 ($1.98 in chips) 
+Seat 4: gersomen2791 ($2.01 in chips) 
+Seat 5: daniel0928 ($2.64 in chips) 
+Seat 7: MarinaReal ($1.03 in chips) 
+Seat 9: Apostol108 ($2 in chips) 
+Dorex2007: posts small blind $0.01
+ElGinoo1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 9d]
+gersomen2791: folds 
+daniel0928: folds 
+MarinaReal: raises $0.04 to $0.06
+Apostol108: folds 
+Sottaev10: calls $0.06
+Dorex2007: folds 
+ElGinoo1: folds 
+*** FLOP *** [Td 8h 7h]
+MarinaReal: checks 
+Sottaev10: checks 
+*** TURN *** [Td 8h 7h] [3h]
+MarinaReal: checks 
+Sottaev10: checks 
+*** RIVER *** [Td 8h 7h 3h] [3s]
+MarinaReal: checks 
+Sottaev10: checks 
+*** SHOW DOWN ***
+MarinaReal: shows [Qs Kd] (a pair of Threes)
+Sottaev10: mucks hand 
+MarinaReal collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Td 8h 7h 3h 3s]
+Seat 1: Sottaev10 (button) mucked [Qd Js]
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 3: ElGinoo1 (big blind) folded before Flop
+Seat 4: gersomen2791 folded before Flop (didn't bet)
+Seat 5: daniel0928 folded before Flop (didn't bet)
+Seat 7: MarinaReal showed [Qs Kd] and won ($0.14) with a pair of Threes
+Seat 9: Apostol108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225183535330:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/25 16:05:58 PT [2021/03/25 19:05:58 ET]
+Table 'Maia V' 9-max Seat #2 is the button
+Seat 1: Sottaev10 ($2.34 in chips) 
+Seat 2: Dorex2007 ($1.47 in chips) 
+Seat 3: ElGinoo1 ($1.96 in chips) 
+Seat 4: gersomen2791 ($2.01 in chips) 
+Seat 5: daniel0928 ($2.64 in chips) 
+Seat 7: MarinaReal ($1.11 in chips) 
+Seat 9: Apostol108 ($2 in chips) 
+ElGinoo1: posts small blind $0.01
+gersomen2791: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Js]
+daniel0928: folds 
+MarinaReal: folds 
+Apostol108: folds 
+Sottaev10: raises $0.02 to $0.04
+Dorex2007: folds 
+ElGinoo1: folds 
+gersomen2791: folds 
+Uncalled bet ($0.02) returned to Sottaev10
+Sottaev10 collected $0.05 from pot
+Sottaev10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Sottaev10 collected ($0.05)
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: ElGinoo1 (small blind) folded before Flop
+Seat 4: gersomen2791 (big blind) folded before Flop
+Seat 5: daniel0928 folded before Flop (didn't bet)
+Seat 7: MarinaReal folded before Flop (didn't bet)
+Seat 9: Apostol108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225183546385:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/25 16:06:20 PT [2021/03/25 19:06:20 ET]
+Table 'Maia V' 9-max Seat #3 is the button
+Seat 1: Sottaev10 ($2.37 in chips) 
+Seat 2: Dorex2007 ($1.47 in chips) 
+Seat 3: ElGinoo1 ($1.95 in chips) 
+Seat 4: gersomen2791 ($2 in chips) 
+Seat 5: daniel0928 ($2.64 in chips) 
+Seat 7: MarinaReal ($1.11 in chips) 
+Seat 9: Apostol108 ($2 in chips) 
+gersomen2791: posts small blind $0.01
+daniel0928: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 6c]
+MarinaReal: raises $0.04 to $0.06
+Apostol108: folds 
+Sottaev10: calls $0.06
+Dorex2007: folds 
+ElGinoo1: folds 
+gersomen2791: folds 
+daniel0928: folds 
+*** FLOP *** [6d Qc 3c]
+MarinaReal: checks 
+Sottaev10: bets $0.04
+MarinaReal: calls $0.04
+*** TURN *** [6d Qc 3c] [2h]
+MarinaReal: checks 
+Sottaev10: bets $0.08
+MarinaReal: calls $0.08
+*** RIVER *** [6d Qc 3c 2h] [Js]
+MarinaReal: checks 
+Sottaev10: bets $0.25
+slzcosta83 leaves the table
+MarinaReal: folds 
+Uncalled bet ($0.25) returned to Sottaev10
+Sottaev10 collected $0.38 from pot
+Sottaev10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [6d Qc 3c 2h Js]
+Seat 1: Sottaev10 collected ($0.38)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: ElGinoo1 (button) folded before Flop (didn't bet)
+Seat 4: gersomen2791 (small blind) folded before Flop
+Seat 5: daniel0928 (big blind) folded before Flop
+Seat 7: MarinaReal folded on the River
+Seat 9: Apostol108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225183591488:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/25 16:07:50 PT [2021/03/25 19:07:50 ET]
+Table 'Maia V' 9-max Seat #4 is the button
+Seat 1: Sottaev10 ($2.57 in chips) 
+Seat 2: Dorex2007 ($1.47 in chips) 
+Seat 4: gersomen2791 ($2 in chips) 
+Seat 5: daniel0928 ($2.62 in chips) 
+Seat 6: Denis2018123 ($0.80 in chips) 
+Seat 7: MarinaReal ($0.93 in chips) 
+Seat 9: Apostol108 ($2 in chips) 
+daniel0928: posts small blind $0.01
+Denis2018123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Js]
+MarinaReal: folds 
+Apostol108: folds 
+Sottaev10: folds 
+Dorex2007: folds 
+gersomen2791: raises $0.03 to $0.05
+daniel0928: calls $0.04
+Denis2018123: calls $0.03
+*** FLOP *** [Td Ac 8h]
+Maximus_735196 joins the table at seat #8 
+daniel0928: checks 
+Denis2018123: checks 
+gersomen2791: checks 
+*** TURN *** [Td Ac 8h] [2c]
+daniel0928: checks 
+Denis2018123: checks 
+gersomen2791: checks 
+*** RIVER *** [Td Ac 8h 2c] [8s]
+daniel0928: bets $0.10
+Denis2018123: folds 
+gersomen2791: calls $0.10
+*** SHOW DOWN ***
+daniel0928: shows [8c 7c] (three of a kind, Eights)
+gersomen2791: mucks hand 
+daniel0928 collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [Td Ac 8h 2c 8s]
+Seat 1: Sottaev10 folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 4: gersomen2791 (button) mucked [3d Ad]
+Seat 5: daniel0928 (small blind) showed [8c 7c] and won ($0.34) with three of a kind, Eights
+Seat 6: Denis2018123 (big blind) folded on the River
+Seat 7: MarinaReal folded before Flop (didn't bet)
+Seat 9: Apostol108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225183625335:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/25 16:08:57 PT [2021/03/25 19:08:57 ET]
+Table 'Maia V' 9-max Seat #5 is the button
+Seat 1: Sottaev10 ($2.57 in chips) 
+Seat 2: Dorex2007 ($1.47 in chips) 
+Seat 4: gersomen2791 ($2 in chips) 
+Seat 5: daniel0928 ($2.81 in chips) 
+Seat 6: Denis2018123 ($0.75 in chips) 
+Seat 7: MarinaReal ($0.93 in chips) 
+Seat 9: Apostol108 ($2 in chips) 
+Denis2018123: posts small blind $0.01
+MarinaReal: posts big blind $0.02
+Maximus_735196: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 3h]
+Apostol108: folds 
+Sottaev10: folds 
+Dorex2007: folds 
+gersomen2791: folds 
+daniel0928: raises $0.02 to $0.04
+Denis2018123: calls $0.03
+MarinaReal: calls $0.02
+*** FLOP *** [4h 2h 7s]
+Denis2018123: checks 
+MarinaReal: checks 
+daniel0928: checks 
+*** TURN *** [4h 2h 7s] [Kh]
+Denis2018123: checks 
+MarinaReal: bets $0.04
+daniel0928: calls $0.04
+Denis2018123: folds 
+*** RIVER *** [4h 2h 7s Kh] [Th]
+MarinaReal: checks 
+daniel0928: checks 
+*** SHOW DOWN ***
+MarinaReal: shows [Qd Qc] (a pair of Queens)
+daniel0928: shows [Ts Kd] (two pair, Kings and Tens)
+daniel0928 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [4h 2h 7s Kh Th]
+Seat 1: Sottaev10 folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 4: gersomen2791 folded before Flop (didn't bet)
+Seat 5: daniel0928 (button) showed [Ts Kd] and won ($0.19) with two pair, Kings and Tens
+Seat 6: Denis2018123 (small blind) folded on the Turn
+Seat 7: MarinaReal (big blind) showed [Qd Qc] and lost with a pair of Queens
+Seat 9: Apostol108 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225183647339:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/25 16:09:42 PT [2021/03/25 19:09:42 ET]
+Table 'Maia V' 9-max Seat #6 is the button
+Seat 1: Sottaev10 ($2.57 in chips) 
+Seat 2: Dorex2007 ($1.47 in chips) 
+Seat 4: gersomen2791 ($2 in chips) 
+Seat 5: daniel0928 ($2.92 in chips) 
+Seat 6: Denis2018123 ($0.71 in chips) 
+Seat 7: MarinaReal ($0.85 in chips) 
+Seat 8: Maximus_735196 ($2 in chips) 
+Seat 9: Apostol108 ($2 in chips) 
+MarinaReal: posts small blind $0.01
+Maximus_735196: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Td]
+Apostol108: raises $0.02 to $0.04
+Sottaev10: calls $0.04
+Dorex2007: folds 
+gersomen2791: folds 
+daniel0928: folds 
+Denis2018123: calls $0.04
+MarinaReal: calls $0.03
+Maximus_735196: calls $0.02
+*** FLOP *** [As Ts 7c]
+MarinaReal: checks 
+Maximus_735196: checks 
+Apostol108: checks 
+Sottaev10: checks 
+Denis2018123: checks 
+*** TURN *** [As Ts 7c] [8d]
+MarinaReal: checks 
+Maximus_735196: checks 
+Apostol108: checks 
+Sottaev10: checks 
+Denis2018123: checks 
+*** RIVER *** [As Ts 7c 8d] [2c]
+MarinaReal: checks 
+Maximus_735196: checks 
+Apostol108: checks 
+Sottaev10: checks 
+Denis2018123: checks 
+*** SHOW DOWN ***
+MarinaReal: shows [9s Qd] (high card Ace)
+Maximus_735196: mucks hand 
+Apostol108: shows [4c 4s] (a pair of Fours)
+Sottaev10: shows [6c 8c] (a pair of Eights)
+Denis2018123: mucks hand 
+Sottaev10 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [As Ts 7c 8d 2c]
+Seat 1: Sottaev10 showed [6c 8c] and won ($0.19) with a pair of Eights
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 4: gersomen2791 folded before Flop (didn't bet)
+Seat 5: daniel0928 folded before Flop (didn't bet)
+Seat 6: Denis2018123 (button) mucked [5s 4d]
+Seat 7: MarinaReal (small blind) showed [9s Qd] and lost with high card Ace
+Seat 8: Maximus_735196 (big blind) mucked [6h Qc]
+Seat 9: Apostol108 showed [4c 4s] and lost with a pair of Fours
+
+
+
+PokerStars Hand #225183703073:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/25 16:11:16 PT [2021/03/25 19:11:16 ET]
+Table 'Maia V' 9-max Seat #7 is the button
+Seat 1: Sottaev10 ($2.72 in chips) 
+Seat 2: Dorex2007 ($1.47 in chips) 
+Seat 3: ElGinoo1 ($1.95 in chips) 
+Seat 4: gersomen2791 ($2 in chips) 
+Seat 5: daniel0928 ($2.92 in chips) 
+Seat 6: Denis2018123 ($0.67 in chips) 
+Seat 7: MarinaReal ($0.81 in chips) 
+Seat 8: Maximus_735196 ($1.96 in chips) 
+Maximus_735196: posts small blind $0.01
+Apostol108: is sitting out 
+Sottaev10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 4s]
+Dorex2007: folds 
+ElGinoo1 has timed out
+ElGinoo1: folds 
+gersomen2791: folds 
+daniel0928: folds 
+Denis2018123: calls $0.02
+MarinaReal: calls $0.02
+Maximus_735196: calls $0.01
+Sottaev10: checks 
+*** FLOP *** [3c Tc 8h]
+Maximus_735196: checks 
+Sottaev10: checks 
+Denis2018123: checks 
+MarinaReal: checks 
+*** TURN *** [3c Tc 8h] [As]
+Maximus_735196: checks 
+Sottaev10: checks 
+Denis2018123: checks 
+MarinaReal: checks 
+*** RIVER *** [3c Tc 8h As] [4c]
+Maximus_735196: checks 
+Sottaev10: bets $0.06
+Denis2018123: folds 
+MarinaReal: calls $0.06
+Maximus_735196: folds 
+*** SHOW DOWN ***
+Sottaev10: shows [Ah 5h] (a pair of Aces)
+MarinaReal: shows [Ad Ks] (a pair of Aces - King kicker)
+MarinaReal collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [3c Tc 8h As 4c]
+Seat 1: Sottaev10 (big blind) showed [Ah 5h] and lost with a pair of Aces
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: ElGinoo1 folded before Flop (didn't bet)
+Seat 4: gersomen2791 folded before Flop (didn't bet)
+Seat 5: daniel0928 folded before Flop (didn't bet)
+Seat 6: Denis2018123 folded on the River
+Seat 7: MarinaReal (button) showed [Ad Ks] and won ($0.19) with a pair of Aces
+Seat 8: Maximus_735196 (small blind) folded on the River
+
+
+

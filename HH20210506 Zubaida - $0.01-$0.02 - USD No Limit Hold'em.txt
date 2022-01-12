@@ -1,0 +1,930 @@
+﻿PokerStars Hand #226502315247:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/05 22:54:36 PT [2021/05/06 1:54:36 ET]
+Table 'Zubaida' 9-max Seat #5 is the button
+Seat 2: TOOL1885 ($2 in chips) 
+Seat 3: Hiruyama ($2.07 in chips) 
+Seat 4: TaseevoInva ($2.47 in chips) 
+Seat 5: ivan69252 ($1.26 in chips) 
+Seat 6: AznFlyBoi ($1.16 in chips) 
+Seat 7: Dorex2007 ($1.50 in chips) 
+Seat 8: *VM*727 ($1.69 in chips) 
+Seat 9: GaliRah ($2 in chips) 
+AznFlyBoi: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Gitec350: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Jh]
+*VM*727: folds 
+GaliRah: folds 
+TOOL1885: folds 
+Hiruyama: folds 
+TaseevoInva: raises $0.04 to $0.06
+ivan69252: folds 
+AznFlyBoi: calls $0.05
+Dorex2007: calls $0.04
+*** FLOP *** [4c Kh 8h]
+AznFlyBoi: checks 
+Dorex2007: checks 
+TaseevoInva: bets $0.09
+AznFlyBoi: folds 
+Dorex2007: folds 
+Uncalled bet ($0.09) returned to TaseevoInva
+TaseevoInva collected $0.17 from pot
+TaseevoInva: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [4c Kh 8h]
+Seat 2: TOOL1885 folded before Flop (didn't bet)
+Seat 3: Hiruyama folded before Flop (didn't bet)
+Seat 4: TaseevoInva collected ($0.17)
+Seat 5: ivan69252 (button) folded before Flop (didn't bet)
+Seat 6: AznFlyBoi (small blind) folded on the Flop
+Seat 7: Dorex2007 (big blind) folded on the Flop
+Seat 8: *VM*727 folded before Flop (didn't bet)
+Seat 9: GaliRah folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226502320937:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/05 22:55:13 PT [2021/05/06 1:55:13 ET]
+Table 'Zubaida' 9-max Seat #6 is the button
+Seat 2: TOOL1885 ($2 in chips) 
+Seat 3: Hiruyama ($2.07 in chips) 
+Seat 4: TaseevoInva ($2.58 in chips) 
+Seat 5: ivan69252 ($1.26 in chips) 
+Seat 6: AznFlyBoi ($1.10 in chips) 
+Seat 7: Dorex2007 ($1.44 in chips) 
+Seat 8: *VM*727 ($1.69 in chips) 
+Seat 9: GaliRah ($2 in chips) 
+Dorex2007: posts small blind $0.01
+*VM*727: posts big blind $0.02
+Gitec350: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 3h]
+GaliRah: folds 
+TOOL1885: folds 
+Hiruyama: folds 
+TaseevoInva: folds 
+ivan69252 is disconnected 
+ivan69252 is connected 
+ivan69252: calls $0.02
+AznFlyBoi: calls $0.02
+Dorex2007: calls $0.01
+*VM*727: checks 
+*** FLOP *** [8s 3s 3d]
+Dorex2007: checks 
+*VM*727: checks 
+ivan69252: checks 
+AznFlyBoi: checks 
+*** TURN *** [8s 3s 3d] [9s]
+Dorex2007: bets $0.04
+*VM*727: folds 
+ivan69252: folds 
+AznFlyBoi: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.08 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [8s 3s 3d 9s]
+Seat 2: TOOL1885 folded before Flop (didn't bet)
+Seat 3: Hiruyama folded before Flop (didn't bet)
+Seat 4: TaseevoInva folded before Flop (didn't bet)
+Seat 5: ivan69252 folded on the Turn
+Seat 6: AznFlyBoi (button) folded on the Turn
+Seat 7: Dorex2007 (small blind) collected ($0.08)
+Seat 8: *VM*727 (big blind) folded on the Turn
+Seat 9: GaliRah folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226502329496:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/05 22:56:15 PT [2021/05/06 1:56:15 ET]
+Table 'Zubaida' 9-max Seat #7 is the button
+Seat 2: TOOL1885 ($2 in chips) 
+Seat 3: Hiruyama ($2.07 in chips) 
+Seat 4: TaseevoInva ($2.58 in chips) 
+Seat 5: ivan69252 ($1.24 in chips) 
+Seat 6: AznFlyBoi ($1.08 in chips) 
+Seat 7: Dorex2007 ($1.50 in chips) 
+Seat 8: *VM*727 ($1.67 in chips) 
+Seat 9: GaliRah ($2 in chips) 
+*VM*727: posts small blind $0.01
+GaliRah: posts big blind $0.02
+Gitec350: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 5s]
+TOOL1885: folds 
+Hiruyama: folds 
+TaseevoInva: folds 
+ivan69252: folds 
+AznFlyBoi: calls $0.02
+Dorex2007: calls $0.02
+*VM*727: folds 
+GaliRah: checks 
+*** FLOP *** [9d Ac Qs]
+GaliRah: checks 
+AznFlyBoi: checks 
+Dorex2007: checks 
+*** TURN *** [9d Ac Qs] [2c]
+GaliRah: checks 
+AznFlyBoi: checks 
+Dorex2007: checks 
+*** RIVER *** [9d Ac Qs 2c] [6d]
+GaliRah: checks 
+AznFlyBoi: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+GaliRah: shows [7d 9c] (a pair of Nines)
+AznFlyBoi: mucks hand 
+Dorex2007: mucks hand 
+GaliRah collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [9d Ac Qs 2c 6d]
+Seat 2: TOOL1885 folded before Flop (didn't bet)
+Seat 3: Hiruyama folded before Flop (didn't bet)
+Seat 4: TaseevoInva folded before Flop (didn't bet)
+Seat 5: ivan69252 folded before Flop (didn't bet)
+Seat 6: AznFlyBoi mucked [Th Js]
+Seat 7: Dorex2007 (button) mucked [6s 5s]
+Seat 8: *VM*727 (small blind) folded before Flop
+Seat 9: GaliRah (big blind) showed [7d 9c] and won ($0.07) with a pair of Nines
+
+
+
+PokerStars Hand #226502341513:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/05 22:57:42 PT [2021/05/06 1:57:42 ET]
+Table 'Zubaida' 9-max Seat #8 is the button
+Seat 1: Gitec350 ($2 in chips) 
+Seat 2: TOOL1885 ($2 in chips) 
+Seat 3: Hiruyama ($2.07 in chips) 
+Seat 4: TaseevoInva ($2.58 in chips) 
+Seat 5: ivan69252 ($1.24 in chips) 
+Seat 6: AznFlyBoi ($1.06 in chips) 
+Seat 7: Dorex2007 ($1.48 in chips) 
+Seat 8: *VM*727 ($1.66 in chips) 
+Seat 9: GaliRah ($2.05 in chips) 
+GaliRah: posts small blind $0.01
+Gitec350: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 4c]
+TOOL1885: folds 
+Hiruyama: folds 
+TaseevoInva: folds 
+ivan69252: folds 
+AznFlyBoi: calls $0.02
+Dorex2007: folds 
+*VM*727: calls $0.02
+GaliRah: calls $0.01
+Gitec350: checks 
+*** FLOP *** [Qc 6h Ad]
+GaliRah: checks 
+Gitec350: checks 
+AznFlyBoi: bets $0.08
+*VM*727: folds 
+GaliRah: folds 
+Gitec350: folds 
+Uncalled bet ($0.08) returned to AznFlyBoi
+AznFlyBoi collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Qc 6h Ad]
+Seat 1: Gitec350 (big blind) folded on the Flop
+Seat 2: TOOL1885 folded before Flop (didn't bet)
+Seat 3: Hiruyama folded before Flop (didn't bet)
+Seat 4: TaseevoInva folded before Flop (didn't bet)
+Seat 5: ivan69252 folded before Flop (didn't bet)
+Seat 6: AznFlyBoi collected ($0.08)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: *VM*727 (button) folded on the Flop
+Seat 9: GaliRah (small blind) folded on the Flop
+
+
+
+PokerStars Hand #226502346733:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/05 22:58:19 PT [2021/05/06 1:58:19 ET]
+Table 'Zubaida' 9-max Seat #9 is the button
+Seat 1: Gitec350 ($1.98 in chips) 
+Seat 2: TOOL1885 ($2 in chips) 
+Seat 3: Hiruyama ($2.07 in chips) 
+Seat 4: TaseevoInva ($2.58 in chips) 
+Seat 5: ivan69252 ($1.24 in chips) 
+Seat 6: AznFlyBoi ($1.12 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: *VM*727 ($1.64 in chips) 
+Seat 9: GaliRah ($2.03 in chips) 
+Gitec350: posts small blind $0.01
+TOOL1885: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 4d]
+Hiruyama: folds 
+TaseevoInva: folds 
+ivan69252: calls $0.02
+AznFlyBoi: folds 
+Dorex2007: folds 
+*VM*727: folds 
+GaliRah: folds 
+Gitec350: calls $0.01
+TOOL1885: checks 
+*** FLOP *** [4s 3d 9s]
+Gitec350: checks 
+TOOL1885: checks 
+ivan69252: bets $0.06
+Gitec350: folds 
+TOOL1885: folds 
+Uncalled bet ($0.06) returned to ivan69252
+ivan69252 collected $0.06 from pot
+ivan69252: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [4s 3d 9s]
+Seat 1: Gitec350 (small blind) folded on the Flop
+Seat 2: TOOL1885 (big blind) folded on the Flop
+Seat 3: Hiruyama folded before Flop (didn't bet)
+Seat 4: TaseevoInva folded before Flop (didn't bet)
+Seat 5: ivan69252 collected ($0.06)
+Seat 6: AznFlyBoi folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: *VM*727 folded before Flop (didn't bet)
+Seat 9: GaliRah (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226502353071:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/05 22:59:06 PT [2021/05/06 1:59:06 ET]
+Table 'Zubaida' 9-max Seat #1 is the button
+Seat 1: Gitec350 ($1.96 in chips) 
+Seat 2: TOOL1885 ($1.98 in chips) 
+Seat 3: Hiruyama ($2.07 in chips) 
+Seat 4: TaseevoInva ($2.58 in chips) 
+Seat 5: ivan69252 ($1.28 in chips) 
+Seat 6: AznFlyBoi ($1.12 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: *VM*727 ($1.64 in chips) 
+Seat 9: GaliRah ($2.03 in chips) 
+TOOL1885: posts small blind $0.01
+Hiruyama: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 3h]
+TaseevoInva: folds 
+ivan69252: calls $0.02
+AznFlyBoi: calls $0.02
+Dorex2007: folds 
+*VM*727: folds 
+GaliRah: folds 
+Gitec350: calls $0.02
+TOOL1885: folds 
+Hiruyama: raises $0.06 to $0.08
+ivan69252: folds 
+AznFlyBoi: calls $0.06
+Gitec350: calls $0.06
+*** FLOP *** [Qs 6c 4h]
+Hiruyama: bets $0.20
+AznFlyBoi: calls $0.20
+Gitec350: folds 
+*** TURN *** [Qs 6c 4h] [Ks]
+Hiruyama: checks 
+AznFlyBoi: checks 
+*** RIVER *** [Qs 6c 4h Ks] [Tc]
+Hiruyama: bets $0.18
+AznFlyBoi: calls $0.18
+*** SHOW DOWN ***
+Hiruyama: shows [7h Js] (high card King)
+AznFlyBoi: shows [Qd Td] (two pair, Queens and Tens)
+AznFlyBoi collected $0.99 from pot
+*** SUMMARY ***
+Total pot $1.03 | Rake $0.04 
+Board [Qs 6c 4h Ks Tc]
+Seat 1: Gitec350 (button) folded on the Flop
+Seat 2: TOOL1885 (small blind) folded before Flop
+Seat 3: Hiruyama (big blind) showed [7h Js] and lost with high card King
+Seat 4: TaseevoInva folded before Flop (didn't bet)
+Seat 5: ivan69252 folded before Flop
+Seat 6: AznFlyBoi showed [Qd Td] and won ($0.99) with two pair, Queens and Tens
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: *VM*727 folded before Flop (didn't bet)
+Seat 9: GaliRah folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226502362049:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/05 22:59:58 PT [2021/05/06 1:59:58 ET]
+Table 'Zubaida' 9-max Seat #2 is the button
+Seat 1: Gitec350 ($1.88 in chips) 
+Seat 2: TOOL1885 ($1.97 in chips) 
+Seat 3: Hiruyama ($2 in chips) 
+Seat 4: TaseevoInva ($2.58 in chips) 
+Seat 5: ivan69252 ($1.26 in chips) 
+Seat 6: AznFlyBoi ($1.65 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: *VM*727 ($1.64 in chips) 
+Seat 9: GaliRah ($2.03 in chips) 
+Hiruyama: posts small blind $0.01
+TaseevoInva: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 9s]
+ivan69252: folds 
+AznFlyBoi: folds 
+Dorex2007: folds 
+*VM*727: calls $0.02
+GaliRah: folds 
+Gitec350: calls $0.02
+TOOL1885: folds 
+Hiruyama: folds 
+TaseevoInva: checks 
+*** FLOP *** [4h Qd 5c]
+TaseevoInva: checks 
+*VM*727: bets $0.07
+Gitec350: calls $0.07
+TaseevoInva: calls $0.07
+*** TURN *** [4h Qd 5c] [7s]
+TaseevoInva: bets $0.14
+*VM*727: calls $0.14
+Gitec350: calls $0.14
+*** RIVER *** [4h Qd 5c 7s] [4d]
+AznFlyBoi leaves the table
+TaseevoInva: checks 
+*VM*727: bets $0.34
+Gitec350: folds 
+TaseevoInva: folds 
+Uncalled bet ($0.34) returned to *VM*727
+*VM*727 collected $0.68 from pot
+*VM*727: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.02 
+Board [4h Qd 5c 7s 4d]
+Seat 1: Gitec350 folded on the River
+Seat 2: TOOL1885 (button) folded before Flop (didn't bet)
+Seat 3: Hiruyama (small blind) folded before Flop
+Seat 4: TaseevoInva (big blind) folded on the River
+Seat 5: ivan69252 folded before Flop (didn't bet)
+Seat 6: AznFlyBoi folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: *VM*727 collected ($0.68)
+Seat 9: GaliRah folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226502376242:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/05 23:01:32 PT [2021/05/06 2:01:32 ET]
+Table 'Zubaida' 9-max Seat #3 is the button
+Seat 1: Gitec350 ($1.65 in chips) 
+Seat 2: TOOL1885 ($1.97 in chips) 
+Seat 3: Hiruyama ($2 in chips) 
+Seat 4: TaseevoInva ($2.35 in chips) 
+Seat 5: ivan69252 ($1.26 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: *VM*727 ($2.09 in chips) 
+Seat 9: GaliRah ($2.03 in chips) 
+TaseevoInva: posts small blind $0.01
+ivan69252: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Ad]
+Dorex2007: raises $0.04 to $0.06
+*VM*727: folds 
+GaliRah: folds 
+Gitec350: folds 
+TOOL1885: folds 
+Hiruyama: folds 
+TaseevoInva: folds 
+ivan69252: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Gitec350 folded before Flop (didn't bet)
+Seat 2: TOOL1885 folded before Flop (didn't bet)
+Seat 3: Hiruyama (button) folded before Flop (didn't bet)
+Seat 4: TaseevoInva (small blind) folded before Flop
+Seat 5: ivan69252 (big blind) folded before Flop
+Seat 7: Dorex2007 collected ($0.05)
+Seat 8: *VM*727 folded before Flop (didn't bet)
+Seat 9: GaliRah folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226502378959:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/05 23:01:49 PT [2021/05/06 2:01:49 ET]
+Table 'Zubaida' 9-max Seat #4 is the button
+Seat 1: Gitec350 ($1.65 in chips) 
+Seat 2: TOOL1885 ($1.97 in chips) 
+Seat 3: Hiruyama ($2 in chips) 
+Seat 4: TaseevoInva ($2.34 in chips) 
+Seat 5: ivan69252 ($1.24 in chips) 
+Seat 7: Dorex2007 ($2.03 in chips) 
+Seat 8: *VM*727 ($2.09 in chips) 
+Seat 9: GaliRah ($2.03 in chips) 
+ivan69252: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Ac]
+*VM*727: folds 
+*VM*727 leaves the table
+GaliRah: folds 
+Gitec350: folds 
+TOOL1885: folds 
+Hiruyama: raises $0.06 to $0.08
+TaseevoInva: folds 
+ivan69252: folds 
+Dorex2007: raises $0.08 to $0.16
+Hiruyama: folds 
+Uncalled bet ($0.08) returned to Dorex2007
+Dorex2007 collected $0.17 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0 
+Seat 1: Gitec350 folded before Flop (didn't bet)
+Seat 2: TOOL1885 folded before Flop (didn't bet)
+Seat 3: Hiruyama folded before Flop
+Seat 4: TaseevoInva (button) folded before Flop (didn't bet)
+Seat 5: ivan69252 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) collected ($0.17)
+Seat 8: *VM*727 folded before Flop (didn't bet)
+Seat 9: GaliRah folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226502383755:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/05 23:02:19 PT [2021/05/06 2:02:19 ET]
+Table 'Zubaida' 9-max Seat #5 is the button
+Seat 1: Gitec350 ($1.65 in chips) 
+Seat 2: TOOL1885 ($1.97 in chips) 
+Seat 3: Hiruyama ($2 in chips) 
+Seat 4: TaseevoInva ($2.34 in chips) 
+Seat 5: ivan69252 ($1.23 in chips) 
+Seat 7: Dorex2007 ($2.12 in chips) 
+Seat 9: GaliRah ($2.03 in chips) 
+Dorex2007: posts small blind $0.01
+GaliRah: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 3s]
+Gitec350: raises $0.04 to $0.06
+TOOL1885: folds 
+Hiruyama: folds 
+TaseevoInva: raises $0.12 to $0.18
+ivan69252: folds 
+Dorex2007: folds 
+GaliRah: folds 
+Gitec350: calls $0.12
+*** FLOP *** [5h 3c Qc]
+Gitec350: checks 
+TaseevoInva: bets $0.19
+Gitec350: folds 
+Uncalled bet ($0.19) returned to TaseevoInva
+TaseevoInva collected $0.38 from pot
+TaseevoInva: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [5h 3c Qc]
+Seat 1: Gitec350 folded on the Flop
+Seat 2: TOOL1885 folded before Flop (didn't bet)
+Seat 3: Hiruyama folded before Flop (didn't bet)
+Seat 4: TaseevoInva collected ($0.38)
+Seat 5: ivan69252 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 9: GaliRah (big blind) folded before Flop
+
+
+
+PokerStars Hand #226502388346:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/05 23:02:48 PT [2021/05/06 2:02:48 ET]
+Table 'Zubaida' 9-max Seat #7 is the button
+Seat 1: Gitec350 ($1.47 in chips) 
+Seat 2: TOOL1885 ($1.97 in chips) 
+Seat 3: Hiruyama ($2 in chips) 
+Seat 4: TaseevoInva ($2.54 in chips) 
+Seat 5: ivan69252 ($1.23 in chips) 
+Seat 7: Dorex2007 ($2.11 in chips) 
+Seat 9: GaliRah ($2.01 in chips) 
+GaliRah: posts small blind $0.01
+Gitec350: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Jd]
+TOOL1885: raises $0.03 to $0.05
+Hiruyama: folds 
+TaseevoInva: folds 
+ivan69252: folds 
+Dorex2007: folds 
+GaliRah: folds 
+Gitec350: folds 
+Uncalled bet ($0.03) returned to TOOL1885
+TOOL1885 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Gitec350 (big blind) folded before Flop
+Seat 2: TOOL1885 collected ($0.05)
+Seat 3: Hiruyama folded before Flop (didn't bet)
+Seat 4: TaseevoInva folded before Flop (didn't bet)
+Seat 5: ivan69252 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: GaliRah (small blind) folded before Flop
+
+
+
+PokerStars Hand #226502390199:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/05 23:03:00 PT [2021/05/06 2:03:00 ET]
+Table 'Zubaida' 9-max Seat #9 is the button
+Seat 1: Gitec350 ($1.45 in chips) 
+Seat 2: TOOL1885 ($2 in chips) 
+Seat 3: Hiruyama ($2 in chips) 
+Seat 4: TaseevoInva ($2.54 in chips) 
+Seat 5: ivan69252 ($1.23 in chips) 
+Seat 7: Dorex2007 ($2.11 in chips) 
+Seat 9: GaliRah ($2 in chips) 
+Gitec350: posts small blind $0.01
+TOOL1885: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Tc]
+Hiruyama: folds 
+TaseevoInva: folds 
+ivan69252: folds 
+Dorex2007: folds 
+GaliRah: folds 
+Gitec350: folds 
+Uncalled bet ($0.01) returned to TOOL1885
+TOOL1885 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Gitec350 (small blind) folded before Flop
+Seat 2: TOOL1885 (big blind) collected ($0.02)
+Seat 3: Hiruyama folded before Flop (didn't bet)
+Seat 4: TaseevoInva folded before Flop (didn't bet)
+Seat 5: ivan69252 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: GaliRah (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226502391771:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/05 23:03:10 PT [2021/05/06 2:03:10 ET]
+Table 'Zubaida' 9-max Seat #1 is the button
+Seat 1: Gitec350 ($1.44 in chips) 
+Seat 2: TOOL1885 ($2.01 in chips) 
+Seat 3: Hiruyama ($2 in chips) 
+Seat 4: TaseevoInva ($2.54 in chips) 
+Seat 5: ivan69252 ($1.23 in chips) 
+Seat 7: Dorex2007 ($2.11 in chips) 
+Seat 9: GaliRah ($2 in chips) 
+TOOL1885: posts small blind $0.01
+Hiruyama: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Td]
+TaseevoInva: folds 
+ivan69252: folds 
+Dorex2007: raises $0.04 to $0.06
+GaliRah: folds 
+Gitec350: calls $0.06
+TOOL1885: folds 
+Hiruyama: calls $0.04
+*** FLOP *** [4d 7d Ts]
+Hiruyama: bets $0.14
+Dorex2007: calls $0.14
+Gitec350: calls $0.14
+*** TURN *** [4d 7d Ts] [5d]
+Hiruyama: checks 
+Dorex2007: bets $0.59
+Gitec350: folds 
+Hiruyama: calls $0.59
+*** RIVER *** [4d 7d Ts 5d] [2d]
+Hiruyama: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+Hiruyama: shows [4c 4h] (three of a kind, Fours)
+Dorex2007: shows [Kd Td] (a flush, King high)
+Dorex2007 collected $1.73 from pot
+*** SUMMARY ***
+Total pot $1.79 | Rake $0.06 
+Board [4d 7d Ts 5d 2d]
+Seat 1: Gitec350 (button) folded on the Turn
+Seat 2: TOOL1885 (small blind) folded before Flop
+Seat 3: Hiruyama (big blind) showed [4c 4h] and lost with three of a kind, Fours
+Seat 4: TaseevoInva folded before Flop (didn't bet)
+Seat 5: ivan69252 folded before Flop (didn't bet)
+Seat 7: Dorex2007 showed [Kd Td] and won ($1.73) with a flush, King high
+Seat 9: GaliRah folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226502400446:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/05 23:04:05 PT [2021/05/06 2:04:05 ET]
+Table 'Zubaida' 9-max Seat #2 is the button
+Seat 1: Gitec350 ($1.24 in chips) 
+Seat 2: TOOL1885 ($2 in chips) 
+Seat 3: Hiruyama ($2 in chips) 
+Seat 4: TaseevoInva ($2.54 in chips) 
+Seat 5: ivan69252 ($1.23 in chips) 
+Seat 7: Dorex2007 ($3.05 in chips) 
+Seat 9: GaliRah ($2 in chips) 
+Hiruyama: posts small blind $0.01
+TaseevoInva: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Kd]
+ivan69252: calls $0.02
+Dorex2007: raises $0.04 to $0.06
+GaliRah: folds 
+Gitec350: folds 
+TOOL1885: folds 
+Hiruyama: calls $0.05
+TaseevoInva: folds 
+ivan69252: raises $0.20 to $0.26
+Dorex2007: folds 
+Hiruyama: folds 
+Uncalled bet ($0.20) returned to ivan69252
+ivan69252 collected $0.20 from pot
+ivan69252: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Gitec350 folded before Flop (didn't bet)
+Seat 2: TOOL1885 (button) folded before Flop (didn't bet)
+Seat 3: Hiruyama (small blind) folded before Flop
+Seat 4: TaseevoInva (big blind) folded before Flop
+Seat 5: ivan69252 collected ($0.20)
+Seat 7: Dorex2007 folded before Flop
+Seat 9: GaliRah folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226502404101:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/05 23:04:28 PT [2021/05/06 2:04:28 ET]
+Table 'Zubaida' 9-max Seat #3 is the button
+Seat 1: Gitec350 ($1.24 in chips) 
+Seat 2: TOOL1885 ($2 in chips) 
+Seat 3: Hiruyama ($2 in chips) 
+Seat 4: TaseevoInva ($2.52 in chips) 
+Seat 5: ivan69252 ($1.37 in chips) 
+Seat 7: Dorex2007 ($2.99 in chips) 
+Seat 9: GaliRah ($2 in chips) 
+TaseevoInva: posts small blind $0.01
+ivan69252: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 3s]
+Dorex2007: folds 
+GaliRah: folds 
+Gitec350: folds 
+TOOL1885: raises $0.03 to $0.05
+Hiruyama: folds 
+TaseevoInva: folds 
+ivan69252: folds 
+Uncalled bet ($0.03) returned to TOOL1885
+ivan69252 leaves the table
+TOOL1885 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Gitec350 folded before Flop (didn't bet)
+Seat 2: TOOL1885 collected ($0.05)
+Seat 3: Hiruyama (button) folded before Flop (didn't bet)
+Seat 4: TaseevoInva (small blind) folded before Flop
+Seat 5: ivan69252 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: GaliRah folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226502406058:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/05 23:04:40 PT [2021/05/06 2:04:40 ET]
+Table 'Zubaida' 9-max Seat #4 is the button
+Seat 1: Gitec350 ($1.24 in chips) 
+Seat 2: TOOL1885 ($2.03 in chips) 
+Seat 3: Hiruyama ($2 in chips) 
+Seat 4: TaseevoInva ($2.51 in chips) 
+Seat 7: Dorex2007 ($2.99 in chips) 
+Seat 9: GaliRah ($2 in chips) 
+Dorex2007: posts small blind $0.01
+GaliRah: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Jd]
+Gitec350: folds 
+TOOL1885: folds 
+Hiruyama: folds 
+TaseevoInva: folds 
+Dorex2007: raises $0.04 to $0.06
+GaliRah: calls $0.04
+*** FLOP *** [9c 2d Ks]
+Dorex2007: checks 
+GaliRah: bets $0.02
+Dorex2007: calls $0.02
+*** TURN *** [9c 2d Ks] [5d]
+Dorex2007: checks 
+GaliRah: bets $0.08
+Dorex2007: calls $0.08
+*** RIVER *** [9c 2d Ks 5d] [Jh]
+Dorex2007: checks 
+GaliRah: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [Kd Jd] (two pair, Kings and Jacks)
+GaliRah: mucks hand 
+Dorex2007 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [9c 2d Ks 5d Jh]
+Seat 1: Gitec350 folded before Flop (didn't bet)
+Seat 2: TOOL1885 folded before Flop (didn't bet)
+Seat 3: Hiruyama folded before Flop (didn't bet)
+Seat 4: TaseevoInva (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) showed [Kd Jd] and won ($0.31) with two pair, Kings and Jacks
+Seat 9: GaliRah (big blind) mucked [Kc Qc]
+
+
+
+PokerStars Hand #226502412869:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/05 23:05:23 PT [2021/05/06 2:05:23 ET]
+Table 'Zubaida' 9-max Seat #7 is the button
+Seat 1: Gitec350 ($1.24 in chips) 
+Seat 2: TOOL1885 ($2.03 in chips) 
+Seat 3: Hiruyama ($2 in chips) 
+Seat 4: TaseevoInva ($2.51 in chips) 
+Seat 7: Dorex2007 ($3.14 in chips) 
+Seat 9: GaliRah ($2 in chips) 
+GaliRah: posts small blind $0.01
+Gitec350: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 4s]
+TOOL1885: folds 
+Hiruyama: folds 
+TaseevoInva: folds 
+Dorex2007: raises $0.04 to $0.06
+GaliRah: calls $0.05
+Gitec350: folds 
+*** FLOP *** [9h Ts 8s]
+GaliRah: bets $0.14
+Dorex2007: folds 
+Uncalled bet ($0.14) returned to GaliRah
+GaliRah collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [9h Ts 8s]
+Seat 1: Gitec350 (big blind) folded before Flop
+Seat 2: TOOL1885 folded before Flop (didn't bet)
+Seat 3: Hiruyama folded before Flop (didn't bet)
+Seat 4: TaseevoInva folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded on the Flop
+Seat 9: GaliRah (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #226502417650:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/05 23:05:53 PT [2021/05/06 2:05:53 ET]
+Table 'Zubaida' 9-max Seat #9 is the button
+Seat 1: Gitec350 ($1.22 in chips) 
+Seat 2: TOOL1885 ($2.03 in chips) 
+Seat 3: Hiruyama ($2 in chips) 
+Seat 4: TaseevoInva ($2.51 in chips) 
+Seat 7: Dorex2007 ($3.08 in chips) 
+Seat 9: GaliRah ($2.08 in chips) 
+Gitec350: posts small blind $0.01
+TOOL1885: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Tc]
+Hiruyama: folds 
+TaseevoInva: folds 
+Dorex2007: calls $0.02
+GaliRah: folds 
+Gitec350: folds 
+TOOL1885: raises $0.08 to $0.10
+Dorex2007: folds 
+Uncalled bet ($0.08) returned to TOOL1885
+TOOL1885 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Gitec350 (small blind) folded before Flop
+Seat 2: TOOL1885 (big blind) collected ($0.05)
+Seat 3: Hiruyama folded before Flop (didn't bet)
+Seat 4: TaseevoInva folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop
+Seat 9: GaliRah (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226502421080:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/05 23:06:15 PT [2021/05/06 2:06:15 ET]
+Table 'Zubaida' 9-max Seat #1 is the button
+Seat 1: Gitec350 ($1.21 in chips) 
+Seat 2: TOOL1885 ($2.06 in chips) 
+Seat 3: Hiruyama ($2 in chips) 
+Seat 4: TaseevoInva ($2.51 in chips) 
+Seat 7: Dorex2007 ($3.06 in chips) 
+Seat 9: GaliRah ($2.08 in chips) 
+TOOL1885: posts small blind $0.01
+Hiruyama: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Kc]
+TaseevoInva: folds 
+Dorex2007: folds 
+GaliRah: folds 
+Gitec350: folds 
+TOOL1885: raises $0.04 to $0.06
+Hiruyama: folds 
+Uncalled bet ($0.04) returned to TOOL1885
+TOOL1885 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Gitec350 (button) folded before Flop (didn't bet)
+Seat 2: TOOL1885 (small blind) collected ($0.04)
+Seat 3: Hiruyama (big blind) folded before Flop
+Seat 4: TaseevoInva folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: GaliRah folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226502424073:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/05 23:06:34 PT [2021/05/06 2:06:34 ET]
+Table 'Zubaida' 9-max Seat #2 is the button
+Seat 1: Gitec350 ($1.21 in chips) 
+Seat 2: TOOL1885 ($2.08 in chips) 
+Seat 3: Hiruyama ($2 in chips) 
+Seat 4: TaseevoInva ($2.51 in chips) 
+Seat 7: Dorex2007 ($3.06 in chips) 
+Seat 9: GaliRah ($2.08 in chips) 
+Hiruyama: posts small blind $0.01
+TaseevoInva: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 6c]
+Dorex2007: folds 
+GaliRah: folds 
+Gitec350: folds 
+TOOL1885: raises $0.03 to $0.05
+Hiruyama: folds 
+TaseevoInva: folds 
+Uncalled bet ($0.03) returned to TOOL1885
+TOOL1885 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Gitec350 folded before Flop (didn't bet)
+Seat 2: TOOL1885 (button) collected ($0.05)
+Seat 3: Hiruyama (small blind) folded before Flop
+Seat 4: TaseevoInva (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: GaliRah folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226502426797:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/05 23:06:51 PT [2021/05/06 2:06:51 ET]
+Table 'Zubaida' 9-max Seat #3 is the button
+Seat 1: Gitec350 ($1.21 in chips) 
+Seat 2: TOOL1885 ($2.11 in chips) 
+Seat 3: Hiruyama ($2 in chips) 
+Seat 4: TaseevoInva ($2.49 in chips) 
+Seat 7: Dorex2007 ($3.06 in chips) 
+Seat 9: GaliRah ($2.08 in chips) 
+TaseevoInva: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 4h]
+GaliRah: folds 
+Gitec350: folds 
+TOOL1885: raises $0.03 to $0.05
+Hiruyama: folds 
+TaseevoInva: calls $0.04
+Dorex2007: folds 
+*** FLOP *** [Jc 3s 6c]
+TaseevoInva: checks 
+TOOL1885: bets $0.09
+TaseevoInva: calls $0.09
+*** TURN *** [Jc 3s 6c] [Ks]
+TaseevoInva: checks 
+TOOL1885: bets $0.22
+TaseevoInva: calls $0.22
+*** RIVER *** [Jc 3s 6c Ks] [9d]
+TaseevoInva: checks 
+Hiruyama leaves the table
+TOOL1885: bets $0.57
+TaseevoInva: calls $0.57
+*** SHOW DOWN ***
+TOOL1885: shows [Td Qc] (a straight, Nine to King)
+TaseevoInva: mucks hand 
+TOOL1885 collected $1.81 from pot
+*** SUMMARY ***
+Total pot $1.88 | Rake $0.07 
+Board [Jc 3s 6c Ks 9d]
+Seat 1: Gitec350 folded before Flop (didn't bet)
+Seat 2: TOOL1885 showed [Td Qc] and won ($1.81) with a straight, Nine to King
+Seat 3: Hiruyama (button) folded before Flop (didn't bet)
+Seat 4: TaseevoInva (small blind) mucked [7h 7c]
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 9: GaliRah folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226502440857:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/05 23:08:19 PT [2021/05/06 2:08:19 ET]
+Table 'Zubaida' 9-max Seat #4 is the button
+Seat 1: Gitec350 ($1.21 in chips) 
+Seat 2: TOOL1885 ($2.99 in chips) 
+Seat 4: TaseevoInva ($1.56 in chips) 
+Seat 7: Dorex2007 ($3.04 in chips) 
+Dorex2007: posts small blind $0.01
+GaliRah: is sitting out 
+Gitec350: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 7h]
+TOOL1885: folds 
+TaseevoInva: calls $0.02
+Dorex2007: folds 
+GaliRah leaves the table
+BAldred1 joins the table at seat #5 
+Gitec350: checks 
+*** FLOP *** [4d 6s 9c]
+Gitec350: checks 
+TOOL1885 leaves the table
+TaseevoInva: checks 
+*** TURN *** [4d 6s 9c] [Ts]
+Marcelorm900 joins the table at seat #9 
+Gitec350: checks 
+Dorex2007 leaves the table
+TaseevoInva: bets $0.02
+Gitec350: folds 
+Uncalled bet ($0.02) returned to TaseevoInva
+TaseevoInva collected $0.05 from pot
+TaseevoInva: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4d 6s 9c Ts]
+Seat 1: Gitec350 (big blind) folded on the Turn
+Seat 2: TOOL1885 folded before Flop (didn't bet)
+Seat 4: TaseevoInva (button) collected ($0.05)
+Seat 7: Dorex2007 (small blind) folded before Flop
+
+
+

@@ -1,0 +1,598 @@
+﻿PokerStars Hand #232622852175:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/28 22:28:21 PT [2021/12/29 1:28:21 ET]
+Table 'Hunan IV' 9-max Seat #5 is the button
+Seat 1: gektor77777 ($2.07 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 4: filiou10 ($1.78 in chips) 
+Seat 5: georgebigode ($2.13 in chips) 
+Seat 9: plotnser ($3.18 in chips) 
+plotnser: posts small blind $0.01
+gektor77777: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+filiou10: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 6s]
+Dorex2007: checks 
+filiou10: checks 
+georgebigode: calls $0.02
+plotnser: calls $0.01
+gektor77777: checks 
+*** FLOP *** [Js 5h Ac]
+plotnser: checks 
+gektor77777: checks 
+Dorex2007: checks 
+filiou10: checks 
+georgebigode: bets $0.10
+plotnser: folds 
+gektor77777: folds 
+Dorex2007: folds 
+filiou10: folds 
+Uncalled bet ($0.10) returned to georgebigode
+georgebigode collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Js 5h Ac]
+Seat 1: gektor77777 (big blind) folded on the Flop
+Seat 2: Dorex2007 folded on the Flop (didn't bet)
+Seat 4: filiou10 folded on the Flop (didn't bet)
+Seat 5: georgebigode (button) collected ($0.11)
+Seat 9: plotnser (small blind) folded on the Flop
+
+
+
+PokerStars Hand #232622859227:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/28 22:29:12 PT [2021/12/29 1:29:12 ET]
+Table 'Hunan IV' 9-max Seat #9 is the button
+Seat 1: gektor77777 ($2.05 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 4: filiou10 ($1.75 in chips) 
+Seat 5: georgebigode ($2.22 in chips) 
+Seat 9: plotnser ($3.16 in chips) 
+gektor77777: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Th]
+filiou10: calls $0.02
+georgebigode: folds 
+plotnser: calls $0.02
+gektor77777: calls $0.01
+GianniML joins the table at seat #3 
+Dorex2007: checks 
+*** FLOP *** [Js Kh Tc]
+gektor77777: checks 
+Dorex2007: checks 
+filiou10: checks 
+plotnser: bets $0.08
+gektor77777: calls $0.08
+Dorex2007: folds 
+filiou10: calls $0.08
+*** TURN *** [Js Kh Tc] [Ah]
+s1mpleX939 joins the table at seat #6 
+gektor77777: bets $0.40
+filiou10: folds 
+plotnser: folds 
+Uncalled bet ($0.40) returned to gektor77777
+gektor77777 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Js Kh Tc Ah]
+Seat 1: gektor77777 (small blind) collected ($0.31)
+Seat 2: Dorex2007 (big blind) folded on the Flop
+Seat 4: filiou10 folded on the Turn
+Seat 5: georgebigode folded before Flop (didn't bet)
+Seat 9: plotnser (button) folded on the Turn
+
+
+
+PokerStars Hand #232622869057:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/28 22:30:22 PT [2021/12/29 1:30:22 ET]
+Table 'Hunan IV' 9-max Seat #1 is the button
+Seat 1: gektor77777 ($2.26 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: GianniML ($2 in chips) 
+Seat 4: filiou10 ($1.65 in chips) 
+Seat 5: georgebigode ($2.22 in chips) 
+Seat 6: s1mpleX939 ($0.80 in chips) 
+Seat 7: MyTHaeBoka ($2.09 in chips) 
+Seat 9: plotnser ($3.06 in chips) 
+Dorex2007: posts small blind $0.01
+GianniML: posts big blind $0.02
+s1mpleX939: posts big blind $0.02
+MyTHaeBoka: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 8c]
+filiou10: folds 
+georgebigode: calls $0.02
+s1mpleX939: checks 
+MyTHaeBoka: checks 
+plotnser: calls $0.02
+gektor77777: calls $0.02
+Dorex2007: calls $0.01
+GianniML: checks 
+*** FLOP *** [As 4s 7h]
+Dorex2007: checks 
+GianniML: checks 
+georgebigode: checks 
+s1mpleX939: checks 
+MyTHaeBoka: checks 
+plotnser: checks 
+gektor77777: checks 
+*** TURN *** [As 4s 7h] [3c]
+Dorex2007: checks 
+GianniML: checks 
+georgebigode: checks 
+s1mpleX939: checks 
+MyTHaeBoka: checks 
+plotnser: checks 
+gektor77777: checks 
+*** RIVER *** [As 4s 7h 3c] [Qd]
+Dorex2007: checks 
+GianniML: checks 
+georgebigode: checks 
+s1mpleX939: checks 
+MyTHaeBoka: checks 
+plotnser: checks 
+gektor77777: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [6c 8c] (high card Ace)
+GianniML: shows [Ts 4d] (a pair of Fours)
+georgebigode: mucks hand 
+s1mpleX939: mucks hand 
+MyTHaeBoka: mucks hand 
+plotnser: mucks hand 
+gektor77777: mucks hand 
+GianniML collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [As 4s 7h 3c Qd]
+Seat 1: gektor77777 (button) mucked [9c 6d]
+Seat 2: Dorex2007 (small blind) showed [6c 8c] and lost with high card Ace
+Seat 3: GianniML (big blind) showed [Ts 4d] and won ($0.14) with a pair of Fours
+Seat 4: filiou10 folded before Flop (didn't bet)
+Seat 5: georgebigode mucked [Th 9h]
+Seat 6: s1mpleX939 mucked [3h 8h]
+Seat 7: MyTHaeBoka mucked [5s Td]
+Seat 9: plotnser mucked [8s 2d]
+
+
+
+PokerStars Hand #232622884622:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/28 22:32:12 PT [2021/12/29 1:32:12 ET]
+Table 'Hunan IV' 9-max Seat #2 is the button
+Seat 1: gektor77777 ($2.24 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: GianniML ($2.12 in chips) 
+Seat 4: filiou10 ($1.65 in chips) 
+Seat 5: georgebigode ($2.20 in chips) 
+Seat 6: s1mpleX939 ($0.78 in chips) 
+Seat 7: MyTHaeBoka ($2.06 in chips) 
+Seat 9: plotnser ($3.04 in chips) 
+GianniML: posts small blind $0.01
+filiou10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 5d]
+georgebigode: folds 
+s1mpleX939: calls $0.02
+MyTHaeBoka: folds 
+georgebigode leaves the table
+plotnser: raises $0.26 to $0.28
+gektor77777: folds 
+Dorex2007: folds 
+GianniML: folds 
+filiou10: folds 
+s1mpleX939: folds 
+Uncalled bet ($0.26) returned to plotnser
+plotnser collected $0.07 from pot
+plotnser: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: gektor77777 folded before Flop (didn't bet)
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: GianniML (small blind) folded before Flop
+Seat 4: filiou10 (big blind) folded before Flop
+Seat 5: georgebigode folded before Flop (didn't bet)
+Seat 6: s1mpleX939 folded before Flop
+Seat 7: MyTHaeBoka folded before Flop (didn't bet)
+Seat 9: plotnser collected ($0.07)
+
+
+
+PokerStars Hand #232622888346:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/28 22:32:39 PT [2021/12/29 1:32:39 ET]
+Table 'Hunan IV' 9-max Seat #3 is the button
+Seat 1: gektor77777 ($2.24 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: GianniML ($2.11 in chips) 
+Seat 4: filiou10 ($1.63 in chips) 
+Seat 6: s1mpleX939 ($0.76 in chips) 
+Seat 7: MyTHaeBoka ($2.06 in chips) 
+Seat 9: plotnser ($3.09 in chips) 
+filiou10: posts small blind $0.01
+s1mpleX939: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 8h]
+V_M_KZ joins the table at seat #5 
+MyTHaeBoka: folds 
+plotnser: raises $3.07 to $3.09 and is all-in
+gektor77777: folds 
+Dorex2007: folds 
+GianniML: folds 
+filiou10: folds 
+s1mpleX939: folds 
+Uncalled bet ($3.07) returned to plotnser
+plotnser collected $0.05 from pot
+plotnser: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: gektor77777 folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: GianniML (button) folded before Flop (didn't bet)
+Seat 4: filiou10 (small blind) folded before Flop
+Seat 6: s1mpleX939 (big blind) folded before Flop
+Seat 7: MyTHaeBoka folded before Flop (didn't bet)
+Seat 9: plotnser collected ($0.05)
+
+
+
+PokerStars Hand #232622891365:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/28 22:33:00 PT [2021/12/29 1:33:00 ET]
+Table 'Hunan IV' 9-max Seat #4 is the button
+Seat 1: gektor77777 ($2.24 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: GianniML ($2.11 in chips) 
+Seat 4: filiou10 ($1.62 in chips) 
+Seat 6: s1mpleX939 ($0.74 in chips) 
+Seat 7: MyTHaeBoka ($2.06 in chips) 
+Seat 9: plotnser ($3.12 in chips) 
+s1mpleX939: posts small blind $0.01
+MyTHaeBoka: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Ad]
+plotnser: raises $0.10 to $0.12
+gektor77777: folds 
+Dorex2007: folds 
+GianniML: folds 
+filiou10: calls $0.12
+s1mpleX939: folds 
+MyTHaeBoka: folds 
+*** FLOP *** [Jd 2c Qc]
+plotnser: checks 
+filiou10: bets $0.08
+plotnser: raises $0.08 to $0.16
+filiou10: calls $0.08
+*** TURN *** [Jd 2c Qc] [9d]
+plotnser: bets $0.57
+filiou10: folds 
+Uncalled bet ($0.57) returned to plotnser
+plotnser collected $0.57 from pot
+plotnser: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.02 
+Board [Jd 2c Qc 9d]
+Seat 1: gektor77777 folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: GianniML folded before Flop (didn't bet)
+Seat 4: filiou10 (button) folded on the Turn
+Seat 6: s1mpleX939 (small blind) folded before Flop
+Seat 7: MyTHaeBoka (big blind) folded before Flop
+Seat 9: plotnser collected ($0.57)
+
+
+
+PokerStars Hand #232622896947:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/28 22:33:40 PT [2021/12/29 1:33:40 ET]
+Table 'Hunan IV' 9-max Seat #6 is the button
+Seat 1: gektor77777 ($2.24 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: GianniML ($2.11 in chips) 
+Seat 4: filiou10 ($1.34 in chips) 
+Seat 5: V_M_KZ ($0.85 in chips) 
+Seat 6: s1mpleX939 ($0.73 in chips) 
+Seat 7: MyTHaeBoka ($2.04 in chips) 
+Seat 9: plotnser ($3.41 in chips) 
+MyTHaeBoka: posts small blind $0.01
+plotnser: posts big blind $0.02
+V_M_KZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 6c]
+gektor77777: folds 
+Dorex2007: folds 
+GianniML: calls $0.02
+filiou10: folds 
+V_M_KZ: raises $0.06 to $0.08
+s1mpleX939: calls $0.08
+MyTHaeBoka: folds 
+plotnser: folds 
+GianniML: calls $0.06
+*** FLOP *** [3c 6s 2h]
+plotnser leaves the table
+GianniML: checks 
+V_M_KZ: checks 
+s1mpleX939: checks 
+*** TURN *** [3c 6s 2h] [8d]
+gektor77777 leaves the table
+GianniML: checks 
+V_M_KZ: checks 
+s1mpleX939: checks 
+*** RIVER *** [3c 6s 2h 8d] [2d]
+GianniML: checks 
+V_M_KZ: bets $0.18
+s1mpleX939: folds 
+GianniML: folds 
+Uncalled bet ($0.18) returned to V_M_KZ
+V_M_KZ collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [3c 6s 2h 8d 2d]
+Seat 1: gektor77777 folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: GianniML folded on the River
+Seat 4: filiou10 folded before Flop (didn't bet)
+Seat 5: V_M_KZ collected ($0.26)
+Seat 6: s1mpleX939 (button) folded on the River
+Seat 7: MyTHaeBoka (small blind) folded before Flop
+Seat 9: plotnser (big blind) folded before Flop
+
+
+
+PokerStars Hand #232622904329:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/28 22:34:32 PT [2021/12/29 1:34:32 ET]
+Table 'Hunan IV' 9-max Seat #7 is the button
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: GianniML ($2.03 in chips) 
+Seat 4: filiou10 ($1.34 in chips) 
+Seat 5: V_M_KZ ($1.03 in chips) 
+Seat 6: s1mpleX939 ($0.65 in chips) 
+Seat 7: MyTHaeBoka ($2.03 in chips) 
+Dorex2007: posts small blind $0.01
+GianniML: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Ks]
+filiou10: calls $0.02
+V_M_KZ: folds 
+s1mpleX939: folds 
+MyTHaeBoka: raises $0.04 to $0.06
+Dorex2007: folds 
+GianniML: folds 
+filiou10: calls $0.04
+*** FLOP *** [3s Ad 5d]
+filiou10: checks 
+MyTHaeBoka: bets $0.07
+filiou10: calls $0.07
+*** TURN *** [3s Ad 5d] [4s]
+filiou10: checks 
+MyTHaeBoka: checks 
+*** RIVER *** [3s Ad 5d 4s] [4h]
+filiou10: bets $0.12
+MyTHaeBoka: folds 
+Uncalled bet ($0.12) returned to filiou10
+filiou10 collected $0.28 from pot
+filiou10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [3s Ad 5d 4s 4h]
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 3: GianniML (big blind) folded before Flop
+Seat 4: filiou10 collected ($0.28)
+Seat 5: V_M_KZ folded before Flop (didn't bet)
+Seat 6: s1mpleX939 folded before Flop (didn't bet)
+Seat 7: MyTHaeBoka (button) folded on the River
+
+
+
+PokerStars Hand #232622912231:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/28 22:35:26 PT [2021/12/29 1:35:26 ET]
+Table 'Hunan IV' 9-max Seat #2 is the button
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: GianniML ($2.01 in chips) 
+Seat 4: filiou10 ($1.49 in chips) 
+Seat 5: V_M_KZ ($1.03 in chips) 
+Seat 6: s1mpleX939 ($0.65 in chips) 
+Seat 7: MyTHaeBoka ($1.90 in chips) 
+GianniML: posts small blind $0.01
+filiou10: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Th]
+V_M_KZ: folds 
+s1mpleX939: folds 
+MyTHaeBoka: folds 
+Dorex2007: raises $0.02 to $0.04
+MyTHaeBoka leaves the table
+GianniML: folds 
+filiou10: calls $0.02
+*** FLOP *** [2d Qh 6d]
+filiou10: checks 
+Dorex2007: bets $0.05
+KABEEK leaves the table
+filiou10: folds 
+Uncalled bet ($0.05) returned to Dorex2007
+Dorex2007 collected $0.09 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [2d Qh 6d]
+Seat 2: Dorex2007 (button) collected ($0.09)
+Seat 3: GianniML (small blind) folded before Flop
+Seat 4: filiou10 (big blind) folded on the Flop
+Seat 5: V_M_KZ folded before Flop (didn't bet)
+Seat 6: s1mpleX939 folded before Flop (didn't bet)
+Seat 7: MyTHaeBoka folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232622917840:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/28 22:36:06 PT [2021/12/29 1:36:06 ET]
+Table 'Hunan IV' 9-max Seat #3 is the button
+Seat 2: Dorex2007 ($2.05 in chips) 
+Seat 3: GianniML ($2 in chips) 
+Seat 4: filiou10 ($1.45 in chips) 
+Seat 5: V_M_KZ ($1.03 in chips) 
+Seat 6: s1mpleX939 ($0.65 in chips) 
+filiou10: posts small blind $0.01
+V_M_KZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Ks]
+s1mpleX939: calls $0.02
+Dorex2007: folds 
+GianniML: folds 
+filiou10: calls $0.01
+V_M_KZ: checks 
+*** FLOP *** [2c Jh 7h]
+filiou10: checks 
+V_M_KZ: checks 
+s1mpleX939: checks 
+*** TURN *** [2c Jh 7h] [Jc]
+filiou10: checks 
+V_M_KZ: checks 
+s1mpleX939: checks 
+*** RIVER *** [2c Jh 7h Jc] [2d]
+stax77 joins the table at seat #7 
+filiou10: bets $0.06
+V_M_KZ: folds 
+s1mpleX939: folds 
+Uncalled bet ($0.06) returned to filiou10
+filiou10 collected $0.06 from pot
+filiou10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [2c Jh 7h Jc 2d]
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: GianniML (button) folded before Flop (didn't bet)
+Seat 4: filiou10 (small blind) collected ($0.06)
+Seat 5: V_M_KZ (big blind) folded on the River
+Seat 6: s1mpleX939 folded on the River
+
+
+
+PokerStars Hand #232622931230:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/28 22:36:47 PT [2021/12/29 1:36:47 ET]
+Table 'Hunan IV' 9-max Seat #4 is the button
+Seat 2: Dorex2007 ($2.05 in chips) 
+Seat 3: GianniML ($2 in chips) 
+Seat 4: filiou10 ($1.49 in chips) 
+Seat 5: V_M_KZ ($1.01 in chips) 
+Seat 6: s1mpleX939 ($0.63 in chips) 
+V_M_KZ: posts small blind $0.01
+s1mpleX939: posts big blind $0.02
+stax77: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 8c]
+Dorex2007: folds 
+GianniML: raises $0.04 to $0.06
+filiou10: folds 
+V_M_KZ: folds 
+Kela1373 joins the table at seat #1 
+s1mpleX939: calls $0.04
+*** FLOP *** [9s 3s 4c]
+s1mpleX939: checks 
+GianniML: checks 
+*** TURN *** [9s 3s 4c] [Kd]
+s1mpleX939: checks 
+GianniML: bets $0.07
+s1mpleX939: folds 
+Uncalled bet ($0.07) returned to GianniML
+GianniML collected $0.13 from pot
+GianniML: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9s 3s 4c Kd]
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: GianniML collected ($0.13)
+Seat 4: filiou10 (button) folded before Flop (didn't bet)
+Seat 5: V_M_KZ (small blind) folded before Flop
+Seat 6: s1mpleX939 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #232622935906:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/28 22:37:20 PT [2021/12/29 1:37:20 ET]
+Table 'Hunan IV' 9-max Seat #5 is the button
+Seat 2: Dorex2007 ($2.05 in chips) 
+Seat 3: GianniML ($2.07 in chips) 
+Seat 4: filiou10 ($1.49 in chips) 
+Seat 5: V_M_KZ ($1 in chips) 
+Seat 6: s1mpleX939 ($0.57 in chips) 
+Seat 7: stax77 ($2 in chips) 
+s1mpleX939: posts small blind $0.01
+stax77: posts big blind $0.02
+Kela1373: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 3c]
+Dorex2007: folds 
+GianniML: folds 
+filiou10: calls $0.02
+V_M_KZ: raises $0.06 to $0.08
+CEOSpoker joins the table at seat #8 
+s1mpleX939: folds 
+stax77: calls $0.06
+filiou10: calls $0.06
+*** FLOP *** [Ac 2s 5h]
+stax77: checks 
+filiou10: checks 
+V_M_KZ: bets $0.08
+stax77: folds 
+filiou10: calls $0.08
+*** TURN *** [Ac 2s 5h] [6h]
+filiou10: checks 
+V_M_KZ: checks 
+*** RIVER *** [Ac 2s 5h 6h] [2d]
+SerjiB21 joins the table at seat #9 
+filiou10: bets $0.08
+V_M_KZ: folds 
+Uncalled bet ($0.08) returned to filiou10
+filiou10 collected $0.40 from pot
+filiou10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Ac 2s 5h 6h 2d]
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: GianniML folded before Flop (didn't bet)
+Seat 4: filiou10 collected ($0.40)
+Seat 5: V_M_KZ (button) folded on the River
+Seat 6: s1mpleX939 (small blind) folded before Flop
+Seat 7: stax77 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232622942738:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/28 22:38:09 PT [2021/12/29 1:38:09 ET]
+Table 'Hunan IV' 9-max Seat #6 is the button
+Seat 2: Dorex2007 ($2.05 in chips) 
+Seat 3: GianniML ($2.07 in chips) 
+Seat 4: filiou10 ($1.73 in chips) 
+Seat 5: V_M_KZ ($0.84 in chips) 
+Seat 6: s1mpleX939 ($0.56 in chips) 
+Seat 7: stax77 ($1.92 in chips) 
+Seat 8: CEOSpoker ($2 in chips) 
+stax77: posts small blind $0.01
+CEOSpoker: posts big blind $0.02
+SerjiB21: sits out 
+Kela1373: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Tc]
+Dorex2007: raises $0.02 to $0.04
+GianniML: folds 
+filiou10: calls $0.04
+V_M_KZ: calls $0.04
+s1mpleX939: folds 
+stax77: calls $0.03
+CEOSpoker: calls $0.02
+*** FLOP *** [9d Th Td]
+stax77: checks 
+CEOSpoker: bets $0.14
+Dorex2007: calls $0.14
+filiou10: folds 
+V_M_KZ: calls $0.14
+stax77: folds 
+*** TURN *** [9d Th Td] [Ts]
+CEOSpoker: bets $0.30
+Dorex2007: calls $0.30
+V_M_KZ: folds 
+*** RIVER *** [9d Th Td Ts] [8s]
+CEOSpoker: checks 
+Dorex2007: bets $0.59
+CEOSpoker: calls $0.59
+*** SHOW DOWN ***
+Dorex2007: shows [Ah Tc] (four of a kind, Tens)
+CEOSpoker: mucks hand 
+Dorex2007 collected $2.32 from pot
+*** SUMMARY ***
+Total pot $2.40 | Rake $0.08 
+Board [9d Th Td Ts 8s]
+Seat 2: Dorex2007 showed [Ah Tc] and won ($2.32) with four of a kind, Tens
+Seat 3: GianniML folded before Flop (didn't bet)
+Seat 4: filiou10 folded on the Flop
+Seat 5: V_M_KZ folded on the Turn
+Seat 6: s1mpleX939 (button) folded before Flop (didn't bet)
+Seat 7: stax77 (small blind) folded on the Flop
+Seat 8: CEOSpoker (big blind) mucked [9h 5c]
+
+
+

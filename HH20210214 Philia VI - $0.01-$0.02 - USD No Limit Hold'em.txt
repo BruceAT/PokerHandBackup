@@ -1,0 +1,98 @@
+﻿PokerStars Hand #223809361529:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/14 9:53:18 PT [2021/02/14 12:53:18 ET]
+Table 'Philia VI' 9-max Seat #2 is the button
+Seat 1: ciganduty ($2.09 in chips) 
+Seat 2: Valeo111747 ($2.29 in chips) 
+Seat 3: TomasSans ($1.01 in chips) 
+Seat 4: Dorex2007 ($1.50 in chips) 
+Seat 6: igor simonchuk ($0.80 in chips) 
+Seat 8: Ehri2k ($1.28 in chips) 
+Seat 9: CamilaFrias ($2.17 in chips) 
+TomasSans: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+poshwise: sits out 
+MPut8: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 2d]
+igor simonchuk: calls $0.02
+Ehri2k: folds 
+CamilaFrias: folds 
+ciganduty has timed out
+ciganduty: folds 
+Valeo111747: folds 
+TomasSans: folds 
+Dorex2007: checks 
+*** FLOP *** [6c 8c 7h]
+Dorex2007: checks 
+igor simonchuk: checks 
+*** TURN *** [6c 8c 7h] [Kh]
+Dorex2007: checks 
+igor simonchuk: bets $0.02
+Dorex2007: calls $0.02
+*** RIVER *** [6c 8c 7h Kh] [4d]
+Dorex2007: checks 
+igor simonchuk: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [9c 2d] (high card King)
+igor simonchuk: shows [Th Js] (high card King - Jack kicker)
+igor simonchuk collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [6c 8c 7h Kh 4d]
+Seat 1: ciganduty folded before Flop (didn't bet)
+Seat 2: Valeo111747 (button) folded before Flop (didn't bet)
+Seat 3: TomasSans (small blind) folded before Flop
+Seat 4: Dorex2007 (big blind) showed [9c 2d] and lost with high card King
+Seat 6: igor simonchuk showed [Th Js] and won ($0.09) with high card King
+Seat 8: Ehri2k folded before Flop (didn't bet)
+Seat 9: CamilaFrias folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #223809394493:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/14 9:54:02 PT [2021/02/14 12:54:02 ET]
+Table 'Philia VI' 9-max Seat #3 is the button
+Seat 1: ciganduty ($2.09 in chips) 
+Seat 2: Valeo111747 ($2.29 in chips) 
+Seat 3: TomasSans ($1 in chips) 
+Seat 4: Dorex2007 ($1.46 in chips) 
+Seat 5: poshwise ($2 in chips) 
+Seat 6: igor simonchuk ($0.85 in chips) 
+Seat 8: Ehri2k ($1.28 in chips) 
+Seat 9: CamilaFrias ($2.17 in chips) 
+Dorex2007: posts small blind $0.01
+poshwise: posts big blind $0.02
+MPut8: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad Th]
+igor simonchuk: folds 
+Ehri2k: folds 
+CamilaFrias: raises $0.04 to $0.06
+ciganduty: folds 
+Valeo111747: folds 
+TomasSans: folds 
+Dorex2007: calls $0.05
+poshwise: calls $0.04
+*** FLOP *** [Qs 4c 5h]
+Dorex2007: bets $0.09
+poshwise: folds 
+CamilaFrias: calls $0.09
+*** TURN *** [Qs 4c 5h] [3d]
+Dorex2007: checks 
+CamilaFrias: bets $0.18
+Dorex2007: folds 
+Uncalled bet ($0.18) returned to CamilaFrias
+CamilaFrias collected $0.35 from pot
+CamilaFrias: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Qs 4c 5h 3d]
+Seat 1: ciganduty folded before Flop (didn't bet)
+Seat 2: Valeo111747 folded before Flop (didn't bet)
+Seat 3: TomasSans (button) folded before Flop (didn't bet)
+Seat 4: Dorex2007 (small blind) folded on the Turn
+Seat 5: poshwise (big blind) folded on the Flop
+Seat 6: igor simonchuk folded before Flop (didn't bet)
+Seat 8: Ehri2k folded before Flop (didn't bet)
+Seat 9: CamilaFrias collected ($0.35)
+
+
+

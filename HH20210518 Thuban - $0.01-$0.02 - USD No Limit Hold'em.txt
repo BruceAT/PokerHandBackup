@@ -1,0 +1,2222 @@
+﻿PokerStars Hand #226856112865:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/17 23:44:04 PT [2021/05/18 2:44:04 ET]
+Table 'Thuban' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: galexeye ($0.78 in chips) 
+Seat 5: gocvg ($3.82 in chips) 
+Seat 6: iQdo ($1.19 in chips) 
+Seat 7: Mackail ($1.88 in chips) 
+Seat 8: Fedya465 ($1.87 in chips) 
+galexeye: posts small blind $0.01
+Kupec Danila: is sitting out 
+gocvg: posts big blind $0.02
+Fedya465: posts small & big blinds $0.03
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 3h]
+iQdo: raises $0.04 to $0.06
+stewart00000 joins the table at seat #9 
+Mackail: calls $0.06
+Fedya465: folds 
+Dorex2007: folds 
+vasmit: folds 
+galexeye: folds 
+gocvg: folds 
+*** FLOP *** [Ks Kd 4s]
+iQdo: checks 
+Mackail: bets $0.02
+iQdo: calls $0.02
+*** TURN *** [Ks Kd 4s] [Qh]
+iQdo: checks 
+Mackail: bets $0.10
+iQdo: calls $0.10
+*** RIVER *** [Ks Kd 4s Qh] [2c]
+iQdo: checks 
+Mackail: checks 
+*** SHOW DOWN ***
+iQdo: shows [9s 9d] (two pair, Kings and Nines)
+Mackail: mucks hand 
+iQdo collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [Ks Kd 4s Qh 2c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: vasmit (button) folded before Flop (didn't bet)
+Seat 3: galexeye (small blind) folded before Flop
+Seat 5: gocvg (big blind) folded before Flop
+Seat 6: iQdo showed [9s 9d] and won ($0.42) with two pair, Kings and Nines
+Seat 7: Mackail mucked [7c 6c]
+Seat 8: Fedya465 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856123221:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/17 23:45:17 PT [2021/05/18 2:45:17 ET]
+Table 'Thuban' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($1.98 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: galexeye ($0.77 in chips) 
+Seat 5: gocvg ($3.80 in chips) 
+Seat 6: iQdo ($1.43 in chips) 
+Seat 7: Mackail ($1.70 in chips) 
+Seat 8: Fedya465 ($1.84 in chips) 
+Seat 9: stewart00000 ($0.80 in chips) 
+gocvg: posts small blind $0.01
+iQdo: posts big blind $0.02
+stewart00000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 8c]
+Mackail: folds 
+Fedya465: calls $0.02
+stewart00000: checks 
+Dorex2007: folds 
+vasmit: folds 
+galexeye: folds 
+gocvg: calls $0.01
+iQdo: checks 
+*** FLOP *** [Jh Qh Jc]
+gocvg: checks 
+iQdo: checks 
+Fedya465: checks 
+stewart00000: checks 
+*** TURN *** [Jh Qh Jc] [8s]
+gocvg: checks 
+iQdo: checks 
+Fedya465: bets $0.08
+stewart00000: folds 
+gocvg: calls $0.08
+iQdo: folds 
+*** RIVER *** [Jh Qh Jc 8s] [3d]
+gocvg: checks 
+Fedya465: bets $0.06
+gocvg: folds 
+Uncalled bet ($0.06) returned to Fedya465
+Fedya465 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Jh Qh Jc 8s 3d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: vasmit folded before Flop (didn't bet)
+Seat 3: galexeye (button) folded before Flop (didn't bet)
+Seat 5: gocvg (small blind) folded on the River
+Seat 6: iQdo (big blind) folded on the Turn
+Seat 7: Mackail folded before Flop (didn't bet)
+Seat 8: Fedya465 collected ($0.23)
+Seat 9: stewart00000 folded on the Turn (didn't bet)
+
+
+
+PokerStars Hand #226856135119:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/17 23:46:40 PT [2021/05/18 2:46:40 ET]
+Table 'Thuban' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($1.98 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: galexeye ($0.77 in chips) 
+Seat 5: gocvg ($3.70 in chips) 
+Seat 6: iQdo ($1.41 in chips) 
+Seat 7: Mackail ($1.70 in chips) 
+Seat 8: Fedya465 ($1.97 in chips) 
+Seat 9: stewart00000 ($0.78 in chips) 
+iQdo: posts small blind $0.01
+Mackail: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 6h]
+Fedya465: folds 
+stewart00000: folds 
+Dorex2007: folds 
+vasmit: calls $0.02
+galexeye: calls $0.02
+gocvg: calls $0.02
+iQdo: calls $0.01
+Mackail: checks 
+*** FLOP *** [5h Ks 3c]
+iQdo: checks 
+Mackail: checks 
+vasmit: checks 
+galexeye: bets $0.02
+gocvg: folds 
+iQdo: calls $0.02
+Mackail: folds 
+vasmit: folds 
+*** TURN *** [5h Ks 3c] [Kh]
+iQdo: checks 
+galexeye: checks 
+*** RIVER *** [5h Ks 3c Kh] [8c]
+iQdo: bets $0.02
+galexeye: calls $0.02
+*** SHOW DOWN ***
+iQdo: shows [5s 7h] (two pair, Kings and Fives)
+galexeye: shows [Qd Qc] (two pair, Kings and Queens)
+galexeye collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [5h Ks 3c Kh 8c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: vasmit folded on the Flop
+Seat 3: galexeye showed [Qd Qc] and won ($0.17) with two pair, Kings and Queens
+Seat 5: gocvg (button) folded on the Flop
+Seat 6: iQdo (small blind) showed [5s 7h] and lost with two pair, Kings and Fives
+Seat 7: Mackail (big blind) folded on the Flop
+Seat 8: Fedya465 folded before Flop (didn't bet)
+Seat 9: stewart00000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856144162:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/17 23:47:43 PT [2021/05/18 2:47:43 ET]
+Table 'Thuban' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($1.98 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: galexeye ($0.88 in chips) 
+Seat 5: gocvg ($3.68 in chips) 
+Seat 6: iQdo ($1.35 in chips) 
+Seat 7: Mackail ($1.68 in chips) 
+Seat 8: Fedya465 ($1.97 in chips) 
+Seat 9: stewart00000 ($0.78 in chips) 
+Mackail: posts small blind $0.01
+Fedya465: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad As]
+stewart00000: folds 
+Dorex2007: raises $0.04 to $0.06
+vasmit: folds 
+galexeye: folds 
+gocvg: calls $0.06
+iQdo: folds 
+Mackail: folds 
+Fedya465: folds 
+*** FLOP *** [7s 8s Qs]
+Dorex2007: checks 
+gocvg: bets $0.07
+Dorex2007: calls $0.07
+*** TURN *** [7s 8s Qs] [Ks]
+Dorex2007: checks 
+gocvg: checks 
+*** RIVER *** [7s 8s Qs Ks] [Kh]
+Dorex2007: bets $0.14
+gocvg: calls $0.14
+*** SHOW DOWN ***
+Dorex2007: shows [Ad As] (a flush, Ace high)
+gocvg: mucks hand 
+Dorex2007 collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [7s 8s Qs Ks Kh]
+Seat 1: Dorex2007 showed [Ad As] and won ($0.55) with a flush, Ace high
+Seat 2: vasmit folded before Flop (didn't bet)
+Seat 3: galexeye folded before Flop (didn't bet)
+Seat 5: gocvg mucked [Jh Ts]
+Seat 6: iQdo (button) folded before Flop (didn't bet)
+Seat 7: Mackail (small blind) folded before Flop
+Seat 8: Fedya465 (big blind) folded before Flop
+Seat 9: stewart00000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856152772:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/17 23:48:42 PT [2021/05/18 2:48:42 ET]
+Table 'Thuban' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2.26 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: galexeye ($0.88 in chips) 
+Seat 5: gocvg ($3.41 in chips) 
+Seat 6: iQdo ($1.35 in chips) 
+Seat 7: Mackail ($1.67 in chips) 
+Seat 8: Fedya465 ($1.95 in chips) 
+Seat 9: stewart00000 ($0.78 in chips) 
+Fedya465: posts small blind $0.01
+stewart00000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 3s]
+Dorex2007: folds 
+vasmit: folds 
+galexeye: calls $0.02
+gocvg: calls $0.02
+iQdo: folds 
+Mackail: calls $0.02
+Fedya465: calls $0.01
+stewart00000: checks 
+*** FLOP *** [Jc 2h Tc]
+Fedya465: checks 
+stewart00000: bets $0.02
+galexeye: calls $0.02
+gocvg: calls $0.02
+Mackail: folds 
+Fedya465: calls $0.02
+*** TURN *** [Jc 2h Tc] [3c]
+Fedya465: bets $0.06
+stewart00000: calls $0.06
+galexeye: folds 
+gocvg: calls $0.06
+*** RIVER *** [Jc 2h Tc 3c] [5s]
+Fedya465: bets $0.08
+stewart00000: folds 
+gocvg: calls $0.08
+*** SHOW DOWN ***
+Fedya465: shows [6c Ac] (a flush, Ace high)
+gocvg: mucks hand 
+Fedya465 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [Jc 2h Tc 3c 5s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: vasmit folded before Flop (didn't bet)
+Seat 3: galexeye folded on the Turn
+Seat 5: gocvg mucked [Qd Ts]
+Seat 6: iQdo folded before Flop (didn't bet)
+Seat 7: Mackail (button) folded on the Flop
+Seat 8: Fedya465 (small blind) showed [6c Ac] and won ($0.50) with a flush, Ace high
+Seat 9: stewart00000 (big blind) folded on the River
+
+
+
+PokerStars Hand #226856165539:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/17 23:50:12 PT [2021/05/18 2:50:12 ET]
+Table 'Thuban' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2.26 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: galexeye ($0.84 in chips) 
+Seat 5: gocvg ($3.23 in chips) 
+Seat 6: iQdo ($1.35 in chips) 
+Seat 7: Mackail ($1.65 in chips) 
+Seat 8: Fedya465 ($2.27 in chips) 
+Seat 9: stewart00000 ($0.68 in chips) 
+stewart00000: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Qc]
+vasmit: folds 
+galexeye: folds 
+gocvg: folds 
+iQdo: raises $0.02 to $0.04
+Mackail: folds 
+Fedya465: folds 
+stewart00000: folds 
+Dorex2007: folds 
+Uncalled bet ($0.02) returned to iQdo
+iQdo collected $0.05 from pot
+iQdo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: vasmit folded before Flop (didn't bet)
+Seat 3: galexeye folded before Flop (didn't bet)
+Seat 5: gocvg folded before Flop (didn't bet)
+Seat 6: iQdo collected ($0.05)
+Seat 7: Mackail folded before Flop (didn't bet)
+Seat 8: Fedya465 (button) folded before Flop (didn't bet)
+Seat 9: stewart00000 (small blind) folded before Flop
+
+
+
+PokerStars Hand #226856168558:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/17 23:50:33 PT [2021/05/18 2:50:33 ET]
+Table 'Thuban' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2.24 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: galexeye ($0.84 in chips) 
+Seat 5: gocvg ($3.23 in chips) 
+Seat 6: iQdo ($1.38 in chips) 
+Seat 7: Mackail ($1.65 in chips) 
+Seat 8: Fedya465 ($2.27 in chips) 
+Seat 9: stewart00000 ($0.67 in chips) 
+Dorex2007: posts small blind $0.01
+vasmit: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 8d]
+galexeye: folds 
+gocvg: folds 
+iQdo: folds 
+Mackail: raises $0.06 to $0.08
+Fedya465: folds 
+stewart00000: folds 
+Dorex2007: folds 
+vasmit: folds 
+Uncalled bet ($0.06) returned to Mackail
+Mackail collected $0.05 from pot
+Mackail: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: vasmit (big blind) folded before Flop
+Seat 3: galexeye folded before Flop (didn't bet)
+Seat 5: gocvg folded before Flop (didn't bet)
+Seat 6: iQdo folded before Flop (didn't bet)
+Seat 7: Mackail collected ($0.05)
+Seat 8: Fedya465 folded before Flop (didn't bet)
+Seat 9: stewart00000 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856172324:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/17 23:50:59 PT [2021/05/18 2:50:59 ET]
+Table 'Thuban' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2.23 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: galexeye ($0.84 in chips) 
+Seat 5: gocvg ($3.23 in chips) 
+Seat 6: iQdo ($1.38 in chips) 
+Seat 7: Mackail ($1.68 in chips) 
+Seat 8: Fedya465 ($2.27 in chips) 
+Seat 9: stewart00000 ($0.67 in chips) 
+vasmit: posts small blind $0.01
+galexeye: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 4h]
+gocvg: folds 
+iQdo: raises $0.04 to $0.06
+Mackail: folds 
+Fedya465: folds 
+Fedya465 leaves the table
+stewart00000: folds 
+Dorex2007: folds 
+vasmit: folds 
+galexeye: folds 
+Uncalled bet ($0.04) returned to iQdo
+iQdo collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: vasmit (small blind) folded before Flop
+Seat 3: galexeye (big blind) folded before Flop
+Seat 5: gocvg folded before Flop (didn't bet)
+Seat 6: iQdo collected ($0.05)
+Seat 7: Mackail folded before Flop (didn't bet)
+Seat 8: Fedya465 folded before Flop (didn't bet)
+Seat 9: stewart00000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856174069:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/17 23:51:11 PT [2021/05/18 2:51:11 ET]
+Table 'Thuban' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2.23 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: galexeye ($0.82 in chips) 
+Seat 5: gocvg ($3.23 in chips) 
+Seat 6: iQdo ($1.41 in chips) 
+Seat 7: Mackail ($1.68 in chips) 
+Seat 9: stewart00000 ($0.67 in chips) 
+galexeye: posts small blind $0.01
+gocvg: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 9s]
+iQdo: folds 
+Mackail: calls $0.02
+stewart00000: folds 
+Dorex2007: folds 
+vasmit: folds 
+galexeye: folds 
+gocvg: checks 
+*** FLOP *** [Jh 8d 9h]
+gocvg: checks 
+Mackail: checks 
+*** TURN *** [Jh 8d 9h] [7c]
+gocvg: checks 
+Mackail: checks 
+*** RIVER *** [Jh 8d 9h 7c] [Qc]
+gocvg: checks 
+Mackail: checks 
+*** SHOW DOWN ***
+gocvg: shows [9c 2s] (a pair of Nines)
+Mackail: mucks hand 
+gocvg collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jh 8d 9h 7c Qc]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: vasmit (button) folded before Flop (didn't bet)
+Seat 3: galexeye (small blind) folded before Flop
+Seat 5: gocvg (big blind) showed [9c 2s] and won ($0.05) with a pair of Nines
+Seat 6: iQdo folded before Flop (didn't bet)
+Seat 7: Mackail mucked [8c Ad]
+Seat 9: stewart00000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856179944:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/17 23:51:52 PT [2021/05/18 2:51:52 ET]
+Table 'Thuban' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2.23 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: galexeye ($0.81 in chips) 
+Seat 5: gocvg ($3.26 in chips) 
+Seat 6: iQdo ($1.41 in chips) 
+Seat 7: Mackail ($1.66 in chips) 
+Seat 9: stewart00000 ($0.67 in chips) 
+gocvg: posts small blind $0.01
+iQdo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 6s]
+Mackail: folds 
+stewart00000 has timed out
+stewart00000: folds 
+Dorex2007: folds 
+vasmit: folds 
+galexeye: folds 
+gocvg: raises $0.02 to $0.04
+marionkat joins the table at seat #8 
+iQdo: calls $0.02
+*** FLOP *** [Jc 4h 9c]
+gocvg: bets $0.04
+iQdo: calls $0.04
+*** TURN *** [Jc 4h 9c] [7c]
+gocvg: checks 
+iQdo: bets $0.07
+gocvg: folds 
+Uncalled bet ($0.07) returned to iQdo
+iQdo collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Jc 4h 9c 7c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: vasmit folded before Flop (didn't bet)
+Seat 3: galexeye (button) folded before Flop (didn't bet)
+Seat 5: gocvg (small blind) folded on the Turn
+Seat 6: iQdo (big blind) collected ($0.15)
+Seat 7: Mackail folded before Flop (didn't bet)
+Seat 9: stewart00000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856192865:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/17 23:53:23 PT [2021/05/18 2:53:23 ET]
+Table 'Thuban' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2.23 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: galexeye ($0.81 in chips) 
+Seat 5: gocvg ($3.18 in chips) 
+Seat 6: iQdo ($1.48 in chips) 
+Seat 7: Mackail ($1.66 in chips) 
+Seat 8: marionkat ($2 in chips) 
+Seat 9: stewart00000 ($0.67 in chips) 
+iQdo: posts small blind $0.01
+Mackail: posts big blind $0.02
+marionkat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 5s]
+marionkat: checks 
+stewart00000: folds 
+Dorex2007: folds 
+vasmit: folds 
+galexeye: calls $0.02
+gocvg: calls $0.02
+iQdo: calls $0.01
+Mackail: checks 
+*** FLOP *** [8s 9d Qh]
+iQdo: checks 
+Mackail: checks 
+marionkat: bets $0.02
+galexeye: folds 
+gocvg: calls $0.02
+iQdo: folds 
+Mackail: folds 
+*** TURN *** [8s 9d Qh] [Ts]
+marionkat: bets $0.02
+galexeye leaves the table
+gocvg: calls $0.02
+*** RIVER *** [8s 9d Qh Ts] [6h]
+marionkat: bets $0.02
+Hannelore900 joins the table at seat #3 
+gocvg: raises $0.08 to $0.10
+marionkat: folds 
+Uncalled bet ($0.08) returned to gocvg
+gocvg collected $0.21 from pot
+gocvg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [8s 9d Qh Ts 6h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: vasmit folded before Flop (didn't bet)
+Seat 3: galexeye folded on the Flop
+Seat 5: gocvg (button) collected ($0.21)
+Seat 6: iQdo (small blind) folded on the Flop
+Seat 7: Mackail (big blind) folded on the Flop
+Seat 8: marionkat folded on the River
+Seat 9: stewart00000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856202668:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/17 23:54:30 PT [2021/05/18 2:54:30 ET]
+Table 'Thuban' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($2.23 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 5: gocvg ($3.31 in chips) 
+Seat 6: iQdo ($1.46 in chips) 
+Seat 7: Mackail ($1.64 in chips) 
+Seat 8: marionkat ($1.92 in chips) 
+Seat 9: stewart00000 ($0.67 in chips) 
+Mackail: posts small blind $0.01
+marionkat: posts big blind $0.02
+Hannelore900: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Kh]
+stewart00000: folds 
+Dorex2007: folds 
+vasmit: folds 
+gocvg: folds 
+iQdo: folds 
+Mackail: calls $0.01
+marionkat: checks 
+*** FLOP *** [Tc 2s 9d]
+Mackail: checks 
+marionkat: bets $0.02
+Mackail: folds 
+Uncalled bet ($0.02) returned to marionkat
+marionkat collected $0.04 from pot
+marionkat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Tc 2s 9d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: vasmit folded before Flop (didn't bet)
+Seat 5: gocvg folded before Flop (didn't bet)
+Seat 6: iQdo (button) folded before Flop (didn't bet)
+Seat 7: Mackail (small blind) folded on the Flop
+Seat 8: marionkat (big blind) collected ($0.04)
+Seat 9: stewart00000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856205994:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/17 23:54:53 PT [2021/05/18 2:54:53 ET]
+Table 'Thuban' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2.23 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: Hannelore900 ($1.60 in chips) 
+Seat 5: gocvg ($3.31 in chips) 
+Seat 6: iQdo ($1.46 in chips) 
+Seat 7: Mackail ($1.62 in chips) 
+Seat 8: marionkat ($1.94 in chips) 
+Seat 9: stewart00000 ($0.67 in chips) 
+marionkat: posts small blind $0.01
+stewart00000: posts big blind $0.02
+Hannelore900: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Jc]
+Dorex2007: folds 
+vasmit: calls $0.02
+Hannelore900: checks 
+gocvg: calls $0.02
+iQdo: calls $0.02
+Mackail: folds 
+marionkat: calls $0.01
+stewart00000: checks 
+*** FLOP *** [2s 2d Tc]
+marionkat: checks 
+stewart00000: checks 
+vasmit: checks 
+Hannelore900: checks 
+gocvg: checks 
+iQdo: bets $0.06
+marionkat: folds 
+stewart00000: folds 
+vasmit: folds 
+Hannelore900: folds 
+gocvg: folds 
+Uncalled bet ($0.06) returned to iQdo
+iQdo collected $0.12 from pot
+iQdo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [2s 2d Tc]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: vasmit folded on the Flop
+Seat 3: Hannelore900 folded on the Flop (didn't bet)
+Seat 5: gocvg folded on the Flop
+Seat 6: iQdo collected ($0.12)
+Seat 7: Mackail (button) folded before Flop (didn't bet)
+Seat 8: marionkat (small blind) folded on the Flop
+Seat 9: stewart00000 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #226856214188:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/17 23:55:54 PT [2021/05/18 2:55:54 ET]
+Table 'Thuban' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2.23 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: Hannelore900 ($1.58 in chips) 
+Seat 5: gocvg ($3.29 in chips) 
+Seat 6: iQdo ($1.56 in chips) 
+Seat 7: Mackail ($1.62 in chips) 
+Seat 8: marionkat ($1.92 in chips) 
+Seat 9: stewart00000 ($0.65 in chips) 
+stewart00000: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 4d]
+vasmit: folds 
+Hannelore900: folds 
+gocvg: folds 
+iQdo: folds 
+Mackail: folds 
+marionkat: folds 
+stewart00000: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 (big blind) collected ($0.02)
+Seat 2: vasmit folded before Flop (didn't bet)
+Seat 3: Hannelore900 folded before Flop (didn't bet)
+Seat 5: gocvg folded before Flop (didn't bet)
+Seat 6: iQdo folded before Flop (didn't bet)
+Seat 7: Mackail folded before Flop (didn't bet)
+Seat 8: marionkat (button) folded before Flop (didn't bet)
+Seat 9: stewart00000 (small blind) folded before Flop
+
+
+
+PokerStars Hand #226856215721:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/17 23:56:06 PT [2021/05/18 2:56:06 ET]
+Table 'Thuban' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2.24 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: Hannelore900 ($1.58 in chips) 
+Seat 5: gocvg ($3.29 in chips) 
+Seat 6: iQdo ($1.56 in chips) 
+Seat 7: Mackail ($1.62 in chips) 
+Seat 8: marionkat ($1.92 in chips) 
+Seat 9: stewart00000 ($0.64 in chips) 
+Dorex2007: posts small blind $0.01
+vasmit: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 3s]
+Hannelore900: folds 
+gocvg: calls $0.02
+iQdo: raises $0.04 to $0.06
+Mackail: calls $0.06
+marionkat: calls $0.06
+stewart00000: folds 
+Dorex2007: folds 
+vasmit: folds 
+gocvg: calls $0.04
+*** FLOP *** [9s Qc Kc]
+gocvg: checks 
+iQdo: bets $0.13
+Mackail: folds 
+marionkat: raises $0.13 to $0.26
+gocvg: calls $0.26
+iQdo: calls $0.13
+*** TURN *** [9s Qc Kc] [Qd]
+gocvg: checks 
+iQdo: checks 
+marionkat: bets $0.12
+gocvg: calls $0.12
+iQdo: calls $0.12
+*** RIVER *** [9s Qc Kc Qd] [8h]
+gocvg: checks 
+iQdo: checks 
+marionkat: bets $0.32
+gocvg: folds 
+iQdo: calls $0.32
+*** SHOW DOWN ***
+marionkat: shows [Ts Js] (a straight, Nine to King)
+iQdo: mucks hand 
+marionkat collected $1.98 from pot
+*** SUMMARY ***
+Total pot $2.05 | Rake $0.07 
+Board [9s Qc Kc Qd 8h]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: vasmit (big blind) folded before Flop
+Seat 3: Hannelore900 folded before Flop (didn't bet)
+Seat 5: gocvg folded on the River
+Seat 6: iQdo mucked [Ah Kh]
+Seat 7: Mackail folded on the Flop
+Seat 8: marionkat showed [Ts Js] and won ($1.98) with a straight, Nine to King
+Seat 9: stewart00000 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856225515:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/17 23:57:23 PT [2021/05/18 2:57:23 ET]
+Table 'Thuban' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2.23 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: Hannelore900 ($1.58 in chips) 
+Seat 5: gocvg ($2.85 in chips) 
+Seat 6: iQdo ($0.80 in chips) 
+Seat 7: Mackail ($1.56 in chips) 
+Seat 8: marionkat ($3.14 in chips) 
+Seat 9: stewart00000 ($0.64 in chips) 
+vasmit: posts small blind $0.01
+Hannelore900: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 2h]
+gocvg: calls $0.02
+iQdo: folds 
+Mackail: raises $0.14 to $0.16
+marionkat: folds 
+stewart00000 has timed out
+stewart00000: folds 
+Dorex2007: folds 
+vasmit: folds 
+Hannelore900: folds 
+gocvg: folds 
+Uncalled bet ($0.14) returned to Mackail
+Mackail collected $0.07 from pot
+Mackail: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: vasmit (small blind) folded before Flop
+Seat 3: Hannelore900 (big blind) folded before Flop
+Seat 5: gocvg folded before Flop
+Seat 6: iQdo folded before Flop (didn't bet)
+Seat 7: Mackail collected ($0.07)
+Seat 8: marionkat folded before Flop (didn't bet)
+Seat 9: stewart00000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856230087:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/17 23:57:59 PT [2021/05/18 2:57:59 ET]
+Table 'Thuban' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2.23 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: Hannelore900 ($1.56 in chips) 
+Seat 5: gocvg ($2.83 in chips) 
+Seat 6: iQdo ($0.80 in chips) 
+Seat 7: Mackail ($1.61 in chips) 
+Seat 8: marionkat ($3.14 in chips) 
+Seat 9: stewart00000 ($0.64 in chips) 
+Hannelore900: posts small blind $0.01
+gocvg: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Jc]
+iQdo has timed out
+iQdo: folds 
+Mackail: calls $0.02
+marionkat: folds 
+stewart00000: folds 
+Dorex2007: folds 
+vasmit: folds 
+Hannelore900: folds 
+gocvg: checks 
+*** FLOP *** [Js 4d 8h]
+gocvg: bets $0.02
+Mackail: calls $0.02
+*** TURN *** [Js 4d 8h] [2s]
+gocvg: bets $0.04
+Mackail: folds 
+Uncalled bet ($0.04) returned to gocvg
+gocvg collected $0.09 from pot
+gocvg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Js 4d 8h 2s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: vasmit (button) folded before Flop (didn't bet)
+Seat 3: Hannelore900 (small blind) folded before Flop
+Seat 5: gocvg (big blind) collected ($0.09)
+Seat 6: iQdo folded before Flop (didn't bet)
+Seat 7: Mackail folded on the Turn
+Seat 8: marionkat folded before Flop (didn't bet)
+Seat 9: stewart00000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856234117:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/17 23:58:31 PT [2021/05/18 2:58:31 ET]
+Table 'Thuban' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2.23 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: Hannelore900 ($1.55 in chips) 
+Seat 5: gocvg ($2.88 in chips) 
+Seat 6: iQdo ($0.80 in chips) 
+Seat 7: Mackail ($1.57 in chips) 
+Seat 8: marionkat ($3.14 in chips) 
+Seat 9: stewart00000 ($0.64 in chips) 
+gocvg: posts small blind $0.01
+iQdo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Ad]
+Mackail: calls $0.02
+marionkat: calls $0.02
+stewart00000: calls $0.02
+Kupec Danila leaves the table
+Dorex2007: calls $0.02
+vasmit: calls $0.02
+Hannelore900: folds 
+gocvg: raises $0.12 to $0.14
+iQdo: calls $0.12
+Mackail: calls $0.12
+marionkat: folds 
+stewart00000: folds 
+Dorex2007: calls $0.12
+vasmit: folds 
+*** FLOP *** [3s 6d 7h]
+gocvg: bets $0.30
+iQdo: folds 
+Mackail: folds 
+Dorex2007: folds 
+Uncalled bet ($0.30) returned to gocvg
+gocvg collected $0.60 from pot
+gocvg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.02 
+Board [3s 6d 7h]
+Seat 1: Dorex2007 folded on the Flop
+Seat 2: vasmit folded before Flop
+Seat 3: Hannelore900 (button) folded before Flop (didn't bet)
+Seat 5: gocvg (small blind) collected ($0.60)
+Seat 6: iQdo (big blind) folded on the Flop
+Seat 7: Mackail folded on the Flop
+Seat 8: marionkat folded before Flop
+Seat 9: stewart00000 folded before Flop
+
+
+
+PokerStars Hand #226856240731:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/17 23:59:24 PT [2021/05/18 2:59:24 ET]
+Table 'Thuban' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2.09 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: Hannelore900 ($1.55 in chips) 
+Seat 5: gocvg ($3.34 in chips) 
+Seat 6: iQdo ($0.66 in chips) 
+Seat 7: Mackail ($1.43 in chips) 
+Seat 8: marionkat ($3.12 in chips) 
+Seat 9: stewart00000 ($0.62 in chips) 
+iQdo: posts small blind $0.01
+Mackail: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 9c]
+marionkat: folds 
+stewart00000: folds 
+Dorex2007: folds 
+vasmit: folds 
+Hannelore900: calls $0.02
+gocvg: folds 
+iQdo: calls $0.01
+Mackail: checks 
+*** FLOP *** [3d 4c Js]
+BrykmiD joins the table at seat #4 
+iQdo: bets $0.03
+Mackail: calls $0.03
+Hannelore900: calls $0.03
+*** TURN *** [3d 4c Js] [As]
+iQdo: bets $0.07
+Mackail: calls $0.07
+Hannelore900: calls $0.07
+*** RIVER *** [3d 4c Js As] [4h]
+iQdo: checks 
+Mackail: checks 
+Hannelore900: checks 
+*** SHOW DOWN ***
+iQdo: shows [Ah 5s] (two pair, Aces and Fours)
+Mackail: mucks hand 
+Hannelore900: shows [9h Ac] (two pair, Aces and Fours)
+iQdo collected $0.18 from pot
+Hannelore900 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [3d 4c Js As 4h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: vasmit folded before Flop (didn't bet)
+Seat 3: Hannelore900 showed [9h Ac] and won ($0.17) with two pair, Aces and Fours
+Seat 5: gocvg (button) folded before Flop (didn't bet)
+Seat 6: iQdo (small blind) showed [Ah 5s] and won ($0.18) with two pair, Aces and Fours
+Seat 7: Mackail (big blind) mucked [2c 6c]
+Seat 8: marionkat folded before Flop (didn't bet)
+Seat 9: stewart00000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856248297:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:00:23 PT [2021/05/18 3:00:23 ET]
+Table 'Thuban' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($2.09 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: Hannelore900 ($1.60 in chips) 
+Seat 5: gocvg ($3.34 in chips) 
+Seat 6: iQdo ($0.72 in chips) 
+Seat 7: Mackail ($1.31 in chips) 
+Seat 8: marionkat ($3.12 in chips) 
+Seat 9: stewart00000 ($0.62 in chips) 
+Mackail: posts small blind $0.01
+marionkat: posts big blind $0.02
+BrykmiD: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Jc]
+stewart00000: folds 
+Dorex2007: folds 
+vasmit: folds 
+Hannelore900: calls $0.02
+gocvg: raises $0.07 to $0.09
+iQdo: folds 
+Mackail: calls $0.08
+marionkat: folds 
+Hannelore900: folds 
+*** FLOP *** [Th 5h Td]
+Mackail: checks 
+gocvg: bets $0.07
+Mackail: calls $0.07
+*** TURN *** [Th 5h Td] [5s]
+Mackail: checks 
+gocvg: checks 
+*** RIVER *** [Th 5h Td 5s] [9d]
+Mackail: checks 
+gocvg: bets $0.11
+Mackail: calls $0.11
+*** SHOW DOWN ***
+gocvg: shows [Ts As] (a full house, Tens full of Fives)
+Mackail: mucks hand 
+gocvg collected $0.56 from pot
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [Th 5h Td 5s 9d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: vasmit folded before Flop (didn't bet)
+Seat 3: Hannelore900 folded before Flop
+Seat 5: gocvg showed [Ts As] and won ($0.56) with a full house, Tens full of Fives
+Seat 6: iQdo (button) folded before Flop (didn't bet)
+Seat 7: Mackail (small blind) mucked [Jd Qd]
+Seat 8: marionkat (big blind) folded before Flop
+Seat 9: stewart00000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856256970:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:01:26 PT [2021/05/18 3:01:26 ET]
+Table 'Thuban' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2.09 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: Hannelore900 ($1.58 in chips) 
+Seat 4: BrykmiD ($2 in chips) 
+Seat 5: gocvg ($3.63 in chips) 
+Seat 6: iQdo ($0.72 in chips) 
+Seat 7: Mackail ($1.04 in chips) 
+Seat 8: marionkat ($3.10 in chips) 
+Seat 9: stewart00000 ($0.62 in chips) 
+marionkat: posts small blind $0.01
+stewart00000: posts big blind $0.02
+BrykmiD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Qs]
+Dorex2007: folds 
+vasmit: folds 
+Hannelore900: folds 
+BrykmiD: checks 
+gocvg: folds 
+iQdo: folds 
+Mackail: folds 
+marionkat: calls $0.01
+stewart00000: checks 
+*** FLOP *** [8c 9s 4d]
+marionkat: checks 
+stewart00000: checks 
+BrykmiD: checks 
+*** TURN *** [8c 9s 4d] [8d]
+marionkat: bets $0.08
+stewart00000: calls $0.08
+BrykmiD: folds 
+*** RIVER *** [8c 9s 4d 8d] [2d]
+marionkat: checks 
+stewart00000: bets $0.10
+marionkat: folds 
+Uncalled bet ($0.10) returned to stewart00000
+stewart00000 collected $0.21 from pot
+stewart00000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [8c 9s 4d 8d 2d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: vasmit folded before Flop (didn't bet)
+Seat 3: Hannelore900 folded before Flop (didn't bet)
+Seat 4: BrykmiD folded on the Turn (didn't bet)
+Seat 5: gocvg folded before Flop (didn't bet)
+Seat 6: iQdo folded before Flop (didn't bet)
+Seat 7: Mackail (button) folded before Flop (didn't bet)
+Seat 8: marionkat (small blind) folded on the River
+Seat 9: stewart00000 (big blind) collected ($0.21)
+
+
+
+PokerStars Hand #226856267090:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:02:36 PT [2021/05/18 3:02:36 ET]
+Table 'Thuban' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2.09 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: Hannelore900 ($1.58 in chips) 
+Seat 4: BrykmiD ($1.98 in chips) 
+Seat 5: gocvg ($3.63 in chips) 
+Seat 6: iQdo ($0.72 in chips) 
+Seat 7: Mackail ($1.04 in chips) 
+Seat 8: marionkat ($3 in chips) 
+Seat 9: stewart00000 ($0.73 in chips) 
+stewart00000: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Kc]
+vasmit: folds 
+Hannelore900: calls $0.02
+BrykmiD: raises $0.02 to $0.04
+gocvg: folds 
+iQdo: folds 
+Mackail: calls $0.04
+marionkat: folds 
+marionkat leaves the table
+stewart00000: folds 
+Dorex2007: folds 
+Hannelore900: calls $0.02
+*** FLOP *** [4h Ac 6d]
+Hannelore900: bets $0.02
+BrykmiD: calls $0.02
+Mackail: calls $0.02
+*** TURN *** [4h Ac 6d] [Th]
+Hannelore900: bets $0.02
+BrykmiD: raises $0.05 to $0.07
+Mackail: calls $0.07
+Hannelore900: calls $0.05
+*** RIVER *** [4h Ac 6d Th] [Qs]
+Hannelore900: checks 
+BrykmiD: bets $0.10
+Mackail: folds 
+Hannelore900: calls $0.10
+*** SHOW DOWN ***
+BrykmiD: shows [4c 4d] (three of a kind, Fours)
+Hannelore900: mucks hand 
+BrykmiD collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.02 
+Board [4h Ac 6d Th Qs]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: vasmit folded before Flop (didn't bet)
+Seat 3: Hannelore900 mucked [3d As]
+Seat 4: BrykmiD showed [4c 4d] and won ($0.60) with three of a kind, Fours
+Seat 5: gocvg folded before Flop (didn't bet)
+Seat 6: iQdo folded before Flop (didn't bet)
+Seat 7: Mackail folded on the River
+Seat 8: marionkat (button) folded before Flop (didn't bet)
+Seat 9: stewart00000 (small blind) folded before Flop
+
+
+
+PokerStars Hand #226856273918:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:03:23 PT [2021/05/18 3:03:23 ET]
+Table 'Thuban' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2.07 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: Hannelore900 ($1.35 in chips) 
+Seat 4: BrykmiD ($2.35 in chips) 
+Seat 5: gocvg ($3.63 in chips) 
+Seat 6: iQdo ($0.72 in chips) 
+Seat 7: Mackail ($0.91 in chips) 
+Seat 9: stewart00000 ($0.72 in chips) 
+Dorex2007: posts small blind $0.01
+vasmit: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 9c]
+Diamon3d joins the table at seat #8 
+Hannelore900: folds 
+BrykmiD: folds 
+gocvg: calls $0.02
+iQdo: calls $0.02
+Mackail: folds 
+stewart00000: folds 
+Dorex2007: folds 
+vasmit: checks 
+*** FLOP *** [3s Kd 8c]
+vasmit: checks 
+gocvg: checks 
+iQdo: bets $0.03
+vasmit: folds 
+gocvg: folds 
+Uncalled bet ($0.03) returned to iQdo
+iQdo collected $0.07 from pot
+iQdo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [3s Kd 8c]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: vasmit (big blind) folded on the Flop
+Seat 3: Hannelore900 folded before Flop (didn't bet)
+Seat 4: BrykmiD folded before Flop (didn't bet)
+Seat 5: gocvg folded on the Flop
+Seat 6: iQdo collected ($0.07)
+Seat 7: Mackail folded before Flop (didn't bet)
+Seat 9: stewart00000 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856278705:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:03:56 PT [2021/05/18 3:03:56 ET]
+Table 'Thuban' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2.06 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: Hannelore900 ($1.35 in chips) 
+Seat 4: BrykmiD ($2.35 in chips) 
+Seat 5: gocvg ($3.61 in chips) 
+Seat 6: iQdo ($0.77 in chips) 
+Seat 7: Mackail ($0.91 in chips) 
+Seat 8: Diamon3d ($0.80 in chips) 
+Seat 9: stewart00000 ($0.72 in chips) 
+vasmit: posts small blind $0.01
+Hannelore900: posts big blind $0.02
+Diamon3d: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Td]
+BrykmiD: folds 
+gocvg: calls $0.02
+iQdo: folds 
+Mackail: raises $0.09 to $0.11
+Diamon3d: folds 
+stewart00000: folds 
+Dorex2007: folds 
+vasmit: folds 
+Hannelore900: folds 
+gocvg: folds 
+Uncalled bet ($0.09) returned to Mackail
+Mackail collected $0.09 from pot
+Mackail: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: vasmit (small blind) folded before Flop
+Seat 3: Hannelore900 (big blind) folded before Flop
+Seat 4: BrykmiD folded before Flop (didn't bet)
+Seat 5: gocvg folded before Flop
+Seat 6: iQdo folded before Flop (didn't bet)
+Seat 7: Mackail collected ($0.09)
+Seat 8: Diamon3d folded before Flop (didn't bet)
+Seat 9: stewart00000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856283888:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:04:32 PT [2021/05/18 3:04:32 ET]
+Table 'Thuban' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2.06 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: Hannelore900 ($1.33 in chips) 
+Seat 4: BrykmiD ($2.35 in chips) 
+Seat 5: gocvg ($3.59 in chips) 
+Seat 6: iQdo ($0.77 in chips) 
+Seat 7: Mackail ($0.98 in chips) 
+Seat 8: Diamon3d ($0.78 in chips) 
+Seat 9: stewart00000 ($0.72 in chips) 
+Hannelore900: posts small blind $0.01
+BrykmiD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 7c]
+gocvg: calls $0.02
+iQdo is disconnected 
+iQdo has timed out while disconnected
+iQdo: folds 
+Mackail: calls $0.02
+Diamon3d: folds 
+stewart00000: calls $0.02
+Dorex2007: folds 
+vasmit: folds 
+Hannelore900: folds 
+BrykmiD: checks 
+*** FLOP *** [6d Tc Td]
+BrykmiD: checks 
+gocvg: bets $0.03
+Mackail: folds 
+stewart00000: calls $0.03
+BrykmiD: folds 
+*** TURN *** [6d Tc Td] [3c]
+gocvg: bets $0.04
+stewart00000: calls $0.04
+*** RIVER *** [6d Tc Td 3c] [8h]
+gocvg: bets $0.13
+stewart00000: folds 
+Uncalled bet ($0.13) returned to gocvg
+gocvg collected $0.22 from pot
+gocvg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [6d Tc Td 3c 8h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: vasmit (button) folded before Flop (didn't bet)
+Seat 3: Hannelore900 (small blind) folded before Flop
+Seat 4: BrykmiD (big blind) folded on the Flop
+Seat 5: gocvg collected ($0.22)
+Seat 6: iQdo folded before Flop (didn't bet)
+Seat 7: Mackail folded on the Flop
+Seat 8: Diamon3d folded before Flop (didn't bet)
+Seat 9: stewart00000 folded on the River
+
+
+
+PokerStars Hand #226856293070:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:05:34 PT [2021/05/18 3:05:34 ET]
+Table 'Thuban' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2.06 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: Hannelore900 ($1.32 in chips) 
+Seat 4: BrykmiD ($2.33 in chips) 
+Seat 5: gocvg ($3.72 in chips) 
+Seat 6: iQdo ($0.77 in chips) 
+Seat 7: Mackail ($0.96 in chips) 
+Seat 8: Diamon3d ($0.78 in chips) 
+Seat 9: stewart00000 ($0.63 in chips) 
+BrykmiD: posts small blind $0.01
+gocvg: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 3c]
+iQdo: calls $0.02
+Mackail: calls $0.02
+Diamon3d: folds 
+stewart00000: folds 
+Dorex2007: folds 
+vasmit: calls $0.02
+Hannelore900: folds 
+BrykmiD: folds 
+gocvg: checks 
+*** FLOP *** [9s 8c 5d]
+gocvg: checks 
+iQdo: checks 
+Mackail: checks 
+vasmit: checks 
+*** TURN *** [9s 8c 5d] [8s]
+gocvg: bets $0.04
+iQdo: calls $0.04
+Mackail: calls $0.04
+vasmit: folds 
+*** RIVER *** [9s 8c 5d 8s] [4d]
+gocvg: bets $0.10
+iQdo: raises $0.10 to $0.20
+Mackail: folds 
+gocvg: raises $0.60 to $0.80
+iQdo: calls $0.51 and is all-in
+Uncalled bet ($0.09) returned to gocvg
+*** SHOW DOWN ***
+gocvg: shows [7d 6s] (a straight, Five to Nine)
+iQdo: shows [5h 8h] (a full house, Eights full of Fives)
+iQdo collected $1.57 from pot
+*** SUMMARY ***
+Total pot $1.63 | Rake $0.06 
+Board [9s 8c 5d 8s 4d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: vasmit folded on the Turn
+Seat 3: Hannelore900 (button) folded before Flop (didn't bet)
+Seat 4: BrykmiD (small blind) folded before Flop
+Seat 5: gocvg (big blind) showed [7d 6s] and lost with a straight, Five to Nine
+Seat 6: iQdo showed [5h 8h] and won ($1.57) with a full house, Eights full of Fives
+Seat 7: Mackail folded on the River
+Seat 8: Diamon3d folded before Flop (didn't bet)
+Seat 9: stewart00000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856308550:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:07:20 PT [2021/05/18 3:07:20 ET]
+Table 'Thuban' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2.06 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: Hannelore900 ($1.32 in chips) 
+Seat 4: BrykmiD ($2.32 in chips) 
+Seat 5: gocvg ($2.95 in chips) 
+Seat 6: iQdo ($1.57 in chips) 
+Seat 7: Mackail ($0.90 in chips) 
+Seat 8: Diamon3d ($0.78 in chips) 
+Seat 9: stewart00000 ($0.63 in chips) 
+gocvg: posts small blind $0.01
+iQdo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 9c]
+Mackail: calls $0.02
+Diamon3d: folds 
+stewart00000: calls $0.02
+Dorex2007: folds 
+vasmit: folds 
+Hannelore900: raises $0.04 to $0.06
+BrykmiD: calls $0.06
+gocvg: folds 
+iQdo: folds 
+Mackail: calls $0.04
+stewart00000: folds 
+*** FLOP *** [Js Tc Ts]
+Mackail: checks 
+Hannelore900: checks 
+BrykmiD: bets $0.03
+Mackail: calls $0.03
+Hannelore900: calls $0.03
+*** TURN *** [Js Tc Ts] [4d]
+Mackail: bets $0.16
+Hannelore900: folds 
+BrykmiD: folds 
+Uncalled bet ($0.16) returned to Mackail
+Mackail collected $0.31 from pot
+Mackail: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Js Tc Ts 4d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: vasmit folded before Flop (didn't bet)
+Seat 3: Hannelore900 folded on the Turn
+Seat 4: BrykmiD (button) folded on the Turn
+Seat 5: gocvg (small blind) folded before Flop
+Seat 6: iQdo (big blind) folded before Flop
+Seat 7: Mackail collected ($0.31)
+Seat 8: Diamon3d folded before Flop (didn't bet)
+Seat 9: stewart00000 folded before Flop
+
+
+
+PokerStars Hand #226856314865:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:08:02 PT [2021/05/18 3:08:02 ET]
+Table 'Thuban' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2.06 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: Hannelore900 ($1.23 in chips) 
+Seat 4: BrykmiD ($2.23 in chips) 
+Seat 5: gocvg ($2.94 in chips) 
+Seat 6: iQdo ($1.55 in chips) 
+Seat 7: Mackail ($1.12 in chips) 
+Seat 8: Diamon3d ($0.78 in chips) 
+Seat 9: stewart00000 ($0.61 in chips) 
+iQdo: posts small blind $0.01
+Mackail: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Ad]
+Diamon3d: folds 
+stewart00000: folds 
+Dorex2007: folds 
+vasmit: folds 
+Hannelore900: calls $0.02
+BrykmiD: raises $0.04 to $0.06
+gocvg: folds 
+iQdo: folds 
+Mackail: calls $0.04
+Hannelore900: calls $0.04
+*** FLOP *** [2s Tc 6s]
+Mackail: checks 
+Hannelore900: checks 
+BrykmiD: checks 
+*** TURN *** [2s Tc 6s] [Kh]
+Mackail: bets $0.06
+Hannelore900: raises $0.06 to $0.12
+BrykmiD: folds 
+Mackail: calls $0.06
+*** RIVER *** [2s Tc 6s Kh] [4d]
+Mackail: checks 
+Hannelore900: checks 
+*** SHOW DOWN ***
+Mackail: shows [8h 9c] (high card King)
+Hannelore900: shows [5d Kd] (a pair of Kings)
+Hannelore900 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [2s Tc 6s Kh 4d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: vasmit folded before Flop (didn't bet)
+Seat 3: Hannelore900 showed [5d Kd] and won ($0.41) with a pair of Kings
+Seat 4: BrykmiD folded on the Turn
+Seat 5: gocvg (button) folded before Flop (didn't bet)
+Seat 6: iQdo (small blind) folded before Flop
+Seat 7: Mackail (big blind) showed [8h 9c] and lost with high card King
+Seat 8: Diamon3d folded before Flop (didn't bet)
+Seat 9: stewart00000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856322790:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:08:55 PT [2021/05/18 3:08:55 ET]
+Table 'Thuban' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($2.06 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: Hannelore900 ($1.46 in chips) 
+Seat 4: BrykmiD ($2.17 in chips) 
+Seat 5: gocvg ($2.94 in chips) 
+Seat 6: iQdo ($1.54 in chips) 
+Seat 7: Mackail ($0.94 in chips) 
+Seat 8: Diamon3d ($0.78 in chips) 
+Seat 9: stewart00000 ($0.61 in chips) 
+Mackail: posts small blind $0.01
+Diamon3d: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Jd]
+stewart00000 has timed out
+stewart00000: folds 
+Dorex2007: folds 
+vasmit: folds 
+Hannelore900: folds 
+BrykmiD: folds 
+gocvg: calls $0.02
+iQdo: calls $0.02
+Mackail: calls $0.01
+Diamon3d: raises $0.76 to $0.78 and is all-in
+gocvg: folds 
+iQdo: folds 
+Mackail: folds 
+Uncalled bet ($0.76) returned to Diamon3d
+Diamon3d collected $0.08 from pot
+Diamon3d: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: vasmit folded before Flop (didn't bet)
+Seat 3: Hannelore900 folded before Flop (didn't bet)
+Seat 4: BrykmiD folded before Flop (didn't bet)
+Seat 5: gocvg folded before Flop
+Seat 6: iQdo (button) folded before Flop
+Seat 7: Mackail (small blind) folded before Flop
+Seat 8: Diamon3d (big blind) collected ($0.08)
+Seat 9: stewart00000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856328848:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:09:36 PT [2021/05/18 3:09:36 ET]
+Table 'Thuban' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2.06 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: Hannelore900 ($1.46 in chips) 
+Seat 4: BrykmiD ($2.17 in chips) 
+Seat 5: gocvg ($2.92 in chips) 
+Seat 6: iQdo ($1.52 in chips) 
+Seat 7: Mackail ($0.92 in chips) 
+Seat 8: Diamon3d ($0.84 in chips) 
+Seat 9: stewart00000 ($0.61 in chips) 
+Diamon3d: posts small blind $0.01
+stewart00000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Jh]
+Dorex2007: folds 
+vasmit: folds 
+Hannelore900: calls $0.02
+BrykmiD: folds 
+gocvg: calls $0.02
+iQdo: calls $0.02
+Mackail: calls $0.02
+Diamon3d: calls $0.01
+stewart00000: checks 
+*** FLOP *** [Qh Js 4h]
+Diamon3d: checks 
+stewart00000: checks 
+Hannelore900: checks 
+gocvg: checks 
+iQdo: bets $0.06
+Mackail: folds 
+Diamon3d: folds 
+stewart00000: folds 
+Hannelore900: folds 
+gocvg: folds 
+Uncalled bet ($0.06) returned to iQdo
+iQdo collected $0.12 from pot
+iQdo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Qh Js 4h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: vasmit folded before Flop (didn't bet)
+Seat 3: Hannelore900 folded on the Flop
+Seat 4: BrykmiD folded before Flop (didn't bet)
+Seat 5: gocvg folded on the Flop
+Seat 6: iQdo collected ($0.12)
+Seat 7: Mackail (button) folded on the Flop
+Seat 8: Diamon3d (small blind) folded on the Flop
+Seat 9: stewart00000 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #226856338164:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:10:39 PT [2021/05/18 3:10:39 ET]
+Table 'Thuban' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2.06 in chips) 
+Seat 2: vasmit ($2 in chips) 
+Seat 3: Hannelore900 ($1.44 in chips) 
+Seat 4: BrykmiD ($2.17 in chips) 
+Seat 5: gocvg ($2.90 in chips) 
+Seat 6: iQdo ($1.62 in chips) 
+Seat 7: Mackail ($0.90 in chips) 
+Seat 8: Diamon3d ($0.82 in chips) 
+Seat 9: stewart00000 ($0.59 in chips) 
+stewart00000: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 3c]
+vasmit: calls $0.02
+Hannelore900: calls $0.02
+BrykmiD: folds 
+gocvg: calls $0.02
+iQdo: folds 
+Mackail: calls $0.02
+Diamon3d: raises $0.08 to $0.10
+stewart00000: folds 
+Dorex2007: folds 
+vasmit: folds 
+Hannelore900: calls $0.08
+gocvg: folds 
+Mackail: calls $0.08
+*** FLOP *** [Td 7d 9c]
+vasmit leaves the table
+Hannelore900: checks 
+Saidachi joins the table at seat #2 
+Mackail: bets $0.02
+Diamon3d: raises $0.20 to $0.22
+Hannelore900: folds 
+Mackail: calls $0.20
+*** TURN *** [Td 7d 9c] [Th]
+Mackail: checks 
+Diamon3d: bets $0.50 and is all-in
+Mackail: folds 
+Uncalled bet ($0.50) returned to Diamon3d
+Diamon3d collected $0.78 from pot
+Diamon3d: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.81 | Rake $0.03 
+Board [Td 7d 9c Th]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: vasmit folded before Flop
+Seat 3: Hannelore900 folded on the Flop
+Seat 4: BrykmiD folded before Flop (didn't bet)
+Seat 5: gocvg folded before Flop
+Seat 6: iQdo folded before Flop (didn't bet)
+Seat 7: Mackail folded on the Turn
+Seat 8: Diamon3d (button) collected ($0.78)
+Seat 9: stewart00000 (small blind) folded before Flop
+
+
+
+PokerStars Hand #226856348967:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:11:51 PT [2021/05/18 3:11:51 ET]
+Table 'Thuban' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2.04 in chips) 
+Seat 2: Saidachi ($2 in chips) 
+Seat 3: Hannelore900 ($1.34 in chips) 
+Seat 4: BrykmiD ($2.17 in chips) 
+Seat 5: gocvg ($2.88 in chips) 
+Seat 6: iQdo ($1.62 in chips) 
+Seat 7: Mackail ($0.58 in chips) 
+Seat 8: Diamon3d ($1.28 in chips) 
+Seat 9: stewart00000 ($0.58 in chips) 
+Dorex2007: posts small blind $0.01
+Saidachi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 5c]
+Hannelore900: calls $0.02
+BrykmiD: folds 
+gocvg: calls $0.02
+iQdo: folds 
+Mackail: folds 
+Diamon3d: folds 
+Diamon3d leaves the table
+stewart00000: calls $0.02
+Dorex2007: folds 
+Saidachi: raises $0.02 to $0.04
+Hannelore900: calls $0.02
+gocvg: calls $0.02
+stewart00000: calls $0.02
+*** FLOP *** [4h 5h Jh]
+Saidachi: checks 
+Hannelore900: checks 
+ni_k.o._0914 joins the table at seat #8 
+gocvg: bets $0.08
+stewart00000: folds 
+Saidachi: folds 
+Hannelore900: calls $0.08
+*** TURN *** [4h 5h Jh] [3c]
+Hannelore900: checks 
+gocvg: bets $0.32
+Hannelore900: calls $0.32
+*** RIVER *** [4h 5h Jh 3c] [2h]
+Hannelore900: checks 
+gocvg: checks 
+*** SHOW DOWN ***
+Hannelore900: shows [Jd Tc] (a pair of Jacks)
+gocvg: shows [Jc 6c] (a straight, Deuce to Six)
+gocvg collected $0.94 from pot
+*** SUMMARY ***
+Total pot $0.97 | Rake $0.03 
+Board [4h 5h Jh 3c 2h]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: Saidachi (big blind) folded on the Flop
+Seat 3: Hannelore900 showed [Jd Tc] and lost with a pair of Jacks
+Seat 4: BrykmiD folded before Flop (didn't bet)
+Seat 5: gocvg showed [Jc 6c] and won ($0.94) with a straight, Deuce to Six
+Seat 6: iQdo folded before Flop (didn't bet)
+Seat 7: Mackail folded before Flop (didn't bet)
+Seat 8: Diamon3d folded before Flop (didn't bet)
+Seat 9: stewart00000 (button) folded on the Flop
+
+
+
+PokerStars Hand #226856361168:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:12:47 PT [2021/05/18 3:12:47 ET]
+Table 'Thuban' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2.03 in chips) 
+Seat 2: Saidachi ($1.96 in chips) 
+Seat 3: Hannelore900 ($0.90 in chips) 
+Seat 4: BrykmiD ($2.17 in chips) 
+Seat 5: gocvg ($3.38 in chips) 
+Seat 6: iQdo ($1.62 in chips) 
+Seat 7: Mackail ($0.58 in chips) 
+Seat 9: stewart00000 ($0.54 in chips) 
+Saidachi: posts small blind $0.01
+Hannelore900: posts big blind $0.02
+ni_k.o._0914: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 7c]
+BrykmiD: folds 
+gocvg: calls $0.02
+iQdo has timed out
+iQdo: folds 
+Mackail: calls $0.02
+stewart00000: folds 
+Dorex2007: folds 
+Saidachi: calls $0.01
+Hannelore900: checks 
+*** FLOP *** [6d 4h 3d]
+Saidachi: bets $0.04
+Hannelore900: raises $0.08 to $0.12
+gocvg: folds 
+Mackail: calls $0.12
+Saidachi: calls $0.08
+*** TURN *** [6d 4h 3d] [9h]
+Saidachi: bets $0.10
+Hannelore900: raises $0.66 to $0.76 and is all-in
+Mackail: calls $0.44 and is all-in
+Saidachi: calls $0.66
+*** RIVER *** [6d 4h 3d 9h] [Ts]
+*** SHOW DOWN ***
+Saidachi: shows [6c 9c] (two pair, Nines and Sixes)
+Hannelore900: shows [9s 6h] (two pair, Nines and Sixes)
+Saidachi collected $0.31 from side pot
+Hannelore900 collected $0.31 from side pot
+Mackail: shows [3h 5h] (a pair of Threes)
+Saidachi collected $0.85 from main pot
+Hannelore900 collected $0.85 from main pot
+*** SUMMARY ***
+Total pot $2.40 Main pot $1.70. Side pot $0.62. | Rake $0.08 
+Board [6d 4h 3d 9h Ts]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: Saidachi (small blind) showed [6c 9c] and won ($1.16) with two pair, Nines and Sixes
+Seat 3: Hannelore900 (big blind) showed [9s 6h] and won ($1.16) with two pair, Nines and Sixes
+Seat 4: BrykmiD folded before Flop (didn't bet)
+Seat 5: gocvg folded on the Flop
+Seat 6: iQdo folded before Flop (didn't bet)
+Seat 7: Mackail showed [3h 5h] and lost with a pair of Threes
+Seat 9: stewart00000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856371704:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:13:58 PT [2021/05/18 3:13:58 ET]
+Table 'Thuban' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2.03 in chips) 
+Seat 2: Saidachi ($2.22 in chips) 
+Seat 3: Hannelore900 ($1.16 in chips) 
+Seat 4: BrykmiD ($2.17 in chips) 
+Seat 5: gocvg ($3.36 in chips) 
+Seat 6: iQdo ($1.62 in chips) 
+Seat 9: stewart00000 ($0.54 in chips) 
+Hannelore900: posts small blind $0.01
+BrykmiD: posts big blind $0.02
+ni_k.o._0914: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s Qc]
+gocvg: folds 
+iQdo: folds 
+stewart00000 has timed out
+stewart00000: folds 
+Dorex2007: folds 
+Saidachi: folds 
+Hannelore900: raises $0.02 to $0.04
+BrykmiD: folds 
+Uncalled bet ($0.02) returned to Hannelore900
+Hannelore900 collected $0.04 from pot
+Hannelore900: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Saidachi (button) folded before Flop (didn't bet)
+Seat 3: Hannelore900 (small blind) collected ($0.04)
+Seat 4: BrykmiD (big blind) folded before Flop
+Seat 5: gocvg folded before Flop (didn't bet)
+Seat 6: iQdo folded before Flop (didn't bet)
+Seat 9: stewart00000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856376783:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:14:32 PT [2021/05/18 3:14:32 ET]
+Table 'Thuban' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2.03 in chips) 
+Seat 2: Saidachi ($2.22 in chips) 
+Seat 3: Hannelore900 ($1.18 in chips) 
+Seat 4: BrykmiD ($2.15 in chips) 
+Seat 5: gocvg ($3.36 in chips) 
+Seat 6: iQdo ($1.62 in chips) 
+Seat 7: Mackail ($1.20 in chips) 
+BrykmiD: posts small blind $0.01
+gocvg: posts big blind $0.02
+ni_k.o._0914: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 6s]
+stewart00000 is disconnected 
+iQdo: folds 
+Mackail: calls $0.02
+Dorex2007: folds 
+Saidachi: raises $0.02 to $0.04
+Hannelore900: raises $0.02 to $0.06
+BrykmiD: folds 
+gocvg: calls $0.04
+Mackail: calls $0.04
+Saidachi: calls $0.02
+*** FLOP *** [Jc 9h Kc]
+gocvg: checks 
+Mackail: checks 
+Saidachi: bets $0.06
+Hannelore900: raises $0.36 to $0.42
+gocvg: folds 
+Mackail: folds 
+Saidachi: folds 
+Uncalled bet ($0.36) returned to Hannelore900
+Hannelore900 collected $0.36 from pot
+Hannelore900: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Jc 9h Kc]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Saidachi folded on the Flop
+Seat 3: Hannelore900 (button) collected ($0.36)
+Seat 4: BrykmiD (small blind) folded before Flop
+Seat 5: gocvg (big blind) folded on the Flop
+Seat 6: iQdo folded before Flop (didn't bet)
+Seat 7: Mackail folded on the Flop
+
+
+
+PokerStars Hand #226856384507:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:15:23 PT [2021/05/18 3:15:23 ET]
+Table 'Thuban' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2.03 in chips) 
+Seat 2: Saidachi ($2.10 in chips) 
+Seat 3: Hannelore900 ($1.42 in chips) 
+Seat 4: BrykmiD ($2.14 in chips) 
+Seat 5: gocvg ($3.30 in chips) 
+Seat 6: iQdo ($1.62 in chips) 
+Seat 7: Mackail ($1.14 in chips) 
+Seat 9: stewart00000 ($0.54 in chips) 
+gocvg: posts small blind $0.01
+iQdo: posts big blind $0.02
+ni_k.o._0914: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 6d]
+Mackail: folds 
+stewart00000: folds 
+Dorex2007: folds 
+Saidachi: calls $0.02
+Hannelore900: folds 
+BrykmiD: folds 
+gocvg: calls $0.01
+iQdo: checks 
+*** FLOP *** [Qc Kd Qh]
+gocvg: checks 
+iQdo: checks 
+Saidachi: bets $0.04
+gocvg: folds 
+iQdo: calls $0.04
+*** TURN *** [Qc Kd Qh] [3d]
+iQdo: checks 
+Saidachi: bets $0.08
+iQdo: calls $0.08
+*** RIVER *** [Qc Kd Qh 3d] [Ks]
+iQdo: checks 
+Saidachi: bets $0.10
+iQdo: calls $0.10
+*** SHOW DOWN ***
+Saidachi: shows [2d 2s] (two pair, Kings and Queens)
+iQdo: shows [8h Qd] (a full house, Queens full of Kings)
+iQdo collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Qc Kd Qh 3d Ks]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Saidachi showed [2d 2s] and lost with two pair, Kings and Queens
+Seat 3: Hannelore900 folded before Flop (didn't bet)
+Seat 4: BrykmiD (button) folded before Flop (didn't bet)
+Seat 5: gocvg (small blind) folded on the Flop
+Seat 6: iQdo (big blind) showed [8h Qd] and won ($0.48) with a full house, Queens full of Kings
+Seat 7: Mackail folded before Flop (didn't bet)
+Seat 9: stewart00000 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856397010:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:16:47 PT [2021/05/18 3:16:47 ET]
+Table 'Thuban' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2.03 in chips) 
+Seat 2: Saidachi ($1.86 in chips) 
+Seat 3: Hannelore900 ($1.42 in chips) 
+Seat 4: BrykmiD ($2.14 in chips) 
+Seat 5: gocvg ($3.28 in chips) 
+Seat 6: iQdo ($1.86 in chips) 
+Seat 7: Mackail ($1.14 in chips) 
+Seat 9: stewart00000 ($0.54 in chips) 
+iQdo: posts small blind $0.01
+Mackail: posts big blind $0.02
+ni_k.o._0914: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 8h]
+stewart00000: calls $0.02
+Dorex2007: folds 
+Saidachi: raises $0.02 to $0.04
+Hannelore900: calls $0.04
+BrykmiD: raises $0.06 to $0.10
+gocvg: folds 
+iQdo: folds 
+Mackail: calls $0.08
+stewart00000: folds 
+Saidachi: calls $0.06
+Hannelore900: folds 
+*** FLOP *** [Qd 5s As]
+Mackail: checks 
+Saidachi: checks 
+BrykmiD: checks 
+*** TURN *** [Qd 5s As] [3d]
+stewart00000 leaves the table
+Mackail: bets $0.04
+cr@sh test joins the table at seat #9 
+Saidachi: folds 
+BrykmiD: calls $0.04
+*** RIVER *** [Qd 5s As 3d] [Ad]
+Mackail: bets $0.43
+BrykmiD: folds 
+Uncalled bet ($0.43) returned to Mackail
+Mackail collected $0.43 from pot
+Mackail: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Qd 5s As 3d Ad]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Saidachi folded on the Turn
+Seat 3: Hannelore900 folded before Flop
+Seat 4: BrykmiD folded on the River
+Seat 5: gocvg (button) folded before Flop (didn't bet)
+Seat 6: iQdo (small blind) folded before Flop
+Seat 7: Mackail (big blind) collected ($0.43)
+Seat 9: stewart00000 folded before Flop
+
+
+
+PokerStars Hand #226856406753:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:17:53 PT [2021/05/18 3:17:53 ET]
+Table 'Thuban' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($2.03 in chips) 
+Seat 2: Saidachi ($1.76 in chips) 
+Seat 3: Hannelore900 ($1.38 in chips) 
+Seat 4: BrykmiD ($2 in chips) 
+Seat 5: gocvg ($3.28 in chips) 
+Seat 6: iQdo ($1.85 in chips) 
+Seat 7: Mackail ($1.43 in chips) 
+Seat 8: ni_k.o._0914 ($2 in chips) 
+Mackail: posts small blind $0.01
+ni_k.o._0914: posts big blind $0.02
+cr@sh test: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 9c]
+Dorex2007: folds 
+Saidachi: raises $0.02 to $0.04
+Hannelore900: folds 
+BrykmiD: folds 
+gocvg: folds 
+iQdo: calls $0.04
+Mackail: calls $0.03
+ni_k.o._0914: folds 
+*** FLOP *** [5d Jc 8c]
+Mackail: bets $0.04
+Saidachi: calls $0.04
+iQdo: calls $0.04
+*** TURN *** [5d Jc 8c] [2h]
+Mackail: bets $0.04
+Saidachi: calls $0.04
+iQdo: calls $0.04
+*** RIVER *** [5d Jc 8c 2h] [Tc]
+Mackail: checks 
+Saidachi: checks 
+iQdo: checks 
+*** SHOW DOWN ***
+Mackail: shows [6d 6h] (a pair of Sixes)
+Saidachi: mucks hand 
+iQdo: mucks hand 
+Mackail collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [5d Jc 8c 2h Tc]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Saidachi mucked [Qs Kh]
+Seat 3: Hannelore900 folded before Flop (didn't bet)
+Seat 4: BrykmiD folded before Flop (didn't bet)
+Seat 5: gocvg folded before Flop (didn't bet)
+Seat 6: iQdo (button) mucked [4s 4c]
+Seat 7: Mackail (small blind) showed [6d 6h] and won ($0.37) with a pair of Sixes
+Seat 8: ni_k.o._0914 (big blind) folded before Flop
+
+
+
+PokerStars Hand #226856414051:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:18:43 PT [2021/05/18 3:18:43 ET]
+Table 'Thuban' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2.03 in chips) 
+Seat 2: Saidachi ($1.64 in chips) 
+Seat 3: Hannelore900 ($1.38 in chips) 
+Seat 4: BrykmiD ($2 in chips) 
+Seat 5: gocvg ($3.28 in chips) 
+Seat 6: iQdo ($1.73 in chips) 
+Seat 7: Mackail ($1.68 in chips) 
+Seat 8: ni_k.o._0914 ($2 in chips) 
+Seat 9: cr@sh test ($2 in chips) 
+ni_k.o._0914: posts small blind $0.01
+cr@sh test: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 7h]
+Dorex2007: folds 
+Saidachi: calls $0.02
+Hannelore900: calls $0.02
+BrykmiD: folds 
+gocvg: calls $0.02
+iQdo: folds 
+Mackail: calls $0.02
+ni_k.o._0914: calls $0.01
+cr@sh test: checks 
+*** FLOP *** [4d 4c Ts]
+ni_k.o._0914: checks 
+cr@sh test: bets $0.06
+Saidachi: folds 
+Hannelore900: folds 
+gocvg: folds 
+Mackail: folds 
+ni_k.o._0914: folds 
+Uncalled bet ($0.06) returned to cr@sh test
+cr@sh test collected $0.12 from pot
+cr@sh test: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [4d 4c Ts]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Saidachi folded on the Flop
+Seat 3: Hannelore900 folded on the Flop
+Seat 4: BrykmiD folded before Flop (didn't bet)
+Seat 5: gocvg folded on the Flop
+Seat 6: iQdo folded before Flop (didn't bet)
+Seat 7: Mackail (button) folded on the Flop
+Seat 8: ni_k.o._0914 (small blind) folded on the Flop
+Seat 9: cr@sh test (big blind) collected ($0.12)
+
+
+
+PokerStars Hand #226856421209:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:19:33 PT [2021/05/18 3:19:33 ET]
+Table 'Thuban' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2.03 in chips) 
+Seat 2: Saidachi ($1.62 in chips) 
+Seat 3: Hannelore900 ($1.36 in chips) 
+Seat 4: BrykmiD ($2 in chips) 
+Seat 5: gocvg ($3.26 in chips) 
+Seat 6: iQdo ($1.73 in chips) 
+Seat 7: Mackail ($1.66 in chips) 
+Seat 8: ni_k.o._0914 ($2 in chips) 
+Seat 9: cr@sh test ($2.10 in chips) 
+cr@sh test: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 3c]
+Saidachi: raises $0.02 to $0.04
+Hannelore900: calls $0.04
+BrykmiD: folds 
+gocvg: folds 
+iQdo: folds 
+Mackail: folds 
+ni_k.o._0914: folds 
+cr@sh test: folds 
+Dorex2007: folds 
+*** FLOP *** [9c 4h 7s]
+Saidachi: bets $0.04
+Hannelore900: calls $0.04
+*** TURN *** [9c 4h 7s] [5c]
+Saidachi: bets $0.08
+Hannelore900: calls $0.08
+*** RIVER *** [9c 4h 7s 5c] [4s]
+Saidachi: bets $0.17
+Hannelore900: calls $0.17
+*** SHOW DOWN ***
+Saidachi: shows [3h Ah] (a pair of Fours)
+Hannelore900: shows [8d 8c] (two pair, Eights and Fours)
+Hannelore900 collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.02 
+Board [9c 4h 7s 5c 4s]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: Saidachi showed [3h Ah] and lost with a pair of Fours
+Seat 3: Hannelore900 showed [8d 8c] and won ($0.67) with two pair, Eights and Fours
+Seat 4: BrykmiD folded before Flop (didn't bet)
+Seat 5: gocvg folded before Flop (didn't bet)
+Seat 6: iQdo folded before Flop (didn't bet)
+Seat 7: Mackail folded before Flop (didn't bet)
+Seat 8: ni_k.o._0914 (button) folded before Flop (didn't bet)
+Seat 9: cr@sh test (small blind) folded before Flop
+
+
+
+PokerStars Hand #226856427046:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:20:13 PT [2021/05/18 3:20:13 ET]
+Table 'Thuban' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2.01 in chips) 
+Seat 2: Saidachi ($1.29 in chips) 
+Seat 3: Hannelore900 ($1.70 in chips) 
+Seat 4: BrykmiD ($2 in chips) 
+Seat 5: gocvg ($3.26 in chips) 
+Seat 6: iQdo ($1.73 in chips) 
+Seat 7: Mackail ($1.66 in chips) 
+Seat 8: ni_k.o._0914 ($2 in chips) 
+Seat 9: cr@sh test ($2.09 in chips) 
+Dorex2007: posts small blind $0.01
+Saidachi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Ad]
+Hannelore900: folds 
+BrykmiD: folds 
+gocvg: folds 
+iQdo: calls $0.02
+Mackail: calls $0.02
+ni_k.o._0914: folds 
+cr@sh test: folds 
+Dorex2007: calls $0.01
+Saidachi: checks 
+*** FLOP *** [6s 5d 9c]
+Dorex2007: checks 
+Saidachi: checks 
+iQdo: checks 
+Mackail: bets $0.04
+Dorex2007: folds 
+Saidachi: folds 
+iQdo: calls $0.04
+*** TURN *** [6s 5d 9c] [Jd]
+iQdo: checks 
+Mackail: checks 
+*** RIVER *** [6s 5d 9c Jd] [Jh]
+iQdo: checks 
+Mackail: bets $0.08
+iQdo: folds 
+Uncalled bet ($0.08) returned to Mackail
+Mackail collected $0.15 from pot
+Mackail: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [6s 5d 9c Jd Jh]
+Seat 1: Dorex2007 (small blind) folded on the Flop
+Seat 2: Saidachi (big blind) folded on the Flop
+Seat 3: Hannelore900 folded before Flop (didn't bet)
+Seat 4: BrykmiD folded before Flop (didn't bet)
+Seat 5: gocvg folded before Flop (didn't bet)
+Seat 6: iQdo folded on the River
+Seat 7: Mackail collected ($0.15)
+Seat 8: ni_k.o._0914 folded before Flop (didn't bet)
+Seat 9: cr@sh test (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856435773:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:21:12 PT [2021/05/18 3:21:12 ET]
+Table 'Thuban' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($1.99 in chips) 
+Seat 2: Saidachi ($1.27 in chips) 
+Seat 3: Hannelore900 ($1.70 in chips) 
+Seat 4: BrykmiD ($2 in chips) 
+Seat 5: gocvg ($3.26 in chips) 
+Seat 6: iQdo ($1.67 in chips) 
+Seat 7: Mackail ($1.75 in chips) 
+Seat 8: ni_k.o._0914 ($2 in chips) 
+Seat 9: cr@sh test ($2.09 in chips) 
+Saidachi: posts small blind $0.01
+Hannelore900: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 6d]
+BrykmiD: raises $0.06 to $0.08
+gocvg: folds 
+iQdo: folds 
+Mackail: calls $0.08
+ni_k.o._0914: folds 
+cr@sh test: folds 
+Dorex2007: folds 
+Saidachi: folds 
+Hannelore900: calls $0.06
+*** FLOP *** [Qc Jh 3c]
+Hannelore900: checks 
+BrykmiD: bets $0.14
+Mackail: calls $0.14
+Hannelore900: folds 
+*** TURN *** [Qc Jh 3c] [9s]
+BrykmiD: bets $0.26
+Mackail: raises $1.27 to $1.53 and is all-in
+BrykmiD: calls $1.27
+BrykmiD has timed out
+*** RIVER *** [Qc Jh 3c 9s] [Ts]
+*** SHOW DOWN ***
+BrykmiD: shows [As Ac] (a pair of Aces)
+Mackail: shows [Qd Kd] (a straight, Nine to King)
+Mackail collected $3.46 from pot
+*** SUMMARY ***
+Total pot $3.59 | Rake $0.13 
+Board [Qc Jh 3c 9s Ts]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: Saidachi (small blind) folded before Flop
+Seat 3: Hannelore900 (big blind) folded on the Flop
+Seat 4: BrykmiD showed [As Ac] and lost with a pair of Aces
+Seat 5: gocvg folded before Flop (didn't bet)
+Seat 6: iQdo folded before Flop (didn't bet)
+Seat 7: Mackail showed [Qd Kd] and won ($3.46) with a straight, Nine to King
+Seat 8: ni_k.o._0914 folded before Flop (didn't bet)
+Seat 9: cr@sh test folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856444001:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:22:06 PT [2021/05/18 3:22:06 ET]
+Table 'Thuban' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($1.99 in chips) 
+Seat 2: Saidachi ($1.26 in chips) 
+Seat 4: BrykmiD ($0.25 in chips) 
+Seat 5: gocvg ($3.26 in chips) 
+Seat 6: iQdo ($1.67 in chips) 
+Seat 7: Mackail ($3.46 in chips) 
+Seat 8: ni_k.o._0914 ($2 in chips) 
+Seat 9: cr@sh test ($2.09 in chips) 
+BrykmiD: posts small blind $0.01
+gocvg: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 5s]
+iQdo: folds 
+Mackail: calls $0.02
+ni_k.o._0914: folds 
+cr@sh test: folds 
+Dorex2007: folds 
+Saidachi: folds 
+BrykmiD: folds 
+gocvg: raises $0.02 to $0.04
+Mackail: calls $0.02
+*** FLOP *** [Ks 9c As]
+gocvg: checks 
+Mackail: checks 
+*** TURN *** [Ks 9c As] [9s]
+gocvg: checks 
+Mackail: checks 
+*** RIVER *** [Ks 9c As 9s] [Td]
+gocvg: checks 
+Mackail: checks 
+*** SHOW DOWN ***
+gocvg: shows [Th Js] (two pair, Tens and Nines)
+Mackail: mucks hand 
+gocvg collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Ks 9c As 9s Td]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Saidachi (button) folded before Flop (didn't bet)
+Seat 4: BrykmiD (small blind) folded before Flop
+Seat 5: gocvg (big blind) showed [Th Js] and won ($0.09) with two pair, Tens and Nines
+Seat 6: iQdo folded before Flop (didn't bet)
+Seat 7: Mackail mucked [Qh 6h]
+Seat 8: ni_k.o._0914 folded before Flop (didn't bet)
+Seat 9: cr@sh test folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #226856449426:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/05/18 0:22:42 PT [2021/05/18 3:22:42 ET]
+Table 'Thuban' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($1.99 in chips) 
+Seat 2: Saidachi ($1.26 in chips) 
+Seat 4: BrykmiD ($2 in chips) 
+Seat 5: gocvg ($3.31 in chips) 
+Seat 6: iQdo ($1.67 in chips) 
+Seat 7: Mackail ($3.42 in chips) 
+Seat 8: ni_k.o._0914 ($2 in chips) 
+Seat 9: cr@sh test ($2.09 in chips) 
+gocvg: posts small blind $0.01
+iQdo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 2s]
+Mackail is disconnected 
+Mackail has timed out while disconnected
+Mackail: folds 
+ni_k.o._0914: folds 
+cr@sh test has timed out
+cr@sh test: folds 
+Dorex2007: folds 
+Saidachi: folds 
+BrykmiD: folds 
+gocvg: raises $0.04 to $0.06
+iQdo: folds 
+Uncalled bet ($0.04) returned to gocvg
+gocvg collected $0.04 from pot
+gocvg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Saidachi folded before Flop (didn't bet)
+Seat 4: BrykmiD (button) folded before Flop (didn't bet)
+Seat 5: gocvg (small blind) collected ($0.04)
+Seat 6: iQdo (big blind) folded before Flop
+Seat 7: Mackail folded before Flop (didn't bet)
+Seat 8: ni_k.o._0914 folded before Flop (didn't bet)
+Seat 9: cr@sh test folded before Flop (didn't bet)
+
+
+

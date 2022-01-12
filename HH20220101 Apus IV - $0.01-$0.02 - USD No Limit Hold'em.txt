@@ -1,0 +1,5398 @@
+﻿PokerStars Hand #232732563489:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:31:00 PT [2022/01/01 22:31:00 ET]
+Table 'Apus IV' 9-max Seat #9 is the button
+Seat 1: European1000 ($1.18 in chips) 
+Seat 2: zapper58 ($0.62 in chips) 
+Seat 3: Tikagus ($0.58 in chips) 
+Seat 4: kikbutt656 ($0.79 in chips) 
+Seat 5: doktor99 ($1.56 in chips) 
+Seat 6: iNteldrive ($2.52 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: dboulay1979 ($3.20 in chips) 
+European1000: posts small blind $0.01
+zapper58: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 9d]
+Tikagus: folds 
+kikbutt656: folds 
+doktor99: folds 
+iNteldrive: folds 
+Dorex2007: checks 
+dboulay1979: folds 
+European1000: calls $0.01
+zapper58: checks 
+*** FLOP *** [Qs Kd Th]
+European1000: checks 
+zapper58: checks 
+Dorex2007: checks 
+*** TURN *** [Qs Kd Th] [Ad]
+European1000: checks 
+zapper58: bets $0.60 and is all-in
+Dorex2007: folds 
+European1000: calls $0.60
+*** RIVER *** [Qs Kd Th Ad] [Qh]
+*** SHOW DOWN ***
+European1000: shows [Ts Js] (a straight, Ten to Ace)
+zapper58: shows [Jc 4s] (a straight, Ten to Ace)
+European1000 collected $0.61 from pot
+zapper58 collected $0.61 from pot
+*** SUMMARY ***
+Total pot $1.26 | Rake $0.04 
+Board [Qs Kd Th Ad Qh]
+Seat 1: European1000 (small blind) showed [Ts Js] and won ($0.61) with a straight, Ten to Ace
+Seat 2: zapper58 (big blind) showed [Jc 4s] and won ($0.61) with a straight, Ten to Ace
+Seat 3: Tikagus folded before Flop (didn't bet)
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 5: doktor99 folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded on the Turn (didn't bet)
+Seat 9: dboulay1979 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232732573311:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:31:41 PT [2022/01/01 22:31:41 ET]
+Table 'Apus IV' 9-max Seat #1 is the button
+Seat 1: European1000 ($1.17 in chips) 
+Seat 2: zapper58 ($0.61 in chips) 
+Seat 3: Tikagus ($0.58 in chips) 
+Seat 4: kikbutt656 ($0.79 in chips) 
+Seat 5: doktor99 ($1.56 in chips) 
+Seat 6: iNteldrive ($2.52 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: dboulay1979 ($3.20 in chips) 
+zapper58: posts small blind $0.01
+Tikagus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 3c]
+kikbutt656: calls $0.02
+doktor99: folds 
+iNteldrive: folds 
+Dorex2007: folds 
+dboulay1979: folds 
+European1000: folds 
+zapper58: calls $0.01
+Tikagus: checks 
+*** FLOP *** [Qd 5c 5h]
+zapper58: checks 
+Tikagus: checks 
+kikbutt656: bets $0.06
+zapper58: folds 
+Tikagus: folds 
+Uncalled bet ($0.06) returned to kikbutt656
+kikbutt656 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Qd 5c 5h]
+Seat 1: European1000 (button) folded before Flop (didn't bet)
+Seat 2: zapper58 (small blind) folded on the Flop
+Seat 3: Tikagus (big blind) folded on the Flop
+Seat 4: kikbutt656 collected ($0.06)
+Seat 5: doktor99 folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: dboulay1979 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232732581963:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:32:18 PT [2022/01/01 22:32:18 ET]
+Table 'Apus IV' 9-max Seat #2 is the button
+Seat 1: European1000 ($1.17 in chips) 
+Seat 2: zapper58 ($0.59 in chips) 
+Seat 3: Tikagus ($0.56 in chips) 
+Seat 4: kikbutt656 ($0.83 in chips) 
+Seat 5: doktor99 ($1.56 in chips) 
+Seat 6: iNteldrive ($2.52 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: dboulay1979 ($3.20 in chips) 
+Tikagus: posts small blind $0.01
+kikbutt656: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s Qs]
+doktor99: folds 
+iNteldrive: folds 
+Dorex2007: folds 
+dboulay1979: calls $0.02
+European1000: folds 
+zapper58: folds 
+Tikagus: calls $0.01
+kikbutt656: checks 
+*** FLOP *** [Tc 4c 9h]
+Tikagus: bets $0.02
+kikbutt656: calls $0.02
+dboulay1979: raises $0.06 to $0.08
+Tikagus: calls $0.06
+kikbutt656: folds 
+*** TURN *** [Tc 4c 9h] [5h]
+Tikagus: checks 
+dboulay1979: bets $0.17
+Tikagus: folds 
+Uncalled bet ($0.17) returned to dboulay1979
+dboulay1979 collected $0.23 from pot
+dboulay1979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Tc 4c 9h 5h]
+Seat 1: European1000 folded before Flop (didn't bet)
+Seat 2: zapper58 (button) folded before Flop (didn't bet)
+Seat 3: Tikagus (small blind) folded on the Turn
+Seat 4: kikbutt656 (big blind) folded on the Flop
+Seat 5: doktor99 folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: dboulay1979 collected ($0.23)
+
+
+
+PokerStars Hand #232732592642:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:33:04 PT [2022/01/01 22:33:04 ET]
+Table 'Apus IV' 9-max Seat #3 is the button
+Seat 1: European1000 ($1.17 in chips) 
+Seat 2: zapper58 ($0.59 in chips) 
+Seat 3: Tikagus ($0.46 in chips) 
+Seat 4: kikbutt656 ($0.79 in chips) 
+Seat 5: doktor99 ($1.56 in chips) 
+Seat 6: iNteldrive ($2.52 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: dboulay1979 ($3.33 in chips) 
+kikbutt656: posts small blind $0.01
+doktor99: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Tc]
+iNteldrive: raises $0.04 to $0.06
+Dorex2007: folds 
+dboulay1979: calls $0.06
+European1000: folds 
+zapper58: folds 
+Tikagus: folds 
+kikbutt656: calls $0.05
+doktor99: folds 
+*** FLOP *** [7c 8d Js]
+kikbutt656: checks 
+iNteldrive: checks 
+dboulay1979: bets $0.10
+kikbutt656: folds 
+iNteldrive: calls $0.10
+*** TURN *** [7c 8d Js] [5d]
+doktor99 leaves the table
+iNteldrive: checks 
+dboulay1979: checks 
+*** RIVER *** [7c 8d Js 5d] [Kh]
+iNteldrive: bets $0.18
+dboulay1979: calls $0.18
+*** SHOW DOWN ***
+iNteldrive: shows [Qs Kd] (a pair of Kings)
+dboulay1979: mucks hand 
+iNteldrive collected $0.73 from pot
+*** SUMMARY ***
+Total pot $0.76 | Rake $0.03 
+Board [7c 8d Js 5d Kh]
+Seat 1: European1000 folded before Flop (didn't bet)
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus (button) folded before Flop (didn't bet)
+Seat 4: kikbutt656 (small blind) folded on the Flop
+Seat 5: doktor99 (big blind) folded before Flop
+Seat 6: iNteldrive showed [Qs Kd] and won ($0.73) with a pair of Kings
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: dboulay1979 mucked [Ac Jc]
+
+
+
+PokerStars Hand #232732609506:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:33:59 PT [2022/01/01 22:33:59 ET]
+Table 'Apus IV' 9-max Seat #4 is the button
+Seat 1: European1000 ($1.17 in chips) 
+Seat 2: zapper58 ($0.59 in chips) 
+Seat 3: Tikagus ($0.46 in chips) 
+Seat 4: kikbutt656 ($0.73 in chips) 
+Seat 6: iNteldrive ($2.91 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: dboulay1979 ($2.99 in chips) 
+iNteldrive: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 6s]
+dboulay1979: folds 
+European1000: raises $0.04 to $0.06
+zapper58: folds 
+139qmb joins the table at seat #5 
+Tikagus: folds 
+kikbutt656: folds 
+iNteldrive: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to European1000
+European1000 collected $0.05 from pot
+European1000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: European1000 collected ($0.05)
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus folded before Flop (didn't bet)
+Seat 4: kikbutt656 (button) folded before Flop (didn't bet)
+Seat 6: iNteldrive (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: dboulay1979 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232732614404:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:34:20 PT [2022/01/01 22:34:20 ET]
+Table 'Apus IV' 9-max Seat #6 is the button
+Seat 1: European1000 ($1.20 in chips) 
+Seat 2: zapper58 ($0.59 in chips) 
+Seat 3: Tikagus ($0.46 in chips) 
+Seat 4: kikbutt656 ($0.73 in chips) 
+Seat 6: iNteldrive ($2.90 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: dboulay1979 ($2.99 in chips) 
+Dorex2007: posts small blind $0.01
+dboulay1979: posts big blind $0.02
+139qmb: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Tc]
+European1000: folds 
+zapper58: folds 
+Tikagus: raises $0.04 to $0.06
+kikbutt656: folds 
+iNteldrive: calls $0.06
+Dorex2007: folds 
+dboulay1979: folds 
+*** FLOP *** [8h 7d Qc]
+Tikagus: bets $0.40 and is all-in
+iNteldrive: folds 
+Uncalled bet ($0.40) returned to Tikagus
+Tikagus collected $0.14 from pot
+Tikagus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8h 7d Qc]
+Seat 1: European1000 folded before Flop (didn't bet)
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus collected ($0.14)
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 6: iNteldrive (button) folded on the Flop
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: dboulay1979 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232732622402:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:34:55 PT [2022/01/01 22:34:55 ET]
+Table 'Apus IV' 9-max Seat #8 is the button
+Seat 1: European1000 ($1.20 in chips) 
+Seat 2: zapper58 ($0.59 in chips) 
+Seat 3: Tikagus ($0.54 in chips) 
+Seat 4: kikbutt656 ($0.73 in chips) 
+Seat 6: iNteldrive ($2.84 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: dboulay1979 ($2.97 in chips) 
+dboulay1979: posts small blind $0.01
+European1000: posts big blind $0.02
+139qmb: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 6s]
+zapper58: folds 
+Tikagus: folds 
+kikbutt656: folds 
+iNteldrive: folds 
+Dorex2007: folds 
+dboulay1979: calls $0.01
+European1000: checks 
+*** FLOP *** [4c 4d 9d]
+dboulay1979: checks 
+European1000: checks 
+*** TURN *** [4c 4d 9d] [Kc]
+dboulay1979: bets $0.02
+European1000: folds 
+Uncalled bet ($0.02) returned to dboulay1979
+dboulay1979 collected $0.04 from pot
+dboulay1979: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [4c 4d 9d Kc]
+Seat 1: European1000 (big blind) folded on the Turn
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus folded before Flop (didn't bet)
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: dboulay1979 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #232732627811:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:35:18 PT [2022/01/01 22:35:18 ET]
+Table 'Apus IV' 9-max Seat #9 is the button
+Seat 1: European1000 ($1.18 in chips) 
+Seat 2: zapper58 ($0.59 in chips) 
+Seat 3: Tikagus ($0.54 in chips) 
+Seat 4: kikbutt656 ($0.73 in chips) 
+Seat 6: iNteldrive ($2.84 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: dboulay1979 ($2.99 in chips) 
+European1000: posts small blind $0.01
+zapper58: posts big blind $0.02
+139qmb: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 5s]
+Tikagus: raises $0.52 to $0.54 and is all-in
+kikbutt656: calls $0.54
+iNteldrive: folds 
+Dorex2007: folds 
+dboulay1979: folds 
+European1000: folds 
+zapper58: folds 
+*** FLOP *** [6h 6s 4h]
+*** TURN *** [6h 6s 4h] [Jc]
+*** RIVER *** [6h 6s 4h Jc] [Kc]
+*** SHOW DOWN ***
+Tikagus: shows [Ac Jh] (two pair, Jacks and Sixes)
+kikbutt656: shows [Ad Qd] (a pair of Sixes)
+Tikagus collected $1.07 from pot
+*** SUMMARY ***
+Total pot $1.11 | Rake $0.04 
+Board [6h 6s 4h Jc Kc]
+Seat 1: European1000 (small blind) folded before Flop
+Seat 2: zapper58 (big blind) folded before Flop
+Seat 3: Tikagus showed [Ac Jh] and won ($1.07) with two pair, Jacks and Sixes
+Seat 4: kikbutt656 showed [Ad Qd] and lost with a pair of Sixes
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: dboulay1979 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232732634745:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:35:47 PT [2022/01/01 22:35:47 ET]
+Table 'Apus IV' 9-max Seat #1 is the button
+Seat 1: European1000 ($1.17 in chips) 
+Seat 2: zapper58 ($0.57 in chips) 
+Seat 3: Tikagus ($1.07 in chips) 
+Seat 4: kikbutt656 ($0.19 in chips) 
+Seat 6: iNteldrive ($2.84 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: dboulay1979 ($2.99 in chips) 
+zapper58: posts small blind $0.01
+Tikagus: posts big blind $0.02
+139qmb: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 7s]
+kikbutt656: raises $0.17 to $0.19 and is all-in
+iNteldrive: calls $0.19
+Dorex2007: folds 
+dboulay1979: folds 
+European1000: folds 
+zapper58: folds 
+Tikagus: folds 
+*** FLOP *** [Qd 9h 9s]
+*** TURN *** [Qd 9h 9s] [4d]
+*** RIVER *** [Qd 9h 9s 4d] [Jc]
+*** SHOW DOWN ***
+kikbutt656: shows [6s Kc] (a pair of Nines)
+iNteldrive: shows [Ah Qc] (two pair, Queens and Nines)
+iNteldrive collected $0.40 from pot
+kikbutt656 cashed out the hand for $0.15
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Qd 9h 9s 4d Jc]
+Seat 1: European1000 (button) folded before Flop (didn't bet)
+Seat 2: zapper58 (small blind) folded before Flop
+Seat 3: Tikagus (big blind) folded before Flop
+Seat 4: kikbutt656 showed [6s Kc] and lost with a pair of Nines (cashed out).
+Seat 6: iNteldrive showed [Ah Qc] and won ($0.40) with two pair, Queens and Nines
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: dboulay1979 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232732643727:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:36:26 PT [2022/01/01 22:36:26 ET]
+Table 'Apus IV' 9-max Seat #2 is the button
+Seat 1: European1000 ($1.17 in chips) 
+Seat 2: zapper58 ($0.56 in chips) 
+Seat 3: Tikagus ($1.05 in chips) 
+Seat 4: kikbutt656 ($0.15 in chips) 
+Seat 6: iNteldrive ($3.05 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: dboulay1979 ($2.99 in chips) 
+Tikagus: posts small blind $0.01
+kikbutt656: posts big blind $0.02
+139qmb: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 5d]
+iNteldrive: folds 
+Dorex2007: folds 
+dboulay1979: folds 
+European1000: folds 
+zapper58: folds 
+Tikagus: calls $0.01
+kikbutt656: raises $0.13 to $0.15 and is all-in
+Tikagus: calls $0.13
+Alexsabur leaves the table
+*** FLOP *** [2c 6h 8s]
+*** TURN *** [2c 6h 8s] [As]
+*** RIVER *** [2c 6h 8s As] [Ts]
+*** SHOW DOWN ***
+Tikagus: shows [Kh Qd] (high card Ace)
+kikbutt656: shows [5h 5c] (a pair of Fives)
+kikbutt656 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [2c 6h 8s As Ts]
+Seat 1: European1000 folded before Flop (didn't bet)
+Seat 2: zapper58 (button) folded before Flop (didn't bet)
+Seat 3: Tikagus (small blind) showed [Kh Qd] and lost with high card Ace
+Seat 4: kikbutt656 (big blind) showed [5h 5c] and won ($0.29) with a pair of Fives
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: dboulay1979 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232732651946:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:37:02 PT [2022/01/01 22:37:02 ET]
+Table 'Apus IV' 9-max Seat #3 is the button
+Seat 1: European1000 ($1.17 in chips) 
+Seat 2: zapper58 ($0.56 in chips) 
+Seat 3: Tikagus ($0.90 in chips) 
+Seat 4: kikbutt656 ($0.29 in chips) 
+Seat 5: 139qmb ($2 in chips) 
+Seat 6: iNteldrive ($3.05 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: dboulay1979 ($2.99 in chips) 
+kikbutt656: posts small blind $0.01
+139qmb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 9c]
+FaithfulDuck joins the table at seat #7 
+iNteldrive: raises $0.04 to $0.06
+Dorex2007: folds 
+dboulay1979: calls $0.06
+European1000: folds 
+zapper58: folds 
+Tikagus: calls $0.06
+kikbutt656: folds 
+139qmb: folds 
+*** FLOP *** [3h 4c 5c]
+iNteldrive: bets $0.09
+dboulay1979: folds 
+Tikagus: calls $0.09
+*** TURN *** [3h 4c 5c] [Qh]
+iNteldrive: checks 
+Tikagus: bets $0.19
+iNteldrive: calls $0.19
+*** RIVER *** [3h 4c 5c Qh] [Ah]
+iNteldrive: checks 
+Tikagus: bets $0.56 and is all-in
+iNteldrive: folds 
+Uncalled bet ($0.56) returned to Tikagus
+Tikagus collected $0.74 from pot
+Tikagus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [3h 4c 5c Qh Ah]
+Seat 1: European1000 folded before Flop (didn't bet)
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus (button) collected ($0.74)
+Seat 4: kikbutt656 (small blind) folded before Flop
+Seat 5: 139qmb (big blind) folded before Flop
+Seat 6: iNteldrive folded on the River
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: dboulay1979 folded on the Flop
+
+
+
+PokerStars Hand #232732667403:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:38:09 PT [2022/01/01 22:38:09 ET]
+Table 'Apus IV' 9-max Seat #4 is the button
+Seat 1: European1000 ($1.17 in chips) 
+Seat 2: zapper58 ($0.56 in chips) 
+Seat 3: Tikagus ($1.30 in chips) 
+Seat 4: kikbutt656 ($0.28 in chips) 
+Seat 5: 139qmb ($1.98 in chips) 
+Seat 6: iNteldrive ($2.71 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: dboulay1979 ($2.93 in chips) 
+139qmb: posts small blind $0.01
+iNteldrive: posts big blind $0.02
+FaithfulDuck: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 7s]
+Dorex2007: folds 
+dboulay1979: raises $0.02 to $0.04
+European1000: folds 
+zapper58: folds 
+Tikagus: calls $0.04
+kikbutt656: calls $0.04
+139qmb: folds 
+iNteldrive: folds 
+*** FLOP *** [8h 2d 5c]
+dboulay1979: bets $0.07
+Tikagus: calls $0.07
+kikbutt656: folds 
+*** TURN *** [8h 2d 5c] [6c]
+dboulay1979: bets $0.14
+Tikagus: calls $0.14
+*** RIVER *** [8h 2d 5c 6c] [Th]
+dboulay1979: checks 
+Tikagus: bets $1.05 and is all-in
+dboulay1979: calls $1.05
+*** SHOW DOWN ***
+Tikagus: shows [Td 7d] (a pair of Tens)
+dboulay1979: shows [9h 9d] (a pair of Nines)
+Tikagus collected $2.58 from pot
+*** SUMMARY ***
+Total pot $2.67 | Rake $0.09 
+Board [8h 2d 5c 6c Th]
+Seat 1: European1000 folded before Flop (didn't bet)
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus showed [Td 7d] and won ($2.58) with a pair of Tens
+Seat 4: kikbutt656 (button) folded on the Flop
+Seat 5: 139qmb (small blind) folded before Flop
+Seat 6: iNteldrive (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: dboulay1979 showed [9h 9d] and lost with a pair of Nines
+
+
+
+PokerStars Hand #232732680661:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:39:06 PT [2022/01/01 22:39:06 ET]
+Table 'Apus IV' 9-max Seat #5 is the button
+Seat 1: European1000 ($1.17 in chips) 
+Seat 2: zapper58 ($0.56 in chips) 
+Seat 3: Tikagus ($2.58 in chips) 
+Seat 4: kikbutt656 ($0.24 in chips) 
+Seat 5: 139qmb ($1.97 in chips) 
+Seat 6: iNteldrive ($2.69 in chips) 
+Seat 7: FaithfulDuck ($2 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: dboulay1979 ($2 in chips) 
+iNteldrive: posts small blind $0.01
+FaithfulDuck: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 6h]
+Dorex2007: folds 
+dboulay1979: raises $0.02 to $0.04
+European1000: folds 
+zapper58: folds 
+Tikagus: folds 
+kikbutt656: calls $0.04
+139qmb: folds 
+iNteldrive: calls $0.03
+FaithfulDuck: calls $0.02
+*** FLOP *** [3h 5c Kh]
+iNteldrive: bets $0.07
+FaithfulDuck: folds 
+dboulay1979: calls $0.07
+kikbutt656: folds 
+*** TURN *** [3h 5c Kh] [8c]
+iNteldrive: bets $0.24
+dboulay1979: calls $0.24
+*** RIVER *** [3h 5c Kh 8c] [Qc]
+iNteldrive: bets $0.62
+dboulay1979: folds 
+Uncalled bet ($0.62) returned to iNteldrive
+iNteldrive collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.78 | Rake $0.03 
+Board [3h 5c Kh 8c Qc]
+Seat 1: European1000 folded before Flop (didn't bet)
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus folded before Flop (didn't bet)
+Seat 4: kikbutt656 folded on the Flop
+Seat 5: 139qmb (button) folded before Flop (didn't bet)
+Seat 6: iNteldrive (small blind) collected ($0.75)
+Seat 7: FaithfulDuck (big blind) folded on the Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: dboulay1979 folded on the River
+
+
+
+PokerStars Hand #232732696362:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:39:58 PT [2022/01/01 22:39:58 ET]
+Table 'Apus IV' 9-max Seat #6 is the button
+Seat 1: European1000 ($1.17 in chips) 
+Seat 2: zapper58 ($0.56 in chips) 
+Seat 3: Tikagus ($2.58 in chips) 
+Seat 4: kikbutt656 ($0.20 in chips) 
+Seat 5: 139qmb ($1.97 in chips) 
+Seat 6: iNteldrive ($3.09 in chips) 
+Seat 7: FaithfulDuck ($1.96 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: dboulay1979 ($2 in chips) 
+FaithfulDuck: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Qd]
+dboulay1979: folds 
+European1000: folds 
+zapper58: folds 
+Tikagus: calls $0.02
+kikbutt656: folds 
+139qmb: folds 
+iNteldrive: raises $0.04 to $0.06
+FaithfulDuck: raises $0.12 to $0.18
+Dorex2007: folds 
+Tikagus: folds 
+dboulay1979 leaves the table
+iNteldrive: folds 
+Uncalled bet ($0.12) returned to FaithfulDuck
+FaithfulDuck collected $0.16 from pot
+FaithfulDuck: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0 
+Seat 1: European1000 folded before Flop (didn't bet)
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus folded before Flop
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 5: 139qmb folded before Flop (didn't bet)
+Seat 6: iNteldrive (button) folded before Flop
+Seat 7: FaithfulDuck (small blind) collected ($0.16)
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: dboulay1979 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232732707681:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:40:47 PT [2022/01/01 22:40:47 ET]
+Table 'Apus IV' 9-max Seat #7 is the button
+Seat 1: European1000 ($1.17 in chips) 
+Seat 2: zapper58 ($0.56 in chips) 
+Seat 3: Tikagus ($2.56 in chips) 
+Seat 4: kikbutt656 ($0.20 in chips) 
+Seat 5: 139qmb ($1.97 in chips) 
+Seat 6: iNteldrive ($3.03 in chips) 
+Seat 7: FaithfulDuck ($2.06 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Dorex2007: posts small blind $0.01
+European1000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Td]
+zapper58: folds 
+pork&beans76 joins the table at seat #9 
+Tikagus has timed out
+Tikagus: folds 
+kikbutt656: folds 
+139qmb: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to European1000
+European1000 collected $0.02 from pot
+European1000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: European1000 (big blind) collected ($0.02)
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus folded before Flop (didn't bet)
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 5: 139qmb folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232732713171:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:41:11 PT [2022/01/01 22:41:11 ET]
+Table 'Apus IV' 9-max Seat #8 is the button
+Seat 1: European1000 ($1.18 in chips) 
+Seat 2: zapper58 ($0.56 in chips) 
+Seat 3: Tikagus ($2.56 in chips) 
+Seat 4: kikbutt656 ($0.20 in chips) 
+Seat 5: 139qmb ($1.97 in chips) 
+Seat 6: iNteldrive ($3.03 in chips) 
+Seat 7: FaithfulDuck ($2.06 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+European1000: posts small blind $0.01
+zapper58: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 2d]
+Tikagus: folds 
+kikbutt656: raises $0.18 to $0.20 and is all-in
+139qmb: folds 
+iNteldrive: folds 
+FaithfulDuck has timed out
+FaithfulDuck: folds 
+Dorex2007: folds 
+European1000: calls $0.19
+zapper58: folds 
+*** FLOP *** [3h 4h 8c]
+*** TURN *** [3h 4h 8c] [4c]
+*** RIVER *** [3h 4h 8c 4c] [As]
+*** SHOW DOWN ***
+European1000: shows [9s 7d] (a pair of Fours)
+kikbutt656: shows [2h Ah] (two pair, Aces and Fours)
+kikbutt656 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [3h 4h 8c 4c As]
+Seat 1: European1000 (small blind) showed [9s 7d] and lost with a pair of Fours
+Seat 2: zapper58 (big blind) folded before Flop
+Seat 3: Tikagus folded before Flop (didn't bet)
+Seat 4: kikbutt656 showed [2h Ah] and won ($0.41) with two pair, Aces and Fours
+Seat 5: 139qmb folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232732725484:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:42:05 PT [2022/01/01 22:42:05 ET]
+Table 'Apus IV' 9-max Seat #1 is the button
+Seat 1: European1000 ($0.98 in chips) 
+Seat 2: zapper58 ($0.54 in chips) 
+Seat 3: Tikagus ($2.56 in chips) 
+Seat 4: kikbutt656 ($0.41 in chips) 
+Seat 5: 139qmb ($1.97 in chips) 
+Seat 6: iNteldrive ($3.03 in chips) 
+Seat 7: FaithfulDuck ($2.06 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: pork&beans76 ($0.82 in chips) 
+zapper58: posts small blind $0.01
+Tikagus: posts big blind $0.02
+pork&beans76: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Qc]
+kikbutt656: folds 
+139qmb: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+pork&beans76: checks 
+European1000: folds 
+zapper58: folds 
+Tikagus: checks 
+*** FLOP *** [As Qh 9s]
+Tikagus: checks 
+pork&beans76: checks 
+*** TURN *** [As Qh 9s] [Js]
+Tikagus: checks 
+pork&beans76: checks 
+*** RIVER *** [As Qh 9s Js] [5d]
+Tikagus: bets $0.05
+pork&beans76: folds 
+Uncalled bet ($0.05) returned to Tikagus
+Tikagus collected $0.05 from pot
+Tikagus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [As Qh 9s Js 5d]
+Seat 1: European1000 (button) folded before Flop (didn't bet)
+Seat 2: zapper58 (small blind) folded before Flop
+Seat 3: Tikagus (big blind) collected ($0.05)
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 5: 139qmb folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pork&beans76 folded on the River (didn't bet)
+
+
+
+PokerStars Hand #232732742939:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:43:22 PT [2022/01/01 22:43:22 ET]
+Table 'Apus IV' 9-max Seat #2 is the button
+Seat 1: European1000 ($0.98 in chips) 
+Seat 2: zapper58 ($0.53 in chips) 
+Seat 3: Tikagus ($2.59 in chips) 
+Seat 4: kikbutt656 ($0.41 in chips) 
+Seat 5: 139qmb ($1.97 in chips) 
+Seat 6: iNteldrive ($3.03 in chips) 
+Seat 7: FaithfulDuck ($2.06 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: pork&beans76 ($0.80 in chips) 
+Tikagus: posts small blind $0.01
+kikbutt656: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 2h]
+139qmb: folds 
+iNteldrive: raises $0.04 to $0.06
+FaithfulDuck: folds 
+Dorex2007: folds 
+pork&beans76: calls $0.06
+European1000: folds 
+zapper58: folds 
+Tikagus: calls $0.05
+kikbutt656: folds 
+*** FLOP *** [2d 2s 6s]
+Tikagus: checks 
+iNteldrive: checks 
+pork&beans76: checks 
+*** TURN *** [2d 2s 6s] [3c]
+Tikagus: bets $0.02
+iNteldrive: calls $0.02
+pork&beans76: calls $0.02
+*** RIVER *** [2d 2s 6s 3c] [7s]
+Tikagus: bets $0.02
+iNteldrive: calls $0.02
+pork&beans76: calls $0.02
+*** SHOW DOWN ***
+Tikagus: shows [Kc Jd] (a pair of Deuces)
+iNteldrive: shows [Ad Qh] (a pair of Deuces - Ace kicker)
+pork&beans76: shows [5h 5c] (two pair, Fives and Deuces)
+pork&beans76 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [2d 2s 6s 3c 7s]
+Seat 1: European1000 folded before Flop (didn't bet)
+Seat 2: zapper58 (button) folded before Flop (didn't bet)
+Seat 3: Tikagus (small blind) showed [Kc Jd] and lost with a pair of Deuces
+Seat 4: kikbutt656 (big blind) folded before Flop
+Seat 5: 139qmb folded before Flop (didn't bet)
+Seat 6: iNteldrive showed [Ad Qh] and lost with a pair of Deuces
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pork&beans76 showed [5h 5c] and won ($0.31) with two pair, Fives and Deuces
+
+
+
+PokerStars Hand #232732758710:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:44:32 PT [2022/01/01 22:44:32 ET]
+Table 'Apus IV' 9-max Seat #3 is the button
+Seat 1: European1000 ($0.98 in chips) 
+Seat 2: zapper58 ($0.53 in chips) 
+Seat 3: Tikagus ($2.49 in chips) 
+Seat 4: kikbutt656 ($0.39 in chips) 
+Seat 5: 139qmb ($1.97 in chips) 
+Seat 6: iNteldrive ($2.93 in chips) 
+Seat 7: FaithfulDuck ($2.06 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: pork&beans76 ($1.01 in chips) 
+kikbutt656: posts small blind $0.01
+139qmb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 4c]
+iNteldrive: raises $0.04 to $0.06
+FaithfulDuck: folds 
+Dorex2007: folds 
+pork&beans76: calls $0.06
+European1000: folds 
+zapper58: folds 
+Tikagus: folds 
+kikbutt656: folds 
+139qmb: folds 
+*** FLOP *** [4d Jc 7s]
+iNteldrive: checks 
+pork&beans76: checks 
+*** TURN *** [4d Jc 7s] [5c]
+iNteldrive: bets $0.06
+pork&beans76: folds 
+Uncalled bet ($0.06) returned to iNteldrive
+iNteldrive collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [4d Jc 7s 5c]
+Seat 1: European1000 folded before Flop (didn't bet)
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus (button) folded before Flop (didn't bet)
+Seat 4: kikbutt656 (small blind) folded before Flop
+Seat 5: 139qmb (big blind) folded before Flop
+Seat 6: iNteldrive collected ($0.14)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pork&beans76 folded on the Turn
+
+
+
+PokerStars Hand #232732767527:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:45:12 PT [2022/01/01 22:45:12 ET]
+Table 'Apus IV' 9-max Seat #4 is the button
+Seat 1: European1000 ($0.98 in chips) 
+Seat 2: zapper58 ($0.53 in chips) 
+Seat 3: Tikagus ($2.49 in chips) 
+Seat 4: kikbutt656 ($0.38 in chips) 
+Seat 5: 139qmb ($1.95 in chips) 
+Seat 6: iNteldrive ($3.01 in chips) 
+Seat 7: FaithfulDuck ($2.06 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: pork&beans76 ($0.95 in chips) 
+139qmb: posts small blind $0.01
+iNteldrive: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Tc]
+FaithfulDuck: folds 
+Dorex2007: folds 
+pork&beans76: calls $0.02
+European1000: calls $0.02
+zapper58: folds 
+Tikagus: folds 
+kikbutt656: folds 
+139qmb: calls $0.01
+iNteldrive: checks 
+*** FLOP *** [9s Ks 4c]
+139qmb: checks 
+iNteldrive: checks 
+pork&beans76: checks 
+European1000: bets $0.04
+139qmb: calls $0.04
+iNteldrive: folds 
+pork&beans76: folds 
+*** TURN *** [9s Ks 4c] [Ac]
+139qmb: checks 
+pork&beans76 leaves the table
+European1000: checks 
+*** RIVER *** [9s Ks 4c Ac] [3h]
+139qmb: checks 
+European1000: bets $0.15
+139qmb: folds 
+Uncalled bet ($0.15) returned to European1000
+European1000 collected $0.15 from pot
+European1000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [9s Ks 4c Ac 3h]
+Seat 1: European1000 collected ($0.15)
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus folded before Flop (didn't bet)
+Seat 4: kikbutt656 (button) folded before Flop (didn't bet)
+Seat 5: 139qmb (small blind) folded on the River
+Seat 6: iNteldrive (big blind) folded on the Flop
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pork&beans76 folded on the Flop
+
+
+
+PokerStars Hand #232732779525:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:46:05 PT [2022/01/01 22:46:05 ET]
+Table 'Apus IV' 9-max Seat #5 is the button
+Seat 1: European1000 ($1.07 in chips) 
+Seat 2: zapper58 ($0.53 in chips) 
+Seat 3: Tikagus ($2.49 in chips) 
+Seat 4: kikbutt656 ($0.38 in chips) 
+Seat 5: 139qmb ($1.89 in chips) 
+Seat 6: iNteldrive ($2.99 in chips) 
+Seat 7: FaithfulDuck ($2.06 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+iNteldrive: posts small blind $0.01
+FaithfulDuck: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Kh]
+pavluha13 joins the table at seat #9 
+Dorex2007: folds 
+European1000: calls $0.02
+zapper58: folds 
+Tikagus: calls $0.02
+kikbutt656: calls $0.02
+139qmb: folds 
+iNteldrive: folds 
+FaithfulDuck: checks 
+*** FLOP *** [Ad 3d Qd]
+FaithfulDuck: checks 
+European1000: bets $0.04
+Tikagus: folds 
+kikbutt656: folds 
+FaithfulDuck: folds 
+Uncalled bet ($0.04) returned to European1000
+European1000 collected $0.09 from pot
+European1000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Ad 3d Qd]
+Seat 1: European1000 collected ($0.09)
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus folded on the Flop
+Seat 4: kikbutt656 folded on the Flop
+Seat 5: 139qmb (button) folded before Flop (didn't bet)
+Seat 6: iNteldrive (small blind) folded before Flop
+Seat 7: FaithfulDuck (big blind) folded on the Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232732803650:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:47:08 PT [2022/01/01 22:47:08 ET]
+Table 'Apus IV' 9-max Seat #6 is the button
+Seat 1: European1000 ($1.14 in chips) 
+Seat 2: zapper58 ($0.53 in chips) 
+Seat 3: Tikagus ($2.47 in chips) 
+Seat 4: kikbutt656 ($0.36 in chips) 
+Seat 5: 139qmb ($1.89 in chips) 
+Seat 6: iNteldrive ($2.98 in chips) 
+Seat 7: FaithfulDuck ($2.04 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+FaithfulDuck: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+pavluha13: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 9d]
+European1000: calls $0.02
+zapper58: folds 
+Tikagus: calls $0.02
+kikbutt656: folds 
+139qmb: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: checks 
+*** FLOP *** [5h 5c Jc]
+Dorex2007: checks 
+European1000: checks 
+Tikagus: checks 
+*** TURN *** [5h 5c Jc] [7s]
+Dorex2007: bets $0.05
+European1000: calls $0.05
+Tikagus: calls $0.05
+*** RIVER *** [5h 5c Jc 7s] [8h]
+Dorex2007: bets $0.14
+European1000: calls $0.14
+Tikagus: folds 
+*** SHOW DOWN ***
+Dorex2007: shows [5s 9d] (three of a kind, Fives)
+European1000: mucks hand 
+Dorex2007 collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [5h 5c Jc 7s 8h]
+Seat 1: European1000 mucked [As Jd]
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus folded on the River
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 5: 139qmb folded before Flop (didn't bet)
+Seat 6: iNteldrive (button) folded before Flop (didn't bet)
+Seat 7: FaithfulDuck (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) showed [5s 9d] and won ($0.48) with three of a kind, Fives
+
+
+
+PokerStars Hand #232732821514:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:48:29 PT [2022/01/01 22:48:29 ET]
+Table 'Apus IV' 9-max Seat #7 is the button
+Seat 1: European1000 ($0.93 in chips) 
+Seat 2: zapper58 ($0.53 in chips) 
+Seat 3: Tikagus ($2.40 in chips) 
+Seat 4: kikbutt656 ($0.36 in chips) 
+Seat 5: 139qmb ($1.89 in chips) 
+Seat 6: iNteldrive ($2.98 in chips) 
+Seat 7: FaithfulDuck ($2.03 in chips) 
+Seat 8: Dorex2007 ($2.27 in chips) 
+Seat 9: pavluha13 ($1 in chips) 
+Dorex2007: posts small blind $0.01
+pavluha13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 3s]
+European1000: calls $0.02
+zapper58: folds 
+Tikagus: calls $0.02
+kikbutt656: folds 
+139qmb: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: checks 
+*** FLOP *** [Kc 5h Td]
+pavluha13: checks 
+European1000: checks 
+Tikagus: checks 
+*** TURN *** [Kc 5h Td] [Jc]
+pavluha13: checks 
+European1000: checks 
+Tikagus: checks 
+*** RIVER *** [Kc 5h Td Jc] [Kd]
+pavluha13: checks 
+European1000: checks 
+Tikagus: checks 
+*** SHOW DOWN ***
+pavluha13: shows [6d 9h] (a pair of Kings)
+European1000: mucks hand 
+Tikagus: shows [6h 9c] (a pair of Kings)
+pavluha13 collected $0.04 from pot
+Tikagus collected $0.03 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Kc 5h Td Jc Kd]
+Seat 1: European1000 mucked [2c 3c]
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus showed [6h 9c] and won ($0.03) with a pair of Kings
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 5: 139qmb folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: pavluha13 (big blind) showed [6d 9h] and won ($0.04) with a pair of Kings
+
+
+
+PokerStars Hand #232732833783:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:49:24 PT [2022/01/01 22:49:24 ET]
+Table 'Apus IV' 9-max Seat #8 is the button
+Seat 1: European1000 ($0.91 in chips) 
+Seat 2: zapper58 ($0.53 in chips) 
+Seat 3: Tikagus ($2.41 in chips) 
+Seat 4: kikbutt656 ($0.36 in chips) 
+Seat 5: 139qmb ($1.89 in chips) 
+Seat 6: iNteldrive ($2.98 in chips) 
+Seat 7: FaithfulDuck ($2.03 in chips) 
+Seat 8: Dorex2007 ($2.26 in chips) 
+Seat 9: pavluha13 ($1.02 in chips) 
+pavluha13: posts small blind $0.01
+European1000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Qc]
+zapper58: folds 
+Tikagus: raises $0.06 to $0.08
+kikbutt656: folds 
+139qmb: folds 
+iNteldrive: folds 
+FaithfulDuck: calls $0.08
+Dorex2007: folds 
+pavluha13: folds 
+European1000: folds 
+*** FLOP *** [4c 9d 3d]
+Tikagus: bets $0.06
+FaithfulDuck: folds 
+Uncalled bet ($0.06) returned to Tikagus
+Tikagus collected $0.18 from pot
+Tikagus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [4c 9d 3d]
+Seat 1: European1000 (big blind) folded before Flop
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus collected ($0.18)
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 5: 139qmb folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded on the Flop
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: pavluha13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232732850170:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:50:01 PT [2022/01/01 22:50:01 ET]
+Table 'Apus IV' 9-max Seat #9 is the button
+Seat 1: European1000 ($0.89 in chips) 
+Seat 2: zapper58 ($0.53 in chips) 
+Seat 3: Tikagus ($2.51 in chips) 
+Seat 4: kikbutt656 ($0.36 in chips) 
+Seat 5: 139qmb ($1.89 in chips) 
+Seat 6: iNteldrive ($2.98 in chips) 
+Seat 7: FaithfulDuck ($1.95 in chips) 
+Seat 8: Dorex2007 ($2.26 in chips) 
+Seat 9: pavluha13 ($1.01 in chips) 
+European1000: posts small blind $0.01
+zapper58: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Tc]
+Tikagus: calls $0.02
+kikbutt656: folds 
+139qmb: folds 
+iNteldrive: folds 
+FaithfulDuck: raises $0.07 to $0.09
+Dorex2007: folds 
+pavluha13: folds 
+European1000: folds 
+zapper58: folds 
+Tikagus: calls $0.07
+*** FLOP *** [Ts 9c 6d]
+Tikagus: checks 
+FaithfulDuck: bets $0.10
+Tikagus: folds 
+Uncalled bet ($0.10) returned to FaithfulDuck
+FaithfulDuck collected $0.20 from pot
+FaithfulDuck: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Ts 9c 6d]
+Seat 1: European1000 (small blind) folded before Flop
+Seat 2: zapper58 (big blind) folded before Flop
+Seat 3: Tikagus folded on the Flop
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 5: 139qmb folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck collected ($0.20)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232732859617:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:50:44 PT [2022/01/01 22:50:44 ET]
+Table 'Apus IV' 9-max Seat #1 is the button
+Seat 1: European1000 ($0.88 in chips) 
+Seat 2: zapper58 ($0.51 in chips) 
+Seat 3: Tikagus ($2.42 in chips) 
+Seat 4: kikbutt656 ($0.36 in chips) 
+Seat 5: 139qmb ($1.89 in chips) 
+Seat 6: iNteldrive ($2.98 in chips) 
+Seat 7: FaithfulDuck ($2.06 in chips) 
+Seat 8: Dorex2007 ($2.26 in chips) 
+Seat 9: pavluha13 ($1.01 in chips) 
+zapper58: posts small blind $0.01
+Tikagus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 5d]
+kikbutt656: folds 
+139qmb: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: folds 
+European1000: folds 
+zapper58: folds 
+Uncalled bet ($0.01) returned to Tikagus
+Tikagus collected $0.02 from pot
+Tikagus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: European1000 (button) folded before Flop (didn't bet)
+Seat 2: zapper58 (small blind) folded before Flop
+Seat 3: Tikagus (big blind) collected ($0.02)
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 5: 139qmb folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232732863032:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:51:00 PT [2022/01/01 22:51:00 ET]
+Table 'Apus IV' 9-max Seat #2 is the button
+Seat 1: European1000 ($0.88 in chips) 
+Seat 2: zapper58 ($0.50 in chips) 
+Seat 3: Tikagus ($2.43 in chips) 
+Seat 4: kikbutt656 ($0.36 in chips) 
+Seat 5: 139qmb ($1.89 in chips) 
+Seat 6: iNteldrive ($2.98 in chips) 
+Seat 7: FaithfulDuck ($2.06 in chips) 
+Seat 8: Dorex2007 ($2.26 in chips) 
+Seat 9: pavluha13 ($1.01 in chips) 
+Tikagus: posts small blind $0.01
+kikbutt656: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 5s]
+139qmb: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: folds 
+European1000: folds 
+zapper58: folds 
+Tikagus: raises $0.02 to $0.04
+kikbutt656: raises $0.32 to $0.36 and is all-in
+Tikagus: calls $0.32
+*** FLOP *** [As 7d 3c]
+*** TURN *** [As 7d 3c] [Qh]
+*** RIVER *** [As 7d 3c Qh] [4d]
+*** SHOW DOWN ***
+Tikagus: shows [Kd Td] (high card Ace)
+kikbutt656: shows [Ts Qc] (a pair of Queens)
+kikbutt656 collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03 
+Board [As 7d 3c Qh 4d]
+Seat 1: European1000 folded before Flop (didn't bet)
+Seat 2: zapper58 (button) folded before Flop (didn't bet)
+Seat 3: Tikagus (small blind) showed [Kd Td] and lost with high card Ace
+Seat 4: kikbutt656 (big blind) showed [Ts Qc] and won ($0.69) with a pair of Queens
+Seat 5: 139qmb folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232732871578:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:51:39 PT [2022/01/01 22:51:39 ET]
+Table 'Apus IV' 9-max Seat #3 is the button
+Seat 1: European1000 ($0.88 in chips) 
+Seat 2: zapper58 ($0.50 in chips) 
+Seat 3: Tikagus ($2.07 in chips) 
+Seat 4: kikbutt656 ($0.69 in chips) 
+Seat 5: 139qmb ($1.89 in chips) 
+Seat 6: iNteldrive ($2.98 in chips) 
+Seat 7: FaithfulDuck ($2.06 in chips) 
+Seat 8: Dorex2007 ($2.26 in chips) 
+Seat 9: pavluha13 ($1.01 in chips) 
+kikbutt656: posts small blind $0.01
+139qmb: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d Jh]
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: folds 
+European1000: folds 
+zapper58: folds 
+Tikagus: folds 
+kikbutt656: raises $0.67 to $0.69 and is all-in
+139qmb: folds 
+Uncalled bet ($0.67) returned to kikbutt656
+kikbutt656 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: European1000 folded before Flop (didn't bet)
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus (button) folded before Flop (didn't bet)
+Seat 4: kikbutt656 (small blind) collected ($0.04)
+Seat 5: 139qmb (big blind) folded before Flop
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232732878889:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:52:13 PT [2022/01/01 22:52:13 ET]
+Table 'Apus IV' 9-max Seat #4 is the button
+Seat 1: European1000 ($0.88 in chips) 
+Seat 2: zapper58 ($0.50 in chips) 
+Seat 3: Tikagus ($2.07 in chips) 
+Seat 4: kikbutt656 ($0.71 in chips) 
+Seat 5: 139qmb ($1.87 in chips) 
+Seat 6: iNteldrive ($2.98 in chips) 
+Seat 7: FaithfulDuck ($2.06 in chips) 
+Seat 8: Dorex2007 ($2.26 in chips) 
+Seat 9: pavluha13 ($1.01 in chips) 
+139qmb: posts small blind $0.01
+iNteldrive: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Td]
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: folds 
+European1000: raises $0.02 to $0.04
+zapper58: folds 
+Tikagus: calls $0.04
+kikbutt656: calls $0.04
+139qmb: folds 
+iNteldrive: calls $0.02
+*** FLOP *** [Ts 4c 7s]
+iNteldrive: bets $0.07
+European1000: raises $0.11 to $0.18
+Tikagus: folds 
+kikbutt656: folds 
+iNteldrive: calls $0.11
+*** TURN *** [Ts 4c 7s] [3h]
+iNteldrive: checks 
+European1000: checks 
+*** RIVER *** [Ts 4c 7s 3h] [Ad]
+iNteldrive: checks 
+European1000: checks 
+*** SHOW DOWN ***
+iNteldrive: shows [Js 8c] (high card Ace)
+European1000: shows [5s 3s] (a pair of Threes)
+European1000 collected $0.51 from pot
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [Ts 4c 7s 3h Ad]
+Seat 1: European1000 showed [5s 3s] and won ($0.51) with a pair of Threes
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus folded on the Flop
+Seat 4: kikbutt656 (button) folded on the Flop
+Seat 5: 139qmb (small blind) folded before Flop
+Seat 6: iNteldrive (big blind) showed [Js 8c] and lost with high card Ace
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232732898575:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:53:43 PT [2022/01/01 22:53:43 ET]
+Table 'Apus IV' 9-max Seat #5 is the button
+Seat 1: European1000 ($1.17 in chips) 
+Seat 2: zapper58 ($0.50 in chips) 
+Seat 3: Tikagus ($2.03 in chips) 
+Seat 4: kikbutt656 ($0.67 in chips) 
+Seat 5: 139qmb ($1.86 in chips) 
+Seat 6: iNteldrive ($2.76 in chips) 
+Seat 7: FaithfulDuck ($2.06 in chips) 
+Seat 8: Dorex2007 ($2.26 in chips) 
+Seat 9: pavluha13 ($1.01 in chips) 
+iNteldrive: posts small blind $0.01
+FaithfulDuck: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Js]
+Dorex2007: folds 
+pavluha13: folds 
+European1000: calls $0.02
+zapper58: folds 
+Tikagus: folds 
+kikbutt656: calls $0.02
+139qmb: calls $0.02
+iNteldrive: calls $0.01
+FaithfulDuck: checks 
+*** FLOP *** [8d 9s Th]
+iNteldrive: checks 
+FaithfulDuck: checks 
+European1000: checks 
+kikbutt656: checks 
+139qmb: checks 
+*** TURN *** [8d 9s Th] [As]
+iNteldrive: bets $0.05
+FaithfulDuck: folds 
+European1000: raises $1.10 to $1.15 and is all-in
+kikbutt656: folds 
+139qmb: folds 
+iNteldrive: folds 
+Uncalled bet ($1.10) returned to European1000
+European1000 collected $0.19 from pot
+European1000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [8d 9s Th As]
+Seat 1: European1000 collected ($0.19)
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus folded before Flop (didn't bet)
+Seat 4: kikbutt656 folded on the Turn
+Seat 5: 139qmb (button) folded on the Turn
+Seat 6: iNteldrive (small blind) folded on the Turn
+Seat 7: FaithfulDuck (big blind) folded on the Turn
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232732908083:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:54:27 PT [2022/01/01 22:54:27 ET]
+Table 'Apus IV' 9-max Seat #6 is the button
+Seat 2: zapper58 ($0.50 in chips) 
+Seat 3: Tikagus ($2.03 in chips) 
+Seat 4: kikbutt656 ($0.65 in chips) 
+Seat 5: 139qmb ($1.84 in chips) 
+Seat 6: iNteldrive ($2.69 in chips) 
+Seat 7: FaithfulDuck ($2.04 in chips) 
+Seat 8: Dorex2007 ($2.26 in chips) 
+Seat 9: pavluha13 ($1.01 in chips) 
+FaithfulDuck: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Ts]
+pavluha13: folds 
+zapper58: folds 
+Tikagus: calls $0.02
+kikbutt656: folds 
+139qmb: raises $0.06 to $0.08
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+Tikagus: folds 
+Uncalled bet ($0.06) returned to 139qmb
+139qmb collected $0.07 from pot
+139qmb: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus folded before Flop
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 5: 139qmb collected ($0.07)
+Seat 6: iNteldrive (button) folded before Flop (didn't bet)
+Seat 7: FaithfulDuck (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232732913516:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:54:53 PT [2022/01/01 22:54:53 ET]
+Table 'Apus IV' 9-max Seat #7 is the button
+Seat 2: zapper58 ($0.50 in chips) 
+Seat 3: Tikagus ($2.01 in chips) 
+Seat 4: kikbutt656 ($0.65 in chips) 
+Seat 5: 139qmb ($1.89 in chips) 
+Seat 6: iNteldrive ($2.69 in chips) 
+Seat 7: FaithfulDuck ($2.03 in chips) 
+Seat 8: Dorex2007 ($2.24 in chips) 
+Seat 9: pavluha13 ($1.01 in chips) 
+Dorex2007: posts small blind $0.01
+pavluha13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 2h]
+zapper58: folds 
+Tikagus: calls $0.02
+kikbutt656: folds 
+139qmb: folds 
+iNteldrive: folds 
+FaithfulDuck: raises $0.07 to $0.09
+Dorex2007: folds 
+pavluha13: folds 
+Tikagus: folds 
+Uncalled bet ($0.07) returned to FaithfulDuck
+FaithfulDuck collected $0.07 from pot
+FaithfulDuck: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus folded before Flop
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 5: 139qmb folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck (button) collected ($0.07)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: pavluha13 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232732920247:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:55:27 PT [2022/01/01 22:55:27 ET]
+Table 'Apus IV' 9-max Seat #8 is the button
+Seat 2: zapper58 ($0.50 in chips) 
+Seat 3: Tikagus ($1.99 in chips) 
+Seat 4: kikbutt656 ($0.65 in chips) 
+Seat 5: 139qmb ($1.89 in chips) 
+Seat 6: iNteldrive ($2.69 in chips) 
+Seat 7: FaithfulDuck ($2.08 in chips) 
+Seat 8: Dorex2007 ($2.23 in chips) 
+Seat 9: pavluha13 ($0.99 in chips) 
+pavluha13: posts small blind $0.01
+zapper58: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 5h]
+Tikagus: folds 
+kikbutt656: folds 
+139qmb: folds 
+iNteldrive: folds 
+FaithfulDuck has timed out
+FaithfulDuck: folds 
+Dorex2007: calls $0.02
+pavluha13: folds 
+zapper58: checks 
+*** FLOP *** [Jc 5s 2c]
+zapper58: checks 
+Dorex2007: checks 
+*** TURN *** [Jc 5s 2c] [Kh]
+zapper58: bets $0.02
+Dorex2007: raises $0.04 to $0.06
+zapper58: calls $0.04
+*** RIVER *** [Jc 5s 2c Kh] [3s]
+zapper58: checks 
+Dorex2007: bets $0.20
+zapper58: folds 
+Uncalled bet ($0.20) returned to Dorex2007
+Dorex2007 collected $0.16 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Jc 5s 2c Kh 3s]
+Seat 2: zapper58 (big blind) folded on the River
+Seat 3: Tikagus folded before Flop (didn't bet)
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 5: 139qmb folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) collected ($0.16)
+Seat 9: pavluha13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232732932963:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:56:39 PT [2022/01/01 22:56:39 ET]
+Table 'Apus IV' 9-max Seat #9 is the button
+Seat 2: zapper58 ($0.42 in chips) 
+Seat 3: Tikagus ($1.99 in chips) 
+Seat 4: kikbutt656 ($0.65 in chips) 
+Seat 5: 139qmb ($1.89 in chips) 
+Seat 6: iNteldrive ($2.69 in chips) 
+Seat 7: FaithfulDuck ($2.08 in chips) 
+Seat 8: Dorex2007 ($2.31 in chips) 
+Seat 9: pavluha13 ($0.98 in chips) 
+zapper58: posts small blind $0.01
+Tikagus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 6s]
+kikbutt656: folds 
+139qmb: folds 
+139qmb leaves the table
+iNteldrive: calls $0.02
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: folds 
+zapper58: calls $0.01
+Tikagus: checks 
+*** FLOP *** [7s Jh 2d]
+zapper58: checks 
+Tikagus: bets $0.04
+iNteldrive: folds 
+zapper58: calls $0.04
+*** TURN *** [7s Jh 2d] [Qd]
+zapper58: checks 
+Tikagus: bets $0.14
+zapper58: folds 
+Uncalled bet ($0.14) returned to Tikagus
+Tikagus collected $0.14 from pot
+Tikagus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [7s Jh 2d Qd]
+Seat 2: zapper58 (small blind) folded on the Turn
+Seat 3: Tikagus (big blind) collected ($0.14)
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 5: 139qmb folded before Flop (didn't bet)
+Seat 6: iNteldrive folded on the Flop
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232732941370:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:57:27 PT [2022/01/01 22:57:27 ET]
+Table 'Apus IV' 9-max Seat #2 is the button
+Seat 1: European1000 ($1.29 in chips) 
+Seat 2: zapper58 ($0.36 in chips) 
+Seat 3: Tikagus ($2.07 in chips) 
+Seat 4: kikbutt656 ($0.65 in chips) 
+Seat 6: iNteldrive ($2.67 in chips) 
+Seat 7: FaithfulDuck ($2.08 in chips) 
+Seat 8: Dorex2007 ($2.31 in chips) 
+Seat 9: pavluha13 ($0.98 in chips) 
+Tikagus: posts small blind $0.01
+kikbutt656: posts big blind $0.02
+European1000: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Ts]
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: raises $0.04 to $0.06
+European1000: folds 
+zapper58: folds 
+Tikagus: calls $0.05
+kikbutt656: folds 
+*** FLOP *** [4d Ad 3s]
+AMackCh joins the table at seat #5 
+Tikagus: checks 
+pavluha13: bets $0.06
+Tikagus: folds 
+Uncalled bet ($0.06) returned to pavluha13
+pavluha13 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [4d Ad 3s]
+Seat 1: European1000 folded before Flop (didn't bet)
+Seat 2: zapper58 (button) folded before Flop (didn't bet)
+Seat 3: Tikagus (small blind) folded on the Flop
+Seat 4: kikbutt656 (big blind) folded before Flop
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 collected ($0.16)
+
+
+
+PokerStars Hand #232732947512:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:58:03 PT [2022/01/01 22:58:03 ET]
+Table 'Apus IV' 9-max Seat #3 is the button
+Seat 1: European1000 ($1.26 in chips) 
+Seat 2: zapper58 ($0.36 in chips) 
+Seat 3: Tikagus ($2.01 in chips) 
+Seat 4: kikbutt656 ($0.63 in chips) 
+Seat 5: AMackCh ($2 in chips) 
+Seat 6: iNteldrive ($2.67 in chips) 
+Seat 7: FaithfulDuck ($2.08 in chips) 
+Seat 8: Dorex2007 ($2.31 in chips) 
+Seat 9: pavluha13 ($1.08 in chips) 
+kikbutt656: posts small blind $0.01
+AMackCh: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 2d]
+iNteldrive: raises $0.04 to $0.06
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: folds 
+European1000: folds 
+zapper58: folds 
+Tikagus: folds 
+kikbutt656: folds 
+AMackCh: calls $0.04
+*** FLOP *** [6d 3s Ac]
+AMackCh: checks 
+iNteldrive: checks 
+*** TURN *** [6d 3s Ac] [Th]
+AMackCh: checks 
+iNteldrive: checks 
+*** RIVER *** [6d 3s Ac Th] [Js]
+AMackCh: bets $0.06
+iNteldrive: folds 
+Uncalled bet ($0.06) returned to AMackCh
+AMackCh collected $0.13 from pot
+AMackCh: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6d 3s Ac Th Js]
+Seat 1: European1000 folded before Flop (didn't bet)
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus (button) folded before Flop (didn't bet)
+Seat 4: kikbutt656 (small blind) folded before Flop
+Seat 5: AMackCh (big blind) collected ($0.13)
+Seat 6: iNteldrive folded on the River
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232732955865:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:58:50 PT [2022/01/01 22:58:50 ET]
+Table 'Apus IV' 9-max Seat #4 is the button
+Seat 1: European1000 ($1.26 in chips) 
+Seat 2: zapper58 ($0.36 in chips) 
+Seat 3: Tikagus ($2.01 in chips) 
+Seat 4: kikbutt656 ($0.62 in chips) 
+Seat 5: AMackCh ($2.07 in chips) 
+Seat 6: iNteldrive ($2.61 in chips) 
+Seat 7: FaithfulDuck ($2.08 in chips) 
+Seat 8: Dorex2007 ($2.31 in chips) 
+Seat 9: pavluha13 ($1.08 in chips) 
+AMackCh: posts small blind $0.01
+iNteldrive: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 9c]
+FaithfulDuck: raises $0.03 to $0.05
+Dorex2007: folds 
+pavluha13: folds 
+European1000: folds 
+zapper58: folds 
+Tikagus: folds 
+kikbutt656: folds 
+AMackCh: folds 
+iNteldrive: calls $0.03
+*** FLOP *** [5h Ah Jh]
+iNteldrive: bets $0.05
+FaithfulDuck: calls $0.05
+*** TURN *** [5h Ah Jh] [Qs]
+iNteldrive: checks 
+FaithfulDuck: checks 
+*** RIVER *** [5h Ah Jh Qs] [3c]
+iNteldrive: checks 
+FaithfulDuck: bets $0.10
+iNteldrive: folds 
+Uncalled bet ($0.10) returned to FaithfulDuck
+FaithfulDuck collected $0.20 from pot
+FaithfulDuck: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [5h Ah Jh Qs 3c]
+Seat 1: European1000 folded before Flop (didn't bet)
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus folded before Flop (didn't bet)
+Seat 4: kikbutt656 (button) folded before Flop (didn't bet)
+Seat 5: AMackCh (small blind) folded before Flop
+Seat 6: iNteldrive (big blind) folded on the River
+Seat 7: FaithfulDuck collected ($0.20)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232732964595:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 19:59:40 PT [2022/01/01 22:59:40 ET]
+Table 'Apus IV' 9-max Seat #5 is the button
+Seat 1: European1000 ($1.26 in chips) 
+Seat 2: zapper58 ($0.36 in chips) 
+Seat 3: Tikagus ($2.01 in chips) 
+Seat 4: kikbutt656 ($0.62 in chips) 
+Seat 5: AMackCh ($2.06 in chips) 
+Seat 6: iNteldrive ($2.51 in chips) 
+Seat 7: FaithfulDuck ($2.18 in chips) 
+Seat 8: Dorex2007 ($2.31 in chips) 
+Seat 9: pavluha13 ($1.08 in chips) 
+iNteldrive: posts small blind $0.01
+FaithfulDuck: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 4d]
+Dorex2007: folds 
+pavluha13: folds 
+European1000: folds 
+zapper58: folds 
+Tikagus: folds 
+kikbutt656: calls $0.02
+AMackCh: folds 
+iNteldrive: raises $0.04 to $0.06
+FaithfulDuck: folds 
+kikbutt656: calls $0.04
+*** FLOP *** [Qs 2c 4h]
+iNteldrive: checks 
+kikbutt656: bets $0.18
+iNteldrive: folds 
+Uncalled bet ($0.18) returned to kikbutt656
+kikbutt656 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Qs 2c 4h]
+Seat 1: European1000 folded before Flop (didn't bet)
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus folded before Flop (didn't bet)
+Seat 4: kikbutt656 collected ($0.14)
+Seat 5: AMackCh (button) folded before Flop (didn't bet)
+Seat 6: iNteldrive (small blind) folded on the Flop
+Seat 7: FaithfulDuck (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232732979059:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:00:53 PT [2022/01/01 23:00:53 ET]
+Table 'Apus IV' 9-max Seat #6 is the button
+Seat 1: European1000 ($1.26 in chips) 
+Seat 2: zapper58 ($0.36 in chips) 
+Seat 3: Tikagus ($2.01 in chips) 
+Seat 4: kikbutt656 ($0.70 in chips) 
+Seat 5: AMackCh ($2.06 in chips) 
+Seat 6: iNteldrive ($2.45 in chips) 
+Seat 7: FaithfulDuck ($2.16 in chips) 
+Seat 8: Dorex2007 ($2.31 in chips) 
+Seat 9: pavluha13 ($1.08 in chips) 
+FaithfulDuck: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Ac]
+pavluha13: folds 
+European1000: folds 
+zapper58: calls $0.02
+Tikagus: folds 
+kikbutt656: folds 
+AMackCh: folds 
+iNteldrive: raises $0.04 to $0.06
+FaithfulDuck: folds 
+Dorex2007: raises $0.08 to $0.14
+zapper58: raises $0.22 to $0.36 and is all-in
+iNteldrive: folds 
+Dorex2007: calls $0.22
+*** FLOP *** [9h 9c 7d]
+*** TURN *** [9h 9c 7d] [Jd]
+*** RIVER *** [9h 9c 7d Jd] [Kh]
+*** SHOW DOWN ***
+Dorex2007: shows [Ah Ac] (two pair, Aces and Nines)
+zapper58: shows [Kc As] (two pair, Kings and Nines)
+zapper58 cashed out the hand for $0.04
+Dorex2007 cashed out the hand for $0.71 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $0.79 | Rake $0.03 
+Board [9h 9c 7d Jd Kh]
+Seat 1: European1000 folded before Flop (didn't bet)
+Seat 2: zapper58 showed [Kc As] and lost with two pair, Kings and Nines (cashed out).
+Seat 3: Tikagus folded before Flop (didn't bet)
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 5: AMackCh folded before Flop (didn't bet)
+Seat 6: iNteldrive (button) folded before Flop
+Seat 7: FaithfulDuck (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) showed [Ah Ac] and won ($0.76) with two pair, Aces and Nines (pot not awarded as player cashed out)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232732989396:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:01:43 PT [2022/01/01 23:01:43 ET]
+Table 'Apus IV' 9-max Seat #7 is the button
+Seat 1: European1000 ($1.26 in chips) 
+Seat 2: zapper58 ($0.04 in chips) 
+Seat 3: Tikagus ($2.01 in chips) 
+Seat 4: kikbutt656 ($0.70 in chips) 
+Seat 5: AMackCh ($2.06 in chips) 
+Seat 6: iNteldrive ($2.39 in chips) 
+Seat 7: FaithfulDuck ($2.15 in chips) 
+Seat 8: Dorex2007 ($2.66 in chips) 
+Seat 9: pavluha13 ($1.08 in chips) 
+Dorex2007: posts small blind $0.01
+pavluha13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 9h]
+European1000: folds 
+zapper58: folds 
+Tikagus: raises $0.02 to $0.04
+kikbutt656: folds 
+AMackCh: folds 
+iNteldrive: raises $0.04 to $0.08
+FaithfulDuck: calls $0.08
+Dorex2007: folds 
+pavluha13: folds 
+Tikagus: calls $0.04
+*** FLOP *** [Qc 5h 5s]
+Tikagus: checks 
+iNteldrive: bets $0.12
+FaithfulDuck: raises $0.25 to $0.37
+Tikagus: folds 
+iNteldrive: raises $1.94 to $2.31 and is all-in
+FaithfulDuck: folds 
+Uncalled bet ($1.94) returned to iNteldrive
+iNteldrive collected $0.97 from pot
+*** SUMMARY ***
+Total pot $1.01 | Rake $0.04 
+Board [Qc 5h 5s]
+Seat 1: European1000 folded before Flop (didn't bet)
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus folded on the Flop
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 5: AMackCh folded before Flop (didn't bet)
+Seat 6: iNteldrive collected ($0.97)
+Seat 7: FaithfulDuck (button) folded on the Flop
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: pavluha13 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232733000526:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:02:36 PT [2022/01/01 23:02:36 ET]
+Table 'Apus IV' 9-max Seat #8 is the button
+Seat 1: European1000 ($1.26 in chips) 
+Seat 2: zapper58 ($0.04 in chips) 
+Seat 3: Tikagus ($1.93 in chips) 
+Seat 4: kikbutt656 ($0.70 in chips) 
+Seat 5: AMackCh ($2.06 in chips) 
+Seat 6: iNteldrive ($2.91 in chips) 
+Seat 7: FaithfulDuck ($1.70 in chips) 
+Seat 8: Dorex2007 ($2.65 in chips) 
+Seat 9: pavluha13 ($1.06 in chips) 
+pavluha13: posts small blind $0.01
+European1000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 2s]
+zapper58: raises $0.02 to $0.04 and is all-in
+Tikagus: folds 
+kikbutt656: folds 
+AMackCh: folds 
+iNteldrive: calls $0.04
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: folds 
+European1000: calls $0.02
+*** FLOP *** [3s 6d Qh]
+European1000: checks 
+iNteldrive: checks 
+*** TURN *** [3s 6d Qh] [9c]
+European1000: checks 
+iNteldrive: bets $0.06
+European1000: folds 
+Uncalled bet ($0.06) returned to iNteldrive
+*** RIVER *** [3s 6d Qh 9c] [7s]
+*** SHOW DOWN ***
+zapper58: shows [8c 8s] (a pair of Eights)
+iNteldrive: shows [8d 7h] (a pair of Sevens)
+zapper58 cashed out the hand for $0.11
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3s 6d Qh 9c 7s]
+Seat 1: European1000 (big blind) folded on the Turn
+Seat 2: zapper58 showed [8c 8s] and won ($0.13) with a pair of Eights (pot not awarded as player cashed out)
+Seat 3: Tikagus folded before Flop (didn't bet)
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 5: AMackCh folded before Flop (didn't bet)
+Seat 6: iNteldrive showed [8d 7h] and lost with a pair of Sevens
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: pavluha13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232733022127:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:03:46 PT [2022/01/01 23:03:46 ET]
+Table 'Apus IV' 9-max Seat #9 is the button
+Seat 1: European1000 ($1.22 in chips) 
+Seat 2: zapper58 ($0.11 in chips) 
+Seat 3: Tikagus ($1.93 in chips) 
+Seat 4: kikbutt656 ($0.70 in chips) 
+Seat 5: AMackCh ($2.06 in chips) 
+Seat 6: iNteldrive ($2.87 in chips) 
+Seat 7: FaithfulDuck ($1.70 in chips) 
+Seat 8: Dorex2007 ($2.65 in chips) 
+Seat 9: pavluha13 ($1.05 in chips) 
+European1000: posts small blind $0.01
+zapper58: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Ah]
+Tikagus: calls $0.02
+kikbutt656: folds 
+AMackCh: folds 
+iNteldrive: raises $0.04 to $0.06
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: folds 
+European1000: folds 
+zapper58: folds 
+Tikagus: calls $0.04
+*** FLOP *** [Tc Ks 6d]
+Tikagus: checks 
+iNteldrive: checks 
+*** TURN *** [Tc Ks 6d] [Jh]
+Tikagus: bets $0.04
+iNteldrive: calls $0.04
+*** RIVER *** [Tc Ks 6d Jh] [9h]
+Tikagus: bets $0.22
+iNteldrive: raises $0.54 to $0.76
+Tikagus: calls $0.54
+*** SHOW DOWN ***
+iNteldrive: shows [Qs Ts] (a straight, Nine to King)
+Tikagus: shows [Qc Jc] (a straight, Nine to King)
+Tikagus collected $0.85 from pot
+iNteldrive collected $0.84 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.06 
+Board [Tc Ks 6d Jh 9h]
+Seat 1: European1000 (small blind) folded before Flop
+Seat 2: zapper58 (big blind) folded before Flop
+Seat 3: Tikagus showed [Qc Jc] and won ($0.85) with a straight, Nine to King
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 5: AMackCh folded before Flop (didn't bet)
+Seat 6: iNteldrive showed [Qs Ts] and won ($0.84) with a straight, Nine to King
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733036625:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:04:55 PT [2022/01/01 23:04:55 ET]
+Table 'Apus IV' 9-max Seat #1 is the button
+Seat 1: European1000 ($1.21 in chips) 
+Seat 2: zapper58 ($0.09 in chips) 
+Seat 3: Tikagus ($1.92 in chips) 
+Seat 4: kikbutt656 ($0.70 in chips) 
+Seat 5: AMackCh ($2.06 in chips) 
+Seat 6: iNteldrive ($2.85 in chips) 
+Seat 7: FaithfulDuck ($1.70 in chips) 
+Seat 8: Dorex2007 ($2.65 in chips) 
+Seat 9: pavluha13 ($1.05 in chips) 
+zapper58: posts small blind $0.01
+Tikagus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Jh]
+kikbutt656: calls $0.02
+AMackCh: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: raises $0.02 to $0.04
+pavluha13: folds 
+European1000: folds 
+zapper58: folds 
+Tikagus: folds 
+kikbutt656: calls $0.02
+*** FLOP *** [3h 2s Ts]
+kikbutt656: bets $0.66 and is all-in
+Dorex2007: folds 
+Uncalled bet ($0.66) returned to kikbutt656
+kikbutt656 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [3h 2s Ts]
+Seat 1: European1000 (button) folded before Flop (didn't bet)
+Seat 2: zapper58 (small blind) folded before Flop
+Seat 3: Tikagus (big blind) folded before Flop
+Seat 4: kikbutt656 collected ($0.11)
+Seat 5: AMackCh folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded on the Flop
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733051478:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:05:37 PT [2022/01/01 23:05:37 ET]
+Table 'Apus IV' 9-max Seat #2 is the button
+Seat 1: European1000 ($1.21 in chips) 
+Seat 2: zapper58 ($0.08 in chips) 
+Seat 3: Tikagus ($1.90 in chips) 
+Seat 4: kikbutt656 ($0.77 in chips) 
+Seat 5: AMackCh ($2.06 in chips) 
+Seat 6: iNteldrive ($2.85 in chips) 
+Seat 7: FaithfulDuck ($2 in chips) 
+Seat 8: Dorex2007 ($2.61 in chips) 
+Seat 9: pavluha13 ($1.05 in chips) 
+Tikagus: posts small blind $0.01
+kikbutt656: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d Ts]
+AMackCh: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: folds 
+European1000: calls $0.02
+zapper58: folds 
+Tikagus: calls $0.01
+kikbutt656: checks 
+*** FLOP *** [5s 8s 4s]
+Tikagus: checks 
+kikbutt656: bets $0.10
+European1000: folds 
+Tikagus: folds 
+Uncalled bet ($0.10) returned to kikbutt656
+kikbutt656 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [5s 8s 4s]
+Seat 1: European1000 folded on the Flop
+Seat 2: zapper58 (button) folded before Flop (didn't bet)
+Seat 3: Tikagus (small blind) folded on the Flop
+Seat 4: kikbutt656 (big blind) collected ($0.06)
+Seat 5: AMackCh folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733057663:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:06:07 PT [2022/01/01 23:06:07 ET]
+Table 'Apus IV' 9-max Seat #3 is the button
+Seat 1: European1000 ($1.19 in chips) 
+Seat 2: zapper58 ($0.08 in chips) 
+Seat 3: Tikagus ($1.88 in chips) 
+Seat 4: kikbutt656 ($0.81 in chips) 
+Seat 5: AMackCh ($2.06 in chips) 
+Seat 6: iNteldrive ($2.85 in chips) 
+Seat 7: FaithfulDuck ($2 in chips) 
+Seat 8: Dorex2007 ($2.61 in chips) 
+Seat 9: pavluha13 ($1.05 in chips) 
+kikbutt656: posts small blind $0.01
+AMackCh: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 6c]
+iNteldrive has timed out
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: folds 
+European1000: folds 
+zapper58: folds 
+Tikagus: calls $0.02
+kikbutt656: calls $0.01
+AMackCh: checks 
+*** FLOP *** [8h Ac 3h]
+kikbutt656: checks 
+AMackCh: checks 
+Tikagus: bets $0.06
+kikbutt656: calls $0.06
+AMackCh: folds 
+*** TURN *** [8h Ac 3h] [4h]
+kikbutt656: bets $0.73 and is all-in
+Tikagus: folds 
+Uncalled bet ($0.73) returned to kikbutt656
+kikbutt656 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [8h Ac 3h 4h]
+Seat 1: European1000 folded before Flop (didn't bet)
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus (button) folded on the Turn
+Seat 4: kikbutt656 (small blind) collected ($0.17)
+Seat 5: AMackCh (big blind) folded on the Flop
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733070986:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:07:10 PT [2022/01/01 23:07:10 ET]
+Table 'Apus IV' 9-max Seat #4 is the button
+Seat 1: European1000 ($1.19 in chips) 
+Seat 2: zapper58 ($0.08 in chips) 
+Seat 3: Tikagus ($1.80 in chips) 
+Seat 4: kikbutt656 ($0.90 in chips) 
+Seat 5: AMackCh ($2.04 in chips) 
+Seat 6: iNteldrive ($2.85 in chips) 
+Seat 7: FaithfulDuck ($2 in chips) 
+Seat 8: Dorex2007 ($2.61 in chips) 
+Seat 9: pavluha13 ($1.05 in chips) 
+AMackCh: posts small blind $0.01
+iNteldrive: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 3h]
+FaithfulDuck: raises $0.03 to $0.05
+Dorex2007: folds 
+pavluha13: folds 
+European1000: folds 
+zapper58: folds 
+Tikagus: folds 
+kikbutt656: folds 
+AMackCh: folds 
+iNteldrive: calls $0.03
+*** FLOP *** [Td Qc 9h]
+iNteldrive: checks 
+FaithfulDuck: bets $0.06
+iNteldrive: calls $0.06
+*** TURN *** [Td Qc 9h] [6h]
+iNteldrive: checks 
+FaithfulDuck: checks 
+*** RIVER *** [Td Qc 9h 6h] [2h]
+iNteldrive: bets $0.10
+FaithfulDuck: folds 
+Uncalled bet ($0.10) returned to iNteldrive
+iNteldrive collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Td Qc 9h 6h 2h]
+Seat 1: European1000 folded before Flop (didn't bet)
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus folded before Flop (didn't bet)
+Seat 4: kikbutt656 (button) folded before Flop (didn't bet)
+Seat 5: AMackCh (small blind) folded before Flop
+Seat 6: iNteldrive (big blind) collected ($0.22)
+Seat 7: FaithfulDuck folded on the River
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733078165:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:07:45 PT [2022/01/01 23:07:45 ET]
+Table 'Apus IV' 9-max Seat #5 is the button
+Seat 1: European1000 ($1.19 in chips) 
+Seat 2: zapper58 ($0.08 in chips) 
+Seat 3: Tikagus ($1.80 in chips) 
+Seat 4: kikbutt656 ($0.90 in chips) 
+Seat 5: AMackCh ($2.03 in chips) 
+Seat 6: iNteldrive ($2.96 in chips) 
+Seat 7: FaithfulDuck ($1.89 in chips) 
+Seat 8: Dorex2007 ($2.61 in chips) 
+Seat 9: pavluha13 ($1.05 in chips) 
+iNteldrive: posts small blind $0.01
+FaithfulDuck: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 9h]
+Dorex2007: folds 
+pavluha13: folds 
+European1000: calls $0.02
+zapper58: folds 
+Tikagus: folds 
+kikbutt656: calls $0.02
+AMackCh: folds 
+iNteldrive: calls $0.01
+FaithfulDuck: raises $0.04 to $0.06
+European1000: calls $0.04
+kikbutt656: calls $0.04
+iNteldrive: folds 
+*** FLOP *** [Qd Jd As]
+FaithfulDuck: bets $0.10
+European1000: calls $0.10
+kikbutt656: folds 
+*** TURN *** [Qd Jd As] [6s]
+FaithfulDuck: checks 
+European1000: checks 
+*** RIVER *** [Qd Jd As 6s] [2h]
+FaithfulDuck: checks 
+European1000: checks 
+*** SHOW DOWN ***
+FaithfulDuck: shows [Jh 8d] (a pair of Jacks)
+European1000: shows [Kd Jc] (a pair of Jacks - Ace+King kicker)
+European1000 collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [Qd Jd As 6s 2h]
+Seat 1: European1000 showed [Kd Jc] and won ($0.39) with a pair of Jacks
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus folded before Flop (didn't bet)
+Seat 4: kikbutt656 folded on the Flop
+Seat 5: AMackCh (button) folded before Flop (didn't bet)
+Seat 6: iNteldrive (small blind) folded before Flop
+Seat 7: FaithfulDuck (big blind) showed [Jh 8d] and lost with a pair of Jacks
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733091404:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:08:48 PT [2022/01/01 23:08:48 ET]
+Table 'Apus IV' 9-max Seat #6 is the button
+Seat 1: European1000 ($1.42 in chips) 
+Seat 2: zapper58 ($0.08 in chips) 
+Seat 3: Tikagus ($1.80 in chips) 
+Seat 4: kikbutt656 ($0.84 in chips) 
+Seat 5: AMackCh ($2.03 in chips) 
+Seat 6: iNteldrive ($2.94 in chips) 
+Seat 7: FaithfulDuck ($1.84 in chips) 
+Seat 8: Dorex2007 ($2.61 in chips) 
+Seat 9: pavluha13 ($1.05 in chips) 
+FaithfulDuck: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 2d]
+pavluha13: folds 
+European1000: folds 
+zapper58: folds 
+Tikagus: raises $0.02 to $0.04
+kikbutt656: folds 
+AMackCh: folds 
+iNteldrive: raises $0.06 to $0.10
+FaithfulDuck: folds 
+Dorex2007: folds 
+Tikagus: calls $0.06
+*** FLOP *** [2h Qs As]
+Tikagus: bets $0.04
+iNteldrive: calls $0.04
+*** TURN *** [2h Qs As] [Kh]
+Tikagus: bets $0.04
+iNteldrive: raises $0.17 to $0.21
+Tikagus: calls $0.17
+*** RIVER *** [2h Qs As Kh] [Td]
+Tikagus: bets $1.45 and is all-in
+iNteldrive: folds 
+Uncalled bet ($1.45) returned to Tikagus
+Tikagus collected $0.70 from pot
+Tikagus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [2h Qs As Kh Td]
+Seat 1: European1000 folded before Flop (didn't bet)
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus collected ($0.70)
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 5: AMackCh folded before Flop (didn't bet)
+Seat 6: iNteldrive (button) folded on the River
+Seat 7: FaithfulDuck (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733109277:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:10:14 PT [2022/01/01 23:10:14 ET]
+Table 'Apus IV' 9-max Seat #7 is the button
+Seat 1: European1000 ($1.42 in chips) 
+Seat 2: zapper58 ($0.08 in chips) 
+Seat 3: Tikagus ($2.15 in chips) 
+Seat 4: kikbutt656 ($0.84 in chips) 
+Seat 5: AMackCh ($2.03 in chips) 
+Seat 6: iNteldrive ($2.59 in chips) 
+Seat 7: FaithfulDuck ($1.99 in chips) 
+Seat 8: Dorex2007 ($2.59 in chips) 
+Seat 9: pavluha13 ($1.05 in chips) 
+Dorex2007: posts small blind $0.01
+pavluha13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 5h]
+European1000: folds 
+zapper58: folds 
+Tikagus: calls $0.02
+kikbutt656: folds 
+AMackCh: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: checks 
+*** FLOP *** [8c 3s Qh]
+pavluha13: checks 
+Tikagus: checks 
+*** TURN *** [8c 3s Qh] [3c]
+pavluha13: checks 
+Tikagus: checks 
+*** RIVER *** [8c 3s Qh 3c] [4h]
+pavluha13: checks 
+Tikagus: bets $0.02
+pavluha13: folds 
+Uncalled bet ($0.02) returned to Tikagus
+Tikagus collected $0.05 from pot
+Tikagus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8c 3s Qh 3c 4h]
+Seat 1: European1000 folded before Flop (didn't bet)
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus collected ($0.05)
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 5: AMackCh folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: pavluha13 (big blind) folded on the River
+
+
+
+PokerStars Hand #232733116904:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:10:51 PT [2022/01/01 23:10:51 ET]
+Table 'Apus IV' 9-max Seat #8 is the button
+Seat 1: European1000 ($1.42 in chips) 
+Seat 2: zapper58 ($0.08 in chips) 
+Seat 3: Tikagus ($2.18 in chips) 
+Seat 4: kikbutt656 ($0.84 in chips) 
+Seat 5: AMackCh ($2.03 in chips) 
+Seat 6: iNteldrive ($2.59 in chips) 
+Seat 7: FaithfulDuck ($1.99 in chips) 
+Seat 8: Dorex2007 ($2.58 in chips) 
+Seat 9: pavluha13 ($1.03 in chips) 
+pavluha13: posts small blind $0.01
+European1000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Ac]
+zapper58: folds 
+Tikagus: folds 
+kikbutt656: folds 
+AMackCh: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: raises $0.04 to $0.06
+pavluha13: folds 
+European1000: calls $0.04
+*** FLOP *** [8s 2c 3d]
+European1000: bets $0.10
+Dorex2007: raises $0.16 to $0.26
+European1000: calls $0.16
+*** TURN *** [8s 2c 3d] [8c]
+European1000: checks 
+Dorex2007: bets $2.26 and is all-in
+European1000: folds 
+Uncalled bet ($2.26) returned to Dorex2007
+Dorex2007 collected $0.63 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [8s 2c 3d 8c]
+Seat 1: European1000 (big blind) folded on the Turn
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: Tikagus folded before Flop (didn't bet)
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 5: AMackCh folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) collected ($0.63)
+Seat 9: pavluha13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232733128138:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:11:47 PT [2022/01/01 23:11:47 ET]
+Table 'Apus IV' 9-max Seat #9 is the button
+Seat 1: European1000 ($1.10 in chips) 
+Seat 2: zapper58 ($0.08 in chips) 
+Seat 3: Tikagus ($2.18 in chips) 
+Seat 4: kikbutt656 ($0.84 in chips) 
+Seat 5: AMackCh ($2.03 in chips) 
+Seat 6: iNteldrive ($2.59 in chips) 
+Seat 7: FaithfulDuck ($1.99 in chips) 
+Seat 8: Dorex2007 ($2.89 in chips) 
+Seat 9: pavluha13 ($1.02 in chips) 
+European1000: posts small blind $0.01
+zapper58: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 8c]
+Tikagus: folds 
+kikbutt656: calls $0.02
+AMackCh: folds 
+iNteldrive: folds 
+Tikagus leaves the table
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: calls $0.02
+European1000: calls $0.01
+zapper58: checks 
+*** FLOP *** [5d 2s Qs]
+European1000: checks 
+zapper58: checks 
+kikbutt656: checks 
+shane40501 joins the table at seat #3 
+pavluha13: checks 
+*** TURN *** [5d 2s Qs] [9h]
+European1000: checks 
+zapper58: checks 
+kikbutt656: checks 
+pavluha13: checks 
+*** RIVER *** [5d 2s Qs 9h] [2d]
+European1000: checks 
+zapper58: checks 
+kikbutt656: checks 
+pavluha13: checks 
+*** SHOW DOWN ***
+European1000: shows [8d 7h] (a pair of Deuces)
+zapper58: shows [3h 3s] (two pair, Threes and Deuces)
+kikbutt656: mucks hand 
+pavluha13: mucks hand 
+zapper58 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [5d 2s Qs 9h 2d]
+Seat 1: European1000 (small blind) showed [8d 7h] and lost with a pair of Deuces
+Seat 2: zapper58 (big blind) showed [3h 3s] and won ($0.08) with two pair, Threes and Deuces
+Seat 3: Tikagus folded before Flop (didn't bet)
+Seat 4: kikbutt656 mucked [Th Kd]
+Seat 5: AMackCh folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 (button) mucked [7s 8s]
+
+
+
+PokerStars Hand #232733139940:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:12:45 PT [2022/01/01 23:12:45 ET]
+Table 'Apus IV' 9-max Seat #1 is the button
+Seat 1: European1000 ($1.08 in chips) 
+Seat 2: zapper58 ($0.14 in chips) 
+Seat 3: shane40501 ($2 in chips) 
+Seat 4: kikbutt656 ($0.82 in chips) 
+Seat 5: AMackCh ($2.03 in chips) 
+Seat 6: iNteldrive ($2.59 in chips) 
+Seat 7: FaithfulDuck ($1.99 in chips) 
+Seat 8: Dorex2007 ($2.89 in chips) 
+Seat 9: pavluha13 ($1 in chips) 
+zapper58: posts small blind $0.01
+shane40501: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 7d]
+kikbutt656: raises $0.02 to $0.04
+AMackCh: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: folds 
+European1000: folds 
+zapper58: folds 
+shane40501: calls $0.02
+*** FLOP *** [Qs Jh 4h]
+shane40501: checks 
+kikbutt656: checks 
+*** TURN *** [Qs Jh 4h] [Jd]
+shane40501: checks 
+kikbutt656: bets $0.10
+shane40501: folds 
+Uncalled bet ($0.10) returned to kikbutt656
+kikbutt656 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Qs Jh 4h Jd]
+Seat 1: European1000 (button) folded before Flop (didn't bet)
+Seat 2: zapper58 (small blind) folded before Flop
+Seat 3: shane40501 (big blind) folded on the Turn
+Seat 4: kikbutt656 collected ($0.09)
+Seat 5: AMackCh folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733149863:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:13:34 PT [2022/01/01 23:13:34 ET]
+Table 'Apus IV' 9-max Seat #2 is the button
+Seat 1: European1000 ($1.08 in chips) 
+Seat 2: zapper58 ($0.13 in chips) 
+Seat 3: shane40501 ($1.96 in chips) 
+Seat 4: kikbutt656 ($0.87 in chips) 
+Seat 5: AMackCh ($2.03 in chips) 
+Seat 6: iNteldrive ($2.59 in chips) 
+Seat 7: FaithfulDuck ($1.99 in chips) 
+Seat 8: Dorex2007 ($2.89 in chips) 
+Seat 9: pavluha13 ($1 in chips) 
+shane40501: posts small blind $0.01
+kikbutt656: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 3h]
+AMackCh: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: folds 
+European1000: raises $0.02 to $0.04
+zapper58: folds 
+shane40501: folds 
+kikbutt656: folds 
+Uncalled bet ($0.02) returned to European1000
+European1000 collected $0.05 from pot
+European1000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: European1000 collected ($0.05)
+Seat 2: zapper58 (button) folded before Flop (didn't bet)
+Seat 3: shane40501 (small blind) folded before Flop
+Seat 4: kikbutt656 (big blind) folded before Flop
+Seat 5: AMackCh folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733164336:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:14:00 PT [2022/01/01 23:14:00 ET]
+Table 'Apus IV' 9-max Seat #3 is the button
+Seat 1: European1000 ($1.11 in chips) 
+Seat 2: zapper58 ($0.13 in chips) 
+Seat 3: shane40501 ($1.95 in chips) 
+Seat 4: kikbutt656 ($0.85 in chips) 
+Seat 5: AMackCh ($2.03 in chips) 
+Seat 6: iNteldrive ($2.59 in chips) 
+Seat 7: FaithfulDuck ($1.99 in chips) 
+Seat 8: Dorex2007 ($2.89 in chips) 
+Seat 9: pavluha13 ($1 in chips) 
+kikbutt656: posts small blind $0.01
+AMackCh: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Ts]
+iNteldrive: folds 
+FaithfulDuck: raises $0.03 to $0.05
+Dorex2007: calls $0.05
+pavluha13: folds 
+European1000: calls $0.05
+zapper58: folds 
+shane40501: folds 
+kikbutt656: folds 
+AMackCh: folds 
+*** FLOP *** [As Kc 2h]
+FaithfulDuck: bets $0.11
+Dorex2007: folds 
+European1000: folds 
+Uncalled bet ($0.11) returned to FaithfulDuck
+FaithfulDuck collected $0.17 from pot
+FaithfulDuck: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [As Kc 2h]
+Seat 1: European1000 folded on the Flop
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: shane40501 (button) folded before Flop (didn't bet)
+Seat 4: kikbutt656 (small blind) folded before Flop
+Seat 5: AMackCh (big blind) folded before Flop
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck collected ($0.17)
+Seat 8: Dorex2007 folded on the Flop
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733170513:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:14:31 PT [2022/01/01 23:14:31 ET]
+Table 'Apus IV' 9-max Seat #4 is the button
+Seat 1: European1000 ($1.06 in chips) 
+Seat 2: zapper58 ($0.13 in chips) 
+Seat 3: shane40501 ($1.95 in chips) 
+Seat 4: kikbutt656 ($0.84 in chips) 
+Seat 5: AMackCh ($2.01 in chips) 
+Seat 6: iNteldrive ($2.59 in chips) 
+Seat 7: FaithfulDuck ($2.11 in chips) 
+Seat 8: Dorex2007 ($2.84 in chips) 
+Seat 9: pavluha13 ($1 in chips) 
+AMackCh: posts small blind $0.01
+iNteldrive: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 7d]
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: folds 
+European1000: raises $0.02 to $0.04
+zapper58: folds 
+shane40501: folds 
+kikbutt656: folds 
+AMackCh: folds 
+iNteldrive: folds 
+Uncalled bet ($0.02) returned to European1000
+European1000 collected $0.05 from pot
+European1000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: European1000 collected ($0.05)
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 4: kikbutt656 (button) folded before Flop (didn't bet)
+Seat 5: AMackCh (small blind) folded before Flop
+Seat 6: iNteldrive (big blind) folded before Flop
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733176847:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:15:02 PT [2022/01/01 23:15:02 ET]
+Table 'Apus IV' 9-max Seat #5 is the button
+Seat 1: European1000 ($1.09 in chips) 
+Seat 2: zapper58 ($0.13 in chips) 
+Seat 3: shane40501 ($1.95 in chips) 
+Seat 4: kikbutt656 ($0.84 in chips) 
+Seat 5: AMackCh ($2 in chips) 
+Seat 6: iNteldrive ($2.57 in chips) 
+Seat 7: FaithfulDuck ($2.11 in chips) 
+Seat 8: Dorex2007 ($2.84 in chips) 
+Seat 9: pavluha13 ($1 in chips) 
+iNteldrive: posts small blind $0.01
+FaithfulDuck: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 3s]
+Dorex2007: folds 
+pavluha13: folds 
+European1000: raises $0.04 to $0.06
+zapper58: folds 
+shane40501: folds 
+kikbutt656: folds 
+AMackCh: calls $0.06
+iNteldrive: calls $0.05
+FaithfulDuck: folds 
+*** FLOP *** [Th 9s Js]
+iNteldrive: checks 
+European1000: checks 
+AMackCh: bets $0.06
+iNteldrive: folds 
+European1000: calls $0.06
+*** TURN *** [Th 9s Js] [Ac]
+European1000: checks 
+AMackCh: bets $0.16
+European1000: calls $0.16
+*** RIVER *** [Th 9s Js Ac] [8s]
+European1000: checks 
+AMackCh: bets $0.16
+European1000: raises $0.65 to $0.81 and is all-in
+AMackCh: calls $0.65
+*** SHOW DOWN ***
+European1000: shows [Qc Qd] (a straight, Eight to Queen)
+AMackCh: shows [Kd Qs] (a straight, Ten to Ace)
+AMackCh collected $2.18 from pot
+*** SUMMARY ***
+Total pot $2.26 | Rake $0.08 
+Board [Th 9s Js Ac 8s]
+Seat 1: European1000 showed [Qc Qd] and lost with a straight, Eight to Queen
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 5: AMackCh (button) showed [Kd Qs] and won ($2.18) with a straight, Ten to Ace
+Seat 6: iNteldrive (small blind) folded on the Flop
+Seat 7: FaithfulDuck (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733200805:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:16:44 PT [2022/01/01 23:16:44 ET]
+Table 'Apus IV' 9-max Seat #6 is the button
+Seat 2: zapper58 ($0.13 in chips) 
+Seat 3: shane40501 ($1.95 in chips) 
+Seat 5: AMackCh ($3.09 in chips) 
+Seat 6: iNteldrive ($2.51 in chips) 
+Seat 7: FaithfulDuck ($2.09 in chips) 
+Seat 8: Dorex2007 ($2.84 in chips) 
+Seat 9: pavluha13 ($1 in chips) 
+FaithfulDuck: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Qd]
+pavluha13: folds 
+zapper58: calls $0.02
+shane40501: folds 
+AMackCh: folds 
+iNteldrive: folds 
+FaithfulDuck: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [Tc 2c 4s]
+FaithfulDuck: checks 
+Dorex2007: checks 
+zapper58: checks 
+*** TURN *** [Tc 2c 4s] [Td]
+FaithfulDuck: bets $0.04
+Dorex2007: folds 
+zapper58: folds 
+Uncalled bet ($0.04) returned to FaithfulDuck
+FaithfulDuck collected $0.06 from pot
+FaithfulDuck: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Tc 2c 4s Td]
+Seat 2: zapper58 folded on the Turn
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 5: AMackCh folded before Flop (didn't bet)
+Seat 6: iNteldrive (button) folded before Flop (didn't bet)
+Seat 7: FaithfulDuck (small blind) collected ($0.06)
+Seat 8: Dorex2007 (big blind) folded on the Turn
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733208859:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:17:24 PT [2022/01/01 23:17:24 ET]
+Table 'Apus IV' 9-max Seat #7 is the button
+Seat 2: zapper58 ($0.11 in chips) 
+Seat 3: shane40501 ($1.95 in chips) 
+Seat 5: AMackCh ($3.09 in chips) 
+Seat 6: iNteldrive ($2.51 in chips) 
+Seat 7: FaithfulDuck ($2.13 in chips) 
+Seat 8: Dorex2007 ($2.82 in chips) 
+Seat 9: pavluha13 ($1 in chips) 
+Dorex2007: posts small blind $0.01
+pavluha13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 5s]
+zapper58: folds 
+shane40501: folds 
+AMackCh: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to pavluha13
+pavluha13 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 5: AMackCh folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: pavluha13 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #232733211942:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:17:39 PT [2022/01/01 23:17:39 ET]
+Table 'Apus IV' 9-max Seat #8 is the button
+Seat 2: zapper58 ($0.11 in chips) 
+Seat 3: shane40501 ($1.95 in chips) 
+Seat 5: AMackCh ($3.09 in chips) 
+Seat 6: iNteldrive ($2.51 in chips) 
+Seat 7: FaithfulDuck ($2.13 in chips) 
+Seat 8: Dorex2007 ($2.81 in chips) 
+Seat 9: pavluha13 ($1.01 in chips) 
+pavluha13: posts small blind $0.01
+zapper58: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 5h]
+shane40501: folds 
+AMackCh: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: folds 
+Uncalled bet ($0.01) returned to zapper58
+zapper58 collected $0.02 from pot
+zapper58: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: zapper58 (big blind) collected ($0.02)
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 5: AMackCh folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: pavluha13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232733214744:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:17:53 PT [2022/01/01 23:17:53 ET]
+Table 'Apus IV' 9-max Seat #9 is the button
+Seat 2: zapper58 ($0.12 in chips) 
+Seat 3: shane40501 ($1.95 in chips) 
+Seat 5: AMackCh ($3.09 in chips) 
+Seat 6: iNteldrive ($2.51 in chips) 
+Seat 7: FaithfulDuck ($2.13 in chips) 
+Seat 8: Dorex2007 ($2.81 in chips) 
+Seat 9: pavluha13 ($1 in chips) 
+zapper58: posts small blind $0.01
+shane40501: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s Ac]
+AMackCh: folds 
+iNteldrive: raises $0.04 to $0.06
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: folds 
+zapper58: folds 
+shane40501: raises $0.04 to $0.10
+iNteldrive: calls $0.04
+*** FLOP *** [7d 9d Jc]
+shane40501: bets $0.12
+iNteldrive: raises $0.20 to $0.32
+shane40501: calls $0.20
+*** TURN *** [7d 9d Jc] [Th]
+shane40501: checks 
+iNteldrive: bets $0.67
+shane40501: folds 
+Uncalled bet ($0.67) returned to iNteldrive
+iNteldrive collected $0.82 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.03 
+Board [7d 9d Jc Th]
+Seat 2: zapper58 (small blind) folded before Flop
+Seat 3: shane40501 (big blind) folded on the Turn
+Seat 5: AMackCh folded before Flop (didn't bet)
+Seat 6: iNteldrive collected ($0.82)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733231533:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:19:17 PT [2022/01/01 23:19:17 ET]
+Table 'Apus IV' 9-max Seat #2 is the button
+Seat 2: zapper58 ($0.11 in chips) 
+Seat 3: shane40501 ($1.53 in chips) 
+Seat 6: iNteldrive ($2.91 in chips) 
+Seat 7: FaithfulDuck ($2.13 in chips) 
+Seat 8: Dorex2007 ($2.81 in chips) 
+Seat 9: pavluha13 ($1 in chips) 
+shane40501: posts small blind $0.01
+AMackCh: is sitting out 
+iNteldrive: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 8d]
+FaithfulDuck: folds 
+Dorex2007: folds 
+AMackCh leaves the table
+pavluha13: folds 
+zapper58: folds 
+shane40501: folds 
+Uncalled bet ($0.01) returned to iNteldrive
+tripmasterhi joins the table at seat #5 
+iNteldrive collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: zapper58 (button) folded before Flop (didn't bet)
+Seat 3: shane40501 (small blind) folded before Flop
+Seat 6: iNteldrive (big blind) collected ($0.02)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733234969:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:19:34 PT [2022/01/01 23:19:34 ET]
+Table 'Apus IV' 9-max Seat #3 is the button
+Seat 2: zapper58 ($0.11 in chips) 
+Seat 3: shane40501 ($1.52 in chips) 
+Seat 6: iNteldrive ($2.92 in chips) 
+Seat 7: FaithfulDuck ($2.13 in chips) 
+Seat 8: Dorex2007 ($2.81 in chips) 
+Seat 9: pavluha13 ($1 in chips) 
+iNteldrive: posts small blind $0.01
+FaithfulDuck: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 8d]
+Dorex2007: calls $0.02
+pavluha13: folds 
+zapper58: folds 
+shane40501: folds 
+iNteldrive: folds 
+FaithfulDuck: checks 
+*** FLOP *** [Jh 9d 4d]
+FaithfulDuck: checks 
+Dorex2007: bets $0.03
+FaithfulDuck: folds 
+Uncalled bet ($0.03) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jh 9d 4d]
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: shane40501 (button) folded before Flop (didn't bet)
+Seat 6: iNteldrive (small blind) folded before Flop
+Seat 7: FaithfulDuck (big blind) folded on the Flop
+Seat 8: Dorex2007 collected ($0.05)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733239836:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:19:58 PT [2022/01/01 23:19:58 ET]
+Table 'Apus IV' 9-max Seat #6 is the button
+Seat 2: zapper58 ($0.11 in chips) 
+Seat 3: shane40501 ($1.52 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.91 in chips) 
+Seat 7: FaithfulDuck ($2.11 in chips) 
+Seat 8: Dorex2007 ($2.84 in chips) 
+Seat 9: pavluha13 ($1 in chips) 
+FaithfulDuck: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+tripmasterhi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 5c]
+pavluha13: folds 
+zapper58: folds 
+shane40501: folds 
+tripmasterhi: checks 
+iNteldrive: raises $0.04 to $0.06
+FaithfulDuck: calls $0.05
+Dorex2007: folds 
+tripmasterhi: calls $0.04
+*** FLOP *** [9h 2h Ts]
+FaithfulDuck: checks 
+tripmasterhi: checks 
+iNteldrive: bets $0.09
+FaithfulDuck: raises $0.25 to $0.34
+tripmasterhi: folds 
+iNteldrive: folds 
+Uncalled bet ($0.25) returned to FaithfulDuck
+FaithfulDuck collected $0.37 from pot
+FaithfulDuck: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [9h 2h Ts]
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 5: tripmasterhi folded on the Flop
+Seat 6: iNteldrive (button) folded on the Flop
+Seat 7: FaithfulDuck (small blind) collected ($0.37)
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733251107:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:20:54 PT [2022/01/01 23:20:54 ET]
+Table 'Apus IV' 9-max Seat #7 is the button
+Seat 2: zapper58 ($0.11 in chips) 
+Seat 3: shane40501 ($2 in chips) 
+Seat 4: kikbutt656 ($0.84 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.76 in chips) 
+Seat 7: FaithfulDuck ($2.33 in chips) 
+Seat 8: Dorex2007 ($2.82 in chips) 
+Seat 9: pavluha13 ($1 in chips) 
+Dorex2007: posts small blind $0.01
+pavluha13: posts big blind $0.02
+kikbutt656: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 3c]
+zapper58: folds 
+shane40501: calls $0.02
+kikbutt656: raises $0.02 to $0.04
+tripmasterhi: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: folds 
+shane40501: calls $0.02
+*** FLOP *** [4d Th 9c]
+shane40501: checks 
+kikbutt656: bets $0.20
+shane40501: folds 
+Uncalled bet ($0.20) returned to kikbutt656
+kikbutt656 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [4d Th 9c]
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: shane40501 folded on the Flop
+Seat 4: kikbutt656 collected ($0.12)
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: pavluha13 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232733260641:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:21:42 PT [2022/01/01 23:21:42 ET]
+Table 'Apus IV' 9-max Seat #8 is the button
+Seat 2: zapper58 ($0.11 in chips) 
+Seat 3: shane40501 ($1.96 in chips) 
+Seat 4: kikbutt656 ($0.91 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.76 in chips) 
+Seat 7: FaithfulDuck ($2.33 in chips) 
+Seat 8: Dorex2007 ($2.81 in chips) 
+Seat 9: pavluha13 ($0.98 in chips) 
+pavluha13: posts small blind $0.01
+zapper58: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 6d]
+shane40501: folds 
+kikbutt656: calls $0.02
+tripmasterhi: raises $0.04 to $0.06
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: folds 
+zapper58: folds 
+kikbutt656: calls $0.04
+*** FLOP *** [Th Qd Jc]
+kikbutt656: bets $0.02
+tripmasterhi: calls $0.02
+*** TURN *** [Th Qd Jc] [3s]
+kikbutt656: checks 
+tripmasterhi: bets $0.09
+kikbutt656: calls $0.09
+*** RIVER *** [Th Qd Jc 3s] [6s]
+kikbutt656: bets $0.36
+tripmasterhi: folds 
+Uncalled bet ($0.36) returned to kikbutt656
+kikbutt656 collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Th Qd Jc 3s 6s]
+Seat 2: zapper58 (big blind) folded before Flop
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 4: kikbutt656 collected ($0.36)
+Seat 5: tripmasterhi folded on the River
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: pavluha13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232733270722:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:22:33 PT [2022/01/01 23:22:33 ET]
+Table 'Apus IV' 9-max Seat #9 is the button
+Seat 2: zapper58 ($0.09 in chips) 
+Seat 3: shane40501 ($1.96 in chips) 
+Seat 4: kikbutt656 ($1.10 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.76 in chips) 
+Seat 7: FaithfulDuck ($2.33 in chips) 
+Seat 8: Dorex2007 ($2.81 in chips) 
+Seat 9: pavluha13 ($0.97 in chips) 
+zapper58: posts small blind $0.01
+shane40501: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Ts]
+kikbutt656: folds 
+tripmasterhi: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: raises $0.04 to $0.06
+pavluha13: folds 
+zapper58: folds 
+shane40501: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: zapper58 (small blind) folded before Flop
+Seat 3: shane40501 (big blind) folded before Flop
+Seat 4: kikbutt656 folded before Flop (didn't bet)
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 collected ($0.05)
+Seat 9: pavluha13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733275229:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:22:56 PT [2022/01/01 23:22:56 ET]
+Table 'Apus IV' 9-max Seat #2 is the button
+Seat 2: zapper58 ($0.08 in chips) 
+Seat 3: shane40501 ($1.94 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.76 in chips) 
+Seat 7: FaithfulDuck ($2.33 in chips) 
+Seat 8: Dorex2007 ($2.84 in chips) 
+Seat 9: pavluha13 ($0.97 in chips) 
+shane40501: posts small blind $0.01
+tripmasterhi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 2d]
+iNteldrive: raises $0.04 to $0.06
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: folds 
+zapper58: folds 
+shane40501: folds 
+tripmasterhi: folds 
+Uncalled bet ($0.04) returned to iNteldrive
+iNteldrive collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: zapper58 (button) folded before Flop (didn't bet)
+Seat 3: shane40501 (small blind) folded before Flop
+Seat 5: tripmasterhi (big blind) folded before Flop
+Seat 6: iNteldrive collected ($0.05)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733281880:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:23:13 PT [2022/01/01 23:23:13 ET]
+Table 'Apus IV' 9-max Seat #3 is the button
+Seat 2: zapper58 ($0.08 in chips) 
+Seat 3: shane40501 ($1.93 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.79 in chips) 
+Seat 7: FaithfulDuck ($2.33 in chips) 
+Seat 8: Dorex2007 ($2.84 in chips) 
+Seat 9: pavluha13 ($0.97 in chips) 
+tripmasterhi: posts small blind $0.01
+iNteldrive: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 2c]
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: folds 
+zapper58: folds 
+shane40501: raises $0.02 to $0.04
+tripmasterhi: calls $0.03
+iNteldrive: calls $0.02
+*** FLOP *** [5d Qs 6s]
+tripmasterhi: checks 
+iNteldrive: checks 
+shane40501: checks 
+*** TURN *** [5d Qs 6s] [9h]
+tripmasterhi: checks 
+iNteldrive: checks 
+shane40501: bets $0.06
+tripmasterhi: folds 
+iNteldrive: calls $0.06
+*** RIVER *** [5d Qs 6s 9h] [Ts]
+iNteldrive: checks 
+shane40501: checks 
+*** SHOW DOWN ***
+iNteldrive: shows [Kc 7h] (high card King)
+shane40501: shows [9c Ah] (a pair of Nines)
+shane40501 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [5d Qs 6s 9h Ts]
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: shane40501 (button) showed [9c Ah] and won ($0.23) with a pair of Nines
+Seat 5: tripmasterhi (small blind) folded on the Turn
+Seat 6: iNteldrive (big blind) showed [Kc 7h] and lost with high card King
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733292605:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:24:07 PT [2022/01/01 23:24:07 ET]
+Table 'Apus IV' 9-max Seat #5 is the button
+Seat 2: zapper58 ($0.08 in chips) 
+Seat 3: shane40501 ($2.06 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.69 in chips) 
+Seat 7: FaithfulDuck ($2.33 in chips) 
+Seat 8: Dorex2007 ($2.84 in chips) 
+Seat 9: pavluha13 ($0.97 in chips) 
+iNteldrive: posts small blind $0.01
+FaithfulDuck: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Kh]
+Dorex2007: folds 
+pavluha13: calls $0.02
+zapper58: folds 
+shane40501: folds 
+tripmasterhi: folds 
+iNteldrive: folds 
+FaithfulDuck: checks 
+*** FLOP *** [Qd Ts 8h]
+FaithfulDuck: checks 
+pavluha13: checks 
+*** TURN *** [Qd Ts 8h] [Th]
+FaithfulDuck: checks 
+pavluha13: checks 
+*** RIVER *** [Qd Ts 8h Th] [3s]
+FaithfulDuck: checks 
+pavluha13: checks 
+*** SHOW DOWN ***
+FaithfulDuck: shows [8c 9c] (two pair, Tens and Eights)
+pavluha13: mucks hand 
+FaithfulDuck collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qd Ts 8h Th 3s]
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 5: tripmasterhi (button) folded before Flop (didn't bet)
+Seat 6: iNteldrive (small blind) folded before Flop
+Seat 7: FaithfulDuck (big blind) showed [8c 9c] and won ($0.05) with two pair, Tens and Eights
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 mucked [4d 4s]
+
+
+
+PokerStars Hand #232733299703:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:24:44 PT [2022/01/01 23:24:44 ET]
+Table 'Apus IV' 9-max Seat #6 is the button
+Seat 2: zapper58 ($0.08 in chips) 
+Seat 3: shane40501 ($2.06 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.68 in chips) 
+Seat 7: FaithfulDuck ($2.36 in chips) 
+Seat 8: Dorex2007 ($2.84 in chips) 
+Seat 9: pavluha13 ($0.95 in chips) 
+FaithfulDuck: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 8d]
+pavluha13: folds 
+zapper58: folds 
+shane40501: folds 
+tripmasterhi: folds 
+iNteldrive: folds 
+FaithfulDuck: raises $0.03 to $0.05
+Dorex2007: folds 
+Uncalled bet ($0.03) returned to FaithfulDuck
+FaithfulDuck collected $0.04 from pot
+FaithfulDuck: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive (button) folded before Flop (didn't bet)
+Seat 7: FaithfulDuck (small blind) collected ($0.04)
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733302879:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:25:00 PT [2022/01/01 23:25:00 ET]
+Table 'Apus IV' 9-max Seat #7 is the button
+Seat 2: zapper58 ($0.08 in chips) 
+Seat 3: shane40501 ($2.06 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.68 in chips) 
+Seat 7: FaithfulDuck ($2.38 in chips) 
+Seat 8: Dorex2007 ($2.82 in chips) 
+Seat 9: pavluha13 ($0.95 in chips) 
+Dorex2007: posts small blind $0.01
+pavluha13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Ks]
+zapper58: folds 
+shane40501: folds 
+tripmasterhi has timed out
+tripmasterhi: folds 
+iNteldrive: folds 
+FaithfulDuck: raises $0.03 to $0.05
+Dorex2007: folds 
+pavluha13: folds 
+Uncalled bet ($0.03) returned to FaithfulDuck
+FaithfulDuck collected $0.05 from pot
+FaithfulDuck: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck (button) collected ($0.05)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: pavluha13 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232733309074:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:25:31 PT [2022/01/01 23:25:31 ET]
+Table 'Apus IV' 9-max Seat #8 is the button
+Seat 2: zapper58 ($0.08 in chips) 
+Seat 3: shane40501 ($2.06 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.68 in chips) 
+Seat 7: FaithfulDuck ($2.41 in chips) 
+Seat 8: Dorex2007 ($2.81 in chips) 
+Seat 9: pavluha13 ($0.93 in chips) 
+pavluha13: posts small blind $0.01
+zapper58: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Tc]
+shane40501: folds 
+tripmasterhi: raises $0.05 to $0.07
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: calls $0.06
+zapper58: folds 
+*** FLOP *** [As 7c Ts]
+pavluha13: checks 
+tripmasterhi: bets $0.07
+pavluha13: calls $0.07
+*** TURN *** [As 7c Ts] [3c]
+pavluha13: checks 
+tripmasterhi: bets $0.14
+pavluha13: folds 
+Uncalled bet ($0.14) returned to tripmasterhi
+tripmasterhi collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [As 7c Ts 3c]
+Seat 2: zapper58 (big blind) folded before Flop
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 5: tripmasterhi collected ($0.29)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: pavluha13 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #232733318023:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:26:17 PT [2022/01/01 23:26:17 ET]
+Table 'Apus IV' 9-max Seat #9 is the button
+Seat 2: zapper58 ($0.06 in chips) 
+Seat 3: shane40501 ($2.06 in chips) 
+Seat 5: tripmasterhi ($2.15 in chips) 
+Seat 6: iNteldrive ($2.68 in chips) 
+Seat 7: FaithfulDuck ($2.41 in chips) 
+Seat 8: Dorex2007 ($2.81 in chips) 
+Seat 9: pavluha13 ($0.79 in chips) 
+zapper58: posts small blind $0.01
+shane40501: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Qh]
+tripmasterhi: folds 
+iNteldrive: raises $0.04 to $0.06
+FaithfulDuck: folds 
+Dorex2007: raises $0.12 to $0.18
+pavluha13: folds 
+zapper58: folds 
+shane40501: folds 
+iNteldrive: calls $0.12
+*** FLOP *** [Th Js Ac]
+iNteldrive: checks 
+Dorex2007: checks 
+*** TURN *** [Th Js Ac] [7c]
+iNteldrive: checks 
+Dorex2007: bets $0.25
+iNteldrive: calls $0.25
+*** RIVER *** [Th Js Ac 7c] [Jd]
+iNteldrive: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+iNteldrive: shows [Kc As] (two pair, Aces and Jacks)
+Dorex2007: mucks hand 
+iNteldrive collected $0.86 from pot
+*** SUMMARY ***
+Total pot $0.89 | Rake $0.03 
+Board [Th Js Ac 7c Jd]
+Seat 2: zapper58 (small blind) folded before Flop
+Seat 3: shane40501 (big blind) folded before Flop
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive showed [Kc As] and won ($0.86) with two pair, Aces and Jacks
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 mucked [Qs Qh]
+Seat 9: pavluha13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733326896:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:27:02 PT [2022/01/01 23:27:02 ET]
+Table 'Apus IV' 9-max Seat #2 is the button
+Seat 2: zapper58 ($0.05 in chips) 
+Seat 3: shane40501 ($2.04 in chips) 
+Seat 5: tripmasterhi ($2.15 in chips) 
+Seat 6: iNteldrive ($3.11 in chips) 
+Seat 7: FaithfulDuck ($2.41 in chips) 
+Seat 8: Dorex2007 ($2.38 in chips) 
+Seat 9: pavluha13 ($0.79 in chips) 
+shane40501: posts small blind $0.01
+tripmasterhi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 2d]
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: folds 
+zapper58: folds 
+shane40501: calls $0.01
+tripmasterhi: checks 
+*** FLOP *** [Js Jd As]
+shane40501: bets $0.04
+tripmasterhi: folds 
+Uncalled bet ($0.04) returned to shane40501
+shane40501 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Js Jd As]
+Seat 2: zapper58 (button) folded before Flop (didn't bet)
+Seat 3: shane40501 (small blind) collected ($0.04)
+Seat 5: tripmasterhi (big blind) folded on the Flop
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733333415:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:27:36 PT [2022/01/01 23:27:36 ET]
+Table 'Apus IV' 9-max Seat #3 is the button
+Seat 2: zapper58 ($0.05 in chips) 
+Seat 3: shane40501 ($2.06 in chips) 
+Seat 5: tripmasterhi ($2.13 in chips) 
+Seat 6: iNteldrive ($3.11 in chips) 
+Seat 7: FaithfulDuck ($2.41 in chips) 
+Seat 8: Dorex2007 ($2.38 in chips) 
+Seat 9: pavluha13 ($0.79 in chips) 
+tripmasterhi: posts small blind $0.01
+iNteldrive: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 4d]
+FaithfulDuck: folds 
+Dorex2007: folds 
+pavluha13: folds 
+zapper58: folds 
+shane40501 has timed out
+shane40501: folds 
+tripmasterhi: folds 
+Uncalled bet ($0.01) returned to iNteldrive
+iNteldrive collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: shane40501 (button) folded before Flop (didn't bet)
+Seat 5: tripmasterhi (small blind) folded before Flop
+Seat 6: iNteldrive (big blind) collected ($0.02)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733338096:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:28:00 PT [2022/01/01 23:28:00 ET]
+Table 'Apus IV' 9-max Seat #5 is the button
+Seat 2: zapper58 ($0.05 in chips) 
+Seat 5: tripmasterhi ($2.12 in chips) 
+Seat 6: iNteldrive ($3.12 in chips) 
+Seat 7: FaithfulDuck ($2.41 in chips) 
+Seat 8: Dorex2007 ($2.38 in chips) 
+Seat 9: pavluha13 ($0.79 in chips) 
+iNteldrive: posts small blind $0.01
+FaithfulDuck: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 2d]
+Dorex2007: folds 
+pavluha13: folds 
+zapper58: folds 
+tripmasterhi: folds 
+pavluha13 leaves the table
+iNteldrive: raises $0.04 to $0.06
+European1000 leaves the table
+FaithfulDuck: raises $0.08 to $0.14
+iNteldrive: calls $0.08
+*** FLOP *** [9d 7h 6c]
+kikbutt656 leaves the table
+iNteldrive: checks 
+FaithfulDuck: bets $0.18
+iNteldrive: calls $0.18
+*** TURN *** [9d 7h 6c] [Qc]
+iNteldrive: checks 
+FaithfulDuck: bets $0.41
+iNteldrive: calls $0.41
+*** RIVER *** [9d 7h 6c Qc] [5s]
+iNteldrive: checks 
+FaithfulDuck: checks 
+*** SHOW DOWN ***
+iNteldrive: shows [Jd Th] (high card Queen)
+FaithfulDuck: shows [9s Ks] (a pair of Nines)
+FaithfulDuck collected $1.41 from pot
+*** SUMMARY ***
+Total pot $1.46 | Rake $0.05 
+Board [9d 7h 6c Qc 5s]
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 5: tripmasterhi (button) folded before Flop (didn't bet)
+Seat 6: iNteldrive (small blind) showed [Jd Th] and lost with high card Queen
+Seat 7: FaithfulDuck (big blind) showed [9s Ks] and won ($1.41) with a pair of Nines
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: pavluha13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733349887:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:28:52 PT [2022/01/01 23:28:52 ET]
+Table 'Apus IV' 9-max Seat #6 is the button
+Seat 2: zapper58 ($0.05 in chips) 
+Seat 3: shane40501 ($2.06 in chips) 
+Seat 5: tripmasterhi ($2.12 in chips) 
+Seat 6: iNteldrive ($2.39 in chips) 
+Seat 7: FaithfulDuck ($3.09 in chips) 
+Seat 8: Dorex2007 ($2.38 in chips) 
+FaithfulDuck: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Qc]
+zapper58: folds 
+shane40501: folds 
+tripmasterhi: raises $0.04 to $0.06
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: calls $0.04
+*** FLOP *** [Kh 6s Td]
+Dorex2007: checks 
+tripmasterhi: bets $0.06
+Dorex2007: calls $0.06
+*** TURN *** [Kh 6s Td] [Js]
+Dorex2007: bets $0.12
+tripmasterhi: raises $0.48 to $0.60
+Dorex2007: folds 
+Uncalled bet ($0.48) returned to tripmasterhi
+tripmasterhi collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Kh 6s Td Js]
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 5: tripmasterhi collected ($0.47)
+Seat 6: iNteldrive (button) folded before Flop (didn't bet)
+Seat 7: FaithfulDuck (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #232733364909:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:29:42 PT [2022/01/01 23:29:42 ET]
+Table 'Apus IV' 9-max Seat #7 is the button
+Seat 2: zapper58 ($0.05 in chips) 
+Seat 3: shane40501 ($2.06 in chips) 
+Seat 5: tripmasterhi ($2.35 in chips) 
+Seat 6: iNteldrive ($2.39 in chips) 
+Seat 7: FaithfulDuck ($3.08 in chips) 
+Seat 8: Dorex2007 ($2.14 in chips) 
+Dorex2007: posts small blind $0.01
+zapper58: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Tc]
+shane40501: folds 
+tripmasterhi: folds 
+iNteldrive: folds 
+FaithfulDuck: raises $0.03 to $0.05
+Dorex2007: calls $0.04
+zapper58: folds 
+*** FLOP *** [5c 7s Qs]
+Dorex2007: checks 
+FaithfulDuck: bets $0.06
+Dorex2007: folds 
+Uncalled bet ($0.06) returned to FaithfulDuck
+FaithfulDuck collected $0.12 from pot
+FaithfulDuck: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [5c 7s Qs]
+Seat 2: zapper58 (big blind) folded before Flop
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck (button) collected ($0.12)
+Seat 8: Dorex2007 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #232733371462:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:30:16 PT [2022/01/01 23:30:16 ET]
+Table 'Apus IV' 9-max Seat #8 is the button
+Seat 2: zapper58 ($0.03 in chips) 
+Seat 3: shane40501 ($2.06 in chips) 
+Seat 5: tripmasterhi ($2.35 in chips) 
+Seat 6: iNteldrive ($2.39 in chips) 
+Seat 7: FaithfulDuck ($3.15 in chips) 
+Seat 8: Dorex2007 ($2.09 in chips) 
+zapper58: posts small blind $0.01
+shane40501: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 3s]
+tripmasterhi: folds 
+iNteldrive: raises $0.04 to $0.06
+FaithfulDuck: folds 
+Dorex2007: folds 
+zapper58: calls $0.02 and is all-in
+shane40501: folds 
+Uncalled bet ($0.03) returned to iNteldrive
+58lebaron joins the table at seat #4 
+vladimir5421 joins the table at seat #9 
+Dorakan1 joins the table at seat #1 
+*** FLOP *** [Kc Kh Qh]
+*** TURN *** [Kc Kh Qh] [Qc]
+*** RIVER *** [Kc Kh Qh Qc] [9h]
+*** SHOW DOWN ***
+zapper58: shows [8d As] (two pair, Kings and Queens)
+iNteldrive: shows [Jc Kd] (a full house, Kings full of Queens)
+iNteldrive collected $0.08 from pot
+zapper58 cashed out the hand for $0.05
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Kc Kh Qh Qc 9h]
+Seat 2: zapper58 (small blind) showed [8d As] and lost with two pair, Kings and Queens (cashed out).
+Seat 3: shane40501 (big blind) folded before Flop
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive showed [Jc Kd] and won ($0.08) with a full house, Kings full of Queens
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733377981:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:30:50 PT [2022/01/01 23:30:50 ET]
+Table 'Apus IV' 9-max Seat #2 is the button
+Seat 2: zapper58 ($0.05 in chips) 
+Seat 3: shane40501 ($2.04 in chips) 
+Seat 4: 58lebaron ($1.60 in chips) 
+Seat 5: tripmasterhi ($2.35 in chips) 
+Seat 6: iNteldrive ($2.44 in chips) 
+Seat 7: FaithfulDuck ($3.15 in chips) 
+Seat 8: Dorex2007 ($2.09 in chips) 
+shane40501: posts small blind $0.01
+58lebaron: posts big blind $0.02
+vladimir5421: sits out 
+Dorakan1: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Qc]
+Dorakan1 is disconnected 
+tripmasterhi: folds 
+iNteldrive: folds 
+FaithfulDuck: raises $0.03 to $0.05
+Dorex2007: folds 
+zapper58: folds 
+shane40501: folds 
+58lebaron: folds 
+Uncalled bet ($0.03) returned to FaithfulDuck
+FaithfulDuck collected $0.05 from pot
+FaithfulDuck: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: zapper58 (button) folded before Flop (didn't bet)
+Seat 3: shane40501 (small blind) folded before Flop
+Seat 4: 58lebaron (big blind) folded before Flop
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck collected ($0.05)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733383569:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:31:19 PT [2022/01/01 23:31:19 ET]
+Table 'Apus IV' 9-max Seat #3 is the button
+Seat 2: zapper58 ($0.05 in chips) 
+Seat 3: shane40501 ($2.03 in chips) 
+Seat 4: 58lebaron ($1.58 in chips) 
+Seat 5: tripmasterhi ($2.35 in chips) 
+Seat 6: iNteldrive ($2.44 in chips) 
+Seat 7: FaithfulDuck ($3.18 in chips) 
+Seat 8: Dorex2007 ($2.09 in chips) 
+58lebaron: posts small blind $0.01
+tripmasterhi: posts big blind $0.02
+vladimir5421: sits out 
+Dorakan1 has timed out while disconnected
+Dorakan1: is sitting out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 6d]
+iNteldrive: folds 
+FaithfulDuck: raises $0.03 to $0.05
+Dorex2007: folds 
+zapper58: folds 
+shane40501: folds 
+58lebaron: folds 
+tripmasterhi: folds 
+Uncalled bet ($0.03) returned to FaithfulDuck
+FaithfulDuck collected $0.05 from pot
+FaithfulDuck: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: shane40501 (button) folded before Flop (didn't bet)
+Seat 4: 58lebaron (small blind) folded before Flop
+Seat 5: tripmasterhi (big blind) folded before Flop
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck collected ($0.05)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733389489:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:31:50 PT [2022/01/01 23:31:50 ET]
+Table 'Apus IV' 9-max Seat #4 is the button
+Seat 2: zapper58 ($0.05 in chips) 
+Seat 3: shane40501 ($2.03 in chips) 
+Seat 4: 58lebaron ($1.57 in chips) 
+Seat 5: tripmasterhi ($2.33 in chips) 
+Seat 6: iNteldrive ($2.44 in chips) 
+Seat 7: FaithfulDuck ($3.21 in chips) 
+Seat 8: Dorex2007 ($2.09 in chips) 
+tripmasterhi: posts small blind $0.01
+iNteldrive: posts big blind $0.02
+vladimir5421: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 6d]
+FaithfulDuck: folds 
+Dorex2007: folds 
+zapper58: folds 
+shane40501: calls $0.02
+58lebaron: folds 
+tripmasterhi: raises $0.04 to $0.06
+iNteldrive: folds 
+shane40501: calls $0.04
+*** FLOP *** [Ac 7c 9c]
+tripmasterhi: checks 
+shane40501: bets $0.07
+tripmasterhi: calls $0.07
+*** TURN *** [Ac 7c 9c] [Kd]
+tripmasterhi: checks 
+shane40501: bets $0.10
+tripmasterhi: folds 
+Uncalled bet ($0.10) returned to shane40501
+shane40501 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Ac 7c 9c Kd]
+Seat 2: zapper58 folded before Flop (didn't bet)
+Seat 3: shane40501 collected ($0.27)
+Seat 4: 58lebaron (button) folded before Flop (didn't bet)
+Seat 5: tripmasterhi (small blind) folded on the Turn
+Seat 6: iNteldrive (big blind) folded before Flop
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733400040:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:32:45 PT [2022/01/01 23:32:45 ET]
+Table 'Apus IV' 9-max Seat #5 is the button
+Seat 2: zapper58 ($0.05 in chips) 
+Seat 3: shane40501 ($2.17 in chips) 
+Seat 4: 58lebaron ($1.57 in chips) 
+Seat 5: tripmasterhi ($2.20 in chips) 
+Seat 6: iNteldrive ($2.42 in chips) 
+Seat 7: FaithfulDuck ($3.21 in chips) 
+Seat 8: Dorex2007 ($2.09 in chips) 
+iNteldrive: posts small blind $0.01
+FaithfulDuck: posts big blind $0.02
+vladimir5421: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 8s]
+Dorex2007: folds 
+zapper58: raises $0.03 to $0.05 and is all-in
+shane40501: calls $0.05
+58lebaron: calls $0.05
+tripmasterhi: calls $0.05
+iNteldrive: folds 
+FaithfulDuck: folds 
+*** FLOP *** [4c Ah Qc]
+shane40501: checks 
+58lebaron: checks 
+tripmasterhi: bets $0.11
+shane40501: folds 
+58lebaron: calls $0.11
+*** TURN *** [4c Ah Qc] [8c]
+58lebaron: checks 
+tripmasterhi: checks 
+*** RIVER *** [4c Ah Qc 8c] [9c]
+58lebaron: checks 
+tripmasterhi: checks 
+*** SHOW DOWN ***
+58lebaron: shows [Th Jc] (a flush, Queen high)
+tripmasterhi: mucks hand 
+58lebaron collected $0.21 from side pot
+zapper58: mucks hand 
+58lebaron collected $0.22 from main pot
+*** SUMMARY ***
+Total pot $0.45 Main pot $0.22. Side pot $0.21. | Rake $0.02 
+Board [4c Ah Qc 8c 9c]
+Seat 2: zapper58 mucked [Qs Qd]
+Seat 3: shane40501 folded on the Flop
+Seat 4: 58lebaron showed [Th Jc] and won ($0.43) with a flush, Queen high
+Seat 5: tripmasterhi (button) mucked [3h 4h]
+Seat 6: iNteldrive (small blind) folded before Flop
+Seat 7: FaithfulDuck (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733414332:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:34:00 PT [2022/01/01 23:34:00 ET]
+Table 'Apus IV' 9-max Seat #6 is the button
+Seat 3: shane40501 ($2.12 in chips) 
+Seat 4: 58lebaron ($1.84 in chips) 
+Seat 5: tripmasterhi ($2.04 in chips) 
+Seat 6: iNteldrive ($2.41 in chips) 
+Seat 7: FaithfulDuck ($3.19 in chips) 
+Seat 8: Dorex2007 ($2.09 in chips) 
+FaithfulDuck: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+vladimir5421: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Qh]
+shane40501: folds 
+zapper58 leaves the table
+58lebaron: calls $0.02
+tripmasterhi: folds 
+iNteldrive: folds 
+betotun joins the table at seat #2 
+FaithfulDuck: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [3c 3h 2d]
+FaithfulDuck: checks 
+Dorex2007: checks 
+58lebaron: bets $0.08
+FaithfulDuck: folds 
+Dorex2007: folds 
+Uncalled bet ($0.08) returned to 58lebaron
+58lebaron collected $0.06 from pot
+58lebaron: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [3c 3h 2d]
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 4: 58lebaron collected ($0.06)
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive (button) folded before Flop (didn't bet)
+Seat 7: FaithfulDuck (small blind) folded on the Flop
+Seat 8: Dorex2007 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232733423793:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:34:42 PT [2022/01/01 23:34:42 ET]
+Table 'Apus IV' 9-max Seat #7 is the button
+Seat 3: shane40501 ($2.12 in chips) 
+Seat 4: 58lebaron ($1.88 in chips) 
+Seat 5: tripmasterhi ($2.04 in chips) 
+Seat 6: iNteldrive ($2.41 in chips) 
+Seat 7: FaithfulDuck ($3.17 in chips) 
+Seat 8: Dorex2007 ($2.07 in chips) 
+Seat 9: vladimir5421 ($2 in chips) 
+Dorex2007: posts small blind $0.01
+vladimir5421: posts big blind $0.02
+betotun: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Ts]
+shane40501: raises $0.02 to $0.04
+58lebaron: calls $0.04
+tripmasterhi: raises $0.02 to $0.06
+iNteldrive: calls $0.06
+FaithfulDuck: folds 
+Dorex2007: folds 
+vladimir5421: folds 
+shane40501: calls $0.02
+58lebaron: calls $0.02
+*** FLOP *** [Ah 7h Ks]
+shane40501: checks 
+58lebaron: checks 
+tripmasterhi: checks 
+iNteldrive: checks 
+*** TURN *** [Ah 7h Ks] [Jd]
+shane40501: checks 
+58lebaron: checks 
+tripmasterhi: checks 
+iNteldrive: checks 
+*** RIVER *** [Ah 7h Ks Jd] [Qc]
+shane40501: checks 
+58lebaron: bets $0.26
+tripmasterhi: folds 
+iNteldrive: folds 
+shane40501: folds 
+Uncalled bet ($0.26) returned to 58lebaron
+58lebaron collected $0.26 from pot
+58lebaron: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Ah 7h Ks Jd Qc]
+Seat 3: shane40501 folded on the River
+Seat 4: 58lebaron collected ($0.26)
+Seat 5: tripmasterhi folded on the River
+Seat 6: iNteldrive folded on the River
+Seat 7: FaithfulDuck (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: vladimir5421 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232733444489:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:36:30 PT [2022/01/01 23:36:30 ET]
+Table 'Apus IV' 9-max Seat #8 is the button
+Seat 2: betotun ($0.80 in chips) 
+Seat 3: shane40501 ($2.06 in chips) 
+Seat 4: 58lebaron ($2.08 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.35 in chips) 
+Seat 7: FaithfulDuck ($3.17 in chips) 
+Seat 8: Dorex2007 ($2.06 in chips) 
+Seat 9: vladimir5421 ($2 in chips) 
+vladimir5421: posts small blind $0.01
+betotun: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Qs]
+shane40501: folds 
+58lebaron: folds 
+tripmasterhi: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+vladimir5421: folds 
+Uncalled bet ($0.01) returned to betotun
+betotun collected $0.02 from pot
+betotun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: betotun (big blind) collected ($0.02)
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 4: 58lebaron folded before Flop (didn't bet)
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: vladimir5421 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232733447119:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:36:44 PT [2022/01/01 23:36:44 ET]
+Table 'Apus IV' 9-max Seat #9 is the button
+Seat 2: betotun ($0.81 in chips) 
+Seat 3: shane40501 ($2.06 in chips) 
+Seat 4: 58lebaron ($2.08 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.35 in chips) 
+Seat 7: FaithfulDuck ($3.17 in chips) 
+Seat 8: Dorex2007 ($2.06 in chips) 
+Seat 9: vladimir5421 ($2 in chips) 
+betotun: posts small blind $0.01
+shane40501: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 3h]
+58lebaron: folds 
+tripmasterhi: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+vladimir5421: folds 
+betotun: folds 
+Uncalled bet ($0.01) returned to shane40501
+shane40501 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: betotun (small blind) folded before Flop
+Seat 3: shane40501 (big blind) collected ($0.02)
+Seat 4: 58lebaron folded before Flop (didn't bet)
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: vladimir5421 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733449596:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:36:57 PT [2022/01/01 23:36:57 ET]
+Table 'Apus IV' 9-max Seat #2 is the button
+Seat 2: betotun ($0.80 in chips) 
+Seat 3: shane40501 ($2.07 in chips) 
+Seat 4: 58lebaron ($2.08 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.35 in chips) 
+Seat 7: FaithfulDuck ($3.17 in chips) 
+Seat 8: Dorex2007 ($2.06 in chips) 
+Seat 9: vladimir5421 ($2 in chips) 
+shane40501: posts small blind $0.01
+58lebaron: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 4d]
+tripmasterhi: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+vladimir5421: folds 
+betotun: calls $0.02
+shane40501: folds 
+58lebaron: checks 
+*** FLOP *** [Ad 6h 4s]
+58lebaron: checks 
+betotun: bets $0.02
+58lebaron: folds 
+Uncalled bet ($0.02) returned to betotun
+betotun collected $0.05 from pot
+betotun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ad 6h 4s]
+Seat 2: betotun (button) collected ($0.05)
+Seat 3: shane40501 (small blind) folded before Flop
+Seat 4: 58lebaron (big blind) folded on the Flop
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: vladimir5421 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733458654:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:37:44 PT [2022/01/01 23:37:44 ET]
+Table 'Apus IV' 9-max Seat #3 is the button
+Seat 2: betotun ($0.83 in chips) 
+Seat 3: shane40501 ($2.06 in chips) 
+Seat 4: 58lebaron ($2.06 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.35 in chips) 
+Seat 7: FaithfulDuck ($3.17 in chips) 
+Seat 8: Dorex2007 ($2.06 in chips) 
+Seat 9: vladimir5421 ($2 in chips) 
+58lebaron: posts small blind $0.01
+tripmasterhi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Kh]
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+vladimir5421: raises $0.04 to $0.06
+betotun: folds 
+shane40501: folds 
+58lebaron: folds 
+tripmasterhi: folds 
+Uncalled bet ($0.04) returned to vladimir5421
+vladimir5421 collected $0.05 from pot
+vladimir5421: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: betotun folded before Flop (didn't bet)
+Seat 3: shane40501 (button) folded before Flop (didn't bet)
+Seat 4: 58lebaron (small blind) folded before Flop
+Seat 5: tripmasterhi (big blind) folded before Flop
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: vladimir5421 collected ($0.05)
+
+
+
+PokerStars Hand #232733461896:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:38:01 PT [2022/01/01 23:38:01 ET]
+Table 'Apus IV' 9-max Seat #4 is the button
+Seat 2: betotun ($0.83 in chips) 
+Seat 3: shane40501 ($2.06 in chips) 
+Seat 4: 58lebaron ($2.05 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.35 in chips) 
+Seat 7: FaithfulDuck ($3.17 in chips) 
+Seat 8: Dorex2007 ($2.06 in chips) 
+Seat 9: vladimir5421 ($2.03 in chips) 
+tripmasterhi: posts small blind $0.01
+iNteldrive: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Ah]
+FaithfulDuck: folds 
+Dorex2007: raises $0.04 to $0.06
+vladimir5421: folds 
+betotun: folds 
+shane40501: folds 
+58lebaron: folds 
+tripmasterhi: folds 
+iNteldrive: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: betotun folded before Flop (didn't bet)
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 4: 58lebaron (button) folded before Flop (didn't bet)
+Seat 5: tripmasterhi (small blind) folded before Flop
+Seat 6: iNteldrive (big blind) folded before Flop
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 collected ($0.05)
+Seat 9: vladimir5421 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733465373:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:38:20 PT [2022/01/01 23:38:20 ET]
+Table 'Apus IV' 9-max Seat #5 is the button
+Seat 2: betotun ($0.83 in chips) 
+Seat 3: shane40501 ($2.06 in chips) 
+Seat 4: 58lebaron ($2.05 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.33 in chips) 
+Seat 7: FaithfulDuck ($3.17 in chips) 
+Seat 8: Dorex2007 ($2.09 in chips) 
+Seat 9: vladimir5421 ($2.03 in chips) 
+iNteldrive: posts small blind $0.01
+FaithfulDuck: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad As]
+Dorex2007: raises $0.02 to $0.04
+vladimir5421: folds 
+betotun: calls $0.04
+shane40501: folds 
+58lebaron: folds 
+tripmasterhi: folds 
+iNteldrive: raises $0.08 to $0.12
+FaithfulDuck: calls $0.10
+Dorex2007: raises $1.97 to $2.09 and is all-in
+betotun: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Uncalled bet ($1.97) returned to Dorex2007
+Dorex2007 collected $0.40 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0 
+Seat 2: betotun folded before Flop
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 4: 58lebaron folded before Flop (didn't bet)
+Seat 5: tripmasterhi (button) folded before Flop (didn't bet)
+Seat 6: iNteldrive (small blind) folded before Flop
+Seat 7: FaithfulDuck (big blind) folded before Flop
+Seat 8: Dorex2007 collected ($0.40)
+Seat 9: vladimir5421 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733474179:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:39:06 PT [2022/01/01 23:39:06 ET]
+Table 'Apus IV' 9-max Seat #6 is the button
+Seat 2: betotun ($0.79 in chips) 
+Seat 3: shane40501 ($2.06 in chips) 
+Seat 4: 58lebaron ($2.05 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.21 in chips) 
+Seat 7: FaithfulDuck ($3.05 in chips) 
+Seat 8: Dorex2007 ($2.37 in chips) 
+Seat 9: vladimir5421 ($2.03 in chips) 
+FaithfulDuck: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 9d]
+vladimir5421: folds 
+betotun: folds 
+shane40501: folds 
+58lebaron: folds 
+tripmasterhi: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: betotun folded before Flop (didn't bet)
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 4: 58lebaron folded before Flop (didn't bet)
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive (button) folded before Flop (didn't bet)
+Seat 7: FaithfulDuck (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) collected ($0.02)
+Seat 9: vladimir5421 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733478223:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:39:27 PT [2022/01/01 23:39:27 ET]
+Table 'Apus IV' 9-max Seat #7 is the button
+Seat 2: betotun ($0.79 in chips) 
+Seat 3: shane40501 ($2.06 in chips) 
+Seat 4: 58lebaron ($2.05 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.21 in chips) 
+Seat 7: FaithfulDuck ($3.04 in chips) 
+Seat 8: Dorex2007 ($2.38 in chips) 
+Seat 9: vladimir5421 ($2.03 in chips) 
+Dorex2007: posts small blind $0.01
+vladimir5421: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 4c]
+betotun: folds 
+shane40501: calls $0.02
+58lebaron: folds 
+tripmasterhi has timed out
+tripmasterhi: folds 
+iNteldrive: raises $0.04 to $0.06
+FaithfulDuck has timed out
+FaithfulDuck: folds 
+Dorex2007: folds 
+vladimir5421: folds 
+shane40501: calls $0.04
+*** FLOP *** [Ks 3h Ad]
+shane40501: checks 
+iNteldrive: bets $0.06
+shane40501: folds 
+Uncalled bet ($0.06) returned to iNteldrive
+iNteldrive collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ks 3h Ad]
+Seat 2: betotun folded before Flop (didn't bet)
+Seat 3: shane40501 folded on the Flop
+Seat 4: 58lebaron folded before Flop (didn't bet)
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive collected ($0.14)
+Seat 7: FaithfulDuck (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: vladimir5421 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232733503809:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:40:35 PT [2022/01/01 23:40:35 ET]
+Table 'Apus IV' 9-max Seat #8 is the button
+Seat 2: betotun ($0.79 in chips) 
+Seat 3: shane40501 ($2 in chips) 
+Seat 4: 58lebaron ($2.05 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.29 in chips) 
+Seat 8: Dorex2007 ($2.37 in chips) 
+Seat 9: vladimir5421 ($2.01 in chips) 
+vladimir5421: posts small blind $0.01
+betotun: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 3c]
+shane40501: folds 
+58lebaron: calls $0.02
+tripmasterhi: raises $0.04 to $0.06
+iNteldrive: folds 
+Dorex2007: folds 
+vladimir5421: folds 
+betotun: folds 
+Dorakan1 leaves the table
+58lebaron: raises $1.99 to $2.05 and is all-in
+tripmasterhi: folds 
+Uncalled bet ($1.99) returned to 58lebaron
+58lebaron collected $0.15 from pot
+58lebaron: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 2: betotun (big blind) folded before Flop
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 4: 58lebaron collected ($0.15)
+Seat 5: tripmasterhi folded before Flop
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: vladimir5421 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232733510169:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:41:09 PT [2022/01/01 23:41:09 ET]
+Table 'Apus IV' 9-max Seat #9 is the button
+Seat 2: betotun ($0.77 in chips) 
+Seat 3: shane40501 ($2 in chips) 
+Seat 4: 58lebaron ($2.14 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.29 in chips) 
+Seat 7: FaithfulDuck ($3.04 in chips) 
+Seat 8: Dorex2007 ($2.37 in chips) 
+Seat 9: vladimir5421 ($2 in chips) 
+betotun: posts small blind $0.01
+shane40501: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 3c]
+gato1235 joins the table at seat #1 
+58lebaron: folds 
+tripmasterhi: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+vladimir5421: raises $0.04 to $0.06
+betotun: calls $0.05
+shane40501: folds 
+*** FLOP *** [7h Kd Jc]
+betotun: checks 
+vladimir5421: checks 
+*** TURN *** [7h Kd Jc] [9s]
+betotun: checks 
+vladimir5421: bets $0.11
+betotun: folds 
+Uncalled bet ($0.11) returned to vladimir5421
+vladimir5421 collected $0.14 from pot
+vladimir5421: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [7h Kd Jc 9s]
+Seat 2: betotun (small blind) folded on the Turn
+Seat 3: shane40501 (big blind) folded before Flop
+Seat 4: 58lebaron folded before Flop (didn't bet)
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: vladimir5421 (button) collected ($0.14)
+
+
+
+PokerStars Hand #232733526415:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:41:47 PT [2022/01/01 23:41:47 ET]
+Table 'Apus IV' 9-max Seat #2 is the button
+Seat 2: betotun ($0.71 in chips) 
+Seat 3: shane40501 ($1.98 in chips) 
+Seat 4: 58lebaron ($2.14 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.29 in chips) 
+Seat 7: FaithfulDuck ($3.04 in chips) 
+Seat 8: Dorex2007 ($2.37 in chips) 
+Seat 9: vladimir5421 ($2.08 in chips) 
+shane40501: posts small blind $0.01
+58lebaron: posts big blind $0.02
+gato1235: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 6d]
+tripmasterhi: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+vladimir5421: folds 
+betotun: folds 
+shane40501: folds 
+Uncalled bet ($0.01) returned to 58lebaron
+58lebaron collected $0.02 from pot
+58lebaron: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: betotun (button) folded before Flop (didn't bet)
+Seat 3: shane40501 (small blind) folded before Flop
+Seat 4: 58lebaron (big blind) collected ($0.02)
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: vladimir5421 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733529419:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:42:03 PT [2022/01/01 23:42:03 ET]
+Table 'Apus IV' 9-max Seat #3 is the button
+Seat 2: betotun ($0.71 in chips) 
+Seat 3: shane40501 ($1.97 in chips) 
+Seat 4: 58lebaron ($2.15 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.29 in chips) 
+Seat 7: FaithfulDuck ($3.04 in chips) 
+Seat 8: Dorex2007 ($2.37 in chips) 
+Seat 9: vladimir5421 ($2.08 in chips) 
+58lebaron: posts small blind $0.01
+tripmasterhi: posts big blind $0.02
+gato1235: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 2h]
+iNteldrive: folds 
+FaithfulDuck: folds 
+gato1235 leaves the table
+Dorex2007 has timed out
+Dorex2007: folds 
+vladimir5421: folds 
+betotun: calls $0.02
+shane40501: folds 
+58lebaron: folds 
+tripmasterhi: checks 
+*** FLOP *** [6c 5h Kc]
+tripmasterhi: checks 
+betotun: checks 
+*** TURN *** [6c 5h Kc] [Qc]
+tripmasterhi: checks 
+betotun: checks 
+*** RIVER *** [6c 5h Kc Qc] [6s]
+tripmasterhi: checks 
+betotun: checks 
+*** SHOW DOWN ***
+tripmasterhi: shows [7h 2s] (a pair of Sixes)
+betotun: shows [3c 3h] (two pair, Sixes and Threes)
+betotun collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6c 5h Kc Qc 6s]
+Seat 2: betotun showed [3c 3h] and won ($0.05) with two pair, Sixes and Threes
+Seat 3: shane40501 (button) folded before Flop (didn't bet)
+Seat 4: 58lebaron (small blind) folded before Flop
+Seat 5: tripmasterhi (big blind) showed [7h 2s] and lost with a pair of Sixes
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: vladimir5421 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733538718:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:42:52 PT [2022/01/01 23:42:52 ET]
+Table 'Apus IV' 9-max Seat #4 is the button
+Seat 2: betotun ($0.74 in chips) 
+Seat 3: shane40501 ($1.97 in chips) 
+Seat 4: 58lebaron ($2.14 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.29 in chips) 
+Seat 7: FaithfulDuck ($3.04 in chips) 
+Seat 8: Dorex2007 ($2.37 in chips) 
+Seat 9: vladimir5421 ($2.08 in chips) 
+tripmasterhi: posts small blind $0.01
+iNteldrive: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s As]
+FaithfulDuck: folds 
+Dorex2007: folds 
+vladimir5421: folds 
+betotun: calls $0.02
+shane40501: folds 
+58lebaron: calls $0.02
+tripmasterhi: folds 
+iNteldrive: checks 
+*** FLOP *** [3c Qc Ts]
+iNteldrive: checks 
+betotun: bets $0.02
+58lebaron: calls $0.02
+iNteldrive: folds 
+*** TURN *** [3c Qc Ts] [Qh]
+VTN*81 joins the table at seat #1 
+betotun: bets $0.02
+58lebaron: calls $0.02
+*** RIVER *** [3c Qc Ts Qh] [7d]
+betotun: checks 
+58lebaron: bets $0.14
+betotun: folds 
+Uncalled bet ($0.14) returned to 58lebaron
+58lebaron collected $0.14 from pot
+58lebaron: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3c Qc Ts Qh 7d]
+Seat 2: betotun folded on the River
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 4: 58lebaron (button) collected ($0.14)
+Seat 5: tripmasterhi (small blind) folded before Flop
+Seat 6: iNteldrive (big blind) folded on the Flop
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: vladimir5421 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733551474:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:44:01 PT [2022/01/01 23:44:01 ET]
+Table 'Apus IV' 9-max Seat #5 is the button
+Seat 2: betotun ($0.68 in chips) 
+Seat 3: shane40501 ($1.97 in chips) 
+Seat 4: 58lebaron ($2.22 in chips) 
+Seat 5: tripmasterhi ($2 in chips) 
+Seat 6: iNteldrive ($2.27 in chips) 
+Seat 7: FaithfulDuck ($3.04 in chips) 
+Seat 8: Dorex2007 ($2.37 in chips) 
+Seat 9: vladimir5421 ($2.08 in chips) 
+iNteldrive: posts small blind $0.01
+FaithfulDuck: posts big blind $0.02
+VTN*81: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 3d]
+Dorex2007: folds 
+vladimir5421: folds 
+betotun: folds 
+betotun leaves the table
+shane40501: folds 
+58lebaron: folds 
+tripmasterhi: raises $0.04 to $0.06
+iNteldrive: folds 
+Gitec350 joins the table at seat #2 
+FaithfulDuck: folds 
+Uncalled bet ($0.04) returned to tripmasterhi
+tripmasterhi collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: betotun folded before Flop (didn't bet)
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 4: 58lebaron folded before Flop (didn't bet)
+Seat 5: tripmasterhi (button) collected ($0.05)
+Seat 6: iNteldrive (small blind) folded before Flop
+Seat 7: FaithfulDuck (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: vladimir5421 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733556249:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:44:27 PT [2022/01/01 23:44:27 ET]
+Table 'Apus IV' 9-max Seat #6 is the button
+Seat 3: shane40501 ($1.97 in chips) 
+Seat 4: 58lebaron ($2.22 in chips) 
+Seat 5: tripmasterhi ($2.03 in chips) 
+Seat 6: iNteldrive ($2.26 in chips) 
+Seat 7: FaithfulDuck ($3.02 in chips) 
+Seat 8: Dorex2007 ($2.37 in chips) 
+Seat 9: vladimir5421 ($2.08 in chips) 
+FaithfulDuck: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+VTN*81: sits out 
+Gitec350: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 9s]
+vladimir5421: folds 
+shane40501: folds 
+58lebaron: calls $0.02
+tripmasterhi: raises $0.48 to $0.50
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+58lebaron: folds 
+Uncalled bet ($0.48) returned to tripmasterhi
+tripmasterhi collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 4: 58lebaron folded before Flop
+Seat 5: tripmasterhi collected ($0.07)
+Seat 6: iNteldrive (button) folded before Flop (didn't bet)
+Seat 7: FaithfulDuck (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: vladimir5421 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733563899:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:45:08 PT [2022/01/01 23:45:08 ET]
+Table 'Apus IV' 9-max Seat #7 is the button
+Seat 3: shane40501 ($1.97 in chips) 
+Seat 4: 58lebaron ($2.20 in chips) 
+Seat 5: tripmasterhi ($2.08 in chips) 
+Seat 6: iNteldrive ($2.26 in chips) 
+Seat 7: FaithfulDuck ($3.01 in chips) 
+Seat 8: Dorex2007 ($2.35 in chips) 
+Seat 9: vladimir5421 ($2.08 in chips) 
+Dorex2007: posts small blind $0.01
+vladimir5421: posts big blind $0.02
+VTN*81: sits out 
+Gitec350: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Ad]
+shane40501: folds 
+58lebaron: folds 
+tripmasterhi: folds 
+iNteldrive: raises $0.04 to $0.06
+FaithfulDuck: folds 
+Dorex2007: calls $0.05
+vladimir5421: folds 
+*** FLOP *** [Th Jd 8c]
+Dorex2007: checks 
+iNteldrive: checks 
+*** TURN *** [Th Jd 8c] [7c]
+Dorex2007: bets $0.14
+iNteldrive: calls $0.14
+*** RIVER *** [Th Jd 8c 7c] [Td]
+Dorex2007: bets $0.21
+iNteldrive: folds 
+Uncalled bet ($0.21) returned to Dorex2007
+Dorex2007 collected $0.41 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [Th Jd 8c 7c Td]
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 4: 58lebaron folded before Flop (didn't bet)
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive folded on the River
+Seat 7: FaithfulDuck (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) collected ($0.41)
+Seat 9: vladimir5421 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232733573860:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:46:01 PT [2022/01/01 23:46:01 ET]
+Table 'Apus IV' 9-max Seat #8 is the button
+Seat 1: VTN*81 ($2 in chips) 
+Seat 3: shane40501 ($1.97 in chips) 
+Seat 4: 58lebaron ($2.20 in chips) 
+Seat 5: tripmasterhi ($2.08 in chips) 
+Seat 6: iNteldrive ($2.06 in chips) 
+Seat 7: FaithfulDuck ($3.01 in chips) 
+Seat 8: Dorex2007 ($2.56 in chips) 
+Seat 9: vladimir5421 ($2.06 in chips) 
+vladimir5421: posts small blind $0.01
+VTN*81: posts big blind $0.02
+Gitec350: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 6h]
+shane40501: folds 
+58lebaron: calls $0.02
+tripmasterhi: folds 
+iNteldrive: raises $0.04 to $0.06
+FaithfulDuck: calls $0.06
+Dorex2007: folds 
+vladimir5421: folds 
+VTN*81: calls $0.04
+58lebaron: calls $0.04
+*** FLOP *** [8d Qh 6d]
+VTN*81: checks 
+58lebaron: checks 
+iNteldrive: checks 
+FaithfulDuck: bets $0.12
+VTN*81: folds 
+58lebaron: folds 
+iNteldrive: folds 
+Uncalled bet ($0.12) returned to FaithfulDuck
+FaithfulDuck collected $0.24 from pot
+FaithfulDuck: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [8d Qh 6d]
+Seat 1: VTN*81 (big blind) folded on the Flop
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 4: 58lebaron folded on the Flop
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive folded on the Flop
+Seat 7: FaithfulDuck collected ($0.24)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: vladimir5421 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232733584774:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:47:00 PT [2022/01/01 23:47:00 ET]
+Table 'Apus IV' 9-max Seat #9 is the button
+Seat 1: VTN*81 ($1.94 in chips) 
+Seat 2: Gitec350 ($2 in chips) 
+Seat 3: shane40501 ($1.97 in chips) 
+Seat 4: 58lebaron ($2.14 in chips) 
+Seat 5: tripmasterhi ($2.08 in chips) 
+Seat 6: iNteldrive ($2 in chips) 
+Seat 7: FaithfulDuck ($3.19 in chips) 
+Seat 8: Dorex2007 ($2.56 in chips) 
+Seat 9: vladimir5421 ($2.05 in chips) 
+VTN*81: posts small blind $0.01
+Gitec350: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Kc]
+shane40501: folds 
+58lebaron: calls $0.02
+shane40501 leaves the table
+tripmasterhi: folds 
+iNteldrive: folds 
+VoDoRod773 joins the table at seat #3 
+FaithfulDuck: folds 
+Dorex2007: raises $0.08 to $0.10
+vladimir5421: folds 
+VTN*81: calls $0.09
+Gitec350: folds 
+58lebaron: calls $0.08
+*** FLOP *** [8h As Tc]
+VTN*81: checks 
+58lebaron: bets $0.17
+Dorex2007: raises $0.43 to $0.60
+VTN*81: folds 
+58lebaron: raises $0.43 to $1.03
+Dorex2007: raises $1.43 to $2.46 and is all-in
+58lebaron: calls $1.01 and is all-in
+Uncalled bet ($0.42) returned to Dorex2007
+*** TURN *** [8h As Tc] [7d]
+*** RIVER *** [8h As Tc 7d] [8d]
+*** SHOW DOWN ***
+58lebaron: shows [Th Ah] (two pair, Aces and Tens)
+Dorex2007: shows [Ac Kc] (two pair, Aces and Eights)
+58lebaron collected $4.25 from pot
+*** SUMMARY ***
+Total pot $4.40 | Rake $0.15 
+Board [8h As Tc 7d 8d]
+Seat 1: VTN*81 (small blind) folded on the Flop
+Seat 2: Gitec350 (big blind) folded before Flop
+Seat 3: shane40501 folded before Flop (didn't bet)
+Seat 4: 58lebaron showed [Th Ah] and won ($4.25) with two pair, Aces and Tens
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 showed [Ac Kc] and lost with two pair, Aces and Eights
+Seat 9: vladimir5421 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733600324:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:48:25 PT [2022/01/01 23:48:25 ET]
+Table 'Apus IV' 9-max Seat #1 is the button
+Seat 1: VTN*81 ($1.84 in chips) 
+Seat 2: Gitec350 ($1.98 in chips) 
+Seat 3: VoDoRod773 ($2 in chips) 
+Seat 4: 58lebaron ($4.25 in chips) 
+Seat 5: tripmasterhi ($2.08 in chips) 
+Seat 6: iNteldrive ($2 in chips) 
+Seat 7: FaithfulDuck ($3.19 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: vladimir5421 ($2.05 in chips) 
+Gitec350: posts small blind $0.01
+VoDoRod773: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 8h]
+58lebaron: folds 
+tripmasterhi: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: calls $0.02
+vladimir5421: calls $0.02
+VTN*81: calls $0.02
+Gitec350: folds 
+VoDoRod773: checks 
+*** FLOP *** [Qs 3c 5d]
+VoDoRod773: checks 
+Dorex2007: checks 
+vladimir5421: checks 
+VTN*81: bets $0.06
+VoDoRod773: folds 
+Dorex2007: folds 
+vladimir5421: folds 
+Uncalled bet ($0.06) returned to VTN*81
+VTN*81 collected $0.09 from pot
+VTN*81: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Qs 3c 5d]
+Seat 1: VTN*81 (button) collected ($0.09)
+Seat 2: Gitec350 (small blind) folded before Flop
+Seat 3: VoDoRod773 (big blind) folded on the Flop
+Seat 4: 58lebaron folded before Flop (didn't bet)
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded on the Flop
+Seat 9: vladimir5421 folded on the Flop
+
+
+
+PokerStars Hand #232733609698:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:49:16 PT [2022/01/01 23:49:16 ET]
+Table 'Apus IV' 9-max Seat #2 is the button
+Seat 1: VTN*81 ($1.91 in chips) 
+Seat 2: Gitec350 ($1.97 in chips) 
+Seat 3: VoDoRod773 ($2 in chips) 
+Seat 4: 58lebaron ($4.25 in chips) 
+Seat 5: tripmasterhi ($2.08 in chips) 
+Seat 6: iNteldrive ($2 in chips) 
+Seat 7: FaithfulDuck ($3.19 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: vladimir5421 ($2.03 in chips) 
+VoDoRod773: posts small blind $0.01
+58lebaron: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Qh]
+tripmasterhi: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+vladimir5421: folds 
+VTN*81: folds 
+Gitec350: folds 
+VoDoRod773: raises $0.03 to $0.05
+58lebaron: folds 
+Uncalled bet ($0.03) returned to VoDoRod773
+VoDoRod773 collected $0.04 from pot
+VoDoRod773: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: VTN*81 folded before Flop (didn't bet)
+Seat 2: Gitec350 (button) folded before Flop (didn't bet)
+Seat 3: VoDoRod773 (small blind) collected ($0.04)
+Seat 4: 58lebaron (big blind) folded before Flop
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: vladimir5421 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733613537:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:49:37 PT [2022/01/01 23:49:37 ET]
+Table 'Apus IV' 9-max Seat #3 is the button
+Seat 1: VTN*81 ($1.91 in chips) 
+Seat 2: Gitec350 ($1.97 in chips) 
+Seat 3: VoDoRod773 ($2.02 in chips) 
+Seat 4: 58lebaron ($4.23 in chips) 
+Seat 5: tripmasterhi ($2.08 in chips) 
+Seat 6: iNteldrive ($2 in chips) 
+Seat 7: FaithfulDuck ($3.19 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: vladimir5421 ($2.03 in chips) 
+58lebaron: posts small blind $0.01
+tripmasterhi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 4h]
+iNteldrive: folds 
+FaithfulDuck: raises $0.03 to $0.05
+Dorex2007: folds 
+vladimir5421: calls $0.05
+VTN*81: folds 
+Gitec350: folds 
+VoDoRod773: folds 
+58lebaron: folds 
+tripmasterhi: folds 
+*** FLOP *** [As Jh 3s]
+FaithfulDuck: checks 
+vladimir5421: checks 
+*** TURN *** [As Jh 3s] [6s]
+FaithfulDuck: checks 
+vladimir5421: bets $0.10
+FaithfulDuck: folds 
+Uncalled bet ($0.10) returned to vladimir5421
+vladimir5421 collected $0.13 from pot
+vladimir5421: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [As Jh 3s 6s]
+Seat 1: VTN*81 folded before Flop (didn't bet)
+Seat 2: Gitec350 folded before Flop (didn't bet)
+Seat 3: VoDoRod773 (button) folded before Flop (didn't bet)
+Seat 4: 58lebaron (small blind) folded before Flop
+Seat 5: tripmasterhi (big blind) folded before Flop
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded on the Turn
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: vladimir5421 collected ($0.13)
+
+
+
+PokerStars Hand #232733622243:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:50:26 PT [2022/01/01 23:50:26 ET]
+Table 'Apus IV' 9-max Seat #4 is the button
+Seat 1: VTN*81 ($1.91 in chips) 
+Seat 2: Gitec350 ($1.97 in chips) 
+Seat 3: VoDoRod773 ($2.02 in chips) 
+Seat 4: 58lebaron ($4.22 in chips) 
+Seat 5: tripmasterhi ($2.06 in chips) 
+Seat 6: iNteldrive ($2 in chips) 
+Seat 7: FaithfulDuck ($3.14 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: vladimir5421 ($2.11 in chips) 
+tripmasterhi: posts small blind $0.01
+iNteldrive: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Tc]
+FaithfulDuck: raises $0.03 to $0.05
+Dorex2007: folds 
+vladimir5421: folds 
+VTN*81: folds 
+Gitec350: raises $0.07 to $0.12
+VoDoRod773: folds 
+58lebaron: folds 
+tripmasterhi: folds 
+iNteldrive: calls $0.10
+FaithfulDuck: folds 
+*** FLOP *** [8s 2h 8h]
+iNteldrive: checks 
+Gitec350: bets $0.22
+iNteldrive: calls $0.22
+*** TURN *** [8s 2h 8h] [3d]
+iNteldrive: checks 
+Gitec350: bets $0.43
+iNteldrive: calls $0.43
+*** RIVER *** [8s 2h 8h 3d] [6c]
+iNteldrive: checks 
+Gitec350: bets $1.20 and is all-in
+iNteldrive: folds 
+Uncalled bet ($1.20) returned to Gitec350
+Gitec350 collected $1.54 from pot
+Gitec350: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.06 
+Board [8s 2h 8h 3d 6c]
+Seat 1: VTN*81 folded before Flop (didn't bet)
+Seat 2: Gitec350 collected ($1.54)
+Seat 3: VoDoRod773 folded before Flop (didn't bet)
+Seat 4: 58lebaron (button) folded before Flop (didn't bet)
+Seat 5: tripmasterhi (small blind) folded before Flop
+Seat 6: iNteldrive (big blind) folded on the River
+Seat 7: FaithfulDuck folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: vladimir5421 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733639808:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:52:04 PT [2022/01/01 23:52:04 ET]
+Table 'Apus IV' 9-max Seat #5 is the button
+Seat 1: VTN*81 ($1.91 in chips) 
+Seat 2: Gitec350 ($2.74 in chips) 
+Seat 3: VoDoRod773 ($2.02 in chips) 
+Seat 4: 58lebaron ($4.22 in chips) 
+Seat 5: tripmasterhi ($2.05 in chips) 
+Seat 6: iNteldrive ($1.23 in chips) 
+Seat 7: FaithfulDuck ($3.09 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: vladimir5421 ($2.11 in chips) 
+iNteldrive: posts small blind $0.01
+FaithfulDuck: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 6d]
+Dorex2007: folds 
+vladimir5421: folds 
+VTN*81: calls $0.02
+Gitec350: folds 
+VoDoRod773: folds 
+58lebaron: calls $0.02
+tripmasterhi: raises $2.03 to $2.05 and is all-in
+iNteldrive: folds 
+FaithfulDuck: folds 
+VTN*81: folds 
+58lebaron: folds 
+Uncalled bet ($2.03) returned to tripmasterhi
+tripmasterhi collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: VTN*81 folded before Flop
+Seat 2: Gitec350 folded before Flop (didn't bet)
+Seat 3: VoDoRod773 folded before Flop (didn't bet)
+Seat 4: 58lebaron folded before Flop
+Seat 5: tripmasterhi (button) collected ($0.09)
+Seat 6: iNteldrive (small blind) folded before Flop
+Seat 7: FaithfulDuck (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: vladimir5421 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733646959:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:52:44 PT [2022/01/01 23:52:44 ET]
+Table 'Apus IV' 9-max Seat #6 is the button
+Seat 1: VTN*81 ($1.89 in chips) 
+Seat 2: Gitec350 ($2.74 in chips) 
+Seat 3: VoDoRod773 ($2.02 in chips) 
+Seat 4: 58lebaron ($4.20 in chips) 
+Seat 5: tripmasterhi ($2.12 in chips) 
+Seat 6: iNteldrive ($1.99 in chips) 
+Seat 7: FaithfulDuck ($3.07 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: vladimir5421 ($2.11 in chips) 
+FaithfulDuck: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Kh]
+vladimir5421: folds 
+VTN*81: folds 
+Gitec350: folds 
+VoDoRod773: folds 
+58lebaron: folds 
+tripmasterhi: folds 
+iNteldrive: raises $0.04 to $0.06
+FaithfulDuck: raises $0.10 to $0.16
+Dorex2007: folds 
+iNteldrive: calls $0.10
+*** FLOP *** [3h 2h Ad]
+FaithfulDuck: bets $0.17
+iNteldrive: folds 
+Uncalled bet ($0.17) returned to FaithfulDuck
+FaithfulDuck collected $0.33 from pot
+FaithfulDuck: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [3h 2h Ad]
+Seat 1: VTN*81 folded before Flop (didn't bet)
+Seat 2: Gitec350 folded before Flop (didn't bet)
+Seat 3: VoDoRod773 folded before Flop (didn't bet)
+Seat 4: 58lebaron folded before Flop (didn't bet)
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive (button) folded on the Flop
+Seat 7: FaithfulDuck (small blind) collected ($0.33)
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: vladimir5421 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733661791:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:53:33 PT [2022/01/01 23:53:33 ET]
+Table 'Apus IV' 9-max Seat #7 is the button
+Seat 1: VTN*81 ($1.89 in chips) 
+Seat 2: Gitec350 ($2.74 in chips) 
+Seat 3: VoDoRod773 ($2.02 in chips) 
+Seat 4: 58lebaron ($4.20 in chips) 
+Seat 5: tripmasterhi ($2.12 in chips) 
+Seat 6: iNteldrive ($1.83 in chips) 
+Seat 7: FaithfulDuck ($3.24 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: vladimir5421 ($2.11 in chips) 
+Dorex2007: posts small blind $0.01
+vladimir5421: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 2h]
+VTN*81: raises $0.02 to $0.04
+Gitec350: folds 
+VoDoRod773: folds 
+58lebaron: folds 
+tripmasterhi: folds 
+iNteldrive: folds 
+FaithfulDuck: calls $0.04
+Dorex2007: folds 
+vladimir5421: calls $0.02
+*** FLOP *** [Ad Ac 9d]
+vladimir5421: checks 
+VTN*81: checks 
+FaithfulDuck: checks 
+*** TURN *** [Ad Ac 9d] [Qd]
+vladimir5421: checks 
+VTN*81: bets $0.07
+FaithfulDuck: folds 
+vladimir5421: folds 
+Uncalled bet ($0.07) returned to VTN*81
+VTN*81 collected $0.13 from pot
+VTN*81: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ad Ac 9d Qd]
+Seat 1: VTN*81 collected ($0.13)
+Seat 2: Gitec350 folded before Flop (didn't bet)
+Seat 3: VoDoRod773 folded before Flop (didn't bet)
+Seat 4: 58lebaron folded before Flop (didn't bet)
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck (button) folded on the Turn
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: vladimir5421 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #232733673572:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:54:40 PT [2022/01/01 23:54:40 ET]
+Table 'Apus IV' 9-max Seat #8 is the button
+Seat 1: VTN*81 ($1.98 in chips) 
+Seat 2: Gitec350 ($2.74 in chips) 
+Seat 3: VoDoRod773 ($2.02 in chips) 
+Seat 4: 58lebaron ($4.20 in chips) 
+Seat 5: tripmasterhi ($2.12 in chips) 
+Seat 6: iNteldrive ($1.83 in chips) 
+Seat 7: FaithfulDuck ($3.20 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: vladimir5421 ($2.07 in chips) 
+vladimir5421: posts small blind $0.01
+VTN*81: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 4d]
+Gitec350: folds 
+VoDoRod773: folds 
+58lebaron: folds 
+tripmasterhi: folds 
+iNteldrive: raises $0.04 to $0.06
+FaithfulDuck: raises $0.12 to $0.18
+Dorex2007: folds 
+vladimir5421: folds 
+VTN*81: folds 
+iNteldrive: calls $0.12
+*** FLOP *** [6d 6c Jc]
+iNteldrive: bets $0.17
+FaithfulDuck: folds 
+Uncalled bet ($0.17) returned to iNteldrive
+iNteldrive collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [6d 6c Jc]
+Seat 1: VTN*81 (big blind) folded before Flop
+Seat 2: Gitec350 folded before Flop (didn't bet)
+Seat 3: VoDoRod773 folded before Flop (didn't bet)
+Seat 4: 58lebaron folded before Flop (didn't bet)
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive collected ($0.38)
+Seat 7: FaithfulDuck folded on the Flop
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: vladimir5421 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232733679566:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:55:14 PT [2022/01/01 23:55:14 ET]
+Table 'Apus IV' 9-max Seat #9 is the button
+Seat 1: VTN*81 ($1.96 in chips) 
+Seat 2: Gitec350 ($2.74 in chips) 
+Seat 3: VoDoRod773 ($2.02 in chips) 
+Seat 4: 58lebaron ($4.20 in chips) 
+Seat 5: tripmasterhi ($2.12 in chips) 
+Seat 6: iNteldrive ($2.03 in chips) 
+Seat 7: FaithfulDuck ($3.02 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: vladimir5421 ($2.06 in chips) 
+VTN*81: posts small blind $0.01
+Gitec350: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Kh]
+VoDoRod773: folds 
+58lebaron: folds 
+tripmasterhi: raises $0.02 to $0.04
+iNteldrive: folds 
+FaithfulDuck: calls $0.04
+Dorex2007: folds 
+vladimir5421: folds 
+VTN*81: calls $0.03
+Gitec350: folds 
+*** FLOP *** [Qs 9d Td]
+VTN*81: checks 
+tripmasterhi: bets $0.07
+FaithfulDuck: folds 
+VTN*81: folds 
+Uncalled bet ($0.07) returned to tripmasterhi
+tripmasterhi collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Qs 9d Td]
+Seat 1: VTN*81 (small blind) folded on the Flop
+Seat 2: Gitec350 (big blind) folded before Flop
+Seat 3: VoDoRod773 folded before Flop (didn't bet)
+Seat 4: 58lebaron folded before Flop (didn't bet)
+Seat 5: tripmasterhi collected ($0.14)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded on the Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: vladimir5421 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733685343:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:55:54 PT [2022/01/01 23:55:54 ET]
+Table 'Apus IV' 9-max Seat #1 is the button
+Seat 1: VTN*81 ($1.92 in chips) 
+Seat 2: Gitec350 ($2.72 in chips) 
+Seat 3: VoDoRod773 ($2.02 in chips) 
+Seat 4: 58lebaron ($4.20 in chips) 
+Seat 5: tripmasterhi ($2.22 in chips) 
+Seat 6: iNteldrive ($2.03 in chips) 
+Seat 7: FaithfulDuck ($2.98 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: vladimir5421 ($2.06 in chips) 
+Gitec350: posts small blind $0.01
+VoDoRod773: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Kh]
+58lebaron: folds 
+tripmasterhi: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: raises $0.02 to $0.04
+vladimir5421: folds 
+VTN*81: calls $0.04
+Gitec350: folds 
+VoDoRod773: calls $0.02
+*** FLOP *** [3h Qc 6d]
+VoDoRod773: checks 
+Dorex2007: checks 
+VTN*81: checks 
+*** TURN *** [3h Qc 6d] [Jd]
+VoDoRod773: checks 
+Dorex2007: bets $0.09
+VTN*81: folds 
+VoDoRod773: folds 
+Uncalled bet ($0.09) returned to Dorex2007
+Dorex2007 collected $0.13 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3h Qc 6d Jd]
+Seat 1: VTN*81 (button) folded on the Turn
+Seat 2: Gitec350 (small blind) folded before Flop
+Seat 3: VoDoRod773 (big blind) folded on the Turn
+Seat 4: 58lebaron folded before Flop (didn't bet)
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 collected ($0.13)
+Seat 9: vladimir5421 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733691352:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:56:35 PT [2022/01/01 23:56:35 ET]
+Table 'Apus IV' 9-max Seat #2 is the button
+Seat 1: VTN*81 ($1.88 in chips) 
+Seat 2: Gitec350 ($2.71 in chips) 
+Seat 3: VoDoRod773 ($2 in chips) 
+Seat 4: 58lebaron ($4.20 in chips) 
+Seat 5: tripmasterhi ($2.22 in chips) 
+Seat 6: iNteldrive ($2.03 in chips) 
+Seat 7: FaithfulDuck ($2.98 in chips) 
+Seat 8: Dorex2007 ($2.09 in chips) 
+Seat 9: vladimir5421 ($2.06 in chips) 
+VoDoRod773: posts small blind $0.01
+58lebaron: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 2c]
+tripmasterhi: folds 
+iNteldrive: folds 
+FaithfulDuck: folds 
+Dorex2007: folds 
+vladimir5421: folds 
+VTN*81: calls $0.02
+Gitec350: folds 
+VoDoRod773: folds 
+58lebaron: checks 
+*** FLOP *** [Js Tc 5s]
+58lebaron: bets $0.02
+VTN*81: calls $0.02
+*** TURN *** [Js Tc 5s] [2s]
+58lebaron: checks 
+VTN*81: checks 
+*** RIVER *** [Js Tc 5s 2s] [9h]
+58lebaron: checks 
+VTN*81: bets $0.06
+58lebaron: folds 
+Uncalled bet ($0.06) returned to VTN*81
+VTN*81 collected $0.09 from pot
+VTN*81: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Js Tc 5s 2s 9h]
+Seat 1: VTN*81 collected ($0.09)
+Seat 2: Gitec350 (button) folded before Flop (didn't bet)
+Seat 3: VoDoRod773 (small blind) folded before Flop
+Seat 4: 58lebaron (big blind) folded on the River
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: vladimir5421 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733698779:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:57:26 PT [2022/01/01 23:57:26 ET]
+Table 'Apus IV' 9-max Seat #3 is the button
+Seat 1: VTN*81 ($1.93 in chips) 
+Seat 2: Gitec350 ($2.71 in chips) 
+Seat 3: VoDoRod773 ($2 in chips) 
+Seat 4: 58lebaron ($4.16 in chips) 
+Seat 5: tripmasterhi ($2.22 in chips) 
+Seat 6: iNteldrive ($2.03 in chips) 
+Seat 7: FaithfulDuck ($2.98 in chips) 
+Seat 8: Dorex2007 ($2.09 in chips) 
+Seat 9: vladimir5421 ($2.06 in chips) 
+58lebaron: posts small blind $0.01
+tripmasterhi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Tc]
+iNteldrive: folds 
+FaithfulDuck: raises $0.03 to $0.05
+Dorex2007: folds 
+vladimir5421: folds 
+VTN*81: folds 
+Gitec350: folds 
+VoDoRod773: folds 
+58lebaron: folds 
+tripmasterhi: folds 
+Uncalled bet ($0.03) returned to FaithfulDuck
+FaithfulDuck collected $0.05 from pot
+FaithfulDuck: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: VTN*81 folded before Flop (didn't bet)
+Seat 2: Gitec350 folded before Flop (didn't bet)
+Seat 3: VoDoRod773 (button) folded before Flop (didn't bet)
+Seat 4: 58lebaron (small blind) folded before Flop
+Seat 5: tripmasterhi (big blind) folded before Flop
+Seat 6: iNteldrive folded before Flop (didn't bet)
+Seat 7: FaithfulDuck collected ($0.05)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: vladimir5421 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733701696:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:57:46 PT [2022/01/01 23:57:46 ET]
+Table 'Apus IV' 9-max Seat #4 is the button
+Seat 1: VTN*81 ($1.93 in chips) 
+Seat 2: Gitec350 ($2.71 in chips) 
+Seat 3: VoDoRod773 ($2 in chips) 
+Seat 4: 58lebaron ($4.15 in chips) 
+Seat 5: tripmasterhi ($2.20 in chips) 
+Seat 6: iNteldrive ($2.03 in chips) 
+Seat 7: FaithfulDuck ($3.01 in chips) 
+Seat 8: Dorex2007 ($2.09 in chips) 
+Seat 9: vladimir5421 ($2.06 in chips) 
+tripmasterhi: posts small blind $0.01
+iNteldrive: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 3h]
+FaithfulDuck: folds 
+Dorex2007: folds 
+vladimir5421: raises $0.04 to $0.06
+VTN*81: folds 
+Gitec350: folds 
+VoDoRod773: folds 
+58lebaron: folds 
+tripmasterhi: folds 
+iNteldrive: calls $0.04
+*** FLOP *** [5s Th 6h]
+iNteldrive: bets $0.06
+vladimir5421: raises $0.13 to $0.19
+iNteldrive: calls $0.13
+*** TURN *** [5s Th 6h] [6s]
+iNteldrive: bets $0.22
+vladimir5421: calls $0.22
+*** RIVER *** [5s Th 6h 6s] [Qd]
+iNteldrive: checks 
+vladimir5421: checks 
+*** SHOW DOWN ***
+iNteldrive: shows [5d Ad] (two pair, Sixes and Fives)
+vladimir5421: shows [Jd Js] (two pair, Jacks and Sixes)
+vladimir5421 collected $0.92 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.03 
+Board [5s Th 6h 6s Qd]
+Seat 1: VTN*81 folded before Flop (didn't bet)
+Seat 2: Gitec350 folded before Flop (didn't bet)
+Seat 3: VoDoRod773 folded before Flop (didn't bet)
+Seat 4: 58lebaron (button) folded before Flop (didn't bet)
+Seat 5: tripmasterhi (small blind) folded before Flop
+Seat 6: iNteldrive (big blind) showed [5d Ad] and lost with two pair, Sixes and Fives
+Seat 7: FaithfulDuck folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: vladimir5421 showed [Jd Js] and won ($0.92) with two pair, Jacks and Sixes
+
+
+
+PokerStars Hand #232733708441:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:58:32 PT [2022/01/01 23:58:32 ET]
+Table 'Apus IV' 9-max Seat #5 is the button
+Seat 1: VTN*81 ($1.93 in chips) 
+Seat 2: Gitec350 ($2.71 in chips) 
+Seat 3: VoDoRod773 ($2 in chips) 
+Seat 4: 58lebaron ($4.15 in chips) 
+Seat 5: tripmasterhi ($2.19 in chips) 
+Seat 6: iNteldrive ($1.56 in chips) 
+Seat 7: FaithfulDuck ($3.01 in chips) 
+Seat 8: Dorex2007 ($2.09 in chips) 
+Seat 9: vladimir5421 ($2.51 in chips) 
+iNteldrive: posts small blind $0.01
+FaithfulDuck: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad Ts]
+Dorex2007: folds 
+vladimir5421: folds 
+VTN*81: folds 
+Gitec350: folds 
+VoDoRod773: folds 
+58lebaron: calls $0.02
+tripmasterhi: folds 
+iNteldrive: raises $0.04 to $0.06
+FaithfulDuck: folds 
+58lebaron: calls $0.04
+*** FLOP *** [Qh 4d 5c]
+iNteldrive: bets $0.06
+58lebaron: raises $0.26 to $0.32
+iNteldrive: calls $0.26
+*** TURN *** [Qh 4d 5c] [9h]
+iNteldrive: checks 
+58lebaron: bets $0.04
+iNteldrive: raises $0.68 to $0.72
+58lebaron: calls $0.68
+*** RIVER *** [Qh 4d 5c 9h] [9s]
+iNteldrive: bets $0.46 and is all-in
+58lebaron: calls $0.46
+*** SHOW DOWN ***
+iNteldrive: shows [2d 9d] (three of a kind, Nines)
+58lebaron: shows [Jc Qs] (two pair, Queens and Nines)
+iNteldrive collected $3.03 from pot
+*** SUMMARY ***
+Total pot $3.14 | Rake $0.11 
+Board [Qh 4d 5c 9h 9s]
+Seat 1: VTN*81 folded before Flop (didn't bet)
+Seat 2: Gitec350 folded before Flop (didn't bet)
+Seat 3: VoDoRod773 folded before Flop (didn't bet)
+Seat 4: 58lebaron showed [Jc Qs] and lost with two pair, Queens and Nines
+Seat 5: tripmasterhi (button) folded before Flop (didn't bet)
+Seat 6: iNteldrive (small blind) showed [2d 9d] and won ($3.03) with three of a kind, Nines
+Seat 7: FaithfulDuck (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: vladimir5421 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232733720986:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/01 20:59:30 PT [2022/01/01 23:59:30 ET]
+Table 'Apus IV' 9-max Seat #6 is the button
+Seat 1: VTN*81 ($1.93 in chips) 
+Seat 2: Gitec350 ($2.71 in chips) 
+Seat 3: VoDoRod773 ($2 in chips) 
+Seat 4: 58lebaron ($2.59 in chips) 
+Seat 5: tripmasterhi ($2.19 in chips) 
+Seat 6: iNteldrive ($3.03 in chips) 
+Seat 7: FaithfulDuck ($2.99 in chips) 
+Seat 8: Dorex2007 ($2.09 in chips) 
+Seat 9: vladimir5421 ($2.51 in chips) 
+FaithfulDuck: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 6s]
+iNteldrive said, ":DDDDDDDDDDDDD"
+vladimir5421: folds 
+VTN*81: folds 
+iNteldrive said, "ROFL"
+Gitec350: folds 
+VoDoRod773: folds 
+iNteldrive said, "AHHAHAHAHAHAHAH"
+58lebaron: folds 
+tripmasterhi: folds 
+iNteldrive: raises $0.04 to $0.06
+FaithfulDuck: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to iNteldrive
+iNteldrive collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: VTN*81 folded before Flop (didn't bet)
+Seat 2: Gitec350 folded before Flop (didn't bet)
+Seat 3: VoDoRod773 folded before Flop (didn't bet)
+Seat 4: 58lebaron folded before Flop (didn't bet)
+Seat 5: tripmasterhi folded before Flop (didn't bet)
+Seat 6: iNteldrive (button) collected ($0.05)
+Seat 7: FaithfulDuck (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: vladimir5421 folded before Flop (didn't bet)
+
+
+

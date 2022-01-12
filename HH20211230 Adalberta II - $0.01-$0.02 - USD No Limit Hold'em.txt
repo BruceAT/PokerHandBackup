@@ -1,0 +1,4375 @@
+﻿PokerStars Hand #232678664361:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:10:14 PT [2021/12/30 22:10:14 ET]
+Table 'Adalberta II' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.50 in chips) 
+Seat 3: kamafeus ($1.32 in chips) 
+Seat 4: shinjibe ($1.75 in chips) 
+Seat 5: TopSparrow ($1.95 in chips) 
+Seat 7: nabixo ($3.05 in chips) 
+Seat 8: richard4848 ($1.97 in chips) 
+Seat 9: TheBigStep ($6.23 in chips) 
+kamafeus: posts small blind $0.01
+shinjibe: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 8c]
+TopSparrow: folds 
+nabixo: calls $0.02
+richard4848: folds 
+TheBigStep: folds 
+Dorex2007: raises $0.04 to $0.06
+abufirs: calls $0.06
+kamafeus: folds 
+shinjibe: calls $0.04
+nabixo: calls $0.04
+*** FLOP *** [6s 6h 3h]
+shinjibe: bets $0.12
+nabixo: calls $0.12
+Dorex2007: folds 
+abufirs: raises $0.60 to $0.72
+shinjibe: folds 
+nabixo: calls $0.60
+*** TURN *** [6s 6h 3h] [6d]
+nabixo: bets $0.27
+abufirs: raises $0.45 to $0.72 and is all-in
+nabixo: calls $0.45
+*** RIVER *** [6s 6h 3h 6d] [2h]
+*** SHOW DOWN ***
+nabixo: shows [Jh Kh] (a flush, King high)
+abufirs: shows [Qs Qd] (a full house, Sixes full of Queens)
+abufirs collected $3.14 from pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.11 
+Board [6s 6h 3h 6d 2h]
+Seat 1: Dorex2007 folded on the Flop
+Seat 2: abufirs (button) showed [Qs Qd] and won ($3.14) with a full house, Sixes full of Queens
+Seat 3: kamafeus (small blind) folded before Flop
+Seat 4: shinjibe (big blind) folded on the Flop
+Seat 5: TopSparrow folded before Flop (didn't bet)
+Seat 7: nabixo showed [Jh Kh] and lost with a flush, King high
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232678684253:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:11:30 PT [2021/12/30 22:11:30 ET]
+Table 'Adalberta II' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($3.14 in chips) 
+Seat 3: kamafeus ($1.31 in chips) 
+Seat 4: shinjibe ($1.57 in chips) 
+Seat 5: TopSparrow ($1.95 in chips) 
+Seat 7: nabixo ($1.55 in chips) 
+Seat 8: richard4848 ($1.97 in chips) 
+Seat 9: TheBigStep ($6.23 in chips) 
+shinjibe: posts small blind $0.01
+TopSparrow: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Jh]
+nabixo: folds 
+richard4848: folds 
+TheBigStep: raises $0.03 to $0.05
+Dorex2007: calls $0.05
+abufirs: calls $0.05
+kamafeus: calls $0.05
+shinjibe: folds 
+TopSparrow: folds 
+*** FLOP *** [Td Qc 7h]
+TheBigStep: checks 
+Dorex2007: checks 
+abufirs: bets $0.11
+kamafeus: raises $1.15 to $1.26 and is all-in
+TheBigStep: folds 
+Dorex2007: folds 
+abufirs: folds 
+Uncalled bet ($1.15) returned to kamafeus
+kamafeus collected $0.43 from pot
+kamafeus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Td Qc 7h]
+Seat 1: Dorex2007 folded on the Flop
+Seat 2: abufirs folded on the Flop
+Seat 3: kamafeus (button) collected ($0.43)
+Seat 4: shinjibe (small blind) folded before Flop
+Seat 5: TopSparrow (big blind) folded before Flop
+Seat 7: nabixo folded before Flop (didn't bet)
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep folded on the Flop
+
+
+
+PokerStars Hand #232678694637:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:12:10 PT [2021/12/30 22:12:10 ET]
+Table 'Adalberta II' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($2.98 in chips) 
+Seat 3: kamafeus ($1.58 in chips) 
+Seat 4: shinjibe ($1.56 in chips) 
+Seat 5: TopSparrow ($1.93 in chips) 
+Seat 7: nabixo ($1.55 in chips) 
+Seat 8: richard4848 ($1.97 in chips) 
+Seat 9: TheBigStep ($6.18 in chips) 
+TopSparrow: posts small blind $0.01
+nabixo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Qh]
+richard4848: folds 
+TheBigStep: raises $0.03 to $0.05
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: calls $0.05
+shinjibe: calls $0.05
+TopSparrow: folds 
+nabixo: calls $0.03
+*** FLOP *** [3c 7c 6d]
+nabixo: checks 
+TheBigStep: checks 
+kamafeus: checks 
+shinjibe: checks 
+*** TURN *** [3c 7c 6d] [Jd]
+nabixo: checks 
+TheBigStep: bets $0.07
+kamafeus: calls $0.07
+shinjibe: calls $0.07
+nabixo: folds 
+*** RIVER *** [3c 7c 6d Jd] [3h]
+TheBigStep: checks 
+kamafeus: checks 
+shinjibe: bets $0.21
+TheBigStep: calls $0.21
+kamafeus: calls $0.21
+*** SHOW DOWN ***
+shinjibe: shows [Th Qd] (a pair of Threes)
+TheBigStep: shows [Ks 7s] (two pair, Sevens and Threes)
+kamafeus: shows [Jh Kd] (two pair, Jacks and Threes)
+kamafeus collected $1.01 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.04 
+Board [3c 7c 6d Jd 3h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus showed [Jh Kd] and won ($1.01) with two pair, Jacks and Threes
+Seat 4: shinjibe (button) showed [Th Qd] and lost with a pair of Threes
+Seat 5: TopSparrow (small blind) folded before Flop
+Seat 7: nabixo (big blind) folded on the Turn
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep showed [Ks 7s] and lost with two pair, Sevens and Threes
+
+
+
+PokerStars Hand #232678710885:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:13:12 PT [2021/12/30 22:13:12 ET]
+Table 'Adalberta II' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($2.98 in chips) 
+Seat 3: kamafeus ($2.26 in chips) 
+Seat 4: shinjibe ($1.23 in chips) 
+Seat 5: TopSparrow ($1.92 in chips) 
+Seat 7: nabixo ($1.50 in chips) 
+Seat 8: richard4848 ($1.97 in chips) 
+Seat 9: TheBigStep ($5.85 in chips) 
+nabixo: posts small blind $0.01
+richard4848: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 9s]
+TheBigStep: folds 
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: folds 
+shinjibe: folds 
+TopSparrow: folds 
+nabixo: folds 
+Uncalled bet ($0.01) returned to richard4848
+richard4848 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 4: shinjibe folded before Flop (didn't bet)
+Seat 5: TopSparrow (button) folded before Flop (didn't bet)
+Seat 7: nabixo (small blind) folded before Flop
+Seat 8: richard4848 (big blind) collected ($0.02)
+Seat 9: TheBigStep folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232678713802:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:13:24 PT [2021/12/30 22:13:24 ET]
+Table 'Adalberta II' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($2.98 in chips) 
+Seat 3: kamafeus ($2.26 in chips) 
+Seat 4: shinjibe ($1.23 in chips) 
+Seat 5: TopSparrow ($1.92 in chips) 
+Seat 7: nabixo ($1.49 in chips) 
+Seat 8: richard4848 ($1.98 in chips) 
+Seat 9: TheBigStep ($5.85 in chips) 
+richard4848: posts small blind $0.01
+TheBigStep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Ac]
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: folds 
+shinjibe: raises $0.04 to $0.06
+TopSparrow: folds 
+nabixo: folds 
+richard4848: folds 
+TheBigStep: calls $0.04
+*** FLOP *** [5h Jd Kh]
+TheBigStep: checks 
+shinjibe: bets $0.06
+TheBigStep: calls $0.06
+*** TURN *** [5h Jd Kh] [Qs]
+TheBigStep: checks 
+shinjibe: checks 
+*** RIVER *** [5h Jd Kh Qs] [6h]
+TheBigStep: bets $0.13
+shinjibe: folds 
+Uncalled bet ($0.13) returned to TheBigStep
+TheBigStep collected $0.24 from pot
+TheBigStep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [5h Jd Kh Qs 6h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 4: shinjibe folded on the River
+Seat 5: TopSparrow folded before Flop (didn't bet)
+Seat 7: nabixo (button) folded before Flop (didn't bet)
+Seat 8: richard4848 (small blind) folded before Flop
+Seat 9: TheBigStep (big blind) collected ($0.24)
+
+
+
+PokerStars Hand #232678725332:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:14:09 PT [2021/12/30 22:14:09 ET]
+Table 'Adalberta II' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($2.98 in chips) 
+Seat 3: kamafeus ($2.26 in chips) 
+Seat 4: shinjibe ($1.11 in chips) 
+Seat 5: TopSparrow ($1.92 in chips) 
+Seat 6: JosephClimberB ($1.58 in chips) 
+Seat 7: nabixo ($1.49 in chips) 
+Seat 8: richard4848 ($1.97 in chips) 
+Seat 9: TheBigStep ($5.97 in chips) 
+TheBigStep: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+JosephClimberB: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Ts]
+abufirs: folds 
+kamafeus: folds 
+shinjibe: raises $0.04 to $0.06
+TopSparrow: calls $0.06
+JosephClimberB: calls $0.04
+nabixo: folds 
+richard4848: folds 
+TheBigStep: calls $0.05
+Dorex2007: folds 
+*** FLOP *** [Ks Qc 9d]
+TheBigStep: checks 
+shinjibe: checks 
+TopSparrow: checks 
+JosephClimberB: bets $0.18
+TheBigStep: calls $0.18
+shinjibe: folds 
+TopSparrow: folds 
+*** TURN *** [Ks Qc 9d] [7s]
+TheBigStep: checks 
+JosephClimberB: bets $0.26
+TheBigStep: raises $0.94 to $1.20
+JosephClimberB: calls $0.94
+*** RIVER *** [Ks Qc 9d 7s] [6h]
+TheBigStep: bets $0.96
+JosephClimberB: calls $0.13 and is all-in
+Uncalled bet ($0.83) returned to TheBigStep
+*** SHOW DOWN ***
+TheBigStep: shows [Th Jd] (a straight, Nine to King)
+JosephClimberB: shows [Js Tc] (a straight, Nine to King)
+TheBigStep collected $1.59 from pot
+JosephClimberB collected $1.58 from pot
+*** SUMMARY ***
+Total pot $3.29 | Rake $0.12 
+Board [Ks Qc 9d 7s 6h]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 4: shinjibe folded on the Flop
+Seat 5: TopSparrow folded on the Flop
+Seat 6: JosephClimberB showed [Js Tc] and won ($1.58) with a straight, Nine to King
+Seat 7: nabixo folded before Flop (didn't bet)
+Seat 8: richard4848 (button) folded before Flop (didn't bet)
+Seat 9: TheBigStep (small blind) showed [Th Jd] and won ($1.59) with a straight, Nine to King
+
+
+
+PokerStars Hand #232678742132:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:15:14 PT [2021/12/30 22:15:14 ET]
+Table 'Adalberta II' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 3: kamafeus ($2.26 in chips) 
+Seat 4: shinjibe ($1.05 in chips) 
+Seat 5: TopSparrow ($1.86 in chips) 
+Seat 6: JosephClimberB ($1.58 in chips) 
+Seat 7: nabixo ($1.49 in chips) 
+Seat 8: richard4848 ($1.97 in chips) 
+Seat 9: TheBigStep ($5.99 in chips) 
+Dorex2007: posts small blind $0.01
+kamafeus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Ks]
+shinjibe: folds 
+TopSparrow: folds 
+JosephClimberB: folds 
+nabixo: folds 
+richard4848: calls $0.02
+TheBigStep: calls $0.02
+Dorex2007: folds 
+kamafeus: checks 
+*** FLOP *** [Jh 8d 9h]
+kamafeus: checks 
+richard4848: bets $0.08
+TheBigStep: calls $0.08
+kamafeus: folds 
+*** TURN *** [Jh 8d 9h] [7s]
+richard4848: checks 
+TheBigStep: checks 
+*** RIVER *** [Jh 8d 9h 7s] [Kh]
+richard4848: bets $0.16
+TheBigStep: calls $0.16
+*** SHOW DOWN ***
+richard4848: shows [4h 5h] (a flush, King high)
+TheBigStep: mucks hand 
+richard4848 collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Jh 8d 9h 7s Kh]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 3: kamafeus (big blind) folded on the Flop
+Seat 4: shinjibe folded before Flop (didn't bet)
+Seat 5: TopSparrow folded before Flop (didn't bet)
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: nabixo folded before Flop (didn't bet)
+Seat 8: richard4848 showed [4h 5h] and won ($0.53) with a flush, King high
+Seat 9: TheBigStep (button) mucked [3d As]
+
+
+
+PokerStars Hand #232678758610:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:16:19 PT [2021/12/30 22:16:19 ET]
+Table 'Adalberta II' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 3: kamafeus ($2.24 in chips) 
+Seat 4: shinjibe ($1.05 in chips) 
+Seat 5: TopSparrow ($1.86 in chips) 
+Seat 6: JosephClimberB ($1.58 in chips) 
+Seat 7: nabixo ($1.49 in chips) 
+Seat 8: richard4848 ($2.24 in chips) 
+Seat 9: TheBigStep ($5.73 in chips) 
+kamafeus: posts small blind $0.01
+shinjibe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Ah]
+TopSparrow: folds 
+JosephClimberB: folds 
+nabixo: calls $0.02
+richard4848: raises $0.08 to $0.10
+TheBigStep: calls $0.10
+Dorex2007: folds 
+kamafeus: folds 
+shinjibe: calls $0.08
+nabixo: calls $0.08
+*** FLOP *** [Ks 3s 6s]
+shinjibe: bets $0.20
+nabixo: folds 
+richard4848: folds 
+TheBigStep: calls $0.20
+*** TURN *** [Ks 3s 6s] [9c]
+shinjibe: bets $0.75 and is all-in
+TheBigStep: calls $0.75
+*** RIVER *** [Ks 3s 6s 9c] [5d]
+*** SHOW DOWN ***
+shinjibe: shows [Kc 5s] (two pair, Kings and Fives)
+TheBigStep: shows [Ts Kh] (a pair of Kings)
+shinjibe collected $2.23 from pot
+*** SUMMARY ***
+Total pot $2.31 | Rake $0.08 
+Board [Ks 3s 6s 9c 5d]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: kamafeus (small blind) folded before Flop
+Seat 4: shinjibe (big blind) showed [Kc 5s] and won ($2.23) with two pair, Kings and Fives
+Seat 5: TopSparrow folded before Flop (didn't bet)
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: nabixo folded on the Flop
+Seat 8: richard4848 folded on the Flop
+Seat 9: TheBigStep showed [Ts Kh] and lost with a pair of Kings
+
+
+
+PokerStars Hand #232678780282:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:17:12 PT [2021/12/30 22:17:12 ET]
+Table 'Adalberta II' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 3: kamafeus ($2.23 in chips) 
+Seat 4: shinjibe ($2.23 in chips) 
+Seat 5: TopSparrow ($1.86 in chips) 
+Seat 6: JosephClimberB ($1.58 in chips) 
+Seat 7: nabixo ($1.39 in chips) 
+Seat 8: richard4848 ($2.14 in chips) 
+Seat 9: TheBigStep ($4.68 in chips) 
+shinjibe: posts small blind $0.01
+TopSparrow: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Ac]
+JosephClimberB: raises $0.04 to $0.06
+nabixo: calls $0.06
+richard4848: calls $0.06
+TheBigStep: folds 
+Dorex2007: folds 
+kamafeus: calls $0.06
+shinjibe: calls $0.05
+TopSparrow: folds 
+*** FLOP *** [3s Jc 8s]
+shinjibe: bets $0.16
+JosephClimberB: calls $0.16
+nabixo: folds 
+richard4848: folds 
+kamafeus: folds 
+*** TURN *** [3s Jc 8s] [8d]
+shinjibe: bets $0.31
+JosephClimberB: calls $0.31
+*** RIVER *** [3s Jc 8s 8d] [Qh]
+shinjibe: bets $1.70 and is all-in
+JosephClimberB: calls $1.05 and is all-in
+Uncalled bet ($0.65) returned to shinjibe
+*** SHOW DOWN ***
+shinjibe: shows [Js Qd] (two pair, Queens and Jacks)
+JosephClimberB: shows [Jh Th] (two pair, Jacks and Eights)
+shinjibe collected $3.24 from pot
+*** SUMMARY ***
+Total pot $3.36 | Rake $0.12 
+Board [3s Jc 8s 8d Qh]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: kamafeus (button) folded on the Flop
+Seat 4: shinjibe (small blind) showed [Js Qd] and won ($3.24) with two pair, Queens and Jacks
+Seat 5: TopSparrow (big blind) folded before Flop
+Seat 6: JosephClimberB showed [Jh Th] and lost with two pair, Jacks and Eights
+Seat 7: nabixo folded on the Flop
+Seat 8: richard4848 folded on the Flop
+Seat 9: TheBigStep folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232678796097:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:18:14 PT [2021/12/30 22:18:14 ET]
+Table 'Adalberta II' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($2.98 in chips) 
+Seat 3: kamafeus ($2.17 in chips) 
+Seat 4: shinjibe ($3.89 in chips) 
+Seat 5: TopSparrow ($1.84 in chips) 
+Seat 7: nabixo ($1.33 in chips) 
+Seat 8: richard4848 ($2.08 in chips) 
+Seat 9: TheBigStep ($4.68 in chips) 
+TopSparrow: posts small blind $0.01
+nabixo: posts big blind $0.02
+abufirs: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 8d]
+richard4848: folds 
+TheBigStep: folds 
+Dorex2007: folds 
+abufirs: checks 
+kamafeus: folds 
+shinjibe: folds 
+TopSparrow: calls $0.01
+nabixo: checks 
+*** FLOP *** [8s Th 9c]
+TopSparrow: checks 
+nabixo: checks 
+abufirs: bets $0.07
+TopSparrow: folds 
+nabixo: folds 
+Uncalled bet ($0.07) returned to abufirs
+abufirs collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [8s Th 9c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs collected ($0.07)
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 4: shinjibe (button) folded before Flop (didn't bet)
+Seat 5: TopSparrow (small blind) folded on the Flop
+Seat 7: nabixo (big blind) folded on the Flop
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232678807384:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:18:59 PT [2021/12/30 22:18:59 ET]
+Table 'Adalberta II' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($3.02 in chips) 
+Seat 3: kamafeus ($2.17 in chips) 
+Seat 4: shinjibe ($3.89 in chips) 
+Seat 5: TopSparrow ($1.82 in chips) 
+Seat 7: nabixo ($1.31 in chips) 
+Seat 8: richard4848 ($2.08 in chips) 
+Seat 9: TheBigStep ($4.68 in chips) 
+nabixo: posts small blind $0.01
+richard4848: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 5c]
+TheBigStep: folds 
+Dorex2007: folds 
+abufirs: raises $0.08 to $0.10
+kamafeus: folds 
+shinjibe: calls $0.10
+TopSparrow: folds 
+nabixo: calls $0.09
+richard4848: folds 
+*** FLOP *** [3s 7d 8h]
+nabixo: checks 
+abufirs: bets $0.31
+shinjibe: calls $0.31
+nabixo: folds 
+*** TURN *** [3s 7d 8h] [4d]
+abufirs: bets $0.91
+shinjibe: calls $0.91
+*** RIVER *** [3s 7d 8h 4d] [6h]
+abufirs: bets $1.70 and is all-in
+shinjibe: calls $1.70
+*** SHOW DOWN ***
+abufirs: shows [Jd Js] (a pair of Jacks)
+shinjibe: shows [5h 7s] (a straight, Four to Eight)
+shinjibe collected $5.94 from pot
+*** SUMMARY ***
+Total pot $6.16 | Rake $0.22 
+Board [3s 7d 8h 4d 6h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs showed [Jd Js] and lost with a pair of Jacks
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 4: shinjibe showed [5h 7s] and won ($5.94) with a straight, Four to Eight
+Seat 5: TopSparrow (button) folded before Flop (didn't bet)
+Seat 7: nabixo (small blind) folded on the Flop
+Seat 8: richard4848 (big blind) folded before Flop
+Seat 9: TheBigStep folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232678831501:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:19:56 PT [2021/12/30 22:19:56 ET]
+Table 'Adalberta II' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 3: kamafeus ($2.17 in chips) 
+Seat 4: shinjibe ($6.81 in chips) 
+Seat 5: TopSparrow ($1.82 in chips) 
+Seat 6: JosephClimberB ($2 in chips) 
+Seat 7: nabixo ($1.21 in chips) 
+Seat 8: richard4848 ($2.06 in chips) 
+Seat 9: TheBigStep ($4.68 in chips) 
+richard4848: posts small blind $0.01
+TheBigStep: posts big blind $0.02
+JosephClimberB: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 3d]
+Dorex2007: folds 
+kamafeus: calls $0.02
+shinjibe: folds 
+TopSparrow: folds 
+JosephClimberB: checks 
+nabixo: folds 
+richard4848: calls $0.01
+TheBigStep: checks 
+*** FLOP *** [Td 7h 7s]
+richard4848: checks 
+TheBigStep: checks 
+kamafeus: checks 
+JosephClimberB: bets $0.09
+richard4848: folds 
+TheBigStep: folds 
+kamafeus: folds 
+Uncalled bet ($0.09) returned to JosephClimberB
+JosephClimberB collected $0.09 from pot
+JosephClimberB: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Td 7h 7s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: kamafeus folded on the Flop
+Seat 4: shinjibe folded before Flop (didn't bet)
+Seat 5: TopSparrow folded before Flop (didn't bet)
+Seat 6: JosephClimberB collected ($0.09)
+Seat 7: nabixo (button) folded before Flop (didn't bet)
+Seat 8: richard4848 (small blind) folded on the Flop
+Seat 9: TheBigStep (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232678845472:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:20:49 PT [2021/12/30 22:20:49 ET]
+Table 'Adalberta II' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($2 in chips) 
+Seat 3: kamafeus ($2.15 in chips) 
+Seat 4: shinjibe ($6.81 in chips) 
+Seat 5: TopSparrow ($1.82 in chips) 
+Seat 6: JosephClimberB ($2.06 in chips) 
+Seat 7: nabixo ($1.21 in chips) 
+Seat 8: richard4848 ($2.04 in chips) 
+Seat 9: TheBigStep ($4.66 in chips) 
+TheBigStep: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Jc]
+abufirs: calls $0.02
+kamafeus: calls $0.02
+shinjibe: folds 
+TopSparrow: folds 
+JosephClimberB: calls $0.02
+nabixo: calls $0.02
+richard4848: folds 
+TheBigStep: raises $4.64 to $4.66 and is all-in
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: folds 
+JosephClimberB: folds 
+nabixo: folds 
+Uncalled bet ($4.64) returned to TheBigStep
+TheBigStep collected $0.12 from pot
+TheBigStep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: abufirs folded before Flop
+Seat 3: kamafeus folded before Flop
+Seat 4: shinjibe folded before Flop (didn't bet)
+Seat 5: TopSparrow folded before Flop (didn't bet)
+Seat 6: JosephClimberB folded before Flop
+Seat 7: nabixo folded before Flop
+Seat 8: richard4848 (button) folded before Flop (didn't bet)
+Seat 9: TheBigStep (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #232678862626:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:21:24 PT [2021/12/30 22:21:24 ET]
+Table 'Adalberta II' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.98 in chips) 
+Seat 3: kamafeus ($2.13 in chips) 
+Seat 4: shinjibe ($6.81 in chips) 
+Seat 5: TopSparrow ($1.82 in chips) 
+Seat 6: JosephClimberB ($2.04 in chips) 
+Seat 7: nabixo ($1.19 in chips) 
+Seat 8: richard4848 ($2.04 in chips) 
+Seat 9: TheBigStep ($4.76 in chips) 
+Dorex2007: posts small blind $0.01
+abufirs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Kd]
+kamafeus: calls $0.02
+shinjibe: folds 
+TopSparrow: folds 
+JosephClimberB: folds 
+nabixo: calls $0.02
+richard4848: folds 
+TheBigStep: calls $0.02
+Dorex2007: folds 
+abufirs: checks 
+*** FLOP *** [Ah 5c 9s]
+abufirs: checks 
+kamafeus: checks 
+nabixo: bets $0.05
+TheBigStep: folds 
+abufirs: calls $0.05
+kamafeus: folds 
+*** TURN *** [Ah 5c 9s] [Ac]
+abufirs: checks 
+nabixo: bets $0.09
+abufirs: calls $0.09
+*** RIVER *** [Ah 5c 9s Ac] [Qc]
+abufirs: checks 
+nabixo: checks 
+*** SHOW DOWN ***
+abufirs: shows [8d 5h] (two pair, Aces and Fives)
+nabixo: shows [2d 9d] (two pair, Aces and Nines)
+nabixo collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Ah 5c 9s Ac Qc]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: abufirs (big blind) showed [8d 5h] and lost with two pair, Aces and Fives
+Seat 3: kamafeus folded on the Flop
+Seat 4: shinjibe folded before Flop (didn't bet)
+Seat 5: TopSparrow folded before Flop (didn't bet)
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: nabixo showed [2d 9d] and won ($0.36) with two pair, Aces and Nines
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep (button) folded on the Flop
+
+
+
+PokerStars Hand #232678877837:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:22:24 PT [2021/12/30 22:22:24 ET]
+Table 'Adalberta II' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.82 in chips) 
+Seat 3: kamafeus ($2.11 in chips) 
+Seat 4: shinjibe ($6.81 in chips) 
+Seat 5: TopSparrow ($1.82 in chips) 
+Seat 6: JosephClimberB ($2.04 in chips) 
+Seat 7: nabixo ($1.39 in chips) 
+Seat 8: richard4848 ($2.04 in chips) 
+Seat 9: TheBigStep ($4.74 in chips) 
+abufirs: posts small blind $0.01
+kamafeus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 4s]
+shinjibe: raises $0.04 to $0.06
+TopSparrow: folds 
+JosephClimberB: folds 
+nabixo: folds 
+richard4848: folds 
+TheBigStep: calls $0.06
+Dorex2007: folds 
+abufirs: calls $0.05
+kamafeus: folds 
+*** FLOP *** [3c 6s 4c]
+abufirs: checks 
+shinjibe: bets $0.19
+TheBigStep: calls $0.19
+abufirs: folds 
+*** TURN *** [3c 6s 4c] [5h]
+shinjibe: checks 
+TheBigStep: bets $0.46
+shinjibe: calls $0.46
+*** RIVER *** [3c 6s 4c 5h] [Js]
+shinjibe: checks 
+TheBigStep: checks 
+*** SHOW DOWN ***
+shinjibe: shows [9d 9h] (a pair of Nines)
+TheBigStep: shows [Jc Ad] (a pair of Jacks)
+TheBigStep collected $1.45 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.05 
+Board [3c 6s 4c 5h Js]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: abufirs (small blind) folded on the Flop
+Seat 3: kamafeus (big blind) folded before Flop
+Seat 4: shinjibe showed [9d 9h] and lost with a pair of Nines
+Seat 5: TopSparrow folded before Flop (didn't bet)
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: nabixo folded before Flop (didn't bet)
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep showed [Jc Ad] and won ($1.45) with a pair of Jacks
+
+
+
+PokerStars Hand #232678891626:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:23:19 PT [2021/12/30 22:23:19 ET]
+Table 'Adalberta II' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.76 in chips) 
+Seat 3: kamafeus ($2.09 in chips) 
+Seat 4: shinjibe ($6.10 in chips) 
+Seat 5: TopSparrow ($1.82 in chips) 
+Seat 6: JosephClimberB ($2.04 in chips) 
+Seat 7: nabixo ($1.39 in chips) 
+Seat 8: richard4848 ($2.04 in chips) 
+Seat 9: TheBigStep ($5.48 in chips) 
+kamafeus: posts small blind $0.01
+shinjibe: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 9c]
+TopSparrow: folds 
+JosephClimberB: folds 
+nabixo: folds 
+richard4848: folds 
+TheBigStep: raises $0.03 to $0.05
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: calls $0.04
+shinjibe: folds 
+*** FLOP *** [2s Ac 2c]
+shinjibe leaves the table
+kamafeus: checks 
+AA Cepera AA joins the table at seat #4 
+TheBigStep: checks 
+*** TURN *** [2s Ac 2c] [Ts]
+kamafeus: checks 
+TheBigStep: bets $0.07
+kamafeus: folds 
+Uncalled bet ($0.07) returned to TheBigStep
+TheBigStep collected $0.12 from pot
+TheBigStep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [2s Ac 2c Ts]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs (button) folded before Flop (didn't bet)
+Seat 3: kamafeus (small blind) folded on the Turn
+Seat 4: shinjibe (big blind) folded before Flop
+Seat 5: TopSparrow folded before Flop (didn't bet)
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: nabixo folded before Flop (didn't bet)
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep collected ($0.12)
+
+
+
+PokerStars Hand #232678906281:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:24:16 PT [2021/12/30 22:24:16 ET]
+Table 'Adalberta II' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.76 in chips) 
+Seat 3: kamafeus ($2.04 in chips) 
+Seat 5: TopSparrow ($1.82 in chips) 
+Seat 6: JosephClimberB ($2.04 in chips) 
+Seat 7: nabixo ($1.39 in chips) 
+Seat 8: richard4848 ($2.04 in chips) 
+Seat 9: TheBigStep ($5.55 in chips) 
+TopSparrow: posts small blind $0.01
+JosephClimberB: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 9s]
+nabixo: calls $0.02
+richard4848: folds 
+TheBigStep: calls $0.02
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: folds 
+TopSparrow: folds 
+JosephClimberB: checks 
+*** FLOP *** [2h 2s Ks]
+JosephClimberB: checks 
+nabixo: checks 
+TheBigStep: checks 
+*** TURN *** [2h 2s Ks] [3d]
+JosephClimberB: checks 
+nabixo: bets $0.04
+TheBigStep: calls $0.04
+JosephClimberB: folds 
+*** RIVER *** [2h 2s Ks 3d] [Qd]
+nabixo: bets $0.07
+TheBigStep: raises $0.07 to $0.14
+nabixo: raises $0.07 to $0.21
+TheBigStep: calls $0.07
+*** SHOW DOWN ***
+nabixo: shows [Tc Qh] (two pair, Queens and Deuces)
+TheBigStep: shows [Td Qs] (two pair, Queens and Deuces)
+nabixo collected $0.28 from pot
+TheBigStep collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [2h 2s Ks 3d Qd]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus (button) folded before Flop (didn't bet)
+Seat 5: TopSparrow (small blind) folded before Flop
+Seat 6: JosephClimberB (big blind) folded on the Turn
+Seat 7: nabixo showed [Tc Qh] and won ($0.28) with two pair, Queens and Deuces
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep showed [Td Qs] and won ($0.27) with two pair, Queens and Deuces
+
+
+
+PokerStars Hand #232678922116:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:25:20 PT [2021/12/30 22:25:20 ET]
+Table 'Adalberta II' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.76 in chips) 
+Seat 3: kamafeus ($2.04 in chips) 
+Seat 5: TopSparrow ($1.81 in chips) 
+Seat 6: JosephClimberB ($2.02 in chips) 
+Seat 7: nabixo ($1.40 in chips) 
+Seat 8: richard4848 ($2.04 in chips) 
+Seat 9: TheBigStep ($5.55 in chips) 
+JosephClimberB: posts small blind $0.01
+nabixo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Kc]
+richard4848: folds 
+TheBigStep: raises $0.03 to $0.05
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: folds 
+TopSparrow: folds 
+JosephClimberB: folds 
+nabixo: calls $0.03
+*** FLOP *** [Qd 2h Qc]
+nabixo: bets $0.06
+TheBigStep: calls $0.06
+*** TURN *** [Qd 2h Qc] [5c]
+nabixo: bets $0.11
+TheBigStep: calls $0.11
+*** RIVER *** [Qd 2h Qc 5c] [7c]
+nabixo: bets $0.22
+TheBigStep: raises $0.72 to $0.94
+nabixo: calls $0.72
+*** SHOW DOWN ***
+TheBigStep: shows [Kh Jh] (a pair of Queens)
+nabixo: shows [5s Kd] (two pair, Queens and Fives)
+nabixo collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.33 | Rake $0.08 
+Board [Qd 2h Qc 5c 7c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 5: TopSparrow (button) folded before Flop (didn't bet)
+Seat 6: JosephClimberB (small blind) folded before Flop
+Seat 7: nabixo (big blind) showed [5s Kd] and won ($2.25) with two pair, Queens and Fives
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep showed [Kh Jh] and lost with a pair of Queens
+
+
+
+PokerStars Hand #232678936366:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:26:17 PT [2021/12/30 22:26:17 ET]
+Table 'Adalberta II' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.76 in chips) 
+Seat 3: kamafeus ($2.04 in chips) 
+Seat 5: TopSparrow ($1.81 in chips) 
+Seat 6: JosephClimberB ($2.01 in chips) 
+Seat 7: nabixo ($2.49 in chips) 
+Seat 8: richard4848 ($2.04 in chips) 
+Seat 9: TheBigStep ($4.39 in chips) 
+nabixo: posts small blind $0.01
+richard4848: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 4c]
+TheBigStep: raises $4.37 to $4.39 and is all-in
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: folds 
+TopSparrow: folds 
+JosephClimberB: folds 
+nabixo: folds 
+richard4848: folds 
+Uncalled bet ($4.37) returned to TheBigStep
+TheBigStep collected $0.05 from pot
+TheBigStep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 5: TopSparrow folded before Flop (didn't bet)
+Seat 6: JosephClimberB (button) folded before Flop (didn't bet)
+Seat 7: nabixo (small blind) folded before Flop
+Seat 8: richard4848 (big blind) folded before Flop
+Seat 9: TheBigStep collected ($0.05)
+
+
+
+PokerStars Hand #232678944804:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:26:51 PT [2021/12/30 22:26:51 ET]
+Table 'Adalberta II' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.76 in chips) 
+Seat 3: kamafeus ($2.04 in chips) 
+Seat 5: TopSparrow ($1.81 in chips) 
+Seat 6: JosephClimberB ($2.01 in chips) 
+Seat 7: nabixo ($2.48 in chips) 
+Seat 8: richard4848 ($2.02 in chips) 
+Seat 9: TheBigStep ($4.42 in chips) 
+richard4848: posts small blind $0.01
+TheBigStep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Qh]
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: folds 
+TopSparrow: folds 
+JosephClimberB: folds 
+nabixo: calls $0.02
+richard4848: folds 
+TheBigStep: raises $0.04 to $0.06
+nabixo: calls $0.04
+*** FLOP *** [4c 3c Ts]
+TheBigStep: checks 
+nabixo: checks 
+*** TURN *** [4c 3c Ts] [6s]
+TheBigStep: bets $0.04
+nabixo: calls $0.04
+*** RIVER *** [4c 3c Ts 6s] [8h]
+TheBigStep: bets $0.11
+nabixo: calls $0.11
+*** SHOW DOWN ***
+TheBigStep: shows [7c Ah] (high card Ace)
+nabixo: shows [5h 5d] (a pair of Fives)
+nabixo collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [4c 3c Ts 6s 8h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 5: TopSparrow folded before Flop (didn't bet)
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: nabixo (button) showed [5h 5d] and won ($0.41) with a pair of Fives
+Seat 8: richard4848 (small blind) folded before Flop
+Seat 9: TheBigStep (big blind) showed [7c Ah] and lost with high card Ace
+
+
+
+PokerStars Hand #232678955585:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:27:34 PT [2021/12/30 22:27:34 ET]
+Table 'Adalberta II' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.76 in chips) 
+Seat 3: kamafeus ($2.04 in chips) 
+Seat 5: TopSparrow ($1.81 in chips) 
+Seat 6: JosephClimberB ($2.01 in chips) 
+Seat 7: nabixo ($2.68 in chips) 
+Seat 8: richard4848 ($2.01 in chips) 
+Seat 9: TheBigStep ($4.21 in chips) 
+TheBigStep: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 5h]
+abufirs: calls $0.02
+kamafeus: folds 
+TopSparrow: folds 
+JosephClimberB: calls $0.02
+nabixo: calls $0.02
+richard4848: folds 
+TheBigStep: raises $0.10 to $0.12
+Dorex2007: folds 
+abufirs: calls $0.10
+JosephClimberB: calls $0.10
+nabixo: calls $0.10
+*** FLOP *** [Tc 5s 2s]
+TheBigStep: checks 
+abufirs: checks 
+JosephClimberB: checks 
+nabixo: checks 
+*** TURN *** [Tc 5s 2s] [Jc]
+TheBigStep: bets $0.16
+abufirs: calls $0.16
+JosephClimberB: folds 
+nabixo: folds 
+*** RIVER *** [Tc 5s 2s Jc] [3c]
+TheBigStep: bets $0.72
+abufirs: folds 
+Uncalled bet ($0.72) returned to TheBigStep
+TheBigStep collected $0.79 from pot
+TheBigStep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.03 
+Board [Tc 5s 2s Jc 3c]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: abufirs folded on the River
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 5: TopSparrow folded before Flop (didn't bet)
+Seat 6: JosephClimberB folded on the Turn
+Seat 7: nabixo folded on the Turn
+Seat 8: richard4848 (button) folded before Flop (didn't bet)
+Seat 9: TheBigStep (small blind) collected ($0.79)
+
+
+
+PokerStars Hand #232678969764:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:28:31 PT [2021/12/30 22:28:31 ET]
+Table 'Adalberta II' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.48 in chips) 
+Seat 3: kamafeus ($2.04 in chips) 
+Seat 5: TopSparrow ($1.81 in chips) 
+Seat 6: JosephClimberB ($1.89 in chips) 
+Seat 7: nabixo ($2.56 in chips) 
+Seat 8: richard4848 ($2.01 in chips) 
+Seat 9: TheBigStep ($4.72 in chips) 
+Dorex2007: posts small blind $0.01
+abufirs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 2d]
+kamafeus: folds 
+TopSparrow: folds 
+JosephClimberB: calls $0.02
+nabixo: folds 
+richard4848 has timed out
+richard4848: folds 
+TheBigStep: calls $0.02
+Dorex2007: folds 
+abufirs: checks 
+*** FLOP *** [Qd Ts 9c]
+abufirs: checks 
+JosephClimberB: bets $0.02
+TheBigStep: calls $0.02
+abufirs: calls $0.02
+*** TURN *** [Qd Ts 9c] [3s]
+abufirs: checks 
+JosephClimberB: bets $0.04
+TheBigStep: calls $0.04
+abufirs: calls $0.04
+*** RIVER *** [Qd Ts 9c 3s] [9h]
+abufirs: checks 
+JosephClimberB: checks 
+TheBigStep: checks 
+*** SHOW DOWN ***
+abufirs: shows [Ac Jh] (a pair of Nines)
+JosephClimberB: shows [Ks Jc] (a straight, Nine to King)
+TheBigStep: mucks hand 
+JosephClimberB collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qd Ts 9c 3s 9h]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: abufirs (big blind) showed [Ac Jh] and lost with a pair of Nines
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 5: TopSparrow folded before Flop (didn't bet)
+Seat 6: JosephClimberB showed [Ks Jc] and won ($0.24) with a straight, Nine to King
+Seat 7: nabixo folded before Flop (didn't bet)
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep (button) mucked [2s Kd]
+
+
+
+PokerStars Hand #232678988591:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:29:48 PT [2021/12/30 22:29:48 ET]
+Table 'Adalberta II' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.40 in chips) 
+Seat 3: kamafeus ($2.04 in chips) 
+Seat 5: TopSparrow ($1.81 in chips) 
+Seat 6: JosephClimberB ($2.05 in chips) 
+Seat 7: nabixo ($2.56 in chips) 
+Seat 8: richard4848 ($2.01 in chips) 
+Seat 9: TheBigStep ($4.64 in chips) 
+abufirs: posts small blind $0.01
+kamafeus: posts big blind $0.02
+AA Cepera AA: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Kh]
+TopSparrow: folds 
+JosephClimberB: folds 
+nabixo: calls $0.02
+richard4848: calls $0.02
+TheBigStep: calls $0.02
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: checks 
+*** FLOP *** [Tc 8h 9h]
+kamafeus: bets $2.02 and is all-in
+nabixo: folds 
+richard4848: folds 
+TheBigStep: folds 
+Uncalled bet ($2.02) returned to kamafeus
+kamafeus collected $0.09 from pot
+kamafeus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Tc 8h 9h]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: abufirs (small blind) folded before Flop
+Seat 3: kamafeus (big blind) collected ($0.09)
+Seat 5: TopSparrow folded before Flop (didn't bet)
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: nabixo folded on the Flop
+Seat 8: richard4848 folded on the Flop
+Seat 9: TheBigStep folded on the Flop
+
+
+
+PokerStars Hand #232678999048:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:30:30 PT [2021/12/30 22:30:30 ET]
+Table 'Adalberta II' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.39 in chips) 
+Seat 3: kamafeus ($2.11 in chips) 
+Seat 4: AA Cepera AA ($2 in chips) 
+Seat 5: TopSparrow ($1.81 in chips) 
+Seat 6: JosephClimberB ($2.05 in chips) 
+Seat 7: nabixo ($2.54 in chips) 
+Seat 8: richard4848 ($1.99 in chips) 
+Seat 9: TheBigStep ($4.62 in chips) 
+kamafeus: posts small blind $0.01
+AA Cepera AA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 4d]
+TopSparrow: folds 
+JosephClimberB: folds 
+nabixo: folds 
+richard4848: folds 
+TheBigStep: raises $0.03 to $0.05
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: folds 
+AA Cepera AA: folds 
+Uncalled bet ($0.03) returned to TheBigStep
+TheBigStep collected $0.05 from pot
+TheBigStep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs (button) folded before Flop (didn't bet)
+Seat 3: kamafeus (small blind) folded before Flop
+Seat 4: AA Cepera AA (big blind) folded before Flop
+Seat 5: TopSparrow folded before Flop (didn't bet)
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: nabixo folded before Flop (didn't bet)
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep collected ($0.05)
+
+
+
+PokerStars Hand #232679004752:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:30:54 PT [2021/12/30 22:30:54 ET]
+Table 'Adalberta II' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.39 in chips) 
+Seat 3: kamafeus ($2.10 in chips) 
+Seat 4: AA Cepera AA ($1.98 in chips) 
+Seat 5: TopSparrow ($1.81 in chips) 
+Seat 6: JosephClimberB ($2.05 in chips) 
+Seat 7: nabixo ($2.54 in chips) 
+Seat 8: richard4848 ($1.99 in chips) 
+Seat 9: TheBigStep ($4.65 in chips) 
+AA Cepera AA: posts small blind $0.01
+TopSparrow: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Js]
+JosephClimberB has timed out
+JosephClimberB: folds 
+nabixo: calls $0.02
+richard4848: raises $0.04 to $0.06
+TheBigStep: calls $0.06
+Dorex2007: folds 
+abufirs: raises $1.33 to $1.39 and is all-in
+kamafeus: folds 
+AA Cepera AA: folds 
+TopSparrow: folds 
+nabixo: calls $1.37
+richard4848: folds 
+TheBigStep: folds 
+*** FLOP *** [2c 7c Td]
+*** TURN *** [2c 7c Td] [5c]
+*** RIVER *** [2c 7c Td 5c] [Ks]
+*** SHOW DOWN ***
+nabixo: shows [Jc Qh] (high card King)
+abufirs: shows [Kh As] (a pair of Kings)
+abufirs collected $2.83 from pot
+*** SUMMARY ***
+Total pot $2.93 | Rake $0.10 
+Board [2c 7c Td 5c Ks]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs showed [Kh As] and won ($2.83) with a pair of Kings
+Seat 3: kamafeus (button) folded before Flop (didn't bet)
+Seat 4: AA Cepera AA (small blind) folded before Flop
+Seat 5: TopSparrow (big blind) folded before Flop
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: nabixo showed [Jc Qh] and lost with high card King
+Seat 8: richard4848 folded before Flop
+Seat 9: TheBigStep folded before Flop
+
+
+
+PokerStars Hand #232679018434:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:31:49 PT [2021/12/30 22:31:49 ET]
+Table 'Adalberta II' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($2.83 in chips) 
+Seat 3: kamafeus ($2.10 in chips) 
+Seat 4: AA Cepera AA ($1.97 in chips) 
+Seat 5: TopSparrow ($1.79 in chips) 
+Seat 6: JosephClimberB ($2.05 in chips) 
+Seat 7: nabixo ($1.15 in chips) 
+Seat 8: richard4848 ($1.93 in chips) 
+Seat 9: TheBigStep ($4.59 in chips) 
+TopSparrow: posts small blind $0.01
+JosephClimberB: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 3d]
+nabixo: calls $0.02
+richard4848: folds 
+TheBigStep: folds 
+Dorex2007: calls $0.02
+abufirs: calls $0.02
+kamafeus: calls $0.02
+AA Cepera AA: folds 
+TopSparrow: folds 
+JosephClimberB: checks 
+*** FLOP *** [6c Qh 7c]
+JosephClimberB: checks 
+nabixo: checks 
+Dorex2007: checks 
+abufirs: checks 
+kamafeus: bets $0.11
+JosephClimberB: folds 
+nabixo: calls $0.11
+Dorex2007: folds 
+abufirs: folds 
+*** TURN *** [6c Qh 7c] [3h]
+nabixo: checks 
+kamafeus: bets $0.16
+nabixo: folds 
+Uncalled bet ($0.16) returned to kamafeus
+kamafeus collected $0.32 from pot
+kamafeus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [6c Qh 7c 3h]
+Seat 1: Dorex2007 folded on the Flop
+Seat 2: abufirs folded on the Flop
+Seat 3: kamafeus collected ($0.32)
+Seat 4: AA Cepera AA (button) folded before Flop (didn't bet)
+Seat 5: TopSparrow (small blind) folded before Flop
+Seat 6: JosephClimberB (big blind) folded on the Flop
+Seat 7: nabixo folded on the Turn
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679043992:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:33:33 PT [2021/12/30 22:33:33 ET]
+Table 'Adalberta II' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($2.81 in chips) 
+Seat 3: kamafeus ($2.29 in chips) 
+Seat 4: AA Cepera AA ($1.97 in chips) 
+Seat 5: TopSparrow ($1.78 in chips) 
+Seat 6: JosephClimberB ($2.03 in chips) 
+Seat 7: nabixo ($1.02 in chips) 
+Seat 8: richard4848 ($1.93 in chips) 
+Seat 9: TheBigStep ($4.59 in chips) 
+JosephClimberB: posts small blind $0.01
+nabixo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 6d]
+richard4848: raises $0.06 to $0.08
+TheBigStep: folds 
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: folds 
+AA Cepera AA: calls $0.08
+TopSparrow: folds 
+JosephClimberB: folds 
+nabixo: folds 
+*** FLOP *** [3c 7s 8d]
+richard4848: bets $0.18
+AA Cepera AA: folds 
+Uncalled bet ($0.18) returned to richard4848
+richard4848 collected $0.18 from pot
+richard4848: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [3c 7s 8d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 4: AA Cepera AA folded on the Flop
+Seat 5: TopSparrow (button) folded before Flop (didn't bet)
+Seat 6: JosephClimberB (small blind) folded before Flop
+Seat 7: nabixo (big blind) folded before Flop
+Seat 8: richard4848 collected ($0.18)
+Seat 9: TheBigStep folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679053116:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:34:10 PT [2021/12/30 22:34:10 ET]
+Table 'Adalberta II' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($2.81 in chips) 
+Seat 3: kamafeus ($2.29 in chips) 
+Seat 4: AA Cepera AA ($1.89 in chips) 
+Seat 5: TopSparrow ($1.78 in chips) 
+Seat 6: JosephClimberB ($2.02 in chips) 
+Seat 7: nabixo ($1 in chips) 
+Seat 8: richard4848 ($2.03 in chips) 
+Seat 9: TheBigStep ($4.59 in chips) 
+nabixo: posts small blind $0.01
+richard4848: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Ad]
+TheBigStep: raises $0.02 to $0.04
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: calls $0.04
+AA Cepera AA: folds 
+TopSparrow: folds 
+JosephClimberB: raises $0.04 to $0.08
+nabixo: calls $0.07
+richard4848: folds 
+TheBigStep: calls $0.04
+kamafeus: calls $0.04
+*** FLOP *** [9h Qd 4h]
+nabixo: checks 
+TheBigStep: checks 
+kamafeus: bets $0.17
+JosephClimberB: folds 
+nabixo: raises $0.75 to $0.92 and is all-in
+TheBigStep: folds 
+kamafeus: folds 
+Uncalled bet ($0.75) returned to nabixo
+nabixo collected $0.66 from pot
+nabixo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.68 | Rake $0.02 
+Board [9h Qd 4h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus folded on the Flop
+Seat 4: AA Cepera AA folded before Flop (didn't bet)
+Seat 5: TopSparrow folded before Flop (didn't bet)
+Seat 6: JosephClimberB (button) folded on the Flop
+Seat 7: nabixo (small blind) collected ($0.66)
+Seat 8: richard4848 (big blind) folded before Flop
+Seat 9: TheBigStep folded on the Flop
+
+
+
+PokerStars Hand #232679075904:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:35:43 PT [2021/12/30 22:35:43 ET]
+Table 'Adalberta II' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($2.81 in chips) 
+Seat 3: kamafeus ($2.04 in chips) 
+Seat 4: AA Cepera AA ($1.89 in chips) 
+Seat 5: TopSparrow ($1.78 in chips) 
+Seat 6: JosephClimberB ($1.94 in chips) 
+Seat 7: nabixo ($1.41 in chips) 
+Seat 8: richard4848 ($2.01 in chips) 
+Seat 9: TheBigStep ($4.51 in chips) 
+richard4848: posts small blind $0.01
+TheBigStep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Jc]
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: folds 
+AA Cepera AA: folds 
+TopSparrow: folds 
+JosephClimberB: calls $0.02
+nabixo: calls $0.02
+richard4848: raises $0.08 to $0.10
+TheBigStep: folds 
+JosephClimberB: calls $0.08
+nabixo: calls $0.08
+*** FLOP *** [Qc Ks 7d]
+richard4848: checks 
+JosephClimberB: checks 
+nabixo: checks 
+*** TURN *** [Qc Ks 7d] [3c]
+richard4848: bets $0.31
+JosephClimberB: calls $0.31
+nabixo: folds 
+*** RIVER *** [Qc Ks 7d 3c] [6h]
+richard4848: checks 
+abufirs is disconnected 
+JosephClimberB: bets $0.46
+richard4848: folds 
+Uncalled bet ($0.46) returned to JosephClimberB
+JosephClimberB collected $0.91 from pot
+JosephClimberB: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.94 | Rake $0.03 
+Board [Qc Ks 7d 3c 6h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 4: AA Cepera AA folded before Flop (didn't bet)
+Seat 5: TopSparrow folded before Flop (didn't bet)
+Seat 6: JosephClimberB collected ($0.91)
+Seat 7: nabixo (button) folded on the Turn
+Seat 8: richard4848 (small blind) folded on the River
+Seat 9: TheBigStep (big blind) folded before Flop
+
+
+
+PokerStars Hand #232679089769:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:36:41 PT [2021/12/30 22:36:41 ET]
+Table 'Adalberta II' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($2.81 in chips) 
+Seat 3: kamafeus ($2.04 in chips) 
+Seat 4: AA Cepera AA ($1.89 in chips) 
+Seat 5: TopSparrow ($1.78 in chips) 
+Seat 6: JosephClimberB ($2.44 in chips) 
+Seat 7: nabixo ($1.31 in chips) 
+Seat 8: richard4848 ($1.60 in chips) 
+Seat 9: TheBigStep ($4.49 in chips) 
+TheBigStep: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 2h]
+abufirs has timed out while disconnected
+abufirs: folds 
+kamafeus: folds 
+AA Cepera AA: folds 
+TopSparrow: raises $0.06 to $0.08
+JosephClimberB: folds 
+nabixo: calls $0.08
+richard4848: folds 
+TheBigStep: calls $0.07
+Dorex2007: folds 
+*** FLOP *** [7c Ks Td]
+TheBigStep: checks 
+TopSparrow: bets $0.14
+nabixo: folds 
+TheBigStep: calls $0.14
+*** TURN *** [7c Ks Td] [Kd]
+TheBigStep: checks 
+TopSparrow: bets $0.26
+TheBigStep: raises $1.12 to $1.38
+TopSparrow: folds 
+Uncalled bet ($1.12) returned to TheBigStep
+TheBigStep collected $1.02 from pot
+TheBigStep: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.06 | Rake $0.04 
+Board [7c Ks Td Kd]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 4: AA Cepera AA folded before Flop (didn't bet)
+Seat 5: TopSparrow folded on the Turn
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: nabixo folded on the Flop
+Seat 8: richard4848 (button) folded before Flop (didn't bet)
+Seat 9: TheBigStep (small blind) collected ($1.02)
+
+
+
+PokerStars Hand #232679106626:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:37:41 PT [2021/12/30 22:37:41 ET]
+Table 'Adalberta II' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 3: kamafeus ($2.04 in chips) 
+Seat 4: AA Cepera AA ($1.89 in chips) 
+Seat 5: TopSparrow ($1.30 in chips) 
+Seat 6: JosephClimberB ($2.44 in chips) 
+Seat 7: nabixo ($1.23 in chips) 
+Seat 8: richard4848 ($1.60 in chips) 
+Seat 9: TheBigStep ($5.03 in chips) 
+Dorex2007: posts small blind $0.01
+kamafeus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 3h]
+AA Cepera AA: folds 
+TopSparrow: raises $0.05 to $0.07
+JosephClimberB: folds 
+nabixo: folds 
+richard4848: folds 
+TheBigStep: raises $0.17 to $0.24
+Dorex2007: folds 
+kamafeus: folds 
+TopSparrow: calls $0.17
+*** FLOP *** [4h 2s 2d]
+TopSparrow: checks 
+TheBigStep: bets $0.16
+TopSparrow: folds 
+Uncalled bet ($0.16) returned to TheBigStep
+TheBigStep collected $0.49 from pot
+TheBigStep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [4h 2s 2d]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 3: kamafeus (big blind) folded before Flop
+Seat 4: AA Cepera AA folded before Flop (didn't bet)
+Seat 5: TopSparrow folded on the Flop
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: nabixo folded before Flop (didn't bet)
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep (button) collected ($0.49)
+
+
+
+PokerStars Hand #232679113836:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:38:10 PT [2021/12/30 22:38:10 ET]
+Table 'Adalberta II' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 3: kamafeus ($2.02 in chips) 
+Seat 4: AA Cepera AA ($1.89 in chips) 
+Seat 5: TopSparrow ($1.06 in chips) 
+Seat 6: JosephClimberB ($2.44 in chips) 
+Seat 7: nabixo ($1.23 in chips) 
+Seat 8: richard4848 ($1.60 in chips) 
+Seat 9: TheBigStep ($5.28 in chips) 
+kamafeus: posts small blind $0.01
+AA Cepera AA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 2d]
+TopSparrow: folds 
+JosephClimberB: folds 
+nabixo: calls $0.02
+richard4848: raises $0.04 to $0.06
+TopSparrow leaves the table
+TheBigStep: calls $0.06
+Dorex2007: folds 
+bleffgu joins the table at seat #5 
+kamafeus: folds 
+AA Cepera AA: folds 
+nabixo: calls $0.04
+*** FLOP *** [8h Th 6h]
+nabixo: bets $0.10
+richard4848: calls $0.10
+TheBigStep: calls $0.10
+*** TURN *** [8h Th 6h] [As]
+nabixo: checks 
+richard4848: checks 
+TheBigStep: bets $0.27
+nabixo: folds 
+richard4848: folds 
+Uncalled bet ($0.27) returned to TheBigStep
+TheBigStep collected $0.49 from pot
+TheBigStep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [8h Th 6h As]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: kamafeus (small blind) folded before Flop
+Seat 4: AA Cepera AA (big blind) folded before Flop
+Seat 5: TopSparrow folded before Flop (didn't bet)
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: nabixo folded on the Turn
+Seat 8: richard4848 folded on the Turn
+Seat 9: TheBigStep collected ($0.49)
+
+
+
+PokerStars Hand #232679125635:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:38:59 PT [2021/12/30 22:38:59 ET]
+Table 'Adalberta II' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($2.81 in chips) 
+Seat 3: kamafeus ($2.01 in chips) 
+Seat 4: AA Cepera AA ($1.87 in chips) 
+Seat 5: bleffgu ($1.60 in chips) 
+Seat 6: JosephClimberB ($2.44 in chips) 
+Seat 7: nabixo ($1.07 in chips) 
+Seat 8: richard4848 ($1.44 in chips) 
+Seat 9: TheBigStep ($5.61 in chips) 
+AA Cepera AA: posts small blind $0.01
+bleffgu: posts big blind $0.02
+abufirs: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Jd]
+JosephClimberB has timed out
+JosephClimberB: folds 
+nabixo: raises $0.04 to $0.06
+richard4848: folds 
+TheBigStep: calls $0.06
+Dorex2007: folds 
+abufirs: calls $0.04
+kamafeus: folds 
+AA Cepera AA: folds 
+bleffgu: folds 
+*** FLOP *** [2d Jc 6d]
+nabixo: checks 
+TheBigStep: checks 
+abufirs: checks 
+*** TURN *** [2d Jc 6d] [Ad]
+nabixo: bets $0.21
+TheBigStep: calls $0.21
+abufirs: calls $0.21
+*** RIVER *** [2d Jc 6d Ad] [4s]
+nabixo: bets $0.80 and is all-in
+TheBigStep: calls $0.80
+abufirs: folds 
+*** SHOW DOWN ***
+nabixo: shows [2c Ac] (two pair, Aces and Deuces)
+TheBigStep: shows [9d Td] (a flush, Ace high)
+TheBigStep collected $2.36 from pot
+*** SUMMARY ***
+Total pot $2.45 | Rake $0.09 
+Board [2d Jc 6d Ad 4s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded on the River
+Seat 3: kamafeus (button) folded before Flop (didn't bet)
+Seat 4: AA Cepera AA (small blind) folded before Flop
+Seat 5: bleffgu (big blind) folded before Flop
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: nabixo showed [2c Ac] and lost with two pair, Aces and Deuces
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep showed [9d Td] and won ($2.36) with a flush, Ace high
+
+
+
+PokerStars Hand #232679145891:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:40:24 PT [2021/12/30 22:40:24 ET]
+Table 'Adalberta II' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($2.53 in chips) 
+Seat 3: kamafeus ($2.01 in chips) 
+Seat 4: AA Cepera AA ($1.86 in chips) 
+Seat 5: bleffgu ($1.58 in chips) 
+Seat 6: JosephClimberB ($2.44 in chips) 
+Seat 8: richard4848 ($1.44 in chips) 
+Seat 9: TheBigStep ($6.90 in chips) 
+bleffgu: posts small blind $0.01
+JosephClimberB: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Ad]
+richard4848: calls $0.02
+TheBigStep: calls $0.02
+nabixo leaves the table
+Dorex2007: folds 
+abufirs: calls $0.02
+kamafeus: calls $0.02
+AA Cepera AA: folds 
+bleffgu: calls $0.01
+JosephClimberB: checks 
+*** FLOP *** [4c Jd 2s]
+bleffgu: checks 
+JosephClimberB: checks 
+richard4848: checks 
+TheBigStep: checks 
+pando06 joins the table at seat #7 
+abufirs: checks 
+kamafeus: checks 
+*** TURN *** [4c Jd 2s] [2d]
+bleffgu: bets $0.12
+JosephClimberB: calls $0.12
+richard4848: raises $0.48 to $0.60
+TheBigStep: folds 
+abufirs: folds 
+kamafeus: folds 
+bleffgu: folds 
+JosephClimberB: calls $0.48
+*** RIVER *** [4c Jd 2s 2d] [Qd]
+JosephClimberB: checks 
+richard4848: checks 
+*** SHOW DOWN ***
+JosephClimberB: shows [6d 5d] (a flush, Queen high)
+richard4848: mucks hand 
+JosephClimberB collected $1.39 from pot
+*** SUMMARY ***
+Total pot $1.44 | Rake $0.05 
+Board [4c Jd 2s 2d Qd]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded on the Turn
+Seat 3: kamafeus folded on the Turn
+Seat 4: AA Cepera AA (button) folded before Flop (didn't bet)
+Seat 5: bleffgu (small blind) folded on the Turn
+Seat 6: JosephClimberB (big blind) showed [6d 5d] and won ($1.39) with a flush, Queen high
+Seat 8: richard4848 mucked [Ac 2c]
+Seat 9: TheBigStep folded on the Turn
+
+
+
+PokerStars Hand #232679175480:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:42:04 PT [2021/12/30 22:42:04 ET]
+Table 'Adalberta II' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($2.51 in chips) 
+Seat 3: kamafeus ($1.99 in chips) 
+Seat 4: AA Cepera AA ($1.86 in chips) 
+Seat 5: bleffgu ($1.44 in chips) 
+Seat 6: JosephClimberB ($3.21 in chips) 
+Seat 7: pando06 ($1.02 in chips) 
+Seat 8: richard4848 ($0.82 in chips) 
+Seat 9: TheBigStep ($6.88 in chips) 
+JosephClimberB: posts small blind $0.01
+pando06: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad Qs]
+richard4848: folds 
+TheBigStep: folds 
+Dorex2007: folds 
+abufirs: raises $0.04 to $0.06
+kamafeus: folds 
+AA Cepera AA: folds 
+bleffgu: calls $0.06
+JosephClimberB: folds 
+pando06: folds 
+*** FLOP *** [Tc 6d 7s]
+abufirs: checks 
+bleffgu: bets $0.08
+abufirs: calls $0.08
+*** TURN *** [Tc 6d 7s] [Th]
+abufirs: checks 
+bleffgu: bets $0.13
+abufirs: calls $0.13
+*** RIVER *** [Tc 6d 7s Th] [8s]
+abufirs: checks 
+bleffgu: checks 
+*** SHOW DOWN ***
+abufirs: shows [Qh Kc] (a pair of Tens)
+bleffgu: shows [6h As] (two pair, Tens and Sixes)
+bleffgu collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [Tc 6d 7s Th 8s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs showed [Qh Kc] and lost with a pair of Tens
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 4: AA Cepera AA folded before Flop (didn't bet)
+Seat 5: bleffgu (button) showed [6h As] and won ($0.55) with two pair, Tens and Sixes
+Seat 6: JosephClimberB (small blind) folded before Flop
+Seat 7: pando06 (big blind) folded before Flop
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679189817:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:43:04 PT [2021/12/30 22:43:04 ET]
+Table 'Adalberta II' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($2.24 in chips) 
+Seat 3: kamafeus ($1.99 in chips) 
+Seat 4: AA Cepera AA ($1.86 in chips) 
+Seat 5: bleffgu ($1.72 in chips) 
+Seat 6: JosephClimberB ($3.20 in chips) 
+Seat 7: pando06 ($1 in chips) 
+Seat 8: richard4848 ($0.82 in chips) 
+Seat 9: TheBigStep ($6.88 in chips) 
+pando06: posts small blind $0.01
+richard4848: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Jd]
+TheBigStep: calls $0.02
+Dorex2007: folds 
+abufirs: raises $0.02 to $0.04
+kamafeus: folds 
+AA Cepera AA: folds 
+bleffgu: folds 
+JosephClimberB: folds 
+pando06: calls $0.03
+richard4848: raises $0.78 to $0.82 and is all-in
+TheBigStep: folds 
+abufirs: calls $0.78
+pando06: folds 
+*** FLOP *** [7d 5h 3h]
+*** TURN *** [7d 5h 3h] [Ac]
+*** RIVER *** [7d 5h 3h Ac] [6d]
+*** SHOW DOWN ***
+richard4848: shows [4c 4h] (a straight, Three to Seven)
+abufirs: shows [Tc Kc] (high card Ace)
+richard4848 collected $1.64 from pot
+*** SUMMARY ***
+Total pot $1.70 | Rake $0.06 
+Board [7d 5h 3h Ac 6d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs showed [Tc Kc] and lost with high card Ace
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 4: AA Cepera AA folded before Flop (didn't bet)
+Seat 5: bleffgu folded before Flop (didn't bet)
+Seat 6: JosephClimberB (button) folded before Flop (didn't bet)
+Seat 7: pando06 (small blind) folded before Flop
+Seat 8: richard4848 (big blind) showed [4c 4h] and won ($1.64) with a straight, Three to Seven
+Seat 9: TheBigStep folded before Flop
+
+
+
+PokerStars Hand #232679215001:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:44:15 PT [2021/12/30 22:44:15 ET]
+Table 'Adalberta II' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.42 in chips) 
+Seat 3: kamafeus ($1.99 in chips) 
+Seat 4: AA Cepera AA ($1.86 in chips) 
+Seat 5: bleffgu ($1.72 in chips) 
+Seat 6: JosephClimberB ($3.20 in chips) 
+Seat 7: pando06 ($0.96 in chips) 
+Seat 8: richard4848 ($1.64 in chips) 
+Seat 9: TheBigStep ($6.86 in chips) 
+richard4848: posts small blind $0.01
+TheBigStep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 6h]
+Dorex2007: folds 
+abufirs: calls $0.02
+kamafeus: calls $0.02
+AA Cepera AA: folds 
+bleffgu: folds 
+JosephClimberB: calls $0.02
+pando06: folds 
+richard4848: folds 
+TheBigStep: checks 
+*** FLOP *** [2h 3d Ac]
+TheBigStep: checks 
+abufirs: checks 
+kamafeus: checks 
+JosephClimberB: bets $0.05
+TheBigStep: calls $0.05
+abufirs: folds 
+kamafeus: calls $0.05
+*** TURN *** [2h 3d Ac] [Ts]
+TheBigStep: checks 
+kamafeus: checks 
+JosephClimberB: bets $0.20
+TheBigStep: calls $0.20
+kamafeus: folds 
+*** RIVER *** [2h 3d Ac Ts] [5h]
+TheBigStep: checks 
+JosephClimberB: checks 
+*** SHOW DOWN ***
+TheBigStep: shows [7s Ah] (a pair of Aces)
+JosephClimberB: mucks hand 
+TheBigStep collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.02 
+Board [2h 3d Ac Ts 5h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded on the Flop
+Seat 3: kamafeus folded on the Turn
+Seat 4: AA Cepera AA folded before Flop (didn't bet)
+Seat 5: bleffgu folded before Flop (didn't bet)
+Seat 6: JosephClimberB mucked [Qc Kd]
+Seat 7: pando06 (button) folded before Flop (didn't bet)
+Seat 8: richard4848 (small blind) folded before Flop
+Seat 9: TheBigStep (big blind) showed [7s Ah] and won ($0.62) with a pair of Aces
+
+
+
+PokerStars Hand #232679235683:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:45:43 PT [2021/12/30 22:45:43 ET]
+Table 'Adalberta II' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.40 in chips) 
+Seat 3: kamafeus ($1.92 in chips) 
+Seat 4: AA Cepera AA ($1.86 in chips) 
+Seat 5: bleffgu ($1.72 in chips) 
+Seat 6: JosephClimberB ($2.93 in chips) 
+Seat 7: pando06 ($0.96 in chips) 
+Seat 8: richard4848 ($1.63 in chips) 
+Seat 9: TheBigStep ($7.21 in chips) 
+TheBigStep: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 9s]
+abufirs: calls $0.02
+kamafeus: folds 
+AA Cepera AA: calls $0.02
+bleffgu: folds 
+bleffgu leaves the table
+JosephClimberB: folds 
+pando06: calls $0.02
+richard4848: calls $0.02
+TheBigStep: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [4s 9d 3h]
+TheBigStep: checks 
+Dorex2007: bets $0.08
+King Vladek joins the table at seat #5 
+abufirs: raises $0.28 to $0.36
+AA Cepera AA: folds 
+pando06: folds 
+richard4848: folds 
+TheBigStep: folds 
+Dorex2007: folds 
+Uncalled bet ($0.28) returned to abufirs
+abufirs collected $0.27 from pot
+abufirs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [4s 9d 3h]
+Seat 1: Dorex2007 (big blind) folded on the Flop
+Seat 2: abufirs collected ($0.27)
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 4: AA Cepera AA folded on the Flop
+Seat 5: bleffgu folded before Flop (didn't bet)
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: pando06 folded on the Flop
+Seat 8: richard4848 (button) folded on the Flop
+Seat 9: TheBigStep (small blind) folded on the Flop
+
+
+
+PokerStars Hand #232679244154:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:46:19 PT [2021/12/30 22:46:19 ET]
+Table 'Adalberta II' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.57 in chips) 
+Seat 3: kamafeus ($1.92 in chips) 
+Seat 4: AA Cepera AA ($1.84 in chips) 
+Seat 6: JosephClimberB ($2.93 in chips) 
+Seat 7: pando06 ($0.94 in chips) 
+Seat 8: richard4848 ($1.61 in chips) 
+Seat 9: TheBigStep ($7.19 in chips) 
+Dorex2007: posts small blind $0.01
+abufirs: posts big blind $0.02
+King Vladek: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 8h]
+kamafeus: folds 
+AA Cepera AA: folds 
+JosephClimberB: folds 
+pando06: folds 
+richard4848: folds 
+TheBigStep: raises $0.02 to $0.04
+Dorex2007: folds 
+abufirs: folds 
+Uncalled bet ($0.02) returned to TheBigStep
+TheBigStep collected $0.05 from pot
+TheBigStep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: abufirs (big blind) folded before Flop
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 4: AA Cepera AA folded before Flop (didn't bet)
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: pando06 folded before Flop (didn't bet)
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep (button) collected ($0.05)
+
+
+
+PokerStars Hand #232679247761:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:46:35 PT [2021/12/30 22:46:35 ET]
+Table 'Adalberta II' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.55 in chips) 
+Seat 3: kamafeus ($1.92 in chips) 
+Seat 4: AA Cepera AA ($1.84 in chips) 
+Seat 6: JosephClimberB ($2.93 in chips) 
+Seat 7: pando06 ($0.94 in chips) 
+Seat 8: richard4848 ($1.61 in chips) 
+Seat 9: TheBigStep ($7.22 in chips) 
+abufirs: posts small blind $0.01
+kamafeus: posts big blind $0.02
+King Vladek: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 4s]
+AA Cepera AA: folds 
+JosephClimberB: folds 
+pando06: calls $0.02
+richard4848: folds 
+TheBigStep: calls $0.02
+Dorex2007: folds 
+abufirs: calls $0.01
+kamafeus: checks 
+*** FLOP *** [2s Kc Td]
+abufirs: checks 
+kamafeus: checks 
+pando06: bets $0.04
+TheBigStep: folds 
+abufirs: folds 
+kamafeus: folds 
+Uncalled bet ($0.04) returned to pando06
+pando06 collected $0.08 from pot
+pando06: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [2s Kc Td]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: abufirs (small blind) folded on the Flop
+Seat 3: kamafeus (big blind) folded on the Flop
+Seat 4: AA Cepera AA folded before Flop (didn't bet)
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: pando06 collected ($0.08)
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep folded on the Flop
+
+
+
+PokerStars Hand #232679267293:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:47:27 PT [2021/12/30 22:47:27 ET]
+Table 'Adalberta II' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.53 in chips) 
+Seat 3: kamafeus ($1.90 in chips) 
+Seat 5: King Vladek ($1.60 in chips) 
+Seat 6: JosephClimberB ($2.93 in chips) 
+Seat 7: pando06 ($1 in chips) 
+Seat 8: richard4848 ($1.61 in chips) 
+Seat 9: TheBigStep ($7.20 in chips) 
+kamafeus: posts small blind $0.01
+King Vladek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d Ts]
+JosephClimberB: folds 
+pando06: folds 
+richard4848: folds 
+TheBigStep: folds 
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: calls $0.01
+King Vladek: raises $0.04 to $0.06
+kamafeus: folds 
+Uncalled bet ($0.04) returned to King Vladek
+King Vladek collected $0.04 from pot
+King Vladek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs (button) folded before Flop (didn't bet)
+Seat 3: kamafeus (small blind) folded before Flop
+Seat 5: King Vladek (big blind) collected ($0.04)
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: pando06 folded before Flop (didn't bet)
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679275682:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:48:03 PT [2021/12/30 22:48:03 ET]
+Table 'Adalberta II' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.53 in chips) 
+Seat 3: kamafeus ($1.88 in chips) 
+Seat 5: King Vladek ($1.62 in chips) 
+Seat 6: JosephClimberB ($2.93 in chips) 
+Seat 7: pando06 ($1 in chips) 
+Seat 8: richard4848 ($1.61 in chips) 
+Seat 9: TheBigStep ($7.20 in chips) 
+King Vladek: posts small blind $0.01
+JosephClimberB: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 2c]
+pando06: folds 
+richard4848: folds 
+TheBigStep: folds 
+Dorex2007: folds 
+abufirs: raises $0.04 to $0.06
+kamafeus: folds 
+King Vladek: folds 
+JosephClimberB: folds 
+Uncalled bet ($0.04) returned to abufirs
+abufirs collected $0.05 from pot
+abufirs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs collected ($0.05)
+Seat 3: kamafeus (button) folded before Flop (didn't bet)
+Seat 5: King Vladek (small blind) folded before Flop
+Seat 6: JosephClimberB (big blind) folded before Flop
+Seat 7: pando06 folded before Flop (didn't bet)
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679279123:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:48:18 PT [2021/12/30 22:48:18 ET]
+Table 'Adalberta II' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.56 in chips) 
+Seat 3: kamafeus ($1.88 in chips) 
+Seat 5: King Vladek ($1.61 in chips) 
+Seat 6: JosephClimberB ($2.91 in chips) 
+Seat 7: pando06 ($1 in chips) 
+Seat 8: richard4848 ($1.61 in chips) 
+Seat 9: TheBigStep ($7.20 in chips) 
+JosephClimberB: posts small blind $0.01
+pando06: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Kd]
+richard4848: calls $0.02
+TheBigStep: folds 
+Dorex2007: folds 
+abufirs: calls $0.02
+kamafeus: folds 
+King Vladek: folds 
+JosephClimberB: folds 
+pando06: checks 
+*** FLOP *** [8s Th Kh]
+pando06: checks 
+richard4848: checks 
+abufirs: bets $0.07
+pando06: folds 
+richard4848: calls $0.07
+*** TURN *** [8s Th Kh] [6h]
+richard4848: checks 
+abufirs: bets $0.20
+richard4848: folds 
+Uncalled bet ($0.20) returned to abufirs
+abufirs collected $0.20 from pot
+abufirs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [8s Th Kh 6h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs collected ($0.20)
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 5: King Vladek (button) folded before Flop (didn't bet)
+Seat 6: JosephClimberB (small blind) folded before Flop
+Seat 7: pando06 (big blind) folded on the Flop
+Seat 8: richard4848 folded on the Turn
+Seat 9: TheBigStep folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679291009:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:49:09 PT [2021/12/30 22:49:09 ET]
+Table 'Adalberta II' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.67 in chips) 
+Seat 3: kamafeus ($1.88 in chips) 
+Seat 5: King Vladek ($1.61 in chips) 
+Seat 6: JosephClimberB ($2.90 in chips) 
+Seat 7: pando06 ($0.98 in chips) 
+Seat 8: richard4848 ($1.52 in chips) 
+Seat 9: TheBigStep ($7.20 in chips) 
+pando06: posts small blind $0.01
+richard4848: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Qc]
+TheBigStep: folds 
+Dorex2007: folds 
+abufirs: calls $0.02
+kamafeus: folds 
+King Vladek: folds 
+JosephClimberB: folds 
+pando06: calls $0.01
+richard4848: checks 
+*** FLOP *** [3s 4s 3h]
+pando06: bets $0.03
+richard4848: folds 
+abufirs: folds 
+Uncalled bet ($0.03) returned to pando06
+pando06 collected $0.06 from pot
+pando06: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [3s 4s 3h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded on the Flop
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 5: King Vladek folded before Flop (didn't bet)
+Seat 6: JosephClimberB (button) folded before Flop (didn't bet)
+Seat 7: pando06 (small blind) collected ($0.06)
+Seat 8: richard4848 (big blind) folded on the Flop
+Seat 9: TheBigStep folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679301786:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:49:55 PT [2021/12/30 22:49:55 ET]
+Table 'Adalberta II' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.65 in chips) 
+Seat 3: kamafeus ($1.88 in chips) 
+Seat 5: King Vladek ($1.61 in chips) 
+Seat 6: JosephClimberB ($2.90 in chips) 
+Seat 7: pando06 ($1.02 in chips) 
+Seat 8: richard4848 ($1.50 in chips) 
+Seat 9: TheBigStep ($7.20 in chips) 
+richard4848: posts small blind $0.01
+TheBigStep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Qd]
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: calls $0.02
+King Vladek: calls $0.02
+JosephClimberB: folds 
+pando06: folds 
+richard4848: calls $0.01
+TheBigStep: checks 
+*** FLOP *** [4d As 7s]
+richard4848: checks 
+TheBigStep: bets $0.02
+kamafeus: folds 
+King Vladek: raises $0.06 to $0.08
+richard4848: folds 
+TheBigStep: calls $0.06
+*** TURN *** [4d As 7s] [Js]
+TheBigStep: checks 
+King Vladek: checks 
+*** RIVER *** [4d As 7s Js] [3c]
+TheBigStep: bets $0.19
+King Vladek: calls $0.19
+*** SHOW DOWN ***
+TheBigStep: shows [Ad 7c] (two pair, Aces and Sevens)
+King Vladek: mucks hand 
+TheBigStep collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.02 
+Board [4d As 7s Js 3c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus folded on the Flop
+Seat 5: King Vladek mucked [Ac 8s]
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: pando06 (button) folded before Flop (didn't bet)
+Seat 8: richard4848 (small blind) folded on the Flop
+Seat 9: TheBigStep (big blind) showed [Ad 7c] and won ($0.60) with two pair, Aces and Sevens
+
+
+
+PokerStars Hand #232679316890:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:51:01 PT [2021/12/30 22:51:01 ET]
+Table 'Adalberta II' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.65 in chips) 
+Seat 3: kamafeus ($1.86 in chips) 
+Seat 5: King Vladek ($1.32 in chips) 
+Seat 6: JosephClimberB ($2.90 in chips) 
+Seat 7: pando06 ($1.02 in chips) 
+Seat 8: richard4848 ($1.48 in chips) 
+Seat 9: TheBigStep ($7.51 in chips) 
+TheBigStep: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 9h]
+abufirs: folds 
+kamafeus: folds 
+King Vladek: raises $0.04 to $0.06
+JosephClimberB: calls $0.06
+pando06: calls $0.06
+richard4848: folds 
+TheBigStep: folds 
+Dorex2007: calls $0.04
+*** FLOP *** [2d 4d 4h]
+Dorex2007: checks 
+King Vladek: checks 
+JosephClimberB: checks 
+pando06: bets $0.12
+Dorex2007: folds 
+King Vladek: folds 
+JosephClimberB: calls $0.12
+*** TURN *** [2d 4d 4h] [As]
+JosephClimberB: checks 
+pando06: checks 
+*** RIVER *** [2d 4d 4h As] [7s]
+JosephClimberB: bets $0.47
+pando06: calls $0.47
+*** SHOW DOWN ***
+JosephClimberB: shows [Ah 5c] (two pair, Aces and Fours)
+pando06: mucks hand 
+JosephClimberB collected $1.38 from pot
+*** SUMMARY ***
+Total pot $1.43 | Rake $0.05 
+Board [2d 4d 4h As 7s]
+Seat 1: Dorex2007 (big blind) folded on the Flop
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 5: King Vladek folded on the Flop
+Seat 6: JosephClimberB showed [Ah 5c] and won ($1.38) with two pair, Aces and Fours
+Seat 7: pando06 mucked [Tc Td]
+Seat 8: richard4848 (button) folded before Flop (didn't bet)
+Seat 9: TheBigStep (small blind) folded before Flop
+
+
+
+PokerStars Hand #232679340606:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:52:28 PT [2021/12/30 22:52:28 ET]
+Table 'Adalberta II' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.65 in chips) 
+Seat 3: kamafeus ($1.86 in chips) 
+Seat 5: King Vladek ($1.26 in chips) 
+Seat 6: JosephClimberB ($3.63 in chips) 
+Seat 7: pando06 ($0.37 in chips) 
+Seat 8: richard4848 ($1.48 in chips) 
+Seat 9: TheBigStep ($7.50 in chips) 
+Dorex2007: posts small blind $0.01
+abufirs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Qc]
+kamafeus: folds 
+King Vladek: folds 
+JosephClimberB: calls $0.02
+pando06: calls $0.02
+richard4848: calls $0.02
+TheBigStep: folds 
+Dorex2007: calls $0.01
+abufirs: checks 
+*** FLOP *** [9h 7s 4d]
+Dorex2007: checks 
+abufirs: checks 
+JosephClimberB: checks 
+pando06: checks 
+richard4848: checks 
+*** TURN *** [9h 7s 4d] [Tc]
+Dorex2007: checks 
+abufirs: checks 
+JosephClimberB: checks 
+pando06: checks 
+richard4848: checks 
+*** RIVER *** [9h 7s 4d Tc] [5c]
+Dorex2007: checks 
+abufirs: checks 
+JosephClimberB: checks 
+pando06: bets $0.05
+richard4848: folds 
+Dorex2007: folds 
+abufirs: folds 
+JosephClimberB: folds 
+Uncalled bet ($0.05) returned to pando06
+pando06 collected $0.10 from pot
+pando06: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [9h 7s 4d Tc 5c]
+Seat 1: Dorex2007 (small blind) folded on the River
+Seat 2: abufirs (big blind) folded on the River
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 5: King Vladek folded before Flop (didn't bet)
+Seat 6: JosephClimberB folded on the River
+Seat 7: pando06 collected ($0.10)
+Seat 8: richard4848 folded on the River
+Seat 9: TheBigStep (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679358998:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:53:48 PT [2021/12/30 22:53:48 ET]
+Table 'Adalberta II' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.63 in chips) 
+Seat 3: kamafeus ($1.86 in chips) 
+Seat 5: King Vladek ($1.26 in chips) 
+Seat 6: JosephClimberB ($3.61 in chips) 
+Seat 7: pando06 ($0.45 in chips) 
+Seat 8: richard4848 ($1.46 in chips) 
+Seat 9: TheBigStep ($7.50 in chips) 
+abufirs: posts small blind $0.01
+kamafeus: posts big blind $0.02
+AA Cepera AA: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Ts]
+King Vladek: folds 
+JosephClimberB: folds 
+pando06: folds 
+richard4848: folds 
+TheBigStep: folds 
+Dorex2007: folds 
+abufirs: folds 
+Uncalled bet ($0.01) returned to kamafeus
+kamafeus collected $0.02 from pot
+kamafeus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: abufirs (small blind) folded before Flop
+Seat 3: kamafeus (big blind) collected ($0.02)
+Seat 5: King Vladek folded before Flop (didn't bet)
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: pando06 folded before Flop (didn't bet)
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679364935:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:54:14 PT [2021/12/30 22:54:14 ET]
+Table 'Adalberta II' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.62 in chips) 
+Seat 3: kamafeus ($1.87 in chips) 
+Seat 4: AA Cepera AA ($2 in chips) 
+Seat 5: King Vladek ($1.26 in chips) 
+Seat 6: JosephClimberB ($3.61 in chips) 
+Seat 7: pando06 ($0.45 in chips) 
+Seat 8: richard4848 ($1.46 in chips) 
+Seat 9: TheBigStep ($7.50 in chips) 
+kamafeus: posts small blind $0.01
+AA Cepera AA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s As]
+King Vladek: folds 
+JosephClimberB: folds 
+pando06 has timed out
+pando06: folds 
+richard4848: folds 
+TheBigStep: raises $0.02 to $0.04
+Dorex2007: calls $0.04
+abufirs: folds 
+kamafeus: calls $0.03
+AA Cepera AA: folds 
+*** FLOP *** [Qc 5d Ks]
+kamafeus: checks 
+TheBigStep: checks 
+Dorex2007: bets $0.07
+kamafeus: raises $0.28 to $0.35
+TheBigStep: folds 
+Dorex2007: folds 
+Uncalled bet ($0.28) returned to kamafeus
+kamafeus collected $0.27 from pot
+kamafeus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Qc 5d Ks]
+Seat 1: Dorex2007 folded on the Flop
+Seat 2: abufirs (button) folded before Flop (didn't bet)
+Seat 3: kamafeus (small blind) collected ($0.27)
+Seat 4: AA Cepera AA (big blind) folded before Flop
+Seat 5: King Vladek folded before Flop (didn't bet)
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: pando06 folded before Flop (didn't bet)
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep folded on the Flop
+
+
+
+PokerStars Hand #232679380413:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:55:25 PT [2021/12/30 22:55:25 ET]
+Table 'Adalberta II' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.62 in chips) 
+Seat 3: kamafeus ($2.03 in chips) 
+Seat 4: AA Cepera AA ($1.98 in chips) 
+Seat 5: King Vladek ($1.26 in chips) 
+Seat 6: JosephClimberB ($3.61 in chips) 
+Seat 7: pando06 ($0.45 in chips) 
+Seat 8: richard4848 ($1.46 in chips) 
+Seat 9: TheBigStep ($7.46 in chips) 
+AA Cepera AA: posts small blind $0.01
+King Vladek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 8c]
+JosephClimberB: folds 
+pando06: folds 
+richard4848: folds 
+TheBigStep: folds 
+Dorex2007: folds 
+abufirs: calls $0.02
+kamafeus: calls $0.02
+AA Cepera AA: folds 
+King Vladek: checks 
+*** FLOP *** [6d Kd 3s]
+King Vladek: checks 
+abufirs: checks 
+kamafeus: checks 
+*** TURN *** [6d Kd 3s] [3h]
+King Vladek: checks 
+abufirs: checks 
+kamafeus: checks 
+*** RIVER *** [6d Kd 3s 3h] [Js]
+King Vladek: bets $0.04
+abufirs: folds 
+kamafeus: folds 
+Uncalled bet ($0.04) returned to King Vladek
+King Vladek collected $0.07 from pot
+King Vladek: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [6d Kd 3s 3h Js]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded on the River
+Seat 3: kamafeus (button) folded on the River
+Seat 4: AA Cepera AA (small blind) folded before Flop
+Seat 5: King Vladek (big blind) collected ($0.07)
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: pando06 folded before Flop (didn't bet)
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679391518:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:56:24 PT [2021/12/30 22:56:24 ET]
+Table 'Adalberta II' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: abufirs ($1.60 in chips) 
+Seat 3: kamafeus ($2.01 in chips) 
+Seat 4: AA Cepera AA ($1.97 in chips) 
+Seat 5: King Vladek ($1.31 in chips) 
+Seat 6: JosephClimberB ($3.61 in chips) 
+Seat 7: pando06 ($0.45 in chips) 
+Seat 8: richard4848 ($1.46 in chips) 
+Seat 9: TheBigStep ($7.46 in chips) 
+King Vladek: posts small blind $0.01
+JosephClimberB: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Ad]
+pando06: folds 
+richard4848: folds 
+TheBigStep: raises $0.03 to $0.05
+Dorex2007: calls $0.05
+abufirs: calls $0.05
+kamafeus: folds 
+AA Cepera AA: folds 
+King Vladek: folds 
+JosephClimberB: calls $0.03
+*** FLOP *** [8d 7d 2d]
+JosephClimberB: bets $0.10
+TheBigStep: calls $0.10
+Dorex2007: calls $0.10
+abufirs: calls $0.10
+*** TURN *** [8d 7d 2d] [Qs]
+JosephClimberB: bets $0.30
+TheBigStep: folds 
+Dorex2007: raises $1.55 to $1.85 and is all-in
+abufirs: folds 
+JosephClimberB: folds 
+Uncalled bet ($1.55) returned to Dorex2007
+Dorex2007 collected $1.17 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.21 | Rake $0.04 
+Board [8d 7d 2d Qs]
+Seat 1: Dorex2007 collected ($1.17)
+Seat 2: abufirs folded on the Turn
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 4: AA Cepera AA (button) folded before Flop (didn't bet)
+Seat 5: King Vladek (small blind) folded before Flop
+Seat 6: JosephClimberB (big blind) folded on the Turn
+Seat 7: pando06 folded before Flop (didn't bet)
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep folded on the Turn
+
+
+
+PokerStars Hand #232679417002:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:58:38 PT [2021/12/30 22:58:38 ET]
+Table 'Adalberta II' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2.72 in chips) 
+Seat 2: abufirs ($1.45 in chips) 
+Seat 3: kamafeus ($2.01 in chips) 
+Seat 4: AA Cepera AA ($1.97 in chips) 
+Seat 5: King Vladek ($1.30 in chips) 
+Seat 6: JosephClimberB ($3.16 in chips) 
+Seat 7: pando06 ($0.45 in chips) 
+Seat 8: richard4848 ($1.46 in chips) 
+Seat 9: TheBigStep ($7.31 in chips) 
+JosephClimberB: posts small blind $0.01
+pando06: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 4d]
+richard4848: raises $0.10 to $0.12
+TheBigStep: folds 
+Dorex2007: folds 
+abufirs: calls $0.12
+kamafeus: folds 
+AA Cepera AA: folds 
+King Vladek: folds 
+JosephClimberB: folds 
+pando06: calls $0.10
+*** FLOP *** [Qh Ts 6d]
+pando06: checks 
+richard4848: bets $0.18
+abufirs: calls $0.18
+pando06: folds 
+*** TURN *** [Qh Ts 6d] [Ks]
+richard4848: checks 
+abufirs: bets $1.15 and is all-in
+richard4848: folds 
+Uncalled bet ($1.15) returned to abufirs
+abufirs collected $0.70 from pot
+abufirs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [Qh Ts 6d Ks]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs collected ($0.70)
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 4: AA Cepera AA folded before Flop (didn't bet)
+Seat 5: King Vladek (button) folded before Flop (didn't bet)
+Seat 6: JosephClimberB (small blind) folded before Flop
+Seat 7: pando06 (big blind) folded on the Flop
+Seat 8: richard4848 folded on the Turn
+Seat 9: TheBigStep folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679428831:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 19:59:40 PT [2021/12/30 22:59:40 ET]
+Table 'Adalberta II' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($2.72 in chips) 
+Seat 2: abufirs ($1.85 in chips) 
+Seat 3: kamafeus ($2.01 in chips) 
+Seat 4: AA Cepera AA ($1.97 in chips) 
+Seat 5: King Vladek ($1.30 in chips) 
+Seat 6: JosephClimberB ($3.15 in chips) 
+Seat 7: pando06 ($0.33 in chips) 
+Seat 8: richard4848 ($1.16 in chips) 
+Seat 9: TheBigStep ($7.31 in chips) 
+pando06: posts small blind $0.01
+richard4848: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 6c]
+TheBigStep: folds 
+Dorex2007: calls $0.02
+abufirs: folds 
+kamafeus: folds 
+AA Cepera AA: calls $0.02
+King Vladek: folds 
+JosephClimberB: calls $0.02
+pando06: raises $0.08 to $0.10
+richard4848: folds 
+Dorex2007: folds 
+AA Cepera AA: calls $0.08
+JosephClimberB: calls $0.08
+*** FLOP *** [3h 3d Qd]
+pando06: bets $0.16
+AA Cepera AA: calls $0.16
+JosephClimberB: folds 
+*** TURN *** [3h 3d Qd] [7d]
+pando06: bets $0.07 and is all-in
+AA Cepera AA: calls $0.07
+*** RIVER *** [3h 3d Qd 7d] [Kh]
+*** SHOW DOWN ***
+pando06: shows [As Ac] (two pair, Aces and Threes)
+AA Cepera AA: shows [Td Ad] (a flush, Ace high)
+AA Cepera AA collected $0.77 from pot
+pando06 cashed out the hand for $0.06
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.03 
+Board [3h 3d Qd 7d Kh]
+Seat 1: Dorex2007 folded before Flop
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 4: AA Cepera AA showed [Td Ad] and won ($0.77) with a flush, Ace high
+Seat 5: King Vladek folded before Flop (didn't bet)
+Seat 6: JosephClimberB (button) folded on the Flop
+Seat 7: pando06 (small blind) showed [As Ac] and lost with two pair, Aces and Threes (cashed out).
+Seat 8: richard4848 (big blind) folded before Flop
+Seat 9: TheBigStep folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679445549:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:01:01 PT [2021/12/30 23:01:01 ET]
+Table 'Adalberta II' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2.70 in chips) 
+Seat 2: abufirs ($1.85 in chips) 
+Seat 3: kamafeus ($2.01 in chips) 
+Seat 4: AA Cepera AA ($2.41 in chips) 
+Seat 5: King Vladek ($1.30 in chips) 
+Seat 6: JosephClimberB ($3.05 in chips) 
+Seat 7: pando06 ($0.06 in chips) 
+Seat 8: richard4848 ($1.14 in chips) 
+Seat 9: TheBigStep ($7.31 in chips) 
+richard4848: posts small blind $0.01
+TheBigStep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 7s]
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: calls $0.02
+AA Cepera AA: folds 
+King Vladek: calls $0.02
+JosephClimberB: raises $0.04 to $0.06
+pando06: calls $0.06 and is all-in
+richard4848: folds 
+TheBigStep: folds 
+kamafeus: calls $0.04
+King Vladek: folds 
+*** FLOP *** [Ad 8c 5c]
+kamafeus: bets $1.95 and is all-in
+JosephClimberB: folds 
+Uncalled bet ($1.95) returned to kamafeus
+*** TURN *** [Ad 8c 5c] [8s]
+*** RIVER *** [Ad 8c 5c 8s] [Kc]
+*** SHOW DOWN ***
+kamafeus: shows [As Qd] (two pair, Aces and Eights)
+pando06: shows [Js Jd] (two pair, Jacks and Eights)
+kamafeus cashed out the hand for $0.21
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Ad 8c 5c 8s Kc]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus showed [As Qd] and won ($0.22) with two pair, Aces and Eights (pot not awarded as player cashed out)
+Seat 4: AA Cepera AA folded before Flop (didn't bet)
+Seat 5: King Vladek folded before Flop
+Seat 6: JosephClimberB folded on the Flop
+Seat 7: pando06 (button) showed [Js Jd] and lost with two pair, Jacks and Eights
+Seat 8: richard4848 (small blind) folded before Flop
+Seat 9: TheBigStep (big blind) folded before Flop
+
+
+
+PokerStars Hand #232679463669:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:02:07 PT [2021/12/30 23:02:07 ET]
+Table 'Adalberta II' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2.70 in chips) 
+Seat 2: abufirs ($1.85 in chips) 
+Seat 3: kamafeus ($2.16 in chips) 
+Seat 4: AA Cepera AA ($2.41 in chips) 
+Seat 5: King Vladek ($1.28 in chips) 
+Seat 6: JosephClimberB ($2.99 in chips) 
+Seat 8: richard4848 ($1.13 in chips) 
+Seat 9: TheBigStep ($7.29 in chips) 
+TheBigStep: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 2c]
+abufirs: calls $0.02
+kamafeus: calls $0.02
+AA Cepera AA: folds 
+King Vladek: folds 
+pando06 leaves the table
+JosephClimberB: calls $0.02
+richard4848: folds 
+TheBigStep: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [Qs 7s 5c]
+TheBigStep: checks 
+Dorex2007: checks 
+abufirs: checks 
+kamafeus: bets $0.10
+JosephClimberB: folds 
+TheBigStep: calls $0.10
+Dorex2007: folds 
+abufirs: calls $0.10
+*** TURN *** [Qs 7s 5c] [Qc]
+TheBigStep: checks 
+abufirs: checks 
+kamafeus: bets $0.39
+TheBigStep: folds 
+abufirs: folds 
+Uncalled bet ($0.39) returned to kamafeus
+kamafeus collected $0.39 from pot
+kamafeus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [Qs 7s 5c Qc]
+Seat 1: Dorex2007 (big blind) folded on the Flop
+Seat 2: abufirs folded on the Turn
+Seat 3: kamafeus collected ($0.39)
+Seat 4: AA Cepera AA folded before Flop (didn't bet)
+Seat 5: King Vladek folded before Flop (didn't bet)
+Seat 6: JosephClimberB folded on the Flop
+Seat 8: richard4848 (button) folded before Flop (didn't bet)
+Seat 9: TheBigStep (small blind) folded on the Turn
+
+
+
+PokerStars Hand #232679477227:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:03:07 PT [2021/12/30 23:03:07 ET]
+Table 'Adalberta II' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2.68 in chips) 
+Seat 2: abufirs ($1.73 in chips) 
+Seat 3: kamafeus ($2.43 in chips) 
+Seat 4: AA Cepera AA ($2.41 in chips) 
+Seat 5: King Vladek ($1.28 in chips) 
+Seat 6: JosephClimberB ($2.97 in chips) 
+Seat 8: richard4848 ($1.13 in chips) 
+Seat 9: TheBigStep ($7.17 in chips) 
+Dorex2007: posts small blind $0.01
+abufirs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 5d]
+kamafeus: folds 
+AA Cepera AA: folds 
+King Vladek: folds 
+Kingeorge63 joins the table at seat #7 
+JosephClimberB: folds 
+richard4848: raises $0.04 to $0.06
+TheBigStep: folds 
+Dorex2007: folds 
+abufirs: calls $0.04
+*** FLOP *** [7s 5c Ac]
+abufirs: checks 
+richard4848: checks 
+*** TURN *** [7s 5c Ac] [9h]
+abufirs: checks 
+richard4848: checks 
+*** RIVER *** [7s 5c Ac 9h] [Qs]
+abufirs: checks 
+richard4848: checks 
+*** SHOW DOWN ***
+abufirs: shows [6h 5h] (a pair of Fives)
+richard4848: mucks hand 
+abufirs collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [7s 5c Ac 9h Qs]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: abufirs (big blind) showed [6h 5h] and won ($0.13) with a pair of Fives
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 4: AA Cepera AA folded before Flop (didn't bet)
+Seat 5: King Vladek folded before Flop (didn't bet)
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 8: richard4848 mucked [Jc Ks]
+Seat 9: TheBigStep (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679489111:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:04:01 PT [2021/12/30 23:04:01 ET]
+Table 'Adalberta II' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2.67 in chips) 
+Seat 2: abufirs ($1.80 in chips) 
+Seat 3: kamafeus ($2.43 in chips) 
+Seat 4: AA Cepera AA ($2.41 in chips) 
+Seat 5: King Vladek ($1.28 in chips) 
+Seat 6: JosephClimberB ($2.97 in chips) 
+Seat 7: Kingeorge63 ($1.50 in chips) 
+Seat 8: richard4848 ($1.07 in chips) 
+Seat 9: TheBigStep ($7.17 in chips) 
+abufirs: posts small blind $0.01
+kamafeus: posts big blind $0.02
+Kingeorge63: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 3d]
+AA Cepera AA: folds 
+King Vladek: folds 
+JosephClimberB: calls $0.02
+Kingeorge63: checks 
+richard4848: folds 
+TheBigStep: calls $0.02
+Dorex2007: folds 
+abufirs: calls $0.01
+kamafeus: checks 
+*** FLOP *** [2c 6d 5d]
+abufirs: checks 
+kamafeus: checks 
+JosephClimberB: bets $0.10
+Kingeorge63: folds 
+TheBigStep: folds 
+abufirs: calls $0.10
+kamafeus: folds 
+*** TURN *** [2c 6d 5d] [Qs]
+abufirs: checks 
+JosephClimberB: bets $0.29
+abufirs: calls $0.29
+*** RIVER *** [2c 6d 5d Qs] [2h]
+abufirs: checks 
+JosephClimberB: bets $0.85
+abufirs: folds 
+Uncalled bet ($0.85) returned to JosephClimberB
+JosephClimberB collected $0.85 from pot
+JosephClimberB: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.88 | Rake $0.03 
+Board [2c 6d 5d Qs 2h]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: abufirs (small blind) folded on the River
+Seat 3: kamafeus (big blind) folded on the Flop
+Seat 4: AA Cepera AA folded before Flop (didn't bet)
+Seat 5: King Vladek folded before Flop (didn't bet)
+Seat 6: JosephClimberB collected ($0.85)
+Seat 7: Kingeorge63 folded on the Flop (didn't bet)
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep folded on the Flop
+
+
+
+PokerStars Hand #232679505433:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:05:14 PT [2021/12/30 23:05:14 ET]
+Table 'Adalberta II' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2.67 in chips) 
+Seat 2: abufirs ($1.39 in chips) 
+Seat 3: kamafeus ($2.41 in chips) 
+Seat 5: King Vladek ($1.28 in chips) 
+Seat 6: JosephClimberB ($3.41 in chips) 
+Seat 7: Kingeorge63 ($1.48 in chips) 
+Seat 8: richard4848 ($1.07 in chips) 
+Seat 9: TheBigStep ($7.15 in chips) 
+kamafeus: posts small blind $0.01
+King Vladek: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 2c]
+JosephClimberB: folds 
+Kingeorge63: folds 
+richard4848: folds 
+TheBigStep: calls $0.02
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: calls $0.01
+King Vladek: checks 
+*** FLOP *** [Kd 6h 5d]
+kamafeus: checks 
+King Vladek: checks 
+TheBigStep: checks 
+*** TURN *** [Kd 6h 5d] [As]
+kamafeus: checks 
+King Vladek: bets $0.03
+TheBigStep: calls $0.03
+kamafeus: folds 
+*** RIVER *** [Kd 6h 5d As] [Qc]
+King Vladek: bets $0.06
+TheBigStep: calls $0.06
+*** SHOW DOWN ***
+King Vladek: shows [Ad Kc] (two pair, Aces and Kings)
+TheBigStep: mucks hand 
+King Vladek collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Kd 6h 5d As Qc]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs (button) folded before Flop (didn't bet)
+Seat 3: kamafeus (small blind) folded on the Turn
+Seat 5: King Vladek (big blind) showed [Ad Kc] and won ($0.23) with two pair, Aces and Kings
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: Kingeorge63 folded before Flop (didn't bet)
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep mucked [Jc 5s]
+
+
+
+PokerStars Hand #232679520477:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:06:22 PT [2021/12/30 23:06:22 ET]
+Table 'Adalberta II' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2.67 in chips) 
+Seat 2: abufirs ($1.39 in chips) 
+Seat 3: kamafeus ($2.39 in chips) 
+Seat 5: King Vladek ($1.40 in chips) 
+Seat 7: Kingeorge63 ($1.48 in chips) 
+Seat 8: richard4848 ($1.07 in chips) 
+Seat 9: TheBigStep ($7.04 in chips) 
+King Vladek: posts small blind $0.01
+Kingeorge63: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 4h]
+richard4848: calls $0.02
+TheBigStep: raises $0.05 to $0.07
+Dorex2007: folds 
+abufirs: calls $0.07
+kamafeus: raises $2.32 to $2.39 and is all-in
+King Vladek: folds 
+Kingeorge63: folds 
+richard4848: folds 
+TheBigStep: calls $2.32
+abufirs: folds 
+*** FLOP *** [8d 6h As]
+*** TURN *** [8d 6h As] [9c]
+*** RIVER *** [8d 6h As 9c] [6s]
+*** SHOW DOWN ***
+TheBigStep: shows [Kd Kh] (two pair, Kings and Sixes)
+kamafeus: shows [9h 9s] (a full house, Nines full of Sixes)
+kamafeus cashed out the hand for $0.89 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.17 
+Board [8d 6h As 9c 6s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded before Flop
+Seat 3: kamafeus (button) showed [9h 9s] and won ($4.73) with a full house, Nines full of Sixes (pot not awarded as player cashed out)
+Seat 5: King Vladek (small blind) folded before Flop
+Seat 7: Kingeorge63 (big blind) folded before Flop
+Seat 8: richard4848 folded before Flop
+Seat 9: TheBigStep showed [Kd Kh] and lost with two pair, Kings and Sixes
+
+
+
+PokerStars Hand #232679534110:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:07:24 PT [2021/12/30 23:07:24 ET]
+Table 'Adalberta II' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2.67 in chips) 
+Seat 2: abufirs ($1.32 in chips) 
+Seat 3: kamafeus ($0.89 in chips) 
+Seat 5: King Vladek ($1.39 in chips) 
+Seat 7: Kingeorge63 ($1.46 in chips) 
+Seat 8: richard4848 ($1.05 in chips) 
+Seat 9: TheBigStep ($4.65 in chips) 
+Kingeorge63: posts small blind $0.01
+richard4848: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Kd]
+TheBigStep: folds 
+Dorex2007: folds 
+abufirs: raises $0.05 to $0.07
+kamafeus: folds 
+King Vladek: folds 
+Kingeorge63: folds 
+richard4848: calls $0.05
+*** FLOP *** [6c Ts 8h]
+richard4848: bets $0.14
+abufirs: folds 
+Uncalled bet ($0.14) returned to richard4848
+richard4848 collected $0.14 from pot
+King Vladek leaves the table
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [6c Ts 8h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded on the Flop
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 5: King Vladek (button) folded before Flop (didn't bet)
+Seat 7: Kingeorge63 (small blind) folded before Flop
+Seat 8: richard4848 (big blind) collected ($0.14)
+Seat 9: TheBigStep folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679540872:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:07:55 PT [2021/12/30 23:07:55 ET]
+Table 'Adalberta II' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2.67 in chips) 
+Seat 2: abufirs ($1.25 in chips) 
+Seat 3: kamafeus ($0.89 in chips) 
+Seat 7: Kingeorge63 ($1.45 in chips) 
+Seat 8: richard4848 ($1.12 in chips) 
+Seat 9: TheBigStep ($4.65 in chips) 
+richard4848: posts small blind $0.01
+TheBigStep: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 5s]
+Dorex2007: folds 
+abufirs: raises $0.05 to $0.07
+kamafeus: folds 
+Kingeorge63: folds 
+richard4848: folds 
+TheBigStep: calls $0.05
+*** FLOP *** [Kc Qd 3h]
+TheBigStep: checks 
+abufirs: bets $0.14
+TheBigStep: calls $0.14
+*** TURN *** [Kc Qd 3h] [9h]
+TheBigStep: checks 
+abufirs: checks 
+*** RIVER *** [Kc Qd 3h 9h] [Qs]
+TheBigStep: bets $0.34
+abufirs: folds 
+Uncalled bet ($0.34) returned to TheBigStep
+TheBigStep collected $0.41 from pot
+TheBigStep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [Kc Qd 3h 9h Qs]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded on the River
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 7: Kingeorge63 (button) folded before Flop (didn't bet)
+Seat 8: richard4848 (small blind) folded before Flop
+Seat 9: TheBigStep (big blind) collected ($0.41)
+
+
+
+PokerStars Hand #232679558775:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:08:35 PT [2021/12/30 23:08:35 ET]
+Table 'Adalberta II' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2.67 in chips) 
+Seat 2: abufirs ($1.04 in chips) 
+Seat 3: kamafeus ($0.89 in chips) 
+Seat 7: Kingeorge63 ($1.45 in chips) 
+Seat 8: richard4848 ($1.11 in chips) 
+Seat 9: TheBigStep ($4.85 in chips) 
+TheBigStep: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 4d]
+abufirs: folds 
+kamafeus: folds 
+n000ba joins the table at seat #5 
+Kingeorge63: folds 
+richard4848: folds 
+TheBigStep: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [3c 7c 3h]
+TheBigStep: bets $0.02
+Dorex2007: calls $0.02
+*** TURN *** [3c 7c 3h] [6d]
+TheBigStep: bets $0.04
+Dorex2007: calls $0.04
+*** RIVER *** [3c 7c 3h 6d] [2c]
+TheBigStep: checks 
+Dorex2007: bets $0.08
+TheBigStep: raises $0.08 to $0.16
+Dorex2007: calls $0.08
+*** SHOW DOWN ***
+TheBigStep: shows [Kh Qh] (a pair of Threes)
+Dorex2007: shows [7h 4d] (two pair, Sevens and Threes)
+Dorex2007 collected $0.46 from pot
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [3c 7c 3h 6d 2c]
+Seat 1: Dorex2007 (big blind) showed [7h 4d] and won ($0.46) with two pair, Sevens and Threes
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 7: Kingeorge63 folded before Flop (didn't bet)
+Seat 8: richard4848 (button) folded before Flop (didn't bet)
+Seat 9: TheBigStep (small blind) showed [Kh Qh] and lost with a pair of Threes
+
+
+
+PokerStars Hand #232679567071:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:09:13 PT [2021/12/30 23:09:13 ET]
+Table 'Adalberta II' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2.89 in chips) 
+Seat 2: abufirs ($1.04 in chips) 
+Seat 3: kamafeus ($0.89 in chips) 
+Seat 7: Kingeorge63 ($1.45 in chips) 
+Seat 8: richard4848 ($1.11 in chips) 
+Seat 9: TheBigStep ($4.61 in chips) 
+Dorex2007: posts small blind $0.01
+abufirs: posts big blind $0.02
+n000ba: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 6d]
+kamafeus: calls $0.02
+Kingeorge63: calls $0.02
+richard4848: calls $0.02
+TheBigStep: calls $0.02
+Dorex2007: folds 
+abufirs: checks 
+*** FLOP *** [5c 6s 8c]
+abufirs: bets $0.06
+kamafeus: calls $0.06
+Kingeorge63: calls $0.06
+richard4848: calls $0.06
+TheBigStep: folds 
+*** TURN *** [5c 6s 8c] [7h]
+abufirs: checks 
+kamafeus: checks 
+Kingeorge63: checks 
+richard4848: checks 
+*** RIVER *** [5c 6s 8c 7h] [2h]
+abufirs: bets $0.17
+kamafeus: folds 
+Kingeorge63: folds 
+richard4848: calls $0.17
+*** SHOW DOWN ***
+abufirs: shows [7c Ad] (a pair of Sevens)
+richard4848: shows [Jd 8d] (a pair of Eights)
+richard4848 collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.02 
+Board [5c 6s 8c 7h 2h]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: abufirs (big blind) showed [7c Ad] and lost with a pair of Sevens
+Seat 3: kamafeus folded on the River
+Seat 7: Kingeorge63 folded on the River
+Seat 8: richard4848 showed [Jd 8d] and won ($0.67) with a pair of Eights
+Seat 9: TheBigStep (button) folded on the Flop
+
+
+
+PokerStars Hand #232679596253:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:10:47 PT [2021/12/30 23:10:47 ET]
+Table 'Adalberta II' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2.88 in chips) 
+Seat 2: abufirs ($0.79 in chips) 
+Seat 3: kamafeus ($0.81 in chips) 
+Seat 7: Kingeorge63 ($1.37 in chips) 
+Seat 8: richard4848 ($1.53 in chips) 
+Seat 9: TheBigStep ($4.59 in chips) 
+abufirs: posts small blind $0.01
+kamafeus: posts big blind $0.02
+AA Cepera AA: sits out 
+n000ba: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 9h]
+Kingeorge63: folds 
+richard4848: folds 
+TheBigStep: raises $0.02 to $0.04
+Dorex2007: folds 
+abufirs: calls $0.03
+kamafeus: calls $0.02
+*** FLOP *** [Ts 5h Ah]
+abufirs: checks 
+kamafeus: checks 
+TheBigStep: checks 
+*** TURN *** [Ts 5h Ah] [8s]
+abufirs: checks 
+kamafeus: checks 
+TheBigStep: bets $0.04
+abufirs: calls $0.04
+kamafeus: folds 
+*** RIVER *** [Ts 5h Ah 8s] [2c]
+abufirs: bets $0.19
+TheBigStep: raises $0.19 to $0.38
+abufirs: calls $0.19
+*** SHOW DOWN ***
+TheBigStep: shows [Jc As] (a pair of Aces)
+abufirs: shows [2s 5s] (two pair, Fives and Deuces)
+abufirs collected $0.93 from pot
+*** SUMMARY ***
+Total pot $0.96 | Rake $0.03 
+Board [Ts 5h Ah 8s 2c]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: abufirs (small blind) showed [2s 5s] and won ($0.93) with two pair, Fives and Deuces
+Seat 3: kamafeus (big blind) folded on the Turn
+Seat 7: Kingeorge63 folded before Flop (didn't bet)
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep showed [Jc As] and lost with a pair of Aces
+
+
+
+PokerStars Hand #232679609143:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:11:46 PT [2021/12/30 23:11:46 ET]
+Table 'Adalberta II' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2.88 in chips) 
+Seat 2: abufirs ($1.26 in chips) 
+Seat 3: kamafeus ($1.96 in chips) 
+Seat 4: AA Cepera AA ($2.41 in chips) 
+Seat 7: Kingeorge63 ($1.37 in chips) 
+Seat 8: richard4848 ($1.53 in chips) 
+Seat 9: TheBigStep ($4.13 in chips) 
+kamafeus: posts small blind $0.01
+AA Cepera AA: posts big blind $0.02
+n000ba: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s As]
+Kingeorge63: folds 
+richard4848: folds 
+TheBigStep: raises $0.02 to $0.04
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: folds 
+AA Cepera AA: folds 
+Uncalled bet ($0.02) returned to TheBigStep
+TheBigStep collected $0.05 from pot
+TheBigStep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs (button) folded before Flop (didn't bet)
+Seat 3: kamafeus (small blind) folded before Flop
+Seat 4: AA Cepera AA (big blind) folded before Flop
+Seat 7: Kingeorge63 folded before Flop (didn't bet)
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep collected ($0.05)
+
+
+
+PokerStars Hand #232679612290:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:12:00 PT [2021/12/30 23:12:00 ET]
+Table 'Adalberta II' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2.88 in chips) 
+Seat 2: abufirs ($1.26 in chips) 
+Seat 3: kamafeus ($1.95 in chips) 
+Seat 4: AA Cepera AA ($2.39 in chips) 
+Seat 5: n000ba ($2 in chips) 
+Seat 7: Kingeorge63 ($1.37 in chips) 
+Seat 8: richard4848 ($1.53 in chips) 
+Seat 9: TheBigStep ($4.16 in chips) 
+AA Cepera AA: posts small blind $0.01
+n000ba: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 6h]
+Kingeorge63: calls $0.02
+richard4848: folds 
+TheBigStep: folds 
+Dorex2007 has timed out
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: calls $0.02
+AA Cepera AA: folds 
+n000ba: checks 
+*** FLOP *** [Ah Js As]
+n000ba: checks 
+Kingeorge63: checks 
+kamafeus: bets $0.07
+n000ba: folds 
+Kingeorge63: calls $0.07
+*** TURN *** [Ah Js As] [Th]
+Kingeorge63: checks 
+kamafeus: checks 
+*** RIVER *** [Ah Js As Th] [Jd]
+Kingeorge63: bets $0.02
+kamafeus: raises $0.24 to $0.26
+Kingeorge63: folds [5h 5d]
+Uncalled bet ($0.24) returned to kamafeus
+kamafeus collected $0.24 from pot
+kamafeus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ah Js As Th Jd]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus (button) collected ($0.24)
+Seat 4: AA Cepera AA (small blind) folded before Flop
+Seat 5: n000ba (big blind) folded on the Flop
+Seat 7: Kingeorge63 folded on the River
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679636322:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:13:51 PT [2021/12/30 23:13:51 ET]
+Table 'Adalberta II' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2.88 in chips) 
+Seat 2: abufirs ($1.26 in chips) 
+Seat 3: kamafeus ($2.08 in chips) 
+Seat 4: AA Cepera AA ($2.38 in chips) 
+Seat 5: n000ba ($1.98 in chips) 
+Seat 7: Kingeorge63 ($1.26 in chips) 
+Seat 8: richard4848 ($1.53 in chips) 
+Seat 9: TheBigStep ($4.16 in chips) 
+n000ba: posts small blind $0.01
+Kingeorge63: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 3c]
+richard4848: folds 
+TheBigStep: folds 
+Dorex2007: folds 
+abufirs: calls $0.02
+kamafeus: folds 
+AA Cepera AA: folds 
+n000ba is disconnected 
+n000ba has timed out while disconnected
+n000ba: folds 
+Kingeorge63: checks 
+*** FLOP *** [6d 7c Th]
+Kingeorge63: checks 
+abufirs: checks 
+*** TURN *** [6d 7c Th] [6s]
+Kingeorge63: checks 
+abufirs: checks 
+*** RIVER *** [6d 7c Th 6s] [Kd]
+Kingeorge63: checks 
+abufirs: checks 
+*** SHOW DOWN ***
+Kingeorge63: shows [Qd 3h] (a pair of Sixes)
+abufirs: shows [8s 7s] (two pair, Sevens and Sixes)
+abufirs collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6d 7c Th 6s Kd]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs showed [8s 7s] and won ($0.05) with two pair, Sevens and Sixes
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 4: AA Cepera AA (button) folded before Flop (didn't bet)
+Seat 5: n000ba (small blind) folded before Flop
+Seat 7: Kingeorge63 (big blind) showed [Qd 3h] and lost with a pair of Sixes
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679645738:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:14:35 PT [2021/12/30 23:14:35 ET]
+Table 'Adalberta II' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2.88 in chips) 
+Seat 2: abufirs ($1.29 in chips) 
+Seat 3: kamafeus ($2.08 in chips) 
+Seat 4: AA Cepera AA ($2.38 in chips) 
+Seat 7: Kingeorge63 ($1.24 in chips) 
+Seat 8: richard4848 ($1.53 in chips) 
+Seat 9: TheBigStep ($4.16 in chips) 
+richard4848: posts small blind $0.01
+TheBigStep: posts big blind $0.02
+JosephClimberB: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 3d]
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: calls $0.02
+AA Cepera AA: folds 
+Kingeorge63: raises $0.02 to $0.04
+richard4848: calls $0.03
+TheBigStep: calls $0.02
+kamafeus: calls $0.02
+*** FLOP *** [4c 5s 3c]
+richard4848: checks 
+TheBigStep: checks 
+kamafeus: checks 
+Kingeorge63: bets $0.02
+richard4848: raises $0.10 to $0.12
+TheBigStep: folds 
+kamafeus: folds 
+Kingeorge63: calls $0.10
+*** TURN *** [4c 5s 3c] [Jh]
+richard4848: checks 
+Kingeorge63: checks 
+*** RIVER *** [4c 5s 3c Jh] [As]
+richard4848: checks 
+Kingeorge63: checks 
+*** SHOW DOWN ***
+richard4848: shows [8d 4d] (a pair of Fours)
+Kingeorge63: shows [Td Th] (a pair of Tens)
+Kingeorge63 collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [4c 5s 3c Jh As]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus folded on the Flop
+Seat 4: AA Cepera AA folded before Flop (didn't bet)
+Seat 7: Kingeorge63 (button) showed [Td Th] and won ($0.39) with a pair of Tens
+Seat 8: richard4848 (small blind) showed [8d 4d] and lost with a pair of Fours
+Seat 9: TheBigStep (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232679661751:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:15:37 PT [2021/12/30 23:15:37 ET]
+Table 'Adalberta II' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2.88 in chips) 
+Seat 2: abufirs ($1.29 in chips) 
+Seat 3: kamafeus ($2.04 in chips) 
+Seat 4: AA Cepera AA ($2.38 in chips) 
+Seat 7: Kingeorge63 ($1.47 in chips) 
+Seat 8: richard4848 ($1.37 in chips) 
+Seat 9: TheBigStep ($4.12 in chips) 
+TheBigStep: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+JosephClimberB: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 7s]
+abufirs: folds 
+kamafeus: calls $0.02
+AA Cepera AA: folds 
+Kingeorge63: calls $0.02
+richard4848: raises $0.09 to $0.11
+TheBigStep: folds 
+Dorex2007: folds 
+kamafeus: folds 
+Kingeorge63: calls $0.09
+*** FLOP *** [2c 9s Ac]
+Kingeorge63: checks 
+richard4848: checks 
+*** TURN *** [2c 9s Ac] [Tc]
+Kingeorge63: bets $0.26
+richard4848: calls $0.26
+*** RIVER *** [2c 9s Ac Tc] [As]
+Kingeorge63: bets $0.38
+richard4848: calls $0.38
+*** SHOW DOWN ***
+Kingeorge63: shows [Jc 7c] (a flush, Ace high)
+richard4848: mucks hand 
+Kingeorge63 collected $1.50 from pot
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.05 
+Board [2c 9s Ac Tc As]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus folded before Flop
+Seat 4: AA Cepera AA folded before Flop (didn't bet)
+Seat 7: Kingeorge63 showed [Jc 7c] and won ($1.50) with a flush, Ace high
+Seat 8: richard4848 (button) mucked [Ks Kc]
+Seat 9: TheBigStep (small blind) folded before Flop
+
+
+
+PokerStars Hand #232679670998:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:16:19 PT [2021/12/30 23:16:19 ET]
+Table 'Adalberta II' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2.86 in chips) 
+Seat 2: abufirs ($1.29 in chips) 
+Seat 3: kamafeus ($2.02 in chips) 
+Seat 4: AA Cepera AA ($2.38 in chips) 
+Seat 7: Kingeorge63 ($2.22 in chips) 
+Seat 8: richard4848 ($0.62 in chips) 
+Seat 9: TheBigStep ($4.11 in chips) 
+Dorex2007: posts small blind $0.01
+abufirs: posts big blind $0.02
+JosephClimberB: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Kd]
+kamafeus: calls $0.02
+AA Cepera AA: folds 
+Kingeorge63: folds 
+richard4848: folds 
+TheBigStep: folds 
+Dorex2007: folds 
+abufirs: checks 
+*** FLOP *** [6c 8d 3d]
+abufirs: checks 
+kamafeus: checks 
+*** TURN *** [6c 8d 3d] [5d]
+abufirs: checks 
+kamafeus: checks 
+*** RIVER *** [6c 8d 3d 5d] [4d]
+abufirs: checks 
+kamafeus: checks 
+*** SHOW DOWN ***
+abufirs: shows [7s 3s] (a straight, Four to Eight)
+kamafeus: shows [2c 2d] (a flush, Eight high)
+kamafeus collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6c 8d 3d 5d 4d]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: abufirs (big blind) showed [7s 3s] and lost with a straight, Four to Eight
+Seat 3: kamafeus showed [2c 2d] and won ($0.05) with a flush, Eight high
+Seat 4: AA Cepera AA folded before Flop (didn't bet)
+Seat 7: Kingeorge63 folded before Flop (didn't bet)
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679680220:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:17:03 PT [2021/12/30 23:17:03 ET]
+Table 'Adalberta II' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2.85 in chips) 
+Seat 2: abufirs ($1.27 in chips) 
+Seat 3: kamafeus ($2.05 in chips) 
+Seat 4: AA Cepera AA ($2.38 in chips) 
+Seat 7: Kingeorge63 ($2.22 in chips) 
+Seat 8: richard4848 ($0.62 in chips) 
+Seat 9: TheBigStep ($4.11 in chips) 
+abufirs: posts small blind $0.01
+kamafeus: posts big blind $0.02
+JosephClimberB: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 8s]
+AA Cepera AA: folds 
+AA Cepera AA leaves the table
+Kingeorge63: folds 
+richard4848: folds 
+TheBigStep: raises $0.03 to $0.05
+Dorex2007: folds 
+poraganar joins the table at seat #4 
+abufirs: calls $0.04
+kamafeus: folds 
+*** FLOP *** [4s Kd 8c]
+abufirs: checks 
+TheBigStep: checks 
+*** TURN *** [4s Kd 8c] [4c]
+abufirs: checks 
+TheBigStep: checks 
+*** RIVER *** [4s Kd 8c 4c] [2c]
+abufirs: checks 
+TheBigStep: bets $0.07
+abufirs: folds 
+Uncalled bet ($0.07) returned to TheBigStep
+TheBigStep collected $0.12 from pot
+TheBigStep: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [4s Kd 8c 4c 2c]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: abufirs (small blind) folded on the River
+Seat 3: kamafeus (big blind) folded before Flop
+Seat 4: AA Cepera AA folded before Flop (didn't bet)
+Seat 7: Kingeorge63 folded before Flop (didn't bet)
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep collected ($0.12)
+
+
+
+PokerStars Hand #232679693935:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:18:07 PT [2021/12/30 23:18:07 ET]
+Table 'Adalberta II' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2.85 in chips) 
+Seat 2: abufirs ($1.22 in chips) 
+Seat 3: kamafeus ($2.03 in chips) 
+Seat 4: poraganar ($1.35 in chips) 
+Seat 7: Kingeorge63 ($2.22 in chips) 
+Seat 8: richard4848 ($0.62 in chips) 
+Seat 9: TheBigStep ($4.18 in chips) 
+kamafeus: posts small blind $0.01
+poraganar: posts big blind $0.02
+JosephClimberB: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 9h]
+Kingeorge63: calls $0.02
+richard4848: folds 
+TheBigStep: folds 
+Dorex2007: folds 
+abufirs: calls $0.02
+kamafeus: calls $0.01
+poraganar: checks 
+*** FLOP *** [5h 6c 4d]
+kamafeus: checks 
+poraganar: checks 
+Kingeorge63: checks 
+abufirs: checks 
+*** TURN *** [5h 6c 4d] [Jh]
+kamafeus: bets $0.08
+poraganar: calls $0.08
+Kingeorge63: calls $0.08
+abufirs: calls $0.08
+*** RIVER *** [5h 6c 4d Jh] [As]
+kamafeus: checks 
+poraganar: bets $0.08
+Kingeorge63: folds 
+abufirs: folds 
+kamafeus: calls $0.08
+*** SHOW DOWN ***
+poraganar: shows [Js 4s] (two pair, Jacks and Fours)
+kamafeus: mucks hand 
+poraganar collected $0.54 from pot
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.02 
+Board [5h 6c 4d Jh As]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs (button) folded on the River
+Seat 3: kamafeus (small blind) mucked [Jc Qc]
+Seat 4: poraganar (big blind) showed [Js 4s] and won ($0.54) with two pair, Jacks and Fours
+Seat 7: Kingeorge63 folded on the River
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679711848:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:19:31 PT [2021/12/30 23:19:31 ET]
+Table 'Adalberta II' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2.85 in chips) 
+Seat 2: abufirs ($1.12 in chips) 
+Seat 3: kamafeus ($1.85 in chips) 
+Seat 4: poraganar ($1.71 in chips) 
+Seat 6: JosephClimberB ($3.41 in chips) 
+Seat 7: Kingeorge63 ($2.12 in chips) 
+Seat 8: richard4848 ($0.62 in chips) 
+Seat 9: TheBigStep ($4.18 in chips) 
+poraganar: posts small blind $0.01
+JosephClimberB: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 5s]
+Kingeorge63: calls $0.02
+richard4848: folds 
+TheBigStep: calls $0.02
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: folds 
+poraganar: calls $0.01
+JosephClimberB: raises $0.02 to $0.04
+Kingeorge63: calls $0.02
+TheBigStep: calls $0.02
+poraganar: calls $0.02
+*** FLOP *** [2s Td Qc]
+poraganar: checks 
+JosephClimberB: checks 
+Kingeorge63: checks 
+TheBigStep: checks 
+*** TURN *** [2s Td Qc] [7d]
+poraganar: checks 
+JosephClimberB: bets $0.08
+Kingeorge63: calls $0.08
+TheBigStep: calls $0.08
+poraganar: folds 
+*** RIVER *** [2s Td Qc 7d] [4d]
+JosephClimberB: bets $0.20
+Kingeorge63: folds 
+TheBigStep: calls $0.20
+*** SHOW DOWN ***
+JosephClimberB: shows [Qh As] (a pair of Queens)
+TheBigStep: mucks hand 
+JosephClimberB collected $0.77 from pot
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.03 
+Board [2s Td Qc 7d 4d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus (button) folded before Flop (didn't bet)
+Seat 4: poraganar (small blind) folded on the Turn
+Seat 6: JosephClimberB (big blind) showed [Qh As] and won ($0.77) with a pair of Queens
+Seat 7: Kingeorge63 folded on the River
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep mucked [3c 3s]
+
+
+
+PokerStars Hand #232679732266:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:21:08 PT [2021/12/30 23:21:08 ET]
+Table 'Adalberta II' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2.85 in chips) 
+Seat 2: abufirs ($1.12 in chips) 
+Seat 3: kamafeus ($1.85 in chips) 
+Seat 4: poraganar ($1.67 in chips) 
+Seat 6: JosephClimberB ($3.86 in chips) 
+Seat 7: Kingeorge63 ($2 in chips) 
+Seat 8: richard4848 ($0.62 in chips) 
+Seat 9: TheBigStep ($3.86 in chips) 
+JosephClimberB: posts small blind $0.01
+Kingeorge63: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 9c]
+richard4848: folds 
+TheBigStep: folds 
+TheBigStep leaves the table
+Dorex2007: folds 
+Poker_Daniel96 joins the table at seat #9 
+abufirs: raises $0.08 to $0.10
+kamafeus: folds 
+poraganar: folds 
+JosephClimberB: folds 
+Kingeorge63: calls $0.08
+*** FLOP *** [Qs 8d 6d]
+Kingeorge63: checks 
+abufirs: bets $0.12
+Kingeorge63: calls $0.12
+*** TURN *** [Qs 8d 6d] [Qd]
+Kingeorge63: checks 
+abufirs: checks 
+*** RIVER *** [Qs 8d 6d Qd] [2s]
+Kingeorge63: bets $0.22
+abufirs: calls $0.22
+*** SHOW DOWN ***
+Kingeorge63: shows [4d 5c] (a pair of Queens)
+abufirs: shows [7s 7c] (two pair, Queens and Sevens)
+abufirs collected $0.86 from pot
+*** SUMMARY ***
+Total pot $0.89 | Rake $0.03 
+Board [Qs 8d 6d Qd 2s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs showed [7s 7c] and won ($0.86) with two pair, Queens and Sevens
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 4: poraganar (button) folded before Flop (didn't bet)
+Seat 6: JosephClimberB (small blind) folded before Flop
+Seat 7: Kingeorge63 (big blind) showed [4d 5c] and lost with a pair of Queens
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: TheBigStep folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679746141:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:22:13 PT [2021/12/30 23:22:13 ET]
+Table 'Adalberta II' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($2.85 in chips) 
+Seat 2: abufirs ($1.54 in chips) 
+Seat 3: kamafeus ($1.85 in chips) 
+Seat 4: poraganar ($1.67 in chips) 
+Seat 6: JosephClimberB ($3.85 in chips) 
+Seat 7: Kingeorge63 ($1.56 in chips) 
+Seat 8: richard4848 ($0.62 in chips) 
+Kingeorge63: posts small blind $0.01
+richard4848: posts big blind $0.02
+Poker_Daniel96: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Tc]
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: folds 
+poraganar is disconnected 
+poraganar is connected 
+poraganar: folds 
+JosephClimberB: calls $0.02
+Kingeorge63: calls $0.01
+richard4848: checks 
+*** FLOP *** [9h 7h 4s]
+Kingeorge63: bets $0.02
+richard4848: folds 
+JosephClimberB: calls $0.02
+*** TURN *** [9h 7h 4s] [9c]
+Kingeorge63: checks 
+JosephClimberB: checks 
+*** RIVER *** [9h 7h 4s 9c] [2h]
+Kingeorge63: checks 
+JosephClimberB: checks 
+*** SHOW DOWN ***
+Kingeorge63: shows [Ts 8c] (a pair of Nines)
+JosephClimberB: shows [Td 7s] (two pair, Nines and Sevens)
+JosephClimberB collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [9h 7h 4s 9c 2h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 4: poraganar folded before Flop (didn't bet)
+Seat 6: JosephClimberB (button) showed [Td 7s] and won ($0.10) with two pair, Nines and Sevens
+Seat 7: Kingeorge63 (small blind) showed [Ts 8c] and lost with a pair of Nines
+Seat 8: richard4848 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232679761361:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:23:25 PT [2021/12/30 23:23:25 ET]
+Table 'Adalberta II' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2.85 in chips) 
+Seat 2: abufirs ($1.54 in chips) 
+Seat 3: kamafeus ($1.85 in chips) 
+Seat 4: poraganar ($1.67 in chips) 
+Seat 6: JosephClimberB ($3.91 in chips) 
+Seat 7: Kingeorge63 ($1.52 in chips) 
+Seat 8: richard4848 ($0.60 in chips) 
+Seat 9: Poker_Daniel96 ($2 in chips) 
+richard4848: posts small blind $0.01
+Poker_Daniel96: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Qc]
+Dorex2007: folds 
+abufirs: folds 
+kamafeus: folds 
+poraganar: folds 
+JosephClimberB: folds 
+Kingeorge63: calls $0.02
+richard4848: raises $0.58 to $0.60 and is all-in
+Poker_Daniel96: folds 
+Kingeorge63: folds 
+Uncalled bet ($0.58) returned to richard4848
+richard4848 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 4: poraganar folded before Flop (didn't bet)
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: Kingeorge63 (button) folded before Flop
+Seat 8: richard4848 (small blind) collected ($0.06)
+Seat 9: Poker_Daniel96 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232679769935:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:24:06 PT [2021/12/30 23:24:06 ET]
+Table 'Adalberta II' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2.85 in chips) 
+Seat 2: abufirs ($1.54 in chips) 
+Seat 3: kamafeus ($1.85 in chips) 
+Seat 4: poraganar ($1.67 in chips) 
+Seat 6: JosephClimberB ($3.91 in chips) 
+Seat 7: Kingeorge63 ($1.50 in chips) 
+Seat 8: richard4848 ($0.64 in chips) 
+Seat 9: Poker_Daniel96 ($1.98 in chips) 
+Poker_Daniel96: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 6h]
+abufirs: folds 
+kamafeus: calls $0.02
+n000ba leaves the table
+poraganar is disconnected 
+poraganar has timed out while being disconnected
+poraganar: folds 
+Minakhat joins the table at seat #5 
+JosephClimberB: calls $0.02
+Kingeorge63: calls $0.02
+richard4848: calls $0.02
+Poker_Daniel96: folds 
+Dorex2007: checks 
+*** FLOP *** [Jd 6c Kc]
+Dorex2007: checks 
+kamafeus: checks 
+JosephClimberB: checks 
+Kingeorge63: checks 
+richard4848: checks 
+*** TURN *** [Jd 6c Kc] [4d]
+Dorex2007: checks 
+kamafeus: checks 
+JosephClimberB: checks 
+Kingeorge63: bets $0.06
+richard4848: folds 
+Dorex2007: folds 
+kamafeus: calls $0.06
+JosephClimberB: calls $0.06
+*** RIVER *** [Jd 6c Kc 4d] [8h]
+kamafeus: checks 
+JosephClimberB: checks 
+Kingeorge63: checks 
+*** SHOW DOWN ***
+kamafeus: shows [As Jc] (a pair of Jacks)
+JosephClimberB: mucks hand 
+Kingeorge63: shows [7h Kh] (a pair of Kings)
+Kingeorge63 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Jd 6c Kc 4d 8h]
+Seat 1: Dorex2007 (big blind) folded on the Turn
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 3: kamafeus showed [As Jc] and lost with a pair of Jacks
+Seat 4: poraganar folded before Flop (didn't bet)
+Seat 6: JosephClimberB mucked [Th Ts]
+Seat 7: Kingeorge63 showed [7h Kh] and won ($0.28) with a pair of Kings
+Seat 8: richard4848 (button) folded on the Turn
+Seat 9: Poker_Daniel96 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232679796162:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:25:42 PT [2021/12/30 23:25:42 ET]
+Table 'Adalberta II' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2.83 in chips) 
+Seat 2: abufirs ($1.54 in chips) 
+Seat 3: kamafeus ($1.77 in chips) 
+Seat 4: poraganar ($1.67 in chips) 
+Seat 6: JosephClimberB ($3.83 in chips) 
+Seat 7: Kingeorge63 ($1.70 in chips) 
+Seat 8: richard4848 ($0.62 in chips) 
+Seat 9: Poker_Daniel96 ($1.97 in chips) 
+Dorex2007: posts small blind $0.01
+abufirs: posts big blind $0.02
+Minakhat: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Ts]
+kamafeus has timed out
+kamafeus: folds 
+poraganar: folds 
+JosephClimberB: folds 
+Kingeorge63: calls $0.02
+richard4848: folds 
+Poker_Daniel96: raises $0.08 to $0.10
+Dorex2007: folds 
+abufirs: calls $0.08
+Kingeorge63: folds 
+*** FLOP *** [6h 7d 3s]
+abufirs: checks 
+Poker_Daniel96: checks 
+*** TURN *** [6h 7d 3s] [Tc]
+abufirs: checks 
+Poker_Daniel96: checks 
+*** RIVER *** [6h 7d 3s Tc] [Td]
+abufirs: checks 
+Poker_Daniel96: bets $0.11
+abufirs: folds 
+Uncalled bet ($0.11) returned to Poker_Daniel96
+Poker_Daniel96 collected $0.22 from pot
+Poker_Daniel96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [6h 7d 3s Tc Td]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: abufirs (big blind) folded on the River
+Seat 3: kamafeus folded before Flop (didn't bet)
+Seat 4: poraganar folded before Flop (didn't bet)
+Seat 6: JosephClimberB folded before Flop (didn't bet)
+Seat 7: Kingeorge63 folded before Flop
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: Poker_Daniel96 (button) collected ($0.22)
+
+
+
+PokerStars Hand #232679815627:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:26:54 PT [2021/12/30 23:26:54 ET]
+Table 'Adalberta II' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2.82 in chips) 
+Seat 2: abufirs ($1.44 in chips) 
+Seat 4: poraganar ($1.67 in chips) 
+Seat 6: JosephClimberB ($3.83 in chips) 
+Seat 7: Kingeorge63 ($1.68 in chips) 
+Seat 8: richard4848 ($0.62 in chips) 
+Seat 9: Poker_Daniel96 ($2.09 in chips) 
+abufirs: posts small blind $0.01
+kamafeus: is sitting out 
+poraganar: posts big blind $0.02
+Minakhat: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 3d]
+JosephClimberB: calls $0.02
+Kingeorge63: folds 
+richard4848: raises $0.60 to $0.62 and is all-in
+Poker_Daniel96: folds 
+Dorex2007: folds 
+abufirs: calls $0.61
+poraganar: folds 
+JosephClimberB: folds 
+*** FLOP *** [6h 9c 4d]
+*** TURN *** [6h 9c 4d] [4c]
+*** RIVER *** [6h 9c 4d 4c] [Qs]
+*** SHOW DOWN ***
+abufirs: shows [Tc Jh] (a pair of Fours)
+richard4848: shows [Ad 9s] (two pair, Nines and Fours)
+richard4848 collected $1.24 from pot
+*** SUMMARY ***
+Total pot $1.28 | Rake $0.04 
+Board [6h 9c 4d 4c Qs]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: abufirs (small blind) showed [Tc Jh] and lost with a pair of Fours
+Seat 4: poraganar (big blind) folded before Flop
+Seat 6: JosephClimberB folded before Flop
+Seat 7: Kingeorge63 folded before Flop (didn't bet)
+Seat 8: richard4848 showed [Ad 9s] and won ($1.24) with two pair, Nines and Fours
+Seat 9: Poker_Daniel96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679823062:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:27:30 PT [2021/12/30 23:27:30 ET]
+Table 'Adalberta II' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2.82 in chips) 
+Seat 2: abufirs ($0.82 in chips) 
+Seat 4: poraganar ($1.65 in chips) 
+Seat 5: Minakhat ($0.80 in chips) 
+Seat 6: JosephClimberB ($3.81 in chips) 
+Seat 7: Kingeorge63 ($1.68 in chips) 
+Seat 8: richard4848 ($1.24 in chips) 
+Seat 9: Poker_Daniel96 ($2.09 in chips) 
+poraganar: posts small blind $0.01
+Minakhat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Js]
+JosephClimberB: raises $0.04 to $0.06
+Kingeorge63: calls $0.06
+richard4848: raises $1.18 to $1.24 and is all-in
+Poker_Daniel96: folds 
+Dorex2007: folds 
+abufirs: folds 
+poraganar: folds 
+Minakhat: folds 
+JosephClimberB: calls $1.18
+Kingeorge63: folds 
+*** FLOP *** [Qs Ks 9c]
+*** TURN *** [Qs Ks 9c] [6h]
+*** RIVER *** [Qs Ks 9c 6h] [5c]
+*** SHOW DOWN ***
+JosephClimberB: shows [Kh Qc] (two pair, Kings and Queens)
+richard4848: shows [Kd Kc] (three of a kind, Kings)
+richard4848 collected $2.48 from pot
+*** SUMMARY ***
+Total pot $2.57 | Rake $0.09 
+Board [Qs Ks 9c 6h 5c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs (button) folded before Flop (didn't bet)
+Seat 4: poraganar (small blind) folded before Flop
+Seat 5: Minakhat (big blind) folded before Flop
+Seat 6: JosephClimberB showed [Kh Qc] and lost with two pair, Kings and Queens
+Seat 7: Kingeorge63 folded before Flop
+Seat 8: richard4848 showed [Kd Kc] and won ($2.48) with three of a kind, Kings
+Seat 9: Poker_Daniel96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679830604:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:28:06 PT [2021/12/30 23:28:06 ET]
+Table 'Adalberta II' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2.82 in chips) 
+Seat 2: abufirs ($1.82 in chips) 
+Seat 4: poraganar ($1.64 in chips) 
+Seat 5: Minakhat ($0.80 in chips) 
+Seat 6: JosephClimberB ($2.57 in chips) 
+Seat 7: Kingeorge63 ($1.62 in chips) 
+Seat 8: richard4848 ($2.48 in chips) 
+Seat 9: Poker_Daniel96 ($2.09 in chips) 
+Minakhat: posts small blind $0.01
+JosephClimberB: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Qh]
+Kingeorge63: folds 
+richard4848: folds 
+Poker_Daniel96: folds 
+Dorex2007: raises $0.08 to $0.10
+abufirs: calls $0.10
+poraganar: folds 
+Minakhat: folds 
+JosephClimberB: folds 
+*** FLOP *** [6s Qs 8h]
+JosephClimberB leaves the table
+KATARA joins the table at seat #6 
+Dorex2007: bets $0.11
+abufirs: calls $0.11
+*** TURN *** [6s Qs 8h] [7d]
+Dorex2007: bets $2.61 and is all-in
+abufirs: calls $1.61 and is all-in
+Uncalled bet ($1) returned to Dorex2007
+*** RIVER *** [6s Qs 8h 7d] [9c]
+*** SHOW DOWN ***
+Dorex2007: shows [Qc Qh] (three of a kind, Queens)
+abufirs: shows [Js As] (high card Ace)
+Dorex2007 cashed out the hand for $2.95 | Cash Out Fee $0.03
+*** SUMMARY ***
+Total pot $3.67 | Rake $0.13 
+Board [6s Qs 8h 7d 9c]
+Seat 1: Dorex2007 showed [Qc Qh] and won ($3.54) with three of a kind, Queens (pot not awarded as player cashed out)
+Seat 2: abufirs showed [Js As] and lost with high card Ace
+Seat 4: poraganar (button) folded before Flop (didn't bet)
+Seat 5: Minakhat (small blind) folded before Flop
+Seat 6: JosephClimberB (big blind) folded before Flop
+Seat 7: Kingeorge63 folded before Flop (didn't bet)
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: Poker_Daniel96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679840826:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:28:55 PT [2021/12/30 23:28:55 ET]
+Table 'Adalberta II' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($3.95 in chips) 
+Seat 4: poraganar ($1.64 in chips) 
+Seat 5: Minakhat ($0.80 in chips) 
+Seat 7: Kingeorge63 ($1.62 in chips) 
+Seat 8: richard4848 ($2.48 in chips) 
+Seat 9: Poker_Daniel96 ($2.09 in chips) 
+Kingeorge63: posts small blind $0.01
+richard4848: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 9c]
+Poker_Daniel96: folds 
+Dorex2007: folds 
+poraganar: folds 
+Minakhat: folds 
+Kingeorge63: calls $0.01
+richard4848: checks 
+*** FLOP *** [Ks 5s Ts]
+Kingeorge63: checks 
+richard4848: bets $0.04
+Kingeorge63: folds 
+Uncalled bet ($0.04) returned to richard4848
+richard4848 collected $0.04 from pot
+richard4848: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Ks 5s Ts]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 4: poraganar folded before Flop (didn't bet)
+Seat 5: Minakhat (button) folded before Flop (didn't bet)
+Seat 7: Kingeorge63 (small blind) folded on the Flop
+Seat 8: richard4848 (big blind) collected ($0.04)
+Seat 9: Poker_Daniel96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679846267:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:29:22 PT [2021/12/30 23:29:22 ET]
+Table 'Adalberta II' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($3.95 in chips) 
+Seat 2: abufirs ($2 in chips) 
+Seat 4: poraganar ($1.64 in chips) 
+Seat 5: Minakhat ($0.80 in chips) 
+Seat 6: KATARA ($2 in chips) 
+Seat 7: Kingeorge63 ($1.60 in chips) 
+Seat 8: richard4848 ($2.50 in chips) 
+Seat 9: Poker_Daniel96 ($2.09 in chips) 
+richard4848: posts small blind $0.01
+Poker_Daniel96: posts big blind $0.02
+KATARA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Ac]
+Dorex2007: folds 
+abufirs: calls $0.02
+poraganar: folds 
+Minakhat: folds 
+KATARA: checks 
+Kingeorge63: raises $0.02 to $0.04
+richard4848: calls $0.03
+Poker_Daniel96: calls $0.02
+abufirs: calls $0.02
+KATARA: calls $0.02
+*** FLOP *** [6h 8s Js]
+richard4848: checks 
+Poker_Daniel96: bets $0.14
+abufirs: calls $0.14
+KATARA: folds 
+Kingeorge63: folds 
+richard4848: folds 
+*** TURN *** [6h 8s Js] [9s]
+Poker_Daniel96: bets $0.24
+abufirs: calls $0.24
+*** RIVER *** [6h 8s Js 9s] [Th]
+Poker_Daniel96: bets $1.67 and is all-in
+abufirs: calls $1.58 and is all-in
+Uncalled bet ($0.09) returned to Poker_Daniel96
+*** SHOW DOWN ***
+Poker_Daniel96: shows [Jc Td] (two pair, Jacks and Tens)
+abufirs: shows [Qh Jd] (a straight, Eight to Queen)
+abufirs collected $3.98 from pot
+*** SUMMARY ***
+Total pot $4.12 | Rake $0.14 
+Board [6h 8s Js 9s Th]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs showed [Qh Jd] and won ($3.98) with a straight, Eight to Queen
+Seat 4: poraganar folded before Flop (didn't bet)
+Seat 5: Minakhat folded before Flop (didn't bet)
+Seat 6: KATARA folded on the Flop
+Seat 7: Kingeorge63 (button) folded on the Flop
+Seat 8: richard4848 (small blind) folded on the Flop
+Seat 9: Poker_Daniel96 (big blind) showed [Jc Td] and lost with two pair, Jacks and Tens
+
+
+
+PokerStars Hand #232679859637:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:30:26 PT [2021/12/30 23:30:26 ET]
+Table 'Adalberta II' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($3.95 in chips) 
+Seat 2: abufirs ($3.98 in chips) 
+Seat 4: poraganar ($1.64 in chips) 
+Seat 5: Minakhat ($0.80 in chips) 
+Seat 6: KATARA ($2 in chips) 
+Seat 7: Kingeorge63 ($1.56 in chips) 
+Seat 8: richard4848 ($2.46 in chips) 
+Seat 9: Poker_Daniel96 ($0.09 in chips) 
+Poker_Daniel96: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Qc]
+abufirs: folds 
+poraganar: folds 
+Minakhat: folds 
+richard4848 is disconnected 
+KATARA: raises $0.03 to $0.05
+Kingeorge63: folds 
+richard4848 has timed out while disconnected
+richard4848: folds 
+Poker_Daniel96: calls $0.04
+Dorex2007: folds 
+*** FLOP *** [5d 4s 2d]
+Poker_Daniel96: bets $0.04 and is all-in
+KATARA: calls $0.04
+*** TURN *** [5d 4s 2d] [4h]
+*** RIVER *** [5d 4s 2d 4h] [3h]
+*** SHOW DOWN ***
+Poker_Daniel96: shows [Ah Th] (a straight, Ace to Five)
+KATARA: shows [Kh 6h] (a straight, Deuce to Six)
+KATARA collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [5d 4s 2d 4h 3h]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 4: poraganar folded before Flop (didn't bet)
+Seat 5: Minakhat folded before Flop (didn't bet)
+Seat 6: KATARA showed [Kh 6h] and won ($0.19) with a straight, Deuce to Six
+Seat 7: Kingeorge63 folded before Flop (didn't bet)
+Seat 8: richard4848 (button) folded before Flop (didn't bet)
+Seat 9: Poker_Daniel96 (small blind) showed [Ah Th] and lost with a straight, Ace to Five
+
+
+
+PokerStars Hand #232679868889:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:31:11 PT [2021/12/30 23:31:11 ET]
+Table 'Adalberta II' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($3.93 in chips) 
+Seat 2: abufirs ($3.98 in chips) 
+Seat 4: poraganar ($1.64 in chips) 
+Seat 5: Minakhat ($0.80 in chips) 
+Seat 6: KATARA ($2.10 in chips) 
+Seat 7: Kingeorge63 ($1.56 in chips) 
+Seat 9: Poker_Daniel96 ($1.91 in chips) 
+Dorex2007: posts small blind $0.01
+abufirs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 9c]
+poraganar: calls $0.02
+Minakhat: folds 
+KATARA: folds 
+Kingeorge63: calls $0.02
+Poker_Daniel96: folds 
+Dorex2007: folds 
+abufirs: checks 
+*** FLOP *** [3c 5h 9s]
+abufirs: checks 
+poraganar: bets $0.04
+Kingeorge63: folds 
+abufirs: folds 
+Uncalled bet ($0.04) returned to poraganar
+poraganar collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [3c 5h 9s]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: abufirs (big blind) folded on the Flop
+Seat 4: poraganar collected ($0.07)
+Seat 5: Minakhat folded before Flop (didn't bet)
+Seat 6: KATARA folded before Flop (didn't bet)
+Seat 7: Kingeorge63 folded on the Flop
+Seat 9: Poker_Daniel96 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679878178:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:31:57 PT [2021/12/30 23:31:57 ET]
+Table 'Adalberta II' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($3.92 in chips) 
+Seat 2: abufirs ($3.96 in chips) 
+Seat 4: poraganar ($1.69 in chips) 
+Seat 5: Minakhat ($0.80 in chips) 
+Seat 6: KATARA ($2.10 in chips) 
+Seat 7: Kingeorge63 ($1.54 in chips) 
+Seat 8: richard4848 ($2.46 in chips) 
+Seat 9: Poker_Daniel96 ($2 in chips) 
+abufirs: posts small blind $0.01
+poraganar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 2d]
+Minakhat: folds 
+KATARA: calls $0.02
+Kingeorge63: calls $0.02
+richard4848: calls $0.02
+Poker_Daniel96: folds 
+Dorex2007: folds 
+abufirs: calls $0.01
+poraganar: checks 
+*** FLOP *** [3h 8d Kh]
+abufirs: bets $0.05
+poraganar: folds 
+KATARA: calls $0.05
+Kingeorge63: folds 
+richard4848: calls $0.05
+*** TURN *** [3h 8d Kh] [7d]
+abufirs: checks 
+KATARA: checks 
+richard4848: checks 
+*** RIVER *** [3h 8d Kh 7d] [4d]
+abufirs: bets $0.12
+KATARA: folds 
+richard4848: folds 
+Uncalled bet ($0.12) returned to abufirs
+abufirs collected $0.24 from pot
+abufirs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3h 8d Kh 7d 4d]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: abufirs (small blind) collected ($0.24)
+Seat 4: poraganar (big blind) folded on the Flop
+Seat 5: Minakhat folded before Flop (didn't bet)
+Seat 6: KATARA folded on the River
+Seat 7: Kingeorge63 folded on the Flop
+Seat 8: richard4848 folded on the River
+Seat 9: Poker_Daniel96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679893510:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:33:12 PT [2021/12/30 23:33:12 ET]
+Table 'Adalberta II' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($3.92 in chips) 
+Seat 2: abufirs ($4.13 in chips) 
+Seat 4: poraganar ($1.67 in chips) 
+Seat 5: Minakhat ($0.80 in chips) 
+Seat 6: KATARA ($2.03 in chips) 
+Seat 7: Kingeorge63 ($1.52 in chips) 
+Seat 8: richard4848 ($2.39 in chips) 
+Seat 9: Poker_Daniel96 ($2 in chips) 
+poraganar: posts small blind $0.01
+Minakhat: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 2c]
+KATARA: folds 
+Kingeorge63: calls $0.02
+richard4848: folds 
+Poker_Daniel96: folds 
+Dorex2007: folds 
+abufirs: folds 
+poraganar: calls $0.01
+Minakhat: checks 
+*** FLOP *** [Qc Qs 9d]
+poraganar: checks 
+Minakhat: checks 
+Kingeorge63: checks 
+*** TURN *** [Qc Qs 9d] [Tc]
+poraganar: checks 
+Minakhat: checks 
+Kingeorge63: checks 
+*** RIVER *** [Qc Qs 9d Tc] [8c]
+poraganar: bets $0.06
+Minakhat: folds 
+Kingeorge63: folds 
+Uncalled bet ($0.06) returned to poraganar
+poraganar collected $0.06 from pot
+poraganar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Qc Qs 9d Tc 8c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs (button) folded before Flop (didn't bet)
+Seat 4: poraganar (small blind) collected ($0.06)
+Seat 5: Minakhat (big blind) folded on the River
+Seat 6: KATARA folded before Flop (didn't bet)
+Seat 7: Kingeorge63 folded on the River
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: Poker_Daniel96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232679903075:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/12/30 20:34:00 PT [2021/12/30 23:34:00 ET]
+Table 'Adalberta II' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($3.92 in chips) 
+Seat 2: abufirs ($4.13 in chips) 
+Seat 4: poraganar ($1.71 in chips) 
+Seat 5: Minakhat ($0.80 in chips) 
+Seat 6: KATARA ($2.03 in chips) 
+Seat 7: Kingeorge63 ($1.50 in chips) 
+Seat 8: richard4848 ($2.39 in chips) 
+Seat 9: Poker_Daniel96 ($2 in chips) 
+Minakhat: posts small blind $0.01
+KATARA: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Kc]
+Kingeorge63: folds 
+richard4848: folds 
+Poker_Daniel96: folds 
+Dorex2007: folds 
+abufirs: folds 
+poraganar: folds 
+Minakhat: raises $0.03 to $0.05
+KATARA: folds 
+Uncalled bet ($0.03) returned to Minakhat
+Minakhat collected $0.04 from pot
+Minakhat: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: abufirs folded before Flop (didn't bet)
+Seat 4: poraganar (button) folded before Flop (didn't bet)
+Seat 5: Minakhat (small blind) collected ($0.04)
+Seat 6: KATARA (big blind) folded before Flop
+Seat 7: Kingeorge63 folded before Flop (didn't bet)
+Seat 8: richard4848 folded before Flop (didn't bet)
+Seat 9: Poker_Daniel96 folded before Flop (didn't bet)
+
+
+

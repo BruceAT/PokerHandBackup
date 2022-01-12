@@ -1,0 +1,5451 @@
+﻿PokerStars Hand #225847187744:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:01:20 PT [2021/04/14 21:01:20 ET]
+Table 'Botein III' 9-max Seat #6 is the button
+Seat 1: Gawrosz23 ($12.70 in chips) 
+Seat 2: asdabelle ($0.67 in chips) 
+Seat 3: stephfern53 ($1.60 in chips) 
+Seat 4: Rickcanrun ($1.89 in chips) 
+Seat 6: yaki469 ($1.54 in chips) 
+Seat 7: podlesh60 ($0.78 in chips) 
+Seat 8: Dorex2007 ($1.50 in chips) 
+Seat 9: Roumox ($4.02 in chips) 
+podlesh60: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 4s]
+Roumox: folds 
+Gawrosz23: calls $0.02
+asdabelle: folds 
+stephfern53: calls $0.02
+Rickcanrun: folds 
+yaki469: calls $0.02
+podlesh60: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [2h Qd 5d]
+podlesh60: checks 
+Dorex2007: checks 
+Gawrosz23: checks 
+stephfern53: checks 
+yaki469: checks 
+*** TURN *** [2h Qd 5d] [Kh]
+podlesh60: checks 
+Dorex2007: checks 
+Gawrosz23: bets $0.05
+stephfern53: folds 
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+Uncalled bet ($0.05) returned to Gawrosz23
+Gawrosz23 collected $0.10 from pot
+Gawrosz23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [2h Qd 5d Kh]
+Seat 1: Gawrosz23 collected ($0.10)
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 folded on the Turn
+Seat 4: Rickcanrun folded before Flop (didn't bet)
+Seat 6: yaki469 (button) folded on the Turn
+Seat 7: podlesh60 (small blind) folded on the Turn
+Seat 8: Dorex2007 (big blind) folded on the Turn
+Seat 9: Roumox folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847206107:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:02:26 PT [2021/04/14 21:02:26 ET]
+Table 'Botein III' 9-max Seat #7 is the button
+Seat 1: Gawrosz23 ($12.78 in chips) 
+Seat 2: asdabelle ($0.67 in chips) 
+Seat 3: stephfern53 ($1.58 in chips) 
+Seat 4: Rickcanrun ($1.89 in chips) 
+Seat 6: yaki469 ($1.52 in chips) 
+Seat 7: podlesh60 ($0.76 in chips) 
+Seat 8: Dorex2007 ($1.48 in chips) 
+Seat 9: Roumox ($4.02 in chips) 
+Dorex2007: posts small blind $0.01
+Roumox: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 5c]
+Gawrosz23: calls $0.02
+asdabelle: folds 
+stephfern53: calls $0.02
+Rickcanrun: calls $0.02
+yaki469: folds 
+podlesh60: calls $0.02
+Dorex2007: calls $0.01
+Roumox: checks 
+*** FLOP *** [4c 7c 8h]
+Dorex2007: checks 
+Roumox: checks 
+Gawrosz23: checks 
+stephfern53: checks 
+Rickcanrun: checks 
+podlesh60: checks 
+*** TURN *** [4c 7c 8h] [9h]
+Dorex2007: bets $0.12
+Roumox: folds 
+Gawrosz23: folds 
+stephfern53: folds 
+Rickcanrun: folds 
+podlesh60: folds 
+Uncalled bet ($0.12) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [4c 7c 8h 9h]
+Seat 1: Gawrosz23 folded on the Turn
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 folded on the Turn
+Seat 4: Rickcanrun folded on the Turn
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 (button) folded on the Turn
+Seat 8: Dorex2007 (small blind) collected ($0.12)
+Seat 9: Roumox (big blind) folded on the Turn
+
+
+
+PokerStars Hand #225847230321:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:03:51 PT [2021/04/14 21:03:51 ET]
+Table 'Botein III' 9-max Seat #8 is the button
+Seat 1: Gawrosz23 ($12.76 in chips) 
+Seat 2: asdabelle ($0.67 in chips) 
+Seat 3: stephfern53 ($1.56 in chips) 
+Seat 4: Rickcanrun ($1.87 in chips) 
+Seat 6: yaki469 ($1.52 in chips) 
+Seat 7: podlesh60 ($0.74 in chips) 
+Seat 8: Dorex2007 ($1.58 in chips) 
+Seat 9: Roumox ($4 in chips) 
+Roumox: posts small blind $0.01
+Gawrosz23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 3s]
+asdabelle: calls $0.02
+stephfern53: folds 
+Rickcanrun: folds 
+yaki469: folds 
+podlesh60: raises $0.04 to $0.06
+Dorex2007: folds 
+Roumox: folds 
+Gawrosz23: calls $0.04
+asdabelle: calls $0.04
+*** FLOP *** [8d 6c 5s]
+Gawrosz23: checks 
+asdabelle: bets $0.06
+podlesh60: folds 
+Gawrosz23: calls $0.06
+*** TURN *** [8d 6c 5s] [7s]
+Gawrosz23: checks 
+asdabelle: checks 
+*** RIVER *** [8d 6c 5s 7s] [5h]
+Gawrosz23: checks 
+asdabelle: checks 
+*** SHOW DOWN ***
+Gawrosz23: shows [8s Ts] (two pair, Eights and Fives)
+asdabelle: mucks hand 
+Gawrosz23 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [8d 6c 5s 7s 5h]
+Seat 1: Gawrosz23 (big blind) showed [8s Ts] and won ($0.30) with two pair, Eights and Fives
+Seat 2: asdabelle mucked [Jh As]
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 4: Rickcanrun folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded on the Flop
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: Roumox (small blind) folded before Flop
+
+
+
+PokerStars Hand #225847247672:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:04:51 PT [2021/04/14 21:04:51 ET]
+Table 'Botein III' 9-max Seat #9 is the button
+Seat 1: Gawrosz23 ($12.94 in chips) 
+Seat 2: asdabelle ($0.55 in chips) 
+Seat 3: stephfern53 ($1.56 in chips) 
+Seat 4: Rickcanrun ($1.87 in chips) 
+Seat 6: yaki469 ($1.52 in chips) 
+Seat 7: podlesh60 ($0.68 in chips) 
+Seat 8: Dorex2007 ($1.58 in chips) 
+Seat 9: Roumox ($3.99 in chips) 
+Gawrosz23: posts small blind $0.01
+asdabelle: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s Js]
+stephfern53: folds 
+Rickcanrun: folds 
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: raises $0.04 to $0.06
+Roumox: folds 
+Gawrosz23: folds 
+asdabelle: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Gawrosz23 (small blind) folded before Flop
+Seat 2: asdabelle (big blind) folded before Flop
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 4: Rickcanrun folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 collected ($0.05)
+Seat 9: Roumox (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847260387:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:05:09 PT [2021/04/14 21:05:09 ET]
+Table 'Botein III' 9-max Seat #1 is the button
+Seat 1: Gawrosz23 ($12.93 in chips) 
+Seat 2: asdabelle ($0.53 in chips) 
+Seat 4: Rickcanrun ($1.87 in chips) 
+Seat 6: yaki469 ($1.52 in chips) 
+Seat 7: podlesh60 ($0.68 in chips) 
+Seat 8: Dorex2007 ($1.61 in chips) 
+Seat 9: Roumox ($3.99 in chips) 
+asdabelle: posts small blind $0.01
+stephfern53: is sitting out 
+Rickcanrun: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 5c]
+yaki469: calls $0.02
+podlesh60: folds 
+Dorex2007: folds 
+Roumox: folds 
+Gawrosz23: folds 
+asdabelle: calls $0.01
+Rickcanrun: checks 
+*** FLOP *** [Kd 7h 6d]
+asdabelle: checks 
+Rickcanrun: checks 
+yaki469: checks 
+*** TURN *** [Kd 7h 6d] [2h]
+asdabelle: bets $0.06
+Rickcanrun: folds 
+yaki469: folds 
+Uncalled bet ($0.06) returned to asdabelle
+asdabelle collected $0.06 from pot
+asdabelle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Kd 7h 6d 2h]
+Seat 1: Gawrosz23 (button) folded before Flop (didn't bet)
+Seat 2: asdabelle (small blind) collected ($0.06)
+Seat 4: Rickcanrun (big blind) folded on the Turn
+Seat 6: yaki469 folded on the Turn
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Roumox folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847270513:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:05:44 PT [2021/04/14 21:05:44 ET]
+Table 'Botein III' 9-max Seat #2 is the button
+Seat 1: Gawrosz23 ($12.93 in chips) 
+Seat 2: asdabelle ($0.57 in chips) 
+Seat 4: Rickcanrun ($1.85 in chips) 
+Seat 6: yaki469 ($1.50 in chips) 
+Seat 7: podlesh60 ($0.68 in chips) 
+Seat 8: Dorex2007 ($1.61 in chips) 
+Seat 9: Roumox ($3.99 in chips) 
+Rickcanrun: posts small blind $0.01
+yaki469: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Qs]
+podlesh60: raises $0.02 to $0.04
+Dorex2007: folds 
+Roumox: folds 
+Gawrosz23: folds 
+asdabelle: folds 
+Rickcanrun: calls $0.03
+yaki469: calls $0.02
+*** FLOP *** [Kc Jh 2d]
+Rickcanrun: checks 
+yaki469: checks 
+podlesh60: bets $0.64 and is all-in
+Rickcanrun: folds 
+yaki469: folds 
+Uncalled bet ($0.64) returned to podlesh60
+podlesh60 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Kc Jh 2d]
+Seat 1: Gawrosz23 folded before Flop (didn't bet)
+Seat 2: asdabelle (button) folded before Flop (didn't bet)
+Seat 4: Rickcanrun (small blind) folded on the Flop
+Seat 6: yaki469 (big blind) folded on the Flop
+Seat 7: podlesh60 collected ($0.12)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Roumox folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847278759:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:06:13 PT [2021/04/14 21:06:13 ET]
+Table 'Botein III' 9-max Seat #4 is the button
+Seat 1: Gawrosz23 ($12.93 in chips) 
+Seat 2: asdabelle ($0.57 in chips) 
+Seat 4: Rickcanrun ($1.81 in chips) 
+Seat 6: yaki469 ($1.46 in chips) 
+Seat 7: podlesh60 ($0.76 in chips) 
+Seat 8: Dorex2007 ($1.61 in chips) 
+Seat 9: Roumox ($3.99 in chips) 
+yaki469: posts small blind $0.01
+podlesh60: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 7s]
+Dorex2007: folds 
+Roumox: folds 
+Gawrosz23: folds 
+asdabelle: folds 
+Rickcanrun: calls $0.02
+yaki469: raises $0.08 to $0.10
+podlesh60: folds 
+Rickcanrun: calls $0.08
+*** FLOP *** [8d 2d 3c]
+yaki469: bets $0.21
+Rickcanrun: folds 
+Uncalled bet ($0.21) returned to yaki469
+yaki469 collected $0.21 from pot
+yaki469: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [8d 2d 3c]
+Seat 1: Gawrosz23 folded before Flop (didn't bet)
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 4: Rickcanrun (button) folded on the Flop
+Seat 6: yaki469 (small blind) collected ($0.21)
+Seat 7: podlesh60 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Roumox folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847288939:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:06:48 PT [2021/04/14 21:06:48 ET]
+Table 'Botein III' 9-max Seat #6 is the button
+Seat 1: Gawrosz23 ($12.93 in chips) 
+Seat 2: asdabelle ($0.57 in chips) 
+Seat 4: Rickcanrun ($1.71 in chips) 
+Seat 6: yaki469 ($1.57 in chips) 
+Seat 7: podlesh60 ($0.74 in chips) 
+Seat 8: Dorex2007 ($1.61 in chips) 
+Seat 9: Roumox ($3.99 in chips) 
+podlesh60: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 2c]
+Roumox: calls $0.02
+Gawrosz23: calls $0.02
+asdabelle: calls $0.02
+Rickcanrun: folds 
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: checks 
+*** FLOP *** [8h 2h 3d]
+Dorex2007: bets $0.09
+Roumox: folds 
+Gawrosz23: calls $0.09
+asdabelle: folds 
+*** TURN *** [8h 2h 3d] [Ks]
+Dorex2007: checks 
+Gawrosz23: bets $0.13
+Dorex2007: folds 
+Uncalled bet ($0.13) returned to Gawrosz23
+Gawrosz23 collected $0.26 from pot
+Gawrosz23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [8h 2h 3d Ks]
+Seat 1: Gawrosz23 collected ($0.26)
+Seat 2: asdabelle folded on the Flop
+Seat 4: Rickcanrun folded before Flop (didn't bet)
+Seat 6: yaki469 (button) folded before Flop (didn't bet)
+Seat 7: podlesh60 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded on the Turn
+Seat 9: Roumox folded on the Flop
+
+
+
+PokerStars Hand #225847297893:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:07:20 PT [2021/04/14 21:07:20 ET]
+Table 'Botein III' 9-max Seat #7 is the button
+Seat 1: Gawrosz23 ($13.08 in chips) 
+Seat 2: asdabelle ($0.55 in chips) 
+Seat 4: Rickcanrun ($1.71 in chips) 
+Seat 6: yaki469 ($1.57 in chips) 
+Seat 7: podlesh60 ($0.73 in chips) 
+Seat 8: Dorex2007 ($1.50 in chips) 
+Seat 9: Roumox ($3.97 in chips) 
+Dorex2007: posts small blind $0.01
+Roumox: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s As]
+Gawrosz23: folds 
+asdabelle: folds 
+Rickcanrun: calls $0.02
+yaki469: raises $0.04 to $0.06
+podlesh60: folds 
+Dorex2007: calls $0.05
+Roumox: calls $0.04
+Rickcanrun: calls $0.04
+*** FLOP *** [7c 5c Ah]
+Dorex2007: checks 
+Roumox: checks 
+Rickcanrun: checks 
+yaki469: checks 
+*** TURN *** [7c 5c Ah] [Tc]
+Dorex2007: checks 
+Roumox: bets $0.07
+Rickcanrun: calls $0.07
+yaki469: folds 
+Dorex2007: calls $0.07
+*** RIVER *** [7c 5c Ah Tc] [Jc]
+Dorex2007: checks 
+Roumox: checks 
+Rickcanrun: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [5s As] (two pair, Aces and Fives)
+Roumox: mucks hand 
+Rickcanrun: mucks hand 
+Dorex2007 collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [7c 5c Ah Tc Jc]
+Seat 1: Gawrosz23 folded before Flop (didn't bet)
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 4: Rickcanrun mucked [9d 7d]
+Seat 6: yaki469 folded on the Turn
+Seat 7: podlesh60 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) showed [5s As] and won ($0.43) with two pair, Aces and Fives
+Seat 9: Roumox (big blind) mucked [8s Ts]
+
+
+
+PokerStars Hand #225847318984:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:08:34 PT [2021/04/14 21:08:34 ET]
+Table 'Botein III' 9-max Seat #8 is the button
+Seat 1: Gawrosz23 ($13.08 in chips) 
+Seat 2: asdabelle ($0.55 in chips) 
+Seat 4: Rickcanrun ($1.58 in chips) 
+Seat 6: yaki469 ($1.51 in chips) 
+Seat 7: podlesh60 ($0.73 in chips) 
+Seat 8: Dorex2007 ($1.80 in chips) 
+Seat 9: Roumox ($3.84 in chips) 
+Roumox: posts small blind $0.01
+Gawrosz23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 8s]
+asdabelle: folds 
+Rickcanrun: calls $0.02
+yaki469: calls $0.02
+podlesh60: folds 
+Dorex2007: folds 
+Roumox: calls $0.01
+Gawrosz23: checks 
+*** FLOP *** [Kd 7s Ah]
+Roumox: checks 
+Gawrosz23: checks 
+Rickcanrun: checks 
+yaki469: checks 
+*** TURN *** [Kd 7s Ah] [As]
+Roumox: checks 
+Gawrosz23: checks 
+Rickcanrun: checks 
+yaki469: bets $0.02
+Roumox: folds 
+Gawrosz23: raises $0.06 to $0.08
+Rickcanrun: calls $0.08
+yaki469: folds 
+*** RIVER *** [Kd 7s Ah As] [9d]
+Gawrosz23: bets $0.25
+Rickcanrun: calls $0.25
+*** SHOW DOWN ***
+Gawrosz23: shows [Ad Th] (three of a kind, Aces)
+Rickcanrun: mucks hand 
+Gawrosz23 collected $0.73 from pot
+*** SUMMARY ***
+Total pot $0.76 | Rake $0.03 
+Board [Kd 7s Ah As 9d]
+Seat 1: Gawrosz23 (big blind) showed [Ad Th] and won ($0.73) with three of a kind, Aces
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 4: Rickcanrun mucked [7h Ks]
+Seat 6: yaki469 folded on the Turn
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: Roumox (small blind) folded on the Turn
+
+
+
+PokerStars Hand #225847336831:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:09:38 PT [2021/04/14 21:09:38 ET]
+Table 'Botein III' 9-max Seat #9 is the button
+Seat 1: Gawrosz23 ($13.46 in chips) 
+Seat 2: asdabelle ($0.55 in chips) 
+Seat 4: Rickcanrun ($1.23 in chips) 
+Seat 6: yaki469 ($1.47 in chips) 
+Seat 7: podlesh60 ($0.73 in chips) 
+Seat 8: Dorex2007 ($1.80 in chips) 
+Seat 9: Roumox ($3.82 in chips) 
+Gawrosz23: posts small blind $0.01
+asdabelle: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 3d]
+Rickcanrun: folds 
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+Roumox: raises $0.04 to $0.06
+Gawrosz23: folds 
+asdabelle: folds 
+Uncalled bet ($0.04) returned to Roumox
+Roumox collected $0.05 from pot
+Roumox: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Gawrosz23 (small blind) folded before Flop
+Seat 2: asdabelle (big blind) folded before Flop
+Seat 4: Rickcanrun folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Roumox (button) collected ($0.05)
+
+
+
+PokerStars Hand #225847342965:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:10:00 PT [2021/04/14 21:10:00 ET]
+Table 'Botein III' 9-max Seat #1 is the button
+Seat 1: Gawrosz23 ($13.45 in chips) 
+Seat 2: asdabelle ($0.53 in chips) 
+Seat 4: Rickcanrun ($1.23 in chips) 
+Seat 6: yaki469 ($1.47 in chips) 
+Seat 7: podlesh60 ($0.73 in chips) 
+Seat 8: Dorex2007 ($1.80 in chips) 
+Seat 9: Roumox ($3.85 in chips) 
+asdabelle: posts small blind $0.01
+Rickcanrun: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 9d]
+yaki469: calls $0.02
+podlesh60: folds 
+Dorex2007: raises $0.10 to $0.12
+Roumox: folds 
+Gawrosz23: folds 
+asdabelle: folds 
+Rickcanrun: folds 
+yaki469: folds 
+Uncalled bet ($0.10) returned to Dorex2007
+Dorex2007 collected $0.07 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Gawrosz23 (button) folded before Flop (didn't bet)
+Seat 2: asdabelle (small blind) folded before Flop
+Seat 4: Rickcanrun (big blind) folded before Flop
+Seat 6: yaki469 folded before Flop
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 collected ($0.07)
+Seat 9: Roumox folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847352458:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:10:33 PT [2021/04/14 21:10:33 ET]
+Table 'Botein III' 9-max Seat #2 is the button
+Seat 1: Gawrosz23 ($13.45 in chips) 
+Seat 2: asdabelle ($0.52 in chips) 
+Seat 4: Rickcanrun ($1.21 in chips) 
+Seat 6: yaki469 ($1.45 in chips) 
+Seat 7: podlesh60 ($0.73 in chips) 
+Seat 8: Dorex2007 ($1.85 in chips) 
+Seat 9: Roumox ($3.85 in chips) 
+Rickcanrun: posts small blind $0.01
+yaki469: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Kh]
+podlesh60: folds 
+Dorex2007: folds 
+Roumox: folds 
+Gawrosz23: calls $0.02
+asdabelle: folds 
+Rickcanrun: calls $0.01
+yaki469: checks 
+*** FLOP *** [Qc 8d 9c]
+Rickcanrun: checks 
+yaki469: checks 
+Gawrosz23: checks 
+*** TURN *** [Qc 8d 9c] [7h]
+Rickcanrun: checks 
+yaki469: checks 
+Gawrosz23: checks 
+*** RIVER *** [Qc 8d 9c 7h] [4c]
+Rickcanrun: checks 
+yaki469: checks 
+Gawrosz23: checks 
+*** SHOW DOWN ***
+Rickcanrun: shows [3s 2d] (high card Queen)
+yaki469: shows [Ah Tc] (high card Ace)
+Gawrosz23: mucks hand 
+yaki469 collected $0.06 from pot
+Lisciotto leaves the table
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Qc 8d 9c 7h 4c]
+Seat 1: Gawrosz23 mucked [Kc 6s]
+Seat 2: asdabelle (button) folded before Flop (didn't bet)
+Seat 4: Rickcanrun (small blind) showed [3s 2d] and lost with high card Queen
+Seat 6: yaki469 (big blind) showed [Ah Tc] and won ($0.06) with high card Ace
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Roumox folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847365731:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:11:21 PT [2021/04/14 21:11:21 ET]
+Table 'Botein III' 9-max Seat #4 is the button
+Seat 1: Gawrosz23 ($13.43 in chips) 
+Seat 2: asdabelle ($0.52 in chips) 
+Seat 4: Rickcanrun ($1.19 in chips) 
+Seat 6: yaki469 ($1.49 in chips) 
+Seat 7: podlesh60 ($0.73 in chips) 
+Seat 8: Dorex2007 ($1.85 in chips) 
+Seat 9: Roumox ($3.85 in chips) 
+yaki469: posts small blind $0.01
+podlesh60: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Jd]
+Dorex2007: raises $0.04 to $0.06
+carakhapov joins the table at seat #5 
+Roumox: folds 
+Gawrosz23: folds 
+asdabelle: folds 
+Rickcanrun: calls $0.06
+yaki469: folds 
+podlesh60: folds 
+*** FLOP *** [6s 6h 9c]
+Dorex2007: checks 
+Rickcanrun: checks 
+*** TURN *** [6s 6h 9c] [Ad]
+Dorex2007: bets $0.14
+Rickcanrun: calls $0.14
+*** RIVER *** [6s 6h 9c Ad] [3c]
+Dorex2007: bets $0.21
+Rickcanrun: calls $0.21
+*** SHOW DOWN ***
+Dorex2007: shows [Td Jd] (a pair of Sixes)
+Rickcanrun: shows [Ah 8s] (two pair, Aces and Sixes)
+Rickcanrun collected $0.82 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.03 
+Board [6s 6h 9c Ad 3c]
+Seat 1: Gawrosz23 folded before Flop (didn't bet)
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 4: Rickcanrun (button) showed [Ah 8s] and won ($0.82) with two pair, Aces and Sixes
+Seat 6: yaki469 (small blind) folded before Flop
+Seat 7: podlesh60 (big blind) folded before Flop
+Seat 8: Dorex2007 showed [Td Jd] and lost with a pair of Sixes
+Seat 9: Roumox folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847382402:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:12:11 PT [2021/04/14 21:12:11 ET]
+Table 'Botein III' 9-max Seat #6 is the button
+Seat 1: Gawrosz23 ($13.43 in chips) 
+Seat 2: asdabelle ($0.52 in chips) 
+Seat 4: Rickcanrun ($1.60 in chips) 
+Seat 6: yaki469 ($1.48 in chips) 
+Seat 7: podlesh60 ($0.71 in chips) 
+Seat 8: Dorex2007 ($1.44 in chips) 
+Seat 9: Roumox ($3.85 in chips) 
+podlesh60: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+carakhapov: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 7s]
+Roumox: folds 
+Gawrosz23: calls $0.02
+asdabelle: folds 
+Rickcanrun: calls $0.02
+yaki469: calls $0.02
+podlesh60: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [Ac 3d 5h]
+podlesh60: checks 
+Dorex2007: checks 
+Gawrosz23: bets $0.02
+Rickcanrun: folds 
+yaki469: raises $0.02 to $0.04
+podlesh60: folds 
+Dorex2007: calls $0.04
+Gawrosz23: calls $0.02
+*** TURN *** [Ac 3d 5h] [6s]
+Dorex2007: checks 
+Gawrosz23: bets $0.02
+yaki469: calls $0.02
+Dorex2007: calls $0.02
+*** RIVER *** [Ac 3d 5h 6s] [Kh]
+Dorex2007: checks 
+Gawrosz23: checks 
+yaki469: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [2s 7s] (high card Ace)
+Gawrosz23: shows [3c 4c] (a pair of Threes)
+yaki469: shows [9s As] (a pair of Aces)
+yaki469 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Ac 3d 5h 6s Kh]
+Seat 1: Gawrosz23 showed [3c 4c] and lost with a pair of Threes
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 4: Rickcanrun folded on the Flop
+Seat 6: yaki469 (button) showed [9s As] and won ($0.27) with a pair of Aces
+Seat 7: podlesh60 (small blind) folded on the Flop
+Seat 8: Dorex2007 (big blind) showed [2s 7s] and lost with high card Ace
+Seat 9: Roumox folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847395765:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:12:59 PT [2021/04/14 21:12:59 ET]
+Table 'Botein III' 9-max Seat #7 is the button
+Seat 1: Gawrosz23 ($13.35 in chips) 
+Seat 2: asdabelle ($0.52 in chips) 
+Seat 4: Rickcanrun ($1.58 in chips) 
+Seat 6: yaki469 ($1.67 in chips) 
+Seat 7: podlesh60 ($0.69 in chips) 
+Seat 8: Dorex2007 ($1.36 in chips) 
+Seat 9: Roumox ($3.85 in chips) 
+Dorex2007: posts small blind $0.01
+Roumox: posts big blind $0.02
+carakhapov: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 4c]
+Gawrosz23: calls $0.02
+asdabelle: calls $0.02
+Rickcanrun: folds 
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: raises $0.50 to $0.52
+Roumox: folds 
+Gawrosz23: folds 
+asdabelle: folds 
+Uncalled bet ($0.50) returned to Dorex2007
+Dorex2007 collected $0.08 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: Gawrosz23 folded before Flop
+Seat 2: asdabelle folded before Flop
+Seat 4: Rickcanrun folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) collected ($0.08)
+Seat 9: Roumox (big blind) folded before Flop
+
+
+
+PokerStars Hand #225847406797:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:13:38 PT [2021/04/14 21:13:38 ET]
+Table 'Botein III' 9-max Seat #8 is the button
+Seat 1: Gawrosz23 ($13.33 in chips) 
+Seat 2: asdabelle ($0.50 in chips) 
+Seat 4: Rickcanrun ($1.58 in chips) 
+Seat 5: carakhapov ($1.12 in chips) 
+Seat 6: yaki469 ($1.67 in chips) 
+Seat 7: podlesh60 ($0.69 in chips) 
+Seat 8: Dorex2007 ($1.42 in chips) 
+Seat 9: Roumox ($3.83 in chips) 
+Roumox: posts small blind $0.01
+Gawrosz23: posts big blind $0.02
+carakhapov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 3d]
+asdabelle: folds 
+Rickcanrun: folds 
+carakhapov: checks 
+yaki469: calls $0.02
+podlesh60: calls $0.02
+Dorex2007: folds 
+Roumox: folds 
+Gawrosz23: raises $0.06 to $0.08
+carakhapov: folds 
+yaki469: folds 
+podlesh60: folds 
+Uncalled bet ($0.06) returned to Gawrosz23
+Gawrosz23 collected $0.09 from pot
+Gawrosz23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: Gawrosz23 (big blind) collected ($0.09)
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 4: Rickcanrun folded before Flop (didn't bet)
+Seat 5: carakhapov folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop
+Seat 7: podlesh60 folded before Flop
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: Roumox (small blind) folded before Flop
+
+
+
+PokerStars Hand #225847415458:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:14:09 PT [2021/04/14 21:14:09 ET]
+Table 'Botein III' 9-max Seat #9 is the button
+Seat 1: Gawrosz23 ($13.40 in chips) 
+Seat 2: asdabelle ($0.50 in chips) 
+Seat 4: Rickcanrun ($1.58 in chips) 
+Seat 5: carakhapov ($1.10 in chips) 
+Seat 6: yaki469 ($1.65 in chips) 
+Seat 7: podlesh60 ($0.67 in chips) 
+Seat 8: Dorex2007 ($1.42 in chips) 
+Seat 9: Roumox ($3.82 in chips) 
+Gawrosz23: posts small blind $0.01
+asdabelle: posts big blind $0.02
+stephfern53: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Ac]
+Rickcanrun: folds 
+carakhapov: folds 
+yaki469: folds 
+podlesh60: raises $0.02 to $0.04
+Dorex2007: folds 
+Roumox: folds 
+Gawrosz23: calls $0.03
+asdabelle: folds 
+*** FLOP *** [Ks 6d 6c]
+Gawrosz23: checks 
+podlesh60: checks 
+*** TURN *** [Ks 6d 6c] [5d]
+Gawrosz23: bets $0.10
+podlesh60: folds 
+Uncalled bet ($0.10) returned to Gawrosz23
+Gawrosz23 collected $0.10 from pot
+Gawrosz23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Ks 6d 6c 5d]
+Seat 1: Gawrosz23 (small blind) collected ($0.10)
+Seat 2: asdabelle (big blind) folded before Flop
+Seat 4: Rickcanrun folded before Flop (didn't bet)
+Seat 5: carakhapov folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded on the Turn
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Roumox (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847425007:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:14:43 PT [2021/04/14 21:14:43 ET]
+Table 'Botein III' 9-max Seat #1 is the button
+Seat 1: Gawrosz23 ($13.46 in chips) 
+Seat 2: asdabelle ($0.48 in chips) 
+Seat 3: stephfern53 ($1.56 in chips) 
+Seat 4: Rickcanrun ($1.58 in chips) 
+Seat 5: carakhapov ($1.10 in chips) 
+Seat 6: yaki469 ($1.65 in chips) 
+Seat 7: podlesh60 ($0.63 in chips) 
+Seat 8: Dorex2007 ($1.42 in chips) 
+Seat 9: Roumox ($3.82 in chips) 
+asdabelle: posts small blind $0.01
+stephfern53: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Js]
+Rickcanrun: folds 
+carakhapov: folds 
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+Roumox: raises $0.04 to $0.06
+Gawrosz23: folds 
+asdabelle: folds 
+stephfern53: folds 
+Uncalled bet ($0.04) returned to Roumox
+Roumox collected $0.05 from pot
+Roumox: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Gawrosz23 (button) folded before Flop (didn't bet)
+Seat 2: asdabelle (small blind) folded before Flop
+Seat 3: stephfern53 (big blind) folded before Flop
+Seat 4: Rickcanrun folded before Flop (didn't bet)
+Seat 5: carakhapov folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Roumox collected ($0.05)
+
+
+
+PokerStars Hand #225847431977:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:15:07 PT [2021/04/14 21:15:07 ET]
+Table 'Botein III' 9-max Seat #2 is the button
+Seat 1: Gawrosz23 ($13.46 in chips) 
+Seat 2: asdabelle ($0.47 in chips) 
+Seat 3: stephfern53 ($1.54 in chips) 
+Seat 4: Rickcanrun ($1.58 in chips) 
+Seat 5: carakhapov ($1.10 in chips) 
+Seat 6: yaki469 ($1.65 in chips) 
+Seat 7: podlesh60 ($0.63 in chips) 
+Seat 8: Dorex2007 ($1.42 in chips) 
+Seat 9: Roumox ($3.85 in chips) 
+stephfern53: posts small blind $0.01
+Rickcanrun: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Qs]
+carakhapov: raises $0.04 to $0.06
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+Roumox: folds 
+Gawrosz23: folds 
+asdabelle: folds 
+stephfern53: folds 
+Rickcanrun: calls $0.04
+*** FLOP *** [7h 3s Qc]
+Rickcanrun: checks 
+carakhapov: bets $0.13
+Rickcanrun: calls $0.13
+*** TURN *** [7h 3s Qc] [Kh]
+Rickcanrun: checks 
+carakhapov: bets $0.38
+Rickcanrun: calls $0.38
+*** RIVER *** [7h 3s Qc Kh] [3h]
+Rickcanrun: checks 
+carakhapov: checks 
+*** SHOW DOWN ***
+Rickcanrun: shows [As Td] (a pair of Threes)
+carakhapov: shows [Ks Ad] (two pair, Kings and Threes)
+carakhapov collected $1.11 from pot
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.04 
+Board [7h 3s Qc Kh 3h]
+Seat 1: Gawrosz23 folded before Flop (didn't bet)
+Seat 2: asdabelle (button) folded before Flop (didn't bet)
+Seat 3: stephfern53 (small blind) folded before Flop
+Seat 4: Rickcanrun (big blind) showed [As Td] and lost with a pair of Threes
+Seat 5: carakhapov showed [Ks Ad] and won ($1.11) with two pair, Kings and Threes
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Roumox folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847449965:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:16:11 PT [2021/04/14 21:16:11 ET]
+Table 'Botein III' 9-max Seat #3 is the button
+Seat 1: Gawrosz23 ($13.46 in chips) 
+Seat 2: asdabelle ($0.47 in chips) 
+Seat 3: stephfern53 ($1.53 in chips) 
+Seat 4: Rickcanrun ($1.01 in chips) 
+Seat 5: carakhapov ($1.64 in chips) 
+Seat 6: yaki469 ($1.65 in chips) 
+Seat 7: podlesh60 ($0.63 in chips) 
+Seat 8: Dorex2007 ($1.42 in chips) 
+Seat 9: Roumox ($3.85 in chips) 
+Rickcanrun: posts small blind $0.01
+carakhapov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 7d]
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+Roumox: folds 
+Gawrosz23: folds 
+asdabelle: folds 
+stephfern53: folds 
+Rickcanrun: calls $0.01
+carakhapov: checks 
+*** FLOP *** [7c Kc Qd]
+Rickcanrun: checks 
+carakhapov: checks 
+*** TURN *** [7c Kc Qd] [Ah]
+Rickcanrun: checks 
+carakhapov: checks 
+*** RIVER *** [7c Kc Qd Ah] [6d]
+Roumox leaves the table
+iwannabe29 joins the table at seat #9 
+Rickcanrun: checks 
+carakhapov: checks 
+*** SHOW DOWN ***
+Rickcanrun: shows [Td 5s] (high card Ace)
+carakhapov: mucks hand 
+Rickcanrun collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [7c Kc Qd Ah 6d]
+Seat 1: Gawrosz23 folded before Flop (didn't bet)
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 (button) folded before Flop (didn't bet)
+Seat 4: Rickcanrun (small blind) showed [Td 5s] and won ($0.04) with high card Ace
+Seat 5: carakhapov (big blind) mucked [8s 9s]
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Roumox folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847475282:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:17:11 PT [2021/04/14 21:17:11 ET]
+Table 'Botein III' 9-max Seat #4 is the button
+Seat 1: Gawrosz23 ($13.46 in chips) 
+Seat 2: asdabelle ($0.47 in chips) 
+Seat 3: stephfern53 ($1.53 in chips) 
+Seat 4: Rickcanrun ($1.03 in chips) 
+Seat 5: carakhapov ($1.62 in chips) 
+Seat 6: yaki469 ($1.65 in chips) 
+Seat 7: podlesh60 ($0.63 in chips) 
+Seat 8: Dorex2007 ($1.42 in chips) 
+Seat 9: iwannabe29 ($1.60 in chips) 
+carakhapov: posts small blind $0.01
+yaki469: posts big blind $0.02
+iwannabe29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 3d]
+podlesh60: folds 
+Dorex2007: folds 
+iwannabe29: checks 
+Gawrosz23: folds 
+asdabelle: folds 
+stephfern53: folds 
+Rickcanrun: folds 
+carakhapov: calls $0.01
+yaki469: checks 
+*** FLOP *** [4h 9s Ac]
+carakhapov: checks 
+yaki469: checks 
+iwannabe29: checks 
+*** TURN *** [4h 9s Ac] [5d]
+carakhapov: bets $0.06
+yaki469: folds 
+iwannabe29: folds 
+Uncalled bet ($0.06) returned to carakhapov
+carakhapov collected $0.06 from pot
+carakhapov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [4h 9s Ac 5d]
+Seat 1: Gawrosz23 folded before Flop (didn't bet)
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 4: Rickcanrun (button) folded before Flop (didn't bet)
+Seat 5: carakhapov (small blind) collected ($0.06)
+Seat 6: yaki469 (big blind) folded on the Turn
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 folded on the Turn (didn't bet)
+
+
+
+PokerStars Hand #225847489827:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:18:03 PT [2021/04/14 21:18:03 ET]
+Table 'Botein III' 9-max Seat #5 is the button
+Seat 1: Gawrosz23 ($13.46 in chips) 
+Seat 2: asdabelle ($0.47 in chips) 
+Seat 3: stephfern53 ($1.53 in chips) 
+Seat 4: Rickcanrun ($1.03 in chips) 
+Seat 5: carakhapov ($1.66 in chips) 
+Seat 6: yaki469 ($1.63 in chips) 
+Seat 7: podlesh60 ($0.63 in chips) 
+Seat 8: Dorex2007 ($1.42 in chips) 
+Seat 9: iwannabe29 ($1.58 in chips) 
+yaki469: posts small blind $0.01
+podlesh60: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Kc]
+Dorex2007: folds 
+iwannabe29: folds 
+Gawrosz23: folds 
+asdabelle: folds 
+stephfern53: folds 
+Rickcanrun: calls $0.02
+carakhapov: folds 
+yaki469: folds 
+podlesh60: checks 
+*** FLOP *** [Kh Qs 2d]
+podlesh60: checks 
+Rickcanrun: checks 
+*** TURN *** [Kh Qs 2d] [Ts]
+podlesh60: checks 
+Rickcanrun: checks 
+*** RIVER *** [Kh Qs 2d Ts] [5c]
+podlesh60: checks 
+Rickcanrun: checks 
+*** SHOW DOWN ***
+podlesh60: shows [As 9h] (high card Ace)
+Rickcanrun: shows [6c 6d] (a pair of Sixes)
+Rickcanrun collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kh Qs 2d Ts 5c]
+Seat 1: Gawrosz23 folded before Flop (didn't bet)
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 4: Rickcanrun showed [6c 6d] and won ($0.05) with a pair of Sixes
+Seat 5: carakhapov (button) folded before Flop (didn't bet)
+Seat 6: yaki469 (small blind) folded before Flop
+Seat 7: podlesh60 (big blind) showed [As 9h] and lost with high card Ace
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847501724:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:18:46 PT [2021/04/14 21:18:46 ET]
+Table 'Botein III' 9-max Seat #6 is the button
+Seat 1: Gawrosz23 ($13.46 in chips) 
+Seat 2: asdabelle ($0.47 in chips) 
+Seat 3: stephfern53 ($1.53 in chips) 
+Seat 4: Rickcanrun ($1.06 in chips) 
+Seat 5: carakhapov ($1.66 in chips) 
+Seat 6: yaki469 ($1.62 in chips) 
+Seat 7: podlesh60 ($0.61 in chips) 
+Seat 8: Dorex2007 ($1.42 in chips) 
+Seat 9: iwannabe29 ($1.58 in chips) 
+podlesh60: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Qc]
+iwannabe29: folds 
+Gawrosz23: calls $0.02
+asdabelle has timed out
+asdabelle: folds 
+stephfern53: folds 
+Rickcanrun: calls $0.02
+carakhapov: calls $0.02
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: checks 
+*** FLOP *** [Kd 2d Jh]
+Dorex2007: checks 
+Gawrosz23: bets $0.02
+Rickcanrun: calls $0.02
+carakhapov: calls $0.02
+Dorex2007: folds 
+*** TURN *** [Kd 2d Jh] [Kh]
+Gawrosz23: bets $0.02
+Rickcanrun: calls $0.02
+carakhapov: calls $0.02
+*** RIVER *** [Kd 2d Jh Kh] [9c]
+Gawrosz23: bets $0.02
+Rickcanrun: calls $0.02
+carakhapov: raises $0.12 to $0.14
+Gawrosz23: folds 
+Rickcanrun: folds 
+Uncalled bet ($0.12) returned to carakhapov
+carakhapov collected $0.26 from pot
+carakhapov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Kd 2d Jh Kh 9c]
+Seat 1: Gawrosz23 folded on the River
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 4: Rickcanrun folded on the River
+Seat 5: carakhapov collected ($0.26)
+Seat 6: yaki469 (button) folded before Flop (didn't bet)
+Seat 7: podlesh60 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded on the Flop
+Seat 9: iwannabe29 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847527236:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:19:59 PT [2021/04/14 21:19:59 ET]
+Table 'Botein III' 9-max Seat #7 is the button
+Seat 1: Gawrosz23 ($13.38 in chips) 
+Seat 2: asdabelle ($0.47 in chips) 
+Seat 3: stephfern53 ($1.53 in chips) 
+Seat 4: Rickcanrun ($0.98 in chips) 
+Seat 5: carakhapov ($1.84 in chips) 
+Seat 6: yaki469 ($1.62 in chips) 
+Seat 7: podlesh60 ($0.60 in chips) 
+Seat 8: Dorex2007 ($1.40 in chips) 
+Seat 9: iwannabe29 ($1.58 in chips) 
+Dorex2007: posts small blind $0.01
+iwannabe29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Qs]
+Gawrosz23: raises $0.02 to $0.04
+asdabelle: calls $0.04
+stephfern53: calls $0.04
+Rickcanrun: calls $0.04
+carakhapov: folds 
+yaki469: folds 
+podlesh60: calls $0.04
+Dorex2007: folds 
+iwannabe29: calls $0.02
+*** FLOP *** [As 8h Ks]
+iwannabe29: checks 
+Gawrosz23: checks 
+asdabelle: checks 
+stephfern53: checks 
+Rickcanrun: checks 
+podlesh60: bets $0.56 and is all-in
+iwannabe29: folds 
+Gawrosz23: folds 
+asdabelle: folds 
+stephfern53: folds 
+Rickcanrun: folds 
+Uncalled bet ($0.56) returned to podlesh60
+podlesh60 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [As 8h Ks]
+Seat 1: Gawrosz23 folded on the Flop
+Seat 2: asdabelle folded on the Flop
+Seat 3: stephfern53 folded on the Flop
+Seat 4: Rickcanrun folded on the Flop
+Seat 5: carakhapov folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 (button) collected ($0.24)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: iwannabe29 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #225847542506:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:20:53 PT [2021/04/14 21:20:53 ET]
+Table 'Botein III' 9-max Seat #8 is the button
+Seat 1: Gawrosz23 ($13.34 in chips) 
+Seat 2: asdabelle ($0.43 in chips) 
+Seat 3: stephfern53 ($1.49 in chips) 
+Seat 4: Rickcanrun ($0.94 in chips) 
+Seat 5: carakhapov ($1.84 in chips) 
+Seat 6: yaki469 ($1.62 in chips) 
+Seat 7: podlesh60 ($0.80 in chips) 
+Seat 8: Dorex2007 ($1.39 in chips) 
+Seat 9: iwannabe29 ($1.54 in chips) 
+iwannabe29: posts small blind $0.01
+Gawrosz23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 3c]
+asdabelle: folds 
+stephfern53: folds 
+Rickcanrun: folds 
+carakhapov: folds 
+yaki469: folds 
+podlesh60: calls $0.02
+Dorex2007: folds 
+iwannabe29: calls $0.01
+Gawrosz23: checks 
+*** FLOP *** [2d Qs Qh]
+iwannabe29: checks 
+Gawrosz23: checks 
+podlesh60: bets $0.02
+iwannabe29: folds 
+Gawrosz23: folds 
+Uncalled bet ($0.02) returned to podlesh60
+podlesh60 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [2d Qs Qh]
+Seat 1: Gawrosz23 (big blind) folded on the Flop
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 4: Rickcanrun folded before Flop (didn't bet)
+Seat 5: carakhapov folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 collected ($0.06)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: iwannabe29 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #225847552413:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:21:29 PT [2021/04/14 21:21:29 ET]
+Table 'Botein III' 9-max Seat #9 is the button
+Seat 1: Gawrosz23 ($13.32 in chips) 
+Seat 2: asdabelle ($0.43 in chips) 
+Seat 3: stephfern53 ($1.49 in chips) 
+Seat 4: Rickcanrun ($0.94 in chips) 
+Seat 5: carakhapov ($1.84 in chips) 
+Seat 6: yaki469 ($1.62 in chips) 
+Seat 7: podlesh60 ($0.84 in chips) 
+Seat 8: Dorex2007 ($1.39 in chips) 
+Seat 9: iwannabe29 ($1.52 in chips) 
+Gawrosz23: posts small blind $0.01
+asdabelle: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d Td]
+stephfern53: folds 
+Rickcanrun: calls $0.02
+carakhapov: folds 
+yaki469: calls $0.02
+podlesh60: calls $0.02
+Dorex2007: raises $0.04 to $0.06
+iwannabe29: calls $0.06
+Gawrosz23: calls $0.05
+asdabelle: folds 
+Rickcanrun: calls $0.04
+yaki469: calls $0.04
+podlesh60: raises $0.78 to $0.84 and is all-in
+Dorex2007: folds 
+iwannabe29: calls $0.78
+Gawrosz23: folds 
+Rickcanrun: raises $0.10 to $0.94 and is all-in
+yaki469: folds 
+iwannabe29: calls $0.10
+*** FLOP *** [9d Js 7c]
+*** TURN *** [9d Js 7c] [Kh]
+*** RIVER *** [9d Js 7c Kh] [7d]
+*** SHOW DOWN ***
+Rickcanrun: shows [5s 5h] (two pair, Sevens and Fives)
+iwannabe29: shows [Ac Ks] (two pair, Kings and Sevens)
+iwannabe29 collected $0.20 from side pot
+podlesh60: shows [Ad Kc] (two pair, Kings and Sevens)
+podlesh60 collected $1.31 from main pot
+iwannabe29 collected $1.31 from main pot
+Rickcanrun cashed out the hand for $1.77 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $2.92 Main pot $2.62. Side pot $0.20. | Rake $0.10 
+Board [9d Js 7c Kh 7d]
+Seat 1: Gawrosz23 (small blind) folded before Flop
+Seat 2: asdabelle (big blind) folded before Flop
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 4: Rickcanrun showed [5s 5h] and lost with two pair, Sevens and Fives (cashed out).
+Seat 5: carakhapov folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop
+Seat 7: podlesh60 showed [Ad Kc] and won ($1.31) with two pair, Kings and Sevens
+Seat 8: Dorex2007 folded before Flop
+Seat 9: iwannabe29 (button) showed [Ac Ks] and won ($1.51) with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #225847571219:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:22:36 PT [2021/04/14 21:22:36 ET]
+Table 'Botein III' 9-max Seat #1 is the button
+Seat 1: Gawrosz23 ($13.26 in chips) 
+Seat 2: asdabelle ($0.41 in chips) 
+Seat 3: stephfern53 ($1.49 in chips) 
+Seat 4: Rickcanrun ($1.77 in chips) 
+Seat 5: carakhapov ($1.84 in chips) 
+Seat 6: yaki469 ($1.56 in chips) 
+Seat 7: podlesh60 ($1.31 in chips) 
+Seat 8: Dorex2007 ($1.33 in chips) 
+Seat 9: iwannabe29 ($2.09 in chips) 
+asdabelle: posts small blind $0.01
+stephfern53: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 5s]
+Rickcanrun: calls $0.02
+carakhapov: folds 
+yaki469: folds 
+podlesh60: calls $0.02
+Dorex2007: folds 
+iwannabe29: folds 
+Gawrosz23: calls $0.02
+asdabelle: folds 
+stephfern53: checks 
+*** FLOP *** [5d 9c Qd]
+stephfern53: checks 
+Rickcanrun: checks 
+podlesh60: bets $0.16
+Gawrosz23: folds 
+stephfern53: folds 
+Rickcanrun: folds 
+Uncalled bet ($0.16) returned to podlesh60
+podlesh60 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [5d 9c Qd]
+Seat 1: Gawrosz23 (button) folded on the Flop
+Seat 2: asdabelle (small blind) folded before Flop
+Seat 3: stephfern53 (big blind) folded on the Flop
+Seat 4: Rickcanrun folded on the Flop
+Seat 5: carakhapov folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 collected ($0.09)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847587804:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:23:36 PT [2021/04/14 21:23:36 ET]
+Table 'Botein III' 9-max Seat #3 is the button
+Seat 1: Gawrosz23 ($13.24 in chips) 
+Seat 2: asdabelle ($0.40 in chips) 
+Seat 3: stephfern53 ($1.46 in chips) 
+Seat 4: Rickcanrun ($1.76 in chips) 
+Seat 5: carakhapov ($1.84 in chips) 
+Seat 6: yaki469 ($1.56 in chips) 
+Seat 7: podlesh60 ($1.38 in chips) 
+Seat 8: Dorex2007 ($1.33 in chips) 
+Seat 9: iwannabe29 ($2.09 in chips) 
+Rickcanrun: posts small blind $0.01
+carakhapov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 4h]
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+iwannabe29: folds 
+Gawrosz23: folds 
+asdabelle: folds 
+stephfern53: folds 
+Rickcanrun: calls $0.01
+carakhapov: checks 
+*** FLOP *** [5s Jd 5c]
+Rickcanrun: checks 
+carakhapov: checks 
+*** TURN *** [5s Jd 5c] [Qc]
+Rickcanrun: checks 
+carakhapov: bets $0.02
+Rickcanrun: folds 
+Uncalled bet ($0.02) returned to carakhapov
+carakhapov collected $0.04 from pot
+carakhapov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [5s Jd 5c Qc]
+Seat 1: Gawrosz23 folded before Flop (didn't bet)
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 (button) folded before Flop (didn't bet)
+Seat 4: Rickcanrun (small blind) folded on the Turn
+Seat 5: carakhapov (big blind) collected ($0.04)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847597643:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:24:11 PT [2021/04/14 21:24:11 ET]
+Table 'Botein III' 9-max Seat #4 is the button
+Seat 1: Gawrosz23 ($13.24 in chips) 
+Seat 2: asdabelle ($0.40 in chips) 
+Seat 3: stephfern53 ($1.46 in chips) 
+Seat 4: Rickcanrun ($1.74 in chips) 
+Seat 5: carakhapov ($1.86 in chips) 
+Seat 6: yaki469 ($1.56 in chips) 
+Seat 7: podlesh60 ($1.38 in chips) 
+Seat 8: Dorex2007 ($1.33 in chips) 
+Seat 9: iwannabe29 ($2.09 in chips) 
+carakhapov: posts small blind $0.01
+yaki469: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Qc]
+podlesh60: raises $0.02 to $0.04
+Dorex2007: folds 
+iwannabe29: calls $0.04
+Gawrosz23: folds 
+asdabelle: calls $0.04
+stephfern53: folds 
+Rickcanrun: folds 
+carakhapov: calls $0.03
+yaki469: folds 
+*** FLOP *** [8h 5s 3h]
+carakhapov: checks 
+podlesh60: checks 
+iwannabe29: bets $0.06
+asdabelle: folds 
+carakhapov: folds 
+podlesh60: folds 
+Uncalled bet ($0.06) returned to iwannabe29
+iwannabe29 collected $0.17 from pot
+iwannabe29: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [8h 5s 3h]
+Seat 1: Gawrosz23 folded before Flop (didn't bet)
+Seat 2: asdabelle folded on the Flop
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 4: Rickcanrun (button) folded before Flop (didn't bet)
+Seat 5: carakhapov (small blind) folded on the Flop
+Seat 6: yaki469 (big blind) folded before Flop
+Seat 7: podlesh60 folded on the Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 collected ($0.17)
+
+
+
+PokerStars Hand #225847609868:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:24:56 PT [2021/04/14 21:24:56 ET]
+Table 'Botein III' 9-max Seat #5 is the button
+Seat 1: Gawrosz23 ($13.24 in chips) 
+Seat 2: asdabelle ($0.36 in chips) 
+Seat 3: stephfern53 ($1.46 in chips) 
+Seat 4: Rickcanrun ($1.74 in chips) 
+Seat 5: carakhapov ($1.82 in chips) 
+Seat 6: yaki469 ($1.54 in chips) 
+Seat 7: podlesh60 ($1.34 in chips) 
+Seat 8: Dorex2007 ($1.33 in chips) 
+Seat 9: iwannabe29 ($2.22 in chips) 
+yaki469: posts small blind $0.01
+podlesh60: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 9d]
+Dorex2007: folds 
+iwannabe29: calls $0.02
+Gawrosz23: folds 
+asdabelle: calls $0.02
+stephfern53: folds 
+Rickcanrun: calls $0.02
+carakhapov: folds 
+yaki469: folds 
+podlesh60: checks 
+*** FLOP *** [Kh 6h 3h]
+podlesh60: checks 
+iwannabe29: bets $0.09
+asdabelle: calls $0.09
+Rickcanrun: calls $0.09
+podlesh60: folds 
+*** TURN *** [Kh 6h 3h] [7c]
+iwannabe29: bets $0.18
+asdabelle: raises $0.07 to $0.25 and is all-in
+Rickcanrun: folds 
+iwannabe29: calls $0.07
+*** RIVER *** [Kh 6h 3h 7c] [5h]
+*** SHOW DOWN ***
+iwannabe29: shows [Jh 7h] (a flush, King high)
+asdabelle: shows [3c 3d] (three of a kind, Threes)
+iwannabe29 collected $0.83 from pot
+*** SUMMARY ***
+Total pot $0.86 | Rake $0.03 
+Board [Kh 6h 3h 7c 5h]
+Seat 1: Gawrosz23 folded before Flop (didn't bet)
+Seat 2: asdabelle showed [3c 3d] and lost with three of a kind, Threes
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 4: Rickcanrun folded on the Turn
+Seat 5: carakhapov (button) folded before Flop (didn't bet)
+Seat 6: yaki469 (small blind) folded before Flop
+Seat 7: podlesh60 (big blind) folded on the Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 showed [Jh 7h] and won ($0.83) with a flush, King high
+
+
+
+PokerStars Hand #225847626892:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:25:57 PT [2021/04/14 21:25:57 ET]
+Table 'Botein III' 9-max Seat #6 is the button
+Seat 1: Gawrosz23 ($13.24 in chips) 
+Seat 3: stephfern53 ($1.46 in chips) 
+Seat 4: Rickcanrun ($1.63 in chips) 
+Seat 5: carakhapov ($1.82 in chips) 
+Seat 6: yaki469 ($1.53 in chips) 
+Seat 7: podlesh60 ($1.32 in chips) 
+Seat 8: Dorex2007 ($1.33 in chips) 
+Seat 9: iwannabe29 ($2.69 in chips) 
+podlesh60: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 6h]
+iwannabe29: calls $0.02
+Gawrosz23: calls $0.02
+stephfern53: folds 
+Rickcanrun: folds 
+carakhapov: calls $0.02
+yaki469: calls $0.02
+podlesh60: folds 
+Dorex2007: checks 
+*** FLOP *** [Qs 2s 8s]
+Dorex2007: checks 
+iwannabe29: bets $0.06
+Gawrosz23: folds 
+carakhapov: folds 
+yaki469: folds 
+Dorex2007: folds 
+Uncalled bet ($0.06) returned to iwannabe29
+iwannabe29 collected $0.11 from pot
+iwannabe29: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Qs 2s 8s]
+Seat 1: Gawrosz23 folded on the Flop
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 4: Rickcanrun folded before Flop (didn't bet)
+Seat 5: carakhapov folded on the Flop
+Seat 6: yaki469 (button) folded on the Flop
+Seat 7: podlesh60 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded on the Flop
+Seat 9: iwannabe29 collected ($0.11)
+
+
+
+PokerStars Hand #225847639513:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:26:43 PT [2021/04/14 21:26:43 ET]
+Table 'Botein III' 9-max Seat #7 is the button
+Seat 1: Gawrosz23 ($13.22 in chips) 
+Seat 2: asdabelle ($0.80 in chips) 
+Seat 3: stephfern53 ($1.46 in chips) 
+Seat 4: Rickcanrun ($1.63 in chips) 
+Seat 5: carakhapov ($1.80 in chips) 
+Seat 6: yaki469 ($1.51 in chips) 
+Seat 7: podlesh60 ($1.31 in chips) 
+Seat 8: Dorex2007 ($1.98 in chips) 
+Seat 9: iwannabe29 ($2.78 in chips) 
+Dorex2007: posts small blind $0.01
+iwannabe29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 8s]
+Gawrosz23: calls $0.02
+asdabelle: folds 
+stephfern53: calls $0.02
+Rickcanrun: folds 
+carakhapov: folds 
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: calls $0.01
+iwannabe29: checks 
+*** FLOP *** [Qd Ad 3c]
+Dorex2007: checks 
+iwannabe29: bets $0.02
+Gawrosz23: folds 
+stephfern53: raises $0.02 to $0.04
+Dorex2007: folds 
+iwannabe29: calls $0.02
+*** TURN *** [Qd Ad 3c] [9c]
+iwannabe29: checks 
+stephfern53: bets $0.10
+iwannabe29: folds 
+Uncalled bet ($0.10) returned to stephfern53
+stephfern53 collected $0.15 from pot
+stephfern53: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Qd Ad 3c 9c]
+Seat 1: Gawrosz23 folded on the Flop
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 collected ($0.15)
+Seat 4: Rickcanrun folded before Flop (didn't bet)
+Seat 5: carakhapov folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded on the Flop
+Seat 9: iwannabe29 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #225847650481:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:27:23 PT [2021/04/14 21:27:23 ET]
+Table 'Botein III' 9-max Seat #8 is the button
+Seat 1: Gawrosz23 ($13.20 in chips) 
+Seat 2: asdabelle ($0.80 in chips) 
+Seat 3: stephfern53 ($1.55 in chips) 
+Seat 4: Rickcanrun ($1.63 in chips) 
+Seat 5: carakhapov ($1.80 in chips) 
+Seat 6: yaki469 ($1.51 in chips) 
+Seat 7: podlesh60 ($1.31 in chips) 
+Seat 8: Dorex2007 ($1.96 in chips) 
+Seat 9: iwannabe29 ($2.72 in chips) 
+iwannabe29: posts small blind $0.01
+Gawrosz23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c Tc]
+asdabelle: folds 
+stephfern53: folds 
+Rickcanrun: calls $0.02
+carakhapov: folds 
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+iwannabe29: calls $0.01
+Gawrosz23: checks 
+*** FLOP *** [4c 6d 3c]
+iwannabe29: checks 
+Gawrosz23: checks 
+Rickcanrun: checks 
+*** TURN *** [4c 6d 3c] [Kc]
+iwannabe29: bets $0.02
+Gawrosz23: raises $0.02 to $0.04
+Rickcanrun: calls $0.04
+iwannabe29: folds 
+*** RIVER *** [4c 6d 3c Kc] [Jh]
+Gawrosz23: checks 
+Rickcanrun: bets $0.15
+Gawrosz23: folds 
+Uncalled bet ($0.15) returned to Rickcanrun
+Rickcanrun collected $0.15 from pot
+Rickcanrun: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [4c 6d 3c Kc Jh]
+Seat 1: Gawrosz23 (big blind) folded on the River
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 4: Rickcanrun collected ($0.15)
+Seat 5: carakhapov folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: iwannabe29 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #225847664145:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:28:14 PT [2021/04/14 21:28:14 ET]
+Table 'Botein III' 9-max Seat #9 is the button
+Seat 1: Gawrosz23 ($13.14 in chips) 
+Seat 2: asdabelle ($0.80 in chips) 
+Seat 3: stephfern53 ($1.55 in chips) 
+Seat 4: Rickcanrun ($1.72 in chips) 
+Seat 5: carakhapov ($1.80 in chips) 
+Seat 6: yaki469 ($1.51 in chips) 
+Seat 7: podlesh60 ($1.31 in chips) 
+Seat 8: Dorex2007 ($1.96 in chips) 
+Seat 9: iwannabe29 ($2.68 in chips) 
+Gawrosz23: posts small blind $0.01
+asdabelle: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 5s]
+stephfern53: folds 
+Rickcanrun: folds 
+carakhapov: raises $0.02 to $0.04
+yaki469: calls $0.04
+podlesh60: folds 
+Dorex2007: folds 
+iwannabe29: folds 
+Gawrosz23: calls $0.03
+asdabelle: calls $0.02
+*** FLOP *** [As Qd Tc]
+Gawrosz23: bets $0.07
+asdabelle: folds 
+carakhapov: folds 
+yaki469: calls $0.07
+*** TURN *** [As Qd Tc] [Kd]
+Gawrosz23: bets $0.29
+yaki469: raises $1.11 to $1.40 and is all-in
+Gawrosz23: calls $1.11
+*** RIVER *** [As Qd Tc Kd] [4d]
+*** SHOW DOWN ***
+Gawrosz23: shows [Qc Jh] (a straight, Ten to Ace)
+yaki469: shows [Js Ts] (a straight, Ten to Ace)
+Gawrosz23 collected $1.50 from pot
+yaki469 collected $1.49 from pot
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.11 
+Board [As Qd Tc Kd 4d]
+Seat 1: Gawrosz23 (small blind) showed [Qc Jh] and won ($1.50) with a straight, Ten to Ace
+Seat 2: asdabelle (big blind) folded on the Flop
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 4: Rickcanrun folded before Flop (didn't bet)
+Seat 5: carakhapov folded on the Flop
+Seat 6: yaki469 showed [Js Ts] and won ($1.49) with a straight, Ten to Ace
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847676905:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:29:01 PT [2021/04/14 21:29:01 ET]
+Table 'Botein III' 9-max Seat #1 is the button
+Seat 1: Gawrosz23 ($13.13 in chips) 
+Seat 2: asdabelle ($0.76 in chips) 
+Seat 3: stephfern53 ($1.55 in chips) 
+Seat 4: Rickcanrun ($1.72 in chips) 
+Seat 5: carakhapov ($1.76 in chips) 
+Seat 6: yaki469 ($1.49 in chips) 
+Seat 7: podlesh60 ($1.31 in chips) 
+Seat 8: Dorex2007 ($1.96 in chips) 
+Seat 9: iwannabe29 ($2.68 in chips) 
+asdabelle: posts small blind $0.01
+stephfern53: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Ks]
+Rickcanrun: folds 
+carakhapov: folds 
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+iwannabe29: raises $0.04 to $0.06
+Gawrosz23: folds 
+asdabelle: folds 
+stephfern53: calls $0.04
+*** FLOP *** [As 5d 6h]
+stephfern53: checks 
+iwannabe29: bets $0.07
+stephfern53: folds 
+Uncalled bet ($0.07) returned to iwannabe29
+iwannabe29 collected $0.13 from pot
+iwannabe29: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [As 5d 6h]
+Seat 1: Gawrosz23 (button) folded before Flop (didn't bet)
+Seat 2: asdabelle (small blind) folded before Flop
+Seat 3: stephfern53 (big blind) folded on the Flop
+Seat 4: Rickcanrun folded before Flop (didn't bet)
+Seat 5: carakhapov folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 collected ($0.13)
+
+
+
+PokerStars Hand #225847691235:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:29:32 PT [2021/04/14 21:29:32 ET]
+Table 'Botein III' 9-max Seat #2 is the button
+Seat 1: Gawrosz23 ($13.13 in chips) 
+Seat 2: asdabelle ($0.75 in chips) 
+Seat 3: stephfern53 ($1.49 in chips) 
+Seat 5: carakhapov ($1.76 in chips) 
+Seat 6: yaki469 ($1.49 in chips) 
+Seat 7: podlesh60 ($1.31 in chips) 
+Seat 8: Dorex2007 ($1.96 in chips) 
+Seat 9: iwannabe29 ($2.75 in chips) 
+stephfern53: posts small blind $0.01
+carakhapov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 3c]
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+iwannabe29: calls $0.02
+Gawrosz23: calls $0.02
+asdabelle: folds 
+stephfern53: folds 
+carakhapov: checks 
+*** FLOP *** [6s 8h Qs]
+carakhapov: checks 
+iwannabe29: bets $0.02
+Gawrosz23: folds 
+carakhapov: calls $0.02
+*** TURN *** [6s 8h Qs] [3s]
+carakhapov: checks 
+iwannabe29: bets $0.06
+carakhapov: folds 
+Uncalled bet ($0.06) returned to iwannabe29
+iwannabe29 collected $0.11 from pot
+iwannabe29: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [6s 8h Qs 3s]
+Seat 1: Gawrosz23 folded on the Flop
+Seat 2: asdabelle (button) folded before Flop (didn't bet)
+Seat 3: stephfern53 (small blind) folded before Flop
+Seat 5: carakhapov (big blind) folded on the Turn
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 collected ($0.11)
+
+
+
+PokerStars Hand #225847703730:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:30:18 PT [2021/04/14 21:30:18 ET]
+Table 'Botein III' 9-max Seat #3 is the button
+Seat 1: Gawrosz23 ($13.11 in chips) 
+Seat 2: asdabelle ($0.75 in chips) 
+Seat 3: stephfern53 ($1.48 in chips) 
+Seat 5: carakhapov ($1.72 in chips) 
+Seat 6: yaki469 ($1.49 in chips) 
+Seat 7: podlesh60 ($1.31 in chips) 
+Seat 8: Dorex2007 ($1.96 in chips) 
+Seat 9: iwannabe29 ($2.82 in chips) 
+carakhapov: posts small blind $0.01
+yaki469: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Ts]
+podlesh60: folds 
+Dorex2007: folds 
+iwannabe29: folds 
+Gawrosz23: folds 
+asdabelle: calls $0.02
+stephfern53: calls $0.02
+carakhapov: calls $0.01
+yaki469: checks 
+*** FLOP *** [2c 7d Jh]
+carakhapov: checks 
+yaki469: checks 
+asdabelle: bets $0.06
+stephfern53: calls $0.06
+carakhapov: folds 
+yaki469: folds 
+*** TURN *** [2c 7d Jh] [Qc]
+asdabelle: checks 
+stephfern53: checks 
+*** RIVER *** [2c 7d Jh Qc] [Ks]
+asdabelle: checks 
+stephfern53: checks 
+*** SHOW DOWN ***
+asdabelle: shows [8h 8c] (a pair of Eights)
+stephfern53: shows [9h 9c] (a pair of Nines)
+stephfern53 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2c 7d Jh Qc Ks]
+Seat 1: Gawrosz23 folded before Flop (didn't bet)
+Seat 2: asdabelle showed [8h 8c] and lost with a pair of Eights
+Seat 3: stephfern53 (button) showed [9h 9c] and won ($0.19) with a pair of Nines
+Seat 5: carakhapov (small blind) folded on the Flop
+Seat 6: yaki469 (big blind) folded on the Flop
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847721227:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:31:23 PT [2021/04/14 21:31:23 ET]
+Table 'Botein III' 9-max Seat #5 is the button
+Seat 1: Gawrosz23 ($13.11 in chips) 
+Seat 2: asdabelle ($0.67 in chips) 
+Seat 3: stephfern53 ($1.59 in chips) 
+Seat 5: carakhapov ($1.70 in chips) 
+Seat 6: yaki469 ($1.47 in chips) 
+Seat 7: podlesh60 ($1.31 in chips) 
+Seat 8: Dorex2007 ($1.96 in chips) 
+Seat 9: iwannabe29 ($2.82 in chips) 
+yaki469: posts small blind $0.01
+podlesh60: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 8h]
+Dorex2007: folds 
+iwannabe29: folds 
+Gawrosz23: calls $0.02
+asdabelle: folds 
+stephfern53: folds 
+carakhapov: folds 
+yaki469: folds 
+podlesh60: checks 
+*** FLOP *** [Jd Kc 2h]
+podlesh60: checks 
+Gawrosz23: checks 
+*** TURN *** [Jd Kc 2h] [Js]
+podlesh60: checks 
+Gawrosz23: checks 
+*** RIVER *** [Jd Kc 2h Js] [4s]
+podlesh60: checks 
+Gawrosz23: checks 
+*** SHOW DOWN ***
+podlesh60: shows [4h Qh] (two pair, Jacks and Fours)
+Gawrosz23: mucks hand 
+podlesh60 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jd Kc 2h Js 4s]
+Seat 1: Gawrosz23 mucked [Th 5h]
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 5: carakhapov (button) folded before Flop (didn't bet)
+Seat 6: yaki469 (small blind) folded before Flop
+Seat 7: podlesh60 (big blind) showed [4h Qh] and won ($0.05) with two pair, Jacks and Fours
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847730910:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:31:58 PT [2021/04/14 21:31:58 ET]
+Table 'Botein III' 9-max Seat #6 is the button
+Seat 1: Gawrosz23 ($13.09 in chips) 
+Seat 2: asdabelle ($0.67 in chips) 
+Seat 3: stephfern53 ($1.59 in chips) 
+Seat 5: carakhapov ($1.70 in chips) 
+Seat 6: yaki469 ($1.46 in chips) 
+Seat 7: podlesh60 ($1.34 in chips) 
+Seat 8: Dorex2007 ($1.96 in chips) 
+Seat 9: iwannabe29 ($2.82 in chips) 
+podlesh60: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 4h]
+iwannabe29: raises $0.04 to $0.06
+Gawrosz23: calls $0.06
+asdabelle: folds 
+stephfern53: calls $0.06
+carakhapov: folds 
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+*** FLOP *** [9d 7h 6s]
+iwannabe29: bets $0.10
+Gawrosz23: raises $12.93 to $13.03 and is all-in
+stephfern53: folds 
+iwannabe29: folds 
+Uncalled bet ($12.93) returned to Gawrosz23
+Gawrosz23 collected $0.40 from pot
+Gawrosz23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [9d 7h 6s]
+Seat 1: Gawrosz23 collected ($0.40)
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 folded on the Flop
+Seat 5: carakhapov folded before Flop (didn't bet)
+Seat 6: yaki469 (button) folded before Flop (didn't bet)
+Seat 7: podlesh60 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: iwannabe29 folded on the Flop
+
+
+
+PokerStars Hand #225847752122:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:33:04 PT [2021/04/14 21:33:04 ET]
+Table 'Botein III' 9-max Seat #7 is the button
+Seat 1: Gawrosz23 ($13.33 in chips) 
+Seat 2: asdabelle ($0.67 in chips) 
+Seat 3: stephfern53 ($1.53 in chips) 
+Seat 5: carakhapov ($1.70 in chips) 
+Seat 6: yaki469 ($1.46 in chips) 
+Seat 7: podlesh60 ($1.33 in chips) 
+Seat 8: Dorex2007 ($1.94 in chips) 
+Seat 9: iwannabe29 ($2.66 in chips) 
+Dorex2007: posts small blind $0.01
+iwannabe29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 5d]
+Gawrosz23: calls $0.02
+asdabelle: folds 
+stephfern53: folds 
+carakhapov: folds 
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+iwannabe29: checks 
+*** FLOP *** [Kh 8c 9s]
+iwannabe29: checks 
+Gawrosz23: checks 
+*** TURN *** [Kh 8c 9s] [3s]
+iwannabe29: bets $0.02
+Gawrosz23: folds 
+Uncalled bet ($0.02) returned to iwannabe29
+iwannabe29 collected $0.05 from pot
+iwannabe29: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kh 8c 9s 3s]
+Seat 1: Gawrosz23 folded on the Turn
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 5: carakhapov folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: iwannabe29 (big blind) collected ($0.05)
+
+
+
+PokerStars Hand #225847759460:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:33:31 PT [2021/04/14 21:33:31 ET]
+Table 'Botein III' 9-max Seat #8 is the button
+Seat 1: Gawrosz23 ($13.31 in chips) 
+Seat 2: asdabelle ($0.67 in chips) 
+Seat 3: stephfern53 ($1.53 in chips) 
+Seat 5: carakhapov ($1.70 in chips) 
+Seat 6: yaki469 ($1.46 in chips) 
+Seat 7: podlesh60 ($1.33 in chips) 
+Seat 8: Dorex2007 ($1.93 in chips) 
+Seat 9: iwannabe29 ($2.69 in chips) 
+iwannabe29: posts small blind $0.01
+Gawrosz23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 4s]
+asdabelle: folds 
+stephfern53: folds 
+carakhapov: raises $0.02 to $0.04
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: calls $0.04
+iwannabe29: calls $0.03
+Gawrosz23: calls $0.02
+*** FLOP *** [Ad Ts 7c]
+iwannabe29: checks 
+Gawrosz23: checks 
+carakhapov: bets $0.15
+Dorex2007: folds 
+iwannabe29: folds 
+Gawrosz23: folds 
+Uncalled bet ($0.15) returned to carakhapov
+carakhapov collected $0.15 from pot
+carakhapov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Ad Ts 7c]
+Seat 1: Gawrosz23 (big blind) folded on the Flop
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 5: carakhapov collected ($0.15)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded on the Flop
+Seat 9: iwannabe29 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #225847774181:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:34:25 PT [2021/04/14 21:34:25 ET]
+Table 'Botein III' 9-max Seat #9 is the button
+Seat 1: Gawrosz23 ($13.27 in chips) 
+Seat 2: asdabelle ($0.67 in chips) 
+Seat 3: stephfern53 ($1.53 in chips) 
+Seat 5: carakhapov ($1.81 in chips) 
+Seat 6: yaki469 ($1.46 in chips) 
+Seat 7: podlesh60 ($1.33 in chips) 
+Seat 8: Dorex2007 ($1.89 in chips) 
+Seat 9: iwannabe29 ($2.65 in chips) 
+Gawrosz23: posts small blind $0.01
+asdabelle: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Tc]
+stephfern53: folds 
+carakhapov: raises $0.04 to $0.06
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+iwannabe29: folds 
+Gawrosz23: folds 
+asdabelle: folds 
+Uncalled bet ($0.04) returned to carakhapov
+carakhapov collected $0.05 from pot
+carakhapov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Gawrosz23 (small blind) folded before Flop
+Seat 2: asdabelle (big blind) folded before Flop
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 5: carakhapov collected ($0.05)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847778615:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:34:41 PT [2021/04/14 21:34:41 ET]
+Table 'Botein III' 9-max Seat #1 is the button
+Seat 1: Gawrosz23 ($13.26 in chips) 
+Seat 2: asdabelle ($0.65 in chips) 
+Seat 3: stephfern53 ($1.53 in chips) 
+Seat 5: carakhapov ($1.84 in chips) 
+Seat 6: yaki469 ($1.46 in chips) 
+Seat 7: podlesh60 ($1.33 in chips) 
+Seat 8: Dorex2007 ($1.89 in chips) 
+Seat 9: iwannabe29 ($2.65 in chips) 
+asdabelle: posts small blind $0.01
+stephfern53: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 2c]
+carakhapov: folds 
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+iwannabe29: folds 
+Gawrosz23: folds 
+asdabelle: calls $0.01
+stephfern53: checks 
+*** FLOP *** [8c 6h 5h]
+asdabelle: checks 
+stephfern53: checks 
+*** TURN *** [8c 6h 5h] [9h]
+Gawrosz23 leaves the table
+asdabelle: bets $0.06
+stephfern53: folds 
+Uncalled bet ($0.06) returned to asdabelle
+asdabelle collected $0.04 from pot
+asdabelle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [8c 6h 5h 9h]
+Seat 1: Gawrosz23 (button) folded before Flop (didn't bet)
+Seat 2: asdabelle (small blind) collected ($0.04)
+Seat 3: stephfern53 (big blind) folded on the Turn
+Seat 5: carakhapov folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847790078:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:35:14 PT [2021/04/14 21:35:14 ET]
+Table 'Botein III' 9-max Seat #2 is the button
+Seat 2: asdabelle ($0.67 in chips) 
+Seat 3: stephfern53 ($1.51 in chips) 
+Seat 5: carakhapov ($1.84 in chips) 
+Seat 6: yaki469 ($1.46 in chips) 
+Seat 7: podlesh60 ($1.33 in chips) 
+Seat 8: Dorex2007 ($1.89 in chips) 
+Seat 9: iwannabe29 ($2.65 in chips) 
+stephfern53: posts small blind $0.01
+carakhapov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 8d]
+yaki469: calls $0.02
+podlesh60: calls $0.02
+Dorex2007: folds 
+iwannabe29: folds 
+asdabelle: calls $0.02
+FERNANDO428 joins the table at seat #1 
+stephfern53: calls $0.01
+carakhapov: checks 
+*** FLOP *** [Jd 7h 3c]
+stephfern53: checks 
+carakhapov: checks 
+yaki469: checks 
+podlesh60: bets $0.02
+asdabelle: folds 
+stephfern53: calls $0.02
+carakhapov: calls $0.02
+yaki469: folds 
+*** TURN *** [Jd 7h 3c] [Kd]
+stephfern53: checks 
+carakhapov: checks 
+podlesh60: checks 
+*** RIVER *** [Jd 7h 3c Kd] [6s]
+stephfern53: checks 
+carakhapov: bets $0.16
+podlesh60: folds 
+stephfern53: folds 
+Uncalled bet ($0.16) returned to carakhapov
+carakhapov collected $0.15 from pot
+carakhapov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Jd 7h 3c Kd 6s]
+Seat 2: asdabelle (button) folded on the Flop
+Seat 3: stephfern53 (small blind) folded on the River
+Seat 5: carakhapov (big blind) collected ($0.15)
+Seat 6: yaki469 folded on the Flop
+Seat 7: podlesh60 folded on the River
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847815614:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:36:46 PT [2021/04/14 21:36:46 ET]
+Table 'Botein III' 9-max Seat #3 is the button
+Seat 2: asdabelle ($0.65 in chips) 
+Seat 3: stephfern53 ($1.47 in chips) 
+Seat 5: carakhapov ($1.95 in chips) 
+Seat 6: yaki469 ($1.44 in chips) 
+Seat 7: podlesh60 ($1.29 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: iwannabe29 ($2.65 in chips) 
+carakhapov: posts small blind $0.01
+yaki469: posts big blind $0.02
+FERNANDO428: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 7c]
+podlesh60: folds 
+Dorex2007: folds 
+iwannabe29: folds 
+asdabelle: folds 
+stephfern53: folds 
+carakhapov: folds 
+Uncalled bet ($0.01) returned to yaki469
+yaki469 collected $0.02 from pot
+yaki469: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 (button) folded before Flop (didn't bet)
+Seat 5: carakhapov (small blind) folded before Flop
+Seat 6: yaki469 (big blind) collected ($0.02)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847818188:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:36:55 PT [2021/04/14 21:36:55 ET]
+Table 'Botein III' 9-max Seat #5 is the button
+Seat 2: asdabelle ($0.65 in chips) 
+Seat 3: stephfern53 ($1.47 in chips) 
+Seat 5: carakhapov ($1.94 in chips) 
+Seat 6: yaki469 ($1.45 in chips) 
+Seat 7: podlesh60 ($1.29 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: iwannabe29 ($2.65 in chips) 
+yaki469: posts small blind $0.01
+podlesh60: posts big blind $0.02
+FERNANDO428: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 6c]
+Dorex2007: folds 
+iwannabe29: calls $0.02
+asdabelle: folds 
+stephfern53: folds 
+carakhapov: raises $0.04 to $0.06
+yaki469: folds 
+podlesh60: folds 
+iwannabe29: calls $0.04
+*** FLOP *** [Ks Kc 6h]
+iwannabe29: checks 
+carakhapov: bets $0.06
+iwannabe29: calls $0.06
+*** TURN *** [Ks Kc 6h] [5c]
+iwannabe29: checks 
+carakhapov: bets $0.12
+iwannabe29: raises $0.12 to $0.24
+carakhapov: calls $0.12
+*** RIVER *** [Ks Kc 6h 5c] [2d]
+iwannabe29: checks 
+carakhapov: bets $0.72
+iwannabe29: calls $0.72
+*** SHOW DOWN ***
+carakhapov: shows [Qh Qs] (two pair, Kings and Queens)
+iwannabe29: shows [Kd 8d] (three of a kind, Kings)
+iwannabe29 collected $2.11 from pot
+*** SUMMARY ***
+Total pot $2.19 | Rake $0.08 
+Board [Ks Kc 6h 5c 2d]
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 5: carakhapov (button) showed [Qh Qs] and lost with two pair, Kings and Queens
+Seat 6: yaki469 (small blind) folded before Flop
+Seat 7: podlesh60 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 showed [Kd 8d] and won ($2.11) with three of a kind, Kings
+
+
+
+PokerStars Hand #225847835938:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:37:59 PT [2021/04/14 21:37:59 ET]
+Table 'Botein III' 9-max Seat #6 is the button
+Seat 2: asdabelle ($0.65 in chips) 
+Seat 3: stephfern53 ($1.47 in chips) 
+Seat 5: carakhapov ($0.86 in chips) 
+Seat 6: yaki469 ($1.44 in chips) 
+Seat 7: podlesh60 ($1.27 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: iwannabe29 ($3.68 in chips) 
+podlesh60: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+FERNANDO428: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 7d]
+iwannabe29: folds 
+asdabelle: folds 
+stephfern53: folds 
+carakhapov: raises $0.04 to $0.06
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to carakhapov
+carakhapov collected $0.05 from pot
+carakhapov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 5: carakhapov collected ($0.05)
+Seat 6: yaki469 (button) folded before Flop (didn't bet)
+Seat 7: podlesh60 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: iwannabe29 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847852375:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:38:28 PT [2021/04/14 21:38:28 ET]
+Table 'Botein III' 9-max Seat #7 is the button
+Seat 2: asdabelle ($0.65 in chips) 
+Seat 3: stephfern53 ($1.47 in chips) 
+Seat 5: carakhapov ($0.89 in chips) 
+Seat 6: yaki469 ($1.44 in chips) 
+Seat 7: podlesh60 ($1.26 in chips) 
+Seat 8: Dorex2007 ($1.98 in chips) 
+Seat 9: iwannabe29 ($3.68 in chips) 
+Dorex2007: posts small blind $0.01
+iwannabe29: posts big blind $0.02
+FERNANDO428: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Qh]
+asdabelle: calls $0.02
+stephfern53: folds 
+carakhapov: folds 
+yaki469: calls $0.02
+podlesh60: folds 
+Dorex2007: calls $0.01
+iwannabe29: checks 
+*** FLOP *** [7c 5s 4d]
+Dorex2007: checks 
+iwannabe29: bets $0.02
+asdabelle: calls $0.02
+yaki469: raises $0.07 to $0.09
+Dorex2007: folds 
+iwannabe29: folds 
+asdabelle: folds 
+Uncalled bet ($0.07) returned to yaki469
+yaki469 collected $0.14 from pot
+yaki469: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [7c 5s 4d]
+Seat 2: asdabelle folded on the Flop
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 5: carakhapov folded before Flop (didn't bet)
+Seat 6: yaki469 collected ($0.14)
+Seat 7: podlesh60 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded on the Flop
+Seat 9: iwannabe29 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #225847862146:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:39:03 PT [2021/04/14 21:39:03 ET]
+Table 'Botein III' 9-max Seat #8 is the button
+Seat 1: FERNANDO428 ($1.60 in chips) 
+Seat 2: asdabelle ($0.61 in chips) 
+Seat 3: stephfern53 ($1.47 in chips) 
+Seat 5: carakhapov ($0.89 in chips) 
+Seat 6: yaki469 ($1.54 in chips) 
+Seat 7: podlesh60 ($1.26 in chips) 
+Seat 8: Dorex2007 ($1.96 in chips) 
+Seat 9: iwannabe29 ($3.64 in chips) 
+iwannabe29: posts small blind $0.01
+FERNANDO428: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 9h]
+asdabelle: folds 
+stephfern53: folds 
+carakhapov: folds 
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+iwannabe29: calls $0.01
+FERNANDO428: raises $0.02 to $0.04
+iwannabe29: calls $0.02
+*** FLOP *** [6d 7s Kd]
+iwannabe29: checks 
+FERNANDO428: bets $0.08
+iwannabe29: calls $0.08
+*** TURN *** [6d 7s Kd] [5s]
+iwannabe29: checks 
+FERNANDO428: bets $0.23
+iwannabe29: calls $0.23
+*** RIVER *** [6d 7s Kd 5s] [Ah]
+iwannabe29: checks 
+FERNANDO428: checks 
+*** SHOW DOWN ***
+iwannabe29: shows [2d Qd] (high card Ace)
+FERNANDO428: shows [Qc Ks] (a pair of Kings)
+FERNANDO428 collected $0.68 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.02 
+Board [6d 7s Kd 5s Ah]
+Seat 1: FERNANDO428 (big blind) showed [Qc Ks] and won ($0.68) with a pair of Kings
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 5: carakhapov folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: iwannabe29 (small blind) showed [2d Qd] and lost with high card Ace
+
+
+
+PokerStars Hand #225847877151:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:39:56 PT [2021/04/14 21:39:56 ET]
+Table 'Botein III' 9-max Seat #9 is the button
+Seat 1: FERNANDO428 ($1.93 in chips) 
+Seat 2: asdabelle ($0.61 in chips) 
+Seat 3: stephfern53 ($1.47 in chips) 
+Seat 5: carakhapov ($0.89 in chips) 
+Seat 6: yaki469 ($1.54 in chips) 
+Seat 7: podlesh60 ($1.26 in chips) 
+Seat 8: Dorex2007 ($1.96 in chips) 
+Seat 9: iwannabe29 ($3.29 in chips) 
+FERNANDO428: posts small blind $0.01
+asdabelle: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 7h]
+stephfern53: folds 
+carakhapov: raises $0.02 to $0.04
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+iwannabe29: folds 
+FERNANDO428: folds 
+asdabelle: calls $0.02
+*** FLOP *** [8s 6h 4s]
+asdabelle: bets $0.06
+carakhapov: folds 
+Uncalled bet ($0.06) returned to asdabelle
+asdabelle collected $0.09 from pot
+asdabelle: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [8s 6h 4s]
+Seat 1: FERNANDO428 (small blind) folded before Flop
+Seat 2: asdabelle (big blind) collected ($0.09)
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 5: carakhapov folded on the Flop
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847886343:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:40:29 PT [2021/04/14 21:40:29 ET]
+Table 'Botein III' 9-max Seat #1 is the button
+Seat 1: FERNANDO428 ($1.92 in chips) 
+Seat 2: asdabelle ($0.66 in chips) 
+Seat 3: stephfern53 ($1.47 in chips) 
+Seat 5: carakhapov ($0.85 in chips) 
+Seat 6: yaki469 ($1.54 in chips) 
+Seat 7: podlesh60 ($1.26 in chips) 
+Seat 8: Dorex2007 ($1.96 in chips) 
+Seat 9: iwannabe29 ($3.29 in chips) 
+asdabelle: posts small blind $0.01
+stephfern53: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 5d]
+carakhapov: folds 
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+iwannabe29: calls $0.02
+FERNANDO428: calls $0.02
+asdabelle: calls $0.01
+stephfern53: checks 
+*** FLOP *** [3s 6s 8c]
+asdabelle: checks 
+stephfern53: checks 
+iwannabe29: bets $0.04
+FERNANDO428: folds 
+asdabelle: folds 
+stephfern53: folds 
+Uncalled bet ($0.04) returned to iwannabe29
+iwannabe29 collected $0.08 from pot
+iwannabe29: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [3s 6s 8c]
+Seat 1: FERNANDO428 (button) folded on the Flop
+Seat 2: asdabelle (small blind) folded on the Flop
+Seat 3: stephfern53 (big blind) folded on the Flop
+Seat 5: carakhapov folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 collected ($0.08)
+
+
+
+PokerStars Hand #225847902666:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:41:21 PT [2021/04/14 21:41:21 ET]
+Table 'Botein III' 9-max Seat #2 is the button
+Seat 1: FERNANDO428 ($1.90 in chips) 
+Seat 2: asdabelle ($0.64 in chips) 
+Seat 3: stephfern53 ($1.45 in chips) 
+Seat 5: carakhapov ($0.85 in chips) 
+Seat 6: yaki469 ($1.54 in chips) 
+Seat 7: podlesh60 ($1.26 in chips) 
+Seat 8: Dorex2007 ($1.96 in chips) 
+Seat 9: iwannabe29 ($3.35 in chips) 
+stephfern53: posts small blind $0.01
+carakhapov: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Td]
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+iwannabe29: folds 
+FERNANDO428: folds 
+asdabelle: folds 
+stephfern53: folds 
+Uncalled bet ($0.01) returned to carakhapov
+carakhapov collected $0.02 from pot
+carakhapov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: asdabelle (button) folded before Flop (didn't bet)
+Seat 3: stephfern53 (small blind) folded before Flop
+Seat 5: carakhapov (big blind) collected ($0.02)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847908884:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:41:44 PT [2021/04/14 21:41:44 ET]
+Table 'Botein III' 9-max Seat #3 is the button
+Seat 1: FERNANDO428 ($1.90 in chips) 
+Seat 2: asdabelle ($0.64 in chips) 
+Seat 3: stephfern53 ($1.44 in chips) 
+Seat 5: carakhapov ($0.86 in chips) 
+Seat 6: yaki469 ($1.54 in chips) 
+Seat 7: podlesh60 ($1.26 in chips) 
+Seat 8: Dorex2007 ($1.96 in chips) 
+Seat 9: iwannabe29 ($3.35 in chips) 
+carakhapov: posts small blind $0.01
+yaki469: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 5d]
+podlesh60: folds 
+Dorex2007: folds 
+iwannabe29: folds 
+FERNANDO428: folds 
+asdabelle: folds 
+stephfern53: folds 
+carakhapov: calls $0.01
+yaki469: checks 
+*** FLOP *** [Td 2h 9c]
+carakhapov: checks 
+yaki469: checks 
+*** TURN *** [Td 2h 9c] [Ts]
+carakhapov: checks 
+yaki469: bets $0.02
+carakhapov: folds 
+Uncalled bet ($0.02) returned to yaki469
+yaki469 collected $0.04 from pot
+yaki469: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Td 2h 9c Ts]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 (button) folded before Flop (didn't bet)
+Seat 5: carakhapov (small blind) folded on the Turn
+Seat 6: yaki469 (big blind) collected ($0.04)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847917007:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:42:13 PT [2021/04/14 21:42:13 ET]
+Table 'Botein III' 9-max Seat #5 is the button
+Seat 1: FERNANDO428 ($1.90 in chips) 
+Seat 2: asdabelle ($0.64 in chips) 
+Seat 3: stephfern53 ($1.44 in chips) 
+Seat 5: carakhapov ($0.84 in chips) 
+Seat 6: yaki469 ($1.56 in chips) 
+Seat 7: podlesh60 ($1.26 in chips) 
+Seat 8: Dorex2007 ($1.96 in chips) 
+Seat 9: iwannabe29 ($3.35 in chips) 
+yaki469: posts small blind $0.01
+podlesh60: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 9d]
+Dorex2007: folds 
+iwannabe29: calls $0.02
+FERNANDO428: folds 
+asdabelle: folds 
+stephfern53: folds 
+carakhapov: raises $0.04 to $0.06
+yaki469: folds 
+podlesh60: folds 
+iwannabe29: folds 
+Uncalled bet ($0.04) returned to carakhapov
+carakhapov collected $0.07 from pot
+carakhapov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 5: carakhapov (button) collected ($0.07)
+Seat 6: yaki469 (small blind) folded before Flop
+Seat 7: podlesh60 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 folded before Flop
+
+
+
+PokerStars Hand #225847924256:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:42:39 PT [2021/04/14 21:42:39 ET]
+Table 'Botein III' 9-max Seat #6 is the button
+Seat 1: FERNANDO428 ($1.90 in chips) 
+Seat 2: asdabelle ($0.64 in chips) 
+Seat 3: stephfern53 ($1.44 in chips) 
+Seat 5: carakhapov ($0.89 in chips) 
+Seat 6: yaki469 ($1.55 in chips) 
+Seat 7: podlesh60 ($1.24 in chips) 
+Seat 8: Dorex2007 ($1.96 in chips) 
+Seat 9: iwannabe29 ($3.33 in chips) 
+podlesh60: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Qs]
+iwannabe29: calls $0.02
+FERNANDO428: folds 
+asdabelle: folds 
+stephfern53: folds 
+carakhapov: folds 
+yaki469: calls $0.02
+podlesh60: folds 
+Dorex2007: raises $0.06 to $0.08
+iwannabe29: calls $0.06
+yaki469: folds 
+*** FLOP *** [5d 3c 6s]
+Dorex2007: checks 
+iwannabe29: checks 
+*** TURN *** [5d 3c 6s] [9c]
+Dorex2007: checks 
+iwannabe29: checks 
+*** RIVER *** [5d 3c 6s 9c] [Jd]
+Dorex2007: bets $0.12
+iwannabe29: folds 
+Uncalled bet ($0.12) returned to Dorex2007
+Dorex2007 collected $0.18 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5d 3c 6s 9c Jd]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 5: carakhapov folded before Flop (didn't bet)
+Seat 6: yaki469 (button) folded before Flop
+Seat 7: podlesh60 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) collected ($0.18)
+Seat 9: iwannabe29 folded on the River
+
+
+
+PokerStars Hand #225847934626:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:43:16 PT [2021/04/14 21:43:16 ET]
+Table 'Botein III' 9-max Seat #7 is the button
+Seat 1: FERNANDO428 ($1.90 in chips) 
+Seat 2: asdabelle ($0.64 in chips) 
+Seat 3: stephfern53 ($1.44 in chips) 
+Seat 5: carakhapov ($0.89 in chips) 
+Seat 6: yaki469 ($1.53 in chips) 
+Seat 7: podlesh60 ($1.23 in chips) 
+Seat 8: Dorex2007 ($2.06 in chips) 
+Seat 9: iwannabe29 ($3.25 in chips) 
+Dorex2007: posts small blind $0.01
+iwannabe29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 5d]
+FERNANDO428: folds 
+asdabelle: folds 
+stephfern53: folds 
+carakhapov: folds 
+yaki469: calls $0.02
+podlesh60: folds 
+Dorex2007: folds 
+iwannabe29: checks 
+*** FLOP *** [7d 9h 9s]
+iwannabe29: checks 
+yaki469: bets $0.02
+iwannabe29: folds 
+Uncalled bet ($0.02) returned to yaki469
+yaki469 collected $0.05 from pot
+yaki469: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [7d 9h 9s]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 5: carakhapov folded before Flop (didn't bet)
+Seat 6: yaki469 collected ($0.05)
+Seat 7: podlesh60 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: iwannabe29 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #225847950109:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:43:48 PT [2021/04/14 21:43:48 ET]
+Table 'Botein III' 9-max Seat #8 is the button
+Seat 1: FERNANDO428 ($1.90 in chips) 
+Seat 2: asdabelle ($0.64 in chips) 
+Seat 3: stephfern53 ($1.44 in chips) 
+Seat 5: carakhapov ($0.89 in chips) 
+Seat 6: yaki469 ($1.56 in chips) 
+Seat 7: podlesh60 ($1.23 in chips) 
+Seat 8: Dorex2007 ($2.05 in chips) 
+Seat 9: iwannabe29 ($3.23 in chips) 
+iwannabe29: posts small blind $0.01
+FERNANDO428: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 7d]
+asdabelle: folds 
+stephfern53: calls $0.02
+carakhapov: folds 
+yaki469: folds 
+podlesh60: calls $0.02
+Dorex2007: folds 
+iwannabe29: calls $0.01
+FERNANDO428: checks 
+*** FLOP *** [6s 6c Ts]
+iwannabe29: checks 
+FERNANDO428: checks 
+stephfern53: checks 
+podlesh60: checks 
+*** TURN *** [6s 6c Ts] [4d]
+iwannabe29: checks 
+FERNANDO428: checks 
+stephfern53: bets $0.04
+podlesh60: folds 
+iwannabe29: folds 
+FERNANDO428: folds 
+Uncalled bet ($0.04) returned to stephfern53
+stephfern53 collected $0.08 from pot
+stephfern53: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [6s 6c Ts 4d]
+Seat 1: FERNANDO428 (big blind) folded on the Turn
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 collected ($0.08)
+Seat 5: carakhapov folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded on the Turn
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: iwannabe29 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #225847964211:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:44:39 PT [2021/04/14 21:44:39 ET]
+Table 'Botein III' 9-max Seat #9 is the button
+Seat 1: FERNANDO428 ($1.88 in chips) 
+Seat 2: asdabelle ($0.64 in chips) 
+Seat 3: stephfern53 ($1.50 in chips) 
+Seat 5: carakhapov ($0.89 in chips) 
+Seat 6: yaki469 ($1.56 in chips) 
+Seat 7: podlesh60 ($1.21 in chips) 
+Seat 8: Dorex2007 ($2.05 in chips) 
+Seat 9: iwannabe29 ($3.21 in chips) 
+FERNANDO428: posts small blind $0.01
+asdabelle: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 8s]
+stephfern53: folds 
+carakhapov: folds 
+yaki469: folds 
+podlesh60: calls $0.02
+Dorex2007: folds 
+iwannabe29: folds 
+FERNANDO428: raises $0.02 to $0.04
+asdabelle: folds 
+podlesh60: calls $0.02
+*** FLOP *** [Js 7h 8h]
+carakhapov leaves the table
+FERNANDO428: bets $0.06
+podlesh60: folds 
+Uncalled bet ($0.06) returned to FERNANDO428
+FERNANDO428 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Js 7h 8h]
+Seat 1: FERNANDO428 (small blind) collected ($0.10)
+Seat 2: asdabelle (big blind) folded before Flop
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 5: carakhapov folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded on the Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225847973470:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:45:12 PT [2021/04/14 21:45:12 ET]
+Table 'Botein III' 9-max Seat #1 is the button
+Seat 1: FERNANDO428 ($1.94 in chips) 
+Seat 2: asdabelle ($0.62 in chips) 
+Seat 3: stephfern53 ($1.50 in chips) 
+Seat 6: yaki469 ($1.56 in chips) 
+Seat 7: podlesh60 ($1.17 in chips) 
+Seat 8: Dorex2007 ($2.05 in chips) 
+Seat 9: iwannabe29 ($3.21 in chips) 
+asdabelle: posts small blind $0.01
+stephfern53: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 5s]
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+iwannabe29: calls $0.02
+FERNANDO428: folds 
+asdabelle: calls $0.01
+stephfern53: checks 
+*** FLOP *** [6d Ah 5c]
+asdabelle: checks 
+stephfern53: checks 
+iwannabe29: checks 
+*** TURN *** [6d Ah 5c] [Qd]
+asdabelle: checks 
+stephfern53: checks 
+iwannabe29: bets $0.02
+waaaaaaaa joins the table at seat #5 
+asdabelle: folds 
+stephfern53: folds 
+Uncalled bet ($0.02) returned to iwannabe29
+iwannabe29 collected $0.06 from pot
+iwannabe29: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [6d Ah 5c Qd]
+Seat 1: FERNANDO428 (button) folded before Flop (didn't bet)
+Seat 2: asdabelle (small blind) folded on the Turn
+Seat 3: stephfern53 (big blind) folded on the Turn
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 collected ($0.06)
+
+
+
+PokerStars Hand #225847983868:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:45:50 PT [2021/04/14 21:45:50 ET]
+Table 'Botein III' 9-max Seat #2 is the button
+Seat 1: FERNANDO428 ($1.94 in chips) 
+Seat 2: asdabelle ($0.60 in chips) 
+Seat 3: stephfern53 ($1.48 in chips) 
+Seat 5: waaaaaaaa ($2 in chips) 
+Seat 6: yaki469 ($1.56 in chips) 
+Seat 7: podlesh60 ($1.17 in chips) 
+Seat 8: Dorex2007 ($2.05 in chips) 
+Seat 9: iwannabe29 ($3.25 in chips) 
+stephfern53: posts small blind $0.01
+waaaaaaaa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 4c]
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+iwannabe29: calls $0.02
+FERNANDO428: folds 
+asdabelle: folds 
+stephfern53: calls $0.01
+waaaaaaaa: checks 
+*** FLOP *** [9h Ks 5s]
+stephfern53: checks 
+waaaaaaaa: checks 
+iwannabe29: checks 
+*** TURN *** [9h Ks 5s] [Kh]
+stephfern53: bets $0.02
+waaaaaaaa: folds 
+iwannabe29: calls $0.02
+*** RIVER *** [9h Ks 5s Kh] [6s]
+stephfern53: checks 
+iwannabe29: bets $0.10
+stephfern53: folds 
+Uncalled bet ($0.10) returned to iwannabe29
+iwannabe29 collected $0.10 from pot
+Rickcanrun leaves the table
+iwannabe29: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [9h Ks 5s Kh 6s]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: asdabelle (button) folded before Flop (didn't bet)
+Seat 3: stephfern53 (small blind) folded on the River
+Seat 5: waaaaaaaa (big blind) folded on the Turn
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 collected ($0.10)
+
+
+
+PokerStars Hand #225848000466:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:46:50 PT [2021/04/14 21:46:50 ET]
+Table 'Botein III' 9-max Seat #3 is the button
+Seat 1: FERNANDO428 ($1.94 in chips) 
+Seat 2: asdabelle ($0.60 in chips) 
+Seat 3: stephfern53 ($1.44 in chips) 
+Seat 5: waaaaaaaa ($2 in chips) 
+Seat 6: yaki469 ($1.56 in chips) 
+Seat 7: podlesh60 ($1.17 in chips) 
+Seat 8: Dorex2007 ($2.05 in chips) 
+Seat 9: iwannabe29 ($3.31 in chips) 
+waaaaaaaa: posts small blind $0.01
+yaki469: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 3h]
+podlesh60: raises $0.02 to $0.04
+Synapture42 joins the table at seat #4 
+Dorex2007: folds 
+iwannabe29: folds 
+FERNANDO428: folds 
+asdabelle: folds 
+stephfern53: folds 
+waaaaaaaa: calls $0.03
+yaki469: folds 
+*** FLOP *** [7c 4c Kh]
+waaaaaaaa: checks 
+podlesh60: bets $0.02
+waaaaaaaa: raises $0.07 to $0.09
+podlesh60: calls $0.07
+*** TURN *** [7c 4c Kh] [4h]
+waaaaaaaa: bets $0.22
+podlesh60: calls $0.22
+*** RIVER *** [7c 4c Kh 4h] [6c]
+waaaaaaaa: bets $0.46
+podlesh60: calls $0.46
+*** SHOW DOWN ***
+waaaaaaaa: shows [Ks Qh] (two pair, Kings and Fours)
+podlesh60: shows [Ad Kc] (two pair, Kings and Fours - Ace kicker)
+podlesh60 collected $1.58 from pot
+*** SUMMARY ***
+Total pot $1.64 | Rake $0.06 
+Board [7c 4c Kh 4h 6c]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 (button) folded before Flop (didn't bet)
+Seat 5: waaaaaaaa (small blind) showed [Ks Qh] and lost with two pair, Kings and Fours
+Seat 6: yaki469 (big blind) folded before Flop
+Seat 7: podlesh60 showed [Ad Kc] and won ($1.58) with two pair, Kings and Fours
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848029094:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:48:04 PT [2021/04/14 21:48:04 ET]
+Table 'Botein III' 9-max Seat #5 is the button
+Seat 1: FERNANDO428 ($1.94 in chips) 
+Seat 2: asdabelle ($0.60 in chips) 
+Seat 3: stephfern53 ($1.44 in chips) 
+Seat 4: Synapture42 ($1.60 in chips) 
+Seat 5: waaaaaaaa ($2 in chips) 
+Seat 6: yaki469 ($1.54 in chips) 
+Seat 7: podlesh60 ($1.94 in chips) 
+Seat 8: Dorex2007 ($2.05 in chips) 
+Seat 9: iwannabe29 ($3.31 in chips) 
+yaki469: posts small blind $0.01
+podlesh60: posts big blind $0.02
+Synapture42: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 7d]
+Dorex2007: folds 
+iwannabe29: folds 
+FERNANDO428: folds 
+asdabelle: calls $0.02
+stephfern53: folds 
+Synapture42: checks 
+waaaaaaaa: folds 
+yaki469: calls $0.01
+podlesh60: checks 
+*** FLOP *** [Jd 2h 9c]
+yaki469: checks 
+podlesh60: checks 
+asdabelle: checks 
+Synapture42: checks 
+*** TURN *** [Jd 2h 9c] [2s]
+yaki469: checks 
+podlesh60: checks 
+asdabelle: checks 
+Synapture42: bets $0.10
+yaki469: folds 
+podlesh60: folds 
+asdabelle: folds 
+Uncalled bet ($0.10) returned to Synapture42
+Synapture42 collected $0.08 from pot
+Synapture42: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Jd 2h 9c 2s]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: asdabelle folded on the Turn
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 4: Synapture42 collected ($0.08)
+Seat 5: waaaaaaaa (button) folded before Flop (didn't bet)
+Seat 6: yaki469 (small blind) folded on the Turn
+Seat 7: podlesh60 (big blind) folded on the Turn
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848043394:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:48:57 PT [2021/04/14 21:48:57 ET]
+Table 'Botein III' 9-max Seat #6 is the button
+Seat 1: FERNANDO428 ($1.94 in chips) 
+Seat 2: asdabelle ($0.58 in chips) 
+Seat 3: stephfern53 ($1.44 in chips) 
+Seat 4: Synapture42 ($1.66 in chips) 
+Seat 5: waaaaaaaa ($2 in chips) 
+Seat 6: yaki469 ($1.52 in chips) 
+Seat 7: podlesh60 ($1.92 in chips) 
+Seat 8: Dorex2007 ($2.05 in chips) 
+Seat 9: iwannabe29 ($3.31 in chips) 
+podlesh60: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 8s]
+iwannabe29: calls $0.02
+FERNANDO428: folds 
+asdabelle: folds 
+stephfern53: folds 
+Synapture42: calls $0.02
+waaaaaaaa: folds 
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: checks 
+*** FLOP *** [6d 6h As]
+Dorex2007: checks 
+iwannabe29: checks 
+Synapture42: checks 
+*** TURN *** [6d 6h As] [4c]
+Dorex2007: checks 
+iwannabe29: checks 
+Synapture42: checks 
+*** RIVER *** [6d 6h As 4c] [5h]
+Dorex2007: checks 
+iwannabe29: checks 
+Synapture42: bets $0.06
+Dorex2007: folds 
+iwannabe29: folds 
+Uncalled bet ($0.06) returned to Synapture42
+Synapture42 collected $0.07 from pot
+Synapture42: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [6d 6h As 4c 5h]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 4: Synapture42 collected ($0.07)
+Seat 5: waaaaaaaa folded before Flop (didn't bet)
+Seat 6: yaki469 (button) folded before Flop (didn't bet)
+Seat 7: podlesh60 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded on the River
+Seat 9: iwannabe29 folded on the River
+
+
+
+PokerStars Hand #225848059666:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:49:55 PT [2021/04/14 21:49:55 ET]
+Table 'Botein III' 9-max Seat #7 is the button
+Seat 1: FERNANDO428 ($1.94 in chips) 
+Seat 2: asdabelle ($0.58 in chips) 
+Seat 3: stephfern53 ($1.44 in chips) 
+Seat 4: Synapture42 ($1.71 in chips) 
+Seat 5: waaaaaaaa ($2 in chips) 
+Seat 6: yaki469 ($1.52 in chips) 
+Seat 7: podlesh60 ($1.91 in chips) 
+Seat 8: Dorex2007 ($2.03 in chips) 
+Seat 9: iwannabe29 ($3.29 in chips) 
+Dorex2007: posts small blind $0.01
+iwannabe29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 7c]
+FERNANDO428: folds 
+asdabelle: folds 
+stephfern53: folds 
+Synapture42: folds 
+waaaaaaaa: raises $0.04 to $0.06
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+iwannabe29: calls $0.04
+*** FLOP *** [8c 7s Ac]
+iwannabe29: checks 
+waaaaaaaa: checks 
+*** TURN *** [8c 7s Ac] [2d]
+iwannabe29: checks 
+waaaaaaaa: bets $0.09
+iwannabe29: folds 
+Uncalled bet ($0.09) returned to waaaaaaaa
+waaaaaaaa collected $0.13 from pot
+waaaaaaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8c 7s Ac 2d]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 4: Synapture42 folded before Flop (didn't bet)
+Seat 5: waaaaaaaa collected ($0.13)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: iwannabe29 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #225848073638:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:50:47 PT [2021/04/14 21:50:47 ET]
+Table 'Botein III' 9-max Seat #8 is the button
+Seat 1: FERNANDO428 ($1.94 in chips) 
+Seat 2: asdabelle ($0.58 in chips) 
+Seat 3: stephfern53 ($1.44 in chips) 
+Seat 4: Synapture42 ($1.71 in chips) 
+Seat 5: waaaaaaaa ($2.07 in chips) 
+Seat 6: yaki469 ($1.52 in chips) 
+Seat 7: podlesh60 ($1.91 in chips) 
+Seat 8: Dorex2007 ($2.02 in chips) 
+Seat 9: iwannabe29 ($3.23 in chips) 
+iwannabe29: posts small blind $0.01
+FERNANDO428: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 8c]
+asdabelle: folds 
+stephfern53: folds 
+Synapture42: folds 
+waaaaaaaa: folds 
+yaki469: raises $0.04 to $0.06
+podlesh60: folds 
+Dorex2007: folds 
+iwannabe29: calls $0.05
+FERNANDO428: folds 
+*** FLOP *** [5h Qd 2s]
+iwannabe29: checks 
+yaki469: bets $0.04
+iwannabe29: calls $0.04
+*** TURN *** [5h Qd 2s] [3c]
+iwannabe29: checks 
+yaki469: bets $0.06
+iwannabe29: folds 
+Uncalled bet ($0.06) returned to yaki469
+yaki469 collected $0.21 from pot
+yaki469: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [5h Qd 2s 3c]
+Seat 1: FERNANDO428 (big blind) folded before Flop
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 4: Synapture42 folded before Flop (didn't bet)
+Seat 5: waaaaaaaa folded before Flop (didn't bet)
+Seat 6: yaki469 collected ($0.21)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: iwannabe29 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #225848088736:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:51:42 PT [2021/04/14 21:51:42 ET]
+Table 'Botein III' 9-max Seat #9 is the button
+Seat 1: FERNANDO428 ($1.92 in chips) 
+Seat 2: asdabelle ($0.58 in chips) 
+Seat 3: stephfern53 ($1.44 in chips) 
+Seat 4: Synapture42 ($1.71 in chips) 
+Seat 5: waaaaaaaa ($2.07 in chips) 
+Seat 6: yaki469 ($1.63 in chips) 
+Seat 7: podlesh60 ($1.91 in chips) 
+Seat 8: Dorex2007 ($2.02 in chips) 
+Seat 9: iwannabe29 ($3.13 in chips) 
+FERNANDO428: posts small blind $0.01
+asdabelle: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 9d]
+stephfern53: folds 
+Synapture42: raises $0.02 to $0.04
+stephfern53 leaves the table
+waaaaaaaa: folds 
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+iwannabe29: folds 
+FERNANDO428: folds 
+asdabelle: folds 
+Uncalled bet ($0.02) returned to Synapture42
+Synapture42 collected $0.05 from pot
+Synapture42: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: FERNANDO428 (small blind) folded before Flop
+Seat 2: asdabelle (big blind) folded before Flop
+Seat 3: stephfern53 folded before Flop (didn't bet)
+Seat 4: Synapture42 collected ($0.05)
+Seat 5: waaaaaaaa folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: iwannabe29 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848092679:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:51:56 PT [2021/04/14 21:51:56 ET]
+Table 'Botein III' 9-max Seat #1 is the button
+Seat 1: FERNANDO428 ($1.91 in chips) 
+Seat 2: asdabelle ($0.56 in chips) 
+Seat 4: Synapture42 ($1.74 in chips) 
+Seat 5: waaaaaaaa ($2.07 in chips) 
+Seat 6: yaki469 ($1.63 in chips) 
+Seat 7: podlesh60 ($1.91 in chips) 
+Seat 8: Dorex2007 ($2.02 in chips) 
+Seat 9: iwannabe29 ($3.13 in chips) 
+asdabelle: posts small blind $0.01
+Synapture42: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Ts]
+waaaaaaaa: folds 
+yaki469: calls $0.02
+podlesh60: folds 
+Dorex2007: raises $0.04 to $0.06
+iwannabe29: folds 
+FERNANDO428: folds 
+barbanera777 joins the table at seat #3 
+asdabelle: folds 
+Synapture42: folds 
+yaki469: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+iwannabe29 leaves the table
+Dorex2007 collected $0.07 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: FERNANDO428 (button) folded before Flop (didn't bet)
+Seat 2: asdabelle (small blind) folded before Flop
+Seat 4: Synapture42 (big blind) folded before Flop
+Seat 5: waaaaaaaa folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 collected ($0.07)
+Seat 9: iwannabe29 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848097993:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:52:16 PT [2021/04/14 21:52:16 ET]
+Table 'Botein III' 9-max Seat #2 is the button
+Seat 1: FERNANDO428 ($1.91 in chips) 
+Seat 2: asdabelle ($0.55 in chips) 
+Seat 4: Synapture42 ($1.72 in chips) 
+Seat 5: waaaaaaaa ($2.07 in chips) 
+Seat 6: yaki469 ($1.61 in chips) 
+Seat 7: podlesh60 ($1.91 in chips) 
+Seat 8: Dorex2007 ($2.07 in chips) 
+Synapture42: posts small blind $0.01
+waaaaaaaa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 9h]
+yaki469: raises $0.02 to $0.04
+podlesh60: folds 
+Dorex2007: folds 
+FERNANDO428: folds 
+asdabelle: folds 
+rentavid joins the table at seat #9 
+Synapture42: folds 
+waaaaaaaa: folds 
+Uncalled bet ($0.02) returned to yaki469
+yaki469 collected $0.05 from pot
+yaki469: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: asdabelle (button) folded before Flop (didn't bet)
+Seat 4: Synapture42 (small blind) folded before Flop
+Seat 5: waaaaaaaa (big blind) folded before Flop
+Seat 6: yaki469 collected ($0.05)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848105110:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:52:43 PT [2021/04/14 21:52:43 ET]
+Table 'Botein III' 9-max Seat #4 is the button
+Seat 1: FERNANDO428 ($1.91 in chips) 
+Seat 2: asdabelle ($0.55 in chips) 
+Seat 4: Synapture42 ($1.71 in chips) 
+Seat 5: waaaaaaaa ($2.05 in chips) 
+Seat 6: yaki469 ($1.64 in chips) 
+Seat 7: podlesh60 ($1.91 in chips) 
+Seat 8: Dorex2007 ($2.07 in chips) 
+waaaaaaaa: posts small blind $0.01
+yaki469: posts big blind $0.02
+rentavid: sits out 
+barbanera777: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 3s]
+podlesh60: folds 
+Dorex2007: folds 
+FERNANDO428: folds 
+asdabelle: calls $0.02
+Synapture42: folds 
+waaaaaaaa: raises $0.04 to $0.06
+yaki469: folds 
+asdabelle: calls $0.04
+*** FLOP *** [8d Qh Ad]
+rentavid leaves the table
+waaaaaaaa: bets $0.09
+asdabelle: folds 
+Uncalled bet ($0.09) returned to waaaaaaaa
+waaaaaaaa collected $0.14 from pot
+waaaaaaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [8d Qh Ad]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: asdabelle folded on the Flop
+Seat 4: Synapture42 (button) folded before Flop (didn't bet)
+Seat 5: waaaaaaaa (small blind) collected ($0.14)
+Seat 6: yaki469 (big blind) folded before Flop
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848114883:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:53:19 PT [2021/04/14 21:53:19 ET]
+Table 'Botein III' 9-max Seat #5 is the button
+Seat 1: FERNANDO428 ($1.91 in chips) 
+Seat 2: asdabelle ($0.49 in chips) 
+Seat 4: Synapture42 ($1.71 in chips) 
+Seat 5: waaaaaaaa ($2.13 in chips) 
+Seat 6: yaki469 ($1.62 in chips) 
+Seat 7: podlesh60 ($1.91 in chips) 
+Seat 8: Dorex2007 ($2.07 in chips) 
+yaki469: posts small blind $0.01
+podlesh60: posts big blind $0.02
+barbanera777: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Jd]
+Dorex2007: folds 
+FERNANDO428: folds 
+asdabelle: folds 
+Synapture42: folds 
+waaaaaaaa: raises $0.04 to $0.06
+yaki469: folds 
+podlesh60: folds 
+Uncalled bet ($0.04) returned to waaaaaaaa
+waaaaaaaa collected $0.05 from pot
+waaaaaaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 4: Synapture42 folded before Flop (didn't bet)
+Seat 5: waaaaaaaa (button) collected ($0.05)
+Seat 6: yaki469 (small blind) folded before Flop
+Seat 7: podlesh60 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848130150:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:53:43 PT [2021/04/14 21:53:43 ET]
+Table 'Botein III' 9-max Seat #6 is the button
+Seat 1: FERNANDO428 ($1.91 in chips) 
+Seat 2: asdabelle ($0.49 in chips) 
+Seat 4: Synapture42 ($1.71 in chips) 
+Seat 5: waaaaaaaa ($2.16 in chips) 
+Seat 6: yaki469 ($1.61 in chips) 
+Seat 7: podlesh60 ($1.89 in chips) 
+Seat 8: Dorex2007 ($2.07 in chips) 
+podlesh60: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+barbanera777: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Jc]
+FERNANDO428 has timed out
+FERNANDO428: folds 
+asdabelle: folds 
+Synapture42: calls $0.02
+waaaaaaaa: folds 
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: checks 
+*** FLOP *** [8s 6h 3s]
+Dorex2007: bets $0.05
+Synapture42: calls $0.05
+*** TURN *** [8s 6h 3s] [Qs]
+Dorex2007: checks 
+Synapture42: bets $0.20
+Dorex2007: folds 
+Uncalled bet ($0.20) returned to Synapture42
+Synapture42 collected $0.14 from pot
+Synapture42: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8s 6h 3s Qs]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 4: Synapture42 collected ($0.14)
+Seat 5: waaaaaaaa folded before Flop (didn't bet)
+Seat 6: yaki469 (button) folded before Flop (didn't bet)
+Seat 7: podlesh60 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #225848144291:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:54:36 PT [2021/04/14 21:54:36 ET]
+Table 'Botein III' 9-max Seat #7 is the button
+Seat 1: FERNANDO428 ($1.91 in chips) 
+Seat 2: asdabelle ($0.49 in chips) 
+Seat 4: Synapture42 ($1.78 in chips) 
+Seat 5: waaaaaaaa ($2.16 in chips) 
+Seat 6: yaki469 ($1.61 in chips) 
+Seat 7: podlesh60 ($1.88 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Dorex2007: posts small blind $0.01
+FERNANDO428: posts big blind $0.02
+barbanera777: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Ac]
+asdabelle: folds 
+Synapture42: folds 
+waaaaaaaa: raises $0.04 to $0.06
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: calls $0.05
+FERNANDO428: folds 
+*** FLOP *** [Qs 2c Ks]
+Dorex2007: bets $0.14
+waaaaaaaa: folds 
+Uncalled bet ($0.14) returned to Dorex2007
+Dorex2007 collected $0.14 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Qs 2c Ks]
+Seat 1: FERNANDO428 (big blind) folded before Flop
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 4: Synapture42 folded before Flop (didn't bet)
+Seat 5: waaaaaaaa folded on the Flop
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #225848152612:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:55:07 PT [2021/04/14 21:55:07 ET]
+Table 'Botein III' 9-max Seat #8 is the button
+Seat 1: FERNANDO428 ($1.89 in chips) 
+Seat 2: asdabelle ($0.49 in chips) 
+Seat 4: Synapture42 ($1.78 in chips) 
+Seat 5: waaaaaaaa ($2.10 in chips) 
+Seat 6: yaki469 ($1.61 in chips) 
+Seat 7: podlesh60 ($1.88 in chips) 
+Seat 8: Dorex2007 ($2.08 in chips) 
+FERNANDO428: posts small blind $0.01
+asdabelle: posts big blind $0.02
+barbanera777: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 6s]
+Synapture42: calls $0.02
+waaaaaaaa: raises $0.04 to $0.06
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+FERNANDO428: folds 
+asdabelle: folds 
+Synapture42: calls $0.04
+*** FLOP *** [9c Tc 7s]
+Synapture42: checks 
+waaaaaaaa: bets $0.09
+aleas181 joins the table at seat #9 
+Synapture42: calls $0.09
+*** TURN *** [9c Tc 7s] [3d]
+Synapture42: checks 
+waaaaaaaa: checks 
+*** RIVER *** [9c Tc 7s 3d] [4h]
+Synapture42: bets $0.06
+waaaaaaaa: calls $0.06
+*** SHOW DOWN ***
+Synapture42: shows [9d Ad] (a pair of Nines)
+waaaaaaaa: mucks hand 
+Synapture42 collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [9c Tc 7s 3d 4h]
+Seat 1: FERNANDO428 (small blind) folded before Flop
+Seat 2: asdabelle (big blind) folded before Flop
+Seat 4: Synapture42 showed [9d Ad] and won ($0.43) with a pair of Nines
+Seat 5: waaaaaaaa mucked [Js Ac]
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848171454:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:56:38 PT [2021/04/14 21:56:38 ET]
+Table 'Botein III' 9-max Seat #1 is the button
+Seat 1: FERNANDO428 ($1.88 in chips) 
+Seat 2: asdabelle ($0.47 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: Synapture42 ($2 in chips) 
+Seat 5: waaaaaaaa ($2 in chips) 
+Seat 6: yaki469 ($1.61 in chips) 
+Seat 7: podlesh60 ($1.88 in chips) 
+Seat 8: Dorex2007 ($2.08 in chips) 
+Seat 9: aleas181 ($2 in chips) 
+asdabelle: posts small blind $0.01
+barbanera777: posts big blind $0.02
+aleas181: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 4c]
+Synapture42: folds 
+waaaaaaaa: folds 
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+aleas181: checks 
+FERNANDO428: folds 
+asdabelle: folds 
+barbanera777: checks 
+*** FLOP *** [2c Kc 9s]
+barbanera777: checks 
+aleas181: checks 
+*** TURN *** [2c Kc 9s] [Ah]
+barbanera777: bets $0.03
+aleas181: calls $0.03
+*** RIVER *** [2c Kc 9s Ah] [Jd]
+barbanera777: bets $0.03
+aleas181: calls $0.03
+*** SHOW DOWN ***
+barbanera777: shows [7h As] (a pair of Aces)
+aleas181: shows [5c Ad] (a pair of Aces)
+barbanera777 collected $0.08 from pot
+aleas181 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [2c Kc 9s Ah Jd]
+Seat 1: FERNANDO428 (button) folded before Flop (didn't bet)
+Seat 2: asdabelle (small blind) folded before Flop
+Seat 3: barbanera777 (big blind) showed [7h As] and won ($0.08) with a pair of Aces
+Seat 4: Synapture42 folded before Flop (didn't bet)
+Seat 5: waaaaaaaa folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aleas181 showed [5c Ad] and won ($0.08) with a pair of Aces
+
+
+
+PokerStars Hand #225848188677:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:57:28 PT [2021/04/14 21:57:28 ET]
+Table 'Botein III' 9-max Seat #2 is the button
+Seat 1: FERNANDO428 ($1.88 in chips) 
+Seat 2: asdabelle ($0.46 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 5: waaaaaaaa ($2 in chips) 
+Seat 6: yaki469 ($1.61 in chips) 
+Seat 7: podlesh60 ($1.88 in chips) 
+Seat 8: Dorex2007 ($2.08 in chips) 
+Seat 9: aleas181 ($2 in chips) 
+barbanera777: posts small blind $0.01
+waaaaaaaa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 4d]
+yaki469: folds 
+podlesh60: folds 
+Dorex2007: folds 
+aleas181: calls $0.02
+FERNANDO428 has timed out
+FERNANDO428: folds 
+asdabelle: calls $0.02
+barbanera777: folds 
+waaaaaaaa: checks 
+*** FLOP *** [Ah Ts 3d]
+waaaaaaaa: checks 
+aleas181: checks 
+asdabelle: checks 
+*** TURN *** [Ah Ts 3d] [As]
+waaaaaaaa: checks 
+aleas181: bets $0.07
+asdabelle: calls $0.07
+waaaaaaaa: folds 
+*** RIVER *** [Ah Ts 3d As] [4c]
+aleas181: checks 
+asdabelle: checks 
+*** SHOW DOWN ***
+aleas181: shows [Js 9h] (a pair of Aces)
+asdabelle: shows [9c Kc] (a pair of Aces - King kicker)
+asdabelle collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Ah Ts 3d As 4c]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: asdabelle (button) showed [9c Kc] and won ($0.20) with a pair of Aces
+Seat 3: barbanera777 (small blind) folded before Flop
+Seat 5: waaaaaaaa (big blind) folded on the Turn
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aleas181 showed [Js 9h] and lost with a pair of Aces
+
+
+
+PokerStars Hand #225848200418:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:58:24 PT [2021/04/14 21:58:24 ET]
+Table 'Botein III' 9-max Seat #3 is the button
+Seat 1: FERNANDO428 ($1.88 in chips) 
+Seat 2: asdabelle ($0.57 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 5: waaaaaaaa ($2 in chips) 
+Seat 6: yaki469 ($1.61 in chips) 
+Seat 7: podlesh60 ($1.88 in chips) 
+Seat 8: Dorex2007 ($2.08 in chips) 
+Seat 9: aleas181 ($1.91 in chips) 
+waaaaaaaa: posts small blind $0.01
+yaki469: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 8h]
+podlesh60: folds 
+Dorex2007: folds 
+aleas181: folds 
+FERNANDO428: calls $0.02
+asdabelle: folds 
+barbanera777: raises $0.06 to $0.08
+waaaaaaaa: folds 
+yaki469: folds 
+FERNANDO428: folds 
+Uncalled bet ($0.06) returned to barbanera777
+barbanera777 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: FERNANDO428 folded before Flop
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: barbanera777 (button) collected ($0.07)
+Seat 5: waaaaaaaa (small blind) folded before Flop
+Seat 6: yaki469 (big blind) folded before Flop
+Seat 7: podlesh60 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aleas181 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848208243:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:59:01 PT [2021/04/14 21:59:01 ET]
+Table 'Botein III' 9-max Seat #5 is the button
+Seat 1: FERNANDO428 ($1.86 in chips) 
+Seat 2: asdabelle ($0.57 in chips) 
+Seat 3: barbanera777 ($2.05 in chips) 
+Seat 4: Synapture42 ($2 in chips) 
+Seat 5: waaaaaaaa ($2 in chips) 
+Seat 6: yaki469 ($1.59 in chips) 
+Seat 8: Dorex2007 ($2.08 in chips) 
+Seat 9: aleas181 ($1.91 in chips) 
+yaki469: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Synapture42: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 8s]
+aleas181: folds 
+FERNANDO428: folds 
+podlesh60 leaves the table
+asdabelle: calls $0.02
+barbanera777: folds 
+Synapture42: checks 
+waaaaaaaa: folds 
+yaki469: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [Jh Kh 5d]
+yaki469: checks 
+Dorex2007: checks 
+asdabelle: checks 
+Synapture42: bets $0.06
+yaki469: folds 
+Dorex2007: folds 
+asdabelle: folds 
+Uncalled bet ($0.06) returned to Synapture42
+Synapture42 collected $0.09 from pot
+Synapture42: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Jh Kh 5d]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: asdabelle folded on the Flop
+Seat 3: barbanera777 folded before Flop (didn't bet)
+Seat 4: Synapture42 collected ($0.09)
+Seat 5: waaaaaaaa (button) folded before Flop (didn't bet)
+Seat 6: yaki469 (small blind) folded on the Flop
+Seat 8: Dorex2007 (big blind) folded on the Flop
+Seat 9: aleas181 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848215935:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 18:59:38 PT [2021/04/14 21:59:38 ET]
+Table 'Botein III' 9-max Seat #6 is the button
+Seat 1: FERNANDO428 ($1.86 in chips) 
+Seat 2: asdabelle ($0.55 in chips) 
+Seat 3: barbanera777 ($2.05 in chips) 
+Seat 4: Synapture42 ($2.06 in chips) 
+Seat 5: waaaaaaaa ($2 in chips) 
+Seat 6: yaki469 ($1.57 in chips) 
+Seat 8: Dorex2007 ($2.06 in chips) 
+Seat 9: aleas181 ($1.91 in chips) 
+Dorex2007: posts small blind $0.01
+aleas181: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Ac]
+FERNANDO428 has timed out
+FERNANDO428: folds 
+asdabelle: folds 
+barbanera777: raises $0.03 to $0.05
+Synapture42: calls $0.05
+waaaaaaaa: folds 
+yaki469: calls $0.05
+Dorex2007: calls $0.04
+aleas181: calls $0.03
+*** FLOP *** [Qd 8d Ah]
+Dorex2007: checks 
+aleas181: checks 
+barbanera777: checks 
+Synapture42: bets $0.10
+yaki469: folds 
+senhorbigodess joins the table at seat #7 
+Dorex2007: calls $0.10
+aleas181: folds 
+barbanera777: folds 
+*** TURN *** [Qd 8d Ah] [7s]
+Dorex2007: checks 
+Synapture42: bets $0.06
+Dorex2007: calls $0.06
+*** RIVER *** [Qd 8d Ah 7s] [Jd]
+Dorex2007: bets $0.55
+Synapture42: folds 
+Uncalled bet ($0.55) returned to Dorex2007
+Dorex2007 collected $0.55 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [Qd 8d Ah 7s Jd]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: barbanera777 folded on the Flop
+Seat 4: Synapture42 folded on the River
+Seat 5: waaaaaaaa folded before Flop (didn't bet)
+Seat 6: yaki469 (button) folded on the Flop
+Seat 8: Dorex2007 (small blind) collected ($0.55)
+Seat 9: aleas181 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #225848239151:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:01:18 PT [2021/04/14 22:01:18 ET]
+Table 'Botein III' 9-max Seat #8 is the button
+Seat 1: FERNANDO428 ($1.86 in chips) 
+Seat 2: asdabelle ($0.55 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: Synapture42 ($1.85 in chips) 
+Seat 5: waaaaaaaa ($2 in chips) 
+Seat 6: yaki469 ($1.52 in chips) 
+Seat 8: Dorex2007 ($2.40 in chips) 
+Seat 9: aleas181 ($1.86 in chips) 
+aleas181: posts small blind $0.01
+FERNANDO428: posts big blind $0.02
+senhorbigodess: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 2s]
+asdabelle: calls $0.02
+barbanera777: folds 
+Synapture42: folds 
+waaaaaaaa: folds 
+yaki469: raises $0.02 to $0.04
+Dorex2007: folds 
+aleas181: folds 
+FERNANDO428: calls $0.02
+asdabelle: calls $0.02
+*** FLOP *** [2d Qh 2h]
+FERNANDO428: bets $0.06
+asdabelle: calls $0.06
+yaki469: calls $0.06
+*** TURN *** [2d Qh 2h] [3c]
+FERNANDO428: checks 
+asdabelle: checks 
+yaki469: checks 
+*** RIVER *** [2d Qh 2h 3c] [4d]
+FERNANDO428: bets $0.06
+asdabelle: calls $0.06
+yaki469: folds 
+*** SHOW DOWN ***
+FERNANDO428: shows [Ah Qd] (two pair, Queens and Deuces)
+asdabelle: mucks hand 
+FERNANDO428 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [2d Qh 2h 3c 4d]
+Seat 1: FERNANDO428 (big blind) showed [Ah Qd] and won ($0.41) with two pair, Queens and Deuces
+Seat 2: asdabelle mucked [Js Qs]
+Seat 3: barbanera777 folded before Flop (didn't bet)
+Seat 4: Synapture42 folded before Flop (didn't bet)
+Seat 5: waaaaaaaa folded before Flop (didn't bet)
+Seat 6: yaki469 folded on the River
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: aleas181 (small blind) folded before Flop
+
+
+
+PokerStars Hand #225848256590:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:02:23 PT [2021/04/14 22:02:23 ET]
+Table 'Botein III' 9-max Seat #9 is the button
+Seat 1: FERNANDO428 ($2.11 in chips) 
+Seat 2: asdabelle ($0.39 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: Synapture42 ($1.85 in chips) 
+Seat 5: waaaaaaaa ($2 in chips) 
+Seat 6: yaki469 ($1.42 in chips) 
+Seat 8: Dorex2007 ($2.40 in chips) 
+Seat 9: aleas181 ($1.85 in chips) 
+FERNANDO428: posts small blind $0.01
+asdabelle: posts big blind $0.02
+senhorbigodess: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d As]
+barbanera777: folds 
+Synapture42: calls $0.02
+waaaaaaaa: folds 
+yaki469: folds 
+Dorex2007: folds 
+aleas181: folds 
+FERNANDO428: calls $0.01
+asdabelle: raises $0.02 to $0.04
+Synapture42: calls $0.02
+FERNANDO428: folds 
+*** FLOP *** [Th Kd Js]
+asdabelle: bets $0.06
+Synapture42: calls $0.06
+*** TURN *** [Th Kd Js] [Ts]
+asdabelle: bets $0.06
+Synapture42: calls $0.06
+*** RIVER *** [Th Kd Js Ts] [2c]
+asdabelle: bets $0.06
+Synapture42: calls $0.06
+*** SHOW DOWN ***
+asdabelle: shows [Qh Kh] (two pair, Kings and Tens)
+Synapture42: mucks hand 
+asdabelle collected $0.44 from pot
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [Th Kd Js Ts 2c]
+Seat 1: FERNANDO428 (small blind) folded before Flop
+Seat 2: asdabelle (big blind) showed [Qh Kh] and won ($0.44) with two pair, Kings and Tens
+Seat 3: barbanera777 folded before Flop (didn't bet)
+Seat 4: Synapture42 mucked [Ad 9d]
+Seat 5: waaaaaaaa folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aleas181 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848275319:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:03:33 PT [2021/04/14 22:03:33 ET]
+Table 'Botein III' 9-max Seat #1 is the button
+Seat 1: FERNANDO428 ($2.09 in chips) 
+Seat 2: asdabelle ($0.61 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: Synapture42 ($1.63 in chips) 
+Seat 5: waaaaaaaa ($2 in chips) 
+Seat 6: yaki469 ($1.42 in chips) 
+Seat 8: Dorex2007 ($2.40 in chips) 
+Seat 9: aleas181 ($1.85 in chips) 
+asdabelle: posts small blind $0.01
+barbanera777: posts big blind $0.02
+senhorbigodess: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Jc]
+Synapture42: calls $0.02
+waaaaaaaa: folds 
+yaki469: folds 
+Dorex2007: raises $0.04 to $0.06
+aleas181: calls $0.06
+FERNANDO428: folds 
+asdabelle: folds 
+barbanera777: folds 
+Synapture42: calls $0.04
+*** FLOP *** [Qd 4h 2c]
+Synapture42: checks 
+Dorex2007: checks 
+aleas181: bets $0.10
+Synapture42: folds 
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to aleas181
+aleas181 collected $0.20 from pot
+aleas181: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Qd 4h 2c]
+Seat 1: FERNANDO428 (button) folded before Flop (didn't bet)
+Seat 2: asdabelle (small blind) folded before Flop
+Seat 3: barbanera777 (big blind) folded before Flop
+Seat 4: Synapture42 folded on the Flop
+Seat 5: waaaaaaaa folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded on the Flop
+Seat 9: aleas181 collected ($0.20)
+
+
+
+PokerStars Hand #225848291167:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:04:31 PT [2021/04/14 22:04:31 ET]
+Table 'Botein III' 9-max Seat #2 is the button
+Seat 1: FERNANDO428 ($2.09 in chips) 
+Seat 2: asdabelle ($0.60 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: Synapture42 ($1.57 in chips) 
+Seat 5: waaaaaaaa ($2 in chips) 
+Seat 6: yaki469 ($1.42 in chips) 
+Seat 8: Dorex2007 ($2.34 in chips) 
+Seat 9: aleas181 ($1.99 in chips) 
+barbanera777: posts small blind $0.01
+Synapture42: posts big blind $0.02
+senhorbigodess: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 5c]
+waaaaaaaa: folds 
+yaki469: folds 
+Dorex2007: folds 
+aleas181: raises $0.09 to $0.11
+FERNANDO428: folds 
+asdabelle: folds 
+barbanera777: folds 
+Synapture42: raises $0.09 to $0.20
+aleas181: calls $0.09
+*** FLOP *** [Kd 6h 7h]
+Synapture42: bets $0.10
+aleas181: calls $0.10
+*** TURN *** [Kd 6h 7h] [3d]
+Synapture42: checks 
+aleas181: bets $0.29
+Synapture42: calls $0.29
+*** RIVER *** [Kd 6h 7h 3d] [8s]
+Synapture42: checks 
+aleas181: checks 
+*** SHOW DOWN ***
+Synapture42: shows [Qh Qd] (a pair of Queens)
+aleas181: shows [Jd Kh] (a pair of Kings)
+aleas181 collected $1.15 from pot
+*** SUMMARY ***
+Total pot $1.19 | Rake $0.04 
+Board [Kd 6h 7h 3d 8s]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: asdabelle (button) folded before Flop (didn't bet)
+Seat 3: barbanera777 (small blind) folded before Flop
+Seat 4: Synapture42 (big blind) showed [Qh Qd] and lost with a pair of Queens
+Seat 5: waaaaaaaa folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aleas181 showed [Jd Kh] and won ($1.15) with a pair of Kings
+
+
+
+PokerStars Hand #225848309506:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:05:39 PT [2021/04/14 22:05:39 ET]
+Table 'Botein III' 9-max Seat #3 is the button
+Seat 1: FERNANDO428 ($2.09 in chips) 
+Seat 2: asdabelle ($0.60 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: Synapture42 ($0.98 in chips) 
+Seat 5: waaaaaaaa ($2 in chips) 
+Seat 6: yaki469 ($1.42 in chips) 
+Seat 8: Dorex2007 ($2.34 in chips) 
+Seat 9: aleas181 ($2.55 in chips) 
+Synapture42: posts small blind $0.01
+waaaaaaaa: posts big blind $0.02
+senhorbigodess: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Kh]
+yaki469: calls $0.02
+Dorex2007: folds 
+aleas181: folds 
+FERNANDO428: folds 
+asdabelle: folds 
+barbanera777: folds 
+Synapture42: raises $0.02 to $0.04
+waaaaaaaa: folds 
+yaki469: calls $0.02
+*** FLOP *** [Td 2c Kc]
+Synapture42: bets $0.10
+yaki469: folds 
+Uncalled bet ($0.10) returned to Synapture42
+Synapture42 collected $0.10 from pot
+Synapture42: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Td 2c Kc]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: asdabelle folded before Flop (didn't bet)
+Seat 3: barbanera777 (button) folded before Flop (didn't bet)
+Seat 4: Synapture42 (small blind) collected ($0.10)
+Seat 5: waaaaaaaa (big blind) folded before Flop
+Seat 6: yaki469 folded on the Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aleas181 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848318739:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:06:14 PT [2021/04/14 22:06:14 ET]
+Table 'Botein III' 9-max Seat #4 is the button
+Seat 1: FERNANDO428 ($2.09 in chips) 
+Seat 2: asdabelle ($0.60 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: Synapture42 ($1.04 in chips) 
+Seat 5: waaaaaaaa ($2 in chips) 
+Seat 6: yaki469 ($1.38 in chips) 
+Seat 8: Dorex2007 ($2.34 in chips) 
+Seat 9: aleas181 ($2.55 in chips) 
+waaaaaaaa: posts small blind $0.01
+yaki469: posts big blind $0.02
+senhorbigodess: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Kc]
+Dorex2007: folds 
+aleas181: folds 
+FERNANDO428: folds 
+asdabelle: calls $0.02
+barbanera777: folds 
+Synapture42: folds 
+waaaaaaaa: raises $0.04 to $0.06
+yaki469: calls $0.04
+asdabelle: calls $0.04
+*** FLOP *** [As Ad Jc]
+waaaaaaaa: checks 
+yaki469: bets $0.09
+asdabelle: calls $0.09
+waaaaaaaa: folds 
+*** TURN *** [As Ad Jc] [2s]
+yaki469: bets $0.18
+asdabelle: calls $0.18
+*** RIVER *** [As Ad Jc 2s] [5c]
+yaki469: bets $0.35
+asdabelle: calls $0.27 and is all-in
+Uncalled bet ($0.08) returned to yaki469
+*** SHOW DOWN ***
+yaki469: shows [Js Jd] (a full house, Jacks full of Aces)
+asdabelle: shows [Kh Ac] (three of a kind, Aces)
+yaki469 collected $1.22 from pot
+*** SUMMARY ***
+Total pot $1.26 | Rake $0.04 
+Board [As Ad Jc 2s 5c]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: asdabelle showed [Kh Ac] and lost with three of a kind, Aces
+Seat 3: barbanera777 folded before Flop (didn't bet)
+Seat 4: Synapture42 (button) folded before Flop (didn't bet)
+Seat 5: waaaaaaaa (small blind) folded on the Flop
+Seat 6: yaki469 (big blind) showed [Js Jd] and won ($1.22) with a full house, Jacks full of Aces
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aleas181 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848334006:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:07:11 PT [2021/04/14 22:07:11 ET]
+Table 'Botein III' 9-max Seat #5 is the button
+Seat 1: FERNANDO428 ($2.09 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: Synapture42 ($1.04 in chips) 
+Seat 5: waaaaaaaa ($2 in chips) 
+Seat 6: yaki469 ($2 in chips) 
+Seat 7: senhorbigodess ($0.80 in chips) 
+Seat 8: Dorex2007 ($2.34 in chips) 
+Seat 9: aleas181 ($2.55 in chips) 
+yaki469: posts small blind $0.01
+senhorbigodess: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Ks]
+Dorex2007: folds 
+aleas181: folds 
+FERNANDO428: folds 
+barbanera777: raises $0.03 to $0.05
+Synapture42: folds 
+asdabelle leaves the table
+waaaaaaaa: calls $0.05
+yaki469: calls $0.04
+senhorbigodess: calls $0.03
+*** FLOP *** [7d 2h 3h]
+yaki469: checks 
+senhorbigodess: bets $0.10
+barbanera777: folds 
+waaaaaaaa: folds 
+yaki469: folds 
+Uncalled bet ($0.10) returned to senhorbigodess
+senhorbigodess collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [7d 2h 3h]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 3: barbanera777 folded on the Flop
+Seat 4: Synapture42 folded before Flop (didn't bet)
+Seat 5: waaaaaaaa (button) folded on the Flop
+Seat 6: yaki469 (small blind) folded on the Flop
+Seat 7: senhorbigodess (big blind) collected ($0.19)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aleas181 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848345941:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:07:55 PT [2021/04/14 22:07:55 ET]
+Table 'Botein III' 9-max Seat #6 is the button
+Seat 1: FERNANDO428 ($2.09 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: Synapture42 ($1.04 in chips) 
+Seat 5: waaaaaaaa ($2 in chips) 
+Seat 6: yaki469 ($1.95 in chips) 
+Seat 7: senhorbigodess ($0.94 in chips) 
+Seat 8: Dorex2007 ($2.34 in chips) 
+Seat 9: aleas181 ($2.55 in chips) 
+senhorbigodess: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Kc]
+aleas181: calls $0.02
+Halloqueen joins the table at seat #2 
+FERNANDO428: folds 
+barbanera777: folds 
+Synapture42: calls $0.02
+waaaaaaaa: calls $0.02
+yaki469: calls $0.02
+senhorbigodess: raises $0.04 to $0.06
+Dorex2007: calls $0.04
+aleas181: calls $0.04
+Synapture42: calls $0.04
+waaaaaaaa: calls $0.04
+yaki469: folds 
+*** FLOP *** [6d 5s 9s]
+senhorbigodess: checks 
+Dorex2007: checks 
+aleas181: checks 
+Synapture42: checks 
+waaaaaaaa: checks 
+*** TURN *** [6d 5s 9s] [3s]
+senhorbigodess: checks 
+Dorex2007: bets $0.31
+aleas181: folds 
+Synapture42: folds 
+waaaaaaaa: folds 
+senhorbigodess: folds 
+Uncalled bet ($0.31) returned to Dorex2007
+Dorex2007 collected $0.31 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [6d 5s 9s 3s]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 3: barbanera777 folded before Flop (didn't bet)
+Seat 4: Synapture42 folded on the Turn
+Seat 5: waaaaaaaa folded on the Turn
+Seat 6: yaki469 (button) folded before Flop
+Seat 7: senhorbigodess (small blind) folded on the Turn
+Seat 8: Dorex2007 (big blind) collected ($0.31)
+Seat 9: aleas181 folded on the Turn
+
+
+
+PokerStars Hand #225848373182:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:09:37 PT [2021/04/14 22:09:37 ET]
+Table 'Botein III' 9-max Seat #7 is the button
+Seat 1: FERNANDO428 ($2.09 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: Synapture42 ($0.98 in chips) 
+Seat 5: waaaaaaaa ($2 in chips) 
+Seat 6: yaki469 ($1.93 in chips) 
+Seat 7: senhorbigodess ($0.88 in chips) 
+Seat 8: Dorex2007 ($2.59 in chips) 
+Seat 9: aleas181 ($2.49 in chips) 
+Dorex2007: posts small blind $0.01
+aleas181: posts big blind $0.02
+Halloqueen: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 3h]
+FERNANDO428: folds 
+barbanera777: folds 
+Synapture42: folds 
+waaaaaaaa: folds 
+yaki469: folds 
+senhorbigodess: raises $0.05 to $0.07
+Dorex2007: folds 
+aleas181: calls $0.05
+*** FLOP *** [Qc Qs 8c]
+aleas181: checks 
+senhorbigodess: bets $0.14
+aleas181: folds 
+Uncalled bet ($0.14) returned to senhorbigodess
+senhorbigodess collected $0.14 from pot
+senhorbigodess: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qc Qs 8c]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 3: barbanera777 folded before Flop (didn't bet)
+Seat 4: Synapture42 folded before Flop (didn't bet)
+Seat 5: waaaaaaaa folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: senhorbigodess (button) collected ($0.14)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: aleas181 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #225848383545:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:10:16 PT [2021/04/14 22:10:16 ET]
+Table 'Botein III' 9-max Seat #8 is the button
+Seat 1: FERNANDO428 ($2.09 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: Synapture42 ($0.98 in chips) 
+Seat 5: waaaaaaaa ($2 in chips) 
+Seat 6: yaki469 ($1.93 in chips) 
+Seat 7: senhorbigodess ($0.95 in chips) 
+Seat 8: Dorex2007 ($2.58 in chips) 
+Seat 9: aleas181 ($2.42 in chips) 
+aleas181: posts small blind $0.01
+FERNANDO428: posts big blind $0.02
+Halloqueen: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 3h]
+barbanera777: folds 
+Synapture42: calls $0.02
+waaaaaaaa: folds 
+yaki469: calls $0.02
+senhorbigodess: folds 
+Dorex2007: folds 
+aleas181 has timed out
+aleas181: folds 
+FERNANDO428: checks 
+*** FLOP *** [Jh 7d 8d]
+FERNANDO428: checks 
+Synapture42: checks 
+yaki469: bets $0.02
+FERNANDO428: calls $0.02
+Synapture42: folds 
+*** TURN *** [Jh 7d 8d] [7s]
+FERNANDO428: checks 
+yaki469: bets $0.06
+FERNANDO428: folds 
+Uncalled bet ($0.06) returned to yaki469
+yaki469 collected $0.11 from pot
+yaki469: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Jh 7d 8d 7s]
+Seat 1: FERNANDO428 (big blind) folded on the Turn
+Seat 3: barbanera777 folded before Flop (didn't bet)
+Seat 4: Synapture42 folded on the Flop
+Seat 5: waaaaaaaa folded before Flop (didn't bet)
+Seat 6: yaki469 collected ($0.11)
+Seat 7: senhorbigodess folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: aleas181 (small blind) folded before Flop
+
+
+
+PokerStars Hand #225848413087:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:11:56 PT [2021/04/14 22:11:56 ET]
+Table 'Botein III' 9-max Seat #9 is the button
+Seat 1: FERNANDO428 ($2.05 in chips) 
+Seat 2: Halloqueen ($0.80 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: Synapture42 ($0.96 in chips) 
+Seat 5: waaaaaaaa ($2 in chips) 
+Seat 6: yaki469 ($2 in chips) 
+Seat 7: senhorbigodess ($0.95 in chips) 
+Seat 8: Dorex2007 ($2.58 in chips) 
+Seat 9: aleas181 ($2.41 in chips) 
+FERNANDO428: posts small blind $0.01
+Halloqueen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s Tc]
+barbanera777: folds 
+Synapture42: calls $0.02
+waaaaaaaa: raises $0.04 to $0.06
+yaki469: folds 
+senhorbigodess: folds 
+Dorex2007: folds 
+aleas181: folds 
+FERNANDO428: folds 
+Halloqueen: folds 
+Synapture42: folds 
+Uncalled bet ($0.04) returned to waaaaaaaa
+waaaaaaaa collected $0.07 from pot
+waaaaaaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: FERNANDO428 (small blind) folded before Flop
+Seat 2: Halloqueen (big blind) folded before Flop
+Seat 3: barbanera777 folded before Flop (didn't bet)
+Seat 4: Synapture42 folded before Flop
+Seat 5: waaaaaaaa collected ($0.07)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: senhorbigodess folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aleas181 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848425392:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:12:42 PT [2021/04/14 22:12:42 ET]
+Table 'Botein III' 9-max Seat #1 is the button
+Seat 1: FERNANDO428 ($2.04 in chips) 
+Seat 2: Halloqueen ($0.78 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: Synapture42 ($0.94 in chips) 
+Seat 5: waaaaaaaa ($2.05 in chips) 
+Seat 6: yaki469 ($2 in chips) 
+Seat 7: senhorbigodess ($0.95 in chips) 
+Seat 8: Dorex2007 ($2.58 in chips) 
+Seat 9: aleas181 ($2.41 in chips) 
+Halloqueen: posts small blind $0.01
+barbanera777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 7c]
+Synapture42: folds 
+waaaaaaaa: folds 
+yaki469: folds 
+senhorbigodess: folds 
+Dorex2007: folds 
+aleas181: folds 
+FERNANDO428: folds 
+Halloqueen: calls $0.01
+barbanera777: checks 
+*** FLOP *** [3d 7h 8s]
+Halloqueen: bets $0.02
+barbanera777: folds 
+Uncalled bet ($0.02) returned to Halloqueen
+Halloqueen collected $0.04 from pot
+Halloqueen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3d 7h 8s]
+Seat 1: FERNANDO428 (button) folded before Flop (didn't bet)
+Seat 2: Halloqueen (small blind) collected ($0.04)
+Seat 3: barbanera777 (big blind) folded on the Flop
+Seat 4: Synapture42 folded before Flop (didn't bet)
+Seat 5: waaaaaaaa folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: senhorbigodess folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aleas181 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848442011:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:13:31 PT [2021/04/14 22:13:31 ET]
+Table 'Botein III' 9-max Seat #2 is the button
+Seat 1: FERNANDO428 ($2.04 in chips) 
+Seat 2: Halloqueen ($0.80 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: Synapture42 ($0.94 in chips) 
+Seat 5: waaaaaaaa ($2.05 in chips) 
+Seat 6: yaki469 ($2 in chips) 
+Seat 7: senhorbigodess ($0.95 in chips) 
+Seat 8: Dorex2007 ($2.58 in chips) 
+Seat 9: aleas181 ($2.41 in chips) 
+barbanera777: posts small blind $0.01
+Synapture42: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 7h]
+waaaaaaaa: folds 
+yaki469: folds 
+senhorbigodess: folds 
+Dorex2007: calls $0.02
+aleas181: folds 
+FERNANDO428: folds 
+Halloqueen: folds 
+barbanera777: folds 
+Synapture42: raises $0.08 to $0.10
+Dorex2007: folds 
+Uncalled bet ($0.08) returned to Synapture42
+Synapture42 collected $0.05 from pot
+Synapture42: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: Halloqueen (button) folded before Flop (didn't bet)
+Seat 3: barbanera777 (small blind) folded before Flop
+Seat 4: Synapture42 (big blind) collected ($0.05)
+Seat 5: waaaaaaaa folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: senhorbigodess folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop
+Seat 9: aleas181 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848452165:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:14:09 PT [2021/04/14 22:14:09 ET]
+Table 'Botein III' 9-max Seat #3 is the button
+Seat 1: FERNANDO428 ($2.04 in chips) 
+Seat 2: Halloqueen ($0.80 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: Synapture42 ($0.97 in chips) 
+Seat 5: waaaaaaaa ($2.05 in chips) 
+Seat 6: yaki469 ($2 in chips) 
+Seat 7: senhorbigodess ($0.95 in chips) 
+Seat 8: Dorex2007 ($2.56 in chips) 
+Seat 9: aleas181 ($2.41 in chips) 
+Synapture42: posts small blind $0.01
+waaaaaaaa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 2s]
+yaki469: folds 
+senhorbigodess: folds 
+Dorex2007: folds 
+aleas181: folds 
+FERNANDO428: folds 
+Halloqueen: folds 
+barbanera777: raises $0.03 to $0.05
+Synapture42: folds 
+waaaaaaaa: raises $0.11 to $0.16
+barbanera777: calls $0.11
+*** FLOP *** [4d Ts Ks]
+waaaaaaaa: bets $0.22
+barbanera777: calls $0.22
+*** TURN *** [4d Ts Ks] [7d]
+waaaaaaaa: bets $0.58
+barbanera777: calls $0.58
+*** RIVER *** [4d Ts Ks 7d] [5h]
+waaaaaaaa: bets $1.09 and is all-in
+barbanera777: folds 
+Uncalled bet ($1.09) returned to waaaaaaaa
+waaaaaaaa collected $1.86 from pot
+waaaaaaaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.93 | Rake $0.07 
+Board [4d Ts Ks 7d 5h]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: Halloqueen folded before Flop (didn't bet)
+Seat 3: barbanera777 (button) folded on the River
+Seat 4: Synapture42 (small blind) folded before Flop
+Seat 5: waaaaaaaa (big blind) collected ($1.86)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: senhorbigodess folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aleas181 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848469965:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:15:17 PT [2021/04/14 22:15:17 ET]
+Table 'Botein III' 9-max Seat #4 is the button
+Seat 1: FERNANDO428 ($2.04 in chips) 
+Seat 2: Halloqueen ($0.80 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: Synapture42 ($0.96 in chips) 
+Seat 5: waaaaaaaa ($2.95 in chips) 
+Seat 6: yaki469 ($2 in chips) 
+Seat 7: senhorbigodess ($0.95 in chips) 
+Seat 8: Dorex2007 ($2.56 in chips) 
+Seat 9: aleas181 ($2.41 in chips) 
+waaaaaaaa: posts small blind $0.01
+yaki469: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 3d]
+senhorbigodess: folds 
+Dorex2007: folds 
+aleas181: calls $0.02
+FERNANDO428: calls $0.02
+Halloqueen: folds 
+barbanera777: folds 
+Synapture42: folds 
+waaaaaaaa: folds 
+yaki469: raises $0.04 to $0.06
+Synapture42 leaves the table
+aleas181 has timed out
+aleas181: folds 
+FERNANDO428: calls $0.04
+*** FLOP *** [Kc Jd 2h]
+yaki469: bets $0.07
+FERNANDO428: calls $0.07
+*** TURN *** [Kc Jd 2h] [9c]
+yaki469: bets $0.12
+FERNANDO428: calls $0.12
+*** RIVER *** [Kc Jd 2h 9c] [3c]
+yaki469: bets $0.14
+FERNANDO428: calls $0.14
+*** SHOW DOWN ***
+yaki469: shows [Kd Qd] (a pair of Kings)
+FERNANDO428: shows [Qh Ks] (a pair of Kings)
+yaki469 collected $0.39 from pot
+FERNANDO428 collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.81 | Rake $0.03 
+Board [Kc Jd 2h 9c 3c]
+Seat 1: FERNANDO428 showed [Qh Ks] and won ($0.39) with a pair of Kings
+Seat 2: Halloqueen folded before Flop (didn't bet)
+Seat 3: barbanera777 folded before Flop (didn't bet)
+Seat 4: Synapture42 (button) folded before Flop (didn't bet)
+Seat 5: waaaaaaaa (small blind) folded before Flop
+Seat 6: yaki469 (big blind) showed [Kd Qd] and won ($0.39) with a pair of Kings
+Seat 7: senhorbigodess folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aleas181 folded before Flop
+
+
+
+PokerStars Hand #225848505423:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:16:56 PT [2021/04/14 22:16:56 ET]
+Table 'Botein III' 9-max Seat #5 is the button
+Seat 1: FERNANDO428 ($2.04 in chips) 
+Seat 2: Halloqueen ($0.80 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 5: waaaaaaaa ($2.94 in chips) 
+Seat 6: yaki469 ($2 in chips) 
+Seat 7: senhorbigodess ($0.95 in chips) 
+Seat 8: Dorex2007 ($2.56 in chips) 
+Seat 9: aleas181 ($2.39 in chips) 
+yaki469: posts small blind $0.01
+senhorbigodess: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Qs]
+Dorex2007: folds 
+aleas181: calls $0.02
+FERNANDO428: folds 
+Halloqueen: folds 
+barbanera777: folds 
+waaaaaaaa: folds 
+yaki469: folds 
+senhorbigodess: checks 
+*** FLOP *** [5c 9s Jh]
+senhorbigodess: checks 
+aleas181: checks 
+*** TURN *** [5c 9s Jh] [6s]
+senhorbigodess: bets $0.03
+aleas181: raises $0.11 to $0.14
+SocratiesDog joins the table at seat #4 
+senhorbigodess: calls $0.11
+*** RIVER *** [5c 9s Jh 6s] [Kd]
+senhorbigodess: checks 
+aleas181: bets $0.32
+senhorbigodess: folds 
+Uncalled bet ($0.32) returned to aleas181
+aleas181 collected $0.32 from pot
+aleas181: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [5c 9s Jh 6s Kd]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: Halloqueen folded before Flop (didn't bet)
+Seat 3: barbanera777 folded before Flop (didn't bet)
+Seat 5: waaaaaaaa (button) folded before Flop (didn't bet)
+Seat 6: yaki469 (small blind) folded before Flop
+Seat 7: senhorbigodess (big blind) folded on the River
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aleas181 collected ($0.32)
+
+
+
+PokerStars Hand #225848523141:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:18:04 PT [2021/04/14 22:18:04 ET]
+Table 'Botein III' 9-max Seat #6 is the button
+Seat 1: FERNANDO428 ($2.04 in chips) 
+Seat 2: Halloqueen ($0.80 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 5: waaaaaaaa ($2.94 in chips) 
+Seat 6: yaki469 ($1.99 in chips) 
+Seat 7: senhorbigodess ($0.79 in chips) 
+Seat 8: Dorex2007 ($2.56 in chips) 
+Seat 9: aleas181 ($2.55 in chips) 
+senhorbigodess: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+SocratiesDog: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 6h]
+aleas181: calls $0.02
+FERNANDO428: folds 
+Halloqueen: folds 
+barbanera777: folds 
+waaaaaaaa: folds 
+yaki469: folds 
+senhorbigodess: folds 
+Dorex2007: checks 
+*** FLOP *** [Kd Jd 7h]
+Dorex2007: checks 
+aleas181: checks 
+*** TURN *** [Kd Jd 7h] [8c]
+Dorex2007: checks 
+aleas181: checks 
+*** RIVER *** [Kd Jd 7h 8c] [7d]
+Dorex2007: checks 
+aleas181: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [Qs 6h] (a pair of Sevens)
+aleas181: mucks hand 
+Dorex2007 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kd Jd 7h 8c 7d]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: Halloqueen folded before Flop (didn't bet)
+Seat 3: barbanera777 folded before Flop (didn't bet)
+Seat 5: waaaaaaaa folded before Flop (didn't bet)
+Seat 6: yaki469 (button) folded before Flop (didn't bet)
+Seat 7: senhorbigodess (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) showed [Qs 6h] and won ($0.05) with a pair of Sevens
+Seat 9: aleas181 mucked [4d 5s]
+
+
+
+PokerStars Hand #225848540864:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:19:12 PT [2021/04/14 22:19:12 ET]
+Table 'Botein III' 9-max Seat #7 is the button
+Seat 1: FERNANDO428 ($2.04 in chips) 
+Seat 2: Halloqueen ($0.80 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: SocratiesDog ($1.60 in chips) 
+Seat 5: waaaaaaaa ($2.94 in chips) 
+Seat 6: yaki469 ($1.99 in chips) 
+Seat 7: senhorbigodess ($0.78 in chips) 
+Seat 8: Dorex2007 ($2.59 in chips) 
+Seat 9: aleas181 ($2.53 in chips) 
+Dorex2007: posts small blind $0.01
+aleas181: posts big blind $0.02
+SocratiesDog: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Qc]
+FERNANDO428: folds 
+Halloqueen: calls $0.02
+barbanera777: folds 
+SocratiesDog: checks 
+waaaaaaaa: folds 
+yaki469: calls $0.02
+senhorbigodess: folds 
+Dorex2007: calls $0.01
+aleas181: checks 
+*** FLOP *** [5h Kc 8d]
+Dorex2007: checks 
+aleas181: bets $0.05
+Halloqueen: folds 
+SocratiesDog: calls $0.05
+yaki469: folds 
+Dorex2007: folds 
+*** TURN *** [5h Kc 8d] [Ac]
+aleas181: bets $0.08
+SocratiesDog: raises $0.08 to $0.16
+aleas181: folds 
+Uncalled bet ($0.08) returned to SocratiesDog
+SocratiesDog collected $0.35 from pot
+SocratiesDog: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [5h Kc 8d Ac]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: Halloqueen folded on the Flop
+Seat 3: barbanera777 folded before Flop (didn't bet)
+Seat 4: SocratiesDog collected ($0.35)
+Seat 5: waaaaaaaa folded before Flop (didn't bet)
+Seat 6: yaki469 folded on the Flop
+Seat 7: senhorbigodess (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded on the Flop
+Seat 9: aleas181 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #225848570172:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:20:51 PT [2021/04/14 22:20:51 ET]
+Table 'Botein III' 9-max Seat #8 is the button
+Seat 1: FERNANDO428 ($2.04 in chips) 
+Seat 2: Halloqueen ($0.78 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: SocratiesDog ($1.80 in chips) 
+Seat 5: waaaaaaaa ($2.94 in chips) 
+Seat 6: yaki469 ($1.97 in chips) 
+Seat 7: senhorbigodess ($0.78 in chips) 
+Seat 8: Dorex2007 ($2.57 in chips) 
+Seat 9: aleas181 ($2.38 in chips) 
+aleas181: posts small blind $0.01
+FERNANDO428: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 4s]
+Halloqueen: folds 
+barbanera777: folds 
+SocratiesDog: raises $0.02 to $0.04
+waaaaaaaa: folds 
+yaki469: folds 
+senhorbigodess: folds 
+Dorex2007: folds 
+aleas181: calls $0.03
+FERNANDO428: folds 
+*** FLOP *** [5c 2h 2c]
+aleas181: checks 
+SocratiesDog: bets $0.02
+aleas181: raises $0.14 to $0.16
+SocratiesDog: folds 
+Uncalled bet ($0.14) returned to aleas181
+aleas181 collected $0.14 from pot
+aleas181: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [5c 2h 2c]
+Seat 1: FERNANDO428 (big blind) folded before Flop
+Seat 2: Halloqueen folded before Flop (didn't bet)
+Seat 3: barbanera777 folded before Flop (didn't bet)
+Seat 4: SocratiesDog folded on the Flop
+Seat 5: waaaaaaaa folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: senhorbigodess folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: aleas181 (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #225848584303:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:21:45 PT [2021/04/14 22:21:45 ET]
+Table 'Botein III' 9-max Seat #9 is the button
+Seat 1: FERNANDO428 ($2.02 in chips) 
+Seat 2: Halloqueen ($0.78 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: SocratiesDog ($1.74 in chips) 
+Seat 5: waaaaaaaa ($2.94 in chips) 
+Seat 6: yaki469 ($1.97 in chips) 
+Seat 7: senhorbigodess ($0.78 in chips) 
+Seat 8: Dorex2007 ($2.57 in chips) 
+Seat 9: aleas181 ($2.46 in chips) 
+FERNANDO428: posts small blind $0.01
+Halloqueen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Kd]
+barbanera777: folds 
+SocratiesDog: folds 
+waaaaaaaa: folds 
+yaki469: raises $0.04 to $0.06
+senhorbigodess: folds 
+Dorex2007: folds 
+aleas181: calls $0.06
+FERNANDO428: folds 
+Halloqueen: folds 
+*** FLOP *** [6s 9s Td]
+yaki469: checks 
+aleas181: checks 
+*** TURN *** [6s 9s Td] [3s]
+yaki469: bets $0.06
+aleas181: raises $0.06 to $0.12
+yaki469: calls $0.06
+*** RIVER *** [6s 9s Td 3s] [6d]
+yaki469: checks 
+aleas181: bets $0.38
+yaki469: folds 
+Uncalled bet ($0.38) returned to aleas181
+aleas181 collected $0.38 from pot
+aleas181: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [6s 9s Td 3s 6d]
+Seat 1: FERNANDO428 (small blind) folded before Flop
+Seat 2: Halloqueen (big blind) folded before Flop
+Seat 3: barbanera777 folded before Flop (didn't bet)
+Seat 4: SocratiesDog folded before Flop (didn't bet)
+Seat 5: waaaaaaaa folded before Flop (didn't bet)
+Seat 6: yaki469 folded on the River
+Seat 7: senhorbigodess folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aleas181 (button) collected ($0.38)
+
+
+
+PokerStars Hand #225848598163:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:22:39 PT [2021/04/14 22:22:39 ET]
+Table 'Botein III' 9-max Seat #1 is the button
+Seat 1: FERNANDO428 ($2.01 in chips) 
+Seat 2: Halloqueen ($0.76 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: SocratiesDog ($1.74 in chips) 
+Seat 5: waaaaaaaa ($2.94 in chips) 
+Seat 6: yaki469 ($1.79 in chips) 
+Seat 7: senhorbigodess ($0.78 in chips) 
+Seat 8: Dorex2007 ($2.57 in chips) 
+Seat 9: aleas181 ($2.66 in chips) 
+Halloqueen: posts small blind $0.01
+barbanera777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 3c]
+SocratiesDog: folds 
+waaaaaaaa: folds 
+yaki469: folds 
+senhorbigodess: folds 
+Dorex2007: folds 
+aleas181: calls $0.02
+FERNANDO428: folds 
+Halloqueen: raises $0.04 to $0.06
+barbanera777: folds 
+aleas181: calls $0.04
+*** FLOP *** [Kd Ac 2d]
+Halloqueen: bets $0.07
+aleas181: calls $0.07
+*** TURN *** [Kd Ac 2d] [5s]
+Halloqueen: bets $0.06
+aleas181: calls $0.06
+*** RIVER *** [Kd Ac 2d 5s] [8d]
+Halloqueen: checks 
+aleas181: checks 
+*** SHOW DOWN ***
+Halloqueen: shows [9h 9d] (a pair of Nines)
+aleas181: shows [Kh 3h] (a pair of Kings)
+aleas181 collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [Kd Ac 2d 5s 8d]
+Seat 1: FERNANDO428 (button) folded before Flop (didn't bet)
+Seat 2: Halloqueen (small blind) showed [9h 9d] and lost with a pair of Nines
+Seat 3: barbanera777 (big blind) folded before Flop
+Seat 4: SocratiesDog folded before Flop (didn't bet)
+Seat 5: waaaaaaaa folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: senhorbigodess folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aleas181 showed [Kh 3h] and won ($0.39) with a pair of Kings
+
+
+
+PokerStars Hand #225848610970:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:23:29 PT [2021/04/14 22:23:29 ET]
+Table 'Botein III' 9-max Seat #2 is the button
+Seat 1: FERNANDO428 ($2.01 in chips) 
+Seat 2: Halloqueen ($0.57 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: SocratiesDog ($1.74 in chips) 
+Seat 5: waaaaaaaa ($2.94 in chips) 
+Seat 6: yaki469 ($1.79 in chips) 
+Seat 7: senhorbigodess ($0.78 in chips) 
+Seat 8: Dorex2007 ($2.57 in chips) 
+Seat 9: aleas181 ($2.86 in chips) 
+barbanera777: posts small blind $0.01
+SocratiesDog: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 6c]
+waaaaaaaa: folds 
+yaki469: folds 
+senhorbigodess: folds 
+Dorex2007: folds 
+aleas181: folds 
+FERNANDO428: folds 
+Halloqueen: folds 
+barbanera777: raises $0.03 to $0.05
+SocratiesDog: calls $0.03
+*** FLOP *** [3d 4c As]
+barbanera777: checks 
+SocratiesDog: bets $0.02
+barbanera777: folds 
+Uncalled bet ($0.02) returned to SocratiesDog
+SocratiesDog collected $0.10 from pot
+SocratiesDog: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [3d 4c As]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: Halloqueen (button) folded before Flop (didn't bet)
+Seat 3: barbanera777 (small blind) folded on the Flop
+Seat 4: SocratiesDog (big blind) collected ($0.10)
+Seat 5: waaaaaaaa folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: senhorbigodess folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aleas181 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848619763:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:24:04 PT [2021/04/14 22:24:04 ET]
+Table 'Botein III' 9-max Seat #3 is the button
+Seat 1: FERNANDO428 ($2.01 in chips) 
+Seat 2: Halloqueen ($0.57 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: SocratiesDog ($1.79 in chips) 
+Seat 5: waaaaaaaa ($2.94 in chips) 
+Seat 6: yaki469 ($1.79 in chips) 
+Seat 7: senhorbigodess ($0.78 in chips) 
+Seat 8: Dorex2007 ($2.57 in chips) 
+Seat 9: aleas181 ($2.86 in chips) 
+SocratiesDog: posts small blind $0.01
+waaaaaaaa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 8s]
+yaki469: folds 
+senhorbigodess: calls $0.02
+Dorex2007: folds 
+aleas181: calls $0.02
+FERNANDO428: folds 
+Halloqueen: folds 
+barbanera777: folds 
+SocratiesDog: raises $0.02 to $0.04
+waaaaaaaa: folds 
+senhorbigodess: calls $0.02
+aleas181: calls $0.02
+*** FLOP *** [5c Th As]
+SocratiesDog: bets $0.02
+senhorbigodess: raises $0.02 to $0.04
+aleas181: folds 
+SocratiesDog: folds 
+Uncalled bet ($0.02) returned to senhorbigodess
+senhorbigodess collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [5c Th As]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: Halloqueen folded before Flop (didn't bet)
+Seat 3: barbanera777 (button) folded before Flop (didn't bet)
+Seat 4: SocratiesDog (small blind) folded on the Flop
+Seat 5: waaaaaaaa (big blind) folded before Flop
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: senhorbigodess collected ($0.17)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aleas181 folded on the Flop
+
+
+
+PokerStars Hand #225848633906:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:24:59 PT [2021/04/14 22:24:59 ET]
+Table 'Botein III' 9-max Seat #4 is the button
+Seat 1: FERNANDO428 ($2.01 in chips) 
+Seat 2: Halloqueen ($0.57 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: SocratiesDog ($1.73 in chips) 
+Seat 6: yaki469 ($1.79 in chips) 
+Seat 7: senhorbigodess ($0.89 in chips) 
+Seat 8: Dorex2007 ($2.57 in chips) 
+Seat 9: aleas181 ($2.82 in chips) 
+yaki469: posts small blind $0.01
+senhorbigodess: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Kd]
+Dorex2007: folds 
+aleas181: calls $0.02
+FERNANDO428: folds 
+Halloqueen: folds 
+barbanera777: folds 
+SocratiesDog: calls $0.02
+yaki469: calls $0.01
+senhorbigodess: checks 
+*** FLOP *** [Js 3c Qc]
+yaki469: bets $0.02
+senhorbigodess: folds 
+aleas181: calls $0.02
+SocratiesDog: folds 
+*** TURN *** [Js 3c Qc] [Kh]
+yaki469: bets $0.02
+aleas181: calls $0.02
+*** RIVER *** [Js 3c Qc Kh] [5d]
+yaki469: bets $0.04
+aleas181: raises $0.23 to $0.27
+yaki469: folds 
+Uncalled bet ($0.23) returned to aleas181
+aleas181 collected $0.23 from pot
+aleas181: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Js 3c Qc Kh 5d]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: Halloqueen folded before Flop (didn't bet)
+Seat 3: barbanera777 folded before Flop (didn't bet)
+Seat 4: SocratiesDog (button) folded on the Flop
+Seat 6: yaki469 (small blind) folded on the River
+Seat 7: senhorbigodess (big blind) folded on the Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aleas181 collected ($0.23)
+
+
+
+PokerStars Hand #225848646505:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:25:48 PT [2021/04/14 22:25:48 ET]
+Table 'Botein III' 9-max Seat #6 is the button
+Seat 1: FERNANDO428 ($2.01 in chips) 
+Seat 2: Halloqueen ($0.57 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: SocratiesDog ($1.71 in chips) 
+Seat 6: yaki469 ($1.69 in chips) 
+Seat 7: senhorbigodess ($0.87 in chips) 
+Seat 8: Dorex2007 ($2.57 in chips) 
+Seat 9: aleas181 ($2.95 in chips) 
+senhorbigodess: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 7h]
+aleas181: raises $0.02 to $0.04
+FERNANDO428: folds 
+Halloqueen: raises $0.02 to $0.06
+barbanera777: folds 
+SocratiesDog: folds 
+yaki469: folds 
+senhorbigodess: calls $0.05
+Dorex2007: folds 
+aleas181: calls $0.02
+*** FLOP *** [Qd 2s 8h]
+senhorbigodess: checks 
+aleas181: checks 
+Halloqueen: checks 
+*** TURN *** [Qd 2s 8h] [Jc]
+senhorbigodess: bets $0.02
+aleas181: raises $0.23 to $0.25
+Halloqueen: folds 
+senhorbigodess: calls $0.23
+*** RIVER *** [Qd 2s 8h Jc] [5d]
+senhorbigodess: checks 
+aleas181: checks 
+*** SHOW DOWN ***
+senhorbigodess: shows [Jh Ks] (a pair of Jacks)
+aleas181: shows [Jd Kd] (a pair of Jacks)
+senhorbigodess collected $0.34 from pot
+aleas181 collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.02 
+Board [Qd 2s 8h Jc 5d]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: Halloqueen folded on the Turn
+Seat 3: barbanera777 folded before Flop (didn't bet)
+Seat 4: SocratiesDog folded before Flop (didn't bet)
+Seat 6: yaki469 (button) folded before Flop (didn't bet)
+Seat 7: senhorbigodess (small blind) showed [Jh Ks] and won ($0.34) with a pair of Jacks
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: aleas181 showed [Jd Kd] and won ($0.34) with a pair of Jacks
+
+
+
+PokerStars Hand #225848661370:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:26:47 PT [2021/04/14 22:26:47 ET]
+Table 'Botein III' 9-max Seat #7 is the button
+Seat 1: FERNANDO428 ($2.01 in chips) 
+Seat 2: Halloqueen ($0.51 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: SocratiesDog ($1.71 in chips) 
+Seat 6: yaki469 ($1.69 in chips) 
+Seat 7: senhorbigodess ($0.90 in chips) 
+Seat 8: Dorex2007 ($2.55 in chips) 
+Seat 9: aleas181 ($2.98 in chips) 
+Dorex2007: posts small blind $0.01
+aleas181: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 5h]
+FERNANDO428 has timed out
+FERNANDO428: folds 
+Halloqueen: calls $0.02
+barbanera777: folds 
+SocratiesDog: folds 
+yaki469: calls $0.02
+senhorbigodess: folds 
+Dorex2007: calls $0.01
+aleas181: checks 
+*** FLOP *** [9h Kh 3h]
+Dorex2007: bets $0.08
+aleas181 has timed out
+aleas181: folds 
+Halloqueen: folds 
+yaki469: folds 
+Uncalled bet ($0.08) returned to Dorex2007
+Dorex2007 collected $0.08 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [9h Kh 3h]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: Halloqueen folded on the Flop
+Seat 3: barbanera777 folded before Flop (didn't bet)
+Seat 4: SocratiesDog folded before Flop (didn't bet)
+Seat 6: yaki469 folded on the Flop
+Seat 7: senhorbigodess (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) collected ($0.08)
+Seat 9: aleas181 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #225848678630:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:27:56 PT [2021/04/14 22:27:56 ET]
+Table 'Botein III' 9-max Seat #8 is the button
+Seat 1: FERNANDO428 ($2.01 in chips) 
+Seat 2: Halloqueen ($0.49 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: SocratiesDog ($1.71 in chips) 
+Seat 6: yaki469 ($1.67 in chips) 
+Seat 7: senhorbigodess ($0.90 in chips) 
+Seat 8: Dorex2007 ($2.61 in chips) 
+FERNANDO428: posts small blind $0.01
+Halloqueen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Th]
+barbanera777: folds 
+SocratiesDog: calls $0.02
+yaki469: folds 
+senhorbigodess: folds 
+Dorex2007: folds 
+FERNANDO428: folds 
+Halloqueen: checks 
+*** FLOP *** [5d 5s 2h]
+Halloqueen: checks 
+SocratiesDog: bets $0.02
+Halloqueen: calls $0.02
+*** TURN *** [5d 5s 2h] [4c]
+Halloqueen: checks 
+SocratiesDog: bets $0.02
+Halloqueen: calls $0.02
+*** RIVER *** [5d 5s 2h 4c] [5c]
+Halloqueen: checks 
+SocratiesDog: bets $0.02
+Halloqueen: calls $0.02
+*** SHOW DOWN ***
+SocratiesDog: shows [Qh 9h] (three of a kind, Fives)
+Halloqueen: shows [6s As] (three of a kind, Fives - Ace kicker)
+Halloqueen collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [5d 5s 2h 4c 5c]
+Seat 1: FERNANDO428 (small blind) folded before Flop
+Seat 2: Halloqueen (big blind) showed [6s As] and won ($0.16) with three of a kind, Fives
+Seat 3: barbanera777 folded before Flop (didn't bet)
+Seat 4: SocratiesDog showed [Qh 9h] and lost with three of a kind, Fives
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: senhorbigodess folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848689685:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:28:40 PT [2021/04/14 22:28:40 ET]
+Table 'Botein III' 9-max Seat #1 is the button
+Seat 1: FERNANDO428 ($2 in chips) 
+Seat 2: Halloqueen ($0.57 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: SocratiesDog ($1.63 in chips) 
+Seat 6: yaki469 ($1.67 in chips) 
+Seat 7: senhorbigodess ($0.90 in chips) 
+Seat 8: Dorex2007 ($2.61 in chips) 
+Halloqueen: posts small blind $0.01
+barbanera777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 4c]
+SocratiesDog: folds 
+yaki469: folds 
+senhorbigodess: folds 
+Dorex2007: folds 
+FERNANDO428: folds 
+Halloqueen: raises $0.04 to $0.06
+barbanera777: calls $0.04
+*** FLOP *** [6s Kc Ah]
+Halloqueen: checks 
+barbanera777: checks 
+*** TURN *** [6s Kc Ah] [Js]
+Halloqueen: checks 
+barbanera777: checks 
+*** RIVER *** [6s Kc Ah Js] [4d]
+Halloqueen: checks 
+barbanera777: checks 
+*** SHOW DOWN ***
+Halloqueen: shows [5h 4h] (a pair of Fours)
+barbanera777: shows [Kh 9c] (a pair of Kings)
+barbanera777 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [6s Kc Ah Js 4d]
+Seat 1: FERNANDO428 (button) folded before Flop (didn't bet)
+Seat 2: Halloqueen (small blind) showed [5h 4h] and lost with a pair of Fours
+Seat 3: barbanera777 (big blind) showed [Kh 9c] and won ($0.12) with a pair of Kings
+Seat 4: SocratiesDog folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: senhorbigodess folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848707018:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:29:36 PT [2021/04/14 22:29:36 ET]
+Table 'Botein III' 9-max Seat #2 is the button
+Seat 1: FERNANDO428 ($2 in chips) 
+Seat 2: Halloqueen ($0.51 in chips) 
+Seat 3: barbanera777 ($2.06 in chips) 
+Seat 4: SocratiesDog ($1.63 in chips) 
+Seat 6: yaki469 ($1.67 in chips) 
+Seat 7: senhorbigodess ($0.90 in chips) 
+Seat 8: Dorex2007 ($2.61 in chips) 
+barbanera777: posts small blind $0.01
+SocratiesDog: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Jd]
+yaki469: folds 
+senhorbigodess: folds 
+Dorex2007: folds 
+FERNANDO428: folds 
+Halloqueen: folds 
+barbanera777: folds 
+Uncalled bet ($0.01) returned to SocratiesDog
+SocratiesDog collected $0.02 from pot
+SocratiesDog: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: Halloqueen (button) folded before Flop (didn't bet)
+Seat 3: barbanera777 (small blind) folded before Flop
+Seat 4: SocratiesDog (big blind) collected ($0.02)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: senhorbigodess folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848713810:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:30:03 PT [2021/04/14 22:30:03 ET]
+Table 'Botein III' 9-max Seat #3 is the button
+Seat 1: FERNANDO428 ($2 in chips) 
+Seat 2: Halloqueen ($0.51 in chips) 
+Seat 3: barbanera777 ($2.05 in chips) 
+Seat 4: SocratiesDog ($1.64 in chips) 
+Seat 6: yaki469 ($1.67 in chips) 
+Seat 7: senhorbigodess ($0.90 in chips) 
+Seat 8: Dorex2007 ($2.61 in chips) 
+SocratiesDog: posts small blind $0.01
+yaki469: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 4c]
+senhorbigodess: folds 
+Dorex2007: folds 
+FERNANDO428: calls $0.02
+Halloqueen: calls $0.02
+barbanera777: calls $0.02
+SocratiesDog: raises $0.02 to $0.04
+yaki469: folds 
+FERNANDO428: calls $0.02
+Halloqueen: folds 
+barbanera777: calls $0.02
+*** FLOP *** [Js 7h 6d]
+SocratiesDog: bets $0.02
+FERNANDO428: folds 
+barbanera777: calls $0.02
+*** TURN *** [Js 7h 6d] [Jd]
+SocratiesDog: bets $0.02
+barbanera777: calls $0.02
+*** RIVER *** [Js 7h 6d Jd] [5c]
+SocratiesDog: bets $0.02
+barbanera777: folds 
+Uncalled bet ($0.02) returned to SocratiesDog
+SocratiesDog collected $0.23 from pot
+SocratiesDog: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Js 7h 6d Jd 5c]
+Seat 1: FERNANDO428 folded on the Flop
+Seat 2: Halloqueen folded before Flop
+Seat 3: barbanera777 (button) folded on the River
+Seat 4: SocratiesDog (small blind) collected ($0.23)
+Seat 6: yaki469 (big blind) folded before Flop
+Seat 7: senhorbigodess folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848727263:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:30:57 PT [2021/04/14 22:30:57 ET]
+Table 'Botein III' 9-max Seat #4 is the button
+Seat 1: FERNANDO428 ($1.96 in chips) 
+Seat 2: Halloqueen ($0.49 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: SocratiesDog ($1.79 in chips) 
+Seat 6: yaki469 ($1.65 in chips) 
+Seat 7: senhorbigodess ($0.90 in chips) 
+Seat 8: Dorex2007 ($2.61 in chips) 
+yaki469: posts small blind $0.01
+senhorbigodess: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 4h]
+Dorex2007: folds 
+FERNANDO428: folds 
+Halloqueen: folds 
+barbanera777: folds 
+SocratiesDog: calls $0.02
+yaki469: folds 
+senhorbigodess: checks 
+*** FLOP *** [6h 7d 7s]
+senhorbigodess: checks 
+SocratiesDog: bets $0.02
+senhorbigodess: folds 
+Uncalled bet ($0.02) returned to SocratiesDog
+SocratiesDog collected $0.05 from pot
+SocratiesDog: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6h 7d 7s]
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: Halloqueen folded before Flop (didn't bet)
+Seat 3: barbanera777 folded before Flop (didn't bet)
+Seat 4: SocratiesDog (button) collected ($0.05)
+Seat 6: yaki469 (small blind) folded before Flop
+Seat 7: senhorbigodess (big blind) folded on the Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848733594:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:31:23 PT [2021/04/14 22:31:23 ET]
+Table 'Botein III' 9-max Seat #6 is the button
+Seat 1: FERNANDO428 ($1.96 in chips) 
+Seat 2: Halloqueen ($0.49 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: SocratiesDog ($1.82 in chips) 
+Seat 6: yaki469 ($1.64 in chips) 
+Seat 7: senhorbigodess ($0.88 in chips) 
+Seat 8: Dorex2007 ($2.61 in chips) 
+senhorbigodess: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 8h]
+FERNANDO428: folds 
+Halloqueen: folds 
+barbanera777: folds 
+SocratiesDog: folds 
+yaki469: folds 
+senhorbigodess: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: Halloqueen folded before Flop (didn't bet)
+Seat 3: barbanera777 folded before Flop (didn't bet)
+Seat 4: SocratiesDog folded before Flop (didn't bet)
+Seat 6: yaki469 (button) folded before Flop (didn't bet)
+Seat 7: senhorbigodess (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #225848738467:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:31:42 PT [2021/04/14 22:31:42 ET]
+Table 'Botein III' 9-max Seat #7 is the button
+Seat 1: FERNANDO428 ($1.96 in chips) 
+Seat 2: Halloqueen ($0.49 in chips) 
+Seat 3: barbanera777 ($2 in chips) 
+Seat 4: SocratiesDog ($1.82 in chips) 
+Seat 6: yaki469 ($1.64 in chips) 
+Seat 7: senhorbigodess ($0.87 in chips) 
+Seat 8: Dorex2007 ($2.62 in chips) 
+Dorex2007: posts small blind $0.01
+FERNANDO428: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 6s]
+Halloqueen: folds 
+barbanera777: raises $0.03 to $0.05
+SocratiesDog: folds 
+yaki469: folds 
+senhorbigodess: calls $0.05
+Dorex2007: folds 
+FERNANDO428: folds 
+*** FLOP *** [7s 7c Kd]
+barbanera777: checks 
+senhorbigodess: checks 
+*** TURN *** [7s 7c Kd] [Ah]
+barbanera777: checks 
+senhorbigodess: checks 
+*** RIVER *** [7s 7c Kd Ah] [4d]
+barbanera777: bets $0.04
+senhorbigodess: folds 
+Uncalled bet ($0.04) returned to barbanera777
+barbanera777 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [7s 7c Kd Ah 4d]
+Seat 1: FERNANDO428 (big blind) folded before Flop
+Seat 2: Halloqueen folded before Flop (didn't bet)
+Seat 3: barbanera777 collected ($0.13)
+Seat 4: SocratiesDog folded before Flop (didn't bet)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: senhorbigodess (button) folded on the River
+Seat 8: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #225848755701:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:32:21 PT [2021/04/14 22:32:21 ET]
+Table 'Botein III' 9-max Seat #8 is the button
+Seat 1: FERNANDO428 ($1.94 in chips) 
+Seat 2: Halloqueen ($0.49 in chips) 
+Seat 3: barbanera777 ($2.08 in chips) 
+Seat 4: SocratiesDog ($1.82 in chips) 
+Seat 6: yaki469 ($1.64 in chips) 
+Seat 7: senhorbigodess ($0.82 in chips) 
+Seat 8: Dorex2007 ($2.61 in chips) 
+FERNANDO428: posts small blind $0.01
+Halloqueen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Js]
+barbanera777: folds 
+SocratiesDog: calls $0.02
+yaki469: folds 
+senhorbigodess: folds 
+Dorex2007: folds 
+FERNANDO428: folds 
+Halloqueen: checks 
+*** FLOP *** [Jd 8h 9s]
+Halloqueen: checks 
+SocratiesDog: bets $0.02
+Halloqueen: calls $0.02
+*** TURN *** [Jd 8h 9s] [Jc]
+Halloqueen: bets $0.05
+SocratiesDog: folds 
+Uncalled bet ($0.05) returned to Halloqueen
+Halloqueen collected $0.09 from pot
+Halloqueen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Jd 8h 9s Jc]
+Seat 1: FERNANDO428 (small blind) folded before Flop
+Seat 2: Halloqueen (big blind) collected ($0.09)
+Seat 3: barbanera777 folded before Flop (didn't bet)
+Seat 4: SocratiesDog folded on the Turn
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: senhorbigodess folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #225848764057:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:32:55 PT [2021/04/14 22:32:55 ET]
+Table 'Botein III' 9-max Seat #1 is the button
+Seat 1: FERNANDO428 ($1.93 in chips) 
+Seat 2: Halloqueen ($0.54 in chips) 
+Seat 3: barbanera777 ($2.08 in chips) 
+Seat 4: SocratiesDog ($1.78 in chips) 
+Seat 6: yaki469 ($1.64 in chips) 
+Seat 7: senhorbigodess ($0.82 in chips) 
+Seat 8: Dorex2007 ($2.61 in chips) 
+Halloqueen: posts small blind $0.01
+barbanera777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 8c]
+SocratiesDog: calls $0.02
+yaki469: folds 
+aleas181 is disconnected 
+senhorbigodess: folds 
+Dorex2007: raises $0.04 to $0.06
+FERNANDO428: folds 
+Halloqueen: folds 
+barbanera777: calls $0.04
+SocratiesDog: calls $0.04
+*** FLOP *** [Qc 6h 3c]
+barbanera777: checks 
+SocratiesDog: bets $0.02
+Dorex2007: raises $0.04 to $0.06
+barbanera777: folds 
+SocratiesDog: calls $0.04
+*** TURN *** [Qc 6h 3c] [7c]
+SocratiesDog: checks 
+Dorex2007: bets $0.15
+SocratiesDog: folds 
+Uncalled bet ($0.15) returned to Dorex2007
+Dorex2007 collected $0.30 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Qc 6h 3c 7c]
+Seat 1: FERNANDO428 (button) folded before Flop (didn't bet)
+Seat 2: Halloqueen (small blind) folded before Flop
+Seat 3: barbanera777 (big blind) folded on the Flop
+Seat 4: SocratiesDog folded on the Turn
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: senhorbigodess folded before Flop (didn't bet)
+Seat 8: Dorex2007 collected ($0.30)
+
+
+
+PokerStars Hand #225848781034:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/04/14 19:34:02 PT [2021/04/14 22:34:02 ET]
+Table 'Botein III' 9-max Seat #2 is the button
+Seat 1: FERNANDO428 ($1.93 in chips) 
+Seat 2: Halloqueen ($0.53 in chips) 
+Seat 3: barbanera777 ($2.02 in chips) 
+Seat 4: SocratiesDog ($1.66 in chips) 
+Seat 6: yaki469 ($1.64 in chips) 
+Seat 7: senhorbigodess ($0.82 in chips) 
+Seat 8: Dorex2007 ($2.79 in chips) 
+barbanera777: posts small blind $0.01
+SocratiesDog: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 4h]
+yaki469: folds 
+senhorbigodess: folds 
+Dorex2007: folds 
+FERNANDO428: folds 
+Halloqueen: folds 
+barbanera777: folds 
+Uncalled bet ($0.01) returned to SocratiesDog
+SocratiesDog collected $0.02 from pot
+SocratiesDog: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: FERNANDO428 folded before Flop (didn't bet)
+Seat 2: Halloqueen (button) folded before Flop (didn't bet)
+Seat 3: barbanera777 (small blind) folded before Flop
+Seat 4: SocratiesDog (big blind) collected ($0.02)
+Seat 6: yaki469 folded before Flop (didn't bet)
+Seat 7: senhorbigodess folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+

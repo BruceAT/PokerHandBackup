@@ -1,0 +1,5810 @@
+﻿PokerStars Hand #224338197942:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:00:29 PT [2021/03/01 0:00:29 ET]
+Table 'Pandarus' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($1.79 in chips) 
+Seat 2: buggspray ($1.72 in chips) 
+Seat 3: airdestiny ($2.59 in chips) 
+Seat 5: IgorBelov777 ($0.54 in chips) 
+Seat 6: anwizi ($7.85 in chips) 
+Seat 7: Jimshamar ($2.69 in chips) 
+Seat 8: zpxnjp21 ($2.59 in chips) 
+Seat 9: TOM.T1021 ($1.24 in chips) 
+buggspray: posts small blind $0.01
+airdestiny: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 4d]
+IgorBelov777: folds 
+anwizi: folds 
+Jimshamar: raises $0.03 to $0.05
+zpxnjp21: folds 
+TOM.T1021: folds 
+Dorex2007: folds 
+buggspray: calls $0.04
+airdestiny: folds 
+*** FLOP *** [Qs 7h Js]
+buggspray: checks 
+Jimshamar: bets $0.06
+buggspray: folds 
+Uncalled bet ($0.06) returned to Jimshamar
+Jimshamar collected $0.12 from pot
+Jimshamar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Qs 7h Js]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: buggspray (small blind) folded on the Flop
+Seat 3: airdestiny (big blind) folded before Flop
+Seat 5: IgorBelov777 folded before Flop (didn't bet)
+Seat 6: anwizi folded before Flop (didn't bet)
+Seat 7: Jimshamar collected ($0.12)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338205310:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:01:11 PT [2021/03/01 0:01:11 ET]
+Table 'Pandarus' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($1.79 in chips) 
+Seat 2: buggspray ($1.67 in chips) 
+Seat 3: airdestiny ($2.57 in chips) 
+Seat 5: IgorBelov777 ($0.54 in chips) 
+Seat 6: anwizi ($7.85 in chips) 
+Seat 7: Jimshamar ($2.76 in chips) 
+Seat 8: zpxnjp21 ($2.59 in chips) 
+Seat 9: TOM.T1021 ($1.24 in chips) 
+airdestiny: posts small blind $0.01
+IgorBelov777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 2h]
+anwizi: calls $0.02
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: calls $0.02
+Dorex2007: folds 
+buggspray: folds 
+airdestiny: folds 
+IgorBelov777: checks 
+*** FLOP *** [Td Kd 6d]
+IgorBelov777: checks 
+anwizi: checks 
+TOM.T1021: checks 
+*** TURN *** [Td Kd 6d] [2c]
+IgorBelov777: checks 
+anwizi: bets $0.07
+TOM.T1021: folds 
+IgorBelov777: calls $0.07
+*** RIVER *** [Td Kd 6d 2c] [7c]
+IgorBelov777: checks 
+anwizi: checks 
+*** SHOW DOWN ***
+IgorBelov777: shows [Ac 9d] (high card Ace)
+anwizi: shows [9c 9h] (a pair of Nines)
+anwizi collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Td Kd 6d 2c 7c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray (button) folded before Flop (didn't bet)
+Seat 3: airdestiny (small blind) folded before Flop
+Seat 5: IgorBelov777 (big blind) showed [Ac 9d] and lost with high card Ace
+Seat 6: anwizi showed [9c 9h] and won ($0.20) with a pair of Nines
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 folded on the Turn
+
+
+
+PokerStars Hand #224338216738:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:02:14 PT [2021/03/01 0:02:14 ET]
+Table 'Pandarus' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($1.79 in chips) 
+Seat 2: buggspray ($1.67 in chips) 
+Seat 3: airdestiny ($2.56 in chips) 
+Seat 5: IgorBelov777 ($0.45 in chips) 
+Seat 7: Jimshamar ($2.76 in chips) 
+Seat 8: zpxnjp21 ($2.59 in chips) 
+Seat 9: TOM.T1021 ($1.22 in chips) 
+IgorBelov777: posts small blind $0.01
+anwizi: is sitting out 
+Jimshamar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Tc]
+zpxnjp21: folds 
+TOM.T1021: folds 
+Dorex2007: raises $0.06 to $0.08
+buggspray: folds 
+anwizi leaves the table
+airdestiny: folds 
+IgorBelov777: folds 
+airdestiny leaves the table
+Jimshamar: raises $0.17 to $0.25
+Dorex2007: calls $0.17
+*** FLOP *** [Ks 5c 3c]
+Jimshamar: bets $0.33
+Dorex2007: folds 
+Uncalled bet ($0.33) returned to Jimshamar
+Jimshamar collected $0.49 from pot
+Jimshamar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [Ks 5c 3c]
+Seat 1: Dorex2007 folded on the Flop
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: airdestiny (button) folded before Flop (didn't bet)
+Seat 5: IgorBelov777 (small blind) folded before Flop
+Seat 7: Jimshamar (big blind) collected ($0.49)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338236900:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:04:08 PT [2021/03/01 0:04:08 ET]
+Table 'Pandarus' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($1.54 in chips) 
+Seat 2: buggspray ($1.67 in chips) 
+Seat 3: Ebisu 64 ($2 in chips) 
+Seat 5: IgorBelov777 ($0.50 in chips) 
+Seat 7: Jimshamar ($2.98 in chips) 
+Seat 8: zpxnjp21 ($2.55 in chips) 
+Seat 9: TOM.T1021 ($1.22 in chips) 
+zpxnjp21: posts small blind $0.01
+TOM.T1021: posts big blind $0.02
+Ebisu 64: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 6d]
+Dorex2007: folds 
+buggspray: folds 
+Ebisu 64: checks 
+IgorBelov777: calls $0.02
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: checks 
+*** FLOP *** [Ah 6s 4c]
+TOM.T1021: checks 
+Ebisu 64: checks 
+IgorBelov777: checks 
+*** TURN *** [Ah 6s 4c] [8c]
+TOM.T1021: checks 
+TrzymamKolo joins the table at seat #4 
+Ebisu 64: checks 
+IgorBelov777: checks 
+*** RIVER *** [Ah 6s 4c 8c] [6c]
+TOM.T1021: checks 
+Ebisu 64: checks 
+IgorBelov777: checks 
+*** SHOW DOWN ***
+TOM.T1021: shows [Kc 5h] (a pair of Sixes)
+Ebisu 64: mucks hand 
+IgorBelov777: mucks hand 
+TOM.T1021 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Ah 6s 4c 8c 6c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: Ebisu 64 mucked [Qh 7d]
+Seat 5: IgorBelov777 mucked [5s Th]
+Seat 7: Jimshamar (button) folded before Flop (didn't bet)
+Seat 8: zpxnjp21 (small blind) folded before Flop
+Seat 9: TOM.T1021 (big blind) showed [Kc 5h] and won ($0.07) with a pair of Sixes
+
+
+
+PokerStars Hand #224338247802:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:05:10 PT [2021/03/01 0:05:10 ET]
+Table 'Pandarus' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($1.54 in chips) 
+Seat 2: buggspray ($1.67 in chips) 
+Seat 3: Ebisu 64 ($1.98 in chips) 
+Seat 5: IgorBelov777 ($0.48 in chips) 
+Seat 7: Jimshamar ($2.98 in chips) 
+Seat 8: zpxnjp21 ($2.54 in chips) 
+Seat 9: TOM.T1021 ($1.27 in chips) 
+TOM.T1021: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+TrzymamKolo: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s As]
+buggspray: folds 
+Ebisu 64: calls $0.02
+IgorBelov777: calls $0.02
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [8c 5s Qc]
+w3sby joins the table at seat #6 
+TOM.T1021: checks 
+Dorex2007: checks 
+Ebisu 64: checks 
+IgorBelov777: checks 
+*** TURN *** [8c 5s Qc] [Js]
+TOM.T1021: checks 
+Dorex2007: checks 
+Ebisu 64: checks 
+IgorBelov777: checks 
+*** RIVER *** [8c 5s Qc Js] [Qh]
+TOM.T1021: checks 
+Dorex2007: bets $0.06
+Ebisu 64: folds 
+IgorBelov777: folds 
+TOM.T1021: folds 
+Uncalled bet ($0.06) returned to Dorex2007
+Dorex2007 collected $0.08 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [8c 5s Qc Js Qh]
+Seat 1: Dorex2007 (big blind) collected ($0.08)
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded on the River
+Seat 5: IgorBelov777 folded on the River
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 (button) folded before Flop (didn't bet)
+Seat 9: TOM.T1021 (small blind) folded on the River
+
+
+
+PokerStars Hand #224338259012:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:06:14 PT [2021/03/01 0:06:14 ET]
+Table 'Pandarus' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($1.60 in chips) 
+Seat 2: buggspray ($1.67 in chips) 
+Seat 3: Ebisu 64 ($1.96 in chips) 
+Seat 5: IgorBelov777 ($0.46 in chips) 
+Seat 7: Jimshamar ($2.98 in chips) 
+Seat 8: zpxnjp21 ($2.54 in chips) 
+Seat 9: TOM.T1021 ($1.25 in chips) 
+Dorex2007: posts small blind $0.01
+buggspray: posts big blind $0.02
+TrzymamKolo: sits out 
+w3sby: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 5h]
+Ebisu 64: folds 
+IgorBelov777: calls $0.02
+Jimshamar: calls $0.02
+zpxnjp21: folds 
+TOM.T1021: calls $0.02
+Dorex2007: folds 
+buggspray: checks 
+*** FLOP *** [Js Th 6c]
+buggspray: checks 
+IgorBelov777: checks 
+Jimshamar: checks 
+TOM.T1021: checks 
+*** TURN *** [Js Th 6c] [8c]
+buggspray: checks 
+IgorBelov777: checks 
+Jimshamar: checks 
+TOM.T1021: checks 
+*** RIVER *** [Js Th 6c 8c] [Ts]
+buggspray: checks 
+IgorBelov777: checks 
+Jimshamar: bets $0.05
+TOM.T1021: folds 
+buggspray: folds 
+IgorBelov777: folds 
+Uncalled bet ($0.05) returned to Jimshamar
+Jimshamar collected $0.09 from pot
+Jimshamar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Js Th 6c 8c Ts]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: buggspray (big blind) folded on the River
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 5: IgorBelov777 folded on the River
+Seat 7: Jimshamar collected ($0.09)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 (button) folded on the River
+
+
+
+PokerStars Hand #224338270029:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:07:18 PT [2021/03/01 0:07:18 ET]
+Table 'Pandarus' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($1.59 in chips) 
+Seat 2: buggspray ($1.65 in chips) 
+Seat 3: Ebisu 64 ($1.96 in chips) 
+Seat 5: IgorBelov777 ($0.44 in chips) 
+Seat 7: Jimshamar ($3.05 in chips) 
+Seat 8: zpxnjp21 ($2.54 in chips) 
+Seat 9: TOM.T1021 ($1.23 in chips) 
+buggspray: posts small blind $0.01
+Ebisu 64: posts big blind $0.02
+TrzymamKolo: sits out 
+w3sby: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Qs]
+IgorBelov777: calls $0.02
+Jimshamar: calls $0.02
+zpxnjp21: folds 
+TOM.T1021: folds 
+Dorex2007: folds 
+buggspray: calls $0.01
+Ebisu 64: checks 
+*** FLOP *** [Ah 8c 6c]
+buggspray: checks 
+Ebisu 64: checks 
+IgorBelov777: checks 
+Jimshamar: checks 
+*** TURN *** [Ah 8c 6c] [9d]
+buggspray: checks 
+Ebisu 64: checks 
+IgorBelov777: checks 
+Jimshamar: checks 
+*** RIVER *** [Ah 8c 6c 9d] [9c]
+buggspray: checks 
+Ebisu 64: checks 
+IgorBelov777: checks 
+Jimshamar: checks 
+*** SHOW DOWN ***
+buggspray: shows [2s Ks] (a pair of Nines)
+Ebisu 64: mucks hand 
+IgorBelov777: mucks hand 
+Jimshamar: shows [Qd Kc] (a pair of Nines - Ace+King+Queen kicker)
+Jimshamar collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Ah 8c 6c 9d 9c]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: buggspray (small blind) showed [2s Ks] and lost with a pair of Nines
+Seat 3: Ebisu 64 (big blind) mucked [7s 3d]
+Seat 5: IgorBelov777 mucked [Jd 7d]
+Seat 7: Jimshamar showed [Qd Kc] and won ($0.08) with a pair of Nines
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338281193:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:08:23 PT [2021/03/01 0:08:23 ET]
+Table 'Pandarus' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($1.59 in chips) 
+Seat 2: buggspray ($1.63 in chips) 
+Seat 3: Ebisu 64 ($1.94 in chips) 
+Seat 4: TrzymamKolo ($2.15 in chips) 
+Seat 5: IgorBelov777 ($0.42 in chips) 
+Seat 7: Jimshamar ($3.11 in chips) 
+Seat 8: zpxnjp21 ($2.54 in chips) 
+Seat 9: TOM.T1021 ($1.23 in chips) 
+Ebisu 64: posts small blind $0.01
+TrzymamKolo: posts big blind $0.02
+w3sby: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Ac]
+IgorBelov777: calls $0.02
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: calls $0.02
+Dorex2007: folds 
+buggspray: raises $0.04 to $0.06
+Ebisu 64: calls $0.05
+TrzymamKolo: folds 
+IgorBelov777: calls $0.04
+TOM.T1021: calls $0.04
+*** FLOP *** [Ad 4h 4c]
+Ebisu 64: bets $0.02
+IgorBelov777: calls $0.02
+TOM.T1021: folds 
+buggspray: calls $0.02
+*** TURN *** [Ad 4h 4c] [Jc]
+Ebisu 64: bets $0.02
+IgorBelov777: folds 
+buggspray: raises $0.02 to $0.04
+Ebisu 64: calls $0.02
+*** RIVER *** [Ad 4h 4c Jc] [6s]
+Ebisu 64: bets $0.02
+buggspray: raises $0.02 to $0.04
+Ebisu 64: calls $0.02
+*** SHOW DOWN ***
+buggspray: shows [Qh As] (two pair, Aces and Fours)
+Ebisu 64: shows [Ah Qs] (two pair, Aces and Fours)
+Ebisu 64 collected $0.23 from pot
+buggspray collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [Ad 4h 4c Jc 6s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray (button) showed [Qh As] and won ($0.23) with two pair, Aces and Fours
+Seat 3: Ebisu 64 (small blind) showed [Ah Qs] and won ($0.23) with two pair, Aces and Fours
+Seat 4: TrzymamKolo (big blind) folded before Flop
+Seat 5: IgorBelov777 folded on the Turn
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 folded on the Flop
+
+
+
+PokerStars Hand #224338301642:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:09:25 PT [2021/03/01 0:09:25 ET]
+Table 'Pandarus' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($1.59 in chips) 
+Seat 2: buggspray ($1.70 in chips) 
+Seat 3: Ebisu 64 ($2.01 in chips) 
+Seat 4: TrzymamKolo ($2.13 in chips) 
+Seat 5: IgorBelov777 ($0.34 in chips) 
+Seat 7: Jimshamar ($3.11 in chips) 
+Seat 8: zpxnjp21 ($2.54 in chips) 
+Seat 9: TOM.T1021 ($1.17 in chips) 
+TrzymamKolo: posts small blind $0.01
+IgorBelov777: posts big blind $0.02
+w3sby: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Js]
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: folds 
+Dorex2007: folds 
+buggspray: folds 
+Ebisu 64: folds 
+TrzymamKolo: folds 
+Uncalled bet ($0.01) returned to IgorBelov777
+IgorBelov777 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: Ebisu 64 (button) folded before Flop (didn't bet)
+Seat 4: TrzymamKolo (small blind) folded before Flop
+Seat 5: IgorBelov777 (big blind) collected ($0.02)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338303992:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:09:38 PT [2021/03/01 0:09:38 ET]
+Table 'Pandarus' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($1.59 in chips) 
+Seat 2: buggspray ($1.70 in chips) 
+Seat 3: Ebisu 64 ($2.01 in chips) 
+Seat 4: TrzymamKolo ($2.12 in chips) 
+Seat 5: IgorBelov777 ($0.35 in chips) 
+Seat 6: w3sby ($2 in chips) 
+Seat 7: Jimshamar ($3.11 in chips) 
+Seat 8: zpxnjp21 ($2.54 in chips) 
+Seat 9: TOM.T1021 ($1.17 in chips) 
+IgorBelov777: posts small blind $0.01
+w3sby: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 7h]
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: folds 
+Dorex2007: calls $0.02
+buggspray: raises $0.02 to $0.04
+Ebisu 64: folds 
+TrzymamKolo: folds 
+IgorBelov777: folds 
+w3sby: folds 
+Dorex2007: calls $0.02
+*** FLOP *** [Th 3h As]
+Dorex2007: checks 
+buggspray: bets $0.04
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to buggspray
+buggspray collected $0.11 from pot
+buggspray: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Th 3h As]
+Seat 1: Dorex2007 folded on the Flop
+Seat 2: buggspray collected ($0.11)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: TrzymamKolo (button) folded before Flop (didn't bet)
+Seat 5: IgorBelov777 (small blind) folded before Flop
+Seat 6: w3sby (big blind) folded before Flop
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338310909:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:10:18 PT [2021/03/01 0:10:18 ET]
+Table 'Pandarus' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($1.55 in chips) 
+Seat 2: buggspray ($1.77 in chips) 
+Seat 3: Ebisu 64 ($2.01 in chips) 
+Seat 4: TrzymamKolo ($2.12 in chips) 
+Seat 5: IgorBelov777 ($0.34 in chips) 
+Seat 6: w3sby ($2 in chips) 
+Seat 7: Jimshamar ($3.11 in chips) 
+Seat 8: zpxnjp21 ($2.54 in chips) 
+Seat 9: TOM.T1021 ($1.17 in chips) 
+w3sby: posts small blind $0.01
+Jimshamar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 5d]
+zpxnjp21: folds 
+TOM.T1021: raises $0.02 to $0.04
+Dorex2007: folds 
+buggspray: folds 
+Ebisu 64: folds 
+TrzymamKolo: folds 
+IgorBelov777: folds 
+w3sby: folds 
+Jimshamar: calls $0.02
+*** FLOP *** [Kd Qs 8h]
+Jimshamar: checks 
+TOM.T1021: checks 
+*** TURN *** [Kd Qs 8h] [7h]
+Jimshamar: checks 
+TOM.T1021: checks 
+*** RIVER *** [Kd Qs 8h 7h] [9h]
+Jimshamar: checks 
+TOM.T1021: checks 
+*** SHOW DOWN ***
+Jimshamar: shows [2d 2s] (a pair of Deuces)
+TOM.T1021: mucks hand 
+Jimshamar collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Kd Qs 8h 7h 9h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: TrzymamKolo folded before Flop (didn't bet)
+Seat 5: IgorBelov777 (button) folded before Flop (didn't bet)
+Seat 6: w3sby (small blind) folded before Flop
+Seat 7: Jimshamar (big blind) showed [2d 2s] and won ($0.09) with a pair of Deuces
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 mucked [Ac Th]
+
+
+
+PokerStars Hand #224338319072:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:11:05 PT [2021/03/01 0:11:05 ET]
+Table 'Pandarus' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($1.55 in chips) 
+Seat 2: buggspray ($1.77 in chips) 
+Seat 3: Ebisu 64 ($2.01 in chips) 
+Seat 4: TrzymamKolo ($2.12 in chips) 
+Seat 5: IgorBelov777 ($0.34 in chips) 
+Seat 6: w3sby ($2 in chips) 
+Seat 7: Jimshamar ($3.16 in chips) 
+Seat 8: zpxnjp21 ($2.54 in chips) 
+Seat 9: TOM.T1021 ($1.13 in chips) 
+Jimshamar: posts small blind $0.01
+zpxnjp21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 5c]
+TOM.T1021: calls $0.02
+Dorex2007: folds 
+buggspray: raises $0.02 to $0.04
+Ebisu 64: folds 
+TrzymamKolo: folds 
+IgorBelov777: folds 
+w3sby: folds 
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: calls $0.02
+*** FLOP *** [Qh 5s 7d]
+TOM.T1021: checks 
+buggspray: checks 
+*** TURN *** [Qh 5s 7d] [Jd]
+TOM.T1021: checks 
+buggspray: bets $0.11
+TOM.T1021: folds 
+Uncalled bet ($0.11) returned to buggspray
+buggspray collected $0.11 from pot
+buggspray: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Qh 5s 7d Jd]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray collected ($0.11)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: TrzymamKolo folded before Flop (didn't bet)
+Seat 5: IgorBelov777 folded before Flop (didn't bet)
+Seat 6: w3sby (button) folded before Flop (didn't bet)
+Seat 7: Jimshamar (small blind) folded before Flop
+Seat 8: zpxnjp21 (big blind) folded before Flop
+Seat 9: TOM.T1021 folded on the Turn
+
+
+
+PokerStars Hand #224338327646:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:11:55 PT [2021/03/01 0:11:55 ET]
+Table 'Pandarus' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($1.55 in chips) 
+Seat 2: buggspray ($1.84 in chips) 
+Seat 3: Ebisu 64 ($2.01 in chips) 
+Seat 4: TrzymamKolo ($2.12 in chips) 
+Seat 5: IgorBelov777 ($0.34 in chips) 
+Seat 6: w3sby ($2 in chips) 
+Seat 7: Jimshamar ($3.15 in chips) 
+Seat 8: zpxnjp21 ($2.52 in chips) 
+Seat 9: TOM.T1021 ($1.09 in chips) 
+zpxnjp21: posts small blind $0.01
+TOM.T1021: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Jd]
+Dorex2007: calls $0.02
+buggspray: folds 
+Ebisu 64: folds 
+TrzymamKolo: folds 
+IgorBelov777: calls $0.02
+w3sby: folds 
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: raises $0.16 to $0.18
+Dorex2007: folds 
+IgorBelov777: folds 
+Uncalled bet ($0.16) returned to TOM.T1021
+TOM.T1021 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Dorex2007 folded before Flop
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: TrzymamKolo folded before Flop (didn't bet)
+Seat 5: IgorBelov777 folded before Flop
+Seat 6: w3sby folded before Flop (didn't bet)
+Seat 7: Jimshamar (button) folded before Flop (didn't bet)
+Seat 8: zpxnjp21 (small blind) folded before Flop
+Seat 9: TOM.T1021 (big blind) collected ($0.07)
+
+
+
+PokerStars Hand #224338333890:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:12:32 PT [2021/03/01 0:12:32 ET]
+Table 'Pandarus' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($1.53 in chips) 
+Seat 2: buggspray ($1.84 in chips) 
+Seat 3: Ebisu 64 ($2.01 in chips) 
+Seat 4: TrzymamKolo ($2.12 in chips) 
+Seat 5: IgorBelov777 ($0.32 in chips) 
+Seat 6: w3sby ($2 in chips) 
+Seat 7: Jimshamar ($3.15 in chips) 
+Seat 8: zpxnjp21 ($2.51 in chips) 
+Seat 9: TOM.T1021 ($1.14 in chips) 
+TOM.T1021: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 6s]
+buggspray: folds 
+Ebisu 64: folds 
+TrzymamKolo has timed out
+TrzymamKolo: folds 
+IgorBelov777: folds 
+w3sby: folds 
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: raises $0.02 to $0.04
+Dorex2007: folds 
+Uncalled bet ($0.02) returned to TOM.T1021
+TOM.T1021 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: TrzymamKolo folded before Flop (didn't bet)
+Seat 5: IgorBelov777 folded before Flop (didn't bet)
+Seat 6: w3sby folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 (button) folded before Flop (didn't bet)
+Seat 9: TOM.T1021 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #224338338512:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:12:59 PT [2021/03/01 0:12:59 ET]
+Table 'Pandarus' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($1.51 in chips) 
+Seat 2: buggspray ($1.84 in chips) 
+Seat 3: Ebisu 64 ($2.01 in chips) 
+Seat 4: TrzymamKolo ($2.12 in chips) 
+Seat 5: IgorBelov777 ($0.32 in chips) 
+Seat 6: w3sby ($2 in chips) 
+Seat 7: Jimshamar ($3.15 in chips) 
+Seat 8: zpxnjp21 ($2.51 in chips) 
+Seat 9: TOM.T1021 ($1.16 in chips) 
+Dorex2007: posts small blind $0.01
+buggspray: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Jh]
+Ebisu 64: folds 
+TrzymamKolo has timed out
+TrzymamKolo: folds 
+IgorBelov777: calls $0.02
+w3sby: folds 
+Jimshamar: calls $0.02
+zpxnjp21: folds 
+TOM.T1021: folds 
+Dorex2007: calls $0.01
+buggspray: checks 
+*** FLOP *** [7d 4s Kc]
+Dorex2007: checks 
+buggspray: checks 
+IgorBelov777: checks 
+Jimshamar: checks 
+*** TURN *** [7d 4s Kc] [Ac]
+Dorex2007: checks 
+buggspray: bets $0.08
+IgorBelov777: folds 
+Jimshamar: calls $0.08
+Dorex2007: folds 
+*** RIVER *** [7d 4s Kc Ac] [Kd]
+buggspray: bets $0.23
+Jimshamar: folds 
+Uncalled bet ($0.23) returned to buggspray
+buggspray collected $0.23 from pot
+buggspray: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [7d 4s Kc Ac Kd]
+Seat 1: Dorex2007 (small blind) folded on the Turn
+Seat 2: buggspray (big blind) collected ($0.23)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: TrzymamKolo folded before Flop (didn't bet)
+Seat 5: IgorBelov777 folded on the Turn
+Seat 6: w3sby folded before Flop (didn't bet)
+Seat 7: Jimshamar folded on the River
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338350259:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:14:07 PT [2021/03/01 0:14:07 ET]
+Table 'Pandarus' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($1.49 in chips) 
+Seat 2: buggspray ($1.97 in chips) 
+Seat 3: Ebisu 64 ($2.01 in chips) 
+Seat 4: TrzymamKolo ($2.12 in chips) 
+Seat 5: IgorBelov777 ($0.30 in chips) 
+Seat 6: w3sby ($2 in chips) 
+Seat 7: Jimshamar ($3.05 in chips) 
+Seat 8: zpxnjp21 ($2.51 in chips) 
+Seat 9: TOM.T1021 ($1.16 in chips) 
+buggspray: posts small blind $0.01
+Ebisu 64: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 8h]
+TrzymamKolo: folds 
+IgorBelov777: folds 
+w3sby: folds 
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: folds 
+Dorex2007: raises $0.04 to $0.06
+buggspray: calls $0.05
+Ebisu 64: folds 
+*** FLOP *** [Qc 9h 4c]
+buggspray: checks 
+Dorex2007: bets $0.11
+buggspray: calls $0.11
+*** TURN *** [Qc 9h 4c] [Ac]
+buggspray: checks 
+Dorex2007: bets $0.35
+buggspray: raises $0.35 to $0.70
+Dorex2007: folds 
+Uncalled bet ($0.35) returned to buggspray
+buggspray collected $1.02 from pot
+buggspray: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.06 | Rake $0.04 
+Board [Qc 9h 4c Ac]
+Seat 1: Dorex2007 (button) folded on the Turn
+Seat 2: buggspray (small blind) collected ($1.02)
+Seat 3: Ebisu 64 (big blind) folded before Flop
+Seat 4: TrzymamKolo folded before Flop (didn't bet)
+Seat 5: IgorBelov777 folded before Flop (didn't bet)
+Seat 6: w3sby folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338361602:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:15:12 PT [2021/03/01 0:15:12 ET]
+Table 'Pandarus' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($0.97 in chips) 
+Seat 2: buggspray ($2.47 in chips) 
+Seat 3: Ebisu 64 ($1.99 in chips) 
+Seat 4: TrzymamKolo ($2.12 in chips) 
+Seat 5: IgorBelov777 ($0.30 in chips) 
+Seat 6: w3sby ($2 in chips) 
+Seat 7: Jimshamar ($3.05 in chips) 
+Seat 8: zpxnjp21 ($2.51 in chips) 
+Seat 9: TOM.T1021 ($1.16 in chips) 
+Ebisu 64: posts small blind $0.01
+TrzymamKolo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 3d]
+IgorBelov777 has timed out
+IgorBelov777: folds 
+w3sby: folds 
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: calls $0.02
+Dorex2007: folds 
+buggspray: folds 
+Ebisu 64: folds 
+TrzymamKolo: checks 
+*** FLOP *** [Ks Jc Jd]
+TrzymamKolo: checks 
+TOM.T1021: checks 
+*** TURN *** [Ks Jc Jd] [Ah]
+TrzymamKolo: checks 
+TOM.T1021: checks 
+*** RIVER *** [Ks Jc Jd Ah] [Jh]
+TrzymamKolo: checks 
+TOM.T1021: checks 
+*** SHOW DOWN ***
+TrzymamKolo: shows [Td 9h] (three of a kind, Jacks)
+TOM.T1021: shows [2d 4h] (three of a kind, Jacks)
+TrzymamKolo collected $0.03 from pot
+TOM.T1021 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Ks Jc Jd Ah Jh]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray (button) folded before Flop (didn't bet)
+Seat 3: Ebisu 64 (small blind) folded before Flop
+Seat 4: TrzymamKolo (big blind) showed [Td 9h] and won ($0.03) with three of a kind, Jacks
+Seat 5: IgorBelov777 folded before Flop (didn't bet)
+Seat 6: w3sby folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 showed [2d 4h] and won ($0.02) with three of a kind, Jacks
+
+
+
+PokerStars Hand #224338431833:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:21:25 PT [2021/03/01 0:21:25 ET]
+Table 'Pandarus' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($0.97 in chips) 
+Seat 2: buggspray ($3.08 in chips) 
+Seat 3: Ebisu 64 ($1.98 in chips) 
+Seat 4: TrzymamKolo ($2.12 in chips) 
+Seat 6: w3sby ($2 in chips) 
+Seat 7: Jimshamar ($3.31 in chips) 
+Seat 8: zpxnjp21 ($2.05 in chips) 
+Seat 9: TOM.T1021 ($0.99 in chips) 
+TOM.T1021: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+John Antoni7: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 7h]
+buggspray: folds 
+Ebisu 64: folds 
+TrzymamKolo: raises $0.04 to $0.06
+w3sby: folds 
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to TrzymamKolo
+TrzymamKolo collected $0.05 from pot
+TrzymamKolo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: TrzymamKolo collected ($0.05)
+Seat 6: w3sby folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 (button) folded before Flop (didn't bet)
+Seat 9: TOM.T1021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #224338435925:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:21:48 PT [2021/03/01 0:21:48 ET]
+Table 'Pandarus' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($0.95 in chips) 
+Seat 2: buggspray ($3.08 in chips) 
+Seat 3: Ebisu 64 ($1.98 in chips) 
+Seat 4: TrzymamKolo ($2.15 in chips) 
+Seat 6: w3sby ($2 in chips) 
+Seat 7: Jimshamar ($3.31 in chips) 
+Seat 8: zpxnjp21 ($2.05 in chips) 
+Seat 9: TOM.T1021 ($0.98 in chips) 
+Dorex2007: posts small blind $0.01
+buggspray: posts big blind $0.02
+John Antoni7: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Ks]
+Ebisu 64: folds 
+TrzymamKolo: folds 
+w3sby: raises $0.04 to $0.06
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: folds 
+Dorex2007: folds 
+buggspray: folds 
+Uncalled bet ($0.04) returned to w3sby
+w3sby collected $0.05 from pot
+w3sby: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: buggspray (big blind) folded before Flop
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: TrzymamKolo folded before Flop (didn't bet)
+Seat 6: w3sby collected ($0.05)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338439063:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:22:07 PT [2021/03/01 0:22:07 ET]
+Table 'Pandarus' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($0.94 in chips) 
+Seat 2: buggspray ($3.06 in chips) 
+Seat 3: Ebisu 64 ($1.98 in chips) 
+Seat 4: TrzymamKolo ($2.15 in chips) 
+Seat 6: w3sby ($2.03 in chips) 
+Seat 7: Jimshamar ($3.31 in chips) 
+Seat 8: zpxnjp21 ($2.05 in chips) 
+Seat 9: TOM.T1021 ($0.98 in chips) 
+buggspray: posts small blind $0.01
+Ebisu 64: posts big blind $0.02
+John Antoni7: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 8c]
+TrzymamKolo: folds 
+w3sby: folds 
+Jimshamar: folds 
+zpxnjp21: raises $0.04 to $0.06
+TOM.T1021: folds 
+Dorex2007: folds 
+buggspray: folds 
+Ebisu 64: folds 
+Uncalled bet ($0.04) returned to zpxnjp21
+zpxnjp21 collected $0.05 from pot
+zpxnjp21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: buggspray (small blind) folded before Flop
+Seat 3: Ebisu 64 (big blind) folded before Flop
+Seat 4: TrzymamKolo folded before Flop (didn't bet)
+Seat 6: w3sby folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 collected ($0.05)
+Seat 9: TOM.T1021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338442289:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:22:26 PT [2021/03/01 0:22:26 ET]
+Table 'Pandarus' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($0.94 in chips) 
+Seat 2: buggspray ($3.05 in chips) 
+Seat 3: Ebisu 64 ($1.96 in chips) 
+Seat 4: TrzymamKolo ($2.15 in chips) 
+Seat 6: w3sby ($2.03 in chips) 
+Seat 7: Jimshamar ($3.31 in chips) 
+Seat 8: zpxnjp21 ($2.08 in chips) 
+Seat 9: TOM.T1021 ($0.98 in chips) 
+Ebisu 64: posts small blind $0.01
+TrzymamKolo: posts big blind $0.02
+John Antoni7: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 9h]
+w3sby: folds 
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: folds 
+Dorex2007: folds 
+buggspray: calls $0.02
+Ebisu 64: folds 
+TrzymamKolo: checks 
+*** FLOP *** [Kc Ac 2s]
+TrzymamKolo: checks 
+buggspray: checks 
+*** TURN *** [Kc Ac 2s] [7h]
+TrzymamKolo: checks 
+buggspray: bets $0.02
+TrzymamKolo: calls $0.02
+*** RIVER *** [Kc Ac 2s 7h] [3c]
+TrzymamKolo: checks 
+buggspray: bets $0.02
+TrzymamKolo: calls $0.02
+*** SHOW DOWN ***
+buggspray: shows [Ad 3s] (two pair, Aces and Threes)
+TrzymamKolo: mucks hand 
+buggspray collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Kc Ac 2s 7h 3c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray (button) showed [Ad 3s] and won ($0.13) with two pair, Aces and Threes
+Seat 3: Ebisu 64 (small blind) folded before Flop
+Seat 4: TrzymamKolo (big blind) mucked [Tc 7d]
+Seat 6: w3sby folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338451084:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:23:17 PT [2021/03/01 0:23:17 ET]
+Table 'Pandarus' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($0.94 in chips) 
+Seat 2: buggspray ($3.12 in chips) 
+Seat 3: Ebisu 64 ($1.95 in chips) 
+Seat 4: TrzymamKolo ($2.09 in chips) 
+Seat 5: John Antoni7 ($2 in chips) 
+Seat 6: w3sby ($2.03 in chips) 
+Seat 7: Jimshamar ($3.31 in chips) 
+Seat 8: zpxnjp21 ($2.08 in chips) 
+Seat 9: TOM.T1021 ($0.98 in chips) 
+TrzymamKolo: posts small blind $0.01
+John Antoni7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 2c]
+w3sby: folds 
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: folds 
+Dorex2007: folds 
+buggspray: folds 
+Ebisu 64: calls $0.02
+TrzymamKolo: folds 
+John Antoni7: checks 
+*** FLOP *** [Qs Ac 6s]
+John Antoni7: checks 
+Ebisu 64: checks 
+*** TURN *** [Qs Ac 6s] [Qh]
+John Antoni7: checks 
+Ebisu 64: checks 
+*** RIVER *** [Qs Ac 6s Qh] [7c]
+John Antoni7: checks 
+Ebisu 64: checks 
+*** SHOW DOWN ***
+John Antoni7: shows [8c 9h] (a pair of Queens)
+Ebisu 64: shows [Jh Jd] (two pair, Queens and Jacks)
+Ebisu 64 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qs Ac 6s Qh 7c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: Ebisu 64 (button) showed [Jh Jd] and won ($0.05) with two pair, Queens and Jacks
+Seat 4: TrzymamKolo (small blind) folded before Flop
+Seat 5: John Antoni7 (big blind) showed [8c 9h] and lost with a pair of Queens
+Seat 6: w3sby folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338460638:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:24:04 PT [2021/03/01 0:24:04 ET]
+Table 'Pandarus' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: buggspray ($3.12 in chips) 
+Seat 3: Ebisu 64 ($1.98 in chips) 
+Seat 4: TrzymamKolo ($2.08 in chips) 
+Seat 5: John Antoni7 ($2 in chips) 
+Seat 6: w3sby ($2.03 in chips) 
+Seat 7: Jimshamar ($3.31 in chips) 
+Seat 8: zpxnjp21 ($2.08 in chips) 
+Seat 9: TOM.T1021 ($0.98 in chips) 
+John Antoni7: posts small blind $0.01
+w3sby: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 3d]
+Jimshamar: folds 
+zpxnjp21: raises $0.04 to $0.06
+TOM.T1021: folds 
+Dorex2007: folds 
+buggspray: folds 
+Ebisu 64: folds 
+TrzymamKolo: folds 
+John Antoni7: folds 
+w3sby: raises $0.14 to $0.20
+zpxnjp21: folds 
+Uncalled bet ($0.14) returned to w3sby
+w3sby collected $0.13 from pot
+w3sby: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: TrzymamKolo (button) folded before Flop (didn't bet)
+Seat 5: John Antoni7 (small blind) folded before Flop
+Seat 6: w3sby (big blind) collected ($0.13)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 folded before Flop
+Seat 9: TOM.T1021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338466568:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:24:39 PT [2021/03/01 0:24:39 ET]
+Table 'Pandarus' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: buggspray ($3.12 in chips) 
+Seat 3: Ebisu 64 ($1.98 in chips) 
+Seat 4: TrzymamKolo ($2.08 in chips) 
+Seat 5: John Antoni7 ($2 in chips) 
+Seat 6: w3sby ($2.10 in chips) 
+Seat 7: Jimshamar ($3.31 in chips) 
+Seat 8: zpxnjp21 ($2.02 in chips) 
+Seat 9: TOM.T1021 ($0.98 in chips) 
+w3sby: posts small blind $0.01
+Jimshamar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Ac]
+zpxnjp21: folds 
+TOM.T1021: raises $0.06 to $0.08
+Dorex2007: raises $0.10 to $0.18
+buggspray: folds 
+Ebisu 64: folds 
+TrzymamKolo: folds 
+John Antoni7: folds 
+w3sby: folds 
+Jimshamar: folds 
+TOM.T1021: calls $0.10
+*** FLOP *** [7c Ts 7d]
+TOM.T1021: checks 
+Dorex2007: bets $1.82 and is all-in
+TOM.T1021: folds 
+Uncalled bet ($1.82) returned to Dorex2007
+Dorex2007 collected $0.38 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [7c Ts 7d]
+Seat 1: Dorex2007 collected ($0.38)
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: TrzymamKolo folded before Flop (didn't bet)
+Seat 5: John Antoni7 (button) folded before Flop (didn't bet)
+Seat 6: w3sby (small blind) folded before Flop
+Seat 7: Jimshamar (big blind) folded before Flop
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 folded on the Flop
+
+
+
+PokerStars Hand #224338477123:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:25:40 PT [2021/03/01 0:25:40 ET]
+Table 'Pandarus' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($2.20 in chips) 
+Seat 2: buggspray ($3.12 in chips) 
+Seat 3: Ebisu 64 ($1.98 in chips) 
+Seat 4: TrzymamKolo ($2.08 in chips) 
+Seat 5: John Antoni7 ($2 in chips) 
+Seat 6: w3sby ($2.09 in chips) 
+Seat 7: Jimshamar ($3.29 in chips) 
+Seat 8: zpxnjp21 ($2.02 in chips) 
+Seat 9: TOM.T1021 ($0.80 in chips) 
+Jimshamar: posts small blind $0.01
+zpxnjp21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 7s]
+TOM.T1021: raises $0.02 to $0.04
+Dorex2007: folds 
+buggspray: folds 
+Ebisu 64: folds 
+TrzymamKolo: raises $0.02 to $0.06
+John Antoni7: folds 
+w3sby: folds 
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: calls $0.02
+*** FLOP *** [Jh 3d Ac]
+TOM.T1021: checks 
+TrzymamKolo: bets $0.07
+TOM.T1021: calls $0.07
+*** TURN *** [Jh 3d Ac] [Jd]
+TOM.T1021: checks 
+TrzymamKolo: checks 
+*** RIVER *** [Jh 3d Ac Jd] [8h]
+TOM.T1021: bets $0.67 and is all-in
+TrzymamKolo: folds 
+Uncalled bet ($0.67) returned to TOM.T1021
+TOM.T1021 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Jh 3d Ac Jd 8h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: TrzymamKolo folded on the River
+Seat 5: John Antoni7 folded before Flop (didn't bet)
+Seat 6: w3sby (button) folded before Flop (didn't bet)
+Seat 7: Jimshamar (small blind) folded before Flop
+Seat 8: zpxnjp21 (big blind) folded before Flop
+Seat 9: TOM.T1021 collected ($0.28)
+
+
+
+PokerStars Hand #224338487037:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:26:38 PT [2021/03/01 0:26:38 ET]
+Table 'Pandarus' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2.20 in chips) 
+Seat 2: buggspray ($3.12 in chips) 
+Seat 3: Ebisu 64 ($1.98 in chips) 
+Seat 4: TrzymamKolo ($2 in chips) 
+Seat 5: John Antoni7 ($2 in chips) 
+Seat 6: w3sby ($2.09 in chips) 
+Seat 7: Jimshamar ($3.28 in chips) 
+Seat 8: zpxnjp21 ($2 in chips) 
+Seat 9: TOM.T1021 ($0.95 in chips) 
+zpxnjp21: posts small blind $0.01
+TOM.T1021: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 3s]
+Dorex2007: folds 
+buggspray: calls $0.02
+Ebisu 64: calls $0.02
+TrzymamKolo: folds 
+John Antoni7: folds 
+w3sby: folds 
+Jimshamar: calls $0.02
+zpxnjp21: folds 
+TOM.T1021: checks 
+*** FLOP *** [5s 9s Qd]
+TOM.T1021: checks 
+buggspray: checks 
+Ebisu 64: checks 
+Jimshamar: checks 
+*** TURN *** [5s 9s Qd] [8h]
+TOM.T1021: checks 
+buggspray: checks 
+Ebisu 64: checks 
+Jimshamar: checks 
+*** RIVER *** [5s 9s Qd 8h] [7s]
+TOM.T1021: checks 
+buggspray: checks 
+Ebisu 64: checks 
+Jimshamar: checks 
+*** SHOW DOWN ***
+TOM.T1021: shows [Tc 2s] (high card Queen)
+buggspray: shows [4c 4h] (a pair of Fours)
+Ebisu 64: mucks hand 
+Jimshamar: shows [5h 3h] (a pair of Fives)
+Jimshamar collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [5s 9s Qd 8h 7s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray showed [4c 4h] and lost with a pair of Fours
+Seat 3: Ebisu 64 mucked [Ac Jh]
+Seat 4: TrzymamKolo folded before Flop (didn't bet)
+Seat 5: John Antoni7 folded before Flop (didn't bet)
+Seat 6: w3sby folded before Flop (didn't bet)
+Seat 7: Jimshamar (button) showed [5h 3h] and won ($0.09) with a pair of Fives
+Seat 8: zpxnjp21 (small blind) folded before Flop
+Seat 9: TOM.T1021 (big blind) showed [Tc 2s] and lost with high card Queen
+
+
+
+PokerStars Hand #224338502403:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:28:07 PT [2021/03/01 0:28:07 ET]
+Table 'Pandarus' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2.20 in chips) 
+Seat 2: buggspray ($3.10 in chips) 
+Seat 3: Ebisu 64 ($1.96 in chips) 
+Seat 4: TrzymamKolo ($2 in chips) 
+Seat 5: John Antoni7 ($2 in chips) 
+Seat 6: w3sby ($2.09 in chips) 
+Seat 7: Jimshamar ($3.35 in chips) 
+Seat 8: zpxnjp21 ($1.99 in chips) 
+Seat 9: TOM.T1021 ($0.93 in chips) 
+TOM.T1021: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 6d]
+buggspray: folds 
+Ebisu 64: folds 
+TrzymamKolo: folds 
+John Antoni7: calls $0.02
+w3sby: raises $0.06 to $0.08
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: folds 
+Dorex2007: folds 
+John Antoni7: folds 
+Uncalled bet ($0.06) returned to w3sby
+w3sby collected $0.07 from pot
+w3sby: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: TrzymamKolo folded before Flop (didn't bet)
+Seat 5: John Antoni7 folded before Flop
+Seat 6: w3sby collected ($0.07)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 (button) folded before Flop (didn't bet)
+Seat 9: TOM.T1021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #224338505903:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:28:27 PT [2021/03/01 0:28:27 ET]
+Table 'Pandarus' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2.18 in chips) 
+Seat 2: buggspray ($3.10 in chips) 
+Seat 3: Ebisu 64 ($1.96 in chips) 
+Seat 4: TrzymamKolo ($2 in chips) 
+Seat 5: John Antoni7 ($2 in chips) 
+Seat 6: w3sby ($2.14 in chips) 
+Seat 7: Jimshamar ($3.35 in chips) 
+Seat 8: zpxnjp21 ($1.99 in chips) 
+Seat 9: TOM.T1021 ($0.92 in chips) 
+Dorex2007: posts small blind $0.01
+buggspray: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 8d]
+Ebisu 64: folds 
+TrzymamKolo: folds 
+John Antoni7: folds 
+w3sby: folds 
+Jimshamar: raises $0.03 to $0.05
+zpxnjp21: folds 
+TOM.T1021: folds 
+Dorex2007: folds 
+buggspray: calls $0.03
+*** FLOP *** [8c Td 8s]
+buggspray: checks 
+Jimshamar: bets $0.06
+buggspray: folds 
+Uncalled bet ($0.06) returned to Jimshamar
+Jimshamar collected $0.11 from pot
+Jimshamar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [8c Td 8s]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: buggspray (big blind) folded on the Flop
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: TrzymamKolo folded before Flop (didn't bet)
+Seat 5: John Antoni7 folded before Flop (didn't bet)
+Seat 6: w3sby folded before Flop (didn't bet)
+Seat 7: Jimshamar collected ($0.11)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338512070:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:29:02 PT [2021/03/01 0:29:02 ET]
+Table 'Pandarus' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2.17 in chips) 
+Seat 2: buggspray ($3.05 in chips) 
+Seat 3: Ebisu 64 ($1.96 in chips) 
+Seat 4: TrzymamKolo ($2 in chips) 
+Seat 5: John Antoni7 ($2 in chips) 
+Seat 6: w3sby ($2.14 in chips) 
+Seat 7: Jimshamar ($3.41 in chips) 
+Seat 8: zpxnjp21 ($1.99 in chips) 
+Seat 9: TOM.T1021 ($0.92 in chips) 
+buggspray: posts small blind $0.01
+Ebisu 64: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Js]
+TrzymamKolo: raises $0.04 to $0.06
+John Antoni7: folds 
+w3sby: raises $0.12 to $0.18
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: folds 
+Dorex2007: folds 
+buggspray: folds 
+Ebisu 64: folds 
+TrzymamKolo: calls $0.12
+*** FLOP *** [3d Ah 4s]
+TrzymamKolo: checks 
+w3sby: bets $0.27
+TrzymamKolo: folds 
+Uncalled bet ($0.27) returned to w3sby
+w3sby collected $0.38 from pot
+w3sby: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [3d Ah 4s]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: buggspray (small blind) folded before Flop
+Seat 3: Ebisu 64 (big blind) folded before Flop
+Seat 4: TrzymamKolo folded on the Flop
+Seat 5: John Antoni7 folded before Flop (didn't bet)
+Seat 6: w3sby collected ($0.38)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338523328:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:29:49 PT [2021/03/01 0:29:49 ET]
+Table 'Pandarus' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2.17 in chips) 
+Seat 2: buggspray ($3.04 in chips) 
+Seat 3: Ebisu 64 ($1.94 in chips) 
+Seat 4: TrzymamKolo ($2 in chips) 
+Seat 5: John Antoni7 ($2 in chips) 
+Seat 6: w3sby ($2.34 in chips) 
+Seat 7: Jimshamar ($3.41 in chips) 
+Seat 8: zpxnjp21 ($1.99 in chips) 
+Seat 9: TOM.T1021 ($0.92 in chips) 
+Ebisu 64: posts small blind $0.01
+TrzymamKolo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Qh]
+John Antoni7: folds 
+w3sby: folds 
+Jimshamar: folds 
+zpxnjp21: raises $0.02 to $0.04
+TOM.T1021: folds 
+Dorex2007: folds 
+buggspray: folds 
+Ebisu 64: folds 
+TrzymamKolo: calls $0.02
+*** FLOP *** [Ks Jc 3d]
+TrzymamKolo: checks 
+zpxnjp21: checks 
+*** TURN *** [Ks Jc 3d] [As]
+TrzymamKolo: checks 
+zpxnjp21: checks 
+*** RIVER *** [Ks Jc 3d As] [6d]
+TrzymamKolo: checks 
+zpxnjp21: checks 
+*** SHOW DOWN ***
+TrzymamKolo: shows [Ah 5s] (a pair of Aces)
+zpxnjp21: mucks hand 
+TrzymamKolo collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Ks Jc 3d As 6d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray (button) folded before Flop (didn't bet)
+Seat 3: Ebisu 64 (small blind) folded before Flop
+Seat 4: TrzymamKolo (big blind) showed [Ah 5s] and won ($0.09) with a pair of Aces
+Seat 5: John Antoni7 folded before Flop (didn't bet)
+Seat 6: w3sby folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 mucked [8c 8d]
+Seat 9: TOM.T1021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338531661:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:30:37 PT [2021/03/01 0:30:37 ET]
+Table 'Pandarus' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2.17 in chips) 
+Seat 2: buggspray ($3.04 in chips) 
+Seat 3: Ebisu 64 ($1.93 in chips) 
+Seat 4: TrzymamKolo ($2.05 in chips) 
+Seat 5: John Antoni7 ($2 in chips) 
+Seat 6: w3sby ($2.34 in chips) 
+Seat 7: Jimshamar ($3.41 in chips) 
+Seat 8: zpxnjp21 ($1.95 in chips) 
+Seat 9: TOM.T1021 ($0.92 in chips) 
+TrzymamKolo: posts small blind $0.01
+John Antoni7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Jc]
+w3sby: folds 
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: folds 
+Dorex2007: folds 
+buggspray: folds 
+Ebisu 64: folds 
+TrzymamKolo: calls $0.01
+John Antoni7: checks 
+*** FLOP *** [Jd 3d 3s]
+TrzymamKolo: checks 
+John Antoni7: checks 
+*** TURN *** [Jd 3d 3s] [2d]
+TrzymamKolo: checks 
+John Antoni7: checks 
+*** RIVER *** [Jd 3d 3s 2d] [As]
+TrzymamKolo: checks 
+John Antoni7: checks 
+*** SHOW DOWN ***
+TrzymamKolo: shows [7h Tc] (a pair of Threes)
+John Antoni7: mucks hand 
+TrzymamKolo collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Jd 3d 3s 2d As]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: Ebisu 64 (button) folded before Flop (didn't bet)
+Seat 4: TrzymamKolo (small blind) showed [7h Tc] and won ($0.04) with a pair of Threes
+Seat 5: John Antoni7 (big blind) mucked [7c 8h]
+Seat 6: w3sby folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338539264:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:31:22 PT [2021/03/01 0:31:22 ET]
+Table 'Pandarus' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2.17 in chips) 
+Seat 2: buggspray ($3.04 in chips) 
+Seat 3: Ebisu 64 ($1.93 in chips) 
+Seat 4: TrzymamKolo ($2.07 in chips) 
+Seat 5: John Antoni7 ($2 in chips) 
+Seat 6: w3sby ($2.34 in chips) 
+Seat 7: Jimshamar ($3.41 in chips) 
+Seat 8: zpxnjp21 ($1.95 in chips) 
+Seat 9: TOM.T1021 ($0.92 in chips) 
+John Antoni7: posts small blind $0.01
+w3sby: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 2d]
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: calls $0.02
+Dorex2007: folds 
+buggspray: folds 
+Ebisu 64: folds 
+TrzymamKolo: folds 
+John Antoni7: calls $0.01
+w3sby: checks 
+*** FLOP *** [Tc Kc 5c]
+John Antoni7: checks 
+TrzymamKolo is disconnected 
+w3sby: checks 
+TOM.T1021: checks 
+*** TURN *** [Tc Kc 5c] [3d]
+John Antoni7: checks 
+w3sby: checks 
+TOM.T1021: checks 
+*** RIVER *** [Tc Kc 5c 3d] [Kd]
+John Antoni7: checks 
+w3sby: checks 
+TOM.T1021: checks 
+*** SHOW DOWN ***
+John Antoni7: shows [4h 4s] (two pair, Kings and Fours)
+w3sby: shows [5d 7s] (two pair, Kings and Fives)
+TOM.T1021: mucks hand 
+w3sby collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Tc Kc 5c 3d Kd]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: TrzymamKolo (button) folded before Flop (didn't bet)
+Seat 5: John Antoni7 (small blind) showed [4h 4s] and lost with two pair, Kings and Fours
+Seat 6: w3sby (big blind) showed [5d 7s] and won ($0.06) with two pair, Kings and Fives
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 mucked [As 9d]
+
+
+
+PokerStars Hand #224338551605:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:32:35 PT [2021/03/01 0:32:35 ET]
+Table 'Pandarus' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2.17 in chips) 
+Seat 2: buggspray ($3.04 in chips) 
+Seat 3: Ebisu 64 ($1.93 in chips) 
+Seat 4: TrzymamKolo ($2.07 in chips) 
+Seat 5: John Antoni7 ($2 in chips) 
+Seat 6: w3sby ($2.38 in chips) 
+Seat 7: Jimshamar ($3.41 in chips) 
+Seat 8: zpxnjp21 ($1.95 in chips) 
+Seat 9: TOM.T1021 ($0.90 in chips) 
+w3sby: posts small blind $0.01
+Jimshamar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Js]
+zpxnjp21: folds 
+TOM.T1021: folds 
+Dorex2007: folds 
+buggspray: folds 
+Ebisu 64 has timed out
+Ebisu 64: folds 
+TrzymamKolo: folds 
+John Antoni7 has timed out
+John Antoni7: folds 
+w3sby: folds 
+Uncalled bet ($0.01) returned to Jimshamar
+Jimshamar collected $0.02 from pot
+Jimshamar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: TrzymamKolo folded before Flop (didn't bet)
+Seat 5: John Antoni7 (button) folded before Flop (didn't bet)
+Seat 6: w3sby (small blind) folded before Flop
+Seat 7: Jimshamar (big blind) collected ($0.02)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338558731:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:33:17 PT [2021/03/01 0:33:17 ET]
+Table 'Pandarus' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($2.17 in chips) 
+Seat 2: buggspray ($3.04 in chips) 
+Seat 3: Ebisu 64 ($1.93 in chips) 
+Seat 4: TrzymamKolo ($2.07 in chips) 
+Seat 5: John Antoni7 ($2 in chips) 
+Seat 6: w3sby ($2.37 in chips) 
+Seat 7: Jimshamar ($3.42 in chips) 
+Seat 8: zpxnjp21 ($1.95 in chips) 
+Seat 9: TOM.T1021 ($0.90 in chips) 
+Jimshamar: posts small blind $0.01
+zpxnjp21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 3c]
+TOM.T1021: folds 
+Dorex2007: folds 
+buggspray: folds 
+Ebisu 64: folds 
+TrzymamKolo: folds 
+John Antoni7: folds 
+w3sby: folds 
+Jimshamar: raises $0.03 to $0.05
+zpxnjp21: folds 
+Uncalled bet ($0.03) returned to Jimshamar
+Jimshamar collected $0.04 from pot
+Jimshamar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: TrzymamKolo folded before Flop (didn't bet)
+Seat 5: John Antoni7 folded before Flop (didn't bet)
+Seat 6: w3sby (button) folded before Flop (didn't bet)
+Seat 7: Jimshamar (small blind) collected ($0.04)
+Seat 8: zpxnjp21 (big blind) folded before Flop
+Seat 9: TOM.T1021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338562436:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:33:39 PT [2021/03/01 0:33:39 ET]
+Table 'Pandarus' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2.17 in chips) 
+Seat 2: buggspray ($3.04 in chips) 
+Seat 3: Ebisu 64 ($1.93 in chips) 
+Seat 4: TrzymamKolo ($2.07 in chips) 
+Seat 5: John Antoni7 ($2 in chips) 
+Seat 6: w3sby ($2.37 in chips) 
+Seat 7: Jimshamar ($3.44 in chips) 
+Seat 8: zpxnjp21 ($1.93 in chips) 
+Seat 9: TOM.T1021 ($0.90 in chips) 
+zpxnjp21: posts small blind $0.01
+TOM.T1021: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 8d]
+Dorex2007: folds 
+buggspray: folds 
+Ebisu 64: folds 
+TrzymamKolo: raises $0.04 to $0.06
+John Antoni7: folds 
+w3sby: folds 
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: folds 
+Uncalled bet ($0.04) returned to TrzymamKolo
+TrzymamKolo collected $0.05 from pot
+TrzymamKolo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: TrzymamKolo collected ($0.05)
+Seat 5: John Antoni7 folded before Flop (didn't bet)
+Seat 6: w3sby folded before Flop (didn't bet)
+Seat 7: Jimshamar (button) folded before Flop (didn't bet)
+Seat 8: zpxnjp21 (small blind) folded before Flop
+Seat 9: TOM.T1021 (big blind) folded before Flop
+
+
+
+PokerStars Hand #224338565716:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:33:59 PT [2021/03/01 0:33:59 ET]
+Table 'Pandarus' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2.17 in chips) 
+Seat 2: buggspray ($3.04 in chips) 
+Seat 3: Ebisu 64 ($1.93 in chips) 
+Seat 4: TrzymamKolo ($2.10 in chips) 
+Seat 5: John Antoni7 ($2 in chips) 
+Seat 6: w3sby ($2.37 in chips) 
+Seat 7: Jimshamar ($3.44 in chips) 
+Seat 8: zpxnjp21 ($1.92 in chips) 
+Seat 9: TOM.T1021 ($0.88 in chips) 
+TOM.T1021: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 5s]
+buggspray: folds 
+Ebisu 64: folds 
+TrzymamKolo: calls $0.02
+John Antoni7: folds 
+w3sby: folds 
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: folds 
+Dorex2007: checks 
+*** FLOP *** [8d 3s 6s]
+Dorex2007: bets $0.05
+TrzymamKolo: folds 
+Uncalled bet ($0.05) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8d 3s 6s]
+Seat 1: Dorex2007 (big blind) collected ($0.05)
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: TrzymamKolo folded on the Flop
+Seat 5: John Antoni7 folded before Flop (didn't bet)
+Seat 6: w3sby folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 (button) folded before Flop (didn't bet)
+Seat 9: TOM.T1021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #224338572356:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:34:38 PT [2021/03/01 0:34:38 ET]
+Table 'Pandarus' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2.20 in chips) 
+Seat 2: buggspray ($3.04 in chips) 
+Seat 3: Ebisu 64 ($1.93 in chips) 
+Seat 4: TrzymamKolo ($2.08 in chips) 
+Seat 6: w3sby ($2.37 in chips) 
+Seat 7: Jimshamar ($3.44 in chips) 
+Seat 8: zpxnjp21 ($1.92 in chips) 
+Seat 9: TOM.T1021 ($0.87 in chips) 
+Dorex2007: posts small blind $0.01
+buggspray: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 4d]
+Ebisu 64: folds 
+TrzymamKolo: raises $0.04 to $0.06
+w3sby: folds 
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: raises $0.10 to $0.16
+Dorex2007: folds 
+buggspray: folds 
+TrzymamKolo: calls $0.10
+*** FLOP *** [3d 3c 3h]
+TrzymamKolo: checks 
+TOM.T1021: checks 
+*** TURN *** [3d 3c 3h] [6h]
+TrzymamKolo: checks 
+TOM.T1021: bets $0.08
+TrzymamKolo: calls $0.08
+*** RIVER *** [3d 3c 3h 6h] [Jd]
+TrzymamKolo: checks 
+TOM.T1021: bets $0.63 and is all-in
+TrzymamKolo: folds 
+Uncalled bet ($0.63) returned to TOM.T1021
+TOM.T1021 collected $0.49 from pot
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [3d 3c 3h 6h Jd]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: buggspray (big blind) folded before Flop
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: TrzymamKolo folded on the River
+Seat 6: w3sby folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 (button) collected ($0.49)
+
+
+
+PokerStars Hand #224338583022:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:35:41 PT [2021/03/01 0:35:41 ET]
+Table 'Pandarus' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2.19 in chips) 
+Seat 2: buggspray ($3.02 in chips) 
+Seat 3: Ebisu 64 ($1.93 in chips) 
+Seat 4: TrzymamKolo ($2 in chips) 
+Seat 6: w3sby ($2.37 in chips) 
+Seat 7: Jimshamar ($3.44 in chips) 
+Seat 8: zpxnjp21 ($1.92 in chips) 
+Seat 9: TOM.T1021 ($1.12 in chips) 
+buggspray: posts small blind $0.01
+Ebisu 64: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Tc]
+TrzymamKolo: folds 
+w3sby: folds 
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: calls $0.02
+Dorex2007: folds 
+TrzymamKolo leaves the table
+buggspray: folds 
+Ebisu 64: checks 
+*** FLOP *** [Qd 7c Js]
+Ebisu 64: checks 
+TOM.T1021: checks 
+*** TURN *** [Qd 7c Js] [Qh]
+Ebisu 64: checks 
+TOM.T1021: bets $0.10
+Ebisu 64: folds 
+Uncalled bet ($0.10) returned to TOM.T1021
+TOM.T1021 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qd 7c Js Qh]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: buggspray (small blind) folded before Flop
+Seat 3: Ebisu 64 (big blind) folded on the Turn
+Seat 4: TrzymamKolo folded before Flop (didn't bet)
+Seat 6: w3sby folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 collected ($0.05)
+
+
+
+PokerStars Hand #224338590386:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:36:25 PT [2021/03/01 0:36:25 ET]
+Table 'Pandarus' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2.19 in chips) 
+Seat 2: buggspray ($3.01 in chips) 
+Seat 3: Ebisu 64 ($1.91 in chips) 
+Seat 6: w3sby ($2.37 in chips) 
+Seat 7: Jimshamar ($3.44 in chips) 
+Seat 8: zpxnjp21 ($1.92 in chips) 
+Seat 9: TOM.T1021 ($1.15 in chips) 
+Ebisu 64: posts small blind $0.01
+w3sby: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Ts]
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: folds 
+Dorex2007: folds 
+buggspray: folds 
+Ebisu 64: folds 
+Uncalled bet ($0.01) returned to w3sby
+w3sby collected $0.02 from pot
+w3sby: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray (button) folded before Flop (didn't bet)
+Seat 3: Ebisu 64 (small blind) folded before Flop
+Seat 6: w3sby (big blind) collected ($0.02)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338593370:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:36:43 PT [2021/03/01 0:36:43 ET]
+Table 'Pandarus' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2.19 in chips) 
+Seat 2: buggspray ($3.01 in chips) 
+Seat 3: Ebisu 64 ($1.90 in chips) 
+Seat 6: w3sby ($2.38 in chips) 
+Seat 7: Jimshamar ($3.44 in chips) 
+Seat 8: zpxnjp21 ($1.92 in chips) 
+Seat 9: TOM.T1021 ($1.15 in chips) 
+w3sby: posts small blind $0.01
+Jimshamar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 8s]
+zpxnjp21: folds 
+TOM.T1021: calls $0.02
+Dorex2007: folds 
+buggspray: raises $0.04 to $0.06
+Ebisu 64: calls $0.06
+w3sby: folds 
+Jimshamar: folds 
+TOM.T1021: calls $0.04
+*** FLOP *** [7d Th Js]
+mickey889 joins the table at seat #4 
+TOM.T1021: checks 
+buggspray: checks 
+Ebisu 64: checks 
+*** TURN *** [7d Th Js] [6c]
+TOM.T1021: bets $0.20
+buggspray: raises $0.20 to $0.40
+Ebisu 64: folds 
+TOM.T1021: calls $0.20
+*** RIVER *** [7d Th Js 6c] [Qd]
+TOM.T1021: checks 
+buggspray: bets $0.48
+TOM.T1021: folds 
+Uncalled bet ($0.48) returned to buggspray
+buggspray collected $0.97 from pot
+buggspray: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.01 | Rake $0.04 
+Board [7d Th Js 6c Qd]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray collected ($0.97)
+Seat 3: Ebisu 64 (button) folded on the Turn
+Seat 6: w3sby (small blind) folded before Flop
+Seat 7: Jimshamar (big blind) folded before Flop
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 folded on the River
+
+
+
+PokerStars Hand #224338607010:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:38:05 PT [2021/03/01 0:38:05 ET]
+Table 'Pandarus' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($2.19 in chips) 
+Seat 2: buggspray ($3.52 in chips) 
+Seat 3: Ebisu 64 ($1.84 in chips) 
+Seat 6: w3sby ($2.37 in chips) 
+Seat 7: Jimshamar ($3.42 in chips) 
+Seat 8: zpxnjp21 ($1.92 in chips) 
+Seat 9: TOM.T1021 ($0.69 in chips) 
+Jimshamar: posts small blind $0.01
+zpxnjp21: posts big blind $0.02
+mickey889: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 5s]
+TOM.T1021: calls $0.02
+Dorex2007: folds 
+buggspray: folds 
+Ebisu 64: folds 
+w3sby: folds 
+Jimshamar: folds 
+zpxnjp21: checks 
+*** FLOP *** [Ks 5c 7d]
+zpxnjp21: checks 
+TOM.T1021: checks 
+*** TURN *** [Ks 5c 7d] [8s]
+zpxnjp21: bets $0.03
+TOM.T1021: raises $0.03 to $0.06
+zpxnjp21: folds 
+Uncalled bet ($0.03) returned to TOM.T1021
+TOM.T1021 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Ks 5c 7d 8s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 6: w3sby (button) folded before Flop (didn't bet)
+Seat 7: Jimshamar (small blind) folded before Flop
+Seat 8: zpxnjp21 (big blind) folded on the Turn
+Seat 9: TOM.T1021 collected ($0.11)
+
+
+
+PokerStars Hand #224338618147:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:39:12 PT [2021/03/01 0:39:12 ET]
+Table 'Pandarus' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2.19 in chips) 
+Seat 2: buggspray ($3.52 in chips) 
+Seat 3: Ebisu 64 ($1.84 in chips) 
+Seat 6: w3sby ($2.37 in chips) 
+Seat 7: Jimshamar ($3.41 in chips) 
+Seat 8: zpxnjp21 ($1.87 in chips) 
+Seat 9: TOM.T1021 ($0.75 in chips) 
+zpxnjp21: posts small blind $0.01
+TOM.T1021: posts big blind $0.02
+mickey889: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 3s]
+Dorex2007: folds 
+buggspray: folds 
+Ebisu 64: folds 
+w3sby: folds 
+Jimshamar: folds 
+zpxnjp21: folds 
+Uncalled bet ($0.01) returned to TOM.T1021
+TOM.T1021 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 6: w3sby folded before Flop (didn't bet)
+Seat 7: Jimshamar (button) folded before Flop (didn't bet)
+Seat 8: zpxnjp21 (small blind) folded before Flop
+Seat 9: TOM.T1021 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #224338620276:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:39:25 PT [2021/03/01 0:39:25 ET]
+Table 'Pandarus' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2.19 in chips) 
+Seat 2: buggspray ($3.52 in chips) 
+Seat 3: Ebisu 64 ($1.84 in chips) 
+Seat 6: w3sby ($2.37 in chips) 
+Seat 7: Jimshamar ($3.41 in chips) 
+Seat 8: zpxnjp21 ($1.86 in chips) 
+Seat 9: TOM.T1021 ($0.76 in chips) 
+TOM.T1021: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+mickey889: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 4h]
+buggspray: raises $0.02 to $0.04
+Ebisu 64: folds 
+w3sby: folds 
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: calls $0.03
+Dorex2007: calls $0.02
+*** FLOP *** [Ts Kh 2s]
+TOM.T1021: checks 
+Dorex2007: checks 
+John Antoni7 leaves the table
+buggspray: checks 
+*** TURN *** [Ts Kh 2s] [Ac]
+TOM.T1021: checks 
+Dorex2007: checks 
+buggspray: bets $0.02
+TOM.T1021: folds 
+Dorex2007: folds 
+Uncalled bet ($0.02) returned to buggspray
+buggspray collected $0.12 from pot
+buggspray: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ts Kh 2s Ac]
+Seat 1: Dorex2007 (big blind) folded on the Turn
+Seat 2: buggspray collected ($0.12)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 6: w3sby folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 (button) folded before Flop (didn't bet)
+Seat 9: TOM.T1021 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #224338627222:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:40:07 PT [2021/03/01 0:40:07 ET]
+Table 'Pandarus' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2.15 in chips) 
+Seat 2: buggspray ($3.60 in chips) 
+Seat 3: Ebisu 64 ($1.84 in chips) 
+Seat 6: w3sby ($2.37 in chips) 
+Seat 7: Jimshamar ($3.41 in chips) 
+Seat 8: zpxnjp21 ($1.86 in chips) 
+Seat 9: TOM.T1021 ($0.72 in chips) 
+Dorex2007: posts small blind $0.01
+buggspray: posts big blind $0.02
+mickey889: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Th]
+Ebisu 64: folds 
+w3sby: folds 
+Jimshamar: folds 
+zpxnjp21: raises $0.04 to $0.06
+TOM.T1021: folds 
+Dorex2007: folds 
+buggspray: folds 
+Uncalled bet ($0.04) returned to zpxnjp21
+zpxnjp21 collected $0.05 from pot
+zpxnjp21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: buggspray (big blind) folded before Flop
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 6: w3sby folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 collected ($0.05)
+Seat 9: TOM.T1021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338630354:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:40:26 PT [2021/03/01 0:40:26 ET]
+Table 'Pandarus' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2.14 in chips) 
+Seat 2: buggspray ($3.58 in chips) 
+Seat 3: Ebisu 64 ($1.84 in chips) 
+Seat 6: w3sby ($2.37 in chips) 
+Seat 7: Jimshamar ($3.41 in chips) 
+Seat 8: zpxnjp21 ($1.89 in chips) 
+Seat 9: TOM.T1021 ($0.72 in chips) 
+buggspray: posts small blind $0.01
+Ebisu 64: posts big blind $0.02
+mickey889: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 2c]
+w3sby: folds 
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: raises $0.08 to $0.10
+Dorex2007: folds 
+buggspray: folds 
+Ebisu 64: calls $0.08
+*** FLOP *** [9c Qd Ks]
+Ebisu 64: checks 
+TOM.T1021: checks 
+*** TURN *** [9c Qd Ks] [7d]
+Ebisu 64: checks 
+TOM.T1021: checks 
+*** RIVER *** [9c Qd Ks 7d] [7s]
+Ebisu 64: checks 
+TOM.T1021: checks 
+*** SHOW DOWN ***
+Ebisu 64: shows [Ac Jd] (a pair of Sevens)
+TOM.T1021: shows [Js Ah] (a pair of Sevens)
+Ebisu 64 collected $0.10 from pot
+TOM.T1021 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [9c Qd Ks 7d 7s]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: buggspray (small blind) folded before Flop
+Seat 3: Ebisu 64 (big blind) showed [Ac Jd] and won ($0.10) with a pair of Sevens
+Seat 6: w3sby folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 showed [Js Ah] and won ($0.10) with a pair of Sevens
+
+
+
+PokerStars Hand #224338640015:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:41:24 PT [2021/03/01 0:41:24 ET]
+Table 'Pandarus' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2.14 in chips) 
+Seat 2: buggspray ($3.57 in chips) 
+Seat 3: Ebisu 64 ($1.84 in chips) 
+Seat 4: mickey889 ($0.80 in chips) 
+Seat 6: w3sby ($2.37 in chips) 
+Seat 7: Jimshamar ($3.41 in chips) 
+Seat 8: zpxnjp21 ($1.89 in chips) 
+Seat 9: TOM.T1021 ($0.72 in chips) 
+Ebisu 64: posts small blind $0.01
+mickey889: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 7s]
+w3sby: folds 
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: folds 
+Dorex2007: folds 
+Zuban442 joins the table at seat #5 
+buggspray: raises $0.04 to $0.06
+Ebisu 64: folds 
+mickey889: folds 
+Uncalled bet ($0.04) returned to buggspray
+buggspray collected $0.05 from pot
+buggspray: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray (button) collected ($0.05)
+Seat 3: Ebisu 64 (small blind) folded before Flop
+Seat 4: mickey889 (big blind) folded before Flop
+Seat 6: w3sby folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338653033:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:41:45 PT [2021/03/01 0:41:45 ET]
+Table 'Pandarus' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2.14 in chips) 
+Seat 2: buggspray ($3.60 in chips) 
+Seat 3: Ebisu 64 ($1.83 in chips) 
+Seat 4: mickey889 ($0.78 in chips) 
+Seat 5: Zuban442 ($1.60 in chips) 
+Seat 6: w3sby ($2.37 in chips) 
+Seat 7: Jimshamar ($3.41 in chips) 
+Seat 8: zpxnjp21 ($1.89 in chips) 
+Seat 9: TOM.T1021 ($0.72 in chips) 
+mickey889: posts small blind $0.01
+Zuban442: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Kh]
+w3sby: folds 
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: folds 
+Dorex2007: folds 
+buggspray: raises $0.02 to $0.04
+Ebisu 64: calls $0.04
+mickey889: folds 
+Zuban442: folds 
+*** FLOP *** [2c 8s Ts]
+buggspray: checks 
+Ebisu 64: checks 
+*** TURN *** [2c 8s Ts] [Qc]
+buggspray: bets $0.05
+Ebisu 64: raises $0.11 to $0.16
+buggspray: calls $0.11
+*** RIVER *** [2c 8s Ts Qc] [Jd]
+buggspray: bets $0.41
+Ebisu 64: calls $0.41
+*** SHOW DOWN ***
+buggspray: shows [Ks 9s] (a straight, Nine to King)
+Ebisu 64: mucks hand 
+buggspray collected $1.21 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.04 
+Board [2c 8s Ts Qc Jd]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray showed [Ks 9s] and won ($1.21) with a straight, Nine to King
+Seat 3: Ebisu 64 (button) mucked [Qs Js]
+Seat 4: mickey889 (small blind) folded before Flop
+Seat 5: Zuban442 (big blind) folded before Flop
+Seat 6: w3sby folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338661723:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:42:38 PT [2021/03/01 0:42:38 ET]
+Table 'Pandarus' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2.14 in chips) 
+Seat 2: buggspray ($4.20 in chips) 
+Seat 3: Ebisu 64 ($1.22 in chips) 
+Seat 4: mickey889 ($0.77 in chips) 
+Seat 5: Zuban442 ($1.58 in chips) 
+Seat 7: Jimshamar ($3.41 in chips) 
+Seat 8: zpxnjp21 ($1.89 in chips) 
+Seat 9: TOM.T1021 ($0.72 in chips) 
+Zuban442: posts small blind $0.01
+w3sby: is sitting out 
+w3sby leaves the table
+Jimshamar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 8d]
+gurrrrdurrrr joins the table at seat #6 
+zpxnjp21: folds 
+TOM.T1021: raises $0.06 to $0.08
+Dorex2007: folds 
+buggspray: folds 
+Ebisu 64: folds 
+mickey889: calls $0.08
+Zuban442: folds 
+Jimshamar: folds 
+*** FLOP *** [Kh Tc 4h]
+TOM.T1021: checks 
+mickey889: checks 
+*** TURN *** [Kh Tc 4h] [Ah]
+TOM.T1021: bets $0.64 and is all-in
+mickey889: folds 
+Uncalled bet ($0.64) returned to TOM.T1021
+TOM.T1021 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Kh Tc 4h Ah]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: mickey889 (button) folded on the Turn
+Seat 5: Zuban442 (small blind) folded before Flop
+Seat 7: Jimshamar (big blind) folded before Flop
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 collected ($0.18)
+
+
+
+PokerStars Hand #224338667345:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:43:12 PT [2021/03/01 0:43:12 ET]
+Table 'Pandarus' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2.14 in chips) 
+Seat 2: buggspray ($4.20 in chips) 
+Seat 3: Ebisu 64 ($1.22 in chips) 
+Seat 4: mickey889 ($0.69 in chips) 
+Seat 5: Zuban442 ($1.57 in chips) 
+Seat 7: Jimshamar ($3.39 in chips) 
+Seat 8: zpxnjp21 ($1.89 in chips) 
+Seat 9: TOM.T1021 ($0.82 in chips) 
+Jimshamar: posts small blind $0.01
+zpxnjp21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Ad]
+TOM.T1021 has timed out
+TOM.T1021: folds 
+Dorex2007: folds 
+buggspray: folds 
+Ebisu 64: folds 
+mickey889: folds 
+Zuban442: folds 
+Jimshamar: folds 
+Uncalled bet ($0.01) returned to zpxnjp21
+zpxnjp21 collected $0.02 from pot
+zpxnjp21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: mickey889 folded before Flop (didn't bet)
+Seat 5: Zuban442 (button) folded before Flop (didn't bet)
+Seat 7: Jimshamar (small blind) folded before Flop
+Seat 8: zpxnjp21 (big blind) collected ($0.02)
+Seat 9: TOM.T1021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338671079:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:43:35 PT [2021/03/01 0:43:35 ET]
+Table 'Pandarus' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2.14 in chips) 
+Seat 2: buggspray ($4.20 in chips) 
+Seat 3: Ebisu 64 ($1.22 in chips) 
+Seat 4: mickey889 ($0.69 in chips) 
+Seat 5: Zuban442 ($1.57 in chips) 
+Seat 6: gurrrrdurrrr ($1.60 in chips) 
+Seat 7: Jimshamar ($3.38 in chips) 
+Seat 8: zpxnjp21 ($1.90 in chips) 
+Seat 9: TOM.T1021 ($0.82 in chips) 
+zpxnjp21: posts small blind $0.01
+TOM.T1021: posts big blind $0.02
+gurrrrdurrrr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 3h]
+Dorex2007: folds 
+buggspray: folds 
+Ebisu 64: folds 
+mickey889: calls $0.02
+Zuban442: folds 
+gurrrrdurrrr: checks 
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: checks 
+*** FLOP *** [3c 7d 8d]
+TOM.T1021: checks 
+mickey889: bets $0.04
+gurrrrdurrrr: folds 
+TOM.T1021: calls $0.04
+*** TURN *** [3c 7d 8d] [Ts]
+TOM.T1021: bets $0.08
+mickey889: calls $0.08
+*** RIVER *** [3c 7d 8d Ts] [9h]
+TOM.T1021: bets $0.30
+mickey889: raises $0.25 to $0.55 and is all-in
+TOM.T1021: calls $0.25
+*** SHOW DOWN ***
+mickey889: shows [Jd Kd] (a straight, Seven to Jack)
+TOM.T1021: shows [Jc 9s] (a straight, Seven to Jack)
+TOM.T1021 collected $0.68 from pot
+mickey889 collected $0.68 from pot
+*** SUMMARY ***
+Total pot $1.41 | Rake $0.05 
+Board [3c 7d 8d Ts 9h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: buggspray folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: mickey889 showed [Jd Kd] and won ($0.68) with a straight, Seven to Jack
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr folded on the Flop (didn't bet)
+Seat 7: Jimshamar (button) folded before Flop (didn't bet)
+Seat 8: zpxnjp21 (small blind) folded before Flop
+Seat 9: TOM.T1021 (big blind) showed [Jc 9s] and won ($0.68) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #224338688476:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:44:43 PT [2021/03/01 0:44:43 ET]
+Table 'Pandarus' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2.14 in chips) 
+Seat 2: buggspray ($4.20 in chips) 
+Seat 3: Ebisu 64 ($1.22 in chips) 
+Seat 4: mickey889 ($0.68 in chips) 
+Seat 5: Zuban442 ($1.57 in chips) 
+Seat 6: gurrrrdurrrr ($1.58 in chips) 
+Seat 7: Jimshamar ($3.38 in chips) 
+Seat 8: zpxnjp21 ($1.89 in chips) 
+Seat 9: TOM.T1021 ($0.81 in chips) 
+TOM.T1021: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 3s]
+buggspray: raises $0.02 to $0.04
+Ebisu 64: folds 
+mickey889: folds 
+Zuban442: folds 
+gurrrrdurrrr: folds 
+Jimshamar: calls $0.04
+zpxnjp21: raises $0.16 to $0.20
+TOM.T1021: folds 
+Dorex2007: folds 
+buggspray: folds 
+Jimshamar: folds 
+Uncalled bet ($0.16) returned to zpxnjp21
+zpxnjp21 collected $0.15 from pot
+zpxnjp21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: buggspray folded before Flop
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: mickey889 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop
+Seat 8: zpxnjp21 (button) collected ($0.15)
+Seat 9: TOM.T1021 (small blind) folded before Flop
+
+
+
+PokerStars Hand #224338692355:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:45:06 PT [2021/03/01 0:45:06 ET]
+Table 'Pandarus' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2.12 in chips) 
+Seat 3: Ebisu 64 ($1.22 in chips) 
+Seat 4: mickey889 ($0.68 in chips) 
+Seat 5: Zuban442 ($1.57 in chips) 
+Seat 6: gurrrrdurrrr ($1.58 in chips) 
+Seat 7: Jimshamar ($3.34 in chips) 
+Seat 8: zpxnjp21 ($2 in chips) 
+Seat 9: TOM.T1021 ($0.80 in chips) 
+Dorex2007: posts small blind $0.01
+buggspray: is sitting out 
+Ebisu 64: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Ad]
+mickey889: folds 
+Zuban442: folds 
+gurrrrdurrrr: calls $0.02
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: folds 
+Dorex2007: raises $0.06 to $0.08
+Ebisu 64: folds 
+gurrrrdurrrr: folds 
+Uncalled bet ($0.06) returned to Dorex2007
+Dorex2007 collected $0.06 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: Dorex2007 (small blind) collected ($0.06)
+Seat 3: Ebisu 64 (big blind) folded before Flop
+Seat 4: mickey889 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr folded before Flop
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338696193:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:45:30 PT [2021/03/01 0:45:30 ET]
+Table 'Pandarus' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2.16 in chips) 
+Seat 3: Ebisu 64 ($1.20 in chips) 
+Seat 4: mickey889 ($0.68 in chips) 
+Seat 5: Zuban442 ($1.57 in chips) 
+Seat 6: gurrrrdurrrr ($1.56 in chips) 
+Seat 7: Jimshamar ($3.34 in chips) 
+Seat 8: zpxnjp21 ($2 in chips) 
+Seat 9: TOM.T1021 ($0.80 in chips) 
+Ebisu 64: posts small blind $0.01
+mickey889: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 8s]
+Zuban442: folds 
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: folds 
+Dorex2007: folds 
+Ebisu 64: calls $0.01
+mickey889: checks 
+*** FLOP *** [3d Ah Kc]
+buggspray leaves the table
+Ebisu 64: checks 
+mickey889: bets $0.02
+Ebisu 64: calls $0.02
+*** TURN *** [3d Ah Kc] [4c]
+Ebisu 64: bets $0.02
+mickey889: calls $0.02
+*** RIVER *** [3d Ah Kc 4c] [6d]
+Ebisu 64: bets $0.02
+mickey889: calls $0.02
+*** SHOW DOWN ***
+Ebisu 64: shows [Kh Ad] (two pair, Aces and Kings)
+mickey889: mucks hand 
+Ebisu 64 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [3d Ah Kc 4c 6d]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: Ebisu 64 (small blind) showed [Kh Ad] and won ($0.15) with two pair, Aces and Kings
+Seat 4: mickey889 (big blind) mucked [5d 4d]
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338701486:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:46:02 PT [2021/03/01 0:46:02 ET]
+Table 'Pandarus' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2.16 in chips) 
+Seat 3: Ebisu 64 ($1.27 in chips) 
+Seat 4: mickey889 ($0.60 in chips) 
+Seat 5: Zuban442 ($1.57 in chips) 
+Seat 6: gurrrrdurrrr ($1.56 in chips) 
+Seat 7: Jimshamar ($3.34 in chips) 
+Seat 8: zpxnjp21 ($2 in chips) 
+Seat 9: TOM.T1021 ($0.80 in chips) 
+mickey889: posts small blind $0.01
+Zuban442: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 5h]
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+zpxnjp21: folds 
+TOM.T1021: folds 
+Grefician joins the table at seat #2 
+Dorex2007: folds 
+Ebisu 64: calls $0.02
+mickey889: folds 
+Zuban442: checks 
+*** FLOP *** [Ts 8h Th]
+Zuban442: checks 
+Ebisu 64: bets $0.02
+Zuban442: calls $0.02
+*** TURN *** [Ts 8h Th] [4h]
+Zuban442: checks 
+Ebisu 64: checks 
+*** RIVER *** [Ts 8h Th 4h] [3d]
+Zuban442: checks 
+Ebisu 64: checks 
+*** SHOW DOWN ***
+Zuban442: shows [Qs 9h] (a pair of Tens)
+Ebisu 64: shows [2c 2h] (two pair, Tens and Deuces)
+Ebisu 64 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Ts 8h Th 4h 3d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Ebisu 64 (button) showed [2c 2h] and won ($0.09) with two pair, Tens and Deuces
+Seat 4: mickey889 (small blind) folded before Flop
+Seat 5: Zuban442 (big blind) showed [Qs 9h] and lost with a pair of Tens
+Seat 6: gurrrrdurrrr folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338707749:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:46:39 PT [2021/03/01 0:46:39 ET]
+Table 'Pandarus' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2.16 in chips) 
+Seat 3: Ebisu 64 ($1.32 in chips) 
+Seat 4: mickey889 ($0.59 in chips) 
+Seat 5: Zuban442 ($1.53 in chips) 
+Seat 6: gurrrrdurrrr ($1.56 in chips) 
+Seat 7: Jimshamar ($3.34 in chips) 
+Seat 8: zpxnjp21 ($2 in chips) 
+Seat 9: TOM.T1021 ($0.80 in chips) 
+Zuban442: posts small blind $0.01
+gurrrrdurrrr: posts big blind $0.02
+Grefician: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 6c]
+Jimshamar: folds 
+zpxnjp21: raises $0.02 to $0.04
+TOM.T1021: folds 
+Dorex2007: calls $0.04
+Ebisu 64: folds 
+mickey889: calls $0.04
+Zuban442: folds 
+gurrrrdurrrr: calls $0.02
+*** FLOP *** [Th 2d 5h]
+gurrrrdurrrr: checks 
+zpxnjp21: checks 
+Dorex2007: bets $0.08
+mickey889: folds 
+gurrrrdurrrr: calls $0.08
+zpxnjp21: folds 
+*** TURN *** [Th 2d 5h] [9s]
+gurrrrdurrrr: checks 
+Dorex2007: checks 
+*** RIVER *** [Th 2d 5h 9s] [5s]
+gurrrrdurrrr: bets $0.18
+Dorex2007: folds 
+Uncalled bet ($0.18) returned to gurrrrdurrrr
+gurrrrdurrrr collected $0.32 from pot
+gurrrrdurrrr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Th 2d 5h 9s 5s]
+Seat 1: Dorex2007 folded on the River
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: mickey889 (button) folded on the Flop
+Seat 5: Zuban442 (small blind) folded before Flop
+Seat 6: gurrrrdurrrr (big blind) collected ($0.32)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: zpxnjp21 folded on the Flop
+Seat 9: TOM.T1021 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338718336:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:47:44 PT [2021/03/01 0:47:44 ET]
+Table 'Pandarus' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2.04 in chips) 
+Seat 3: Ebisu 64 ($1.32 in chips) 
+Seat 4: mickey889 ($0.55 in chips) 
+Seat 5: Zuban442 ($1.52 in chips) 
+Seat 6: gurrrrdurrrr ($1.76 in chips) 
+Seat 7: Jimshamar ($3.34 in chips) 
+Seat 8: zpxnjp21 ($1.96 in chips) 
+Seat 9: TOM.T1021 ($0.80 in chips) 
+gurrrrdurrrr: posts small blind $0.01
+Jimshamar: posts big blind $0.02
+Grefician: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Th]
+zpxnjp21: folds 
+TOM.T1021: raises $0.02 to $0.04
+Dorex2007: folds 
+Ebisu 64: folds 
+mickey889: folds 
+Zuban442: calls $0.04
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+*** FLOP *** [8h 8d 5h]
+TOM.T1021: checks 
+Zuban442: bets $0.05
+TOM.T1021: calls $0.05
+*** TURN *** [8h 8d 5h] [5s]
+TOM.T1021: bets $0.20
+Zuban442: calls $0.20
+*** RIVER *** [8h 8d 5h 5s] [4d]
+TOM.T1021: checks 
+Zuban442: bets $0.29
+TOM.T1021: raises $0.22 to $0.51 and is all-in
+Zuban442: calls $0.22
+*** SHOW DOWN ***
+TOM.T1021: shows [Ts As] (two pair, Eights and Fives)
+Zuban442: shows [6s 8s] (a full house, Eights full of Fives)
+Zuban442 collected $1.57 from pot
+*** SUMMARY ***
+Total pot $1.63 | Rake $0.06 
+Board [8h 8d 5h 5s 4d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: mickey889 folded before Flop (didn't bet)
+Seat 5: Zuban442 (button) showed [6s 8s] and won ($1.57) with a full house, Eights full of Fives
+Seat 6: gurrrrdurrrr (small blind) folded before Flop
+Seat 7: Jimshamar (big blind) folded before Flop
+Seat 8: zpxnjp21 folded before Flop (didn't bet)
+Seat 9: TOM.T1021 showed [Ts As] and lost with two pair, Eights and Fives
+
+
+
+PokerStars Hand #224338727975:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:48:42 PT [2021/03/01 0:48:42 ET]
+Table 'Pandarus' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($2.04 in chips) 
+Seat 3: Ebisu 64 ($1.32 in chips) 
+Seat 4: mickey889 ($0.55 in chips) 
+Seat 5: Zuban442 ($2.29 in chips) 
+Seat 6: gurrrrdurrrr ($1.75 in chips) 
+Seat 7: Jimshamar ($3.32 in chips) 
+Jimshamar: posts small blind $0.01
+zpxnjp21: is sitting out 
+Dorex2007: posts big blind $0.02
+Grefician: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 3c]
+Ebisu 64: folds 
+mickey889: folds 
+TOM.T1021 leaves the table
+Zuban442: folds 
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 (big blind) collected ($0.02)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: mickey889 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr (button) folded before Flop (didn't bet)
+Seat 7: Jimshamar (small blind) folded before Flop
+
+
+
+PokerStars Hand #224338730707:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:48:59 PT [2021/03/01 0:48:59 ET]
+Table 'Pandarus' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2.05 in chips) 
+Seat 2: Grefician ($0.80 in chips) 
+Seat 3: Ebisu 64 ($1.32 in chips) 
+Seat 4: mickey889 ($0.55 in chips) 
+Seat 5: Zuban442 ($2.29 in chips) 
+Seat 6: gurrrrdurrrr ($1.75 in chips) 
+Seat 7: Jimshamar ($3.31 in chips) 
+Dorex2007: posts small blind $0.01
+Grefician: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 3d]
+Ebisu 64: folds 
+AlekseyAD173 joins the table at seat #9 
+mickey889: folds 
+Zuban442: folds 
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to Grefician
+Grefician collected $0.02 from pot
+Grefician: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: Grefician (big blind) collected ($0.02)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: mickey889 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr folded before Flop (didn't bet)
+Seat 7: Jimshamar (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338731927:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:49:07 PT [2021/03/01 0:49:07 ET]
+Table 'Pandarus' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2.04 in chips) 
+Seat 2: Grefician ($0.81 in chips) 
+Seat 3: Ebisu 64 ($1.32 in chips) 
+Seat 4: mickey889 ($0.55 in chips) 
+Seat 5: Zuban442 ($2.29 in chips) 
+Seat 6: gurrrrdurrrr ($1.75 in chips) 
+Seat 7: Jimshamar ($3.31 in chips) 
+Seat 9: AlekseyAD173 ($0.80 in chips) 
+Grefician: posts small blind $0.01
+Ebisu 64: posts big blind $0.02
+AlekseyAD173: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 2c]
+mickey889 has timed out
+mickey889: folds 
+Zuban442: folds 
+gurrrrdurrrr: folds 
+Jimshamar: calls $0.02
+AlekseyAD173: checks 
+Dorex2007: folds 
+Grefician: folds 
+Ebisu 64: checks 
+*** FLOP *** [Kh 7h 3d]
+Ebisu 64: checks 
+Jimshamar: checks 
+AlekseyAD173: checks 
+*** TURN *** [Kh 7h 3d] [7d]
+Ebisu 64: bets $0.02
+Jimshamar: calls $0.02
+AlekseyAD173: folds 
+*** RIVER *** [Kh 7h 3d 7d] [4c]
+Ebisu 64: bets $0.06
+Jimshamar: calls $0.06
+*** SHOW DOWN ***
+Ebisu 64: shows [7s 6c] (three of a kind, Sevens)
+Jimshamar: mucks hand 
+Ebisu 64 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Kh 7h 3d 7d 4c]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: Grefician (small blind) folded before Flop
+Seat 3: Ebisu 64 (big blind) showed [7s 6c] and won ($0.22) with three of a kind, Sevens
+Seat 4: mickey889 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr folded before Flop (didn't bet)
+Seat 7: Jimshamar mucked [Ad 4d]
+Seat 9: AlekseyAD173 folded on the Turn (didn't bet)
+
+
+
+PokerStars Hand #224338739570:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:49:53 PT [2021/03/01 0:49:53 ET]
+Table 'Pandarus' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2.04 in chips) 
+Seat 2: Grefician ($0.80 in chips) 
+Seat 3: Ebisu 64 ($1.44 in chips) 
+Seat 4: mickey889 ($0.55 in chips) 
+Seat 5: Zuban442 ($2.29 in chips) 
+Seat 6: gurrrrdurrrr ($1.75 in chips) 
+Seat 7: Jimshamar ($3.21 in chips) 
+Seat 9: AlekseyAD173 ($0.78 in chips) 
+Ebisu 64: posts small blind $0.01
+mickey889: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Td]
+Zuban442: folds 
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+AlekseyAD173: folds 
+Dorex2007: raises $0.04 to $0.06
+Grefician: folds 
+Ebisu 64: folds 
+mickey889: calls $0.04
+*** FLOP *** [Ks Ad As]
+mickey889: checks 
+Dorex2007: bets $0.10
+zpxnjp21 leaves the table
+mickey889: folds 
+Uncalled bet ($0.10) returned to Dorex2007
+Dorex2007 collected $0.13 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ks Ad As]
+Seat 1: Dorex2007 collected ($0.13)
+Seat 2: Grefician (button) folded before Flop (didn't bet)
+Seat 3: Ebisu 64 (small blind) folded before Flop
+Seat 4: mickey889 (big blind) folded on the Flop
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 9: AlekseyAD173 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338743823:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:50:19 PT [2021/03/01 0:50:19 ET]
+Table 'Pandarus' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2.11 in chips) 
+Seat 2: Grefician ($0.80 in chips) 
+Seat 3: Ebisu 64 ($1.43 in chips) 
+Seat 4: mickey889 ($0.49 in chips) 
+Seat 5: Zuban442 ($2.29 in chips) 
+Seat 6: gurrrrdurrrr ($1.75 in chips) 
+Seat 7: Jimshamar ($3.21 in chips) 
+Seat 9: AlekseyAD173 ($0.78 in chips) 
+mickey889: posts small blind $0.01
+Zuban442: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 6d]
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+AlekseyAD173: folds 
+Dorex2007: folds 
+Grefician: folds 
+Ebisu 64: folds 
+mickey889: folds 
+Uncalled bet ($0.01) returned to Zuban442
+Zuban442 collected $0.02 from pot
+Zuban442: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: Ebisu 64 (button) folded before Flop (didn't bet)
+Seat 4: mickey889 (small blind) folded before Flop
+Seat 5: Zuban442 (big blind) collected ($0.02)
+Seat 6: gurrrrdurrrr folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 9: AlekseyAD173 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338746985:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:50:39 PT [2021/03/01 0:50:39 ET]
+Table 'Pandarus' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2.11 in chips) 
+Seat 2: Grefician ($0.80 in chips) 
+Seat 3: Ebisu 64 ($1.43 in chips) 
+Seat 4: mickey889 ($0.48 in chips) 
+Seat 5: Zuban442 ($2.30 in chips) 
+Seat 6: gurrrrdurrrr ($1.75 in chips) 
+Seat 7: Jimshamar ($3.21 in chips) 
+Seat 9: AlekseyAD173 ($0.78 in chips) 
+Zuban442: posts small blind $0.01
+gurrrrdurrrr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 9c]
+sserberuss joins the table at seat #8 
+Jimshamar: folds 
+AlekseyAD173: calls $0.02
+Dorex2007: folds 
+Grefician: calls $0.02
+Ebisu 64: folds 
+mickey889: calls $0.02
+Zuban442: calls $0.01
+gurrrrdurrrr: checks 
+*** FLOP *** [Qh 8h 9s]
+Zuban442: checks 
+gurrrrdurrrr: checks 
+AlekseyAD173: checks 
+Grefician: bets $0.04
+mickey889: calls $0.04
+Zuban442: folds 
+gurrrrdurrrr: folds 
+AlekseyAD173: calls $0.04
+*** TURN *** [Qh 8h 9s] [9d]
+AlekseyAD173: checks 
+Grefician: checks 
+mickey889: checks 
+*** RIVER *** [Qh 8h 9s 9d] [Td]
+AlekseyAD173: bets $0.11
+Grefician: folds 
+mickey889: calls $0.11
+*** SHOW DOWN ***
+AlekseyAD173: shows [Jh Ah] (a straight, Eight to Queen)
+mickey889: shows [Kc Jc] (a straight, Nine to King)
+mickey889 collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [Qh 8h 9s 9d Td]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded on the River
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: mickey889 (button) showed [Kc Jc] and won ($0.42) with a straight, Nine to King
+Seat 5: Zuban442 (small blind) folded on the Flop
+Seat 6: gurrrrdurrrr (big blind) folded on the Flop
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 9: AlekseyAD173 showed [Jh Ah] and lost with a straight, Eight to Queen
+
+
+
+PokerStars Hand #224338756614:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:51:37 PT [2021/03/01 0:51:37 ET]
+Table 'Pandarus' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2.11 in chips) 
+Seat 2: Grefician ($0.74 in chips) 
+Seat 3: Ebisu 64 ($1.43 in chips) 
+Seat 4: mickey889 ($0.73 in chips) 
+Seat 5: Zuban442 ($2.28 in chips) 
+Seat 6: gurrrrdurrrr ($1.73 in chips) 
+Seat 7: Jimshamar ($3.21 in chips) 
+Seat 9: AlekseyAD173 ($0.61 in chips) 
+gurrrrdurrrr: posts small blind $0.01
+Jimshamar: posts big blind $0.02
+sserberuss: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Th]
+AlekseyAD173: raises $0.04 to $0.06
+Dorex2007: folds 
+Grefician: folds 
+Ebisu 64: folds 
+mickey889: folds 
+Zuban442: folds 
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+Uncalled bet ($0.04) returned to AlekseyAD173
+AlekseyAD173 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: mickey889 folded before Flop (didn't bet)
+Seat 5: Zuban442 (button) folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr (small blind) folded before Flop
+Seat 7: Jimshamar (big blind) folded before Flop
+Seat 9: AlekseyAD173 collected ($0.05)
+
+
+
+PokerStars Hand #224338761253:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:52:06 PT [2021/03/01 0:52:06 ET]
+Table 'Pandarus' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($2.11 in chips) 
+Seat 2: Grefician ($0.74 in chips) 
+Seat 3: Ebisu 64 ($1.43 in chips) 
+Seat 4: mickey889 ($0.73 in chips) 
+Seat 5: Zuban442 ($2.28 in chips) 
+Seat 6: gurrrrdurrrr ($1.72 in chips) 
+Seat 7: Jimshamar ($3.19 in chips) 
+Seat 8: sserberuss ($0.80 in chips) 
+Seat 9: AlekseyAD173 ($0.64 in chips) 
+Jimshamar: posts small blind $0.01
+sserberuss: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 5d]
+AlekseyAD173: folds 
+Dorex2007: folds 
+Grefician: folds 
+Ebisu 64: folds 
+mickey889: raises $0.06 to $0.08
+Zuban442: folds 
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+sserberuss: folds 
+Uncalled bet ($0.06) returned to mickey889
+mickey889 collected $0.05 from pot
+mickey889: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: mickey889 collected ($0.05)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr (button) folded before Flop (didn't bet)
+Seat 7: Jimshamar (small blind) folded before Flop
+Seat 8: sserberuss (big blind) folded before Flop
+Seat 9: AlekseyAD173 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338765760:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:52:34 PT [2021/03/01 0:52:34 ET]
+Table 'Pandarus' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2.11 in chips) 
+Seat 2: Grefician ($0.74 in chips) 
+Seat 3: Ebisu 64 ($1.43 in chips) 
+Seat 4: mickey889 ($0.76 in chips) 
+Seat 5: Zuban442 ($2.28 in chips) 
+Seat 6: gurrrrdurrrr ($1.72 in chips) 
+Seat 7: Jimshamar ($3.18 in chips) 
+Seat 8: sserberuss ($0.78 in chips) 
+Seat 9: AlekseyAD173 ($0.64 in chips) 
+sserberuss: posts small blind $0.01
+AlekseyAD173: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 4s]
+Dorex2007: folds 
+Grefician: folds 
+Ebisu 64: folds 
+mickey889: calls $0.02
+Zuban442: calls $0.02
+gurrrrdurrrr: calls $0.02
+Jimshamar: folds 
+sserberuss: calls $0.01
+AlekseyAD173: checks 
+*** FLOP *** [Jc Ad Qs]
+sserberuss: checks 
+AlekseyAD173: checks 
+mickey889: checks 
+Zuban442: checks 
+gurrrrdurrrr: checks 
+*** TURN *** [Jc Ad Qs] [6h]
+sserberuss: checks 
+AlekseyAD173: bets $0.10
+mickey889: folds 
+Zuban442: folds 
+gurrrrdurrrr: folds 
+sserberuss: folds 
+Uncalled bet ($0.10) returned to AlekseyAD173
+AlekseyAD173 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Jc Ad Qs 6h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: mickey889 folded on the Turn
+Seat 5: Zuban442 folded on the Turn
+Seat 6: gurrrrdurrrr folded on the Turn
+Seat 7: Jimshamar (button) folded before Flop (didn't bet)
+Seat 8: sserberuss (small blind) folded on the Turn
+Seat 9: AlekseyAD173 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #224338772938:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:53:18 PT [2021/03/01 0:53:18 ET]
+Table 'Pandarus' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2.11 in chips) 
+Seat 2: Grefician ($0.74 in chips) 
+Seat 3: Ebisu 64 ($1.43 in chips) 
+Seat 4: mickey889 ($0.74 in chips) 
+Seat 5: Zuban442 ($2.26 in chips) 
+Seat 6: gurrrrdurrrr ($1.70 in chips) 
+Seat 7: Jimshamar ($3.18 in chips) 
+Seat 8: sserberuss ($0.76 in chips) 
+Seat 9: AlekseyAD173 ($0.72 in chips) 
+AlekseyAD173: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 3h]
+Grefician: folds 
+Ebisu 64: folds 
+mickey889: folds 
+Zuban442: folds 
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+sserberuss: folds 
+AlekseyAD173: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 (big blind) collected ($0.02)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: mickey889 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss (button) folded before Flop (didn't bet)
+Seat 9: AlekseyAD173 (small blind) folded before Flop
+
+
+
+PokerStars Hand #224338774973:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:53:31 PT [2021/03/01 0:53:31 ET]
+Table 'Pandarus' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2.12 in chips) 
+Seat 2: Grefician ($0.74 in chips) 
+Seat 3: Ebisu 64 ($1.43 in chips) 
+Seat 4: mickey889 ($0.74 in chips) 
+Seat 5: Zuban442 ($2.26 in chips) 
+Seat 6: gurrrrdurrrr ($1.70 in chips) 
+Seat 7: Jimshamar ($3.18 in chips) 
+Seat 8: sserberuss ($0.76 in chips) 
+Seat 9: AlekseyAD173 ($0.71 in chips) 
+Dorex2007: posts small blind $0.01
+Grefician: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 3h]
+Ebisu 64: folds 
+mickey889: folds 
+Zuban442: folds 
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+sserberuss: folds 
+AlekseyAD173: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to Grefician
+Grefician collected $0.02 from pot
+Grefician: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: Grefician (big blind) collected ($0.02)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: mickey889 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: AlekseyAD173 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338776985:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:53:43 PT [2021/03/01 0:53:43 ET]
+Table 'Pandarus' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2.11 in chips) 
+Seat 2: Grefician ($0.75 in chips) 
+Seat 3: Ebisu 64 ($1.43 in chips) 
+Seat 4: mickey889 ($0.74 in chips) 
+Seat 5: Zuban442 ($2.26 in chips) 
+Seat 6: gurrrrdurrrr ($1.70 in chips) 
+Seat 7: Jimshamar ($3.18 in chips) 
+Seat 8: sserberuss ($0.76 in chips) 
+Seat 9: AlekseyAD173 ($0.71 in chips) 
+Grefician: posts small blind $0.01
+Ebisu 64: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 5s]
+mickey889: calls $0.02
+Zuban442: folds 
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+sserberuss: folds 
+AlekseyAD173: folds 
+Dorex2007: folds 
+Grefician: folds 
+Ebisu 64: checks 
+*** FLOP *** [2d 2c Js]
+Ebisu 64: checks 
+mickey889: bets $0.06
+Ebisu 64: folds 
+Uncalled bet ($0.06) returned to mickey889
+mickey889 collected $0.05 from pot
+mickey889: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2d 2c Js]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: Grefician (small blind) folded before Flop
+Seat 3: Ebisu 64 (big blind) folded on the Flop
+Seat 4: mickey889 collected ($0.05)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: AlekseyAD173 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338781978:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:54:14 PT [2021/03/01 0:54:14 ET]
+Table 'Pandarus' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2.11 in chips) 
+Seat 2: Grefician ($0.74 in chips) 
+Seat 3: Ebisu 64 ($1.41 in chips) 
+Seat 4: mickey889 ($0.77 in chips) 
+Seat 5: Zuban442 ($2.26 in chips) 
+Seat 6: gurrrrdurrrr ($1.70 in chips) 
+Seat 7: Jimshamar ($3.18 in chips) 
+Seat 8: sserberuss ($0.76 in chips) 
+Seat 9: AlekseyAD173 ($0.71 in chips) 
+Ebisu 64: posts small blind $0.01
+mickey889: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 3c]
+Zuban442: folds 
+gurrrrdurrrr: calls $0.02
+Jimshamar: raises $0.04 to $0.06
+sserberuss: folds 
+AlekseyAD173: folds 
+Dorex2007: folds 
+Grefician: calls $0.06
+Ebisu 64: folds 
+mickey889: folds 
+gurrrrdurrrr: calls $0.04
+*** FLOP *** [Jh Kd Js]
+gurrrrdurrrr: checks 
+Jimshamar: checks 
+Grefician: checks 
+*** TURN *** [Jh Kd Js] [2h]
+gurrrrdurrrr: checks 
+Jimshamar: bets $0.06
+Grefician: folds 
+gurrrrdurrrr: folds 
+Uncalled bet ($0.06) returned to Jimshamar
+Jimshamar collected $0.20 from pot
+Jimshamar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Jh Kd Js 2h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician (button) folded on the Turn
+Seat 3: Ebisu 64 (small blind) folded before Flop
+Seat 4: mickey889 (big blind) folded before Flop
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr folded on the Turn
+Seat 7: Jimshamar collected ($0.20)
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: AlekseyAD173 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338789784:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:55:02 PT [2021/03/01 0:55:02 ET]
+Table 'Pandarus' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2.11 in chips) 
+Seat 2: Grefician ($0.68 in chips) 
+Seat 3: Ebisu 64 ($1.40 in chips) 
+Seat 4: mickey889 ($0.75 in chips) 
+Seat 5: Zuban442 ($2.26 in chips) 
+Seat 6: gurrrrdurrrr ($1.64 in chips) 
+Seat 7: Jimshamar ($3.32 in chips) 
+Seat 8: sserberuss ($0.76 in chips) 
+Seat 9: AlekseyAD173 ($0.71 in chips) 
+mickey889: posts small blind $0.01
+Zuban442: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 7h]
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+sserberuss: folds 
+AlekseyAD173: folds 
+Dorex2007: folds 
+Grefician: folds 
+Ebisu 64: folds 
+mickey889: calls $0.01
+Zuban442: checks 
+*** FLOP *** [5d Jd 8h]
+mickey889: checks 
+Zuban442: checks 
+*** TURN *** [5d Jd 8h] [Ah]
+mickey889: checks 
+Zuban442: checks 
+*** RIVER *** [5d Jd 8h Ah] [Ks]
+mickey889: checks 
+Zuban442: checks 
+*** SHOW DOWN ***
+mickey889: shows [4c 2d] (high card Ace)
+Zuban442: shows [2h 9d] (high card Ace - King+Jack+Nine kicker)
+Zuban442 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [5d Jd 8h Ah Ks]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: Ebisu 64 (button) folded before Flop (didn't bet)
+Seat 4: mickey889 (small blind) showed [4c 2d] and lost with high card Ace
+Seat 5: Zuban442 (big blind) showed [2h 9d] and won ($0.04) with high card Ace
+Seat 6: gurrrrdurrrr folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: AlekseyAD173 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338794109:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:55:32 PT [2021/03/01 0:55:32 ET]
+Table 'Pandarus' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2.11 in chips) 
+Seat 2: Grefician ($0.68 in chips) 
+Seat 3: Ebisu 64 ($1.40 in chips) 
+Seat 4: mickey889 ($0.73 in chips) 
+Seat 5: Zuban442 ($2.28 in chips) 
+Seat 6: gurrrrdurrrr ($1.64 in chips) 
+Seat 7: Jimshamar ($3.32 in chips) 
+Seat 8: sserberuss ($0.76 in chips) 
+Seat 9: AlekseyAD173 ($0.71 in chips) 
+Zuban442: posts small blind $0.01
+gurrrrdurrrr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 5d]
+Jimshamar: folds 
+sserberuss: raises $0.02 to $0.04
+AlekseyAD173: folds 
+Dorex2007: folds 
+Grefician: raises $0.04 to $0.08
+Ebisu 64: folds 
+mickey889: folds 
+Zuban442: folds 
+gurrrrdurrrr: folds 
+sserberuss: calls $0.04
+*** FLOP *** [5h Td Qh]
+sserberuss: checks 
+Grefician: bets $0.10
+sserberuss: calls $0.10
+*** TURN *** [5h Td Qh] [7c]
+sserberuss: checks 
+Grefician: bets $0.26
+sserberuss: calls $0.26
+*** RIVER *** [5h Td Qh 7c] [9s]
+sserberuss: bets $0.32 and is all-in
+Grefician: folds 
+Uncalled bet ($0.32) returned to sserberuss
+sserberuss collected $0.88 from pot
+sserberuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.91 | Rake $0.03 
+Board [5h Td Qh 7c 9s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded on the River
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: mickey889 (button) folded before Flop (didn't bet)
+Seat 5: Zuban442 (small blind) folded before Flop
+Seat 6: gurrrrdurrrr (big blind) folded before Flop
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss collected ($0.88)
+Seat 9: AlekseyAD173 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338801493:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:56:24 PT [2021/03/01 0:56:24 ET]
+Table 'Pandarus' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2.11 in chips) 
+Seat 2: Grefician ($0.24 in chips) 
+Seat 3: Ebisu 64 ($1.40 in chips) 
+Seat 4: mickey889 ($0.73 in chips) 
+Seat 5: Zuban442 ($2.27 in chips) 
+Seat 6: gurrrrdurrrr ($1.62 in chips) 
+Seat 7: Jimshamar ($3.32 in chips) 
+Seat 8: sserberuss ($1.20 in chips) 
+Seat 9: AlekseyAD173 ($0.71 in chips) 
+gurrrrdurrrr: posts small blind $0.01
+Jimshamar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Qh]
+sserberuss: folds 
+AlekseyAD173: folds 
+Dorex2007: calls $0.02
+Grefician: folds 
+Ebisu 64: folds 
+mickey889: calls $0.02
+Zuban442: calls $0.02
+gurrrrdurrrr: calls $0.01
+Jimshamar: checks 
+*** FLOP *** [5s 2h Js]
+gurrrrdurrrr: checks 
+Jimshamar: checks 
+Dorex2007: bets $0.08
+mickey889: folds 
+Zuban442: calls $0.08
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+*** TURN *** [5s 2h Js] [7s]
+Dorex2007: bets $0.13
+Zuban442: calls $0.13
+*** RIVER *** [5s 2h Js 7s] [3s]
+Dorex2007: checks 
+Zuban442: bets $0.25
+Dorex2007: folds 
+Uncalled bet ($0.25) returned to Zuban442
+Zuban442 collected $0.50 from pot
+Zuban442: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [5s 2h Js 7s 3s]
+Seat 1: Dorex2007 folded on the River
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: mickey889 folded on the Flop
+Seat 5: Zuban442 (button) collected ($0.50)
+Seat 6: gurrrrdurrrr (small blind) folded on the Flop
+Seat 7: Jimshamar (big blind) folded on the Flop
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: AlekseyAD173 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338811620:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:57:36 PT [2021/03/01 0:57:36 ET]
+Table 'Pandarus' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($1.88 in chips) 
+Seat 2: Grefician ($0.24 in chips) 
+Seat 3: Ebisu 64 ($1.40 in chips) 
+Seat 4: mickey889 ($0.71 in chips) 
+Seat 5: Zuban442 ($2.54 in chips) 
+Seat 6: gurrrrdurrrr ($1.60 in chips) 
+Seat 7: Jimshamar ($3.30 in chips) 
+Seat 8: sserberuss ($1.20 in chips) 
+Seat 9: AlekseyAD173 ($0.71 in chips) 
+Jimshamar: posts small blind $0.01
+sserberuss: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 4h]
+AlekseyAD173: folds 
+Dorex2007: folds 
+Grefician: folds 
+Ebisu 64: folds 
+mickey889: folds 
+Zuban442: folds 
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+Uncalled bet ($0.01) returned to sserberuss
+sserberuss collected $0.02 from pot
+sserberuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: mickey889 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr (button) folded before Flop (didn't bet)
+Seat 7: Jimshamar (small blind) folded before Flop
+Seat 8: sserberuss (big blind) collected ($0.02)
+Seat 9: AlekseyAD173 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338814732:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:57:58 PT [2021/03/01 0:57:58 ET]
+Table 'Pandarus' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($1.88 in chips) 
+Seat 2: Grefician ($0.24 in chips) 
+Seat 3: Ebisu 64 ($1.40 in chips) 
+Seat 4: mickey889 ($0.71 in chips) 
+Seat 5: Zuban442 ($2.54 in chips) 
+Seat 6: gurrrrdurrrr ($1.60 in chips) 
+Seat 7: Jimshamar ($3.29 in chips) 
+Seat 8: sserberuss ($1.21 in chips) 
+Seat 9: AlekseyAD173 ($0.71 in chips) 
+sserberuss: posts small blind $0.01
+AlekseyAD173: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 2h]
+Dorex2007: folds 
+Grefician: folds 
+Ebisu 64: folds 
+mickey889: folds 
+Zuban442: folds 
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+sserberuss: calls $0.01
+AlekseyAD173: checks 
+*** FLOP *** [Jh Ts Kd]
+sserberuss: checks 
+AlekseyAD173: checks 
+*** TURN *** [Jh Ts Kd] [Qh]
+sserberuss: bets $0.02
+AlekseyAD173: raises $0.08 to $0.10
+sserberuss: raises $0.16 to $0.26
+AlekseyAD173: raises $0.43 to $0.69 and is all-in
+sserberuss: calls $0.43
+*** RIVER *** [Jh Ts Kd Qh] [7c]
+*** SHOW DOWN ***
+sserberuss: shows [Ad 6d] (a straight, Ten to Ace)
+AlekseyAD173: shows [4c As] (a straight, Ten to Ace)
+sserberuss collected $0.69 from pot
+AlekseyAD173 collected $0.68 from pot
+*** SUMMARY ***
+Total pot $1.42 | Rake $0.05 
+Board [Jh Ts Kd Qh 7c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: mickey889 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr folded before Flop (didn't bet)
+Seat 7: Jimshamar (button) folded before Flop (didn't bet)
+Seat 8: sserberuss (small blind) showed [Ad 6d] and won ($0.69) with a straight, Ten to Ace
+Seat 9: AlekseyAD173 (big blind) showed [4c As] and won ($0.68) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #224338820443:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:58:40 PT [2021/03/01 0:58:40 ET]
+Table 'Pandarus' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($1.88 in chips) 
+Seat 2: Grefician ($0.24 in chips) 
+Seat 3: Ebisu 64 ($1.40 in chips) 
+Seat 4: mickey889 ($0.71 in chips) 
+Seat 5: Zuban442 ($2.54 in chips) 
+Seat 6: gurrrrdurrrr ($1.60 in chips) 
+Seat 7: Jimshamar ($3.29 in chips) 
+Seat 8: sserberuss ($1.19 in chips) 
+Seat 9: AlekseyAD173 ($0.68 in chips) 
+AlekseyAD173: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Tc]
+Grefician: folds 
+Ebisu 64: folds 
+mickey889 has timed out
+mickey889: folds 
+Zuban442: folds 
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+sserberuss: folds 
+AlekseyAD173: calls $0.01
+Dorex2007: raises $0.04 to $0.06
+AlekseyAD173: calls $0.04
+*** FLOP *** [7s 2s 2h]
+AlekseyAD173: checks 
+Dorex2007: bets $0.12
+AlekseyAD173: folds 
+Uncalled bet ($0.12) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [7s 2s 2h]
+Seat 1: Dorex2007 (big blind) collected ($0.12)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 4: mickey889 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss (button) folded before Flop (didn't bet)
+Seat 9: AlekseyAD173 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #224338825570:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:59:17 PT [2021/03/01 0:59:17 ET]
+Table 'Pandarus' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($1.94 in chips) 
+Seat 2: Grefician ($0.24 in chips) 
+Seat 3: Ebisu 64 ($1.40 in chips) 
+Seat 5: Zuban442 ($2.54 in chips) 
+Seat 6: gurrrrdurrrr ($1.60 in chips) 
+Seat 7: Jimshamar ($3.29 in chips) 
+Seat 8: sserberuss ($1.19 in chips) 
+Seat 9: AlekseyAD173 ($0.62 in chips) 
+Dorex2007: posts small blind $0.01
+Grefician: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 5d]
+Ebisu 64: folds 
+Zuban442: folds 
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+sserberuss: folds 
+AlekseyAD173: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to Grefician
+Grefician collected $0.02 from pot
+Grefician: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: Grefician (big blind) collected ($0.02)
+Seat 3: Ebisu 64 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: AlekseyAD173 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338828109:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 21:59:35 PT [2021/03/01 0:59:35 ET]
+Table 'Pandarus' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($1.93 in chips) 
+Seat 2: Grefician ($0.25 in chips) 
+Seat 3: Ebisu 64 ($1.40 in chips) 
+Seat 5: Zuban442 ($2.54 in chips) 
+Seat 6: gurrrrdurrrr ($1.60 in chips) 
+Seat 7: Jimshamar ($3.29 in chips) 
+Seat 8: sserberuss ($1.19 in chips) 
+Seat 9: AlekseyAD173 ($0.62 in chips) 
+Grefician: posts small blind $0.01
+Ebisu 64: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Ts]
+Zuban442: folds 
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+sserberuss: folds 
+AlekseyAD173: calls $0.02
+Dorex2007: folds 
+Grefician: folds 
+Ebisu 64: checks 
+*** FLOP *** [Qd 3s 2s]
+Ebisu 64: checks 
+AlekseyAD173: checks 
+*** TURN *** [Qd 3s 2s] [Ah]
+Ebisu 64: checks 
+AlekseyAD173: checks 
+*** RIVER *** [Qd 3s 2s Ah] [8d]
+Ebisu 64: checks 
+AlekseyAD173: checks 
+*** SHOW DOWN ***
+Ebisu 64: shows [2h Tc] (a pair of Deuces)
+AlekseyAD173: mucks hand 
+Ebisu 64 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qd 3s 2s Ah 8d]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: Grefician (small blind) folded before Flop
+Seat 3: Ebisu 64 (big blind) showed [2h Tc] and won ($0.05) with a pair of Deuces
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: AlekseyAD173 mucked [Kd Th]
+
+
+
+PokerStars Hand #224338832827:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:00:08 PT [2021/03/01 1:00:08 ET]
+Table 'Pandarus' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($1.93 in chips) 
+Seat 2: Grefician ($0.24 in chips) 
+Seat 3: Ebisu 64 ($1.43 in chips) 
+Seat 4: mickey889 ($0.71 in chips) 
+Seat 5: Zuban442 ($2.54 in chips) 
+Seat 6: gurrrrdurrrr ($1.60 in chips) 
+Seat 7: Jimshamar ($3.29 in chips) 
+Seat 8: sserberuss ($1.19 in chips) 
+Seat 9: AlekseyAD173 ($0.60 in chips) 
+Ebisu 64: posts small blind $0.01
+mickey889: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 4h]
+Zuban442: folds 
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+sserberuss: folds 
+AlekseyAD173: folds 
+Dorex2007: calls $0.02
+Grefician: folds 
+Ebisu 64: folds 
+mickey889: checks 
+*** FLOP *** [Kd 3h 3d]
+Ebisu 64 leaves the table
+mickey889: checks 
+Dorex2007: checks 
+*** TURN *** [Kd 3h 3d] [7c]
+mickey889: checks 
+Dizab joins the table at seat #3 
+Dorex2007: checks 
+*** RIVER *** [Kd 3h 3d 7c] [7s]
+mickey889: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+mickey889: shows [8s Ac] (two pair, Sevens and Threes)
+Dorex2007: shows [Ah 4h] (two pair, Sevens and Threes)
+mickey889 collected $0.03 from pot
+Dorex2007 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kd 3h 3d 7c 7s]
+Seat 1: Dorex2007 showed [Ah 4h] and won ($0.02) with two pair, Sevens and Threes
+Seat 2: Grefician (button) folded before Flop (didn't bet)
+Seat 3: Ebisu 64 (small blind) folded before Flop
+Seat 4: mickey889 (big blind) showed [8s Ac] and won ($0.03) with two pair, Sevens and Threes
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: AlekseyAD173 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338838877:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:00:48 PT [2021/03/01 1:00:48 ET]
+Table 'Pandarus' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($1.93 in chips) 
+Seat 2: Grefician ($0.24 in chips) 
+Seat 4: mickey889 ($0.72 in chips) 
+Seat 5: Zuban442 ($2.54 in chips) 
+Seat 6: gurrrrdurrrr ($1.60 in chips) 
+Seat 7: Jimshamar ($3.29 in chips) 
+Seat 8: sserberuss ($1.19 in chips) 
+Seat 9: AlekseyAD173 ($0.60 in chips) 
+Zuban442: posts small blind $0.01
+gurrrrdurrrr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 2c]
+Jimshamar: folds 
+sserberuss: folds 
+AlekseyAD173: folds 
+Dorex2007: folds 
+Grefician: raises $0.04 to $0.06
+mickey889: folds 
+Zuban442: folds 
+gurrrrdurrrr: folds 
+Uncalled bet ($0.04) returned to Grefician
+Grefician collected $0.05 from pot
+Grefician: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician collected ($0.05)
+Seat 4: mickey889 (button) folded before Flop (didn't bet)
+Seat 5: Zuban442 (small blind) folded before Flop
+Seat 6: gurrrrdurrrr (big blind) folded before Flop
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: AlekseyAD173 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338841430:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:01:04 PT [2021/03/01 1:01:04 ET]
+Table 'Pandarus' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($1.93 in chips) 
+Seat 2: Grefician ($0.27 in chips) 
+Seat 4: mickey889 ($0.72 in chips) 
+Seat 5: Zuban442 ($2.53 in chips) 
+Seat 6: gurrrrdurrrr ($1.58 in chips) 
+Seat 7: Jimshamar ($3.29 in chips) 
+Seat 8: sserberuss ($1.19 in chips) 
+Seat 9: AlekseyAD173 ($0.60 in chips) 
+gurrrrdurrrr: posts small blind $0.01
+Jimshamar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 6s]
+sserberuss: raises $0.02 to $0.04
+AlekseyAD173: folds 
+Dorex2007: folds 
+Grefician: folds 
+mickey889: calls $0.04
+Zuban442: folds 
+gurrrrdurrrr is disconnected 
+gurrrrdurrrr is connected 
+gurrrrdurrrr: calls $0.03
+Jimshamar: calls $0.02
+*** FLOP *** [Tc 5c 2c]
+gurrrrdurrrr: checks 
+Jimshamar: checks 
+sserberuss: checks 
+mickey889: checks 
+*** TURN *** [Tc 5c 2c] [Qh]
+gurrrrdurrrr: checks 
+Jimshamar: checks 
+sserberuss: bets $0.02
+mickey889: folds 
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+Uncalled bet ($0.02) returned to sserberuss
+sserberuss collected $0.15 from pot
+sserberuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Tc 5c 2c Qh]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 4: mickey889 folded on the Turn
+Seat 5: Zuban442 (button) folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr (small blind) folded on the Turn
+Seat 7: Jimshamar (big blind) folded on the Turn
+Seat 8: sserberuss collected ($0.15)
+Seat 9: AlekseyAD173 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338851107:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:02:05 PT [2021/03/01 1:02:05 ET]
+Table 'Pandarus' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($1.93 in chips) 
+Seat 2: Grefician ($0.27 in chips) 
+Seat 4: mickey889 ($0.68 in chips) 
+Seat 5: Zuban442 ($2.53 in chips) 
+Seat 6: gurrrrdurrrr ($1.54 in chips) 
+Seat 7: Jimshamar ($3.25 in chips) 
+Seat 8: sserberuss ($1.30 in chips) 
+Seat 9: AlekseyAD173 ($0.60 in chips) 
+Jimshamar: posts small blind $0.01
+sserberuss: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 3h]
+AlekseyAD173: calls $0.02
+Dizab leaves the table
+Dorex2007: folds 
+Grefician: raises $0.04 to $0.06
+mickey889: folds 
+Zuban442: folds 
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+sserberuss: calls $0.04
+AlekseyAD173: calls $0.04
+*** FLOP *** [Ac 7h 2s]
+sserberuss: checks 
+AlekseyAD173: checks 
+Grefician: bets $0.21 and is all-in
+sserberuss: folds 
+AlekseyAD173: folds 
+Uncalled bet ($0.21) returned to Grefician
+Grefician collected $0.18 from pot
+Grefician: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Ac 7h 2s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician collected ($0.18)
+Seat 4: mickey889 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr (button) folded before Flop (didn't bet)
+Seat 7: Jimshamar (small blind) folded before Flop
+Seat 8: sserberuss (big blind) folded on the Flop
+Seat 9: AlekseyAD173 folded on the Flop
+
+
+
+PokerStars Hand #224338857268:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:02:43 PT [2021/03/01 1:02:43 ET]
+Table 'Pandarus' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($1.93 in chips) 
+Seat 2: Grefician ($0.39 in chips) 
+Seat 4: mickey889 ($0.68 in chips) 
+Seat 5: Zuban442 ($2.53 in chips) 
+Seat 6: gurrrrdurrrr ($1.54 in chips) 
+Seat 7: Jimshamar ($3.24 in chips) 
+Seat 8: sserberuss ($1.24 in chips) 
+Seat 9: AlekseyAD173 ($0.54 in chips) 
+sserberuss: posts small blind $0.01
+AlekseyAD173: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 6s]
+Dizab joins the table at seat #3 
+Dorex2007: folds 
+Grefician: folds 
+mickey889: folds 
+Zuban442: folds 
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+sserberuss: calls $0.01
+AlekseyAD173: checks 
+*** FLOP *** [8d Qh 5h]
+sserberuss: checks 
+AlekseyAD173: checks 
+*** TURN *** [8d Qh 5h] [8s]
+sserberuss: bets $0.04
+AlekseyAD173: folds 
+Uncalled bet ($0.04) returned to sserberuss
+sserberuss collected $0.04 from pot
+sserberuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [8d Qh 5h 8s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 4: mickey889 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr folded before Flop (didn't bet)
+Seat 7: Jimshamar (button) folded before Flop (didn't bet)
+Seat 8: sserberuss (small blind) collected ($0.04)
+Seat 9: AlekseyAD173 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #224338860717:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:03:05 PT [2021/03/01 1:03:05 ET]
+Table 'Pandarus' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($1.93 in chips) 
+Seat 2: Grefician ($0.39 in chips) 
+Seat 4: mickey889 ($0.68 in chips) 
+Seat 5: Zuban442 ($2.53 in chips) 
+Seat 6: gurrrrdurrrr ($1.54 in chips) 
+Seat 8: sserberuss ($1.26 in chips) 
+Seat 9: AlekseyAD173 ($0.52 in chips) 
+AlekseyAD173: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 2d]
+Grefician: folds 
+mickey889: calls $0.02
+Zuban442: folds 
+gurrrrdurrrr: calls $0.02
+sserberuss: calls $0.02
+AlekseyAD173: folds 
+Dorex2007: checks 
+*** FLOP *** [7s 6h 2s]
+Dorex2007: checks 
+mickey889: checks 
+gurrrrdurrrr: bets $0.06
+sserberuss: folds 
+Dorex2007: folds 
+mickey889: folds 
+Uncalled bet ($0.06) returned to gurrrrdurrrr
+gurrrrdurrrr collected $0.09 from pot
+gurrrrdurrrr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [7s 6h 2s]
+Seat 1: Dorex2007 (big blind) folded on the Flop
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 4: mickey889 folded on the Flop
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr collected ($0.09)
+Seat 8: sserberuss (button) folded on the Flop
+Seat 9: AlekseyAD173 (small blind) folded before Flop
+
+
+
+PokerStars Hand #224338866109:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:03:38 PT [2021/03/01 1:03:38 ET]
+Table 'Pandarus' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($1.91 in chips) 
+Seat 2: Grefician ($0.39 in chips) 
+Seat 4: mickey889 ($0.66 in chips) 
+Seat 5: Zuban442 ($2.53 in chips) 
+Seat 6: gurrrrdurrrr ($1.61 in chips) 
+Seat 8: sserberuss ($1.24 in chips) 
+Seat 9: AlekseyAD173 ($0.51 in chips) 
+Dorex2007: posts small blind $0.01
+Grefician: posts big blind $0.02
+Dizab: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 6d]
+mickey889: folds 
+Zuban442: folds 
+gurrrrdurrrr: calls $0.02
+sserberuss: calls $0.02
+AlekseyAD173: calls $0.02
+Dorex2007: calls $0.01
+Grefician: checks 
+*** FLOP *** [3c 4s Js]
+Dorex2007: checks 
+Grefician: checks 
+gurrrrdurrrr: bets $0.08
+sserberuss: folds 
+AlekseyAD173: calls $0.08
+Dorex2007: folds 
+Grefician: folds 
+*** TURN *** [3c 4s Js] [8s]
+gurrrrdurrrr: checks 
+AlekseyAD173: bets $0.13
+gurrrrdurrrr: calls $0.13
+*** RIVER *** [3c 4s Js 8s] [5c]
+gurrrrdurrrr: checks 
+AlekseyAD173: checks 
+*** SHOW DOWN ***
+gurrrrdurrrr: shows [3s 3h] (three of a kind, Threes)
+AlekseyAD173: mucks hand 
+gurrrrdurrrr collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [3c 4s Js 8s 5c]
+Seat 1: Dorex2007 (small blind) folded on the Flop
+Seat 2: Grefician (big blind) folded on the Flop
+Seat 4: mickey889 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr showed [3s 3h] and won ($0.50) with three of a kind, Threes
+Seat 8: sserberuss folded on the Flop
+Seat 9: AlekseyAD173 (button) mucked [As Jd]
+
+
+
+PokerStars Hand #224338876493:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:04:43 PT [2021/03/01 1:04:43 ET]
+Table 'Pandarus' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($1.89 in chips) 
+Seat 2: Grefician ($0.37 in chips) 
+Seat 3: Dizab ($2 in chips) 
+Seat 4: mickey889 ($0.66 in chips) 
+Seat 5: Zuban442 ($2.53 in chips) 
+Seat 6: gurrrrdurrrr ($1.88 in chips) 
+Seat 8: sserberuss ($1.22 in chips) 
+Seat 9: AlekseyAD173 ($0.28 in chips) 
+Grefician: posts small blind $0.01
+Dizab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Qh]
+mickey889: folds 
+Zuban442: folds 
+gurrrrdurrrr: calls $0.02
+sserberuss: calls $0.02
+AlekseyAD173: calls $0.02
+Dorex2007: folds 
+Grefician: folds 
+Dizab has timed out
+Dizab: checks 
+*** FLOP *** [4d Ks 2d]
+Dizab: checks 
+gurrrrdurrrr: checks 
+sserberuss: bets $0.09
+AlekseyAD173: folds 
+Dizab: folds 
+gurrrrdurrrr: folds 
+Uncalled bet ($0.09) returned to sserberuss
+sserberuss collected $0.09 from pot
+sserberuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [4d Ks 2d]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: Grefician (small blind) folded before Flop
+Seat 3: Dizab (big blind) folded on the Flop
+Seat 4: mickey889 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr folded on the Flop
+Seat 8: sserberuss collected ($0.09)
+Seat 9: AlekseyAD173 folded on the Flop
+
+
+
+PokerStars Hand #224338888138:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:05:56 PT [2021/03/01 1:05:56 ET]
+Table 'Pandarus' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($1.89 in chips) 
+Seat 2: Grefician ($0.36 in chips) 
+Seat 3: Dizab ($2 in chips) 
+Seat 4: mickey889 ($0.66 in chips) 
+Seat 5: Zuban442 ($2.53 in chips) 
+Seat 6: gurrrrdurrrr ($1.86 in chips) 
+Seat 7: Jimshamar ($3.24 in chips) 
+Seat 8: sserberuss ($1.29 in chips) 
+Seat 9: AlekseyAD173 ($0.26 in chips) 
+Dizab: posts small blind $0.01
+mickey889: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 7d]
+Zuban442: folds 
+gurrrrdurrrr: folds 
+Jimshamar: folds 
+sserberuss: raises $0.04 to $0.06
+AlekseyAD173: folds 
+Dorex2007: folds 
+Grefician: folds 
+Dizab: folds 
+mickey889: raises $0.10 to $0.16
+sserberuss: raises $1.13 to $1.29 and is all-in
+mickey889: calls $0.50 and is all-in
+Uncalled bet ($0.63) returned to sserberuss
+*** FLOP *** [2s Ks 8d]
+*** TURN *** [2s Ks 8d] [8h]
+*** RIVER *** [2s Ks 8d 8h] [Jd]
+*** SHOW DOWN ***
+mickey889: shows [Kh Kc] (a full house, Kings full of Eights)
+sserberuss: shows [Ac Ah] (two pair, Aces and Eights)
+mickey889 cashed out the hand for $0.23
+*** SUMMARY ***
+Total pot $1.33 | Rake $0.05 
+Board [2s Ks 8d 8h Jd]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician (button) folded before Flop (didn't bet)
+Seat 3: Dizab (small blind) folded before Flop
+Seat 4: mickey889 (big blind) showed [Kh Kc] and won ($1.28) with a full house, Kings full of Eights (pot not awarded as player cashed out)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: gurrrrdurrrr folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss showed [Ac Ah] and lost with two pair, Aces and Eights
+Seat 9: AlekseyAD173 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338894845:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:06:37 PT [2021/03/01 1:06:37 ET]
+Table 'Pandarus' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($1.89 in chips) 
+Seat 2: Grefician ($0.36 in chips) 
+Seat 3: Dizab ($2 in chips) 
+Seat 4: mickey889 ($0.23 in chips) 
+Seat 5: Zuban442 ($2.53 in chips) 
+Seat 6: gurrrrdurrrr ($1.86 in chips) 
+Seat 7: Jimshamar ($3.24 in chips) 
+Seat 8: sserberuss ($0.63 in chips) 
+Seat 9: AlekseyAD173 ($0.80 in chips) 
+mickey889: posts small blind $0.01
+Zuban442: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 8c]
+gurrrrdurrrr: calls $0.02
+Jimshamar: folds 
+sserberuss: folds 
+AlekseyAD173: folds 
+Dorex2007: folds 
+Grefician: folds 
+Dizab: folds 
+mickey889: calls $0.01
+Zuban442: checks 
+*** FLOP *** [5h Tc 3s]
+mickey889: checks 
+Zuban442: checks 
+gurrrrdurrrr: checks 
+*** TURN *** [5h Tc 3s] [Ah]
+mickey889: checks 
+Zuban442: checks 
+gurrrrdurrrr: bets $0.04
+mickey889: folds 
+Zuban442: folds 
+Uncalled bet ($0.04) returned to gurrrrdurrrr
+gurrrrdurrrr collected $0.06 from pot
+gurrrrdurrrr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [5h Tc 3s Ah]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: Dizab (button) folded before Flop (didn't bet)
+Seat 4: mickey889 (small blind) folded on the Turn
+Seat 5: Zuban442 (big blind) folded on the Turn
+Seat 6: gurrrrdurrrr collected ($0.06)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: AlekseyAD173 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338900202:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:07:11 PT [2021/03/01 1:07:11 ET]
+Table 'Pandarus' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($1.89 in chips) 
+Seat 2: Grefician ($0.36 in chips) 
+Seat 3: Dizab ($2 in chips) 
+Seat 4: mickey889 ($0.21 in chips) 
+Seat 5: Zuban442 ($2.51 in chips) 
+Seat 7: Jimshamar ($3.24 in chips) 
+Seat 8: sserberuss ($0.63 in chips) 
+Seat 9: AlekseyAD173 ($0.80 in chips) 
+Zuban442: posts small blind $0.01
+gurrrrdurrrr: is sitting out 
+Jimshamar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 3s]
+sserberuss: calls $0.02
+gurrrrdurrrr leaves the table
+AlekseyAD173: calls $0.02
+Dorex2007: folds 
+Grefician: folds 
+Dizab: folds 
+mickey889: folds 
+ceckomontana joins the table at seat #6 
+Zuban442: calls $0.01
+Jimshamar: checks 
+*** FLOP *** [8c Qd 2h]
+Zuban442: checks 
+Jimshamar: checks 
+sserberuss: bets $0.04
+AlekseyAD173: folds 
+Zuban442: folds 
+Jimshamar: folds 
+Uncalled bet ($0.04) returned to sserberuss
+sserberuss collected $0.08 from pot
+sserberuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [8c Qd 2h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: Dizab folded before Flop (didn't bet)
+Seat 4: mickey889 (button) folded before Flop (didn't bet)
+Seat 5: Zuban442 (small blind) folded on the Flop
+Seat 7: Jimshamar (big blind) folded on the Flop
+Seat 8: sserberuss collected ($0.08)
+Seat 9: AlekseyAD173 folded on the Flop
+
+
+
+PokerStars Hand #224338905006:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:07:41 PT [2021/03/01 1:07:41 ET]
+Table 'Pandarus' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($1.89 in chips) 
+Seat 2: Grefician ($0.36 in chips) 
+Seat 3: Dizab ($2 in chips) 
+Seat 4: mickey889 ($0.21 in chips) 
+Seat 5: Zuban442 ($2.49 in chips) 
+Seat 7: Jimshamar ($3.22 in chips) 
+Seat 8: sserberuss ($0.69 in chips) 
+Seat 9: AlekseyAD173 ($0.78 in chips) 
+Jimshamar: posts small blind $0.01
+sserberuss: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Qd]
+AlekseyAD173: calls $0.02
+Dorex2007: folds 
+Grefician: folds 
+Dizab: folds 
+mickey889: folds 
+Zuban442: folds 
+Jimshamar: calls $0.01
+sserberuss: checks 
+*** FLOP *** [Ts 8d Kd]
+Jimshamar: bets $0.03
+sserberuss: folds 
+AlekseyAD173: folds 
+Uncalled bet ($0.03) returned to Jimshamar
+Jimshamar collected $0.06 from pot
+Jimshamar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Ts 8d Kd]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: Dizab folded before Flop (didn't bet)
+Seat 4: mickey889 folded before Flop (didn't bet)
+Seat 5: Zuban442 (button) folded before Flop (didn't bet)
+Seat 7: Jimshamar (small blind) collected ($0.06)
+Seat 8: sserberuss (big blind) folded on the Flop
+Seat 9: AlekseyAD173 folded on the Flop
+
+
+
+PokerStars Hand #224338908158:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:08:00 PT [2021/03/01 1:08:00 ET]
+Table 'Pandarus' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($1.89 in chips) 
+Seat 2: Grefician ($0.36 in chips) 
+Seat 3: Dizab ($2 in chips) 
+Seat 4: mickey889 ($0.21 in chips) 
+Seat 5: Zuban442 ($2.49 in chips) 
+Seat 6: ceckomontana ($0.80 in chips) 
+Seat 7: Jimshamar ($3.26 in chips) 
+Seat 8: sserberuss ($0.67 in chips) 
+Seat 9: AlekseyAD173 ($0.76 in chips) 
+sserberuss: posts small blind $0.01
+AlekseyAD173: posts big blind $0.02
+ceckomontana: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 5s]
+Dorex2007: folds 
+Grefician: folds 
+Dizab: folds 
+mickey889: folds 
+Zuban442: raises $0.07 to $0.09
+ceckomontana: folds 
+sserberuss is disconnected 
+Jimshamar: folds 
+Dizab leaves the table
+SlavikPuha joins the table at seat #3 
+sserberuss has timed out while disconnected
+sserberuss: folds 
+AlekseyAD173: folds 
+Uncalled bet ($0.07) returned to Zuban442
+Zuban442 collected $0.07 from pot
+Zuban442: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: Dizab folded before Flop (didn't bet)
+Seat 4: mickey889 folded before Flop (didn't bet)
+Seat 5: Zuban442 collected ($0.07)
+Seat 6: ceckomontana folded before Flop (didn't bet)
+Seat 7: Jimshamar (button) folded before Flop (didn't bet)
+Seat 8: sserberuss (small blind) folded before Flop
+Seat 9: AlekseyAD173 (big blind) folded before Flop
+
+
+
+PokerStars Hand #224338915895:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:08:48 PT [2021/03/01 1:08:48 ET]
+Table 'Pandarus' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($1.89 in chips) 
+Seat 2: Grefician ($0.36 in chips) 
+Seat 4: mickey889 ($0.21 in chips) 
+Seat 5: Zuban442 ($2.54 in chips) 
+Seat 6: ceckomontana ($0.78 in chips) 
+Seat 7: Jimshamar ($3.26 in chips) 
+Seat 8: sserberuss ($0.66 in chips) 
+Seat 9: AlekseyAD173 ($0.74 in chips) 
+AlekseyAD173: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+SlavikPuha: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 8s]
+Grefician: folds 
+mickey889: calls $0.02
+Zuban442: folds 
+ceckomontana: folds 
+Jimshamar: folds 
+sserberuss: raises $0.06 to $0.08
+AlekseyAD173: folds 
+Dorex2007: folds 
+mickey889: raises $0.13 to $0.21 and is all-in
+sserberuss: calls $0.13
+*** FLOP *** [Ac 8c 9d]
+*** TURN *** [Ac 8c 9d] [6h]
+*** RIVER *** [Ac 8c 9d 6h] [Ts]
+*** SHOW DOWN ***
+mickey889: shows [6s 6d] (three of a kind, Sixes)
+sserberuss: shows [Qs Kc] (high card Ace)
+mickey889 collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Ac 8c 9d 6h Ts]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 4: mickey889 showed [6s 6d] and won ($0.43) with three of a kind, Sixes
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: ceckomontana folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss (button) showed [Qs Kc] and lost with high card Ace
+Seat 9: AlekseyAD173 (small blind) folded before Flop
+
+
+
+PokerStars Hand #224338920913:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:09:20 PT [2021/03/01 1:09:20 ET]
+Table 'Pandarus' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($1.87 in chips) 
+Seat 2: Grefician ($0.36 in chips) 
+Seat 4: mickey889 ($0.43 in chips) 
+Seat 5: Zuban442 ($2.54 in chips) 
+Seat 6: ceckomontana ($0.78 in chips) 
+Seat 7: Jimshamar ($3.26 in chips) 
+Seat 8: sserberuss ($0.45 in chips) 
+Seat 9: AlekseyAD173 ($0.73 in chips) 
+Dorex2007: posts small blind $0.01
+Grefician: posts big blind $0.02
+SlavikPuha: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Jc]
+mickey889: calls $0.02
+Zuban442: folds 
+ceckomontana: folds 
+Jimshamar: calls $0.02
+sserberuss: calls $0.02
+AlekseyAD173: folds 
+Dorex2007: calls $0.01
+Grefician: checks 
+*** FLOP *** [9d 2s Jh]
+Dorex2007: checks 
+Grefician: checks 
+mickey889: checks 
+Jimshamar: bets $0.05
+sserberuss: folds 
+Dorex2007: folds 
+Grefician: folds 
+mickey889: folds 
+Uncalled bet ($0.05) returned to Jimshamar
+Jimshamar collected $0.10 from pot
+Jimshamar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [9d 2s Jh]
+Seat 1: Dorex2007 (small blind) folded on the Flop
+Seat 2: Grefician (big blind) folded on the Flop
+Seat 4: mickey889 folded on the Flop
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: ceckomontana folded before Flop (didn't bet)
+Seat 7: Jimshamar collected ($0.10)
+Seat 8: sserberuss folded on the Flop
+Seat 9: AlekseyAD173 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338928332:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:10:07 PT [2021/03/01 1:10:07 ET]
+Table 'Pandarus' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($1.85 in chips) 
+Seat 2: Grefician ($0.34 in chips) 
+Seat 3: SlavikPuha ($2 in chips) 
+Seat 4: mickey889 ($0.41 in chips) 
+Seat 5: Zuban442 ($2.54 in chips) 
+Seat 6: ceckomontana ($0.78 in chips) 
+Seat 7: Jimshamar ($3.34 in chips) 
+Seat 8: sserberuss ($0.43 in chips) 
+Seat 9: AlekseyAD173 ($0.73 in chips) 
+Grefician: posts small blind $0.01
+SlavikPuha: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Qd]
+mickey889: raises $0.06 to $0.08
+Zuban442: folds 
+ceckomontana: folds 
+Jimshamar: folds 
+sserberuss: folds 
+AlekseyAD173: calls $0.08
+Dorex2007: folds 
+Grefician: folds 
+SlavikPuha: calls $0.06
+*** FLOP *** [Kc Td 3c]
+SlavikPuha: checks 
+mickey889: checks 
+AlekseyAD173: checks 
+*** TURN *** [Kc Td 3c] [Jd]
+SlavikPuha: bets $0.12
+mickey889: raises $0.12 to $0.24
+AlekseyAD173: calls $0.24
+SlavikPuha: folds 
+*** RIVER *** [Kc Td 3c Jd] [4d]
+mickey889: bets $0.09 and is all-in
+AlekseyAD173: calls $0.09
+*** SHOW DOWN ***
+mickey889: shows [As Qs] (a straight, Ten to Ace)
+AlekseyAD173: shows [7d Ad] (a flush, Ace high)
+AlekseyAD173 collected $0.99 from pot
+*** SUMMARY ***
+Total pot $1.03 | Rake $0.04 
+Board [Kc Td 3c Jd 4d]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: Grefician (small blind) folded before Flop
+Seat 3: SlavikPuha (big blind) folded on the Turn
+Seat 4: mickey889 showed [As Qs] and lost with a straight, Ten to Ace
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: ceckomontana folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: AlekseyAD173 showed [7d Ad] and won ($0.99) with a flush, Ace high
+
+
+
+PokerStars Hand #224338936152:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:10:57 PT [2021/03/01 1:10:57 ET]
+Table 'Pandarus' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($1.85 in chips) 
+Seat 2: Grefician ($0.33 in chips) 
+Seat 3: SlavikPuha ($2 in chips) 
+Seat 5: Zuban442 ($2.54 in chips) 
+Seat 6: ceckomontana ($0.78 in chips) 
+Seat 7: Jimshamar ($3.34 in chips) 
+Seat 8: sserberuss ($0.43 in chips) 
+Seat 9: AlekseyAD173 ($1.31 in chips) 
+SlavikPuha: posts small blind $0.01
+Zuban442: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Kc]
+mickey889 leaves the table
+ceckomontana: folds 
+Jimshamar: folds 
+sserberuss: folds 
+AlekseyAD173: folds 
+Dorex2007: raises $0.04 to $0.06
+ser447787 joins the table at seat #4 
+Grefician: folds 
+SlavikPuha: raises $0.14 to $0.20
+AlekseyAD173 leaves the table
+Zuban442: folds 
+Dorex2007: folds 
+Uncalled bet ($0.14) returned to SlavikPuha
+SlavikPuha collected $0.14 from pot
+SlavikPuha: doesn't show hand 
+ermek122286 joins the table at seat #9 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: Dorex2007 folded before Flop
+Seat 2: Grefician (button) folded before Flop (didn't bet)
+Seat 3: SlavikPuha (small blind) collected ($0.14)
+Seat 5: Zuban442 (big blind) folded before Flop
+Seat 6: ceckomontana folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: AlekseyAD173 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338943770:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:11:45 PT [2021/03/01 1:11:45 ET]
+Table 'Pandarus' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($1.79 in chips) 
+Seat 2: Grefician ($0.33 in chips) 
+Seat 3: SlavikPuha ($2.08 in chips) 
+Seat 5: Zuban442 ($2.52 in chips) 
+Seat 6: ceckomontana ($0.78 in chips) 
+Seat 7: Jimshamar ($3.34 in chips) 
+Seat 8: sserberuss ($0.43 in chips) 
+Zuban442: posts small blind $0.01
+ceckomontana: posts big blind $0.02
+ermek122286: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 2h]
+Jimshamar: folds 
+sserberuss: raises $0.02 to $0.04
+Dorex2007: folds 
+Grefician: folds 
+SlavikPuha: folds 
+Zuban442: folds 
+ceckomontana: folds 
+Uncalled bet ($0.02) returned to sserberuss
+sserberuss collected $0.05 from pot
+sserberuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: SlavikPuha (button) folded before Flop (didn't bet)
+Seat 5: Zuban442 (small blind) folded before Flop
+Seat 6: ceckomontana (big blind) folded before Flop
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss collected ($0.05)
+
+
+
+PokerStars Hand #224338946159:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:11:59 PT [2021/03/01 1:11:59 ET]
+Table 'Pandarus' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($1.79 in chips) 
+Seat 2: Grefician ($0.33 in chips) 
+Seat 3: SlavikPuha ($2.08 in chips) 
+Seat 5: Zuban442 ($2.51 in chips) 
+Seat 6: ceckomontana ($0.76 in chips) 
+Seat 7: Jimshamar ($3.34 in chips) 
+Seat 8: sserberuss ($0.46 in chips) 
+ceckomontana: posts small blind $0.01
+Jimshamar: posts big blind $0.02
+ermek122286: sits out 
+ser447787: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 4d]
+sserberuss: raises $0.02 to $0.04
+Dorex2007: folds 
+Grefician: folds 
+SlavikPuha: folds 
+Zuban442: folds 
+ceckomontana: calls $0.03
+Jimshamar: calls $0.02
+*** FLOP *** [3d 8s 6c]
+ceckomontana: checks 
+Jimshamar: checks 
+sserberuss: bets $0.06
+ceckomontana: calls $0.06
+Jimshamar: raises $3.24 to $3.30 and is all-in
+sserberuss: folds 
+ceckomontana: folds 
+Uncalled bet ($3.24) returned to Jimshamar
+Jimshamar collected $0.29 from pot
+Jimshamar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [3d 8s 6c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: SlavikPuha folded before Flop (didn't bet)
+Seat 5: Zuban442 (button) folded before Flop (didn't bet)
+Seat 6: ceckomontana (small blind) folded on the Flop
+Seat 7: Jimshamar (big blind) collected ($0.29)
+Seat 8: sserberuss folded on the Flop
+
+
+
+PokerStars Hand #224338955427:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:12:56 PT [2021/03/01 1:12:56 ET]
+Table 'Pandarus' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($1.79 in chips) 
+Seat 2: Grefician ($0.33 in chips) 
+Seat 3: SlavikPuha ($2.08 in chips) 
+Seat 5: Zuban442 ($2.51 in chips) 
+Seat 6: ceckomontana ($0.66 in chips) 
+Seat 7: Jimshamar ($3.53 in chips) 
+Seat 8: sserberuss ($0.36 in chips) 
+Jimshamar: posts small blind $0.01
+sserberuss: posts big blind $0.02
+ermek122286: sits out 
+ser447787: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Ks]
+Dorex2007: folds 
+Grefician: folds 
+SlavikPuha: folds 
+Zuban442: raises $0.02 to $0.04
+ceckomontana: folds 
+Jimshamar: folds 
+sserberuss: calls $0.02
+*** FLOP *** [Kd 2c 8h]
+sserberuss: checks 
+Zuban442: bets $0.04
+sserberuss: calls $0.04
+*** TURN *** [Kd 2c 8h] [8s]
+sserberuss: checks 
+Zuban442: checks 
+*** RIVER *** [Kd 2c 8h 8s] [7d]
+sserberuss: bets $0.28 and is all-in
+Zuban442: calls $0.28
+*** SHOW DOWN ***
+sserberuss: shows [Ts 8d] (three of a kind, Eights)
+Zuban442: shows [Qs Qc] (two pair, Queens and Eights)
+sserberuss collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [Kd 2c 8h 8s 7d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: SlavikPuha folded before Flop (didn't bet)
+Seat 5: Zuban442 showed [Qs Qc] and lost with two pair, Queens and Eights
+Seat 6: ceckomontana (button) folded before Flop (didn't bet)
+Seat 7: Jimshamar (small blind) folded before Flop
+Seat 8: sserberuss (big blind) showed [Ts 8d] and won ($0.70) with three of a kind, Eights
+
+
+
+PokerStars Hand #224338962805:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:13:41 PT [2021/03/01 1:13:41 ET]
+Table 'Pandarus' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($1.79 in chips) 
+Seat 2: Grefician ($0.33 in chips) 
+Seat 3: SlavikPuha ($2.08 in chips) 
+Seat 5: Zuban442 ($2.15 in chips) 
+Seat 6: ceckomontana ($0.66 in chips) 
+Seat 7: Jimshamar ($3.52 in chips) 
+Seat 8: sserberuss ($0.70 in chips) 
+Seat 9: ermek122286 ($0.80 in chips) 
+sserberuss: posts small blind $0.01
+ermek122286: posts big blind $0.02
+ser447787: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 2s]
+Dorex2007: folds 
+Grefician: folds 
+SlavikPuha: folds 
+Zuban442: folds 
+ceckomontana: calls $0.02
+Jimshamar: folds 
+sserberuss: folds 
+ermek122286: checks 
+*** FLOP *** [Kd 9d Td]
+ermek122286: checks 
+ceckomontana: checks 
+*** TURN *** [Kd 9d Td] [Js]
+ermek122286: checks 
+ceckomontana: checks 
+*** RIVER *** [Kd 9d Td Js] [Kc]
+ermek122286: checks 
+ceckomontana: checks 
+*** SHOW DOWN ***
+ermek122286: shows [7c As] (a pair of Kings)
+ceckomontana: shows [5c 9c] (two pair, Kings and Nines)
+ceckomontana collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kd 9d Td Js Kc]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: SlavikPuha folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: ceckomontana showed [5c 9c] and won ($0.05) with two pair, Kings and Nines
+Seat 7: Jimshamar (button) folded before Flop (didn't bet)
+Seat 8: sserberuss (small blind) folded before Flop
+Seat 9: ermek122286 (big blind) showed [7c As] and lost with a pair of Kings
+
+
+
+PokerStars Hand #224338980201:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:14:39 PT [2021/03/01 1:14:39 ET]
+Table 'Pandarus' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($1.79 in chips) 
+Seat 2: Grefician ($0.33 in chips) 
+Seat 3: SlavikPuha ($2.08 in chips) 
+Seat 5: Zuban442 ($2.15 in chips) 
+Seat 6: ceckomontana ($0.69 in chips) 
+Seat 7: Jimshamar ($3.52 in chips) 
+Seat 8: sserberuss ($0.69 in chips) 
+Seat 9: ermek122286 ($0.78 in chips) 
+ermek122286: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+ser447787: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 9s]
+Grefician: folds 
+SlavikPuha: raises $0.04 to $0.06
+Zuban442 has timed out
+Zuban442: folds 
+ceckomontana: folds 
+Jimshamar: folds 
+sserberuss: folds 
+ermek122286: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to SlavikPuha
+SlavikPuha collected $0.05 from pot
+SlavikPuha: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: SlavikPuha collected ($0.05)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: ceckomontana folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss (button) folded before Flop (didn't bet)
+Seat 9: ermek122286 (small blind) folded before Flop
+
+
+
+PokerStars Hand #224338986946:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:15:21 PT [2021/03/01 1:15:21 ET]
+Table 'Pandarus' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($1.77 in chips) 
+Seat 2: Grefician ($0.33 in chips) 
+Seat 3: SlavikPuha ($2.11 in chips) 
+Seat 5: Zuban442 ($2.15 in chips) 
+Seat 6: ceckomontana ($0.69 in chips) 
+Seat 7: Jimshamar ($3.52 in chips) 
+Seat 8: sserberuss ($0.69 in chips) 
+Seat 9: ermek122286 ($0.77 in chips) 
+Dorex2007: posts small blind $0.01
+Grefician: posts big blind $0.02
+ser447787: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad Js]
+SlavikPuha: folds 
+Zuban442 has timed out
+Zuban442: folds 
+ceckomontana has timed out
+ceckomontana: folds 
+Jimshamar: folds 
+sserberuss: folds 
+ermek122286: folds 
+Dorex2007: raises $0.06 to $0.08
+Grefician: folds 
+Uncalled bet ($0.06) returned to Dorex2007
+Dorex2007 collected $0.04 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 (small blind) collected ($0.04)
+Seat 2: Grefician (big blind) folded before Flop
+Seat 3: SlavikPuha folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: ceckomontana folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: ermek122286 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338993978:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:16:04 PT [2021/03/01 1:16:04 ET]
+Table 'Pandarus' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($1.79 in chips) 
+Seat 2: Grefician ($0.31 in chips) 
+Seat 3: SlavikPuha ($2.11 in chips) 
+Seat 6: ceckomontana ($0.69 in chips) 
+Seat 7: Jimshamar ($3.52 in chips) 
+Seat 8: sserberuss ($0.69 in chips) 
+Seat 9: ermek122286 ($0.77 in chips) 
+Grefician: posts small blind $0.01
+SlavikPuha: posts big blind $0.02
+ser447787: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts Qc]
+ceckomontana: folds 
+Jimshamar: folds 
+sserberuss: raises $0.02 to $0.04
+ermek122286: folds 
+Dorex2007: folds 
+Grefician: calls $0.03
+SlavikPuha: calls $0.02
+*** FLOP *** [6s Qs Qd]
+Grefician: checks 
+SlavikPuha: checks 
+sserberuss: bets $0.04
+Grefician: folds 
+SlavikPuha: folds 
+Uncalled bet ($0.04) returned to sserberuss
+sserberuss collected $0.12 from pot
+sserberuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [6s Qs Qd]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: Grefician (small blind) folded on the Flop
+Seat 3: SlavikPuha (big blind) folded on the Flop
+Seat 6: ceckomontana folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss collected ($0.12)
+Seat 9: ermek122286 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224338999747:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:16:41 PT [2021/03/01 1:16:41 ET]
+Table 'Pandarus' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($1.79 in chips) 
+Seat 2: Grefician ($0.27 in chips) 
+Seat 3: SlavikPuha ($2.07 in chips) 
+Seat 4: ser447787 ($2 in chips) 
+Seat 6: ceckomontana ($0.69 in chips) 
+Seat 7: Jimshamar ($3.52 in chips) 
+Seat 8: sserberuss ($0.77 in chips) 
+Seat 9: ermek122286 ($0.77 in chips) 
+SlavikPuha: posts small blind $0.01
+ser447787: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 6s]
+ceckomontana: calls $0.02
+Jimshamar: folds 
+sserberuss: raises $0.06 to $0.08
+ermek122286: folds 
+Dorex2007: folds 
+Grefician: folds 
+SlavikPuha: folds 
+ser447787: folds 
+ceckomontana: calls $0.06
+*** FLOP *** [5s Qd 2d]
+ceckomontana: checks 
+sserberuss: bets $0.08
+ceckomontana: folds 
+Uncalled bet ($0.08) returned to sserberuss
+sserberuss collected $0.18 from pot
+sserberuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5s Qd 2d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician (button) folded before Flop (didn't bet)
+Seat 3: SlavikPuha (small blind) folded before Flop
+Seat 4: ser447787 (big blind) folded before Flop
+Seat 6: ceckomontana folded on the Flop
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss collected ($0.18)
+Seat 9: ermek122286 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224339012836:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:17:13 PT [2021/03/01 1:17:13 ET]
+Table 'Pandarus' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($1.79 in chips) 
+Seat 2: Grefician ($0.27 in chips) 
+Seat 3: SlavikPuha ($2.06 in chips) 
+Seat 4: ser447787 ($1.98 in chips) 
+Seat 5: Zuban442 ($2.15 in chips) 
+Seat 6: ceckomontana ($0.61 in chips) 
+Seat 7: Jimshamar ($3.52 in chips) 
+Seat 8: sserberuss ($0.87 in chips) 
+Seat 9: ermek122286 ($0.77 in chips) 
+ser447787: posts small blind $0.01
+Zuban442: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 2s]
+ceckomontana has timed out
+ceckomontana: folds 
+Jimshamar: folds 
+sserberuss: raises $0.02 to $0.04
+ermek122286: folds 
+Dorex2007: folds 
+Grefician: folds 
+SlavikPuha: calls $0.04
+ser447787: folds 
+Zuban442: folds 
+*** FLOP *** [3h 2d 7d]
+sserberuss: bets $0.04
+SlavikPuha: calls $0.04
+*** TURN *** [3h 2d 7d] [Qs]
+sserberuss: checks 
+SlavikPuha: checks 
+*** RIVER *** [3h 2d 7d Qs] [2c]
+sserberuss: bets $0.14
+SlavikPuha: folds 
+Uncalled bet ($0.14) returned to sserberuss
+sserberuss collected $0.18 from pot
+sserberuss: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [3h 2d 7d Qs 2c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: SlavikPuha (button) folded on the River
+Seat 4: ser447787 (small blind) folded before Flop
+Seat 5: Zuban442 (big blind) folded before Flop
+Seat 6: ceckomontana folded before Flop (didn't bet)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss collected ($0.18)
+Seat 9: ermek122286 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224339030816:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:18:27 PT [2021/03/01 1:18:27 ET]
+Table 'Pandarus' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($1.79 in chips) 
+Seat 2: Grefician ($0.27 in chips) 
+Seat 3: SlavikPuha ($2 in chips) 
+Seat 4: ser447787 ($1.97 in chips) 
+Seat 5: Zuban442 ($2.13 in chips) 
+Seat 6: ceckomontana ($0.61 in chips) 
+Seat 7: Jimshamar ($3.52 in chips) 
+Seat 8: sserberuss ($0.97 in chips) 
+Seat 9: ermek122286 ($0.77 in chips) 
+Zuban442: posts small blind $0.01
+ceckomontana: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 5d]
+Jimshamar: folds 
+sserberuss: folds 
+ermek122286: folds 
+Dorex2007: folds 
+Grefician: folds 
+SlavikPuha: folds 
+ser447787: folds 
+Zuban442: folds 
+Uncalled bet ($0.01) returned to ceckomontana
+ceckomontana collected $0.02 from pot
+ceckomontana: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: SlavikPuha folded before Flop (didn't bet)
+Seat 4: ser447787 (button) folded before Flop (didn't bet)
+Seat 5: Zuban442 (small blind) folded before Flop
+Seat 6: ceckomontana (big blind) collected ($0.02)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: ermek122286 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224339033442:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:18:43 PT [2021/03/01 1:18:43 ET]
+Table 'Pandarus' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($1.79 in chips) 
+Seat 2: Grefician ($0.27 in chips) 
+Seat 3: SlavikPuha ($2 in chips) 
+Seat 4: ser447787 ($1.97 in chips) 
+Seat 5: Zuban442 ($2.12 in chips) 
+Seat 6: ceckomontana ($0.62 in chips) 
+Seat 7: Jimshamar ($3.52 in chips) 
+Seat 8: sserberuss ($0.97 in chips) 
+Seat 9: ermek122286 ($0.77 in chips) 
+ceckomontana: posts small blind $0.01
+Jimshamar: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 4h]
+sserberuss: folds 
+ermek122286: raises $0.02 to $0.04
+Dorex2007: folds 
+Grefician: folds 
+SlavikPuha: folds 
+ser447787: folds 
+Zuban442: folds 
+ceckomontana: folds 
+Jimshamar: folds 
+Uncalled bet ($0.02) returned to ermek122286
+ermek122286 collected $0.05 from pot
+ermek122286: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: SlavikPuha folded before Flop (didn't bet)
+Seat 4: ser447787 folded before Flop (didn't bet)
+Seat 5: Zuban442 (button) folded before Flop (didn't bet)
+Seat 6: ceckomontana (small blind) folded before Flop
+Seat 7: Jimshamar (big blind) folded before Flop
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: ermek122286 collected ($0.05)
+
+
+
+PokerStars Hand #224339038434:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:19:15 PT [2021/03/01 1:19:15 ET]
+Table 'Pandarus' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($1.79 in chips) 
+Seat 2: Grefician ($0.27 in chips) 
+Seat 3: SlavikPuha ($2 in chips) 
+Seat 4: ser447787 ($1.97 in chips) 
+Seat 5: Zuban442 ($2.12 in chips) 
+Seat 6: ceckomontana ($0.61 in chips) 
+Seat 7: Jimshamar ($3.50 in chips) 
+Seat 8: sserberuss ($0.97 in chips) 
+Seat 9: ermek122286 ($0.80 in chips) 
+Jimshamar: posts small blind $0.01
+sserberuss: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 6d]
+ermek122286: folds 
+Dorex2007: folds 
+Grefician: folds 
+SlavikPuha: raises $0.04 to $0.06
+ser447787: folds 
+Zuban442: folds 
+ceckomontana: calls $0.06
+Jimshamar: folds 
+sserberuss: calls $0.04
+*** FLOP *** [9h 7s As]
+sserberuss: checks 
+SlavikPuha: checks 
+ceckomontana: checks 
+*** TURN *** [9h 7s As] [Jc]
+sserberuss: checks 
+SlavikPuha: bets $0.09
+ceckomontana: folds 
+sserberuss: folds 
+Uncalled bet ($0.09) returned to SlavikPuha
+SlavikPuha collected $0.18 from pot
+SlavikPuha: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [9h 7s As Jc]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: SlavikPuha collected ($0.18)
+Seat 4: ser447787 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: ceckomontana (button) folded on the Turn
+Seat 7: Jimshamar (small blind) folded before Flop
+Seat 8: sserberuss (big blind) folded on the Turn
+Seat 9: ermek122286 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224339047779:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:20:14 PT [2021/03/01 1:20:14 ET]
+Table 'Pandarus' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($1.79 in chips) 
+Seat 2: Grefician ($0.27 in chips) 
+Seat 3: SlavikPuha ($2.12 in chips) 
+Seat 4: ser447787 ($1.97 in chips) 
+Seat 5: Zuban442 ($2.12 in chips) 
+Seat 6: ceckomontana ($0.55 in chips) 
+Seat 7: Jimshamar ($3.49 in chips) 
+Seat 8: sserberuss ($0.91 in chips) 
+Seat 9: ermek122286 ($0.80 in chips) 
+sserberuss: posts small blind $0.01
+ermek122286: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 6s]
+Dorex2007: folds 
+Grefician: folds 
+SlavikPuha: folds 
+ser447787: folds 
+Zuban442 has timed out
+Zuban442: folds 
+ceckomontana: calls $0.02
+Jimshamar: calls $0.02
+sserberuss: calls $0.01
+ermek122286: raises $0.08 to $0.10
+ceckomontana: raises $0.45 to $0.55 and is all-in
+Jimshamar: folds 
+sserberuss: folds 
+ermek122286: calls $0.45
+*** FLOP *** [9h Jd Ac]
+*** TURN *** [9h Jd Ac] [Js]
+*** RIVER *** [9h Jd Ac Js] [7c]
+*** SHOW DOWN ***
+ermek122286: shows [Ks Ad] (two pair, Aces and Jacks)
+ceckomontana: shows [3d 3c] (two pair, Jacks and Threes)
+ermek122286 collected $1.10 from pot
+*** SUMMARY ***
+Total pot $1.14 | Rake $0.04 
+Board [9h Jd Ac Js 7c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: SlavikPuha folded before Flop (didn't bet)
+Seat 4: ser447787 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: ceckomontana showed [3d 3c] and lost with two pair, Jacks and Threes
+Seat 7: Jimshamar (button) folded before Flop
+Seat 8: sserberuss (small blind) folded before Flop
+Seat 9: ermek122286 (big blind) showed [Ks Ad] and won ($1.10) with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #224339057138:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:21:13 PT [2021/03/01 1:21:13 ET]
+Table 'Pandarus' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($1.79 in chips) 
+Seat 2: Grefician ($0.27 in chips) 
+Seat 3: SlavikPuha ($2.12 in chips) 
+Seat 4: ser447787 ($1.97 in chips) 
+Seat 7: Jimshamar ($3.47 in chips) 
+Seat 8: sserberuss ($0.89 in chips) 
+Seat 9: ermek122286 ($1.35 in chips) 
+ermek122286: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 4h]
+Grefician: folds 
+SlavikPuha: folds 
+ser447787: raises $0.05 to $0.07
+Jimshamar: calls $0.07
+sserberuss: folds 
+ermek122286: folds 
+Dorex2007: folds 
+*** FLOP *** [5h Jc 3c]
+ser447787: checks 
+Jimshamar: bets $0.08
+ser447787: calls $0.08
+*** TURN *** [5h Jc 3c] [3d]
+ser447787: checks 
+Jimshamar: checks 
+*** RIVER *** [5h Jc 3c 3d] [Ah]
+ser447787: bets $0.16
+Jimshamar: folds 
+Uncalled bet ($0.16) returned to ser447787
+ser447787 collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [5h Jc 3c 3d Ah]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: SlavikPuha folded before Flop (didn't bet)
+Seat 4: ser447787 collected ($0.32)
+Seat 7: Jimshamar folded on the River
+Seat 8: sserberuss (button) folded before Flop (didn't bet)
+Seat 9: ermek122286 (small blind) folded before Flop
+
+
+
+PokerStars Hand #224339064860:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:22:02 PT [2021/03/01 1:22:02 ET]
+Table 'Pandarus' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($1.77 in chips) 
+Seat 2: Grefician ($0.27 in chips) 
+Seat 3: SlavikPuha ($2.12 in chips) 
+Seat 4: ser447787 ($2.14 in chips) 
+Seat 5: Zuban442 ($2.12 in chips) 
+Seat 6: ceckomontana ($0.80 in chips) 
+Seat 7: Jimshamar ($3.32 in chips) 
+Seat 8: sserberuss ($0.89 in chips) 
+Seat 9: ermek122286 ($1.34 in chips) 
+Dorex2007: posts small blind $0.01
+Grefician: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Ks]
+SlavikPuha: folds 
+ser447787: folds 
+Zuban442: folds 
+ceckomontana: calls $0.02
+Jimshamar: folds 
+sserberuss: folds 
+ermek122286: calls $0.02
+Dorex2007: calls $0.01
+Grefician: checks 
+*** FLOP *** [9s 8d 5h]
+Dorex2007: checks 
+Grefician: checks 
+ceckomontana: bets $0.04
+ermek122286: folds 
+Dorex2007: folds 
+Grefician: folds 
+Uncalled bet ($0.04) returned to ceckomontana
+ceckomontana collected $0.08 from pot
+ceckomontana: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [9s 8d 5h]
+Seat 1: Dorex2007 (small blind) folded on the Flop
+Seat 2: Grefician (big blind) folded on the Flop
+Seat 3: SlavikPuha folded before Flop (didn't bet)
+Seat 4: ser447787 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: ceckomontana collected ($0.08)
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: ermek122286 (button) folded on the Flop
+
+
+
+PokerStars Hand #224339071441:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:22:44 PT [2021/03/01 1:22:44 ET]
+Table 'Pandarus' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($1.75 in chips) 
+Seat 2: Grefician ($0.25 in chips) 
+Seat 3: SlavikPuha ($2.12 in chips) 
+Seat 4: ser447787 ($2.14 in chips) 
+Seat 5: Zuban442 ($2.12 in chips) 
+Seat 6: ceckomontana ($0.86 in chips) 
+Seat 7: Jimshamar ($3.32 in chips) 
+Seat 8: sserberuss ($0.89 in chips) 
+Seat 9: ermek122286 ($1.32 in chips) 
+Grefician: posts small blind $0.01
+SlavikPuha: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Qc]
+ser447787: folds 
+Zuban442 has timed out
+Zuban442: folds 
+ceckomontana: calls $0.02
+Jimshamar: folds 
+sserberuss: folds 
+ermek122286: calls $0.02
+Dorex2007: raises $0.04 to $0.06
+Grefician: folds 
+SlavikPuha: folds 
+ceckomontana: calls $0.04
+ermek122286: calls $0.04
+*** FLOP *** [4s 9s 6d]
+ceckomontana: bets $0.06
+ermek122286: folds 
+Dorex2007: calls $0.06
+*** TURN *** [4s 9s 6d] [2d]
+ceckomontana: bets $0.04
+Dorex2007: calls $0.04
+*** RIVER *** [4s 9s 6d 2d] [Jd]
+ceckomontana: bets $0.30
+Dorex2007: raises $0.30 to $0.60
+ceckomontana: raises $0.10 to $0.70 and is all-in
+Dorex2007: calls $0.10
+*** SHOW DOWN ***
+ceckomontana: shows [9d 5d] (a flush, Jack high)
+Dorex2007: shows [Kd Qc] (high card King)
+ceckomontana collected $1.75 from pot
+*** SUMMARY ***
+Total pot $1.81 | Rake $0.06 
+Board [4s 9s 6d 2d Jd]
+Seat 1: Dorex2007 (button) showed [Kd Qc] and lost with high card King
+Seat 2: Grefician (small blind) folded before Flop
+Seat 3: SlavikPuha (big blind) folded before Flop
+Seat 4: ser447787 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: ceckomontana showed [9d 5d] and won ($1.75) with a flush, Jack high
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: ermek122286 folded on the Flop
+
+
+
+PokerStars Hand #224339084883:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:24:09 PT [2021/03/01 1:24:09 ET]
+Table 'Pandarus' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($0.89 in chips) 
+Seat 2: Grefician ($0.24 in chips) 
+Seat 3: SlavikPuha ($2.10 in chips) 
+Seat 4: ser447787 ($2.14 in chips) 
+Seat 6: ceckomontana ($1.75 in chips) 
+Seat 7: Jimshamar ($3.32 in chips) 
+Seat 8: sserberuss ($0.89 in chips) 
+Seat 9: ermek122286 ($1.26 in chips) 
+SlavikPuha: posts small blind $0.01
+ser447787: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Jh]
+ceckomontana: calls $0.02
+Jimshamar: folds 
+sserberuss: folds 
+ermek122286: folds 
+Dorex2007: raises $0.02 to $0.04
+Grefician: folds 
+SlavikPuha: folds 
+ser447787: raises $0.11 to $0.15
+ceckomontana: folds 
+Dorex2007: folds 
+Uncalled bet ($0.11) returned to ser447787
+ser447787 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: Dorex2007 folded before Flop
+Seat 2: Grefician (button) folded before Flop (didn't bet)
+Seat 3: SlavikPuha (small blind) folded before Flop
+Seat 4: ser447787 (big blind) collected ($0.11)
+Seat 6: ceckomontana folded before Flop
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: ermek122286 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224339089437:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:24:38 PT [2021/03/01 1:24:38 ET]
+Table 'Pandarus' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($0.85 in chips) 
+Seat 2: Grefician ($0.24 in chips) 
+Seat 3: SlavikPuha ($2.09 in chips) 
+Seat 4: ser447787 ($2.21 in chips) 
+Seat 6: ceckomontana ($1.73 in chips) 
+Seat 7: Jimshamar ($3.32 in chips) 
+Seat 8: sserberuss ($0.89 in chips) 
+Seat 9: ermek122286 ($1.26 in chips) 
+ser447787: posts small blind $0.01
+ceckomontana: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 2s]
+Jimshamar: folds 
+sserberuss: folds 
+ermek122286: raises $0.02 to $0.04
+Zuban442 is disconnected 
+Dorex2007: folds 
+Grefician: folds 
+SlavikPuha: calls $0.04
+ser447787: calls $0.03
+ceckomontana: calls $0.02
+*** FLOP *** [9d Ts Qs]
+ser447787: checks 
+ceckomontana: checks 
+ermek122286: bets $0.06
+SlavikPuha: folds 
+ser447787: folds 
+ceckomontana: folds 
+Uncalled bet ($0.06) returned to ermek122286
+ermek122286 collected $0.15 from pot
+ermek122286: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [9d Ts Qs]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: SlavikPuha (button) folded on the Flop
+Seat 4: ser447787 (small blind) folded on the Flop
+Seat 6: ceckomontana (big blind) folded on the Flop
+Seat 7: Jimshamar folded before Flop (didn't bet)
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: ermek122286 collected ($0.15)
+
+
+
+PokerStars Hand #224339095898:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:25:19 PT [2021/03/01 1:25:19 ET]
+Table 'Pandarus' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($0.85 in chips) 
+Seat 2: Grefician ($0.24 in chips) 
+Seat 3: SlavikPuha ($2.05 in chips) 
+Seat 4: ser447787 ($2.17 in chips) 
+Seat 6: ceckomontana ($1.69 in chips) 
+Seat 8: sserberuss ($0.89 in chips) 
+Seat 9: ermek122286 ($1.37 in chips) 
+ceckomontana: posts small blind $0.01
+Jimshamar: is sitting out 
+Jimshamar leaves the table
+sserberuss: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 2s]
+ermek122286: folds 
+Dorex2007: folds 
+croro27 joins the table at seat #7 
+croro27 leaves the table
+Grefician: folds 
+SlavikPuha: folds 
+ser447787: folds 
+boryaif joins the table at seat #7 
+ceckomontana: calls $0.01
+sserberuss: checks 
+*** FLOP *** [Tc 2h Th]
+ceckomontana: checks 
+sserberuss: checks 
+*** TURN *** [Tc 2h Th] [8s]
+ceckomontana: checks 
+sserberuss: checks 
+*** RIVER *** [Tc 2h Th 8s] [Qc]
+ceckomontana: checks 
+sserberuss: checks 
+*** SHOW DOWN ***
+ceckomontana: shows [3d Kc] (a pair of Tens)
+sserberuss: mucks hand 
+ceckomontana collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Tc 2h Th 8s Qc]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: SlavikPuha folded before Flop (didn't bet)
+Seat 4: ser447787 (button) folded before Flop (didn't bet)
+Seat 6: ceckomontana (small blind) showed [3d Kc] and won ($0.04) with a pair of Tens
+Seat 8: sserberuss (big blind) mucked [6c 4h]
+Seat 9: ermek122286 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224339102422:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:26:00 PT [2021/03/01 1:26:00 ET]
+Table 'Pandarus' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($0.85 in chips) 
+Seat 2: Grefician ($0.24 in chips) 
+Seat 3: SlavikPuha ($2.05 in chips) 
+Seat 4: ser447787 ($2.17 in chips) 
+Seat 6: ceckomontana ($1.71 in chips) 
+Seat 8: sserberuss ($0.87 in chips) 
+Seat 9: ermek122286 ($1.37 in chips) 
+sserberuss: posts small blind $0.01
+ermek122286: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 5d]
+Dorex2007: folds 
+Grefician: calls $0.02
+SlavikPuha: folds 
+ser447787: folds 
+ceckomontana: folds 
+sserberuss: calls $0.01
+ermek122286: checks 
+*** FLOP *** [2s Kh Qd]
+sserberuss: checks 
+ermek122286: checks 
+Grefician: checks 
+*** TURN *** [2s Kh Qd] [5s]
+sserberuss: checks 
+ermek122286: checks 
+Grefician: checks 
+*** RIVER *** [2s Kh Qd 5s] [Ah]
+sserberuss: checks 
+ermek122286: checks 
+Grefician: checks 
+*** SHOW DOWN ***
+sserberuss: shows [8c Ad] (a pair of Aces)
+ermek122286: mucks hand 
+Grefician: mucks hand 
+sserberuss collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [2s Kh Qd 5s Ah]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician mucked [6c 6s]
+Seat 3: SlavikPuha folded before Flop (didn't bet)
+Seat 4: ser447787 folded before Flop (didn't bet)
+Seat 6: ceckomontana (button) folded before Flop (didn't bet)
+Seat 8: sserberuss (small blind) showed [8c Ad] and won ($0.06) with a pair of Aces
+Seat 9: ermek122286 (big blind) mucked [Jc 7s]
+
+
+
+PokerStars Hand #224339112408:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:27:02 PT [2021/03/01 1:27:02 ET]
+Table 'Pandarus' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($1.65 in chips) 
+Seat 2: Grefician ($0.22 in chips) 
+Seat 3: SlavikPuha ($2.05 in chips) 
+Seat 4: ser447787 ($2.17 in chips) 
+Seat 5: Zuban442 ($2.12 in chips) 
+Seat 6: ceckomontana ($1.71 in chips) 
+Seat 8: sserberuss ($0.91 in chips) 
+Seat 9: ermek122286 ($1.35 in chips) 
+ermek122286: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Zuban442: posts small & big blinds $0.03
+boryaif: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 6d]
+Grefician: folds 
+SlavikPuha: raises $0.04 to $0.06
+ser447787: folds 
+Zuban442: folds 
+ceckomontana: folds 
+sserberuss: calls $0.06
+ermek122286: folds 
+Dorex2007: calls $0.04
+*** FLOP *** [Td Kh 4c]
+Dorex2007: checks 
+SlavikPuha: bets $0.11
+sserberuss: calls $0.11
+Dorex2007: folds 
+*** TURN *** [Td Kh 4c] [4d]
+SlavikPuha: bets $1.88 and is all-in
+sserberuss: folds 
+Uncalled bet ($1.88) returned to SlavikPuha
+SlavikPuha collected $0.42 from pot
+SlavikPuha: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [Td Kh 4c 4d]
+Seat 1: Dorex2007 (big blind) folded on the Flop
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: SlavikPuha collected ($0.42)
+Seat 4: ser447787 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: ceckomontana folded before Flop (didn't bet)
+Seat 8: sserberuss (button) folded on the Turn
+Seat 9: ermek122286 (small blind) folded before Flop
+
+
+
+PokerStars Hand #224339120195:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:27:50 PT [2021/03/01 1:27:50 ET]
+Table 'Pandarus' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($1.59 in chips) 
+Seat 2: Grefician ($0.22 in chips) 
+Seat 3: SlavikPuha ($2.30 in chips) 
+Seat 4: ser447787 ($2.17 in chips) 
+Seat 5: Zuban442 ($2.09 in chips) 
+Seat 6: ceckomontana ($1.71 in chips) 
+Seat 7: boryaif ($2 in chips) 
+Seat 8: sserberuss ($0.74 in chips) 
+Seat 9: ermek122286 ($1.34 in chips) 
+Dorex2007: posts small blind $0.01
+Grefician: posts big blind $0.02
+boryaif: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Tc]
+SlavikPuha: folds 
+ser447787: raises $0.07 to $0.09
+Zuban442: folds 
+ceckomontana: folds 
+boryaif: folds 
+sserberuss: folds 
+ermek122286: folds 
+Dorex2007: folds 
+Grefician: folds 
+Uncalled bet ($0.07) returned to ser447787
+ser447787 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: Grefician (big blind) folded before Flop
+Seat 3: SlavikPuha folded before Flop (didn't bet)
+Seat 4: ser447787 collected ($0.07)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: ceckomontana folded before Flop (didn't bet)
+Seat 7: boryaif folded before Flop (didn't bet)
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: ermek122286 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224339126411:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:28:29 PT [2021/03/01 1:28:29 ET]
+Table 'Pandarus' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($1.58 in chips) 
+Seat 2: Grefician ($0.20 in chips) 
+Seat 3: SlavikPuha ($2.30 in chips) 
+Seat 4: ser447787 ($2.22 in chips) 
+Seat 5: Zuban442 ($2.09 in chips) 
+Seat 6: ceckomontana ($1.71 in chips) 
+Seat 7: boryaif ($2 in chips) 
+Seat 8: sserberuss ($0.74 in chips) 
+Seat 9: ermek122286 ($1.34 in chips) 
+Grefician: posts small blind $0.01
+SlavikPuha: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 9c]
+ser447787: folds 
+Zuban442: folds 
+ceckomontana: folds 
+boryaif: raises $0.04 to $0.06
+sserberuss: folds 
+ermek122286: folds 
+Dorex2007: folds 
+Grefician: folds 
+SlavikPuha: raises $0.13 to $0.19
+boryaif: calls $0.13
+*** FLOP *** [5d 5c Kh]
+SlavikPuha: bets $0.20
+boryaif: folds 
+Uncalled bet ($0.20) returned to SlavikPuha
+SlavikPuha collected $0.38 from pot
+SlavikPuha: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [5d 5c Kh]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: Grefician (small blind) folded before Flop
+Seat 3: SlavikPuha (big blind) collected ($0.38)
+Seat 4: ser447787 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: ceckomontana folded before Flop (didn't bet)
+Seat 7: boryaif folded on the Flop
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: ermek122286 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224339133820:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:29:15 PT [2021/03/01 1:29:15 ET]
+Table 'Pandarus' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($1.58 in chips) 
+Seat 2: Grefician ($0.19 in chips) 
+Seat 3: SlavikPuha ($2.49 in chips) 
+Seat 4: ser447787 ($2.22 in chips) 
+Seat 5: Zuban442 ($2.09 in chips) 
+Seat 6: ceckomontana ($1.71 in chips) 
+Seat 7: boryaif ($2 in chips) 
+Seat 8: sserberuss ($0.74 in chips) 
+Seat 9: ermek122286 ($1.34 in chips) 
+SlavikPuha: posts small blind $0.01
+ser447787: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Th]
+Zuban442: folds 
+ceckomontana: calls $0.02
+boryaif: folds 
+sserberuss: folds 
+ermek122286: folds 
+Dorex2007: calls $0.02
+Grefician: raises $0.17 to $0.19 and is all-in
+SlavikPuha: folds 
+ser447787: folds 
+ceckomontana: folds 
+Dorex2007: folds 
+Uncalled bet ($0.17) returned to Grefician
+Grefician collected $0.09 from pot
+Grefician: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: Dorex2007 folded before Flop
+Seat 2: Grefician (button) collected ($0.09)
+Seat 3: SlavikPuha (small blind) folded before Flop
+Seat 4: ser447787 (big blind) folded before Flop
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: ceckomontana folded before Flop
+Seat 7: boryaif folded before Flop (didn't bet)
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: ermek122286 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224339138366:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:29:44 PT [2021/03/01 1:29:44 ET]
+Table 'Pandarus' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($1.56 in chips) 
+Seat 2: Grefician ($0.26 in chips) 
+Seat 3: SlavikPuha ($2.48 in chips) 
+Seat 4: ser447787 ($2.20 in chips) 
+Seat 5: Zuban442 ($2.09 in chips) 
+Seat 6: ceckomontana ($1.69 in chips) 
+Seat 7: boryaif ($2 in chips) 
+Seat 8: sserberuss ($0.74 in chips) 
+Seat 9: ermek122286 ($1.34 in chips) 
+ser447787: posts small blind $0.01
+Zuban442: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h As]
+ceckomontana: calls $0.02
+boryaif: raises $0.04 to $0.06
+sserberuss: folds 
+ermek122286: folds 
+Dorex2007: folds 
+Grefician: raises $0.06 to $0.12
+SlavikPuha: folds 
+ser447787: folds 
+Zuban442: folds 
+ceckomontana: folds 
+boryaif: calls $0.06
+*** FLOP *** [3h 5d 6s]
+boryaif: checks 
+Grefician: bets $0.14 and is all-in
+boryaif: calls $0.14
+*** TURN *** [3h 5d 6s] [Ad]
+*** RIVER *** [3h 5d 6s Ad] [8s]
+*** SHOW DOWN ***
+boryaif: shows [Jd Kh] (high card Ace)
+Grefician: shows [4s 4h] (a pair of Fours)
+Grefician collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [3h 5d 6s Ad 8s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician showed [4s 4h] and won ($0.55) with a pair of Fours
+Seat 3: SlavikPuha (button) folded before Flop (didn't bet)
+Seat 4: ser447787 (small blind) folded before Flop
+Seat 5: Zuban442 (big blind) folded before Flop
+Seat 6: ceckomontana folded before Flop
+Seat 7: boryaif showed [Jd Kh] and lost with high card Ace
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: ermek122286 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224339148501:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:30:48 PT [2021/03/01 1:30:48 ET]
+Table 'Pandarus' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($1.56 in chips) 
+Seat 2: Grefician ($0.55 in chips) 
+Seat 3: SlavikPuha ($2.48 in chips) 
+Seat 4: ser447787 ($2.19 in chips) 
+Seat 5: Zuban442 ($2.07 in chips) 
+Seat 6: ceckomontana ($1.67 in chips) 
+Seat 7: boryaif ($2 in chips) 
+Seat 8: sserberuss ($0.74 in chips) 
+Seat 9: ermek122286 ($1.34 in chips) 
+Zuban442: posts small blind $0.01
+ceckomontana: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 9h]
+boryaif: folds 
+sserberuss: folds 
+ermek122286: folds 
+Dorex2007: folds 
+Grefician: folds 
+SlavikPuha: folds 
+ser447787: folds 
+Zuban442: folds 
+Uncalled bet ($0.01) returned to ceckomontana
+ceckomontana collected $0.02 from pot
+ceckomontana: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: SlavikPuha folded before Flop (didn't bet)
+Seat 4: ser447787 (button) folded before Flop (didn't bet)
+Seat 5: Zuban442 (small blind) folded before Flop
+Seat 6: ceckomontana (big blind) collected ($0.02)
+Seat 7: boryaif folded before Flop (didn't bet)
+Seat 8: sserberuss folded before Flop (didn't bet)
+Seat 9: ermek122286 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224339150601:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:31:01 PT [2021/03/01 1:31:01 ET]
+Table 'Pandarus' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($1.56 in chips) 
+Seat 2: Grefician ($0.55 in chips) 
+Seat 3: SlavikPuha ($2.48 in chips) 
+Seat 4: ser447787 ($2.19 in chips) 
+Seat 5: Zuban442 ($2.06 in chips) 
+Seat 6: ceckomontana ($1.68 in chips) 
+Seat 7: boryaif ($2 in chips) 
+Seat 8: sserberuss ($0.74 in chips) 
+Seat 9: ermek122286 ($1.34 in chips) 
+ceckomontana: posts small blind $0.01
+boryaif: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 6h]
+sserberuss: calls $0.02
+ermek122286: folds 
+Dorex2007: folds 
+Grefician: folds 
+SlavikPuha: raises $0.04 to $0.06
+ser447787: folds 
+Zuban442: folds 
+ceckomontana: raises $0.06 to $0.12
+boryaif: folds 
+sserberuss: folds 
+SlavikPuha: calls $0.06
+*** FLOP *** [Jh Ad Th]
+ceckomontana: bets $0.06
+SlavikPuha: calls $0.06
+*** TURN *** [Jh Ad Th] [3h]
+ceckomontana: checks 
+SlavikPuha: bets $0.39
+ceckomontana: calls $0.39
+*** RIVER *** [Jh Ad Th 3h] [3d]
+ceckomontana: bets $0.10
+SlavikPuha: calls $0.10
+*** SHOW DOWN ***
+ceckomontana: shows [Kh Kd] (two pair, Kings and Threes)
+SlavikPuha: mucks hand 
+ceckomontana collected $1.33 from pot
+*** SUMMARY ***
+Total pot $1.38 | Rake $0.05 
+Board [Jh Ad Th 3h 3d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: SlavikPuha mucked [Qd Jc]
+Seat 4: ser447787 folded before Flop (didn't bet)
+Seat 5: Zuban442 (button) folded before Flop (didn't bet)
+Seat 6: ceckomontana (small blind) showed [Kh Kd] and won ($1.33) with two pair, Kings and Threes
+Seat 7: boryaif (big blind) folded before Flop
+Seat 8: sserberuss folded before Flop
+Seat 9: ermek122286 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224339160092:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:32:01 PT [2021/03/01 1:32:01 ET]
+Table 'Pandarus' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($1.56 in chips) 
+Seat 2: Grefician ($0.55 in chips) 
+Seat 3: SlavikPuha ($2 in chips) 
+Seat 4: ser447787 ($2.19 in chips) 
+Seat 5: Zuban442 ($2.06 in chips) 
+Seat 6: ceckomontana ($2.34 in chips) 
+Seat 7: boryaif ($2 in chips) 
+Seat 8: sserberuss ($0.72 in chips) 
+Seat 9: ermek122286 ($1.34 in chips) 
+boryaif: posts small blind $0.01
+sserberuss: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 7c]
+ermek122286: folds 
+Dorex2007: folds 
+Grefician: folds 
+SlavikPuha: raises $0.04 to $0.06
+ser447787: folds 
+Zuban442: folds 
+ceckomontana: calls $0.06
+boryaif: folds 
+sserberuss: folds 
+*** FLOP *** [9c 5s 3d]
+SlavikPuha: checks 
+ceckomontana: bets $0.04
+SlavikPuha: calls $0.04
+*** TURN *** [9c 5s 3d] [Kh]
+SlavikPuha: checks 
+ceckomontana: checks 
+*** RIVER *** [9c 5s 3d Kh] [Qs]
+SlavikPuha: bets $1.90 and is all-in
+ceckomontana: folds 
+Uncalled bet ($1.90) returned to SlavikPuha
+SlavikPuha collected $0.22 from pot
+SlavikPuha: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [9c 5s 3d Kh Qs]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: SlavikPuha collected ($0.22)
+Seat 4: ser447787 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: ceckomontana (button) folded on the River
+Seat 7: boryaif (small blind) folded before Flop
+Seat 8: sserberuss (big blind) folded before Flop
+Seat 9: ermek122286 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224339166645:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:32:43 PT [2021/03/01 1:32:43 ET]
+Table 'Pandarus' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($1.56 in chips) 
+Seat 2: Grefician ($0.55 in chips) 
+Seat 3: SlavikPuha ($2.12 in chips) 
+Seat 4: ser447787 ($2.19 in chips) 
+Seat 5: Zuban442 ($2.06 in chips) 
+Seat 6: ceckomontana ($2.24 in chips) 
+Seat 7: boryaif ($2 in chips) 
+Seat 8: sserberuss ($0.70 in chips) 
+Seat 9: ermek122286 ($1.34 in chips) 
+sserberuss: posts small blind $0.01
+ermek122286: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 3d]
+Dorex2007: folds 
+Grefician: folds 
+SlavikPuha: folds 
+ser447787: folds 
+Zuban442: folds 
+ceckomontana: folds 
+boryaif: raises $0.04 to $0.06
+sserberuss: folds 
+ermek122286: calls $0.04
+*** FLOP *** [7d 4s 6h]
+ermek122286: checks 
+boryaif: bets $0.06
+ermek122286: folds 
+Uncalled bet ($0.06) returned to boryaif
+boryaif collected $0.13 from pot
+boryaif: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [7d 4s 6h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: SlavikPuha folded before Flop (didn't bet)
+Seat 4: ser447787 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: ceckomontana folded before Flop (didn't bet)
+Seat 7: boryaif (button) collected ($0.13)
+Seat 8: sserberuss (small blind) folded before Flop
+Seat 9: ermek122286 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #224339174558:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/02/28 22:33:33 PT [2021/03/01 1:33:33 ET]
+Table 'Pandarus' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($1.56 in chips) 
+Seat 2: Grefician ($0.55 in chips) 
+Seat 3: SlavikPuha ($2.12 in chips) 
+Seat 4: ser447787 ($2.19 in chips) 
+Seat 5: Zuban442 ($2.06 in chips) 
+Seat 6: ceckomontana ($2.24 in chips) 
+Seat 7: boryaif ($2.07 in chips) 
+Seat 8: sserberuss ($0.69 in chips) 
+Seat 9: ermek122286 ($1.28 in chips) 
+ermek122286: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 9h]
+Grefician: folds 
+SlavikPuha: folds 
+ser447787: folds 
+Zuban442: folds 
+ceckomontana: folds 
+boryaif: raises $0.04 to $0.06
+sserberuss: folds 
+ermek122286: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to boryaif
+boryaif collected $0.05 from pot
+boryaif: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: Grefician folded before Flop (didn't bet)
+Seat 3: SlavikPuha folded before Flop (didn't bet)
+Seat 4: ser447787 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: ceckomontana folded before Flop (didn't bet)
+Seat 7: boryaif collected ($0.05)
+Seat 8: sserberuss (button) folded before Flop (didn't bet)
+Seat 9: ermek122286 (small blind) folded before Flop
+
+
+

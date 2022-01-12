@@ -1,0 +1,5622 @@
+﻿PokerStars Hand #224402388994:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 18:49:59 PT [2021/03/02 21:49:59 ET]
+Table 'Desagneauxa II' 9-max Seat #4 is the button
+Seat 1: smp64poker ($1.97 in chips) 
+Seat 3: Adrel ($1.90 in chips) 
+Seat 4: stephfern53 ($1.69 in chips) 
+Seat 5: trinche12 ($2 in chips) 
+Seat 6: Dorex2007 ($1.50 in chips) 
+Seat 7: fcgustavito ($2.70 in chips) 
+Seat 8: let'sst@rt ($4.16 in chips) 
+Seat 9: tolma83 ($3.64 in chips) 
+trinche12: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 8h]
+fcgustavito: folds 
+let'sst@rt: calls $0.02
+tolma83: folds 
+smp64poker: folds 
+Adrel: calls $0.02
+stephfern53: calls $0.02
+trinche12: folds 
+Dorex2007: checks 
+*** FLOP *** [2s Qd 2h]
+Dorex2007: checks 
+let'sst@rt: checks 
+Adrel: bets $0.02
+stephfern53: folds 
+Dorex2007: folds 
+let'sst@rt: folds 
+Uncalled bet ($0.02) returned to Adrel
+Adrel collected $0.09 from pot
+Adrel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [2s Qd 2h]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 3: Adrel collected ($0.09)
+Seat 4: stephfern53 (button) folded on the Flop
+Seat 5: trinche12 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded on the Flop
+Seat 7: fcgustavito folded before Flop (didn't bet)
+Seat 8: let'sst@rt folded on the Flop
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224402402279:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 18:50:45 PT [2021/03/02 21:50:45 ET]
+Table 'Desagneauxa II' 9-max Seat #5 is the button
+Seat 1: smp64poker ($1.97 in chips) 
+Seat 3: Adrel ($1.97 in chips) 
+Seat 4: stephfern53 ($1.67 in chips) 
+Seat 5: trinche12 ($2 in chips) 
+Seat 6: Dorex2007 ($1.48 in chips) 
+Seat 7: fcgustavito ($2.70 in chips) 
+Seat 8: let'sst@rt ($4.14 in chips) 
+Seat 9: tolma83 ($3.64 in chips) 
+Dorex2007: posts small blind $0.01
+fcgustavito: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 3s]
+let'sst@rt: folds 
+tolma83: folds 
+smp64poker: raises $0.04 to $0.06
+Adrel: calls $0.06
+stephfern53: folds 
+trinche12: folds 
+Dorex2007: folds 
+fcgustavito: folds 
+*** FLOP *** [5d 9s Tc]
+smp64poker: bets $0.10
+Adrel: calls $0.10
+*** TURN *** [5d 9s Tc] [Jh]
+smp64poker: bets $0.24
+Adrel: calls $0.24
+*** RIVER *** [5d 9s Tc Jh] [7c]
+smp64poker: checks 
+Adrel: bets $0.10
+smp64poker: calls $0.10
+*** SHOW DOWN ***
+Adrel: shows [7h 8c] (a straight, Seven to Jack)
+smp64poker: mucks hand 
+Adrel collected $0.99 from pot
+*** SUMMARY ***
+Total pot $1.03 | Rake $0.04 
+Board [5d 9s Tc Jh 7c]
+Seat 1: smp64poker mucked [Js Jc]
+Seat 3: Adrel showed [7h 8c] and won ($0.99) with a straight, Seven to Jack
+Seat 4: stephfern53 folded before Flop (didn't bet)
+Seat 5: trinche12 (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: fcgustavito (big blind) folded before Flop
+Seat 8: let'sst@rt folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224402419652:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 18:51:45 PT [2021/03/02 21:51:45 ET]
+Table 'Desagneauxa II' 9-max Seat #6 is the button
+Seat 1: smp64poker ($1.47 in chips) 
+Seat 3: Adrel ($2.46 in chips) 
+Seat 4: stephfern53 ($1.67 in chips) 
+Seat 5: trinche12 ($2 in chips) 
+Seat 6: Dorex2007 ($1.47 in chips) 
+Seat 7: fcgustavito ($2.68 in chips) 
+Seat 8: let'sst@rt ($4.14 in chips) 
+Seat 9: tolma83 ($3.64 in chips) 
+fcgustavito: posts small blind $0.01
+let'sst@rt: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Jd]
+tolma83: folds 
+smp64poker: folds 
+Adrel: calls $0.02
+stephfern53: calls $0.02
+trinche12: folds 
+Dorex2007: folds 
+fcgustavito: calls $0.01
+let'sst@rt: checks 
+*** FLOP *** [4c Jh 9s]
+fcgustavito: checks 
+let'sst@rt: checks 
+Adrel: checks 
+stephfern53: checks 
+*** TURN *** [4c Jh 9s] [3s]
+fcgustavito: bets $0.08
+let'sst@rt: folds 
+Adrel: folds 
+stephfern53: folds 
+Uncalled bet ($0.08) returned to fcgustavito
+fcgustavito collected $0.08 from pot
+fcgustavito: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [4c Jh 9s 3s]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 3: Adrel folded on the Turn
+Seat 4: stephfern53 folded on the Turn
+Seat 5: trinche12 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: fcgustavito (small blind) collected ($0.08)
+Seat 8: let'sst@rt (big blind) folded on the Turn
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224402438357:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 18:52:32 PT [2021/03/02 21:52:32 ET]
+Table 'Desagneauxa II' 9-max Seat #7 is the button
+Seat 1: smp64poker ($1.47 in chips) 
+Seat 3: Adrel ($2.44 in chips) 
+Seat 4: stephfern53 ($1.65 in chips) 
+Seat 5: trinche12 ($2 in chips) 
+Seat 6: Dorex2007 ($1.47 in chips) 
+Seat 7: fcgustavito ($2.74 in chips) 
+Seat 8: let'sst@rt ($4.12 in chips) 
+Seat 9: tolma83 ($3.64 in chips) 
+let'sst@rt: posts small blind $0.01
+tolma83: posts big blind $0.02
+edoschenko: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 5c]
+smp64poker: folds 
+Adrel: folds 
+stephfern53: folds 
+trinche12: folds 
+Dorex2007: folds 
+fcgustavito: folds 
+let'sst@rt: calls $0.01
+tolma83: checks 
+*** FLOP *** [8d Td 6c]
+let'sst@rt: checks 
+tolma83: checks 
+*** TURN *** [8d Td 6c] [Ad]
+let'sst@rt: bets $0.04
+tolma83: folds 
+Uncalled bet ($0.04) returned to let'sst@rt
+let'sst@rt collected $0.04 from pot
+let'sst@rt: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [8d Td 6c Ad]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 3: Adrel folded before Flop (didn't bet)
+Seat 4: stephfern53 folded before Flop (didn't bet)
+Seat 5: trinche12 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fcgustavito (button) folded before Flop (didn't bet)
+Seat 8: let'sst@rt (small blind) collected ($0.04)
+Seat 9: tolma83 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #224402455211:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 18:53:30 PT [2021/03/02 21:53:30 ET]
+Table 'Desagneauxa II' 9-max Seat #8 is the button
+Seat 1: smp64poker ($1.47 in chips) 
+Seat 3: Adrel ($2.44 in chips) 
+Seat 4: stephfern53 ($1.65 in chips) 
+Seat 5: trinche12 ($2 in chips) 
+Seat 6: Dorex2007 ($1.47 in chips) 
+Seat 7: fcgustavito ($2.74 in chips) 
+Seat 8: let'sst@rt ($4.14 in chips) 
+Seat 9: tolma83 ($3.62 in chips) 
+tolma83: posts small blind $0.01
+smp64poker: posts big blind $0.02
+edoschenko: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc As]
+Adrel: calls $0.02
+stephfern53: calls $0.02
+trinche12: folds 
+Dorex2007: raises $0.04 to $0.06
+fcgustavito: folds 
+let'sst@rt: calls $0.06
+tolma83: folds 
+smp64poker: calls $0.04
+Adrel: calls $0.04
+stephfern53: calls $0.04
+*** FLOP *** [6d 9h 2s]
+smp64poker: checks 
+Adrel: checks 
+stephfern53: checks 
+Dorex2007: checks 
+let'sst@rt: bets $0.15
+smp64poker: calls $0.15
+Adrel: folds 
+stephfern53: folds 
+Dorex2007: folds 
+*** TURN *** [6d 9h 2s] [Ad]
+smp64poker: bets $0.41
+let'sst@rt: folds 
+Uncalled bet ($0.41) returned to smp64poker
+smp64poker collected $0.59 from pot
+smp64poker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [6d 9h 2s Ad]
+Seat 1: smp64poker (big blind) collected ($0.59)
+Seat 3: Adrel folded on the Flop
+Seat 4: stephfern53 folded on the Flop
+Seat 5: trinche12 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded on the Flop
+Seat 7: fcgustavito folded before Flop (didn't bet)
+Seat 8: let'sst@rt (button) folded on the Turn
+Seat 9: tolma83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #224402477235:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 18:54:46 PT [2021/03/02 21:54:46 ET]
+Table 'Desagneauxa II' 9-max Seat #9 is the button
+Seat 1: smp64poker ($1.85 in chips) 
+Seat 2: edoschenko ($1.12 in chips) 
+Seat 3: Adrel ($2.38 in chips) 
+Seat 4: stephfern53 ($1.59 in chips) 
+Seat 5: trinche12 ($2 in chips) 
+Seat 6: Dorex2007 ($1.41 in chips) 
+Seat 7: fcgustavito ($2.74 in chips) 
+Seat 8: let'sst@rt ($3.93 in chips) 
+Seat 9: tolma83 ($3.61 in chips) 
+smp64poker: posts small blind $0.01
+edoschenko: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Tc]
+Adrel: calls $0.02
+stephfern53: folds 
+trinche12: folds 
+Dorex2007: folds 
+fcgustavito: raises $0.08 to $0.10
+let'sst@rt: folds 
+tolma83: folds 
+smp64poker: folds 
+edoschenko: folds 
+Adrel: calls $0.08
+*** FLOP *** [3c 5h 5c]
+Adrel: checks 
+fcgustavito: checks 
+*** TURN *** [3c 5h 5c] [Ac]
+Adrel: checks 
+fcgustavito: checks 
+*** RIVER *** [3c 5h 5c Ac] [5d]
+Adrel: checks 
+fcgustavito: checks 
+*** SHOW DOWN ***
+Adrel: shows [2h 9h] (three of a kind, Fives)
+fcgustavito: shows [Kd 9d] (three of a kind, Fives - Ace+King kicker)
+fcgustavito collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [3c 5h 5c Ac 5d]
+Seat 1: smp64poker (small blind) folded before Flop
+Seat 2: edoschenko (big blind) folded before Flop
+Seat 3: Adrel showed [2h 9h] and lost with three of a kind, Fives
+Seat 4: stephfern53 folded before Flop (didn't bet)
+Seat 5: trinche12 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fcgustavito showed [Kd 9d] and won ($0.22) with three of a kind, Fives
+Seat 8: let'sst@rt folded before Flop (didn't bet)
+Seat 9: tolma83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224402487837:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 18:55:27 PT [2021/03/02 21:55:27 ET]
+Table 'Desagneauxa II' 9-max Seat #1 is the button
+Seat 1: smp64poker ($1.84 in chips) 
+Seat 2: edoschenko ($1.10 in chips) 
+Seat 3: Adrel ($2.28 in chips) 
+Seat 4: stephfern53 ($1.59 in chips) 
+Seat 5: trinche12 ($2 in chips) 
+Seat 6: Dorex2007 ($1.41 in chips) 
+Seat 7: fcgustavito ($2.86 in chips) 
+Seat 8: let'sst@rt ($3.93 in chips) 
+Seat 9: tolma83 ($3.61 in chips) 
+edoschenko: posts small blind $0.01
+Adrel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 2s]
+stephfern53: calls $0.02
+trinche12: folds 
+Dorex2007: folds 
+fcgustavito: folds 
+let'sst@rt: folds 
+tolma83: folds 
+let'sst@rt leaves the table
+smp64poker: raises $0.04 to $0.06
+edoschenko: folds 
+Adrel: calls $0.04
+stephfern53: calls $0.04
+*** FLOP *** [Jd 8c 7h]
+Adrel: checks 
+stephfern53: checks 
+smp64poker: checks 
+*** TURN *** [Jd 8c 7h] [5h]
+Adrel: bets $0.02
+stephfern53: calls $0.02
+smp64poker: calls $0.02
+*** RIVER *** [Jd 8c 7h 5h] [6d]
+Adrel: bets $0.24
+stephfern53: folds 
+smp64poker: folds 
+Uncalled bet ($0.24) returned to Adrel
+Adrel collected $0.24 from pot
+Adrel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Jd 8c 7h 5h 6d]
+Seat 1: smp64poker (button) folded on the River
+Seat 2: edoschenko (small blind) folded before Flop
+Seat 3: Adrel (big blind) collected ($0.24)
+Seat 4: stephfern53 folded on the River
+Seat 5: trinche12 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fcgustavito folded before Flop (didn't bet)
+Seat 8: let'sst@rt folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224402502108:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 18:56:32 PT [2021/03/02 21:56:32 ET]
+Table 'Desagneauxa II' 9-max Seat #2 is the button
+Seat 1: smp64poker ($1.76 in chips) 
+Seat 2: edoschenko ($1.09 in chips) 
+Seat 3: Adrel ($2.44 in chips) 
+Seat 4: stephfern53 ($1.51 in chips) 
+Seat 5: trinche12 ($2 in chips) 
+Seat 6: Dorex2007 ($1.41 in chips) 
+Seat 7: fcgustavito ($2.86 in chips) 
+Seat 9: tolma83 ($3.61 in chips) 
+Adrel: posts small blind $0.01
+stephfern53: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 5h]
+trinche12: folds 
+Dorex2007: folds 
+fcgustavito: folds 
+tolma83: folds 
+smp64poker: folds 
+edoschenko: raises $0.06 to $0.08
+Adrel: folds 
+stephfern53: calls $0.06
+*** FLOP *** [8s 7c Ad]
+stephfern53: checks 
+edoschenko: bets $0.12
+stephfern53: calls $0.12
+*** TURN *** [8s 7c Ad] [6d]
+stephfern53: checks 
+edoschenko: checks 
+*** RIVER *** [8s 7c Ad 6d] [Js]
+stephfern53: bets $0.40
+edoschenko: folds 
+Uncalled bet ($0.40) returned to stephfern53
+stephfern53 collected $0.40 from pot
+stephfern53: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [8s 7c Ad 6d Js]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko (button) folded on the River
+Seat 3: Adrel (small blind) folded before Flop
+Seat 4: stephfern53 (big blind) collected ($0.40)
+Seat 5: trinche12 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fcgustavito folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224402512574:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 18:57:20 PT [2021/03/02 21:57:20 ET]
+Table 'Desagneauxa II' 9-max Seat #3 is the button
+Seat 1: smp64poker ($1.76 in chips) 
+Seat 2: edoschenko ($0.89 in chips) 
+Seat 3: Adrel ($2.43 in chips) 
+Seat 4: stephfern53 ($1.71 in chips) 
+Seat 5: trinche12 ($2 in chips) 
+Seat 6: Dorex2007 ($1.41 in chips) 
+Seat 7: fcgustavito ($2.86 in chips) 
+Seat 9: tolma83 ($3.61 in chips) 
+stephfern53: posts small blind $0.01
+trinche12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Jh]
+Dorex2007: raises $0.04 to $0.06
+fcgustavito: folds 
+tolma83: folds 
+smp64poker: folds 
+edoschenko: folds 
+Adrel: folds 
+stephfern53: folds 
+trinche12: calls $0.04
+*** FLOP *** [8d 8h 4h]
+trinche12: checks 
+Dorex2007: bets $0.10
+trinche12: calls $0.10
+*** TURN *** [8d 8h 4h] [5h]
+trinche12: checks 
+Dorex2007: bets $0.32
+trinche12: calls $0.32
+*** RIVER *** [8d 8h 4h 5h] [Qd]
+trinche12: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+trinche12: shows [8s 8c] (four of a kind, Eights)
+Dorex2007: mucks hand 
+trinche12 collected $0.94 from pot
+*** SUMMARY ***
+Total pot $0.97 | Rake $0.03 
+Board [8d 8h 4h 5h Qd]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: Adrel (button) folded before Flop (didn't bet)
+Seat 4: stephfern53 (small blind) folded before Flop
+Seat 5: trinche12 (big blind) showed [8s 8c] and won ($0.94) with four of a kind, Eights
+Seat 6: Dorex2007 mucked [Th Jh]
+Seat 7: fcgustavito folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224402524019:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 18:58:11 PT [2021/03/02 21:58:11 ET]
+Table 'Desagneauxa II' 9-max Seat #4 is the button
+Seat 1: smp64poker ($1.76 in chips) 
+Seat 2: edoschenko ($0.89 in chips) 
+Seat 3: Adrel ($2.43 in chips) 
+Seat 4: stephfern53 ($1.70 in chips) 
+Seat 5: trinche12 ($2.46 in chips) 
+Seat 6: Dorex2007 ($0.93 in chips) 
+Seat 7: fcgustavito ($2.86 in chips) 
+Seat 9: tolma83 ($3.61 in chips) 
+trinche12: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Jc]
+fcgustavito: folds 
+dobedoobiedo joins the table at seat #8 
+tolma83: folds 
+smp64poker: folds 
+edoschenko: folds 
+Adrel: calls $0.02
+stephfern53: folds 
+trinche12: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [As 7h 9s]
+trinche12: checks 
+Dorex2007: checks 
+Adrel: checks 
+*** TURN *** [As 7h 9s] [8d]
+trinche12: checks 
+Dorex2007: checks 
+Adrel: bets $0.02
+trinche12: calls $0.02
+Dorex2007: calls $0.02
+*** RIVER *** [As 7h 9s 8d] [5s]
+trinche12: checks 
+Dorex2007: checks 
+Adrel: checks 
+*** SHOW DOWN ***
+trinche12: shows [9h 6h] (a straight, Five to Nine)
+Dorex2007: mucks hand 
+Adrel: mucks hand 
+trinche12 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [As 7h 9s 8d 5s]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: Adrel mucked [Qd 9d]
+Seat 4: stephfern53 (button) folded before Flop (didn't bet)
+Seat 5: trinche12 (small blind) showed [9h 6h] and won ($0.12) with a straight, Five to Nine
+Seat 6: Dorex2007 (big blind) mucked [Jd Jc]
+Seat 7: fcgustavito folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224402540235:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 18:58:54 PT [2021/03/02 21:58:54 ET]
+Table 'Desagneauxa II' 9-max Seat #5 is the button
+Seat 1: smp64poker ($1.76 in chips) 
+Seat 2: edoschenko ($0.89 in chips) 
+Seat 3: Adrel ($2.39 in chips) 
+Seat 4: stephfern53 ($1.70 in chips) 
+Seat 5: trinche12 ($2.54 in chips) 
+Seat 6: Dorex2007 ($1.69 in chips) 
+Seat 7: fcgustavito ($2.86 in chips) 
+Seat 9: tolma83 ($3.61 in chips) 
+Dorex2007: posts small blind $0.01
+fcgustavito: posts big blind $0.02
+dobedoobiedo: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 2h]
+tolma83: raises $0.04 to $0.06
+smp64poker: folds 
+edoschenko: folds 
+Adrel: folds 
+stephfern53: folds 
+trinche12: folds 
+Dorex2007: folds 
+fcgustavito: folds 
+Uncalled bet ($0.04) returned to tolma83
+tolma83 collected $0.05 from pot
+tolma83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: Adrel folded before Flop (didn't bet)
+Seat 4: stephfern53 folded before Flop (didn't bet)
+Seat 5: trinche12 (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: fcgustavito (big blind) folded before Flop
+Seat 9: tolma83 collected ($0.05)
+
+
+
+PokerStars Hand #224402544053:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 18:59:12 PT [2021/03/02 21:59:12 ET]
+Table 'Desagneauxa II' 9-max Seat #6 is the button
+Seat 1: smp64poker ($1.76 in chips) 
+Seat 2: edoschenko ($0.89 in chips) 
+Seat 3: Adrel ($2.39 in chips) 
+Seat 4: stephfern53 ($1.70 in chips) 
+Seat 5: trinche12 ($2.54 in chips) 
+Seat 6: Dorex2007 ($1.68 in chips) 
+Seat 7: fcgustavito ($2.84 in chips) 
+Seat 8: dobedoobiedo ($2 in chips) 
+Seat 9: tolma83 ($3.64 in chips) 
+fcgustavito: posts small blind $0.01
+dobedoobiedo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac As]
+tolma83: raises $0.04 to $0.06
+smp64poker: folds 
+edoschenko: folds 
+Adrel: calls $0.06
+stephfern53: folds 
+trinche12: folds 
+Dorex2007: raises $0.06 to $0.12
+fcgustavito: folds 
+dobedoobiedo: folds 
+tolma83: calls $0.06
+Adrel: calls $0.06
+*** FLOP *** [6c Qh 9d]
+tolma83: bets $0.18
+Adrel: folds 
+Dorex2007: raises $0.18 to $0.36
+tolma83: calls $0.18
+*** TURN *** [6c Qh 9d] [7h]
+tolma83: checks 
+Dorex2007: bets $1.07
+tolma83: folds 
+Uncalled bet ($1.07) returned to Dorex2007
+Dorex2007 collected $1.07 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.11 | Rake $0.04 
+Board [6c Qh 9d 7h]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: Adrel folded on the Flop
+Seat 4: stephfern53 folded before Flop (didn't bet)
+Seat 5: trinche12 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) collected ($1.07)
+Seat 7: fcgustavito (small blind) folded before Flop
+Seat 8: dobedoobiedo (big blind) folded before Flop
+Seat 9: tolma83 folded on the Turn
+
+
+
+PokerStars Hand #224402561664:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:00:28 PT [2021/03/02 22:00:28 ET]
+Table 'Desagneauxa II' 9-max Seat #7 is the button
+Seat 1: smp64poker ($1.76 in chips) 
+Seat 2: edoschenko ($0.89 in chips) 
+Seat 3: Adrel ($2.27 in chips) 
+Seat 4: stephfern53 ($1.70 in chips) 
+Seat 5: trinche12 ($2.54 in chips) 
+Seat 6: Dorex2007 ($2.27 in chips) 
+Seat 7: fcgustavito ($2.83 in chips) 
+Seat 8: dobedoobiedo ($1.98 in chips) 
+Seat 9: tolma83 ($3.16 in chips) 
+dobedoobiedo: posts small blind $0.01
+tolma83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 5s]
+smp64poker: raises $0.04 to $0.06
+edoschenko: folds 
+Adrel: calls $0.06
+stephfern53: folds 
+trinche12: folds 
+Dorex2007: folds 
+fcgustavito: folds 
+dobedoobiedo: calls $0.05
+tolma83: folds 
+*** FLOP *** [4c Ac As]
+dobedoobiedo: checks 
+smp64poker: bets $0.10
+Adrel: folds 
+dobedoobiedo: folds 
+Uncalled bet ($0.10) returned to smp64poker
+smp64poker collected $0.19 from pot
+smp64poker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [4c Ac As]
+Seat 1: smp64poker collected ($0.19)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: Adrel folded on the Flop
+Seat 4: stephfern53 folded before Flop (didn't bet)
+Seat 5: trinche12 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fcgustavito (button) folded before Flop (didn't bet)
+Seat 8: dobedoobiedo (small blind) folded on the Flop
+Seat 9: tolma83 (big blind) folded before Flop
+
+
+
+PokerStars Hand #224402573724:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:01:13 PT [2021/03/02 22:01:13 ET]
+Table 'Desagneauxa II' 9-max Seat #8 is the button
+Seat 1: smp64poker ($1.89 in chips) 
+Seat 2: edoschenko ($0.89 in chips) 
+Seat 3: Adrel ($2.21 in chips) 
+Seat 4: stephfern53 ($1.70 in chips) 
+Seat 5: trinche12 ($2.54 in chips) 
+Seat 6: Dorex2007 ($2.27 in chips) 
+Seat 7: fcgustavito ($2.83 in chips) 
+Seat 8: dobedoobiedo ($1.92 in chips) 
+Seat 9: tolma83 ($3.14 in chips) 
+tolma83: posts small blind $0.01
+smp64poker: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 8d]
+edoschenko: folds 
+Adrel: calls $0.02
+stephfern53: folds 
+trinche12: folds 
+Dorex2007: folds 
+fcgustavito: folds 
+dobedoobiedo: folds 
+tolma83: folds 
+smp64poker: checks 
+*** FLOP *** [2s Ah 5s]
+smp64poker: checks 
+Adrel: checks 
+*** TURN *** [2s Ah 5s] [Jd]
+smp64poker: bets $0.04
+Adrel: calls $0.04
+*** RIVER *** [2s Ah 5s Jd] [8s]
+smp64poker: bets $0.07
+Adrel: raises $0.07 to $0.14
+smp64poker: calls $0.07
+*** SHOW DOWN ***
+Adrel: shows [Ts Js] (a flush, Jack high)
+smp64poker: mucks hand 
+Adrel collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [2s Ah 5s Jd 8s]
+Seat 1: smp64poker (big blind) mucked [Tc 5h]
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: Adrel showed [Ts Js] and won ($0.40) with a flush, Jack high
+Seat 4: stephfern53 folded before Flop (didn't bet)
+Seat 5: trinche12 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fcgustavito folded before Flop (didn't bet)
+Seat 8: dobedoobiedo (button) folded before Flop (didn't bet)
+Seat 9: tolma83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #224402591595:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:02:17 PT [2021/03/02 22:02:17 ET]
+Table 'Desagneauxa II' 9-max Seat #9 is the button
+Seat 1: smp64poker ($1.69 in chips) 
+Seat 2: edoschenko ($0.89 in chips) 
+Seat 3: Adrel ($2.41 in chips) 
+Seat 4: stephfern53 ($1.70 in chips) 
+Seat 5: trinche12 ($2.54 in chips) 
+Seat 6: Dorex2007 ($2.27 in chips) 
+Seat 7: fcgustavito ($2.83 in chips) 
+Seat 8: dobedoobiedo ($1.92 in chips) 
+Seat 9: tolma83 ($3.13 in chips) 
+smp64poker: posts small blind $0.01
+edoschenko: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 3c]
+Adrel: folds 
+stephfern53: folds 
+trinche12: folds 
+Dorex2007: folds 
+fcgustavito: raises $0.04 to $0.06
+dobedoobiedo: calls $0.06
+tolma83: calls $0.06
+smp64poker: folds 
+edoschenko: folds 
+*** FLOP *** [7d Jc 8h]
+fcgustavito: bets $0.12
+dobedoobiedo: calls $0.12
+tolma83: calls $0.12
+*** TURN *** [7d Jc 8h] [9s]
+fcgustavito: checks 
+dobedoobiedo: checks 
+tolma83: bets $0.83
+fcgustavito: folds 
+dobedoobiedo: folds 
+Uncalled bet ($0.83) returned to tolma83
+tolma83 collected $0.55 from pot
+tolma83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [7d Jc 8h 9s]
+Seat 1: smp64poker (small blind) folded before Flop
+Seat 2: edoschenko (big blind) folded before Flop
+Seat 3: Adrel folded before Flop (didn't bet)
+Seat 4: stephfern53 folded before Flop (didn't bet)
+Seat 5: trinche12 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fcgustavito folded on the Turn
+Seat 8: dobedoobiedo folded on the Turn
+Seat 9: tolma83 (button) collected ($0.55)
+
+
+
+PokerStars Hand #224402612793:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:03:01 PT [2021/03/02 22:03:01 ET]
+Table 'Desagneauxa II' 9-max Seat #1 is the button
+Seat 1: smp64poker ($1.68 in chips) 
+Seat 2: edoschenko ($0.87 in chips) 
+Seat 3: Adrel ($2.41 in chips) 
+Seat 4: stephfern53 ($1.70 in chips) 
+Seat 5: trinche12 ($2.54 in chips) 
+Seat 6: Dorex2007 ($2.27 in chips) 
+Seat 7: fcgustavito ($2.65 in chips) 
+Seat 8: dobedoobiedo ($1.74 in chips) 
+Seat 9: tolma83 ($3.50 in chips) 
+edoschenko: posts small blind $0.01
+Adrel: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Th]
+stephfern53: folds 
+trinche12: folds 
+Dorex2007: calls $0.02
+fcgustavito: raises $0.10 to $0.12
+dobedoobiedo: calls $0.12
+tolma83 has timed out
+tolma83: folds 
+smp64poker: folds 
+edoschenko: folds 
+Adrel: folds 
+Dorex2007: calls $0.10
+*** FLOP *** [7d 4h 3s]
+Dorex2007: bets $0.38
+fcgustavito: folds 
+dobedoobiedo: folds 
+Uncalled bet ($0.38) returned to Dorex2007
+Dorex2007 collected $0.38 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [7d 4h 3s]
+Seat 1: smp64poker (button) folded before Flop (didn't bet)
+Seat 2: edoschenko (small blind) folded before Flop
+Seat 3: Adrel (big blind) folded before Flop
+Seat 4: stephfern53 folded before Flop (didn't bet)
+Seat 5: trinche12 folded before Flop (didn't bet)
+Seat 6: Dorex2007 collected ($0.38)
+Seat 7: fcgustavito folded on the Flop
+Seat 8: dobedoobiedo folded on the Flop
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224402629106:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:03:58 PT [2021/03/02 22:03:58 ET]
+Table 'Desagneauxa II' 9-max Seat #2 is the button
+Seat 1: smp64poker ($1.68 in chips) 
+Seat 2: edoschenko ($0.86 in chips) 
+Seat 3: Adrel ($2.39 in chips) 
+Seat 4: stephfern53 ($1.70 in chips) 
+Seat 5: trinche12 ($2.54 in chips) 
+Seat 6: Dorex2007 ($2.53 in chips) 
+Seat 7: fcgustavito ($2.53 in chips) 
+Seat 8: dobedoobiedo ($1.62 in chips) 
+Seat 9: tolma83 ($3.50 in chips) 
+Adrel: posts small blind $0.01
+stephfern53: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 6s]
+trinche12: folds 
+Dorex2007: folds 
+fcgustavito: folds 
+dobedoobiedo: folds 
+tolma83: folds 
+smp64poker: folds 
+edoschenko: folds 
+Adrel: calls $0.01
+stephfern53: checks 
+*** FLOP *** [Ks Qs 4d]
+Adrel: checks 
+stephfern53: bets $0.04
+Adrel: folds 
+Uncalled bet ($0.04) returned to stephfern53
+stephfern53 collected $0.04 from pot
+stephfern53: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Ks Qs 4d]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko (button) folded before Flop (didn't bet)
+Seat 3: Adrel (small blind) folded on the Flop
+Seat 4: stephfern53 (big blind) collected ($0.04)
+Seat 5: trinche12 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fcgustavito folded before Flop (didn't bet)
+Seat 8: dobedoobiedo folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224402637669:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:04:27 PT [2021/03/02 22:04:27 ET]
+Table 'Desagneauxa II' 9-max Seat #3 is the button
+Seat 1: smp64poker ($1.68 in chips) 
+Seat 2: edoschenko ($0.86 in chips) 
+Seat 3: Adrel ($2.37 in chips) 
+Seat 4: stephfern53 ($1.72 in chips) 
+Seat 5: trinche12 ($2.54 in chips) 
+Seat 6: Dorex2007 ($2.53 in chips) 
+Seat 7: fcgustavito ($2.53 in chips) 
+Seat 8: dobedoobiedo ($1.62 in chips) 
+Seat 9: tolma83 ($3.50 in chips) 
+stephfern53: posts small blind $0.01
+trinche12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 4h]
+Dorex2007: folds 
+fcgustavito: folds 
+dobedoobiedo: folds 
+tolma83: raises $0.04 to $0.06
+smp64poker: calls $0.06
+edoschenko: calls $0.06
+Adrel: calls $0.06
+stephfern53: calls $0.05
+trinche12: folds 
+*** FLOP *** [7d Ac Kd]
+stephfern53: checks 
+tolma83: checks 
+smp64poker: checks 
+edoschenko: bets $0.31
+Adrel: folds 
+stephfern53: folds 
+tolma83: folds 
+smp64poker: folds 
+Uncalled bet ($0.31) returned to edoschenko
+edoschenko collected $0.31 from pot
+edoschenko: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [7d Ac Kd]
+Seat 1: smp64poker folded on the Flop
+Seat 2: edoschenko collected ($0.31)
+Seat 3: Adrel (button) folded on the Flop
+Seat 4: stephfern53 (small blind) folded on the Flop
+Seat 5: trinche12 (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: fcgustavito folded before Flop (didn't bet)
+Seat 8: dobedoobiedo folded before Flop (didn't bet)
+Seat 9: tolma83 folded on the Flop
+
+
+
+PokerStars Hand #224402655761:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:05:30 PT [2021/03/02 22:05:30 ET]
+Table 'Desagneauxa II' 9-max Seat #4 is the button
+Seat 1: smp64poker ($1.62 in chips) 
+Seat 2: edoschenko ($1.11 in chips) 
+Seat 3: Adrel ($2.31 in chips) 
+Seat 4: stephfern53 ($1.66 in chips) 
+Seat 5: trinche12 ($2.52 in chips) 
+Seat 6: Dorex2007 ($2.53 in chips) 
+Seat 7: fcgustavito ($2.53 in chips) 
+Seat 8: dobedoobiedo ($1.62 in chips) 
+Seat 9: tolma83 ($3.44 in chips) 
+trinche12: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 7c]
+fcgustavito: folds 
+dobedoobiedo: calls $0.02
+fcgustavito leaves the table
+tolma83 has timed out
+tolma83: folds 
+smp64poker: folds 
+edoschenko: raises $0.06 to $0.08
+alekss242 joins the table at seat #7 
+Adrel: folds 
+stephfern53: folds 
+trinche12: folds 
+Dorex2007: folds 
+dobedoobiedo: calls $0.06
+*** FLOP *** [Th 9s 2s]
+dobedoobiedo: checks 
+edoschenko: checks 
+*** TURN *** [Th 9s 2s] [5h]
+dobedoobiedo: bets $0.18
+edoschenko: folds 
+Uncalled bet ($0.18) returned to dobedoobiedo
+dobedoobiedo collected $0.18 from pot
+dobedoobiedo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Th 9s 2s 5h]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded on the Turn
+Seat 3: Adrel folded before Flop (didn't bet)
+Seat 4: stephfern53 (button) folded before Flop (didn't bet)
+Seat 5: trinche12 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: fcgustavito folded before Flop (didn't bet)
+Seat 8: dobedoobiedo collected ($0.18)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224402678876:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:06:18 PT [2021/03/02 22:06:18 ET]
+Table 'Desagneauxa II' 9-max Seat #5 is the button
+Seat 1: smp64poker ($1.62 in chips) 
+Seat 2: edoschenko ($1.03 in chips) 
+Seat 3: Adrel ($2.31 in chips) 
+Seat 4: stephfern53 ($1.66 in chips) 
+Seat 5: trinche12 ($2.51 in chips) 
+Seat 6: Dorex2007 ($2.51 in chips) 
+Seat 7: alekss242 ($0.80 in chips) 
+Seat 8: dobedoobiedo ($1.72 in chips) 
+Seat 9: tolma83 ($3.44 in chips) 
+Dorex2007: posts small blind $0.01
+alekss242: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad Qd]
+dobedoobiedo: folds 
+tolma83: folds 
+smp64poker: folds 
+edoschenko: folds 
+Adrel: folds 
+stephfern53: folds 
+trinche12: folds 
+Dorex2007: raises $0.04 to $0.06
+alekss242: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.04 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: Adrel folded before Flop (didn't bet)
+Seat 4: stephfern53 folded before Flop (didn't bet)
+Seat 5: trinche12 (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) collected ($0.04)
+Seat 7: alekss242 (big blind) folded before Flop
+Seat 8: dobedoobiedo folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224402684561:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:06:38 PT [2021/03/02 22:06:38 ET]
+Table 'Desagneauxa II' 9-max Seat #6 is the button
+Seat 1: smp64poker ($1.62 in chips) 
+Seat 2: edoschenko ($1.03 in chips) 
+Seat 3: Adrel ($2.31 in chips) 
+Seat 4: stephfern53 ($1.66 in chips) 
+Seat 5: trinche12 ($2.51 in chips) 
+Seat 6: Dorex2007 ($2.53 in chips) 
+Seat 7: alekss242 ($0.78 in chips) 
+Seat 8: dobedoobiedo ($1.72 in chips) 
+Seat 9: tolma83 ($3.44 in chips) 
+alekss242: posts small blind $0.01
+dobedoobiedo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Jd]
+tolma83: raises $0.06 to $0.08
+smp64poker: folds 
+edoschenko: calls $0.08
+Adrel: calls $0.08
+stephfern53: folds 
+trinche12: folds 
+Dorex2007: calls $0.08
+alekss242: calls $0.07
+dobedoobiedo: calls $0.06
+*** FLOP *** [Td 5d Ac]
+alekss242: bets $0.18
+dobedoobiedo: calls $0.18
+tolma83: calls $0.18
+edoschenko: raises $0.77 to $0.95 and is all-in
+Adrel: folds 
+Dorex2007: folds 
+alekss242: calls $0.52 and is all-in
+dobedoobiedo: folds 
+tolma83: folds 
+Uncalled bet ($0.25) returned to edoschenko
+*** TURN *** [Td 5d Ac] [6d]
+*** RIVER *** [Td 5d Ac 6d] [As]
+*** SHOW DOWN ***
+alekss242: shows [2h Ad] (three of a kind, Aces)
+edoschenko: shows [Tc Ts] (a full house, Tens full of Aces)
+edoschenko cashed out the hand for $1.98 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $2.24 | Rake $0.08 
+Board [Td 5d Ac 6d As]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko showed [Tc Ts] and won ($2.16) with a full house, Tens full of Aces (pot not awarded as player cashed out)
+Seat 3: Adrel folded on the Flop
+Seat 4: stephfern53 folded before Flop (didn't bet)
+Seat 5: trinche12 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded on the Flop
+Seat 7: alekss242 (small blind) showed [2h Ad] and lost with three of a kind, Aces
+Seat 8: dobedoobiedo (big blind) folded on the Flop
+Seat 9: tolma83 folded on the Flop
+
+
+
+PokerStars Hand #224402713684:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:08:20 PT [2021/03/02 22:08:20 ET]
+Table 'Desagneauxa II' 9-max Seat #8 is the button
+Seat 1: smp64poker ($1.62 in chips) 
+Seat 2: edoschenko ($2.23 in chips) 
+Seat 3: Adrel ($2.23 in chips) 
+Seat 4: stephfern53 ($1.66 in chips) 
+Seat 5: trinche12 ($2.51 in chips) 
+Seat 6: Dorex2007 ($2.45 in chips) 
+Seat 8: dobedoobiedo ($1.46 in chips) 
+Seat 9: tolma83 ($3.18 in chips) 
+tolma83: posts small blind $0.01
+smp64poker: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 6d]
+edoschenko: folds 
+Adrel: calls $0.02
+stephfern53: calls $0.02
+trinche12: folds 
+Dorex2007: folds 
+dobedoobiedo: folds 
+tolma83: folds 
+smp64poker: checks 
+*** FLOP *** [Qs 8d 6h]
+alekss242 leaves the table
+smp64poker: checks 
+Adrel: checks 
+stephfern53: checks 
+*** TURN *** [Qs 8d 6h] [Ks]
+smp64poker: checks 
+Adrel: checks 
+stephfern53: checks 
+*** RIVER *** [Qs 8d 6h Ks] [Kd]
+smp64poker: checks 
+dorjo12 joins the table at seat #7 
+Adrel: checks 
+stephfern53: checks 
+*** SHOW DOWN ***
+smp64poker: shows [3c 2c] (a pair of Kings)
+Adrel: shows [5h Ah] (a pair of Kings - Ace kicker)
+stephfern53: mucks hand 
+Adrel collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Qs 8d 6h Ks Kd]
+Seat 1: smp64poker (big blind) showed [3c 2c] and lost with a pair of Kings
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: Adrel showed [5h Ah] and won ($0.07) with a pair of Kings
+Seat 4: stephfern53 mucked [Jd Td]
+Seat 5: trinche12 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 8: dobedoobiedo (button) folded before Flop (didn't bet)
+Seat 9: tolma83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #224402726363:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:09:05 PT [2021/03/02 22:09:05 ET]
+Table 'Desagneauxa II' 9-max Seat #9 is the button
+Seat 1: smp64poker ($1.60 in chips) 
+Seat 2: edoschenko ($2.23 in chips) 
+Seat 3: Adrel ($2.28 in chips) 
+Seat 4: stephfern53 ($1.64 in chips) 
+Seat 5: trinche12 ($2.51 in chips) 
+Seat 6: Dorex2007 ($2.45 in chips) 
+Seat 8: dobedoobiedo ($1.46 in chips) 
+Seat 9: tolma83 ($3.17 in chips) 
+smp64poker: posts small blind $0.01
+edoschenko: posts big blind $0.02
+dorjo12: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 4d]
+Adrel: calls $0.02
+stephfern53: folds 
+trinche12: folds 
+Dorex2007: folds 
+dobedoobiedo: folds 
+tolma83 has timed out
+tolma83: folds 
+smp64poker: raises $0.04 to $0.06
+edoschenko: folds 
+Adrel: calls $0.04
+*** FLOP *** [Tc Jc 5d]
+smp64poker: bets $0.10
+Adrel: calls $0.10
+*** TURN *** [Tc Jc 5d] [6c]
+smp64poker: bets $0.23
+Adrel: calls $0.23
+*** RIVER *** [Tc Jc 5d 6c] [7c]
+smp64poker: bets $0.54
+Adrel: calls $0.54
+*** SHOW DOWN ***
+smp64poker: shows [Kd Th] (a pair of Tens)
+Adrel: shows [Ad Qc] (a flush, Queen high)
+Adrel collected $1.81 from pot
+*** SUMMARY ***
+Total pot $1.88 | Rake $0.07 
+Board [Tc Jc 5d 6c 7c]
+Seat 1: smp64poker (small blind) showed [Kd Th] and lost with a pair of Tens
+Seat 2: edoschenko (big blind) folded before Flop
+Seat 3: Adrel showed [Ad Qc] and won ($1.81) with a flush, Queen high
+Seat 4: stephfern53 folded before Flop (didn't bet)
+Seat 5: trinche12 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 8: dobedoobiedo folded before Flop (didn't bet)
+Seat 9: tolma83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224402752205:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:10:04 PT [2021/03/02 22:10:04 ET]
+Table 'Desagneauxa II' 9-max Seat #1 is the button
+Seat 1: smp64poker ($0.67 in chips) 
+Seat 2: edoschenko ($2.21 in chips) 
+Seat 3: Adrel ($3.16 in chips) 
+Seat 4: stephfern53 ($1.64 in chips) 
+Seat 5: trinche12 ($2.51 in chips) 
+Seat 6: Dorex2007 ($2.45 in chips) 
+Seat 7: dorjo12 ($1.03 in chips) 
+Seat 8: dobedoobiedo ($1.46 in chips) 
+Seat 9: tolma83 ($3.17 in chips) 
+edoschenko: posts small blind $0.01
+Adrel: posts big blind $0.02
+dorjo12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Tc]
+stephfern53: folds 
+trinche12: folds 
+Dorex2007: folds 
+dorjo12: checks 
+dobedoobiedo: calls $0.02
+tolma83: folds 
+smp64poker: folds 
+edoschenko: calls $0.01
+Adrel: checks 
+*** FLOP *** [Kd 3h Ks]
+edoschenko: checks 
+stephfern53 leaves the table
+Adrel: checks 
+dorjo12: checks 
+dobedoobiedo: checks 
+*** TURN *** [Kd 3h Ks] [5c]
+edoschenko: checks 
+Adrel: checks 
+Sanya sharap joins the table at seat #4 
+dorjo12: checks 
+dobedoobiedo: checks 
+*** RIVER *** [Kd 3h Ks 5c] [9h]
+edoschenko: checks 
+Adrel: checks 
+dorjo12: bets $0.04
+dobedoobiedo: folds 
+edoschenko: folds 
+Adrel: folds 
+Uncalled bet ($0.04) returned to dorjo12
+dorjo12 collected $0.08 from pot
+dorjo12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Kd 3h Ks 5c 9h]
+Seat 1: smp64poker (button) folded before Flop (didn't bet)
+Seat 2: edoschenko (small blind) folded on the River
+Seat 3: Adrel (big blind) folded on the River
+Seat 4: stephfern53 folded before Flop (didn't bet)
+Seat 5: trinche12 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: dorjo12 collected ($0.08)
+Seat 8: dobedoobiedo folded on the River
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224402773588:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:11:20 PT [2021/03/02 22:11:20 ET]
+Table 'Desagneauxa II' 9-max Seat #2 is the button
+Seat 1: smp64poker ($1.67 in chips) 
+Seat 2: edoschenko ($2.19 in chips) 
+Seat 3: Adrel ($3.14 in chips) 
+Seat 4: Sanya sharap ($0.85 in chips) 
+Seat 5: trinche12 ($2.51 in chips) 
+Seat 6: Dorex2007 ($2.45 in chips) 
+Seat 7: dorjo12 ($1.09 in chips) 
+Seat 8: dobedoobiedo ($1.44 in chips) 
+Seat 9: tolma83 ($3.17 in chips) 
+Adrel: posts small blind $0.01
+Sanya sharap: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 7c]
+trinche12: folds 
+Dorex2007: folds 
+dorjo12: folds 
+dobedoobiedo: calls $0.02
+tolma83: calls $0.02
+smp64poker: folds 
+edoschenko: folds 
+Adrel: calls $0.01
+Sanya sharap: checks 
+*** FLOP *** [Ad 3d 7d]
+Adrel: bets $0.02
+Sanya sharap: calls $0.02
+dobedoobiedo: raises $0.06 to $0.08
+tolma83: calls $0.08
+Adrel: folds 
+Sanya sharap: calls $0.06
+*** TURN *** [Ad 3d 7d] [6c]
+Sanya sharap: checks 
+dobedoobiedo: bets $0.33
+tolma83: folds 
+Sanya sharap: folds 
+Uncalled bet ($0.33) returned to dobedoobiedo
+dobedoobiedo collected $0.33 from pot
+dobedoobiedo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [Ad 3d 7d 6c]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko (button) folded before Flop (didn't bet)
+Seat 3: Adrel (small blind) folded on the Flop
+Seat 4: Sanya sharap (big blind) folded on the Turn
+Seat 5: trinche12 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: dorjo12 folded before Flop (didn't bet)
+Seat 8: dobedoobiedo collected ($0.33)
+Seat 9: tolma83 folded on the Turn
+
+
+
+PokerStars Hand #224402789678:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:12:18 PT [2021/03/02 22:12:18 ET]
+Table 'Desagneauxa II' 9-max Seat #3 is the button
+Seat 1: smp64poker ($1.67 in chips) 
+Seat 2: edoschenko ($2.19 in chips) 
+Seat 3: Adrel ($3.10 in chips) 
+Seat 4: Sanya sharap ($0.75 in chips) 
+Seat 5: trinche12 ($2.51 in chips) 
+Seat 6: Dorex2007 ($2.45 in chips) 
+Seat 7: dorjo12 ($1.09 in chips) 
+Seat 8: dobedoobiedo ($1.67 in chips) 
+Seat 9: tolma83 ($3.07 in chips) 
+Sanya sharap: posts small blind $0.01
+trinche12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Js]
+Dorex2007: folds 
+dorjo12: folds 
+dobedoobiedo: folds 
+tolma83: raises $0.04 to $0.06
+smp64poker: folds 
+edoschenko: calls $0.06
+Adrel: folds 
+Sanya sharap: calls $0.05
+trinche12: folds 
+*** FLOP *** [9s 3s 6s]
+Sanya sharap: checks 
+tolma83: checks 
+edoschenko: checks 
+*** TURN *** [9s 3s 6s] [5c]
+Sanya sharap: bets $0.13
+tolma83: folds 
+edoschenko: folds 
+Uncalled bet ($0.13) returned to Sanya sharap
+Sanya sharap collected $0.19 from pot
+Sanya sharap: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [9s 3s 6s 5c]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded on the Turn
+Seat 3: Adrel (button) folded before Flop (didn't bet)
+Seat 4: Sanya sharap (small blind) collected ($0.19)
+Seat 5: trinche12 (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: dorjo12 folded before Flop (didn't bet)
+Seat 8: dobedoobiedo folded before Flop (didn't bet)
+Seat 9: tolma83 folded on the Turn
+
+
+
+PokerStars Hand #224402805840:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:13:16 PT [2021/03/02 22:13:16 ET]
+Table 'Desagneauxa II' 9-max Seat #4 is the button
+Seat 1: smp64poker ($1.67 in chips) 
+Seat 2: edoschenko ($2.13 in chips) 
+Seat 3: Adrel ($3.10 in chips) 
+Seat 4: Sanya sharap ($0.88 in chips) 
+Seat 5: trinche12 ($2.49 in chips) 
+Seat 6: Dorex2007 ($2.45 in chips) 
+Seat 7: dorjo12 ($1.09 in chips) 
+Seat 8: dobedoobiedo ($1.67 in chips) 
+Seat 9: tolma83 ($3.01 in chips) 
+trinche12: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 5s]
+dorjo12: raises $0.04 to $0.06
+dobedoobiedo: folds 
+tolma83: folds 
+smp64poker: folds 
+edoschenko: raises $0.16 to $0.22
+Adrel: folds 
+Sanya sharap: folds 
+trinche12: folds 
+Dorex2007: folds 
+dorjo12: calls $0.16
+*** FLOP *** [2d 8c 6h]
+dorjo12: checks 
+edoschenko: bets $0.48
+dorjo12: raises $0.39 to $0.87 and is all-in
+edoschenko: calls $0.39
+*** TURN *** [2d 8c 6h] [9h]
+*** RIVER *** [2d 8c 6h 9h] [Qs]
+*** SHOW DOWN ***
+dorjo12: shows [Ad Ts] (high card Ace)
+edoschenko: shows [Kd Ks] (a pair of Kings)
+edoschenko cashed out the hand for $1.80 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $2.21 | Rake $0.08 
+Board [2d 8c 6h 9h Qs]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko showed [Kd Ks] and won ($2.13) with a pair of Kings (pot not awarded as player cashed out)
+Seat 3: Adrel folded before Flop (didn't bet)
+Seat 4: Sanya sharap (button) folded before Flop (didn't bet)
+Seat 5: trinche12 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: dorjo12 showed [Ad Ts] and lost with high card Ace
+Seat 8: dobedoobiedo folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224402823138:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:14:17 PT [2021/03/02 22:14:17 ET]
+Table 'Desagneauxa II' 9-max Seat #5 is the button
+Seat 1: smp64poker ($1.67 in chips) 
+Seat 2: edoschenko ($2.84 in chips) 
+Seat 3: Adrel ($3.10 in chips) 
+Seat 4: Sanya sharap ($0.88 in chips) 
+Seat 5: trinche12 ($2.48 in chips) 
+Seat 6: Dorex2007 ($2.43 in chips) 
+Seat 8: dobedoobiedo ($1.67 in chips) 
+Seat 9: tolma83 ($3.01 in chips) 
+Dorex2007: posts small blind $0.01
+dobedoobiedo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Th]
+tolma83: folds 
+smp64poker: folds 
+dorjo12 leaves the table
+edoschenko: raises $0.02 to $0.04
+Adrel: calls $0.04
+Sanya sharap: calls $0.04
+trinche12: folds 
+Dorex2007: folds 
+dobedoobiedo: calls $0.02
+*** FLOP *** [9h Qh 3s]
+dobedoobiedo: checks 
+Tusons451 joins the table at seat #7 
+edoschenko: checks 
+Adrel: bets $0.02
+Sanya sharap: folds 
+dobedoobiedo: folds 
+edoschenko: folds 
+Uncalled bet ($0.02) returned to Adrel
+Adrel collected $0.16 from pot
+Adrel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [9h Qh 3s]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded on the Flop
+Seat 3: Adrel collected ($0.16)
+Seat 4: Sanya sharap folded on the Flop
+Seat 5: trinche12 (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 8: dobedoobiedo (big blind) folded on the Flop
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224402832064:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:14:49 PT [2021/03/02 22:14:49 ET]
+Table 'Desagneauxa II' 9-max Seat #6 is the button
+Seat 1: smp64poker ($1.67 in chips) 
+Seat 2: edoschenko ($2.80 in chips) 
+Seat 3: Adrel ($3.22 in chips) 
+Seat 4: Sanya sharap ($0.84 in chips) 
+Seat 5: trinche12 ($2.48 in chips) 
+Seat 6: Dorex2007 ($2.42 in chips) 
+Seat 8: dobedoobiedo ($1.63 in chips) 
+Seat 9: tolma83 ($3.01 in chips) 
+dobedoobiedo: posts small blind $0.01
+tolma83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 7s]
+smp64poker: folds 
+edoschenko: folds 
+Adrel: calls $0.02
+Sanya sharap: folds 
+trinche12: calls $0.02
+Dorex2007: calls $0.02
+dobedoobiedo: calls $0.01
+tolma83: raises $0.08 to $0.10
+Adrel: folds 
+trinche12: folds 
+Dorex2007: folds 
+dobedoobiedo: calls $0.08
+*** FLOP *** [4h Qh Th]
+dobedoobiedo: checks 
+tolma83: bets $0.16
+dobedoobiedo: calls $0.16
+*** TURN *** [4h Qh Th] [8c]
+dobedoobiedo: checks 
+tolma83: checks 
+*** RIVER *** [4h Qh Th 8c] [Ac]
+dobedoobiedo: checks 
+tolma83: bets $0.31
+dobedoobiedo: folds 
+Uncalled bet ($0.31) returned to tolma83
+tolma83 collected $0.56 from pot
+tolma83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [4h Qh Th 8c Ac]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: Adrel folded before Flop
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: trinche12 folded before Flop
+Seat 6: Dorex2007 (button) folded before Flop
+Seat 8: dobedoobiedo (small blind) folded on the River
+Seat 9: tolma83 (big blind) collected ($0.56)
+
+
+
+PokerStars Hand #224402846323:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:15:41 PT [2021/03/02 22:15:41 ET]
+Table 'Desagneauxa II' 9-max Seat #8 is the button
+Seat 1: smp64poker ($1.67 in chips) 
+Seat 2: edoschenko ($2.80 in chips) 
+Seat 3: Adrel ($3.20 in chips) 
+Seat 4: Sanya sharap ($0.84 in chips) 
+Seat 5: trinche12 ($2.46 in chips) 
+Seat 6: Dorex2007 ($2.40 in chips) 
+Seat 7: Tusons451 ($2 in chips) 
+Seat 8: dobedoobiedo ($1.37 in chips) 
+Seat 9: tolma83 ($3.31 in chips) 
+tolma83: posts small blind $0.01
+smp64poker: posts big blind $0.02
+Tusons451: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 3h]
+edoschenko: folds 
+Adrel: calls $0.02
+Sanya sharap: folds 
+trinche12: folds 
+Dorex2007: folds 
+Tusons451: checks 
+dobedoobiedo: raises $0.02 to $0.04
+tolma83: folds 
+smp64poker: calls $0.02
+Adrel: calls $0.02
+Tusons451: folds 
+*** FLOP *** [6d 9h Ad]
+smp64poker: checks 
+Adrel: checks 
+dobedoobiedo: bets $0.14
+smp64poker: calls $0.14
+Adrel: folds 
+*** TURN *** [6d 9h Ad] [Ts]
+smp64poker: checks 
+dobedoobiedo: bets $0.28
+smp64poker: calls $0.28
+*** RIVER *** [6d 9h Ad Ts] [Kc]
+smp64poker: bets $0.96
+dobedoobiedo: folds 
+Uncalled bet ($0.96) returned to smp64poker
+smp64poker collected $0.96 from pot
+smp64poker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.99 | Rake $0.03 
+Board [6d 9h Ad Ts Kc]
+Seat 1: smp64poker (big blind) collected ($0.96)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: Adrel folded on the Flop
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: trinche12 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 folded before Flop (didn't bet)
+Seat 8: dobedoobiedo (button) folded on the River
+Seat 9: tolma83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #224402862277:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:16:39 PT [2021/03/02 22:16:39 ET]
+Table 'Desagneauxa II' 9-max Seat #9 is the button
+Seat 1: smp64poker ($2.17 in chips) 
+Seat 2: edoschenko ($2.80 in chips) 
+Seat 3: Adrel ($3.16 in chips) 
+Seat 4: Sanya sharap ($0.84 in chips) 
+Seat 5: trinche12 ($2.46 in chips) 
+Seat 6: Dorex2007 ($2.40 in chips) 
+Seat 7: Tusons451 ($1.98 in chips) 
+Seat 8: dobedoobiedo ($0.91 in chips) 
+Seat 9: tolma83 ($3.30 in chips) 
+smp64poker: posts small blind $0.01
+edoschenko: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Ah]
+Adrel: calls $0.02
+Sanya sharap: folds 
+trinche12: folds 
+Dorex2007: folds 
+Tusons451: folds 
+dobedoobiedo: folds 
+tolma83: folds 
+smp64poker: folds 
+edoschenko: checks 
+*** FLOP *** [2c 3d Qs]
+edoschenko: checks 
+Adrel: checks 
+*** TURN *** [2c 3d Qs] [8h]
+edoschenko: checks 
+Adrel: checks 
+*** RIVER *** [2c 3d Qs 8h] [Tc]
+edoschenko: bets $0.02
+Adrel: folds 
+Uncalled bet ($0.02) returned to edoschenko
+edoschenko collected $0.05 from pot
+edoschenko: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2c 3d Qs 8h Tc]
+Seat 1: smp64poker (small blind) folded before Flop
+Seat 2: edoschenko (big blind) collected ($0.05)
+Seat 3: Adrel folded on the River
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: trinche12 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 folded before Flop (didn't bet)
+Seat 8: dobedoobiedo folded before Flop (didn't bet)
+Seat 9: tolma83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224402873187:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:17:19 PT [2021/03/02 22:17:19 ET]
+Table 'Desagneauxa II' 9-max Seat #1 is the button
+Seat 1: smp64poker ($2.16 in chips) 
+Seat 2: edoschenko ($2.83 in chips) 
+Seat 4: Sanya sharap ($0.84 in chips) 
+Seat 5: trinche12 ($2.46 in chips) 
+Seat 6: Dorex2007 ($2.40 in chips) 
+Seat 7: Tusons451 ($1.98 in chips) 
+Seat 8: dobedoobiedo ($0.91 in chips) 
+Seat 9: tolma83 ($3.30 in chips) 
+edoschenko: posts small blind $0.01
+Sanya sharap: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Jh]
+trinche12: folds 
+Dorex2007: folds 
+Tusons451: raises $0.02 to $0.04
+dobedoobiedo: calls $0.04
+tolma83: folds 
+smp64poker: raises $0.08 to $0.12
+edoschenko: folds 
+Sanya sharap: folds 
+Tusons451: folds 
+dobedoobiedo: calls $0.08
+*** FLOP *** [As Kh 4s]
+dobedoobiedo: checks 
+smp64poker: bets $0.21
+dobedoobiedo: folds 
+Uncalled bet ($0.21) returned to smp64poker
+smp64poker collected $0.30 from pot
+smp64poker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [As Kh 4s]
+Seat 1: smp64poker (button) collected ($0.30)
+Seat 2: edoschenko (small blind) folded before Flop
+Seat 4: Sanya sharap (big blind) folded before Flop
+Seat 5: trinche12 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 folded before Flop
+Seat 8: dobedoobiedo folded on the Flop
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224402885267:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:18:03 PT [2021/03/02 22:18:03 ET]
+Table 'Desagneauxa II' 9-max Seat #2 is the button
+Seat 1: smp64poker ($2.34 in chips) 
+Seat 2: edoschenko ($2.82 in chips) 
+Seat 4: Sanya sharap ($0.82 in chips) 
+Seat 5: trinche12 ($2.46 in chips) 
+Seat 6: Dorex2007 ($2.40 in chips) 
+Seat 7: Tusons451 ($1.94 in chips) 
+Seat 8: dobedoobiedo ($0.79 in chips) 
+Seat 9: tolma83 ($3.30 in chips) 
+Sanya sharap: posts small blind $0.01
+trinche12: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Qd]
+Dorex2007: calls $0.02
+Tusons451: calls $0.02
+dobedoobiedo: folds 
+tolma83: raises $0.04 to $0.06
+smp64poker: folds 
+edoschenko: folds 
+Sanya sharap: raises $0.76 to $0.82 and is all-in
+trinche12: folds 
+Dorex2007: folds 
+Tusons451: folds 
+Adrel leaves the table
+tolma83: folds 
+Uncalled bet ($0.76) returned to Sanya sharap
+Sanya sharap collected $0.18 from pot
+Sanya sharap: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0 
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko (button) folded before Flop (didn't bet)
+Seat 4: Sanya sharap (small blind) collected ($0.18)
+Seat 5: trinche12 (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop
+Seat 7: Tusons451 folded before Flop
+Seat 8: dobedoobiedo folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop
+
+
+
+PokerStars Hand #224402900574:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:18:47 PT [2021/03/02 22:18:47 ET]
+Table 'Desagneauxa II' 9-max Seat #4 is the button
+Seat 1: smp64poker ($2.34 in chips) 
+Seat 2: edoschenko ($2.82 in chips) 
+Seat 4: Sanya sharap ($0.94 in chips) 
+Seat 5: trinche12 ($2.44 in chips) 
+Seat 6: Dorex2007 ($2.38 in chips) 
+Seat 7: Tusons451 ($1.92 in chips) 
+Seat 8: dobedoobiedo ($0.79 in chips) 
+Seat 9: tolma83 ($3.24 in chips) 
+trinche12: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 9c]
+Tusons451: folds 
+dobedoobiedo: folds 
+tolma83: folds 
+smp64poker: raises $0.04 to $0.06
+edoschenko: folds 
+Sanya sharap: folds 
+trinche12: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to smp64poker
+smp64poker collected $0.05 from pot
+smp64poker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: smp64poker collected ($0.05)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 4: Sanya sharap (button) folded before Flop (didn't bet)
+Seat 5: trinche12 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: Tusons451 folded before Flop (didn't bet)
+Seat 8: dobedoobiedo folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224402907675:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:19:13 PT [2021/03/02 22:19:13 ET]
+Table 'Desagneauxa II' 9-max Seat #5 is the button
+Seat 1: smp64poker ($2.37 in chips) 
+Seat 2: edoschenko ($2.82 in chips) 
+Seat 4: Sanya sharap ($0.94 in chips) 
+Seat 5: trinche12 ($2.43 in chips) 
+Seat 6: Dorex2007 ($2.36 in chips) 
+Seat 7: Tusons451 ($1.92 in chips) 
+Seat 8: dobedoobiedo ($0.79 in chips) 
+Seat 9: tolma83 ($3.24 in chips) 
+Dorex2007: posts small blind $0.01
+Tusons451: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Td]
+dobedoobiedo: folds 
+tolma83: raises $0.04 to $0.06
+smp64poker: raises $0.12 to $0.18
+edoschenko: folds 
+Sanya sharap: folds 
+trinche12: folds 
+Dorex2007: folds 
+Tusons451: folds 
+tolma83: folds 
+Uncalled bet ($0.12) returned to smp64poker
+smp64poker collected $0.15 from pot
+smp64poker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: smp64poker collected ($0.15)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: trinche12 (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: Tusons451 (big blind) folded before Flop
+Seat 8: dobedoobiedo folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop
+
+
+
+PokerStars Hand #224402915797:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:19:43 PT [2021/03/02 22:19:43 ET]
+Table 'Desagneauxa II' 9-max Seat #6 is the button
+Seat 1: smp64poker ($2.46 in chips) 
+Seat 2: edoschenko ($2.82 in chips) 
+Seat 4: Sanya sharap ($0.94 in chips) 
+Seat 5: trinche12 ($2.43 in chips) 
+Seat 6: Dorex2007 ($2.35 in chips) 
+Seat 7: Tusons451 ($1.90 in chips) 
+Seat 8: dobedoobiedo ($0.79 in chips) 
+Seat 9: tolma83 ($3.18 in chips) 
+Tusons451: posts small blind $0.01
+dobedoobiedo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 9d]
+tolma83: folds 
+smp64poker: raises $0.04 to $0.06
+edoschenko: calls $0.06
+Sanya sharap: folds 
+trinche12: folds 
+Dorex2007: folds 
+Tusons451: folds 
+dobedoobiedo: raises $0.20 to $0.26
+smp64poker: raises $0.59 to $0.85
+edoschenko: folds 
+dobedoobiedo: calls $0.53 and is all-in
+Uncalled bet ($0.06) returned to smp64poker
+*** FLOP *** [8d 6s 9c]
+*** TURN *** [8d 6s 9c] [8c]
+*** RIVER *** [8d 6s 9c 8c] [8h]
+*** SHOW DOWN ***
+dobedoobiedo: shows [4d 4s] (a full house, Eights full of Fours)
+smp64poker: shows [Ad Qh] (three of a kind, Eights)
+dobedoobiedo collected $1.59 from pot
+*** SUMMARY ***
+Total pot $1.65 | Rake $0.06 
+Board [8d 6s 9c 8c 8h]
+Seat 1: smp64poker showed [Ad Qh] and lost with three of a kind, Eights
+Seat 2: edoschenko folded before Flop
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: trinche12 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: Tusons451 (small blind) folded before Flop
+Seat 8: dobedoobiedo (big blind) showed [4d 4s] and won ($1.59) with a full house, Eights full of Fours
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224402927722:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:20:27 PT [2021/03/02 22:20:27 ET]
+Table 'Desagneauxa II' 9-max Seat #7 is the button
+Seat 1: smp64poker ($1.67 in chips) 
+Seat 2: edoschenko ($2.76 in chips) 
+Seat 4: Sanya sharap ($0.94 in chips) 
+Seat 5: trinche12 ($2.43 in chips) 
+Seat 6: Dorex2007 ($2.35 in chips) 
+Seat 7: Tusons451 ($1.89 in chips) 
+Seat 8: dobedoobiedo ($1.59 in chips) 
+dobedoobiedo: posts small blind $0.01
+smp64poker: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 2h]
+edoschenko: folds 
+Sanya sharap: folds 
+trinche12: folds 
+Dorex2007: folds 
+Tusons451: raises $0.02 to $0.04
+dobedoobiedo is disconnected 
+dobedoobiedo is connected 
+dobedoobiedo: folds 
+smp64poker: raises $0.08 to $0.12
+Tusons451: folds 
+Uncalled bet ($0.08) returned to smp64poker
+smp64poker collected $0.09 from pot
+smp64poker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: smp64poker (big blind) collected ($0.09)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: trinche12 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 (button) folded before Flop
+Seat 8: dobedoobiedo (small blind) folded before Flop
+
+
+
+PokerStars Hand #224402940132:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:21:12 PT [2021/03/02 22:21:12 ET]
+Table 'Desagneauxa II' 9-max Seat #8 is the button
+Seat 1: smp64poker ($1.72 in chips) 
+Seat 2: edoschenko ($2.76 in chips) 
+Seat 4: Sanya sharap ($0.94 in chips) 
+Seat 5: trinche12 ($2.43 in chips) 
+Seat 6: Dorex2007 ($2.35 in chips) 
+Seat 7: Tusons451 ($1.85 in chips) 
+Seat 8: dobedoobiedo ($1.58 in chips) 
+smp64poker: posts small blind $0.01
+edoschenko: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Js]
+Sanya sharap: folds 
+trinche12 has timed out
+trinche12: folds 
+Dorex2007: raises $0.04 to $0.06
+Tusons451: raises $0.14 to $0.20
+ratlkrik291 joins the table at seat #3 
+dobedoobiedo: calls $0.20
+smp64poker: folds 
+edoschenko: folds 
+Dorex2007: folds 
+*** FLOP *** [4s 9h Tc]
+Tusons451: bets $0.23
+dobedoobiedo: raises $1.15 to $1.38 and is all-in
+Tusons451: calls $1.15
+*** TURN *** [4s 9h Tc] [Kd]
+*** RIVER *** [4s 9h Tc Kd] [6d]
+*** SHOW DOWN ***
+Tusons451: shows [Qd Qc] (a pair of Queens)
+dobedoobiedo: shows [3s 7s] (high card King)
+Tusons451 cashed out the hand for $2.84 | Cash Out Fee $0.03
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.11 
+Board [4s 9h Tc Kd 6d]
+Seat 1: smp64poker (small blind) folded before Flop
+Seat 2: edoschenko (big blind) folded before Flop
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: trinche12 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop
+Seat 7: Tusons451 showed [Qd Qc] and won ($3.14) with a pair of Queens (pot not awarded as player cashed out)
+Seat 8: dobedoobiedo (button) showed [3s 7s] and lost with high card King
+
+
+
+PokerStars Hand #224402959206:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:22:23 PT [2021/03/02 22:22:23 ET]
+Table 'Desagneauxa II' 9-max Seat #1 is the button
+Seat 1: smp64poker ($1.71 in chips) 
+Seat 2: edoschenko ($2.74 in chips) 
+Seat 3: ratlkrik291 ($0.80 in chips) 
+Seat 4: Sanya sharap ($0.94 in chips) 
+Seat 6: Dorex2007 ($2.29 in chips) 
+Seat 7: Tusons451 ($3.11 in chips) 
+edoschenko: posts small blind $0.01
+ratlkrik291: posts big blind $0.02
+tolma83: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Th]
+Sanya sharap: folds 
+Dorex2007: folds 
+Tusons451: folds 
+smp64poker: folds 
+edoschenko: raises $0.04 to $0.06
+ratlkrik291: raises $0.74 to $0.80 and is all-in
+edoschenko: folds 
+Uncalled bet ($0.74) returned to ratlkrik291
+ratlkrik291 collected $0.12 from pot
+ratlkrik291: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: smp64poker (button) folded before Flop (didn't bet)
+Seat 2: edoschenko (small blind) folded before Flop
+Seat 3: ratlkrik291 (big blind) collected ($0.12)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224402965323:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:22:46 PT [2021/03/02 22:22:46 ET]
+Table 'Desagneauxa II' 9-max Seat #2 is the button
+Seat 1: smp64poker ($1.71 in chips) 
+Seat 2: edoschenko ($2.68 in chips) 
+Seat 3: ratlkrik291 ($0.86 in chips) 
+Seat 4: Sanya sharap ($0.94 in chips) 
+Seat 6: Dorex2007 ($2.29 in chips) 
+Seat 7: Tusons451 ($3.11 in chips) 
+ratlkrik291: posts small blind $0.01
+Sanya sharap: posts big blind $0.02
+tolma83: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Js]
+Dorex2007: calls $0.02
+trinche12 leaves the table
+Tusons451: raises $0.04 to $0.06
+trinche12 joins the table at seat #5 
+dobedoobiedo is disconnected 
+trinche12 leaves the table
+smp64poker: folds 
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: folds 
+Dorex2007: calls $0.04
+*** FLOP *** [5s 6s Td]
+Dorex2007: checks 
+Tusons451: checks 
+*** TURN *** [5s 6s Td] [7c]
+Dorex2007: checks 
+Tusons451: bets $0.07
+Dorex2007: calls $0.07
+*** RIVER *** [5s 6s Td 7c] [3h]
+Dorex2007: checks 
+Tusons451: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [Kc Js] (high card King)
+Tusons451: shows [Ad Ks] (high card Ace)
+Tusons451 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [5s 6s Td 7c 3h]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko (button) folded before Flop (didn't bet)
+Seat 3: ratlkrik291 (small blind) folded before Flop
+Seat 4: Sanya sharap (big blind) folded before Flop
+Seat 6: Dorex2007 showed [Kc Js] and lost with high card King
+Seat 7: Tusons451 showed [Ad Ks] and won ($0.28) with high card Ace
+
+
+
+PokerStars Hand #224402979903:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:23:40 PT [2021/03/02 22:23:40 ET]
+Table 'Desagneauxa II' 9-max Seat #3 is the button
+Seat 1: smp64poker ($1.71 in chips) 
+Seat 2: edoschenko ($2.68 in chips) 
+Seat 3: ratlkrik291 ($0.85 in chips) 
+Seat 4: Sanya sharap ($0.92 in chips) 
+Seat 6: Dorex2007 ($2.16 in chips) 
+Seat 7: Tusons451 ($3.26 in chips) 
+Sanya sharap: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+tolma83: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Kh]
+Tusons451: folds 
+smp64poker: folds 
+edoschenko: folds 
+ratlkrik291: raises $0.02 to $0.04
+Sanya sharap: calls $0.03
+Dorex2007: calls $0.02
+*** FLOP *** [Jh Qh 8s]
+Sanya sharap: checks 
+Dorex2007: checks 
+PINOCHET6666 joins the table at seat #5 
+ratlkrik291: bets $0.04
+Sanya sharap: calls $0.04
+Dorex2007: calls $0.04
+*** TURN *** [Jh Qh 8s] [Th]
+Sanya sharap: checks 
+Dorex2007: bets $0.17
+ratlkrik291: folds 
+Sanya sharap: calls $0.17
+*** RIVER *** [Jh Qh 8s Th] [6h]
+Sanya sharap: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+Sanya sharap: shows [Ah Jd] (a flush, Ace high)
+Dorex2007: mucks hand 
+Sanya sharap collected $0.56 from pot
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [Jh Qh 8s Th 6h]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 (button) folded on the Turn
+Seat 4: Sanya sharap (small blind) showed [Ah Jd] and won ($0.56) with a flush, Ace high
+Seat 6: Dorex2007 (big blind) mucked [8c Kh]
+Seat 7: Tusons451 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403004117:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:24:44 PT [2021/03/02 22:24:44 ET]
+Table 'Desagneauxa II' 9-max Seat #4 is the button
+Seat 1: smp64poker ($1.71 in chips) 
+Seat 2: edoschenko ($2.68 in chips) 
+Seat 3: ratlkrik291 ($0.77 in chips) 
+Seat 4: Sanya sharap ($1.23 in chips) 
+Seat 6: Dorex2007 ($1.91 in chips) 
+Seat 7: Tusons451 ($3.26 in chips) 
+Dorex2007: posts small blind $0.01
+Tusons451: posts big blind $0.02
+tolma83: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 8d]
+smp64poker: folds 
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: raises $0.02 to $0.04
+Dorex2007: calls $0.03
+Tusons451: calls $0.02
+*** FLOP *** [Kc Qs Js]
+Dorex2007: checks 
+Tusons451: bets $0.04
+Sanya sharap: raises $0.20 to $0.24
+Dorex2007: folds 
+Tusons451: folds 
+Uncalled bet ($0.20) returned to Sanya sharap
+Sanya sharap collected $0.19 from pot
+Sanya sharap: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Kc Qs Js]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap (button) collected ($0.19)
+Seat 6: Dorex2007 (small blind) folded on the Flop
+Seat 7: Tusons451 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #224403019870:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:25:43 PT [2021/03/02 22:25:43 ET]
+Table 'Desagneauxa II' 9-max Seat #6 is the button
+Seat 1: smp64poker ($1.71 in chips) 
+Seat 2: edoschenko ($2.68 in chips) 
+Seat 3: ratlkrik291 ($0.77 in chips) 
+Seat 4: Sanya sharap ($1.34 in chips) 
+Seat 6: Dorex2007 ($1.87 in chips) 
+Seat 7: Tusons451 ($3.18 in chips) 
+Seat 9: tolma83 ($3.18 in chips) 
+Tusons451: posts small blind $0.01
+tolma83: posts big blind $0.02
+PINOCHET6666: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 9d]
+smp64poker: folds 
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: raises $0.04 to $0.06
+Dorex2007: folds 
+Tusons451: calls $0.05
+tolma83: folds 
+*** FLOP *** [7d 2d Qh]
+Tusons451: bets $0.07
+Sanya sharap: folds 
+Uncalled bet ($0.07) returned to Tusons451
+Tusons451 collected $0.14 from pot
+Tusons451: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [7d 2d Qh]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded on the Flop
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: Tusons451 (small blind) collected ($0.14)
+Seat 9: tolma83 (big blind) folded before Flop
+
+
+
+PokerStars Hand #224403037258:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:26:48 PT [2021/03/02 22:26:48 ET]
+Table 'Desagneauxa II' 9-max Seat #7 is the button
+Seat 1: smp64poker ($1.71 in chips) 
+Seat 2: edoschenko ($2.68 in chips) 
+Seat 3: ratlkrik291 ($0.77 in chips) 
+Seat 4: Sanya sharap ($1.28 in chips) 
+Seat 6: Dorex2007 ($1.87 in chips) 
+Seat 7: Tusons451 ($3.26 in chips) 
+Seat 9: tolma83 ($3.16 in chips) 
+tolma83: posts small blind $0.01
+smp64poker: posts big blind $0.02
+PINOCHET6666: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 4s]
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: folds 
+Dorex2007: folds 
+Tusons451: raises $0.02 to $0.04
+tolma83: folds 
+smp64poker: folds 
+Uncalled bet ($0.02) returned to Tusons451
+Tusons451 collected $0.05 from pot
+Tusons451: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: smp64poker (big blind) folded before Flop
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 (button) collected ($0.05)
+Seat 9: tolma83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #224403043963:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:27:13 PT [2021/03/02 22:27:13 ET]
+Table 'Desagneauxa II' 9-max Seat #9 is the button
+Seat 1: smp64poker ($1.69 in chips) 
+Seat 2: edoschenko ($2.68 in chips) 
+Seat 3: ratlkrik291 ($0.77 in chips) 
+Seat 4: Sanya sharap ($1.28 in chips) 
+Seat 6: Dorex2007 ($1.87 in chips) 
+Seat 7: Tusons451 ($3.29 in chips) 
+Seat 9: tolma83 ($3.15 in chips) 
+smp64poker: posts small blind $0.01
+edoschenko: posts big blind $0.02
+PINOCHET6666: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Jh]
+ratlkrik291: folds 
+Sanya sharap: folds 
+Dorex2007: folds 
+Tusons451: raises $0.04 to $0.06
+tolma83: folds 
+smp64poker: folds 
+edoschenko: folds 
+Uncalled bet ($0.04) returned to Tusons451
+Tusons451 collected $0.05 from pot
+Tusons451: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: smp64poker (small blind) folded before Flop
+Seat 2: edoschenko (big blind) folded before Flop
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 collected ($0.05)
+Seat 9: tolma83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403049684:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:27:35 PT [2021/03/02 22:27:35 ET]
+Table 'Desagneauxa II' 9-max Seat #1 is the button
+Seat 1: smp64poker ($1.68 in chips) 
+Seat 2: edoschenko ($2.66 in chips) 
+Seat 3: ratlkrik291 ($0.77 in chips) 
+Seat 4: Sanya sharap ($1.28 in chips) 
+Seat 6: Dorex2007 ($1.87 in chips) 
+Seat 7: Tusons451 ($3.32 in chips) 
+Seat 9: tolma83 ($3.15 in chips) 
+edoschenko: posts small blind $0.01
+ratlkrik291: posts big blind $0.02
+PINOCHET6666: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 9d]
+Sanya sharap: calls $0.02
+Dorex2007: folds 
+Tusons451: raises $0.06 to $0.08
+tolma83: folds 
+smp64poker: calls $0.08
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: calls $0.06
+*** FLOP *** [2d 7c 2s]
+Sanya sharap: checks 
+Tusons451: bets $0.13
+smp64poker: calls $0.13
+Sanya sharap: calls $0.13
+*** TURN *** [2d 7c 2s] [Td]
+Sanya sharap: checks 
+Tusons451: bets $0.32
+smp64poker: folds 
+Sanya sharap: calls $0.32
+*** RIVER *** [2d 7c 2s Td] [Jh]
+Sanya sharap: checks 
+Tusons451: checks 
+*** SHOW DOWN ***
+Sanya sharap: shows [Th Tc] (a full house, Tens full of Deuces)
+Tusons451: mucks hand 
+Sanya sharap collected $1.25 from pot
+*** SUMMARY ***
+Total pot $1.30 | Rake $0.05 
+Board [2d 7c 2s Td Jh]
+Seat 1: smp64poker (button) folded on the Turn
+Seat 2: edoschenko (small blind) folded before Flop
+Seat 3: ratlkrik291 (big blind) folded before Flop
+Seat 4: Sanya sharap showed [Th Tc] and won ($1.25) with a full house, Tens full of Deuces
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 mucked [Ks Kh]
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403085279:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:29:18 PT [2021/03/02 22:29:18 ET]
+Table 'Desagneauxa II' 9-max Seat #2 is the button
+Seat 1: smp64poker ($1.47 in chips) 
+Seat 2: edoschenko ($2.65 in chips) 
+Seat 3: ratlkrik291 ($0.75 in chips) 
+Seat 4: Sanya sharap ($2 in chips) 
+Seat 6: Dorex2007 ($1.87 in chips) 
+Seat 7: Tusons451 ($2.79 in chips) 
+Seat 9: tolma83 ($3.15 in chips) 
+ratlkrik291: posts small blind $0.01
+Sanya sharap: posts big blind $0.02
+PINOCHET6666: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 7d]
+Dorex2007: folds 
+Tusons451: raises $0.02 to $0.04
+tolma83: calls $0.04
+smp64poker: calls $0.04
+edoschenko: calls $0.04
+ratlkrik291: folds 
+Sanya sharap: calls $0.02
+*** FLOP *** [Th 2h 8s]
+Sanya sharap: checks 
+Tusons451: bets $0.20
+tolma83: folds 
+smp64poker: folds 
+edoschenko: folds 
+Sanya sharap: calls $0.20
+*** TURN *** [Th 2h 8s] [8c]
+Sanya sharap: checks 
+Tusons451: bets $0.20
+Sanya sharap: folds 
+Uncalled bet ($0.20) returned to Tusons451
+Tusons451 collected $0.59 from pot
+Tusons451: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [Th 2h 8s 8c]
+Seat 1: smp64poker folded on the Flop
+Seat 2: edoschenko (button) folded on the Flop
+Seat 3: ratlkrik291 (small blind) folded before Flop
+Seat 4: Sanya sharap (big blind) folded on the Turn
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 collected ($0.59)
+Seat 9: tolma83 folded on the Flop
+
+
+
+PokerStars Hand #224403104400:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:30:31 PT [2021/03/02 22:30:31 ET]
+Table 'Desagneauxa II' 9-max Seat #3 is the button
+Seat 1: smp64poker ($1.93 in chips) 
+Seat 2: edoschenko ($2.61 in chips) 
+Seat 3: ratlkrik291 ($0.74 in chips) 
+Seat 4: Sanya sharap ($1.76 in chips) 
+Seat 5: PINOCHET6666 ($1.60 in chips) 
+Seat 6: Dorex2007 ($1.87 in chips) 
+Seat 7: Tusons451 ($3.14 in chips) 
+Seat 9: tolma83 ($3.11 in chips) 
+Sanya sharap: posts small blind $0.01
+PINOCHET6666: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Ts]
+Dorex2007: folds 
+Tusons451: raises $0.04 to $0.06
+tolma83: folds 
+smp64poker: folds 
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: folds 
+PINOCHET6666: folds 
+Uncalled bet ($0.04) returned to Tusons451
+Tusons451 collected $0.05 from pot
+Tusons451: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 (button) folded before Flop (didn't bet)
+Seat 4: Sanya sharap (small blind) folded before Flop
+Seat 5: PINOCHET6666 (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 collected ($0.05)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403109835:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:30:52 PT [2021/03/02 22:30:52 ET]
+Table 'Desagneauxa II' 9-max Seat #4 is the button
+Seat 1: smp64poker ($1.93 in chips) 
+Seat 2: edoschenko ($2.61 in chips) 
+Seat 3: ratlkrik291 ($0.74 in chips) 
+Seat 4: Sanya sharap ($1.75 in chips) 
+Seat 5: PINOCHET6666 ($1.58 in chips) 
+Seat 6: Dorex2007 ($1.87 in chips) 
+Seat 7: Tusons451 ($3.17 in chips) 
+Seat 9: tolma83 ($3.11 in chips) 
+PINOCHET6666: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 8d]
+dobedoobiedo leaves the table
+Tusons451: raises $0.02 to $0.04
+tolma83: folds 
+smp64poker: folds 
+edoschenko: calls $0.04
+ratlkrik291: folds 
+Sanya sharap: calls $0.04
+PINOCHET6666: calls $0.03
+Dorex2007: folds 
+*** FLOP *** [7s 3d 2h]
+PINOCHET6666: checks 
+Tusons451: checks 
+edoschenko: checks 
+Sanya sharap: checks 
+*** TURN *** [7s 3d 2h] [5d]
+PINOCHET6666: bets $0.09
+Tusons451: folds 
+edoschenko: folds 
+Sanya sharap: folds 
+Uncalled bet ($0.09) returned to PINOCHET6666
+PINOCHET6666 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [7s 3d 2h 5d]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded on the Turn
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap (button) folded on the Turn
+Seat 5: PINOCHET6666 (small blind) collected ($0.17)
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: Tusons451 folded on the Turn
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403123605:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:31:44 PT [2021/03/02 22:31:44 ET]
+Table 'Desagneauxa II' 9-max Seat #5 is the button
+Seat 1: smp64poker ($1.93 in chips) 
+Seat 2: edoschenko ($2.57 in chips) 
+Seat 3: ratlkrik291 ($0.74 in chips) 
+Seat 4: Sanya sharap ($1.71 in chips) 
+Seat 5: PINOCHET6666 ($1.71 in chips) 
+Seat 6: Dorex2007 ($1.85 in chips) 
+Seat 7: Tusons451 ($3.13 in chips) 
+Seat 9: tolma83 ($3.11 in chips) 
+Dorex2007: posts small blind $0.01
+Tusons451: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 9s]
+tolma83: folds 
+smp64poker: raises $0.04 to $0.06
+kent330330 joins the table at seat #8 
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: folds 
+PINOCHET6666: folds 
+Dorex2007: folds 
+Tusons451: raises $0.04 to $0.10
+smp64poker: calls $0.04
+*** FLOP *** [Jh 7d 8s]
+Tusons451: bets $0.10
+smp64poker: calls $0.10
+*** TURN *** [Jh 7d 8s] [9c]
+Tusons451: checks 
+smp64poker: bets $0.28
+Tusons451: calls $0.28
+*** RIVER *** [Jh 7d 8s 9c] [3d]
+Tusons451: bets $0.47
+smp64poker: folds 
+Uncalled bet ($0.47) returned to Tusons451
+Tusons451 collected $0.94 from pot
+Tusons451: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.97 | Rake $0.03 
+Board [Jh 7d 8s 9c 3d]
+Seat 1: smp64poker folded on the River
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: Tusons451 (big blind) collected ($0.94)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403141040:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:32:50 PT [2021/03/02 22:32:50 ET]
+Table 'Desagneauxa II' 9-max Seat #6 is the button
+Seat 1: smp64poker ($1.45 in chips) 
+Seat 2: edoschenko ($2.57 in chips) 
+Seat 3: ratlkrik291 ($0.74 in chips) 
+Seat 4: Sanya sharap ($1.71 in chips) 
+Seat 5: PINOCHET6666 ($1.71 in chips) 
+Seat 6: Dorex2007 ($1.84 in chips) 
+Seat 7: Tusons451 ($3.59 in chips) 
+Seat 8: kent330330 ($2 in chips) 
+Seat 9: tolma83 ($3.11 in chips) 
+Tusons451: posts small blind $0.01
+kent330330: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 6s]
+tolma83: folds 
+smp64poker: raises $0.04 to $0.06
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: folds 
+PINOCHET6666: folds 
+Dorex2007: calls $0.06
+Tusons451: folds 
+kent330330: folds 
+*** FLOP *** [5h 4s Qs]
+smp64poker: checks 
+Dorex2007: bets $0.14
+smp64poker: calls $0.14
+*** TURN *** [5h 4s Qs] [5c]
+smp64poker: checks 
+Dorex2007: bets $0.54
+smp64poker: raises $0.71 to $1.25 and is all-in
+Dorex2007: folds 
+Uncalled bet ($0.71) returned to smp64poker
+smp64poker collected $1.46 from pot
+smp64poker: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.51 | Rake $0.05 
+Board [5h 4s Qs 5c]
+Seat 1: smp64poker collected ($1.46)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded on the Turn
+Seat 7: Tusons451 (small blind) folded before Flop
+Seat 8: kent330330 (big blind) folded before Flop
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403156479:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:33:40 PT [2021/03/02 22:33:40 ET]
+Table 'Desagneauxa II' 9-max Seat #7 is the button
+Seat 1: smp64poker ($2.17 in chips) 
+Seat 2: edoschenko ($2.57 in chips) 
+Seat 3: ratlkrik291 ($0.74 in chips) 
+Seat 4: Sanya sharap ($1.71 in chips) 
+Seat 5: PINOCHET6666 ($1.71 in chips) 
+Seat 6: Dorex2007 ($1.10 in chips) 
+Seat 7: Tusons451 ($3.58 in chips) 
+Seat 8: kent330330 ($1.98 in chips) 
+Seat 9: tolma83 ($3.11 in chips) 
+kent330330: posts small blind $0.01
+tolma83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 9d]
+smp64poker: raises $0.04 to $0.06
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: folds 
+PINOCHET6666: folds 
+Dorex2007: folds 
+Tusons451: folds 
+kent330330: folds 
+tolma83: folds 
+Uncalled bet ($0.04) returned to smp64poker
+smp64poker collected $0.05 from pot
+smp64poker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: smp64poker collected ($0.05)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 (button) folded before Flop (didn't bet)
+Seat 8: kent330330 (small blind) folded before Flop
+Seat 9: tolma83 (big blind) folded before Flop
+
+
+
+PokerStars Hand #224403160782:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:33:56 PT [2021/03/02 22:33:56 ET]
+Table 'Desagneauxa II' 9-max Seat #8 is the button
+Seat 1: smp64poker ($2.20 in chips) 
+Seat 2: edoschenko ($2.57 in chips) 
+Seat 3: ratlkrik291 ($0.74 in chips) 
+Seat 4: Sanya sharap ($1.71 in chips) 
+Seat 5: PINOCHET6666 ($1.71 in chips) 
+Seat 6: Dorex2007 ($1.10 in chips) 
+Seat 7: Tusons451 ($3.58 in chips) 
+Seat 8: kent330330 ($1.97 in chips) 
+Seat 9: tolma83 ($3.09 in chips) 
+tolma83: posts small blind $0.01
+smp64poker: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Qs]
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: calls $0.02
+PINOCHET6666: folds 
+Dorex2007: raises $0.04 to $0.06
+Tusons451: folds 
+kent330330: folds 
+tolma83: folds 
+smp64poker: folds 
+Sanya sharap: calls $0.04
+*** FLOP *** [6c 4d Kc]
+Sanya sharap: checks 
+Dorex2007: bets $0.14
+Sanya sharap: folds 
+Uncalled bet ($0.14) returned to Dorex2007
+Dorex2007 collected $0.14 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [6c 4d Kc]
+Seat 1: smp64poker (big blind) folded before Flop
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded on the Flop
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 collected ($0.14)
+Seat 7: Tusons451 folded before Flop (didn't bet)
+Seat 8: kent330330 (button) folded before Flop (didn't bet)
+Seat 9: tolma83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #224403170589:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:34:33 PT [2021/03/02 22:34:33 ET]
+Table 'Desagneauxa II' 9-max Seat #9 is the button
+Seat 1: smp64poker ($2.18 in chips) 
+Seat 2: edoschenko ($2.57 in chips) 
+Seat 3: ratlkrik291 ($0.74 in chips) 
+Seat 4: Sanya sharap ($1.65 in chips) 
+Seat 5: PINOCHET6666 ($1.71 in chips) 
+Seat 6: Dorex2007 ($1.18 in chips) 
+Seat 7: Tusons451 ($3.58 in chips) 
+Seat 8: kent330330 ($1.97 in chips) 
+Seat 9: tolma83 ($3.08 in chips) 
+smp64poker: posts small blind $0.01
+edoschenko: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 7h]
+ratlkrik291: folds 
+Sanya sharap: folds 
+PINOCHET6666: folds 
+Dorex2007: calls $0.02
+Tusons451: folds 
+kent330330: folds 
+tolma83: calls $0.02
+smp64poker: raises $0.07 to $0.09
+edoschenko: folds 
+Dorex2007: calls $0.07
+tolma83: calls $0.07
+*** FLOP *** [9s Ac 9d]
+smp64poker: bets $0.20
+Dorex2007: folds 
+tolma83: folds 
+Uncalled bet ($0.20) returned to smp64poker
+smp64poker collected $0.28 from pot
+smp64poker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [9s Ac 9d]
+Seat 1: smp64poker (small blind) collected ($0.28)
+Seat 2: edoschenko (big blind) folded before Flop
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded on the Flop
+Seat 7: Tusons451 folded before Flop (didn't bet)
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 (button) folded on the Flop
+
+
+
+PokerStars Hand #224403182404:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:35:19 PT [2021/03/02 22:35:19 ET]
+Table 'Desagneauxa II' 9-max Seat #1 is the button
+Seat 1: smp64poker ($2.37 in chips) 
+Seat 2: edoschenko ($2.55 in chips) 
+Seat 3: ratlkrik291 ($0.74 in chips) 
+Seat 4: Sanya sharap ($1.65 in chips) 
+Seat 5: PINOCHET6666 ($1.71 in chips) 
+Seat 6: Dorex2007 ($1.09 in chips) 
+Seat 7: Tusons451 ($3.58 in chips) 
+Seat 8: kent330330 ($1.97 in chips) 
+Seat 9: tolma83 ($2.99 in chips) 
+edoschenko: posts small blind $0.01
+ratlkrik291: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 5s]
+Sanya sharap: folds 
+PINOCHET6666: folds 
+Dorex2007: calls $0.02
+Tusons451: raises $0.02 to $0.04
+kent330330: calls $0.04
+tolma83: folds 
+smp64poker: folds 
+edoschenko: folds 
+ratlkrik291: folds 
+Dorex2007: calls $0.02
+*** FLOP *** [2d 6c Qd]
+Dorex2007: checks 
+Tusons451: checks 
+kent330330: checks 
+*** TURN *** [2d 6c Qd] [8h]
+Dorex2007: checks 
+Tusons451: bets $0.18
+kent330330: folds 
+Dorex2007: calls $0.18
+*** RIVER *** [2d 6c Qd 8h] [7s]
+Dorex2007: bets $0.49
+Tusons451: folds 
+Uncalled bet ($0.49) returned to Dorex2007
+Dorex2007 collected $0.49 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [2d 6c Qd 8h 7s]
+Seat 1: smp64poker (button) folded before Flop (didn't bet)
+Seat 2: edoschenko (small blind) folded before Flop
+Seat 3: ratlkrik291 (big blind) folded before Flop
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 collected ($0.49)
+Seat 7: Tusons451 folded on the River
+Seat 8: kent330330 folded on the Turn
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403195259:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:36:08 PT [2021/03/02 22:36:08 ET]
+Table 'Desagneauxa II' 9-max Seat #2 is the button
+Seat 1: smp64poker ($2.37 in chips) 
+Seat 2: edoschenko ($2.54 in chips) 
+Seat 3: ratlkrik291 ($0.72 in chips) 
+Seat 4: Sanya sharap ($1.65 in chips) 
+Seat 5: PINOCHET6666 ($1.71 in chips) 
+Seat 6: Dorex2007 ($1.36 in chips) 
+Seat 7: Tusons451 ($3.36 in chips) 
+Seat 8: kent330330 ($1.93 in chips) 
+Seat 9: tolma83 ($2.99 in chips) 
+ratlkrik291: posts small blind $0.01
+Sanya sharap: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 3h]
+PINOCHET6666: folds 
+Dorex2007: folds 
+Tusons451: raises $0.04 to $0.06
+kent330330: folds 
+tolma83: folds 
+smp64poker: folds 
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: calls $0.04
+*** FLOP *** [5d 7h 7d]
+Sanya sharap: checks 
+Tusons451: checks 
+*** TURN *** [5d 7h 7d] [Kd]
+Sanya sharap: bets $0.06
+Tusons451: raises $0.06 to $0.12
+Sanya sharap: folds 
+Uncalled bet ($0.06) returned to Tusons451
+Tusons451 collected $0.24 from pot
+Tusons451: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [5d 7h 7d Kd]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko (button) folded before Flop (didn't bet)
+Seat 3: ratlkrik291 (small blind) folded before Flop
+Seat 4: Sanya sharap (big blind) folded on the Turn
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 collected ($0.24)
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403208318:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:36:59 PT [2021/03/02 22:36:59 ET]
+Table 'Desagneauxa II' 9-max Seat #3 is the button
+Seat 1: smp64poker ($2.37 in chips) 
+Seat 2: edoschenko ($2.54 in chips) 
+Seat 3: ratlkrik291 ($0.71 in chips) 
+Seat 4: Sanya sharap ($1.53 in chips) 
+Seat 5: PINOCHET6666 ($1.71 in chips) 
+Seat 6: Dorex2007 ($1.36 in chips) 
+Seat 7: Tusons451 ($3.48 in chips) 
+Seat 8: kent330330 ($1.93 in chips) 
+Seat 9: tolma83 ($2.99 in chips) 
+Sanya sharap: posts small blind $0.01
+PINOCHET6666: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s Kh]
+Dorex2007: folds 
+Tusons451: calls $0.02
+kent330330: folds 
+tolma83: raises $0.07 to $0.09
+smp64poker: folds 
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: folds 
+PINOCHET6666: folds 
+Tusons451: folds 
+Uncalled bet ($0.07) returned to tolma83
+tolma83 collected $0.07 from pot
+tolma83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 (button) folded before Flop (didn't bet)
+Seat 4: Sanya sharap (small blind) folded before Flop
+Seat 5: PINOCHET6666 (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 folded before Flop
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 collected ($0.07)
+
+
+
+PokerStars Hand #224403214429:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:37:22 PT [2021/03/02 22:37:22 ET]
+Table 'Desagneauxa II' 9-max Seat #4 is the button
+Seat 1: smp64poker ($2.37 in chips) 
+Seat 2: edoschenko ($2.54 in chips) 
+Seat 3: ratlkrik291 ($0.71 in chips) 
+Seat 4: Sanya sharap ($1.52 in chips) 
+Seat 5: PINOCHET6666 ($1.69 in chips) 
+Seat 6: Dorex2007 ($1.36 in chips) 
+Seat 7: Tusons451 ($3.46 in chips) 
+Seat 8: kent330330 ($1.93 in chips) 
+Seat 9: tolma83 ($3.04 in chips) 
+PINOCHET6666: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 7h]
+Tusons451: folds 
+kent330330: folds 
+tolma83: folds 
+smp64poker: folds 
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: calls $0.02
+PINOCHET6666: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [2h 8s 6h]
+PINOCHET6666: bets $0.03
+Dorex2007: folds 
+Sanya sharap: folds 
+Uncalled bet ($0.03) returned to PINOCHET6666
+PINOCHET6666 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [2h 8s 6h]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap (button) folded on the Flop
+Seat 5: PINOCHET6666 (small blind) collected ($0.06)
+Seat 6: Dorex2007 (big blind) folded on the Flop
+Seat 7: Tusons451 folded before Flop (didn't bet)
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403223194:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:37:56 PT [2021/03/02 22:37:56 ET]
+Table 'Desagneauxa II' 9-max Seat #5 is the button
+Seat 1: smp64poker ($2.37 in chips) 
+Seat 2: edoschenko ($2.54 in chips) 
+Seat 3: ratlkrik291 ($0.71 in chips) 
+Seat 4: Sanya sharap ($1.50 in chips) 
+Seat 5: PINOCHET6666 ($1.73 in chips) 
+Seat 6: Dorex2007 ($1.34 in chips) 
+Seat 7: Tusons451 ($3.46 in chips) 
+Seat 8: kent330330 ($1.93 in chips) 
+Seat 9: tolma83 ($3.04 in chips) 
+Dorex2007: posts small blind $0.01
+Tusons451: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 2h]
+kent330330: folds 
+tolma83: folds 
+smp64poker: folds 
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: folds 
+PINOCHET6666: raises $0.02 to $0.04
+Dorex2007: calls $0.03
+Tusons451: folds 
+*** FLOP *** [6d 8h 9c]
+Dorex2007: checks 
+PINOCHET6666: bets $0.05
+Dorex2007: folds 
+Uncalled bet ($0.05) returned to PINOCHET6666
+PINOCHET6666 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [6d 8h 9c]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 (button) collected ($0.10)
+Seat 6: Dorex2007 (small blind) folded on the Flop
+Seat 7: Tusons451 (big blind) folded before Flop
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403237012:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:38:39 PT [2021/03/02 22:38:39 ET]
+Table 'Desagneauxa II' 9-max Seat #6 is the button
+Seat 1: smp64poker ($2.37 in chips) 
+Seat 2: edoschenko ($2.54 in chips) 
+Seat 3: ratlkrik291 ($0.71 in chips) 
+Seat 4: Sanya sharap ($1.50 in chips) 
+Seat 5: PINOCHET6666 ($1.79 in chips) 
+Seat 6: Dorex2007 ($1.30 in chips) 
+Seat 7: Tusons451 ($3.44 in chips) 
+Seat 8: kent330330 ($1.93 in chips) 
+Seat 9: tolma83 ($3.04 in chips) 
+Tusons451: posts small blind $0.01
+kent330330: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc As]
+tolma83: folds 
+smp64poker: folds 
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: folds 
+PINOCHET6666: raises $0.02 to $0.04
+Dorex2007: calls $0.04
+Tusons451: calls $0.03
+kent330330: folds 
+*** FLOP *** [5h 4c Jd]
+Tusons451: checks 
+PINOCHET6666: bets $0.04
+Dorex2007: calls $0.04
+Tusons451: calls $0.04
+*** TURN *** [5h 4c Jd] [9d]
+Tusons451: checks 
+PINOCHET6666: checks 
+Dorex2007: bets $0.25
+Tusons451: folds 
+PINOCHET6666: folds 
+Uncalled bet ($0.25) returned to Dorex2007
+Dorex2007 collected $0.25 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [5h 4c Jd 9d]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 folded on the Turn
+Seat 6: Dorex2007 (button) collected ($0.25)
+Seat 7: Tusons451 (small blind) folded on the Turn
+Seat 8: kent330330 (big blind) folded before Flop
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403254597:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:39:47 PT [2021/03/02 22:39:47 ET]
+Table 'Desagneauxa II' 9-max Seat #7 is the button
+Seat 1: smp64poker ($2.37 in chips) 
+Seat 2: edoschenko ($2.54 in chips) 
+Seat 3: ratlkrik291 ($0.71 in chips) 
+Seat 4: Sanya sharap ($1.50 in chips) 
+Seat 5: PINOCHET6666 ($1.71 in chips) 
+Seat 6: Dorex2007 ($1.47 in chips) 
+Seat 7: Tusons451 ($3.36 in chips) 
+Seat 8: kent330330 ($1.91 in chips) 
+Seat 9: tolma83 ($3.04 in chips) 
+kent330330: posts small blind $0.01
+tolma83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 6d]
+smp64poker: folds 
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: calls $0.02
+PINOCHET6666: calls $0.02
+Dorex2007: folds 
+Tusons451: folds 
+kent330330: folds 
+tolma83: checks 
+*** FLOP *** [8c Jh 4s]
+tolma83: bets $0.04
+Sanya sharap: calls $0.04
+PINOCHET6666: folds 
+*** TURN *** [8c Jh 4s] [Kc]
+tolma83: checks 
+Sanya sharap: checks 
+*** RIVER *** [8c Jh 4s Kc] [Ah]
+tolma83: checks 
+Sanya sharap: checks 
+*** SHOW DOWN ***
+tolma83: shows [6c Jd] (a pair of Jacks)
+Sanya sharap: mucks hand 
+tolma83 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8c Jh 4s Kc Ah]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap mucked [7s 8d]
+Seat 5: PINOCHET6666 folded on the Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 (button) folded before Flop (didn't bet)
+Seat 8: kent330330 (small blind) folded before Flop
+Seat 9: tolma83 (big blind) showed [6c Jd] and won ($0.14) with a pair of Jacks
+
+
+
+PokerStars Hand #224403270300:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:40:49 PT [2021/03/02 22:40:49 ET]
+Table 'Desagneauxa II' 9-max Seat #8 is the button
+Seat 1: smp64poker ($2.37 in chips) 
+Seat 2: edoschenko ($2.54 in chips) 
+Seat 3: ratlkrik291 ($0.71 in chips) 
+Seat 4: Sanya sharap ($1.44 in chips) 
+Seat 5: PINOCHET6666 ($1.69 in chips) 
+Seat 6: Dorex2007 ($1.47 in chips) 
+Seat 7: Tusons451 ($3.36 in chips) 
+Seat 8: kent330330 ($1.90 in chips) 
+Seat 9: tolma83 ($3.12 in chips) 
+tolma83: posts small blind $0.01
+smp64poker: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h As]
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: raises $0.04 to $0.06
+PINOCHET6666: folds 
+Dorex2007: folds 
+Tusons451: folds 
+kent330330: folds 
+tolma83: calls $0.05
+smp64poker: calls $0.04
+*** FLOP *** [9d 4h 9s]
+tolma83: checks 
+smp64poker: checks 
+Sanya sharap: checks 
+*** TURN *** [9d 4h 9s] [2d]
+tolma83: checks 
+smp64poker: checks 
+Sanya sharap: checks 
+*** RIVER *** [9d 4h 9s 2d] [6d]
+tolma83: checks 
+smp64poker: bets $0.09
+Sanya sharap: folds 
+tolma83: folds 
+Uncalled bet ($0.09) returned to smp64poker
+smp64poker collected $0.17 from pot
+smp64poker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [9d 4h 9s 2d 6d]
+Seat 1: smp64poker (big blind) collected ($0.17)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded on the River
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 folded before Flop (didn't bet)
+Seat 8: kent330330 (button) folded before Flop (didn't bet)
+Seat 9: tolma83 (small blind) folded on the River
+
+
+
+PokerStars Hand #224403320646:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:43:01 PT [2021/03/02 22:43:01 ET]
+Table 'Desagneauxa II' 9-max Seat #9 is the button
+Seat 1: smp64poker ($2.48 in chips) 
+Seat 2: edoschenko ($2.54 in chips) 
+Seat 3: ratlkrik291 ($0.71 in chips) 
+Seat 4: Sanya sharap ($1.38 in chips) 
+Seat 5: PINOCHET6666 ($1.69 in chips) 
+Seat 6: Dorex2007 ($1.47 in chips) 
+Seat 7: Tusons451 ($3.36 in chips) 
+Seat 8: kent330330 ($1.90 in chips) 
+Seat 9: tolma83 ($3.06 in chips) 
+smp64poker: posts small blind $0.01
+edoschenko: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 8s]
+ratlkrik291: folds 
+Sanya sharap: folds 
+PINOCHET6666: folds 
+Dorex2007: folds 
+Tusons451: folds 
+kent330330: raises $0.04 to $0.06
+tolma83: folds 
+smp64poker: calls $0.05
+edoschenko: raises $2.48 to $2.54 and is all-in
+kent330330: folds 
+smp64poker: folds 
+Uncalled bet ($2.48) returned to edoschenko
+edoschenko collected $0.18 from pot
+edoschenko: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0 
+Seat 1: smp64poker (small blind) folded before Flop
+Seat 2: edoschenko (big blind) collected ($0.18)
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 folded before Flop (didn't bet)
+Seat 8: kent330330 folded before Flop
+Seat 9: tolma83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403329688:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:43:37 PT [2021/03/02 22:43:37 ET]
+Table 'Desagneauxa II' 9-max Seat #1 is the button
+Seat 1: smp64poker ($2.42 in chips) 
+Seat 2: edoschenko ($2.66 in chips) 
+Seat 3: ratlkrik291 ($0.71 in chips) 
+Seat 4: Sanya sharap ($1.38 in chips) 
+Seat 5: PINOCHET6666 ($1.69 in chips) 
+Seat 6: Dorex2007 ($1.47 in chips) 
+Seat 7: Tusons451 ($3.36 in chips) 
+Seat 8: kent330330 ($1.84 in chips) 
+Seat 9: tolma83 ($3.06 in chips) 
+edoschenko: posts small blind $0.01
+ratlkrik291: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 2s]
+Sanya sharap: calls $0.02
+PINOCHET6666: folds 
+Dorex2007: folds 
+Tusons451: folds 
+kent330330: folds 
+tolma83: raises $0.04 to $0.06
+smp64poker: folds 
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: calls $0.04
+*** FLOP *** [Qh Jd 7h]
+Sanya sharap: checks 
+tolma83: checks 
+*** TURN *** [Qh Jd 7h] [Kd]
+Sanya sharap: checks 
+tolma83: bets $0.12
+Sanya sharap: folds 
+Uncalled bet ($0.12) returned to tolma83
+tolma83 collected $0.14 from pot
+tolma83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qh Jd 7h Kd]
+Seat 1: smp64poker (button) folded before Flop (didn't bet)
+Seat 2: edoschenko (small blind) folded before Flop
+Seat 3: ratlkrik291 (big blind) folded before Flop
+Seat 4: Sanya sharap folded on the Turn
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 folded before Flop (didn't bet)
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 collected ($0.14)
+
+
+
+PokerStars Hand #224403341315:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:44:23 PT [2021/03/02 22:44:23 ET]
+Table 'Desagneauxa II' 9-max Seat #2 is the button
+Seat 1: smp64poker ($2.42 in chips) 
+Seat 2: edoschenko ($2.65 in chips) 
+Seat 3: ratlkrik291 ($0.69 in chips) 
+Seat 4: Sanya sharap ($1.32 in chips) 
+Seat 5: PINOCHET6666 ($1.69 in chips) 
+Seat 6: Dorex2007 ($1.47 in chips) 
+Seat 7: Tusons451 ($3.36 in chips) 
+Seat 8: kent330330 ($1.84 in chips) 
+Seat 9: tolma83 ($3.14 in chips) 
+ratlkrik291: posts small blind $0.01
+Sanya sharap: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 3c]
+PINOCHET6666: folds 
+Dorex2007: folds 
+Tusons451: raises $0.02 to $0.04
+kent330330: folds 
+tolma83: folds 
+smp64poker: folds 
+edoschenko: calls $0.04
+ratlkrik291: folds 
+Sanya sharap: calls $0.02
+*** FLOP *** [Tc Jd 5d]
+Sanya sharap: checks 
+Tusons451: bets $0.10
+edoschenko: calls $0.10
+Sanya sharap: folds 
+*** TURN *** [Tc Jd 5d] [Kd]
+Tusons451: bets $0.32
+edoschenko: calls $0.32
+*** RIVER *** [Tc Jd 5d Kd] [Kh]
+Tusons451: bets $0.94
+edoschenko: folds 
+Uncalled bet ($0.94) returned to Tusons451
+Tusons451 collected $0.94 from pot
+Tusons451: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.97 | Rake $0.03 
+Board [Tc Jd 5d Kd Kh]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko (button) folded on the River
+Seat 3: ratlkrik291 (small blind) folded before Flop
+Seat 4: Sanya sharap (big blind) folded on the Flop
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 collected ($0.94)
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403361134:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:45:43 PT [2021/03/02 22:45:43 ET]
+Table 'Desagneauxa II' 9-max Seat #3 is the button
+Seat 1: smp64poker ($2.42 in chips) 
+Seat 2: edoschenko ($2.19 in chips) 
+Seat 3: ratlkrik291 ($0.68 in chips) 
+Seat 4: Sanya sharap ($1.28 in chips) 
+Seat 5: PINOCHET6666 ($1.69 in chips) 
+Seat 6: Dorex2007 ($1.47 in chips) 
+Seat 7: Tusons451 ($3.84 in chips) 
+Seat 8: kent330330 ($1.84 in chips) 
+Seat 9: tolma83 ($3.14 in chips) 
+Sanya sharap: posts small blind $0.01
+PINOCHET6666: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Jh]
+Dorex2007: folds 
+Tusons451: folds 
+kent330330: calls $0.02
+tolma83: folds 
+smp64poker: raises $0.05 to $0.07
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: folds 
+PINOCHET6666: calls $0.05
+kent330330: folds 
+*** FLOP *** [Kc 9d Ts]
+PINOCHET6666: checks 
+smp64poker: bets $0.11
+PINOCHET6666: calls $0.11
+*** TURN *** [Kc 9d Ts] [8s]
+PINOCHET6666: checks 
+smp64poker: checks 
+*** RIVER *** [Kc 9d Ts 8s] [7h]
+PINOCHET6666: bets $0.19
+smp64poker: calls $0.19
+*** SHOW DOWN ***
+PINOCHET6666: shows [As Kh] (a pair of Kings)
+smp64poker: shows [Kd Th] (two pair, Kings and Tens)
+smp64poker collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [Kc 9d Ts 8s 7h]
+Seat 1: smp64poker showed [Kd Th] and won ($0.74) with two pair, Kings and Tens
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 (button) folded before Flop (didn't bet)
+Seat 4: Sanya sharap (small blind) folded before Flop
+Seat 5: PINOCHET6666 (big blind) showed [As Kh] and lost with a pair of Kings
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 folded before Flop (didn't bet)
+Seat 8: kent330330 folded before Flop
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403378684:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:46:53 PT [2021/03/02 22:46:53 ET]
+Table 'Desagneauxa II' 9-max Seat #4 is the button
+Seat 1: smp64poker ($2.79 in chips) 
+Seat 2: edoschenko ($2.19 in chips) 
+Seat 3: ratlkrik291 ($0.68 in chips) 
+Seat 4: Sanya sharap ($1.27 in chips) 
+Seat 5: PINOCHET6666 ($1.32 in chips) 
+Seat 6: Dorex2007 ($1.47 in chips) 
+Seat 7: Tusons451 ($3.84 in chips) 
+Seat 8: kent330330 ($1.82 in chips) 
+Seat 9: tolma83 ($3.14 in chips) 
+PINOCHET6666: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Jh]
+Tusons451: folds 
+kent330330: folds 
+tolma83: folds 
+smp64poker: folds 
+edoschenko: folds 
+ratlkrik291: raises $0.02 to $0.04
+Sanya sharap: folds 
+PINOCHET6666: folds 
+Dorex2007: calls $0.02
+*** FLOP *** [9h Ad Kd]
+Dorex2007: checks 
+ratlkrik291: checks 
+*** TURN *** [9h Ad Kd] [Kh]
+Dorex2007: checks 
+ratlkrik291: checks 
+*** RIVER *** [9h Ad Kd Kh] [9s]
+Dorex2007: checks 
+ratlkrik291: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [7s Jh] (two pair, Kings and Nines)
+ratlkrik291: shows [3s 3c] (two pair, Kings and Nines)
+Dorex2007 collected $0.05 from pot
+ratlkrik291 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [9h Ad Kd Kh 9s]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 showed [3s 3c] and won ($0.04) with two pair, Kings and Nines
+Seat 4: Sanya sharap (button) folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) showed [7s Jh] and won ($0.05) with two pair, Kings and Nines
+Seat 7: Tusons451 folded before Flop (didn't bet)
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403391633:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:47:47 PT [2021/03/02 22:47:47 ET]
+Table 'Desagneauxa II' 9-max Seat #5 is the button
+Seat 1: smp64poker ($2.79 in chips) 
+Seat 2: edoschenko ($2.19 in chips) 
+Seat 3: ratlkrik291 ($0.68 in chips) 
+Seat 4: Sanya sharap ($1.27 in chips) 
+Seat 5: PINOCHET6666 ($1.31 in chips) 
+Seat 6: Dorex2007 ($1.48 in chips) 
+Seat 7: Tusons451 ($3.84 in chips) 
+Seat 8: kent330330 ($1.82 in chips) 
+Seat 9: tolma83 ($3.14 in chips) 
+Dorex2007: posts small blind $0.01
+Tusons451: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 9s]
+kent330330: folds 
+tolma83: folds 
+smp64poker: raises $0.04 to $0.06
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: folds 
+PINOCHET6666: calls $0.06
+Dorex2007: folds 
+Tusons451: folds 
+*** FLOP *** [8d Td As]
+smp64poker: bets $0.07
+PINOCHET6666: calls $0.07
+*** TURN *** [8d Td As] [3c]
+smp64poker: bets $0.20
+PINOCHET6666: folds 
+Uncalled bet ($0.20) returned to smp64poker
+smp64poker collected $0.28 from pot
+smp64poker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [8d Td As 3c]
+Seat 1: smp64poker collected ($0.28)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 (button) folded on the Turn
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: Tusons451 (big blind) folded before Flop
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403406990:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:48:49 PT [2021/03/02 22:48:49 ET]
+Table 'Desagneauxa II' 9-max Seat #6 is the button
+Seat 1: smp64poker ($2.94 in chips) 
+Seat 2: edoschenko ($2.19 in chips) 
+Seat 3: ratlkrik291 ($0.68 in chips) 
+Seat 4: Sanya sharap ($1.27 in chips) 
+Seat 5: PINOCHET6666 ($1.18 in chips) 
+Seat 6: Dorex2007 ($1.47 in chips) 
+Seat 7: Tusons451 ($3.82 in chips) 
+Seat 8: kent330330 ($1.82 in chips) 
+Seat 9: tolma83 ($3.14 in chips) 
+Tusons451: posts small blind $0.01
+kent330330: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s Ts]
+tolma83: folds 
+smp64poker: folds 
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: raises $0.02 to $0.04
+PINOCHET6666: folds 
+Dorex2007: calls $0.04
+Tusons451: folds 
+kent330330: calls $0.02
+*** FLOP *** [Qc 3c 5h]
+kent330330: checks 
+Sanya sharap: bets $0.08
+Dorex2007: folds 
+kent330330: calls $0.08
+*** TURN *** [Qc 3c 5h] [5s]
+kent330330: checks 
+Sanya sharap: bets $0.14
+kent330330: folds 
+Uncalled bet ($0.14) returned to Sanya sharap
+Sanya sharap collected $0.28 from pot
+Sanya sharap: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Qc 3c 5h 5s]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap collected ($0.28)
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded on the Flop
+Seat 7: Tusons451 (small blind) folded before Flop
+Seat 8: kent330330 (big blind) folded on the Turn
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403425359:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:49:30 PT [2021/03/02 22:49:30 ET]
+Table 'Desagneauxa II' 9-max Seat #7 is the button
+Seat 1: smp64poker ($2.94 in chips) 
+Seat 2: edoschenko ($2.19 in chips) 
+Seat 3: ratlkrik291 ($0.68 in chips) 
+Seat 4: Sanya sharap ($1.43 in chips) 
+Seat 5: PINOCHET6666 ($1.18 in chips) 
+Seat 6: Dorex2007 ($1.43 in chips) 
+Seat 7: Tusons451 ($3.81 in chips) 
+Seat 8: kent330330 ($1.70 in chips) 
+Seat 9: tolma83 ($3.14 in chips) 
+kent330330: posts small blind $0.01
+tolma83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 9s]
+smp64poker: folds 
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: calls $0.02
+PINOCHET6666: calls $0.02
+Dorex2007: calls $0.02
+Tusons451: raises $0.06 to $0.08
+kent330330: folds 
+tolma83: calls $0.06
+Sanya sharap: calls $0.06
+PINOCHET6666: folds 
+Dorex2007: folds 
+*** FLOP *** [Ad 3c 8d]
+tolma83: checks 
+Sanya sharap: checks 
+Tusons451: bets $0.08
+tolma83: folds 
+Sanya sharap: folds 
+Uncalled bet ($0.08) returned to Tusons451
+Tusons451 collected $0.28 from pot
+Tusons451: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Ad 3c 8d]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded on the Flop
+Seat 5: PINOCHET6666 folded before Flop
+Seat 6: Dorex2007 folded before Flop
+Seat 7: Tusons451 (button) collected ($0.28)
+Seat 8: kent330330 (small blind) folded before Flop
+Seat 9: tolma83 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #224403438950:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:50:25 PT [2021/03/02 22:50:25 ET]
+Table 'Desagneauxa II' 9-max Seat #8 is the button
+Seat 1: smp64poker ($2.94 in chips) 
+Seat 2: edoschenko ($2.19 in chips) 
+Seat 3: ratlkrik291 ($0.68 in chips) 
+Seat 4: Sanya sharap ($1.35 in chips) 
+Seat 5: PINOCHET6666 ($1.16 in chips) 
+Seat 6: Dorex2007 ($1.41 in chips) 
+Seat 7: Tusons451 ($4.01 in chips) 
+Seat 8: kent330330 ($1.69 in chips) 
+Seat 9: tolma83 ($3.06 in chips) 
+tolma83: posts small blind $0.01
+smp64poker: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 8d]
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: calls $0.02
+PINOCHET6666: calls $0.02
+Dorex2007: folds 
+Tusons451: raises $0.04 to $0.06
+kent330330: folds 
+tolma83: calls $0.05
+smp64poker: folds 
+Sanya sharap: calls $0.04
+PINOCHET6666: folds 
+*** FLOP *** [9c 2s 8c]
+tolma83: checks 
+Sanya sharap: bets $0.10
+Tusons451: calls $0.10
+tolma83: calls $0.10
+*** TURN *** [9c 2s 8c] [9h]
+tolma83: checks 
+Sanya sharap: bets $0.50
+Tusons451: folds 
+tolma83: folds 
+Uncalled bet ($0.50) returned to Sanya sharap
+Sanya sharap collected $0.50 from pot
+Sanya sharap: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [9c 2s 8c 9h]
+Seat 1: smp64poker (big blind) folded before Flop
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap collected ($0.50)
+Seat 5: PINOCHET6666 folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 folded on the Turn
+Seat 8: kent330330 (button) folded before Flop (didn't bet)
+Seat 9: tolma83 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #224403459568:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:51:48 PT [2021/03/02 22:51:48 ET]
+Table 'Desagneauxa II' 9-max Seat #9 is the button
+Seat 1: smp64poker ($2.92 in chips) 
+Seat 2: edoschenko ($2.19 in chips) 
+Seat 3: ratlkrik291 ($0.68 in chips) 
+Seat 4: Sanya sharap ($1.69 in chips) 
+Seat 5: PINOCHET6666 ($1.14 in chips) 
+Seat 6: Dorex2007 ($1.41 in chips) 
+Seat 7: Tusons451 ($3.85 in chips) 
+Seat 8: kent330330 ($1.69 in chips) 
+Seat 9: tolma83 ($2.90 in chips) 
+smp64poker: posts small blind $0.01
+edoschenko: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 4c]
+ratlkrik291: folds 
+Sanya sharap: calls $0.02
+PINOCHET6666: raises $0.04 to $0.06
+Dorex2007: folds 
+Tusons451: folds 
+kent330330: folds 
+tolma83: folds 
+smp64poker: folds 
+edoschenko: folds 
+Sanya sharap: calls $0.04
+*** FLOP *** [8c 7s Ah]
+Sanya sharap: checks 
+PINOCHET6666: bets $0.07
+Sanya sharap: calls $0.07
+*** TURN *** [8c 7s Ah] [Qs]
+Sanya sharap: checks 
+PINOCHET6666: bets $0.14
+Sanya sharap: calls $0.14
+*** RIVER *** [8c 7s Ah Qs] [9h]
+Sanya sharap: checks 
+PINOCHET6666: checks 
+*** SHOW DOWN ***
+Sanya sharap: shows [4s Ac] (a pair of Aces)
+PINOCHET6666: mucks hand 
+Sanya sharap collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [8c 7s Ah Qs 9h]
+Seat 1: smp64poker (small blind) folded before Flop
+Seat 2: edoschenko (big blind) folded before Flop
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap showed [4s Ac] and won ($0.55) with a pair of Aces
+Seat 5: PINOCHET6666 mucked [Kc Ks]
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 folded before Flop (didn't bet)
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403475712:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:52:54 PT [2021/03/02 22:52:54 ET]
+Table 'Desagneauxa II' 9-max Seat #1 is the button
+Seat 1: smp64poker ($2.91 in chips) 
+Seat 2: edoschenko ($2.17 in chips) 
+Seat 3: ratlkrik291 ($0.68 in chips) 
+Seat 4: Sanya sharap ($1.97 in chips) 
+Seat 5: PINOCHET6666 ($0.87 in chips) 
+Seat 6: Dorex2007 ($1.41 in chips) 
+Seat 7: Tusons451 ($3.85 in chips) 
+Seat 8: kent330330 ($1.69 in chips) 
+Seat 9: tolma83 ($2.90 in chips) 
+edoschenko: posts small blind $0.01
+ratlkrik291: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 9s]
+Sanya sharap: calls $0.02
+PINOCHET6666: folds 
+Dorex2007: raises $0.02 to $0.04
+Tusons451: raises $0.06 to $0.10
+kent330330: folds 
+tolma83: folds 
+smp64poker: folds 
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: calls $0.08
+Dorex2007: calls $0.06
+*** FLOP *** [8c 9h 8d]
+Sanya sharap: checks 
+Dorex2007: bets $0.32
+Tusons451: folds 
+Sanya sharap: folds 
+Uncalled bet ($0.32) returned to Dorex2007
+Dorex2007 collected $0.32 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [8c 9h 8d]
+Seat 1: smp64poker (button) folded before Flop (didn't bet)
+Seat 2: edoschenko (small blind) folded before Flop
+Seat 3: ratlkrik291 (big blind) folded before Flop
+Seat 4: Sanya sharap folded on the Flop
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 collected ($0.32)
+Seat 7: Tusons451 folded on the Flop
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403488359:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:53:45 PT [2021/03/02 22:53:45 ET]
+Table 'Desagneauxa II' 9-max Seat #2 is the button
+Seat 1: smp64poker ($2.91 in chips) 
+Seat 2: edoschenko ($2.16 in chips) 
+Seat 3: ratlkrik291 ($0.66 in chips) 
+Seat 4: Sanya sharap ($1.87 in chips) 
+Seat 5: PINOCHET6666 ($0.87 in chips) 
+Seat 6: Dorex2007 ($1.63 in chips) 
+Seat 7: Tusons451 ($3.75 in chips) 
+Seat 8: kent330330 ($1.69 in chips) 
+Seat 9: tolma83 ($2.90 in chips) 
+ratlkrik291: posts small blind $0.01
+Sanya sharap: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 6d]
+PINOCHET6666: folds 
+Dorex2007: folds 
+Tusons451: folds 
+kent330330: raises $0.03 to $0.05
+tolma83: folds 
+smp64poker: folds 
+edoschenko: calls $0.05
+ratlkrik291: folds 
+Sanya sharap: folds 
+*** FLOP *** [Jc Ad Kh]
+kent330330: bets $0.05
+edoschenko: calls $0.05
+*** TURN *** [Jc Ad Kh] [As]
+kent330330: bets $0.09
+edoschenko: folds 
+Uncalled bet ($0.09) returned to kent330330
+kent330330 collected $0.22 from pot
+kent330330: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Jc Ad Kh As]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko (button) folded on the Turn
+Seat 3: ratlkrik291 (small blind) folded before Flop
+Seat 4: Sanya sharap (big blind) folded before Flop
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 folded before Flop (didn't bet)
+Seat 8: kent330330 collected ($0.22)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403498379:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:54:26 PT [2021/03/02 22:54:26 ET]
+Table 'Desagneauxa II' 9-max Seat #3 is the button
+Seat 1: smp64poker ($2.91 in chips) 
+Seat 2: edoschenko ($2.06 in chips) 
+Seat 3: ratlkrik291 ($0.65 in chips) 
+Seat 4: Sanya sharap ($1.85 in chips) 
+Seat 5: PINOCHET6666 ($0.87 in chips) 
+Seat 6: Dorex2007 ($1.63 in chips) 
+Seat 7: Tusons451 ($3.75 in chips) 
+Seat 8: kent330330 ($1.81 in chips) 
+Seat 9: tolma83 ($2.90 in chips) 
+Sanya sharap: posts small blind $0.01
+PINOCHET6666: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Jc]
+Dorex2007: folds 
+Tusons451: calls $0.02
+kent330330: raises $0.03 to $0.05
+tolma83: folds 
+smp64poker: folds 
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: calls $0.04
+PINOCHET6666: calls $0.03
+Tusons451: calls $0.03
+*** FLOP *** [Qd 9h 8s]
+Sanya sharap: checks 
+PINOCHET6666: checks 
+Tusons451: checks 
+kent330330: bets $0.08
+Sanya sharap: calls $0.08
+PINOCHET6666: calls $0.08
+Tusons451: calls $0.08
+*** TURN *** [Qd 9h 8s] [5d]
+Sanya sharap: bets $1.72 and is all-in
+PINOCHET6666: folds 
+Tusons451: folds 
+kent330330: folds 
+Uncalled bet ($1.72) returned to Sanya sharap
+Sanya sharap collected $0.50 from pot
+Sanya sharap: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [Qd 9h 8s 5d]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 (button) folded before Flop (didn't bet)
+Seat 4: Sanya sharap (small blind) collected ($0.50)
+Seat 5: PINOCHET6666 (big blind) folded on the Turn
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 folded on the Turn
+Seat 8: kent330330 folded on the Turn
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403514687:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:55:40 PT [2021/03/02 22:55:40 ET]
+Table 'Desagneauxa II' 9-max Seat #4 is the button
+Seat 1: smp64poker ($2.91 in chips) 
+Seat 2: edoschenko ($2.06 in chips) 
+Seat 3: ratlkrik291 ($0.65 in chips) 
+Seat 4: Sanya sharap ($2.22 in chips) 
+Seat 5: PINOCHET6666 ($0.74 in chips) 
+Seat 6: Dorex2007 ($1.63 in chips) 
+Seat 7: Tusons451 ($3.62 in chips) 
+Seat 8: kent330330 ($1.68 in chips) 
+PINOCHET6666: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 8c]
+Tusons451: folds 
+kent330330: raises $0.03 to $0.05
+smp64poker: calls $0.05
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: folds 
+PINOCHET6666: folds 
+Dorex2007: calls $0.03
+*** FLOP *** [Kd 6c 6s]
+Dorex2007: bets $0.08
+kent330330: folds 
+smp64poker: folds 
+Uncalled bet ($0.08) returned to Dorex2007
+Dorex2007 collected $0.15 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Kd 6c 6s]
+Seat 1: smp64poker folded on the Flop
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap (button) folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) collected ($0.15)
+Seat 7: Tusons451 folded before Flop (didn't bet)
+Seat 8: kent330330 folded on the Flop
+
+
+
+PokerStars Hand #224403521566:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:56:15 PT [2021/03/02 22:56:15 ET]
+Table 'Desagneauxa II' 9-max Seat #5 is the button
+Seat 1: smp64poker ($2.86 in chips) 
+Seat 2: edoschenko ($2.06 in chips) 
+Seat 3: ratlkrik291 ($0.65 in chips) 
+Seat 4: Sanya sharap ($2.22 in chips) 
+Seat 5: PINOCHET6666 ($0.73 in chips) 
+Seat 6: Dorex2007 ($1.73 in chips) 
+Seat 7: Tusons451 ($3.62 in chips) 
+Seat 8: kent330330 ($1.63 in chips) 
+Dorex2007: posts small blind $0.01
+Tusons451: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 3c]
+kent330330: folds 
+smp64poker: folds 
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: calls $0.02
+PINOCHET6666: calls $0.02
+Dorex2007: calls $0.01
+Tusons451: checks 
+*** FLOP *** [6s Ad 4s]
+Dorex2007: checks 
+Tusons451: checks 
+Sanya sharap: checks 
+PINOCHET6666: bets $0.04
+Dorex2007: folds 
+Tusons451: folds 
+Sanya sharap: calls $0.04
+*** TURN *** [6s Ad 4s] [As]
+Sanya sharap: checks 
+PINOCHET6666: checks 
+*** RIVER *** [6s Ad 4s As] [9h]
+Sanya sharap: bets $0.09
+PINOCHET6666: folds 
+Uncalled bet ($0.09) returned to Sanya sharap
+Sanya sharap collected $0.15 from pot
+Sanya sharap: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [6s Ad 4s As 9h]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap collected ($0.15)
+Seat 5: PINOCHET6666 (button) folded on the River
+Seat 6: Dorex2007 (small blind) folded on the Flop
+Seat 7: Tusons451 (big blind) folded on the Flop
+Seat 8: kent330330 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403533929:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:57:19 PT [2021/03/02 22:57:19 ET]
+Table 'Desagneauxa II' 9-max Seat #6 is the button
+Seat 1: smp64poker ($2.86 in chips) 
+Seat 2: edoschenko ($2.06 in chips) 
+Seat 3: ratlkrik291 ($0.65 in chips) 
+Seat 4: Sanya sharap ($2.31 in chips) 
+Seat 5: PINOCHET6666 ($0.67 in chips) 
+Seat 6: Dorex2007 ($1.71 in chips) 
+Seat 7: Tusons451 ($3.60 in chips) 
+Seat 8: kent330330 ($1.63 in chips) 
+Tusons451: posts small blind $0.01
+kent330330: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 7h]
+smp64poker: folds 
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: folds 
+PINOCHET6666: raises $0.02 to $0.04
+Dorex2007: folds 
+Tusons451: folds 
+kent330330: folds 
+Uncalled bet ($0.02) returned to PINOCHET6666
+PINOCHET6666 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 collected ($0.05)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: Tusons451 (small blind) folded before Flop
+Seat 8: kent330330 (big blind) folded before Flop
+
+
+
+PokerStars Hand #224403538990:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:57:45 PT [2021/03/02 22:57:45 ET]
+Table 'Desagneauxa II' 9-max Seat #7 is the button
+Seat 1: smp64poker ($2.86 in chips) 
+Seat 2: edoschenko ($2.06 in chips) 
+Seat 3: ratlkrik291 ($0.65 in chips) 
+Seat 4: Sanya sharap ($2.31 in chips) 
+Seat 5: PINOCHET6666 ($0.70 in chips) 
+Seat 6: Dorex2007 ($1.71 in chips) 
+Seat 7: Tusons451 ($3.59 in chips) 
+Seat 8: kent330330 ($1.61 in chips) 
+kent330330: posts small blind $0.01
+smp64poker: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 6d]
+edoschenko: folds 
+ratlkrik291: folds 
+Sanya sharap: calls $0.02
+PINOCHET6666: raises $0.04 to $0.06
+Dorex2007: folds 
+Tusons451: raises $0.14 to $0.20
+kent330330: calls $0.19
+smp64poker: folds 
+Sanya sharap: folds 
+PINOCHET6666: folds 
+*** FLOP *** [Jh Td As]
+kent330330: checks 
+Tusons451: bets $0.24
+kent330330: folds 
+Uncalled bet ($0.24) returned to Tusons451
+Tusons451 collected $0.48 from pot
+Tusons451: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Jh Td As]
+Seat 1: smp64poker (big blind) folded before Flop
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop
+Seat 5: PINOCHET6666 folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 (button) collected ($0.48)
+Seat 8: kent330330 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #224403547306:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:58:29 PT [2021/03/02 22:58:29 ET]
+Table 'Desagneauxa II' 9-max Seat #8 is the button
+Seat 1: smp64poker ($2.84 in chips) 
+Seat 2: edoschenko ($2.06 in chips) 
+Seat 3: ratlkrik291 ($0.65 in chips) 
+Seat 4: Sanya sharap ($2.29 in chips) 
+Seat 5: PINOCHET6666 ($0.64 in chips) 
+Seat 6: Dorex2007 ($1.71 in chips) 
+Seat 7: Tusons451 ($3.87 in chips) 
+Seat 8: kent330330 ($1.41 in chips) 
+smp64poker: posts small blind $0.01
+edoschenko: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Qc]
+ratlkrik291: folds 
+Sanya sharap: calls $0.02
+PINOCHET6666: folds 
+Dorex2007: folds 
+Tusons451: calls $0.02
+kent330330: folds 
+smp64poker: calls $0.01
+ratlkrik291 leaves the table
+edoschenko: checks 
+*** FLOP *** [3s Qs 7d]
+smp64poker: checks 
+edoschenko: checks 
+Sanya sharap: bets $0.06
+Tusons451: folds 
+smp64poker: folds 
+edoschenko: calls $0.06
+*** TURN *** [3s Qs 7d] [8h]
+edoschenko: checks 
+Sanya sharap: bets $0.08
+edoschenko: calls $0.08
+*** RIVER *** [3s Qs 7d 8h] [Kh]
+edoschenko: checks 
+Sanya sharap: checks 
+*** SHOW DOWN ***
+edoschenko: shows [6s 8s] (a pair of Eights)
+Sanya sharap: shows [Qh Td] (a pair of Queens)
+Sanya sharap collected $0.35 from pot
+bübchen24 joins the table at seat #3 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [3s Qs 7d 8h Kh]
+Seat 1: smp64poker (small blind) folded on the Flop
+Seat 2: edoschenko (big blind) showed [6s 8s] and lost with a pair of Eights
+Seat 3: ratlkrik291 folded before Flop (didn't bet)
+Seat 4: Sanya sharap showed [Qh Td] and won ($0.35) with a pair of Queens
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 folded on the Flop
+Seat 8: kent330330 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403557553:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 19:59:23 PT [2021/03/02 22:59:23 ET]
+Table 'Desagneauxa II' 9-max Seat #1 is the button
+Seat 1: smp64poker ($2.82 in chips) 
+Seat 2: edoschenko ($1.90 in chips) 
+Seat 3: bübchen24 ($2 in chips) 
+Seat 4: Sanya sharap ($2.48 in chips) 
+Seat 5: PINOCHET6666 ($0.64 in chips) 
+Seat 6: Dorex2007 ($1.71 in chips) 
+Seat 7: Tusons451 ($3.85 in chips) 
+Seat 8: kent330330 ($1.41 in chips) 
+Seat 9: tolma83 ($2.90 in chips) 
+edoschenko: posts small blind $0.01
+bübchen24: posts big blind $0.02
+tolma83: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 9s]
+Sanya sharap has timed out
+Sanya sharap: folds 
+PINOCHET6666: raises $0.02 to $0.04
+Dorex2007: calls $0.04
+Tusons451: folds 
+kent330330: folds 
+tolma83: folds 
+smp64poker: folds 
+edoschenko: folds 
+bübchen24: calls $0.02
+*** FLOP *** [Qd 2d 5d]
+bübchen24: checks 
+PINOCHET6666: bets $0.08
+Dorex2007: folds 
+bübchen24: calls $0.08
+*** TURN *** [Qd 2d 5d] [3d]
+bübchen24: checks 
+PINOCHET6666: bets $0.16
+bübchen24: folds 
+Uncalled bet ($0.16) returned to PINOCHET6666
+PINOCHET6666 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Qd 2d 5d 3d]
+Seat 1: smp64poker (button) folded before Flop (didn't bet)
+Seat 2: edoschenko (small blind) folded before Flop
+Seat 3: bübchen24 (big blind) folded on the Turn
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 collected ($0.31)
+Seat 6: Dorex2007 folded on the Flop
+Seat 7: Tusons451 folded before Flop (didn't bet)
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403585915:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:00:30 PT [2021/03/02 23:00:30 ET]
+Table 'Desagneauxa II' 9-max Seat #2 is the button
+Seat 1: smp64poker ($2.82 in chips) 
+Seat 2: edoschenko ($1.89 in chips) 
+Seat 3: bübchen24 ($1.88 in chips) 
+Seat 4: Sanya sharap ($2.48 in chips) 
+Seat 5: PINOCHET6666 ($0.83 in chips) 
+Seat 6: Dorex2007 ($1.67 in chips) 
+Seat 7: Tusons451 ($3.85 in chips) 
+Seat 8: kent330330 ($1.41 in chips) 
+Seat 9: tolma83 ($2.87 in chips) 
+bübchen24: posts small blind $0.01
+Sanya sharap: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 3h]
+PINOCHET6666: folds 
+Dorex2007: folds 
+Tusons451: folds 
+kent330330: raises $0.03 to $0.05
+tolma83: folds 
+smp64poker: folds 
+edoschenko: folds 
+bübchen24: folds 
+Sanya sharap: folds 
+Uncalled bet ($0.03) returned to kent330330
+kent330330 collected $0.05 from pot
+kent330330: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko (button) folded before Flop (didn't bet)
+Seat 3: bübchen24 (small blind) folded before Flop
+Seat 4: Sanya sharap (big blind) folded before Flop
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 folded before Flop (didn't bet)
+Seat 8: kent330330 collected ($0.05)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403590606:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:00:51 PT [2021/03/02 23:00:51 ET]
+Table 'Desagneauxa II' 9-max Seat #3 is the button
+Seat 1: smp64poker ($2.82 in chips) 
+Seat 2: edoschenko ($1.89 in chips) 
+Seat 3: bübchen24 ($1.87 in chips) 
+Seat 4: Sanya sharap ($2.46 in chips) 
+Seat 5: PINOCHET6666 ($0.83 in chips) 
+Seat 6: Dorex2007 ($1.67 in chips) 
+Seat 7: Tusons451 ($3.85 in chips) 
+Seat 8: kent330330 ($1.44 in chips) 
+Seat 9: tolma83 ($2.87 in chips) 
+Sanya sharap: posts small blind $0.01
+PINOCHET6666: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Ts]
+Dorex2007: folds 
+Tusons451: raises $0.02 to $0.04
+kent330330: folds 
+tolma83: folds 
+smp64poker: folds 
+edoschenko: folds 
+bübchen24: folds 
+Sanya sharap: calls $0.03
+PINOCHET6666: folds 
+*** FLOP *** [Ks 2h Ad]
+Sanya sharap: checks 
+Tusons451: checks 
+*** TURN *** [Ks 2h Ad] [6s]
+Sanya sharap: bets $0.04
+Tusons451: calls $0.04
+*** RIVER *** [Ks 2h Ad 6s] [Th]
+Sanya sharap: bets $0.04
+Tusons451: raises $0.06 to $0.10
+Sanya sharap: calls $0.06
+*** SHOW DOWN ***
+Tusons451: shows [4s Ah] (a pair of Aces)
+Sanya sharap: shows [As 4d] (a pair of Aces)
+Sanya sharap collected $0.19 from pot
+Tusons451 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [Ks 2h Ad 6s Th]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: bübchen24 (button) folded before Flop (didn't bet)
+Seat 4: Sanya sharap (small blind) showed [As 4d] and won ($0.19) with a pair of Aces
+Seat 5: PINOCHET6666 (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 showed [4s Ah] and won ($0.18) with a pair of Aces
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403604412:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:01:50 PT [2021/03/02 23:01:50 ET]
+Table 'Desagneauxa II' 9-max Seat #4 is the button
+Seat 1: smp64poker ($2.82 in chips) 
+Seat 2: edoschenko ($1.89 in chips) 
+Seat 3: bübchen24 ($1.87 in chips) 
+Seat 4: Sanya sharap ($2.47 in chips) 
+Seat 5: PINOCHET6666 ($0.81 in chips) 
+Seat 6: Dorex2007 ($1.67 in chips) 
+Seat 7: Tusons451 ($3.85 in chips) 
+Seat 8: kent330330 ($1.44 in chips) 
+Seat 9: tolma83 ($2.87 in chips) 
+PINOCHET6666: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Tc]
+Tusons451: folds 
+kent330330: folds 
+tolma83: folds 
+smp64poker: folds 
+edoschenko: raises $0.06 to $0.08
+bübchen24: calls $0.08
+Sanya sharap: folds 
+PINOCHET6666: folds 
+Dorex2007: calls $0.06
+*** FLOP *** [8s 6h 2h]
+Dorex2007: checks 
+edoschenko: checks 
+bübchen24: bets $0.16
+Dorex2007: folds 
+edoschenko: folds 
+Uncalled bet ($0.16) returned to bübchen24
+bübchen24 collected $0.24 from pot
+bübchen24: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [8s 6h 2h]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded on the Flop
+Seat 3: bübchen24 collected ($0.24)
+Seat 4: Sanya sharap (button) folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded on the Flop
+Seat 7: Tusons451 folded before Flop (didn't bet)
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403614315:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:02:32 PT [2021/03/02 23:02:32 ET]
+Table 'Desagneauxa II' 9-max Seat #5 is the button
+Seat 1: smp64poker ($2.82 in chips) 
+Seat 2: edoschenko ($1.81 in chips) 
+Seat 3: bübchen24 ($2.03 in chips) 
+Seat 4: Sanya sharap ($2.47 in chips) 
+Seat 5: PINOCHET6666 ($0.80 in chips) 
+Seat 6: Dorex2007 ($1.59 in chips) 
+Seat 7: Tusons451 ($3.85 in chips) 
+Seat 8: kent330330 ($1.44 in chips) 
+Seat 9: tolma83 ($2.87 in chips) 
+Dorex2007: posts small blind $0.01
+Tusons451: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Js]
+kent330330: folds 
+tolma83: folds 
+smp64poker: raises $0.04 to $0.06
+edoschenko: folds 
+bübchen24: folds 
+Sanya sharap: calls $0.06
+PINOCHET6666: folds 
+Dorex2007: calls $0.05
+Tusons451: calls $0.04
+*** FLOP *** [Qc 2s 2c]
+Dorex2007: bets $0.23
+Tusons451: folds 
+smp64poker: folds 
+Sanya sharap: folds 
+Uncalled bet ($0.23) returned to Dorex2007
+Dorex2007 collected $0.23 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Qc 2s 2c]
+Seat 1: smp64poker folded on the Flop
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: bübchen24 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded on the Flop
+Seat 5: PINOCHET6666 (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) collected ($0.23)
+Seat 7: Tusons451 (big blind) folded on the Flop
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403622350:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:03:05 PT [2021/03/02 23:03:05 ET]
+Table 'Desagneauxa II' 9-max Seat #6 is the button
+Seat 1: smp64poker ($2.76 in chips) 
+Seat 2: edoschenko ($1.81 in chips) 
+Seat 3: bübchen24 ($2.03 in chips) 
+Seat 4: Sanya sharap ($2.41 in chips) 
+Seat 5: PINOCHET6666 ($0.80 in chips) 
+Seat 6: Dorex2007 ($1.76 in chips) 
+Seat 7: Tusons451 ($3.79 in chips) 
+Seat 8: kent330330 ($1.44 in chips) 
+Seat 9: tolma83 ($2.87 in chips) 
+Tusons451: posts small blind $0.01
+kent330330: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 5h]
+tolma83: folds 
+smp64poker: folds 
+edoschenko: folds 
+smp64poker leaves the table
+bübchen24: folds 
+Sanya sharap: folds 
+PINOCHET6666: folds 
+Saataanaa joins the table at seat #1 
+Dorex2007: calls $0.02
+Tusons451: folds 
+kent330330: checks 
+*** FLOP *** [9d 4d Tc]
+kent330330: bets $0.02
+Dorex2007: folds 
+Uncalled bet ($0.02) returned to kent330330
+kent330330 collected $0.05 from pot
+kent330330: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9d 4d Tc]
+Seat 1: smp64poker folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: bübchen24 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded on the Flop
+Seat 7: Tusons451 (small blind) folded before Flop
+Seat 8: kent330330 (big blind) collected ($0.05)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403629262:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:03:34 PT [2021/03/02 23:03:34 ET]
+Table 'Desagneauxa II' 9-max Seat #7 is the button
+Seat 2: edoschenko ($1.81 in chips) 
+Seat 3: bübchen24 ($2.03 in chips) 
+Seat 4: Sanya sharap ($2.41 in chips) 
+Seat 5: PINOCHET6666 ($0.80 in chips) 
+Seat 6: Dorex2007 ($1.74 in chips) 
+Seat 7: Tusons451 ($3.78 in chips) 
+Seat 8: kent330330 ($1.47 in chips) 
+Seat 9: tolma83 ($2.87 in chips) 
+kent330330: posts small blind $0.01
+tolma83: posts big blind $0.02
+Saataanaa: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Jh]
+edoschenko: raises $0.06 to $0.08
+bübchen24: folds 
+Sanya sharap: folds 
+PINOCHET6666: folds 
+Dorex2007: folds 
+Tusons451: calls $0.08
+kent330330: folds 
+tolma83: raises $0.14 to $0.22
+edoschenko: calls $0.14
+Tusons451: folds 
+*** FLOP *** [9s Qs Qd]
+tolma83: bets $0.28
+edoschenko: folds 
+Uncalled bet ($0.28) returned to tolma83
+tolma83 collected $0.51 from pot
+tolma83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [9s Qs Qd]
+Seat 2: edoschenko folded on the Flop
+Seat 3: bübchen24 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 (button) folded before Flop
+Seat 8: kent330330 (small blind) folded before Flop
+Seat 9: tolma83 (big blind) collected ($0.51)
+
+
+
+PokerStars Hand #224403638570:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:04:13 PT [2021/03/02 23:04:13 ET]
+Table 'Desagneauxa II' 9-max Seat #8 is the button
+Seat 1: Saataanaa ($1.10 in chips) 
+Seat 2: edoschenko ($1.59 in chips) 
+Seat 3: bübchen24 ($2.03 in chips) 
+Seat 4: Sanya sharap ($2.41 in chips) 
+Seat 5: PINOCHET6666 ($0.80 in chips) 
+Seat 6: Dorex2007 ($1.74 in chips) 
+Seat 7: Tusons451 ($3.70 in chips) 
+Seat 8: kent330330 ($1.46 in chips) 
+Seat 9: tolma83 ($3.16 in chips) 
+tolma83: posts small blind $0.01
+Saataanaa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 4c]
+edoschenko: folds 
+bübchen24: raises $0.04 to $0.06
+Sanya sharap: raises $0.04 to $0.10
+PINOCHET6666: folds 
+Dorex2007: folds 
+Tusons451: folds 
+kent330330: folds 
+tolma83: folds 
+Saataanaa: folds 
+bübchen24: calls $0.04
+*** FLOP *** [9c 3d Td]
+bübchen24: checks 
+Sanya sharap: bets $0.10
+bübchen24: folds 
+Uncalled bet ($0.10) returned to Sanya sharap
+Sanya sharap collected $0.22 from pot
+Sanya sharap: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [9c 3d Td]
+Seat 1: Saataanaa (big blind) folded before Flop
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: bübchen24 folded on the Flop
+Seat 4: Sanya sharap collected ($0.22)
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 folded before Flop (didn't bet)
+Seat 8: kent330330 (button) folded before Flop (didn't bet)
+Seat 9: tolma83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #224403646549:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:04:47 PT [2021/03/02 23:04:47 ET]
+Table 'Desagneauxa II' 9-max Seat #9 is the button
+Seat 1: Saataanaa ($1.08 in chips) 
+Seat 2: edoschenko ($1.59 in chips) 
+Seat 3: bübchen24 ($1.93 in chips) 
+Seat 4: Sanya sharap ($2.53 in chips) 
+Seat 5: PINOCHET6666 ($0.80 in chips) 
+Seat 6: Dorex2007 ($1.74 in chips) 
+Seat 7: Tusons451 ($3.70 in chips) 
+Seat 8: kent330330 ($1.46 in chips) 
+Seat 9: tolma83 ($3.15 in chips) 
+Saataanaa: posts small blind $0.01
+edoschenko: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Jc]
+bübchen24: folds 
+Sanya sharap: folds 
+PINOCHET6666: folds 
+Dorex2007: raises $0.06 to $0.08
+Tusons451: calls $0.08
+kent330330: folds 
+tolma83: folds 
+Saataanaa: calls $0.07
+edoschenko: folds 
+*** FLOP *** [Js Tc 9c]
+Saataanaa: bets $0.13
+Dorex2007: raises $0.38 to $0.51
+Tusons451: raises $1.40 to $1.91
+Saataanaa: calls $0.87 and is all-in
+Dorex2007: calls $1.15 and is all-in
+Uncalled bet ($0.25) returned to Tusons451
+Tusons451 has timed out
+*** TURN *** [Js Tc 9c] [6c]
+*** RIVER *** [Js Tc 9c 6c] [6s]
+*** SHOW DOWN ***
+Dorex2007: shows [Kc Jc] (a flush, King high)
+Tusons451: shows [Jh Jd] (a full house, Jacks full of Sixes)
+Tusons451 collected $1.27 from side pot
+Saataanaa: shows [Qc Kh] (a straight, Nine to King)
+Tusons451 collected $3.15 from main pot
+*** SUMMARY ***
+Total pot $4.58 Main pot $3.15. Side pot $1.27. | Rake $0.16 
+Board [Js Tc 9c 6c 6s]
+Seat 1: Saataanaa (small blind) showed [Qc Kh] and lost with a straight, Nine to King
+Seat 2: edoschenko (big blind) folded before Flop
+Seat 3: bübchen24 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 showed [Kc Jc] and lost with a flush, King high
+Seat 7: Tusons451 showed [Jh Jd] and won ($4.42) with a full house, Jacks full of Sixes
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403676378:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:06:53 PT [2021/03/02 23:06:53 ET]
+Table 'Desagneauxa II' 9-max Seat #3 is the button
+Seat 2: edoschenko ($1.57 in chips) 
+Seat 3: bübchen24 ($1.89 in chips) 
+Seat 4: Sanya sharap ($3.31 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: Tusons451 ($6.38 in chips) 
+Seat 8: kent330330 ($1.46 in chips) 
+Seat 9: tolma83 ($3.15 in chips) 
+Sanya sharap: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Saataanaa: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 4c]
+Tusons451: folds 
+kent330330: folds 
+tolma83: folds 
+edoschenko: raises $0.04 to $0.06
+bübchen24: calls $0.06
+Sanya sharap: folds 
+Dorex2007: folds 
+*** FLOP *** [Qh 8h Ts]
+edoschenko: checks 
+bübchen24: bets $0.09
+edoschenko: folds 
+Uncalled bet ($0.09) returned to bübchen24
+bübchen24 collected $0.14 from pot
+bübchen24: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qh 8h Ts]
+Seat 2: edoschenko folded on the Flop
+Seat 3: bübchen24 (button) collected ($0.14)
+Seat 4: Sanya sharap (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: Tusons451 folded before Flop (didn't bet)
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403683956:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:07:25 PT [2021/03/02 23:07:25 ET]
+Table 'Desagneauxa II' 9-max Seat #4 is the button
+Seat 1: Saataanaa ($0.80 in chips) 
+Seat 2: edoschenko ($1.51 in chips) 
+Seat 3: bübchen24 ($1.97 in chips) 
+Seat 4: Sanya sharap ($3.30 in chips) 
+Seat 6: Dorex2007 ($1.98 in chips) 
+Seat 7: Tusons451 ($6.38 in chips) 
+Seat 8: kent330330 ($1.46 in chips) 
+Seat 9: tolma83 ($3.15 in chips) 
+Dorex2007: posts small blind $0.01
+Tusons451: posts big blind $0.02
+Saataanaa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 9h]
+kent330330: folds 
+tolma83 has timed out
+tolma83: folds 
+Saataanaa: checks 
+edoschenko: folds 
+bübchen24: folds 
+Sanya sharap: folds 
+Dorex2007: calls $0.01
+Tusons451: checks 
+*** FLOP *** [Ts 8s Kh]
+Dorex2007: checks 
+Tusons451: checks 
+Saataanaa: checks 
+*** TURN *** [Ts 8s Kh] [9d]
+Dorex2007: checks 
+Tusons451: checks 
+Saataanaa: checks 
+*** RIVER *** [Ts 8s Kh 9d] [Kd]
+Dorex2007: checks 
+Tusons451: bets $6.36 and is all-in
+Saataanaa: folds 
+Dorex2007: folds 
+Uncalled bet ($6.36) returned to Tusons451
+Tusons451 collected $0.06 from pot
+Tusons451: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Ts 8s Kh 9d Kd]
+Seat 1: Saataanaa folded on the River (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: bübchen24 folded before Flop (didn't bet)
+Seat 4: Sanya sharap (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded on the River
+Seat 7: Tusons451 (big blind) collected ($0.06)
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403698690:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:08:28 PT [2021/03/02 23:08:28 ET]
+Table 'Desagneauxa II' 9-max Seat #6 is the button
+Seat 1: Saataanaa ($0.78 in chips) 
+Seat 2: edoschenko ($1.51 in chips) 
+Seat 3: bübchen24 ($1.97 in chips) 
+Seat 4: Sanya sharap ($3.30 in chips) 
+Seat 6: Dorex2007 ($1.96 in chips) 
+Seat 7: Tusons451 ($6.42 in chips) 
+Seat 8: kent330330 ($1.46 in chips) 
+Seat 9: tolma83 ($3.15 in chips) 
+Tusons451: posts small blind $0.01
+kent330330: posts big blind $0.02
+PINOCHET6666: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 4s]
+tolma83: folds 
+Saataanaa: calls $0.02
+edoschenko: folds 
+bübchen24: folds 
+Sanya sharap: folds 
+Dorex2007: folds 
+Tusons451: folds 
+kent330330: checks 
+*** FLOP *** [Qs 5s 3c]
+kent330330: checks 
+Saataanaa: bets $0.20
+kent330330: calls $0.20
+*** TURN *** [Qs 5s 3c] [Jh]
+kent330330: checks 
+Saataanaa: bets $0.56 and is all-in
+kent330330: calls $0.56
+*** RIVER *** [Qs 5s 3c Jh] [2d]
+*** SHOW DOWN ***
+kent330330: shows [8d Qd] (a pair of Queens)
+Saataanaa: shows [9s As] (high card Ace)
+kent330330 collected $1.52 from pot
+*** SUMMARY ***
+Total pot $1.57 | Rake $0.05 
+Board [Qs 5s 3c Jh 2d]
+Seat 1: Saataanaa showed [9s As] and lost with high card Ace
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: bübchen24 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: Tusons451 (small blind) folded before Flop
+Seat 8: kent330330 (big blind) showed [8d Qd] and won ($1.52) with a pair of Queens
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403708363:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:09:09 PT [2021/03/02 23:09:09 ET]
+Table 'Desagneauxa II' 9-max Seat #7 is the button
+Seat 2: edoschenko ($1.51 in chips) 
+Seat 3: bübchen24 ($1.97 in chips) 
+Seat 4: Sanya sharap ($3.30 in chips) 
+Seat 6: Dorex2007 ($1.96 in chips) 
+Seat 7: Tusons451 ($6.41 in chips) 
+Seat 8: kent330330 ($2.20 in chips) 
+Seat 9: tolma83 ($3.15 in chips) 
+kent330330: posts small blind $0.01
+tolma83: posts big blind $0.02
+PINOCHET6666: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Kh]
+Saataanaa leaves the table
+edoschenko: folds 
+bübchen24: calls $0.02
+Sanya sharap: folds 
+Dorex2007: calls $0.02
+Tusons451: folds 
+kent330330: folds 
+tolma83: checks 
+*** FLOP *** [Tc 7d 8s]
+tolma83: checks 
+bübchen24: bets $0.05
+Dorex2007: calls $0.05
+tolma83: folds 
+*** TURN *** [Tc 7d 8s] [5d]
+bübchen24: bets $0.11
+Dorex2007: calls $0.11
+*** RIVER *** [Tc 7d 8s 5d] [8d]
+bübchen24: bets $0.25
+Dorex2007: folds 
+Uncalled bet ($0.25) returned to bübchen24
+bübchen24 collected $0.38 from pot
+bübchen24: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [Tc 7d 8s 5d 8d]
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: bübchen24 collected ($0.38)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded on the River
+Seat 7: Tusons451 (button) folded before Flop (didn't bet)
+Seat 8: kent330330 (small blind) folded before Flop
+Seat 9: tolma83 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #224403726429:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:10:27 PT [2021/03/02 23:10:27 ET]
+Table 'Desagneauxa II' 9-max Seat #8 is the button
+Seat 2: edoschenko ($1.51 in chips) 
+Seat 3: bübchen24 ($2.17 in chips) 
+Seat 4: Sanya sharap ($3.30 in chips) 
+Seat 6: Dorex2007 ($1.78 in chips) 
+Seat 7: Tusons451 ($6.41 in chips) 
+Seat 8: kent330330 ($2.19 in chips) 
+Seat 9: tolma83 ($3.13 in chips) 
+tolma83: posts small blind $0.01
+edoschenko: posts big blind $0.02
+PINOCHET6666: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Qs]
+bübchen24: folds 
+Sanya sharap: calls $0.02
+Dorex2007: folds 
+Tusons451: raises $0.02 to $0.04
+kent330330: folds 
+tolma83: calls $0.03
+edoschenko: folds 
+Sanya sharap: calls $0.02
+*** FLOP *** [6c 5d 9c]
+tolma83: bets $0.08
+Sanya sharap: folds 
+Tusons451: folds 
+Uncalled bet ($0.08) returned to tolma83
+tolma83 collected $0.14 from pot
+tolma83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [6c 5d 9c]
+Seat 2: edoschenko (big blind) folded before Flop
+Seat 3: bübchen24 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded on the Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 folded on the Flop
+Seat 8: kent330330 (button) folded before Flop (didn't bet)
+Seat 9: tolma83 (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #224403734189:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:11:00 PT [2021/03/02 23:11:00 ET]
+Table 'Desagneauxa II' 9-max Seat #9 is the button
+Seat 2: edoschenko ($1.49 in chips) 
+Seat 3: bübchen24 ($2.17 in chips) 
+Seat 4: Sanya sharap ($3.26 in chips) 
+Seat 6: Dorex2007 ($1.78 in chips) 
+Seat 7: Tusons451 ($6.37 in chips) 
+Seat 8: kent330330 ($2.19 in chips) 
+Seat 9: tolma83 ($3.23 in chips) 
+edoschenko: posts small blind $0.01
+bübchen24: posts big blind $0.02
+PINOCHET6666: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 4d]
+Sanya sharap: folds 
+Dorex2007: calls $0.02
+rezcaller338 joins the table at seat #1 
+Tusons451: raises $0.02 to $0.04
+kent330330: folds 
+tolma83: folds 
+edoschenko: folds 
+bübchen24: calls $0.02
+Dorex2007: calls $0.02
+*** FLOP *** [Kc Jh 6d]
+bübchen24: bets $0.07
+Dorex2007: folds 
+Tusons451: calls $0.07
+*** TURN *** [Kc Jh 6d] [As]
+bübchen24: checks 
+Tusons451: checks 
+*** RIVER *** [Kc Jh 6d As] [4h]
+bübchen24: checks 
+Tusons451: checks 
+*** SHOW DOWN ***
+bübchen24: shows [7h Kh] (a pair of Kings)
+Tusons451: mucks hand 
+bübchen24 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Kc Jh 6d As 4h]
+Seat 2: edoschenko (small blind) folded before Flop
+Seat 3: bübchen24 (big blind) showed [7h Kh] and won ($0.26) with a pair of Kings
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded on the Flop
+Seat 7: Tusons451 mucked [Qd Jc]
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403746289:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:11:53 PT [2021/03/02 23:11:53 ET]
+Table 'Desagneauxa II' 9-max Seat #2 is the button
+Seat 1: rezcaller338 ($1.60 in chips) 
+Seat 2: edoschenko ($1.48 in chips) 
+Seat 3: bübchen24 ($2.32 in chips) 
+Seat 4: Sanya sharap ($3.26 in chips) 
+Seat 6: Dorex2007 ($1.74 in chips) 
+Seat 7: Tusons451 ($6.26 in chips) 
+Seat 8: kent330330 ($2.19 in chips) 
+Seat 9: tolma83 ($3.23 in chips) 
+bübchen24: posts small blind $0.01
+Sanya sharap: posts big blind $0.02
+PINOCHET6666: sits out 
+rezcaller338: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Ts]
+Dorex2007: raises $0.04 to $0.06
+Tusons451: calls $0.06
+kent330330: folds 
+tolma83: folds 
+rezcaller338 has timed out
+rezcaller338: folds 
+edoschenko: folds 
+bübchen24: folds 
+Sanya sharap: folds 
+*** FLOP *** [Kh 2c Kd]
+Dorex2007: bets $0.16
+Tusons451: folds 
+Uncalled bet ($0.16) returned to Dorex2007
+Dorex2007 collected $0.16 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Kh 2c Kd]
+Seat 1: rezcaller338 folded before Flop (didn't bet)
+Seat 2: edoschenko (button) folded before Flop (didn't bet)
+Seat 3: bübchen24 (small blind) folded before Flop
+Seat 4: Sanya sharap (big blind) folded before Flop
+Seat 6: Dorex2007 collected ($0.16)
+Seat 7: Tusons451 folded on the Flop
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403767163:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:12:56 PT [2021/03/02 23:12:56 ET]
+Table 'Desagneauxa II' 9-max Seat #3 is the button
+Seat 1: rezcaller338 ($1.58 in chips) 
+Seat 2: edoschenko ($1.48 in chips) 
+Seat 3: bübchen24 ($2.31 in chips) 
+Seat 4: Sanya sharap ($3.24 in chips) 
+Seat 5: PINOCHET6666 ($1.60 in chips) 
+Seat 6: Dorex2007 ($1.84 in chips) 
+Seat 7: Tusons451 ($6.20 in chips) 
+Seat 8: kent330330 ($2.19 in chips) 
+Seat 9: tolma83 ($3.23 in chips) 
+Sanya sharap: posts small blind $0.01
+PINOCHET6666: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 4s]
+Dorex2007: folds 
+Tusons451: folds 
+kent330330: folds 
+tolma83: folds 
+rezcaller338: folds 
+edoschenko: folds 
+bübchen24: folds 
+Sanya sharap: calls $0.01
+PINOCHET6666: raises $0.06 to $0.08
+Sanya sharap: calls $0.06
+*** FLOP *** [Td 5s Ks]
+Sanya sharap: checks 
+PINOCHET6666: bets $0.08
+Sanya sharap: folds 
+Uncalled bet ($0.08) returned to PINOCHET6666
+PINOCHET6666 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Td 5s Ks]
+Seat 1: rezcaller338 folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: bübchen24 (button) folded before Flop (didn't bet)
+Seat 4: Sanya sharap (small blind) folded on the Flop
+Seat 5: PINOCHET6666 (big blind) collected ($0.15)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 folded before Flop (didn't bet)
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403777389:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:13:41 PT [2021/03/02 23:13:41 ET]
+Table 'Desagneauxa II' 9-max Seat #4 is the button
+Seat 1: rezcaller338 ($1.58 in chips) 
+Seat 2: edoschenko ($1.48 in chips) 
+Seat 3: bübchen24 ($2.31 in chips) 
+Seat 4: Sanya sharap ($3.16 in chips) 
+Seat 5: PINOCHET6666 ($1.67 in chips) 
+Seat 6: Dorex2007 ($1.84 in chips) 
+Seat 7: Tusons451 ($6.20 in chips) 
+Seat 8: kent330330 ($2.19 in chips) 
+Seat 9: tolma83 ($3.23 in chips) 
+PINOCHET6666: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Kc]
+Tusons451: calls $0.02
+kent330330: folds 
+tolma83: folds 
+rezcaller338: calls $0.02
+edoschenko: folds 
+bübchen24: calls $0.02
+Sanya sharap: folds 
+PINOCHET6666: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [Kh 8s 6s]
+PINOCHET6666: bets $0.05
+Dorex2007: calls $0.05
+Tusons451: calls $0.05
+rezcaller338: folds 
+bübchen24: raises $0.15 to $0.20
+PINOCHET6666: calls $0.15
+Dorex2007: folds 
+Tusons451: folds 
+*** TURN *** [Kh 8s 6s] [5h]
+PINOCHET6666: checks 
+bübchen24: bets $0.39
+PINOCHET6666: calls $0.39
+*** RIVER *** [Kh 8s 6s 5h] [Ad]
+PINOCHET6666: checks 
+bübchen24: checks 
+*** SHOW DOWN ***
+PINOCHET6666: shows [Ks 9c] (a pair of Kings)
+bübchen24: shows [Qh Kd] (a pair of Kings - Ace+Queen kicker)
+bübchen24 collected $1.33 from pot
+*** SUMMARY ***
+Total pot $1.38 | Rake $0.05 
+Board [Kh 8s 6s 5h Ad]
+Seat 1: rezcaller338 folded on the Flop
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: bübchen24 showed [Qh Kd] and won ($1.33) with a pair of Kings
+Seat 4: Sanya sharap (button) folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 (small blind) showed [Ks 9c] and lost with a pair of Kings
+Seat 6: Dorex2007 (big blind) folded on the Flop
+Seat 7: Tusons451 folded on the Flop
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403794020:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:14:55 PT [2021/03/02 23:14:55 ET]
+Table 'Desagneauxa II' 9-max Seat #5 is the button
+Seat 1: rezcaller338 ($1.56 in chips) 
+Seat 2: edoschenko ($1.48 in chips) 
+Seat 3: bübchen24 ($3.03 in chips) 
+Seat 4: Sanya sharap ($3.16 in chips) 
+Seat 5: PINOCHET6666 ($1.06 in chips) 
+Seat 6: Dorex2007 ($1.77 in chips) 
+Seat 7: Tusons451 ($6.13 in chips) 
+Seat 8: kent330330 ($2.19 in chips) 
+Seat 9: tolma83 ($3.23 in chips) 
+Dorex2007: posts small blind $0.01
+Tusons451: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 3s]
+kent330330: folds 
+tolma83 has timed out
+tolma83: folds 
+rezcaller338: folds 
+edoschenko: folds 
+bübchen24: folds 
+Sanya sharap: raises $0.04 to $0.06
+PINOCHET6666: calls $0.06
+Dorex2007: folds 
+Tusons451: folds 
+*** FLOP *** [Jd 6d Qd]
+Sanya sharap: checks 
+PINOCHET6666: bets $0.07
+Sanya sharap: calls $0.07
+*** TURN *** [Jd 6d Qd] [Ah]
+Sanya sharap: checks 
+PINOCHET6666: bets $0.14
+Sanya sharap: calls $0.14
+*** RIVER *** [Jd 6d Qd Ah] [9d]
+Sanya sharap: checks 
+PINOCHET6666: bets $0.30
+Sanya sharap: folds 
+Uncalled bet ($0.30) returned to PINOCHET6666
+PINOCHET6666 collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [Jd 6d Qd Ah 9d]
+Seat 1: rezcaller338 folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: bübchen24 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded on the River
+Seat 5: PINOCHET6666 (button) collected ($0.55)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: Tusons451 (big blind) folded before Flop
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403807225:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:15:53 PT [2021/03/02 23:15:53 ET]
+Table 'Desagneauxa II' 9-max Seat #6 is the button
+Seat 1: rezcaller338 ($1.56 in chips) 
+Seat 2: edoschenko ($1.48 in chips) 
+Seat 3: bübchen24 ($3.03 in chips) 
+Seat 4: Sanya sharap ($2.89 in chips) 
+Seat 5: PINOCHET6666 ($1.34 in chips) 
+Seat 6: Dorex2007 ($1.76 in chips) 
+Seat 7: Tusons451 ($6.11 in chips) 
+Seat 8: kent330330 ($2.19 in chips) 
+Seat 9: tolma83 ($3.23 in chips) 
+Tusons451: posts small blind $0.01
+kent330330: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 4s]
+tolma83: raises $0.06 to $0.08
+rezcaller338: calls $0.08
+edoschenko: folds 
+bübchen24: folds 
+Sanya sharap: folds 
+PINOCHET6666: folds 
+Dorex2007: folds 
+Tusons451: folds 
+kent330330: folds 
+*** FLOP *** [Td Th 8d]
+tolma83: checks 
+rezcaller338: bets $0.08
+tolma83: calls $0.08
+*** TURN *** [Td Th 8d] [8c]
+tolma83: checks 
+rezcaller338: bets $0.16
+tolma83: calls $0.16
+*** RIVER *** [Td Th 8d 8c] [9d]
+tolma83: checks 
+rezcaller338: checks 
+*** SHOW DOWN ***
+tolma83: shows [Ad Ah] (two pair, Aces and Tens)
+rezcaller338: mucks hand 
+tolma83 collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.02 
+Board [Td Th 8d 8c 9d]
+Seat 1: rezcaller338 mucked [Kd 7s]
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: bübchen24 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: Tusons451 (small blind) folded before Flop
+Seat 8: kent330330 (big blind) folded before Flop
+Seat 9: tolma83 showed [Ad Ah] and won ($0.65) with two pair, Aces and Tens
+
+
+
+PokerStars Hand #224403824522:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:17:10 PT [2021/03/02 23:17:10 ET]
+Table 'Desagneauxa II' 9-max Seat #7 is the button
+Seat 1: rezcaller338 ($1.24 in chips) 
+Seat 2: edoschenko ($1.48 in chips) 
+Seat 3: bübchen24 ($3.03 in chips) 
+Seat 4: Sanya sharap ($2.89 in chips) 
+Seat 5: PINOCHET6666 ($1.34 in chips) 
+Seat 6: Dorex2007 ($1.76 in chips) 
+Seat 7: Tusons451 ($6.10 in chips) 
+Seat 8: kent330330 ($2.17 in chips) 
+Seat 9: tolma83 ($3.56 in chips) 
+kent330330: posts small blind $0.01
+tolma83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 9c]
+rezcaller338: folds 
+edoschenko: folds 
+bübchen24: folds 
+Sanya sharap: folds 
+PINOCHET6666: calls $0.02
+Dorex2007: calls $0.02
+Tusons451: calls $0.02
+kent330330: folds 
+tolma83: checks 
+*** FLOP *** [6d Ks 5s]
+tolma83: bets $0.05
+PINOCHET6666: folds 
+Dorex2007: folds 
+Tusons451: folds 
+Uncalled bet ($0.05) returned to tolma83
+tolma83 collected $0.09 from pot
+tolma83: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [6d Ks 5s]
+Seat 1: rezcaller338 folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: bübchen24 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 folded on the Flop
+Seat 6: Dorex2007 folded on the Flop
+Seat 7: Tusons451 (button) folded on the Flop
+Seat 8: kent330330 (small blind) folded before Flop
+Seat 9: tolma83 (big blind) collected ($0.09)
+
+
+
+PokerStars Hand #224403833456:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:17:49 PT [2021/03/02 23:17:49 ET]
+Table 'Desagneauxa II' 9-max Seat #8 is the button
+Seat 1: rezcaller338 ($1.24 in chips) 
+Seat 2: edoschenko ($1.48 in chips) 
+Seat 3: bübchen24 ($3.03 in chips) 
+Seat 4: Sanya sharap ($2.89 in chips) 
+Seat 5: PINOCHET6666 ($1.32 in chips) 
+Seat 6: Dorex2007 ($1.74 in chips) 
+Seat 7: Tusons451 ($6.08 in chips) 
+Seat 8: kent330330 ($2.16 in chips) 
+Seat 9: tolma83 ($3.63 in chips) 
+tolma83: posts small blind $0.01
+rezcaller338: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 5d]
+edoschenko: folds 
+bübchen24: folds 
+Sanya sharap: folds 
+PINOCHET6666: folds 
+Dorex2007: folds 
+Tusons451: calls $0.02
+kent330330: folds 
+tolma83: folds 
+rezcaller338: checks 
+*** FLOP *** [4c Qs Ks]
+rezcaller338: checks 
+Tusons451: bets $0.05
+rezcaller338: folds 
+Uncalled bet ($0.05) returned to Tusons451
+Tusons451 collected $0.05 from pot
+Tusons451: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4c Qs Ks]
+Seat 1: rezcaller338 (big blind) folded on the Flop
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: bübchen24 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 collected ($0.05)
+Seat 8: kent330330 (button) folded before Flop (didn't bet)
+Seat 9: tolma83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #224403855890:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:18:45 PT [2021/03/02 23:18:45 ET]
+Table 'Desagneauxa II' 9-max Seat #9 is the button
+Seat 1: rezcaller338 ($1.22 in chips) 
+Seat 2: edoschenko ($1.48 in chips) 
+Seat 3: bübchen24 ($3.03 in chips) 
+Seat 4: Sanya sharap ($2.89 in chips) 
+Seat 5: PINOCHET6666 ($1.32 in chips) 
+Seat 6: Dorex2007 ($1.74 in chips) 
+Seat 7: Tusons451 ($6.11 in chips) 
+Seat 8: kent330330 ($2.16 in chips) 
+Seat 9: tolma83 ($3.62 in chips) 
+rezcaller338: posts small blind $0.01
+edoschenko: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 8d]
+bübchen24: folds 
+Sanya sharap: folds 
+PINOCHET6666: folds 
+Dorex2007: raises $0.04 to $0.06
+Tusons451: raises $0.06 to $0.12
+kent330330: folds 
+tolma83: folds 
+rezcaller338: calls $0.11
+edoschenko: folds 
+Dorex2007: calls $0.06
+*** FLOP *** [3s 2h 8s]
+rezcaller338: bets $0.18
+Dorex2007: raises $0.73 to $0.91
+Tusons451: folds 
+rezcaller338: folds 
+Uncalled bet ($0.73) returned to Dorex2007
+Dorex2007 collected $0.71 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.74 | Rake $0.03 
+Board [3s 2h 8s]
+Seat 1: rezcaller338 (small blind) folded on the Flop
+Seat 2: edoschenko (big blind) folded before Flop
+Seat 3: bübchen24 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 collected ($0.71)
+Seat 7: Tusons451 folded on the Flop
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403866773:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:19:34 PT [2021/03/02 23:19:34 ET]
+Table 'Desagneauxa II' 9-max Seat #1 is the button
+Seat 1: rezcaller338 ($0.92 in chips) 
+Seat 2: edoschenko ($1.46 in chips) 
+Seat 3: bübchen24 ($3.03 in chips) 
+Seat 4: Sanya sharap ($2.89 in chips) 
+Seat 5: PINOCHET6666 ($1.32 in chips) 
+Seat 6: Dorex2007 ($2.15 in chips) 
+Seat 7: Tusons451 ($5.99 in chips) 
+Seat 8: kent330330 ($2.16 in chips) 
+Seat 9: tolma83 ($3.62 in chips) 
+edoschenko: posts small blind $0.01
+bübchen24: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 6d]
+Sanya sharap: folds 
+PINOCHET6666: folds 
+Dorex2007: folds 
+Tusons451: folds 
+kent330330: folds 
+tolma83: folds 
+rezcaller338: folds 
+edoschenko: folds 
+Uncalled bet ($0.01) returned to bübchen24
+Tusons451 leaves the table
+bübchen24 collected $0.02 from pot
+bübchen24: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: rezcaller338 (button) folded before Flop (didn't bet)
+Seat 2: edoschenko (small blind) folded before Flop
+Seat 3: bübchen24 (big blind) collected ($0.02)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Tusons451 folded before Flop (didn't bet)
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403869658:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:19:46 PT [2021/03/02 23:19:46 ET]
+Table 'Desagneauxa II' 9-max Seat #2 is the button
+Seat 1: rezcaller338 ($0.92 in chips) 
+Seat 2: edoschenko ($1.45 in chips) 
+Seat 3: bübchen24 ($3.04 in chips) 
+Seat 4: Sanya sharap ($2.89 in chips) 
+Seat 5: PINOCHET6666 ($1.32 in chips) 
+Seat 6: Dorex2007 ($2.15 in chips) 
+Seat 8: kent330330 ($2.16 in chips) 
+Seat 9: tolma83 ($3.62 in chips) 
+bübchen24: posts small blind $0.01
+Sanya sharap: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s Qc]
+PINOCHET6666: folds 
+Dorex2007: raises $0.04 to $0.06
+kent330330: folds 
+tolma83: folds 
+rezcaller338: calls $0.06
+Teknos111 joins the table at seat #7 
+edoschenko: folds 
+bübchen24: calls $0.05
+Sanya sharap: calls $0.04
+*** FLOP *** [Kd Kc 9d]
+bübchen24: checks 
+Sanya sharap: checks 
+Dorex2007: bets $0.12
+rezcaller338: calls $0.12
+bübchen24: folds 
+Sanya sharap: folds 
+*** TURN *** [Kd Kc 9d] [4d]
+Dorex2007: checks 
+rezcaller338: bets $0.46
+Dorex2007: folds 
+Uncalled bet ($0.46) returned to rezcaller338
+rezcaller338 collected $0.46 from pot
+rezcaller338: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [Kd Kc 9d 4d]
+Seat 1: rezcaller338 collected ($0.46)
+Seat 2: edoschenko (button) folded before Flop (didn't bet)
+Seat 3: bübchen24 (small blind) folded on the Flop
+Seat 4: Sanya sharap (big blind) folded on the Flop
+Seat 5: PINOCHET6666 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded on the Turn
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403881595:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:20:39 PT [2021/03/02 23:20:39 ET]
+Table 'Desagneauxa II' 9-max Seat #3 is the button
+Seat 1: rezcaller338 ($1.20 in chips) 
+Seat 2: edoschenko ($1.45 in chips) 
+Seat 3: bübchen24 ($2.98 in chips) 
+Seat 4: Sanya sharap ($2.83 in chips) 
+Seat 5: PINOCHET6666 ($1.32 in chips) 
+Seat 6: Dorex2007 ($1.97 in chips) 
+Seat 8: kent330330 ($2.16 in chips) 
+Seat 9: tolma83 ($3.62 in chips) 
+Sanya sharap: posts small blind $0.01
+PINOCHET6666: posts big blind $0.02
+Teknos111: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Kh]
+Dorex2007: folds 
+kent330330: folds 
+tolma83: raises $0.04 to $0.06
+rezcaller338: raises $0.12 to $0.18
+edoschenko: folds 
+bübchen24: folds 
+Sanya sharap: folds 
+PINOCHET6666: folds 
+tolma83: calls $0.12
+*** FLOP *** [Qd 8s Qc]
+tolma83: checks 
+rezcaller338: bets $0.38
+tolma83: folds 
+Uncalled bet ($0.38) returned to rezcaller338
+rezcaller338 collected $0.38 from pot
+rezcaller338: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [Qd 8s Qc]
+Seat 1: rezcaller338 collected ($0.38)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: bübchen24 (button) folded before Flop (didn't bet)
+Seat 4: Sanya sharap (small blind) folded before Flop
+Seat 5: PINOCHET6666 (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded on the Flop
+
+
+
+PokerStars Hand #224403891368:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:21:22 PT [2021/03/02 23:21:22 ET]
+Table 'Desagneauxa II' 9-max Seat #4 is the button
+Seat 1: rezcaller338 ($1.40 in chips) 
+Seat 2: edoschenko ($1.45 in chips) 
+Seat 3: bübchen24 ($2.98 in chips) 
+Seat 4: Sanya sharap ($2.82 in chips) 
+Seat 5: PINOCHET6666 ($1.30 in chips) 
+Seat 6: Dorex2007 ($1.97 in chips) 
+Seat 8: kent330330 ($2.16 in chips) 
+Seat 9: tolma83 ($3.44 in chips) 
+PINOCHET6666: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Teknos111: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Jd]
+kent330330: folds 
+tolma83: raises $0.04 to $0.06
+rezcaller338: folds 
+edoschenko: folds 
+bübchen24: folds 
+Sanya sharap: calls $0.06
+PINOCHET6666: calls $0.05
+Dorex2007: folds 
+*** FLOP *** [Js 2d 5d]
+PINOCHET6666: checks 
+tolma83: bets $0.08
+Sanya sharap: calls $0.08
+PINOCHET6666: calls $0.08
+*** TURN *** [Js 2d 5d] [Tc]
+PINOCHET6666: checks 
+tolma83: checks 
+Sanya sharap: checks 
+*** RIVER *** [Js 2d 5d Tc] [7d]
+PINOCHET6666: checks 
+tolma83: checks 
+Sanya sharap: checks 
+*** SHOW DOWN ***
+PINOCHET6666: shows [Kd Qh] (high card King)
+tolma83: shows [5s 5c] (three of a kind, Fives)
+Sanya sharap: mucks hand 
+tolma83 collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [Js 2d 5d Tc 7d]
+Seat 1: rezcaller338 folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: bübchen24 folded before Flop (didn't bet)
+Seat 4: Sanya sharap (button) mucked [4d Ah]
+Seat 5: PINOCHET6666 (small blind) showed [Kd Qh] and lost with high card King
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 showed [5s 5c] and won ($0.42) with three of a kind, Fives
+
+
+
+PokerStars Hand #224403903698:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:22:16 PT [2021/03/02 23:22:16 ET]
+Table 'Desagneauxa II' 9-max Seat #5 is the button
+Seat 1: rezcaller338 ($1.40 in chips) 
+Seat 2: edoschenko ($1.45 in chips) 
+Seat 3: bübchen24 ($2.98 in chips) 
+Seat 4: Sanya sharap ($2.68 in chips) 
+Seat 5: PINOCHET6666 ($1.16 in chips) 
+Seat 6: Dorex2007 ($1.95 in chips) 
+Seat 7: Teknos111 ($0.80 in chips) 
+Seat 8: kent330330 ($2.16 in chips) 
+Seat 9: tolma83 ($3.72 in chips) 
+Dorex2007: posts small blind $0.01
+Teknos111: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Kh]
+kent330330: folds 
+tolma83: folds 
+rezcaller338: folds 
+edoschenko: folds 
+bübchen24: folds 
+Sanya sharap: folds 
+PINOCHET6666: folds 
+Dorex2007: raises $0.02 to $0.04
+Teknos111: folds 
+Uncalled bet ($0.02) returned to Dorex2007
+Dorex2007 collected $0.04 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: rezcaller338 folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop (didn't bet)
+Seat 3: bübchen24 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: PINOCHET6666 (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) collected ($0.04)
+Seat 7: Teknos111 (big blind) folded before Flop
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403908408:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:22:37 PT [2021/03/02 23:22:37 ET]
+Table 'Desagneauxa II' 9-max Seat #6 is the button
+Seat 1: rezcaller338 ($1.40 in chips) 
+Seat 2: edoschenko ($1.45 in chips) 
+Seat 3: bübchen24 ($2.98 in chips) 
+Seat 4: Sanya sharap ($2.68 in chips) 
+Seat 5: PINOCHET6666 ($1.16 in chips) 
+Seat 6: Dorex2007 ($1.97 in chips) 
+Seat 7: Teknos111 ($0.80 in chips) 
+Seat 8: kent330330 ($2.16 in chips) 
+Seat 9: tolma83 ($3.72 in chips) 
+Teknos111: posts small blind $0.01
+kent330330: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Kh]
+tolma83 has timed out
+tolma83: folds 
+rezcaller338: folds 
+edoschenko: raises $0.06 to $0.08
+bübchen24: calls $0.08
+Sanya sharap: raises $0.06 to $0.14
+PINOCHET6666: raises $1.02 to $1.16 and is all-in
+kent330330 is disconnected 
+Dorex2007: folds 
+Teknos111: folds 
+kent330330 is connected 
+kent330330: folds 
+edoschenko: folds 
+bübchen24: folds 
+Sanya sharap: calls $1.02
+*** FLOP *** [Ac Ks 2s]
+*** TURN *** [Ac Ks 2s] [Kc]
+edoschenko leaves the table
+*** RIVER *** [Ac Ks 2s Kc] [4d]
+*** SHOW DOWN ***
+Sanya sharap: shows [Qs Qc] (two pair, Kings and Queens)
+PINOCHET6666: shows [Jh Jd] (two pair, Kings and Jacks)
+Sanya sharap cashed out the hand for $1.95 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $2.51 | Rake $0.09 
+Board [Ac Ks 2s Kc 4d]
+Seat 1: rezcaller338 folded before Flop (didn't bet)
+Seat 2: edoschenko folded before Flop
+Seat 3: bübchen24 folded before Flop
+Seat 4: Sanya sharap showed [Qs Qc] and won ($2.42) with two pair, Kings and Queens (pot not awarded as player cashed out)
+Seat 5: PINOCHET6666 showed [Jh Jd] and lost with two pair, Kings and Jacks
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: Teknos111 (small blind) folded before Flop
+Seat 8: kent330330 (big blind) folded before Flop
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224403937457:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:24:45 PT [2021/03/02 23:24:45 ET]
+Table 'Desagneauxa II' 9-max Seat #7 is the button
+Seat 1: rezcaller338 ($1.40 in chips) 
+Seat 3: bübchen24 ($2.90 in chips) 
+Seat 4: Sanya sharap ($3.47 in chips) 
+Seat 6: Dorex2007 ($1.97 in chips) 
+Seat 7: Teknos111 ($0.80 in chips) 
+Seat 8: kent330330 ($2.14 in chips) 
+Seat 9: tolma83 ($3.72 in chips) 
+kent330330: posts small blind $0.01
+tolma83: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Jd]
+PINOCHET6666 leaves the table
+rezcaller338: calls $0.02
+bübchen24: folds 
+Sanya sharap: raises $0.04 to $0.06
+Dorex2007: folds 
+Teknos111: folds 
+kent330330: folds 
+tolma83: calls $0.04
+rezcaller338: calls $0.04
+*** FLOP *** [Qs Kd 8d]
+tolma83: checks 
+rezcaller338: bets $0.09
+Sanya sharap: folds 
+tolma83: folds 
+Uncalled bet ($0.09) returned to rezcaller338
+rezcaller338 collected $0.18 from pot
+rezcaller338: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Qs Kd 8d]
+Seat 1: rezcaller338 collected ($0.18)
+Seat 3: bübchen24 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded on the Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Teknos111 (button) folded before Flop (didn't bet)
+Seat 8: kent330330 (small blind) folded before Flop
+Seat 9: tolma83 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #224403955661:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:25:32 PT [2021/03/02 23:25:32 ET]
+Table 'Desagneauxa II' 9-max Seat #8 is the button
+Seat 1: rezcaller338 ($1.52 in chips) 
+Seat 3: bübchen24 ($2.90 in chips) 
+Seat 4: Sanya sharap ($3.41 in chips) 
+Seat 6: Dorex2007 ($1.97 in chips) 
+Seat 7: Teknos111 ($0.80 in chips) 
+Seat 8: kent330330 ($2.13 in chips) 
+Seat 9: tolma83 ($3.66 in chips) 
+tolma83: posts small blind $0.01
+rezcaller338: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 3d]
+bübchen24: folds 
+Sanya sharap: folds 
+Dorex2007: folds 
+Teknos111: folds 
+kent330330: raises $0.04 to $0.06
+tolma83: folds 
+rezcaller338: calls $0.04
+*** FLOP *** [6d 4c As]
+rezcaller338: bets $0.06
+kent330330: folds 
+Uncalled bet ($0.06) returned to rezcaller338
+rezcaller338 collected $0.13 from pot
+rezcaller338: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6d 4c As]
+Seat 1: rezcaller338 (big blind) collected ($0.13)
+Seat 3: bübchen24 folded before Flop (didn't bet)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Teknos111 folded before Flop (didn't bet)
+Seat 8: kent330330 (button) folded on the Flop
+Seat 9: tolma83 (small blind) folded before Flop
+
+
+
+PokerStars Hand #224403964501:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:26:12 PT [2021/03/02 23:26:12 ET]
+Table 'Desagneauxa II' 9-max Seat #9 is the button
+Seat 1: rezcaller338 ($1.59 in chips) 
+Seat 3: bübchen24 ($2.90 in chips) 
+Seat 4: Sanya sharap ($3.41 in chips) 
+Seat 6: Dorex2007 ($1.97 in chips) 
+Seat 7: Teknos111 ($0.80 in chips) 
+Seat 8: kent330330 ($2.07 in chips) 
+Seat 9: tolma83 ($3.65 in chips) 
+rezcaller338: posts small blind $0.01
+bübchen24: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 2d]
+Sanya sharap: calls $0.02
+Dorex2007: folds 
+Teknos111: folds 
+kent330330: folds 
+tolma83: raises $0.04 to $0.06
+rezcaller338: calls $0.05
+bübchen24: folds 
+Sanya sharap: calls $0.04
+*** FLOP *** [Td 8d Qd]
+rezcaller338: bets $0.04
+Sanya sharap: folds 
+tolma83: calls $0.04
+*** TURN *** [Td 8d Qd] [Kd]
+rezcaller338: bets $0.06
+tolma83: folds 
+Uncalled bet ($0.06) returned to rezcaller338
+rezcaller338 collected $0.27 from pot
+rezcaller338: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Td 8d Qd Kd]
+Seat 1: rezcaller338 (small blind) collected ($0.27)
+Seat 3: bübchen24 (big blind) folded before Flop
+Seat 4: Sanya sharap folded on the Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Teknos111 folded before Flop (didn't bet)
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 (button) folded on the Turn
+
+
+
+PokerStars Hand #224403978216:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:27:15 PT [2021/03/02 23:27:15 ET]
+Table 'Desagneauxa II' 9-max Seat #1 is the button
+Seat 1: rezcaller338 ($1.76 in chips) 
+Seat 3: bübchen24 ($2.88 in chips) 
+Seat 4: Sanya sharap ($3.35 in chips) 
+Seat 6: Dorex2007 ($1.97 in chips) 
+Seat 7: Teknos111 ($0.80 in chips) 
+Seat 8: kent330330 ($2.07 in chips) 
+Seat 9: tolma83 ($3.55 in chips) 
+bübchen24: posts small blind $0.01
+Sanya sharap: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts Ks]
+Dorex2007: raises $0.04 to $0.06
+Teknos111: folds 
+snshneray joins the table at seat #2 
+kent330330 has timed out
+kent330330: folds 
+tolma83: calls $0.06
+rezcaller338: folds 
+bübchen24: folds 
+Sanya sharap: calls $0.04
+*** FLOP *** [5h Kd Qd]
+Sanya sharap: checks 
+Dorex2007: bets $0.14
+Supridores joins the table at seat #5 
+tolma83: calls $0.14
+Sanya sharap: folds 
+*** TURN *** [5h Kd Qd] [9h]
+Dorex2007: checks 
+tolma83: checks 
+*** RIVER *** [5h Kd Qd 9h] [5s]
+Dorex2007: bets $0.23
+tolma83: folds 
+Uncalled bet ($0.23) returned to Dorex2007
+Dorex2007 collected $0.45 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [5h Kd Qd 9h 5s]
+Seat 1: rezcaller338 (button) folded before Flop (didn't bet)
+Seat 3: bübchen24 (small blind) folded before Flop
+Seat 4: Sanya sharap (big blind) folded on the Flop
+Seat 6: Dorex2007 collected ($0.45)
+Seat 7: Teknos111 folded before Flop (didn't bet)
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded on the River
+
+
+
+PokerStars Hand #224403997345:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:28:42 PT [2021/03/02 23:28:42 ET]
+Table 'Desagneauxa II' 9-max Seat #3 is the button
+Seat 1: rezcaller338 ($1.76 in chips) 
+Seat 2: snshneray ($1.60 in chips) 
+Seat 3: bübchen24 ($2.87 in chips) 
+Seat 4: Sanya sharap ($3.29 in chips) 
+Seat 5: Supridores ($2 in chips) 
+Seat 6: Dorex2007 ($2.22 in chips) 
+Seat 7: Teknos111 ($0.80 in chips) 
+Seat 8: kent330330 ($2.07 in chips) 
+Seat 9: tolma83 ($3.35 in chips) 
+Sanya sharap: posts small blind $0.01
+Supridores: posts big blind $0.02
+snshneray: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 6c]
+Dorex2007: folds 
+Teknos111: folds 
+kent330330: raises $0.03 to $0.05
+tolma83: calls $0.05
+rezcaller338: calls $0.05
+snshneray: calls $0.03
+bübchen24: raises $0.25 to $0.30
+Sanya sharap: folds 
+Supridores: folds 
+kent330330: calls $0.25
+tolma83: calls $0.25
+rezcaller338: calls $0.25
+snshneray: folds 
+*** FLOP *** [Kd 5c 3c]
+kent330330: checks 
+tolma83: checks 
+rezcaller338: bets $0.10
+bübchen24: raises $0.60 to $0.70
+kent330330: folds 
+tolma83: folds 
+rezcaller338: folds 
+Uncalled bet ($0.60) returned to bübchen24
+bübchen24 collected $1.43 from pot
+bübchen24: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.48 | Rake $0.05 
+Board [Kd 5c 3c]
+Seat 1: rezcaller338 folded on the Flop
+Seat 2: snshneray folded before Flop
+Seat 3: bübchen24 (button) collected ($1.43)
+Seat 4: Sanya sharap (small blind) folded before Flop
+Seat 5: Supridores (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Teknos111 folded before Flop (didn't bet)
+Seat 8: kent330330 folded on the Flop
+Seat 9: tolma83 folded on the Flop
+
+
+
+PokerStars Hand #224404016389:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:30:10 PT [2021/03/02 23:30:10 ET]
+Table 'Desagneauxa II' 9-max Seat #4 is the button
+Seat 1: rezcaller338 ($1.36 in chips) 
+Seat 2: snshneray ($1.55 in chips) 
+Seat 3: bübchen24 ($3.90 in chips) 
+Seat 4: Sanya sharap ($3.28 in chips) 
+Seat 5: Supridores ($1.98 in chips) 
+Seat 6: Dorex2007 ($2.22 in chips) 
+Seat 7: Teknos111 ($0.80 in chips) 
+Seat 8: kent330330 ($1.77 in chips) 
+Seat 9: tolma83 ($3.05 in chips) 
+Supridores: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Qs]
+Teknos111: folds 
+kent330330: folds 
+tolma83: folds 
+rezcaller338 has timed out
+rezcaller338: folds 
+snshneray: folds 
+bübchen24: folds 
+Sanya sharap: calls $0.02
+Supridores: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [3c Ad 2s]
+Supridores: checks 
+Dorex2007: checks 
+Sanya sharap: bets $0.07
+Supridores: folds 
+Dorex2007: folds 
+Uncalled bet ($0.07) returned to Sanya sharap
+Sanya sharap collected $0.06 from pot
+Sanya sharap: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [3c Ad 2s]
+Seat 1: rezcaller338 folded before Flop (didn't bet)
+Seat 2: snshneray folded before Flop (didn't bet)
+Seat 3: bübchen24 folded before Flop (didn't bet)
+Seat 4: Sanya sharap (button) collected ($0.06)
+Seat 5: Supridores (small blind) folded on the Flop
+Seat 6: Dorex2007 (big blind) folded on the Flop
+Seat 7: Teknos111 folded before Flop (didn't bet)
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #224404027905:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/03/02 20:31:04 PT [2021/03/02 23:31:04 ET]
+Table 'Desagneauxa II' 9-max Seat #5 is the button
+Seat 1: rezcaller338 ($1.36 in chips) 
+Seat 2: snshneray ($1.55 in chips) 
+Seat 3: bübchen24 ($3.90 in chips) 
+Seat 4: Sanya sharap ($3.32 in chips) 
+Seat 5: Supridores ($1.96 in chips) 
+Seat 6: Dorex2007 ($2.20 in chips) 
+Seat 7: Teknos111 ($0.80 in chips) 
+Seat 8: kent330330 ($1.77 in chips) 
+Seat 9: tolma83 ($3.05 in chips) 
+Dorex2007: posts small blind $0.01
+Teknos111: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 3h]
+kent330330: folds 
+tolma83: raises $0.02 to $0.04
+rezcaller338 has timed out
+rezcaller338: folds 
+snshneray: folds 
+bübchen24: calls $0.04
+Sanya sharap: folds 
+Supridores: folds 
+Dorex2007: folds 
+Teknos111: calls $0.02
+*** FLOP *** [2h 4s 4h]
+Teknos111: checks 
+tolma83: checks 
+bübchen24: bets $0.09
+Teknos111: folds 
+tolma83: folds 
+Uncalled bet ($0.09) returned to bübchen24
+bübchen24 collected $0.13 from pot
+bübchen24: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [2h 4s 4h]
+Seat 1: rezcaller338 folded before Flop (didn't bet)
+Seat 2: snshneray folded before Flop (didn't bet)
+Seat 3: bübchen24 collected ($0.13)
+Seat 4: Sanya sharap folded before Flop (didn't bet)
+Seat 5: Supridores (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: Teknos111 (big blind) folded on the Flop
+Seat 8: kent330330 folded before Flop (didn't bet)
+Seat 9: tolma83 folded on the Flop
+
+
+

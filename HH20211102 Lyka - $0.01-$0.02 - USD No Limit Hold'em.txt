@@ -1,0 +1,1459 @@
+﻿PokerStars Hand #231099983461:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:35:04 PT [2021/11/02 23:35:04 ET]
+Table 'Lyka' 9-max Seat #8 is the button
+Seat 2: geniuss ($2 in chips) 
+Seat 3: Blufferin142 ($2.51 in chips) 
+Seat 4: IldeRider01 ($1.78 in chips) 
+Seat 5: nailbarr ($1.14 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: DonBawor ($4.32 in chips) 
+Seat 9: Prefeito_zero ($1.58 in chips) 
+Prefeito_zero: posts small blind $0.01
+geniuss: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Qc]
+Blufferin142: calls $0.02
+IldeRider01: folds 
+nailbarr: calls $0.02
+Dorex2007: checks 
+DonBawor: calls $0.02
+Prefeito_zero: folds 
+geniuss: checks 
+*** FLOP *** [2c 7h 3s]
+kieronbrown is disconnected 
+geniuss: checks 
+Blufferin142: checks 
+nailbarr: checks 
+Dorex2007: checks 
+DonBawor: checks 
+*** TURN *** [2c 7h 3s] [4c]
+geniuss: checks 
+Blufferin142: checks 
+nailbarr: checks 
+Dorex2007: checks 
+DonBawor: checks 
+*** RIVER *** [2c 7h 3s 4c] [4h]
+geniuss: checks 
+Blufferin142: checks 
+nailbarr: bets $0.04
+Dorex2007: folds 
+DonBawor: folds 
+geniuss: folds 
+Blufferin142: folds 
+Uncalled bet ($0.04) returned to nailbarr
+nailbarr collected $0.11 from pot
+nailbarr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [2c 7h 3s 4c 4h]
+Seat 2: geniuss (big blind) folded on the River
+Seat 3: Blufferin142 folded on the River
+Seat 4: IldeRider01 folded before Flop (didn't bet)
+Seat 5: nailbarr collected ($0.11)
+Seat 7: Dorex2007 folded on the River (didn't bet)
+Seat 8: DonBawor (button) folded on the River
+Seat 9: Prefeito_zero (small blind) folded before Flop
+
+
+
+PokerStars Hand #231099996097:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:36:13 PT [2021/11/02 23:36:13 ET]
+Table 'Lyka' 9-max Seat #9 is the button
+Seat 2: geniuss ($2 in chips) 
+Seat 3: Blufferin142 ($2.49 in chips) 
+Seat 4: IldeRider01 ($1.78 in chips) 
+Seat 5: nailbarr ($1.23 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: DonBawor ($4.30 in chips) 
+Seat 9: Prefeito_zero ($1.57 in chips) 
+geniuss: posts small blind $0.01
+Blufferin142: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 4h]
+IldeRider01: calls $0.02
+nailbarr: calls $0.02
+Dorex2007: folds 
+DonBawor: folds 
+Prefeito_zero: raises $0.04 to $0.06
+geniuss: folds 
+Blufferin142: calls $0.04
+IldeRider01: calls $0.04
+nailbarr: folds 
+*** FLOP *** [7h Kc Td]
+Blufferin142: checks 
+IldeRider01: checks 
+Prefeito_zero: bets $0.10
+Blufferin142: folds 
+IldeRider01: calls $0.10
+*** TURN *** [7h Kc Td] [Ks]
+IldeRider01: checks 
+Prefeito_zero: bets $0.26
+IldeRider01: folds 
+Uncalled bet ($0.26) returned to Prefeito_zero
+Prefeito_zero collected $0.40 from pot
+Prefeito_zero: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [7h Kc Td Ks]
+Seat 2: geniuss (small blind) folded before Flop
+Seat 3: Blufferin142 (big blind) folded on the Flop
+Seat 4: IldeRider01 folded on the Turn
+Seat 5: nailbarr folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: DonBawor folded before Flop (didn't bet)
+Seat 9: Prefeito_zero (button) collected ($0.40)
+
+
+
+PokerStars Hand #231100005586:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:37:10 PT [2021/11/02 23:37:10 ET]
+Table 'Lyka' 9-max Seat #2 is the button
+Seat 2: geniuss ($2 in chips) 
+Seat 3: Blufferin142 ($2.43 in chips) 
+Seat 4: IldeRider01 ($1.62 in chips) 
+Seat 5: nailbarr ($1.21 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: DonBawor ($4.30 in chips) 
+Seat 9: Prefeito_zero ($1.81 in chips) 
+Blufferin142: posts small blind $0.01
+IldeRider01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 4h]
+nailbarr: raises $0.02 to $0.04
+Dorex2007: folds 
+DonBawor: folds 
+Prefeito_zero: folds 
+geniuss: calls $0.04
+Blufferin142: calls $0.03
+IldeRider01: calls $0.02
+*** FLOP *** [5s Kh 3d]
+Blufferin142: checks 
+IldeRider01: checks 
+nailbarr: bets $0.04
+geniuss: folds 
+Blufferin142: calls $0.04
+IldeRider01: folds 
+*** TURN *** [5s Kh 3d] [6c]
+Blufferin142: checks 
+nailbarr: checks 
+*** RIVER *** [5s Kh 3d 6c] [3s]
+Blufferin142: bets $0.12
+nailbarr: folds 
+Uncalled bet ($0.12) returned to Blufferin142
+Blufferin142 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [5s Kh 3d 6c 3s]
+Seat 2: geniuss (button) folded on the Flop
+Seat 3: Blufferin142 (small blind) collected ($0.23)
+Seat 4: IldeRider01 (big blind) folded on the Flop
+Seat 5: nailbarr folded on the River
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: DonBawor folded before Flop (didn't bet)
+Seat 9: Prefeito_zero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231100018080:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:37:59 PT [2021/11/02 23:37:59 ET]
+Table 'Lyka' 9-max Seat #3 is the button
+Seat 2: geniuss ($2 in chips) 
+Seat 3: Blufferin142 ($2.58 in chips) 
+Seat 4: IldeRider01 ($1.58 in chips) 
+Seat 5: nailbarr ($1.13 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: DonBawor ($4.30 in chips) 
+Seat 9: Prefeito_zero ($1.81 in chips) 
+IldeRider01: posts small blind $0.01
+nailbarr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Qs]
+Dorex2007: folds 
+DonBawor: raises $0.02 to $0.04
+Prefeito_zero: folds 
+geniuss: folds 
+Blufferin142: folds 
+IldeRider01: folds 
+nailbarr: folds 
+Uncalled bet ($0.02) returned to DonBawor
+DonBawor collected $0.05 from pot
+DonBawor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: geniuss folded before Flop (didn't bet)
+Seat 3: Blufferin142 (button) folded before Flop (didn't bet)
+Seat 4: IldeRider01 (small blind) folded before Flop
+Seat 5: nailbarr (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: DonBawor collected ($0.05)
+Seat 9: Prefeito_zero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231100020839:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:38:16 PT [2021/11/02 23:38:16 ET]
+Table 'Lyka' 9-max Seat #4 is the button
+Seat 1: kieronbrown ($1.99 in chips) 
+Seat 2: geniuss ($2 in chips) 
+Seat 3: Blufferin142 ($2.58 in chips) 
+Seat 4: IldeRider01 ($1.57 in chips) 
+Seat 5: nailbarr ($1.11 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: DonBawor ($4.33 in chips) 
+Seat 9: Prefeito_zero ($1.81 in chips) 
+nailbarr: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+kieronbrown: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Ah]
+DonBawor: folds 
+Prefeito_zero: raises $0.04 to $0.06
+kieronbrown: folds 
+geniuss: folds 
+Blufferin142: folds 
+IldeRider01: calls $0.06
+nailbarr: folds 
+Dorex2007: calls $0.04
+*** FLOP *** [4d 5s Qh]
+Dorex2007: checks 
+Prefeito_zero: bets $0.10
+IldeRider01: raises $0.10 to $0.20
+Dorex2007: raises $1.74 to $1.94 and is all-in
+Prefeito_zero: folds 
+IldeRider01: calls $1.31 and is all-in
+Uncalled bet ($0.43) returned to Dorex2007
+*** TURN *** [4d 5s Qh] [8c]
+*** RIVER *** [4d 5s Qh 8c] [6d]
+*** SHOW DOWN ***
+Dorex2007: shows [Qs Ah] (a pair of Queens)
+IldeRider01: shows [Qd Qc] (three of a kind, Queens)
+IldeRider01 collected $3.22 from pot
+Dorex2007 cashed out the hand for $0.07
+*** SUMMARY ***
+Total pot $3.34 | Rake $0.12 
+Board [4d 5s Qh 8c 6d]
+Seat 1: kieronbrown folded before Flop (didn't bet)
+Seat 2: geniuss folded before Flop (didn't bet)
+Seat 3: Blufferin142 folded before Flop (didn't bet)
+Seat 4: IldeRider01 (button) showed [Qd Qc] and won ($3.22) with three of a kind, Queens
+Seat 5: nailbarr (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) showed [Qs Ah] and lost with a pair of Queens (cashed out).
+Seat 8: DonBawor folded before Flop (didn't bet)
+Seat 9: Prefeito_zero folded on the Flop
+
+
+
+PokerStars Hand #231100031257:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:39:19 PT [2021/11/02 23:39:19 ET]
+Table 'Lyka' 9-max Seat #5 is the button
+Seat 1: kieronbrown ($1.96 in chips) 
+Seat 2: geniuss ($2 in chips) 
+Seat 4: IldeRider01 ($3.22 in chips) 
+Seat 5: nailbarr ($1.10 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: DonBawor ($4.33 in chips) 
+Seat 9: Prefeito_zero ($1.65 in chips) 
+Dorex2007: posts small blind $0.01
+DonBawor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 7c]
+Prefeito_zero: folds 
+kieronbrown: folds 
+geniuss: folds 
+IldeRider01: calls $0.02
+nailbarr: folds 
+Dorex2007: calls $0.01
+DonBawor: checks 
+*** FLOP *** [5d Ks 3h]
+Dorex2007: checks 
+DonBawor: checks 
+IldeRider01: bets $0.02
+Dorex2007: calls $0.02
+DonBawor: calls $0.02
+*** TURN *** [5d Ks 3h] [Qc]
+Dorex2007: checks 
+DonBawor: checks 
+IldeRider01: checks 
+*** RIVER *** [5d Ks 3h Qc] [4h]
+Dorex2007: checks 
+DonBawor: checks 
+IldeRider01: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [7s 7c] (a pair of Sevens)
+DonBawor: mucks hand 
+IldeRider01: mucks hand 
+Dorex2007 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [5d Ks 3h Qc 4h]
+Seat 1: kieronbrown folded before Flop (didn't bet)
+Seat 2: geniuss folded before Flop (didn't bet)
+Seat 4: IldeRider01 mucked [5h 6h]
+Seat 5: nailbarr (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) showed [7s 7c] and won ($0.12) with a pair of Sevens
+Seat 8: DonBawor (big blind) mucked [Th 3c]
+Seat 9: Prefeito_zero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231100042192:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:40:25 PT [2021/11/02 23:40:25 ET]
+Table 'Lyka' 9-max Seat #7 is the button
+Seat 1: kieronbrown ($1.96 in chips) 
+Seat 2: geniuss ($2 in chips) 
+Seat 4: IldeRider01 ($3.18 in chips) 
+Seat 5: nailbarr ($1.10 in chips) 
+Seat 7: Dorex2007 ($2.08 in chips) 
+Seat 8: DonBawor ($4.29 in chips) 
+Seat 9: Prefeito_zero ($1.65 in chips) 
+DonBawor: posts small blind $0.01
+Prefeito_zero: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 4s]
+kieronbrown has timed out
+kieronbrown: folds 
+geniuss: folds 
+IldeRider01: folds 
+nailbarr: calls $0.02
+Dorex2007: folds 
+DonBawor: folds 
+Prefeito_zero: checks 
+*** FLOP *** [3c 9d 9h]
+Prefeito_zero: checks 
+nailbarr: bets $0.02
+Prefeito_zero: calls $0.02
+*** TURN *** [3c 9d 9h] [8s]
+Prefeito_zero: checks 
+nailbarr: bets $0.02
+Prefeito_zero: raises $0.06 to $0.08
+nailbarr: calls $0.06
+*** RIVER *** [3c 9d 9h 8s] [Qh]
+Prefeito_zero: checks 
+nailbarr: bets $0.12
+Prefeito_zero: folds 
+Uncalled bet ($0.12) returned to nailbarr
+nailbarr collected $0.24 from pot
+nailbarr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [3c 9d 9h 8s Qh]
+Seat 1: kieronbrown folded before Flop (didn't bet)
+Seat 2: geniuss folded before Flop (didn't bet)
+Seat 4: IldeRider01 folded before Flop (didn't bet)
+Seat 5: nailbarr collected ($0.24)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: DonBawor (small blind) folded before Flop
+Seat 9: Prefeito_zero (big blind) folded on the River
+
+
+
+PokerStars Hand #231100063003:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:41:52 PT [2021/11/02 23:41:52 ET]
+Table 'Lyka' 9-max Seat #8 is the button
+Seat 1: kieronbrown ($1.96 in chips) 
+Seat 2: geniuss ($2 in chips) 
+Seat 4: IldeRider01 ($3.18 in chips) 
+Seat 5: nailbarr ($1.22 in chips) 
+Seat 7: Dorex2007 ($2.08 in chips) 
+Seat 8: DonBawor ($4.28 in chips) 
+Seat 9: Prefeito_zero ($1.53 in chips) 
+Prefeito_zero: posts small blind $0.01
+kieronbrown: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Jh]
+geniuss: folds 
+IldeRider01: folds 
+nailbarr: folds 
+Dorex2007: raises $0.04 to $0.06
+frosa9397 leaves the table
+DonBawor: folds 
+Prefeito_zero: folds 
+kieronbrown: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: kieronbrown (big blind) folded before Flop
+Seat 2: geniuss folded before Flop (didn't bet)
+Seat 4: IldeRider01 folded before Flop (didn't bet)
+Seat 5: nailbarr folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.05)
+Seat 8: DonBawor (button) folded before Flop (didn't bet)
+Seat 9: Prefeito_zero (small blind) folded before Flop
+
+
+
+PokerStars Hand #231100068389:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:42:24 PT [2021/11/02 23:42:24 ET]
+Table 'Lyka' 9-max Seat #9 is the button
+Seat 1: kieronbrown ($1.94 in chips) 
+Seat 2: geniuss ($2 in chips) 
+Seat 4: IldeRider01 ($3.18 in chips) 
+Seat 5: nailbarr ($1.22 in chips) 
+Seat 7: Dorex2007 ($2.11 in chips) 
+Seat 8: DonBawor ($4.28 in chips) 
+Seat 9: Prefeito_zero ($1.52 in chips) 
+kieronbrown: posts small blind $0.01
+geniuss: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 3d]
+rpatenau91 joins the table at seat #6 
+IldeRider01: folds 
+nailbarr: folds 
+Dorex2007: folds 
+DonBawor: calls $0.02
+Prefeito_zero: folds 
+kieronbrown: calls $0.01
+geniuss: checks 
+*** FLOP *** [3h 7d 3s]
+kieronbrown: checks 
+geniuss: checks 
+DonBawor: checks 
+*** TURN *** [3h 7d 3s] [4c]
+kieronbrown: checks 
+geniuss: checks 
+DonBawor: checks 
+*** RIVER *** [3h 7d 3s 4c] [Ah]
+kieronbrown: bets $0.16
+geniuss: folds 
+DonBawor: folds 
+Uncalled bet ($0.16) returned to kieronbrown
+kieronbrown collected $0.06 from pot
+kieronbrown: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [3h 7d 3s 4c Ah]
+Seat 1: kieronbrown (small blind) collected ($0.06)
+Seat 2: geniuss (big blind) folded on the River
+Seat 4: IldeRider01 folded before Flop (didn't bet)
+Seat 5: nailbarr folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: DonBawor folded on the River
+Seat 9: Prefeito_zero (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231100075206:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:43:05 PT [2021/11/02 23:43:05 ET]
+Table 'Lyka' 9-max Seat #1 is the button
+Seat 1: kieronbrown ($1.98 in chips) 
+Seat 2: geniuss ($2 in chips) 
+Seat 4: IldeRider01 ($3.18 in chips) 
+Seat 5: nailbarr ($1.22 in chips) 
+Seat 7: Dorex2007 ($2.11 in chips) 
+Seat 8: DonBawor ($4.26 in chips) 
+Seat 9: Prefeito_zero ($1.52 in chips) 
+geniuss: posts small blind $0.01
+IldeRider01: posts big blind $0.02
+rpatenau91: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Qh]
+nailbarr: folds 
+Dorex2007: folds 
+DonBawor: folds 
+Prefeito_zero: folds 
+kieronbrown: folds 
+geniuss: raises $0.03 to $0.05
+IldeRider01: folds 
+Uncalled bet ($0.03) returned to geniuss
+geniuss collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: kieronbrown (button) folded before Flop (didn't bet)
+Seat 2: geniuss (small blind) collected ($0.04)
+Seat 4: IldeRider01 (big blind) folded before Flop
+Seat 5: nailbarr folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: DonBawor folded before Flop (didn't bet)
+Seat 9: Prefeito_zero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231100083501:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:43:55 PT [2021/11/02 23:43:55 ET]
+Table 'Lyka' 9-max Seat #2 is the button
+Seat 1: kieronbrown ($1.98 in chips) 
+Seat 2: geniuss ($2.02 in chips) 
+Seat 4: IldeRider01 ($3.16 in chips) 
+Seat 5: nailbarr ($1.22 in chips) 
+Seat 7: Dorex2007 ($2.11 in chips) 
+Seat 8: DonBawor ($4.26 in chips) 
+Seat 9: Prefeito_zero ($1.52 in chips) 
+IldeRider01: posts small blind $0.01
+nailbarr: posts big blind $0.02
+rpatenau91: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Kc]
+Dorex2007: folds 
+DonBawor: folds 
+Prefeito_zero: folds 
+kieronbrown: calls $0.02
+geniuss: folds 
+IldeRider01: folds 
+nailbarr: checks 
+*** FLOP *** [8h Ad 8d]
+nailbarr: checks 
+kieronbrown: checks 
+*** TURN *** [8h Ad 8d] [5d]
+nailbarr: checks 
+kieronbrown: checks 
+*** RIVER *** [8h Ad 8d 5d] [5c]
+nailbarr: checks 
+kieronbrown: bets $0.11
+nailbarr: folds 
+Uncalled bet ($0.11) returned to kieronbrown
+kieronbrown collected $0.05 from pot
+kieronbrown: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8h Ad 8d 5d 5c]
+Seat 1: kieronbrown collected ($0.05)
+Seat 2: geniuss (button) folded before Flop (didn't bet)
+Seat 4: IldeRider01 (small blind) folded before Flop
+Seat 5: nailbarr (big blind) folded on the River
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: DonBawor folded before Flop (didn't bet)
+Seat 9: Prefeito_zero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231100090716:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:44:40 PT [2021/11/02 23:44:40 ET]
+Table 'Lyka' 9-max Seat #4 is the button
+Seat 1: kieronbrown ($2.01 in chips) 
+Seat 2: geniuss ($2.02 in chips) 
+Seat 3: Blufferin142 ($2.58 in chips) 
+Seat 4: IldeRider01 ($3.15 in chips) 
+Seat 5: nailbarr ($1.20 in chips) 
+Seat 6: rpatenau91 ($0.86 in chips) 
+Seat 7: Dorex2007 ($2.11 in chips) 
+Seat 8: DonBawor ($4.26 in chips) 
+Seat 9: Prefeito_zero ($1.52 in chips) 
+nailbarr: posts small blind $0.01
+rpatenau91: posts big blind $0.02
+Blufferin142: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Kd]
+Dorex2007: folds 
+DonBawor: folds 
+Prefeito_zero: folds 
+kieronbrown: calls $0.02
+geniuss: folds 
+Blufferin142: checks 
+IldeRider01: folds 
+nailbarr: calls $0.01
+rpatenau91: checks 
+*** FLOP *** [2s Ac 7d]
+nailbarr: checks 
+rpatenau91: checks 
+kieronbrown: checks 
+Blufferin142: checks 
+*** TURN *** [2s Ac 7d] [9s]
+nailbarr: checks 
+rpatenau91: bets $0.04
+kieronbrown: folds 
+Blufferin142: folds 
+nailbarr: folds 
+Uncalled bet ($0.04) returned to rpatenau91
+rpatenau91 collected $0.09 from pot
+rpatenau91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [2s Ac 7d 9s]
+Seat 1: kieronbrown folded on the Turn
+Seat 2: geniuss folded before Flop (didn't bet)
+Seat 3: Blufferin142 folded on the Turn (didn't bet)
+Seat 4: IldeRider01 (button) folded before Flop (didn't bet)
+Seat 5: nailbarr (small blind) folded on the Turn
+Seat 6: rpatenau91 (big blind) collected ($0.09)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: DonBawor folded before Flop (didn't bet)
+Seat 9: Prefeito_zero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231100098868:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:45:31 PT [2021/11/02 23:45:31 ET]
+Table 'Lyka' 9-max Seat #5 is the button
+Seat 1: kieronbrown ($1.99 in chips) 
+Seat 2: geniuss ($2.02 in chips) 
+Seat 3: Blufferin142 ($2.55 in chips) 
+Seat 4: IldeRider01 ($3.15 in chips) 
+Seat 5: nailbarr ($1.18 in chips) 
+Seat 6: rpatenau91 ($0.93 in chips) 
+Seat 7: Dorex2007 ($2.11 in chips) 
+Seat 8: DonBawor ($4.26 in chips) 
+Seat 9: Prefeito_zero ($1.52 in chips) 
+rpatenau91: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Td]
+DonBawor: folds 
+Prefeito_zero: folds 
+kieronbrown: folds 
+geniuss: folds 
+Blufferin142: folds 
+IldeRider01: calls $0.02
+nailbarr: raises $0.02 to $0.04
+rpatenau91: folds 
+Dorex2007: calls $0.02
+IldeRider01: calls $0.02
+*** FLOP *** [Jd Kc 3c]
+Dorex2007: checks 
+IldeRider01: checks 
+nailbarr: bets $0.12
+Dorex2007: folds 
+IldeRider01: calls $0.12
+*** TURN *** [Jd Kc 3c] [2c]
+IldeRider01: checks 
+nailbarr: bets $0.36
+IldeRider01: calls $0.36
+*** RIVER *** [Jd Kc 3c 2c] [5d]
+IldeRider01: checks 
+nailbarr: checks 
+*** SHOW DOWN ***
+IldeRider01: shows [Ks 9h] (a pair of Kings)
+nailbarr: mucks hand 
+IldeRider01 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.09 | Rake $0.04 
+Board [Jd Kc 3c 2c 5d]
+Seat 1: kieronbrown folded before Flop (didn't bet)
+Seat 2: geniuss folded before Flop (didn't bet)
+Seat 3: Blufferin142 folded before Flop (didn't bet)
+Seat 4: IldeRider01 showed [Ks 9h] and won ($1.05) with a pair of Kings
+Seat 5: nailbarr (button) mucked [9d As]
+Seat 6: rpatenau91 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded on the Flop
+Seat 8: DonBawor folded before Flop (didn't bet)
+Seat 9: Prefeito_zero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231100111762:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:46:51 PT [2021/11/02 23:46:51 ET]
+Table 'Lyka' 9-max Seat #6 is the button
+Seat 1: kieronbrown ($1.99 in chips) 
+Seat 2: geniuss ($2.02 in chips) 
+Seat 3: Blufferin142 ($2.55 in chips) 
+Seat 4: IldeRider01 ($3.68 in chips) 
+Seat 5: nailbarr ($0.66 in chips) 
+Seat 6: rpatenau91 ($0.92 in chips) 
+Seat 7: Dorex2007 ($2.07 in chips) 
+Seat 8: DonBawor ($4.26 in chips) 
+Seat 9: Prefeito_zero ($1.52 in chips) 
+Dorex2007: posts small blind $0.01
+DonBawor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 9h]
+Prefeito_zero: folds 
+kieronbrown: folds 
+geniuss: folds 
+Blufferin142: folds 
+IldeRider01: folds 
+nailbarr: folds 
+rpatenau91: folds 
+Dorex2007: raises $0.04 to $0.06
+DonBawor: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.04 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: kieronbrown folded before Flop (didn't bet)
+Seat 2: geniuss folded before Flop (didn't bet)
+Seat 3: Blufferin142 folded before Flop (didn't bet)
+Seat 4: IldeRider01 folded before Flop (didn't bet)
+Seat 5: nailbarr folded before Flop (didn't bet)
+Seat 6: rpatenau91 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) collected ($0.04)
+Seat 8: DonBawor (big blind) folded before Flop
+Seat 9: Prefeito_zero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231100114861:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:47:10 PT [2021/11/02 23:47:10 ET]
+Table 'Lyka' 9-max Seat #7 is the button
+Seat 1: kieronbrown ($1.99 in chips) 
+Seat 2: geniuss ($2.02 in chips) 
+Seat 3: Blufferin142 ($2.55 in chips) 
+Seat 4: IldeRider01 ($3.68 in chips) 
+Seat 5: nailbarr ($0.66 in chips) 
+Seat 6: rpatenau91 ($0.92 in chips) 
+Seat 7: Dorex2007 ($2.09 in chips) 
+Seat 8: DonBawor ($4.24 in chips) 
+Seat 9: Prefeito_zero ($1.52 in chips) 
+DonBawor: posts small blind $0.01
+Prefeito_zero: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 4s]
+kieronbrown: folds 
+geniuss: folds 
+Blufferin142: calls $0.02
+IldeRider01: folds 
+nailbarr: folds 
+rpatenau91: calls $0.02
+Dorex2007: calls $0.02
+DonBawor: calls $0.01
+Prefeito_zero: checks 
+*** FLOP *** [8c 7c 7s]
+DonBawor: checks 
+Prefeito_zero: checks 
+Blufferin142: checks 
+rpatenau91: checks 
+Dorex2007: checks 
+*** TURN *** [8c 7c 7s] [Kh]
+DonBawor: checks 
+Prefeito_zero: checks 
+Blufferin142: checks 
+rpatenau91: bets $0.10
+Dorex2007: folds 
+DonBawor: folds 
+Prefeito_zero: calls $0.10
+Blufferin142: folds 
+*** RIVER *** [8c 7c 7s Kh] [9h]
+Prefeito_zero: checks 
+rpatenau91: bets $0.29
+Prefeito_zero: folds 
+Uncalled bet ($0.29) returned to rpatenau91
+rpatenau91 collected $0.29 from pot
+rpatenau91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [8c 7c 7s Kh 9h]
+Seat 1: kieronbrown folded before Flop (didn't bet)
+Seat 2: geniuss folded before Flop (didn't bet)
+Seat 3: Blufferin142 folded on the Turn
+Seat 4: IldeRider01 folded before Flop (didn't bet)
+Seat 5: nailbarr folded before Flop (didn't bet)
+Seat 6: rpatenau91 collected ($0.29)
+Seat 7: Dorex2007 (button) folded on the Turn
+Seat 8: DonBawor (small blind) folded on the Turn
+Seat 9: Prefeito_zero (big blind) folded on the River
+
+
+
+PokerStars Hand #231100126341:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:48:22 PT [2021/11/02 23:48:22 ET]
+Table 'Lyka' 9-max Seat #8 is the button
+Seat 1: kieronbrown ($1.99 in chips) 
+Seat 2: geniuss ($2.02 in chips) 
+Seat 3: Blufferin142 ($2.53 in chips) 
+Seat 4: IldeRider01 ($3.68 in chips) 
+Seat 5: nailbarr ($0.66 in chips) 
+Seat 6: rpatenau91 ($1.09 in chips) 
+Seat 7: Dorex2007 ($2.07 in chips) 
+Seat 8: DonBawor ($4.22 in chips) 
+Seat 9: Prefeito_zero ($1.40 in chips) 
+Prefeito_zero: posts small blind $0.01
+kieronbrown: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Jh]
+geniuss: folds 
+Blufferin142: folds 
+IldeRider01: folds 
+nailbarr: folds 
+rpatenau91: calls $0.02
+Dorex2007: calls $0.02
+DonBawor: raises $0.02 to $0.04
+Prefeito_zero: folds 
+kieronbrown: folds 
+rpatenau91: raises $0.06 to $0.10
+Dorex2007: folds 
+DonBawor: calls $0.06
+*** FLOP *** [Ac 4d 6h]
+rpatenau91: bets $0.02
+DonBawor: calls $0.02
+*** TURN *** [Ac 4d 6h] [9h]
+rpatenau91: checks 
+DonBawor: bets $0.14
+rpatenau91: calls $0.14
+*** RIVER *** [Ac 4d 6h 9h] [9c]
+rpatenau91: bets $0.55
+DonBawor: folds 
+Uncalled bet ($0.55) returned to rpatenau91
+rpatenau91 collected $0.55 from pot
+rpatenau91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [Ac 4d 6h 9h 9c]
+Seat 1: kieronbrown (big blind) folded before Flop
+Seat 2: geniuss folded before Flop (didn't bet)
+Seat 3: Blufferin142 folded before Flop (didn't bet)
+Seat 4: IldeRider01 folded before Flop (didn't bet)
+Seat 5: nailbarr folded before Flop (didn't bet)
+Seat 6: rpatenau91 collected ($0.55)
+Seat 7: Dorex2007 folded before Flop
+Seat 8: DonBawor (button) folded on the River
+Seat 9: Prefeito_zero (small blind) folded before Flop
+
+
+
+PokerStars Hand #231100138609:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:49:40 PT [2021/11/02 23:49:40 ET]
+Table 'Lyka' 9-max Seat #9 is the button
+Seat 1: kieronbrown ($1.97 in chips) 
+Seat 2: geniuss ($2.02 in chips) 
+Seat 3: Blufferin142 ($2.53 in chips) 
+Seat 4: IldeRider01 ($3.68 in chips) 
+Seat 5: nailbarr ($0.66 in chips) 
+Seat 6: rpatenau91 ($1.38 in chips) 
+Seat 7: Dorex2007 ($2.05 in chips) 
+Seat 8: DonBawor ($3.96 in chips) 
+Seat 9: Prefeito_zero ($1.39 in chips) 
+kieronbrown: posts small blind $0.01
+geniuss: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 8d]
+Blufferin142: folds 
+IldeRider01: raises $0.04 to $0.06
+nailbarr: folds 
+rpatenau91: folds 
+Dorex2007: folds 
+DonBawor: folds 
+Prefeito_zero: folds 
+kieronbrown: calls $0.05
+geniuss: folds 
+*** FLOP *** [8h Jh Tc]
+kieronbrown: checks 
+IldeRider01: bets $0.14
+kieronbrown: calls $0.14
+*** TURN *** [8h Jh Tc] [Kh]
+kieronbrown: checks 
+IldeRider01: checks 
+*** RIVER *** [8h Jh Tc Kh] [Ks]
+kieronbrown: bets $1.77 and is all-in
+IldeRider01: folds 
+Uncalled bet ($1.77) returned to kieronbrown
+kieronbrown collected $0.41 from pot
+kieronbrown: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [8h Jh Tc Kh Ks]
+Seat 1: kieronbrown (small blind) collected ($0.41)
+Seat 2: geniuss (big blind) folded before Flop
+Seat 3: Blufferin142 folded before Flop (didn't bet)
+Seat 4: IldeRider01 folded on the River
+Seat 5: nailbarr folded before Flop (didn't bet)
+Seat 6: rpatenau91 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: DonBawor folded before Flop (didn't bet)
+Seat 9: Prefeito_zero (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231100148526:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:50:43 PT [2021/11/02 23:50:43 ET]
+Table 'Lyka' 9-max Seat #1 is the button
+Seat 1: kieronbrown ($2.18 in chips) 
+Seat 2: geniuss ($2 in chips) 
+Seat 3: Blufferin142 ($2.53 in chips) 
+Seat 4: IldeRider01 ($3.48 in chips) 
+Seat 5: nailbarr ($0.66 in chips) 
+Seat 6: rpatenau91 ($1.38 in chips) 
+Seat 7: Dorex2007 ($2.05 in chips) 
+Seat 8: DonBawor ($3.96 in chips) 
+Seat 9: Prefeito_zero ($1.39 in chips) 
+geniuss: posts small blind $0.01
+Blufferin142: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Kc]
+IldeRider01 has timed out
+IldeRider01: folds 
+nailbarr: folds 
+rpatenau91: folds 
+Dorex2007: folds 
+DonBawor: folds 
+Prefeito_zero: folds 
+kieronbrown: folds 
+geniuss: raises $0.03 to $0.05
+Blufferin142: calls $0.03
+*** FLOP *** [6c Ac Jd]
+geniuss: checks 
+Blufferin142: bets $0.02
+geniuss: folds 
+Uncalled bet ($0.02) returned to Blufferin142
+Blufferin142 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [6c Ac Jd]
+Seat 1: kieronbrown (button) folded before Flop (didn't bet)
+Seat 2: geniuss (small blind) folded on the Flop
+Seat 3: Blufferin142 (big blind) collected ($0.10)
+Seat 4: IldeRider01 folded before Flop (didn't bet)
+Seat 5: nailbarr folded before Flop (didn't bet)
+Seat 6: rpatenau91 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: DonBawor folded before Flop (didn't bet)
+Seat 9: Prefeito_zero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231100154731:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:51:23 PT [2021/11/02 23:51:23 ET]
+Table 'Lyka' 9-max Seat #2 is the button
+Seat 2: geniuss ($2 in chips) 
+Seat 3: Blufferin142 ($2.58 in chips) 
+Seat 4: IldeRider01 ($3.48 in chips) 
+Seat 5: nailbarr ($0.66 in chips) 
+Seat 6: rpatenau91 ($1.38 in chips) 
+Seat 7: Dorex2007 ($2.05 in chips) 
+Seat 8: DonBawor ($3.96 in chips) 
+Seat 9: Prefeito_zero ($1.39 in chips) 
+Blufferin142: posts small blind $0.01
+IldeRider01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 2s]
+nailbarr: folds 
+rpatenau91: folds 
+Dorex2007: folds 
+DonBawor: calls $0.02
+Prefeito_zero: raises $0.04 to $0.06
+kieronbrown is disconnected 
+geniuss: folds 
+Blufferin142: folds 
+IldeRider01 is connected 
+IldeRider01: folds 
+DonBawor: raises $0.06 to $0.12
+Prefeito_zero: calls $0.06
+*** FLOP *** [4c Tc 6d]
+DonBawor: bets $0.13
+Prefeito_zero: calls $0.13
+*** TURN *** [4c Tc 6d] [5d]
+DonBawor: bets $3.71 and is all-in
+Prefeito_zero: calls $1.14 and is all-in
+Uncalled bet ($2.57) returned to DonBawor
+*** RIVER *** [4c Tc 6d 5d] [Qh]
+*** SHOW DOWN ***
+DonBawor: shows [Ah As] (a pair of Aces)
+Prefeito_zero: shows [8c 7h] (a straight, Four to Eight)
+Prefeito_zero collected $2.71 from pot
+*** SUMMARY ***
+Total pot $2.81 | Rake $0.10 
+Board [4c Tc 6d 5d Qh]
+Seat 2: geniuss (button) folded before Flop (didn't bet)
+Seat 3: Blufferin142 (small blind) folded before Flop
+Seat 4: IldeRider01 (big blind) folded before Flop
+Seat 5: nailbarr folded before Flop (didn't bet)
+Seat 6: rpatenau91 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: DonBawor showed [Ah As] and lost with a pair of Aces
+Seat 9: Prefeito_zero showed [8c 7h] and won ($2.71) with a straight, Four to Eight
+
+
+
+PokerStars Hand #231100170875:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:52:23 PT [2021/11/02 23:52:23 ET]
+Table 'Lyka' 9-max Seat #3 is the button
+Seat 2: geniuss ($2 in chips) 
+Seat 3: Blufferin142 ($2.57 in chips) 
+Seat 4: IldeRider01 ($3.46 in chips) 
+Seat 5: nailbarr ($0.66 in chips) 
+Seat 6: rpatenau91 ($1.38 in chips) 
+Seat 7: Dorex2007 ($2.05 in chips) 
+Seat 8: DonBawor ($2.57 in chips) 
+Seat 9: Prefeito_zero ($2.71 in chips) 
+IldeRider01: posts small blind $0.01
+nailbarr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 3s]
+rpatenau91: folds 
+Dorex2007: folds 
+DonBawor has timed out
+DonBawor: folds 
+Prefeito_zero: raises $0.04 to $0.06
+geniuss: folds 
+Blufferin142: folds 
+IldeRider01: folds 
+nailbarr: calls $0.04
+*** FLOP *** [4d Kd Jc]
+nailbarr: checks 
+Prefeito_zero: bets $0.13
+nailbarr: folds 
+Uncalled bet ($0.13) returned to Prefeito_zero
+Prefeito_zero collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4d Kd Jc]
+Seat 2: geniuss folded before Flop (didn't bet)
+Seat 3: Blufferin142 (button) folded before Flop (didn't bet)
+Seat 4: IldeRider01 (small blind) folded before Flop
+Seat 5: nailbarr (big blind) folded on the Flop
+Seat 6: rpatenau91 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: DonBawor folded before Flop (didn't bet)
+Seat 9: Prefeito_zero collected ($0.13)
+
+
+
+PokerStars Hand #231100178282:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:53:10 PT [2021/11/02 23:53:10 ET]
+Table 'Lyka' 9-max Seat #4 is the button
+Seat 2: geniuss ($2 in chips) 
+Seat 3: Blufferin142 ($2.57 in chips) 
+Seat 4: IldeRider01 ($3.45 in chips) 
+Seat 5: nailbarr ($0.60 in chips) 
+Seat 6: rpatenau91 ($1.38 in chips) 
+Seat 7: Dorex2007 ($2.05 in chips) 
+Seat 8: DonBawor ($2.57 in chips) 
+Seat 9: Prefeito_zero ($2.78 in chips) 
+nailbarr: posts small blind $0.01
+rpatenau91: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 4h]
+Dorex2007: folds 
+DonBawor: folds 
+Prefeito_zero: folds 
+geniuss: folds 
+Blufferin142: folds 
+IldeRider01: folds 
+nailbarr: folds 
+Uncalled bet ($0.01) returned to rpatenau91
+rpatenau91 collected $0.02 from pot
+rpatenau91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: geniuss folded before Flop (didn't bet)
+Seat 3: Blufferin142 folded before Flop (didn't bet)
+Seat 4: IldeRider01 (button) folded before Flop (didn't bet)
+Seat 5: nailbarr (small blind) folded before Flop
+Seat 6: rpatenau91 (big blind) collected ($0.02)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: DonBawor folded before Flop (didn't bet)
+Seat 9: Prefeito_zero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231100182078:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:53:34 PT [2021/11/02 23:53:34 ET]
+Table 'Lyka' 9-max Seat #5 is the button
+Seat 2: geniuss ($2 in chips) 
+Seat 3: Blufferin142 ($2.57 in chips) 
+Seat 4: IldeRider01 ($3.45 in chips) 
+Seat 5: nailbarr ($0.59 in chips) 
+Seat 6: rpatenau91 ($1.39 in chips) 
+Seat 7: Dorex2007 ($2.05 in chips) 
+Seat 8: DonBawor ($2.57 in chips) 
+Seat 9: Prefeito_zero ($2.78 in chips) 
+rpatenau91: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 6h]
+DonBawor: folds 
+Prefeito_zero: folds 
+geniuss: folds 
+Blufferin142: folds 
+IldeRider01: folds 
+nailbarr: folds 
+rpatenau91: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: geniuss folded before Flop (didn't bet)
+Seat 3: Blufferin142 folded before Flop (didn't bet)
+Seat 4: IldeRider01 folded before Flop (didn't bet)
+Seat 5: nailbarr (button) folded before Flop (didn't bet)
+Seat 6: rpatenau91 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) collected ($0.02)
+Seat 8: DonBawor folded before Flop (didn't bet)
+Seat 9: Prefeito_zero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231100184722:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:53:51 PT [2021/11/02 23:53:51 ET]
+Table 'Lyka' 9-max Seat #6 is the button
+Seat 2: geniuss ($2 in chips) 
+Seat 3: Blufferin142 ($2.57 in chips) 
+Seat 4: IldeRider01 ($3.45 in chips) 
+Seat 5: nailbarr ($0.59 in chips) 
+Seat 6: rpatenau91 ($1.38 in chips) 
+Seat 7: Dorex2007 ($2.06 in chips) 
+Seat 8: DonBawor ($2.57 in chips) 
+Seat 9: Prefeito_zero ($2.78 in chips) 
+Dorex2007: posts small blind $0.01
+DonBawor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 7d]
+Prefeito_zero: folds 
+geniuss: raises $0.04 to $0.06
+Blufferin142: folds 
+IldeRider01: calls $0.06
+nailbarr: raises $0.53 to $0.59 and is all-in
+rpatenau91: folds 
+Dorex2007: folds 
+DonBawor: folds 
+geniuss: calls $0.53
+IldeRider01: calls $0.53
+*** FLOP *** [Kd Td 5d]
+geniuss: checks 
+IldeRider01: checks 
+*** TURN *** [Kd Td 5d] [9c]
+geniuss: checks 
+IldeRider01: checks 
+*** RIVER *** [Kd Td 5d 9c] [7c]
+geniuss: checks 
+IldeRider01: checks 
+*** SHOW DOWN ***
+geniuss: shows [Ah Ks] (a pair of Kings)
+IldeRider01: mucks hand 
+nailbarr: mucks hand 
+geniuss collected $1.74 from pot
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.06 
+Board [Kd Td 5d 9c 7c]
+Seat 2: geniuss showed [Ah Ks] and won ($1.74) with a pair of Kings
+Seat 3: Blufferin142 folded before Flop (didn't bet)
+Seat 4: IldeRider01 mucked [Jd Jh]
+Seat 5: nailbarr mucked [Qh Ad]
+Seat 6: rpatenau91 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: DonBawor (big blind) folded before Flop
+Seat 9: Prefeito_zero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231100193702:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:54:49 PT [2021/11/02 23:54:49 ET]
+Table 'Lyka' 9-max Seat #7 is the button
+Seat 2: geniuss ($3.15 in chips) 
+Seat 3: Blufferin142 ($2.57 in chips) 
+Seat 4: IldeRider01 ($2.86 in chips) 
+Seat 6: rpatenau91 ($1.38 in chips) 
+Seat 7: Dorex2007 ($2.05 in chips) 
+Seat 8: DonBawor ($2.55 in chips) 
+Seat 9: Prefeito_zero ($2.78 in chips) 
+DonBawor: posts small blind $0.01
+Prefeito_zero: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Qc]
+geniuss: folds 
+nailbarr leaves the table
+Blufferin142: calls $0.02
+IldeRider01: folds 
+rpatenau91: folds 
+Dorex2007: folds 
+DonBawor: calls $0.01
+VMDT. joins the table at seat #5 
+Prefeito_zero: checks 
+*** FLOP *** [Ts 3s 5s]
+DonBawor: checks 
+Prefeito_zero: checks 
+Blufferin142: checks 
+*** TURN *** [Ts 3s 5s] [7d]
+DonBawor: bets $0.02
+Prefeito_zero: calls $0.02
+Blufferin142: folds 
+*** RIVER *** [Ts 3s 5s 7d] [Kh]
+DonBawor: bets $0.02
+Prefeito_zero: folds 
+Uncalled bet ($0.02) returned to DonBawor
+DonBawor collected $0.10 from pot
+DonBawor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Ts 3s 5s 7d Kh]
+Seat 2: geniuss folded before Flop (didn't bet)
+Seat 3: Blufferin142 folded on the Turn
+Seat 4: IldeRider01 folded before Flop (didn't bet)
+Seat 6: rpatenau91 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: DonBawor (small blind) collected ($0.10)
+Seat 9: Prefeito_zero (big blind) folded on the River
+
+
+
+PokerStars Hand #231100200267:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:55:35 PT [2021/11/02 23:55:35 ET]
+Table 'Lyka' 9-max Seat #8 is the button
+Seat 2: geniuss ($3.15 in chips) 
+Seat 3: Blufferin142 ($2.55 in chips) 
+Seat 4: IldeRider01 ($2.86 in chips) 
+Seat 5: VMDT. ($2 in chips) 
+Seat 6: rpatenau91 ($1.38 in chips) 
+Seat 7: Dorex2007 ($2.05 in chips) 
+Seat 8: DonBawor ($2.61 in chips) 
+Seat 9: Prefeito_zero ($2.74 in chips) 
+Prefeito_zero: posts small blind $0.01
+geniuss: posts big blind $0.02
+VMDT.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 9d]
+Blufferin142: folds 
+IldeRider01: folds 
+VMDT.: checks 
+rpatenau91: calls $0.02
+Dorex2007: calls $0.02
+DonBawor: calls $0.02
+Prefeito_zero: calls $0.01
+geniuss: checks 
+*** FLOP *** [4h 3h 2c]
+Prefeito_zero: checks 
+geniuss: checks 
+VMDT.: checks 
+rpatenau91: checks 
+Dorex2007: checks 
+DonBawor: bets $0.12
+Prefeito_zero: folds 
+geniuss: folds 
+VMDT.: folds 
+rpatenau91: folds 
+Dorex2007: folds 
+Uncalled bet ($0.12) returned to DonBawor
+DonBawor collected $0.12 from pot
+DonBawor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [4h 3h 2c]
+Seat 2: geniuss (big blind) folded on the Flop
+Seat 3: Blufferin142 folded before Flop (didn't bet)
+Seat 4: IldeRider01 folded before Flop (didn't bet)
+Seat 5: VMDT. folded on the Flop (didn't bet)
+Seat 6: rpatenau91 folded on the Flop
+Seat 7: Dorex2007 folded on the Flop
+Seat 8: DonBawor (button) collected ($0.12)
+Seat 9: Prefeito_zero (small blind) folded on the Flop
+
+
+
+PokerStars Hand #231100210947:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:56:56 PT [2021/11/02 23:56:56 ET]
+Table 'Lyka' 9-max Seat #9 is the button
+Seat 2: geniuss ($3.13 in chips) 
+Seat 3: Blufferin142 ($2.55 in chips) 
+Seat 4: IldeRider01 ($2.86 in chips) 
+Seat 5: VMDT. ($1.98 in chips) 
+Seat 6: rpatenau91 ($1.36 in chips) 
+Seat 7: Dorex2007 ($2.03 in chips) 
+Seat 8: DonBawor ($2.71 in chips) 
+Seat 9: Prefeito_zero ($2.72 in chips) 
+geniuss: posts small blind $0.01
+Blufferin142: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Ks]
+IldeRider01: calls $0.02
+VMDT.: folds 
+rpatenau91: folds 
+Dorex2007: folds 
+DonBawor: calls $0.02
+Prefeito_zero: folds 
+geniuss: folds 
+Blufferin142: checks 
+*** FLOP *** [3s 5d Kh]
+Blufferin142: checks 
+IldeRider01: checks 
+DonBawor: bets $0.02
+Blufferin142: folds 
+IldeRider01: calls $0.02
+*** TURN *** [3s 5d Kh] [Ts]
+IldeRider01: checks 
+DonBawor: checks 
+*** RIVER *** [3s 5d Kh Ts] [4c]
+IldeRider01: checks 
+DonBawor: checks 
+*** SHOW DOWN ***
+IldeRider01: shows [Ah 6h] (high card Ace)
+DonBawor: shows [8h 5c] (a pair of Fives)
+DonBawor collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [3s 5d Kh Ts 4c]
+Seat 2: geniuss (small blind) folded before Flop
+Seat 3: Blufferin142 (big blind) folded on the Flop
+Seat 4: IldeRider01 showed [Ah 6h] and lost with high card Ace
+Seat 5: VMDT. folded before Flop (didn't bet)
+Seat 6: rpatenau91 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: DonBawor showed [8h 5c] and won ($0.11) with a pair of Fives
+Seat 9: Prefeito_zero (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231100216468:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:57:40 PT [2021/11/02 23:57:40 ET]
+Table 'Lyka' 9-max Seat #2 is the button
+Seat 2: geniuss ($3.12 in chips) 
+Seat 3: Blufferin142 ($2.53 in chips) 
+Seat 4: IldeRider01 ($2.82 in chips) 
+Seat 5: VMDT. ($1.98 in chips) 
+Seat 6: rpatenau91 ($1.36 in chips) 
+Seat 7: Dorex2007 ($2.03 in chips) 
+Seat 8: DonBawor ($2.78 in chips) 
+Seat 9: Prefeito_zero ($2.72 in chips) 
+Blufferin142: posts small blind $0.01
+IldeRider01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Qh]
+VMDT.: calls $0.02
+rpatenau91: folds 
+Dorex2007: folds 
+DonBawor: raises $0.02 to $0.04
+Prefeito_zero: folds 
+geniuss: folds 
+Blufferin142: folds 
+IldeRider01: calls $0.02
+VMDT.: calls $0.02
+*** FLOP *** [Th 8d 5d]
+IldeRider01: checks 
+VMDT.: checks 
+DonBawor: bets $0.13
+IldeRider01: folds 
+VMDT.: folds 
+Uncalled bet ($0.13) returned to DonBawor
+DonBawor collected $0.13 from pot
+DonBawor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Th 8d 5d]
+Seat 2: geniuss (button) folded before Flop (didn't bet)
+Seat 3: Blufferin142 (small blind) folded before Flop
+Seat 4: IldeRider01 (big blind) folded on the Flop
+Seat 5: VMDT. folded on the Flop
+Seat 6: rpatenau91 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: DonBawor collected ($0.13)
+Seat 9: Prefeito_zero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231100223148:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:58:30 PT [2021/11/02 23:58:30 ET]
+Table 'Lyka' 9-max Seat #3 is the button
+Seat 2: geniuss ($3.12 in chips) 
+Seat 3: Blufferin142 ($2.52 in chips) 
+Seat 4: IldeRider01 ($2.78 in chips) 
+Seat 5: VMDT. ($1.94 in chips) 
+Seat 6: rpatenau91 ($1.36 in chips) 
+Seat 7: Dorex2007 ($2.03 in chips) 
+Seat 8: DonBawor ($2.87 in chips) 
+Seat 9: Prefeito_zero ($2.72 in chips) 
+IldeRider01: posts small blind $0.01
+VMDT.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 2d]
+rpatenau91: folds 
+Dorex2007: folds 
+DonBawor: folds 
+Prefeito_zero: folds 
+geniuss: folds 
+Blufferin142: folds 
+IldeRider01: folds 
+Uncalled bet ($0.01) returned to VMDT.
+VMDT. collected $0.02 from pot
+VMDT.: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: geniuss folded before Flop (didn't bet)
+Seat 3: Blufferin142 (button) folded before Flop (didn't bet)
+Seat 4: IldeRider01 (small blind) folded before Flop
+Seat 5: VMDT. (big blind) collected ($0.02)
+Seat 6: rpatenau91 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: DonBawor folded before Flop (didn't bet)
+Seat 9: Prefeito_zero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231100225381:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:58:47 PT [2021/11/02 23:58:47 ET]
+Table 'Lyka' 9-max Seat #4 is the button
+Seat 2: geniuss ($3.12 in chips) 
+Seat 3: Blufferin142 ($2.52 in chips) 
+Seat 4: IldeRider01 ($2.77 in chips) 
+Seat 5: VMDT. ($1.95 in chips) 
+Seat 6: rpatenau91 ($1.36 in chips) 
+Seat 7: Dorex2007 ($2.03 in chips) 
+Seat 8: DonBawor ($2.87 in chips) 
+Seat 9: Prefeito_zero ($2.72 in chips) 
+VMDT.: posts small blind $0.01
+rpatenau91: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 3d]
+Dorex2007: folds 
+DonBawor: calls $0.02
+Prefeito_zero: folds 
+geniuss has timed out
+geniuss: folds 
+Blufferin142: folds 
+IldeRider01: folds 
+VMDT.: folds 
+rpatenau91: checks 
+*** FLOP *** [4h 4c 3s]
+rpatenau91: bets $0.05
+DonBawor: folds 
+Uncalled bet ($0.05) returned to rpatenau91
+rpatenau91 collected $0.05 from pot
+rpatenau91: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4h 4c 3s]
+Seat 2: geniuss folded before Flop (didn't bet)
+Seat 3: Blufferin142 folded before Flop (didn't bet)
+Seat 4: IldeRider01 (button) folded before Flop (didn't bet)
+Seat 5: VMDT. (small blind) folded before Flop
+Seat 6: rpatenau91 (big blind) collected ($0.05)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: DonBawor folded on the Flop
+Seat 9: Prefeito_zero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231100229742:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:59:21 PT [2021/11/02 23:59:21 ET]
+Table 'Lyka' 9-max Seat #5 is the button
+Seat 3: Blufferin142 ($2.52 in chips) 
+Seat 4: IldeRider01 ($2.77 in chips) 
+Seat 5: VMDT. ($1.94 in chips) 
+Seat 6: rpatenau91 ($1.39 in chips) 
+Seat 7: Dorex2007 ($2.03 in chips) 
+Seat 8: DonBawor ($2.85 in chips) 
+Seat 9: Prefeito_zero ($2.72 in chips) 
+rpatenau91: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 6d]
+DonBawor: raises $0.02 to $0.04
+Prefeito_zero: folds 
+Blufferin142: folds 
+IldeRider01: calls $0.04
+VMDT.: folds 
+rpatenau91: folds 
+Dorex2007: folds 
+*** FLOP *** [7h Ad 7d]
+DonBawor: bets $0.11
+IldeRider01: folds 
+Uncalled bet ($0.11) returned to DonBawor
+DonBawor collected $0.11 from pot
+DonBawor: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [7h Ad 7d]
+Seat 3: Blufferin142 folded before Flop (didn't bet)
+Seat 4: IldeRider01 folded on the Flop
+Seat 5: VMDT. (button) folded before Flop (didn't bet)
+Seat 6: rpatenau91 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: DonBawor collected ($0.11)
+Seat 9: Prefeito_zero folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #231100232272:  Hold'em No Limit ($0.01/$0.02 USD) - 2021/11/02 20:59:40 PT [2021/11/02 23:59:40 ET]
+Table 'Lyka' 9-max Seat #6 is the button
+Seat 3: Blufferin142 ($2.52 in chips) 
+Seat 4: IldeRider01 ($2.73 in chips) 
+Seat 5: VMDT. ($1.94 in chips) 
+Seat 6: rpatenau91 ($1.38 in chips) 
+Seat 7: Dorex2007 ($2.01 in chips) 
+Seat 8: DonBawor ($2.92 in chips) 
+Seat 9: Prefeito_zero ($2.72 in chips) 
+Dorex2007: posts small blind $0.01
+DonBawor: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Qc]
+Prefeito_zero: raises $0.04 to $0.06
+Blufferin142: folds 
+IldeRider01: folds 
+VMDT.: calls $0.06
+rpatenau91: folds 
+Dorex2007: raises $0.12 to $0.18
+DonBawor: folds 
+Prefeito_zero: folds 
+VMDT.: calls $0.12
+*** FLOP *** [4c 6s Td]
+Dorex2007: checks 
+VMDT.: checks 
+*** TURN *** [4c 6s Td] [6c]
+Dorex2007: bets $0.28
+VMDT.: folds 
+Uncalled bet ($0.28) returned to Dorex2007
+Dorex2007 collected $0.42 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [4c 6s Td 6c]
+Seat 3: Blufferin142 folded before Flop (didn't bet)
+Seat 4: IldeRider01 folded before Flop (didn't bet)
+Seat 5: VMDT. folded on the Turn
+Seat 6: rpatenau91 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) collected ($0.42)
+Seat 8: DonBawor (big blind) folded before Flop
+Seat 9: Prefeito_zero folded before Flop
+
+
+
