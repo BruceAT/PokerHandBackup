@@ -1,0 +1,542 @@
+﻿PokerStars Hand #233178906432:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/15 20:52:27 PT [2022/01/15 23:52:27 ET]
+Table 'Eltigen' 9-max Seat #4 is the button
+Seat 1: GianniML ($1.87 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: SvobodaPoker ($3.39 in chips) 
+Seat 4: cr@sh test ($2 in chips) 
+Seat 5: GiseLey ($0.58 in chips) 
+Seat 6: Dr_Thomsons ($2.10 in chips) 
+Seat 7: warayama262 ($1.92 in chips) 
+Seat 8: hiimmatt314 ($4.85 in chips) 
+Seat 9: Benoit1999 ($2 in chips) 
+GiseLey: posts small blind $0.01
+Dr_Thomsons: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Js]
+warayama262: folds 
+hiimmatt314: folds 
+Benoit1999: folds 
+GianniML: folds 
+Dorex2007: checks 
+SvobodaPoker: folds 
+cr@sh test: folds 
+GiseLey: calls $0.01
+Dr_Thomsons: checks 
+*** FLOP *** [7d Kh 8s]
+GiseLey: bets $0.03
+Dr_Thomsons: folds 
+Dorex2007: calls $0.03
+*** TURN *** [7d Kh 8s] [Tc]
+GiseLey: bets $0.06
+Dorex2007: raises $0.12 to $0.18
+GiseLey: calls $0.12
+*** RIVER *** [7d Kh 8s Tc] [7c]
+GiseLey: bets $0.02
+Dorex2007: raises $1.75 to $1.77 and is all-in
+GiseLey: calls $0.33 and is all-in
+Uncalled bet ($1.42) returned to Dorex2007
+*** SHOW DOWN ***
+Dorex2007: shows [9d Js] (a straight, Seven to Jack)
+GiseLey: shows [Kd 2h] (two pair, Kings and Sevens)
+Dorex2007 collected $1.14 from pot
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.04 
+Board [7d Kh 8s Tc 7c]
+Seat 1: GianniML folded before Flop (didn't bet)
+Seat 2: Dorex2007 showed [9d Js] and won ($1.14) with a straight, Seven to Jack
+Seat 3: SvobodaPoker folded before Flop (didn't bet)
+Seat 4: cr@sh test (button) folded before Flop (didn't bet)
+Seat 5: GiseLey (small blind) showed [Kd 2h] and lost with two pair, Kings and Sevens
+Seat 6: Dr_Thomsons (big blind) folded on the Flop
+Seat 7: warayama262 folded before Flop (didn't bet)
+Seat 8: hiimmatt314 folded before Flop (didn't bet)
+Seat 9: Benoit1999 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233178916345:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/15 20:53:17 PT [2022/01/15 23:53:17 ET]
+Table 'Eltigen' 9-max Seat #6 is the button
+Seat 1: GianniML ($1.87 in chips) 
+Seat 2: Dorex2007 ($2.56 in chips) 
+Seat 3: SvobodaPoker ($3.39 in chips) 
+Seat 4: cr@sh test ($2 in chips) 
+Seat 6: Dr_Thomsons ($2.08 in chips) 
+Seat 7: warayama262 ($1.92 in chips) 
+Seat 8: hiimmatt314 ($4.85 in chips) 
+Seat 9: Benoit1999 ($2 in chips) 
+warayama262: posts small blind $0.01
+hiimmatt314: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Jc]
+Benoit1999: folds 
+GianniML: calls $0.02
+Dorex2007: folds 
+SvobodaPoker: folds 
+cr@sh test: folds 
+GiseLey leaves the table
+Dr_Thomsons: folds 
+warayama262: folds 
+hiimmatt314: checks 
+*** FLOP *** [8h 7c 5s]
+hiimmatt314: checks 
+GianniML: bets $0.05
+hiimmatt314: calls $0.05
+*** TURN *** [8h 7c 5s] [Ks]
+hiimmatt314: checks 
+GianniML: bets $0.08
+hiimmatt314: calls $0.08
+*** RIVER *** [8h 7c 5s Ks] [4d]
+hiimmatt314: checks 
+GianniML: checks 
+*** SHOW DOWN ***
+hiimmatt314: shows [9s 8c] (a pair of Eights)
+GianniML: shows [7d 8d] (two pair, Eights and Sevens)
+GianniML collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [8h 7c 5s Ks 4d]
+Seat 1: GianniML showed [7d 8d] and won ($0.30) with two pair, Eights and Sevens
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: SvobodaPoker folded before Flop (didn't bet)
+Seat 4: cr@sh test folded before Flop (didn't bet)
+Seat 6: Dr_Thomsons (button) folded before Flop (didn't bet)
+Seat 7: warayama262 (small blind) folded before Flop
+Seat 8: hiimmatt314 (big blind) showed [9s 8c] and lost with a pair of Eights
+Seat 9: Benoit1999 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233178924342:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/15 20:53:58 PT [2022/01/15 23:53:58 ET]
+Table 'Eltigen' 9-max Seat #7 is the button
+Seat 1: GianniML ($2.02 in chips) 
+Seat 2: Dorex2007 ($2.56 in chips) 
+Seat 3: SvobodaPoker ($3.39 in chips) 
+Seat 4: cr@sh test ($2 in chips) 
+Seat 6: Dr_Thomsons ($2.08 in chips) 
+Seat 7: warayama262 ($1.91 in chips) 
+Seat 8: hiimmatt314 ($4.70 in chips) 
+Seat 9: Benoit1999 ($2 in chips) 
+hiimmatt314: posts small blind $0.01
+Benoit1999: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 2d]
+GianniML: calls $0.02
+Dorex2007: folds 
+SvobodaPoker: folds 
+cr@sh test: folds 
+Dr_Thomsons: calls $0.02
+warayama262: folds 
+hiimmatt314: folds 
+Benoit1999: checks 
+*** FLOP *** [Jd 2c 7d]
+Benoit1999: checks 
+GianniML: bets $0.07
+Dr_Thomsons: calls $0.07
+Benoit1999: folds 
+*** TURN *** [Jd 2c 7d] [As]
+GianniML: bets $0.18
+Dr_Thomsons: folds 
+Uncalled bet ($0.18) returned to GianniML
+GianniML collected $0.20 from pot
+GianniML: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Jd 2c 7d As]
+Seat 1: GianniML collected ($0.20)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: SvobodaPoker folded before Flop (didn't bet)
+Seat 4: cr@sh test folded before Flop (didn't bet)
+Seat 6: Dr_Thomsons folded on the Turn
+Seat 7: warayama262 (button) folded before Flop (didn't bet)
+Seat 8: hiimmatt314 (small blind) folded before Flop
+Seat 9: Benoit1999 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #233178932148:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/15 20:54:37 PT [2022/01/15 23:54:37 ET]
+Table 'Eltigen' 9-max Seat #8 is the button
+Seat 1: GianniML ($2.13 in chips) 
+Seat 2: Dorex2007 ($2.56 in chips) 
+Seat 3: SvobodaPoker ($3.39 in chips) 
+Seat 4: cr@sh test ($2 in chips) 
+Seat 6: Dr_Thomsons ($1.99 in chips) 
+Seat 7: warayama262 ($1.91 in chips) 
+Seat 8: hiimmatt314 ($4.69 in chips) 
+Seat 9: Benoit1999 ($2 in chips) 
+Benoit1999: posts small blind $0.01
+GianniML: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 6h]
+Dorex2007: folds 
+SvobodaPoker: raises $0.04 to $0.06
+cr@sh test: folds 
+Dr_Thomsons: folds 
+warayama262: folds 
+hiimmatt314: calls $0.06
+Benoit1999: folds 
+GianniML: folds 
+*** FLOP *** [Ts 9c 8d]
+SvobodaPoker: bets $0.07
+hiimmatt314: calls $0.07
+*** TURN *** [Ts 9c 8d] [7h]
+SvobodaPoker: bets $0.14
+hiimmatt314: folds 
+Uncalled bet ($0.14) returned to SvobodaPoker
+SvobodaPoker collected $0.28 from pot
+SvobodaPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Ts 9c 8d 7h]
+Seat 1: GianniML (big blind) folded before Flop
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: SvobodaPoker collected ($0.28)
+Seat 4: cr@sh test folded before Flop (didn't bet)
+Seat 6: Dr_Thomsons folded before Flop (didn't bet)
+Seat 7: warayama262 folded before Flop (didn't bet)
+Seat 8: hiimmatt314 (button) folded on the Turn
+Seat 9: Benoit1999 (small blind) folded before Flop
+
+
+
+PokerStars Hand #233178938453:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/15 20:55:11 PT [2022/01/15 23:55:11 ET]
+Table 'Eltigen' 9-max Seat #9 is the button
+Seat 1: GianniML ($2.11 in chips) 
+Seat 2: Dorex2007 ($2.56 in chips) 
+Seat 3: SvobodaPoker ($3.54 in chips) 
+Seat 4: cr@sh test ($2 in chips) 
+Seat 6: Dr_Thomsons ($1.99 in chips) 
+Seat 7: warayama262 ($1.91 in chips) 
+Seat 8: hiimmatt314 ($4.56 in chips) 
+Seat 9: Benoit1999 ($2 in chips) 
+GianniML: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 7s]
+SvobodaPoker: folds 
+cr@sh test: folds 
+Dr_Thomsons: raises $0.04 to $0.06
+warayama262: folds 
+hiimmatt314: calls $0.06
+Benoit1999: folds 
+GianniML: folds 
+MelchiorF1 joins the table at seat #5 
+Dorex2007: folds 
+*** FLOP *** [2d 6c 4d]
+Dr_Thomsons: checks 
+hiimmatt314: bets $0.07
+Dr_Thomsons: calls $0.07
+*** TURN *** [2d 6c 4d] [4s]
+Dr_Thomsons: checks 
+hiimmatt314: bets $0.14
+Dr_Thomsons: folds 
+Uncalled bet ($0.14) returned to hiimmatt314
+hiimmatt314 collected $0.28 from pot
+hiimmatt314: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [2d 6c 4d 4s]
+Seat 1: GianniML (small blind) folded before Flop
+Seat 2: Dorex2007 (big blind) folded before Flop
+Seat 3: SvobodaPoker folded before Flop (didn't bet)
+Seat 4: cr@sh test folded before Flop (didn't bet)
+Seat 6: Dr_Thomsons folded on the Turn
+Seat 7: warayama262 folded before Flop (didn't bet)
+Seat 8: hiimmatt314 collected ($0.28)
+Seat 9: Benoit1999 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233178946554:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/15 20:56:01 PT [2022/01/15 23:56:01 ET]
+Table 'Eltigen' 9-max Seat #1 is the button
+Seat 1: GianniML ($2.10 in chips) 
+Seat 2: Dorex2007 ($2.54 in chips) 
+Seat 3: SvobodaPoker ($3.54 in chips) 
+Seat 4: cr@sh test ($2 in chips) 
+Seat 6: Dr_Thomsons ($1.86 in chips) 
+Seat 7: warayama262 ($1.91 in chips) 
+Seat 8: hiimmatt314 ($4.71 in chips) 
+Seat 9: Benoit1999 ($2 in chips) 
+Dorex2007: posts small blind $0.01
+SvobodaPoker: posts big blind $0.02
+MelchiorF1: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 6s]
+cr@sh test: folds 
+Dr_Thomsons: folds 
+warayama262: raises $0.04 to $0.06
+hiimmatt314: folds 
+Benoit1999: folds 
+GianniML: folds 
+Dorex2007: folds 
+SvobodaPoker: folds 
+Uncalled bet ($0.04) returned to warayama262
+warayama262 collected $0.05 from pot
+warayama262: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: GianniML (button) folded before Flop (didn't bet)
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 3: SvobodaPoker (big blind) folded before Flop
+Seat 4: cr@sh test folded before Flop (didn't bet)
+Seat 6: Dr_Thomsons folded before Flop (didn't bet)
+Seat 7: warayama262 collected ($0.05)
+Seat 8: hiimmatt314 folded before Flop (didn't bet)
+Seat 9: Benoit1999 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233178952424:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/15 20:56:37 PT [2022/01/15 23:56:37 ET]
+Table 'Eltigen' 9-max Seat #2 is the button
+Seat 1: GianniML ($2.10 in chips) 
+Seat 2: Dorex2007 ($2.53 in chips) 
+Seat 3: SvobodaPoker ($3.52 in chips) 
+Seat 4: cr@sh test ($2 in chips) 
+Seat 6: Dr_Thomsons ($1.86 in chips) 
+Seat 7: warayama262 ($1.94 in chips) 
+Seat 8: hiimmatt314 ($4.71 in chips) 
+Seat 9: Benoit1999 ($2 in chips) 
+SvobodaPoker: posts small blind $0.01
+cr@sh test: posts big blind $0.02
+MelchiorF1: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 6d]
+Dr_Thomsons: raises $0.02 to $0.04
+warayama262: calls $0.04
+hiimmatt314: folds 
+Benoit1999: folds 
+GianniML: calls $0.04
+Dorex2007: folds 
+SvobodaPoker: folds 
+cr@sh test: folds 
+*** FLOP *** [3d 5c 2s]
+Dr_Thomsons: checks 
+warayama262: checks 
+GianniML: checks 
+*** TURN *** [3d 5c 2s] [Td]
+Dr_Thomsons: bets $0.07
+warayama262: raises $0.14 to $0.21
+GianniML: raises $0.27 to $0.48
+Dr_Thomsons: folds 
+warayama262: calls $0.27
+*** RIVER *** [3d 5c 2s Td] [7c]
+warayama262: checks 
+GianniML: bets $0.58
+warayama262: calls $0.58
+*** SHOW DOWN ***
+GianniML: shows [As 4s] (a straight, Ace to Five)
+warayama262: mucks hand 
+GianniML collected $2.26 from pot
+*** SUMMARY ***
+Total pot $2.34 | Rake $0.08 
+Board [3d 5c 2s Td 7c]
+Seat 1: GianniML showed [As 4s] and won ($2.26) with a straight, Ace to Five
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: SvobodaPoker (small blind) folded before Flop
+Seat 4: cr@sh test (big blind) folded before Flop
+Seat 6: Dr_Thomsons folded on the Turn
+Seat 7: warayama262 mucked [Ts Kd]
+Seat 8: hiimmatt314 folded before Flop (didn't bet)
+Seat 9: Benoit1999 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233178962532:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/15 20:57:39 PT [2022/01/15 23:57:39 ET]
+Table 'Eltigen' 9-max Seat #3 is the button
+Seat 1: GianniML ($3.26 in chips) 
+Seat 2: Dorex2007 ($2.53 in chips) 
+Seat 3: SvobodaPoker ($3.51 in chips) 
+Seat 4: cr@sh test ($2 in chips) 
+Seat 5: MelchiorF1 ($2 in chips) 
+Seat 6: Dr_Thomsons ($1.75 in chips) 
+Seat 7: warayama262 ($0.84 in chips) 
+Seat 8: hiimmatt314 ($4.71 in chips) 
+Seat 9: Benoit1999 ($2 in chips) 
+cr@sh test: posts small blind $0.01
+MelchiorF1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 6h]
+Dr_Thomsons: folds 
+warayama262: folds 
+hiimmatt314: folds 
+Benoit1999: folds 
+GianniML: folds 
+Dorex2007: folds 
+SvobodaPoker: folds 
+cr@sh test: folds 
+Uncalled bet ($0.01) returned to MelchiorF1
+MelchiorF1 collected $0.02 from pot
+MelchiorF1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: GianniML folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: SvobodaPoker (button) folded before Flop (didn't bet)
+Seat 4: cr@sh test (small blind) folded before Flop
+Seat 5: MelchiorF1 (big blind) collected ($0.02)
+Seat 6: Dr_Thomsons folded before Flop (didn't bet)
+Seat 7: warayama262 folded before Flop (didn't bet)
+Seat 8: hiimmatt314 folded before Flop (didn't bet)
+Seat 9: Benoit1999 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233178965514:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/15 20:57:57 PT [2022/01/15 23:57:57 ET]
+Table 'Eltigen' 9-max Seat #4 is the button
+Seat 1: GianniML ($3.26 in chips) 
+Seat 2: Dorex2007 ($2.53 in chips) 
+Seat 3: SvobodaPoker ($3.51 in chips) 
+Seat 4: cr@sh test ($2 in chips) 
+Seat 5: MelchiorF1 ($2.01 in chips) 
+Seat 6: Dr_Thomsons ($1.75 in chips) 
+Seat 7: warayama262 ($0.84 in chips) 
+Seat 8: hiimmatt314 ($4.71 in chips) 
+Seat 9: Benoit1999 ($2 in chips) 
+MelchiorF1: posts small blind $0.01
+Dr_Thomsons: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 4h]
+warayama262: folds 
+hiimmatt314: folds 
+Benoit1999: folds 
+GianniML: folds 
+Dorex2007: folds 
+SvobodaPoker: raises $0.04 to $0.06
+cr@sh test: folds 
+MelchiorF1: folds 
+Dr_Thomsons: calls $0.04
+*** FLOP *** [7c Jh 2c]
+Dr_Thomsons: checks 
+SvobodaPoker: checks 
+*** TURN *** [7c Jh 2c] [9c]
+Dr_Thomsons: checks 
+SvobodaPoker: checks 
+*** RIVER *** [7c Jh 2c 9c] [6c]
+Dr_Thomsons: bets $0.13
+SvobodaPoker: calls $0.13
+*** SHOW DOWN ***
+Dr_Thomsons: shows [8c Tc] (a straight flush, Six to Ten)
+SvobodaPoker: mucks hand 
+Dr_Thomsons collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [7c Jh 2c 9c 6c]
+Seat 1: GianniML folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: SvobodaPoker mucked [Kc Ad]
+Seat 4: cr@sh test (button) folded before Flop (didn't bet)
+Seat 5: MelchiorF1 (small blind) folded before Flop
+Seat 6: Dr_Thomsons (big blind) showed [8c Tc] and won ($0.38) with a straight flush, Six to Ten
+Seat 7: warayama262 folded before Flop (didn't bet)
+Seat 8: hiimmatt314 folded before Flop (didn't bet)
+Seat 9: Benoit1999 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233178971336:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/15 20:58:33 PT [2022/01/15 23:58:33 ET]
+Table 'Eltigen' 9-max Seat #5 is the button
+Seat 1: GianniML ($3.26 in chips) 
+Seat 2: Dorex2007 ($2.53 in chips) 
+Seat 3: SvobodaPoker ($3.32 in chips) 
+Seat 4: cr@sh test ($2 in chips) 
+Seat 5: MelchiorF1 ($2 in chips) 
+Seat 6: Dr_Thomsons ($1.94 in chips) 
+Seat 7: warayama262 ($0.84 in chips) 
+Seat 8: hiimmatt314 ($4.71 in chips) 
+Seat 9: Benoit1999 ($2 in chips) 
+Dr_Thomsons: posts small blind $0.01
+warayama262: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 9s]
+hiimmatt314: raises $0.04 to $0.06
+Benoit1999: folds 
+GianniML: folds 
+Dorex2007: folds 
+SvobodaPoker said, "nh"
+SvobodaPoker: calls $0.06
+cr@sh test: folds 
+MelchiorF1: folds 
+Dr_Thomsons: folds 
+warayama262: folds 
+*** FLOP *** [4c 7h 8d]
+hiimmatt314: bets $0.07
+SvobodaPoker: calls $0.07
+*** TURN *** [4c 7h 8d] [Ah]
+hiimmatt314: bets $0.14
+SvobodaPoker: folds 
+Uncalled bet ($0.14) returned to hiimmatt314
+hiimmatt314 collected $0.28 from pot
+hiimmatt314: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [4c 7h 8d Ah]
+Seat 1: GianniML folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: SvobodaPoker folded on the Turn
+Seat 4: cr@sh test folded before Flop (didn't bet)
+Seat 5: MelchiorF1 (button) folded before Flop (didn't bet)
+Seat 6: Dr_Thomsons (small blind) folded before Flop
+Seat 7: warayama262 (big blind) folded before Flop
+Seat 8: hiimmatt314 collected ($0.28)
+Seat 9: Benoit1999 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233178978006:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/15 20:59:13 PT [2022/01/15 23:59:13 ET]
+Table 'Eltigen' 9-max Seat #6 is the button
+Seat 1: GianniML ($3.26 in chips) 
+Seat 2: Dorex2007 ($2.53 in chips) 
+Seat 3: SvobodaPoker ($3.19 in chips) 
+Seat 4: cr@sh test ($2 in chips) 
+Seat 5: MelchiorF1 ($2 in chips) 
+Seat 6: Dr_Thomsons ($1.93 in chips) 
+Seat 7: warayama262 ($0.82 in chips) 
+Seat 8: hiimmatt314 ($4.86 in chips) 
+Seat 9: Benoit1999 ($2 in chips) 
+warayama262: posts small blind $0.01
+hiimmatt314: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 9h]
+Benoit1999: folds 
+GianniML: folds 
+Dorex2007: folds 
+SvobodaPoker: folds 
+cr@sh test: folds 
+MelchiorF1: folds 
+Dr_Thomsons: calls $0.02
+warayama262: calls $0.01
+hiimmatt314: raises $0.04 to $0.06
+Dr_Thomsons: calls $0.04
+warayama262: calls $0.04
+*** FLOP *** [Jc 9c Kc]
+warayama262: checks 
+hiimmatt314: bets $0.09
+Dr_Thomsons: raises $0.09 to $0.18
+warayama262: folds 
+hiimmatt314: calls $0.09
+*** TURN *** [Jc 9c Kc] [9s]
+hiimmatt314: checks 
+Dr_Thomsons: bets $0.26
+hiimmatt314: calls $0.26
+*** RIVER *** [Jc 9c Kc 9s] [Qh]
+hiimmatt314: checks 
+Dr_Thomsons: bets $1.43 and is all-in
+hiimmatt314: folds 
+Uncalled bet ($1.43) returned to Dr_Thomsons
+Dr_Thomsons collected $1.02 from pot
+Dr_Thomsons: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.06 | Rake $0.04 
+Board [Jc 9c Kc 9s Qh]
+Seat 1: GianniML folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: SvobodaPoker folded before Flop (didn't bet)
+Seat 4: cr@sh test folded before Flop (didn't bet)
+Seat 5: MelchiorF1 folded before Flop (didn't bet)
+Seat 6: Dr_Thomsons (button) collected ($1.02)
+Seat 7: warayama262 (small blind) folded on the Flop
+Seat 8: hiimmatt314 (big blind) folded on the River
+Seat 9: Benoit1999 folded before Flop (didn't bet)
+
+
+

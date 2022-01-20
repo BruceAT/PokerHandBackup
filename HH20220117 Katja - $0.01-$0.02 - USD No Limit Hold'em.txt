@@ -1,0 +1,875 @@
+﻿PokerStars Hand #233214950770:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/16 23:47:48 PT [2022/01/17 2:47:48 ET]
+Table 'Katja' 9-max Seat #6 is the button
+Seat 1: dudoippon ($1.36 in chips) 
+Seat 3: Gorniak A ($2.42 in chips) 
+Seat 4: nadokesh ($2 in chips) 
+Seat 5: Dorex2007 ($2 in chips) 
+Seat 6: OTBET-42 ($1.97 in chips) 
+Seat 7: Povelitel100 ($0.89 in chips) 
+Seat 8: cjral333 ($2.60 in chips) 
+Seat 9: ivan69252 ($0.64 in chips) 
+Povelitel100: posts small blind $0.01
+cjral333: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 8s]
+ivan69252 has timed out
+ivan69252: folds 
+dudoippon: folds 
+Gorniak A: folds 
+nadokesh: folds 
+Dorex2007: checks 
+OTBET-42: calls $0.02
+Povelitel100: calls $0.01
+cjral333: checks 
+*** FLOP *** [9c 7c 4s]
+Povelitel100: bets $0.02
+cjral333: calls $0.02
+Dorex2007: calls $0.02
+OTBET-42: calls $0.02
+*** TURN *** [9c 7c 4s] [8c]
+Povelitel100: checks 
+cjral333: bets $0.04
+Dorex2007: calls $0.04
+OTBET-42: calls $0.04
+Povelitel100: folds 
+*** RIVER *** [9c 7c 4s 8c] [7s]
+cjral333: bets $0.14
+Dorex2007: folds 
+OTBET-42: calls $0.14
+*** SHOW DOWN ***
+cjral333: shows [2c 6c] (a flush, Nine high)
+OTBET-42: mucks hand 
+cjral333 collected $0.54 from pot
+*** SUMMARY ***
+Total pot $0.56 | Rake $0.02 
+Board [9c 7c 4s 8c 7s]
+Seat 1: dudoippon folded before Flop (didn't bet)
+Seat 3: Gorniak A folded before Flop (didn't bet)
+Seat 4: nadokesh folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded on the River
+Seat 6: OTBET-42 (button) mucked [5h 6s]
+Seat 7: Povelitel100 (small blind) folded on the Turn
+Seat 8: cjral333 (big blind) showed [2c 6c] and won ($0.54) with a flush, Nine high
+Seat 9: ivan69252 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233214961699:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/16 23:48:59 PT [2022/01/17 2:48:59 ET]
+Table 'Katja' 9-max Seat #7 is the button
+Seat 1: dudoippon ($1.36 in chips) 
+Seat 3: Gorniak A ($2.42 in chips) 
+Seat 4: nadokesh ($2 in chips) 
+Seat 5: Dorex2007 ($2 in chips) 
+Seat 6: OTBET-42 ($1.75 in chips) 
+Seat 7: Povelitel100 ($0.85 in chips) 
+Seat 8: cjral333 ($2.92 in chips) 
+Seat 9: ivan69252 ($0.64 in chips) 
+cjral333: posts small blind $0.01
+ivan69252: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 6s]
+dudoippon: folds 
+Gorniak A: folds 
+nadokesh: folds 
+Dorex2007: folds 
+OTBET-42: folds 
+Povelitel100: calls $0.02
+cjral333: calls $0.01
+ivan69252: checks 
+*** FLOP *** [Kd Ad 5c]
+cjral333: bets $0.04
+ivan69252: folds 
+Povelitel100: folds 
+Uncalled bet ($0.04) returned to cjral333
+cjral333 collected $0.06 from pot
+cjral333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Kd Ad 5c]
+Seat 1: dudoippon folded before Flop (didn't bet)
+Seat 3: Gorniak A folded before Flop (didn't bet)
+Seat 4: nadokesh folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: OTBET-42 folded before Flop (didn't bet)
+Seat 7: Povelitel100 (button) folded on the Flop
+Seat 8: cjral333 (small blind) collected ($0.06)
+Seat 9: ivan69252 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #233214965894:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/16 23:49:26 PT [2022/01/17 2:49:26 ET]
+Table 'Katja' 9-max Seat #8 is the button
+Seat 1: dudoippon ($1.36 in chips) 
+Seat 3: Gorniak A ($2.42 in chips) 
+Seat 4: nadokesh ($2 in chips) 
+Seat 5: Dorex2007 ($2 in chips) 
+Seat 6: OTBET-42 ($1.75 in chips) 
+Seat 7: Povelitel100 ($0.83 in chips) 
+Seat 8: cjral333 ($2.96 in chips) 
+Seat 9: ivan69252 ($0.62 in chips) 
+ivan69252: posts small blind $0.01
+dudoippon: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 6c]
+Gorniak A: folds 
+nadokesh: folds 
+Dorex2007: folds 
+OTBET-42: folds 
+Povelitel100: calls $0.02
+cjral333: raises $0.02 to $0.04
+ivan69252: folds 
+dudoippon: calls $0.02
+Povelitel100: calls $0.02
+*** FLOP *** [4h 5s Js]
+dudoippon: bets $0.07
+Povelitel100: folds 
+cjral333: folds 
+Uncalled bet ($0.07) returned to dudoippon
+dudoippon collected $0.13 from pot
+dudoippon: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4h 5s Js]
+Seat 1: dudoippon (big blind) collected ($0.13)
+Seat 3: Gorniak A folded before Flop (didn't bet)
+Seat 4: nadokesh folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: OTBET-42 folded before Flop (didn't bet)
+Seat 7: Povelitel100 folded on the Flop
+Seat 8: cjral333 (button) folded on the Flop
+Seat 9: ivan69252 (small blind) folded before Flop
+
+
+
+PokerStars Hand #233214972877:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/16 23:50:13 PT [2022/01/17 2:50:13 ET]
+Table 'Katja' 9-max Seat #9 is the button
+Seat 1: dudoippon ($1.45 in chips) 
+Seat 3: Gorniak A ($2.42 in chips) 
+Seat 4: nadokesh ($2 in chips) 
+Seat 5: Dorex2007 ($2 in chips) 
+Seat 6: OTBET-42 ($1.75 in chips) 
+Seat 7: Povelitel100 ($0.79 in chips) 
+Seat 8: cjral333 ($2.92 in chips) 
+Seat 9: ivan69252 ($0.61 in chips) 
+dudoippon: posts small blind $0.01
+Gorniak A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Ah]
+nadokesh: folds 
+Dorex2007: folds 
+OTBET-42: calls $0.02
+Povelitel100: raises $0.04 to $0.06
+cjral333: folds 
+ivan69252: folds 
+dudoippon: folds 
+Gorniak A: folds 
+OTBET-42: calls $0.04
+*** FLOP *** [7h 9h 7d]
+OTBET-42: checks 
+Povelitel100: bets $0.07
+OTBET-42: calls $0.07
+*** TURN *** [7h 9h 7d] [As]
+OTBET-42: checks 
+Povelitel100: checks 
+*** RIVER *** [7h 9h 7d As] [Kd]
+OTBET-42: checks 
+Povelitel100: checks 
+*** SHOW DOWN ***
+OTBET-42: shows [Th 9s] (two pair, Nines and Sevens)
+Povelitel100: mucks hand 
+OTBET-42 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [7h 9h 7d As Kd]
+Seat 1: dudoippon (small blind) folded before Flop
+Seat 3: Gorniak A (big blind) folded before Flop
+Seat 4: nadokesh folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: OTBET-42 showed [Th 9s] and won ($0.28) with two pair, Nines and Sevens
+Seat 7: Povelitel100 mucked [6c 6s]
+Seat 8: cjral333 folded before Flop (didn't bet)
+Seat 9: ivan69252 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233214978832:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/16 23:50:52 PT [2022/01/17 2:50:52 ET]
+Table 'Katja' 9-max Seat #1 is the button
+Seat 1: dudoippon ($1.44 in chips) 
+Seat 3: Gorniak A ($2.40 in chips) 
+Seat 4: nadokesh ($2 in chips) 
+Seat 5: Dorex2007 ($2 in chips) 
+Seat 6: OTBET-42 ($1.90 in chips) 
+Seat 7: Povelitel100 ($0.66 in chips) 
+Seat 8: cjral333 ($2.92 in chips) 
+Seat 9: ivan69252 ($0.61 in chips) 
+Gorniak A: posts small blind $0.01
+nadokesh: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 9h]
+Dorex2007: raises $0.10 to $0.12
+OTBET-42: folds 
+Povelitel100: calls $0.12
+cjral333: folds 
+ivan69252: folds 
+dudoippon: folds 
+Gorniak A: folds 
+nadokesh: folds 
+*** FLOP *** [8s Qh 3s]
+Dorex2007: bets $0.26
+Povelitel100: folds 
+Uncalled bet ($0.26) returned to Dorex2007
+Dorex2007 collected $0.26 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [8s Qh 3s]
+Seat 1: dudoippon (button) folded before Flop (didn't bet)
+Seat 3: Gorniak A (small blind) folded before Flop
+Seat 4: nadokesh (big blind) folded before Flop
+Seat 5: Dorex2007 collected ($0.26)
+Seat 6: OTBET-42 folded before Flop (didn't bet)
+Seat 7: Povelitel100 folded on the Flop
+Seat 8: cjral333 folded before Flop (didn't bet)
+Seat 9: ivan69252 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233214983268:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/16 23:51:22 PT [2022/01/17 2:51:22 ET]
+Table 'Katja' 9-max Seat #3 is the button
+Seat 1: dudoippon ($1.44 in chips) 
+Seat 3: Gorniak A ($2.39 in chips) 
+Seat 4: nadokesh ($2 in chips) 
+Seat 5: Dorex2007 ($2.14 in chips) 
+Seat 6: OTBET-42 ($1.90 in chips) 
+Seat 7: Povelitel100 ($0.54 in chips) 
+Seat 8: cjral333 ($2.92 in chips) 
+Seat 9: ivan69252 ($0.61 in chips) 
+nadokesh: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Jh]
+OTBET-42: folds 
+Povelitel100: folds 
+cjral333: raises $0.02 to $0.04
+ivan69252: folds 
+dudoippon: folds 
+Gorniak A: folds 
+nadokesh: calls $0.03
+Dorex2007: folds 
+*** FLOP *** [6h Ac 7h]
+nadokesh: checks 
+cjral333: bets $0.05
+nadokesh: folds 
+Uncalled bet ($0.05) returned to cjral333
+cjral333 collected $0.10 from pot
+cjral333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [6h Ac 7h]
+Seat 1: dudoippon folded before Flop (didn't bet)
+Seat 3: Gorniak A (button) folded before Flop (didn't bet)
+Seat 4: nadokesh (small blind) folded on the Flop
+Seat 5: Dorex2007 (big blind) folded before Flop
+Seat 6: OTBET-42 folded before Flop (didn't bet)
+Seat 7: Povelitel100 folded before Flop (didn't bet)
+Seat 8: cjral333 collected ($0.10)
+Seat 9: ivan69252 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233214987653:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/16 23:51:51 PT [2022/01/17 2:51:51 ET]
+Table 'Katja' 9-max Seat #4 is the button
+Seat 1: dudoippon ($1.44 in chips) 
+Seat 3: Gorniak A ($2.39 in chips) 
+Seat 4: nadokesh ($2 in chips) 
+Seat 5: Dorex2007 ($2.12 in chips) 
+Seat 6: OTBET-42 ($1.90 in chips) 
+Seat 7: Povelitel100 ($0.54 in chips) 
+Seat 8: cjral333 ($2.98 in chips) 
+Seat 9: ivan69252 ($0.61 in chips) 
+Dorex2007: posts small blind $0.01
+OTBET-42: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Ad]
+Povelitel100: raises $0.04 to $0.06
+cjral333: folds 
+ivan69252: folds 
+dudoippon: calls $0.06
+Gorniak A: folds 
+nadokesh: folds 
+Dorex2007: raises $0.48 to $0.54
+OTBET-42: folds 
+Povelitel100: folds 
+dudoippon: calls $0.48
+*** FLOP *** [2h 8c 5c]
+Dorex2007: bets $1.12
+dudoippon: calls $0.90 and is all-in
+Uncalled bet ($0.22) returned to Dorex2007
+*** TURN *** [2h 8c 5c] [6c]
+*** RIVER *** [2h 8c 5c 6c] [9d]
+*** SHOW DOWN ***
+Dorex2007: shows [Kh Ad] (high card Ace)
+dudoippon: shows [Th Td] (a pair of Tens)
+dudoippon collected $2.86 from pot
+*** SUMMARY ***
+Total pot $2.96 | Rake $0.10 
+Board [2h 8c 5c 6c 9d]
+Seat 1: dudoippon showed [Th Td] and won ($2.86) with a pair of Tens
+Seat 3: Gorniak A folded before Flop (didn't bet)
+Seat 4: nadokesh (button) folded before Flop (didn't bet)
+Seat 5: Dorex2007 (small blind) showed [Kh Ad] and lost with high card Ace
+Seat 6: OTBET-42 (big blind) folded before Flop
+Seat 7: Povelitel100 folded before Flop
+Seat 8: cjral333 folded before Flop (didn't bet)
+Seat 9: ivan69252 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233214994402:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/16 23:52:34 PT [2022/01/17 2:52:34 ET]
+Table 'Katja' 9-max Seat #5 is the button
+Seat 1: dudoippon ($2.86 in chips) 
+Seat 3: Gorniak A ($2.39 in chips) 
+Seat 4: nadokesh ($2 in chips) 
+Seat 5: Dorex2007 ($2 in chips) 
+Seat 6: OTBET-42 ($1.88 in chips) 
+Seat 7: Povelitel100 ($0.48 in chips) 
+Seat 8: cjral333 ($2.98 in chips) 
+Seat 9: ivan69252 ($0.61 in chips) 
+OTBET-42: posts small blind $0.01
+Povelitel100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Qs]
+cjral333: folds 
+ivan69252: folds 
+dudoippon: folds 
+Gorniak A: folds 
+nadokesh: raises $0.04 to $0.06
+Dorex2007: folds 
+OTBET-42: folds 
+Povelitel100: calls $0.04
+*** FLOP *** [Qh 8s Ad]
+Povelitel100: checks 
+nadokesh: bets $0.09
+Povelitel100: folds 
+Uncalled bet ($0.09) returned to nadokesh
+nadokesh collected $0.13 from pot
+nadokesh: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qh 8s Ad]
+Seat 1: dudoippon folded before Flop (didn't bet)
+Seat 3: Gorniak A folded before Flop (didn't bet)
+Seat 4: nadokesh collected ($0.13)
+Seat 5: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 6: OTBET-42 (small blind) folded before Flop
+Seat 7: Povelitel100 (big blind) folded on the Flop
+Seat 8: cjral333 folded before Flop (didn't bet)
+Seat 9: ivan69252 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233215000189:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/16 23:53:13 PT [2022/01/17 2:53:13 ET]
+Table 'Katja' 9-max Seat #6 is the button
+Seat 1: dudoippon ($2.86 in chips) 
+Seat 3: Gorniak A ($2.39 in chips) 
+Seat 4: nadokesh ($2.07 in chips) 
+Seat 5: Dorex2007 ($2 in chips) 
+Seat 6: OTBET-42 ($1.87 in chips) 
+Seat 7: Povelitel100 ($0.42 in chips) 
+Seat 8: cjral333 ($2.98 in chips) 
+Seat 9: ivan69252 ($0.61 in chips) 
+Povelitel100: posts small blind $0.01
+cjral333: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 2h]
+ivan69252: calls $0.02
+dudoippon: folds 
+Gorniak A: folds 
+nadokesh: folds 
+Dorex2007: folds 
+OTBET-42: folds 
+Povelitel100: raises $0.06 to $0.08
+cjral333: folds 
+ivan69252: folds 
+Uncalled bet ($0.06) returned to Povelitel100
+Povelitel100 collected $0.06 from pot
+Povelitel100: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: dudoippon folded before Flop (didn't bet)
+Seat 3: Gorniak A folded before Flop (didn't bet)
+Seat 4: nadokesh folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: OTBET-42 (button) folded before Flop (didn't bet)
+Seat 7: Povelitel100 (small blind) collected ($0.06)
+Seat 8: cjral333 (big blind) folded before Flop
+Seat 9: ivan69252 folded before Flop
+
+
+
+PokerStars Hand #233215003875:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/16 23:53:37 PT [2022/01/17 2:53:37 ET]
+Table 'Katja' 9-max Seat #7 is the button
+Seat 1: dudoippon ($2.86 in chips) 
+Seat 3: Gorniak A ($2.39 in chips) 
+Seat 4: nadokesh ($2.07 in chips) 
+Seat 5: Dorex2007 ($2 in chips) 
+Seat 6: OTBET-42 ($1.87 in chips) 
+Seat 7: Povelitel100 ($0.46 in chips) 
+Seat 8: cjral333 ($2.96 in chips) 
+Seat 9: ivan69252 ($0.59 in chips) 
+cjral333: posts small blind $0.01
+ivan69252: posts big blind $0.02
+ayustan728: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 8s]
+dudoippon: folds 
+Gorniak A: calls $0.02
+nadokesh: folds 
+Dorex2007: folds 
+OTBET-42: folds 
+Povelitel100: calls $0.02
+cjral333: calls $0.01
+ivan69252: checks 
+*** FLOP *** [2d 9h Ad]
+cjral333: checks 
+ivan69252: checks 
+Gorniak A: bets $0.04
+Povelitel100: folds 
+cjral333: calls $0.04
+ivan69252: folds 
+*** TURN *** [2d 9h Ad] [Qh]
+cjral333: checks 
+Gorniak A: checks 
+*** RIVER *** [2d 9h Ad Qh] [2s]
+cjral333: bets $0.04
+Gorniak A: calls $0.04
+*** SHOW DOWN ***
+cjral333: shows [As 6s] (two pair, Aces and Deuces)
+Gorniak A: shows [Ah Jd] (two pair, Aces and Deuces)
+cjral333 collected $0.12 from pot
+Gorniak A collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [2d 9h Ad Qh 2s]
+Seat 1: dudoippon folded before Flop (didn't bet)
+Seat 3: Gorniak A showed [Ah Jd] and won ($0.11) with two pair, Aces and Deuces
+Seat 4: nadokesh folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: OTBET-42 folded before Flop (didn't bet)
+Seat 7: Povelitel100 (button) folded on the Flop
+Seat 8: cjral333 (small blind) showed [As 6s] and won ($0.12) with two pair, Aces and Deuces
+Seat 9: ivan69252 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #233215013005:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/16 23:54:17 PT [2022/01/17 2:54:17 ET]
+Table 'Katja' 9-max Seat #8 is the button
+Seat 1: dudoippon ($2.86 in chips) 
+Seat 3: Gorniak A ($2.40 in chips) 
+Seat 4: nadokesh ($2.07 in chips) 
+Seat 5: Dorex2007 ($2 in chips) 
+Seat 6: OTBET-42 ($1.87 in chips) 
+Seat 7: Povelitel100 ($0.44 in chips) 
+Seat 8: cjral333 ($2.98 in chips) 
+Seat 9: ivan69252 ($0.57 in chips) 
+ivan69252: posts small blind $0.01
+dudoippon: posts big blind $0.02
+ayustan728: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 3h]
+Gorniak A: folds 
+nadokesh: folds 
+Dorex2007: calls $0.02
+OTBET-42: folds 
+Povelitel100: raises $0.07 to $0.09
+cjral333: folds 
+ivan69252: folds 
+dudoippon: folds 
+Dorex2007: folds 
+Uncalled bet ($0.07) returned to Povelitel100
+Povelitel100 collected $0.07 from pot
+Povelitel100: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: dudoippon (big blind) folded before Flop
+Seat 3: Gorniak A folded before Flop (didn't bet)
+Seat 4: nadokesh folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop
+Seat 6: OTBET-42 folded before Flop (didn't bet)
+Seat 7: Povelitel100 collected ($0.07)
+Seat 8: cjral333 (button) folded before Flop (didn't bet)
+Seat 9: ivan69252 (small blind) folded before Flop
+
+
+
+PokerStars Hand #233215015177:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/16 23:54:31 PT [2022/01/17 2:54:31 ET]
+Table 'Katja' 9-max Seat #9 is the button
+Seat 1: dudoippon ($2.84 in chips) 
+Seat 2: ayustan728 ($1.52 in chips) 
+Seat 3: Gorniak A ($2.40 in chips) 
+Seat 4: nadokesh ($2.07 in chips) 
+Seat 5: Dorex2007 ($2 in chips) 
+Seat 6: OTBET-42 ($1.87 in chips) 
+Seat 7: Povelitel100 ($0.49 in chips) 
+Seat 8: cjral333 ($2.98 in chips) 
+Seat 9: ivan69252 ($0.56 in chips) 
+dudoippon: posts small blind $0.01
+ayustan728: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Ac]
+Gorniak A: calls $0.02
+nadokesh: folds 
+Dorex2007: folds 
+OTBET-42: folds 
+Povelitel100: folds 
+cjral333: calls $0.02
+ivan69252: folds 
+dudoippon: folds 
+ayustan728: checks 
+*** FLOP *** [4s 9s 8s]
+ayustan728: checks 
+Gorniak A: checks 
+cjral333: checks 
+*** TURN *** [4s 9s 8s] [4h]
+ayustan728: checks 
+Gorniak A: checks 
+cjral333: checks 
+*** RIVER *** [4s 9s 8s 4h] [5s]
+ayustan728: bets $0.10
+Gorniak A: calls $0.10
+cjral333: folds 
+*** SHOW DOWN ***
+ayustan728: shows [2s 4d] (a flush, Nine high)
+Gorniak A: shows [Td As] (a flush, Ace high)
+Gorniak A collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [4s 9s 8s 4h 5s]
+Seat 1: dudoippon (small blind) folded before Flop
+Seat 2: ayustan728 (big blind) showed [2s 4d] and lost with a flush, Nine high
+Seat 3: Gorniak A showed [Td As] and won ($0.26) with a flush, Ace high
+Seat 4: nadokesh folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: OTBET-42 folded before Flop (didn't bet)
+Seat 7: Povelitel100 folded before Flop (didn't bet)
+Seat 8: cjral333 folded on the River
+Seat 9: ivan69252 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233215022550:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/16 23:55:20 PT [2022/01/17 2:55:20 ET]
+Table 'Katja' 9-max Seat #1 is the button
+Seat 1: dudoippon ($2.83 in chips) 
+Seat 2: ayustan728 ($1.40 in chips) 
+Seat 3: Gorniak A ($2.54 in chips) 
+Seat 4: nadokesh ($2.07 in chips) 
+Seat 5: Dorex2007 ($2 in chips) 
+Seat 6: OTBET-42 ($1.87 in chips) 
+Seat 7: Povelitel100 ($0.49 in chips) 
+Seat 8: cjral333 ($2.96 in chips) 
+Seat 9: ivan69252 ($0.56 in chips) 
+ayustan728: posts small blind $0.01
+Gorniak A: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 4s]
+nadokesh: folds 
+Dorex2007: folds 
+OTBET-42: folds 
+Povelitel100: calls $0.02
+cjral333: folds 
+ivan69252: folds 
+dudoippon: calls $0.02
+ayustan728: calls $0.01
+Gorniak A: checks 
+*** FLOP *** [Qc Qd 7s]
+ayustan728: bets $0.02
+Gorniak A: folds 
+Povelitel100: folds 
+dudoippon: calls $0.02
+*** TURN *** [Qc Qd 7s] [Kh]
+ayustan728: checks 
+dudoippon: checks 
+*** RIVER *** [Qc Qd 7s Kh] [7h]
+ayustan728: bets $0.10
+dudoippon: folds 
+Uncalled bet ($0.10) returned to ayustan728
+ayustan728 collected $0.12 from pot
+ayustan728: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Qc Qd 7s Kh 7h]
+Seat 1: dudoippon (button) folded on the River
+Seat 2: ayustan728 (small blind) collected ($0.12)
+Seat 3: Gorniak A (big blind) folded on the Flop
+Seat 4: nadokesh folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: OTBET-42 folded before Flop (didn't bet)
+Seat 7: Povelitel100 folded on the Flop
+Seat 8: cjral333 folded before Flop (didn't bet)
+Seat 9: ivan69252 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233215029390:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/16 23:56:11 PT [2022/01/17 2:56:11 ET]
+Table 'Katja' 9-max Seat #2 is the button
+Seat 1: dudoippon ($2.79 in chips) 
+Seat 2: ayustan728 ($1.48 in chips) 
+Seat 3: Gorniak A ($2.52 in chips) 
+Seat 4: nadokesh ($2.07 in chips) 
+Seat 5: Dorex2007 ($2 in chips) 
+Seat 6: OTBET-42 ($1.87 in chips) 
+Seat 7: Povelitel100 ($0.47 in chips) 
+Seat 8: cjral333 ($2.96 in chips) 
+Seat 9: ivan69252 ($0.56 in chips) 
+Gorniak A: posts small blind $0.01
+nadokesh: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Ts]
+Dorex2007: folds 
+OTBET-42: folds 
+Povelitel100: calls $0.02
+cjral333: raises $0.04 to $0.06
+ivan69252: folds 
+dudoippon: folds 
+ayustan728: folds 
+Gorniak A: folds 
+nadokesh: folds 
+Povelitel100: calls $0.04
+*** FLOP *** [Kd 2c 7h]
+Povelitel100: bets $0.07
+cjral333: calls $0.07
+*** TURN *** [Kd 2c 7h] [6s]
+Povelitel100: bets $0.14
+cjral333: folds 
+Uncalled bet ($0.14) returned to Povelitel100
+Povelitel100 collected $0.28 from pot
+Povelitel100: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Kd 2c 7h 6s]
+Seat 1: dudoippon folded before Flop (didn't bet)
+Seat 2: ayustan728 (button) folded before Flop (didn't bet)
+Seat 3: Gorniak A (small blind) folded before Flop
+Seat 4: nadokesh (big blind) folded before Flop
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: OTBET-42 folded before Flop (didn't bet)
+Seat 7: Povelitel100 collected ($0.28)
+Seat 8: cjral333 folded on the Turn
+Seat 9: ivan69252 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233215037234:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/16 23:57:09 PT [2022/01/17 2:57:09 ET]
+Table 'Katja' 9-max Seat #3 is the button
+Seat 1: dudoippon ($2.79 in chips) 
+Seat 3: Gorniak A ($2.51 in chips) 
+Seat 4: nadokesh ($2.05 in chips) 
+Seat 5: Dorex2007 ($2 in chips) 
+Seat 6: OTBET-42 ($1.87 in chips) 
+Seat 7: Povelitel100 ($0.62 in chips) 
+Seat 8: cjral333 ($2.83 in chips) 
+Seat 9: ivan69252 ($0.56 in chips) 
+nadokesh: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Jd]
+OTBET-42: calls $0.02
+Povelitel100: raises $0.04 to $0.06
+cjral333: folds 
+ivan69252: folds 
+dudoippon: folds 
+Gorniak A: folds 
+nadokesh: folds 
+Dorex2007: calls $0.04
+OTBET-42: calls $0.04
+*** FLOP *** [4d 8c 7c]
+Dorex2007: bets $0.18
+OTBET-42: folds 
+Povelitel100: folds 
+Uncalled bet ($0.18) returned to Dorex2007
+Dorex2007 collected $0.18 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [4d 8c 7c]
+Seat 1: dudoippon folded before Flop (didn't bet)
+Seat 3: Gorniak A (button) folded before Flop (didn't bet)
+Seat 4: nadokesh (small blind) folded before Flop
+Seat 5: Dorex2007 (big blind) collected ($0.18)
+Seat 6: OTBET-42 folded on the Flop
+Seat 7: Povelitel100 folded on the Flop
+Seat 8: cjral333 folded before Flop (didn't bet)
+Seat 9: ivan69252 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233215042291:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/16 23:57:47 PT [2022/01/17 2:57:47 ET]
+Table 'Katja' 9-max Seat #4 is the button
+Seat 1: dudoippon ($2.79 in chips) 
+Seat 3: Gorniak A ($2.51 in chips) 
+Seat 4: nadokesh ($2.04 in chips) 
+Seat 5: Dorex2007 ($2.12 in chips) 
+Seat 7: Povelitel100 ($0.56 in chips) 
+Seat 8: cjral333 ($2.83 in chips) 
+Seat 9: ivan69252 ($0.56 in chips) 
+Dorex2007: posts small blind $0.01
+OTBET-42: is sitting out 
+Povelitel100: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 8h]
+OTBET-42 leaves the table
+cjral333: calls $0.02
+ivan69252: folds 
+dudoippon: folds 
+Gorniak A: folds 
+nadokesh: raises $0.07 to $0.09
+Dorex2007: folds 
+Povelitel100: calls $0.07
+cjral333: calls $0.07
+*** FLOP *** [6s 6d 9h]
+Povelitel100: checks 
+cjral333: checks 
+nadokesh: bets $0.18
+Povelitel100: folds 
+cjral333: folds 
+Uncalled bet ($0.18) returned to nadokesh
+nadokesh collected $0.27 from pot
+nadokesh: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [6s 6d 9h]
+Seat 1: dudoippon folded before Flop (didn't bet)
+Seat 3: Gorniak A folded before Flop (didn't bet)
+Seat 4: nadokesh (button) collected ($0.27)
+Seat 5: Dorex2007 (small blind) folded before Flop
+Seat 7: Povelitel100 (big blind) folded on the Flop
+Seat 8: cjral333 folded on the Flop
+Seat 9: ivan69252 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233215047669:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/16 23:58:27 PT [2022/01/17 2:58:27 ET]
+Table 'Katja' 9-max Seat #5 is the button
+Seat 1: dudoippon ($2.79 in chips) 
+Seat 2: ayustan728 ($1.48 in chips) 
+Seat 3: Gorniak A ($2.51 in chips) 
+Seat 4: nadokesh ($2.22 in chips) 
+Seat 5: Dorex2007 ($2.11 in chips) 
+Seat 7: Povelitel100 ($0.47 in chips) 
+Seat 8: cjral333 ($2.74 in chips) 
+Seat 9: ivan69252 ($0.56 in chips) 
+Povelitel100: posts small blind $0.01
+cjral333: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 5h]
+ivan69252: calls $0.02
+dudoippon has timed out
+dudoippon: folds 
+ayustan728: calls $0.02
+Gorniak A: folds 
+nadokesh: folds 
+Dorex2007: folds 
+Povelitel100: calls $0.01
+cjral333: checks 
+*** FLOP *** [Ts Qc Ac]
+Gorniak A leaves the table
+Povelitel100: bets $0.04
+cjral333: folds 
+ivan69252: calls $0.04
+cjral333 leaves the table
+ayustan728: calls $0.04
+*** TURN *** [Ts Qc Ac] [4c]
+Povelitel100: bets $0.09
+ivan69252: calls $0.09
+ayustan728: calls $0.09
+*** RIVER *** [Ts Qc Ac 4c] [Jc]
+Povelitel100: checks 
+ivan69252: bets $0.41 and is all-in
+ayustan728: calls $0.41
+Povelitel100: calls $0.32 and is all-in
+BlackWinegum joins the table at seat #3 
+*** SHOW DOWN ***
+ivan69252: shows [Qs 8c] (a flush, Ace high)
+ayustan728: shows [6d As] (a pair of Aces)
+ivan69252 collected $0.17 from side pot
+Povelitel100: shows [2c Ad] (a flush, Ace high - lower cards)
+ivan69252 collected $1.38 from main pot
+*** SUMMARY ***
+Total pot $1.61 Main pot $1.38. Side pot $0.17. | Rake $0.06 
+Board [Ts Qc Ac 4c Jc]
+Seat 1: dudoippon folded before Flop (didn't bet)
+Seat 2: ayustan728 showed [6d As] and lost with a pair of Aces
+Seat 3: Gorniak A folded before Flop (didn't bet)
+Seat 4: nadokesh folded before Flop (didn't bet)
+Seat 5: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: Povelitel100 (small blind) showed [2c Ad] and lost with a flush, Ace high
+Seat 8: cjral333 (big blind) folded on the Flop
+Seat 9: ivan69252 showed [Qs 8c] and won ($1.55) with a flush, Ace high
+
+
+
+PokerStars Hand #233215053999:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/16 23:59:14 PT [2022/01/17 2:59:14 ET]
+Table 'Katja' 9-max Seat #9 is the button
+Seat 1: dudoippon ($2.79 in chips) 
+Seat 2: ayustan728 ($0.92 in chips) 
+Seat 4: nadokesh ($2.22 in chips) 
+Seat 5: Dorex2007 ($2.11 in chips) 
+Seat 9: ivan69252 ($1.55 in chips) 
+dudoippon: posts small blind $0.01
+ayustan728: posts big blind $0.02
+BlackWinegum: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 3c]
+nadokesh: folds 
+Dorex2007: folds 
+Povelitel100 leaves the table
+ivan69252: folds 
+dudoippon: folds 
+Uncalled bet ($0.01) returned to ayustan728
+ayustan728 collected $0.02 from pot
+ayustan728: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: dudoippon (small blind) folded before Flop
+Seat 2: ayustan728 (big blind) collected ($0.02)
+Seat 4: nadokesh folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 9: ivan69252 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233215055745:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/16 23:59:26 PT [2022/01/17 2:59:26 ET]
+Table 'Katja' 9-max Seat #1 is the button
+Seat 1: dudoippon ($2.78 in chips) 
+Seat 2: ayustan728 ($0.93 in chips) 
+Seat 3: BlackWinegum ($1.60 in chips) 
+Seat 4: nadokesh ($2.22 in chips) 
+Seat 5: Dorex2007 ($2.11 in chips) 
+Seat 9: ivan69252 ($1.55 in chips) 
+ayustan728: posts small blind $0.01
+BlackWinegum: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Ad]
+nadokesh: folds 
+Dorex2007: raises $0.02 to $0.04
+ivan69252: folds 
+ivan69252 leaves the table
+dudoippon has timed out
+dudoippon: folds 
+ayustan728: folds 
+BlackWinegum: folds 
+Uncalled bet ($0.02) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: dudoippon (button) folded before Flop (didn't bet)
+Seat 2: ayustan728 (small blind) folded before Flop
+Seat 3: BlackWinegum (big blind) folded before Flop
+Seat 4: nadokesh folded before Flop (didn't bet)
+Seat 5: Dorex2007 collected ($0.05)
+Seat 9: ivan69252 folded before Flop (didn't bet)
+
+
+
