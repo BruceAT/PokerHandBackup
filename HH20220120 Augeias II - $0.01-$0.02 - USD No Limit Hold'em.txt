@@ -1,0 +1,3717 @@
+﻿PokerStars Hand #233328030646:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:23:52 PT [2022/01/20 19:23:52 ET]
+Table 'Augeias II' 9-max Seat #9 is the button
+Seat 1: andrei09_ibm ($0.78 in chips) 
+Seat 3: Freshsplash ($0.60 in chips) 
+Seat 4: romqa89 ($1.69 in chips) 
+Seat 5: pelao718 ($1.10 in chips) 
+Seat 6: bch_12345 ($1.93 in chips) 
+Seat 7: mous1030 ($1.31 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: kevinklay ($1.20 in chips) 
+andrei09_ibm: posts small blind $0.01
+el_tchatcho: is sitting out 
+Freshsplash: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Jh]
+romqa89: folds 
+pelao718: folds 
+bch_12345: folds 
+mous1030: raises $0.03 to $0.05
+Dorex2007: folds 
+kevinklay: folds 
+andrei09_ibm: folds 
+Freshsplash: folds 
+Uncalled bet ($0.03) returned to mous1030
+mous1030 collected $0.07 from pot
+mous1030: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: andrei09_ibm (small blind) folded before Flop
+Seat 3: Freshsplash (big blind) folded before Flop
+Seat 4: romqa89 folded before Flop (didn't bet)
+Seat 5: pelao718 folded before Flop (didn't bet)
+Seat 6: bch_12345 folded before Flop (didn't bet)
+Seat 7: mous1030 collected ($0.07)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: kevinklay (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233328037607:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:24:12 PT [2022/01/20 19:24:12 ET]
+Table 'Augeias II' 9-max Seat #1 is the button
+Seat 1: andrei09_ibm ($0.77 in chips) 
+Seat 3: Freshsplash ($0.58 in chips) 
+Seat 4: romqa89 ($1.69 in chips) 
+Seat 5: pelao718 ($1.10 in chips) 
+Seat 6: bch_12345 ($1.93 in chips) 
+Seat 7: mous1030 ($1.36 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: kevinklay ($1.20 in chips) 
+Freshsplash: posts small blind $0.01
+romqa89: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Jh]
+pelao718: folds 
+bch_12345: folds 
+mous1030: folds 
+Dorex2007: folds 
+kevinklay: calls $0.02
+andrei09_ibm: calls $0.02
+Freshsplash: calls $0.01
+romqa89: checks 
+*** FLOP *** [2c 5d Js]
+Freshsplash: checks 
+romqa89: checks 
+kevinklay: bets $0.04
+andrei09_ibm: folds 
+Freshsplash: folds 
+romqa89: folds 
+Uncalled bet ($0.04) returned to kevinklay
+kevinklay collected $0.08 from pot
+kevinklay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [2c 5d Js]
+Seat 1: andrei09_ibm (button) folded on the Flop
+Seat 3: Freshsplash (small blind) folded on the Flop
+Seat 4: romqa89 (big blind) folded on the Flop
+Seat 5: pelao718 folded before Flop (didn't bet)
+Seat 6: bch_12345 folded before Flop (didn't bet)
+Seat 7: mous1030 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: kevinklay collected ($0.08)
+
+
+
+PokerStars Hand #233328049663:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:24:47 PT [2022/01/20 19:24:47 ET]
+Table 'Augeias II' 9-max Seat #3 is the button
+Seat 1: andrei09_ibm ($0.75 in chips) 
+Seat 2: el_tchatcho ($0.81 in chips) 
+Seat 3: Freshsplash ($0.56 in chips) 
+Seat 4: romqa89 ($1.67 in chips) 
+Seat 5: pelao718 ($1.10 in chips) 
+Seat 6: bch_12345 ($1.93 in chips) 
+Seat 7: mous1030 ($1.36 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: kevinklay ($1.26 in chips) 
+romqa89: posts small blind $0.01
+pelao718: posts big blind $0.02
+el_tchatcho: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 6c]
+bch_12345: folds 
+mous1030: folds 
+Dorex2007: folds 
+kevinklay: calls $0.02
+andrei09_ibm: folds 
+el_tchatcho: checks 
+Freshsplash: folds 
+romqa89: folds 
+pelao718: checks 
+*** FLOP *** [6h Kc 4d]
+pelao718: checks 
+kevinklay: bets $0.02
+el_tchatcho: folds 
+pelao718: calls $0.02
+*** TURN *** [6h Kc 4d] [Kd]
+pelao718: checks 
+kevinklay: bets $0.02
+pelao718: calls $0.02
+*** RIVER *** [6h Kc 4d Kd] [Qd]
+pelao718: checks 
+kevinklay: checks 
+*** SHOW DOWN ***
+pelao718: shows [Jc 6s] (two pair, Kings and Sixes)
+kevinklay: shows [As Ad] (two pair, Aces and Kings)
+kevinklay collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [6h Kc 4d Kd Qd]
+Seat 1: andrei09_ibm folded before Flop (didn't bet)
+Seat 2: el_tchatcho folded on the Flop (didn't bet)
+Seat 3: Freshsplash (button) folded before Flop (didn't bet)
+Seat 4: romqa89 (small blind) folded before Flop
+Seat 5: pelao718 (big blind) showed [Jc 6s] and lost with two pair, Kings and Sixes
+Seat 6: bch_12345 folded before Flop (didn't bet)
+Seat 7: mous1030 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: kevinklay showed [As Ad] and won ($0.15) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #233328064992:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:25:31 PT [2022/01/20 19:25:31 ET]
+Table 'Augeias II' 9-max Seat #4 is the button
+Seat 1: andrei09_ibm ($0.75 in chips) 
+Seat 2: el_tchatcho ($0.78 in chips) 
+Seat 3: Freshsplash ($0.56 in chips) 
+Seat 4: romqa89 ($1.66 in chips) 
+Seat 5: pelao718 ($1.04 in chips) 
+Seat 6: bch_12345 ($1.93 in chips) 
+Seat 7: mous1030 ($1.36 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: kevinklay ($1.35 in chips) 
+pelao718: posts small blind $0.01
+bch_12345: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Td]
+mous1030: folds 
+Dorex2007: folds 
+kevinklay: calls $0.02
+andrei09_ibm: folds 
+el_tchatcho: folds 
+Freshsplash: folds 
+romqa89: raises $0.06 to $0.08
+pelao718: folds 
+bch_12345: folds 
+kevinklay: calls $0.06
+*** FLOP *** [Js Ah Qd]
+kevinklay: checks 
+romqa89: checks 
+*** TURN *** [Js Ah Qd] [4h]
+kevinklay: checks 
+romqa89: bets $0.10
+kevinklay: calls $0.10
+*** RIVER *** [Js Ah Qd 4h] [3s]
+kevinklay: checks 
+romqa89: bets $0.14
+kevinklay: folds 
+Uncalled bet ($0.14) returned to romqa89
+romqa89 collected $0.38 from pot
+romqa89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [Js Ah Qd 4h 3s]
+Seat 1: andrei09_ibm folded before Flop (didn't bet)
+Seat 2: el_tchatcho folded before Flop (didn't bet)
+Seat 3: Freshsplash folded before Flop (didn't bet)
+Seat 4: romqa89 (button) collected ($0.38)
+Seat 5: pelao718 (small blind) folded before Flop
+Seat 6: bch_12345 (big blind) folded before Flop
+Seat 7: mous1030 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: kevinklay folded on the River
+
+
+
+PokerStars Hand #233328084128:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:26:25 PT [2022/01/20 19:26:25 ET]
+Table 'Augeias II' 9-max Seat #5 is the button
+Seat 1: andrei09_ibm ($0.75 in chips) 
+Seat 2: el_tchatcho ($0.78 in chips) 
+Seat 3: Freshsplash ($0.56 in chips) 
+Seat 4: romqa89 ($1.86 in chips) 
+Seat 5: pelao718 ($1.03 in chips) 
+Seat 6: bch_12345 ($1.91 in chips) 
+Seat 7: mous1030 ($1.36 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: kevinklay ($1.17 in chips) 
+bch_12345: posts small blind $0.01
+mous1030: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 5d]
+Dorex2007: folds 
+kevinklay: folds 
+andrei09_ibm: folds 
+el_tchatcho: raises $0.02 to $0.04
+Freshsplash: folds 
+romqa89: folds 
+pelao718: calls $0.04
+bch_12345: folds 
+mous1030: calls $0.02
+*** FLOP *** [5c 6s 7h]
+mous1030: checks 
+el_tchatcho: checks 
+pelao718: checks 
+*** TURN *** [5c 6s 7h] [Js]
+mous1030: checks 
+el_tchatcho: checks 
+pelao718: bets $0.14
+mous1030: folds 
+el_tchatcho: folds 
+Uncalled bet ($0.14) returned to pelao718
+pelao718 collected $0.13 from pot
+pelao718: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5c 6s 7h Js]
+Seat 1: andrei09_ibm folded before Flop (didn't bet)
+Seat 2: el_tchatcho folded on the Turn
+Seat 3: Freshsplash folded before Flop (didn't bet)
+Seat 4: romqa89 folded before Flop (didn't bet)
+Seat 5: pelao718 (button) collected ($0.13)
+Seat 6: bch_12345 (small blind) folded before Flop
+Seat 7: mous1030 (big blind) folded on the Turn
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: kevinklay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233328114281:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:27:25 PT [2022/01/20 19:27:25 ET]
+Table 'Augeias II' 9-max Seat #6 is the button
+Seat 1: andrei09_ibm ($0.75 in chips) 
+Seat 2: el_tchatcho ($0.74 in chips) 
+Seat 3: Freshsplash ($0.56 in chips) 
+Seat 4: romqa89 ($1.86 in chips) 
+Seat 5: pelao718 ($1.12 in chips) 
+Seat 6: bch_12345 ($1.90 in chips) 
+Seat 7: mous1030 ($1.32 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: kevinklay ($1.17 in chips) 
+mous1030: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Ad]
+kevinklay: folds 
+andrei09_ibm: folds 
+el_tchatcho: folds 
+Freshsplash: folds 
+romqa89: folds 
+pelao718: folds 
+bch_12345: folds 
+mous1030: calls $0.01
+Dorex2007: raises $0.06 to $0.08
+mous1030: calls $0.06
+*** FLOP *** [3d 9s Jh]
+mous1030: checks 
+Dorex2007: checks 
+*** TURN *** [3d 9s Jh] [7c]
+mous1030: checks 
+Dorex2007: bets $0.08
+mous1030: calls $0.08
+*** RIVER *** [3d 9s Jh 7c] [Kc]
+mous1030: checks 
+Dorex2007: bets $0.16
+mous1030: folds 
+Uncalled bet ($0.16) returned to Dorex2007
+Dorex2007 collected $0.31 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [3d 9s Jh 7c Kc]
+Seat 1: andrei09_ibm folded before Flop (didn't bet)
+Seat 2: el_tchatcho folded before Flop (didn't bet)
+Seat 3: Freshsplash folded before Flop (didn't bet)
+Seat 4: romqa89 folded before Flop (didn't bet)
+Seat 5: pelao718 folded before Flop (didn't bet)
+Seat 6: bch_12345 (button) folded before Flop (didn't bet)
+Seat 7: mous1030 (small blind) folded on the River
+Seat 8: Dorex2007 (big blind) collected ($0.31)
+Seat 9: kevinklay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233328130019:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:28:10 PT [2022/01/20 19:28:10 ET]
+Table 'Augeias II' 9-max Seat #7 is the button
+Seat 1: andrei09_ibm ($0.75 in chips) 
+Seat 2: el_tchatcho ($0.74 in chips) 
+Seat 3: Freshsplash ($0.56 in chips) 
+Seat 4: romqa89 ($1.86 in chips) 
+Seat 5: pelao718 ($1.12 in chips) 
+Seat 6: bch_12345 ($1.90 in chips) 
+Seat 7: mous1030 ($1.16 in chips) 
+Seat 8: Dorex2007 ($2.15 in chips) 
+Seat 9: kevinklay ($1.17 in chips) 
+Dorex2007: posts small blind $0.01
+kevinklay: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 3d]
+andrei09_ibm has timed out
+andrei09_ibm: folds 
+el_tchatcho: folds 
+Freshsplash: folds 
+romqa89: folds 
+pelao718: folds 
+bch_12345: folds 
+mous1030: calls $0.02
+Dorex2007: folds 
+kevinklay: checks 
+*** FLOP *** [7d 9d 5c]
+kevinklay: bets $0.02
+mous1030: raises $0.02 to $0.04
+kevinklay: calls $0.02
+*** TURN *** [7d 9d 5c] [Jh]
+kevinklay: bets $0.02
+mous1030: raises $0.06 to $0.08
+kevinklay: calls $0.06
+*** RIVER *** [7d 9d 5c Jh] [9c]
+kevinklay: checks 
+mous1030: bets $0.24
+kevinklay: folds 
+Uncalled bet ($0.24) returned to mous1030
+mous1030 collected $0.28 from pot
+mous1030: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [7d 9d 5c Jh 9c]
+Seat 1: andrei09_ibm folded before Flop (didn't bet)
+Seat 2: el_tchatcho folded before Flop (didn't bet)
+Seat 3: Freshsplash folded before Flop (didn't bet)
+Seat 4: romqa89 folded before Flop (didn't bet)
+Seat 5: pelao718 folded before Flop (didn't bet)
+Seat 6: bch_12345 folded before Flop (didn't bet)
+Seat 7: mous1030 (button) collected ($0.28)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: kevinklay (big blind) folded on the River
+
+
+
+PokerStars Hand #233328149254:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:29:05 PT [2022/01/20 19:29:05 ET]
+Table 'Augeias II' 9-max Seat #8 is the button
+Seat 3: Freshsplash ($0.56 in chips) 
+Seat 4: romqa89 ($1.86 in chips) 
+Seat 5: pelao718 ($1.12 in chips) 
+Seat 6: bch_12345 ($1.90 in chips) 
+Seat 7: mous1030 ($1.30 in chips) 
+Seat 8: Dorex2007 ($2.14 in chips) 
+Seat 9: kevinklay ($1.03 in chips) 
+el_tchatcho is disconnected 
+kevinklay: posts small blind $0.01
+el_tchatcho has timed out while disconnected
+el_tchatcho: is sitting out 
+Freshsplash: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 3s]
+romqa89: folds 
+pelao718: folds 
+bch_12345: calls $0.02
+mous1030: folds 
+Dorex2007: folds 
+kevinklay: calls $0.01
+Freshsplash: checks 
+*** FLOP *** [Tc 3h 6c]
+kevinklay: bets $0.02
+Freshsplash: folds 
+bch_12345: calls $0.02
+*** TURN *** [Tc 3h 6c] [5c]
+kevinklay: bets $0.08
+bch_12345: folds 
+Uncalled bet ($0.08) returned to kevinklay
+kevinklay collected $0.10 from pot
+kevinklay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Tc 3h 6c 5c]
+Seat 3: Freshsplash (big blind) folded on the Flop
+Seat 4: romqa89 folded before Flop (didn't bet)
+Seat 5: pelao718 folded before Flop (didn't bet)
+Seat 6: bch_12345 folded on the Turn
+Seat 7: mous1030 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: kevinklay (small blind) collected ($0.10)
+
+
+
+PokerStars Hand #233328166137:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:29:54 PT [2022/01/20 19:29:54 ET]
+Table 'Augeias II' 9-max Seat #9 is the button
+Seat 3: Freshsplash ($0.54 in chips) 
+Seat 4: romqa89 ($1.86 in chips) 
+Seat 5: pelao718 ($1.12 in chips) 
+Seat 6: bch_12345 ($1.86 in chips) 
+Seat 7: mous1030 ($1.30 in chips) 
+Seat 8: Dorex2007 ($2.14 in chips) 
+Seat 9: kevinklay ($1.09 in chips) 
+Freshsplash: posts small blind $0.01
+romqa89: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 8c]
+pelao718: folds 
+bch_12345: raises $0.04 to $0.06
+mous1030: calls $0.06
+Dorex2007: folds 
+kevinklay: folds 
+Freshsplash: folds 
+romqa89: folds 
+*** FLOP *** [2s Jd Kc]
+bch_12345: checks 
+mous1030: checks 
+*** TURN *** [2s Jd Kc] [Qd]
+bch_12345: checks 
+mous1030: checks 
+*** RIVER *** [2s Jd Kc Qd] [Qh]
+bch_12345: bets $0.02
+mous1030: calls $0.02
+*** SHOW DOWN ***
+bch_12345: shows [5s 5h] (two pair, Queens and Fives)
+mous1030: mucks hand 
+bch_12345 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [2s Jd Kc Qd Qh]
+Seat 3: Freshsplash (small blind) folded before Flop
+Seat 4: romqa89 (big blind) folded before Flop
+Seat 5: pelao718 folded before Flop (didn't bet)
+Seat 6: bch_12345 showed [5s 5h] and won ($0.18) with two pair, Queens and Fives
+Seat 7: mous1030 mucked [6s Ad]
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: kevinklay (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233328180139:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:30:36 PT [2022/01/20 19:30:36 ET]
+Table 'Augeias II' 9-max Seat #3 is the button
+Seat 2: el_tchatcho ($0.74 in chips) 
+Seat 3: Freshsplash ($0.53 in chips) 
+Seat 4: romqa89 ($1.84 in chips) 
+Seat 5: pelao718 ($1.12 in chips) 
+Seat 6: bch_12345 ($1.96 in chips) 
+Seat 7: mous1030 ($1.22 in chips) 
+Seat 8: Dorex2007 ($2.14 in chips) 
+Seat 9: kevinklay ($1.09 in chips) 
+romqa89: posts small blind $0.01
+pelao718: posts big blind $0.02
+el_tchatcho: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 2s]
+bch_12345: folds 
+mous1030: folds 
+Dorex2007: folds 
+kevinklay: calls $0.02
+el_tchatcho: checks 
+Freshsplash: folds 
+romqa89: calls $0.01
+pelao718: checks 
+*** FLOP *** [9h 6h 4d]
+romqa89: checks 
+pelao718: bets $0.02
+kevinklay: folds 
+el_tchatcho: calls $0.02
+romqa89: calls $0.02
+*** TURN *** [9h 6h 4d] [Td]
+romqa89: checks 
+pelao718: bets $0.20
+el_tchatcho: calls $0.20
+romqa89: folds 
+*** RIVER *** [9h 6h 4d Td] [6c]
+pelao718: bets $0.25
+el_tchatcho: folds 
+Uncalled bet ($0.25) returned to pelao718
+pelao718 collected $0.53 from pot
+pelao718: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [9h 6h 4d Td 6c]
+Seat 2: el_tchatcho folded on the River
+Seat 3: Freshsplash (button) folded before Flop (didn't bet)
+Seat 4: romqa89 (small blind) folded on the Turn
+Seat 5: pelao718 (big blind) collected ($0.53)
+Seat 6: bch_12345 folded before Flop (didn't bet)
+Seat 7: mous1030 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: kevinklay folded on the Flop
+
+
+
+PokerStars Hand #233328205285:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:31:49 PT [2022/01/20 19:31:49 ET]
+Table 'Augeias II' 9-max Seat #4 is the button
+Seat 2: el_tchatcho ($0.49 in chips) 
+Seat 3: Freshsplash ($0.53 in chips) 
+Seat 4: romqa89 ($1.80 in chips) 
+Seat 5: pelao718 ($1.41 in chips) 
+Seat 6: bch_12345 ($1.96 in chips) 
+Seat 7: mous1030 ($1.22 in chips) 
+Seat 8: Dorex2007 ($2.14 in chips) 
+Seat 9: kevinklay ($1.07 in chips) 
+pelao718: posts small blind $0.01
+bch_12345: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 4c]
+mous1030: folds 
+Dorex2007: folds 
+kevinklay: folds 
+el_tchatcho: folds 
+Freshsplash: folds 
+romqa89: folds 
+pelao718: calls $0.01
+bch_12345: checks 
+*** FLOP *** [6h 4d 3h]
+pelao718: bets $0.02
+bch_12345: calls $0.02
+*** TURN *** [6h 4d 3h] [4h]
+pelao718: bets $0.02
+bch_12345: raises $0.06 to $0.08
+pelao718: raises $0.06 to $0.14
+andrei09_ibm leaves the table
+bch_12345: calls $0.06
+*** RIVER *** [6h 4d 3h 4h] [2d]
+pelao718: bets $0.35
+bch_12345: folds 
+Uncalled bet ($0.35) returned to pelao718
+pelao718 collected $0.35 from pot
+pelao718: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [6h 4d 3h 4h 2d]
+Seat 2: el_tchatcho folded before Flop (didn't bet)
+Seat 3: Freshsplash folded before Flop (didn't bet)
+Seat 4: romqa89 (button) folded before Flop (didn't bet)
+Seat 5: pelao718 (small blind) collected ($0.35)
+Seat 6: bch_12345 (big blind) folded on the River
+Seat 7: mous1030 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: kevinklay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233328224522:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:32:45 PT [2022/01/20 19:32:45 ET]
+Table 'Augeias II' 9-max Seat #5 is the button
+Seat 2: el_tchatcho ($0.49 in chips) 
+Seat 3: Freshsplash ($0.53 in chips) 
+Seat 4: romqa89 ($1.80 in chips) 
+Seat 5: pelao718 ($1.58 in chips) 
+Seat 6: bch_12345 ($1.78 in chips) 
+Seat 7: mous1030 ($1.22 in chips) 
+Seat 8: Dorex2007 ($2.14 in chips) 
+Seat 9: kevinklay ($1.07 in chips) 
+bch_12345: posts small blind $0.01
+mous1030: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Kd]
+Dorex2007: raises $0.02 to $0.04
+kevinklay: calls $0.04
+el_tchatcho: folds 
+Freshsplash: folds 
+romqa89: folds 
+pelao718: folds 
+bch_12345: folds 
+mous1030: calls $0.02
+*** FLOP *** [9s 2c Ks]
+mous1030: checks 
+boyjunction joins the table at seat #1 
+Dorex2007: bets $0.13
+kevinklay: folds 
+mous1030: folds 
+Uncalled bet ($0.13) returned to Dorex2007
+Dorex2007 collected $0.13 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9s 2c Ks]
+Seat 2: el_tchatcho folded before Flop (didn't bet)
+Seat 3: Freshsplash folded before Flop (didn't bet)
+Seat 4: romqa89 folded before Flop (didn't bet)
+Seat 5: pelao718 (button) folded before Flop (didn't bet)
+Seat 6: bch_12345 (small blind) folded before Flop
+Seat 7: mous1030 (big blind) folded on the Flop
+Seat 8: Dorex2007 collected ($0.13)
+Seat 9: kevinklay folded on the Flop
+
+
+
+PokerStars Hand #233328234901:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:33:16 PT [2022/01/20 19:33:16 ET]
+Table 'Augeias II' 9-max Seat #6 is the button
+Seat 2: el_tchatcho ($0.49 in chips) 
+Seat 3: Freshsplash ($0.53 in chips) 
+Seat 4: romqa89 ($1.80 in chips) 
+Seat 5: pelao718 ($1.58 in chips) 
+Seat 6: bch_12345 ($1.77 in chips) 
+Seat 7: mous1030 ($1.18 in chips) 
+Seat 8: Dorex2007 ($2.23 in chips) 
+Seat 9: kevinklay ($1.03 in chips) 
+mous1030: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+boyjunction: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Ac]
+kevinklay: folds 
+el_tchatcho: folds 
+Freshsplash: folds 
+romqa89: folds 
+pelao718: calls $0.02
+bch_12345: calls $0.02
+mous1030: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [7s Tc 6d]
+mous1030: checks 
+Dorex2007: checks 
+pelao718: bets $0.12
+bch_12345: calls $0.12
+mous1030: folds 
+Dorex2007: folds 
+*** TURN *** [7s Tc 6d] [Ts]
+pelao718: bets $0.55
+bch_12345: raises $1.08 to $1.63 and is all-in
+pelao718: calls $0.89 and is all-in
+Uncalled bet ($0.19) returned to bch_12345
+*** RIVER *** [7s Tc 6d Ts] [2d]
+*** SHOW DOWN ***
+pelao718: shows [Td Ks] (three of a kind, Tens)
+bch_12345: shows [8s 9h] (a straight, Six to Ten)
+bch_12345 cashed out the hand for $2.36 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $3.20 | Rake $0.11 
+Board [7s Tc 6d Ts 2d]
+Seat 2: el_tchatcho folded before Flop (didn't bet)
+Seat 3: Freshsplash folded before Flop (didn't bet)
+Seat 4: romqa89 folded before Flop (didn't bet)
+Seat 5: pelao718 showed [Td Ks] and lost with three of a kind, Tens
+Seat 6: bch_12345 (button) showed [8s 9h] and won ($3.09) with a straight, Six to Ten (pot not awarded as player cashed out)
+Seat 7: mous1030 (small blind) folded on the Flop
+Seat 8: Dorex2007 (big blind) folded on the Flop
+Seat 9: kevinklay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233328260186:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:34:25 PT [2022/01/20 19:34:25 ET]
+Table 'Augeias II' 9-max Seat #7 is the button
+Seat 2: el_tchatcho ($0.49 in chips) 
+Seat 3: Freshsplash ($0.53 in chips) 
+Seat 4: romqa89 ($1.80 in chips) 
+Seat 6: bch_12345 ($2.55 in chips) 
+Seat 7: mous1030 ($1.16 in chips) 
+Seat 8: Dorex2007 ($2.21 in chips) 
+Seat 9: kevinklay ($1.03 in chips) 
+Dorex2007: posts small blind $0.01
+kevinklay: posts big blind $0.02
+boyjunction: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 2h]
+el_tchatcho: folds 
+Freshsplash: folds 
+romqa89: folds 
+bch_12345: raises $0.04 to $0.06
+mous1030: folds 
+Dorex2007: folds 
+kevinklay: calls $0.04
+*** FLOP *** [8c Kh As]
+pelao718 leaves the table
+kevinklay: checks 
+bch_12345: bets $0.04
+kevinklay: calls $0.04
+*** TURN *** [8c Kh As] [Ah]
+kevinklay: checks 
+ilovesomuchh joins the table at seat #5 
+bch_12345: checks 
+*** RIVER *** [8c Kh As Ah] [5c]
+kevinklay: bets $0.93 and is all-in
+bch_12345: folds 
+Uncalled bet ($0.93) returned to kevinklay
+kevinklay collected $0.20 from pot
+kevinklay: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [8c Kh As Ah 5c]
+Seat 2: el_tchatcho folded before Flop (didn't bet)
+Seat 3: Freshsplash folded before Flop (didn't bet)
+Seat 4: romqa89 folded before Flop (didn't bet)
+Seat 6: bch_12345 folded on the River
+Seat 7: mous1030 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: kevinklay (big blind) collected ($0.20)
+
+
+
+PokerStars Hand #233328278376:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:35:19 PT [2022/01/20 19:35:19 ET]
+Table 'Augeias II' 9-max Seat #8 is the button
+Seat 1: boyjunction ($1.60 in chips) 
+Seat 2: el_tchatcho ($0.49 in chips) 
+Seat 3: Freshsplash ($0.53 in chips) 
+Seat 4: romqa89 ($1.80 in chips) 
+Seat 6: bch_12345 ($2.45 in chips) 
+Seat 7: mous1030 ($1.16 in chips) 
+Seat 8: Dorex2007 ($2.20 in chips) 
+Seat 9: kevinklay ($1.13 in chips) 
+kevinklay: posts small blind $0.01
+boyjunction: posts big blind $0.02
+ilovesomuchh: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 2h]
+el_tchatcho: folds 
+Freshsplash: folds 
+romqa89: folds 
+bch_12345: folds 
+mous1030: raises $0.06 to $0.08
+Dorex2007: folds 
+kevinklay: calls $0.07
+boyjunction: calls $0.06
+*** FLOP *** [9h Ts 4s]
+kevinklay: checks 
+boyjunction: checks 
+mous1030: bets $0.08
+kevinklay: folds 
+boyjunction: calls $0.08
+*** TURN *** [9h Ts 4s] [8d]
+boyjunction: checks 
+mous1030: checks 
+*** RIVER *** [9h Ts 4s 8d] [3h]
+boyjunction: checks 
+mous1030: checks 
+*** SHOW DOWN ***
+boyjunction: shows [8c Jc] (a pair of Eights)
+mous1030: shows [Qs 8s] (a pair of Eights - Queen kicker)
+mous1030 collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [9h Ts 4s 8d 3h]
+Seat 1: boyjunction (big blind) showed [8c Jc] and lost with a pair of Eights
+Seat 2: el_tchatcho folded before Flop (didn't bet)
+Seat 3: Freshsplash folded before Flop (didn't bet)
+Seat 4: romqa89 folded before Flop (didn't bet)
+Seat 6: bch_12345 folded before Flop (didn't bet)
+Seat 7: mous1030 showed [Qs 8s] and won ($0.39) with a pair of Eights
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: kevinklay (small blind) folded on the Flop
+
+
+
+PokerStars Hand #233328297183:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:36:14 PT [2022/01/20 19:36:14 ET]
+Table 'Augeias II' 9-max Seat #9 is the button
+Seat 1: boyjunction ($1.44 in chips) 
+Seat 2: el_tchatcho ($0.49 in chips) 
+Seat 3: Freshsplash ($0.53 in chips) 
+Seat 4: romqa89 ($1.80 in chips) 
+Seat 6: bch_12345 ($2.45 in chips) 
+Seat 7: mous1030 ($1.39 in chips) 
+Seat 8: Dorex2007 ($2.20 in chips) 
+Seat 9: kevinklay ($1.05 in chips) 
+boyjunction: posts small blind $0.01
+el_tchatcho: posts big blind $0.02
+ilovesomuchh: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 6h]
+Freshsplash: folds 
+romqa89: folds 
+bch_12345: folds 
+mous1030: raises $0.03 to $0.05
+Dorex2007: folds 
+kevinklay: folds 
+boyjunction: calls $0.04
+el_tchatcho: folds 
+*** FLOP *** [7s 5s Jc]
+boyjunction: bets $0.06
+mous1030: raises $0.06 to $0.12
+boyjunction: calls $0.06
+*** TURN *** [7s 5s Jc] [Ad]
+boyjunction: checks 
+mous1030: bets $0.12
+boyjunction: calls $0.12
+*** RIVER *** [7s 5s Jc Ad] [9d]
+boyjunction: checks 
+mous1030: checks 
+*** SHOW DOWN ***
+boyjunction: shows [Js Kh] (a pair of Jacks)
+mous1030: mucks hand 
+boyjunction collected $0.58 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [7s 5s Jc Ad 9d]
+Seat 1: boyjunction (small blind) showed [Js Kh] and won ($0.58) with a pair of Jacks
+Seat 2: el_tchatcho (big blind) folded before Flop
+Seat 3: Freshsplash folded before Flop (didn't bet)
+Seat 4: romqa89 folded before Flop (didn't bet)
+Seat 6: bch_12345 folded before Flop (didn't bet)
+Seat 7: mous1030 mucked [6d 7d]
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: kevinklay (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233328317492:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:37:14 PT [2022/01/20 19:37:14 ET]
+Table 'Augeias II' 9-max Seat #1 is the button
+Seat 1: boyjunction ($1.73 in chips) 
+Seat 2: el_tchatcho ($0.47 in chips) 
+Seat 3: Freshsplash ($0.53 in chips) 
+Seat 4: romqa89 ($1.80 in chips) 
+Seat 6: bch_12345 ($2.45 in chips) 
+Seat 7: mous1030 ($1.10 in chips) 
+Seat 8: Dorex2007 ($2.20 in chips) 
+Seat 9: kevinklay ($1.05 in chips) 
+el_tchatcho: posts small blind $0.01
+Freshsplash: posts big blind $0.02
+ilovesomuchh: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Kh]
+romqa89: folds 
+bch_12345: folds 
+mous1030: raises $0.02 to $0.04
+Dorex2007: folds 
+kevinklay: folds 
+boyjunction: folds 
+el_tchatcho: folds 
+Freshsplash: folds 
+Uncalled bet ($0.02) returned to mous1030
+mous1030 collected $0.05 from pot
+mous1030: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: boyjunction (button) folded before Flop (didn't bet)
+Seat 2: el_tchatcho (small blind) folded before Flop
+Seat 3: Freshsplash (big blind) folded before Flop
+Seat 4: romqa89 folded before Flop (didn't bet)
+Seat 6: bch_12345 folded before Flop (didn't bet)
+Seat 7: mous1030 collected ($0.05)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: kevinklay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233328330734:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:37:53 PT [2022/01/20 19:37:53 ET]
+Table 'Augeias II' 9-max Seat #2 is the button
+Seat 1: boyjunction ($1.73 in chips) 
+Seat 2: el_tchatcho ($0.46 in chips) 
+Seat 3: Freshsplash ($0.51 in chips) 
+Seat 4: romqa89 ($1.80 in chips) 
+Seat 6: bch_12345 ($2.45 in chips) 
+Seat 7: mous1030 ($1.13 in chips) 
+Seat 8: Dorex2007 ($2.20 in chips) 
+Seat 9: kevinklay ($1.05 in chips) 
+Freshsplash: posts small blind $0.01
+romqa89: posts big blind $0.02
+ilovesomuchh: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 7c]
+bch_12345: folds 
+mous1030: calls $0.02
+Dorex2007: folds 
+kevinklay: calls $0.02
+boyjunction: folds 
+el_tchatcho: folds 
+Freshsplash: calls $0.01
+romqa89: checks 
+*** FLOP *** [7s 4c Ts]
+Freshsplash: checks 
+romqa89: checks 
+mous1030: checks 
+kevinklay: checks 
+*** TURN *** [7s 4c Ts] [Js]
+Freshsplash: checks 
+romqa89: checks 
+mous1030: bets $0.02
+kevinklay: calls $0.02
+Freshsplash: folds 
+romqa89: calls $0.02
+*** RIVER *** [7s 4c Ts Js] [As]
+romqa89: checks 
+mous1030: checks 
+kevinklay: bets $0.02
+romqa89: folds 
+mous1030: calls $0.02
+*** SHOW DOWN ***
+kevinklay: shows [9h Qc] (high card Ace)
+mous1030: shows [Ah Ac] (three of a kind, Aces)
+mous1030 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [7s 4c Ts Js As]
+Seat 1: boyjunction folded before Flop (didn't bet)
+Seat 2: el_tchatcho (button) folded before Flop (didn't bet)
+Seat 3: Freshsplash (small blind) folded on the Turn
+Seat 4: romqa89 (big blind) folded on the River
+Seat 6: bch_12345 folded before Flop (didn't bet)
+Seat 7: mous1030 showed [Ah Ac] and won ($0.17) with three of a kind, Aces
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: kevinklay showed [9h Qc] and lost with high card Ace
+
+
+
+PokerStars Hand #233328351327:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:38:49 PT [2022/01/20 19:38:49 ET]
+Table 'Augeias II' 9-max Seat #3 is the button
+Seat 1: boyjunction ($1.73 in chips) 
+Seat 2: el_tchatcho ($0.46 in chips) 
+Seat 3: Freshsplash ($0.49 in chips) 
+Seat 4: romqa89 ($1.76 in chips) 
+Seat 5: ilovesomuchh ($2 in chips) 
+Seat 6: bch_12345 ($2.45 in chips) 
+Seat 7: mous1030 ($1.24 in chips) 
+Seat 8: Dorex2007 ($2.20 in chips) 
+Seat 9: kevinklay ($0.99 in chips) 
+romqa89: posts small blind $0.01
+ilovesomuchh: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 2d]
+bch_12345: folds 
+mous1030: raises $0.02 to $0.04
+Dorex2007: folds 
+kevinklay: calls $0.04
+boyjunction: folds 
+el_tchatcho: folds 
+Freshsplash: folds 
+romqa89: calls $0.03
+ilovesomuchh: folds 
+*** FLOP *** [Ts 5d Td]
+romqa89: checks 
+mous1030: bets $0.08
+kevinklay: calls $0.08
+romqa89: folds 
+*** TURN *** [Ts 5d Td] [3h]
+mous1030: bets $0.10
+kevinklay: folds 
+Uncalled bet ($0.10) returned to mous1030
+mous1030 collected $0.29 from pot
+mous1030: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Ts 5d Td 3h]
+Seat 1: boyjunction folded before Flop (didn't bet)
+Seat 2: el_tchatcho folded before Flop (didn't bet)
+Seat 3: Freshsplash (button) folded before Flop (didn't bet)
+Seat 4: romqa89 (small blind) folded on the Flop
+Seat 5: ilovesomuchh (big blind) folded before Flop
+Seat 6: bch_12345 folded before Flop (didn't bet)
+Seat 7: mous1030 collected ($0.29)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: kevinklay folded on the Turn
+
+
+
+PokerStars Hand #233328364019:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:39:27 PT [2022/01/20 19:39:27 ET]
+Table 'Augeias II' 9-max Seat #4 is the button
+Seat 1: boyjunction ($1.73 in chips) 
+Seat 2: el_tchatcho ($0.46 in chips) 
+Seat 3: Freshsplash ($0.49 in chips) 
+Seat 4: romqa89 ($1.72 in chips) 
+Seat 5: ilovesomuchh ($2 in chips) 
+Seat 6: bch_12345 ($2.45 in chips) 
+Seat 7: mous1030 ($1.41 in chips) 
+Seat 8: Dorex2007 ($2.20 in chips) 
+Seat 9: kevinklay ($0.87 in chips) 
+ilovesomuchh: posts small blind $0.01
+bch_12345: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 6d]
+mous1030: folds 
+Dorex2007: folds 
+kevinklay: calls $0.02
+boyjunction: folds 
+el_tchatcho: folds 
+Freshsplash: folds 
+romqa89: raises $0.06 to $0.08
+ilovesomuchh: folds 
+bch_12345: folds 
+kevinklay: calls $0.06
+*** FLOP *** [9d Th 9s]
+kevinklay: checks 
+romqa89: bets $0.12
+kevinklay: folds 
+Uncalled bet ($0.12) returned to romqa89
+romqa89 collected $0.18 from pot
+romqa89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [9d Th 9s]
+Seat 1: boyjunction folded before Flop (didn't bet)
+Seat 2: el_tchatcho folded before Flop (didn't bet)
+Seat 3: Freshsplash folded before Flop (didn't bet)
+Seat 4: romqa89 (button) collected ($0.18)
+Seat 5: ilovesomuchh (small blind) folded before Flop
+Seat 6: bch_12345 (big blind) folded before Flop
+Seat 7: mous1030 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: kevinklay folded on the Flop
+
+
+
+PokerStars Hand #233328376664:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:40:04 PT [2022/01/20 19:40:04 ET]
+Table 'Augeias II' 9-max Seat #5 is the button
+Seat 1: boyjunction ($1.73 in chips) 
+Seat 2: el_tchatcho ($0.46 in chips) 
+Seat 3: Freshsplash ($0.49 in chips) 
+Seat 4: romqa89 ($1.82 in chips) 
+Seat 5: ilovesomuchh ($2 in chips) 
+Seat 6: bch_12345 ($2.43 in chips) 
+Seat 7: mous1030 ($1.41 in chips) 
+Seat 8: Dorex2007 ($2.20 in chips) 
+Seat 9: kevinklay ($0.79 in chips) 
+bch_12345: posts small blind $0.01
+mous1030: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 9d]
+Dorex2007 has timed out
+Dorex2007: folds 
+kevinklay: folds 
+boyjunction: folds 
+el_tchatcho: raises $0.02 to $0.04
+Freshsplash: folds 
+romqa89: folds 
+ilovesomuchh: folds 
+bch_12345: folds 
+mous1030: calls $0.02
+*** FLOP *** [Qc 5d Kc]
+mous1030: checks 
+el_tchatcho: bets $0.02
+mous1030: calls $0.02
+*** TURN *** [Qc 5d Kc] [Td]
+mous1030: checks 
+el_tchatcho: bets $0.13
+mous1030: folds 
+Uncalled bet ($0.13) returned to el_tchatcho
+el_tchatcho collected $0.13 from pot
+el_tchatcho: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qc 5d Kc Td]
+Seat 1: boyjunction folded before Flop (didn't bet)
+Seat 2: el_tchatcho collected ($0.13)
+Seat 3: Freshsplash folded before Flop (didn't bet)
+Seat 4: romqa89 folded before Flop (didn't bet)
+Seat 5: ilovesomuchh (button) folded before Flop (didn't bet)
+Seat 6: bch_12345 (small blind) folded before Flop
+Seat 7: mous1030 (big blind) folded on the Turn
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: kevinklay folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233328681466:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:54:24 PT [2022/01/20 19:54:24 ET]
+Table 'Augeias II' 9-max Seat #2 is the button
+Seat 1: boyjunction ($2.01 in chips) 
+Seat 2: el_tchatcho ($0.21 in chips) 
+Seat 3: Freshsplash ($1 in chips) 
+Seat 5: ilovesomuchh ($2.06 in chips) 
+Seat 6: Manrriquinha ($1.55 in chips) 
+Seat 7: mous1030 ($0.65 in chips) 
+Seat 8: Dorex2007 ($2.20 in chips) 
+Freshsplash: posts small blind $0.01
+romqa89: is sitting out 
+ilovesomuchh: posts big blind $0.02
+romqa89 leaves the table
+Dorex2007: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 6c]
+Manrriquinha has timed out
+Manrriquinha: folds 
+mous1030: folds 
+Dorex2007: checks 
+boyjunction: folds 
+el_tchatcho: calls $0.02
+Freshsplash: raises $0.08 to $0.10
+ilovesomuchh: folds 
+Dorex2007: folds 
+el_tchatcho: calls $0.08
+*** FLOP *** [9d 4d 8d]
+Freshsplash: bets $0.12
+el_tchatcho: calls $0.11 and is all-in
+Uncalled bet ($0.01) returned to Freshsplash
+*** TURN *** [9d 4d 8d] [Td]
+*** RIVER *** [9d 4d 8d Td] [Ad]
+*** SHOW DOWN ***
+Freshsplash: shows [As Qh] (a flush, Ace high)
+el_tchatcho: shows [8c Ac] (a flush, Ace high)
+el_tchatcho collected $0.22 from pot
+Freshsplash cashed out the hand for $0.08
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [9d 4d 8d Td Ad]
+Seat 1: boyjunction folded before Flop (didn't bet)
+Seat 2: el_tchatcho (button) showed [8c Ac] and won ($0.22) with a flush, Ace high
+Seat 3: Freshsplash (small blind) showed [As Qh] and won ($0.23) with a flush, Ace high (pot not awarded as player cashed out)
+Seat 5: ilovesomuchh (big blind) folded before Flop
+Seat 6: Manrriquinha folded before Flop (didn't bet)
+Seat 7: mous1030 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233328699413:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:55:23 PT [2022/01/20 19:55:23 ET]
+Table 'Augeias II' 9-max Seat #3 is the button
+Seat 1: boyjunction ($2.01 in chips) 
+Seat 2: el_tchatcho ($0.22 in chips) 
+Seat 3: Freshsplash ($0.87 in chips) 
+Seat 5: ilovesomuchh ($2.04 in chips) 
+Seat 6: Manrriquinha ($1.55 in chips) 
+Seat 7: mous1030 ($0.65 in chips) 
+Seat 8: Dorex2007 ($2.17 in chips) 
+ilovesomuchh: posts small blind $0.01
+Manrriquinha: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Jc]
+mous1030: calls $0.02
+Dorex2007: calls $0.02
+boyjunction: calls $0.02
+el_tchatcho: folds 
+Freshsplash: folds 
+ilovesomuchh: calls $0.01
+Manrriquinha: checks 
+*** FLOP *** [3c 3s Ts]
+ilovesomuchh: checks 
+Manrriquinha: bets $0.06
+mous1030: folds 
+Dorex2007: folds 
+boyjunction: folds 
+shane40501 joins the table at seat #4 
+ilovesomuchh: folds 
+Uncalled bet ($0.06) returned to Manrriquinha
+Manrriquinha collected $0.10 from pot
+Manrriquinha: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [3c 3s Ts]
+Seat 1: boyjunction folded on the Flop
+Seat 2: el_tchatcho folded before Flop (didn't bet)
+Seat 3: Freshsplash (button) folded before Flop (didn't bet)
+Seat 5: ilovesomuchh (small blind) folded on the Flop
+Seat 6: Manrriquinha (big blind) collected ($0.10)
+Seat 7: mous1030 folded on the Flop
+Seat 8: Dorex2007 folded on the Flop
+
+
+
+PokerStars Hand #233328713051:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:56:15 PT [2022/01/20 19:56:15 ET]
+Table 'Augeias II' 9-max Seat #5 is the button
+Seat 1: boyjunction ($1.99 in chips) 
+Seat 2: el_tchatcho ($0.22 in chips) 
+Seat 3: Freshsplash ($0.87 in chips) 
+Seat 5: ilovesomuchh ($2.02 in chips) 
+Seat 6: Manrriquinha ($1.63 in chips) 
+Seat 7: mous1030 ($0.63 in chips) 
+Seat 8: Dorex2007 ($2.15 in chips) 
+Manrriquinha: posts small blind $0.01
+mous1030: posts big blind $0.02
+shane40501: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 8d]
+Dorex2007: folds 
+boyjunction: raises $0.04 to $0.06
+el_tchatcho: calls $0.06
+Freshsplash: folds 
+ilovesomuchh: calls $0.06
+Manrriquinha: raises $1.57 to $1.63 and is all-in
+mous1030: folds 
+boyjunction: folds 
+el_tchatcho: calls $0.16 and is all-in
+ilovesomuchh: folds 
+Uncalled bet ($1.41) returned to Manrriquinha
+*** FLOP *** [Jd 2c Js]
+*** TURN *** [Jd 2c Js] [7h]
+*** RIVER *** [Jd 2c Js 7h] [9s]
+*** SHOW DOWN ***
+Manrriquinha: shows [Kd Ad] (a pair of Jacks)
+el_tchatcho: shows [3h As] (a pair of Jacks - lower kicker)
+Manrriquinha collected $0.56 from pot
+el_tchatcho cashed out the hand for $0.14
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [Jd 2c Js 7h 9s]
+Seat 1: boyjunction folded before Flop
+Seat 2: el_tchatcho showed [3h As] and lost with a pair of Jacks (cashed out).
+Seat 3: Freshsplash folded before Flop (didn't bet)
+Seat 5: ilovesomuchh (button) folded before Flop
+Seat 6: Manrriquinha (small blind) showed [Kd Ad] and won ($0.56) with a pair of Jacks
+Seat 7: mous1030 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233328725035:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:57:01 PT [2022/01/20 19:57:01 ET]
+Table 'Augeias II' 9-max Seat #6 is the button
+Seat 1: boyjunction ($1.93 in chips) 
+Seat 2: el_tchatcho ($0.14 in chips) 
+Seat 3: Freshsplash ($0.87 in chips) 
+Seat 5: ilovesomuchh ($2 in chips) 
+Seat 6: Manrriquinha ($1.97 in chips) 
+Seat 7: mous1030 ($0.61 in chips) 
+Seat 8: Dorex2007 ($2.15 in chips) 
+mous1030: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+shane40501: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 6s]
+boyjunction: folds 
+el_tchatcho: folds 
+Freshsplash: folds 
+ilovesomuchh: folds 
+Manrriquinha has timed out
+Manrriquinha: folds 
+mous1030: raises $0.02 to $0.04
+Dorex2007: calls $0.02
+*** FLOP *** [Td Ts 7s]
+mous1030: checks 
+Dorex2007: checks 
+*** TURN *** [Td Ts 7s] [Tc]
+mous1030: checks 
+Dorex2007: bets $0.05
+mous1030: raises $0.05 to $0.10
+Dorex2007: folds 
+Uncalled bet ($0.05) returned to mous1030
+mous1030 collected $0.17 from pot
+mous1030: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Td Ts 7s Tc]
+Seat 1: boyjunction folded before Flop (didn't bet)
+Seat 2: el_tchatcho folded before Flop (didn't bet)
+Seat 3: Freshsplash folded before Flop (didn't bet)
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 6: Manrriquinha (button) folded before Flop (didn't bet)
+Seat 7: mous1030 (small blind) collected ($0.17)
+Seat 8: Dorex2007 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #233328743865:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:58:13 PT [2022/01/20 19:58:13 ET]
+Table 'Augeias II' 9-max Seat #7 is the button
+Seat 1: boyjunction ($1.93 in chips) 
+Seat 2: el_tchatcho ($0.14 in chips) 
+Seat 3: Freshsplash ($0.87 in chips) 
+Seat 5: ilovesomuchh ($2 in chips) 
+Seat 7: mous1030 ($0.69 in chips) 
+Seat 8: Dorex2007 ($2.06 in chips) 
+Dorex2007: posts small blind $0.01
+boyjunction: posts big blind $0.02
+shane40501: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Jc]
+el_tchatcho: folds 
+Freshsplash: folds 
+ilovesomuchh: folds 
+mous1030: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to boyjunction
+boyjunction collected $0.02 from pot
+boyjunction: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: boyjunction (big blind) collected ($0.02)
+Seat 2: el_tchatcho folded before Flop (didn't bet)
+Seat 3: Freshsplash folded before Flop (didn't bet)
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 7: mous1030 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #233328747449:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:58:26 PT [2022/01/20 19:58:26 ET]
+Table 'Augeias II' 9-max Seat #8 is the button
+Seat 1: boyjunction ($1.94 in chips) 
+Seat 3: Freshsplash ($0.87 in chips) 
+Seat 5: ilovesomuchh ($2 in chips) 
+Seat 7: mous1030 ($0.69 in chips) 
+Seat 8: Dorex2007 ($2.05 in chips) 
+boyjunction: posts small blind $0.01
+el_tchatcho has timed out
+el_tchatcho: is sitting out 
+Freshsplash: posts big blind $0.02
+shane40501: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 3s]
+ilovesomuchh: raises $0.03 to $0.05
+mous1030: calls $0.05
+Dorex2007: folds 
+boyjunction: folds 
+Freshsplash: calls $0.03
+*** FLOP *** [Jh 8s 7h]
+Freshsplash: checks 
+ilovesomuchh: checks 
+mous1030: checks 
+*** TURN *** [Jh 8s 7h] [Qd]
+Freshsplash: checks 
+el_tchatcho is disconnected 
+ilovesomuchh: checks 
+mous1030: checks 
+*** RIVER *** [Jh 8s 7h Qd] [9s]
+Freshsplash: checks 
+ilovesomuchh: checks 
+mous1030: checks 
+*** SHOW DOWN ***
+Freshsplash: shows [Ks 7d] (a pair of Sevens)
+ilovesomuchh: shows [9c 7c] (two pair, Nines and Sevens)
+mous1030: mucks hand 
+ilovesomuchh collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Jh 8s 7h Qd 9s]
+Seat 1: boyjunction (small blind) folded before Flop
+Seat 3: Freshsplash (big blind) showed [Ks 7d] and lost with a pair of Sevens
+Seat 5: ilovesomuchh showed [9c 7c] and won ($0.15) with two pair, Nines and Sevens
+Seat 7: mous1030 mucked [4d 5c]
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233328764875:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 16:59:33 PT [2022/01/20 19:59:33 ET]
+Table 'Augeias II' 9-max Seat #1 is the button
+Seat 1: boyjunction ($1.93 in chips) 
+Seat 3: Freshsplash ($0.82 in chips) 
+Seat 4: shane40501 ($2 in chips) 
+Seat 5: ilovesomuchh ($2.10 in chips) 
+Seat 6: Manrriquinha ($1.97 in chips) 
+Seat 7: mous1030 ($0.64 in chips) 
+Seat 8: Dorex2007 ($2.05 in chips) 
+Freshsplash: posts small blind $0.01
+shane40501: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Kh]
+ilovesomuchh: folds 
+Manrriquinha: raises $0.02 to $0.04
+mous1030: calls $0.04
+Dorex2007: folds 
+boyjunction: calls $0.04
+Freshsplash: folds 
+shane40501: calls $0.02
+*** FLOP *** [9h 8s Qd]
+shane40501: checks 
+Manrriquinha: bets $0.04
+mous1030: folds 
+boyjunction: calls $0.04
+shane40501: calls $0.04
+*** TURN *** [9h 8s Qd] [Jd]
+shane40501: checks 
+Manrriquinha: bets $0.20
+boyjunction: raises $1.65 to $1.85 and is all-in
+shane40501: folds 
+Manrriquinha: calls $1.65
+*** RIVER *** [9h 8s Qd Jd] [Kc]
+*** SHOW DOWN ***
+Manrriquinha: shows [Ad Ah] (a pair of Aces)
+boyjunction: shows [Ts 9d] (a straight, Nine to King)
+boyjunction collected $3.85 from pot
+*** SUMMARY ***
+Total pot $3.99 | Rake $0.14 
+Board [9h 8s Qd Jd Kc]
+Seat 1: boyjunction (button) showed [Ts 9d] and won ($3.85) with a straight, Nine to King
+Seat 3: Freshsplash (small blind) folded before Flop
+Seat 4: shane40501 (big blind) folded on the Turn
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 6: Manrriquinha showed [Ad Ah] and lost with a pair of Aces
+Seat 7: mous1030 folded on the Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233328782198:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:00:37 PT [2022/01/20 20:00:37 ET]
+Table 'Augeias II' 9-max Seat #3 is the button
+Seat 1: boyjunction ($3.85 in chips) 
+Seat 2: el_tchatcho ($0.14 in chips) 
+Seat 3: Freshsplash ($0.81 in chips) 
+Seat 4: shane40501 ($1.92 in chips) 
+Seat 5: ilovesomuchh ($2.10 in chips) 
+Seat 6: Manrriquinha ($0.04 in chips) 
+Seat 7: mous1030 ($0.60 in chips) 
+Seat 8: Dorex2007 ($2.05 in chips) 
+shane40501: posts small blind $0.01
+ilovesomuchh: posts big blind $0.02
+el_tchatcho: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 8s]
+Manrriquinha: raises $0.02 to $0.04 and is all-in
+mous1030: folds 
+Dorex2007: folds 
+boyjunction: folds 
+el_tchatcho: folds 
+Freshsplash: folds 
+shane40501: calls $0.03
+ilovesomuchh: calls $0.02
+*** FLOP *** [6s 3s 6h]
+shane40501: checks 
+ilovesomuchh: checks 
+*** TURN *** [6s 3s 6h] [7s]
+shane40501: checks 
+ilovesomuchh: checks 
+*** RIVER *** [6s 3s 6h 7s] [As]
+shane40501: checks 
+ilovesomuchh: checks 
+*** SHOW DOWN ***
+shane40501: shows [Ts Td] (a flush, Ace high)
+ilovesomuchh: mucks hand 
+Manrriquinha: mucks hand 
+shane40501 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [6s 3s 6h 7s As]
+Seat 1: boyjunction folded before Flop (didn't bet)
+Seat 2: el_tchatcho folded before Flop (didn't bet)
+Seat 3: Freshsplash (button) folded before Flop (didn't bet)
+Seat 4: shane40501 (small blind) showed [Ts Td] and won ($0.14) with a flush, Ace high
+Seat 5: ilovesomuchh (big blind) mucked [Jd Qc]
+Seat 6: Manrriquinha mucked [9c 9h]
+Seat 7: mous1030 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233328795321:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:01:22 PT [2022/01/20 20:01:22 ET]
+Table 'Augeias II' 9-max Seat #4 is the button
+Seat 1: boyjunction ($3.85 in chips) 
+Seat 2: el_tchatcho ($0.11 in chips) 
+Seat 3: Freshsplash ($0.81 in chips) 
+Seat 4: shane40501 ($2.02 in chips) 
+Seat 5: ilovesomuchh ($2.06 in chips) 
+Seat 7: mous1030 ($0.60 in chips) 
+Seat 8: Dorex2007 ($2.05 in chips) 
+ilovesomuchh: posts small blind $0.01
+mous1030: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 9d]
+Manrriquinha is disconnected 
+Dorex2007: folds 
+boyjunction: calls $0.02
+el_tchatcho: folds 
+Freshsplash: raises $0.79 to $0.81 and is all-in
+shane40501: folds 
+ilovesomuchh: folds 
+mous1030: folds 
+boyjunction: folds 
+Uncalled bet ($0.79) returned to Freshsplash
+Freshsplash collected $0.07 from pot
+Freshsplash: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: boyjunction folded before Flop
+Seat 2: el_tchatcho folded before Flop (didn't bet)
+Seat 3: Freshsplash collected ($0.07)
+Seat 4: shane40501 (button) folded before Flop (didn't bet)
+Seat 5: ilovesomuchh (small blind) folded before Flop
+Seat 7: mous1030 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233328802796:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:01:47 PT [2022/01/20 20:01:47 ET]
+Table 'Augeias II' 9-max Seat #5 is the button
+Seat 1: boyjunction ($3.83 in chips) 
+Seat 2: el_tchatcho ($0.11 in chips) 
+Seat 3: Freshsplash ($0.86 in chips) 
+Seat 4: shane40501 ($2.02 in chips) 
+Seat 5: ilovesomuchh ($2.05 in chips) 
+Seat 7: mous1030 ($0.58 in chips) 
+Seat 8: Dorex2007 ($2.05 in chips) 
+mous1030: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Js]
+kevinklay leaves the table
+boyjunction: raises $0.04 to $0.06
+el_tchatcho: folds 
+Freshsplash: folds 
+shane40501: folds 
+ilovesomuchh: calls $0.06
+mous1030: folds 
+Dorex2007: calls $0.04
+*** FLOP *** [Ah 6c 5h]
+Dorex2007: checks 
+boyjunction: bets $0.09
+ilovesomuchh: folds 
+Dorex2007: folds 
+Uncalled bet ($0.09) returned to boyjunction
+boyjunction collected $0.18 from pot
+boyjunction: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Ah 6c 5h]
+Seat 1: boyjunction collected ($0.18)
+Seat 2: el_tchatcho folded before Flop (didn't bet)
+Seat 3: Freshsplash folded before Flop (didn't bet)
+Seat 4: shane40501 folded before Flop (didn't bet)
+Seat 5: ilovesomuchh (button) folded on the Flop
+Seat 7: mous1030 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #233328810777:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:02:13 PT [2022/01/20 20:02:13 ET]
+Table 'Augeias II' 9-max Seat #7 is the button
+Seat 1: boyjunction ($3.95 in chips) 
+Seat 2: el_tchatcho ($0.11 in chips) 
+Seat 3: Freshsplash ($0.86 in chips) 
+Seat 4: shane40501 ($2.02 in chips) 
+Seat 5: ilovesomuchh ($2 in chips) 
+Seat 7: mous1030 ($0.57 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Dorex2007: posts small blind $0.01
+boyjunction: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 7c]
+el_tchatcho: folds 
+Freshsplash: folds 
+shane40501: folds 
+ilovesomuchh: folds 
+mous1030: calls $0.02
+Dorex2007: folds 
+boyjunction: checks 
+*** FLOP *** [Ac 5h 6d]
+boyjunction: bets $0.02
+mous1030: raises $0.02 to $0.04
+boyjunction: folds 
+Uncalled bet ($0.02) returned to mous1030
+mous1030 collected $0.09 from pot
+mous1030: doesn't show hand 
+tom905 joins the table at seat #9 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Ac 5h 6d]
+Seat 1: boyjunction (big blind) folded on the Flop
+Seat 2: el_tchatcho folded before Flop (didn't bet)
+Seat 3: Freshsplash folded before Flop (didn't bet)
+Seat 4: shane40501 folded before Flop (didn't bet)
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 7: mous1030 (button) collected ($0.09)
+Seat 8: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #233328820271:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:02:43 PT [2022/01/20 20:02:43 ET]
+Table 'Augeias II' 9-max Seat #8 is the button
+Seat 1: boyjunction ($3.91 in chips) 
+Seat 2: el_tchatcho ($0.11 in chips) 
+Seat 3: Freshsplash ($0.86 in chips) 
+Seat 4: shane40501 ($2.02 in chips) 
+Seat 5: ilovesomuchh ($2 in chips) 
+Seat 7: mous1030 ($0.62 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+boyjunction: posts small blind $0.01
+el_tchatcho: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Kc]
+Freshsplash: raises $0.04 to $0.06
+shane40501: folds 
+ilovesomuchh: folds 
+mous1030: folds 
+Dorex2007: calls $0.06
+boyjunction: calls $0.05
+el_tchatcho: folds 
+*** FLOP *** [Qs Kd Ad]
+boyjunction: checks 
+Freshsplash: bets $0.19
+Dorex2007: raises $0.57 to $0.76
+boyjunction: folds 
+Freshsplash: raises $0.04 to $0.80 and is all-in
+Dorex2007: calls $0.04
+*** TURN *** [Qs Kd Ad] [3c]
+*** RIVER *** [Qs Kd Ad 3c] [2c]
+*** SHOW DOWN ***
+Freshsplash: shows [As Td] (a pair of Aces)
+Dorex2007: shows [Qd Kc] (two pair, Kings and Queens)
+Dorex2007 cashed out the hand for $1.08 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.06 
+Board [Qs Kd Ad 3c 2c]
+Seat 1: boyjunction (small blind) folded on the Flop
+Seat 2: el_tchatcho (big blind) folded before Flop
+Seat 3: Freshsplash showed [As Td] and lost with a pair of Aces
+Seat 4: shane40501 folded before Flop (didn't bet)
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 7: mous1030 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) showed [Qd Kc] and won ($1.74) with two pair, Kings and Queens (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #233328840792:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:03:40 PT [2022/01/20 20:03:40 ET]
+Table 'Augeias II' 9-max Seat #1 is the button
+Seat 1: boyjunction ($3.85 in chips) 
+Seat 2: el_tchatcho ($0.09 in chips) 
+Seat 4: shane40501 ($2.02 in chips) 
+Seat 5: ilovesomuchh ($2 in chips) 
+Seat 7: mous1030 ($0.62 in chips) 
+Seat 8: Dorex2007 ($2.22 in chips) 
+el_tchatcho: posts small blind $0.01
+shane40501: posts big blind $0.02
+tom905: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Kh]
+Freshsplash leaves the table
+ilovesomuchh: folds 
+mous1030: folds 
+Dorex2007: raises $0.04 to $0.06
+boyjunction: folds 
+el_tchatcho: folds 
+shane40501: calls $0.04
+*** FLOP *** [5c Th Js]
+AnneThati joins the table at seat #3 
+shane40501: checks 
+Dorex2007: bets $0.09
+shane40501: folds 
+Uncalled bet ($0.09) returned to Dorex2007
+Dorex2007 collected $0.13 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5c Th Js]
+Seat 1: boyjunction (button) folded before Flop (didn't bet)
+Seat 2: el_tchatcho (small blind) folded before Flop
+Seat 4: shane40501 (big blind) folded on the Flop
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 7: mous1030 folded before Flop (didn't bet)
+Seat 8: Dorex2007 collected ($0.13)
+
+
+
+PokerStars Hand #233328852940:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:04:19 PT [2022/01/20 20:04:19 ET]
+Table 'Augeias II' 9-max Seat #2 is the button
+Seat 1: boyjunction ($3.85 in chips) 
+Seat 2: el_tchatcho ($0.08 in chips) 
+Seat 4: shane40501 ($1.96 in chips) 
+Seat 5: ilovesomuchh ($2 in chips) 
+Seat 7: mous1030 ($0.62 in chips) 
+Seat 8: Dorex2007 ($2.29 in chips) 
+shane40501: posts small blind $0.01
+ilovesomuchh: posts big blind $0.02
+tom905: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 6c]
+mous1030: calls $0.02
+Dorex2007: raises $0.02 to $0.04
+boyjunction: folds 
+el_tchatcho: folds 
+shane40501: calls $0.03
+ilovesomuchh: folds 
+mous1030: calls $0.02
+*** FLOP *** [5s Kd Ks]
+shane40501: checks 
+mous1030: checks 
+Dorex2007: checks 
+*** TURN *** [5s Kd Ks] [Tc]
+shane40501: checks 
+mous1030: checks 
+Dorex2007: bets $0.07
+shane40501: folds 
+mous1030: calls $0.07
+*** RIVER *** [5s Kd Ks Tc] [4s]
+mous1030: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+mous1030: shows [9d 8c] (a pair of Kings)
+Dorex2007: shows [6s 6c] (two pair, Kings and Sixes)
+Dorex2007 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [5s Kd Ks Tc 4s]
+Seat 1: boyjunction folded before Flop (didn't bet)
+Seat 2: el_tchatcho (button) folded before Flop (didn't bet)
+Seat 4: shane40501 (small blind) folded on the Turn
+Seat 5: ilovesomuchh (big blind) folded before Flop
+Seat 7: mous1030 showed [9d 8c] and lost with a pair of Kings
+Seat 8: Dorex2007 showed [6s 6c] and won ($0.27) with two pair, Kings and Sixes
+
+
+
+PokerStars Hand #233328868792:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:05:10 PT [2022/01/20 20:05:10 ET]
+Table 'Augeias II' 9-max Seat #4 is the button
+Seat 1: boyjunction ($3.85 in chips) 
+Seat 2: el_tchatcho ($0.08 in chips) 
+Seat 4: shane40501 ($1.92 in chips) 
+Seat 5: ilovesomuchh ($2 in chips) 
+Seat 7: mous1030 ($0.51 in chips) 
+Seat 8: Dorex2007 ($2.45 in chips) 
+ilovesomuchh: posts small blind $0.01
+mous1030: posts big blind $0.02
+tom905: sits out 
+AnneThati: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 8c]
+Dorex2007: folds 
+boyjunction: raises $0.04 to $0.06
+el_tchatcho: folds 
+shane40501: folds 
+ilovesomuchh: folds 
+mous1030: raises $0.08 to $0.14
+boyjunction: calls $0.08
+*** FLOP *** [4h Td Th]
+mous1030: bets $0.37 and is all-in
+boyjunction: calls $0.37
+*** TURN *** [4h Td Th] [9h]
+*** RIVER *** [4h Td Th 9h] [Tc]
+*** SHOW DOWN ***
+mous1030: shows [7d 7h] (a full house, Tens full of Sevens)
+boyjunction: shows [Ad 9s] (a full house, Tens full of Nines)
+boyjunction collected $0.99 from pot
+*** SUMMARY ***
+Total pot $1.03 | Rake $0.04 
+Board [4h Td Th 9h Tc]
+Seat 1: boyjunction showed [Ad 9s] and won ($0.99) with a full house, Tens full of Nines
+Seat 2: el_tchatcho folded before Flop (didn't bet)
+Seat 4: shane40501 (button) folded before Flop (didn't bet)
+Seat 5: ilovesomuchh (small blind) folded before Flop
+Seat 7: mous1030 (big blind) showed [7d 7h] and lost with a full house, Tens full of Sevens
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233328885379:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:06:03 PT [2022/01/20 20:06:03 ET]
+Table 'Augeias II' 9-max Seat #5 is the button
+Seat 1: boyjunction ($4.33 in chips) 
+Seat 2: el_tchatcho ($0.08 in chips) 
+Seat 3: AnneThati ($0.80 in chips) 
+Seat 4: shane40501 ($1.92 in chips) 
+Seat 5: ilovesomuchh ($2 in chips) 
+Seat 8: Dorex2007 ($2.45 in chips) 
+Seat 9: tom905 ($1.60 in chips) 
+Dorex2007: posts small blind $0.01
+tom905: posts big blind $0.02
+AnneThati: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 9d]
+boyjunction: calls $0.02
+el_tchatcho: folds 
+mous1030 leaves the table
+AnneThati: checks 
+shane40501: folds 
+ilovesomuchh: calls $0.02
+Dorex2007: calls $0.01
+tom905: raises $0.04 to $0.06
+boyjunction: calls $0.04
+AnneThati: folds 
+ilovesomuchh: folds 
+Dorex2007: calls $0.04
+*** FLOP *** [Ac Ks 3d]
+Dorex2007: checks 
+tom905: bets $0.11
+boyjunction: folds 
+Dorex2007: folds 
+Uncalled bet ($0.11) returned to tom905
+tom905 collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Ac Ks 3d]
+Seat 1: boyjunction folded on the Flop
+Seat 2: el_tchatcho folded before Flop (didn't bet)
+Seat 3: AnneThati folded before Flop (didn't bet)
+Seat 4: shane40501 folded before Flop (didn't bet)
+Seat 5: ilovesomuchh (button) folded before Flop
+Seat 8: Dorex2007 (small blind) folded on the Flop
+Seat 9: tom905 (big blind) collected ($0.21)
+
+
+
+PokerStars Hand #233328900069:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:06:50 PT [2022/01/20 20:06:50 ET]
+Table 'Augeias II' 9-max Seat #8 is the button
+Seat 1: boyjunction ($4.27 in chips) 
+Seat 2: el_tchatcho ($0.08 in chips) 
+Seat 3: AnneThati ($0.78 in chips) 
+Seat 4: shane40501 ($1.92 in chips) 
+Seat 5: ilovesomuchh ($2 in chips) 
+Seat 8: Dorex2007 ($2.39 in chips) 
+Seat 9: tom905 ($1.75 in chips) 
+tom905: posts small blind $0.01
+boyjunction: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 9s]
+el_tchatcho: folds 
+el_tchatcho leaves the table
+AnneThati: folds 
+shane40501: folds 
+ilovesomuchh: folds 
+Dorex2007: raises $0.04 to $0.06
+tom905: folds 
+boyjunction: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: boyjunction (big blind) folded before Flop
+Seat 2: el_tchatcho folded before Flop (didn't bet)
+Seat 3: AnneThati folded before Flop (didn't bet)
+Seat 4: shane40501 folded before Flop (didn't bet)
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) collected ($0.05)
+Seat 9: tom905 (small blind) folded before Flop
+
+
+
+PokerStars Hand #233328919505:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:07:29 PT [2022/01/20 20:07:29 ET]
+Table 'Augeias II' 9-max Seat #9 is the button
+Seat 1: boyjunction ($4.25 in chips) 
+Seat 3: AnneThati ($0.78 in chips) 
+Seat 4: shane40501 ($1.92 in chips) 
+Seat 5: ilovesomuchh ($2 in chips) 
+Seat 8: Dorex2007 ($2.42 in chips) 
+Seat 9: tom905 ($1.74 in chips) 
+boyjunction: posts small blind $0.01
+AnneThati: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 6s]
+shane40501: folds 
+ilovesomuchh: folds 
+Dorex2007: folds 
+tom905: folds 
+boyjunction: folds 
+Uncalled bet ($0.01) returned to AnneThati
+AnneThati collected $0.02 from pot
+AnneThati: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: boyjunction (small blind) folded before Flop
+Seat 3: AnneThati (big blind) collected ($0.02)
+Seat 4: shane40501 folded before Flop (didn't bet)
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tom905 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233328924371:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:07:45 PT [2022/01/20 20:07:45 ET]
+Table 'Augeias II' 9-max Seat #1 is the button
+Seat 1: boyjunction ($4.24 in chips) 
+Seat 3: AnneThati ($0.79 in chips) 
+Seat 4: shane40501 ($1.92 in chips) 
+Seat 5: ilovesomuchh ($2 in chips) 
+Seat 8: Dorex2007 ($2.42 in chips) 
+Seat 9: tom905 ($1.74 in chips) 
+AnneThati: posts small blind $0.01
+shane40501: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Qd]
+ilovesomuchh: folds 
+Dorex2007: raises $0.04 to $0.06
+tom905: folds 
+MackMcC joins the table at seat #7 
+boyjunction: calls $0.06
+AnneThati: folds 
+shane40501: folds 
+*** FLOP *** [Ks Jc 2d]
+Dorex2007: bets $0.07
+boyjunction: folds 
+Uncalled bet ($0.07) returned to Dorex2007
+Dorex2007 collected $0.14 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ks Jc 2d]
+Seat 1: boyjunction (button) folded on the Flop
+Seat 3: AnneThati (small blind) folded before Flop
+Seat 4: shane40501 (big blind) folded before Flop
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 8: Dorex2007 collected ($0.14)
+Seat 9: tom905 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233328931767:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:08:09 PT [2022/01/20 20:08:09 ET]
+Table 'Augeias II' 9-max Seat #3 is the button
+Seat 1: boyjunction ($4.18 in chips) 
+Seat 3: AnneThati ($0.78 in chips) 
+Seat 4: shane40501 ($1.90 in chips) 
+Seat 5: ilovesomuchh ($2 in chips) 
+Seat 7: MackMcC ($1.60 in chips) 
+Seat 8: Dorex2007 ($2.50 in chips) 
+Seat 9: tom905 ($1.74 in chips) 
+shane40501: posts small blind $0.01
+ilovesomuchh: posts big blind $0.02
+MackMcC: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 3s]
+MackMcC: checks 
+Dorex2007: folds 
+tom905: folds 
+boyjunction: raises $0.04 to $0.06
+AnneThati has timed out
+AnneThati: folds 
+shane40501: folds 
+ilovesomuchh: calls $0.04
+MackMcC: calls $0.04
+*** FLOP *** [4h Qd 9d]
+ilovesomuchh: checks 
+Semenov2010 joins the table at seat #2 
+MackMcC: checks 
+boyjunction: bets $0.18
+ilovesomuchh: folds 
+MackMcC: folds 
+Uncalled bet ($0.18) returned to boyjunction
+boyjunction collected $0.18 from pot
+boyjunction: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [4h Qd 9d]
+Seat 1: boyjunction collected ($0.18)
+Seat 3: AnneThati (button) folded before Flop (didn't bet)
+Seat 4: shane40501 (small blind) folded before Flop
+Seat 5: ilovesomuchh (big blind) folded on the Flop
+Seat 7: MackMcC folded on the Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tom905 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233328957742:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:09:10 PT [2022/01/20 20:09:10 ET]
+Table 'Augeias II' 9-max Seat #4 is the button
+Seat 1: boyjunction ($4.30 in chips) 
+Seat 4: shane40501 ($1.89 in chips) 
+Seat 5: ilovesomuchh ($2 in chips) 
+Seat 7: MackMcC ($1.54 in chips) 
+Seat 8: Dorex2007 ($2.50 in chips) 
+Seat 9: tom905 ($1.74 in chips) 
+ilovesomuchh: posts small blind $0.01
+MackMcC: posts big blind $0.02
+Semenov2010: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 8d]
+Dorex2007: folds 
+tom905: folds 
+boyjunction: raises $0.02 to $0.04
+shane40501: folds 
+ilovesomuchh: calls $0.03
+MackMcC: folds 
+*** FLOP *** [4c 6s Jc]
+ilovesomuchh: checks 
+boyjunction: bets $0.05
+ilovesomuchh: calls $0.05
+*** TURN *** [4c 6s Jc] [Qc]
+ilovesomuchh: checks 
+boyjunction: bets $0.02
+ilovesomuchh: calls $0.02
+*** RIVER *** [4c 6s Jc Qc] [3s]
+ilovesomuchh: checks 
+boyjunction: bets $0.02
+ilovesomuchh: calls $0.02
+*** SHOW DOWN ***
+boyjunction: shows [Jh Tc] (a pair of Jacks)
+ilovesomuchh: mucks hand 
+boyjunction collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [4c 6s Jc Qc 3s]
+Seat 1: boyjunction showed [Jh Tc] and won ($0.27) with a pair of Jacks
+Seat 4: shane40501 (button) folded before Flop (didn't bet)
+Seat 5: ilovesomuchh (small blind) mucked [6h 5h]
+Seat 7: MackMcC (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tom905 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233328976082:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:10:09 PT [2022/01/20 20:10:09 ET]
+Table 'Augeias II' 9-max Seat #5 is the button
+Seat 1: boyjunction ($4.44 in chips) 
+Seat 4: shane40501 ($1.89 in chips) 
+Seat 5: ilovesomuchh ($2 in chips) 
+Seat 7: MackMcC ($1.52 in chips) 
+Seat 8: Dorex2007 ($2.50 in chips) 
+Seat 9: tom905 ($1.74 in chips) 
+MackMcC: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Semenov2010: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Kd]
+tom905: folds 
+boyjunction: raises $0.02 to $0.04
+shane40501: folds 
+ilovesomuchh: folds 
+MackMcC: folds 
+Dorex2007: calls $0.02
+*** FLOP *** [8h 7h 9c]
+Dorex2007: bets $0.06
+boyjunction: folds 
+Uncalled bet ($0.06) returned to Dorex2007
+Dorex2007 collected $0.09 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [8h 7h 9c]
+Seat 1: boyjunction folded on the Flop
+Seat 4: shane40501 folded before Flop (didn't bet)
+Seat 5: ilovesomuchh (button) folded before Flop (didn't bet)
+Seat 7: MackMcC (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) collected ($0.09)
+Seat 9: tom905 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233328984807:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:10:37 PT [2022/01/20 20:10:37 ET]
+Table 'Augeias II' 9-max Seat #7 is the button
+Seat 1: boyjunction ($4.40 in chips) 
+Seat 3: AnneThati ($0.78 in chips) 
+Seat 4: shane40501 ($1.89 in chips) 
+Seat 5: ilovesomuchh ($2 in chips) 
+Seat 7: MackMcC ($1.51 in chips) 
+Seat 8: Dorex2007 ($2.55 in chips) 
+Seat 9: tom905 ($1.74 in chips) 
+Dorex2007: posts small blind $0.01
+tom905: posts big blind $0.02
+Semenov2010: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Tc]
+boyjunction: calls $0.02
+AnneThati: folds 
+shane40501: folds 
+ilovesomuchh: raises $0.07 to $0.09
+MackMcC: calls $0.09
+Dorex2007: folds 
+tom905: folds 
+boyjunction: calls $0.07
+*** FLOP *** [Th 8h 8d]
+boyjunction: checks 
+ilovesomuchh: checks 
+Manrriquinha leaves the table
+MackMcC: bets $0.09
+boyjunction: calls $0.09
+ilovesomuchh: folds 
+*** TURN *** [Th 8h 8d] [Jc]
+boyjunction: checks 
+MackMcC: checks 
+*** RIVER *** [Th 8h 8d Jc] [6h]
+boyjunction: bets $0.23
+MackMcC: calls $0.23
+*** SHOW DOWN ***
+boyjunction: shows [Jh 7h] (a flush, Jack high)
+MackMcC: mucks hand 
+boyjunction collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.94 | Rake $0.03 
+Board [Th 8h 8d Jc 6h]
+Seat 1: boyjunction showed [Jh 7h] and won ($0.91) with a flush, Jack high
+Seat 3: AnneThati folded before Flop (didn't bet)
+Seat 4: shane40501 folded before Flop (didn't bet)
+Seat 5: ilovesomuchh folded on the Flop
+Seat 7: MackMcC (button) mucked [7d Td]
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: tom905 (big blind) folded before Flop
+
+
+
+PokerStars Hand #233329008303:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:11:53 PT [2022/01/20 20:11:53 ET]
+Table 'Augeias II' 9-max Seat #8 is the button
+Seat 1: boyjunction ($4.90 in chips) 
+Seat 3: AnneThati ($0.78 in chips) 
+Seat 4: shane40501 ($1.89 in chips) 
+Seat 5: ilovesomuchh ($2 in chips) 
+Seat 7: MackMcC ($1.10 in chips) 
+Seat 8: Dorex2007 ($2.54 in chips) 
+Seat 9: tom905 ($1.72 in chips) 
+tom905: posts small blind $0.01
+boyjunction: posts big blind $0.02
+Semenov2010: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 6c]
+AnneThati has timed out
+AnneThati: folds 
+shane40501: calls $0.02
+ilovesomuchh: folds 
+MackMcC: folds 
+Dorex2007: folds 
+tom905: folds 
+boyjunction: checks 
+*** FLOP *** [8c 9c 9s]
+boyjunction: bets $0.04
+shane40501: calls $0.04
+*** TURN *** [8c 9c 9s] [4d]
+AnneThati leaves the table
+boyjunction: bets $0.04
+shane40501: folds 
+Uncalled bet ($0.04) returned to boyjunction
+boyjunction collected $0.13 from pot
+boyjunction: doesn't show hand 
+markb000 joins the table at seat #6 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8c 9c 9s 4d]
+Seat 1: boyjunction (big blind) collected ($0.13)
+Seat 3: AnneThati folded before Flop (didn't bet)
+Seat 4: shane40501 folded on the Turn
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 7: MackMcC folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: tom905 (small blind) folded before Flop
+
+
+
+PokerStars Hand #233329034012:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:12:53 PT [2022/01/20 20:12:53 ET]
+Table 'Augeias II' 9-max Seat #9 is the button
+Seat 1: boyjunction ($4.97 in chips) 
+Seat 2: Semenov2010 ($0.86 in chips) 
+Seat 4: shane40501 ($1.83 in chips) 
+Seat 5: ilovesomuchh ($2 in chips) 
+Seat 7: MackMcC ($1.10 in chips) 
+Seat 8: Dorex2007 ($2.54 in chips) 
+Seat 9: tom905 ($1.71 in chips) 
+boyjunction: posts small blind $0.01
+Semenov2010: posts big blind $0.02
+markb000: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 9s]
+shane40501: folds 
+ilovesomuchh: folds 
+MackMcC: calls $0.02
+Dorex2007: calls $0.02
+tom905: raises $0.02 to $0.04
+boyjunction: folds 
+jane4123 joins the table at seat #3 
+Semenov2010: calls $0.02
+MackMcC: calls $0.02
+Dorex2007: calls $0.02
+*** FLOP *** [Ah Th Jd]
+Semenov2010: checks 
+MackMcC: checks 
+Dorex2007: checks 
+tom905: bets $0.08
+Semenov2010: folds 
+MackMcC: raises $0.16 to $0.24
+Dorex2007: folds 
+tom905: calls $0.16
+*** TURN *** [Ah Th Jd] [5d]
+MackMcC: bets $0.11
+tom905: calls $0.11
+*** RIVER *** [Ah Th Jd 5d] [3s]
+MackMcC: checks 
+tom905: checks 
+*** SHOW DOWN ***
+MackMcC: shows [4s Ad] (a pair of Aces)
+tom905: mucks hand 
+MackMcC collected $0.84 from pot
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.03 
+Board [Ah Th Jd 5d 3s]
+Seat 1: boyjunction (small blind) folded before Flop
+Seat 2: Semenov2010 (big blind) folded on the Flop
+Seat 4: shane40501 folded before Flop (didn't bet)
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 7: MackMcC showed [4s Ad] and won ($0.84) with a pair of Aces
+Seat 8: Dorex2007 folded on the Flop
+Seat 9: tom905 (button) mucked [Jh 8h]
+
+
+
+PokerStars Hand #233329059324:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:14:15 PT [2022/01/20 20:14:15 ET]
+Table 'Augeias II' 9-max Seat #1 is the button
+Seat 1: boyjunction ($4.96 in chips) 
+Seat 2: Semenov2010 ($0.82 in chips) 
+Seat 3: jane4123 ($2 in chips) 
+Seat 4: shane40501 ($1.83 in chips) 
+Seat 5: ilovesomuchh ($2 in chips) 
+Seat 7: MackMcC ($1.55 in chips) 
+Seat 8: Dorex2007 ($2.50 in chips) 
+Seat 9: tom905 ($1.32 in chips) 
+Semenov2010: posts small blind $0.01
+jane4123: posts big blind $0.02
+markb000: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 4d]
+shane40501: folds 
+ilovesomuchh: raises $0.03 to $0.05
+MackMcC: folds 
+Dorex2007: folds 
+tom905: raises $0.03 to $0.08
+boyjunction: folds 
+Semenov2010: folds 
+jane4123: calls $0.06
+ilovesomuchh: calls $0.03
+*** FLOP *** [2h 2c Jh]
+jane4123: checks 
+ilovesomuchh: checks 
+tom905: checks 
+*** TURN *** [2h 2c Jh] [5c]
+jane4123: checks 
+ilovesomuchh: checks 
+tom905: bets $0.12
+jane4123: calls $0.12
+ilovesomuchh: calls $0.12
+*** RIVER *** [2h 2c Jh 5c] [3h]
+jane4123: checks 
+ilovesomuchh: bets $0.19
+tom905: folds 
+jane4123: calls $0.19
+*** SHOW DOWN ***
+ilovesomuchh: shows [Th Qh] (a flush, Queen high)
+jane4123: mucks hand 
+ilovesomuchh collected $0.96 from pot
+*** SUMMARY ***
+Total pot $0.99 | Rake $0.03 
+Board [2h 2c Jh 5c 3h]
+Seat 1: boyjunction (button) folded before Flop (didn't bet)
+Seat 2: Semenov2010 (small blind) folded before Flop
+Seat 3: jane4123 (big blind) mucked [6d 6c]
+Seat 4: shane40501 folded before Flop (didn't bet)
+Seat 5: ilovesomuchh showed [Th Qh] and won ($0.96) with a flush, Queen high
+Seat 7: MackMcC folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tom905 folded on the River
+
+
+
+PokerStars Hand #233329081163:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:15:26 PT [2022/01/20 20:15:26 ET]
+Table 'Augeias II' 9-max Seat #2 is the button
+Seat 1: boyjunction ($4.96 in chips) 
+Seat 2: Semenov2010 ($0.81 in chips) 
+Seat 3: jane4123 ($1.61 in chips) 
+Seat 5: ilovesomuchh ($2.57 in chips) 
+Seat 7: MackMcC ($1.55 in chips) 
+Seat 8: Dorex2007 ($2.50 in chips) 
+Seat 9: tom905 ($1.12 in chips) 
+jane4123: posts small blind $0.01
+shane40501: is sitting out 
+ilovesomuchh: posts big blind $0.02
+markb000: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 4s]
+MackMcC: calls $0.02
+Dorex2007: folds 
+tom905: folds 
+boyjunction: raises $0.04 to $0.06
+Semenov2010: folds 
+jane4123: folds 
+ilovesomuchh: folds 
+MackMcC: calls $0.04
+*** FLOP *** [5s Tc Ks]
+shane40501 leaves the table
+MackMcC: bets $0.07
+boyjunction: calls $0.07
+*** TURN *** [5s Tc Ks] [Jd]
+MackMcC: bets $0.13
+boyjunction: calls $0.13
+*** RIVER *** [5s Tc Ks Jd] [4d]
+MackMcC: checks 
+boyjunction: checks 
+*** SHOW DOWN ***
+MackMcC: shows [Th Jh] (two pair, Jacks and Tens)
+boyjunction: mucks hand 
+MackMcC collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [5s Tc Ks Jd 4d]
+Seat 1: boyjunction mucked [7c As]
+Seat 2: Semenov2010 (button) folded before Flop (didn't bet)
+Seat 3: jane4123 (small blind) folded before Flop
+Seat 5: ilovesomuchh (big blind) folded before Flop
+Seat 7: MackMcC showed [Th Jh] and won ($0.53) with two pair, Jacks and Tens
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tom905 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233329104914:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:16:43 PT [2022/01/20 20:16:43 ET]
+Table 'Augeias II' 9-max Seat #3 is the button
+Seat 1: boyjunction ($4.70 in chips) 
+Seat 2: Semenov2010 ($0.81 in chips) 
+Seat 3: jane4123 ($1.60 in chips) 
+Seat 5: ilovesomuchh ($2.55 in chips) 
+Seat 6: markb000 ($0.80 in chips) 
+Seat 7: MackMcC ($1.82 in chips) 
+Seat 8: Dorex2007 ($2.50 in chips) 
+Seat 9: tom905 ($1.12 in chips) 
+ilovesomuchh: posts small blind $0.01
+markb000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Qh]
+MackMcC: raises $0.04 to $0.06
+Dorex2007: folds 
+tom905: folds 
+boyjunction: calls $0.06
+Semenov2010: folds 
+jane4123: calls $0.06
+ilovesomuchh: folds 
+markb000: folds 
+*** FLOP *** [2d 2s 4h]
+markb000 leaves the table
+MackMcC: bets $0.20
+boyjunction: calls $0.20
+jane4123: folds 
+*** TURN *** [2d 2s 4h] [7s]
+MackMcC: checks 
+boyjunction: checks 
+*** RIVER *** [2d 2s 4h 7s] [Kh]
+MackMcC: bets $0.07
+boyjunction: calls $0.07
+*** SHOW DOWN ***
+MackMcC: shows [5c 5s] (two pair, Fives and Deuces)
+boyjunction: mucks hand 
+MackMcC collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [2d 2s 4h 7s Kh]
+Seat 1: boyjunction mucked [5h Ad]
+Seat 2: Semenov2010 folded before Flop (didn't bet)
+Seat 3: jane4123 (button) folded on the Flop
+Seat 5: ilovesomuchh (small blind) folded before Flop
+Seat 6: markb000 (big blind) folded before Flop
+Seat 7: MackMcC showed [5c 5s] and won ($0.72) with two pair, Fives and Deuces
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tom905 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233329125952:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:17:52 PT [2022/01/20 20:17:52 ET]
+Table 'Augeias II' 9-max Seat #5 is the button
+Seat 1: boyjunction ($4.37 in chips) 
+Seat 2: Semenov2010 ($0.81 in chips) 
+Seat 3: jane4123 ($1.54 in chips) 
+Seat 5: ilovesomuchh ($2.54 in chips) 
+Seat 7: MackMcC ($2.21 in chips) 
+Seat 8: Dorex2007 ($2.50 in chips) 
+Seat 9: tom905 ($1.12 in chips) 
+MackMcC: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 4c]
+tom905: folds 
+boyjunction: folds 
+Semenov2010: folds 
+jane4123: calls $0.02
+ilovesomuchh: folds 
+MackMcC: raises $0.06 to $0.08
+Dorex2007: folds 
+jane4123: calls $0.06
+*** FLOP *** [2h 8c Ad]
+MackMcC: checks 
+jane4123: checks 
+*** TURN *** [2h 8c Ad] [7c]
+MackMcC: checks 
+jane4123: checks 
+*** RIVER *** [2h 8c Ad 7c] [2s]
+MackMcC: bets $0.17
+jane4123: folds 
+Uncalled bet ($0.17) returned to MackMcC
+MackMcC collected $0.17 from pot
+MackMcC: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [2h 8c Ad 7c 2s]
+Seat 1: boyjunction folded before Flop (didn't bet)
+Seat 2: Semenov2010 folded before Flop (didn't bet)
+Seat 3: jane4123 folded on the River
+Seat 5: ilovesomuchh (button) folded before Flop (didn't bet)
+Seat 7: MackMcC (small blind) collected ($0.17)
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: tom905 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233329143676:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:18:50 PT [2022/01/20 20:18:50 ET]
+Table 'Augeias II' 9-max Seat #7 is the button
+Seat 1: boyjunction ($4.37 in chips) 
+Seat 2: Semenov2010 ($0.81 in chips) 
+Seat 3: jane4123 ($1.46 in chips) 
+Seat 5: ilovesomuchh ($2.54 in chips) 
+Seat 7: MackMcC ($2.30 in chips) 
+Seat 8: Dorex2007 ($2.48 in chips) 
+Seat 9: tom905 ($1.12 in chips) 
+Dorex2007: posts small blind $0.01
+tom905: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 3c]
+boyjunction: folds 
+Semenov2010: folds 
+jane4123: calls $0.02
+ilovesomuchh: folds 
+MackMcC: folds 
+Dorex2007: folds 
+tom905: raises $0.05 to $0.07
+jane4123: calls $0.05
+*** FLOP *** [2s 9h Tc]
+tom905: checks 
+jane4123: checks 
+*** TURN *** [2s 9h Tc] [Ks]
+nitramjr420 joins the table at seat #4 
+tom905: bets $0.14
+jane4123: folds 
+Uncalled bet ($0.14) returned to tom905
+tom905 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2s 9h Tc Ks]
+Seat 1: boyjunction folded before Flop (didn't bet)
+Seat 2: Semenov2010 folded before Flop (didn't bet)
+Seat 3: jane4123 folded on the Turn
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 7: MackMcC (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: tom905 (big blind) collected ($0.14)
+
+
+
+PokerStars Hand #233329161668:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:19:50 PT [2022/01/20 20:19:50 ET]
+Table 'Augeias II' 9-max Seat #8 is the button
+Seat 1: boyjunction ($4.37 in chips) 
+Seat 2: Semenov2010 ($0.81 in chips) 
+Seat 3: jane4123 ($1.39 in chips) 
+Seat 5: ilovesomuchh ($2.54 in chips) 
+Seat 7: MackMcC ($2.30 in chips) 
+Seat 8: Dorex2007 ($2.47 in chips) 
+Seat 9: tom905 ($1.19 in chips) 
+tom905: posts small blind $0.01
+boyjunction: posts big blind $0.02
+nitramjr420: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Js]
+wadsy27 joins the table at seat #6 
+Semenov2010: folds 
+jane4123: calls $0.02
+ilovesomuchh: folds 
+MackMcC: raises $0.04 to $0.06
+Dorex2007: calls $0.06
+tom905: calls $0.05
+boyjunction: calls $0.04
+jane4123: calls $0.04
+*** FLOP *** [Qd Jh 2c]
+tom905: checks 
+boyjunction: checks 
+jane4123: checks 
+MackMcC: bets $0.10
+Dorex2007: calls $0.10
+tom905: folds 
+boyjunction: calls $0.10
+jane4123: folds 
+*** TURN *** [Qd Jh 2c] [Qc]
+boyjunction: checks 
+MackMcC: checks 
+Dorex2007: checks 
+*** RIVER *** [Qd Jh 2c Qc] [Jd]
+boyjunction: bets $0.10
+MackMcC: calls $0.10
+Dorex2007: raises $0.38 to $0.48
+boyjunction: folds 
+MackMcC: folds 
+Uncalled bet ($0.38) returned to Dorex2007
+Dorex2007 collected $0.87 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.03 
+Board [Qd Jh 2c Qc Jd]
+Seat 1: boyjunction (big blind) folded on the River
+Seat 2: Semenov2010 folded before Flop (didn't bet)
+Seat 3: jane4123 folded on the Flop
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 7: MackMcC folded on the River
+Seat 8: Dorex2007 (button) collected ($0.87)
+Seat 9: tom905 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #233329199534:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:21:54 PT [2022/01/20 20:21:54 ET]
+Table 'Augeias II' 9-max Seat #9 is the button
+Seat 1: boyjunction ($4.11 in chips) 
+Seat 2: Semenov2010 ($0.81 in chips) 
+Seat 3: jane4123 ($1.33 in chips) 
+Seat 5: ilovesomuchh ($2.54 in chips) 
+Seat 7: MackMcC ($2.04 in chips) 
+Seat 8: Dorex2007 ($3.08 in chips) 
+Seat 9: tom905 ($1.13 in chips) 
+boyjunction: posts small blind $0.01
+Semenov2010: posts big blind $0.02
+nitramjr420: sits out 
+wadsy27: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 9c]
+jane4123: calls $0.02
+ilovesomuchh: raises $0.03 to $0.05
+MackMcC: folds 
+Dorex2007: folds 
+tom905: calls $0.05
+boyjunction: calls $0.04
+Semenov2010: folds 
+jane4123: calls $0.03
+*** FLOP *** [3c 4d 4h]
+boyjunction: checks 
+jane4123: checks 
+ilovesomuchh: bets $0.14
+tom905: calls $0.14
+boyjunction: folds 
+jane4123: folds 
+*** TURN *** [3c 4d 4h] [Jd]
+ilovesomuchh: checks 
+tom905: checks 
+*** RIVER *** [3c 4d 4h Jd] [Ah]
+ilovesomuchh: checks 
+tom905: checks 
+*** SHOW DOWN ***
+ilovesomuchh: shows [6d 6c] (two pair, Sixes and Fours)
+tom905: shows [8d 8s] (two pair, Eights and Fours)
+tom905 collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [3c 4d 4h Jd Ah]
+Seat 1: boyjunction (small blind) folded on the Flop
+Seat 2: Semenov2010 (big blind) folded before Flop
+Seat 3: jane4123 folded on the Flop
+Seat 5: ilovesomuchh showed [6d 6c] and lost with two pair, Sixes and Fours
+Seat 7: MackMcC folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tom905 (button) showed [8d 8s] and won ($0.48) with two pair, Eights and Fours
+
+
+
+PokerStars Hand #233329231040:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:23:06 PT [2022/01/20 20:23:06 ET]
+Table 'Augeias II' 9-max Seat #1 is the button
+Seat 1: boyjunction ($4.06 in chips) 
+Seat 2: Semenov2010 ($0.79 in chips) 
+Seat 3: jane4123 ($1.28 in chips) 
+Seat 5: ilovesomuchh ($2.35 in chips) 
+Seat 7: MackMcC ($2.04 in chips) 
+Seat 8: Dorex2007 ($3.08 in chips) 
+Seat 9: tom905 ($1.42 in chips) 
+Semenov2010: posts small blind $0.01
+jane4123: posts big blind $0.02
+nitramjr420: sits out 
+wadsy27: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 2d]
+ilovesomuchh: folds 
+MackMcC: folds 
+Dorex2007: folds 
+tom905: raises $0.02 to $0.04
+boyjunction: calls $0.04
+Semenov2010 has timed out
+Semenov2010: folds 
+jane4123: calls $0.02
+*** FLOP *** [3c 5c Ts]
+jane4123: checks 
+tom905: bets $0.07
+boyjunction: calls $0.07
+jane4123: calls $0.07
+*** TURN *** [3c 5c Ts] [3d]
+jane4123: checks 
+tom905: checks 
+boyjunction: bets $0.16
+jane4123: calls $0.16
+tom905: raises $0.16 to $0.32
+boyjunction: calls $0.16
+jane4123: calls $0.16
+*** RIVER *** [3c 5c Ts 3d] [9d]
+jane4123: checks 
+tom905: bets $0.99 and is all-in
+boyjunction: calls $0.99
+jane4123: calls $0.85 and is all-in
+*** SHOW DOWN ***
+tom905: shows [5d 5h] (a full house, Fives full of Threes)
+boyjunction: shows [Jc Th] (two pair, Tens and Threes)
+tom905 collected $0.27 from side pot
+jane4123: shows [5s 6s] (two pair, Fives and Threes)
+tom905 collected $3.72 from main pot
+*** SUMMARY ***
+Total pot $4.13 Main pot $3.72. Side pot $0.27. | Rake $0.14 
+Board [3c 5c Ts 3d 9d]
+Seat 1: boyjunction (button) showed [Jc Th] and lost with two pair, Tens and Threes
+Seat 2: Semenov2010 (small blind) folded before Flop
+Seat 3: jane4123 (big blind) showed [5s 6s] and lost with two pair, Fives and Threes
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 7: MackMcC folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tom905 showed [5d 5h] and won ($3.99) with a full house, Fives full of Threes
+
+
+
+PokerStars Hand #233329268505:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:25:10 PT [2022/01/20 20:25:10 ET]
+Table 'Augeias II' 9-max Seat #5 is the button
+Seat 1: boyjunction ($2.64 in chips) 
+Seat 4: nitramjr420 ($0.80 in chips) 
+Seat 5: ilovesomuchh ($2.35 in chips) 
+Seat 7: MackMcC ($2.04 in chips) 
+Seat 8: Dorex2007 ($3.08 in chips) 
+Seat 9: tom905 ($3.99 in chips) 
+MackMcC: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+nitramjr420: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 7d]
+tom905: folds 
+jane4123 leaves the table
+boyjunction: raises $0.04 to $0.06
+nitramjr420: folds 
+markb000 joins the table at seat #3 
+ilovesomuchh: folds 
+MackMcC: folds 
+Dorex2007: calls $0.04
+*** FLOP *** [9h Qh Kc]
+Dorex2007: checks 
+boyjunction: bets $0.06
+Dorex2007: folds 
+Uncalled bet ($0.06) returned to boyjunction
+boyjunction collected $0.14 from pot
+boyjunction: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9h Qh Kc]
+Seat 1: boyjunction collected ($0.14)
+Seat 4: nitramjr420 folded before Flop (didn't bet)
+Seat 5: ilovesomuchh (button) folded before Flop (didn't bet)
+Seat 7: MackMcC (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded on the Flop
+Seat 9: tom905 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233329281597:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:25:53 PT [2022/01/20 20:25:53 ET]
+Table 'Augeias II' 9-max Seat #7 is the button
+Seat 1: boyjunction ($2.72 in chips) 
+Seat 3: markb000 ($0.78 in chips) 
+Seat 4: nitramjr420 ($0.78 in chips) 
+Seat 5: ilovesomuchh ($2.35 in chips) 
+Seat 7: MackMcC ($2.03 in chips) 
+Seat 8: Dorex2007 ($3.02 in chips) 
+Seat 9: tom905 ($3.99 in chips) 
+Dorex2007: posts small blind $0.01
+tom905: posts big blind $0.02
+markb000: posts big blind $0.02
+wadsy27: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Ac]
+boyjunction: folds 
+markb000: checks 
+nitramjr420: folds 
+ilovesomuchh: folds 
+MackMcC: folds 
+Dorex2007: calls $0.01
+tom905: raises $0.02 to $0.04
+markb000: calls $0.02
+Dorex2007: calls $0.02
+*** FLOP *** [Qs Kd 8c]
+Dorex2007: checks 
+tom905: bets $0.06
+markb000: calls $0.06
+Dorex2007: folds 
+*** TURN *** [Qs Kd 8c] [Ah]
+tom905: checks 
+markb000: bets $0.23
+tom905: folds 
+Uncalled bet ($0.23) returned to markb000
+markb000 collected $0.23 from pot
+markb000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Qs Kd 8c Ah]
+Seat 1: boyjunction folded before Flop (didn't bet)
+Seat 3: markb000 collected ($0.23)
+Seat 4: nitramjr420 folded before Flop (didn't bet)
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 7: MackMcC (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded on the Flop
+Seat 9: tom905 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #233329302068:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:27:02 PT [2022/01/20 20:27:02 ET]
+Table 'Augeias II' 9-max Seat #8 is the button
+Seat 3: markb000 ($0.91 in chips) 
+Seat 4: nitramjr420 ($0.78 in chips) 
+Seat 5: ilovesomuchh ($2.35 in chips) 
+Seat 7: MackMcC ($2.03 in chips) 
+Seat 8: Dorex2007 ($2.98 in chips) 
+Seat 9: tom905 ($3.89 in chips) 
+tom905: posts small blind $0.01
+markb000: posts big blind $0.02
+wadsy27: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 4d]
+nitramjr420: calls $0.02
+ilovesomuchh: folds 
+MackMcC: calls $0.02
+Dorex2007: folds 
+tom905: folds 
+markb000: checks 
+*** FLOP *** [7d 7h Ac]
+markb000: bets $0.04
+nitramjr420: calls $0.04
+MackMcC: raises $0.19 to $0.23
+markb000: folds 
+nitramjr420: calls $0.19
+*** TURN *** [7d 7h Ac] [3d]
+nitramjr420: checks 
+MackMcC: checks 
+*** RIVER *** [7d 7h Ac 3d] [9d]
+nitramjr420: bets $0.53 and is all-in
+MackMcC: calls $0.53
+*** SHOW DOWN ***
+nitramjr420: shows [Ad Kd] (a flush, Ace high)
+MackMcC: shows [Ah 6s] (two pair, Aces and Sevens)
+nitramjr420 collected $1.57 from pot
+*** SUMMARY ***
+Total pot $1.63 | Rake $0.06 
+Board [7d 7h Ac 3d 9d]
+Seat 3: markb000 (big blind) folded on the Flop
+Seat 4: nitramjr420 showed [Ad Kd] and won ($1.57) with a flush, Ace high
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 7: MackMcC showed [Ah 6s] and lost with two pair, Aces and Sevens
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: tom905 (small blind) folded before Flop
+
+
+
+PokerStars Hand #233329322604:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:28:10 PT [2022/01/20 20:28:10 ET]
+Table 'Augeias II' 9-max Seat #9 is the button
+Seat 3: markb000 ($0.85 in chips) 
+Seat 4: nitramjr420 ($1.57 in chips) 
+Seat 5: ilovesomuchh ($2.35 in chips) 
+Seat 7: MackMcC ($1.25 in chips) 
+Seat 8: Dorex2007 ($2.98 in chips) 
+Seat 9: tom905 ($3.88 in chips) 
+markb000: posts small blind $0.01
+nitramjr420: posts big blind $0.02
+wadsy27: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 7h]
+ilovesomuchh: folds 
+MackMcC: folds 
+Dorex2007: folds 
+tom905: folds 
+markb000: calls $0.01
+nitramjr420: checks 
+*** FLOP *** [5c Jh 6s]
+markb000: bets $0.02
+nitramjr420: folds 
+Uncalled bet ($0.02) returned to markb000
+markb000 collected $0.04 from pot
+markb000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [5c Jh 6s]
+Seat 3: markb000 (small blind) collected ($0.04)
+Seat 4: nitramjr420 (big blind) folded on the Flop
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 7: MackMcC folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tom905 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233329339032:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:28:44 PT [2022/01/20 20:28:44 ET]
+Table 'Augeias II' 9-max Seat #3 is the button
+Seat 2: Semenov2010 ($0.78 in chips) 
+Seat 3: markb000 ($0.87 in chips) 
+Seat 4: nitramjr420 ($1.55 in chips) 
+Seat 5: ilovesomuchh ($2.35 in chips) 
+Seat 7: MackMcC ($1.25 in chips) 
+Seat 8: Dorex2007 ($2.98 in chips) 
+Seat 9: tom905 ($3.88 in chips) 
+nitramjr420: posts small blind $0.01
+ilovesomuchh: posts big blind $0.02
+wadsy27: sits out 
+Semenov2010: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 7s]
+MackMcC: raises $0.04 to $0.06
+Dorex2007: folds 
+tom905: folds 
+Semenov2010: folds 
+markb000: folds 
+nitramjr420: calls $0.05
+ilovesomuchh: folds 
+*** FLOP *** [7h 7c 3s]
+nitramjr420: checks 
+MackMcC: checks 
+*** TURN *** [7h 7c 3s] [Qc]
+nitramjr420: bets $0.16
+MackMcC: folds 
+Uncalled bet ($0.16) returned to nitramjr420
+nitramjr420 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [7h 7c 3s Qc]
+Seat 2: Semenov2010 folded before Flop (didn't bet)
+Seat 3: markb000 (button) folded before Flop (didn't bet)
+Seat 4: nitramjr420 (small blind) collected ($0.16)
+Seat 5: ilovesomuchh (big blind) folded before Flop
+Seat 7: MackMcC folded on the Turn
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tom905 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233329352546:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:29:29 PT [2022/01/20 20:29:29 ET]
+Table 'Augeias II' 9-max Seat #4 is the button
+Seat 2: Semenov2010 ($0.75 in chips) 
+Seat 3: markb000 ($0.87 in chips) 
+Seat 4: nitramjr420 ($1.65 in chips) 
+Seat 5: ilovesomuchh ($2.33 in chips) 
+Seat 6: wadsy27 ($2 in chips) 
+Seat 7: MackMcC ($1.19 in chips) 
+Seat 8: Dorex2007 ($2.98 in chips) 
+Seat 9: tom905 ($3.88 in chips) 
+ilovesomuchh: posts small blind $0.01
+wadsy27: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 6c]
+MackMcC: folds 
+Dorex2007: folds 
+tom905: raises $0.04 to $0.06
+Semenov2010: folds 
+markb000: folds 
+nitramjr420: folds 
+ilovesomuchh: folds 
+wadsy27: calls $0.04
+*** FLOP *** [3c Ks Js]
+wadsy27: checks 
+tom905: bets $0.13
+wadsy27: calls $0.13
+*** TURN *** [3c Ks Js] [6h]
+wadsy27: checks 
+tom905: bets $0.19
+wadsy27: folds 
+Uncalled bet ($0.19) returned to tom905
+tom905 collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [3c Ks Js 6h]
+Seat 2: Semenov2010 folded before Flop (didn't bet)
+Seat 3: markb000 folded before Flop (didn't bet)
+Seat 4: nitramjr420 (button) folded before Flop (didn't bet)
+Seat 5: ilovesomuchh (small blind) folded before Flop
+Seat 6: wadsy27 (big blind) folded on the Turn
+Seat 7: MackMcC folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tom905 collected ($0.38)
+
+
+
+PokerStars Hand #233329368653:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:30:21 PT [2022/01/20 20:30:21 ET]
+Table 'Augeias II' 9-max Seat #5 is the button
+Seat 2: Semenov2010 ($0.75 in chips) 
+Seat 3: markb000 ($0.87 in chips) 
+Seat 4: nitramjr420 ($1.65 in chips) 
+Seat 5: ilovesomuchh ($2.32 in chips) 
+Seat 6: wadsy27 ($1.81 in chips) 
+Seat 7: MackMcC ($1.19 in chips) 
+Seat 8: Dorex2007 ($2.98 in chips) 
+Seat 9: tom905 ($4.07 in chips) 
+wadsy27: posts small blind $0.01
+MackMcC: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 4s]
+Dorex2007: folds 
+tom905: folds 
+Semenov2010 has timed out
+Semenov2010: folds 
+markb000: raises $0.02 to $0.04
+nitramjr420: folds 
+ilovesomuchh: folds 
+wadsy27: folds 
+MackMcC: folds 
+Uncalled bet ($0.02) returned to markb000
+markb000 collected $0.05 from pot
+markb000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Semenov2010 folded before Flop (didn't bet)
+Seat 3: markb000 collected ($0.05)
+Seat 4: nitramjr420 folded before Flop (didn't bet)
+Seat 5: ilovesomuchh (button) folded before Flop (didn't bet)
+Seat 6: wadsy27 (small blind) folded before Flop
+Seat 7: MackMcC (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tom905 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233329375416:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:30:44 PT [2022/01/20 20:30:44 ET]
+Table 'Augeias II' 9-max Seat #6 is the button
+Seat 2: Semenov2010 ($0.75 in chips) 
+Seat 3: markb000 ($0.90 in chips) 
+Seat 4: nitramjr420 ($1.65 in chips) 
+Seat 5: ilovesomuchh ($2.32 in chips) 
+Seat 6: wadsy27 ($1.80 in chips) 
+Seat 7: MackMcC ($1.17 in chips) 
+Seat 8: Dorex2007 ($2.98 in chips) 
+Seat 9: tom905 ($4.07 in chips) 
+MackMcC: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 8s]
+tom905: folds 
+Semenov2010 has timed out
+Semenov2010: folds 
+markb000: folds 
+nitramjr420: folds 
+ilovesomuchh: raises $0.03 to $0.05
+wadsy27: folds 
+MackMcC: calls $0.04
+Dorex2007: calls $0.03
+*** FLOP *** [2c 5h Qc]
+MackMcC: checks 
+Dorex2007: bets $0.09
+ilovesomuchh: folds 
+MackMcC: folds 
+Uncalled bet ($0.09) returned to Dorex2007
+Dorex2007 collected $0.14 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2c 5h Qc]
+Seat 2: Semenov2010 folded before Flop (didn't bet)
+Seat 3: markb000 folded before Flop (didn't bet)
+Seat 4: nitramjr420 folded before Flop (didn't bet)
+Seat 5: ilovesomuchh folded on the Flop
+Seat 6: wadsy27 (button) folded before Flop (didn't bet)
+Seat 7: MackMcC (small blind) folded on the Flop
+Seat 8: Dorex2007 (big blind) collected ($0.14)
+Seat 9: tom905 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233329389765:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:31:32 PT [2022/01/20 20:31:32 ET]
+Table 'Augeias II' 9-max Seat #7 is the button
+Seat 2: Semenov2010 ($0.75 in chips) 
+Seat 3: markb000 ($0.90 in chips) 
+Seat 4: nitramjr420 ($1.65 in chips) 
+Seat 5: ilovesomuchh ($2.27 in chips) 
+Seat 6: wadsy27 ($1.80 in chips) 
+Seat 7: MackMcC ($1.12 in chips) 
+Seat 8: Dorex2007 ($3.07 in chips) 
+Seat 9: tom905 ($4.07 in chips) 
+Dorex2007: posts small blind $0.01
+tom905: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 9h]
+Semenov2010: folds 
+markb000: raises $0.02 to $0.04
+nitramjr420: folds 
+ilovesomuchh: folds 
+wadsy27: raises $0.11 to $0.15
+MackMcC: calls $0.15
+Dorex2007: folds 
+tom905: folds 
+markb000: raises $0.75 to $0.90 and is all-in
+wadsy27: folds 
+MackMcC: calls $0.75
+*** FLOP *** [3s 7c Ks]
+*** TURN *** [3s 7c Ks] [8d]
+*** RIVER *** [3s 7c Ks 8d] [5d]
+*** SHOW DOWN ***
+markb000: shows [8h 8s] (three of a kind, Eights)
+MackMcC: shows [Qd Ah] (high card Ace)
+markb000 collected $1.91 from pot
+*** SUMMARY ***
+Total pot $1.98 | Rake $0.07 
+Board [3s 7c Ks 8d 5d]
+Seat 2: Semenov2010 folded before Flop (didn't bet)
+Seat 3: markb000 showed [8h 8s] and won ($1.91) with three of a kind, Eights
+Seat 4: nitramjr420 folded before Flop (didn't bet)
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 6: wadsy27 folded before Flop
+Seat 7: MackMcC (button) showed [Qd Ah] and lost with high card Ace
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: tom905 (big blind) folded before Flop
+
+
+
+PokerStars Hand #233329406490:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:32:28 PT [2022/01/20 20:32:28 ET]
+Table 'Augeias II' 9-max Seat #8 is the button
+Seat 2: Semenov2010 ($0.75 in chips) 
+Seat 3: markb000 ($1.91 in chips) 
+Seat 4: nitramjr420 ($1.65 in chips) 
+Seat 5: ilovesomuchh ($2.27 in chips) 
+Seat 6: wadsy27 ($1.65 in chips) 
+Seat 7: MackMcC ($0.22 in chips) 
+Seat 8: Dorex2007 ($3.06 in chips) 
+Seat 9: tom905 ($4.05 in chips) 
+tom905: posts small blind $0.01
+Semenov2010: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 4c]
+markb000: folds 
+nitramjr420: raises $0.05 to $0.07
+ilovesomuchh: folds 
+wadsy27: folds 
+MackMcC: folds 
+MackMcC leaves the table
+Dorex2007: folds 
+tom905: folds 
+Semenov2010: folds 
+Uncalled bet ($0.05) returned to nitramjr420
+nitramjr420 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Semenov2010 (big blind) folded before Flop
+Seat 3: markb000 folded before Flop (didn't bet)
+Seat 4: nitramjr420 collected ($0.05)
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 6: wadsy27 folded before Flop (didn't bet)
+Seat 7: MackMcC folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: tom905 (small blind) folded before Flop
+
+
+
+PokerStars Hand #233329414432:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:32:55 PT [2022/01/20 20:32:55 ET]
+Table 'Augeias II' 9-max Seat #9 is the button
+Seat 2: Semenov2010 ($0.73 in chips) 
+Seat 3: markb000 ($1.91 in chips) 
+Seat 4: nitramjr420 ($1.68 in chips) 
+Seat 5: ilovesomuchh ($2.27 in chips) 
+Seat 6: wadsy27 ($1.65 in chips) 
+Seat 8: Dorex2007 ($3.06 in chips) 
+Seat 9: tom905 ($4.04 in chips) 
+Semenov2010: posts small blind $0.01
+markb000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 6c]
+nitramjr420: folds 
+ilovesomuchh: folds 
+wadsy27: folds 
+Dorex2007: folds 
+tom905: folds 
+Semenov2010: raises $0.04 to $0.06
+markb000: calls $0.04
+*** FLOP *** [6h Jh As]
+Semenov2010: bets $0.08
+markb000: calls $0.08
+*** TURN *** [6h Jh As] [Js]
+Semenov2010: bets $0.59 and is all-in
+markb000: calls $0.59
+*** RIVER *** [6h Jh As Js] [7h]
+*** SHOW DOWN ***
+Semenov2010: shows [Tc 3s] (a pair of Jacks)
+markb000: shows [Ad 2c] (two pair, Aces and Jacks)
+markb000 collected $1.41 from pot
+*** SUMMARY ***
+Total pot $1.46 | Rake $0.05 
+Board [6h Jh As Js 7h]
+Seat 2: Semenov2010 (small blind) showed [Tc 3s] and lost with a pair of Jacks
+Seat 3: markb000 (big blind) showed [Ad 2c] and won ($1.41) with two pair, Aces and Jacks
+Seat 4: nitramjr420 folded before Flop (didn't bet)
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 6: wadsy27 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tom905 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233329432938:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:33:57 PT [2022/01/20 20:33:57 ET]
+Table 'Augeias II' 9-max Seat #3 is the button
+Seat 3: markb000 ($2.59 in chips) 
+Seat 4: nitramjr420 ($1.68 in chips) 
+Seat 5: ilovesomuchh ($2.27 in chips) 
+Seat 6: wadsy27 ($1.65 in chips) 
+Seat 8: Dorex2007 ($3.06 in chips) 
+Seat 9: tom905 ($4.04 in chips) 
+nitramjr420: posts small blind $0.01
+ilovesomuchh: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Kd]
+wadsy27: folds 
+Dorex2007: folds 
+tom905: folds 
+markb000: folds 
+nitramjr420: folds 
+Uncalled bet ($0.01) returned to ilovesomuchh
+ilovesomuchh collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: markb000 (button) folded before Flop (didn't bet)
+Seat 4: nitramjr420 (small blind) folded before Flop
+Seat 5: ilovesomuchh (big blind) collected ($0.02)
+Seat 6: wadsy27 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tom905 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233329436990:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:34:11 PT [2022/01/20 20:34:11 ET]
+Table 'Augeias II' 9-max Seat #5 is the button
+Seat 2: Semenov2010 ($2 in chips) 
+Seat 3: markb000 ($2.59 in chips) 
+Seat 5: ilovesomuchh ($2.28 in chips) 
+Seat 6: wadsy27 ($1.65 in chips) 
+Seat 8: Dorex2007 ($3.06 in chips) 
+Seat 9: tom905 ($4.04 in chips) 
+wadsy27: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 9s]
+nitramjr420 leaves the table
+tom905: folds 
+Semenov2010 has timed out
+Semenov2010: folds 
+markb000: raises $0.02 to $0.04
+Seb45ti4N joins the table at seat #4 
+ilovesomuchh: folds 
+wadsy27: folds 
+Dorex2007: folds 
+Uncalled bet ($0.02) returned to markb000
+markb000 collected $0.05 from pot
+markb000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Semenov2010 folded before Flop (didn't bet)
+Seat 3: markb000 collected ($0.05)
+Seat 5: ilovesomuchh (button) folded before Flop (didn't bet)
+Seat 6: wadsy27 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: tom905 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233329447718:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:34:47 PT [2022/01/20 20:34:47 ET]
+Table 'Augeias II' 9-max Seat #6 is the button
+Seat 2: Semenov2010 ($2 in chips) 
+Seat 3: markb000 ($2.62 in chips) 
+Seat 5: ilovesomuchh ($2.28 in chips) 
+Seat 6: wadsy27 ($1.64 in chips) 
+Seat 8: Dorex2007 ($3.04 in chips) 
+Seat 9: tom905 ($4.04 in chips) 
+Dorex2007: posts small blind $0.01
+drema248 joins the table at seat #7 
+tom905: posts big blind $0.02
+Seb45ti4N: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 9c]
+Semenov2010 has timed out
+Semenov2010: folds 
+markb000: folds 
+ilovesomuchh: folds 
+wadsy27: folds 
+Dorex2007: calls $0.01
+tom905: checks 
+*** FLOP *** [Kc Qh 9h]
+Dorex2007: bets $0.03
+tom905: folds 
+Uncalled bet ($0.03) returned to Dorex2007
+Dorex2007 collected $0.04 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Kc Qh 9h]
+Seat 2: Semenov2010 folded before Flop (didn't bet)
+Seat 3: markb000 folded before Flop (didn't bet)
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 6: wadsy27 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) collected ($0.04)
+Seat 9: tom905 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #233329458105:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:35:22 PT [2022/01/20 20:35:22 ET]
+Table 'Augeias II' 9-max Seat #8 is the button
+Seat 2: Semenov2010 ($2 in chips) 
+Seat 3: markb000 ($2.62 in chips) 
+Seat 5: ilovesomuchh ($2.28 in chips) 
+Seat 6: wadsy27 ($1.64 in chips) 
+Seat 7: drema248 ($2 in chips) 
+Seat 8: Dorex2007 ($3.06 in chips) 
+Seat 9: tom905 ($4.02 in chips) 
+tom905: posts small blind $0.01
+Semenov2010: posts big blind $0.02
+Seb45ti4N: sits out 
+drema248: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 6c]
+markb000: calls $0.02
+ilovesomuchh: folds 
+wadsy27: folds 
+drema248: checks 
+Dorex2007: folds 
+tom905: folds 
+Semenov2010: checks 
+*** FLOP *** [6d 4c Qd]
+Semenov2010: checks 
+markb000: bets $0.02
+drema248: folds 
+Semenov2010: folds 
+Uncalled bet ($0.02) returned to markb000
+markb000 collected $0.07 from pot
+markb000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [6d 4c Qd]
+Seat 2: Semenov2010 (big blind) folded on the Flop
+Seat 3: markb000 collected ($0.07)
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 6: wadsy27 folded before Flop (didn't bet)
+Seat 7: drema248 folded on the Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: tom905 (small blind) folded before Flop
+
+
+
+PokerStars Hand #233329469993:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:36:02 PT [2022/01/20 20:36:02 ET]
+Table 'Augeias II' 9-max Seat #9 is the button
+Seat 2: Semenov2010 ($1.98 in chips) 
+Seat 3: markb000 ($2.67 in chips) 
+Seat 5: ilovesomuchh ($2.28 in chips) 
+Seat 6: wadsy27 ($1.64 in chips) 
+Seat 7: drema248 ($1.98 in chips) 
+Seat 8: Dorex2007 ($3.06 in chips) 
+Seat 9: tom905 ($4.01 in chips) 
+Semenov2010: posts small blind $0.01
+markb000: posts big blind $0.02
+Seb45ti4N: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 9c]
+ilovesomuchh: raises $0.03 to $0.05
+wadsy27: folds 
+drema248: calls $0.05
+Dorex2007: folds 
+tom905: folds 
+Semenov2010: raises $0.07 to $0.12
+markb000: calls $0.10
+ilovesomuchh: calls $0.07
+drema248: folds 
+*** FLOP *** [9d 7c Td]
+Semenov2010: bets $0.08
+markb000: folds 
+ilovesomuchh: folds 
+Uncalled bet ($0.08) returned to Semenov2010
+Semenov2010 collected $0.40 from pot
+Semenov2010: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [9d 7c Td]
+Seat 2: Semenov2010 (small blind) collected ($0.40)
+Seat 3: markb000 (big blind) folded on the Flop
+Seat 5: ilovesomuchh folded on the Flop
+Seat 6: wadsy27 folded before Flop (didn't bet)
+Seat 7: drema248 folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tom905 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233329490589:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:37:12 PT [2022/01/20 20:37:12 ET]
+Table 'Augeias II' 9-max Seat #2 is the button
+Seat 2: Semenov2010 ($2.26 in chips) 
+Seat 3: markb000 ($2.55 in chips) 
+Seat 4: Seb45ti4N ($1.25 in chips) 
+Seat 5: ilovesomuchh ($2.16 in chips) 
+Seat 6: wadsy27 ($1.64 in chips) 
+Seat 7: drema248 ($1.93 in chips) 
+Seat 8: Dorex2007 ($3.06 in chips) 
+Seat 9: tom905 ($4.01 in chips) 
+markb000: posts small blind $0.01
+Seb45ti4N: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 2c]
+ilovesomuchh: folds 
+wadsy27: folds 
+drema248: calls $0.02
+Dorex2007: folds 
+tom905: folds 
+Semenov2010: folds 
+markb000: calls $0.01
+Seb45ti4N: checks 
+*** FLOP *** [5s 6h Th]
+markb000: checks 
+Seb45ti4N: bets $0.04
+drema248: folds 
+markb000: folds 
+Uncalled bet ($0.04) returned to Seb45ti4N
+Seb45ti4N collected $0.06 from pot
+Seb45ti4N: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [5s 6h Th]
+Seat 2: Semenov2010 (button) folded before Flop (didn't bet)
+Seat 3: markb000 (small blind) folded on the Flop
+Seat 4: Seb45ti4N (big blind) collected ($0.06)
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 6: wadsy27 folded before Flop (didn't bet)
+Seat 7: drema248 folded on the Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tom905 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233329500784:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:37:47 PT [2022/01/20 20:37:47 ET]
+Table 'Augeias II' 9-max Seat #3 is the button
+Seat 2: Semenov2010 ($2.26 in chips) 
+Seat 3: markb000 ($2.53 in chips) 
+Seat 4: Seb45ti4N ($1.29 in chips) 
+Seat 5: ilovesomuchh ($2.16 in chips) 
+Seat 6: wadsy27 ($1.64 in chips) 
+Seat 7: drema248 ($1.91 in chips) 
+Seat 8: Dorex2007 ($3.06 in chips) 
+Seat 9: tom905 ($4.01 in chips) 
+Seb45ti4N: posts small blind $0.01
+ilovesomuchh: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 7h]
+wadsy27: folds 
+drema248: folds 
+Dorex2007: folds 
+tom905: folds 
+Semenov2010: folds 
+markb000: folds 
+Seb45ti4N: calls $0.01
+ilovesomuchh: checks 
+*** FLOP *** [2c Js 9s]
+Seb45ti4N: checks 
+ilovesomuchh: checks 
+*** TURN *** [2c Js 9s] [3d]
+Seb45ti4N: bets $0.02
+ilovesomuchh: calls $0.02
+*** RIVER *** [2c Js 9s 3d] [5d]
+Seb45ti4N: bets $0.04
+ilovesomuchh: folds 
+Uncalled bet ($0.04) returned to Seb45ti4N
+Seb45ti4N collected $0.08 from pot
+Seb45ti4N: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [2c Js 9s 3d 5d]
+Seat 2: Semenov2010 folded before Flop (didn't bet)
+Seat 3: markb000 (button) folded before Flop (didn't bet)
+Seat 4: Seb45ti4N (small blind) collected ($0.08)
+Seat 5: ilovesomuchh (big blind) folded on the River
+Seat 6: wadsy27 folded before Flop (didn't bet)
+Seat 7: drema248 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tom905 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233329531611:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:38:42 PT [2022/01/20 20:38:42 ET]
+Table 'Augeias II' 9-max Seat #4 is the button
+Seat 2: Semenov2010 ($2.26 in chips) 
+Seat 3: markb000 ($2.53 in chips) 
+Seat 4: Seb45ti4N ($1.33 in chips) 
+Seat 5: ilovesomuchh ($2.12 in chips) 
+Seat 6: wadsy27 ($1.64 in chips) 
+Seat 7: drema248 ($1.91 in chips) 
+Seat 8: Dorex2007 ($3.06 in chips) 
+Seat 9: tom905 ($4.01 in chips) 
+ilovesomuchh: posts small blind $0.01
+wadsy27: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 4c]
+drema248: calls $0.02
+Dorex2007: folds 
+tom905: folds 
+Semenov2010: folds 
+markb000: folds 
+Seb45ti4N: folds 
+ilovesomuchh: folds 
+wadsy27: checks 
+*** FLOP *** [Js Ah Jd]
+wadsy27: checks 
+drema248: checks 
+*** TURN *** [Js Ah Jd] [6h]
+wadsy27: checks 
+drema248: checks 
+*** RIVER *** [Js Ah Jd 6h] [Jc]
+wadsy27: checks 
+drema248: checks 
+*** SHOW DOWN ***
+wadsy27: shows [Th 4d] (three of a kind, Jacks)
+drema248: shows [Qh Td] (three of a kind, Jacks - Ace+Queen kicker)
+drema248 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Js Ah Jd 6h Jc]
+Seat 2: Semenov2010 folded before Flop (didn't bet)
+Seat 3: markb000 folded before Flop (didn't bet)
+Seat 4: Seb45ti4N (button) folded before Flop (didn't bet)
+Seat 5: ilovesomuchh (small blind) folded before Flop
+Seat 6: wadsy27 (big blind) showed [Th 4d] and lost with three of a kind, Jacks
+Seat 7: drema248 showed [Qh Td] and won ($0.05) with three of a kind, Jacks
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tom905 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233329543107:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:39:21 PT [2022/01/20 20:39:21 ET]
+Table 'Augeias II' 9-max Seat #5 is the button
+Seat 2: Semenov2010 ($2.26 in chips) 
+Seat 3: markb000 ($2.53 in chips) 
+Seat 4: Seb45ti4N ($1.33 in chips) 
+Seat 5: ilovesomuchh ($2.11 in chips) 
+Seat 6: wadsy27 ($1.62 in chips) 
+Seat 7: drema248 ($1.94 in chips) 
+Seat 8: Dorex2007 ($3.06 in chips) 
+Seat 9: tom905 ($4.01 in chips) 
+wadsy27: posts small blind $0.01
+drema248: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Qh]
+Dorex2007: folds 
+tom905: folds 
+Semenov2010: raises $0.02 to $0.04
+markb000: folds 
+Seb45ti4N: raises $0.12 to $0.16
+ilovesomuchh: folds 
+wadsy27: folds 
+drema248: folds 
+Semenov2010: calls $0.12
+*** FLOP *** [Qs 5h 3s]
+Semenov2010: checks 
+Seb45ti4N: bets $0.10
+Semenov2010: folds 
+Uncalled bet ($0.10) returned to Seb45ti4N
+Seb45ti4N collected $0.34 from pot
+Seb45ti4N: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [Qs 5h 3s]
+Seat 2: Semenov2010 folded on the Flop
+Seat 3: markb000 folded before Flop (didn't bet)
+Seat 4: Seb45ti4N collected ($0.34)
+Seat 5: ilovesomuchh (button) folded before Flop (didn't bet)
+Seat 6: wadsy27 (small blind) folded before Flop
+Seat 7: drema248 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tom905 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233329561535:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:40:23 PT [2022/01/20 20:40:23 ET]
+Table 'Augeias II' 9-max Seat #6 is the button
+Seat 2: Semenov2010 ($2.10 in chips) 
+Seat 3: markb000 ($2.53 in chips) 
+Seat 4: Seb45ti4N ($1.51 in chips) 
+Seat 5: ilovesomuchh ($2.11 in chips) 
+Seat 6: wadsy27 ($1.61 in chips) 
+Seat 7: drema248 ($1.92 in chips) 
+Seat 8: Dorex2007 ($3.06 in chips) 
+Seat 9: tom905 ($4.01 in chips) 
+drema248: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 3s]
+tom905: folds 
+Semenov2010: folds 
+markb000: folds 
+Seb45ti4N: calls $0.02
+ilovesomuchh: folds 
+wadsy27: raises $0.08 to $0.10
+drema248: folds 
+Dorex2007: folds 
+Seb45ti4N: calls $0.08
+*** FLOP *** [4d 2h 5h]
+Seb45ti4N: checks 
+wadsy27: bets $0.15
+Seb45ti4N: folds 
+Uncalled bet ($0.15) returned to wadsy27
+wadsy27 collected $0.22 from pot
+wadsy27: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [4d 2h 5h]
+Seat 2: Semenov2010 folded before Flop (didn't bet)
+Seat 3: markb000 folded before Flop (didn't bet)
+Seat 4: Seb45ti4N folded on the Flop
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 6: wadsy27 (button) collected ($0.22)
+Seat 7: drema248 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: tom905 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233329573168:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:41:03 PT [2022/01/20 20:41:03 ET]
+Table 'Augeias II' 9-max Seat #7 is the button
+Seat 2: Semenov2010 ($2.10 in chips) 
+Seat 3: markb000 ($2.53 in chips) 
+Seat 4: Seb45ti4N ($1.41 in chips) 
+Seat 5: ilovesomuchh ($2.11 in chips) 
+Seat 6: wadsy27 ($1.73 in chips) 
+Seat 7: drema248 ($2 in chips) 
+Seat 8: Dorex2007 ($3.04 in chips) 
+Seat 9: tom905 ($4.01 in chips) 
+Dorex2007: posts small blind $0.01
+tom905: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 7c]
+Semenov2010: folds 
+markb000: folds 
+Seb45ti4N: folds 
+ilovesomuchh: folds 
+wadsy27: folds 
+drema248: folds 
+Dorex2007: raises $0.02 to $0.04
+tom905: calls $0.02
+*** FLOP *** [Kc 3s Qd]
+Dorex2007: checks 
+tom905: bets $0.04
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to tom905
+tom905 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Kc 3s Qd]
+Seat 2: Semenov2010 folded before Flop (didn't bet)
+Seat 3: markb000 folded before Flop (didn't bet)
+Seat 4: Seb45ti4N folded before Flop (didn't bet)
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 6: wadsy27 folded before Flop (didn't bet)
+Seat 7: drema248 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded on the Flop
+Seat 9: tom905 (big blind) collected ($0.08)
+
+
+
+PokerStars Hand #233329586868:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:41:51 PT [2022/01/20 20:41:51 ET]
+Table 'Augeias II' 9-max Seat #8 is the button
+Seat 2: Semenov2010 ($2.10 in chips) 
+Seat 3: markb000 ($2.53 in chips) 
+Seat 4: Seb45ti4N ($1.41 in chips) 
+Seat 5: ilovesomuchh ($2.11 in chips) 
+Seat 6: wadsy27 ($1.73 in chips) 
+Seat 7: drema248 ($2 in chips) 
+Seat 8: Dorex2007 ($3 in chips) 
+Seat 9: tom905 ($4.05 in chips) 
+tom905: posts small blind $0.01
+Semenov2010: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 5s]
+markb000: folds 
+Seb45ti4N: raises $0.06 to $0.08
+ilovesomuchh: folds 
+wadsy27: folds 
+drema248: folds 
+Dorex2007: folds 
+tom905: folds 
+Semenov2010: folds 
+Uncalled bet ($0.06) returned to Seb45ti4N
+Seb45ti4N collected $0.05 from pot
+boyjunction leaves the table
+Seb45ti4N: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Semenov2010 (big blind) folded before Flop
+Seat 3: markb000 folded before Flop (didn't bet)
+Seat 4: Seb45ti4N collected ($0.05)
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 6: wadsy27 folded before Flop (didn't bet)
+Seat 7: drema248 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: tom905 (small blind) folded before Flop
+
+
+
+PokerStars Hand #233329595365:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:42:20 PT [2022/01/20 20:42:20 ET]
+Table 'Augeias II' 9-max Seat #9 is the button
+Seat 2: Semenov2010 ($2.08 in chips) 
+Seat 3: markb000 ($2.53 in chips) 
+Seat 4: Seb45ti4N ($1.44 in chips) 
+Seat 5: ilovesomuchh ($2.11 in chips) 
+Seat 6: wadsy27 ($1.73 in chips) 
+Seat 7: drema248 ($2 in chips) 
+Seat 8: Dorex2007 ($3 in chips) 
+Seat 9: tom905 ($4.04 in chips) 
+Semenov2010: posts small blind $0.01
+markb000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 9h]
+Seb45ti4N: raises $0.04 to $0.06
+ilovesomuchh: calls $0.06
+wadsy27: folds 
+drema248: folds 
+Dorex2007: folds 
+tom905: folds 
+Semenov2010: raises $2.02 to $2.08 and is all-in
+markb000: folds 
+Seb45ti4N: folds 
+ilovesomuchh: folds 
+Uncalled bet ($2.02) returned to Semenov2010
+Semenov2010 collected $0.20 from pot
+Semenov2010: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Semenov2010 (small blind) collected ($0.20)
+Seat 3: markb000 (big blind) folded before Flop
+Seat 4: Seb45ti4N folded before Flop
+Seat 5: ilovesomuchh folded before Flop
+Seat 6: wadsy27 folded before Flop (didn't bet)
+Seat 7: drema248 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tom905 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233329607016:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:43:00 PT [2022/01/20 20:43:00 ET]
+Table 'Augeias II' 9-max Seat #2 is the button
+Seat 2: Semenov2010 ($2.22 in chips) 
+Seat 3: markb000 ($2.51 in chips) 
+Seat 4: Seb45ti4N ($1.38 in chips) 
+Seat 5: ilovesomuchh ($2.05 in chips) 
+Seat 6: wadsy27 ($1.73 in chips) 
+Seat 7: drema248 ($2 in chips) 
+Seat 8: Dorex2007 ($3 in chips) 
+Seat 9: tom905 ($4.04 in chips) 
+markb000: posts small blind $0.01
+Seb45ti4N: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 8d]
+ilovesomuchh: folds 
+wadsy27: folds 
+drema248: folds 
+Dorex2007: folds 
+tom905: folds 
+Semenov2010: folds 
+markb000: raises $0.02 to $0.04
+Seb45ti4N: calls $0.02
+*** FLOP *** [Jd 2d 2s]
+markb000: bets $0.04
+Seb45ti4N: raises $0.10 to $0.14
+markb000: calls $0.10
+*** TURN *** [Jd 2d 2s] [6s]
+markb000: checks 
+Seb45ti4N: checks 
+*** RIVER *** [Jd 2d 2s 6s] [Kc]
+markb000: checks 
+Seb45ti4N: checks 
+*** SHOW DOWN ***
+markb000: shows [3h Ac] (a pair of Deuces)
+Seb45ti4N: mucks hand 
+markb000 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Jd 2d 2s 6s Kc]
+Seat 2: Semenov2010 (button) folded before Flop (didn't bet)
+Seat 3: markb000 (small blind) showed [3h Ac] and won ($0.35) with a pair of Deuces
+Seat 4: Seb45ti4N (big blind) mucked [7c Ts]
+Seat 5: ilovesomuchh folded before Flop (didn't bet)
+Seat 6: wadsy27 folded before Flop (didn't bet)
+Seat 7: drema248 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tom905 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233329625332:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:44:02 PT [2022/01/20 20:44:02 ET]
+Table 'Augeias II' 9-max Seat #3 is the button
+Seat 2: Semenov2010 ($2.22 in chips) 
+Seat 3: markb000 ($2.68 in chips) 
+Seat 4: Seb45ti4N ($1.20 in chips) 
+Seat 5: ilovesomuchh ($2.05 in chips) 
+Seat 6: wadsy27 ($1.73 in chips) 
+Seat 7: drema248 ($2 in chips) 
+Seat 8: Dorex2007 ($3 in chips) 
+Seat 9: tom905 ($4.04 in chips) 
+Seb45ti4N: posts small blind $0.01
+ilovesomuchh: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd As]
+wadsy27: folds 
+drema248: folds 
+Dorex2007: raises $0.04 to $0.06
+tom905: folds 
+Semenov2010: folds 
+dmcrbr joins the table at seat #1 
+markb000: folds 
+Seb45ti4N: calls $0.05
+ilovesomuchh: folds 
+*** FLOP *** [Ad 9h 4c]
+Seb45ti4N: checks 
+Dorex2007: bets $0.09
+Seb45ti4N: folds 
+Uncalled bet ($0.09) returned to Dorex2007
+Dorex2007 collected $0.14 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Ad 9h 4c]
+Seat 2: Semenov2010 folded before Flop (didn't bet)
+Seat 3: markb000 (button) folded before Flop (didn't bet)
+Seat 4: Seb45ti4N (small blind) folded on the Flop
+Seat 5: ilovesomuchh (big blind) folded before Flop
+Seat 6: wadsy27 folded before Flop (didn't bet)
+Seat 7: drema248 folded before Flop (didn't bet)
+Seat 8: Dorex2007 collected ($0.14)
+Seat 9: tom905 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233329635225:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/20 17:44:37 PT [2022/01/20 20:44:37 ET]
+Table 'Augeias II' 9-max Seat #4 is the button
+Seat 2: Semenov2010 ($2.22 in chips) 
+Seat 3: markb000 ($2.68 in chips) 
+Seat 4: Seb45ti4N ($1.14 in chips) 
+Seat 5: ilovesomuchh ($2.03 in chips) 
+Seat 6: wadsy27 ($1.73 in chips) 
+Seat 7: drema248 ($2 in chips) 
+Seat 8: Dorex2007 ($3.08 in chips) 
+Seat 9: tom905 ($4.04 in chips) 
+ilovesomuchh: posts small blind $0.01
+wadsy27: posts big blind $0.02
+dmcrbr: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 3c]
+drema248: calls $0.02
+Dorex2007: folds 
+tom905: folds 
+Semenov2010: folds 
+markb000: folds 
+Seb45ti4N: raises $0.08 to $0.10
+ilovesomuchh: folds 
+wadsy27: folds 
+drema248: folds 
+Uncalled bet ($0.08) returned to Seb45ti4N
+Seb45ti4N collected $0.07 from pot
+Seb45ti4N: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 2: Semenov2010 folded before Flop (didn't bet)
+Seat 3: markb000 folded before Flop (didn't bet)
+Seat 4: Seb45ti4N (button) collected ($0.07)
+Seat 5: ilovesomuchh (small blind) folded before Flop
+Seat 6: wadsy27 (big blind) folded before Flop
+Seat 7: drema248 folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: tom905 folded before Flop (didn't bet)
+
+
+
