@@ -1,0 +1,107 @@
+﻿PokerStars Hand #233358642101:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/21 16:27:46 PT [2022/01/21 19:27:46 ET]
+Table 'Deira' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 3: cr@sh test ($2 in chips) 
+Seat 4: mr_expert1 ($3.38 in chips) 
+Seat 5: conej ($1.86 in chips) 
+Seat 6: Lucky_Sue_111 ($1.84 in chips) 
+Seat 7: 1Asthma1 ($2.19 in chips) 
+Seat 8: ThirdAgeMan ($1.23 in chips) 
+Seat 9: Binaural1788 ($1.08 in chips) 
+conej: posts small blind $0.01
+Lucky_Sue_111: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 8s]
+1Asthma1: folds 
+ThirdAgeMan: raises $0.02 to $0.04
+Binaural1788: folds 
+Dorex2007: folds 
+cr@sh test: folds 
+mr_expert1: folds 
+conej: folds 
+Lucky_Sue_111: calls $0.02
+*** FLOP *** [Jc 6c 3s]
+Lucky_Sue_111: bets $0.02
+ThirdAgeMan: calls $0.02
+*** TURN *** [Jc 6c 3s] [9h]
+Lucky_Sue_111: bets $0.02
+ThirdAgeMan: calls $0.02
+*** RIVER *** [Jc 6c 3s 9h] [Qs]
+Lucky_Sue_111: bets $0.02
+ThirdAgeMan: folds 
+Uncalled bet ($0.02) returned to Lucky_Sue_111
+Lucky_Sue_111 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Jc 6c 3s 9h Qs]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: cr@sh test folded before Flop (didn't bet)
+Seat 4: mr_expert1 (button) folded before Flop (didn't bet)
+Seat 5: conej (small blind) folded before Flop
+Seat 6: Lucky_Sue_111 (big blind) collected ($0.18)
+Seat 7: 1Asthma1 folded before Flop (didn't bet)
+Seat 8: ThirdAgeMan folded on the River
+Seat 9: Binaural1788 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233358656758:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/21 16:28:23 PT [2022/01/21 19:28:23 ET]
+Table 'Deira' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 3: cr@sh test ($2 in chips) 
+Seat 4: mr_expert1 ($3.38 in chips) 
+Seat 5: conej ($1.85 in chips) 
+Seat 6: Lucky_Sue_111 ($1.94 in chips) 
+Seat 7: 1Asthma1 ($2.19 in chips) 
+Seat 8: ThirdAgeMan ($1.15 in chips) 
+Seat 9: Binaural1788 ($1.08 in chips) 
+Lucky_Sue_111: posts small blind $0.01
+1Asthma1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Ts]
+ThirdAgeMan: calls $0.02
+Binaural1788: calls $0.02
+Dorex2007: folds 
+cr@sh test: raises $0.02 to $0.04
+mr_expert1: calls $0.04
+conej: folds 
+Lucky_Sue_111: calls $0.03
+1Asthma1: folds 
+ThirdAgeMan: calls $0.02
+Binaural1788: calls $0.02
+*** FLOP *** [8c Ac 2s]
+Lucky_Sue_111: checks 
+ThirdAgeMan: checks 
+Binaural1788: bets $0.06
+cr@sh test: folds 
+mr_expert1: calls $0.06
+Lucky_Sue_111: folds 
+ThirdAgeMan: calls $0.06
+*** TURN *** [8c Ac 2s] [6s]
+ThirdAgeMan: checks 
+Binaural1788: checks 
+mr_expert1: bets $0.16
+ThirdAgeMan: folds 
+Binaural1788: calls $0.16
+*** RIVER *** [8c Ac 2s 6s] [7s]
+Binaural1788: checks 
+mr_expert1: checks 
+*** SHOW DOWN ***
+Binaural1788: shows [Kc 9c] (high card Ace)
+mr_expert1: shows [Ad Js] (a pair of Aces)
+mr_expert1 collected $0.68 from pot
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.04 
+Board [8c Ac 2s 6s 7s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: cr@sh test folded on the Flop
+Seat 4: mr_expert1 showed [Ad Js] and won ($0.68) with a pair of Aces
+Seat 5: conej (button) folded before Flop (didn't bet)
+Seat 6: Lucky_Sue_111 (small blind) folded on the Flop
+Seat 7: 1Asthma1 (big blind) folded before Flop
+Seat 8: ThirdAgeMan folded on the Turn
+Seat 9: Binaural1788 showed [Kc 9c] and lost with high card Ace
+
+
+
