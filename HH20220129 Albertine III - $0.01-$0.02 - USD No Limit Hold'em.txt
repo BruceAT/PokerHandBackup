@@ -1,0 +1,58 @@
+﻿PokerStars Hand #233609029383:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/29 19:55:36 PT [2022/01/29 22:55:36 ET]
+Table 'Albertine III' 9-max Seat #3 is the button
+Seat 1: Gustavok10 ($0.36 in chips) 
+Seat 2: Dorex2007 ($2 in chips) 
+Seat 3: ScrotieMcBugger ($7.08 in chips) 
+Seat 4: agrojilier ($0.57 in chips) 
+Seat 5: AlexmenZeVs ($2.04 in chips) 
+Seat 6: BiM-WiNNeR ($3.26 in chips) 
+Seat 7: rennah vizine ($4.51 in chips) 
+agrojilier: posts small blind $0.01
+AlexmenZeVs: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Qc]
+BiM-WiNNeR: folds 
+rennah vizine: calls $0.02
+Gustavok10: folds 
+Dorex2007: checks 
+ScrotieMcBugger: folds 
+agrojilier: calls $0.01
+AlexmenZeVs: checks 
+*** FLOP *** [7c 8h Th]
+agrojilier: checks 
+AlexmenZeVs: checks 
+rennah vizine: checks 
+Dorex2007: checks 
+*** TURN *** [7c 8h Th] [6c]
+IndigoShirt joins the table at seat #8 
+agrojilier: checks 
+AlexmenZeVs: checks 
+rennah vizine: checks 
+Dorex2007: checks 
+*** RIVER *** [7c 8h Th 6c] [9h]
+agrojilier: checks 
+absfcknglyntley joins the table at seat #9 
+AlexmenZeVs: bets $0.04
+rennah vizine: folds 
+Dorex2007: calls $0.04
+agrojilier: calls $0.04
+*** SHOW DOWN ***
+AlexmenZeVs: shows [Jd 4c] (a straight, Seven to Jack)
+Dorex2007: mucks hand 
+agrojilier: shows [6d Js] (a straight, Seven to Jack)
+agrojilier collected $0.10 from pot
+AlexmenZeVs collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [7c 8h Th 6c 9h]
+Seat 1: Gustavok10 folded before Flop (didn't bet)
+Seat 2: Dorex2007 mucked [5h Qc]
+Seat 3: ScrotieMcBugger (button) folded before Flop (didn't bet)
+Seat 4: agrojilier (small blind) showed [6d Js] and won ($0.10) with a straight, Seven to Jack
+Seat 5: AlexmenZeVs (big blind) showed [Jd 4c] and won ($0.09) with a straight, Seven to Jack
+Seat 6: BiM-WiNNeR folded before Flop (didn't bet)
+Seat 7: rennah vizine folded on the River
+
+
+

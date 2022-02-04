@@ -1,0 +1,5164 @@
+﻿PokerStars Hand #233633945894:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:12:14 PT [2022/01/30 17:12:14 ET]
+Table 'Gawain III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: gimi888 ($1.26 in chips) 
+Seat 4: JL0029 ($3.91 in chips) 
+Seat 5: djkimera ($2.19 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: POLLO ISRA75 ($2.03 in chips) 
+Seat 8: RUMJO ($3.08 in chips) 
+Seat 9: quiet4711 ($1.46 in chips) 
+quiet4711: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 6s]
+gimi888: folds 
+JL0029: folds 
+djkimera: folds 
+sieupeaici: folds 
+POLLO ISRA75: calls $0.02
+RUMJO: folds 
+quiet4711: raises $0.04 to $0.06
+Dorex2007: folds 
+POLLO ISRA75: calls $0.04
+*** FLOP *** [5c 3c 6h]
+quiet4711: checks 
+POLLO ISRA75: checks 
+*** TURN *** [5c 3c 6h] [Th]
+quiet4711: bets $0.06
+POLLO ISRA75: folds 
+Uncalled bet ($0.06) returned to quiet4711
+quiet4711 collected $0.14 from pot
+quiet4711: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [5c 3c 6h Th]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: gimi888 folded before Flop (didn't bet)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: djkimera folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: POLLO ISRA75 folded on the Turn
+Seat 8: RUMJO (button) folded before Flop (didn't bet)
+Seat 9: quiet4711 (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #233633972152:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:12:59 PT [2022/01/30 17:12:59 ET]
+Table 'Gawain III' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: gimi888 ($1.26 in chips) 
+Seat 4: JL0029 ($3.91 in chips) 
+Seat 5: djkimera ($2.19 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: POLLO ISRA75 ($1.97 in chips) 
+Seat 8: RUMJO ($3.08 in chips) 
+Seat 9: quiet4711 ($1.54 in chips) 
+Dorex2007: posts small blind $0.01
+gimi888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 6s]
+JL0029: folds 
+djkimera: raises $0.03 to $0.05
+sieupeaici: folds 
+POLLO ISRA75: calls $0.05
+RUMJO: folds 
+quiet4711: calls $0.05
+Dorex2007: folds 
+gimi888: calls $0.03
+*** FLOP *** [Qs 8s Qd]
+gimi888: checks 
+djkimera: checks 
+POLLO ISRA75: checks 
+quiet4711: checks 
+*** TURN *** [Qs 8s Qd] [2c]
+gimi888: bets $0.14
+djkimera: folds 
+POLLO ISRA75: calls $0.14
+quiet4711: folds 
+*** RIVER *** [Qs 8s Qd 2c] [5h]
+gimi888: bets $0.31
+POLLO ISRA75: folds 
+Uncalled bet ($0.31) returned to gimi888
+gimi888 collected $0.47 from pot
+gimi888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Qs 8s Qd 2c 5h]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: gimi888 (big blind) collected ($0.47)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: djkimera folded on the Turn
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: POLLO ISRA75 folded on the River
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: quiet4711 (button) folded on the Turn
+
+
+
+PokerStars Hand #233634015150:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:14:01 PT [2022/01/30 17:14:01 ET]
+Table 'Gawain III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: gimi888 ($1.54 in chips) 
+Seat 4: JL0029 ($3.91 in chips) 
+Seat 5: djkimera ($2.14 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: POLLO ISRA75 ($1.78 in chips) 
+Seat 8: RUMJO ($3.08 in chips) 
+Seat 9: quiet4711 ($1.49 in chips) 
+gimi888: posts small blind $0.01
+JL0029: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 2s]
+djkimera: folds 
+sieupeaici: folds 
+POLLO ISRA75: folds 
+RUMJO: folds 
+quiet4711: calls $0.02
+Dorex2007: folds 
+gimi888: folds 
+JL0029: checks 
+*** FLOP *** [6h Tc 7c]
+JL0029: checks 
+quiet4711: checks 
+*** TURN *** [6h Tc 7c] [6d]
+JL0029: checks 
+quiet4711: checks 
+*** RIVER *** [6h Tc 7c 6d] [5s]
+JL0029: checks 
+quiet4711: checks 
+*** SHOW DOWN ***
+JL0029: shows [7h 2d] (two pair, Sevens and Sixes)
+quiet4711: mucks hand 
+JL0029 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6h Tc 7c 6d 5s]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: gimi888 (small blind) folded before Flop
+Seat 4: JL0029 (big blind) showed [7h 2d] and won ($0.05) with two pair, Sevens and Sixes
+Seat 5: djkimera folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: POLLO ISRA75 folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: quiet4711 mucked [4c 9c]
+
+
+
+PokerStars Hand #233634046727:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:14:56 PT [2022/01/30 17:14:56 ET]
+Table 'Gawain III' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: gimi888 ($1.53 in chips) 
+Seat 4: JL0029 ($3.94 in chips) 
+Seat 5: djkimera ($2.14 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: POLLO ISRA75 ($1.78 in chips) 
+Seat 8: RUMJO ($3.08 in chips) 
+Seat 9: quiet4711 ($1.47 in chips) 
+JL0029: posts small blind $0.01
+djkimera: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Kc]
+sieupeaici: folds 
+POLLO ISRA75 has timed out
+POLLO ISRA75: folds 
+RUMJO: folds 
+quiet4711: calls $0.02
+Dorex2007: raises $0.04 to $0.06
+gimi888: folds 
+JL0029: folds 
+djkimera: folds 
+POLLO ISRA75 is disconnected 
+quiet4711: calls $0.04
+*** FLOP *** [4s 2h 4c]
+quiet4711: checks 
+Dorex2007: checks 
+*** TURN *** [4s 2h 4c] [Ks]
+quiet4711: checks 
+Dorex2007: bets $0.09
+quiet4711: folds 
+Uncalled bet ($0.09) returned to Dorex2007
+Dorex2007 collected $0.14 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [4s 2h 4c Ks]
+Seat 1: Dorex2007 collected ($0.14)
+Seat 2: gimi888 (button) folded before Flop (didn't bet)
+Seat 4: JL0029 (small blind) folded before Flop
+Seat 5: djkimera (big blind) folded before Flop
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: POLLO ISRA75 folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: quiet4711 folded on the Turn
+
+
+
+PokerStars Hand #233634087658:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:16:08 PT [2022/01/30 17:16:08 ET]
+Table 'Gawain III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2.08 in chips) 
+Seat 2: gimi888 ($1.53 in chips) 
+Seat 3: jl1955 ($0.64 in chips) 
+Seat 4: JL0029 ($3.93 in chips) 
+Seat 5: djkimera ($2.12 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($3.08 in chips) 
+Seat 9: quiet4711 ($1.41 in chips) 
+djkimera: posts small blind $0.01
+sieupeaici: posts big blind $0.02
+jl1955: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 2h]
+RUMJO: folds 
+quiet4711: folds 
+Dorex2007: folds 
+gimi888: raises $0.07 to $0.09
+jl1955: folds 
+JL0029: folds 
+djkimera: folds 
+sieupeaici: folds 
+Uncalled bet ($0.07) returned to gimi888
+gimi888 collected $0.08 from pot
+gimi888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: gimi888 collected ($0.08)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 (button) folded before Flop (didn't bet)
+Seat 5: djkimera (small blind) folded before Flop
+Seat 6: sieupeaici (big blind) folded before Flop
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: quiet4711 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233634099408:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:16:28 PT [2022/01/30 17:16:28 ET]
+Table 'Gawain III' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2.08 in chips) 
+Seat 2: gimi888 ($1.59 in chips) 
+Seat 3: jl1955 ($0.61 in chips) 
+Seat 4: JL0029 ($3.93 in chips) 
+Seat 5: djkimera ($2.11 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($3.08 in chips) 
+Seat 9: quiet4711 ($1.41 in chips) 
+sieupeaici: posts small blind $0.01
+RUMJO: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 4d]
+quiet4711: raises $0.02 to $0.04
+Dorex2007: folds 
+gimi888: folds 
+jl1955: calls $0.04
+JL0029: folds 
+djkimera: calls $0.04
+sieupeaici: folds 
+RUMJO: folds 
+*** FLOP *** [Td 4h Jc]
+quiet4711: checks 
+jl1955: checks 
+djkimera: bets $0.09
+quiet4711: calls $0.09
+jl1955: folds 
+*** TURN *** [Td 4h Jc] [Qh]
+quiet4711: checks 
+djkimera: bets $0.19
+quiet4711: calls $0.19
+*** RIVER *** [Td 4h Jc Qh] [Ac]
+quiet4711: bets $0.34
+djkimera: folds 
+Uncalled bet ($0.34) returned to quiet4711
+quiet4711 collected $0.69 from pot
+quiet4711: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02 
+Board [Td 4h Jc Qh Ac]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: gimi888 folded before Flop (didn't bet)
+Seat 3: jl1955 folded on the Flop
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: djkimera (button) folded on the River
+Seat 6: sieupeaici (small blind) folded before Flop
+Seat 8: RUMJO (big blind) folded before Flop
+Seat 9: quiet4711 collected ($0.69)
+
+
+
+PokerStars Hand #233634142754:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:17:43 PT [2022/01/30 17:17:43 ET]
+Table 'Gawain III' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($2.08 in chips) 
+Seat 2: gimi888 ($1.59 in chips) 
+Seat 3: jl1955 ($0.57 in chips) 
+Seat 4: JL0029 ($3.93 in chips) 
+Seat 5: djkimera ($2 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($3.06 in chips) 
+Seat 9: quiet4711 ($1.78 in chips) 
+RUMJO: posts small blind $0.01
+quiet4711: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Jh]
+Dorex2007: folds 
+gimi888: folds 
+jl1955: folds 
+JL0029: folds 
+djkimera: folds 
+sieupeaici: folds 
+RUMJO: folds 
+Uncalled bet ($0.01) returned to quiet4711
+quiet4711 collected $0.02 from pot
+quiet4711: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: gimi888 folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: djkimera folded before Flop (didn't bet)
+Seat 6: sieupeaici (button) folded before Flop (didn't bet)
+Seat 8: RUMJO (small blind) folded before Flop
+Seat 9: quiet4711 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #233634152475:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:18:00 PT [2022/01/30 17:18:00 ET]
+Table 'Gawain III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2.08 in chips) 
+Seat 2: gimi888 ($1.59 in chips) 
+Seat 3: jl1955 ($0.57 in chips) 
+Seat 4: JL0029 ($3.93 in chips) 
+Seat 5: djkimera ($2 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($3.05 in chips) 
+Seat 9: quiet4711 ($1.79 in chips) 
+quiet4711: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Qc]
+gimi888: folds 
+jl1955: folds 
+JL0029: raises $0.05 to $0.07
+POLLO ISRA75 is disconnected 
+djkimera: folds 
+sieupeaici: folds 
+RUMJO: folds 
+quiet4711: calls $0.06
+Dorex2007: calls $0.05
+*** FLOP *** [Ad Js 2h]
+quiet4711: checks 
+Dorex2007: bets $0.10
+JL0029: calls $0.10
+quiet4711: folds 
+*** TURN *** [Ad Js 2h] [Tc]
+Dorex2007: checks 
+JL0029: bets $0.28
+Dorex2007: folds 
+Uncalled bet ($0.28) returned to JL0029
+JL0029 collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Ad Js 2h Tc]
+Seat 1: Dorex2007 (big blind) folded on the Turn
+Seat 2: gimi888 folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 collected ($0.40)
+Seat 5: djkimera folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 8: RUMJO (button) folded before Flop (didn't bet)
+Seat 9: quiet4711 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #233634196691:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:19:17 PT [2022/01/30 17:19:17 ET]
+Table 'Gawain III' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: gimi888 ($1.59 in chips) 
+Seat 3: jl1955 ($0.57 in chips) 
+Seat 4: JL0029 ($4.16 in chips) 
+Seat 5: djkimera ($2 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($3.05 in chips) 
+Seat 9: quiet4711 ($1.72 in chips) 
+POLLO ISRA75 is disconnected 
+Dorex2007: posts small blind $0.01
+gimi888: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 2d]
+jl1955: folds 
+JL0029: folds 
+djkimera: raises $0.03 to $0.05
+sieupeaici: folds 
+RUMJO: folds 
+quiet4711: calls $0.05
+Dorex2007: folds 
+gimi888: folds 
+*** FLOP *** [6s 9c 7s]
+djkimera: bets $0.05
+quiet4711: calls $0.05
+*** TURN *** [6s 9c 7s] [2s]
+djkimera: checks 
+quiet4711: checks 
+*** RIVER *** [6s 9c 7s 2s] [4h]
+djkimera: checks 
+quiet4711: checks 
+*** SHOW DOWN ***
+djkimera: shows [Jd Tc] (high card Jack)
+quiet4711: shows [As 5d] (high card Ace)
+quiet4711 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [6s 9c 7s 2s 4h]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: gimi888 (big blind) folded before Flop
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: djkimera showed [Jd Tc] and lost with high card Jack
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: quiet4711 (button) showed [As 5d] and won ($0.22) with high card Ace
+
+
+
+PokerStars Hand #233634223533:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:20:04 PT [2022/01/30 17:20:04 ET]
+Table 'Gawain III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: gimi888 ($1.57 in chips) 
+Seat 3: jl1955 ($0.57 in chips) 
+Seat 4: JL0029 ($4.16 in chips) 
+Seat 5: djkimera ($2 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($3.05 in chips) 
+Seat 9: quiet4711 ($1.84 in chips) 
+gimi888: posts small blind $0.01
+jl1955: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Kh]
+JL0029: folds 
+djkimera: folds 
+sieupeaici: folds 
+RUMJO: folds 
+quiet4711: folds 
+Dorex2007: folds 
+gimi888: folds 
+Uncalled bet ($0.01) returned to jl1955
+jl1955 collected $0.02 from pot
+jl1955: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: gimi888 (small blind) folded before Flop
+Seat 3: jl1955 (big blind) collected ($0.02)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: djkimera folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: quiet4711 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233634234664:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:20:23 PT [2022/01/30 17:20:23 ET]
+Table 'Gawain III' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: gimi888 ($1.56 in chips) 
+Seat 3: jl1955 ($0.58 in chips) 
+Seat 4: JL0029 ($4.16 in chips) 
+Seat 5: djkimera ($2 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($3.05 in chips) 
+jl1955: posts small blind $0.01
+JL0029: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 9d]
+djkimera: folds 
+sieupeaici: folds 
+RUMJO: raises $0.03 to $0.05
+Dorex2007: folds 
+gimi888: raises $0.10 to $0.15
+jl1955: folds 
+JL0029: folds 
+RUMJO: calls $0.10
+*** FLOP *** [Tc 4d Jc]
+RUMJO: checks 
+gimi888: checks 
+*** TURN *** [Tc 4d Jc] [Js]
+RUMJO: checks 
+gimi888: checks 
+*** RIVER *** [Tc 4d Jc Js] [3h]
+RUMJO: checks 
+gimi888: checks 
+*** SHOW DOWN ***
+RUMJO: shows [7d 8d] (a pair of Jacks)
+gimi888: shows [8c Ad] (a pair of Jacks - Ace kicker)
+gimi888 collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Tc 4d Jc Js 3h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: gimi888 (button) showed [8c Ad] and won ($0.32) with a pair of Jacks
+Seat 3: jl1955 (small blind) folded before Flop
+Seat 4: JL0029 (big blind) folded before Flop
+Seat 5: djkimera folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 8: RUMJO showed [7d 8d] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #233634254749:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:20:59 PT [2022/01/30 17:20:59 ET]
+Table 'Gawain III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: gimi888 ($1.73 in chips) 
+Seat 3: jl1955 ($0.57 in chips) 
+Seat 4: JL0029 ($4.14 in chips) 
+Seat 5: djkimera ($2 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($2.90 in chips) 
+JL0029: posts small blind $0.01
+djkimera: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 5d]
+sieupeaici: folds 
+RUMJO: folds 
+Dorex2007: folds 
+gimi888: raises $0.03 to $0.05
+jl1955: folds 
+JL0029: folds 
+djkimera: folds 
+Uncalled bet ($0.03) returned to gimi888
+gimi888 collected $0.05 from pot
+gimi888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: gimi888 collected ($0.05)
+Seat 3: jl1955 (button) folded before Flop (didn't bet)
+Seat 4: JL0029 (small blind) folded before Flop
+Seat 5: djkimera (big blind) folded before Flop
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233634272115:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:21:12 PT [2022/01/30 17:21:12 ET]
+Table 'Gawain III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: gimi888 ($1.76 in chips) 
+Seat 3: jl1955 ($0.57 in chips) 
+Seat 4: JL0029 ($4.13 in chips) 
+Seat 5: djkimera ($2 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($2.90 in chips) 
+djkimera: posts small blind $0.01
+sieupeaici: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 9d]
+RUMJO: raises $0.03 to $0.05
+POLLO ISRA75 is disconnected 
+Dorex2007: calls $0.05
+gimi888: folds 
+jl1955: folds 
+JL0029: folds 
+djkimera: calls $0.04
+sieupeaici: folds 
+*** FLOP *** [Qc Qh 5c]
+djkimera: checks 
+RUMJO: checks 
+Dorex2007: checks 
+*** TURN *** [Qc Qh 5c] [Kc]
+djkimera: checks 
+RUMJO: bets $0.05
+Dorex2007: folds 
+djkimera: folds 
+Uncalled bet ($0.05) returned to RUMJO
+RUMJO collected $0.16 from pot
+RUMJO: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Qc Qh 5c Kc]
+Seat 1: Dorex2007 folded on the Turn
+Seat 2: gimi888 folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 (button) folded before Flop (didn't bet)
+Seat 5: djkimera (small blind) folded on the Turn
+Seat 6: sieupeaici (big blind) folded before Flop
+Seat 8: RUMJO collected ($0.16)
+
+
+
+PokerStars Hand #233634299520:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:22:00 PT [2022/01/30 17:22:00 ET]
+Table 'Gawain III' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: gimi888 ($1.76 in chips) 
+Seat 3: jl1955 ($0.57 in chips) 
+Seat 4: JL0029 ($4.13 in chips) 
+Seat 5: djkimera ($2 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($3.01 in chips) 
+sieupeaici: posts small blind $0.01
+RUMJO: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 7s]
+Dorex2007: folds 
+gimi888: folds 
+jl1955: folds 
+JL0029: folds 
+djkimera: folds 
+sieupeaici: folds 
+Uncalled bet ($0.01) returned to RUMJO
+RUMJO collected $0.02 from pot
+RUMJO: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: gimi888 folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: djkimera (button) folded before Flop (didn't bet)
+Seat 6: sieupeaici (small blind) folded before Flop
+Seat 8: RUMJO (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #233634305833:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:22:12 PT [2022/01/30 17:22:12 ET]
+Table 'Gawain III' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: gimi888 ($1.76 in chips) 
+Seat 3: jl1955 ($0.57 in chips) 
+Seat 4: JL0029 ($4.13 in chips) 
+Seat 5: djkimera ($2 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($3.02 in chips) 
+RUMJO: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Ah]
+quiet4711 is disconnected 
+gimi888: folds 
+jl1955: folds 
+JL0029: folds 
+djkimera: raises $0.03 to $0.05
+sieupeaici: folds 
+RUMJO: folds 
+Dorex2007: raises $0.05 to $0.10
+djkimera: calls $0.05
+*** FLOP *** [9h 2s Ad]
+Dorex2007: checks 
+djkimera: bets $0.19
+Dorex2007: calls $0.19
+*** TURN *** [9h 2s Ad] [3s]
+Dorex2007: checks 
+djkimera: bets $0.23
+Dorex2007: raises $0.52 to $0.75
+djkimera: calls $0.52
+*** RIVER *** [9h 2s Ad 3s] [As]
+Dorex2007: bets $0.48
+djkimera: raises $0.48 to $0.96 and is all-in
+Dorex2007: calls $0.48 and is all-in
+*** SHOW DOWN ***
+djkimera: shows [9s 9c] (a full house, Nines full of Aces)
+Dorex2007: shows [Ac Ah] (four of a kind, Aces)
+Dorex2007 collected $3.87 from pot
+*** SUMMARY ***
+Total pot $4.01 | Rake $0.14 
+Board [9h 2s Ad 3s As]
+Seat 1: Dorex2007 (big blind) showed [Ac Ah] and won ($3.87) with four of a kind, Aces
+Seat 2: gimi888 folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: djkimera showed [9s 9c] and lost with a full house, Nines full of Aces
+Seat 6: sieupeaici (button) folded before Flop (didn't bet)
+Seat 8: RUMJO (small blind) folded before Flop
+
+
+
+PokerStars Hand #233634361214:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:23:40 PT [2022/01/30 17:23:40 ET]
+Table 'Gawain III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($3.87 in chips) 
+Seat 3: jl1955 ($0.57 in chips) 
+Seat 4: JL0029 ($4.13 in chips) 
+Seat 5: djkimera ($2 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($3.01 in chips) 
+Dorex2007: posts small blind $0.01
+gimi888: is sitting out 
+jl1955: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Tc]
+JL0029: folds 
+djkimera: folds 
+sieupeaici: folds 
+RUMJO: folds 
+Dorex2007: calls $0.01
+jl1955: checks 
+*** FLOP *** [3d 6h Jh]
+Dorex2007: checks 
+jl1955: checks 
+*** TURN *** [3d 6h Jh] [8s]
+Dorex2007: checks 
+jl1955: checks 
+*** RIVER *** [3d 6h Jh 8s] [Td]
+Dorex2007: checks 
+jl1955: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [Qd Tc] (a pair of Tens)
+jl1955: mucks hand 
+Dorex2007 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3d 6h Jh 8s Td]
+Seat 1: Dorex2007 (small blind) showed [Qd Tc] and won ($0.04) with a pair of Tens
+Seat 3: jl1955 (big blind) mucked [3h 4d]
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: djkimera folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 8: RUMJO (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233634384726:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:24:23 PT [2022/01/30 17:24:23 ET]
+Table 'Gawain III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($3.89 in chips) 
+Seat 3: jl1955 ($0.55 in chips) 
+Seat 4: JL0029 ($4.13 in chips) 
+Seat 5: djkimera ($2 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($3.01 in chips) 
+jl1955: posts small blind $0.01
+JL0029: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Qc]
+djkimera: raises $0.03 to $0.05
+sieupeaici: folds 
+RUMJO: folds 
+Dorex2007: folds 
+jl1955: folds 
+JL0029: folds 
+Uncalled bet ($0.03) returned to djkimera
+djkimera collected $0.05 from pot
+djkimera: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: jl1955 (small blind) folded before Flop
+Seat 4: JL0029 (big blind) folded before Flop
+Seat 5: djkimera collected ($0.05)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233634397030:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:24:45 PT [2022/01/30 17:24:45 ET]
+Table 'Gawain III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($3.89 in chips) 
+Seat 3: jl1955 ($0.54 in chips) 
+Seat 4: JL0029 ($4.11 in chips) 
+Seat 5: djkimera ($2.03 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($3.01 in chips) 
+JL0029: posts small blind $0.01
+djkimera: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 9s]
+sieupeaici: folds 
+RUMJO: folds 
+Dorex2007: folds 
+jl1955: folds 
+JL0029: folds 
+Uncalled bet ($0.01) returned to djkimera
+djkimera collected $0.02 from pot
+djkimera: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: jl1955 (button) folded before Flop (didn't bet)
+Seat 4: JL0029 (small blind) folded before Flop
+Seat 5: djkimera (big blind) collected ($0.02)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233634413061:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:24:58 PT [2022/01/30 17:24:58 ET]
+Table 'Gawain III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($3.89 in chips) 
+Seat 3: jl1955 ($0.54 in chips) 
+Seat 4: JL0029 ($4.10 in chips) 
+Seat 5: djkimera ($2.04 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($3.01 in chips) 
+djkimera: posts small blind $0.01
+sieupeaici: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 9h]
+RUMJO: folds 
+Dorex2007: folds 
+gimi888 leaves the table
+jl1955: raises $0.05 to $0.07
+JL0029: folds 
+djkimera: folds 
+sieupeaici: folds 
+Uncalled bet ($0.05) returned to jl1955
+jl1955 collected $0.05 from pot
+jl1955: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: jl1955 collected ($0.05)
+Seat 4: JL0029 (button) folded before Flop (didn't bet)
+Seat 5: djkimera (small blind) folded before Flop
+Seat 6: sieupeaici (big blind) folded before Flop
+Seat 8: RUMJO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233634424232:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:25:17 PT [2022/01/30 17:25:17 ET]
+Table 'Gawain III' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($3.89 in chips) 
+Seat 3: jl1955 ($0.57 in chips) 
+Seat 4: JL0029 ($4.10 in chips) 
+Seat 5: djkimera ($2.03 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($3.01 in chips) 
+sieupeaici: posts small blind $0.01
+RUMJO: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Qs]
+Dorex2007: folds 
+jl1955: folds 
+JL0029: folds 
+djkimera: folds 
+sieupeaici: folds 
+Uncalled bet ($0.01) returned to RUMJO
+RUMJO collected $0.02 from pot
+RUMJO: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: djkimera (button) folded before Flop (didn't bet)
+Seat 6: sieupeaici (small blind) folded before Flop
+Seat 8: RUMJO (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #233634430581:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:25:28 PT [2022/01/30 17:25:28 ET]
+Table 'Gawain III' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($3.89 in chips) 
+Seat 3: jl1955 ($0.57 in chips) 
+Seat 4: JL0029 ($4.10 in chips) 
+Seat 5: djkimera ($2.03 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($3.02 in chips) 
+RUMJO: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 2d]
+jl1955: calls $0.02
+JL0029: raises $0.08 to $0.10
+djkimera: folds 
+sieupeaici: folds 
+RUMJO: folds 
+Dorex2007: folds 
+jl1955: calls $0.08
+*** FLOP *** [Kc Th Kd]
+jl1955: checks 
+JL0029: bets $0.07
+jl1955: folds 
+Uncalled bet ($0.07) returned to JL0029
+JL0029 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Kc Th Kd]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 3: jl1955 folded on the Flop
+Seat 4: JL0029 collected ($0.22)
+Seat 5: djkimera folded before Flop (didn't bet)
+Seat 6: sieupeaici (button) folded before Flop (didn't bet)
+Seat 8: RUMJO (small blind) folded before Flop
+
+
+
+PokerStars Hand #233634455227:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:26:12 PT [2022/01/30 17:26:12 ET]
+Table 'Gawain III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($3.87 in chips) 
+Seat 3: jl1955 ($0.47 in chips) 
+Seat 4: JL0029 ($4.22 in chips) 
+Seat 5: djkimera ($2.03 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($3.01 in chips) 
+Dorex2007: posts small blind $0.01
+jl1955: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 3c]
+JL0029: raises $0.05 to $0.07
+djkimera: raises $0.17 to $0.24
+sieupeaici: folds 
+RUMJO: folds 
+Dorex2007: folds 
+jl1955: folds 
+JL0029: raises $0.36 to $0.60
+hesc a. joins the table at seat #2 
+djkimera: calls $0.36
+*** FLOP *** [8s Jc 9s]
+JL0029: checks 
+djkimera: checks 
+*** TURN *** [8s Jc 9s] [6c]
+JL0029: checks 
+djkimera: bets $0.46
+JL0029: calls $0.46
+*** RIVER *** [8s Jc 9s 6c] [9h]
+JL0029: checks 
+djkimera: checks 
+*** SHOW DOWN ***
+JL0029: shows [Kd Kc] (two pair, Kings and Nines)
+djkimera: mucks hand 
+JL0029 collected $2.07 from pot
+*** SUMMARY ***
+Total pot $2.15 | Rake $0.08 
+Board [8s Jc 9s 6c 9h]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 3: jl1955 (big blind) folded before Flop
+Seat 4: JL0029 showed [Kd Kc] and won ($2.07) with two pair, Kings and Nines
+Seat 5: djkimera mucked [Qs Qd]
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 8: RUMJO (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233634495372:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:27:24 PT [2022/01/30 17:27:24 ET]
+Table 'Gawain III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($3.86 in chips) 
+Seat 3: jl1955 ($0.45 in chips) 
+Seat 4: JL0029 ($5.23 in chips) 
+Seat 5: djkimera ($2 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($3.01 in chips) 
+jl1955: posts small blind $0.01
+JL0029: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 2h]
+djkimera: folds 
+sieupeaici: folds 
+RUMJO: raises $0.03 to $0.05
+Dorex2007: folds 
+jl1955: folds 
+JL0029: folds 
+Uncalled bet ($0.03) returned to RUMJO
+RUMJO collected $0.05 from pot
+RUMJO: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: jl1955 (small blind) folded before Flop
+Seat 4: JL0029 (big blind) folded before Flop
+Seat 5: djkimera folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 8: RUMJO collected ($0.05)
+
+
+
+PokerStars Hand #233634505921:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:27:43 PT [2022/01/30 17:27:43 ET]
+Table 'Gawain III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($3.86 in chips) 
+Seat 2: hesc a. ($1.10 in chips) 
+Seat 3: jl1955 ($0.44 in chips) 
+Seat 4: JL0029 ($5.21 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($3.04 in chips) 
+JL0029: posts small blind $0.01
+djkimera: is sitting out 
+sieupeaici: posts big blind $0.02
+hesc a.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Qs]
+RUMJO: folds 
+Dorex2007: raises $0.04 to $0.06
+hesc a.: folds 
+jl1955: folds 
+djkimera leaves the table
+JL0029: folds 
+sieupeaici: calls $0.04
+*** FLOP *** [5h 9h 6s]
+sieupeaici: checks 
+Dorex2007: checks 
+*** TURN *** [5h 9h 6s] [6d]
+sieupeaici: bets $0.07
+Dorex2007: calls $0.07
+*** RIVER *** [5h 9h 6s 6d] [5d]
+sieupeaici: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+sieupeaici: shows [Qd Qc] (two pair, Queens and Sixes)
+Dorex2007: mucks hand 
+sieupeaici collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [5h 9h 6s 6d 5d]
+Seat 1: Dorex2007 mucked [Ah Qs]
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 (button) folded before Flop (didn't bet)
+Seat 4: JL0029 (small blind) folded before Flop
+Seat 6: sieupeaici (big blind) showed [Qd Qc] and won ($0.28) with two pair, Queens and Sixes
+Seat 8: RUMJO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233634531700:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:28:29 PT [2022/01/30 17:28:29 ET]
+Table 'Gawain III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($3.73 in chips) 
+Seat 2: hesc a. ($1.08 in chips) 
+Seat 3: jl1955 ($0.44 in chips) 
+Seat 4: JL0029 ($5.20 in chips) 
+Seat 6: sieupeaici ($2.15 in chips) 
+Seat 8: RUMJO ($3.04 in chips) 
+sieupeaici: posts small blind $0.01
+RUMJO: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 9c]
+Dorex2007: calls $0.02
+hesc a.: folds 
+jl1955: folds 
+JL0029: folds 
+Zuban442 joins the table at seat #5 
+sieupeaici: folds 
+RUMJO: checks 
+*** FLOP *** [As Qh 7s]
+RUMJO: checks 
+Dorex2007: checks 
+*** TURN *** [As Qh 7s] [Ad]
+RUMJO: checks 
+Dorex2007: bets $0.03
+RUMJO: folds 
+Uncalled bet ($0.03) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+POLLO ISRA75 leaves the table
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [As Qh 7s Ad]
+Seat 1: Dorex2007 collected ($0.05)
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 (button) folded before Flop (didn't bet)
+Seat 6: sieupeaici (small blind) folded before Flop
+Seat 8: RUMJO (big blind) folded on the Turn
+
+
+
+PokerStars Hand #233634546226:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:28:55 PT [2022/01/30 17:28:55 ET]
+Table 'Gawain III' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($3.76 in chips) 
+Seat 2: hesc a. ($1.08 in chips) 
+Seat 3: jl1955 ($0.44 in chips) 
+Seat 4: JL0029 ($5.20 in chips) 
+Seat 5: Zuban442 ($0.80 in chips) 
+Seat 6: sieupeaici ($2.14 in chips) 
+Seat 8: RUMJO ($3.02 in chips) 
+RUMJO: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Zuban442: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 6h]
+hesc a.: folds 
+jl1955: calls $0.02
+JL0029: folds 
+Zuban442: checks 
+sieupeaici: folds 
+RUMJO: folds 
+Dorex2007: checks 
+*** FLOP *** [3s 5h 8d]
+FilMiami joins the table at seat #7 
+Dorex2007: checks 
+jl1955: checks 
+Zuban442: checks 
+*** TURN *** [3s 5h 8d] [9h]
+Dorex2007: checks 
+jl1955: checks 
+Zuban442: checks 
+*** RIVER *** [3s 5h 8d 9h] [Jc]
+Dorex2007: checks 
+jl1955: checks 
+Zuban442: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [8s 6h] (a pair of Eights)
+jl1955: mucks hand 
+Zuban442: mucks hand 
+Dorex2007 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [3s 5h 8d 9h Jc]
+Seat 1: Dorex2007 (big blind) showed [8s 6h] and won ($0.07) with a pair of Eights
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 mucked [7h 7d]
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: Zuban442 mucked [3c 7c]
+Seat 6: sieupeaici (button) folded before Flop (didn't bet)
+Seat 8: RUMJO (small blind) folded before Flop
+
+
+
+PokerStars Hand #233634565488:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:29:29 PT [2022/01/30 17:29:29 ET]
+Table 'Gawain III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($3.81 in chips) 
+Seat 2: hesc a. ($1.08 in chips) 
+Seat 3: jl1955 ($0.42 in chips) 
+Seat 4: JL0029 ($5.20 in chips) 
+Seat 5: Zuban442 ($0.78 in chips) 
+Seat 6: sieupeaici ($2.14 in chips) 
+Seat 8: RUMJO ($3.01 in chips) 
+Dorex2007: posts small blind $0.01
+hesc a.: posts big blind $0.02
+FilMiami: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 2d]
+jl1955: folds 
+JL0029: folds 
+Zuban442: folds 
+sieupeaici: folds 
+RUMJO: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to hesc a.
+hesc a. collected $0.02 from pot
+hesc a.: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: hesc a. (big blind) collected ($0.02)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 8: RUMJO (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233634573484:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:29:44 PT [2022/01/30 17:29:44 ET]
+Table 'Gawain III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($3.80 in chips) 
+Seat 2: hesc a. ($1.09 in chips) 
+Seat 3: jl1955 ($0.42 in chips) 
+Seat 4: JL0029 ($5.20 in chips) 
+Seat 5: Zuban442 ($0.78 in chips) 
+Seat 6: sieupeaici ($2.14 in chips) 
+Seat 8: RUMJO ($3.01 in chips) 
+hesc a.: posts small blind $0.01
+jl1955: posts big blind $0.02
+FilMiami: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 6h]
+JL0029: folds 
+Zuban442: folds 
+sieupeaici: folds 
+RUMJO: folds 
+Dorex2007: folds 
+hesc a.: calls $0.01
+jl1955: checks 
+*** FLOP *** [Ks 7c Ad]
+Zuban442 leaves the table
+hesc a.: checks 
+jl1955: checks 
+*** TURN *** [Ks 7c Ad] [9h]
+hesc a.: checks 
+jl1955: checks 
+*** RIVER *** [Ks 7c Ad 9h] [4s]
+frosa9397 joins the table at seat #5 
+hesc a.: checks 
+jl1955: checks 
+*** SHOW DOWN ***
+hesc a.: shows [3d 4h] (a pair of Fours)
+jl1955: mucks hand 
+hesc a. collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Ks 7c Ad 9h 4s]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: hesc a. (small blind) showed [3d 4h] and won ($0.04) with a pair of Fours
+Seat 3: jl1955 (big blind) mucked [5c 8h]
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: Zuban442 folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233634589077:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:30:12 PT [2022/01/30 17:30:12 ET]
+Table 'Gawain III' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($3.80 in chips) 
+Seat 2: hesc a. ($1.11 in chips) 
+Seat 3: jl1955 ($0.40 in chips) 
+Seat 4: JL0029 ($5.20 in chips) 
+Seat 6: sieupeaici ($2.14 in chips) 
+Seat 8: RUMJO ($3.01 in chips) 
+jl1955: posts small blind $0.01
+JL0029: posts big blind $0.02
+frosa9397: sits out 
+FilMiami: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 2s]
+sieupeaici: folds 
+RUMJO: folds 
+Dorex2007: folds 
+hesc a.: calls $0.02
+jl1955: folds 
+JL0029: checks 
+*** FLOP *** [Js 2c 7h]
+JL0029: checks 
+hesc a.: checks 
+*** TURN *** [Js 2c 7h] [Ac]
+JL0029: checks 
+hesc a.: checks 
+*** RIVER *** [Js 2c 7h Ac] [6d]
+JL0029: checks 
+hesc a.: checks 
+*** SHOW DOWN ***
+JL0029: shows [8h Jc] (a pair of Jacks)
+hesc a.: mucks hand 
+JL0029 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Js 2c 7h Ac 6d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. (button) mucked [Kc 9c]
+Seat 3: jl1955 (small blind) folded before Flop
+Seat 4: JL0029 (big blind) showed [8h Jc] and won ($0.05) with a pair of Jacks
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233634604905:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:30:40 PT [2022/01/30 17:30:40 ET]
+Table 'Gawain III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($3.80 in chips) 
+Seat 2: hesc a. ($1.09 in chips) 
+Seat 3: jl1955 ($0.39 in chips) 
+Seat 4: JL0029 ($5.23 in chips) 
+Seat 5: frosa9397 ($2 in chips) 
+Seat 6: sieupeaici ($2.14 in chips) 
+Seat 8: RUMJO ($3.01 in chips) 
+JL0029: posts small blind $0.01
+frosa9397: posts big blind $0.02
+FilMiami: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Qh]
+sieupeaici: folds 
+RUMJO: folds 
+Dorex2007: folds 
+hesc a.: folds 
+jl1955: folds 
+JL0029: raises $0.06 to $0.08
+frosa9397: folds 
+Uncalled bet ($0.06) returned to JL0029
+JL0029 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 (button) folded before Flop (didn't bet)
+Seat 4: JL0029 (small blind) collected ($0.04)
+Seat 5: frosa9397 (big blind) folded before Flop
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233634619974:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:31:08 PT [2022/01/30 17:31:08 ET]
+Table 'Gawain III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($3.80 in chips) 
+Seat 2: hesc a. ($1.09 in chips) 
+Seat 3: jl1955 ($0.39 in chips) 
+Seat 4: JL0029 ($5.25 in chips) 
+Seat 5: frosa9397 ($1.98 in chips) 
+Seat 6: sieupeaici ($2.14 in chips) 
+Seat 8: RUMJO ($3.01 in chips) 
+frosa9397: posts small blind $0.01
+sieupeaici: posts big blind $0.02
+FilMiami: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 9s]
+RUMJO: folds 
+Dorex2007: folds 
+hesc a.: folds 
+jl1955: folds 
+JL0029: folds 
+frosa9397: calls $0.01
+sieupeaici: checks 
+*** FLOP *** [4c 9c Ad]
+frosa9397: checks 
+sieupeaici: checks 
+*** TURN *** [4c 9c Ad] [4s]
+frosa9397: checks 
+sieupeaici: checks 
+*** RIVER *** [4c 9c Ad 4s] [7s]
+frosa9397: checks 
+sieupeaici: checks 
+*** SHOW DOWN ***
+frosa9397: shows [7c 5c] (two pair, Sevens and Fours)
+sieupeaici: mucks hand 
+frosa9397 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [4c 9c Ad 4s 7s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 (button) folded before Flop (didn't bet)
+Seat 5: frosa9397 (small blind) showed [7c 5c] and won ($0.04) with two pair, Sevens and Fours
+Seat 6: sieupeaici (big blind) mucked [2d Qs]
+Seat 8: RUMJO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233634643468:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:31:50 PT [2022/01/30 17:31:50 ET]
+Table 'Gawain III' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($3.80 in chips) 
+Seat 2: hesc a. ($1.09 in chips) 
+Seat 3: jl1955 ($0.39 in chips) 
+Seat 4: JL0029 ($5.25 in chips) 
+Seat 5: frosa9397 ($2 in chips) 
+Seat 8: RUMJO ($3.01 in chips) 
+RUMJO: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Qd]
+hesc a.: raises $0.02 to $0.04
+jl1955: raises $0.11 to $0.15
+JL0029: folds 
+frosa9397: folds 
+RUMJO: folds 
+Dorex2007: folds 
+hesc a.: calls $0.11
+*** FLOP *** [7s 6h 9c]
+hesc a.: checks 
+jl1955: bets $0.24 and is all-in
+hesc a.: calls $0.24
+quiet4711 leaves the table
+*** TURN *** [7s 6h 9c] [4d]
+*** RIVER *** [7s 6h 9c 4d] [Ts]
+nerab0ta joins the table at seat #9 
+*** SHOW DOWN ***
+hesc a.: shows [8s 9s] (a straight, Six to Ten)
+jl1955: shows [Kc Kh] (a pair of Kings)
+hesc a. cashed out the hand for $0.38
+*** SUMMARY ***
+Total pot $0.81 | Rake $0.03 
+Board [7s 6h 9c 4d Ts]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: hesc a. showed [8s 9s] and won ($0.78) with a straight, Six to Ten (pot not awarded as player cashed out)
+Seat 3: jl1955 showed [Kc Kh] and lost with a pair of Kings
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: frosa9397 (button) folded before Flop (didn't bet)
+Seat 8: RUMJO (small blind) folded before Flop
+
+
+
+PokerStars Hand #233634659672:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:32:20 PT [2022/01/30 17:32:20 ET]
+Table 'Gawain III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($3.78 in chips) 
+Seat 2: hesc a. ($1.08 in chips) 
+Seat 4: JL0029 ($5.25 in chips) 
+Seat 5: frosa9397 ($2 in chips) 
+Seat 8: RUMJO ($3 in chips) 
+Dorex2007: posts small blind $0.01
+hesc a.: posts big blind $0.02
+FilMiami: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 2d]
+JL0029: folds 
+frosa9397: folds 
+RUMJO: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to hesc a.
+hesc a. collected $0.02 from pot
+hesc a.: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: hesc a. (big blind) collected ($0.02)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: frosa9397 folded before Flop (didn't bet)
+Seat 8: RUMJO (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233634664579:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:32:30 PT [2022/01/30 17:32:30 ET]
+Table 'Gawain III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($3.77 in chips) 
+Seat 2: hesc a. ($1.09 in chips) 
+Seat 4: JL0029 ($5.25 in chips) 
+Seat 5: frosa9397 ($2 in chips) 
+Seat 6: sieupeaici ($2.12 in chips) 
+Seat 8: RUMJO ($3 in chips) 
+Seat 9: nerab0ta ($2 in chips) 
+hesc a.: posts small blind $0.01
+JL0029: posts big blind $0.02
+sieupeaici: posts small blind $0.01
+FilMiami: sits out 
+nerab0ta: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d Tc]
+frosa9397: folds 
+sieupeaici: raises $0.06 to $0.08
+RUMJO: folds 
+nerab0ta: folds 
+Dorex2007: folds 
+hesc a.: calls $0.07
+JL0029: folds 
+*** FLOP *** [2c 5c 4s]
+hesc a.: checks 
+sieupeaici: bets $0.12
+hesc a.: folds 
+Uncalled bet ($0.12) returned to sieupeaici
+sieupeaici collected $0.20 from pot
+sieupeaici: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [2c 5c 4s]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: hesc a. (small blind) folded on the Flop
+Seat 4: JL0029 (big blind) folded before Flop
+Seat 5: frosa9397 folded before Flop (didn't bet)
+Seat 6: sieupeaici collected ($0.20)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233634687296:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:33:12 PT [2022/01/30 17:33:12 ET]
+Table 'Gawain III' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($3.77 in chips) 
+Seat 2: hesc a. ($1.01 in chips) 
+Seat 4: JL0029 ($5.23 in chips) 
+Seat 5: frosa9397 ($2 in chips) 
+Seat 6: sieupeaici ($2.23 in chips) 
+Seat 8: RUMJO ($3 in chips) 
+Seat 9: nerab0ta ($1.98 in chips) 
+JL0029: posts small blind $0.01
+frosa9397: posts big blind $0.02
+FilMiami: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 8c]
+sieupeaici: folds 
+RUMJO: folds 
+nerab0ta: calls $0.02
+Dorex2007: folds 
+hesc a.: folds 
+JL0029: folds 
+frosa9397: raises $0.05 to $0.07
+nerab0ta: calls $0.05
+*** FLOP *** [5d Qs Td]
+frosa9397: checks 
+nerab0ta: bets $0.06
+frosa9397: folds 
+Uncalled bet ($0.06) returned to nerab0ta
+nerab0ta collected $0.14 from pot
+nerab0ta: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5d Qs Td]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. (button) folded before Flop (didn't bet)
+Seat 4: JL0029 (small blind) folded before Flop
+Seat 5: frosa9397 (big blind) folded on the Flop
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta collected ($0.14)
+
+
+
+PokerStars Hand #233634708815:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:33:52 PT [2022/01/30 17:33:52 ET]
+Table 'Gawain III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($3.77 in chips) 
+Seat 2: hesc a. ($1.01 in chips) 
+Seat 3: jl1955 ($0.80 in chips) 
+Seat 4: JL0029 ($5.22 in chips) 
+Seat 5: frosa9397 ($1.93 in chips) 
+Seat 6: sieupeaici ($2.23 in chips) 
+Seat 8: RUMJO ($3 in chips) 
+Seat 9: nerab0ta ($2.05 in chips) 
+frosa9397: posts small blind $0.01
+sieupeaici: posts big blind $0.02
+FilMiami: sits out 
+jl1955: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 3d]
+RUMJO: folds 
+nerab0ta: calls $0.02
+Dorex2007: folds 
+hesc a.: calls $0.02
+jl1955: checks 
+JL0029: folds 
+frosa9397: folds 
+sieupeaici: checks 
+*** FLOP *** [Ah 5h Ts]
+sieupeaici: checks 
+nerab0ta: bets $0.04
+hesc a.: calls $0.04
+jl1955: folds 
+sieupeaici: folds 
+*** TURN *** [Ah 5h Ts] [2s]
+nerab0ta: bets $0.08
+hesc a.: calls $0.08
+*** RIVER *** [Ah 5h Ts 2s] [8d]
+nerab0ta: bets $0.16
+hesc a.: calls $0.16
+*** SHOW DOWN ***
+nerab0ta: shows [Ac 3s] (a pair of Aces)
+hesc a.: shows [Ad 9c] (a pair of Aces - Ten+Nine kicker)
+hesc a. collected $0.64 from pot
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.02 
+Board [Ah 5h Ts 2s 8d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. showed [Ad 9c] and won ($0.64) with a pair of Aces
+Seat 3: jl1955 folded on the Flop (didn't bet)
+Seat 4: JL0029 (button) folded before Flop (didn't bet)
+Seat 5: frosa9397 (small blind) folded before Flop
+Seat 6: sieupeaici (big blind) folded on the Flop
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta showed [Ac 3s] and lost with a pair of Aces
+
+
+
+PokerStars Hand #233634738314:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:34:46 PT [2022/01/30 17:34:46 ET]
+Table 'Gawain III' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($3.77 in chips) 
+Seat 2: hesc a. ($1.35 in chips) 
+Seat 3: jl1955 ($0.77 in chips) 
+Seat 4: JL0029 ($5.22 in chips) 
+Seat 5: frosa9397 ($1.92 in chips) 
+Seat 6: sieupeaici ($2.21 in chips) 
+Seat 7: FilMiami ($0.80 in chips) 
+Seat 8: RUMJO ($3 in chips) 
+Seat 9: nerab0ta ($1.75 in chips) 
+sieupeaici: posts small blind $0.01
+FilMiami: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Qh]
+RUMJO: folds 
+nerab0ta: calls $0.02
+Dorex2007: folds 
+hesc a.: calls $0.02
+jl1955: folds 
+JL0029: folds 
+frosa9397: calls $0.02
+sieupeaici: raises $0.14 to $0.16
+FilMiami: folds 
+nerab0ta: folds 
+hesc a.: calls $0.14
+frosa9397: folds 
+*** FLOP *** [7h 4c Jh]
+sieupeaici: checks 
+hesc a.: checks 
+*** TURN *** [7h 4c Jh] [8c]
+sieupeaici: checks 
+hesc a.: bets $1.19 and is all-in
+sieupeaici: folds 
+Uncalled bet ($1.19) returned to hesc a.
+hesc a. collected $0.37 from pot
+hesc a.: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [7h 4c Jh 8c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. collected ($0.37)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: frosa9397 (button) folded before Flop
+Seat 6: sieupeaici (small blind) folded on the Turn
+Seat 7: FilMiami (big blind) folded before Flop
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta folded before Flop
+
+
+
+PokerStars Hand #233634775334:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:35:55 PT [2022/01/30 17:35:55 ET]
+Table 'Gawain III' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($3.77 in chips) 
+Seat 2: hesc a. ($1.56 in chips) 
+Seat 3: jl1955 ($0.77 in chips) 
+Seat 4: JL0029 ($5.22 in chips) 
+Seat 5: frosa9397 ($1.90 in chips) 
+Seat 6: sieupeaici ($2.05 in chips) 
+Seat 7: FilMiami ($0.78 in chips) 
+Seat 8: RUMJO ($3 in chips) 
+Seat 9: nerab0ta ($1.73 in chips) 
+FilMiami: posts small blind $0.01
+RUMJO: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 3d]
+FilMiami said, "kkkkkkkkkkkkkkk"
+nerab0ta: folds 
+Dorex2007: folds 
+hesc a.: folds 
+jl1955: folds 
+JL0029: raises $0.04 to $0.06
+frosa9397: folds 
+sieupeaici: folds 
+FilMiami: folds 
+RUMJO: folds 
+Uncalled bet ($0.04) returned to JL0029
+JL0029 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 collected ($0.05)
+Seat 5: frosa9397 folded before Flop (didn't bet)
+Seat 6: sieupeaici (button) folded before Flop (didn't bet)
+Seat 7: FilMiami (small blind) folded before Flop
+Seat 8: RUMJO (big blind) folded before Flop
+Seat 9: nerab0ta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233634790592:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:36:24 PT [2022/01/30 17:36:24 ET]
+Table 'Gawain III' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($3.77 in chips) 
+Seat 2: hesc a. ($1.56 in chips) 
+Seat 3: jl1955 ($0.77 in chips) 
+Seat 4: JL0029 ($5.25 in chips) 
+Seat 5: frosa9397 ($1.90 in chips) 
+Seat 6: sieupeaici ($2.05 in chips) 
+Seat 7: FilMiami ($0.77 in chips) 
+Seat 8: RUMJO ($2.98 in chips) 
+Seat 9: nerab0ta ($1.73 in chips) 
+RUMJO: posts small blind $0.01
+nerab0ta: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 7s]
+Dorex2007: folds 
+hesc a.: folds 
+jl1955 has timed out
+jl1955: folds 
+JL0029: raises $0.05 to $0.07
+frosa9397: folds 
+sieupeaici: folds 
+FilMiami: folds 
+RUMJO: folds 
+nerab0ta: folds 
+Uncalled bet ($0.05) returned to JL0029
+JL0029 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 collected ($0.05)
+Seat 5: frosa9397 folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: FilMiami (button) folded before Flop (didn't bet)
+Seat 8: RUMJO (small blind) folded before Flop
+Seat 9: nerab0ta (big blind) folded before Flop
+
+
+
+PokerStars Hand #233634809205:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:36:59 PT [2022/01/30 17:36:59 ET]
+Table 'Gawain III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($3.77 in chips) 
+Seat 2: hesc a. ($1.56 in chips) 
+Seat 4: JL0029 ($5.28 in chips) 
+Seat 5: frosa9397 ($1.90 in chips) 
+Seat 6: sieupeaici ($2.05 in chips) 
+Seat 7: FilMiami ($0.77 in chips) 
+Seat 8: RUMJO ($2.97 in chips) 
+Seat 9: nerab0ta ($1.71 in chips) 
+nerab0ta: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Qd]
+hesc a.: raises $0.02 to $0.04
+JL0029: folds 
+frosa9397: folds 
+sieupeaici: folds 
+FilMiami: folds 
+RUMJO: folds 
+nerab0ta: folds 
+Dorex2007: calls $0.02
+*** FLOP *** [9h 5c 9d]
+Dorex2007: bets $0.06
+hesc a.: folds 
+Uncalled bet ($0.06) returned to Dorex2007
+Dorex2007 collected $0.09 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [9h 5c 9d]
+Seat 1: Dorex2007 (big blind) collected ($0.09)
+Seat 2: hesc a. folded on the Flop
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: frosa9397 folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: FilMiami folded before Flop (didn't bet)
+Seat 8: RUMJO (button) folded before Flop (didn't bet)
+Seat 9: nerab0ta (small blind) folded before Flop
+
+
+
+PokerStars Hand #233634830665:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:37:27 PT [2022/01/30 17:37:27 ET]
+Table 'Gawain III' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($3.82 in chips) 
+Seat 2: hesc a. ($1.52 in chips) 
+Seat 4: JL0029 ($5.28 in chips) 
+Seat 5: frosa9397 ($1.90 in chips) 
+Seat 6: sieupeaici ($2.05 in chips) 
+Seat 7: FilMiami ($0.77 in chips) 
+Seat 8: RUMJO ($2.97 in chips) 
+Seat 9: nerab0ta ($1.70 in chips) 
+Dorex2007: posts small blind $0.01
+hesc a.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Ah]
+JL0029: folds 
+frosa9397: folds 
+sieupeaici: folds 
+FilMiami: folds 
+RUMJO: folds 
+nerab0ta: calls $0.02
+Dorex2007: raises $0.04 to $0.06
+hesc a.: calls $0.04
+nerab0ta: calls $0.04
+*** FLOP *** [Qd 7d 3c]
+Dorex2007: bets $0.17
+hesc a.: calls $0.17
+nerab0ta: folds 
+*** TURN *** [Qd 7d 3c] [6d]
+Dorex2007: checks 
+hesc a.: checks 
+*** RIVER *** [Qd 7d 3c 6d] [8h]
+Dorex2007: bets $0.10
+hesc a.: calls $0.10
+*** SHOW DOWN ***
+Dorex2007: shows [As Ah] (a pair of Aces)
+hesc a.: shows [7h 8c] (two pair, Eights and Sevens)
+hesc a. collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03 
+Board [Qd 7d 3c 6d 8h]
+Seat 1: Dorex2007 (small blind) showed [As Ah] and lost with a pair of Aces
+Seat 2: hesc a. (big blind) showed [7h 8c] and won ($0.69) with two pair, Eights and Sevens
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: frosa9397 folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: FilMiami folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta (button) folded on the Flop
+
+
+
+PokerStars Hand #233634862572:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:38:27 PT [2022/01/30 17:38:27 ET]
+Table 'Gawain III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($3.49 in chips) 
+Seat 2: hesc a. ($1.88 in chips) 
+Seat 4: JL0029 ($5.28 in chips) 
+Seat 5: frosa9397 ($1.90 in chips) 
+Seat 6: sieupeaici ($2.05 in chips) 
+Seat 7: FilMiami ($0.77 in chips) 
+Seat 8: RUMJO ($2.97 in chips) 
+Seat 9: nerab0ta ($1.64 in chips) 
+hesc a.: posts small blind $0.01
+JL0029: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 4d]
+frosa9397: folds 
+sieupeaici: folds 
+FilMiami: folds 
+RUMJO: folds 
+nerab0ta: folds 
+Dorex2007: folds 
+hesc a.: raises $0.02 to $0.04
+JL0029: raises $0.10 to $0.14
+hesc a.: calls $0.10
+*** FLOP *** [8c 5h As]
+hesc a.: checks 
+JL0029: bets $0.09
+hesc a.: folds 
+Uncalled bet ($0.09) returned to JL0029
+JL0029 collected $0.27 from pot
+JL0029: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [8c 5h As]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: hesc a. (small blind) folded on the Flop
+Seat 4: JL0029 (big blind) collected ($0.27)
+Seat 5: frosa9397 folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: FilMiami folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233634888309:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:39:16 PT [2022/01/30 17:39:16 ET]
+Table 'Gawain III' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($3.49 in chips) 
+Seat 2: hesc a. ($1.74 in chips) 
+Seat 4: JL0029 ($5.41 in chips) 
+Seat 5: frosa9397 ($1.90 in chips) 
+Seat 6: sieupeaici ($2.05 in chips) 
+Seat 7: FilMiami ($0.77 in chips) 
+Seat 8: RUMJO ($2.97 in chips) 
+Seat 9: nerab0ta ($1.64 in chips) 
+JL0029: posts small blind $0.01
+frosa9397: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 8d]
+sieupeaici: raises $0.04 to $0.06
+FilMiami: folds 
+RUMJO: folds 
+nerab0ta: folds 
+Dorex2007: folds 
+hesc a.: calls $0.06
+JL0029: folds 
+frosa9397: folds 
+*** FLOP *** [2d Kc 6s]
+sieupeaici: checks 
+hesc a.: checks 
+*** TURN *** [2d Kc 6s] [Jh]
+sieupeaici: checks 
+hesc a.: checks 
+*** RIVER *** [2d Kc 6s Jh] [4d]
+sieupeaici: bets $0.07
+hesc a.: folds 
+Uncalled bet ($0.07) returned to sieupeaici
+sieupeaici collected $0.14 from pot
+sieupeaici: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [2d Kc 6s Jh 4d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. (button) folded on the River
+Seat 4: JL0029 (small blind) folded before Flop
+Seat 5: frosa9397 (big blind) folded before Flop
+Seat 6: sieupeaici collected ($0.14)
+Seat 7: FilMiami folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233634920668:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:40:03 PT [2022/01/30 17:40:03 ET]
+Table 'Gawain III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($3.49 in chips) 
+Seat 2: hesc a. ($1.68 in chips) 
+Seat 3: jl1955 ($0.77 in chips) 
+Seat 4: JL0029 ($5.40 in chips) 
+Seat 5: frosa9397 ($1.88 in chips) 
+Seat 6: sieupeaici ($2.13 in chips) 
+Seat 7: FilMiami ($0.77 in chips) 
+Seat 8: RUMJO ($2.97 in chips) 
+Seat 9: nerab0ta ($1.64 in chips) 
+frosa9397: posts small blind $0.01
+sieupeaici: posts big blind $0.02
+jl1955: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 5c]
+FilMiami: folds 
+RUMJO: folds 
+nerab0ta: raises $0.10 to $0.12
+Dorex2007: folds 
+hesc a.: folds 
+jl1955: folds 
+JL0029: folds 
+frosa9397: folds 
+sieupeaici: folds 
+Uncalled bet ($0.10) returned to nerab0ta
+nerab0ta collected $0.08 from pot
+nerab0ta: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 (button) folded before Flop (didn't bet)
+Seat 5: frosa9397 (small blind) folded before Flop
+Seat 6: sieupeaici (big blind) folded before Flop
+Seat 7: FilMiami folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta collected ($0.08)
+
+
+
+PokerStars Hand #233634935329:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:40:31 PT [2022/01/30 17:40:31 ET]
+Table 'Gawain III' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($3.49 in chips) 
+Seat 2: hesc a. ($1.68 in chips) 
+Seat 3: jl1955 ($0.74 in chips) 
+Seat 4: JL0029 ($5.40 in chips) 
+Seat 5: frosa9397 ($1.87 in chips) 
+Seat 6: sieupeaici ($2.11 in chips) 
+Seat 7: FilMiami ($0.77 in chips) 
+Seat 8: RUMJO ($2.97 in chips) 
+Seat 9: nerab0ta ($1.70 in chips) 
+sieupeaici: posts small blind $0.01
+FilMiami: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Tc]
+RUMJO: folds 
+nerab0ta: folds 
+Dorex2007: folds 
+hesc a.: calls $0.02
+jl1955: folds 
+JL0029: folds 
+frosa9397: folds 
+sieupeaici: calls $0.01
+FilMiami: checks 
+*** FLOP *** [Kh 2d 3h]
+sieupeaici: checks 
+FilMiami: bets $0.04
+hesc a.: folds 
+sieupeaici: folds 
+Uncalled bet ($0.04) returned to FilMiami
+FilMiami collected $0.06 from pot
+FilMiami: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Kh 2d 3h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. folded on the Flop
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: frosa9397 (button) folded before Flop (didn't bet)
+Seat 6: sieupeaici (small blind) folded on the Flop
+Seat 7: FilMiami (big blind) collected ($0.06)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233634952181:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:41:03 PT [2022/01/30 17:41:03 ET]
+Table 'Gawain III' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($3.49 in chips) 
+Seat 2: hesc a. ($1.66 in chips) 
+Seat 3: jl1955 ($0.74 in chips) 
+Seat 4: JL0029 ($5.40 in chips) 
+Seat 5: frosa9397 ($1.87 in chips) 
+Seat 6: sieupeaici ($2.09 in chips) 
+Seat 7: FilMiami ($0.81 in chips) 
+Seat 8: RUMJO ($2.97 in chips) 
+Seat 9: nerab0ta ($1.70 in chips) 
+FilMiami: posts small blind $0.01
+RUMJO: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 4d]
+nerab0ta: folds 
+Dorex2007: folds 
+hesc a.: folds 
+jl1955: folds 
+JL0029: folds 
+frosa9397: calls $0.02
+sieupeaici: folds 
+FilMiami: calls $0.01
+RUMJO: checks 
+*** FLOP *** [3h 7d 2s]
+FilMiami: checks 
+RUMJO: bets $0.04
+frosa9397: folds 
+FilMiami: folds 
+Uncalled bet ($0.04) returned to RUMJO
+RUMJO collected $0.06 from pot
+RUMJO: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [3h 7d 2s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: frosa9397 folded on the Flop
+Seat 6: sieupeaici (button) folded before Flop (didn't bet)
+Seat 7: FilMiami (small blind) folded on the Flop
+Seat 8: RUMJO (big blind) collected ($0.06)
+Seat 9: nerab0ta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233634977381:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:41:52 PT [2022/01/30 17:41:52 ET]
+Table 'Gawain III' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($3.49 in chips) 
+Seat 2: hesc a. ($1.66 in chips) 
+Seat 3: jl1955 ($0.74 in chips) 
+Seat 4: JL0029 ($5.40 in chips) 
+Seat 5: frosa9397 ($1.85 in chips) 
+Seat 6: sieupeaici ($2.09 in chips) 
+Seat 7: FilMiami ($0.79 in chips) 
+Seat 8: RUMJO ($3.01 in chips) 
+Seat 9: nerab0ta ($1.70 in chips) 
+RUMJO: posts small blind $0.01
+nerab0ta: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 8c]
+Dorex2007: folds 
+hesc a.: folds 
+jl1955: raises $0.05 to $0.07
+JL0029: folds 
+frosa9397: folds 
+sieupeaici: folds 
+FilMiami: folds 
+RUMJO: folds 
+nerab0ta: folds 
+Uncalled bet ($0.05) returned to jl1955
+jl1955 collected $0.05 from pot
+jl1955: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 collected ($0.05)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: frosa9397 folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: FilMiami (button) folded before Flop (didn't bet)
+Seat 8: RUMJO (small blind) folded before Flop
+Seat 9: nerab0ta (big blind) folded before Flop
+
+
+
+PokerStars Hand #233634995356:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:42:27 PT [2022/01/30 17:42:27 ET]
+Table 'Gawain III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($3.49 in chips) 
+Seat 2: hesc a. ($1.66 in chips) 
+Seat 3: jl1955 ($0.77 in chips) 
+Seat 4: JL0029 ($5.40 in chips) 
+Seat 5: frosa9397 ($1.85 in chips) 
+Seat 6: sieupeaici ($2.09 in chips) 
+Seat 7: FilMiami ($0.79 in chips) 
+Seat 8: RUMJO ($3 in chips) 
+Seat 9: nerab0ta ($1.68 in chips) 
+nerab0ta: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s As]
+hesc a.: folds 
+jl1955: folds 
+JL0029: folds 
+frosa9397: folds 
+sieupeaici: raises $0.04 to $0.06
+FilMiami: folds 
+RUMJO: folds 
+nerab0ta: folds 
+Dorex2007: calls $0.04
+*** FLOP *** [Ah Jc 2d]
+Dorex2007: checks 
+sieupeaici: bets $0.07
+Dorex2007: calls $0.07
+*** TURN *** [Ah Jc 2d] [4d]
+Dorex2007: checks 
+sieupeaici: bets $0.13
+Dorex2007: calls $0.13
+*** RIVER *** [Ah Jc 2d 4d] [7c]
+Dorex2007: checks 
+sieupeaici: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [5s As] (a pair of Aces)
+sieupeaici: shows [6d Ad] (a pair of Aces - Jack+Seven+Six kicker)
+sieupeaici collected $0.51 from pot
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [Ah Jc 2d 4d 7c]
+Seat 1: Dorex2007 (big blind) showed [5s As] and lost with a pair of Aces
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: frosa9397 folded before Flop (didn't bet)
+Seat 6: sieupeaici showed [6d Ad] and won ($0.51) with a pair of Aces
+Seat 7: FilMiami folded before Flop (didn't bet)
+Seat 8: RUMJO (button) folded before Flop (didn't bet)
+Seat 9: nerab0ta (small blind) folded before Flop
+
+
+
+PokerStars Hand #233635037147:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:43:49 PT [2022/01/30 17:43:49 ET]
+Table 'Gawain III' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($3.23 in chips) 
+Seat 2: hesc a. ($1.66 in chips) 
+Seat 3: jl1955 ($0.77 in chips) 
+Seat 4: JL0029 ($5.40 in chips) 
+Seat 5: frosa9397 ($1.85 in chips) 
+Seat 6: sieupeaici ($2.34 in chips) 
+Seat 7: FilMiami ($0.79 in chips) 
+Seat 8: RUMJO ($3 in chips) 
+Seat 9: nerab0ta ($1.67 in chips) 
+Dorex2007: posts small blind $0.01
+hesc a.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d As]
+jl1955: folds 
+JL0029: raises $0.05 to $0.07
+frosa9397: folds 
+sieupeaici: raises $0.15 to $0.22
+FilMiami: folds 
+RUMJO: calls $0.22
+nerab0ta: folds 
+Dorex2007: folds 
+hesc a.: folds 
+JL0029: calls $0.15
+*** FLOP *** [3h Qc 6c]
+JL0029: checks 
+sieupeaici: bets $0.34
+RUMJO: calls $0.34
+JL0029: folds 
+*** TURN *** [3h Qc 6c] [5s]
+sieupeaici: checks 
+RUMJO: bets $0.40
+sieupeaici: calls $0.40
+*** RIVER *** [3h Qc 6c 5s] [Js]
+sieupeaici: checks 
+RUMJO: bets $2.04 and is all-in
+sieupeaici: calls $1.38 and is all-in
+Uncalled bet ($0.66) returned to RUMJO
+*** SHOW DOWN ***
+RUMJO: shows [Qs Qh] (three of a kind, Queens)
+sieupeaici: shows [Kd Ks] (a pair of Kings)
+RUMJO collected $4.76 from pot
+*** SUMMARY ***
+Total pot $4.93 | Rake $0.17 
+Board [3h Qc 6c 5s Js]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: hesc a. (big blind) folded before Flop
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 folded on the Flop
+Seat 5: frosa9397 folded before Flop (didn't bet)
+Seat 6: sieupeaici showed [Kd Ks] and lost with a pair of Kings
+Seat 7: FilMiami folded before Flop (didn't bet)
+Seat 8: RUMJO showed [Qs Qh] and won ($4.76) with three of a kind, Queens
+Seat 9: nerab0ta (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635092789:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:45:38 PT [2022/01/30 17:45:38 ET]
+Table 'Gawain III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($3.22 in chips) 
+Seat 2: hesc a. ($1.64 in chips) 
+Seat 3: jl1955 ($0.77 in chips) 
+Seat 4: JL0029 ($5.18 in chips) 
+Seat 5: frosa9397 ($1.85 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: FilMiami ($0.79 in chips) 
+Seat 8: RUMJO ($5.42 in chips) 
+Seat 9: nerab0ta ($1.67 in chips) 
+hesc a.: posts small blind $0.01
+jl1955: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Ks]
+JL0029: folds 
+frosa9397: folds 
+sieupeaici: folds 
+FilMiami: folds 
+RUMJO: raises $0.03 to $0.05
+nerab0ta: calls $0.05
+Dorex2007: folds 
+hesc a.: calls $0.04
+jl1955: calls $0.03
+*** FLOP *** [9c 8d 6s]
+hesc a.: checks 
+jl1955: checks 
+RUMJO: checks 
+nerab0ta: checks 
+*** TURN *** [9c 8d 6s] [6c]
+hesc a.: bets $0.02
+jl1955: calls $0.02
+RUMJO: calls $0.02
+nerab0ta: calls $0.02
+*** RIVER *** [9c 8d 6s 6c] [Qc]
+hesc a.: checks 
+jl1955: checks 
+RUMJO: checks 
+nerab0ta: bets $0.14
+hesc a.: folds 
+jl1955: folds 
+RUMJO: folds 
+Uncalled bet ($0.14) returned to nerab0ta
+nerab0ta collected $0.27 from pot
+nerab0ta: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [9c 8d 6s 6c Qc]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: hesc a. (small blind) folded on the River
+Seat 3: jl1955 (big blind) folded on the River
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: frosa9397 folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: FilMiami folded before Flop (didn't bet)
+Seat 8: RUMJO folded on the River
+Seat 9: nerab0ta collected ($0.27)
+
+
+
+PokerStars Hand #233635121323:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:46:34 PT [2022/01/30 17:46:34 ET]
+Table 'Gawain III' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($3.22 in chips) 
+Seat 2: hesc a. ($1.57 in chips) 
+Seat 3: jl1955 ($0.70 in chips) 
+Seat 4: JL0029 ($5.18 in chips) 
+Seat 5: frosa9397 ($1.85 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: FilMiami ($0.79 in chips) 
+Seat 8: RUMJO ($5.35 in chips) 
+Seat 9: nerab0ta ($1.87 in chips) 
+jl1955: posts small blind $0.01
+JL0029: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 5h]
+frosa9397: folds 
+sieupeaici: folds 
+FilMiami: folds 
+RUMJO: raises $0.03 to $0.05
+nerab0ta: calls $0.05
+Dorex2007: folds 
+hesc a.: calls $0.05
+jl1955: folds 
+JL0029: calls $0.03
+*** FLOP *** [4c As 2c]
+JL0029: checks 
+RUMJO: checks 
+nerab0ta: bets $0.10
+hesc a.: calls $0.10
+JL0029: folds 
+RUMJO: folds 
+*** TURN *** [4c As 2c] [2d]
+nerab0ta: checks 
+hesc a.: checks 
+*** RIVER *** [4c As 2c 2d] [Jd]
+nerab0ta: checks 
+hesc a.: checks 
+*** SHOW DOWN ***
+nerab0ta: shows [Js Ts] (two pair, Jacks and Deuces)
+hesc a.: shows [Ad 6c] (two pair, Aces and Deuces)
+hesc a. collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [4c As 2c 2d Jd]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. (button) showed [Ad 6c] and won ($0.40) with two pair, Aces and Deuces
+Seat 3: jl1955 (small blind) folded before Flop
+Seat 4: JL0029 (big blind) folded on the Flop
+Seat 5: frosa9397 folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: FilMiami folded before Flop (didn't bet)
+Seat 8: RUMJO folded on the Flop
+Seat 9: nerab0ta showed [Js Ts] and lost with two pair, Jacks and Deuces
+
+
+
+PokerStars Hand #233635149420:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:47:29 PT [2022/01/30 17:47:29 ET]
+Table 'Gawain III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($3.22 in chips) 
+Seat 2: hesc a. ($1.82 in chips) 
+Seat 3: jl1955 ($0.69 in chips) 
+Seat 4: JL0029 ($5.13 in chips) 
+Seat 5: frosa9397 ($1.85 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: FilMiami ($0.79 in chips) 
+Seat 8: RUMJO ($5.30 in chips) 
+Seat 9: nerab0ta ($1.72 in chips) 
+JL0029: posts small blind $0.01
+frosa9397: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 6c]
+sieupeaici: folds 
+FilMiami: raises $0.05 to $0.07
+RUMJO: folds 
+nerab0ta: folds 
+Dorex2007: calls $0.07
+hesc a.: folds 
+jl1955: folds 
+JL0029: folds 
+frosa9397: folds 
+*** FLOP *** [Td 9s 4h]
+FilMiami: checks 
+Dorex2007: bets $0.11
+FilMiami: calls $0.11
+*** TURN *** [Td 9s 4h] [2h]
+FilMiami: checks 
+Dorex2007: checks 
+*** RIVER *** [Td 9s 4h 2h] [9d]
+FilMiami: checks 
+Dorex2007: bets $0.19
+FilMiami: calls $0.19
+*** SHOW DOWN ***
+Dorex2007: shows [6h 6c] (two pair, Nines and Sixes)
+FilMiami: mucks hand 
+Dorex2007 collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [Td 9s 4h 2h 9d]
+Seat 1: Dorex2007 showed [6h 6c] and won ($0.74) with two pair, Nines and Sixes
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 (button) folded before Flop (didn't bet)
+Seat 4: JL0029 (small blind) folded before Flop
+Seat 5: frosa9397 (big blind) folded before Flop
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: FilMiami mucked [Qs As]
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635170240:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:48:10 PT [2022/01/30 17:48:10 ET]
+Table 'Gawain III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($3.59 in chips) 
+Seat 2: hesc a. ($1.82 in chips) 
+Seat 3: jl1955 ($0.69 in chips) 
+Seat 4: JL0029 ($5.12 in chips) 
+Seat 5: frosa9397 ($1.83 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: FilMiami ($0.42 in chips) 
+Seat 8: RUMJO ($5.30 in chips) 
+Seat 9: nerab0ta ($1.72 in chips) 
+frosa9397: posts small blind $0.01
+sieupeaici: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Qs]
+FilMiami: folds 
+RUMJO: folds 
+nerab0ta: calls $0.02
+Dorex2007: folds 
+hesc a.: folds 
+jl1955: folds 
+JL0029: folds 
+frosa9397: folds 
+sieupeaici: checks 
+*** FLOP *** [Jd Td 8d]
+sieupeaici: checks 
+nerab0ta: checks 
+*** TURN *** [Jd Td 8d] [Ks]
+sieupeaici: checks 
+nerab0ta: checks 
+*** RIVER *** [Jd Td 8d Ks] [Ad]
+sieupeaici: checks 
+nerab0ta: checks 
+*** SHOW DOWN ***
+sieupeaici: shows [5h 2c] (high card Ace)
+nerab0ta: shows [5s 9s] (high card Ace - King+Jack+Ten+Nine kicker)
+nerab0ta collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jd Td 8d Ks Ad]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 (button) folded before Flop (didn't bet)
+Seat 5: frosa9397 (small blind) folded before Flop
+Seat 6: sieupeaici (big blind) showed [5h 2c] and lost with high card Ace
+Seat 7: FilMiami folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta showed [5s 9s] and won ($0.05) with high card Ace
+
+
+
+PokerStars Hand #233635191682:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:48:53 PT [2022/01/30 17:48:53 ET]
+Table 'Gawain III' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($3.59 in chips) 
+Seat 2: hesc a. ($1.82 in chips) 
+Seat 3: jl1955 ($0.69 in chips) 
+Seat 4: JL0029 ($5.12 in chips) 
+Seat 5: frosa9397 ($1.82 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: FilMiami ($0.42 in chips) 
+Seat 8: RUMJO ($5.30 in chips) 
+Seat 9: nerab0ta ($1.75 in chips) 
+sieupeaici: posts small blind $0.01
+FilMiami: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 2h]
+RUMJO: raises $0.03 to $0.05
+nerab0ta: calls $0.05
+Dorex2007: folds 
+hesc a.: calls $0.05
+jl1955: folds 
+JL0029: folds 
+frosa9397: folds 
+sieupeaici: folds 
+FilMiami: calls $0.03
+*** FLOP *** [Tc 9d Js]
+FilMiami: checks 
+RUMJO: bets $0.06
+nerab0ta: calls $0.06
+hesc a.: calls $0.06
+FilMiami: calls $0.06
+*** TURN *** [Tc 9d Js] [4h]
+FilMiami: checks 
+RUMJO: bets $0.13
+nerab0ta: calls $0.13
+hesc a.: folds 
+FilMiami: folds 
+*** RIVER *** [Tc 9d Js 4h] [Jd]
+RUMJO: checks 
+nerab0ta: checks 
+*** SHOW DOWN ***
+RUMJO: shows [Qs As] (a pair of Jacks)
+nerab0ta: shows [Ts 8s] (two pair, Jacks and Tens)
+nerab0ta collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.02 
+Board [Tc 9d Js 4h Jd]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. folded on the Turn
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: frosa9397 (button) folded before Flop (didn't bet)
+Seat 6: sieupeaici (small blind) folded before Flop
+Seat 7: FilMiami (big blind) folded on the Turn
+Seat 8: RUMJO showed [Qs As] and lost with a pair of Jacks
+Seat 9: nerab0ta showed [Ts 8s] and won ($0.69) with two pair, Jacks and Tens
+
+
+
+PokerStars Hand #233635223519:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:49:58 PT [2022/01/30 17:49:58 ET]
+Table 'Gawain III' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($3.59 in chips) 
+Seat 2: hesc a. ($1.71 in chips) 
+Seat 3: jl1955 ($0.69 in chips) 
+Seat 4: JL0029 ($5.12 in chips) 
+Seat 5: frosa9397 ($1.82 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: FilMiami ($0.31 in chips) 
+Seat 8: RUMJO ($5.06 in chips) 
+Seat 9: nerab0ta ($2.20 in chips) 
+FilMiami: posts small blind $0.01
+RUMJO: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Js]
+nerab0ta: folds 
+Dorex2007: folds 
+hesc a.: folds 
+jl1955: folds 
+JL0029: folds 
+frosa9397: folds 
+sieupeaici: folds 
+FilMiami: raises $0.04 to $0.06
+RUMJO: folds 
+Uncalled bet ($0.04) returned to FilMiami
+FilMiami collected $0.04 from pot
+FilMiami: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: frosa9397 folded before Flop (didn't bet)
+Seat 6: sieupeaici (button) folded before Flop (didn't bet)
+Seat 7: FilMiami (small blind) collected ($0.04)
+Seat 8: RUMJO (big blind) folded before Flop
+Seat 9: nerab0ta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635234544:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:50:20 PT [2022/01/30 17:50:20 ET]
+Table 'Gawain III' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($3.59 in chips) 
+Seat 2: hesc a. ($1.71 in chips) 
+Seat 3: jl1955 ($0.69 in chips) 
+Seat 4: JL0029 ($5.12 in chips) 
+Seat 5: frosa9397 ($1.82 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: FilMiami ($0.33 in chips) 
+Seat 8: RUMJO ($5.04 in chips) 
+Seat 9: nerab0ta ($2.20 in chips) 
+RUMJO: posts small blind $0.01
+nerab0ta: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Ks]
+Dorex2007: raises $0.04 to $0.06
+hesc a.: folds 
+jl1955: folds 
+JL0029: folds 
+frosa9397: folds 
+sieupeaici: folds 
+FilMiami: folds 
+RUMJO: folds 
+nerab0ta: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 collected ($0.05)
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: frosa9397 folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: FilMiami (button) folded before Flop (didn't bet)
+Seat 8: RUMJO (small blind) folded before Flop
+Seat 9: nerab0ta (big blind) folded before Flop
+
+
+
+PokerStars Hand #233635243956:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:50:40 PT [2022/01/30 17:50:40 ET]
+Table 'Gawain III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($3.62 in chips) 
+Seat 2: hesc a. ($1.71 in chips) 
+Seat 3: jl1955 ($0.69 in chips) 
+Seat 4: JL0029 ($5.12 in chips) 
+Seat 5: frosa9397 ($1.82 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: FilMiami ($0.33 in chips) 
+Seat 8: RUMJO ($5.03 in chips) 
+Seat 9: nerab0ta ($2.18 in chips) 
+nerab0ta: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 5h]
+hesc a.: folds 
+jl1955: folds 
+JL0029: folds 
+frosa9397: folds 
+sieupeaici: folds 
+FilMiami: raises $0.04 to $0.06
+RUMJO: folds 
+nerab0ta: calls $0.05
+Dorex2007: folds 
+*** FLOP *** [4d Ts 8d]
+nerab0ta: checks 
+FilMiami: bets $0.08
+nerab0ta: folds 
+Uncalled bet ($0.08) returned to FilMiami
+FilMiami collected $0.14 from pot
+FilMiami: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [4d Ts 8d]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: frosa9397 folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: FilMiami collected ($0.14)
+Seat 8: RUMJO (button) folded before Flop (didn't bet)
+Seat 9: nerab0ta (small blind) folded on the Flop
+
+
+
+PokerStars Hand #233635266401:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:51:27 PT [2022/01/30 17:51:27 ET]
+Table 'Gawain III' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($3.60 in chips) 
+Seat 2: hesc a. ($1.71 in chips) 
+Seat 3: jl1955 ($0.69 in chips) 
+Seat 4: JL0029 ($5.12 in chips) 
+Seat 5: frosa9397 ($1.82 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: FilMiami ($0.41 in chips) 
+Seat 8: RUMJO ($5.03 in chips) 
+Seat 9: nerab0ta ($2.12 in chips) 
+Dorex2007: posts small blind $0.01
+hesc a.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 9h]
+jl1955: folds 
+JL0029: folds 
+frosa9397: calls $0.02
+sieupeaici: folds 
+FilMiami: folds 
+RUMJO: folds 
+nerab0ta: folds 
+Dorex2007: calls $0.01
+hesc a.: checks 
+*** FLOP *** [4s 7d Ts]
+Dorex2007: checks 
+hesc a.: checks 
+frosa9397: checks 
+*** TURN *** [4s 7d Ts] [Ks]
+Dorex2007: checks 
+hesc a.: bets $1.69 and is all-in
+frosa9397: folds 
+Dorex2007: folds 
+Uncalled bet ($1.69) returned to hesc a.
+hesc a. collected $0.06 from pot
+hesc a.: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [4s 7d Ts Ks]
+Seat 1: Dorex2007 (small blind) folded on the Turn
+Seat 2: hesc a. (big blind) collected ($0.06)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: frosa9397 folded on the Turn
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: FilMiami folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635292471:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:52:08 PT [2022/01/30 17:52:08 ET]
+Table 'Gawain III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($3.58 in chips) 
+Seat 2: hesc a. ($1.75 in chips) 
+Seat 3: jl1955 ($0.69 in chips) 
+Seat 4: JL0029 ($5.12 in chips) 
+Seat 5: frosa9397 ($1.80 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: FilMiami ($0.41 in chips) 
+Seat 8: RUMJO ($5.03 in chips) 
+Seat 9: nerab0ta ($2.12 in chips) 
+hesc a.: posts small blind $0.01
+jl1955: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Js]
+JL0029: folds 
+frosa9397: folds 
+sieupeaici: folds 
+FilMiami: folds 
+RUMJO: raises $0.03 to $0.05
+nerab0ta: folds 
+Dorex2007: calls $0.05
+hesc a.: calls $0.04
+jl1955: folds 
+*** FLOP *** [Qd 7h Kd]
+hesc a.: checks 
+RUMJO: checks 
+Dorex2007: checks 
+*** TURN *** [Qd 7h Kd] [Td]
+hesc a.: checks 
+RUMJO: checks 
+Dorex2007: bets $0.08
+hesc a.: calls $0.08
+RUMJO: folds 
+*** RIVER *** [Qd 7h Kd Td] [9c]
+hesc a.: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+hesc a.: shows [2s Ad] (high card Ace)
+Dorex2007: shows [Ac Js] (a straight, Ten to Ace)
+Dorex2007 collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Qd 7h Kd Td 9c]
+Seat 1: Dorex2007 (button) showed [Ac Js] and won ($0.32) with a straight, Ten to Ace
+Seat 2: hesc a. (small blind) showed [2s Ad] and lost with high card Ace
+Seat 3: jl1955 (big blind) folded before Flop
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: frosa9397 folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: FilMiami folded before Flop (didn't bet)
+Seat 8: RUMJO folded on the Turn
+Seat 9: nerab0ta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635318572:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:53:02 PT [2022/01/30 17:53:02 ET]
+Table 'Gawain III' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($3.77 in chips) 
+Seat 2: hesc a. ($1.62 in chips) 
+Seat 3: jl1955 ($0.67 in chips) 
+Seat 4: JL0029 ($5.12 in chips) 
+Seat 5: frosa9397 ($1.80 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: FilMiami ($0.41 in chips) 
+Seat 8: RUMJO ($4.98 in chips) 
+Seat 9: nerab0ta ($2.12 in chips) 
+jl1955: posts small blind $0.01
+JL0029: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 3s]
+frosa9397: folds 
+sieupeaici: folds 
+FilMiami: folds 
+RUMJO: folds 
+nerab0ta: calls $0.02
+Dorex2007: folds 
+hesc a.: calls $0.02
+jl1955: raises $0.08 to $0.10
+JL0029: folds 
+nerab0ta: calls $0.08
+hesc a.: calls $0.08
+*** FLOP *** [8c 3h Ac]
+jl1955: bets $0.31
+nerab0ta: calls $0.31
+hesc a.: folds 
+*** TURN *** [8c 3h Ac] [Ts]
+jl1955: bets $0.26 and is all-in
+nerab0ta: calls $0.26
+*** RIVER *** [8c 3h Ac Ts] [9s]
+*** SHOW DOWN ***
+jl1955: shows [Kh As] (a pair of Aces)
+nerab0ta: shows [3d 2d] (a pair of Threes)
+jl1955 collected $1.41 from pot
+nerab0ta cashed out the hand for $0.16
+*** SUMMARY ***
+Total pot $1.46 | Rake $0.05 
+Board [8c 3h Ac Ts 9s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. (button) folded on the Flop
+Seat 3: jl1955 (small blind) showed [Kh As] and won ($1.41) with a pair of Aces
+Seat 4: JL0029 (big blind) folded before Flop
+Seat 5: frosa9397 folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: FilMiami folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta showed [3d 2d] and lost with a pair of Threes (cashed out).
+
+
+
+PokerStars Hand #233635346604:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:54:00 PT [2022/01/30 17:54:00 ET]
+Table 'Gawain III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($3.77 in chips) 
+Seat 2: hesc a. ($1.52 in chips) 
+Seat 3: jl1955 ($1.41 in chips) 
+Seat 4: JL0029 ($5.10 in chips) 
+Seat 5: frosa9397 ($1.80 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: FilMiami ($0.41 in chips) 
+Seat 8: RUMJO ($4.98 in chips) 
+Seat 9: nerab0ta ($1.61 in chips) 
+JL0029: posts small blind $0.01
+frosa9397: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s Ac]
+sieupeaici: folds 
+FilMiami: folds 
+RUMJO: folds 
+nerab0ta: folds 
+Dorex2007: folds 
+hesc a.: raises $0.04 to $0.06
+jl1955: folds 
+JL0029: folds 
+frosa9397: calls $0.04
+*** FLOP *** [6d 7c 7d]
+frosa9397: checks 
+hesc a.: checks 
+*** TURN *** [6d 7c 7d] [Jc]
+frosa9397: checks 
+hesc a.: checks 
+*** RIVER *** [6d 7c 7d Jc] [2c]
+frosa9397: checks 
+hesc a.: checks 
+*** SHOW DOWN ***
+frosa9397: shows [Tc Td] (two pair, Tens and Sevens)
+hesc a.: mucks hand 
+frosa9397 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6d 7c 7d Jc 2c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. mucked [4d Ah]
+Seat 3: jl1955 (button) folded before Flop (didn't bet)
+Seat 4: JL0029 (small blind) folded before Flop
+Seat 5: frosa9397 (big blind) showed [Tc Td] and won ($0.13) with two pair, Tens and Sevens
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: FilMiami folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635371334:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:54:52 PT [2022/01/30 17:54:52 ET]
+Table 'Gawain III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($3.77 in chips) 
+Seat 2: hesc a. ($1.46 in chips) 
+Seat 3: jl1955 ($1.41 in chips) 
+Seat 4: JL0029 ($5.09 in chips) 
+Seat 5: frosa9397 ($1.87 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: FilMiami ($0.41 in chips) 
+Seat 8: RUMJO ($4.98 in chips) 
+Seat 9: nerab0ta ($1.61 in chips) 
+frosa9397: posts small blind $0.01
+sieupeaici: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 7d]
+FilMiami: raises $0.05 to $0.07
+RUMJO: folds 
+nerab0ta: folds 
+Dorex2007: folds 
+hesc a.: folds 
+jl1955: folds 
+JL0029: folds 
+frosa9397: folds 
+sieupeaici: folds 
+Uncalled bet ($0.05) returned to FilMiami
+FilMiami collected $0.05 from pot
+FilMiami: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 (button) folded before Flop (didn't bet)
+Seat 5: frosa9397 (small blind) folded before Flop
+Seat 6: sieupeaici (big blind) folded before Flop
+Seat 7: FilMiami collected ($0.05)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635380197:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:55:11 PT [2022/01/30 17:55:11 ET]
+Table 'Gawain III' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($3.77 in chips) 
+Seat 2: hesc a. ($1.46 in chips) 
+Seat 3: jl1955 ($1.41 in chips) 
+Seat 4: JL0029 ($5.09 in chips) 
+Seat 5: frosa9397 ($1.86 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: FilMiami ($0.44 in chips) 
+Seat 8: RUMJO ($4.98 in chips) 
+Seat 9: nerab0ta ($1.61 in chips) 
+sieupeaici: posts small blind $0.01
+FilMiami: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Ts]
+RUMJO: folds 
+nerab0ta: folds 
+Dorex2007: folds 
+hesc a.: folds 
+jl1955: calls $0.02
+JL0029: folds 
+frosa9397: folds 
+sieupeaici: folds 
+FilMiami: checks 
+*** FLOP *** [3d Jh Jc]
+FilMiami: checks 
+jl1955: checks 
+*** TURN *** [3d Jh Jc] [7h]
+FilMiami: checks 
+jl1955: checks 
+*** RIVER *** [3d Jh Jc 7h] [As]
+FilMiami: checks 
+jl1955: bets $0.05
+FilMiami: folds 
+Uncalled bet ($0.05) returned to jl1955
+jl1955 collected $0.05 from pot
+jl1955: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3d Jh Jc 7h As]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 collected ($0.05)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: frosa9397 (button) folded before Flop (didn't bet)
+Seat 6: sieupeaici (small blind) folded before Flop
+Seat 7: FilMiami (big blind) folded on the River
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635403252:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:56:01 PT [2022/01/30 17:56:01 ET]
+Table 'Gawain III' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($3.77 in chips) 
+Seat 2: hesc a. ($1.46 in chips) 
+Seat 3: jl1955 ($1.44 in chips) 
+Seat 4: JL0029 ($5.09 in chips) 
+Seat 5: frosa9397 ($1.86 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: FilMiami ($0.42 in chips) 
+Seat 8: RUMJO ($4.98 in chips) 
+Seat 9: nerab0ta ($1.61 in chips) 
+FilMiami: posts small blind $0.01
+RUMJO: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Kd]
+nerab0ta: folds 
+Dorex2007: folds 
+hesc a.: folds 
+jl1955: folds 
+JL0029: folds 
+frosa9397: folds 
+sieupeaici: folds 
+FilMiami: raises $0.02 to $0.04
+RUMJO: folds 
+Uncalled bet ($0.02) returned to FilMiami
+FilMiami collected $0.04 from pot
+FilMiami: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: frosa9397 folded before Flop (didn't bet)
+Seat 6: sieupeaici (button) folded before Flop (didn't bet)
+Seat 7: FilMiami (small blind) collected ($0.04)
+Seat 8: RUMJO (big blind) folded before Flop
+Seat 9: nerab0ta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635412360:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:56:29 PT [2022/01/30 17:56:29 ET]
+Table 'Gawain III' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($3.77 in chips) 
+Seat 2: hesc a. ($1.46 in chips) 
+Seat 3: jl1955 ($1.44 in chips) 
+Seat 4: JL0029 ($5.09 in chips) 
+Seat 5: frosa9397 ($1.86 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: FilMiami ($0.44 in chips) 
+Seat 8: RUMJO ($4.96 in chips) 
+Seat 9: nerab0ta ($1.61 in chips) 
+RUMJO: posts small blind $0.01
+nerab0ta: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 2d]
+Dorex2007: folds 
+hesc a.: raises $0.02 to $0.04
+jl1955: folds 
+JL0029: folds 
+frosa9397: folds 
+sieupeaici: folds 
+FilMiami: calls $0.04
+RUMJO: folds 
+nerab0ta: folds 
+*** FLOP *** [4c 5h Jc]
+hesc a.: bets $1.42 and is all-in
+FilMiami: calls $0.40 and is all-in
+Uncalled bet ($1.02) returned to hesc a.
+*** TURN *** [4c 5h Jc] [As]
+*** RIVER *** [4c 5h Jc As] [3h]
+*** SHOW DOWN ***
+hesc a.: shows [Ac Js] (two pair, Aces and Jacks)
+FilMiami: shows [9c Jh] (a pair of Jacks)
+hesc a. cashed out the hand for $0.76 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $0.91 | Rake $0.03 
+Board [4c 5h Jc As 3h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. showed [Ac Js] and won ($0.88) with two pair, Aces and Jacks (pot not awarded as player cashed out)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: frosa9397 folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: FilMiami (button) showed [9c Jh] and lost with a pair of Jacks
+Seat 8: RUMJO (small blind) folded before Flop
+Seat 9: nerab0ta (big blind) folded before Flop
+
+
+
+PokerStars Hand #233635428140:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:57:18 PT [2022/01/30 17:57:18 ET]
+Table 'Gawain III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($3.77 in chips) 
+Seat 2: hesc a. ($1.78 in chips) 
+Seat 3: jl1955 ($1.44 in chips) 
+Seat 4: JL0029 ($5.09 in chips) 
+Seat 5: frosa9397 ($1.86 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($4.95 in chips) 
+Seat 9: nerab0ta ($1.59 in chips) 
+nerab0ta: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Kd]
+hesc a.: raises $0.02 to $0.04
+jl1955: calls $0.04
+FilMiami leaves the table
+JL0029: folds 
+frosa9397: folds 
+sieupeaici: calls $0.04
+RUMJO: raises $0.16 to $0.20
+nerab0ta: folds 
+Dorex2007: folds 
+hesc a.: folds 
+jl1955: calls $0.16
+evil547 joins the table at seat #7 
+sieupeaici: folds 
+*** FLOP *** [7d Ks 8s]
+jl1955: checks 
+RUMJO: bets $0.15
+jl1955: folds 
+Uncalled bet ($0.15) returned to RUMJO
+RUMJO collected $0.49 from pot
+RUMJO: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [7d Ks 8s]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: hesc a. folded before Flop
+Seat 3: jl1955 folded on the Flop
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: frosa9397 folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop
+Seat 8: RUMJO (button) collected ($0.49)
+Seat 9: nerab0ta (small blind) folded before Flop
+
+
+
+PokerStars Hand #233635442350:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:58:02 PT [2022/01/30 17:58:02 ET]
+Table 'Gawain III' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($3.75 in chips) 
+Seat 2: hesc a. ($1.74 in chips) 
+Seat 3: jl1955 ($1.24 in chips) 
+Seat 4: JL0029 ($5.09 in chips) 
+Seat 5: frosa9397 ($1.86 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($5.24 in chips) 
+Seat 9: nerab0ta ($1.58 in chips) 
+Dorex2007: posts small blind $0.01
+hesc a.: posts big blind $0.02
+evil547: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 7s]
+jl1955: folds 
+JL0029: folds 
+frosa9397: folds 
+sieupeaici: folds 
+RUMJO: folds 
+nerab0ta: calls $0.02
+Dorex2007: calls $0.01
+hesc a.: checks 
+*** FLOP *** [3d 9h Jd]
+Dorex2007: checks 
+hesc a.: checks 
+nerab0ta: bets $0.04
+Dorex2007: folds 
+hesc a.: folds 
+Uncalled bet ($0.04) returned to nerab0ta
+nerab0ta collected $0.06 from pot
+nerab0ta: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [3d 9h Jd]
+Seat 1: Dorex2007 (small blind) folded on the Flop
+Seat 2: hesc a. (big blind) folded on the Flop
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: frosa9397 folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta (button) collected ($0.06)
+
+
+
+PokerStars Hand #233635455705:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 14:58:43 PT [2022/01/30 17:58:43 ET]
+Table 'Gawain III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($3.73 in chips) 
+Seat 2: hesc a. ($1.72 in chips) 
+Seat 3: jl1955 ($1.24 in chips) 
+Seat 4: JL0029 ($5.09 in chips) 
+Seat 5: frosa9397 ($1.86 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($5.24 in chips) 
+Seat 9: nerab0ta ($1.62 in chips) 
+hesc a.: posts small blind $0.01
+jl1955: posts big blind $0.02
+evil547: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 6d]
+JL0029: folds 
+frosa9397: folds 
+sieupeaici: calls $0.02
+RUMJO: calls $0.02
+nerab0ta: calls $0.02
+Dorex2007: folds 
+hesc a.: calls $0.01
+jl1955: checks 
+*** FLOP *** [5c Qh 7s]
+hesc a.: checks 
+jl1955: checks 
+sieupeaici: checks 
+RUMJO: checks 
+nerab0ta: checks 
+*** TURN *** [5c Qh 7s] [9h]
+hesc a.: checks 
+jl1955: checks 
+sieupeaici: checks 
+RUMJO: checks 
+nerab0ta: bets $0.04
+hesc a.: folds 
+jl1955: folds 
+sieupeaici: folds 
+RUMJO: folds 
+Uncalled bet ($0.04) returned to nerab0ta
+nerab0ta collected $0.10 from pot
+nerab0ta: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [5c Qh 7s 9h]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: hesc a. (small blind) folded on the Turn
+Seat 3: jl1955 (big blind) folded on the Turn
+Seat 4: JL0029 folded before Flop (didn't bet)
+Seat 5: frosa9397 folded before Flop (didn't bet)
+Seat 6: sieupeaici folded on the Turn
+Seat 8: RUMJO folded on the Turn
+Seat 9: nerab0ta collected ($0.10)
+
+
+
+PokerStars Hand #233635480714:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:00:02 PT [2022/01/30 18:00:02 ET]
+Table 'Gawain III' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($3.73 in chips) 
+Seat 2: hesc a. ($1.70 in chips) 
+Seat 3: jl1955 ($1.22 in chips) 
+Seat 4: JL0029 ($5.09 in chips) 
+Seat 5: frosa9397 ($1.86 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($5.22 in chips) 
+Seat 9: nerab0ta ($1.70 in chips) 
+jl1955: posts small blind $0.01
+JL0029: posts big blind $0.02
+evil547: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Th]
+frosa9397: folds 
+sieupeaici: folds 
+RUMJO: folds 
+nerab0ta: folds 
+Dorex2007: raises $0.04 to $0.06
+hesc a.: folds 
+frosa9397 is disconnected 
+jl1955: folds 
+JL0029: calls $0.04
+*** FLOP *** [Qs Kd Qh]
+JL0029: checks 
+Dorex2007: bets $0.07
+JL0029: calls $0.07
+*** TURN *** [Qs Kd Qh] [Js]
+JL0029: checks 
+Dorex2007: checks 
+*** RIVER *** [Qs Kd Qh Js] [9d]
+JL0029: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+JL0029: shows [Qc 4c] (three of a kind, Queens)
+Dorex2007: shows [Td Th] (a straight, Nine to King)
+Dorex2007 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Qs Kd Qh Js 9d]
+Seat 1: Dorex2007 showed [Td Th] and won ($0.26) with a straight, Nine to King
+Seat 2: hesc a. (button) folded before Flop (didn't bet)
+Seat 3: jl1955 (small blind) folded before Flop
+Seat 4: JL0029 (big blind) showed [Qc 4c] and lost with three of a kind, Queens
+Seat 5: frosa9397 folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635495620:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:00:46 PT [2022/01/30 18:00:46 ET]
+Table 'Gawain III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($3.86 in chips) 
+Seat 2: hesc a. ($1.70 in chips) 
+Seat 3: jl1955 ($1.21 in chips) 
+Seat 4: JL0029 ($4.96 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 8: RUMJO ($5.22 in chips) 
+Seat 9: nerab0ta ($1.70 in chips) 
+JL0029: posts small blind $0.01
+frosa9397 has timed out while disconnected
+frosa9397: is sitting out 
+sieupeaici: posts big blind $0.02
+evil547: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 5h]
+RUMJO: folds 
+nerab0ta: folds 
+Dorex2007: folds 
+hesc a.: raises $0.04 to $0.06
+jl1955: folds 
+JL0029: folds 
+sieupeaici: folds 
+Uncalled bet ($0.04) returned to hesc a.
+hesc a. collected $0.05 from pot
+hesc a.: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. collected ($0.05)
+Seat 3: jl1955 (button) folded before Flop (didn't bet)
+Seat 4: JL0029 (small blind) folded before Flop
+Seat 6: sieupeaici (big blind) folded before Flop
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635506021:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:01:14 PT [2022/01/30 18:01:14 ET]
+Table 'Gawain III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($3.86 in chips) 
+Seat 2: hesc a. ($1.73 in chips) 
+Seat 3: jl1955 ($1.21 in chips) 
+Seat 4: JL0029 ($4.95 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: evil547 ($1.52 in chips) 
+Seat 8: RUMJO ($5.22 in chips) 
+Seat 9: nerab0ta ($1.70 in chips) 
+sieupeaici: posts small blind $0.01
+evil547: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 3h]
+RUMJO: folds 
+nerab0ta: calls $0.02
+Dorex2007: folds 
+hesc a.: folds 
+jl1955: folds 
+JL0029: folds 
+sieupeaici: calls $0.01
+evil547: checks 
+*** FLOP *** [Th 9h 4d]
+sieupeaici: checks 
+evil547: checks 
+nerab0ta: bets $0.04
+sieupeaici: folds 
+JL0029 leaves the table
+evil547: folds 
+Uncalled bet ($0.04) returned to nerab0ta
+nerab0ta collected $0.06 from pot
+nerab0ta: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Th 9h 4d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: JL0029 (button) folded before Flop (didn't bet)
+Seat 6: sieupeaici (small blind) folded on the Flop
+Seat 7: evil547 (big blind) folded on the Flop
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta collected ($0.06)
+
+
+
+PokerStars Hand #233635524851:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:01:51 PT [2022/01/30 18:01:51 ET]
+Table 'Gawain III' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($3.86 in chips) 
+Seat 2: hesc a. ($1.73 in chips) 
+Seat 3: jl1955 ($1.21 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: evil547 ($1.50 in chips) 
+Seat 8: RUMJO ($5.22 in chips) 
+Seat 9: nerab0ta ($1.74 in chips) 
+evil547: posts small blind $0.01
+RUMJO: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Qd]
+nerab0ta: folds 
+Dorex2007: raises $0.04 to $0.06
+hesc a.: folds 
+jl1955: folds 
+sieupeaici: calls $0.06
+evil547: folds 
+RUMJO: calls $0.04
+*** FLOP *** [9d 2s Th]
+RUMJO: checks 
+Dorex2007: checks 
+sieupeaici: checks 
+*** TURN *** [9d 2s Th] [Kc]
+RUMJO: checks 
+Dorex2007: bets $0.09
+sieupeaici: folds 
+RUMJO: folds 
+Uncalled bet ($0.09) returned to Dorex2007
+Dorex2007 collected $0.18 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [9d 2s Th Kc]
+Seat 1: Dorex2007 collected ($0.18)
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 6: sieupeaici (button) folded on the Turn
+Seat 7: evil547 (small blind) folded before Flop
+Seat 8: RUMJO (big blind) folded on the Turn
+Seat 9: nerab0ta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635544259:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:02:33 PT [2022/01/30 18:02:33 ET]
+Table 'Gawain III' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($3.98 in chips) 
+Seat 2: hesc a. ($1.73 in chips) 
+Seat 3: jl1955 ($1.21 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: evil547 ($1.49 in chips) 
+Seat 8: RUMJO ($5.16 in chips) 
+Seat 9: nerab0ta ($1.74 in chips) 
+RUMJO: posts small blind $0.01
+nerab0ta: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Kc]
+Dorex2007: folds 
+hesc a.: raises $0.02 to $0.04
+jl1955: folds 
+sieupeaici: raises $0.12 to $0.16
+evil547: folds 
+RUMJO: folds 
+nerab0ta: folds 
+hesc a.: folds 
+Uncalled bet ($0.12) returned to sieupeaici
+sieupeaici collected $0.11 from pot
+sieupeaici: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. folded before Flop
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 6: sieupeaici collected ($0.11)
+Seat 7: evil547 (button) folded before Flop (didn't bet)
+Seat 8: RUMJO (small blind) folded before Flop
+Seat 9: nerab0ta (big blind) folded before Flop
+
+
+
+PokerStars Hand #233635554508:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:02:55 PT [2022/01/30 18:02:55 ET]
+Table 'Gawain III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($3.98 in chips) 
+Seat 2: hesc a. ($1.69 in chips) 
+Seat 3: jl1955 ($1.21 in chips) 
+Seat 6: sieupeaici ($2.07 in chips) 
+Seat 7: evil547 ($1.49 in chips) 
+Seat 8: RUMJO ($5.15 in chips) 
+Seat 9: nerab0ta ($1.72 in chips) 
+nerab0ta: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Ts]
+hesc a.: raises $0.02 to $0.04
+jl1955: calls $0.04
+Prorock01 joins the table at seat #4 
+sieupeaici: folds 
+evil547: folds 
+RUMJO: folds 
+nerab0ta: calls $0.03
+Dorex2007: calls $0.02
+*** FLOP *** [Th Kh 2d]
+nerab0ta: checks 
+Dorex2007: checks 
+hesc a.: checks 
+jl1955: checks 
+*** TURN *** [Th Kh 2d] [6c]
+nerab0ta: checks 
+Dorex2007: checks 
+hesc a.: checks 
+jl1955: checks 
+*** RIVER *** [Th Kh 2d 6c] [Jd]
+nerab0ta: checks 
+Dorex2007: checks 
+hesc a.: checks 
+jl1955: bets $0.15
+nerab0ta: folds 
+Dorex2007: folds 
+hesc a.: folds 
+Uncalled bet ($0.15) returned to jl1955
+jl1955 collected $0.15 from pot
+jl1955: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Th Kh 2d 6c Jd]
+Seat 1: Dorex2007 (big blind) folded on the River
+Seat 2: hesc a. folded on the River
+Seat 3: jl1955 collected ($0.15)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: evil547 folded before Flop (didn't bet)
+Seat 8: RUMJO (button) folded before Flop (didn't bet)
+Seat 9: nerab0ta (small blind) folded on the River
+
+
+
+PokerStars Hand #233635588758:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:04:12 PT [2022/01/30 18:04:12 ET]
+Table 'Gawain III' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($3.94 in chips) 
+Seat 2: hesc a. ($1.65 in chips) 
+Seat 3: jl1955 ($1.32 in chips) 
+Seat 4: Prorock01 ($2 in chips) 
+Seat 6: sieupeaici ($2.07 in chips) 
+Seat 7: evil547 ($1.49 in chips) 
+Seat 8: RUMJO ($5.15 in chips) 
+Seat 9: nerab0ta ($1.68 in chips) 
+Dorex2007: posts small blind $0.01
+hesc a.: posts big blind $0.02
+Prorock01: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Ks]
+jl1955: folds 
+Prorock01: folds 
+sieupeaici: folds 
+evil547: folds 
+RUMJO: folds 
+nerab0ta: folds 
+Dorex2007: folds 
+Prorock01 leaves the table
+hesc a. collected $0.05 from pot
+hesc a.: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: hesc a. (big blind) collected ($0.05)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: Prorock01 folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: evil547 folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635600608:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:04:38 PT [2022/01/30 18:04:38 ET]
+Table 'Gawain III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($3.93 in chips) 
+Seat 2: hesc a. ($1.68 in chips) 
+Seat 3: jl1955 ($1.32 in chips) 
+Seat 6: sieupeaici ($2.07 in chips) 
+Seat 7: evil547 ($1.49 in chips) 
+Seat 8: RUMJO ($5.15 in chips) 
+Seat 9: nerab0ta ($1.68 in chips) 
+hesc a.: posts small blind $0.01
+jl1955: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 4h]
+sieupeaici: folds 
+evil547: folds 
+RUMJO: raises $0.03 to $0.05
+nerab0ta: raises $0.11 to $0.16
+Dorex2007: folds 
+hesc a.: folds 
+jl1955: folds 
+RUMJO: folds 
+Uncalled bet ($0.11) returned to nerab0ta
+nerab0ta collected $0.13 from pot
+nerab0ta: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: hesc a. (small blind) folded before Flop
+Seat 3: jl1955 (big blind) folded before Flop
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: evil547 folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop
+Seat 9: nerab0ta collected ($0.13)
+
+
+
+PokerStars Hand #233635612814:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:05:04 PT [2022/01/30 18:05:04 ET]
+Table 'Gawain III' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($3.93 in chips) 
+Seat 2: hesc a. ($1.67 in chips) 
+Seat 3: jl1955 ($1.30 in chips) 
+Seat 6: sieupeaici ($2.07 in chips) 
+Seat 7: evil547 ($1.49 in chips) 
+Seat 8: RUMJO ($5.10 in chips) 
+Seat 9: nerab0ta ($1.76 in chips) 
+jl1955: posts small blind $0.01
+sieupeaici: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 5h]
+evil547: folds 
+RUMJO: folds 
+nerab0ta: folds 
+Dorex2007: folds 
+hesc a.: folds 
+jl1955: folds 
+Uncalled bet ($0.01) returned to sieupeaici
+sieupeaici collected $0.02 from pot
+sieupeaici: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. (button) folded before Flop (didn't bet)
+Seat 3: jl1955 (small blind) folded before Flop
+Seat 6: sieupeaici (big blind) collected ($0.02)
+Seat 7: evil547 folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635622893:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:05:13 PT [2022/01/30 18:05:13 ET]
+Table 'Gawain III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($3.93 in chips) 
+Seat 2: hesc a. ($1.67 in chips) 
+Seat 3: jl1955 ($1.29 in chips) 
+Seat 6: sieupeaici ($2.08 in chips) 
+Seat 7: evil547 ($1.49 in chips) 
+Seat 8: RUMJO ($5.10 in chips) 
+Seat 9: nerab0ta ($1.76 in chips) 
+sieupeaici: posts small blind $0.01
+evil547: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 6d]
+RUMJO: folds 
+airdestiny joins the table at seat #4 
+nerab0ta: folds 
+Dorex2007: folds 
+hesc a.: folds 
+jl1955: folds 
+sieupeaici: folds 
+Uncalled bet ($0.01) returned to evil547
+evil547 collected $0.02 from pot
+evil547: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 (button) folded before Flop (didn't bet)
+Seat 6: sieupeaici (small blind) folded before Flop
+Seat 7: evil547 (big blind) collected ($0.02)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635630168:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:05:29 PT [2022/01/30 18:05:29 ET]
+Table 'Gawain III' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($3.93 in chips) 
+Seat 3: jl1955 ($1.29 in chips) 
+Seat 6: sieupeaici ($2.07 in chips) 
+Seat 7: evil547 ($1.50 in chips) 
+Seat 8: RUMJO ($5.10 in chips) 
+Seat 9: nerab0ta ($1.76 in chips) 
+evil547: posts small blind $0.01
+RUMJO: posts big blind $0.02
+airdestiny: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Ah]
+nerab0ta: folds 
+Dorex2007: calls $0.02
+jl1955: calls $0.02
+sieupeaici: raises $0.06 to $0.08
+evil547: folds 
+RUMJO: folds 
+Dorex2007: folds 
+jl1955: folds 
+Uncalled bet ($0.06) returned to sieupeaici
+sieupeaici collected $0.09 from pot
+sieupeaici: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: Dorex2007 folded before Flop
+Seat 3: jl1955 folded before Flop
+Seat 6: sieupeaici (button) collected ($0.09)
+Seat 7: evil547 (small blind) folded before Flop
+Seat 8: RUMJO (big blind) folded before Flop
+Seat 9: nerab0ta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635643012:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:05:57 PT [2022/01/30 18:05:57 ET]
+Table 'Gawain III' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($3.91 in chips) 
+Seat 3: jl1955 ($1.27 in chips) 
+Seat 6: sieupeaici ($2.14 in chips) 
+Seat 7: evil547 ($1.49 in chips) 
+Seat 8: RUMJO ($5.08 in chips) 
+Seat 9: nerab0ta ($1.76 in chips) 
+RUMJO: posts small blind $0.01
+nerab0ta: posts big blind $0.02
+airdestiny: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Ac]
+Dorex2007: folds 
+jl1955: folds 
+sieupeaici: folds 
+evil547: folds 
+RUMJO: raises $0.03 to $0.05
+nerab0ta: folds 
+Uncalled bet ($0.03) returned to RUMJO
+RUMJO collected $0.04 from pot
+RUMJO: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: evil547 (button) folded before Flop (didn't bet)
+Seat 8: RUMJO (small blind) collected ($0.04)
+Seat 9: nerab0ta (big blind) folded before Flop
+
+
+
+PokerStars Hand #233635649667:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:06:11 PT [2022/01/30 18:06:11 ET]
+Table 'Gawain III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($3.91 in chips) 
+Seat 3: jl1955 ($1.27 in chips) 
+Seat 6: sieupeaici ($2.14 in chips) 
+Seat 7: evil547 ($1.49 in chips) 
+Seat 8: RUMJO ($5.10 in chips) 
+Seat 9: nerab0ta ($1.74 in chips) 
+nerab0ta: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+airdestiny: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Kh]
+jl1955: folds 
+sieupeaici: folds 
+evil547: folds 
+RUMJO: folds 
+nerab0ta: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 (big blind) collected ($0.02)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: evil547 folded before Flop (didn't bet)
+Seat 8: RUMJO (button) folded before Flop (didn't bet)
+Seat 9: nerab0ta (small blind) folded before Flop
+
+
+
+PokerStars Hand #233635659843:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:06:34 PT [2022/01/30 18:06:34 ET]
+Table 'Gawain III' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($3.92 in chips) 
+Seat 3: jl1955 ($1.27 in chips) 
+Seat 6: sieupeaici ($2.14 in chips) 
+Seat 7: evil547 ($1.49 in chips) 
+Seat 8: RUMJO ($5.10 in chips) 
+Seat 9: nerab0ta ($1.73 in chips) 
+Dorex2007: posts small blind $0.01
+jl1955: posts big blind $0.02
+airdestiny: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 4h]
+sieupeaici: folds 
+evil547: folds 
+RUMJO: folds 
+nerab0ta: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to jl1955
+jl1955 collected $0.02 from pot
+jl1955: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 3: jl1955 (big blind) collected ($0.02)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: evil547 folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635665632:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:06:47 PT [2022/01/30 18:06:47 ET]
+Table 'Gawain III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($3.91 in chips) 
+Seat 3: jl1955 ($1.28 in chips) 
+Seat 4: airdestiny ($2 in chips) 
+Seat 6: sieupeaici ($2.14 in chips) 
+Seat 7: evil547 ($1.49 in chips) 
+Seat 8: RUMJO ($5.10 in chips) 
+Seat 9: nerab0ta ($1.73 in chips) 
+jl1955: posts small blind $0.01
+airdestiny: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 9c]
+sieupeaici: folds 
+evil547: folds 
+RUMJO: raises $0.03 to $0.05
+nerab0ta: folds 
+Dorex2007: calls $0.05
+jl1955: folds 
+airdestiny: folds 
+*** FLOP *** [Jc 5h 8s]
+RUMJO: bets $0.04
+Dorex2007: calls $0.04
+*** TURN *** [Jc 5h 8s] [4s]
+RUMJO: bets $0.06
+Dorex2007: folds 
+Uncalled bet ($0.06) returned to RUMJO
+RUMJO collected $0.20 from pot
+RUMJO: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Jc 5h 8s 4s]
+Seat 1: Dorex2007 (button) folded on the Turn
+Seat 3: jl1955 (small blind) folded before Flop
+Seat 4: airdestiny (big blind) folded before Flop
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: evil547 folded before Flop (didn't bet)
+Seat 8: RUMJO collected ($0.20)
+Seat 9: nerab0ta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635680073:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:07:18 PT [2022/01/30 18:07:18 ET]
+Table 'Gawain III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($3.82 in chips) 
+Seat 3: jl1955 ($1.27 in chips) 
+Seat 4: airdestiny ($2 in chips) 
+Seat 6: sieupeaici ($2.14 in chips) 
+Seat 7: evil547 ($1.49 in chips) 
+Seat 8: RUMJO ($5.21 in chips) 
+Seat 9: nerab0ta ($1.73 in chips) 
+airdestiny: posts small blind $0.01
+sieupeaici: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Qh]
+evil547: folds 
+RUMJO: folds 
+nerab0ta: raises $0.04 to $0.06
+Dorex2007: raises $0.10 to $0.16
+jl1955: folds 
+airdestiny: folds 
+sieupeaici: folds 
+nerab0ta: raises $0.26 to $0.42
+Dorex2007: raises $3.40 to $3.82 and is all-in
+nerab0ta: calls $1.31 and is all-in
+Uncalled bet ($2.09) returned to Dorex2007
+*** FLOP *** [Qs 8h 7h]
+*** TURN *** [Qs 8h 7h] [As]
+*** RIVER *** [Qs 8h 7h As] [4s]
+*** SHOW DOWN ***
+nerab0ta: shows [Ah Kd] (a pair of Aces)
+Dorex2007: shows [Qc Qh] (three of a kind, Queens)
+Dorex2007 cashed out the hand for $1.89 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $3.49 | Rake $0.12 
+Board [Qs 8h 7h As 4s]
+Seat 1: Dorex2007 showed [Qc Qh] and won ($3.37) with three of a kind, Queens (pot not awarded as player cashed out)
+Seat 3: jl1955 (button) folded before Flop (didn't bet)
+Seat 4: airdestiny (small blind) folded before Flop
+Seat 6: sieupeaici (big blind) folded before Flop
+Seat 7: evil547 folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: nerab0ta showed [Ah Kd] and lost with a pair of Aces
+
+
+
+PokerStars Hand #233635706136:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:08:16 PT [2022/01/30 18:08:16 ET]
+Table 'Gawain III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($3.98 in chips) 
+Seat 3: jl1955 ($1.27 in chips) 
+Seat 4: airdestiny ($2 in chips) 
+Seat 6: sieupeaici ($2.12 in chips) 
+Seat 8: RUMJO ($5.21 in chips) 
+sieupeaici: posts small blind $0.01
+evil547: is sitting out 
+RUMJO: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h As]
+Dorex2007: folds 
+jl1955: folds 
+nerab0ta leaves the table
+airdestiny: raises $0.06 to $0.08
+sieupeaici: folds 
+evil547 leaves the table
+RUMJO: folds 
+Uncalled bet ($0.06) returned to airdestiny
+airdestiny collected $0.05 from pot
+airdestiny: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: airdestiny (button) collected ($0.05)
+Seat 6: sieupeaici (small blind) folded before Flop
+Seat 8: RUMJO (big blind) folded before Flop
+
+
+
+PokerStars Hand #233635712523:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:08:30 PT [2022/01/30 18:08:30 ET]
+Table 'Gawain III' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($3.98 in chips) 
+Seat 3: jl1955 ($1.27 in chips) 
+Seat 4: airdestiny ($2.03 in chips) 
+Seat 6: sieupeaici ($2.11 in chips) 
+Seat 8: RUMJO ($5.19 in chips) 
+RUMJO: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 5c]
+jl1955: folds 
+airdestiny: raises $0.06 to $0.08
+sieupeaici: folds 
+RUMJO: folds 
+Dorex2007: folds 
+Uncalled bet ($0.06) returned to airdestiny
+airdestiny collected $0.05 from pot
+airdestiny: doesn't show hand 
+JohnParas joins the table at seat #9 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: airdestiny collected ($0.05)
+Seat 6: sieupeaici (button) folded before Flop (didn't bet)
+Seat 8: RUMJO (small blind) folded before Flop
+
+
+
+PokerStars Hand #233635720030:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:08:47 PT [2022/01/30 18:08:47 ET]
+Table 'Gawain III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($3.96 in chips) 
+Seat 3: jl1955 ($1.27 in chips) 
+Seat 4: airdestiny ($2.06 in chips) 
+Seat 6: sieupeaici ($2.11 in chips) 
+Seat 8: RUMJO ($5.18 in chips) 
+Dorex2007: posts small blind $0.01
+jl1955: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 4d]
+airdestiny: folds 
+sieupeaici: folds 
+RUMJO: folds 
+CalmaMoreno joins the table at seat #7 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to jl1955
+jl1955 collected $0.02 from pot
+jl1955: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 3: jl1955 (big blind) collected ($0.02)
+Seat 4: airdestiny folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 8: RUMJO (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635725410:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:08:59 PT [2022/01/30 18:08:59 ET]
+Table 'Gawain III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($3.95 in chips) 
+Seat 3: jl1955 ($1.28 in chips) 
+Seat 4: airdestiny ($2.06 in chips) 
+Seat 6: sieupeaici ($2.11 in chips) 
+Seat 7: CalmaMoreno ($1.60 in chips) 
+Seat 8: RUMJO ($5.18 in chips) 
+jl1955: posts small blind $0.01
+airdestiny: posts big blind $0.02
+CalmaMoreno: posts big blind $0.02
+JohnParas: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 3s]
+sieupeaici: folds 
+CalmaMoreno: checks 
+RUMJO: folds 
+Dorex2007: folds 
+jl1955: folds 
+airdestiny: checks 
+*** FLOP *** [Tc 4h 8d]
+airdestiny: checks 
+CalmaMoreno: bets $0.02
+airdestiny: folds 
+Uncalled bet ($0.02) returned to CalmaMoreno
+CalmaMoreno collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Tc 4h 8d]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: jl1955 (small blind) folded before Flop
+Seat 4: airdestiny (big blind) folded on the Flop
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: CalmaMoreno collected ($0.05)
+Seat 8: RUMJO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635740637:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:09:33 PT [2022/01/30 18:09:33 ET]
+Table 'Gawain III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($3.95 in chips) 
+Seat 3: jl1955 ($1.27 in chips) 
+Seat 4: airdestiny ($2.04 in chips) 
+Seat 6: sieupeaici ($2.11 in chips) 
+Seat 7: CalmaMoreno ($1.63 in chips) 
+Seat 8: RUMJO ($5.18 in chips) 
+airdestiny: posts small blind $0.01
+sieupeaici: posts big blind $0.02
+JohnParas: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 8h]
+CalmaMoreno: folds 
+RUMJO: folds 
+Dorex2007: folds 
+jl1955: folds 
+airdestiny: folds 
+Uncalled bet ($0.01) returned to sieupeaici
+sieupeaici collected $0.02 from pot
+frosa9397 leaves the table
+sieupeaici: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: jl1955 (button) folded before Flop (didn't bet)
+Seat 4: airdestiny (small blind) folded before Flop
+Seat 6: sieupeaici (big blind) collected ($0.02)
+Seat 7: CalmaMoreno folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635744733:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:09:42 PT [2022/01/30 18:09:42 ET]
+Table 'Gawain III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($3.95 in chips) 
+Seat 3: jl1955 ($1.27 in chips) 
+Seat 4: airdestiny ($2.03 in chips) 
+Seat 6: sieupeaici ($2.12 in chips) 
+Seat 7: CalmaMoreno ($1.63 in chips) 
+Seat 8: RUMJO ($5.18 in chips) 
+sieupeaici: posts small blind $0.01
+CalmaMoreno: posts big blind $0.02
+JohnParas: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 4h]
+RUMJO: folds 
+Dorex2007: folds 
+jl1955: folds 
+airdestiny: raises $0.06 to $0.08
+sieupeaici: folds 
+CalmaMoreno: folds 
+Uncalled bet ($0.06) returned to airdestiny
+airdestiny collected $0.05 from pot
+airdestiny: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: airdestiny (button) collected ($0.05)
+Seat 6: sieupeaici (small blind) folded before Flop
+Seat 7: CalmaMoreno (big blind) folded before Flop
+Seat 8: RUMJO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635752296:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:09:59 PT [2022/01/30 18:09:59 ET]
+Table 'Gawain III' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($3.95 in chips) 
+Seat 3: jl1955 ($1.27 in chips) 
+Seat 4: airdestiny ($2.06 in chips) 
+Seat 6: sieupeaici ($2.11 in chips) 
+Seat 7: CalmaMoreno ($1.61 in chips) 
+Seat 8: RUMJO ($5.18 in chips) 
+CalmaMoreno: posts small blind $0.01
+RUMJO: posts big blind $0.02
+JohnParas: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 5s]
+Dorex2007: folds 
+jl1955: folds 
+airdestiny: folds 
+sieupeaici: raises $0.04 to $0.06
+CalmaMoreno: folds 
+RUMJO: folds 
+Uncalled bet ($0.04) returned to sieupeaici
+sieupeaici collected $0.05 from pot
+sieupeaici: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: airdestiny folded before Flop (didn't bet)
+Seat 6: sieupeaici (button) collected ($0.05)
+Seat 7: CalmaMoreno (small blind) folded before Flop
+Seat 8: RUMJO (big blind) folded before Flop
+
+
+
+PokerStars Hand #233635760738:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:10:18 PT [2022/01/30 18:10:18 ET]
+Table 'Gawain III' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($3.95 in chips) 
+Seat 3: jl1955 ($1.27 in chips) 
+Seat 4: airdestiny ($2.06 in chips) 
+Seat 6: sieupeaici ($2.14 in chips) 
+Seat 7: CalmaMoreno ($1.60 in chips) 
+Seat 8: RUMJO ($5.16 in chips) 
+Seat 9: JohnParas ($2 in chips) 
+RUMJO: posts small blind $0.01
+JohnParas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 9h]
+Dorex2007: folds 
+jl1955: folds 
+airdestiny: folds 
+sieupeaici: folds 
+CalmaMoreno: folds 
+RUMJO: folds 
+Uncalled bet ($0.01) returned to JohnParas
+JohnParas collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: airdestiny folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: CalmaMoreno (button) folded before Flop (didn't bet)
+Seat 8: RUMJO (small blind) folded before Flop
+Seat 9: JohnParas (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #233635770261:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:10:39 PT [2022/01/30 18:10:39 ET]
+Table 'Gawain III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($3.95 in chips) 
+Seat 3: jl1955 ($1.27 in chips) 
+Seat 4: airdestiny ($2.06 in chips) 
+Seat 6: sieupeaici ($2.14 in chips) 
+Seat 7: CalmaMoreno ($1.60 in chips) 
+Seat 8: RUMJO ($5.15 in chips) 
+Seat 9: JohnParas ($2.01 in chips) 
+JohnParas: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 3c]
+jl1955: folds 
+airdestiny: folds 
+sieupeaici: folds 
+CalmaMoreno: folds 
+RUMJO: folds 
+JohnParas: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 (big blind) collected ($0.02)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: airdestiny folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: CalmaMoreno folded before Flop (didn't bet)
+Seat 8: RUMJO (button) folded before Flop (didn't bet)
+Seat 9: JohnParas (small blind) folded before Flop
+
+
+
+PokerStars Hand #233635779654:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:11:00 PT [2022/01/30 18:11:00 ET]
+Table 'Gawain III' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($3.96 in chips) 
+Seat 3: jl1955 ($1.27 in chips) 
+Seat 4: airdestiny ($2.06 in chips) 
+Seat 6: sieupeaici ($2.14 in chips) 
+Seat 7: CalmaMoreno ($1.60 in chips) 
+Seat 8: RUMJO ($5.15 in chips) 
+Seat 9: JohnParas ($2 in chips) 
+Dorex2007: posts small blind $0.01
+jl1955: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Tc]
+Mr. Talysson joins the table at seat #5 
+airdestiny: folds 
+sieupeaici: folds 
+CalmaMoreno: folds 
+RUMJO: folds 
+JohnParas: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to jl1955
+jl1955 collected $0.02 from pot
+jl1955: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 3: jl1955 (big blind) collected ($0.02)
+Seat 4: airdestiny folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: CalmaMoreno folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: JohnParas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635787185:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:11:17 PT [2022/01/30 18:11:17 ET]
+Table 'Gawain III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($3.95 in chips) 
+Seat 3: jl1955 ($1.28 in chips) 
+Seat 4: airdestiny ($2.06 in chips) 
+Seat 6: sieupeaici ($2.14 in chips) 
+Seat 7: CalmaMoreno ($1.60 in chips) 
+Seat 8: RUMJO ($5.15 in chips) 
+Seat 9: JohnParas ($2 in chips) 
+jl1955: posts small blind $0.01
+airdestiny: posts big blind $0.02
+Mr. Talysson: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 8c]
+sieupeaici: folds 
+CalmaMoreno: raises $0.02 to $0.04
+RUMJO: folds 
+JohnParas: folds 
+Dorex2007: calls $0.04
+jl1955: folds 
+airdestiny: folds 
+*** FLOP *** [8h Tc 4d]
+CalmaMoreno: bets $0.04
+Dorex2007: raises $0.06 to $0.10
+CalmaMoreno: raises $0.12 to $0.22
+Dorex2007: raises $0.14 to $0.36
+CalmaMoreno: calls $0.14
+*** TURN *** [8h Tc 4d] [Td]
+CalmaMoreno: checks 
+Dorex2007: bets $0.53
+CalmaMoreno: folds 
+Uncalled bet ($0.53) returned to Dorex2007
+Dorex2007 collected $0.80 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.83 | Rake $0.03 
+Board [8h Tc 4d Td]
+Seat 1: Dorex2007 (button) collected ($0.80)
+Seat 3: jl1955 (small blind) folded before Flop
+Seat 4: airdestiny (big blind) folded before Flop
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: CalmaMoreno folded on the Turn
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: JohnParas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635820527:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:12:33 PT [2022/01/30 18:12:33 ET]
+Table 'Gawain III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($4.35 in chips) 
+Seat 3: jl1955 ($1.27 in chips) 
+Seat 4: airdestiny ($2.04 in chips) 
+Seat 5: Mr. Talysson ($2 in chips) 
+Seat 7: CalmaMoreno ($1.20 in chips) 
+Seat 8: RUMJO ($5.15 in chips) 
+Seat 9: JohnParas ($2 in chips) 
+airdestiny: posts small blind $0.01
+Mr. Talysson: posts big blind $0.02
+hesc a.: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Kd]
+CalmaMoreno: folds 
+RUMJO: folds 
+JohnParas: folds 
+Dorex2007: raises $0.06 to $0.08
+jl1955: folds 
+airdestiny: folds 
+Mr. Talysson: folds 
+Uncalled bet ($0.06) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 collected ($0.05)
+Seat 3: jl1955 (button) folded before Flop (didn't bet)
+Seat 4: airdestiny (small blind) folded before Flop
+Seat 5: Mr. Talysson (big blind) folded before Flop
+Seat 7: CalmaMoreno folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: JohnParas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635831562:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:12:59 PT [2022/01/30 18:12:59 ET]
+Table 'Gawain III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($4.38 in chips) 
+Seat 3: jl1955 ($1.27 in chips) 
+Seat 4: airdestiny ($2.03 in chips) 
+Seat 5: Mr. Talysson ($1.98 in chips) 
+Seat 6: sieupeaici ($2.14 in chips) 
+Seat 7: CalmaMoreno ($1.20 in chips) 
+Seat 8: RUMJO ($5.15 in chips) 
+Seat 9: JohnParas ($2 in chips) 
+Mr. Talysson: posts small blind $0.01
+sieupeaici: posts big blind $0.02
+hesc a.: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 7h]
+CalmaMoreno: folds 
+RUMJO: folds 
+JohnParas: folds 
+Dorex2007: folds 
+jl1955: folds 
+airdestiny: raises $0.06 to $0.08
+Mr. Talysson: folds 
+sieupeaici: folds 
+Uncalled bet ($0.06) returned to airdestiny
+airdestiny collected $0.05 from pot
+airdestiny: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: airdestiny (button) collected ($0.05)
+Seat 5: Mr. Talysson (small blind) folded before Flop
+Seat 6: sieupeaici (big blind) folded before Flop
+Seat 7: CalmaMoreno folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: JohnParas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635839927:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:13:18 PT [2022/01/30 18:13:18 ET]
+Table 'Gawain III' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($4.38 in chips) 
+Seat 3: jl1955 ($1.27 in chips) 
+Seat 4: airdestiny ($2.06 in chips) 
+Seat 5: Mr. Talysson ($1.97 in chips) 
+Seat 6: sieupeaici ($2.12 in chips) 
+Seat 7: CalmaMoreno ($1.20 in chips) 
+Seat 8: RUMJO ($5.15 in chips) 
+Seat 9: JohnParas ($2 in chips) 
+sieupeaici: posts small blind $0.01
+CalmaMoreno: posts big blind $0.02
+hesc a.: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 5s]
+RUMJO: folds 
+JohnParas: folds 
+Dorex2007: calls $0.02
+jl1955: folds 
+airdestiny: folds 
+Mr. Talysson: raises $0.07 to $0.09
+sieupeaici: folds 
+CalmaMoreno: folds 
+Dorex2007: folds 
+Uncalled bet ($0.07) returned to Mr. Talysson
+Mr. Talysson collected $0.07 from pot
+Mr. Talysson: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Dorex2007 folded before Flop
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: airdestiny folded before Flop (didn't bet)
+Seat 5: Mr. Talysson (button) collected ($0.07)
+Seat 6: sieupeaici (small blind) folded before Flop
+Seat 7: CalmaMoreno (big blind) folded before Flop
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: JohnParas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233635849374:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:13:40 PT [2022/01/30 18:13:40 ET]
+Table 'Gawain III' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($4.36 in chips) 
+Seat 3: jl1955 ($1.27 in chips) 
+Seat 4: airdestiny ($2.06 in chips) 
+Seat 5: Mr. Talysson ($2.02 in chips) 
+Seat 6: sieupeaici ($2.11 in chips) 
+Seat 7: CalmaMoreno ($1.18 in chips) 
+Seat 8: RUMJO ($5.15 in chips) 
+Seat 9: JohnParas ($2 in chips) 
+CalmaMoreno: posts small blind $0.01
+RUMJO: posts big blind $0.02
+hesc a.: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Kd]
+JohnParas: folds 
+Dorex2007: calls $0.02
+jl1955: folds 
+airdestiny: folds 
+Mr. Talysson: calls $0.02
+sieupeaici: folds 
+CalmaMoreno: calls $0.01
+RUMJO: checks 
+*** FLOP *** [As 2s 9d]
+CalmaMoreno: bets $0.04
+RUMJO: folds 
+Dorex2007: folds 
+Mr. Talysson: folds 
+Uncalled bet ($0.04) returned to CalmaMoreno
+CalmaMoreno collected $0.08 from pot
+CalmaMoreno: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [As 2s 9d]
+Seat 1: Dorex2007 folded on the Flop
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: airdestiny folded before Flop (didn't bet)
+Seat 5: Mr. Talysson folded on the Flop
+Seat 6: sieupeaici (button) folded before Flop (didn't bet)
+Seat 7: CalmaMoreno (small blind) collected ($0.08)
+Seat 8: RUMJO (big blind) folded on the Flop
+Seat 9: JohnParas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233636157479:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:24:55 PT [2022/01/30 18:24:55 ET]
+Table 'Gawain III' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($4.34 in chips) 
+Seat 2: hesc a. ($1.11 in chips) 
+Seat 3: jl1955 ($1.05 in chips) 
+Seat 4: airdestiny ($2.12 in chips) 
+Seat 5: Mr. Talysson ($2.21 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: CalmaMoreno ($1.78 in chips) 
+Seat 8: RUMJO ($4.97 in chips) 
+Seat 9: JohnParas ($2.20 in chips) 
+jl1955: posts small blind $0.01
+airdestiny: posts big blind $0.02
+Dorex2007: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 9c]
+Mr. Talysson: folds 
+sieupeaici: folds 
+CalmaMoreno: raises $0.02 to $0.04
+RUMJO: folds 
+JohnParas: folds 
+Dorex2007: folds 
+hesc a.: folds 
+jl1955: folds 
+airdestiny: folds 
+Uncalled bet ($0.02) returned to CalmaMoreno
+CalmaMoreno collected $0.08 from pot
+CalmaMoreno: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. (button) folded before Flop (didn't bet)
+Seat 3: jl1955 (small blind) folded before Flop
+Seat 4: airdestiny (big blind) folded before Flop
+Seat 5: Mr. Talysson folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: CalmaMoreno collected ($0.08)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: JohnParas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233636170244:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:25:26 PT [2022/01/30 18:25:26 ET]
+Table 'Gawain III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($4.31 in chips) 
+Seat 2: hesc a. ($1.11 in chips) 
+Seat 3: jl1955 ($1.04 in chips) 
+Seat 4: airdestiny ($2.10 in chips) 
+Seat 5: Mr. Talysson ($2.21 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: CalmaMoreno ($1.84 in chips) 
+Seat 8: RUMJO ($4.97 in chips) 
+Seat 9: JohnParas ($2.20 in chips) 
+airdestiny: posts small blind $0.01
+Mr. Talysson: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Td]
+sieupeaici: raises $0.04 to $0.06
+CalmaMoreno: calls $0.06
+RUMJO: folds 
+JohnParas: calls $0.06
+Dorex2007: folds 
+hesc a.: folds 
+jl1955: calls $0.06
+airdestiny: folds 
+Mr. Talysson: folds 
+*** FLOP *** [6s 9c 6c]
+sieupeaici: checks 
+CalmaMoreno: checks 
+JohnParas: checks 
+jl1955: checks 
+*** TURN *** [6s 9c 6c] [4h]
+sieupeaici: bets $0.08
+CalmaMoreno: folds 
+JohnParas: folds 
+jl1955: folds 
+Uncalled bet ($0.08) returned to sieupeaici
+sieupeaici collected $0.26 from pot
+sieupeaici: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [6s 9c 6c 4h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 (button) folded on the Turn
+Seat 4: airdestiny (small blind) folded before Flop
+Seat 5: Mr. Talysson (big blind) folded before Flop
+Seat 6: sieupeaici collected ($0.26)
+Seat 7: CalmaMoreno folded on the Turn
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: JohnParas folded on the Turn
+
+
+
+PokerStars Hand #233636194715:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:26:25 PT [2022/01/30 18:26:25 ET]
+Table 'Gawain III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($4.31 in chips) 
+Seat 2: hesc a. ($1.11 in chips) 
+Seat 3: jl1955 ($0.98 in chips) 
+Seat 4: airdestiny ($2.09 in chips) 
+Seat 5: Mr. Talysson ($2.19 in chips) 
+Seat 6: sieupeaici ($2.20 in chips) 
+Seat 7: CalmaMoreno ($1.78 in chips) 
+Seat 8: RUMJO ($4.97 in chips) 
+Seat 9: JohnParas ($2.14 in chips) 
+Mr. Talysson: posts small blind $0.01
+sieupeaici: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 4c]
+CalmaMoreno: folds 
+RUMJO: folds 
+JohnParas: folds 
+Dorex2007: folds 
+hesc a.: folds 
+jl1955: folds 
+airdestiny: raises $0.06 to $0.08
+Mr. Talysson: folds 
+sieupeaici: folds 
+Uncalled bet ($0.06) returned to airdestiny
+airdestiny collected $0.05 from pot
+airdestiny: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: airdestiny (button) collected ($0.05)
+Seat 5: Mr. Talysson (small blind) folded before Flop
+Seat 6: sieupeaici (big blind) folded before Flop
+Seat 7: CalmaMoreno folded before Flop (didn't bet)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: JohnParas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233636207995:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:26:57 PT [2022/01/30 18:26:57 ET]
+Table 'Gawain III' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($4.31 in chips) 
+Seat 2: hesc a. ($1.11 in chips) 
+Seat 3: jl1955 ($0.98 in chips) 
+Seat 4: airdestiny ($2.12 in chips) 
+Seat 5: Mr. Talysson ($2.18 in chips) 
+Seat 6: sieupeaici ($2.18 in chips) 
+Seat 7: CalmaMoreno ($1.78 in chips) 
+Seat 8: RUMJO ($4.97 in chips) 
+Seat 9: JohnParas ($2.14 in chips) 
+sieupeaici: posts small blind $0.01
+CalmaMoreno: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Ac]
+RUMJO: folds 
+JohnParas: folds 
+RUMJO leaves the table
+Dorex2007: folds 
+hesc a.: calls $0.02
+jl1955: folds 
+airdestiny: folds 
+Mr. Talysson: raises $0.07 to $0.09
+sieupeaici: folds 
+CalmaMoreno: calls $0.07
+hesc a.: calls $0.07
+*** FLOP *** [Js Qd 8c]
+CalmaMoreno: bets $0.08
+hesc a.: folds 
+Mr. Talysson: calls $0.08
+*** TURN *** [Js Qd 8c] [Qc]
+CalmaMoreno: bets $0.21
+Mr. Talysson: folds 
+Uncalled bet ($0.21) returned to CalmaMoreno
+CalmaMoreno collected $0.42 from pot
+CalmaMoreno: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [Js Qd 8c Qc]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. folded on the Flop
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: airdestiny folded before Flop (didn't bet)
+Seat 5: Mr. Talysson (button) folded on the Turn
+Seat 6: sieupeaici (small blind) folded before Flop
+Seat 7: CalmaMoreno (big blind) collected ($0.42)
+Seat 8: RUMJO folded before Flop (didn't bet)
+Seat 9: JohnParas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233636238968:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:28:13 PT [2022/01/30 18:28:13 ET]
+Table 'Gawain III' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($4.31 in chips) 
+Seat 2: hesc a. ($1.02 in chips) 
+Seat 3: jl1955 ($0.98 in chips) 
+Seat 4: airdestiny ($2.12 in chips) 
+Seat 5: Mr. Talysson ($2.01 in chips) 
+Seat 6: sieupeaici ($2.17 in chips) 
+Seat 7: CalmaMoreno ($2.03 in chips) 
+Seat 9: JohnParas ($2.14 in chips) 
+CalmaMoreno: posts small blind $0.01
+JohnParas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 6c]
+Dorex2007 has timed out
+Dorex2007: folds 
+hesc a.: calls $0.02
+jl1955: folds 
+airdestiny: folds 
+Mr. Talysson: calls $0.02
+sieupeaici: calls $0.02
+CalmaMoreno: calls $0.01
+JohnParas: checks 
+*** FLOP *** [8d Kd 2d]
+CalmaMoreno: checks 
+JohnParas: checks 
+hesc a.: checks 
+Mr. Talysson: checks 
+sieupeaici: bets $0.06
+CalmaMoreno: folds 
+JohnParas: folds 
+hesc a.: folds 
+Mr. Talysson: folds 
+Uncalled bet ($0.06) returned to sieupeaici
+sieupeaici collected $0.10 from pot
+sieupeaici: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [8d Kd 2d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. folded on the Flop
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: airdestiny folded before Flop (didn't bet)
+Seat 5: Mr. Talysson folded on the Flop
+Seat 6: sieupeaici (button) collected ($0.10)
+Seat 7: CalmaMoreno (small blind) folded on the Flop
+Seat 9: JohnParas (big blind) folded on the Flop
+
+
+
+PokerStars Hand #233636260198:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:29:06 PT [2022/01/30 18:29:06 ET]
+Table 'Gawain III' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($4.31 in chips) 
+Seat 2: hesc a. ($1 in chips) 
+Seat 3: jl1955 ($0.98 in chips) 
+Seat 4: airdestiny ($2.12 in chips) 
+Seat 5: Mr. Talysson ($1.99 in chips) 
+Seat 6: sieupeaici ($2.25 in chips) 
+Seat 7: CalmaMoreno ($2.01 in chips) 
+Seat 9: JohnParas ($2.12 in chips) 
+JohnParas: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 6h]
+hesc a.: folds 
+jl1955: folds 
+airdestiny: folds 
+Mr. Talysson: folds 
+sieupeaici: folds 
+CalmaMoreno has timed out
+CalmaMoreno: folds 
+JohnParas: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 (big blind) collected ($0.02)
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: airdestiny folded before Flop (didn't bet)
+Seat 5: Mr. Talysson folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: CalmaMoreno (button) folded before Flop (didn't bet)
+Seat 9: JohnParas (small blind) folded before Flop
+
+
+
+PokerStars Hand #233636276384:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:29:42 PT [2022/01/30 18:29:42 ET]
+Table 'Gawain III' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($4.32 in chips) 
+Seat 2: hesc a. ($1 in chips) 
+Seat 3: jl1955 ($0.98 in chips) 
+Seat 4: airdestiny ($2.12 in chips) 
+Seat 5: Mr. Talysson ($1.99 in chips) 
+Seat 6: sieupeaici ($2.25 in chips) 
+Seat 9: JohnParas ($2.11 in chips) 
+Dorex2007: posts small blind $0.01
+hesc a.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 7d]
+jl1955: folds 
+airdestiny has timed out
+airdestiny: folds 
+Mr. Talysson: folds 
+sieupeaici: raises $0.06 to $0.08
+JohnParas: folds 
+Dorex2007: folds 
+hesc a.: calls $0.06
+*** FLOP *** [Ts 5d 9c]
+hesc a.: checks 
+sieupeaici: checks 
+*** TURN *** [Ts 5d 9c] [4h]
+hesc a.: bets $0.02
+wilso52 joins the table at seat #8 
+sieupeaici: calls $0.02
+*** RIVER *** [Ts 5d 9c 4h] [Td]
+hesc a.: bets $0.02
+sieupeaici: calls $0.02
+*** SHOW DOWN ***
+hesc a.: shows [5s Qs] (two pair, Tens and Fives)
+sieupeaici: mucks hand 
+hesc a. collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ts 5d 9c 4h Td]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: hesc a. (big blind) showed [5s Qs] and won ($0.24) with two pair, Tens and Fives
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: airdestiny folded before Flop (didn't bet)
+Seat 5: Mr. Talysson folded before Flop (didn't bet)
+Seat 6: sieupeaici mucked [Ad Kh]
+Seat 9: JohnParas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233636301355:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:30:42 PT [2022/01/30 18:30:42 ET]
+Table 'Gawain III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($4.31 in chips) 
+Seat 2: hesc a. ($1.12 in chips) 
+Seat 3: jl1955 ($0.98 in chips) 
+Seat 4: airdestiny ($2.12 in chips) 
+Seat 5: Mr. Talysson ($1.99 in chips) 
+Seat 6: sieupeaici ($2.13 in chips) 
+Seat 7: CalmaMoreno ($2.01 in chips) 
+Seat 8: wilso52 ($1.60 in chips) 
+Seat 9: JohnParas ($2.11 in chips) 
+hesc a.: posts small blind $0.01
+jl1955: posts big blind $0.02
+wilso52: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 7c]
+airdestiny: folds 
+Mr. Talysson: folds 
+sieupeaici: folds 
+CalmaMoreno: calls $0.02
+wilso52: checks 
+JohnParas: folds 
+Dorex2007: calls $0.02
+hesc a.: calls $0.01
+jl1955: checks 
+*** FLOP *** [4s 8c Jd]
+hesc a.: checks 
+jl1955: checks 
+CalmaMoreno: checks 
+wilso52: checks 
+Dorex2007: checks 
+*** TURN *** [4s 8c Jd] [As]
+hesc a.: checks 
+jl1955: checks 
+CalmaMoreno: checks 
+wilso52: bets $0.10
+Dorex2007: folds 
+hesc a.: folds 
+jl1955: folds 
+CalmaMoreno is disconnected 
+CalmaMoreno is connected 
+CalmaMoreno: calls $0.10
+*** RIVER *** [4s 8c Jd As] [3d]
+CalmaMoreno: checks 
+wilso52: checks 
+*** SHOW DOWN ***
+CalmaMoreno: shows [Th Qc] (high card Ace)
+wilso52: shows [7s 4h] (a pair of Fours)
+wilso52 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [4s 8c Jd As 3d]
+Seat 1: Dorex2007 (button) folded on the Turn
+Seat 2: hesc a. (small blind) folded on the Turn
+Seat 3: jl1955 (big blind) folded on the Turn
+Seat 4: airdestiny folded before Flop (didn't bet)
+Seat 5: Mr. Talysson folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: CalmaMoreno showed [Th Qc] and lost with high card Ace
+Seat 8: wilso52 showed [7s 4h] and won ($0.29) with a pair of Fours
+Seat 9: JohnParas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233636344262:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:32:24 PT [2022/01/30 18:32:24 ET]
+Table 'Gawain III' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($4.29 in chips) 
+Seat 2: hesc a. ($1.10 in chips) 
+Seat 3: jl1955 ($0.96 in chips) 
+Seat 4: airdestiny ($2.12 in chips) 
+Seat 5: Mr. Talysson ($1.99 in chips) 
+Seat 6: sieupeaici ($2.13 in chips) 
+Seat 7: CalmaMoreno ($1.89 in chips) 
+Seat 8: wilso52 ($1.77 in chips) 
+Seat 9: JohnParas ($2.11 in chips) 
+jl1955: posts small blind $0.01
+airdestiny: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 6s]
+Mr. Talysson: calls $0.02
+sieupeaici: raises $0.02 to $0.04
+CalmaMoreno: folds 
+wilso52: calls $0.04
+JohnParas: folds 
+Dorex2007: folds 
+hesc a.: raises $1.06 to $1.10 and is all-in
+jl1955: folds 
+airdestiny: folds 
+Mr. Talysson: folds 
+sieupeaici: folds 
+wilso52: calls $1.06
+*** FLOP *** [2c 2s 9s]
+*** TURN *** [2c 2s 9s] [6c]
+*** RIVER *** [2c 2s 9s 6c] [3h]
+*** SHOW DOWN ***
+wilso52: shows [5s 5h] (two pair, Fives and Deuces)
+hesc a.: shows [Js Jh] (two pair, Jacks and Deuces)
+hesc a. cashed out the hand for $1.77 | Cash Out Fee $0.02
+wilso52 cashed out the hand for $0.42
+*** SUMMARY ***
+Total pot $2.29 | Rake $0.08 
+Board [2c 2s 9s 6c 3h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. (button) showed [Js Jh] and won ($2.21) with two pair, Jacks and Deuces (pot not awarded as player cashed out)
+Seat 3: jl1955 (small blind) folded before Flop
+Seat 4: airdestiny (big blind) folded before Flop
+Seat 5: Mr. Talysson folded before Flop
+Seat 6: sieupeaici folded before Flop
+Seat 7: CalmaMoreno folded before Flop (didn't bet)
+Seat 8: wilso52 showed [5s 5h] and lost with two pair, Fives and Deuces (cashed out).
+Seat 9: JohnParas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233636359947:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:33:01 PT [2022/01/30 18:33:01 ET]
+Table 'Gawain III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($4.29 in chips) 
+Seat 2: hesc a. ($1.77 in chips) 
+Seat 3: jl1955 ($0.95 in chips) 
+Seat 4: airdestiny ($2.10 in chips) 
+Seat 6: sieupeaici ($2.09 in chips) 
+Seat 7: CalmaMoreno ($1.89 in chips) 
+Seat 8: wilso52 ($1.09 in chips) 
+Seat 9: JohnParas ($2.11 in chips) 
+airdestiny: posts small blind $0.01
+Mr. Talysson: is sitting out 
+sieupeaici: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 9h]
+CalmaMoreno: raises $0.02 to $0.04
+Mr. Talysson leaves the table
+wilso52: raises $1.05 to $1.09 and is all-in
+JohnParas: folds 
+Dorex2007: folds 
+hesc a.: folds 
+jl1955: calls $0.95 and is all-in
+airdestiny: folds 
+sieupeaici: folds 
+CalmaMoreno: calls $1.05
+*** FLOP *** [2s 6h Qs]
+*** TURN *** [2s 6h Qs] [Jc]
+*** RIVER *** [2s 6h Qs Jc] [Jd]
+*** SHOW DOWN ***
+CalmaMoreno: shows [7d 7s] (two pair, Jacks and Sevens)
+wilso52: shows [6s 6d] (a full house, Sixes full of Jacks)
+jl1955: shows [Kd Kh] (two pair, Kings and Jacks)
+CalmaMoreno cashed out the hand for $0.72 | Cash Out Fee $0.01
+wilso52 cashed out the hand for $0.45
+*** SUMMARY ***
+Total pot $3.16 Main pot $2.78. Side pot $0.27. | Rake $0.11 
+Board [2s 6h Qs Jc Jd]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 3: jl1955 (button) showed [Kd Kh] and lost with two pair, Kings and Jacks
+Seat 4: airdestiny (small blind) folded before Flop
+Seat 6: sieupeaici (big blind) folded before Flop
+Seat 7: CalmaMoreno showed [7d 7s] and lost with two pair, Jacks and Sevens (cashed out).
+Seat 8: wilso52 showed [6s 6d] and won ($3.05) with a full house, Sixes full of Jacks (pot not awarded as player cashed out)
+Seat 9: JohnParas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233636381027:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:33:45 PT [2022/01/30 18:33:45 ET]
+Table 'Gawain III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($4.29 in chips) 
+Seat 2: hesc a. ($1.77 in chips) 
+Seat 4: airdestiny ($2.09 in chips) 
+Seat 6: sieupeaici ($2.07 in chips) 
+Seat 7: CalmaMoreno ($1.52 in chips) 
+Seat 8: wilso52 ($0.45 in chips) 
+Seat 9: JohnParas ($2.11 in chips) 
+sieupeaici: posts small blind $0.01
+CalmaMoreno: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 2c]
+wilso52: calls $0.02
+JohnParas: folds 
+Dorex2007: folds 
+hesc a.: folds 
+hesc a. leaves the table
+airdestiny: raises $0.08 to $0.10
+sieupeaici: folds 
+CalmaMoreno: folds 
+wilso52: calls $0.08
+*** FLOP *** [Jh 4s 7s]
+wilso52: bets $0.34
+airdestiny: folds 
+Uncalled bet ($0.34) returned to wilso52
+wilso52 collected $0.22 from pot
+wilso52: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Jh 4s 7s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hesc a. folded before Flop (didn't bet)
+Seat 4: airdestiny (button) folded on the Flop
+Seat 6: sieupeaici (small blind) folded before Flop
+Seat 7: CalmaMoreno (big blind) folded before Flop
+Seat 8: wilso52 collected ($0.22)
+Seat 9: JohnParas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233636395664:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:34:20 PT [2022/01/30 18:34:20 ET]
+Table 'Gawain III' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($4.29 in chips) 
+Seat 3: jl1955 ($0.80 in chips) 
+Seat 4: airdestiny ($2 in chips) 
+Seat 6: sieupeaici ($2.06 in chips) 
+Seat 7: CalmaMoreno ($1.50 in chips) 
+Seat 8: wilso52 ($0.57 in chips) 
+Seat 9: JohnParas ($2.11 in chips) 
+CalmaMoreno: posts small blind $0.01
+wilso52: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 9d]
+JohnParas: folds 
+Dorex2007: folds 
+jl1955: folds 
+airdestiny: folds 
+sieupeaici: raises $0.06 to $0.08
+CalmaMoreno is connected 
+CalmaMoreno: folds 
+wilso52: calls $0.06
+*** FLOP *** [6h 2d 8h]
+wilso52: checks 
+sieupeaici: checks 
+*** TURN *** [6h 2d 8h] [4c]
+wilso52: bets $0.16
+sieupeaici: folds 
+Uncalled bet ($0.16) returned to wilso52
+hoffmath joins the table at seat #2 
+wilso52 collected $0.16 from pot
+wilso52: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [6h 2d 8h 4c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: airdestiny folded before Flop (didn't bet)
+Seat 6: sieupeaici (button) folded on the Turn
+Seat 7: CalmaMoreno (small blind) folded before Flop
+Seat 8: wilso52 (big blind) collected ($0.16)
+Seat 9: JohnParas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233636436611:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:35:58 PT [2022/01/30 18:35:58 ET]
+Table 'Gawain III' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($4.29 in chips) 
+Seat 3: jl1955 ($0.80 in chips) 
+Seat 4: airdestiny ($2 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: CalmaMoreno ($1.49 in chips) 
+Seat 8: wilso52 ($0.65 in chips) 
+Seat 9: JohnParas ($2.11 in chips) 
+wilso52: posts small blind $0.01
+JohnParas: posts big blind $0.02
+hoffmath: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Tc]
+Dorex2007: folds 
+jl1955: folds 
+GuruPDR2018 joins the table at seat #5 
+airdestiny: folds 
+sieupeaici: folds 
+CalmaMoreno: calls $0.02
+wilso52: calls $0.01
+JohnParas: raises $0.10 to $0.12
+CalmaMoreno: folds 
+wilso52: calls $0.10
+*** FLOP *** [6c 5c 8c]
+wilso52: checks 
+JohnParas: checks 
+*** TURN *** [6c 5c 8c] [2c]
+wilso52: bets $0.53 and is all-in
+JohnParas: folds 
+Uncalled bet ($0.53) returned to wilso52
+wilso52 collected $0.25 from pot
+wilso52: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [6c 5c 8c 2c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: airdestiny folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: CalmaMoreno (button) folded before Flop
+Seat 8: wilso52 (small blind) collected ($0.25)
+Seat 9: JohnParas (big blind) folded on the Turn
+
+
+
+PokerStars Hand #233636453969:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:36:39 PT [2022/01/30 18:36:39 ET]
+Table 'Gawain III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($4.29 in chips) 
+Seat 3: jl1955 ($0.80 in chips) 
+Seat 4: airdestiny ($2 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: CalmaMoreno ($1.47 in chips) 
+Seat 8: wilso52 ($0.78 in chips) 
+Seat 9: JohnParas ($2 in chips) 
+JohnParas: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+hoffmath: sits out 
+GuruPDR2018: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 9d]
+jl1955: folds 
+airdestiny: folds 
+sieupeaici: folds 
+CalmaMoreno: raises $0.02 to $0.04
+wilso52: calls $0.04
+JohnParas: calls $0.03
+Dorex2007: folds 
+*** FLOP *** [6d 6c As]
+JohnParas: checks 
+CalmaMoreno: bets $0.06
+wilso52: folds 
+JohnParas: calls $0.06
+*** TURN *** [6d 6c As] [2h]
+JohnParas: checks 
+CalmaMoreno: bets $0.12
+JohnParas: calls $0.12
+*** RIVER *** [6d 6c As 2h] [7h]
+JohnParas: bets $0.29
+CalmaMoreno: calls $0.29
+*** SHOW DOWN ***
+JohnParas: shows [7c 7s] (a full house, Sevens full of Sixes)
+CalmaMoreno: mucks hand 
+JohnParas collected $1.04 from pot
+*** SUMMARY ***
+Total pot $1.08 | Rake $0.04 
+Board [6d 6c As 2h 7h]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: airdestiny folded before Flop (didn't bet)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: CalmaMoreno mucked [9s Kc]
+Seat 8: wilso52 (button) folded on the Flop
+Seat 9: JohnParas (small blind) showed [7c 7s] and won ($1.04) with a full house, Sevens full of Sixes
+
+
+
+PokerStars Hand #233636473034:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:37:25 PT [2022/01/30 18:37:25 ET]
+Table 'Gawain III' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($4.27 in chips) 
+Seat 2: hoffmath ($2 in chips) 
+Seat 3: jl1955 ($0.80 in chips) 
+Seat 4: airdestiny ($2 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: CalmaMoreno ($0.96 in chips) 
+Seat 8: wilso52 ($0.74 in chips) 
+Seat 9: JohnParas ($2.53 in chips) 
+Dorex2007: posts small blind $0.01
+hoffmath: posts big blind $0.02
+GuruPDR2018: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Qs]
+jl1955: folds 
+airdestiny has timed out
+airdestiny: folds 
+sieupeaici: calls $0.02
+CalmaMoreno: calls $0.02
+wilso52: folds 
+JohnParas: calls $0.02
+Dorex2007: calls $0.01
+hoffmath: checks 
+*** FLOP *** [3d 9h Ad]
+Dorex2007: checks 
+hoffmath: checks 
+sieupeaici: checks 
+CalmaMoreno: bets $0.10
+JohnParas: folds 
+Dorex2007: folds 
+hoffmath: folds 
+sieupeaici: folds 
+Uncalled bet ($0.10) returned to CalmaMoreno
+CalmaMoreno collected $0.10 from pot
+CalmaMoreno: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [3d 9h Ad]
+Seat 1: Dorex2007 (small blind) folded on the Flop
+Seat 2: hoffmath (big blind) folded on the Flop
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: airdestiny folded before Flop (didn't bet)
+Seat 6: sieupeaici folded on the Flop
+Seat 7: CalmaMoreno collected ($0.10)
+Seat 8: wilso52 folded before Flop (didn't bet)
+Seat 9: JohnParas (button) folded on the Flop
+
+
+
+PokerStars Hand #233636507236:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:38:48 PT [2022/01/30 18:38:48 ET]
+Table 'Gawain III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($4.25 in chips) 
+Seat 2: hoffmath ($1.98 in chips) 
+Seat 3: jl1955 ($0.80 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: CalmaMoreno ($1.04 in chips) 
+Seat 8: wilso52 ($0.74 in chips) 
+Seat 9: JohnParas ($2.51 in chips) 
+hoffmath: posts small blind $0.01
+jl1955: posts big blind $0.02
+GuruPDR2018: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 7h]
+sieupeaici: folds 
+CalmaMoreno: raises $0.02 to $0.04
+wilso52: raises $0.11 to $0.15
+JohnParas: folds 
+Dorex2007: folds 
+hoffmath: calls $0.14
+jl1955: folds 
+CalmaMoreno: calls $0.11
+*** FLOP *** [Ad 8c 7s]
+hoffmath: bets $0.23
+CalmaMoreno: raises $0.66 to $0.89 and is all-in
+wilso52: folds 
+hoffmath: calls $0.66
+*** TURN *** [Ad 8c 7s] [6d]
+*** RIVER *** [Ad 8c 7s 6d] [5c]
+*** SHOW DOWN ***
+hoffmath: shows [Ac Jc] (a pair of Aces)
+CalmaMoreno: shows [Ah 9h] (a straight, Five to Nine)
+CalmaMoreno collected $2.17 from pot
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.08 
+Board [Ad 8c 7s 6d 5c]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: hoffmath (small blind) showed [Ac Jc] and lost with a pair of Aces
+Seat 3: jl1955 (big blind) folded before Flop
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: CalmaMoreno showed [Ah 9h] and won ($2.17) with a straight, Five to Nine
+Seat 8: wilso52 folded on the Flop
+Seat 9: JohnParas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233636541920:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:39:49 PT [2022/01/30 18:39:49 ET]
+Table 'Gawain III' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($4.25 in chips) 
+Seat 2: hoffmath ($0.94 in chips) 
+Seat 3: jl1955 ($0.78 in chips) 
+Seat 4: airdestiny ($2 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: CalmaMoreno ($2.17 in chips) 
+Seat 8: wilso52 ($0.59 in chips) 
+Seat 9: JohnParas ($2.51 in chips) 
+jl1955: posts small blind $0.01
+airdestiny: posts big blind $0.02
+GuruPDR2018: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 2s]
+sieupeaici has timed out
+sieupeaici: folds 
+CalmaMoreno: raises $0.02 to $0.04
+wilso52: calls $0.04
+JohnParas: folds 
+Dorex2007: folds 
+hoffmath: calls $0.04
+jl1955: folds 
+airdestiny: folds 
+*** FLOP *** [7d As Kh]
+CalmaMoreno: checks 
+wilso52: checks 
+hoffmath: checks 
+*** TURN *** [7d As Kh] [8h]
+CalmaMoreno: checks 
+wilso52: checks 
+hoffmath: bets $0.06
+CalmaMoreno: folds 
+wilso52: folds 
+Uncalled bet ($0.06) returned to hoffmath
+hoffmath collected $0.14 from pot
+hoffmath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7d As Kh 8h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hoffmath (button) collected ($0.14)
+Seat 3: jl1955 (small blind) folded before Flop
+Seat 4: airdestiny (big blind) folded before Flop
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: CalmaMoreno folded on the Turn
+Seat 8: wilso52 folded on the Turn
+Seat 9: JohnParas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233636563088:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:40:42 PT [2022/01/30 18:40:42 ET]
+Table 'Gawain III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($4.25 in chips) 
+Seat 2: hoffmath ($1.84 in chips) 
+Seat 3: jl1955 ($0.77 in chips) 
+Seat 4: airdestiny ($2 in chips) 
+Seat 5: GuruPDR2018 ($0.80 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: CalmaMoreno ($2.13 in chips) 
+Seat 8: wilso52 ($0.55 in chips) 
+Seat 9: JohnParas ($2.51 in chips) 
+airdestiny: posts small blind $0.01
+GuruPDR2018: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Qh]
+sieupeaici: folds 
+CalmaMoreno: folds 
+wilso52: folds 
+JohnParas: folds 
+Dorex2007: raises $0.04 to $0.06
+hoffmath: folds 
+jl1955: folds 
+airdestiny: folds 
+GuruPDR2018: calls $0.04
+*** FLOP *** [8d Tc 3c]
+GuruPDR2018: checks 
+Dorex2007: checks 
+*** TURN *** [8d Tc 3c] [Td]
+GuruPDR2018: bets $0.02
+Dorex2007: calls $0.02
+*** RIVER *** [8d Tc 3c Td] [Jh]
+GuruPDR2018: bets $0.22
+Dorex2007: folds 
+Uncalled bet ($0.22) returned to GuruPDR2018
+GuruPDR2018 collected $0.16 from pot
+GuruPDR2018: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [8d Tc 3c Td Jh]
+Seat 1: Dorex2007 folded on the River
+Seat 2: hoffmath folded before Flop (didn't bet)
+Seat 3: jl1955 (button) folded before Flop (didn't bet)
+Seat 4: airdestiny (small blind) folded before Flop
+Seat 5: GuruPDR2018 (big blind) collected ($0.16)
+Seat 6: sieupeaici folded before Flop (didn't bet)
+Seat 7: CalmaMoreno folded before Flop (didn't bet)
+Seat 8: wilso52 folded before Flop (didn't bet)
+Seat 9: JohnParas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #233636586274:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/01/30 15:41:39 PT [2022/01/30 18:41:39 ET]
+Table 'Gawain III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($4.17 in chips) 
+Seat 2: hoffmath ($2 in chips) 
+Seat 3: jl1955 ($0.77 in chips) 
+Seat 4: airdestiny ($2 in chips) 
+Seat 5: GuruPDR2018 ($0.88 in chips) 
+Seat 6: sieupeaici ($2 in chips) 
+Seat 7: CalmaMoreno ($2.13 in chips) 
+Seat 8: wilso52 ($0.55 in chips) 
+Seat 9: JohnParas ($2.51 in chips) 
+GuruPDR2018: posts small blind $0.01
+sieupeaici: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 4d]
+CalmaMoreno: folds 
+wilso52: calls $0.02
+JohnParas: folds 
+Dorex2007: folds 
+hoffmath: folds 
+jl1955: folds 
+airdestiny: raises $0.08 to $0.10
+GuruPDR2018: folds 
+sieupeaici: folds 
+wilso52: calls $0.08
+*** FLOP *** [5c 7h 6c]
+wilso52: bets $0.45 and is all-in
+airdestiny: folds 
+Uncalled bet ($0.45) returned to wilso52
+wilso52 collected $0.22 from pot
+wilso52: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [5c 7h 6c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: hoffmath folded before Flop (didn't bet)
+Seat 3: jl1955 folded before Flop (didn't bet)
+Seat 4: airdestiny (button) folded on the Flop
+Seat 5: GuruPDR2018 (small blind) folded before Flop
+Seat 6: sieupeaici (big blind) folded before Flop
+Seat 7: CalmaMoreno folded before Flop (didn't bet)
+Seat 8: wilso52 collected ($0.22)
+Seat 9: JohnParas folded before Flop (didn't bet)
+
+
+
