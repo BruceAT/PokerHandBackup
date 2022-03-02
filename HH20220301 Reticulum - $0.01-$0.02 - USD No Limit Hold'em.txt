@@ -1,0 +1,5323 @@
+﻿PokerStars Hand #234486927548:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:12:04 PT [2022/03/01 17:12:04 ET]
+Table 'Reticulum' 9-max Seat #7 is the button
+Seat 1: airdestiny ($2.97 in chips) 
+Seat 2: mocaia ($1.23 in chips) 
+Seat 3: dhabiles52 ($2.13 in chips) 
+Seat 4: Donckske ($1.36 in chips) 
+Seat 5: msdhoni5 ($10.86 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: onis_uk ($1.97 in chips) 
+Seat 8: ramstein007 ($2.21 in chips) 
+Seat 9: dimitriusDZ ($2.04 in chips) 
+ramstein007: posts small blind $0.01
+dimitriusDZ: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Ks]
+airdestiny: folds 
+mocaia: folds 
+dhabiles52: raises $0.04 to $0.06
+Donckske: folds 
+msdhoni5: folds 
+Dorex2007: folds 
+onis_uk: calls $0.06
+ramstein007: calls $0.05
+dimitriusDZ: folds 
+*** FLOP *** [Th Js 4d]
+ramstein007: checks 
+dhabiles52: checks 
+onis_uk: checks 
+*** TURN *** [Th Js 4d] [9c]
+ramstein007: checks 
+dhabiles52: bets $0.13
+onis_uk: folds 
+ramstein007: calls $0.13
+*** RIVER *** [Th Js 4d 9c] [6h]
+ramstein007: checks 
+dhabiles52: checks 
+*** SHOW DOWN ***
+ramstein007: shows [As 9s] (a pair of Nines)
+dhabiles52: shows [Qc Tc] (a pair of Tens)
+dhabiles52 collected $0.46 from pot
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [Th Js 4d 9c 6h]
+Seat 1: airdestiny folded before Flop (didn't bet)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: dhabiles52 showed [Qc Tc] and won ($0.46) with a pair of Tens
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 5: msdhoni5 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: onis_uk (button) folded on the Turn
+Seat 8: ramstein007 (small blind) showed [As 9s] and lost with a pair of Nines
+Seat 9: dimitriusDZ (big blind) folded before Flop
+
+
+
+PokerStars Hand #234486951204:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:12:56 PT [2022/03/01 17:12:56 ET]
+Table 'Reticulum' 9-max Seat #8 is the button
+Seat 1: airdestiny ($2.97 in chips) 
+Seat 2: mocaia ($1.23 in chips) 
+Seat 4: Donckske ($1.36 in chips) 
+Seat 5: msdhoni5 ($10.86 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: onis_uk ($1.91 in chips) 
+Seat 8: ramstein007 ($2.02 in chips) 
+Seat 9: dimitriusDZ ($2.02 in chips) 
+dimitriusDZ: posts small blind $0.01
+airdestiny: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 9c]
+mocaia: folds 
+Donckske: folds 
+msdhoni5 has timed out
+msdhoni5: folds 
+Dorex2007: folds 
+onis_uk: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+Uncalled bet ($0.01) returned to airdestiny
+airdestiny collected $0.02 from pot
+airdestiny: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: airdestiny (big blind) collected ($0.02)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 5: msdhoni5 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: onis_uk folded before Flop (didn't bet)
+Seat 8: ramstein007 (button) folded before Flop (didn't bet)
+Seat 9: dimitriusDZ (small blind) folded before Flop
+
+
+
+PokerStars Hand #234486962167:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:13:21 PT [2022/03/01 17:13:21 ET]
+Table 'Reticulum' 9-max Seat #9 is the button
+Seat 1: airdestiny ($2.98 in chips) 
+Seat 2: mocaia ($1.23 in chips) 
+Seat 4: Donckske ($1.36 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: onis_uk ($1.91 in chips) 
+Seat 8: ramstein007 ($2.02 in chips) 
+Seat 9: dimitriusDZ ($2.01 in chips) 
+airdestiny: posts small blind $0.01
+mocaia: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Qd]
+Donckske: folds 
+Dorex2007: raises $0.02 to $0.04
+onis_uk: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: folds 
+mocaia: calls $0.02
+*** FLOP *** [6s 2c Td]
+mocaia: checks 
+Dorex2007: checks 
+*** TURN *** [6s 2c Td] [5h]
+mocaia: checks 
+Dorex2007: checks 
+*** RIVER *** [6s 2c Td 5h] [9h]
+mocaia: bets $0.09
+Dorex2007: folds 
+Uncalled bet ($0.09) returned to mocaia
+mocaia collected $0.09 from pot
+mocaia: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [6s 2c Td 5h 9h]
+Seat 1: airdestiny (small blind) folded before Flop
+Seat 2: mocaia (big blind) collected ($0.09)
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded on the River
+Seat 7: onis_uk folded before Flop (didn't bet)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234486980059:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:14:00 PT [2022/03/01 17:14:00 ET]
+Table 'Reticulum' 9-max Seat #1 is the button
+Seat 1: airdestiny ($2.97 in chips) 
+Seat 2: mocaia ($1.28 in chips) 
+Seat 4: Donckske ($1.36 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: onis_uk ($1.91 in chips) 
+Seat 8: ramstein007 ($2.02 in chips) 
+Seat 9: dimitriusDZ ($2.01 in chips) 
+mocaia: posts small blind $0.01
+Donckske: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 6h]
+Dorex2007: folds 
+onis_uk: raises $0.06 to $0.08
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: folds 
+mocaia: folds 
+Donckske: calls $0.06
+*** FLOP *** [2h Ah Qs]
+Donckske: checks 
+onis_uk: checks 
+*** TURN *** [2h Ah Qs] [3s]
+Donckske: checks 
+onis_uk: checks 
+*** RIVER *** [2h Ah Qs 3s] [3c]
+Donckske: checks 
+onis_uk: checks 
+*** SHOW DOWN ***
+Donckske: shows [Kh Js] (a pair of Threes)
+onis_uk: shows [Td Th] (two pair, Tens and Threes)
+onis_uk collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [2h Ah Qs 3s 3c]
+Seat 1: airdestiny (button) folded before Flop (didn't bet)
+Seat 2: mocaia (small blind) folded before Flop
+Seat 4: Donckske (big blind) showed [Kh Js] and lost with a pair of Threes
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: onis_uk showed [Td Th] and won ($0.16) with two pair, Tens and Threes
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234486999064:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:14:42 PT [2022/03/01 17:14:42 ET]
+Table 'Reticulum' 9-max Seat #2 is the button
+Seat 1: airdestiny ($2.97 in chips) 
+Seat 2: mocaia ($1.27 in chips) 
+Seat 4: Donckske ($1.28 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: onis_uk ($1.99 in chips) 
+Seat 8: ramstein007 ($2.02 in chips) 
+Seat 9: dimitriusDZ ($2.01 in chips) 
+Donckske: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 3s]
+onis_uk: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: raises $0.04 to $0.06
+mocaia: folds 
+Donckske: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to airdestiny
+airdestiny collected $0.05 from pot
+airdestiny: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: airdestiny collected ($0.05)
+Seat 2: mocaia (button) folded before Flop (didn't bet)
+Seat 4: Donckske (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: onis_uk folded before Flop (didn't bet)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487005976:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:14:57 PT [2022/03/01 17:14:57 ET]
+Table 'Reticulum' 9-max Seat #4 is the button
+Seat 1: airdestiny ($3 in chips) 
+Seat 2: mocaia ($1.27 in chips) 
+Seat 4: Donckske ($1.27 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: onis_uk ($1.99 in chips) 
+Seat 8: ramstein007 ($2.02 in chips) 
+Seat 9: dimitriusDZ ($2.01 in chips) 
+Dorex2007: posts small blind $0.01
+onis_uk: posts big blind $0.02
+dhabiles52: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Jd]
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: folds 
+mocaia: folds 
+Donckske: raises $0.04 to $0.06
+Dorex2007: folds 
+onis_uk: folds 
+Uncalled bet ($0.04) returned to Donckske
+Donckske collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: airdestiny folded before Flop (didn't bet)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 4: Donckske (button) collected ($0.05)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: onis_uk (big blind) folded before Flop
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487012166:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:15:10 PT [2022/03/01 17:15:10 ET]
+Table 'Reticulum' 9-max Seat #6 is the button
+Seat 1: airdestiny ($3 in chips) 
+Seat 2: mocaia ($1.27 in chips) 
+Seat 4: Donckske ($1.30 in chips) 
+Seat 5: msdhoni5 ($10.86 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: onis_uk ($1.97 in chips) 
+Seat 8: ramstein007 ($2.02 in chips) 
+Seat 9: dimitriusDZ ($2.01 in chips) 
+onis_uk: posts small blind $0.01
+ramstein007: posts big blind $0.02
+dhabiles52: sits out 
+msdhoni5: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 7d]
+dimitriusDZ: raises $0.03 to $0.05
+airdestiny: folds 
+mocaia: folds 
+Donckske: folds 
+msdhoni5: calls $0.03
+Dorex2007: folds 
+onis_uk: folds 
+ramstein007: calls $0.03
+*** FLOP *** [9h Kh 5c]
+ramstein007: checks 
+dimitriusDZ: checks 
+msdhoni5: checks 
+*** TURN *** [9h Kh 5c] [8h]
+ramstein007: bets $0.10
+dimitriusDZ: calls $0.10
+msdhoni5: calls $0.10
+*** RIVER *** [9h Kh 5c 8h] [Jd]
+ramstein007: bets $0.45
+dimitriusDZ: folds 
+msdhoni5: calls $0.45
+*** SHOW DOWN ***
+ramstein007: shows [Ah Qh] (a flush, Ace high)
+msdhoni5: mucks hand 
+ramstein007 collected $1.32 from pot
+*** SUMMARY ***
+Total pot $1.37 | Rake $0.05 
+Board [9h Kh 5c 8h Jd]
+Seat 1: airdestiny folded before Flop (didn't bet)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 5: msdhoni5 mucked [7s Th]
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: onis_uk (small blind) folded before Flop
+Seat 8: ramstein007 (big blind) showed [Ah Qh] and won ($1.32) with a flush, Ace high
+Seat 9: dimitriusDZ folded on the River
+
+
+
+PokerStars Hand #234487046015:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:16:24 PT [2022/03/01 17:16:24 ET]
+Table 'Reticulum' 9-max Seat #7 is the button
+Seat 1: airdestiny ($3 in chips) 
+Seat 2: mocaia ($1.27 in chips) 
+Seat 4: Donckske ($1.30 in chips) 
+Seat 5: msdhoni5 ($10.25 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: onis_uk ($1.96 in chips) 
+Seat 8: ramstein007 ($2.74 in chips) 
+Seat 9: dimitriusDZ ($2 in chips) 
+ramstein007: posts small blind $0.01
+dimitriusDZ: posts big blind $0.02
+dhabiles52: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 6h]
+airdestiny: folds 
+mocaia: folds 
+Donckske: folds 
+msdhoni5: folds 
+Dorex2007: folds 
+onis_uk: folds 
+ramstein007: folds 
+Uncalled bet ($0.01) returned to dimitriusDZ
+dimitriusDZ collected $0.02 from pot
+dimitriusDZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: airdestiny folded before Flop (didn't bet)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 5: msdhoni5 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: onis_uk (button) folded before Flop (didn't bet)
+Seat 8: ramstein007 (small blind) folded before Flop
+Seat 9: dimitriusDZ (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #234487052705:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:16:39 PT [2022/03/01 17:16:39 ET]
+Table 'Reticulum' 9-max Seat #8 is the button
+Seat 1: airdestiny ($3 in chips) 
+Seat 2: mocaia ($1.27 in chips) 
+Seat 4: Donckske ($1.30 in chips) 
+Seat 5: msdhoni5 ($10.25 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: onis_uk ($1.96 in chips) 
+Seat 8: ramstein007 ($2.73 in chips) 
+Seat 9: dimitriusDZ ($2.01 in chips) 
+dimitriusDZ: posts small blind $0.01
+airdestiny: posts big blind $0.02
+dhabiles52: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Ks]
+mocaia: folds 
+Donckske: folds 
+msdhoni5 has timed out
+msdhoni5: folds 
+Dorex2007: folds 
+onis_uk: raises $0.06 to $0.08
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: folds 
+Uncalled bet ($0.06) returned to onis_uk
+onis_uk collected $0.05 from pot
+onis_uk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: airdestiny (big blind) folded before Flop
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 5: msdhoni5 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: onis_uk collected ($0.05)
+Seat 8: ramstein007 (button) folded before Flop (didn't bet)
+Seat 9: dimitriusDZ (small blind) folded before Flop
+
+
+
+PokerStars Hand #234487062682:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:17:01 PT [2022/03/01 17:17:01 ET]
+Table 'Reticulum' 9-max Seat #9 is the button
+Seat 1: airdestiny ($2.98 in chips) 
+Seat 2: mocaia ($1.27 in chips) 
+Seat 4: Donckske ($1.30 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: onis_uk ($1.99 in chips) 
+Seat 8: ramstein007 ($2.73 in chips) 
+Seat 9: dimitriusDZ ($2 in chips) 
+airdestiny: posts small blind $0.01
+mocaia: posts big blind $0.02
+dhabiles52: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 4s]
+Donckske: folds 
+Dorex2007: folds 
+onis_uk: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: raises $0.06 to $0.08
+mocaia: folds 
+Uncalled bet ($0.06) returned to airdestiny
+airdestiny collected $0.04 from pot
+airdestiny: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: airdestiny (small blind) collected ($0.04)
+Seat 2: mocaia (big blind) folded before Flop
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: onis_uk folded before Flop (didn't bet)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487071740:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:17:21 PT [2022/03/01 17:17:21 ET]
+Table 'Reticulum' 9-max Seat #1 is the button
+Seat 1: airdestiny ($3 in chips) 
+Seat 2: mocaia ($1.25 in chips) 
+Seat 3: dhabiles52 ($2.40 in chips) 
+Seat 4: Donckske ($1.30 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: onis_uk ($1.99 in chips) 
+Seat 8: ramstein007 ($2.73 in chips) 
+Seat 9: dimitriusDZ ($2 in chips) 
+mocaia: posts small blind $0.01
+dhabiles52: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Qs]
+Donckske: raises $0.04 to $0.06
+Dorex2007: calls $0.06
+onis_uk: calls $0.06
+ramstein007: folds 
+dimitriusDZ: calls $0.06
+airdestiny: folds 
+mocaia: folds 
+dhabiles52: folds 
+*** FLOP *** [Ks 2s 3s]
+Donckske: checks 
+Dorex2007: bets $0.26
+onis_uk: folds 
+dimitriusDZ: calls $0.26
+Donckske: folds 
+*** TURN *** [Ks 2s 3s] [2h]
+Dorex2007: bets $1.68 and is all-in
+dimitriusDZ: calls $1.68 and is all-in
+*** RIVER *** [Ks 2s 3s 2h] [Td]
+*** SHOW DOWN ***
+Dorex2007: shows [Kc Qs] (two pair, Kings and Deuces)
+dimitriusDZ: shows [3c 3h] (a full house, Threes full of Deuces)
+dimitriusDZ cashed out the hand for $3.77 | Cash Out Fee $0.04
+*** SUMMARY ***
+Total pot $4.15 | Rake $0.15 
+Board [Ks 2s 3s 2h Td]
+Seat 1: airdestiny (button) folded before Flop (didn't bet)
+Seat 2: mocaia (small blind) folded before Flop
+Seat 3: dhabiles52 (big blind) folded before Flop
+Seat 4: Donckske folded on the Flop
+Seat 6: Dorex2007 showed [Kc Qs] and lost with two pair, Kings and Deuces
+Seat 7: onis_uk folded on the Flop
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ showed [3c 3h] and won ($4) with a full house, Threes full of Deuces (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #234487093354:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:18:09 PT [2022/03/01 17:18:09 ET]
+Table 'Reticulum' 9-max Seat #2 is the button
+Seat 1: airdestiny ($3 in chips) 
+Seat 2: mocaia ($1.24 in chips) 
+Seat 3: dhabiles52 ($2.38 in chips) 
+Seat 4: Donckske ($1.24 in chips) 
+Seat 5: msdhoni5 ($10.25 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: onis_uk ($1.93 in chips) 
+Seat 8: ramstein007 ($2.73 in chips) 
+Seat 9: dimitriusDZ ($3.77 in chips) 
+dhabiles52: posts small blind $0.01
+Donckske: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 8d]
+msdhoni5: calls $0.02
+Dorex2007: folds 
+onis_uk: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: raises $0.08 to $0.10
+mocaia: folds 
+dhabiles52: folds 
+Donckske: folds 
+msdhoni5: calls $0.08
+*** FLOP *** [3c 4c 9d]
+msdhoni5: bets $0.11
+airdestiny: folds 
+Uncalled bet ($0.11) returned to msdhoni5
+msdhoni5 collected $0.22 from pot
+msdhoni5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [3c 4c 9d]
+Seat 1: airdestiny folded on the Flop
+Seat 2: mocaia (button) folded before Flop (didn't bet)
+Seat 3: dhabiles52 (small blind) folded before Flop
+Seat 4: Donckske (big blind) folded before Flop
+Seat 5: msdhoni5 collected ($0.22)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: onis_uk folded before Flop (didn't bet)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487116715:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:18:56 PT [2022/03/01 17:18:56 ET]
+Table 'Reticulum' 9-max Seat #3 is the button
+Seat 1: airdestiny ($2.90 in chips) 
+Seat 2: mocaia ($1.24 in chips) 
+Seat 3: dhabiles52 ($2.37 in chips) 
+Seat 4: Donckske ($1.22 in chips) 
+Seat 5: msdhoni5 ($10.37 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: onis_uk ($1.93 in chips) 
+Seat 8: ramstein007 ($2.73 in chips) 
+Seat 9: dimitriusDZ ($3.77 in chips) 
+Donckske: posts small blind $0.01
+msdhoni5: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Kh]
+Dorex2007: raises $0.02 to $0.04
+onis_uk: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: folds 
+mocaia: folds 
+dhabiles52: folds 
+Donckske: calls $0.03
+msdhoni5: calls $0.02
+*** FLOP *** [Qc Jc 8c]
+Donckske: checks 
+msdhoni5: bets $0.06
+Dorex2007: calls $0.06
+Donckske: folds 
+*** TURN *** [Qc Jc 8c] [4d]
+msdhoni5: checks 
+Dorex2007: bets $0.12
+msdhoni5: folds 
+Uncalled bet ($0.12) returned to Dorex2007
+Dorex2007 collected $0.23 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Qc Jc 8c 4d]
+Seat 1: airdestiny folded before Flop (didn't bet)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: dhabiles52 (button) folded before Flop (didn't bet)
+Seat 4: Donckske (small blind) folded on the Flop
+Seat 5: msdhoni5 (big blind) folded on the Turn
+Seat 6: Dorex2007 collected ($0.23)
+Seat 7: onis_uk folded before Flop (didn't bet)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487139771:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:19:47 PT [2022/03/01 17:19:47 ET]
+Table 'Reticulum' 9-max Seat #4 is the button
+Seat 1: airdestiny ($2.90 in chips) 
+Seat 2: mocaia ($1.24 in chips) 
+Seat 3: dhabiles52 ($2.37 in chips) 
+Seat 4: Donckske ($1.18 in chips) 
+Seat 5: msdhoni5 ($10.27 in chips) 
+Seat 6: Dorex2007 ($2.13 in chips) 
+Seat 7: onis_uk ($1.93 in chips) 
+Seat 8: ramstein007 ($2.73 in chips) 
+Seat 9: dimitriusDZ ($3.77 in chips) 
+msdhoni5: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Ts]
+onis_uk: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: folds 
+mocaia: folds 
+dhabiles52: raises $0.02 to $0.04
+Donckske: calls $0.04
+msdhoni5: calls $0.03
+Dorex2007: folds 
+*** FLOP *** [3c 6c Ac]
+msdhoni5: checks 
+dhabiles52: checks 
+Donckske: checks 
+*** TURN *** [3c 6c Ac] [Td]
+msdhoni5: bets $0.07
+dhabiles52: raises $0.11 to $0.18
+Donckske: folds 
+msdhoni5: folds 
+Uncalled bet ($0.11) returned to dhabiles52
+dhabiles52 collected $0.27 from pot
+dhabiles52: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [3c 6c Ac Td]
+Seat 1: airdestiny folded before Flop (didn't bet)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: dhabiles52 collected ($0.27)
+Seat 4: Donckske (button) folded on the Turn
+Seat 5: msdhoni5 (small blind) folded on the Turn
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: onis_uk folded before Flop (didn't bet)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487164055:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:20:41 PT [2022/03/01 17:20:41 ET]
+Table 'Reticulum' 9-max Seat #5 is the button
+Seat 1: airdestiny ($2.90 in chips) 
+Seat 2: mocaia ($1.24 in chips) 
+Seat 3: dhabiles52 ($2.53 in chips) 
+Seat 4: Donckske ($1.14 in chips) 
+Seat 5: msdhoni5 ($10.16 in chips) 
+Seat 6: Dorex2007 ($2.11 in chips) 
+Seat 7: onis_uk ($1.93 in chips) 
+Seat 8: ramstein007 ($2.73 in chips) 
+Seat 9: dimitriusDZ ($3.77 in chips) 
+Dorex2007: posts small blind $0.01
+onis_uk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 3d]
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: folds 
+mocaia: folds 
+dhabiles52: raises $0.04 to $0.06
+Donckske: folds 
+msdhoni5: calls $0.06
+Dorex2007: folds 
+onis_uk: folds 
+*** FLOP *** [5h 3h 7d]
+dhabiles52: checks 
+msdhoni5: bets $0.02
+dhabiles52: calls $0.02
+*** TURN *** [5h 3h 7d] [Js]
+dhabiles52: checks 
+msdhoni5: bets $0.18
+dhabiles52: folds 
+Uncalled bet ($0.18) returned to msdhoni5
+msdhoni5 collected $0.18 from pot
+msdhoni5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [5h 3h 7d Js]
+Seat 1: airdestiny folded before Flop (didn't bet)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: dhabiles52 folded on the Turn
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 5: msdhoni5 (button) collected ($0.18)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: onis_uk (big blind) folded before Flop
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487189451:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:21:38 PT [2022/03/01 17:21:38 ET]
+Table 'Reticulum' 9-max Seat #6 is the button
+Seat 1: airdestiny ($2.90 in chips) 
+Seat 2: mocaia ($1.24 in chips) 
+Seat 3: dhabiles52 ($2.45 in chips) 
+Seat 4: Donckske ($1.14 in chips) 
+Seat 5: msdhoni5 ($10.26 in chips) 
+Seat 6: Dorex2007 ($2.10 in chips) 
+Seat 7: onis_uk ($1.91 in chips) 
+Seat 8: ramstein007 ($2.73 in chips) 
+Seat 9: dimitriusDZ ($3.77 in chips) 
+onis_uk: posts small blind $0.01
+ramstein007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 3s]
+dimitriusDZ: raises $0.03 to $0.05
+airdestiny: folds 
+mocaia: folds 
+dhabiles52: calls $0.05
+Donckske: folds 
+msdhoni5: calls $0.05
+Dorex2007: folds 
+onis_uk: folds 
+ramstein007: folds 
+*** FLOP *** [Ts 6d As]
+dimitriusDZ: checks 
+dhabiles52: checks 
+msdhoni5: checks 
+*** TURN *** [Ts 6d As] [7s]
+dimitriusDZ: checks 
+dhabiles52: checks 
+msdhoni5: checks 
+*** RIVER *** [Ts 6d As 7s] [8s]
+dimitriusDZ: checks 
+dhabiles52: checks 
+msdhoni5: checks 
+*** SHOW DOWN ***
+dimitriusDZ: shows [9d 9s] (a flush, Ace high)
+dhabiles52: mucks hand 
+msdhoni5: mucks hand 
+dimitriusDZ collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Ts 6d As 7s 8s]
+Seat 1: airdestiny folded before Flop (didn't bet)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: dhabiles52 mucked [8c 8d]
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 5: msdhoni5 mucked [7h 4d]
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: onis_uk (small blind) folded before Flop
+Seat 8: ramstein007 (big blind) folded before Flop
+Seat 9: dimitriusDZ showed [9d 9s] and won ($0.17) with a flush, Ace high
+
+
+
+PokerStars Hand #234487209164:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:22:23 PT [2022/03/01 17:22:23 ET]
+Table 'Reticulum' 9-max Seat #7 is the button
+Seat 1: airdestiny ($2.90 in chips) 
+Seat 2: mocaia ($1.24 in chips) 
+Seat 3: dhabiles52 ($2.40 in chips) 
+Seat 4: Donckske ($1.14 in chips) 
+Seat 5: msdhoni5 ($10.21 in chips) 
+Seat 6: Dorex2007 ($2.10 in chips) 
+Seat 7: onis_uk ($1.90 in chips) 
+Seat 8: ramstein007 ($2.71 in chips) 
+Seat 9: dimitriusDZ ($3.89 in chips) 
+ramstein007: posts small blind $0.01
+dimitriusDZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Ad]
+airdestiny: raises $0.06 to $0.08
+mocaia: folds 
+dhabiles52: folds 
+Donckske: folds 
+msdhoni5: calls $0.08
+Dorex2007: folds 
+onis_uk: calls $0.08
+ramstein007: calls $0.07
+dimitriusDZ: folds 
+*** FLOP *** [6c 7h 8h]
+ramstein007: checks 
+airdestiny: checks 
+msdhoni5: checks 
+onis_uk: checks 
+*** TURN *** [6c 7h 8h] [9h]
+ramstein007: checks 
+airdestiny: bets $0.17
+msdhoni5: folds 
+onis_uk: folds 
+ramstein007: folds 
+Uncalled bet ($0.17) returned to airdestiny
+airdestiny collected $0.33 from pot
+airdestiny: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [6c 7h 8h 9h]
+Seat 1: airdestiny collected ($0.33)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: dhabiles52 folded before Flop (didn't bet)
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 5: msdhoni5 folded on the Turn
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: onis_uk (button) folded on the Turn
+Seat 8: ramstein007 (small blind) folded on the Turn
+Seat 9: dimitriusDZ (big blind) folded before Flop
+
+
+
+PokerStars Hand #234487228940:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:23:07 PT [2022/03/01 17:23:07 ET]
+Table 'Reticulum' 9-max Seat #8 is the button
+Seat 1: airdestiny ($3.15 in chips) 
+Seat 2: mocaia ($1.24 in chips) 
+Seat 3: dhabiles52 ($2.40 in chips) 
+Seat 4: Donckske ($1.14 in chips) 
+Seat 5: msdhoni5 ($10.13 in chips) 
+Seat 6: Dorex2007 ($2.10 in chips) 
+Seat 7: onis_uk ($2 in chips) 
+Seat 8: ramstein007 ($2.63 in chips) 
+Seat 9: dimitriusDZ ($3.87 in chips) 
+dimitriusDZ: posts small blind $0.01
+airdestiny: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 5d]
+mocaia: folds 
+dhabiles52: raises $0.04 to $0.06
+Donckske: folds 
+msdhoni5: calls $0.06
+Dorex2007: folds 
+onis_uk: calls $0.06
+ramstein007: calls $0.06
+dimitriusDZ: folds 
+airdestiny: folds 
+*** FLOP *** [7c Ac Ts]
+dhabiles52: checks 
+msdhoni5: checks 
+onis_uk: bets $0.16
+ramstein007: raises $2.41 to $2.57 and is all-in
+dhabiles52: folds 
+msdhoni5: folds 
+onis_uk: folds 
+Uncalled bet ($2.41) returned to ramstein007
+ramstein007 collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.02 
+Board [7c Ac Ts]
+Seat 1: airdestiny (big blind) folded before Flop
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: dhabiles52 folded on the Flop
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 5: msdhoni5 folded on the Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: onis_uk folded on the Flop
+Seat 8: ramstein007 (button) collected ($0.57)
+Seat 9: dimitriusDZ (small blind) folded before Flop
+
+
+
+PokerStars Hand #234487252553:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:24:00 PT [2022/03/01 17:24:00 ET]
+Table 'Reticulum' 9-max Seat #9 is the button
+Seat 1: airdestiny ($3.13 in chips) 
+Seat 2: mocaia ($1.24 in chips) 
+Seat 3: dhabiles52 ($2.34 in chips) 
+Seat 4: Donckske ($1.14 in chips) 
+Seat 5: msdhoni5 ($10.07 in chips) 
+Seat 6: Dorex2007 ($2.10 in chips) 
+Seat 7: onis_uk ($2 in chips) 
+Seat 8: ramstein007 ($2.98 in chips) 
+Seat 9: dimitriusDZ ($3.86 in chips) 
+airdestiny: posts small blind $0.01
+mocaia: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 5s]
+dhabiles52: folds 
+Donckske: folds 
+msdhoni5: folds 
+Dorex2007: folds 
+onis_uk: raises $0.06 to $0.08
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: folds 
+mocaia: folds 
+Uncalled bet ($0.06) returned to onis_uk
+onis_uk collected $0.05 from pot
+onis_uk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: airdestiny (small blind) folded before Flop
+Seat 2: mocaia (big blind) folded before Flop
+Seat 3: dhabiles52 folded before Flop (didn't bet)
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 5: msdhoni5 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: onis_uk collected ($0.05)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487259647:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:24:17 PT [2022/03/01 17:24:17 ET]
+Table 'Reticulum' 9-max Seat #1 is the button
+Seat 1: airdestiny ($3.12 in chips) 
+Seat 2: mocaia ($1.22 in chips) 
+Seat 3: dhabiles52 ($2.34 in chips) 
+Seat 4: Donckske ($1.14 in chips) 
+Seat 5: msdhoni5 ($10.07 in chips) 
+Seat 6: Dorex2007 ($2.10 in chips) 
+Seat 7: onis_uk ($2.03 in chips) 
+Seat 8: ramstein007 ($2.98 in chips) 
+Seat 9: dimitriusDZ ($3.86 in chips) 
+mocaia: posts small blind $0.01
+dhabiles52: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Kc]
+Donckske has timed out
+Donckske: folds 
+msdhoni5 has timed out
+msdhoni5: folds 
+Dorex2007: folds 
+onis_uk: folds 
+onis_uk leaves the table
+ramstein007: raises $0.03 to $0.05
+dimitriusDZ: folds 
+airdestiny: folds 
+mocaia: folds 
+dhabiles52: folds 
+Uncalled bet ($0.03) returned to ramstein007
+ramstein007 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: airdestiny (button) folded before Flop (didn't bet)
+Seat 2: mocaia (small blind) folded before Flop
+Seat 3: dhabiles52 (big blind) folded before Flop
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 5: msdhoni5 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: onis_uk folded before Flop (didn't bet)
+Seat 8: ramstein007 collected ($0.05)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487276352:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:24:54 PT [2022/03/01 17:24:54 ET]
+Table 'Reticulum' 9-max Seat #2 is the button
+Seat 1: airdestiny ($3.12 in chips) 
+Seat 2: mocaia ($1.21 in chips) 
+Seat 3: dhabiles52 ($2.32 in chips) 
+Seat 4: Donckske ($1.14 in chips) 
+Seat 6: Dorex2007 ($2.10 in chips) 
+Seat 8: ramstein007 ($3.01 in chips) 
+Seat 9: dimitriusDZ ($3.86 in chips) 
+dhabiles52: posts small blind $0.01
+Donckske: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 5h]
+Dorex2007: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: raises $0.06 to $0.08
+mocaia: folds 
+dhabiles52: folds 
+Donckske: folds 
+Uncalled bet ($0.06) returned to airdestiny
+airdestiny collected $0.05 from pot
+airdestiny: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: airdestiny collected ($0.05)
+Seat 2: mocaia (button) folded before Flop (didn't bet)
+Seat 3: dhabiles52 (small blind) folded before Flop
+Seat 4: Donckske (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487281864:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:25:07 PT [2022/03/01 17:25:07 ET]
+Table 'Reticulum' 9-max Seat #3 is the button
+Seat 1: airdestiny ($3.15 in chips) 
+Seat 2: mocaia ($1.21 in chips) 
+Seat 3: dhabiles52 ($2.31 in chips) 
+Seat 4: Donckske ($1.12 in chips) 
+Seat 6: Dorex2007 ($2.10 in chips) 
+Seat 8: ramstein007 ($3.01 in chips) 
+Seat 9: dimitriusDZ ($3.86 in chips) 
+Donckske: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 2d]
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: folds 
+mocaia: folds 
+dhabiles52: folds 
+Donckske: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: airdestiny folded before Flop (didn't bet)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: dhabiles52 (button) folded before Flop (didn't bet)
+Seat 4: Donckske (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) collected ($0.02)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487289219:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:25:24 PT [2022/03/01 17:25:24 ET]
+Table 'Reticulum' 9-max Seat #4 is the button
+Seat 1: airdestiny ($3.15 in chips) 
+Seat 2: mocaia ($1.21 in chips) 
+Seat 3: dhabiles52 ($2.31 in chips) 
+Seat 4: Donckske ($1.11 in chips) 
+Seat 6: Dorex2007 ($2.11 in chips) 
+Seat 8: ramstein007 ($3.01 in chips) 
+Seat 9: dimitriusDZ ($3.86 in chips) 
+Dorex2007: posts small blind $0.01
+ramstein007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 5h]
+dimitriusDZ: folds 
+airdestiny: folds 
+RealScot joins the table at seat #7 
+mocaia has timed out
+mocaia: folds 
+dhabiles52: folds 
+Donckske: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to ramstein007
+ramstein007 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: airdestiny folded before Flop (didn't bet)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: dhabiles52 folded before Flop (didn't bet)
+Seat 4: Donckske (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 8: ramstein007 (big blind) collected ($0.02)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487298561:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:25:45 PT [2022/03/01 17:25:45 ET]
+Table 'Reticulum' 9-max Seat #6 is the button
+Seat 1: airdestiny ($3.15 in chips) 
+Seat 3: dhabiles52 ($2.31 in chips) 
+Seat 4: Donckske ($1.11 in chips) 
+Seat 6: Dorex2007 ($2.10 in chips) 
+Seat 8: ramstein007 ($3.02 in chips) 
+Seat 9: dimitriusDZ ($3.86 in chips) 
+ramstein007: posts small blind $0.01
+dimitriusDZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Kd]
+airdestiny: folds 
+dhabiles52: folds 
+Donckske: folds 
+Dorex2007: folds 
+ramstein007: folds 
+Uncalled bet ($0.01) returned to dimitriusDZ
+dimitriusDZ collected $0.02 from pot
+dimitriusDZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: airdestiny folded before Flop (didn't bet)
+Seat 3: dhabiles52 folded before Flop (didn't bet)
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: ramstein007 (small blind) folded before Flop
+Seat 9: dimitriusDZ (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #234487304310:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:25:58 PT [2022/03/01 17:25:58 ET]
+Table 'Reticulum' 9-max Seat #8 is the button
+Seat 1: airdestiny ($3.15 in chips) 
+Seat 3: dhabiles52 ($2.31 in chips) 
+Seat 4: Donckske ($1.11 in chips) 
+Seat 5: msdhoni5 ($10.07 in chips) 
+Seat 6: Dorex2007 ($2.10 in chips) 
+Seat 8: ramstein007 ($3.01 in chips) 
+Seat 9: dimitriusDZ ($3.87 in chips) 
+dimitriusDZ: posts small blind $0.01
+airdestiny: posts big blind $0.02
+msdhoni5: posts small & big blinds $0.03
+RealScot: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Ac]
+dhabiles52: folds 
+Donckske: raises $0.04 to $0.06
+msdhoni5: calls $0.04
+Dorex2007: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: folds 
+*** FLOP *** [Th Td 3h]
+Donckske: checks 
+msdhoni5: bets $0.02
+Donckske: calls $0.02
+*** TURN *** [Th Td 3h] [3c]
+Donckske: checks 
+msdhoni5: checks 
+*** RIVER *** [Th Td 3h 3c] [8d]
+Donckske: checks 
+msdhoni5: bets $0.09
+Donckske: calls $0.09
+*** SHOW DOWN ***
+msdhoni5: shows [6c 2h] (two pair, Tens and Threes)
+Donckske: shows [Ah Kc] (two pair, Tens and Threes - Ace kicker)
+Donckske collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [Th Td 3h 3c 8d]
+Seat 1: airdestiny (big blind) folded before Flop
+Seat 3: dhabiles52 folded before Flop (didn't bet)
+Seat 4: Donckske showed [Ah Kc] and won ($0.37) with two pair, Tens and Threes
+Seat 5: msdhoni5 showed [6c 2h] and lost with two pair, Tens and Threes
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ramstein007 (button) folded before Flop (didn't bet)
+Seat 9: dimitriusDZ (small blind) folded before Flop
+
+
+
+PokerStars Hand #234487322704:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:26:40 PT [2022/03/01 17:26:40 ET]
+Table 'Reticulum' 9-max Seat #9 is the button
+Seat 1: airdestiny ($3.13 in chips) 
+Seat 2: mocaia ($1.21 in chips) 
+Seat 3: dhabiles52 ($2.31 in chips) 
+Seat 4: Donckske ($1.31 in chips) 
+Seat 5: msdhoni5 ($9.89 in chips) 
+Seat 6: Dorex2007 ($2.10 in chips) 
+Seat 8: ramstein007 ($3.01 in chips) 
+Seat 9: dimitriusDZ ($3.86 in chips) 
+airdestiny: posts small blind $0.01
+mocaia: posts big blind $0.02
+RealScot: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 7h]
+dhabiles52: folds 
+Donckske: folds 
+msdhoni5: calls $0.02
+Dorex2007: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: raises $0.08 to $0.10
+mocaia: calls $0.08
+msdhoni5: calls $0.08
+*** FLOP *** [9s 2d Tc]
+airdestiny: checks 
+mocaia: checks 
+msdhoni5: checks 
+*** TURN *** [9s 2d Tc] [8h]
+airdestiny: bets $0.15
+mocaia: calls $0.15
+msdhoni5: folds 
+*** RIVER *** [9s 2d Tc 8h] [Kc]
+airdestiny: bets $0.44
+mocaia: folds 
+Uncalled bet ($0.44) returned to airdestiny
+airdestiny collected $0.58 from pot
+airdestiny: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [9s 2d Tc 8h Kc]
+Seat 1: airdestiny (small blind) collected ($0.58)
+Seat 2: mocaia (big blind) folded on the River
+Seat 3: dhabiles52 folded before Flop (didn't bet)
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 5: msdhoni5 folded on the Turn
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487360118:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:27:37 PT [2022/03/01 17:27:37 ET]
+Table 'Reticulum' 9-max Seat #1 is the button
+Seat 1: airdestiny ($3.46 in chips) 
+Seat 2: mocaia ($0.96 in chips) 
+Seat 3: dhabiles52 ($2.31 in chips) 
+Seat 4: Donckske ($1.31 in chips) 
+Seat 5: msdhoni5 ($9.79 in chips) 
+Seat 6: Dorex2007 ($2.10 in chips) 
+Seat 8: ramstein007 ($3.01 in chips) 
+Seat 9: dimitriusDZ ($3.86 in chips) 
+mocaia: posts small blind $0.01
+dhabiles52: posts big blind $0.02
+RealScot: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 6s]
+Donckske: folds 
+msdhoni5: calls $0.02
+Dorex2007: folds 
+ramstein007: calls $0.02
+dimitriusDZ: folds 
+airdestiny: calls $0.02
+mocaia: folds 
+dhabiles52: checks 
+*** FLOP *** [Ah 2h 4d]
+dhabiles52: checks 
+msdhoni5: bets $0.02
+ramstein007: folds 
+airdestiny: folds 
+dhabiles52: folds 
+Uncalled bet ($0.02) returned to msdhoni5
+msdhoni5 collected $0.09 from pot
+msdhoni5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Ah 2h 4d]
+Seat 1: airdestiny (button) folded on the Flop
+Seat 2: mocaia (small blind) folded before Flop
+Seat 3: dhabiles52 (big blind) folded on the Flop
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 5: msdhoni5 collected ($0.09)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ramstein007 folded on the Flop
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487372799:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:28:06 PT [2022/03/01 17:28:06 ET]
+Table 'Reticulum' 9-max Seat #2 is the button
+Seat 1: airdestiny ($3.44 in chips) 
+Seat 2: mocaia ($0.95 in chips) 
+Seat 3: dhabiles52 ($2.29 in chips) 
+Seat 4: Donckske ($1.31 in chips) 
+Seat 5: msdhoni5 ($9.86 in chips) 
+Seat 6: Dorex2007 ($2.10 in chips) 
+Seat 8: ramstein007 ($2.99 in chips) 
+Seat 9: dimitriusDZ ($3.86 in chips) 
+dhabiles52: posts small blind $0.01
+Donckske: posts big blind $0.02
+RealScot: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Ac]
+msdhoni5: folds 
+Dorex2007: folds 
+ramstein007: folds 
+dimitriusDZ: raises $0.03 to $0.05
+airdestiny: calls $0.05
+mocaia: folds 
+dhabiles52: folds 
+Donckske: folds 
+*** FLOP *** [Th 6d 5h]
+dimitriusDZ: checks 
+airdestiny: checks 
+*** TURN *** [Th 6d 5h] [Kc]
+dimitriusDZ: checks 
+airdestiny: bets $0.10
+dimitriusDZ: folds 
+Uncalled bet ($0.10) returned to airdestiny
+airdestiny collected $0.13 from pot
+airdestiny: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Th 6d 5h Kc]
+Seat 1: airdestiny collected ($0.13)
+Seat 2: mocaia (button) folded before Flop (didn't bet)
+Seat 3: dhabiles52 (small blind) folded before Flop
+Seat 4: Donckske (big blind) folded before Flop
+Seat 5: msdhoni5 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded on the Turn
+
+
+
+PokerStars Hand #234487384611:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:28:33 PT [2022/03/01 17:28:33 ET]
+Table 'Reticulum' 9-max Seat #3 is the button
+Seat 1: airdestiny ($3.52 in chips) 
+Seat 2: mocaia ($0.95 in chips) 
+Seat 3: dhabiles52 ($2.28 in chips) 
+Seat 4: Donckske ($1.29 in chips) 
+Seat 5: msdhoni5 ($9.86 in chips) 
+Seat 6: Dorex2007 ($2.10 in chips) 
+Seat 8: ramstein007 ($2.99 in chips) 
+Seat 9: dimitriusDZ ($3.81 in chips) 
+Donckske: posts small blind $0.01
+msdhoni5: posts big blind $0.02
+RealScot: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 9h]
+Dorex2007: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: raises $0.04 to $0.06
+mocaia: calls $0.06
+dhabiles52: folds 
+Donckske: folds 
+msdhoni5: calls $0.04
+*** FLOP *** [7d Kh 4s]
+msdhoni5: checks 
+airdestiny: bets $0.09
+mocaia: folds 
+msdhoni5: folds 
+Uncalled bet ($0.09) returned to airdestiny
+airdestiny collected $0.18 from pot
+airdestiny: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [7d Kh 4s]
+Seat 1: airdestiny collected ($0.18)
+Seat 2: mocaia folded on the Flop
+Seat 3: dhabiles52 (button) folded before Flop (didn't bet)
+Seat 4: Donckske (small blind) folded before Flop
+Seat 5: msdhoni5 (big blind) folded on the Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487401152:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:29:11 PT [2022/03/01 17:29:11 ET]
+Table 'Reticulum' 9-max Seat #4 is the button
+Seat 1: airdestiny ($3.64 in chips) 
+Seat 2: mocaia ($0.89 in chips) 
+Seat 3: dhabiles52 ($2.28 in chips) 
+Seat 4: Donckske ($1.28 in chips) 
+Seat 5: msdhoni5 ($9.80 in chips) 
+Seat 6: Dorex2007 ($2.10 in chips) 
+Seat 8: ramstein007 ($2.99 in chips) 
+Seat 9: dimitriusDZ ($3.81 in chips) 
+msdhoni5: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+RealScot: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 2d]
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: folds 
+mocaia: folds 
+dhabiles52: folds 
+Donckske: folds 
+msdhoni5: raises $0.04 to $0.06
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to msdhoni5
+msdhoni5 collected $0.04 from pot
+msdhoni5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: airdestiny folded before Flop (didn't bet)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: dhabiles52 folded before Flop (didn't bet)
+Seat 4: Donckske (button) folded before Flop (didn't bet)
+Seat 5: msdhoni5 (small blind) collected ($0.04)
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487406694:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:29:24 PT [2022/03/01 17:29:24 ET]
+Table 'Reticulum' 9-max Seat #5 is the button
+Seat 1: airdestiny ($3.64 in chips) 
+Seat 2: mocaia ($0.89 in chips) 
+Seat 3: dhabiles52 ($2.28 in chips) 
+Seat 4: Donckske ($1.28 in chips) 
+Seat 5: msdhoni5 ($9.82 in chips) 
+Seat 6: Dorex2007 ($2.08 in chips) 
+Seat 7: RealScot ($2 in chips) 
+Seat 8: ramstein007 ($2.99 in chips) 
+Seat 9: dimitriusDZ ($3.81 in chips) 
+Dorex2007: posts small blind $0.01
+RealScot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Kc]
+ramstein007: calls $0.02
+dimitriusDZ: folds 
+airdestiny: folds 
+mocaia: folds 
+dhabiles52: folds 
+Donckske: folds 
+msdhoni5: calls $0.02
+Dorex2007: raises $0.04 to $0.06
+RealScot: calls $0.04
+ramstein007: calls $0.04
+msdhoni5: calls $0.04
+*** FLOP *** [8h 2h 3d]
+Dorex2007: checks 
+RealScot: checks 
+ramstein007: bets $0.12
+msdhoni5: calls $0.12
+Dorex2007: folds 
+RealScot: folds 
+*** TURN *** [8h 2h 3d] [9c]
+ramstein007: bets $2.81 and is all-in
+msdhoni5: folds 
+Uncalled bet ($2.81) returned to ramstein007
+ramstein007 collected $0.46 from pot
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [8h 2h 3d 9c]
+Seat 1: airdestiny folded before Flop (didn't bet)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: dhabiles52 folded before Flop (didn't bet)
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 5: msdhoni5 (button) folded on the Turn
+Seat 6: Dorex2007 (small blind) folded on the Flop
+Seat 7: RealScot (big blind) folded on the Flop
+Seat 8: ramstein007 collected ($0.46)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487432557:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:30:25 PT [2022/03/01 17:30:25 ET]
+Table 'Reticulum' 9-max Seat #6 is the button
+Seat 1: airdestiny ($3.64 in chips) 
+Seat 2: mocaia ($0.89 in chips) 
+Seat 3: dhabiles52 ($2.28 in chips) 
+Seat 4: Donckske ($1.28 in chips) 
+Seat 5: msdhoni5 ($9.64 in chips) 
+Seat 6: Dorex2007 ($2.02 in chips) 
+Seat 7: RealScot ($1.94 in chips) 
+Seat 8: ramstein007 ($3.27 in chips) 
+Seat 9: dimitriusDZ ($3.81 in chips) 
+RealScot: posts small blind $0.01
+ramstein007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Jh]
+dimitriusDZ: raises $0.03 to $0.05
+airdestiny: folds 
+mocaia: folds 
+dhabiles52 has timed out
+dhabiles52: folds 
+Donckske: folds 
+msdhoni5: folds 
+Dorex2007: folds 
+RealScot: folds 
+ramstein007: folds 
+Uncalled bet ($0.03) returned to dimitriusDZ
+dimitriusDZ collected $0.05 from pot
+dimitriusDZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: airdestiny folded before Flop (didn't bet)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: dhabiles52 folded before Flop (didn't bet)
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 5: msdhoni5 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: RealScot (small blind) folded before Flop
+Seat 8: ramstein007 (big blind) folded before Flop
+Seat 9: dimitriusDZ collected ($0.05)
+
+
+
+PokerStars Hand #234487447803:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:31:00 PT [2022/03/01 17:31:00 ET]
+Table 'Reticulum' 9-max Seat #7 is the button
+Seat 1: airdestiny ($3.64 in chips) 
+Seat 2: mocaia ($0.89 in chips) 
+Seat 4: Donckske ($1.28 in chips) 
+Seat 5: msdhoni5 ($9.64 in chips) 
+Seat 6: Dorex2007 ($2.02 in chips) 
+Seat 7: RealScot ($1.99 in chips) 
+Seat 8: ramstein007 ($3.25 in chips) 
+Seat 9: dimitriusDZ ($3.84 in chips) 
+ramstein007: posts small blind $0.01
+dimitriusDZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 5d]
+airdestiny: folds 
+mocaia: raises $0.18 to $0.20
+Donckske: folds 
+msdhoni5: folds 
+Dorex2007: folds 
+RealScot: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+Uncalled bet ($0.18) returned to mocaia
+mocaia collected $0.05 from pot
+mocaia: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: airdestiny folded before Flop (didn't bet)
+Seat 2: mocaia collected ($0.05)
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 5: msdhoni5 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: RealScot (button) folded before Flop (didn't bet)
+Seat 8: ramstein007 (small blind) folded before Flop
+Seat 9: dimitriusDZ (big blind) folded before Flop
+
+
+
+PokerStars Hand #234487459914:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:31:29 PT [2022/03/01 17:31:29 ET]
+Table 'Reticulum' 9-max Seat #8 is the button
+Seat 1: airdestiny ($3.64 in chips) 
+Seat 2: mocaia ($0.92 in chips) 
+Seat 4: Donckske ($1.28 in chips) 
+Seat 5: msdhoni5 ($9.64 in chips) 
+Seat 6: Dorex2007 ($2.02 in chips) 
+Seat 7: RealScot ($1.99 in chips) 
+Seat 8: ramstein007 ($3.24 in chips) 
+Seat 9: dimitriusDZ ($3.82 in chips) 
+dimitriusDZ: posts small blind $0.01
+airdestiny: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Jd]
+mocaia: folds 
+Donckske: folds 
+msdhoni5: raises $0.04 to $0.06
+Dorex2007: folds 
+RealScot: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: folds 
+Uncalled bet ($0.04) returned to msdhoni5
+msdhoni5 collected $0.05 from pot
+msdhoni5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: airdestiny (big blind) folded before Flop
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 5: msdhoni5 collected ($0.05)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: RealScot folded before Flop (didn't bet)
+Seat 8: ramstein007 (button) folded before Flop (didn't bet)
+Seat 9: dimitriusDZ (small blind) folded before Flop
+
+
+
+PokerStars Hand #234487467419:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:31:46 PT [2022/03/01 17:31:46 ET]
+Table 'Reticulum' 9-max Seat #9 is the button
+Seat 1: airdestiny ($3.62 in chips) 
+Seat 2: mocaia ($0.92 in chips) 
+Seat 4: Donckske ($1.28 in chips) 
+Seat 5: msdhoni5 ($9.67 in chips) 
+Seat 6: Dorex2007 ($2.02 in chips) 
+Seat 7: RealScot ($2 in chips) 
+Seat 8: ramstein007 ($3.24 in chips) 
+Seat 9: dimitriusDZ ($3.81 in chips) 
+airdestiny: posts small blind $0.01
+mocaia: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 7h]
+Donckske has timed out
+Donckske: folds 
+msdhoni5: folds 
+Dorex2007: folds 
+RealScot: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: raises $0.06 to $0.08
+mocaia: calls $0.06
+*** FLOP *** [6h 4d 5h]
+dhabiles52 leaves the table
+airdestiny: checks 
+mocaia: bets $0.15
+airdestiny: folds 
+Uncalled bet ($0.15) returned to mocaia
+mocaia collected $0.15 from pot
+mocaia: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [6h 4d 5h]
+Seat 1: airdestiny (small blind) folded on the Flop
+Seat 2: mocaia (big blind) collected ($0.15)
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 5: msdhoni5 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: RealScot folded before Flop (didn't bet)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487483679:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:32:24 PT [2022/03/01 17:32:24 ET]
+Table 'Reticulum' 9-max Seat #1 is the button
+Seat 1: airdestiny ($3.54 in chips) 
+Seat 2: mocaia ($0.99 in chips) 
+Seat 4: Donckske ($1.28 in chips) 
+Seat 5: msdhoni5 ($9.67 in chips) 
+Seat 6: Dorex2007 ($2.02 in chips) 
+Seat 7: RealScot ($2 in chips) 
+Seat 8: ramstein007 ($3.24 in chips) 
+Seat 9: dimitriusDZ ($3.81 in chips) 
+mocaia: posts small blind $0.01
+Donckske: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 2h]
+msdhoni5: calls $0.02
+Dorex2007: folds 
+RealScot: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: folds 
+mocaia: folds 
+Donckske: raises $0.04 to $0.06
+msdhoni5: calls $0.04
+*** FLOP *** [Jc 7c Td]
+Donckske: checks 
+msdhoni5: checks 
+*** TURN *** [Jc 7c Td] [Th]
+Donckske: checks 
+msdhoni5: bets $0.06
+Donckske: calls $0.06
+*** RIVER *** [Jc 7c Td Th] [Qc]
+Donckske: checks 
+msdhoni5: checks 
+*** SHOW DOWN ***
+Donckske: shows [As 9h] (a pair of Tens)
+msdhoni5: mucks hand 
+Donckske collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Jc 7c Td Th Qc]
+Seat 1: airdestiny (button) folded before Flop (didn't bet)
+Seat 2: mocaia (small blind) folded before Flop
+Seat 4: Donckske (big blind) showed [As 9h] and won ($0.24) with a pair of Tens
+Seat 5: msdhoni5 mucked [5s 8s]
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: RealScot folded before Flop (didn't bet)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487503392:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:32:55 PT [2022/03/01 17:32:55 ET]
+Table 'Reticulum' 9-max Seat #2 is the button
+Seat 1: airdestiny ($3.54 in chips) 
+Seat 2: mocaia ($0.98 in chips) 
+Seat 4: Donckske ($1.40 in chips) 
+Seat 5: msdhoni5 ($9.55 in chips) 
+Seat 6: Dorex2007 ($2.02 in chips) 
+Seat 7: RealScot ($2 in chips) 
+Seat 8: ramstein007 ($3.24 in chips) 
+Seat 9: dimitriusDZ ($3.81 in chips) 
+Donckske: posts small blind $0.01
+msdhoni5: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 7s]
+Dorex2007: folds 
+RealScot: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: folds 
+mocaia: folds 
+Donckske: calls $0.01
+msdhoni5: raises $0.04 to $0.06
+Donckske: calls $0.04
+*** FLOP *** [Ad 7d 3d]
+Donckske: checks 
+msdhoni5: bets $0.06
+Donckske: calls $0.06
+*** TURN *** [Ad 7d 3d] [6h]
+Donckske: checks 
+msdhoni5: checks 
+*** RIVER *** [Ad 7d 3d 6h] [Ks]
+Donckske: checks 
+PiosCowboy joins the table at seat #3 
+msdhoni5: bets $0.11
+Donckske: calls $0.11
+*** SHOW DOWN ***
+msdhoni5: shows [3c Qd] (a pair of Threes)
+Donckske: shows [6s Ac] (two pair, Aces and Sixes)
+Donckske collected $0.44 from pot
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [Ad 7d 3d 6h Ks]
+Seat 1: airdestiny folded before Flop (didn't bet)
+Seat 2: mocaia (button) folded before Flop (didn't bet)
+Seat 4: Donckske (small blind) showed [6s Ac] and won ($0.44) with two pair, Aces and Sixes
+Seat 5: msdhoni5 (big blind) showed [3c Qd] and lost with a pair of Threes
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: RealScot folded before Flop (didn't bet)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487591596:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:36:22 PT [2022/03/01 17:36:22 ET]
+Table 'Reticulum' 9-max Seat #7 is the button
+Seat 1: airdestiny ($3.54 in chips) 
+Seat 2: mocaia ($0.98 in chips) 
+Seat 4: Donckske ($1.40 in chips) 
+Seat 5: msdhoni5 ($9.46 in chips) 
+Seat 6: Dorex2007 ($2.02 in chips) 
+Seat 7: RealScot ($2.10 in chips) 
+Seat 8: ramstein007 ($3.18 in chips) 
+Seat 9: dimitriusDZ ($3.81 in chips) 
+ramstein007: posts small blind $0.01
+dimitriusDZ: posts big blind $0.02
+PiosCowboy: sits out 
+Dorex2007: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Tc]
+airdestiny: folds 
+mocaia: folds 
+Donckske: folds 
+msdhoni5: raises $0.04 to $0.06
+Dorex2007: calls $0.04
+RealScot: folds 
+ramstein007: folds 
+dimitriusDZ has timed out
+dimitriusDZ: folds 
+*** FLOP *** [4h 6s 7s]
+msdhoni5: bets $0.07
+Dorex2007: folds 
+Uncalled bet ($0.07) returned to msdhoni5
+msdhoni5 collected $0.15 from pot
+msdhoni5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [4h 6s 7s]
+Seat 1: airdestiny folded before Flop (didn't bet)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 5: msdhoni5 collected ($0.15)
+Seat 6: Dorex2007 folded on the Flop
+Seat 7: RealScot (button) folded before Flop (didn't bet)
+Seat 8: ramstein007 (small blind) folded before Flop
+Seat 9: dimitriusDZ (big blind) folded before Flop
+
+
+
+PokerStars Hand #234487622766:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:37:35 PT [2022/03/01 17:37:35 ET]
+Table 'Reticulum' 9-max Seat #8 is the button
+Seat 1: airdestiny ($3.54 in chips) 
+Seat 2: mocaia ($0.98 in chips) 
+Seat 4: Donckske ($1.40 in chips) 
+Seat 5: msdhoni5 ($9.55 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: RealScot ($2.10 in chips) 
+Seat 8: ramstein007 ($3.17 in chips) 
+airdestiny: posts small blind $0.01
+mocaia: posts big blind $0.02
+PiosCowboy: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 9h]
+Donckske: folds 
+msdhoni5: calls $0.02
+Dorex2007: folds 
+RealScot: raises $0.06 to $0.08
+ramstein007: folds 
+airdestiny: folds 
+mocaia: folds 
+msdhoni5: calls $0.06
+*** FLOP *** [4h 4c Kd]
+msdhoni5: checks 
+RealScot: checks 
+*** TURN *** [4h 4c Kd] [3c]
+msdhoni5: checks 
+RealScot: checks 
+*** RIVER *** [4h 4c Kd 3c] [5h]
+msdhoni5: bets $0.09
+RealScot: calls $0.09
+*** SHOW DOWN ***
+msdhoni5: shows [Td 9d] (a pair of Fours)
+RealScot: shows [Qh Qd] (two pair, Queens and Fours)
+RealScot collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [4h 4c Kd 3c 5h]
+Seat 1: airdestiny (small blind) folded before Flop
+Seat 2: mocaia (big blind) folded before Flop
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 5: msdhoni5 showed [Td 9d] and lost with a pair of Fours
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: RealScot showed [Qh Qd] and won ($0.36) with two pair, Queens and Fours
+Seat 8: ramstein007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487649565:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:38:39 PT [2022/03/01 17:38:39 ET]
+Table 'Reticulum' 9-max Seat #1 is the button
+Seat 1: airdestiny ($3.53 in chips) 
+Seat 2: mocaia ($0.96 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Donckske ($1.40 in chips) 
+Seat 5: msdhoni5 ($9.38 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: RealScot ($2.29 in chips) 
+Seat 8: ramstein007 ($3.17 in chips) 
+Seat 9: dimitriusDZ ($3.79 in chips) 
+mocaia: posts small blind $0.01
+PiosCowboy: posts big blind $0.02
+dimitriusDZ: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Ad]
+Donckske: raises $0.04 to $0.06
+msdhoni5: calls $0.06
+Dorex2007: folds 
+RealScot: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: calls $0.06
+mocaia: folds 
+PiosCowboy: calls $0.04
+*** FLOP *** [9h 7h 3h]
+PiosCowboy: checks 
+Donckske: checks 
+msdhoni5: bets $0.12
+airdestiny: calls $0.12
+PiosCowboy: folds 
+Donckske: folds 
+*** TURN *** [9h 7h 3h] [Jd]
+msdhoni5: checks 
+airdestiny: checks 
+*** RIVER *** [9h 7h 3h Jd] [Qs]
+msdhoni5: checks 
+airdestiny: bets $0.24
+msdhoni5: folds 
+Uncalled bet ($0.24) returned to airdestiny
+airdestiny collected $0.48 from pot
+airdestiny: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [9h 7h 3h Jd Qs]
+Seat 1: airdestiny (button) collected ($0.48)
+Seat 2: mocaia (small blind) folded before Flop
+Seat 3: PiosCowboy (big blind) folded on the Flop
+Seat 4: Donckske folded on the Flop
+Seat 5: msdhoni5 folded on the River
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: RealScot folded before Flop (didn't bet)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487672198:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:39:33 PT [2022/03/01 17:39:33 ET]
+Table 'Reticulum' 9-max Seat #3 is the button
+Seat 1: airdestiny ($3.83 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Donckske ($1.34 in chips) 
+Seat 5: msdhoni5 ($9.20 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: RealScot ($2.29 in chips) 
+Seat 8: ramstein007 ($3.17 in chips) 
+Seat 9: dimitriusDZ ($3.78 in chips) 
+Donckske: posts small blind $0.01
+msdhoni5: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 4d]
+Dorex2007: folds 
+RealScot: raises $0.04 to $0.06
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: folds 
+PiosCowboy: folds 
+Donckske: calls $0.05
+msdhoni5: calls $0.04
+*** FLOP *** [Jc 6d Ad]
+Donckske: checks 
+msdhoni5: checks 
+RealScot: checks 
+*** TURN *** [Jc 6d Ad] [6s]
+Donckske: bets $0.06
+msdhoni5: folds 
+RealScot: folds 
+Uncalled bet ($0.06) returned to Donckske
+Donckske collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Jc 6d Ad 6s]
+Seat 1: airdestiny folded before Flop (didn't bet)
+Seat 3: PiosCowboy (button) folded before Flop (didn't bet)
+Seat 4: Donckske (small blind) collected ($0.17)
+Seat 5: msdhoni5 (big blind) folded on the Turn
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: RealScot folded on the Turn
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487696304:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:40:31 PT [2022/03/01 17:40:31 ET]
+Table 'Reticulum' 9-max Seat #4 is the button
+Seat 1: airdestiny ($3.83 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Donckske ($1.45 in chips) 
+Seat 5: msdhoni5 ($9.14 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: RealScot ($2.23 in chips) 
+Seat 8: ramstein007 ($3.17 in chips) 
+Seat 9: dimitriusDZ ($3.78 in chips) 
+msdhoni5: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 3s]
+RealScot: raises $0.04 to $0.06
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: folds 
+PiosCowboy: folds 
+Donckske: calls $0.06
+msdhoni5: calls $0.05
+Dorex2007: folds 
+*** FLOP *** [9d 2h 4h]
+msdhoni5: checks 
+RealScot: bets $0.09
+Donckske: calls $0.09
+msdhoni5: folds 
+*** TURN *** [9d 2h 4h] [Ad]
+RealScot: bets $0.18
+Donckske: calls $0.18
+*** RIVER *** [9d 2h 4h Ad] [8c]
+RealScot: checks 
+Donckske: checks 
+*** SHOW DOWN ***
+RealScot: shows [5h 5c] (a pair of Fives)
+Donckske: shows [Th 8h] (a pair of Eights)
+Donckske collected $0.71 from pot
+*** SUMMARY ***
+Total pot $0.74 | Rake $0.03 
+Board [9d 2h 4h Ad 8c]
+Seat 1: airdestiny folded before Flop (didn't bet)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Donckske (button) showed [Th 8h] and won ($0.71) with a pair of Eights
+Seat 5: msdhoni5 (small blind) folded on the Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: RealScot showed [5h 5c] and lost with a pair of Fives
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487733081:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:41:59 PT [2022/03/01 17:41:59 ET]
+Table 'Reticulum' 9-max Seat #5 is the button
+Seat 1: airdestiny ($3.83 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Donckske ($1.83 in chips) 
+Seat 5: msdhoni5 ($9.08 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: RealScot ($1.90 in chips) 
+Seat 8: ramstein007 ($3.17 in chips) 
+Seat 9: dimitriusDZ ($3.78 in chips) 
+Dorex2007: posts small blind $0.01
+RealScot: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 3h]
+ramstein007: folds 
+dimitriusDZ: folds 
+airdestiny: folds 
+PiosCowboy: folds 
+Donckske: raises $0.04 to $0.06
+msdhoni5: calls $0.06
+Dorex2007: folds 
+RealScot: folds 
+*** FLOP *** [5h 8d Kc]
+Donckske: bets $0.07
+msdhoni5: calls $0.07
+*** TURN *** [5h 8d Kc] [8h]
+Donckske: bets $0.14
+msdhoni5: calls $0.14
+*** RIVER *** [5h 8d Kc 8h] [As]
+Donckske: checks 
+msdhoni5: checks 
+*** SHOW DOWN ***
+Donckske: shows [Ks Jc] (two pair, Kings and Eights)
+msdhoni5: shows [9h Kh] (two pair, Kings and Eights)
+Donckske collected $0.28 from pot
+msdhoni5 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [5h 8d Kc 8h As]
+Seat 1: airdestiny folded before Flop (didn't bet)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Donckske showed [Ks Jc] and won ($0.28) with two pair, Kings and Eights
+Seat 5: msdhoni5 (button) showed [9h Kh] and won ($0.27) with two pair, Kings and Eights
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: RealScot (big blind) folded before Flop
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487754949:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:42:52 PT [2022/03/01 17:42:52 ET]
+Table 'Reticulum' 9-max Seat #6 is the button
+Seat 1: airdestiny ($3.83 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Donckske ($1.84 in chips) 
+Seat 5: msdhoni5 ($9.08 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: RealScot ($2 in chips) 
+Seat 8: ramstein007 ($3.17 in chips) 
+Seat 9: dimitriusDZ ($3.78 in chips) 
+RealScot: posts small blind $0.01
+ramstein007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 9d]
+dimitriusDZ: folds 
+airdestiny: folds 
+PiosCowboy: folds 
+Donckske: folds 
+msdhoni5: raises $0.02 to $0.04
+Dorex2007: folds 
+RealScot: folds 
+ramstein007: folds 
+Uncalled bet ($0.02) returned to msdhoni5
+msdhoni5 collected $0.05 from pot
+msdhoni5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: airdestiny folded before Flop (didn't bet)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 5: msdhoni5 collected ($0.05)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: RealScot (small blind) folded before Flop
+Seat 8: ramstein007 (big blind) folded before Flop
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487762628:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:43:11 PT [2022/03/01 17:43:11 ET]
+Table 'Reticulum' 9-max Seat #7 is the button
+Seat 1: airdestiny ($3.83 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Donckske ($1.84 in chips) 
+Seat 5: msdhoni5 ($9.11 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: RealScot ($1.99 in chips) 
+Seat 8: ramstein007 ($3.15 in chips) 
+Seat 9: dimitriusDZ ($3.78 in chips) 
+ramstein007: posts small blind $0.01
+dimitriusDZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 7h]
+airdestiny: folds 
+PiosCowboy: raises $0.04 to $0.06
+Donckske: folds 
+msdhoni5: folds 
+Dorex2007: folds 
+RealScot: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+Uncalled bet ($0.04) returned to PiosCowboy
+PiosCowboy collected $0.05 from pot
+PiosCowboy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: airdestiny folded before Flop (didn't bet)
+Seat 3: PiosCowboy collected ($0.05)
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 5: msdhoni5 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: RealScot (button) folded before Flop (didn't bet)
+Seat 8: ramstein007 (small blind) folded before Flop
+Seat 9: dimitriusDZ (big blind) folded before Flop
+
+
+
+PokerStars Hand #234487770478:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:43:30 PT [2022/03/01 17:43:30 ET]
+Table 'Reticulum' 9-max Seat #8 is the button
+Seat 1: airdestiny ($3.83 in chips) 
+Seat 3: PiosCowboy ($2.03 in chips) 
+Seat 4: Donckske ($1.84 in chips) 
+Seat 5: msdhoni5 ($9.11 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: RealScot ($2 in chips) 
+Seat 8: ramstein007 ($3.14 in chips) 
+Seat 9: dimitriusDZ ($3.76 in chips) 
+dimitriusDZ: posts small blind $0.01
+airdestiny: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Jh]
+PiosCowboy: folds 
+Donckske: folds 
+msdhoni5: calls $0.02
+Dorex2007: folds 
+RealScot: folds 
+Donckske leaves the table
+ramstein007: folds 
+dimitriusDZ: raises $0.03 to $0.05
+airdestiny: folds 
+msdhoni5: calls $0.03
+*** FLOP *** [Js 8c 4c]
+dimitriusDZ: checks 
+msdhoni5: checks 
+*** TURN *** [Js 8c 4c] [9d]
+airdestiny leaves the table
+dimitriusDZ: bets $0.09
+msdhoni5: folds 
+Uncalled bet ($0.09) returned to dimitriusDZ
+dimitriusDZ collected $0.12 from pot
+dimitriusDZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Js 8c 4c 9d]
+Seat 1: airdestiny (big blind) folded before Flop
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Donckske folded before Flop (didn't bet)
+Seat 5: msdhoni5 folded on the Turn
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: RealScot folded before Flop (didn't bet)
+Seat 8: ramstein007 (button) folded before Flop (didn't bet)
+Seat 9: dimitriusDZ (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #234487791603:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:44:21 PT [2022/03/01 17:44:21 ET]
+Table 'Reticulum' 9-max Seat #9 is the button
+Seat 2: mocaia ($0.95 in chips) 
+Seat 3: PiosCowboy ($2.03 in chips) 
+Seat 5: msdhoni5 ($9.06 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: RealScot ($2 in chips) 
+Seat 8: ramstein007 ($3.14 in chips) 
+Seat 9: dimitriusDZ ($3.83 in chips) 
+mocaia: posts small blind $0.01
+PiosCowboy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Jh]
+msdhoni5: calls $0.02
+Dorex2007: raises $0.02 to $0.04
+RealScot: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+mocaia: folds 
+PiosCowboy: folds 
+msdhoni5: calls $0.02
+*** FLOP *** [As Qd 2s]
+msdhoni5: checks 
+Dorex2007: bets $0.07
+msdhoni5: calls $0.07
+*** TURN *** [As Qd 2s] [8s]
+msdhoni5: checks 
+Dorex2007: checks 
+*** RIVER *** [As Qd 2s 8s] [Qs]
+msdhoni5: bets $0.12
+Dorex2007: calls $0.12
+*** SHOW DOWN ***
+msdhoni5: shows [4d 2h] (two pair, Queens and Deuces)
+Dorex2007: shows [Qh Jh] (three of a kind, Queens)
+Dorex2007 collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [As Qd 2s 8s Qs]
+Seat 2: mocaia (small blind) folded before Flop
+Seat 3: PiosCowboy (big blind) folded before Flop
+Seat 5: msdhoni5 showed [4d 2h] and lost with two pair, Queens and Deuces
+Seat 6: Dorex2007 showed [Qh Jh] and won ($0.47) with three of a kind, Queens
+Seat 7: RealScot folded before Flop (didn't bet)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487818437:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:45:06 PT [2022/03/01 17:45:06 ET]
+Table 'Reticulum' 9-max Seat #2 is the button
+Seat 2: mocaia ($0.94 in chips) 
+Seat 3: PiosCowboy ($2.01 in chips) 
+Seat 5: msdhoni5 ($8.83 in chips) 
+Seat 6: Dorex2007 ($2.24 in chips) 
+Seat 7: RealScot ($2 in chips) 
+Seat 8: ramstein007 ($3.14 in chips) 
+Seat 9: dimitriusDZ ($3.83 in chips) 
+PiosCowboy: posts small blind $0.01
+msdhoni5: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Qh]
+Dorex2007: raises $0.02 to $0.04
+RealScot: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+mocaia: folds 
+PiosCowboy: folds 
+msdhoni5: raises $8.79 to $8.83 and is all-in
+BrandonRS6 joins the table at seat #1 
+Dorex2007: folds 
+Uncalled bet ($8.79) returned to msdhoni5
+msdhoni5 collected $0.09 from pot
+msdhoni5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 2: mocaia (button) folded before Flop (didn't bet)
+Seat 3: PiosCowboy (small blind) folded before Flop
+Seat 5: msdhoni5 (big blind) collected ($0.09)
+Seat 6: Dorex2007 folded before Flop
+Seat 7: RealScot folded before Flop (didn't bet)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487825606:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:45:23 PT [2022/03/01 17:45:23 ET]
+Table 'Reticulum' 9-max Seat #3 is the button
+Seat 2: mocaia ($0.94 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 5: msdhoni5 ($8.88 in chips) 
+Seat 6: Dorex2007 ($2.20 in chips) 
+Seat 7: RealScot ($2 in chips) 
+Seat 8: ramstein007 ($3.14 in chips) 
+Seat 9: dimitriusDZ ($3.83 in chips) 
+msdhoni5: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+BrandonRS6: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 8c]
+RealScot: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+mocaia: folds 
+PiosCowboy: raises $0.04 to $0.06
+msdhoni5: calls $0.05
+Dorex2007: folds 
+*** FLOP *** [3h 9s Js]
+msdhoni5: checks 
+PiosCowboy: checks 
+*** TURN *** [3h 9s Js] [7c]
+msdhoni5: bets $0.07
+PiosCowboy: calls $0.07
+*** RIVER *** [3h 9s Js 7c] [Ad]
+msdhoni5: checks 
+PiosCowboy: checks 
+*** SHOW DOWN ***
+msdhoni5: shows [Ah 8h] (a pair of Aces)
+PiosCowboy: mucks hand 
+msdhoni5 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [3h 9s Js 7c Ad]
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: PiosCowboy (button) mucked [Qc Qh]
+Seat 5: msdhoni5 (small blind) showed [Ah 8h] and won ($0.27) with a pair of Aces
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: RealScot folded before Flop (didn't bet)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487838379:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:45:54 PT [2022/03/01 17:45:54 ET]
+Table 'Reticulum' 9-max Seat #5 is the button
+Seat 1: BrandonRS6 ($1.60 in chips) 
+Seat 2: mocaia ($0.94 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 5: msdhoni5 ($9.02 in chips) 
+Seat 6: Dorex2007 ($2.18 in chips) 
+Seat 7: RealScot ($2 in chips) 
+Seat 8: ramstein007 ($3.14 in chips) 
+Seat 9: dimitriusDZ ($3.83 in chips) 
+Dorex2007: posts small blind $0.01
+RealScot: posts big blind $0.02
+BrandonRS6: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Qs]
+ramstein007: folds 
+dimitriusDZ: folds 
+BrandonRS6: checks 
+mocaia: folds 
+PiosCowboy: folds 
+msdhoni5: raises $0.02 to $0.04
+Dorex2007: folds 
+RealScot: folds 
+BrandonRS6: calls $0.02
+*** FLOP *** [5c Th 9h]
+BrandonRS6: checks 
+msdhoni5: bets $0.11
+BrandonRS6: folds 
+Uncalled bet ($0.11) returned to msdhoni5
+msdhoni5 collected $0.11 from pot
+msdhoni5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [5c Th 9h]
+Seat 1: BrandonRS6 folded on the Flop
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 5: msdhoni5 (button) collected ($0.11)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: RealScot (big blind) folded before Flop
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487850782:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:46:24 PT [2022/03/01 17:46:24 ET]
+Table 'Reticulum' 9-max Seat #6 is the button
+Seat 1: BrandonRS6 ($1.56 in chips) 
+Seat 2: mocaia ($0.94 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 5: msdhoni5 ($9.09 in chips) 
+Seat 6: Dorex2007 ($2.17 in chips) 
+Seat 7: RealScot ($2 in chips) 
+Seat 8: ramstein007 ($3.14 in chips) 
+Seat 9: dimitriusDZ ($3.83 in chips) 
+RealScot: posts small blind $0.01
+ramstein007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 4h]
+dimitriusDZ: folds 
+BrandonRS6: folds 
+mocaia: folds 
+PiosCowboy: folds 
+msdhoni5: raises $0.02 to $0.04
+Dorex2007: folds 
+RealScot: folds 
+ramstein007: folds 
+Uncalled bet ($0.02) returned to msdhoni5
+msdhoni5 collected $0.05 from pot
+msdhoni5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: BrandonRS6 folded before Flop (didn't bet)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 5: msdhoni5 collected ($0.05)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: RealScot (small blind) folded before Flop
+Seat 8: ramstein007 (big blind) folded before Flop
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487859657:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:46:46 PT [2022/03/01 17:46:46 ET]
+Table 'Reticulum' 9-max Seat #7 is the button
+Seat 1: BrandonRS6 ($1.56 in chips) 
+Seat 2: mocaia ($0.94 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 5: msdhoni5 ($9.12 in chips) 
+Seat 6: Dorex2007 ($2.17 in chips) 
+Seat 7: RealScot ($2 in chips) 
+Seat 8: ramstein007 ($3.12 in chips) 
+Seat 9: dimitriusDZ ($3.83 in chips) 
+ramstein007: posts small blind $0.01
+dimitriusDZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 9c]
+BrandonRS6: calls $0.02
+mocaia has timed out
+mocaia: folds 
+PiosCowboy: raises $0.06 to $0.08
+msdhoni5: folds 
+Dorex2007: folds 
+RealScot: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+BrandonRS6: folds 
+Uncalled bet ($0.06) returned to PiosCowboy
+PiosCowboy collected $0.07 from pot
+PiosCowboy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: BrandonRS6 folded before Flop
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: PiosCowboy collected ($0.07)
+Seat 5: msdhoni5 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: RealScot (button) folded before Flop (didn't bet)
+Seat 8: ramstein007 (small blind) folded before Flop
+Seat 9: dimitriusDZ (big blind) folded before Flop
+
+
+
+PokerStars Hand #234487875191:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:47:23 PT [2022/03/01 17:47:23 ET]
+Table 'Reticulum' 9-max Seat #8 is the button
+Seat 1: BrandonRS6 ($1.54 in chips) 
+Seat 3: PiosCowboy ($2.05 in chips) 
+Seat 5: msdhoni5 ($9.12 in chips) 
+Seat 6: Dorex2007 ($2.17 in chips) 
+Seat 7: RealScot ($2 in chips) 
+Seat 8: ramstein007 ($3.11 in chips) 
+Seat 9: dimitriusDZ ($3.81 in chips) 
+dimitriusDZ: posts small blind $0.01
+BrandonRS6: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 2c]
+PiosCowboy: folds 
+msdhoni5: calls $0.02
+Dorex2007: folds 
+RealScot: calls $0.02
+ramstein007: calls $0.02
+dimitriusDZ: folds 
+BrandonRS6: checks 
+*** FLOP *** [6c 7h 7c]
+gustiv03 joins the table at seat #4 
+BrandonRS6: checks 
+msdhoni5: checks 
+RealScot: checks 
+ramstein007: checks 
+*** TURN *** [6c 7h 7c] [Js]
+BrandonRS6: checks 
+msdhoni5: checks 
+RealScot: bets $0.04
+gustiv03 leaves the table
+ramstein007: folds 
+BrandonRS6: folds 
+msdhoni5: folds 
+Uncalled bet ($0.04) returned to RealScot
+RealScot collected $0.09 from pot
+RealScot: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [6c 7h 7c Js]
+Seat 1: BrandonRS6 (big blind) folded on the Turn
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 5: msdhoni5 folded on the Turn
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: RealScot collected ($0.09)
+Seat 8: ramstein007 (button) folded on the Turn
+Seat 9: dimitriusDZ (small blind) folded before Flop
+
+
+
+PokerStars Hand #234487903344:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:48:32 PT [2022/03/01 17:48:32 ET]
+Table 'Reticulum' 9-max Seat #9 is the button
+Seat 1: BrandonRS6 ($1.52 in chips) 
+Seat 2: mocaia ($0.94 in chips) 
+Seat 3: PiosCowboy ($2.05 in chips) 
+Seat 5: msdhoni5 ($9.10 in chips) 
+Seat 6: Dorex2007 ($2.17 in chips) 
+Seat 7: RealScot ($2.07 in chips) 
+Seat 8: ramstein007 ($3.09 in chips) 
+Seat 9: dimitriusDZ ($3.80 in chips) 
+BrandonRS6: posts small blind $0.01
+mocaia: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 6s]
+PiosCowboy: folds 
+msdhoni5: calls $0.02
+Dorex2007: folds 
+RealScot: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+BrandonRS6: calls $0.01
+mocaia: checks 
+*** FLOP *** [8d Jh Qh]
+BrandonRS6: checks 
+mocaia: checks 
+Tobiz89 joins the table at seat #4 
+msdhoni5: bets $0.03
+BrandonRS6: folds 
+mocaia: folds 
+Uncalled bet ($0.03) returned to msdhoni5
+msdhoni5 collected $0.06 from pot
+msdhoni5: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [8d Jh Qh]
+Seat 1: BrandonRS6 (small blind) folded on the Flop
+Seat 2: mocaia (big blind) folded on the Flop
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 5: msdhoni5 collected ($0.06)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: RealScot folded before Flop (didn't bet)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487916127:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:49:03 PT [2022/03/01 17:49:03 ET]
+Table 'Reticulum' 9-max Seat #1 is the button
+Seat 1: BrandonRS6 ($1.50 in chips) 
+Seat 2: mocaia ($0.92 in chips) 
+Seat 3: PiosCowboy ($2.05 in chips) 
+Seat 5: msdhoni5 ($9.14 in chips) 
+Seat 6: Dorex2007 ($2.17 in chips) 
+Seat 7: RealScot ($2.07 in chips) 
+Seat 8: ramstein007 ($3.09 in chips) 
+Seat 9: dimitriusDZ ($3.80 in chips) 
+mocaia: posts small blind $0.01
+PiosCowboy: posts big blind $0.02
+Tobiz89: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d Ah]
+msdhoni5: calls $0.02
+Dorex2007: folds 
+RealScot: folds 
+ramstein007: calls $0.02
+dimitriusDZ: folds 
+BrandonRS6: folds 
+mocaia: calls $0.01
+PiosCowboy: checks 
+*** FLOP *** [7d 9d Ks]
+mocaia: checks 
+PiosCowboy: checks 
+msdhoni5: bets $0.04
+ramstein007: folds 
+mocaia: calls $0.04
+PiosCowboy: folds 
+*** TURN *** [7d 9d Ks] [Td]
+mocaia: checks 
+msdhoni5: checks 
+*** RIVER *** [7d 9d Ks Td] [5h]
+mocaia: checks 
+msdhoni5: checks 
+*** SHOW DOWN ***
+mocaia: shows [6h 8h] (a straight, Six to Ten)
+msdhoni5: mucks hand 
+mocaia collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [7d 9d Ks Td 5h]
+Seat 1: BrandonRS6 (button) folded before Flop (didn't bet)
+Seat 2: mocaia (small blind) showed [6h 8h] and won ($0.15) with a straight, Six to Ten
+Seat 3: PiosCowboy (big blind) folded on the Flop
+Seat 5: msdhoni5 mucked [Qh 9s]
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: RealScot folded before Flop (didn't bet)
+Seat 8: ramstein007 folded on the Flop
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487936505:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:49:52 PT [2022/03/01 17:49:52 ET]
+Table 'Reticulum' 9-max Seat #2 is the button
+Seat 1: BrandonRS6 ($1.50 in chips) 
+Seat 2: mocaia ($1.01 in chips) 
+Seat 3: PiosCowboy ($2.03 in chips) 
+Seat 4: Tobiz89 ($2 in chips) 
+Seat 5: msdhoni5 ($9.08 in chips) 
+Seat 6: Dorex2007 ($2.17 in chips) 
+Seat 7: RealScot ($2.07 in chips) 
+Seat 8: ramstein007 ($3.07 in chips) 
+Seat 9: dimitriusDZ ($3.80 in chips) 
+PiosCowboy: posts small blind $0.01
+Tobiz89: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Qd]
+msdhoni5 has timed out
+msdhoni5: folds 
+Dorex2007: folds 
+RealScot: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+BrandonRS6: calls $0.02
+mocaia: folds 
+PiosCowboy: folds 
+Tobiz89: raises $0.08 to $0.10
+BrandonRS6: calls $0.08
+*** FLOP *** [8d 6s 3s]
+Tobiz89: checks 
+BrandonRS6: checks 
+*** TURN *** [8d 6s 3s] [5h]
+Tobiz89: checks 
+BrandonRS6: checks 
+*** RIVER *** [8d 6s 3s 5h] [Td]
+Tobiz89: checks 
+BrandonRS6: checks 
+*** SHOW DOWN ***
+Tobiz89: shows [7c 7h] (a pair of Sevens)
+BrandonRS6: mucks hand 
+Tobiz89 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [8d 6s 3s 5h Td]
+Seat 1: BrandonRS6 mucked [5c Ah]
+Seat 2: mocaia (button) folded before Flop (didn't bet)
+Seat 3: PiosCowboy (small blind) folded before Flop
+Seat 4: Tobiz89 (big blind) showed [7c 7h] and won ($0.20) with a pair of Sevens
+Seat 5: msdhoni5 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: RealScot folded before Flop (didn't bet)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487963887:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:51:00 PT [2022/03/01 17:51:00 ET]
+Table 'Reticulum' 9-max Seat #3 is the button
+Seat 1: BrandonRS6 ($1.40 in chips) 
+Seat 2: mocaia ($1.01 in chips) 
+Seat 3: PiosCowboy ($2.02 in chips) 
+Seat 4: Tobiz89 ($2.10 in chips) 
+Seat 5: msdhoni5 ($9.08 in chips) 
+Seat 6: Dorex2007 ($2.17 in chips) 
+Seat 7: RealScot ($2.07 in chips) 
+Seat 8: ramstein007 ($3.07 in chips) 
+Seat 9: dimitriusDZ ($3.80 in chips) 
+Tobiz89: posts small blind $0.01
+msdhoni5: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Kc]
+Dorex2007: raises $0.02 to $0.04
+RealScot: folds 
+ramstein007: calls $0.04
+dimitriusDZ: folds 
+BrandonRS6: folds 
+mocaia: folds 
+PiosCowboy: folds 
+Tobiz89: folds 
+msdhoni5: calls $0.02
+*** FLOP *** [8d Ad 6c]
+msdhoni5: checks 
+Dorex2007: checks 
+ramstein007: bets $0.06
+msdhoni5: calls $0.06
+Dorex2007: calls $0.06
+*** TURN *** [8d Ad 6c] [5d]
+msdhoni5: checks 
+Dorex2007: checks 
+ramstein007: checks 
+*** RIVER *** [8d Ad 6c 5d] [3d]
+msdhoni5: checks 
+Dorex2007: bets $0.30
+ramstein007: folds 
+msdhoni5: folds 
+Uncalled bet ($0.30) returned to Dorex2007
+Dorex2007 collected $0.30 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [8d Ad 6c 5d 3d]
+Seat 1: BrandonRS6 folded before Flop (didn't bet)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: PiosCowboy (button) folded before Flop (didn't bet)
+Seat 4: Tobiz89 (small blind) folded before Flop
+Seat 5: msdhoni5 (big blind) folded on the River
+Seat 6: Dorex2007 collected ($0.30)
+Seat 7: RealScot folded before Flop (didn't bet)
+Seat 8: ramstein007 folded on the River
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234487989520:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:52:03 PT [2022/03/01 17:52:03 ET]
+Table 'Reticulum' 9-max Seat #4 is the button
+Seat 1: BrandonRS6 ($1.40 in chips) 
+Seat 2: mocaia ($1.01 in chips) 
+Seat 3: PiosCowboy ($2.02 in chips) 
+Seat 4: Tobiz89 ($2.09 in chips) 
+Seat 5: msdhoni5 ($8.98 in chips) 
+Seat 6: Dorex2007 ($2.37 in chips) 
+Seat 7: RealScot ($2.07 in chips) 
+Seat 8: ramstein007 ($2.97 in chips) 
+Seat 9: dimitriusDZ ($3.80 in chips) 
+msdhoni5: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 2d]
+RealScot: folds 
+ramstein007: folds 
+dimitriusDZ: raises $0.03 to $0.05
+BrandonRS6: folds 
+mocaia: folds 
+PiosCowboy: folds 
+Tobiz89: folds 
+msdhoni5: calls $0.04
+Dorex2007: folds 
+*** FLOP *** [6c 3s Ts]
+msdhoni5: checks 
+dimitriusDZ: bets $0.04
+msdhoni5: folds 
+Uncalled bet ($0.04) returned to dimitriusDZ
+dimitriusDZ collected $0.12 from pot
+dimitriusDZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [6c 3s Ts]
+Seat 1: BrandonRS6 folded before Flop (didn't bet)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 (button) folded before Flop (didn't bet)
+Seat 5: msdhoni5 (small blind) folded on the Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: RealScot folded before Flop (didn't bet)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ collected ($0.12)
+
+
+
+PokerStars Hand #234488000261:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:52:30 PT [2022/03/01 17:52:30 ET]
+Table 'Reticulum' 9-max Seat #5 is the button
+Seat 1: BrandonRS6 ($1.40 in chips) 
+Seat 2: mocaia ($1.01 in chips) 
+Seat 3: PiosCowboy ($2.02 in chips) 
+Seat 4: Tobiz89 ($2.09 in chips) 
+Seat 5: msdhoni5 ($8.93 in chips) 
+Seat 6: Dorex2007 ($2.35 in chips) 
+Seat 8: ramstein007 ($2.97 in chips) 
+Seat 9: dimitriusDZ ($3.87 in chips) 
+Dorex2007: posts small blind $0.01
+RealScot: is sitting out 
+ramstein007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 3c]
+RealScot leaves the table
+dimitriusDZ: folds 
+BrandonRS6: folds 
+mocaia: folds 
+PiosCowboy: folds 
+Tobiz89: folds 
+msdhoni5: folds 
+msdhoni5 leaves the table
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to ramstein007
+ramstein007 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: BrandonRS6 folded before Flop (didn't bet)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: msdhoni5 (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 8: ramstein007 (big blind) collected ($0.02)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488011301:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:52:57 PT [2022/03/01 17:52:57 ET]
+Table 'Reticulum' 9-max Seat #6 is the button
+Seat 1: BrandonRS6 ($1.40 in chips) 
+Seat 2: mocaia ($1.01 in chips) 
+Seat 3: PiosCowboy ($2.02 in chips) 
+Seat 4: Tobiz89 ($2.09 in chips) 
+Seat 6: Dorex2007 ($2.34 in chips) 
+Seat 8: ramstein007 ($2.98 in chips) 
+Seat 9: dimitriusDZ ($3.87 in chips) 
+ramstein007: posts small blind $0.01
+dimitriusDZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Th]
+BrandonRS6: folds 
+mocaia: folds 
+PiosCowboy: folds 
+Tobiz89: folds 
+Dorex2007: folds 
+ramstein007: folds 
+Uncalled bet ($0.01) returned to dimitriusDZ
+dimitriusDZ collected $0.02 from pot
+dimitriusDZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: BrandonRS6 folded before Flop (didn't bet)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: ramstein007 (small blind) folded before Flop
+Seat 9: dimitriusDZ (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #234488019293:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:53:17 PT [2022/03/01 17:53:17 ET]
+Table 'Reticulum' 9-max Seat #8 is the button
+Seat 1: BrandonRS6 ($1.40 in chips) 
+Seat 2: mocaia ($1.01 in chips) 
+Seat 3: PiosCowboy ($2.02 in chips) 
+Seat 4: Tobiz89 ($2.09 in chips) 
+Seat 6: Dorex2007 ($2.34 in chips) 
+Seat 8: ramstein007 ($2.97 in chips) 
+Seat 9: dimitriusDZ ($3.88 in chips) 
+dimitriusDZ: posts small blind $0.01
+BrandonRS6: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Kc]
+mocaia: calls $0.02
+PiosCowboy: folds 
+Tobiz89: folds 
+Dorex2007: raises $0.04 to $0.06
+ramstein007: calls $0.06
+dimitriusDZ: folds 
+BrandonRS6: calls $0.04
+mocaia: calls $0.04
+*** FLOP *** [Qh 2c 6s]
+BrandonRS6: bets $0.10
+mocaia: folds 
+Dorex2007: folds 
+ramstein007: calls $0.10
+*** TURN *** [Qh 2c 6s] [Ks]
+BrandonRS6: checks 
+ramstein007: checks 
+*** RIVER *** [Qh 2c 6s Ks] [Th]
+BrandonRS6: checks 
+ramstein007: checks 
+*** SHOW DOWN ***
+BrandonRS6: shows [4s 5d] (high card King)
+ramstein007: shows [Qc Jc] (a pair of Queens)
+ramstein007 collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Qh 2c 6s Ks Th]
+Seat 1: BrandonRS6 (big blind) showed [4s 5d] and lost with high card King
+Seat 2: mocaia folded on the Flop
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded on the Flop
+Seat 8: ramstein007 (button) showed [Qc Jc] and won ($0.43) with a pair of Queens
+Seat 9: dimitriusDZ (small blind) folded before Flop
+
+
+
+PokerStars Hand #234488035416:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:53:57 PT [2022/03/01 17:53:57 ET]
+Table 'Reticulum' 9-max Seat #9 is the button
+Seat 1: BrandonRS6 ($1.24 in chips) 
+Seat 2: mocaia ($0.95 in chips) 
+Seat 3: PiosCowboy ($2.02 in chips) 
+Seat 4: Tobiz89 ($2.09 in chips) 
+Seat 6: Dorex2007 ($2.28 in chips) 
+Seat 8: ramstein007 ($3.24 in chips) 
+Seat 9: dimitriusDZ ($3.87 in chips) 
+BrandonRS6: posts small blind $0.01
+mocaia: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Js]
+PiosCowboy: folds 
+Tobiz89: folds 
+Dorex2007: raises $0.04 to $0.06
+ramstein007: folds 
+dimitriusDZ: folds 
+BrandonRS6: calls $0.05
+mocaia: calls $0.04
+*** FLOP *** [6d 6c Ac]
+BrandonRS6: checks 
+mocaia: checks 
+Dorex2007: bets $0.11
+BrandonRS6: folds 
+mocaia: folds 
+Uncalled bet ($0.11) returned to Dorex2007
+Dorex2007 collected $0.17 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [6d 6c Ac]
+Seat 1: BrandonRS6 (small blind) folded on the Flop
+Seat 2: mocaia (big blind) folded on the Flop
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 6: Dorex2007 collected ($0.17)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488051114:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:54:36 PT [2022/03/01 17:54:36 ET]
+Table 'Reticulum' 9-max Seat #1 is the button
+Seat 1: BrandonRS6 ($1.18 in chips) 
+Seat 2: mocaia ($0.89 in chips) 
+Seat 3: PiosCowboy ($2.02 in chips) 
+Seat 4: Tobiz89 ($2.09 in chips) 
+Seat 6: Dorex2007 ($2.39 in chips) 
+Seat 8: ramstein007 ($3.24 in chips) 
+Seat 9: dimitriusDZ ($3.87 in chips) 
+mocaia: posts small blind $0.01
+PiosCowboy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 9h]
+fecdor joins the table at seat #5 
+Tobiz89: folds 
+Dorex2007: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+BrandonRS6: calls $0.02
+wuyanzubenren joins the table at seat #7 
+mocaia: folds 
+PiosCowboy: checks 
+*** FLOP *** [3d 9c Kh]
+PiosCowboy: checks 
+BrandonRS6: checks 
+*** TURN *** [3d 9c Kh] [4d]
+PiosCowboy: checks 
+BrandonRS6: checks 
+*** RIVER *** [3d 9c Kh 4d] [7c]
+fecdor leaves the table
+PiosCowboy: checks 
+BrandonRS6: checks 
+*** SHOW DOWN ***
+PiosCowboy: shows [6h 9s] (a pair of Nines)
+BrandonRS6: mucks hand 
+PiosCowboy collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3d 9c Kh 4d 7c]
+Seat 1: BrandonRS6 (button) mucked [Qh 2c]
+Seat 2: mocaia (small blind) folded before Flop
+Seat 3: PiosCowboy (big blind) showed [6h 9s] and won ($0.05) with a pair of Nines
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488062881:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:55:06 PT [2022/03/01 17:55:06 ET]
+Table 'Reticulum' 9-max Seat #2 is the button
+Seat 1: BrandonRS6 ($1.16 in chips) 
+Seat 2: mocaia ($0.88 in chips) 
+Seat 3: PiosCowboy ($2.05 in chips) 
+Seat 4: Tobiz89 ($2.09 in chips) 
+Seat 6: Dorex2007 ($2.39 in chips) 
+Seat 8: ramstein007 ($3.24 in chips) 
+Seat 9: dimitriusDZ ($3.87 in chips) 
+PiosCowboy: posts small blind $0.01
+Tobiz89: posts big blind $0.02
+wuyanzubenren: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Qd]
+ColinKali2000 joins the table at seat #5 
+Dorex2007: raises $0.02 to $0.04
+ramstein007: folds 
+dimitriusDZ: folds 
+BrandonRS6: calls $0.04
+mocaia: folds 
+PiosCowboy: folds 
+Tobiz89: folds 
+*** FLOP *** [Ks 5d 4s]
+Dorex2007: checks 
+BrandonRS6: checks 
+*** TURN *** [Ks 5d 4s] [5h]
+Dorex2007: checks 
+BrandonRS6: checks 
+*** RIVER *** [Ks 5d 4s 5h] [Ah]
+Dorex2007: bets $0.11
+BrandonRS6: calls $0.11
+*** SHOW DOWN ***
+Dorex2007: shows [As Qd] (two pair, Aces and Fives)
+BrandonRS6: shows [2s Ac] (two pair, Aces and Fives)
+Dorex2007 collected $0.16 from pot
+BrandonRS6 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Ks 5d 4s 5h Ah]
+Seat 1: BrandonRS6 showed [2s Ac] and won ($0.16) with two pair, Aces and Fives
+Seat 2: mocaia (button) folded before Flop (didn't bet)
+Seat 3: PiosCowboy (small blind) folded before Flop
+Seat 4: Tobiz89 (big blind) folded before Flop
+Seat 6: Dorex2007 showed [As Qd] and won ($0.16) with two pair, Aces and Fives
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488071415:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:55:34 PT [2022/03/01 17:55:34 ET]
+Table 'Reticulum' 9-max Seat #3 is the button
+Seat 1: BrandonRS6 ($1.17 in chips) 
+Seat 3: PiosCowboy ($2.04 in chips) 
+Seat 4: Tobiz89 ($2.07 in chips) 
+Seat 5: ColinKali2000 ($0.97 in chips) 
+Seat 6: Dorex2007 ($2.40 in chips) 
+Seat 8: ramstein007 ($3.24 in chips) 
+Seat 9: dimitriusDZ ($3.87 in chips) 
+Tobiz89: posts small blind $0.01
+ColinKali2000: posts big blind $0.02
+wuyanzubenren: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 8s]
+Dorex2007: folds 
+ramstein007: folds 
+dimitriusDZ: folds 
+BrandonRS6: folds 
+PiosCowboy: raises $0.04 to $0.06
+Tobiz89: folds 
+ColinKali2000: calls $0.04
+*** FLOP *** [7s 3h 4d]
+ColinKali2000: checks 
+PiosCowboy: bets $0.06
+ColinKali2000: raises $0.06 to $0.12
+PiosCowboy: folds 
+Uncalled bet ($0.06) returned to ColinKali2000
+ColinKali2000 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [7s 3h 4d]
+Seat 1: BrandonRS6 folded before Flop (didn't bet)
+Seat 3: PiosCowboy (button) folded on the Flop
+Seat 4: Tobiz89 (small blind) folded before Flop
+Seat 5: ColinKali2000 (big blind) collected ($0.24)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488083295:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:56:13 PT [2022/03/01 17:56:13 ET]
+Table 'Reticulum' 9-max Seat #4 is the button
+Seat 1: BrandonRS6 ($1.17 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2.06 in chips) 
+Seat 5: ColinKali2000 ($1.09 in chips) 
+Seat 6: Dorex2007 ($2.40 in chips) 
+Seat 7: wuyanzubenren ($0.80 in chips) 
+Seat 8: ramstein007 ($3.24 in chips) 
+Seat 9: dimitriusDZ ($3.87 in chips) 
+ColinKali2000: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+wuyanzubenren: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 5s]
+wuyanzubenren: checks 
+ramstein007: folds 
+dimitriusDZ: folds 
+BrandonRS6: calls $0.02
+PiosCowboy: folds 
+Tobiz89: folds 
+ColinKali2000: folds 
+Dorex2007: checks 
+*** FLOP *** [6d Js 6h]
+Dorex2007: checks 
+wuyanzubenren: checks 
+BrandonRS6: checks 
+*** TURN *** [6d Js 6h] [3d]
+Dorex2007: checks 
+wuyanzubenren: bets $0.04
+BrandonRS6: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to wuyanzubenren
+wuyanzubenren collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [6d Js 6h 3d]
+Seat 1: BrandonRS6 folded on the Turn
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 (button) folded before Flop (didn't bet)
+Seat 5: ColinKali2000 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded on the Turn
+Seat 7: wuyanzubenren collected ($0.07)
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488098029:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:56:52 PT [2022/03/01 17:56:52 ET]
+Table 'Reticulum' 9-max Seat #5 is the button
+Seat 1: BrandonRS6 ($1.15 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2.06 in chips) 
+Seat 5: ColinKali2000 ($1.08 in chips) 
+Seat 6: Dorex2007 ($2.38 in chips) 
+Seat 7: wuyanzubenren ($0.85 in chips) 
+Seat 8: ramstein007 ($3.24 in chips) 
+Seat 9: dimitriusDZ ($3.87 in chips) 
+Dorex2007: posts small blind $0.01
+wuyanzubenren: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Ac]
+ramstein007: folds 
+dimitriusDZ: raises $0.03 to $0.05
+BrandonRS6: folds 
+PiosCowboy: folds 
+Tobiz89: calls $0.05
+ColinKali2000: calls $0.05
+Dorex2007: folds 
+wuyanzubenren: folds 
+*** FLOP *** [Kc 4h 5s]
+dimitriusDZ: checks 
+Tobiz89: checks 
+ColinKali2000: checks 
+*** TURN *** [Kc 4h 5s] [6d]
+dimitriusDZ: checks 
+Tobiz89: checks 
+ColinKali2000: checks 
+*** RIVER *** [Kc 4h 5s 6d] [9d]
+dimitriusDZ: checks 
+Tobiz89: checks 
+ColinKali2000: checks 
+*** SHOW DOWN ***
+dimitriusDZ: shows [Qd As] (high card Ace)
+Tobiz89: shows [8c 8d] (a pair of Eights)
+ColinKali2000: shows [Jc 9c] (a pair of Nines)
+ColinKali2000 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Kc 4h 5s 6d 9d]
+Seat 1: BrandonRS6 folded before Flop (didn't bet)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 showed [8c 8d] and lost with a pair of Eights
+Seat 5: ColinKali2000 (button) showed [Jc 9c] and won ($0.17) with a pair of Nines
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: wuyanzubenren (big blind) folded before Flop
+Seat 8: ramstein007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ showed [Qd As] and lost with high card Ace
+
+
+
+PokerStars Hand #234488119612:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:58:03 PT [2022/03/01 17:58:03 ET]
+Table 'Reticulum' 9-max Seat #6 is the button
+Seat 1: BrandonRS6 ($1.15 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2.01 in chips) 
+Seat 5: ColinKali2000 ($1.20 in chips) 
+Seat 6: Dorex2007 ($2.37 in chips) 
+Seat 7: wuyanzubenren ($0.83 in chips) 
+Seat 9: dimitriusDZ ($3.82 in chips) 
+wuyanzubenren: posts small blind $0.01
+ramstein007: is sitting out 
+dimitriusDZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 7h]
+BrandonRS6: folds 
+PiosCowboy: folds 
+Tobiz89: folds 
+ColinKali2000: folds 
+Dorex2007: folds 
+wuyanzubenren: calls $0.01
+dimitriusDZ: checks 
+*** FLOP *** [Jc Jh 2d]
+wuyanzubenren: checks 
+dimitriusDZ: checks 
+*** TURN *** [Jc Jh 2d] [Td]
+wuyanzubenren: bets $0.02
+dimitriusDZ: folds 
+Uncalled bet ($0.02) returned to wuyanzubenren
+wuyanzubenren collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Jc Jh 2d Td]
+Seat 1: BrandonRS6 folded before Flop (didn't bet)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: ColinKali2000 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: wuyanzubenren (small blind) collected ($0.04)
+Seat 9: dimitriusDZ (big blind) folded on the Turn
+
+
+
+PokerStars Hand #234488131935:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:58:43 PT [2022/03/01 17:58:43 ET]
+Table 'Reticulum' 9-max Seat #7 is the button
+Seat 1: BrandonRS6 ($1.15 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2.01 in chips) 
+Seat 5: ColinKali2000 ($1.20 in chips) 
+Seat 6: Dorex2007 ($2.37 in chips) 
+Seat 7: wuyanzubenren ($0.85 in chips) 
+Seat 9: dimitriusDZ ($3.80 in chips) 
+dimitriusDZ: posts small blind $0.01
+BrandonRS6: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 3d]
+PiosCowboy has timed out
+PiosCowboy: folds 
+Tobiz89: folds 
+ColinKali2000: folds 
+Dorex2007: folds 
+wuyanzubenren: raises $0.02 to $0.04
+dimitriusDZ: folds 
+BrandonRS6: calls $0.02
+*** FLOP *** [9h 5d 8d]
+BrandonRS6: checks 
+wuyanzubenren: bets $0.05
+BrandonRS6: calls $0.05
+*** TURN *** [9h 5d 8d] [4d]
+BrandonRS6: checks 
+wuyanzubenren: bets $0.09
+BrandonRS6: calls $0.09
+*** RIVER *** [9h 5d 8d 4d] [8h]
+BrandonRS6: bets $0.14
+wuyanzubenren: folds 
+Uncalled bet ($0.14) returned to BrandonRS6
+BrandonRS6 collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [9h 5d 8d 4d 8h]
+Seat 1: BrandonRS6 (big blind) collected ($0.36)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: ColinKali2000 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: wuyanzubenren (button) folded on the River
+Seat 9: dimitriusDZ (small blind) folded before Flop
+
+
+
+PokerStars Hand #234488148531:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 14:59:38 PT [2022/03/01 17:59:38 ET]
+Table 'Reticulum' 9-max Seat #9 is the button
+Seat 1: BrandonRS6 ($1.33 in chips) 
+Seat 2: mocaia ($0.88 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2.01 in chips) 
+Seat 5: ColinKali2000 ($1.20 in chips) 
+Seat 6: Dorex2007 ($2.37 in chips) 
+Seat 7: wuyanzubenren ($0.67 in chips) 
+Seat 9: dimitriusDZ ($3.79 in chips) 
+BrandonRS6: posts small blind $0.01
+mocaia: posts big blind $0.02
+ramstein007: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 5s]
+PiosCowboy: folds 
+Tobiz89: folds 
+ColinKali2000: folds 
+Dorex2007: folds 
+wuyanzubenren: raises $0.02 to $0.04
+dimitriusDZ: folds 
+BrandonRS6: calls $0.03
+mocaia: folds 
+*** FLOP *** [6d 6h 6c]
+BrandonRS6: checks 
+wuyanzubenren: checks 
+*** TURN *** [6d 6h 6c] [4h]
+BrandonRS6: checks 
+wuyanzubenren: bets $0.05
+BrandonRS6: folds 
+Uncalled bet ($0.05) returned to wuyanzubenren
+wuyanzubenren collected $0.10 from pot
+wuyanzubenren: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [6d 6h 6c 4h]
+Seat 1: BrandonRS6 (small blind) folded on the Turn
+Seat 2: mocaia (big blind) folded before Flop
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: ColinKali2000 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: wuyanzubenren collected ($0.10)
+Seat 9: dimitriusDZ (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488156356:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:00:03 PT [2022/03/01 18:00:03 ET]
+Table 'Reticulum' 9-max Seat #1 is the button
+Seat 1: BrandonRS6 ($1.29 in chips) 
+Seat 2: mocaia ($0.86 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2.01 in chips) 
+Seat 5: ColinKali2000 ($1.20 in chips) 
+Seat 6: Dorex2007 ($2.37 in chips) 
+Seat 7: wuyanzubenren ($0.73 in chips) 
+Seat 9: dimitriusDZ ($3.79 in chips) 
+mocaia: posts small blind $0.01
+PiosCowboy: posts big blind $0.02
+ramstein007: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 2s]
+ramstein007 leaves the table
+Tobiz89: folds 
+ColinKali2000: folds 
+Dorex2007: calls $0.02
+wuyanzubenren: folds 
+dimitriusDZ: raises $0.15 to $0.17
+BrandonRS6: folds 
+mocaia: folds 
+PiosCowboy: folds 
+DoMiFul05 joins the table at seat #8 
+Dorex2007: folds 
+Uncalled bet ($0.15) returned to dimitriusDZ
+dimitriusDZ collected $0.07 from pot
+dimitriusDZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: BrandonRS6 (button) folded before Flop (didn't bet)
+Seat 2: mocaia (small blind) folded before Flop
+Seat 3: PiosCowboy (big blind) folded before Flop
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: ColinKali2000 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop
+Seat 7: wuyanzubenren folded before Flop (didn't bet)
+Seat 9: dimitriusDZ collected ($0.07)
+
+
+
+PokerStars Hand #234488163301:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:00:25 PT [2022/03/01 18:00:25 ET]
+Table 'Reticulum' 9-max Seat #2 is the button
+Seat 1: BrandonRS6 ($1.29 in chips) 
+Seat 2: mocaia ($0.85 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2.01 in chips) 
+Seat 5: ColinKali2000 ($1.20 in chips) 
+Seat 6: Dorex2007 ($2.35 in chips) 
+Seat 7: wuyanzubenren ($0.73 in chips) 
+Seat 9: dimitriusDZ ($3.84 in chips) 
+PiosCowboy: posts small blind $0.01
+Tobiz89: posts big blind $0.02
+DoMiFul05: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts Qs]
+ColinKali2000: folds 
+Dorex2007: raises $0.02 to $0.04
+wuyanzubenren: folds 
+dimitriusDZ: folds 
+BrandonRS6: folds 
+mocaia: folds 
+PiosCowboy: folds 
+Tobiz89: folds 
+Uncalled bet ($0.02) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: BrandonRS6 folded before Flop (didn't bet)
+Seat 2: mocaia (button) folded before Flop (didn't bet)
+Seat 3: PiosCowboy (small blind) folded before Flop
+Seat 4: Tobiz89 (big blind) folded before Flop
+Seat 5: ColinKali2000 folded before Flop (didn't bet)
+Seat 6: Dorex2007 collected ($0.05)
+Seat 7: wuyanzubenren folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488167767:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:00:39 PT [2022/03/01 18:00:39 ET]
+Table 'Reticulum' 9-max Seat #3 is the button
+Seat 1: BrandonRS6 ($1.29 in chips) 
+Seat 2: mocaia ($0.85 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2 in chips) 
+Seat 5: ColinKali2000 ($1.20 in chips) 
+Seat 6: Dorex2007 ($2.38 in chips) 
+Seat 7: wuyanzubenren ($0.73 in chips) 
+Seat 8: DoMiFul05 ($2 in chips) 
+Seat 9: dimitriusDZ ($3.84 in chips) 
+Tobiz89: posts small blind $0.01
+ColinKali2000: posts big blind $0.02
+DoMiFul05: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 4d]
+Dorex2007: folds 
+wuyanzubenren: calls $0.02
+DoMiFul05: checks 
+dimitriusDZ: folds 
+BrandonRS6: folds 
+mocaia: folds 
+PiosCowboy: calls $0.02
+Tobiz89: folds 
+ColinKali2000: checks 
+*** FLOP *** [2d Qc 9d]
+ColinKali2000: checks 
+wuyanzubenren: checks 
+DoMiFul05: checks 
+PiosCowboy: checks 
+*** TURN *** [2d Qc 9d] [4s]
+ColinKali2000: bets $0.04
+wuyanzubenren: raises $0.12 to $0.16
+DoMiFul05: folds 
+PiosCowboy: folds 
+ColinKali2000: calls $0.12
+*** RIVER *** [2d Qc 9d 4s] [4c]
+ColinKali2000: checks 
+wuyanzubenren: checks 
+*** SHOW DOWN ***
+ColinKali2000: shows [7d Ad] (a pair of Fours)
+wuyanzubenren: mucks hand 
+ColinKali2000 collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [2d Qc 9d 4s 4c]
+Seat 1: BrandonRS6 folded before Flop (didn't bet)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: PiosCowboy (button) folded on the Turn
+Seat 4: Tobiz89 (small blind) folded before Flop
+Seat 5: ColinKali2000 (big blind) showed [7d Ad] and won ($0.40) with a pair of Fours
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: wuyanzubenren mucked [7s 6c]
+Seat 8: DoMiFul05 folded on the Turn (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488187156:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:01:32 PT [2022/03/01 18:01:32 ET]
+Table 'Reticulum' 9-max Seat #4 is the button
+Seat 1: BrandonRS6 ($1.29 in chips) 
+Seat 2: mocaia ($0.85 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2 in chips) 
+Seat 5: ColinKali2000 ($1.42 in chips) 
+Seat 6: Dorex2007 ($2.38 in chips) 
+Seat 7: wuyanzubenren ($0.55 in chips) 
+Seat 8: DoMiFul05 ($1.98 in chips) 
+Seat 9: dimitriusDZ ($3.84 in chips) 
+ColinKali2000: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Qs]
+wuyanzubenren: raises $0.02 to $0.04
+DoMiFul05: raises $0.02 to $0.06
+dimitriusDZ: calls $0.06
+BrandonRS6: calls $0.06
+mocaia: folds 
+PiosCowboy: folds 
+Tobiz89: folds 
+ColinKali2000: calls $0.05
+Dorex2007: folds 
+wuyanzubenren: calls $0.02
+*** FLOP *** [3s 2c 7d]
+ColinKali2000: checks 
+wuyanzubenren: checks 
+DoMiFul05: checks 
+dimitriusDZ: bets $3.78 and is all-in
+BrandonRS6: folds 
+ColinKali2000: folds 
+wuyanzubenren: folds 
+DoMiFul05: folds 
+Uncalled bet ($3.78) returned to dimitriusDZ
+dimitriusDZ collected $0.31 from pot
+dimitriusDZ: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [3s 2c 7d]
+Seat 1: BrandonRS6 folded on the Flop
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 (button) folded before Flop (didn't bet)
+Seat 5: ColinKali2000 (small blind) folded on the Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: wuyanzubenren folded on the Flop
+Seat 8: DoMiFul05 folded on the Flop
+Seat 9: dimitriusDZ collected ($0.31)
+
+
+
+PokerStars Hand #234488203079:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:02:15 PT [2022/03/01 18:02:15 ET]
+Table 'Reticulum' 9-max Seat #5 is the button
+Seat 1: BrandonRS6 ($1.23 in chips) 
+Seat 2: mocaia ($0.85 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2 in chips) 
+Seat 5: ColinKali2000 ($1.36 in chips) 
+Seat 6: Dorex2007 ($2.36 in chips) 
+Seat 7: wuyanzubenren ($0.49 in chips) 
+Seat 8: DoMiFul05 ($1.92 in chips) 
+Seat 9: dimitriusDZ ($4.09 in chips) 
+Dorex2007: posts small blind $0.01
+wuyanzubenren: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 6d]
+DoMiFul05: calls $0.02
+dimitriusDZ: folds 
+BrandonRS6: calls $0.02
+mocaia has timed out
+mocaia: folds 
+PiosCowboy: folds 
+Tobiz89: raises $0.10 to $0.12
+ColinKali2000: calls $0.12
+Dorex2007: folds 
+wuyanzubenren: folds 
+DoMiFul05: folds 
+BrandonRS6: folds 
+*** FLOP *** [Qc 2h Jh]
+Tobiz89: bets $0.23
+ColinKali2000: calls $0.23
+*** TURN *** [Qc 2h Jh] [Qs]
+Tobiz89: bets $0.56
+BrandonRS6 leaves the table
+ColinKali2000: folds 
+Uncalled bet ($0.56) returned to Tobiz89
+Tobiz89 collected $0.74 from pot
+Tobiz89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [Qc 2h Jh Qs]
+Seat 1: BrandonRS6 folded before Flop
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 collected ($0.74)
+Seat 5: ColinKali2000 (button) folded on the Turn
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: wuyanzubenren (big blind) folded before Flop
+Seat 8: DoMiFul05 folded before Flop
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488220195:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:03:00 PT [2022/03/01 18:03:00 ET]
+Table 'Reticulum' 9-max Seat #6 is the button
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2.39 in chips) 
+Seat 5: ColinKali2000 ($1.01 in chips) 
+Seat 6: Dorex2007 ($2.35 in chips) 
+Seat 7: wuyanzubenren ($0.47 in chips) 
+Seat 8: DoMiFul05 ($1.90 in chips) 
+Seat 9: dimitriusDZ ($4.09 in chips) 
+wuyanzubenren: posts small blind $0.01
+DoMiFul05: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Jh]
+dimitriusDZ: folds 
+PiosCowboy: folds 
+Tobiz89: folds 
+ColinKali2000: raises $0.02 to $0.04
+Dorex2007: folds 
+wuyanzubenren: raises $0.02 to $0.06
+DoMiFul05: calls $0.04
+ColinKali2000: calls $0.02
+*** FLOP *** [7s 3d 4c]
+wuyanzubenren: bets $0.41 and is all-in
+coolDadJimbo joins the table at seat #1 
+DoMiFul05: calls $0.41
+ColinKali2000: folds 
+*** TURN *** [7s 3d 4c] [4s]
+*** RIVER *** [7s 3d 4c 4s] [4h]
+*** SHOW DOWN ***
+wuyanzubenren: shows [Kd Qc] (three of a kind, Fours)
+DoMiFul05: shows [8h 5h] (three of a kind, Fours - lower kicker)
+wuyanzubenren collected $0.96 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [7s 3d 4c 4s 4h]
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: ColinKali2000 folded on the Flop
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: wuyanzubenren (small blind) showed [Kd Qc] and won ($0.96) with three of a kind, Fours
+Seat 8: DoMiFul05 (big blind) showed [8h 5h] and lost with three of a kind, Fours
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488238083:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:03:47 PT [2022/03/01 18:03:47 ET]
+Table 'Reticulum' 9-max Seat #7 is the button
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2.39 in chips) 
+Seat 5: ColinKali2000 ($0.95 in chips) 
+Seat 6: Dorex2007 ($2.35 in chips) 
+Seat 7: wuyanzubenren ($0.96 in chips) 
+Seat 8: DoMiFul05 ($1.43 in chips) 
+Seat 9: dimitriusDZ ($4.09 in chips) 
+DoMiFul05: posts small blind $0.01
+dimitriusDZ: posts big blind $0.02
+coolDadJimbo: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Qd]
+PiosCowboy: folds 
+Tobiz89: folds 
+ColinKali2000: raises $0.02 to $0.04
+Dorex2007: calls $0.04
+wuyanzubenren: raises $0.16 to $0.20
+DoMiFul05: raises $0.16 to $0.36
+dimitriusDZ: folds 
+ColinKali2000: folds 
+Dorex2007: folds 
+wuyanzubenren: calls $0.16
+*** FLOP *** [Kh 3s Tc]
+DoMiFul05: bets $1.07 and is all-in
+wuyanzubenren: calls $0.60 and is all-in
+Uncalled bet ($0.47) returned to DoMiFul05
+*** TURN *** [Kh 3s Tc] [2d]
+*** RIVER *** [Kh 3s Tc 2d] [Jd]
+*** SHOW DOWN ***
+DoMiFul05: shows [7c 5c] (high card King)
+wuyanzubenren: shows [Jc Ts] (two pair, Jacks and Tens)
+wuyanzubenren collected $1.95 from pot
+*** SUMMARY ***
+Total pot $2.02 | Rake $0.07 
+Board [Kh 3s Tc 2d Jd]
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: ColinKali2000 folded before Flop
+Seat 6: Dorex2007 folded before Flop
+Seat 7: wuyanzubenren (button) showed [Jc Ts] and won ($1.95) with two pair, Jacks and Tens
+Seat 8: DoMiFul05 (small blind) showed [7c 5c] and lost with high card King
+Seat 9: dimitriusDZ (big blind) folded before Flop
+
+
+
+PokerStars Hand #234488259355:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:04:42 PT [2022/03/01 18:04:42 ET]
+Table 'Reticulum' 9-max Seat #8 is the button
+Seat 1: coolDadJimbo ($2 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2.39 in chips) 
+Seat 5: ColinKali2000 ($0.91 in chips) 
+Seat 6: Dorex2007 ($2.31 in chips) 
+Seat 7: wuyanzubenren ($1.95 in chips) 
+Seat 8: DoMiFul05 ($0.47 in chips) 
+Seat 9: dimitriusDZ ($4.07 in chips) 
+dimitriusDZ: posts small blind $0.01
+coolDadJimbo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 9d]
+wuyanzubenren said, "wp"
+PiosCowboy has timed out
+PiosCowboy: folds 
+Tobiz89: folds 
+ColinKali2000: folds 
+Dorex2007: folds 
+wuyanzubenren: folds 
+DoMiFul05: calls $0.02
+dimitriusDZ: folds 
+wuyanzubenren leaves the table
+coolDadJimbo: raises $0.06 to $0.08
+DoMiFul05: raises $0.06 to $0.14
+coolDadJimbo: raises $1.86 to $2 and is all-in
+DoMiFul05: calls $0.33 and is all-in
+Uncalled bet ($1.53) returned to coolDadJimbo
+*** FLOP *** [2c Ts Kh]
+*** TURN *** [2c Ts Kh] [Qh]
+*** RIVER *** [2c Ts Kh Qh] [4h]
+*** SHOW DOWN ***
+coolDadJimbo: shows [As Ah] (a pair of Aces)
+DoMiFul05: shows [Jd Js] (a pair of Jacks)
+coolDadJimbo collected $0.92 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.03 
+Board [2c Ts Kh Qh 4h]
+Seat 1: coolDadJimbo (big blind) showed [As Ah] and won ($0.92) with a pair of Aces
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: ColinKali2000 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: wuyanzubenren folded before Flop (didn't bet)
+Seat 8: DoMiFul05 (button) showed [Jd Js] and lost with a pair of Jacks
+Seat 9: dimitriusDZ (small blind) folded before Flop
+
+
+
+PokerStars Hand #234488276535:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:05:27 PT [2022/03/01 18:05:27 ET]
+Table 'Reticulum' 9-max Seat #9 is the button
+Seat 1: coolDadJimbo ($2.45 in chips) 
+Seat 2: mocaia ($0.85 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2.39 in chips) 
+Seat 5: ColinKali2000 ($0.91 in chips) 
+Seat 6: Dorex2007 ($2.31 in chips) 
+Seat 9: dimitriusDZ ($4.06 in chips) 
+coolDadJimbo: posts small blind $0.01
+mocaia: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c Td]
+DoMiFul05 leaves the table
+PiosCowboy: folds 
+Tobiz89: raises $0.04 to $0.06
+ColinKali2000: folds 
+Dorex2007: folds 
+dimitriusDZ: folds 
+coolDadJimbo: folds 
+mocaia: calls $0.04
+*** FLOP *** [Jc 7h 9h]
+mocaia: bets $0.13
+Tobiz89: folds 
+Uncalled bet ($0.13) returned to mocaia
+mocaia collected $0.13 from pot
+mocaia: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Jc 7h 9h]
+Seat 1: coolDadJimbo (small blind) folded before Flop
+Seat 2: mocaia (big blind) collected ($0.13)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded on the Flop
+Seat 5: ColinKali2000 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488288239:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:05:57 PT [2022/03/01 18:05:57 ET]
+Table 'Reticulum' 9-max Seat #1 is the button
+Seat 1: coolDadJimbo ($2.44 in chips) 
+Seat 2: mocaia ($0.92 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2.33 in chips) 
+Seat 5: ColinKali2000 ($0.91 in chips) 
+Seat 6: Dorex2007 ($2.31 in chips) 
+Seat 9: dimitriusDZ ($4.06 in chips) 
+mocaia: posts small blind $0.01
+PiosCowboy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s Jh]
+Tobiz89: folds 
+ColinKali2000: folds 
+Dorex2007: folds 
+dimitriusDZ: folds 
+coolDadJimbo: raises $0.05 to $0.07
+mocaia: folds 
+PiosCowboy: folds 
+Uncalled bet ($0.05) returned to coolDadJimbo
+coolDadJimbo collected $0.05 from pot
+coolDadJimbo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: coolDadJimbo (button) collected ($0.05)
+Seat 2: mocaia (small blind) folded before Flop
+Seat 3: PiosCowboy (big blind) folded before Flop
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: ColinKali2000 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488295427:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:06:16 PT [2022/03/01 18:06:16 ET]
+Table 'Reticulum' 9-max Seat #2 is the button
+Seat 1: coolDadJimbo ($2.47 in chips) 
+Seat 2: mocaia ($0.91 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2.33 in chips) 
+Seat 5: ColinKali2000 ($0.91 in chips) 
+Seat 6: Dorex2007 ($2.31 in chips) 
+Seat 9: dimitriusDZ ($4.06 in chips) 
+PiosCowboy: posts small blind $0.01
+Tobiz89: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 6s]
+ColinKali2000: raises $0.04 to $0.06
+Dorex2007: folds 
+dimitriusDZ: folds 
+coolDadJimbo: folds 
+mocaia: folds 
+PiosCowboy: folds 
+Tobiz89: folds 
+Uncalled bet ($0.04) returned to ColinKali2000
+ColinKali2000 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: coolDadJimbo folded before Flop (didn't bet)
+Seat 2: mocaia (button) folded before Flop (didn't bet)
+Seat 3: PiosCowboy (small blind) folded before Flop
+Seat 4: Tobiz89 (big blind) folded before Flop
+Seat 5: ColinKali2000 collected ($0.05)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488304163:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:06:39 PT [2022/03/01 18:06:39 ET]
+Table 'Reticulum' 9-max Seat #3 is the button
+Seat 1: coolDadJimbo ($2.47 in chips) 
+Seat 2: mocaia ($0.91 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2.31 in chips) 
+Seat 5: ColinKali2000 ($0.94 in chips) 
+Seat 6: Dorex2007 ($2.31 in chips) 
+Seat 9: dimitriusDZ ($4.06 in chips) 
+Tobiz89: posts small blind $0.01
+ColinKali2000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 4s]
+Dorex2007: folds 
+dimitriusDZ: folds 
+coolDadJimbo: folds 
+mocaia: folds 
+PiosCowboy: folds 
+Tobiz89: raises $0.04 to $0.06
+ColinKali2000: folds 
+Uncalled bet ($0.04) returned to Tobiz89
+Tobiz89 collected $0.04 from pot
+Tobiz89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: coolDadJimbo folded before Flop (didn't bet)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: PiosCowboy (button) folded before Flop (didn't bet)
+Seat 4: Tobiz89 (small blind) collected ($0.04)
+Seat 5: ColinKali2000 (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488310469:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:06:56 PT [2022/03/01 18:06:56 ET]
+Table 'Reticulum' 9-max Seat #4 is the button
+Seat 1: coolDadJimbo ($2.47 in chips) 
+Seat 2: mocaia ($0.91 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2.33 in chips) 
+Seat 5: ColinKali2000 ($0.92 in chips) 
+Seat 6: Dorex2007 ($2.31 in chips) 
+Seat 9: dimitriusDZ ($4.06 in chips) 
+ColinKali2000: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Jh]
+dimitriusDZ: raises $0.03 to $0.05
+coolDadJimbo: folds 
+mocaia: folds 
+PiosCowboy: folds 
+Tobiz89: folds 
+ColinKali2000: calls $0.04
+Dorex2007: calls $0.03
+*** FLOP *** [3d Js 8c]
+ColinKali2000: checks 
+Dorex2007: bets $0.14
+dimitriusDZ: folds 
+ColinKali2000: calls $0.14
+*** TURN *** [3d Js 8c] [Qs]
+ColinKali2000: checks 
+Dorex2007: checks 
+*** RIVER *** [3d Js 8c Qs] [Qd]
+ColinKali2000: bets $0.20
+Dorex2007: calls $0.20
+*** SHOW DOWN ***
+ColinKali2000: shows [Tc 9s] (a straight, Eight to Queen)
+Dorex2007: mucks hand 
+ColinKali2000 collected $0.80 from pot
+*** SUMMARY ***
+Total pot $0.83 | Rake $0.03 
+Board [3d Js 8c Qs Qd]
+Seat 1: coolDadJimbo folded before Flop (didn't bet)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 (button) folded before Flop (didn't bet)
+Seat 5: ColinKali2000 (small blind) showed [Tc 9s] and won ($0.80) with a straight, Eight to Queen
+Seat 6: Dorex2007 (big blind) mucked [Kd Jh]
+Seat 9: dimitriusDZ folded on the Flop
+
+
+
+PokerStars Hand #234488327639:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:07:30 PT [2022/03/01 18:07:30 ET]
+Table 'Reticulum' 9-max Seat #5 is the button
+Seat 1: coolDadJimbo ($2.47 in chips) 
+Seat 2: mocaia ($0.91 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2.33 in chips) 
+Seat 5: ColinKali2000 ($1.33 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 9: dimitriusDZ ($4.01 in chips) 
+Dorex2007: posts small blind $0.01
+dimitriusDZ: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Th]
+coolDadJimbo: folds 
+mocaia: folds 
+PiosCowboy: folds 
+Tobiz89: raises $0.03 to $0.05
+ColinKali2000: folds 
+Dorex2007: calls $0.04
+dimitriusDZ: folds 
+*** FLOP *** [7c Qs 4c]
+Dorex2007: checks 
+Tobiz89: bets $0.08
+nagaElf joins the table at seat #7 
+Dorex2007: raises $0.19 to $0.27
+Tobiz89: folds 
+Uncalled bet ($0.19) returned to Dorex2007
+Dorex2007 collected $0.27 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [7c Qs 4c]
+Seat 1: coolDadJimbo folded before Flop (didn't bet)
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded on the Flop
+Seat 5: ColinKali2000 (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) collected ($0.27)
+Seat 9: dimitriusDZ (big blind) folded before Flop
+
+
+
+PokerStars Hand #234488341889:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:08:08 PT [2022/03/01 18:08:08 ET]
+Table 'Reticulum' 9-max Seat #6 is the button
+Seat 1: coolDadJimbo ($2.47 in chips) 
+Seat 2: mocaia ($0.91 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2.20 in chips) 
+Seat 5: ColinKali2000 ($1.33 in chips) 
+Seat 6: Dorex2007 ($2.14 in chips) 
+Seat 9: dimitriusDZ ($3.99 in chips) 
+dimitriusDZ: posts small blind $0.01
+coolDadJimbo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 6d]
+actual_bantage0 joins the table at seat #8 
+mocaia: folds 
+PiosCowboy has timed out
+PiosCowboy: folds 
+Tobiz89: raises $0.04 to $0.06
+ColinKali2000: folds 
+Dorex2007: folds 
+dimitriusDZ: folds 
+coolDadJimbo: folds 
+Uncalled bet ($0.04) returned to Tobiz89
+Tobiz89 collected $0.05 from pot
+actual_bantage0 leaves the table
+Tobiz89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: coolDadJimbo (big blind) folded before Flop
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 collected ($0.05)
+Seat 5: ColinKali2000 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: dimitriusDZ (small blind) folded before Flop
+
+
+
+PokerStars Hand #234488350590:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:08:31 PT [2022/03/01 18:08:31 ET]
+Table 'Reticulum' 9-max Seat #9 is the button
+Seat 1: coolDadJimbo ($2.45 in chips) 
+Seat 2: mocaia ($0.91 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2.23 in chips) 
+Seat 5: ColinKali2000 ($1.33 in chips) 
+Seat 6: Dorex2007 ($2.14 in chips) 
+Seat 9: dimitriusDZ ($3.98 in chips) 
+coolDadJimbo: posts small blind $0.01
+mocaia: posts big blind $0.02
+nagaElf: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Ks]
+PiosCowboy: folds 
+Tobiz89: folds 
+ColinKali2000: calls $0.02
+Dorex2007: folds 
+dimitriusDZ: folds 
+coolDadJimbo: calls $0.01
+mocaia: checks 
+*** FLOP *** [9s 5s 8d]
+ikeonvs joins the table at seat #8 
+coolDadJimbo: checks 
+dimitriusDZ leaves the table
+mocaia: bets $0.06
+ColinKali2000: folds 
+coolDadJimbo: folds 
+Uncalled bet ($0.06) returned to mocaia
+mocaia collected $0.06 from pot
+mocaia: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [9s 5s 8d]
+Seat 1: coolDadJimbo (small blind) folded on the Flop
+Seat 2: mocaia (big blind) collected ($0.06)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: ColinKali2000 folded on the Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 9: dimitriusDZ (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488361523:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:09:00 PT [2022/03/01 18:09:00 ET]
+Table 'Reticulum' 9-max Seat #1 is the button
+Seat 1: coolDadJimbo ($2.43 in chips) 
+Seat 2: mocaia ($0.95 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2.23 in chips) 
+Seat 5: ColinKali2000 ($1.31 in chips) 
+Seat 6: Dorex2007 ($2.14 in chips) 
+mocaia: posts small blind $0.01
+PiosCowboy: posts big blind $0.02
+nagaElf: sits out 
+ikeonvs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Td]
+Tobiz89: folds 
+ColinKali2000: calls $0.02
+Dorex2007: folds 
+coolDadJimbo: folds 
+mocaia: folds 
+PiosCowboy: checks 
+*** FLOP *** [8s 6c Ts]
+PiosCowboy: checks 
+ColinKali2000: checks 
+*** TURN *** [8s 6c Ts] [9s]
+PiosCowboy: checks 
+ColinKali2000: checks 
+*** RIVER *** [8s 6c Ts 9s] [4s]
+PiosCowboy: checks 
+ColinKali2000: checks 
+kiling1 joins the table at seat #9 
+*** SHOW DOWN ***
+PiosCowboy: shows [3c 6d] (a pair of Sixes)
+ColinKali2000: mucks hand 
+PiosCowboy collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8s 6c Ts 9s 4s]
+Seat 1: coolDadJimbo (button) folded before Flop (didn't bet)
+Seat 2: mocaia (small blind) folded before Flop
+Seat 3: PiosCowboy (big blind) showed [3c 6d] and won ($0.05) with a pair of Sixes
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: ColinKali2000 mucked [Ah Jc]
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488378431:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:09:44 PT [2022/03/01 18:09:44 ET]
+Table 'Reticulum' 9-max Seat #2 is the button
+Seat 1: coolDadJimbo ($2.43 in chips) 
+Seat 2: mocaia ($0.94 in chips) 
+Seat 3: PiosCowboy ($2.03 in chips) 
+Seat 4: Tobiz89 ($2.23 in chips) 
+Seat 5: ColinKali2000 ($1.29 in chips) 
+Seat 6: Dorex2007 ($2.14 in chips) 
+PiosCowboy: posts small blind $0.01
+Tobiz89: posts big blind $0.02
+nagaElf: sits out 
+ikeonvs: sits out 
+kiling1: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Qc]
+ColinKali2000: calls $0.02
+Dorex2007: folds 
+coolDadJimbo: raises $0.06 to $0.08
+mocaia: folds 
+PiosCowboy: folds 
+Tobiz89: folds 
+ColinKali2000: calls $0.06
+*** FLOP *** [6d Jd Ah]
+ColinKali2000: checks 
+coolDadJimbo: bets $0.12
+ColinKali2000: raises $0.12 to $0.24
+coolDadJimbo: calls $0.12
+*** TURN *** [6d Jd Ah] [8c]
+ColinKali2000: bets $0.32
+coolDadJimbo: calls $0.32
+*** RIVER *** [6d Jd Ah 8c] [4c]
+ColinKali2000: checks 
+coolDadJimbo: checks 
+*** SHOW DOWN ***
+ColinKali2000: shows [Js As] (two pair, Aces and Jacks)
+coolDadJimbo: mucks hand 
+ColinKali2000 collected $1.26 from pot
+*** SUMMARY ***
+Total pot $1.31 | Rake $0.05 
+Board [6d Jd Ah 8c 4c]
+Seat 1: coolDadJimbo mucked [Ac Kc]
+Seat 2: mocaia (button) folded before Flop (didn't bet)
+Seat 3: PiosCowboy (small blind) folded before Flop
+Seat 4: Tobiz89 (big blind) folded before Flop
+Seat 5: ColinKali2000 showed [Js As] and won ($1.26) with two pair, Aces and Jacks
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488395591:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:10:30 PT [2022/03/01 18:10:30 ET]
+Table 'Reticulum' 9-max Seat #3 is the button
+Seat 1: coolDadJimbo ($2 in chips) 
+Seat 2: mocaia ($0.94 in chips) 
+Seat 3: PiosCowboy ($2.02 in chips) 
+Seat 4: Tobiz89 ($2.21 in chips) 
+Seat 5: ColinKali2000 ($1.91 in chips) 
+Seat 6: Dorex2007 ($2.14 in chips) 
+Tobiz89: posts small blind $0.01
+ColinKali2000: posts big blind $0.02
+nagaElf: sits out 
+ikeonvs: sits out 
+kiling1: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Jc]
+Dorex2007: folds 
+coolDadJimbo: raises $0.05 to $0.07
+mocaia: folds 
+PiosCowboy: folds 
+Tobiz89: calls $0.06
+ColinKali2000: folds 
+*** FLOP *** [Kh Ad 5s]
+Tobiz89: checks 
+coolDadJimbo: checks 
+*** TURN *** [Kh Ad 5s] [As]
+mocaia leaves the table
+Tobiz89: checks 
+coolDadJimbo: checks 
+*** RIVER *** [Kh Ad 5s As] [Jh]
+El-Faro1 joins the table at seat #2 
+Tobiz89: checks 
+coolDadJimbo: checks 
+*** SHOW DOWN ***
+Tobiz89: shows [Td Th] (two pair, Aces and Tens)
+coolDadJimbo: mucks hand 
+Tobiz89 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Kh Ad 5s As Jh]
+Seat 1: coolDadJimbo mucked [Qd 9d]
+Seat 2: mocaia folded before Flop (didn't bet)
+Seat 3: PiosCowboy (button) folded before Flop (didn't bet)
+Seat 4: Tobiz89 (small blind) showed [Td Th] and won ($0.15) with two pair, Aces and Tens
+Seat 5: ColinKali2000 (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488432246:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:11:59 PT [2022/03/01 18:11:59 ET]
+Table 'Reticulum' 9-max Seat #4 is the button
+Seat 1: coolDadJimbo ($2 in chips) 
+Seat 3: PiosCowboy ($2.02 in chips) 
+Seat 4: Tobiz89 ($2.29 in chips) 
+Seat 5: ColinKali2000 ($1.89 in chips) 
+Seat 6: Dorex2007 ($2.14 in chips) 
+ColinKali2000: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+nagaElf: sits out 
+ikeonvs: sits out 
+kiling1: sits out 
+El-Faro1: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 6c]
+coolDadJimbo: raises $0.05 to $0.07
+PiosCowboy: folds 
+ikeonvs leaves the table
+Tobiz89: folds 
+ColinKali2000: folds 
+Dorex2007: folds 
+Uncalled bet ($0.05) returned to coolDadJimbo
+coolDadJimbo collected $0.05 from pot
+coolDadJimbo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: coolDadJimbo collected ($0.05)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 (button) folded before Flop (didn't bet)
+Seat 5: ColinKali2000 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #234488440878:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:12:22 PT [2022/03/01 18:12:22 ET]
+Table 'Reticulum' 9-max Seat #5 is the button
+Seat 1: coolDadJimbo ($2.03 in chips) 
+Seat 2: El-Faro1 ($1.38 in chips) 
+Seat 3: PiosCowboy ($2.02 in chips) 
+Seat 4: Tobiz89 ($2.29 in chips) 
+Seat 5: ColinKali2000 ($1.88 in chips) 
+Seat 6: Dorex2007 ($2.12 in chips) 
+Seat 7: nagaElf ($2 in chips) 
+Dorex2007: posts small blind $0.01
+nagaElf: posts big blind $0.02
+kiling1: sits out 
+El-Faro1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 7h]
+coolDadJimbo: folds 
+El-Faro1: checks 
+PiosCowboy: folds 
+Tobiz89: folds 
+ColinKali2000: raises $0.04 to $0.06
+Dorex2007: folds 
+nagaElf: folds 
+El-Faro1: calls $0.04
+*** FLOP *** [7s 8s 6d]
+El-Faro1: bets $0.08
+ColinKali2000: calls $0.08
+*** TURN *** [7s 8s 6d] [7d]
+El-Faro1: bets $0.30
+ColinKali2000: raises $1.44 to $1.74 and is all-in
+El-Faro1: calls $0.94 and is all-in
+Uncalled bet ($0.50) returned to ColinKali2000
+El-Faro1 has timed out
+*** RIVER *** [7s 8s 6d 7d] [Qc]
+*** SHOW DOWN ***
+El-Faro1: shows [Td 9d] (a straight, Six to Ten)
+ColinKali2000: shows [Kh Kd] (two pair, Kings and Sevens)
+El-Faro1 collected $2.67 from pot
+*** SUMMARY ***
+Total pot $2.79 | Rake $0.12 
+Board [7s 8s 6d 7d Qc]
+Seat 1: coolDadJimbo folded before Flop (didn't bet)
+Seat 2: El-Faro1 showed [Td 9d] and won ($2.67) with a straight, Six to Ten
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: ColinKali2000 (button) showed [Kh Kd] and lost with two pair, Kings and Sevens
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: nagaElf (big blind) folded before Flop
+
+
+
+PokerStars Hand #234488470136:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:13:41 PT [2022/03/01 18:13:41 ET]
+Table 'Reticulum' 9-max Seat #6 is the button
+Seat 1: coolDadJimbo ($2.03 in chips) 
+Seat 2: El-Faro1 ($2.67 in chips) 
+Seat 3: PiosCowboy ($2.02 in chips) 
+Seat 4: Tobiz89 ($2.29 in chips) 
+Seat 5: ColinKali2000 ($0.50 in chips) 
+Seat 6: Dorex2007 ($2.11 in chips) 
+Seat 7: nagaElf ($2 in chips) 
+Seat 9: kiling1 ($2 in chips) 
+nagaElf: posts small blind $0.01
+kiling1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s Jh]
+coolDadJimbo: folds 
+El-Faro1: folds 
+PiosCowboy: folds 
+Tobiz89: folds 
+ColinKali2000: folds 
+Dorex2007: folds 
+nagaElf: raises $0.10 to $0.12
+kiling1: folds 
+Uncalled bet ($0.10) returned to nagaElf
+kiling1 leaves the table
+nagaElf collected $0.04 from pot
+nagaElf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: coolDadJimbo folded before Flop (didn't bet)
+Seat 2: El-Faro1 folded before Flop (didn't bet)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: ColinKali2000 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: nagaElf (small blind) collected ($0.04)
+Seat 9: kiling1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #234488481133:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:14:10 PT [2022/03/01 18:14:10 ET]
+Table 'Reticulum' 9-max Seat #7 is the button
+Seat 1: coolDadJimbo ($2.03 in chips) 
+Seat 2: El-Faro1 ($2.67 in chips) 
+Seat 3: PiosCowboy ($2.02 in chips) 
+Seat 4: Tobiz89 ($2.29 in chips) 
+Seat 5: ColinKali2000 ($0.50 in chips) 
+Seat 6: Dorex2007 ($2.11 in chips) 
+Seat 7: nagaElf ($2.02 in chips) 
+coolDadJimbo: posts small blind $0.01
+El-Faro1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Th]
+PiosCowboy: folds 
+Tobiz89: folds 
+ColinKali2000: raises $0.04 to $0.06
+Dorex2007: folds 
+nagaElf: calls $0.06
+coolDadJimbo: calls $0.05
+El-Faro1: folds 
+*** FLOP *** [Kd Ks 7s]
+coolDadJimbo: checks 
+ColinKali2000: bets $0.09
+nagaElf: calls $0.09
+coolDadJimbo: folds 
+*** TURN *** [Kd Ks 7s] [As]
+ColinKali2000: bets $0.18
+nagaElf: folds 
+Uncalled bet ($0.18) returned to ColinKali2000
+ColinKali2000 collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [Kd Ks 7s As]
+Seat 1: coolDadJimbo (small blind) folded on the Flop
+Seat 2: El-Faro1 (big blind) folded before Flop
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: ColinKali2000 collected ($0.37)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: nagaElf (button) folded on the Turn
+
+
+
+PokerStars Hand #234488498568:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:14:57 PT [2022/03/01 18:14:57 ET]
+Table 'Reticulum' 9-max Seat #1 is the button
+Seat 1: coolDadJimbo ($2 in chips) 
+Seat 2: El-Faro1 ($2.65 in chips) 
+Seat 3: PiosCowboy ($2.02 in chips) 
+Seat 4: Tobiz89 ($2.29 in chips) 
+Seat 5: ColinKali2000 ($0.72 in chips) 
+Seat 6: Dorex2007 ($2.11 in chips) 
+Seat 7: nagaElf ($1.87 in chips) 
+El-Faro1: posts small blind $0.01
+PiosCowboy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 8d]
+Tobiz89: folds 
+ColinKali2000: folds 
+Dorex2007: calls $0.02
+nagaElf: folds 
+coolDadJimbo: folds 
+El-Faro1: calls $0.01
+PiosCowboy: checks 
+*** FLOP *** [Js Kh Ts]
+El-Faro1: checks 
+PiosCowboy: checks 
+Dorex2007: checks 
+*** TURN *** [Js Kh Ts] [Td]
+El-Faro1: bets $0.03
+PiosCowboy: folds 
+Dorex2007: folds 
+Uncalled bet ($0.03) returned to El-Faro1
+El-Faro1 collected $0.06 from pot
+El-Faro1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Js Kh Ts Td]
+Seat 1: coolDadJimbo (button) folded before Flop (didn't bet)
+Seat 2: El-Faro1 (small blind) collected ($0.06)
+Seat 3: PiosCowboy (big blind) folded on the Turn
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: ColinKali2000 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded on the Turn
+Seat 7: nagaElf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488519196:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:15:52 PT [2022/03/01 18:15:52 ET]
+Table 'Reticulum' 9-max Seat #2 is the button
+Seat 1: coolDadJimbo ($2 in chips) 
+Seat 2: El-Faro1 ($2.69 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2.29 in chips) 
+Seat 5: ColinKali2000 ($0.72 in chips) 
+Seat 6: Dorex2007 ($2.09 in chips) 
+Seat 7: nagaElf ($2 in chips) 
+PiosCowboy: posts small blind $0.01
+Tobiz89: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh As]
+ColinKali2000: folds 
+Dorex2007: calls $0.02
+nagaElf: raises $0.10 to $0.12
+coolDadJimbo: folds 
+El-Faro1: folds 
+PiosCowboy: folds 
+Tobiz89: folds 
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to nagaElf
+nagaElf collected $0.07 from pot
+nagaElf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: coolDadJimbo folded before Flop (didn't bet)
+Seat 2: El-Faro1 (button) folded before Flop (didn't bet)
+Seat 3: PiosCowboy (small blind) folded before Flop
+Seat 4: Tobiz89 (big blind) folded before Flop
+Seat 5: ColinKali2000 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop
+Seat 7: nagaElf collected ($0.07)
+
+
+
+PokerStars Hand #234488526655:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:16:12 PT [2022/03/01 18:16:12 ET]
+Table 'Reticulum' 9-max Seat #3 is the button
+Seat 1: coolDadJimbo ($2 in chips) 
+Seat 2: El-Faro1 ($2.69 in chips) 
+Seat 3: PiosCowboy ($2 in chips) 
+Seat 4: Tobiz89 ($2.27 in chips) 
+Seat 5: ColinKali2000 ($0.72 in chips) 
+Seat 6: Dorex2007 ($2.07 in chips) 
+Seat 7: nagaElf ($2.05 in chips) 
+Tobiz89: posts small blind $0.01
+ColinKali2000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 4h]
+Dorex2007: folds 
+nagaElf: folds 
+coolDadJimbo: folds 
+El-Faro1: folds 
+PiosCowboy: raises $0.04 to $0.06
+Tobiz89: folds 
+ColinKali2000: calls $0.04
+*** FLOP *** [Kd 9d 8c]
+ColinKali2000: checks 
+PiosCowboy: bets $0.06
+ColinKali2000: calls $0.06
+*** TURN *** [Kd 9d 8c] [6d]
+ColinKali2000: checks 
+davegoa joins the table at seat #8 
+PiosCowboy: checks 
+*** RIVER *** [Kd 9d 8c 6d] [4s]
+ColinKali2000: checks 
+PiosCowboy: bets $0.08
+ColinKali2000: calls $0.08
+*** SHOW DOWN ***
+PiosCowboy: shows [As Ac] (a pair of Aces)
+ColinKali2000: mucks hand 
+PiosCowboy collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Kd 9d 8c 6d 4s]
+Seat 1: coolDadJimbo folded before Flop (didn't bet)
+Seat 2: El-Faro1 folded before Flop (didn't bet)
+Seat 3: PiosCowboy (button) showed [As Ac] and won ($0.40) with a pair of Aces
+Seat 4: Tobiz89 (small blind) folded before Flop
+Seat 5: ColinKali2000 (big blind) mucked [7h Kh]
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: nagaElf folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488546422:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:17:06 PT [2022/03/01 18:17:06 ET]
+Table 'Reticulum' 9-max Seat #4 is the button
+Seat 1: coolDadJimbo ($2 in chips) 
+Seat 2: El-Faro1 ($2.69 in chips) 
+Seat 3: PiosCowboy ($2.20 in chips) 
+Seat 4: Tobiz89 ($2.26 in chips) 
+Seat 5: ColinKali2000 ($0.52 in chips) 
+Seat 6: Dorex2007 ($2.07 in chips) 
+Seat 7: nagaElf ($2.05 in chips) 
+ColinKali2000: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+davegoa: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Ah]
+nagaElf: raises $0.10 to $0.12
+coolDadJimbo: folds 
+El-Faro1: folds 
+PiosCowboy: folds 
+Tobiz89: folds 
+ColinKali2000: folds 
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to nagaElf
+nagaElf collected $0.05 from pot
+nagaElf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: coolDadJimbo folded before Flop (didn't bet)
+Seat 2: El-Faro1 folded before Flop (didn't bet)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 (button) folded before Flop (didn't bet)
+Seat 5: ColinKali2000 (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: nagaElf collected ($0.05)
+
+
+
+PokerStars Hand #234488551636:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:17:20 PT [2022/03/01 18:17:20 ET]
+Table 'Reticulum' 9-max Seat #5 is the button
+Seat 1: coolDadJimbo ($2 in chips) 
+Seat 2: El-Faro1 ($2.69 in chips) 
+Seat 3: PiosCowboy ($2.20 in chips) 
+Seat 4: Tobiz89 ($2.26 in chips) 
+Seat 5: ColinKali2000 ($0.51 in chips) 
+Seat 6: Dorex2007 ($2.05 in chips) 
+Seat 7: nagaElf ($2.08 in chips) 
+Dorex2007: posts small blind $0.01
+nagaElf: posts big blind $0.02
+davegoa: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 4d]
+coolDadJimbo: folds 
+VillasBoas17 joins the table at seat #9 
+El-Faro1: folds 
+PiosCowboy: folds 
+Tobiz89: folds 
+ColinKali2000: raises $0.04 to $0.06
+Dorex2007: folds 
+nagaElf: raises $0.16 to $0.22
+ColinKali2000: calls $0.16
+*** FLOP *** [4c Qd 9s]
+nagaElf: bets $0.43
+ColinKali2000: calls $0.29 and is all-in
+Uncalled bet ($0.14) returned to nagaElf
+*** TURN *** [4c Qd 9s] [2c]
+*** RIVER *** [4c Qd 9s 2c] [8s]
+*** SHOW DOWN ***
+nagaElf: shows [Kc Ks] (a pair of Kings)
+ColinKali2000: shows [Qs Th] (a pair of Queens)
+nagaElf collected $0.99 from pot
+*** SUMMARY ***
+Total pot $1.03 | Rake $0.04 
+Board [4c Qd 9s 2c 8s]
+Seat 1: coolDadJimbo folded before Flop (didn't bet)
+Seat 2: El-Faro1 folded before Flop (didn't bet)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: ColinKali2000 (button) showed [Qs Th] and lost with a pair of Queens
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: nagaElf (big blind) showed [Kc Ks] and won ($0.99) with a pair of Kings
+
+
+
+PokerStars Hand #234488565028:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:17:57 PT [2022/03/01 18:17:57 ET]
+Table 'Reticulum' 9-max Seat #6 is the button
+Seat 1: coolDadJimbo ($2 in chips) 
+Seat 2: El-Faro1 ($2.69 in chips) 
+Seat 3: PiosCowboy ($2.20 in chips) 
+Seat 4: Tobiz89 ($2.26 in chips) 
+Seat 6: Dorex2007 ($2.04 in chips) 
+Seat 7: nagaElf ($2.56 in chips) 
+Seat 8: davegoa ($2 in chips) 
+nagaElf: posts small blind $0.01
+davegoa: posts big blind $0.02
+VillasBoas17: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 8d]
+coolDadJimbo: folds 
+El-Faro1: folds 
+ColinKali2000 leaves the table
+PiosCowboy: folds 
+Tobiz89: folds 
+Dorex2007: folds 
+nagaElf: folds 
+Uncalled bet ($0.01) returned to davegoa
+davegoa collected $0.02 from pot
+davegoa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: coolDadJimbo folded before Flop (didn't bet)
+Seat 2: El-Faro1 folded before Flop (didn't bet)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: nagaElf (small blind) folded before Flop
+Seat 8: davegoa (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #234488570339:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:18:11 PT [2022/03/01 18:18:11 ET]
+Table 'Reticulum' 9-max Seat #7 is the button
+Seat 1: coolDadJimbo ($2 in chips) 
+Seat 2: El-Faro1 ($2.69 in chips) 
+Seat 3: PiosCowboy ($2.20 in chips) 
+Seat 4: Tobiz89 ($2.26 in chips) 
+Seat 6: Dorex2007 ($2.04 in chips) 
+Seat 7: nagaElf ($2.55 in chips) 
+Seat 8: davegoa ($2.01 in chips) 
+Seat 9: VillasBoas17 ($0.80 in chips) 
+davegoa: posts small blind $0.01
+VillasBoas17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 5h]
+coolDadJimbo: folds 
+El-Faro1: folds 
+PiosCowboy: folds 
+Tobiz89: folds 
+Dorex2007: folds 
+nagaElf: folds 
+davegoa: folds 
+Uncalled bet ($0.01) returned to VillasBoas17
+VillasBoas17 collected $0.02 from pot
+VillasBoas17: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: coolDadJimbo folded before Flop (didn't bet)
+Seat 2: El-Faro1 folded before Flop (didn't bet)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: nagaElf (button) folded before Flop (didn't bet)
+Seat 8: davegoa (small blind) folded before Flop
+Seat 9: VillasBoas17 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #234488575720:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:18:26 PT [2022/03/01 18:18:26 ET]
+Table 'Reticulum' 9-max Seat #8 is the button
+Seat 1: coolDadJimbo ($2 in chips) 
+Seat 2: El-Faro1 ($2.69 in chips) 
+Seat 3: PiosCowboy ($2.20 in chips) 
+Seat 4: Tobiz89 ($2.26 in chips) 
+Seat 6: Dorex2007 ($2.04 in chips) 
+Seat 7: nagaElf ($2.55 in chips) 
+Seat 8: davegoa ($2 in chips) 
+Seat 9: VillasBoas17 ($0.81 in chips) 
+VillasBoas17: posts small blind $0.01
+coolDadJimbo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Tc]
+El-Faro1: raises $0.06 to $0.08
+PiosCowboy: folds 
+Tobiz89: folds 
+Dorex2007: folds 
+nagaElf: folds 
+davegoa: folds 
+VillasBoas17: folds 
+coolDadJimbo: folds 
+Uncalled bet ($0.06) returned to El-Faro1
+El-Faro1 collected $0.05 from pot
+El-Faro1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: coolDadJimbo (big blind) folded before Flop
+Seat 2: El-Faro1 collected ($0.05)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: nagaElf folded before Flop (didn't bet)
+Seat 8: davegoa (button) folded before Flop (didn't bet)
+Seat 9: VillasBoas17 (small blind) folded before Flop
+
+
+
+PokerStars Hand #234488584840:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:18:51 PT [2022/03/01 18:18:51 ET]
+Table 'Reticulum' 9-max Seat #9 is the button
+Seat 1: coolDadJimbo ($2 in chips) 
+Seat 2: El-Faro1 ($2.72 in chips) 
+Seat 3: PiosCowboy ($2.20 in chips) 
+Seat 4: Tobiz89 ($2.26 in chips) 
+Seat 6: Dorex2007 ($2.04 in chips) 
+Seat 7: nagaElf ($2.55 in chips) 
+Seat 8: davegoa ($2 in chips) 
+Seat 9: VillasBoas17 ($0.80 in chips) 
+coolDadJimbo: posts small blind $0.01
+El-Faro1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Kc]
+PiosCowboy: calls $0.02
+Tobiz89: folds 
+Dorex2007: calls $0.02
+nagaElf: folds 
+davegoa: folds 
+VillasBoas17: calls $0.02
+valeriafim joins the table at seat #5 
+coolDadJimbo: calls $0.01
+El-Faro1: checks 
+*** FLOP *** [9h 4d 2s]
+coolDadJimbo: checks 
+El-Faro1: checks 
+PiosCowboy: checks 
+Dorex2007: checks 
+VillasBoas17: checks 
+*** TURN *** [9h 4d 2s] [8h]
+coolDadJimbo: checks 
+El-Faro1: checks 
+PiosCowboy: checks 
+Dorex2007: checks 
+VillasBoas17: checks 
+*** RIVER *** [9h 4d 2s 8h] [6s]
+coolDadJimbo: checks 
+El-Faro1: bets $0.02
+PiosCowboy: folds 
+Dorex2007: folds 
+VillasBoas17: calls $0.02
+coolDadJimbo: folds 
+*** SHOW DOWN ***
+El-Faro1: shows [7c 2d] (a pair of Deuces)
+VillasBoas17: shows [6d Kd] (a pair of Sixes)
+VillasBoas17 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [9h 4d 2s 8h 6s]
+Seat 1: coolDadJimbo (small blind) folded on the River
+Seat 2: El-Faro1 (big blind) showed [7c 2d] and lost with a pair of Deuces
+Seat 3: PiosCowboy folded on the River
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded on the River
+Seat 7: nagaElf folded before Flop (didn't bet)
+Seat 8: davegoa folded before Flop (didn't bet)
+Seat 9: VillasBoas17 (button) showed [6d Kd] and won ($0.14) with a pair of Sixes
+
+
+
+PokerStars Hand #234488617082:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:20:19 PT [2022/03/01 18:20:19 ET]
+Table 'Reticulum' 9-max Seat #1 is the button
+Seat 1: coolDadJimbo ($2 in chips) 
+Seat 2: El-Faro1 ($2.68 in chips) 
+Seat 3: PiosCowboy ($2.18 in chips) 
+Seat 4: Tobiz89 ($2.26 in chips) 
+Seat 5: valeriafim ($1.60 in chips) 
+Seat 6: Dorex2007 ($2.02 in chips) 
+Seat 7: nagaElf ($2.55 in chips) 
+Seat 8: davegoa ($2 in chips) 
+Seat 9: VillasBoas17 ($0.90 in chips) 
+El-Faro1: posts small blind $0.01
+PiosCowboy: posts big blind $0.02
+valeriafim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Qc]
+Tobiz89: folds 
+valeriafim: raises $0.02 to $0.04
+Dorex2007: raises $0.06 to $0.10
+nagaElf: calls $0.10
+davegoa: folds 
+VillasBoas17: folds 
+coolDadJimbo: calls $0.10
+El-Faro1: calls $0.09
+PiosCowboy: calls $0.08
+valeriafim: calls $0.06
+*** FLOP *** [9s 3h Ks]
+El-Faro1: bets $0.18
+PiosCowboy: folds 
+valeriafim: calls $0.18
+Dorex2007: folds 
+nagaElf: folds 
+coolDadJimbo: folds 
+*** TURN *** [9s 3h Ks] [6s]
+El-Faro1: bets $0.60
+valeriafim: raises $0.72 to $1.32 and is all-in
+El-Faro1: calls $0.72
+*** RIVER *** [9s 3h Ks 6s] [3c]
+*** SHOW DOWN ***
+El-Faro1: shows [As 8s] (a flush, Ace high)
+valeriafim: shows [Js Kh] (two pair, Kings and Threes)
+El-Faro1 collected $3.44 from pot
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.16 
+Board [9s 3h Ks 6s 3c]
+Seat 1: coolDadJimbo (button) folded on the Flop
+Seat 2: El-Faro1 (small blind) showed [As 8s] and won ($3.44) with a flush, Ace high
+Seat 3: PiosCowboy (big blind) folded on the Flop
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: valeriafim showed [Js Kh] and lost with two pair, Kings and Threes
+Seat 6: Dorex2007 folded on the Flop
+Seat 7: nagaElf folded on the Flop
+Seat 8: davegoa folded before Flop (didn't bet)
+Seat 9: VillasBoas17 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488664393:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:22:02 PT [2022/03/01 18:22:02 ET]
+Table 'Reticulum' 9-max Seat #2 is the button
+Seat 1: coolDadJimbo ($2 in chips) 
+Seat 2: El-Faro1 ($4.52 in chips) 
+Seat 3: PiosCowboy ($2.08 in chips) 
+Seat 4: Tobiz89 ($2.26 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: nagaElf ($2.45 in chips) 
+Seat 8: davegoa ($2 in chips) 
+Seat 9: VillasBoas17 ($0.90 in chips) 
+PiosCowboy: posts small blind $0.01
+Tobiz89: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 9d]
+Dorex2007: folds 
+nagaElf: folds 
+davegoa: folds 
+VillasBoas17: folds 
+coolDadJimbo: raises $0.05 to $0.07
+El-Faro1: calls $0.07
+PiosCowboy: folds 
+Tobiz89: folds 
+*** FLOP *** [6d 8c 7h]
+coolDadJimbo: checks 
+El-Faro1: bets $0.04
+coolDadJimbo: calls $0.04
+*** TURN *** [6d 8c 7h] [3d]
+coolDadJimbo: checks 
+El-Faro1: bets $0.12
+coolDadJimbo: folds 
+Uncalled bet ($0.12) returned to El-Faro1
+El-Faro1 collected $0.24 from pot
+El-Faro1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [6d 8c 7h 3d]
+Seat 1: coolDadJimbo folded on the Turn
+Seat 2: El-Faro1 (button) collected ($0.24)
+Seat 3: PiosCowboy (small blind) folded before Flop
+Seat 4: Tobiz89 (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: nagaElf folded before Flop (didn't bet)
+Seat 8: davegoa folded before Flop (didn't bet)
+Seat 9: VillasBoas17 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488682805:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:22:52 PT [2022/03/01 18:22:52 ET]
+Table 'Reticulum' 9-max Seat #3 is the button
+Seat 1: coolDadJimbo ($2 in chips) 
+Seat 2: El-Faro1 ($4.65 in chips) 
+Seat 3: PiosCowboy ($2.07 in chips) 
+Seat 4: Tobiz89 ($2.24 in chips) 
+Seat 5: valeriafim ($2 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: nagaElf ($2.45 in chips) 
+Seat 8: davegoa ($2 in chips) 
+Seat 9: VillasBoas17 ($0.90 in chips) 
+Tobiz89: posts small blind $0.01
+valeriafim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 7c]
+Dorex2007: folds 
+nagaElf: folds 
+davegoa: folds 
+VillasBoas17: folds 
+coolDadJimbo: folds 
+El-Faro1: folds 
+PiosCowboy: folds 
+Tobiz89: raises $0.04 to $0.06
+valeriafim: calls $0.04
+*** FLOP *** [Ts 3h 5h]
+Tobiz89: bets $0.09
+valeriafim: calls $0.09
+*** TURN *** [Ts 3h 5h] [3s]
+Tobiz89: bets $0.16
+valeriafim: folds 
+Uncalled bet ($0.16) returned to Tobiz89
+Tobiz89 collected $0.29 from pot
+Tobiz89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Ts 3h 5h 3s]
+Seat 1: coolDadJimbo folded before Flop (didn't bet)
+Seat 2: El-Faro1 folded before Flop (didn't bet)
+Seat 3: PiosCowboy (button) folded before Flop (didn't bet)
+Seat 4: Tobiz89 (small blind) collected ($0.29)
+Seat 5: valeriafim (big blind) folded on the Turn
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: nagaElf folded before Flop (didn't bet)
+Seat 8: davegoa folded before Flop (didn't bet)
+Seat 9: VillasBoas17 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488711301:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:24:05 PT [2022/03/01 18:24:05 ET]
+Table 'Reticulum' 9-max Seat #4 is the button
+Seat 1: coolDadJimbo ($2 in chips) 
+Seat 2: El-Faro1 ($4.65 in chips) 
+Seat 3: PiosCowboy ($2.07 in chips) 
+Seat 4: Tobiz89 ($2.38 in chips) 
+Seat 5: valeriafim ($1.85 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: nagaElf ($2.45 in chips) 
+Seat 8: davegoa ($2 in chips) 
+Seat 9: VillasBoas17 ($0.90 in chips) 
+valeriafim: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 5d]
+nagaElf: folds 
+davegoa: folds 
+VillasBoas17: folds 
+coolDadJimbo: folds 
+El-Faro1: raises $0.04 to $0.06
+PiosCowboy: folds 
+Tobiz89: folds 
+valeriafim: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to El-Faro1
+El-Faro1 collected $0.05 from pot
+El-Faro1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: coolDadJimbo folded before Flop (didn't bet)
+Seat 2: El-Faro1 collected ($0.05)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 (button) folded before Flop (didn't bet)
+Seat 5: valeriafim (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: nagaElf folded before Flop (didn't bet)
+Seat 8: davegoa folded before Flop (didn't bet)
+Seat 9: VillasBoas17 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488721450:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:24:34 PT [2022/03/01 18:24:34 ET]
+Table 'Reticulum' 9-max Seat #5 is the button
+Seat 1: coolDadJimbo ($2 in chips) 
+Seat 2: El-Faro1 ($4.68 in chips) 
+Seat 3: PiosCowboy ($2.07 in chips) 
+Seat 4: Tobiz89 ($2.38 in chips) 
+Seat 5: valeriafim ($1.84 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: nagaElf ($2.45 in chips) 
+Seat 8: davegoa ($2 in chips) 
+Seat 9: VillasBoas17 ($0.90 in chips) 
+Dorex2007: posts small blind $0.01
+nagaElf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 3c]
+davegoa: folds 
+VillasBoas17: folds 
+coolDadJimbo: folds 
+El-Faro1: calls $0.02
+PiosCowboy: folds 
+PiosCowboy leaves the table
+Tobiz89: raises $0.08 to $0.10
+valeriafim: folds 
+Dorex2007: folds 
+nagaElf: folds 
+MC5117 joins the table at seat #3 
+El-Faro1: calls $0.08
+*** FLOP *** [Th 5h Ah]
+El-Faro1: checks 
+Tobiz89: checks 
+*** TURN *** [Th 5h Ah] [3h]
+El-Faro1: bets $0.10
+Tobiz89: folds 
+Uncalled bet ($0.10) returned to El-Faro1
+El-Faro1 collected $0.22 from pot
+El-Faro1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [Th 5h Ah 3h]
+Seat 1: coolDadJimbo folded before Flop (didn't bet)
+Seat 2: El-Faro1 collected ($0.22)
+Seat 3: PiosCowboy folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded on the Turn
+Seat 5: valeriafim (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: nagaElf (big blind) folded before Flop
+Seat 8: davegoa folded before Flop (didn't bet)
+Seat 9: VillasBoas17 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488750912:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:25:57 PT [2022/03/01 18:25:57 ET]
+Table 'Reticulum' 9-max Seat #6 is the button
+Seat 1: coolDadJimbo ($2 in chips) 
+Seat 2: El-Faro1 ($4.80 in chips) 
+Seat 3: MC5117 ($0.80 in chips) 
+Seat 4: Tobiz89 ($2.28 in chips) 
+Seat 5: valeriafim ($1.84 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: nagaElf ($2.43 in chips) 
+Seat 8: davegoa ($2 in chips) 
+Seat 9: VillasBoas17 ($0.90 in chips) 
+nagaElf: posts small blind $0.01
+davegoa: posts big blind $0.02
+MC5117: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Kh]
+VillasBoas17: folds 
+coolDadJimbo: raises $0.06 to $0.08
+El-Faro1: folds 
+MC5117: calls $0.06
+Tobiz89: folds 
+valeriafim: folds 
+Dorex2007: folds 
+nagaElf: calls $0.07
+davegoa: folds 
+*** FLOP *** [8c 9d Ac]
+nagaElf: checks 
+coolDadJimbo: checks 
+MC5117: checks 
+*** TURN *** [8c 9d Ac] [3s]
+nagaElf: bets $0.08
+coolDadJimbo: calls $0.08
+MC5117: folds 
+*** RIVER *** [8c 9d Ac 3s] [Ts]
+nagaElf: bets $0.14
+coolDadJimbo: calls $0.14
+*** SHOW DOWN ***
+nagaElf: shows [6s As] (a pair of Aces)
+coolDadJimbo: shows [Js Ah] (a pair of Aces - Jack kicker)
+coolDadJimbo collected $0.68 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.02 
+Board [8c 9d Ac 3s Ts]
+Seat 1: coolDadJimbo showed [Js Ah] and won ($0.68) with a pair of Aces
+Seat 2: El-Faro1 folded before Flop (didn't bet)
+Seat 3: MC5117 folded on the Turn
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: valeriafim folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: nagaElf (small blind) showed [6s As] and lost with a pair of Aces
+Seat 8: davegoa (big blind) folded before Flop
+Seat 9: VillasBoas17 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488770227:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:26:51 PT [2022/03/01 18:26:51 ET]
+Table 'Reticulum' 9-max Seat #7 is the button
+Seat 1: coolDadJimbo ($2.38 in chips) 
+Seat 2: El-Faro1 ($4.80 in chips) 
+Seat 3: MC5117 ($0.72 in chips) 
+Seat 4: Tobiz89 ($2.28 in chips) 
+Seat 5: valeriafim ($1.84 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: nagaElf ($2.13 in chips) 
+Seat 8: davegoa ($2 in chips) 
+Seat 9: VillasBoas17 ($0.90 in chips) 
+davegoa: posts small blind $0.01
+VillasBoas17: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 2c]
+coolDadJimbo: folds 
+El-Faro1: folds 
+MC5117: folds 
+Tobiz89: folds 
+valeriafim: calls $0.02
+Dorex2007: folds 
+nagaElf: folds 
+davegoa: folds 
+VillasBoas17: checks 
+*** FLOP *** [9c 7s Js]
+VillasBoas17: checks 
+valeriafim: checks 
+*** TURN *** [9c 7s Js] [Jd]
+VillasBoas17: bets $0.06
+valeriafim: calls $0.06
+*** RIVER *** [9c 7s Js Jd] [Ks]
+VillasBoas17: bets $0.06
+valeriafim: calls $0.06
+*** SHOW DOWN ***
+VillasBoas17: shows [2d 9d] (two pair, Jacks and Nines)
+valeriafim: shows [9h Kc] (two pair, Kings and Jacks)
+valeriafim collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [9c 7s Js Jd Ks]
+Seat 1: coolDadJimbo folded before Flop (didn't bet)
+Seat 2: El-Faro1 folded before Flop (didn't bet)
+Seat 3: MC5117 folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: valeriafim showed [9h Kc] and won ($0.28) with two pair, Kings and Jacks
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: nagaElf (button) folded before Flop (didn't bet)
+Seat 8: davegoa (small blind) folded before Flop
+Seat 9: VillasBoas17 (big blind) showed [2d 9d] and lost with two pair, Jacks and Nines
+
+
+
+PokerStars Hand #234488792070:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:27:54 PT [2022/03/01 18:27:54 ET]
+Table 'Reticulum' 9-max Seat #8 is the button
+Seat 1: coolDadJimbo ($2.38 in chips) 
+Seat 2: El-Faro1 ($4.80 in chips) 
+Seat 3: MC5117 ($0.72 in chips) 
+Seat 4: Tobiz89 ($2.28 in chips) 
+Seat 5: valeriafim ($1.98 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: nagaElf ($2.13 in chips) 
+Seat 8: davegoa ($2 in chips) 
+Seat 9: VillasBoas17 ($0.76 in chips) 
+VillasBoas17: posts small blind $0.01
+coolDadJimbo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 6h]
+El-Faro1: folds 
+MC5117: calls $0.02
+Tobiz89: folds 
+valeriafim: calls $0.02
+Dorex2007: folds 
+nagaElf: folds 
+davegoa: calls $0.02
+VillasBoas17: folds 
+coolDadJimbo: checks 
+*** FLOP *** [3c Tc 5h]
+coolDadJimbo: checks 
+MC5117: checks 
+valeriafim: checks 
+davegoa: checks 
+*** TURN *** [3c Tc 5h] [Qs]
+coolDadJimbo: checks 
+MC5117: checks 
+valeriafim: checks 
+davegoa: checks 
+*** RIVER *** [3c Tc 5h Qs] [4h]
+coolDadJimbo: checks 
+MC5117: checks 
+valeriafim: checks 
+davegoa: checks 
+*** SHOW DOWN ***
+coolDadJimbo: shows [7s 8h] (high card Queen)
+MC5117: shows [Kd 2s] (high card King)
+valeriafim: mucks hand 
+davegoa: mucks hand 
+MC5117 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [3c Tc 5h Qs 4h]
+Seat 1: coolDadJimbo (big blind) showed [7s 8h] and lost with high card Queen
+Seat 2: El-Faro1 folded before Flop (didn't bet)
+Seat 3: MC5117 showed [Kd 2s] and won ($0.09) with high card King
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: valeriafim mucked [Jd 6c]
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: nagaElf folded before Flop (didn't bet)
+Seat 8: davegoa (button) mucked [8s 9s]
+Seat 9: VillasBoas17 (small blind) folded before Flop
+
+
+
+PokerStars Hand #234488814150:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:28:57 PT [2022/03/01 18:28:57 ET]
+Table 'Reticulum' 9-max Seat #9 is the button
+Seat 1: coolDadJimbo ($2.36 in chips) 
+Seat 2: El-Faro1 ($4.80 in chips) 
+Seat 3: MC5117 ($0.79 in chips) 
+Seat 4: Tobiz89 ($2.28 in chips) 
+Seat 5: valeriafim ($1.96 in chips) 
+Seat 6: Dorex2007 ($2 in chips) 
+Seat 7: nagaElf ($2.13 in chips) 
+Seat 8: davegoa ($2 in chips) 
+Seat 9: VillasBoas17 ($0.75 in chips) 
+coolDadJimbo: posts small blind $0.01
+El-Faro1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Qh]
+MC5117: folds 
+Tobiz89: folds 
+valeriafim: calls $0.02
+Dorex2007: raises $0.02 to $0.04
+nagaElf: folds 
+davegoa: folds 
+VillasBoas17: folds 
+coolDadJimbo: folds 
+El-Faro1: calls $0.02
+valeriafim: calls $0.02
+*** FLOP *** [Kc Jc Ks]
+El-Faro1: checks 
+valeriafim: checks 
+Dorex2007: checks 
+*** TURN *** [Kc Jc Ks] [2d]
+El-Faro1: checks 
+valeriafim: checks 
+Dorex2007: checks 
+*** RIVER *** [Kc Jc Ks 2d] [3d]
+El-Faro1: checks 
+valeriafim: checks 
+Dorex2007: bets $0.09
+El-Faro1: folds 
+valeriafim: folds 
+Uncalled bet ($0.09) returned to Dorex2007
+Dorex2007 collected $0.13 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Kc Jc Ks 2d 3d]
+Seat 1: coolDadJimbo (small blind) folded before Flop
+Seat 2: El-Faro1 (big blind) folded on the River
+Seat 3: MC5117 folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: valeriafim folded on the River
+Seat 6: Dorex2007 collected ($0.13)
+Seat 7: nagaElf folded before Flop (didn't bet)
+Seat 8: davegoa folded before Flop (didn't bet)
+Seat 9: VillasBoas17 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488836067:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:30:00 PT [2022/03/01 18:30:00 ET]
+Table 'Reticulum' 9-max Seat #1 is the button
+Seat 1: coolDadJimbo ($2.35 in chips) 
+Seat 2: El-Faro1 ($4.76 in chips) 
+Seat 3: MC5117 ($0.79 in chips) 
+Seat 4: Tobiz89 ($2.28 in chips) 
+Seat 5: valeriafim ($1.92 in chips) 
+Seat 6: Dorex2007 ($2.09 in chips) 
+Seat 7: nagaElf ($2.13 in chips) 
+Seat 8: davegoa ($2 in chips) 
+Seat 9: VillasBoas17 ($0.75 in chips) 
+El-Faro1: posts small blind $0.01
+MC5117: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Td]
+Tobiz89: folds 
+valeriafim: calls $0.02
+Dorex2007: folds 
+nagaElf: folds 
+davegoa: folds 
+VillasBoas17: folds 
+coolDadJimbo: raises $0.07 to $0.09
+El-Faro1: calls $0.08
+MC5117: folds 
+valeriafim: calls $0.07
+*** FLOP *** [Kd Qs 4h]
+El-Faro1: checks 
+valeriafim: bets $0.20
+coolDadJimbo: calls $0.20
+El-Faro1: calls $0.20
+*** TURN *** [Kd Qs 4h] [7s]
+El-Faro1: checks 
+valeriafim: bets $1.63 and is all-in
+coolDadJimbo: calls $1.63
+El-Faro1: folds 
+*** RIVER *** [Kd Qs 4h 7s] [Kh]
+*** SHOW DOWN ***
+valeriafim: shows [Qd 4d] (two pair, Kings and Queens)
+coolDadJimbo: shows [Ad Ac] (two pair, Aces and Kings)
+coolDadJimbo collected $4 from pot
+*** SUMMARY ***
+Total pot $4.15 | Rake $0.15 
+Board [Kd Qs 4h 7s Kh]
+Seat 1: coolDadJimbo (button) showed [Ad Ac] and won ($4) with two pair, Aces and Kings
+Seat 2: El-Faro1 (small blind) folded on the Turn
+Seat 3: MC5117 (big blind) folded before Flop
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: valeriafim showed [Qd 4d] and lost with two pair, Kings and Queens
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: nagaElf folded before Flop (didn't bet)
+Seat 8: davegoa folded before Flop (didn't bet)
+Seat 9: VillasBoas17 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488874700:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:31:24 PT [2022/03/01 18:31:24 ET]
+Table 'Reticulum' 9-max Seat #2 is the button
+Seat 1: coolDadJimbo ($4.43 in chips) 
+Seat 2: El-Faro1 ($4.47 in chips) 
+Seat 3: MC5117 ($0.77 in chips) 
+Seat 4: Tobiz89 ($2.28 in chips) 
+Seat 6: Dorex2007 ($2.09 in chips) 
+Seat 7: nagaElf ($2.13 in chips) 
+Seat 8: davegoa ($2 in chips) 
+Seat 9: VillasBoas17 ($0.75 in chips) 
+MC5117: posts small blind $0.01
+Tobiz89: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Ah]
+Dorex2007: folds 
+nagaElf: folds 
+davegoa: folds 
+VillasBoas17: folds 
+coolDadJimbo: raises $0.06 to $0.08
+El-Faro1: calls $0.08
+MC5117: calls $0.07
+Tobiz89: folds 
+*** FLOP *** [Td 2s 8s]
+MC5117: checks 
+coolDadJimbo: bets $0.20
+El-Faro1: folds 
+MC5117: folds 
+Uncalled bet ($0.20) returned to coolDadJimbo
+coolDadJimbo collected $0.25 from pot
+coolDadJimbo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [Td 2s 8s]
+Seat 1: coolDadJimbo collected ($0.25)
+Seat 2: El-Faro1 (button) folded on the Flop
+Seat 3: MC5117 (small blind) folded on the Flop
+Seat 4: Tobiz89 (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: nagaElf folded before Flop (didn't bet)
+Seat 8: davegoa folded before Flop (didn't bet)
+Seat 9: VillasBoas17 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488895383:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:32:22 PT [2022/03/01 18:32:22 ET]
+Table 'Reticulum' 9-max Seat #3 is the button
+Seat 1: coolDadJimbo ($4.60 in chips) 
+Seat 2: El-Faro1 ($4.39 in chips) 
+Seat 3: MC5117 ($0.69 in chips) 
+Seat 4: Tobiz89 ($2.26 in chips) 
+Seat 5: valeriafim ($2 in chips) 
+Seat 6: Dorex2007 ($2.09 in chips) 
+Seat 7: nagaElf ($2.13 in chips) 
+Seat 8: davegoa ($2 in chips) 
+Seat 9: VillasBoas17 ($0.75 in chips) 
+Tobiz89: posts small blind $0.01
+valeriafim: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 4d]
+Dorex2007: calls $0.02
+nagaElf: folds 
+davegoa: folds 
+VillasBoas17: folds 
+coolDadJimbo: raises $0.07 to $0.09
+El-Faro1: folds 
+MC5117: folds 
+Tobiz89: folds 
+valeriafim: folds 
+Dorex2007: folds 
+Uncalled bet ($0.07) returned to coolDadJimbo
+coolDadJimbo collected $0.07 from pot
+coolDadJimbo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: coolDadJimbo collected ($0.07)
+Seat 2: El-Faro1 folded before Flop (didn't bet)
+Seat 3: MC5117 (button) folded before Flop (didn't bet)
+Seat 4: Tobiz89 (small blind) folded before Flop
+Seat 5: valeriafim (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop
+Seat 7: nagaElf folded before Flop (didn't bet)
+Seat 8: davegoa folded before Flop (didn't bet)
+Seat 9: VillasBoas17 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488913518:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:32:56 PT [2022/03/01 18:32:56 ET]
+Table 'Reticulum' 9-max Seat #4 is the button
+Seat 1: coolDadJimbo ($4.65 in chips) 
+Seat 2: El-Faro1 ($4.39 in chips) 
+Seat 3: MC5117 ($0.69 in chips) 
+Seat 4: Tobiz89 ($2.25 in chips) 
+Seat 5: valeriafim ($1.98 in chips) 
+Seat 6: Dorex2007 ($2.07 in chips) 
+Seat 7: nagaElf ($2.13 in chips) 
+Seat 8: davegoa ($2 in chips) 
+Seat 9: VillasBoas17 ($0.75 in chips) 
+valeriafim: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 8c]
+nagaElf: folds 
+davegoa: folds 
+VillasBoas17: folds 
+coolDadJimbo: raises $0.05 to $0.07
+El-Faro1: folds 
+MC5117: calls $0.07
+Tobiz89: folds 
+valeriafim: folds 
+Dorex2007: folds 
+*** FLOP *** [Kh Ah Qd]
+coolDadJimbo: checks 
+MC5117: checks 
+*** TURN *** [Kh Ah Qd] [2s]
+coolDadJimbo: checks 
+MC5117: checks 
+*** RIVER *** [Kh Ah Qd 2s] [Td]
+coolDadJimbo: checks 
+MC5117: bets $0.20
+coolDadJimbo: folds 
+Uncalled bet ($0.20) returned to MC5117
+MC5117 collected $0.16 from pot
+MC5117: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Kh Ah Qd 2s Td]
+Seat 1: coolDadJimbo folded on the River
+Seat 2: El-Faro1 folded before Flop (didn't bet)
+Seat 3: MC5117 collected ($0.16)
+Seat 4: Tobiz89 (button) folded before Flop (didn't bet)
+Seat 5: valeriafim (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: nagaElf folded before Flop (didn't bet)
+Seat 8: davegoa folded before Flop (didn't bet)
+Seat 9: VillasBoas17 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488931096:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:33:46 PT [2022/03/01 18:33:46 ET]
+Table 'Reticulum' 9-max Seat #5 is the button
+Seat 1: coolDadJimbo ($4.58 in chips) 
+Seat 2: El-Faro1 ($4.39 in chips) 
+Seat 3: MC5117 ($0.78 in chips) 
+Seat 4: Tobiz89 ($2.25 in chips) 
+Seat 5: valeriafim ($1.97 in chips) 
+Seat 6: Dorex2007 ($2.05 in chips) 
+Seat 7: nagaElf ($2.13 in chips) 
+Seat 8: davegoa ($2 in chips) 
+Seat 9: VillasBoas17 ($0.75 in chips) 
+Dorex2007: posts small blind $0.01
+nagaElf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Ad]
+davegoa: folds 
+VillasBoas17: folds 
+coolDadJimbo: folds 
+El-Faro1: calls $0.02
+MC5117: calls $0.02
+Tobiz89: folds 
+valeriafim: calls $0.02
+Dorex2007: raises $0.10 to $0.12
+nagaElf: folds 
+El-Faro1: folds 
+MC5117: calls $0.10
+valeriafim: folds 
+*** FLOP *** [Qh 8s Th]
+Dorex2007: bets $1.93 and is all-in
+MC5117: folds 
+Uncalled bet ($1.93) returned to Dorex2007
+Dorex2007 collected $0.29 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Qh 8s Th]
+Seat 1: coolDadJimbo folded before Flop (didn't bet)
+Seat 2: El-Faro1 folded before Flop
+Seat 3: MC5117 folded on the Flop
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: valeriafim (button) folded before Flop
+Seat 6: Dorex2007 (small blind) collected ($0.29)
+Seat 7: nagaElf (big blind) folded before Flop
+Seat 8: davegoa folded before Flop (didn't bet)
+Seat 9: VillasBoas17 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234488959417:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/03/01 15:35:06 PT [2022/03/01 18:35:06 ET]
+Table 'Reticulum' 9-max Seat #6 is the button
+Seat 1: coolDadJimbo ($4.58 in chips) 
+Seat 2: El-Faro1 ($4.37 in chips) 
+Seat 3: MC5117 ($0.66 in chips) 
+Seat 4: Tobiz89 ($2.25 in chips) 
+Seat 5: valeriafim ($1.95 in chips) 
+Seat 6: Dorex2007 ($2.22 in chips) 
+Seat 7: nagaElf ($2.11 in chips) 
+Seat 8: davegoa ($2 in chips) 
+Seat 9: VillasBoas17 ($0.75 in chips) 
+nagaElf: posts small blind $0.01
+davegoa: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Qh]
+VillasBoas17: folds 
+coolDadJimbo: folds 
+El-Faro1: folds 
+MC5117: calls $0.02
+Tobiz89: folds 
+valeriafim: calls $0.02
+Dorex2007: calls $0.02
+nagaElf: calls $0.01
+davegoa: checks 
+*** FLOP *** [Kd As 3h]
+nagaElf: checks 
+davegoa: checks 
+MC5117: checks 
+valeriafim: checks 
+Dorex2007: bets $0.05
+nagaElf: folds 
+davegoa: folds 
+MC5117: folds 
+valeriafim: folds 
+Uncalled bet ($0.05) returned to Dorex2007
+Dorex2007 collected $0.10 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Kd As 3h]
+Seat 1: coolDadJimbo folded before Flop (didn't bet)
+Seat 2: El-Faro1 folded before Flop (didn't bet)
+Seat 3: MC5117 folded on the Flop
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: valeriafim folded on the Flop
+Seat 6: Dorex2007 (button) collected ($0.10)
+Seat 7: nagaElf (small blind) folded on the Flop
+Seat 8: davegoa (big blind) folded on the Flop
+Seat 9: VillasBoas17 folded before Flop (didn't bet)
+
+
+
