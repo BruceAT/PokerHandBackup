@@ -1,0 +1,1431 @@
+﻿PokerStars Hand #237308389200:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:00:31 PT [2022/07/12 0:00:31 ET]
+Table 'Acubens III' 9-max Seat #9 is the button
+Seat 1: rohpereira ($1.97 in chips) 
+Seat 2: VicSas29 ($3.59 in chips) 
+Seat 3: frosa9397 ($2.77 in chips) 
+Seat 5: Dorex2007 ($2 in chips) 
+Seat 6: PatRoast ($4.34 in chips) 
+Seat 7: CarloMurillo ($2.09 in chips) 
+Seat 8: Dimkar101 ($3.01 in chips) 
+Seat 9: FINITSXX ($0.77 in chips) 
+rohpereira: posts small blind $0.01
+VicSas29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 3c]
+frosa9397: folds 
+Dorex2007: folds 
+PatRoast: raises $0.03 to $0.05
+CarloMurillo: calls $0.05
+Dimkar101: folds 
+FINITSXX: folds 
+rohpereira: calls $0.04
+VicSas29: calls $0.03
+*** FLOP *** [6c Ks 4d]
+rohpereira: checks 
+VicSas29: checks 
+PatRoast: bets $0.08
+CarloMurillo: folds 
+rohpereira: calls $0.08
+VicSas29: folds 
+*** TURN *** [6c Ks 4d] [7c]
+rohpereira: checks 
+PatRoast: checks 
+*** RIVER *** [6c Ks 4d 7c] [9d]
+rohpereira: checks 
+PatRoast: checks 
+*** SHOW DOWN ***
+rohpereira: shows [Kd 2h] (a pair of Kings)
+PatRoast: mucks hand 
+rohpereira collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [6c Ks 4d 7c 9d]
+Seat 1: rohpereira (small blind) showed [Kd 2h] and won ($0.35) with a pair of Kings
+Seat 2: VicSas29 (big blind) folded on the Flop
+Seat 3: frosa9397 folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: PatRoast mucked [Td Tc]
+Seat 7: CarloMurillo folded on the Flop
+Seat 8: Dimkar101 folded before Flop (didn't bet)
+Seat 9: FINITSXX (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237308395926:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:01:26 PT [2022/07/12 0:01:26 ET]
+Table 'Acubens III' 9-max Seat #1 is the button
+Seat 1: rohpereira ($2.19 in chips) 
+Seat 2: VicSas29 ($3.54 in chips) 
+Seat 3: frosa9397 ($2.77 in chips) 
+Seat 5: Dorex2007 ($2 in chips) 
+Seat 6: PatRoast ($4.21 in chips) 
+Seat 7: CarloMurillo ($2.04 in chips) 
+Seat 8: Dimkar101 ($3.01 in chips) 
+Seat 9: FINITSXX ($0.77 in chips) 
+VicSas29: posts small blind $0.01
+frosa9397: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Qd]
+Dorex2007: raises $0.06 to $0.08
+PatRoast: folds 
+CarloMurillo: folds 
+Dimkar101: folds 
+FINITSXX: folds 
+rohpereira: calls $0.08
+VicSas29: folds 
+frosa9397: folds 
+*** FLOP *** [4c 8h Qc]
+Dorex2007: checks 
+rohpereira: checks 
+*** TURN *** [4c 8h Qc] [Ad]
+Dorex2007: checks 
+rohpereira: checks 
+*** RIVER *** [4c 8h Qc Ad] [5s]
+Dorex2007: bets $0.12
+rohpereira: folds 
+Uncalled bet ($0.12) returned to Dorex2007
+Dorex2007 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [4c 8h Qc Ad 5s]
+Seat 1: rohpereira (button) folded on the River
+Seat 2: VicSas29 (small blind) folded before Flop
+Seat 3: frosa9397 (big blind) folded before Flop
+Seat 5: Dorex2007 collected ($0.18)
+Seat 6: PatRoast folded before Flop (didn't bet)
+Seat 7: CarloMurillo folded before Flop (didn't bet)
+Seat 8: Dimkar101 folded before Flop (didn't bet)
+Seat 9: FINITSXX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237308400754:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:02:04 PT [2022/07/12 0:02:04 ET]
+Table 'Acubens III' 9-max Seat #2 is the button
+Seat 1: rohpereira ($2.11 in chips) 
+Seat 2: VicSas29 ($3.53 in chips) 
+Seat 3: frosa9397 ($2.75 in chips) 
+Seat 5: Dorex2007 ($2.10 in chips) 
+Seat 6: PatRoast ($4.21 in chips) 
+Seat 7: CarloMurillo ($2.04 in chips) 
+Seat 8: Dimkar101 ($3.01 in chips) 
+Seat 9: FINITSXX ($0.77 in chips) 
+frosa9397: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 7d]
+PatRoast: folds 
+CarloMurillo: raises $0.04 to $0.06
+Dimkar101: calls $0.06
+FINITSXX: folds 
+rohpereira: calls $0.06
+VicSas29: raises $0.12 to $0.18
+frosa9397: folds 
+Dorex2007: folds 
+CarloMurillo: folds 
+Dimkar101: folds 
+rohpereira: calls $0.12
+*** FLOP *** [3d 2c Th]
+rohpereira: checks 
+VicSas29: bets $0.24
+rohpereira: calls $0.24
+*** TURN *** [3d 2c Th] [4s]
+rohpereira: checks 
+VicSas29: checks 
+*** RIVER *** [3d 2c Th 4s] [As]
+rohpereira: bets $1.69 and is all-in
+VicSas29: folds 
+Uncalled bet ($1.69) returned to rohpereira
+rohpereira collected $0.96 from pot
+*** SUMMARY ***
+Total pot $0.99 | Rake $0.03 
+Board [3d 2c Th 4s As]
+Seat 1: rohpereira collected ($0.96)
+Seat 2: VicSas29 (button) folded on the River
+Seat 3: frosa9397 (small blind) folded before Flop
+Seat 5: Dorex2007 (big blind) folded before Flop
+Seat 6: PatRoast folded before Flop (didn't bet)
+Seat 7: CarloMurillo folded before Flop
+Seat 8: Dimkar101 folded before Flop
+Seat 9: FINITSXX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237308407299:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:02:56 PT [2022/07/12 0:02:56 ET]
+Table 'Acubens III' 9-max Seat #3 is the button
+Seat 1: rohpereira ($2.65 in chips) 
+Seat 2: VicSas29 ($3.11 in chips) 
+Seat 3: frosa9397 ($2.74 in chips) 
+Seat 5: Dorex2007 ($2.08 in chips) 
+Seat 6: PatRoast ($4.21 in chips) 
+Seat 7: CarloMurillo ($1.98 in chips) 
+Seat 8: Dimkar101 ($2.95 in chips) 
+Seat 9: FINITSXX ($0.77 in chips) 
+Dorex2007: posts small blind $0.01
+PatRoast: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Jc]
+CarloMurillo: raises $0.02 to $0.04
+Dimkar101: folds 
+FINITSXX: folds 
+rohpereira: folds 
+VicSas29: folds 
+frosa9397: folds 
+Dorex2007: calls $0.03
+PatRoast: folds 
+*** FLOP *** [4h 2s 8h]
+Dorex2007: checks 
+CarloMurillo: checks 
+*** TURN *** [4h 2s 8h] [4d]
+Dorex2007: checks 
+CarloMurillo: checks 
+*** RIVER *** [4h 2s 8h 4d] [Jh]
+Dorex2007: bets $0.07
+CarloMurillo: folds 
+Uncalled bet ($0.07) returned to Dorex2007
+Dorex2007 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [4h 2s 8h 4d Jh]
+Seat 1: rohpereira folded before Flop (didn't bet)
+Seat 2: VicSas29 folded before Flop (didn't bet)
+Seat 3: frosa9397 (button) folded before Flop (didn't bet)
+Seat 5: Dorex2007 (small blind) collected ($0.10)
+Seat 6: PatRoast (big blind) folded before Flop
+Seat 7: CarloMurillo folded on the River
+Seat 8: Dimkar101 folded before Flop (didn't bet)
+Seat 9: FINITSXX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237308415841:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:04:02 PT [2022/07/12 0:04:02 ET]
+Table 'Acubens III' 9-max Seat #5 is the button
+Seat 1: rohpereira ($2.65 in chips) 
+Seat 2: VicSas29 ($3.11 in chips) 
+Seat 3: frosa9397 ($2.74 in chips) 
+Seat 5: Dorex2007 ($2.14 in chips) 
+Seat 6: PatRoast ($4.19 in chips) 
+Seat 7: CarloMurillo ($1.94 in chips) 
+Seat 8: Dimkar101 ($2.95 in chips) 
+Seat 9: FINITSXX ($0.77 in chips) 
+PatRoast: posts small blind $0.01
+CarloMurillo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 9s]
+Dimkar101: calls $0.02
+FINITSXX: folds 
+rohpereira: folds 
+VicSas29: calls $0.02
+frosa9397: calls $0.02
+Dorex2007: folds 
+PatRoast: calls $0.01
+CarloMurillo: checks 
+*** FLOP *** [9d 5h 7h]
+PatRoast: checks 
+CarloMurillo: checks 
+Dimkar101: checks 
+VicSas29: checks 
+frosa9397: bets $0.05
+PatRoast: calls $0.05
+CarloMurillo: folds 
+Dimkar101: calls $0.05
+VicSas29: calls $0.05
+*** TURN *** [9d 5h 7h] [9h]
+PatRoast: checks 
+Dimkar101: checks 
+VicSas29: checks 
+frosa9397: bets $0.16
+PatRoast: folds 
+Dimkar101: calls $0.16
+VicSas29: folds 
+*** RIVER *** [9d 5h 7h 9h] [9c]
+Dimkar101: bets $0.30
+frosa9397: folds 
+Uncalled bet ($0.30) returned to Dimkar101
+Dimkar101 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.02 
+Board [9d 5h 7h 9h 9c]
+Seat 1: rohpereira folded before Flop (didn't bet)
+Seat 2: VicSas29 folded on the Turn
+Seat 3: frosa9397 folded on the River
+Seat 5: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 6: PatRoast (small blind) folded on the Turn
+Seat 7: CarloMurillo (big blind) folded on the Flop
+Seat 8: Dimkar101 collected ($0.60)
+Seat 9: FINITSXX folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237308433354:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:05:53 PT [2022/07/12 0:05:53 ET]
+Table 'Acubens III' 9-max Seat #6 is the button
+Seat 1: rohpereira ($2.65 in chips) 
+Seat 2: VicSas29 ($3.04 in chips) 
+Seat 3: frosa9397 ($2.51 in chips) 
+Seat 5: Dorex2007 ($2.14 in chips) 
+Seat 6: PatRoast ($4.12 in chips) 
+Seat 7: CarloMurillo ($1.92 in chips) 
+Seat 8: Dimkar101 ($3.32 in chips) 
+Seat 9: FINITSXX ($0.77 in chips) 
+CarloMurillo: posts small blind $0.01
+Dimkar101: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 7d]
+FINITSXX: raises $0.04 to $0.06
+rohpereira: calls $0.06
+VicSas29: folds 
+frosa9397: folds 
+Dorex2007: folds 
+PatRoast: folds 
+CarloMurillo: folds 
+Dimkar101: calls $0.04
+*** FLOP *** [Kd Qs 9c]
+Dimkar101: checks 
+FINITSXX: bets $0.08
+rohpereira: calls $0.08
+Dimkar101: folds 
+*** TURN *** [Kd Qs 9c] [3h]
+FINITSXX: bets $0.17
+rohpereira: calls $0.17
+*** RIVER *** [Kd Qs 9c 3h] [2d]
+FINITSXX: checks 
+rohpereira: bets $0.67
+Dimkar101 leaves the table
+FINITSXX: calls $0.46 and is all-in
+Uncalled bet ($0.21) returned to rohpereira
+*** SHOW DOWN ***
+rohpereira: shows [Th Ad] (high card Ace)
+FINITSXX: shows [Jc Kc] (a pair of Kings)
+FINITSXX collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.61 | Rake $0.06 
+Board [Kd Qs 9c 3h 2d]
+Seat 1: rohpereira showed [Th Ad] and lost with high card Ace
+Seat 2: VicSas29 folded before Flop (didn't bet)
+Seat 3: frosa9397 folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: PatRoast (button) folded before Flop (didn't bet)
+Seat 7: CarloMurillo (small blind) folded before Flop
+Seat 8: Dimkar101 (big blind) folded on the Flop
+Seat 9: FINITSXX showed [Jc Kc] and won ($1.55) with a pair of Kings
+
+
+
+PokerStars Hand #237308441034:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:06:41 PT [2022/07/12 0:06:41 ET]
+Table 'Acubens III' 9-max Seat #7 is the button
+Seat 1: rohpereira ($1.88 in chips) 
+Seat 2: VicSas29 ($3.04 in chips) 
+Seat 3: frosa9397 ($2.51 in chips) 
+Seat 5: Dorex2007 ($2.14 in chips) 
+Seat 6: PatRoast ($4.12 in chips) 
+Seat 7: CarloMurillo ($1.91 in chips) 
+Seat 9: FINITSXX ($1.55 in chips) 
+FINITSXX: posts small blind $0.01
+rohpereira: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 3s]
+VicSas29: folds 
+Il0vebear joins the table at seat #8 
+frosa9397: folds 
+Dorex2007 has timed out
+Dorex2007: folds 
+PatRoast: raises $0.04 to $0.06
+CarloMurillo: folds 
+FINITSXX: folds 
+rohpereira: calls $0.04
+*** FLOP *** [5d Tc Qh]
+rohpereira: checks 
+PatRoast: checks 
+*** TURN *** [5d Tc Qh] [2s]
+rohpereira: bets $0.06
+PatRoast: folds 
+Uncalled bet ($0.06) returned to rohpereira
+rohpereira collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5d Tc Qh 2s]
+Seat 1: rohpereira (big blind) collected ($0.13)
+Seat 2: VicSas29 folded before Flop (didn't bet)
+Seat 3: frosa9397 folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: PatRoast folded on the Turn
+Seat 7: CarloMurillo (button) folded before Flop (didn't bet)
+Seat 9: FINITSXX (small blind) folded before Flop
+
+
+
+PokerStars Hand #237308446742:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:07:26 PT [2022/07/12 0:07:26 ET]
+Table 'Acubens III' 9-max Seat #9 is the button
+Seat 1: rohpereira ($1.95 in chips) 
+Seat 2: VicSas29 ($3.04 in chips) 
+Seat 3: frosa9397 ($2.51 in chips) 
+Seat 5: Dorex2007 ($2.14 in chips) 
+Seat 6: PatRoast ($4.06 in chips) 
+Seat 7: CarloMurillo ($1.91 in chips) 
+Seat 9: FINITSXX ($1.54 in chips) 
+rohpereira: posts small blind $0.01
+VicSas29: posts big blind $0.02
+Il0vebear: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 7c]
+frosa9397: folds 
+Dorex2007: folds 
+PatRoast: folds 
+CarloMurillo: raises $0.04 to $0.06
+FINITSXX: calls $0.06
+rohpereira: calls $0.05
+VicSas29: folds 
+*** FLOP *** [Js Qc 6c]
+abufirs leaves the table
+rohpereira: checks 
+CarloMurillo: bets $0.04
+FINITSXX: raises $0.14 to $0.18
+rohpereira: folds 
+CarloMurillo: calls $0.14
+*** TURN *** [Js Qc 6c] [4d]
+CarloMurillo: bets $0.54
+FINITSXX: raises $0.76 to $1.30 and is all-in
+CarloMurillo: calls $0.76
+*** RIVER *** [Js Qc 6c 4d] [Ad]
+*** SHOW DOWN ***
+CarloMurillo: shows [Jc Qd] (two pair, Queens and Jacks)
+FINITSXX: shows [Tc Qs] (a pair of Queens)
+CarloMurillo collected $3.05 from pot
+*** SUMMARY ***
+Total pot $3.16 | Rake $0.11 
+Board [Js Qc 6c 4d Ad]
+Seat 1: rohpereira (small blind) folded on the Flop
+Seat 2: VicSas29 (big blind) folded before Flop
+Seat 3: frosa9397 folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: PatRoast folded before Flop (didn't bet)
+Seat 7: CarloMurillo showed [Jc Qd] and won ($3.05) with two pair, Queens and Jacks
+Seat 9: FINITSXX (button) showed [Tc Qs] and lost with a pair of Queens
+
+
+
+PokerStars Hand #237308456768:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:08:45 PT [2022/07/12 0:08:45 ET]
+Table 'Acubens III' 9-max Seat #1 is the button
+Seat 1: rohpereira ($1.89 in chips) 
+Seat 2: VicSas29 ($3.02 in chips) 
+Seat 3: frosa9397 ($2.51 in chips) 
+Seat 5: Dorex2007 ($2.14 in chips) 
+Seat 6: PatRoast ($4.06 in chips) 
+Seat 7: CarloMurillo ($3.42 in chips) 
+VicSas29: posts small blind $0.01
+frosa9397: posts big blind $0.02
+Il0vebear: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 6s]
+Dorex2007: folds 
+FINITSXX leaves the table
+PatRoast: folds 
+CarloMurillo: raises $0.04 to $0.06
+rohpereira: raises $0.04 to $0.10
+VicSas29: folds 
+frosa9397: folds 
+CarloMurillo: calls $0.04
+*** FLOP *** [9s 8c 7h]
+CarloMurillo: checks 
+rohpereira: checks 
+*** TURN *** [9s 8c 7h] [4h]
+CarloMurillo: bets $0.12
+rohpereira: calls $0.12
+*** RIVER *** [9s 8c 7h 4h] [Ac]
+CarloMurillo: checks 
+rohpereira: bets $0.22
+Tobiz89 joins the table at seat #9 
+CarloMurillo: folds 
+Uncalled bet ($0.22) returned to rohpereira
+rohpereira collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [9s 8c 7h 4h Ac]
+Seat 1: rohpereira (button) collected ($0.45)
+Seat 2: VicSas29 (small blind) folded before Flop
+Seat 3: frosa9397 (big blind) folded before Flop
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: PatRoast folded before Flop (didn't bet)
+Seat 7: CarloMurillo folded on the River
+
+
+
+PokerStars Hand #237308461684:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:09:24 PT [2022/07/12 0:09:24 ET]
+Table 'Acubens III' 9-max Seat #2 is the button
+Seat 1: rohpereira ($2.12 in chips) 
+Seat 2: VicSas29 ($3.01 in chips) 
+Seat 3: frosa9397 ($2.49 in chips) 
+Seat 5: Dorex2007 ($2.14 in chips) 
+Seat 6: PatRoast ($4.06 in chips) 
+Seat 7: CarloMurillo ($3.20 in chips) 
+frosa9397: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Il0vebear: sits out 
+Tobiz89: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 6h]
+PatRoast: folds 
+CarloMurillo: raises $0.04 to $0.06
+rohpereira: folds 
+VicSas29: folds 
+frosa9397: calls $0.05
+Dorex2007: folds 
+*** FLOP *** [Qs 2h 5s]
+frosa9397: checks 
+CarloMurillo: bets $0.04
+frosa9397: folds 
+Uncalled bet ($0.04) returned to CarloMurillo
+CarloMurillo collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Qs 2h 5s]
+Seat 1: rohpereira folded before Flop (didn't bet)
+Seat 2: VicSas29 (button) folded before Flop (didn't bet)
+Seat 3: frosa9397 (small blind) folded on the Flop
+Seat 5: Dorex2007 (big blind) folded before Flop
+Seat 6: PatRoast folded before Flop (didn't bet)
+Seat 7: CarloMurillo collected ($0.14)
+
+
+
+PokerStars Hand #237308465145:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:09:52 PT [2022/07/12 0:09:52 ET]
+Table 'Acubens III' 9-max Seat #3 is the button
+Seat 1: rohpereira ($2.12 in chips) 
+Seat 2: VicSas29 ($3.01 in chips) 
+Seat 3: frosa9397 ($2.43 in chips) 
+Seat 5: Dorex2007 ($2.12 in chips) 
+Seat 6: PatRoast ($4.06 in chips) 
+Seat 7: CarloMurillo ($3.28 in chips) 
+Dorex2007: posts small blind $0.01
+PatRoast: posts big blind $0.02
+Il0vebear: sits out 
+Tobiz89: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Tc]
+CarloMurillo: folds 
+rohpereira: folds 
+VicSas29: folds 
+frosa9397: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to PatRoast
+PatRoast collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: rohpereira folded before Flop (didn't bet)
+Seat 2: VicSas29 folded before Flop (didn't bet)
+Seat 3: frosa9397 (button) folded before Flop (didn't bet)
+Seat 5: Dorex2007 (small blind) folded before Flop
+Seat 6: PatRoast (big blind) collected ($0.02)
+Seat 7: CarloMurillo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237308466772:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:10:05 PT [2022/07/12 0:10:05 ET]
+Table 'Acubens III' 9-max Seat #5 is the button
+Seat 1: rohpereira ($2.12 in chips) 
+Seat 2: VicSas29 ($3.01 in chips) 
+Seat 3: frosa9397 ($2.43 in chips) 
+Seat 5: Dorex2007 ($2.11 in chips) 
+Seat 6: PatRoast ($4.07 in chips) 
+Seat 7: CarloMurillo ($3.28 in chips) 
+PatRoast: posts small blind $0.01
+CarloMurillo: posts big blind $0.02
+Il0vebear: sits out 
+Tobiz89: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 7d]
+rohpereira: folds 
+VicSas29: folds 
+frosa9397: folds 
+Dorex2007: folds 
+PatRoast: raises $0.04 to $0.06
+CarloMurillo: calls $0.04
+*** FLOP *** [Jh 3h 6d]
+PatRoast: bets $0.06
+CarloMurillo: folds 
+Uncalled bet ($0.06) returned to PatRoast
+PatRoast collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Jh 3h 6d]
+Seat 1: rohpereira folded before Flop (didn't bet)
+Seat 2: VicSas29 folded before Flop (didn't bet)
+Seat 3: frosa9397 folded before Flop (didn't bet)
+Seat 5: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 6: PatRoast (small blind) collected ($0.12)
+Seat 7: CarloMurillo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #237308470196:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:10:33 PT [2022/07/12 0:10:33 ET]
+Table 'Acubens III' 9-max Seat #7 is the button
+Seat 1: rohpereira ($2.12 in chips) 
+Seat 2: VicSas29 ($3.01 in chips) 
+Seat 3: frosa9397 ($2.43 in chips) 
+Seat 5: Dorex2007 ($2.11 in chips) 
+Seat 7: CarloMurillo ($3.22 in chips) 
+rohpereira: posts small blind $0.01
+VicSas29: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 2s]
+frosa9397: folds 
+Dorex2007: folds 
+CarloMurillo: raises $0.04 to $0.06
+rohpereira: folds 
+VicSas29: calls $0.04
+*** FLOP *** [Th Ah Ts]
+VicSas29: checks 
+CarloMurillo: bets $0.06
+VicSas29: calls $0.06
+*** TURN *** [Th Ah Ts] [Ad]
+VicSas29: checks 
+CarloMurillo: checks 
+*** RIVER *** [Th Ah Ts Ad] [Tc]
+VicSas29: checks 
+CarloMurillo: checks 
+*** SHOW DOWN ***
+VicSas29: shows [Jc Ks] (a full house, Tens full of Aces)
+CarloMurillo: shows [3s 3h] (a full house, Tens full of Aces)
+VicSas29 collected $0.12 from pot
+CarloMurillo collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Th Ah Ts Ad Tc]
+Seat 1: rohpereira (small blind) folded before Flop
+Seat 2: VicSas29 (big blind) showed [Jc Ks] and won ($0.12) with a full house, Tens full of Aces
+Seat 3: frosa9397 folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 7: CarloMurillo (button) showed [3s 3h] and won ($0.12) with a full house, Tens full of Aces
+
+
+
+PokerStars Hand #237308475323:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:11:15 PT [2022/07/12 0:11:15 ET]
+Table 'Acubens III' 9-max Seat #1 is the button
+Seat 1: rohpereira ($2.11 in chips) 
+Seat 2: VicSas29 ($3.01 in chips) 
+Seat 3: frosa9397 ($2.43 in chips) 
+Seat 5: Dorex2007 ($2.11 in chips) 
+Seat 7: CarloMurillo ($3.22 in chips) 
+VicSas29: posts small blind $0.01
+frosa9397: posts big blind $0.02
+Il0vebear: sits out 
+Tobiz89: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 2c]
+Dorex2007: folds 
+CarloMurillo: folds 
+rohpereira: calls $0.02
+VicSas29: raises $0.08 to $0.10
+frosa9397: folds 
+rohpereira: calls $0.08
+*** FLOP *** [Kc Js As]
+VicSas29: bets $0.07
+rohpereira: calls $0.07
+*** TURN *** [Kc Js As] [2s]
+VicSas29: bets $0.12
+rohpereira: calls $0.12
+*** RIVER *** [Kc Js As 2s] [Ah]
+VicSas29: bets $2.72 and is all-in
+rohpereira: calls $1.82 and is all-in
+Uncalled bet ($0.90) returned to VicSas29
+*** SHOW DOWN ***
+VicSas29: shows [Jh Ad] (a full house, Aces full of Jacks)
+rohpereira: shows [4s 3s] (a flush, Ace high)
+Tweedy620 joins the table at seat #4 
+VicSas29 collected $4.09 from pot
+*** SUMMARY ***
+Total pot $4.24 | Rake $0.15 
+Board [Kc Js As 2s Ah]
+Seat 1: rohpereira (button) showed [4s 3s] and lost with a flush, Ace high
+Seat 2: VicSas29 (small blind) showed [Jh Ad] and won ($4.09) with a full house, Aces full of Jacks
+Seat 3: frosa9397 (big blind) folded before Flop
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 7: CarloMurillo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237308480440:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:11:58 PT [2022/07/12 0:11:58 ET]
+Table 'Acubens III' 9-max Seat #2 is the button
+Seat 2: VicSas29 ($4.99 in chips) 
+Seat 3: frosa9397 ($2.41 in chips) 
+Seat 4: Tweedy620 ($2 in chips) 
+Seat 5: Dorex2007 ($2.11 in chips) 
+Seat 7: CarloMurillo ($3.22 in chips) 
+frosa9397: posts small blind $0.01
+Tweedy620: posts big blind $0.02
+Il0vebear: sits out 
+Tobiz89: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 9d]
+Dorex2007: folds 
+CarloMurillo: folds 
+rohpereira leaves the table
+VicSas29: raises $0.03 to $0.05
+frosa9397: folds 
+Tweedy620: folds 
+Uncalled bet ($0.03) returned to VicSas29
+VicSas29 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: VicSas29 (button) collected ($0.05)
+Seat 3: frosa9397 (small blind) folded before Flop
+Seat 4: Tweedy620 (big blind) folded before Flop
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 7: CarloMurillo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237308491006:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:12:21 PT [2022/07/12 0:12:21 ET]
+Table 'Acubens III' 9-max Seat #3 is the button
+Seat 2: VicSas29 ($5.02 in chips) 
+Seat 3: frosa9397 ($2.40 in chips) 
+Seat 4: Tweedy620 ($1.98 in chips) 
+Seat 5: Dorex2007 ($2.11 in chips) 
+Seat 7: CarloMurillo ($3.22 in chips) 
+Tweedy620: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Il0vebear: sits out 
+Tobiz89: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 7s]
+CarloMurillo: folds 
+VicSas29: raises $0.03 to $0.05
+frosa9397: calls $0.05
+Tweedy620: calls $0.04
+Dorex2007: folds 
+*** FLOP *** [Ad Ah 9d]
+Tweedy620: bets $0.12
+VicSas29: folds 
+gvpRS joins the table at seat #1 
+frosa9397: calls $0.12
+*** TURN *** [Ad Ah 9d] [Jc]
+Tweedy620: bets $0.14
+frosa9397: calls $0.14
+*** RIVER *** [Ad Ah 9d Jc] [As]
+Tweedy620: checks 
+frosa9397: checks 
+*** SHOW DOWN ***
+Tweedy620: shows [Ac Jd] (four of a kind, Aces)
+frosa9397: mucks hand 
+Tweedy620 collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.02 
+Board [Ad Ah 9d Jc As]
+Seat 2: VicSas29 folded on the Flop
+Seat 3: frosa9397 (button) mucked [Qd Qc]
+Seat 4: Tweedy620 (small blind) showed [Ac Jd] and won ($0.67) with four of a kind, Aces
+Seat 5: Dorex2007 (big blind) folded before Flop
+Seat 7: CarloMurillo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237308503758:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:13:26 PT [2022/07/12 0:13:26 ET]
+Table 'Acubens III' 9-max Seat #4 is the button
+Seat 2: VicSas29 ($4.97 in chips) 
+Seat 3: frosa9397 ($2.09 in chips) 
+Seat 4: Tweedy620 ($2.34 in chips) 
+Seat 5: Dorex2007 ($2.09 in chips) 
+Seat 7: CarloMurillo ($3.22 in chips) 
+Dorex2007: posts small blind $0.01
+CarloMurillo: posts big blind $0.02
+Il0vebear: sits out 
+Tobiz89: sits out 
+gvpRS: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 7s]
+VicSas29: folds 
+frosa9397: calls $0.02
+Tweedy620: calls $0.02
+Dorex2007: folds 
+CarloMurillo: checks 
+*** FLOP *** [As Th 8c]
+CarloMurillo: checks 
+frosa9397: checks 
+Tweedy620: bets $0.10
+CarloMurillo: folds 
+frosa9397: calls $0.10
+*** TURN *** [As Th 8c] [5h]
+frosa9397: checks 
+Tweedy620: bets $0.12
+frosa9397: calls $0.12
+*** RIVER *** [As Th 8c 5h] [6d]
+frosa9397: checks 
+Tweedy620: checks 
+*** SHOW DOWN ***
+frosa9397: shows [Js Qh] (high card Ace)
+Tweedy620: shows [Ad 8h] (two pair, Aces and Eights)
+Tweedy620 collected $0.49 from pot
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [As Th 8c 5h 6d]
+Seat 2: VicSas29 folded before Flop (didn't bet)
+Seat 3: frosa9397 showed [Js Qh] and lost with high card Ace
+Seat 4: Tweedy620 (button) showed [Ad 8h] and won ($0.49) with two pair, Aces and Eights
+Seat 5: Dorex2007 (small blind) folded before Flop
+Seat 7: CarloMurillo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #237308514146:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:14:50 PT [2022/07/12 0:14:50 ET]
+Table 'Acubens III' 9-max Seat #5 is the button
+Seat 2: VicSas29 ($4.97 in chips) 
+Seat 3: frosa9397 ($1.85 in chips) 
+Seat 4: Tweedy620 ($2.59 in chips) 
+Seat 5: Dorex2007 ($2.08 in chips) 
+Seat 7: CarloMurillo ($3.20 in chips) 
+Seat 8: Il0vebear ($2 in chips) 
+CarloMurillo: posts small blind $0.01
+Il0vebear: posts big blind $0.02
+Tobiz89: sits out 
+gvpRS: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Kd]
+VicSas29: folds 
+frosa9397: folds 
+Tweedy620: folds 
+Dorex2007: folds 
+CarloMurillo: raises $0.04 to $0.06
+Il0vebear: folds 
+Uncalled bet ($0.04) returned to CarloMurillo
+CarloMurillo collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: VicSas29 folded before Flop (didn't bet)
+Seat 3: frosa9397 folded before Flop (didn't bet)
+Seat 4: Tweedy620 folded before Flop (didn't bet)
+Seat 5: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: CarloMurillo (small blind) collected ($0.04)
+Seat 8: Il0vebear (big blind) folded before Flop
+
+
+
+PokerStars Hand #237308516312:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:15:07 PT [2022/07/12 0:15:07 ET]
+Table 'Acubens III' 9-max Seat #7 is the button
+Seat 2: VicSas29 ($4.97 in chips) 
+Seat 3: frosa9397 ($1.85 in chips) 
+Seat 4: Tweedy620 ($2.59 in chips) 
+Seat 5: Dorex2007 ($2.08 in chips) 
+Seat 7: CarloMurillo ($3.22 in chips) 
+Seat 8: Il0vebear ($2 in chips) 
+Seat 9: Tobiz89 ($2 in chips) 
+Il0vebear: posts small blind $0.01
+Tobiz89: posts big blind $0.02
+gvpRS: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 9h]
+VicSas29: folds 
+frosa9397: folds 
+Tweedy620: calls $0.02
+Dorex2007: folds 
+CarloMurillo: folds 
+Il0vebear: calls $0.01
+Tobiz89: raises $0.10 to $0.12
+Tweedy620: folds 
+Il0vebear: folds 
+Uncalled bet ($0.10) returned to Tobiz89
+Tobiz89 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 2: VicSas29 folded before Flop (didn't bet)
+Seat 3: frosa9397 folded before Flop (didn't bet)
+Seat 4: Tweedy620 folded before Flop
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 7: CarloMurillo (button) folded before Flop (didn't bet)
+Seat 8: Il0vebear (small blind) folded before Flop
+Seat 9: Tobiz89 (big blind) collected ($0.06)
+
+
+
+PokerStars Hand #237308519078:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:15:30 PT [2022/07/12 0:15:30 ET]
+Table 'Acubens III' 9-max Seat #8 is the button
+Seat 1: gvpRS ($0.80 in chips) 
+Seat 2: VicSas29 ($4.97 in chips) 
+Seat 3: frosa9397 ($1.85 in chips) 
+Seat 4: Tweedy620 ($2.57 in chips) 
+Seat 5: Dorex2007 ($2.08 in chips) 
+Seat 7: CarloMurillo ($3.22 in chips) 
+Seat 8: Il0vebear ($2 in chips) 
+Seat 9: Tobiz89 ($2.04 in chips) 
+Tobiz89: posts small blind $0.01
+gvpRS: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Kc]
+VicSas29: folds 
+frosa9397: folds 
+Tweedy620: folds 
+Dorex2007: raises $0.04 to $0.06
+CarloMurillo: folds 
+Il0vebear: folds 
+Tobiz89: folds 
+gvpRS: calls $0.04
+*** FLOP *** [Jh Jd 6h]
+gvpRS: checks 
+Dorex2007: bets $0.13
+gvpRS: folds 
+Uncalled bet ($0.13) returned to Dorex2007
+Dorex2007 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Jh Jd 6h]
+Seat 1: gvpRS (big blind) folded on the Flop
+Seat 2: VicSas29 folded before Flop (didn't bet)
+Seat 3: frosa9397 folded before Flop (didn't bet)
+Seat 4: Tweedy620 folded before Flop (didn't bet)
+Seat 5: Dorex2007 collected ($0.13)
+Seat 7: CarloMurillo folded before Flop (didn't bet)
+Seat 8: Il0vebear (button) folded before Flop (didn't bet)
+Seat 9: Tobiz89 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237308523991:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:16:10 PT [2022/07/12 0:16:10 ET]
+Table 'Acubens III' 9-max Seat #9 is the button
+Seat 1: gvpRS ($0.74 in chips) 
+Seat 2: VicSas29 ($4.97 in chips) 
+Seat 3: frosa9397 ($1.85 in chips) 
+Seat 4: Tweedy620 ($2.57 in chips) 
+Seat 5: Dorex2007 ($2.15 in chips) 
+Seat 7: CarloMurillo ($3.22 in chips) 
+Seat 8: Il0vebear ($2 in chips) 
+Seat 9: Tobiz89 ($2.03 in chips) 
+gvpRS: posts small blind $0.01
+VicSas29: posts big blind $0.02
+PatRoast: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 4h]
+frosa9397: calls $0.02
+Tweedy620: folds 
+Dorex2007: folds 
+CarloMurillo: folds 
+Il0vebear: calls $0.02
+Tobiz89: folds 
+gvpRS: calls $0.01
+VicSas29: checks 
+*** FLOP *** [2c 4c 8h]
+gvpRS: checks 
+VicSas29: checks 
+frosa9397: checks 
+Il0vebear: checks 
+*** TURN *** [2c 4c 8h] [9d]
+gvpRS: checks 
+VicSas29: checks 
+frosa9397: checks 
+Il0vebear: checks 
+*** RIVER *** [2c 4c 8h 9d] [Jh]
+gvpRS: checks 
+VicSas29: bets $0.08
+frosa9397: folds 
+Il0vebear: folds 
+gvpRS: folds 
+Uncalled bet ($0.08) returned to VicSas29
+VicSas29 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [2c 4c 8h 9d Jh]
+Seat 1: gvpRS (small blind) folded on the River
+Seat 2: VicSas29 (big blind) collected ($0.08)
+Seat 3: frosa9397 folded on the River
+Seat 4: Tweedy620 folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 7: CarloMurillo folded before Flop (didn't bet)
+Seat 8: Il0vebear folded on the River
+Seat 9: Tobiz89 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237308534071:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:17:33 PT [2022/07/12 0:17:33 ET]
+Table 'Acubens III' 9-max Seat #1 is the button
+Seat 1: gvpRS ($0.72 in chips) 
+Seat 2: VicSas29 ($5.03 in chips) 
+Seat 3: frosa9397 ($1.83 in chips) 
+Seat 4: Tweedy620 ($2.57 in chips) 
+Seat 5: Dorex2007 ($2.15 in chips) 
+Seat 7: CarloMurillo ($3.22 in chips) 
+Seat 8: Il0vebear ($2 in chips) 
+Seat 9: Tobiz89 ($2.03 in chips) 
+VicSas29: posts small blind $0.01
+frosa9397: posts big blind $0.02
+PatRoast: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 4s]
+Tweedy620: folds 
+Dorex2007: folds 
+CarloMurillo: folds 
+Il0vebear: folds 
+Tobiz89: raises $0.03 to $0.05
+gvpRS: folds 
+VicSas29: calls $0.04
+frosa9397: folds 
+*** FLOP *** [Qs Ad 4h]
+VicSas29: checks 
+Tobiz89: bets $0.08
+VicSas29: folds 
+Uncalled bet ($0.08) returned to Tobiz89
+Tobiz89 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Qs Ad 4h]
+Seat 1: gvpRS (button) folded before Flop (didn't bet)
+Seat 2: VicSas29 (small blind) folded on the Flop
+Seat 3: frosa9397 (big blind) folded before Flop
+Seat 4: Tweedy620 folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 7: CarloMurillo folded before Flop (didn't bet)
+Seat 8: Il0vebear folded before Flop (didn't bet)
+Seat 9: Tobiz89 collected ($0.12)
+
+
+
+PokerStars Hand #237308540865:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:18:28 PT [2022/07/12 0:18:28 ET]
+Table 'Acubens III' 9-max Seat #2 is the button
+Seat 1: gvpRS ($0.72 in chips) 
+Seat 2: VicSas29 ($4.98 in chips) 
+Seat 3: frosa9397 ($1.81 in chips) 
+Seat 4: Tweedy620 ($2.57 in chips) 
+Seat 5: Dorex2007 ($2.15 in chips) 
+Seat 7: CarloMurillo ($3.22 in chips) 
+Seat 8: Il0vebear ($2 in chips) 
+Seat 9: Tobiz89 ($2.10 in chips) 
+frosa9397: posts small blind $0.01
+Tweedy620: posts big blind $0.02
+PatRoast: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Ac]
+Dorex2007: folds 
+CarloMurillo: folds 
+Il0vebear: folds 
+Tobiz89: folds 
+gvpRS: folds 
+VicSas29: folds 
+frosa9397: calls $0.01
+Tweedy620: checks 
+*** FLOP *** [Tc 3d Ks]
+frosa9397: checks 
+Tweedy620: bets $0.06
+frosa9397: folds 
+Uncalled bet ($0.06) returned to Tweedy620
+Tweedy620 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Tc 3d Ks]
+Seat 1: gvpRS folded before Flop (didn't bet)
+Seat 2: VicSas29 (button) folded before Flop (didn't bet)
+Seat 3: frosa9397 (small blind) folded on the Flop
+Seat 4: Tweedy620 (big blind) collected ($0.04)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 7: CarloMurillo folded before Flop (didn't bet)
+Seat 8: Il0vebear folded before Flop (didn't bet)
+Seat 9: Tobiz89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237308544927:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:19:02 PT [2022/07/12 0:19:02 ET]
+Table 'Acubens III' 9-max Seat #3 is the button
+Seat 2: VicSas29 ($4.98 in chips) 
+Seat 3: frosa9397 ($1.79 in chips) 
+Seat 4: Tweedy620 ($2.59 in chips) 
+Seat 5: Dorex2007 ($2.15 in chips) 
+Seat 7: CarloMurillo ($3.22 in chips) 
+Seat 8: Il0vebear ($2 in chips) 
+Seat 9: Tobiz89 ($2.10 in chips) 
+Tweedy620: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+PatRoast: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 5c]
+CarloMurillo: raises $0.04 to $0.06
+Il0vebear: folds 
+Tobiz89: folds 
+VicSas29: folds 
+frosa9397: folds 
+Tweedy620: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to CarloMurillo
+CarloMurillo collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: VicSas29 folded before Flop (didn't bet)
+Seat 3: frosa9397 (button) folded before Flop (didn't bet)
+Seat 4: Tweedy620 (small blind) folded before Flop
+Seat 5: Dorex2007 (big blind) folded before Flop
+Seat 7: CarloMurillo collected ($0.05)
+Seat 8: Il0vebear folded before Flop (didn't bet)
+Seat 9: Tobiz89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237308547516:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:19:23 PT [2022/07/12 0:19:23 ET]
+Table 'Acubens III' 9-max Seat #4 is the button
+Seat 2: VicSas29 ($4.98 in chips) 
+Seat 3: frosa9397 ($1.79 in chips) 
+Seat 4: Tweedy620 ($2.58 in chips) 
+Seat 5: Dorex2007 ($2.13 in chips) 
+Seat 6: PatRoast ($4.13 in chips) 
+Seat 7: CarloMurillo ($3.25 in chips) 
+Seat 8: Il0vebear ($2 in chips) 
+Seat 9: Tobiz89 ($2.10 in chips) 
+Dorex2007: posts small blind $0.01
+PatRoast: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 2s]
+CarloMurillo: raises $0.02 to $0.04
+Il0vebear: folds 
+Tobiz89: calls $0.04
+VicSas29: folds 
+frosa9397: calls $0.04
+Tweedy620: calls $0.04
+Dorex2007: calls $0.03
+PatRoast: folds 
+*** FLOP *** [Ac 3h 2d]
+Dorex2007: checks 
+CarloMurillo: checks 
+Tobiz89: checks 
+frosa9397: checks 
+Tweedy620: checks 
+*** TURN *** [Ac 3h 2d] [Th]
+Dorex2007: bets $0.10
+CarloMurillo: folds 
+Tobiz89: folds 
+frosa9397: folds 
+Tweedy620: folds 
+Uncalled bet ($0.10) returned to Dorex2007
+Dorex2007 collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Ac 3h 2d Th]
+Seat 2: VicSas29 folded before Flop (didn't bet)
+Seat 3: frosa9397 folded on the Turn
+Seat 4: Tweedy620 (button) folded on the Turn
+Seat 5: Dorex2007 (small blind) collected ($0.21)
+Seat 6: PatRoast (big blind) folded before Flop
+Seat 7: CarloMurillo folded on the Turn
+Seat 8: Il0vebear folded before Flop (didn't bet)
+Seat 9: Tobiz89 folded on the Turn
+
+
+
+PokerStars Hand #237308557825:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:20:48 PT [2022/07/12 0:20:48 ET]
+Table 'Acubens III' 9-max Seat #5 is the button
+Seat 3: frosa9397 ($1.75 in chips) 
+Seat 4: Tweedy620 ($2.54 in chips) 
+Seat 5: Dorex2007 ($2.30 in chips) 
+Seat 6: PatRoast ($4.11 in chips) 
+Seat 7: CarloMurillo ($3.21 in chips) 
+Seat 8: Il0vebear ($2 in chips) 
+Seat 9: Tobiz89 ($2.06 in chips) 
+PatRoast: posts small blind $0.01
+CarloMurillo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 7s]
+Il0vebear: raises $0.04 to $0.06
+Tobiz89: folds 
+VicSas29 leaves the table
+frosa9397: folds 
+Tweedy620: folds 
+Dorex2007: folds 
+PatRoast: folds 
+CarloMurillo: calls $0.04
+*** FLOP *** [Qc Ac Td]
+CarloMurillo: checks 
+Il0vebear: checks 
+*** TURN *** [Qc Ac Td] [3s]
+CarloMurillo: checks 
+Il0vebear: checks 
+*** RIVER *** [Qc Ac Td 3s] [Tc]
+CarloMurillo: checks 
+Il0vebear: checks 
+*** SHOW DOWN ***
+CarloMurillo: shows [6d 6h] (two pair, Tens and Sixes)
+Il0vebear: shows [9h 9c] (two pair, Tens and Nines)
+Il0vebear collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qc Ac Td 3s Tc]
+Seat 3: frosa9397 folded before Flop (didn't bet)
+Seat 4: Tweedy620 folded before Flop (didn't bet)
+Seat 5: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 6: PatRoast (small blind) folded before Flop
+Seat 7: CarloMurillo (big blind) showed [6d 6h] and lost with two pair, Tens and Sixes
+Seat 8: Il0vebear showed [9h 9c] and won ($0.13) with two pair, Tens and Nines
+Seat 9: Tobiz89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237308561586:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:21:19 PT [2022/07/12 0:21:19 ET]
+Table 'Acubens III' 9-max Seat #6 is the button
+Seat 3: frosa9397 ($1.75 in chips) 
+Seat 4: Tweedy620 ($2.54 in chips) 
+Seat 5: Dorex2007 ($2.30 in chips) 
+Seat 6: PatRoast ($4.10 in chips) 
+Seat 7: CarloMurillo ($3.15 in chips) 
+Seat 9: Tobiz89 ($2.06 in chips) 
+CarloMurillo: posts small blind $0.01
+Il0vebear: is sitting out 
+Tobiz89: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 7h]
+Il0vebear leaves the table
+frosa9397: folds 
+Tweedy620: folds 
+Dorex2007: folds 
+PatRoast: folds 
+CarloMurillo: folds 
+Uncalled bet ($0.01) returned to Tobiz89
+CarloMurillo leaves the table
+Tobiz89 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: frosa9397 folded before Flop (didn't bet)
+Seat 4: Tweedy620 folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: PatRoast (button) folded before Flop (didn't bet)
+Seat 7: CarloMurillo (small blind) folded before Flop
+Seat 9: Tobiz89 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #237308562884:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:21:30 PT [2022/07/12 0:21:30 ET]
+Table 'Acubens III' 9-max Seat #9 is the button
+Seat 3: frosa9397 ($1.75 in chips) 
+Seat 5: Dorex2007 ($2.30 in chips) 
+Seat 6: PatRoast ($4.10 in chips) 
+Seat 9: Tobiz89 ($2.07 in chips) 
+frosa9397: posts small blind $0.01
+Tweedy620: is sitting out 
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Ac]
+PatRoast: folds 
+Tobiz89: raises $0.03 to $0.05
+frosa9397: folds 
+Dorex2007: calls $0.03
+*** FLOP *** [As 9c Qd]
+Dorex2007: bets $0.07
+Tobiz89: calls $0.07
+*** TURN *** [As 9c Qd] [Qh]
+Dorex2007: bets $0.12
+Tobiz89: folds 
+Uncalled bet ($0.12) returned to Dorex2007
+Dorex2007 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [As 9c Qd Qh]
+Seat 3: frosa9397 (small blind) folded before Flop
+Seat 5: Dorex2007 (big blind) collected ($0.24)
+Seat 6: PatRoast folded before Flop (didn't bet)
+Seat 9: Tobiz89 (button) folded on the Turn
+
+
+
+PokerStars Hand #237308567974:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:22:12 PT [2022/07/12 0:22:12 ET]
+Table 'Acubens III' 9-max Seat #3 is the button
+Seat 1: gvpRS ($0.72 in chips) 
+Seat 3: frosa9397 ($1.74 in chips) 
+Seat 5: Dorex2007 ($2.42 in chips) 
+Seat 6: PatRoast ($4.10 in chips) 
+Seat 9: Tobiz89 ($2 in chips) 
+Dorex2007: posts small blind $0.01
+PatRoast: posts big blind $0.02
+gvpRS: posts small blind $0.01
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Th]
+Tobiz89: folds 
+theperax joins the table at seat #2 
+gvpRS: folds 
+frosa9397: folds 
+Dorex2007: raises $0.04 to $0.06
+PatRoast: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: gvpRS folded before Flop (didn't bet)
+Seat 3: frosa9397 (button) folded before Flop (didn't bet)
+Seat 5: Dorex2007 (small blind) collected ($0.05)
+Seat 6: PatRoast (big blind) folded before Flop
+Seat 9: Tobiz89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237308571111:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:22:38 PT [2022/07/12 0:22:38 ET]
+Table 'Acubens III' 9-max Seat #5 is the button
+Seat 1: gvpRS ($0.71 in chips) 
+Seat 2: theperax ($1 in chips) 
+Seat 3: frosa9397 ($1.74 in chips) 
+Seat 5: Dorex2007 ($2.45 in chips) 
+Seat 6: PatRoast ($4.08 in chips) 
+PatRoast: posts small blind $0.01
+Tobiz89: is sitting out 
+gvpRS: posts big blind $0.02
+theperax: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Ad]
+Tobiz89 leaves the table
+theperax: raises $0.06 to $0.08
+frosa9397: folds 
+Dorex2007: folds 
+PatRoast: folds 
+gvpRS: calls $0.06
+*** FLOP *** [7d Qd 9h]
+gvpRS: checks 
+theperax: bets $0.08
+gvpRS: calls $0.08
+*** TURN *** [7d Qd 9h] [4c]
+gvpRS: checks 
+theperax: checks 
+*** RIVER *** [7d Qd 9h 4c] [3s]
+gvpRS: checks 
+theperax: bets $0.84 and is all-in
+Venezuelan Dmg joins the table at seat #7 
+gvpRS: folds 
+Uncalled bet ($0.84) returned to theperax
+theperax collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [7d Qd 9h 4c 3s]
+Seat 1: gvpRS (big blind) folded on the River
+Seat 2: theperax collected ($0.32)
+Seat 3: frosa9397 folded before Flop (didn't bet)
+Seat 5: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 6: PatRoast (small blind) folded before Flop
+
+
+
+PokerStars Hand #237308579007:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:23:44 PT [2022/07/12 0:23:44 ET]
+Table 'Acubens III' 9-max Seat #6 is the button
+Seat 1: gvpRS ($0.55 in chips) 
+Seat 2: theperax ($1.16 in chips) 
+Seat 3: frosa9397 ($1.74 in chips) 
+Seat 5: Dorex2007 ($2.45 in chips) 
+Seat 6: PatRoast ($4.07 in chips) 
+gvpRS: posts small blind $0.01
+theperax: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Jc]
+frosa9397 has timed out
+frosa9397: folds 
+Dorex2007: calls $0.02
+PatRoast: folds 
+frosa9397 is disconnected 
+gvpRS: raises $0.06 to $0.08
+theperax: calls $0.06
+Dorex2007: calls $0.06
+*** FLOP *** [Tc 7s 8s]
+gvpRS: checks 
+theperax: bets $0.06
+Dorex2007: calls $0.06
+gvpRS: raises $0.25 to $0.31
+theperax: calls $0.25
+Dorex2007: folds 
+*** TURN *** [Tc 7s 8s] [6c]
+gvpRS: bets $0.16 and is all-in
+theperax: calls $0.16
+*** RIVER *** [Tc 7s 8s 6c] [5s]
+*** SHOW DOWN ***
+gvpRS: shows [Jd Jh] (a pair of Jacks)
+theperax: shows [Kc 9d] (a straight, Six to Ten)
+theperax collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.24 | Rake $0.04 
+Board [Tc 7s 8s 6c 5s]
+Seat 1: gvpRS (small blind) showed [Jd Jh] and lost with a pair of Jacks
+Seat 2: theperax (big blind) showed [Kc 9d] and won ($1.20) with a straight, Six to Ten
+Seat 3: frosa9397 folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded on the Flop
+Seat 6: PatRoast (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237308594213:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:25:13 PT [2022/07/12 0:25:13 ET]
+Table 'Acubens III' 9-max Seat #2 is the button
+Seat 2: theperax ($1.81 in chips) 
+Seat 5: Dorex2007 ($2.31 in chips) 
+Seat 6: PatRoast ($4.07 in chips) 
+Seat 7: Venezuelan Dmg ($2 in chips) 
+Dorex2007: posts small blind $0.01
+PatRoast: posts big blind $0.02
+Venezuelan Dmg: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 2c]
+Venezuelan Dmg: raises $0.02 to $0.04
+gvpRS leaves the table
+theperax has timed out
+theperax: folds 
+Dorex2007: folds 
+PatRoast: calls $0.02
+*** FLOP *** [5h 3s Kh]
+PatRoast: checks 
+Venezuelan Dmg: checks 
+*** TURN *** [5h 3s Kh] [Qc]
+PatRoast: bets $0.06
+Venezuelan Dmg: folds 
+Uncalled bet ($0.06) returned to PatRoast
+PatRoast collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [5h 3s Kh Qc]
+Seat 2: theperax (button) folded before Flop (didn't bet)
+Seat 5: Dorex2007 (small blind) folded before Flop
+Seat 6: PatRoast (big blind) collected ($0.09)
+Seat 7: Venezuelan Dmg folded on the Turn
+
+
+
+PokerStars Hand #237308598632:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:25:50 PT [2022/07/12 0:25:50 ET]
+Table 'Acubens III' 9-max Seat #5 is the button
+Seat 2: theperax ($1.81 in chips) 
+Seat 5: Dorex2007 ($2.30 in chips) 
+Seat 6: PatRoast ($4.12 in chips) 
+Seat 7: Venezuelan Dmg ($1.96 in chips) 
+PatRoast: posts small blind $0.01
+Venezuelan Dmg: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 3d]
+theperax: raises $0.06 to $0.08
+Dorex2007: folds 
+PatRoast: folds 
+Venezuelan Dmg: folds 
+Uncalled bet ($0.06) returned to theperax
+theperax collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: theperax collected ($0.05)
+Seat 5: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 6: PatRoast (small blind) folded before Flop
+Seat 7: Venezuelan Dmg (big blind) folded before Flop
+
+
+
+PokerStars Hand #237308600742:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/11 21:26:07 PT [2022/07/12 0:26:07 ET]
+Table 'Acubens III' 9-max Seat #6 is the button
+Seat 2: theperax ($1.84 in chips) 
+Seat 5: Dorex2007 ($2.30 in chips) 
+Seat 6: PatRoast ($4.11 in chips) 
+Seat 7: Venezuelan Dmg ($1.94 in chips) 
+Venezuelan Dmg: posts small blind $0.01
+theperax: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 9c]
+Dorex2007: folds 
+PatRoast: folds 
+Venezuelan Dmg: raises $0.02 to $0.04
+theperax: calls $0.02
+*** FLOP *** [Td 6c 2s]
+Venezuelan Dmg: checks 
+theperax: bets $0.10
+Venezuelan Dmg: raises $0.11 to $0.21
+theperax: calls $0.11
+*** TURN *** [Td 6c 2s] [4d]
+dhabiles52 joins the table at seat #1 
+Venezuelan Dmg: bets $0.36
+theperax: folds 
+Uncalled bet ($0.36) returned to Venezuelan Dmg
+Venezuelan Dmg collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Td 6c 2s 4d]
+Seat 2: theperax (big blind) folded on the Turn
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: PatRoast (button) folded before Flop (didn't bet)
+Seat 7: Venezuelan Dmg (small blind) collected ($0.48)
+
+
+
