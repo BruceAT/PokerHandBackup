@@ -1,0 +1,906 @@
+﻿PokerStars Hand #237366785091:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/14 21:13:25 PT [2022/07/15 0:13:25 ET]
+Table 'Pythia IV' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: GSANTOS0711 ($2.82 in chips) 
+Seat 3: santano ($1.96 in chips) 
+Seat 4: kio_kkk ($2.09 in chips) 
+Seat 5: PatRoast ($3.21 in chips) 
+Seat 6: Colt_BLR ($2.56 in chips) 
+Seat 7: pinkerson ($0.40 in chips) 
+Seat 8: erlis82 ($0.76 in chips) 
+Seat 9: tayde310 ($2.61 in chips) 
+santano: posts small blind $0.01
+kio_kkk: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 8h]
+PatRoast: folds 
+Colt_BLR: folds 
+pinkerson: calls $0.02
+erlis82: folds 
+tayde310: raises $0.07 to $0.09
+Dorex2007: folds 
+GSANTOS0711: folds 
+santano: folds 
+kio_kkk: folds 
+pinkerson: folds 
+Uncalled bet ($0.07) returned to tayde310
+tayde310 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: GSANTOS0711 (button) folded before Flop (didn't bet)
+Seat 3: santano (small blind) folded before Flop
+Seat 4: kio_kkk (big blind) folded before Flop
+Seat 5: PatRoast folded before Flop (didn't bet)
+Seat 6: Colt_BLR folded before Flop (didn't bet)
+Seat 7: pinkerson folded before Flop
+Seat 8: erlis82 folded before Flop (didn't bet)
+Seat 9: tayde310 collected ($0.09)
+
+
+
+PokerStars Hand #237366788750:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/14 21:13:54 PT [2022/07/15 0:13:54 ET]
+Table 'Pythia IV' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: GSANTOS0711 ($2.82 in chips) 
+Seat 3: santano ($1.95 in chips) 
+Seat 4: kio_kkk ($2.07 in chips) 
+Seat 5: PatRoast ($3.21 in chips) 
+Seat 6: Colt_BLR ($2.56 in chips) 
+Seat 7: pinkerson ($0.38 in chips) 
+Seat 8: erlis82 ($0.76 in chips) 
+Seat 9: tayde310 ($2.68 in chips) 
+kio_kkk: posts small blind $0.01
+PatRoast: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 4c]
+Colt_BLR: folds 
+pinkerson: calls $0.02
+erlis82: calls $0.02
+tayde310: folds 
+Dorex2007: folds 
+GSANTOS0711: folds 
+santano: calls $0.02
+kio_kkk: calls $0.01
+PatRoast: checks 
+*** FLOP *** [4d Tc Ac]
+kio_kkk: checks 
+PatRoast: checks 
+pinkerson: checks 
+erlis82: checks 
+santano: bets $0.06
+kio_kkk: folds 
+PatRoast: folds 
+pinkerson: calls $0.06
+erlis82: folds 
+*** TURN *** [4d Tc Ac] [Ah]
+pinkerson: checks 
+santano: bets $0.06
+pinkerson: folds 
+Uncalled bet ($0.06) returned to santano
+santano collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [4d Tc Ac Ah]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: GSANTOS0711 folded before Flop (didn't bet)
+Seat 3: santano (button) collected ($0.21)
+Seat 4: kio_kkk (small blind) folded on the Flop
+Seat 5: PatRoast (big blind) folded on the Flop
+Seat 6: Colt_BLR folded before Flop (didn't bet)
+Seat 7: pinkerson folded on the Turn
+Seat 8: erlis82 folded on the Flop
+Seat 9: tayde310 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237366794832:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/14 21:14:42 PT [2022/07/15 0:14:42 ET]
+Table 'Pythia IV' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: GSANTOS0711 ($2.82 in chips) 
+Seat 3: santano ($2.08 in chips) 
+Seat 4: kio_kkk ($2.05 in chips) 
+Seat 5: PatRoast ($3.19 in chips) 
+Seat 7: pinkerson ($0.30 in chips) 
+Seat 8: erlis82 ($0.74 in chips) 
+Seat 9: tayde310 ($2.68 in chips) 
+PatRoast: posts small blind $0.01
+Colt_BLR: is sitting out 
+pinkerson: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Td]
+erlis82: folds 
+Colt_BLR leaves the table
+tayde310: folds 
+Dorex2007: calls $0.02
+GSANTOS0711: folds 
+santano: folds 
+kio_kkk: folds 
+PatRoast: folds 
+pinkerson: checks 
+*** FLOP *** [9c 9s Js]
+pinkerson: checks 
+Dorex2007: checks 
+*** TURN *** [9c 9s Js] [Kd]
+pinkerson: checks 
+Dorex2007: checks 
+*** RIVER *** [9c 9s Js Kd] [6d]
+a.crowley23 joins the table at seat #6 
+pinkerson: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+pinkerson: shows [4c Qc] (a pair of Nines)
+Dorex2007: shows [As Td] (a pair of Nines - Ace kicker)
+Dorex2007 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9c 9s Js Kd 6d]
+Seat 1: Dorex2007 showed [As Td] and won ($0.05) with a pair of Nines
+Seat 2: GSANTOS0711 folded before Flop (didn't bet)
+Seat 3: santano folded before Flop (didn't bet)
+Seat 4: kio_kkk (button) folded before Flop (didn't bet)
+Seat 5: PatRoast (small blind) folded before Flop
+Seat 7: pinkerson (big blind) showed [4c Qc] and lost with a pair of Nines
+Seat 8: erlis82 folded before Flop (didn't bet)
+Seat 9: tayde310 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237366799426:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/14 21:15:18 PT [2022/07/15 0:15:18 ET]
+Table 'Pythia IV' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2.03 in chips) 
+Seat 2: GSANTOS0711 ($2.82 in chips) 
+Seat 3: santano ($2.08 in chips) 
+Seat 4: kio_kkk ($2.05 in chips) 
+Seat 5: PatRoast ($3.18 in chips) 
+Seat 7: pinkerson ($0.28 in chips) 
+Seat 8: erlis82 ($0.74 in chips) 
+Seat 9: tayde310 ($2.68 in chips) 
+pinkerson: posts small blind $0.01
+erlis82: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Ah]
+tayde310: folds 
+Dorex2007: folds 
+GSANTOS0711: raises $0.02 to $0.04
+santano: folds 
+kio_kkk has timed out
+kio_kkk: folds 
+PatRoast: folds 
+pinkerson: folds 
+erlis82: folds 
+Uncalled bet ($0.02) returned to GSANTOS0711
+GSANTOS0711 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: GSANTOS0711 collected ($0.05)
+Seat 3: santano folded before Flop (didn't bet)
+Seat 4: kio_kkk folded before Flop (didn't bet)
+Seat 5: PatRoast (button) folded before Flop (didn't bet)
+Seat 7: pinkerson (small blind) folded before Flop
+Seat 8: erlis82 (big blind) folded before Flop
+Seat 9: tayde310 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237366803855:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/14 21:15:53 PT [2022/07/15 0:15:53 ET]
+Table 'Pythia IV' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2.03 in chips) 
+Seat 2: GSANTOS0711 ($2.85 in chips) 
+Seat 3: santano ($2.08 in chips) 
+Seat 5: PatRoast ($3.18 in chips) 
+Seat 7: pinkerson ($0.27 in chips) 
+Seat 8: erlis82 ($0.72 in chips) 
+Seat 9: tayde310 ($2.68 in chips) 
+erlis82: posts small blind $0.01
+tayde310: posts big blind $0.02
+a.crowley23: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 3d]
+Dorex2007: folds 
+GSANTOS0711: folds 
+santano: calls $0.02
+PatRoast: folds 
+pinkerson: raises $0.04 to $0.06
+erlis82: calls $0.05
+tayde310: folds 
+santano: calls $0.04
+*** FLOP *** [Jh 2h Qd]
+erlis82: checks 
+santano: checks 
+pinkerson: checks 
+*** TURN *** [Jh 2h Qd] [Qc]
+erlis82: checks 
+santano: checks 
+pinkerson: checks 
+*** RIVER *** [Jh 2h Qd Qc] [Td]
+erlis82: checks 
+santano: checks 
+pinkerson: checks 
+*** SHOW DOWN ***
+erlis82: shows [As 5h] (a pair of Queens)
+santano: mucks hand 
+pinkerson: mucks hand 
+erlis82 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Jh 2h Qd Qc Td]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: GSANTOS0711 folded before Flop (didn't bet)
+Seat 3: santano mucked [4c 7c]
+Seat 5: PatRoast folded before Flop (didn't bet)
+Seat 7: pinkerson (button) mucked [5d 8h]
+Seat 8: erlis82 (small blind) showed [As 5h] and won ($0.19) with a pair of Queens
+Seat 9: tayde310 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237366813637:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/14 21:17:10 PT [2022/07/15 0:17:10 ET]
+Table 'Pythia IV' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2.03 in chips) 
+Seat 2: GSANTOS0711 ($2.85 in chips) 
+Seat 3: santano ($2.02 in chips) 
+Seat 4: kio_kkk ($2.05 in chips) 
+Seat 5: PatRoast ($3.18 in chips) 
+Seat 7: pinkerson ($0.21 in chips) 
+Seat 8: erlis82 ($0.85 in chips) 
+Seat 9: tayde310 ($2.66 in chips) 
+tayde310: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+a.crowley23: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Td]
+GSANTOS0711: calls $0.02
+santano: calls $0.02
+kio_kkk: calls $0.02
+PatRoast: folds 
+pinkerson: folds 
+pinkerson leaves the table
+erlis82: folds 
+tayde310: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [8d 9h Kc]
+tayde310: checks 
+Dorex2007: checks 
+GSANTOS0711: checks 
+santano: checks 
+kio_kkk: checks 
+*** TURN *** [8d 9h Kc] [Th]
+tayde310: checks 
+Dorex2007: checks 
+GSANTOS0711: bets $0.10
+abufirs joins the table at seat #7 
+santano: calls $0.10
+kio_kkk: folds 
+tayde310: folds 
+Dorex2007: folds 
+*** RIVER *** [8d 9h Kc Th] [8s]
+GSANTOS0711: checks 
+santano: checks 
+*** SHOW DOWN ***
+GSANTOS0711: shows [Ac 2h] (a pair of Eights)
+santano: shows [Ah 3h] (a pair of Eights)
+GSANTOS0711 collected $0.15 from pot
+santano collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [8d 9h Kc Th 8s]
+Seat 1: Dorex2007 (big blind) folded on the Turn
+Seat 2: GSANTOS0711 showed [Ac 2h] and won ($0.15) with a pair of Eights
+Seat 3: santano showed [Ah 3h] and won ($0.14) with a pair of Eights
+Seat 4: kio_kkk folded on the Turn
+Seat 5: PatRoast folded before Flop (didn't bet)
+Seat 7: pinkerson folded before Flop (didn't bet)
+Seat 8: erlis82 (button) folded before Flop (didn't bet)
+Seat 9: tayde310 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #237366822251:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/14 21:18:17 PT [2022/07/15 0:18:17 ET]
+Table 'Pythia IV' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2.01 in chips) 
+Seat 2: GSANTOS0711 ($2.88 in chips) 
+Seat 3: santano ($2.04 in chips) 
+Seat 4: kio_kkk ($2.03 in chips) 
+Seat 5: PatRoast ($3.18 in chips) 
+Seat 6: a.crowley23 ($2 in chips) 
+Seat 8: erlis82 ($0.85 in chips) 
+Seat 9: tayde310 ($2.64 in chips) 
+Dorex2007: posts small blind $0.01
+GSANTOS0711: posts big blind $0.02
+a.crowley23: posts big blind $0.02
+abufirs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 6d]
+santano: folds 
+kio_kkk: folds 
+PatRoast: folds 
+a.crowley23: raises $0.04 to $0.06
+erlis82: calls $0.06
+tayde310: raises $0.18 to $0.24
+Dorex2007: folds 
+GSANTOS0711: folds 
+a.crowley23: calls $0.18
+erlis82: folds 
+*** FLOP *** [5s 5h 6s]
+a.crowley23: bets $0.37
+tayde310: raises $2.03 to $2.40 and is all-in
+a.crowley23: folds 
+Uncalled bet ($2.03) returned to tayde310
+tayde310 collected $1.26 from pot
+*** SUMMARY ***
+Total pot $1.31 | Rake $0.05 
+Board [5s 5h 6s]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: GSANTOS0711 (big blind) folded before Flop
+Seat 3: santano folded before Flop (didn't bet)
+Seat 4: kio_kkk folded before Flop (didn't bet)
+Seat 5: PatRoast folded before Flop (didn't bet)
+Seat 6: a.crowley23 folded on the Flop
+Seat 8: erlis82 folded before Flop
+Seat 9: tayde310 (button) collected ($1.26)
+
+
+
+PokerStars Hand #237366829708:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/14 21:19:15 PT [2022/07/15 0:19:15 ET]
+Table 'Pythia IV' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: GSANTOS0711 ($2.86 in chips) 
+Seat 3: santano ($2.04 in chips) 
+Seat 4: kio_kkk ($2.03 in chips) 
+Seat 5: PatRoast ($3.18 in chips) 
+Seat 6: a.crowley23 ($2 in chips) 
+Seat 8: erlis82 ($0.79 in chips) 
+Seat 9: tayde310 ($3.29 in chips) 
+GSANTOS0711: posts small blind $0.01
+santano: posts big blind $0.02
+abufirs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s As]
+kio_kkk: folds 
+PatRoast: folds 
+a.crowley23: folds 
+erlis82: calls $0.02
+tayde310: raises $0.05 to $0.07
+Dorex2007: folds 
+GSANTOS0711: folds 
+santano: calls $0.05
+erlis82: calls $0.05
+*** FLOP *** [Kd 5s Ah]
+santano: checks 
+erlis82: bets $0.02
+tayde310: calls $0.02
+santano: folds 
+*** TURN *** [Kd 5s Ah] [Tc]
+erlis82: bets $0.12
+tayde310: calls $0.12
+*** RIVER *** [Kd 5s Ah Tc] [3d]
+erlis82: bets $0.24
+tayde310: folds 
+Uncalled bet ($0.24) returned to erlis82
+erlis82 collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Kd 5s Ah Tc 3d]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: GSANTOS0711 (small blind) folded before Flop
+Seat 3: santano (big blind) folded on the Flop
+Seat 4: kio_kkk folded before Flop (didn't bet)
+Seat 5: PatRoast folded before Flop (didn't bet)
+Seat 6: a.crowley23 folded before Flop (didn't bet)
+Seat 8: erlis82 collected ($0.48)
+Seat 9: tayde310 folded on the River
+
+
+
+PokerStars Hand #237366840985:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/14 21:20:32 PT [2022/07/15 0:20:32 ET]
+Table 'Pythia IV' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: GSANTOS0711 ($2.85 in chips) 
+Seat 3: santano ($1.97 in chips) 
+Seat 4: kio_kkk ($2.03 in chips) 
+Seat 5: PatRoast ($3.18 in chips) 
+Seat 6: a.crowley23 ($2 in chips) 
+Seat 8: erlis82 ($1.06 in chips) 
+Seat 9: tayde310 ($3.08 in chips) 
+santano: posts small blind $0.01
+kio_kkk: posts big blind $0.02
+abufirs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d Ah]
+PatRoast: folds 
+a.crowley23: raises $0.04 to $0.06
+erlis82: folds 
+tayde310: folds 
+Dorex2007: folds 
+GSANTOS0711: folds 
+santano: folds 
+kio_kkk: folds 
+Uncalled bet ($0.04) returned to a.crowley23
+a.crowley23 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: GSANTOS0711 (button) folded before Flop (didn't bet)
+Seat 3: santano (small blind) folded before Flop
+Seat 4: kio_kkk (big blind) folded before Flop
+Seat 5: PatRoast folded before Flop (didn't bet)
+Seat 6: a.crowley23 collected ($0.05)
+Seat 8: erlis82 folded before Flop (didn't bet)
+Seat 9: tayde310 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237366844639:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/14 21:21:01 PT [2022/07/15 0:21:01 ET]
+Table 'Pythia IV' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: GSANTOS0711 ($2.85 in chips) 
+Seat 3: santano ($1.96 in chips) 
+Seat 4: kio_kkk ($2.01 in chips) 
+Seat 5: PatRoast ($3.18 in chips) 
+Seat 6: a.crowley23 ($2.03 in chips) 
+Seat 8: erlis82 ($1.06 in chips) 
+Seat 9: tayde310 ($3.08 in chips) 
+kio_kkk: posts small blind $0.01
+PatRoast: posts big blind $0.02
+abufirs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Ts]
+a.crowley23: folds 
+erlis82 has timed out
+erlis82: folds 
+tayde310: raises $0.03 to $0.05
+Dorex2007: folds 
+GSANTOS0711: calls $0.05
+santano: calls $0.05
+kio_kkk: folds 
+PatRoast: folds 
+*** FLOP *** [Kh 5s 8s]
+tayde310: checks 
+GSANTOS0711: bets $0.17
+santano: calls $0.17
+tayde310: folds 
+*** TURN *** [Kh 5s 8s] [9d]
+GSANTOS0711: checks 
+santano: checks 
+*** RIVER *** [Kh 5s 8s 9d] [7d]
+GSANTOS0711: checks 
+santano: checks 
+*** SHOW DOWN ***
+GSANTOS0711: shows [Jd As] (high card Ace)
+santano: shows [4s 9s] (a pair of Nines)
+santano collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [Kh 5s 8s 9d 7d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: GSANTOS0711 showed [Jd As] and lost with high card Ace
+Seat 3: santano (button) showed [4s 9s] and won ($0.50) with a pair of Nines
+Seat 4: kio_kkk (small blind) folded before Flop
+Seat 5: PatRoast (big blind) folded before Flop
+Seat 6: a.crowley23 folded before Flop (didn't bet)
+Seat 8: erlis82 folded before Flop (didn't bet)
+Seat 9: tayde310 folded on the Flop
+
+
+
+PokerStars Hand #237366853306:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/14 21:22:10 PT [2022/07/15 0:22:10 ET]
+Table 'Pythia IV' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: GSANTOS0711 ($2.63 in chips) 
+Seat 3: santano ($2.24 in chips) 
+Seat 4: kio_kkk ($2 in chips) 
+Seat 5: PatRoast ($3.16 in chips) 
+Seat 6: a.crowley23 ($2.03 in chips) 
+Seat 8: erlis82 ($1.06 in chips) 
+Seat 9: tayde310 ($3.03 in chips) 
+PatRoast: posts small blind $0.01
+a.crowley23: posts big blind $0.02
+abufirs: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 2h]
+erlis82: folds 
+tayde310: folds 
+Dorex2007: folds 
+GSANTOS0711: folds 
+santano: calls $0.02
+kio_kkk: folds 
+PatRoast: folds 
+a.crowley23: checks 
+*** FLOP *** [8d Kd Th]
+a.crowley23: checks 
+santano: bets $0.06
+a.crowley23: folds 
+Uncalled bet ($0.06) returned to santano
+santano collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8d Kd Th]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: GSANTOS0711 folded before Flop (didn't bet)
+Seat 3: santano collected ($0.05)
+Seat 4: kio_kkk (button) folded before Flop (didn't bet)
+Seat 5: PatRoast (small blind) folded before Flop
+Seat 6: a.crowley23 (big blind) folded on the Flop
+Seat 8: erlis82 folded before Flop (didn't bet)
+Seat 9: tayde310 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237366857264:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/14 21:22:41 PT [2022/07/15 0:22:41 ET]
+Table 'Pythia IV' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: GSANTOS0711 ($2.63 in chips) 
+Seat 3: santano ($2.27 in chips) 
+Seat 4: kio_kkk ($2 in chips) 
+Seat 5: PatRoast ($3.15 in chips) 
+Seat 6: a.crowley23 ($2.01 in chips) 
+Seat 7: abufirs ($2 in chips) 
+Seat 8: erlis82 ($1.06 in chips) 
+Seat 9: tayde310 ($3.03 in chips) 
+a.crowley23: posts small blind $0.01
+abufirs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 9d]
+erlis82: folds 
+tayde310: folds 
+Dorex2007: folds 
+GSANTOS0711: folds 
+santano: folds 
+kio_kkk: folds 
+PatRoast: folds 
+a.crowley23: folds 
+Uncalled bet ($0.01) returned to abufirs
+abufirs collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: GSANTOS0711 folded before Flop (didn't bet)
+Seat 3: santano folded before Flop (didn't bet)
+Seat 4: kio_kkk folded before Flop (didn't bet)
+Seat 5: PatRoast (button) folded before Flop (didn't bet)
+Seat 6: a.crowley23 (small blind) folded before Flop
+Seat 7: abufirs (big blind) collected ($0.02)
+Seat 8: erlis82 folded before Flop (didn't bet)
+Seat 9: tayde310 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237366860165:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/14 21:23:04 PT [2022/07/15 0:23:04 ET]
+Table 'Pythia IV' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: GSANTOS0711 ($2.63 in chips) 
+Seat 3: santano ($2.27 in chips) 
+Seat 4: kio_kkk ($2 in chips) 
+Seat 5: PatRoast ($3.15 in chips) 
+Seat 6: a.crowley23 ($2 in chips) 
+Seat 7: abufirs ($2.01 in chips) 
+Seat 8: erlis82 ($1.06 in chips) 
+Seat 9: tayde310 ($3.03 in chips) 
+abufirs: posts small blind $0.01
+erlis82: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 5h]
+tayde310: folds 
+Dorex2007: folds 
+GSANTOS0711: folds 
+santano: folds 
+kio_kkk: raises $0.03 to $0.05
+PatRoast: folds 
+a.crowley23: folds 
+abufirs: calls $0.04
+erlis82: calls $0.03
+*** FLOP *** [8s 6h Td]
+abufirs: checks 
+erlis82: checks 
+kio_kkk: checks 
+*** TURN *** [8s 6h Td] [Qs]
+abufirs: checks 
+erlis82: checks 
+kio_kkk: checks 
+*** RIVER *** [8s 6h Td Qs] [Ks]
+abufirs: bets $0.07
+erlis82: folds 
+kio_kkk: raises $0.14 to $0.21
+abufirs: folds 
+Uncalled bet ($0.14) returned to kio_kkk
+kio_kkk collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [8s 6h Td Qs Ks]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: GSANTOS0711 folded before Flop (didn't bet)
+Seat 3: santano folded before Flop (didn't bet)
+Seat 4: kio_kkk collected ($0.28)
+Seat 5: PatRoast folded before Flop (didn't bet)
+Seat 6: a.crowley23 (button) folded before Flop (didn't bet)
+Seat 7: abufirs (small blind) folded on the River
+Seat 8: erlis82 (big blind) folded on the River
+Seat 9: tayde310 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237366871090:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/14 21:24:33 PT [2022/07/15 0:24:33 ET]
+Table 'Pythia IV' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: GSANTOS0711 ($2.63 in chips) 
+Seat 3: santano ($2.27 in chips) 
+Seat 4: kio_kkk ($2.16 in chips) 
+Seat 5: PatRoast ($3.15 in chips) 
+Seat 6: a.crowley23 ($2 in chips) 
+Seat 7: abufirs ($1.89 in chips) 
+Seat 8: erlis82 ($1.01 in chips) 
+Seat 9: tayde310 ($3.03 in chips) 
+erlis82: posts small blind $0.01
+tayde310: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 6c]
+Dorex2007: folds 
+GSANTOS0711: calls $0.02
+santano: calls $0.02
+kio_kkk: folds 
+PatRoast: calls $0.02
+a.crowley23: folds 
+abufirs: calls $0.02
+erlis82: calls $0.01
+tayde310: checks 
+*** FLOP *** [5s 4c 8d]
+erlis82: checks 
+tayde310: checks 
+GSANTOS0711: checks 
+santano: checks 
+PatRoast: checks 
+abufirs: checks 
+*** TURN *** [5s 4c 8d] [2h]
+erlis82: checks 
+tayde310: checks 
+GSANTOS0711: checks 
+santano: checks 
+PatRoast: checks 
+abufirs: checks 
+*** RIVER *** [5s 4c 8d 2h] [Qd]
+erlis82: bets $0.06
+tayde310: folds 
+GSANTOS0711: calls $0.06
+santano: folds 
+PatRoast: folds 
+abufirs: folds 
+*** SHOW DOWN ***
+erlis82: shows [Ah Qc] (a pair of Queens)
+GSANTOS0711: mucks hand 
+erlis82 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [5s 4c 8d 2h Qd]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: GSANTOS0711 mucked [Qs Tc]
+Seat 3: santano folded on the River
+Seat 4: kio_kkk folded before Flop (didn't bet)
+Seat 5: PatRoast folded on the River
+Seat 6: a.crowley23 folded before Flop (didn't bet)
+Seat 7: abufirs (button) folded on the River
+Seat 8: erlis82 (small blind) showed [Ah Qc] and won ($0.23) with a pair of Queens
+Seat 9: tayde310 (big blind) folded on the River
+
+
+
+PokerStars Hand #237366884302:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/14 21:26:19 PT [2022/07/15 0:26:19 ET]
+Table 'Pythia IV' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: GSANTOS0711 ($2.55 in chips) 
+Seat 3: santano ($2.25 in chips) 
+Seat 4: kio_kkk ($2.16 in chips) 
+Seat 5: PatRoast ($3.13 in chips) 
+Seat 6: a.crowley23 ($2 in chips) 
+Seat 7: abufirs ($1.87 in chips) 
+Seat 8: erlis82 ($1.16 in chips) 
+Seat 9: tayde310 ($3.01 in chips) 
+tayde310: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 6s]
+GSANTOS0711: folds 
+santano: folds 
+kio_kkk: folds 
+PatRoast: folds 
+a.crowley23: folds 
+abufirs: folds 
+erlis82: folds 
+tayde310: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Dorex2007 (big blind) collected ($0.02)
+Seat 2: GSANTOS0711 folded before Flop (didn't bet)
+Seat 3: santano folded before Flop (didn't bet)
+Seat 4: kio_kkk folded before Flop (didn't bet)
+Seat 5: PatRoast folded before Flop (didn't bet)
+Seat 6: a.crowley23 folded before Flop (didn't bet)
+Seat 7: abufirs folded before Flop (didn't bet)
+Seat 8: erlis82 (button) folded before Flop (didn't bet)
+Seat 9: tayde310 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237366886596:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/14 21:26:37 PT [2022/07/15 0:26:37 ET]
+Table 'Pythia IV' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($2.01 in chips) 
+Seat 2: GSANTOS0711 ($2.55 in chips) 
+Seat 3: santano ($2.25 in chips) 
+Seat 4: kio_kkk ($2.16 in chips) 
+Seat 5: PatRoast ($3.13 in chips) 
+Seat 6: a.crowley23 ($2 in chips) 
+Seat 7: abufirs ($1.87 in chips) 
+Seat 8: erlis82 ($1.16 in chips) 
+Seat 9: tayde310 ($3 in chips) 
+Dorex2007: posts small blind $0.01
+GSANTOS0711: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Ks]
+santano: folds 
+kio_kkk: folds 
+PatRoast: folds 
+a.crowley23: folds 
+abufirs: folds 
+erlis82: calls $0.02
+tayde310: folds 
+Dorex2007: folds 
+GSANTOS0711: checks 
+*** FLOP *** [3c 9s Qs]
+GSANTOS0711: checks 
+erlis82: checks 
+*** TURN *** [3c 9s Qs] [Th]
+GSANTOS0711: bets $0.05
+erlis82: folds 
+Uncalled bet ($0.05) returned to GSANTOS0711
+GSANTOS0711 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3c 9s Qs Th]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: GSANTOS0711 (big blind) collected ($0.05)
+Seat 3: santano folded before Flop (didn't bet)
+Seat 4: kio_kkk folded before Flop (didn't bet)
+Seat 5: PatRoast folded before Flop (didn't bet)
+Seat 6: a.crowley23 folded before Flop (didn't bet)
+Seat 7: abufirs folded before Flop (didn't bet)
+Seat 8: erlis82 folded on the Turn
+Seat 9: tayde310 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237366891374:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/14 21:27:16 PT [2022/07/15 0:27:16 ET]
+Table 'Pythia IV' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: GSANTOS0711 ($2.58 in chips) 
+Seat 3: santano ($2.25 in chips) 
+Seat 4: kio_kkk ($2.16 in chips) 
+Seat 5: PatRoast ($3.13 in chips) 
+Seat 6: a.crowley23 ($2 in chips) 
+Seat 7: abufirs ($1.87 in chips) 
+Seat 8: erlis82 ($1.14 in chips) 
+Seat 9: tayde310 ($3 in chips) 
+GSANTOS0711: posts small blind $0.01
+santano: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 9c]
+kio_kkk: folds 
+PatRoast: folds 
+a.crowley23: folds 
+abufirs: calls $0.02
+erlis82: calls $0.02
+kio_kkk leaves the table
+tayde310: raises $0.07 to $0.09
+Dorex2007: folds 
+GSANTOS0711: folds 
+alfreud777 joins the table at seat #4 
+santano: folds 
+abufirs: calls $0.07
+erlis82: folds 
+*** FLOP *** [9s 5d 7s]
+abufirs: checks 
+tayde310: bets $0.11
+erlis82 leaves the table
+abufirs: folds 
+Uncalled bet ($0.11) returned to tayde310
+tayde310 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [9s 5d 7s]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: GSANTOS0711 (small blind) folded before Flop
+Seat 3: santano (big blind) folded before Flop
+Seat 4: kio_kkk folded before Flop (didn't bet)
+Seat 5: PatRoast folded before Flop (didn't bet)
+Seat 6: a.crowley23 folded before Flop (didn't bet)
+Seat 7: abufirs folded on the Flop
+Seat 8: erlis82 folded before Flop
+Seat 9: tayde310 collected ($0.22)
+
+
+
+PokerStars Hand #237366898711:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/14 21:28:15 PT [2022/07/15 0:28:15 ET]
+Table 'Pythia IV' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: GSANTOS0711 ($2.57 in chips) 
+Seat 3: santano ($2.23 in chips) 
+Seat 4: alfreud777 ($2 in chips) 
+Seat 5: PatRoast ($3.13 in chips) 
+Seat 6: a.crowley23 ($2 in chips) 
+Seat 7: abufirs ($1.78 in chips) 
+Seat 9: tayde310 ($3.13 in chips) 
+santano: posts small blind $0.01
+alfreud777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 5c]
+PatRoast: folds 
+PatRoast leaves the table
+a.crowley23: raises $0.04 to $0.06
+abufirs: folds 
+tayde310: folds 
+Dorex2007: folds 
+GSANTOS0711: folds 
+santano: folds 
+alfreud777: calls $0.04
+*** FLOP *** [4h Ts 7h]
+alfreud777: bets $0.06
+a.crowley23: calls $0.06
+*** TURN *** [4h Ts 7h] [7c]
+alfreud777: bets $0.14
+a.crowley23: calls $0.14
+*** RIVER *** [4h Ts 7h 7c] [Qc]
+alfreud777: bets $0.51
+a.crowley23: folds 
+Uncalled bet ($0.51) returned to alfreud777
+alfreud777 collected $0.51 from pot
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [4h Ts 7h 7c Qc]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: GSANTOS0711 (button) folded before Flop (didn't bet)
+Seat 3: santano (small blind) folded before Flop
+Seat 4: alfreud777 (big blind) collected ($0.51)
+Seat 5: PatRoast folded before Flop (didn't bet)
+Seat 6: a.crowley23 folded on the River
+Seat 7: abufirs folded before Flop (didn't bet)
+Seat 9: tayde310 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237366907146:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/14 21:29:23 PT [2022/07/15 0:29:23 ET]
+Table 'Pythia IV' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($2 in chips) 
+Seat 2: GSANTOS0711 ($2.57 in chips) 
+Seat 3: santano ($2.22 in chips) 
+Seat 4: alfreud777 ($2.25 in chips) 
+Seat 7: abufirs ($1.78 in chips) 
+Seat 9: tayde310 ($3.13 in chips) 
+alfreud777: posts small blind $0.01
+a.crowley23: is sitting out 
+abufirs: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 2s]
+a.crowley23 leaves the table
+tayde310: folds 
+Dorex2007: folds 
+GSANTOS0711: folds 
+santano: folds 
+alfreud777: calls $0.01
+abufirs: raises $0.04 to $0.06
+alfreud777: folds 
+Uncalled bet ($0.04) returned to abufirs
+abufirs collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: GSANTOS0711 folded before Flop (didn't bet)
+Seat 3: santano (button) folded before Flop (didn't bet)
+Seat 4: alfreud777 (small blind) folded before Flop
+Seat 7: abufirs (big blind) collected ($0.04)
+Seat 9: tayde310 folded before Flop (didn't bet)
+
+
+
