@@ -1,0 +1,4778 @@
+﻿PokerStars Hand #237457957288:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:14:32 PT [2022/07/19 13:14:32 ET]
+Table 'Jugurtha III' 9-max Seat #1 is the button
+Seat 1: BezDopinga ($2.77 in chips) 
+Seat 2: STM32 ($4.20 in chips) 
+Seat 3: PHebi7 ($5.18 in chips) 
+Seat 4: VilpPS ($5.19 in chips) 
+Seat 5: Andry00701 ($4.24 in chips) 
+Seat 6: laurentis9 ($5 in chips) 
+Seat 7: NatureVince ($5.94 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+STM32: posts small blind $0.02
+PHebi7: posts big blind $0.05
+laurentis9: posts big blind $0.05
+Dorex2007: posts big blind $0.05
+aaron894: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 7d]
+VilpPS: folds 
+Andry00701: calls $0.05
+laurentis9: checks 
+NatureVince: folds 
+Dorex2007: checks 
+BezDopinga: folds 
+STM32: calls $0.03
+PHebi7: checks 
+*** FLOP *** [Ts Js 9s]
+STM32: checks 
+PHebi7: checks 
+Andry00701: checks 
+laurentis9: checks 
+Dorex2007: checks 
+*** TURN *** [Ts Js 9s] [3d]
+STM32: checks 
+PHebi7: checks 
+Andry00701: checks 
+laurentis9: checks 
+Dorex2007: checks 
+*** RIVER *** [Ts Js 9s 3d] [7c]
+STM32: checks 
+PHebi7: checks 
+Andry00701: checks 
+laurentis9: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+STM32: shows [5c Tc] (a pair of Tens)
+PHebi7: shows [Ad 8d] (a straight, Seven to Jack)
+Andry00701: mucks hand 
+laurentis9: mucks hand 
+Dorex2007: mucks hand 
+PHebi7 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ts Js 9s 3d 7c]
+Seat 1: BezDopinga (button) folded before Flop (didn't bet)
+Seat 2: STM32 (small blind) showed [5c Tc] and lost with a pair of Tens
+Seat 3: PHebi7 (big blind) showed [Ad 8d] and won ($0.24) with a straight, Seven to Jack
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Andry00701 mucked [Kh Th]
+Seat 6: laurentis9 mucked [2c 6h]
+Seat 7: NatureVince folded before Flop (didn't bet)
+Seat 8: Dorex2007 mucked [6s 7d]
+
+
+
+PokerStars Hand #237457975123:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:15:25 PT [2022/07/19 13:15:25 ET]
+Table 'Jugurtha III' 9-max Seat #2 is the button
+Seat 1: BezDopinga ($2.77 in chips) 
+Seat 2: STM32 ($4.20 in chips) 
+Seat 3: PHebi7 ($5.37 in chips) 
+Seat 4: VilpPS ($5.19 in chips) 
+Seat 5: Andry00701 ($4.19 in chips) 
+Seat 6: laurentis9 ($4.95 in chips) 
+Seat 7: NatureVince ($5.94 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+PHebi7: posts small blind $0.02
+VilpPS: posts big blind $0.05
+aaron894: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Kd]
+Andry00701: folds 
+laurentis9: calls $0.05
+NatureVince: folds 
+Dorex2007: calls $0.05
+BezDopinga: calls $0.05
+STM32: calls $0.05
+PHebi7: folds 
+VilpPS: checks 
+*** FLOP *** [5s Ac Ts]
+VilpPS: checks 
+laurentis9: bets $0.05
+Dorex2007: calls $0.05
+BezDopinga: raises $0.10 to $0.15
+STM32: calls $0.15
+VilpPS: calls $0.15
+laurentis9: calls $0.10
+Dorex2007: folds 
+*** TURN *** [5s Ac Ts] [6s]
+VilpPS: checks 
+laurentis9: checks 
+BezDopinga: checks 
+STM32: checks 
+*** RIVER *** [5s Ac Ts 6s] [2c]
+VilpPS: checks 
+laurentis9: bets $0.88
+BezDopinga: folds 
+STM32: folds 
+VilpPS: folds 
+Uncalled bet ($0.88) returned to laurentis9
+laurentis9 collected $0.88 from pot
+*** SUMMARY ***
+Total pot $0.92 | Rake $0.04 
+Board [5s Ac Ts 6s 2c]
+Seat 1: BezDopinga folded on the River
+Seat 2: STM32 (button) folded on the River
+Seat 3: PHebi7 (small blind) folded before Flop
+Seat 4: VilpPS (big blind) folded on the River
+Seat 5: Andry00701 folded before Flop (didn't bet)
+Seat 6: laurentis9 collected ($0.88)
+Seat 7: NatureVince folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded on the Flop
+
+
+
+PokerStars Hand #237458000628:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:16:41 PT [2022/07/19 13:16:41 ET]
+Table 'Jugurtha III' 9-max Seat #3 is the button
+Seat 1: BezDopinga ($2.57 in chips) 
+Seat 2: STM32 ($4.20 in chips) 
+Seat 3: PHebi7 ($5.35 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.19 in chips) 
+Seat 6: laurentis9 ($5.63 in chips) 
+Seat 7: NatureVince ($5.94 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+VilpPS: posts small blind $0.02
+Andry00701: posts big blind $0.05
+aaron894: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s Ts]
+laurentis9: folds 
+NatureVince: raises $0.10 to $0.15
+Dorex2007: folds 
+BezDopinga: folds 
+STM32: folds 
+PHebi7: folds 
+VilpPS: folds 
+Andry00701: folds 
+Uncalled bet ($0.10) returned to NatureVince
+NatureVince collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 2: STM32 folded before Flop (didn't bet)
+Seat 3: PHebi7 (button) folded before Flop (didn't bet)
+Seat 4: VilpPS (small blind) folded before Flop
+Seat 5: Andry00701 (big blind) folded before Flop
+Seat 6: laurentis9 folded before Flop (didn't bet)
+Seat 7: NatureVince collected ($0.12)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458008361:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:17:04 PT [2022/07/19 13:17:04 ET]
+Table 'Jugurtha III' 9-max Seat #4 is the button
+Seat 1: BezDopinga ($2.57 in chips) 
+Seat 2: STM32 ($4.20 in chips) 
+Seat 3: PHebi7 ($5.35 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.14 in chips) 
+Seat 6: laurentis9 ($5.63 in chips) 
+Seat 7: NatureVince ($6.01 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Andry00701: posts small blind $0.02
+laurentis9: posts big blind $0.05
+aaron894: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Td]
+NatureVince: folds 
+Dorex2007: folds 
+BezDopinga: folds 
+STM32: folds 
+PHebi7: folds 
+VilpPS: folds 
+Andry00701: folds 
+Uncalled bet ($0.03) returned to laurentis9
+laurentis9 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 2: STM32 folded before Flop (didn't bet)
+Seat 3: PHebi7 folded before Flop (didn't bet)
+Seat 4: VilpPS (button) folded before Flop (didn't bet)
+Seat 5: Andry00701 (small blind) folded before Flop
+Seat 6: laurentis9 (big blind) collected ($0.04)
+Seat 7: NatureVince folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458013050:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:17:18 PT [2022/07/19 13:17:18 ET]
+Table 'Jugurtha III' 9-max Seat #5 is the button
+Seat 1: BezDopinga ($2.57 in chips) 
+Seat 2: STM32 ($4.20 in chips) 
+Seat 3: PHebi7 ($5.35 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.12 in chips) 
+Seat 6: laurentis9 ($5.65 in chips) 
+Seat 7: NatureVince ($6.01 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+laurentis9: posts small blind $0.02
+NatureVince: posts big blind $0.05
+aaron894: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc As]
+Dorex2007: raises $0.10 to $0.15
+BezDopinga: folds 
+STM32: folds 
+PHebi7: folds 
+VilpPS: folds 
+Andry00701: folds 
+laurentis9: folds 
+NatureVince: calls $0.10
+*** FLOP *** [5h 4d Ad]
+NatureVince: checks 
+Dorex2007: bets $0.21
+NatureVince: folds 
+Uncalled bet ($0.21) returned to Dorex2007
+Dorex2007 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [5h 4d Ad]
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 2: STM32 folded before Flop (didn't bet)
+Seat 3: PHebi7 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Andry00701 (button) folded before Flop (didn't bet)
+Seat 6: laurentis9 (small blind) folded before Flop
+Seat 7: NatureVince (big blind) folded on the Flop
+Seat 8: Dorex2007 collected ($0.31)
+
+
+
+PokerStars Hand #237458019495:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:17:38 PT [2022/07/19 13:17:38 ET]
+Table 'Jugurtha III' 9-max Seat #6 is the button
+Seat 1: BezDopinga ($2.57 in chips) 
+Seat 2: STM32 ($4.20 in chips) 
+Seat 3: PHebi7 ($5.35 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.12 in chips) 
+Seat 6: laurentis9 ($5.63 in chips) 
+Seat 7: NatureVince ($5.86 in chips) 
+Seat 8: Dorex2007 ($5.16 in chips) 
+NatureVince: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+aaron894: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Js]
+BezDopinga: folds 
+STM32: folds 
+PHebi7: folds 
+VilpPS: raises $0.08 to $0.13
+Andry00701: folds 
+laurentis9: calls $0.13
+NatureVince: folds 
+Dorex2007: raises $0.32 to $0.45
+VilpPS: folds 
+laurentis9: calls $0.32
+*** FLOP *** [Ad Tc 5h]
+Dorex2007: bets $0.50
+laurentis9: calls $0.50
+*** TURN *** [Ad Tc 5h] [Th]
+Dorex2007: checks 
+laurentis9: bets $0.98
+Dorex2007: folds 
+Uncalled bet ($0.98) returned to laurentis9
+laurentis9 collected $1.96 from pot
+*** SUMMARY ***
+Total pot $2.05 | Rake $0.09 
+Board [Ad Tc 5h Th]
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 2: STM32 folded before Flop (didn't bet)
+Seat 3: PHebi7 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop
+Seat 5: Andry00701 folded before Flop (didn't bet)
+Seat 6: laurentis9 (button) collected ($1.96)
+Seat 7: NatureVince (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #237458039019:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:18:36 PT [2022/07/19 13:18:36 ET]
+Table 'Jugurtha III' 9-max Seat #7 is the button
+Seat 1: BezDopinga ($2.57 in chips) 
+Seat 2: STM32 ($4.20 in chips) 
+Seat 3: PHebi7 ($5.35 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.12 in chips) 
+Seat 6: laurentis9 ($6.64 in chips) 
+Seat 7: NatureVince ($5.84 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5 in chips) 
+Dorex2007: posts small blind $0.02
+aaron894: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 3h]
+BezDopinga: folds 
+STM32: folds 
+PHebi7: folds 
+VilpPS: folds 
+Andry00701: folds 
+laurentis9: folds 
+NatureVince: raises $0.07 to $0.12
+Dorex2007: folds 
+aaron894: calls $0.07
+*** FLOP *** [7h Ts Td]
+aaron894: checks 
+NatureVince: checks 
+*** TURN *** [7h Ts Td] [Jc]
+aaron894: checks 
+NatureVince: bets $0.15
+aaron894: folds 
+Uncalled bet ($0.15) returned to NatureVince
+NatureVince collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [7h Ts Td Jc]
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 2: STM32 folded before Flop (didn't bet)
+Seat 3: PHebi7 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Andry00701 folded before Flop (didn't bet)
+Seat 6: laurentis9 folded before Flop (didn't bet)
+Seat 7: NatureVince (button) collected ($0.25)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: aaron894 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #237458051939:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:19:14 PT [2022/07/19 13:19:14 ET]
+Table 'Jugurtha III' 9-max Seat #8 is the button
+Seat 1: BezDopinga ($2.57 in chips) 
+Seat 2: STM32 ($4.20 in chips) 
+Seat 3: PHebi7 ($5.35 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.12 in chips) 
+Seat 6: laurentis9 ($6.64 in chips) 
+Seat 7: NatureVince ($5.97 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($4.88 in chips) 
+aaron894: posts small blind $0.02
+BezDopinga: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 5d]
+STM32: folds 
+PHebi7: folds 
+VilpPS: folds 
+Andry00701: folds 
+laurentis9: folds 
+NatureVince: folds 
+Dorex2007: folds 
+aaron894: folds 
+Uncalled bet ($0.03) returned to BezDopinga
+BezDopinga collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: BezDopinga (big blind) collected ($0.04)
+Seat 2: STM32 folded before Flop (didn't bet)
+Seat 3: PHebi7 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Andry00701 folded before Flop (didn't bet)
+Seat 6: laurentis9 folded before Flop (didn't bet)
+Seat 7: NatureVince folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: aaron894 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237458055809:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:19:26 PT [2022/07/19 13:19:26 ET]
+Table 'Jugurtha III' 9-max Seat #9 is the button
+Seat 1: BezDopinga ($2.59 in chips) 
+Seat 3: PHebi7 ($5.35 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.12 in chips) 
+Seat 6: laurentis9 ($6.64 in chips) 
+Seat 7: NatureVince ($5.97 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($4.86 in chips) 
+BezDopinga: posts small blind $0.02
+STM32: is sitting out 
+PHebi7: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 8c]
+VilpPS: folds 
+Andry00701: folds 
+laurentis9: folds 
+NatureVince: raises $0.10 to $0.15
+Dorex2007: folds 
+aaron894: raises $0.30 to $0.45
+BezDopinga: folds 
+PHebi7: folds 
+NatureVince: calls $0.30
+*** FLOP *** [Jc 6h 2c]
+NatureVince: checks 
+aaron894: bets $0.75
+NatureVince: folds 
+Uncalled bet ($0.75) returned to aaron894
+aaron894 collected $0.93 from pot
+*** SUMMARY ***
+Total pot $0.97 | Rake $0.04 
+Board [Jc 6h 2c]
+Seat 1: BezDopinga (small blind) folded before Flop
+Seat 3: PHebi7 (big blind) folded before Flop
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Andry00701 folded before Flop (didn't bet)
+Seat 6: laurentis9 folded before Flop (didn't bet)
+Seat 7: NatureVince folded on the Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 (button) collected ($0.93)
+
+
+
+PokerStars Hand #237458067444:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:20:00 PT [2022/07/19 13:20:00 ET]
+Table 'Jugurtha III' 9-max Seat #1 is the button
+Seat 1: BezDopinga ($2.57 in chips) 
+Seat 3: PHebi7 ($5.30 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.12 in chips) 
+Seat 6: laurentis9 ($6.64 in chips) 
+Seat 7: NatureVince ($5.52 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.34 in chips) 
+PHebi7: posts small blind $0.02
+VilpPS: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Tc]
+Andry00701 has timed out
+Andry00701: folds 
+laurentis9: calls $0.05
+NatureVince: raises $0.17 to $0.22
+Dorex2007: folds 
+aaron894: folds 
+BezDopinga: folds 
+PHebi7: folds 
+VilpPS: folds 
+laurentis9: calls $0.17
+*** FLOP *** [3s 9h 4d]
+laurentis9: bets $0.05
+NatureVince: raises $0.25 to $0.30
+laurentis9: calls $0.25
+*** TURN *** [3s 9h 4d] [Ad]
+laurentis9: checks 
+NatureVince: bets $0.65
+laurentis9: calls $0.65
+*** RIVER *** [3s 9h 4d Ad] [3d]
+laurentis9: bets $2.31
+NatureVince: folds 
+Uncalled bet ($2.31) returned to laurentis9
+laurentis9 collected $2.31 from pot
+*** SUMMARY ***
+Total pot $2.41 | Rake $0.10 
+Board [3s 9h 4d Ad 3d]
+Seat 1: BezDopinga (button) folded before Flop (didn't bet)
+Seat 3: PHebi7 (small blind) folded before Flop
+Seat 4: VilpPS (big blind) folded before Flop
+Seat 5: Andry00701 folded before Flop (didn't bet)
+Seat 6: laurentis9 collected ($2.31)
+Seat 7: NatureVince folded on the River
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458103899:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:21:27 PT [2022/07/19 13:21:27 ET]
+Table 'Jugurtha III' 9-max Seat #3 is the button
+Seat 1: BezDopinga ($2.57 in chips) 
+Seat 3: PHebi7 ($5.28 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.12 in chips) 
+Seat 6: laurentis9 ($7.78 in chips) 
+Seat 7: NatureVince ($5 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.34 in chips) 
+VilpPS: posts small blind $0.02
+Andry00701: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Jc]
+laurentis9: calls $0.05
+NatureVince: folds 
+Dorex2007: raises $0.10 to $0.15
+aaron894: folds 
+BezDopinga: folds 
+PHebi7: folds 
+VilpPS: folds 
+Andry00701: folds 
+laurentis9: calls $0.10
+*** FLOP *** [Td 6d 8c]
+laurentis9: checks 
+Dorex2007: bets $0.35
+laurentis9: folds 
+Uncalled bet ($0.35) returned to Dorex2007
+Dorex2007 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [Td 6d 8c]
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 3: PHebi7 (button) folded before Flop (didn't bet)
+Seat 4: VilpPS (small blind) folded before Flop
+Seat 5: Andry00701 (big blind) folded before Flop
+Seat 6: laurentis9 folded on the Flop
+Seat 7: NatureVince folded before Flop (didn't bet)
+Seat 8: Dorex2007 collected ($0.35)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458114055:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:21:58 PT [2022/07/19 13:21:58 ET]
+Table 'Jugurtha III' 9-max Seat #4 is the button
+Seat 1: BezDopinga ($2.57 in chips) 
+Seat 3: PHebi7 ($5.28 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.07 in chips) 
+Seat 6: laurentis9 ($7.63 in chips) 
+Seat 7: NatureVince ($5 in chips) 
+Seat 8: Dorex2007 ($5.20 in chips) 
+Seat 9: aaron894 ($5.34 in chips) 
+Andry00701: posts small blind $0.02
+laurentis9: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad As]
+NatureVince: folds 
+Dorex2007: raises $0.10 to $0.15
+aaron894: folds 
+BezDopinga: folds 
+PHebi7: folds 
+VilpPS: folds 
+Andry00701: folds 
+laurentis9: folds 
+Uncalled bet ($0.10) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 3: PHebi7 folded before Flop (didn't bet)
+Seat 4: VilpPS (button) folded before Flop (didn't bet)
+Seat 5: Andry00701 (small blind) folded before Flop
+Seat 6: laurentis9 (big blind) folded before Flop
+Seat 7: NatureVince folded before Flop (didn't bet)
+Seat 8: Dorex2007 collected ($0.12)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458121912:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:22:21 PT [2022/07/19 13:22:21 ET]
+Table 'Jugurtha III' 9-max Seat #5 is the button
+Seat 1: BezDopinga ($2.57 in chips) 
+Seat 3: PHebi7 ($5.28 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.05 in chips) 
+Seat 6: laurentis9 ($7.58 in chips) 
+Seat 7: NatureVince ($5 in chips) 
+Seat 8: Dorex2007 ($5.27 in chips) 
+Seat 9: aaron894 ($5.34 in chips) 
+laurentis9: posts small blind $0.02
+NatureVince: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 6c]
+Dorex2007: folds 
+aaron894: folds 
+BezDopinga: folds 
+PHebi7: folds 
+VilpPS: folds 
+Andry00701: folds 
+laurentis9: raises $0.10 to $0.15
+NatureVince: calls $0.10
+*** FLOP *** [7d 9s Jc]
+laurentis9: bets $0.29
+NatureVince: calls $0.29
+*** TURN *** [7d 9s Jc] [Qc]
+laurentis9: bets $0.84
+NatureVince: calls $0.84
+*** RIVER *** [7d 9s Jc Qc] [3s]
+laurentis9: bets $2.45
+NatureVince: raises $1.27 to $3.72 and is all-in
+laurentis9: calls $1.27
+*** SHOW DOWN ***
+NatureVince: shows [Kh Ts] (a straight, Nine to King)
+laurentis9: shows [Js Ac] (a pair of Jacks)
+NatureVince collected $9.58 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0.42 
+Board [7d 9s Jc Qc 3s]
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 3: PHebi7 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Andry00701 (button) folded before Flop (didn't bet)
+Seat 6: laurentis9 (small blind) showed [Js Ac] and lost with a pair of Jacks
+Seat 7: NatureVince (big blind) showed [Kh Ts] and won ($9.58) with a straight, Nine to King
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458137939:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:23:08 PT [2022/07/19 13:23:08 ET]
+Table 'Jugurtha III' 9-max Seat #6 is the button
+Seat 1: BezDopinga ($2.57 in chips) 
+Seat 3: PHebi7 ($5.28 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.05 in chips) 
+Seat 6: laurentis9 ($2.58 in chips) 
+Seat 7: NatureVince ($9.58 in chips) 
+Seat 8: Dorex2007 ($5.27 in chips) 
+Seat 9: aaron894 ($5.34 in chips) 
+NatureVince: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 5s]
+aaron894 has timed out
+aaron894: folds 
+BezDopinga: folds 
+PHebi7: folds 
+VilpPS: folds 
+Andry00701: folds 
+laurentis9: calls $0.05
+NatureVince: folds 
+Dorex2007: checks 
+*** FLOP *** [4h Kd 6s]
+Dorex2007: checks 
+laurentis9: checks 
+*** TURN *** [4h Kd 6s] [8c]
+Dorex2007: bets $0.06
+laurentis9: calls $0.06
+*** RIVER *** [4h Kd 6s 8c] [4s]
+Dorex2007: checks 
+laurentis9: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [3h 5s] (a pair of Fours)
+laurentis9: shows [7c Ad] (a pair of Fours - Ace kicker)
+laurentis9 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [4h Kd 6s 8c 4s]
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 3: PHebi7 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Andry00701 folded before Flop (didn't bet)
+Seat 6: laurentis9 (button) showed [7c Ad] and won ($0.23) with a pair of Fours
+Seat 7: NatureVince (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) showed [3h 5s] and lost with a pair of Fours
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458151190:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:23:48 PT [2022/07/19 13:23:48 ET]
+Table 'Jugurtha III' 9-max Seat #7 is the button
+Seat 1: BezDopinga ($2.57 in chips) 
+Seat 3: PHebi7 ($5.28 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.05 in chips) 
+Seat 6: laurentis9 ($2.70 in chips) 
+Seat 7: NatureVince ($9.56 in chips) 
+Seat 8: Dorex2007 ($5.16 in chips) 
+Dorex2007: posts small blind $0.02
+BezDopinga: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Js]
+PHebi7: folds 
+VilpPS: folds 
+Andry00701: folds 
+laurentis9: folds 
+NatureVince: folds 
+Dorex2007: folds 
+Uncalled bet ($0.03) returned to BezDopinga
+BezDopinga collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: BezDopinga (big blind) collected ($0.04)
+Seat 3: PHebi7 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Andry00701 folded before Flop (didn't bet)
+Seat 6: laurentis9 folded before Flop (didn't bet)
+Seat 7: NatureVince (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237458153634:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:23:55 PT [2022/07/19 13:23:55 ET]
+Table 'Jugurtha III' 9-max Seat #8 is the button
+Seat 1: BezDopinga ($2.59 in chips) 
+Seat 3: PHebi7 ($5.28 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.05 in chips) 
+Seat 6: laurentis9 ($2.70 in chips) 
+Seat 7: NatureVince ($9.56 in chips) 
+Seat 8: Dorex2007 ($5.14 in chips) 
+BezDopinga: posts small blind $0.02
+PHebi7: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 9c]
+VilpPS: folds 
+STM32 leaves the table
+Andry00701: calls $0.05
+laurentis9: folds 
+NatureVince: folds 
+Dorex2007: calls $0.05
+BezDopinga: folds 
+PHebi7: checks 
+*** FLOP *** [5c Ah 6s]
+PHebi7: checks 
+Andry00701: checks 
+Dorex2007: checks 
+*** TURN *** [5c Ah 6s] [4d]
+PHebi7: checks 
+Andry00701: checks 
+Dorex2007: checks 
+*** RIVER *** [5c Ah 6s 4d] [5d]
+PHebi7: checks 
+Andry00701: bets $0.05
+Dorex2007: folds 
+PHebi7: calls $0.05
+*** SHOW DOWN ***
+Andry00701: shows [Ac 3c] (two pair, Aces and Fives)
+PHebi7: mucks hand 
+Andry00701 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [5c Ah 6s 4d 5d]
+Seat 1: BezDopinga (small blind) folded before Flop
+Seat 3: PHebi7 (big blind) mucked [4h 3s]
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Andry00701 showed [Ac 3c] and won ($0.26) with two pair, Aces and Fives
+Seat 6: laurentis9 folded before Flop (didn't bet)
+Seat 7: NatureVince folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded on the River
+
+
+
+PokerStars Hand #237458172913:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:24:41 PT [2022/07/19 13:24:41 ET]
+Table 'Jugurtha III' 9-max Seat #1 is the button
+Seat 1: BezDopinga ($2.57 in chips) 
+Seat 3: PHebi7 ($5.18 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.21 in chips) 
+Seat 6: laurentis9 ($2.70 in chips) 
+Seat 7: NatureVince ($9.56 in chips) 
+Seat 8: Dorex2007 ($5.09 in chips) 
+PHebi7: posts small blind $0.02
+VilpPS: posts big blind $0.05
+aaron894: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Ac]
+Andry00701: folds 
+laurentis9: folds 
+NatureVince: folds 
+Dorex2007: raises $0.10 to $0.15
+BezDopinga: folds 
+PHebi7: folds 
+VilpPS: calls $0.10
+*** FLOP *** [Js 8s Qc]
+VilpPS: checks 
+Dorex2007: checks 
+*** TURN *** [Js 8s Qc] [4s]
+VilpPS: checks 
+Dorex2007: bets $0.15
+VilpPS: folds 
+Uncalled bet ($0.15) returned to Dorex2007
+Dorex2007 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Js 8s Qc 4s]
+Seat 1: BezDopinga (button) folded before Flop (didn't bet)
+Seat 3: PHebi7 (small blind) folded before Flop
+Seat 4: VilpPS (big blind) folded on the Turn
+Seat 5: Andry00701 folded before Flop (didn't bet)
+Seat 6: laurentis9 folded before Flop (didn't bet)
+Seat 7: NatureVince folded before Flop (didn't bet)
+Seat 8: Dorex2007 collected ($0.31)
+
+
+
+PokerStars Hand #237458183260:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:25:12 PT [2022/07/19 13:25:12 ET]
+Table 'Jugurtha III' 9-max Seat #3 is the button
+Seat 1: BezDopinga ($2.57 in chips) 
+Seat 3: PHebi7 ($5.16 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.21 in chips) 
+Seat 6: laurentis9 ($2.70 in chips) 
+Seat 7: NatureVince ($9.56 in chips) 
+Seat 8: Dorex2007 ($5.25 in chips) 
+VilpPS: posts small blind $0.02
+Andry00701: posts big blind $0.05
+aaron894: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 2c]
+laurentis9: calls $0.05
+NatureVince: folds 
+Dorex2007: folds 
+BezDopinga: calls $0.05
+PHebi7: folds 
+VilpPS: folds 
+Andry00701: checks 
+*** FLOP *** [4d 6d Jc]
+Andry00701: checks 
+laurentis9: checks 
+BezDopinga: checks 
+*** TURN *** [4d 6d Jc] [9h]
+Andry00701: checks 
+laurentis9: bets $0.16
+BezDopinga: folds 
+Andry00701: folds 
+Uncalled bet ($0.16) returned to laurentis9
+laurentis9 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [4d 6d Jc 9h]
+Seat 1: BezDopinga folded on the Turn
+Seat 3: PHebi7 (button) folded before Flop (didn't bet)
+Seat 4: VilpPS (small blind) folded before Flop
+Seat 5: Andry00701 (big blind) folded on the Turn
+Seat 6: laurentis9 collected ($0.16)
+Seat 7: NatureVince folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458194400:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:25:45 PT [2022/07/19 13:25:45 ET]
+Table 'Jugurtha III' 9-max Seat #4 is the button
+Seat 1: BezDopinga ($2.52 in chips) 
+Seat 3: PHebi7 ($5.16 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.16 in chips) 
+Seat 6: laurentis9 ($2.81 in chips) 
+Seat 7: NatureVince ($9.56 in chips) 
+Seat 8: Dorex2007 ($5.25 in chips) 
+Andry00701: posts small blind $0.02
+laurentis9: posts big blind $0.05
+aaron894: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs As]
+NatureVince: folds 
+Dorex2007: raises $0.05 to $0.10
+BezDopinga: folds 
+PHebi7: folds 
+VilpPS: calls $0.10
+Andry00701: calls $0.08
+laurentis9: calls $0.05
+*** FLOP *** [5h 3c 6c]
+Andry00701: checks 
+laurentis9: checks 
+Dorex2007: bets $0.25
+VilpPS: folds 
+Andry00701: folds 
+laurentis9: calls $0.25
+*** TURN *** [5h 3c 6c] [8s]
+laurentis9: checks 
+Dorex2007: checks 
+*** RIVER *** [5h 3c 6c 8s] [2d]
+laurentis9: bets $0.86
+Dorex2007: folds 
+Uncalled bet ($0.86) returned to laurentis9
+laurentis9 collected $0.86 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [5h 3c 6c 8s 2d]
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 3: PHebi7 folded before Flop (didn't bet)
+Seat 4: VilpPS (button) folded on the Flop
+Seat 5: Andry00701 (small blind) folded on the Flop
+Seat 6: laurentis9 (big blind) collected ($0.86)
+Seat 7: NatureVince folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded on the River
+
+
+
+PokerStars Hand #237458208085:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:26:27 PT [2022/07/19 13:26:27 ET]
+Table 'Jugurtha III' 9-max Seat #5 is the button
+Seat 1: BezDopinga ($2.52 in chips) 
+Seat 3: PHebi7 ($5.16 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.06 in chips) 
+Seat 6: laurentis9 ($3.32 in chips) 
+Seat 7: NatureVince ($9.56 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+laurentis9: posts small blind $0.02
+kamp804 joins the table at seat #2 
+NatureVince: posts big blind $0.05
+aaron894: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 4c]
+Dorex2007: folds 
+BezDopinga: folds 
+PHebi7: folds 
+VilpPS: folds 
+Andry00701: folds 
+laurentis9: calls $0.03
+NatureVince: checks 
+*** FLOP *** [4d 9d 3h]
+laurentis9: checks 
+NatureVince: checks 
+*** TURN *** [4d 9d 3h] [6h]
+laurentis9: checks 
+NatureVince: checks 
+*** RIVER *** [4d 9d 3h 6h] [9s]
+laurentis9: checks 
+NatureVince: checks 
+*** SHOW DOWN ***
+laurentis9: shows [Ts 8s] (a pair of Nines)
+NatureVince: shows [5c Qc] (a pair of Nines - Queen kicker)
+NatureVince collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [4d 9d 3h 6h 9s]
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 3: PHebi7 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Andry00701 (button) folded before Flop (didn't bet)
+Seat 6: laurentis9 (small blind) showed [Ts 8s] and lost with a pair of Nines
+Seat 7: NatureVince (big blind) showed [5c Qc] and won ($0.10) with a pair of Nines
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458219017:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:27:00 PT [2022/07/19 13:27:00 ET]
+Table 'Jugurtha III' 9-max Seat #6 is the button
+Seat 1: BezDopinga ($2.52 in chips) 
+Seat 3: PHebi7 ($5.16 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.06 in chips) 
+Seat 6: laurentis9 ($3.27 in chips) 
+Seat 7: NatureVince ($9.61 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+NatureVince: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+aaron894: sits out 
+kamp804: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Kc]
+BezDopinga: raises $0.10 to $0.15
+PHebi7: folds 
+VilpPS: folds 
+Andry00701: folds 
+laurentis9: folds 
+NatureVince: folds 
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to BezDopinga
+BezDopinga collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: BezDopinga collected ($0.12)
+Seat 3: PHebi7 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Andry00701 folded before Flop (didn't bet)
+Seat 6: laurentis9 (button) folded before Flop (didn't bet)
+Seat 7: NatureVince (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237458223681:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:27:14 PT [2022/07/19 13:27:14 ET]
+Table 'Jugurtha III' 9-max Seat #7 is the button
+Seat 1: BezDopinga ($2.59 in chips) 
+Seat 3: PHebi7 ($5.16 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.06 in chips) 
+Seat 6: laurentis9 ($3.27 in chips) 
+Seat 7: NatureVince ($9.59 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.34 in chips) 
+Dorex2007: posts small blind $0.02
+aaron894: posts big blind $0.05
+kamp804: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 9s]
+BezDopinga: folds 
+PHebi7: folds 
+VilpPS: folds 
+Andry00701: folds 
+laurentis9: raises $0.05 to $0.10
+NatureVince: folds 
+Dorex2007: folds 
+aaron894: folds 
+Uncalled bet ($0.05) returned to laurentis9
+laurentis9 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 3: PHebi7 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Andry00701 folded before Flop (didn't bet)
+Seat 6: laurentis9 collected ($0.12)
+Seat 7: NatureVince (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: aaron894 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237458231056:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:27:36 PT [2022/07/19 13:27:36 ET]
+Table 'Jugurtha III' 9-max Seat #8 is the button
+Seat 1: BezDopinga ($2.59 in chips) 
+Seat 3: PHebi7 ($5.16 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.06 in chips) 
+Seat 6: laurentis9 ($3.34 in chips) 
+Seat 7: NatureVince ($9.59 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.29 in chips) 
+aaron894: posts small blind $0.02
+BezDopinga: posts big blind $0.05
+kamp804: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad Qs]
+PHebi7: folds 
+VilpPS: folds 
+Andry00701: folds 
+laurentis9: folds 
+NatureVince: folds 
+Dorex2007: raises $0.05 to $0.10
+aaron894: folds 
+BezDopinga: folds 
+Uncalled bet ($0.05) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: BezDopinga (big blind) folded before Flop
+Seat 3: PHebi7 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Andry00701 folded before Flop (didn't bet)
+Seat 6: laurentis9 folded before Flop (didn't bet)
+Seat 7: NatureVince folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) collected ($0.12)
+Seat 9: aaron894 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237458236218:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:27:52 PT [2022/07/19 13:27:52 ET]
+Table 'Jugurtha III' 9-max Seat #9 is the button
+Seat 1: BezDopinga ($2.54 in chips) 
+Seat 2: kamp804 ($2 in chips) 
+Seat 3: PHebi7 ($5.16 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.06 in chips) 
+Seat 6: laurentis9 ($3.34 in chips) 
+Seat 7: NatureVince ($9.59 in chips) 
+Seat 8: Dorex2007 ($5.07 in chips) 
+Seat 9: aaron894 ($5.27 in chips) 
+BezDopinga: posts small blind $0.02
+kamp804: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Jd]
+PHebi7: folds 
+VilpPS: folds 
+Andry00701: folds 
+laurentis9: folds 
+NatureVince: folds 
+Dorex2007 has timed out
+Dorex2007: folds 
+aaron894: folds 
+BezDopinga: folds 
+Uncalled bet ($0.03) returned to kamp804
+kamp804 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: BezDopinga (small blind) folded before Flop
+Seat 2: kamp804 (big blind) collected ($0.04)
+Seat 3: PHebi7 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Andry00701 folded before Flop (didn't bet)
+Seat 6: laurentis9 folded before Flop (didn't bet)
+Seat 7: NatureVince folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458247404:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:28:26 PT [2022/07/19 13:28:26 ET]
+Table 'Jugurtha III' 9-max Seat #1 is the button
+Seat 1: BezDopinga ($2.52 in chips) 
+Seat 2: kamp804 ($2.02 in chips) 
+Seat 3: PHebi7 ($5.16 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.06 in chips) 
+Seat 6: laurentis9 ($3.34 in chips) 
+Seat 7: NatureVince ($9.59 in chips) 
+Seat 8: Dorex2007 ($5.07 in chips) 
+Seat 9: aaron894 ($5.27 in chips) 
+kamp804: posts small blind $0.02
+PHebi7: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad Jh]
+VilpPS: folds 
+Andry00701: folds 
+laurentis9: folds 
+NatureVince: folds 
+Dorex2007: raises $0.05 to $0.10
+aaron894: folds 
+BezDopinga: calls $0.10
+kamp804: calls $0.08
+PHebi7: folds 
+*** FLOP *** [2h Qc Td]
+kamp804: checks 
+Dorex2007: checks 
+BezDopinga: checks 
+*** TURN *** [2h Qc Td] [Ks]
+kamp804: bets $0.05
+Dorex2007: calls $0.05
+BezDopinga: folds 
+*** RIVER *** [2h Qc Td Ks] [Jd]
+kamp804: bets $0.43
+Dorex2007: raises $1.29 to $1.72
+kamp804: raises $0.15 to $1.87 and is all-in
+Dorex2007: calls $0.15
+*** SHOW DOWN ***
+kamp804: shows [As Kc] (a straight, Ten to Ace)
+Dorex2007: shows [Ad Jh] (a straight, Ten to Ace)
+kamp804 collected $2.01 from pot
+Dorex2007 collected $2.01 from pot
+*** SUMMARY ***
+Total pot $4.19 | Rake $0.17 
+Board [2h Qc Td Ks Jd]
+Seat 1: BezDopinga (button) folded on the Turn
+Seat 2: kamp804 (small blind) showed [As Kc] and won ($2.01) with a straight, Ten to Ace
+Seat 3: PHebi7 (big blind) folded before Flop
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Andry00701 folded before Flop (didn't bet)
+Seat 6: laurentis9 folded before Flop (didn't bet)
+Seat 7: NatureVince folded before Flop (didn't bet)
+Seat 8: Dorex2007 showed [Ad Jh] and won ($2.01) with a straight, Ten to Ace
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458265911:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:29:21 PT [2022/07/19 13:29:21 ET]
+Table 'Jugurtha III' 9-max Seat #2 is the button
+Seat 1: BezDopinga ($2.42 in chips) 
+Seat 2: kamp804 ($2.01 in chips) 
+Seat 3: PHebi7 ($5.11 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Andry00701 ($4.06 in chips) 
+Seat 6: laurentis9 ($3.34 in chips) 
+Seat 7: NatureVince ($9.59 in chips) 
+Seat 8: Dorex2007 ($5.06 in chips) 
+Seat 9: aaron894 ($5.27 in chips) 
+PHebi7: posts small blind $0.02
+VilpPS: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 8h]
+Andry00701: folds 
+laurentis9: folds 
+NatureVince: folds 
+Andry00701 leaves the table
+Dorex2007: folds 
+aaron894: raises $0.10 to $0.15
+BezDopinga: folds 
+kamp804: folds 
+PHebi7: folds 
+VilpPS: folds 
+Uncalled bet ($0.10) returned to aaron894
+aaron894 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 2: kamp804 (button) folded before Flop (didn't bet)
+Seat 3: PHebi7 (small blind) folded before Flop
+Seat 4: VilpPS (big blind) folded before Flop
+Seat 5: Andry00701 folded before Flop (didn't bet)
+Seat 6: laurentis9 folded before Flop (didn't bet)
+Seat 7: NatureVince folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 collected ($0.12)
+
+
+
+PokerStars Hand #237458272088:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:29:40 PT [2022/07/19 13:29:40 ET]
+Table 'Jugurtha III' 9-max Seat #3 is the button
+Seat 1: BezDopinga ($2.42 in chips) 
+Seat 2: kamp804 ($2.01 in chips) 
+Seat 3: PHebi7 ($5.09 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 6: laurentis9 ($3.34 in chips) 
+Seat 7: NatureVince ($9.59 in chips) 
+Seat 8: Dorex2007 ($5.06 in chips) 
+Seat 9: aaron894 ($5.34 in chips) 
+VilpPS: posts small blind $0.02
+laurentis9: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Ad]
+NatureVince: folds 
+Dorex2007: folds 
+aaron894: folds 
+BezDopinga: raises $0.10 to $0.15
+kamp804: folds 
+PHebi7: folds 
+VilpPS: folds 
+laurentis9: calls $0.10
+*** FLOP *** [9d 8h 8s]
+laurentis9: checks 
+BezDopinga: checks 
+*** TURN *** [9d 8h 8s] [6d]
+Nutellam@n joins the table at seat #5 
+laurentis9: bets $0.31
+BezDopinga: folds 
+Uncalled bet ($0.31) returned to laurentis9
+laurentis9 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [9d 8h 8s 6d]
+Seat 1: BezDopinga folded on the Turn
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: PHebi7 (button) folded before Flop (didn't bet)
+Seat 4: VilpPS (small blind) folded before Flop
+Seat 6: laurentis9 (big blind) collected ($0.31)
+Seat 7: NatureVince folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458280878:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:30:06 PT [2022/07/19 13:30:06 ET]
+Table 'Jugurtha III' 9-max Seat #4 is the button
+Seat 1: BezDopinga ($2.27 in chips) 
+Seat 2: kamp804 ($2.01 in chips) 
+Seat 3: PHebi7 ($5.09 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 6: laurentis9 ($3.50 in chips) 
+Seat 8: Dorex2007 ($5.06 in chips) 
+Seat 9: aaron894 ($5.34 in chips) 
+laurentis9: posts small blind $0.02
+NatureVince: is sitting out 
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 4s]
+aaron894: folds 
+BezDopinga: folds 
+kamp804: folds 
+PHebi7: folds 
+VilpPS: folds 
+laurentis9: raises $0.10 to $0.15
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to laurentis9
+laurentis9 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: PHebi7 folded before Flop (didn't bet)
+Seat 4: VilpPS (button) folded before Flop (didn't bet)
+Seat 6: laurentis9 (small blind) collected ($0.10)
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458286710:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:30:23 PT [2022/07/19 13:30:23 ET]
+Table 'Jugurtha III' 9-max Seat #6 is the button
+Seat 1: BezDopinga ($2.27 in chips) 
+Seat 2: kamp804 ($2.01 in chips) 
+Seat 3: PHebi7 ($5.09 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 6: laurentis9 ($3.55 in chips) 
+Seat 8: Dorex2007 ($5.01 in chips) 
+Seat 9: aaron894 ($5.34 in chips) 
+Dorex2007: posts small blind $0.02
+aaron894: posts big blind $0.05
+Nutellam@n: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Ts]
+BezDopinga: raises $0.10 to $0.15
+kamp804: folds 
+PHebi7: folds 
+VilpPS: folds 
+laurentis9: folds 
+Dorex2007: folds 
+aaron894: folds 
+Uncalled bet ($0.10) returned to BezDopinga
+BezDopinga collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: BezDopinga collected ($0.12)
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: PHebi7 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 6: laurentis9 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: aaron894 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237458294508:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:30:46 PT [2022/07/19 13:30:46 ET]
+Table 'Jugurtha III' 9-max Seat #8 is the button
+Seat 1: BezDopinga ($2.34 in chips) 
+Seat 2: kamp804 ($2.01 in chips) 
+Seat 3: PHebi7 ($5.09 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 6: laurentis9 ($3.55 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.29 in chips) 
+aaron894: posts small blind $0.02
+BezDopinga: posts big blind $0.05
+Nutellam@n: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 3c]
+kamp804: calls $0.05
+PHebi7: folds 
+VilpPS: folds 
+laurentis9: raises $0.05 to $0.10
+Dorex2007: calls $0.10
+aaron894: folds 
+BezDopinga: folds 
+kamp804: calls $0.05
+*** FLOP *** [7c Kd 9s]
+kamp804: checks 
+laurentis9: checks 
+Dorex2007: checks 
+*** TURN *** [7c Kd 9s] [5s]
+kamp804: bets $0.10
+laurentis9: calls $0.10
+Dorex2007: folds 
+*** RIVER *** [7c Kd 9s 5s] [Jc]
+kamp804: bets $0.30
+laurentis9: calls $0.30
+*** SHOW DOWN ***
+kamp804: shows [Ac Ks] (a pair of Kings)
+laurentis9: mucks hand 
+kamp804 collected $1.12 from pot
+*** SUMMARY ***
+Total pot $1.17 | Rake $0.05 
+Board [7c Kd 9s 5s Jc]
+Seat 1: BezDopinga (big blind) folded before Flop
+Seat 2: kamp804 showed [Ac Ks] and won ($1.12) with a pair of Kings
+Seat 3: PHebi7 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 6: laurentis9 mucked [8s 8c]
+Seat 8: Dorex2007 (button) folded on the Turn
+Seat 9: aaron894 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237458309659:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:31:30 PT [2022/07/19 13:31:30 ET]
+Table 'Jugurtha III' 9-max Seat #9 is the button
+Seat 1: BezDopinga ($2.29 in chips) 
+Seat 2: kamp804 ($2.63 in chips) 
+Seat 3: PHebi7 ($5.09 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 6: laurentis9 ($3.05 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.27 in chips) 
+BezDopinga: posts small blind $0.02
+kamp804: posts big blind $0.05
+Nutellam@n: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 5h]
+PHebi7: folds 
+VilpPS: folds 
+laurentis9: raises $0.05 to $0.10
+Dorex2007: folds 
+aaron894: folds 
+BezDopinga: folds 
+kamp804: folds 
+Uncalled bet ($0.05) returned to laurentis9
+laurentis9 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: BezDopinga (small blind) folded before Flop
+Seat 2: kamp804 (big blind) folded before Flop
+Seat 3: PHebi7 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 6: laurentis9 collected ($0.12)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458319983:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:32:00 PT [2022/07/19 13:32:00 ET]
+Table 'Jugurtha III' 9-max Seat #1 is the button
+Seat 1: BezDopinga ($2.27 in chips) 
+Seat 2: kamp804 ($2.58 in chips) 
+Seat 3: PHebi7 ($5.09 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 6: laurentis9 ($3.12 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.27 in chips) 
+kamp804: posts small blind $0.02
+PHebi7: posts big blind $0.05
+Nutellam@n: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 6s]
+VilpPS: folds 
+laurentis9: raises $0.05 to $0.10
+Dorex2007: folds 
+aaron894: folds 
+BezDopinga: folds 
+kamp804: folds 
+PHebi7: folds 
+Uncalled bet ($0.05) returned to laurentis9
+laurentis9 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: BezDopinga (button) folded before Flop (didn't bet)
+Seat 2: kamp804 (small blind) folded before Flop
+Seat 3: PHebi7 (big blind) folded before Flop
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 6: laurentis9 collected ($0.12)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458328291:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:32:24 PT [2022/07/19 13:32:24 ET]
+Table 'Jugurtha III' 9-max Seat #2 is the button
+Seat 1: BezDopinga ($2.27 in chips) 
+Seat 2: kamp804 ($2.56 in chips) 
+Seat 3: PHebi7 ($5.04 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 6: laurentis9 ($3.19 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.27 in chips) 
+PHebi7: posts small blind $0.02
+VilpPS: posts big blind $0.05
+Nutellam@n: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 2d]
+laurentis9: folds 
+Dorex2007: folds 
+aaron894: folds 
+BezDopinga: folds 
+kamp804: calls $0.05
+PHebi7: folds 
+VilpPS: checks 
+*** FLOP *** [2h 8c 6d]
+VilpPS: checks 
+kamp804: bets $0.05
+VilpPS: folds 
+Uncalled bet ($0.05) returned to kamp804
+kamp804 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [2h 8c 6d]
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 2: kamp804 (button) collected ($0.12)
+Seat 3: PHebi7 (small blind) folded before Flop
+Seat 4: VilpPS (big blind) folded on the Flop
+Seat 6: laurentis9 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458336639:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:32:49 PT [2022/07/19 13:32:49 ET]
+Table 'Jugurtha III' 9-max Seat #3 is the button
+Seat 1: BezDopinga ($2.27 in chips) 
+Seat 2: kamp804 ($2.63 in chips) 
+Seat 3: PHebi7 ($5.02 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Nutellam@n ($5 in chips) 
+Seat 6: laurentis9 ($3.19 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.27 in chips) 
+VilpPS: posts small blind $0.02
+Nutellam@n: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Kd]
+laurentis9: raises $0.05 to $0.10
+Dorex2007: folds 
+aaron894: folds 
+BezDopinga: folds 
+kamp804: folds 
+PHebi7: folds 
+VilpPS: folds 
+Nutellam@n: calls $0.05
+*** FLOP *** [Jd Jh 2c]
+Nutellam@n: checks 
+laurentis9: checks 
+*** TURN *** [Jd Jh 2c] [Td]
+Nutellam@n: bets $0.21
+laurentis9: calls $0.21
+*** RIVER *** [Jd Jh 2c Td] [Qh]
+Nutellam@n: bets $0.61
+laurentis9: raises $2.27 to $2.88 and is all-in
+Nutellam@n: calls $2.27
+*** SHOW DOWN ***
+laurentis9: shows [Js Ah] (three of a kind, Jacks)
+Nutellam@n: shows [Qd Tc] (two pair, Queens and Jacks)
+laurentis9 collected $6.13 from pot
+*** SUMMARY ***
+Total pot $6.40 | Rake $0.27 
+Board [Jd Jh 2c Td Qh]
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: PHebi7 (button) folded before Flop (didn't bet)
+Seat 4: VilpPS (small blind) folded before Flop
+Seat 5: Nutellam@n (big blind) showed [Qd Tc] and lost with two pair, Queens and Jacks
+Seat 6: laurentis9 showed [Js Ah] and won ($6.13) with three of a kind, Jacks
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458360022:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:33:57 PT [2022/07/19 13:33:57 ET]
+Table 'Jugurtha III' 9-max Seat #4 is the button
+Seat 1: BezDopinga ($2.27 in chips) 
+Seat 2: kamp804 ($2.63 in chips) 
+Seat 3: PHebi7 ($5.02 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Nutellam@n ($5 in chips) 
+Seat 6: laurentis9 ($6.13 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.27 in chips) 
+Nutellam@n: posts small blind $0.02
+laurentis9: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 8h]
+Dorex2007: folds 
+aaron894: folds 
+BezDopinga: folds 
+kamp804: calls $0.05
+PHebi7: folds 
+VilpPS: folds 
+Nutellam@n: folds 
+laurentis9: checks 
+*** FLOP *** [4c Js Qc]
+laurentis9: checks 
+kamp804: bets $0.05
+laurentis9: folds 
+Uncalled bet ($0.05) returned to kamp804
+kamp804 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [4c Js Qc]
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 2: kamp804 collected ($0.12)
+Seat 3: PHebi7 folded before Flop (didn't bet)
+Seat 4: VilpPS (button) folded before Flop (didn't bet)
+Seat 5: Nutellam@n (small blind) folded before Flop
+Seat 6: laurentis9 (big blind) folded on the Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458370306:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:34:28 PT [2022/07/19 13:34:28 ET]
+Table 'Jugurtha III' 9-max Seat #5 is the button
+Seat 1: BezDopinga ($2.27 in chips) 
+Seat 2: kamp804 ($2.70 in chips) 
+Seat 3: PHebi7 ($5.02 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Nutellam@n ($5 in chips) 
+Seat 6: laurentis9 ($6.08 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.27 in chips) 
+laurentis9: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 6s]
+aaron894: folds 
+BezDopinga: raises $0.10 to $0.15
+kamp804: folds 
+PHebi7: folds 
+VilpPS: folds 
+Nutellam@n: folds 
+laurentis9: folds 
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to BezDopinga
+BezDopinga collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: BezDopinga collected ($0.12)
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: PHebi7 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Nutellam@n (button) folded before Flop (didn't bet)
+Seat 6: laurentis9 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458376554:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:34:46 PT [2022/07/19 13:34:46 ET]
+Table 'Jugurtha III' 9-max Seat #6 is the button
+Seat 1: BezDopinga ($2.34 in chips) 
+Seat 2: kamp804 ($2.70 in chips) 
+Seat 3: PHebi7 ($5.02 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Nutellam@n ($5 in chips) 
+Seat 6: laurentis9 ($6.06 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.27 in chips) 
+Dorex2007: posts small blind $0.02
+aaron894: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Ks]
+BezDopinga: folds 
+kamp804: folds 
+PHebi7: raises $0.07 to $0.12
+VilpPS: folds 
+Nutellam@n: folds 
+laurentis9: calls $0.12
+Dorex2007: folds 
+aaron894: folds 
+*** FLOP *** [Ts 2s 4c]
+PHebi7: checks 
+laurentis9: bets $0.30
+PHebi7: folds 
+Uncalled bet ($0.30) returned to laurentis9
+laurentis9 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Ts 2s 4c]
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: PHebi7 folded on the Flop
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Nutellam@n folded before Flop (didn't bet)
+Seat 6: laurentis9 (button) collected ($0.30)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: aaron894 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237458388852:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:35:21 PT [2022/07/19 13:35:21 ET]
+Table 'Jugurtha III' 9-max Seat #8 is the button
+Seat 1: BezDopinga ($2.34 in chips) 
+Seat 2: kamp804 ($2.70 in chips) 
+Seat 3: PHebi7 ($5 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Nutellam@n ($5 in chips) 
+Seat 6: laurentis9 ($6.24 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.22 in chips) 
+aaron894: posts small blind $0.02
+BezDopinga: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Ts]
+kamp804: folds 
+PHebi7: folds 
+PHebi7 leaves the table
+VilpPS: folds 
+Nutellam@n: folds 
+laurentis9: folds 
+Dorex2007: folds 
+aaron894: folds 
+Uncalled bet ($0.03) returned to BezDopinga
+BezDopinga collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: BezDopinga (big blind) collected ($0.04)
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: PHebi7 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Nutellam@n folded before Flop (didn't bet)
+Seat 6: laurentis9 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: aaron894 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237458394226:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:35:37 PT [2022/07/19 13:35:37 ET]
+Table 'Jugurtha III' 9-max Seat #9 is the button
+Seat 1: BezDopinga ($2.36 in chips) 
+Seat 2: kamp804 ($2.70 in chips) 
+Seat 4: VilpPS ($5 in chips) 
+Seat 5: Nutellam@n ($5 in chips) 
+Seat 6: laurentis9 ($6.24 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.20 in chips) 
+BezDopinga: posts small blind $0.02
+kamp804: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Th]
+VilpPS: raises $0.08 to $0.13
+Nutellam@n: folds 
+laurentis9: folds 
+Dorex2007 has timed out
+Dorex2007: folds 
+aaron894: folds 
+BezDopinga: calls $0.11
+kamp804: folds 
+*** FLOP *** [8c 2h 2s]
+BezDopinga: checks 
+VilpPS: bets $0.14
+BezDopinga: folds 
+Uncalled bet ($0.14) returned to VilpPS
+VilpPS collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [8c 2h 2s]
+Seat 1: BezDopinga (small blind) folded on the Flop
+Seat 2: kamp804 (big blind) folded before Flop
+Seat 4: VilpPS collected ($0.30)
+Seat 5: Nutellam@n folded before Flop (didn't bet)
+Seat 6: laurentis9 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458410826:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:36:25 PT [2022/07/19 13:36:25 ET]
+Table 'Jugurtha III' 9-max Seat #1 is the button
+Seat 1: BezDopinga ($2.23 in chips) 
+Seat 2: kamp804 ($2.65 in chips) 
+Seat 4: VilpPS ($5.17 in chips) 
+Seat 5: Nutellam@n ($5 in chips) 
+Seat 6: laurentis9 ($6.24 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.20 in chips) 
+kamp804: posts small blind $0.02
+VilpPS: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 2c]
+Nutellam@n: folds 
+laurentis9: folds 
+Dorex2007: folds 
+aaron894: folds 
+BezDopinga: folds 
+Manuelito180 joins the table at seat #3 
+kamp804: folds 
+Uncalled bet ($0.03) returned to VilpPS
+VilpPS collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: BezDopinga (button) folded before Flop (didn't bet)
+Seat 2: kamp804 (small blind) folded before Flop
+Seat 4: VilpPS (big blind) collected ($0.04)
+Seat 5: Nutellam@n folded before Flop (didn't bet)
+Seat 6: laurentis9 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458419841:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:36:51 PT [2022/07/19 13:36:51 ET]
+Table 'Jugurtha III' 9-max Seat #2 is the button
+Seat 1: BezDopinga ($2.23 in chips) 
+Seat 2: kamp804 ($2.63 in chips) 
+Seat 4: VilpPS ($5.19 in chips) 
+Seat 5: Nutellam@n ($5 in chips) 
+Seat 6: laurentis9 ($6.24 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.20 in chips) 
+VilpPS: posts small blind $0.02
+Nutellam@n: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 8s]
+laurentis9: folds 
+Dorex2007: folds 
+aaron894: folds 
+BezDopinga: folds 
+kamp804: calls $0.05
+VilpPS: folds 
+Nutellam@n: checks 
+*** FLOP *** [Kd As 2s]
+Nutellam@n: checks 
+kamp804: bets $0.06
+Nutellam@n: folds 
+Uncalled bet ($0.06) returned to kamp804
+kamp804 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Kd As 2s]
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 2: kamp804 (button) collected ($0.12)
+Seat 4: VilpPS (small blind) folded before Flop
+Seat 5: Nutellam@n (big blind) folded on the Flop
+Seat 6: laurentis9 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458435935:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:37:37 PT [2022/07/19 13:37:37 ET]
+Table 'Jugurtha III' 9-max Seat #4 is the button
+Seat 1: BezDopinga ($2.23 in chips) 
+Seat 2: kamp804 ($2.70 in chips) 
+Seat 4: VilpPS ($5.17 in chips) 
+Seat 5: Nutellam@n ($5 in chips) 
+Seat 6: laurentis9 ($6.24 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.20 in chips) 
+Nutellam@n: posts small blind $0.02
+laurentis9: posts big blind $0.05
+Manuelito180: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 3c]
+Dorex2007: folds 
+aaron894: folds 
+BezDopinga: folds 
+kamp804: folds 
+VilpPS: folds 
+Nutellam@n: folds 
+Uncalled bet ($0.03) returned to laurentis9
+laurentis9 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 4: VilpPS (button) folded before Flop (didn't bet)
+Seat 5: Nutellam@n (small blind) folded before Flop
+Seat 6: laurentis9 (big blind) collected ($0.04)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458442104:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:37:55 PT [2022/07/19 13:37:55 ET]
+Table 'Jugurtha III' 9-max Seat #5 is the button
+Seat 1: BezDopinga ($2.23 in chips) 
+Seat 2: kamp804 ($2.70 in chips) 
+Seat 4: VilpPS ($5.17 in chips) 
+Seat 5: Nutellam@n ($5 in chips) 
+Seat 6: laurentis9 ($6.26 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.20 in chips) 
+laurentis9: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+Manuelito180: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Js]
+aaron894: folds 
+BezDopinga: folds 
+kamp804: folds 
+VilpPS: folds 
+Nutellam@n: raises $0.07 to $0.12
+laurentis9: folds 
+Dorex2007: calls $0.07
+*** FLOP *** [As Kd 5h]
+Dorex2007: checks 
+Nutellam@n: bets $0.14
+Dorex2007: folds 
+Uncalled bet ($0.14) returned to Nutellam@n
+Nutellam@n collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [As Kd 5h]
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Nutellam@n (button) collected ($0.25)
+Seat 6: laurentis9 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded on the Flop
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458455869:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:38:35 PT [2022/07/19 13:38:35 ET]
+Table 'Jugurtha III' 9-max Seat #6 is the button
+Seat 1: BezDopinga ($2.23 in chips) 
+Seat 2: kamp804 ($2.70 in chips) 
+Seat 4: VilpPS ($5.17 in chips) 
+Seat 5: Nutellam@n ($5.13 in chips) 
+Seat 6: laurentis9 ($6.24 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.20 in chips) 
+Dorex2007: posts small blind $0.02
+aaron894: posts big blind $0.05
+Manuelito180: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 9h]
+BezDopinga: folds 
+kamp804 has timed out
+kamp804: folds 
+VilpPS: raises $0.08 to $0.13
+Nutellam@n: folds 
+laurentis9: calls $0.13
+Dorex2007: folds 
+aaron894: folds 
+*** FLOP *** [Th 5h Qd]
+VilpPS: checks 
+laurentis9: bets $0.16
+VilpPS: calls $0.16
+*** TURN *** [Th 5h Qd] [5c]
+VilpPS: checks 
+laurentis9: bets $0.31
+VilpPS: folds 
+Uncalled bet ($0.31) returned to laurentis9
+laurentis9 collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Th 5h Qd 5c]
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 4: VilpPS folded on the Turn
+Seat 5: Nutellam@n folded before Flop (didn't bet)
+Seat 6: laurentis9 (button) collected ($0.62)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: aaron894 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237458526147:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:41:28 PT [2022/07/19 13:41:28 ET]
+Table 'Jugurtha III' 9-max Seat #3 is the button
+Seat 1: BezDopinga ($2.32 in chips) 
+Seat 2: kamp804 ($2.63 in chips) 
+Seat 3: Manuelito180 ($4.65 in chips) 
+Seat 4: VilpPS ($5.34 in chips) 
+Seat 5: Nutellam@n ($5.13 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.15 in chips) 
+VilpPS: posts small blind $0.02
+Nutellam@n: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Qc]
+Dorex2007: folds 
+aaron894: folds 
+BezDopinga: raises $0.10 to $0.15
+kamp804: folds 
+Manuelito180: folds 
+VilpPS: folds 
+Nutellam@n: folds 
+Uncalled bet ($0.10) returned to BezDopinga
+BezDopinga collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: BezDopinga collected ($0.12)
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: Manuelito180 (button) folded before Flop (didn't bet)
+Seat 4: VilpPS (small blind) folded before Flop
+Seat 5: Nutellam@n (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458532715:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:41:47 PT [2022/07/19 13:41:47 ET]
+Table 'Jugurtha III' 9-max Seat #4 is the button
+Seat 1: BezDopinga ($2.39 in chips) 
+Seat 2: kamp804 ($2.63 in chips) 
+Seat 3: Manuelito180 ($4.65 in chips) 
+Seat 4: VilpPS ($5.32 in chips) 
+Seat 5: Nutellam@n ($5.08 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.15 in chips) 
+Nutellam@n: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 4s]
+aaron894: folds 
+BezDopinga: folds 
+kamp804: folds 
+Manuelito180: folds 
+VilpPS: raises $0.08 to $0.13
+Nutellam@n: folds 
+Dorex2007: folds 
+Uncalled bet ($0.08) returned to VilpPS
+gastonsoage joins the table at seat #6 
+VilpPS collected $0.12 from pot
+NatureVince leaves the table
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: Manuelito180 folded before Flop (didn't bet)
+Seat 4: VilpPS (button) collected ($0.12)
+Seat 5: Nutellam@n (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458538589:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:42:04 PT [2022/07/19 13:42:04 ET]
+Table 'Jugurtha III' 9-max Seat #5 is the button
+Seat 1: BezDopinga ($2.39 in chips) 
+Seat 2: kamp804 ($2.63 in chips) 
+Seat 3: Manuelito180 ($4.65 in chips) 
+Seat 4: VilpPS ($5.39 in chips) 
+Seat 5: Nutellam@n ($5.06 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.15 in chips) 
+Dorex2007: posts small blind $0.02
+aaron894: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 7h]
+BezDopinga: folds 
+BezDopinga leaves the table
+kamp804 has timed out
+kamp804: folds 
+Manuelito180: folds 
+VilpPS: raises $0.08 to $0.13
+Nutellam@n: folds 
+Dorex2007: folds 
+aaron894: folds 
+Uncalled bet ($0.08) returned to VilpPS
+VilpPS collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: BezDopinga folded before Flop (didn't bet)
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: Manuelito180 folded before Flop (didn't bet)
+Seat 4: VilpPS collected ($0.12)
+Seat 5: Nutellam@n (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: aaron894 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237458547143:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:42:28 PT [2022/07/19 13:42:28 ET]
+Table 'Jugurtha III' 9-max Seat #8 is the button
+Seat 3: Manuelito180 ($4.65 in chips) 
+Seat 4: VilpPS ($5.46 in chips) 
+Seat 5: Nutellam@n ($5.06 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.10 in chips) 
+aaron894: posts small blind $0.02
+Manuelito180: posts big blind $0.05
+gastonsoage: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Qs]
+VilpPS: folds 
+Nutellam@n: folds 
+Dorex2007: raises $0.15 to $0.20
+aaron894: folds 
+Manuelito180: folds 
+Uncalled bet ($0.15) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 3: Manuelito180 (big blind) folded before Flop
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Nutellam@n folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) collected ($0.12)
+Seat 9: aaron894 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237458556630:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:42:56 PT [2022/07/19 13:42:56 ET]
+Table 'Jugurtha III' 9-max Seat #9 is the button
+Seat 3: Manuelito180 ($4.60 in chips) 
+Seat 4: VilpPS ($5.46 in chips) 
+Seat 5: Nutellam@n ($5.06 in chips) 
+Seat 8: Dorex2007 ($5.07 in chips) 
+Seat 9: aaron894 ($5.08 in chips) 
+Manuelito180: posts small blind $0.02
+VilpPS: posts big blind $0.05
+gastonsoage: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 3d]
+Nutellam@n: raises $0.07 to $0.12
+Dorex2007: folds 
+aaron894: folds 
+Manuelito180: calls $0.10
+VilpPS: folds 
+*** FLOP *** [Th Js 8d]
+Manuelito180: checks 
+Nutellam@n: bets $0.19
+Manuelito180: calls $0.19
+*** TURN *** [Th Js 8d] [7d]
+Manuelito180: checks 
+Nutellam@n: checks 
+*** RIVER *** [Th Js 8d 7d] [Ah]
+Manuelito180: bets $0.64
+Nutellam@n: calls $0.64
+*** SHOW DOWN ***
+Manuelito180: shows [9c Ts] (a straight, Seven to Jack)
+Nutellam@n: mucks hand 
+Manuelito180 collected $1.87 from pot
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.08 
+Board [Th Js 8d 7d Ah]
+Seat 3: Manuelito180 (small blind) showed [9c Ts] and won ($1.87) with a straight, Seven to Jack
+Seat 4: VilpPS (big blind) folded before Flop
+Seat 5: Nutellam@n mucked [Jc As]
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458575102:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:43:49 PT [2022/07/19 13:43:49 ET]
+Table 'Jugurtha III' 9-max Seat #3 is the button
+Seat 3: Manuelito180 ($5.52 in chips) 
+Seat 4: VilpPS ($5.41 in chips) 
+Seat 5: Nutellam@n ($5 in chips) 
+Seat 8: Dorex2007 ($5.07 in chips) 
+Seat 9: aaron894 ($5.08 in chips) 
+VilpPS: posts small blind $0.02
+Nutellam@n: posts big blind $0.05
+gastonsoage: sits out 
+kamp804: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 8s]
+Smith1606 joins the table at seat #7 
+Dorex2007: folds 
+aaron894: folds 
+Manuelito180: folds 
+VilpPS: folds 
+Uncalled bet ($0.03) returned to Nutellam@n
+Nutellam@n collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: Manuelito180 (button) folded before Flop (didn't bet)
+Seat 4: VilpPS (small blind) folded before Flop
+Seat 5: Nutellam@n (big blind) collected ($0.04)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458578718:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:43:59 PT [2022/07/19 13:43:59 ET]
+Table 'Jugurtha III' 9-max Seat #4 is the button
+Seat 3: Manuelito180 ($5.52 in chips) 
+Seat 4: VilpPS ($5.39 in chips) 
+Seat 5: Nutellam@n ($5.02 in chips) 
+Seat 6: gastonsoage ($5 in chips) 
+Seat 8: Dorex2007 ($5.07 in chips) 
+Seat 9: aaron894 ($5.08 in chips) 
+Nutellam@n: posts small blind $0.02
+gastonsoage: posts big blind $0.05
+Smith1606: sits out 
+kamp804: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 9d]
+Dorex2007: folds 
+aaron894: folds 
+Trickuent joins the table at seat #1 
+Manuelito180: folds 
+VilpPS: raises $0.08 to $0.13
+Nutellam@n: folds 
+gastonsoage: raises $0.28 to $0.41
+VilpPS: folds 
+Uncalled bet ($0.28) returned to gastonsoage
+gastonsoage collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0 
+Seat 3: Manuelito180 folded before Flop (didn't bet)
+Seat 4: VilpPS (button) folded before Flop
+Seat 5: Nutellam@n (small blind) folded before Flop
+Seat 6: gastonsoage (big blind) collected ($0.28)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458588858:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:44:28 PT [2022/07/19 13:44:28 ET]
+Table 'Jugurtha III' 9-max Seat #5 is the button
+Seat 1: Trickuent ($4 in chips) 
+Seat 3: Manuelito180 ($5.52 in chips) 
+Seat 4: VilpPS ($5.26 in chips) 
+Seat 5: Nutellam@n ($5 in chips) 
+Seat 6: gastonsoage ($5.15 in chips) 
+Seat 7: Smith1606 ($5 in chips) 
+Seat 8: Dorex2007 ($5.07 in chips) 
+Seat 9: aaron894 ($5.08 in chips) 
+gastonsoage: posts small blind $0.02
+Smith1606: posts big blind $0.05
+Trickuent: posts big blind $0.05
+kamp804: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Qc]
+Dorex2007: folds 
+aaron894: folds 
+Trickuent: checks 
+Manuelito180: folds 
+VilpPS: folds 
+Nutellam@n: folds 
+gastonsoage: raises $0.10 to $0.15
+Smith1606: folds 
+Trickuent: folds 
+Uncalled bet ($0.10) returned to gastonsoage
+gastonsoage collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Trickuent folded before Flop (didn't bet)
+Seat 3: Manuelito180 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Nutellam@n (button) folded before Flop (didn't bet)
+Seat 6: gastonsoage (small blind) collected ($0.15)
+Seat 7: Smith1606 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458599454:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:44:58 PT [2022/07/19 13:44:58 ET]
+Table 'Jugurtha III' 9-max Seat #6 is the button
+Seat 1: Trickuent ($3.95 in chips) 
+Seat 3: Manuelito180 ($5.52 in chips) 
+Seat 4: VilpPS ($5.26 in chips) 
+Seat 5: Nutellam@n ($5 in chips) 
+Seat 6: gastonsoage ($5.25 in chips) 
+Seat 7: Smith1606 ($4.95 in chips) 
+Seat 8: Dorex2007 ($5.07 in chips) 
+Seat 9: aaron894 ($5.08 in chips) 
+Smith1606: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+kamp804: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 2h]
+aaron894: folds 
+Trickuent: calls $0.05
+Manuelito180: raises $0.10 to $0.15
+VilpPS: calls $0.15
+Nutellam@n: folds 
+gastonsoage: folds 
+Smith1606: folds 
+Dorex2007: folds 
+Trickuent: folds 
+*** FLOP *** [Th Ac 9h]
+Manuelito180: checks 
+VilpPS: bets $0.19
+Manuelito180: calls $0.19
+*** TURN *** [Th Ac 9h] [7s]
+Manuelito180: checks 
+VilpPS: checks 
+*** RIVER *** [Th Ac 9h 7s] [Js]
+Manuelito180: checks 
+VilpPS: checks 
+*** SHOW DOWN ***
+Manuelito180: shows [Ts Qd] (a pair of Tens)
+VilpPS: shows [3h Ah] (a pair of Aces)
+VilpPS collected $0.77 from pot
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.03 
+Board [Th Ac 9h 7s Js]
+Seat 1: Trickuent folded before Flop
+Seat 3: Manuelito180 showed [Ts Qd] and lost with a pair of Tens
+Seat 4: VilpPS showed [3h Ah] and won ($0.77) with a pair of Aces
+Seat 5: Nutellam@n folded before Flop (didn't bet)
+Seat 6: gastonsoage (button) folded before Flop (didn't bet)
+Seat 7: Smith1606 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458619728:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:45:57 PT [2022/07/19 13:45:57 ET]
+Table 'Jugurtha III' 9-max Seat #7 is the button
+Seat 1: Trickuent ($3.90 in chips) 
+Seat 3: Manuelito180 ($5.18 in chips) 
+Seat 4: VilpPS ($5.69 in chips) 
+Seat 5: Nutellam@n ($5 in chips) 
+Seat 6: gastonsoage ($5.25 in chips) 
+Seat 7: Smith1606 ($4.93 in chips) 
+Seat 8: Dorex2007 ($5.02 in chips) 
+Seat 9: aaron894 ($5.08 in chips) 
+Dorex2007: posts small blind $0.02
+aaron894: posts big blind $0.05
+kamp804: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Kd]
+Trickuent: folds 
+Manuelito180: folds 
+VilpPS: raises $0.08 to $0.13
+Nutellam@n: folds 
+gastonsoage: calls $0.13
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: folds 
+*** FLOP *** [2c 4d Ks]
+VilpPS: bets $0.15
+gastonsoage: calls $0.15
+*** TURN *** [2c 4d Ks] [Jc]
+VilpPS: bets $0.44
+gastonsoage: calls $0.44
+*** RIVER *** [2c 4d Ks Jc] [Jd]
+VilpPS: checks 
+gastonsoage: bets $1.60
+VilpPS: calls $1.60
+*** SHOW DOWN ***
+gastonsoage: shows [5h Ah] (a pair of Jacks)
+VilpPS: shows [7h Kh] (two pair, Kings and Jacks)
+VilpPS collected $4.51 from pot
+*** SUMMARY ***
+Total pot $4.71 | Rake $0.20 
+Board [2c 4d Ks Jc Jd]
+Seat 1: Trickuent folded before Flop (didn't bet)
+Seat 3: Manuelito180 folded before Flop (didn't bet)
+Seat 4: VilpPS showed [7h Kh] and won ($4.51) with two pair, Kings and Jacks
+Seat 5: Nutellam@n folded before Flop (didn't bet)
+Seat 6: gastonsoage showed [5h Ah] and lost with a pair of Jacks
+Seat 7: Smith1606 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: aaron894 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237458634074:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:46:39 PT [2022/07/19 13:46:39 ET]
+Table 'Jugurtha III' 9-max Seat #8 is the button
+Seat 1: Trickuent ($3.90 in chips) 
+Seat 3: Manuelito180 ($5.18 in chips) 
+Seat 4: VilpPS ($7.88 in chips) 
+Seat 5: Nutellam@n ($5 in chips) 
+Seat 6: gastonsoage ($2.93 in chips) 
+Seat 7: Smith1606 ($4.93 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.03 in chips) 
+aaron894: posts small blind $0.02
+Trickuent: posts big blind $0.05
+kamp804: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 2h]
+Manuelito180 has timed out
+Manuelito180: folds 
+VilpPS: folds 
+Nutellam@n: folds 
+gastonsoage: folds 
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: folds 
+Uncalled bet ($0.03) returned to Trickuent
+Trickuent collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Trickuent (big blind) collected ($0.04)
+Seat 3: Manuelito180 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Nutellam@n folded before Flop (didn't bet)
+Seat 6: gastonsoage folded before Flop (didn't bet)
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: aaron894 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237458643824:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:47:07 PT [2022/07/19 13:47:07 ET]
+Table 'Jugurtha III' 9-max Seat #9 is the button
+Seat 1: Trickuent ($3.92 in chips) 
+Seat 2: kamp804 ($2.63 in chips) 
+Seat 3: Manuelito180 ($5.18 in chips) 
+Seat 4: VilpPS ($7.88 in chips) 
+Seat 5: Nutellam@n ($5 in chips) 
+Seat 6: gastonsoage ($2.93 in chips) 
+Seat 7: Smith1606 ($4.93 in chips) 
+Seat 8: Dorex2007 ($5 in chips) 
+Seat 9: aaron894 ($5.01 in chips) 
+Trickuent: posts small blind $0.02
+kamp804: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah As]
+Manuelito180: folds 
+VilpPS: folds 
+Nutellam@n: folds 
+gastonsoage: raises $0.10 to $0.15
+Smith1606: folds 
+Dorex2007: calls $0.15
+aaron894: folds 
+Trickuent: folds 
+kamp804: folds 
+*** FLOP *** [2s Jd 6h]
+gastonsoage: bets $0.17
+Dorex2007: raises $0.35 to $0.52
+gastonsoage: folds 
+Uncalled bet ($0.35) returned to Dorex2007
+Dorex2007 collected $0.68 from pot
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.03 
+Board [2s Jd 6h]
+Seat 1: Trickuent (small blind) folded before Flop
+Seat 2: kamp804 (big blind) folded before Flop
+Seat 3: Manuelito180 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Nutellam@n folded before Flop (didn't bet)
+Seat 6: gastonsoage folded on the Flop
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 collected ($0.68)
+Seat 9: aaron894 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458653196:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:47:34 PT [2022/07/19 13:47:34 ET]
+Table 'Jugurtha III' 9-max Seat #1 is the button
+Seat 1: Trickuent ($3.90 in chips) 
+Seat 2: kamp804 ($2.58 in chips) 
+Seat 3: Manuelito180 ($5.18 in chips) 
+Seat 4: VilpPS ($7.88 in chips) 
+Seat 5: Nutellam@n ($5 in chips) 
+Seat 6: gastonsoage ($2.61 in chips) 
+Seat 7: Smith1606 ($4.93 in chips) 
+Seat 8: Dorex2007 ($5.36 in chips) 
+Seat 9: aaron894 ($5.01 in chips) 
+kamp804: posts small blind $0.02
+Manuelito180: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 8s]
+VilpPS: folds 
+Nutellam@n: folds 
+gastonsoage: folds 
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: folds 
+Trickuent: raises $0.05 to $0.10
+kamp804: calls $0.08
+Manuelito180: calls $0.05
+*** FLOP *** [Jd Qh 4c]
+kamp804: bets $0.05
+Manuelito180: folds 
+Trickuent: raises $0.05 to $0.10
+kamp804: calls $0.05
+*** TURN *** [Jd Qh 4c] [Th]
+kamp804: bets $0.24
+Trickuent: calls $0.24
+*** RIVER *** [Jd Qh 4c Th] [8c]
+kamp804: checks 
+Trickuent: checks 
+*** SHOW DOWN ***
+kamp804: shows [Ah Qc] (a pair of Queens)
+Trickuent: mucks hand 
+kamp804 collected $0.94 from pot
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.04 
+Board [Jd Qh 4c Th 8c]
+Seat 1: Trickuent (button) mucked [6h Jh]
+Seat 2: kamp804 (small blind) showed [Ah Qc] and won ($0.94) with a pair of Queens
+Seat 3: Manuelito180 (big blind) folded on the Flop
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: Nutellam@n folded before Flop (didn't bet)
+Seat 6: gastonsoage folded before Flop (didn't bet)
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458667116:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:48:14 PT [2022/07/19 13:48:14 ET]
+Table 'Jugurtha III' 9-max Seat #2 is the button
+Seat 1: Trickuent ($3.46 in chips) 
+Seat 2: kamp804 ($3.08 in chips) 
+Seat 3: Manuelito180 ($5.08 in chips) 
+Seat 4: VilpPS ($7.88 in chips) 
+Seat 5: Nutellam@n ($5 in chips) 
+Seat 6: gastonsoage ($2.61 in chips) 
+Seat 7: Smith1606 ($4.93 in chips) 
+Seat 8: Dorex2007 ($5.36 in chips) 
+Seat 9: aaron894 ($5.01 in chips) 
+Manuelito180: posts small blind $0.02
+VilpPS: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 7h]
+Nutellam@n: folds 
+Nutellam@n leaves the table
+gastonsoage: raises $0.10 to $0.15
+Smith1606: folds 
+Dorex2007: calls $0.15
+aaron894: folds 
+Trickuent: calls $0.15
+kamp804: folds 
+Manuelito180: calls $0.13
+lieb_psih joins the table at seat #5 
+VilpPS: folds 
+*** FLOP *** [6s 7d 2c]
+Manuelito180: checks 
+gastonsoage: checks 
+Dorex2007: checks 
+Trickuent: checks 
+*** TURN *** [6s 7d 2c] [5d]
+Manuelito180: checks 
+gastonsoage: checks 
+Dorex2007: bets $0.31
+Trickuent: folds 
+Manuelito180: calls $0.31
+gastonsoage: folds 
+*** RIVER *** [6s 7d 2c 5d] [Qd]
+Manuelito180: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+Manuelito180: shows [3c 3s] (a pair of Threes)
+Dorex2007: shows [7s 7h] (three of a kind, Sevens)
+Dorex2007 collected $1.22 from pot
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.05 
+Board [6s 7d 2c 5d Qd]
+Seat 1: Trickuent folded on the Turn
+Seat 2: kamp804 (button) folded before Flop (didn't bet)
+Seat 3: Manuelito180 (small blind) showed [3c 3s] and lost with a pair of Threes
+Seat 4: VilpPS (big blind) folded before Flop
+Seat 5: Nutellam@n folded before Flop (didn't bet)
+Seat 6: gastonsoage folded on the Turn
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 showed [7s 7h] and won ($1.22) with three of a kind, Sevens
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458682658:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:48:59 PT [2022/07/19 13:48:59 ET]
+Table 'Jugurtha III' 9-max Seat #3 is the button
+Seat 1: Trickuent ($3.31 in chips) 
+Seat 2: kamp804 ($3.08 in chips) 
+Seat 3: Manuelito180 ($4.62 in chips) 
+Seat 4: VilpPS ($7.83 in chips) 
+Seat 5: lieb_psih ($5.89 in chips) 
+Seat 6: gastonsoage ($2.46 in chips) 
+Seat 7: Smith1606 ($4.93 in chips) 
+Seat 8: Dorex2007 ($6.12 in chips) 
+Seat 9: aaron894 ($5.01 in chips) 
+VilpPS: posts small blind $0.02
+lieb_psih: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Td]
+gastonsoage: folds 
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: folds 
+Trickuent: folds 
+kamp804: folds 
+Manuelito180: folds 
+VilpPS: raises $0.10 to $0.15
+lieb_psih: calls $0.10
+*** FLOP *** [7s 3d Qh]
+VilpPS: checks 
+lieb_psih: bets $0.15
+VilpPS: folds 
+Uncalled bet ($0.15) returned to lieb_psih
+lieb_psih collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [7s 3d Qh]
+Seat 1: Trickuent folded before Flop (didn't bet)
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: Manuelito180 (button) folded before Flop (didn't bet)
+Seat 4: VilpPS (small blind) folded on the Flop
+Seat 5: lieb_psih (big blind) collected ($0.29)
+Seat 6: gastonsoage folded before Flop (didn't bet)
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458693977:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:49:33 PT [2022/07/19 13:49:33 ET]
+Table 'Jugurtha III' 9-max Seat #4 is the button
+Seat 1: Trickuent ($3.31 in chips) 
+Seat 2: kamp804 ($3.08 in chips) 
+Seat 3: Manuelito180 ($4.62 in chips) 
+Seat 4: VilpPS ($7.68 in chips) 
+Seat 5: lieb_psih ($6.03 in chips) 
+Seat 6: gastonsoage ($2.46 in chips) 
+Seat 7: Smith1606 ($4.93 in chips) 
+Seat 8: Dorex2007 ($6.12 in chips) 
+Seat 9: aaron894 ($5.01 in chips) 
+lieb_psih: posts small blind $0.02
+gastonsoage: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 6c]
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: folds 
+Trickuent: folds 
+kamp804: calls $0.05
+Manuelito180: folds 
+VilpPS: folds 
+lieb_psih: folds 
+gastonsoage: checks 
+*** FLOP *** [7s 7c Qs]
+gastonsoage: checks 
+kamp804: checks 
+*** TURN *** [7s 7c Qs] [Kc]
+gastonsoage: checks 
+kamp804: bets $0.05
+gastonsoage: folds 
+Uncalled bet ($0.05) returned to kamp804
+kamp804 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [7s 7c Qs Kc]
+Seat 1: Trickuent folded before Flop (didn't bet)
+Seat 2: kamp804 collected ($0.12)
+Seat 3: Manuelito180 folded before Flop (didn't bet)
+Seat 4: VilpPS (button) folded before Flop (didn't bet)
+Seat 5: lieb_psih (small blind) folded before Flop
+Seat 6: gastonsoage (big blind) folded on the Turn
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458705462:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:50:07 PT [2022/07/19 13:50:07 ET]
+Table 'Jugurtha III' 9-max Seat #5 is the button
+Seat 1: Trickuent ($3.31 in chips) 
+Seat 2: kamp804 ($3.15 in chips) 
+Seat 3: Manuelito180 ($4.62 in chips) 
+Seat 4: VilpPS ($7.68 in chips) 
+Seat 5: lieb_psih ($6.01 in chips) 
+Seat 6: gastonsoage ($2.41 in chips) 
+Seat 7: Smith1606 ($4.93 in chips) 
+Seat 8: Dorex2007 ($6.12 in chips) 
+Seat 9: aaron894 ($5.01 in chips) 
+gastonsoage: posts small blind $0.02
+Smith1606: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 6c]
+Dorex2007: folds 
+aaron894: folds 
+Trickuent: folds 
+kamp804: folds 
+Manuelito180: folds 
+VilpPS: folds 
+lieb_psih: raises $0.07 to $0.12
+gastonsoage: folds 
+Smith1606: folds 
+Uncalled bet ($0.07) returned to lieb_psih
+lieb_psih collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Trickuent folded before Flop (didn't bet)
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: Manuelito180 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: lieb_psih (button) collected ($0.12)
+Seat 6: gastonsoage (small blind) folded before Flop
+Seat 7: Smith1606 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458712996:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:50:29 PT [2022/07/19 13:50:29 ET]
+Table 'Jugurtha III' 9-max Seat #6 is the button
+Seat 1: Trickuent ($3.31 in chips) 
+Seat 2: kamp804 ($3.15 in chips) 
+Seat 3: Manuelito180 ($4.62 in chips) 
+Seat 4: VilpPS ($7.68 in chips) 
+Seat 5: lieb_psih ($6.08 in chips) 
+Seat 6: gastonsoage ($2.39 in chips) 
+Seat 7: Smith1606 ($4.88 in chips) 
+Seat 8: Dorex2007 ($6.12 in chips) 
+Seat 9: aaron894 ($5.01 in chips) 
+Smith1606: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 3c]
+aaron894: folds 
+Trickuent: calls $0.05
+kamp804 has timed out
+kamp804: folds 
+Manuelito180: raises $0.15 to $0.20
+VilpPS: folds 
+lieb_psih: folds 
+gastonsoage: calls $0.20
+Smith1606: folds 
+Dorex2007: folds 
+Trickuent: folds 
+*** FLOP *** [7c Ks 4s]
+Manuelito180: bets $0.25
+gastonsoage: calls $0.25
+*** TURN *** [7c Ks 4s] [2h]
+Manuelito180: bets $0.60
+VilpPS is disconnected 
+gastonsoage: calls $0.60
+*** RIVER *** [7c Ks 4s 2h] [Qs]
+Manuelito180: checks 
+gastonsoage: bets $1.34 and is all-in
+Manuelito180: calls $1.34
+*** SHOW DOWN ***
+gastonsoage: shows [6h 3h] (high card King)
+Manuelito180: shows [Kh As] (a pair of Kings)
+Manuelito180 collected $4.70 from pot
+*** SUMMARY ***
+Total pot $4.90 | Rake $0.20 
+Board [7c Ks 4s 2h Qs]
+Seat 1: Trickuent folded before Flop
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: Manuelito180 showed [Kh As] and won ($4.70) with a pair of Kings
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 6: gastonsoage (button) showed [6h 3h] and lost with high card King
+Seat 7: Smith1606 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458735002:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:51:32 PT [2022/07/19 13:51:32 ET]
+Table 'Jugurtha III' 9-max Seat #7 is the button
+Seat 1: Trickuent ($3.26 in chips) 
+Seat 3: Manuelito180 ($6.93 in chips) 
+Seat 4: VilpPS ($7.68 in chips) 
+Seat 5: lieb_psih ($6.08 in chips) 
+Seat 7: Smith1606 ($4.86 in chips) 
+Seat 8: Dorex2007 ($6.07 in chips) 
+Seat 9: aaron894 ($5.01 in chips) 
+Dorex2007: posts small blind $0.02
+aaron894: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 8s]
+gastonsoage leaves the table
+Trickuent: raises $0.05 to $0.10
+Manuelito180: folds 
+VilpPS: folds 
+lieb_psih: folds 
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: folds 
+Uncalled bet ($0.05) returned to Trickuent
+Trickuent collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Trickuent collected ($0.12)
+Seat 3: Manuelito180 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 7: Smith1606 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: aaron894 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237458739221:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:51:45 PT [2022/07/19 13:51:45 ET]
+Table 'Jugurtha III' 9-max Seat #8 is the button
+Seat 1: Trickuent ($3.33 in chips) 
+Seat 3: Manuelito180 ($6.93 in chips) 
+Seat 4: VilpPS ($7.68 in chips) 
+Seat 5: lieb_psih ($6.08 in chips) 
+Seat 7: Smith1606 ($4.86 in chips) 
+Seat 8: Dorex2007 ($6.05 in chips) 
+Seat 9: aaron894 ($4.96 in chips) 
+aaron894: posts small blind $0.02
+Trickuent: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 3s]
+bjrtyuk joins the table at seat #6 
+Manuelito180: folds 
+VilpPS: raises $0.08 to $0.13
+lieb_psih: folds 
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: folds 
+Trickuent: calls $0.08
+*** FLOP *** [Jh Ad Kh]
+Trickuent: bets $0.13
+VilpPS: calls $0.13
+*** TURN *** [Jh Ad Kh] [4c]
+Trickuent: checks 
+VilpPS: checks 
+*** RIVER *** [Jh Ad Kh 4c] [Tc]
+Trickuent: bets $0.52
+VilpPS: folds 
+Uncalled bet ($0.52) returned to Trickuent
+Trickuent collected $0.52 from pot
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [Jh Ad Kh 4c Tc]
+Seat 1: Trickuent (big blind) collected ($0.52)
+Seat 3: Manuelito180 folded before Flop (didn't bet)
+Seat 4: VilpPS folded on the River
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: aaron894 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237458752603:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:52:23 PT [2022/07/19 13:52:23 ET]
+Table 'Jugurtha III' 9-max Seat #9 is the button
+Seat 1: Trickuent ($3.59 in chips) 
+Seat 3: Manuelito180 ($6.93 in chips) 
+Seat 4: VilpPS ($7.42 in chips) 
+Seat 5: lieb_psih ($6.08 in chips) 
+Seat 7: Smith1606 ($4.86 in chips) 
+Seat 8: Dorex2007 ($6.05 in chips) 
+Seat 9: aaron894 ($4.94 in chips) 
+Trickuent: posts small blind $0.02
+Manuelito180: posts big blind $0.05
+bjrtyuk: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Th]
+VilpPS: folds 
+lieb_psih: folds 
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: raises $0.10 to $0.15
+Trickuent: folds 
+Manuelito180: calls $0.10
+*** FLOP *** [2d Ac 8h]
+Manuelito180: checks 
+aaron894: checks 
+*** TURN *** [2d Ac 8h] [7s]
+Manuelito180: checks 
+aaron894: checks 
+*** RIVER *** [2d Ac 8h 7s] [5s]
+Manuelito180: checks 
+aaron894: checks 
+*** SHOW DOWN ***
+Manuelito180: shows [2c 2h] (three of a kind, Deuces)
+aaron894: mucks hand 
+Manuelito180 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [2d Ac 8h 7s 5s]
+Seat 1: Trickuent (small blind) folded before Flop
+Seat 3: Manuelito180 (big blind) showed [2c 2h] and won ($0.31) with three of a kind, Deuces
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 (button) mucked [Qs Js]
+
+
+
+PokerStars Hand #237458763616:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:52:55 PT [2022/07/19 13:52:55 ET]
+Table 'Jugurtha III' 9-max Seat #1 is the button
+Seat 1: Trickuent ($3.57 in chips) 
+Seat 3: Manuelito180 ($7.09 in chips) 
+Seat 4: VilpPS ($7.42 in chips) 
+Seat 5: lieb_psih ($6.08 in chips) 
+Seat 7: Smith1606 ($4.86 in chips) 
+Seat 8: Dorex2007 ($6.05 in chips) 
+Seat 9: aaron894 ($4.79 in chips) 
+Manuelito180: posts small blind $0.02
+VilpPS: posts big blind $0.05
+bjrtyuk: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 6c]
+lieb_psih: folds 
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: raises $0.10 to $0.15
+Trickuent: folds 
+Manuelito180: folds 
+VilpPS: folds 
+Uncalled bet ($0.10) returned to aaron894
+aaron894 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Trickuent (button) folded before Flop (didn't bet)
+Seat 3: Manuelito180 (small blind) folded before Flop
+Seat 4: VilpPS (big blind) folded before Flop
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 collected ($0.12)
+
+
+
+PokerStars Hand #237458769371:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:53:12 PT [2022/07/19 13:53:12 ET]
+Table 'Jugurtha III' 9-max Seat #3 is the button
+Seat 1: Trickuent ($3.57 in chips) 
+Seat 3: Manuelito180 ($7.07 in chips) 
+Seat 4: VilpPS ($7.37 in chips) 
+Seat 5: lieb_psih ($6.08 in chips) 
+Seat 7: Smith1606 ($4.86 in chips) 
+Seat 8: Dorex2007 ($6.05 in chips) 
+Seat 9: aaron894 ($4.86 in chips) 
+VilpPS: posts small blind $0.02
+lieb_psih: posts big blind $0.05
+bjrtyuk: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 9s]
+Smith1606: raises $0.10 to $0.15
+Dorex2007: folds 
+aaron894: raises $0.30 to $0.45
+Trickuent: folds 
+Manuelito180: folds 
+VilpPS: folds 
+lieb_psih: folds 
+Smith1606: calls $0.30
+*** FLOP *** [Th 5d 5h]
+Smith1606: checks 
+aaron894: bets $0.80
+Smith1606: folds 
+Uncalled bet ($0.80) returned to aaron894
+aaron894 collected $0.93 from pot
+*** SUMMARY ***
+Total pot $0.97 | Rake $0.04 
+Board [Th 5d 5h]
+Seat 1: Trickuent folded before Flop (didn't bet)
+Seat 3: Manuelito180 (button) folded before Flop (didn't bet)
+Seat 4: VilpPS (small blind) folded before Flop
+Seat 5: lieb_psih (big blind) folded before Flop
+Seat 7: Smith1606 folded on the Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 collected ($0.93)
+
+
+
+PokerStars Hand #237458778965:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:53:41 PT [2022/07/19 13:53:41 ET]
+Table 'Jugurtha III' 9-max Seat #4 is the button
+Seat 1: Trickuent ($3.57 in chips) 
+Seat 3: Manuelito180 ($7.07 in chips) 
+Seat 4: VilpPS ($7.35 in chips) 
+Seat 5: lieb_psih ($6.03 in chips) 
+Seat 6: bjrtyuk ($5.68 in chips) 
+Seat 7: Smith1606 ($4.41 in chips) 
+Seat 8: Dorex2007 ($6.05 in chips) 
+Seat 9: aaron894 ($5.34 in chips) 
+lieb_psih: posts small blind $0.02
+bjrtyuk: posts big blind $0.05
+kamp804: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 9d]
+Smith1606: folds 
+Dorex2007: calls $0.05
+aaron894: folds 
+Trickuent has timed out
+Trickuent: folds 
+Manuelito180: folds 
+VilpPS: folds 
+lieb_psih: raises $0.10 to $0.15
+bjrtyuk: folds 
+Dorex2007: calls $0.10
+*** FLOP *** [Th 8h 7c]
+lieb_psih: bets $0.17
+Dorex2007: calls $0.17
+*** TURN *** [Th 8h 7c] [Jh]
+lieb_psih: bets $0.50
+Dorex2007: calls $0.50
+*** RIVER *** [Th 8h 7c Jh] [Qd]
+lieb_psih: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+lieb_psih: shows [3s Js] (a pair of Jacks)
+Dorex2007: shows [9h 9d] (a straight, Eight to Queen)
+Dorex2007 collected $1.62 from pot
+*** SUMMARY ***
+Total pot $1.69 | Rake $0.07 
+Board [Th 8h 7c Jh Qd]
+Seat 1: Trickuent folded before Flop (didn't bet)
+Seat 3: Manuelito180 folded before Flop (didn't bet)
+Seat 4: VilpPS (button) folded before Flop (didn't bet)
+Seat 5: lieb_psih (small blind) showed [3s Js] and lost with a pair of Jacks
+Seat 6: bjrtyuk (big blind) folded before Flop
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 showed [9h 9d] and won ($1.62) with a straight, Eight to Queen
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458794947:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:54:27 PT [2022/07/19 13:54:27 ET]
+Table 'Jugurtha III' 9-max Seat #5 is the button
+Seat 3: Manuelito180 ($7.07 in chips) 
+Seat 4: VilpPS ($7.35 in chips) 
+Seat 5: lieb_psih ($5.21 in chips) 
+Seat 6: bjrtyuk ($5.63 in chips) 
+Seat 7: Smith1606 ($4.41 in chips) 
+Seat 8: Dorex2007 ($6.85 in chips) 
+Seat 9: aaron894 ($5.34 in chips) 
+bjrtyuk: posts small blind $0.02
+Smith1606: posts big blind $0.05
+kamp804: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 4d]
+Dorex2007: folds 
+aaron894: folds 
+Manuelito180: folds 
+VilpPS: folds 
+lieb_psih: folds 
+bjrtyuk: raises $0.10 to $0.15
+Smith1606: folds 
+Uncalled bet ($0.10) returned to bjrtyuk
+bjrtyuk collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 3: Manuelito180 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: lieb_psih (button) folded before Flop (didn't bet)
+Seat 6: bjrtyuk (small blind) collected ($0.10)
+Seat 7: Smith1606 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458800978:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:54:45 PT [2022/07/19 13:54:45 ET]
+Table 'Jugurtha III' 9-max Seat #6 is the button
+Seat 1: Trickuent ($3.57 in chips) 
+Seat 3: Manuelito180 ($7.07 in chips) 
+Seat 4: VilpPS ($7.35 in chips) 
+Seat 5: lieb_psih ($5.21 in chips) 
+Seat 6: bjrtyuk ($5.68 in chips) 
+Seat 7: Smith1606 ($4.36 in chips) 
+Seat 8: Dorex2007 ($6.85 in chips) 
+Seat 9: aaron894 ($5.34 in chips) 
+Smith1606: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+kamp804: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 2s]
+aaron894: folds 
+Trickuent: raises $0.10 to $0.15
+Manuelito180: folds 
+VilpPS: folds 
+lieb_psih: folds 
+bjrtyuk: folds 
+Smith1606: folds 
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to Trickuent
+Trickuent collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Trickuent collected ($0.12)
+Seat 3: Manuelito180 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 6: bjrtyuk (button) folded before Flop (didn't bet)
+Seat 7: Smith1606 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458806455:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:55:01 PT [2022/07/19 13:55:01 ET]
+Table 'Jugurtha III' 9-max Seat #7 is the button
+Seat 1: Trickuent ($3.64 in chips) 
+Seat 3: Manuelito180 ($7.07 in chips) 
+Seat 4: VilpPS ($7.35 in chips) 
+Seat 5: lieb_psih ($5.21 in chips) 
+Seat 6: bjrtyuk ($5.68 in chips) 
+Seat 7: Smith1606 ($4.34 in chips) 
+Seat 8: Dorex2007 ($6.80 in chips) 
+Seat 9: aaron894 ($5.34 in chips) 
+Dorex2007: posts small blind $0.02
+aaron894: posts big blind $0.05
+kamp804: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 3d]
+Trickuent: calls $0.05
+Manuelito180: folds 
+VilpPS: folds 
+lieb_psih: folds 
+bjrtyuk: folds 
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: checks 
+*** FLOP *** [Kh 3s 3c]
+aaron894: checks 
+Trickuent: checks 
+*** TURN *** [Kh 3s 3c] [5h]
+aaron894: checks 
+Trickuent: bets $0.06
+aaron894: calls $0.06
+*** RIVER *** [Kh 3s 3c 5h] [9c]
+aaron894: checks 
+Trickuent: checks 
+*** SHOW DOWN ***
+aaron894: shows [5c 6s] (two pair, Fives and Threes)
+Trickuent: mucks hand 
+aaron894 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Kh 3s 3c 5h 9c]
+Seat 1: Trickuent mucked [Th 6h]
+Seat 3: Manuelito180 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 6: bjrtyuk folded before Flop (didn't bet)
+Seat 7: Smith1606 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: aaron894 (big blind) showed [5c 6s] and won ($0.23) with two pair, Fives and Threes
+
+
+
+PokerStars Hand #237458816906:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:55:43 PT [2022/07/19 13:55:43 ET]
+Table 'Jugurtha III' 9-max Seat #8 is the button
+Seat 1: Trickuent ($3.53 in chips) 
+Seat 3: Manuelito180 ($7.07 in chips) 
+Seat 4: VilpPS ($7.35 in chips) 
+Seat 5: lieb_psih ($5.21 in chips) 
+Seat 6: bjrtyuk ($5.68 in chips) 
+Seat 7: Smith1606 ($4.34 in chips) 
+Seat 8: Dorex2007 ($6.78 in chips) 
+Seat 9: aaron894 ($5.46 in chips) 
+aaron894: posts small blind $0.02
+Trickuent: posts big blind $0.05
+kamp804: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 5h]
+Manuelito180: folds 
+VilpPS: folds 
+lieb_psih: folds 
+bjrtyuk: folds 
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: folds 
+Uncalled bet ($0.03) returned to Trickuent
+Trickuent collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Trickuent (big blind) collected ($0.04)
+Seat 3: Manuelito180 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 6: bjrtyuk folded before Flop (didn't bet)
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: aaron894 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237458819047:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:55:52 PT [2022/07/19 13:55:52 ET]
+Table 'Jugurtha III' 9-max Seat #9 is the button
+Seat 1: Trickuent ($3.55 in chips) 
+Seat 2: kamp804 ($3.15 in chips) 
+Seat 3: Manuelito180 ($7.07 in chips) 
+Seat 4: VilpPS ($7.35 in chips) 
+Seat 5: lieb_psih ($5.21 in chips) 
+Seat 6: bjrtyuk ($5.68 in chips) 
+Seat 7: Smith1606 ($4.34 in chips) 
+Seat 8: Dorex2007 ($6.78 in chips) 
+Seat 9: aaron894 ($5.44 in chips) 
+Trickuent: posts small blind $0.02
+kamp804: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Qh]
+Manuelito180: raises $0.10 to $0.15
+VilpPS: calls $0.15
+lieb_psih: folds 
+bjrtyuk: folds 
+Smith1606: calls $0.15
+Dorex2007: folds 
+aaron894: folds 
+Trickuent: folds 
+kamp804: folds 
+*** FLOP *** [Qs 7d 7s]
+Manuelito180: checks 
+VilpPS: checks 
+Smith1606: checks 
+*** TURN *** [Qs 7d 7s] [3c]
+Manuelito180: checks 
+VilpPS: checks 
+Smith1606: checks 
+*** RIVER *** [Qs 7d 7s 3c] [5c]
+Manuelito180: bets $0.25
+VilpPS: folds 
+Smith1606: folds 
+Uncalled bet ($0.25) returned to Manuelito180
+Manuelito180 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [Qs 7d 7s 3c 5c]
+Seat 1: Trickuent (small blind) folded before Flop
+Seat 2: kamp804 (big blind) folded before Flop
+Seat 3: Manuelito180 collected ($0.50)
+Seat 4: VilpPS folded on the River
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 6: bjrtyuk folded before Flop (didn't bet)
+Seat 7: Smith1606 folded on the River
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458836868:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:57:06 PT [2022/07/19 13:57:06 ET]
+Table 'Jugurtha III' 9-max Seat #1 is the button
+Seat 1: Trickuent ($3.53 in chips) 
+Seat 2: kamp804 ($3.10 in chips) 
+Seat 3: Manuelito180 ($7.42 in chips) 
+Seat 4: VilpPS ($7.20 in chips) 
+Seat 5: lieb_psih ($5.21 in chips) 
+Seat 6: bjrtyuk ($5.68 in chips) 
+Seat 7: Smith1606 ($4.19 in chips) 
+Seat 8: Dorex2007 ($6.78 in chips) 
+Seat 9: aaron894 ($5.44 in chips) 
+kamp804: posts small blind $0.02
+Manuelito180: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 4d]
+VilpPS: folds 
+lieb_psih: folds 
+bjrtyuk: folds 
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: folds 
+Trickuent: raises $0.05 to $0.10
+kamp804: folds 
+Manuelito180: calls $0.05
+*** FLOP *** [6h 9c 9d]
+Manuelito180: checks 
+Trickuent: checks 
+*** TURN *** [6h 9c 9d] [Qd]
+Manuelito180: checks 
+Trickuent: checks 
+*** RIVER *** [6h 9c 9d Qd] [6s]
+Manuelito180: bets $0.15
+Trickuent: folds 
+Uncalled bet ($0.15) returned to Manuelito180
+Manuelito180 collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [6h 9c 9d Qd 6s]
+Seat 1: Trickuent (button) folded on the River
+Seat 2: kamp804 (small blind) folded before Flop
+Seat 3: Manuelito180 (big blind) collected ($0.21)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 6: bjrtyuk folded before Flop (didn't bet)
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458845907:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:57:44 PT [2022/07/19 13:57:44 ET]
+Table 'Jugurtha III' 9-max Seat #2 is the button
+Seat 1: Trickuent ($3.43 in chips) 
+Seat 2: kamp804 ($3.08 in chips) 
+Seat 3: Manuelito180 ($7.53 in chips) 
+Seat 4: VilpPS ($7.20 in chips) 
+Seat 5: lieb_psih ($5.21 in chips) 
+Seat 6: bjrtyuk ($5.68 in chips) 
+Seat 7: Smith1606 ($4.19 in chips) 
+Seat 8: Dorex2007 ($6.78 in chips) 
+Seat 9: aaron894 ($5.44 in chips) 
+Manuelito180: posts small blind $0.02
+VilpPS: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 2h]
+lieb_psih: folds 
+bjrtyuk: folds 
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: folds 
+Trickuent: raises $0.05 to $0.10
+kamp804: folds 
+Manuelito180: calls $0.08
+VilpPS: folds 
+*** FLOP *** [6s Th 8c]
+Manuelito180: checks 
+Trickuent: checks 
+*** TURN *** [6s Th 8c] [4h]
+Manuelito180: checks 
+Trickuent: checks 
+*** RIVER *** [6s Th 8c 4h] [Jc]
+Manuelito180: bets $0.12
+Trickuent: raises $0.12 to $0.24
+Manuelito180: folds 
+Uncalled bet ($0.12) returned to Trickuent
+Trickuent collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [6s Th 8c 4h Jc]
+Seat 1: Trickuent collected ($0.47)
+Seat 2: kamp804 (button) folded before Flop (didn't bet)
+Seat 3: Manuelito180 (small blind) folded on the River
+Seat 4: VilpPS (big blind) folded before Flop
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 6: bjrtyuk folded before Flop (didn't bet)
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458858454:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:58:35 PT [2022/07/19 13:58:35 ET]
+Table 'Jugurtha III' 9-max Seat #3 is the button
+Seat 1: Trickuent ($3.68 in chips) 
+Seat 2: kamp804 ($3.08 in chips) 
+Seat 3: Manuelito180 ($7.31 in chips) 
+Seat 4: VilpPS ($7.15 in chips) 
+Seat 5: lieb_psih ($5.21 in chips) 
+Seat 6: bjrtyuk ($5.68 in chips) 
+Seat 7: Smith1606 ($4.19 in chips) 
+Seat 8: Dorex2007 ($6.78 in chips) 
+Seat 9: aaron894 ($5.44 in chips) 
+VilpPS: posts small blind $0.02
+lieb_psih: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Qc]
+bjrtyuk: folds 
+Smith1606: folds 
+Dorex2007: calls $0.05
+aaron894: folds 
+Trickuent: raises $0.05 to $0.10
+kamp804: calls $0.10
+Manuelito180: folds 
+VilpPS: folds 
+lieb_psih: folds 
+Dorex2007: calls $0.05
+*** FLOP *** [5s 5h 9h]
+Dorex2007: checks 
+Trickuent: checks 
+kamp804: bets $0.05
+Dorex2007: folds 
+Trickuent: calls $0.05
+*** TURN *** [5s 5h 9h] [3s]
+Trickuent: checks 
+kamp804: bets $0.05
+Trickuent: folds 
+Uncalled bet ($0.05) returned to kamp804
+kamp804 collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [5s 5h 9h 3s]
+Seat 1: Trickuent folded on the Turn
+Seat 2: kamp804 collected ($0.45)
+Seat 3: Manuelito180 (button) folded before Flop (didn't bet)
+Seat 4: VilpPS (small blind) folded before Flop
+Seat 5: lieb_psih (big blind) folded before Flop
+Seat 6: bjrtyuk folded before Flop (didn't bet)
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded on the Flop
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458868680:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 10:59:17 PT [2022/07/19 13:59:17 ET]
+Table 'Jugurtha III' 9-max Seat #4 is the button
+Seat 1: Trickuent ($3.53 in chips) 
+Seat 2: kamp804 ($3.38 in chips) 
+Seat 3: Manuelito180 ($7.31 in chips) 
+Seat 4: VilpPS ($7.13 in chips) 
+Seat 5: lieb_psih ($5.16 in chips) 
+Seat 7: Smith1606 ($4.19 in chips) 
+Seat 8: Dorex2007 ($6.68 in chips) 
+Seat 9: aaron894 ($5.44 in chips) 
+lieb_psih: posts small blind $0.02
+bjrtyuk: is sitting out 
+Smith1606: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 8d]
+bjrtyuk leaves the table
+Dorex2007: folds 
+aaron894: folds 
+Trickuent: calls $0.05
+kamp804: calls $0.05
+crissi25 joins the table at seat #6 
+Manuelito180: raises $0.17 to $0.22
+VilpPS: folds 
+lieb_psih: folds 
+Smith1606: folds 
+Trickuent: calls $0.17
+kamp804: folds 
+*** FLOP *** [5d 6d Kc]
+Trickuent: bets $0.54
+Manuelito180: calls $0.54
+*** TURN *** [5d 6d Kc] [7c]
+Trickuent: checks 
+Manuelito180: checks 
+*** RIVER *** [5d 6d Kc 7c] [9h]
+Trickuent: checks 
+Manuelito180: bets $0.78
+Trickuent: folds 
+Uncalled bet ($0.78) returned to Manuelito180
+Manuelito180 collected $1.57 from pot
+*** SUMMARY ***
+Total pot $1.64 | Rake $0.07 
+Board [5d 6d Kc 7c 9h]
+Seat 1: Trickuent folded on the River
+Seat 2: kamp804 folded before Flop
+Seat 3: Manuelito180 collected ($1.57)
+Seat 4: VilpPS (button) folded before Flop (didn't bet)
+Seat 5: lieb_psih (small blind) folded before Flop
+Seat 7: Smith1606 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458886964:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:00:30 PT [2022/07/19 14:00:30 ET]
+Table 'Jugurtha III' 9-max Seat #5 is the button
+Seat 1: Trickuent ($2.77 in chips) 
+Seat 2: kamp804 ($3.33 in chips) 
+Seat 3: Manuelito180 ($8.12 in chips) 
+Seat 4: VilpPS ($7.13 in chips) 
+Seat 5: lieb_psih ($5.14 in chips) 
+Seat 7: Smith1606 ($4.14 in chips) 
+Seat 8: Dorex2007 ($6.68 in chips) 
+Seat 9: aaron894 ($5.44 in chips) 
+Smith1606: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s Jh]
+aaron894: folds 
+Trickuent: folds 
+kamp804: folds 
+Manuelito180: folds 
+VilpPS: raises $0.08 to $0.13
+lieb_psih: folds 
+Smith1606: calls $0.11
+Dorex2007: folds 
+*** FLOP *** [4h 8s Qc]
+Smith1606: checks 
+VilpPS: checks 
+*** TURN *** [4h 8s Qc] [Ks]
+Smith1606: bets $0.15
+VilpPS: folds 
+Uncalled bet ($0.15) returned to Smith1606
+Smith1606 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [4h 8s Qc Ks]
+Seat 1: Trickuent folded before Flop (didn't bet)
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: Manuelito180 folded before Flop (didn't bet)
+Seat 4: VilpPS folded on the Turn
+Seat 5: lieb_psih (button) folded before Flop (didn't bet)
+Seat 7: Smith1606 (small blind) collected ($0.30)
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458897355:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:01:07 PT [2022/07/19 14:01:07 ET]
+Table 'Jugurtha III' 9-max Seat #7 is the button
+Seat 1: Trickuent ($2.77 in chips) 
+Seat 2: kamp804 ($3.33 in chips) 
+Seat 3: Manuelito180 ($8.12 in chips) 
+Seat 4: VilpPS ($7 in chips) 
+Seat 5: lieb_psih ($5.14 in chips) 
+Seat 7: Smith1606 ($4.31 in chips) 
+Seat 8: Dorex2007 ($6.63 in chips) 
+Seat 9: aaron894 ($5.44 in chips) 
+Dorex2007: posts small blind $0.02
+aaron894: posts big blind $0.05
+crissi25: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Qh]
+Trickuent has timed out
+Trickuent: folds 
+kamp804: folds 
+Manuelito180: folds 
+VilpPS: raises $0.08 to $0.13
+lieb_psih: folds 
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: folds 
+Uncalled bet ($0.08) returned to VilpPS
+VilpPS collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Trickuent folded before Flop (didn't bet)
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: Manuelito180 folded before Flop (didn't bet)
+Seat 4: VilpPS collected ($0.12)
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 7: Smith1606 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: aaron894 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237458905544:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:01:33 PT [2022/07/19 14:01:33 ET]
+Table 'Jugurtha III' 9-max Seat #8 is the button
+Seat 1: Trickuent ($2.77 in chips) 
+Seat 2: kamp804 ($3.33 in chips) 
+Seat 3: Manuelito180 ($8.12 in chips) 
+Seat 4: VilpPS ($7.07 in chips) 
+Seat 5: lieb_psih ($5.14 in chips) 
+Seat 7: Smith1606 ($4.31 in chips) 
+Seat 8: Dorex2007 ($6.61 in chips) 
+Seat 9: aaron894 ($5.39 in chips) 
+aaron894: posts small blind $0.02
+Trickuent: posts big blind $0.05
+crissi25: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 7d]
+kamp804: folds 
+Manuelito180: folds 
+VilpPS: folds 
+lieb_psih: folds 
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: folds 
+Uncalled bet ($0.03) returned to Trickuent
+Trickuent collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Trickuent (big blind) collected ($0.04)
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: Manuelito180 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: aaron894 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237458911623:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:01:52 PT [2022/07/19 14:01:52 ET]
+Table 'Jugurtha III' 9-max Seat #9 is the button
+Seat 1: Trickuent ($2.79 in chips) 
+Seat 2: kamp804 ($3.33 in chips) 
+Seat 3: Manuelito180 ($8.12 in chips) 
+Seat 4: VilpPS ($7.07 in chips) 
+Seat 5: lieb_psih ($5.14 in chips) 
+Seat 7: Smith1606 ($4.31 in chips) 
+Seat 8: Dorex2007 ($6.61 in chips) 
+Seat 9: aaron894 ($5.37 in chips) 
+Trickuent: posts small blind $0.02
+kamp804: posts big blind $0.05
+crissi25: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh As]
+Manuelito180: folds 
+VilpPS: folds 
+lieb_psih: folds 
+Smith1606: folds 
+Manuelito180 leaves the table
+Dorex2007: raises $0.10 to $0.15
+aaron894: folds 
+Trickuent: folds 
+kamp804: calls $0.10
+*** FLOP *** [3s 3c 8c]
+kamp804: bets $0.10
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to kamp804
+kamp804 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [3s 3c 8c]
+Seat 1: Trickuent (small blind) folded before Flop
+Seat 2: kamp804 (big blind) collected ($0.31)
+Seat 3: Manuelito180 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded on the Flop
+Seat 9: aaron894 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458918826:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:02:15 PT [2022/07/19 14:02:15 ET]
+Table 'Jugurtha III' 9-max Seat #1 is the button
+Seat 1: Trickuent ($2.77 in chips) 
+Seat 2: kamp804 ($3.49 in chips) 
+Seat 4: VilpPS ($7.07 in chips) 
+Seat 5: lieb_psih ($5.14 in chips) 
+Seat 7: Smith1606 ($4.31 in chips) 
+Seat 8: Dorex2007 ($6.46 in chips) 
+Seat 9: aaron894 ($5.37 in chips) 
+kamp804: posts small blind $0.02
+VilpPS: posts big blind $0.05
+crissi25: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 9s]
+lieb_psih: folds 
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: folds 
+Trickuent: calls $0.05
+kamp804: folds 
+VilpPS: checks 
+*** FLOP *** [9c 9h Qs]
+VilpPS: checks 
+Trickuent: checks 
+*** TURN *** [9c 9h Qs] [Jc]
+VilpPS: checks 
+Trickuent: checks 
+*** RIVER *** [9c 9h Qs Jc] [Ah]
+VilpPS: bets $0.06
+Trickuent: folds 
+Uncalled bet ($0.06) returned to VilpPS
+VilpPS collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [9c 9h Qs Jc Ah]
+Seat 1: Trickuent (button) folded on the River
+Seat 2: kamp804 (small blind) folded before Flop
+Seat 4: VilpPS (big blind) collected ($0.12)
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458932476:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:02:54 PT [2022/07/19 14:02:54 ET]
+Table 'Jugurtha III' 9-max Seat #2 is the button
+Seat 1: Trickuent ($2.72 in chips) 
+Seat 2: kamp804 ($3.47 in chips) 
+Seat 4: VilpPS ($7.14 in chips) 
+Seat 5: lieb_psih ($5.14 in chips) 
+Seat 7: Smith1606 ($4.31 in chips) 
+Seat 8: Dorex2007 ($6.46 in chips) 
+Seat 9: aaron894 ($5.37 in chips) 
+VilpPS: posts small blind $0.02
+lieb_psih: posts big blind $0.05
+crissi25: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Ts]
+Smith1606: folds 
+Dorex2007: raises $0.05 to $0.10
+aaron894: folds 
+valter1333 joins the table at seat #3 
+Trickuent: folds 
+kamp804: folds 
+VilpPS: folds 
+lieb_psih: calls $0.05
+*** FLOP *** [Jd 5d 6h]
+lieb_psih: checks 
+Dorex2007: checks 
+*** TURN *** [Jd 5d 6h] [6c]
+lieb_psih: checks 
+Dorex2007: checks 
+*** RIVER *** [Jd 5d 6h 6c] [3h]
+lieb_psih: bets $0.16
+Dorex2007: folds 
+Uncalled bet ($0.16) returned to lieb_psih
+lieb_psih collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Jd 5d 6h 6c 3h]
+Seat 1: Trickuent folded before Flop (didn't bet)
+Seat 2: kamp804 (button) folded before Flop (didn't bet)
+Seat 4: VilpPS (small blind) folded before Flop
+Seat 5: lieb_psih (big blind) collected ($0.21)
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded on the River
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458948886:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:03:40 PT [2022/07/19 14:03:40 ET]
+Table 'Jugurtha III' 9-max Seat #4 is the button
+Seat 1: Trickuent ($2.72 in chips) 
+Seat 2: kamp804 ($3.47 in chips) 
+Seat 3: valter1333 ($2 in chips) 
+Seat 4: VilpPS ($7.12 in chips) 
+Seat 5: lieb_psih ($5.25 in chips) 
+Seat 6: crissi25 ($4 in chips) 
+Seat 7: Smith1606 ($4.31 in chips) 
+Seat 8: Dorex2007 ($6.36 in chips) 
+Seat 9: aaron894 ($5.37 in chips) 
+lieb_psih: posts small blind $0.02
+crissi25: posts big blind $0.05
+valter1333: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 4h]
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: folds 
+Trickuent: raises $0.05 to $0.10
+kamp804: folds 
+valter1333: calls $0.05
+VilpPS: folds 
+lieb_psih: folds 
+crissi25: folds 
+*** FLOP *** [Qd 3s Ah]
+Trickuent: bets $0.26
+valter1333: folds 
+Uncalled bet ($0.26) returned to Trickuent
+Trickuent collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Qd 3s Ah]
+Seat 1: Trickuent collected ($0.26)
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: valter1333 folded on the Flop
+Seat 4: VilpPS (button) folded before Flop (didn't bet)
+Seat 5: lieb_psih (small blind) folded before Flop
+Seat 6: crissi25 (big blind) folded before Flop
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458962259:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:04:18 PT [2022/07/19 14:04:18 ET]
+Table 'Jugurtha III' 9-max Seat #5 is the button
+Seat 1: Trickuent ($2.88 in chips) 
+Seat 2: kamp804 ($3.47 in chips) 
+Seat 3: valter1333 ($1.90 in chips) 
+Seat 4: VilpPS ($7.12 in chips) 
+Seat 5: lieb_psih ($5.23 in chips) 
+Seat 6: crissi25 ($3.95 in chips) 
+Seat 7: Smith1606 ($4.31 in chips) 
+Seat 8: Dorex2007 ($6.36 in chips) 
+Seat 9: aaron894 ($5.37 in chips) 
+crissi25: posts small blind $0.02
+Smith1606: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 6c]
+Dorex2007: folds 
+aaron894: folds 
+Trickuent: calls $0.05
+kamp804: folds 
+valter1333: folds 
+VilpPS: raises $0.40 to $0.45
+lieb_psih: folds 
+crissi25: folds 
+Smith1606: folds 
+Trickuent: folds 
+Uncalled bet ($0.40) returned to VilpPS
+VilpPS collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0 
+Seat 1: Trickuent folded before Flop
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: valter1333 folded before Flop (didn't bet)
+Seat 4: VilpPS collected ($0.17)
+Seat 5: lieb_psih (button) folded before Flop (didn't bet)
+Seat 6: crissi25 (small blind) folded before Flop
+Seat 7: Smith1606 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458971287:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:04:44 PT [2022/07/19 14:04:44 ET]
+Table 'Jugurtha III' 9-max Seat #6 is the button
+Seat 1: Trickuent ($2.83 in chips) 
+Seat 2: kamp804 ($3.47 in chips) 
+Seat 3: valter1333 ($1.90 in chips) 
+Seat 4: VilpPS ($7.24 in chips) 
+Seat 5: lieb_psih ($5.23 in chips) 
+Seat 6: crissi25 ($3.93 in chips) 
+Seat 7: Smith1606 ($4.26 in chips) 
+Seat 8: Dorex2007 ($6.36 in chips) 
+Seat 9: aaron894 ($5.37 in chips) 
+Smith1606: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Jc]
+aaron894: folds 
+Trickuent: folds 
+kamp804: calls $0.05
+valter1333 has timed out
+valter1333: folds 
+VilpPS: folds 
+lieb_psih: folds 
+crissi25: raises $0.05 to $0.10
+Smith1606: folds 
+Dorex2007: calls $0.05
+kamp804: calls $0.05
+*** FLOP *** [7c 6d 9s]
+Dorex2007: bets $0.31
+kamp804: calls $0.31
+crissi25: folds 
+*** TURN *** [7c 6d 9s] [Qc]
+Dorex2007: checks 
+kamp804: bets $0.25
+Dorex2007: folds 
+Uncalled bet ($0.25) returned to kamp804
+kamp804 collected $0.90 from pot
+*** SUMMARY ***
+Total pot $0.94 | Rake $0.04 
+Board [7c 6d 9s Qc]
+Seat 1: Trickuent folded before Flop (didn't bet)
+Seat 2: kamp804 collected ($0.90)
+Seat 3: valter1333 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 6: crissi25 (button) folded on the Flop
+Seat 7: Smith1606 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded on the Turn
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237458988175:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:05:30 PT [2022/07/19 14:05:30 ET]
+Table 'Jugurtha III' 9-max Seat #7 is the button
+Seat 1: Trickuent ($2.83 in chips) 
+Seat 2: kamp804 ($3.96 in chips) 
+Seat 3: valter1333 ($1.90 in chips) 
+Seat 4: VilpPS ($7.24 in chips) 
+Seat 5: lieb_psih ($5.23 in chips) 
+Seat 6: crissi25 ($3.83 in chips) 
+Seat 7: Smith1606 ($4.24 in chips) 
+Seat 8: Dorex2007 ($5.95 in chips) 
+Seat 9: aaron894 ($5.37 in chips) 
+Dorex2007: posts small blind $0.02
+aaron894: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 7c]
+Trickuent: calls $0.05
+kamp804: folds 
+valter1333: calls $0.05
+VilpPS: folds 
+lieb_psih: folds 
+crissi25: folds 
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: checks 
+*** FLOP *** [As Jh Kh]
+aaron894: checks 
+Trickuent: checks 
+valter1333: checks 
+*** TURN *** [As Jh Kh] [Kc]
+aaron894: checks 
+Trickuent: checks 
+valter1333: bets $0.21
+aaron894: folds 
+Trickuent: folds 
+Uncalled bet ($0.21) returned to valter1333
+valter1333 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [As Jh Kh Kc]
+Seat 1: Trickuent folded on the Turn
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: valter1333 collected ($0.16)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 6: crissi25 folded before Flop (didn't bet)
+Seat 7: Smith1606 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: aaron894 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #237459005931:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:06:17 PT [2022/07/19 14:06:17 ET]
+Table 'Jugurtha III' 9-max Seat #8 is the button
+Seat 1: Trickuent ($2.78 in chips) 
+Seat 2: kamp804 ($3.96 in chips) 
+Seat 3: valter1333 ($2.01 in chips) 
+Seat 4: VilpPS ($7.24 in chips) 
+Seat 5: lieb_psih ($5.23 in chips) 
+Seat 6: crissi25 ($3.83 in chips) 
+Seat 7: Smith1606 ($4.24 in chips) 
+Seat 8: Dorex2007 ($5.93 in chips) 
+Seat 9: aaron894 ($5.32 in chips) 
+aaron894: posts small blind $0.02
+Trickuent: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 2d]
+kamp804: folds 
+valter1333: folds 
+VilpPS: raises $0.08 to $0.13
+lieb_psih: folds 
+crissi25: folds 
+Smith1606: folds 
+Dorex2007: calls $0.13
+aaron894: folds 
+Trickuent: folds 
+*** FLOP *** [5c 5h 4d]
+VilpPS: checks 
+Dorex2007: checks 
+*** TURN *** [5c 5h 4d] [8c]
+VilpPS: checks 
+Dorex2007: checks 
+*** RIVER *** [5c 5h 4d 8c] [Jc]
+VilpPS: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+VilpPS: shows [Qs Ac] (a pair of Fives)
+Dorex2007: shows [2s 2d] (two pair, Fives and Deuces)
+Dorex2007 collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [5c 5h 4d 8c Jc]
+Seat 1: Trickuent (big blind) folded before Flop
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: valter1333 folded before Flop (didn't bet)
+Seat 4: VilpPS showed [Qs Ac] and lost with a pair of Fives
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 6: crissi25 folded before Flop (didn't bet)
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) showed [2s 2d] and won ($0.32) with two pair, Fives and Deuces
+Seat 9: aaron894 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237459016457:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:06:45 PT [2022/07/19 14:06:45 ET]
+Table 'Jugurtha III' 9-max Seat #9 is the button
+Seat 1: Trickuent ($2.73 in chips) 
+Seat 2: kamp804 ($3.96 in chips) 
+Seat 3: valter1333 ($2.01 in chips) 
+Seat 4: VilpPS ($7.11 in chips) 
+Seat 5: lieb_psih ($5.23 in chips) 
+Seat 6: crissi25 ($3.83 in chips) 
+Seat 7: Smith1606 ($4.24 in chips) 
+Seat 8: Dorex2007 ($6.12 in chips) 
+Seat 9: aaron894 ($5.30 in chips) 
+Trickuent: posts small blind $0.02
+kamp804: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 7d]
+valter1333: folds 
+VilpPS: folds 
+lieb_psih: folds 
+crissi25: folds 
+Smith1606: raises $0.10 to $0.15
+Dorex2007: folds 
+aaron894: folds 
+Trickuent: calls $0.13
+kamp804: folds 
+*** FLOP *** [3s 2c Jh]
+Trickuent: checks 
+Smith1606: bets $0.17
+Trickuent: folds 
+Uncalled bet ($0.17) returned to Smith1606
+Smith1606 collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [3s 2c Jh]
+Seat 1: Trickuent (small blind) folded on the Flop
+Seat 2: kamp804 (big blind) folded before Flop
+Seat 3: valter1333 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 6: crissi25 folded before Flop (didn't bet)
+Seat 7: Smith1606 collected ($0.34)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237459028570:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:07:17 PT [2022/07/19 14:07:17 ET]
+Table 'Jugurtha III' 9-max Seat #1 is the button
+Seat 1: Trickuent ($2.58 in chips) 
+Seat 2: kamp804 ($3.91 in chips) 
+Seat 3: valter1333 ($2.01 in chips) 
+Seat 4: VilpPS ($7.11 in chips) 
+Seat 5: lieb_psih ($5.23 in chips) 
+Seat 6: crissi25 ($3.83 in chips) 
+Seat 7: Smith1606 ($4.43 in chips) 
+Seat 8: Dorex2007 ($6.12 in chips) 
+Seat 9: aaron894 ($5.30 in chips) 
+kamp804: posts small blind $0.02
+valter1333: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Qd]
+VilpPS: folds 
+lieb_psih: folds 
+crissi25: folds 
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: folds 
+Trickuent: folds 
+kamp804: folds 
+Uncalled bet ($0.03) returned to valter1333
+valter1333 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Trickuent (button) folded before Flop (didn't bet)
+Seat 2: kamp804 (small blind) folded before Flop
+Seat 3: valter1333 (big blind) collected ($0.04)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 6: crissi25 folded before Flop (didn't bet)
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237459035329:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:07:35 PT [2022/07/19 14:07:35 ET]
+Table 'Jugurtha III' 9-max Seat #2 is the button
+Seat 1: Trickuent ($2.58 in chips) 
+Seat 2: kamp804 ($3.89 in chips) 
+Seat 3: valter1333 ($2.03 in chips) 
+Seat 4: VilpPS ($7.11 in chips) 
+Seat 5: lieb_psih ($5.23 in chips) 
+Seat 6: crissi25 ($3.83 in chips) 
+Seat 7: Smith1606 ($4.43 in chips) 
+Seat 8: Dorex2007 ($6.12 in chips) 
+Seat 9: aaron894 ($5.30 in chips) 
+valter1333: posts small blind $0.02
+VilpPS: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 8d]
+lieb_psih: folds 
+crissi25: folds 
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: folds 
+Trickuent: raises $0.05 to $0.10
+kamp804: folds 
+valter1333: folds 
+VilpPS: calls $0.05
+*** FLOP *** [5c 4d Jc]
+VilpPS: checks 
+Trickuent: checks 
+*** TURN *** [5c 4d Jc] [8h]
+VilpPS: checks 
+Trickuent: checks 
+*** RIVER *** [5c 4d Jc 8h] [3h]
+VilpPS: checks 
+Trickuent: checks 
+*** SHOW DOWN ***
+VilpPS: shows [6c 6s] (a pair of Sixes)
+Trickuent: mucks hand 
+VilpPS collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [5c 4d Jc 8h 3h]
+Seat 1: Trickuent mucked [3d Qd]
+Seat 2: kamp804 (button) folded before Flop (didn't bet)
+Seat 3: valter1333 (small blind) folded before Flop
+Seat 4: VilpPS (big blind) showed [6c 6s] and won ($0.21) with a pair of Sixes
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 6: crissi25 folded before Flop (didn't bet)
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237459052235:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:08:20 PT [2022/07/19 14:08:20 ET]
+Table 'Jugurtha III' 9-max Seat #3 is the button
+Seat 1: Trickuent ($2.48 in chips) 
+Seat 2: kamp804 ($3.89 in chips) 
+Seat 3: valter1333 ($2.01 in chips) 
+Seat 4: VilpPS ($7.22 in chips) 
+Seat 5: lieb_psih ($5.23 in chips) 
+Seat 6: crissi25 ($3.83 in chips) 
+Seat 7: Smith1606 ($4.43 in chips) 
+Seat 8: Dorex2007 ($6.12 in chips) 
+Seat 9: aaron894 ($5.30 in chips) 
+VilpPS: posts small blind $0.02
+lieb_psih: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 5c]
+crissi25: calls $0.05
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: folds 
+Trickuent: raises $0.05 to $0.10
+kamp804: folds 
+valter1333: folds 
+VilpPS: folds 
+lieb_psih: raises $0.35 to $0.45
+crissi25: folds 
+Trickuent: folds 
+Uncalled bet ($0.35) returned to lieb_psih
+lieb_psih collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0 
+Seat 1: Trickuent folded before Flop
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: valter1333 (button) folded before Flop (didn't bet)
+Seat 4: VilpPS (small blind) folded before Flop
+Seat 5: lieb_psih (big blind) collected ($0.27)
+Seat 6: crissi25 folded before Flop
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237459065429:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:08:55 PT [2022/07/19 14:08:55 ET]
+Table 'Jugurtha III' 9-max Seat #4 is the button
+Seat 1: Trickuent ($2.38 in chips) 
+Seat 2: kamp804 ($3.89 in chips) 
+Seat 3: valter1333 ($2.01 in chips) 
+Seat 4: VilpPS ($7.20 in chips) 
+Seat 5: lieb_psih ($5.40 in chips) 
+Seat 6: crissi25 ($3.78 in chips) 
+Seat 7: Smith1606 ($4.43 in chips) 
+Seat 8: Dorex2007 ($6.12 in chips) 
+Seat 9: aaron894 ($5.30 in chips) 
+lieb_psih: posts small blind $0.02
+crissi25: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 6s]
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: folds 
+Trickuent: calls $0.05
+kamp804: folds 
+valter1333: calls $0.05
+VilpPS: raises $0.40 to $0.45
+lieb_psih: folds 
+crissi25: folds 
+Trickuent: folds 
+valter1333: folds 
+Uncalled bet ($0.40) returned to VilpPS
+VilpPS collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0 
+Seat 1: Trickuent folded before Flop
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: valter1333 folded before Flop
+Seat 4: VilpPS (button) collected ($0.22)
+Seat 5: lieb_psih (small blind) folded before Flop
+Seat 6: crissi25 (big blind) folded before Flop
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237459074498:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:09:19 PT [2022/07/19 14:09:19 ET]
+Table 'Jugurtha III' 9-max Seat #5 is the button
+Seat 1: Trickuent ($2.33 in chips) 
+Seat 2: kamp804 ($3.89 in chips) 
+Seat 3: valter1333 ($1.96 in chips) 
+Seat 4: VilpPS ($7.37 in chips) 
+Seat 5: lieb_psih ($5.38 in chips) 
+Seat 6: crissi25 ($3.73 in chips) 
+Seat 7: Smith1606 ($4.43 in chips) 
+Seat 8: Dorex2007 ($6.12 in chips) 
+Seat 9: aaron894 ($5.30 in chips) 
+crissi25: posts small blind $0.02
+Smith1606: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 3s]
+Dorex2007: folds 
+aaron894: folds 
+Trickuent: folds 
+kamp804: folds 
+valter1333: folds 
+VilpPS: folds 
+lieb_psih: raises $0.07 to $0.12
+crissi25: folds 
+Smith1606: calls $0.07
+*** FLOP *** [2c Tc 7d]
+Smith1606: checks 
+lieb_psih: checks 
+*** TURN *** [2c Tc 7d] [7h]
+Smith1606: checks 
+lieb_psih: checks 
+*** RIVER *** [2c Tc 7d 7h] [2h]
+Smith1606: checks 
+lieb_psih: checks 
+*** SHOW DOWN ***
+Smith1606: shows [Ad Ks] (two pair, Sevens and Deuces)
+lieb_psih: mucks hand 
+Smith1606 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [2c Tc 7d 7h 2h]
+Seat 1: Trickuent folded before Flop (didn't bet)
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: valter1333 folded before Flop (didn't bet)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: lieb_psih (button) mucked [Qs 9s]
+Seat 6: crissi25 (small blind) folded before Flop
+Seat 7: Smith1606 (big blind) showed [Ad Ks] and won ($0.25) with two pair, Sevens and Deuces
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237459090604:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:10:02 PT [2022/07/19 14:10:02 ET]
+Table 'Jugurtha III' 9-max Seat #6 is the button
+Seat 1: Trickuent ($2.33 in chips) 
+Seat 2: kamp804 ($3.89 in chips) 
+Seat 3: valter1333 ($1.96 in chips) 
+Seat 4: VilpPS ($7.37 in chips) 
+Seat 5: lieb_psih ($5.26 in chips) 
+Seat 6: crissi25 ($3.71 in chips) 
+Seat 7: Smith1606 ($4.56 in chips) 
+Seat 8: Dorex2007 ($6.12 in chips) 
+Seat 9: aaron894 ($5.30 in chips) 
+Smith1606: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s Ks]
+aaron894: folds 
+Trickuent has timed out
+Trickuent: folds 
+kamp804: folds 
+valter1333: calls $0.05
+VilpPS: folds 
+lieb_psih: folds 
+Trickuent is disconnected 
+crissi25: raises $0.05 to $0.10
+Smith1606: folds 
+Dorex2007: folds 
+valter1333: calls $0.05
+*** FLOP *** [Jh Jd Ac]
+valter1333: checks 
+crissi25: bets $0.10
+valter1333: calls $0.10
+*** TURN *** [Jh Jd Ac] [2d]
+valter1333: checks 
+crissi25: bets $0.10
+valter1333: calls $0.10
+*** RIVER *** [Jh Jd Ac 2d] [Qd]
+valter1333: checks 
+crissi25: checks 
+*** SHOW DOWN ***
+valter1333: shows [Kc Qs] (two pair, Queens and Jacks)
+crissi25: shows [Th Ah] (two pair, Aces and Jacks)
+crissi25 collected $0.63 from pot
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.04 
+Board [Jh Jd Ac 2d Qd]
+Seat 1: Trickuent folded before Flop (didn't bet)
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: valter1333 showed [Kc Qs] and lost with two pair, Queens and Jacks
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 6: crissi25 (button) showed [Th Ah] and won ($0.63) with two pair, Aces and Jacks
+Seat 7: Smith1606 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237459112788:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:11:01 PT [2022/07/19 14:11:01 ET]
+Table 'Jugurtha III' 9-max Seat #8 is the button
+Seat 2: kamp804 ($3.89 in chips) 
+Seat 3: valter1333 ($1.66 in chips) 
+Seat 4: VilpPS ($7.37 in chips) 
+Seat 5: lieb_psih ($5.26 in chips) 
+Seat 6: crissi25 ($4.04 in chips) 
+Seat 8: Dorex2007 ($6.07 in chips) 
+Seat 9: aaron894 ($5.30 in chips) 
+aaron894: posts small blind $0.02
+kamp804: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 9h]
+valter1333: calls $0.05
+VilpPS: calls $0.05
+lieb_psih: folds 
+crissi25: folds 
+Dorex2007: folds 
+Trickuent is disconnected 
+aaron894: folds 
+kamp804: checks 
+*** FLOP *** [Ad 9s Jc]
+kamp804: checks 
+valter1333: checks 
+VilpPS: checks 
+*** TURN *** [Ad 9s Jc] [3c]
+kamp804: checks 
+Trickuent is disconnected 
+valter1333: checks 
+VilpPS: checks 
+*** RIVER *** [Ad 9s Jc 3c] [5c]
+kamp804: checks 
+valter1333: bets $0.26
+VilpPS: folds 
+kamp804: folds 
+Uncalled bet ($0.26) returned to valter1333
+valter1333 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Ad 9s Jc 3c 5c]
+Seat 2: kamp804 (big blind) folded on the River
+Seat 3: valter1333 collected ($0.16)
+Seat 4: VilpPS folded on the River
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 6: crissi25 folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: aaron894 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237459146329:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:12:29 PT [2022/07/19 14:12:29 ET]
+Table 'Jugurtha III' 9-max Seat #9 is the button
+Seat 2: kamp804 ($3.84 in chips) 
+Seat 3: valter1333 ($1.77 in chips) 
+Seat 4: VilpPS ($7.32 in chips) 
+Seat 5: lieb_psih ($5.26 in chips) 
+Seat 6: crissi25 ($4.04 in chips) 
+Seat 8: Dorex2007 ($6.07 in chips) 
+Seat 9: aaron894 ($5.28 in chips) 
+kamp804: posts small blind $0.02
+valter1333: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 9h]
+VilpPS: folds 
+lieb_psih: folds 
+crissi25: folds 
+Dorex2007: folds 
+aaron894: folds 
+kamp804: folds 
+Uncalled bet ($0.03) returned to valter1333
+valter1333 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: kamp804 (small blind) folded before Flop
+Seat 3: valter1333 (big blind) collected ($0.04)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 6: crissi25 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237459150612:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:12:40 PT [2022/07/19 14:12:40 ET]
+Table 'Jugurtha III' 9-max Seat #2 is the button
+Seat 1: Trickuent ($2.33 in chips) 
+Seat 2: kamp804 ($3.82 in chips) 
+Seat 3: valter1333 ($1.79 in chips) 
+Seat 4: VilpPS ($7.32 in chips) 
+Seat 5: lieb_psih ($5.26 in chips) 
+Seat 6: crissi25 ($4.04 in chips) 
+Seat 8: Dorex2007 ($6.07 in chips) 
+Seat 9: aaron894 ($5.28 in chips) 
+valter1333: posts small blind $0.02
+VilpPS: posts big blind $0.05
+Trickuent: posts small & big blinds $0.07
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 2s]
+lieb_psih: folds 
+crissi25: folds 
+Dorex2007: folds 
+aaron894: folds 
+Trickuent: checks 
+kamp804: folds 
+valter1333: calls $0.03
+VilpPS: checks 
+*** FLOP *** [8s Qh 9h]
+valter1333: checks 
+VilpPS: checks 
+Trickuent: checks 
+*** TURN *** [8s Qh 9h] [Kh]
+valter1333: bets $0.16
+VilpPS: folds 
+Trickuent: folds 
+Uncalled bet ($0.16) returned to valter1333
+valter1333 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [8s Qh 9h Kh]
+Seat 1: Trickuent folded on the Turn (didn't bet)
+Seat 2: kamp804 (button) folded before Flop (didn't bet)
+Seat 3: valter1333 (small blind) collected ($0.16)
+Seat 4: VilpPS (big blind) folded on the Turn
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 6: crissi25 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237459170128:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:13:31 PT [2022/07/19 14:13:31 ET]
+Table 'Jugurtha III' 9-max Seat #3 is the button
+Seat 1: Trickuent ($2.26 in chips) 
+Seat 2: kamp804 ($3.82 in chips) 
+Seat 3: valter1333 ($1.90 in chips) 
+Seat 4: VilpPS ($7.27 in chips) 
+Seat 5: lieb_psih ($5.26 in chips) 
+Seat 6: crissi25 ($4.04 in chips) 
+Seat 8: Dorex2007 ($6.07 in chips) 
+Seat 9: aaron894 ($5.28 in chips) 
+VilpPS: posts small blind $0.02
+lieb_psih: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Ts]
+crissi25: folds 
+Dorex2007: folds 
+aaron894: folds 
+Trickuent: calls $0.05
+kamp804: folds 
+valter1333: folds 
+VilpPS: folds 
+lieb_psih: checks 
+*** FLOP *** [8h 4h 5h]
+lieb_psih: bets $0.06
+Trickuent: calls $0.06
+*** TURN *** [8h 4h 5h] [5c]
+lieb_psih: bets $0.17
+Trickuent: calls $0.17
+*** RIVER *** [8h 4h 5h 5c] [8d]
+lieb_psih: bets $0.42
+Trickuent: raises $0.42 to $0.84
+lieb_psih: raises $0.76 to $1.60
+Trickuent: raises $0.38 to $1.98 and is all-in
+lieb_psih: calls $0.38
+*** SHOW DOWN ***
+Trickuent: shows [5s Ah] (a full house, Fives full of Eights)
+lieb_psih: shows [8c Jd] (a full house, Eights full of Fives)
+lieb_psih collected $4.35 from pot
+*** SUMMARY ***
+Total pot $4.54 | Rake $0.19 
+Board [8h 4h 5h 5c 8d]
+Seat 1: Trickuent showed [5s Ah] and lost with a full house, Fives full of Eights
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: valter1333 (button) folded before Flop (didn't bet)
+Seat 4: VilpPS (small blind) folded before Flop
+Seat 5: lieb_psih (big blind) showed [8c Jd] and won ($4.35) with a full house, Eights full of Fives
+Seat 6: crissi25 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237459190960:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:14:26 PT [2022/07/19 14:14:26 ET]
+Table 'Jugurtha III' 9-max Seat #4 is the button
+Seat 2: kamp804 ($3.82 in chips) 
+Seat 3: valter1333 ($1.90 in chips) 
+Seat 4: VilpPS ($7.25 in chips) 
+Seat 5: lieb_psih ($7.35 in chips) 
+Seat 6: crissi25 ($4.04 in chips) 
+Seat 8: Dorex2007 ($6.07 in chips) 
+Seat 9: aaron894 ($5.28 in chips) 
+lieb_psih: posts small blind $0.02
+crissi25: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 3c]
+Dorex2007 has timed out
+Dorex2007: folds 
+aaron894: folds 
+Trickuent leaves the table
+kamp804: folds 
+valter1333: folds 
+VilpPS: folds 
+lieb_psih: folds 
+Uncalled bet ($0.03) returned to crissi25
+crissi25 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: valter1333 folded before Flop (didn't bet)
+Seat 4: VilpPS (button) folded before Flop (didn't bet)
+Seat 5: lieb_psih (small blind) folded before Flop
+Seat 6: crissi25 (big blind) collected ($0.04)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237459201160:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:14:53 PT [2022/07/19 14:14:53 ET]
+Table 'Jugurtha III' 9-max Seat #5 is the button
+Seat 2: kamp804 ($3.82 in chips) 
+Seat 3: valter1333 ($1.90 in chips) 
+Seat 4: VilpPS ($7.25 in chips) 
+Seat 5: lieb_psih ($7.33 in chips) 
+Seat 6: crissi25 ($4.06 in chips) 
+Seat 8: Dorex2007 ($6.07 in chips) 
+Seat 9: aaron894 ($5.28 in chips) 
+crissi25: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Ks]
+aaron894: folds 
+kamp804: calls $0.05
+valter1333: calls $0.05
+VilpPS: calls $0.05
+lieb_psih has timed out
+lieb_psih: folds 
+crissi25: folds 
+Dorex2007: checks 
+*** FLOP *** [Jd 5c 8d]
+Dorex2007: checks 
+kamp804: bets $0.05
+valter1333: calls $0.05
+VilpPS: folds 
+Dorex2007: folds 
+*** TURN *** [Jd 5c 8d] [7c]
+kamp804: checks 
+valter1333: checks 
+*** RIVER *** [Jd 5c 8d 7c] [3s]
+kamp804: bets $0.05
+valter1333: folds 
+Uncalled bet ($0.05) returned to kamp804
+kamp804 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Jd 5c 8d 7c 3s]
+Seat 2: kamp804 collected ($0.31)
+Seat 3: valter1333 folded on the River
+Seat 4: VilpPS folded on the Flop
+Seat 5: lieb_psih (button) folded before Flop (didn't bet)
+Seat 6: crissi25 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded on the Flop
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237459224607:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:15:54 PT [2022/07/19 14:15:54 ET]
+Table 'Jugurtha III' 9-max Seat #6 is the button
+Seat 2: kamp804 ($4.03 in chips) 
+Seat 3: valter1333 ($1.80 in chips) 
+Seat 4: VilpPS ($7.20 in chips) 
+Seat 5: lieb_psih ($7.33 in chips) 
+Seat 6: crissi25 ($4.04 in chips) 
+Seat 8: Dorex2007 ($6.02 in chips) 
+Seat 9: aaron894 ($5.28 in chips) 
+Dorex2007: posts small blind $0.02
+aaron894: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 3h]
+kamp804: folds 
+valter1333: calls $0.05
+VilpPS: folds 
+lieb_psih: folds 
+crissi25: folds 
+Dorex2007: folds 
+aaron894: raises $0.25 to $0.30
+valter1333: folds 
+Uncalled bet ($0.25) returned to aaron894
+aaron894 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: valter1333 folded before Flop
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 6: crissi25 (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: aaron894 (big blind) collected ($0.12)
+
+
+
+PokerStars Hand #237459233881:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:16:19 PT [2022/07/19 14:16:19 ET]
+Table 'Jugurtha III' 9-max Seat #8 is the button
+Seat 2: kamp804 ($4.03 in chips) 
+Seat 3: valter1333 ($1.75 in chips) 
+Seat 4: VilpPS ($7.20 in chips) 
+Seat 5: lieb_psih ($7.33 in chips) 
+Seat 6: crissi25 ($4.04 in chips) 
+Seat 7: Smith1606 ($4.54 in chips) 
+Seat 8: Dorex2007 ($6 in chips) 
+Seat 9: aaron894 ($5.35 in chips) 
+aaron894: posts small blind $0.02
+kamp804: posts big blind $0.05
+Smith1606: posts small & big blinds $0.07
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Td]
+valter1333: folds 
+VilpPS: raises $0.08 to $0.13
+lieb_psih: folds 
+crissi25: folds 
+Smith1606: calls $0.08
+Dorex2007: folds 
+aaron894: raises $0.32 to $0.45
+kamp804: folds 
+VilpPS: calls $0.32
+Smith1606: folds 
+*** FLOP *** [6s 2c 4s]
+aaron894: bets $0.75
+VilpPS: folds 
+Uncalled bet ($0.75) returned to aaron894
+aaron894 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [6s 2c 4s]
+Seat 2: kamp804 (big blind) folded before Flop
+Seat 3: valter1333 folded before Flop (didn't bet)
+Seat 4: VilpPS folded on the Flop
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 6: crissi25 folded before Flop (didn't bet)
+Seat 7: Smith1606 folded before Flop
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: aaron894 (small blind) collected ($1.05)
+
+
+
+PokerStars Hand #237459250312:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:17:02 PT [2022/07/19 14:17:02 ET]
+Table 'Jugurtha III' 9-max Seat #9 is the button
+Seat 2: kamp804 ($3.98 in chips) 
+Seat 3: valter1333 ($1.75 in chips) 
+Seat 4: VilpPS ($6.75 in chips) 
+Seat 5: lieb_psih ($7.33 in chips) 
+Seat 6: crissi25 ($4.04 in chips) 
+Seat 7: Smith1606 ($4.39 in chips) 
+Seat 8: Dorex2007 ($6 in chips) 
+Seat 9: aaron894 ($5.95 in chips) 
+kamp804: posts small blind $0.02
+valter1333: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 5s]
+VilpPS: folds 
+lieb_psih: raises $0.10 to $0.15
+crissi25: folds 
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: folds 
+kamp804: folds 
+valter1333: calls $0.10
+*** FLOP *** [6s 7s 6c]
+valter1333: checks 
+lieb_psih: bets $0.16
+valter1333: calls $0.16
+*** TURN *** [6s 7s 6c] [Qc]
+valter1333: checks 
+lieb_psih: checks 
+*** RIVER *** [6s 7s 6c Qc] [Th]
+valter1333: bets $0.30
+lieb_psih: folds 
+Uncalled bet ($0.30) returned to valter1333
+valter1333 collected $0.61 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.03 
+Board [6s 7s 6c Qc Th]
+Seat 2: kamp804 (small blind) folded before Flop
+Seat 3: valter1333 (big blind) collected ($0.61)
+Seat 4: VilpPS folded before Flop (didn't bet)
+Seat 5: lieb_psih folded on the River
+Seat 6: crissi25 folded before Flop (didn't bet)
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237459263763:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:17:38 PT [2022/07/19 14:17:38 ET]
+Table 'Jugurtha III' 9-max Seat #2 is the button
+Seat 2: kamp804 ($3.96 in chips) 
+Seat 3: valter1333 ($2.05 in chips) 
+Seat 4: VilpPS ($6.75 in chips) 
+Seat 5: lieb_psih ($7.02 in chips) 
+Seat 6: crissi25 ($4.04 in chips) 
+Seat 7: Smith1606 ($4.39 in chips) 
+Seat 8: Dorex2007 ($6 in chips) 
+Seat 9: aaron894 ($5.95 in chips) 
+valter1333: posts small blind $0.02
+VilpPS: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 6d]
+lieb_psih: folds 
+crissi25: folds 
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: raises $0.10 to $0.15
+kamp804: folds 
+valter1333: folds 
+VilpPS: folds 
+Uncalled bet ($0.10) returned to aaron894
+aaron894 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 2: kamp804 (button) folded before Flop (didn't bet)
+Seat 3: valter1333 (small blind) folded before Flop
+Seat 4: VilpPS (big blind) folded before Flop
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 6: crissi25 folded before Flop (didn't bet)
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 collected ($0.12)
+
+
+
+PokerStars Hand #237459272860:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:18:02 PT [2022/07/19 14:18:02 ET]
+Table 'Jugurtha III' 9-max Seat #3 is the button
+Seat 2: kamp804 ($3.96 in chips) 
+Seat 3: valter1333 ($2.03 in chips) 
+Seat 4: VilpPS ($6.70 in chips) 
+Seat 5: lieb_psih ($7.02 in chips) 
+Seat 6: crissi25 ($4.04 in chips) 
+Seat 7: Smith1606 ($4.39 in chips) 
+Seat 8: Dorex2007 ($6 in chips) 
+Seat 9: aaron894 ($6.02 in chips) 
+VilpPS: posts small blind $0.02
+lieb_psih: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 7s]
+crissi25: folds 
+Smith1606: raises $0.10 to $0.15
+Dorex2007: folds 
+aaron894: folds 
+kamp804: folds 
+valter1333: calls $0.15
+VilpPS: calls $0.13
+lieb_psih: folds 
+*** FLOP *** [Ts Jh 8c]
+VilpPS: checks 
+Smith1606: bets $0.48
+valter1333: folds 
+VilpPS: folds 
+Uncalled bet ($0.48) returned to Smith1606
+Smith1606 collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Ts Jh 8c]
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 3: valter1333 (button) folded on the Flop
+Seat 4: VilpPS (small blind) folded on the Flop
+Seat 5: lieb_psih (big blind) folded before Flop
+Seat 6: crissi25 folded before Flop (didn't bet)
+Seat 7: Smith1606 collected ($0.48)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237459285037:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:18:35 PT [2022/07/19 14:18:35 ET]
+Table 'Jugurtha III' 9-max Seat #4 is the button
+Seat 2: kamp804 ($3.96 in chips) 
+Seat 3: valter1333 ($1.88 in chips) 
+Seat 4: VilpPS ($6.55 in chips) 
+Seat 5: lieb_psih ($6.97 in chips) 
+Seat 6: crissi25 ($4.04 in chips) 
+Seat 7: Smith1606 ($4.72 in chips) 
+Seat 8: Dorex2007 ($6 in chips) 
+Seat 9: aaron894 ($6.02 in chips) 
+lieb_psih: posts small blind $0.02
+crissi25: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 5h]
+Smith1606: folds 
+Dorex2007: folds 
+aaron894: folds 
+kamp804: raises $0.05 to $0.10
+mbarcenas22 joins the table at seat #1 
+valter1333 has timed out
+valter1333: folds 
+VilpPS: folds 
+VilpPS leaves the table
+valter1333 is disconnected 
+lieb_psih: raises $0.35 to $0.45
+PedroMende2 joins the table at seat #4 
+crissi25: folds 
+kamp804: calls $0.35
+*** FLOP *** [6s Jc 7h]
+lieb_psih: bets $0.46
+kamp804: folds 
+Uncalled bet ($0.46) returned to lieb_psih
+lieb_psih collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [6s Jc 7h]
+Seat 2: kamp804 folded on the Flop
+Seat 3: valter1333 folded before Flop (didn't bet)
+Seat 4: VilpPS (button) folded before Flop (didn't bet)
+Seat 5: lieb_psih (small blind) collected ($0.91)
+Seat 6: crissi25 (big blind) folded before Flop
+Seat 7: Smith1606 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237459309888:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:19:40 PT [2022/07/19 14:19:40 ET]
+Table 'Jugurtha III' 9-max Seat #5 is the button
+Seat 2: kamp804 ($3.51 in chips) 
+Seat 5: lieb_psih ($7.43 in chips) 
+Seat 6: crissi25 ($3.99 in chips) 
+Seat 7: Smith1606 ($4.72 in chips) 
+Seat 8: Dorex2007 ($6 in chips) 
+Seat 9: aaron894 ($6.02 in chips) 
+crissi25: posts small blind $0.02
+Smith1606: posts big blind $0.05
+mbarcenas22: sits out 
+PedroMende2: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 9h]
+Dorex2007: folds 
+aaron894: raises $0.25 to $0.30
+kamp804: calls $0.30
+lieb_psih: folds 
+crissi25: folds 
+Smith1606: folds 
+*** FLOP *** [9d As 6c]
+aaron894: bets $0.45
+kamp804: folds 
+Uncalled bet ($0.45) returned to aaron894
+aaron894 collected $0.64 from pot
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.03 
+Board [9d As 6c]
+Seat 2: kamp804 folded on the Flop
+Seat 5: lieb_psih (button) folded before Flop (didn't bet)
+Seat 6: crissi25 (small blind) folded before Flop
+Seat 7: Smith1606 (big blind) folded before Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: aaron894 collected ($0.64)
+
+
+
+PokerStars Hand #237459324868:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:20:14 PT [2022/07/19 14:20:14 ET]
+Table 'Jugurtha III' 9-max Seat #6 is the button
+Seat 2: kamp804 ($3.21 in chips) 
+Seat 5: lieb_psih ($7.43 in chips) 
+Seat 6: crissi25 ($3.97 in chips) 
+Seat 7: Smith1606 ($4.67 in chips) 
+Seat 8: Dorex2007 ($6 in chips) 
+Seat 9: aaron894 ($6.36 in chips) 
+Smith1606: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+mbarcenas22: sits out 
+PedroMende2: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 5h]
+aaron894 has timed out
+aaron894: folds 
+kamp804: folds 
+lieb_psih has timed out
+lieb_psih: folds 
+crissi25: raises $0.05 to $0.10
+Smith1606: folds 
+Dorex2007: calls $0.05
+*** FLOP *** [6c 4s Ts]
+Dorex2007: checks 
+crissi25: bets $0.10
+kamp804 leaves the table
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to crissi25
+crissi25 collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [6c 4s Ts]
+Seat 2: kamp804 folded before Flop (didn't bet)
+Seat 5: lieb_psih folded before Flop (didn't bet)
+Seat 6: crissi25 (button) collected ($0.21)
+Seat 7: Smith1606 (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded on the Flop
+Seat 9: aaron894 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237459345243:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/19 11:20:51 PT [2022/07/19 14:20:51 ET]
+Table 'Jugurtha III' 9-max Seat #7 is the button
+Seat 6: crissi25 ($4.08 in chips) 
+Seat 7: Smith1606 ($4.65 in chips) 
+Seat 8: Dorex2007 ($5.90 in chips) 
+Seat 9: aaron894 ($6.36 in chips) 
+Dorex2007: posts small blind $0.02
+aaron894: posts big blind $0.05
+mbarcenas22: sits out 
+PedroMende2: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 6c]
+crissi25: folds 
+Smith1606: raises $0.10 to $0.15
+Dorex2007: folds 
+aaron894: folds 
+Uncalled bet ($0.10) returned to Smith1606
+Smith1606 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 6: crissi25 folded before Flop (didn't bet)
+Seat 7: Smith1606 (button) collected ($0.12)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: aaron894 (big blind) folded before Flop
+
+
+
