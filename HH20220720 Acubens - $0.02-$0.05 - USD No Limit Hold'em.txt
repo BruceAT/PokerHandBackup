@@ -1,0 +1,592 @@
+﻿PokerStars Hand #237481872748:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 15:13:55 PT [2022/07/20 18:13:55 ET]
+Table 'Acubens' 9-max Seat #2 is the button
+Seat 2: nvhnam ($5.05 in chips) 
+Seat 4: hamera_von1 ($15.32 in chips) 
+Seat 5: VascoSerg ($5 in chips) 
+Seat 6: bucerias16 ($5.09 in chips) 
+Seat 7: DobleSuitedAce ($7.60 in chips) 
+Seat 8: mullski326 ($11.63 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+hamera_von1: posts small blind $0.02
+VascoSerg: posts big blind $0.05
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 9d]
+bucerias16: folds 
+DobleSuitedAce: folds 
+mullski326: folds 
+Dorex2007: raises $0.12 to $0.17
+nvhnam: folds 
+hamera_von1: calls $0.15
+VascoSerg: folds 
+*** FLOP *** [Td 2c Tc]
+hamera_von1: checks 
+Dorex2007: bets $0.25
+hamera_von1: folds 
+Uncalled bet ($0.25) returned to Dorex2007
+Dorex2007 collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.02 
+Board [Td 2c Tc]
+Seat 2: nvhnam (button) folded before Flop (didn't bet)
+Seat 4: hamera_von1 (small blind) folded on the Flop
+Seat 5: VascoSerg (big blind) folded before Flop
+Seat 6: bucerias16 folded before Flop (didn't bet)
+Seat 7: DobleSuitedAce folded before Flop (didn't bet)
+Seat 8: mullski326 folded before Flop (didn't bet)
+Seat 9: Dorex2007 collected ($0.37)
+
+
+
+PokerStars Hand #237481885522:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 15:14:33 PT [2022/07/20 18:14:33 ET]
+Table 'Acubens' 9-max Seat #4 is the button
+Seat 2: nvhnam ($5.05 in chips) 
+Seat 4: hamera_von1 ($15.15 in chips) 
+Seat 5: VascoSerg ($5 in chips) 
+Seat 6: bucerias16 ($5.09 in chips) 
+Seat 7: DobleSuitedAce ($7.60 in chips) 
+Seat 8: mullski326 ($11.63 in chips) 
+Seat 9: Dorex2007 ($5.20 in chips) 
+VascoSerg: posts small blind $0.02
+bucerias16: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Qc]
+DobleSuitedAce: folds 
+mullski326: folds 
+Dorex2007: folds 
+nvhnam: folds 
+hamera_von1: calls $0.05
+VascoSerg: folds 
+bucerias16: checks 
+*** FLOP *** [6s Ad 8c]
+bucerias16: checks 
+hamera_von1: bets $0.12
+bucerias16: calls $0.12
+*** TURN *** [6s Ad 8c] [Jc]
+bucerias16: checks 
+hamera_von1: checks 
+*** RIVER *** [6s Ad 8c Jc] [7c]
+bucerias16: checks 
+hamera_von1: checks 
+*** SHOW DOWN ***
+bucerias16: shows [Ts As] (a pair of Aces)
+hamera_von1: mucks hand 
+bucerias16 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [6s Ad 8c Jc 7c]
+Seat 2: nvhnam folded before Flop (didn't bet)
+Seat 4: hamera_von1 (button) mucked [5h 5d]
+Seat 5: VascoSerg (small blind) folded before Flop
+Seat 6: bucerias16 (big blind) showed [Ts As] and won ($0.35) with a pair of Aces
+Seat 7: DobleSuitedAce folded before Flop (didn't bet)
+Seat 8: mullski326 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237481904990:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 15:15:31 PT [2022/07/20 18:15:31 ET]
+Table 'Acubens' 9-max Seat #5 is the button
+Seat 2: nvhnam ($5.05 in chips) 
+Seat 4: hamera_von1 ($14.98 in chips) 
+Seat 5: VascoSerg ($5 in chips) 
+Seat 6: bucerias16 ($5.27 in chips) 
+Seat 7: DobleSuitedAce ($7.60 in chips) 
+Seat 8: mullski326 ($11.63 in chips) 
+Seat 9: Dorex2007 ($5.20 in chips) 
+bucerias16: posts small blind $0.02
+DobleSuitedAce: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Kh]
+mullski326: calls $0.05
+Dorex2007: folds 
+nvhnam: folds 
+hamera_von1: folds 
+VascoSerg: folds 
+bucerias16: folds 
+DobleSuitedAce: checks 
+*** FLOP *** [Td Jd 9c]
+DobleSuitedAce: checks 
+mullski326: bets $0.05
+DobleSuitedAce: folds 
+Uncalled bet ($0.05) returned to mullski326
+mullski326 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Td Jd 9c]
+Seat 2: nvhnam folded before Flop (didn't bet)
+Seat 4: hamera_von1 folded before Flop (didn't bet)
+Seat 5: VascoSerg (button) folded before Flop (didn't bet)
+Seat 6: bucerias16 (small blind) folded before Flop
+Seat 7: DobleSuitedAce (big blind) folded on the Flop
+Seat 8: mullski326 collected ($0.12)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237481912449:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 15:15:54 PT [2022/07/20 18:15:54 ET]
+Table 'Acubens' 9-max Seat #6 is the button
+Seat 2: nvhnam ($5.05 in chips) 
+Seat 4: hamera_von1 ($14.98 in chips) 
+Seat 5: VascoSerg ($5 in chips) 
+Seat 6: bucerias16 ($5.25 in chips) 
+Seat 7: DobleSuitedAce ($7.55 in chips) 
+Seat 8: mullski326 ($11.70 in chips) 
+Seat 9: Dorex2007 ($5.20 in chips) 
+DobleSuitedAce: posts small blind $0.02
+mullski326: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 2c]
+Dorex2007: folds 
+nvhnam: raises $0.10 to $0.15
+hamera_von1: folds 
+VascoSerg: folds 
+hamera_von1 leaves the table
+bucerias16: calls $0.15
+panKastus joins the table at seat #4 
+DobleSuitedAce: folds 
+mullski326: calls $0.10
+*** FLOP *** [Ks 7s 9s]
+mullski326: checks 
+nvhnam: checks 
+bucerias16: checks 
+*** TURN *** [Ks 7s 9s] [Th]
+mullski326: checks 
+nvhnam: checks 
+bucerias16: bets $0.22
+mullski326: folds 
+nvhnam: folds 
+Uncalled bet ($0.22) returned to bucerias16
+bucerias16 collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [Ks 7s 9s Th]
+Seat 2: nvhnam folded on the Turn
+Seat 4: hamera_von1 folded before Flop (didn't bet)
+Seat 5: VascoSerg folded before Flop (didn't bet)
+Seat 6: bucerias16 (button) collected ($0.45)
+Seat 7: DobleSuitedAce (small blind) folded before Flop
+Seat 8: mullski326 (big blind) folded on the Turn
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237481929117:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 15:16:43 PT [2022/07/20 18:16:43 ET]
+Table 'Acubens' 9-max Seat #7 is the button
+Seat 2: nvhnam ($5 in chips) 
+Seat 5: VascoSerg ($5 in chips) 
+Seat 6: bucerias16 ($5.55 in chips) 
+Seat 7: DobleSuitedAce ($7.53 in chips) 
+Seat 8: mullski326 ($11.55 in chips) 
+Seat 9: Dorex2007 ($5.20 in chips) 
+mullski326: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+panKastus: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 8d]
+nvhnam: folds 
+VascoSerg: raises $0.10 to $0.15
+bucerias16: folds 
+DobleSuitedAce: folds 
+mullski326: folds 
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to VascoSerg
+VascoSerg collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 2: nvhnam folded before Flop (didn't bet)
+Seat 5: VascoSerg collected ($0.12)
+Seat 6: bucerias16 folded before Flop (didn't bet)
+Seat 7: DobleSuitedAce (button) folded before Flop (didn't bet)
+Seat 8: mullski326 (small blind) folded before Flop
+Seat 9: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237481934376:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 15:16:58 PT [2022/07/20 18:16:58 ET]
+Table 'Acubens' 9-max Seat #8 is the button
+Seat 2: nvhnam ($5 in chips) 
+Seat 5: VascoSerg ($5.07 in chips) 
+Seat 6: bucerias16 ($5.55 in chips) 
+Seat 7: DobleSuitedAce ($7.53 in chips) 
+Seat 8: mullski326 ($11.53 in chips) 
+Seat 9: Dorex2007 ($5.15 in chips) 
+Dorex2007: posts small blind $0.02
+nvhnam: posts big blind $0.05
+panKastus: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 5h]
+VascoSerg: folds 
+bucerias16: folds 
+DobleSuitedAce: folds 
+mullski326: folds 
+Dorex2007: folds 
+Uncalled bet ($0.03) returned to nvhnam
+nvhnam collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: nvhnam (big blind) collected ($0.04)
+Seat 5: VascoSerg folded before Flop (didn't bet)
+Seat 6: bucerias16 folded before Flop (didn't bet)
+Seat 7: DobleSuitedAce folded before Flop (didn't bet)
+Seat 8: mullski326 (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237481943774:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 15:17:27 PT [2022/07/20 18:17:27 ET]
+Table 'Acubens' 9-max Seat #9 is the button
+Seat 2: nvhnam ($5.02 in chips) 
+Seat 3: nellowi ($16.37 in chips) 
+Seat 5: VascoSerg ($5.07 in chips) 
+Seat 6: bucerias16 ($5.55 in chips) 
+Seat 7: DobleSuitedAce ($7.53 in chips) 
+Seat 8: mullski326 ($11.53 in chips) 
+Seat 9: Dorex2007 ($5.13 in chips) 
+nvhnam: posts small blind $0.02
+nellowi: posts big blind $0.05
+panKastus: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 7h]
+VascoSerg: raises $0.10 to $0.15
+bucerias16: folds 
+DobleSuitedAce: calls $0.15
+mullski326: folds 
+Dorex2007: folds 
+nvhnam: folds 
+nellowi: folds 
+*** FLOP *** [Js 5d 6h]
+VascoSerg: bets $0.23
+DobleSuitedAce: folds 
+Uncalled bet ($0.23) returned to VascoSerg
+VascoSerg collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [Js 5d 6h]
+Seat 2: nvhnam (small blind) folded before Flop
+Seat 3: nellowi (big blind) folded before Flop
+Seat 5: VascoSerg collected ($0.35)
+Seat 6: bucerias16 folded before Flop (didn't bet)
+Seat 7: DobleSuitedAce folded on the Flop
+Seat 8: mullski326 folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237481959532:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 15:18:14 PT [2022/07/20 18:18:14 ET]
+Table 'Acubens' 9-max Seat #2 is the button
+Seat 2: nvhnam ($5 in chips) 
+Seat 3: nellowi ($16.32 in chips) 
+Seat 4: panKastus ($5 in chips) 
+Seat 5: VascoSerg ($5.27 in chips) 
+Seat 6: bucerias16 ($5.55 in chips) 
+Seat 7: DobleSuitedAce ($7.38 in chips) 
+Seat 8: mullski326 ($11.53 in chips) 
+Seat 9: Dorex2007 ($5.13 in chips) 
+nellowi: posts small blind $0.02
+panKastus: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 2d]
+VascoSerg: folds 
+bucerias16: folds 
+DobleSuitedAce: folds 
+mullski326: folds 
+Dorex2007: folds 
+nvhnam: folds 
+nellowi: calls $0.03
+panKastus: checks 
+*** FLOP *** [Ts As 2s]
+nvhnam leaves the table
+nellowi: checks 
+panKastus: checks 
+*** TURN *** [Ts As 2s] [Jh]
+nellowi: checks 
+panKastus: bets $0.05
+chinta02 leaves the table
+nellowi: folds 
+Uncalled bet ($0.05) returned to panKastus
+panKastus collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Ts As 2s Jh]
+Seat 2: nvhnam (button) folded before Flop (didn't bet)
+Seat 3: nellowi (small blind) folded on the Turn
+Seat 4: panKastus (big blind) collected ($0.10)
+Seat 5: VascoSerg folded before Flop (didn't bet)
+Seat 6: bucerias16 folded before Flop (didn't bet)
+Seat 7: DobleSuitedAce folded before Flop (didn't bet)
+Seat 8: mullski326 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237481974589:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 15:18:59 PT [2022/07/20 18:18:59 ET]
+Table 'Acubens' 9-max Seat #3 is the button
+Seat 3: nellowi ($16.27 in chips) 
+Seat 4: panKastus ($5.05 in chips) 
+Seat 5: VascoSerg ($5.27 in chips) 
+Seat 6: bucerias16 ($5.55 in chips) 
+Seat 7: DobleSuitedAce ($7.38 in chips) 
+Seat 8: mullski326 ($11.53 in chips) 
+Seat 9: Dorex2007 ($5.13 in chips) 
+panKastus: posts small blind $0.02
+VascoSerg: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Jc]
+bucerias16: folds 
+DobleSuitedAce: folds 
+Trickuent joins the table at seat #1 
+mullski326: folds 
+Dorex2007: folds 
+nellowi: calls $0.05
+panKastus: folds 
+VascoSerg: checks 
+*** FLOP *** [Ks 4d 6s]
+felipesbo joins the table at seat #2 
+VascoSerg: checks 
+nellowi: checks 
+*** TURN *** [Ks 4d 6s] [Td]
+VascoSerg: checks 
+nellowi: bets $0.05
+VascoSerg: calls $0.05
+*** RIVER *** [Ks 4d 6s Td] [9d]
+VascoSerg: bets $0.21
+nellowi: calls $0.21
+*** SHOW DOWN ***
+VascoSerg: shows [9s 4s] (two pair, Nines and Fours)
+nellowi: mucks hand 
+VascoSerg collected $0.61 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.03 
+Board [Ks 4d 6s Td 9d]
+Seat 3: nellowi (button) mucked [Tc 3c]
+Seat 4: panKastus (small blind) folded before Flop
+Seat 5: VascoSerg (big blind) showed [9s 4s] and won ($0.61) with two pair, Nines and Fours
+Seat 6: bucerias16 folded before Flop (didn't bet)
+Seat 7: DobleSuitedAce folded before Flop (didn't bet)
+Seat 8: mullski326 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237481989733:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 15:19:46 PT [2022/07/20 18:19:46 ET]
+Table 'Acubens' 9-max Seat #4 is the button
+Seat 1: Trickuent ($3.52 in chips) 
+Seat 3: nellowi ($15.96 in chips) 
+Seat 4: panKastus ($5.03 in chips) 
+Seat 5: VascoSerg ($5.57 in chips) 
+Seat 6: bucerias16 ($5.55 in chips) 
+Seat 7: DobleSuitedAce ($7.38 in chips) 
+Seat 8: mullski326 ($11.53 in chips) 
+Seat 9: Dorex2007 ($5.13 in chips) 
+VascoSerg: posts small blind $0.02
+bucerias16: posts big blind $0.05
+Trickuent: posts big blind $0.05
+felipesbo: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Qh]
+DobleSuitedAce: folds 
+mullski326: folds 
+Dorex2007: folds 
+Trickuent: checks 
+nellowi: raises $0.05 to $0.10
+panKastus: folds 
+VascoSerg: raises $0.35 to $0.45
+bucerias16: folds 
+Trickuent: folds 
+nellowi: calls $0.35
+*** FLOP *** [Ts 3h Ad]
+VascoSerg: checks 
+nellowi: checks 
+*** TURN *** [Ts 3h Ad] [2h]
+VascoSerg: checks 
+nellowi: bets $0.48
+VascoSerg: folds 
+Uncalled bet ($0.48) returned to nellowi
+nellowi collected $0.95 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.05 
+Board [Ts 3h Ad 2h]
+Seat 1: Trickuent folded before Flop (didn't bet)
+Seat 3: nellowi collected ($0.95)
+Seat 4: panKastus (button) folded before Flop (didn't bet)
+Seat 5: VascoSerg (small blind) folded on the Turn
+Seat 6: bucerias16 (big blind) folded before Flop
+Seat 7: DobleSuitedAce folded before Flop (didn't bet)
+Seat 8: mullski326 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237482008951:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 15:20:45 PT [2022/07/20 18:20:45 ET]
+Table 'Acubens' 9-max Seat #5 is the button
+Seat 1: Trickuent ($3.47 in chips) 
+Seat 3: nellowi ($16.46 in chips) 
+Seat 4: panKastus ($5.03 in chips) 
+Seat 5: VascoSerg ($5.12 in chips) 
+Seat 6: bucerias16 ($5.50 in chips) 
+Seat 8: mullski326 ($11.53 in chips) 
+Seat 9: Dorex2007 ($5.13 in chips) 
+bucerias16: posts small blind $0.02
+DobleSuitedAce: is sitting out 
+mullski326: posts big blind $0.05
+DobleSuitedAce leaves the table
+felipesbo: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 3d]
+Dorex2007: folds 
+Trickuent: calls $0.05
+nellowi: folds 
+panKastus: folds 
+VascoSerg: folds 
+bucerias16: calls $0.03
+mullski326: checks 
+*** FLOP *** [Js 5s 9h]
+bucerias16: checks 
+mullski326: bets $0.10
+Trickuent: folds 
+bucerias16: folds 
+Uncalled bet ($0.10) returned to mullski326
+mullski326 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Js 5s 9h]
+Seat 1: Trickuent folded on the Flop
+Seat 3: nellowi folded before Flop (didn't bet)
+Seat 4: panKastus folded before Flop (didn't bet)
+Seat 5: VascoSerg (button) folded before Flop (didn't bet)
+Seat 6: bucerias16 (small blind) folded on the Flop
+Seat 8: mullski326 (big blind) collected ($0.14)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237482018502:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 15:21:14 PT [2022/07/20 18:21:14 ET]
+Table 'Acubens' 9-max Seat #6 is the button
+Seat 1: Trickuent ($3.42 in chips) 
+Seat 3: nellowi ($16.46 in chips) 
+Seat 4: panKastus ($5.03 in chips) 
+Seat 5: VascoSerg ($5.12 in chips) 
+Seat 6: bucerias16 ($5.45 in chips) 
+Seat 8: mullski326 ($11.62 in chips) 
+Seat 9: Dorex2007 ($5.13 in chips) 
+mullski326: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+felipesbo: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Kc]
+Trickuent: folds 
+nellowi: folds 
+panKastus: folds 
+VascoSerg: raises $0.10 to $0.15
+bucerias16: folds 
+mullski326: folds 
+Dorex2007: calls $0.10
+*** FLOP *** [5h Js Ac]
+Dorex2007: checks 
+VascoSerg: bets $0.21
+fraternelle444 joins the table at seat #7 
+Dorex2007: folds 
+Uncalled bet ($0.21) returned to VascoSerg
+VascoSerg collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [5h Js Ac]
+Seat 1: Trickuent folded before Flop (didn't bet)
+Seat 3: nellowi folded before Flop (didn't bet)
+Seat 4: panKastus folded before Flop (didn't bet)
+Seat 5: VascoSerg collected ($0.31)
+Seat 6: bucerias16 (button) folded before Flop (didn't bet)
+Seat 8: mullski326 (small blind) folded before Flop
+Seat 9: Dorex2007 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #237482032846:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 15:21:58 PT [2022/07/20 18:21:58 ET]
+Table 'Acubens' 9-max Seat #8 is the button
+Seat 1: Trickuent ($3.42 in chips) 
+Seat 3: nellowi ($16.46 in chips) 
+Seat 4: panKastus ($5.03 in chips) 
+Seat 5: VascoSerg ($5.28 in chips) 
+Seat 6: bucerias16 ($5.45 in chips) 
+Seat 8: mullski326 ($11.60 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+Dorex2007: posts small blind $0.02
+Trickuent: posts big blind $0.05
+felipesbo: sits out 
+fraternelle444: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 7h]
+nellowi: raises $0.05 to $0.10
+panKastus: folds 
+VascoSerg: folds 
+bucerias16: folds 
+mullski326: folds 
+Dorex2007: folds 
+Trickuent: calls $0.05
+*** FLOP *** [As Ts 5c]
+Trickuent: checks 
+nellowi: bets $0.10
+Trickuent: folds 
+Uncalled bet ($0.10) returned to nellowi
+nellowi collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [As Ts 5c]
+Seat 1: Trickuent (big blind) folded on the Flop
+Seat 3: nellowi collected ($0.21)
+Seat 4: panKastus folded before Flop (didn't bet)
+Seat 5: VascoSerg folded before Flop (didn't bet)
+Seat 6: bucerias16 folded before Flop (didn't bet)
+Seat 8: mullski326 (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237482046708:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 15:22:41 PT [2022/07/20 18:22:41 ET]
+Table 'Acubens' 9-max Seat #9 is the button
+Seat 1: Trickuent ($3.32 in chips) 
+Seat 2: felipesbo ($5 in chips) 
+Seat 3: nellowi ($16.57 in chips) 
+Seat 4: panKastus ($5.03 in chips) 
+Seat 5: VascoSerg ($5.28 in chips) 
+Seat 6: bucerias16 ($5.45 in chips) 
+Seat 7: fraternelle444 ($5 in chips) 
+Seat 8: mullski326 ($11.60 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+Trickuent: posts small blind $0.02
+felipesbo: posts big blind $0.05
+fraternelle444: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c Ks]
+nellowi: folds 
+panKastus: folds 
+VascoSerg: raises $0.10 to $0.15
+bucerias16: calls $0.15
+fraternelle444: folds 
+mullski326: calls $0.15
+Dorex2007: folds 
+Trickuent: calls $0.13
+felipesbo: folds 
+*** FLOP *** [6d Ac 6s]
+Trickuent: bets $0.67
+VascoSerg: folds 
+bucerias16: folds 
+mullski326: folds 
+Uncalled bet ($0.67) returned to Trickuent
+Trickuent collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [6d Ac 6s]
+Seat 1: Trickuent (small blind) collected ($0.67)
+Seat 2: felipesbo (big blind) folded before Flop
+Seat 3: nellowi folded before Flop (didn't bet)
+Seat 4: panKastus folded before Flop (didn't bet)
+Seat 5: VascoSerg folded on the Flop
+Seat 6: bucerias16 folded on the Flop
+Seat 7: fraternelle444 folded before Flop (didn't bet)
+Seat 8: mullski326 folded on the Flop
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+

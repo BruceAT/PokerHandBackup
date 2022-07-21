@@ -1,0 +1,3431 @@
+﻿PokerStars Hand #237482738791:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 15:59:03 PT [2022/07/20 18:59:03 ET]
+Table 'Elnath' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: joemc666 ($2.83 in chips) 
+Seat 3: KAAS467 ($4.90 in chips) 
+Seat 5: ltc97 ($4.09 in chips) 
+Seat 6: LiamXii ($6.92 in chips) 
+Seat 7: gmitoi ($9.37 in chips) 
+Seat 8: djcully ($0.90 in chips) 
+Seat 9: LUKIANOV777 ($8 in chips) 
+KAAS467: posts small blind $0.02
+ltc97: posts big blind $0.05
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 5d]
+LiamXii: folds 
+gmitoi: folds 
+djcully: folds 
+LUKIANOV777: folds 
+PCMaran is disconnected 
+Dorex2007: checks 
+joemc666: folds 
+KAAS467: folds 
+ltc97: checks 
+*** FLOP *** [Ts 6h 9s]
+ltc97: checks 
+Dorex2007: checks 
+*** TURN *** [Ts 6h 9s] [Td]
+ltc97: bets $0.12
+Dorex2007: folds 
+Uncalled bet ($0.12) returned to ltc97
+ltc97 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ts 6h 9s Td]
+Seat 1: Dorex2007 folded on the Turn (didn't bet)
+Seat 2: joemc666 (button) folded before Flop (didn't bet)
+Seat 3: KAAS467 (small blind) folded before Flop
+Seat 5: ltc97 (big blind) collected ($0.12)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: djcully folded before Flop (didn't bet)
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237482750620:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 15:59:51 PT [2022/07/20 18:59:51 ET]
+Table 'Elnath' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: joemc666 ($2.83 in chips) 
+Seat 3: KAAS467 ($4.88 in chips) 
+Seat 5: ltc97 ($4.16 in chips) 
+Seat 6: LiamXii ($6.92 in chips) 
+Seat 7: gmitoi ($9.37 in chips) 
+Seat 8: djcully ($0.90 in chips) 
+Seat 9: LUKIANOV777 ($8 in chips) 
+ltc97: posts small blind $0.02
+LiamXii: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 7s]
+gmitoi: folds 
+djcully: raises $0.10 to $0.15
+LUKIANOV777: folds 
+Dorex2007: folds 
+joemc666: calls $0.15
+KAAS467: folds 
+ltc97: calls $0.13
+LiamXii: raises $0.60 to $0.75
+djcully: raises $0.15 to $0.90 and is all-in
+joemc666: calls $0.75
+ltc97: calls $0.75
+LiamXii: calls $0.15
+*** FLOP *** [9c Js Ac]
+ltc97: bets $1.72
+LiamXii: calls $1.72
+joemc666: folds 
+*** TURN *** [9c Js Ac] [Td]
+ltc97: bets $1.54 and is all-in
+LiamXii: calls $1.54
+*** RIVER *** [9c Js Ac Td] [Ah]
+*** SHOW DOWN ***
+ltc97: shows [Kd Qs] (a straight, Ten to Ace)
+LiamXii: shows [As Kh] (three of a kind, Aces)
+ltc97 collected $6.25 from side pot
+djcully: shows [Ts Th] (a full house, Tens full of Aces)
+djcully collected $3.45 from main pot
+*** SUMMARY ***
+Total pot $10.12 Main pot $3.45. Side pot $6.25. | Rake $0.42 
+Board [9c Js Ac Td Ah]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: joemc666 folded on the Flop
+Seat 3: KAAS467 (button) folded before Flop (didn't bet)
+Seat 5: ltc97 (small blind) showed [Kd Qs] and won ($6.25) with a straight, Ten to Ace
+Seat 6: LiamXii (big blind) showed [As Kh] and lost with three of a kind, Aces
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: djcully showed [Ts Th] and won ($3.45) with a full house, Tens full of Aces
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237482772882:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:01:17 PT [2022/07/20 19:01:17 ET]
+Table 'Elnath' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: joemc666 ($1.93 in chips) 
+Seat 3: KAAS467 ($4.88 in chips) 
+Seat 5: ltc97 ($6.25 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($9.37 in chips) 
+Seat 8: djcully ($3.45 in chips) 
+Seat 9: LUKIANOV777 ($8 in chips) 
+LiamXii: posts small blind $0.02
+gmitoi: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 8s]
+djcully: calls $0.05
+LUKIANOV777: folds 
+Dorex2007: folds 
+joemc666: calls $0.05
+KAAS467: calls $0.05
+ltc97: folds 
+LiamXii: folds 
+gmitoi: checks 
+*** FLOP *** [5s Qc 5d]
+gmitoi: checks 
+djcully: bets $0.10
+joemc666: calls $0.10
+KAAS467: calls $0.10
+gmitoi: calls $0.10
+*** TURN *** [5s Qc 5d] [Ts]
+gmitoi: checks 
+djcully: bets $0.29
+joemc666: calls $0.29
+KAAS467: folds 
+gmitoi: calls $0.29
+*** RIVER *** [5s Qc 5d Ts] [2d]
+gmitoi: checks 
+djcully: bets $0.20
+joemc666: calls $0.20
+gmitoi: raises $0.35 to $0.55
+djcully: calls $0.35
+joemc666: folds 
+*** SHOW DOWN ***
+gmitoi: shows [Js 5c] (three of a kind, Fives)
+djcully: mucks hand 
+gmitoi collected $2.67 from pot
+*** SUMMARY ***
+Total pot $2.79 | Rake $0.12 
+Board [5s Qc 5d Ts 2d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: joemc666 folded on the River
+Seat 3: KAAS467 folded on the Turn
+Seat 5: ltc97 (button) folded before Flop (didn't bet)
+Seat 6: LiamXii (small blind) folded before Flop
+Seat 7: gmitoi (big blind) showed [Js 5c] and won ($2.67) with three of a kind, Fives
+Seat 8: djcully mucked [Qd Jd]
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237482795787:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:02:37 PT [2022/07/20 19:02:37 ET]
+Table 'Elnath' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: joemc666 ($1.29 in chips) 
+Seat 3: KAAS467 ($4.73 in chips) 
+Seat 4: PCMaran ($5 in chips) 
+Seat 5: ltc97 ($6.25 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($11.05 in chips) 
+Seat 8: djcully ($2.46 in chips) 
+Seat 9: LUKIANOV777 ($8 in chips) 
+gmitoi: posts small blind $0.02
+djcully: posts big blind $0.05
+PCMaran: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 8s]
+LUKIANOV777: folds 
+Dorex2007: folds 
+joemc666: calls $0.05
+KAAS467: folds 
+PCMaran: checks 
+ltc97: calls $0.05
+LiamXii: folds 
+gmitoi: calls $0.03
+djcully: checks 
+*** FLOP *** [2c 4d 5s]
+gmitoi: checks 
+djcully: checks 
+joemc666: checks 
+PCMaran: checks 
+ltc97: checks 
+*** TURN *** [2c 4d 5s] [6d]
+gmitoi: checks 
+djcully: checks 
+joemc666: checks 
+PCMaran: checks 
+ltc97: bets $0.24
+gmitoi: folds 
+djcully: folds 
+joemc666: folds 
+PCMaran: calls $0.24
+*** RIVER *** [2c 4d 5s 6d] [Ah]
+PCMaran: checks 
+ltc97: bets $0.70
+PCMaran: folds 
+Uncalled bet ($0.70) returned to ltc97
+ltc97 collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [2c 4d 5s 6d Ah]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: joemc666 folded on the Turn
+Seat 3: KAAS467 folded before Flop (didn't bet)
+Seat 4: PCMaran folded on the River
+Seat 5: ltc97 collected ($0.70)
+Seat 6: LiamXii (button) folded before Flop (didn't bet)
+Seat 7: gmitoi (small blind) folded on the Turn
+Seat 8: djcully (big blind) folded on the Turn
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237482812449:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:03:35 PT [2022/07/20 19:03:35 ET]
+Table 'Elnath' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: joemc666 ($1.24 in chips) 
+Seat 3: KAAS467 ($4.73 in chips) 
+Seat 4: PCMaran ($4.71 in chips) 
+Seat 5: ltc97 ($6.66 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($11 in chips) 
+Seat 8: djcully ($2.41 in chips) 
+Seat 9: LUKIANOV777 ($8 in chips) 
+djcully: posts small blind $0.02
+LUKIANOV777: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 9c]
+Dorex2007: folds 
+joemc666: folds 
+KAAS467: folds 
+PCMaran: folds 
+ltc97: calls $0.05
+LiamXii: folds 
+gmitoi: calls $0.05
+djcully: calls $0.03
+LUKIANOV777: checks 
+*** FLOP *** [Kh 3h Jd]
+djcully: checks 
+LUKIANOV777: checks 
+ltc97: checks 
+gmitoi: checks 
+*** TURN *** [Kh 3h Jd] [3s]
+djcully: checks 
+LUKIANOV777: checks 
+ltc97: bets $0.19
+gmitoi: folds 
+djcully: folds 
+LUKIANOV777: folds 
+Uncalled bet ($0.19) returned to ltc97
+ltc97 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Kh 3h Jd 3s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: joemc666 folded before Flop (didn't bet)
+Seat 3: KAAS467 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: ltc97 collected ($0.19)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi (button) folded on the Turn
+Seat 8: djcully (small blind) folded on the Turn
+Seat 9: LUKIANOV777 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #237482829509:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:04:35 PT [2022/07/20 19:04:35 ET]
+Table 'Elnath' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: joemc666 ($1.24 in chips) 
+Seat 3: KAAS467 ($4.73 in chips) 
+Seat 4: PCMaran ($4.71 in chips) 
+Seat 5: ltc97 ($6.80 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($10.95 in chips) 
+Seat 8: djcully ($2.36 in chips) 
+Seat 9: LUKIANOV777 ($7.95 in chips) 
+LUKIANOV777: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 2h]
+joemc666: calls $0.05
+KAAS467: folds 
+PCMaran: calls $0.05
+ltc97: calls $0.05
+LiamXii: folds 
+gmitoi: folds 
+djcully: calls $0.05
+LUKIANOV777: calls $0.03
+Dorex2007: checks 
+*** FLOP *** [7c 2d 7d]
+LUKIANOV777: checks 
+Dorex2007: checks 
+joemc666: checks 
+PCMaran: bets $0.15
+ltc97: folds 
+djcully: folds 
+LUKIANOV777: calls $0.15
+Dorex2007: calls $0.15
+joemc666: folds 
+*** TURN *** [7c 2d 7d] [9h]
+LUKIANOV777: checks 
+Dorex2007: bets $0.36
+PCMaran: calls $0.36
+LUKIANOV777: folds 
+*** RIVER *** [7c 2d 7d 9h] [Ac]
+Dorex2007: bets $0.70
+PCMaran: folds 
+Uncalled bet ($0.70) returned to Dorex2007
+Dorex2007 collected $1.41 from pot
+*** SUMMARY ***
+Total pot $1.47 | Rake $0.06 
+Board [7c 2d 7d 9h Ac]
+Seat 1: Dorex2007 (big blind) collected ($1.41)
+Seat 2: joemc666 folded on the Flop
+Seat 3: KAAS467 folded before Flop (didn't bet)
+Seat 4: PCMaran folded on the River
+Seat 5: ltc97 folded on the Flop
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: djcully (button) folded on the Flop
+Seat 9: LUKIANOV777 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #237482849454:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:05:44 PT [2022/07/20 19:05:44 ET]
+Table 'Elnath' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($5.85 in chips) 
+Seat 2: joemc666 ($1.19 in chips) 
+Seat 3: KAAS467 ($4.73 in chips) 
+Seat 4: PCMaran ($4.15 in chips) 
+Seat 5: ltc97 ($6.75 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($10.95 in chips) 
+Seat 8: djcully ($2.31 in chips) 
+Seat 9: LUKIANOV777 ($7.75 in chips) 
+Dorex2007: posts small blind $0.02
+joemc666: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Ts]
+KAAS467: folds 
+PCMaran: folds 
+ltc97: calls $0.05
+LiamXii: folds 
+gmitoi: folds 
+djcully: calls $0.05
+LUKIANOV777: folds 
+Dorex2007: calls $0.03
+joemc666: checks 
+*** FLOP *** [2s Jh 9c]
+Dorex2007: checks 
+joemc666: checks 
+ltc97: checks 
+djcully: bets $0.09
+Dorex2007: folds 
+joemc666: folds 
+ltc97: calls $0.09
+*** TURN *** [2s Jh 9c] [Qh]
+ltc97: bets $0.05
+djcully: raises $0.46 to $0.51
+ltc97: calls $0.46
+*** RIVER *** [2s Jh 9c Qh] [3h]
+ltc97: bets $0.05
+djcully: calls $0.05
+*** SHOW DOWN ***
+ltc97: shows [4s 4h] (a pair of Fours)
+djcully: shows [9h Qc] (two pair, Queens and Nines)
+djcully collected $1.44 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.06 
+Board [2s Jh 9c Qh 3h]
+Seat 1: Dorex2007 (small blind) folded on the Flop
+Seat 2: joemc666 (big blind) folded on the Flop
+Seat 3: KAAS467 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: ltc97 showed [4s 4h] and lost with a pair of Fours
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: djcully showed [9h Qc] and won ($1.44) with two pair, Queens and Nines
+Seat 9: LUKIANOV777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237482863194:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:06:32 PT [2022/07/20 19:06:32 ET]
+Table 'Elnath' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($5.80 in chips) 
+Seat 2: joemc666 ($1.14 in chips) 
+Seat 3: KAAS467 ($4.73 in chips) 
+Seat 4: PCMaran ($4.15 in chips) 
+Seat 5: ltc97 ($6.05 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($10.95 in chips) 
+Seat 8: djcully ($3.05 in chips) 
+Seat 9: LUKIANOV777 ($7.75 in chips) 
+joemc666: posts small blind $0.02
+KAAS467: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 4c]
+PCMaran: folds 
+ltc97: calls $0.05
+LiamXii: folds 
+gmitoi: folds 
+djcully: folds 
+LUKIANOV777 has timed out
+LUKIANOV777: folds 
+Dorex2007: folds 
+joemc666: calls $0.03
+KAAS467: checks 
+*** FLOP *** [5s Jh 8h]
+joemc666: checks 
+KAAS467: checks 
+ltc97: bets $0.05
+joemc666: calls $0.05
+KAAS467: folds 
+*** TURN *** [5s Jh 8h] [6c]
+joemc666: checks 
+ltc97: bets $0.24
+joemc666: calls $0.24
+*** RIVER *** [5s Jh 8h 6c] [6s]
+joemc666: checks 
+ltc97: bets $0.05
+joemc666: folds 
+Uncalled bet ($0.05) returned to ltc97
+ltc97 collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [5s Jh 8h 6c 6s]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: joemc666 (small blind) folded on the River
+Seat 3: KAAS467 (big blind) folded on the Flop
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: ltc97 collected ($0.70)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: djcully folded before Flop (didn't bet)
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237482882246:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:07:38 PT [2022/07/20 19:07:38 ET]
+Table 'Elnath' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($5.80 in chips) 
+Seat 2: joemc666 ($0.80 in chips) 
+Seat 3: KAAS467 ($4.68 in chips) 
+Seat 4: PCMaran ($4.15 in chips) 
+Seat 5: ltc97 ($6.41 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($10.95 in chips) 
+Seat 8: djcully ($3.05 in chips) 
+Seat 9: LUKIANOV777 ($7.75 in chips) 
+KAAS467: posts small blind $0.02
+PCMaran: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 2h]
+ltc97: folds 
+LiamXii: folds 
+gmitoi: calls $0.05
+djcully: folds 
+LUKIANOV777: raises $0.17 to $0.22
+Dorex2007: folds 
+joemc666: folds 
+KAAS467: folds 
+PCMaran: folds 
+gmitoi: folds 
+Uncalled bet ($0.17) returned to LUKIANOV777
+LUKIANOV777 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: joemc666 (button) folded before Flop (didn't bet)
+Seat 3: KAAS467 (small blind) folded before Flop
+Seat 4: PCMaran (big blind) folded before Flop
+Seat 5: ltc97 folded before Flop (didn't bet)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop
+Seat 8: djcully folded before Flop (didn't bet)
+Seat 9: LUKIANOV777 collected ($0.17)
+
+
+
+PokerStars Hand #237482890555:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:08:07 PT [2022/07/20 19:08:07 ET]
+Table 'Elnath' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($5.80 in chips) 
+Seat 2: joemc666 ($0.80 in chips) 
+Seat 3: KAAS467 ($4.66 in chips) 
+Seat 4: PCMaran ($4.10 in chips) 
+Seat 5: ltc97 ($6.41 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($10.90 in chips) 
+Seat 8: djcully ($3.05 in chips) 
+Seat 9: LUKIANOV777 ($7.87 in chips) 
+PCMaran: posts small blind $0.02
+ltc97: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 7c]
+LiamXii: folds 
+gmitoi: folds 
+djcully: calls $0.05
+LUKIANOV777: folds 
+Dorex2007: folds 
+joemc666: raises $0.75 to $0.80 and is all-in
+KAAS467: folds 
+PCMaran: folds 
+ltc97: calls $0.75
+djcully: folds 
+*** FLOP *** [2h 7s 5s]
+*** TURN *** [2h 7s 5s] [2c]
+*** RIVER *** [2h 7s 5s 2c] [5d]
+*** SHOW DOWN ***
+ltc97: shows [Js 5h] (a full house, Fives full of Deuces)
+joemc666: shows [Ks Ad] (two pair, Fives and Deuces)
+ltc97 collected $1.60 from pot
+*** SUMMARY ***
+Total pot $1.67 | Rake $0.07 
+Board [2h 7s 5s 2c 5d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: joemc666 showed [Ks Ad] and lost with two pair, Fives and Deuces
+Seat 3: KAAS467 (button) folded before Flop (didn't bet)
+Seat 4: PCMaran (small blind) folded before Flop
+Seat 5: ltc97 (big blind) showed [Js 5h] and won ($1.60) with a full house, Fives full of Deuces
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: djcully folded before Flop
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237482901585:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:08:46 PT [2022/07/20 19:08:46 ET]
+Table 'Elnath' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($5.80 in chips) 
+Seat 3: KAAS467 ($4.66 in chips) 
+Seat 4: PCMaran ($4.08 in chips) 
+Seat 5: ltc97 ($7.21 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($10.90 in chips) 
+Seat 8: djcully ($3 in chips) 
+Seat 9: LUKIANOV777 ($7.87 in chips) 
+ltc97: posts small blind $0.02
+LiamXii: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 3h]
+gmitoi: folds 
+djcully: raises $0.05 to $0.10
+LUKIANOV777: folds 
+Dorex2007: folds 
+KAAS467: folds 
+PCMaran: folds 
+ltc97: calls $0.08
+LiamXii: folds 
+*** FLOP *** [Ks 6d Kh]
+ltc97: checks 
+djcully: bets $0.12
+ltc97: folds 
+Uncalled bet ($0.12) returned to djcully
+djcully collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ks 6d Kh]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: KAAS467 folded before Flop (didn't bet)
+Seat 4: PCMaran (button) folded before Flop (didn't bet)
+Seat 5: ltc97 (small blind) folded on the Flop
+Seat 6: LiamXii (big blind) folded before Flop
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: djcully collected ($0.24)
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237482907431:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:09:07 PT [2022/07/20 19:09:07 ET]
+Table 'Elnath' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($5.80 in chips) 
+Seat 2: joemc666 ($5 in chips) 
+Seat 3: KAAS467 ($4.66 in chips) 
+Seat 4: PCMaran ($4.08 in chips) 
+Seat 5: ltc97 ($7.11 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($10.90 in chips) 
+Seat 8: djcully ($3.14 in chips) 
+Seat 9: LUKIANOV777 ($7.87 in chips) 
+LiamXii: posts small blind $0.02
+gmitoi: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 2h]
+djcully: calls $0.05
+LUKIANOV777: folds 
+Dorex2007: folds 
+joemc666: calls $0.05
+KAAS467: folds 
+PCMaran: folds 
+ltc97: folds 
+LiamXii: raises $0.11 to $0.16
+gmitoi: folds 
+djcully: calls $0.11
+joemc666: calls $0.11
+*** FLOP *** [8h 6s 2c]
+LiamXii: checks 
+djcully: bets $0.51
+joemc666: folds 
+LiamXii: folds 
+Uncalled bet ($0.51) returned to djcully
+djcully collected $0.51 from pot
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [8h 6s 2c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: joemc666 folded on the Flop
+Seat 3: KAAS467 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: ltc97 (button) folded before Flop (didn't bet)
+Seat 6: LiamXii (small blind) folded on the Flop
+Seat 7: gmitoi (big blind) folded before Flop
+Seat 8: djcully collected ($0.51)
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237482919738:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:09:50 PT [2022/07/20 19:09:50 ET]
+Table 'Elnath' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($5.80 in chips) 
+Seat 2: joemc666 ($4.84 in chips) 
+Seat 3: KAAS467 ($4.66 in chips) 
+Seat 4: PCMaran ($4.08 in chips) 
+Seat 5: ltc97 ($7.11 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($10.85 in chips) 
+Seat 8: djcully ($3.49 in chips) 
+Seat 9: LUKIANOV777 ($7.87 in chips) 
+gmitoi: posts small blind $0.02
+djcully: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 4c]
+LUKIANOV777: folds 
+Dorex2007: folds 
+joemc666: calls $0.05
+KAAS467: folds 
+PCMaran: folds 
+ltc97: calls $0.05
+LiamXii: folds 
+gmitoi: calls $0.03
+djcully: checks 
+*** FLOP *** [2s 4h Th]
+gmitoi: checks 
+djcully: checks 
+joemc666: checks 
+ltc97: checks 
+*** TURN *** [2s 4h Th] [3c]
+gmitoi: checks 
+djcully: checks 
+joemc666: checks 
+ltc97: checks 
+*** RIVER *** [2s 4h Th 3c] [As]
+gmitoi: bets $0.19
+djcully: folds 
+joemc666: folds 
+ltc97: folds 
+Uncalled bet ($0.19) returned to gmitoi
+gmitoi collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2s 4h Th 3c As]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: joemc666 folded on the River
+Seat 3: KAAS467 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: ltc97 folded on the River
+Seat 6: LiamXii (button) folded before Flop (didn't bet)
+Seat 7: gmitoi (small blind) collected ($0.19)
+Seat 8: djcully (big blind) folded on the River
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237482932609:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:10:35 PT [2022/07/20 19:10:35 ET]
+Table 'Elnath' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($5.80 in chips) 
+Seat 2: joemc666 ($4.79 in chips) 
+Seat 3: KAAS467 ($4.66 in chips) 
+Seat 4: PCMaran ($4.08 in chips) 
+Seat 5: ltc97 ($7.06 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($10.99 in chips) 
+Seat 8: djcully ($3.44 in chips) 
+Seat 9: LUKIANOV777 ($7.87 in chips) 
+djcully: posts small blind $0.02
+LUKIANOV777: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 6c]
+Dorex2007: folds 
+joemc666: calls $0.05
+KAAS467: folds 
+PCMaran: folds 
+ltc97: calls $0.05
+LiamXii: folds 
+gmitoi: folds 
+djcully: calls $0.03
+LUKIANOV777: checks 
+*** FLOP *** [Kh 3c 4c]
+djcully: checks 
+LUKIANOV777: checks 
+joemc666: checks 
+ltc97: bets $0.09
+djcully: folds 
+LUKIANOV777: calls $0.09
+joemc666: calls $0.09
+*** TURN *** [Kh 3c 4c] [4s]
+LUKIANOV777: checks 
+joemc666: checks 
+ltc97: bets $0.90
+LUKIANOV777: folds 
+joemc666: folds 
+Uncalled bet ($0.90) returned to ltc97
+ltc97 collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [Kh 3c 4c 4s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: joemc666 folded on the Turn
+Seat 3: KAAS467 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: ltc97 collected ($0.45)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi (button) folded before Flop (didn't bet)
+Seat 8: djcully (small blind) folded on the Flop
+Seat 9: LUKIANOV777 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #237482951333:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:11:41 PT [2022/07/20 19:11:41 ET]
+Table 'Elnath' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($5.80 in chips) 
+Seat 2: joemc666 ($4.65 in chips) 
+Seat 3: KAAS467 ($4.66 in chips) 
+Seat 4: PCMaran ($4.08 in chips) 
+Seat 5: ltc97 ($7.37 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($10.99 in chips) 
+Seat 8: djcully ($3.39 in chips) 
+Seat 9: LUKIANOV777 ($7.73 in chips) 
+LUKIANOV777: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 4c]
+joemc666: folds 
+KAAS467: folds 
+PCMaran: folds 
+ltc97: calls $0.05
+LiamXii: folds 
+gmitoi: folds 
+djcully: calls $0.05
+LUKIANOV777: calls $0.03
+Dorex2007: checks 
+*** FLOP *** [9d 8c Ad]
+LUKIANOV777: checks 
+Dorex2007: checks 
+ltc97: checks 
+djcully: checks 
+*** TURN *** [9d 8c Ad] [Jd]
+LUKIANOV777: checks 
+Dorex2007: checks 
+ltc97: bets $0.09
+djcully: calls $0.09
+LUKIANOV777: calls $0.09
+Dorex2007: folds 
+*** RIVER *** [9d 8c Ad Jd] [5d]
+LUKIANOV777: checks 
+ltc97: bets $0.45
+djcully: folds 
+LUKIANOV777: folds 
+Uncalled bet ($0.45) returned to ltc97
+ltc97 collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [9d 8c Ad Jd 5d]
+Seat 1: Dorex2007 (big blind) folded on the Turn
+Seat 2: joemc666 folded before Flop (didn't bet)
+Seat 3: KAAS467 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: ltc97 collected ($0.45)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: djcully (button) folded on the River
+Seat 9: LUKIANOV777 (small blind) folded on the River
+
+
+
+PokerStars Hand #237482975603:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:13:06 PT [2022/07/20 19:13:06 ET]
+Table 'Elnath' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($5.75 in chips) 
+Seat 2: joemc666 ($4.65 in chips) 
+Seat 3: KAAS467 ($4.66 in chips) 
+Seat 4: PCMaran ($4.08 in chips) 
+Seat 5: ltc97 ($7.68 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($10.99 in chips) 
+Seat 8: djcully ($3.25 in chips) 
+Seat 9: LUKIANOV777 ($7.59 in chips) 
+Dorex2007: posts small blind $0.02
+joemc666: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 5d]
+KAAS467: folds 
+PCMaran: folds 
+ltc97: folds 
+LiamXii: folds 
+gmitoi: folds 
+djcully: calls $0.05
+LUKIANOV777: folds 
+Dorex2007: folds 
+joemc666: checks 
+*** FLOP *** [Ah Ac 9h]
+joemc666: bets $0.05
+djcully: calls $0.05
+*** TURN *** [Ah Ac 9h] [7c]
+joemc666: bets $0.15
+djcully: calls $0.15
+*** RIVER *** [Ah Ac 9h 7c] [4d]
+joemc666: bets $4.40 and is all-in
+djcully: calls $3 and is all-in
+Uncalled bet ($1.40) returned to joemc666
+*** SHOW DOWN ***
+joemc666: shows [Ad 9d] (a full house, Aces full of Nines)
+djcully: shows [7s 8d] (two pair, Aces and Sevens)
+joemc666 collected $6.25 from pot
+*** SUMMARY ***
+Total pot $6.52 | Rake $0.27 
+Board [Ah Ac 9h 7c 4d]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: joemc666 (big blind) showed [Ad 9d] and won ($6.25) with a full house, Aces full of Nines
+Seat 3: KAAS467 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: ltc97 folded before Flop (didn't bet)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: djcully showed [7s 8d] and lost with two pair, Aces and Sevens
+Seat 9: LUKIANOV777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237482994021:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:14:12 PT [2022/07/20 19:14:12 ET]
+Table 'Elnath' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($5.73 in chips) 
+Seat 2: joemc666 ($7.65 in chips) 
+Seat 3: KAAS467 ($4.66 in chips) 
+Seat 4: PCMaran ($4.08 in chips) 
+Seat 5: ltc97 ($7.68 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($10.99 in chips) 
+Seat 9: LUKIANOV777 ($7.59 in chips) 
+joemc666: posts small blind $0.02
+KAAS467: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Jh]
+PCMaran: folds 
+ltc97: calls $0.05
+LiamXii: folds 
+djcully leaves the table
+gmitoi: folds 
+LUKIANOV777: raises $0.17 to $0.22
+Dorex2007: calls $0.22
+joemc666: folds 
+DonD13 joins the table at seat #8 
+KAAS467: folds 
+ltc97: calls $0.17
+*** FLOP *** [4c 3h 8d]
+ltc97: bets $0.35
+LUKIANOV777: folds 
+Dorex2007: raises $0.65 to $1
+ltc97: calls $0.65
+*** TURN *** [4c 3h 8d] [5c]
+ltc97: bets $2.62
+Dorex2007: folds 
+Uncalled bet ($2.62) returned to ltc97
+ltc97 collected $2.62 from pot
+*** SUMMARY ***
+Total pot $2.73 | Rake $0.11 
+Board [4c 3h 8d 5c]
+Seat 1: Dorex2007 (button) folded on the Turn
+Seat 2: joemc666 (small blind) folded before Flop
+Seat 3: KAAS467 (big blind) folded before Flop
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: ltc97 collected ($2.62)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 9: LUKIANOV777 folded on the Flop
+
+
+
+PokerStars Hand #237483028399:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:15:31 PT [2022/07/20 19:15:31 ET]
+Table 'Elnath' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: joemc666 ($7.63 in chips) 
+Seat 3: KAAS467 ($4.61 in chips) 
+Seat 4: PCMaran ($4.08 in chips) 
+Seat 5: ltc97 ($9.08 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($10.99 in chips) 
+Seat 8: DonD13 ($2 in chips) 
+Seat 9: LUKIANOV777 ($7.37 in chips) 
+KAAS467: posts small blind $0.02
+PCMaran: posts big blind $0.05
+DonD13: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Ac]
+ltc97: folds 
+LiamXii: folds 
+gmitoi: folds 
+DonD13: raises $0.10 to $0.15
+LUKIANOV777: folds 
+Dorex2007: calls $0.15
+joemc666: calls $0.15
+KAAS467: folds 
+PCMaran: calls $0.10
+*** FLOP *** [Qd 9s 3h]
+PCMaran: checks 
+DonD13: checks 
+Dorex2007: checks 
+joemc666: bets $0.10
+PCMaran: calls $0.10
+DonD13: folds 
+Dorex2007: folds 
+*** TURN *** [Qd 9s 3h] [Jh]
+PCMaran: checks 
+joemc666: checks 
+*** RIVER *** [Qd 9s 3h Jh] [Jd]
+PCMaran: checks 
+joemc666: checks 
+*** SHOW DOWN ***
+PCMaran: shows [9d Td] (two pair, Jacks and Nines)
+joemc666: shows [2c 9c] (two pair, Jacks and Nines)
+PCMaran collected $0.40 from pot
+joemc666 collected $0.39 from pot
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.03 
+Board [Qd 9s 3h Jh Jd]
+Seat 1: Dorex2007 folded on the Flop
+Seat 2: joemc666 (button) showed [2c 9c] and won ($0.39) with two pair, Jacks and Nines
+Seat 3: KAAS467 (small blind) folded before Flop
+Seat 4: PCMaran (big blind) showed [9d Td] and won ($0.40) with two pair, Jacks and Nines
+Seat 5: ltc97 folded before Flop (didn't bet)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: DonD13 folded on the Flop
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483043325:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:16:25 PT [2022/07/20 19:16:25 ET]
+Table 'Elnath' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: joemc666 ($7.77 in chips) 
+Seat 3: KAAS467 ($4.59 in chips) 
+Seat 4: PCMaran ($4.23 in chips) 
+Seat 5: ltc97 ($9.08 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($10.99 in chips) 
+Seat 8: DonD13 ($1.85 in chips) 
+Seat 9: LUKIANOV777 ($7.37 in chips) 
+PCMaran: posts small blind $0.02
+ltc97: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 8h]
+LiamXii: folds 
+gmitoi: folds 
+DonD13: calls $0.05
+LUKIANOV777: folds 
+Dorex2007: folds 
+joemc666: calls $0.05
+KAAS467: calls $0.05
+PCMaran: folds 
+ltc97: checks 
+*** FLOP *** [Th Td 7s]
+ltc97: bets $0.21
+DonD13: folds 
+joemc666: folds 
+KAAS467: folds 
+Uncalled bet ($0.21) returned to ltc97
+ltc97 collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Th Td 7s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: joemc666 folded on the Flop
+Seat 3: KAAS467 (button) folded on the Flop
+Seat 4: PCMaran (small blind) folded before Flop
+Seat 5: ltc97 (big blind) collected ($0.21)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: DonD13 folded on the Flop
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483053210:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:17:00 PT [2022/07/20 19:17:00 ET]
+Table 'Elnath' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: joemc666 ($7.72 in chips) 
+Seat 3: KAAS467 ($4.54 in chips) 
+Seat 4: PCMaran ($4.21 in chips) 
+Seat 5: ltc97 ($9.24 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($10.99 in chips) 
+Seat 8: DonD13 ($1.80 in chips) 
+Seat 9: LUKIANOV777 ($7.37 in chips) 
+ltc97: posts small blind $0.02
+LiamXii: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 5s]
+gmitoi: folds 
+DonD13: folds 
+LUKIANOV777: folds 
+Dorex2007: folds 
+joemc666: calls $0.05
+KAAS467: folds 
+PCMaran: folds 
+ltc97: calls $0.03
+LiamXii: checks 
+*** FLOP *** [Kc 3s Ah]
+ltc97: checks 
+LiamXii: checks 
+joemc666: bets $0.05
+ltc97: folds 
+LiamXii: folds 
+Uncalled bet ($0.05) returned to joemc666
+joemc666 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Kc 3s Ah]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: joemc666 collected ($0.14)
+Seat 3: KAAS467 folded before Flop (didn't bet)
+Seat 4: PCMaran (button) folded before Flop (didn't bet)
+Seat 5: ltc97 (small blind) folded on the Flop
+Seat 6: LiamXii (big blind) folded on the Flop
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: DonD13 folded before Flop (didn't bet)
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483063066:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:17:36 PT [2022/07/20 19:17:36 ET]
+Table 'Elnath' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: joemc666 ($7.81 in chips) 
+Seat 3: KAAS467 ($4.54 in chips) 
+Seat 4: PCMaran ($4.21 in chips) 
+Seat 5: ltc97 ($9.19 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($10.99 in chips) 
+Seat 8: DonD13 ($1.80 in chips) 
+Seat 9: LUKIANOV777 ($7.37 in chips) 
+LiamXii: posts small blind $0.02
+gmitoi: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 3c]
+DonD13: folds 
+LUKIANOV777: folds 
+Dorex2007: folds 
+joemc666: calls $0.05
+KAAS467: folds 
+PCMaran: folds 
+ltc97: folds 
+ltc97 leaves the table
+LiamXii: folds 
+alexandr1178 joins the table at seat #5 
+gmitoi: checks 
+*** FLOP *** [As 7s 3s]
+gmitoi: checks 
+joemc666: bets $0.05
+gmitoi: folds 
+Uncalled bet ($0.05) returned to joemc666
+joemc666 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [As 7s 3s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: joemc666 collected ($0.12)
+Seat 3: KAAS467 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: ltc97 (button) folded before Flop (didn't bet)
+Seat 6: LiamXii (small blind) folded before Flop
+Seat 7: gmitoi (big blind) folded on the Flop
+Seat 8: DonD13 folded before Flop (didn't bet)
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483073860:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:18:15 PT [2022/07/20 19:18:15 ET]
+Table 'Elnath' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: joemc666 ($7.88 in chips) 
+Seat 3: KAAS467 ($4.54 in chips) 
+Seat 4: PCMaran ($4.21 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($10.94 in chips) 
+Seat 8: DonD13 ($1.80 in chips) 
+Seat 9: LUKIANOV777 ($7.37 in chips) 
+gmitoi: posts small blind $0.02
+DonD13: posts big blind $0.05
+alexandr1178: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 8c]
+LUKIANOV777: folds 
+Dorex2007: folds 
+joemc666: folds 
+KAAS467: folds 
+PCMaran: folds 
+LiamXii: raises $0.11 to $0.16
+gmitoi: folds 
+DonD13: calls $0.11
+*** FLOP *** [5d Td 7d]
+DonD13: checks 
+LiamXii: bets $0.20
+DonD13: folds 
+Uncalled bet ($0.20) returned to LiamXii
+LiamXii collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [5d Td 7d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: joemc666 folded before Flop (didn't bet)
+Seat 3: KAAS467 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 6: LiamXii (button) collected ($0.33)
+Seat 7: gmitoi (small blind) folded before Flop
+Seat 8: DonD13 (big blind) folded on the Flop
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483083609:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:18:50 PT [2022/07/20 19:18:50 ET]
+Table 'Elnath' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: joemc666 ($7.88 in chips) 
+Seat 3: KAAS467 ($4.54 in chips) 
+Seat 4: PCMaran ($4.21 in chips) 
+Seat 6: LiamXii ($5.17 in chips) 
+Seat 7: gmitoi ($10.92 in chips) 
+Seat 8: DonD13 ($1.64 in chips) 
+Seat 9: LUKIANOV777 ($7.37 in chips) 
+DonD13: posts small blind $0.02
+LUKIANOV777: posts big blind $0.05
+alexandr1178: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 4c]
+Dorex2007: folds 
+joemc666: folds 
+KAAS467: folds 
+PCMaran: folds 
+LiamXii: folds 
+gmitoi: calls $0.05
+DonD13: calls $0.03
+LUKIANOV777: checks 
+*** FLOP *** [6d 8c Kh]
+DonD13: checks 
+LUKIANOV777: checks 
+gmitoi: checks 
+*** TURN *** [6d 8c Kh] [2c]
+DonD13: checks 
+LUKIANOV777: checks 
+gmitoi: checks 
+*** RIVER *** [6d 8c Kh 2c] [Jd]
+DonD13: checks 
+LUKIANOV777: checks 
+gmitoi: checks 
+*** SHOW DOWN ***
+DonD13: shows [Qd Tc] (high card King)
+LUKIANOV777: shows [6h 4s] (a pair of Sixes)
+gmitoi: shows [5d 8d] (a pair of Eights)
+gmitoi collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [6d 8c Kh 2c Jd]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: joemc666 folded before Flop (didn't bet)
+Seat 3: KAAS467 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi (button) showed [5d 8d] and won ($0.14) with a pair of Eights
+Seat 8: DonD13 (small blind) showed [Qd Tc] and lost with high card King
+Seat 9: LUKIANOV777 (big blind) showed [6h 4s] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #237483099660:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:19:49 PT [2022/07/20 19:19:49 ET]
+Table 'Elnath' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: joemc666 ($7.88 in chips) 
+Seat 3: KAAS467 ($4.54 in chips) 
+Seat 4: PCMaran ($4.21 in chips) 
+Seat 6: LiamXii ($5.17 in chips) 
+Seat 7: gmitoi ($11.01 in chips) 
+Seat 8: DonD13 ($1.59 in chips) 
+Seat 9: LUKIANOV777 ($7.32 in chips) 
+LUKIANOV777: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+alexandr1178: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 2s]
+joemc666: calls $0.05
+KAAS467: folds 
+PCMaran: folds 
+LiamXii: folds 
+gmitoi: folds 
+DonD13: folds 
+LUKIANOV777: calls $0.03
+Dorex2007: checks 
+*** FLOP *** [Kh Kd 8d]
+LUKIANOV777: checks 
+Dorex2007: checks 
+joemc666: bets $0.10
+LUKIANOV777: folds 
+Dorex2007: raises $0.34 to $0.44
+joemc666: calls $0.34
+*** TURN *** [Kh Kd 8d] [6h]
+Dorex2007: bets $0.99
+joemc666: calls $0.99
+*** RIVER *** [Kh Kd 8d 6h] [2d]
+Dorex2007: bets $3.52 and is all-in
+joemc666: calls $3.52
+*** SHOW DOWN ***
+Dorex2007: shows [Ks 2s] (a full house, Kings full of Deuces)
+joemc666: shows [Kc Jd] (three of a kind, Kings)
+Dorex2007 collected $9.63 from pot
+*** SUMMARY ***
+Total pot $10.05 | Rake $0.42 
+Board [Kh Kd 8d 6h 2d]
+Seat 1: Dorex2007 (big blind) showed [Ks 2s] and won ($9.63) with a full house, Kings full of Deuces
+Seat 2: joemc666 showed [Kc Jd] and lost with three of a kind, Kings
+Seat 3: KAAS467 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: DonD13 (button) folded before Flop (didn't bet)
+Seat 9: LUKIANOV777 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #237483133890:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:21:28 PT [2022/07/20 19:21:28 ET]
+Table 'Elnath' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($9.63 in chips) 
+Seat 2: joemc666 ($2.88 in chips) 
+Seat 3: KAAS467 ($4.54 in chips) 
+Seat 4: PCMaran ($4.21 in chips) 
+Seat 6: LiamXii ($5.17 in chips) 
+Seat 7: gmitoi ($11.01 in chips) 
+Seat 8: DonD13 ($1.59 in chips) 
+Seat 9: LUKIANOV777 ($7.27 in chips) 
+Dorex2007: posts small blind $0.02
+joemc666: posts big blind $0.05
+alexandr1178: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 8s]
+KAAS467: folds 
+PCMaran: folds 
+LiamXii: folds 
+gmitoi: folds 
+DonD13: raises $0.05 to $0.10
+LUKIANOV777: calls $0.10
+Dorex2007: folds 
+joemc666: folds 
+*** FLOP *** [Kh As Th]
+DonD13: bets $0.10
+LUKIANOV777: calls $0.10
+*** TURN *** [Kh As Th] [5c]
+DonD13: bets $0.25
+LUKIANOV777: calls $0.25
+*** RIVER *** [Kh As Th 5c] [4s]
+DonD13: bets $0.55
+LUKIANOV777: folds 
+Uncalled bet ($0.55) returned to DonD13
+DonD13 collected $0.93 from pot
+*** SUMMARY ***
+Total pot $0.97 | Rake $0.04 
+Board [Kh As Th 5c 4s]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: joemc666 (big blind) folded before Flop
+Seat 3: KAAS467 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: DonD13 collected ($0.93)
+Seat 9: LUKIANOV777 (button) folded on the River
+
+
+
+PokerStars Hand #237483153863:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:22:41 PT [2022/07/20 19:22:41 ET]
+Table 'Elnath' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($9.61 in chips) 
+Seat 2: joemc666 ($2.83 in chips) 
+Seat 3: KAAS467 ($4.54 in chips) 
+Seat 4: PCMaran ($4.21 in chips) 
+Seat 6: LiamXii ($5.17 in chips) 
+Seat 7: gmitoi ($11.01 in chips) 
+Seat 8: DonD13 ($2.07 in chips) 
+Seat 9: LUKIANOV777 ($6.82 in chips) 
+joemc666: posts small blind $0.02
+KAAS467: posts big blind $0.05
+alexandr1178: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 3h]
+PCMaran: folds 
+LiamXii: folds 
+gmitoi: folds 
+DonD13: folds 
+LUKIANOV777: folds 
+Dorex2007: folds 
+joemc666: calls $0.03
+KAAS467: checks 
+*** FLOP *** [Qh Jc Js]
+joemc666: checks 
+KAAS467: checks 
+*** TURN *** [Qh Jc Js] [6d]
+joemc666: bets $0.05
+KAAS467: folds 
+Uncalled bet ($0.05) returned to joemc666
+joemc666 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Qh Jc Js 6d]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: joemc666 (small blind) collected ($0.10)
+Seat 3: KAAS467 (big blind) folded on the Turn
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: DonD13 folded before Flop (didn't bet)
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483163414:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:23:16 PT [2022/07/20 19:23:16 ET]
+Table 'Elnath' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($9.61 in chips) 
+Seat 2: joemc666 ($2.88 in chips) 
+Seat 3: KAAS467 ($4.49 in chips) 
+Seat 4: PCMaran ($4.21 in chips) 
+Seat 6: LiamXii ($5.17 in chips) 
+Seat 7: gmitoi ($11.01 in chips) 
+Seat 8: DonD13 ($2.07 in chips) 
+Seat 9: LUKIANOV777 ($6.82 in chips) 
+KAAS467: posts small blind $0.02
+PCMaran: posts big blind $0.05
+alexandr1178: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 5d]
+LiamXii: raises $0.10 to $0.15
+gmitoi: folds 
+DonD13: calls $0.15
+LUKIANOV777: folds 
+Dorex2007: folds 
+joemc666: calls $0.15
+KAAS467: folds 
+PCMaran: calls $0.10
+*** FLOP *** [3d 5c 9c]
+PCMaran: bets $0.29
+LiamXii: folds 
+DonD13: calls $0.29
+joemc666: folds 
+*** TURN *** [3d 5c 9c] [As]
+PCMaran: checks 
+DonD13: bets $0.30
+PCMaran: calls $0.30
+*** RIVER *** [3d 5c 9c As] [8c]
+PCMaran: checks 
+DonD13: checks 
+*** SHOW DOWN ***
+PCMaran: shows [Jh Jd] (a pair of Jacks)
+DonD13: shows [Kc Ks] (a pair of Kings)
+DonD13 collected $1.73 from pot
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.07 
+Board [3d 5c 9c As 8c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: joemc666 (button) folded on the Flop
+Seat 3: KAAS467 (small blind) folded before Flop
+Seat 4: PCMaran (big blind) showed [Jh Jd] and lost with a pair of Jacks
+Seat 6: LiamXii folded on the Flop
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: DonD13 showed [Kc Ks] and won ($1.73) with a pair of Kings
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483179068:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:24:14 PT [2022/07/20 19:24:14 ET]
+Table 'Elnath' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($9.61 in chips) 
+Seat 2: joemc666 ($2.73 in chips) 
+Seat 3: KAAS467 ($4.47 in chips) 
+Seat 4: PCMaran ($3.47 in chips) 
+Seat 5: alexandr1178 ($2.50 in chips) 
+Seat 6: LiamXii ($5.02 in chips) 
+Seat 7: gmitoi ($11.01 in chips) 
+Seat 8: DonD13 ($3.06 in chips) 
+Seat 9: LUKIANOV777 ($6.82 in chips) 
+PCMaran: posts small blind $0.02
+alexandr1178: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 6c]
+LiamXii: folds 
+gmitoi: folds 
+DonD13: calls $0.05
+LUKIANOV777: folds 
+Dorex2007: folds 
+joemc666: folds 
+KAAS467: raises $0.25 to $0.30
+PCMaran: folds 
+alexandr1178: folds 
+DonD13: folds 
+Uncalled bet ($0.25) returned to KAAS467
+KAAS467 collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: joemc666 folded before Flop (didn't bet)
+Seat 3: KAAS467 (button) collected ($0.17)
+Seat 4: PCMaran (small blind) folded before Flop
+Seat 5: alexandr1178 (big blind) folded before Flop
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: DonD13 folded before Flop
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483188293:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:24:48 PT [2022/07/20 19:24:48 ET]
+Table 'Elnath' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($9.61 in chips) 
+Seat 2: joemc666 ($2.73 in chips) 
+Seat 3: KAAS467 ($4.59 in chips) 
+Seat 4: PCMaran ($3.45 in chips) 
+Seat 5: alexandr1178 ($2.45 in chips) 
+Seat 6: LiamXii ($5.02 in chips) 
+Seat 7: gmitoi ($11.01 in chips) 
+Seat 8: DonD13 ($3.01 in chips) 
+Seat 9: LUKIANOV777 ($6.82 in chips) 
+alexandr1178: posts small blind $0.02
+LiamXii: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 8s]
+gmitoi: folds 
+DonD13: folds 
+LUKIANOV777: folds 
+Dorex2007: calls $0.05
+joemc666: calls $0.05
+KAAS467: folds 
+PCMaran: folds 
+alexandr1178: calls $0.03
+LiamXii: checks 
+*** FLOP *** [5d Ts Ah]
+alexandr1178: checks 
+LiamXii: checks 
+Dorex2007: checks 
+joemc666: checks 
+*** TURN *** [5d Ts Ah] [2d]
+alexandr1178: checks 
+LiamXii: checks 
+Dorex2007: checks 
+joemc666: bets $0.05
+alexandr1178: calls $0.05
+LiamXii: folds 
+Dorex2007: calls $0.05
+*** RIVER *** [5d Ts Ah 2d] [5c]
+alexandr1178: checks 
+Dorex2007: checks 
+joemc666: bets $2.63 and is all-in
+alexandr1178: folds 
+Dorex2007: folds 
+Uncalled bet ($2.63) returned to joemc666
+joemc666 collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [5d Ts Ah 2d 5c]
+Seat 1: Dorex2007 folded on the River
+Seat 2: joemc666 collected ($0.34)
+Seat 3: KAAS467 folded before Flop (didn't bet)
+Seat 4: PCMaran (button) folded before Flop (didn't bet)
+Seat 5: alexandr1178 (small blind) folded on the River
+Seat 6: LiamXii (big blind) folded on the Turn
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: DonD13 folded before Flop (didn't bet)
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483209087:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:26:06 PT [2022/07/20 19:26:06 ET]
+Table 'Elnath' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($9.51 in chips) 
+Seat 2: joemc666 ($2.97 in chips) 
+Seat 3: KAAS467 ($4.59 in chips) 
+Seat 4: PCMaran ($3.45 in chips) 
+Seat 5: alexandr1178 ($2.35 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($11.01 in chips) 
+Seat 8: DonD13 ($3.01 in chips) 
+Seat 9: LUKIANOV777 ($6.82 in chips) 
+LiamXii: posts small blind $0.02
+gmitoi: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 2c]
+DonD13: folds 
+LUKIANOV777: folds 
+Dorex2007: folds 
+joemc666: folds 
+KAAS467: folds 
+PCMaran: folds 
+DonD13 leaves the table
+alexandr1178: folds 
+LiamXii: folds 
+Uncalled bet ($0.03) returned to gmitoi
+gmitoi collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: joemc666 folded before Flop (didn't bet)
+Seat 3: KAAS467 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 (button) folded before Flop (didn't bet)
+Seat 6: LiamXii (small blind) folded before Flop
+Seat 7: gmitoi (big blind) collected ($0.04)
+Seat 8: DonD13 folded before Flop (didn't bet)
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483214255:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:26:25 PT [2022/07/20 19:26:25 ET]
+Table 'Elnath' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($9.51 in chips) 
+Seat 2: joemc666 ($2.97 in chips) 
+Seat 3: KAAS467 ($4.59 in chips) 
+Seat 4: PCMaran ($3.45 in chips) 
+Seat 5: alexandr1178 ($2.35 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($11.03 in chips) 
+Seat 9: LUKIANOV777 ($6.82 in chips) 
+gmitoi: posts small blind $0.02
+LUKIANOV777: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 5d]
+cr@sh test joins the table at seat #8 
+Dorex2007: folds 
+joemc666: calls $0.05
+KAAS467: calls $0.05
+PCMaran: folds 
+alexandr1178: folds 
+LiamXii: folds 
+gmitoi: folds 
+LUKIANOV777: checks 
+*** FLOP *** [2c 3d Ts]
+LUKIANOV777: checks 
+joemc666: checks 
+KAAS467: checks 
+*** TURN *** [2c 3d Ts] [Ac]
+LUKIANOV777: checks 
+joemc666: bets $0.05
+KAAS467: calls $0.05
+LUKIANOV777: folds 
+*** RIVER *** [2c 3d Ts Ac] [4s]
+joemc666: checks 
+KAAS467: checks 
+*** SHOW DOWN ***
+joemc666: shows [3c Kc] (a pair of Threes)
+KAAS467: shows [6c 4c] (a pair of Fours)
+KAAS467 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [2c 3d Ts Ac 4s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: joemc666 showed [3c Kc] and lost with a pair of Threes
+Seat 3: KAAS467 showed [6c 4c] and won ($0.26) with a pair of Fours
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 folded before Flop (didn't bet)
+Seat 6: LiamXii (button) folded before Flop (didn't bet)
+Seat 7: gmitoi (small blind) folded before Flop
+Seat 9: LUKIANOV777 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #237483232786:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:27:34 PT [2022/07/20 19:27:34 ET]
+Table 'Elnath' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($9.51 in chips) 
+Seat 2: joemc666 ($2.87 in chips) 
+Seat 3: KAAS467 ($4.75 in chips) 
+Seat 4: PCMaran ($3.45 in chips) 
+Seat 5: alexandr1178 ($2.35 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($11.01 in chips) 
+Seat 9: LUKIANOV777 ($6.77 in chips) 
+LUKIANOV777: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 7s]
+joemc666: folds 
+KAAS467: folds 
+PCMaran: folds 
+alexandr1178: folds 
+LiamXii: folds 
+gmitoi: folds 
+LUKIANOV777: folds 
+Uncalled bet ($0.03) returned to Dorex2007
+Dorex2007 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 (big blind) collected ($0.04)
+Seat 2: joemc666 folded before Flop (didn't bet)
+Seat 3: KAAS467 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 folded before Flop (didn't bet)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi (button) folded before Flop (didn't bet)
+Seat 9: LUKIANOV777 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237483238264:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:27:54 PT [2022/07/20 19:27:54 ET]
+Table 'Elnath' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($9.53 in chips) 
+Seat 2: joemc666 ($2.87 in chips) 
+Seat 3: KAAS467 ($4.75 in chips) 
+Seat 4: PCMaran ($3.45 in chips) 
+Seat 5: alexandr1178 ($2.35 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($11.01 in chips) 
+Seat 9: LUKIANOV777 ($6.75 in chips) 
+Dorex2007: posts small blind $0.02
+joemc666: posts big blind $0.05
+cr@sh test: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 7h]
+KAAS467: folds 
+PCMaran: folds 
+alexandr1178: folds 
+LiamXii: folds 
+gmitoi: raises $0.07 to $0.12
+LUKIANOV777: folds 
+Dorex2007: folds 
+joemc666: folds 
+Uncalled bet ($0.07) returned to gmitoi
+joemc666 leaves the table
+gmitoi collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: joemc666 (big blind) folded before Flop
+Seat 3: KAAS467 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 folded before Flop (didn't bet)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi collected ($0.12)
+Seat 9: LUKIANOV777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483243523:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:28:14 PT [2022/07/20 19:28:14 ET]
+Table 'Elnath' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($9.51 in chips) 
+Seat 3: KAAS467 ($4.75 in chips) 
+Seat 4: PCMaran ($3.45 in chips) 
+Seat 5: alexandr1178 ($2.35 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($11.08 in chips) 
+Seat 9: LUKIANOV777 ($6.75 in chips) 
+KAAS467: posts small blind $0.02
+PCMaran: posts big blind $0.05
+cr@sh test: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 4s]
+alexandr1178: folds 
+LiamXii: folds 
+gmitoi: folds 
+LUKIANOV777: folds 
+Dorex2007: folds 
+KAAS467: folds 
+Uncalled bet ($0.03) returned to PCMaran
+PCMaran collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: KAAS467 (small blind) folded before Flop
+Seat 4: PCMaran (big blind) collected ($0.04)
+Seat 5: alexandr1178 folded before Flop (didn't bet)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483246350:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:28:25 PT [2022/07/20 19:28:25 ET]
+Table 'Elnath' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($9.51 in chips) 
+Seat 3: KAAS467 ($4.73 in chips) 
+Seat 4: PCMaran ($3.47 in chips) 
+Seat 5: alexandr1178 ($2.35 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($11.08 in chips) 
+Seat 9: LUKIANOV777 ($6.75 in chips) 
+PCMaran: posts small blind $0.02
+alexandr1178: posts big blind $0.05
+cr@sh test: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 2s]
+LiamXii: folds 
+gmitoi: raises $0.07 to $0.12
+LUKIANOV777: calls $0.12
+Dorex2007: folds 
+KAAS467: folds 
+PCMaran: folds 
+tigerww785 joins the table at seat #2 
+alexandr1178: calls $0.07
+*** FLOP *** [3h 2h 3s]
+alexandr1178: checks 
+gmitoi: bets $0.25
+LUKIANOV777: folds 
+alexandr1178: folds 
+Uncalled bet ($0.25) returned to gmitoi
+gmitoi collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.02 
+Board [3h 2h 3s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: KAAS467 (button) folded before Flop (didn't bet)
+Seat 4: PCMaran (small blind) folded before Flop
+Seat 5: alexandr1178 (big blind) folded on the Flop
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi collected ($0.36)
+Seat 9: LUKIANOV777 folded on the Flop
+
+
+
+PokerStars Hand #237483257615:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:29:07 PT [2022/07/20 19:29:07 ET]
+Table 'Elnath' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($9.51 in chips) 
+Seat 3: KAAS467 ($4.73 in chips) 
+Seat 4: PCMaran ($5 in chips) 
+Seat 5: alexandr1178 ($2.23 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($11.32 in chips) 
+Seat 9: LUKIANOV777 ($6.63 in chips) 
+alexandr1178: posts small blind $0.02
+LiamXii: posts big blind $0.05
+cr@sh test: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 6s]
+gmitoi: folds 
+LUKIANOV777: folds 
+Dorex2007: folds 
+KAAS467: folds 
+PCMaran: folds 
+alexandr1178: raises $0.10 to $0.15
+LiamXii: folds 
+Uncalled bet ($0.10) returned to alexandr1178
+alexandr1178 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: KAAS467 folded before Flop (didn't bet)
+Seat 4: PCMaran (button) folded before Flop (didn't bet)
+Seat 5: alexandr1178 (small blind) collected ($0.10)
+Seat 6: LiamXii (big blind) folded before Flop
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483261862:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:29:24 PT [2022/07/20 19:29:24 ET]
+Table 'Elnath' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($9.51 in chips) 
+Seat 3: KAAS467 ($4.73 in chips) 
+Seat 4: PCMaran ($5 in chips) 
+Seat 5: alexandr1178 ($2.28 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($11.32 in chips) 
+Seat 9: LUKIANOV777 ($6.63 in chips) 
+LiamXii: posts small blind $0.02
+gmitoi: posts big blind $0.05
+cr@sh test: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 2c]
+LUKIANOV777: folds 
+Dorex2007: folds 
+KAAS467: raises $0.10 to $0.15
+PCMaran: folds 
+alexandr1178: folds 
+LiamXii: calls $0.13
+gmitoi: folds 
+*** FLOP *** [5s Kc Ad]
+tigerww785 leaves the table
+LiamXii: bets $0.19
+KAAS467: calls $0.19
+*** TURN *** [5s Kc Ad] [3h]
+LiamXii: bets $0.55
+kimikiwi87 joins the table at seat #2 
+KAAS467: folds 
+Uncalled bet ($0.55) returned to LiamXii
+LiamXii collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [5s Kc Ad 3h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: KAAS467 folded on the Turn
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 (button) folded before Flop (didn't bet)
+Seat 6: LiamXii (small blind) collected ($0.70)
+Seat 7: gmitoi (big blind) folded before Flop
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483278948:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:30:02 PT [2022/07/20 19:30:02 ET]
+Table 'Elnath' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($9.51 in chips) 
+Seat 3: KAAS467 ($4.39 in chips) 
+Seat 4: PCMaran ($5 in chips) 
+Seat 5: alexandr1178 ($2.28 in chips) 
+Seat 6: LiamXii ($5.36 in chips) 
+Seat 7: gmitoi ($11.27 in chips) 
+Seat 8: cr@sh test ($5 in chips) 
+Seat 9: LUKIANOV777 ($6.63 in chips) 
+gmitoi: posts small blind $0.02
+cr@sh test: posts big blind $0.05
+kimikiwi87: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Qh]
+LUKIANOV777: folds 
+Dorex2007: folds 
+KAAS467: raises $0.10 to $0.15
+PCMaran: raises $0.25 to $0.40
+alexandr1178: folds 
+LiamXii: folds 
+gmitoi: folds 
+cr@sh test: folds 
+KAAS467: folds 
+Uncalled bet ($0.25) returned to PCMaran
+PCMaran collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: KAAS467 folded before Flop
+Seat 4: PCMaran collected ($0.37)
+Seat 5: alexandr1178 folded before Flop (didn't bet)
+Seat 6: LiamXii (button) folded before Flop (didn't bet)
+Seat 7: gmitoi (small blind) folded before Flop
+Seat 8: cr@sh test (big blind) folded before Flop
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483285625:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:30:27 PT [2022/07/20 19:30:27 ET]
+Table 'Elnath' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($9.51 in chips) 
+Seat 3: KAAS467 ($4.24 in chips) 
+Seat 4: PCMaran ($5.22 in chips) 
+Seat 5: alexandr1178 ($2.28 in chips) 
+Seat 6: LiamXii ($5.36 in chips) 
+Seat 7: gmitoi ($11.25 in chips) 
+Seat 8: cr@sh test ($5 in chips) 
+Seat 9: LUKIANOV777 ($6.63 in chips) 
+cr@sh test: posts small blind $0.02
+LUKIANOV777: posts big blind $0.05
+kimikiwi87: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td As]
+Dorex2007: folds 
+KAAS467: folds 
+PCMaran: folds 
+alexandr1178: raises $0.10 to $0.15
+LiamXii: folds 
+gmitoi: folds 
+cr@sh test: folds 
+LUKIANOV777: folds 
+Uncalled bet ($0.10) returned to alexandr1178
+alexandr1178 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: KAAS467 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 collected ($0.12)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi (button) folded before Flop (didn't bet)
+Seat 8: cr@sh test (small blind) folded before Flop
+Seat 9: LUKIANOV777 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237483289659:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:30:42 PT [2022/07/20 19:30:42 ET]
+Table 'Elnath' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($9.51 in chips) 
+Seat 3: KAAS467 ($4.24 in chips) 
+Seat 4: PCMaran ($5.22 in chips) 
+Seat 5: alexandr1178 ($2.35 in chips) 
+Seat 6: LiamXii ($5.36 in chips) 
+Seat 7: gmitoi ($11.25 in chips) 
+Seat 8: cr@sh test ($5 in chips) 
+Seat 9: LUKIANOV777 ($6.58 in chips) 
+LUKIANOV777: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+kimikiwi87: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 5d]
+KAAS467: raises $0.10 to $0.15
+PCMaran: folds 
+alexandr1178: folds 
+LiamXii: raises $0.35 to $0.50
+gmitoi: folds 
+cr@sh test: folds 
+LUKIANOV777: folds 
+Dorex2007: folds 
+KAAS467: calls $0.35
+*** FLOP *** [2h 6h 9s]
+KAAS467: checks 
+LiamXii: bets $0.75
+KAAS467: folds 
+Uncalled bet ($0.75) returned to LiamXii
+LiamXii collected $1.03 from pot
+*** SUMMARY ***
+Total pot $1.07 | Rake $0.04 
+Board [2h 6h 9s]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 3: KAAS467 folded on the Flop
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 folded before Flop (didn't bet)
+Seat 6: LiamXii collected ($1.03)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: cr@sh test (button) folded before Flop (didn't bet)
+Seat 9: LUKIANOV777 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237483299363:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:31:20 PT [2022/07/20 19:31:20 ET]
+Table 'Elnath' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($9.46 in chips) 
+Seat 2: kimikiwi87 ($5 in chips) 
+Seat 3: KAAS467 ($3.74 in chips) 
+Seat 4: PCMaran ($5.22 in chips) 
+Seat 5: alexandr1178 ($2.35 in chips) 
+Seat 6: LiamXii ($5.89 in chips) 
+Seat 7: gmitoi ($11.25 in chips) 
+Seat 8: cr@sh test ($5 in chips) 
+Seat 9: LUKIANOV777 ($6.56 in chips) 
+Dorex2007: posts small blind $0.02
+kimikiwi87: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Qd]
+KAAS467: folds 
+PCMaran: raises $0.05 to $0.10
+alexandr1178: calls $0.10
+LiamXii: folds 
+gmitoi: folds 
+cr@sh test: folds 
+LUKIANOV777: folds 
+Dorex2007: folds 
+kimikiwi87: folds 
+*** FLOP *** [9d Ts Js]
+PCMaran: checks 
+alexandr1178: bets $0.13
+PCMaran: folds 
+Uncalled bet ($0.13) returned to alexandr1178
+alexandr1178 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [9d Ts Js]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: kimikiwi87 (big blind) folded before Flop
+Seat 3: KAAS467 folded before Flop (didn't bet)
+Seat 4: PCMaran folded on the Flop
+Seat 5: alexandr1178 collected ($0.26)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: cr@sh test folded before Flop (didn't bet)
+Seat 9: LUKIANOV777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483307332:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:31:51 PT [2022/07/20 19:31:51 ET]
+Table 'Elnath' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($9.44 in chips) 
+Seat 2: kimikiwi87 ($4.95 in chips) 
+Seat 4: PCMaran ($5.12 in chips) 
+Seat 5: alexandr1178 ($2.51 in chips) 
+Seat 6: LiamXii ($5.89 in chips) 
+Seat 7: gmitoi ($11.25 in chips) 
+Seat 8: cr@sh test ($5 in chips) 
+Seat 9: LUKIANOV777 ($6.56 in chips) 
+kimikiwi87: posts small blind $0.02
+KAAS467: is sitting out 
+PCMaran: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 8h]
+alexandr1178: folds 
+LiamXii: folds 
+gmitoi: folds 
+cr@sh test: folds 
+LUKIANOV777: folds 
+Dorex2007: folds 
+KAAS467 leaves the table
+kimikiwi87: calls $0.03
+PCMaran: checks 
+*** FLOP *** [6c 3h Kh]
+kimikiwi87: checks 
+PCMaran: checks 
+*** TURN *** [6c 3h Kh] [4c]
+kimikiwi87: bets $0.05
+PCMaran: calls $0.05
+*** RIVER *** [6c 3h Kh 4c] [Jc]
+kimikiwi87: checks 
+D4YSG0N3 joins the table at seat #3 
+PCMaran: checks 
+*** SHOW DOWN ***
+kimikiwi87: shows [4h Ac] (a pair of Fours)
+PCMaran: mucks hand 
+kimikiwi87 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [6c 3h Kh 4c Jc]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: kimikiwi87 (small blind) showed [4h Ac] and won ($0.19) with a pair of Fours
+Seat 4: PCMaran (big blind) mucked [8s 3d]
+Seat 5: alexandr1178 folded before Flop (didn't bet)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: cr@sh test folded before Flop (didn't bet)
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483316035:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:32:24 PT [2022/07/20 19:32:24 ET]
+Table 'Elnath' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($9.44 in chips) 
+Seat 2: kimikiwi87 ($5.04 in chips) 
+Seat 4: PCMaran ($5.02 in chips) 
+Seat 5: alexandr1178 ($2.51 in chips) 
+Seat 6: LiamXii ($5.89 in chips) 
+Seat 7: gmitoi ($11.25 in chips) 
+Seat 8: cr@sh test ($5 in chips) 
+Seat 9: LUKIANOV777 ($6.56 in chips) 
+PCMaran: posts small blind $0.02
+alexandr1178: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Qd]
+LiamXii: folds 
+gmitoi: raises $0.07 to $0.12
+cr@sh test: folds 
+LUKIANOV777: calls $0.12
+Dorex2007: folds 
+kimikiwi87: folds 
+PCMaran: calls $0.10
+alexandr1178: folds 
+*** FLOP *** [9s 2h Ah]
+PCMaran: checks 
+gmitoi: bets $0.20
+LUKIANOV777: folds 
+PCMaran: calls $0.20
+*** TURN *** [9s 2h Ah] [6c]
+PCMaran: checks 
+gmitoi: bets $0.40
+PCMaran: calls $0.40
+*** RIVER *** [9s 2h Ah 6c] [5h]
+PCMaran: bets $1.54
+gmitoi: folds 
+Uncalled bet ($1.54) returned to PCMaran
+PCMaran collected $1.54 from pot
+*** SUMMARY ***
+Total pot $1.61 | Rake $0.07 
+Board [9s 2h Ah 6c 5h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: kimikiwi87 (button) folded before Flop (didn't bet)
+Seat 4: PCMaran (small blind) collected ($1.54)
+Seat 5: alexandr1178 (big blind) folded before Flop
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded on the River
+Seat 8: cr@sh test folded before Flop (didn't bet)
+Seat 9: LUKIANOV777 folded on the Flop
+
+
+
+PokerStars Hand #237483330660:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:33:21 PT [2022/07/20 19:33:21 ET]
+Table 'Elnath' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($9.44 in chips) 
+Seat 2: kimikiwi87 ($5.04 in chips) 
+Seat 3: D4YSG0N3 ($2 in chips) 
+Seat 4: PCMaran ($5.84 in chips) 
+Seat 5: alexandr1178 ($2.46 in chips) 
+Seat 6: LiamXii ($5.89 in chips) 
+Seat 7: gmitoi ($10.53 in chips) 
+Seat 8: cr@sh test ($5 in chips) 
+Seat 9: LUKIANOV777 ($6.44 in chips) 
+alexandr1178: posts small blind $0.02
+LiamXii: posts big blind $0.05
+D4YSG0N3: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 6d]
+gmitoi: folds 
+cr@sh test: folds 
+LUKIANOV777: folds 
+Dorex2007: folds 
+kimikiwi87: folds 
+D4YSG0N3: checks 
+PCMaran: folds 
+alexandr1178: folds 
+LiamXii: checks 
+*** FLOP *** [Ah Kd Qd]
+LiamXii: checks 
+D4YSG0N3: bets $0.05
+LiamXii: folds 
+Uncalled bet ($0.05) returned to D4YSG0N3
+D4YSG0N3 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ah Kd Qd]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: kimikiwi87 folded before Flop (didn't bet)
+Seat 3: D4YSG0N3 collected ($0.12)
+Seat 4: PCMaran (button) folded before Flop (didn't bet)
+Seat 5: alexandr1178 (small blind) folded before Flop
+Seat 6: LiamXii (big blind) folded on the Flop
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: cr@sh test folded before Flop (didn't bet)
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483341303:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:34:02 PT [2022/07/20 19:34:02 ET]
+Table 'Elnath' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($9.44 in chips) 
+Seat 2: kimikiwi87 ($5.04 in chips) 
+Seat 3: D4YSG0N3 ($2.07 in chips) 
+Seat 4: PCMaran ($5.84 in chips) 
+Seat 5: alexandr1178 ($2.44 in chips) 
+Seat 6: LiamXii ($5.84 in chips) 
+Seat 7: gmitoi ($10.53 in chips) 
+Seat 8: cr@sh test ($5 in chips) 
+Seat 9: LUKIANOV777 ($6.44 in chips) 
+LiamXii: posts small blind $0.02
+gmitoi: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 4d]
+cr@sh test: folds 
+LUKIANOV777: folds 
+Dorex2007: folds 
+kimikiwi87: folds 
+D4YSG0N3: raises $0.05 to $0.10
+PCMaran: folds 
+alexandr1178: folds 
+LiamXii: calls $0.08
+gmitoi: folds 
+*** FLOP *** [3c Kd 7h]
+LiamXii: checks 
+D4YSG0N3: bets $0.10
+LiamXii: raises $0.25 to $0.35
+D4YSG0N3: folds 
+Uncalled bet ($0.25) returned to LiamXii
+LiamXii collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [3c Kd 7h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: kimikiwi87 folded before Flop (didn't bet)
+Seat 3: D4YSG0N3 folded on the Flop
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 (button) folded before Flop (didn't bet)
+Seat 6: LiamXii (small blind) collected ($0.43)
+Seat 7: gmitoi (big blind) folded before Flop
+Seat 8: cr@sh test folded before Flop (didn't bet)
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483356945:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:35:04 PT [2022/07/20 19:35:04 ET]
+Table 'Elnath' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($9.44 in chips) 
+Seat 2: kimikiwi87 ($5.04 in chips) 
+Seat 3: D4YSG0N3 ($1.87 in chips) 
+Seat 4: PCMaran ($5.84 in chips) 
+Seat 5: alexandr1178 ($2.44 in chips) 
+Seat 6: LiamXii ($6.07 in chips) 
+Seat 7: gmitoi ($10.48 in chips) 
+Seat 8: cr@sh test ($5 in chips) 
+Seat 9: LUKIANOV777 ($6.44 in chips) 
+gmitoi: posts small blind $0.02
+cr@sh test: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 9d]
+LUKIANOV777: folds 
+Dorex2007: folds 
+kimikiwi87: folds 
+D4YSG0N3: raises $0.10 to $0.15
+LUKIANOV777 leaves the table
+PCMaran: folds 
+alexandr1178: calls $0.15
+LiamXii: calls $0.15
+gmitoi: folds 
+cr@sh test: calls $0.10
+*** FLOP *** [4d Qs Ts]
+cr@sh test: checks 
+D4YSG0N3: bets $0.15
+alexandr1178: calls $0.15
+LiamXii: folds 
+cr@sh test: calls $0.15
+*** TURN *** [4d Qs Ts] [2c]
+cr@sh test: checks 
+D4YSG0N3: bets $0.55
+alexandr1178: calls $0.55
+cr@sh test: folds 
+*** RIVER *** [4d Qs Ts 2c] [6h]
+D4YSG0N3: bets $1.02 and is all-in
+alexandr1178: folds 
+Uncalled bet ($1.02) returned to D4YSG0N3
+D4YSG0N3 collected $2.08 from pot
+*** SUMMARY ***
+Total pot $2.17 | Rake $0.09 
+Board [4d Qs Ts 2c 6h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: kimikiwi87 folded before Flop (didn't bet)
+Seat 3: D4YSG0N3 collected ($2.08)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 folded on the River
+Seat 6: LiamXii (button) folded on the Flop
+Seat 7: gmitoi (small blind) folded before Flop
+Seat 8: cr@sh test (big blind) folded on the Turn
+Seat 9: LUKIANOV777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483375742:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:36:18 PT [2022/07/20 19:36:18 ET]
+Table 'Elnath' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($9.44 in chips) 
+Seat 2: kimikiwi87 ($5.04 in chips) 
+Seat 3: D4YSG0N3 ($3.10 in chips) 
+Seat 4: PCMaran ($5.84 in chips) 
+Seat 5: alexandr1178 ($1.59 in chips) 
+Seat 6: LiamXii ($5.92 in chips) 
+Seat 7: gmitoi ($10.46 in chips) 
+Seat 8: cr@sh test ($5 in chips) 
+cr@sh test: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Ah]
+rodsferraz joins the table at seat #9 
+kimikiwi87: folds 
+D4YSG0N3: calls $0.05
+PCMaran: folds 
+alexandr1178: calls $0.05
+LiamXii: folds 
+gmitoi: calls $0.05
+cr@sh test: folds 
+Dorex2007: checks 
+*** FLOP *** [6s As 6h]
+Dorex2007: checks 
+D4YSG0N3: checks 
+alexandr1178: checks 
+gmitoi: checks 
+*** TURN *** [6s As 6h] [Th]
+Dorex2007: checks 
+D4YSG0N3: bets $0.10
+alexandr1178: folds 
+gmitoi: calls $0.10
+Dorex2007: calls $0.10
+*** RIVER *** [6s As 6h Th] [7s]
+Dorex2007: checks 
+D4YSG0N3: checks 
+gmitoi: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [4d Ah] (two pair, Aces and Sixes)
+D4YSG0N3: mucks hand 
+gmitoi: mucks hand 
+Dorex2007 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [6s As 6h Th 7s]
+Seat 1: Dorex2007 (big blind) showed [4d Ah] and won ($0.50) with two pair, Aces and Sixes
+Seat 2: kimikiwi87 folded before Flop (didn't bet)
+Seat 3: D4YSG0N3 mucked [8c Tc]
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 folded on the Turn
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi (button) mucked [8h Kh]
+Seat 8: cr@sh test (small blind) folded before Flop
+
+
+
+PokerStars Hand #237483393708:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:37:28 PT [2022/07/20 19:37:28 ET]
+Table 'Elnath' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($9.79 in chips) 
+Seat 2: kimikiwi87 ($5.04 in chips) 
+Seat 3: D4YSG0N3 ($2.95 in chips) 
+Seat 4: PCMaran ($5.84 in chips) 
+Seat 5: alexandr1178 ($1.54 in chips) 
+Seat 6: LiamXii ($5.92 in chips) 
+Seat 7: gmitoi ($10.31 in chips) 
+Seat 8: cr@sh test ($5 in chips) 
+Dorex2007: posts small blind $0.02
+kimikiwi87: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Qc]
+D4YSG0N3: folds 
+PCMaran: raises $0.10 to $0.15
+alexandr1178: folds 
+LiamXii: folds 
+gmitoi: folds 
+cr@sh test: folds 
+Dorex2007: folds 
+kimikiwi87: folds 
+Uncalled bet ($0.10) returned to PCMaran
+PCMaran collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: kimikiwi87 (big blind) folded before Flop
+Seat 3: D4YSG0N3 folded before Flop (didn't bet)
+Seat 4: PCMaran collected ($0.12)
+Seat 5: alexandr1178 folded before Flop (didn't bet)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: cr@sh test (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483399171:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:37:50 PT [2022/07/20 19:37:50 ET]
+Table 'Elnath' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($9.77 in chips) 
+Seat 2: kimikiwi87 ($4.99 in chips) 
+Seat 3: D4YSG0N3 ($2.95 in chips) 
+Seat 4: PCMaran ($5.91 in chips) 
+Seat 5: alexandr1178 ($1.54 in chips) 
+Seat 6: LiamXii ($5.92 in chips) 
+Seat 7: gmitoi ($10.31 in chips) 
+Seat 8: cr@sh test ($5 in chips) 
+Seat 9: rodsferraz ($4 in chips) 
+kimikiwi87: posts small blind $0.02
+D4YSG0N3: posts big blind $0.05
+rodsferraz: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Qd]
+PCMaran: folds 
+alexandr1178: folds 
+LiamXii: folds 
+gmitoi: folds 
+cr@sh test: folds 
+rodsferraz: raises $0.05 to $0.10
+Dorex2007: folds 
+kimikiwi87: folds 
+D4YSG0N3: folds 
+Uncalled bet ($0.05) returned to rodsferraz
+rodsferraz collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: kimikiwi87 (small blind) folded before Flop
+Seat 3: D4YSG0N3 (big blind) folded before Flop
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 folded before Flop (didn't bet)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: cr@sh test folded before Flop (didn't bet)
+Seat 9: rodsferraz collected ($0.12)
+
+
+
+PokerStars Hand #237483405649:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:38:16 PT [2022/07/20 19:38:16 ET]
+Table 'Elnath' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($9.77 in chips) 
+Seat 2: kimikiwi87 ($4.97 in chips) 
+Seat 3: D4YSG0N3 ($2.90 in chips) 
+Seat 4: PCMaran ($5.91 in chips) 
+Seat 5: alexandr1178 ($1.54 in chips) 
+Seat 6: LiamXii ($5.92 in chips) 
+Seat 7: gmitoi ($10.31 in chips) 
+Seat 8: cr@sh test ($5 in chips) 
+Seat 9: rodsferraz ($4.07 in chips) 
+D4YSG0N3: posts small blind $0.02
+PCMaran: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 7s]
+alexandr1178: raises $0.07 to $0.12
+LiamXii: folds 
+gmitoi: calls $0.12
+cr@sh test: folds 
+rodsferraz: folds 
+Dorex2007: folds 
+kimikiwi87: folds 
+D4YSG0N3: folds 
+PCMaran: folds 
+*** FLOP *** [Qd 6h 8d]
+alexandr1178: bets $0.15
+gmitoi: folds 
+Uncalled bet ($0.15) returned to alexandr1178
+alexandr1178 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Qd 6h 8d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: kimikiwi87 (button) folded before Flop (didn't bet)
+Seat 3: D4YSG0N3 (small blind) folded before Flop
+Seat 4: PCMaran (big blind) folded before Flop
+Seat 5: alexandr1178 collected ($0.30)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded on the Flop
+Seat 8: cr@sh test folded before Flop (didn't bet)
+Seat 9: rodsferraz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483413351:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:38:46 PT [2022/07/20 19:38:46 ET]
+Table 'Elnath' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($9.77 in chips) 
+Seat 2: kimikiwi87 ($4.97 in chips) 
+Seat 3: D4YSG0N3 ($2.88 in chips) 
+Seat 4: PCMaran ($5.86 in chips) 
+Seat 5: alexandr1178 ($1.72 in chips) 
+Seat 6: LiamXii ($5.92 in chips) 
+Seat 7: gmitoi ($10.19 in chips) 
+Seat 8: cr@sh test ($5 in chips) 
+Seat 9: rodsferraz ($4.07 in chips) 
+PCMaran: posts small blind $0.02
+alexandr1178: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 2s]
+LiamXii: folds 
+gmitoi: folds 
+cr@sh test: folds 
+rodsferraz: raises $0.05 to $0.10
+Dorex2007: folds 
+kimikiwi87: folds 
+D4YSG0N3: folds 
+PCMaran: folds 
+alexandr1178: calls $0.05
+*** FLOP *** [Kh 5c 3s]
+alexandr1178: bets $0.10
+rodsferraz: folds 
+Uncalled bet ($0.10) returned to alexandr1178
+alexandr1178 collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Kh 5c 3s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: kimikiwi87 folded before Flop (didn't bet)
+Seat 3: D4YSG0N3 (button) folded before Flop (didn't bet)
+Seat 4: PCMaran (small blind) folded before Flop
+Seat 5: alexandr1178 (big blind) collected ($0.21)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: cr@sh test folded before Flop (didn't bet)
+Seat 9: rodsferraz folded on the Flop
+
+
+
+PokerStars Hand #237483423906:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:39:28 PT [2022/07/20 19:39:28 ET]
+Table 'Elnath' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($9.77 in chips) 
+Seat 2: kimikiwi87 ($4.97 in chips) 
+Seat 3: D4YSG0N3 ($2.88 in chips) 
+Seat 4: PCMaran ($5.84 in chips) 
+Seat 5: alexandr1178 ($1.83 in chips) 
+Seat 6: LiamXii ($5.92 in chips) 
+Seat 7: gmitoi ($10.19 in chips) 
+Seat 8: cr@sh test ($5 in chips) 
+Seat 9: rodsferraz ($3.97 in chips) 
+alexandr1178: posts small blind $0.02
+LiamXii: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 8h]
+gmitoi: folds 
+cr@sh test: folds 
+rodsferraz: folds 
+Dorex2007: folds 
+kimikiwi87: folds 
+D4YSG0N3: raises $0.05 to $0.10
+PCMaran: folds 
+alexandr1178: calls $0.08
+LiamXii: folds 
+*** FLOP *** [2c 3d Ac]
+alexandr1178: checks 
+D4YSG0N3: bets $0.10
+alexandr1178: folds 
+Uncalled bet ($0.10) returned to D4YSG0N3
+D4YSG0N3 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2c 3d Ac]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: kimikiwi87 folded before Flop (didn't bet)
+Seat 3: D4YSG0N3 collected ($0.24)
+Seat 4: PCMaran (button) folded before Flop (didn't bet)
+Seat 5: alexandr1178 (small blind) folded on the Flop
+Seat 6: LiamXii (big blind) folded before Flop
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: cr@sh test folded before Flop (didn't bet)
+Seat 9: rodsferraz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483434334:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:40:10 PT [2022/07/20 19:40:10 ET]
+Table 'Elnath' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($9.77 in chips) 
+Seat 2: kimikiwi87 ($4.97 in chips) 
+Seat 3: D4YSG0N3 ($3.02 in chips) 
+Seat 4: PCMaran ($5.84 in chips) 
+Seat 5: alexandr1178 ($1.73 in chips) 
+Seat 6: LiamXii ($5.87 in chips) 
+Seat 7: gmitoi ($10.19 in chips) 
+Seat 8: cr@sh test ($5 in chips) 
+Seat 9: rodsferraz ($3.97 in chips) 
+LiamXii: posts small blind $0.02
+gmitoi: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 7s]
+cr@sh test: folds 
+rodsferraz: folds 
+Dorex2007: folds 
+kimikiwi87: folds 
+D4YSG0N3: calls $0.05
+PCMaran: folds 
+alexandr1178: folds 
+LiamXii: folds 
+gmitoi: checks 
+*** FLOP *** [Th Qd 7h]
+gmitoi: checks 
+D4YSG0N3: bets $0.05
+gmitoi: folds 
+Uncalled bet ($0.05) returned to D4YSG0N3
+D4YSG0N3 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Th Qd 7h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: kimikiwi87 folded before Flop (didn't bet)
+Seat 3: D4YSG0N3 collected ($0.12)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 (button) folded before Flop (didn't bet)
+Seat 6: LiamXii (small blind) folded before Flop
+Seat 7: gmitoi (big blind) folded on the Flop
+Seat 8: cr@sh test folded before Flop (didn't bet)
+Seat 9: rodsferraz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483443009:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:40:45 PT [2022/07/20 19:40:45 ET]
+Table 'Elnath' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($9.77 in chips) 
+Seat 2: kimikiwi87 ($4.97 in chips) 
+Seat 3: D4YSG0N3 ($3.09 in chips) 
+Seat 4: PCMaran ($5.84 in chips) 
+Seat 5: alexandr1178 ($1.73 in chips) 
+Seat 6: LiamXii ($5.85 in chips) 
+Seat 7: gmitoi ($10.14 in chips) 
+Seat 8: cr@sh test ($5 in chips) 
+Seat 9: rodsferraz ($3.97 in chips) 
+gmitoi: posts small blind $0.02
+cr@sh test: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Ac]
+rodsferraz: folds 
+Dorex2007: folds 
+kimikiwi87: folds 
+D4YSG0N3: folds 
+PCMaran: folds 
+alexandr1178: folds 
+LiamXii: folds 
+gmitoi: folds 
+Uncalled bet ($0.03) returned to cr@sh test
+cr@sh test collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: kimikiwi87 folded before Flop (didn't bet)
+Seat 3: D4YSG0N3 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 folded before Flop (didn't bet)
+Seat 6: LiamXii (button) folded before Flop (didn't bet)
+Seat 7: gmitoi (small blind) folded before Flop
+Seat 8: cr@sh test (big blind) collected ($0.04)
+Seat 9: rodsferraz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483447350:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:41:02 PT [2022/07/20 19:41:02 ET]
+Table 'Elnath' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($9.77 in chips) 
+Seat 2: kimikiwi87 ($4.97 in chips) 
+Seat 3: D4YSG0N3 ($3.09 in chips) 
+Seat 4: PCMaran ($5.84 in chips) 
+Seat 5: alexandr1178 ($1.73 in chips) 
+Seat 6: LiamXii ($5.85 in chips) 
+Seat 7: gmitoi ($10.12 in chips) 
+Seat 8: cr@sh test ($5.02 in chips) 
+Seat 9: rodsferraz ($3.97 in chips) 
+cr@sh test: posts small blind $0.02
+rodsferraz: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Ts]
+Dorex2007: folds 
+kimikiwi87: folds 
+D4YSG0N3: folds 
+PCMaran: folds 
+alexandr1178: folds 
+LiamXii: folds 
+gmitoi: folds 
+cr@sh test: raises $0.10 to $0.15
+rodsferraz: calls $0.10
+*** FLOP *** [Jh 8c Td]
+cr@sh test: bets $0.17
+rodsferraz: calls $0.17
+*** TURN *** [Jh 8c Td] [Qs]
+cr@sh test: bets $0.37
+rodsferraz: folds 
+Uncalled bet ($0.37) returned to cr@sh test
+cr@sh test collected $0.61 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.03 
+Board [Jh 8c Td Qs]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: kimikiwi87 folded before Flop (didn't bet)
+Seat 3: D4YSG0N3 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 folded before Flop (didn't bet)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi (button) folded before Flop (didn't bet)
+Seat 8: cr@sh test (small blind) collected ($0.61)
+Seat 9: rodsferraz (big blind) folded on the Turn
+
+
+
+PokerStars Hand #237483459306:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:41:50 PT [2022/07/20 19:41:50 ET]
+Table 'Elnath' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($9.77 in chips) 
+Seat 2: kimikiwi87 ($4.97 in chips) 
+Seat 3: D4YSG0N3 ($3.09 in chips) 
+Seat 4: PCMaran ($5.84 in chips) 
+Seat 5: alexandr1178 ($1.73 in chips) 
+Seat 6: LiamXii ($5.85 in chips) 
+Seat 7: gmitoi ($10.12 in chips) 
+Seat 8: cr@sh test ($5.31 in chips) 
+Seat 9: rodsferraz ($3.65 in chips) 
+rodsferraz: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 2d]
+kimikiwi87: folds 
+D4YSG0N3: folds 
+PCMaran: folds 
+alexandr1178: folds 
+LiamXii: folds 
+gmitoi: folds 
+cr@sh test: folds 
+cr@sh test leaves the table
+rodsferraz: calls $0.03
+Dorex2007: checks 
+*** FLOP *** [Td 5s Jh]
+rodsferraz: checks 
+Dorex2007: checks 
+*** TURN *** [Td 5s Jh] [Ks]
+sts1981 joins the table at seat #8 
+rodsferraz: bets $0.05
+Dorex2007: calls $0.05
+*** RIVER *** [Td 5s Jh Ks] [Ac]
+rodsferraz: bets $0.19
+Dorex2007: calls $0.19
+*** SHOW DOWN ***
+rodsferraz: shows [8h Qc] (a straight, Ten to Ace)
+Dorex2007: shows [Qh 2d] (a straight, Ten to Ace)
+rodsferraz collected $0.28 from pot
+Dorex2007 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [Td 5s Jh Ks Ac]
+Seat 1: Dorex2007 (big blind) showed [Qh 2d] and won ($0.28) with a straight, Ten to Ace
+Seat 2: kimikiwi87 folded before Flop (didn't bet)
+Seat 3: D4YSG0N3 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 folded before Flop (didn't bet)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: cr@sh test (button) folded before Flop (didn't bet)
+Seat 9: rodsferraz (small blind) showed [8h Qc] and won ($0.28) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #237483469833:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:42:32 PT [2022/07/20 19:42:32 ET]
+Table 'Elnath' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($9.76 in chips) 
+Seat 2: kimikiwi87 ($4.97 in chips) 
+Seat 3: D4YSG0N3 ($3.09 in chips) 
+Seat 4: PCMaran ($5.84 in chips) 
+Seat 5: alexandr1178 ($1.73 in chips) 
+Seat 6: LiamXii ($5.85 in chips) 
+Seat 7: gmitoi ($10.12 in chips) 
+Seat 9: rodsferraz ($3.64 in chips) 
+Dorex2007: posts small blind $0.02
+kimikiwi87: posts big blind $0.05
+sts1981: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Jd]
+D4YSG0N3: raises $0.05 to $0.10
+PCMaran: folds 
+alexandr1178: folds 
+LiamXii: folds 
+gmitoi: folds 
+rodsferraz: folds 
+Dorex2007: folds 
+kimikiwi87: folds 
+Uncalled bet ($0.05) returned to D4YSG0N3
+D4YSG0N3 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: kimikiwi87 (big blind) folded before Flop
+Seat 3: D4YSG0N3 collected ($0.12)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 folded before Flop (didn't bet)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 9: rodsferraz (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483477186:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:43:01 PT [2022/07/20 19:43:01 ET]
+Table 'Elnath' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($9.74 in chips) 
+Seat 2: kimikiwi87 ($4.92 in chips) 
+Seat 3: D4YSG0N3 ($3.16 in chips) 
+Seat 4: PCMaran ($5.84 in chips) 
+Seat 5: alexandr1178 ($1.73 in chips) 
+Seat 6: LiamXii ($5.85 in chips) 
+Seat 7: gmitoi ($10.12 in chips) 
+Seat 9: rodsferraz ($3.64 in chips) 
+kimikiwi87: posts small blind $0.02
+D4YSG0N3: posts big blind $0.05
+sts1981: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Ts]
+PCMaran: folds 
+alexandr1178: raises $0.05 to $0.10
+LiamXii: folds 
+gmitoi: folds 
+rodsferraz: folds 
+Dorex2007: calls $0.10
+kimikiwi87: folds 
+D4YSG0N3: folds 
+*** FLOP *** [6h 2h Qd]
+alexandr1178: bets $0.13
+Dorex2007: folds 
+Uncalled bet ($0.13) returned to alexandr1178
+alexandr1178 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [6h 2h Qd]
+Seat 1: Dorex2007 (button) folded on the Flop
+Seat 2: kimikiwi87 (small blind) folded before Flop
+Seat 3: D4YSG0N3 (big blind) folded before Flop
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 collected ($0.26)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 9: rodsferraz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483483871:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:43:27 PT [2022/07/20 19:43:27 ET]
+Table 'Elnath' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($9.64 in chips) 
+Seat 2: kimikiwi87 ($4.90 in chips) 
+Seat 3: D4YSG0N3 ($3.11 in chips) 
+Seat 4: PCMaran ($5.84 in chips) 
+Seat 5: alexandr1178 ($1.89 in chips) 
+Seat 6: LiamXii ($5.85 in chips) 
+Seat 7: gmitoi ($10.12 in chips) 
+Seat 9: rodsferraz ($3.64 in chips) 
+D4YSG0N3: posts small blind $0.02
+PCMaran: posts big blind $0.05
+sts1981: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Qs]
+alexandr1178: raises $0.09 to $0.14
+LiamXii: folds 
+gmitoi: folds 
+rodsferraz: calls $0.14
+Dorex2007: folds 
+kimikiwi87: folds 
+D4YSG0N3: folds 
+PCMaran: folds 
+*** FLOP *** [Jd Ac Th]
+alexandr1178: bets $0.17
+rodsferraz: folds 
+Uncalled bet ($0.17) returned to alexandr1178
+alexandr1178 collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [Jd Ac Th]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: kimikiwi87 (button) folded before Flop (didn't bet)
+Seat 3: D4YSG0N3 (small blind) folded before Flop
+Seat 4: PCMaran (big blind) folded before Flop
+Seat 5: alexandr1178 collected ($0.34)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 9: rodsferraz folded on the Flop
+
+
+
+PokerStars Hand #237483495224:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:44:12 PT [2022/07/20 19:44:12 ET]
+Table 'Elnath' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($9.64 in chips) 
+Seat 2: kimikiwi87 ($4.90 in chips) 
+Seat 3: D4YSG0N3 ($3.09 in chips) 
+Seat 4: PCMaran ($5.79 in chips) 
+Seat 5: alexandr1178 ($2.09 in chips) 
+Seat 6: LiamXii ($5.85 in chips) 
+Seat 7: gmitoi ($10.12 in chips) 
+Seat 9: rodsferraz ($3.50 in chips) 
+PCMaran: posts small blind $0.02
+alexandr1178: posts big blind $0.05
+sts1981: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Jc]
+LiamXii: folds 
+gmitoi: folds 
+rodsferraz: folds 
+Dorex2007 has timed out
+Dorex2007: folds 
+kimikiwi87: folds 
+D4YSG0N3: folds 
+PCMaran: raises $0.05 to $0.10
+alexandr1178: calls $0.05
+*** FLOP *** [3h Qc 6s]
+PCMaran: checks 
+alexandr1178: bets $0.08
+PCMaran: calls $0.08
+*** TURN *** [3h Qc 6s] [Jd]
+PCMaran: checks 
+alexandr1178: checks 
+*** RIVER *** [3h Qc 6s Jd] [5h]
+PCMaran: checks 
+alexandr1178: checks 
+*** SHOW DOWN ***
+PCMaran: shows [4h 4d] (a pair of Fours)
+alexandr1178: shows [6d Tc] (a pair of Sixes)
+alexandr1178 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [3h Qc 6s Jd 5h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: kimikiwi87 folded before Flop (didn't bet)
+Seat 3: D4YSG0N3 (button) folded before Flop (didn't bet)
+Seat 4: PCMaran (small blind) showed [4h 4d] and lost with a pair of Fours
+Seat 5: alexandr1178 (big blind) showed [6d Tc] and won ($0.35) with a pair of Sixes
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 9: rodsferraz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483514580:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:45:16 PT [2022/07/20 19:45:16 ET]
+Table 'Elnath' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($9.64 in chips) 
+Seat 2: kimikiwi87 ($4.90 in chips) 
+Seat 3: D4YSG0N3 ($3.09 in chips) 
+Seat 4: PCMaran ($5.61 in chips) 
+Seat 5: alexandr1178 ($2.26 in chips) 
+Seat 6: LiamXii ($5.85 in chips) 
+Seat 7: gmitoi ($10.12 in chips) 
+Seat 9: rodsferraz ($3.50 in chips) 
+alexandr1178: posts small blind $0.02
+LiamXii: posts big blind $0.05
+sts1981: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 9s]
+gmitoi: folds 
+rodsferraz: folds 
+Dorex2007: folds 
+kimikiwi87 has timed out
+kimikiwi87: folds 
+D4YSG0N3: folds 
+PCMaran: folds 
+alexandr1178: raises $0.07 to $0.12
+LiamXii: calls $0.07
+*** FLOP *** [7h 6h Jd]
+alexandr1178: bets $0.12
+LiamXii: raises $0.28 to $0.40
+alexandr1178: raises $0.52 to $0.92
+LiamXii: raises $1.08 to $2
+alexandr1178: raises $0.14 to $2.14 and is all-in
+LiamXii: calls $0.14
+*** TURN *** [7h 6h Jd] [2s]
+*** RIVER *** [7h 6h Jd 2s] [7d]
+*** SHOW DOWN ***
+alexandr1178: shows [7c Jc] (a full house, Sevens full of Jacks)
+LiamXii: shows [6d 6s] (a full house, Sixes full of Sevens)
+alexandr1178 collected $4.33 from pot
+*** SUMMARY ***
+Total pot $4.52 | Rake $0.19 
+Board [7h 6h Jd 2s 7d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: kimikiwi87 folded before Flop (didn't bet)
+Seat 3: D4YSG0N3 folded before Flop (didn't bet)
+Seat 4: PCMaran (button) folded before Flop (didn't bet)
+Seat 5: alexandr1178 (small blind) showed [7c Jc] and won ($4.33) with a full house, Sevens full of Jacks
+Seat 6: LiamXii (big blind) showed [6d 6s] and lost with a full house, Sixes full of Sevens
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 9: rodsferraz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483538782:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:46:51 PT [2022/07/20 19:46:51 ET]
+Table 'Elnath' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($9.64 in chips) 
+Seat 2: kimikiwi87 ($4.90 in chips) 
+Seat 3: D4YSG0N3 ($3.09 in chips) 
+Seat 4: PCMaran ($5.61 in chips) 
+Seat 5: alexandr1178 ($4.33 in chips) 
+Seat 6: LiamXii ($5 in chips) 
+Seat 7: gmitoi ($10.12 in chips) 
+Seat 9: rodsferraz ($3.50 in chips) 
+LiamXii: posts small blind $0.02
+gmitoi: posts big blind $0.05
+sts1981: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Ts]
+rodsferraz has timed out
+rodsferraz: folds 
+Dorex2007: folds 
+kimikiwi87: folds 
+D4YSG0N3: raises $0.05 to $0.10
+PCMaran: folds 
+alexandr1178: folds 
+LiamXii: calls $0.08
+gmitoi: calls $0.05
+*** FLOP *** [Jh 6c Ah]
+LiamXii: bets $0.16
+gmitoi: folds 
+D4YSG0N3: calls $0.16
+*** TURN *** [Jh 6c Ah] [8h]
+LiamXii: bets $0.46
+D4YSG0N3: calls $0.46
+*** RIVER *** [Jh 6c Ah 8h] [3d]
+LiamXii: bets $1.15
+D4YSG0N3: calls $1.15
+*** SHOW DOWN ***
+LiamXii: shows [6h 6d] (three of a kind, Sixes)
+D4YSG0N3: mucks hand 
+LiamXii collected $3.68 from pot
+*** SUMMARY ***
+Total pot $3.84 | Rake $0.16 
+Board [Jh 6c Ah 8h 3d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: kimikiwi87 folded before Flop (didn't bet)
+Seat 3: D4YSG0N3 mucked [Tc As]
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 (button) folded before Flop (didn't bet)
+Seat 6: LiamXii (small blind) showed [6h 6d] and won ($3.68) with three of a kind, Sixes
+Seat 7: gmitoi (big blind) folded on the Flop
+Seat 9: rodsferraz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483566341:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:48:40 PT [2022/07/20 19:48:40 ET]
+Table 'Elnath' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($9.64 in chips) 
+Seat 2: kimikiwi87 ($4.90 in chips) 
+Seat 3: D4YSG0N3 ($1.22 in chips) 
+Seat 4: PCMaran ($5.61 in chips) 
+Seat 5: alexandr1178 ($4.33 in chips) 
+Seat 6: LiamXii ($6.81 in chips) 
+Seat 7: gmitoi ($10.02 in chips) 
+Seat 8: sts1981 ($5 in chips) 
+Seat 9: rodsferraz ($3.50 in chips) 
+gmitoi: posts small blind $0.02
+sts1981: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 9d]
+rodsferraz: calls $0.05
+Dorex2007: folds 
+kimikiwi87: folds 
+D4YSG0N3: folds 
+PCMaran: folds 
+alexandr1178: folds 
+LiamXii: folds 
+gmitoi: folds 
+sts1981: checks 
+*** FLOP *** [Qs Th Td]
+sts1981: checks 
+rodsferraz: bets $0.06
+sts1981: folds 
+Uncalled bet ($0.06) returned to rodsferraz
+rodsferraz collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Qs Th Td]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: kimikiwi87 folded before Flop (didn't bet)
+Seat 3: D4YSG0N3 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 folded before Flop (didn't bet)
+Seat 6: LiamXii (button) folded before Flop (didn't bet)
+Seat 7: gmitoi (small blind) folded before Flop
+Seat 8: sts1981 (big blind) folded on the Flop
+Seat 9: rodsferraz collected ($0.12)
+
+
+
+PokerStars Hand #237483578374:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:49:25 PT [2022/07/20 19:49:25 ET]
+Table 'Elnath' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($9.64 in chips) 
+Seat 2: kimikiwi87 ($4.90 in chips) 
+Seat 3: D4YSG0N3 ($1.22 in chips) 
+Seat 4: PCMaran ($5.61 in chips) 
+Seat 5: alexandr1178 ($4.33 in chips) 
+Seat 6: LiamXii ($6.81 in chips) 
+Seat 7: gmitoi ($10 in chips) 
+Seat 8: sts1981 ($4.95 in chips) 
+Seat 9: rodsferraz ($3.57 in chips) 
+sts1981: posts small blind $0.02
+rodsferraz: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 7c]
+Dorex2007: folds 
+kimikiwi87: folds 
+D4YSG0N3: folds 
+PCMaran: folds 
+alexandr1178: folds 
+LiamXii: folds 
+gmitoi: raises $0.07 to $0.12
+sts1981: folds 
+rodsferraz: calls $0.07
+*** FLOP *** [Kd Qd Kc]
+rodsferraz: checks 
+gmitoi: checks 
+*** TURN *** [Kd Qd Kc] [4d]
+rodsferraz: bets $0.12
+gmitoi: calls $0.12
+*** RIVER *** [Kd Qd Kc 4d] [As]
+rodsferraz: checks 
+gmitoi: checks 
+*** SHOW DOWN ***
+rodsferraz: shows [8c Th] (a pair of Kings)
+gmitoi: shows [5d 5c] (two pair, Kings and Fives)
+gmitoi collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Kd Qd Kc 4d As]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: kimikiwi87 folded before Flop (didn't bet)
+Seat 3: D4YSG0N3 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 folded before Flop (didn't bet)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi (button) showed [5d 5c] and won ($0.48) with two pair, Kings and Fives
+Seat 8: sts1981 (small blind) folded before Flop
+Seat 9: rodsferraz (big blind) showed [8c Th] and lost with a pair of Kings
+
+
+
+PokerStars Hand #237483591418:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:50:19 PT [2022/07/20 19:50:19 ET]
+Table 'Elnath' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($9.64 in chips) 
+Seat 2: kimikiwi87 ($4.90 in chips) 
+Seat 3: D4YSG0N3 ($1.22 in chips) 
+Seat 4: PCMaran ($5.61 in chips) 
+Seat 5: alexandr1178 ($4.33 in chips) 
+Seat 6: LiamXii ($6.81 in chips) 
+Seat 7: gmitoi ($10.24 in chips) 
+Seat 8: sts1981 ($4.93 in chips) 
+Seat 9: rodsferraz ($3.33 in chips) 
+rodsferraz: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 2c]
+kimikiwi87: folds 
+kimikiwi87 leaves the table
+D4YSG0N3: folds 
+PCMaran: raises $0.05 to $0.10
+alexandr1178: calls $0.10
+LiamXii: calls $0.10
+gmitoi: calls $0.10
+sts1981: raises $0.70 to $0.80
+rodsferraz: folds 
+Dorex2007: folds 
+PCMaran: folds 
+alexandr1178: folds 
+LiamXii: folds 
+gmitoi: folds 
+Uncalled bet ($0.70) returned to sts1981
+sts1981 collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0 
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: kimikiwi87 folded before Flop (didn't bet)
+Seat 3: D4YSG0N3 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop
+Seat 5: alexandr1178 folded before Flop
+Seat 6: LiamXii folded before Flop
+Seat 7: gmitoi folded before Flop
+Seat 8: sts1981 (button) collected ($0.57)
+Seat 9: rodsferraz (small blind) folded before Flop
+
+
+
+PokerStars Hand #237483613892:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:51:14 PT [2022/07/20 19:51:14 ET]
+Table 'Elnath' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($9.59 in chips) 
+Seat 3: D4YSG0N3 ($1.22 in chips) 
+Seat 4: PCMaran ($5.51 in chips) 
+Seat 5: alexandr1178 ($4.23 in chips) 
+Seat 6: LiamXii ($6.71 in chips) 
+Seat 7: gmitoi ($10.14 in chips) 
+Seat 8: sts1981 ($5.40 in chips) 
+Seat 9: rodsferraz ($3.31 in chips) 
+Dorex2007: posts small blind $0.02
+D4YSG0N3: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Kd]
+PCMaran: folds 
+alexandr1178: folds 
+LiamXii: folds 
+gmitoi: folds 
+sts1981: folds 
+rodsferraz: calls $0.05
+Dorex2007: folds 
+D4YSG0N3: raises $0.10 to $0.15
+rodsferraz: calls $0.10
+*** FLOP *** [4h Js Th]
+D4YSG0N3: bets $0.05
+rodsferraz: raises $0.15 to $0.20
+D4YSG0N3: folds 
+Uncalled bet ($0.15) returned to rodsferraz
+rodsferraz collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.02 
+Board [4h Js Th]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 3: D4YSG0N3 (big blind) folded on the Flop
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 folded before Flop (didn't bet)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: sts1981 folded before Flop (didn't bet)
+Seat 9: rodsferraz (button) collected ($0.40)
+
+
+
+PokerStars Hand #237483623637:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:51:54 PT [2022/07/20 19:51:54 ET]
+Table 'Elnath' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($9.57 in chips) 
+Seat 3: D4YSG0N3 ($1.02 in chips) 
+Seat 4: PCMaran ($5.51 in chips) 
+Seat 5: alexandr1178 ($4.23 in chips) 
+Seat 6: LiamXii ($6.71 in chips) 
+Seat 7: gmitoi ($10.14 in chips) 
+Seat 8: sts1981 ($5.40 in chips) 
+Seat 9: rodsferraz ($3.51 in chips) 
+D4YSG0N3: posts small blind $0.02
+PCMaran: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 3h]
+alexandr1178: folds 
+LiamXii: raises $0.11 to $0.16
+gmitoi: folds 
+sts1981: folds 
+rodsferraz: folds 
+Dorex2007: folds 
+D4YSG0N3: raises $0.86 to $1.02 and is all-in
+PCMaran: folds 
+LiamXii: folds 
+Uncalled bet ($0.86) returned to D4YSG0N3
+D4YSG0N3 collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: D4YSG0N3 (small blind) collected ($0.37)
+Seat 4: PCMaran (big blind) folded before Flop
+Seat 5: alexandr1178 folded before Flop (didn't bet)
+Seat 6: LiamXii folded before Flop
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: sts1981 folded before Flop (didn't bet)
+Seat 9: rodsferraz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483631862:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:52:28 PT [2022/07/20 19:52:28 ET]
+Table 'Elnath' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($9.57 in chips) 
+Seat 3: D4YSG0N3 ($1.23 in chips) 
+Seat 4: PCMaran ($5.46 in chips) 
+Seat 5: alexandr1178 ($4.23 in chips) 
+Seat 6: LiamXii ($6.55 in chips) 
+Seat 7: gmitoi ($10.14 in chips) 
+Seat 8: sts1981 ($5.40 in chips) 
+Seat 9: rodsferraz ($3.51 in chips) 
+PCMaran: posts small blind $0.02
+alexandr1178: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Tc]
+LiamXii: folds 
+gmitoi: folds 
+sts1981: folds 
+rodsferraz: raises $0.05 to $0.10
+Dorex2007: folds 
+D4YSG0N3: folds 
+PCMaran: folds 
+alexandr1178: folds 
+Uncalled bet ($0.05) returned to rodsferraz
+rodsferraz collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: D4YSG0N3 (button) folded before Flop (didn't bet)
+Seat 4: PCMaran (small blind) folded before Flop
+Seat 5: alexandr1178 (big blind) folded before Flop
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: sts1981 folded before Flop (didn't bet)
+Seat 9: rodsferraz collected ($0.12)
+
+
+
+PokerStars Hand #237483636310:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:52:46 PT [2022/07/20 19:52:46 ET]
+Table 'Elnath' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($9.57 in chips) 
+Seat 3: D4YSG0N3 ($1.23 in chips) 
+Seat 4: PCMaran ($5.44 in chips) 
+Seat 5: alexandr1178 ($4.18 in chips) 
+Seat 6: LiamXii ($6.55 in chips) 
+Seat 7: gmitoi ($10.14 in chips) 
+Seat 8: sts1981 ($5.40 in chips) 
+Seat 9: rodsferraz ($3.58 in chips) 
+alexandr1178: posts small blind $0.02
+LiamXii: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 9c]
+gmitoi: folds 
+sts1981: folds 
+rodsferraz: folds 
+Dorex2007: folds 
+D4YSG0N3: calls $0.05
+PCMaran: folds 
+alexandr1178: calls $0.03
+LiamXii: checks 
+*** FLOP *** [5h Ts Qc]
+alexandr1178: bets $0.07
+LiamXii: folds 
+D4YSG0N3: folds 
+Uncalled bet ($0.07) returned to alexandr1178
+alexandr1178 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5h Ts Qc]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: D4YSG0N3 folded on the Flop
+Seat 4: PCMaran (button) folded before Flop (didn't bet)
+Seat 5: alexandr1178 (small blind) collected ($0.14)
+Seat 6: LiamXii (big blind) folded on the Flop
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 8: sts1981 folded before Flop (didn't bet)
+Seat 9: rodsferraz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483643457:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:53:15 PT [2022/07/20 19:53:15 ET]
+Table 'Elnath' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($9.57 in chips) 
+Seat 3: D4YSG0N3 ($1.18 in chips) 
+Seat 4: PCMaran ($5.44 in chips) 
+Seat 5: alexandr1178 ($4.27 in chips) 
+Seat 6: LiamXii ($6.50 in chips) 
+Seat 7: gmitoi ($10.14 in chips) 
+Seat 8: sts1981 ($5.40 in chips) 
+Seat 9: rodsferraz ($3.58 in chips) 
+LiamXii: posts small blind $0.02
+gmitoi: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 7d]
+sts1981: raises $0.07 to $0.12
+rodsferraz: folds 
+Dorex2007: folds 
+D4YSG0N3: raises $0.08 to $0.20
+PCMaran: folds 
+alexandr1178: folds 
+LiamXii: folds 
+gmitoi: folds 
+sts1981: calls $0.08
+*** FLOP *** [Jc 8s Th]
+sts1981: checks 
+D4YSG0N3: bets $0.20
+sts1981: raises $5 to $5.20 and is all-in
+D4YSG0N3: calls $0.78 and is all-in
+Uncalled bet ($4.22) returned to sts1981
+*** TURN *** [Jc 8s Th] [Jh]
+*** RIVER *** [Jc 8s Th Jh] [Qs]
+*** SHOW DOWN ***
+sts1981: shows [Ks Qh] (two pair, Queens and Jacks)
+D4YSG0N3: shows [7h Ah] (a pair of Jacks)
+sts1981 collected $2.33 from pot
+*** SUMMARY ***
+Total pot $2.43 | Rake $0.10 
+Board [Jc 8s Th Jh Qs]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: D4YSG0N3 showed [7h Ah] and lost with a pair of Jacks
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 (button) folded before Flop (didn't bet)
+Seat 6: LiamXii (small blind) folded before Flop
+Seat 7: gmitoi (big blind) folded before Flop
+Seat 8: sts1981 showed [Ks Qh] and won ($2.33) with two pair, Queens and Jacks
+Seat 9: rodsferraz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483654364:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:54:00 PT [2022/07/20 19:54:00 ET]
+Table 'Elnath' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($9.57 in chips) 
+Seat 4: PCMaran ($5.44 in chips) 
+Seat 5: alexandr1178 ($4.27 in chips) 
+Seat 6: LiamXii ($6.48 in chips) 
+Seat 7: gmitoi ($10.09 in chips) 
+Seat 8: sts1981 ($6.55 in chips) 
+Seat 9: rodsferraz ($3.58 in chips) 
+gmitoi: posts small blind $0.02
+sts1981: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 4d]
+rodsferraz: folds 
+Dorex2007: folds 
+PCMaran: folds 
+alexandr1178: folds 
+LiamXii: raises $0.11 to $0.16
+gmitoi: folds 
+sts1981: calls $0.11
+*** FLOP *** [2h 5d 5h]
+sts1981: checks 
+LiamXii: bets $0.18
+sts1981: calls $0.18
+*** TURN *** [2h 5d 5h] [8c]
+sts1981: checks 
+LiamXii: bets $0.52
+sts1981: folds 
+Uncalled bet ($0.52) returned to LiamXii
+LiamXii collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [2h 5d 5h 8c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 folded before Flop (didn't bet)
+Seat 6: LiamXii (button) collected ($0.67)
+Seat 7: gmitoi (small blind) folded before Flop
+Seat 8: sts1981 (big blind) folded on the Turn
+Seat 9: rodsferraz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237483664974:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:54:43 PT [2022/07/20 19:54:43 ET]
+Table 'Elnath' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($9.57 in chips) 
+Seat 4: PCMaran ($5.44 in chips) 
+Seat 5: alexandr1178 ($4.27 in chips) 
+Seat 6: LiamXii ($6.81 in chips) 
+Seat 7: gmitoi ($10.07 in chips) 
+Seat 8: sts1981 ($6.21 in chips) 
+Seat 9: rodsferraz ($3.58 in chips) 
+sts1981: posts small blind $0.02
+rodsferraz: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Js]
+Dorex2007: folds 
+PCMaran: folds 
+D4YSG0N3 leaves the table
+alexandr1178: raises $0.10 to $0.15
+LiamXii: calls $0.15
+gmitoi: calls $0.15
+sts1981: folds 
+rodsferraz: folds 
+*** FLOP *** [Ad 4c 3h]
+alexandr1178: bets $0.18
+LiamXii: folds 
+gmitoi: calls $0.18
+*** TURN *** [Ad 4c 3h] [5h]
+sts1981 leaves the table
+alexandr1178: bets $0.42
+gmitoi: folds 
+Uncalled bet ($0.42) returned to alexandr1178
+alexandr1178 collected $0.84 from pot
+*** SUMMARY ***
+Total pot $0.88 | Rake $0.04 
+Board [Ad 4c 3h 5h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 4: PCMaran folded before Flop (didn't bet)
+Seat 5: alexandr1178 collected ($0.84)
+Seat 6: LiamXii folded on the Flop
+Seat 7: gmitoi (button) folded on the Turn
+Seat 8: sts1981 (small blind) folded before Flop
+Seat 9: rodsferraz (big blind) folded before Flop
+
+
+
+PokerStars Hand #237483677198:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/20 16:55:39 PT [2022/07/20 19:55:39 ET]
+Table 'Elnath' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($9.57 in chips) 
+Seat 4: PCMaran ($5.44 in chips) 
+Seat 5: alexandr1178 ($4.78 in chips) 
+Seat 6: LiamXii ($6.66 in chips) 
+Seat 7: gmitoi ($9.74 in chips) 
+Seat 9: rodsferraz ($3.53 in chips) 
+Dorex2007: posts small blind $0.02
+PCMaran: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Th]
+alexandr1178: folds 
+LiamXii: folds 
+gmitoi: folds 
+rodsferraz: folds 
+Dorex2007: folds 
+Uncalled bet ($0.03) returned to PCMaran
+PCMaran collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 4: PCMaran (big blind) collected ($0.04)
+Seat 5: alexandr1178 folded before Flop (didn't bet)
+Seat 6: LiamXii folded before Flop (didn't bet)
+Seat 7: gmitoi folded before Flop (didn't bet)
+Seat 9: rodsferraz (button) folded before Flop (didn't bet)
+
+
+
