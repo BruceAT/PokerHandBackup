@@ -1,0 +1,4604 @@
+﻿PokerStars Hand #234429115963:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:24:03 PT [2022/02/27 13:24:03 ET]
+Table 'Hyperion II' 9-max Seat #4 is the button
+Seat 1: campi64 ($1.05 in chips) 
+Seat 2: 6666-7 ($2 in chips) 
+Seat 3: Elpharae ($2.33 in chips) 
+Seat 4: nagaElf ($2.15 in chips) 
+Seat 6: franpalermo14 ($2.71 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: DRYOCOPUS ($2.06 in chips) 
+franpalermo14: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+bch_12345: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 5h]
+DRYOCOPUS: folds 
+campi64: raises $0.05 to $0.07
+6666-7: folds 
+Elpharae: calls $0.07
+nagaElf: calls $0.07
+franpalermo14: folds 
+Dorex2007: folds 
+*** FLOP *** [7c 2h Ah]
+campi64: checks 
+Elpharae: checks 
+nagaElf: bets $0.14
+campi64: folds 
+Elpharae: folds 
+Uncalled bet ($0.14) returned to nagaElf
+nagaElf collected $0.23 from pot
+nagaElf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [7c 2h Ah]
+Seat 1: campi64 folded on the Flop
+Seat 2: 6666-7 folded before Flop (didn't bet)
+Seat 3: Elpharae folded on the Flop
+Seat 4: nagaElf (button) collected ($0.23)
+Seat 6: franpalermo14 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: DRYOCOPUS folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234429148850:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:25:03 PT [2022/02/27 13:25:03 ET]
+Table 'Hyperion II' 9-max Seat #6 is the button
+Seat 1: campi64 ($0.98 in chips) 
+Seat 2: 6666-7 ($2 in chips) 
+Seat 3: Elpharae ($2.26 in chips) 
+Seat 4: nagaElf ($2.31 in chips) 
+Seat 6: franpalermo14 ($2.70 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 9: bch_12345 ($2 in chips) 
+Dorex2007: posts small blind $0.01
+DRYOCOPUS: is sitting out 
+bch_12345: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 8d]
+campi64: folds 
+6666-7: calls $0.02
+Elpharae: folds 
+nagaElf: raises $0.16 to $0.18
+franpalermo14: folds 
+Dorex2007: folds 
+bch_12345: folds 
+6666-7: folds 
+Uncalled bet ($0.16) returned to nagaElf
+nagaElf collected $0.07 from pot
+nagaElf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: campi64 folded before Flop (didn't bet)
+Seat 2: 6666-7 folded before Flop
+Seat 3: Elpharae folded before Flop (didn't bet)
+Seat 4: nagaElf collected ($0.07)
+Seat 6: franpalermo14 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 9: bch_12345 (big blind) folded before Flop
+
+
+
+PokerStars Hand #234429160832:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:25:24 PT [2022/02/27 13:25:24 ET]
+Table 'Hyperion II' 9-max Seat #7 is the button
+Seat 1: campi64 ($0.98 in chips) 
+Seat 2: 6666-7 ($1.98 in chips) 
+Seat 3: Elpharae ($2.26 in chips) 
+Seat 4: nagaElf ($2.36 in chips) 
+Seat 6: franpalermo14 ($2.70 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 9: bch_12345 ($1.98 in chips) 
+bch_12345: posts small blind $0.01
+campi64: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 9d]
+6666-7: calls $0.02
+Elpharae: folds 
+nagaElf: folds 
+franpalermo14: folds 
+Dorex2007: folds 
+bch_12345: raises $0.08 to $0.10
+campi64: folds 
+6666-7: calls $0.08
+*** FLOP *** [4c Tc Qd]
+DRYOCOPUS leaves the table
+bch_12345: bets $0.14
+6666-7: calls $0.14
+*** TURN *** [4c Tc Qd] [3s]
+bch_12345: bets $0.42
+dlolo30 joins the table at seat #8 
+6666-7: calls $0.42
+*** RIVER *** [4c Tc Qd 3s] [4s]
+bch_12345: bets $1.32 and is all-in
+6666-7: calls $1.32 and is all-in
+*** SHOW DOWN ***
+bch_12345: shows [As Ad] (two pair, Aces and Fours)
+6666-7: shows [Qc Kc] (two pair, Queens and Fours)
+bch_12345 collected $3.84 from pot
+*** SUMMARY ***
+Total pot $3.98 | Rake $0.14 
+Board [4c Tc Qd 3s 4s]
+Seat 1: campi64 (big blind) folded before Flop
+Seat 2: 6666-7 showed [Qc Kc] and lost with two pair, Queens and Fours
+Seat 3: Elpharae folded before Flop (didn't bet)
+Seat 4: nagaElf folded before Flop (didn't bet)
+Seat 6: franpalermo14 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: bch_12345 (small blind) showed [As Ad] and won ($3.84) with two pair, Aces and Fours
+
+
+
+PokerStars Hand #234429183326:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:26:04 PT [2022/02/27 13:26:04 ET]
+Table 'Hyperion II' 9-max Seat #9 is the button
+Seat 1: campi64 ($0.96 in chips) 
+Seat 3: Elpharae ($2.26 in chips) 
+Seat 4: nagaElf ($2.36 in chips) 
+Seat 6: franpalermo14 ($2.70 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 9: bch_12345 ($3.84 in chips) 
+campi64: posts small blind $0.01
+Elpharae: posts big blind $0.02
+dlolo30: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 7h]
+nagaElf: raises $0.14 to $0.16
+franpalermo14: folds 
+Dorex2007: folds 
+bch_12345: folds 
+campi64: folds 
+Elpharae: folds 
+Uncalled bet ($0.14) returned to nagaElf
+nagaElf collected $0.05 from pot
+nagaElf: doesn't show hand 
+strannik577 is disconnected 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: campi64 (small blind) folded before Flop
+Seat 3: Elpharae (big blind) folded before Flop
+Seat 4: nagaElf collected ($0.05)
+Seat 6: franpalermo14 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: bch_12345 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234429198902:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:26:32 PT [2022/02/27 13:26:32 ET]
+Table 'Hyperion II' 9-max Seat #1 is the button
+Seat 1: campi64 ($0.95 in chips) 
+Seat 3: Elpharae ($2.24 in chips) 
+Seat 4: nagaElf ($2.39 in chips) 
+Seat 6: franpalermo14 ($2.70 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 9: bch_12345 ($3.84 in chips) 
+Elpharae: posts small blind $0.01
+nagaElf: posts big blind $0.02
+dlolo30: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 3c]
+franpalermo14: folds 
+Dorex2007: folds 
+bch_12345: raises $0.04 to $0.06
+campi64: folds 
+Elpharae: folds 
+nagaElf: folds 
+Uncalled bet ($0.04) returned to bch_12345
+bch_12345 collected $0.05 from pot
+bch_12345: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: campi64 (button) folded before Flop (didn't bet)
+Seat 3: Elpharae (small blind) folded before Flop
+Seat 4: nagaElf (big blind) folded before Flop
+Seat 6: franpalermo14 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: bch_12345 collected ($0.05)
+
+
+
+PokerStars Hand #234429209643:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:26:51 PT [2022/02/27 13:26:51 ET]
+Table 'Hyperion II' 9-max Seat #3 is the button
+Seat 1: campi64 ($0.95 in chips) 
+Seat 2: 6666-7 ($2 in chips) 
+Seat 3: Elpharae ($2.23 in chips) 
+Seat 4: nagaElf ($2.37 in chips) 
+Seat 6: franpalermo14 ($2.70 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 9: bch_12345 ($3.87 in chips) 
+nagaElf: posts small blind $0.01
+franpalermo14: posts big blind $0.02
+dlolo30: sits out 
+6666-7: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Th]
+Dorex2007: folds 
+bch_12345: folds 
+campi64: folds 
+6666-7: checks 
+Elpharae: folds 
+nagaElf: folds 
+franpalermo14: checks 
+*** FLOP *** [5s Qs 3d]
+franpalermo14: checks 
+6666-7: checks 
+*** TURN *** [5s Qs 3d] [Kd]
+franpalermo14: bets $0.02
+6666-7: calls $0.02
+*** RIVER *** [5s Qs 3d Kd] [Jd]
+franpalermo14: checks 
+6666-7: bets $0.10
+franpalermo14: folds [Kh]
+Uncalled bet ($0.10) returned to 6666-7
+6666-7 collected $0.10 from pot
+strannik577 leaves the table
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [5s Qs 3d Kd Jd]
+Seat 1: campi64 folded before Flop (didn't bet)
+Seat 2: 6666-7 collected ($0.10)
+Seat 3: Elpharae (button) folded before Flop (didn't bet)
+Seat 4: nagaElf (small blind) folded before Flop
+Seat 6: franpalermo14 (big blind) folded on the River
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: bch_12345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234429238017:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:27:41 PT [2022/02/27 13:27:41 ET]
+Table 'Hyperion II' 9-max Seat #4 is the button
+Seat 1: campi64 ($0.95 in chips) 
+Seat 2: 6666-7 ($2.05 in chips) 
+Seat 3: Elpharae ($2.23 in chips) 
+Seat 4: nagaElf ($2.36 in chips) 
+Seat 6: franpalermo14 ($2.66 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 9: bch_12345 ($3.87 in chips) 
+franpalermo14: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+dlolo30: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 3s]
+bch_12345: folds 
+Seb4Flush joins the table at seat #5 
+campi64: folds 
+6666-7: calls $0.02
+Elpharae: folds 
+nagaElf: folds 
+franpalermo14: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [Tc 2c Ad]
+franpalermo14: checks 
+Dorex2007: checks 
+6666-7: checks 
+*** TURN *** [Tc 2c Ad] [9c]
+franpalermo14: checks 
+Dorex2007: checks 
+6666-7: checks 
+*** RIVER *** [Tc 2c Ad 9c] [Qh]
+franpalermo14: checks 
+Dorex2007: checks 
+6666-7: checks 
+*** SHOW DOWN ***
+franpalermo14: shows [Ts Jc] (a pair of Tens)
+Dorex2007: mucks hand 
+6666-7: shows [Jh Td] (a pair of Tens)
+franpalermo14 collected $0.03 from pot
+6666-7 collected $0.03 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Tc 2c Ad 9c Qh]
+Seat 1: campi64 folded before Flop (didn't bet)
+Seat 2: 6666-7 showed [Jh Td] and won ($0.03) with a pair of Tens
+Seat 3: Elpharae folded before Flop (didn't bet)
+Seat 4: nagaElf (button) folded before Flop (didn't bet)
+Seat 6: franpalermo14 (small blind) showed [Ts Jc] and won ($0.03) with a pair of Tens
+Seat 7: Dorex2007 (big blind) mucked [Jd 3s]
+Seat 9: bch_12345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234429266650:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:28:32 PT [2022/02/27 13:28:32 ET]
+Table 'Hyperion II' 9-max Seat #6 is the button
+Seat 1: campi64 ($0.95 in chips) 
+Seat 2: 6666-7 ($2.06 in chips) 
+Seat 3: Elpharae ($2.23 in chips) 
+Seat 4: nagaElf ($2.36 in chips) 
+Seat 6: franpalermo14 ($2.67 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: dlolo30 ($2 in chips) 
+Seat 9: bch_12345 ($3.87 in chips) 
+Dorex2007: posts small blind $0.01
+dlolo30: posts big blind $0.02
+Seb4Flush: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 4s]
+bch_12345: folds 
+campi64: calls $0.02
+6666-7: calls $0.02
+Elpharae: folds 
+nagaElf: raises $0.14 to $0.16
+franpalermo14: folds 
+Dorex2007: folds 
+dlolo30: folds 
+campi64: calls $0.14
+6666-7: folds 
+*** FLOP *** [5s 3s 7c]
+campi64: bets $0.36
+nagaElf: folds 
+Uncalled bet ($0.36) returned to campi64
+campi64 collected $0.36 from pot
+campi64: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [5s 3s 7c]
+Seat 1: campi64 collected ($0.36)
+Seat 2: 6666-7 folded before Flop
+Seat 3: Elpharae folded before Flop (didn't bet)
+Seat 4: nagaElf folded on the Flop
+Seat 6: franpalermo14 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: dlolo30 (big blind) folded before Flop
+Seat 9: bch_12345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234429385380:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:32:01 PT [2022/02/27 13:32:01 ET]
+Table 'Hyperion II' 9-max Seat #5 is the button
+Seat 2: 6666-7 ($1.96 in chips) 
+Seat 3: Elpharae ($2.22 in chips) 
+Seat 4: nagaElf ($2 in chips) 
+Seat 5: Seb4Flush ($1.97 in chips) 
+Seat 6: franpalermo14 ($3.88 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: dlolo30 ($1.98 in chips) 
+Seat 9: bch_12345 ($3.96 in chips) 
+franpalermo14: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Qh]
+dlolo30: folds 
+bch_12345: folds 
+6666-7: calls $0.02
+Elpharae: raises $0.06 to $0.08
+nagaElf: folds 
+Seb4Flush: folds 
+franpalermo14: folds 
+Dorex2007: folds 
+6666-7: folds 
+Uncalled bet ($0.06) returned to Elpharae
+Elpharae collected $0.07 from pot
+Elpharae: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 2: 6666-7 folded before Flop
+Seat 3: Elpharae collected ($0.07)
+Seat 4: nagaElf folded before Flop (didn't bet)
+Seat 5: Seb4Flush (button) folded before Flop (didn't bet)
+Seat 6: franpalermo14 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: dlolo30 folded before Flop (didn't bet)
+Seat 9: bch_12345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234429402278:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:32:31 PT [2022/02/27 13:32:31 ET]
+Table 'Hyperion II' 9-max Seat #6 is the button
+Seat 2: 6666-7 ($1.94 in chips) 
+Seat 3: Elpharae ($2.27 in chips) 
+Seat 4: nagaElf ($2 in chips) 
+Seat 5: Seb4Flush ($1.97 in chips) 
+Seat 6: franpalermo14 ($3.87 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: dlolo30 ($1.98 in chips) 
+Seat 9: bch_12345 ($3.96 in chips) 
+Dorex2007: posts small blind $0.01
+dlolo30: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 7d]
+bch_12345: folds 
+6666-7: folds 
+Elpharae: folds 
+nagaElf: folds 
+Seb4Flush: raises $0.04 to $0.06
+franpalermo14: calls $0.06
+Dorex2007: folds 
+dlolo30: folds 
+*** FLOP *** [Qc 9c Ah]
+Seb4Flush: bets $0.06
+franpalermo14: calls $0.06
+*** TURN *** [Qc 9c Ah] [3s]
+Seb4Flush: checks 
+franpalermo14: checks 
+*** RIVER *** [Qc 9c Ah 3s] [5c]
+Seb4Flush: bets $0.16
+franpalermo14: folds [Tc Ts]
+Uncalled bet ($0.16) returned to Seb4Flush
+Seb4Flush collected $0.26 from pot
+Seb4Flush: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Qc 9c Ah 3s 5c]
+Seat 2: 6666-7 folded before Flop (didn't bet)
+Seat 3: Elpharae folded before Flop (didn't bet)
+Seat 4: nagaElf folded before Flop (didn't bet)
+Seat 5: Seb4Flush collected ($0.26)
+Seat 6: franpalermo14 (button) folded on the River
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: dlolo30 (big blind) folded before Flop
+Seat 9: bch_12345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234429427266:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:33:15 PT [2022/02/27 13:33:15 ET]
+Table 'Hyperion II' 9-max Seat #7 is the button
+Seat 2: 6666-7 ($1.94 in chips) 
+Seat 3: Elpharae ($2.27 in chips) 
+Seat 4: nagaElf ($2 in chips) 
+Seat 5: Seb4Flush ($2.11 in chips) 
+Seat 6: franpalermo14 ($3.75 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: dlolo30 ($1.96 in chips) 
+Seat 9: bch_12345 ($3.96 in chips) 
+dlolo30: posts small blind $0.01
+bch_12345: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s Js]
+6666-7: calls $0.02
+Elpharae: folds 
+nagaElf: folds 
+Seb4Flush: folds 
+franpalermo14: folds 
+Dorex2007: folds 
+dlolo30: folds 
+bch_12345: checks 
+*** FLOP *** [Jd 2h 7c]
+bch_12345: checks 
+6666-7: checks 
+*** TURN *** [Jd 2h 7c] [Jc]
+bch_12345: checks 
+6666-7: checks 
+*** RIVER *** [Jd 2h 7c Jc] [Tc]
+bch_12345: checks 
+6666-7: checks 
+*** SHOW DOWN ***
+bch_12345: shows [7s Kc] (two pair, Jacks and Sevens)
+6666-7: mucks hand 
+bch_12345 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jd 2h 7c Jc Tc]
+Seat 2: 6666-7 mucked [Qs 9s]
+Seat 3: Elpharae folded before Flop (didn't bet)
+Seat 4: nagaElf folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: franpalermo14 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: dlolo30 (small blind) folded before Flop
+Seat 9: bch_12345 (big blind) showed [7s Kc] and won ($0.05) with two pair, Jacks and Sevens
+
+
+
+PokerStars Hand #234429447300:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:33:50 PT [2022/02/27 13:33:50 ET]
+Table 'Hyperion II' 9-max Seat #8 is the button
+Seat 2: 6666-7 ($1.92 in chips) 
+Seat 3: Elpharae ($2.27 in chips) 
+Seat 4: nagaElf ($2 in chips) 
+Seat 5: Seb4Flush ($2.11 in chips) 
+Seat 6: franpalermo14 ($3.75 in chips) 
+Seat 7: Dorex2007 ($2 in chips) 
+Seat 8: dlolo30 ($1.95 in chips) 
+Seat 9: bch_12345 ($3.99 in chips) 
+bch_12345: posts small blind $0.01
+6666-7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Jc]
+Elpharae: folds 
+nagaElf: folds 
+Seb4Flush: raises $0.04 to $0.06
+franpalermo14: folds 
+Dorex2007: raises $0.12 to $0.18
+dlolo30: folds 
+bch_12345: folds 
+6666-7: folds 
+Seb4Flush: calls $0.12
+*** FLOP *** [6s 3s 2d]
+Seb4Flush: checks 
+Dorex2007: bets $0.38
+Seb4Flush: folds 
+Uncalled bet ($0.38) returned to Dorex2007
+Dorex2007 collected $0.38 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [6s 3s 2d]
+Seat 2: 6666-7 (big blind) folded before Flop
+Seat 3: Elpharae folded before Flop (didn't bet)
+Seat 4: nagaElf folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded on the Flop
+Seat 6: franpalermo14 folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.38)
+Seat 8: dlolo30 (button) folded before Flop (didn't bet)
+Seat 9: bch_12345 (small blind) folded before Flop
+
+
+
+PokerStars Hand #234429472350:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:34:34 PT [2022/02/27 13:34:34 ET]
+Table 'Hyperion II' 9-max Seat #9 is the button
+Seat 2: 6666-7 ($1.90 in chips) 
+Seat 3: Elpharae ($2.27 in chips) 
+Seat 4: nagaElf ($2 in chips) 
+Seat 5: Seb4Flush ($1.93 in chips) 
+Seat 6: franpalermo14 ($3.75 in chips) 
+Seat 7: Dorex2007 ($2.20 in chips) 
+Seat 8: dlolo30 ($1.95 in chips) 
+Seat 9: bch_12345 ($3.98 in chips) 
+6666-7: posts small blind $0.01
+Elpharae: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 7s]
+nagaElf: folds 
+Seb4Flush: raises $0.04 to $0.06
+franpalermo14: folds 
+Dorex2007: folds 
+dlolo30: folds 
+bch_12345: folds 
+6666-7: folds 
+Elpharae: folds 
+Uncalled bet ($0.04) returned to Seb4Flush
+Seb4Flush collected $0.05 from pot
+Seb4Flush: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: 6666-7 (small blind) folded before Flop
+Seat 3: Elpharae (big blind) folded before Flop
+Seat 4: nagaElf folded before Flop (didn't bet)
+Seat 5: Seb4Flush collected ($0.05)
+Seat 6: franpalermo14 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: dlolo30 folded before Flop (didn't bet)
+Seat 9: bch_12345 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234429487485:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:35:01 PT [2022/02/27 13:35:01 ET]
+Table 'Hyperion II' 9-max Seat #2 is the button
+Seat 2: 6666-7 ($1.89 in chips) 
+Seat 3: Elpharae ($2.25 in chips) 
+Seat 4: nagaElf ($2 in chips) 
+Seat 5: Seb4Flush ($1.96 in chips) 
+Seat 6: franpalermo14 ($3.75 in chips) 
+Seat 7: Dorex2007 ($2.20 in chips) 
+Seat 8: dlolo30 ($1.95 in chips) 
+Seat 9: bch_12345 ($3.98 in chips) 
+Elpharae: posts small blind $0.01
+nagaElf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Qc]
+Seb4Flush: folds 
+franpalermo14: folds 
+Dorex2007: folds 
+dlolo30: folds 
+bch_12345: folds 
+6666-7: calls $0.02
+Elpharae: folds 
+nagaElf: checks 
+*** FLOP *** [9h 3s 7c]
+nagaElf: checks 
+6666-7: bets $0.04
+nagaElf: calls $0.04
+*** TURN *** [9h 3s 7c] [Ad]
+nagaElf: checks 
+6666-7: bets $0.04
+nagaElf: calls $0.04
+*** RIVER *** [9h 3s 7c Ad] [4d]
+nagaElf: checks 
+6666-7: checks 
+*** SHOW DOWN ***
+nagaElf: shows [5h 7s] (a pair of Sevens)
+6666-7: shows [Kd 9d] (a pair of Nines)
+6666-7 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [9h 3s 7c Ad 4d]
+Seat 2: 6666-7 (button) showed [Kd 9d] and won ($0.20) with a pair of Nines
+Seat 3: Elpharae (small blind) folded before Flop
+Seat 4: nagaElf (big blind) showed [5h 7s] and lost with a pair of Sevens
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: franpalermo14 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: dlolo30 folded before Flop (didn't bet)
+Seat 9: bch_12345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234429509124:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:35:38 PT [2022/02/27 13:35:38 ET]
+Table 'Hyperion II' 9-max Seat #3 is the button
+Seat 2: 6666-7 ($1.99 in chips) 
+Seat 3: Elpharae ($2.24 in chips) 
+Seat 4: nagaElf ($1.90 in chips) 
+Seat 5: Seb4Flush ($1.96 in chips) 
+Seat 6: franpalermo14 ($3.75 in chips) 
+Seat 7: Dorex2007 ($2.20 in chips) 
+Seat 8: dlolo30 ($1.95 in chips) 
+Seat 9: bch_12345 ($3.98 in chips) 
+nagaElf: posts small blind $0.01
+Seb4Flush: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 7h]
+franpalermo14: folds 
+Dorex2007: folds 
+dlolo30: calls $0.02
+bch_12345: folds 
+6666-7: folds 
+Elpharae: raises $0.06 to $0.08
+nagaElf: folds 
+Seb4Flush: calls $0.06
+dlolo30: folds 
+*** FLOP *** [2c Qh Qd]
+Seb4Flush: checks 
+Elpharae: checks 
+*** TURN *** [2c Qh Qd] [8c]
+Seb4Flush: checks 
+Elpharae: bets $0.09
+Seb4Flush: calls $0.09
+*** RIVER *** [2c Qh Qd 8c] [9h]
+Seb4Flush: checks 
+Elpharae: checks 
+*** SHOW DOWN ***
+Seb4Flush: shows [8h Ah] (two pair, Queens and Eights)
+Elpharae: mucks hand 
+Seb4Flush collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [2c Qh Qd 8c 9h]
+Seat 2: 6666-7 folded before Flop (didn't bet)
+Seat 3: Elpharae (button) mucked [Kh As]
+Seat 4: nagaElf (small blind) folded before Flop
+Seat 5: Seb4Flush (big blind) showed [8h Ah] and won ($0.36) with two pair, Queens and Eights
+Seat 6: franpalermo14 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: dlolo30 folded before Flop
+Seat 9: bch_12345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234429538229:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:36:30 PT [2022/02/27 13:36:30 ET]
+Table 'Hyperion II' 9-max Seat #4 is the button
+Seat 2: 6666-7 ($1.99 in chips) 
+Seat 3: Elpharae ($2.07 in chips) 
+Seat 4: nagaElf ($2 in chips) 
+Seat 5: Seb4Flush ($2.15 in chips) 
+Seat 6: franpalermo14 ($3.75 in chips) 
+Seat 7: Dorex2007 ($2.20 in chips) 
+Seat 8: dlolo30 ($1.93 in chips) 
+Seat 9: bch_12345 ($3.98 in chips) 
+Seb4Flush: posts small blind $0.01
+franpalermo14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Js]
+Dorex2007: folds 
+dlolo30: calls $0.02
+bch_12345: folds 
+6666-7: calls $0.02
+Elpharae: folds 
+nagaElf: folds 
+Seb4Flush: calls $0.01
+franpalermo14: checks 
+*** FLOP *** [6c 6s 9c]
+Seb4Flush: checks 
+franpalermo14: checks 
+dlolo30: bets $0.06
+6666-7: folds 
+Seb4Flush: folds 
+franpalermo14: folds 
+Uncalled bet ($0.06) returned to dlolo30
+dlolo30 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [6c 6s 9c]
+Seat 2: 6666-7 folded on the Flop
+Seat 3: Elpharae folded before Flop (didn't bet)
+Seat 4: nagaElf (button) folded before Flop (didn't bet)
+Seat 5: Seb4Flush (small blind) folded on the Flop
+Seat 6: franpalermo14 (big blind) folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: dlolo30 collected ($0.08)
+Seat 9: bch_12345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234429560926:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:37:10 PT [2022/02/27 13:37:10 ET]
+Table 'Hyperion II' 9-max Seat #5 is the button
+Seat 2: 6666-7 ($1.97 in chips) 
+Seat 3: Elpharae ($2.07 in chips) 
+Seat 4: nagaElf ($2 in chips) 
+Seat 5: Seb4Flush ($2.13 in chips) 
+Seat 6: franpalermo14 ($3.73 in chips) 
+Seat 7: Dorex2007 ($2.20 in chips) 
+Seat 8: dlolo30 ($1.99 in chips) 
+Seat 9: bch_12345 ($3.98 in chips) 
+franpalermo14: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Ks]
+dlolo30: folds 
+bch_12345: folds 
+6666-7: calls $0.02
+Elpharae: folds 
+nagaElf: folds 
+Seb4Flush: folds 
+franpalermo14: folds 
+Dorex2007: checks 
+*** FLOP *** [9h Ah Td]
+Dorex2007: checks 
+6666-7: checks 
+*** TURN *** [9h Ah Td] [8d]
+Dorex2007: checks 
+6666-7: checks 
+*** RIVER *** [9h Ah Td 8d] [5c]
+Dorex2007: bets $0.05
+6666-7: folds 
+Uncalled bet ($0.05) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9h Ah Td 8d 5c]
+Seat 2: 6666-7 folded on the River
+Seat 3: Elpharae folded before Flop (didn't bet)
+Seat 4: nagaElf folded before Flop (didn't bet)
+Seat 5: Seb4Flush (button) folded before Flop (didn't bet)
+Seat 6: franpalermo14 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) collected ($0.05)
+Seat 8: dlolo30 folded before Flop (didn't bet)
+Seat 9: bch_12345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234429575847:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:37:36 PT [2022/02/27 13:37:36 ET]
+Table 'Hyperion II' 9-max Seat #6 is the button
+Seat 2: 6666-7 ($1.95 in chips) 
+Seat 3: Elpharae ($2.07 in chips) 
+Seat 4: nagaElf ($2 in chips) 
+Seat 5: Seb4Flush ($2.13 in chips) 
+Seat 6: franpalermo14 ($3.72 in chips) 
+Seat 7: Dorex2007 ($2.23 in chips) 
+Seat 8: dlolo30 ($1.99 in chips) 
+Seat 9: bch_12345 ($3.98 in chips) 
+Dorex2007: posts small blind $0.01
+dlolo30: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 2c]
+bch_12345: raises $0.04 to $0.06
+6666-7: folds 
+Elpharae: folds 
+nagaElf: calls $0.06
+Seb4Flush: folds 
+franpalermo14: folds 
+Dorex2007: folds 
+dlolo30: folds 
+*** FLOP *** [6d 2h 7h]
+bch_12345: bets $0.04
+nagaElf: raises $0.10 to $0.14
+bch_12345: calls $0.10
+*** TURN *** [6d 2h 7h] [4h]
+bch_12345: checks 
+nagaElf: checks 
+*** RIVER *** [6d 2h 7h 4h] [Kd]
+bch_12345: bets $0.82
+nagaElf: folds 
+Uncalled bet ($0.82) returned to bch_12345
+bch_12345 collected $0.41 from pot
+bch_12345: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [6d 2h 7h 4h Kd]
+Seat 2: 6666-7 folded before Flop (didn't bet)
+Seat 3: Elpharae folded before Flop (didn't bet)
+Seat 4: nagaElf folded on the River
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: franpalermo14 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: dlolo30 (big blind) folded before Flop
+Seat 9: bch_12345 collected ($0.41)
+
+
+
+PokerStars Hand #234429617557:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:38:46 PT [2022/02/27 13:38:46 ET]
+Table 'Hyperion II' 9-max Seat #7 is the button
+Seat 2: 6666-7 ($1.95 in chips) 
+Seat 3: Elpharae ($2.07 in chips) 
+Seat 4: nagaElf ($1.80 in chips) 
+Seat 5: Seb4Flush ($2.13 in chips) 
+Seat 6: franpalermo14 ($3.72 in chips) 
+Seat 7: Dorex2007 ($2.22 in chips) 
+Seat 8: dlolo30 ($1.97 in chips) 
+Seat 9: bch_12345 ($4.19 in chips) 
+dlolo30: posts small blind $0.01
+bch_12345: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac As]
+6666-7: folds 
+Elpharae: folds 
+nagaElf: folds 
+Seb4Flush: folds 
+franpalermo14: folds 
+Dorex2007: raises $0.02 to $0.04
+dlolo30: folds 
+bch_12345: folds 
+Uncalled bet ($0.02) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: 6666-7 folded before Flop (didn't bet)
+Seat 3: Elpharae folded before Flop (didn't bet)
+Seat 4: nagaElf folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: franpalermo14 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) collected ($0.05)
+Seat 8: dlolo30 (small blind) folded before Flop
+Seat 9: bch_12345 (big blind) folded before Flop
+
+
+
+PokerStars Hand #234429628095:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:39:05 PT [2022/02/27 13:39:05 ET]
+Table 'Hyperion II' 9-max Seat #8 is the button
+Seat 2: 6666-7 ($1.95 in chips) 
+Seat 3: Elpharae ($2.07 in chips) 
+Seat 4: nagaElf ($1.80 in chips) 
+Seat 5: Seb4Flush ($2.13 in chips) 
+Seat 6: franpalermo14 ($3.72 in chips) 
+Seat 7: Dorex2007 ($2.25 in chips) 
+Seat 8: dlolo30 ($1.96 in chips) 
+Seat 9: bch_12345 ($4.17 in chips) 
+bch_12345: posts small blind $0.01
+6666-7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d Qs]
+Elpharae: folds 
+nagaElf: folds 
+Seb4Flush: folds 
+franpalermo14: calls $0.02
+Dorex2007: folds 
+dlolo30: folds 
+bch_12345: folds 
+6666-7: checks 
+*** FLOP *** [5d 6s 6c]
+6666-7: checks 
+franpalermo14: checks 
+*** TURN *** [5d 6s 6c] [Kc]
+6666-7: checks 
+franpalermo14: bets $0.03
+6666-7: folds 
+Uncalled bet ($0.03) returned to franpalermo14
+franpalermo14 collected $0.05 from pot
+franpalermo14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5d 6s 6c Kc]
+Seat 2: 6666-7 (big blind) folded on the Turn
+Seat 3: Elpharae folded before Flop (didn't bet)
+Seat 4: nagaElf folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: franpalermo14 collected ($0.05)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: dlolo30 (button) folded before Flop (didn't bet)
+Seat 9: bch_12345 (small blind) folded before Flop
+
+
+
+PokerStars Hand #234429651489:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:39:46 PT [2022/02/27 13:39:46 ET]
+Table 'Hyperion II' 9-max Seat #9 is the button
+Seat 2: 6666-7 ($1.93 in chips) 
+Seat 3: Elpharae ($2.07 in chips) 
+Seat 4: nagaElf ($1.80 in chips) 
+Seat 5: Seb4Flush ($2.13 in chips) 
+Seat 6: franpalermo14 ($3.75 in chips) 
+Seat 7: Dorex2007 ($2.25 in chips) 
+Seat 8: dlolo30 ($1.96 in chips) 
+Seat 9: bch_12345 ($4.16 in chips) 
+6666-7: posts small blind $0.01
+Elpharae: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 4d]
+nagaElf: raises $0.16 to $0.18
+Seb4Flush: folds 
+franpalermo14: folds 
+Dorex2007: calls $0.18
+dlolo30: folds 
+bch_12345: folds 
+6666-7: folds 
+Elpharae: folds 
+*** FLOP *** [9h 2d Kh]
+nagaElf: checks 
+Dorex2007: checks 
+*** TURN *** [9h 2d Kh] [7d]
+nagaElf: bets $0.18
+Dorex2007: calls $0.18
+*** RIVER *** [9h 2d Kh 7d] [2h]
+nagaElf: bets $0.22
+Dorex2007: raises $1.67 to $1.89 and is all-in
+nagaElf: folds 
+Uncalled bet ($1.67) returned to Dorex2007
+Dorex2007 collected $1.15 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.19 | Rake $0.04 
+Board [9h 2d Kh 7d 2h]
+Seat 2: 6666-7 (small blind) folded before Flop
+Seat 3: Elpharae (big blind) folded before Flop
+Seat 4: nagaElf folded on the River
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: franpalermo14 folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($1.15)
+Seat 8: dlolo30 folded before Flop (didn't bet)
+Seat 9: bch_12345 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234429676815:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:40:31 PT [2022/02/27 13:40:31 ET]
+Table 'Hyperion II' 9-max Seat #2 is the button
+Seat 2: 6666-7 ($1.92 in chips) 
+Seat 3: Elpharae ($2.05 in chips) 
+Seat 4: nagaElf ($1.22 in chips) 
+Seat 5: Seb4Flush ($2.13 in chips) 
+Seat 6: franpalermo14 ($3.75 in chips) 
+Seat 7: Dorex2007 ($2.82 in chips) 
+Seat 8: dlolo30 ($1.96 in chips) 
+Seat 9: bch_12345 ($4.16 in chips) 
+Elpharae: posts small blind $0.01
+nagaElf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 9c]
+Seb4Flush: folds 
+franpalermo14: folds 
+Dorex2007: folds 
+dlolo30: folds 
+bch_12345: raises $0.04 to $0.06
+6666-7: folds 
+Elpharae: folds 
+nagaElf: folds 
+Uncalled bet ($0.04) returned to bch_12345
+bch_12345 collected $0.05 from pot
+bch_12345: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: 6666-7 (button) folded before Flop (didn't bet)
+Seat 3: Elpharae (small blind) folded before Flop
+Seat 4: nagaElf (big blind) folded before Flop
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: franpalermo14 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: dlolo30 folded before Flop (didn't bet)
+Seat 9: bch_12345 collected ($0.05)
+
+
+
+PokerStars Hand #234429689245:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:40:52 PT [2022/02/27 13:40:52 ET]
+Table 'Hyperion II' 9-max Seat #3 is the button
+Seat 2: 6666-7 ($1.92 in chips) 
+Seat 3: Elpharae ($2.04 in chips) 
+Seat 4: nagaElf ($1.98 in chips) 
+Seat 5: Seb4Flush ($2.13 in chips) 
+Seat 6: franpalermo14 ($3.75 in chips) 
+Seat 7: Dorex2007 ($2.82 in chips) 
+Seat 8: dlolo30 ($1.96 in chips) 
+Seat 9: bch_12345 ($4.19 in chips) 
+nagaElf: posts small blind $0.01
+Seb4Flush: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 7s]
+franpalermo14: calls $0.02
+Dorex2007: folds 
+dlolo30: folds 
+bch_12345: folds 
+6666-7: calls $0.02
+Elpharae: folds 
+nagaElf: folds 
+Seb4Flush: checks 
+*** FLOP *** [Qh Ad 5c]
+Seb4Flush: checks 
+franpalermo14: checks 
+6666-7: bets $0.02
+Seb4Flush: folds 
+franpalermo14: folds 
+Uncalled bet ($0.02) returned to 6666-7
+6666-7 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Qh Ad 5c]
+Seat 2: 6666-7 collected ($0.07)
+Seat 3: Elpharae (button) folded before Flop (didn't bet)
+Seat 4: nagaElf (small blind) folded before Flop
+Seat 5: Seb4Flush (big blind) folded on the Flop
+Seat 6: franpalermo14 folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: dlolo30 folded before Flop (didn't bet)
+Seat 9: bch_12345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234429933211:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:47:33 PT [2022/02/27 13:47:33 ET]
+Table 'Hyperion II' 9-max Seat #8 is the button
+Seat 2: 6666-7 ($1.93 in chips) 
+Seat 4: nagaElf ($2 in chips) 
+Seat 5: Seb4Flush ($2.18 in chips) 
+Seat 6: franpalermo14 ($3.67 in chips) 
+Seat 7: Dorex2007 ($2.82 in chips) 
+Seat 8: dlolo30 ($1.90 in chips) 
+Seat 9: bch_12345 ($4.32 in chips) 
+bch_12345: posts small blind $0.01
+6666-7: posts big blind $0.02
+Dorex2007: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 7h]
+nagaElf: folds 
+Seb4Flush: raises $0.06 to $0.08
+franpalermo14: calls $0.08
+Dorex2007: folds 
+dlolo30: folds 
+bch_12345: folds 
+6666-7: folds 
+*** FLOP *** [9h 3h 8s]
+Seb4Flush: checks 
+franpalermo14: checks 
+*** TURN *** [9h 3h 8s] [Jh]
+Seb4Flush: checks 
+franpalermo14: checks 
+*** RIVER *** [9h 3h 8s Jh] [7c]
+Seb4Flush: checks 
+franpalermo14: checks 
+*** SHOW DOWN ***
+Seb4Flush: shows [2h Ah] (a flush, Ace high)
+franpalermo14: mucks hand 
+Seb4Flush collected $0.21 from pot
+campi64 leaves the table
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [9h 3h 8s Jh 7c]
+Seat 2: 6666-7 (big blind) folded before Flop
+Seat 4: nagaElf folded before Flop (didn't bet)
+Seat 5: Seb4Flush showed [2h Ah] and won ($0.21) with a flush, Ace high
+Seat 6: franpalermo14 mucked [5s 5c]
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: dlolo30 (button) folded before Flop (didn't bet)
+Seat 9: bch_12345 (small blind) folded before Flop
+
+
+
+PokerStars Hand #234429956114:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:48:14 PT [2022/02/27 13:48:14 ET]
+Table 'Hyperion II' 9-max Seat #9 is the button
+Seat 2: 6666-7 ($1.91 in chips) 
+Seat 4: nagaElf ($2 in chips) 
+Seat 5: Seb4Flush ($2.31 in chips) 
+Seat 6: franpalermo14 ($3.59 in chips) 
+Seat 7: Dorex2007 ($2.79 in chips) 
+Seat 8: dlolo30 ($1.90 in chips) 
+Seat 9: bch_12345 ($4.31 in chips) 
+6666-7: posts small blind $0.01
+nagaElf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Qs]
+Seb4Flush: folds 
+franpalermo14: folds 
+Dorex2007: raises $0.02 to $0.04
+dlolo30: folds 
+bch_12345: folds 
+6666-7: calls $0.03
+nagaElf: calls $0.02
+*** FLOP *** [Kd 3h 3s]
+6666-7: checks 
+nagaElf: checks 
+Dorex2007: checks 
+*** TURN *** [Kd 3h 3s] [Ah]
+6666-7: checks 
+nagaElf: checks 
+Dorex2007: bets $0.08
+6666-7: folds 
+nagaElf: folds 
+Uncalled bet ($0.08) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Kd 3h 3s Ah]
+Seat 2: 6666-7 (small blind) folded on the Turn
+Seat 4: nagaElf (big blind) folded on the Turn
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: franpalermo14 folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.12)
+Seat 8: dlolo30 folded before Flop (didn't bet)
+Seat 9: bch_12345 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234429976851:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:48:50 PT [2022/02/27 13:48:50 ET]
+Table 'Hyperion II' 9-max Seat #2 is the button
+Seat 2: 6666-7 ($1.87 in chips) 
+Seat 4: nagaElf ($1.96 in chips) 
+Seat 5: Seb4Flush ($2.31 in chips) 
+Seat 6: franpalermo14 ($3.59 in chips) 
+Seat 7: Dorex2007 ($2.87 in chips) 
+Seat 8: dlolo30 ($1.90 in chips) 
+Seat 9: bch_12345 ($4.31 in chips) 
+nagaElf: posts small blind $0.01
+Seb4Flush: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 5s]
+franpalermo14: folds 
+Dorex2007: folds 
+dlolo30: folds 
+bch_12345: folds 
+6666-7: raises $0.02 to $0.04
+nagaElf: calls $0.03
+Seb4Flush: calls $0.02
+*** FLOP *** [Td 2h 7h]
+nagaElf: checks 
+Seb4Flush: checks 
+6666-7: checks 
+*** TURN *** [Td 2h 7h] [6c]
+nagaElf: checks 
+Seb4Flush: bets $0.06
+6666-7: calls $0.06
+nagaElf: folds 
+*** RIVER *** [Td 2h 7h 6c] [6d]
+Seb4Flush: bets $0.10
+6666-7: calls $0.10
+*** SHOW DOWN ***
+Seb4Flush: shows [8c Ts] (two pair, Tens and Sixes)
+6666-7: mucks hand 
+Seb4Flush collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [Td 2h 7h 6c 6d]
+Seat 2: 6666-7 (button) mucked [Ah Kd]
+Seat 4: nagaElf (small blind) folded on the Turn
+Seat 5: Seb4Flush (big blind) showed [8c Ts] and won ($0.42) with two pair, Tens and Sixes
+Seat 6: franpalermo14 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: dlolo30 folded before Flop (didn't bet)
+Seat 9: bch_12345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234430006504:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:49:43 PT [2022/02/27 13:49:43 ET]
+Table 'Hyperion II' 9-max Seat #4 is the button
+Seat 2: 6666-7 ($1.67 in chips) 
+Seat 4: nagaElf ($2 in chips) 
+Seat 5: Seb4Flush ($2.53 in chips) 
+Seat 6: franpalermo14 ($3.59 in chips) 
+Seat 7: Dorex2007 ($2.87 in chips) 
+Seat 8: dlolo30 ($1.90 in chips) 
+Seat 9: bch_12345 ($4.31 in chips) 
+Seb4Flush: posts small blind $0.01
+franpalermo14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 5s]
+Dorex2007: folds 
+dlolo30: folds 
+bch_12345: folds 
+6666-7: folds 
+nagaElf: folds 
+Seb4Flush: raises $0.04 to $0.06
+franpalermo14: folds 
+Uncalled bet ($0.04) returned to Seb4Flush
+Seb4Flush collected $0.04 from pot
+Seb4Flush: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: 6666-7 folded before Flop (didn't bet)
+Seat 4: nagaElf (button) folded before Flop (didn't bet)
+Seat 5: Seb4Flush (small blind) collected ($0.04)
+Seat 6: franpalermo14 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: dlolo30 folded before Flop (didn't bet)
+Seat 9: bch_12345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234430016104:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:50:00 PT [2022/02/27 13:50:00 ET]
+Table 'Hyperion II' 9-max Seat #5 is the button
+Seat 2: 6666-7 ($1.67 in chips) 
+Seat 4: nagaElf ($2 in chips) 
+Seat 5: Seb4Flush ($2.55 in chips) 
+Seat 6: franpalermo14 ($3.57 in chips) 
+Seat 7: Dorex2007 ($2.87 in chips) 
+Seat 8: dlolo30 ($1.90 in chips) 
+Seat 9: bch_12345 ($4.31 in chips) 
+franpalermo14: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc As]
+dlolo30: calls $0.02
+bch_12345: calls $0.02
+6666-7: folds 
+nagaElf: folds 
+Seb4Flush: calls $0.02
+saspir joins the table at seat #1 
+franpalermo14: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [4c 3h Qc]
+franpalermo14: checks 
+Dorex2007: checks 
+dlolo30: checks 
+bch_12345: checks 
+Seb4Flush: checks 
+*** TURN *** [4c 3h Qc] [9c]
+franpalermo14: checks 
+Dorex2007: checks 
+dlolo30: checks 
+bch_12345: checks 
+Seb4Flush: bets $0.04
+franpalermo14: folds 
+Dorex2007: folds 
+dlolo30: folds 
+bch_12345: folds 
+Uncalled bet ($0.04) returned to Seb4Flush
+Seb4Flush collected $0.10 from pot
+Seb4Flush: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [4c 3h Qc 9c]
+Seat 2: 6666-7 folded before Flop (didn't bet)
+Seat 4: nagaElf folded before Flop (didn't bet)
+Seat 5: Seb4Flush (button) collected ($0.10)
+Seat 6: franpalermo14 (small blind) folded on the Turn
+Seat 7: Dorex2007 (big blind) folded on the Turn
+Seat 8: dlolo30 folded on the Turn
+Seat 9: bch_12345 folded on the Turn
+
+
+
+PokerStars Hand #234430060709:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:51:19 PT [2022/02/27 13:51:19 ET]
+Table 'Hyperion II' 9-max Seat #6 is the button
+Seat 2: 6666-7 ($1.67 in chips) 
+Seat 4: nagaElf ($2 in chips) 
+Seat 5: Seb4Flush ($2.63 in chips) 
+Seat 6: franpalermo14 ($3.55 in chips) 
+Seat 7: Dorex2007 ($2.85 in chips) 
+Seat 8: dlolo30 ($1.88 in chips) 
+Seat 9: bch_12345 ($4.29 in chips) 
+Dorex2007: posts small blind $0.01
+dlolo30: posts big blind $0.02
+saspir: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 4d]
+bch_12345: folds 
+6666-7: folds 
+nagaElf: folds 
+Seb4Flush: folds 
+franpalermo14: raises $0.04 to $0.06
+Dorex2007: folds 
+dlolo30: folds 
+Uncalled bet ($0.04) returned to franpalermo14
+franpalermo14 collected $0.05 from pot
+franpalermo14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: 6666-7 folded before Flop (didn't bet)
+Seat 4: nagaElf folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: franpalermo14 (button) collected ($0.05)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: dlolo30 (big blind) folded before Flop
+Seat 9: bch_12345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234430073210:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:51:41 PT [2022/02/27 13:51:41 ET]
+Table 'Hyperion II' 9-max Seat #7 is the button
+Seat 2: 6666-7 ($1.67 in chips) 
+Seat 4: nagaElf ($2 in chips) 
+Seat 5: Seb4Flush ($2.63 in chips) 
+Seat 6: franpalermo14 ($3.58 in chips) 
+Seat 7: Dorex2007 ($2.84 in chips) 
+Seat 8: dlolo30 ($1.86 in chips) 
+Seat 9: bch_12345 ($4.29 in chips) 
+dlolo30: posts small blind $0.01
+bch_12345: posts big blind $0.02
+saspir: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 8h]
+6666-7: folds 
+nagaElf: folds 
+Seb4Flush: raises $0.04 to $0.06
+franpalermo14: folds 
+Dorex2007: folds 
+dlolo30: folds 
+bch_12345: calls $0.04
+*** FLOP *** [Ts 5s 7d]
+bch_12345: checks 
+Seb4Flush: checks 
+*** TURN *** [Ts 5s 7d] [7s]
+bch_12345: bets $0.08
+Seb4Flush: folds 
+Uncalled bet ($0.08) returned to bch_12345
+bch_12345 collected $0.13 from pot
+bch_12345: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ts 5s 7d 7s]
+Seat 2: 6666-7 folded before Flop (didn't bet)
+Seat 4: nagaElf folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded on the Turn
+Seat 6: franpalermo14 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: dlolo30 (small blind) folded before Flop
+Seat 9: bch_12345 (big blind) collected ($0.13)
+
+
+
+PokerStars Hand #234430094462:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:52:19 PT [2022/02/27 13:52:19 ET]
+Table 'Hyperion II' 9-max Seat #8 is the button
+Seat 1: saspir ($2 in chips) 
+Seat 2: 6666-7 ($1.67 in chips) 
+Seat 4: nagaElf ($2 in chips) 
+Seat 5: Seb4Flush ($2.57 in chips) 
+Seat 6: franpalermo14 ($3.58 in chips) 
+Seat 7: Dorex2007 ($2.84 in chips) 
+Seat 8: dlolo30 ($1.85 in chips) 
+Seat 9: bch_12345 ($4.36 in chips) 
+bch_12345: posts small blind $0.01
+saspir: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Ah]
+6666-7: folds 
+nagaElf: raises $0.16 to $0.18
+Seb4Flush: folds 
+franpalermo14: folds 
+Dorex2007: folds 
+dlolo30: folds 
+bch_12345: folds 
+saspir: calls $0.16
+*** FLOP *** [As Ad 7s]
+saspir: checks 
+nagaElf: bets $0.12
+saspir: folds 
+Uncalled bet ($0.12) returned to nagaElf
+nagaElf collected $0.36 from pot
+nagaElf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [As Ad 7s]
+Seat 1: saspir (big blind) folded on the Flop
+Seat 2: 6666-7 folded before Flop (didn't bet)
+Seat 4: nagaElf collected ($0.36)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: franpalermo14 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: dlolo30 (button) folded before Flop (didn't bet)
+Seat 9: bch_12345 (small blind) folded before Flop
+
+
+
+PokerStars Hand #234430121060:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:53:07 PT [2022/02/27 13:53:07 ET]
+Table 'Hyperion II' 9-max Seat #9 is the button
+Seat 1: saspir ($1.82 in chips) 
+Seat 2: 6666-7 ($1.67 in chips) 
+Seat 4: nagaElf ($2.18 in chips) 
+Seat 5: Seb4Flush ($2.57 in chips) 
+Seat 6: franpalermo14 ($3.58 in chips) 
+Seat 7: Dorex2007 ($2.84 in chips) 
+Seat 8: dlolo30 ($1.85 in chips) 
+Seat 9: bch_12345 ($4.35 in chips) 
+saspir: posts small blind $0.01
+6666-7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 3s]
+nagaElf: folds 
+Seb4Flush: raises $0.04 to $0.06
+franpalermo14: folds 
+Dorex2007: folds 
+dlolo30: folds 
+bch_12345: calls $0.06
+saspir: calls $0.05
+6666-7: folds 
+*** FLOP *** [5d 9h 8h]
+saspir: bets $0.38
+Seb4Flush: folds 
+bch_12345: raises $3.91 to $4.29 and is all-in
+saspir: calls $1.38 and is all-in
+Uncalled bet ($2.53) returned to bch_12345
+*** TURN *** [5d 9h 8h] [Kd]
+*** RIVER *** [5d 9h 8h Kd] [Ad]
+*** SHOW DOWN ***
+saspir: shows [7s 6h] (a straight, Five to Nine)
+bch_12345: shows [Qh Th] (high card Ace)
+saspir cashed out the hand for $2 | Cash Out Fee $0.02
+bch_12345 cashed out the hand for $1.55 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $3.72 | Rake $0.13 
+Board [5d 9h 8h Kd Ad]
+Seat 1: saspir (small blind) showed [7s 6h] and won ($3.59) with a straight, Five to Nine (pot not awarded as player cashed out)
+Seat 2: 6666-7 (big blind) folded before Flop
+Seat 4: nagaElf folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded on the Flop
+Seat 6: franpalermo14 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: dlolo30 folded before Flop (didn't bet)
+Seat 9: bch_12345 (button) showed [Qh Th] and lost with high card Ace (cashed out).
+
+
+
+PokerStars Hand #234430159775:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:54:16 PT [2022/02/27 13:54:16 ET]
+Table 'Hyperion II' 9-max Seat #1 is the button
+Seat 1: saspir ($2 in chips) 
+Seat 2: 6666-7 ($1.65 in chips) 
+Seat 4: nagaElf ($2.18 in chips) 
+Seat 5: Seb4Flush ($2.51 in chips) 
+Seat 6: franpalermo14 ($3.58 in chips) 
+Seat 7: Dorex2007 ($2.84 in chips) 
+Seat 8: dlolo30 ($1.85 in chips) 
+Seat 9: bch_12345 ($4.08 in chips) 
+6666-7: posts small blind $0.01
+nagaElf: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Ks]
+Seb4Flush: calls $0.02
+franpalermo14: folds 
+Dorex2007: folds 
+dlolo30: folds 
+dlolo30 leaves the table
+bch_12345: raises $0.06 to $0.08
+luicchi79 joins the table at seat #8 
+saspir: calls $0.08
+6666-7: folds 
+nagaElf: calls $0.06
+Seb4Flush: calls $0.06
+*** FLOP *** [Tc 6d Qs]
+nagaElf: bets $0.12
+Seb4Flush: folds 
+bch_12345: folds 
+saspir: folds 
+Uncalled bet ($0.12) returned to nagaElf
+nagaElf collected $0.32 from pot
+nagaElf: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Tc 6d Qs]
+Seat 1: saspir (button) folded on the Flop
+Seat 2: 6666-7 (small blind) folded before Flop
+Seat 4: nagaElf (big blind) collected ($0.32)
+Seat 5: Seb4Flush folded on the Flop
+Seat 6: franpalermo14 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: dlolo30 folded before Flop (didn't bet)
+Seat 9: bch_12345 folded on the Flop
+
+
+
+PokerStars Hand #234430198259:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:55:33 PT [2022/02/27 13:55:33 ET]
+Table 'Hyperion II' 9-max Seat #4 is the button
+Seat 1: saspir ($1.92 in chips) 
+Seat 4: nagaElf ($2.42 in chips) 
+Seat 5: Seb4Flush ($2.43 in chips) 
+Seat 6: franpalermo14 ($3.58 in chips) 
+Seat 7: Dorex2007 ($2.84 in chips) 
+Seat 8: luicchi79 ($1.50 in chips) 
+Seat 9: bch_12345 ($4 in chips) 
+Seb4Flush: posts small blind $0.01
+franpalermo14: posts big blind $0.02
+luicchi79: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 4h]
+Dorex2007: folds 
+luicchi79: checks 
+bch_12345: folds 
+saspir: calls $0.02
+nagaElf: folds 
+Seb4Flush: calls $0.01
+franpalermo14: checks 
+*** FLOP *** [2h Jc Ah]
+Seb4Flush: bets $0.06
+franpalermo14: calls $0.06
+luicchi79: folds 
+saspir: folds 
+*** TURN *** [2h Jc Ah] [7s]
+Seb4Flush: bets $0.14
+franpalermo14: calls $0.14
+*** RIVER *** [2h Jc Ah 7s] [3d]
+Seb4Flush: bets $0.46
+franpalermo14: folds 
+Uncalled bet ($0.46) returned to Seb4Flush
+Seb4Flush collected $0.46 from pot
+Seb4Flush: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [2h Jc Ah 7s 3d]
+Seat 1: saspir folded on the Flop
+Seat 4: nagaElf (button) folded before Flop (didn't bet)
+Seat 5: Seb4Flush (small blind) collected ($0.46)
+Seat 6: franpalermo14 (big blind) folded on the River
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: luicchi79 folded on the Flop (didn't bet)
+Seat 9: bch_12345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234430225254:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:56:52 PT [2022/02/27 13:56:52 ET]
+Table 'Hyperion II' 9-max Seat #5 is the button
+Seat 1: saspir ($1.90 in chips) 
+Seat 4: nagaElf ($2.42 in chips) 
+Seat 5: Seb4Flush ($2.67 in chips) 
+Seat 6: franpalermo14 ($3.36 in chips) 
+Seat 7: Dorex2007 ($2.84 in chips) 
+Seat 8: luicchi79 ($1.48 in chips) 
+Seat 9: bch_12345 ($4 in chips) 
+franpalermo14: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+Elpharae: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 2d]
+luicchi79: folds 
+bch_12345: raises $0.04 to $0.06
+saspir: calls $0.06
+nagaElf: folds 
+Seb4Flush: calls $0.06
+franpalermo14: folds 
+Dorex2007: folds 
+*** FLOP *** [5c 7s 3d]
+bch_12345: checks 
+saspir: checks 
+Seb4Flush: bets $0.12
+bch_12345: raises $3.82 to $3.94 and is all-in
+saspir: folds 
+Seb4Flush: calls $2.49 and is all-in
+Uncalled bet ($1.33) returned to bch_12345
+*** TURN *** [5c 7s 3d] [Qd]
+*** RIVER *** [5c 7s 3d Qd] [9d]
+*** SHOW DOWN ***
+bch_12345: shows [Tc Ts] (a pair of Tens)
+Seb4Flush: shows [5h 3h] (two pair, Fives and Threes)
+Seb4Flush collected $5.24 from pot
+bch_12345 cashed out the hand for $1.37 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $5.43 | Rake $0.19 
+Board [5c 7s 3d Qd 9d]
+Seat 1: saspir folded on the Flop
+Seat 4: nagaElf folded before Flop (didn't bet)
+Seat 5: Seb4Flush (button) showed [5h 3h] and won ($5.24) with two pair, Fives and Threes
+Seat 6: franpalermo14 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: luicchi79 folded before Flop (didn't bet)
+Seat 9: bch_12345 showed [Tc Ts] and lost with a pair of Tens (cashed out).
+
+
+
+PokerStars Hand #234430248940:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:58:01 PT [2022/02/27 13:58:01 ET]
+Table 'Hyperion II' 9-max Seat #6 is the button
+Seat 1: saspir ($1.84 in chips) 
+Seat 2: 6666-7 ($1.64 in chips) 
+Seat 4: nagaElf ($2.42 in chips) 
+Seat 5: Seb4Flush ($5.24 in chips) 
+Seat 6: franpalermo14 ($3.35 in chips) 
+Seat 7: Dorex2007 ($2.82 in chips) 
+Seat 8: luicchi79 ($1.48 in chips) 
+Seat 9: bch_12345 ($2.70 in chips) 
+Dorex2007: posts small blind $0.01
+luicchi79: posts big blind $0.02
+Elpharae: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Tc]
+bch_12345: folds 
+saspir: calls $0.02
+6666-7: calls $0.02
+nagaElf: folds 
+Seb4Flush: folds 
+franpalermo14: calls $0.02
+Dorex2007: raises $0.12 to $0.14
+luicchi79: folds 
+saspir: calls $0.12
+6666-7: folds 
+franpalermo14: folds 
+*** FLOP *** [2h Kc 2s]
+Dorex2007: checks 
+saspir: checks 
+*** TURN *** [2h Kc 2s] [6c]
+Dorex2007: checks 
+saspir: checks 
+*** RIVER *** [2h Kc 2s 6c] [7d]
+Dorex2007: bets $0.33
+saspir: folds 
+Uncalled bet ($0.33) returned to Dorex2007
+Dorex2007 collected $0.33 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [2h Kc 2s 6c 7d]
+Seat 1: saspir folded on the River
+Seat 2: 6666-7 folded before Flop
+Seat 4: nagaElf folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: franpalermo14 (button) folded before Flop
+Seat 7: Dorex2007 (small blind) collected ($0.33)
+Seat 8: luicchi79 (big blind) folded before Flop
+Seat 9: bch_12345 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234430276863:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 10:59:21 PT [2022/02/27 13:59:21 ET]
+Table 'Hyperion II' 9-max Seat #7 is the button
+Seat 1: saspir ($1.70 in chips) 
+Seat 2: 6666-7 ($1.62 in chips) 
+Seat 4: nagaElf ($2.42 in chips) 
+Seat 5: Seb4Flush ($5.24 in chips) 
+Seat 6: franpalermo14 ($3.33 in chips) 
+Seat 7: Dorex2007 ($3.01 in chips) 
+Seat 8: luicchi79 ($1.46 in chips) 
+luicchi79: posts small blind $0.01
+bch_12345: is sitting out 
+bch_12345 leaves the table
+saspir: posts big blind $0.02
+Elpharae: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Td]
+6666-7: calls $0.02
+nagaElf: folds 
+Seb4Flush: raises $0.07 to $0.09
+franpalermo14: folds 
+Dorex2007: folds 
+carretomoreira joins the table at seat #9 
+luicchi79: folds 
+saspir: calls $0.07
+6666-7: folds 
+*** FLOP *** [5c 5d 9d]
+saspir: checks 
+Seb4Flush: bets $0.08
+saspir: raises $0.08 to $0.16
+Seb4Flush: calls $0.08
+*** TURN *** [5c 5d 9d] [Ac]
+saspir: checks 
+Seb4Flush: checks 
+*** RIVER *** [5c 5d 9d Ac] [Ks]
+saspir: bets $0.51
+Seb4Flush: raises $4.48 to $4.99 and is all-in
+saspir: calls $0.94 and is all-in
+Uncalled bet ($3.54) returned to Seb4Flush
+*** SHOW DOWN ***
+Seb4Flush: shows [Kc Kh] (a full house, Kings full of Fives)
+saspir: shows [5s Ts] (three of a kind, Fives)
+Seb4Flush collected $3.31 from pot
+*** SUMMARY ***
+Total pot $3.43 | Rake $0.12 
+Board [5c 5d 9d Ac Ks]
+Seat 1: saspir (big blind) showed [5s Ts] and lost with three of a kind, Fives
+Seat 2: 6666-7 folded before Flop
+Seat 4: nagaElf folded before Flop (didn't bet)
+Seat 5: Seb4Flush showed [Kc Kh] and won ($3.31) with a full house, Kings full of Fives
+Seat 6: franpalermo14 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: luicchi79 (small blind) folded before Flop
+
+
+
+PokerStars Hand #234430309459:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:00:50 PT [2022/02/27 14:00:50 ET]
+Table 'Hyperion II' 9-max Seat #8 is the button
+Seat 2: 6666-7 ($1.60 in chips) 
+Seat 3: Elpharae ($2.01 in chips) 
+Seat 4: nagaElf ($2.42 in chips) 
+Seat 5: Seb4Flush ($6.85 in chips) 
+Seat 6: franpalermo14 ($3.33 in chips) 
+Seat 7: Dorex2007 ($3.01 in chips) 
+Seat 8: luicchi79 ($1.45 in chips) 
+6666-7: posts small blind $0.01
+Elpharae: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 5c]
+nagaElf: folds 
+Seb4Flush: folds 
+franpalermo14: folds 
+Dorex2007: folds 
+luicchi79: calls $0.02
+6666-7: calls $0.01
+Elpharae: checks 
+*** FLOP *** [3c Qc 7d]
+6666-7: checks 
+Elpharae: checks 
+luicchi79: checks 
+*** TURN *** [3c Qc 7d] [2s]
+6666-7: checks 
+Elpharae: checks 
+luicchi79: checks 
+*** RIVER *** [3c Qc 7d 2s] [9h]
+6666-7: checks 
+Elpharae: checks 
+luicchi79: bets $0.04
+6666-7: calls $0.04
+Elpharae: folds 
+*** SHOW DOWN ***
+luicchi79: shows [4h Qs] (a pair of Queens)
+6666-7: mucks hand 
+luicchi79 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [3c Qc 7d 2s 9h]
+Seat 2: 6666-7 (small blind) mucked [7c 5d]
+Seat 3: Elpharae (big blind) folded on the River
+Seat 4: nagaElf folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: franpalermo14 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: luicchi79 (button) showed [4h Qs] and won ($0.14) with a pair of Queens
+
+
+
+PokerStars Hand #234430740636:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:13:13 PT [2022/02/27 14:13:13 ET]
+Table 'Hyperion II' 9-max Seat #2 is the button
+Seat 1: saspir ($2.35 in chips) 
+Seat 2: 6666-7 ($1.41 in chips) 
+Seat 3: Elpharae ($2.14 in chips) 
+Seat 4: coopermanjo ($2 in chips) 
+Seat 6: franpalermo14 ($3.16 in chips) 
+Seat 7: Dorex2007 ($3.01 in chips) 
+Seat 8: luicchi79 ($1.26 in chips) 
+Seat 9: carretomoreira ($1.77 in chips) 
+Elpharae: posts small blind $0.01
+coopermanjo: posts big blind $0.02
+Dorex2007: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 7c]
+franpalermo14: calls $0.02
+Dorex2007: checks 
+luicchi79: calls $0.02
+carretomoreira: folds 
+saspir: calls $0.02
+6666-7: calls $0.02
+Elpharae: calls $0.01
+coopermanjo: checks 
+*** FLOP *** [Js 8s 7d]
+Elpharae: checks 
+coopermanjo: checks 
+franpalermo14: checks 
+Dorex2007: checks 
+luicchi79: checks 
+saspir: checks 
+6666-7: checks 
+*** TURN *** [Js 8s 7d] [5s]
+Elpharae: bets $0.11
+coopermanjo: folds 
+franpalermo14: folds 
+Dorex2007: folds 
+luicchi79: calls $0.11
+saspir: folds 
+6666-7: folds 
+*** RIVER *** [Js 8s 7d 5s] [Qd]
+Elpharae: bets $0.24
+luicchi79: folds 
+Uncalled bet ($0.24) returned to Elpharae
+Elpharae collected $0.36 from pot
+Elpharae: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Js 8s 7d 5s Qd]
+Seat 1: saspir folded on the Turn
+Seat 2: 6666-7 (button) folded on the Turn
+Seat 3: Elpharae (small blind) collected ($0.36)
+Seat 4: coopermanjo (big blind) folded on the Turn
+Seat 6: franpalermo14 folded on the Turn
+Seat 7: Dorex2007 folded on the Turn (didn't bet)
+Seat 8: luicchi79 folded on the River
+Seat 9: carretomoreira folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234430794859:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:14:49 PT [2022/02/27 14:14:49 ET]
+Table 'Hyperion II' 9-max Seat #3 is the button
+Seat 1: saspir ($2.33 in chips) 
+Seat 2: 6666-7 ($1.39 in chips) 
+Seat 3: Elpharae ($2.37 in chips) 
+Seat 4: coopermanjo ($1.98 in chips) 
+Seat 6: franpalermo14 ($3.14 in chips) 
+Seat 7: Dorex2007 ($2.98 in chips) 
+Seat 8: luicchi79 ($1.13 in chips) 
+Seat 9: carretomoreira ($1.77 in chips) 
+coopermanjo: posts small blind $0.01
+franpalermo14: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Td]
+Dorex2007: folds 
+luicchi79: calls $0.02
+carretomoreira: folds 
+saspir: calls $0.02
+6666-7: folds 
+Elpharae: folds 
+coopermanjo: raises $0.06 to $0.08
+franpalermo14: folds 
+luicchi79: folds 
+saspir: calls $0.06
+*** FLOP *** [Ks Kd 8s]
+coopermanjo: checks 
+saspir: checks 
+*** TURN *** [Ks Kd 8s] [4d]
+coopermanjo: checks 
+saspir: checks 
+*** RIVER *** [Ks Kd 8s 4d] [5s]
+coopermanjo: checks 
+saspir: checks 
+*** SHOW DOWN ***
+coopermanjo: shows [3h Js] (a pair of Kings)
+saspir: shows [5c 2c] (two pair, Kings and Fives)
+saspir collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Ks Kd 8s 4d 5s]
+Seat 1: saspir showed [5c 2c] and won ($0.19) with two pair, Kings and Fives
+Seat 2: 6666-7 folded before Flop (didn't bet)
+Seat 3: Elpharae (button) folded before Flop (didn't bet)
+Seat 4: coopermanjo (small blind) showed [3h Js] and lost with a pair of Kings
+Seat 6: franpalermo14 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: luicchi79 folded before Flop
+Seat 9: carretomoreira folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234430843447:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:16:13 PT [2022/02/27 14:16:13 ET]
+Table 'Hyperion II' 9-max Seat #4 is the button
+Seat 1: saspir ($2.44 in chips) 
+Seat 2: 6666-7 ($1.39 in chips) 
+Seat 3: Elpharae ($2.37 in chips) 
+Seat 4: coopermanjo ($1.90 in chips) 
+Seat 6: franpalermo14 ($3.12 in chips) 
+Seat 7: Dorex2007 ($2.98 in chips) 
+Seat 8: luicchi79 ($1.11 in chips) 
+Seat 9: carretomoreira ($1.77 in chips) 
+franpalermo14: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 5d]
+luicchi79: calls $0.02
+carretomoreira: folds 
+saspir: calls $0.02
+6666-7: calls $0.02
+Elpharae: folds 
+coopermanjo: folds 
+franpalermo14: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [Ks 9s Qs]
+franpalermo14: checks 
+Dorex2007: checks 
+luicchi79: checks 
+saspir: checks 
+6666-7: bets $0.04
+franpalermo14: calls $0.04
+Dorex2007: folds 
+luicchi79: calls $0.04
+saspir: folds 
+*** TURN *** [Ks 9s Qs] [Jh]
+franpalermo14: checks 
+luicchi79: bets $0.02
+6666-7: calls $0.02
+franpalermo14: calls $0.02
+*** RIVER *** [Ks 9s Qs Jh] [8d]
+franpalermo14: checks 
+luicchi79: bets $0.02
+6666-7: calls $0.02
+franpalermo14: raises $0.17 to $0.19
+luicchi79: folds 
+6666-7: folds 
+Uncalled bet ($0.17) returned to franpalermo14
+franpalermo14 collected $0.33 from pot
+franpalermo14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [Ks 9s Qs Jh 8d]
+Seat 1: saspir folded on the Flop
+Seat 2: 6666-7 folded on the River
+Seat 3: Elpharae folded before Flop (didn't bet)
+Seat 4: coopermanjo (button) folded before Flop (didn't bet)
+Seat 6: franpalermo14 (small blind) collected ($0.33)
+Seat 7: Dorex2007 (big blind) folded on the Flop
+Seat 8: luicchi79 folded on the River
+Seat 9: carretomoreira folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234430901938:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:17:43 PT [2022/02/27 14:17:43 ET]
+Table 'Hyperion II' 9-max Seat #6 is the button
+Seat 1: saspir ($2.42 in chips) 
+Seat 2: 6666-7 ($1.29 in chips) 
+Seat 3: Elpharae ($2.37 in chips) 
+Seat 4: coopermanjo ($1.90 in chips) 
+Seat 6: franpalermo14 ($3.35 in chips) 
+Seat 7: Dorex2007 ($2.96 in chips) 
+Seat 8: luicchi79 ($1.01 in chips) 
+Seat 9: carretomoreira ($1.77 in chips) 
+Dorex2007: posts small blind $0.01
+luicchi79: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 2c]
+carretomoreira has timed out
+carretomoreira: folds 
+saspir: calls $0.02
+6666-7: folds 
+Elpharae: folds 
+coopermanjo: folds 
+franpalermo14: folds 
+Dorex2007: folds 
+luicchi79: checks 
+*** FLOP *** [8s 6h 5d]
+luicchi79: checks 
+saspir: checks 
+*** TURN *** [8s 6h 5d] [Jh]
+luicchi79: checks 
+saspir: checks 
+*** RIVER *** [8s 6h 5d Jh] [Jc]
+luicchi79: checks 
+saspir: checks 
+*** SHOW DOWN ***
+luicchi79: shows [4h Kc] (a pair of Jacks)
+saspir: mucks hand 
+luicchi79 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8s 6h 5d Jh Jc]
+Seat 1: saspir mucked [9c 4c]
+Seat 2: 6666-7 folded before Flop (didn't bet)
+Seat 3: Elpharae folded before Flop (didn't bet)
+Seat 4: coopermanjo folded before Flop (didn't bet)
+Seat 6: franpalermo14 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: luicchi79 (big blind) showed [4h Kc] and won ($0.05) with a pair of Jacks
+Seat 9: carretomoreira folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234430938047:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:18:46 PT [2022/02/27 14:18:46 ET]
+Table 'Hyperion II' 9-max Seat #7 is the button
+Seat 1: saspir ($2.40 in chips) 
+Seat 2: 6666-7 ($1.29 in chips) 
+Seat 3: Elpharae ($2.37 in chips) 
+Seat 4: coopermanjo ($1.90 in chips) 
+Seat 6: franpalermo14 ($3.35 in chips) 
+Seat 7: Dorex2007 ($2.95 in chips) 
+Seat 8: luicchi79 ($1.04 in chips) 
+luicchi79: posts small blind $0.01
+saspir: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 7h]
+6666-7: folds 
+Elpharae: folds 
+coopermanjo: folds 
+franpalermo14: raises $0.02 to $0.04
+Dorex2007: folds 
+luicchi79: folds 
+saspir: calls $0.02
+*** FLOP *** [7s 3s 2s]
+saspir: checks 
+franpalermo14: bets $0.05
+saspir: calls $0.05
+*** TURN *** [7s 3s 2s] [9c]
+saspir: checks 
+franpalermo14: bets $0.12
+saspir: calls $0.12
+*** RIVER *** [7s 3s 2s 9c] [Td]
+saspir: checks 
+franpalermo14: bets $3.14 and is all-in
+saspir: folds 
+Uncalled bet ($3.14) returned to franpalermo14
+franpalermo14 collected $0.41 from pot
+franpalermo14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [7s 3s 2s 9c Td]
+Seat 1: saspir (big blind) folded on the River
+Seat 2: 6666-7 folded before Flop (didn't bet)
+Seat 3: Elpharae folded before Flop (didn't bet)
+Seat 4: coopermanjo folded before Flop (didn't bet)
+Seat 6: franpalermo14 collected ($0.41)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: luicchi79 (small blind) folded before Flop
+
+
+
+PokerStars Hand #234430987878:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:20:11 PT [2022/02/27 14:20:11 ET]
+Table 'Hyperion II' 9-max Seat #8 is the button
+Seat 1: saspir ($2.19 in chips) 
+Seat 2: 6666-7 ($1.29 in chips) 
+Seat 3: Elpharae ($2.37 in chips) 
+Seat 4: coopermanjo ($1.90 in chips) 
+Seat 6: franpalermo14 ($3.55 in chips) 
+Seat 7: Dorex2007 ($2.95 in chips) 
+Seat 8: luicchi79 ($1.03 in chips) 
+saspir: posts small blind $0.01
+6666-7: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 5h]
+Elpharae: folds 
+coopermanjo: raises $0.03 to $0.05
+franpalermo14: calls $0.05
+Dorex2007: folds 
+luicchi79: folds 
+saspir: calls $0.04
+6666-7: folds 
+*** FLOP *** [2s 7c 5c]
+saspir: checks 
+coopermanjo: checks 
+franpalermo14: checks 
+*** TURN *** [2s 7c 5c] [Qh]
+saspir: checks 
+coopermanjo: checks 
+franpalermo14: checks 
+*** RIVER *** [2s 7c 5c Qh] [Js]
+saspir: checks 
+coopermanjo: checks 
+franpalermo14: bets $0.08
+saspir: folds 
+coopermanjo: raises $0.24 to $0.32
+franpalermo14: calls $0.24
+*** SHOW DOWN ***
+coopermanjo: shows [Ks Jd] (a pair of Jacks)
+franpalermo14: shows [Jh Qc] (two pair, Queens and Jacks)
+franpalermo14 collected $0.78 from pot
+*** SUMMARY ***
+Total pot $0.81 | Rake $0.03 
+Board [2s 7c 5c Qh Js]
+Seat 1: saspir (small blind) folded on the River
+Seat 2: 6666-7 (big blind) folded before Flop
+Seat 3: Elpharae folded before Flop (didn't bet)
+Seat 4: coopermanjo showed [Ks Jd] and lost with a pair of Jacks
+Seat 6: franpalermo14 showed [Jh Qc] and won ($0.78) with two pair, Queens and Jacks
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: luicchi79 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234431023916:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:21:13 PT [2022/02/27 14:21:13 ET]
+Table 'Hyperion II' 9-max Seat #1 is the button
+Seat 1: saspir ($2.14 in chips) 
+Seat 2: 6666-7 ($1.27 in chips) 
+Seat 3: Elpharae ($2.37 in chips) 
+Seat 4: coopermanjo ($1.53 in chips) 
+Seat 6: franpalermo14 ($3.96 in chips) 
+Seat 7: Dorex2007 ($2.95 in chips) 
+Seat 8: luicchi79 ($1.03 in chips) 
+Seat 9: carretomoreira ($1.77 in chips) 
+6666-7: posts small blind $0.01
+Elpharae: posts big blind $0.02
+carretomoreira: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 5h]
+coopermanjo: folds 
+franpalermo14: calls $0.02
+Dorex2007: folds 
+luicchi79: folds 
+carretomoreira: checks 
+saspir: calls $0.02
+6666-7: calls $0.01
+Elpharae: checks 
+*** FLOP *** [As 4s Ad]
+6666-7: checks 
+luicchi79 leaves the table
+tondy88 joins the table at seat #8 
+Elpharae: checks 
+franpalermo14: checks 
+carretomoreira: checks 
+saspir: checks 
+*** TURN *** [As 4s Ad] [Ah]
+6666-7: checks 
+Elpharae: checks 
+franpalermo14: checks 
+carretomoreira: checks 
+saspir: checks 
+*** RIVER *** [As 4s Ad Ah] [6h]
+6666-7: bets $0.02
+Elpharae: folds 
+franpalermo14: folds 
+carretomoreira: folds 
+saspir: folds 
+Uncalled bet ($0.02) returned to 6666-7
+6666-7 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [As 4s Ad Ah 6h]
+Seat 1: saspir (button) folded on the River
+Seat 2: 6666-7 (small blind) collected ($0.11)
+Seat 3: Elpharae (big blind) folded on the River
+Seat 4: coopermanjo folded before Flop (didn't bet)
+Seat 6: franpalermo14 folded on the River
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: luicchi79 folded before Flop (didn't bet)
+Seat 9: carretomoreira folded on the River (didn't bet)
+
+
+
+PokerStars Hand #234431084785:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:22:58 PT [2022/02/27 14:22:58 ET]
+Table 'Hyperion II' 9-max Seat #2 is the button
+Seat 1: saspir ($2.12 in chips) 
+Seat 2: 6666-7 ($1.36 in chips) 
+Seat 3: Elpharae ($2.35 in chips) 
+Seat 4: coopermanjo ($1.53 in chips) 
+Seat 6: franpalermo14 ($3.94 in chips) 
+Seat 7: Dorex2007 ($2.95 in chips) 
+Seat 9: carretomoreira ($1.74 in chips) 
+Elpharae: posts small blind $0.01
+coopermanjo: posts big blind $0.02
+tondy88: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 6h]
+franpalermo14: folds 
+Dorex2007: folds 
+carretomoreira: folds 
+saspir: calls $0.02
+6666-7: folds 
+Elpharae: calls $0.01
+coopermanjo: checks 
+*** FLOP *** [Jd 2c 4d]
+Elpharae: checks 
+coopermanjo: checks 
+saspir: checks 
+*** TURN *** [Jd 2c 4d] [Js]
+Elpharae: checks 
+coopermanjo: checks 
+saspir: bets $0.02
+Elpharae: folds 
+coopermanjo: folds 
+Uncalled bet ($0.02) returned to saspir
+saspir collected $0.06 from pot
+saspir: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Jd 2c 4d Js]
+Seat 1: saspir collected ($0.06)
+Seat 2: 6666-7 (button) folded before Flop (didn't bet)
+Seat 3: Elpharae (small blind) folded on the Turn
+Seat 4: coopermanjo (big blind) folded on the Turn
+Seat 6: franpalermo14 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: carretomoreira folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234431113510:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:23:48 PT [2022/02/27 14:23:48 ET]
+Table 'Hyperion II' 9-max Seat #3 is the button
+Seat 1: saspir ($2.16 in chips) 
+Seat 2: 6666-7 ($1.36 in chips) 
+Seat 3: Elpharae ($2.33 in chips) 
+Seat 4: coopermanjo ($1.51 in chips) 
+Seat 6: franpalermo14 ($3.94 in chips) 
+Seat 7: Dorex2007 ($2.95 in chips) 
+Seat 9: carretomoreira ($1.74 in chips) 
+coopermanjo: posts small blind $0.01
+franpalermo14: posts big blind $0.02
+tondy88: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c Kh]
+Dorex2007: folds 
+carretomoreira: calls $0.02
+saspir: calls $0.02
+6666-7: calls $0.02
+Elpharae: folds 
+coopermanjo: raises $0.06 to $0.08
+franpalermo14: folds 
+carretomoreira: folds 
+saspir: folds 
+6666-7: calls $0.06
+*** FLOP *** [9s 7c 4d]
+coopermanjo: bets $0.16
+6666-7: raises $1.12 to $1.28 and is all-in
+coopermanjo: folds 
+Uncalled bet ($1.12) returned to 6666-7
+6666-7 collected $0.52 from pot
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [9s 7c 4d]
+Seat 1: saspir folded before Flop
+Seat 2: 6666-7 collected ($0.52)
+Seat 3: Elpharae (button) folded before Flop (didn't bet)
+Seat 4: coopermanjo (small blind) folded on the Flop
+Seat 6: franpalermo14 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: carretomoreira folded before Flop
+
+
+
+PokerStars Hand #234431144045:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:24:41 PT [2022/02/27 14:24:41 ET]
+Table 'Hyperion II' 9-max Seat #4 is the button
+Seat 1: saspir ($2.14 in chips) 
+Seat 2: 6666-7 ($1.64 in chips) 
+Seat 3: Elpharae ($2.33 in chips) 
+Seat 4: coopermanjo ($1.27 in chips) 
+Seat 6: franpalermo14 ($3.92 in chips) 
+Seat 7: Dorex2007 ($2.95 in chips) 
+Seat 9: carretomoreira ($1.72 in chips) 
+franpalermo14: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+tondy88: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 9s]
+carretomoreira: calls $0.02
+saspir: calls $0.02
+6666-7: raises $0.08 to $0.10
+Elpharae: folds 
+coopermanjo: raises $1.17 to $1.27 and is all-in
+franpalermo14: folds 
+Dorex2007: folds 
+carretomoreira: folds 
+saspir: calls $1.25
+6666-7: raises $0.37 to $1.64 and is all-in
+saspir: calls $0.37
+saspir has timed out
+*** FLOP *** [2d Td 6s]
+*** TURN *** [2d Td 6s] [4c]
+*** RIVER *** [2d Td 6s 4c] [Qs]
+*** SHOW DOWN ***
+saspir: shows [3h Qh] (a pair of Queens)
+6666-7: shows [As Ks] (high card Ace)
+saspir collected $0.72 from side pot
+coopermanjo: shows [7c 7s] (a pair of Sevens)
+saspir collected $3.72 from main pot
+*** SUMMARY ***
+Total pot $4.60 Main pot $3.72. Side pot $0.72. | Rake $0.16 
+Board [2d Td 6s 4c Qs]
+Seat 1: saspir showed [3h Qh] and won ($4.44) with a pair of Queens
+Seat 2: 6666-7 showed [As Ks] and lost with high card Ace
+Seat 3: Elpharae folded before Flop (didn't bet)
+Seat 4: coopermanjo (button) showed [7c 7s] and lost with a pair of Sevens
+Seat 6: franpalermo14 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 9: carretomoreira folded before Flop
+
+
+
+PokerStars Hand #234431478761:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:34:10 PT [2022/02/27 14:34:10 ET]
+Table 'Hyperion II' 9-max Seat #8 is the button
+Seat 2: Nicko0077 ($2.11 in chips) 
+Seat 3: Elpharae ($2.30 in chips) 
+Seat 5: Seb4Flush ($6.60 in chips) 
+Seat 6: franpalermo14 ($4 in chips) 
+Seat 7: Dorex2007 ($2.93 in chips) 
+Seat 8: tondy88 ($2 in chips) 
+Seat 9: carretomoreira ($2.01 in chips) 
+carretomoreira: posts small blind $0.01
+Nicko0077: posts big blind $0.02
+Kawaii4ik: sits out 
+Dorex2007: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Ah]
+Elpharae: folds 
+Seb4Flush: folds 
+franpalermo14: folds 
+Dorex2007: raises $0.02 to $0.04
+tondy88: folds 
+carretomoreira: folds 
+Nicko0077: calls $0.02
+*** FLOP *** [5d 2d Ts]
+Nicko0077: checks 
+Dorex2007: bets $0.20
+Nicko0077: folds 
+Uncalled bet ($0.20) returned to Dorex2007
+Dorex2007 collected $0.10 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [5d 2d Ts]
+Seat 2: Nicko0077 (big blind) folded on the Flop
+Seat 3: Elpharae folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: franpalermo14 folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.10)
+Seat 8: tondy88 (button) folded before Flop (didn't bet)
+Seat 9: carretomoreira (small blind) folded before Flop
+
+
+
+PokerStars Hand #234431502571:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:34:51 PT [2022/02/27 14:34:51 ET]
+Table 'Hyperion II' 9-max Seat #9 is the button
+Seat 2: Nicko0077 ($2.07 in chips) 
+Seat 3: Elpharae ($2.30 in chips) 
+Seat 5: Seb4Flush ($6.60 in chips) 
+Seat 6: franpalermo14 ($4 in chips) 
+Seat 7: Dorex2007 ($2.98 in chips) 
+Seat 8: tondy88 ($2 in chips) 
+Seat 9: carretomoreira ($2 in chips) 
+Nicko0077: posts small blind $0.01
+Elpharae: posts big blind $0.02
+Kawaii4ik: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Ac]
+Seb4Flush: folds 
+franpalermo14: folds 
+Dorex2007: folds 
+tondy88: raises $0.04 to $0.06
+carretomoreira: folds 
+Nicko0077: folds 
+Elpharae: calls $0.04
+*** FLOP *** [8s 8h 2h]
+Elpharae: checks 
+tondy88: bets $0.09
+Elpharae: folds 
+Uncalled bet ($0.09) returned to tondy88
+tondy88 collected $0.13 from pot
+tondy88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8s 8h 2h]
+Seat 2: Nicko0077 (small blind) folded before Flop
+Seat 3: Elpharae (big blind) folded on the Flop
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: franpalermo14 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tondy88 collected ($0.13)
+Seat 9: carretomoreira (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234431534819:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:35:46 PT [2022/02/27 14:35:46 ET]
+Table 'Hyperion II' 9-max Seat #2 is the button
+Seat 2: Nicko0077 ($2.06 in chips) 
+Seat 3: Elpharae ($2.24 in chips) 
+Seat 4: Kawaii4ik ($0.80 in chips) 
+Seat 5: Seb4Flush ($6.60 in chips) 
+Seat 6: franpalermo14 ($4 in chips) 
+Seat 7: Dorex2007 ($2.98 in chips) 
+Seat 8: tondy88 ($2.07 in chips) 
+Seat 9: carretomoreira ($2 in chips) 
+Elpharae: posts small blind $0.01
+Kawaii4ik: posts big blind $0.02
+saspir: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 8c]
+Seb4Flush has timed out
+Seb4Flush: folds 
+franpalermo14: calls $0.02
+Dorex2007: folds 
+tondy88: folds 
+carretomoreira: calls $0.02
+Nicko0077 has timed out
+Nicko0077: folds 
+Elpharae: calls $0.01
+Kawaii4ik: checks 
+*** FLOP *** [Ac 8d 3c]
+Elpharae: checks 
+Kawaii4ik: checks 
+franpalermo14: checks 
+carretomoreira: checks 
+*** TURN *** [Ac 8d 3c] [6c]
+Elpharae: bets $0.06
+Kawaii4ik: folds 
+franpalermo14: folds 
+carretomoreira: raises $0.06 to $0.12
+Elpharae: calls $0.06
+*** RIVER *** [Ac 8d 3c 6c] [Qh]
+Elpharae: checks 
+carretomoreira: bets $0.14
+franpalermo14 leaves the table
+Dragut-Reis joins the table at seat #6 
+Elpharae: folds 
+Uncalled bet ($0.14) returned to carretomoreira
+carretomoreira collected $0.31 from pot
+carretomoreira: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Ac 8d 3c 6c Qh]
+Seat 2: Nicko0077 (button) folded before Flop (didn't bet)
+Seat 3: Elpharae (small blind) folded on the River
+Seat 4: Kawaii4ik (big blind) folded on the Turn
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: franpalermo14 folded on the Turn
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tondy88 folded before Flop (didn't bet)
+Seat 9: carretomoreira collected ($0.31)
+
+
+
+PokerStars Hand #234431601832:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:37:40 PT [2022/02/27 14:37:40 ET]
+Table 'Hyperion II' 9-max Seat #3 is the button
+Seat 2: Nicko0077 ($2.06 in chips) 
+Seat 3: Elpharae ($2.10 in chips) 
+Seat 4: Kawaii4ik ($0.78 in chips) 
+Seat 5: Seb4Flush ($6.60 in chips) 
+Seat 7: Dorex2007 ($2.98 in chips) 
+Seat 8: tondy88 ($2.07 in chips) 
+Seat 9: carretomoreira ($2.17 in chips) 
+Kawaii4ik: posts small blind $0.01
+Seb4Flush: posts big blind $0.02
+Dragut-Reis: sits out 
+saspir: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 3d]
+Dorex2007: folds 
+tondy88: raises $0.04 to $0.06
+carretomoreira: calls $0.06
+Nicko0077: folds 
+Elpharae: folds 
+Kawaii4ik: folds 
+Seb4Flush: calls $0.04
+*** FLOP *** [Kh 6c 5d]
+Seb4Flush: checks 
+tondy88: bets $0.13
+carretomoreira: folds 
+Seb4Flush: folds 
+Uncalled bet ($0.13) returned to tondy88
+tondy88 collected $0.18 from pot
+tondy88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Kh 6c 5d]
+Seat 2: Nicko0077 folded before Flop (didn't bet)
+Seat 3: Elpharae (button) folded before Flop (didn't bet)
+Seat 4: Kawaii4ik (small blind) folded before Flop
+Seat 5: Seb4Flush (big blind) folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tondy88 collected ($0.18)
+Seat 9: carretomoreira folded on the Flop
+
+
+
+PokerStars Hand #234431625071:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:38:19 PT [2022/02/27 14:38:19 ET]
+Table 'Hyperion II' 9-max Seat #4 is the button
+Seat 2: Nicko0077 ($2.06 in chips) 
+Seat 3: Elpharae ($2.10 in chips) 
+Seat 4: Kawaii4ik ($0.77 in chips) 
+Seat 5: Seb4Flush ($6.54 in chips) 
+Seat 6: Dragut-Reis ($2 in chips) 
+Seat 7: Dorex2007 ($2.98 in chips) 
+Seat 8: tondy88 ($2.19 in chips) 
+Seat 9: carretomoreira ($2.11 in chips) 
+Seb4Flush: posts small blind $0.01
+Dragut-Reis: posts big blind $0.02
+saspir: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 2d]
+Dorex2007: folds 
+tondy88: folds 
+carretomoreira: folds 
+Nicko0077: raises $0.02 to $0.04
+Elpharae: folds 
+Kawaii4ik: folds 
+Seb4Flush: folds 
+Dragut-Reis: raises $0.08 to $0.12
+Elpharae leaves the table
+Nicko0077: calls $0.08
+*** FLOP *** [9c Qc 8d]
+Dragut-Reis: bets $0.36
+Nicko0077: folds 
+Uncalled bet ($0.36) returned to Dragut-Reis
+Dragut-Reis collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9c Qc 8d]
+Seat 2: Nicko0077 folded on the Flop
+Seat 3: Elpharae folded before Flop (didn't bet)
+Seat 4: Kawaii4ik (button) folded before Flop (didn't bet)
+Seat 5: Seb4Flush (small blind) folded before Flop
+Seat 6: Dragut-Reis (big blind) collected ($0.24)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tondy88 folded before Flop (didn't bet)
+Seat 9: carretomoreira folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234431647461:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:38:57 PT [2022/02/27 14:38:57 ET]
+Table 'Hyperion II' 9-max Seat #5 is the button
+Seat 2: Nicko0077 ($1.94 in chips) 
+Seat 4: Kawaii4ik ($0.77 in chips) 
+Seat 5: Seb4Flush ($6.53 in chips) 
+Seat 6: Dragut-Reis ($2.12 in chips) 
+Seat 7: Dorex2007 ($2.98 in chips) 
+Seat 8: tondy88 ($2.19 in chips) 
+Seat 9: carretomoreira ($2.11 in chips) 
+Dragut-Reis: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+saspir: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 2h]
+tondy88: folds 
+carretomoreira: calls $0.02
+Nicko0077: raises $0.02 to $0.04
+Kawaii4ik: folds 
+Seb4Flush: folds 
+Dragut-Reis: folds 
+Dorex2007: folds 
+carretomoreira: calls $0.02
+*** FLOP *** [Ad Td Qd]
+carretomoreira: checks 
+Nicko0077: bets $0.14
+kiku84 joins the table at seat #3 
+carretomoreira: folds 
+Uncalled bet ($0.14) returned to Nicko0077
+Nicko0077 collected $0.11 from pot
+Nicko0077: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Ad Td Qd]
+Seat 2: Nicko0077 collected ($0.11)
+Seat 4: Kawaii4ik folded before Flop (didn't bet)
+Seat 5: Seb4Flush (button) folded before Flop (didn't bet)
+Seat 6: Dragut-Reis (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: tondy88 folded before Flop (didn't bet)
+Seat 9: carretomoreira folded on the Flop
+
+
+
+PokerStars Hand #234431668559:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:39:31 PT [2022/02/27 14:39:31 ET]
+Table 'Hyperion II' 9-max Seat #6 is the button
+Seat 1: saspir ($4.48 in chips) 
+Seat 2: Nicko0077 ($2.01 in chips) 
+Seat 3: kiku84 ($2 in chips) 
+Seat 4: Kawaii4ik ($0.77 in chips) 
+Seat 5: Seb4Flush ($6.53 in chips) 
+Seat 6: Dragut-Reis ($2.11 in chips) 
+Seat 7: Dorex2007 ($2.96 in chips) 
+Seat 8: tondy88 ($2.19 in chips) 
+Seat 9: carretomoreira ($2.07 in chips) 
+Dorex2007: posts small blind $0.01
+tondy88: posts big blind $0.02
+saspir: posts small & big blinds $0.03
+kiku84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Qs]
+carretomoreira: folds 
+saspir: raises $0.02 to $0.04
+Nicko0077: folds 
+kiku84: calls $0.02
+Kawaii4ik: folds 
+Seb4Flush: folds 
+Dragut-Reis: folds 
+Dorex2007: folds 
+tondy88: folds 
+*** FLOP *** [Js 7d Ah]
+saspir: bets $0.02
+kiku84: folds 
+Uncalled bet ($0.02) returned to saspir
+saspir collected $0.12 from pot
+saspir: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Js 7d Ah]
+Seat 1: saspir collected ($0.12)
+Seat 2: Nicko0077 folded before Flop (didn't bet)
+Seat 3: kiku84 folded on the Flop
+Seat 4: Kawaii4ik folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: Dragut-Reis (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: tondy88 (big blind) folded before Flop
+Seat 9: carretomoreira folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234431690838:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:40:09 PT [2022/02/27 14:40:09 ET]
+Table 'Hyperion II' 9-max Seat #7 is the button
+Seat 1: saspir ($4.55 in chips) 
+Seat 2: Nicko0077 ($2.01 in chips) 
+Seat 3: kiku84 ($1.96 in chips) 
+Seat 4: Kawaii4ik ($0.77 in chips) 
+Seat 5: Seb4Flush ($6.53 in chips) 
+Seat 6: Dragut-Reis ($2.11 in chips) 
+Seat 7: Dorex2007 ($2.95 in chips) 
+Seat 8: tondy88 ($2.17 in chips) 
+Seat 9: carretomoreira ($2.07 in chips) 
+tondy88: posts small blind $0.01
+carretomoreira: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Qh]
+saspir: calls $0.02
+Nicko0077: raises $0.02 to $0.04
+kiku84: folds 
+Kawaii4ik: folds 
+Seb4Flush: folds 
+Dragut-Reis: folds 
+Dorex2007: folds 
+tondy88: folds 
+carretomoreira: folds 
+saspir: calls $0.02
+*** FLOP *** [5h 3c Th]
+saspir: bets $0.02
+Nicko0077: raises $0.02 to $0.04
+saspir: calls $0.02
+*** TURN *** [5h 3c Th] [Qs]
+saspir: checks 
+Nicko0077: bets $0.06
+saspir: calls $0.06
+*** RIVER *** [5h 3c Th Qs] [4s]
+saspir: bets $0.15
+Nicko0077: folds 
+Uncalled bet ($0.15) returned to saspir
+saspir collected $0.30 from pot
+saspir: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [5h 3c Th Qs 4s]
+Seat 1: saspir collected ($0.30)
+Seat 2: Nicko0077 folded on the River
+Seat 3: kiku84 folded before Flop (didn't bet)
+Seat 4: Kawaii4ik folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: Dragut-Reis folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: tondy88 (small blind) folded before Flop
+Seat 9: carretomoreira (big blind) folded before Flop
+
+
+
+PokerStars Hand #234431736580:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:41:26 PT [2022/02/27 14:41:26 ET]
+Table 'Hyperion II' 9-max Seat #8 is the button
+Seat 1: saspir ($4.71 in chips) 
+Seat 2: Nicko0077 ($1.87 in chips) 
+Seat 3: kiku84 ($1.96 in chips) 
+Seat 4: Kawaii4ik ($0.77 in chips) 
+Seat 5: Seb4Flush ($6.53 in chips) 
+Seat 6: Dragut-Reis ($2.11 in chips) 
+Seat 7: Dorex2007 ($2.95 in chips) 
+Seat 8: tondy88 ($2.16 in chips) 
+Seat 9: carretomoreira ($2.05 in chips) 
+carretomoreira: posts small blind $0.01
+saspir: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 8c]
+Nicko0077: folds 
+kiku84: folds 
+Kawaii4ik: folds 
+Seb4Flush: folds 
+Dragut-Reis: folds 
+Dorex2007: raises $0.02 to $0.04
+tondy88: folds 
+carretomoreira: calls $0.03
+saspir: calls $0.02
+*** FLOP *** [5s 6d 5c]
+carretomoreira: checks 
+saspir: bets $0.02
+Dorex2007: calls $0.02
+carretomoreira: folds 
+*** TURN *** [5s 6d 5c] [7c]
+saspir: bets $0.02
+Dorex2007: calls $0.02
+*** RIVER *** [5s 6d 5c 7c] [3c]
+saspir: bets $0.02
+Dorex2007: raises $0.12 to $0.14
+saspir: folds 
+Uncalled bet ($0.12) returned to Dorex2007
+Dorex2007 collected $0.23 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [5s 6d 5c 7c 3c]
+Seat 1: saspir (big blind) folded on the River
+Seat 2: Nicko0077 folded before Flop (didn't bet)
+Seat 3: kiku84 folded before Flop (didn't bet)
+Seat 4: Kawaii4ik folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: Dragut-Reis folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.23)
+Seat 8: tondy88 (button) folded before Flop (didn't bet)
+Seat 9: carretomoreira (small blind) folded on the Flop
+
+
+
+PokerStars Hand #234431790343:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:42:57 PT [2022/02/27 14:42:57 ET]
+Table 'Hyperion II' 9-max Seat #9 is the button
+Seat 1: saspir ($4.61 in chips) 
+Seat 2: Nicko0077 ($1.87 in chips) 
+Seat 3: kiku84 ($1.96 in chips) 
+Seat 4: Kawaii4ik ($0.77 in chips) 
+Seat 5: Seb4Flush ($6.53 in chips) 
+Seat 6: Dragut-Reis ($2.11 in chips) 
+Seat 7: Dorex2007 ($3.08 in chips) 
+Seat 8: tondy88 ($2.16 in chips) 
+Seat 9: carretomoreira ($2.01 in chips) 
+saspir: posts small blind $0.01
+Nicko0077: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 3d]
+kiku84: calls $0.02
+Kawaii4ik: folds 
+Seb4Flush: folds 
+Dragut-Reis: folds 
+Dorex2007: folds 
+tondy88: folds 
+carretomoreira: folds 
+saspir: calls $0.01
+Nicko0077: raises $0.02 to $0.04
+kiku84: calls $0.02
+saspir: calls $0.02
+*** FLOP *** [2d Js 8c]
+saspir: bets $0.02
+Nicko0077: folds 
+kiku84: folds 
+Uncalled bet ($0.02) returned to saspir
+saspir collected $0.12 from pot
+saspir: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [2d Js 8c]
+Seat 1: saspir (small blind) collected ($0.12)
+Seat 2: Nicko0077 (big blind) folded on the Flop
+Seat 3: kiku84 folded on the Flop
+Seat 4: Kawaii4ik folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: Dragut-Reis folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tondy88 folded before Flop (didn't bet)
+Seat 9: carretomoreira (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234431831838:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:43:51 PT [2022/02/27 14:43:51 ET]
+Table 'Hyperion II' 9-max Seat #1 is the button
+Seat 1: saspir ($4.69 in chips) 
+Seat 2: Nicko0077 ($1.83 in chips) 
+Seat 3: kiku84 ($1.92 in chips) 
+Seat 4: Kawaii4ik ($0.77 in chips) 
+Seat 5: Seb4Flush ($6.53 in chips) 
+Seat 6: Dragut-Reis ($2.11 in chips) 
+Seat 7: Dorex2007 ($3.08 in chips) 
+Seat 8: tondy88 ($2.16 in chips) 
+Seat 9: carretomoreira ($2.01 in chips) 
+Nicko0077: posts small blind $0.01
+kiku84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 3s]
+Kawaii4ik: folds 
+Seb4Flush: folds 
+Dragut-Reis: folds 
+Dorex2007: folds 
+tondy88: folds 
+carretomoreira: calls $0.02
+saspir: calls $0.02
+Nicko0077: raises $0.02 to $0.04
+kiku84: folds 
+carretomoreira: raises $0.02 to $0.06
+saspir: calls $0.04
+Nicko0077: calls $0.02
+*** FLOP *** [Js 7d 6d]
+Nicko0077: bets $0.06
+carretomoreira: raises $0.06 to $0.12
+saspir: folds 
+Nicko0077: calls $0.06
+*** TURN *** [Js 7d 6d] [Kc]
+Nicko0077: bets $0.02
+carretomoreira: calls $0.02
+*** RIVER *** [Js 7d 6d Kc] [4d]
+Nicko0077: bets $0.06
+carretomoreira: calls $0.06
+*** SHOW DOWN ***
+Nicko0077: shows [8s 7h] (a pair of Sevens)
+carretomoreira: shows [Jh Ah] (a pair of Jacks)
+carretomoreira collected $0.58 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [Js 7d 6d Kc 4d]
+Seat 1: saspir (button) folded on the Flop
+Seat 2: Nicko0077 (small blind) showed [8s 7h] and lost with a pair of Sevens
+Seat 3: kiku84 (big blind) folded before Flop
+Seat 4: Kawaii4ik folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: Dragut-Reis folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tondy88 folded before Flop (didn't bet)
+Seat 9: carretomoreira showed [Jh Ah] and won ($0.58) with a pair of Jacks
+
+
+
+PokerStars Hand #234431881983:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:45:16 PT [2022/02/27 14:45:16 ET]
+Table 'Hyperion II' 9-max Seat #2 is the button
+Seat 1: saspir ($4.63 in chips) 
+Seat 2: Nicko0077 ($1.57 in chips) 
+Seat 3: kiku84 ($1.90 in chips) 
+Seat 4: Kawaii4ik ($0.77 in chips) 
+Seat 5: Seb4Flush ($6.53 in chips) 
+Seat 6: Dragut-Reis ($2.11 in chips) 
+Seat 7: Dorex2007 ($3.08 in chips) 
+Seat 8: tondy88 ($2.16 in chips) 
+Seat 9: carretomoreira ($2.33 in chips) 
+kiku84: posts small blind $0.01
+Kawaii4ik: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 4c]
+Seb4Flush: folds 
+Dragut-Reis: folds 
+Dorex2007: folds 
+tondy88: folds 
+carretomoreira: calls $0.02
+saspir: calls $0.02
+Nicko0077: raises $0.04 to $0.06
+kiku84: folds 
+Kawaii4ik: folds 
+carretomoreira: folds 
+saspir: calls $0.04
+*** FLOP *** [Jc 3c 8h]
+saspir: bets $0.02
+Nicko0077: calls $0.02
+*** TURN *** [Jc 3c 8h] [9d]
+saspir: bets $0.02
+Nicko0077: calls $0.02
+*** RIVER *** [Jc 3c 8h 9d] [4d]
+saspir: bets $0.02
+Nicko0077: raises $0.14 to $0.16
+saspir: raises $0.14 to $0.30
+Nicko0077: folds 
+Uncalled bet ($0.14) returned to saspir
+saspir collected $0.55 from pot
+saspir: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [Jc 3c 8h 9d 4d]
+Seat 1: saspir collected ($0.55)
+Seat 2: Nicko0077 (button) folded on the River
+Seat 3: kiku84 (small blind) folded before Flop
+Seat 4: Kawaii4ik (big blind) folded before Flop
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: Dragut-Reis folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tondy88 folded before Flop (didn't bet)
+Seat 9: carretomoreira folded before Flop
+
+
+
+PokerStars Hand #234431933169:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:46:37 PT [2022/02/27 14:46:37 ET]
+Table 'Hyperion II' 9-max Seat #3 is the button
+Seat 1: saspir ($4.92 in chips) 
+Seat 2: Nicko0077 ($1.31 in chips) 
+Seat 3: kiku84 ($1.89 in chips) 
+Seat 4: Kawaii4ik ($0.75 in chips) 
+Seat 5: Seb4Flush ($6.53 in chips) 
+Seat 6: Dragut-Reis ($2.11 in chips) 
+Seat 7: Dorex2007 ($3.08 in chips) 
+Seat 8: tondy88 ($2.16 in chips) 
+Seat 9: carretomoreira ($2.31 in chips) 
+Kawaii4ik: posts small blind $0.01
+Seb4Flush: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Js]
+Dragut-Reis: folds 
+Dorex2007: folds 
+tondy88: raises $0.04 to $0.06
+carretomoreira: calls $0.06
+saspir: calls $0.06
+Nicko0077: folds 
+kiku84: calls $0.06
+Kawaii4ik: folds 
+Seb4Flush: calls $0.04
+*** FLOP *** [5h Th 4h]
+Seb4Flush: checks 
+tondy88: checks 
+carretomoreira: checks 
+saspir: checks 
+kiku84: checks 
+*** TURN *** [5h Th 4h] [3c]
+Seb4Flush: checks 
+tondy88: checks 
+carretomoreira: checks 
+saspir: checks 
+kiku84: bets $0.06
+Seb4Flush: calls $0.06
+tondy88: calls $0.06
+carretomoreira: folds 
+saspir: calls $0.06
+*** RIVER *** [5h Th 4h 3c] [Kc]
+Seb4Flush: checks 
+tondy88: checks 
+saspir: checks 
+kiku84: checks 
+*** SHOW DOWN ***
+Seb4Flush: shows [5s Ad] (a pair of Fives)
+tondy88: shows [8h 8s] (a pair of Eights)
+saspir: mucks hand 
+kiku84: mucks hand 
+tondy88 collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [5h Th 4h 3c Kc]
+Seat 1: saspir mucked [7c 3s]
+Seat 2: Nicko0077 folded before Flop (didn't bet)
+Seat 3: kiku84 (button) mucked [6d 5d]
+Seat 4: Kawaii4ik (small blind) folded before Flop
+Seat 5: Seb4Flush (big blind) showed [5s Ad] and lost with a pair of Fives
+Seat 6: Dragut-Reis folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tondy88 showed [8h 8s] and won ($0.53) with a pair of Eights
+Seat 9: carretomoreira folded on the Turn
+
+
+
+PokerStars Hand #234431977607:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:47:53 PT [2022/02/27 14:47:53 ET]
+Table 'Hyperion II' 9-max Seat #4 is the button
+Seat 1: saspir ($4.80 in chips) 
+Seat 2: Nicko0077 ($1.31 in chips) 
+Seat 3: kiku84 ($1.77 in chips) 
+Seat 4: Kawaii4ik ($0.74 in chips) 
+Seat 5: Seb4Flush ($6.41 in chips) 
+Seat 6: Dragut-Reis ($2.11 in chips) 
+Seat 7: Dorex2007 ($3.08 in chips) 
+Seat 8: tondy88 ($2.57 in chips) 
+Seat 9: carretomoreira ($2.25 in chips) 
+Seb4Flush: posts small blind $0.01
+Dragut-Reis: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 4h]
+Dorex2007: folds 
+tondy88: folds 
+carretomoreira: calls $0.02
+saspir: calls $0.02
+Nicko0077: calls $0.02
+kiku84: calls $0.02
+Kawaii4ik: calls $0.02
+Seb4Flush: calls $0.01
+Dragut-Reis: checks 
+*** FLOP *** [6c 8d Ad]
+Seb4Flush: checks 
+Dragut-Reis: checks 
+carretomoreira: checks 
+saspir: bets $0.02
+Nicko0077: calls $0.02
+kiku84: folds 
+Kawaii4ik: raises $0.20 to $0.22
+Seb4Flush: folds 
+Dragut-Reis: folds 
+carretomoreira: folds 
+saspir: folds 
+Nicko0077: folds 
+Uncalled bet ($0.20) returned to Kawaii4ik
+Kawaii4ik collected $0.19 from pot
+Kawaii4ik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [6c 8d Ad]
+Seat 1: saspir folded on the Flop
+Seat 2: Nicko0077 folded on the Flop
+Seat 3: kiku84 folded on the Flop
+Seat 4: Kawaii4ik (button) collected ($0.19)
+Seat 5: Seb4Flush (small blind) folded on the Flop
+Seat 6: Dragut-Reis (big blind) folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tondy88 folded before Flop (didn't bet)
+Seat 9: carretomoreira folded on the Flop
+
+
+
+PokerStars Hand #234432032043:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:49:26 PT [2022/02/27 14:49:26 ET]
+Table 'Hyperion II' 9-max Seat #5 is the button
+Seat 1: saspir ($4.76 in chips) 
+Seat 2: Nicko0077 ($1.27 in chips) 
+Seat 3: kiku84 ($1.75 in chips) 
+Seat 4: Kawaii4ik ($0.89 in chips) 
+Seat 5: Seb4Flush ($6.39 in chips) 
+Seat 6: Dragut-Reis ($2.09 in chips) 
+Seat 7: Dorex2007 ($3.08 in chips) 
+Seat 8: tondy88 ($2.57 in chips) 
+Seat 9: carretomoreira ($2.23 in chips) 
+Dragut-Reis: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 8d]
+tondy88: folds 
+carretomoreira: folds 
+saspir: calls $0.02
+Nicko0077: calls $0.02
+kiku84: calls $0.02
+Kawaii4ik: folds 
+Seb4Flush: raises $0.11 to $0.13
+Dragut-Reis: folds 
+Dorex2007: folds 
+saspir: calls $0.11
+Nicko0077: folds 
+kiku84: calls $0.11
+*** FLOP *** [9h Kh Kd]
+saspir: checks 
+kiku84: checks 
+Seb4Flush: checks 
+*** TURN *** [9h Kh Kd] [Th]
+saspir: bets $0.02
+kiku84: folds 
+Seb4Flush: calls $0.02
+*** RIVER *** [9h Kh Kd Th] [3c]
+saspir: bets $0.02
+Seb4Flush: raises $0.25 to $0.27
+saspir: calls $0.25
+*** SHOW DOWN ***
+Seb4Flush: shows [Qs Qd] (two pair, Kings and Queens)
+saspir: mucks hand 
+Seb4Flush collected $0.98 from pot
+*** SUMMARY ***
+Total pot $1.02 | Rake $0.04 
+Board [9h Kh Kd Th 3c]
+Seat 1: saspir mucked [Td 8h]
+Seat 2: Nicko0077 folded before Flop
+Seat 3: kiku84 folded on the Turn
+Seat 4: Kawaii4ik folded before Flop (didn't bet)
+Seat 5: Seb4Flush (button) showed [Qs Qd] and won ($0.98) with two pair, Kings and Queens
+Seat 6: Dragut-Reis (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: tondy88 folded before Flop (didn't bet)
+Seat 9: carretomoreira folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234432087170:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:51:00 PT [2022/02/27 14:51:00 ET]
+Table 'Hyperion II' 9-max Seat #6 is the button
+Seat 1: saspir ($4.34 in chips) 
+Seat 2: Nicko0077 ($1.25 in chips) 
+Seat 3: kiku84 ($1.62 in chips) 
+Seat 4: Kawaii4ik ($0.89 in chips) 
+Seat 5: Seb4Flush ($6.95 in chips) 
+Seat 6: Dragut-Reis ($2.08 in chips) 
+Seat 7: Dorex2007 ($3.06 in chips) 
+Seat 8: tondy88 ($2.57 in chips) 
+Seat 9: carretomoreira ($2.23 in chips) 
+Dorex2007: posts small blind $0.01
+tondy88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 7d]
+carretomoreira: calls $0.02
+saspir: calls $0.02
+Nicko0077: folds 
+kiku84: folds 
+Kawaii4ik: folds 
+Seb4Flush: folds 
+Dragut-Reis: calls $0.02
+Dorex2007: folds 
+tondy88: checks 
+*** FLOP *** [8d 2c 7c]
+tondy88: bets $2.55 and is all-in
+carretomoreira: folds 
+saspir: folds 
+Dragut-Reis: folds 
+Uncalled bet ($2.55) returned to tondy88
+tondy88 collected $0.09 from pot
+tondy88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [8d 2c 7c]
+Seat 1: saspir folded on the Flop
+Seat 2: Nicko0077 folded before Flop (didn't bet)
+Seat 3: kiku84 folded before Flop (didn't bet)
+Seat 4: Kawaii4ik folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: Dragut-Reis (button) folded on the Flop
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: tondy88 (big blind) collected ($0.09)
+Seat 9: carretomoreira folded on the Flop
+
+
+
+PokerStars Hand #234432113494:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:51:45 PT [2022/02/27 14:51:45 ET]
+Table 'Hyperion II' 9-max Seat #7 is the button
+Seat 1: saspir ($4.32 in chips) 
+Seat 2: Nicko0077 ($1.25 in chips) 
+Seat 3: kiku84 ($1.62 in chips) 
+Seat 4: Kawaii4ik ($0.89 in chips) 
+Seat 5: Seb4Flush ($6.95 in chips) 
+Seat 6: Dragut-Reis ($2.06 in chips) 
+Seat 7: Dorex2007 ($3.05 in chips) 
+Seat 8: tondy88 ($2.64 in chips) 
+Seat 9: carretomoreira ($2.21 in chips) 
+tondy88: posts small blind $0.01
+carretomoreira: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 3d]
+saspir: calls $0.02
+Nicko0077: raises $0.04 to $0.06
+kiku84: calls $0.06
+Kawaii4ik: folds 
+Seb4Flush: folds 
+Dragut-Reis: folds 
+Dorex2007: folds 
+tondy88: folds 
+carretomoreira: folds 
+saspir: calls $0.04
+*** FLOP *** [3s 4h Tc]
+saspir: bets $0.02
+Nicko0077: calls $0.02
+kiku84: folds 
+*** TURN *** [3s 4h Tc] [7s]
+saspir: bets $0.02
+Nicko0077: calls $0.02
+*** RIVER *** [3s 4h Tc 7s] [Ts]
+saspir: bets $0.02
+Nicko0077: calls $0.02
+*** SHOW DOWN ***
+saspir: shows [5s 7h] (two pair, Tens and Sevens)
+Nicko0077: mucks hand 
+saspir collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [3s 4h Tc 7s Ts]
+Seat 1: saspir showed [5s 7h] and won ($0.32) with two pair, Tens and Sevens
+Seat 2: Nicko0077 mucked [Qc 9c]
+Seat 3: kiku84 folded on the Flop
+Seat 4: Kawaii4ik folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: Dragut-Reis folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: tondy88 (small blind) folded before Flop
+Seat 9: carretomoreira (big blind) folded before Flop
+
+
+
+PokerStars Hand #234432166324:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:53:14 PT [2022/02/27 14:53:14 ET]
+Table 'Hyperion II' 9-max Seat #8 is the button
+Seat 1: saspir ($4.52 in chips) 
+Seat 2: Nicko0077 ($1.13 in chips) 
+Seat 3: kiku84 ($1.56 in chips) 
+Seat 4: Kawaii4ik ($0.89 in chips) 
+Seat 5: Seb4Flush ($6.95 in chips) 
+Seat 6: Dragut-Reis ($2.06 in chips) 
+Seat 7: Dorex2007 ($3.05 in chips) 
+Seat 8: tondy88 ($2.63 in chips) 
+Seat 9: carretomoreira ($2.19 in chips) 
+carretomoreira: posts small blind $0.01
+saspir: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts Tc]
+Nicko0077: raises $0.02 to $0.04
+kiku84: folds 
+Kawaii4ik: folds 
+Seb4Flush: folds 
+Dragut-Reis: folds 
+Dorex2007: calls $0.04
+tondy88: folds 
+carretomoreira: calls $0.03
+saspir: calls $0.02
+*** FLOP *** [Qs Kh 5d]
+carretomoreira: checks 
+saspir: checks 
+Nicko0077: checks 
+Dorex2007: checks 
+*** TURN *** [Qs Kh 5d] [8h]
+carretomoreira: checks 
+saspir: checks 
+Nicko0077: checks 
+Dorex2007: bets $0.10
+carretomoreira: calls $0.10
+saspir: folds 
+Nicko0077: folds 
+*** RIVER *** [Qs Kh 5d 8h] [5s]
+carretomoreira: checks 
+Dorex2007: bets $0.18
+carretomoreira: folds 
+Uncalled bet ($0.18) returned to Dorex2007
+Dorex2007 collected $0.35 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [Qs Kh 5d 8h 5s]
+Seat 1: saspir (big blind) folded on the Turn
+Seat 2: Nicko0077 folded on the Turn
+Seat 3: kiku84 folded before Flop (didn't bet)
+Seat 4: Kawaii4ik folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: Dragut-Reis folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.35)
+Seat 8: tondy88 (button) folded before Flop (didn't bet)
+Seat 9: carretomoreira (small blind) folded on the River
+
+
+
+PokerStars Hand #234432207660:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:54:24 PT [2022/02/27 14:54:24 ET]
+Table 'Hyperion II' 9-max Seat #9 is the button
+Seat 1: saspir ($4.48 in chips) 
+Seat 2: Nicko0077 ($1.09 in chips) 
+Seat 3: kiku84 ($1.56 in chips) 
+Seat 4: Kawaii4ik ($0.89 in chips) 
+Seat 5: Seb4Flush ($6.95 in chips) 
+Seat 6: Dragut-Reis ($2.06 in chips) 
+Seat 7: Dorex2007 ($3.26 in chips) 
+Seat 8: tondy88 ($2.63 in chips) 
+Seat 9: carretomoreira ($2.05 in chips) 
+saspir: posts small blind $0.01
+Nicko0077: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 8s]
+kiku84: calls $0.02
+Kawaii4ik: calls $0.02
+Seb4Flush: folds 
+Dragut-Reis: raises $0.14 to $0.16
+Dorex2007: folds 
+tondy88: folds 
+carretomoreira: folds 
+carretomoreira leaves the table
+saspir: folds 
+Nicko0077: folds 
+kiku84: calls $0.14
+Kawaii4ik: folds 
+*** FLOP *** [3s 6s 2d]
+kiku84: checks 
+Dragut-Reis: bets $0.24
+kiku84: folds 
+Uncalled bet ($0.24) returned to Dragut-Reis
+Dragut-Reis collected $0.36 from pot
+Masden30 joins the table at seat #9 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [3s 6s 2d]
+Seat 1: saspir (small blind) folded before Flop
+Seat 2: Nicko0077 (big blind) folded before Flop
+Seat 3: kiku84 folded on the Flop
+Seat 4: Kawaii4ik folded before Flop
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: Dragut-Reis collected ($0.36)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tondy88 folded before Flop (didn't bet)
+Seat 9: carretomoreira (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234432225118:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:54:54 PT [2022/02/27 14:54:54 ET]
+Table 'Hyperion II' 9-max Seat #1 is the button
+Seat 1: saspir ($4.47 in chips) 
+Seat 2: Nicko0077 ($1.07 in chips) 
+Seat 3: kiku84 ($1.40 in chips) 
+Seat 4: Kawaii4ik ($0.87 in chips) 
+Seat 5: Seb4Flush ($6.95 in chips) 
+Seat 6: Dragut-Reis ($2.26 in chips) 
+Seat 7: Dorex2007 ($3.26 in chips) 
+Seat 8: tondy88 ($2.63 in chips) 
+Nicko0077: posts small blind $0.01
+kiku84: posts big blind $0.02
+Masden30: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Js]
+Kawaii4ik: folds 
+Seb4Flush: folds 
+Dragut-Reis: folds 
+Dorex2007: folds 
+tondy88: raises $0.04 to $0.06
+saspir: calls $0.06
+Nicko0077: calls $0.05
+kiku84: calls $0.04
+*** FLOP *** [3s 9h 9d]
+Nicko0077: checks 
+kiku84: checks 
+tondy88: bets $0.17
+saspir: folds 
+Nicko0077: folds 
+kiku84: folds 
+Uncalled bet ($0.17) returned to tondy88
+tondy88 collected $0.23 from pot
+tondy88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [3s 9h 9d]
+Seat 1: saspir (button) folded on the Flop
+Seat 2: Nicko0077 (small blind) folded on the Flop
+Seat 3: kiku84 (big blind) folded on the Flop
+Seat 4: Kawaii4ik folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: Dragut-Reis folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tondy88 collected ($0.23)
+
+
+
+PokerStars Hand #234432254977:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:55:45 PT [2022/02/27 14:55:45 ET]
+Table 'Hyperion II' 9-max Seat #2 is the button
+Seat 1: saspir ($4.41 in chips) 
+Seat 2: Nicko0077 ($1.94 in chips) 
+Seat 3: kiku84 ($1.34 in chips) 
+Seat 4: Kawaii4ik ($0.87 in chips) 
+Seat 5: Seb4Flush ($6.95 in chips) 
+Seat 6: Dragut-Reis ($2.26 in chips) 
+Seat 7: Dorex2007 ($3.26 in chips) 
+Seat 8: tondy88 ($2.80 in chips) 
+Seat 9: Masden30 ($0.80 in chips) 
+kiku84: posts small blind $0.01
+Kawaii4ik: posts big blind $0.02
+Masden30: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Th]
+Seb4Flush: folds 
+Dragut-Reis: folds 
+Dorex2007: folds 
+tondy88: folds 
+Masden30: checks 
+saspir: calls $0.02
+Nicko0077: raises $0.04 to $0.06
+kiku84: folds 
+Kawaii4ik: calls $0.04
+Masden30: calls $0.04
+saspir: folds 
+*** FLOP *** [7h 2s 4d]
+Kawaii4ik: checks 
+Masden30: bets $0.04
+Nicko0077: calls $0.04
+Kawaii4ik: calls $0.04
+*** TURN *** [7h 2s 4d] [Ah]
+Kawaii4ik: checks 
+Masden30: bets $0.12
+Nicko0077: folds 
+Kawaii4ik: raises $0.20 to $0.32
+Masden30: folds 
+Uncalled bet ($0.20) returned to Kawaii4ik
+Kawaii4ik collected $0.55 from pot
+Kawaii4ik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [7h 2s 4d Ah]
+Seat 1: saspir folded before Flop
+Seat 2: Nicko0077 (button) folded on the Turn
+Seat 3: kiku84 (small blind) folded before Flop
+Seat 4: Kawaii4ik (big blind) collected ($0.55)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: Dragut-Reis folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tondy88 folded before Flop (didn't bet)
+Seat 9: Masden30 folded on the Turn
+
+
+
+PokerStars Hand #234432283582:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:57:05 PT [2022/02/27 14:57:05 ET]
+Table 'Hyperion II' 9-max Seat #3 is the button
+Seat 1: saspir ($4.39 in chips) 
+Seat 2: Nicko0077 ($1.84 in chips) 
+Seat 3: kiku84 ($1.33 in chips) 
+Seat 4: Kawaii4ik ($1.20 in chips) 
+Seat 5: Seb4Flush ($6.95 in chips) 
+Seat 6: Dragut-Reis ($2.26 in chips) 
+Seat 7: Dorex2007 ($3.26 in chips) 
+Seat 8: tondy88 ($2.80 in chips) 
+Seat 9: Masden30 ($0.58 in chips) 
+Kawaii4ik: posts small blind $0.01
+Seb4Flush: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 2d]
+Dragut-Reis: folds 
+Dorex2007: folds 
+tondy88: folds 
+Masden30: raises $0.02 to $0.04
+saspir: calls $0.04
+Nicko0077: folds 
+kiku84: folds 
+Kawaii4ik: raises $0.14 to $0.18
+Seb4Flush: calls $0.16
+Masden30: folds 
+saspir: calls $0.14
+*** FLOP *** [3s 7s 9d]
+Kawaii4ik: bets $0.28
+Seb4Flush: folds 
+saspir: folds 
+Uncalled bet ($0.28) returned to Kawaii4ik
+Kawaii4ik collected $0.56 from pot
+Kawaii4ik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [3s 7s 9d]
+Seat 1: saspir folded on the Flop
+Seat 2: Nicko0077 folded before Flop (didn't bet)
+Seat 3: kiku84 (button) folded before Flop (didn't bet)
+Seat 4: Kawaii4ik (small blind) collected ($0.56)
+Seat 5: Seb4Flush (big blind) folded on the Flop
+Seat 6: Dragut-Reis folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tondy88 folded before Flop (didn't bet)
+Seat 9: Masden30 folded before Flop
+
+
+
+PokerStars Hand #234432304095:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 11:58:01 PT [2022/02/27 14:58:01 ET]
+Table 'Hyperion II' 9-max Seat #4 is the button
+Seat 1: saspir ($4.21 in chips) 
+Seat 2: Nicko0077 ($1.84 in chips) 
+Seat 3: kiku84 ($1.33 in chips) 
+Seat 4: Kawaii4ik ($1.58 in chips) 
+Seat 5: Seb4Flush ($6.77 in chips) 
+Seat 6: Dragut-Reis ($2.26 in chips) 
+Seat 7: Dorex2007 ($3.26 in chips) 
+Seat 8: tondy88 ($2.80 in chips) 
+Seat 9: Masden30 ($0.54 in chips) 
+Seb4Flush: posts small blind $0.01
+Dragut-Reis: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 6d]
+Dorex2007: folds 
+tondy88: folds 
+Masden30: calls $0.02
+saspir: calls $0.02
+Nicko0077: raises $0.02 to $0.04
+kiku84: calls $0.04
+Kawaii4ik: calls $0.04
+Seb4Flush: folds 
+Dragut-Reis: folds 
+Masden30: calls $0.02
+saspir: calls $0.02
+*** FLOP *** [4s Jd 7h]
+Masden30: checks 
+saspir: bets $0.02
+Nicko0077: raises $0.02 to $0.04
+kiku84: folds 
+Kawaii4ik: calls $0.04
+Masden30: calls $0.04
+saspir: calls $0.02
+*** TURN *** [4s Jd 7h] [Qd]
+Masden30: checks 
+saspir: checks 
+Nicko0077: bets $0.10
+Kawaii4ik: folds 
+Masden30: calls $0.10
+saspir: calls $0.10
+*** RIVER *** [4s Jd 7h Qd] [Ah]
+Masden30: checks 
+saspir: checks 
+Nicko0077: bets $0.10
+Masden30: folds 
+saspir: folds 
+Uncalled bet ($0.10) returned to Nicko0077
+Nicko0077 collected $0.67 from pot
+Nicko0077: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.02 
+Board [4s Jd 7h Qd Ah]
+Seat 1: saspir folded on the River
+Seat 2: Nicko0077 collected ($0.67)
+Seat 3: kiku84 folded on the Flop
+Seat 4: Kawaii4ik (button) folded on the Turn
+Seat 5: Seb4Flush (small blind) folded before Flop
+Seat 6: Dragut-Reis (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tondy88 folded before Flop (didn't bet)
+Seat 9: Masden30 folded on the River
+
+
+
+PokerStars Hand #234432364273:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:00:18 PT [2022/02/27 15:00:18 ET]
+Table 'Hyperion II' 9-max Seat #5 is the button
+Seat 1: saspir ($4.03 in chips) 
+Seat 2: Nicko0077 ($2.33 in chips) 
+Seat 3: kiku84 ($1.29 in chips) 
+Seat 4: Kawaii4ik ($1.50 in chips) 
+Seat 5: Seb4Flush ($6.76 in chips) 
+Seat 6: Dragut-Reis ($2.24 in chips) 
+Seat 7: Dorex2007 ($3.26 in chips) 
+Seat 8: tondy88 ($2.80 in chips) 
+Seat 9: Masden30 ($0.36 in chips) 
+Dragut-Reis: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 9s]
+tondy88: folds 
+Masden30: folds 
+saspir: calls $0.02
+Nicko0077: calls $0.02
+kiku84: calls $0.02
+Kawaii4ik: folds 
+Seb4Flush: folds 
+Dragut-Reis: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [9h Td 2c]
+Dragut-Reis: checks 
+Dorex2007: checks 
+saspir: checks 
+Nicko0077: bets $0.02
+kiku84: calls $0.02
+Dragut-Reis: calls $0.02
+Dorex2007: calls $0.02
+saspir: folds 
+*** TURN *** [9h Td 2c] [Ks]
+Dragut-Reis: checks 
+Dorex2007: checks 
+Nicko0077: bets $0.04
+kiku84: calls $0.04
+Dragut-Reis: calls $0.04
+Dorex2007: folds 
+*** RIVER *** [9h Td 2c Ks] [5h]
+Dragut-Reis: checks 
+Nicko0077: bets $0.10
+kiku84: folds 
+Dragut-Reis: calls $0.10
+*** SHOW DOWN ***
+Nicko0077: shows [Ac Ah] (a pair of Aces)
+Dragut-Reis: mucks hand 
+Nicko0077 collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [9h Td 2c Ks 5h]
+Seat 1: saspir folded on the Flop
+Seat 2: Nicko0077 showed [Ac Ah] and won ($0.48) with a pair of Aces
+Seat 3: kiku84 folded on the River
+Seat 4: Kawaii4ik folded before Flop (didn't bet)
+Seat 5: Seb4Flush (button) folded before Flop (didn't bet)
+Seat 6: Dragut-Reis (small blind) mucked [Kh Qh]
+Seat 7: Dorex2007 (big blind) folded on the Turn
+Seat 8: tondy88 folded before Flop (didn't bet)
+Seat 9: Masden30 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234432411505:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:02:04 PT [2022/02/27 15:02:04 ET]
+Table 'Hyperion II' 9-max Seat #6 is the button
+Seat 1: saspir ($4.01 in chips) 
+Seat 2: Nicko0077 ($2.63 in chips) 
+Seat 3: kiku84 ($1.21 in chips) 
+Seat 4: Kawaii4ik ($1.50 in chips) 
+Seat 5: Seb4Flush ($6.76 in chips) 
+Seat 6: Dragut-Reis ($2.06 in chips) 
+Seat 7: Dorex2007 ($3.22 in chips) 
+Seat 8: tondy88 ($2.80 in chips) 
+Seat 9: Masden30 ($0.36 in chips) 
+Dorex2007: posts small blind $0.01
+tondy88: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 8s]
+Masden30: folds 
+saspir has timed out
+saspir: folds 
+Nicko0077: folds 
+kiku84: calls $0.02
+Kawaii4ik has timed out
+Kawaii4ik: folds 
+Seb4Flush: folds 
+Dragut-Reis: folds 
+Dorex2007: folds 
+tondy88: checks 
+*** FLOP *** [7h 6c 5c]
+tondy88: bets $0.04
+kiku84: raises $0.14 to $0.18
+tondy88: calls $0.14
+*** TURN *** [7h 6c 5c] [Kd]
+tondy88: checks 
+kiku84: bets $0.22
+tondy88: calls $0.22
+*** RIVER *** [7h 6c 5c Kd] [4s]
+tondy88: checks 
+kiku84: checks 
+*** SHOW DOWN ***
+tondy88: shows [8c Ac] (a straight, Four to Eight)
+kiku84: mucks hand 
+tondy88 collected $0.82 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.03 
+Board [7h 6c 5c Kd 4s]
+Seat 1: saspir folded before Flop (didn't bet)
+Seat 2: Nicko0077 folded before Flop (didn't bet)
+Seat 3: kiku84 mucked [9s 9h]
+Seat 4: Kawaii4ik folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: Dragut-Reis (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: tondy88 (big blind) showed [8c Ac] and won ($0.82) with a straight, Four to Eight
+Seat 9: Masden30 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234432450371:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:03:12 PT [2022/02/27 15:03:12 ET]
+Table 'Hyperion II' 9-max Seat #7 is the button
+Seat 2: Nicko0077 ($2.63 in chips) 
+Seat 3: kiku84 ($0.79 in chips) 
+Seat 4: Kawaii4ik ($1.50 in chips) 
+Seat 5: Seb4Flush ($6.76 in chips) 
+Seat 6: Dragut-Reis ($2.06 in chips) 
+Seat 7: Dorex2007 ($3.21 in chips) 
+Seat 8: tondy88 ($3.20 in chips) 
+Seat 9: Masden30 ($0.36 in chips) 
+tondy88: posts small blind $0.01
+Masden30: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 9h]
+Nicko0077: folds 
+kiku84: folds 
+Kawaii4ik: folds 
+Seb4Flush: raises $0.04 to $0.06
+Dragut-Reis: folds 
+Dorex2007: folds 
+tondy88: folds 
+Masden30: folds 
+Uncalled bet ($0.04) returned to Seb4Flush
+Seb4Flush collected $0.05 from pot
+Seb4Flush: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: Nicko0077 folded before Flop (didn't bet)
+Seat 3: kiku84 folded before Flop (didn't bet)
+Seat 4: Kawaii4ik folded before Flop (didn't bet)
+Seat 5: Seb4Flush collected ($0.05)
+Seat 6: Dragut-Reis folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: tondy88 (small blind) folded before Flop
+Seat 9: Masden30 (big blind) folded before Flop
+
+
+
+PokerStars Hand #234432458236:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:03:25 PT [2022/02/27 15:03:25 ET]
+Table 'Hyperion II' 9-max Seat #8 is the button
+Seat 1: saspir ($4.01 in chips) 
+Seat 2: Nicko0077 ($2.63 in chips) 
+Seat 3: kiku84 ($2 in chips) 
+Seat 4: Kawaii4ik ($1.50 in chips) 
+Seat 5: Seb4Flush ($6.79 in chips) 
+Seat 6: Dragut-Reis ($2.06 in chips) 
+Seat 7: Dorex2007 ($3.21 in chips) 
+Seat 8: tondy88 ($3.19 in chips) 
+Seat 9: Masden30 ($0.34 in chips) 
+Masden30: posts small blind $0.01
+saspir: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Jd]
+Nicko0077: folds 
+kiku84: folds 
+Kawaii4ik: folds 
+Seb4Flush: folds 
+Dragut-Reis: folds 
+Dorex2007: raises $0.04 to $0.06
+tondy88: folds 
+Masden30: folds 
+saspir: calls $0.04
+*** FLOP *** [9s 6s 8d]
+saspir: bets $0.02
+Dorex2007: calls $0.02
+*** TURN *** [9s 6s 8d] [3s]
+saspir: bets $0.02
+Dorex2007: folds 
+Uncalled bet ($0.02) returned to saspir
+saspir collected $0.16 from pot
+saspir: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [9s 6s 8d 3s]
+Seat 1: saspir (big blind) collected ($0.16)
+Seat 2: Nicko0077 folded before Flop (didn't bet)
+Seat 3: kiku84 folded before Flop (didn't bet)
+Seat 4: Kawaii4ik folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: Dragut-Reis folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded on the Turn
+Seat 8: tondy88 (button) folded before Flop (didn't bet)
+Seat 9: Masden30 (small blind) folded before Flop
+
+
+
+PokerStars Hand #234432772163:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:11:45 PT [2022/02/27 15:11:45 ET]
+Table 'Hyperion II' 9-max Seat #8 is the button
+Seat 1: saspir ($3.75 in chips) 
+Seat 2: Nicko0077 ($2.83 in chips) 
+Seat 3: kiku84 ($1.95 in chips) 
+Seat 5: Seb4Flush ($6.66 in chips) 
+Seat 6: Dragut-Reis ($2.48 in chips) 
+Seat 7: Dorex2007 ($3.13 in chips) 
+Seat 8: tondy88 ($3.50 in chips) 
+saspir: posts small blind $0.01
+Nicko0077: posts big blind $0.02
+Tobiz89: sits out 
+Dorex2007: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 4s]
+kiku84: folds 
+Seb4Flush: raises $0.04 to $0.06
+Dragut-Reis: folds 
+Dorex2007: folds 
+tondy88: calls $0.06
+Masden30 leaves the table
+saspir: calls $0.05
+Nicko0077: calls $0.04
+*** FLOP *** [Kc Ah Ac]
+saspir: checks 
+Nicko0077: checks 
+Seb4Flush: checks 
+tondy88: checks 
+*** TURN *** [Kc Ah Ac] [4h]
+saspir: checks 
+Nicko0077: checks 
+Seb4Flush: checks 
+tondy88: bets $0.12
+saspir: folds 
+Nicko0077: folds 
+Seb4Flush: folds 
+Uncalled bet ($0.12) returned to tondy88
+tondy88 collected $0.26 from pot
+tondy88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Kc Ah Ac 4h]
+Seat 1: saspir (small blind) folded on the Turn
+Seat 2: Nicko0077 (big blind) folded on the Turn
+Seat 3: kiku84 folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded on the Turn
+Seat 6: Dragut-Reis folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tondy88 (button) collected ($0.26)
+
+
+
+PokerStars Hand #234432809370:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:12:44 PT [2022/02/27 15:12:44 ET]
+Table 'Hyperion II' 9-max Seat #1 is the button
+Seat 1: saspir ($3.69 in chips) 
+Seat 2: Nicko0077 ($2.77 in chips) 
+Seat 3: kiku84 ($1.95 in chips) 
+Seat 5: Seb4Flush ($6.60 in chips) 
+Seat 6: Dragut-Reis ($2.48 in chips) 
+Seat 7: Dorex2007 ($3.10 in chips) 
+Seat 8: tondy88 ($3.70 in chips) 
+Nicko0077: posts small blind $0.01
+kiku84: posts big blind $0.02
+Tobiz89: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 8d]
+Sunpower333 joins the table at seat #9 
+Seb4Flush: folds 
+Dragut-Reis: folds 
+Dorex2007: folds 
+tondy88: folds 
+saspir: folds 
+Nicko0077: raises $0.04 to $0.06
+kiku84: folds 
+Uncalled bet ($0.04) returned to Nicko0077
+Nicko0077 collected $0.04 from pot
+Nicko0077: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: saspir (button) folded before Flop (didn't bet)
+Seat 2: Nicko0077 (small blind) collected ($0.04)
+Seat 3: kiku84 (big blind) folded before Flop
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: Dragut-Reis folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tondy88 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234432827376:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:13:12 PT [2022/02/27 15:13:12 ET]
+Table 'Hyperion II' 9-max Seat #2 is the button
+Seat 1: saspir ($3.69 in chips) 
+Seat 2: Nicko0077 ($2.79 in chips) 
+Seat 3: kiku84 ($1.93 in chips) 
+Seat 4: Tobiz89 ($2 in chips) 
+Seat 5: Seb4Flush ($6.60 in chips) 
+Seat 6: Dragut-Reis ($2.48 in chips) 
+Seat 7: Dorex2007 ($3.10 in chips) 
+Seat 8: tondy88 ($3.70 in chips) 
+kiku84: posts small blind $0.01
+Tobiz89: posts big blind $0.02
+Sunpower333: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c As]
+Seb4Flush has timed out
+Seb4Flush: folds 
+Dragut-Reis: folds 
+Dorex2007: folds 
+tondy88: raises $0.04 to $0.06
+saspir: calls $0.06
+Nicko0077: folds 
+kiku84: folds 
+Tobiz89: folds 
+*** FLOP *** [7s 9h 7h]
+tondy88: bets $0.10
+saspir: folds 
+Uncalled bet ($0.10) returned to tondy88
+tondy88 collected $0.14 from pot
+tondy88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7s 9h 7h]
+Seat 1: saspir folded on the Flop
+Seat 2: Nicko0077 (button) folded before Flop (didn't bet)
+Seat 3: kiku84 (small blind) folded before Flop
+Seat 4: Tobiz89 (big blind) folded before Flop
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: Dragut-Reis folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tondy88 collected ($0.14)
+
+
+
+PokerStars Hand #234432858852:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:14:02 PT [2022/02/27 15:14:02 ET]
+Table 'Hyperion II' 9-max Seat #3 is the button
+Seat 1: saspir ($3.63 in chips) 
+Seat 2: Nicko0077 ($2.79 in chips) 
+Seat 3: kiku84 ($1.92 in chips) 
+Seat 4: Tobiz89 ($2 in chips) 
+Seat 5: Seb4Flush ($6.60 in chips) 
+Seat 6: Dragut-Reis ($2.48 in chips) 
+Seat 7: Dorex2007 ($3.10 in chips) 
+Seat 8: tondy88 ($3.78 in chips) 
+Tobiz89: posts small blind $0.01
+Seb4Flush: posts big blind $0.02
+Sunpower333: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 6c]
+Dragut-Reis: folds 
+Dorex2007: folds 
+tondy88: folds 
+saspir: calls $0.02
+Nicko0077: raises $0.04 to $0.06
+kiku84: calls $0.06
+Tobiz89: folds 
+Seb4Flush: folds 
+saspir: calls $0.04
+*** FLOP *** [4h Qd 9c]
+saspir: bets $0.02
+Nicko0077: calls $0.02
+kiku84: calls $0.02
+*** TURN *** [4h Qd 9c] [3h]
+saspir: checks 
+Nicko0077: checks 
+kiku84: checks 
+*** RIVER *** [4h Qd 9c 3h] [5h]
+saspir: checks 
+Nicko0077: bets $0.08
+kiku84: folds 
+saspir: folds 
+Uncalled bet ($0.08) returned to Nicko0077
+Nicko0077 collected $0.26 from pot
+Nicko0077: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [4h Qd 9c 3h 5h]
+Seat 1: saspir folded on the River
+Seat 2: Nicko0077 collected ($0.26)
+Seat 3: kiku84 (button) folded on the River
+Seat 4: Tobiz89 (small blind) folded before Flop
+Seat 5: Seb4Flush (big blind) folded before Flop
+Seat 6: Dragut-Reis folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tondy88 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234432950285:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:16:20 PT [2022/02/27 15:16:20 ET]
+Table 'Hyperion II' 9-max Seat #4 is the button
+Seat 1: saspir ($3.55 in chips) 
+Seat 2: Nicko0077 ($2.97 in chips) 
+Seat 3: kiku84 ($1.84 in chips) 
+Seat 4: Tobiz89 ($2 in chips) 
+Seat 5: Seb4Flush ($6.58 in chips) 
+Seat 6: Dragut-Reis ($2.48 in chips) 
+Seat 7: Dorex2007 ($3.10 in chips) 
+Seat 8: tondy88 ($3.78 in chips) 
+Seb4Flush: posts small blind $0.01
+Dragut-Reis: posts big blind $0.02
+Sunpower333: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 2s]
+Dorex2007: folds 
+tondy88: folds 
+saspir: calls $0.02
+Nicko0077: raises $0.04 to $0.06
+kiku84: folds 
+Tobiz89: folds 
+Seb4Flush: folds 
+Dragut-Reis: folds 
+saspir: calls $0.04
+*** FLOP *** [4d 9c Kh]
+saspir: checks 
+Nicko0077: checks 
+*** TURN *** [4d 9c Kh] [8h]
+saspir: checks 
+Nicko0077: bets $0.06
+saspir: folds 
+Uncalled bet ($0.06) returned to Nicko0077
+Nicko0077 collected $0.14 from pot
+Nicko0077: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [4d 9c Kh 8h]
+Seat 1: saspir folded on the Turn
+Seat 2: Nicko0077 collected ($0.14)
+Seat 3: kiku84 folded before Flop (didn't bet)
+Seat 4: Tobiz89 (button) folded before Flop (didn't bet)
+Seat 5: Seb4Flush (small blind) folded before Flop
+Seat 6: Dragut-Reis (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tondy88 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234432986106:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:17:16 PT [2022/02/27 15:17:16 ET]
+Table 'Hyperion II' 9-max Seat #5 is the button
+Seat 1: saspir ($3.49 in chips) 
+Seat 2: Nicko0077 ($3.05 in chips) 
+Seat 3: kiku84 ($1.84 in chips) 
+Seat 4: Tobiz89 ($2 in chips) 
+Seat 5: Seb4Flush ($6.57 in chips) 
+Seat 7: Dorex2007 ($3.10 in chips) 
+Seat 8: tondy88 ($3.78 in chips) 
+Dragut-Reis has timed out
+Dragut-Reis: is sitting out 
+Dorex2007: posts small blind $0.01
+tondy88: posts big blind $0.02
+Sunpower333: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 9c]
+saspir: folds 
+Nicko0077: folds 
+kiku84: folds 
+Nicko0077 leaves the table
+Tobiz89: raises $0.03 to $0.05
+Seb4Flush: folds 
+Dimon_pudge joins the table at seat #2 
+Dorex2007: folds 
+tondy88: folds 
+Uncalled bet ($0.03) returned to Tobiz89
+Tobiz89 collected $0.05 from pot
+Tobiz89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: saspir folded before Flop (didn't bet)
+Seat 2: Nicko0077 folded before Flop (didn't bet)
+Seat 3: kiku84 folded before Flop (didn't bet)
+Seat 4: Tobiz89 collected ($0.05)
+Seat 5: Seb4Flush (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: tondy88 (big blind) folded before Flop
+
+
+
+PokerStars Hand #234433017915:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:17:57 PT [2022/02/27 15:17:57 ET]
+Table 'Hyperion II' 9-max Seat #7 is the button
+Seat 1: saspir ($3.49 in chips) 
+Seat 3: kiku84 ($1.84 in chips) 
+Seat 4: Tobiz89 ($2.03 in chips) 
+Seat 5: Seb4Flush ($6.57 in chips) 
+Seat 7: Dorex2007 ($3.09 in chips) 
+Seat 8: tondy88 ($3.76 in chips) 
+Seat 9: Sunpower333 ($0.80 in chips) 
+tondy88: posts small blind $0.01
+Sunpower333: posts big blind $0.02
+Dimon_pudge: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 2s]
+saspir has timed out
+saspir: folds 
+kiku84: calls $0.02
+Tobiz89: folds 
+Seb4Flush: folds 
+Dorex2007: folds 
+tondy88: folds 
+Sunpower333: checks 
+*** FLOP *** [5s Jd Qh]
+Sunpower333: checks 
+kiku84: bets $0.06
+Sunpower333: folds 
+Uncalled bet ($0.06) returned to kiku84
+kiku84 collected $0.05 from pot
+kiku84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5s Jd Qh]
+Seat 1: saspir folded before Flop (didn't bet)
+Seat 3: kiku84 collected ($0.05)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: tondy88 (small blind) folded before Flop
+Seat 9: Sunpower333 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #234433035116:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:18:25 PT [2022/02/27 15:18:25 ET]
+Table 'Hyperion II' 9-max Seat #8 is the button
+Seat 2: Dimon_pudge ($1.60 in chips) 
+Seat 3: kiku84 ($1.87 in chips) 
+Seat 4: Tobiz89 ($2.03 in chips) 
+Seat 5: Seb4Flush ($6.57 in chips) 
+Seat 7: Dorex2007 ($3.09 in chips) 
+Seat 8: tondy88 ($3.75 in chips) 
+Seat 9: Sunpower333 ($0.78 in chips) 
+Sunpower333: posts small blind $0.01
+Dimon_pudge: posts big blind $0.02
+Dragut-Reis: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Ah]
+kiku84: calls $0.02
+Tobiz89: folds 
+Seb4Flush: folds 
+Dorex2007: folds 
+tondy88: folds 
+Sunpower333: folds 
+Dimon_pudge: checks 
+*** FLOP *** [Kc 4s 4c]
+Dimon_pudge: checks 
+kiku84: bets $0.06
+Dimon_pudge: folds 
+Uncalled bet ($0.06) returned to kiku84
+kiku84 collected $0.05 from pot
+kiku84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kc 4s 4c]
+Seat 2: Dimon_pudge (big blind) folded on the Flop
+Seat 3: kiku84 collected ($0.05)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tondy88 (button) folded before Flop (didn't bet)
+Seat 9: Sunpower333 (small blind) folded before Flop
+
+
+
+PokerStars Hand #234433052519:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:18:52 PT [2022/02/27 15:18:52 ET]
+Table 'Hyperion II' 9-max Seat #2 is the button
+Seat 2: Dimon_pudge ($1.58 in chips) 
+Seat 3: kiku84 ($1.90 in chips) 
+Seat 4: Tobiz89 ($2.03 in chips) 
+Seat 5: Seb4Flush ($6.57 in chips) 
+Seat 7: Dorex2007 ($3.09 in chips) 
+Seat 8: tondy88 ($3.75 in chips) 
+kiku84: posts small blind $0.01
+Tobiz89: posts big blind $0.02
+Dragut-Reis: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts Qc]
+Seb4Flush: folds 
+Dorex2007: folds 
+tondy88: folds 
+Dimon_pudge: folds 
+kiku84: folds 
+Uncalled bet ($0.01) returned to Tobiz89
+Tobiz89 collected $0.02 from pot
+Tobiz89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Dimon_pudge (button) folded before Flop (didn't bet)
+Seat 3: kiku84 (small blind) folded before Flop
+Seat 4: Tobiz89 (big blind) collected ($0.02)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tondy88 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234433058253:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:19:01 PT [2022/02/27 15:19:01 ET]
+Table 'Hyperion II' 9-max Seat #3 is the button
+Seat 2: Dimon_pudge ($1.58 in chips) 
+Seat 3: kiku84 ($1.89 in chips) 
+Seat 4: Tobiz89 ($2.04 in chips) 
+Seat 5: Seb4Flush ($6.57 in chips) 
+Seat 7: Dorex2007 ($3.09 in chips) 
+Seat 8: tondy88 ($3.75 in chips) 
+Tobiz89: posts small blind $0.01
+Seb4Flush: posts big blind $0.02
+Dragut-Reis: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Ad]
+Dorex2007: folds 
+tondy88: folds 
+Dimon_pudge: raises $0.02 to $0.04
+kiku84: calls $0.04
+Tobiz89: raises $0.20 to $0.24
+Seb4Flush: folds 
+Dimon_pudge: folds 
+kiku84: calls $0.20
+*** FLOP *** [9c 3h Qd]
+Tobiz89: bets $0.26
+kiku84: folds 
+Uncalled bet ($0.26) returned to Tobiz89
+Tobiz89 collected $0.52 from pot
+Tobiz89: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02 
+Board [9c 3h Qd]
+Seat 2: Dimon_pudge folded before Flop
+Seat 3: kiku84 (button) folded on the Flop
+Seat 4: Tobiz89 (small blind) collected ($0.52)
+Seat 5: Seb4Flush (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tondy88 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234433080664:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:19:37 PT [2022/02/27 15:19:37 ET]
+Table 'Hyperion II' 9-max Seat #4 is the button
+Seat 2: Dimon_pudge ($1.54 in chips) 
+Seat 3: kiku84 ($1.65 in chips) 
+Seat 4: Tobiz89 ($2.32 in chips) 
+Seat 5: Seb4Flush ($6.55 in chips) 
+Seat 6: Dragut-Reis ($2.46 in chips) 
+Seat 7: Dorex2007 ($3.09 in chips) 
+Seat 8: tondy88 ($3.75 in chips) 
+Seb4Flush: posts small blind $0.01
+Dragut-Reis: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 3s]
+Dorex2007: folds 
+tondy88: folds 
+Dimon_pudge: folds 
+kiku84: calls $0.02
+Tobiz89: folds 
+Seb4Flush: folds 
+Dragut-Reis: checks 
+*** FLOP *** [Qd 3d Jd]
+Dragut-Reis: checks 
+kiku84: bets $0.06
+Dragut-Reis: folds 
+Uncalled bet ($0.06) returned to kiku84
+kiku84 collected $0.05 from pot
+kiku84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qd 3d Jd]
+Seat 2: Dimon_pudge folded before Flop (didn't bet)
+Seat 3: kiku84 collected ($0.05)
+Seat 4: Tobiz89 (button) folded before Flop (didn't bet)
+Seat 5: Seb4Flush (small blind) folded before Flop
+Seat 6: Dragut-Reis (big blind) folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tondy88 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234433099504:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:20:07 PT [2022/02/27 15:20:07 ET]
+Table 'Hyperion II' 9-max Seat #5 is the button
+Seat 2: Dimon_pudge ($1.54 in chips) 
+Seat 3: kiku84 ($1.68 in chips) 
+Seat 4: Tobiz89 ($2.32 in chips) 
+Seat 5: Seb4Flush ($6.54 in chips) 
+Seat 6: Dragut-Reis ($2.44 in chips) 
+Seat 7: Dorex2007 ($3.09 in chips) 
+Seat 8: tondy88 ($3.75 in chips) 
+Dragut-Reis: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Ks]
+tondy88: folds 
+Dimon_pudge: raises $0.02 to $0.04
+kiku84: folds 
+Tobiz89: folds 
+Seb4Flush: calls $0.04
+Dragut-Reis: folds 
+Dorex2007: folds 
+*** FLOP *** [Js 8h 7h]
+Dimon_pudge: bets $0.05
+Seb4Flush: calls $0.05
+*** TURN *** [Js 8h 7h] [4s]
+Dimon_pudge: bets $0.10
+Seb4Flush: calls $0.10
+*** RIVER *** [Js 8h 7h 4s] [Kh]
+tondy88 leaves the table
+Dimon_pudge: bets $0.10
+Seb4Flush: calls $0.10
+*** SHOW DOWN ***
+Dimon_pudge: shows [3c 3h] (a pair of Threes)
+Seb4Flush: shows [Jc Ad] (a pair of Jacks)
+Seb4Flush collected $0.59 from pot
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.02 
+Board [Js 8h 7h 4s Kh]
+Seat 2: Dimon_pudge showed [3c 3h] and lost with a pair of Threes
+Seat 3: kiku84 folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: Seb4Flush (button) showed [Jc Ad] and won ($0.59) with a pair of Jacks
+Seat 6: Dragut-Reis (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: tondy88 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234433122672:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:20:43 PT [2022/02/27 15:20:43 ET]
+Table 'Hyperion II' 9-max Seat #6 is the button
+Seat 2: Dimon_pudge ($1.25 in chips) 
+Seat 3: kiku84 ($1.68 in chips) 
+Seat 4: Tobiz89 ($2.32 in chips) 
+Seat 5: Seb4Flush ($6.84 in chips) 
+Seat 6: Dragut-Reis ($2.43 in chips) 
+Seat 7: Dorex2007 ($3.07 in chips) 
+INTIMIDATOR69 joins the table at seat #8 
+Dorex2007: posts small blind $0.01
+Dimon_pudge: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 7c]
+kiku84: folds 
+Tobiz89: folds 
+Seb4Flush: folds 
+Dragut-Reis: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to Dimon_pudge
+Dimon_pudge collected $0.02 from pot
+Dimon_pudge: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: Dimon_pudge (big blind) collected ($0.02)
+Seat 3: kiku84 folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: Dragut-Reis (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #234433131953:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:20:58 PT [2022/02/27 15:20:58 ET]
+Table 'Hyperion II' 9-max Seat #7 is the button
+Seat 2: Dimon_pudge ($1.26 in chips) 
+Seat 3: kiku84 ($1.68 in chips) 
+Seat 4: Tobiz89 ($2.32 in chips) 
+Seat 5: Seb4Flush ($6.84 in chips) 
+Seat 6: Dragut-Reis ($2.43 in chips) 
+Seat 7: Dorex2007 ($3.06 in chips) 
+Dimon_pudge: posts small blind $0.01
+kiku84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Tc]
+Tobiz89: folds 
+Seb4Flush: folds 
+Dragut-Reis: folds 
+Dorex2007: folds 
+Dimon_pudge: calls $0.01
+kiku84: checks 
+*** FLOP *** [Jc Jd 4s]
+Dimon_pudge: bets $0.04
+kiku84: calls $0.04
+*** TURN *** [Jc Jd 4s] [Qc]
+Dimon_pudge: checks 
+kiku84: bets $0.06
+Dimon_pudge: calls $0.06
+*** RIVER *** [Jc Jd 4s Qc] [Kd]
+Dimon_pudge: checks 
+kiku84: checks 
+*** SHOW DOWN ***
+Dimon_pudge: shows [2s 4d] (two pair, Jacks and Fours)
+kiku84: shows [4h 5h] (two pair, Jacks and Fours)
+Dimon_pudge collected $0.12 from pot
+kiku84 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Jc Jd 4s Qc Kd]
+Seat 2: Dimon_pudge (small blind) showed [2s 4d] and won ($0.12) with two pair, Jacks and Fours
+Seat 3: kiku84 (big blind) showed [4h 5h] and won ($0.11) with two pair, Jacks and Fours
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: Dragut-Reis folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234433146121:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:21:20 PT [2022/02/27 15:21:20 ET]
+Table 'Hyperion II' 9-max Seat #2 is the button
+Seat 2: Dimon_pudge ($1.26 in chips) 
+Seat 3: kiku84 ($1.67 in chips) 
+Seat 4: Tobiz89 ($2.32 in chips) 
+Seat 5: Seb4Flush ($6.84 in chips) 
+Seat 6: Dragut-Reis ($2.43 in chips) 
+Seat 7: Dorex2007 ($3.06 in chips) 
+Seat 8: INTIMIDATOR69 ($1 in chips) 
+kiku84: posts small blind $0.01
+Tobiz89: posts big blind $0.02
+INTIMIDATOR69: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 8d]
+Seb4Flush has timed out
+Seb4Flush: folds 
+Dragut-Reis: folds 
+Dorex2007: folds 
+INTIMIDATOR69: checks 
+Dimon_pudge: folds 
+kiku84: calls $0.01
+Tobiz89: checks 
+*** FLOP *** [Ts Ad Qc]
+kiku84: checks 
+Tobiz89: checks 
+INTIMIDATOR69: checks 
+*** TURN *** [Ts Ad Qc] [Jd]
+kiku84: bets $0.04
+Tobiz89: folds 
+INTIMIDATOR69: calls $0.04
+*** RIVER *** [Ts Ad Qc Jd] [Qd]
+kiku84: checks 
+INTIMIDATOR69: checks 
+*** SHOW DOWN ***
+kiku84: shows [7c Jc] (two pair, Queens and Jacks)
+INTIMIDATOR69: shows [Ks 5d] (a straight, Ten to Ace)
+INTIMIDATOR69 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Ts Ad Qc Jd Qd]
+Seat 2: Dimon_pudge (button) folded before Flop (didn't bet)
+Seat 3: kiku84 (small blind) showed [7c Jc] and lost with two pair, Queens and Jacks
+Seat 4: Tobiz89 (big blind) folded on the Turn
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: Dragut-Reis folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: INTIMIDATOR69 showed [Ks 5d] and won ($0.14) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #234433179538:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:22:13 PT [2022/02/27 15:22:13 ET]
+Table 'Hyperion II' 9-max Seat #3 is the button
+Seat 2: Dimon_pudge ($1.26 in chips) 
+Seat 3: kiku84 ($1.61 in chips) 
+Seat 4: Tobiz89 ($2.30 in chips) 
+Seat 5: Seb4Flush ($6.84 in chips) 
+Seat 6: Dragut-Reis ($2.43 in chips) 
+Seat 7: Dorex2007 ($3.06 in chips) 
+Seat 8: INTIMIDATOR69 ($1.08 in chips) 
+Tobiz89: posts small blind $0.01
+Seb4Flush: posts big blind $0.02
+saspir: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 4c]
+Dragut-Reis: folds 
+Dorex2007: folds 
+INTIMIDATOR69: calls $0.02
+Dimon_pudge: calls $0.02
+kiku84: folds 
+Dragut-Reis leaves the table
+Tobiz89: folds 
+Seb4Flush: checks 
+*** FLOP *** [6d Qd 3d]
+Seb4Flush: checks 
+INTIMIDATOR69: checks 
+killills joins the table at seat #6 
+Dimon_pudge: checks 
+*** TURN *** [6d Qd 3d] [6c]
+Seb4Flush: checks 
+INTIMIDATOR69: bets $0.02
+Dimon_pudge: calls $0.02
+Seb4Flush: calls $0.02
+*** RIVER *** [6d Qd 3d 6c] [8s]
+Seb4Flush: checks 
+INTIMIDATOR69: checks 
+Dimon_pudge: checks 
+*** SHOW DOWN ***
+Seb4Flush: shows [3c Kc] (two pair, Sixes and Threes)
+INTIMIDATOR69: mucks hand 
+Dimon_pudge: mucks hand 
+Seb4Flush collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6d Qd 3d 6c 8s]
+Seat 2: Dimon_pudge mucked [4h 5h]
+Seat 3: kiku84 (button) folded before Flop (didn't bet)
+Seat 4: Tobiz89 (small blind) folded before Flop
+Seat 5: Seb4Flush (big blind) showed [3c Kc] and won ($0.13) with two pair, Sixes and Threes
+Seat 6: Dragut-Reis folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: INTIMIDATOR69 mucked [Ad 9s]
+
+
+
+PokerStars Hand #234433204738:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:22:53 PT [2022/02/27 15:22:53 ET]
+Table 'Hyperion II' 9-max Seat #4 is the button
+Seat 2: Dimon_pudge ($1.22 in chips) 
+Seat 3: kiku84 ($1.61 in chips) 
+Seat 4: Tobiz89 ($2.29 in chips) 
+Seat 5: Seb4Flush ($6.93 in chips) 
+Seat 6: killills ($2 in chips) 
+Seat 7: Dorex2007 ($3.06 in chips) 
+Seat 8: INTIMIDATOR69 ($1.04 in chips) 
+Seb4Flush: posts small blind $0.01
+killills: posts big blind $0.02
+saspir: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 6s]
+Dorex2007: folds 
+INTIMIDATOR69: folds 
+Dimon_pudge: raises $0.02 to $0.04
+kiku84: folds 
+Tobiz89: raises $0.14 to $0.18
+Seb4Flush: folds 
+killills: folds 
+Dimon_pudge: raises $1.04 to $1.22 and is all-in
+Tobiz89: calls $1.04
+*** FLOP *** [Tc Qs Td]
+*** TURN *** [Tc Qs Td] [Qd]
+*** RIVER *** [Tc Qs Td Qd] [8s]
+*** SHOW DOWN ***
+Dimon_pudge: shows [Qc Ad] (a full house, Queens full of Tens)
+Tobiz89: shows [Ah Kc] (two pair, Queens and Tens)
+Dimon_pudge collected $2.38 from pot
+Tobiz89 cashed out the hand for $1.75 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $2.47 | Rake $0.09 
+Board [Tc Qs Td Qd 8s]
+Seat 2: Dimon_pudge showed [Qc Ad] and won ($2.38) with a full house, Queens full of Tens
+Seat 3: kiku84 folded before Flop (didn't bet)
+Seat 4: Tobiz89 (button) showed [Ah Kc] and lost with two pair, Queens and Tens (cashed out).
+Seat 5: Seb4Flush (small blind) folded before Flop
+Seat 6: killills (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: INTIMIDATOR69 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234433233088:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:23:38 PT [2022/02/27 15:23:38 ET]
+Table 'Hyperion II' 9-max Seat #5 is the button
+Seat 2: Dimon_pudge ($2.38 in chips) 
+Seat 3: kiku84 ($1.61 in chips) 
+Seat 4: Tobiz89 ($2.82 in chips) 
+Seat 5: Seb4Flush ($6.92 in chips) 
+Seat 6: killills ($1.98 in chips) 
+Seat 7: Dorex2007 ($3.06 in chips) 
+Seat 8: INTIMIDATOR69 ($1.04 in chips) 
+killills: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+saspir: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 3c]
+INTIMIDATOR69: calls $0.02
+Dimon_pudge: folds 
+kiku84: folds 
+Tobiz89: folds 
+Seb4Flush: folds 
+killills: folds 
+Dorex2007: checks 
+*** FLOP *** [5c 9c Td]
+Dorex2007: checks 
+INTIMIDATOR69: bets $0.04
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to INTIMIDATOR69
+INTIMIDATOR69 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5c 9c Td]
+Seat 2: Dimon_pudge folded before Flop (didn't bet)
+Seat 3: kiku84 folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: Seb4Flush (button) folded before Flop (didn't bet)
+Seat 6: killills (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded on the Flop
+Seat 8: INTIMIDATOR69 collected ($0.05)
+
+
+
+PokerStars Hand #234433248036:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:24:02 PT [2022/02/27 15:24:02 ET]
+Table 'Hyperion II' 9-max Seat #6 is the button
+Seat 2: Dimon_pudge ($2.38 in chips) 
+Seat 3: kiku84 ($1.61 in chips) 
+Seat 4: Tobiz89 ($2.82 in chips) 
+Seat 5: Seb4Flush ($6.92 in chips) 
+Seat 6: killills ($1.97 in chips) 
+Seat 7: Dorex2007 ($3.04 in chips) 
+Seat 8: INTIMIDATOR69 ($1.07 in chips) 
+Seat 9: Sunpower333 ($0.77 in chips) 
+Dorex2007: posts small blind $0.01
+INTIMIDATOR69: posts big blind $0.02
+Sunpower333: posts small & big blinds $0.03
+saspir: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Ks]
+Sunpower333: checks 
+Dimon_pudge: folds 
+kiku84: folds 
+Tobiz89: folds 
+Seb4Flush: raises $0.08 to $0.10
+killills: folds 
+Dorex2007: folds 
+INTIMIDATOR69: folds 
+Sunpower333: folds 
+Uncalled bet ($0.08) returned to Seb4Flush
+Seb4Flush collected $0.08 from pot
+Seb4Flush: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 2: Dimon_pudge folded before Flop (didn't bet)
+Seat 3: kiku84 folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: Seb4Flush collected ($0.08)
+Seat 6: killills (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: INTIMIDATOR69 (big blind) folded before Flop
+Seat 9: Sunpower333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #234433264429:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:24:28 PT [2022/02/27 15:24:28 ET]
+Table 'Hyperion II' 9-max Seat #7 is the button
+Seat 2: Dimon_pudge ($2.38 in chips) 
+Seat 3: kiku84 ($1.61 in chips) 
+Seat 4: Tobiz89 ($2.82 in chips) 
+Seat 5: Seb4Flush ($6.98 in chips) 
+Seat 6: killills ($1.97 in chips) 
+Seat 7: Dorex2007 ($3.03 in chips) 
+Seat 8: INTIMIDATOR69 ($1.05 in chips) 
+Seat 9: Sunpower333 ($0.74 in chips) 
+INTIMIDATOR69: posts small blind $0.01
+Sunpower333: posts big blind $0.02
+saspir: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 5s]
+Dimon_pudge: folds 
+kiku84: calls $0.02
+Tobiz89: folds 
+Seb4Flush: folds 
+killills: folds 
+Dorex2007: folds 
+INTIMIDATOR69: raises $0.06 to $0.08
+Sunpower333: folds 
+kiku84: calls $0.06
+*** FLOP *** [Kc Qc Qd]
+INTIMIDATOR69: bets $0.17
+kiku84: raises $0.25 to $0.42
+INTIMIDATOR69: raises $0.55 to $0.97 and is all-in
+kiku84: calls $0.55
+*** TURN *** [Kc Qc Qd] [9d]
+*** RIVER *** [Kc Qc Qd 9d] [9h]
+*** SHOW DOWN ***
+INTIMIDATOR69: shows [Ad Ac] (two pair, Aces and Queens)
+kiku84: shows [Qh As] (a full house, Queens full of Nines)
+kiku84 collected $2.05 from pot
+*** SUMMARY ***
+Total pot $2.12 | Rake $0.07 
+Board [Kc Qc Qd 9d 9h]
+Seat 2: Dimon_pudge folded before Flop (didn't bet)
+Seat 3: kiku84 showed [Qh As] and won ($2.05) with a full house, Queens full of Nines
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: killills folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: INTIMIDATOR69 (small blind) showed [Ad Ac] and lost with two pair, Aces and Queens
+Seat 9: Sunpower333 (big blind) folded before Flop
+
+
+
+PokerStars Hand #234433292174:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:25:12 PT [2022/02/27 15:25:12 ET]
+Table 'Hyperion II' 9-max Seat #8 is the button
+Seat 1: saspir ($3.49 in chips) 
+Seat 2: Dimon_pudge ($2.38 in chips) 
+Seat 3: kiku84 ($2.61 in chips) 
+Seat 4: Tobiz89 ($2.82 in chips) 
+Seat 5: Seb4Flush ($6.98 in chips) 
+Seat 6: killills ($1.97 in chips) 
+Seat 7: Dorex2007 ($3.03 in chips) 
+Seat 8: INTIMIDATOR69 ($1 in chips) 
+Seat 9: Sunpower333 ($0.72 in chips) 
+Sunpower333: posts small blind $0.01
+saspir: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 3c]
+Dimon_pudge: folds 
+kiku84: folds 
+Tobiz89: folds 
+Seb4Flush has timed out
+Seb4Flush: folds 
+killills: folds 
+Dorex2007: folds 
+INTIMIDATOR69: folds 
+Sunpower333: calls $0.01
+saspir: checks 
+*** FLOP *** [Jh 2d Jc]
+Sunpower333: checks 
+saspir: checks 
+*** TURN *** [Jh 2d Jc] [3d]
+Sunpower333: checks 
+saspir: checks 
+*** RIVER *** [Jh 2d Jc 3d] [6d]
+Sunpower333: checks 
+saspir: checks 
+*** SHOW DOWN ***
+Sunpower333: shows [Qd Td] (a flush, Queen high)
+saspir: mucks hand 
+Sunpower333 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Jh 2d Jc 3d 6d]
+Seat 1: saspir (big blind) mucked [Kd 5c]
+Seat 2: Dimon_pudge folded before Flop (didn't bet)
+Seat 3: kiku84 folded before Flop (didn't bet)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: killills folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: INTIMIDATOR69 (button) folded before Flop (didn't bet)
+Seat 9: Sunpower333 (small blind) showed [Qd Td] and won ($0.04) with a flush, Queen high
+
+
+
+PokerStars Hand #234433321884:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/02/27 12:25:59 PT [2022/02/27 15:25:59 ET]
+Table 'Hyperion II' 9-max Seat #1 is the button
+Seat 1: saspir ($3.47 in chips) 
+Seat 2: Dimon_pudge ($2.38 in chips) 
+Seat 3: kiku84 ($2.61 in chips) 
+Seat 4: Tobiz89 ($2.82 in chips) 
+Seat 5: Seb4Flush ($6.98 in chips) 
+Seat 6: killills ($1.97 in chips) 
+Seat 7: Dorex2007 ($3.03 in chips) 
+Seat 8: INTIMIDATOR69 ($1 in chips) 
+Dimon_pudge: posts small blind $0.01
+kiku84: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 2s]
+Tobiz89: folds 
+Seb4Flush: folds 
+killills: folds 
+Dorex2007: folds 
+INTIMIDATOR69: folds 
+saspir: raises $0.02 to $0.04
+Dimon_pudge: folds 
+kiku84: calls $0.02
+*** FLOP *** [6c 8s 9d]
+kiku84: bets $0.04
+saspir: folds 
+Uncalled bet ($0.04) returned to kiku84
+kiku84 collected $0.09 from pot
+kiku84: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [6c 8s 9d]
+Seat 1: saspir (button) folded on the Flop
+Seat 2: Dimon_pudge (small blind) folded before Flop
+Seat 3: kiku84 (big blind) collected ($0.09)
+Seat 4: Tobiz89 folded before Flop (didn't bet)
+Seat 5: Seb4Flush folded before Flop (didn't bet)
+Seat 6: killills folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: INTIMIDATOR69 folded before Flop (didn't bet)
+
+
+
