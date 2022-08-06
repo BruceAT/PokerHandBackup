@@ -1,0 +1,1581 @@
+﻿PokerStars Hand #237804765718:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:13:49 PT [2022/08/05 12:13:49 ET]
+Table 'Jiangxi' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Thargor111 ($11.68 in chips) 
+Seat 3: kei635 ($4.93 in chips) 
+Seat 4: sebjel ($7.45 in chips) 
+Seat 5: pounddesign ($5.20 in chips) 
+Seat 6: maskch ($3.86 in chips) 
+Seat 7: hamera_von1 ($2.84 in chips) 
+Seat 9: Drover98 ($5.97 in chips) 
+kei635: posts small blind $0.02
+sebjel: posts big blind $0.05
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 6s]
+pounddesign: folds 
+maskch: folds 
+hamera_von1: calls $0.05
+Drover98: folds 
+Dorex2007: checks 
+Thargor111: folds 
+kei635: raises $0.07 to $0.12
+sebjel: folds 
+hamera_von1: calls $0.07
+Dorex2007: folds 
+*** FLOP *** [9h 5h 9d]
+kei635: checks 
+hamera_von1: checks 
+*** TURN *** [9h 5h 9d] [3h]
+kei635: checks 
+hamera_von1: bets $0.16
+kei635: folds 
+Uncalled bet ($0.16) returned to hamera_von1
+hamera_von1 collected $0.33 from pot
+hamera_von1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [9h 5h 9d 3h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Thargor111 (button) folded before Flop (didn't bet)
+Seat 3: kei635 (small blind) folded on the Turn
+Seat 4: sebjel (big blind) folded before Flop
+Seat 5: pounddesign folded before Flop (didn't bet)
+Seat 6: maskch folded before Flop (didn't bet)
+Seat 7: hamera_von1 collected ($0.33)
+Seat 9: Drover98 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237804787523:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:15:06 PT [2022/08/05 12:15:06 ET]
+Table 'Jiangxi' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Thargor111 ($11.68 in chips) 
+Seat 3: kei635 ($4.81 in chips) 
+Seat 4: sebjel ($7.40 in chips) 
+Seat 5: pounddesign ($5.20 in chips) 
+Seat 6: maskch ($3.86 in chips) 
+Seat 7: hamera_von1 ($3.05 in chips) 
+Seat 9: Drover98 ($5.97 in chips) 
+sebjel: posts small blind $0.02
+pounddesign: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 8c]
+maskch: folds 
+hamera_von1: folds 
+Drover98: folds 
+Dorex2007: folds 
+Thargor111: raises $0.07 to $0.12
+kei635: calls $0.12
+sebjel: folds 
+pounddesign: calls $0.07
+*** FLOP *** [7h 8d 6d]
+pounddesign: checks 
+Thargor111: checks 
+kei635: checks 
+*** TURN *** [7h 8d 6d] [Qh]
+pounddesign: bets $0.25
+Thargor111: calls $0.25
+kei635: calls $0.25
+*** RIVER *** [7h 8d 6d Qh] [5s]
+pounddesign: bets $0.60
+Thargor111: folds 
+hamera_von1 is disconnected 
+kei635: calls $0.60
+*** SHOW DOWN ***
+pounddesign: shows [Kd 9d] (a straight, Five to Nine)
+kei635: mucks hand 
+pounddesign collected $2.23 from pot
+*** SUMMARY ***
+Total pot $2.33 | Rake $0.10 
+Board [7h 8d 6d Qh 5s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Thargor111 folded on the River
+Seat 3: kei635 (button) mucked [4h Ah]
+Seat 4: sebjel (small blind) folded before Flop
+Seat 5: pounddesign (big blind) showed [Kd 9d] and won ($2.23) with a straight, Five to Nine
+Seat 6: maskch folded before Flop (didn't bet)
+Seat 7: hamera_von1 folded before Flop (didn't bet)
+Seat 9: Drover98 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237804811884:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:16:33 PT [2022/08/05 12:16:33 ET]
+Table 'Jiangxi' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Thargor111 ($11.31 in chips) 
+Seat 3: kei635 ($3.84 in chips) 
+Seat 4: sebjel ($7.38 in chips) 
+Seat 5: pounddesign ($6.46 in chips) 
+Seat 6: maskch ($3.86 in chips) 
+Seat 7: hamera_von1 ($3.05 in chips) 
+Seat 9: Drover98 ($5.97 in chips) 
+pounddesign: posts small blind $0.02
+maskch: posts big blind $0.05
+cobblerdan74: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 5s]
+hamera_von1 has timed out while disconnected
+hamera_von1: folds 
+Drover98: folds 
+Dorex2007: folds 
+Thargor111: folds 
+kei635: raises $0.07 to $0.12
+sebjel: folds 
+pounddesign: folds 
+maskch: folds 
+Uncalled bet ($0.07) returned to kei635
+kei635 collected $0.12 from pot
+kei635: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Thargor111 folded before Flop (didn't bet)
+Seat 3: kei635 collected ($0.12)
+Seat 4: sebjel (button) folded before Flop (didn't bet)
+Seat 5: pounddesign (small blind) folded before Flop
+Seat 6: maskch (big blind) folded before Flop
+Seat 7: hamera_von1 folded before Flop (didn't bet)
+Seat 9: Drover98 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237804820961:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:17:05 PT [2022/08/05 12:17:05 ET]
+Table 'Jiangxi' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Thargor111 ($11.31 in chips) 
+Seat 3: kei635 ($5 in chips) 
+Seat 4: sebjel ($7.38 in chips) 
+Seat 5: pounddesign ($6.44 in chips) 
+Seat 6: maskch ($3.81 in chips) 
+Seat 8: cobblerdan74 ($4.90 in chips) 
+Seat 9: Drover98 ($5.97 in chips) 
+maskch: posts small blind $0.02
+cobblerdan74: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 8s]
+Drover98: folds 
+Dorex2007: folds 
+Thargor111: raises $0.07 to $0.12
+Drover98 leaves the table
+kei635: folds 
+sebjel: folds 
+pounddesign: folds 
+maskch: folds 
+Andry00701 joins the table at seat #9 
+cobblerdan74: folds 
+Uncalled bet ($0.07) returned to Thargor111
+Thargor111 collected $0.12 from pot
+Thargor111: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Thargor111 collected ($0.12)
+Seat 3: kei635 folded before Flop (didn't bet)
+Seat 4: sebjel folded before Flop (didn't bet)
+Seat 5: pounddesign (button) folded before Flop (didn't bet)
+Seat 6: maskch (small blind) folded before Flop
+Seat 8: cobblerdan74 (big blind) folded before Flop
+Seat 9: Drover98 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237804825292:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:17:21 PT [2022/08/05 12:17:21 ET]
+Table 'Jiangxi' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Thargor111 ($11.38 in chips) 
+Seat 3: kei635 ($5 in chips) 
+Seat 4: sebjel ($7.38 in chips) 
+Seat 5: pounddesign ($6.44 in chips) 
+Seat 6: maskch ($3.79 in chips) 
+Seat 8: cobblerdan74 ($4.85 in chips) 
+Seat 9: Andry00701 ($5 in chips) 
+cobblerdan74: posts small blind $0.02
+Andry00701: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 7s]
+Dorex2007: folds 
+Thargor111: folds 
+kei635: folds 
+sebjel: raises $0.05 to $0.10
+pounddesign: raises $0.35 to $0.45
+maskch: folds 
+cobblerdan74: folds 
+Andry00701: calls $0.40
+sebjel: folds 
+*** FLOP *** [4s 6s 9h]
+Andry00701: checks 
+pounddesign: bets $0.45
+Andry00701: calls $0.45
+*** TURN *** [4s 6s 9h] [7h]
+Andry00701: checks 
+pounddesign: checks 
+*** RIVER *** [4s 6s 9h 7h] [Ah]
+Andry00701: checks 
+pounddesign: checks 
+*** SHOW DOWN ***
+Andry00701: shows [Qc Qh] (a pair of Queens)
+pounddesign: mucks hand 
+Andry00701 collected $1.84 from pot
+*** SUMMARY ***
+Total pot $1.92 | Rake $0.08 
+Board [4s 6s 9h 7h Ah]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Thargor111 folded before Flop (didn't bet)
+Seat 3: kei635 folded before Flop (didn't bet)
+Seat 4: sebjel folded before Flop
+Seat 5: pounddesign mucked [8c 9c]
+Seat 6: maskch (button) folded before Flop (didn't bet)
+Seat 8: cobblerdan74 (small blind) folded before Flop
+Seat 9: Andry00701 (big blind) showed [Qc Qh] and won ($1.84) with a pair of Queens
+
+
+
+PokerStars Hand #237804838086:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:18:07 PT [2022/08/05 12:18:07 ET]
+Table 'Jiangxi' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Thargor111 ($11.38 in chips) 
+Seat 3: kei635 ($5 in chips) 
+Seat 4: sebjel ($7.28 in chips) 
+Seat 5: pounddesign ($5.54 in chips) 
+Seat 6: maskch ($3.79 in chips) 
+Seat 8: cobblerdan74 ($4.83 in chips) 
+Seat 9: Andry00701 ($5.94 in chips) 
+Andry00701: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 4s]
+Thargor111: raises $0.10 to $0.15
+kei635: folds 
+sebjel: folds 
+pounddesign: folds 
+maskch: folds 
+cobblerdan74: folds 
+Andry00701: calls $0.13
+Dorex2007: folds 
+*** FLOP *** [Jd Qd 9h]
+Andry00701: checks 
+Thargor111: bets $0.23
+Andry00701: folds 
+Uncalled bet ($0.23) returned to Thargor111
+Thargor111 collected $0.34 from pot
+Thargor111: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [Jd Qd 9h]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: Thargor111 collected ($0.34)
+Seat 3: kei635 folded before Flop (didn't bet)
+Seat 4: sebjel folded before Flop (didn't bet)
+Seat 5: pounddesign folded before Flop (didn't bet)
+Seat 6: maskch folded before Flop (didn't bet)
+Seat 8: cobblerdan74 (button) folded before Flop (didn't bet)
+Seat 9: Andry00701 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #237804845321:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:18:33 PT [2022/08/05 12:18:33 ET]
+Table 'Jiangxi' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Thargor111 ($11.57 in chips) 
+Seat 3: kei635 ($5 in chips) 
+Seat 4: sebjel ($7.28 in chips) 
+Seat 5: pounddesign ($5.54 in chips) 
+Seat 6: maskch ($3.79 in chips) 
+Seat 8: cobblerdan74 ($4.83 in chips) 
+Seat 9: Andry00701 ($5.79 in chips) 
+Dorex2007: posts small blind $0.02
+Thargor111: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad Ah]
+kei635: folds 
+sebjel: raises $0.07 to $0.12
+pounddesign: calls $0.12
+maskch: folds 
+cobblerdan74: calls $0.12
+Andry00701: folds 
+Dorex2007: raises $0.53 to $0.65
+Thargor111: folds 
+sebjel: folds 
+pounddesign: calls $0.53
+cobblerdan74: folds 
+*** FLOP *** [5d 3d 8c]
+Dorex2007: bets $1.01
+pounddesign: folds 
+Uncalled bet ($1.01) returned to Dorex2007
+Dorex2007 collected $1.52 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.59 | Rake $0.07 
+Board [5d 3d 8c]
+Seat 1: Dorex2007 (small blind) collected ($1.52)
+Seat 2: Thargor111 (big blind) folded before Flop
+Seat 3: kei635 folded before Flop (didn't bet)
+Seat 4: sebjel folded before Flop
+Seat 5: pounddesign folded on the Flop
+Seat 6: maskch folded before Flop (didn't bet)
+Seat 8: cobblerdan74 folded before Flop
+Seat 9: Andry00701 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237804856752:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:19:14 PT [2022/08/05 12:19:14 ET]
+Table 'Jiangxi' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($5.87 in chips) 
+Seat 2: Thargor111 ($11.52 in chips) 
+Seat 3: kei635 ($5 in chips) 
+Seat 4: sebjel ($7.16 in chips) 
+Seat 5: pounddesign ($4.89 in chips) 
+Seat 6: maskch ($3.79 in chips) 
+Seat 8: cobblerdan74 ($4.71 in chips) 
+Seat 9: Andry00701 ($5.79 in chips) 
+Thargor111: posts small blind $0.02
+kei635: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 5d]
+sebjel: folds 
+pounddesign: folds 
+maskch: folds 
+cobblerdan74: folds 
+Andry00701: folds 
+Dorex2007: folds 
+Thargor111: raises $0.07 to $0.12
+kei635: folds 
+Uncalled bet ($0.07) returned to Thargor111
+Thargor111 collected $0.10 from pot
+Thargor111: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: Thargor111 (small blind) collected ($0.10)
+Seat 3: kei635 (big blind) folded before Flop
+Seat 4: sebjel folded before Flop (didn't bet)
+Seat 5: pounddesign folded before Flop (didn't bet)
+Seat 6: maskch folded before Flop (didn't bet)
+Seat 8: cobblerdan74 folded before Flop (didn't bet)
+Seat 9: Andry00701 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237804860411:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:19:27 PT [2022/08/05 12:19:27 ET]
+Table 'Jiangxi' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($5.87 in chips) 
+Seat 2: Thargor111 ($11.57 in chips) 
+Seat 3: kei635 ($4.95 in chips) 
+Seat 5: pounddesign ($4.89 in chips) 
+Seat 6: maskch ($3.79 in chips) 
+Seat 8: cobblerdan74 ($4.71 in chips) 
+Seat 9: Andry00701 ($5.79 in chips) 
+kei635: posts small blind $0.02
+sebjel: is sitting out 
+pounddesign: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Th]
+maskch: folds 
+cobblerdan74: folds 
+Andry00701: folds 
+Dorex2007: folds 
+Thargor111: raises $0.07 to $0.12
+kei635: calls $0.10
+pounddesign: raises $0.43 to $0.55
+sebjel leaves the table
+Thargor111: folds 
+kei635: calls $0.43
+*** FLOP *** [6c 8s Td]
+kei635: checks 
+pounddesign: checks 
+*** TURN *** [6c 8s Td] [4c]
+kei635: bets $0.40
+pounddesign: folds 
+Uncalled bet ($0.40) returned to kei635
+kei635 collected $1.17 from pot
+kei635: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.22 | Rake $0.05 
+Board [6c 8s Td 4c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Thargor111 (button) folded before Flop
+Seat 3: kei635 (small blind) collected ($1.17)
+Seat 5: pounddesign (big blind) folded on the Turn
+Seat 6: maskch folded before Flop (didn't bet)
+Seat 8: cobblerdan74 folded before Flop (didn't bet)
+Seat 9: Andry00701 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237804874382:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:20:16 PT [2022/08/05 12:20:16 ET]
+Table 'Jiangxi' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($5.87 in chips) 
+Seat 2: Thargor111 ($11.45 in chips) 
+Seat 3: kei635 ($5.57 in chips) 
+Seat 5: pounddesign ($4.34 in chips) 
+Seat 6: maskch ($3.79 in chips) 
+Seat 8: cobblerdan74 ($4.71 in chips) 
+Seat 9: Andry00701 ($5.79 in chips) 
+pounddesign: posts small blind $0.02
+maskch: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Jc]
+cobblerdan74: folds 
+Andry00701: folds 
+Dorex2007: folds 
+Thargor111: folds 
+kei635: folds 
+pounddesign: raises $0.10 to $0.15
+maskch: calls $0.10
+*** FLOP *** [Ac Ad 2h]
+pounddesign: checks 
+maskch: checks 
+*** TURN *** [Ac Ad 2h] [Kh]
+pounddesign: checks 
+maskch: checks 
+*** RIVER *** [Ac Ad 2h Kh] [3d]
+pounddesign: checks 
+maskch: checks 
+*** SHOW DOWN ***
+pounddesign: shows [6c 9c] (a pair of Aces)
+maskch: shows [3c Kc] (two pair, Aces and Kings)
+maskch collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Ac Ad 2h Kh 3d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Thargor111 folded before Flop (didn't bet)
+Seat 3: kei635 (button) folded before Flop (didn't bet)
+Seat 5: pounddesign (small blind) showed [6c 9c] and lost with a pair of Aces
+Seat 6: maskch (big blind) showed [3c Kc] and won ($0.29) with two pair, Aces and Kings
+Seat 8: cobblerdan74 folded before Flop (didn't bet)
+Seat 9: Andry00701 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237804881523:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:20:42 PT [2022/08/05 12:20:42 ET]
+Table 'Jiangxi' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($5.87 in chips) 
+Seat 2: Thargor111 ($11.45 in chips) 
+Seat 3: kei635 ($5.57 in chips) 
+Seat 5: pounddesign ($4.19 in chips) 
+Seat 6: maskch ($3.93 in chips) 
+Seat 8: cobblerdan74 ($4.71 in chips) 
+Seat 9: Andry00701 ($5.79 in chips) 
+maskch: posts small blind $0.02
+cobblerdan74: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Kh]
+Andry00701: calls $0.05
+Dorex2007: raises $0.15 to $0.20
+Thargor111: folds 
+kei635: calls $0.20
+pounddesign: calls $0.20
+maskch: folds 
+MorphMan12 joins the table at seat #4 
+cobblerdan74: raises $0.80 to $1
+Andry00701: folds 
+Dorex2007: folds 
+kei635: folds 
+pounddesign: calls $0.80
+*** FLOP *** [7d Kd Ks]
+cobblerdan74: bets $3.71 and is all-in
+pounddesign: folds 
+Uncalled bet ($3.71) returned to cobblerdan74
+cobblerdan74 collected $2.37 from pot
+*** SUMMARY ***
+Total pot $2.47 | Rake $0.10 
+Board [7d Kd Ks]
+Seat 1: Dorex2007 folded before Flop
+Seat 2: Thargor111 folded before Flop (didn't bet)
+Seat 3: kei635 folded before Flop
+Seat 5: pounddesign (button) folded on the Flop
+Seat 6: maskch (small blind) folded before Flop
+Seat 8: cobblerdan74 (big blind) collected ($2.37)
+Seat 9: Andry00701 folded before Flop
+
+
+
+PokerStars Hand #237804896173:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:21:34 PT [2022/08/05 12:21:34 ET]
+Table 'Jiangxi' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($5.67 in chips) 
+Seat 2: Thargor111 ($11.45 in chips) 
+Seat 3: kei635 ($5.37 in chips) 
+Seat 4: MorphMan12 ($5 in chips) 
+Seat 5: pounddesign ($3.19 in chips) 
+Seat 6: maskch ($3.91 in chips) 
+Seat 8: cobblerdan74 ($6.08 in chips) 
+Seat 9: Andry00701 ($5.74 in chips) 
+cobblerdan74: posts small blind $0.02
+Andry00701: posts big blind $0.05
+MorphMan12: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 7c]
+Dorex2007: folds 
+Thargor111: folds 
+kei635: folds 
+MorphMan12: checks 
+pounddesign: folds 
+maskch: folds 
+cobblerdan74: calls $0.03
+Andry00701: checks 
+*** FLOP *** [8s 4h 3c]
+cobblerdan74: checks 
+Andry00701: checks 
+MorphMan12: checks 
+*** TURN *** [8s 4h 3c] [Kd]
+cobblerdan74: bets $0.10
+Andry00701: folds 
+MorphMan12: folds 
+Uncalled bet ($0.10) returned to cobblerdan74
+cobblerdan74 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8s 4h 3c Kd]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Thargor111 folded before Flop (didn't bet)
+Seat 3: kei635 folded before Flop (didn't bet)
+Seat 4: MorphMan12 folded on the Turn (didn't bet)
+Seat 5: pounddesign folded before Flop (didn't bet)
+Seat 6: maskch (button) folded before Flop (didn't bet)
+Seat 8: cobblerdan74 (small blind) collected ($0.14)
+Seat 9: Andry00701 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #237804909625:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:22:21 PT [2022/08/05 12:22:21 ET]
+Table 'Jiangxi' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($5.67 in chips) 
+Seat 2: Thargor111 ($11.45 in chips) 
+Seat 3: kei635 ($5.37 in chips) 
+Seat 4: MorphMan12 ($4.95 in chips) 
+Seat 5: pounddesign ($3.19 in chips) 
+Seat 6: maskch ($3.91 in chips) 
+Seat 8: cobblerdan74 ($6.17 in chips) 
+Seat 9: Andry00701 ($5.69 in chips) 
+Andry00701: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 4c]
+Thargor111: folds 
+kei635: folds 
+MorphMan12: folds 
+pounddesign: raises $0.10 to $0.15
+maskch: folds 
+cobblerdan74: folds 
+Andry00701: folds 
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to pounddesign
+pounddesign collected $0.12 from pot
+pounddesign: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: Thargor111 folded before Flop (didn't bet)
+Seat 3: kei635 folded before Flop (didn't bet)
+Seat 4: MorphMan12 folded before Flop (didn't bet)
+Seat 5: pounddesign collected ($0.12)
+Seat 6: maskch folded before Flop (didn't bet)
+Seat 8: cobblerdan74 (button) folded before Flop (didn't bet)
+Seat 9: Andry00701 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237804916475:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:22:45 PT [2022/08/05 12:22:45 ET]
+Table 'Jiangxi' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($5.62 in chips) 
+Seat 2: Thargor111 ($11.45 in chips) 
+Seat 3: kei635 ($5.37 in chips) 
+Seat 4: MorphMan12 ($4.95 in chips) 
+Seat 5: pounddesign ($3.26 in chips) 
+Seat 6: maskch ($3.91 in chips) 
+Seat 8: cobblerdan74 ($6.17 in chips) 
+Seat 9: Andry00701 ($5.67 in chips) 
+Dorex2007: posts small blind $0.02
+Thargor111: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 3s]
+kei635: folds 
+MorphMan12: folds 
+pounddesign: folds 
+maskch: folds 
+cobblerdan74: raises $0.10 to $0.15
+Andry00701: folds 
+Dorex2007: folds 
+Thargor111: raises $0.25 to $0.40
+cobblerdan74: calls $0.25
+*** FLOP *** [Jc 4c Ac]
+Thargor111: bets $0.39
+cobblerdan74: calls $0.39
+*** TURN *** [Jc 4c Ac] [Ts]
+Thargor111: checks 
+cobblerdan74: bets $0.90
+Thargor111: calls $0.90
+*** RIVER *** [Jc 4c Ac Ts] [Js]
+Thargor111: checks 
+cobblerdan74: checks 
+*** SHOW DOWN ***
+Thargor111: shows [Kd Ad] (two pair, Aces and Jacks)
+cobblerdan74: mucks hand 
+Thargor111 collected $3.22 from pot
+*** SUMMARY ***
+Total pot $3.40 | Rake $0.18 
+Board [Jc 4c Ac Ts Js]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: Thargor111 (big blind) showed [Kd Ad] and won ($3.22) with two pair, Aces and Jacks
+Seat 3: kei635 folded before Flop (didn't bet)
+Seat 4: MorphMan12 folded before Flop (didn't bet)
+Seat 5: pounddesign folded before Flop (didn't bet)
+Seat 6: maskch folded before Flop (didn't bet)
+Seat 8: cobblerdan74 mucked [Tc Qs]
+Seat 9: Andry00701 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237804931153:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:23:37 PT [2022/08/05 12:23:37 ET]
+Table 'Jiangxi' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($5.60 in chips) 
+Seat 2: Thargor111 ($12.98 in chips) 
+Seat 3: kei635 ($5.37 in chips) 
+Seat 4: MorphMan12 ($4.95 in chips) 
+Seat 5: pounddesign ($3.26 in chips) 
+Seat 6: maskch ($3.91 in chips) 
+Seat 8: cobblerdan74 ($4.48 in chips) 
+Seat 9: Andry00701 ($5.67 in chips) 
+Thargor111: posts small blind $0.02
+kei635: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h As]
+MorphMan12: folds 
+pounddesign: folds 
+maskch: folds 
+cobblerdan74: folds 
+Andry00701: folds 
+Dorex2007: folds 
+Thargor111: raises $0.07 to $0.12
+kei635: raises $0.38 to $0.50
+Thargor111: folds 
+Uncalled bet ($0.38) returned to kei635
+kei635 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: Thargor111 (small blind) folded before Flop
+Seat 3: kei635 (big blind) collected ($0.24)
+Seat 4: MorphMan12 folded before Flop (didn't bet)
+Seat 5: pounddesign folded before Flop (didn't bet)
+Seat 6: maskch folded before Flop (didn't bet)
+Seat 8: cobblerdan74 folded before Flop (didn't bet)
+Seat 9: Andry00701 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237804939333:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:24:05 PT [2022/08/05 12:24:05 ET]
+Table 'Jiangxi' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($5.60 in chips) 
+Seat 2: Thargor111 ($12.86 in chips) 
+Seat 3: kei635 ($5.49 in chips) 
+Seat 4: MorphMan12 ($4.95 in chips) 
+Seat 5: pounddesign ($3.26 in chips) 
+Seat 6: maskch ($3.91 in chips) 
+Seat 8: cobblerdan74 ($4.48 in chips) 
+Seat 9: Andry00701 ($5.67 in chips) 
+kei635: posts small blind $0.02
+MorphMan12: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 7c]
+pounddesign: folds 
+maskch: folds 
+cobblerdan74: folds 
+Andry00701: folds 
+Dorex2007: folds 
+Thargor111: raises $0.07 to $0.12
+kei635: folds 
+MorphMan12: folds 
+Uncalled bet ($0.07) returned to Thargor111
+Thargor111 collected $0.12 from pot
+Thargor111: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Thargor111 (button) collected ($0.12)
+Seat 3: kei635 (small blind) folded before Flop
+Seat 4: MorphMan12 (big blind) folded before Flop
+Seat 5: pounddesign folded before Flop (didn't bet)
+Seat 6: maskch folded before Flop (didn't bet)
+Seat 8: cobblerdan74 folded before Flop (didn't bet)
+Seat 9: Andry00701 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237804945905:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:24:28 PT [2022/08/05 12:24:28 ET]
+Table 'Jiangxi' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($5.60 in chips) 
+Seat 2: Thargor111 ($12.93 in chips) 
+Seat 3: kei635 ($5.47 in chips) 
+Seat 4: MorphMan12 ($4.90 in chips) 
+Seat 5: pounddesign ($3.26 in chips) 
+Seat 6: maskch ($3.91 in chips) 
+Seat 8: cobblerdan74 ($4.48 in chips) 
+Seat 9: Andry00701 ($5.67 in chips) 
+MorphMan12: posts small blind $0.02
+pounddesign: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 7h]
+maskch: folds 
+cobblerdan74: folds 
+Andry00701: folds 
+Dorex2007: folds 
+Thargor111: folds 
+kei635: folds 
+MorphMan12: calls $0.03
+pounddesign: checks 
+*** FLOP *** [Js 3c 8d]
+MorphMan12: checks 
+pounddesign: checks 
+*** TURN *** [Js 3c 8d] [8c]
+MorphMan12: checks 
+pounddesign: checks 
+*** RIVER *** [Js 3c 8d 8c] [Tc]
+MorphMan12: checks 
+pounddesign: checks 
+*** SHOW DOWN ***
+MorphMan12: shows [Kh 4s] (a pair of Eights)
+pounddesign: mucks hand 
+MorphMan12 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Js 3c 8d 8c Tc]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Thargor111 folded before Flop (didn't bet)
+Seat 3: kei635 (button) folded before Flop (didn't bet)
+Seat 4: MorphMan12 (small blind) showed [Kh 4s] and won ($0.10) with a pair of Eights
+Seat 5: pounddesign (big blind) mucked [Qd 6s]
+Seat 6: maskch folded before Flop (didn't bet)
+Seat 8: cobblerdan74 folded before Flop (didn't bet)
+Seat 9: Andry00701 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237804958655:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:25:13 PT [2022/08/05 12:25:13 ET]
+Table 'Jiangxi' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($5.60 in chips) 
+Seat 2: Thargor111 ($12.93 in chips) 
+Seat 3: kei635 ($5.47 in chips) 
+Seat 4: MorphMan12 ($4.95 in chips) 
+Seat 5: pounddesign ($3.21 in chips) 
+Seat 6: maskch ($3.91 in chips) 
+Seat 8: cobblerdan74 ($4.48 in chips) 
+Seat 9: Andry00701 ($5.67 in chips) 
+pounddesign: posts small blind $0.02
+maskch: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 7d]
+cobblerdan74: folds 
+Andry00701: folds 
+Dorex2007: folds 
+Thargor111: folds 
+kei635: raises $0.07 to $0.12
+MorphMan12: raises $0.28 to $0.40
+pounddesign: folds 
+maskch: folds 
+kei635: calls $0.28
+*** FLOP *** [6d 9s Ad]
+kei635: checks 
+MorphMan12: bets $0.48
+kei635: calls $0.48
+*** TURN *** [6d 9s Ad] [8c]
+kei635: checks 
+MorphMan12: bets $1.10
+kei635: calls $1.10
+*** RIVER *** [6d 9s Ad 8c] [Js]
+kei635: checks 
+hamera_von1 leaves the table
+MorphMan12: bets $1.51
+kei635: folds 
+Uncalled bet ($1.51) returned to MorphMan12
+MorphMan12 collected $3.82 from pot
+*** SUMMARY ***
+Total pot $4.03 | Rake $0.21 
+Board [6d 9s Ad 8c Js]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Thargor111 folded before Flop (didn't bet)
+Seat 3: kei635 folded on the River
+Seat 4: MorphMan12 (button) collected ($3.82)
+Seat 5: pounddesign (small blind) folded before Flop
+Seat 6: maskch (big blind) folded before Flop
+Seat 8: cobblerdan74 folded before Flop (didn't bet)
+Seat 9: Andry00701 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237804991516:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:26:35 PT [2022/08/05 12:26:35 ET]
+Table 'Jiangxi' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($5.60 in chips) 
+Seat 2: Thargor111 ($12.93 in chips) 
+Seat 3: kei635 ($3.49 in chips) 
+Seat 4: MorphMan12 ($6.79 in chips) 
+Seat 5: pounddesign ($3.19 in chips) 
+Seat 6: maskch ($3.86 in chips) 
+Seat 8: cobblerdan74 ($4.48 in chips) 
+Seat 9: Andry00701 ($5.67 in chips) 
+maskch: posts small blind $0.02
+cobblerdan74: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 6s]
+Andry00701: calls $0.05
+Dorex2007: folds 
+Thargor111: folds 
+kei635: folds 
+kei635 leaves the table
+MorphMan12: raises $0.08 to $0.13
+pounddesign: folds 
+maskch: calls $0.11
+cobblerdan74: folds 
+Andry00701: calls $0.08
+*** FLOP *** [4d Qd Jh]
+maskch: checks 
+Andry00701: checks 
+MorphMan12: bets $0.24
+maskch: folds 
+Andry00701: folds 
+Uncalled bet ($0.24) returned to MorphMan12
+MorphMan12 collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [4d Qd Jh]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Thargor111 folded before Flop (didn't bet)
+Seat 3: kei635 folded before Flop (didn't bet)
+Seat 4: MorphMan12 collected ($0.42)
+Seat 5: pounddesign (button) folded before Flop (didn't bet)
+Seat 6: maskch (small blind) folded on the Flop
+Seat 8: cobblerdan74 (big blind) folded before Flop
+Seat 9: Andry00701 folded on the Flop
+
+
+
+PokerStars Hand #237805002559:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:27:12 PT [2022/08/05 12:27:12 ET]
+Table 'Jiangxi' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($5.60 in chips) 
+Seat 2: Thargor111 ($12.93 in chips) 
+Seat 4: MorphMan12 ($7.08 in chips) 
+Seat 5: pounddesign ($3.19 in chips) 
+Seat 6: maskch ($3.73 in chips) 
+Seat 8: cobblerdan74 ($4.43 in chips) 
+Seat 9: Andry00701 ($5.54 in chips) 
+cobblerdan74: posts small blind $0.02
+Andry00701: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 6s]
+Dorex2007: folds 
+Thargor111: folds 
+MorphMan12: raises $0.08 to $0.13
+pounddesign: folds 
+maskch: folds 
+cobblerdan74: folds 
+Andry00701: folds 
+Uncalled bet ($0.08) returned to MorphMan12
+MorphMan12 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Thargor111 folded before Flop (didn't bet)
+Seat 4: MorphMan12 collected ($0.12)
+Seat 5: pounddesign folded before Flop (didn't bet)
+Seat 6: maskch (button) folded before Flop (didn't bet)
+Seat 8: cobblerdan74 (small blind) folded before Flop
+Seat 9: Andry00701 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237805007728:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:27:29 PT [2022/08/05 12:27:29 ET]
+Table 'Jiangxi' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($5.60 in chips) 
+Seat 2: Thargor111 ($12.93 in chips) 
+Seat 4: MorphMan12 ($7.15 in chips) 
+Seat 5: pounddesign ($3.19 in chips) 
+Seat 6: maskch ($3.73 in chips) 
+Seat 8: cobblerdan74 ($4.41 in chips) 
+Seat 9: Andry00701 ($5.49 in chips) 
+Andry00701: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Tc]
+Thargor111: folds 
+MorphMan12: folds 
+pounddesign: raises $0.10 to $0.15
+maskch: folds 
+cobblerdan74: folds 
+Andry00701: folds 
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to pounddesign
+pounddesign collected $0.12 from pot
+pounddesign: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: Thargor111 folded before Flop (didn't bet)
+Seat 4: MorphMan12 folded before Flop (didn't bet)
+Seat 5: pounddesign collected ($0.12)
+Seat 6: maskch folded before Flop (didn't bet)
+Seat 8: cobblerdan74 (button) folded before Flop (didn't bet)
+Seat 9: Andry00701 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237805011571:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:27:43 PT [2022/08/05 12:27:43 ET]
+Table 'Jiangxi' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($5.55 in chips) 
+Seat 2: Thargor111 ($12.93 in chips) 
+Seat 4: MorphMan12 ($7.15 in chips) 
+Seat 5: pounddesign ($3.26 in chips) 
+Seat 6: maskch ($3.73 in chips) 
+Seat 8: cobblerdan74 ($4.41 in chips) 
+Seat 9: Andry00701 ($5.47 in chips) 
+Dorex2007: posts small blind $0.02
+Thargor111: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s Td]
+MorphMan12: folds 
+pounddesign: folds 
+maskch: folds 
+cobblerdan74: raises $0.10 to $0.15
+Andry00701: folds 
+Dorex2007: folds 
+Thargor111: folds 
+Uncalled bet ($0.10) returned to cobblerdan74
+cobblerdan74 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: Thargor111 (big blind) folded before Flop
+Seat 4: MorphMan12 folded before Flop (didn't bet)
+Seat 5: pounddesign folded before Flop (didn't bet)
+Seat 6: maskch folded before Flop (didn't bet)
+Seat 8: cobblerdan74 collected ($0.12)
+Seat 9: Andry00701 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237805016158:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:27:58 PT [2022/08/05 12:27:58 ET]
+Table 'Jiangxi' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($5.53 in chips) 
+Seat 2: Thargor111 ($12.88 in chips) 
+Seat 4: MorphMan12 ($7.15 in chips) 
+Seat 5: pounddesign ($3.26 in chips) 
+Seat 6: maskch ($3.73 in chips) 
+Seat 8: cobblerdan74 ($4.48 in chips) 
+Seat 9: Andry00701 ($5.47 in chips) 
+Thargor111: posts small blind $0.02
+MorphMan12: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 3c]
+pounddesign: raises $0.10 to $0.15
+maskch: folds 
+cobblerdan74: folds 
+Andry00701: folds 
+Dorex2007: folds 
+Thargor111: folds 
+MorphMan12: folds 
+Uncalled bet ($0.10) returned to pounddesign
+pounddesign collected $0.12 from pot
+pounddesign: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: Thargor111 (small blind) folded before Flop
+Seat 4: MorphMan12 (big blind) folded before Flop
+Seat 5: pounddesign collected ($0.12)
+Seat 6: maskch folded before Flop (didn't bet)
+Seat 8: cobblerdan74 folded before Flop (didn't bet)
+Seat 9: Andry00701 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237805020889:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:28:14 PT [2022/08/05 12:28:14 ET]
+Table 'Jiangxi' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($5.53 in chips) 
+Seat 2: Thargor111 ($12.86 in chips) 
+Seat 4: MorphMan12 ($7.10 in chips) 
+Seat 5: pounddesign ($3.33 in chips) 
+Seat 6: maskch ($3.73 in chips) 
+Seat 8: cobblerdan74 ($4.48 in chips) 
+Seat 9: Andry00701 ($5.47 in chips) 
+MorphMan12: posts small blind $0.02
+pounddesign: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 9c]
+maskch: folds 
+cobblerdan74: folds 
+Andry00701: folds 
+Dorex2007: folds 
+Thargor111: folds 
+MorphMan12: raises $0.10 to $0.15
+pounddesign: folds 
+Uncalled bet ($0.10) returned to MorphMan12
+MorphMan12 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Thargor111 (button) folded before Flop (didn't bet)
+Seat 4: MorphMan12 (small blind) collected ($0.10)
+Seat 5: pounddesign (big blind) folded before Flop
+Seat 6: maskch folded before Flop (didn't bet)
+Seat 8: cobblerdan74 folded before Flop (didn't bet)
+Seat 9: Andry00701 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237805025231:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:28:29 PT [2022/08/05 12:28:29 ET]
+Table 'Jiangxi' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($5.53 in chips) 
+Seat 2: Thargor111 ($12.86 in chips) 
+Seat 4: MorphMan12 ($7.15 in chips) 
+Seat 5: pounddesign ($3.28 in chips) 
+Seat 6: maskch ($3.73 in chips) 
+Seat 8: cobblerdan74 ($4.48 in chips) 
+Seat 9: Andry00701 ($5.47 in chips) 
+pounddesign: posts small blind $0.02
+maskch: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 2d]
+cobblerdan74: folds 
+Andry00701: folds 
+Dorex2007: folds 
+Thargor111: folds 
+MorphMan12: raises $0.10 to $0.15
+pounddesign: calls $0.13
+maskch: folds 
+*** FLOP *** [Qh 3c 9h]
+pounddesign: checks 
+MorphMan12: bets $0.23
+pounddesign: raises $0.57 to $0.80
+MorphMan12: raises $5.05 to $5.85
+BasotaN1 joins the table at seat #7 
+pounddesign: calls $2.33 and is all-in
+Uncalled bet ($2.72) returned to MorphMan12
+*** TURN *** [Qh 3c 9h] [6h]
+*** RIVER *** [Qh 3c 9h 6h] [Ks]
+*** SHOW DOWN ***
+pounddesign: shows [Jc 9d] (a pair of Nines)
+MorphMan12: shows [Ad Qs] (a pair of Queens)
+MorphMan12 collected $6.27 from pot
+*** SUMMARY ***
+Total pot $6.61 | Rake $0.34 
+Board [Qh 3c 9h 6h Ks]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Thargor111 folded before Flop (didn't bet)
+Seat 4: MorphMan12 (button) showed [Ad Qs] and won ($6.27) with a pair of Queens
+Seat 5: pounddesign (small blind) showed [Jc 9d] and lost with a pair of Nines
+Seat 6: maskch (big blind) folded before Flop
+Seat 8: cobblerdan74 folded before Flop (didn't bet)
+Seat 9: Andry00701 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237805039854:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:29:19 PT [2022/08/05 12:29:19 ET]
+Table 'Jiangxi' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($5.53 in chips) 
+Seat 2: Thargor111 ($12.86 in chips) 
+Seat 4: MorphMan12 ($10.14 in chips) 
+Seat 6: maskch ($3.68 in chips) 
+Seat 8: cobblerdan74 ($4.48 in chips) 
+Seat 9: Andry00701 ($5.47 in chips) 
+cobblerdan74: posts small blind $0.02
+Andry00701: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 3h]
+Dorex2007: folds 
+Thargor111: folds 
+BasotaN1 leaves the table
+MorphMan12: folds 
+maskch: calls $0.05
+cobblerdan74: folds 
+Andry00701: checks 
+*** FLOP *** [Ks 9c 8s]
+Andry00701: checks 
+pounddesign leaves the table
+maskch: checks 
+*** TURN *** [Ks 9c 8s] [4s]
+Andry00701: checks 
+maskch: checks 
+*** RIVER *** [Ks 9c 8s 4s] [Ah]
+Andry00701: checks 
+maskch: checks 
+*** SHOW DOWN ***
+Andry00701: shows [9d Tc] (a pair of Nines)
+maskch: mucks hand 
+Andry00701 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ks 9c 8s 4s Ah]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Thargor111 folded before Flop (didn't bet)
+Seat 4: MorphMan12 folded before Flop (didn't bet)
+Seat 6: maskch (button) mucked [6d 6h]
+Seat 8: cobblerdan74 (small blind) folded before Flop
+Seat 9: Andry00701 (big blind) showed [9d Tc] and won ($0.12) with a pair of Nines
+
+
+
+PokerStars Hand #237805050920:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:29:56 PT [2022/08/05 12:29:56 ET]
+Table 'Jiangxi' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($5.53 in chips) 
+Seat 2: Thargor111 ($12.86 in chips) 
+Seat 4: MorphMan12 ($10.14 in chips) 
+Seat 6: maskch ($3.63 in chips) 
+Seat 8: cobblerdan74 ($4.46 in chips) 
+Seat 9: Andry00701 ($5.54 in chips) 
+Andry00701: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 5c]
+Thargor111: folds 
+MorphMan12: folds 
+maskch: folds 
+cobblerdan74: folds 
+Andry00701: raises $0.05 to $0.10
+Dorex2007: folds 
+Uncalled bet ($0.05) returned to Andry00701
+Andry00701 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: Thargor111 folded before Flop (didn't bet)
+Seat 4: MorphMan12 folded before Flop (didn't bet)
+Seat 6: maskch folded before Flop (didn't bet)
+Seat 8: cobblerdan74 (button) folded before Flop (didn't bet)
+Seat 9: Andry00701 (small blind) collected ($0.10)
+
+
+
+PokerStars Hand #237805054325:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:30:07 PT [2022/08/05 12:30:07 ET]
+Table 'Jiangxi' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($5.48 in chips) 
+Seat 2: Thargor111 ($12.86 in chips) 
+Seat 4: MorphMan12 ($10.14 in chips) 
+Seat 6: maskch ($3.63 in chips) 
+Seat 8: cobblerdan74 ($4.46 in chips) 
+Seat 9: Andry00701 ($5.59 in chips) 
+Dorex2007: posts small blind $0.02
+Thargor111: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s Js]
+MorphMan12: folds 
+maskch: folds 
+cobblerdan74: raises $0.10 to $0.15
+Andry00701: folds 
+Dorex2007: folds 
+Thargor111: folds 
+Uncalled bet ($0.10) returned to cobblerdan74
+cobblerdan74 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: Thargor111 (big blind) folded before Flop
+Seat 4: MorphMan12 folded before Flop (didn't bet)
+Seat 6: maskch folded before Flop (didn't bet)
+Seat 8: cobblerdan74 collected ($0.12)
+Seat 9: Andry00701 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237805060811:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:30:29 PT [2022/08/05 12:30:29 ET]
+Table 'Jiangxi' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($5.46 in chips) 
+Seat 2: Thargor111 ($12.81 in chips) 
+Seat 4: MorphMan12 ($10.14 in chips) 
+Seat 6: maskch ($3.63 in chips) 
+Seat 8: cobblerdan74 ($4.53 in chips) 
+Seat 9: Andry00701 ($5.59 in chips) 
+Thargor111: posts small blind $0.02
+MorphMan12: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Qh]
+maskch: folds 
+cobblerdan74: folds 
+Andry00701: folds 
+Dorex2007: folds 
+Thargor111: folds 
+Uncalled bet ($0.03) returned to MorphMan12
+MorphMan12 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: Thargor111 (small blind) folded before Flop
+Seat 4: MorphMan12 (big blind) collected ($0.04)
+Seat 6: maskch folded before Flop (didn't bet)
+Seat 8: cobblerdan74 folded before Flop (didn't bet)
+Seat 9: Andry00701 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237805064513:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:30:42 PT [2022/08/05 12:30:42 ET]
+Table 'Jiangxi' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($5.46 in chips) 
+Seat 2: Thargor111 ($12.79 in chips) 
+Seat 4: MorphMan12 ($10.16 in chips) 
+Seat 6: maskch ($3.63 in chips) 
+Seat 8: cobblerdan74 ($4.53 in chips) 
+Seat 9: Andry00701 ($5.59 in chips) 
+MorphMan12: posts small blind $0.02
+maskch: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 8s]
+cobblerdan74: folds 
+Andry00701: folds 
+Dorex2007: folds 
+Thargor111: folds 
+MorphMan12: folds 
+Uncalled bet ($0.03) returned to maskch
+maskch collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Thargor111 (button) folded before Flop (didn't bet)
+Seat 4: MorphMan12 (small blind) folded before Flop
+Seat 6: maskch (big blind) collected ($0.04)
+Seat 8: cobblerdan74 folded before Flop (didn't bet)
+Seat 9: Andry00701 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237805067884:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:30:53 PT [2022/08/05 12:30:53 ET]
+Table 'Jiangxi' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($5.46 in chips) 
+Seat 2: Thargor111 ($12.79 in chips) 
+Seat 4: MorphMan12 ($10.14 in chips) 
+Seat 6: maskch ($3.65 in chips) 
+maskch: posts small blind $0.02
+cobblerdan74: is sitting out 
+Andry00701: is sitting out 
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 2s]
+Thargor111: raises $0.07 to $0.12
+MorphMan12: raises $0.28 to $0.40
+maskch: folds 
+Dorex2007: folds 
+Thargor111: calls $0.28
+*** FLOP *** [Js 4d 8h]
+Thargor111: checks 
+MorphMan12: bets $0.50
+Thargor111: folds 
+Uncalled bet ($0.50) returned to MorphMan12
+MorphMan12 collected $0.82 from pot
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.05 
+Board [Js 4d 8h]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: Thargor111 folded on the Flop
+Seat 4: MorphMan12 (button) collected ($0.82)
+Seat 6: maskch (small blind) folded before Flop
+
+
+
+PokerStars Hand #237805077821:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:31:26 PT [2022/08/05 12:31:26 ET]
+Table 'Jiangxi' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($5.41 in chips) 
+Seat 2: Thargor111 ($12.39 in chips) 
+Seat 4: MorphMan12 ($10.56 in chips) 
+Seat 6: maskch ($3.63 in chips) 
+Dorex2007: posts small blind $0.02
+Thargor111: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 4s]
+MorphMan12: folds 
+maskch: folds 
+Dorex2007: folds 
+Uncalled bet ($0.03) returned to Thargor111
+Thargor111 collected $0.04 from pot
+Thargor111: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: Thargor111 (big blind) collected ($0.04)
+Seat 4: MorphMan12 folded before Flop (didn't bet)
+Seat 6: maskch (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237805080578:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:31:35 PT [2022/08/05 12:31:35 ET]
+Table 'Jiangxi' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($5.39 in chips) 
+Seat 2: Thargor111 ($12.41 in chips) 
+Seat 4: MorphMan12 ($10.56 in chips) 
+Seat 6: maskch ($3.63 in chips) 
+Thargor111: posts small blind $0.02
+MorphMan12: posts big blind $0.05
+Andry00701: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Js]
+maskch: folds 
+JaeG142000 joins the table at seat #5 
+Dorex2007 has timed out
+Dorex2007: folds 
+Thargor111: calls $0.03
+MorphMan12: checks 
+*** FLOP *** [3h 7s 3s]
+Thargor111: bets $0.05
+MorphMan12: calls $0.05
+*** TURN *** [3h 7s 3s] [As]
+Thargor111: bets $0.09
+MorphMan12: folds 
+Uncalled bet ($0.09) returned to Thargor111
+Thargor111 collected $0.19 from pot
+Thargor111: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [3h 7s 3s As]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: Thargor111 (small blind) collected ($0.19)
+Seat 4: MorphMan12 (big blind) folded on the Turn
+Seat 6: maskch folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237805090754:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:32:09 PT [2022/08/05 12:32:09 ET]
+Table 'Jiangxi' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($5.39 in chips) 
+Seat 2: Thargor111 ($12.50 in chips) 
+Seat 4: MorphMan12 ($10.46 in chips) 
+Seat 5: JaeG142000 ($3 in chips) 
+Seat 6: maskch ($3.63 in chips) 
+MorphMan12: posts small blind $0.02
+JaeG142000: posts big blind $0.05
+Andry00701: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac Ks]
+maskch: folds 
+Dorex2007: raises $0.20 to $0.25
+Thargor111: folds 
+MorphMan12: folds 
+JaeG142000: calls $0.20
+*** FLOP *** [9h 5s Th]
+JaeG142000: bets $0.35
+Dorex2007: calls $0.35
+*** TURN *** [9h 5s Th] [Qc]
+JaeG142000: checks 
+Dorex2007: bets $0.58
+JaeG142000: folds 
+Uncalled bet ($0.58) returned to Dorex2007
+Dorex2007 collected $1.17 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.22 | Rake $0.05 
+Board [9h 5s Th Qc]
+Seat 1: Dorex2007 collected ($1.17)
+Seat 2: Thargor111 (button) folded before Flop (didn't bet)
+Seat 4: MorphMan12 (small blind) folded before Flop
+Seat 5: JaeG142000 (big blind) folded on the Turn
+Seat 6: maskch folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237805099751:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:32:40 PT [2022/08/05 12:32:40 ET]
+Table 'Jiangxi' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($5.96 in chips) 
+Seat 2: Thargor111 ($12.50 in chips) 
+Seat 4: MorphMan12 ($10.44 in chips) 
+Seat 5: JaeG142000 ($2.40 in chips) 
+Seat 6: maskch ($3.63 in chips) 
+JaeG142000: posts small blind $0.02
+maskch: posts big blind $0.05
+Andry00701: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 2s]
+Dorex2007: folds 
+Thargor111: folds 
+MorphMan12: raises $0.08 to $0.13
+JaeG142000: folds 
+maskch: calls $0.08
+*** FLOP *** [8d 2c Td]
+maskch: checks 
+MorphMan12: bets $0.16
+maskch: folds 
+Uncalled bet ($0.16) returned to MorphMan12
+MorphMan12 collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [8d 2c Td]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Thargor111 folded before Flop (didn't bet)
+Seat 4: MorphMan12 (button) collected ($0.27)
+Seat 5: JaeG142000 (small blind) folded before Flop
+Seat 6: maskch (big blind) folded on the Flop
+
+
+
+PokerStars Hand #237805109135:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:33:11 PT [2022/08/05 12:33:11 ET]
+Table 'Jiangxi' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($5.96 in chips) 
+Seat 2: Thargor111 ($12.50 in chips) 
+Seat 4: MorphMan12 ($10.58 in chips) 
+Seat 5: JaeG142000 ($2.38 in chips) 
+Seat 6: maskch ($3.50 in chips) 
+Seat 9: Andry00701 ($5.59 in chips) 
+maskch: posts small blind $0.02
+Andry00701: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Td]
+Dorex2007: folds 
+Thargor111: raises $0.07 to $0.12
+MorphMan12: calls $0.12
+JaeG142000: calls $0.12
+maskch: folds 
+Andry00701: folds 
+*** FLOP *** [2s 9h 6h]
+Thargor111: checks 
+MorphMan12: checks 
+JaeG142000: bets $0.40
+Thargor111: folds 
+MorphMan12: folds 
+Uncalled bet ($0.40) returned to JaeG142000
+JaeG142000 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [2s 9h 6h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Thargor111 folded on the Flop
+Seat 4: MorphMan12 folded on the Flop
+Seat 5: JaeG142000 (button) collected ($0.41)
+Seat 6: maskch (small blind) folded before Flop
+Seat 9: Andry00701 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237805120031:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:33:48 PT [2022/08/05 12:33:48 ET]
+Table 'Jiangxi' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($5.96 in chips) 
+Seat 2: Thargor111 ($12.38 in chips) 
+Seat 4: MorphMan12 ($10.46 in chips) 
+Seat 5: JaeG142000 ($2.67 in chips) 
+Seat 6: maskch ($3.48 in chips) 
+Seat 9: Andry00701 ($5.54 in chips) 
+Andry00701: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 7c]
+Thargor111: calls $0.05
+MorphMan12: folds 
+JaeG142000: calls $0.05
+maskch: folds 
+Andry00701: folds 
+Dorex2007: checks 
+*** FLOP *** [Qh 9h 6h]
+Dorex2007: checks 
+Thargor111: checks 
+JaeG142000: bets $0.16
+Dorex2007: folds 
+Thargor111: folds 
+Uncalled bet ($0.16) returned to JaeG142000
+JaeG142000 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Qh 9h 6h]
+Seat 1: Dorex2007 (big blind) folded on the Flop
+Seat 2: Thargor111 folded on the Flop
+Seat 4: MorphMan12 folded before Flop (didn't bet)
+Seat 5: JaeG142000 collected ($0.16)
+Seat 6: maskch (button) folded before Flop (didn't bet)
+Seat 9: Andry00701 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237805128441:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:34:15 PT [2022/08/05 12:34:15 ET]
+Table 'Jiangxi' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($5.91 in chips) 
+Seat 2: Thargor111 ($12.33 in chips) 
+Seat 4: MorphMan12 ($10.46 in chips) 
+Seat 5: JaeG142000 ($2.78 in chips) 
+Seat 6: maskch ($3.48 in chips) 
+Seat 9: Andry00701 ($5.52 in chips) 
+Dorex2007: posts small blind $0.02
+Thargor111: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 9c]
+MorphMan12: folds 
+JaeG142000: calls $0.05
+maskch: calls $0.05
+Andry00701: folds 
+Dorex2007: folds 
+Thargor111: checks 
+*** FLOP *** [4c 2d Ad]
+Thargor111: checks 
+JaeG142000: bets $0.15
+maskch: raises $0.15 to $0.30
+Thargor111: folds 
+JaeG142000: folds 
+Uncalled bet ($0.15) returned to maskch
+maskch collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [4c 2d Ad]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: Thargor111 (big blind) folded on the Flop
+Seat 4: MorphMan12 folded before Flop (didn't bet)
+Seat 5: JaeG142000 folded on the Flop
+Seat 6: maskch collected ($0.45)
+Seat 9: Andry00701 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237805149282:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:35:24 PT [2022/08/05 12:35:24 ET]
+Table 'Jiangxi' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($5.89 in chips) 
+Seat 4: MorphMan12 ($10.28 in chips) 
+Seat 5: JaeG142000 ($2.85 in chips) 
+Seat 6: maskch ($3.63 in chips) 
+Seat 9: Andry00701 ($5.52 in chips) 
+maskch: posts small blind $0.02
+Andry00701: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 4s]
+cobblerdan74 leaves the table
+Dorex2007: folds 
+MorphMan12: folds 
+JaeG142000: calls $0.05
+maskch: folds 
+Andry00701: checks 
+*** FLOP *** [As Ad 3h]
+Andry00701: checks 
+JaeG142000: bets $0.10
+Andry00701: folds 
+Uncalled bet ($0.10) returned to JaeG142000
+JaeG142000 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [As Ad 3h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 4: MorphMan12 folded before Flop (didn't bet)
+Seat 5: JaeG142000 (button) collected ($0.12)
+Seat 6: maskch (small blind) folded before Flop
+Seat 9: Andry00701 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #237805154830:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/05 9:35:42 PT [2022/08/05 12:35:42 ET]
+Table 'Jiangxi' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($5.89 in chips) 
+Seat 4: MorphMan12 ($10.28 in chips) 
+Seat 5: JaeG142000 ($2.92 in chips) 
+Seat 6: maskch ($3.61 in chips) 
+Seat 9: Andry00701 ($5.47 in chips) 
+Andry00701: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 6s]
+MorphMan12: folds 
+JaeG142000: folds 
+maskch: folds 
+Andry00701: folds 
+Uncalled bet ($0.03) returned to Dorex2007
+Dorex2007 collected $0.04 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 (big blind) collected ($0.04)
+Seat 4: MorphMan12 folded before Flop (didn't bet)
+Seat 5: JaeG142000 folded before Flop (didn't bet)
+Seat 6: maskch (button) folded before Flop (didn't bet)
+Seat 9: Andry00701 (small blind) folded before Flop
+
+
+
