@@ -1,0 +1,296 @@
+﻿PokerStars Hand #237828866655:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/06 12:28:01 PT [2022/08/06 15:28:01 ET]
+Table 'Argelander' 9-max Seat #9 is the button
+Seat 1: metinski_d ($5.09 in chips) 
+Seat 2: kyosti882 ($5 in chips) 
+Seat 3: BlackWinegum ($4.93 in chips) 
+Seat 4: Schdoerrchen ($5.63 in chips) 
+Seat 5: Falk77 ($2.18 in chips) 
+Seat 6: J.repsej ($5.16 in chips) 
+Seat 7: Dorex2007 ($5 in chips) 
+Seat 9: Chubbyman5 ($3.47 in chips) 
+metinski_d: posts small blind $0.02
+kyosti882: posts big blind $0.05
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 7c]
+BlackWinegum: raises $0.10 to $0.15
+Schdoerrchen: folds 
+Falk77: folds 
+J.repsej: folds 
+Dorex2007: folds 
+Chubbyman5: folds 
+metinski_d: folds 
+kyosti882: folds 
+Uncalled bet ($0.10) returned to BlackWinegum
+BlackWinegum collected $0.17 from pot
+BlackWinegum: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0 
+Seat 1: metinski_d (small blind) folded before Flop
+Seat 2: kyosti882 (big blind) folded before Flop
+Seat 3: BlackWinegum collected ($0.17)
+Seat 4: Schdoerrchen folded before Flop (didn't bet)
+Seat 5: Falk77 folded before Flop (didn't bet)
+Seat 6: J.repsej folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Chubbyman5 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237828873231:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/06 12:28:20 PT [2022/08/06 15:28:20 ET]
+Table 'Argelander' 9-max Seat #1 is the button
+Seat 1: metinski_d ($5.07 in chips) 
+Seat 2: kyosti882 ($4.95 in chips) 
+Seat 3: BlackWinegum ($5.05 in chips) 
+Seat 4: Schdoerrchen ($5.63 in chips) 
+Seat 5: Falk77 ($2.18 in chips) 
+Seat 6: J.repsej ($5.16 in chips) 
+Seat 7: Dorex2007 ($5 in chips) 
+Seat 9: Chubbyman5 ($3.47 in chips) 
+kyosti882: posts small blind $0.02
+BlackWinegum: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Qc]
+Schdoerrchen: folds 
+Falk77: raises $0.05 to $0.10
+J.repsej: calls $0.10
+Dorex2007: folds 
+Chubbyman5: folds 
+metinski_d: calls $0.10
+kyosti882: folds 
+BlackWinegum: folds 
+*** FLOP *** [4c 4s 5d]
+Falk77: bets $0.35
+J.repsej: calls $0.35
+metinski_d: folds 
+*** TURN *** [4c 4s 5d] [Jh]
+Falk77: bets $0.30
+J.repsej: calls $0.30
+*** RIVER *** [4c 4s 5d Jh] [Jc]
+Falk77: checks 
+J.repsej: checks 
+*** SHOW DOWN ***
+Falk77: shows [Ac Ts] (two pair, Jacks and Fours)
+J.repsej: shows [Ah Tc] (two pair, Jacks and Fours)
+Falk77 collected $0.79 from pot
+J.repsej collected $0.80 from pot
+*** SUMMARY ***
+Total pot $1.67 | Rake $0.08 
+Board [4c 4s 5d Jh Jc]
+Seat 1: metinski_d (button) folded on the Flop
+Seat 2: kyosti882 (small blind) folded before Flop
+Seat 3: BlackWinegum (big blind) folded before Flop
+Seat 4: Schdoerrchen folded before Flop (didn't bet)
+Seat 5: Falk77 showed [Ac Ts] and won ($0.79) with two pair, Jacks and Fours
+Seat 6: J.repsej showed [Ah Tc] and won ($0.80) with two pair, Jacks and Fours
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Chubbyman5 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237828890192:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/06 12:29:10 PT [2022/08/06 15:29:10 ET]
+Table 'Argelander' 9-max Seat #2 is the button
+Seat 1: metinski_d ($4.97 in chips) 
+Seat 2: kyosti882 ($4.93 in chips) 
+Seat 4: Schdoerrchen ($5.63 in chips) 
+Seat 5: Falk77 ($2.22 in chips) 
+Seat 6: J.repsej ($5.21 in chips) 
+Seat 7: Dorex2007 ($5 in chips) 
+Seat 9: Chubbyman5 ($3.47 in chips) 
+Schdoerrchen: posts small blind $0.02
+Falk77: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Td]
+J.repsej: folds 
+Dorex2007: folds 
+Chubbyman5: folds 
+metinski_d: raises $0.10 to $0.15
+kyosti882: raises $0.30 to $0.45
+Schdoerrchen: folds 
+Falk77: calls $0.40
+metinski_d: raises $1.15 to $1.60
+kyosti882: folds 
+Falk77: calls $1.15
+*** FLOP *** [9h Jc Jd]
+Falk77: checks 
+metinski_d: bets $0.70
+Falk77: calls $0.62 and is all-in
+Uncalled bet ($0.08) returned to metinski_d
+*** TURN *** [9h Jc Jd] [Qd]
+*** RIVER *** [9h Jc Jd Qd] [2h]
+*** SHOW DOWN ***
+Falk77: shows [Ad 5h] (a pair of Jacks)
+metinski_d: shows [As Ac] (two pair, Aces and Jacks)
+metinski_d collected $4.71 from pot
+Falk77 cashed out the hand for $0.02
+*** SUMMARY ***
+Total pot $4.91 | Rake $0.20 
+Board [9h Jc Jd Qd 2h]
+Seat 1: metinski_d showed [As Ac] and won ($4.71) with two pair, Aces and Jacks
+Seat 2: kyosti882 (button) folded before Flop
+Seat 4: Schdoerrchen (small blind) folded before Flop
+Seat 5: Falk77 (big blind) showed [Ad 5h] and lost with a pair of Jacks (cashed out).
+Seat 6: J.repsej folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Chubbyman5 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237828918603:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/06 12:30:33 PT [2022/08/06 15:30:33 ET]
+Table 'Argelander' 9-max Seat #4 is the button
+Seat 1: metinski_d ($7.46 in chips) 
+Seat 2: kyosti882 ($4.48 in chips) 
+Seat 4: Schdoerrchen ($5.61 in chips) 
+Seat 6: J.repsej ($5.21 in chips) 
+Seat 7: Dorex2007 ($5 in chips) 
+Seat 9: Chubbyman5 ($3.47 in chips) 
+J.repsej: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 9d]
+Chubbyman5: folds 
+metinski_d: folds 
+Falk77 leaves the table
+kyosti882: folds 
+Schdoerrchen: raises $0.10 to $0.15
+J.repsej: calls $0.13
+Dorex2007: folds 
+*** FLOP *** [Tc Jh 6c]
+J.repsej: checks 
+Schdoerrchen: checks 
+*** TURN *** [Tc Jh 6c] [9c]
+metinski_d leaves the table
+J.repsej: bets $0.17
+Schdoerrchen: folds 
+Uncalled bet ($0.17) returned to J.repsej
+J.repsej collected $0.34 from pot
+J.repsej: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [Tc Jh 6c 9c]
+Seat 1: metinski_d folded before Flop (didn't bet)
+Seat 2: kyosti882 folded before Flop (didn't bet)
+Seat 4: Schdoerrchen (button) folded on the Turn
+Seat 6: J.repsej (small blind) collected ($0.34)
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 9: Chubbyman5 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237828931798:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/06 12:31:11 PT [2022/08/06 15:31:11 ET]
+Table 'Argelander' 9-max Seat #6 is the button
+Seat 2: kyosti882 ($5 in chips) 
+Seat 4: Schdoerrchen ($5.46 in chips) 
+Seat 6: J.repsej ($5.40 in chips) 
+Seat 7: Dorex2007 ($5 in chips) 
+Seat 9: Chubbyman5 ($3.47 in chips) 
+Dorex2007: posts small blind $0.02
+Chubbyman5: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 9c]
+kyosti882: folds 
+Schdoerrchen: folds 
+J.repsej: raises $0.05 to $0.10
+Dorex2007: folds 
+Chubbyman5: calls $0.05
+*** FLOP *** [As 9d Jd]
+Chubbyman5: checks 
+J.repsej: bets $0.15
+Chubbyman5: folds 
+Uncalled bet ($0.15) returned to J.repsej
+J.repsej collected $0.21 from pot
+J.repsej: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [As 9d Jd]
+Seat 2: kyosti882 folded before Flop (didn't bet)
+Seat 4: Schdoerrchen folded before Flop (didn't bet)
+Seat 6: J.repsej (button) collected ($0.21)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 9: Chubbyman5 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #237828939003:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/06 12:31:32 PT [2022/08/06 15:31:32 ET]
+Table 'Argelander' 9-max Seat #7 is the button
+Seat 4: Schdoerrchen ($5.46 in chips) 
+Seat 6: J.repsej ($5.51 in chips) 
+Seat 7: Dorex2007 ($5 in chips) 
+Seat 9: Chubbyman5 ($3.37 in chips) 
+Chubbyman5: posts small blind $0.02
+kyosti882: is sitting out 
+Schdoerrchen: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Jc]
+J.repsej: folds 
+Dorex2007: raises $0.10 to $0.15
+Chubbyman5: folds 
+Schdoerrchen: calls $0.10
+*** FLOP *** [7h 6d 8s]
+Chubbyman5 leaves the table
+kyosti882 leaves the table
+Schdoerrchen: checks 
+Dorex2007: checks 
+*** TURN *** [7h 6d 8s] [5d]
+BlackWinegum leaves the table
+BTheManALLIn joins the table at seat #1 
+BTheManALLIn leaves the table
+Schdoerrchen: checks 
+Dorex2007: bets $0.15
+Schdoerrchen: folds 
+Uncalled bet ($0.15) returned to Dorex2007
+Dorex2007 collected $0.31 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [7h 6d 8s 5d]
+Seat 4: Schdoerrchen (big blind) folded on the Turn
+Seat 6: J.repsej folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) collected ($0.31)
+Seat 9: Chubbyman5 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237828962737:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/06 12:32:41 PT [2022/08/06 15:32:41 ET]
+Table 'Argelander' 9-max Seat #4 is the button
+Seat 4: Schdoerrchen ($5.31 in chips) 
+Seat 6: J.repsej ($5.51 in chips) 
+Seat 7: Dorex2007 ($5.16 in chips) 
+J.repsej: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 8d]
+Schdoerrchen: folds 
+J.repsej: raises $0.05 to $0.10
+Dorex2007: folds 
+Uncalled bet ($0.05) returned to J.repsej
+J.repsej collected $0.10 from pot
+J.repsej: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 4: Schdoerrchen (button) folded before Flop (didn't bet)
+Seat 6: J.repsej (small blind) collected ($0.10)
+Seat 7: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237828966430:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/06 12:32:51 PT [2022/08/06 15:32:51 ET]
+Table 'Argelander' 9-max Seat #7 is the button
+Seat 6: J.repsej ($5.56 in chips) 
+Seat 7: Dorex2007 ($5.11 in chips) 
+Dorex2007: posts small blind $0.02
+Schdoerrchen: is sitting out 
+J.repsej: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 6h]
+Dorex2007: folds 
+Uncalled bet ($0.03) returned to J.repsej
+J.repsej collected $0.04 from pot
+J.repsej: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 6: J.repsej (big blind) collected ($0.04)
+Seat 7: Dorex2007 (button) (small blind) folded before Flop
+
+
+
