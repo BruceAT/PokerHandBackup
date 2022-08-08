@@ -1,0 +1,4207 @@
+﻿PokerStars Hand #237406897074:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 22:51:20 PT [2022/07/17 1:51:20 ET]
+Table 'Bellerophon III' 9-max Seat #6 is the button
+Seat 1: mikike7 ($2.88 in chips) 
+Seat 3: Gilberto2332 ($2.34 in chips) 
+Seat 4: samadura ($1.41 in chips) 
+Seat 5: Dorex2007 ($2 in chips) 
+Seat 6: Kopravi ($4.93 in chips) 
+Seat 7: Ihor363 ($1.85 in chips) 
+Seat 8: tomashovka55 ($2.29 in chips) 
+Seat 9: andrey_kasav ($1.58 in chips) 
+Ihor363: posts small blind $0.01
+tomashovka55: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 5h]
+andrey_kasav: folds 
+mikike7: folds 
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: checks 
+Kopravi: folds 
+Kopravi leaves the table
+Ihor363: folds 
+tomashovka55: checks 
+*** FLOP *** [4c Tc Qs]
+tomashovka55: checks 
+Dorex2007: checks 
+*** TURN *** [4c Tc Qs] [5d]
+tomashovka55: checks 
+Dorex2007: bets $0.10
+tomashovka55: calls $0.10
+*** RIVER *** [4c Tc Qs 5d] [8h]
+tomashovka55: checks 
+Dorex2007: bets $0.24
+tomashovka55: calls $0.24
+*** SHOW DOWN ***
+Dorex2007: shows [Th 5h] (two pair, Tens and Fives)
+tomashovka55: mucks hand 
+Dorex2007 collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [4c Tc Qs 5d 8h]
+Seat 1: mikike7 folded before Flop (didn't bet)
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 showed [Th 5h] and won ($0.70) with two pair, Tens and Fives
+Seat 6: Kopravi (button) folded before Flop (didn't bet)
+Seat 7: Ihor363 (small blind) folded before Flop
+Seat 8: tomashovka55 (big blind) mucked [2s Qd]
+Seat 9: andrey_kasav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237406904880:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 22:52:28 PT [2022/07/17 1:52:28 ET]
+Table 'Bellerophon III' 9-max Seat #7 is the button
+Seat 1: mikike7 ($2.88 in chips) 
+Seat 3: Gilberto2332 ($2.34 in chips) 
+Seat 4: samadura ($1.41 in chips) 
+Seat 5: Dorex2007 ($2.34 in chips) 
+Seat 7: Ihor363 ($1.84 in chips) 
+Seat 8: tomashovka55 ($2 in chips) 
+Seat 9: andrey_kasav ($1.58 in chips) 
+tomashovka55: posts small blind $0.01
+andrey_kasav: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Ks]
+mikike7: folds 
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+Ihor363: raises $0.02 to $0.04
+tomashovka55: folds 
+andrey_kasav: calls $0.02
+*** FLOP *** [Jc Tc Kc]
+andrey_kasav: checks 
+Ihor363: bets $0.02
+andrey_kasav: calls $0.02
+*** TURN *** [Jc Tc Kc] [Ts]
+andrey_kasav: checks 
+Ihor363: checks 
+*** RIVER *** [Jc Tc Kc Ts] [8h]
+andrey_kasav: checks 
+Ihor363: bets $0.02
+andrey_kasav: folds 
+Uncalled bet ($0.02) returned to Ihor363
+Ihor363 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Jc Tc Kc Ts 8h]
+Seat 1: mikike7 folded before Flop (didn't bet)
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Ihor363 (button) collected ($0.13)
+Seat 8: tomashovka55 (small blind) folded before Flop
+Seat 9: andrey_kasav (big blind) folded on the River
+
+
+
+PokerStars Hand #237406909296:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 22:53:07 PT [2022/07/17 1:53:07 ET]
+Table 'Bellerophon III' 9-max Seat #8 is the button
+Seat 1: mikike7 ($2.88 in chips) 
+Seat 3: Gilberto2332 ($2.34 in chips) 
+Seat 4: samadura ($1.41 in chips) 
+Seat 5: Dorex2007 ($2.34 in chips) 
+Seat 7: Ihor363 ($1.91 in chips) 
+Seat 8: tomashovka55 ($2 in chips) 
+Seat 9: andrey_kasav ($1.52 in chips) 
+andrey_kasav: posts small blind $0.01
+mikike7: posts big blind $0.02
+Kopravi: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 8d]
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+Ihor363: raises $0.02 to $0.04
+tomashovka55: folds 
+andrey_kasav: calls $0.03
+mikike7: folds 
+*** FLOP *** [3s 2h Th]
+andrey_kasav: checks 
+Ihor363: checks 
+*** TURN *** [3s 2h Th] [6c]
+andrey_kasav: checks 
+Ihor363: checks 
+*** RIVER *** [3s 2h Th 6c] [Tc]
+andrey_kasav: checks 
+Ihor363: checks 
+*** SHOW DOWN ***
+andrey_kasav: shows [Kh Js] (a pair of Tens)
+Ihor363: mucks hand 
+andrey_kasav collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [3s 2h Th 6c Tc]
+Seat 1: mikike7 (big blind) folded before Flop
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Ihor363 mucked [8h 7s]
+Seat 8: tomashovka55 (button) folded before Flop (didn't bet)
+Seat 9: andrey_kasav (small blind) showed [Kh Js] and won ($0.10) with a pair of Tens
+
+
+
+PokerStars Hand #237406915058:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 22:53:58 PT [2022/07/17 1:53:58 ET]
+Table 'Bellerophon III' 9-max Seat #9 is the button
+Seat 1: mikike7 ($2.86 in chips) 
+Seat 3: Gilberto2332 ($2.34 in chips) 
+Seat 4: samadura ($1.41 in chips) 
+Seat 5: Dorex2007 ($2.34 in chips) 
+Seat 6: Kopravi ($4.93 in chips) 
+Seat 7: Ihor363 ($1.87 in chips) 
+Seat 8: tomashovka55 ($2 in chips) 
+Seat 9: andrey_kasav ($1.58 in chips) 
+mikike7: posts small blind $0.01
+Gilberto2332: posts big blind $0.02
+Kopravi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Ah]
+samadura: folds 
+Dorex2007: folds 
+Kopravi: checks 
+Ihor363: folds 
+tomashovka55: folds 
+andrey_kasav: folds 
+mikike7: folds 
+Gilberto2332: checks 
+*** FLOP *** [Jd Qs Ac]
+Gilberto2332: checks 
+Kopravi: bets $0.02
+Gilberto2332: folds 
+Uncalled bet ($0.02) returned to Kopravi
+Kopravi collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jd Qs Ac]
+Seat 1: mikike7 (small blind) folded before Flop
+Seat 3: Gilberto2332 (big blind) folded on the Flop
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: Kopravi collected ($0.05)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+Seat 9: andrey_kasav (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237406918732:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 22:54:30 PT [2022/07/17 1:54:30 ET]
+Table 'Bellerophon III' 9-max Seat #1 is the button
+Seat 1: mikike7 ($2.85 in chips) 
+Seat 3: Gilberto2332 ($2.32 in chips) 
+Seat 4: samadura ($1.41 in chips) 
+Seat 5: Dorex2007 ($2.34 in chips) 
+Seat 6: Kopravi ($4.96 in chips) 
+Seat 7: Ihor363 ($1.87 in chips) 
+Seat 8: tomashovka55 ($2 in chips) 
+Seat 9: andrey_kasav ($1.58 in chips) 
+Gilberto2332: posts small blind $0.01
+samadura: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 5s]
+Dorex2007: folds 
+Kopravi: folds 
+Ihor363: folds 
+tomashovka55: folds 
+andrey_kasav: folds 
+mikike7: folds 
+Gilberto2332: raises $0.02 to $0.04
+samadura: calls $0.02
+*** FLOP *** [5d 4d As]
+Gilberto2332: bets $0.08
+samadura: calls $0.08
+*** TURN *** [5d 4d As] [5h]
+Gilberto2332: bets $0.23
+samadura: folds 
+Uncalled bet ($0.23) returned to Gilberto2332
+Gilberto2332 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [5d 4d As 5h]
+Seat 1: mikike7 (button) folded before Flop (didn't bet)
+Seat 3: Gilberto2332 (small blind) collected ($0.23)
+Seat 4: samadura (big blind) folded on the Turn
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: Kopravi folded before Flop (didn't bet)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+Seat 9: andrey_kasav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237406931033:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 22:55:13 PT [2022/07/17 1:55:13 ET]
+Table 'Bellerophon III' 9-max Seat #3 is the button
+Seat 1: mikike7 ($2.85 in chips) 
+Seat 3: Gilberto2332 ($2.43 in chips) 
+Seat 4: samadura ($1.29 in chips) 
+Seat 5: Dorex2007 ($2.34 in chips) 
+Seat 6: Kopravi ($4.96 in chips) 
+Seat 7: Ihor363 ($1.87 in chips) 
+Seat 8: tomashovka55 ($2 in chips) 
+Seat 9: andrey_kasav ($1.58 in chips) 
+samadura: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 2h]
+Kopravi: raises $0.02 to $0.04
+Ihor363: folds 
+tomashovka55: folds 
+andrey_kasav: folds 
+mikike7: raises $0.02 to $0.06
+Gilberto2332: folds 
+samadura: folds 
+wALEXSANDRw leaves the table
+Dorex2007: calls $0.04
+Kopravi: calls $0.02
+*** FLOP *** [7h Tc Kc]
+AA Cepera AA joins the table at seat #2 
+Dorex2007: checks 
+Kopravi: checks 
+mikike7: bets $0.12
+Dorex2007: folds 
+Kopravi: folds 
+Uncalled bet ($0.12) returned to mikike7
+mikike7 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [7h Tc Kc]
+Seat 1: mikike7 collected ($0.18)
+Seat 3: Gilberto2332 (button) folded before Flop (didn't bet)
+Seat 4: samadura (small blind) folded before Flop
+Seat 5: Dorex2007 (big blind) folded on the Flop
+Seat 6: Kopravi folded on the Flop
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+Seat 9: andrey_kasav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237406937013:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 22:56:14 PT [2022/07/17 1:56:14 ET]
+Table 'Bellerophon III' 9-max Seat #4 is the button
+Seat 3: Gilberto2332 ($2.43 in chips) 
+Seat 4: samadura ($1.28 in chips) 
+Seat 5: Dorex2007 ($2.28 in chips) 
+Seat 6: Kopravi ($4.90 in chips) 
+Seat 7: Ihor363 ($1.87 in chips) 
+Seat 8: tomashovka55 ($2 in chips) 
+Seat 9: andrey_kasav ($1.58 in chips) 
+Dorex2007: posts small blind $0.01
+Kopravi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 4s]
+Ihor363: folds 
+tomashovka55: folds 
+andrey_kasav: folds 
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to Kopravi
+Kopravi collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura (button) folded before Flop (didn't bet)
+Seat 5: Dorex2007 (small blind) folded before Flop
+Seat 6: Kopravi (big blind) collected ($0.02)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+Seat 9: andrey_kasav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237406938515:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 22:56:29 PT [2022/07/17 1:56:29 ET]
+Table 'Bellerophon III' 9-max Seat #5 is the button
+Seat 3: Gilberto2332 ($2.43 in chips) 
+Seat 4: samadura ($1.28 in chips) 
+Seat 5: Dorex2007 ($2.27 in chips) 
+Seat 6: Kopravi ($4.91 in chips) 
+Seat 7: Ihor363 ($1.87 in chips) 
+Seat 8: tomashovka55 ($2 in chips) 
+Seat 9: andrey_kasav ($1.58 in chips) 
+Kopravi: posts small blind $0.01
+Ihor363: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 9d]
+tomashovka55: folds 
+andrey_kasav: folds 
+Gilberto2332: raises $0.02 to $0.04
+samadura: folds 
+Dorex2007: folds 
+Kopravi: calls $0.03
+Ihor363: folds 
+*** FLOP *** [7h Ad 5d]
+Kopravi: checks 
+Gilberto2332: checks 
+*** TURN *** [7h Ad 5d] [8h]
+Kopravi: bets $0.10
+Gilberto2332: folds 
+Uncalled bet ($0.10) returned to Kopravi
+Kopravi collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [7h Ad 5d 8h]
+Seat 3: Gilberto2332 folded on the Turn
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 6: Kopravi (small blind) collected ($0.10)
+Seat 7: Ihor363 (big blind) folded before Flop
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+Seat 9: andrey_kasav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237406942484:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 22:57:08 PT [2022/07/17 1:57:08 ET]
+Table 'Bellerophon III' 9-max Seat #6 is the button
+Seat 3: Gilberto2332 ($2.39 in chips) 
+Seat 4: samadura ($1.28 in chips) 
+Seat 5: Dorex2007 ($2.27 in chips) 
+Seat 6: Kopravi ($4.97 in chips) 
+Seat 7: Ihor363 ($1.85 in chips) 
+Seat 8: tomashovka55 ($2 in chips) 
+Seat 9: andrey_kasav ($1.58 in chips) 
+Ihor363: posts small blind $0.01
+tomashovka55: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 2d]
+andrey_kasav: folds 
+Gilberto2332: calls $0.02
+samadura has timed out
+samadura: folds 
+Dorex2007: folds 
+Kopravi: folds 
+Ihor363: calls $0.01
+tomashovka55: checks 
+*** FLOP *** [Qd 8c 4s]
+Ihor363: checks 
+tomashovka55: checks 
+Gilberto2332: checks 
+*** TURN *** [Qd 8c 4s] [5d]
+Ihor363: checks 
+tomashovka55: checks 
+Gilberto2332: checks 
+*** RIVER *** [Qd 8c 4s 5d] [3h]
+Ihor363: checks 
+tomashovka55: checks 
+Gilberto2332: checks 
+*** SHOW DOWN ***
+Ihor363: shows [9h 7h] (high card Queen)
+tomashovka55: shows [Ad 7s] (high card Ace)
+Gilberto2332: mucks hand 
+tomashovka55 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Qd 8c 4s 5d 3h]
+Seat 3: Gilberto2332 mucked [Ah 6c]
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: Kopravi (button) folded before Flop (didn't bet)
+Seat 7: Ihor363 (small blind) showed [9h 7h] and lost with high card Queen
+Seat 8: tomashovka55 (big blind) showed [Ad 7s] and won ($0.06) with high card Ace
+Seat 9: andrey_kasav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237406947287:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 22:57:57 PT [2022/07/17 1:57:57 ET]
+Table 'Bellerophon III' 9-max Seat #7 is the button
+Seat 3: Gilberto2332 ($2.37 in chips) 
+Seat 5: Dorex2007 ($2.27 in chips) 
+Seat 6: Kopravi ($4.97 in chips) 
+Seat 7: Ihor363 ($1.83 in chips) 
+Seat 8: tomashovka55 ($2.04 in chips) 
+Seat 9: andrey_kasav ($1.58 in chips) 
+tomashovka55: posts small blind $0.01
+andrey_kasav: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 7c]
+Gilberto2332: folds 
+Dorex2007: folds 
+Kopravi: folds 
+Ihor363: raises $0.02 to $0.04
+tomashovka55: folds 
+andrey_kasav: folds 
+Uncalled bet ($0.02) returned to Ihor363
+Ihor363 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: Kopravi folded before Flop (didn't bet)
+Seat 7: Ihor363 (button) collected ($0.05)
+Seat 8: tomashovka55 (small blind) folded before Flop
+Seat 9: andrey_kasav (big blind) folded before Flop
+
+
+
+PokerStars Hand #237406948991:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 22:58:14 PT [2022/07/17 1:58:14 ET]
+Table 'Bellerophon III' 9-max Seat #8 is the button
+Seat 3: Gilberto2332 ($2.37 in chips) 
+Seat 5: Dorex2007 ($2.27 in chips) 
+Seat 6: Kopravi ($4.97 in chips) 
+Seat 7: Ihor363 ($1.86 in chips) 
+Seat 8: tomashovka55 ($2.03 in chips) 
+Seat 9: andrey_kasav ($1.56 in chips) 
+andrey_kasav: posts small blind $0.01
+Gilberto2332: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 5h]
+Dorex2007: folds 
+Kopravi: folds 
+Ihor363: raises $0.02 to $0.04
+tomashovka55: folds 
+andrey_kasav: folds 
+Gilberto2332: folds 
+Uncalled bet ($0.02) returned to Ihor363
+Ihor363 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 3: Gilberto2332 (big blind) folded before Flop
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: Kopravi folded before Flop (didn't bet)
+Seat 7: Ihor363 collected ($0.05)
+Seat 8: tomashovka55 (button) folded before Flop (didn't bet)
+Seat 9: andrey_kasav (small blind) folded before Flop
+
+
+
+PokerStars Hand #237406950420:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 22:58:29 PT [2022/07/17 1:58:29 ET]
+Table 'Bellerophon III' 9-max Seat #9 is the button
+Seat 3: Gilberto2332 ($2.35 in chips) 
+Seat 5: Dorex2007 ($2.27 in chips) 
+Seat 6: Kopravi ($4.97 in chips) 
+Seat 7: Ihor363 ($1.89 in chips) 
+Seat 8: tomashovka55 ($2.03 in chips) 
+Seat 9: andrey_kasav ($1.55 in chips) 
+Gilberto2332: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 7h]
+Kopravi: calls $0.02
+Ihor363: folds 
+tomashovka55: folds 
+andrey_kasav: folds 
+Gilberto2332: folds 
+Dorex2007: checks 
+*** FLOP *** [Qs Ts Qc]
+Dorex2007 has timed out
+Dorex2007: checks 
+Kopravi: bets $0.05
+Dorex2007: folds 
+Uncalled bet ($0.05) returned to Kopravi
+Kopravi collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Qs Ts Qc]
+Seat 3: Gilberto2332 (small blind) folded before Flop
+Seat 5: Dorex2007 (big blind) folded on the Flop
+Seat 6: Kopravi collected ($0.05)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+Seat 9: andrey_kasav (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237406958202:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 22:59:47 PT [2022/07/17 1:59:47 ET]
+Table 'Bellerophon III' 9-max Seat #3 is the button
+Seat 3: Gilberto2332 ($2.34 in chips) 
+Seat 5: Dorex2007 ($2.25 in chips) 
+Seat 6: Kopravi ($5 in chips) 
+Seat 7: Ihor363 ($1.89 in chips) 
+Seat 8: tomashovka55 ($2.03 in chips) 
+Seat 9: andrey_kasav ($1.55 in chips) 
+Dorex2007: posts small blind $0.01
+Kopravi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Ad]
+Ihor363: folds 
+tomashovka55: raises $0.03 to $0.05
+andrey_kasav: folds 
+Gilberto2332: folds 
+Dorex2007: folds 
+Kopravi: folds 
+Uncalled bet ($0.03) returned to tomashovka55
+tomashovka55 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 3: Gilberto2332 (button) folded before Flop (didn't bet)
+Seat 5: Dorex2007 (small blind) folded before Flop
+Seat 6: Kopravi (big blind) folded before Flop
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 collected ($0.05)
+Seat 9: andrey_kasav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237406960307:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:00:08 PT [2022/07/17 2:00:08 ET]
+Table 'Bellerophon III' 9-max Seat #5 is the button
+Seat 3: Gilberto2332 ($2.34 in chips) 
+Seat 5: Dorex2007 ($2.24 in chips) 
+Seat 6: Kopravi ($4.98 in chips) 
+Seat 7: Ihor363 ($1.89 in chips) 
+Seat 8: tomashovka55 ($2.06 in chips) 
+Seat 9: andrey_kasav ($1.55 in chips) 
+Kopravi: posts small blind $0.01
+Ihor363: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Js]
+tomashovka55: folds 
+andrey_kasav has timed out
+andrey_kasav: folds 
+Gilberto2332: folds 
+Dorex2007 has timed out
+Dorex2007: folds 
+Kopravi: folds 
+Uncalled bet ($0.01) returned to Ihor363
+Ihor363 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 5: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 6: Kopravi (small blind) folded before Flop
+Seat 7: Ihor363 (big blind) collected ($0.02)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+Seat 9: andrey_kasav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237406974052:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:00:52 PT [2022/07/17 2:00:52 ET]
+Table 'Bellerophon III' 9-max Seat #6 is the button
+Seat 3: Gilberto2332 ($2.34 in chips) 
+Seat 5: Dorex2007 ($2.24 in chips) 
+Seat 6: Kopravi ($4.97 in chips) 
+Seat 7: Ihor363 ($1.90 in chips) 
+Seat 8: tomashovka55 ($2.06 in chips) 
+Ihor363: posts small blind $0.01
+tomashovka55: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 9c]
+Gilberto2332: folds 
+Dorex2007: folds 
+Kopravi: folds 
+Ihor363: raises $0.02 to $0.04
+tomashovka55: folds 
+Uncalled bet ($0.02) returned to Ihor363
+Ihor363 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: Kopravi (button) folded before Flop (didn't bet)
+Seat 7: Ihor363 (small blind) collected ($0.04)
+Seat 8: tomashovka55 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237406975423:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:01:04 PT [2022/07/17 2:01:04 ET]
+Table 'Bellerophon III' 9-max Seat #7 is the button
+Seat 3: Gilberto2332 ($2.34 in chips) 
+Seat 5: Dorex2007 ($2.24 in chips) 
+Seat 6: Kopravi ($4.97 in chips) 
+Seat 7: Ihor363 ($1.92 in chips) 
+Seat 8: tomashovka55 ($2.04 in chips) 
+tomashovka55: posts small blind $0.01
+Gilberto2332: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 2s]
+Dorex2007: folds 
+Kopravi: raises $0.05 to $0.07
+Ihor363: folds 
+tomashovka55: folds 
+Gilberto2332: calls $0.05
+*** FLOP *** [8s 8h 3c]
+Gilberto2332: bets $0.07
+Kopravi: calls $0.07
+*** TURN *** [8s 8h 3c] [Kh]
+mikike7 leaves the table
+Gilberto2332: bets $0.14
+Kopravi: calls $0.14
+*** RIVER *** [8s 8h 3c Kh] [5d]
+miffay joins the table at seat #1 
+Gilberto2332: checks 
+Kopravi: bets $0.63
+Gilberto2332: calls $0.63
+*** SHOW DOWN ***
+Kopravi: shows [Ac Kc] (two pair, Kings and Eights)
+Gilberto2332: mucks hand 
+Kopravi collected $1.77 from pot
+*** SUMMARY ***
+Total pot $1.83 | Rake $0.06 
+Board [8s 8h 3c Kh 5d]
+Seat 3: Gilberto2332 (big blind) mucked [7h 7s]
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: Kopravi showed [Ac Kc] and won ($1.77) with two pair, Kings and Eights
+Seat 7: Ihor363 (button) folded before Flop (didn't bet)
+Seat 8: tomashovka55 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237406980140:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:01:47 PT [2022/07/17 2:01:47 ET]
+Table 'Bellerophon III' 9-max Seat #8 is the button
+Seat 3: Gilberto2332 ($1.43 in chips) 
+Seat 5: Dorex2007 ($2.24 in chips) 
+Seat 6: Kopravi ($5.83 in chips) 
+Seat 7: Ihor363 ($1.92 in chips) 
+Seat 8: tomashovka55 ($2.03 in chips) 
+Gilberto2332: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 8s]
+Kopravi: folds 
+Ihor363: raises $0.02 to $0.04
+tomashovka55: calls $0.04
+Gilberto2332: folds 
+Dorex2007: folds 
+*** FLOP *** [7h 5h 9d]
+Ihor363: checks 
+tomashovka55: checks 
+*** TURN *** [7h 5h 9d] [4d]
+Ihor363: checks 
+tomashovka55: checks 
+*** RIVER *** [7h 5h 9d 4d] [3s]
+Ihor363: checks 
+tomashovka55: checks 
+*** SHOW DOWN ***
+Ihor363: shows [Jc Kd] (high card King)
+tomashovka55: shows [Ah Jd] (high card Ace)
+tomashovka55 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [7h 5h 9d 4d 3s]
+Seat 3: Gilberto2332 (small blind) folded before Flop
+Seat 5: Dorex2007 (big blind) folded before Flop
+Seat 6: Kopravi folded before Flop (didn't bet)
+Seat 7: Ihor363 showed [Jc Kd] and lost with high card King
+Seat 8: tomashovka55 (button) showed [Ah Jd] and won ($0.11) with high card Ace
+
+
+
+PokerStars Hand #237406988899:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:03:07 PT [2022/07/17 2:03:07 ET]
+Table 'Bellerophon III' 9-max Seat #3 is the button
+Seat 3: Gilberto2332 ($1.42 in chips) 
+Seat 5: Dorex2007 ($2.22 in chips) 
+Seat 6: Kopravi ($5.83 in chips) 
+Seat 7: Ihor363 ($1.88 in chips) 
+Seat 8: tomashovka55 ($2.10 in chips) 
+Dorex2007: posts small blind $0.01
+Kopravi: posts big blind $0.02
+miffay: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 7d]
+Ihor363 has timed out
+Ihor363: folds 
+tomashovka55: raises $0.04 to $0.06
+Gilberto2332: folds 
+Dorex2007: folds 
+Kopravi: calls $0.04
+*** FLOP *** [9s Qd As]
+Kopravi: checks 
+tomashovka55: bets $0.08
+Kopravi: folds 
+Uncalled bet ($0.08) returned to tomashovka55
+tomashovka55 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9s Qd As]
+Seat 3: Gilberto2332 (button) folded before Flop (didn't bet)
+Seat 5: Dorex2007 (small blind) folded before Flop
+Seat 6: Kopravi (big blind) folded on the Flop
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 collected ($0.13)
+
+
+
+PokerStars Hand #237406992132:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:03:36 PT [2022/07/17 2:03:36 ET]
+Table 'Bellerophon III' 9-max Seat #5 is the button
+Seat 3: Gilberto2332 ($1.42 in chips) 
+Seat 4: samadura ($1.28 in chips) 
+Seat 5: Dorex2007 ($2.21 in chips) 
+Seat 6: Kopravi ($5.77 in chips) 
+Seat 7: Ihor363 ($1.88 in chips) 
+Seat 8: tomashovka55 ($2.17 in chips) 
+Kopravi: posts small blind $0.01
+Ihor363: posts big blind $0.02
+miffay: sits out 
+samadura: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 5c]
+tomashovka55: folds 
+Gilberto2332: folds 
+samadura: checks 
+Dorex2007: folds 
+Kopravi: calls $0.01
+Ihor363: checks 
+*** FLOP *** [6s 4s 4c]
+Kopravi: checks 
+Ihor363: checks 
+samadura: checks 
+*** TURN *** [6s 4s 4c] [4h]
+Kopravi: checks 
+Ihor363: checks 
+samadura: bets $0.06
+Kopravi: folds 
+Ihor363: folds 
+Uncalled bet ($0.06) returned to samadura
+samadura collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [6s 4s 4c 4h]
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura collected ($0.07)
+Seat 5: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 6: Kopravi (small blind) folded on the Turn
+Seat 7: Ihor363 (big blind) folded on the Turn
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407001574:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:05:01 PT [2022/07/17 2:05:01 ET]
+Table 'Bellerophon III' 9-max Seat #6 is the button
+Seat 3: Gilberto2332 ($1.42 in chips) 
+Seat 4: samadura ($1.32 in chips) 
+Seat 5: Dorex2007 ($2.21 in chips) 
+Seat 6: Kopravi ($5.75 in chips) 
+Seat 7: Ihor363 ($1.86 in chips) 
+Seat 8: tomashovka55 ($2.17 in chips) 
+Ihor363: posts small blind $0.01
+tomashovka55: posts big blind $0.02
+miffay: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c Tc]
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+Kopravi: raises $0.02 to $0.04
+Ihor363: calls $0.03
+tomashovka55: calls $0.02
+*** FLOP *** [8c Jh 9c]
+Ihor363: checks 
+tomashovka55: checks 
+Kopravi: bets $0.06
+Ihor363: folds 
+tomashovka55: folds 
+Uncalled bet ($0.06) returned to Kopravi
+Kopravi collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8c Jh 9c]
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: Kopravi (button) collected ($0.12)
+Seat 7: Ihor363 (small blind) folded on the Flop
+Seat 8: tomashovka55 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #237407006496:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:05:45 PT [2022/07/17 2:05:45 ET]
+Table 'Bellerophon III' 9-max Seat #7 is the button
+Seat 1: miffay ($2 in chips) 
+Seat 3: Gilberto2332 ($1.42 in chips) 
+Seat 4: samadura ($1.32 in chips) 
+Seat 5: Dorex2007 ($2.21 in chips) 
+Seat 6: Kopravi ($5.83 in chips) 
+Seat 7: Ihor363 ($1.82 in chips) 
+Seat 8: tomashovka55 ($2.13 in chips) 
+tomashovka55: posts small blind $0.01
+miffay: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd As]
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: raises $0.06 to $0.08
+Kopravi: folds 
+Ihor363 has timed out
+Ihor363: folds 
+tomashovka55: folds 
+miffay: folds 
+Uncalled bet ($0.06) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: miffay (big blind) folded before Flop
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 collected ($0.05)
+Seat 6: Kopravi folded before Flop (didn't bet)
+Seat 7: Ihor363 (button) folded before Flop (didn't bet)
+Seat 8: tomashovka55 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237407010691:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:06:24 PT [2022/07/17 2:06:24 ET]
+Table 'Bellerophon III' 9-max Seat #8 is the button
+Seat 1: miffay ($1.98 in chips) 
+Seat 3: Gilberto2332 ($1.42 in chips) 
+Seat 4: samadura ($1.32 in chips) 
+Seat 5: Dorex2007 ($2.24 in chips) 
+Seat 6: Kopravi ($5.83 in chips) 
+Seat 7: Ihor363 ($1.82 in chips) 
+Seat 8: tomashovka55 ($2.12 in chips) 
+miffay: posts small blind $0.01
+Gilberto2332: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Ah]
+samadura: folds 
+Dorex2007: folds 
+Kopravi: folds 
+Ihor363: folds 
+tomashovka55: folds 
+miffay: raises $0.02 to $0.04
+Gilberto2332: calls $0.02
+*** FLOP *** [Ad 8c 2d]
+miffay: bets $0.06
+Gilberto2332: calls $0.06
+*** TURN *** [Ad 8c 2d] [Ks]
+miffay: bets $0.06
+Gilberto2332: calls $0.06
+*** RIVER *** [Ad 8c 2d Ks] [7h]
+miffay: checks 
+Gilberto2332: bets $0.15
+miffay: folds 
+Uncalled bet ($0.15) returned to Gilberto2332
+Gilberto2332 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Ad 8c 2d Ks 7h]
+Seat 1: miffay (small blind) folded on the River
+Seat 3: Gilberto2332 (big blind) collected ($0.31)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: Kopravi folded before Flop (didn't bet)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407015860:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:07:11 PT [2022/07/17 2:07:11 ET]
+Table 'Bellerophon III' 9-max Seat #1 is the button
+Seat 1: miffay ($1.82 in chips) 
+Seat 3: Gilberto2332 ($1.57 in chips) 
+Seat 4: samadura ($1.32 in chips) 
+Seat 5: Dorex2007 ($2.24 in chips) 
+Seat 6: Kopravi ($5.83 in chips) 
+Seat 7: Ihor363 ($1.82 in chips) 
+Seat 8: tomashovka55 ($2.12 in chips) 
+Gilberto2332: posts small blind $0.01
+samadura: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 3d]
+Dorex2007: folds 
+Kopravi: raises $0.05 to $0.07
+Ihor363: folds 
+tomashovka55: folds 
+miffay: folds 
+Gilberto2332: folds 
+samadura: folds 
+Uncalled bet ($0.05) returned to Kopravi
+Kopravi collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: miffay (button) folded before Flop (didn't bet)
+Seat 3: Gilberto2332 (small blind) folded before Flop
+Seat 4: samadura (big blind) folded before Flop
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: Kopravi collected ($0.05)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407018039:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:07:31 PT [2022/07/17 2:07:31 ET]
+Table 'Bellerophon III' 9-max Seat #3 is the button
+Seat 1: miffay ($1.82 in chips) 
+Seat 3: Gilberto2332 ($1.56 in chips) 
+Seat 4: samadura ($1.30 in chips) 
+Seat 5: Dorex2007 ($2.24 in chips) 
+Seat 6: Kopravi ($5.86 in chips) 
+Seat 7: Ihor363 ($1.82 in chips) 
+Seat 8: tomashovka55 ($2.12 in chips) 
+samadura: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 2c]
+Kopravi: folds 
+Ihor363: folds 
+tomashovka55: folds 
+miffay: folds 
+Gilberto2332: folds 
+samadura: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: miffay folded before Flop (didn't bet)
+Seat 3: Gilberto2332 (button) folded before Flop (didn't bet)
+Seat 4: samadura (small blind) folded before Flop
+Seat 5: Dorex2007 (big blind) collected ($0.02)
+Seat 6: Kopravi folded before Flop (didn't bet)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407019461:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:07:44 PT [2022/07/17 2:07:44 ET]
+Table 'Bellerophon III' 9-max Seat #4 is the button
+Seat 1: miffay ($1.82 in chips) 
+Seat 3: Gilberto2332 ($1.56 in chips) 
+Seat 4: samadura ($1.29 in chips) 
+Seat 5: Dorex2007 ($2.25 in chips) 
+Seat 6: Kopravi ($5.86 in chips) 
+Seat 7: Ihor363 ($1.82 in chips) 
+Seat 8: tomashovka55 ($2.12 in chips) 
+Dorex2007: posts small blind $0.01
+Kopravi: posts big blind $0.02
+andrey_kasav: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 6s]
+Ihor363: folds 
+tomashovka55: folds 
+miffay: folds 
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to Kopravi
+Kopravi collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: miffay folded before Flop (didn't bet)
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura (button) folded before Flop (didn't bet)
+Seat 5: Dorex2007 (small blind) folded before Flop
+Seat 6: Kopravi (big blind) collected ($0.02)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407024090:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:08:25 PT [2022/07/17 2:08:25 ET]
+Table 'Bellerophon III' 9-max Seat #5 is the button
+Seat 1: miffay ($1.82 in chips) 
+Seat 3: Gilberto2332 ($1.56 in chips) 
+Seat 4: samadura ($1.29 in chips) 
+Seat 5: Dorex2007 ($2.24 in chips) 
+Seat 6: Kopravi ($5.87 in chips) 
+Seat 7: Ihor363 ($1.82 in chips) 
+Seat 8: tomashovka55 ($2.12 in chips) 
+Kopravi: posts small blind $0.01
+Ihor363: posts big blind $0.02
+AA Cepera AA leaves the table
+andrey_kasav has timed out while disconnected
+andrey_kasav: is sitting out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d Kc]
+tomashovka55: folds 
+miffay: folds 
+Gilberto2332: calls $0.02
+samadura: folds 
+Dorex2007: folds 
+Kopravi: raises $0.06 to $0.08
+Ihor363: folds 
+Gilberto2332: calls $0.06
+*** FLOP *** [3c 4c 3s]
+George RichardM joins the table at seat #2 
+Kopravi: bets $0.10
+Gilberto2332: folds 
+Uncalled bet ($0.10) returned to Kopravi
+Kopravi collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [3c 4c 3s]
+Seat 1: miffay folded before Flop (didn't bet)
+Seat 3: Gilberto2332 folded on the Flop
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 6: Kopravi (small blind) collected ($0.17)
+Seat 7: Ihor363 (big blind) folded before Flop
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407029113:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:09:10 PT [2022/07/17 2:09:10 ET]
+Table 'Bellerophon III' 9-max Seat #6 is the button
+Seat 1: miffay ($1.82 in chips) 
+Seat 3: Gilberto2332 ($1.48 in chips) 
+Seat 4: samadura ($1.29 in chips) 
+Seat 5: Dorex2007 ($2.24 in chips) 
+Seat 6: Kopravi ($5.96 in chips) 
+Seat 7: Ihor363 ($1.80 in chips) 
+Seat 8: tomashovka55 ($2.12 in chips) 
+Ihor363: posts small blind $0.01
+tomashovka55: posts big blind $0.02
+George RichardM: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Jc]
+miffay: raises $0.02 to $0.04
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+Kopravi: calls $0.04
+Ihor363: folds 
+tomashovka55: folds 
+*** FLOP *** [Kd 7d 2h]
+miffay: checks 
+Kopravi: bets $0.07
+miffay: folds 
+Uncalled bet ($0.07) returned to Kopravi
+Kopravi collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [Kd 7d 2h]
+Seat 1: miffay folded on the Flop
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: Kopravi (button) collected ($0.11)
+Seat 7: Ihor363 (small blind) folded before Flop
+Seat 8: tomashovka55 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237407032244:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:09:38 PT [2022/07/17 2:09:38 ET]
+Table 'Bellerophon III' 9-max Seat #7 is the button
+Seat 1: miffay ($2 in chips) 
+Seat 3: Gilberto2332 ($1.48 in chips) 
+Seat 4: samadura ($1.29 in chips) 
+Seat 5: Dorex2007 ($2.24 in chips) 
+Seat 6: Kopravi ($6.03 in chips) 
+Seat 7: Ihor363 ($1.79 in chips) 
+Seat 8: tomashovka55 ($2.10 in chips) 
+Seat 9: andrey_kasav ($1.55 in chips) 
+tomashovka55: posts small blind $0.01
+andrey_kasav: posts big blind $0.02
+George RichardM: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 6d]
+miffay: folds 
+Gilberto2332: raises $0.02 to $0.04
+samadura: folds 
+Dorex2007: folds 
+Kopravi: folds 
+Ihor363: folds 
+tomashovka55: calls $0.03
+miffay leaves the table
+andrey_kasav has timed out
+andrey_kasav: folds 
+*** FLOP *** [8c Tc Ah]
+tomashovka55: checks 
+Gilberto2332: checks 
+*** TURN *** [8c Tc Ah] [4s]
+tomashovka55: bets $0.06
+Gilberto2332: calls $0.06
+*** RIVER *** [8c Tc Ah 4s] [3s]
+tomashovka55: bets $0.08
+Gilberto2332: calls $0.08
+*** SHOW DOWN ***
+tomashovka55: shows [Ad Jc] (a pair of Aces)
+Gilberto2332: mucks hand 
+tomashovka55 collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [8c Tc Ah 4s 3s]
+Seat 1: miffay folded before Flop (didn't bet)
+Seat 3: Gilberto2332 mucked [5s 5d]
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: Kopravi folded before Flop (didn't bet)
+Seat 7: Ihor363 (button) folded before Flop (didn't bet)
+Seat 8: tomashovka55 (small blind) showed [Ad Jc] and won ($0.37) with a pair of Aces
+Seat 9: andrey_kasav (big blind) folded before Flop
+
+
+
+PokerStars Hand #237407041232:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:10:58 PT [2022/07/17 2:10:58 ET]
+Table 'Bellerophon III' 9-max Seat #8 is the button
+Seat 3: Gilberto2332 ($1.30 in chips) 
+Seat 4: samadura ($1.29 in chips) 
+Seat 5: Dorex2007 ($2.24 in chips) 
+Seat 6: Kopravi ($6.03 in chips) 
+Seat 7: Ihor363 ($1.79 in chips) 
+Seat 8: tomashovka55 ($2.29 in chips) 
+Gilberto2332: posts small blind $0.01
+samadura: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Qc]
+Dorex2007: raises $0.04 to $0.06
+Kopravi: folds 
+Ihor363: folds 
+tomashovka55: folds 
+Gilberto2332: folds 
+samadura: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 3: Gilberto2332 (small blind) folded before Flop
+Seat 4: samadura (big blind) folded before Flop
+Seat 5: Dorex2007 collected ($0.05)
+Seat 6: Kopravi folded before Flop (didn't bet)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407043384:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:11:18 PT [2022/07/17 2:11:18 ET]
+Table 'Bellerophon III' 9-max Seat #3 is the button
+Seat 3: Gilberto2332 ($1.29 in chips) 
+Seat 4: samadura ($1.27 in chips) 
+Seat 5: Dorex2007 ($2.27 in chips) 
+Seat 6: Kopravi ($6.03 in chips) 
+Seat 7: Ihor363 ($1.79 in chips) 
+Seat 8: tomashovka55 ($2.29 in chips) 
+samadura: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+George RichardM: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 8s]
+Kopravi: folds 
+Ihor363: folds 
+tomashovka55: folds 
+Gilberto2332: calls $0.02
+samadura: raises $0.08 to $0.10
+Dorex2007: folds 
+Gilberto2332: calls $0.08
+*** FLOP *** [Kd 6c 9h]
+samadura: checks 
+Gilberto2332: bets $0.21
+samadura: folds 
+Uncalled bet ($0.21) returned to Gilberto2332
+Gilberto2332 collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Kd 6c 9h]
+Seat 3: Gilberto2332 (button) collected ($0.21)
+Seat 4: samadura (small blind) folded on the Flop
+Seat 5: Dorex2007 (big blind) folded before Flop
+Seat 6: Kopravi folded before Flop (didn't bet)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407047920:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:11:58 PT [2022/07/17 2:11:58 ET]
+Table 'Bellerophon III' 9-max Seat #4 is the button
+Seat 3: Gilberto2332 ($1.40 in chips) 
+Seat 4: samadura ($1.17 in chips) 
+Seat 5: Dorex2007 ($2.25 in chips) 
+Seat 6: Kopravi ($6.03 in chips) 
+Seat 7: Ihor363 ($1.79 in chips) 
+Seat 8: tomashovka55 ($2.29 in chips) 
+Dorex2007: posts small blind $0.01
+Kopravi: posts big blind $0.02
+George RichardM: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 5s]
+Ihor363: folds 
+tomashovka55: folds 
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to Kopravi
+Kopravi collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura (button) folded before Flop (didn't bet)
+Seat 5: Dorex2007 (small blind) folded before Flop
+Seat 6: Kopravi (big blind) collected ($0.02)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407050437:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:12:22 PT [2022/07/17 2:12:22 ET]
+Table 'Bellerophon III' 9-max Seat #5 is the button
+Seat 3: Gilberto2332 ($1.40 in chips) 
+Seat 4: samadura ($1.17 in chips) 
+Seat 5: Dorex2007 ($2.24 in chips) 
+Seat 6: Kopravi ($6.04 in chips) 
+Seat 7: Ihor363 ($1.79 in chips) 
+Seat 8: tomashovka55 ($2.29 in chips) 
+Kopravi: posts small blind $0.01
+Ihor363: posts big blind $0.02
+George RichardM: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 9s]
+harroule joins the table at seat #1 
+tomashovka55: folds 
+Gilberto2332: raises $0.02 to $0.04
+samadura: folds 
+Dorex2007: calls $0.04
+Kopravi: folds 
+Ihor363: folds 
+*** FLOP *** [Js 8h 3d]
+Gilberto2332: bets $0.04
+Dorex2007: calls $0.04
+*** TURN *** [Js 8h 3d] [6c]
+Gilberto2332: checks 
+Dorex2007: bets $0.09
+Gilberto2332: calls $0.09
+*** RIVER *** [Js 8h 3d 6c] [Ks]
+Gilberto2332: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+Gilberto2332: shows [7c 7d] (a pair of Sevens)
+Dorex2007: shows [9c 9s] (a pair of Nines)
+Dorex2007 collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Js 8h 3d 6c Ks]
+Seat 3: Gilberto2332 showed [7c 7d] and lost with a pair of Sevens
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 (button) showed [9c 9s] and won ($0.36) with a pair of Nines
+Seat 6: Kopravi (small blind) folded before Flop
+Seat 7: Ihor363 (big blind) folded before Flop
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407058411:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:13:33 PT [2022/07/17 2:13:33 ET]
+Table 'Bellerophon III' 9-max Seat #6 is the button
+Seat 3: Gilberto2332 ($1.23 in chips) 
+Seat 4: samadura ($1.17 in chips) 
+Seat 5: Dorex2007 ($2.43 in chips) 
+Seat 6: Kopravi ($6.03 in chips) 
+Seat 7: Ihor363 ($1.77 in chips) 
+Seat 9: andrey_kasav ($1.53 in chips) 
+Ihor363: posts small blind $0.01
+andrey_kasav: posts big blind $0.02
+harroule: sits out 
+George RichardM: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 6s]
+Gilberto2332: raises $0.02 to $0.04
+samadura: folds 
+Dorex2007: calls $0.04
+Kopravi: folds 
+Ihor363: folds 
+andrey_kasav: folds 
+*** FLOP *** [2h 2c Qs]
+Gilberto2332: checks 
+Dorex2007: checks 
+*** TURN *** [2h 2c Qs] [5d]
+Gilberto2332: checks 
+Dorex2007: bets $0.07
+Gilberto2332: folds 
+Uncalled bet ($0.07) returned to Dorex2007
+Dorex2007 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [2h 2c Qs 5d]
+Seat 3: Gilberto2332 folded on the Turn
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 collected ($0.11)
+Seat 6: Kopravi (button) folded before Flop (didn't bet)
+Seat 7: Ihor363 (small blind) folded before Flop
+Seat 9: andrey_kasav (big blind) folded before Flop
+
+
+
+PokerStars Hand #237407062331:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:14:08 PT [2022/07/17 2:14:08 ET]
+Table 'Bellerophon III' 9-max Seat #7 is the button
+Seat 1: harroule ($2 in chips) 
+Seat 3: Gilberto2332 ($1.19 in chips) 
+Seat 4: samadura ($1.17 in chips) 
+Seat 5: Dorex2007 ($2.50 in chips) 
+Seat 6: Kopravi ($6.03 in chips) 
+Seat 7: Ihor363 ($1.76 in chips) 
+Seat 9: andrey_kasav ($1.51 in chips) 
+andrey_kasav: posts small blind $0.01
+harroule: posts big blind $0.02
+George RichardM: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 9c]
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+Kopravi: raises $0.02 to $0.04
+Ihor363: folds 
+andrey_kasav: folds 
+harroule: calls $0.02
+*** FLOP *** [5d 8h 4c]
+harroule: checks 
+Kopravi: bets $0.09
+harroule: calls $0.09
+*** TURN *** [5d 8h 4c] [6d]
+harroule: checks 
+Kopravi: checks 
+*** RIVER *** [5d 8h 4c 6d] [3s]
+harroule: bets $0.26
+Kopravi: folds 
+Uncalled bet ($0.26) returned to harroule
+harroule collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [5d 8h 4c 6d 3s]
+Seat 1: harroule (big blind) collected ($0.26)
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: Kopravi folded on the River
+Seat 7: Ihor363 (button) folded before Flop (didn't bet)
+Seat 9: andrey_kasav (small blind) folded before Flop
+
+
+
+PokerStars Hand #237407065980:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:14:41 PT [2022/07/17 2:14:41 ET]
+Table 'Bellerophon III' 9-max Seat #9 is the button
+Seat 1: harroule ($2.13 in chips) 
+Seat 2: George RichardM ($2 in chips) 
+Seat 3: Gilberto2332 ($1.19 in chips) 
+Seat 4: samadura ($1.17 in chips) 
+Seat 5: Dorex2007 ($2.50 in chips) 
+Seat 6: Kopravi ($5.90 in chips) 
+Seat 7: Ihor363 ($1.76 in chips) 
+Seat 9: andrey_kasav ($1.50 in chips) 
+harroule: posts small blind $0.01
+George RichardM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Qd]
+Gilberto2332: folds 
+samadura: raises $0.04 to $0.06
+Dorex2007: calls $0.06
+Kopravi: folds 
+Ihor363: folds 
+andrey_kasav: folds 
+harroule: folds 
+George RichardM has timed out
+George RichardM: folds 
+*** FLOP *** [2c 9s Kd]
+samadura: checks 
+Dorex2007: bets $0.14
+samadura: raises $0.18 to $0.32
+Dorex2007: folds 
+Uncalled bet ($0.18) returned to samadura
+samadura collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [2c 9s Kd]
+Seat 1: harroule (small blind) folded before Flop
+Seat 2: George RichardM (big blind) folded before Flop
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura collected ($0.41)
+Seat 5: Dorex2007 folded on the Flop
+Seat 6: Kopravi folded before Flop (didn't bet)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 9: andrey_kasav (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407076327:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:16:13 PT [2022/07/17 2:16:13 ET]
+Table 'Bellerophon III' 9-max Seat #1 is the button
+Seat 1: harroule ($2.12 in chips) 
+Seat 2: George RichardM ($1.98 in chips) 
+Seat 3: Gilberto2332 ($1.19 in chips) 
+Seat 4: samadura ($1.38 in chips) 
+Seat 5: Dorex2007 ($2.30 in chips) 
+Seat 6: Kopravi ($5.90 in chips) 
+Seat 7: Ihor363 ($1.76 in chips) 
+Seat 9: andrey_kasav ($1.50 in chips) 
+George RichardM: posts small blind $0.01
+Gilberto2332: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Qd]
+samadura: folds 
+Dorex2007: folds 
+Kopravi: folds 
+Ihor363: folds 
+andrey_kasav: folds 
+harroule: folds 
+George RichardM has timed out
+George RichardM: folds 
+Uncalled bet ($0.01) returned to Gilberto2332
+Gilberto2332 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: harroule (button) folded before Flop (didn't bet)
+Seat 2: George RichardM (small blind) folded before Flop
+Seat 3: Gilberto2332 (big blind) collected ($0.02)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: Kopravi folded before Flop (didn't bet)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 9: andrey_kasav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407079450:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:16:41 PT [2022/07/17 2:16:41 ET]
+Table 'Bellerophon III' 9-max Seat #3 is the button
+Seat 1: harroule ($2.12 in chips) 
+Seat 3: Gilberto2332 ($1.20 in chips) 
+Seat 4: samadura ($1.38 in chips) 
+Seat 5: Dorex2007 ($2.30 in chips) 
+Seat 6: Kopravi ($5.90 in chips) 
+Seat 7: Ihor363 ($1.76 in chips) 
+Seat 9: andrey_kasav ($1.50 in chips) 
+samadura: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 7s]
+Kopravi: folds 
+Ihor363: folds 
+andrey_kasav: folds 
+harroule: folds 
+Gilberto2332: folds 
+samadura: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 3: Gilberto2332 (button) folded before Flop (didn't bet)
+Seat 4: samadura (small blind) folded before Flop
+Seat 5: Dorex2007 (big blind) collected ($0.02)
+Seat 6: Kopravi folded before Flop (didn't bet)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 9: andrey_kasav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407081743:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:17:02 PT [2022/07/17 2:17:02 ET]
+Table 'Bellerophon III' 9-max Seat #4 is the button
+Seat 1: harroule ($2.12 in chips) 
+Seat 2: George RichardM ($1.97 in chips) 
+Seat 3: Gilberto2332 ($1.20 in chips) 
+Seat 4: samadura ($1.37 in chips) 
+Seat 5: Dorex2007 ($2.31 in chips) 
+Seat 6: Kopravi ($5.90 in chips) 
+Seat 7: Ihor363 ($1.76 in chips) 
+Seat 9: andrey_kasav ($1.50 in chips) 
+Dorex2007: posts small blind $0.01
+Kopravi: posts big blind $0.02
+tomashovka55: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 4h]
+Ihor363: folds 
+andrey_kasav: folds 
+harroule: calls $0.02
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+Kopravi: checks 
+*** FLOP *** [6s 8c Kh]
+Kopravi: checks 
+harroule: checks 
+*** TURN *** [6s 8c Kh] [Jh]
+Kopravi: bets $0.04
+harroule: calls $0.04
+*** RIVER *** [6s 8c Kh Jh] [5s]
+Kopravi: checks 
+harroule: checks 
+*** SHOW DOWN ***
+Kopravi: shows [Qc 2h] (high card King)
+harroule: shows [5h Ah] (a pair of Fives)
+harroule collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6s 8c Kh Jh 5s]
+Seat 1: harroule showed [5h Ah] and won ($0.13) with a pair of Fives
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura (button) folded before Flop (didn't bet)
+Seat 5: Dorex2007 (small blind) folded before Flop
+Seat 6: Kopravi (big blind) showed [Qc 2h] and lost with high card King
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 9: andrey_kasav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407088852:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:18:06 PT [2022/07/17 2:18:06 ET]
+Table 'Bellerophon III' 9-max Seat #5 is the button
+Seat 1: harroule ($2.19 in chips) 
+Seat 2: George RichardM ($1.97 in chips) 
+Seat 3: Gilberto2332 ($1.20 in chips) 
+Seat 4: samadura ($1.37 in chips) 
+Seat 5: Dorex2007 ($2.30 in chips) 
+Seat 6: Kopravi ($5.84 in chips) 
+Seat 7: Ihor363 ($1.76 in chips) 
+Seat 9: andrey_kasav ($1.50 in chips) 
+Kopravi: posts small blind $0.01
+Ihor363: posts big blind $0.02
+tomashovka55: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 6h]
+andrey_kasav: folds 
+harroule: folds 
+George RichardM: calls $0.02
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+Kopravi: folds 
+Ihor363: checks 
+*** FLOP *** [8s 5h Th]
+Ihor363: checks 
+George RichardM: checks 
+*** TURN *** [8s 5h Th] [2h]
+Ihor363: checks 
+George RichardM: checks 
+*** RIVER *** [8s 5h Th 2h] [8h]
+Ihor363: checks 
+George RichardM: checks 
+*** SHOW DOWN ***
+Ihor363: shows [Ah 3d] (a flush, Ace high)
+George RichardM: mucks hand 
+Ihor363 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8s 5h Th 2h 8h]
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 2: George RichardM mucked [Ks Qd]
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 6: Kopravi (small blind) folded before Flop
+Seat 7: Ihor363 (big blind) showed [Ah 3d] and won ($0.05) with a flush, Ace high
+Seat 9: andrey_kasav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407101382:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:19:58 PT [2022/07/17 2:19:58 ET]
+Table 'Bellerophon III' 9-max Seat #6 is the button
+Seat 1: harroule ($2.19 in chips) 
+Seat 2: George RichardM ($1.95 in chips) 
+Seat 3: Gilberto2332 ($1.20 in chips) 
+Seat 4: samadura ($1.37 in chips) 
+Seat 5: Dorex2007 ($2.30 in chips) 
+Seat 6: Kopravi ($5.83 in chips) 
+Seat 7: Ihor363 ($1.79 in chips) 
+Seat 8: tomashovka55 ($2.29 in chips) 
+Seat 9: andrey_kasav ($1.50 in chips) 
+Ihor363: posts small blind $0.01
+tomashovka55: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Tc]
+andrey_kasav: folds 
+harroule: calls $0.02
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: raises $0.02 to $0.04
+Kopravi: folds 
+Ihor363: calls $0.03
+tomashovka55: folds 
+harroule: calls $0.02
+*** FLOP *** [6s 3h 4c]
+Ihor363: checks 
+harroule: checks 
+Dorex2007: checks 
+*** TURN *** [6s 3h 4c] [5h]
+Ihor363: checks 
+harroule: checks 
+Dorex2007: checks 
+*** RIVER *** [6s 3h 4c 5h] [Ad]
+Ihor363: checks 
+harroule: checks 
+Dorex2007: bets $0.07
+Ihor363: folds 
+harroule: folds 
+Uncalled bet ($0.07) returned to Dorex2007
+Dorex2007 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [6s 3h 4c 5h Ad]
+Seat 1: harroule folded on the River
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 collected ($0.14)
+Seat 6: Kopravi (button) folded before Flop (didn't bet)
+Seat 7: Ihor363 (small blind) folded on the River
+Seat 8: tomashovka55 (big blind) folded before Flop
+Seat 9: andrey_kasav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407112943:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:21:41 PT [2022/07/17 2:21:41 ET]
+Table 'Bellerophon III' 9-max Seat #7 is the button
+Seat 1: harroule ($2.15 in chips) 
+Seat 2: George RichardM ($1.95 in chips) 
+Seat 3: Gilberto2332 ($1.20 in chips) 
+Seat 4: samadura ($1.37 in chips) 
+Seat 5: Dorex2007 ($2.40 in chips) 
+Seat 6: Kopravi ($5.83 in chips) 
+Seat 7: Ihor363 ($1.75 in chips) 
+Seat 8: tomashovka55 ($2.27 in chips) 
+Seat 9: andrey_kasav ($1.50 in chips) 
+tomashovka55: posts small blind $0.01
+andrey_kasav: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 2s]
+harroule: folds 
+George RichardM: folds 
+Gilberto2332: raises $0.02 to $0.04
+samadura: folds 
+Dorex2007: folds 
+Kopravi: folds 
+Kopravi leaves the table
+Ihor363: folds 
+tomashovka55: folds 
+andrey_kasav: folds 
+Uncalled bet ($0.02) returned to Gilberto2332
+Gilberto2332 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 collected ($0.05)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: Kopravi folded before Flop (didn't bet)
+Seat 7: Ihor363 (button) folded before Flop (didn't bet)
+Seat 8: tomashovka55 (small blind) folded before Flop
+Seat 9: andrey_kasav (big blind) folded before Flop
+
+
+
+PokerStars Hand #237407115471:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:22:03 PT [2022/07/17 2:22:03 ET]
+Table 'Bellerophon III' 9-max Seat #8 is the button
+Seat 1: harroule ($2.15 in chips) 
+Seat 2: George RichardM ($1.95 in chips) 
+Seat 3: Gilberto2332 ($1.23 in chips) 
+Seat 4: samadura ($1.37 in chips) 
+Seat 5: Dorex2007 ($2.40 in chips) 
+Seat 7: Ihor363 ($1.75 in chips) 
+Seat 8: tomashovka55 ($2.26 in chips) 
+Seat 9: andrey_kasav ($1.48 in chips) 
+andrey_kasav: posts small blind $0.01
+harroule: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 5d]
+roma19765 joins the table at seat #6 
+George RichardM has timed out
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+Ihor363: raises $0.02 to $0.04
+tomashovka55: folds 
+andrey_kasav: folds 
+harroule: calls $0.02
+*** FLOP *** [Kc Tc 8c]
+harroule: checks 
+Ihor363: checks 
+*** TURN *** [Kc Tc 8c] [Kh]
+harroule: checks 
+Ihor363: checks 
+*** RIVER *** [Kc Tc 8c Kh] [5s]
+harroule: checks 
+Ihor363: checks 
+*** SHOW DOWN ***
+harroule: shows [4c 2s] (a pair of Kings)
+Ihor363: shows [9h 9s] (two pair, Kings and Nines)
+Ihor363 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Kc Tc 8c Kh 5s]
+Seat 1: harroule (big blind) showed [4c 2s] and lost with a pair of Kings
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Ihor363 showed [9h 9s] and won ($0.09) with two pair, Kings and Nines
+Seat 8: tomashovka55 (button) folded before Flop (didn't bet)
+Seat 9: andrey_kasav (small blind) folded before Flop
+
+
+
+PokerStars Hand #237407121093:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:22:54 PT [2022/07/17 2:22:54 ET]
+Table 'Bellerophon III' 9-max Seat #9 is the button
+Seat 1: harroule ($2.11 in chips) 
+Seat 2: George RichardM ($1.95 in chips) 
+Seat 3: Gilberto2332 ($1.23 in chips) 
+Seat 4: samadura ($1.37 in chips) 
+Seat 5: Dorex2007 ($2.40 in chips) 
+Seat 7: Ihor363 ($1.80 in chips) 
+Seat 8: tomashovka55 ($2.26 in chips) 
+Seat 9: andrey_kasav ($1.47 in chips) 
+harroule: posts small blind $0.01
+George RichardM: posts big blind $0.02
+roma19765: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 6d]
+Gilberto2332: folds 
+samadura: raises $0.02 to $0.04
+Dorex2007: folds 
+Ihor363: folds 
+tomashovka55: folds 
+andrey_kasav has timed out
+andrey_kasav: folds 
+harroule: folds 
+George RichardM: folds 
+Uncalled bet ($0.02) returned to samadura
+samadura collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: harroule (small blind) folded before Flop
+Seat 2: George RichardM (big blind) folded before Flop
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura collected ($0.05)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+Seat 9: andrey_kasav (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407125737:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:23:36 PT [2022/07/17 2:23:36 ET]
+Table 'Bellerophon III' 9-max Seat #1 is the button
+Seat 1: harroule ($2.10 in chips) 
+Seat 2: George RichardM ($1.93 in chips) 
+Seat 3: Gilberto2332 ($1.23 in chips) 
+Seat 4: samadura ($1.40 in chips) 
+Seat 5: Dorex2007 ($2.40 in chips) 
+Seat 7: Ihor363 ($1.80 in chips) 
+Seat 8: tomashovka55 ($2.26 in chips) 
+George RichardM: posts small blind $0.01
+Gilberto2332: posts big blind $0.02
+roma19765: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 5s]
+samadura: folds 
+Dorex2007: folds 
+Ihor363 has timed out
+Ihor363: folds 
+tomashovka55: folds 
+harroule: folds 
+George RichardM: folds 
+Uncalled bet ($0.01) returned to Gilberto2332
+Gilberto2332 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: harroule (button) folded before Flop (didn't bet)
+Seat 2: George RichardM (small blind) folded before Flop
+Seat 3: Gilberto2332 (big blind) collected ($0.02)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407128559:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:24:01 PT [2022/07/17 2:24:01 ET]
+Table 'Bellerophon III' 9-max Seat #2 is the button
+Seat 1: harroule ($2.10 in chips) 
+Seat 2: George RichardM ($1.92 in chips) 
+Seat 3: Gilberto2332 ($1.24 in chips) 
+Seat 4: samadura ($1.40 in chips) 
+Seat 5: Dorex2007 ($2.40 in chips) 
+Seat 8: tomashovka55 ($2.26 in chips) 
+Gilberto2332: posts small blind $0.01
+samadura: posts big blind $0.02
+roma19765: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 3h]
+Dorex2007: folds 
+tomashovka55: folds 
+harroule: folds 
+George RichardM: folds 
+Gilberto2332: folds 
+Uncalled bet ($0.01) returned to samadura
+samadura collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 2: George RichardM (button) folded before Flop (didn't bet)
+Seat 3: Gilberto2332 (small blind) folded before Flop
+Seat 4: samadura (big blind) collected ($0.02)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407129832:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:24:13 PT [2022/07/17 2:24:13 ET]
+Table 'Bellerophon III' 9-max Seat #4 is the button
+Seat 1: harroule ($2.10 in chips) 
+Seat 2: George RichardM ($1.92 in chips) 
+Seat 4: samadura ($1.41 in chips) 
+Seat 5: Dorex2007 ($2.40 in chips) 
+Seat 6: roma19765 ($1.60 in chips) 
+Seat 7: Ihor363 ($1.80 in chips) 
+Seat 8: tomashovka55 ($2.26 in chips) 
+Dorex2007: posts small blind $0.01
+roma19765: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 3s]
+Ihor363: folds 
+tomashovka55: folds 
+harroule: folds 
+George RichardM has timed out
+George RichardM: folds 
+samadura: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to roma19765
+roma19765 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 4: samadura (button) folded before Flop (didn't bet)
+Seat 5: Dorex2007 (small blind) folded before Flop
+Seat 6: roma19765 (big blind) collected ($0.02)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407132428:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:24:36 PT [2022/07/17 2:24:36 ET]
+Table 'Bellerophon III' 9-max Seat #5 is the button
+Seat 1: harroule ($2.10 in chips) 
+Seat 4: samadura ($1.41 in chips) 
+Seat 5: Dorex2007 ($2.39 in chips) 
+Seat 6: roma19765 ($1.61 in chips) 
+Seat 7: Ihor363 ($1.80 in chips) 
+Seat 8: tomashovka55 ($2.26 in chips) 
+roma19765: posts small blind $0.01
+Ihor363: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Th]
+tomashovka55: folds 
+harroule: folds 
+samadura: raises $0.04 to $0.06
+Dorex2007: calls $0.06
+roma19765: calls $0.05
+Ihor363: folds 
+*** FLOP *** [2s 9h 3d]
+roma19765: checks 
+samadura: checks 
+Dorex2007: checks 
+*** TURN *** [2s 9h 3d] [7d]
+roma19765: checks 
+samadura: checks 
+Dorex2007: bets $0.09
+roma19765: folds 
+samadura: calls $0.09
+*** RIVER *** [2s 9h 3d 7d] [6s]
+samadura: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+samadura: shows [Jd Ad] (high card Ace)
+Dorex2007: mucks hand 
+samadura collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [2s 9h 3d 7d 6s]
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 4: samadura showed [Jd Ad] and won ($0.37) with high card Ace
+Seat 5: Dorex2007 (button) mucked [As Th]
+Seat 6: roma19765 (small blind) folded on the Turn
+Seat 7: Ihor363 (big blind) folded before Flop
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407141086:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:25:55 PT [2022/07/17 2:25:55 ET]
+Table 'Bellerophon III' 9-max Seat #6 is the button
+Seat 1: harroule ($2.10 in chips) 
+Seat 2: George RichardM ($1.92 in chips) 
+Seat 4: samadura ($1.63 in chips) 
+Seat 5: Dorex2007 ($2.24 in chips) 
+Seat 6: roma19765 ($1.55 in chips) 
+Seat 7: Ihor363 ($1.78 in chips) 
+Seat 8: tomashovka55 ($2.26 in chips) 
+Ihor363: posts small blind $0.01
+tomashovka55: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Kh]
+harroule: folds 
+George RichardM: folds 
+samadura: folds 
+Dorex2007: raises $0.06 to $0.08
+roma19765: folds 
+Ihor363: folds 
+tomashovka55: folds 
+Uncalled bet ($0.06) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 collected ($0.05)
+Seat 6: roma19765 (button) folded before Flop (didn't bet)
+Seat 7: Ihor363 (small blind) folded before Flop
+Seat 8: tomashovka55 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237407144151:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:26:23 PT [2022/07/17 2:26:23 ET]
+Table 'Bellerophon III' 9-max Seat #7 is the button
+Seat 1: harroule ($2.10 in chips) 
+Seat 2: George RichardM ($1.92 in chips) 
+Seat 4: samadura ($1.63 in chips) 
+Seat 5: Dorex2007 ($2.27 in chips) 
+Seat 6: roma19765 ($1.55 in chips) 
+Seat 7: Ihor363 ($1.77 in chips) 
+Seat 8: tomashovka55 ($2.24 in chips) 
+tomashovka55: posts small blind $0.01
+harroule: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 3d]
+George RichardM: folds 
+samadura: folds 
+Dorex2007: folds 
+roma19765: folds 
+Ihor363: raises $0.02 to $0.04
+tomashovka55: folds 
+harroule: calls $0.02
+*** FLOP *** [Th Js 7s]
+harroule: checks 
+Ihor363: bets $0.09
+harroule: calls $0.09
+*** TURN *** [Th Js 7s] [As]
+harroule: checks 
+Ihor363: bets $0.22
+harroule: calls $0.22
+*** RIVER *** [Th Js 7s As] [6s]
+harroule: bets $1.75 and is all-in
+Ihor363: calls $1.42 and is all-in
+Uncalled bet ($0.33) returned to harroule
+*** SHOW DOWN ***
+harroule: shows [9s Kh] (a flush, Ace high)
+Ihor363: shows [Qs 5s] (a flush, Ace high - Queen higher)
+Ihor363 collected $3.43 from pot
+*** SUMMARY ***
+Total pot $3.55 | Rake $0.12 
+Board [Th Js 7s As 6s]
+Seat 1: harroule (big blind) showed [9s Kh] and lost with a flush, Ace high
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 (button) showed [Qs 5s] and won ($3.43) with a flush, Ace high
+Seat 8: tomashovka55 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237407151245:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:27:26 PT [2022/07/17 2:27:26 ET]
+Table 'Bellerophon III' 9-max Seat #8 is the button
+Seat 1: harroule ($0.33 in chips) 
+Seat 2: George RichardM ($1.92 in chips) 
+Seat 4: samadura ($1.63 in chips) 
+Seat 5: Dorex2007 ($2.27 in chips) 
+Seat 6: roma19765 ($1.55 in chips) 
+Seat 7: Ihor363 ($3.43 in chips) 
+Seat 8: tomashovka55 ($2.23 in chips) 
+harroule: posts small blind $0.01
+George RichardM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 8d]
+samadura: folds 
+Dorex2007: folds 
+roma19765: raises $0.04 to $0.06
+Ihor363: folds 
+tomashovka55: folds 
+harroule: folds 
+George RichardM: folds 
+Uncalled bet ($0.04) returned to roma19765
+roma19765 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: harroule (small blind) folded before Flop
+Seat 2: George RichardM (big blind) folded before Flop
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 collected ($0.05)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407154125:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:27:50 PT [2022/07/17 2:27:50 ET]
+Table 'Bellerophon III' 9-max Seat #1 is the button
+Seat 1: harroule ($0.32 in chips) 
+Seat 2: George RichardM ($1.90 in chips) 
+Seat 4: samadura ($1.63 in chips) 
+Seat 5: Dorex2007 ($2.27 in chips) 
+Seat 6: roma19765 ($1.58 in chips) 
+Seat 7: Ihor363 ($3.43 in chips) 
+Seat 8: tomashovka55 ($2.23 in chips) 
+George RichardM: posts small blind $0.01
+samadura: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Qc]
+Dorex2007: calls $0.02
+roma19765: folds 
+Ihor363: folds 
+tomashovka55: folds 
+harroule: folds 
+George RichardM: calls $0.01
+samadura: checks 
+*** FLOP *** [3c 4c 5c]
+George RichardM: checks 
+samadura: checks 
+Dorex2007: bets $0.04
+George RichardM: calls $0.04
+samadura: calls $0.04
+*** TURN *** [3c 4c 5c] [6c]
+George RichardM: checks 
+samadura: checks 
+Dorex2007: checks 
+*** RIVER *** [3c 4c 5c 6c] [Kc]
+George RichardM: checks 
+samadura: bets $0.08
+Dorex2007: calls $0.08
+George RichardM: folds 
+*** SHOW DOWN ***
+samadura: shows [3s Ac] (a flush, Ace high)
+Dorex2007: mucks hand 
+samadura collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [3c 4c 5c 6c Kc]
+Seat 1: harroule (button) folded before Flop (didn't bet)
+Seat 2: George RichardM (small blind) folded on the River
+Seat 4: samadura (big blind) showed [3s Ac] and won ($0.33) with a flush, Ace high
+Seat 5: Dorex2007 mucked [Tc Qc]
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407162918:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:29:09 PT [2022/07/17 2:29:09 ET]
+Table 'Bellerophon III' 9-max Seat #2 is the button
+Seat 1: harroule ($0.32 in chips) 
+Seat 2: George RichardM ($1.84 in chips) 
+Seat 4: samadura ($1.82 in chips) 
+Seat 5: Dorex2007 ($2.13 in chips) 
+Seat 6: roma19765 ($1.58 in chips) 
+Seat 7: Ihor363 ($3.43 in chips) 
+Seat 8: tomashovka55 ($2.23 in chips) 
+samadura: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 4h]
+roma19765 has timed out
+roma19765: folds 
+Ihor363: raises $0.02 to $0.04
+tomashovka55: folds 
+harroule: folds 
+George RichardM: folds 
+samadura: calls $0.03
+Dorex2007: folds 
+*** FLOP *** [2c 8h 4s]
+samadura: checks 
+Ihor363: bets $0.05
+samadura: calls $0.05
+*** TURN *** [2c 8h 4s] [Ts]
+samadura: checks 
+Ihor363: checks 
+*** RIVER *** [2c 8h 4s Ts] [9h]
+samadura: bets $0.08
+Ihor363: folds 
+Uncalled bet ($0.08) returned to samadura
+samadura collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2c 8h 4s Ts 9h]
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 2: George RichardM (button) folded before Flop (didn't bet)
+Seat 4: samadura (small blind) collected ($0.19)
+Seat 5: Dorex2007 (big blind) folded before Flop
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 folded on the River
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407170701:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:30:18 PT [2022/07/17 2:30:18 ET]
+Table 'Bellerophon III' 9-max Seat #4 is the button
+Seat 1: harroule ($0.32 in chips) 
+Seat 2: George RichardM ($1.84 in chips) 
+Seat 3: Gilberto2332 ($1.23 in chips) 
+Seat 4: samadura ($1.92 in chips) 
+Seat 5: Dorex2007 ($2.11 in chips) 
+Seat 6: roma19765 ($1.58 in chips) 
+Seat 7: Ihor363 ($3.34 in chips) 
+Seat 8: tomashovka55 ($2.23 in chips) 
+Dorex2007: posts small blind $0.01
+roma19765: posts big blind $0.02
+Gilberto2332: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 8h]
+Ihor363 has timed out
+Ihor363: folds 
+tomashovka55: folds 
+harroule: folds 
+George RichardM: folds 
+Gilberto2332: checks 
+samadura: folds 
+Dorex2007: folds 
+roma19765: checks 
+*** FLOP *** [Qd 6s 2c]
+roma19765: checks 
+Gilberto2332: checks 
+*** TURN *** [Qd 6s 2c] [Kc]
+roma19765: checks 
+Gilberto2332: checks 
+*** RIVER *** [Qd 6s 2c Kc] [Th]
+roma19765: checks 
+Gilberto2332: checks 
+*** SHOW DOWN ***
+roma19765: shows [5c Ad] (high card Ace)
+Gilberto2332: mucks hand 
+roma19765 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Qd 6s 2c Kc Th]
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 mucked [9h 4h]
+Seat 4: samadura (button) folded before Flop (didn't bet)
+Seat 5: Dorex2007 (small blind) folded before Flop
+Seat 6: roma19765 (big blind) showed [5c Ad] and won ($0.06) with high card Ace
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407182118:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:32:00 PT [2022/07/17 2:32:00 ET]
+Table 'Bellerophon III' 9-max Seat #5 is the button
+Seat 1: harroule ($2 in chips) 
+Seat 2: George RichardM ($1.84 in chips) 
+Seat 4: samadura ($1.92 in chips) 
+Seat 5: Dorex2007 ($2.10 in chips) 
+Seat 6: roma19765 ($1.62 in chips) 
+Seat 7: Ihor363 ($3.34 in chips) 
+Seat 8: tomashovka55 ($2.23 in chips) 
+roma19765: posts small blind $0.01
+Ihor363: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 2c]
+tomashovka55: folds 
+harroule: folds 
+George RichardM: raises $0.02 to $0.04
+samadura: folds 
+Dorex2007: folds 
+roma19765: folds 
+Ihor363: folds 
+Uncalled bet ($0.02) returned to George RichardM
+George RichardM collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 2: George RichardM collected ($0.05)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 6: roma19765 (small blind) folded before Flop
+Seat 7: Ihor363 (big blind) folded before Flop
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407184950:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:32:25 PT [2022/07/17 2:32:25 ET]
+Table 'Bellerophon III' 9-max Seat #6 is the button
+Seat 1: harroule ($2 in chips) 
+Seat 2: George RichardM ($1.87 in chips) 
+Seat 4: samadura ($1.92 in chips) 
+Seat 5: Dorex2007 ($2.10 in chips) 
+Seat 6: roma19765 ($1.61 in chips) 
+Seat 7: Ihor363 ($3.32 in chips) 
+Seat 8: tomashovka55 ($2.23 in chips) 
+Ihor363: posts small blind $0.01
+tomashovka55: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Tc]
+harroule: folds 
+George RichardM: folds 
+samadura: folds 
+Dorex2007: folds 
+roma19765: folds 
+Ihor363: folds 
+Uncalled bet ($0.01) returned to tomashovka55
+tomashovka55 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 (button) folded before Flop (didn't bet)
+Seat 7: Ihor363 (small blind) folded before Flop
+Seat 8: tomashovka55 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #237407187368:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:32:47 PT [2022/07/17 2:32:47 ET]
+Table 'Bellerophon III' 9-max Seat #7 is the button
+Seat 1: harroule ($2 in chips) 
+Seat 2: George RichardM ($1.87 in chips) 
+Seat 4: samadura ($1.92 in chips) 
+Seat 5: Dorex2007 ($2.10 in chips) 
+Seat 6: roma19765 ($1.61 in chips) 
+Seat 7: Ihor363 ($3.31 in chips) 
+Seat 8: tomashovka55 ($2.24 in chips) 
+tomashovka55: posts small blind $0.01
+harroule: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Jd]
+George RichardM: folds 
+samadura: folds 
+Dorex2007: folds 
+roma19765: folds 
+Ihor363 has timed out
+Ihor363: folds 
+tomashovka55: folds 
+Uncalled bet ($0.01) returned to harroule
+harroule collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: harroule (big blind) collected ($0.02)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 (button) folded before Flop (didn't bet)
+Seat 8: tomashovka55 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237407190606:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:33:16 PT [2022/07/17 2:33:16 ET]
+Table 'Bellerophon III' 9-max Seat #8 is the button
+Seat 1: harroule ($2.01 in chips) 
+Seat 2: George RichardM ($1.87 in chips) 
+Seat 4: samadura ($1.92 in chips) 
+Seat 5: Dorex2007 ($2.10 in chips) 
+Seat 6: roma19765 ($1.61 in chips) 
+Seat 8: tomashovka55 ($2.23 in chips) 
+harroule: posts small blind $0.01
+George RichardM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 7s]
+samadura: raises $0.04 to $0.06
+Dorex2007: folds 
+roma19765: folds 
+tomashovka55: calls $0.06
+harroule: folds 
+George RichardM: folds 
+*** FLOP *** [Ah Qc Th]
+samadura: checks 
+tomashovka55: bets $0.09
+samadura: calls $0.09
+*** TURN *** [Ah Qc Th] [Qd]
+samadura: checks 
+tomashovka55: checks 
+*** RIVER *** [Ah Qc Th Qd] [5s]
+samadura: checks 
+tomashovka55: checks 
+*** SHOW DOWN ***
+samadura: shows [Jh Jd] (two pair, Queens and Jacks)
+tomashovka55: shows [7c Ac] (two pair, Aces and Queens)
+tomashovka55 collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Ah Qc Th Qd 5s]
+Seat 1: harroule (small blind) folded before Flop
+Seat 2: George RichardM (big blind) folded before Flop
+Seat 4: samadura showed [Jh Jd] and lost with two pair, Queens and Jacks
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 8: tomashovka55 (button) showed [7c Ac] and won ($0.32) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #237407195706:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:34:01 PT [2022/07/17 2:34:01 ET]
+Table 'Bellerophon III' 9-max Seat #1 is the button
+Seat 1: harroule ($2 in chips) 
+Seat 2: George RichardM ($1.85 in chips) 
+Seat 4: samadura ($1.77 in chips) 
+Seat 5: Dorex2007 ($2.10 in chips) 
+Seat 6: roma19765 ($1.61 in chips) 
+Seat 7: Ihor363 ($3.31 in chips) 
+Seat 8: tomashovka55 ($2.40 in chips) 
+George RichardM: posts small blind $0.01
+samadura: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 6h]
+Dorex2007: folds 
+roma19765: folds 
+Ihor363: raises $0.02 to $0.04
+tomashovka55: folds 
+harroule: folds 
+George RichardM: folds 
+samadura: folds 
+Uncalled bet ($0.02) returned to Ihor363
+Ihor363 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: harroule (button) folded before Flop (didn't bet)
+Seat 2: George RichardM (small blind) folded before Flop
+Seat 4: samadura (big blind) folded before Flop
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 collected ($0.05)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407198088:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:34:22 PT [2022/07/17 2:34:22 ET]
+Table 'Bellerophon III' 9-max Seat #2 is the button
+Seat 1: harroule ($2 in chips) 
+Seat 2: George RichardM ($1.84 in chips) 
+Seat 4: samadura ($1.75 in chips) 
+Seat 5: Dorex2007 ($2.10 in chips) 
+Seat 6: roma19765 ($1.61 in chips) 
+Seat 7: Ihor363 ($3.34 in chips) 
+Seat 8: tomashovka55 ($2.40 in chips) 
+samadura: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 7h]
+roma19765: folds 
+Ihor363 has timed out
+Ihor363: folds 
+tomashovka55: folds 
+harroule: folds 
+George RichardM: folds 
+samadura: folds 
+Uncalled bet ($0.01) returned to Dorex2007
+Dorex2007 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 2: George RichardM (button) folded before Flop (didn't bet)
+Seat 4: samadura (small blind) folded before Flop
+Seat 5: Dorex2007 (big blind) collected ($0.02)
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407200202:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:34:41 PT [2022/07/17 2:34:41 ET]
+Table 'Bellerophon III' 9-max Seat #4 is the button
+Seat 1: harroule ($2 in chips) 
+Seat 2: George RichardM ($1.84 in chips) 
+Seat 4: samadura ($1.74 in chips) 
+Seat 5: Dorex2007 ($2.11 in chips) 
+Seat 6: roma19765 ($1.61 in chips) 
+Seat 8: tomashovka55 ($2.40 in chips) 
+Dorex2007: posts small blind $0.01
+roma19765: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Th]
+tomashovka55: folds 
+harroule: raises $0.06 to $0.08
+George RichardM: folds 
+samadura: folds 
+Dorex2007: folds 
+roma19765: folds 
+Uncalled bet ($0.06) returned to harroule
+harroule collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: harroule collected ($0.05)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 4: samadura (button) folded before Flop (didn't bet)
+Seat 5: Dorex2007 (small blind) folded before Flop
+Seat 6: roma19765 (big blind) folded before Flop
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407202273:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:34:59 PT [2022/07/17 2:34:59 ET]
+Table 'Bellerophon III' 9-max Seat #5 is the button
+Seat 1: harroule ($2.03 in chips) 
+Seat 2: George RichardM ($1.84 in chips) 
+Seat 3: Gilberto2332 ($1.20 in chips) 
+Seat 4: samadura ($1.74 in chips) 
+Seat 5: Dorex2007 ($2.10 in chips) 
+Seat 6: roma19765 ($1.59 in chips) 
+Seat 8: tomashovka55 ($2.40 in chips) 
+roma19765: posts small blind $0.01
+tomashovka55: posts big blind $0.02
+Gilberto2332: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Kc]
+harroule: folds 
+George RichardM: folds 
+Gilberto2332: checks 
+samadura: folds 
+Dorex2007: raises $0.04 to $0.06
+roma19765: folds 
+tomashovka55: folds 
+Gilberto2332: folds 
+Uncalled bet ($0.04) returned to Dorex2007
+Dorex2007 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 (button) collected ($0.08)
+Seat 6: roma19765 (small blind) folded before Flop
+Seat 8: tomashovka55 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237407204509:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:35:19 PT [2022/07/17 2:35:19 ET]
+Table 'Bellerophon III' 9-max Seat #6 is the button
+Seat 1: harroule ($2.03 in chips) 
+Seat 2: George RichardM ($1.84 in chips) 
+Seat 3: Gilberto2332 ($1.17 in chips) 
+Seat 4: samadura ($1.74 in chips) 
+Seat 5: Dorex2007 ($2.16 in chips) 
+Seat 6: roma19765 ($1.58 in chips) 
+Seat 8: tomashovka55 ($2.38 in chips) 
+tomashovka55: posts small blind $0.01
+harroule: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Ts]
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+roma19765: folds 
+tomashovka55: folds 
+Uncalled bet ($0.01) returned to harroule
+harroule collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: harroule (big blind) collected ($0.02)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 (button) folded before Flop (didn't bet)
+Seat 8: tomashovka55 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237407205459:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:35:27 PT [2022/07/17 2:35:27 ET]
+Table 'Bellerophon III' 9-max Seat #8 is the button
+Seat 1: harroule ($2.04 in chips) 
+Seat 2: George RichardM ($1.84 in chips) 
+Seat 3: Gilberto2332 ($1.17 in chips) 
+Seat 4: samadura ($1.74 in chips) 
+Seat 5: Dorex2007 ($2.16 in chips) 
+Seat 6: roma19765 ($1.58 in chips) 
+Seat 7: Ihor363 ($3.34 in chips) 
+Seat 8: tomashovka55 ($2.37 in chips) 
+harroule: posts small blind $0.01
+George RichardM: posts big blind $0.02
+Ihor363: posts small & big blinds $0.03
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 6c]
+Gilberto2332: folds 
+samadura: calls $0.02
+Dorex2007: folds 
+roma19765: folds 
+Ihor363: checks 
+tomashovka55: folds 
+harroule: folds 
+George RichardM has timed out
+George RichardM: checks 
+*** FLOP *** [Qd 9s 4h]
+George RichardM: checks 
+samadura: checks 
+Ihor363: bets $0.08
+George RichardM: folds 
+samadura: folds 
+Uncalled bet ($0.08) returned to Ihor363
+Ihor363 collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Qd 9s 4h]
+Seat 1: harroule (small blind) folded before Flop
+Seat 2: George RichardM (big blind) folded on the Flop
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded on the Flop
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 collected ($0.08)
+Seat 8: tomashovka55 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407211363:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:36:18 PT [2022/07/17 2:36:18 ET]
+Table 'Bellerophon III' 9-max Seat #1 is the button
+Seat 1: harroule ($2.03 in chips) 
+Seat 2: George RichardM ($1.82 in chips) 
+Seat 3: Gilberto2332 ($1.17 in chips) 
+Seat 4: samadura ($1.72 in chips) 
+Seat 5: Dorex2007 ($2.16 in chips) 
+Seat 6: roma19765 ($1.58 in chips) 
+Seat 7: Ihor363 ($3.39 in chips) 
+George RichardM: posts small blind $0.01
+Gilberto2332: posts big blind $0.02
+andrey_kasav: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 9d]
+samadura: folds 
+Dorex2007: folds 
+roma19765: raises $0.04 to $0.06
+Ihor363: calls $0.06
+harroule: calls $0.06
+George RichardM: folds 
+Gilberto2332: calls $0.04
+*** FLOP *** [Kd 4c Tc]
+Gilberto2332: checks 
+roma19765: checks 
+Ihor363: bets $0.24
+harroule: folds 
+Gilberto2332: folds 
+roma19765: folds 
+Uncalled bet ($0.24) returned to Ihor363
+Ihor363 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Kd 4c Tc]
+Seat 1: harroule (button) folded on the Flop
+Seat 2: George RichardM (small blind) folded before Flop
+Seat 3: Gilberto2332 (big blind) folded on the Flop
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 folded on the Flop
+Seat 7: Ihor363 collected ($0.24)
+
+
+
+PokerStars Hand #237407216407:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:37:03 PT [2022/07/17 2:37:03 ET]
+Table 'Bellerophon III' 9-max Seat #2 is the button
+Seat 1: harroule ($1.97 in chips) 
+Seat 2: George RichardM ($1.81 in chips) 
+Seat 3: Gilberto2332 ($1.11 in chips) 
+Seat 4: samadura ($1.72 in chips) 
+Seat 5: Dorex2007 ($2.16 in chips) 
+Seat 6: roma19765 ($1.52 in chips) 
+Seat 7: Ihor363 ($3.57 in chips) 
+Gilberto2332: posts small blind $0.01
+samadura: posts big blind $0.02
+andrey_kasav: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 2d]
+Dorex2007 has timed out
+Dorex2007: folds 
+roma19765: folds 
+Ihor363: raises $0.02 to $0.04
+harroule: folds 
+George RichardM: calls $0.04
+Gilberto2332: folds 
+samadura: folds 
+*** FLOP *** [4h 7h Ts]
+Ihor363: checks 
+George RichardM: checks 
+*** TURN *** [4h 7h Ts] [Tc]
+Ihor363: checks 
+George RichardM: checks 
+*** RIVER *** [4h 7h Ts Tc] [6c]
+Ihor363: checks 
+George RichardM: checks 
+*** SHOW DOWN ***
+Ihor363: shows [Kd 4d] (two pair, Tens and Fours)
+George RichardM: mucks hand 
+Ihor363 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [4h 7h Ts Tc 6c]
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 2: George RichardM (button) mucked [Js Qh]
+Seat 3: Gilberto2332 (small blind) folded before Flop
+Seat 4: samadura (big blind) folded before Flop
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 showed [Kd 4d] and won ($0.11) with two pair, Tens and Fours
+
+
+
+PokerStars Hand #237407222390:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:37:55 PT [2022/07/17 2:37:55 ET]
+Table 'Bellerophon III' 9-max Seat #3 is the button
+Seat 1: harroule ($1.97 in chips) 
+Seat 2: George RichardM ($1.77 in chips) 
+Seat 3: Gilberto2332 ($1.26 in chips) 
+Seat 4: samadura ($1.70 in chips) 
+Seat 5: Dorex2007 ($2.16 in chips) 
+Seat 6: roma19765 ($1.52 in chips) 
+Seat 7: Ihor363 ($3.64 in chips) 
+samadura: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+andrey_kasav: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 3d]
+roma19765: folds 
+Ihor363: raises $0.02 to $0.04
+harroule: calls $0.04
+George RichardM: folds 
+Gilberto2332: calls $0.04
+samadura: folds 
+Dorex2007: folds 
+*** FLOP *** [5s Jh 9s]
+Ihor363: checks 
+harroule: checks 
+Gilberto2332: checks 
+*** TURN *** [5s Jh 9s] [5c]
+Ihor363: checks 
+harroule: bets $0.14
+Gilberto2332: folds 
+Ihor363: folds 
+Uncalled bet ($0.14) returned to harroule
+harroule collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5s Jh 9s 5c]
+Seat 1: harroule collected ($0.14)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 (button) folded on the Turn
+Seat 4: samadura (small blind) folded before Flop
+Seat 5: Dorex2007 (big blind) folded before Flop
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 folded on the Turn
+
+
+
+PokerStars Hand #237407227990:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:38:44 PT [2022/07/17 2:38:44 ET]
+Table 'Bellerophon III' 9-max Seat #4 is the button
+Seat 1: harroule ($2.07 in chips) 
+Seat 2: George RichardM ($1.77 in chips) 
+Seat 3: Gilberto2332 ($1.22 in chips) 
+Seat 4: samadura ($1.69 in chips) 
+Seat 5: Dorex2007 ($2.14 in chips) 
+Seat 6: roma19765 ($1.52 in chips) 
+Seat 7: Ihor363 ($3.60 in chips) 
+Dorex2007: posts small blind $0.01
+roma19765: posts big blind $0.02
+andrey_kasav: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Kd]
+Ihor363: folds 
+harroule: folds 
+George RichardM: calls $0.02
+Gilberto2332: raises $0.02 to $0.04
+samadura: folds 
+Dorex2007: folds 
+roma19765: folds 
+George RichardM: calls $0.02
+*** FLOP *** [8d 9d Ks]
+George RichardM: checks 
+Gilberto2332: checks 
+*** TURN *** [8d 9d Ks] [Qh]
+George RichardM: checks 
+Gilberto2332: checks 
+*** RIVER *** [8d 9d Ks Qh] [2d]
+George RichardM: checks 
+Gilberto2332: checks 
+*** SHOW DOWN ***
+George RichardM: shows [5s 5d] (a pair of Fives)
+Gilberto2332: mucks hand 
+George RichardM collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [8d 9d Ks Qh 2d]
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 2: George RichardM showed [5s 5d] and won ($0.11) with a pair of Fives
+Seat 3: Gilberto2332 mucked [4s As]
+Seat 4: samadura (button) folded before Flop (didn't bet)
+Seat 5: Dorex2007 (small blind) folded before Flop
+Seat 6: roma19765 (big blind) folded before Flop
+Seat 7: Ihor363 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407232387:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:39:22 PT [2022/07/17 2:39:22 ET]
+Table 'Bellerophon III' 9-max Seat #5 is the button
+Seat 1: harroule ($2.07 in chips) 
+Seat 2: George RichardM ($1.84 in chips) 
+Seat 3: Gilberto2332 ($1.18 in chips) 
+Seat 4: samadura ($1.69 in chips) 
+Seat 5: Dorex2007 ($2.13 in chips) 
+Seat 6: roma19765 ($1.50 in chips) 
+Seat 7: Ihor363 ($3.60 in chips) 
+roma19765: posts small blind $0.01
+Ihor363: posts big blind $0.02
+andrey_kasav: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 9h]
+harroule: folds 
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+roma19765: calls $0.01
+Ihor363: raises $0.04 to $0.06
+roma19765: folds 
+Uncalled bet ($0.04) returned to Ihor363
+Ihor363 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 6: roma19765 (small blind) folded before Flop
+Seat 7: Ihor363 (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #237407235144:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:39:46 PT [2022/07/17 2:39:46 ET]
+Table 'Bellerophon III' 9-max Seat #6 is the button
+Seat 1: harroule ($2.07 in chips) 
+Seat 2: George RichardM ($1.84 in chips) 
+Seat 3: Gilberto2332 ($1.18 in chips) 
+Seat 4: samadura ($1.69 in chips) 
+Seat 5: Dorex2007 ($2.13 in chips) 
+Seat 6: roma19765 ($1.48 in chips) 
+Seat 7: Ihor363 ($3.62 in chips) 
+Seat 9: andrey_kasav ($1.47 in chips) 
+Ihor363: posts small blind $0.01
+andrey_kasav: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 6h]
+harroule: folds 
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+roma19765: folds 
+Ihor363: raises $0.02 to $0.04
+andrey_kasav has timed out
+andrey_kasav: folds 
+Uncalled bet ($0.02) returned to Ihor363
+Ihor363 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 (button) folded before Flop (didn't bet)
+Seat 7: Ihor363 (small blind) collected ($0.04)
+Seat 9: andrey_kasav (big blind) folded before Flop
+
+
+
+PokerStars Hand #237407239942:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:40:26 PT [2022/07/17 2:40:26 ET]
+Table 'Bellerophon III' 9-max Seat #7 is the button
+Seat 1: harroule ($2.07 in chips) 
+Seat 2: George RichardM ($1.84 in chips) 
+Seat 3: Gilberto2332 ($1.18 in chips) 
+Seat 4: samadura ($1.69 in chips) 
+Seat 5: Dorex2007 ($2.13 in chips) 
+Seat 6: roma19765 ($1.48 in chips) 
+Seat 7: Ihor363 ($3.64 in chips) 
+harroule: posts small blind $0.01
+George RichardM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 4c]
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+roma19765: folds 
+Ihor363: raises $0.02 to $0.04
+harroule: folds 
+George RichardM: folds 
+Uncalled bet ($0.02) returned to Ihor363
+Ihor363 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: harroule (small blind) folded before Flop
+Seat 2: George RichardM (big blind) folded before Flop
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 (button) collected ($0.05)
+
+
+
+PokerStars Hand #237407241897:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:40:42 PT [2022/07/17 2:40:42 ET]
+Table 'Bellerophon III' 9-max Seat #1 is the button
+Seat 1: harroule ($2.06 in chips) 
+Seat 2: George RichardM ($1.82 in chips) 
+Seat 3: Gilberto2332 ($1.18 in chips) 
+Seat 4: samadura ($1.69 in chips) 
+Seat 5: Dorex2007 ($2.13 in chips) 
+Seat 6: roma19765 ($1.48 in chips) 
+Seat 7: Ihor363 ($3.67 in chips) 
+George RichardM: posts small blind $0.01
+Gilberto2332: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td As]
+samadura: folds 
+Dorex2007: raises $0.02 to $0.04
+roma19765: folds 
+Ihor363: folds 
+harroule: folds 
+George RichardM: folds 
+Gilberto2332: folds 
+Uncalled bet ($0.02) returned to Dorex2007
+Dorex2007 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: harroule (button) folded before Flop (didn't bet)
+Seat 2: George RichardM (small blind) folded before Flop
+Seat 3: Gilberto2332 (big blind) folded before Flop
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 collected ($0.05)
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407243168:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:40:53 PT [2022/07/17 2:40:53 ET]
+Table 'Bellerophon III' 9-max Seat #2 is the button
+Seat 1: harroule ($2.06 in chips) 
+Seat 2: George RichardM ($1.81 in chips) 
+Seat 3: Gilberto2332 ($1.16 in chips) 
+Seat 4: samadura ($1.69 in chips) 
+Seat 5: Dorex2007 ($2.16 in chips) 
+Seat 6: roma19765 ($1.48 in chips) 
+Seat 7: Ihor363 ($3.67 in chips) 
+Gilberto2332: posts small blind $0.01
+samadura: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 6c]
+Dorex2007: folds 
+roma19765: folds 
+Ihor363: raises $0.02 to $0.04
+harroule: folds 
+George RichardM: calls $0.04
+Gilberto2332: folds 
+samadura: folds 
+*** FLOP *** [Ac Tc 6h]
+Ihor363: checks 
+George RichardM: checks 
+*** TURN *** [Ac Tc 6h] [Ad]
+Ihor363: checks 
+George RichardM: checks 
+*** RIVER *** [Ac Tc 6h Ad] [5d]
+Ihor363: bets $0.11
+George RichardM: calls $0.11
+*** SHOW DOWN ***
+Ihor363: shows [5h 5c] (a full house, Fives full of Aces)
+George RichardM: mucks hand 
+Ihor363 collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Ac Tc 6h Ad 5d]
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 2: George RichardM (button) mucked [4h 4c]
+Seat 3: Gilberto2332 (small blind) folded before Flop
+Seat 4: samadura (big blind) folded before Flop
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 showed [5h 5c] and won ($0.32) with a full house, Fives full of Aces
+
+
+
+PokerStars Hand #237407248543:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:41:38 PT [2022/07/17 2:41:38 ET]
+Table 'Bellerophon III' 9-max Seat #3 is the button
+Seat 1: harroule ($2.06 in chips) 
+Seat 2: George RichardM ($1.66 in chips) 
+Seat 3: Gilberto2332 ($1.15 in chips) 
+Seat 4: samadura ($1.67 in chips) 
+Seat 5: Dorex2007 ($2.16 in chips) 
+Seat 6: roma19765 ($1.48 in chips) 
+Seat 7: Ihor363 ($3.84 in chips) 
+samadura: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+tomashovka55: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Jh]
+roma19765: folds 
+Ihor363: folds 
+harroule: folds 
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [3s Ks 8d]
+samadura: checks 
+Dorex2007: checks 
+*** TURN *** [3s Ks 8d] [4c]
+samadura: checks 
+Dorex2007: checks 
+*** RIVER *** [3s Ks 8d 4c] [7d]
+samadura: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+samadura: shows [9d Td] (high card King)
+Dorex2007: shows [6h Jh] (high card King - Jack kicker)
+Dorex2007 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [3s Ks 8d 4c 7d]
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 (button) folded before Flop (didn't bet)
+Seat 4: samadura (small blind) showed [9d Td] and lost with high card King
+Seat 5: Dorex2007 (big blind) showed [6h Jh] and won ($0.04) with high card King
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407252418:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:42:11 PT [2022/07/17 2:42:11 ET]
+Table 'Bellerophon III' 9-max Seat #4 is the button
+Seat 1: harroule ($2.06 in chips) 
+Seat 2: George RichardM ($1.66 in chips) 
+Seat 3: Gilberto2332 ($1.15 in chips) 
+Seat 4: samadura ($1.65 in chips) 
+Seat 5: Dorex2007 ($2.18 in chips) 
+Seat 6: roma19765 ($1.48 in chips) 
+Seat 7: Ihor363 ($3.84 in chips) 
+Dorex2007: posts small blind $0.01
+roma19765: posts big blind $0.02
+tomashovka55: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 3s]
+Ihor363: folds 
+harroule: folds 
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to roma19765
+roma19765 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura (button) folded before Flop (didn't bet)
+Seat 5: Dorex2007 (small blind) folded before Flop
+Seat 6: roma19765 (big blind) collected ($0.02)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407253970:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:42:24 PT [2022/07/17 2:42:24 ET]
+Table 'Bellerophon III' 9-max Seat #5 is the button
+Seat 1: harroule ($2.06 in chips) 
+Seat 2: George RichardM ($1.66 in chips) 
+Seat 3: Gilberto2332 ($1.15 in chips) 
+Seat 4: samadura ($1.65 in chips) 
+Seat 5: Dorex2007 ($2.17 in chips) 
+Seat 6: roma19765 ($1.49 in chips) 
+Seat 7: Ihor363 ($3.84 in chips) 
+roma19765: posts small blind $0.01
+Ihor363: posts big blind $0.02
+tomashovka55: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 2c]
+harroule: folds 
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: raises $0.04 to $0.06
+Dorex2007: folds 
+roma19765: folds 
+Ihor363: calls $0.04
+*** FLOP *** [Qh Th 4h]
+Ihor363: bets $0.13
+samadura: calls $0.13
+*** TURN *** [Qh Th 4h] [4s]
+Ihor363: bets $0.19
+samadura: calls $0.19
+*** RIVER *** [Qh Th 4h 4s] [6d]
+Ihor363: bets $0.37
+samadura: folds 
+Uncalled bet ($0.37) returned to Ihor363
+Ihor363 collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [Qh Th 4h 4s 6d]
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded on the River
+Seat 5: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 6: roma19765 (small blind) folded before Flop
+Seat 7: Ihor363 (big blind) collected ($0.74)
+
+
+
+PokerStars Hand #237407259371:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:43:09 PT [2022/07/17 2:43:09 ET]
+Table 'Bellerophon III' 9-max Seat #6 is the button
+Seat 1: harroule ($2.06 in chips) 
+Seat 2: George RichardM ($1.66 in chips) 
+Seat 3: Gilberto2332 ($1.15 in chips) 
+Seat 4: samadura ($1.27 in chips) 
+Seat 5: Dorex2007 ($2.17 in chips) 
+Seat 6: roma19765 ($1.48 in chips) 
+Seat 7: Ihor363 ($4.20 in chips) 
+Seat 8: tomashovka55 ($2.37 in chips) 
+Ihor363: posts small blind $0.01
+tomashovka55: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Td]
+harroule: folds 
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+roma19765: folds 
+Ihor363: folds 
+Uncalled bet ($0.01) returned to tomashovka55
+tomashovka55 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 (button) folded before Flop (didn't bet)
+Seat 7: Ihor363 (small blind) folded before Flop
+Seat 8: tomashovka55 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #237407260882:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:43:23 PT [2022/07/17 2:43:23 ET]
+Table 'Bellerophon III' 9-max Seat #7 is the button
+Seat 1: harroule ($2.06 in chips) 
+Seat 2: George RichardM ($1.66 in chips) 
+Seat 3: Gilberto2332 ($1.15 in chips) 
+Seat 4: samadura ($1.27 in chips) 
+Seat 5: Dorex2007 ($2.17 in chips) 
+Seat 6: roma19765 ($1.48 in chips) 
+Seat 7: Ihor363 ($4.19 in chips) 
+Seat 8: tomashovka55 ($2.38 in chips) 
+tomashovka55: posts small blind $0.01
+harroule: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Qh]
+George RichardM: folds 
+Gilberto2332: raises $0.02 to $0.04
+samadura: folds 
+Dorex2007: folds 
+roma19765: folds 
+Ihor363: folds 
+tomashovka55: folds 
+harroule: calls $0.02
+*** FLOP *** [8h 7s Ad]
+harroule: checks 
+Gilberto2332: checks 
+*** TURN *** [8h 7s Ad] [7c]
+harroule: checks 
+Gilberto2332: checks 
+*** RIVER *** [8h 7s Ad 7c] [4s]
+harroule: checks 
+Gilberto2332: checks 
+*** SHOW DOWN ***
+harroule: shows [Ks 9c] (a pair of Sevens)
+Gilberto2332: mucks hand 
+harroule collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [8h 7s Ad 7c 4s]
+Seat 1: harroule (big blind) showed [Ks 9c] and won ($0.09) with a pair of Sevens
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 mucked [Qs Jd]
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 (button) folded before Flop (didn't bet)
+Seat 8: tomashovka55 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237407264978:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:43:57 PT [2022/07/17 2:43:57 ET]
+Table 'Bellerophon III' 9-max Seat #8 is the button
+Seat 1: harroule ($2.11 in chips) 
+Seat 2: George RichardM ($1.66 in chips) 
+Seat 3: Gilberto2332 ($1.11 in chips) 
+Seat 4: samadura ($1.27 in chips) 
+Seat 5: Dorex2007 ($2.17 in chips) 
+Seat 6: roma19765 ($1.48 in chips) 
+Seat 7: Ihor363 ($4.19 in chips) 
+Seat 8: tomashovka55 ($2.37 in chips) 
+harroule: posts small blind $0.01
+George RichardM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 9c]
+Gilberto2332: raises $0.02 to $0.04
+samadura: folds 
+Dorex2007: calls $0.04
+roma19765: calls $0.04
+Ihor363: folds 
+tomashovka55: folds 
+harroule: folds 
+George RichardM: folds 
+*** FLOP *** [5d Th 7c]
+Gilberto2332: checks 
+Dorex2007: checks 
+roma19765: checks 
+*** TURN *** [5d Th 7c] [Ac]
+Gilberto2332: bets $0.14
+Dorex2007: folds 
+roma19765: folds 
+Uncalled bet ($0.14) returned to Gilberto2332
+Gilberto2332 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5d Th 7c Ac]
+Seat 1: harroule (small blind) folded before Flop
+Seat 2: George RichardM (big blind) folded before Flop
+Seat 3: Gilberto2332 collected ($0.14)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded on the Turn
+Seat 6: roma19765 folded on the Turn
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407270184:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:44:41 PT [2022/07/17 2:44:41 ET]
+Table 'Bellerophon III' 9-max Seat #1 is the button
+Seat 1: harroule ($2.10 in chips) 
+Seat 2: George RichardM ($1.64 in chips) 
+Seat 3: Gilberto2332 ($1.21 in chips) 
+Seat 4: samadura ($1.27 in chips) 
+Seat 5: Dorex2007 ($2.13 in chips) 
+Seat 6: roma19765 ($1.44 in chips) 
+Seat 7: Ihor363 ($4.19 in chips) 
+Seat 8: tomashovka55 ($2.37 in chips) 
+George RichardM: posts small blind $0.01
+Gilberto2332: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 2h]
+samadura: folds 
+Dorex2007: folds 
+roma19765: raises $0.04 to $0.06
+Ihor363: raises $0.04 to $0.10
+tomashovka55: folds 
+harroule: folds 
+George RichardM: calls $0.09
+Gilberto2332: folds 
+roma19765: calls $0.04
+*** FLOP *** [6h 8h 7c]
+George RichardM: checks 
+roma19765: bets $0.06
+Ihor363: raises $0.22 to $0.28
+George RichardM: folds 
+roma19765: raises $1.06 to $1.34 and is all-in
+Ihor363: calls $1.06
+*** TURN *** [6h 8h 7c] [2s]
+*** RIVER *** [6h 8h 7c 2s] [5d]
+*** SHOW DOWN ***
+roma19765: shows [7d 7s] (three of a kind, Sevens)
+Ihor363: shows [Kh Kd] (a pair of Kings)
+roma19765 collected $2.90 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.10 
+Board [6h 8h 7c 2s 5d]
+Seat 1: harroule (button) folded before Flop (didn't bet)
+Seat 2: George RichardM (small blind) folded on the Flop
+Seat 3: Gilberto2332 (big blind) folded before Flop
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 showed [7d 7s] and won ($2.90) with three of a kind, Sevens
+Seat 7: Ihor363 showed [Kh Kd] and lost with a pair of Kings
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407280463:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:46:08 PT [2022/07/17 2:46:08 ET]
+Table 'Bellerophon III' 9-max Seat #2 is the button
+Seat 1: harroule ($2.10 in chips) 
+Seat 2: George RichardM ($1.54 in chips) 
+Seat 3: Gilberto2332 ($1.19 in chips) 
+Seat 4: samadura ($1.27 in chips) 
+Seat 5: Dorex2007 ($2.13 in chips) 
+Seat 6: roma19765 ($2.90 in chips) 
+Seat 7: Ihor363 ($2.75 in chips) 
+Seat 8: tomashovka55 ($2.37 in chips) 
+Gilberto2332: posts small blind $0.01
+samadura: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 9h]
+Dorex2007: folds 
+roma19765: folds 
+Ihor363: raises $0.02 to $0.04
+tomashovka55: folds 
+harroule: raises $0.16 to $0.20
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: folds 
+Ihor363: calls $0.16
+*** FLOP *** [8c 8d Kh]
+Ihor363: checks 
+harroule: bets $0.20
+Ihor363: folds 
+Uncalled bet ($0.20) returned to harroule
+harroule collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [8c 8d Kh]
+Seat 1: harroule collected ($0.41)
+Seat 2: George RichardM (button) folded before Flop (didn't bet)
+Seat 3: Gilberto2332 (small blind) folded before Flop
+Seat 4: samadura (big blind) folded before Flop
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 folded on the Flop
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407285173:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:46:47 PT [2022/07/17 2:46:47 ET]
+Table 'Bellerophon III' 9-max Seat #3 is the button
+Seat 1: harroule ($2.31 in chips) 
+Seat 2: George RichardM ($1.54 in chips) 
+Seat 3: Gilberto2332 ($1.18 in chips) 
+Seat 4: samadura ($1.25 in chips) 
+Seat 5: Dorex2007 ($2.13 in chips) 
+Seat 6: roma19765 ($2.90 in chips) 
+Seat 7: Ihor363 ($2.55 in chips) 
+Seat 8: tomashovka55 ($2.37 in chips) 
+samadura: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Jh]
+roma19765: raises $0.04 to $0.06
+Ihor363: folds 
+tomashovka55: folds 
+harroule: calls $0.06
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+*** FLOP *** [7h 8c Qh]
+roma19765: checks 
+harroule: checks 
+*** TURN *** [7h 8c Qh] [Ah]
+roma19765: bets $0.07
+harroule: calls $0.07
+*** RIVER *** [7h 8c Qh Ah] [2d]
+roma19765: checks 
+harroule: checks 
+*** SHOW DOWN ***
+roma19765: shows [Jc Ac] (a pair of Aces)
+harroule: mucks hand 
+roma19765 collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [7h 8c Qh Ah 2d]
+Seat 1: harroule mucked [Kc Js]
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 (button) folded before Flop (didn't bet)
+Seat 4: samadura (small blind) folded before Flop
+Seat 5: Dorex2007 (big blind) folded before Flop
+Seat 6: roma19765 showed [Jc Ac] and won ($0.28) with a pair of Aces
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407292272:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:47:47 PT [2022/07/17 2:47:47 ET]
+Table 'Bellerophon III' 9-max Seat #4 is the button
+Seat 1: harroule ($2.18 in chips) 
+Seat 2: George RichardM ($1.54 in chips) 
+Seat 3: Gilberto2332 ($1.18 in chips) 
+Seat 4: samadura ($1.24 in chips) 
+Seat 5: Dorex2007 ($2.11 in chips) 
+Seat 6: roma19765 ($3.05 in chips) 
+Seat 7: Ihor363 ($2.55 in chips) 
+Seat 8: tomashovka55 ($2.37 in chips) 
+Dorex2007: posts small blind $0.01
+roma19765: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 9c]
+Ihor363: raises $0.02 to $0.04
+tomashovka55: folds 
+harroule: folds 
+George RichardM: calls $0.04
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007 has timed out
+Dorex2007: folds 
+roma19765: calls $0.02
+*** FLOP *** [Qc 3c 2c]
+roma19765: checks 
+Ihor363: checks 
+George RichardM: checks 
+*** TURN *** [Qc 3c 2c] [2d]
+roma19765: checks 
+Ihor363: checks 
+George RichardM: checks 
+*** RIVER *** [Qc 3c 2c 2d] [Js]
+roma19765: checks 
+Ihor363: checks 
+George RichardM: checks 
+*** SHOW DOWN ***
+roma19765: shows [3s 4c] (two pair, Threes and Deuces)
+Ihor363: mucks hand 
+George RichardM: mucks hand 
+roma19765 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qc 3c 2c 2d Js]
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 2: George RichardM mucked [8c 9h]
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura (button) folded before Flop (didn't bet)
+Seat 5: Dorex2007 (small blind) folded before Flop
+Seat 6: roma19765 (big blind) showed [3s 4c] and won ($0.13) with two pair, Threes and Deuces
+Seat 7: Ihor363 mucked [Kd Th]
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407304939:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:49:33 PT [2022/07/17 2:49:33 ET]
+Table 'Bellerophon III' 9-max Seat #5 is the button
+Seat 1: harroule ($2.18 in chips) 
+Seat 2: George RichardM ($1.50 in chips) 
+Seat 3: Gilberto2332 ($1.18 in chips) 
+Seat 4: samadura ($1.24 in chips) 
+Seat 5: Dorex2007 ($2.10 in chips) 
+Seat 6: roma19765 ($3.14 in chips) 
+Seat 7: Ihor363 ($2.51 in chips) 
+Seat 8: tomashovka55 ($2.37 in chips) 
+roma19765: posts small blind $0.01
+Ihor363: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 4s]
+tomashovka55: folds 
+harroule: folds 
+George RichardM: folds 
+Gilberto2332: calls $0.02
+samadura: folds 
+Dorex2007: folds 
+roma19765: calls $0.01
+Ihor363: checks 
+*** FLOP *** [3c Js 5h]
+roma19765: checks 
+Ihor363: checks 
+Gilberto2332: bets $0.03
+roma19765: folds 
+Ihor363: folds 
+Uncalled bet ($0.03) returned to Gilberto2332
+Gilberto2332 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [3c Js 5h]
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 collected ($0.06)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 6: roma19765 (small blind) folded on the Flop
+Seat 7: Ihor363 (big blind) folded on the Flop
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407310539:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:50:20 PT [2022/07/17 2:50:20 ET]
+Table 'Bellerophon III' 9-max Seat #6 is the button
+Seat 1: harroule ($2.18 in chips) 
+Seat 2: George RichardM ($1.50 in chips) 
+Seat 3: Gilberto2332 ($1.22 in chips) 
+Seat 4: samadura ($1.24 in chips) 
+Seat 5: Dorex2007 ($2.10 in chips) 
+Seat 6: roma19765 ($3.12 in chips) 
+Seat 7: Ihor363 ($2.49 in chips) 
+Seat 8: tomashovka55 ($2.37 in chips) 
+Ihor363: posts small blind $0.01
+tomashovka55: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 7h]
+harroule has timed out
+harroule: folds 
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007 has timed out
+Dorex2007: folds 
+roma19765: folds 
+Ihor363: folds 
+Uncalled bet ($0.01) returned to tomashovka55
+tomashovka55 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: harroule folded before Flop (didn't bet)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 (button) folded before Flop (didn't bet)
+Seat 7: Ihor363 (small blind) folded before Flop
+Seat 8: tomashovka55 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #237407319619:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:51:37 PT [2022/07/17 2:51:37 ET]
+Table 'Bellerophon III' 9-max Seat #8 is the button
+Seat 1: kolovosD ($2 in chips) 
+Seat 2: George RichardM ($2.91 in chips) 
+Seat 3: Gilberto2332 ($1.22 in chips) 
+Seat 4: samadura ($1.24 in chips) 
+Seat 5: Dorex2007 ($2.10 in chips) 
+Seat 6: roma19765 ($3.12 in chips) 
+Seat 7: Ihor363 ($2.48 in chips) 
+Seat 8: tomashovka55 ($2.44 in chips) 
+Seat 9: andrey_kasav ($1.43 in chips) 
+andrey_kasav: posts small blind $0.01
+kolovosD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Qc]
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007 has timed out
+Dorex2007: folds 
+roma19765: folds 
+Ihor363: folds 
+tomashovka55: folds 
+andrey_kasav: folds 
+Uncalled bet ($0.01) returned to kolovosD
+kolovosD collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: kolovosD (big blind) collected ($0.02)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 (button) folded before Flop (didn't bet)
+Seat 9: andrey_kasav (small blind) folded before Flop
+
+
+
+PokerStars Hand #237407326457:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:52:35 PT [2022/07/17 2:52:35 ET]
+Table 'Bellerophon III' 9-max Seat #1 is the button
+Seat 1: kolovosD ($2 in chips) 
+Seat 2: George RichardM ($2.89 in chips) 
+Seat 3: Gilberto2332 ($1.22 in chips) 
+Seat 4: samadura ($1.24 in chips) 
+Seat 5: Dorex2007 ($2.10 in chips) 
+Seat 6: roma19765 ($3.12 in chips) 
+Seat 7: Ihor363 ($2.48 in chips) 
+Seat 8: tomashovka55 ($2.44 in chips) 
+Seat 9: andrey_kasav ($1.45 in chips) 
+George RichardM: posts small blind $0.01
+Gilberto2332: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 6c]
+samadura: raises $0.02 to $0.04
+Dorex2007: folds 
+roma19765: folds 
+Ihor363 has timed out
+Ihor363: folds 
+tomashovka55: folds 
+andrey_kasav: folds 
+kolovosD: calls $0.04
+George RichardM: calls $0.03
+Gilberto2332: folds 
+*** FLOP *** [3c Ac Jc]
+George RichardM: checks 
+samadura: checks 
+kolovosD: checks 
+*** TURN *** [3c Ac Jc] [3s]
+George RichardM: bets $0.05
+samadura: folds 
+kolovosD: folds 
+Uncalled bet ($0.05) returned to George RichardM
+George RichardM collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [3c Ac Jc 3s]
+Seat 1: kolovosD (button) folded on the Turn
+Seat 2: George RichardM (small blind) collected ($0.14)
+Seat 3: Gilberto2332 (big blind) folded before Flop
+Seat 4: samadura folded on the Turn
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+Seat 9: andrey_kasav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407334969:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:53:47 PT [2022/07/17 2:53:47 ET]
+Table 'Bellerophon III' 9-max Seat #2 is the button
+Seat 1: kolovosD ($1.96 in chips) 
+Seat 2: George RichardM ($2.99 in chips) 
+Seat 3: Gilberto2332 ($1.20 in chips) 
+Seat 4: samadura ($1.20 in chips) 
+Seat 5: Dorex2007 ($2.10 in chips) 
+Seat 6: roma19765 ($3.12 in chips) 
+Seat 7: Ihor363 ($2.48 in chips) 
+Seat 8: tomashovka55 ($2.44 in chips) 
+Seat 9: andrey_kasav ($1.45 in chips) 
+Gilberto2332: posts small blind $0.01
+samadura: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Qd]
+Dorex2007 has timed out
+Dorex2007: folds 
+roma19765: raises $0.04 to $0.06
+Ihor363: folds 
+tomashovka55: folds 
+andrey_kasav: folds 
+kolovosD: calls $0.06
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: folds 
+*** FLOP *** [3h 9d 4c]
+roma19765: checks 
+kolovosD: bets $0.10
+roma19765: folds 
+Uncalled bet ($0.10) returned to kolovosD
+kolovosD collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3h 9d 4c]
+Seat 1: kolovosD collected ($0.14)
+Seat 2: George RichardM (button) folded before Flop (didn't bet)
+Seat 3: Gilberto2332 (small blind) folded before Flop
+Seat 4: samadura (big blind) folded before Flop
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 folded on the Flop
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+Seat 9: andrey_kasav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407340059:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:54:30 PT [2022/07/17 2:54:30 ET]
+Table 'Bellerophon III' 9-max Seat #3 is the button
+Seat 1: kolovosD ($2.04 in chips) 
+Seat 2: George RichardM ($2.99 in chips) 
+Seat 3: Gilberto2332 ($1.19 in chips) 
+Seat 4: samadura ($1.18 in chips) 
+Seat 5: Dorex2007 ($2.10 in chips) 
+Seat 6: roma19765 ($3.06 in chips) 
+Seat 7: Ihor363 ($2.48 in chips) 
+Seat 8: tomashovka55 ($2.44 in chips) 
+Seat 9: andrey_kasav ($1.45 in chips) 
+samadura: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Ad]
+roma19765: folds 
+Ihor363: raises $0.02 to $0.04
+tomashovka55: folds 
+andrey_kasav: folds 
+kolovosD: folds 
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+Uncalled bet ($0.02) returned to Ihor363
+Ihor363 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: kolovosD folded before Flop (didn't bet)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 (button) folded before Flop (didn't bet)
+Seat 4: samadura (small blind) folded before Flop
+Seat 5: Dorex2007 (big blind) folded before Flop
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 collected ($0.05)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+Seat 9: andrey_kasav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407343508:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:54:59 PT [2022/07/17 2:54:59 ET]
+Table 'Bellerophon III' 9-max Seat #4 is the button
+Seat 1: kolovosD ($2.04 in chips) 
+Seat 2: George RichardM ($2.99 in chips) 
+Seat 3: Gilberto2332 ($1.19 in chips) 
+Seat 4: samadura ($1.17 in chips) 
+Seat 5: Dorex2007 ($2.08 in chips) 
+Seat 6: roma19765 ($3.06 in chips) 
+Seat 7: Ihor363 ($2.51 in chips) 
+Seat 8: tomashovka55 ($2.44 in chips) 
+Seat 9: andrey_kasav ($1.45 in chips) 
+Dorex2007: posts small blind $0.01
+roma19765: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c Kh]
+Ihor363: folds 
+tomashovka55: folds 
+andrey_kasav: raises $0.05 to $0.07
+kolovosD: folds 
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+roma19765: folds 
+Uncalled bet ($0.05) returned to andrey_kasav
+andrey_kasav collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: kolovosD folded before Flop (didn't bet)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura (button) folded before Flop (didn't bet)
+Seat 5: Dorex2007 (small blind) folded before Flop
+Seat 6: roma19765 (big blind) folded before Flop
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+Seat 9: andrey_kasav collected ($0.05)
+
+
+
+PokerStars Hand #237407346161:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:55:22 PT [2022/07/17 2:55:22 ET]
+Table 'Bellerophon III' 9-max Seat #5 is the button
+Seat 1: kolovosD ($2.04 in chips) 
+Seat 2: George RichardM ($2.99 in chips) 
+Seat 3: Gilberto2332 ($1.19 in chips) 
+Seat 4: samadura ($1.17 in chips) 
+Seat 5: Dorex2007 ($2.07 in chips) 
+Seat 6: roma19765 ($3.04 in chips) 
+Seat 7: Ihor363 ($2.51 in chips) 
+Seat 8: tomashovka55 ($2.44 in chips) 
+Seat 9: andrey_kasav ($1.48 in chips) 
+roma19765: posts small blind $0.01
+Ihor363: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Qh]
+tomashovka55: folds 
+andrey_kasav: folds 
+kolovosD: raises $0.04 to $0.06
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+roma19765: raises $0.12 to $0.18
+Ihor363: folds 
+kolovosD: calls $0.12
+*** FLOP *** [3h 7d 4s]
+roma19765: bets $0.25
+kolovosD: folds 
+Uncalled bet ($0.25) returned to roma19765
+roma19765 collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [3h 7d 4s]
+Seat 1: kolovosD folded on the Flop
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 6: roma19765 (small blind) collected ($0.37)
+Seat 7: Ihor363 (big blind) folded before Flop
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+Seat 9: andrey_kasav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407355303:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:56:24 PT [2022/07/17 2:56:24 ET]
+Table 'Bellerophon III' 9-max Seat #6 is the button
+Seat 1: kolovosD ($1.86 in chips) 
+Seat 2: George RichardM ($2.99 in chips) 
+Seat 3: Gilberto2332 ($1.19 in chips) 
+Seat 4: samadura ($1.17 in chips) 
+Seat 5: Dorex2007 ($2.07 in chips) 
+Seat 6: roma19765 ($3.23 in chips) 
+Seat 7: Ihor363 ($2.49 in chips) 
+Seat 8: tomashovka55 ($2.44 in chips) 
+Seat 9: andrey_kasav ($1.48 in chips) 
+Ihor363: posts small blind $0.01
+tomashovka55: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 7d]
+andrey_kasav: folds 
+kolovosD: folds 
+George RichardM: raises $0.02 to $0.04
+Gilberto2332: calls $0.04
+samadura: folds 
+Dorex2007: folds 
+roma19765: raises $0.12 to $0.16
+Ihor363: folds 
+tomashovka55: folds 
+George RichardM: calls $0.12
+Gilberto2332: calls $0.12
+*** FLOP *** [7c 8s Qs]
+George RichardM: bets $0.50
+Gilberto2332: folds 
+roma19765: folds 
+Uncalled bet ($0.50) returned to George RichardM
+George RichardM collected $0.49 from pot
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [7c 8s Qs]
+Seat 1: kolovosD folded before Flop (didn't bet)
+Seat 2: George RichardM collected ($0.49)
+Seat 3: Gilberto2332 folded on the Flop
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 (button) folded on the Flop
+Seat 7: Ihor363 (small blind) folded before Flop
+Seat 8: tomashovka55 (big blind) folded before Flop
+Seat 9: andrey_kasav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407362045:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:57:28 PT [2022/07/17 2:57:28 ET]
+Table 'Bellerophon III' 9-max Seat #7 is the button
+Seat 1: kolovosD ($1.86 in chips) 
+Seat 2: George RichardM ($3.32 in chips) 
+Seat 3: Gilberto2332 ($1.03 in chips) 
+Seat 4: samadura ($1.17 in chips) 
+Seat 5: Dorex2007 ($2.07 in chips) 
+Seat 6: roma19765 ($3.07 in chips) 
+Seat 7: Ihor363 ($2.48 in chips) 
+Seat 8: tomashovka55 ($2.42 in chips) 
+Seat 9: andrey_kasav ($1.48 in chips) 
+tomashovka55: posts small blind $0.01
+andrey_kasav: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 3d]
+kolovosD has timed out
+kolovosD: folds 
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: raises $0.02 to $0.04
+Dorex2007: folds 
+roma19765: folds 
+Ihor363: folds 
+tomashovka55: calls $0.03
+andrey_kasav: folds 
+*** FLOP *** [8d Ts Jh]
+tomashovka55: checks 
+samadura: bets $0.06
+tomashovka55: raises $0.35 to $0.41
+samadura: folds 
+Uncalled bet ($0.35) returned to tomashovka55
+tomashovka55 collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [8d Ts Jh]
+Seat 1: kolovosD folded before Flop (didn't bet)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded on the Flop
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 (button) folded before Flop (didn't bet)
+Seat 8: tomashovka55 (small blind) collected ($0.21)
+Seat 9: andrey_kasav (big blind) folded before Flop
+
+
+
+PokerStars Hand #237407367496:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:58:21 PT [2022/07/17 2:58:21 ET]
+Table 'Bellerophon III' 9-max Seat #8 is the button
+Seat 1: kolovosD ($1.86 in chips) 
+Seat 2: George RichardM ($3.32 in chips) 
+Seat 3: Gilberto2332 ($1.03 in chips) 
+Seat 4: samadura ($1.07 in chips) 
+Seat 5: Dorex2007 ($2.07 in chips) 
+Seat 6: roma19765 ($3.07 in chips) 
+Seat 7: Ihor363 ($2.48 in chips) 
+Seat 8: tomashovka55 ($2.53 in chips) 
+Seat 9: andrey_kasav ($1.46 in chips) 
+andrey_kasav: posts small blind $0.01
+kolovosD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 8d]
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+roma19765: raises $0.04 to $0.06
+Ihor363: folds 
+tomashovka55: folds 
+andrey_kasav: folds 
+kolovosD: calls $0.04
+*** FLOP *** [4c 4s 9h]
+kolovosD: checks 
+roma19765: bets $0.09
+kolovosD: calls $0.09
+*** TURN *** [4c 4s 9h] [2d]
+kolovosD: bets $0.30
+roma19765: folds 
+Uncalled bet ($0.30) returned to kolovosD
+kolovosD collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [4c 4s 9h 2d]
+Seat 1: kolovosD (big blind) collected ($0.30)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 folded on the Turn
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 (button) folded before Flop (didn't bet)
+Seat 9: andrey_kasav (small blind) folded before Flop
+
+
+
+PokerStars Hand #237407372578:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 23:59:10 PT [2022/07/17 2:59:10 ET]
+Table 'Bellerophon III' 9-max Seat #9 is the button
+Seat 1: kolovosD ($2.01 in chips) 
+Seat 2: George RichardM ($3.32 in chips) 
+Seat 3: Gilberto2332 ($1.03 in chips) 
+Seat 4: samadura ($1.07 in chips) 
+Seat 5: Dorex2007 ($2.07 in chips) 
+Seat 6: roma19765 ($2.92 in chips) 
+Seat 7: Ihor363 ($2.48 in chips) 
+Seat 8: tomashovka55 ($2.53 in chips) 
+Seat 9: andrey_kasav ($1.45 in chips) 
+kolovosD: posts small blind $0.01
+George RichardM: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Ks]
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+roma19765: folds 
+Ihor363: folds 
+tomashovka55: folds 
+andrey_kasav: raises $0.04 to $0.06
+kolovosD: calls $0.05
+George RichardM: folds 
+*** FLOP *** [Kd 4s Kh]
+kolovosD: checks 
+andrey_kasav: bets $0.09
+kolovosD: calls $0.09
+*** TURN *** [Kd 4s Kh] [Qd]
+kolovosD: checks 
+andrey_kasav: checks 
+*** RIVER *** [Kd 4s Kh Qd] [Jd]
+kolovosD: bets $0.34
+andrey_kasav: folds 
+Uncalled bet ($0.34) returned to kolovosD
+kolovosD collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Kd 4s Kh Qd Jd]
+Seat 1: kolovosD (small blind) collected ($0.31)
+Seat 2: George RichardM (big blind) folded before Flop
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+Seat 9: andrey_kasav (button) folded on the River
+
+
+
+PokerStars Hand #237407378648:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/17 0:00:08 PT [2022/07/17 3:00:08 ET]
+Table 'Bellerophon III' 9-max Seat #1 is the button
+Seat 1: kolovosD ($2.17 in chips) 
+Seat 2: George RichardM ($3.30 in chips) 
+Seat 3: Gilberto2332 ($1.03 in chips) 
+Seat 4: samadura ($1.07 in chips) 
+Seat 5: Dorex2007 ($2.07 in chips) 
+Seat 6: roma19765 ($2.92 in chips) 
+Seat 7: Ihor363 ($2.48 in chips) 
+Seat 8: tomashovka55 ($2.53 in chips) 
+Seat 9: andrey_kasav ($1.30 in chips) 
+George RichardM: posts small blind $0.01
+Gilberto2332: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 2h]
+samadura: raises $0.02 to $0.04
+Dorex2007: folds 
+roma19765: folds 
+Ihor363: calls $0.04
+tomashovka55: calls $0.04
+andrey_kasav: folds 
+kolovosD: folds 
+George RichardM: folds 
+Gilberto2332: folds 
+*** FLOP *** [Th 3c As]
+samadura: bets $0.06
+Ihor363: calls $0.06
+tomashovka55: folds 
+*** TURN *** [Th 3c As] [6h]
+samadura: bets $0.14
+Ihor363: folds 
+Uncalled bet ($0.14) returned to samadura
+samadura collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Th 3c As 6h]
+Seat 1: kolovosD (button) folded before Flop (didn't bet)
+Seat 2: George RichardM (small blind) folded before Flop
+Seat 3: Gilberto2332 (big blind) folded before Flop
+Seat 4: samadura collected ($0.26)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 folded on the Turn
+Seat 8: tomashovka55 folded on the Flop
+Seat 9: andrey_kasav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407382858:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/17 0:00:47 PT [2022/07/17 3:00:47 ET]
+Table 'Bellerophon III' 9-max Seat #2 is the button
+Seat 1: kolovosD ($2.17 in chips) 
+Seat 2: George RichardM ($3.29 in chips) 
+Seat 3: Gilberto2332 ($1.01 in chips) 
+Seat 4: samadura ($1.23 in chips) 
+Seat 5: Dorex2007 ($2.07 in chips) 
+Seat 6: roma19765 ($2.92 in chips) 
+Seat 7: Ihor363 ($2.38 in chips) 
+Seat 8: tomashovka55 ($2.49 in chips) 
+Seat 9: andrey_kasav ($1.30 in chips) 
+Gilberto2332: posts small blind $0.01
+samadura: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 7s]
+Dorex2007: folds 
+roma19765: folds 
+Ihor363: folds 
+tomashovka55: folds 
+andrey_kasav: raises $0.04 to $0.06
+kolovosD: folds 
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: folds 
+Uncalled bet ($0.04) returned to andrey_kasav
+andrey_kasav collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: kolovosD folded before Flop (didn't bet)
+Seat 2: George RichardM (button) folded before Flop (didn't bet)
+Seat 3: Gilberto2332 (small blind) folded before Flop
+Seat 4: samadura (big blind) folded before Flop
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+Seat 9: andrey_kasav collected ($0.05)
+
+
+
+PokerStars Hand #237407385429:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/17 0:01:10 PT [2022/07/17 3:01:10 ET]
+Table 'Bellerophon III' 9-max Seat #3 is the button
+Seat 1: kolovosD ($2.17 in chips) 
+Seat 2: George RichardM ($3.29 in chips) 
+Seat 3: Gilberto2332 ($1 in chips) 
+Seat 4: samadura ($1.21 in chips) 
+Seat 5: Dorex2007 ($2.07 in chips) 
+Seat 6: roma19765 ($2.92 in chips) 
+Seat 7: Ihor363 ($2.38 in chips) 
+Seat 8: tomashovka55 ($2.49 in chips) 
+Seat 9: andrey_kasav ($1.33 in chips) 
+samadura: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 9s]
+roma19765: folds 
+Ihor363: folds 
+tomashovka55: folds 
+andrey_kasav: folds 
+kolovosD: folds 
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: calls $0.01
+Dorex2007: checks 
+*** FLOP *** [3d Kd Jh]
+samadura: checks 
+Dorex2007: checks 
+*** TURN *** [3d Kd Jh] [Qd]
+samadura: checks 
+Dorex2007: checks 
+*** RIVER *** [3d Kd Jh Qd] [Th]
+samadura: bets $0.06
+Dorex2007: calls $0.06
+*** SHOW DOWN ***
+samadura: shows [Ac 9h] (a straight, Ten to Ace)
+Dorex2007: mucks hand 
+samadura collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [3d Kd Jh Qd Th]
+Seat 1: kolovosD folded before Flop (didn't bet)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 (button) folded before Flop (didn't bet)
+Seat 4: samadura (small blind) showed [Ac 9h] and won ($0.15) with a straight, Ten to Ace
+Seat 5: Dorex2007 (big blind) mucked [4s 9s]
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+Seat 9: andrey_kasav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407391913:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/17 0:02:08 PT [2022/07/17 3:02:08 ET]
+Table 'Bellerophon III' 9-max Seat #4 is the button
+Seat 1: kolovosD ($2.17 in chips) 
+Seat 2: George RichardM ($3.29 in chips) 
+Seat 3: Gilberto2332 ($1 in chips) 
+Seat 4: samadura ($1.28 in chips) 
+Seat 5: Dorex2007 ($2 in chips) 
+Seat 6: roma19765 ($2.92 in chips) 
+Seat 7: Ihor363 ($2.38 in chips) 
+Seat 8: tomashovka55 ($2.49 in chips) 
+Seat 9: andrey_kasav ($1.33 in chips) 
+Dorex2007: posts small blind $0.01
+roma19765: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 2s]
+Ihor363 has timed out
+Ihor363: folds 
+tomashovka55: folds 
+andrey_kasav: folds 
+kolovosD: raises $0.04 to $0.06
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+roma19765: folds 
+Uncalled bet ($0.04) returned to kolovosD
+kolovosD collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: kolovosD collected ($0.05)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura (button) folded before Flop (didn't bet)
+Seat 5: Dorex2007 (small blind) folded before Flop
+Seat 6: roma19765 (big blind) folded before Flop
+Seat 7: Ihor363 folded before Flop (didn't bet)
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+Seat 9: andrey_kasav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407394581:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/17 0:02:31 PT [2022/07/17 3:02:31 ET]
+Table 'Bellerophon III' 9-max Seat #5 is the button
+Seat 1: kolovosD ($2.20 in chips) 
+Seat 2: George RichardM ($3.29 in chips) 
+Seat 3: Gilberto2332 ($1 in chips) 
+Seat 4: samadura ($1.28 in chips) 
+Seat 5: Dorex2007 ($2 in chips) 
+Seat 6: roma19765 ($2.90 in chips) 
+Seat 7: Ihor363 ($2.38 in chips) 
+Seat 8: tomashovka55 ($2.49 in chips) 
+Seat 9: andrey_kasav ($1.33 in chips) 
+roma19765: posts small blind $0.01
+Ihor363: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 4c]
+tomashovka55: folds 
+andrey_kasav: folds 
+tomashovka55 leaves the table
+kolovosD: folds 
+George RichardM: calls $0.02
+Gilberto2332: folds 
+samadura: folds 
+Dorex2007: folds 
+roma19765: raises $0.06 to $0.08
+Ihor363: folds 
+George RichardM: calls $0.06
+*** FLOP *** [7h 3h Th]
+roma19765: checks 
+KongJulebrus joins the table at seat #8 
+George RichardM: checks 
+*** TURN *** [7h 3h Th] [Jd]
+roma19765: checks 
+George RichardM: checks 
+*** RIVER *** [7h 3h Th Jd] [Js]
+roma19765: checks 
+George RichardM: checks 
+*** SHOW DOWN ***
+roma19765: shows [9d As] (a pair of Jacks)
+George RichardM: shows [5h 5d] (two pair, Jacks and Fives)
+George RichardM collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [7h 3h Th Jd Js]
+Seat 1: kolovosD folded before Flop (didn't bet)
+Seat 2: George RichardM showed [5h 5d] and won ($0.17) with two pair, Jacks and Fives
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 6: roma19765 (small blind) showed [9d As] and lost with a pair of Jacks
+Seat 7: Ihor363 (big blind) folded before Flop
+Seat 8: tomashovka55 folded before Flop (didn't bet)
+Seat 9: andrey_kasav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407401307:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/17 0:03:29 PT [2022/07/17 3:03:29 ET]
+Table 'Bellerophon III' 9-max Seat #6 is the button
+Seat 1: kolovosD ($2.20 in chips) 
+Seat 2: George RichardM ($3.38 in chips) 
+Seat 3: Gilberto2332 ($1 in chips) 
+Seat 4: samadura ($1.28 in chips) 
+Seat 5: Dorex2007 ($2 in chips) 
+Seat 6: roma19765 ($2.82 in chips) 
+Seat 7: Ihor363 ($2.36 in chips) 
+Seat 8: KongJulebrus ($2 in chips) 
+Seat 9: andrey_kasav ($1.33 in chips) 
+Ihor363: posts small blind $0.01
+KongJulebrus: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Qh]
+andrey_kasav: folds 
+kolovosD: folds 
+George RichardM: folds 
+Gilberto2332: folds 
+samadura: raises $0.02 to $0.04
+Dorex2007: raises $0.08 to $0.12
+roma19765: folds 
+Ihor363: folds 
+KongJulebrus: folds 
+samadura: folds 
+Uncalled bet ($0.08) returned to Dorex2007
+Dorex2007 collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: kolovosD folded before Flop (didn't bet)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 folded before Flop (didn't bet)
+Seat 4: samadura folded before Flop
+Seat 5: Dorex2007 collected ($0.11)
+Seat 6: roma19765 (button) folded before Flop (didn't bet)
+Seat 7: Ihor363 (small blind) folded before Flop
+Seat 8: KongJulebrus (big blind) folded before Flop
+Seat 9: andrey_kasav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237407404796:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/17 0:03:59 PT [2022/07/17 3:03:59 ET]
+Table 'Bellerophon III' 9-max Seat #7 is the button
+Seat 1: kolovosD ($2.20 in chips) 
+Seat 2: George RichardM ($3.38 in chips) 
+Seat 3: Gilberto2332 ($1 in chips) 
+Seat 4: samadura ($1.24 in chips) 
+Seat 5: Dorex2007 ($2.07 in chips) 
+Seat 6: roma19765 ($2.82 in chips) 
+Seat 7: Ihor363 ($2.35 in chips) 
+Seat 8: KongJulebrus ($1.98 in chips) 
+Seat 9: andrey_kasav ($1.33 in chips) 
+KongJulebrus: posts small blind $0.01
+andrey_kasav: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Ks]
+kolovosD has timed out
+kolovosD: folds 
+George RichardM: folds 
+Gilberto2332: raises $0.02 to $0.04
+samadura: folds 
+Dorex2007: calls $0.04
+roma19765: folds 
+Ihor363: folds 
+KongJulebrus: calls $0.03
+andrey_kasav: folds 
+*** FLOP *** [Jc Js 9d]
+KongJulebrus: checks 
+Gilberto2332: checks 
+Dorex2007: checks 
+*** TURN *** [Jc Js 9d] [4c]
+KongJulebrus: checks 
+Gilberto2332: bets $0.07
+Dorex2007: folds 
+KongJulebrus: folds 
+Uncalled bet ($0.07) returned to Gilberto2332
+Gilberto2332 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Jc Js 9d 4c]
+Seat 1: kolovosD folded before Flop (didn't bet)
+Seat 2: George RichardM folded before Flop (didn't bet)
+Seat 3: Gilberto2332 collected ($0.14)
+Seat 4: samadura folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded on the Turn
+Seat 6: roma19765 folded before Flop (didn't bet)
+Seat 7: Ihor363 (button) folded before Flop (didn't bet)
+Seat 8: KongJulebrus (small blind) folded on the Turn
+Seat 9: andrey_kasav (big blind) folded before Flop
+
+
+

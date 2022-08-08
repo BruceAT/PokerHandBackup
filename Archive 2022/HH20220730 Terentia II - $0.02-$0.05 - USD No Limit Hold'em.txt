@@ -1,0 +1,953 @@
+﻿PokerStars Hand #237693529898:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/30 20:38:25 PT [2022/07/30 23:38:25 ET]
+Table 'Terentia II' 9-max Seat #7 is the button
+Seat 1: rice_hand ($5.29 in chips) 
+Seat 2: AGVsmarT ($3.43 in chips) 
+Seat 5: Luigiams ($5 in chips) 
+Seat 6: Dorex2007 ($5 in chips) 
+Seat 7: Maria'sDad77 ($14.79 in chips) 
+Seat 8: Dr.Caput ($3.18 in chips) 
+Seat 9: VladiMIrUFC ($4.63 in chips) 
+Dr.Caput: posts small blind $0.02
+VladiMIrUFC: posts big blind $0.05
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 3h]
+rice_hand: folds 
+AGVsmarT: folds 
+Luigiams: calls $0.05
+Dorex2007: checks 
+Maria'sDad77: folds 
+Dr.Caput: calls $0.03
+VladiMIrUFC: checks 
+*** FLOP *** [6c Qs 7c]
+Dr.Caput: checks 
+VladiMIrUFC: checks 
+Luigiams: bets $0.10
+Dorex2007: calls $0.10
+Dr.Caput: calls $0.10
+VladiMIrUFC: folds 
+*** TURN *** [6c Qs 7c] [2h]
+Dr.Caput: checks 
+Luigiams: bets $0.20
+Dorex2007: folds 
+Dr.Caput: raises $0.44 to $0.64
+Luigiams: calls $0.44
+*** RIVER *** [6c Qs 7c 2h] [9c]
+Dr.Caput: bets $1.71
+Luigiams: folds 
+Uncalled bet ($1.71) returned to Dr.Caput
+Dr.Caput collected $1.71 from pot
+Dr.Caput: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.78 | Rake $0.07 
+Board [6c Qs 7c 2h 9c]
+Seat 1: rice_hand folded before Flop (didn't bet)
+Seat 2: AGVsmarT folded before Flop (didn't bet)
+Seat 5: Luigiams folded on the River
+Seat 6: Dorex2007 folded on the Turn
+Seat 7: Maria'sDad77 (button) folded before Flop (didn't bet)
+Seat 8: Dr.Caput (small blind) collected ($1.71)
+Seat 9: VladiMIrUFC (big blind) folded on the Flop
+
+
+
+PokerStars Hand #237693548301:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/30 20:40:16 PT [2022/07/30 23:40:16 ET]
+Table 'Terentia II' 9-max Seat #8 is the button
+Seat 1: rice_hand ($5.29 in chips) 
+Seat 2: AGVsmarT ($3.43 in chips) 
+Seat 3: FunAAri ($3.07 in chips) 
+Seat 5: Luigiams ($5 in chips) 
+Seat 6: Dorex2007 ($5 in chips) 
+Seat 7: Maria'sDad77 ($14.79 in chips) 
+Seat 8: Dr.Caput ($4.10 in chips) 
+Seat 9: VladiMIrUFC ($4.58 in chips) 
+VladiMIrUFC: posts small blind $0.02
+rice_hand: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 3s]
+AGVsmarT: calls $0.05
+FunAAri: raises $0.05 to $0.10
+Luigiams: folds 
+Dorex2007: folds 
+Maria'sDad77: folds 
+Dr.Caput is disconnected 
+Dr.Caput has timed out while being disconnected
+Dr.Caput: folds 
+VladiMIrUFC: folds 
+rice_hand: folds 
+AGVsmarT: calls $0.05
+*** FLOP *** [As 6d 5h]
+AGVsmarT: checks 
+FunAAri: bets $0.13
+AGVsmarT: folds 
+Uncalled bet ($0.13) returned to FunAAri
+FunAAri collected $0.26 from pot
+FunAAri: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [As 6d 5h]
+Seat 1: rice_hand (big blind) folded before Flop
+Seat 2: AGVsmarT folded on the Flop
+Seat 3: FunAAri collected ($0.26)
+Seat 5: Luigiams folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Maria'sDad77 folded before Flop (didn't bet)
+Seat 8: Dr.Caput (button) folded before Flop (didn't bet)
+Seat 9: VladiMIrUFC (small blind) folded before Flop
+
+
+
+PokerStars Hand #237693557725:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/30 20:41:22 PT [2022/07/30 23:41:22 ET]
+Table 'Terentia II' 9-max Seat #9 is the button
+Seat 1: rice_hand ($5.24 in chips) 
+Seat 2: AGVsmarT ($3.33 in chips) 
+Seat 3: FunAAri ($3.23 in chips) 
+Seat 5: Luigiams ($5 in chips) 
+Seat 6: Dorex2007 ($5 in chips) 
+Seat 7: Maria'sDad77 ($14.79 in chips) 
+Seat 9: VladiMIrUFC ($4.56 in chips) 
+rice_hand: posts small blind $0.02
+AGVsmarT: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 2d]
+FunAAri: calls $0.05
+Luigiams: raises $0.05 to $0.10
+Dorex2007: folds 
+Maria'sDad77: folds 
+VladiMIrUFC: calls $0.10
+rice_hand: calls $0.08
+AGVsmarT: calls $0.05
+FunAAri: calls $0.05
+*** FLOP *** [5s 8s Ac]
+rice_hand: checks 
+AGVsmarT: bets $0.48
+FunAAri: folds 
+Luigiams: folds 
+VladiMIrUFC: folds 
+rice_hand: folds 
+Uncalled bet ($0.48) returned to AGVsmarT
+AGVsmarT collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [5s 8s Ac]
+Seat 1: rice_hand (small blind) folded on the Flop
+Seat 2: AGVsmarT (big blind) collected ($0.48)
+Seat 3: FunAAri folded on the Flop
+Seat 5: Luigiams folded on the Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Maria'sDad77 folded before Flop (didn't bet)
+Seat 9: VladiMIrUFC (button) folded on the Flop
+
+
+
+PokerStars Hand #237693570351:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/30 20:42:26 PT [2022/07/30 23:42:26 ET]
+Table 'Terentia II' 9-max Seat #1 is the button
+Seat 1: rice_hand ($5.14 in chips) 
+Seat 2: AGVsmarT ($3.71 in chips) 
+Seat 3: FunAAri ($3.13 in chips) 
+Seat 5: Luigiams ($4.90 in chips) 
+Seat 6: Dorex2007 ($5 in chips) 
+Seat 7: Maria'sDad77 ($14.79 in chips) 
+Seat 9: VladiMIrUFC ($4.46 in chips) 
+AGVsmarT: posts small blind $0.02
+FunAAri: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 9c]
+Luigiams: calls $0.05
+Dorex2007: folds 
+Maria'sDad77: folds 
+VladiMIrUFC: folds 
+rice_hand: raises $0.07 to $0.12
+AGVsmarT: folds 
+FunAAri: folds 
+Luigiams: calls $0.07
+*** FLOP *** [Ah 2s 2h]
+Luigiams: checks 
+rice_hand: bets $0.10
+Luigiams: folds 
+Uncalled bet ($0.10) returned to rice_hand
+rice_hand collected $0.30 from pot
+rice_hand: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Ah 2s 2h]
+Seat 1: rice_hand (button) collected ($0.30)
+Seat 2: AGVsmarT (small blind) folded before Flop
+Seat 3: FunAAri (big blind) folded before Flop
+Seat 5: Luigiams folded on the Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Maria'sDad77 folded before Flop (didn't bet)
+Seat 9: VladiMIrUFC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237693575288:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/30 20:43:02 PT [2022/07/30 23:43:02 ET]
+Table 'Terentia II' 9-max Seat #2 is the button
+Seat 1: rice_hand ($5.32 in chips) 
+Seat 2: AGVsmarT ($3.69 in chips) 
+Seat 3: FunAAri ($3.08 in chips) 
+Seat 5: Luigiams ($4.78 in chips) 
+Seat 6: Dorex2007 ($5 in chips) 
+Seat 7: Maria'sDad77 ($14.79 in chips) 
+Seat 9: VladiMIrUFC ($4.46 in chips) 
+FunAAri: posts small blind $0.02
+Luigiams: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 6s]
+Dorex2007: folds 
+Maria'sDad77: folds 
+VladiMIrUFC: folds 
+rice_hand: folds 
+AGVsmarT: folds 
+FunAAri: folds 
+Uncalled bet ($0.03) returned to Luigiams
+Luigiams collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: rice_hand folded before Flop (didn't bet)
+Seat 2: AGVsmarT (button) folded before Flop (didn't bet)
+Seat 3: FunAAri (small blind) folded before Flop
+Seat 5: Luigiams (big blind) collected ($0.04)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Maria'sDad77 folded before Flop (didn't bet)
+Seat 9: VladiMIrUFC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237693580138:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/30 20:43:37 PT [2022/07/30 23:43:37 ET]
+Table 'Terentia II' 9-max Seat #3 is the button
+Seat 1: rice_hand ($5.32 in chips) 
+Seat 2: AGVsmarT ($3.69 in chips) 
+Seat 3: FunAAri ($3.06 in chips) 
+Seat 5: Luigiams ($4.80 in chips) 
+Seat 6: Dorex2007 ($5 in chips) 
+Seat 7: Maria'sDad77 ($14.79 in chips) 
+Seat 9: VladiMIrUFC ($4.46 in chips) 
+Luigiams: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Qs]
+Maria'sDad77: folds 
+VladiMIrUFC: folds 
+rice_hand: raises $0.10 to $0.15
+AGVsmarT: folds 
+FunAAri: folds 
+Luigiams: calls $0.13
+Dorex2007: raises $0.45 to $0.60
+rice_hand: calls $0.45
+Luigiams: folds 
+*** FLOP *** [Ts Kc 7c]
+Dorex2007: bets $1.29
+rice_hand: calls $1.29
+*** TURN *** [Ts Kc 7c] [Td]
+Dorex2007: bets $3.11 and is all-in
+rice_hand: calls $3.11
+*** RIVER *** [Ts Kc 7c Td] [Qd]
+*** SHOW DOWN ***
+Dorex2007: shows [Ks Qs] (two pair, Kings and Queens)
+rice_hand: shows [Jc Jd] (two pair, Jacks and Tens)
+Dorex2007 cashed out the hand for $9.20 | Cash Out Fee $0.09
+*** SUMMARY ***
+Total pot $10.15 | Rake $0.42 
+Board [Ts Kc 7c Td Qd]
+Seat 1: rice_hand showed [Jc Jd] and lost with two pair, Jacks and Tens
+Seat 2: AGVsmarT folded before Flop (didn't bet)
+Seat 3: FunAAri (button) folded before Flop (didn't bet)
+Seat 5: Luigiams (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) showed [Ks Qs] and won ($9.73) with two pair, Kings and Queens (pot not awarded as player cashed out)
+Seat 7: Maria'sDad77 folded before Flop (didn't bet)
+Seat 9: VladiMIrUFC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237693589176:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/30 20:44:42 PT [2022/07/30 23:44:42 ET]
+Table 'Terentia II' 9-max Seat #5 is the button
+Seat 1: rice_hand ($0.32 in chips) 
+Seat 2: AGVsmarT ($3.69 in chips) 
+Seat 3: FunAAri ($3.06 in chips) 
+Seat 5: Luigiams ($4.65 in chips) 
+Seat 6: Dorex2007 ($9.20 in chips) 
+Seat 7: Maria'sDad77 ($14.79 in chips) 
+Seat 9: VladiMIrUFC ($4.46 in chips) 
+Dorex2007: posts small blind $0.02
+Maria'sDad77: posts big blind $0.05
+Holyroller8787: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s Jc]
+VladiMIrUFC: folds 
+rice_hand: folds 
+AGVsmarT: folds 
+FunAAri: raises $0.10 to $0.15
+Luigiams: folds 
+Dorex2007: folds 
+Maria'sDad77: folds 
+Uncalled bet ($0.10) returned to FunAAri
+FunAAri collected $0.12 from pot
+FunAAri: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: rice_hand folded before Flop (didn't bet)
+Seat 2: AGVsmarT folded before Flop (didn't bet)
+Seat 3: FunAAri collected ($0.12)
+Seat 5: Luigiams (button) folded before Flop (didn't bet)
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: Maria'sDad77 (big blind) folded before Flop
+Seat 9: VladiMIrUFC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237693594011:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/30 20:45:16 PT [2022/07/30 23:45:16 ET]
+Table 'Terentia II' 9-max Seat #6 is the button
+Seat 1: rice_hand ($5 in chips) 
+Seat 2: AGVsmarT ($3.69 in chips) 
+Seat 3: FunAAri ($3.13 in chips) 
+Seat 4: Holyroller8787 ($6.69 in chips) 
+Seat 5: Luigiams ($4.65 in chips) 
+Seat 6: Dorex2007 ($9.18 in chips) 
+Seat 7: Maria'sDad77 ($14.74 in chips) 
+Seat 9: VladiMIrUFC ($4.46 in chips) 
+Maria'sDad77: posts small blind $0.02
+VladiMIrUFC: posts big blind $0.05
+Holyroller8787: posts small & big blinds $0.07
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 6c]
+rice_hand: folds 
+AGVsmarT: calls $0.05
+FunAAri: folds 
+Holyroller8787: checks 
+Luigiams: calls $0.05
+Dorex2007: folds 
+Maria'sDad77: folds 
+VladiMIrUFC: checks 
+*** FLOP *** [Kc Ad 6d]
+VladiMIrUFC: checks 
+AGVsmarT: checks 
+Holyroller8787: checks 
+Luigiams: checks 
+*** TURN *** [Kc Ad 6d] [8c]
+VladiMIrUFC: checks 
+AGVsmarT: checks 
+Holyroller8787: checks 
+Luigiams: checks 
+*** RIVER *** [Kc Ad 6d 8c] [Ts]
+VladiMIrUFC: checks 
+AGVsmarT: checks 
+Holyroller8787: bets $0.23
+Luigiams: folds 
+VladiMIrUFC: calls $0.23
+AGVsmarT: folds 
+*** SHOW DOWN ***
+Holyroller8787: shows [Tc 7d] (a pair of Tens)
+VladiMIrUFC: shows [9d Kd] (a pair of Kings)
+VladiMIrUFC collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [Kc Ad 6d 8c Ts]
+Seat 1: rice_hand folded before Flop (didn't bet)
+Seat 2: AGVsmarT folded on the River
+Seat 3: FunAAri folded before Flop (didn't bet)
+Seat 4: Holyroller8787 showed [Tc 7d] and lost with a pair of Tens
+Seat 5: Luigiams folded on the River
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: Maria'sDad77 (small blind) folded before Flop
+Seat 9: VladiMIrUFC (big blind) showed [9d Kd] and won ($0.67) with a pair of Kings
+
+
+
+PokerStars Hand #237693604940:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/30 20:46:36 PT [2022/07/30 23:46:36 ET]
+Table 'Terentia II' 9-max Seat #7 is the button
+Seat 1: rice_hand ($5 in chips) 
+Seat 2: AGVsmarT ($3.64 in chips) 
+Seat 3: FunAAri ($3.13 in chips) 
+Seat 4: Holyroller8787 ($6.39 in chips) 
+Seat 5: Luigiams ($4.60 in chips) 
+Seat 6: Dorex2007 ($9.18 in chips) 
+Seat 7: Maria'sDad77 ($14.72 in chips) 
+Seat 9: VladiMIrUFC ($4.85 in chips) 
+VladiMIrUFC: posts small blind $0.02
+rice_hand: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 2s]
+AGVsmarT: folds 
+FunAAri: calls $0.05
+Holyroller8787: folds 
+Luigiams: folds 
+Dorex2007: folds 
+Maria'sDad77: folds 
+VladiMIrUFC: folds 
+rice_hand: raises $0.10 to $0.15
+FunAAri: folds 
+Uncalled bet ($0.10) returned to rice_hand
+rice_hand collected $0.12 from pot
+rice_hand: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: rice_hand (big blind) collected ($0.12)
+Seat 2: AGVsmarT folded before Flop (didn't bet)
+Seat 3: FunAAri folded before Flop
+Seat 4: Holyroller8787 folded before Flop (didn't bet)
+Seat 5: Luigiams folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Maria'sDad77 (button) folded before Flop (didn't bet)
+Seat 9: VladiMIrUFC (small blind) folded before Flop
+
+
+
+PokerStars Hand #237693609431:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/30 20:47:08 PT [2022/07/30 23:47:08 ET]
+Table 'Terentia II' 9-max Seat #9 is the button
+Seat 1: rice_hand ($5.07 in chips) 
+Seat 2: AGVsmarT ($3.64 in chips) 
+Seat 3: FunAAri ($3.08 in chips) 
+Seat 4: Holyroller8787 ($6.39 in chips) 
+Seat 5: Luigiams ($4.60 in chips) 
+Seat 6: Dorex2007 ($9.18 in chips) 
+Seat 7: Maria'sDad77 ($14.72 in chips) 
+Seat 9: VladiMIrUFC ($4.83 in chips) 
+rice_hand: posts small blind $0.02
+AGVsmarT: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 9s]
+FunAAri: folds 
+Holyroller8787: calls $0.05
+Luigiams: folds 
+Dorex2007: folds 
+Maria'sDad77: raises $0.05 to $0.10
+VladiMIrUFC: folds 
+rice_hand: folds 
+AGVsmarT: calls $0.05
+Holyroller8787: calls $0.05
+*** FLOP *** [3s 4s Qh]
+AGVsmarT: bets $0.10
+Holyroller8787: calls $0.10
+Maria'sDad77: calls $0.10
+*** TURN *** [3s 4s Qh] [9d]
+AGVsmarT: checks 
+Holyroller8787: bets $0.59
+Maria'sDad77: calls $0.59
+AGVsmarT: folds 
+*** RIVER *** [3s 4s Qh 9d] [9h]
+Holyroller8787: bets $1.73
+Maria'sDad77: folds 
+Uncalled bet ($1.73) returned to Holyroller8787
+Holyroller8787 collected $1.73 from pot
+Holyroller8787: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.07 
+Board [3s 4s Qh 9d 9h]
+Seat 1: rice_hand (small blind) folded before Flop
+Seat 2: AGVsmarT (big blind) folded on the Turn
+Seat 3: FunAAri folded before Flop (didn't bet)
+Seat 4: Holyroller8787 collected ($1.73)
+Seat 5: Luigiams folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Maria'sDad77 folded on the River
+Seat 9: VladiMIrUFC (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237693621309:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/30 20:48:34 PT [2022/07/30 23:48:34 ET]
+Table 'Terentia II' 9-max Seat #1 is the button
+Seat 1: rice_hand ($5.05 in chips) 
+Seat 2: AGVsmarT ($3.44 in chips) 
+Seat 3: FunAAri ($3.08 in chips) 
+Seat 4: Holyroller8787 ($7.33 in chips) 
+Seat 5: Luigiams ($4.60 in chips) 
+Seat 6: Dorex2007 ($9.18 in chips) 
+Seat 7: Maria'sDad77 ($13.93 in chips) 
+Seat 9: VladiMIrUFC ($4.83 in chips) 
+AGVsmarT: posts small blind $0.02
+FunAAri: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 9d]
+Holyroller8787: folds 
+Luigiams: folds 
+Dorex2007: raises $0.15 to $0.20
+Maria'sDad77: folds 
+VladiMIrUFC: calls $0.20
+rice_hand: folds 
+AGVsmarT: folds 
+FunAAri: folds 
+*** FLOP *** [3d 4c Kh]
+Dorex2007: checks 
+VladiMIrUFC: bets $0.21
+Dorex2007: folds 
+Uncalled bet ($0.21) returned to VladiMIrUFC
+VladiMIrUFC collected $0.45 from pot
+VladiMIrUFC: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [3d 4c Kh]
+Seat 1: rice_hand (button) folded before Flop (didn't bet)
+Seat 2: AGVsmarT (small blind) folded before Flop
+Seat 3: FunAAri (big blind) folded before Flop
+Seat 4: Holyroller8787 folded before Flop (didn't bet)
+Seat 5: Luigiams folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded on the Flop
+Seat 7: Maria'sDad77 folded before Flop (didn't bet)
+Seat 9: VladiMIrUFC collected ($0.45)
+
+
+
+PokerStars Hand #237693628430:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/30 20:49:27 PT [2022/07/30 23:49:27 ET]
+Table 'Terentia II' 9-max Seat #2 is the button
+Seat 1: rice_hand ($5.05 in chips) 
+Seat 2: AGVsmarT ($5 in chips) 
+Seat 3: FunAAri ($3.03 in chips) 
+Seat 4: Holyroller8787 ($7.33 in chips) 
+Seat 5: Luigiams ($4.60 in chips) 
+Seat 6: Dorex2007 ($8.98 in chips) 
+Seat 7: Maria'sDad77 ($13.93 in chips) 
+Seat 9: VladiMIrUFC ($5.08 in chips) 
+FunAAri: posts small blind $0.02
+Holyroller8787: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Ts]
+Luigiams: raises $0.10 to $0.15
+Dorex2007: folds 
+Maria'sDad77: calls $0.15
+VladiMIrUFC: folds 
+rice_hand: calls $0.15
+AGVsmarT: folds 
+FunAAri: calls $0.13
+Holyroller8787: calls $0.10
+*** FLOP *** [5h 9s 4d]
+FunAAri: checks 
+Holyroller8787: checks 
+Luigiams: checks 
+Maria'sDad77: bets $0.41
+rice_hand: folds 
+FunAAri: folds 
+Holyroller8787: calls $0.41
+Luigiams: folds 
+*** TURN *** [5h 9s 4d] [6c]
+Holyroller8787: bets $0.75
+Maria'sDad77: calls $0.75
+*** RIVER *** [5h 9s 4d 6c] [7d]
+Holyroller8787: checks 
+Dr.Caput leaves the table
+Maria'sDad77: checks 
+*** SHOW DOWN ***
+Holyroller8787: shows [6s 4s] (two pair, Sixes and Fours)
+Maria'sDad77: mucks hand 
+Holyroller8787 collected $2.94 from pot
+*** SUMMARY ***
+Total pot $3.07 | Rake $0.13 
+Board [5h 9s 4d 6c 7d]
+Seat 1: rice_hand folded on the Flop
+Seat 2: AGVsmarT (button) folded before Flop (didn't bet)
+Seat 3: FunAAri (small blind) folded on the Flop
+Seat 4: Holyroller8787 (big blind) showed [6s 4s] and won ($2.94) with two pair, Sixes and Fours
+Seat 5: Luigiams folded on the Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Maria'sDad77 mucked [Jc Jd]
+Seat 9: VladiMIrUFC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237693650780:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/30 20:51:08 PT [2022/07/30 23:51:08 ET]
+Table 'Terentia II' 9-max Seat #3 is the button
+Seat 1: rice_hand ($4.90 in chips) 
+Seat 2: AGVsmarT ($5 in chips) 
+Seat 3: FunAAri ($2.88 in chips) 
+Seat 4: Holyroller8787 ($8.96 in chips) 
+Seat 5: Luigiams ($5 in chips) 
+Seat 6: Dorex2007 ($8.98 in chips) 
+Seat 7: Maria'sDad77 ($12.62 in chips) 
+Seat 9: VladiMIrUFC ($5.08 in chips) 
+Holyroller8787: posts small blind $0.02
+Luigiams: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Th]
+daryl meow joins the table at seat #8 
+Dorex2007: folds 
+Maria'sDad77: folds 
+VladiMIrUFC: folds 
+rice_hand: folds 
+AGVsmarT: folds 
+FunAAri: raises $0.10 to $0.15
+Holyroller8787: calls $0.13
+Luigiams: folds 
+*** FLOP *** [5h 5c 4h]
+Holyroller8787: checks 
+FunAAri: bets $0.17
+Holyroller8787: calls $0.17
+*** TURN *** [5h 5c 4h] [3h]
+Holyroller8787: bets $0.66
+FunAAri: folds 
+Uncalled bet ($0.66) returned to Holyroller8787
+Holyroller8787 collected $0.66 from pot
+Holyroller8787: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.03 
+Board [5h 5c 4h 3h]
+Seat 1: rice_hand folded before Flop (didn't bet)
+Seat 2: AGVsmarT folded before Flop (didn't bet)
+Seat 3: FunAAri (button) folded on the Turn
+Seat 4: Holyroller8787 (small blind) collected ($0.66)
+Seat 5: Luigiams (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Maria'sDad77 folded before Flop (didn't bet)
+Seat 9: VladiMIrUFC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237693660321:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/30 20:52:19 PT [2022/07/30 23:52:19 ET]
+Table 'Terentia II' 9-max Seat #4 is the button
+Seat 1: rice_hand ($4.90 in chips) 
+Seat 2: AGVsmarT ($5 in chips) 
+Seat 3: FunAAri ($2.56 in chips) 
+Seat 4: Holyroller8787 ($9.30 in chips) 
+Seat 5: Luigiams ($4.95 in chips) 
+Seat 6: Dorex2007 ($8.98 in chips) 
+Seat 7: Maria'sDad77 ($12.62 in chips) 
+Seat 9: VladiMIrUFC ($5.08 in chips) 
+Luigiams: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+daryl meow: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 8d]
+Maria'sDad77: folds 
+VladiMIrUFC: folds 
+rice_hand: folds 
+AGVsmarT: folds 
+FunAAri: raises $0.05 to $0.10
+Holyroller8787: folds 
+Luigiams: folds 
+Dorex2007: folds 
+Uncalled bet ($0.05) returned to FunAAri
+FunAAri collected $0.12 from pot
+FunAAri: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: rice_hand folded before Flop (didn't bet)
+Seat 2: AGVsmarT folded before Flop (didn't bet)
+Seat 3: FunAAri collected ($0.12)
+Seat 4: Holyroller8787 (button) folded before Flop (didn't bet)
+Seat 5: Luigiams (small blind) folded before Flop
+Seat 6: Dorex2007 (big blind) folded before Flop
+Seat 7: Maria'sDad77 folded before Flop (didn't bet)
+Seat 9: VladiMIrUFC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237693670051:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/30 20:52:54 PT [2022/07/30 23:52:54 ET]
+Table 'Terentia II' 9-max Seat #5 is the button
+Seat 1: rice_hand ($4.90 in chips) 
+Seat 2: AGVsmarT ($5 in chips) 
+Seat 3: FunAAri ($2.63 in chips) 
+Seat 4: Holyroller8787 ($9.30 in chips) 
+Seat 5: Luigiams ($4.93 in chips) 
+Seat 6: Dorex2007 ($8.93 in chips) 
+Seat 7: Maria'sDad77 ($12.62 in chips) 
+Seat 9: VladiMIrUFC ($5.08 in chips) 
+Dorex2007: posts small blind $0.02
+Maria'sDad77: posts big blind $0.05
+daryl meow: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Ts]
+VladiMIrUFC: folds 
+rice_hand: folds 
+AGVsmarT has timed out
+AGVsmarT: folds 
+FunAAri: folds 
+Holyroller8787: calls $0.05
+Luigiams: calls $0.05
+Dorex2007: folds 
+Maria'sDad77: checks 
+*** FLOP *** [5d 3s As]
+Maria'sDad77: checks 
+Holyroller8787: checks 
+Luigiams: bets $0.15
+Maria'sDad77: calls $0.15
+Holyroller8787: folds 
+*** TURN *** [5d 3s As] [8s]
+Maria'sDad77: checks 
+Luigiams: bets $0.15
+Maria'sDad77: calls $0.15
+*** RIVER *** [5d 3s As 8s] [Ah]
+Maria'sDad77: checks 
+Luigiams: checks 
+*** SHOW DOWN ***
+Maria'sDad77: shows [5h 3d] (two pair, Aces and Fives)
+Luigiams: shows [7h Ad] (three of a kind, Aces)
+Luigiams collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [5d 3s As 8s Ah]
+Seat 1: rice_hand folded before Flop (didn't bet)
+Seat 2: AGVsmarT folded before Flop (didn't bet)
+Seat 3: FunAAri folded before Flop (didn't bet)
+Seat 4: Holyroller8787 folded on the Flop
+Seat 5: Luigiams (button) showed [7h Ad] and won ($0.74) with three of a kind, Aces
+Seat 6: Dorex2007 (small blind) folded before Flop
+Seat 7: Maria'sDad77 (big blind) showed [5h 3d] and lost with two pair, Aces and Fives
+Seat 9: VladiMIrUFC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237693685093:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/30 20:54:47 PT [2022/07/30 23:54:47 ET]
+Table 'Terentia II' 9-max Seat #6 is the button
+Seat 1: rice_hand ($4.90 in chips) 
+Seat 2: AGVsmarT ($5 in chips) 
+Seat 3: FunAAri ($2.63 in chips) 
+Seat 4: Holyroller8787 ($9.25 in chips) 
+Seat 5: Luigiams ($5.32 in chips) 
+Seat 6: Dorex2007 ($8.91 in chips) 
+Seat 7: Maria'sDad77 ($12.27 in chips) 
+Seat 8: daryl meow ($5 in chips) 
+Seat 9: VladiMIrUFC ($5.08 in chips) 
+Maria'sDad77: posts small blind $0.02
+daryl meow: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s Qc]
+VladiMIrUFC: folds 
+rice_hand: folds 
+AGVsmarT: folds 
+FunAAri: raises $0.10 to $0.15
+Holyroller8787: calls $0.15
+Luigiams: folds 
+Dorex2007: folds 
+Maria'sDad77: folds 
+daryl meow has timed out
+daryl meow: folds 
+*** FLOP *** [As 3h Kc]
+FunAAri: checks 
+Holyroller8787: bets $0.17
+FunAAri: calls $0.17
+*** TURN *** [As 3h Kc] [Tc]
+FunAAri: checks 
+Holyroller8787: bets $0.34
+FunAAri: calls $0.34
+*** RIVER *** [As 3h Kc Tc] [Qh]
+FunAAri: checks 
+Holyroller8787: bets $1.33
+FunAAri: calls $1.33
+*** SHOW DOWN ***
+Holyroller8787: shows [Js Kh] (a straight, Ten to Ace)
+FunAAri: mucks hand 
+Holyroller8787 collected $3.88 from pot
+*** SUMMARY ***
+Total pot $4.05 | Rake $0.17 
+Board [As 3h Kc Tc Qh]
+Seat 1: rice_hand folded before Flop (didn't bet)
+Seat 2: AGVsmarT folded before Flop (didn't bet)
+Seat 3: FunAAri mucked [Kd Qs]
+Seat 4: Holyroller8787 showed [Js Kh] and won ($3.88) with a straight, Ten to Ace
+Seat 5: Luigiams folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 7: Maria'sDad77 (small blind) folded before Flop
+Seat 8: daryl meow (big blind) folded before Flop
+Seat 9: VladiMIrUFC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237693697233:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/30 20:56:31 PT [2022/07/30 23:56:31 ET]
+Table 'Terentia II' 9-max Seat #7 is the button
+Seat 1: rice_hand ($4.90 in chips) 
+Seat 2: AGVsmarT ($5 in chips) 
+Seat 3: FunAAri ($0.64 in chips) 
+Seat 4: Holyroller8787 ($11.14 in chips) 
+Seat 5: Luigiams ($5.32 in chips) 
+Seat 6: Dorex2007 ($8.91 in chips) 
+Seat 7: Maria'sDad77 ($12.25 in chips) 
+Seat 9: VladiMIrUFC ($5.08 in chips) 
+VladiMIrUFC: posts small blind $0.02
+rice_hand: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Td]
+AGVsmarT: folds 
+FunAAri: calls $0.05
+Holyroller8787: folds 
+Luigiams: folds 
+Dorex2007: folds 
+Maria'sDad77: folds 
+VladiMIrUFC: raises $0.15 to $0.20
+rice_hand: folds 
+FunAAri: folds 
+Uncalled bet ($0.15) returned to VladiMIrUFC
+VladiMIrUFC collected $0.15 from pot
+VladiMIrUFC: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: rice_hand (big blind) folded before Flop
+Seat 2: AGVsmarT folded before Flop (didn't bet)
+Seat 3: FunAAri folded before Flop
+Seat 4: Holyroller8787 folded before Flop (didn't bet)
+Seat 5: Luigiams folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Maria'sDad77 (button) folded before Flop (didn't bet)
+Seat 9: VladiMIrUFC (small blind) collected ($0.15)
+
+
+
+PokerStars Hand #237693702785:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/30 20:57:22 PT [2022/07/30 23:57:22 ET]
+Table 'Terentia II' 9-max Seat #9 is the button
+Seat 1: rice_hand ($4.85 in chips) 
+Seat 2: AGVsmarT ($5 in chips) 
+Seat 3: FunAAri ($0.59 in chips) 
+Seat 4: Holyroller8787 ($11.14 in chips) 
+Seat 5: Luigiams ($5.32 in chips) 
+Seat 6: Dorex2007 ($8.91 in chips) 
+Seat 7: Maria'sDad77 ($12.25 in chips) 
+Seat 9: VladiMIrUFC ($5.18 in chips) 
+rice_hand: posts small blind $0.02
+AGVsmarT: posts big blind $0.05
+daryl meow: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Kh]
+FunAAri has timed out
+FunAAri: folds 
+Holyroller8787: calls $0.05
+Luigiams: folds 
+Dorex2007: raises $0.10 to $0.15
+Maria'sDad77: folds 
+VladiMIrUFC: folds 
+rice_hand: calls $0.13
+AGVsmarT: calls $0.10
+Holyroller8787: calls $0.10
+*** FLOP *** [4d 2c Qd]
+rice_hand: checks 
+AGVsmarT: checks 
+Holyroller8787: checks 
+Dorex2007: bets $0.58
+rice_hand: folds 
+AGVsmarT: folds 
+Holyroller8787: folds 
+Uncalled bet ($0.58) returned to Dorex2007
+Dorex2007 collected $0.58 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [4d 2c Qd]
+Seat 1: rice_hand (small blind) folded on the Flop
+Seat 2: AGVsmarT (big blind) folded on the Flop
+Seat 3: FunAAri folded before Flop (didn't bet)
+Seat 4: Holyroller8787 folded on the Flop
+Seat 5: Luigiams folded before Flop (didn't bet)
+Seat 6: Dorex2007 collected ($0.58)
+Seat 7: Maria'sDad77 folded before Flop (didn't bet)
+Seat 9: VladiMIrUFC (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237693709010:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/30 20:58:17 PT [2022/07/30 23:58:17 ET]
+Table 'Terentia II' 9-max Seat #1 is the button
+Seat 1: rice_hand ($4.70 in chips) 
+Seat 2: AGVsmarT ($4.85 in chips) 
+Seat 3: FunAAri ($0.59 in chips) 
+Seat 4: Holyroller8787 ($10.99 in chips) 
+Seat 5: Luigiams ($5.32 in chips) 
+Seat 6: Dorex2007 ($9.34 in chips) 
+Seat 7: Maria'sDad77 ($12.25 in chips) 
+Seat 9: VladiMIrUFC ($5.18 in chips) 
+AGVsmarT: posts small blind $0.02
+FunAAri: posts big blind $0.05
+daryl meow: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 5c]
+Holyroller8787: folds 
+Luigiams has timed out
+Luigiams: folds 
+Dorex2007: folds 
+Maria'sDad77: folds 
+VladiMIrUFC: raises $0.10 to $0.15
+Luigiams leaves the table
+rice_hand: calls $0.15
+AGVsmarT: folds 
+FunAAri: raises $0.44 to $0.59 and is all-in
+VladiMIrUFC: folds 
+rice_hand: folds 
+Uncalled bet ($0.44) returned to FunAAri
+FunAAri collected $0.47 from pot
+FunAAri: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0 
+Seat 1: rice_hand (button) folded before Flop
+Seat 2: AGVsmarT (small blind) folded before Flop
+Seat 3: FunAAri (big blind) collected ($0.47)
+Seat 4: Holyroller8787 folded before Flop (didn't bet)
+Seat 5: Luigiams folded before Flop (didn't bet)
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Maria'sDad77 folded before Flop (didn't bet)
+Seat 9: VladiMIrUFC folded before Flop
+
+
+
+PokerStars Hand #237693714265:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/30 20:59:04 PT [2022/07/30 23:59:04 ET]
+Table 'Terentia II' 9-max Seat #2 is the button
+Seat 1: rice_hand ($4.55 in chips) 
+Seat 2: AGVsmarT ($4.83 in chips) 
+Seat 3: FunAAri ($0.91 in chips) 
+Seat 4: Holyroller8787 ($10.99 in chips) 
+Seat 6: Dorex2007 ($9.34 in chips) 
+Seat 7: Maria'sDad77 ($12.25 in chips) 
+Seat 9: VladiMIrUFC ($5.03 in chips) 
+FunAAri: posts small blind $0.02
+Holyroller8787: posts big blind $0.05
+daryl meow: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Ks]
+Dorex2007: folds 
+Franbostero2 joins the table at seat #5 
+Maria'sDad77: folds 
+VladiMIrUFC: raises $0.05 to $0.10
+rice_hand: folds 
+AGVsmarT: folds 
+FunAAri: folds 
+Holyroller8787: folds 
+Uncalled bet ($0.05) returned to VladiMIrUFC
+Holyroller8787 leaves the table
+VladiMIrUFC collected $0.12 from pot
+VladiMIrUFC: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: rice_hand folded before Flop (didn't bet)
+Seat 2: AGVsmarT (button) folded before Flop (didn't bet)
+Seat 3: FunAAri (small blind) folded before Flop
+Seat 4: Holyroller8787 (big blind) folded before Flop
+Seat 6: Dorex2007 folded before Flop (didn't bet)
+Seat 7: Maria'sDad77 folded before Flop (didn't bet)
+Seat 9: VladiMIrUFC collected ($0.12)
+
+
+
+PokerStars Hand #237693716356:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/07/30 20:59:23 PT [2022/07/30 23:59:23 ET]
+Table 'Terentia II' 9-max Seat #6 is the button
+Seat 1: rice_hand ($4.55 in chips) 
+Seat 2: AGVsmarT ($4.83 in chips) 
+Seat 6: Dorex2007 ($9.34 in chips) 
+Seat 7: Maria'sDad77 ($12.25 in chips) 
+Seat 8: daryl meow ($4.95 in chips) 
+Seat 9: VladiMIrUFC ($5.10 in chips) 
+Maria'sDad77: posts small blind $0.02
+daryl meow: posts big blind $0.05
+Franbostero2: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 7s]
+FunAAri leaves the table
+VladiMIrUFC: folds 
+rice_hand: raises $0.07 to $0.12
+AGVsmarT: folds 
+Dorex2007: calls $0.12
+Maria'sDad77: calls $0.10
+daryl meow: folds 
+*** FLOP *** [9d Ah 5d]
+Maria'sDad77: checks 
+rice_hand: bets $0.20
+Dorex2007: folds 
+Maria'sDad77: folds 
+Uncalled bet ($0.20) returned to rice_hand
+rice_hand collected $0.39 from pot
+rice_hand: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.02 
+Board [9d Ah 5d]
+Seat 1: rice_hand collected ($0.39)
+Seat 2: AGVsmarT folded before Flop (didn't bet)
+Seat 6: Dorex2007 (button) folded on the Flop
+Seat 7: Maria'sDad77 (small blind) folded on the Flop
+Seat 8: daryl meow (big blind) folded before Flop
+Seat 9: VladiMIrUFC folded before Flop (didn't bet)
+
+
+

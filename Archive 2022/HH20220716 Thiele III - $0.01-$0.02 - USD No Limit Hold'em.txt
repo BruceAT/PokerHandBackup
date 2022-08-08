@@ -1,0 +1,939 @@
+﻿PokerStars Hand #237405002244:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 19:19:18 PT [2022/07/16 22:19:18 ET]
+Table 'Thiele III' 9-max Seat #9 is the button
+Seat 1: gil 123 ($1.98 in chips) 
+Seat 2: veronica1290 ($1.86 in chips) 
+Seat 4: only6-6lol ($0.88 in chips) 
+Seat 5: tadao577 ($2.15 in chips) 
+Seat 6: 8138547 ($3.21 in chips) 
+Seat 7: W.Redragons ($3.78 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: Dt_Hyde1 ($2.09 in chips) 
+gil 123: posts small blind $0.01
+veronica1290: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 4d]
+only6-6lol: folds 
+tadao577: folds 
+8138547: folds 
+W.Redragons: folds 
+Dorex2007: checks 
+Dt_Hyde1: raises $0.08 to $0.10
+gil 123: folds 
+veronica1290: folds 
+Dorex2007: folds 
+Uncalled bet ($0.08) returned to Dt_Hyde1
+Dt_Hyde1 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: gil 123 (small blind) folded before Flop
+Seat 2: veronica1290 (big blind) folded before Flop
+Seat 4: only6-6lol folded before Flop (didn't bet)
+Seat 5: tadao577 folded before Flop (didn't bet)
+Seat 6: 8138547 folded before Flop (didn't bet)
+Seat 7: W.Redragons folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Dt_Hyde1 (button) collected ($0.07)
+
+
+
+PokerStars Hand #237405013669:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 19:19:56 PT [2022/07/16 22:19:56 ET]
+Table 'Thiele III' 9-max Seat #1 is the button
+Seat 1: gil 123 ($1.97 in chips) 
+Seat 2: veronica1290 ($1.84 in chips) 
+Seat 3: I902_Bruno ($0.80 in chips) 
+Seat 4: only6-6lol ($0.88 in chips) 
+Seat 5: tadao577 ($2.15 in chips) 
+Seat 6: 8138547 ($3.21 in chips) 
+Seat 7: W.Redragons ($3.78 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: Dt_Hyde1 ($2.14 in chips) 
+veronica1290: posts small blind $0.01
+I902_Bruno: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Kc]
+only6-6lol: calls $0.02
+tadao577 has timed out
+tadao577: folds 
+8138547: folds 
+W.Redragons: folds 
+Dorex2007: folds 
+Dt_Hyde1: raises $0.08 to $0.10
+gil 123: folds 
+veronica1290: folds 
+I902_Bruno: calls $0.08
+only6-6lol: calls $0.08
+*** FLOP *** [2c 2d Jd]
+I902_Bruno: checks 
+only6-6lol: bets $0.78 and is all-in
+Dt_Hyde1: calls $0.78
+I902_Bruno: folds 
+only6-6lol has timed out
+*** TURN *** [2c 2d Jd] [Tc]
+*** RIVER *** [2c 2d Jd Tc] [Jc]
+*** SHOW DOWN ***
+only6-6lol: shows [4c 9c] (a flush, Jack high)
+Dt_Hyde1: shows [Jh Js] (four of a kind, Jacks)
+Dt_Hyde1 collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.87 | Rake $0.07 
+Board [2c 2d Jd Tc Jc]
+Seat 1: gil 123 (button) folded before Flop (didn't bet)
+Seat 2: veronica1290 (small blind) folded before Flop
+Seat 3: I902_Bruno (big blind) folded on the Flop
+Seat 4: only6-6lol showed [4c 9c] and lost with a flush, Jack high
+Seat 5: tadao577 folded before Flop (didn't bet)
+Seat 6: 8138547 folded before Flop (didn't bet)
+Seat 7: W.Redragons folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Dt_Hyde1 showed [Jh Js] and won ($1.80) with four of a kind, Jacks
+
+
+
+PokerStars Hand #237405027696:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 19:21:13 PT [2022/07/16 22:21:13 ET]
+Table 'Thiele III' 9-max Seat #2 is the button
+Seat 1: gil 123 ($2 in chips) 
+Seat 2: veronica1290 ($1.83 in chips) 
+Seat 3: I902_Bruno ($0.70 in chips) 
+Seat 6: 8138547 ($3.21 in chips) 
+Seat 7: W.Redragons ($3.78 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: Dt_Hyde1 ($3.06 in chips) 
+I902_Bruno: posts small blind $0.01
+8138547: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 2c]
+W.Redragons: folds 
+Dorex2007: folds 
+Dt_Hyde1: folds 
+gil 123: folds 
+veronica1290: folds 
+I902_Bruno: calls $0.01
+8138547: checks 
+*** FLOP *** [9h 8s 6c]
+I902_Bruno: checks 
+8138547: checks 
+*** TURN *** [9h 8s 6c] [8c]
+I902_Bruno: checks 
+8138547: checks 
+*** RIVER *** [9h 8s 6c 8c] [8d]
+I902_Bruno: checks 
+8138547: checks 
+*** SHOW DOWN ***
+I902_Bruno: shows [4s 2s] (three of a kind, Eights)
+8138547: shows [5d Kd] (three of a kind, Eights - King kicker)
+8138547 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [9h 8s 6c 8c 8d]
+Seat 1: gil 123 folded before Flop (didn't bet)
+Seat 2: veronica1290 (button) folded before Flop (didn't bet)
+Seat 3: I902_Bruno (small blind) showed [4s 2s] and lost with three of a kind, Eights
+Seat 6: 8138547 (big blind) showed [5d Kd] and won ($0.04) with three of a kind, Eights
+Seat 7: W.Redragons folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Dt_Hyde1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237405038146:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 19:22:11 PT [2022/07/16 22:22:11 ET]
+Table 'Thiele III' 9-max Seat #3 is the button
+Seat 1: gil 123 ($2 in chips) 
+Seat 2: veronica1290 ($1.83 in chips) 
+Seat 3: I902_Bruno ($0.68 in chips) 
+Seat 6: 8138547 ($3.23 in chips) 
+Seat 7: W.Redragons ($3.78 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: Dt_Hyde1 ($3.06 in chips) 
+8138547: posts small blind $0.01
+W.Redragons: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Ah]
+Dorex2007: folds 
+Dt_Hyde1: folds 
+gil 123: folds 
+veronica1290: folds 
+I902_Bruno: folds 
+8138547: folds 
+Uncalled bet ($0.01) returned to W.Redragons
+W.Redragons collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: gil 123 folded before Flop (didn't bet)
+Seat 2: veronica1290 folded before Flop (didn't bet)
+Seat 3: I902_Bruno (button) folded before Flop (didn't bet)
+Seat 6: 8138547 (small blind) folded before Flop
+Seat 7: W.Redragons (big blind) collected ($0.02)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Dt_Hyde1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237405041001:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 19:22:27 PT [2022/07/16 22:22:27 ET]
+Table 'Thiele III' 9-max Seat #6 is the button
+Seat 1: gil 123 ($2 in chips) 
+Seat 2: veronica1290 ($1.83 in chips) 
+Seat 3: I902_Bruno ($0.68 in chips) 
+Seat 6: 8138547 ($3.22 in chips) 
+Seat 7: W.Redragons ($3.79 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: Dt_Hyde1 ($3.06 in chips) 
+W.Redragons: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s Kh]
+Dt_Hyde1: folds 
+gil 123: folds 
+veronica1290: folds 
+I902_Bruno: folds 
+8138547: raises $0.04 to $0.06
+W.Redragons: folds 
+Dorex2007: folds 
+Uncalled bet ($0.04) returned to 8138547
+8138547 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: gil 123 folded before Flop (didn't bet)
+Seat 2: veronica1290 folded before Flop (didn't bet)
+Seat 3: I902_Bruno folded before Flop (didn't bet)
+Seat 6: 8138547 (button) collected ($0.05)
+Seat 7: W.Redragons (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: Dt_Hyde1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237405044655:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 19:22:47 PT [2022/07/16 22:22:47 ET]
+Table 'Thiele III' 9-max Seat #7 is the button
+Seat 1: gil 123 ($2 in chips) 
+Seat 2: veronica1290 ($1.83 in chips) 
+Seat 3: I902_Bruno ($0.68 in chips) 
+Seat 6: 8138547 ($3.25 in chips) 
+Seat 7: W.Redragons ($3.78 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: Dt_Hyde1 ($3.06 in chips) 
+Dorex2007: posts small blind $0.01
+Dt_Hyde1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 4d]
+gil 123: folds 
+veronica1290: folds 
+gil 123 leaves the table
+I902_Bruno has timed out
+I902_Bruno: folds 
+8138547: folds 
+W.Redragons: folds 
+Dorex2007: folds 
+Uncalled bet ($0.01) returned to Dt_Hyde1
+Dt_Hyde1 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: gil 123 folded before Flop (didn't bet)
+Seat 2: veronica1290 folded before Flop (didn't bet)
+Seat 3: I902_Bruno folded before Flop (didn't bet)
+Seat 6: 8138547 folded before Flop (didn't bet)
+Seat 7: W.Redragons (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: Dt_Hyde1 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #237405049520:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 19:23:13 PT [2022/07/16 22:23:13 ET]
+Table 'Thiele III' 9-max Seat #8 is the button
+Seat 2: veronica1290 ($1.83 in chips) 
+Seat 3: I902_Bruno ($0.68 in chips) 
+Seat 6: 8138547 ($3.25 in chips) 
+Seat 7: W.Redragons ($3.78 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: Dt_Hyde1 ($3.07 in chips) 
+Dt_Hyde1: posts small blind $0.01
+veronica1290: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 5h]
+0kDen joins the table at seat #1 
+I902_Bruno: calls $0.02
+8138547: folds 
+W.Redragons: folds 
+Dorex2007 has timed out
+Dorex2007: folds 
+Dt_Hyde1: folds 
+veronica1290: checks 
+*** FLOP *** [4h 6c 7h]
+veronica1290: checks 
+I902_Bruno: checks 
+*** TURN *** [4h 6c 7h] [6h]
+veronica1290: checks 
+I902_Bruno: checks 
+*** RIVER *** [4h 6c 7h 6h] [Tc]
+veronica1290: checks 
+I902_Bruno: checks 
+*** SHOW DOWN ***
+veronica1290: shows [Qd Kc] (a pair of Sixes)
+I902_Bruno: mucks hand 
+veronica1290 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4h 6c 7h 6h Tc]
+Seat 2: veronica1290 (big blind) showed [Qd Kc] and won ($0.05) with a pair of Sixes
+Seat 3: I902_Bruno mucked [Qh 8c]
+Seat 6: 8138547 folded before Flop (didn't bet)
+Seat 7: W.Redragons folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 9: Dt_Hyde1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237405058607:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 19:24:04 PT [2022/07/16 22:24:04 ET]
+Table 'Thiele III' 9-max Seat #9 is the button
+Seat 2: veronica1290 ($1.86 in chips) 
+Seat 3: I902_Bruno ($0.66 in chips) 
+Seat 6: 8138547 ($3.25 in chips) 
+Seat 7: W.Redragons ($3.78 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: Dt_Hyde1 ($3.06 in chips) 
+veronica1290: posts small blind $0.01
+I902_Bruno: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 2s]
+8138547: raises $0.04 to $0.06
+W.Redragons: folds 
+Dorex2007: folds 
+Dt_Hyde1: folds 
+veronica1290: folds 
+I902_Bruno: calls $0.04
+*** FLOP *** [4c 2h Ac]
+I902_Bruno: bets $0.04
+8138547: calls $0.04
+*** TURN *** [4c 2h Ac] [Ad]
+I902_Bruno: bets $0.04
+8138547: raises $0.06 to $0.10
+I902_Bruno: calls $0.06
+*** RIVER *** [4c 2h Ac Ad] [7d]
+I902_Bruno: bets $0.04
+8138547: folds 
+Uncalled bet ($0.04) returned to I902_Bruno
+I902_Bruno collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [4c 2h Ac Ad 7d]
+Seat 2: veronica1290 (small blind) folded before Flop
+Seat 3: I902_Bruno (big blind) collected ($0.40)
+Seat 6: 8138547 folded on the River
+Seat 7: W.Redragons folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Dt_Hyde1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237405070600:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 19:25:11 PT [2022/07/16 22:25:11 ET]
+Table 'Thiele III' 9-max Seat #2 is the button
+Seat 1: 0kDen ($0.80 in chips) 
+Seat 2: veronica1290 ($1.85 in chips) 
+Seat 3: I902_Bruno ($0.86 in chips) 
+Seat 5: tadao577 ($2.15 in chips) 
+Seat 6: 8138547 ($3.05 in chips) 
+Seat 7: W.Redragons ($3.78 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: Dt_Hyde1 ($3.06 in chips) 
+I902_Bruno: posts small blind $0.01
+tadao577: posts big blind $0.02
+0kDen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 9c]
+8138547: folds 
+W.Redragons: folds 
+Dorex2007: folds 
+Dt_Hyde1: folds 
+0kDen: checks 
+veronica1290: folds 
+I902_Bruno: folds 
+tadao577: checks 
+*** FLOP *** [Kd 2s 5h]
+tadao577: checks 
+0kDen: checks 
+*** TURN *** [Kd 2s 5h] [7h]
+tadao577: checks 
+0kDen: checks 
+*** RIVER *** [Kd 2s 5h 7h] [9s]
+tadao577: checks 
+0kDen: checks 
+*** SHOW DOWN ***
+tadao577: shows [Jc Ts] (high card King)
+0kDen: shows [2c Js] (a pair of Deuces)
+0kDen collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Kd 2s 5h 7h 9s]
+Seat 1: 0kDen showed [2c Js] and won ($0.05) with a pair of Deuces
+Seat 2: veronica1290 (button) folded before Flop (didn't bet)
+Seat 3: I902_Bruno (small blind) folded before Flop
+Seat 5: tadao577 (big blind) showed [Jc Ts] and lost with high card King
+Seat 6: 8138547 folded before Flop (didn't bet)
+Seat 7: W.Redragons folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Dt_Hyde1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237405077905:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 19:25:51 PT [2022/07/16 22:25:51 ET]
+Table 'Thiele III' 9-max Seat #3 is the button
+Seat 1: 0kDen ($0.83 in chips) 
+Seat 2: veronica1290 ($1.85 in chips) 
+Seat 3: I902_Bruno ($0.85 in chips) 
+Seat 5: tadao577 ($2.13 in chips) 
+Seat 6: 8138547 ($3.05 in chips) 
+Seat 7: W.Redragons ($3.78 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: Dt_Hyde1 ($3.06 in chips) 
+tadao577: posts small blind $0.01
+8138547: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 5h]
+W.Redragons: folds 
+Dorex2007: folds 
+Dt_Hyde1: folds 
+0kDen: raises $0.04 to $0.06
+veronica1290: folds 
+I902_Bruno: calls $0.06
+tadao577: folds 
+8138547: folds 
+*** FLOP *** [Ts 2h Qs]
+0kDen: bets $0.11
+I902_Bruno: folds 
+Uncalled bet ($0.11) returned to 0kDen
+0kDen collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ts 2h Qs]
+Seat 1: 0kDen collected ($0.14)
+Seat 2: veronica1290 folded before Flop (didn't bet)
+Seat 3: I902_Bruno (button) folded on the Flop
+Seat 5: tadao577 (small blind) folded before Flop
+Seat 6: 8138547 (big blind) folded before Flop
+Seat 7: W.Redragons folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Dt_Hyde1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237405088692:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 19:26:52 PT [2022/07/16 22:26:52 ET]
+Table 'Thiele III' 9-max Seat #5 is the button
+Seat 1: 0kDen ($0.91 in chips) 
+Seat 2: veronica1290 ($1.85 in chips) 
+Seat 3: I902_Bruno ($0.79 in chips) 
+Seat 5: tadao577 ($2.12 in chips) 
+Seat 6: 8138547 ($3.03 in chips) 
+Seat 7: W.Redragons ($3.78 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: Dt_Hyde1 ($3.06 in chips) 
+8138547: posts small blind $0.01
+W.Redragons: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Ac]
+Dorex2007: folds 
+Dt_Hyde1: folds 
+0kDen: calls $0.02
+veronica1290: folds 
+I902_Bruno: folds 
+tadao577: calls $0.02
+8138547: folds 
+W.Redragons: checks 
+*** FLOP *** [9d Th 4h]
+W.Redragons: checks 
+0kDen: bets $0.03
+tadao577: folds 
+W.Redragons: folds 
+Uncalled bet ($0.03) returned to 0kDen
+0kDen collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [9d Th 4h]
+Seat 1: 0kDen collected ($0.07)
+Seat 2: veronica1290 folded before Flop (didn't bet)
+Seat 3: I902_Bruno folded before Flop (didn't bet)
+Seat 5: tadao577 (button) folded on the Flop
+Seat 6: 8138547 (small blind) folded before Flop
+Seat 7: W.Redragons (big blind) folded on the Flop
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Dt_Hyde1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237405093188:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 19:27:17 PT [2022/07/16 22:27:17 ET]
+Table 'Thiele III' 9-max Seat #6 is the button
+Seat 1: 0kDen ($0.96 in chips) 
+Seat 2: veronica1290 ($1.85 in chips) 
+Seat 3: I902_Bruno ($0.79 in chips) 
+Seat 5: tadao577 ($2.10 in chips) 
+Seat 6: 8138547 ($3.02 in chips) 
+Seat 7: W.Redragons ($3.76 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: Dt_Hyde1 ($3.06 in chips) 
+W.Redragons: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 5c]
+Dt_Hyde1: folds 
+0kDen: folds 
+veronica1290: folds 
+I902_Bruno: calls $0.02
+tadao577: folds 
+8138547: raises $0.04 to $0.06
+W.Redragons: folds 
+Dorex2007: folds 
+I902_Bruno: calls $0.04
+*** FLOP *** [Qh 5s 6h]
+I902_Bruno: checks 
+8138547: bets $0.08
+I902_Bruno: calls $0.08
+*** TURN *** [Qh 5s 6h] [3h]
+I902_Bruno: checks 
+8138547: checks 
+*** RIVER *** [Qh 5s 6h 3h] [Js]
+I902_Bruno: bets $0.65 and is all-in
+8138547: folds 
+Uncalled bet ($0.65) returned to I902_Bruno
+I902_Bruno collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Qh 5s 6h 3h Js]
+Seat 1: 0kDen folded before Flop (didn't bet)
+Seat 2: veronica1290 folded before Flop (didn't bet)
+Seat 3: I902_Bruno collected ($0.30)
+Seat 5: tadao577 folded before Flop (didn't bet)
+Seat 6: 8138547 (button) folded on the River
+Seat 7: W.Redragons (small blind) folded before Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: Dt_Hyde1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237405103320:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 19:28:15 PT [2022/07/16 22:28:15 ET]
+Table 'Thiele III' 9-max Seat #7 is the button
+Seat 1: 0kDen ($0.96 in chips) 
+Seat 2: veronica1290 ($1.85 in chips) 
+Seat 3: I902_Bruno ($0.95 in chips) 
+Seat 5: tadao577 ($2.10 in chips) 
+Seat 6: 8138547 ($2.88 in chips) 
+Seat 7: W.Redragons ($3.75 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: Dt_Hyde1 ($3.06 in chips) 
+Dorex2007: posts small blind $0.01
+Dt_Hyde1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Js]
+0kDen: raises $0.04 to $0.06
+veronica1290: folds 
+I902_Bruno: calls $0.06
+tadao577: folds 
+8138547: folds 
+W.Redragons: folds 
+Dorex2007: folds 
+Dt_Hyde1: folds 
+*** FLOP *** [Jd 2h As]
+0kDen: bets $0.14
+I902_Bruno: folds 
+Uncalled bet ($0.14) returned to 0kDen
+0kDen collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Jd 2h As]
+Seat 1: 0kDen collected ($0.14)
+Seat 2: veronica1290 folded before Flop (didn't bet)
+Seat 3: I902_Bruno folded on the Flop
+Seat 5: tadao577 folded before Flop (didn't bet)
+Seat 6: 8138547 folded before Flop (didn't bet)
+Seat 7: W.Redragons (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: Dt_Hyde1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237405111801:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 19:29:03 PT [2022/07/16 22:29:03 ET]
+Table 'Thiele III' 9-max Seat #8 is the button
+Seat 1: 0kDen ($1.04 in chips) 
+Seat 2: veronica1290 ($1.85 in chips) 
+Seat 3: I902_Bruno ($0.89 in chips) 
+Seat 5: tadao577 ($2.10 in chips) 
+Seat 6: 8138547 ($2.88 in chips) 
+Seat 7: W.Redragons ($3.75 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: Dt_Hyde1 ($3.04 in chips) 
+Dt_Hyde1: posts small blind $0.01
+0kDen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Kh]
+veronica1290: folds 
+I902_Bruno: calls $0.02
+tadao577: folds 
+8138547: folds 
+W.Redragons: folds 
+Dorex2007: raises $0.04 to $0.06
+Dt_Hyde1: raises $0.12 to $0.18
+0kDen: folds 
+I902_Bruno: calls $0.16
+Dorex2007: folds 
+*** FLOP *** [7d Jc 2h]
+Dt_Hyde1: bets $0.25
+I902_Bruno: calls $0.25
+*** TURN *** [7d Jc 2h] [4c]
+Dt_Hyde1: bets $0.55
+I902_Bruno: calls $0.46 and is all-in
+Uncalled bet ($0.09) returned to Dt_Hyde1
+*** RIVER *** [7d Jc 2h 4c] [4s]
+*** SHOW DOWN ***
+Dt_Hyde1: shows [Jh Jd] (a full house, Jacks full of Fours)
+I902_Bruno: shows [9d 8d] (a pair of Fours)
+Dt_Hyde1 collected $1.79 from pot
+I902_Bruno cashed out the hand for $0.16
+*** SUMMARY ***
+Total pot $1.86 | Rake $0.07 
+Board [7d Jc 2h 4c 4s]
+Seat 1: 0kDen (big blind) folded before Flop
+Seat 2: veronica1290 folded before Flop (didn't bet)
+Seat 3: I902_Bruno showed [9d 8d] and lost with a pair of Fours (cashed out).
+Seat 5: tadao577 folded before Flop (didn't bet)
+Seat 6: 8138547 folded before Flop (didn't bet)
+Seat 7: W.Redragons folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) folded before Flop
+Seat 9: Dt_Hyde1 (small blind) showed [Jh Jd] and won ($1.79) with a full house, Jacks full of Fours
+
+
+
+PokerStars Hand #237405123202:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 19:30:08 PT [2022/07/16 22:30:08 ET]
+Table 'Thiele III' 9-max Seat #9 is the button
+Seat 1: 0kDen ($1.02 in chips) 
+Seat 2: veronica1290 ($1.85 in chips) 
+Seat 3: I902_Bruno ($0.16 in chips) 
+Seat 5: tadao577 ($2.10 in chips) 
+Seat 6: 8138547 ($2.88 in chips) 
+Seat 7: W.Redragons ($3.75 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: Dt_Hyde1 ($3.94 in chips) 
+0kDen: posts small blind $0.01
+veronica1290: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 7d]
+I902_Bruno: calls $0.02
+tadao577: calls $0.02
+8138547: folds 
+W.Redragons: raises $0.04 to $0.06
+Dorex2007: folds 
+Dt_Hyde1: raises $0.12 to $0.18
+0kDen: folds 
+veronica1290: folds 
+I902_Bruno: folds 
+tadao577: folds 
+W.Redragons: calls $0.12
+*** FLOP *** [4h Td Tc]
+W.Redragons: checks 
+Dt_Hyde1: checks 
+*** TURN *** [4h Td Tc] [9d]
+W.Redragons: bets $0.08
+Dt_Hyde1: calls $0.08
+*** RIVER *** [4h Td Tc 9d] [3c]
+W.Redragons: bets $0.11
+Dt_Hyde1: calls $0.11
+*** SHOW DOWN ***
+W.Redragons: shows [8h 8c] (two pair, Tens and Eights)
+Dt_Hyde1: mucks hand 
+W.Redragons collected $0.78 from pot
+*** SUMMARY ***
+Total pot $0.81 | Rake $0.03 
+Board [4h Td Tc 9d 3c]
+Seat 1: 0kDen (small blind) folded before Flop
+Seat 2: veronica1290 (big blind) folded before Flop
+Seat 3: I902_Bruno folded before Flop
+Seat 5: tadao577 folded before Flop
+Seat 6: 8138547 folded before Flop (didn't bet)
+Seat 7: W.Redragons showed [8h 8c] and won ($0.78) with two pair, Tens and Eights
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Dt_Hyde1 (button) mucked [Kc Ac]
+
+
+
+PokerStars Hand #237405133437:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 19:31:06 PT [2022/07/16 22:31:06 ET]
+Table 'Thiele III' 9-max Seat #1 is the button
+Seat 1: 0kDen ($1.01 in chips) 
+Seat 2: veronica1290 ($1.83 in chips) 
+Seat 3: I902_Bruno ($0.14 in chips) 
+Seat 5: tadao577 ($2.08 in chips) 
+Seat 6: 8138547 ($2.88 in chips) 
+Seat 7: W.Redragons ($4.16 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: Dt_Hyde1 ($3.57 in chips) 
+veronica1290: posts small blind $0.01
+I902_Bruno: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Js]
+tadao577: calls $0.02
+8138547: calls $0.02
+W.Redragons: folds 
+Dorex2007: folds 
+Dt_Hyde1: calls $0.02
+0kDen: calls $0.02
+veronica1290: folds 
+I902_Bruno: checks 
+*** FLOP *** [3d 8c 8s]
+I902_Bruno: bets $0.12 and is all-in
+tadao577: folds 
+8138547: folds 
+Dt_Hyde1: folds 
+0kDen: calls $0.12
+*** TURN *** [3d 8c 8s] [4h]
+*** RIVER *** [3d 8c 8s 4h] [6s]
+*** SHOW DOWN ***
+I902_Bruno: shows [3c 5h] (two pair, Eights and Threes)
+0kDen: shows [8d Jd] (three of a kind, Eights)
+0kDen collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [3d 8c 8s 4h 6s]
+Seat 1: 0kDen (button) showed [8d Jd] and won ($0.34) with three of a kind, Eights
+Seat 2: veronica1290 (small blind) folded before Flop
+Seat 3: I902_Bruno (big blind) showed [3c 5h] and lost with two pair, Eights and Threes
+Seat 5: tadao577 folded on the Flop
+Seat 6: 8138547 folded on the Flop
+Seat 7: W.Redragons folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Dt_Hyde1 folded on the Flop
+
+
+
+PokerStars Hand #237405142933:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 19:32:01 PT [2022/07/16 22:32:01 ET]
+Table 'Thiele III' 9-max Seat #2 is the button
+Seat 1: 0kDen ($1.21 in chips) 
+Seat 2: veronica1290 ($1.82 in chips) 
+Seat 5: tadao577 ($2.06 in chips) 
+Seat 6: 8138547 ($2.86 in chips) 
+Seat 7: W.Redragons ($4.16 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: Dt_Hyde1 ($3.55 in chips) 
+tadao577: posts small blind $0.01
+8138547: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 4s]
+W.Redragons: folds 
+Dorex2007 has timed out
+Dorex2007: folds 
+Dt_Hyde1: folds 
+0kDen: calls $0.02
+veronica1290: folds 
+tadao577: calls $0.01
+8138547: checks 
+*** FLOP *** [9c 8h Js]
+tadao577: checks 
+8138547: checks 
+0kDen: bets $0.03
+tadao577: calls $0.03
+8138547: calls $0.03
+*** TURN *** [9c 8h Js] [6h]
+tadao577: checks 
+8138547: checks 
+0kDen: bets $0.07
+tadao577: calls $0.07
+8138547: folds 
+*** RIVER *** [9c 8h Js 6h] [7s]
+tadao577: checks 
+0kDen: checks 
+*** SHOW DOWN ***
+tadao577: shows [9d Qh] (a pair of Nines)
+0kDen: shows [4h Jh] (a pair of Jacks)
+0kDen collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [9c 8h Js 6h 7s]
+Seat 1: 0kDen showed [4h Jh] and won ($0.28) with a pair of Jacks
+Seat 2: veronica1290 (button) folded before Flop (didn't bet)
+Seat 5: tadao577 (small blind) showed [9d Qh] and lost with a pair of Nines
+Seat 6: 8138547 (big blind) folded on the Turn
+Seat 7: W.Redragons folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Dt_Hyde1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237405174085:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 19:34:11 PT [2022/07/16 22:34:11 ET]
+Table 'Thiele III' 9-max Seat #6 is the button
+Seat 1: 0kDen ($1.37 in chips) 
+Seat 3: I902_Bruno ($1.27 in chips) 
+Seat 5: tadao577 ($1.99 in chips) 
+Seat 6: 8138547 ($2.79 in chips) 
+Seat 7: W.Redragons ($4.14 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: Dt_Hyde1 ($3.55 in chips) 
+W.Redragons: posts small blind $0.01
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 2s]
+Dt_Hyde1: folds 
+0kDen has timed out
+0kDen: folds 
+I902_Bruno: calls $0.02
+tadao577: calls $0.02
+8138547: folds 
+W.Redragons: raises $0.04 to $0.06
+Dorex2007: folds 
+I902_Bruno: calls $0.04
+tadao577: calls $0.04
+*** FLOP *** [7d 8s 5h]
+W.Redragons: bets $0.04
+I902_Bruno: raises $0.27 to $0.31
+tadao577: folds 
+W.Redragons: folds 
+Uncalled bet ($0.27) returned to I902_Bruno
+I902_Bruno collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [7d 8s 5h]
+Seat 1: 0kDen folded before Flop (didn't bet)
+Seat 3: I902_Bruno collected ($0.27)
+Seat 5: tadao577 folded on the Flop
+Seat 6: 8138547 (button) folded before Flop (didn't bet)
+Seat 7: W.Redragons (small blind) folded on the Flop
+Seat 8: Dorex2007 (big blind) folded before Flop
+Seat 9: Dt_Hyde1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237405184607:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 19:35:07 PT [2022/07/16 22:35:07 ET]
+Table 'Thiele III' 9-max Seat #7 is the button
+Seat 1: 0kDen ($1.37 in chips) 
+Seat 3: I902_Bruno ($1.44 in chips) 
+Seat 5: tadao577 ($1.93 in chips) 
+Seat 6: 8138547 ($2.79 in chips) 
+Seat 7: W.Redragons ($4.04 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: Dt_Hyde1 ($3.55 in chips) 
+Dorex2007: posts small blind $0.01
+Dt_Hyde1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 9s]
+0kDen: raises $0.02 to $0.04
+I902_Bruno: calls $0.04
+tadao577: calls $0.04
+8138547: folds 
+W.Redragons: folds 
+Dorex2007: folds 
+Dt_Hyde1: folds 
+*** FLOP *** [6h 2h 5c]
+0kDen: bets $0.07
+I902_Bruno: folds 
+tadao577: calls $0.07
+*** TURN *** [6h 2h 5c] [7s]
+0kDen: bets $0.14
+tadao577: calls $0.14
+*** RIVER *** [6h 2h 5c 7s] [5d]
+0kDen: bets $0.27
+tadao577: folds 
+Uncalled bet ($0.27) returned to 0kDen
+0kDen collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [6h 2h 5c 7s 5d]
+Seat 1: 0kDen collected ($0.55)
+Seat 3: I902_Bruno folded on the Flop
+Seat 5: tadao577 folded on the River
+Seat 6: 8138547 folded before Flop (didn't bet)
+Seat 7: W.Redragons (button) folded before Flop (didn't bet)
+Seat 8: Dorex2007 (small blind) folded before Flop
+Seat 9: Dt_Hyde1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237405193865:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 19:36:00 PT [2022/07/16 22:36:00 ET]
+Table 'Thiele III' 9-max Seat #8 is the button
+Seat 1: 0kDen ($1.67 in chips) 
+Seat 3: I902_Bruno ($1.40 in chips) 
+Seat 5: tadao577 ($1.68 in chips) 
+Seat 6: 8138547 ($2.79 in chips) 
+Seat 7: W.Redragons ($4.04 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: Dt_Hyde1 ($3.53 in chips) 
+Dt_Hyde1: posts small blind $0.01
+0kDen: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Kh]
+I902_Bruno: calls $0.02
+tadao577: calls $0.02
+8138547: folds 
+W.Redragons: folds 
+Dorex2007: calls $0.02
+Dt_Hyde1: folds 
+0kDen: checks 
+*** FLOP *** [7s 2d 3c]
+0kDen: checks 
+I902_Bruno: checks 
+tadao577: checks 
+Dorex2007: checks 
+*** TURN *** [7s 2d 3c] [Kc]
+0kDen: bets $0.04
+I902_Bruno: calls $0.04
+tadao577: folds 
+Dorex2007: raises $0.11 to $0.15
+0kDen: folds 
+I902_Bruno: calls $0.11
+*** RIVER *** [7s 2d 3c Kc] [Ad]
+W.Redragons leaves the table
+0kDen leaves the table
+I902_Bruno: bets $0.20
+Dorex2007: raises $0.34 to $0.54
+I902_Bruno: calls $0.34
+*** SHOW DOWN ***
+Dorex2007: shows [Jc Kh] (a pair of Kings)
+I902_Bruno: shows [Kd As] (two pair, Aces and Kings)
+I902_Bruno collected $1.46 from pot
+*** SUMMARY ***
+Total pot $1.51 | Rake $0.05 
+Board [7s 2d 3c Kc Ad]
+Seat 1: 0kDen (big blind) folded on the Turn
+Seat 3: I902_Bruno showed [Kd As] and won ($1.46) with two pair, Aces and Kings
+Seat 5: tadao577 folded on the Turn
+Seat 6: 8138547 folded before Flop (didn't bet)
+Seat 7: W.Redragons folded before Flop (didn't bet)
+Seat 8: Dorex2007 (button) showed [Jc Kh] and lost with a pair of Kings
+Seat 9: Dt_Hyde1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237405206942:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/07/16 19:37:17 PT [2022/07/16 22:37:17 ET]
+Table 'Thiele III' 9-max Seat #9 is the button
+Seat 3: I902_Bruno ($2.15 in chips) 
+Seat 5: tadao577 ($1.66 in chips) 
+Seat 6: 8138547 ($2.79 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: Dt_Hyde1 ($3.52 in chips) 
+I902_Bruno: posts small blind $0.01
+tadao577: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Ts]
+8138547: folds 
+Dorex2007: folds 
+Dt_Hyde1: folds 
+I902_Bruno: calls $0.01
+tadao577: checks 
+*** FLOP *** [Ah As 2s]
+I902_Bruno: checks 
+tadao577: checks 
+*** TURN *** [Ah As 2s] [Jh]
+I902_Bruno: checks 
+tadao577: checks 
+*** RIVER *** [Ah As 2s Jh] [8h]
+I902_Bruno: checks 
+tadao577: checks 
+*** SHOW DOWN ***
+I902_Bruno: shows [8d Qh] (two pair, Aces and Eights)
+tadao577: shows [7h Jd] (two pair, Aces and Jacks)
+tadao577 collected $0.04 from pot
+only6-6lol leaves the table
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Ah As 2s Jh 8h]
+Seat 3: I902_Bruno (small blind) showed [8d Qh] and lost with two pair, Aces and Eights
+Seat 5: tadao577 (big blind) showed [7h Jd] and won ($0.04) with two pair, Aces and Jacks
+Seat 6: 8138547 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded before Flop (didn't bet)
+Seat 9: Dt_Hyde1 (button) folded before Flop (didn't bet)
+
+
+

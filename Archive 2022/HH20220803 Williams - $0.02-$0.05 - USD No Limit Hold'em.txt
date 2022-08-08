@@ -1,0 +1,5390 @@
+﻿PokerStars Hand #237770352862:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 13:46:51 PT [2022/08/03 16:46:51 ET]
+Table 'Williams' 9-max Seat #1 is the button
+Seat 1: lauraman ($4.83 in chips) 
+Seat 2: riskas08 ($4.57 in chips) 
+Seat 3: Count Mole ($5 in chips) 
+Seat 4: Arjaayy ($4.10 in chips) 
+Seat 5: maskch ($5.84 in chips) 
+Seat 6: kyl3r96 ($4 in chips) 
+Seat 7: megtorlo2244 ($8.10 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+riskas08: posts small blind $0.02
+Count Mole: posts big blind $0.05
+kyl3r96: posts big blind $0.05
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 6d]
+Arjaayy: folds 
+Arjaayy leaves the table
+maskch: folds 
+kyl3r96: checks 
+megtorlo2244: folds 
+Dorex2007: checks 
+lauraman: folds 
+riskas08: calls $0.03
+Count Mole: checks 
+*** FLOP *** [4h Tc Ks]
+riskas08: checks 
+Count Mole: checks 
+kyl3r96: checks 
+Dorex2007: checks 
+*** TURN *** [4h Tc Ks] [Ah]
+riskas08: checks 
+Count Mole: checks 
+kyl3r96: checks 
+Dorex2007: checks 
+*** RIVER *** [4h Tc Ks Ah] [2c]
+riskas08: checks 
+Count Mole: checks 
+kyl3r96: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+riskas08: shows [7c 8s] (high card Ace)
+Count Mole: shows [6s 4c] (a pair of Fours)
+kyl3r96: mucks hand 
+Dorex2007: mucks hand 
+Count Mole collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [4h Tc Ks Ah 2c]
+Seat 1: lauraman (button) folded before Flop (didn't bet)
+Seat 2: riskas08 (small blind) showed [7c 8s] and lost with high card Ace
+Seat 3: Count Mole (big blind) showed [6s 4c] and won ($0.19) with a pair of Fours
+Seat 4: Arjaayy folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: kyl3r96 mucked [2h 9c]
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 9: Dorex2007 mucked [Qd 6d]
+
+
+
+PokerStars Hand #237770383448:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 13:48:11 PT [2022/08/03 16:48:11 ET]
+Table 'Williams' 9-max Seat #2 is the button
+Seat 1: lauraman ($4.83 in chips) 
+Seat 2: riskas08 ($4.52 in chips) 
+Seat 3: Count Mole ($5.14 in chips) 
+Seat 5: maskch ($5.84 in chips) 
+Seat 6: kyl3r96 ($3.95 in chips) 
+Seat 7: megtorlo2244 ($8.10 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+Count Mole: posts small blind $0.02
+maskch: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 2d]
+kyl3r96: folds 
+megtorlo2244: folds 
+Seiti25 joins the table at seat #8 
+Dorex2007: folds 
+lauraman: raises $0.10 to $0.15
+riskas08: calls $0.15
+Count Mole: raises $0.30 to $0.45
+maskch: folds 
+matschus666 joins the table at seat #4 
+lauraman: folds 
+riskas08: calls $0.30
+*** FLOP *** [4c 2h 2s]
+Count Mole: bets $0.69
+riskas08: raises $3.38 to $4.07 and is all-in
+Count Mole: folds 
+Uncalled bet ($3.38) returned to riskas08
+riskas08 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.48 | Rake $0.10 
+Board [4c 2h 2s]
+Seat 1: lauraman folded before Flop
+Seat 2: riskas08 (button) collected ($2.38)
+Seat 3: Count Mole (small blind) folded on the Flop
+Seat 5: maskch (big blind) folded before Flop
+Seat 6: kyl3r96 folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770402446:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 13:49:00 PT [2022/08/03 16:49:00 ET]
+Table 'Williams' 9-max Seat #3 is the button
+Seat 1: lauraman ($4.68 in chips) 
+Seat 2: riskas08 ($5.76 in chips) 
+Seat 3: Count Mole ($5 in chips) 
+Seat 5: maskch ($5.79 in chips) 
+Seat 6: kyl3r96 ($3.95 in chips) 
+Seat 7: megtorlo2244 ($8.10 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+maskch: posts small blind $0.02
+kyl3r96: posts big blind $0.05
+Seiti25: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 9h]
+megtorlo2244: folds 
+Dorex2007: folds 
+lauraman: folds 
+riskas08: calls $0.05
+Count Mole: raises $0.10 to $0.15
+maskch: calls $0.13
+kyl3r96: calls $0.10
+riskas08: calls $0.10
+*** FLOP *** [7s 7h 2c]
+maskch: checks 
+kyl3r96: checks 
+riskas08: checks 
+Count Mole: bets $0.38
+maskch: folds 
+kyl3r96: folds 
+riskas08: folds 
+Uncalled bet ($0.38) returned to Count Mole
+Count Mole collected $0.58 from pot
+Count Mole: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [7s 7h 2c]
+Seat 1: lauraman folded before Flop (didn't bet)
+Seat 2: riskas08 folded on the Flop
+Seat 3: Count Mole (button) collected ($0.58)
+Seat 5: maskch (small blind) folded on the Flop
+Seat 6: kyl3r96 (big blind) folded on the Flop
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770433928:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 13:50:00 PT [2022/08/03 16:50:00 ET]
+Table 'Williams' 9-max Seat #5 is the button
+Seat 1: lauraman ($4.68 in chips) 
+Seat 2: riskas08 ($5.61 in chips) 
+Seat 3: Count Mole ($5.43 in chips) 
+Seat 4: matschus666 ($5 in chips) 
+Seat 5: maskch ($5.64 in chips) 
+Seat 6: kyl3r96 ($3.80 in chips) 
+Seat 7: megtorlo2244 ($8.10 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+kyl3r96: posts small blind $0.02
+megtorlo2244: posts big blind $0.05
+Seiti25: sits out 
+matschus666: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 3h]
+Dorex2007: folds 
+lauraman: folds 
+riskas08: folds 
+Count Mole: folds 
+matschus666: raises $0.05 to $0.10
+maskch: folds 
+kyl3r96: calls $0.08
+megtorlo2244: folds 
+*** FLOP *** [Ac Tc Kc]
+kyl3r96: checks 
+matschus666: bets $0.10
+kyl3r96: calls $0.10
+*** TURN *** [Ac Tc Kc] [5s]
+kyl3r96: bets $0.05
+matschus666: raises $0.15 to $0.20
+kyl3r96: calls $0.15
+*** RIVER *** [Ac Tc Kc 5s] [Ad]
+kyl3r96: bets $3.40 and is all-in
+riskas08 is disconnected 
+matschus666: calls $3.40
+*** SHOW DOWN ***
+kyl3r96: shows [4d 8d] (a pair of Aces)
+matschus666: shows [As 8h] (three of a kind, Aces)
+matschus666 collected $7.25 from pot
+*** SUMMARY ***
+Total pot $7.65 | Rake $0.40 
+Board [Ac Tc Kc 5s Ad]
+Seat 1: lauraman folded before Flop (didn't bet)
+Seat 2: riskas08 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: matschus666 showed [As 8h] and won ($7.25) with three of a kind, Aces
+Seat 5: maskch (button) folded before Flop (didn't bet)
+Seat 6: kyl3r96 (small blind) showed [4d 8d] and lost with a pair of Aces
+Seat 7: megtorlo2244 (big blind) folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770456359:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 13:50:59 PT [2022/08/03 16:50:59 ET]
+Table 'Williams' 9-max Seat #7 is the button
+Seat 1: lauraman ($4.68 in chips) 
+Seat 3: Count Mole ($5.43 in chips) 
+Seat 4: matschus666 ($8.45 in chips) 
+Seat 5: maskch ($5.64 in chips) 
+Seat 7: megtorlo2244 ($8.05 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+Dorex2007: posts small blind $0.02
+lauraman: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 2c]
+Count Mole: folds 
+matschus666: folds 
+kyl3r96 is disconnected 
+maskch: folds 
+megtorlo2244: raises $0.10 to $0.15
+Dorex2007: folds 
+lauraman: folds 
+Uncalled bet ($0.10) returned to megtorlo2244
+megtorlo2244 collected $0.12 from pot
+megtorlo2244: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: lauraman (big blind) folded before Flop
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: matschus666 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 7: megtorlo2244 (button) collected ($0.12)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237770461946:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 13:51:13 PT [2022/08/03 16:51:13 ET]
+Table 'Williams' 9-max Seat #9 is the button
+Seat 1: lauraman ($4.63 in chips) 
+Seat 3: Count Mole ($5.43 in chips) 
+Seat 4: matschus666 ($8.45 in chips) 
+Seat 5: maskch ($5.64 in chips) 
+Seat 7: megtorlo2244 ($8.12 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+lauraman: posts small blind $0.02
+Count Mole: posts big blind $0.05
+Seiti25: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 3d]
+matschus666: raises $0.05 to $0.10
+maskch: folds 
+megtorlo2244: folds 
+Dorex2007: folds 
+lauraman: folds 
+Count Mole: folds 
+Uncalled bet ($0.05) returned to matschus666
+matschus666 collected $0.12 from pot
+matschus666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: lauraman (small blind) folded before Flop
+Seat 3: Count Mole (big blind) folded before Flop
+Seat 4: matschus666 collected ($0.12)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770474286:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 13:51:29 PT [2022/08/03 16:51:29 ET]
+Table 'Williams' 9-max Seat #1 is the button
+Seat 1: lauraman ($4.61 in chips) 
+Seat 3: Count Mole ($5.38 in chips) 
+Seat 4: matschus666 ($8.52 in chips) 
+Seat 5: maskch ($5.64 in chips) 
+Seat 7: megtorlo2244 ($8.12 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+Count Mole: posts small blind $0.02
+matschus666: posts big blind $0.05
+Seiti25: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 6s]
+maskch: folds 
+megtorlo2244: folds 
+Dorex2007: folds 
+lauraman: raises $0.10 to $0.15
+Count Mole: folds 
+matschus666: folds 
+Uncalled bet ($0.10) returned to lauraman
+lauraman collected $0.12 from pot
+lauraman: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: lauraman (button) collected ($0.12)
+Seat 3: Count Mole (small blind) folded before Flop
+Seat 4: matschus666 (big blind) folded before Flop
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770483739:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 13:51:54 PT [2022/08/03 16:51:54 ET]
+Table 'Williams' 9-max Seat #3 is the button
+Seat 1: lauraman ($4.68 in chips) 
+Seat 3: Count Mole ($5.36 in chips) 
+Seat 4: matschus666 ($8.47 in chips) 
+Seat 5: maskch ($5.64 in chips) 
+Seat 7: megtorlo2244 ($8.12 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+matschus666: posts small blind $0.02
+maskch: posts big blind $0.05
+Seiti25: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Qd]
+megtorlo2244: raises $0.10 to $0.15
+Dorex2007: folds 
+lauraman: calls $0.15
+Count Mole: folds 
+matschus666: folds 
+maskch: calls $0.10
+*** FLOP *** [Td Ts 4h]
+maskch: checks 
+megtorlo2244: checks 
+lauraman: checks 
+*** TURN *** [Td Ts 4h] [3d]
+maskch: checks 
+megtorlo2244: checks 
+lauraman: checks 
+*** RIVER *** [Td Ts 4h 3d] [5c]
+maskch: checks 
+megtorlo2244: checks 
+lauraman: bets $0.22
+maskch: calls $0.22
+megtorlo2244: folds 
+*** SHOW DOWN ***
+lauraman: shows [5s 5d] (a full house, Fives full of Tens)
+maskch: mucks hand 
+lauraman collected $0.87 from pot
+*** SUMMARY ***
+Total pot $0.91 | Rake $0.04 
+Board [Td Ts 4h 3d 5c]
+Seat 1: lauraman showed [5s 5d] and won ($0.87) with a full house, Fives full of Tens
+Seat 3: Count Mole (button) folded before Flop (didn't bet)
+Seat 4: matschus666 (small blind) folded before Flop
+Seat 5: maskch (big blind) mucked [3c 2c]
+Seat 7: megtorlo2244 folded on the River
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770516226:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 13:53:19 PT [2022/08/03 16:53:19 ET]
+Table 'Williams' 9-max Seat #4 is the button
+Seat 1: lauraman ($5.18 in chips) 
+Seat 3: Count Mole ($5.36 in chips) 
+Seat 4: matschus666 ($8.45 in chips) 
+Seat 5: maskch ($5.27 in chips) 
+Seat 7: megtorlo2244 ($7.97 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+maskch: posts small blind $0.02
+megtorlo2244: posts big blind $0.05
+Seiti25: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 7c]
+Dorex2007: folds 
+lauraman: folds 
+Count Mole: raises $0.10 to $0.15
+matschus666: folds 
+maskch: folds 
+megtorlo2244: calls $0.10
+*** FLOP *** [Tc 4d Js]
+megtorlo2244: checks 
+Count Mole: bets $0.20
+megtorlo2244: calls $0.20
+*** TURN *** [Tc 4d Js] [As]
+megtorlo2244: checks 
+Count Mole: bets $0.46
+megtorlo2244: calls $0.46
+*** RIVER *** [Tc 4d Js As] [4s]
+megtorlo2244: checks 
+Count Mole: bets $1.57
+megtorlo2244: folds 
+Uncalled bet ($1.57) returned to Count Mole
+Count Mole collected $1.57 from pot
+Count Mole: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.64 | Rake $0.07 
+Board [Tc 4d Js As 4s]
+Seat 1: lauraman folded before Flop (didn't bet)
+Seat 3: Count Mole collected ($1.57)
+Seat 4: matschus666 (button) folded before Flop (didn't bet)
+Seat 5: maskch (small blind) folded before Flop
+Seat 7: megtorlo2244 (big blind) folded on the River
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770545911:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 13:54:37 PT [2022/08/03 16:54:37 ET]
+Table 'Williams' 9-max Seat #5 is the button
+Seat 1: lauraman ($5.18 in chips) 
+Seat 3: Count Mole ($6.12 in chips) 
+Seat 4: matschus666 ($8.45 in chips) 
+Seat 5: maskch ($5.25 in chips) 
+Seat 7: megtorlo2244 ($7.16 in chips) 
+Seat 8: Seiti25 ($5 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+megtorlo2244: posts small blind $0.02
+Seiti25: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Qs]
+Dorex2007: folds 
+lauraman: folds 
+Count Mole: raises $0.10 to $0.15
+matschus666: folds 
+maskch: folds 
+megtorlo2244: calls $0.13
+Seiti25: folds 
+*** FLOP *** [Ks 6d Td]
+megtorlo2244: checks 
+Count Mole: checks 
+*** TURN *** [Ks 6d Td] [2h]
+megtorlo2244: bets $0.20
+Count Mole: calls $0.20
+*** RIVER *** [Ks 6d Td 2h] [8d]
+megtorlo2244: checks 
+Count Mole: checks 
+*** SHOW DOWN ***
+megtorlo2244: shows [5h 5s] (a pair of Fives)
+Count Mole: shows [Jc Js] (a pair of Jacks)
+Count Mole collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Ks 6d Td 2h 8d]
+Seat 1: lauraman folded before Flop (didn't bet)
+Seat 3: Count Mole showed [Jc Js] and won ($0.72) with a pair of Jacks
+Seat 4: matschus666 folded before Flop (didn't bet)
+Seat 5: maskch (button) folded before Flop (didn't bet)
+Seat 7: megtorlo2244 (small blind) showed [5h 5s] and lost with a pair of Fives
+Seat 8: Seiti25 (big blind) folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770563711:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 13:55:30 PT [2022/08/03 16:55:30 ET]
+Table 'Williams' 9-max Seat #7 is the button
+Seat 1: lauraman ($5.18 in chips) 
+Seat 3: Count Mole ($6.49 in chips) 
+Seat 4: matschus666 ($8.45 in chips) 
+Seat 5: maskch ($5.25 in chips) 
+Seat 7: megtorlo2244 ($6.81 in chips) 
+Seat 8: Seiti25 ($4.95 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+Seiti25: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 7c]
+lauraman: folds 
+Count Mole: folds 
+matschus666: folds 
+maskch: folds 
+megtorlo2244: folds 
+Seiti25: folds 
+Uncalled bet ($0.03) returned to Dorex2007
+Dorex2007 collected $0.04 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: lauraman folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: matschus666 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 7: megtorlo2244 (button) folded before Flop (didn't bet)
+Seat 8: Seiti25 (small blind) folded before Flop
+Seat 9: Dorex2007 (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #237770566869:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 13:55:41 PT [2022/08/03 16:55:41 ET]
+Table 'Williams' 9-max Seat #8 is the button
+Seat 1: lauraman ($5.18 in chips) 
+Seat 3: Count Mole ($6.49 in chips) 
+Seat 4: matschus666 ($8.45 in chips) 
+Seat 5: maskch ($5.25 in chips) 
+Seat 7: megtorlo2244 ($6.81 in chips) 
+Seat 8: Seiti25 ($4.93 in chips) 
+Seat 9: Dorex2007 ($5.02 in chips) 
+Dorex2007: posts small blind $0.02
+lauraman: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 8s]
+Count Mole: raises $0.10 to $0.15
+matschus666: folds 
+maskch: folds 
+megtorlo2244: folds 
+Seiti25: raises $0.25 to $0.40
+Dorex2007: folds 
+lauraman: folds 
+Count Mole: calls $0.25
+*** FLOP *** [6c 6h 4c]
+Count Mole: checks 
+Seiti25: bets $0.41
+Count Mole: calls $0.41
+*** TURN *** [6c 6h 4c] [Ts]
+Count Mole: checks 
+Seiti25: bets $0.81
+Count Mole: calls $0.81
+*** RIVER *** [6c 6h 4c Ts] [9d]
+Count Mole: bets $3.17
+Seiti25: calls $3.17
+*** SHOW DOWN ***
+Count Mole: shows [9s 9h] (a full house, Nines full of Sixes)
+Seiti25: mucks hand 
+Count Mole collected $9.25 from pot
+*** SUMMARY ***
+Total pot $9.65 | Rake $0.40 
+Board [6c 6h 4c Ts 9d]
+Seat 1: lauraman (big blind) folded before Flop
+Seat 3: Count Mole showed [9s 9h] and won ($9.25) with a full house, Nines full of Sixes
+Seat 4: matschus666 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: Seiti25 (button) mucked [Qd Qh]
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237770592048:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 13:57:09 PT [2022/08/03 16:57:09 ET]
+Table 'Williams' 9-max Seat #9 is the button
+Seat 1: lauraman ($5.13 in chips) 
+Seat 3: Count Mole ($10.95 in chips) 
+Seat 4: matschus666 ($8.45 in chips) 
+Seat 5: maskch ($5.25 in chips) 
+Seat 7: megtorlo2244 ($6.81 in chips) 
+Seat 8: Seiti25 ($0.14 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+lauraman: posts small blind $0.02
+Count Mole: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 2c]
+matschus666: folds 
+maskch: folds 
+megtorlo2244: raises $0.10 to $0.15
+Seiti25: folds 
+Seiti25 leaves the table
+Dorex2007: folds 
+lauraman: folds 
+cubicroot joins the table at seat #8 
+Count Mole: calls $0.10
+*** FLOP *** [4s Ks As]
+Count Mole: checks 
+megtorlo2244: bets $0.20
+Count Mole: folds 
+Uncalled bet ($0.20) returned to megtorlo2244
+megtorlo2244 collected $0.31 from pot
+megtorlo2244: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [4s Ks As]
+Seat 1: lauraman (small blind) folded before Flop
+Seat 3: Count Mole (big blind) folded on the Flop
+Seat 4: matschus666 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 7: megtorlo2244 collected ($0.31)
+Seat 8: Seiti25 folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770604210:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 13:57:51 PT [2022/08/03 16:57:51 ET]
+Table 'Williams' 9-max Seat #1 is the button
+Seat 1: lauraman ($5.11 in chips) 
+Seat 3: Count Mole ($10.80 in chips) 
+Seat 5: maskch ($5.25 in chips) 
+Seat 7: megtorlo2244 ($6.97 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+Count Mole: posts small blind $0.02
+matschus666 has timed out
+matschus666: is sitting out 
+maskch: posts big blind $0.05
+cubicroot: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 2s]
+matschus666 is disconnected 
+megtorlo2244: raises $0.10 to $0.15
+Dorex2007: folds 
+lauraman: folds 
+Count Mole: folds 
+maskch: calls $0.10
+*** FLOP *** [9h 9d 7d]
+lauraman leaves the table
+maskch: checks 
+megtorlo2244: checks 
+*** TURN *** [9h 9d 7d] [8d]
+maskch: checks 
+megtorlo2244: bets $0.15
+maskch: calls $0.15
+*** RIVER *** [9h 9d 7d 8d] [4h]
+maskch: checks 
+megtorlo2244: checks 
+*** SHOW DOWN ***
+maskch: shows [Td Tc] (two pair, Tens and Nines)
+megtorlo2244: mucks hand 
+maskch collected $0.59 from pot
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.03 
+Board [9h 9d 7d 8d 4h]
+Seat 1: lauraman (button) folded before Flop (didn't bet)
+Seat 3: Count Mole (small blind) folded before Flop
+Seat 5: maskch (big blind) showed [Td Tc] and won ($0.59) with two pair, Tens and Nines
+Seat 7: megtorlo2244 mucked [Ad Jc]
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770617116:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 13:58:36 PT [2022/08/03 16:58:36 ET]
+Table 'Williams' 9-max Seat #3 is the button
+Seat 3: Count Mole ($10.78 in chips) 
+Seat 5: maskch ($5.54 in chips) 
+Seat 7: megtorlo2244 ($6.67 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+maskch: posts small blind $0.02
+megtorlo2244: posts big blind $0.05
+cubicroot: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 8d]
+Dorex2007: folds 
+Count Mole: folds 
+maskch: folds 
+Uncalled bet ($0.03) returned to megtorlo2244
+megtorlo2244 collected $0.04 from pot
+megtorlo2244: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 3: Count Mole (button) folded before Flop (didn't bet)
+Seat 5: maskch (small blind) folded before Flop
+Seat 7: megtorlo2244 (big blind) collected ($0.04)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770618599:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 13:58:42 PT [2022/08/03 16:58:42 ET]
+Table 'Williams' 9-max Seat #5 is the button
+Seat 3: Count Mole ($10.78 in chips) 
+Seat 5: maskch ($5.52 in chips) 
+Seat 7: megtorlo2244 ($6.69 in chips) 
+Seat 8: cubicroot ($5 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+megtorlo2244: posts small blind $0.02
+cubicroot: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 4c]
+GB0607 joins the table at seat #1 
+Dorex2007: folds 
+Count Mole: raises $0.10 to $0.15
+maskch: folds 
+megtorlo2244: folds 
+cubicroot: folds 
+Uncalled bet ($0.10) returned to Count Mole
+Count Mole collected $0.12 from pot
+Count Mole: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 3: Count Mole collected ($0.12)
+Seat 5: maskch (button) folded before Flop (didn't bet)
+Seat 7: megtorlo2244 (small blind) folded before Flop
+Seat 8: cubicroot (big blind) folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770625166:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 13:59:04 PT [2022/08/03 16:59:04 ET]
+Table 'Williams' 9-max Seat #7 is the button
+Seat 1: GB0607 ($4 in chips) 
+Seat 3: Count Mole ($10.85 in chips) 
+Seat 5: maskch ($5.52 in chips) 
+Seat 7: megtorlo2244 ($6.67 in chips) 
+Seat 8: cubicroot ($4.95 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+cubicroot: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+GB0607: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Qc]
+GB0607: raises $0.05 to $0.10
+Count Mole: folds 
+maskch: folds 
+megtorlo2244: folds 
+cubicroot: calls $0.08
+Dorex2007: calls $0.05
+*** FLOP *** [7s 4c 4h]
+cubicroot: checks 
+Dorex2007: checks 
+GB0607: bets $0.10
+cubicroot: folds 
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to GB0607
+GB0607 collected $0.29 from pot
+GB0607: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [7s 4c 4h]
+Seat 1: GB0607 collected ($0.29)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 7: megtorlo2244 (button) folded before Flop (didn't bet)
+Seat 8: cubicroot (small blind) folded on the Flop
+Seat 9: Dorex2007 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #237770631689:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 13:59:27 PT [2022/08/03 16:59:27 ET]
+Table 'Williams' 9-max Seat #8 is the button
+Seat 1: GB0607 ($4.19 in chips) 
+Seat 3: Count Mole ($10.85 in chips) 
+Seat 5: maskch ($5.52 in chips) 
+Seat 7: megtorlo2244 ($6.67 in chips) 
+Seat 8: cubicroot ($4.85 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+Dorex2007: posts small blind $0.02
+GB0607: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 4h]
+Count Mole: folds 
+maskch: folds 
+megtorlo2244: raises $0.10 to $0.15
+cubicroot: folds 
+Dorex2007: folds 
+GB0607: calls $0.10
+*** FLOP *** [As 9d 8d]
+GB0607: bets $0.15
+megtorlo2244: calls $0.15
+*** TURN *** [As 9d 8d] [8c]
+GB0607: bets $3.89 and is all-in
+megtorlo2244: folds 
+Uncalled bet ($3.89) returned to GB0607
+GB0607 collected $0.59 from pot
+GB0607: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.03 
+Board [As 9d 8d 8c]
+Seat 1: GB0607 (big blind) collected ($0.59)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded on the Turn
+Seat 8: cubicroot (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237770646852:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:00:19 PT [2022/08/03 17:00:19 ET]
+Table 'Williams' 9-max Seat #9 is the button
+Seat 1: GB0607 ($4.48 in chips) 
+Seat 3: Count Mole ($10.85 in chips) 
+Seat 5: maskch ($5.52 in chips) 
+Seat 7: megtorlo2244 ($6.37 in chips) 
+Seat 8: cubicroot ($4.85 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+GB0607: posts small blind $0.02
+Count Mole: posts big blind $0.05
+matschus666: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 7d]
+maskch has timed out
+maskch: folds 
+megtorlo2244: calls $0.05
+cubicroot: calls $0.05
+Dorex2007: folds 
+GB0607: calls $0.03
+Count Mole: checks 
+*** FLOP *** [Qd Ad Ts]
+GB0607: checks 
+Count Mole: checks 
+megtorlo2244: bets $0.10
+cubicroot: folds 
+riskas08 leaves the table
+GB0607: folds 
+Count Mole: calls $0.10
+*** TURN *** [Qd Ad Ts] [4c]
+kyl3r96 leaves the table
+Count Mole: checks 
+megtorlo2244: bets $0.20
+Count Mole: folds 
+Uncalled bet ($0.20) returned to megtorlo2244
+megtorlo2244 collected $0.38 from pot
+megtorlo2244: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [Qd Ad Ts 4c]
+Seat 1: GB0607 (small blind) folded on the Flop
+Seat 3: Count Mole (big blind) folded on the Turn
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 7: megtorlo2244 collected ($0.38)
+Seat 8: cubicroot folded on the Flop
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770664621:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:01:14 PT [2022/08/03 17:01:14 ET]
+Table 'Williams' 9-max Seat #1 is the button
+Seat 1: GB0607 ($4.43 in chips) 
+Seat 3: Count Mole ($10.70 in chips) 
+Seat 4: matschus666 ($8.45 in chips) 
+Seat 7: megtorlo2244 ($6.60 in chips) 
+Seat 8: cubicroot ($4.80 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+Count Mole: posts small blind $0.02
+matschus666: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 7s]
+ess666 joins the table at seat #2 
+megtorlo2244: folds 
+cubicroot: folds 
+Dorex2007: folds 
+GB0607: calls $0.05
+Count Mole: folds 
+matschus666: checks 
+*** FLOP *** [Jc As Th]
+matschus666: checks 
+GB0607: checks 
+*** TURN *** [Jc As Th] [2d]
+matschus666: checks 
+GB0607: bets $0.05
+matschus666: calls $0.05
+*** RIVER *** [Jc As Th 2d] [4h]
+matschus666: bets $0.05
+GB0607: raises $1 to $1.05
+matschus666: folds 
+Uncalled bet ($1) returned to GB0607
+GB0607 collected $0.31 from pot
+GB0607: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Jc As Th 2d 4h]
+Seat 1: GB0607 (button) collected ($0.31)
+Seat 3: Count Mole (small blind) folded before Flop
+Seat 4: matschus666 (big blind) folded on the River
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770678664:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:01:54 PT [2022/08/03 17:01:54 ET]
+Table 'Williams' 9-max Seat #3 is the button
+Seat 1: GB0607 ($4.59 in chips) 
+Seat 3: Count Mole ($10.68 in chips) 
+Seat 4: matschus666 ($8.30 in chips) 
+Seat 7: megtorlo2244 ($6.60 in chips) 
+Seat 8: cubicroot ($4.80 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+matschus666: posts small blind $0.02
+megtorlo2244: posts big blind $0.05
+ess666: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Tc]
+cubicroot: folds 
+Dorex2007: folds 
+GB0607: calls $0.05
+Count Mole: folds 
+matschus666: folds 
+megtorlo2244: checks 
+*** FLOP *** [9c 6h Qh]
+megtorlo2244: checks 
+GB0607: bets $0.05
+megtorlo2244: calls $0.05
+*** TURN *** [9c 6h Qh] [6d]
+megtorlo2244: checks 
+GB0607: checks 
+*** RIVER *** [9c 6h Qh 6d] [Jh]
+megtorlo2244: bets $0.05
+GB0607: raises $0.05 to $0.10
+megtorlo2244: calls $0.05
+*** SHOW DOWN ***
+GB0607: shows [Js Ad] (two pair, Jacks and Sixes)
+megtorlo2244: mucks hand 
+GB0607 collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.02 
+Board [9c 6h Qh 6d Jh]
+Seat 1: GB0607 showed [Js Ad] and won ($0.40) with two pair, Jacks and Sixes
+Seat 3: Count Mole (button) folded before Flop (didn't bet)
+Seat 4: matschus666 (small blind) folded before Flop
+Seat 7: megtorlo2244 (big blind) mucked [9s 4d]
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770691164:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:02:27 PT [2022/08/03 17:02:27 ET]
+Table 'Williams' 9-max Seat #4 is the button
+Seat 1: GB0607 ($4.79 in chips) 
+Seat 3: Count Mole ($10.68 in chips) 
+Seat 4: matschus666 ($8.28 in chips) 
+Seat 7: megtorlo2244 ($6.40 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+megtorlo2244: posts small blind $0.02
+cubicroot: is sitting out 
+Dorex2007: posts big blind $0.05
+ess666: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s As]
+GB0607: calls $0.05
+Count Mole: folds 
+matschus666: calls $0.05
+megtorlo2244: folds 
+Dorex2007: checks 
+*** FLOP *** [6c 6d 3c]
+Dorex2007: checks 
+GB0607: checks 
+matschus666: checks 
+*** TURN *** [6c 6d 3c] [3d]
+Dorex2007: bets $0.11
+GB0607: folds 
+matschus666: folds 
+Uncalled bet ($0.11) returned to Dorex2007
+Dorex2007 collected $0.16 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [6c 6d 3c 3d]
+Seat 1: GB0607 folded on the Turn
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: matschus666 (button) folded on the Turn
+Seat 7: megtorlo2244 (small blind) folded before Flop
+Seat 9: Dorex2007 (big blind) collected ($0.16)
+
+
+
+PokerStars Hand #237770706924:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:03:09 PT [2022/08/03 17:03:09 ET]
+Table 'Williams' 9-max Seat #7 is the button
+Seat 1: GB0607 ($4.74 in chips) 
+Seat 3: Count Mole ($10.68 in chips) 
+Seat 4: matschus666 ($8.23 in chips) 
+Seat 7: megtorlo2244 ($6.38 in chips) 
+Seat 9: Dorex2007 ($5.11 in chips) 
+Dorex2007: posts small blind $0.02
+GB0607: posts big blind $0.05
+ess666: sits out 
+maskch: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 3h]
+Count Mole: raises $0.10 to $0.15
+matschus666: folds 
+jageboi joins the table at seat #6 
+megtorlo2244: folds 
+Dorex2007: folds 
+GB0607: folds 
+Uncalled bet ($0.10) returned to Count Mole
+Count Mole collected $0.12 from pot
+Count Mole: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: GB0607 (big blind) folded before Flop
+Seat 3: Count Mole collected ($0.12)
+Seat 4: matschus666 folded before Flop (didn't bet)
+Seat 7: megtorlo2244 (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237770711369:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:03:21 PT [2022/08/03 17:03:21 ET]
+Table 'Williams' 9-max Seat #9 is the button
+Seat 1: GB0607 ($4.69 in chips) 
+Seat 2: ess666 ($5 in chips) 
+Seat 3: Count Mole ($10.75 in chips) 
+Seat 4: matschus666 ($8.23 in chips) 
+Seat 5: maskch ($5.52 in chips) 
+Seat 7: megtorlo2244 ($6.38 in chips) 
+Seat 9: Dorex2007 ($5.09 in chips) 
+GB0607: posts small blind $0.02
+ess666: posts big blind $0.05
+maskch: posts small & big blinds $0.07
+jageboi: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 7d]
+Count Mole: folds 
+matschus666: folds 
+maskch: checks 
+megtorlo2244: folds 
+Dorex2007: folds 
+GB0607: calls $0.03
+ess666: checks 
+*** FLOP *** [5c Qh Js]
+GB0607: checks 
+ess666: checks 
+maskch: bets $0.05
+GB0607: folds 
+ess666: folds 
+Uncalled bet ($0.05) returned to maskch
+maskch collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [5c Qh Js]
+Seat 1: GB0607 (small blind) folded on the Flop
+Seat 2: ess666 (big blind) folded on the Flop
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: matschus666 folded before Flop (didn't bet)
+Seat 5: maskch collected ($0.16)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770727119:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:04:03 PT [2022/08/03 17:04:03 ET]
+Table 'Williams' 9-max Seat #1 is the button
+Seat 1: GB0607 ($4.64 in chips) 
+Seat 2: ess666 ($4.95 in chips) 
+Seat 3: Count Mole ($10.75 in chips) 
+Seat 4: matschus666 ($8.23 in chips) 
+Seat 5: maskch ($5.61 in chips) 
+Seat 7: megtorlo2244 ($6.38 in chips) 
+Seat 9: Dorex2007 ($5.09 in chips) 
+ess666: posts small blind $0.02
+Count Mole: posts big blind $0.05
+jageboi: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad Ac]
+matschus666: folds 
+maskch: folds 
+megtorlo2244: folds 
+Dorex2007: raises $0.10 to $0.15
+GB0607: folds 
+ess666: folds 
+Count Mole: folds 
+Uncalled bet ($0.10) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: GB0607 (button) folded before Flop (didn't bet)
+Seat 2: ess666 (small blind) folded before Flop
+Seat 3: Count Mole (big blind) folded before Flop
+Seat 4: matschus666 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 9: Dorex2007 collected ($0.12)
+
+
+
+PokerStars Hand #237770733542:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:04:20 PT [2022/08/03 17:04:20 ET]
+Table 'Williams' 9-max Seat #2 is the button
+Seat 1: GB0607 ($4.64 in chips) 
+Seat 2: ess666 ($4.93 in chips) 
+Seat 3: Count Mole ($10.70 in chips) 
+Seat 4: matschus666 ($8.23 in chips) 
+Seat 5: maskch ($5.61 in chips) 
+Seat 7: megtorlo2244 ($6.38 in chips) 
+Seat 9: Dorex2007 ($5.16 in chips) 
+Count Mole: posts small blind $0.02
+matschus666: posts big blind $0.05
+jageboi: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 7h]
+maskch: folds 
+megtorlo2244: folds 
+Dorex2007: folds 
+GB0607: calls $0.05
+ess666: folds 
+Count Mole: folds 
+matschus666: checks 
+*** FLOP *** [6s Kd Js]
+matschus666: checks 
+GB0607: checks 
+*** TURN *** [6s Kd Js] [6c]
+matschus666: bets $0.10
+GB0607: folds 
+Uncalled bet ($0.10) returned to matschus666
+matschus666 collected $0.12 from pot
+matschus666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [6s Kd Js 6c]
+Seat 1: GB0607 folded on the Turn
+Seat 2: ess666 (button) folded before Flop (didn't bet)
+Seat 3: Count Mole (small blind) folded before Flop
+Seat 4: matschus666 (big blind) collected ($0.12)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770745681:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:04:53 PT [2022/08/03 17:04:53 ET]
+Table 'Williams' 9-max Seat #3 is the button
+Seat 1: GB0607 ($4.59 in chips) 
+Seat 2: ess666 ($4.93 in chips) 
+Seat 3: Count Mole ($10.68 in chips) 
+Seat 4: matschus666 ($8.30 in chips) 
+Seat 5: maskch ($5.61 in chips) 
+Seat 7: megtorlo2244 ($6.38 in chips) 
+Seat 9: Dorex2007 ($5.16 in chips) 
+matschus666: posts small blind $0.02
+maskch: posts big blind $0.05
+jageboi: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Ad]
+megtorlo2244: folds 
+Dorex2007: raises $0.05 to $0.10
+GB0607: folds 
+ess666: folds 
+Count Mole: folds 
+matschus666: folds 
+maskch: folds 
+Uncalled bet ($0.05) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: GB0607 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole (button) folded before Flop (didn't bet)
+Seat 4: matschus666 (small blind) folded before Flop
+Seat 5: maskch (big blind) folded before Flop
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 9: Dorex2007 collected ($0.12)
+
+
+
+PokerStars Hand #237770751145:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:05:07 PT [2022/08/03 17:05:07 ET]
+Table 'Williams' 9-max Seat #4 is the button
+Seat 1: GB0607 ($4.59 in chips) 
+Seat 2: ess666 ($4.93 in chips) 
+Seat 3: Count Mole ($10.68 in chips) 
+Seat 4: matschus666 ($8.28 in chips) 
+Seat 5: maskch ($5.56 in chips) 
+Seat 6: jageboi ($4.39 in chips) 
+Seat 7: megtorlo2244 ($6.38 in chips) 
+Seat 9: Dorex2007 ($5.23 in chips) 
+maskch: posts small blind $0.02
+jageboi: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 6c]
+megtorlo2244: folds 
+Dorex2007: folds 
+GB0607: calls $0.05
+ess666: folds 
+Count Mole: folds 
+matschus666: calls $0.05
+maskch: folds 
+jageboi: checks 
+*** FLOP *** [Th Qc Td]
+jageboi: checks 
+GB0607: checks 
+matschus666: checks 
+*** TURN *** [Th Qc Td] [Jc]
+jageboi: bets $0.08
+GB0607: folds 
+matschus666: calls $0.08
+*** RIVER *** [Th Qc Td Jc] [9c]
+jageboi: bets $0.16
+matschus666: calls $0.16
+*** SHOW DOWN ***
+jageboi: shows [9d 3d] (two pair, Tens and Nines)
+matschus666: shows [Kh 4h] (a straight, Nine to King)
+matschus666 collected $0.61 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.04 
+Board [Th Qc Td Jc 9c]
+Seat 1: GB0607 folded on the Turn
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: matschus666 (button) showed [Kh 4h] and won ($0.61) with a straight, Nine to King
+Seat 5: maskch (small blind) folded before Flop
+Seat 6: jageboi (big blind) showed [9d 3d] and lost with two pair, Tens and Nines
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770768273:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:05:53 PT [2022/08/03 17:05:53 ET]
+Table 'Williams' 9-max Seat #5 is the button
+Seat 1: GB0607 ($4.54 in chips) 
+Seat 2: ess666 ($4.93 in chips) 
+Seat 3: Count Mole ($10.68 in chips) 
+Seat 4: matschus666 ($8.60 in chips) 
+Seat 5: maskch ($5.54 in chips) 
+Seat 6: jageboi ($4.10 in chips) 
+Seat 7: megtorlo2244 ($6.38 in chips) 
+Seat 9: Dorex2007 ($5.23 in chips) 
+jageboi: posts small blind $0.02
+megtorlo2244: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Kh]
+Dorex2007: folds 
+GB0607: calls $0.05
+ess666: calls $0.05
+Count Mole: folds 
+matschus666: folds 
+maskch: folds 
+jageboi: folds 
+megtorlo2244: checks 
+*** FLOP *** [Js Kd Ac]
+megtorlo2244: checks 
+GB0607: checks 
+ess666: bets $0.10
+megtorlo2244: folds 
+GB0607: calls $0.10
+*** TURN *** [Js Kd Ac] [Qc]
+GB0607: checks 
+ess666: checks 
+*** RIVER *** [Js Kd Ac Qc] [6h]
+GB0607: bets $1.50
+ess666: folds 
+Uncalled bet ($1.50) returned to GB0607
+GB0607 collected $0.35 from pot
+GB0607: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [Js Kd Ac Qc 6h]
+Seat 1: GB0607 collected ($0.35)
+Seat 2: ess666 folded on the River
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: matschus666 folded before Flop (didn't bet)
+Seat 5: maskch (button) folded before Flop (didn't bet)
+Seat 6: jageboi (small blind) folded before Flop
+Seat 7: megtorlo2244 (big blind) folded on the Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770787106:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:06:43 PT [2022/08/03 17:06:43 ET]
+Table 'Williams' 9-max Seat #6 is the button
+Seat 1: GB0607 ($4.74 in chips) 
+Seat 2: ess666 ($4.78 in chips) 
+Seat 3: Count Mole ($10.68 in chips) 
+Seat 4: matschus666 ($8.60 in chips) 
+Seat 5: maskch ($5.54 in chips) 
+Seat 6: jageboi ($4.08 in chips) 
+Seat 7: megtorlo2244 ($6.33 in chips) 
+Seat 9: Dorex2007 ($5.23 in chips) 
+megtorlo2244: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 9c]
+GB0607: calls $0.05
+ess666: folds 
+Count Mole: folds 
+matschus666: folds 
+maskch has timed out
+maskch: folds 
+jageboi: folds 
+megtorlo2244: raises $0.15 to $0.20
+Dorex2007: folds 
+GB0607: folds 
+Uncalled bet ($0.15) returned to megtorlo2244
+megtorlo2244 collected $0.15 from pot
+megtorlo2244: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: GB0607 folded before Flop
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: matschus666 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi (button) folded before Flop (didn't bet)
+Seat 7: megtorlo2244 (small blind) collected ($0.15)
+Seat 9: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237770799507:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:07:16 PT [2022/08/03 17:07:16 ET]
+Table 'Williams' 9-max Seat #7 is the button
+Seat 1: GB0607 ($4.69 in chips) 
+Seat 2: ess666 ($4.78 in chips) 
+Seat 3: Count Mole ($10.68 in chips) 
+Seat 4: matschus666 ($8.60 in chips) 
+Seat 6: jageboi ($4.08 in chips) 
+Seat 7: megtorlo2244 ($6.43 in chips) 
+Seat 9: Dorex2007 ($5.18 in chips) 
+Dorex2007: posts small blind $0.02
+GB0607: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Td]
+ess666: calls $0.05
+Count Mole: folds 
+matschus666: folds 
+jageboi: folds 
+megtorlo2244: calls $0.05
+Dorex2007: folds 
+GB0607: checks 
+*** FLOP *** [Ad Qc 4h]
+GB0607: checks 
+ess666: checks 
+megtorlo2244: bets $0.15
+GB0607: folds 
+ess666: folds 
+Uncalled bet ($0.15) returned to megtorlo2244
+megtorlo2244 collected $0.16 from pot
+megtorlo2244: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Ad Qc 4h]
+Seat 1: GB0607 (big blind) folded on the Flop
+Seat 2: ess666 folded on the Flop
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: matschus666 folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 (button) collected ($0.16)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237770814057:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:07:55 PT [2022/08/03 17:07:55 ET]
+Table 'Williams' 9-max Seat #9 is the button
+Seat 1: GB0607 ($4.64 in chips) 
+Seat 2: ess666 ($4.73 in chips) 
+Seat 3: Count Mole ($10.68 in chips) 
+Seat 4: matschus666 ($8.60 in chips) 
+Seat 6: jageboi ($4.08 in chips) 
+Seat 7: megtorlo2244 ($6.54 in chips) 
+Seat 9: Dorex2007 ($5.16 in chips) 
+GB0607: posts small blind $0.02
+ess666: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 5h]
+Count Mole: folds 
+matschus666: folds 
+jageboi: calls $0.05
+megtorlo2244: folds 
+Dorex2007: folds 
+GB0607: calls $0.03
+ess666: checks 
+*** FLOP *** [Qd 2d 8c]
+GB0607: checks 
+ess666: checks 
+jageboi: checks 
+*** TURN *** [Qd 2d 8c] [Ah]
+GB0607: checks 
+ess666: checks 
+jageboi: bets $0.12
+GB0607: raises $0.12 to $0.24
+ess666: folds 
+jageboi: calls $0.12
+*** RIVER *** [Qd 2d 8c Ah] [Jh]
+matschus666 is disconnected 
+GB0607: bets $4.35 and is all-in
+jageboi: folds 
+Uncalled bet ($4.35) returned to GB0607
+GB0607 collected $0.60 from pot
+GB0607: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.63 | Rake $0.03 
+Board [Qd 2d 8c Ah Jh]
+Seat 1: GB0607 (small blind) collected ($0.60)
+Seat 2: ess666 (big blind) folded on the Turn
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: matschus666 folded before Flop (didn't bet)
+Seat 6: jageboi folded on the River
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770838988:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:09:02 PT [2022/08/03 17:09:02 ET]
+Table 'Williams' 9-max Seat #1 is the button
+Seat 1: GB0607 ($4.95 in chips) 
+Seat 2: ess666 ($4.68 in chips) 
+Seat 3: Count Mole ($10.68 in chips) 
+Seat 4: matschus666 ($8.60 in chips) 
+Seat 5: maskch ($5.54 in chips) 
+Seat 6: jageboi ($3.79 in chips) 
+Seat 7: megtorlo2244 ($6.54 in chips) 
+Seat 9: Dorex2007 ($5.16 in chips) 
+ess666: posts small blind $0.02
+Count Mole: posts big blind $0.05
+cubicroot: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Kd]
+matschus666 has timed out while disconnected
+matschus666: folds 
+maskch: folds 
+jageboi: folds 
+megtorlo2244: folds 
+Dorex2007: raises $0.10 to $0.15
+GB0607: calls $0.15
+ess666: folds 
+Count Mole: folds 
+*** FLOP *** [6d 4s Ac]
+Dorex2007: checks 
+GB0607: bets $0.05
+Dorex2007: folds 
+Uncalled bet ($0.05) returned to GB0607
+GB0607 collected $0.35 from pot
+GB0607: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [6d 4s Ac]
+Seat 1: GB0607 (button) collected ($0.35)
+Seat 2: ess666 (small blind) folded before Flop
+Seat 3: Count Mole (big blind) folded before Flop
+Seat 4: matschus666 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded on the Flop
+
+
+
+PokerStars Hand #237770852057:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:09:37 PT [2022/08/03 17:09:37 ET]
+Table 'Williams' 9-max Seat #2 is the button
+Seat 1: GB0607 ($5.15 in chips) 
+Seat 2: ess666 ($4.66 in chips) 
+Seat 3: Count Mole ($10.63 in chips) 
+Seat 5: maskch ($5.54 in chips) 
+Seat 6: jageboi ($3.79 in chips) 
+Seat 7: megtorlo2244 ($6.54 in chips) 
+Seat 9: Dorex2007 ($5.01 in chips) 
+Count Mole: posts small blind $0.02
+maskch: posts big blind $0.05
+cubicroot: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Ad]
+jageboi: folds 
+megtorlo2244: folds 
+Dorex2007: folds 
+GB0607: calls $0.05
+ess666: folds 
+Count Mole: raises $0.10 to $0.15
+maskch has timed out
+maskch: folds 
+GB0607: folds 
+Uncalled bet ($0.10) returned to Count Mole
+Count Mole collected $0.15 from pot
+Count Mole: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: GB0607 folded before Flop
+Seat 2: ess666 (button) folded before Flop (didn't bet)
+Seat 3: Count Mole (small blind) collected ($0.15)
+Seat 5: maskch (big blind) folded before Flop
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770876772:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:10:43 PT [2022/08/03 17:10:43 ET]
+Table 'Williams' 9-max Seat #3 is the button
+Seat 1: GB0607 ($5.10 in chips) 
+Seat 2: ess666 ($4.66 in chips) 
+Seat 3: Count Mole ($10.73 in chips) 
+Seat 6: jageboi ($3.79 in chips) 
+Seat 8: cubicroot ($4.80 in chips) 
+Seat 9: Dorex2007 ($5.01 in chips) 
+jageboi: posts small blind $0.02
+cubicroot: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Ts]
+Dorex2007: folds 
+GB0607: calls $0.05
+ess666: folds 
+Count Mole: raises $0.10 to $0.15
+jageboi: folds 
+cubicroot: folds 
+GB0607: calls $0.10
+*** FLOP *** [6s Kd 4c]
+GB0607: bets $4.95 and is all-in
+Count Mole: folds 
+Uncalled bet ($4.95) returned to GB0607
+GB0607 collected $0.35 from pot
+GB0607: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [6s Kd 4c]
+Seat 1: GB0607 collected ($0.35)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole (button) folded on the Flop
+Seat 6: jageboi (small blind) folded before Flop
+Seat 8: cubicroot (big blind) folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770886305:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:11:09 PT [2022/08/03 17:11:09 ET]
+Table 'Williams' 9-max Seat #6 is the button
+Seat 1: GB0607 ($5.30 in chips) 
+Seat 2: ess666 ($4.66 in chips) 
+Seat 3: Count Mole ($10.58 in chips) 
+Seat 6: jageboi ($3.77 in chips) 
+Seat 8: cubicroot ($4.75 in chips) 
+Seat 9: Dorex2007 ($5.01 in chips) 
+cubicroot: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Kh]
+GB0607: calls $0.05
+ess666: folds 
+Count Mole: raises $0.10 to $0.15
+jageboi: folds 
+cubicroot: folds 
+Dorex2007: folds 
+GB0607: calls $0.10
+*** FLOP *** [Ts 2s Jd]
+GB0607: bets $0.15
+Count Mole: calls $0.15
+*** TURN *** [Ts 2s Jd] [5c]
+GB0607: bets $5 and is all-in
+Count Mole: folds 
+Uncalled bet ($5) returned to GB0607
+GB0607 collected $0.64 from pot
+GB0607: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.03 
+Board [Ts 2s Jd 5c]
+Seat 1: GB0607 collected ($0.64)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded on the Turn
+Seat 6: jageboi (button) folded before Flop (didn't bet)
+Seat 8: cubicroot (small blind) folded before Flop
+Seat 9: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237770898989:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:11:43 PT [2022/08/03 17:11:43 ET]
+Table 'Williams' 9-max Seat #8 is the button
+Seat 1: GB0607 ($5.64 in chips) 
+Seat 2: ess666 ($4.66 in chips) 
+Seat 3: Count Mole ($10.28 in chips) 
+Seat 5: maskch ($5.49 in chips) 
+Seat 6: jageboi ($3.77 in chips) 
+Seat 8: cubicroot ($4.73 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+Dorex2007: posts small blind $0.02
+GB0607: posts big blind $0.05
+maskch: posts small blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c As]
+ess666: calls $0.05
+Count Mole: folds 
+maskch: raises $0.10 to $0.15
+jageboi: calls $0.15
+cubicroot: calls $0.15
+Dorex2007: folds 
+GB0607: calls $0.10
+ess666: calls $0.10
+*** FLOP *** [9d Ts Td]
+GB0607: bets $0.10
+ess666: calls $0.10
+maskch: calls $0.10
+jageboi: calls $0.10
+cubicroot: folds 
+*** TURN *** [9d Ts Td] [8c]
+GB0607: bets $0.35
+ess666: calls $0.35
+maskch: calls $0.35
+jageboi: calls $0.35
+*** RIVER *** [9d Ts Td 8c] [Kh]
+GB0607: bets $5.04 and is all-in
+ess666: calls $4.06 and is all-in
+maskch: calls $4.87 and is all-in
+jageboi: folds 
+Uncalled bet ($0.17) returned to GB0607
+*** SHOW DOWN ***
+GB0607: shows [Qd Kd] (two pair, Kings and Tens)
+maskch: shows [Kc Ks] (a full house, Kings full of Tens)
+maskch collected $1.55 from side pot
+ess666: shows [Tc 9c] (a full house, Tens full of Nines)
+maskch collected $14.16 from main pot
+*** SUMMARY ***
+Total pot $16.39 Main pot $14.16. Side pot $1.55. | Rake $0.68 
+Board [9d Ts Td 8c Kh]
+Seat 1: GB0607 (big blind) showed [Qd Kd] and lost with two pair, Kings and Tens
+Seat 2: ess666 showed [Tc 9c] and lost with a full house, Tens full of Nines
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 5: maskch showed [Kc Ks] and won ($15.71) with a full house, Kings full of Tens
+Seat 6: jageboi folded on the River
+Seat 8: cubicroot (button) folded on the Flop
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237770928350:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:13:02 PT [2022/08/03 17:13:02 ET]
+Table 'Williams' 9-max Seat #9 is the button
+Seat 1: GB0607 ($0.17 in chips) 
+Seat 3: Count Mole ($10.28 in chips) 
+Seat 5: maskch ($15.71 in chips) 
+Seat 6: jageboi ($3.17 in chips) 
+Seat 8: cubicroot ($4.58 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+GB0607: posts small blind $0.02
+Count Mole: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 9c]
+maskch: folds 
+jageboi: raises $0.05 to $0.10
+cubicroot: calls $0.10
+Dorex2007: folds 
+GB0607: folds 
+Count Mole: calls $0.05
+*** FLOP *** [3d 5h 2d]
+GB0607 leaves the table
+Count Mole: checks 
+jageboi: checks 
+cubicroot: bets $0.20
+Count Mole: folds 
+jageboi: folds 
+Uncalled bet ($0.20) returned to cubicroot
+cubicroot collected $0.31 from pot
+cubicroot: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [3d 5h 2d]
+Seat 1: GB0607 (small blind) folded before Flop
+Seat 3: Count Mole (big blind) folded on the Flop
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded on the Flop
+Seat 8: cubicroot collected ($0.31)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770937688:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:13:28 PT [2022/08/03 17:13:28 ET]
+Table 'Williams' 9-max Seat #3 is the button
+Seat 2: ess666 ($5 in chips) 
+Seat 3: Count Mole ($10.18 in chips) 
+Seat 5: maskch ($15.71 in chips) 
+Seat 6: jageboi ($3.07 in chips) 
+Seat 8: cubicroot ($4.79 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+maskch: posts small blind $0.02
+jageboi: posts big blind $0.05
+ess666: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 7d]
+ACEHbKA777 joins the table at seat #1 
+cubicroot: folds 
+Dorex2007: folds 
+ess666: checks 
+Count Mole: folds 
+maskch: folds 
+jageboi: raises $0.10 to $0.15
+ess666: folds 
+Uncalled bet ($0.10) returned to jageboi
+jageboi collected $0.12 from pot
+jageboi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole (button) folded before Flop (didn't bet)
+Seat 5: maskch (small blind) folded before Flop
+Seat 6: jageboi (big blind) collected ($0.12)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770946202:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:13:51 PT [2022/08/03 17:13:51 ET]
+Table 'Williams' 9-max Seat #5 is the button
+Seat 2: ess666 ($4.95 in chips) 
+Seat 3: Count Mole ($10.18 in chips) 
+Seat 5: maskch ($15.69 in chips) 
+Seat 6: jageboi ($3.14 in chips) 
+Seat 8: cubicroot ($4.79 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+jageboi: posts small blind $0.02
+cubicroot: posts big blind $0.05
+ACEHbKA777: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Ts]
+Dorex2007: raises $0.10 to $0.15
+ess666: folds 
+Count Mole: folds 
+maskch: folds 
+jageboi: calls $0.13
+cubicroot: folds 
+*** FLOP *** [Jd 5d 8c]
+jageboi: bets $0.10
+Dorex2007: calls $0.10
+*** TURN *** [Jd 5d 8c] [4d]
+jageboi: checks 
+Dorex2007: checks 
+*** RIVER *** [Jd 5d 8c 4d] [3s]
+jageboi: bets $0.26
+Dorex2007: calls $0.26
+*** SHOW DOWN ***
+jageboi: shows [Qc 9c] (high card Queen)
+Dorex2007: shows [Tc Ts] (a pair of Tens)
+Dorex2007 collected $1.03 from pot
+*** SUMMARY ***
+Total pot $1.07 | Rake $0.04 
+Board [Jd 5d 8c 4d 3s]
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 5: maskch (button) folded before Flop (didn't bet)
+Seat 6: jageboi (small blind) showed [Qc 9c] and lost with high card Queen
+Seat 8: cubicroot (big blind) folded before Flop
+Seat 9: Dorex2007 showed [Tc Ts] and won ($1.03) with a pair of Tens
+
+
+
+PokerStars Hand #237770959961:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:14:28 PT [2022/08/03 17:14:28 ET]
+Table 'Williams' 9-max Seat #6 is the button
+Seat 2: ess666 ($4.95 in chips) 
+Seat 3: Count Mole ($10.18 in chips) 
+Seat 5: maskch ($15.69 in chips) 
+Seat 6: jageboi ($2.63 in chips) 
+Seat 8: cubicroot ($4.74 in chips) 
+Seat 9: Dorex2007 ($5.52 in chips) 
+cubicroot: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+ACEHbKA777: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 6h]
+ess666: folds 
+Count Mole: folds 
+maskch: folds 
+jageboi: folds 
+cubicroot: folds 
+Uncalled bet ($0.03) returned to Dorex2007
+Dorex2007 collected $0.04 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi (button) folded before Flop (didn't bet)
+Seat 8: cubicroot (small blind) folded before Flop
+Seat 9: Dorex2007 (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #237770964552:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:14:41 PT [2022/08/03 17:14:41 ET]
+Table 'Williams' 9-max Seat #8 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.95 in chips) 
+Seat 3: Count Mole ($10.18 in chips) 
+Seat 5: maskch ($15.69 in chips) 
+Seat 6: jageboi ($2.63 in chips) 
+Seat 8: cubicroot ($4.72 in chips) 
+Seat 9: Dorex2007 ($5.54 in chips) 
+Dorex2007: posts small blind $0.02
+ACEHbKA777: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 8d]
+ess666: folds 
+Count Mole: raises $0.10 to $0.15
+maskch: folds 
+jageboi: raises $0.10 to $0.25
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+Count Mole: calls $0.10
+*** FLOP *** [2s Kc Kd]
+Count Mole: bets $0.36
+jageboi: folds 
+Uncalled bet ($0.36) returned to Count Mole
+Count Mole collected $0.55 from pot
+Count Mole: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [2s Kc Kd]
+Seat 1: ACEHbKA777 (big blind) folded before Flop
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole collected ($0.55)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded on the Flop
+Seat 8: cubicroot (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237770981246:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:15:26 PT [2022/08/03 17:15:26 ET]
+Table 'Williams' 9-max Seat #9 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.95 in chips) 
+Seat 3: Count Mole ($10.48 in chips) 
+Seat 5: maskch ($15.69 in chips) 
+Seat 6: jageboi ($2.38 in chips) 
+Seat 8: cubicroot ($4.72 in chips) 
+Seat 9: Dorex2007 ($5.52 in chips) 
+ACEHbKA777: posts small blind $0.02
+ess666: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 4h]
+Count Mole: raises $0.10 to $0.15
+maskch: folds 
+jageboi: folds 
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Uncalled bet ($0.10) returned to Count Mole
+Count Mole collected $0.12 from pot
+Count Mole: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ACEHbKA777 (small blind) folded before Flop
+Seat 2: ess666 (big blind) folded before Flop
+Seat 3: Count Mole collected ($0.12)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237770988932:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:15:47 PT [2022/08/03 17:15:47 ET]
+Table 'Williams' 9-max Seat #1 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.90 in chips) 
+Seat 3: Count Mole ($10.55 in chips) 
+Seat 5: maskch ($15.69 in chips) 
+Seat 6: jageboi ($2.38 in chips) 
+Seat 8: cubicroot ($4.72 in chips) 
+Seat 9: Dorex2007 ($5.52 in chips) 
+ess666: posts small blind $0.02
+Count Mole: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Kd]
+maskch: folds 
+jageboi: folds 
+cubicroot: folds 
+Dorex2007: raises $0.05 to $0.10
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Uncalled bet ($0.05) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ACEHbKA777 (button) folded before Flop (didn't bet)
+Seat 2: ess666 (small blind) folded before Flop
+Seat 3: Count Mole (big blind) folded before Flop
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 collected ($0.12)
+
+
+
+PokerStars Hand #237770995877:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:16:05 PT [2022/08/03 17:16:05 ET]
+Table 'Williams' 9-max Seat #2 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.88 in chips) 
+Seat 3: Count Mole ($10.50 in chips) 
+Seat 5: maskch ($15.69 in chips) 
+Seat 6: jageboi ($2.38 in chips) 
+Seat 8: cubicroot ($4.72 in chips) 
+Seat 9: Dorex2007 ($5.59 in chips) 
+Count Mole: posts small blind $0.02
+maskch: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 5d]
+jageboi: folds 
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: raises $0.10 to $0.15
+Count Mole: folds 
+maskch: folds 
+Uncalled bet ($0.10) returned to ess666
+ess666 collected $0.12 from pot
+ess666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 (button) collected ($0.12)
+Seat 3: Count Mole (small blind) folded before Flop
+Seat 5: maskch (big blind) folded before Flop
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771002728:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:16:24 PT [2022/08/03 17:16:24 ET]
+Table 'Williams' 9-max Seat #3 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.95 in chips) 
+Seat 3: Count Mole ($10.48 in chips) 
+Seat 5: maskch ($15.64 in chips) 
+Seat 6: jageboi ($2.38 in chips) 
+Seat 8: cubicroot ($4.72 in chips) 
+Seat 9: Dorex2007 ($5.59 in chips) 
+maskch: posts small blind $0.02
+jageboi: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 9c]
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: raises $0.10 to $0.15
+Count Mole: folds 
+maskch: folds 
+jageboi: calls $0.10
+*** FLOP *** [6d 9d 2h]
+jageboi: checks 
+ess666: bets $0.25
+jageboi: folds 
+Uncalled bet ($0.25) returned to ess666
+ess666 collected $0.31 from pot
+ess666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [6d 9d 2h]
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 collected ($0.31)
+Seat 3: Count Mole (button) folded before Flop (didn't bet)
+Seat 5: maskch (small blind) folded before Flop
+Seat 6: jageboi (big blind) folded on the Flop
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771015375:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:16:58 PT [2022/08/03 17:16:58 ET]
+Table 'Williams' 9-max Seat #5 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($5.11 in chips) 
+Seat 3: Count Mole ($10.48 in chips) 
+Seat 5: maskch ($15.62 in chips) 
+Seat 6: jageboi ($2.23 in chips) 
+Seat 8: cubicroot ($4.72 in chips) 
+Seat 9: Dorex2007 ($5.59 in chips) 
+jageboi: posts small blind $0.02
+cubicroot: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 5d]
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+maskch: folds 
+jageboi: folds 
+Uncalled bet ($0.03) returned to cubicroot
+cubicroot collected $0.04 from pot
+cubicroot: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 5: maskch (button) folded before Flop (didn't bet)
+Seat 6: jageboi (small blind) folded before Flop
+Seat 8: cubicroot (big blind) collected ($0.04)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771021741:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:17:15 PT [2022/08/03 17:17:15 ET]
+Table 'Williams' 9-max Seat #6 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($5.11 in chips) 
+Seat 3: Count Mole ($10.48 in chips) 
+Seat 5: maskch ($15.62 in chips) 
+Seat 6: jageboi ($2.21 in chips) 
+Seat 8: cubicroot ($4.74 in chips) 
+Seat 9: Dorex2007 ($5.59 in chips) 
+cubicroot: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d Kd]
+ACEHbKA777: folds 
+ess666: calls $0.05
+Count Mole: folds 
+maskch: folds 
+jageboi: raises $0.10 to $0.15
+cubicroot: calls $0.13
+Dorex2007: folds 
+ess666: calls $0.10
+*** FLOP *** [4s Jc 6d]
+cubicroot: checks 
+ess666: bets $0.20
+jageboi: raises $1.86 to $2.06 and is all-in
+cubicroot: folds 
+ess666: folds 
+Uncalled bet ($1.86) returned to jageboi
+jageboi collected $0.86 from pot
+jageboi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [4s Jc 6d]
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded on the Flop
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi (button) collected ($0.86)
+Seat 8: cubicroot (small blind) folded on the Flop
+Seat 9: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237771040233:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:18:06 PT [2022/08/03 17:18:06 ET]
+Table 'Williams' 9-max Seat #8 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.76 in chips) 
+Seat 3: Count Mole ($10.48 in chips) 
+Seat 5: maskch ($15.62 in chips) 
+Seat 6: jageboi ($2.72 in chips) 
+Seat 8: cubicroot ($4.59 in chips) 
+Seat 9: Dorex2007 ($5.54 in chips) 
+Dorex2007: posts small blind $0.02
+ACEHbKA777: posts big blind $0.05
+megtorlo2244: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 9c]
+ess666: folds 
+Count Mole: raises $0.10 to $0.15
+maskch: folds 
+jageboi: folds 
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+Uncalled bet ($0.10) returned to Count Mole
+Count Mole collected $0.12 from pot
+Count Mole: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ACEHbKA777 (big blind) folded before Flop
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole collected ($0.12)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 8: cubicroot (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237771048536:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:18:28 PT [2022/08/03 17:18:28 ET]
+Table 'Williams' 9-max Seat #9 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.76 in chips) 
+Seat 3: Count Mole ($10.55 in chips) 
+Seat 5: maskch ($15.62 in chips) 
+Seat 6: jageboi ($2.72 in chips) 
+Seat 8: cubicroot ($4.59 in chips) 
+Seat 9: Dorex2007 ($5.52 in chips) 
+ACEHbKA777: posts small blind $0.02
+ess666: posts big blind $0.05
+megtorlo2244: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 9c]
+Count Mole: folds 
+maskch: folds 
+jageboi: calls $0.05
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: checks 
+*** FLOP *** [Qh Th 6h]
+matschus666 leaves the table
+ess666: checks 
+jageboi: bets $0.05
+ess666: folds 
+Uncalled bet ($0.05) returned to jageboi
+jageboi collected $0.12 from pot
+jageboi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Qh Th 6h]
+Seat 1: ACEHbKA777 (small blind) folded before Flop
+Seat 2: ess666 (big blind) folded on the Flop
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi collected ($0.12)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771059131:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:18:57 PT [2022/08/03 17:18:57 ET]
+Table 'Williams' 9-max Seat #1 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.71 in chips) 
+Seat 3: Count Mole ($10.55 in chips) 
+Seat 5: maskch ($15.62 in chips) 
+Seat 6: jageboi ($2.79 in chips) 
+Seat 7: megtorlo2244 ($6.54 in chips) 
+Seat 8: cubicroot ($4.59 in chips) 
+Seat 9: Dorex2007 ($5.52 in chips) 
+ess666: posts small blind $0.02
+Count Mole: posts big blind $0.05
+megtorlo2244: posts small & big blinds $0.07
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 6c]
+maskch: folds 
+jageboi: folds 
+megtorlo2244: checks 
+cubicroot: raises $0.05 to $0.10
+Dorex2007: calls $0.10
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Apostol108 joins the table at seat #4 
+megtorlo2244: calls $0.05
+*** FLOP *** [Ad Qh Jh]
+megtorlo2244: checks 
+cubicroot: bets $0.18
+Dorex2007: calls $0.18
+megtorlo2244: folds 
+*** TURN *** [Ad Qh Jh] [6h]
+cubicroot: checks 
+Dorex2007: bets $0.48
+cubicroot: folds 
+Uncalled bet ($0.48) returned to Dorex2007
+Dorex2007 collected $0.72 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Ad Qh Jh 6h]
+Seat 1: ACEHbKA777 (button) folded before Flop (didn't bet)
+Seat 2: ess666 (small blind) folded before Flop
+Seat 3: Count Mole (big blind) folded before Flop
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded on the Flop
+Seat 8: cubicroot folded on the Turn
+Seat 9: Dorex2007 collected ($0.72)
+
+
+
+PokerStars Hand #237771082422:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:19:59 PT [2022/08/03 17:19:59 ET]
+Table 'Williams' 9-max Seat #2 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.69 in chips) 
+Seat 3: Count Mole ($10.50 in chips) 
+Seat 4: Apostol108 ($5 in chips) 
+Seat 5: maskch ($15.62 in chips) 
+Seat 6: jageboi ($2.79 in chips) 
+Seat 7: megtorlo2244 ($6.42 in chips) 
+Seat 8: cubicroot ($5 in chips) 
+Seat 9: Dorex2007 ($5.96 in chips) 
+Count Mole: posts small blind $0.02
+Apostol108: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 7d]
+maskch: folds 
+jageboi: folds 
+megtorlo2244: folds 
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Uncalled bet ($0.03) returned to Apostol108
+Apostol108 collected $0.04 from pot
+Apostol108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 (button) folded before Flop (didn't bet)
+Seat 3: Count Mole (small blind) folded before Flop
+Seat 4: Apostol108 (big blind) collected ($0.04)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771089394:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:20:18 PT [2022/08/03 17:20:18 ET]
+Table 'Williams' 9-max Seat #3 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.69 in chips) 
+Seat 3: Count Mole ($10.48 in chips) 
+Seat 4: Apostol108 ($5.02 in chips) 
+Seat 5: maskch ($15.62 in chips) 
+Seat 6: jageboi ($2.79 in chips) 
+Seat 7: megtorlo2244 ($6.42 in chips) 
+Seat 8: cubicroot ($5 in chips) 
+Seat 9: Dorex2007 ($5.96 in chips) 
+Apostol108: posts small blind $0.02
+maskch: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 6d]
+jageboi: raises $0.10 to $0.15
+megtorlo2244: folds 
+cubicroot has timed out
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+Uncalled bet ($0.10) returned to jageboi
+jageboi collected $0.12 from pot
+jageboi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole (button) folded before Flop (didn't bet)
+Seat 4: Apostol108 (small blind) folded before Flop
+Seat 5: maskch (big blind) folded before Flop
+Seat 6: jageboi collected ($0.12)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771104017:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:20:58 PT [2022/08/03 17:20:58 ET]
+Table 'Williams' 9-max Seat #4 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.69 in chips) 
+Seat 3: Count Mole ($10.48 in chips) 
+Seat 4: Apostol108 ($5 in chips) 
+Seat 5: maskch ($15.57 in chips) 
+Seat 6: jageboi ($2.86 in chips) 
+Seat 7: megtorlo2244 ($6.42 in chips) 
+Seat 8: cubicroot ($5 in chips) 
+Seat 9: Dorex2007 ($5.96 in chips) 
+maskch: posts small blind $0.02
+jageboi: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Ad]
+megtorlo2244: folds 
+cubicroot has timed out
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Apostol108: raises $0.10 to $0.15
+maskch: folds 
+jageboi: calls $0.10
+*** FLOP *** [Jd 8s 6c]
+jageboi: checks 
+Apostol108: bets $0.16
+jageboi: folds 
+Uncalled bet ($0.16) returned to Apostol108
+Apostol108 collected $0.31 from pot
+Apostol108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Jd 8s 6c]
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 (button) collected ($0.31)
+Seat 5: maskch (small blind) folded before Flop
+Seat 6: jageboi (big blind) folded on the Flop
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771115926:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:21:31 PT [2022/08/03 17:21:31 ET]
+Table 'Williams' 9-max Seat #5 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.69 in chips) 
+Seat 3: Count Mole ($10.48 in chips) 
+Seat 4: Apostol108 ($5.16 in chips) 
+Seat 5: maskch ($15.55 in chips) 
+Seat 6: jageboi ($2.71 in chips) 
+Seat 7: megtorlo2244 ($6.42 in chips) 
+Seat 9: Dorex2007 ($5.96 in chips) 
+jageboi: posts small blind $0.02
+megtorlo2244: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Qd]
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+jageboi: folds 
+Uncalled bet ($0.03) returned to megtorlo2244
+megtorlo2244 collected $0.04 from pot
+megtorlo2244: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch (button) folded before Flop (didn't bet)
+Seat 6: jageboi (small blind) folded before Flop
+Seat 7: megtorlo2244 (big blind) collected ($0.04)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771119761:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:21:41 PT [2022/08/03 17:21:41 ET]
+Table 'Williams' 9-max Seat #6 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.69 in chips) 
+Seat 3: Count Mole ($10.48 in chips) 
+Seat 4: Apostol108 ($5.16 in chips) 
+Seat 5: maskch ($15.55 in chips) 
+Seat 6: jageboi ($2.69 in chips) 
+Seat 7: megtorlo2244 ($6.44 in chips) 
+Seat 9: Dorex2007 ($5.96 in chips) 
+megtorlo2244: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 3d]
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+jageboi: raises $0.10 to $0.15
+megtorlo2244: folds 
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to jageboi
+jageboi collected $0.12 from pot
+jageboi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi (button) collected ($0.12)
+Seat 7: megtorlo2244 (small blind) folded before Flop
+Seat 9: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237771125567:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:21:57 PT [2022/08/03 17:21:57 ET]
+Table 'Williams' 9-max Seat #7 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.69 in chips) 
+Seat 3: Count Mole ($10.48 in chips) 
+Seat 4: Apostol108 ($5.16 in chips) 
+Seat 5: maskch ($15.55 in chips) 
+Seat 6: jageboi ($2.76 in chips) 
+Seat 7: megtorlo2244 ($6.42 in chips) 
+Seat 9: Dorex2007 ($5.91 in chips) 
+Dorex2007: posts small blind $0.02
+ACEHbKA777: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 6s]
+ess666 has timed out
+ess666: folds 
+Count Mole: folds 
+Apostol108: folds 
+maskch: raises $0.05 to $0.10
+jageboi: calls $0.10
+megtorlo2244: folds 
+Dorex2007: calls $0.08
+ACEHbKA777: calls $0.05
+*** FLOP *** [Jd 6h 7s]
+Dorex2007: checks 
+ACEHbKA777: checks 
+maskch: checks 
+jageboi: checks 
+*** TURN *** [Jd 6h 7s] [Ts]
+Dorex2007: checks 
+ACEHbKA777: checks 
+maskch: checks 
+jageboi: bets $0.24
+Dorex2007: raises $0.33 to $0.57
+ACEHbKA777: folds 
+maskch: calls $0.57
+jageboi: folds 
+*** RIVER *** [Jd 6h 7s Ts] [8s]
+Dorex2007: bets $0.85
+maskch: raises $0.85 to $1.70
+Dorex2007: folds 
+Uncalled bet ($0.85) returned to maskch
+maskch collected $3.34 from pot
+*** SUMMARY ***
+Total pot $3.48 | Rake $0.14 
+Board [Jd 6h 7s Ts 8s]
+Seat 1: ACEHbKA777 (big blind) folded on the Turn
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch collected ($3.34)
+Seat 6: jageboi folded on the Turn
+Seat 7: megtorlo2244 (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded on the River
+
+
+
+PokerStars Hand #237771173017:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:23:24 PT [2022/08/03 17:23:24 ET]
+Table 'Williams' 9-max Seat #9 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.69 in chips) 
+Seat 3: Count Mole ($10.48 in chips) 
+Seat 4: Apostol108 ($5.16 in chips) 
+Seat 5: maskch ($17.37 in chips) 
+Seat 6: jageboi ($2.42 in chips) 
+Seat 7: megtorlo2244 ($6.42 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+ACEHbKA777: posts small blind $0.02
+ess666: posts big blind $0.05
+cubicroot: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 5h]
+Count Mole: folds 
+Apostol108: raises $0.10 to $0.15
+maskch: folds 
+jageboi: calls $0.15
+megtorlo2244: calls $0.15
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+*** FLOP *** [3s 9c 6s]
+Apostol108: checks 
+jageboi: bets $0.10
+megtorlo2244: raises $0.10 to $0.20
+Apostol108: folds 
+jageboi: calls $0.10
+*** TURN *** [3s 9c 6s] [Ad]
+jageboi: bets $0.44
+megtorlo2244: folds 
+Uncalled bet ($0.44) returned to jageboi
+jageboi collected $0.88 from pot
+jageboi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.92 | Rake $0.04 
+Board [3s 9c 6s Ad]
+Seat 1: ACEHbKA777 (small blind) folded before Flop
+Seat 2: ess666 (big blind) folded before Flop
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded on the Flop
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi collected ($0.88)
+Seat 7: megtorlo2244 folded on the Turn
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771211555:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:25:11 PT [2022/08/03 17:25:11 ET]
+Table 'Williams' 9-max Seat #1 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.64 in chips) 
+Seat 3: Count Mole ($10.48 in chips) 
+Seat 4: Apostol108 ($5.01 in chips) 
+Seat 5: maskch ($17.37 in chips) 
+Seat 6: jageboi ($2.95 in chips) 
+Seat 7: megtorlo2244 ($6.07 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+ess666: posts small blind $0.02
+Count Mole: posts big blind $0.05
+cubicroot: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 2h]
+Apostol108: folds 
+maskch: folds 
+jageboi: folds 
+megtorlo2244: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Uncalled bet ($0.03) returned to Count Mole
+Count Mole collected $0.04 from pot
+Count Mole: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ACEHbKA777 (button) folded before Flop (didn't bet)
+Seat 2: ess666 (small blind) folded before Flop
+Seat 3: Count Mole (big blind) collected ($0.04)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771223451:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:25:44 PT [2022/08/03 17:25:44 ET]
+Table 'Williams' 9-max Seat #2 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.62 in chips) 
+Seat 3: Count Mole ($10.50 in chips) 
+Seat 4: Apostol108 ($5.01 in chips) 
+Seat 5: maskch ($17.37 in chips) 
+Seat 6: jageboi ($2.95 in chips) 
+Seat 7: megtorlo2244 ($6.07 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+Count Mole: posts small blind $0.02
+Apostol108: posts big blind $0.05
+cubicroot: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 8d]
+maskch: calls $0.05
+jageboi: folds 
+megtorlo2244: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666 is connected 
+ess666 has timed out
+ess666: folds 
+Count Mole: raises $0.10 to $0.15
+Apostol108: folds 
+maskch: calls $0.10
+*** FLOP *** [4h 8c Qc]
+Count Mole: checks 
+maskch: bets $0.17
+Count Mole: folds 
+Uncalled bet ($0.17) returned to maskch
+maskch collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [4h 8c Qc]
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 (button) folded before Flop (didn't bet)
+Seat 3: Count Mole (small blind) folded on the Flop
+Seat 4: Apostol108 (big blind) folded before Flop
+Seat 5: maskch collected ($0.34)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771243053:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:26:38 PT [2022/08/03 17:26:38 ET]
+Table 'Williams' 9-max Seat #3 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.62 in chips) 
+Seat 3: Count Mole ($10.35 in chips) 
+Seat 4: Apostol108 ($5 in chips) 
+Seat 5: maskch ($17.56 in chips) 
+Seat 6: jageboi ($2.95 in chips) 
+Seat 7: megtorlo2244 ($6.07 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+Apostol108: posts small blind $0.02
+maskch: posts big blind $0.05
+cubicroot: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 7c]
+jageboi: raises $0.05 to $0.10
+megtorlo2244: calls $0.10
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Apostol108: raises $0.40 to $0.50
+maskch: folds 
+jageboi: folds 
+megtorlo2244: folds 
+Uncalled bet ($0.40) returned to Apostol108
+Apostol108 collected $0.35 from pot
+Apostol108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole (button) folded before Flop (didn't bet)
+Seat 4: Apostol108 (small blind) collected ($0.35)
+Seat 5: maskch (big blind) folded before Flop
+Seat 6: jageboi folded before Flop
+Seat 7: megtorlo2244 folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771254154:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:27:09 PT [2022/08/03 17:27:09 ET]
+Table 'Williams' 9-max Seat #4 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.62 in chips) 
+Seat 3: Count Mole ($10.35 in chips) 
+Seat 4: Apostol108 ($5.25 in chips) 
+Seat 5: maskch ($17.51 in chips) 
+Seat 6: jageboi ($2.85 in chips) 
+Seat 7: megtorlo2244 ($5.97 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+maskch: posts small blind $0.02
+jageboi: posts big blind $0.05
+cubicroot: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Jh]
+megtorlo2244: raises $0.10 to $0.15
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+jageboi: folds 
+Uncalled bet ($0.10) returned to megtorlo2244
+megtorlo2244 collected $0.12 from pot
+megtorlo2244: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 (button) folded before Flop (didn't bet)
+Seat 5: maskch (small blind) folded before Flop
+Seat 6: jageboi (big blind) folded before Flop
+Seat 7: megtorlo2244 collected ($0.12)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771258129:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:27:20 PT [2022/08/03 17:27:20 ET]
+Table 'Williams' 9-max Seat #5 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.62 in chips) 
+Seat 3: Count Mole ($10.35 in chips) 
+Seat 4: Apostol108 ($5.25 in chips) 
+Seat 5: maskch ($17.49 in chips) 
+Seat 6: jageboi ($2.80 in chips) 
+Seat 7: megtorlo2244 ($6.04 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+jageboi: posts small blind $0.02
+megtorlo2244: posts big blind $0.05
+cubicroot: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 9d]
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: calls $0.05
+Count Mole: raises $0.10 to $0.15
+Apostol108: folds 
+maskch: folds 
+jageboi: folds 
+megtorlo2244: folds 
+ess666: calls $0.10
+*** FLOP *** [4s Ac Th]
+ess666: checks 
+Count Mole: bets $0.23
+ess666: folds 
+Uncalled bet ($0.23) returned to Count Mole
+Count Mole collected $0.35 from pot
+Count Mole: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [4s Ac Th]
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded on the Flop
+Seat 3: Count Mole collected ($0.35)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch (button) folded before Flop (didn't bet)
+Seat 6: jageboi (small blind) folded before Flop
+Seat 7: megtorlo2244 (big blind) folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771277042:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:28:13 PT [2022/08/03 17:28:13 ET]
+Table 'Williams' 9-max Seat #6 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.47 in chips) 
+Seat 3: Count Mole ($10.55 in chips) 
+Seat 4: Apostol108 ($5.25 in chips) 
+Seat 5: maskch ($17.49 in chips) 
+Seat 6: jageboi ($2.78 in chips) 
+Seat 7: megtorlo2244 ($5.99 in chips) 
+Seat 8: cubicroot ($5 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+megtorlo2244: posts small blind $0.02
+cubicroot: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Jd]
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Apostol108: raises $0.10 to $0.15
+maskch: folds 
+jageboi: folds 
+megtorlo2244: folds 
+cubicroot: folds 
+Uncalled bet ($0.10) returned to Apostol108
+Apostol108 collected $0.12 from pot
+Apostol108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 collected ($0.12)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi (button) folded before Flop (didn't bet)
+Seat 7: megtorlo2244 (small blind) folded before Flop
+Seat 8: cubicroot (big blind) folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771283764:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:28:31 PT [2022/08/03 17:28:31 ET]
+Table 'Williams' 9-max Seat #7 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.47 in chips) 
+Seat 3: Count Mole ($10.55 in chips) 
+Seat 4: Apostol108 ($5.32 in chips) 
+Seat 5: maskch ($17.49 in chips) 
+Seat 6: jageboi ($2.78 in chips) 
+Seat 7: megtorlo2244 ($5.97 in chips) 
+Seat 8: cubicroot ($4.95 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+cubicroot: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s Qs]
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: raises $0.10 to $0.15
+Apostol108: calls $0.15
+maskch: folds 
+jageboi: raises $2.63 to $2.78 and is all-in
+megtorlo2244: folds 
+cubicroot: folds 
+Dorex2007: folds 
+Count Mole: folds 
+Apostol108: folds 
+Uncalled bet ($2.63) returned to jageboi
+jageboi collected $0.52 from pot
+jageboi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.52 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop
+Seat 4: Apostol108 folded before Flop
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi collected ($0.52)
+Seat 7: megtorlo2244 (button) folded before Flop (didn't bet)
+Seat 8: cubicroot (small blind) folded before Flop
+Seat 9: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237771294567:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:29:01 PT [2022/08/03 17:29:01 ET]
+Table 'Williams' 9-max Seat #8 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.47 in chips) 
+Seat 3: Count Mole ($10.40 in chips) 
+Seat 4: Apostol108 ($5.17 in chips) 
+Seat 5: maskch ($17.49 in chips) 
+Seat 6: jageboi ($3.15 in chips) 
+Seat 7: megtorlo2244 ($5.97 in chips) 
+Seat 8: cubicroot ($4.93 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+Dorex2007: posts small blind $0.02
+ACEHbKA777: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 6c]
+ess666: folds 
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+jageboi: folds 
+megtorlo2244: raises $0.10 to $0.15
+cubicroot: calls $0.15
+Dorex2007: folds 
+ACEHbKA777: folds 
+*** FLOP *** [2h 7h 9d]
+megtorlo2244: bets $0.20
+cubicroot: calls $0.20
+*** TURN *** [2h 7h 9d] [Ts]
+megtorlo2244: checks 
+cubicroot: bets $0.74
+megtorlo2244: folds 
+Uncalled bet ($0.74) returned to cubicroot
+cubicroot collected $0.74 from pot
+cubicroot: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [2h 7h 9d Ts]
+Seat 1: ACEHbKA777 (big blind) folded before Flop
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded on the Turn
+Seat 8: cubicroot (button) collected ($0.74)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237771310308:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:29:45 PT [2022/08/03 17:29:45 ET]
+Table 'Williams' 9-max Seat #9 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.47 in chips) 
+Seat 3: Count Mole ($10.40 in chips) 
+Seat 4: Apostol108 ($5.17 in chips) 
+Seat 5: maskch ($17.49 in chips) 
+Seat 6: jageboi ($3.15 in chips) 
+Seat 7: megtorlo2244 ($5.62 in chips) 
+Seat 8: cubicroot ($5.32 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+ACEHbKA777: posts small blind $0.02
+ess666: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Ts]
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+jageboi: folds 
+megtorlo2244: folds 
+cubicroot: calls $0.05
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: checks 
+*** FLOP *** [Ah 5c Ac]
+ess666: checks 
+cubicroot: checks 
+*** TURN *** [Ah 5c Ac] [2s]
+ess666: checks 
+cubicroot: bets $0.12
+ess666: folds 
+Uncalled bet ($0.12) returned to cubicroot
+cubicroot collected $0.12 from pot
+cubicroot: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ah 5c Ac 2s]
+Seat 1: ACEHbKA777 (small blind) folded before Flop
+Seat 2: ess666 (big blind) folded on the Turn
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: cubicroot collected ($0.12)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771325135:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:30:27 PT [2022/08/03 17:30:27 ET]
+Table 'Williams' 9-max Seat #1 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.42 in chips) 
+Seat 3: Count Mole ($10.40 in chips) 
+Seat 4: Apostol108 ($5.17 in chips) 
+Seat 5: maskch ($17.49 in chips) 
+Seat 6: jageboi ($3.15 in chips) 
+Seat 7: megtorlo2244 ($5.62 in chips) 
+Seat 8: cubicroot ($5.39 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+ess666: posts small blind $0.02
+Count Mole: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 7h]
+Apostol108: folds 
+maskch: folds 
+jageboi: folds 
+megtorlo2244: raises $0.10 to $0.15
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Uncalled bet ($0.10) returned to megtorlo2244
+megtorlo2244 collected $0.12 from pot
+megtorlo2244: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ACEHbKA777 (button) folded before Flop (didn't bet)
+Seat 2: ess666 (small blind) folded before Flop
+Seat 3: Count Mole (big blind) folded before Flop
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 collected ($0.12)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771329041:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:30:38 PT [2022/08/03 17:30:38 ET]
+Table 'Williams' 9-max Seat #2 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.40 in chips) 
+Seat 3: Count Mole ($10.35 in chips) 
+Seat 4: Apostol108 ($5.17 in chips) 
+Seat 5: maskch ($17.49 in chips) 
+Seat 6: jageboi ($3.15 in chips) 
+Seat 7: megtorlo2244 ($5.69 in chips) 
+Seat 8: cubicroot ($5.39 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+Count Mole: posts small blind $0.02
+Apostol108: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 4s]
+maskch: folds 
+jageboi has timed out
+jageboi: folds 
+megtorlo2244: raises $0.10 to $0.15
+cubicroot: folds 
+Dorex2007 has timed out
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Apostol108: folds 
+Uncalled bet ($0.10) returned to megtorlo2244
+megtorlo2244 collected $0.12 from pot
+megtorlo2244: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 (button) folded before Flop (didn't bet)
+Seat 3: Count Mole (small blind) folded before Flop
+Seat 4: Apostol108 (big blind) folded before Flop
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 collected ($0.12)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771341289:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:31:12 PT [2022/08/03 17:31:12 ET]
+Table 'Williams' 9-max Seat #3 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.40 in chips) 
+Seat 3: Count Mole ($10.33 in chips) 
+Seat 4: Apostol108 ($5.12 in chips) 
+Seat 5: maskch ($17.49 in chips) 
+Seat 6: jageboi ($3.15 in chips) 
+Seat 7: megtorlo2244 ($5.76 in chips) 
+Seat 8: cubicroot ($5.39 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+Apostol108: posts small blind $0.02
+maskch: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 5s]
+jageboi has timed out
+jageboi: folds 
+megtorlo2244: folds 
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: raises $0.10 to $0.15
+Count Mole: folds 
+Apostol108: raises $0.35 to $0.50
+maskch: folds 
+ess666: calls $0.35
+*** FLOP *** [Jh 3d 8h]
+Apostol108: bets $0.60
+ess666: folds 
+Uncalled bet ($0.60) returned to Apostol108
+Apostol108 collected $1.01 from pot
+Apostol108: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.04 
+Board [Jh 3d 8h]
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded on the Flop
+Seat 3: Count Mole (button) folded before Flop (didn't bet)
+Seat 4: Apostol108 (small blind) collected ($1.01)
+Seat 5: maskch (big blind) folded before Flop
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771365217:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:32:19 PT [2022/08/03 17:32:19 ET]
+Table 'Williams' 9-max Seat #4 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($3.90 in chips) 
+Seat 3: Count Mole ($10.33 in chips) 
+Seat 4: Apostol108 ($5.63 in chips) 
+Seat 5: maskch ($17.44 in chips) 
+Seat 6: jageboi ($3.15 in chips) 
+Seat 7: megtorlo2244 ($5.76 in chips) 
+Seat 8: cubicroot ($5.39 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+maskch: posts small blind $0.02
+jageboi: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 5s]
+megtorlo2244: folds 
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: raises $0.10 to $0.15
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+jageboi: folds 
+Uncalled bet ($0.10) returned to ess666
+ess666 collected $0.12 from pot
+ess666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 collected ($0.12)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 (button) folded before Flop (didn't bet)
+Seat 5: maskch (small blind) folded before Flop
+Seat 6: jageboi (big blind) folded before Flop
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771374846:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:32:46 PT [2022/08/03 17:32:46 ET]
+Table 'Williams' 9-max Seat #5 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($3.97 in chips) 
+Seat 3: Count Mole ($10.33 in chips) 
+Seat 4: Apostol108 ($5.63 in chips) 
+Seat 5: maskch ($17.42 in chips) 
+Seat 6: jageboi ($3.10 in chips) 
+Seat 7: megtorlo2244 ($5.76 in chips) 
+Seat 8: cubicroot ($5.39 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+jageboi: posts small blind $0.02
+megtorlo2244: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 3d]
+cubicroot: raises $0.05 to $0.10
+Dorex2007: folds 
+ACEHbKA777: calls $0.10
+ess666: raises $0.20 to $0.30
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+jageboi: folds 
+megtorlo2244: folds 
+cubicroot: calls $0.20
+ACEHbKA777: folds 
+*** FLOP *** [3h Jc 7h]
+cubicroot: checks 
+ess666: bets $0.40
+cubicroot: folds 
+Uncalled bet ($0.40) returned to ess666
+ess666 collected $0.74 from pot
+ess666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [3h Jc 7h]
+Seat 1: ACEHbKA777 folded before Flop
+Seat 2: ess666 collected ($0.74)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch (button) folded before Flop (didn't bet)
+Seat 6: jageboi (small blind) folded before Flop
+Seat 7: megtorlo2244 (big blind) folded before Flop
+Seat 8: cubicroot folded on the Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771394786:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:33:42 PT [2022/08/03 17:33:42 ET]
+Table 'Williams' 9-max Seat #6 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.41 in chips) 
+Seat 3: Count Mole ($10.33 in chips) 
+Seat 4: Apostol108 ($5.63 in chips) 
+Seat 5: maskch ($17.42 in chips) 
+Seat 6: jageboi ($3.08 in chips) 
+Seat 7: megtorlo2244 ($5.71 in chips) 
+Seat 8: cubicroot ($5.09 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+megtorlo2244: posts small blind $0.02
+cubicroot: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 9h]
+Dorex2007: raises $0.05 to $0.10
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+jageboi: calls $0.10
+megtorlo2244: folds 
+cubicroot: calls $0.05
+*** FLOP *** [5c 8s Qs]
+cubicroot: checks 
+Dorex2007: checks 
+jageboi: checks 
+*** TURN *** [5c 8s Qs] [Jc]
+cubicroot: bets $0.31
+Dorex2007: folds 
+jageboi: folds 
+Uncalled bet ($0.31) returned to cubicroot
+cubicroot collected $0.31 from pot
+cubicroot: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [5c 8s Qs Jc]
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi (button) folded on the Turn
+Seat 7: megtorlo2244 (small blind) folded before Flop
+Seat 8: cubicroot (big blind) collected ($0.31)
+Seat 9: Dorex2007 folded on the Turn
+
+
+
+PokerStars Hand #237771417110:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:34:45 PT [2022/08/03 17:34:45 ET]
+Table 'Williams' 9-max Seat #7 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.41 in chips) 
+Seat 3: Count Mole ($10.33 in chips) 
+Seat 4: Apostol108 ($5.63 in chips) 
+Seat 5: maskch ($17.42 in chips) 
+Seat 6: jageboi ($2.98 in chips) 
+Seat 7: megtorlo2244 ($5.69 in chips) 
+Seat 8: cubicroot ($5.30 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+cubicroot: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 4c]
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+jageboi: raises $0.05 to $0.10
+megtorlo2244: calls $0.10
+cubicroot: calls $0.08
+Dorex2007: folds 
+*** FLOP *** [Kc Jc 8c]
+cubicroot: checks 
+jageboi: checks 
+megtorlo2244: checks 
+*** TURN *** [Kc Jc 8c] [Ad]
+cubicroot: checks 
+jageboi: bets $0.10
+megtorlo2244: calls $0.10
+cubicroot: raises $0.15 to $0.25
+jageboi: calls $0.15
+megtorlo2244: folds 
+*** RIVER *** [Kc Jc 8c Ad] [9c]
+cubicroot: bets $0.45
+jageboi: calls $0.45
+*** SHOW DOWN ***
+cubicroot: shows [Qs As] (a pair of Aces)
+jageboi: shows [9s Jh] (two pair, Jacks and Nines)
+jageboi collected $1.77 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08 
+Board [Kc Jc 8c Ad 9c]
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi showed [9s Jh] and won ($1.77) with two pair, Jacks and Nines
+Seat 7: megtorlo2244 (button) folded on the Turn
+Seat 8: cubicroot (small blind) showed [Qs As] and lost with a pair of Aces
+Seat 9: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237771435671:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:35:37 PT [2022/08/03 17:35:37 ET]
+Table 'Williams' 9-max Seat #8 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.41 in chips) 
+Seat 3: Count Mole ($10.33 in chips) 
+Seat 4: Apostol108 ($5.63 in chips) 
+Seat 5: maskch ($17.42 in chips) 
+Seat 6: jageboi ($3.95 in chips) 
+Seat 7: megtorlo2244 ($5.49 in chips) 
+Seat 8: cubicroot ($4.50 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+Dorex2007: posts small blind $0.02
+ACEHbKA777: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 6s]
+ess666 has timed out
+ess666: folds 
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+jageboi: folds 
+megtorlo2244: folds 
+cubicroot has timed out
+cubicroot: folds 
+Dorex2007: folds 
+Uncalled bet ($0.03) returned to ACEHbKA777
+ACEHbKA777 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ACEHbKA777 (big blind) collected ($0.04)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: cubicroot (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237771447146:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:36:09 PT [2022/08/03 17:36:09 ET]
+Table 'Williams' 9-max Seat #9 is the button
+Seat 1: ACEHbKA777 ($5.02 in chips) 
+Seat 2: ess666 ($4.41 in chips) 
+Seat 3: Count Mole ($10.33 in chips) 
+Seat 4: Apostol108 ($5.63 in chips) 
+Seat 5: maskch ($17.42 in chips) 
+Seat 6: jageboi ($3.95 in chips) 
+Seat 7: megtorlo2244 ($5.49 in chips) 
+Seat 8: cubicroot ($4.50 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+ACEHbKA777: posts small blind $0.02
+ess666: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 2s]
+Count Mole: folds 
+Apostol108: raises $0.10 to $0.15
+maskch: folds 
+jageboi: folds 
+megtorlo2244: folds 
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Uncalled bet ($0.10) returned to Apostol108
+Apostol108 collected $0.12 from pot
+Apostol108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ACEHbKA777 (small blind) folded before Flop
+Seat 2: ess666 (big blind) folded before Flop
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 collected ($0.12)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771456574:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:36:36 PT [2022/08/03 17:36:36 ET]
+Table 'Williams' 9-max Seat #1 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.36 in chips) 
+Seat 3: Count Mole ($10.33 in chips) 
+Seat 4: Apostol108 ($5.70 in chips) 
+Seat 5: maskch ($17.42 in chips) 
+Seat 6: jageboi ($3.95 in chips) 
+Seat 7: megtorlo2244 ($5.49 in chips) 
+Seat 8: cubicroot ($4.50 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+ess666: posts small blind $0.02
+Count Mole: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 6d]
+Apostol108: raises $0.10 to $0.15
+maskch: folds 
+jageboi: folds 
+megtorlo2244: folds 
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: calls $0.10
+*** FLOP *** [Kh 2s 3s]
+Count Mole: checks 
+Apostol108: bets $0.20
+Count Mole: raises $0.20 to $0.40
+Apostol108: calls $0.20
+*** TURN *** [Kh 2s 3s] [Qh]
+Count Mole: bets $0.53
+Apostol108: calls $0.53
+*** RIVER *** [Kh 2s 3s Qh] [5s]
+Count Mole: checks 
+Apostol108: checks 
+*** SHOW DOWN ***
+Count Mole: shows [9d Qd] (a pair of Queens)
+Apostol108: shows [Ad Kc] (a pair of Kings)
+Apostol108 collected $2.09 from pot
+*** SUMMARY ***
+Total pot $2.18 | Rake $0.09 
+Board [Kh 2s 3s Qh 5s]
+Seat 1: ACEHbKA777 (button) folded before Flop (didn't bet)
+Seat 2: ess666 (small blind) folded before Flop
+Seat 3: Count Mole (big blind) showed [9d Qd] and lost with a pair of Queens
+Seat 4: Apostol108 showed [Ad Kc] and won ($2.09) with a pair of Kings
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771481099:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:37:45 PT [2022/08/03 17:37:45 ET]
+Table 'Williams' 9-max Seat #2 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.34 in chips) 
+Seat 3: Count Mole ($9.25 in chips) 
+Seat 4: Apostol108 ($6.71 in chips) 
+Seat 5: maskch ($17.42 in chips) 
+Seat 6: jageboi ($3.95 in chips) 
+Seat 7: megtorlo2244 ($5.49 in chips) 
+Seat 8: cubicroot ($4.50 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+Count Mole: posts small blind $0.02
+Apostol108: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 4h]
+maskch: folds 
+jageboi: raises $0.05 to $0.10
+megtorlo2244: folds 
+cubicroot: calls $0.10
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: raises $0.35 to $0.45
+Count Mole: folds 
+Apostol108: folds 
+jageboi: folds 
+cubicroot: folds 
+Uncalled bet ($0.35) returned to ess666
+ess666 collected $0.37 from pot
+ess666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 (button) collected ($0.37)
+Seat 3: Count Mole (small blind) folded before Flop
+Seat 4: Apostol108 (big blind) folded before Flop
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: cubicroot folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771489940:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:38:09 PT [2022/08/03 17:38:09 ET]
+Table 'Williams' 9-max Seat #3 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.61 in chips) 
+Seat 3: Count Mole ($9.23 in chips) 
+Seat 4: Apostol108 ($6.66 in chips) 
+Seat 5: maskch ($17.42 in chips) 
+Seat 6: jageboi ($3.85 in chips) 
+Seat 7: megtorlo2244 ($5.49 in chips) 
+Seat 8: cubicroot ($5 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+Apostol108: posts small blind $0.02
+maskch: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc As]
+jageboi: folds 
+megtorlo2244: folds 
+cubicroot: folds 
+Dorex2007: raises $0.15 to $0.20
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Apostol108: folds 
+maskch: calls $0.15
+*** FLOP *** [5c 9h 3s]
+maskch: checks 
+Dorex2007: bets $0.40
+maskch: folds 
+Uncalled bet ($0.40) returned to Dorex2007
+Dorex2007 collected $0.40 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.02 
+Board [5c 9h 3s]
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole (button) folded before Flop (didn't bet)
+Seat 4: Apostol108 (small blind) folded before Flop
+Seat 5: maskch (big blind) folded on the Flop
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 collected ($0.40)
+
+
+
+PokerStars Hand #237771499344:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:38:35 PT [2022/08/03 17:38:35 ET]
+Table 'Williams' 9-max Seat #4 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.61 in chips) 
+Seat 3: Count Mole ($9.23 in chips) 
+Seat 4: Apostol108 ($6.64 in chips) 
+Seat 5: maskch ($17.22 in chips) 
+Seat 6: jageboi ($3.85 in chips) 
+Seat 7: megtorlo2244 ($5.49 in chips) 
+Seat 8: cubicroot ($5 in chips) 
+Seat 9: Dorex2007 ($5.20 in chips) 
+maskch: posts small blind $0.02
+jageboi: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 8c]
+megtorlo2244: folds 
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+Uncalled bet ($0.03) returned to jageboi
+jageboi collected $0.04 from pot
+jageboi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 (button) folded before Flop (didn't bet)
+Seat 5: maskch (small blind) folded before Flop
+Seat 6: jageboi (big blind) collected ($0.04)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771504625:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:38:50 PT [2022/08/03 17:38:50 ET]
+Table 'Williams' 9-max Seat #5 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.61 in chips) 
+Seat 3: Count Mole ($9.23 in chips) 
+Seat 4: Apostol108 ($6.64 in chips) 
+Seat 5: maskch ($17.20 in chips) 
+Seat 6: jageboi ($3.87 in chips) 
+Seat 7: megtorlo2244 ($5.49 in chips) 
+Seat 8: cubicroot ($5 in chips) 
+Seat 9: Dorex2007 ($5.20 in chips) 
+jageboi: posts small blind $0.02
+megtorlo2244: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 7c]
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+jageboi: folds 
+Uncalled bet ($0.03) returned to megtorlo2244
+megtorlo2244 collected $0.04 from pot
+megtorlo2244: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch (button) folded before Flop (didn't bet)
+Seat 6: jageboi (small blind) folded before Flop
+Seat 7: megtorlo2244 (big blind) collected ($0.04)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771509386:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:39:04 PT [2022/08/03 17:39:04 ET]
+Table 'Williams' 9-max Seat #6 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.61 in chips) 
+Seat 3: Count Mole ($9.23 in chips) 
+Seat 4: Apostol108 ($6.64 in chips) 
+Seat 5: maskch ($17.20 in chips) 
+Seat 6: jageboi ($3.85 in chips) 
+Seat 7: megtorlo2244 ($5.51 in chips) 
+Seat 8: cubicroot ($5 in chips) 
+Seat 9: Dorex2007 ($5.20 in chips) 
+megtorlo2244: posts small blind $0.02
+cubicroot: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 2h]
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+jageboi: raises $0.10 to $0.15
+megtorlo2244: folds 
+cubicroot: folds 
+Uncalled bet ($0.10) returned to jageboi
+jageboi collected $0.12 from pot
+jageboi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi (button) collected ($0.12)
+Seat 7: megtorlo2244 (small blind) folded before Flop
+Seat 8: cubicroot (big blind) folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771515016:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:39:20 PT [2022/08/03 17:39:20 ET]
+Table 'Williams' 9-max Seat #7 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.61 in chips) 
+Seat 3: Count Mole ($9.23 in chips) 
+Seat 4: Apostol108 ($6.64 in chips) 
+Seat 5: maskch ($17.20 in chips) 
+Seat 6: jageboi ($3.92 in chips) 
+Seat 7: megtorlo2244 ($5.49 in chips) 
+Seat 8: cubicroot ($4.95 in chips) 
+Seat 9: Dorex2007 ($5.20 in chips) 
+cubicroot: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Jc]
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Apostol108: folds 
+maskch: calls $0.05
+jageboi: folds 
+megtorlo2244: folds 
+cubicroot: calls $0.03
+Dorex2007: raises $0.20 to $0.25
+maskch: folds 
+cubicroot: folds 
+Uncalled bet ($0.20) returned to Dorex2007
+Dorex2007 collected $0.15 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 (button) folded before Flop (didn't bet)
+Seat 8: cubicroot (small blind) folded before Flop
+Seat 9: Dorex2007 (big blind) collected ($0.15)
+
+
+
+PokerStars Hand #237771522978:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:39:42 PT [2022/08/03 17:39:42 ET]
+Table 'Williams' 9-max Seat #8 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.61 in chips) 
+Seat 3: Count Mole ($9.23 in chips) 
+Seat 4: Apostol108 ($6.64 in chips) 
+Seat 5: maskch ($17.15 in chips) 
+Seat 6: jageboi ($3.92 in chips) 
+Seat 7: megtorlo2244 ($5.49 in chips) 
+Seat 8: cubicroot ($4.90 in chips) 
+Seat 9: Dorex2007 ($5.30 in chips) 
+Dorex2007: posts small blind $0.02
+ACEHbKA777: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 3h]
+ess666: calls $0.05
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+jageboi: folds 
+megtorlo2244: raises $0.10 to $0.15
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: calls $0.10
+*** FLOP *** [Qc Th 4h]
+ess666: checks 
+megtorlo2244: bets $0.20
+ess666: calls $0.20
+*** TURN *** [Qc Th 4h] [3c]
+ess666: checks 
+megtorlo2244: checks 
+*** RIVER *** [Qc Th 4h 3c] [7s]
+ess666: checks 
+megtorlo2244: checks 
+*** SHOW DOWN ***
+ess666: shows [Jd As] (high card Ace)
+megtorlo2244: shows [Ac Jc] (high card Ace)
+ess666 collected $0.37 from pot
+megtorlo2244 collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [Qc Th 4h 3c 7s]
+Seat 1: ACEHbKA777 (big blind) folded before Flop
+Seat 2: ess666 showed [Jd As] and won ($0.37) with high card Ace
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 showed [Ac Jc] and won ($0.37) with high card Ace
+Seat 8: cubicroot (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237771541464:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:40:34 PT [2022/08/03 17:40:34 ET]
+Table 'Williams' 9-max Seat #9 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.63 in chips) 
+Seat 3: Count Mole ($9.23 in chips) 
+Seat 4: Apostol108 ($6.64 in chips) 
+Seat 5: maskch ($17.15 in chips) 
+Seat 6: jageboi ($3.92 in chips) 
+Seat 7: megtorlo2244 ($5.51 in chips) 
+Seat 8: cubicroot ($4.90 in chips) 
+Seat 9: Dorex2007 ($5.28 in chips) 
+ACEHbKA777: posts small blind $0.02
+ess666: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 4s]
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+jageboi: folds 
+megtorlo2244: folds 
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+Uncalled bet ($0.03) returned to ess666
+ess666 collected $0.04 from pot
+ess666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ACEHbKA777 (small blind) folded before Flop
+Seat 2: ess666 (big blind) collected ($0.04)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771546152:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:40:47 PT [2022/08/03 17:40:47 ET]
+Table 'Williams' 9-max Seat #1 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.65 in chips) 
+Seat 3: Count Mole ($9.23 in chips) 
+Seat 4: Apostol108 ($6.64 in chips) 
+Seat 5: maskch ($17.15 in chips) 
+Seat 6: jageboi ($3.92 in chips) 
+Seat 7: megtorlo2244 ($5.51 in chips) 
+Seat 8: cubicroot ($4.90 in chips) 
+Seat 9: Dorex2007 ($5.28 in chips) 
+ess666: posts small blind $0.02
+Count Mole: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 7d]
+Apostol108: folds 
+maskch: folds 
+jageboi: folds 
+megtorlo2244: folds 
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Uncalled bet ($0.03) returned to Count Mole
+Count Mole collected $0.04 from pot
+Count Mole: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ACEHbKA777 (button) folded before Flop (didn't bet)
+Seat 2: ess666 (small blind) folded before Flop
+Seat 3: Count Mole (big blind) collected ($0.04)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771552437:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:41:05 PT [2022/08/03 17:41:05 ET]
+Table 'Williams' 9-max Seat #2 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.63 in chips) 
+Seat 3: Count Mole ($9.25 in chips) 
+Seat 4: Apostol108 ($6.64 in chips) 
+Seat 5: maskch ($17.15 in chips) 
+Seat 6: jageboi ($3.92 in chips) 
+Seat 7: megtorlo2244 ($5.51 in chips) 
+Seat 8: cubicroot ($4.90 in chips) 
+Seat 9: Dorex2007 ($5.28 in chips) 
+Count Mole: posts small blind $0.02
+Apostol108: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 9h]
+maskch: folds 
+jageboi: folds 
+megtorlo2244: folds 
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: raises $0.10 to $0.15
+Apostol108: calls $0.10
+*** FLOP *** [Jc 3h Qc]
+Count Mole: bets $0.14
+Apostol108: calls $0.14
+*** TURN *** [Jc 3h Qc] [Th]
+Count Mole: bets $0.28
+Apostol108: folds 
+Uncalled bet ($0.28) returned to Count Mole
+Count Mole collected $0.56 from pot
+Count Mole: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.58 | Rake $0.02 
+Board [Jc 3h Qc Th]
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 (button) folded before Flop (didn't bet)
+Seat 3: Count Mole (small blind) collected ($0.56)
+Seat 4: Apostol108 (big blind) folded on the Turn
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771577873:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:42:04 PT [2022/08/03 17:42:04 ET]
+Table 'Williams' 9-max Seat #3 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.63 in chips) 
+Seat 3: Count Mole ($9.52 in chips) 
+Seat 4: Apostol108 ($6.35 in chips) 
+Seat 5: maskch ($17.15 in chips) 
+Seat 6: jageboi ($3.92 in chips) 
+Seat 7: megtorlo2244 ($5.51 in chips) 
+Seat 8: cubicroot ($4.90 in chips) 
+Seat 9: Dorex2007 ($5.28 in chips) 
+Apostol108: posts small blind $0.02
+maskch: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 7d]
+jageboi: folds 
+megtorlo2244: folds 
+cubicroot: calls $0.05
+Dorex2007: folds 
+ACEHbKA777: calls $0.05
+ess666: folds 
+Count Mole: folds 
+Apostol108: calls $0.03
+maskch: checks 
+*** FLOP *** [8c 5h Qc]
+Apostol108: checks 
+maskch: checks 
+cubicroot: checks 
+ACEHbKA777: checks 
+*** TURN *** [8c 5h Qc] [7s]
+Apostol108: checks 
+maskch: bets $0.10
+cubicroot: folds 
+ACEHbKA777: calls $0.10
+Apostol108: folds 
+*** RIVER *** [8c 5h Qc 7s] [2d]
+maskch: bets $0.38
+ACEHbKA777: folds 
+Uncalled bet ($0.38) returned to maskch
+maskch collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [8c 5h Qc 7s 2d]
+Seat 1: ACEHbKA777 folded on the River
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole (button) folded before Flop (didn't bet)
+Seat 4: Apostol108 (small blind) folded on the Turn
+Seat 5: maskch (big blind) collected ($0.38)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: cubicroot folded on the Turn
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771594793:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:42:52 PT [2022/08/03 17:42:52 ET]
+Table 'Williams' 9-max Seat #4 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.63 in chips) 
+Seat 3: Count Mole ($9.52 in chips) 
+Seat 4: Apostol108 ($6.30 in chips) 
+Seat 5: maskch ($17.38 in chips) 
+Seat 6: jageboi ($3.92 in chips) 
+Seat 7: megtorlo2244 ($5.51 in chips) 
+Seat 8: cubicroot ($4.85 in chips) 
+Seat 9: Dorex2007 ($5.28 in chips) 
+maskch: posts small blind $0.02
+jageboi: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Tc]
+megtorlo2244: folds 
+cubicroot: folds 
+Dorex2007: calls $0.05
+ACEHbKA777: raises $0.09 to $0.14
+ess666: folds 
+Count Mole: folds 
+Apostol108: folds 
+maskch: calls $0.12
+jageboi: folds 
+Dorex2007: calls $0.09
+*** FLOP *** [9d 7d Jh]
+maskch: checks 
+Dorex2007: checks 
+ACEHbKA777: checks 
+*** TURN *** [9d 7d Jh] [4h]
+maskch: bets $0.15
+Dorex2007: folds 
+ACEHbKA777: folds 
+Uncalled bet ($0.15) returned to maskch
+maskch collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [9d 7d Jh 4h]
+Seat 1: ACEHbKA777 folded on the Turn
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 (button) folded before Flop (didn't bet)
+Seat 5: maskch (small blind) collected ($0.45)
+Seat 6: jageboi (big blind) folded before Flop
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded on the Turn
+
+
+
+PokerStars Hand #237771608845:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:43:32 PT [2022/08/03 17:43:32 ET]
+Table 'Williams' 9-max Seat #5 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.63 in chips) 
+Seat 3: Count Mole ($9.52 in chips) 
+Seat 4: Apostol108 ($6.30 in chips) 
+Seat 5: maskch ($17.69 in chips) 
+Seat 6: jageboi ($3.87 in chips) 
+Seat 7: megtorlo2244 ($5.51 in chips) 
+Seat 8: cubicroot ($4.85 in chips) 
+Seat 9: Dorex2007 ($5.14 in chips) 
+jageboi: posts small blind $0.02
+megtorlo2244: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Js]
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: raises $0.10 to $0.15
+Apostol108: folds 
+maskch: folds 
+jageboi: folds 
+megtorlo2244: folds 
+Uncalled bet ($0.10) returned to Count Mole
+Count Mole collected $0.12 from pot
+Count Mole: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole collected ($0.12)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch (button) folded before Flop (didn't bet)
+Seat 6: jageboi (small blind) folded before Flop
+Seat 7: megtorlo2244 (big blind) folded before Flop
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771614783:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:43:49 PT [2022/08/03 17:43:49 ET]
+Table 'Williams' 9-max Seat #6 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.63 in chips) 
+Seat 3: Count Mole ($9.59 in chips) 
+Seat 4: Apostol108 ($6.30 in chips) 
+Seat 5: maskch ($17.69 in chips) 
+Seat 6: jageboi ($3.85 in chips) 
+Seat 7: megtorlo2244 ($5.46 in chips) 
+Seat 8: cubicroot ($4.85 in chips) 
+Seat 9: Dorex2007 ($5.14 in chips) 
+megtorlo2244: posts small blind $0.02
+cubicroot: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 4h]
+Dorex2007: folds 
+ACEHbKA777: raises $0.05 to $0.10
+ess666: folds 
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+jageboi: folds 
+megtorlo2244: folds 
+cubicroot: calls $0.05
+*** FLOP *** [As Qc 6h]
+cubicroot: bets $0.21
+ACEHbKA777: calls $0.21
+*** TURN *** [As Qc 6h] [3h]
+cubicroot: bets $0.30
+ACEHbKA777: calls $0.30
+*** RIVER *** [As Qc 6h 3h] [Th]
+cubicroot: checks 
+ACEHbKA777: checks 
+*** SHOW DOWN ***
+cubicroot: shows [8d Ah] (a pair of Aces)
+ACEHbKA777: mucks hand 
+cubicroot collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.24 | Rake $0.05 
+Board [As Qc 6h 3h Th]
+Seat 1: ACEHbKA777 mucked [7c Ac]
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi (button) folded before Flop (didn't bet)
+Seat 7: megtorlo2244 (small blind) folded before Flop
+Seat 8: cubicroot (big blind) showed [8d Ah] and won ($1.19) with a pair of Aces
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771627338:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:44:25 PT [2022/08/03 17:44:25 ET]
+Table 'Williams' 9-max Seat #7 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.63 in chips) 
+Seat 3: Count Mole ($9.59 in chips) 
+Seat 4: Apostol108 ($6.30 in chips) 
+Seat 5: maskch ($17.69 in chips) 
+Seat 6: jageboi ($3.85 in chips) 
+Seat 7: megtorlo2244 ($5.44 in chips) 
+Seat 8: cubicroot ($5.43 in chips) 
+Seat 9: Dorex2007 ($5.14 in chips) 
+cubicroot: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 5s]
+ACEHbKA777: raises $0.05 to $0.10
+ess666: folds 
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+jageboi: raises $0.05 to $0.15
+megtorlo2244: folds 
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: calls $0.05
+*** FLOP *** [8s 7s Qs]
+ACEHbKA777: checks 
+jageboi: bets $0.05
+ACEHbKA777: calls $0.05
+*** TURN *** [8s 7s Qs] [Qh]
+ACEHbKA777: checks 
+jageboi: bets $0.10
+ACEHbKA777: calls $0.10
+*** RIVER *** [8s 7s Qs Qh] [As]
+ACEHbKA777: checks 
+jageboi: checks 
+*** SHOW DOWN ***
+ACEHbKA777: shows [Ah 7h] (two pair, Aces and Queens)
+jageboi: shows [Ts Th] (a flush, Ace high)
+jageboi collected $0.64 from pot
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.03 
+Board [8s 7s Qs Qh As]
+Seat 1: ACEHbKA777 showed [Ah 7h] and lost with two pair, Aces and Queens
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi showed [Ts Th] and won ($0.64) with a flush, Ace high
+Seat 7: megtorlo2244 (button) folded before Flop (didn't bet)
+Seat 8: cubicroot (small blind) folded before Flop
+Seat 9: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237771638715:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:44:57 PT [2022/08/03 17:44:57 ET]
+Table 'Williams' 9-max Seat #8 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.63 in chips) 
+Seat 3: Count Mole ($9.59 in chips) 
+Seat 4: Apostol108 ($6.30 in chips) 
+Seat 5: maskch ($17.69 in chips) 
+Seat 6: jageboi ($4.19 in chips) 
+Seat 7: megtorlo2244 ($5.44 in chips) 
+Seat 8: cubicroot ($5.41 in chips) 
+Seat 9: Dorex2007 ($5.09 in chips) 
+Dorex2007: posts small blind $0.02
+ACEHbKA777: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 4h]
+ess666: folds 
+Count Mole: folds 
+Apostol108: raises $0.10 to $0.15
+maskch: folds 
+jageboi: folds 
+megtorlo2244: folds 
+cubicroot: calls $0.15
+Dorex2007: folds 
+ACEHbKA777: folds 
+*** FLOP *** [Ah 9c 6c]
+Apostol108: bets $0.16
+cubicroot: raises $0.16 to $0.32
+Apostol108: folds 
+Uncalled bet ($0.16) returned to cubicroot
+cubicroot collected $0.66 from pot
+cubicroot: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.03 
+Board [Ah 9c 6c]
+Seat 1: ACEHbKA777 (big blind) folded before Flop
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded on the Flop
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: cubicroot (button) collected ($0.66)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237771652225:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:45:35 PT [2022/08/03 17:45:35 ET]
+Table 'Williams' 9-max Seat #9 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.63 in chips) 
+Seat 3: Count Mole ($9.59 in chips) 
+Seat 4: Apostol108 ($5.99 in chips) 
+Seat 5: maskch ($17.69 in chips) 
+Seat 6: jageboi ($4.19 in chips) 
+Seat 7: megtorlo2244 ($5.44 in chips) 
+Seat 8: cubicroot ($5.76 in chips) 
+Seat 9: Dorex2007 ($5.07 in chips) 
+ACEHbKA777: posts small blind $0.02
+ess666: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Qh]
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+jageboi: folds 
+megtorlo2244: folds 
+cubicroot: calls $0.05
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: checks 
+*** FLOP *** [Kd 3s Kh]
+ess666: checks 
+cubicroot: checks 
+*** TURN *** [Kd 3s Kh] [Ks]
+ess666: bets $0.05
+cubicroot: folds 
+Uncalled bet ($0.05) returned to ess666
+ess666 collected $0.12 from pot
+ess666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Kd 3s Kh Ks]
+Seat 1: ACEHbKA777 (small blind) folded before Flop
+Seat 2: ess666 (big blind) collected ($0.12)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: cubicroot folded on the Turn
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771667652:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:46:19 PT [2022/08/03 17:46:19 ET]
+Table 'Williams' 9-max Seat #1 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.70 in chips) 
+Seat 3: Count Mole ($9.59 in chips) 
+Seat 4: Apostol108 ($5.99 in chips) 
+Seat 5: maskch ($17.69 in chips) 
+Seat 6: jageboi ($4.19 in chips) 
+Seat 7: megtorlo2244 ($5.44 in chips) 
+Seat 8: cubicroot ($5.71 in chips) 
+Seat 9: Dorex2007 ($5.07 in chips) 
+ess666: posts small blind $0.02
+Count Mole: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 7h]
+Apostol108: raises $0.10 to $0.15
+maskch: folds 
+jageboi: calls $0.15
+megtorlo2244: calls $0.15
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+*** FLOP *** [Tc 3s 6s]
+Apostol108: bets $0.25
+jageboi: raises $3.79 to $4.04 and is all-in
+megtorlo2244: folds 
+Apostol108: calls $3.79
+*** TURN *** [Tc 3s 6s] [As]
+*** RIVER *** [Tc 3s 6s As] [Kh]
+*** SHOW DOWN ***
+Apostol108: shows [Jh Jd] (a pair of Jacks)
+jageboi: shows [8s Ts] (a flush, Ace high)
+jageboi cashed out the hand for $4.13 | Cash Out Fee $0.04
+*** SUMMARY ***
+Total pot $8.60 | Rake $0.36 
+Board [Tc 3s 6s As Kh]
+Seat 1: ACEHbKA777 (button) folded before Flop (didn't bet)
+Seat 2: ess666 (small blind) folded before Flop
+Seat 3: Count Mole (big blind) folded before Flop
+Seat 4: Apostol108 showed [Jh Jd] and lost with a pair of Jacks
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi showed [8s Ts] and won ($8.24) with a flush, Ace high (pot not awarded as player cashed out)
+Seat 7: megtorlo2244 folded on the Flop
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771685080:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:47:09 PT [2022/08/03 17:47:09 ET]
+Table 'Williams' 9-max Seat #2 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.68 in chips) 
+Seat 3: Count Mole ($9.54 in chips) 
+Seat 4: Apostol108 ($5 in chips) 
+Seat 5: maskch ($17.69 in chips) 
+Seat 6: jageboi ($4.13 in chips) 
+Seat 7: megtorlo2244 ($5.29 in chips) 
+Seat 8: cubicroot ($5.71 in chips) 
+Seat 9: Dorex2007 ($5.07 in chips) 
+Count Mole: posts small blind $0.02
+Apostol108: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 9c]
+maskch: folds 
+jageboi: folds 
+megtorlo2244: raises $0.10 to $0.15
+cubicroot: calls $0.15
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Apostol108: calls $0.10
+*** FLOP *** [7h 3s 3d]
+Apostol108: checks 
+megtorlo2244: checks 
+cubicroot: checks 
+*** TURN *** [7h 3s 3d] [Kc]
+Apostol108: bets $0.22
+megtorlo2244: calls $0.22
+cubicroot: folds 
+*** RIVER *** [7h 3s 3d Kc] [4c]
+Apostol108: bets $0.43
+megtorlo2244: calls $0.43
+*** SHOW DOWN ***
+Apostol108: shows [Tc Th] (two pair, Tens and Threes)
+megtorlo2244: shows [Ac Ks] (two pair, Kings and Threes)
+megtorlo2244 collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.77 | Rake $0.07 
+Board [7h 3s 3d Kc 4c]
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 (button) folded before Flop (didn't bet)
+Seat 3: Count Mole (small blind) folded before Flop
+Seat 4: Apostol108 (big blind) showed [Tc Th] and lost with two pair, Tens and Threes
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 showed [Ac Ks] and won ($1.70) with two pair, Kings and Threes
+Seat 8: cubicroot folded on the Turn
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771713065:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:48:29 PT [2022/08/03 17:48:29 ET]
+Table 'Williams' 9-max Seat #3 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($4.68 in chips) 
+Seat 3: Count Mole ($9.52 in chips) 
+Seat 4: Apostol108 ($4.20 in chips) 
+Seat 5: maskch ($17.69 in chips) 
+Seat 6: jageboi ($4.13 in chips) 
+Seat 7: megtorlo2244 ($6.19 in chips) 
+Seat 8: cubicroot ($5.56 in chips) 
+Seat 9: Dorex2007 ($5.07 in chips) 
+Apostol108: posts small blind $0.02
+maskch: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 2h]
+jageboi: folds 
+megtorlo2244: folds 
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: raises $0.07 to $0.12
+ess666: folds 
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+Uncalled bet ($0.07) returned to ACEHbKA777
+ACEHbKA777 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ACEHbKA777 collected ($0.12)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole (button) folded before Flop (didn't bet)
+Seat 4: Apostol108 (small blind) folded before Flop
+Seat 5: maskch (big blind) folded before Flop
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771721627:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:48:54 PT [2022/08/03 17:48:54 ET]
+Table 'Williams' 9-max Seat #4 is the button
+Seat 1: ACEHbKA777 ($5.07 in chips) 
+Seat 2: ess666 ($4.68 in chips) 
+Seat 3: Count Mole ($9.52 in chips) 
+Seat 4: Apostol108 ($4.18 in chips) 
+Seat 5: maskch ($17.64 in chips) 
+Seat 6: jageboi ($4.13 in chips) 
+Seat 7: megtorlo2244 ($6.19 in chips) 
+Seat 8: cubicroot ($5.56 in chips) 
+Seat 9: Dorex2007 ($5.07 in chips) 
+maskch: posts small blind $0.02
+jageboi: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 6c]
+megtorlo2244: folds 
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: raises $0.10 to $0.15
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+jageboi: calls $0.10
+*** FLOP *** [3d Ks Jc]
+jageboi: bets $0.15
+ess666: calls $0.15
+*** TURN *** [3d Ks Jc] [Th]
+jageboi: checks 
+ess666: bets $0.20
+jageboi: calls $0.20
+*** RIVER *** [3d Ks Jc Th] [Jd]
+jageboi: bets $0.49
+ess666: calls $0.49
+*** SHOW DOWN ***
+jageboi: shows [Ts As] (two pair, Jacks and Tens)
+ess666: shows [9h Kd] (two pair, Kings and Jacks)
+ess666 collected $1.92 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.08 
+Board [3d Ks Jc Th Jd]
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 showed [9h Kd] and won ($1.92) with two pair, Kings and Jacks
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 (button) folded before Flop (didn't bet)
+Seat 5: maskch (small blind) folded before Flop
+Seat 6: jageboi (big blind) showed [Ts As] and lost with two pair, Jacks and Tens
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771736297:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:49:36 PT [2022/08/03 17:49:36 ET]
+Table 'Williams' 9-max Seat #5 is the button
+Seat 1: ACEHbKA777 ($5.07 in chips) 
+Seat 2: ess666 ($5.61 in chips) 
+Seat 3: Count Mole ($9.52 in chips) 
+Seat 4: Apostol108 ($4.18 in chips) 
+Seat 5: maskch ($17.62 in chips) 
+Seat 6: jageboi ($3.14 in chips) 
+Seat 7: megtorlo2244 ($6.19 in chips) 
+Seat 8: cubicroot ($5.56 in chips) 
+Seat 9: Dorex2007 ($5.07 in chips) 
+jageboi: posts small blind $0.02
+megtorlo2244: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 6h]
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: calls $0.05
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+jageboi: folds 
+megtorlo2244: checks 
+*** FLOP *** [5h Ts Kd]
+megtorlo2244: checks 
+ess666: bets $0.10
+megtorlo2244: folds 
+Uncalled bet ($0.10) returned to ess666
+ess666 collected $0.12 from pot
+ess666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [5h Ts Kd]
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 collected ($0.12)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch (button) folded before Flop (didn't bet)
+Seat 6: jageboi (small blind) folded before Flop
+Seat 7: megtorlo2244 (big blind) folded on the Flop
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771747098:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:50:08 PT [2022/08/03 17:50:08 ET]
+Table 'Williams' 9-max Seat #6 is the button
+Seat 1: ACEHbKA777 ($5.07 in chips) 
+Seat 2: ess666 ($5.68 in chips) 
+Seat 3: Count Mole ($9.52 in chips) 
+Seat 4: Apostol108 ($4.18 in chips) 
+Seat 5: maskch ($17.62 in chips) 
+Seat 6: jageboi ($3.12 in chips) 
+Seat 7: megtorlo2244 ($6.14 in chips) 
+Seat 8: cubicroot ($5.56 in chips) 
+Seat 9: Dorex2007 ($5.07 in chips) 
+megtorlo2244: posts small blind $0.02
+cubicroot: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Kh]
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Apostol108: folds 
+maskch: calls $0.05
+jageboi: raises $0.05 to $0.10
+megtorlo2244: calls $0.08
+cubicroot: calls $0.05
+maskch: calls $0.05
+*** FLOP *** [Kc 2c 9s]
+megtorlo2244: checks 
+cubicroot: checks 
+maskch: checks 
+jageboi: checks 
+*** TURN *** [Kc 2c 9s] [As]
+megtorlo2244: checks 
+cubicroot: bets $0.20
+maskch: calls $0.20
+jageboi: folds 
+megtorlo2244: folds 
+*** RIVER *** [Kc 2c 9s As] [Qh]
+cubicroot: checks 
+maskch: checks 
+*** SHOW DOWN ***
+cubicroot: shows [7s Ad] (a pair of Aces)
+maskch: shows [Qc Ac] (two pair, Aces and Queens)
+maskch collected $0.77 from pot
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.03 
+Board [Kc 2c 9s As Qh]
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch showed [Qc Ac] and won ($0.77) with two pair, Aces and Queens
+Seat 6: jageboi (button) folded on the Turn
+Seat 7: megtorlo2244 (small blind) folded on the Turn
+Seat 8: cubicroot (big blind) showed [7s Ad] and lost with a pair of Aces
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771767294:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:50:57 PT [2022/08/03 17:50:57 ET]
+Table 'Williams' 9-max Seat #7 is the button
+Seat 1: ACEHbKA777 ($5.07 in chips) 
+Seat 2: ess666 ($5.68 in chips) 
+Seat 3: Count Mole ($9.52 in chips) 
+Seat 4: Apostol108 ($4.18 in chips) 
+Seat 5: maskch ($18.09 in chips) 
+Seat 6: jageboi ($3.02 in chips) 
+Seat 7: megtorlo2244 ($6.04 in chips) 
+Seat 8: cubicroot ($5.26 in chips) 
+Seat 9: Dorex2007 ($5.07 in chips) 
+cubicroot: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Tc]
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+jageboi: folds 
+megtorlo2244: calls $0.05
+cubicroot: raises $0.10 to $0.15
+Dorex2007: folds 
+megtorlo2244: calls $0.10
+*** FLOP *** [Kc 7s 5h]
+cubicroot: bets $0.20
+megtorlo2244: calls $0.20
+*** TURN *** [Kc 7s 5h] [9d]
+cubicroot: checks 
+megtorlo2244: bets $0.36
+cubicroot: calls $0.36
+*** RIVER *** [Kc 7s 5h 9d] [Js]
+cubicroot: checks 
+megtorlo2244: checks 
+*** SHOW DOWN ***
+cubicroot: shows [8s 8c] (a pair of Eights)
+megtorlo2244: mucks hand 
+cubicroot collected $1.41 from pot
+*** SUMMARY ***
+Total pot $1.47 | Rake $0.06 
+Board [Kc 7s 5h 9d Js]
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 (button) mucked [5c Ah]
+Seat 8: cubicroot (small blind) showed [8s 8c] and won ($1.41) with a pair of Eights
+Seat 9: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237771781931:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:51:39 PT [2022/08/03 17:51:39 ET]
+Table 'Williams' 9-max Seat #8 is the button
+Seat 1: ACEHbKA777 ($5.07 in chips) 
+Seat 2: ess666 ($5.68 in chips) 
+Seat 3: Count Mole ($9.52 in chips) 
+Seat 4: Apostol108 ($4.18 in chips) 
+Seat 5: maskch ($18.09 in chips) 
+Seat 6: jageboi ($3.02 in chips) 
+Seat 7: megtorlo2244 ($5.33 in chips) 
+Seat 8: cubicroot ($5.96 in chips) 
+Seat 9: Dorex2007 ($5.02 in chips) 
+Dorex2007: posts small blind $0.02
+ACEHbKA777: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 4s]
+ess666: folds 
+Count Mole: folds 
+Apostol108: raises $0.10 to $0.15
+maskch: folds 
+jageboi: folds 
+megtorlo2244: calls $0.15
+cubicroot: folds 
+Dorex2007: calls $0.13
+ACEHbKA777: calls $0.10
+*** FLOP *** [4d 9c 2d]
+Dorex2007: checks 
+ACEHbKA777: checks 
+Apostol108: checks 
+megtorlo2244: checks 
+*** TURN *** [4d 9c 2d] [Kh]
+Dorex2007: bets $0.29
+ACEHbKA777: calls $0.29
+Apostol108: folds 
+megtorlo2244: calls $0.29
+*** RIVER *** [4d 9c 2d Kh] [8c]
+Dorex2007: bets $0.70
+ACEHbKA777: calls $0.70
+megtorlo2244: folds 
+*** SHOW DOWN ***
+Dorex2007: shows [4c 4s] (three of a kind, Fours)
+ACEHbKA777: mucks hand 
+Dorex2007 collected $2.75 from pot
+*** SUMMARY ***
+Total pot $2.87 | Rake $0.12 
+Board [4d 9c 2d Kh 8c]
+Seat 1: ACEHbKA777 (big blind) mucked [Ts Kc]
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded on the Turn
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded on the River
+Seat 8: cubicroot (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) showed [4c 4s] and won ($2.75) with three of a kind, Fours
+
+
+
+PokerStars Hand #237771801031:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:52:34 PT [2022/08/03 17:52:34 ET]
+Table 'Williams' 9-max Seat #9 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($5.68 in chips) 
+Seat 3: Count Mole ($9.52 in chips) 
+Seat 4: Apostol108 ($4.03 in chips) 
+Seat 5: maskch ($18.09 in chips) 
+Seat 6: jageboi ($3.02 in chips) 
+Seat 7: megtorlo2244 ($4.89 in chips) 
+Seat 8: cubicroot ($5.96 in chips) 
+Seat 9: Dorex2007 ($6.63 in chips) 
+ACEHbKA777: posts small blind $0.02
+ess666: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Th]
+Count Mole: folds 
+Apostol108: folds 
+maskch: folds 
+jageboi: folds 
+megtorlo2244: raises $0.10 to $0.15
+cubicroot: calls $0.15
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+*** FLOP *** [2c Qd 9d]
+megtorlo2244: checks 
+cubicroot: bets $0.20
+megtorlo2244: folds 
+Uncalled bet ($0.20) returned to cubicroot
+cubicroot collected $0.35 from pot
+cubicroot: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [2c Qd 9d]
+Seat 1: ACEHbKA777 (small blind) folded before Flop
+Seat 2: ess666 (big blind) folded before Flop
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded on the Flop
+Seat 8: cubicroot collected ($0.35)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771814764:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:53:14 PT [2022/08/03 17:53:14 ET]
+Table 'Williams' 9-max Seat #1 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($5.63 in chips) 
+Seat 3: Count Mole ($9.52 in chips) 
+Seat 4: Apostol108 ($4.03 in chips) 
+Seat 5: maskch ($18.09 in chips) 
+Seat 6: jageboi ($3.02 in chips) 
+Seat 7: megtorlo2244 ($4.74 in chips) 
+Seat 8: cubicroot ($6.16 in chips) 
+Seat 9: Dorex2007 ($6.63 in chips) 
+ess666: posts small blind $0.02
+Count Mole: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 5d]
+Apostol108: folds 
+maskch: folds 
+jageboi: folds 
+megtorlo2244: folds 
+cubicroot: folds 
+megtorlo2244 leaves the table
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Uncalled bet ($0.03) returned to Count Mole
+Count Mole collected $0.04 from pot
+Count Mole: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ACEHbKA777 (button) folded before Flop (didn't bet)
+Seat 2: ess666 (small blind) folded before Flop
+Seat 3: Count Mole (big blind) collected ($0.04)
+Seat 4: Apostol108 folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: megtorlo2244 folded before Flop (didn't bet)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771819110:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:53:26 PT [2022/08/03 17:53:26 ET]
+Table 'Williams' 9-max Seat #2 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($5.61 in chips) 
+Seat 3: Count Mole ($9.54 in chips) 
+Seat 5: maskch ($18.09 in chips) 
+Seat 6: jageboi ($3.02 in chips) 
+Seat 8: cubicroot ($6.16 in chips) 
+Seat 9: Dorex2007 ($6.63 in chips) 
+Count Mole: posts small blind $0.02
+Apostol108: is sitting out 
+maskch: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 3s]
+jageboi: raises $0.15 to $0.20
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+maskch: folds 
+Uncalled bet ($0.15) returned to jageboi
+jageboi collected $0.12 from pot
+jageboi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 (button) folded before Flop (didn't bet)
+Seat 3: Count Mole (small blind) folded before Flop
+Seat 5: maskch (big blind) folded before Flop
+Seat 6: jageboi collected ($0.12)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771824966:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:53:44 PT [2022/08/03 17:53:44 ET]
+Table 'Williams' 9-max Seat #3 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($5.61 in chips) 
+Seat 3: Count Mole ($9.52 in chips) 
+Seat 5: maskch ($18.04 in chips) 
+Seat 6: jageboi ($3.09 in chips) 
+Seat 8: cubicroot ($6.16 in chips) 
+Seat 9: Dorex2007 ($6.63 in chips) 
+maskch: posts small blind $0.02
+jageboi: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Jc]
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+maskch: folds 
+Uncalled bet ($0.03) returned to jageboi
+jageboi collected $0.04 from pot
+jageboi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole (button) folded before Flop (didn't bet)
+Seat 5: maskch (small blind) folded before Flop
+Seat 6: jageboi (big blind) collected ($0.04)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771827937:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:53:52 PT [2022/08/03 17:53:52 ET]
+Table 'Williams' 9-max Seat #5 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($5.61 in chips) 
+Seat 3: Count Mole ($9.52 in chips) 
+Seat 5: maskch ($18.02 in chips) 
+Seat 6: jageboi ($3.11 in chips) 
+Seat 8: cubicroot ($6.16 in chips) 
+Seat 9: Dorex2007 ($6.63 in chips) 
+jageboi: posts small blind $0.02
+cubicroot: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 3c]
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+maskch: folds 
+jageboi: raises $0.05 to $0.10
+cubicroot: folds 
+Uncalled bet ($0.05) returned to jageboi
+jageboi collected $0.10 from pot
+jageboi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 5: maskch (button) folded before Flop (didn't bet)
+Seat 6: jageboi (small blind) collected ($0.10)
+Seat 8: cubicroot (big blind) folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771833263:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:54:08 PT [2022/08/03 17:54:08 ET]
+Table 'Williams' 9-max Seat #6 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($5.61 in chips) 
+Seat 3: Count Mole ($9.52 in chips) 
+Seat 5: maskch ($18.02 in chips) 
+Seat 6: jageboi ($3.16 in chips) 
+Seat 8: cubicroot ($6.11 in chips) 
+Seat 9: Dorex2007 ($6.63 in chips) 
+cubicroot: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h 6h]
+ACEHbKA777: folds 
+ess666: calls $0.05
+Count Mole: folds 
+maskch: folds 
+jageboi: folds 
+cubicroot: calls $0.03
+Dorex2007: checks 
+*** FLOP *** [3c 8h 5c]
+cubicroot: checks 
+Dorex2007: checks 
+ess666: bets $0.10
+cubicroot: folds 
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to ess666
+ess666 collected $0.14 from pot
+ess666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3c 8h 5c]
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 collected ($0.14)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi (button) folded before Flop (didn't bet)
+Seat 8: cubicroot (small blind) folded on the Flop
+Seat 9: Dorex2007 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #237771847488:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:54:49 PT [2022/08/03 17:54:49 ET]
+Table 'Williams' 9-max Seat #8 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($5.70 in chips) 
+Seat 3: Count Mole ($9.52 in chips) 
+Seat 5: maskch ($18.02 in chips) 
+Seat 6: jageboi ($3.16 in chips) 
+Seat 8: cubicroot ($6.06 in chips) 
+Seat 9: Dorex2007 ($6.58 in chips) 
+Dorex2007: posts small blind $0.02
+ACEHbKA777: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Qs]
+ess666: folds 
+Count Mole: folds 
+maskch: folds 
+jageboi: folds 
+cubicroot: folds 
+Dorex2007: folds 
+Uncalled bet ($0.03) returned to ACEHbKA777
+ACEHbKA777 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ACEHbKA777 (big blind) collected ($0.04)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 8: cubicroot (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237771853879:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:55:09 PT [2022/08/03 17:55:09 ET]
+Table 'Williams' 9-max Seat #9 is the button
+Seat 1: ACEHbKA777 ($5.02 in chips) 
+Seat 2: ess666 ($5.70 in chips) 
+Seat 3: Count Mole ($9.52 in chips) 
+Seat 5: maskch ($18.02 in chips) 
+Seat 6: jageboi ($3.16 in chips) 
+Seat 8: cubicroot ($6.06 in chips) 
+Seat 9: Dorex2007 ($6.56 in chips) 
+ACEHbKA777: posts small blind $0.02
+ess666: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 6d]
+Count Mole: folds 
+maskch: folds 
+jageboi: calls $0.05
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: checks 
+*** FLOP *** [2s Ad 3h]
+ess666: checks 
+jageboi: checks 
+*** TURN *** [2s Ad 3h] [9s]
+ess666: checks 
+goodmax3121 joins the table at seat #7 
+jageboi: bets $0.05
+ess666: folds 
+Uncalled bet ($0.05) returned to jageboi
+jageboi collected $0.12 from pot
+jageboi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [2s Ad 3h 9s]
+Seat 1: ACEHbKA777 (small blind) folded before Flop
+Seat 2: ess666 (big blind) folded on the Turn
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi collected ($0.12)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771863852:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:55:45 PT [2022/08/03 17:55:45 ET]
+Table 'Williams' 9-max Seat #1 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($5.65 in chips) 
+Seat 3: Count Mole ($9.52 in chips) 
+Seat 5: maskch ($18.02 in chips) 
+Seat 6: jageboi ($3.23 in chips) 
+Seat 8: cubicroot ($6.06 in chips) 
+Seat 9: Dorex2007 ($6.56 in chips) 
+ess666: posts small blind $0.02
+Count Mole: posts big blind $0.05
+goodmax3121: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Js]
+maskch: folds 
+jageboi: folds 
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Uncalled bet ($0.03) returned to Count Mole
+Count Mole collected $0.04 from pot
+Count Mole: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ACEHbKA777 (button) folded before Flop (didn't bet)
+Seat 2: ess666 (small blind) folded before Flop
+Seat 3: Count Mole (big blind) collected ($0.04)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771867043:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:55:57 PT [2022/08/03 17:55:57 ET]
+Table 'Williams' 9-max Seat #2 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($5.63 in chips) 
+Seat 3: Count Mole ($9.54 in chips) 
+Seat 5: maskch ($18.02 in chips) 
+Seat 6: jageboi ($3.23 in chips) 
+Seat 8: cubicroot ($6.06 in chips) 
+Seat 9: Dorex2007 ($6.56 in chips) 
+Count Mole: posts small blind $0.02
+maskch: posts big blind $0.05
+goodmax3121: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Kh]
+jageboi: folds 
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Uncalled bet ($0.03) returned to maskch
+maskch collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 (button) folded before Flop (didn't bet)
+Seat 3: Count Mole (small blind) folded before Flop
+Seat 5: maskch (big blind) collected ($0.04)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771869596:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:56:06 PT [2022/08/03 17:56:06 ET]
+Table 'Williams' 9-max Seat #3 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($5.63 in chips) 
+Seat 3: Count Mole ($9.52 in chips) 
+Seat 5: maskch ($18.04 in chips) 
+Seat 6: jageboi ($3.23 in chips) 
+Seat 8: cubicroot ($6.06 in chips) 
+Seat 9: Dorex2007 ($6.56 in chips) 
+maskch: posts small blind $0.02
+jageboi: posts big blind $0.05
+goodmax3121: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 9c]
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+maskch: folds 
+Uncalled bet ($0.03) returned to jageboi
+jageboi collected $0.04 from pot
+jageboi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole (button) folded before Flop (didn't bet)
+Seat 5: maskch (small blind) folded before Flop
+Seat 6: jageboi (big blind) collected ($0.04)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771873870:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:56:21 PT [2022/08/03 17:56:21 ET]
+Table 'Williams' 9-max Seat #5 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($5.63 in chips) 
+Seat 3: Count Mole ($9.52 in chips) 
+Seat 5: maskch ($18.02 in chips) 
+Seat 6: jageboi ($3.25 in chips) 
+Seat 7: goodmax3121 ($4 in chips) 
+Seat 8: cubicroot ($6.06 in chips) 
+Seat 9: Dorex2007 ($6.56 in chips) 
+jageboi: posts small blind $0.02
+goodmax3121: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s Qd]
+cubicroot: folds 
+Dorex2007: folds 
+ACEHbKA777 has timed out
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+maskch: folds 
+jageboi: folds 
+Uncalled bet ($0.03) returned to goodmax3121
+goodmax3121 collected $0.04 from pot
+goodmax3121: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 5: maskch (button) folded before Flop (didn't bet)
+Seat 6: jageboi (small blind) folded before Flop
+Seat 7: goodmax3121 (big blind) collected ($0.04)
+Seat 8: cubicroot folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771887124:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:57:10 PT [2022/08/03 17:57:10 ET]
+Table 'Williams' 9-max Seat #6 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($5.63 in chips) 
+Seat 3: Count Mole ($9.52 in chips) 
+Seat 5: maskch ($18.02 in chips) 
+Seat 6: jageboi ($3.23 in chips) 
+Seat 7: goodmax3121 ($4.02 in chips) 
+Seat 9: Dorex2007 ($6.56 in chips) 
+goodmax3121: posts small blind $0.02
+cubicroot: is sitting out 
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 5s]
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+maskch: folds 
+jageboi: raises $0.10 to $0.15
+goodmax3121: folds 
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to jageboi
+jageboi collected $0.12 from pot
+jageboi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi (button) collected ($0.12)
+Seat 7: goodmax3121 (small blind) folded before Flop
+Seat 9: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237771893562:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:57:33 PT [2022/08/03 17:57:33 ET]
+Table 'Williams' 9-max Seat #7 is the button
+Seat 1: ACEHbKA777 ($5 in chips) 
+Seat 2: ess666 ($5.63 in chips) 
+Seat 3: Count Mole ($9.52 in chips) 
+Seat 5: maskch ($18.02 in chips) 
+Seat 6: jageboi ($3.30 in chips) 
+Seat 7: goodmax3121 ($4 in chips) 
+Seat 9: Dorex2007 ($6.51 in chips) 
+Dorex2007: posts small blind $0.02
+ACEHbKA777: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s Th]
+ess666: folds 
+Count Mole: folds 
+maskch: folds 
+jageboi: folds 
+goodmax3121: folds 
+Dorex2007: folds 
+Uncalled bet ($0.03) returned to ACEHbKA777
+ACEHbKA777 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ACEHbKA777 (big blind) collected ($0.04)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: goodmax3121 (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237771896918:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:57:46 PT [2022/08/03 17:57:46 ET]
+Table 'Williams' 9-max Seat #9 is the button
+Seat 1: ACEHbKA777 ($5.02 in chips) 
+Seat 2: ess666 ($5.63 in chips) 
+Seat 3: Count Mole ($9.52 in chips) 
+Seat 5: maskch ($18.02 in chips) 
+Seat 6: jageboi ($3.30 in chips) 
+Seat 7: goodmax3121 ($4 in chips) 
+Seat 9: Dorex2007 ($6.49 in chips) 
+ACEHbKA777: posts small blind $0.02
+ess666: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 8h]
+Count Mole: folds 
+maskch: folds 
+jageboi: raises $0.05 to $0.10
+goodmax3121: folds 
+Dorex2007: folds 
+ACEHbKA777: raises $0.30 to $0.40
+ess666: folds 
+jageboi: calls $0.30
+*** FLOP *** [5h Qh Js]
+ACEHbKA777: bets $0.40
+jageboi: calls $0.40
+*** TURN *** [5h Qh Js] [Qd]
+ACEHbKA777: bets $0.53
+jageboi: folds 
+Uncalled bet ($0.53) returned to ACEHbKA777
+ACEHbKA777 collected $1.58 from pot
+*** SUMMARY ***
+Total pot $1.65 | Rake $0.07 
+Board [5h Qh Js Qd]
+Seat 1: ACEHbKA777 (small blind) collected ($1.58)
+Seat 2: ess666 (big blind) folded before Flop
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded on the Turn
+Seat 7: goodmax3121 folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771906318:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:58:20 PT [2022/08/03 17:58:20 ET]
+Table 'Williams' 9-max Seat #1 is the button
+Seat 1: ACEHbKA777 ($5.80 in chips) 
+Seat 2: ess666 ($5.58 in chips) 
+Seat 3: Count Mole ($9.52 in chips) 
+Seat 5: maskch ($18.02 in chips) 
+Seat 6: jageboi ($2.50 in chips) 
+Seat 7: goodmax3121 ($4 in chips) 
+Seat 9: Dorex2007 ($6.49 in chips) 
+ess666: posts small blind $0.02
+Count Mole: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 3h]
+maskch: folds 
+jageboi: folds 
+goodmax3121: raises $0.05 to $0.10
+Dorex2007: folds 
+ACEHbKA777: calls $0.10
+ess666: folds 
+Count Mole: folds 
+*** FLOP *** [Qc 6s Ad]
+goodmax3121: checks 
+ACEHbKA777: checks 
+*** TURN *** [Qc 6s Ad] [8c]
+goodmax3121: bets $0.65
+ACEHbKA777: folds 
+Uncalled bet ($0.65) returned to goodmax3121
+goodmax3121 collected $0.26 from pot
+goodmax3121: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Qc 6s Ad 8c]
+Seat 1: ACEHbKA777 (button) folded on the Turn
+Seat 2: ess666 (small blind) folded before Flop
+Seat 3: Count Mole (big blind) folded before Flop
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: goodmax3121 collected ($0.26)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771917873:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 14:59:03 PT [2022/08/03 17:59:03 ET]
+Table 'Williams' 9-max Seat #2 is the button
+Seat 1: ACEHbKA777 ($5.70 in chips) 
+Seat 2: ess666 ($5.56 in chips) 
+Seat 3: Count Mole ($9.47 in chips) 
+Seat 5: maskch ($18.02 in chips) 
+Seat 6: jageboi ($2.50 in chips) 
+Seat 7: goodmax3121 ($4.16 in chips) 
+Seat 9: Dorex2007 ($6.49 in chips) 
+Count Mole: posts small blind $0.02
+maskch: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Th]
+jageboi: raises $0.05 to $0.10
+goodmax3121: calls $0.10
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: calls $0.10
+Count Mole: raises $0.40 to $0.50
+maskch: folds 
+jageboi: raises $2 to $2.50 and is all-in
+goodmax3121: folds 
+ess666: folds 
+Count Mole: calls $2
+*** FLOP *** [8h 7h 9s]
+*** TURN *** [8h 7h 9s] [5c]
+*** RIVER *** [8h 7h 9s 5c] [Jd]
+*** SHOW DOWN ***
+Count Mole: shows [Ad Qd] (high card Ace)
+jageboi: shows [Js 9c] (two pair, Jacks and Nines)
+jageboi collected $5.03 from pot
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.22 
+Board [8h 7h 9s 5c Jd]
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 (button) folded before Flop
+Seat 3: Count Mole (small blind) showed [Ad Qd] and lost with high card Ace
+Seat 5: maskch (big blind) folded before Flop
+Seat 6: jageboi showed [Js 9c] and won ($5.03) with two pair, Jacks and Nines
+Seat 7: goodmax3121 folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771933745:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 15:00:01 PT [2022/08/03 18:00:01 ET]
+Table 'Williams' 9-max Seat #3 is the button
+Seat 1: ACEHbKA777 ($5.70 in chips) 
+Seat 2: ess666 ($5.46 in chips) 
+Seat 3: Count Mole ($6.97 in chips) 
+Seat 5: maskch ($17.97 in chips) 
+Seat 6: jageboi ($5.03 in chips) 
+Seat 7: goodmax3121 ($4.06 in chips) 
+Seat 9: Dorex2007 ($6.49 in chips) 
+maskch: posts small blind $0.02
+jageboi: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 4d]
+goodmax3121: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+maskch: folds 
+Uncalled bet ($0.03) returned to jageboi
+jageboi collected $0.04 from pot
+jageboi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole (button) folded before Flop (didn't bet)
+Seat 5: maskch (small blind) folded before Flop
+Seat 6: jageboi (big blind) collected ($0.04)
+Seat 7: goodmax3121 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771938624:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 15:00:18 PT [2022/08/03 18:00:18 ET]
+Table 'Williams' 9-max Seat #5 is the button
+Seat 1: ACEHbKA777 ($5.70 in chips) 
+Seat 2: ess666 ($5.46 in chips) 
+Seat 3: Count Mole ($6.97 in chips) 
+Seat 5: maskch ($17.95 in chips) 
+Seat 6: jageboi ($5.05 in chips) 
+Seat 7: goodmax3121 ($4.06 in chips) 
+Seat 9: Dorex2007 ($6.49 in chips) 
+jageboi: posts small blind $0.02
+goodmax3121: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 6s]
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: raises $0.10 to $0.15
+maskch: folds 
+jageboi: calls $0.13
+goodmax3121: folds 
+*** FLOP *** [Ts 4h 4s]
+jageboi: checks 
+Count Mole: bets $0.22
+jageboi: folds 
+Uncalled bet ($0.22) returned to Count Mole
+Count Mole collected $0.34 from pot
+Count Mole: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [Ts 4h 4s]
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole collected ($0.34)
+Seat 5: maskch (button) folded before Flop (didn't bet)
+Seat 6: jageboi (small blind) folded on the Flop
+Seat 7: goodmax3121 (big blind) folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771947229:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 15:00:48 PT [2022/08/03 18:00:48 ET]
+Table 'Williams' 9-max Seat #6 is the button
+Seat 1: ACEHbKA777 ($5.70 in chips) 
+Seat 2: ess666 ($5.46 in chips) 
+Seat 3: Count Mole ($7.16 in chips) 
+Seat 5: maskch ($17.95 in chips) 
+Seat 6: jageboi ($4.90 in chips) 
+Seat 7: goodmax3121 ($4.01 in chips) 
+Seat 9: Dorex2007 ($6.49 in chips) 
+goodmax3121: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 2c]
+ACEHbKA777: folds 
+ess666: raises $0.10 to $0.15
+Count Mole: folds 
+maskch: folds 
+jageboi: folds 
+goodmax3121: folds 
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to ess666
+ess666 collected $0.12 from pot
+ess666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 collected ($0.12)
+Seat 3: Count Mole folded before Flop (didn't bet)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi (button) folded before Flop (didn't bet)
+Seat 7: goodmax3121 (small blind) folded before Flop
+Seat 9: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237771952281:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 15:01:04 PT [2022/08/03 18:01:04 ET]
+Table 'Williams' 9-max Seat #7 is the button
+Seat 1: ACEHbKA777 ($5.70 in chips) 
+Seat 2: ess666 ($5.53 in chips) 
+Seat 3: Count Mole ($7.16 in chips) 
+Seat 5: maskch ($17.95 in chips) 
+Seat 6: jageboi ($4.90 in chips) 
+Seat 7: goodmax3121 ($3.99 in chips) 
+Seat 9: Dorex2007 ($6.44 in chips) 
+Dorex2007: posts small blind $0.02
+ACEHbKA777: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 7s]
+ess666: folds 
+Count Mole: raises $0.10 to $0.15
+maskch: folds 
+jageboi: folds 
+goodmax3121: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+Uncalled bet ($0.10) returned to Count Mole
+Count Mole collected $0.12 from pot
+Count Mole: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ACEHbKA777 (big blind) folded before Flop
+Seat 2: ess666 folded before Flop (didn't bet)
+Seat 3: Count Mole collected ($0.12)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: goodmax3121 (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237771965861:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 15:01:25 PT [2022/08/03 18:01:25 ET]
+Table 'Williams' 9-max Seat #9 is the button
+Seat 1: ACEHbKA777 ($5.65 in chips) 
+Seat 2: ess666 ($5.53 in chips) 
+Seat 3: Count Mole ($7.23 in chips) 
+Seat 5: maskch ($17.95 in chips) 
+Seat 6: jageboi ($4.90 in chips) 
+Seat 7: goodmax3121 ($3.99 in chips) 
+Seat 9: Dorex2007 ($6.42 in chips) 
+ACEHbKA777: posts small blind $0.02
+ess666: posts big blind $0.05
+Apostol108: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Kd]
+Count Mole: raises $0.10 to $0.15
+maskch: folds 
+jageboi: folds 
+goodmax3121: raises $0.25 to $0.40
+Dorex2007: calls $0.40
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: calls $0.25
+*** FLOP *** [Kh 8s 5s]
+Count Mole: checks 
+goodmax3121: bets $3.59 and is all-in
+Dorex2007: folds 
+Count Mole: folds 
+Uncalled bet ($3.59) returned to goodmax3121
+goodmax3121 collected $1.22 from pot
+goodmax3121: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.05 
+Board [Kh 8s 5s]
+Seat 1: ACEHbKA777 (small blind) folded before Flop
+Seat 2: ess666 (big blind) folded before Flop
+Seat 3: Count Mole folded on the Flop
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: goodmax3121 collected ($1.22)
+Seat 9: Dorex2007 (button) folded on the Flop
+
+
+
+PokerStars Hand #237771979895:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 15:02:08 PT [2022/08/03 18:02:08 ET]
+Table 'Williams' 9-max Seat #1 is the button
+Seat 1: ACEHbKA777 ($5.63 in chips) 
+Seat 2: ess666 ($5.48 in chips) 
+Seat 3: Count Mole ($6.83 in chips) 
+Seat 5: maskch ($17.95 in chips) 
+Seat 6: jageboi ($4.90 in chips) 
+Seat 7: goodmax3121 ($4.81 in chips) 
+Seat 9: Dorex2007 ($6.02 in chips) 
+ess666: posts small blind $0.02
+Count Mole: posts big blind $0.05
+Apostol108: sits out 
+cubicroot: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts Qh]
+maskch: folds 
+jageboi: calls $0.05
+goodmax3121: folds 
+Dorex2007: folds 
+ACEHbKA777: raises $0.09 to $0.14
+ess666: folds 
+maskch leaves the table
+Count Mole: raises $0.31 to $0.45
+jageboi: folds 
+Span405 joins the table at seat #5 
+ACEHbKA777: calls $0.31
+*** FLOP *** [2h 4h 7d]
+Count Mole: bets $0.46
+ACEHbKA777: folds 
+Uncalled bet ($0.46) returned to Count Mole
+Count Mole collected $0.93 from pot
+Count Mole: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.97 | Rake $0.04 
+Board [2h 4h 7d]
+Seat 1: ACEHbKA777 (button) folded on the Flop
+Seat 2: ess666 (small blind) folded before Flop
+Seat 3: Count Mole (big blind) collected ($0.93)
+Seat 5: maskch folded before Flop (didn't bet)
+Seat 6: jageboi folded before Flop
+Seat 7: goodmax3121 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237771995065:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/03 15:02:54 PT [2022/08/03 18:02:54 ET]
+Table 'Williams' 9-max Seat #2 is the button
+Seat 1: ACEHbKA777 ($5.18 in chips) 
+Seat 2: ess666 ($5.46 in chips) 
+Seat 3: Count Mole ($7.31 in chips) 
+Seat 4: Apostol108 ($5 in chips) 
+Seat 6: jageboi ($4.85 in chips) 
+Seat 7: goodmax3121 ($4.81 in chips) 
+Seat 9: Dorex2007 ($6.02 in chips) 
+Count Mole: posts small blind $0.02
+Apostol108: posts big blind $0.05
+Span405: sits out 
+cubicroot: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 7s]
+jageboi: folds 
+goodmax3121: folds 
+Dorex2007: folds 
+ACEHbKA777: folds 
+ess666: folds 
+Count Mole: folds 
+Uncalled bet ($0.03) returned to Apostol108
+Apostol108 collected $0.04 from pot
+Apostol108: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ACEHbKA777 folded before Flop (didn't bet)
+Seat 2: ess666 (button) folded before Flop (didn't bet)
+Seat 3: Count Mole (small blind) folded before Flop
+Seat 4: Apostol108 (big blind) collected ($0.04)
+Seat 6: jageboi folded before Flop (didn't bet)
+Seat 7: goodmax3121 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
