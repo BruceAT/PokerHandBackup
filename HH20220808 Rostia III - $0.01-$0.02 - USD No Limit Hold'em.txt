@@ -1,0 +1,110 @@
+﻿PokerStars Hand #237876815771:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/08/08 17:53:29 PT [2022/08/08 20:53:29 ET]
+Table 'Rostia III' 9-max Seat #9 is the button
+Seat 1: IKIASSILVA ($0.19 in chips) 
+Seat 2: only6-6lol ($1.35 in chips) 
+Seat 3: Mibie ($6.79 in chips) 
+Seat 4: dickinho69 ($1.50 in chips) 
+Seat 5: JoeStevo ($2.39 in chips) 
+Seat 6: o'travolta ($0.92 in chips) 
+Seat 7: gambitl1 ($3.67 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: Iongtimetn_RU ($1.06 in chips) 
+IKIASSILVA: posts small blind $0.01
+only6-6lol: posts big blind $0.02
+Dorex2007: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js Kd]
+Mibie: raises $0.04 to $0.06
+dickinho69: folds 
+JoeStevo: folds 
+o'travolta: folds 
+gambitl1: folds 
+Dorex2007: calls $0.04
+Iongtimetn_RU: calls $0.06
+IKIASSILVA: raises $0.13 to $0.19 and is all-in
+only6-6lol: folds 
+Mibie: calls $0.13
+Dorex2007: calls $0.13
+Iongtimetn_RU: folds 
+*** FLOP *** [2s 3h 5c]
+Mibie: checks 
+Dorex2007: checks 
+*** TURN *** [2s 3h 5c] [Qc]
+Mibie: bets $0.31
+Dorex2007: folds 
+Uncalled bet ($0.31) returned to Mibie
+*** RIVER *** [2s 3h 5c Qc] [Ac]
+*** SHOW DOWN ***
+IKIASSILVA: shows [9h 9s] (a pair of Nines)
+Mibie: shows [2d Ad] (two pair, Aces and Deuces)
+Mibie collected $0.63 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [2s 3h 5c Qc Ac]
+Seat 1: IKIASSILVA (small blind) showed [9h 9s] and lost with a pair of Nines
+Seat 2: only6-6lol (big blind) folded before Flop
+Seat 3: Mibie showed [2d Ad] and won ($0.63) with two pair, Aces and Deuces
+Seat 4: dickinho69 folded before Flop (didn't bet)
+Seat 5: JoeStevo folded before Flop (didn't bet)
+Seat 6: o'travolta folded before Flop (didn't bet)
+Seat 7: gambitl1 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded on the Turn
+Seat 9: Iongtimetn_RU (button) folded before Flop
+
+
+
+PokerStars Hand #237876828408:  Hold'em No Limit ($0.01/$0.02 USD) - 2022/08/08 17:54:27 PT [2022/08/08 20:54:27 ET]
+Table 'Rostia III' 9-max Seat #2 is the button
+Seat 2: only6-6lol ($1.33 in chips) 
+Seat 3: Mibie ($7.23 in chips) 
+Seat 4: dickinho69 ($1.50 in chips) 
+Seat 5: JoeStevo ($2.39 in chips) 
+Seat 6: o'travolta ($0.92 in chips) 
+Seat 7: gambitl1 ($3.67 in chips) 
+Seat 8: Dorex2007 ($2 in chips) 
+Seat 9: Iongtimetn_RU ($1 in chips) 
+Mibie: posts small blind $0.01
+dickinho69: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Tc]
+JoeStevo: folds 
+o'travolta: folds 
+gambitl1: folds 
+Dorex2007: calls $0.02
+Iongtimetn_RU: raises $0.06 to $0.08
+IKIASSILVA leaves the table
+only6-6lol: folds 
+Mibie: calls $0.07
+dickinho69: folds 
+Dorex2007: calls $0.06
+*** FLOP *** [4h 3h 2d]
+Mibie: checks 
+Dorex2007: checks 
+Iongtimetn_RU: bets $0.12
+Mibie: calls $0.12
+engbaso joins the table at seat #1 
+Dorex2007: folds 
+*** TURN *** [4h 3h 2d] [6c]
+Mibie: checks 
+Iongtimetn_RU: checks 
+*** RIVER *** [4h 3h 2d 6c] [Jh]
+Mibie: checks 
+Iongtimetn_RU: checks 
+*** SHOW DOWN ***
+Mibie: shows [Kh Qs] (high card King)
+Iongtimetn_RU: shows [Td Th] (a pair of Tens)
+Iongtimetn_RU collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [4h 3h 2d 6c Jh]
+Seat 2: only6-6lol (button) folded before Flop (didn't bet)
+Seat 3: Mibie (small blind) showed [Kh Qs] and lost with high card King
+Seat 4: dickinho69 (big blind) folded before Flop
+Seat 5: JoeStevo folded before Flop (didn't bet)
+Seat 6: o'travolta folded before Flop (didn't bet)
+Seat 7: gambitl1 folded before Flop (didn't bet)
+Seat 8: Dorex2007 folded on the Flop
+Seat 9: Iongtimetn_RU showed [Td Th] and won ($0.48) with a pair of Tens
+
+
+
