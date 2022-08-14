@@ -1,0 +1,911 @@
+﻿PokerStars Hand #237965865070:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/13 8:57:05 PT [2022/08/13 11:57:05 ET]
+Table 'Benetnasch II' 9-max Seat #3 is the button
+Seat 1: elefantme ($5.72 in chips) 
+Seat 2: jamesjbdjim ($5.92 in chips) 
+Seat 3: bocal0 ($1.48 in chips) 
+Seat 4: vladimir5421 ($5 in chips) 
+Seat 5: Dorex2007 ($5 in chips) 
+Seat 6: eskaeliey ($6.29 in chips) 
+Seat 7: OSO-456 ($5 in chips) 
+Seat 8: RealScot ($7.67 in chips) 
+Seat 9: 1tillit1 ($6.46 in chips) 
+vladimir5421: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 8h]
+eskaeliey: folds 
+OSO-456: folds 
+RealScot: folds 
+1tillit1: folds 
+elefantme: folds 
+jamesjbdjim: folds 
+bocal0: folds 
+vladimir5421: folds 
+Uncalled bet ($0.03) returned to Dorex2007
+Dorex2007 collected $0.04 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: elefantme folded before Flop (didn't bet)
+Seat 2: jamesjbdjim folded before Flop (didn't bet)
+Seat 3: bocal0 (button) folded before Flop (didn't bet)
+Seat 4: vladimir5421 (small blind) folded before Flop
+Seat 5: Dorex2007 (big blind) collected ($0.04)
+Seat 6: eskaeliey folded before Flop (didn't bet)
+Seat 7: OSO-456 folded before Flop (didn't bet)
+Seat 8: RealScot folded before Flop (didn't bet)
+Seat 9: 1tillit1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237965868768:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/13 8:57:22 PT [2022/08/13 11:57:22 ET]
+Table 'Benetnasch II' 9-max Seat #4 is the button
+Seat 1: elefantme ($5.72 in chips) 
+Seat 2: jamesjbdjim ($5.92 in chips) 
+Seat 3: bocal0 ($1.48 in chips) 
+Seat 4: vladimir5421 ($5 in chips) 
+Seat 5: Dorex2007 ($5.02 in chips) 
+Seat 6: eskaeliey ($6.29 in chips) 
+Seat 7: OSO-456 ($5 in chips) 
+Seat 8: RealScot ($7.67 in chips) 
+Seat 9: 1tillit1 ($6.46 in chips) 
+Dorex2007: posts small blind $0.02
+eskaeliey: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Kh]
+OSO-456: folds 
+RealScot: folds 
+1tillit1: folds 
+elefantme: folds 
+jamesjbdjim: folds 
+bocal0: folds 
+vladimir5421: folds 
+Dorex2007: calls $0.03
+eskaeliey: checks 
+*** FLOP *** [2c Js Jh]
+Dorex2007: checks 
+eskaeliey: checks 
+*** TURN *** [2c Js Jh] [9s]
+Dorex2007: checks 
+eskaeliey: checks 
+*** RIVER *** [2c Js Jh 9s] [6s]
+Dorex2007: checks 
+eskaeliey: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [7c Kh] (a pair of Jacks)
+eskaeliey: shows [Ac 4d] (a pair of Jacks - Ace kicker)
+eskaeliey collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [2c Js Jh 9s 6s]
+Seat 1: elefantme folded before Flop (didn't bet)
+Seat 2: jamesjbdjim folded before Flop (didn't bet)
+Seat 3: bocal0 folded before Flop (didn't bet)
+Seat 4: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 5: Dorex2007 (small blind) showed [7c Kh] and lost with a pair of Jacks
+Seat 6: eskaeliey (big blind) showed [Ac 4d] and won ($0.10) with a pair of Jacks
+Seat 7: OSO-456 folded before Flop (didn't bet)
+Seat 8: RealScot folded before Flop (didn't bet)
+Seat 9: 1tillit1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237965885053:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/13 8:58:38 PT [2022/08/13 11:58:38 ET]
+Table 'Benetnasch II' 9-max Seat #5 is the button
+Seat 1: elefantme ($5.72 in chips) 
+Seat 2: jamesjbdjim ($5.92 in chips) 
+Seat 3: bocal0 ($1.48 in chips) 
+Seat 4: vladimir5421 ($5 in chips) 
+Seat 5: Dorex2007 ($5 in chips) 
+Seat 6: eskaeliey ($6.34 in chips) 
+Seat 8: RealScot ($7.67 in chips) 
+Seat 9: 1tillit1 ($6.46 in chips) 
+eskaeliey: posts small blind $0.02
+OSO-456: is sitting out 
+RealScot: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Qs]
+1tillit1: folds 
+OSO-456 leaves the table
+elefantme: folds 
+jamesjbdjim: folds 
+bocal0: folds 
+vladimir5421: folds 
+Dorex2007: raises $0.15 to $0.20
+eskaeliey: calls $0.18
+RealScot: folds 
+*** FLOP *** [Ks Jc 3h]
+eskaeliey: checks 
+juliograciel joins the table at seat #7 
+Dorex2007: checks 
+*** TURN *** [Ks Jc 3h] [9c]
+eskaeliey: checks 
+Dorex2007: checks 
+*** RIVER *** [Ks Jc 3h 9c] [5h]
+eskaeliey: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+eskaeliey: shows [4d 4s] (a pair of Fours)
+Dorex2007: mucks hand 
+eskaeliey collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Ks Jc 3h 9c 5h]
+Seat 1: elefantme folded before Flop (didn't bet)
+Seat 2: jamesjbdjim folded before Flop (didn't bet)
+Seat 3: bocal0 folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: Dorex2007 (button) mucked [As Qs]
+Seat 6: eskaeliey (small blind) showed [4d 4s] and won ($0.43) with a pair of Fours
+Seat 8: RealScot (big blind) folded before Flop
+Seat 9: 1tillit1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237965899713:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/13 8:59:47 PT [2022/08/13 11:59:47 ET]
+Table 'Benetnasch II' 9-max Seat #6 is the button
+Seat 1: elefantme ($5.72 in chips) 
+Seat 2: jamesjbdjim ($5.92 in chips) 
+Seat 3: bocal0 ($1.48 in chips) 
+Seat 4: vladimir5421 ($5 in chips) 
+Seat 5: Dorex2007 ($5 in chips) 
+Seat 6: eskaeliey ($6.57 in chips) 
+Seat 8: RealScot ($7.62 in chips) 
+Seat 9: 1tillit1 ($6.46 in chips) 
+RealScot: posts small blind $0.02
+1tillit1: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 8c]
+elefantme: raises $0.15 to $0.20
+jamesjbdjim: folds 
+bocal0: folds 
+vladimir5421: calls $0.20
+Dorex2007: calls $0.20
+eskaeliey: folds 
+RealScot: folds 
+1tillit1: folds 
+*** FLOP *** [Jh As Ad]
+elefantme: bets $0.15
+vladimir5421: folds 
+Dorex2007: folds 
+Uncalled bet ($0.15) returned to elefantme
+elefantme collected $0.64 from pot
+elefantme: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.03 
+Board [Jh As Ad]
+Seat 1: elefantme collected ($0.64)
+Seat 2: jamesjbdjim folded before Flop (didn't bet)
+Seat 3: bocal0 folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded on the Flop
+Seat 5: Dorex2007 folded on the Flop
+Seat 6: eskaeliey (button) folded before Flop (didn't bet)
+Seat 8: RealScot (small blind) folded before Flop
+Seat 9: 1tillit1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237965910928:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/13 9:00:27 PT [2022/08/13 12:00:27 ET]
+Table 'Benetnasch II' 9-max Seat #8 is the button
+Seat 1: elefantme ($6.16 in chips) 
+Seat 2: jamesjbdjim ($5.92 in chips) 
+Seat 3: bocal0 ($1.48 in chips) 
+Seat 4: vladimir5421 ($5 in chips) 
+Seat 5: Dorex2007 ($5 in chips) 
+Seat 6: eskaeliey ($6.57 in chips) 
+Seat 7: juliograciel ($5 in chips) 
+Seat 8: RealScot ($7.60 in chips) 
+Seat 9: 1tillit1 ($6.41 in chips) 
+1tillit1: posts small blind $0.02
+elefantme: posts big blind $0.05
+juliograciel: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 5s]
+jamesjbdjim: folds 
+bocal0: folds 
+vladimir5421: folds 
+Dorex2007: folds 
+eskaeliey: folds 
+juliograciel has timed out
+juliograciel: checks 
+RealScot: folds 
+1tillit1: calls $0.03
+elefantme: checks 
+*** FLOP *** [5c Ad 4s]
+1tillit1: bets $0.07
+elefantme: folds 
+juliograciel: calls $0.07
+*** TURN *** [5c Ad 4s] [9s]
+1tillit1: bets $0.15
+juliograciel: folds 
+Uncalled bet ($0.15) returned to 1tillit1
+1tillit1 collected $0.28 from pot
+1tillit1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [5c Ad 4s 9s]
+Seat 1: elefantme (big blind) folded on the Flop
+Seat 2: jamesjbdjim folded before Flop (didn't bet)
+Seat 3: bocal0 folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: eskaeliey folded before Flop (didn't bet)
+Seat 7: juliograciel folded on the Turn
+Seat 8: RealScot (button) folded before Flop (didn't bet)
+Seat 9: 1tillit1 (small blind) collected ($0.28)
+
+
+
+PokerStars Hand #237965935802:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/13 9:02:05 PT [2022/08/13 12:02:05 ET]
+Table 'Benetnasch II' 9-max Seat #9 is the button
+Seat 1: elefantme ($6.11 in chips) 
+Seat 2: jamesjbdjim ($5.92 in chips) 
+Seat 3: bocal0 ($1.48 in chips) 
+Seat 4: vladimir5421 ($5 in chips) 
+Seat 5: Dorex2007 ($5 in chips) 
+Seat 6: eskaeliey ($6.57 in chips) 
+Seat 7: juliograciel ($4.88 in chips) 
+Seat 8: RealScot ($7.60 in chips) 
+Seat 9: 1tillit1 ($6.57 in chips) 
+elefantme: posts small blind $0.02
+jamesjbdjim: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Td]
+bocal0: folds 
+vladimir5421: folds 
+Dorex2007 has timed out
+Dorex2007: folds 
+eskaeliey: raises $0.10 to $0.15
+juliograciel: folds 
+RealScot: raises $0.23 to $0.38
+1tillit1: folds 
+elefantme: folds 
+jamesjbdjim: folds 
+eskaeliey: calls $0.23
+*** FLOP *** [2c 3d Th]
+eskaeliey: checks 
+RealScot: bets $0.40
+eskaeliey: folds 
+Uncalled bet ($0.40) returned to RealScot
+RealScot collected $0.80 from pot
+RealScot: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.83 | Rake $0.03 
+Board [2c 3d Th]
+Seat 1: elefantme (small blind) folded before Flop
+Seat 2: jamesjbdjim (big blind) folded before Flop
+Seat 3: bocal0 folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: eskaeliey folded on the Flop
+Seat 7: juliograciel folded before Flop (didn't bet)
+Seat 8: RealScot collected ($0.80)
+Seat 9: 1tillit1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237965954112:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/13 9:03:11 PT [2022/08/13 12:03:11 ET]
+Table 'Benetnasch II' 9-max Seat #1 is the button
+Seat 1: elefantme ($6.09 in chips) 
+Seat 2: jamesjbdjim ($5.87 in chips) 
+Seat 3: bocal0 ($1.48 in chips) 
+Seat 4: vladimir5421 ($5 in chips) 
+Seat 5: Dorex2007 ($5 in chips) 
+Seat 6: eskaeliey ($6.19 in chips) 
+Seat 7: juliograciel ($4.88 in chips) 
+Seat 8: RealScot ($8.02 in chips) 
+Seat 9: 1tillit1 ($6.57 in chips) 
+jamesjbdjim: posts small blind $0.02
+bocal0: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Ks]
+vladimir5421: folds 
+Dorex2007: folds 
+eskaeliey: calls $0.05
+juliograciel: folds 
+RealScot: calls $0.05
+1tillit1: folds 
+elefantme: folds 
+jamesjbdjim: folds 
+bocal0: checks 
+*** FLOP *** [9d 7c 8c]
+bocal0: checks 
+eskaeliey: checks 
+RealScot: checks 
+*** TURN *** [9d 7c 8c] [7h]
+bocal0: bets $0.15
+eskaeliey: calls $0.15
+RealScot: folds 
+*** RIVER *** [9d 7c 8c 7h] [9c]
+bocal0: bets $0.35
+eskaeliey: folds 
+Uncalled bet ($0.35) returned to bocal0
+bocal0 collected $0.45 from pot
+bocal0: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [9d 7c 8c 7h 9c]
+Seat 1: elefantme (button) folded before Flop (didn't bet)
+Seat 2: jamesjbdjim (small blind) folded before Flop
+Seat 3: bocal0 (big blind) collected ($0.45)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: eskaeliey folded on the River
+Seat 7: juliograciel folded before Flop (didn't bet)
+Seat 8: RealScot folded on the Turn
+Seat 9: 1tillit1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237965977954:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/13 9:04:32 PT [2022/08/13 12:04:32 ET]
+Table 'Benetnasch II' 9-max Seat #2 is the button
+Seat 1: elefantme ($6.09 in chips) 
+Seat 2: jamesjbdjim ($5.85 in chips) 
+Seat 3: bocal0 ($1.73 in chips) 
+Seat 4: vladimir5421 ($5 in chips) 
+Seat 5: Dorex2007 ($5 in chips) 
+Seat 6: eskaeliey ($5.99 in chips) 
+Seat 7: juliograciel ($4.88 in chips) 
+Seat 8: RealScot ($7.97 in chips) 
+Seat 9: 1tillit1 ($6.57 in chips) 
+bocal0: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Jh]
+Dorex2007: folds 
+eskaeliey: folds 
+juliograciel: raises $0.10 to $0.15
+RealScot: folds 
+1tillit1: folds 
+elefantme: folds 
+jamesjbdjim: folds 
+bocal0: folds 
+vladimir5421: folds 
+Uncalled bet ($0.10) returned to juliograciel
+juliograciel collected $0.12 from pot
+juliograciel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: elefantme folded before Flop (didn't bet)
+Seat 2: jamesjbdjim (button) folded before Flop (didn't bet)
+Seat 3: bocal0 (small blind) folded before Flop
+Seat 4: vladimir5421 (big blind) folded before Flop
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: eskaeliey folded before Flop (didn't bet)
+Seat 7: juliograciel collected ($0.12)
+Seat 8: RealScot folded before Flop (didn't bet)
+Seat 9: 1tillit1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237965982790:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/13 9:04:49 PT [2022/08/13 12:04:49 ET]
+Table 'Benetnasch II' 9-max Seat #3 is the button
+Seat 1: elefantme ($6.09 in chips) 
+Seat 2: jamesjbdjim ($5.85 in chips) 
+Seat 3: bocal0 ($1.71 in chips) 
+Seat 4: vladimir5421 ($5 in chips) 
+Seat 5: Dorex2007 ($5 in chips) 
+Seat 6: eskaeliey ($5.99 in chips) 
+Seat 7: juliograciel ($4.95 in chips) 
+Seat 8: RealScot ($7.97 in chips) 
+Seat 9: 1tillit1 ($6.57 in chips) 
+vladimir5421: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Kd]
+eskaeliey: calls $0.05
+juliograciel: folds 
+RealScot: calls $0.05
+1tillit1: folds 
+elefantme: folds 
+jamesjbdjim: folds 
+bocal0: folds 
+vladimir5421: folds 
+Dorex2007: raises $0.17 to $0.22
+eskaeliey: folds 
+RealScot: folds 
+Uncalled bet ($0.17) returned to Dorex2007
+Dorex2007 collected $0.17 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0 
+Seat 1: elefantme folded before Flop (didn't bet)
+Seat 2: jamesjbdjim folded before Flop (didn't bet)
+Seat 3: bocal0 (button) folded before Flop (didn't bet)
+Seat 4: vladimir5421 (small blind) folded before Flop
+Seat 5: Dorex2007 (big blind) collected ($0.17)
+Seat 6: eskaeliey folded before Flop
+Seat 7: juliograciel folded before Flop (didn't bet)
+Seat 8: RealScot folded before Flop
+Seat 9: 1tillit1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237965991570:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/13 9:05:20 PT [2022/08/13 12:05:20 ET]
+Table 'Benetnasch II' 9-max Seat #4 is the button
+Seat 1: elefantme ($6.09 in chips) 
+Seat 2: jamesjbdjim ($5.85 in chips) 
+Seat 3: bocal0 ($1.71 in chips) 
+Seat 4: vladimir5421 ($5 in chips) 
+Seat 5: Dorex2007 ($5.12 in chips) 
+Seat 6: eskaeliey ($5.94 in chips) 
+Seat 7: juliograciel ($4.95 in chips) 
+Seat 8: RealScot ($7.92 in chips) 
+Seat 9: 1tillit1 ($6.57 in chips) 
+Dorex2007: posts small blind $0.02
+eskaeliey: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c Qh]
+juliograciel: calls $0.05
+RealScot: folds 
+1tillit1: folds 
+elefantme: folds 
+jamesjbdjim: folds 
+bocal0: raises $0.05 to $0.10
+vladimir5421: folds 
+Dorex2007: folds 
+eskaeliey: folds 
+juliograciel: calls $0.05
+*** FLOP *** [Qd 8d 3s]
+juliograciel: bets $0.26
+bocal0: calls $0.26
+*** TURN *** [Qd 8d 3s] [9c]
+juliograciel: checks 
+bocal0: bets $0.45
+juliograciel: calls $0.45
+*** RIVER *** [Qd 8d 3s 9c] [6d]
+juliograciel: bets $1.62
+bocal0: calls $0.90 and is all-in
+Uncalled bet ($0.72) returned to juliograciel
+*** SHOW DOWN ***
+juliograciel: shows [7d Kd] (a flush, King high)
+bocal0: shows [Td Qs] (a pair of Queens)
+juliograciel collected $3.35 from pot
+*** SUMMARY ***
+Total pot $3.49 | Rake $0.14 
+Board [Qd 8d 3s 9c 6d]
+Seat 1: elefantme folded before Flop (didn't bet)
+Seat 2: jamesjbdjim folded before Flop (didn't bet)
+Seat 3: bocal0 showed [Td Qs] and lost with a pair of Queens
+Seat 4: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 5: Dorex2007 (small blind) folded before Flop
+Seat 6: eskaeliey (big blind) folded before Flop
+Seat 7: juliograciel showed [7d Kd] and won ($3.35) with a flush, King high
+Seat 8: RealScot folded before Flop (didn't bet)
+Seat 9: 1tillit1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237966015526:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/13 9:06:45 PT [2022/08/13 12:06:45 ET]
+Table 'Benetnasch II' 9-max Seat #5 is the button
+Seat 1: elefantme ($6.09 in chips) 
+Seat 2: jamesjbdjim ($5.85 in chips) 
+Seat 4: vladimir5421 ($5 in chips) 
+Seat 5: Dorex2007 ($5.10 in chips) 
+Seat 6: eskaeliey ($5.89 in chips) 
+Seat 7: juliograciel ($6.59 in chips) 
+Seat 8: RealScot ($7.92 in chips) 
+Seat 9: 1tillit1 ($6.57 in chips) 
+eskaeliey: posts small blind $0.02
+juliograciel: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Ts]
+RealScot: folds 
+1tillit1: folds 
+elefantme: folds 
+jamesjbdjim: folds 
+vladimir5421: folds 
+Dorex2007: folds 
+eskaeliey: calls $0.03
+juliograciel: checks 
+*** FLOP *** [2d 8s Qc]
+eskaeliey: bets $0.10
+juliograciel: folds 
+Uncalled bet ($0.10) returned to eskaeliey
+eskaeliey collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [2d 8s Qc]
+Seat 1: elefantme folded before Flop (didn't bet)
+Seat 2: jamesjbdjim folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 6: eskaeliey (small blind) collected ($0.10)
+Seat 7: juliograciel (big blind) folded on the Flop
+Seat 8: RealScot folded before Flop (didn't bet)
+Seat 9: 1tillit1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237966022057:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/13 9:07:08 PT [2022/08/13 12:07:08 ET]
+Table 'Benetnasch II' 9-max Seat #6 is the button
+Seat 1: elefantme ($6.09 in chips) 
+Seat 2: jamesjbdjim ($5.85 in chips) 
+Seat 4: vladimir5421 ($5 in chips) 
+Seat 5: Dorex2007 ($5.10 in chips) 
+Seat 6: eskaeliey ($5.94 in chips) 
+Seat 7: juliograciel ($6.54 in chips) 
+Seat 8: RealScot ($7.92 in chips) 
+Seat 9: 1tillit1 ($6.57 in chips) 
+juliograciel: posts small blind $0.02
+RealScot: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 3s]
+1tillit1: folds 
+elefantme: folds 
+bocal0 leaves the table
+jamesjbdjim: folds 
+vladimir5421: folds 
+OSO-456 joins the table at seat #3 
+Dorex2007: folds 
+eskaeliey: raises $0.10 to $0.15
+juliograciel: raises $0.35 to $0.50
+RealScot: folds 
+eskaeliey: folds 
+Uncalled bet ($0.35) returned to juliograciel
+juliograciel collected $0.35 from pot
+juliograciel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: elefantme folded before Flop (didn't bet)
+Seat 2: jamesjbdjim folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: eskaeliey (button) folded before Flop
+Seat 7: juliograciel (small blind) collected ($0.35)
+Seat 8: RealScot (big blind) folded before Flop
+Seat 9: 1tillit1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237966032510:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/13 9:07:45 PT [2022/08/13 12:07:45 ET]
+Table 'Benetnasch II' 9-max Seat #7 is the button
+Seat 1: elefantme ($6.09 in chips) 
+Seat 2: jamesjbdjim ($5.85 in chips) 
+Seat 4: vladimir5421 ($5 in chips) 
+Seat 5: Dorex2007 ($5.10 in chips) 
+Seat 6: eskaeliey ($5.79 in chips) 
+Seat 7: juliograciel ($6.74 in chips) 
+Seat 8: RealScot ($7.87 in chips) 
+Seat 9: 1tillit1 ($6.57 in chips) 
+RealScot: posts small blind $0.02
+1tillit1: posts big blind $0.05
+OSO-456: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Jc]
+elefantme: folds 
+jamesjbdjim: folds 
+vladimir5421: folds 
+Dorex2007: raises $0.10 to $0.15
+eskaeliey: folds 
+juliograciel: folds 
+RealScot: folds 
+1tillit1: folds 
+Uncalled bet ($0.10) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: elefantme folded before Flop (didn't bet)
+Seat 2: jamesjbdjim folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: Dorex2007 collected ($0.12)
+Seat 6: eskaeliey folded before Flop (didn't bet)
+Seat 7: juliograciel (button) folded before Flop (didn't bet)
+Seat 8: RealScot (small blind) folded before Flop
+Seat 9: 1tillit1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #237966038363:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/13 9:08:05 PT [2022/08/13 12:08:05 ET]
+Table 'Benetnasch II' 9-max Seat #8 is the button
+Seat 1: elefantme ($6.09 in chips) 
+Seat 2: jamesjbdjim ($5.85 in chips) 
+Seat 4: vladimir5421 ($5 in chips) 
+Seat 5: Dorex2007 ($5.17 in chips) 
+Seat 6: eskaeliey ($5.79 in chips) 
+Seat 7: juliograciel ($6.74 in chips) 
+Seat 8: RealScot ($7.85 in chips) 
+Seat 9: 1tillit1 ($6.52 in chips) 
+1tillit1: posts small blind $0.02
+elefantme: posts big blind $0.05
+OSO-456: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 3c]
+jamesjbdjim: folds 
+vladimir5421: folds 
+Dorex2007: folds 
+eskaeliey: folds 
+juliograciel: calls $0.05
+RealScot: folds 
+1tillit1: folds 
+elefantme: checks 
+*** FLOP *** [2d 7d Qc]
+elefantme: checks 
+juliograciel: checks 
+*** TURN *** [2d 7d Qc] [5s]
+elefantme: bets $0.06
+juliograciel: calls $0.06
+*** RIVER *** [2d 7d Qc 5s] [Ks]
+elefantme: checks 
+juliograciel: checks 
+*** SHOW DOWN ***
+elefantme: shows [7s 3d] (a pair of Sevens)
+juliograciel: mucks hand 
+elefantme collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [2d 7d Qc 5s Ks]
+Seat 1: elefantme (big blind) showed [7s 3d] and won ($0.23) with a pair of Sevens
+Seat 2: jamesjbdjim folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: eskaeliey folded before Flop (didn't bet)
+Seat 7: juliograciel mucked [4d Ad]
+Seat 8: RealScot (button) folded before Flop (didn't bet)
+Seat 9: 1tillit1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #237966053368:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/13 9:08:58 PT [2022/08/13 12:08:58 ET]
+Table 'Benetnasch II' 9-max Seat #9 is the button
+Seat 1: elefantme ($6.21 in chips) 
+Seat 2: jamesjbdjim ($5.85 in chips) 
+Seat 4: vladimir5421 ($5 in chips) 
+Seat 5: Dorex2007 ($5.17 in chips) 
+Seat 6: eskaeliey ($5.79 in chips) 
+Seat 7: juliograciel ($6.63 in chips) 
+Seat 8: RealScot ($7.85 in chips) 
+Seat 9: 1tillit1 ($6.50 in chips) 
+elefantme: posts small blind $0.02
+jamesjbdjim: posts big blind $0.05
+OSO-456: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 5c]
+vladimir5421: folds 
+Dorex2007: folds 
+eskaeliey: raises $0.10 to $0.15
+juliograciel: folds 
+RealScot: folds 
+1tillit1: folds 
+elefantme: folds 
+jamesjbdjim: calls $0.10
+*** FLOP *** [Tc 8d 9s]
+jamesjbdjim: checks 
+eskaeliey: checks 
+*** TURN *** [Tc 8d 9s] [6h]
+jamesjbdjim: bets $0.15
+eskaeliey: folds [Kd Ad]
+Uncalled bet ($0.15) returned to jamesjbdjim
+jamesjbdjim collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Tc 8d 9s 6h]
+Seat 1: elefantme (small blind) folded before Flop
+Seat 2: jamesjbdjim (big blind) collected ($0.31)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: eskaeliey folded on the Turn
+Seat 7: juliograciel folded before Flop (didn't bet)
+Seat 8: RealScot folded before Flop (didn't bet)
+Seat 9: 1tillit1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237966068356:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/13 9:09:40 PT [2022/08/13 12:09:40 ET]
+Table 'Benetnasch II' 9-max Seat #1 is the button
+Seat 1: elefantme ($6.19 in chips) 
+Seat 2: jamesjbdjim ($6.01 in chips) 
+Seat 3: OSO-456 ($5 in chips) 
+Seat 4: vladimir5421 ($5 in chips) 
+Seat 5: Dorex2007 ($5.17 in chips) 
+Seat 6: eskaeliey ($5.64 in chips) 
+Seat 7: juliograciel ($6.63 in chips) 
+Seat 8: RealScot ($7.85 in chips) 
+Seat 9: 1tillit1 ($6.50 in chips) 
+jamesjbdjim: posts small blind $0.02
+OSO-456: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 8c]
+vladimir5421: folds 
+Dorex2007: folds 
+eskaeliey: folds 
+juliograciel: folds 
+RealScot: folds 
+1tillit1: folds 
+elefantme: folds 
+jamesjbdjim: folds 
+Uncalled bet ($0.03) returned to OSO-456
+OSO-456 collected $0.04 from pot
+OSO-456: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: elefantme (button) folded before Flop (didn't bet)
+Seat 2: jamesjbdjim (small blind) folded before Flop
+Seat 3: OSO-456 (big blind) collected ($0.04)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: eskaeliey folded before Flop (didn't bet)
+Seat 7: juliograciel folded before Flop (didn't bet)
+Seat 8: RealScot folded before Flop (didn't bet)
+Seat 9: 1tillit1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237966071032:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/13 9:09:49 PT [2022/08/13 12:09:49 ET]
+Table 'Benetnasch II' 9-max Seat #2 is the button
+Seat 1: elefantme ($6.19 in chips) 
+Seat 2: jamesjbdjim ($5.99 in chips) 
+Seat 3: OSO-456 ($5.02 in chips) 
+Seat 4: vladimir5421 ($5 in chips) 
+Seat 5: Dorex2007 ($5.17 in chips) 
+Seat 6: eskaeliey ($5.64 in chips) 
+Seat 7: juliograciel ($6.63 in chips) 
+Seat 8: RealScot ($7.85 in chips) 
+Seat 9: 1tillit1 ($6.50 in chips) 
+OSO-456: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 8d]
+Dorex2007: folds 
+eskaeliey: folds 
+juliograciel: raises $0.10 to $0.15
+RealScot: folds 
+1tillit1: folds 
+elefantme: folds 
+jamesjbdjim: folds 
+OSO-456: folds 
+vladimir5421: folds 
+Uncalled bet ($0.10) returned to juliograciel
+juliograciel collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: elefantme folded before Flop (didn't bet)
+Seat 2: jamesjbdjim (button) folded before Flop (didn't bet)
+Seat 3: OSO-456 (small blind) folded before Flop
+Seat 4: vladimir5421 (big blind) folded before Flop
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: eskaeliey folded before Flop (didn't bet)
+Seat 7: juliograciel collected ($0.12)
+Seat 8: RealScot folded before Flop (didn't bet)
+Seat 9: 1tillit1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237966076492:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/13 9:10:09 PT [2022/08/13 12:10:09 ET]
+Table 'Benetnasch II' 9-max Seat #3 is the button
+Seat 1: elefantme ($6.19 in chips) 
+Seat 2: jamesjbdjim ($5.99 in chips) 
+Seat 3: OSO-456 ($5 in chips) 
+Seat 4: vladimir5421 ($5 in chips) 
+Seat 5: Dorex2007 ($5.17 in chips) 
+Seat 6: eskaeliey ($5.64 in chips) 
+Seat 7: juliograciel ($6.70 in chips) 
+Seat 8: RealScot ($7.85 in chips) 
+Seat 9: 1tillit1 ($6.50 in chips) 
+vladimir5421: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Kd]
+eskaeliey: folds 
+juliograciel: calls $0.05
+RealScot: folds 
+1tillit1: folds 
+elefantme: raises $0.15 to $0.20
+jamesjbdjim: folds 
+OSO-456: folds 
+vladimir5421: folds 
+Dorex2007: folds 
+juliograciel: folds 
+Uncalled bet ($0.15) returned to elefantme
+elefantme collected $0.17 from pot
+elefantme: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0 
+Seat 1: elefantme collected ($0.17)
+Seat 2: jamesjbdjim folded before Flop (didn't bet)
+Seat 3: OSO-456 (button) folded before Flop (didn't bet)
+Seat 4: vladimir5421 (small blind) folded before Flop
+Seat 5: Dorex2007 (big blind) folded before Flop
+Seat 6: eskaeliey folded before Flop (didn't bet)
+Seat 7: juliograciel folded before Flop
+Seat 8: RealScot folded before Flop (didn't bet)
+Seat 9: 1tillit1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237966083782:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/13 9:10:34 PT [2022/08/13 12:10:34 ET]
+Table 'Benetnasch II' 9-max Seat #4 is the button
+Seat 1: elefantme ($6.31 in chips) 
+Seat 2: jamesjbdjim ($5.99 in chips) 
+Seat 3: OSO-456 ($5 in chips) 
+Seat 4: vladimir5421 ($5 in chips) 
+Seat 5: Dorex2007 ($5.12 in chips) 
+Seat 6: eskaeliey ($5.64 in chips) 
+Seat 7: juliograciel ($6.65 in chips) 
+Seat 8: RealScot ($7.85 in chips) 
+Seat 9: 1tillit1 ($6.50 in chips) 
+Dorex2007: posts small blind $0.02
+eskaeliey: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Ks]
+juliograciel: raises $0.10 to $0.15
+RealScot: calls $0.15
+1tillit1: folds 
+elefantme: folds 
+jamesjbdjim: folds 
+OSO-456: folds 
+vladimir5421: calls $0.15
+Dorex2007: folds 
+eskaeliey: folds 
+*** FLOP *** [8h Ac 4c]
+juliograciel: checks 
+RealScot: checks 
+vladimir5421: checks 
+*** TURN *** [8h Ac 4c] [Js]
+juliograciel: checks 
+RealScot: checks 
+vladimir5421: checks 
+*** RIVER *** [8h Ac 4c Js] [2d]
+juliograciel: bets $0.50
+RealScot: folds 
+vladimir5421: folds 
+Uncalled bet ($0.50) returned to juliograciel
+juliograciel collected $0.50 from pot
+juliograciel: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [8h Ac 4c Js 2d]
+Seat 1: elefantme folded before Flop (didn't bet)
+Seat 2: jamesjbdjim folded before Flop (didn't bet)
+Seat 3: OSO-456 folded before Flop (didn't bet)
+Seat 4: vladimir5421 (button) folded on the River
+Seat 5: Dorex2007 (small blind) folded before Flop
+Seat 6: eskaeliey (big blind) folded before Flop
+Seat 7: juliograciel collected ($0.50)
+Seat 8: RealScot folded on the River
+Seat 9: 1tillit1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #237966103253:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/13 9:11:42 PT [2022/08/13 12:11:42 ET]
+Table 'Benetnasch II' 9-max Seat #5 is the button
+Seat 1: elefantme ($6.31 in chips) 
+Seat 2: jamesjbdjim ($5.99 in chips) 
+Seat 3: OSO-456 ($5 in chips) 
+Seat 4: vladimir5421 ($5 in chips) 
+Seat 5: Dorex2007 ($5.10 in chips) 
+Seat 6: eskaeliey ($5.59 in chips) 
+Seat 7: juliograciel ($7 in chips) 
+Seat 8: RealScot ($7.70 in chips) 
+Seat 9: 1tillit1 ($6.50 in chips) 
+eskaeliey: posts small blind $0.02
+juliograciel: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Ad]
+RealScot: folds 
+1tillit1: folds 
+elefantme: folds 
+jamesjbdjim: folds 
+OSO-456: folds 
+vladimir5421: folds 
+Dorex2007: raises $0.10 to $0.15
+eskaeliey: folds 
+juliograciel: folds 
+Uncalled bet ($0.10) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: elefantme folded before Flop (didn't bet)
+Seat 2: jamesjbdjim folded before Flop (didn't bet)
+Seat 3: OSO-456 folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: Dorex2007 (button) collected ($0.12)
+Seat 6: eskaeliey (small blind) folded before Flop
+Seat 7: juliograciel (big blind) folded before Flop
+Seat 8: RealScot folded before Flop (didn't bet)
+Seat 9: 1tillit1 folded before Flop (didn't bet)
+
+
+
