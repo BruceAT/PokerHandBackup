@@ -1,0 +1,1091 @@
+﻿PokerStars Hand #238030860175:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 12:57:33 PT [2022/08/16 15:57:33 ET]
+Table 'Orchis II' 9-max Seat #8 is the button
+Seat 1: Alex.Petrovskiy ($5 in chips) 
+Seat 2: STM32 ($5.09 in chips) 
+Seat 3: KarimH ($0.93 in chips) 
+Seat 4: zzzz446 ($15.05 in chips) 
+Seat 5: HE0123 ($10.42 in chips) 
+Seat 6: Danil27 ($5.23 in chips) 
+Seat 7: Dorex2007 ($5 in chips) 
+Seat 8: KAAS467 ($5.16 in chips) 
+Seat 9: kAiba109 ($1.95 in chips) 
+kAiba109: posts small blind $0.02
+Alex.Petrovskiy: posts big blind $0.05
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 4h]
+STM32: folds 
+KarimH: calls $0.05
+zzzz446: calls $0.05
+HE0123: folds 
+Danil27: folds 
+Dorex2007: checks 
+KAAS467: folds 
+kAiba109: folds 
+Alex.Petrovskiy: checks 
+*** FLOP *** [Qc 5s 3s]
+Alex.Petrovskiy: checks 
+KarimH: checks 
+zzzz446: bets $0.10
+Dorex2007: folds 
+Alex.Petrovskiy: folds 
+KarimH: folds 
+Uncalled bet ($0.10) returned to zzzz446
+zzzz446 collected $0.21 from pot
+zzzz446: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Qc 5s 3s]
+Seat 1: Alex.Petrovskiy (big blind) folded on the Flop
+Seat 2: STM32 folded before Flop (didn't bet)
+Seat 3: KarimH folded on the Flop
+Seat 4: zzzz446 collected ($0.21)
+Seat 5: HE0123 folded before Flop (didn't bet)
+Seat 6: Danil27 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded on the Flop (didn't bet)
+Seat 8: KAAS467 (button) folded before Flop (didn't bet)
+Seat 9: kAiba109 (small blind) folded before Flop
+
+
+
+PokerStars Hand #238030873586:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 12:58:20 PT [2022/08/16 15:58:20 ET]
+Table 'Orchis II' 9-max Seat #9 is the button
+Seat 1: Alex.Petrovskiy ($5 in chips) 
+Seat 2: STM32 ($5.09 in chips) 
+Seat 3: KarimH ($0.88 in chips) 
+Seat 4: zzzz446 ($15.21 in chips) 
+Seat 5: HE0123 ($10.42 in chips) 
+Seat 6: Danil27 ($5.23 in chips) 
+Seat 7: Dorex2007 ($5 in chips) 
+Seat 8: KAAS467 ($5.16 in chips) 
+Seat 9: kAiba109 ($1.93 in chips) 
+Alex.Petrovskiy: posts small blind $0.02
+STM32: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Jd]
+KarimH: folds 
+zzzz446: folds 
+HE0123: folds 
+Danil27 has timed out
+Danil27: folds 
+Dorex2007: folds 
+KAAS467: folds 
+kAiba109: folds 
+Alex.Petrovskiy: raises $0.08 to $0.13
+STM32: calls $0.08
+*** FLOP *** [7c 3h 3d]
+Alex.Petrovskiy: bets $0.17
+STM32: calls $0.17
+*** TURN *** [7c 3h 3d] [Ts]
+Alex.Petrovskiy: bets $0.38
+STM32: folds 
+Uncalled bet ($0.38) returned to Alex.Petrovskiy
+Alex.Petrovskiy collected $0.58 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [7c 3h 3d Ts]
+Seat 1: Alex.Petrovskiy (small blind) collected ($0.58)
+Seat 2: STM32 (big blind) folded on the Turn
+Seat 3: KarimH folded before Flop (didn't bet)
+Seat 4: zzzz446 folded before Flop (didn't bet)
+Seat 5: HE0123 folded before Flop (didn't bet)
+Seat 6: Danil27 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KAAS467 folded before Flop (didn't bet)
+Seat 9: kAiba109 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238030892007:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 12:59:25 PT [2022/08/16 15:59:25 ET]
+Table 'Orchis II' 9-max Seat #1 is the button
+Seat 1: Alex.Petrovskiy ($5.28 in chips) 
+Seat 2: STM32 ($4.79 in chips) 
+Seat 3: KarimH ($0.88 in chips) 
+Seat 4: zzzz446 ($15.21 in chips) 
+Seat 5: HE0123 ($10.42 in chips) 
+Seat 6: Danil27 ($5.23 in chips) 
+Seat 7: Dorex2007 ($5 in chips) 
+Seat 8: KAAS467 ($5.16 in chips) 
+Seat 9: kAiba109 ($1.93 in chips) 
+STM32: posts small blind $0.02
+KarimH: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts Td]
+zzzz446: folds 
+HE0123: raises $0.10 to $0.15
+Danil27: calls $0.15
+Dorex2007: raises $4.85 to $5 and is all-in
+KAAS467: folds 
+kAiba109: folds 
+Alex.Petrovskiy: folds 
+STM32: folds 
+KarimH: folds 
+HE0123: folds 
+Danil27: folds 
+Uncalled bet ($4.85) returned to Dorex2007
+Dorex2007 collected $0.52 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.52 | Rake $0 
+Seat 1: Alex.Petrovskiy (button) folded before Flop (didn't bet)
+Seat 2: STM32 (small blind) folded before Flop
+Seat 3: KarimH (big blind) folded before Flop
+Seat 4: zzzz446 folded before Flop (didn't bet)
+Seat 5: HE0123 folded before Flop
+Seat 6: Danil27 folded before Flop
+Seat 7: Dorex2007 collected ($0.52)
+Seat 8: KAAS467 folded before Flop (didn't bet)
+Seat 9: kAiba109 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238030903746:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 13:00:00 PT [2022/08/16 16:00:00 ET]
+Table 'Orchis II' 9-max Seat #2 is the button
+Seat 1: Alex.Petrovskiy ($5.28 in chips) 
+Seat 2: STM32 ($4.77 in chips) 
+Seat 3: KarimH ($0.83 in chips) 
+Seat 4: zzzz446 ($15.21 in chips) 
+Seat 5: HE0123 ($10.27 in chips) 
+Seat 6: Danil27 ($5.08 in chips) 
+Seat 7: Dorex2007 ($5.37 in chips) 
+Seat 8: KAAS467 ($5.16 in chips) 
+Seat 9: kAiba109 ($1.93 in chips) 
+KarimH: posts small blind $0.02
+zzzz446: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Qs]
+HE0123: folds 
+Danil27: folds 
+Dorex2007: folds 
+KAAS467: folds 
+kAiba109: folds 
+Alex.Petrovskiy: folds 
+STM32: raises $0.10 to $0.15
+KarimH: calls $0.13
+zzzz446: folds 
+*** FLOP *** [5s Th As]
+KarimH: checks 
+STM32: bets $0.12
+KarimH: folds 
+Uncalled bet ($0.12) returned to STM32
+STM32 collected $0.34 from pot
+STM32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [5s Th As]
+Seat 1: Alex.Petrovskiy folded before Flop (didn't bet)
+Seat 2: STM32 (button) collected ($0.34)
+Seat 3: KarimH (small blind) folded on the Flop
+Seat 4: zzzz446 (big blind) folded before Flop
+Seat 5: HE0123 folded before Flop (didn't bet)
+Seat 6: Danil27 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KAAS467 folded before Flop (didn't bet)
+Seat 9: kAiba109 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238030917596:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 13:00:46 PT [2022/08/16 16:00:46 ET]
+Table 'Orchis II' 9-max Seat #3 is the button
+Seat 1: Alex.Petrovskiy ($5.28 in chips) 
+Seat 2: STM32 ($4.96 in chips) 
+Seat 3: KarimH ($0.68 in chips) 
+Seat 4: zzzz446 ($15.16 in chips) 
+Seat 5: HE0123 ($10.27 in chips) 
+Seat 6: Danil27 ($5.08 in chips) 
+Seat 7: Dorex2007 ($5.37 in chips) 
+Seat 8: KAAS467 ($5.16 in chips) 
+Seat 9: kAiba109 ($1.93 in chips) 
+zzzz446: posts small blind $0.02
+HE0123: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 2c]
+Danil27: folds 
+Dorex2007: folds 
+KAAS467: raises $0.10 to $0.15
+kAiba109: raises $0.20 to $0.35
+Alex.Petrovskiy: folds 
+STM32: folds 
+KarimH: folds 
+zzzz446: folds 
+HE0123: folds 
+KAAS467: folds 
+Uncalled bet ($0.20) returned to kAiba109
+kAiba109 collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0 
+Seat 1: Alex.Petrovskiy folded before Flop (didn't bet)
+Seat 2: STM32 folded before Flop (didn't bet)
+Seat 3: KarimH (button) folded before Flop (didn't bet)
+Seat 4: zzzz446 (small blind) folded before Flop
+Seat 5: HE0123 (big blind) folded before Flop
+Seat 6: Danil27 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KAAS467 folded before Flop
+Seat 9: kAiba109 collected ($0.37)
+
+
+
+PokerStars Hand #238030933754:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 13:01:31 PT [2022/08/16 16:01:31 ET]
+Table 'Orchis II' 9-max Seat #4 is the button
+Seat 1: Alex.Petrovskiy ($5.28 in chips) 
+Seat 2: STM32 ($4.96 in chips) 
+Seat 3: KarimH ($0.68 in chips) 
+Seat 4: zzzz446 ($15.14 in chips) 
+Seat 5: HE0123 ($10.22 in chips) 
+Seat 6: Danil27 ($5.08 in chips) 
+Seat 7: Dorex2007 ($5.37 in chips) 
+Seat 8: KAAS467 ($5.01 in chips) 
+Seat 9: kAiba109 ($2.15 in chips) 
+HE0123: posts small blind $0.02
+Danil27: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 5h]
+Dorex2007: folds 
+KAAS467: folds 
+kAiba109: folds 
+Alex.Petrovskiy: folds 
+STM32: folds 
+KarimH: raises $0.63 to $0.68 and is all-in
+zzzz446: folds 
+HE0123: folds 
+Danil27: folds 
+Uncalled bet ($0.63) returned to KarimH
+KarimH collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Alex.Petrovskiy folded before Flop (didn't bet)
+Seat 2: STM32 folded before Flop (didn't bet)
+Seat 3: KarimH collected ($0.12)
+Seat 4: zzzz446 (button) folded before Flop (didn't bet)
+Seat 5: HE0123 (small blind) folded before Flop
+Seat 6: Danil27 (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KAAS467 folded before Flop (didn't bet)
+Seat 9: kAiba109 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238030945396:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 13:02:05 PT [2022/08/16 16:02:05 ET]
+Table 'Orchis II' 9-max Seat #5 is the button
+Seat 1: Alex.Petrovskiy ($5.28 in chips) 
+Seat 2: STM32 ($4.96 in chips) 
+Seat 3: KarimH ($0.75 in chips) 
+Seat 4: zzzz446 ($15.14 in chips) 
+Seat 5: HE0123 ($10.20 in chips) 
+Seat 6: Danil27 ($5.03 in chips) 
+Seat 7: Dorex2007 ($5.37 in chips) 
+Seat 8: KAAS467 ($5.01 in chips) 
+Seat 9: kAiba109 ($2.15 in chips) 
+Danil27: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Jh]
+KAAS467: folds 
+kAiba109: folds 
+Alex.Petrovskiy: folds 
+STM32: folds 
+KarimH: calls $0.05
+zzzz446: folds 
+HE0123: folds 
+Danil27: raises $0.15 to $0.20
+Dorex2007: calls $0.15
+KarimH: folds 
+*** FLOP *** [As 7h 2h]
+Danil27: bets $0.30
+Dorex2007: calls $0.30
+*** TURN *** [As 7h 2h] [Ks]
+Danil27: checks 
+Dorex2007: checks 
+*** RIVER *** [As 7h 2h Ks] [8h]
+Danil27: bets $0.75
+Dorex2007: raises $0.75 to $1.50
+Danil27: calls $0.75
+*** SHOW DOWN ***
+Dorex2007: shows [Kh Jh] (a flush, King high)
+Danil27: mucks hand 
+Dorex2007 collected $3.88 from pot
+*** SUMMARY ***
+Total pot $4.05 | Rake $0.17 
+Board [As 7h 2h Ks 8h]
+Seat 1: Alex.Petrovskiy folded before Flop (didn't bet)
+Seat 2: STM32 folded before Flop (didn't bet)
+Seat 3: KarimH folded before Flop
+Seat 4: zzzz446 folded before Flop (didn't bet)
+Seat 5: HE0123 (button) folded before Flop (didn't bet)
+Seat 6: Danil27 (small blind) mucked [7s 7d]
+Seat 7: Dorex2007 (big blind) showed [Kh Jh] and won ($3.88) with a flush, King high
+Seat 8: KAAS467 folded before Flop (didn't bet)
+Seat 9: kAiba109 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238030969698:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 13:03:10 PT [2022/08/16 16:03:10 ET]
+Table 'Orchis II' 9-max Seat #6 is the button
+Seat 1: Alex.Petrovskiy ($5.28 in chips) 
+Seat 2: STM32 ($4.96 in chips) 
+Seat 3: KarimH ($0.70 in chips) 
+Seat 4: zzzz446 ($15.14 in chips) 
+Seat 5: HE0123 ($10.20 in chips) 
+Seat 6: Danil27 ($5 in chips) 
+Seat 7: Dorex2007 ($7.25 in chips) 
+Seat 8: KAAS467 ($5.01 in chips) 
+Seat 9: kAiba109 ($2.15 in chips) 
+Dorex2007: posts small blind $0.02
+KAAS467: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Kc]
+kAiba109: folds 
+Alex.Petrovskiy: folds 
+STM32: folds 
+KarimH: folds 
+zzzz446: folds 
+HE0123: folds 
+Danil27: raises $0.05 to $0.10
+Dorex2007: folds 
+KAAS467: calls $0.05
+*** FLOP *** [Kd Ah Tc]
+KAAS467: checks 
+Danil27: checks 
+*** TURN *** [Kd Ah Tc] [3s]
+KAAS467: bets $0.20
+Danil27: folds 
+Uncalled bet ($0.20) returned to KAAS467
+KAAS467 collected $0.21 from pot
+KAAS467: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Kd Ah Tc 3s]
+Seat 1: Alex.Petrovskiy folded before Flop (didn't bet)
+Seat 2: STM32 folded before Flop (didn't bet)
+Seat 3: KarimH folded before Flop (didn't bet)
+Seat 4: zzzz446 folded before Flop (didn't bet)
+Seat 5: HE0123 folded before Flop (didn't bet)
+Seat 6: Danil27 (button) folded on the Turn
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: KAAS467 (big blind) collected ($0.21)
+Seat 9: kAiba109 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238030982160:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 13:03:43 PT [2022/08/16 16:03:43 ET]
+Table 'Orchis II' 9-max Seat #7 is the button
+Seat 1: Alex.Petrovskiy ($5.28 in chips) 
+Seat 2: STM32 ($4.96 in chips) 
+Seat 3: KarimH ($0.70 in chips) 
+Seat 4: zzzz446 ($15.14 in chips) 
+Seat 5: HE0123 ($10.20 in chips) 
+Seat 6: Danil27 ($5 in chips) 
+Seat 7: Dorex2007 ($7.23 in chips) 
+Seat 8: KAAS467 ($5.12 in chips) 
+Seat 9: kAiba109 ($2.15 in chips) 
+KAAS467: posts small blind $0.02
+kAiba109: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 7s]
+Alex.Petrovskiy: folds 
+STM32: raises $0.10 to $0.15
+KarimH: raises $0.55 to $0.70 and is all-in
+zzzz446: folds 
+HE0123: folds 
+Danil27: folds 
+Dorex2007: folds 
+KAAS467: folds 
+kAiba109: folds 
+STM32: calls $0.55
+*** FLOP *** [6d 8s Ac]
+*** TURN *** [6d 8s Ac] [7h]
+*** RIVER *** [6d 8s Ac 7h] [Th]
+*** SHOW DOWN ***
+STM32: shows [5d 5s] (a pair of Fives)
+KarimH: shows [Kc Ks] (a pair of Kings)
+KarimH collected $1.41 from pot
+*** SUMMARY ***
+Total pot $1.47 | Rake $0.06 
+Board [6d 8s Ac 7h Th]
+Seat 1: Alex.Petrovskiy folded before Flop (didn't bet)
+Seat 2: STM32 showed [5d 5s] and lost with a pair of Fives
+Seat 3: KarimH showed [Kc Ks] and won ($1.41) with a pair of Kings
+Seat 4: zzzz446 folded before Flop (didn't bet)
+Seat 5: HE0123 folded before Flop (didn't bet)
+Seat 6: Danil27 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: KAAS467 (small blind) folded before Flop
+Seat 9: kAiba109 (big blind) folded before Flop
+
+
+
+PokerStars Hand #238030993792:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 13:04:15 PT [2022/08/16 16:04:15 ET]
+Table 'Orchis II' 9-max Seat #8 is the button
+Seat 1: Alex.Petrovskiy ($5.28 in chips) 
+Seat 2: STM32 ($4.26 in chips) 
+Seat 3: KarimH ($1.41 in chips) 
+Seat 4: zzzz446 ($15.14 in chips) 
+Seat 5: HE0123 ($10.20 in chips) 
+Seat 6: Danil27 ($5 in chips) 
+Seat 7: Dorex2007 ($7.23 in chips) 
+Seat 8: KAAS467 ($5.10 in chips) 
+Seat 9: kAiba109 ($2.10 in chips) 
+kAiba109: posts small blind $0.02
+Alex.Petrovskiy: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 8c]
+STM32: folds 
+KarimH: folds 
+zzzz446: folds 
+HE0123: folds 
+Danil27: folds 
+Dorex2007: folds 
+KAAS467: folds 
+kAiba109: raises $0.05 to $0.10
+Alex.Petrovskiy: folds 
+Uncalled bet ($0.05) returned to kAiba109
+kAiba109 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Alex.Petrovskiy (big blind) folded before Flop
+Seat 2: STM32 folded before Flop (didn't bet)
+Seat 3: KarimH folded before Flop (didn't bet)
+Seat 4: zzzz446 folded before Flop (didn't bet)
+Seat 5: HE0123 folded before Flop (didn't bet)
+Seat 6: Danil27 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KAAS467 (button) folded before Flop (didn't bet)
+Seat 9: kAiba109 (small blind) collected ($0.10)
+
+
+
+PokerStars Hand #238031005230:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 13:04:45 PT [2022/08/16 16:04:45 ET]
+Table 'Orchis II' 9-max Seat #9 is the button
+Seat 1: Alex.Petrovskiy ($5.23 in chips) 
+Seat 2: STM32 ($4.26 in chips) 
+Seat 3: KarimH ($1.41 in chips) 
+Seat 4: zzzz446 ($15.14 in chips) 
+Seat 5: HE0123 ($10.20 in chips) 
+Seat 6: Danil27 ($5 in chips) 
+Seat 7: Dorex2007 ($7.23 in chips) 
+Seat 8: KAAS467 ($5.10 in chips) 
+Seat 9: kAiba109 ($2.15 in chips) 
+Alex.Petrovskiy: posts small blind $0.02
+STM32: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Ah]
+KarimH: folds 
+zzzz446: folds 
+HE0123: folds 
+Danil27: raises $0.10 to $0.15
+Dorex2007: folds 
+KAAS467: calls $0.15
+kAiba109: folds 
+Alex.Petrovskiy: folds 
+STM32: calls $0.10
+*** FLOP *** [Ks Th Td]
+STM32: checks 
+Danil27: bets $0.29
+KAAS467: folds 
+STM32: folds 
+Uncalled bet ($0.29) returned to Danil27
+Danil27 collected $0.45 from pot
+Danil27: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [Ks Th Td]
+Seat 1: Alex.Petrovskiy (small blind) folded before Flop
+Seat 2: STM32 (big blind) folded on the Flop
+Seat 3: KarimH folded before Flop (didn't bet)
+Seat 4: zzzz446 folded before Flop (didn't bet)
+Seat 5: HE0123 folded before Flop (didn't bet)
+Seat 6: Danil27 collected ($0.45)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KAAS467 folded on the Flop
+Seat 9: kAiba109 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238031022751:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 13:05:32 PT [2022/08/16 16:05:32 ET]
+Table 'Orchis II' 9-max Seat #1 is the button
+Seat 1: Alex.Petrovskiy ($5.21 in chips) 
+Seat 2: STM32 ($4.20 in chips) 
+Seat 3: KarimH ($1.41 in chips) 
+Seat 4: zzzz446 ($15.14 in chips) 
+Seat 5: HE0123 ($10.20 in chips) 
+Seat 6: Danil27 ($5.30 in chips) 
+Seat 7: Dorex2007 ($7.23 in chips) 
+Seat 8: KAAS467 ($4.95 in chips) 
+Seat 9: kAiba109 ($2.15 in chips) 
+STM32: posts small blind $0.02
+KarimH: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Qh]
+zzzz446: folds 
+HE0123: raises $0.10 to $0.15
+Danil27: raises $0.35 to $0.50
+Dorex2007: folds 
+KAAS467: folds 
+kAiba109: folds 
+Alex.Petrovskiy: calls $0.50
+STM32: folds 
+KarimH: calls $0.45
+HE0123: folds 
+*** FLOP *** [Ad 8c 7d]
+KarimH: bets $0.91 and is all-in
+Danil27: folds 
+Alex.Petrovskiy: calls $0.91
+*** TURN *** [Ad 8c 7d] [Td]
+*** RIVER *** [Ad 8c 7d Td] [9s]
+*** SHOW DOWN ***
+KarimH: shows [As Jd] (a straight, Seven to Jack)
+Alex.Petrovskiy: shows [Ac Kc] (a pair of Aces)
+KarimH cashed out the hand for $0.59 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $3.49 | Rake $0.14 
+Board [Ad 8c 7d Td 9s]
+Seat 1: Alex.Petrovskiy (button) showed [Ac Kc] and lost with a pair of Aces
+Seat 2: STM32 (small blind) folded before Flop
+Seat 3: KarimH (big blind) showed [As Jd] and won ($3.35) with a straight, Seven to Jack (pot not awarded as player cashed out)
+Seat 4: zzzz446 folded before Flop (didn't bet)
+Seat 5: HE0123 folded before Flop
+Seat 6: Danil27 folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KAAS467 folded before Flop (didn't bet)
+Seat 9: kAiba109 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238031052372:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 13:06:34 PT [2022/08/16 16:06:34 ET]
+Table 'Orchis II' 9-max Seat #2 is the button
+Seat 1: Alex.Petrovskiy ($5 in chips) 
+Seat 2: STM32 ($4.20 in chips) 
+Seat 3: KarimH ($0.59 in chips) 
+Seat 4: zzzz446 ($15.14 in chips) 
+Seat 5: HE0123 ($10.05 in chips) 
+Seat 6: Danil27 ($5 in chips) 
+Seat 7: Dorex2007 ($7.23 in chips) 
+Seat 8: KAAS467 ($4.95 in chips) 
+Seat 9: kAiba109 ($2.15 in chips) 
+KarimH: posts small blind $0.02
+zzzz446: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 4s]
+HE0123: folds 
+Danil27: folds 
+Dorex2007: folds 
+KAAS467: raises $0.10 to $0.15
+kAiba109: folds 
+Alex.Petrovskiy: folds 
+STM32: folds 
+KarimH: raises $0.44 to $0.59 and is all-in
+zzzz446: folds 
+KAAS467: folds 
+Uncalled bet ($0.44) returned to KarimH
+KarimH collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: Alex.Petrovskiy folded before Flop (didn't bet)
+Seat 2: STM32 (button) folded before Flop (didn't bet)
+Seat 3: KarimH (small blind) collected ($0.35)
+Seat 4: zzzz446 (big blind) folded before Flop
+Seat 5: HE0123 folded before Flop (didn't bet)
+Seat 6: Danil27 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KAAS467 folded before Flop
+Seat 9: kAiba109 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238031066269:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 13:07:10 PT [2022/08/16 16:07:10 ET]
+Table 'Orchis II' 9-max Seat #3 is the button
+Seat 1: Alex.Petrovskiy ($5 in chips) 
+Seat 2: STM32 ($4.20 in chips) 
+Seat 3: KarimH ($0.79 in chips) 
+Seat 4: zzzz446 ($15.09 in chips) 
+Seat 5: HE0123 ($10.05 in chips) 
+Seat 6: Danil27 ($5 in chips) 
+Seat 7: Dorex2007 ($7.23 in chips) 
+Seat 8: KAAS467 ($4.80 in chips) 
+Seat 9: kAiba109 ($2.15 in chips) 
+zzzz446: posts small blind $0.02
+HE0123: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 2c]
+Danil27: folds 
+Dorex2007: folds 
+KAAS467: folds 
+kAiba109: folds 
+Alex.Petrovskiy: raises $0.10 to $0.15
+STM32: folds 
+KarimH: folds 
+zzzz446: folds 
+HE0123: folds 
+Uncalled bet ($0.10) returned to Alex.Petrovskiy
+Alex.Petrovskiy collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Alex.Petrovskiy collected ($0.12)
+Seat 2: STM32 folded before Flop (didn't bet)
+Seat 3: KarimH (button) folded before Flop (didn't bet)
+Seat 4: zzzz446 (small blind) folded before Flop
+Seat 5: HE0123 (big blind) folded before Flop
+Seat 6: Danil27 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KAAS467 folded before Flop (didn't bet)
+Seat 9: kAiba109 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238031074823:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 13:07:32 PT [2022/08/16 16:07:32 ET]
+Table 'Orchis II' 9-max Seat #4 is the button
+Seat 1: Alex.Petrovskiy ($5.07 in chips) 
+Seat 2: STM32 ($4.20 in chips) 
+Seat 3: KarimH ($0.79 in chips) 
+Seat 4: zzzz446 ($15.07 in chips) 
+Seat 5: HE0123 ($10 in chips) 
+Seat 6: Danil27 ($5 in chips) 
+Seat 7: Dorex2007 ($7.23 in chips) 
+Seat 8: KAAS467 ($4.80 in chips) 
+Seat 9: kAiba109 ($2.15 in chips) 
+HE0123: posts small blind $0.02
+Danil27: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Js]
+Dorex2007: folds 
+KAAS467: folds 
+kAiba109: folds 
+Alex.Petrovskiy: folds 
+STM32: folds 
+KarimH: folds 
+zzzz446: folds 
+HE0123: folds 
+Uncalled bet ($0.03) returned to Danil27
+Danil27 collected $0.04 from pot
+Danil27: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Alex.Petrovskiy folded before Flop (didn't bet)
+Seat 2: STM32 folded before Flop (didn't bet)
+Seat 3: KarimH folded before Flop (didn't bet)
+Seat 4: zzzz446 (button) folded before Flop (didn't bet)
+Seat 5: HE0123 (small blind) folded before Flop
+Seat 6: Danil27 (big blind) collected ($0.04)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KAAS467 folded before Flop (didn't bet)
+Seat 9: kAiba109 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238031079894:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 13:07:46 PT [2022/08/16 16:07:46 ET]
+Table 'Orchis II' 9-max Seat #5 is the button
+Seat 1: Alex.Petrovskiy ($5.07 in chips) 
+Seat 2: STM32 ($4.20 in chips) 
+Seat 3: KarimH ($0.79 in chips) 
+Seat 4: zzzz446 ($15.07 in chips) 
+Seat 5: HE0123 ($9.98 in chips) 
+Seat 6: Danil27 ($5.02 in chips) 
+Seat 7: Dorex2007 ($7.23 in chips) 
+Seat 8: KAAS467 ($4.80 in chips) 
+Seat 9: kAiba109 ($2.15 in chips) 
+Danil27: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 3c]
+KAAS467: folds 
+kAiba109: folds 
+Alex.Petrovskiy: folds 
+STM32: folds 
+KarimH: folds 
+zzzz446: folds 
+HE0123: raises $0.10 to $0.15
+Danil27: folds 
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to HE0123
+HE0123 collected $0.12 from pot
+HE0123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Alex.Petrovskiy folded before Flop (didn't bet)
+Seat 2: STM32 folded before Flop (didn't bet)
+Seat 3: KarimH folded before Flop (didn't bet)
+Seat 4: zzzz446 folded before Flop (didn't bet)
+Seat 5: HE0123 (button) collected ($0.12)
+Seat 6: Danil27 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: KAAS467 folded before Flop (didn't bet)
+Seat 9: kAiba109 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238031090975:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 13:08:16 PT [2022/08/16 16:08:16 ET]
+Table 'Orchis II' 9-max Seat #6 is the button
+Seat 1: Alex.Petrovskiy ($5.07 in chips) 
+Seat 2: STM32 ($4.20 in chips) 
+Seat 3: KarimH ($0.79 in chips) 
+Seat 4: zzzz446 ($15.07 in chips) 
+Seat 5: HE0123 ($10.05 in chips) 
+Seat 6: Danil27 ($5 in chips) 
+Seat 7: Dorex2007 ($7.18 in chips) 
+Seat 8: KAAS467 ($4.80 in chips) 
+Seat 9: kAiba109 ($2.15 in chips) 
+Dorex2007: posts small blind $0.02
+KAAS467: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 7d]
+kAiba109: folds 
+Alex.Petrovskiy: folds 
+STM32: raises $0.10 to $0.15
+KarimH: folds 
+zzzz446: folds 
+HE0123: folds 
+Danil27: calls $0.15
+Dorex2007: calls $0.13
+KAAS467: folds 
+*** FLOP *** [8d Th Td]
+Dorex2007: checks 
+STM32: checks 
+Danil27: bets $0.30
+Dorex2007: folds 
+STM32: calls $0.30
+*** TURN *** [8d Th Td] [3d]
+STM32: checks 
+Danil27: checks 
+*** RIVER *** [8d Th Td 3d] [Tc]
+STM32: checks 
+Danil27: checks 
+*** SHOW DOWN ***
+STM32: shows [Kh Ah] (three of a kind, Tens)
+Danil27: mucks hand 
+STM32 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [8d Th Td 3d Tc]
+Seat 1: Alex.Petrovskiy folded before Flop (didn't bet)
+Seat 2: STM32 showed [Kh Ah] and won ($1.05) with three of a kind, Tens
+Seat 3: KarimH folded before Flop (didn't bet)
+Seat 4: zzzz446 folded before Flop (didn't bet)
+Seat 5: HE0123 folded before Flop (didn't bet)
+Seat 6: Danil27 (button) mucked [Ac Qc]
+Seat 7: Dorex2007 (small blind) folded on the Flop
+Seat 8: KAAS467 (big blind) folded before Flop
+Seat 9: kAiba109 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238031131160:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 13:09:39 PT [2022/08/16 16:09:39 ET]
+Table 'Orchis II' 9-max Seat #7 is the button
+Seat 1: Alex.Petrovskiy ($5.07 in chips) 
+Seat 2: STM32 ($4.80 in chips) 
+Seat 3: KarimH ($0.79 in chips) 
+Seat 4: zzzz446 ($15.07 in chips) 
+Seat 5: HE0123 ($10.05 in chips) 
+Seat 6: Danil27 ($5 in chips) 
+Seat 7: Dorex2007 ($7.03 in chips) 
+Seat 8: KAAS467 ($4.75 in chips) 
+Seat 9: kAiba109 ($2.15 in chips) 
+KAAS467: posts small blind $0.02
+kAiba109: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 2d]
+Alex.Petrovskiy: folds 
+STM32: folds 
+KarimH: folds 
+zzzz446: folds 
+HE0123: folds 
+Danil27: folds 
+Dorex2007: folds 
+KAAS467: folds 
+Uncalled bet ($0.03) returned to kAiba109
+kAiba109 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Alex.Petrovskiy folded before Flop (didn't bet)
+Seat 2: STM32 folded before Flop (didn't bet)
+Seat 3: KarimH folded before Flop (didn't bet)
+Seat 4: zzzz446 folded before Flop (didn't bet)
+Seat 5: HE0123 folded before Flop (didn't bet)
+Seat 6: Danil27 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: KAAS467 (small blind) folded before Flop
+Seat 9: kAiba109 (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #238031136012:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 13:09:53 PT [2022/08/16 16:09:53 ET]
+Table 'Orchis II' 9-max Seat #8 is the button
+Seat 3: KarimH ($0.79 in chips) 
+Seat 4: zzzz446 ($15.07 in chips) 
+Seat 5: HE0123 ($10.05 in chips) 
+Seat 6: Danil27 ($5 in chips) 
+Seat 7: Dorex2007 ($7.03 in chips) 
+Seat 8: KAAS467 ($4.73 in chips) 
+Seat 9: kAiba109 ($2.17 in chips) 
+kAiba109: posts small blind $0.02
+Alex.Petrovskiy: is sitting out 
+STM32: is sitting out 
+KarimH: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 5c]
+zzzz446: folds 
+HE0123: folds 
+Danil27: folds 
+Dorex2007: calls $0.05
+KAAS467: folds 
+kAiba109: folds 
+KarimH is disconnected 
+KarimH is connected 
+KarimH: checks 
+*** FLOP *** [5d Qh Ah]
+KarimH: checks 
+Dorex2007: checks 
+*** TURN *** [5d Qh Ah] [Ts]
+KarimH: checks 
+Dorex2007: bets $0.08
+KarimH: folds 
+Uncalled bet ($0.08) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+STM32 leaves the table
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [5d Qh Ah Ts]
+Seat 3: KarimH (big blind) folded on the Turn
+Seat 4: zzzz446 folded before Flop (didn't bet)
+Seat 5: HE0123 folded before Flop (didn't bet)
+Seat 6: Danil27 folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.12)
+Seat 8: KAAS467 (button) folded before Flop (didn't bet)
+Seat 9: kAiba109 (small blind) folded before Flop
+
+
+
+PokerStars Hand #238031154487:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 13:10:42 PT [2022/08/16 16:10:42 ET]
+Table 'Orchis II' 9-max Seat #9 is the button
+Seat 3: KarimH ($0.74 in chips) 
+Seat 4: zzzz446 ($15.07 in chips) 
+Seat 5: HE0123 ($10.05 in chips) 
+Seat 6: Danil27 ($5 in chips) 
+Seat 7: Dorex2007 ($7.10 in chips) 
+Seat 8: KAAS467 ($4.73 in chips) 
+Seat 9: kAiba109 ($2.15 in chips) 
+KarimH: posts small blind $0.02
+zzzz446: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d Ks]
+HE0123: folds 
+Danil27: raises $0.10 to $0.15
+Dorex2007: folds 
+KAAS467: folds 
+kAiba109: folds 
+KarimH: calls $0.13
+zzzz446: folds 
+*** FLOP *** [Ah Js Td]
+KarimH: checks 
+Danil27: bets $0.22
+KarimH: folds 
+Uncalled bet ($0.22) returned to Danil27
+Danil27 collected $0.34 from pot
+Danil27: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [Ah Js Td]
+Seat 3: KarimH (small blind) folded on the Flop
+Seat 4: zzzz446 (big blind) folded before Flop
+Seat 5: HE0123 folded before Flop (didn't bet)
+Seat 6: Danil27 collected ($0.34)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KAAS467 folded before Flop (didn't bet)
+Seat 9: kAiba109 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238031169072:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 13:11:21 PT [2022/08/16 16:11:21 ET]
+Table 'Orchis II' 9-max Seat #3 is the button
+Seat 3: KarimH ($0.59 in chips) 
+Seat 4: zzzz446 ($15.02 in chips) 
+Seat 5: HE0123 ($10.05 in chips) 
+Seat 6: Danil27 ($5.19 in chips) 
+Seat 7: Dorex2007 ($7.10 in chips) 
+Seat 8: KAAS467 ($4.73 in chips) 
+Seat 9: kAiba109 ($2.15 in chips) 
+zzzz446: posts small blind $0.02
+HE0123: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 3h]
+Danil27: folds 
+Mavvpa joins the table at seat #2 
+Dorex2007: folds 
+KAAS467: folds 
+kAiba109: raises $0.05 to $0.10
+KarimH: calls $0.10
+zzzz446: folds 
+HE0123: folds 
+*** FLOP *** [7c 9c Qs]
+kAiba109: bets $0.10
+KarimH: raises $0.39 to $0.49 and is all-in
+kAiba109: calls $0.39
+*** TURN *** [7c 9c Qs] [2h]
+*** RIVER *** [7c 9c Qs 2h] [8h]
+*** SHOW DOWN ***
+kAiba109: shows [Jc Qc] (a pair of Queens)
+KarimH: shows [Qh Th] (a pair of Queens - lower kicker)
+kAiba109 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [7c 9c Qs 2h 8h]
+Seat 3: KarimH (button) showed [Qh Th] and lost with a pair of Queens
+Seat 4: zzzz446 (small blind) folded before Flop
+Seat 5: HE0123 (big blind) folded before Flop
+Seat 6: Danil27 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KAAS467 folded before Flop (didn't bet)
+Seat 9: kAiba109 showed [Jc Qc] and won ($1.20) with a pair of Queens
+
+
+
+PokerStars Hand #238031184926:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 13:12:04 PT [2022/08/16 16:12:04 ET]
+Table 'Orchis II' 9-max Seat #4 is the button
+Seat 4: zzzz446 ($15 in chips) 
+Seat 5: HE0123 ($10 in chips) 
+Seat 6: Danil27 ($5.19 in chips) 
+Seat 7: Dorex2007 ($7.10 in chips) 
+Seat 8: KAAS467 ($4.73 in chips) 
+Seat 9: kAiba109 ($2.76 in chips) 
+HE0123: posts small blind $0.02
+Danil27: posts big blind $0.05
+Mavvpa: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Js]
+Dorex2007: folds 
+KAAS467: folds 
+kAiba109: folds 
+zzzz446: folds 
+HE0123: folds 
+Uncalled bet ($0.03) returned to Danil27
+Danil27 collected $0.04 from pot
+Danil27: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 4: zzzz446 (button) folded before Flop (didn't bet)
+Seat 5: HE0123 (small blind) folded before Flop
+Seat 6: Danil27 (big blind) collected ($0.04)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: KAAS467 folded before Flop (didn't bet)
+Seat 9: kAiba109 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238031189902:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 13:12:18 PT [2022/08/16 16:12:18 ET]
+Table 'Orchis II' 9-max Seat #5 is the button
+Seat 3: KarimH ($2 in chips) 
+Seat 4: zzzz446 ($15 in chips) 
+Seat 5: HE0123 ($9.98 in chips) 
+Seat 6: Danil27 ($5.21 in chips) 
+Seat 7: Dorex2007 ($7.10 in chips) 
+Seat 8: KAAS467 ($4.73 in chips) 
+Seat 9: kAiba109 ($2.76 in chips) 
+Danil27: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+Mavvpa: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 2d]
+KAAS467: raises $0.10 to $0.15
+kAiba109: folds 
+KarimH: calls $0.15
+zzzz446: calls $0.15
+HE0123: raises $0.67 to $0.82
+Danil27: folds 
+Dorex2007: folds 
+KAAS467: folds 
+KarimH: raises $1.18 to $2 and is all-in
+zzzz446: folds 
+HE0123: calls $1.18
+*** FLOP *** [5s 9s Td]
+*** TURN *** [5s 9s Td] [4s]
+*** RIVER *** [5s 9s Td 4s] [6s]
+*** SHOW DOWN ***
+KarimH: shows [Qd Qh] (a pair of Queens)
+HE0123: shows [As Kh] (a flush, Ace high)
+HE0123 cashed out the hand for $1.79 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $4.37 | Rake $0.18 
+Board [5s 9s Td 4s 6s]
+Seat 3: KarimH showed [Qd Qh] and lost with a pair of Queens
+Seat 4: zzzz446 folded before Flop
+Seat 5: HE0123 (button) showed [As Kh] and won ($4.19) with a flush, Ace high (pot not awarded as player cashed out)
+Seat 6: Danil27 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: KAAS467 folded before Flop
+Seat 9: kAiba109 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238031208036:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 13:13:07 PT [2022/08/16 16:13:07 ET]
+Table 'Orchis II' 9-max Seat #6 is the button
+Seat 4: zzzz446 ($14.85 in chips) 
+Seat 5: HE0123 ($9.77 in chips) 
+Seat 6: Danil27 ($5.19 in chips) 
+Seat 7: Dorex2007 ($7.05 in chips) 
+Seat 8: KAAS467 ($4.58 in chips) 
+Seat 9: kAiba109 ($2.76 in chips) 
+Dorex2007: posts small blind $0.02
+KAAS467: posts big blind $0.05
+Mavvpa: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 7d]
+kAiba109: folds 
+zzzz446: folds 
+HE0123: raises $0.10 to $0.15
+Danil27: folds 
+Dorex2007: folds 
+KAAS467: folds 
+Uncalled bet ($0.10) returned to HE0123
+HE0123 collected $0.12 from pot
+HE0123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 4: zzzz446 folded before Flop (didn't bet)
+Seat 5: HE0123 collected ($0.12)
+Seat 6: Danil27 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: KAAS467 (big blind) folded before Flop
+Seat 9: kAiba109 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238031215283:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/16 13:13:26 PT [2022/08/16 16:13:26 ET]
+Table 'Orchis II' 9-max Seat #7 is the button
+Seat 4: zzzz446 ($14.85 in chips) 
+Seat 5: HE0123 ($9.84 in chips) 
+Seat 6: Danil27 ($5.19 in chips) 
+Seat 7: Dorex2007 ($7.03 in chips) 
+Seat 8: KAAS467 ($4.53 in chips) 
+Seat 9: kAiba109 ($2.76 in chips) 
+KAAS467: posts small blind $0.02
+kAiba109: posts big blind $0.05
+Mavvpa: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 7h]
+zzzz446: folds 
+KarimH leaves the table
+HE0123: raises $0.10 to $0.15
+Danil27: calls $0.15
+Dorex2007: folds 
+KAAS467: folds 
+kAiba109: folds 
+*** FLOP *** [Qd Kd Tc]
+HE0123: checks 
+Danil27: bets $0.23
+HE0123: folds 
+Uncalled bet ($0.23) returned to Danil27
+Danil27 collected $0.35 from pot
+Danil27: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [Qd Kd Tc]
+Seat 4: zzzz446 folded before Flop (didn't bet)
+Seat 5: HE0123 folded on the Flop
+Seat 6: Danil27 collected ($0.35)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: KAAS467 (small blind) folded before Flop
+Seat 9: kAiba109 (big blind) folded before Flop
+
+
+
