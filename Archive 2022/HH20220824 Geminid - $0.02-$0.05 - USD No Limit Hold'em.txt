@@ -1,0 +1,4863 @@
+﻿PokerStars Hand #238190941450:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:17:32 PT [2022/08/24 14:17:32 ET]
+Table 'Geminid' 9-max Seat #8 is the button
+Seat 1: OtmaneMA ($5.34 in chips) 
+Seat 2: vladimir5421 ($17.16 in chips) 
+Seat 3: henriquefjc ($3.59 in chips) 
+Seat 4: motormower ($6.24 in chips) 
+Seat 5: Kallem28 ($4.64 in chips) 
+Seat 6: MahtiEsa ($8.97 in chips) 
+Seat 7: Dorex2007 ($5 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: tanyaa1956 ($5.02 in chips) 
+tanyaa1956: posts small blind $0.02
+OtmaneMA: posts big blind $0.05
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 8c]
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+Kallem28: folds 
+MahtiEsa: raises $0.10 to $0.15
+Dorex2007: folds 
+ustin72: folds 
+tanyaa1956: folds 
+OtmaneMA: calls $0.10
+*** FLOP *** [5c 7s Jc]
+OtmaneMA: checks 
+MahtiEsa: checks 
+*** TURN *** [5c 7s Jc] [Ac]
+OtmaneMA: bets $0.15
+MahtiEsa: calls $0.15
+*** RIVER *** [5c 7s Jc Ac] [9c]
+OtmaneMA: bets $0.35
+MahtiEsa: calls $0.35
+*** SHOW DOWN ***
+OtmaneMA: shows [Jh Tc] (a flush, Ace high)
+MahtiEsa: mucks hand 
+OtmaneMA collected $1.31 from pot
+*** SUMMARY ***
+Total pot $1.37 | Rake $0.06 
+Board [5c 7s Jc Ac 9c]
+Seat 1: OtmaneMA (big blind) showed [Jh Tc] and won ($1.31) with a flush, Ace high
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: MahtiEsa mucked [As 9d]
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 (button) folded before Flop (didn't bet)
+Seat 9: tanyaa1956 (small blind) folded before Flop
+
+
+
+PokerStars Hand #238190966559:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:18:44 PT [2022/08/24 14:18:44 ET]
+Table 'Geminid' 9-max Seat #9 is the button
+Seat 1: OtmaneMA ($6 in chips) 
+Seat 2: vladimir5421 ($17.16 in chips) 
+Seat 3: henriquefjc ($3.59 in chips) 
+Seat 4: motormower ($6.24 in chips) 
+Seat 5: Kallem28 ($4.64 in chips) 
+Seat 6: MahtiEsa ($8.32 in chips) 
+Seat 7: Dorex2007 ($5 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: tanyaa1956 ($5 in chips) 
+OtmaneMA: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 5d]
+henriquefjc: folds 
+motormower: raises $0.10 to $0.15
+Kallem28: folds 
+MahtiEsa: folds 
+Dorex2007: folds 
+ustin72: folds 
+tanyaa1956: folds 
+OtmaneMA: folds 
+vladimir5421: folds 
+Uncalled bet ($0.10) returned to motormower
+motormower collected $0.12 from pot
+motormower: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: OtmaneMA (small blind) folded before Flop
+Seat 2: vladimir5421 (big blind) folded before Flop
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower collected ($0.12)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: MahtiEsa folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: tanyaa1956 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238190985002:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:19:36 PT [2022/08/24 14:19:36 ET]
+Table 'Geminid' 9-max Seat #1 is the button
+Seat 1: OtmaneMA ($5.98 in chips) 
+Seat 2: vladimir5421 ($17.11 in chips) 
+Seat 3: henriquefjc ($3.59 in chips) 
+Seat 4: motormower ($6.31 in chips) 
+Seat 5: Kallem28 ($4.64 in chips) 
+Seat 6: MahtiEsa ($8.32 in chips) 
+Seat 7: Dorex2007 ($5 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: tanyaa1956 ($5 in chips) 
+vladimir5421: posts small blind $0.02
+henriquefjc: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 7d]
+motormower: calls $0.05
+Kallem28: raises $0.15 to $0.20
+MahtiEsa: folds 
+Dorex2007: folds 
+ustin72: folds 
+tanyaa1956: folds 
+OtmaneMA: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: calls $0.15
+*** FLOP *** [9h As 5d]
+motormower: checks 
+Kallem28: checks 
+*** TURN *** [9h As 5d] [5c]
+motormower: bets $0.10
+Kallem28: calls $0.10
+*** RIVER *** [9h As 5d 5c] [4d]
+motormower: bets $0.10
+Kallem28: raises $4.24 to $4.34 and is all-in
+motormower: folds 
+Uncalled bet ($4.24) returned to Kallem28
+Kallem28 collected $0.83 from pot
+Kallem28: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.04 
+Board [9h As 5d 5c 4d]
+Seat 1: OtmaneMA (button) folded before Flop (didn't bet)
+Seat 2: vladimir5421 (small blind) folded before Flop
+Seat 3: henriquefjc (big blind) folded before Flop
+Seat 4: motormower folded on the River
+Seat 5: Kallem28 collected ($0.83)
+Seat 6: MahtiEsa folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: tanyaa1956 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191003311:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:20:28 PT [2022/08/24 14:20:28 ET]
+Table 'Geminid' 9-max Seat #2 is the button
+Seat 1: OtmaneMA ($5.98 in chips) 
+Seat 2: vladimir5421 ($17.09 in chips) 
+Seat 3: henriquefjc ($3.54 in chips) 
+Seat 4: motormower ($5.91 in chips) 
+Seat 5: Kallem28 ($5.07 in chips) 
+Seat 6: MahtiEsa ($8.32 in chips) 
+Seat 7: Dorex2007 ($5 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: tanyaa1956 ($5 in chips) 
+henriquefjc: posts small blind $0.02
+motormower: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 9s]
+Kallem28: folds 
+MahtiEsa: folds 
+Dorex2007: folds 
+ustin72: folds 
+tanyaa1956: folds 
+OtmaneMA: folds 
+vladimir5421: folds 
+henriquefjc: raises $0.05 to $0.10
+motormower: raises $0.20 to $0.30
+henriquefjc: calls $0.20
+*** FLOP *** [5d 7d 7s]
+henriquefjc: checks 
+motormower: bets $0.20
+henriquefjc: folds 
+Uncalled bet ($0.20) returned to motormower
+motormower collected $0.58 from pot
+motormower: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [5d 7d 7s]
+Seat 1: OtmaneMA folded before Flop (didn't bet)
+Seat 2: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 3: henriquefjc (small blind) folded on the Flop
+Seat 4: motormower (big blind) collected ($0.58)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: MahtiEsa folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: tanyaa1956 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191016458:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:21:06 PT [2022/08/24 14:21:06 ET]
+Table 'Geminid' 9-max Seat #3 is the button
+Seat 1: OtmaneMA ($5.98 in chips) 
+Seat 2: vladimir5421 ($17.09 in chips) 
+Seat 3: henriquefjc ($3.24 in chips) 
+Seat 4: motormower ($6.19 in chips) 
+Seat 5: Kallem28 ($5.07 in chips) 
+Seat 6: MahtiEsa ($8.32 in chips) 
+Seat 7: Dorex2007 ($5 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: tanyaa1956 ($5 in chips) 
+motormower: posts small blind $0.02
+Kallem28: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 7c]
+MahtiEsa: folds 
+Dorex2007: folds 
+ustin72: folds 
+tanyaa1956: folds 
+OtmaneMA has timed out
+OtmaneMA: folds 
+vladimir5421: folds 
+henriquefjc: calls $0.05
+motormower: folds 
+Kallem28: checks 
+*** FLOP *** [7s 2d 2s]
+Kallem28: checks 
+henriquefjc: checks 
+*** TURN *** [7s 2d 2s] [Kh]
+Kallem28: checks 
+henriquefjc: bets $0.12
+Kallem28: folds 
+Uncalled bet ($0.12) returned to henriquefjc
+henriquefjc collected $0.12 from pot
+henriquefjc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [7s 2d 2s Kh]
+Seat 1: OtmaneMA folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc (button) collected ($0.12)
+Seat 4: motormower (small blind) folded before Flop
+Seat 5: Kallem28 (big blind) folded on the Turn
+Seat 6: MahtiEsa folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: tanyaa1956 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191038033:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:22:07 PT [2022/08/24 14:22:07 ET]
+Table 'Geminid' 9-max Seat #4 is the button
+Seat 1: OtmaneMA ($5.98 in chips) 
+Seat 2: vladimir5421 ($17.09 in chips) 
+Seat 3: henriquefjc ($3.31 in chips) 
+Seat 4: motormower ($6.17 in chips) 
+Seat 5: Kallem28 ($5.02 in chips) 
+Seat 6: MahtiEsa ($8.32 in chips) 
+Seat 7: Dorex2007 ($5 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: tanyaa1956 ($5 in chips) 
+Kallem28: posts small blind $0.02
+MahtiEsa: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 9s]
+Dorex2007: folds 
+ustin72: folds 
+tanyaa1956: raises $0.10 to $0.15
+OtmaneMA: folds 
+vladimir5421: folds 
+henriquefjc: calls $0.15
+motormower: folds 
+Kallem28: folds 
+MahtiEsa: folds 
+*** FLOP *** [9h 3h Ac]
+tanyaa1956: bets $0.23
+henriquefjc: calls $0.23
+*** TURN *** [9h 3h Ac] [8s]
+tanyaa1956: bets $0.54
+henriquefjc: calls $0.54
+*** RIVER *** [9h 3h Ac 8s] [7s]
+tanyaa1956: bets $1.23
+henriquefjc: calls $1.23
+*** SHOW DOWN ***
+tanyaa1956: shows [As Ad] (three of a kind, Aces)
+henriquefjc: mucks hand 
+tanyaa1956 collected $4.19 from pot
+*** SUMMARY ***
+Total pot $4.37 | Rake $0.18 
+Board [9h 3h Ac 8s 7s]
+Seat 1: OtmaneMA folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc mucked [8d 9d]
+Seat 4: motormower (button) folded before Flop (didn't bet)
+Seat 5: Kallem28 (small blind) folded before Flop
+Seat 6: MahtiEsa (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: tanyaa1956 showed [As Ad] and won ($4.19) with three of a kind, Aces
+
+
+
+PokerStars Hand #238191055421:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:22:56 PT [2022/08/24 14:22:56 ET]
+Table 'Geminid' 9-max Seat #5 is the button
+Seat 1: OtmaneMA ($5.98 in chips) 
+Seat 2: vladimir5421 ($17.09 in chips) 
+Seat 3: henriquefjc ($1.16 in chips) 
+Seat 4: motormower ($6.17 in chips) 
+Seat 5: Kallem28 ($5 in chips) 
+Seat 6: MahtiEsa ($8.27 in chips) 
+Seat 7: Dorex2007 ($5 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: tanyaa1956 ($7.04 in chips) 
+MahtiEsa: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Td]
+ustin72: folds 
+tanyaa1956: folds 
+OtmaneMA: folds 
+vladimir5421: raises $0.10 to $0.15
+henriquefjc: folds 
+motormower: calls $0.15
+Kallem28: folds 
+MahtiEsa: folds 
+Dorex2007: folds 
+*** FLOP *** [Jc 4h Kh]
+vladimir5421: bets $0.26
+motormower: folds 
+Uncalled bet ($0.26) returned to vladimir5421
+vladimir5421 collected $0.35 from pot
+vladimir5421: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [Jc 4h Kh]
+Seat 1: OtmaneMA folded before Flop (didn't bet)
+Seat 2: vladimir5421 collected ($0.35)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded on the Flop
+Seat 5: Kallem28 (button) folded before Flop (didn't bet)
+Seat 6: MahtiEsa (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: tanyaa1956 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191069952:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:23:38 PT [2022/08/24 14:23:38 ET]
+Table 'Geminid' 9-max Seat #6 is the button
+Seat 1: OtmaneMA ($5.98 in chips) 
+Seat 2: vladimir5421 ($17.29 in chips) 
+Seat 3: henriquefjc ($1.16 in chips) 
+Seat 4: motormower ($6.02 in chips) 
+Seat 5: Kallem28 ($5 in chips) 
+Seat 6: MahtiEsa ($8.25 in chips) 
+Seat 7: Dorex2007 ($5 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: tanyaa1956 ($7.04 in chips) 
+Dorex2007: posts small blind $0.02
+ustin72: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Kh]
+tanyaa1956: folds 
+OtmaneMA has timed out
+OtmaneMA: folds 
+vladimir5421: folds 
+henriquefjc: raises $0.10 to $0.15
+motormower: calls $0.15
+Kallem28: folds 
+MahtiEsa: folds 
+Dorex2007: raises $0.50 to $0.65
+ustin72: folds 
+henriquefjc: calls $0.50
+motormower: folds 
+*** FLOP *** [7d 2c 2h]
+Dorex2007: bets $0.72
+henriquefjc: calls $0.51 and is all-in
+Uncalled bet ($0.21) returned to Dorex2007
+*** TURN *** [7d 2c 2h] [Ts]
+*** RIVER *** [7d 2c 2h Ts] [8c]
+*** SHOW DOWN ***
+Dorex2007: shows [Kd Kh] (two pair, Kings and Deuces)
+henriquefjc: shows [As Js] (a pair of Deuces)
+Dorex2007 cashed out the hand for $2.09 | Cash Out Fee $0.02
+*** SUMMARY ***
+Total pot $2.52 | Rake $0.10 
+Board [7d 2c 2h Ts 8c]
+Seat 1: OtmaneMA folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc showed [As Js] and lost with a pair of Deuces
+Seat 4: motormower folded before Flop
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: MahtiEsa (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) showed [Kd Kh] and won ($2.42) with two pair, Kings and Deuces (pot not awarded as player cashed out)
+Seat 8: ustin72 (big blind) folded before Flop
+Seat 9: tanyaa1956 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191091784:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:24:40 PT [2022/08/24 14:24:40 ET]
+Table 'Geminid' 9-max Seat #7 is the button
+Seat 1: OtmaneMA ($5.98 in chips) 
+Seat 2: vladimir5421 ($17.29 in chips) 
+Seat 4: motormower ($5.87 in chips) 
+Seat 5: Kallem28 ($5 in chips) 
+Seat 6: MahtiEsa ($8.25 in chips) 
+Seat 7: Dorex2007 ($5.93 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+ustin72: posts small blind $0.02
+tanyaa1956: is sitting out 
+OtmaneMA: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Ad]
+vladimir5421: folds 
+motormower: raises $0.05 to $0.10
+Kallem28: folds 
+MahtiEsa: folds 
+Dorex2007: raises $0.10 to $0.20
+ustin72: calls $0.18
+OtmaneMA: folds 
+motormower: calls $0.10
+*** FLOP *** [7d 6s 3c]
+ustin72: checks 
+motormower: checks 
+Dorex2007: bets $0.62
+ustin72: folds 
+motormower: folds 
+Uncalled bet ($0.62) returned to Dorex2007
+Dorex2007 collected $0.62 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [7d 6s 3c]
+Seat 1: OtmaneMA (big blind) folded before Flop
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 4: motormower folded on the Flop
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: MahtiEsa folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) collected ($0.62)
+Seat 8: ustin72 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #238191108044:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:25:26 PT [2022/08/24 14:25:26 ET]
+Table 'Geminid' 9-max Seat #8 is the button
+Seat 1: OtmaneMA ($5.93 in chips) 
+Seat 2: vladimir5421 ($17.29 in chips) 
+Seat 3: henriquefjc ($4 in chips) 
+Seat 4: motormower ($5.67 in chips) 
+Seat 5: Kallem28 ($5 in chips) 
+Seat 6: MahtiEsa ($8.25 in chips) 
+Seat 7: Dorex2007 ($6.35 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+OtmaneMA: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 6c]
+henriquefjc: calls $0.05
+tanyaa1956 leaves the table
+motormower: folds 
+Kallem28: folds 
+MahtiEsa: raises $0.05 to $0.10
+Dorex2007: folds 
+ustin72: folds 
+lumping joins the table at seat #9 
+OtmaneMA: folds 
+vladimir5421: folds 
+henriquefjc: calls $0.05
+*** FLOP *** [2h 5c 5d]
+henriquefjc: checks 
+MahtiEsa: bets $0.15
+henriquefjc: folds 
+Uncalled bet ($0.15) returned to MahtiEsa
+MahtiEsa collected $0.26 from pot
+MahtiEsa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [2h 5c 5d]
+Seat 1: OtmaneMA (small blind) folded before Flop
+Seat 2: vladimir5421 (big blind) folded before Flop
+Seat 3: henriquefjc folded on the Flop
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: MahtiEsa collected ($0.26)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191123711:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:26:10 PT [2022/08/24 14:26:10 ET]
+Table 'Geminid' 9-max Seat #1 is the button
+Seat 1: OtmaneMA ($5.91 in chips) 
+Seat 2: vladimir5421 ($17.24 in chips) 
+Seat 3: henriquefjc ($3.90 in chips) 
+Seat 4: motormower ($5.67 in chips) 
+Seat 5: Kallem28 ($5 in chips) 
+Seat 6: MahtiEsa ($8.41 in chips) 
+Seat 7: Dorex2007 ($6.35 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+vladimir5421: posts small blind $0.02
+henriquefjc: posts big blind $0.05
+lumping: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Ks]
+motormower: folds 
+Kallem28: folds 
+MahtiEsa: raises $0.10 to $0.15
+Dorex2007: folds 
+ustin72: folds 
+OtmaneMA: folds 
+vladimir5421: calls $0.13
+henriquefjc: folds 
+*** FLOP *** [8s 6h 8h]
+vladimir5421: bets $0.20
+MahtiEsa: raises $0.20 to $0.40
+vladimir5421: folds 
+Uncalled bet ($0.20) returned to MahtiEsa
+MahtiEsa collected $0.72 from pot
+MahtiEsa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [8s 6h 8h]
+Seat 1: OtmaneMA (button) folded before Flop (didn't bet)
+Seat 2: vladimir5421 (small blind) folded on the Flop
+Seat 3: henriquefjc (big blind) folded before Flop
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: MahtiEsa collected ($0.72)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191149423:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:27:23 PT [2022/08/24 14:27:23 ET]
+Table 'Geminid' 9-max Seat #2 is the button
+Seat 1: OtmaneMA ($5.91 in chips) 
+Seat 2: vladimir5421 ($16.89 in chips) 
+Seat 3: henriquefjc ($3.85 in chips) 
+Seat 4: motormower ($5.67 in chips) 
+Seat 5: Kallem28 ($5 in chips) 
+Seat 6: MahtiEsa ($8.78 in chips) 
+Seat 7: Dorex2007 ($6.35 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+henriquefjc: posts small blind $0.02
+motormower: posts big blind $0.05
+lumping: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Ah]
+Kallem28: folds 
+MahtiEsa: folds 
+Dorex2007: raises $0.10 to $0.15
+ustin72: folds 
+OtmaneMA: folds 
+vladimir5421: calls $0.15
+henriquefjc: folds 
+motormower: calls $0.10
+*** FLOP *** [Qh Kc 3d]
+motormower: bets $0.45
+Dorex2007: folds 
+vladimir5421: folds 
+Uncalled bet ($0.45) returned to motormower
+motormower collected $0.45 from pot
+motormower: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [Qh Kc 3d]
+Seat 1: OtmaneMA folded before Flop (didn't bet)
+Seat 2: vladimir5421 (button) folded on the Flop
+Seat 3: henriquefjc (small blind) folded before Flop
+Seat 4: motormower (big blind) collected ($0.45)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: MahtiEsa folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded on the Flop
+Seat 8: ustin72 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191168773:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:28:17 PT [2022/08/24 14:28:17 ET]
+Table 'Geminid' 9-max Seat #3 is the button
+Seat 1: OtmaneMA ($5.91 in chips) 
+Seat 2: vladimir5421 ($16.74 in chips) 
+Seat 3: henriquefjc ($3.83 in chips) 
+Seat 4: motormower ($5.97 in chips) 
+Seat 5: Kallem28 ($5 in chips) 
+Seat 6: MahtiEsa ($8.78 in chips) 
+Seat 7: Dorex2007 ($6.20 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+motormower: posts small blind $0.02
+Kallem28: posts big blind $0.05
+lumping: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 9d]
+MahtiEsa: folds 
+Dorex2007: folds 
+ustin72: raises $0.10 to $0.15
+OtmaneMA: folds 
+vladimir5421: folds 
+henriquefjc has timed out
+henriquefjc: folds 
+motormower: folds 
+Kallem28: folds 
+Uncalled bet ($0.10) returned to ustin72
+ustin72 collected $0.12 from pot
+ustin72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: OtmaneMA folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc (button) folded before Flop (didn't bet)
+Seat 4: motormower (small blind) folded before Flop
+Seat 5: Kallem28 (big blind) folded before Flop
+Seat 6: MahtiEsa folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 collected ($0.12)
+
+
+
+PokerStars Hand #238191183522:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:28:58 PT [2022/08/24 14:28:58 ET]
+Table 'Geminid' 9-max Seat #4 is the button
+Seat 1: OtmaneMA ($5.91 in chips) 
+Seat 2: vladimir5421 ($16.74 in chips) 
+Seat 3: henriquefjc ($3.83 in chips) 
+Seat 4: motormower ($5.95 in chips) 
+Seat 5: Kallem28 ($4.95 in chips) 
+Seat 6: MahtiEsa ($8.78 in chips) 
+Seat 7: Dorex2007 ($6.20 in chips) 
+Seat 8: ustin72 ($3.57 in chips) 
+Kallem28: posts small blind $0.02
+MahtiEsa: posts big blind $0.05
+lumping: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 8c]
+Dorex2007: folds 
+ustin72: folds 
+OtmaneMA: raises $0.10 to $0.15
+vladimir5421: calls $0.15
+henriquefjc: folds 
+motormower: folds 
+Kallem28: folds 
+MahtiEsa: folds 
+*** FLOP *** [4s 9d 6d]
+OtmaneMA: checks 
+vladimir5421: checks 
+*** TURN *** [4s 9d 6d] [9c]
+OtmaneMA: checks 
+vladimir5421: checks 
+*** RIVER *** [4s 9d 6d 9c] [Qc]
+OtmaneMA: checks 
+vladimir5421: checks 
+*** SHOW DOWN ***
+OtmaneMA: shows [5c 5h] (two pair, Nines and Fives)
+vladimir5421: mucks hand 
+OtmaneMA collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [4s 9d 6d 9c Qc]
+Seat 1: OtmaneMA showed [5c 5h] and won ($0.35) with two pair, Nines and Fives
+Seat 2: vladimir5421 mucked [Kc Tc]
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower (button) folded before Flop (didn't bet)
+Seat 5: Kallem28 (small blind) folded before Flop
+Seat 6: MahtiEsa (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191210882:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:30:15 PT [2022/08/24 14:30:15 ET]
+Table 'Geminid' 9-max Seat #5 is the button
+Seat 1: OtmaneMA ($6.11 in chips) 
+Seat 2: vladimir5421 ($16.59 in chips) 
+Seat 3: henriquefjc ($3.83 in chips) 
+Seat 4: motormower ($5.95 in chips) 
+Seat 5: Kallem28 ($4.93 in chips) 
+Seat 6: MahtiEsa ($8.73 in chips) 
+Seat 7: Dorex2007 ($6.20 in chips) 
+Seat 8: ustin72 ($3.57 in chips) 
+MahtiEsa: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+lumping: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d Ts]
+ustin72: raises $0.10 to $0.15
+OtmaneMA: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+Kallem28: calls $0.15
+MahtiEsa: folds 
+Dorex2007: folds 
+*** FLOP *** [Jc 5c 6s]
+ustin72: bets $0.12
+Kallem28: calls $0.12
+*** TURN *** [Jc 5c 6s] [Th]
+ustin72: checks 
+Kallem28: bets $0.19
+ustin72: folds 
+Uncalled bet ($0.19) returned to Kallem28
+Kallem28 collected $0.58 from pot
+Kallem28: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.61 | Rake $0.03 
+Board [Jc 5c 6s Th]
+Seat 1: OtmaneMA folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 (button) collected ($0.58)
+Seat 6: MahtiEsa (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: ustin72 folded on the Turn
+
+
+
+PokerStars Hand #238191230527:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:31:10 PT [2022/08/24 14:31:10 ET]
+Table 'Geminid' 9-max Seat #6 is the button
+Seat 1: OtmaneMA ($6.11 in chips) 
+Seat 2: vladimir5421 ($16.59 in chips) 
+Seat 3: henriquefjc ($3.83 in chips) 
+Seat 4: motormower ($5.95 in chips) 
+Seat 5: Kallem28 ($5.24 in chips) 
+Seat 6: MahtiEsa ($8.71 in chips) 
+Seat 7: Dorex2007 ($6.15 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Dorex2007: posts small blind $0.02
+ustin72: posts big blind $0.05
+lumping: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 7d]
+OtmaneMA: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower has timed out
+motormower: folds 
+Kallem28: raises $0.10 to $0.15
+MahtiEsa: calls $0.15
+Dorex2007: folds 
+ustin72: folds 
+*** FLOP *** [2c 6d 3s]
+Kallem28: checks 
+MahtiEsa: checks 
+*** TURN *** [2c 6d 3s] [Kc]
+Kallem28: bets $0.12
+MahtiEsa: folds 
+Uncalled bet ($0.12) returned to Kallem28
+Kallem28 collected $0.35 from pot
+Kallem28: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [2c 6d 3s Kc]
+Seat 1: OtmaneMA folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 collected ($0.35)
+Seat 6: MahtiEsa (button) folded on the Turn
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: ustin72 (big blind) folded before Flop
+
+
+
+PokerStars Hand #238191251391:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:32:08 PT [2022/08/24 14:32:08 ET]
+Table 'Geminid' 9-max Seat #7 is the button
+Seat 1: OtmaneMA ($6.11 in chips) 
+Seat 2: vladimir5421 ($16.59 in chips) 
+Seat 3: henriquefjc ($3.83 in chips) 
+Seat 4: motormower ($5.95 in chips) 
+Seat 5: Kallem28 ($5.44 in chips) 
+Seat 6: MahtiEsa ($8.56 in chips) 
+Seat 7: Dorex2007 ($6.13 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: lumping ($5 in chips) 
+ustin72: posts small blind $0.02
+lumping: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 4c]
+OtmaneMA: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: raises $0.05 to $0.10
+Kallem28: folds 
+MahtiEsa: raises $0.10 to $0.20
+Dorex2007: folds 
+ustin72: folds 
+lumping: folds 
+motormower: raises $0.10 to $0.30
+MahtiEsa: calls $0.10
+*** FLOP *** [8h Ks 6c]
+motormower: checks 
+MahtiEsa: checks 
+*** TURN *** [8h Ks 6c] [2d]
+motormower: bets $0.30
+MahtiEsa: folds 
+Uncalled bet ($0.30) returned to motormower
+motormower collected $0.64 from pot
+motormower: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.03 
+Board [8h Ks 6c 2d]
+Seat 1: OtmaneMA folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower collected ($0.64)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: MahtiEsa folded on the Turn
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: ustin72 (small blind) folded before Flop
+Seat 9: lumping (big blind) folded before Flop
+
+
+
+PokerStars Hand #238191276857:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:33:18 PT [2022/08/24 14:33:18 ET]
+Table 'Geminid' 9-max Seat #8 is the button
+Seat 1: OtmaneMA ($6.11 in chips) 
+Seat 2: vladimir5421 ($16.59 in chips) 
+Seat 3: henriquefjc ($3.83 in chips) 
+Seat 4: motormower ($6.29 in chips) 
+Seat 5: Kallem28 ($5.44 in chips) 
+Seat 6: MahtiEsa ($8.26 in chips) 
+Seat 7: Dorex2007 ($6.13 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: lumping ($4.95 in chips) 
+lumping: posts small blind $0.02
+OtmaneMA: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 2c]
+vladimir5421: folds 
+henriquefjc: raises $0.05 to $0.10
+motormower: calls $0.10
+Kallem28: folds 
+MahtiEsa: folds 
+Dorex2007: folds 
+ustin72: folds 
+lumping: calls $0.08
+OtmaneMA: calls $0.05
+*** FLOP *** [3c Tc 5d]
+lumping: checks 
+OtmaneMA: bets $0.15
+henriquefjc: folds 
+motormower: folds 
+lumping: calls $0.15
+*** TURN *** [3c Tc 5d] [Th]
+lumping: checks 
+OtmaneMA: checks 
+*** RIVER *** [3c Tc 5d Th] [Kd]
+lumping: checks 
+OtmaneMA has timed out
+OtmaneMA: checks 
+*** SHOW DOWN ***
+lumping: shows [Ac Qc] (a pair of Tens)
+OtmaneMA: shows [5h 2h] (two pair, Tens and Fives)
+OtmaneMA collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [3c Tc 5d Th Kd]
+Seat 1: OtmaneMA (big blind) showed [5h 2h] and won ($0.67) with two pair, Tens and Fives
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded on the Flop
+Seat 4: motormower folded on the Flop
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: MahtiEsa folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 (button) folded before Flop (didn't bet)
+Seat 9: lumping (small blind) showed [Ac Qc] and lost with a pair of Tens
+
+
+
+PokerStars Hand #238191320979:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:35:21 PT [2022/08/24 14:35:21 ET]
+Table 'Geminid' 9-max Seat #9 is the button
+Seat 1: OtmaneMA ($6.53 in chips) 
+Seat 2: vladimir5421 ($16.59 in chips) 
+Seat 3: henriquefjc ($3.73 in chips) 
+Seat 4: motormower ($6.19 in chips) 
+Seat 5: Kallem28 ($5.44 in chips) 
+Seat 6: MahtiEsa ($8.26 in chips) 
+Seat 7: Dorex2007 ($6.13 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: lumping ($4.70 in chips) 
+OtmaneMA: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Qh]
+henriquefjc: raises $0.05 to $0.10
+motormower: raises $0.05 to $0.15
+Kallem28: folds 
+MahtiEsa: raises $0.15 to $0.30
+Dorex2007: folds 
+ustin72: folds 
+lumping: folds 
+OtmaneMA: folds 
+vladimir5421: calls $0.25
+henriquefjc: calls $0.20
+motormower: calls $0.15
+*** FLOP *** [Jd 9d 7c]
+vladimir5421: checks 
+henriquefjc: checks 
+motormower: checks 
+MahtiEsa: bets $0.45
+vladimir5421: calls $0.45
+henriquefjc: calls $0.45
+motormower: folds 
+*** TURN *** [Jd 9d 7c] [Js]
+vladimir5421: checks 
+henriquefjc: checks 
+MahtiEsa: bets $0.80
+vladimir5421: calls $0.80
+henriquefjc: raises $2.18 to $2.98 and is all-in
+MahtiEsa: folds 
+vladimir5421: calls $2.18
+*** RIVER *** [Jd 9d 7c Js] [7h]
+*** SHOW DOWN ***
+vladimir5421: shows [Kd Td] (two pair, Jacks and Sevens)
+henriquefjc: shows [Jh Qs] (a full house, Jacks full of Sevens)
+henriquefjc cashed out the hand for $6.63 | Cash Out Fee $0.07
+*** SUMMARY ***
+Total pot $9.33 | Rake $0.39 
+Board [Jd 9d 7c Js 7h]
+Seat 1: OtmaneMA (small blind) folded before Flop
+Seat 2: vladimir5421 (big blind) showed [Kd Td] and lost with two pair, Jacks and Sevens
+Seat 3: henriquefjc showed [Jh Qs] and won ($8.94) with a full house, Jacks full of Sevens (pot not awarded as player cashed out)
+Seat 4: motormower folded on the Flop
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: MahtiEsa folded on the Turn
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: lumping (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191360663:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:37:10 PT [2022/08/24 14:37:10 ET]
+Table 'Geminid' 9-max Seat #1 is the button
+Seat 1: OtmaneMA ($6.51 in chips) 
+Seat 2: vladimir5421 ($12.86 in chips) 
+Seat 3: henriquefjc ($6.63 in chips) 
+Seat 4: motormower ($5.89 in chips) 
+Seat 5: Kallem28 ($5.44 in chips) 
+Seat 6: MahtiEsa ($6.71 in chips) 
+Seat 7: Dorex2007 ($6.13 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: lumping ($4.70 in chips) 
+vladimir5421: posts small blind $0.02
+henriquefjc: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 8c]
+motormower: folds 
+Kallem28: folds 
+MahtiEsa: folds 
+Dorex2007: folds 
+ustin72: folds 
+lumping: raises $0.10 to $0.15
+OtmaneMA: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+Uncalled bet ($0.10) returned to lumping
+lumping collected $0.12 from pot
+lumping: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: OtmaneMA (button) folded before Flop (didn't bet)
+Seat 2: vladimir5421 (small blind) folded before Flop
+Seat 3: henriquefjc (big blind) folded before Flop
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: MahtiEsa folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: lumping collected ($0.12)
+
+
+
+PokerStars Hand #238191378885:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:37:59 PT [2022/08/24 14:37:59 ET]
+Table 'Geminid' 9-max Seat #2 is the button
+Seat 1: OtmaneMA ($6.51 in chips) 
+Seat 2: vladimir5421 ($12.84 in chips) 
+Seat 3: henriquefjc ($6.58 in chips) 
+Seat 4: motormower ($5.89 in chips) 
+Seat 5: Kallem28 ($5.44 in chips) 
+Seat 6: MahtiEsa ($6.71 in chips) 
+Seat 7: Dorex2007 ($6.13 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: lumping ($4.77 in chips) 
+henriquefjc: posts small blind $0.02
+motormower: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 3c]
+Kallem28: folds 
+MahtiEsa: raises $0.10 to $0.15
+Dorex2007: folds 
+ustin72: folds 
+lumping: folds 
+OtmaneMA: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+Uncalled bet ($0.10) returned to MahtiEsa
+MahtiEsa collected $0.12 from pot
+MahtiEsa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: OtmaneMA folded before Flop (didn't bet)
+Seat 2: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 3: henriquefjc (small blind) folded before Flop
+Seat 4: motormower (big blind) folded before Flop
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: MahtiEsa collected ($0.12)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: lumping folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191389367:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:38:28 PT [2022/08/24 14:38:28 ET]
+Table 'Geminid' 9-max Seat #3 is the button
+Seat 1: OtmaneMA ($6.51 in chips) 
+Seat 2: vladimir5421 ($12.84 in chips) 
+Seat 3: henriquefjc ($6.56 in chips) 
+Seat 4: motormower ($5.84 in chips) 
+Seat 5: Kallem28 ($5.44 in chips) 
+Seat 6: MahtiEsa ($6.78 in chips) 
+Seat 7: Dorex2007 ($6.13 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: lumping ($4.77 in chips) 
+motormower: posts small blind $0.02
+Kallem28: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 7h]
+MahtiEsa: folds 
+Dorex2007: folds 
+ustin72: folds 
+lumping: folds 
+OtmaneMA: raises $0.10 to $0.15
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+Kallem28: folds 
+Uncalled bet ($0.10) returned to OtmaneMA
+OtmaneMA collected $0.12 from pot
+OtmaneMA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: OtmaneMA collected ($0.12)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc (button) folded before Flop (didn't bet)
+Seat 4: motormower (small blind) folded before Flop
+Seat 5: Kallem28 (big blind) folded before Flop
+Seat 6: MahtiEsa folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: lumping folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191394697:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:38:43 PT [2022/08/24 14:38:43 ET]
+Table 'Geminid' 9-max Seat #4 is the button
+Seat 1: OtmaneMA ($6.58 in chips) 
+Seat 2: vladimir5421 ($12.84 in chips) 
+Seat 3: henriquefjc ($6.56 in chips) 
+Seat 4: motormower ($5.82 in chips) 
+Seat 5: Kallem28 ($5.39 in chips) 
+Seat 6: MahtiEsa ($6.78 in chips) 
+Seat 7: Dorex2007 ($6.13 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: lumping ($4.77 in chips) 
+Kallem28: posts small blind $0.02
+MahtiEsa: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Ks]
+Dorex2007: folds 
+ustin72: raises $0.10 to $0.15
+lumping: folds 
+OtmaneMA: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+Kallem28: raises $0.30 to $0.45
+MahtiEsa: folds 
+ustin72: folds 
+Uncalled bet ($0.30) returned to Kallem28
+Kallem28 collected $0.35 from pot
+Kallem28: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: OtmaneMA folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower (button) folded before Flop (didn't bet)
+Seat 5: Kallem28 (small blind) collected ($0.35)
+Seat 6: MahtiEsa (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop
+Seat 9: lumping folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191406704:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:39:16 PT [2022/08/24 14:39:16 ET]
+Table 'Geminid' 9-max Seat #5 is the button
+Seat 1: OtmaneMA ($6.58 in chips) 
+Seat 2: vladimir5421 ($12.84 in chips) 
+Seat 3: henriquefjc ($6.56 in chips) 
+Seat 4: motormower ($5.82 in chips) 
+Seat 5: Kallem28 ($5.59 in chips) 
+Seat 6: MahtiEsa ($6.73 in chips) 
+Seat 7: Dorex2007 ($6.13 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: lumping ($4.77 in chips) 
+MahtiEsa: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 2h]
+ustin72: folds 
+lumping: folds 
+OtmaneMA: raises $0.10 to $0.15
+vladimir5421: calls $0.15
+henriquefjc: folds 
+motormower: folds 
+Kallem28: folds 
+MahtiEsa: folds 
+Dorex2007: folds 
+*** FLOP *** [Kc 7h Ad]
+OtmaneMA: checks 
+vladimir5421: bets $0.20
+OtmaneMA: folds 
+Uncalled bet ($0.20) returned to vladimir5421
+vladimir5421 collected $0.35 from pot
+vladimir5421: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [Kc 7h Ad]
+Seat 1: OtmaneMA folded on the Flop
+Seat 2: vladimir5421 collected ($0.35)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 (button) folded before Flop (didn't bet)
+Seat 6: MahtiEsa (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: lumping folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191424216:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:40:04 PT [2022/08/24 14:40:04 ET]
+Table 'Geminid' 9-max Seat #6 is the button
+Seat 1: OtmaneMA ($6.43 in chips) 
+Seat 2: vladimir5421 ($13.04 in chips) 
+Seat 3: henriquefjc ($6.56 in chips) 
+Seat 4: motormower ($5.82 in chips) 
+Seat 5: Kallem28 ($5.59 in chips) 
+Seat 6: MahtiEsa ($6.71 in chips) 
+Seat 7: Dorex2007 ($6.08 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: lumping ($4.77 in chips) 
+Dorex2007: posts small blind $0.02
+ustin72: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 8s]
+lumping: folds 
+OtmaneMA: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+Kallem28: folds 
+MahtiEsa: raises $0.05 to $0.10
+Dorex2007: calls $0.08
+ustin72: folds 
+*** FLOP *** [Jh 4s 5d]
+Dorex2007: bets $0.24
+MahtiEsa: folds 
+Uncalled bet ($0.24) returned to Dorex2007
+Dorex2007 collected $0.24 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Jh 4s 5d]
+Seat 1: OtmaneMA folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: MahtiEsa (button) folded on the Flop
+Seat 7: Dorex2007 (small blind) collected ($0.24)
+Seat 8: ustin72 (big blind) folded before Flop
+Seat 9: lumping folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191436586:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:40:38 PT [2022/08/24 14:40:38 ET]
+Table 'Geminid' 9-max Seat #7 is the button
+Seat 1: OtmaneMA ($6.43 in chips) 
+Seat 2: vladimir5421 ($13.04 in chips) 
+Seat 3: henriquefjc ($6.56 in chips) 
+Seat 4: motormower ($5.82 in chips) 
+Seat 5: Kallem28 ($5.59 in chips) 
+Seat 6: MahtiEsa ($6.61 in chips) 
+Seat 7: Dorex2007 ($6.22 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: lumping ($4.77 in chips) 
+ustin72: posts small blind $0.02
+lumping: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Qc]
+OtmaneMA: raises $0.10 to $0.15
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+Kallem28: raises $0.20 to $0.35
+MahtiEsa: folds 
+Dorex2007: folds 
+ustin72: folds 
+lumping: folds 
+MahtiEsa leaves the table
+OtmaneMA: calls $0.20
+*** FLOP *** [Kh Qd 3c]
+OtmaneMA: checks 
+Kallem28: bets $0.24
+OtmaneMA: calls $0.24
+*** TURN *** [Kh Qd 3c] [2s]
+andrei_lint joins the table at seat #6 
+OtmaneMA: checks 
+Kallem28: bets $0.40
+OtmaneMA: calls $0.40
+*** RIVER *** [Kh Qd 3c 2s] [Ts]
+OtmaneMA: checks 
+Kallem28: checks 
+*** SHOW DOWN ***
+OtmaneMA: shows [Qs 8s] (a pair of Queens)
+Kallem28: shows [Jc Kc] (a pair of Kings)
+Kallem28 collected $1.96 from pot
+*** SUMMARY ***
+Total pot $2.05 | Rake $0.09 
+Board [Kh Qd 3c 2s Ts]
+Seat 1: OtmaneMA showed [Qs 8s] and lost with a pair of Queens
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 showed [Jc Kc] and won ($1.96) with a pair of Kings
+Seat 6: MahtiEsa folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: ustin72 (small blind) folded before Flop
+Seat 9: lumping (big blind) folded before Flop
+
+
+
+PokerStars Hand #238191458412:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:41:38 PT [2022/08/24 14:41:38 ET]
+Table 'Geminid' 9-max Seat #8 is the button
+Seat 1: OtmaneMA ($5.44 in chips) 
+Seat 2: vladimir5421 ($13.04 in chips) 
+Seat 3: henriquefjc ($6.56 in chips) 
+Seat 4: motormower ($5.82 in chips) 
+Seat 5: Kallem28 ($6.56 in chips) 
+Seat 7: Dorex2007 ($6.22 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: lumping ($4.72 in chips) 
+lumping: posts small blind $0.02
+OtmaneMA: posts big blind $0.05
+andrei_lint: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 7d]
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+Kallem28: folds 
+Dorex2007: raises $0.05 to $0.10
+ustin72: folds 
+lumping: folds 
+OtmaneMA: calls $0.05
+*** FLOP *** [9c Tc 4h]
+OtmaneMA: checks 
+Dorex2007: checks 
+*** TURN *** [9c Tc 4h] [Jd]
+OtmaneMA: bets $0.10
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to OtmaneMA
+OtmaneMA collected $0.21 from pot
+OtmaneMA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [9c Tc 4h Jd]
+Seat 1: OtmaneMA (big blind) collected ($0.21)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded on the Turn
+Seat 8: ustin72 (button) folded before Flop (didn't bet)
+Seat 9: lumping (small blind) folded before Flop
+
+
+
+PokerStars Hand #238191471634:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:42:15 PT [2022/08/24 14:42:15 ET]
+Table 'Geminid' 9-max Seat #9 is the button
+Seat 1: OtmaneMA ($5.55 in chips) 
+Seat 2: vladimir5421 ($13.04 in chips) 
+Seat 3: henriquefjc ($6.56 in chips) 
+Seat 4: motormower ($5.82 in chips) 
+Seat 5: Kallem28 ($6.56 in chips) 
+Seat 7: Dorex2007 ($6.12 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: lumping ($4.70 in chips) 
+OtmaneMA: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+andrei_lint: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 6h]
+henriquefjc: raises $0.05 to $0.10
+motormower: folds 
+Kallem28: folds 
+Dorex2007: folds 
+ustin72: folds 
+lumping: folds 
+OtmaneMA: calls $0.08
+vladimir5421: folds 
+*** FLOP *** [Td 8c Qs]
+OtmaneMA: checks 
+henriquefjc: bets $0.15
+OtmaneMA: calls $0.15
+*** TURN *** [Td 8c Qs] [7h]
+OtmaneMA: checks 
+henriquefjc: bets $0.35
+OtmaneMA: calls $0.35
+*** RIVER *** [Td 8c Qs 7h] [8s]
+OtmaneMA: checks 
+henriquefjc: checks 
+*** SHOW DOWN ***
+OtmaneMA: shows [9s Js] (a straight, Eight to Queen)
+henriquefjc: mucks hand 
+OtmaneMA collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.05 
+Board [Td 8c Qs 7h 8s]
+Seat 1: OtmaneMA (small blind) showed [9s Js] and won ($1.20) with a straight, Eight to Queen
+Seat 2: vladimir5421 (big blind) folded before Flop
+Seat 3: henriquefjc mucked [Ts As]
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: lumping (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191496559:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:43:23 PT [2022/08/24 14:43:23 ET]
+Table 'Geminid' 9-max Seat #1 is the button
+Seat 1: OtmaneMA ($6.15 in chips) 
+Seat 2: vladimir5421 ($12.99 in chips) 
+Seat 3: henriquefjc ($5.96 in chips) 
+Seat 4: motormower ($5.82 in chips) 
+Seat 5: Kallem28 ($6.56 in chips) 
+Seat 7: Dorex2007 ($6.12 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: lumping ($4.70 in chips) 
+vladimir5421: posts small blind $0.02
+henriquefjc: posts big blind $0.05
+andrei_lint: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s Ac]
+motormower: folds 
+Kallem28: folds 
+Dorex2007: folds 
+ustin72: folds 
+lumping: raises $0.10 to $0.15
+OtmaneMA: folds 
+vladimir5421: calls $0.13
+henriquefjc: folds 
+*** FLOP *** [2s 8c 9s]
+vladimir5421: checks 
+lumping: checks 
+*** TURN *** [2s 8c 9s] [Ah]
+vladimir5421: bets $0.26
+lumping: folds 
+Uncalled bet ($0.26) returned to vladimir5421
+vladimir5421 collected $0.34 from pot
+vladimir5421: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [2s 8c 9s Ah]
+Seat 1: OtmaneMA (button) folded before Flop (didn't bet)
+Seat 2: vladimir5421 (small blind) collected ($0.34)
+Seat 3: henriquefjc (big blind) folded before Flop
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: lumping folded on the Turn
+
+
+
+PokerStars Hand #238191516493:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:44:18 PT [2022/08/24 14:44:18 ET]
+Table 'Geminid' 9-max Seat #2 is the button
+Seat 1: OtmaneMA ($6.15 in chips) 
+Seat 2: vladimir5421 ($13.18 in chips) 
+Seat 3: henriquefjc ($5.91 in chips) 
+Seat 4: motormower ($5.82 in chips) 
+Seat 5: Kallem28 ($6.56 in chips) 
+Seat 7: Dorex2007 ($6.12 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: lumping ($4.55 in chips) 
+henriquefjc: posts small blind $0.02
+motormower: posts big blind $0.05
+andrei_lint: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 8d]
+Kallem28: folds 
+Dorex2007: folds 
+ustin72: folds 
+lumping: folds 
+OtmaneMA: raises $0.10 to $0.15
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: calls $0.10
+*** FLOP *** [7h Ks Js]
+motormower: bets $0.05
+OtmaneMA has timed out
+OtmaneMA: folds 
+Uncalled bet ($0.05) returned to motormower
+motormower collected $0.31 from pot
+motormower: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [7h Ks Js]
+Seat 1: OtmaneMA folded on the Flop
+Seat 2: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 3: henriquefjc (small blind) folded before Flop
+Seat 4: motormower (big blind) collected ($0.31)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: lumping folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191537660:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:45:16 PT [2022/08/24 14:45:16 ET]
+Table 'Geminid' 9-max Seat #3 is the button
+Seat 2: vladimir5421 ($13.18 in chips) 
+Seat 3: henriquefjc ($5.89 in chips) 
+Seat 4: motormower ($5.98 in chips) 
+Seat 5: Kallem28 ($6.56 in chips) 
+Seat 7: Dorex2007 ($6.12 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: lumping ($4.55 in chips) 
+motormower: posts small blind $0.02
+Kallem28: posts big blind $0.05
+andrei_lint: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d Qc]
+Dorex2007: folds 
+ustin72: folds 
+lumping: folds 
+vladimir5421: raises $0.10 to $0.15
+henriquefjc: calls $0.15
+motormower: calls $0.13
+Kallem28: calls $0.10
+*** FLOP *** [6c 5d 3s]
+motormower: checks 
+Kallem28: bets $0.19
+vladimir5421: calls $0.19
+henriquefjc: calls $0.19
+motormower: folds 
+*** TURN *** [6c 5d 3s] [8c]
+Kallem28: bets $0.37
+vladimir5421: calls $0.37
+henriquefjc: folds 
+*** RIVER *** [6c 5d 3s 8c] [Ad]
+Kallem28: checks 
+vladimir5421: checks 
+*** SHOW DOWN ***
+Kallem28: shows [4s 6s] (a pair of Sixes)
+vladimir5421: shows [7c 7h] (a pair of Sevens)
+vladimir5421 collected $1.83 from pot
+*** SUMMARY ***
+Total pot $1.91 | Rake $0.08 
+Board [6c 5d 3s 8c Ad]
+Seat 2: vladimir5421 showed [7c 7h] and won ($1.83) with a pair of Sevens
+Seat 3: henriquefjc (button) folded on the Turn
+Seat 4: motormower (small blind) folded on the Flop
+Seat 5: Kallem28 (big blind) showed [4s 6s] and lost with a pair of Sixes
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: lumping folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191560681:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:46:20 PT [2022/08/24 14:46:20 ET]
+Table 'Geminid' 9-max Seat #4 is the button
+Seat 1: OtmaneMA ($6 in chips) 
+Seat 2: vladimir5421 ($14.30 in chips) 
+Seat 3: henriquefjc ($5.55 in chips) 
+Seat 4: motormower ($5.83 in chips) 
+Seat 5: Kallem28 ($5.85 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.12 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: lumping ($4.55 in chips) 
+Kallem28: posts small blind $0.02
+andrei_lint: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8d 2c]
+Dorex2007: folds 
+ustin72: folds 
+lumping: folds 
+OtmaneMA: raises $0.10 to $0.15
+vladimir5421: calls $0.15
+henriquefjc: folds 
+motormower: folds 
+Kallem28: calls $0.13
+andrei_lint: calls $0.10
+*** FLOP *** [Th Js Qd]
+Kallem28: checks 
+andrei_lint: checks 
+OtmaneMA: checks 
+vladimir5421: checks 
+*** TURN *** [Th Js Qd] [6c]
+Kallem28: checks 
+andrei_lint: checks 
+OtmaneMA: bets $0.20
+vladimir5421: folds 
+Kallem28: folds 
+andrei_lint: folds 
+Uncalled bet ($0.20) returned to OtmaneMA
+OtmaneMA collected $0.58 from pot
+OtmaneMA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [Th Js Qd 6c]
+Seat 1: OtmaneMA collected ($0.58)
+Seat 2: vladimir5421 folded on the Turn
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower (button) folded before Flop (didn't bet)
+Seat 5: Kallem28 (small blind) folded on the Turn
+Seat 6: andrei_lint (big blind) folded on the Turn
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: lumping folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191583992:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:47:23 PT [2022/08/24 14:47:23 ET]
+Table 'Geminid' 9-max Seat #5 is the button
+Seat 1: OtmaneMA ($6.43 in chips) 
+Seat 2: vladimir5421 ($14.15 in chips) 
+Seat 3: henriquefjc ($5.55 in chips) 
+Seat 4: motormower ($5.83 in chips) 
+Seat 5: Kallem28 ($5.70 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.12 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: lumping ($4.55 in chips) 
+andrei_lint: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Jd]
+ustin72: folds 
+lumping: folds 
+OtmaneMA: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower has timed out
+motormower: folds 
+Kallem28: raises $0.06 to $0.11
+andrei_lint: folds 
+Dorex2007: folds 
+Uncalled bet ($0.06) returned to Kallem28
+Kallem28 collected $0.12 from pot
+Kallem28: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: OtmaneMA folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 (button) collected ($0.12)
+Seat 6: andrei_lint (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: lumping folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191591693:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:47:44 PT [2022/08/24 14:47:44 ET]
+Table 'Geminid' 9-max Seat #6 is the button
+Seat 1: OtmaneMA ($6.43 in chips) 
+Seat 2: vladimir5421 ($14.15 in chips) 
+Seat 3: henriquefjc ($5.55 in chips) 
+Seat 5: Kallem28 ($5.77 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.07 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: lumping ($4.55 in chips) 
+Dorex2007: posts small blind $0.02
+ustin72: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 6s]
+lumping: folds 
+lumping leaves the table
+OtmaneMA: raises $0.10 to $0.15
+vladimir5421: folds 
+henriquefjc: folds 
+Kallem28: folds 
+andrei_lint: folds 
+Dorex2007: folds 
+ustin72: folds 
+Uncalled bet ($0.10) returned to OtmaneMA
+OtmaneMA collected $0.12 from pot
+OtmaneMA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: OtmaneMA collected ($0.12)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: andrei_lint (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: ustin72 (big blind) folded before Flop
+Seat 9: lumping folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191599318:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:48:05 PT [2022/08/24 14:48:05 ET]
+Table 'Geminid' 9-max Seat #7 is the button
+Seat 1: OtmaneMA ($6.50 in chips) 
+Seat 2: vladimir5421 ($14.15 in chips) 
+Seat 3: henriquefjc ($5.55 in chips) 
+Seat 4: motormower ($5.83 in chips) 
+Seat 5: Kallem28 ($5.77 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.05 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+ustin72: posts small blind $0.02
+OtmaneMA: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 2s]
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: calls $0.05
+Kallem28: folds 
+malliosK joins the table at seat #9 
+andrei_lint: calls $0.05
+Dorex2007: folds 
+ustin72: calls $0.03
+OtmaneMA: checks 
+*** FLOP *** [6c 2c Kd]
+ustin72: checks 
+OtmaneMA: checks 
+motormower: bets $0.10
+andrei_lint: folds 
+ustin72: calls $0.10
+OtmaneMA: calls $0.10
+*** TURN *** [6c 2c Kd] [Ts]
+ustin72: checks 
+OtmaneMA: checks 
+motormower: bets $0.10
+ustin72: folds 
+OtmaneMA: calls $0.10
+*** RIVER *** [6c 2c Kd Ts] [Jc]
+OtmaneMA: checks 
+motormower: checks 
+*** SHOW DOWN ***
+OtmaneMA: shows [8s Ks] (a pair of Kings)
+motormower: mucks hand 
+OtmaneMA collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [6c 2c Kd Ts Jc]
+Seat 1: OtmaneMA (big blind) showed [8s Ks] and won ($0.67) with a pair of Kings
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower mucked [2d As]
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: andrei_lint folded on the Flop
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: ustin72 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #238191622842:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:49:10 PT [2022/08/24 14:49:10 ET]
+Table 'Geminid' 9-max Seat #8 is the button
+Seat 1: OtmaneMA ($6.92 in chips) 
+Seat 2: vladimir5421 ($14.15 in chips) 
+Seat 3: henriquefjc ($5.55 in chips) 
+Seat 4: motormower ($5.58 in chips) 
+Seat 5: Kallem28 ($5.77 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.05 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+OtmaneMA: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 2c]
+henriquefjc: folds 
+motormower: folds 
+Kallem28: raises $0.15 to $0.20
+andrei_lint: folds 
+Dorex2007: folds 
+ustin72: folds 
+OtmaneMA: folds 
+vladimir5421: folds 
+Uncalled bet ($0.15) returned to Kallem28
+Kallem28 collected $0.12 from pot
+Kallem28: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: OtmaneMA (small blind) folded before Flop
+Seat 2: vladimir5421 (big blind) folded before Flop
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 collected ($0.12)
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191630921:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:49:33 PT [2022/08/24 14:49:33 ET]
+Table 'Geminid' 9-max Seat #1 is the button
+Seat 1: OtmaneMA ($6.90 in chips) 
+Seat 2: vladimir5421 ($14.10 in chips) 
+Seat 3: henriquefjc ($5.55 in chips) 
+Seat 4: motormower ($5.58 in chips) 
+Seat 5: Kallem28 ($5.84 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.05 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: malliosK ($5 in chips) 
+vladimir5421: posts small blind $0.02
+henriquefjc: posts big blind $0.05
+malliosK: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 4h]
+motormower has timed out
+motormower: folds 
+Kallem28: folds 
+andrei_lint: folds 
+Dorex2007: folds 
+ustin72: folds 
+malliosK: checks 
+OtmaneMA: folds 
+vladimir5421: folds 
+henriquefjc: checks 
+*** FLOP *** [Ac Ks 3c]
+henriquefjc: checks 
+malliosK: checks 
+*** TURN *** [Ac Ks 3c] [Tc]
+henriquefjc: checks 
+malliosK: bets $0.06
+henriquefjc: folds 
+Uncalled bet ($0.06) returned to malliosK
+malliosK collected $0.12 from pot
+malliosK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ac Ks 3c Tc]
+Seat 1: OtmaneMA (button) folded before Flop (didn't bet)
+Seat 2: vladimir5421 (small blind) folded before Flop
+Seat 3: henriquefjc (big blind) folded on the Turn
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK collected ($0.12)
+
+
+
+PokerStars Hand #238191650801:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:50:27 PT [2022/08/24 14:50:27 ET]
+Table 'Geminid' 9-max Seat #2 is the button
+Seat 1: OtmaneMA ($6.90 in chips) 
+Seat 2: vladimir5421 ($14.08 in chips) 
+Seat 3: henriquefjc ($5.50 in chips) 
+Seat 4: motormower ($5.58 in chips) 
+Seat 5: Kallem28 ($5.84 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.05 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: malliosK ($5.07 in chips) 
+henriquefjc: posts small blind $0.02
+motormower: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 4s]
+Kallem28: folds 
+andrei_lint: folds 
+Dorex2007: folds 
+ustin72: folds 
+malliosK: folds 
+OtmaneMA: raises $0.10 to $0.15
+vladimir5421: folds 
+henriquefjc: calls $0.13
+motormower: folds 
+*** FLOP *** [2d 3h 6c]
+henriquefjc: checks 
+OtmaneMA: bets $0.20
+henriquefjc: raises $0.20 to $0.40
+OtmaneMA: calls $0.20
+*** TURN *** [2d 3h 6c] [Qh]
+henriquefjc: bets $0.55
+OtmaneMA: calls $0.55
+*** RIVER *** [2d 3h 6c Qh] [Kc]
+henriquefjc: checks 
+OtmaneMA: bets $1.10
+henriquefjc: folds 
+Uncalled bet ($1.10) returned to OtmaneMA
+OtmaneMA collected $2.16 from pot
+OtmaneMA: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.09 
+Board [2d 3h 6c Qh Kc]
+Seat 1: OtmaneMA collected ($2.16)
+Seat 2: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 3: henriquefjc (small blind) folded on the River
+Seat 4: motormower (big blind) folded before Flop
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191670954:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:51:22 PT [2022/08/24 14:51:22 ET]
+Table 'Geminid' 9-max Seat #3 is the button
+Seat 1: OtmaneMA ($7.96 in chips) 
+Seat 2: vladimir5421 ($14.08 in chips) 
+Seat 3: henriquefjc ($4.40 in chips) 
+Seat 4: motormower ($5.53 in chips) 
+Seat 5: Kallem28 ($5.84 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.05 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: malliosK ($5.07 in chips) 
+motormower: posts small blind $0.02
+Kallem28: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 4d]
+andrei_lint: folds 
+Dorex2007: folds 
+ustin72: folds 
+malliosK: folds 
+OtmaneMA: raises $0.10 to $0.15
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+Kallem28: raises $0.30 to $0.45
+OtmaneMA: raises $0.70 to $1.15
+Kallem28: folds 
+Uncalled bet ($0.70) returned to OtmaneMA
+OtmaneMA collected $0.92 from pot
+*** SUMMARY ***
+Total pot $0.92 | Rake $0 
+Seat 1: OtmaneMA collected ($0.92)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc (button) folded before Flop (didn't bet)
+Seat 4: motormower (small blind) folded before Flop
+Seat 5: Kallem28 (big blind) folded before Flop
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191687043:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:52:05 PT [2022/08/24 14:52:05 ET]
+Table 'Geminid' 9-max Seat #4 is the button
+Seat 1: OtmaneMA ($8.43 in chips) 
+Seat 2: vladimir5421 ($14.08 in chips) 
+Seat 3: henriquefjc ($4.40 in chips) 
+Seat 4: motormower ($5.51 in chips) 
+Seat 5: Kallem28 ($5.39 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.05 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: malliosK ($5.07 in chips) 
+Kallem28: posts small blind $0.02
+andrei_lint: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Td]
+Dorex2007: folds 
+ustin72: folds 
+malliosK: folds 
+OtmaneMA: folds 
+vladimir5421: folds 
+henriquefjc: raises $0.05 to $0.10
+motormower: folds 
+Kallem28: folds 
+andrei_lint: calls $0.05
+*** FLOP *** [9s Ad Th]
+andrei_lint: checks 
+henriquefjc: bets $0.10
+andrei_lint: calls $0.10
+*** TURN *** [9s Ad Th] [3d]
+andrei_lint: checks 
+henriquefjc: bets $0.20
+andrei_lint: calls $0.20
+*** RIVER *** [9s Ad Th 3d] [5s]
+andrei_lint: checks 
+henriquefjc: checks 
+*** SHOW DOWN ***
+andrei_lint: shows [Ts Kc] (a pair of Tens)
+henriquefjc: shows [6h Ah] (a pair of Aces)
+henriquefjc collected $0.79 from pot
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.03 
+Board [9s Ad Th 3d 5s]
+Seat 1: OtmaneMA folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc showed [6h Ah] and won ($0.79) with a pair of Aces
+Seat 4: motormower (button) folded before Flop (didn't bet)
+Seat 5: Kallem28 (small blind) folded before Flop
+Seat 6: andrei_lint (big blind) showed [Ts Kc] and lost with a pair of Tens
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191719590:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:53:33 PT [2022/08/24 14:53:33 ET]
+Table 'Geminid' 9-max Seat #5 is the button
+Seat 1: OtmaneMA ($8.43 in chips) 
+Seat 2: vladimir5421 ($14.08 in chips) 
+Seat 3: henriquefjc ($4.79 in chips) 
+Seat 4: motormower ($5.51 in chips) 
+Seat 5: Kallem28 ($5.37 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.05 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: malliosK ($5.07 in chips) 
+andrei_lint: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Qs]
+ustin72: folds 
+malliosK: folds 
+OtmaneMA: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+Kallem28: folds 
+andrei_lint: folds 
+Uncalled bet ($0.03) returned to Dorex2007
+Dorex2007 collected $0.04 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: OtmaneMA folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 (button) folded before Flop (didn't bet)
+Seat 6: andrei_lint (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) collected ($0.04)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191726495:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:53:52 PT [2022/08/24 14:53:52 ET]
+Table 'Geminid' 9-max Seat #6 is the button
+Seat 1: OtmaneMA ($8.43 in chips) 
+Seat 2: vladimir5421 ($14.08 in chips) 
+Seat 3: henriquefjc ($4.79 in chips) 
+Seat 4: motormower ($5.51 in chips) 
+Seat 5: Kallem28 ($5.37 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.07 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: malliosK ($5.07 in chips) 
+Dorex2007: posts small blind $0.02
+ustin72: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 9d]
+malliosK: folds 
+OtmaneMA has timed out
+OtmaneMA: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+Kallem28: folds 
+andrei_lint: raises $0.10 to $0.15
+Dorex2007: folds 
+ustin72: folds 
+Uncalled bet ($0.10) returned to andrei_lint
+andrei_lint collected $0.12 from pot
+andrei_lint: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: OtmaneMA folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: andrei_lint (button) collected ($0.12)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: ustin72 (big blind) folded before Flop
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191734377:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:54:14 PT [2022/08/24 14:54:14 ET]
+Table 'Geminid' 9-max Seat #7 is the button
+Seat 2: vladimir5421 ($14.08 in chips) 
+Seat 3: henriquefjc ($4.79 in chips) 
+Seat 4: motormower ($5.51 in chips) 
+Seat 5: Kallem28 ($5.37 in chips) 
+Seat 6: andrei_lint ($5.07 in chips) 
+Seat 7: Dorex2007 ($6.05 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: malliosK ($5.07 in chips) 
+ustin72: posts small blind $0.02
+malliosK: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h As]
+vladimir5421: folds 
+henriquefjc: calls $0.05
+motormower: folds 
+Kallem28: folds 
+andrei_lint: folds 
+Dorex2007: folds 
+ustin72: folds 
+malliosK: checks 
+*** FLOP *** [8c 7d 9c]
+malliosK: checks 
+henriquefjc: bets $0.12
+malliosK: folds 
+Uncalled bet ($0.12) returned to henriquefjc
+henriquefjc collected $0.12 from pot
+henriquefjc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8c 7d 9c]
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc collected ($0.12)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: ustin72 (small blind) folded before Flop
+Seat 9: malliosK (big blind) folded on the Flop
+
+
+
+PokerStars Hand #238191748824:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:54:53 PT [2022/08/24 14:54:53 ET]
+Table 'Geminid' 9-max Seat #8 is the button
+Seat 2: vladimir5421 ($14.08 in chips) 
+Seat 3: henriquefjc ($4.86 in chips) 
+Seat 4: motormower ($5.51 in chips) 
+Seat 5: Kallem28 ($5.37 in chips) 
+Seat 6: andrei_lint ($5.07 in chips) 
+Seat 7: Dorex2007 ($6.05 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: malliosK ($5.02 in chips) 
+malliosK: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc Ad]
+henriquefjc: folds 
+motormower: folds 
+Kallem28: raises $0.15 to $0.20
+andrei_lint: folds 
+Dorex2007: calls $0.20
+ustin72: folds 
+malliosK: folds 
+vladimir5421: folds 
+*** FLOP *** [7c 4s 2s]
+Kallem28: checks 
+Dorex2007: bets $0.45
+Kallem28: folds 
+Uncalled bet ($0.45) returned to Dorex2007
+Dorex2007 collected $0.45 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [7c 4s 2s]
+Seat 2: vladimir5421 (big blind) folded before Flop
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded on the Flop
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.45)
+Seat 8: ustin72 (button) folded before Flop (didn't bet)
+Seat 9: malliosK (small blind) folded before Flop
+
+
+
+PokerStars Hand #238191758790:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:55:24 PT [2022/08/24 14:55:24 ET]
+Table 'Geminid' 9-max Seat #9 is the button
+Seat 2: vladimir5421 ($14.03 in chips) 
+Seat 3: henriquefjc ($4.86 in chips) 
+Seat 4: motormower ($5.51 in chips) 
+Seat 6: andrei_lint ($5.07 in chips) 
+Seat 7: Dorex2007 ($6.30 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: malliosK ($5 in chips) 
+vladimir5421: posts small blind $0.02
+henriquefjc: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 6c]
+motormower: folds 
+andrei_lint: folds 
+Dorex2007: folds 
+ustin72: folds 
+OtmaneMA leaves the table
+malliosK has timed out
+malliosK: folds 
+vladimir5421: folds 
+Uncalled bet ($0.03) returned to henriquefjc
+henriquefjc collected $0.04 from pot
+henriquefjc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: vladimir5421 (small blind) folded before Flop
+Seat 3: henriquefjc (big blind) collected ($0.04)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191766403:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:55:52 PT [2022/08/24 14:55:52 ET]
+Table 'Geminid' 9-max Seat #2 is the button
+Seat 2: vladimir5421 ($14.01 in chips) 
+Seat 3: henriquefjc ($4.88 in chips) 
+Seat 4: motormower ($5.51 in chips) 
+Seat 6: andrei_lint ($5.07 in chips) 
+Seat 7: Dorex2007 ($6.30 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+henriquefjc: posts small blind $0.02
+motormower: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ad 4c]
+andrei_lint: folds 
+Dorex2007: folds 
+ustin72: folds 
+vladimir5421: folds 
+henriquefjc: raises $0.05 to $0.10
+firat.54 joins the table at seat #1 
+motormower: folds 
+Uncalled bet ($0.05) returned to henriquefjc
+henriquefjc collected $0.10 from pot
+henriquefjc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 3: henriquefjc (small blind) collected ($0.10)
+Seat 4: motormower (big blind) folded before Flop
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191770114:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:56:05 PT [2022/08/24 14:56:05 ET]
+Table 'Geminid' 9-max Seat #3 is the button
+Seat 2: vladimir5421 ($14.01 in chips) 
+Seat 3: henriquefjc ($4.93 in chips) 
+Seat 4: motormower ($5.46 in chips) 
+Seat 6: andrei_lint ($5.07 in chips) 
+Seat 7: Dorex2007 ($6.30 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: malliosK ($5 in chips) 
+motormower: posts small blind $0.02
+andrei_lint: posts big blind $0.05
+firat.54: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Qc]
+Dorex2007: raises $0.05 to $0.10
+ustin72: folds 
+malliosK: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+andrei_lint: folds 
+Uncalled bet ($0.05) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc (button) folded before Flop (didn't bet)
+Seat 4: motormower (small blind) folded before Flop
+Seat 6: andrei_lint (big blind) folded before Flop
+Seat 7: Dorex2007 collected ($0.12)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191775599:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:56:25 PT [2022/08/24 14:56:25 ET]
+Table 'Geminid' 9-max Seat #4 is the button
+Seat 2: vladimir5421 ($14.01 in chips) 
+Seat 3: henriquefjc ($4.93 in chips) 
+Seat 4: motormower ($5.44 in chips) 
+Seat 6: andrei_lint ($5.02 in chips) 
+Seat 7: Dorex2007 ($6.37 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: malliosK ($5 in chips) 
+andrei_lint: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+firat.54: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Ad]
+ustin72: folds 
+malliosK: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+andrei_lint: folds 
+Uncalled bet ($0.03) returned to Dorex2007
+Dorex2007 collected $0.04 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower (button) folded before Flop (didn't bet)
+Seat 6: andrei_lint (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) collected ($0.04)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191780052:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:56:41 PT [2022/08/24 14:56:41 ET]
+Table 'Geminid' 9-max Seat #6 is the button
+Seat 2: vladimir5421 ($14.01 in chips) 
+Seat 3: henriquefjc ($4.93 in chips) 
+Seat 4: motormower ($5.44 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.39 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: malliosK ($5 in chips) 
+Dorex2007: posts small blind $0.02
+ustin72: posts big blind $0.05
+firat.54: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Jd]
+malliosK has timed out
+malliosK: folds 
+vladimir5421: folds 
+henriquefjc: raises $0.05 to $0.10
+motormower: folds 
+andrei_lint: calls $0.10
+Dorex2007: folds 
+ustin72: calls $0.05
+*** FLOP *** [Kh 5c 9d]
+ustin72: checks 
+henriquefjc: checks 
+andrei_lint: checks 
+*** TURN *** [Kh 5c 9d] [Ah]
+ustin72: bets $0.20
+henriquefjc: folds 
+andrei_lint: folds 
+Uncalled bet ($0.20) returned to ustin72
+ustin72 collected $0.31 from pot
+ustin72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Kh 5c 9d Ah]
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded on the Turn
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 6: andrei_lint (button) folded on the Turn
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: ustin72 (big blind) collected ($0.31)
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191792869:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:57:27 PT [2022/08/24 14:57:27 ET]
+Table 'Geminid' 9-max Seat #7 is the button
+Seat 2: vladimir5421 ($14.01 in chips) 
+Seat 3: henriquefjc ($4.83 in chips) 
+Seat 4: motormower ($5.44 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.37 in chips) 
+Seat 8: ustin72 ($3.71 in chips) 
+Seat 9: malliosK ($5 in chips) 
+ustin72: posts small blind $0.02
+malliosK: posts big blind $0.05
+firat.54: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 2h]
+vladimir5421: folds 
+henriquefjc: raises $0.05 to $0.10
+motormower: folds 
+andrei_lint: folds 
+Dorex2007: folds 
+ustin72: folds 
+malliosK: folds 
+Uncalled bet ($0.05) returned to henriquefjc
+henriquefjc collected $0.12 from pot
+henriquefjc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc collected ($0.12)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: ustin72 (small blind) folded before Flop
+Seat 9: malliosK (big blind) folded before Flop
+
+
+
+PokerStars Hand #238191797522:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:57:44 PT [2022/08/24 14:57:44 ET]
+Table 'Geminid' 9-max Seat #8 is the button
+Seat 1: firat.54 ($4 in chips) 
+Seat 2: vladimir5421 ($14.01 in chips) 
+Seat 3: henriquefjc ($4.90 in chips) 
+Seat 4: motormower ($5.44 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.37 in chips) 
+Seat 8: ustin72 ($3.69 in chips) 
+Seat 9: malliosK ($4.95 in chips) 
+malliosK: posts small blind $0.02
+firat.54: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Jd]
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: calls $0.05
+andrei_lint: folds 
+Dorex2007: folds 
+ustin72: folds 
+malliosK: folds 
+firat.54: raises $0.22 to $0.27
+motormower: calls $0.22
+*** FLOP *** [4d 7d Qh]
+firat.54 has timed out
+firat.54: checks 
+motormower: checks 
+*** TURN *** [4d 7d Qh] [Td]
+firat.54 has timed out
+firat.54: checks 
+motormower: bets $0.25
+firat.54: raises $0.25 to $0.50
+motormower: calls $0.25
+*** RIVER *** [4d 7d Qh Td] [7s]
+firat.54: bets $3.23 and is all-in
+motormower: folds 
+Uncalled bet ($3.23) returned to firat.54
+firat.54 collected $1.50 from pot
+*** SUMMARY ***
+Total pot $1.56 | Rake $0.06 
+Board [4d 7d Qh Td 7s]
+Seat 1: firat.54 (big blind) collected ($1.50)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded on the River
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 (button) folded before Flop (didn't bet)
+Seat 9: malliosK (small blind) folded before Flop
+
+
+
+PokerStars Hand #238191828807:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 11:59:37 PT [2022/08/24 14:59:37 ET]
+Table 'Geminid' 9-max Seat #9 is the button
+Seat 1: firat.54 ($4.73 in chips) 
+Seat 2: vladimir5421 ($14.01 in chips) 
+Seat 3: henriquefjc ($4.90 in chips) 
+Seat 4: motormower ($4.67 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.37 in chips) 
+Seat 8: ustin72 ($3.69 in chips) 
+Seat 9: malliosK ($4.93 in chips) 
+firat.54: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+Kallem28: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc Ks]
+henriquefjc: folds 
+motormower: folds 
+andrei_lint: folds 
+Dorex2007: folds 
+ustin72: raises $0.07 to $0.12
+malliosK: folds 
+firat.54: folds 
+vladimir5421: calls $0.07
+*** FLOP *** [7s 4s 8d]
+vladimir5421: checks 
+ustin72: checks 
+*** TURN *** [7s 4s 8d] [2s]
+firat.54 leaves the table
+vladimir5421: checks 
+ustin72: bets $0.19
+Kroki66 joins the table at seat #1 
+vladimir5421: calls $0.19
+*** RIVER *** [7s 4s 8d 2s] [Td]
+vladimir5421: checks 
+ustin72: checks 
+*** SHOW DOWN ***
+vladimir5421: shows [Qs Ad] (high card Ace)
+ustin72: shows [Qh As] (high card Ace)
+vladimir5421 collected $0.31 from pot
+ustin72 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.03 
+Board [7s 4s 8d 2s Td]
+Seat 1: firat.54 (small blind) folded before Flop
+Seat 2: vladimir5421 (big blind) showed [Qs Ad] and won ($0.31) with high card Ace
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 showed [Qh As] and won ($0.30) with high card Ace
+Seat 9: malliosK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191854487:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:01:03 PT [2022/08/24 15:01:03 ET]
+Table 'Geminid' 9-max Seat #2 is the button
+Seat 1: Kroki66 ($5 in chips) 
+Seat 2: vladimir5421 ($14.01 in chips) 
+Seat 3: henriquefjc ($4.90 in chips) 
+Seat 4: motormower ($4.67 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.37 in chips) 
+Seat 8: ustin72 ($3.68 in chips) 
+Seat 9: malliosK ($4.93 in chips) 
+henriquefjc: posts small blind $0.02
+motormower: posts big blind $0.05
+Kallem28: sits out 
+Kroki66: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Kc]
+andrei_lint: folds 
+Dorex2007: folds 
+ustin72: folds 
+malliosK: folds 
+Kroki66: raises $0.10 to $0.15
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: calls $0.10
+*** FLOP *** [Js 9h 9s]
+motormower: checks 
+Kroki66: bets $0.20
+motormower: calls $0.20
+*** TURN *** [Js 9h 9s] [Th]
+motormower: bets $0.20
+Kroki66: folds 
+Uncalled bet ($0.20) returned to motormower
+motormower collected $0.69 from pot
+motormower: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03 
+Board [Js 9h 9s Th]
+Seat 1: Kroki66 folded on the Turn
+Seat 2: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 3: henriquefjc (small blind) folded before Flop
+Seat 4: motormower (big blind) collected ($0.69)
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191876183:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:02:07 PT [2022/08/24 15:02:07 ET]
+Table 'Geminid' 9-max Seat #3 is the button
+Seat 1: Kroki66 ($4.65 in chips) 
+Seat 2: vladimir5421 ($14.01 in chips) 
+Seat 3: henriquefjc ($4.88 in chips) 
+Seat 4: motormower ($5.01 in chips) 
+Seat 5: Kallem28 ($5.17 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.37 in chips) 
+Seat 8: ustin72 ($3.68 in chips) 
+Seat 9: malliosK ($4.93 in chips) 
+motormower: posts small blind $0.02
+Kallem28: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Jc]
+andrei_lint: folds 
+Dorex2007: raises $0.05 to $0.10
+ustin72: folds 
+malliosK: folds 
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: calls $0.10
+motormower: calls $0.08
+Kallem28: calls $0.05
+*** FLOP *** [8h 7h 6d]
+motormower: bets $0.10
+Kallem28: folds 
+Dorex2007: folds 
+henriquefjc: calls $0.10
+*** TURN *** [8h 7h 6d] [9h]
+motormower: bets $0.20
+henriquefjc: calls $0.20
+*** RIVER *** [8h 7h 6d 9h] [4h]
+motormower: bets $0.20
+henriquefjc: raises $0.68 to $0.88
+motormower: calls $0.68
+*** SHOW DOWN ***
+henriquefjc: shows [9c Kd] (a pair of Nines)
+motormower: shows [Th Js] (a flush, Ten high)
+motormower collected $2.65 from pot
+*** SUMMARY ***
+Total pot $2.76 | Rake $0.11 
+Board [8h 7h 6d 9h 4h]
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc (button) showed [9c Kd] and lost with a pair of Nines
+Seat 4: motormower (small blind) showed [Th Js] and won ($2.65) with a flush, Ten high
+Seat 5: Kallem28 (big blind) folded on the Flop
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded on the Flop
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191896645:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:03:03 PT [2022/08/24 15:03:03 ET]
+Table 'Geminid' 9-max Seat #4 is the button
+Seat 1: Kroki66 ($4.65 in chips) 
+Seat 2: vladimir5421 ($14.01 in chips) 
+Seat 3: henriquefjc ($3.60 in chips) 
+Seat 4: motormower ($6.38 in chips) 
+Seat 5: Kallem28 ($5.07 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.27 in chips) 
+Seat 8: ustin72 ($3.68 in chips) 
+Seat 9: malliosK ($4.93 in chips) 
+Kallem28: posts small blind $0.02
+andrei_lint: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Ks]
+Dorex2007: folds 
+ustin72: folds 
+malliosK: folds 
+Kroki66: folds 
+vladimir5421: raises $0.10 to $0.15
+henriquefjc: calls $0.15
+motormower: folds 
+Kallem28: folds 
+andrei_lint: folds 
+*** FLOP *** [As 6d 7d]
+vladimir5421: bets $0.35
+henriquefjc: folds 
+Uncalled bet ($0.35) returned to vladimir5421
+vladimir5421 collected $0.35 from pot
+vladimir5421: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [As 6d 7d]
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 collected ($0.35)
+Seat 3: henriquefjc folded on the Flop
+Seat 4: motormower (button) folded before Flop (didn't bet)
+Seat 5: Kallem28 (small blind) folded before Flop
+Seat 6: andrei_lint (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191915704:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:03:54 PT [2022/08/24 15:03:54 ET]
+Table 'Geminid' 9-max Seat #5 is the button
+Seat 1: Kroki66 ($4.65 in chips) 
+Seat 2: vladimir5421 ($14.21 in chips) 
+Seat 3: henriquefjc ($3.45 in chips) 
+Seat 4: motormower ($6.38 in chips) 
+Seat 5: Kallem28 ($5.05 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.27 in chips) 
+Seat 8: ustin72 ($3.68 in chips) 
+Seat 9: malliosK ($4.93 in chips) 
+andrei_lint: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c Td]
+ustin72: folds 
+malliosK: folds 
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+Kallem28: folds 
+andrei_lint: folds 
+Uncalled bet ($0.03) returned to Dorex2007
+Dorex2007 collected $0.04 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 (button) folded before Flop (didn't bet)
+Seat 6: andrei_lint (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) collected ($0.04)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191922937:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:04:13 PT [2022/08/24 15:04:13 ET]
+Table 'Geminid' 9-max Seat #6 is the button
+Seat 1: Kroki66 ($4.65 in chips) 
+Seat 2: vladimir5421 ($14.21 in chips) 
+Seat 3: henriquefjc ($3.45 in chips) 
+Seat 4: motormower ($6.38 in chips) 
+Seat 5: Kallem28 ($5.05 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.29 in chips) 
+Seat 8: ustin72 ($3.68 in chips) 
+Seat 9: malliosK ($4.93 in chips) 
+Dorex2007: posts small blind $0.02
+ustin72: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 7h]
+malliosK: folds 
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: raises $0.05 to $0.10
+motormower: folds 
+Kallem28: folds 
+andrei_lint: folds 
+Dorex2007: folds 
+ustin72: folds 
+Uncalled bet ($0.05) returned to henriquefjc
+henriquefjc collected $0.12 from pot
+henriquefjc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc collected ($0.12)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: andrei_lint (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: ustin72 (big blind) folded before Flop
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191931649:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:04:36 PT [2022/08/24 15:04:36 ET]
+Table 'Geminid' 9-max Seat #7 is the button
+Seat 1: Kroki66 ($4.65 in chips) 
+Seat 2: vladimir5421 ($14.21 in chips) 
+Seat 3: henriquefjc ($3.52 in chips) 
+Seat 4: motormower ($6.38 in chips) 
+Seat 5: Kallem28 ($5.05 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.27 in chips) 
+Seat 8: ustin72 ($3.63 in chips) 
+Seat 9: malliosK ($4.93 in chips) 
+ustin72: posts small blind $0.02
+malliosK: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 7c]
+Kroki66: folds 
+vladimir5421: raises $0.10 to $0.15
+henriquefjc: folds 
+motormower: folds 
+Kallem28: folds 
+andrei_lint: folds 
+Dorex2007: folds 
+ustin72: folds 
+malliosK: folds 
+Uncalled bet ($0.10) returned to vladimir5421
+vladimir5421 collected $0.12 from pot
+vladimir5421: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 collected ($0.12)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: ustin72 (small blind) folded before Flop
+Seat 9: malliosK (big blind) folded before Flop
+
+
+
+PokerStars Hand #238191938641:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:04:55 PT [2022/08/24 15:04:55 ET]
+Table 'Geminid' 9-max Seat #8 is the button
+Seat 1: Kroki66 ($4.65 in chips) 
+Seat 2: vladimir5421 ($14.28 in chips) 
+Seat 3: henriquefjc ($3.52 in chips) 
+Seat 4: motormower ($6.38 in chips) 
+Seat 5: Kallem28 ($5.05 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.27 in chips) 
+Seat 8: ustin72 ($3.61 in chips) 
+Seat 9: malliosK ($4.88 in chips) 
+malliosK: posts small blind $0.02
+Kroki66: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 8s]
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+Kallem28: folds 
+andrei_lint: folds 
+Dorex2007: folds 
+ustin72: raises $0.07 to $0.12
+malliosK: folds 
+Kroki66: folds 
+Uncalled bet ($0.07) returned to ustin72
+ustin72 collected $0.12 from pot
+ustin72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Kroki66 (big blind) folded before Flop
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 (button) collected ($0.12)
+Seat 9: malliosK (small blind) folded before Flop
+
+
+
+PokerStars Hand #238191950300:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:05:24 PT [2022/08/24 15:05:24 ET]
+Table 'Geminid' 9-max Seat #9 is the button
+Seat 1: Kroki66 ($4.60 in chips) 
+Seat 2: vladimir5421 ($14.28 in chips) 
+Seat 3: henriquefjc ($3.52 in chips) 
+Seat 4: motormower ($6.38 in chips) 
+Seat 5: Kallem28 ($5.05 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.27 in chips) 
+Seat 8: ustin72 ($3.68 in chips) 
+Seat 9: malliosK ($4.86 in chips) 
+Kroki66: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Js]
+henriquefjc: folds 
+motormower: folds 
+Kallem28: folds 
+andrei_lint: folds 
+Dorex2007: folds 
+ustin72: folds 
+malliosK: folds 
+Kroki66: folds 
+Uncalled bet ($0.03) returned to vladimir5421
+vladimir5421 collected $0.04 from pot
+vladimir5421: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Kroki66 (small blind) folded before Flop
+Seat 2: vladimir5421 (big blind) collected ($0.04)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191955218:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:05:37 PT [2022/08/24 15:05:37 ET]
+Table 'Geminid' 9-max Seat #1 is the button
+Seat 1: Kroki66 ($4.58 in chips) 
+Seat 2: vladimir5421 ($14.30 in chips) 
+Seat 3: henriquefjc ($3.52 in chips) 
+Seat 4: motormower ($6.38 in chips) 
+Seat 5: Kallem28 ($5.05 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.27 in chips) 
+Seat 8: ustin72 ($3.68 in chips) 
+Seat 9: malliosK ($4.86 in chips) 
+vladimir5421: posts small blind $0.02
+henriquefjc: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 4d]
+motormower: folds 
+Kallem28: folds 
+andrei_lint: raises $0.10 to $0.15
+Dorex2007: folds 
+ustin72: folds 
+malliosK: folds 
+Kroki66: calls $0.15
+vladimir5421: folds 
+henriquefjc: folds 
+*** FLOP *** [Kd Th Td]
+andrei_lint: bets $0.25
+Kroki66: calls $0.25
+*** TURN *** [Kd Th Td] [As]
+andrei_lint: checks 
+Kroki66: bets $0.41
+andrei_lint: folds 
+Uncalled bet ($0.41) returned to Kroki66
+Kroki66 collected $0.83 from pot
+Kroki66: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.04 
+Board [Kd Th Td As]
+Seat 1: Kroki66 (button) collected ($0.83)
+Seat 2: vladimir5421 (small blind) folded before Flop
+Seat 3: henriquefjc (big blind) folded before Flop
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: andrei_lint folded on the Turn
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191971666:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:06:19 PT [2022/08/24 15:06:19 ET]
+Table 'Geminid' 9-max Seat #2 is the button
+Seat 1: Kroki66 ($5.01 in chips) 
+Seat 2: vladimir5421 ($14.28 in chips) 
+Seat 3: henriquefjc ($3.47 in chips) 
+Seat 4: motormower ($6.38 in chips) 
+Seat 5: Kallem28 ($5.05 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.27 in chips) 
+Seat 8: ustin72 ($3.68 in chips) 
+Seat 9: malliosK ($4.86 in chips) 
+henriquefjc: posts small blind $0.02
+motormower: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts Kh]
+Kallem28: folds 
+andrei_lint: folds 
+Dorex2007: folds 
+ustin72: raises $0.10 to $0.15
+malliosK: folds 
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: calls $0.10
+*** FLOP *** [5h 9c 7d]
+motormower: bets $0.20
+ustin72: calls $0.20
+*** TURN *** [5h 9c 7d] [Ad]
+motormower: bets $0.25
+ustin72: folds 
+Uncalled bet ($0.25) returned to motormower
+motormower collected $0.69 from pot
+motormower: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03 
+Board [5h 9c 7d Ad]
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 3: henriquefjc (small blind) folded before Flop
+Seat 4: motormower (big blind) collected ($0.69)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded on the Turn
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238191988571:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:07:02 PT [2022/08/24 15:07:02 ET]
+Table 'Geminid' 9-max Seat #3 is the button
+Seat 1: Kroki66 ($5.01 in chips) 
+Seat 2: vladimir5421 ($14.28 in chips) 
+Seat 3: henriquefjc ($3.45 in chips) 
+Seat 4: motormower ($6.72 in chips) 
+Seat 5: Kallem28 ($5.05 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.27 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: malliosK ($4.86 in chips) 
+motormower: posts small blind $0.02
+Kallem28: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 4c]
+andrei_lint: folds 
+Dorex2007: folds 
+ustin72: folds 
+malliosK: raises $0.07 to $0.12
+Kroki66: folds 
+vladimir5421: calls $0.12
+henriquefjc: folds 
+motormower: folds 
+Kallem28: calls $0.07
+*** FLOP *** [3c 2c 9s]
+Kallem28: checks 
+malliosK: bets $0.18
+vladimir5421: raises $0.27 to $0.45
+Kallem28: folds 
+malliosK: calls $0.27
+*** TURN *** [3c 2c 9s] [Qs]
+malliosK: checks 
+vladimir5421: bets $0.92
+malliosK: folds 
+Uncalled bet ($0.92) returned to vladimir5421
+vladimir5421 collected $1.23 from pot
+vladimir5421: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.28 | Rake $0.05 
+Board [3c 2c 9s Qs]
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 collected ($1.23)
+Seat 3: henriquefjc (button) folded before Flop (didn't bet)
+Seat 4: motormower (small blind) folded before Flop
+Seat 5: Kallem28 (big blind) folded on the Flop
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK folded on the Turn
+
+
+
+PokerStars Hand #238192017581:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:08:16 PT [2022/08/24 15:08:16 ET]
+Table 'Geminid' 9-max Seat #4 is the button
+Seat 1: Kroki66 ($5.01 in chips) 
+Seat 2: vladimir5421 ($14.94 in chips) 
+Seat 3: henriquefjc ($3.45 in chips) 
+Seat 4: motormower ($6.70 in chips) 
+Seat 5: Kallem28 ($4.93 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.27 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: malliosK ($4.29 in chips) 
+Kallem28: posts small blind $0.02
+andrei_lint: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 6d]
+Dorex2007: folds 
+ustin72: folds 
+malliosK: folds 
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+Kallem28: raises $0.15 to $0.20
+andrei_lint: folds 
+Uncalled bet ($0.15) returned to Kallem28
+Kallem28 collected $0.10 from pot
+Kallem28: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower (button) folded before Flop (didn't bet)
+Seat 5: Kallem28 (small blind) collected ($0.10)
+Seat 6: andrei_lint (big blind) folded before Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238192024229:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:08:33 PT [2022/08/24 15:08:33 ET]
+Table 'Geminid' 9-max Seat #5 is the button
+Seat 1: Kroki66 ($5.01 in chips) 
+Seat 2: vladimir5421 ($14.94 in chips) 
+Seat 3: henriquefjc ($3.45 in chips) 
+Seat 4: motormower ($6.70 in chips) 
+Seat 5: Kallem28 ($4.98 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: Dorex2007 ($6.27 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: malliosK ($4.29 in chips) 
+andrei_lint: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 4s]
+ustin72: folds 
+malliosK: folds 
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: calls $0.05
+Kallem28: folds 
+andrei_lint: folds 
+Dorex2007: checks 
+*** FLOP *** [Qc As 4c]
+andrei_lint leaves the table
+Marcus721637 joins the table at seat #6 
+Dorex2007: checks 
+motormower: bets $0.15
+Dorex2007: folds 
+Uncalled bet ($0.15) returned to motormower
+motormower collected $0.12 from pot
+motormower: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Qc As 4c]
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower collected ($0.12)
+Seat 5: Kallem28 (button) folded before Flop (didn't bet)
+Seat 6: andrei_lint (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded on the Flop
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238192039984:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:09:13 PT [2022/08/24 15:09:13 ET]
+Table 'Geminid' 9-max Seat #7 is the button
+Seat 1: Kroki66 ($5.01 in chips) 
+Seat 2: vladimir5421 ($14.94 in chips) 
+Seat 3: henriquefjc ($3.45 in chips) 
+Seat 4: motormower ($6.77 in chips) 
+Seat 5: Kallem28 ($4.98 in chips) 
+Seat 7: Dorex2007 ($6.22 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: malliosK ($4.29 in chips) 
+ustin72: posts small blind $0.02
+malliosK: posts big blind $0.05
+Marcus721637: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Jh]
+Kroki66: raises $0.10 to $0.15
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: calls $0.15
+Kallem28: folds 
+Dorex2007: folds 
+ustin72: folds 
+malliosK: folds 
+*** FLOP *** [Qd 9s 3c]
+Kroki66: bets $0.25
+motormower: calls $0.25
+*** TURN *** [Qd 9s 3c] [Kd]
+Kroki66: bets $0.41
+motormower: calls $0.41
+*** RIVER *** [Qd 9s 3c Kd] [2h]
+Kroki66: checks 
+motormower: checks 
+*** SHOW DOWN ***
+Kroki66: shows [Kh Ad] (a pair of Kings)
+motormower: mucks hand 
+Kroki66 collected $1.62 from pot
+*** SUMMARY ***
+Total pot $1.69 | Rake $0.07 
+Board [Qd 9s 3c Kd 2h]
+Seat 1: Kroki66 showed [Kh Ad] and won ($1.62) with a pair of Kings
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower mucked [Qs Tc]
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: ustin72 (small blind) folded before Flop
+Seat 9: malliosK (big blind) folded before Flop
+
+
+
+PokerStars Hand #238192056023:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:09:53 PT [2022/08/24 15:09:53 ET]
+Table 'Geminid' 9-max Seat #8 is the button
+Seat 1: Kroki66 ($5.82 in chips) 
+Seat 2: vladimir5421 ($14.94 in chips) 
+Seat 3: henriquefjc ($3.45 in chips) 
+Seat 4: motormower ($5.96 in chips) 
+Seat 5: Kallem28 ($4.98 in chips) 
+Seat 7: Dorex2007 ($6.22 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: malliosK ($4.24 in chips) 
+malliosK: posts small blind $0.02
+Kroki66: posts big blind $0.05
+Marcus721637: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Qs]
+vladimir5421 has timed out
+vladimir5421: folds 
+henriquefjc: folds 
+motormower has timed out
+motormower: folds 
+Kallem28: folds 
+Dorex2007: raises $0.10 to $0.15
+ustin72: folds 
+malliosK: folds 
+Kroki66: folds 
+Uncalled bet ($0.10) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Kroki66 (big blind) folded before Flop
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 7: Dorex2007 collected ($0.12)
+Seat 8: ustin72 (button) folded before Flop (didn't bet)
+Seat 9: malliosK (small blind) folded before Flop
+
+
+
+PokerStars Hand #238192069625:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:10:28 PT [2022/08/24 15:10:28 ET]
+Table 'Geminid' 9-max Seat #9 is the button
+Seat 1: Kroki66 ($5.77 in chips) 
+Seat 2: vladimir5421 ($14.94 in chips) 
+Seat 3: henriquefjc ($3.45 in chips) 
+Seat 5: Kallem28 ($4.98 in chips) 
+Seat 7: Dorex2007 ($6.29 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: malliosK ($4.22 in chips) 
+Kroki66: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+Marcus721637: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 3d]
+henriquefjc: folds 
+Kallem28: folds 
+Dorex2007: folds 
+ustin72: raises $0.07 to $0.12
+malliosK: folds 
+Kroki66: folds 
+vladimir5421: folds 
+Uncalled bet ($0.07) returned to ustin72
+ustin72 collected $0.12 from pot
+ustin72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Kroki66 (small blind) folded before Flop
+Seat 2: vladimir5421 (big blind) folded before Flop
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 collected ($0.12)
+Seat 9: malliosK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238192077882:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:10:49 PT [2022/08/24 15:10:49 ET]
+Table 'Geminid' 9-max Seat #1 is the button
+Seat 1: Kroki66 ($5.75 in chips) 
+Seat 2: vladimir5421 ($14.89 in chips) 
+Seat 3: henriquefjc ($3.45 in chips) 
+Seat 4: motormower ($5.96 in chips) 
+Seat 5: Kallem28 ($4.98 in chips) 
+Seat 7: Dorex2007 ($6.29 in chips) 
+Seat 8: ustin72 ($3.57 in chips) 
+Seat 9: malliosK ($4.22 in chips) 
+vladimir5421: posts small blind $0.02
+henriquefjc: posts big blind $0.05
+Marcus721637: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Th]
+motormower: raises $0.05 to $0.10
+Kallem28: folds 
+Dorex2007: folds 
+ustin72: folds 
+malliosK: folds 
+Kroki66: calls $0.10
+vladimir5421: raises $0.40 to $0.50
+henriquefjc: folds 
+motormower: folds 
+Kroki66: calls $0.40
+*** FLOP *** [Td 5s 6c]
+vladimir5421: checks 
+Kroki66: checks 
+*** TURN *** [Td 5s 6c] [4d]
+vladimir5421: checks 
+Kroki66: bets $0.60
+vladimir5421: folds 
+Uncalled bet ($0.60) returned to Kroki66
+Kroki66 collected $1.10 from pot
+Kroki66: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [Td 5s 6c 4d]
+Seat 1: Kroki66 (button) collected ($1.10)
+Seat 2: vladimir5421 (small blind) folded on the Turn
+Seat 3: henriquefjc (big blind) folded before Flop
+Seat 4: motormower folded before Flop
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238192096875:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:11:37 PT [2022/08/24 15:11:37 ET]
+Table 'Geminid' 9-max Seat #2 is the button
+Seat 1: Kroki66 ($6.35 in chips) 
+Seat 2: vladimir5421 ($14.39 in chips) 
+Seat 3: henriquefjc ($3.40 in chips) 
+Seat 4: motormower ($5.86 in chips) 
+Seat 5: Kallem28 ($4.98 in chips) 
+Seat 7: Dorex2007 ($6.29 in chips) 
+Seat 8: ustin72 ($3.57 in chips) 
+Seat 9: malliosK ($4.22 in chips) 
+henriquefjc: posts small blind $0.02
+motormower: posts big blind $0.05
+Marcus721637: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Jd]
+Kallem28: raises $0.15 to $0.20
+Dorex2007: folds 
+ustin72: folds 
+malliosK has timed out
+malliosK: folds 
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+Uncalled bet ($0.15) returned to Kallem28
+Kallem28 collected $0.12 from pot
+Kallem28: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 3: henriquefjc (small blind) folded before Flop
+Seat 4: motormower (big blind) folded before Flop
+Seat 5: Kallem28 collected ($0.12)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238192110470:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:12:12 PT [2022/08/24 15:12:12 ET]
+Table 'Geminid' 9-max Seat #3 is the button
+Seat 1: Kroki66 ($6.35 in chips) 
+Seat 2: vladimir5421 ($14.39 in chips) 
+Seat 3: henriquefjc ($3.38 in chips) 
+Seat 4: motormower ($5.81 in chips) 
+Seat 5: Kallem28 ($5.05 in chips) 
+Seat 7: Dorex2007 ($6.29 in chips) 
+Seat 8: ustin72 ($3.57 in chips) 
+motormower: posts small blind $0.02
+Kallem28: posts big blind $0.05
+Marcus721637: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Kc]
+Dorex2007: raises $0.10 to $0.15
+ustin72: folds 
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: calls $0.15
+motormower: folds 
+Kallem28: folds 
+*** FLOP *** [5h Ad 5c]
+Dorex2007: checks 
+henriquefjc: bets $0.17
+Dorex2007: raises $0.29 to $0.46
+henriquefjc: folds 
+Uncalled bet ($0.29) returned to Dorex2007
+Dorex2007 collected $0.68 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.03 
+Board [5h Ad 5c]
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc (button) folded on the Flop
+Seat 4: motormower (small blind) folded before Flop
+Seat 5: Kallem28 (big blind) folded before Flop
+Seat 7: Dorex2007 collected ($0.68)
+Seat 8: ustin72 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238192119720:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:12:35 PT [2022/08/24 15:12:35 ET]
+Table 'Geminid' 9-max Seat #4 is the button
+Seat 1: Kroki66 ($6.35 in chips) 
+Seat 2: vladimir5421 ($14.39 in chips) 
+Seat 3: henriquefjc ($3.06 in chips) 
+Seat 4: motormower ($5.79 in chips) 
+Seat 5: Kallem28 ($5 in chips) 
+Seat 6: Marcus721637 ($5 in chips) 
+Seat 7: Dorex2007 ($6.65 in chips) 
+Seat 8: ustin72 ($3.57 in chips) 
+Seat 9: malliosK ($4.22 in chips) 
+Kallem28: posts small blind $0.02
+Marcus721637: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 8c]
+Dorex2007: folds 
+ustin72: folds 
+malliosK: folds 
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: calls $0.05
+Kallem28: folds 
+Marcus721637: checks 
+*** FLOP *** [5d 8h 8d]
+Marcus721637 has timed out
+Marcus721637: checks 
+motormower: checks 
+*** TURN *** [5d 8h 8d] [7d]
+Marcus721637 has timed out
+Marcus721637: checks 
+motormower: checks 
+*** RIVER *** [5d 8h 8d 7d] [4h]
+Marcus721637: bets $0.06
+motormower: folds 
+Uncalled bet ($0.06) returned to Marcus721637
+Marcus721637 collected $0.12 from pot
+Marcus721637: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [5d 8h 8d 7d 4h]
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower (button) folded on the River
+Seat 5: Kallem28 (small blind) folded before Flop
+Seat 6: Marcus721637 (big blind) collected ($0.12)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238192151665:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:13:57 PT [2022/08/24 15:13:57 ET]
+Table 'Geminid' 9-max Seat #5 is the button
+Seat 1: Kroki66 ($6.35 in chips) 
+Seat 2: vladimir5421 ($14.39 in chips) 
+Seat 3: henriquefjc ($3.06 in chips) 
+Seat 4: motormower ($5.74 in chips) 
+Seat 5: Kallem28 ($4.98 in chips) 
+Seat 6: Marcus721637 ($5.07 in chips) 
+Seat 7: Dorex2007 ($6.65 in chips) 
+Seat 8: ustin72 ($3.57 in chips) 
+Seat 9: malliosK ($4.22 in chips) 
+Marcus721637: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Qh]
+ustin72: folds 
+malliosK: raises $0.06 to $0.11
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+Kallem28: folds 
+Marcus721637: folds 
+Dorex2007: folds 
+Uncalled bet ($0.06) returned to malliosK
+malliosK collected $0.12 from pot
+malliosK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 (button) folded before Flop (didn't bet)
+Seat 6: Marcus721637 (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK collected ($0.12)
+
+
+
+PokerStars Hand #238192161390:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:14:21 PT [2022/08/24 15:14:21 ET]
+Table 'Geminid' 9-max Seat #6 is the button
+Seat 1: Kroki66 ($6.35 in chips) 
+Seat 2: vladimir5421 ($14.39 in chips) 
+Seat 3: henriquefjc ($3.06 in chips) 
+Seat 4: motormower ($5.74 in chips) 
+Seat 5: Kallem28 ($4.98 in chips) 
+Seat 6: Marcus721637 ($5.05 in chips) 
+Seat 7: Dorex2007 ($6.60 in chips) 
+Seat 8: ustin72 ($3.57 in chips) 
+Seat 9: malliosK ($4.29 in chips) 
+Dorex2007: posts small blind $0.02
+ustin72: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 6d]
+malliosK: folds 
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+Kallem28: folds 
+Marcus721637: folds 
+Dorex2007: folds 
+Uncalled bet ($0.03) returned to ustin72
+ustin72 collected $0.04 from pot
+ustin72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: Marcus721637 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: ustin72 (big blind) collected ($0.04)
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238192168513:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:14:39 PT [2022/08/24 15:14:39 ET]
+Table 'Geminid' 9-max Seat #7 is the button
+Seat 1: Kroki66 ($6.35 in chips) 
+Seat 2: vladimir5421 ($14.39 in chips) 
+Seat 3: henriquefjc ($3.06 in chips) 
+Seat 4: motormower ($5.74 in chips) 
+Seat 5: Kallem28 ($4.98 in chips) 
+Seat 6: Marcus721637 ($5.05 in chips) 
+Seat 7: Dorex2007 ($6.58 in chips) 
+Seat 8: ustin72 ($3.59 in chips) 
+Seat 9: malliosK ($4.29 in chips) 
+ustin72: posts small blind $0.02
+malliosK: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 3h]
+Kroki66: folds 
+vladimir5421: raises $0.10 to $0.15
+henriquefjc: folds 
+motormower: folds 
+Kallem28: folds 
+Marcus721637: folds 
+Dorex2007: folds 
+ustin72: folds 
+malliosK: calls $0.10
+*** FLOP *** [2s Jh 5h]
+malliosK: checks 
+vladimir5421: checks 
+*** TURN *** [2s Jh 5h] [3c]
+malliosK: bets $0.15
+vladimir5421: calls $0.15
+*** RIVER *** [2s Jh 5h 3c] [3s]
+malliosK: bets $0.15
+vladimir5421: calls $0.15
+*** SHOW DOWN ***
+malliosK: shows [Js Ks] (two pair, Jacks and Threes)
+vladimir5421: mucks hand 
+malliosK collected $0.88 from pot
+*** SUMMARY ***
+Total pot $0.92 | Rake $0.04 
+Board [2s Jh 5h 3c 3s]
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 mucked [Qs Ah]
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: Marcus721637 folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: ustin72 (small blind) folded before Flop
+Seat 9: malliosK (big blind) showed [Js Ks] and won ($0.88) with two pair, Jacks and Threes
+
+
+
+PokerStars Hand #238192200651:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:16:00 PT [2022/08/24 15:16:00 ET]
+Table 'Geminid' 9-max Seat #8 is the button
+Seat 1: Kroki66 ($6.35 in chips) 
+Seat 2: vladimir5421 ($13.94 in chips) 
+Seat 3: henriquefjc ($3.06 in chips) 
+Seat 4: motormower ($5.74 in chips) 
+Seat 5: Kallem28 ($4.98 in chips) 
+Seat 6: Marcus721637 ($5.05 in chips) 
+Seat 7: Dorex2007 ($6.58 in chips) 
+Seat 8: ustin72 ($3.57 in chips) 
+Seat 9: malliosK ($4.72 in chips) 
+malliosK: posts small blind $0.02
+Kroki66: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 2h]
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+Kallem28: folds 
+Marcus721637: raises $0.07 to $0.12
+Dorex2007: folds 
+ustin72: folds 
+malliosK: folds 
+Kroki66: folds 
+Uncalled bet ($0.07) returned to Marcus721637
+Marcus721637 collected $0.12 from pot
+Marcus721637: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Kroki66 (big blind) folded before Flop
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: Marcus721637 collected ($0.12)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 (button) folded before Flop (didn't bet)
+Seat 9: malliosK (small blind) folded before Flop
+
+
+
+PokerStars Hand #238192209708:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:16:23 PT [2022/08/24 15:16:23 ET]
+Table 'Geminid' 9-max Seat #9 is the button
+Seat 1: Kroki66 ($6.30 in chips) 
+Seat 2: vladimir5421 ($13.94 in chips) 
+Seat 3: henriquefjc ($3.06 in chips) 
+Seat 4: motormower ($5.74 in chips) 
+Seat 5: Kallem28 ($4.98 in chips) 
+Seat 6: Marcus721637 ($5.12 in chips) 
+Seat 7: Dorex2007 ($6.58 in chips) 
+Seat 8: ustin72 ($3.57 in chips) 
+Seat 9: malliosK ($4.70 in chips) 
+Kroki66: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 6d]
+henriquefjc: folds 
+motormower: folds 
+Kallem28: folds 
+Marcus721637: folds 
+Dorex2007: folds 
+ustin72: raises $0.07 to $0.12
+malliosK: folds 
+Kroki66: folds 
+vladimir5421: folds 
+Uncalled bet ($0.07) returned to ustin72
+ustin72 collected $0.12 from pot
+ustin72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Kroki66 (small blind) folded before Flop
+Seat 2: vladimir5421 (big blind) folded before Flop
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: Marcus721637 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 collected ($0.12)
+Seat 9: malliosK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238192222047:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:16:55 PT [2022/08/24 15:16:55 ET]
+Table 'Geminid' 9-max Seat #1 is the button
+Seat 1: Kroki66 ($6.28 in chips) 
+Seat 2: vladimir5421 ($13.89 in chips) 
+Seat 3: henriquefjc ($3.06 in chips) 
+Seat 4: motormower ($5.74 in chips) 
+Seat 5: Kallem28 ($4.98 in chips) 
+Seat 6: Marcus721637 ($5.12 in chips) 
+Seat 7: Dorex2007 ($6.58 in chips) 
+Seat 8: ustin72 ($3.64 in chips) 
+Seat 9: malliosK ($4.70 in chips) 
+vladimir5421: posts small blind $0.02
+henriquefjc: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Tc]
+motormower: folds 
+Kallem28: folds 
+Marcus721637: raises $0.07 to $0.12
+Dorex2007: folds 
+ustin72: folds 
+malliosK: folds 
+Kroki66: calls $0.12
+vladimir5421: folds 
+henriquefjc: calls $0.07
+*** FLOP *** [Qc Kh Qd]
+henriquefjc: checks 
+Marcus721637: checks 
+Kroki66: checks 
+*** TURN *** [Qc Kh Qd] [Td]
+henriquefjc: bets $0.36
+Marcus721637: folds 
+Kroki66: calls $0.36
+*** RIVER *** [Qc Kh Qd Td] [3h]
+henriquefjc: bets $1.05
+Kroki66: calls $1.05
+*** SHOW DOWN ***
+henriquefjc: shows [Qs Th] (a full house, Queens full of Tens)
+Kroki66: mucks hand 
+henriquefjc collected $3.07 from pot
+*** SUMMARY ***
+Total pot $3.20 | Rake $0.13 
+Board [Qc Kh Qd Td 3h]
+Seat 1: Kroki66 (button) mucked [Ad Jc]
+Seat 2: vladimir5421 (small blind) folded before Flop
+Seat 3: henriquefjc (big blind) showed [Qs Th] and won ($3.07) with a full house, Queens full of Tens
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: Marcus721637 folded on the Turn
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238192243709:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:17:49 PT [2022/08/24 15:17:49 ET]
+Table 'Geminid' 9-max Seat #2 is the button
+Seat 1: Kroki66 ($4.75 in chips) 
+Seat 2: vladimir5421 ($13.87 in chips) 
+Seat 3: henriquefjc ($4.60 in chips) 
+Seat 4: motormower ($5.74 in chips) 
+Seat 5: Kallem28 ($4.98 in chips) 
+Seat 6: Marcus721637 ($5 in chips) 
+Seat 7: Dorex2007 ($6.58 in chips) 
+Seat 8: ustin72 ($3.64 in chips) 
+Seat 9: malliosK ($4.70 in chips) 
+henriquefjc: posts small blind $0.02
+motormower: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 3c]
+Kallem28: raises $0.10 to $0.15
+Marcus721637: folds 
+Dorex2007: folds 
+ustin72: folds 
+malliosK: calls $0.15
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: calls $0.13
+motormower: raises $0.10 to $0.25
+Kallem28: calls $0.10
+malliosK: calls $0.10
+henriquefjc: calls $0.10
+*** FLOP *** [6c 3s 9s]
+henriquefjc: checks 
+motormower: checks 
+Kallem28: checks 
+malliosK: checks 
+*** TURN *** [6c 3s 9s] [Tc]
+henriquefjc: bets $1.05
+motormower: folds 
+Kallem28: folds 
+malliosK: folds 
+Uncalled bet ($1.05) returned to henriquefjc
+henriquefjc collected $0.96 from pot
+henriquefjc: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [6c 3s 9s Tc]
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 3: henriquefjc (small blind) collected ($0.96)
+Seat 4: motormower (big blind) folded on the Turn
+Seat 5: Kallem28 folded on the Turn
+Seat 6: Marcus721637 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK folded on the Turn
+
+
+
+PokerStars Hand #238192269094:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:18:54 PT [2022/08/24 15:18:54 ET]
+Table 'Geminid' 9-max Seat #3 is the button
+Seat 1: Kroki66 ($4.75 in chips) 
+Seat 2: vladimir5421 ($13.87 in chips) 
+Seat 3: henriquefjc ($5.31 in chips) 
+Seat 4: motormower ($5.49 in chips) 
+Seat 5: Kallem28 ($4.73 in chips) 
+Seat 6: Marcus721637 ($5 in chips) 
+Seat 7: Dorex2007 ($6.58 in chips) 
+Seat 8: ustin72 ($3.64 in chips) 
+Seat 9: malliosK ($4.45 in chips) 
+motormower: posts small blind $0.02
+Kallem28: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Tc]
+Marcus721637: folds 
+Dorex2007: folds 
+ustin72: folds 
+Marcus721637 leaves the table
+malliosK: folds 
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+Uncalled bet ($0.03) returned to Kallem28
+Kallem28 collected $0.04 from pot
+Kallem28: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc (button) folded before Flop (didn't bet)
+Seat 4: motormower (small blind) folded before Flop
+Seat 5: Kallem28 (big blind) collected ($0.04)
+Seat 6: Marcus721637 folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238192274375:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:19:07 PT [2022/08/24 15:19:07 ET]
+Table 'Geminid' 9-max Seat #4 is the button
+Seat 1: Kroki66 ($4.75 in chips) 
+Seat 2: vladimir5421 ($13.87 in chips) 
+Seat 3: henriquefjc ($5.31 in chips) 
+Seat 4: motormower ($5.47 in chips) 
+Seat 5: Kallem28 ($4.75 in chips) 
+Seat 7: Dorex2007 ($6.58 in chips) 
+Seat 8: ustin72 ($3.64 in chips) 
+Seat 9: malliosK ($4.45 in chips) 
+Kallem28: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 5d]
+ustin72: folds 
+malliosK: folds 
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+Kallem28: raises $0.15 to $0.20
+Dorex2007: folds 
+Uncalled bet ($0.15) returned to Kallem28
+Kallem28 collected $0.10 from pot
+Kallem28: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower (button) folded before Flop (didn't bet)
+Seat 5: Kallem28 (small blind) collected ($0.10)
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238192284859:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:19:33 PT [2022/08/24 15:19:33 ET]
+Table 'Geminid' 9-max Seat #5 is the button
+Seat 1: Kroki66 ($4.75 in chips) 
+Seat 2: vladimir5421 ($13.87 in chips) 
+Seat 3: henriquefjc ($5.31 in chips) 
+Seat 4: motormower ($5.47 in chips) 
+Seat 5: Kallem28 ($4.80 in chips) 
+Seat 7: Dorex2007 ($6.53 in chips) 
+Seat 8: ustin72 ($3.64 in chips) 
+Seat 9: malliosK ($4.45 in chips) 
+Dorex2007: posts small blind $0.02
+ustin72: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 3d]
+malliosK: calls $0.05
+Kroki66: folds 
+vladimir5421: raises $0.10 to $0.15
+henriquefjc: folds 
+88REAW joins the table at seat #6 
+motormower: folds 
+Kallem28: folds 
+Dorex2007: folds 
+ustin72: folds 
+malliosK: calls $0.10
+*** FLOP *** [9d 6s 4c]
+malliosK: checks 
+vladimir5421: bets $0.30
+malliosK: calls $0.30
+*** TURN *** [9d 6s 4c] [2c]
+malliosK: checks 
+vladimir5421: bets $0.70
+malliosK: calls $0.70
+*** RIVER *** [9d 6s 4c 2c] [6h]
+malliosK: checks 
+vladimir5421: checks 
+*** SHOW DOWN ***
+malliosK: shows [8h 8c] (two pair, Eights and Sixes)
+vladimir5421: shows [Jh Jd] (two pair, Jacks and Sixes)
+vladimir5421 collected $2.27 from pot
+*** SUMMARY ***
+Total pot $2.37 | Rake $0.10 
+Board [9d 6s 4c 2c 6h]
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 showed [Jh Jd] and won ($2.27) with two pair, Jacks and Sixes
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: ustin72 (big blind) folded before Flop
+Seat 9: malliosK showed [8h 8c] and lost with two pair, Eights and Sixes
+
+
+
+PokerStars Hand #238192307824:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:20:32 PT [2022/08/24 15:20:32 ET]
+Table 'Geminid' 9-max Seat #7 is the button
+Seat 1: Kroki66 ($4.75 in chips) 
+Seat 2: vladimir5421 ($14.99 in chips) 
+Seat 3: henriquefjc ($5.31 in chips) 
+Seat 4: motormower ($5.47 in chips) 
+Seat 5: Kallem28 ($4.80 in chips) 
+Seat 6: 88REAW ($5 in chips) 
+Seat 7: Dorex2007 ($6.51 in chips) 
+Seat 8: ustin72 ($3.59 in chips) 
+Seat 9: malliosK ($3.30 in chips) 
+ustin72: posts small blind $0.02
+malliosK: posts big blind $0.05
+88REAW: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Ac]
+Kroki66: raises $0.10 to $0.15
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: raises $0.10 to $0.25
+Kallem28: folds 
+88REAW: folds 
+Dorex2007: folds 
+ustin72: folds 
+malliosK: calls $0.20
+Kroki66: calls $0.10
+*** FLOP *** [Td Kd 8c]
+malliosK: checks 
+Kroki66: checks 
+motormower: bets $0.25
+malliosK: folds 
+Kroki66: calls $0.25
+*** TURN *** [Td Kd 8c] [Qh]
+Kroki66: checks 
+motormower: bets $0.30
+Kroki66: calls $0.30
+*** RIVER *** [Td Kd 8c Qh] [Ks]
+Kroki66: checks 
+motormower: bets $1.84
+Kroki66: calls $1.84
+*** SHOW DOWN ***
+motormower: shows [Kh Kc] (four of a kind, Kings)
+Kroki66: mucks hand 
+motormower collected $5.37 from pot
+*** SUMMARY ***
+Total pot $5.60 | Rake $0.23 
+Board [Td Kd 8c Qh Ks]
+Seat 1: Kroki66 mucked [Qs Qc]
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower showed [Kh Kc] and won ($5.37) with four of a kind, Kings
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: 88REAW folded before Flop (didn't bet)
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: ustin72 (small blind) folded before Flop
+Seat 9: malliosK (big blind) folded on the Flop
+
+
+
+PokerStars Hand #238192332671:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:21:34 PT [2022/08/24 15:21:34 ET]
+Table 'Geminid' 9-max Seat #8 is the button
+Seat 1: Kroki66 ($2.11 in chips) 
+Seat 2: vladimir5421 ($14.99 in chips) 
+Seat 3: henriquefjc ($5.31 in chips) 
+Seat 4: motormower ($8.20 in chips) 
+Seat 5: Kallem28 ($4.80 in chips) 
+Seat 6: 88REAW ($4.95 in chips) 
+Seat 7: Dorex2007 ($6.51 in chips) 
+Seat 8: ustin72 ($3.57 in chips) 
+Seat 9: malliosK ($3.05 in chips) 
+malliosK: posts small blind $0.02
+Kroki66: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s Kc]
+vladimir5421: folds 
+henriquefjc has timed out
+henriquefjc: folds 
+motormower: folds 
+Kallem28: folds 
+88REAW: folds 
+Dorex2007: folds 
+ustin72: folds 
+malliosK: folds 
+Uncalled bet ($0.03) returned to Kroki66
+Kroki66 collected $0.04 from pot
+Kroki66: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Kroki66 (big blind) collected ($0.04)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: 88REAW folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 (button) folded before Flop (didn't bet)
+Seat 9: malliosK (small blind) folded before Flop
+
+
+
+PokerStars Hand #238192341788:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:21:58 PT [2022/08/24 15:21:58 ET]
+Table 'Geminid' 9-max Seat #9 is the button
+Seat 1: Kroki66 ($2.13 in chips) 
+Seat 2: vladimir5421 ($14.99 in chips) 
+Seat 4: motormower ($8.20 in chips) 
+Seat 5: Kallem28 ($4.80 in chips) 
+Seat 6: 88REAW ($4.95 in chips) 
+Seat 7: Dorex2007 ($6.51 in chips) 
+Seat 8: ustin72 ($3.57 in chips) 
+Seat 9: malliosK ($3.03 in chips) 
+Kroki66: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 9c]
+motormower: folds 
+Kallem28: folds 
+88REAW: raises $0.10 to $0.15
+Dorex2007: folds 
+ustin72: folds 
+malliosK: folds 
+Kroki66: folds 
+vladimir5421: folds 
+Uncalled bet ($0.10) returned to 88REAW
+88REAW collected $0.12 from pot
+88REAW: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Kroki66 (small blind) folded before Flop
+Seat 2: vladimir5421 (big blind) folded before Flop
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: 88REAW collected ($0.12)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238192349120:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:22:16 PT [2022/08/24 15:22:16 ET]
+Table 'Geminid' 9-max Seat #1 is the button
+Seat 1: Kroki66 ($2.11 in chips) 
+Seat 2: vladimir5421 ($14.94 in chips) 
+Seat 3: henriquefjc ($5.31 in chips) 
+Seat 4: motormower ($8.20 in chips) 
+Seat 5: Kallem28 ($4.80 in chips) 
+Seat 6: 88REAW ($5.02 in chips) 
+Seat 7: Dorex2007 ($6.51 in chips) 
+Seat 8: ustin72 ($3.57 in chips) 
+Seat 9: malliosK ($3.03 in chips) 
+vladimir5421: posts small blind $0.02
+henriquefjc: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Jh]
+motormower: folds 
+Kallem28: folds 
+88REAW: folds 
+Dorex2007: folds 
+ustin72: folds 
+malliosK: raises $0.07 to $0.12
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: calls $0.07
+*** FLOP *** [9s 4d 3h]
+henriquefjc: checks 
+malliosK: bets $0.10
+henriquefjc: calls $0.10
+*** TURN *** [9s 4d 3h] [Qd]
+henriquefjc: checks 
+malliosK: checks 
+*** RIVER *** [9s 4d 3h Qd] [2s]
+henriquefjc: bets $0.44
+malliosK: folds 
+Uncalled bet ($0.44) returned to henriquefjc
+henriquefjc collected $0.44 from pot
+henriquefjc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [9s 4d 3h Qd 2s]
+Seat 1: Kroki66 (button) folded before Flop (didn't bet)
+Seat 2: vladimir5421 (small blind) folded before Flop
+Seat 3: henriquefjc (big blind) collected ($0.44)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: 88REAW folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK folded on the River
+
+
+
+PokerStars Hand #238192368739:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:23:06 PT [2022/08/24 15:23:06 ET]
+Table 'Geminid' 9-max Seat #2 is the button
+Seat 1: Kroki66 ($3.16 in chips) 
+Seat 2: vladimir5421 ($14.92 in chips) 
+Seat 3: henriquefjc ($5.53 in chips) 
+Seat 4: motormower ($8.20 in chips) 
+Seat 5: Kallem28 ($4.80 in chips) 
+Seat 6: 88REAW ($5.02 in chips) 
+Seat 7: Dorex2007 ($6.51 in chips) 
+Seat 8: ustin72 ($3.57 in chips) 
+Seat 9: malliosK ($2.81 in chips) 
+henriquefjc: posts small blind $0.02
+motormower: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s Qs]
+Kallem28: folds 
+88REAW: folds 
+Dorex2007: folds 
+ustin72: folds 
+malliosK: folds 
+malliosK leaves the table
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: calls $0.03
+motormower: checks 
+*** FLOP *** [6c Qd 5s]
+henriquefjc: bets $0.10
+motormower: calls $0.10
+*** TURN *** [6c Qd 5s] [3h]
+henriquefjc: checks 
+motormower: checks 
+*** RIVER *** [6c Qd 5s 3h] [Js]
+henriquefjc: checks 
+motormower: checks 
+*** SHOW DOWN ***
+henriquefjc: shows [As 2d] (high card Ace)
+motormower: shows [7d 6s] (a pair of Sixes)
+motormower collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [6c Qd 5s 3h Js]
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 3: henriquefjc (small blind) showed [As 2d] and lost with high card Ace
+Seat 4: motormower (big blind) showed [7d 6s] and won ($0.29) with a pair of Sixes
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: 88REAW folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: malliosK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238192387412:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:23:53 PT [2022/08/24 15:23:53 ET]
+Table 'Geminid' 9-max Seat #3 is the button
+Seat 1: Kroki66 ($3.16 in chips) 
+Seat 2: vladimir5421 ($14.92 in chips) 
+Seat 3: henriquefjc ($5.38 in chips) 
+Seat 4: motormower ($8.34 in chips) 
+Seat 5: Kallem28 ($4.80 in chips) 
+Seat 6: 88REAW ($5.02 in chips) 
+Seat 7: Dorex2007 ($6.51 in chips) 
+Seat 8: ustin72 ($3.57 in chips) 
+motormower: posts small blind $0.02
+Kallem28: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Qd]
+88REAW: calls $0.05
+Dorex2007: folds 
+ustin72: folds 
+Kroki66: folds 
+vladimir5421: calls $0.05
+henriquefjc: calls $0.05
+motormower: folds 
+Kallem28: checks 
+*** FLOP *** [Kd 2c Qh]
+Kallem28: checks 
+88REAW: checks 
+vladimir5421: bets $0.21
+jaythh joins the table at seat #9 
+henriquefjc: folds 
+Kallem28: folds 
+88REAW: folds 
+Uncalled bet ($0.21) returned to vladimir5421
+vladimir5421 collected $0.21 from pot
+vladimir5421: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Kd 2c Qh]
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 collected ($0.21)
+Seat 3: henriquefjc (button) folded on the Flop
+Seat 4: motormower (small blind) folded before Flop
+Seat 5: Kallem28 (big blind) folded on the Flop
+Seat 6: 88REAW folded on the Flop
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238192405565:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:24:40 PT [2022/08/24 15:24:40 ET]
+Table 'Geminid' 9-max Seat #4 is the button
+Seat 1: Kroki66 ($3.16 in chips) 
+Seat 2: vladimir5421 ($15.08 in chips) 
+Seat 3: henriquefjc ($5.33 in chips) 
+Seat 4: motormower ($8.32 in chips) 
+Seat 5: Kallem28 ($4.75 in chips) 
+Seat 6: 88REAW ($4.97 in chips) 
+Seat 7: Dorex2007 ($6.51 in chips) 
+Seat 8: ustin72 ($3.57 in chips) 
+Seat 9: jaythh ($4 in chips) 
+Kallem28: posts small blind $0.02
+88REAW: posts big blind $0.05
+jaythh: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 2d]
+Dorex2007: folds 
+ustin72: folds 
+jaythh: checks 
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: calls $0.05
+Kallem28: folds 
+88REAW: checks 
+*** FLOP *** [Qd 3h 9s]
+88REAW: checks 
+jaythh: checks 
+motormower: checks 
+*** TURN *** [Qd 3h 9s] [3d]
+88REAW: checks 
+jaythh: checks 
+motormower: checks 
+*** RIVER *** [Qd 3h 9s 3d] [Th]
+88REAW: checks 
+jaythh: checks 
+motormower: checks 
+*** SHOW DOWN ***
+88REAW: shows [2s 6d] (a pair of Threes)
+jaythh: shows [7d Td] (two pair, Tens and Threes)
+motormower: mucks hand 
+jaythh collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Qd 3h 9s 3d Th]
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower (button) mucked [4h 7h]
+Seat 5: Kallem28 (small blind) folded before Flop
+Seat 6: 88REAW (big blind) showed [2s 6d] and lost with a pair of Threes
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: jaythh showed [7d Td] and won ($0.16) with two pair, Tens and Threes
+
+
+
+PokerStars Hand #238192420082:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:25:16 PT [2022/08/24 15:25:16 ET]
+Table 'Geminid' 9-max Seat #5 is the button
+Seat 1: Kroki66 ($3.16 in chips) 
+Seat 2: vladimir5421 ($15.08 in chips) 
+Seat 3: henriquefjc ($5.33 in chips) 
+Seat 4: motormower ($8.27 in chips) 
+Seat 5: Kallem28 ($4.73 in chips) 
+Seat 7: Dorex2007 ($6.51 in chips) 
+Seat 8: ustin72 ($3.57 in chips) 
+Seat 9: jaythh ($4.11 in chips) 
+Dorex2007: posts small blind $0.02
+ustin72: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Jh]
+jaythh: folds 
+Kroki66: folds 
+vladimir5421: folds 
+LeoDaBarr@ joins the table at seat #6 
+henriquefjc: folds 
+motormower: folds 
+Kallem28: folds 
+Dorex2007: folds 
+Uncalled bet ($0.03) returned to ustin72
+ustin72 collected $0.04 from pot
+ustin72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 (button) folded before Flop (didn't bet)
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: ustin72 (big blind) collected ($0.04)
+Seat 9: jaythh folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238192429711:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:25:41 PT [2022/08/24 15:25:41 ET]
+Table 'Geminid' 9-max Seat #7 is the button
+Seat 1: Kroki66 ($3.16 in chips) 
+Seat 2: vladimir5421 ($15.08 in chips) 
+Seat 3: henriquefjc ($5.33 in chips) 
+Seat 4: motormower ($8.27 in chips) 
+Seat 5: Kallem28 ($4.73 in chips) 
+Seat 6: LeoDaBarr@ ($5 in chips) 
+Seat 7: Dorex2007 ($6.49 in chips) 
+Seat 8: ustin72 ($3.59 in chips) 
+Seat 9: jaythh ($4.11 in chips) 
+ustin72: posts small blind $0.02
+jaythh: posts big blind $0.05
+LeoDaBarr@: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s Ks]
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: calls $0.05
+Kallem28: folds 
+LeoDaBarr@: raises $0.05 to $0.10
+Dorex2007: folds 
+ustin72: folds 
+jaythh: calls $0.05
+motormower: calls $0.05
+*** FLOP *** [Kc 9c Td]
+jaythh: checks 
+motormower: bets $0.10
+LeoDaBarr@: calls $0.10
+jaythh: folds 
+*** TURN *** [Kc 9c Td] [Jh]
+motormower: bets $0.05
+LeoDaBarr@: calls $0.05
+*** RIVER *** [Kc 9c Td Jh] [6c]
+motormower: bets $0.05
+LeoDaBarr@: calls $0.05
+*** SHOW DOWN ***
+motormower: shows [4d Kd] (a pair of Kings)
+LeoDaBarr@: mucks hand 
+motormower collected $0.69 from pot
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03 
+Board [Kc 9c Td Jh 6c]
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower showed [4d Kd] and won ($0.69) with a pair of Kings
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: LeoDaBarr@ mucked [Ac 9h]
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: ustin72 (small blind) folded before Flop
+Seat 9: jaythh (big blind) folded on the Flop
+
+
+
+PokerStars Hand #238192449827:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:26:32 PT [2022/08/24 15:26:32 ET]
+Table 'Geminid' 9-max Seat #8 is the button
+Seat 1: Kroki66 ($3.16 in chips) 
+Seat 2: vladimir5421 ($15.08 in chips) 
+Seat 3: henriquefjc ($5.33 in chips) 
+Seat 4: motormower ($8.66 in chips) 
+Seat 5: Kallem28 ($4.73 in chips) 
+Seat 6: LeoDaBarr@ ($4.70 in chips) 
+Seat 7: Dorex2007 ($6.49 in chips) 
+Seat 8: ustin72 ($3.57 in chips) 
+Seat 9: jaythh ($4.01 in chips) 
+jaythh: posts small blind $0.02
+Kroki66: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 2c]
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: raises $0.05 to $0.10
+Kallem28: folds 
+LeoDaBarr@: folds 
+Dorex2007: folds 
+ustin72: folds 
+jaythh: calls $0.08
+Kroki66: calls $0.05
+*** FLOP *** [8s 4c Td]
+jaythh: bets $0.15
+Kroki66: calls $0.15
+motormower: calls $0.15
+*** TURN *** [8s 4c Td] [2d]
+jaythh: bets $0.36
+Kroki66: folds 
+motormower: folds 
+Uncalled bet ($0.36) returned to jaythh
+jaythh collected $0.72 from pot
+jaythh: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [8s 4c Td 2d]
+Seat 1: Kroki66 (big blind) folded on the Turn
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded on the Turn
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: LeoDaBarr@ folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 (button) folded before Flop (didn't bet)
+Seat 9: jaythh (small blind) collected ($0.72)
+
+
+
+PokerStars Hand #238192464129:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:27:09 PT [2022/08/24 15:27:09 ET]
+Table 'Geminid' 9-max Seat #9 is the button
+Seat 1: Kroki66 ($2.91 in chips) 
+Seat 2: vladimir5421 ($15.08 in chips) 
+Seat 3: henriquefjc ($5.33 in chips) 
+Seat 4: motormower ($8.41 in chips) 
+Seat 6: LeoDaBarr@ ($4.70 in chips) 
+Seat 7: Dorex2007 ($6.49 in chips) 
+Seat 8: ustin72 ($3.57 in chips) 
+Seat 9: jaythh ($4.48 in chips) 
+Kroki66: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 6c]
+henriquefjc: folds 
+motormower: calls $0.05
+LeoDaBarr@: calls $0.05
+Dorex2007: folds 
+ustin72: folds 
+jaythh: folds 
+Kroki66: calls $0.03
+vladimir5421: checks 
+*** FLOP *** [3c 2s Tc]
+Kroki66: checks 
+vladimir5421: checks 
+motormower: checks 
+LeoDaBarr@: checks 
+*** TURN *** [3c 2s Tc] [5h]
+Kroki66: checks 
+vladimir5421: checks 
+motormower: bets $0.15
+LeoDaBarr@: folds 
+Kroki66: folds 
+vladimir5421: folds 
+Uncalled bet ($0.15) returned to motormower
+motormower collected $0.19 from pot
+motormower: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [3c 2s Tc 5h]
+Seat 1: Kroki66 (small blind) folded on the Turn
+Seat 2: vladimir5421 (big blind) folded on the Turn
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower collected ($0.19)
+Seat 6: LeoDaBarr@ folded on the Turn
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: jaythh (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238192482606:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:27:56 PT [2022/08/24 15:27:56 ET]
+Table 'Geminid' 9-max Seat #1 is the button
+Seat 1: Kroki66 ($2.86 in chips) 
+Seat 2: vladimir5421 ($15.03 in chips) 
+Seat 3: henriquefjc ($5.33 in chips) 
+Seat 4: motormower ($8.55 in chips) 
+Seat 6: LeoDaBarr@ ($4.65 in chips) 
+Seat 7: Dorex2007 ($6.49 in chips) 
+Seat 8: ustin72 ($3.57 in chips) 
+Seat 9: jaythh ($4.48 in chips) 
+vladimir5421: posts small blind $0.02
+henriquefjc: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 3c]
+motormower: folds 
+LeoDaBarr@: calls $0.05
+Dorex2007: folds 
+ustin72: folds 
+jaythh: raises $0.05 to $0.10
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: calls $0.05
+LeoDaBarr@: calls $0.05
+*** FLOP *** [5d 8h Tc]
+henriquefjc: checks 
+LeoDaBarr@: bets $0.05
+jaythh: calls $0.05
+henriquefjc: calls $0.05
+*** TURN *** [5d 8h Tc] [Ah]
+henriquefjc: checks 
+LeoDaBarr@: bets $0.25
+jaythh: calls $0.25
+henriquefjc: calls $0.25
+*** RIVER *** [5d 8h Tc Ah] [3h]
+henriquefjc: checks 
+LeoDaBarr@: bets $0.15
+jaythh: calls $0.15
+henriquefjc: folds 
+*** SHOW DOWN ***
+LeoDaBarr@: shows [Ks 3s] (a pair of Threes)
+jaythh: shows [4h Ac] (a pair of Aces)
+jaythh collected $1.46 from pot
+*** SUMMARY ***
+Total pot $1.52 | Rake $0.06 
+Board [5d 8h Tc Ah 3h]
+Seat 1: Kroki66 (button) folded before Flop (didn't bet)
+Seat 2: vladimir5421 (small blind) folded before Flop
+Seat 3: henriquefjc (big blind) folded on the River
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 6: LeoDaBarr@ showed [Ks 3s] and lost with a pair of Threes
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: jaythh showed [4h Ac] and won ($1.46) with a pair of Aces
+
+
+
+PokerStars Hand #238192503109:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:28:48 PT [2022/08/24 15:28:48 ET]
+Table 'Geminid' 9-max Seat #2 is the button
+Seat 1: Kroki66 ($2.86 in chips) 
+Seat 2: vladimir5421 ($15.01 in chips) 
+Seat 3: henriquefjc ($4.93 in chips) 
+Seat 4: motormower ($8.55 in chips) 
+Seat 6: LeoDaBarr@ ($4.10 in chips) 
+Seat 7: Dorex2007 ($6.49 in chips) 
+Seat 8: ustin72 ($3.57 in chips) 
+Seat 9: jaythh ($5.39 in chips) 
+henriquefjc: posts small blind $0.02
+motormower: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 2d]
+LeoDaBarr@: calls $0.05
+Dorex2007: folds 
+ustin72: folds 
+jaythh: raises $0.05 to $0.10
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+LeoDaBarr@: calls $0.05
+*** FLOP *** [9h 4d 4s]
+LeoDaBarr@: bets $0.05
+jaythh: calls $0.05
+*** TURN *** [9h 4d 4s] [6d]
+LeoDaBarr@: bets $0.05
+jaythh: calls $0.05
+*** RIVER *** [9h 4d 4s 6d] [9s]
+LeoDaBarr@: bets $0.05
+jaythh: folds 
+Uncalled bet ($0.05) returned to LeoDaBarr@
+LeoDaBarr@ collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [9h 4d 4s 6d 9s]
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 3: henriquefjc (small blind) folded before Flop
+Seat 4: motormower (big blind) folded before Flop
+Seat 6: LeoDaBarr@ collected ($0.45)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: jaythh folded on the River
+
+
+
+PokerStars Hand #238192515994:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:29:22 PT [2022/08/24 15:29:22 ET]
+Table 'Geminid' 9-max Seat #3 is the button
+Seat 1: Kroki66 ($2.86 in chips) 
+Seat 2: vladimir5421 ($15.01 in chips) 
+Seat 3: henriquefjc ($4.91 in chips) 
+Seat 4: motormower ($8.50 in chips) 
+Seat 6: LeoDaBarr@ ($4.35 in chips) 
+Seat 7: Dorex2007 ($6.49 in chips) 
+Seat 8: ustin72 ($3.57 in chips) 
+Seat 9: jaythh ($5.19 in chips) 
+motormower: posts small blind $0.02
+LeoDaBarr@: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 5h]
+Dorex2007: folds 
+ustin72: raises $0.10 to $0.15
+jaythh: folds 
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: calls $0.15
+motormower: folds 
+LeoDaBarr@: calls $0.10
+*** FLOP *** [2s 8c 4h]
+LeoDaBarr@: bets $0.05
+ustin72: calls $0.05
+henriquefjc: calls $0.05
+*** TURN *** [2s 8c 4h] [4s]
+LeoDaBarr@: bets $0.05
+ustin72: calls $0.05
+henriquefjc: folds 
+*** RIVER *** [2s 8c 4h 4s] [Qd]
+LeoDaBarr@: bets $0.05
+ustin72: calls $0.05
+*** SHOW DOWN ***
+LeoDaBarr@: shows [6c 6d] (two pair, Sixes and Fours)
+ustin72: mucks hand 
+LeoDaBarr@ collected $0.79 from pot
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.03 
+Board [2s 8c 4h 4s Qd]
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc (button) folded on the Turn
+Seat 4: motormower (small blind) folded before Flop
+Seat 6: LeoDaBarr@ (big blind) showed [6c 6d] and won ($0.79) with two pair, Sixes and Fours
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 mucked [Jc Ac]
+Seat 9: jaythh folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238192535538:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:30:11 PT [2022/08/24 15:30:11 ET]
+Table 'Geminid' 9-max Seat #4 is the button
+Seat 1: Kroki66 ($2.86 in chips) 
+Seat 2: vladimir5421 ($15.01 in chips) 
+Seat 3: henriquefjc ($4.71 in chips) 
+Seat 4: motormower ($8.48 in chips) 
+Seat 6: LeoDaBarr@ ($4.84 in chips) 
+Seat 7: Dorex2007 ($6.49 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: jaythh ($5.19 in chips) 
+LeoDaBarr@: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Ts]
+ustin72: raises $0.10 to $0.15
+jaythh: folds 
+Kroki66: calls $0.15
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+LeoDaBarr@: folds 
+Dorex2007: folds 
+*** FLOP *** [6d Jd Td]
+ustin72: bets $0.12
+Kroki66: folds 
+Uncalled bet ($0.12) returned to ustin72
+ustin72 collected $0.35 from pot
+ustin72: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [6d Jd Td]
+Seat 1: Kroki66 folded on the Flop
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower (button) folded before Flop (didn't bet)
+Seat 6: LeoDaBarr@ (small blind) folded before Flop
+Seat 7: Dorex2007 (big blind) folded before Flop
+Seat 8: ustin72 collected ($0.35)
+Seat 9: jaythh folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238192543228:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:30:31 PT [2022/08/24 15:30:31 ET]
+Table 'Geminid' 9-max Seat #6 is the button
+Seat 1: Kroki66 ($2.71 in chips) 
+Seat 2: vladimir5421 ($15.01 in chips) 
+Seat 3: henriquefjc ($4.71 in chips) 
+Seat 4: motormower ($8.48 in chips) 
+Seat 5: Kallem28 ($4.73 in chips) 
+Seat 6: LeoDaBarr@ ($4.82 in chips) 
+Seat 7: Dorex2007 ($6.44 in chips) 
+Seat 8: ustin72 ($3.70 in chips) 
+Seat 9: jaythh ($5.19 in chips) 
+Dorex2007: posts small blind $0.02
+ustin72: posts big blind $0.05
+Kallem28: posts small & big blinds $0.07
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 5d]
+jaythh: folds 
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: raises $0.05 to $0.10
+motormower: folds 
+Kallem28: folds 
+LeoDaBarr@: calls $0.10
+Dorex2007: folds 
+ustin72: folds 
+*** FLOP *** [3c Qd 4s]
+henriquefjc: bets $0.33
+LeoDaBarr@: folds 
+Uncalled bet ($0.33) returned to henriquefjc
+henriquefjc collected $0.33 from pot
+henriquefjc: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [3c Qd 4s]
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc collected ($0.33)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: LeoDaBarr@ (button) folded on the Flop
+Seat 7: Dorex2007 (small blind) folded before Flop
+Seat 8: ustin72 (big blind) folded before Flop
+Seat 9: jaythh folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238192562258:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:31:20 PT [2022/08/24 15:31:20 ET]
+Table 'Geminid' 9-max Seat #7 is the button
+Seat 1: Kroki66 ($2.71 in chips) 
+Seat 2: vladimir5421 ($15.01 in chips) 
+Seat 3: henriquefjc ($4.94 in chips) 
+Seat 4: motormower ($8.48 in chips) 
+Seat 5: Kallem28 ($4.66 in chips) 
+Seat 6: LeoDaBarr@ ($4.72 in chips) 
+Seat 7: Dorex2007 ($6.42 in chips) 
+Seat 8: ustin72 ($3.65 in chips) 
+Seat 9: jaythh ($5.19 in chips) 
+ustin72: posts small blind $0.02
+jaythh: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 4s]
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: calls $0.05
+Kallem28: folds 
+LeoDaBarr@: calls $0.05
+Dorex2007: folds 
+ustin72: folds 
+jaythh: checks 
+*** FLOP *** [5s 5c 5d]
+jaythh: checks 
+motormower: checks 
+LeoDaBarr@: checks 
+*** TURN *** [5s 5c 5d] [7s]
+jaythh: checks 
+motormower: checks 
+LeoDaBarr@: checks 
+*** RIVER *** [5s 5c 5d 7s] [2s]
+jaythh: checks 
+motormower: checks 
+LeoDaBarr@: checks 
+*** SHOW DOWN ***
+jaythh: shows [Kh 6d] (three of a kind, Fives)
+motormower: mucks hand 
+LeoDaBarr@: shows [Qc Kc] (three of a kind, Fives - King+Queen kicker)
+LeoDaBarr@ collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [5s 5c 5d 7s 2s]
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower mucked [Qh 8d]
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: LeoDaBarr@ showed [Qc Kc] and won ($0.16) with three of a kind, Fives
+Seat 7: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 8: ustin72 (small blind) folded before Flop
+Seat 9: jaythh (big blind) showed [Kh 6d] and lost with three of a kind, Fives
+
+
+
+PokerStars Hand #238192576826:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:31:57 PT [2022/08/24 15:31:57 ET]
+Table 'Geminid' 9-max Seat #8 is the button
+Seat 1: Kroki66 ($2.71 in chips) 
+Seat 2: vladimir5421 ($15.01 in chips) 
+Seat 3: henriquefjc ($4.94 in chips) 
+Seat 4: motormower ($8.43 in chips) 
+Seat 5: Kallem28 ($4.66 in chips) 
+Seat 6: LeoDaBarr@ ($4.83 in chips) 
+Seat 7: Dorex2007 ($6.42 in chips) 
+Seat 8: ustin72 ($3.63 in chips) 
+Seat 9: jaythh ($5.14 in chips) 
+jaythh: posts small blind $0.02
+Kroki66: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 6c]
+vladimir5421 has timed out
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: folds 
+Kallem28: folds 
+LeoDaBarr@: calls $0.05
+Dorex2007: folds 
+ustin72: folds 
+jaythh: folds 
+Kroki66: checks 
+*** FLOP *** [7d Tc Ah]
+Kroki66: bets $0.06
+LeoDaBarr@: calls $0.06
+*** TURN *** [7d Tc Ah] [Td]
+Kroki66: bets $0.15
+LeoDaBarr@: folds 
+Uncalled bet ($0.15) returned to Kroki66
+Kroki66 collected $0.23 from pot
+Kroki66: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [7d Tc Ah Td]
+Seat 1: Kroki66 (big blind) collected ($0.23)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: LeoDaBarr@ folded on the Turn
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 (button) folded before Flop (didn't bet)
+Seat 9: jaythh (small blind) folded before Flop
+
+
+
+PokerStars Hand #238192588544:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:32:27 PT [2022/08/24 15:32:27 ET]
+Table 'Geminid' 9-max Seat #9 is the button
+Seat 1: Kroki66 ($2.83 in chips) 
+Seat 2: vladimir5421 ($15.01 in chips) 
+Seat 3: henriquefjc ($4.94 in chips) 
+Seat 4: motormower ($8.43 in chips) 
+Seat 5: Kallem28 ($4.66 in chips) 
+Seat 6: LeoDaBarr@ ($4.72 in chips) 
+Seat 7: Dorex2007 ($6.42 in chips) 
+Seat 8: ustin72 ($3.63 in chips) 
+Seat 9: jaythh ($5.12 in chips) 
+Kroki66: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Ac]
+henriquefjc: folds 
+motormower: calls $0.05
+Kallem28: folds 
+LeoDaBarr@: folds 
+Dorex2007: folds 
+ustin72: raises $0.15 to $0.20
+jaythh: calls $0.20
+Kroki66: folds 
+vladimir5421: folds 
+motormower: calls $0.15
+*** FLOP *** [Kh Kd 2h]
+motormower: checks 
+ustin72: bets $0.22
+jaythh: folds 
+motormower: calls $0.22
+*** TURN *** [Kh Kd 2h] [6h]
+motormower: checks 
+ustin72: checks 
+*** RIVER *** [Kh Kd 2h 6h] [4c]
+motormower: bets $1.06
+ustin72: folds 
+Uncalled bet ($1.06) returned to motormower
+motormower collected $1.06 from pot
+motormower: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.11 | Rake $0.05 
+Board [Kh Kd 2h 6h 4c]
+Seat 1: Kroki66 (small blind) folded before Flop
+Seat 2: vladimir5421 (big blind) folded before Flop
+Seat 3: henriquefjc folded before Flop (didn't bet)
+Seat 4: motormower collected ($1.06)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: LeoDaBarr@ folded before Flop (didn't bet)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded on the River
+Seat 9: jaythh (button) folded on the Flop
+
+
+
+PokerStars Hand #238192608251:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:33:18 PT [2022/08/24 15:33:18 ET]
+Table 'Geminid' 9-max Seat #1 is the button
+Seat 1: Kroki66 ($2.81 in chips) 
+Seat 2: vladimir5421 ($14.96 in chips) 
+Seat 3: henriquefjc ($4.94 in chips) 
+Seat 4: motormower ($9.07 in chips) 
+Seat 5: Kallem28 ($4.66 in chips) 
+Seat 6: LeoDaBarr@ ($4.72 in chips) 
+Seat 7: Dorex2007 ($6.42 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: jaythh ($4.92 in chips) 
+vladimir5421: posts small blind $0.02
+henriquefjc: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 2c]
+motormower: folds 
+Kallem28: folds 
+LeoDaBarr@: calls $0.05
+Dorex2007: folds 
+ustin72: folds 
+jaythh: folds 
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: checks 
+*** FLOP *** [8s 4h 2s]
+henriquefjc: checks 
+LeoDaBarr@: bets $0.05
+henriquefjc: calls $0.05
+*** TURN *** [8s 4h 2s] [Th]
+henriquefjc: checks 
+LeoDaBarr@: bets $0.05
+henriquefjc: raises $0.16 to $0.21
+LeoDaBarr@: calls $0.16
+*** RIVER *** [8s 4h 2s Th] [9c]
+henriquefjc: bets $0.30
+LeoDaBarr@: calls $0.30
+*** SHOW DOWN ***
+henriquefjc: shows [9d As] (a pair of Nines)
+LeoDaBarr@: mucks hand 
+henriquefjc collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.24 | Rake $0.05 
+Board [8s 4h 2s Th 9c]
+Seat 1: Kroki66 (button) folded before Flop (didn't bet)
+Seat 2: vladimir5421 (small blind) folded before Flop
+Seat 3: henriquefjc (big blind) showed [9d As] and won ($1.19) with a pair of Nines
+Seat 4: motormower folded before Flop (didn't bet)
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: LeoDaBarr@ mucked [Jh 4c]
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+Seat 9: jaythh folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238192627357:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:34:07 PT [2022/08/24 15:34:07 ET]
+Table 'Geminid' 9-max Seat #2 is the button
+Seat 1: Kroki66 ($2.81 in chips) 
+Seat 2: vladimir5421 ($14.94 in chips) 
+Seat 3: henriquefjc ($5.52 in chips) 
+Seat 4: motormower ($9.07 in chips) 
+Seat 5: Kallem28 ($4.66 in chips) 
+Seat 6: LeoDaBarr@ ($4.11 in chips) 
+Seat 7: Dorex2007 ($6.42 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+henriquefjc: posts small blind $0.02
+motormower: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 2d]
+jaythh leaves the table
+Kallem28: folds 
+LeoDaBarr@: raises $0.05 to $0.10
+Dorex2007: folds 
+ustin72: folds 
+Kroki66: folds 
+vladimir5421: folds 
+M@verick21 joins the table at seat #9 
+henriquefjc: calls $0.08
+motormower: folds 
+*** FLOP *** [Qd 2c 6c]
+henriquefjc: checks 
+LeoDaBarr@: bets $0.10
+henriquefjc: calls $0.10
+*** TURN *** [Qd 2c 6c] [4c]
+henriquefjc: checks 
+LeoDaBarr@: bets $0.10
+henriquefjc: raises $0.32 to $0.42
+LeoDaBarr@: raises $0.32 to $0.74
+henriquefjc: folds 
+Uncalled bet ($0.32) returned to LeoDaBarr@
+LeoDaBarr@ collected $1.24 from pot
+*** SUMMARY ***
+Total pot $1.29 | Rake $0.05 
+Board [Qd 2c 6c 4c]
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 3: henriquefjc (small blind) folded on the Turn
+Seat 4: motormower (big blind) folded before Flop
+Seat 5: Kallem28 folded before Flop (didn't bet)
+Seat 6: LeoDaBarr@ collected ($1.24)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238192642907:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/24 12:34:46 PT [2022/08/24 15:34:46 ET]
+Table 'Geminid' 9-max Seat #3 is the button
+Seat 1: Kroki66 ($2.81 in chips) 
+Seat 2: vladimir5421 ($14.94 in chips) 
+Seat 3: henriquefjc ($4.90 in chips) 
+Seat 4: motormower ($9.02 in chips) 
+Seat 5: Kallem28 ($4.66 in chips) 
+Seat 6: LeoDaBarr@ ($4.73 in chips) 
+Seat 7: Dorex2007 ($6.42 in chips) 
+Seat 8: ustin72 ($3.50 in chips) 
+Seat 9: M@verick21 ($5 in chips) 
+motormower: posts small blind $0.02
+Kallem28: posts big blind $0.05
+M@verick21: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 6d]
+LeoDaBarr@: calls $0.05
+Dorex2007: folds 
+ustin72: raises $0.21 to $0.26
+M@verick21: folds 
+Kroki66: folds 
+vladimir5421: folds 
+henriquefjc: folds 
+motormower: calls $0.24
+Kallem28: folds 
+LeoDaBarr@: raises $0.21 to $0.47
+ustin72: calls $0.21
+motormower: calls $0.21
+*** FLOP *** [Jh Kh 2c]
+motormower: checks 
+LeoDaBarr@: bets $0.20
+ustin72: calls $0.20
+motormower: folds 
+*** TURN *** [Jh Kh 2c] [4c]
+LeoDaBarr@: bets $0.20
+ustin72: calls $0.20
+*** RIVER *** [Jh Kh 2c 4c] [Jc]
+LeoDaBarr@: bets $0.20
+ustin72: folds 
+Uncalled bet ($0.20) returned to LeoDaBarr@
+LeoDaBarr@ collected $2.21 from pot
+*** SUMMARY ***
+Total pot $2.31 | Rake $0.10 
+Board [Jh Kh 2c 4c Jc]
+Seat 1: Kroki66 folded before Flop (didn't bet)
+Seat 2: vladimir5421 folded before Flop (didn't bet)
+Seat 3: henriquefjc (button) folded before Flop (didn't bet)
+Seat 4: motormower (small blind) folded on the Flop
+Seat 5: Kallem28 (big blind) folded before Flop
+Seat 6: LeoDaBarr@ collected ($2.21)
+Seat 7: Dorex2007 folded before Flop (didn't bet)
+Seat 8: ustin72 folded on the River
+Seat 9: M@verick21 folded before Flop (didn't bet)
+
+
+

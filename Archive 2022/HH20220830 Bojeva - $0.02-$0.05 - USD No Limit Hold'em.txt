@@ -1,0 +1,285 @@
+﻿PokerStars Hand #238310314804:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/30 9:16:26 PT [2022/08/30 12:16:26 ET]
+Table 'Bojeva' 9-max Seat #1 is the button
+Seat 1: webmarrr ($6.33 in chips) 
+Seat 2: BluffOnTable ($5.91 in chips) 
+Seat 3: STM32 ($4.25 in chips) 
+Seat 4: HrompiraT ($5.71 in chips) 
+Seat 5: mirat88 ($4.96 in chips) 
+Seat 6: CasinoReal46 ($3.23 in chips) 
+Seat 7: Xaptal ($5.37 in chips) 
+Seat 8: Al_pkr_plyr ($9.01 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+BluffOnTable: posts small blind $0.02
+STM32: posts big blind $0.05
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Qs]
+HrompiraT: raises $0.10 to $0.15
+mirat88: calls $0.15
+CasinoReal46: folds 
+Xaptal: folds 
+Al_pkr_plyr: calls $0.15
+Dorex2007: folds 
+webmarrr: raises $0.60 to $0.75
+BluffOnTable: folds 
+STM32: folds 
+HrompiraT: raises $0.95 to $1.70
+mirat88: folds 
+Al_pkr_plyr: folds 
+webmarrr: calls $0.95
+*** FLOP *** [2h 7h 5d]
+HrompiraT: bets $1.83
+webmarrr: calls $1.83
+*** TURN *** [2h 7h 5d] [Tc]
+HrompiraT: bets $2.18 and is all-in
+webmarrr: calls $2.18
+*** RIVER *** [2h 7h 5d Tc] [5h]
+*** SHOW DOWN ***
+HrompiraT: shows [Ah As] (two pair, Aces and Fives)
+webmarrr: shows [Kh Kc] (two pair, Kings and Fives)
+HrompiraT collected $11.35 from pot
+*** SUMMARY ***
+Total pot $11.84 | Rake $0.49 
+Board [2h 7h 5d Tc 5h]
+Seat 1: webmarrr (button) showed [Kh Kc] and lost with two pair, Kings and Fives
+Seat 2: BluffOnTable (small blind) folded before Flop
+Seat 3: STM32 (big blind) folded before Flop
+Seat 4: HrompiraT showed [Ah As] and won ($11.35) with two pair, Aces and Fives
+Seat 5: mirat88 folded before Flop
+Seat 6: CasinoReal46 folded before Flop (didn't bet)
+Seat 7: Xaptal folded before Flop (didn't bet)
+Seat 8: Al_pkr_plyr folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238310335089:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/30 9:17:37 PT [2022/08/30 12:17:37 ET]
+Table 'Bojeva' 9-max Seat #2 is the button
+Seat 1: webmarrr ($5 in chips) 
+Seat 2: BluffOnTable ($5.89 in chips) 
+Seat 3: STM32 ($4.20 in chips) 
+Seat 4: HrompiraT ($11.35 in chips) 
+Seat 5: mirat88 ($4.81 in chips) 
+Seat 6: CasinoReal46 ($3.23 in chips) 
+Seat 7: Xaptal ($5.37 in chips) 
+Seat 8: Al_pkr_plyr ($8.86 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+STM32: posts small blind $0.02
+HrompiraT: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Qs]
+mirat88: calls $0.05
+CasinoReal46: folds 
+Xaptal: folds 
+Al_pkr_plyr: folds 
+Dorex2007: folds 
+webmarrr: folds 
+BluffOnTable: folds 
+STM32: calls $0.03
+HrompiraT: checks 
+*** FLOP *** [Qd Th 9s]
+STM32: checks 
+HrompiraT: checks 
+mirat88: checks 
+*** TURN *** [Qd Th 9s] [2h]
+STM32: bets $0.08
+HrompiraT: calls $0.08
+mirat88: calls $0.08
+*** RIVER *** [Qd Th 9s 2h] [Qc]
+STM32: checks 
+HrompiraT: checks 
+mirat88: checks 
+*** SHOW DOWN ***
+STM32: shows [Js 6s] (a pair of Queens)
+HrompiraT: shows [Ts 5h] (two pair, Queens and Tens)
+mirat88: mucks hand 
+HrompiraT collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.02 
+Board [Qd Th 9s 2h Qc]
+Seat 1: webmarrr folded before Flop (didn't bet)
+Seat 2: BluffOnTable (button) folded before Flop (didn't bet)
+Seat 3: STM32 (small blind) showed [Js 6s] and lost with a pair of Queens
+Seat 4: HrompiraT (big blind) showed [Ts 5h] and won ($0.37) with two pair, Queens and Tens
+Seat 5: mirat88 mucked [4h 4c]
+Seat 6: CasinoReal46 folded before Flop (didn't bet)
+Seat 7: Xaptal folded before Flop (didn't bet)
+Seat 8: Al_pkr_plyr folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238310350119:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/30 9:18:30 PT [2022/08/30 12:18:30 ET]
+Table 'Bojeva' 9-max Seat #3 is the button
+Seat 1: webmarrr ($5 in chips) 
+Seat 2: BluffOnTable ($5.89 in chips) 
+Seat 3: STM32 ($4.20 in chips) 
+Seat 4: HrompiraT ($11.59 in chips) 
+Seat 5: mirat88 ($4.68 in chips) 
+Seat 6: CasinoReal46 ($3.23 in chips) 
+Seat 7: Xaptal ($5.37 in chips) 
+Seat 8: Al_pkr_plyr ($8.86 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+HrompiraT: posts small blind $0.02
+mirat88: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 7c]
+CasinoReal46: folds 
+Xaptal: raises $0.10 to $0.15
+Al_pkr_plyr: folds 
+Dorex2007: folds 
+webmarrr: folds 
+BluffOnTable: folds 
+STM32: folds 
+HrompiraT: folds 
+mirat88: folds 
+Uncalled bet ($0.10) returned to Xaptal
+mirat88 leaves the table
+Xaptal collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: webmarrr folded before Flop (didn't bet)
+Seat 2: BluffOnTable folded before Flop (didn't bet)
+Seat 3: STM32 (button) folded before Flop (didn't bet)
+Seat 4: HrompiraT (small blind) folded before Flop
+Seat 5: mirat88 (big blind) folded before Flop
+Seat 6: CasinoReal46 folded before Flop (didn't bet)
+Seat 7: Xaptal collected ($0.12)
+Seat 8: Al_pkr_plyr folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238310355351:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/30 9:18:48 PT [2022/08/30 12:18:48 ET]
+Table 'Bojeva' 9-max Seat #4 is the button
+Seat 1: webmarrr ($5 in chips) 
+Seat 2: BluffOnTable ($5.89 in chips) 
+Seat 3: STM32 ($4.20 in chips) 
+Seat 4: HrompiraT ($11.57 in chips) 
+Seat 6: CasinoReal46 ($3.23 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+CasinoReal46: posts small blind $0.02
+Xaptal: is sitting out 
+Al_pkr_plyr: is sitting out 
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Jh]
+webmarrr: raises $0.15 to $0.20
+BluffOnTable: folds 
+Xaptal leaves the table
+STM32: folds 
+HrompiraT: folds 
+CasinoReal46: folds 
+Dorex2007: folds 
+Uncalled bet ($0.15) returned to webmarrr
+webmarrr collected $0.12 from pot
+webmarrr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: webmarrr collected ($0.12)
+Seat 2: BluffOnTable folded before Flop (didn't bet)
+Seat 3: STM32 folded before Flop (didn't bet)
+Seat 4: HrompiraT (button) folded before Flop (didn't bet)
+Seat 6: CasinoReal46 (small blind) folded before Flop
+Seat 9: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #238310358331:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/30 9:18:59 PT [2022/08/30 12:18:59 ET]
+Table 'Bojeva' 9-max Seat #6 is the button
+Seat 2: BluffOnTable ($5.89 in chips) 
+Seat 3: STM32 ($4.20 in chips) 
+Seat 4: HrompiraT ($11.57 in chips) 
+Seat 6: CasinoReal46 ($3.21 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+Dorex2007: posts small blind $0.02
+webmarrr: is sitting out 
+BluffOnTable: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c As]
+Al_pkr_plyr leaves the table
+STM32: raises $0.10 to $0.15
+HrompiraT: folds 
+CasinoReal46: calls $0.15
+Dorex2007: folds 
+BluffOnTable: folds 
+*** FLOP *** [3s Ts 3d]
+STM32: checks 
+CasinoReal46: checks 
+*** TURN *** [3s Ts 3d] [6h]
+STM32: checks 
+CasinoReal46: checks 
+*** RIVER *** [3s Ts 3d 6h] [2c]
+STM32: checks 
+webmarrr leaves the table
+CasinoReal46: checks 
+*** SHOW DOWN ***
+STM32: shows [Qd 9d] (a pair of Threes)
+CasinoReal46: shows [Ac Jc] (a pair of Threes - Ace kicker)
+CasinoReal46 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [3s Ts 3d 6h 2c]
+Seat 2: BluffOnTable (big blind) folded before Flop
+Seat 3: STM32 showed [Qd 9d] and lost with a pair of Threes
+Seat 4: HrompiraT folded before Flop (didn't bet)
+Seat 6: CasinoReal46 (button) showed [Ac Jc] and won ($0.35) with a pair of Threes
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #238310367866:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/30 9:19:32 PT [2022/08/30 12:19:32 ET]
+Table 'Bojeva' 9-max Seat #9 is the button
+Seat 2: BluffOnTable ($5.84 in chips) 
+Seat 3: STM32 ($4.20 in chips) 
+Seat 4: HrompiraT ($11.57 in chips) 
+Seat 6: CasinoReal46 ($3.41 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+BluffOnTable: posts small blind $0.02
+STM32: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 2h]
+HrompiraT: folds 
+CasinoReal46: folds 
+Dorex2007: folds 
+BluffOnTable: folds 
+Uncalled bet ($0.03) returned to STM32
+STM32 collected $0.04 from pot
+STM32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: BluffOnTable (small blind) folded before Flop
+Seat 3: STM32 (big blind) collected ($0.04)
+Seat 4: HrompiraT folded before Flop (didn't bet)
+Seat 6: CasinoReal46 folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238310371499:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/08/30 9:19:45 PT [2022/08/30 12:19:45 ET]
+Table 'Bojeva' 9-max Seat #2 is the button
+Seat 2: BluffOnTable ($5.82 in chips) 
+Seat 3: STM32 ($4.22 in chips) 
+Seat 6: CasinoReal46 ($3.41 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+STM32: posts small blind $0.02
+HrompiraT: is sitting out 
+CasinoReal46: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Kh]
+Dorex2007: raises $0.10 to $0.15
+BluffOnTable: folds 
+STM32: folds 
+CasinoReal46: folds 
+Uncalled bet ($0.10) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 2: BluffOnTable (button) folded before Flop (didn't bet)
+Seat 3: STM32 (small blind) folded before Flop
+Seat 6: CasinoReal46 (big blind) folded before Flop
+Seat 9: Dorex2007 collected ($0.12)
+
+
+
