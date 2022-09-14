@@ -1,0 +1,4505 @@
+﻿PokerStars Hand #238361587432:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:14:56 PT [2022/09/02 0:14:56 ET]
+Table 'Uppsala' 9-max Seat #1 is the button
+Seat 1: fib5555 ($4.73 in chips) 
+Seat 3: T-Bone881969 ($3.53 in chips) 
+Seat 4: BlackCat0812 ($9.04 in chips) 
+Seat 5: nelsonlav707 ($6.44 in chips) 
+Seat 7: kAuSAL ($5.84 in chips) 
+Seat 8: enixblr ($15.70 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+T-Bone881969: posts small blind $0.02
+BlackCat0812: posts big blind $0.05
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 8s]
+nelsonlav707: folds 
+kAuSAL: folds 
+enixblr: folds 
+Dorex2007: checks 
+fib5555: calls $0.05
+T-Bone881969: calls $0.03
+BlackCat0812: checks 
+*** FLOP *** [2c Qd Kc]
+T-Bone881969: bets $0.15
+BlackCat0812: folds 
+Dorex2007: folds 
+fib5555: folds 
+Uncalled bet ($0.15) returned to T-Bone881969
+T-Bone881969 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2c Qd Kc]
+Seat 1: fib5555 (button) folded on the Flop
+Seat 3: T-Bone881969 (small blind) collected ($0.19)
+Seat 4: BlackCat0812 (big blind) folded on the Flop
+Seat 5: nelsonlav707 folded before Flop (didn't bet)
+Seat 7: kAuSAL folded before Flop (didn't bet)
+Seat 8: enixblr folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded on the Flop (didn't bet)
+
+
+
+PokerStars Hand #238361592451:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:15:35 PT [2022/09/02 0:15:35 ET]
+Table 'Uppsala' 9-max Seat #3 is the button
+Seat 1: fib5555 ($4.95 in chips) 
+Seat 2: J.Peraza24 ($5 in chips) 
+Seat 3: T-Bone881969 ($3.67 in chips) 
+Seat 4: BlackCat0812 ($8.99 in chips) 
+Seat 5: nelsonlav707 ($6.44 in chips) 
+Seat 7: kAuSAL ($5.84 in chips) 
+Seat 8: enixblr ($15.70 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+BlackCat0812: posts small blind $0.02
+nelsonlav707: posts big blind $0.05
+J.Peraza24: posts small blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Tc]
+kAuSAL: folds 
+enixblr: folds 
+Dorex2007: folds 
+fib5555: calls $0.05
+J.Peraza24: calls $0.05
+T-Bone881969: calls $0.05
+BlackCat0812: folds 
+nelsonlav707: checks 
+*** FLOP *** [3s Qs Qh]
+nelsonlav707: checks 
+fib5555: bets $0.23
+J.Peraza24: folds 
+T-Bone881969: calls $0.23
+nelsonlav707: folds 
+*** TURN *** [3s Qs Qh] [Jd]
+fib5555: bets $0.33
+T-Bone881969: calls $0.33
+*** RIVER *** [3s Qs Qh Jd] [Kh]
+fib5555: checks 
+T-Bone881969: checks 
+*** SHOW DOWN ***
+fib5555: shows [8s 8c] (two pair, Queens and Eights)
+T-Bone881969: shows [9s Js] (two pair, Queens and Jacks)
+T-Bone881969 collected $1.30 from pot
+*** SUMMARY ***
+Total pot $1.36 | Rake $0.06 
+Board [3s Qs Qh Jd Kh]
+Seat 1: fib5555 showed [8s 8c] and lost with two pair, Queens and Eights
+Seat 2: J.Peraza24 folded on the Flop
+Seat 3: T-Bone881969 (button) showed [9s Js] and won ($1.30) with two pair, Queens and Jacks
+Seat 4: BlackCat0812 (small blind) folded before Flop
+Seat 5: nelsonlav707 (big blind) folded on the Flop
+Seat 7: kAuSAL folded before Flop (didn't bet)
+Seat 8: enixblr folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361600073:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:16:35 PT [2022/09/02 0:16:35 ET]
+Table 'Uppsala' 9-max Seat #4 is the button
+Seat 1: fib5555 ($4.34 in chips) 
+Seat 2: J.Peraza24 ($4.93 in chips) 
+Seat 3: T-Bone881969 ($4.36 in chips) 
+Seat 4: BlackCat0812 ($8.97 in chips) 
+Seat 5: nelsonlav707 ($6.39 in chips) 
+Seat 7: kAuSAL ($5.84 in chips) 
+Seat 8: enixblr ($15.70 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+nelsonlav707: posts small blind $0.02
+kAuSAL: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Ad]
+enixblr: raises $0.15 to $0.20
+Dorex2007: folds 
+fib5555: calls $0.20
+J.Peraza24: calls $0.20
+T-Bone881969: folds 
+BlackCat0812: folds 
+nelsonlav707: folds 
+kAuSAL: folds 
+*** FLOP *** [4c Qc 2s]
+enixblr: bets $0.20
+fib5555: calls $0.20
+J.Peraza24: calls $0.20
+*** TURN *** [4c Qc 2s] [3d]
+enixblr: checks 
+fib5555: checks 
+J.Peraza24: checks 
+*** RIVER *** [4c Qc 2s 3d] [4s]
+enixblr: bets $0.38
+fib5555: raises $1.29 to $1.67
+J.Peraza24 has timed out
+J.Peraza24: folds 
+enixblr: calls $1.29
+*** SHOW DOWN ***
+fib5555: shows [4d Ah] (three of a kind, Fours)
+enixblr: mucks hand 
+fib5555 collected $4.42 from pot
+*** SUMMARY ***
+Total pot $4.61 | Rake $0.19 
+Board [4c Qc 2s 3d 4s]
+Seat 1: fib5555 showed [4d Ah] and won ($4.42) with three of a kind, Fours
+Seat 2: J.Peraza24 folded on the River
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 (button) folded before Flop (didn't bet)
+Seat 5: nelsonlav707 (small blind) folded before Flop
+Seat 7: kAuSAL (big blind) folded before Flop
+Seat 8: enixblr mucked [Td Ts]
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361618100:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:18:54 PT [2022/09/02 0:18:54 ET]
+Table 'Uppsala' 9-max Seat #5 is the button
+Seat 1: fib5555 ($6.69 in chips) 
+Seat 3: T-Bone881969 ($4.36 in chips) 
+Seat 4: BlackCat0812 ($8.97 in chips) 
+Seat 5: nelsonlav707 ($6.37 in chips) 
+Seat 7: kAuSAL ($5.79 in chips) 
+Seat 8: enixblr ($13.63 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+kAuSAL: posts small blind $0.02
+enixblr: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 7c]
+Dorex2007: folds 
+fib5555: calls $0.05
+T-Bone881969: raises $0.20 to $0.25
+BlackCat0812: folds 
+nelsonlav707: folds 
+kAuSAL: folds 
+enixblr: folds 
+fib5555: calls $0.20
+*** FLOP *** [3d 2h Td]
+fib5555: checks 
+T-Bone881969: bets $0.55
+fib5555: calls $0.55
+*** TURN *** [3d 2h Td] [9h]
+fib5555: checks 
+T-Bone881969: bets $0.80
+fib5555: calls $0.80
+*** RIVER *** [3d 2h Td 9h] [Ac]
+fib5555: bets $5.09 and is all-in
+T-Bone881969: folds 
+Uncalled bet ($5.09) returned to fib5555
+fib5555 collected $3.13 from pot
+fib5555: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.27 | Rake $0.14 
+Board [3d 2h Td 9h Ac]
+Seat 1: fib5555 collected ($3.13)
+Seat 3: T-Bone881969 folded on the River
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: nelsonlav707 (button) folded before Flop (didn't bet)
+Seat 7: kAuSAL (small blind) folded before Flop
+Seat 8: enixblr (big blind) folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361627229:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:20:04 PT [2022/09/02 0:20:04 ET]
+Table 'Uppsala' 9-max Seat #7 is the button
+Seat 1: fib5555 ($8.22 in chips) 
+Seat 3: T-Bone881969 ($2.76 in chips) 
+Seat 4: BlackCat0812 ($8.97 in chips) 
+Seat 5: nelsonlav707 ($6.37 in chips) 
+Seat 6: gio119 ($4 in chips) 
+Seat 7: kAuSAL ($5.77 in chips) 
+Seat 8: enixblr ($13.58 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+enixblr: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+gio119: posts small & big blinds $0.07
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 6h]
+fib5555: calls $0.05
+T-Bone881969: folds 
+BlackCat0812: folds 
+nelsonlav707: folds 
+gio119: checks 
+kAuSAL: folds 
+enixblr: folds 
+Dorex2007: checks 
+*** FLOP *** [5c Qd Ad]
+Dorex2007: checks 
+fib5555: bets $0.10
+gio119: calls $0.10
+Dorex2007: folds 
+*** TURN *** [5c Qd Ad] [Jd]
+fib5555: bets $0.15
+gio119: folds 
+Uncalled bet ($0.15) returned to fib5555
+fib5555 collected $0.37 from pot
+fib5555: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.02 
+Board [5c Qd Ad Jd]
+Seat 1: fib5555 collected ($0.37)
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: nelsonlav707 folded before Flop (didn't bet)
+Seat 6: gio119 folded on the Turn
+Seat 7: kAuSAL (button) folded before Flop (didn't bet)
+Seat 8: enixblr (small blind) folded before Flop
+Seat 9: Dorex2007 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #238361634648:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:21:02 PT [2022/09/02 0:21:02 ET]
+Table 'Uppsala' 9-max Seat #8 is the button
+Seat 1: fib5555 ($8.44 in chips) 
+Seat 3: T-Bone881969 ($2.76 in chips) 
+Seat 4: BlackCat0812 ($8.97 in chips) 
+Seat 5: nelsonlav707 ($6.37 in chips) 
+Seat 6: gio119 ($4 in chips) 
+Seat 7: kAuSAL ($5.77 in chips) 
+Seat 8: enixblr ($13.56 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+Dorex2007: posts small blind $0.02
+fib5555: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 2s]
+T-Bone881969: folds 
+BlackCat0812: folds 
+nelsonlav707: raises $0.20 to $0.25
+gio119: folds 
+kAuSAL: folds 
+enixblr: folds 
+Dorex2007: folds 
+fib5555: folds 
+Uncalled bet ($0.20) returned to nelsonlav707
+nelsonlav707 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: fib5555 (big blind) folded before Flop
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: nelsonlav707 collected ($0.12)
+Seat 6: gio119 folded before Flop (didn't bet)
+Seat 7: kAuSAL folded before Flop (didn't bet)
+Seat 8: enixblr (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #238361638325:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:21:31 PT [2022/09/02 0:21:31 ET]
+Table 'Uppsala' 9-max Seat #9 is the button
+Seat 1: fib5555 ($8.39 in chips) 
+Seat 3: T-Bone881969 ($2.76 in chips) 
+Seat 4: BlackCat0812 ($8.97 in chips) 
+Seat 5: nelsonlav707 ($6.44 in chips) 
+Seat 6: gio119 ($4 in chips) 
+Seat 7: kAuSAL ($5.77 in chips) 
+Seat 8: enixblr ($13.56 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+fib5555: posts small blind $0.02
+T-Bone881969: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 3h]
+BlackCat0812: calls $0.05
+nelsonlav707: folds 
+gio119: folds 
+kAuSAL: folds 
+enixblr: folds 
+Dorex2007: folds 
+fib5555: raises $0.15 to $0.20
+T-Bone881969: calls $0.15
+BlackCat0812: folds 
+*** FLOP *** [Js Qs 3c]
+fib5555: bets $0.25
+T-Bone881969: calls $0.25
+*** TURN *** [Js Qs 3c] [6d]
+fib5555: checks 
+T-Bone881969: checks 
+*** RIVER *** [Js Qs 3c 6d] [Kh]
+fib5555: checks 
+T-Bone881969: checks 
+*** SHOW DOWN ***
+fib5555: shows [Tc Ts] (a pair of Tens)
+T-Bone881969: mucks hand 
+fib5555 collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Js Qs 3c 6d Kh]
+Seat 1: fib5555 (small blind) showed [Tc Ts] and won ($0.91) with a pair of Tens
+Seat 3: T-Bone881969 (big blind) mucked [9s As]
+Seat 4: BlackCat0812 folded before Flop
+Seat 5: nelsonlav707 folded before Flop (didn't bet)
+Seat 6: gio119 folded before Flop (didn't bet)
+Seat 7: kAuSAL folded before Flop (didn't bet)
+Seat 8: enixblr folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361646628:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:22:37 PT [2022/09/02 0:22:37 ET]
+Table 'Uppsala' 9-max Seat #1 is the button
+Seat 1: fib5555 ($8.85 in chips) 
+Seat 3: T-Bone881969 ($2.31 in chips) 
+Seat 4: BlackCat0812 ($8.92 in chips) 
+Seat 5: nelsonlav707 ($6.44 in chips) 
+Seat 6: gio119 ($4 in chips) 
+Seat 7: kAuSAL ($5.77 in chips) 
+Seat 8: enixblr ($13.56 in chips) 
+Seat 9: Dorex2007 ($5 in chips) 
+T-Bone881969: posts small blind $0.02
+BlackCat0812: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Jh]
+nelsonlav707: folds 
+gio119: calls $0.05
+kAuSAL: folds 
+enixblr: folds 
+Dorex2007: raises $0.17 to $0.22
+fib5555: calls $0.22
+T-Bone881969: folds 
+BlackCat0812: folds 
+gio119: calls $0.17
+*** FLOP *** [4h Jc 8s]
+gio119: checks 
+Dorex2007: bets $0.70
+fib5555: folds 
+gio119: folds 
+Uncalled bet ($0.70) returned to Dorex2007
+Dorex2007 collected $0.70 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [4h Jc 8s]
+Seat 1: fib5555 (button) folded on the Flop
+Seat 3: T-Bone881969 (small blind) folded before Flop
+Seat 4: BlackCat0812 (big blind) folded before Flop
+Seat 5: nelsonlav707 folded before Flop (didn't bet)
+Seat 6: gio119 folded on the Flop
+Seat 7: kAuSAL folded before Flop (didn't bet)
+Seat 8: enixblr folded before Flop (didn't bet)
+Seat 9: Dorex2007 collected ($0.70)
+
+
+
+PokerStars Hand #238361654181:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:23:38 PT [2022/09/02 0:23:38 ET]
+Table 'Uppsala' 9-max Seat #3 is the button
+Seat 1: fib5555 ($8.63 in chips) 
+Seat 3: T-Bone881969 ($4.29 in chips) 
+Seat 4: BlackCat0812 ($8.87 in chips) 
+Seat 5: nelsonlav707 ($6.44 in chips) 
+Seat 6: gio119 ($4 in chips) 
+Seat 7: kAuSAL ($5.77 in chips) 
+Seat 8: enixblr ($13.56 in chips) 
+Seat 9: Dorex2007 ($5.48 in chips) 
+BlackCat0812: posts small blind $0.02
+nelsonlav707: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Tc]
+gio119: folds 
+kAuSAL has timed out
+kAuSAL: folds 
+enixblr: folds 
+Dorex2007: raises $0.10 to $0.15
+fib5555: folds 
+kAuSAL is disconnected 
+T-Bone881969: calls $0.15
+BlackCat0812: folds 
+nelsonlav707: folds 
+*** FLOP *** [9h 7d Jc]
+Dorex2007: checks 
+T-Bone881969: checks 
+*** TURN *** [9h 7d Jc] [Kh]
+Dorex2007: checks 
+T-Bone881969: bets $0.20
+Dorex2007: folds 
+Uncalled bet ($0.20) returned to T-Bone881969
+T-Bone881969 collected $0.35 from pot
+T-Bone881969: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [9h 7d Jc Kh]
+Seat 1: fib5555 folded before Flop (didn't bet)
+Seat 3: T-Bone881969 (button) collected ($0.35)
+Seat 4: BlackCat0812 (small blind) folded before Flop
+Seat 5: nelsonlav707 (big blind) folded before Flop
+Seat 6: gio119 folded before Flop (didn't bet)
+Seat 7: kAuSAL folded before Flop (didn't bet)
+Seat 8: enixblr folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded on the Turn
+
+
+
+PokerStars Hand #238361660088:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:24:25 PT [2022/09/02 0:24:25 ET]
+Table 'Uppsala' 9-max Seat #4 is the button
+Seat 1: fib5555 ($8.63 in chips) 
+Seat 3: T-Bone881969 ($4.49 in chips) 
+Seat 4: BlackCat0812 ($8.85 in chips) 
+Seat 5: nelsonlav707 ($6.39 in chips) 
+Seat 6: gio119 ($4 in chips) 
+Seat 7: kAuSAL ($5.77 in chips) 
+Seat 8: enixblr ($13.56 in chips) 
+Seat 9: Dorex2007 ($5.33 in chips) 
+nelsonlav707: posts small blind $0.02
+gio119: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s 5c]
+kAuSAL has timed out while disconnected
+kAuSAL: folds 
+enixblr: folds 
+Dorex2007: folds 
+fib5555: calls $0.05
+T-Bone881969: raises $0.20 to $0.25
+BlackCat0812: folds 
+nelsonlav707: folds 
+gio119: folds 
+fib5555: calls $0.20
+*** FLOP *** [2c Qh 5s]
+fib5555: checks 
+T-Bone881969: bets $0.55
+fib5555: folds 
+Uncalled bet ($0.55) returned to T-Bone881969
+T-Bone881969 collected $0.55 from pot
+T-Bone881969: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [2c Qh 5s]
+Seat 1: fib5555 folded on the Flop
+Seat 3: T-Bone881969 collected ($0.55)
+Seat 4: BlackCat0812 (button) folded before Flop (didn't bet)
+Seat 5: nelsonlav707 (small blind) folded before Flop
+Seat 6: gio119 (big blind) folded before Flop
+Seat 7: kAuSAL folded before Flop (didn't bet)
+Seat 8: enixblr folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361667182:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:25:22 PT [2022/09/02 0:25:22 ET]
+Table 'Uppsala' 9-max Seat #5 is the button
+Seat 1: fib5555 ($8.38 in chips) 
+Seat 3: T-Bone881969 ($4.79 in chips) 
+Seat 4: BlackCat0812 ($8.85 in chips) 
+Seat 5: nelsonlav707 ($6.37 in chips) 
+Seat 6: gio119 ($4 in chips) 
+Seat 8: enixblr ($13.56 in chips) 
+Seat 9: Dorex2007 ($5.33 in chips) 
+gio119: posts small blind $0.02
+enixblr: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 3d]
+Dorex2007: folds 
+fib5555: calls $0.05
+T-Bone881969: folds 
+BlackCat0812: folds 
+nelsonlav707: folds 
+gio119: folds 
+enixblr: checks 
+*** FLOP *** [Kh Ks 6s]
+enixblr: checks 
+fib5555: checks 
+*** TURN *** [Kh Ks 6s] [4h]
+enixblr: bets $0.08
+fib5555: calls $0.08
+*** RIVER *** [Kh Ks 6s 4h] [Ts]
+enixblr: checks 
+fib5555: bets $0.15
+enixblr: folds 
+Uncalled bet ($0.15) returned to fib5555
+fib5555 collected $0.27 from pot
+fib5555: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Kh Ks 6s 4h Ts]
+Seat 1: fib5555 collected ($0.27)
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: nelsonlav707 (button) folded before Flop (didn't bet)
+Seat 6: gio119 (small blind) folded before Flop
+Seat 8: enixblr (big blind) folded on the River
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361676157:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:26:35 PT [2022/09/02 0:26:35 ET]
+Table 'Uppsala' 9-max Seat #6 is the button
+Seat 1: fib5555 ($8.52 in chips) 
+Seat 3: T-Bone881969 ($4.79 in chips) 
+Seat 4: BlackCat0812 ($8.85 in chips) 
+Seat 5: nelsonlav707 ($6.37 in chips) 
+Seat 6: gio119 ($4 in chips) 
+Seat 8: enixblr ($13.43 in chips) 
+Seat 9: Dorex2007 ($5.33 in chips) 
+enixblr: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c 8c]
+fib5555: calls $0.05
+T-Bone881969: folds 
+BlackCat0812: folds 
+nelsonlav707: folds 
+gio119: folds 
+enixblr: folds 
+Dorex2007: checks 
+*** FLOP *** [Jc 8h Kh]
+Dorex2007: checks 
+fib5555: bets $0.06
+Dorex2007: calls $0.06
+*** TURN *** [Jc 8h Kh] [Ts]
+Dorex2007: checks 
+fib5555: checks 
+*** RIVER *** [Jc 8h Kh Ts] [9s]
+Dorex2007: checks 
+fib5555: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [5c 8c] (a pair of Eights)
+fib5555: mucks hand 
+Dorex2007 collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [Jc 8h Kh Ts 9s]
+Seat 1: fib5555 mucked [6c Ah]
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: nelsonlav707 folded before Flop (didn't bet)
+Seat 6: gio119 (button) folded before Flop (didn't bet)
+Seat 8: enixblr (small blind) folded before Flop
+Seat 9: Dorex2007 (big blind) showed [5c 8c] and won ($0.23) with a pair of Eights
+
+
+
+PokerStars Hand #238361683559:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:27:35 PT [2022/09/02 0:27:35 ET]
+Table 'Uppsala' 9-max Seat #8 is the button
+Seat 1: fib5555 ($8.41 in chips) 
+Seat 3: T-Bone881969 ($4.79 in chips) 
+Seat 4: BlackCat0812 ($8.85 in chips) 
+Seat 5: nelsonlav707 ($6.37 in chips) 
+Seat 6: gio119 ($4 in chips) 
+Seat 8: enixblr ($13.41 in chips) 
+Seat 9: Dorex2007 ($5.45 in chips) 
+Dorex2007: posts small blind $0.02
+fib5555: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 4c]
+T-Bone881969: calls $0.05
+BlackCat0812: raises $0.05 to $0.10
+nelsonlav707: folds 
+gio119 has timed out
+gio119: folds 
+enixblr: folds 
+Dorex2007: calls $0.08
+fib5555: calls $0.05
+T-Bone881969: calls $0.05
+*** FLOP *** [6s 2s Jc]
+Dorex2007: checks 
+fib5555: checks 
+T-Bone881969: checks 
+BlackCat0812: bets $0.15
+Dorex2007: folds 
+fib5555: folds 
+T-Bone881969: folds 
+Uncalled bet ($0.15) returned to BlackCat0812
+BlackCat0812 collected $0.38 from pot
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [6s 2s Jc]
+Seat 1: fib5555 (big blind) folded on the Flop
+Seat 3: T-Bone881969 folded on the Flop
+Seat 4: BlackCat0812 collected ($0.38)
+Seat 5: nelsonlav707 folded before Flop (didn't bet)
+Seat 6: gio119 folded before Flop (didn't bet)
+Seat 8: enixblr (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #238361690737:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:28:35 PT [2022/09/02 0:28:35 ET]
+Table 'Uppsala' 9-max Seat #9 is the button
+Seat 1: fib5555 ($8.31 in chips) 
+Seat 3: T-Bone881969 ($4.69 in chips) 
+Seat 4: BlackCat0812 ($9.13 in chips) 
+Seat 5: nelsonlav707 ($6.37 in chips) 
+Seat 8: enixblr ($13.41 in chips) 
+Seat 9: Dorex2007 ($5.35 in chips) 
+fib5555: posts small blind $0.02
+T-Bone881969: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Tc]
+BlackCat0812: folds 
+nelsonlav707: folds 
+enixblr: folds 
+Dorex2007: raises $0.10 to $0.15
+fib5555: calls $0.13
+T-Bone881969: calls $0.10
+*** FLOP *** [3c 5s 5c]
+fib5555: checks 
+T-Bone881969: checks 
+Dorex2007: bets $0.29
+fib5555: folds 
+T-Bone881969: calls $0.29
+*** TURN *** [3c 5s 5c] [6s]
+T-Bone881969: checks 
+Dorex2007: checks 
+*** RIVER *** [3c 5s 5c 6s] [4h]
+T-Bone881969: checks 
+Dorex2007: bets $0.66
+T-Bone881969: folds 
+Uncalled bet ($0.66) returned to Dorex2007
+Dorex2007 collected $0.99 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.03 | Rake $0.04 
+Board [3c 5s 5c 6s 4h]
+Seat 1: fib5555 (small blind) folded on the Flop
+Seat 3: T-Bone881969 (big blind) folded on the River
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: nelsonlav707 folded before Flop (didn't bet)
+Seat 8: enixblr folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) collected ($0.99)
+
+
+
+PokerStars Hand #238361698020:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:29:35 PT [2022/09/02 0:29:35 ET]
+Table 'Uppsala' 9-max Seat #1 is the button
+Seat 1: fib5555 ($8.16 in chips) 
+Seat 3: T-Bone881969 ($4.25 in chips) 
+Seat 4: BlackCat0812 ($9.13 in chips) 
+Seat 5: nelsonlav707 ($6.37 in chips) 
+Seat 8: enixblr ($13.41 in chips) 
+Seat 9: Dorex2007 ($5.90 in chips) 
+T-Bone881969: posts small blind $0.02
+BlackCat0812: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 2d]
+nelsonlav707: folds 
+enixblr: raises $0.07 to $0.12
+Dorex2007: folds 
+fib5555: calls $0.12
+T-Bone881969: calls $0.10
+BlackCat0812: calls $0.07
+*** FLOP *** [8h Ks Qc]
+T-Bone881969: checks 
+BlackCat0812: checks 
+enixblr: checks 
+fib5555: bets $0.25
+T-Bone881969: folds 
+BlackCat0812: folds 
+enixblr: folds 
+Uncalled bet ($0.25) returned to fib5555
+fib5555 collected $0.46 from pot
+fib5555: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [8h Ks Qc]
+Seat 1: fib5555 (button) collected ($0.46)
+Seat 3: T-Bone881969 (small blind) folded on the Flop
+Seat 4: BlackCat0812 (big blind) folded on the Flop
+Seat 5: nelsonlav707 folded before Flop (didn't bet)
+Seat 8: enixblr folded on the Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361704787:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:30:29 PT [2022/09/02 0:30:29 ET]
+Table 'Uppsala' 9-max Seat #3 is the button
+Seat 1: fib5555 ($8.50 in chips) 
+Seat 2: J.Peraza24 ($4.53 in chips) 
+Seat 3: T-Bone881969 ($4.13 in chips) 
+Seat 4: BlackCat0812 ($9.01 in chips) 
+Seat 5: nelsonlav707 ($6.37 in chips) 
+Seat 8: enixblr ($13.29 in chips) 
+Seat 9: Dorex2007 ($5.90 in chips) 
+BlackCat0812: posts small blind $0.02
+nelsonlav707: posts big blind $0.05
+J.Peraza24: posts small & big blinds $0.07
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 2s]
+enixblr: folds 
+Dorex2007: folds 
+fib5555: calls $0.05
+J.Peraza24: checks 
+T-Bone881969: folds 
+BlackCat0812: calls $0.03
+nelsonlav707: checks 
+*** FLOP *** [7c 4h 7h]
+BlackCat0812: checks 
+nelsonlav707: bets $0.15
+fib5555: calls $0.15
+J.Peraza24: calls $0.15
+BlackCat0812: calls $0.15
+*** TURN *** [7c 4h 7h] [Js]
+BlackCat0812: bets $0.39
+nelsonlav707: calls $0.39
+fib5555: calls $0.39
+J.Peraza24: folds 
+*** RIVER *** [7c 4h 7h Js] [9d]
+BlackCat0812: bets $0.95
+nelsonlav707: folds 
+fib5555: calls $0.95
+*** SHOW DOWN ***
+BlackCat0812: shows [7s 8s] (three of a kind, Sevens)
+fib5555: mucks hand 
+BlackCat0812 collected $3.73 from pot
+*** SUMMARY ***
+Total pot $3.89 | Rake $0.16 
+Board [7c 4h 7h Js 9d]
+Seat 1: fib5555 mucked [Qh Qs]
+Seat 2: J.Peraza24 folded on the Turn
+Seat 3: T-Bone881969 (button) folded before Flop (didn't bet)
+Seat 4: BlackCat0812 (small blind) showed [7s 8s] and won ($3.73) with three of a kind, Sevens
+Seat 5: nelsonlav707 (big blind) folded on the River
+Seat 8: enixblr folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361714488:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:31:49 PT [2022/09/02 0:31:49 ET]
+Table 'Uppsala' 9-max Seat #4 is the button
+Seat 1: fib5555 ($6.96 in chips) 
+Seat 2: J.Peraza24 ($4.31 in chips) 
+Seat 3: T-Bone881969 ($4.13 in chips) 
+Seat 4: BlackCat0812 ($11.20 in chips) 
+Seat 5: nelsonlav707 ($5.78 in chips) 
+Seat 8: enixblr ($13.29 in chips) 
+Seat 9: Dorex2007 ($5.90 in chips) 
+nelsonlav707: posts small blind $0.02
+enixblr: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 4s]
+Dorex2007: folds 
+fib5555: calls $0.05
+J.Peraza24: calls $0.05
+T-Bone881969: calls $0.05
+BlackCat0812: folds 
+nelsonlav707: raises $0.20 to $0.25
+enixblr: calls $0.20
+fib5555: folds 
+J.Peraza24: calls $0.20
+T-Bone881969: folds 
+*** FLOP *** [6c 7s Tc]
+nelsonlav707: bets $0.40
+enixblr: folds 
+J.Peraza24: calls $0.40
+*** TURN *** [6c 7s Tc] [Qd]
+nelsonlav707: checks 
+J.Peraza24 has timed out
+J.Peraza24: checks 
+*** RIVER *** [6c 7s Tc Qd] [Ts]
+nelsonlav707: checks 
+J.Peraza24: checks 
+*** SHOW DOWN ***
+nelsonlav707: shows [9d 9c] (two pair, Tens and Nines)
+J.Peraza24: mucks hand 
+nelsonlav707 collected $1.58 from pot
+*** SUMMARY ***
+Total pot $1.65 | Rake $0.07 
+Board [6c 7s Tc Qd Ts]
+Seat 1: fib5555 folded before Flop
+Seat 2: J.Peraza24 mucked [5s 3c]
+Seat 3: T-Bone881969 folded before Flop
+Seat 4: BlackCat0812 (button) folded before Flop (didn't bet)
+Seat 5: nelsonlav707 (small blind) showed [9d 9c] and won ($1.58) with two pair, Tens and Nines
+Seat 8: enixblr (big blind) folded on the Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361725489:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:33:18 PT [2022/09/02 0:33:18 ET]
+Table 'Uppsala' 9-max Seat #5 is the button
+Seat 1: fib5555 ($6.91 in chips) 
+Seat 2: J.Peraza24 ($3.66 in chips) 
+Seat 3: T-Bone881969 ($4.08 in chips) 
+Seat 4: BlackCat0812 ($11.20 in chips) 
+Seat 5: nelsonlav707 ($6.71 in chips) 
+Seat 8: enixblr ($13.04 in chips) 
+Seat 9: Dorex2007 ($5.90 in chips) 
+enixblr: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Qs]
+fib5555: calls $0.05
+J.Peraza24: calls $0.05
+T-Bone881969: folds 
+BlackCat0812: folds 
+nelsonlav707: calls $0.05
+enixblr: folds 
+Dorex2007: checks 
+*** FLOP *** [Tc As 8h]
+Dorex2007: checks 
+fib5555: checks 
+J.Peraza24: checks 
+nelsonlav707: bets $0.20
+Dorex2007: folds 
+kAuSAL leaves the table
+fib5555: calls $0.20
+J.Peraza24: calls $0.20
+*** TURN *** [Tc As 8h] [Jh]
+Xaptal joins the table at seat #7 
+fib5555: checks 
+J.Peraza24: checks 
+nelsonlav707: bets $0.45
+fib5555: calls $0.45
+J.Peraza24: folds 
+*** RIVER *** [Tc As 8h Jh] [7d]
+fib5555: checks 
+nelsonlav707: checks 
+*** SHOW DOWN ***
+fib5555: shows [8s Ac] (two pair, Aces and Eights)
+nelsonlav707: shows [Jc Ad] (two pair, Aces and Jacks)
+nelsonlav707 collected $1.65 from pot
+*** SUMMARY ***
+Total pot $1.72 | Rake $0.07 
+Board [Tc As 8h Jh 7d]
+Seat 1: fib5555 showed [8s Ac] and lost with two pair, Aces and Eights
+Seat 2: J.Peraza24 folded on the Turn
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: nelsonlav707 (button) showed [Jc Ad] and won ($1.65) with two pair, Aces and Jacks
+Seat 8: enixblr (small blind) folded before Flop
+Seat 9: Dorex2007 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #238361737669:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:34:57 PT [2022/09/02 0:34:57 ET]
+Table 'Uppsala' 9-max Seat #8 is the button
+Seat 1: fib5555 ($6.21 in chips) 
+Seat 2: J.Peraza24 ($3.41 in chips) 
+Seat 3: T-Bone881969 ($4.08 in chips) 
+Seat 4: BlackCat0812 ($11.20 in chips) 
+Seat 5: nelsonlav707 ($7.66 in chips) 
+Seat 8: enixblr ($13.02 in chips) 
+Seat 9: Dorex2007 ($5.85 in chips) 
+Dorex2007: posts small blind $0.02
+fib5555: posts big blind $0.05
+Xaptal: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 5h]
+J.Peraza24: calls $0.05
+T-Bone881969: calls $0.05
+BlackCat0812: folds 
+nelsonlav707: folds 
+enixblr: raises $0.40 to $0.45
+Dorex2007: folds 
+fib5555: folds 
+J.Peraza24: calls $0.40
+T-Bone881969: calls $0.40
+*** FLOP *** [Kd Qc 6h]
+J.Peraza24: checks 
+T-Bone881969: checks 
+enixblr: checks 
+*** TURN *** [Kd Qc 6h] [Qs]
+J.Peraza24: checks 
+T-Bone881969: checks 
+enixblr: checks 
+*** RIVER *** [Kd Qc 6h Qs] [6d]
+J.Peraza24 has timed out
+J.Peraza24: checks 
+T-Bone881969: bets $0.25
+enixblr: calls $0.25
+J.Peraza24: calls $0.25
+*** SHOW DOWN ***
+T-Bone881969: shows [Kc Tc] (two pair, Kings and Queens)
+enixblr: mucks hand 
+J.Peraza24: mucks hand 
+T-Bone881969 collected $2.08 from pot
+*** SUMMARY ***
+Total pot $2.17 | Rake $0.09 
+Board [Kd Qc 6h Qs 6d]
+Seat 1: fib5555 (big blind) folded before Flop
+Seat 2: J.Peraza24 mucked [Jh 4h]
+Seat 3: T-Bone881969 showed [Kc Tc] and won ($2.08) with two pair, Kings and Queens
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: nelsonlav707 folded before Flop (didn't bet)
+Seat 8: enixblr (button) mucked [Js Jc]
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #238361750363:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:36:43 PT [2022/09/02 0:36:43 ET]
+Table 'Uppsala' 9-max Seat #9 is the button
+Seat 1: fib5555 ($6.16 in chips) 
+Seat 2: J.Peraza24 ($2.71 in chips) 
+Seat 3: T-Bone881969 ($5.46 in chips) 
+Seat 4: BlackCat0812 ($11.20 in chips) 
+Seat 5: nelsonlav707 ($7.66 in chips) 
+Seat 7: Xaptal ($5 in chips) 
+Seat 8: enixblr ($12.32 in chips) 
+Seat 9: Dorex2007 ($5.83 in chips) 
+fib5555: posts small blind $0.02
+J.Peraza24: posts big blind $0.05
+Xaptal: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 4d]
+T-Bone881969: folds 
+BlackCat0812: folds 
+nelsonlav707: folds 
+Xaptal: checks 
+enixblr: folds 
+Dorex2007: folds 
+fib5555: calls $0.03
+J.Peraza24: checks 
+*** FLOP *** [9h Jh 2c]
+fib5555: checks 
+J.Peraza24: checks 
+Xaptal: checks 
+*** TURN *** [9h Jh 2c] [6h]
+fib5555: bets $0.15
+J.Peraza24: calls $0.15
+Xaptal: folds 
+*** RIVER *** [9h Jh 2c 6h] [5h]
+fib5555: checks 
+J.Peraza24: bets $2.51 and is all-in
+fib5555: folds 
+Uncalled bet ($2.51) returned to J.Peraza24
+J.Peraza24 collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [9h Jh 2c 6h 5h]
+Seat 1: fib5555 (small blind) folded on the River
+Seat 2: J.Peraza24 (big blind) collected ($0.43)
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: nelsonlav707 folded before Flop (didn't bet)
+Seat 7: Xaptal folded on the Turn (didn't bet)
+Seat 8: enixblr folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361760644:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:38:08 PT [2022/09/02 0:38:08 ET]
+Table 'Uppsala' 9-max Seat #1 is the button
+Seat 1: fib5555 ($5.96 in chips) 
+Seat 2: J.Peraza24 ($2.94 in chips) 
+Seat 3: T-Bone881969 ($5.46 in chips) 
+Seat 4: BlackCat0812 ($11.20 in chips) 
+Seat 5: nelsonlav707 ($7.66 in chips) 
+Seat 7: Xaptal ($4.95 in chips) 
+Seat 8: enixblr ($12.32 in chips) 
+Seat 9: Dorex2007 ($5.83 in chips) 
+J.Peraza24: posts small blind $0.02
+T-Bone881969: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Qs]
+BlackCat0812: calls $0.05
+nelsonlav707: folds 
+Xaptal: folds 
+enixblr: folds 
+Dorex2007: raises $0.20 to $0.25
+fib5555: calls $0.25
+J.Peraza24: calls $0.23
+T-Bone881969: folds 
+BlackCat0812: folds 
+*** FLOP *** [4h Kc 7d]
+J.Peraza24: checks 
+Dorex2007: checks 
+fib5555: bets $0.45
+J.Peraza24: calls $0.45
+Dorex2007: folds 
+*** TURN *** [4h Kc 7d] [7h]
+J.Peraza24: checks 
+fib5555: bets $5.26 and is all-in
+J.Peraza24: folds 
+Uncalled bet ($5.26) returned to fib5555
+fib5555 collected $1.68 from pot
+fib5555: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.07 
+Board [4h Kc 7d 7h]
+Seat 1: fib5555 (button) collected ($1.68)
+Seat 2: J.Peraza24 (small blind) folded on the Turn
+Seat 3: T-Bone881969 (big blind) folded before Flop
+Seat 4: BlackCat0812 folded before Flop
+Seat 5: nelsonlav707 folded before Flop (didn't bet)
+Seat 7: Xaptal folded before Flop (didn't bet)
+Seat 8: enixblr folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded on the Flop
+
+
+
+PokerStars Hand #238361772504:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:39:46 PT [2022/09/02 0:39:46 ET]
+Table 'Uppsala' 9-max Seat #2 is the button
+Seat 1: fib5555 ($6.94 in chips) 
+Seat 2: J.Peraza24 ($2.24 in chips) 
+Seat 3: T-Bone881969 ($5.41 in chips) 
+Seat 4: BlackCat0812 ($11.15 in chips) 
+Seat 5: nelsonlav707 ($7.66 in chips) 
+Seat 7: Xaptal ($4.95 in chips) 
+Seat 8: enixblr ($12.32 in chips) 
+Seat 9: Dorex2007 ($5.58 in chips) 
+T-Bone881969: posts small blind $0.02
+BlackCat0812: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 3d]
+nelsonlav707: folds 
+Xaptal: folds 
+enixblr: folds 
+Dorex2007: folds 
+fib5555: calls $0.05
+J.Peraza24 has timed out
+J.Peraza24: folds 
+T-Bone881969: calls $0.03
+BlackCat0812: raises $0.15 to $0.20
+fib5555: calls $0.15
+T-Bone881969: folds 
+*** FLOP *** [9d 5h 4h]
+BlackCat0812: bets $0.43
+fib5555: folds 
+Uncalled bet ($0.43) returned to BlackCat0812
+BlackCat0812 collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [9d 5h 4h]
+Seat 1: fib5555 folded on the Flop
+Seat 2: J.Peraza24 (button) folded before Flop (didn't bet)
+Seat 3: T-Bone881969 (small blind) folded before Flop
+Seat 4: BlackCat0812 (big blind) collected ($0.43)
+Seat 5: nelsonlav707 folded before Flop (didn't bet)
+Seat 7: Xaptal folded before Flop (didn't bet)
+Seat 8: enixblr folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361779065:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:40:42 PT [2022/09/02 0:40:42 ET]
+Table 'Uppsala' 9-max Seat #3 is the button
+Seat 1: fib5555 ($6.74 in chips) 
+Seat 3: T-Bone881969 ($5.36 in chips) 
+Seat 4: BlackCat0812 ($11.38 in chips) 
+Seat 5: nelsonlav707 ($7.66 in chips) 
+Seat 7: Xaptal ($4.95 in chips) 
+Seat 8: enixblr ($12.32 in chips) 
+Seat 9: Dorex2007 ($5.58 in chips) 
+BlackCat0812: posts small blind $0.02
+nelsonlav707: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 8c]
+Xaptal: raises $0.12 to $0.17
+enixblr: folds 
+Dorex2007: folds 
+fib5555: folds 
+T-Bone881969: folds 
+BlackCat0812: folds 
+nelsonlav707: folds 
+Uncalled bet ($0.12) returned to Xaptal
+Xaptal collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: fib5555 folded before Flop (didn't bet)
+Seat 3: T-Bone881969 (button) folded before Flop (didn't bet)
+Seat 4: BlackCat0812 (small blind) folded before Flop
+Seat 5: nelsonlav707 (big blind) folded before Flop
+Seat 7: Xaptal collected ($0.12)
+Seat 8: enixblr folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361780968:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:40:58 PT [2022/09/02 0:40:58 ET]
+Table 'Uppsala' 9-max Seat #4 is the button
+Seat 1: fib5555 ($6.74 in chips) 
+Seat 3: T-Bone881969 ($5.36 in chips) 
+Seat 4: BlackCat0812 ($11.36 in chips) 
+Seat 5: nelsonlav707 ($7.61 in chips) 
+Seat 7: Xaptal ($5.02 in chips) 
+Seat 8: enixblr ($12.32 in chips) 
+Seat 9: Dorex2007 ($5.58 in chips) 
+nelsonlav707: posts small blind $0.02
+Xaptal: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 2d]
+enixblr: folds 
+Dorex2007: folds 
+fib5555: folds 
+T-Bone881969: calls $0.05
+BlackCat0812: calls $0.05
+nelsonlav707: folds 
+Xaptal: checks 
+*** FLOP *** [2h 2s Ks]
+Xaptal: checks 
+T-Bone881969: checks 
+BlackCat0812: checks 
+*** TURN *** [2h 2s Ks] [5d]
+Xaptal: bets $0.16
+T-Bone881969: folds 
+BlackCat0812: folds 
+Uncalled bet ($0.16) returned to Xaptal
+Xaptal collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [2h 2s Ks 5d]
+Seat 1: fib5555 folded before Flop (didn't bet)
+Seat 3: T-Bone881969 folded on the Turn
+Seat 4: BlackCat0812 (button) folded on the Turn
+Seat 5: nelsonlav707 (small blind) folded before Flop
+Seat 7: Xaptal (big blind) collected ($0.16)
+Seat 8: enixblr folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361785033:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:41:32 PT [2022/09/02 0:41:32 ET]
+Table 'Uppsala' 9-max Seat #5 is the button
+Seat 1: fib5555 ($6.74 in chips) 
+Seat 2: J.Peraza24 ($2.24 in chips) 
+Seat 3: T-Bone881969 ($5.31 in chips) 
+Seat 4: BlackCat0812 ($11.31 in chips) 
+Seat 5: nelsonlav707 ($7.59 in chips) 
+Seat 7: Xaptal ($5.13 in chips) 
+Seat 8: enixblr ($12.32 in chips) 
+Seat 9: Dorex2007 ($5.58 in chips) 
+Xaptal: posts small blind $0.02
+enixblr: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s Qs]
+Dorex2007: folds 
+fib5555: folds 
+J.Peraza24: calls $0.05
+T-Bone881969: folds 
+BlackCat0812: calls $0.05
+nelsonlav707: calls $0.05
+Xaptal: calls $0.03
+enixblr: checks 
+*** FLOP *** [Ac 5d 8h]
+Xaptal: checks 
+enixblr: checks 
+J.Peraza24: checks 
+BlackCat0812: bets $0.20
+nelsonlav707: folds 
+Xaptal: folds 
+enixblr: folds 
+J.Peraza24: calls $0.20
+*** TURN *** [Ac 5d 8h] [4s]
+J.Peraza24: checks 
+BlackCat0812: bets $0.62
+J.Peraza24: calls $0.62
+*** RIVER *** [Ac 5d 8h 4s] [9s]
+J.Peraza24: checks 
+BlackCat0812: bets $1.81
+J.Peraza24: folds 
+Uncalled bet ($1.81) returned to BlackCat0812
+BlackCat0812 collected $1.81 from pot
+*** SUMMARY ***
+Total pot $1.89 | Rake $0.08 
+Board [Ac 5d 8h 4s 9s]
+Seat 1: fib5555 folded before Flop (didn't bet)
+Seat 2: J.Peraza24 folded on the River
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 collected ($1.81)
+Seat 5: nelsonlav707 (button) folded on the Flop
+Seat 7: Xaptal (small blind) folded on the Flop
+Seat 8: enixblr (big blind) folded on the Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361792120:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:42:32 PT [2022/09/02 0:42:32 ET]
+Table 'Uppsala' 9-max Seat #7 is the button
+Seat 1: fib5555 ($6.74 in chips) 
+Seat 2: J.Peraza24 ($1.37 in chips) 
+Seat 3: T-Bone881969 ($5.31 in chips) 
+Seat 4: BlackCat0812 ($12.25 in chips) 
+Seat 5: nelsonlav707 ($7.54 in chips) 
+Seat 7: Xaptal ($5.08 in chips) 
+Seat 8: enixblr ($12.27 in chips) 
+Seat 9: Dorex2007 ($5.58 in chips) 
+enixblr: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Jd]
+fib5555: calls $0.05
+J.Peraza24: calls $0.05
+T-Bone881969: folds 
+BlackCat0812: folds 
+nelsonlav707: folds 
+Xaptal: folds 
+enixblr: raises $0.60 to $0.65
+Dorex2007: folds 
+fib5555: folds 
+J.Peraza24: calls $0.60
+*** FLOP *** [4d 6s Ad]
+enixblr: checks 
+J.Peraza24: checks 
+*** TURN *** [4d 6s Ad] [Th]
+enixblr: checks 
+J.Peraza24: checks 
+*** RIVER *** [4d 6s Ad Th] [Qs]
+enixblr: checks 
+J.Peraza24: checks 
+*** SHOW DOWN ***
+enixblr: shows [Kh Qh] (a pair of Queens)
+J.Peraza24: mucks hand 
+enixblr collected $1.34 from pot
+*** SUMMARY ***
+Total pot $1.40 | Rake $0.06 
+Board [4d 6s Ad Th Qs]
+Seat 1: fib5555 folded before Flop
+Seat 2: J.Peraza24 mucked [9h 7d]
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: nelsonlav707 folded before Flop (didn't bet)
+Seat 7: Xaptal (button) folded before Flop (didn't bet)
+Seat 8: enixblr (small blind) showed [Kh Qh] and won ($1.34) with a pair of Queens
+Seat 9: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #238361799163:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:43:32 PT [2022/09/02 0:43:32 ET]
+Table 'Uppsala' 9-max Seat #8 is the button
+Seat 1: fib5555 ($6.69 in chips) 
+Seat 2: J.Peraza24 ($0.72 in chips) 
+Seat 3: T-Bone881969 ($5.31 in chips) 
+Seat 4: BlackCat0812 ($12.25 in chips) 
+Seat 5: nelsonlav707 ($7.54 in chips) 
+Seat 7: Xaptal ($5.08 in chips) 
+Seat 8: enixblr ($12.96 in chips) 
+Seat 9: Dorex2007 ($5.53 in chips) 
+Dorex2007: posts small blind $0.02
+fib5555: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Jh]
+J.Peraza24: calls $0.05
+T-Bone881969: folds 
+BlackCat0812: folds 
+nelsonlav707: folds 
+Xaptal: folds 
+enixblr: folds 
+Dorex2007: folds 
+fib5555: raises $6.64 to $6.69 and is all-in
+J.Peraza24: calls $0.67 and is all-in
+Uncalled bet ($5.97) returned to fib5555
+*** FLOP *** [5h Qd Ah]
+*** TURN *** [5h Qd Ah] [4h]
+*** RIVER *** [5h Qd Ah 4h] [3h]
+*** SHOW DOWN ***
+fib5555: shows [6c 6h] (a flush, Ace high)
+J.Peraza24: shows [Kd Js] (high card Ace)
+fib5555 collected $1.40 from pot
+J.Peraza24 cashed out the hand for $0.64 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $1.46 | Rake $0.06 
+Board [5h Qd Ah 4h 3h]
+Seat 1: fib5555 (big blind) showed [6c 6h] and won ($1.40) with a flush, Ace high
+Seat 2: J.Peraza24 showed [Kd Js] and lost with high card Ace (cashed out).
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: nelsonlav707 folded before Flop (didn't bet)
+Seat 7: Xaptal folded before Flop (didn't bet)
+Seat 8: enixblr (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #238361803888:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:44:12 PT [2022/09/02 0:44:12 ET]
+Table 'Uppsala' 9-max Seat #9 is the button
+Seat 1: fib5555 ($7.37 in chips) 
+Seat 2: J.Peraza24 ($0.64 in chips) 
+Seat 3: T-Bone881969 ($5.31 in chips) 
+Seat 4: BlackCat0812 ($12.25 in chips) 
+Seat 5: nelsonlav707 ($7.54 in chips) 
+Seat 7: Xaptal ($5.08 in chips) 
+Seat 8: enixblr ($12.96 in chips) 
+Seat 9: Dorex2007 ($5.51 in chips) 
+fib5555: posts small blind $0.02
+J.Peraza24: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 5d]
+T-Bone881969: folds 
+BlackCat0812: calls $0.05
+nelsonlav707: calls $0.05
+Xaptal: raises $0.30 to $0.35
+enixblr: folds 
+Dorex2007: folds 
+fib5555: folds 
+J.Peraza24: calls $0.30
+BlackCat0812: folds 
+nelsonlav707: calls $0.30
+*** FLOP *** [3d 2d 3h]
+J.Peraza24: checks 
+nelsonlav707: checks 
+Xaptal: bets $0.70
+J.Peraza24: calls $0.29 and is all-in
+nelsonlav707: folds 
+Uncalled bet ($0.41) returned to Xaptal
+*** TURN *** [3d 2d 3h] [3c]
+*** RIVER *** [3d 2d 3h 3c] [Js]
+*** SHOW DOWN ***
+J.Peraza24: shows [9d 2s] (a full house, Threes full of Deuces)
+Xaptal: shows [Jc Jh] (a full house, Jacks full of Threes)
+Xaptal collected $1.63 from pot
+J.Peraza24 cashed out the hand for $0.20
+*** SUMMARY ***
+Total pot $1.70 | Rake $0.07 
+Board [3d 2d 3h 3c Js]
+Seat 1: fib5555 (small blind) folded before Flop
+Seat 2: J.Peraza24 (big blind) showed [9d 2s] and lost with a full house, Threes full of Deuces (cashed out).
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop
+Seat 5: nelsonlav707 folded on the Flop
+Seat 7: Xaptal showed [Jc Jh] and won ($1.63) with a full house, Jacks full of Threes
+Seat 8: enixblr folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361812560:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:45:26 PT [2022/09/02 0:45:26 ET]
+Table 'Uppsala' 9-max Seat #1 is the button
+Seat 1: fib5555 ($7.35 in chips) 
+Seat 2: J.Peraza24 ($0.20 in chips) 
+Seat 3: T-Bone881969 ($5.31 in chips) 
+Seat 4: BlackCat0812 ($12.20 in chips) 
+Seat 5: nelsonlav707 ($7.19 in chips) 
+Seat 7: Xaptal ($6.07 in chips) 
+Seat 8: enixblr ($12.96 in chips) 
+Seat 9: Dorex2007 ($5.51 in chips) 
+J.Peraza24: posts small blind $0.02
+T-Bone881969: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 4c]
+BlackCat0812: calls $0.05
+nelsonlav707: folds 
+Xaptal: folds 
+enixblr: folds 
+Dorex2007: folds 
+fib5555: raises $0.15 to $0.20
+J.Peraza24: folds 
+T-Bone881969: folds 
+BlackCat0812: folds 
+Uncalled bet ($0.15) returned to fib5555
+fib5555 collected $0.17 from pot
+fib5555: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0 
+Seat 1: fib5555 (button) collected ($0.17)
+Seat 2: J.Peraza24 (small blind) folded before Flop
+Seat 3: T-Bone881969 (big blind) folded before Flop
+Seat 4: BlackCat0812 folded before Flop
+Seat 5: nelsonlav707 folded before Flop (didn't bet)
+Seat 7: Xaptal folded before Flop (didn't bet)
+Seat 8: enixblr folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361816926:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:46:03 PT [2022/09/02 0:46:03 ET]
+Table 'Uppsala' 9-max Seat #2 is the button
+Seat 1: fib5555 ($7.47 in chips) 
+Seat 2: J.Peraza24 ($0.18 in chips) 
+Seat 3: T-Bone881969 ($5.26 in chips) 
+Seat 4: BlackCat0812 ($12.15 in chips) 
+Seat 5: nelsonlav707 ($7.19 in chips) 
+Seat 7: Xaptal ($6.07 in chips) 
+Seat 8: enixblr ($12.96 in chips) 
+Seat 9: Dorex2007 ($5.51 in chips) 
+T-Bone881969: posts small blind $0.02
+BlackCat0812: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Td]
+nelsonlav707: folds 
+Xaptal: folds 
+enixblr: folds 
+Dorex2007: raises $0.05 to $0.10
+fib5555: calls $0.10
+J.Peraza24: calls $0.10
+T-Bone881969: calls $0.08
+BlackCat0812: calls $0.05
+*** FLOP *** [5d Ts 5s]
+T-Bone881969: checks 
+BlackCat0812: bets $0.15
+Dorex2007: raises $0.37 to $0.52
+fib5555: folds 
+J.Peraza24: calls $0.08 and is all-in
+T-Bone881969: folds 
+BlackCat0812: folds 
+Uncalled bet ($0.37) returned to Dorex2007
+*** TURN *** [5d Ts 5s] [Jh]
+*** RIVER *** [5d Ts 5s Jh] [7s]
+*** SHOW DOWN ***
+Dorex2007: shows [Ah Td] (two pair, Tens and Fives)
+Dorex2007 collected $0.13 from side pot
+J.Peraza24: shows [8c 3h] (a pair of Fives)
+Dorex2007 collected $0.71 from main pot
+*** SUMMARY ***
+Total pot $0.88 Main pot $0.71. Side pot $0.13. | Rake $0.04 
+Board [5d Ts 5s Jh 7s]
+Seat 1: fib5555 folded on the Flop
+Seat 2: J.Peraza24 (button) showed [8c 3h] and lost with a pair of Fives
+Seat 3: T-Bone881969 (small blind) folded on the Flop
+Seat 4: BlackCat0812 (big blind) folded on the Flop
+Seat 5: nelsonlav707 folded before Flop (didn't bet)
+Seat 7: Xaptal folded before Flop (didn't bet)
+Seat 8: enixblr folded before Flop (didn't bet)
+Seat 9: Dorex2007 showed [Ah Td] and won ($0.84) with two pair, Tens and Fives
+
+
+
+PokerStars Hand #238361825238:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:47:14 PT [2022/09/02 0:47:14 ET]
+Table 'Uppsala' 9-max Seat #3 is the button
+Seat 1: fib5555 ($7.37 in chips) 
+Seat 3: T-Bone881969 ($5.16 in chips) 
+Seat 4: BlackCat0812 ($11.90 in chips) 
+Seat 5: nelsonlav707 ($7.19 in chips) 
+Seat 8: enixblr ($12.96 in chips) 
+Seat 9: Dorex2007 ($6.10 in chips) 
+BlackCat0812: posts small blind $0.02
+nelsonlav707: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h Jc]
+enixblr: folds 
+Dorex2007: folds 
+fib5555: folds 
+T-Bone881969: folds 
+BlackCat0812: calls $0.03
+nelsonlav707: checks 
+*** FLOP *** [As 4c Js]
+BlackCat0812: checks 
+nelsonlav707: checks 
+*** TURN *** [As 4c Js] [9c]
+BlackCat0812: bets $0.15
+nelsonlav707: raises $0.15 to $0.30
+BlackCat0812: calls $0.15
+*** RIVER *** [As 4c Js 9c] [7s]
+BlackCat0812: checks 
+nelsonlav707: checks 
+*** SHOW DOWN ***
+BlackCat0812: shows [Kc 5c] (high card Ace)
+nelsonlav707: shows [Ac 5d] (a pair of Aces)
+nelsonlav707 collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [As 4c Js 9c 7s]
+Seat 1: fib5555 folded before Flop (didn't bet)
+Seat 3: T-Bone881969 (button) folded before Flop (didn't bet)
+Seat 4: BlackCat0812 (small blind) showed [Kc 5c] and lost with high card Ace
+Seat 5: nelsonlav707 (big blind) showed [Ac 5d] and won ($0.67) with a pair of Aces
+Seat 8: enixblr folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361830402:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:47:57 PT [2022/09/02 0:47:57 ET]
+Table 'Uppsala' 9-max Seat #4 is the button
+Seat 1: fib5555 ($7.37 in chips) 
+Seat 2: J.Peraza24 ($2.65 in chips) 
+Seat 3: T-Bone881969 ($5.16 in chips) 
+Seat 4: BlackCat0812 ($11.55 in chips) 
+Seat 5: nelsonlav707 ($7.51 in chips) 
+Seat 8: enixblr ($12.96 in chips) 
+Seat 9: Dorex2007 ($6.10 in chips) 
+nelsonlav707: posts small blind $0.02
+enixblr: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd Ks]
+Dorex2007: folds 
+fib5555: folds 
+J.Peraza24: calls $0.05
+T-Bone881969: calls $0.05
+BlackCat0812: folds 
+nelsonlav707: calls $0.03
+enixblr: raises $0.70 to $0.75
+J.Peraza24: calls $0.70
+T-Bone881969: folds 
+nelsonlav707: folds 
+*** FLOP *** [6c 7s Qs]
+enixblr: bets $12.21 and is all-in
+J.Peraza24: folds 
+Uncalled bet ($12.21) returned to enixblr
+enixblr collected $1.53 from pot
+enixblr: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.07 
+Board [6c 7s Qs]
+Seat 1: fib5555 folded before Flop (didn't bet)
+Seat 2: J.Peraza24 folded on the Flop
+Seat 3: T-Bone881969 folded before Flop
+Seat 4: BlackCat0812 (button) folded before Flop (didn't bet)
+Seat 5: nelsonlav707 (small blind) folded before Flop
+Seat 8: enixblr (big blind) collected ($1.53)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361835686:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:48:42 PT [2022/09/02 0:48:42 ET]
+Table 'Uppsala' 9-max Seat #5 is the button
+Seat 1: fib5555 ($7.37 in chips) 
+Seat 2: J.Peraza24 ($1.90 in chips) 
+Seat 3: T-Bone881969 ($5.11 in chips) 
+Seat 4: BlackCat0812 ($11.55 in chips) 
+Seat 5: nelsonlav707 ($7.46 in chips) 
+Seat 9: Dorex2007 ($6.10 in chips) 
+Dorex2007: posts small blind $0.02
+fib5555: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Qh]
+J.Peraza24: calls $0.05
+T-Bone881969: folds 
+BlackCat0812: calls $0.05
+nelsonlav707: folds 
+Dorex2007: folds 
+fib5555: checks 
+*** FLOP *** [Ks 6h Qc]
+fib5555: checks 
+J.Peraza24: checks 
+BlackCat0812: checks 
+*** TURN *** [Ks 6h Qc] [Ad]
+fib5555: checks 
+J.Peraza24: checks 
+BlackCat0812: bets $0.10
+fib5555: folds 
+J.Peraza24: calls $0.10
+*** RIVER *** [Ks 6h Qc Ad] [7h]
+J.Peraza24: checks 
+BlackCat0812: checks 
+*** SHOW DOWN ***
+J.Peraza24: shows [5d 7s] (a pair of Sevens)
+BlackCat0812: shows [9h Ac] (a pair of Aces)
+BlackCat0812 collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [Ks 6h Qc Ad 7h]
+Seat 1: fib5555 (big blind) folded on the Turn
+Seat 2: J.Peraza24 showed [5d 7s] and lost with a pair of Sevens
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 showed [9h Ac] and won ($0.35) with a pair of Aces
+Seat 5: nelsonlav707 (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #238361844310:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:49:55 PT [2022/09/02 0:49:55 ET]
+Table 'Uppsala' 9-max Seat #9 is the button
+Seat 1: fib5555 ($7.32 in chips) 
+Seat 2: J.Peraza24 ($1.75 in chips) 
+Seat 3: T-Bone881969 ($5.11 in chips) 
+Seat 4: BlackCat0812 ($11.75 in chips) 
+Seat 5: nelsonlav707 ($7.46 in chips) 
+Seat 9: Dorex2007 ($6.08 in chips) 
+fib5555: posts small blind $0.02
+J.Peraza24: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd Jh]
+T-Bone881969: folds 
+BlackCat0812: folds 
+nelsonlav707: folds 
+enixblr joins the table at seat #8 
+Dorex2007: raises $0.10 to $0.15
+fib5555: calls $0.13
+J.Peraza24: calls $0.10
+*** FLOP *** [7c Qs 7s]
+fib5555: checks 
+J.Peraza24: checks 
+Dorex2007: checks 
+*** TURN *** [7c Qs 7s] [3s]
+fib5555: checks 
+J.Peraza24: bets $0.21
+Dorex2007: folds 
+fib5555: folds 
+Uncalled bet ($0.21) returned to J.Peraza24
+J.Peraza24 collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [7c Qs 7s 3s]
+Seat 1: fib5555 (small blind) folded on the Turn
+Seat 2: J.Peraza24 (big blind) collected ($0.43)
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: nelsonlav707 folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded on the Turn
+
+
+
+PokerStars Hand #238361852202:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:51:02 PT [2022/09/02 0:51:02 ET]
+Table 'Uppsala' 9-max Seat #1 is the button
+Seat 1: fib5555 ($7.17 in chips) 
+Seat 2: J.Peraza24 ($2.03 in chips) 
+Seat 3: T-Bone881969 ($5.11 in chips) 
+Seat 4: BlackCat0812 ($11.75 in chips) 
+Seat 5: nelsonlav707 ($7.46 in chips) 
+Seat 9: Dorex2007 ($5.93 in chips) 
+J.Peraza24: posts small blind $0.02
+T-Bone881969: posts big blind $0.05
+enixblr: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 6d]
+BlackCat0812: folds 
+nelsonlav707: folds 
+Dorex2007: folds 
+fib5555: calls $0.05
+J.Peraza24: calls $0.03
+T-Bone881969: raises $0.30 to $0.35
+fib5555: calls $0.30
+J.Peraza24: calls $0.30
+*** FLOP *** [7s 5h Ts]
+J.Peraza24: checks 
+T-Bone881969: bets $0.50
+fib5555: calls $0.50
+J.Peraza24: calls $0.50
+*** TURN *** [7s 5h Ts] [6c]
+J.Peraza24: checks 
+T-Bone881969: checks 
+fib5555: checks 
+*** RIVER *** [7s 5h Ts 6c] [2s]
+J.Peraza24: checks 
+T-Bone881969: checks 
+fib5555: bets $6.32 and is all-in
+J.Peraza24: folds 
+T-Bone881969: folds 
+Uncalled bet ($6.32) returned to fib5555
+fib5555 collected $2.44 from pot
+fib5555: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.55 | Rake $0.11 
+Board [7s 5h Ts 6c 2s]
+Seat 1: fib5555 (button) collected ($2.44)
+Seat 2: J.Peraza24 (small blind) folded on the River
+Seat 3: T-Bone881969 (big blind) folded on the River
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: nelsonlav707 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361861615:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:52:22 PT [2022/09/02 0:52:22 ET]
+Table 'Uppsala' 9-max Seat #2 is the button
+Seat 1: fib5555 ($8.76 in chips) 
+Seat 2: J.Peraza24 ($1.18 in chips) 
+Seat 3: T-Bone881969 ($4.26 in chips) 
+Seat 4: BlackCat0812 ($11.75 in chips) 
+Seat 5: nelsonlav707 ($7.46 in chips) 
+Seat 9: Dorex2007 ($5.93 in chips) 
+T-Bone881969: posts small blind $0.02
+BlackCat0812: posts big blind $0.05
+Xaptal: sits out 
+enixblr: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 4s]
+nelsonlav707: calls $0.05
+Dorex2007: folds 
+fib5555: folds 
+J.Peraza24: calls $0.05
+T-Bone881969: folds 
+BlackCat0812: checks 
+*** FLOP *** [Tc 2h 7c]
+BlackCat0812: checks 
+nelsonlav707: bets $0.15
+J.Peraza24: calls $0.15
+BlackCat0812: folds 
+*** TURN *** [Tc 2h 7c] [Ks]
+nelsonlav707: checks 
+J.Peraza24: checks 
+*** RIVER *** [Tc 2h 7c Ks] [6h]
+nelsonlav707: bets $0.30
+J.Peraza24: folds 
+Uncalled bet ($0.30) returned to nelsonlav707
+nelsonlav707 collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [Tc 2h 7c Ks 6h]
+Seat 1: fib5555 folded before Flop (didn't bet)
+Seat 2: J.Peraza24 (button) folded on the River
+Seat 3: T-Bone881969 (small blind) folded before Flop
+Seat 4: BlackCat0812 (big blind) folded on the Flop
+Seat 5: nelsonlav707 collected ($0.45)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361866586:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:53:04 PT [2022/09/02 0:53:04 ET]
+Table 'Uppsala' 9-max Seat #3 is the button
+Seat 1: fib5555 ($8.76 in chips) 
+Seat 2: J.Peraza24 ($0.98 in chips) 
+Seat 3: T-Bone881969 ($4.24 in chips) 
+Seat 4: BlackCat0812 ($11.70 in chips) 
+Seat 5: nelsonlav707 ($7.71 in chips) 
+Seat 9: Dorex2007 ($5.93 in chips) 
+BlackCat0812: posts small blind $0.02
+nelsonlav707: posts big blind $0.05
+Xaptal: sits out 
+enixblr: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 7h]
+Dorex2007: folds 
+fib5555: folds 
+J.Peraza24: calls $0.05
+T-Bone881969: folds 
+BlackCat0812: calls $0.03
+nelsonlav707: checks 
+*** FLOP *** [Ad 4c 9c]
+BlackCat0812: bets $0.10
+nelsonlav707: folds 
+nelsonlav707 leaves the table
+J.Peraza24: calls $0.10
+*** TURN *** [Ad 4c 9c] [Kc]
+BlackCat0812: bets $0.34
+J.Peraza24: folds 
+Uncalled bet ($0.34) returned to BlackCat0812
+BlackCat0812 collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [Ad 4c 9c Kc]
+Seat 1: fib5555 folded before Flop (didn't bet)
+Seat 2: J.Peraza24 folded on the Turn
+Seat 3: T-Bone881969 (button) folded before Flop (didn't bet)
+Seat 4: BlackCat0812 (small blind) collected ($0.34)
+Seat 5: nelsonlav707 (big blind) folded on the Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361872936:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:53:58 PT [2022/09/02 0:53:58 ET]
+Table 'Uppsala' 9-max Seat #4 is the button
+Seat 1: fib5555 ($8.76 in chips) 
+Seat 2: J.Peraza24 ($0.83 in chips) 
+Seat 3: T-Bone881969 ($4.24 in chips) 
+Seat 4: BlackCat0812 ($11.89 in chips) 
+Seat 9: Dorex2007 ($5.93 in chips) 
+Dorex2007: posts small blind $0.02
+fib5555: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 3c]
+J.Peraza24: calls $0.05
+T-Bone881969: folds 
+BlackCat0812: folds 
+Dorex2007: folds 
+fib5555: checks 
+*** FLOP *** [8c Ad Jc]
+fib5555: bets $0.12
+J.Peraza24: calls $0.12
+*** TURN *** [8c Ad Jc] [6c]
+fib5555: bets $8.59 and is all-in
+J.Peraza24: folds 
+Uncalled bet ($8.59) returned to fib5555
+fib5555 collected $0.35 from pot
+fib5555: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.36 | Rake $0.01 
+Board [8c Ad Jc 6c]
+Seat 1: fib5555 (big blind) collected ($0.35)
+Seat 2: J.Peraza24 folded on the Turn
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #238361876931:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:54:33 PT [2022/09/02 0:54:33 ET]
+Table 'Uppsala' 9-max Seat #9 is the button
+Seat 1: fib5555 ($8.94 in chips) 
+Seat 2: J.Peraza24 ($0.66 in chips) 
+Seat 3: T-Bone881969 ($4.24 in chips) 
+Seat 4: BlackCat0812 ($11.89 in chips) 
+Seat 9: Dorex2007 ($5.91 in chips) 
+fib5555: posts small blind $0.02
+J.Peraza24: posts big blind $0.05
+Xaptal: sits out 
+enixblr: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Qs]
+T-Bone881969: folds 
+BlackCat0812: folds 
+Dorex2007: folds 
+fib5555: calls $0.03
+J.Peraza24: checks 
+*** FLOP *** [Js 9s 8c]
+fib5555: checks 
+J.Peraza24: checks 
+*** TURN *** [Js 9s 8c] [7c]
+fib5555: checks 
+J.Peraza24 has timed out
+J.Peraza24: checks 
+*** RIVER *** [Js 9s 8c 7c] [8d]
+leopoker1 joins the table at seat #5 
+fib5555: bets $0.05
+J.Peraza24: folds 
+Uncalled bet ($0.05) returned to fib5555
+fib5555 collected $0.10 from pot
+fib5555: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Js 9s 8c 7c 8d]
+Seat 1: fib5555 (small blind) collected ($0.10)
+Seat 2: J.Peraza24 (big blind) folded on the River
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361882982:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:55:28 PT [2022/09/02 0:55:28 ET]
+Table 'Uppsala' 9-max Seat #1 is the button
+Seat 1: fib5555 ($8.99 in chips) 
+Seat 2: J.Peraza24 ($0.61 in chips) 
+Seat 3: T-Bone881969 ($4.24 in chips) 
+Seat 4: BlackCat0812 ($11.89 in chips) 
+Seat 9: Dorex2007 ($5.91 in chips) 
+J.Peraza24: posts small blind $0.02
+T-Bone881969: posts big blind $0.05
+leopoker1: sits out 
+Xaptal: sits out 
+enixblr: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 3d]
+BlackCat0812: folds 
+Dorex2007: folds 
+fib5555: calls $0.05
+J.Peraza24: calls $0.03
+T-Bone881969: checks 
+*** FLOP *** [4d 7d 3s]
+J.Peraza24 has timed out
+J.Peraza24: checks 
+T-Bone881969: checks 
+fib5555: bets $0.15
+J.Peraza24 has timed out
+J.Peraza24: folds 
+T-Bone881969: calls $0.15
+*** TURN *** [4d 7d 3s] [Kc]
+T-Bone881969: checks 
+fib5555: checks 
+*** RIVER *** [4d 7d 3s Kc] [9d]
+T-Bone881969: checks 
+fib5555: checks 
+*** SHOW DOWN ***
+T-Bone881969: shows [Qs Ks] (a pair of Kings)
+fib5555: mucks hand 
+T-Bone881969 collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [4d 7d 3s Kc 9d]
+Seat 1: fib5555 (button) mucked [Tc 7s]
+Seat 2: J.Peraza24 (small blind) folded on the Flop
+Seat 3: T-Bone881969 (big blind) showed [Qs Ks] and won ($0.43) with a pair of Kings
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361892116:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:56:57 PT [2022/09/02 0:56:57 ET]
+Table 'Uppsala' 9-max Seat #3 is the button
+Seat 1: fib5555 ($8.79 in chips) 
+Seat 3: T-Bone881969 ($4.47 in chips) 
+Seat 4: BlackCat0812 ($11.89 in chips) 
+Seat 5: leopoker1 ($5 in chips) 
+Seat 9: Dorex2007 ($5.91 in chips) 
+BlackCat0812: posts small blind $0.02
+leopoker1: posts big blind $0.05
+Xaptal: sits out 
+enixblr: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 9d]
+Dorex2007: folds 
+fib5555: calls $0.05
+T-Bone881969: calls $0.05
+BlackCat0812: calls $0.03
+leopoker1: checks 
+*** FLOP *** [Kd 4c Js]
+BlackCat0812: checks 
+leopoker1: bets $0.09
+fib5555: folds 
+T-Bone881969: folds 
+gio119 is disconnected 
+BlackCat0812: folds 
+Uncalled bet ($0.09) returned to leopoker1
+leopoker1 collected $0.19 from pot
+leopoker1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Kd 4c Js]
+Seat 1: fib5555 folded on the Flop
+Seat 3: T-Bone881969 (button) folded on the Flop
+Seat 4: BlackCat0812 (small blind) folded on the Flop
+Seat 5: leopoker1 (big blind) collected ($0.19)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361898520:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:58:00 PT [2022/09/02 0:58:00 ET]
+Table 'Uppsala' 9-max Seat #4 is the button
+Seat 1: fib5555 ($8.74 in chips) 
+Seat 2: J.Peraza24 ($0.56 in chips) 
+Seat 3: T-Bone881969 ($4.42 in chips) 
+Seat 4: BlackCat0812 ($11.84 in chips) 
+Seat 5: leopoker1 ($5.14 in chips) 
+Seat 7: Xaptal ($6.07 in chips) 
+Seat 9: Dorex2007 ($5.91 in chips) 
+leopoker1: posts small blind $0.02
+Xaptal: posts big blind $0.05
+enixblr: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 5c]
+Dorex2007: folds 
+fib5555: calls $0.05
+J.Peraza24: calls $0.05
+T-Bone881969: calls $0.05
+BlackCat0812: calls $0.05
+leopoker1: calls $0.03
+Xaptal: checks 
+*** FLOP *** [As 7h 2d]
+leopoker1: checks 
+Xaptal: checks 
+fib5555: checks 
+J.Peraza24: checks 
+T-Bone881969: checks 
+BlackCat0812: checks 
+*** TURN *** [As 7h 2d] [9c]
+leopoker1: checks 
+Xaptal: checks 
+fib5555: bets $0.15
+J.Peraza24: folds 
+T-Bone881969: folds 
+BlackCat0812: folds 
+leopoker1: folds 
+Xaptal: folds 
+Uncalled bet ($0.15) returned to fib5555
+fib5555 collected $0.29 from pot
+gio119 leaves the table
+fib5555: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [As 7h 2d 9c]
+Seat 1: fib5555 collected ($0.29)
+Seat 2: J.Peraza24 folded on the Turn
+Seat 3: T-Bone881969 folded on the Turn
+Seat 4: BlackCat0812 (button) folded on the Turn
+Seat 5: leopoker1 (small blind) folded on the Turn
+Seat 7: Xaptal (big blind) folded on the Turn
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361903424:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:58:47 PT [2022/09/02 0:58:47 ET]
+Table 'Uppsala' 9-max Seat #5 is the button
+Seat 1: fib5555 ($8.98 in chips) 
+Seat 2: J.Peraza24 ($0.51 in chips) 
+Seat 3: T-Bone881969 ($4.37 in chips) 
+Seat 4: BlackCat0812 ($11.79 in chips) 
+Seat 5: leopoker1 ($5.09 in chips) 
+Seat 7: Xaptal ($6.02 in chips) 
+Seat 8: enixblr ($13.74 in chips) 
+Seat 9: Dorex2007 ($5.91 in chips) 
+Xaptal: posts small blind $0.02
+enixblr: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 6h]
+Dorex2007: folds 
+fib5555: folds 
+J.Peraza24 has timed out
+J.Peraza24: folds 
+T-Bone881969: folds 
+BlackCat0812: folds 
+leopoker1: folds 
+Xaptal: folds 
+Uncalled bet ($0.03) returned to enixblr
+enixblr collected $0.04 from pot
+enixblr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: fib5555 folded before Flop (didn't bet)
+Seat 2: J.Peraza24 folded before Flop (didn't bet)
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: leopoker1 (button) folded before Flop (didn't bet)
+Seat 7: Xaptal (small blind) folded before Flop
+Seat 8: enixblr (big blind) collected ($0.04)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361906435:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 21:59:17 PT [2022/09/02 0:59:17 ET]
+Table 'Uppsala' 9-max Seat #7 is the button
+Seat 1: fib5555 ($8.98 in chips) 
+Seat 3: T-Bone881969 ($4.37 in chips) 
+Seat 4: BlackCat0812 ($11.79 in chips) 
+Seat 5: leopoker1 ($5.09 in chips) 
+Seat 7: Xaptal ($6 in chips) 
+Seat 8: enixblr ($13.76 in chips) 
+Seat 9: Dorex2007 ($5.91 in chips) 
+enixblr: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Jh]
+fib5555: calls $0.05
+T-Bone881969: calls $0.05
+BlackCat0812: calls $0.05
+leopoker1: folds 
+Xaptal: raises $0.27 to $0.32
+enixblr: folds 
+Dorex2007: folds 
+fib5555: calls $0.27
+T-Bone881969: calls $0.27
+BlackCat0812: folds 
+*** FLOP *** [9d 9c 5h]
+fib5555: checks 
+T-Bone881969: checks 
+Xaptal: bets $0.70
+fib5555: folds 
+T-Bone881969: folds 
+Uncalled bet ($0.70) returned to Xaptal
+Xaptal collected $1.04 from pot
+*** SUMMARY ***
+Total pot $1.08 | Rake $0.04 
+Board [9d 9c 5h]
+Seat 1: fib5555 folded on the Flop
+Seat 3: T-Bone881969 folded on the Flop
+Seat 4: BlackCat0812 folded before Flop
+Seat 5: leopoker1 folded before Flop (didn't bet)
+Seat 7: Xaptal (button) collected ($1.04)
+Seat 8: enixblr (small blind) folded before Flop
+Seat 9: Dorex2007 (big blind) folded before Flop
+
+
+
+PokerStars Hand #238361913817:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:00:27 PT [2022/09/02 1:00:27 ET]
+Table 'Uppsala' 9-max Seat #8 is the button
+Seat 1: fib5555 ($8.66 in chips) 
+Seat 2: J.Peraza24 ($0.51 in chips) 
+Seat 3: T-Bone881969 ($4.05 in chips) 
+Seat 4: BlackCat0812 ($11.74 in chips) 
+Seat 5: leopoker1 ($5.09 in chips) 
+Seat 7: Xaptal ($6.72 in chips) 
+Seat 8: enixblr ($13.74 in chips) 
+Seat 9: Dorex2007 ($5.86 in chips) 
+Dorex2007: posts small blind $0.02
+fib5555: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d Ad]
+J.Peraza24: calls $0.05
+T-Bone881969: folds 
+BlackCat0812: folds 
+leopoker1: folds 
+Xaptal: folds 
+enixblr: folds 
+Dorex2007: calls $0.03
+fib5555: checks 
+*** FLOP *** [Jd Tc Jh]
+Dorex2007: checks 
+fib5555: checks 
+J.Peraza24: checks 
+*** TURN *** [Jd Tc Jh] [2s]
+Dorex2007: checks 
+mafiaalan10 joins the table at seat #6 
+fib5555: bets $0.15
+J.Peraza24: folds 
+Dorex2007: folds 
+Uncalled bet ($0.15) returned to fib5555
+fib5555 collected $0.14 from pot
+fib5555: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Jd Tc Jh 2s]
+Seat 1: fib5555 (big blind) collected ($0.14)
+Seat 2: J.Peraza24 folded on the Turn
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: leopoker1 folded before Flop (didn't bet)
+Seat 7: Xaptal folded before Flop (didn't bet)
+Seat 8: enixblr (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #238361919262:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:01:16 PT [2022/09/02 1:01:16 ET]
+Table 'Uppsala' 9-max Seat #9 is the button
+Seat 1: fib5555 ($8.75 in chips) 
+Seat 2: J.Peraza24 ($0.46 in chips) 
+Seat 3: T-Bone881969 ($4.05 in chips) 
+Seat 4: BlackCat0812 ($11.74 in chips) 
+Seat 5: leopoker1 ($5.09 in chips) 
+Seat 6: mafiaalan10 ($3.49 in chips) 
+Seat 7: Xaptal ($6.72 in chips) 
+Seat 8: enixblr ($13.74 in chips) 
+Seat 9: Dorex2007 ($5.81 in chips) 
+fib5555: posts small blind $0.02
+J.Peraza24: posts big blind $0.05
+mafiaalan10: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh Qc]
+T-Bone881969: calls $0.05
+BlackCat0812: calls $0.05
+leopoker1: calls $0.05
+mafiaalan10 is connected 
+mafiaalan10: checks 
+Xaptal: folds 
+enixblr: folds 
+Dorex2007: calls $0.05
+fib5555: calls $0.03
+J.Peraza24: checks 
+*** FLOP *** [8d 4c 8s]
+fib5555: checks 
+J.Peraza24: bets $0.17
+T-Bone881969: calls $0.17
+BlackCat0812: calls $0.17
+leopoker1: folds 
+mafiaalan10 is connected 
+mafiaalan10: folds 
+Dorex2007: folds 
+fib5555: folds 
+*** TURN *** [8d 4c 8s] [7c]
+J.Peraza24: bets $0.24 and is all-in
+T-Bone881969: calls $0.24
+BlackCat0812: calls $0.24
+*** RIVER *** [8d 4c 8s 7c] [3s]
+T-Bone881969: checks 
+BlackCat0812: checks 
+*** SHOW DOWN ***
+J.Peraza24: shows [6h 6s] (two pair, Eights and Sixes)
+T-Bone881969: mucks hand 
+BlackCat0812: shows [Ks Kd] (two pair, Kings and Eights)
+BlackCat0812 collected $1.51 from pot
+*** SUMMARY ***
+Total pot $1.58 | Rake $0.07 
+Board [8d 4c 8s 7c 3s]
+Seat 1: fib5555 (small blind) folded on the Flop
+Seat 2: J.Peraza24 (big blind) showed [6h 6s] and lost with two pair, Eights and Sixes
+Seat 3: T-Bone881969 mucked [Kc Jc]
+Seat 4: BlackCat0812 showed [Ks Kd] and won ($1.51) with two pair, Kings and Eights
+Seat 5: leopoker1 folded on the Flop
+Seat 6: mafiaalan10 folded on the Flop (didn't bet)
+Seat 7: Xaptal folded before Flop (didn't bet)
+Seat 8: enixblr folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded on the Flop
+
+
+
+PokerStars Hand #238361930033:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:02:50 PT [2022/09/02 1:02:50 ET]
+Table 'Uppsala' 9-max Seat #1 is the button
+Seat 1: fib5555 ($8.70 in chips) 
+Seat 3: T-Bone881969 ($3.59 in chips) 
+Seat 4: BlackCat0812 ($12.79 in chips) 
+Seat 5: leopoker1 ($5.04 in chips) 
+Seat 6: mafiaalan10 ($3.44 in chips) 
+Seat 7: Xaptal ($6.72 in chips) 
+Seat 8: enixblr ($13.74 in chips) 
+Seat 9: Dorex2007 ($5.76 in chips) 
+T-Bone881969: posts small blind $0.02
+BlackCat0812: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Jc]
+J.Peraza24 leaves the table
+leopoker1 has timed out
+leopoker1: folds 
+mafiaalan10: folds 
+Xaptal: raises $0.12 to $0.17
+enixblr has timed out
+enixblr: folds 
+Dorex2007: folds 
+fib5555: folds 
+T-Bone881969: folds 
+BlackCat0812: folds 
+Uncalled bet ($0.12) returned to Xaptal
+Xaptal collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: fib5555 (button) folded before Flop (didn't bet)
+Seat 3: T-Bone881969 (small blind) folded before Flop
+Seat 4: BlackCat0812 (big blind) folded before Flop
+Seat 5: leopoker1 folded before Flop (didn't bet)
+Seat 6: mafiaalan10 folded before Flop (didn't bet)
+Seat 7: Xaptal collected ($0.12)
+Seat 8: enixblr folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361934092:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:03:26 PT [2022/09/02 1:03:26 ET]
+Table 'Uppsala' 9-max Seat #3 is the button
+Seat 1: fib5555 ($8.70 in chips) 
+Seat 3: T-Bone881969 ($3.57 in chips) 
+Seat 4: BlackCat0812 ($12.74 in chips) 
+Seat 5: leopoker1 ($5.04 in chips) 
+Seat 6: mafiaalan10 ($3.44 in chips) 
+Seat 7: Xaptal ($6.79 in chips) 
+Seat 9: Dorex2007 ($5.76 in chips) 
+BlackCat0812: posts small blind $0.02
+leopoker1: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc Ks]
+mafiaalan10: raises $0.10 to $0.15
+Xaptal: folds 
+Dorex2007: folds 
+fib5555: folds 
+NoName35387 joins the table at seat #2 
+T-Bone881969: raises $3.42 to $3.57 and is all-in
+BlackCat0812: folds 
+leopoker1: folds 
+mafiaalan10: folds 
+Uncalled bet ($3.42) returned to T-Bone881969
+T-Bone881969 collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0 
+Seat 1: fib5555 folded before Flop (didn't bet)
+Seat 3: T-Bone881969 (button) collected ($0.37)
+Seat 4: BlackCat0812 (small blind) folded before Flop
+Seat 5: leopoker1 (big blind) folded before Flop
+Seat 6: mafiaalan10 folded before Flop
+Seat 7: Xaptal folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361935977:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:03:43 PT [2022/09/02 1:03:43 ET]
+Table 'Uppsala' 9-max Seat #4 is the button
+Seat 1: fib5555 ($8.70 in chips) 
+Seat 3: T-Bone881969 ($3.79 in chips) 
+Seat 4: BlackCat0812 ($12.72 in chips) 
+Seat 5: leopoker1 ($5 in chips) 
+Seat 6: mafiaalan10 ($3.29 in chips) 
+Seat 7: Xaptal ($6.79 in chips) 
+Seat 9: Dorex2007 ($5.76 in chips) 
+leopoker1: posts small blind $0.02
+mafiaalan10: posts big blind $0.05
+NoName35387: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks 6d]
+Xaptal: folds 
+Dorex2007: folds 
+fib5555: folds 
+T-Bone881969: folds 
+BlackCat0812: calls $0.05
+leopoker1: folds 
+mafiaalan10: raises $0.10 to $0.15
+Xaptal leaves the table
+enixblr leaves the table
+BlackCat0812: calls $0.10
+*** FLOP *** [7c 9s 9d]
+mafiaalan10: checks 
+BlackCat0812: bets $0.10
+mafiaalan10: calls $0.10
+*** TURN *** [7c 9s 9d] [3c]
+mafiaalan10: checks 
+BlackCat0812: bets $0.50
+mafiaalan10: folds 
+Uncalled bet ($0.50) returned to BlackCat0812
+BlackCat0812 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [7c 9s 9d 3c]
+Seat 1: fib5555 folded before Flop (didn't bet)
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 (button) collected ($0.50)
+Seat 5: leopoker1 (small blind) folded before Flop
+Seat 6: mafiaalan10 (big blind) folded on the Turn
+Seat 7: Xaptal folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361942077:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:04:37 PT [2022/09/02 1:04:37 ET]
+Table 'Uppsala' 9-max Seat #5 is the button
+Seat 1: fib5555 ($8.70 in chips) 
+Seat 2: NoName35387 ($5 in chips) 
+Seat 3: T-Bone881969 ($3.79 in chips) 
+Seat 4: BlackCat0812 ($12.97 in chips) 
+Seat 5: leopoker1 ($5 in chips) 
+Seat 6: mafiaalan10 ($3.04 in chips) 
+Seat 9: Dorex2007 ($5.76 in chips) 
+mafiaalan10: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+NoName35387: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s Jd]
+fib5555: calls $0.05
+NoName35387: checks 
+T-Bone881969: folds 
+BlackCat0812: folds 
+leopoker1 has timed out
+leopoker1: folds 
+mafiaalan10: calls $0.03
+Dorex2007: checks 
+*** FLOP *** [2c Ks 3d]
+mafiaalan10: checks 
+Dorex2007: checks 
+fib5555: checks 
+NoName35387: checks 
+*** TURN *** [2c Ks 3d] [Ad]
+mafiaalan10: checks 
+Dorex2007: checks 
+fib5555: checks 
+NoName35387: checks 
+*** RIVER *** [2c Ks 3d Ad] [5h]
+mafiaalan10: checks 
+Dorex2007: checks 
+fib5555: checks 
+NoName35387: bets $0.10
+mafiaalan10: folds 
+Dorex2007: folds 
+fib5555: folds 
+Uncalled bet ($0.10) returned to NoName35387
+NoName35387 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2c Ks 3d Ad 5h]
+Seat 1: fib5555 folded on the River
+Seat 2: NoName35387 collected ($0.19)
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: leopoker1 (button) folded before Flop (didn't bet)
+Seat 6: mafiaalan10 (small blind) folded on the River
+Seat 9: Dorex2007 (big blind) folded on the River
+
+
+
+PokerStars Hand #238361951430:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:06:00 PT [2022/09/02 1:06:00 ET]
+Table 'Uppsala' 9-max Seat #6 is the button
+Seat 1: fib5555 ($8.65 in chips) 
+Seat 2: NoName35387 ($5.14 in chips) 
+Seat 3: T-Bone881969 ($3.79 in chips) 
+Seat 4: BlackCat0812 ($12.97 in chips) 
+Seat 5: leopoker1 ($5 in chips) 
+Seat 6: mafiaalan10 ($2.99 in chips) 
+Seat 9: Dorex2007 ($5.71 in chips) 
+Dorex2007: posts small blind $0.02
+fib5555: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 8d]
+NoName35387: folds 
+CPS2017 joins the table at seat #7 
+T-Bone881969: calls $0.05
+BlackCat0812: folds 
+RedDragon310 joins the table at seat #8 
+leopoker1: folds 
+mafiaalan10: folds 
+Dorex2007: folds 
+fib5555: raises $0.10 to $0.15
+T-Bone881969: calls $0.10
+*** FLOP *** [5s 8s 7d]
+fib5555: bets $0.20
+T-Bone881969: calls $0.20
+*** TURN *** [5s 8s 7d] [6s]
+fib5555: checks 
+T-Bone881969: bets $0.80
+fib5555: calls $0.80
+*** RIVER *** [5s 8s 7d 6s] [7h]
+fib5555: checks 
+T-Bone881969: checks 
+*** SHOW DOWN ***
+fib5555: shows [Tc Ts] (two pair, Tens and Sevens)
+T-Bone881969: shows [9d Th] (a straight, Six to Ten)
+T-Bone881969 collected $2.22 from pot
+*** SUMMARY ***
+Total pot $2.32 | Rake $0.10 
+Board [5s 8s 7d 6s 7h]
+Seat 1: fib5555 (big blind) showed [Tc Ts] and lost with two pair, Tens and Sevens
+Seat 2: NoName35387 folded before Flop (didn't bet)
+Seat 3: T-Bone881969 showed [9d Th] and won ($2.22) with a straight, Six to Ten
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: leopoker1 folded before Flop (didn't bet)
+Seat 6: mafiaalan10 (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #238361958371:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:07:02 PT [2022/09/02 1:07:02 ET]
+Table 'Uppsala' 9-max Seat #9 is the button
+Seat 1: fib5555 ($7.50 in chips) 
+Seat 2: NoName35387 ($5.14 in chips) 
+Seat 3: T-Bone881969 ($4.86 in chips) 
+Seat 4: BlackCat0812 ($12.97 in chips) 
+Seat 5: leopoker1 ($5 in chips) 
+Seat 6: mafiaalan10 ($2.99 in chips) 
+Seat 7: CPS2017 ($5 in chips) 
+Seat 9: Dorex2007 ($5.69 in chips) 
+fib5555: posts small blind $0.02
+NoName35387: posts big blind $0.05
+CPS2017: posts big blind $0.05
+RedDragon310: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 7c]
+T-Bone881969: folds 
+BlackCat0812: calls $0.05
+leopoker1: folds 
+mafiaalan10: folds 
+CPS2017: checks 
+Dorex2007: folds 
+fib5555: raises $0.15 to $0.20
+NoName35387: calls $0.15
+BlackCat0812: folds 
+CPS2017: folds 
+*** FLOP *** [9d 6d 3h]
+fib5555: checks 
+NoName35387: bets $0.15
+fib5555: calls $0.15
+*** TURN *** [9d 6d 3h] [Jd]
+fib5555: checks 
+NoName35387: checks 
+*** RIVER *** [9d 6d 3h Jd] [Ad]
+fib5555: checks 
+NoName35387: bets $0.38
+fib5555: calls $0.38
+*** SHOW DOWN ***
+NoName35387: shows [8d 7d] (a flush, Ace high)
+fib5555: mucks hand 
+NoName35387 collected $1.50 from pot
+*** SUMMARY ***
+Total pot $1.56 | Rake $0.06 
+Board [9d 6d 3h Jd Ad]
+Seat 1: fib5555 (small blind) mucked [Qs Ac]
+Seat 2: NoName35387 (big blind) showed [8d 7d] and won ($1.50) with a flush, Ace high
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop
+Seat 5: leopoker1 folded before Flop (didn't bet)
+Seat 6: mafiaalan10 folded before Flop (didn't bet)
+Seat 7: CPS2017 folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361968926:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:08:36 PT [2022/09/02 1:08:36 ET]
+Table 'Uppsala' 9-max Seat #1 is the button
+Seat 1: fib5555 ($6.77 in chips) 
+Seat 2: NoName35387 ($5.91 in chips) 
+Seat 3: T-Bone881969 ($4.86 in chips) 
+Seat 4: BlackCat0812 ($12.92 in chips) 
+Seat 5: leopoker1 ($5 in chips) 
+Seat 6: mafiaalan10 ($2.99 in chips) 
+Seat 7: CPS2017 ($4.95 in chips) 
+Seat 9: Dorex2007 ($5.69 in chips) 
+NoName35387: posts small blind $0.02
+T-Bone881969: posts big blind $0.05
+RedDragon310: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 6c]
+BlackCat0812: folds 
+leopoker1: raises $0.10 to $0.15
+mafiaalan10: calls $0.15
+CPS2017: folds 
+Dorex2007: folds 
+fib5555: folds 
+NoName35387: calls $0.13
+T-Bone881969: folds 
+*** FLOP *** [Ah 6h Qd]
+NoName35387: bets $0.15
+leopoker1: raises $0.30 to $0.45
+mafiaalan10: folds 
+NoName35387: folds 
+Uncalled bet ($0.30) returned to leopoker1
+leopoker1 collected $0.77 from pot
+leopoker1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.03 
+Board [Ah 6h Qd]
+Seat 1: fib5555 (button) folded before Flop (didn't bet)
+Seat 2: NoName35387 (small blind) folded on the Flop
+Seat 3: T-Bone881969 (big blind) folded before Flop
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: leopoker1 collected ($0.77)
+Seat 6: mafiaalan10 folded on the Flop
+Seat 7: CPS2017 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361977556:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:09:52 PT [2022/09/02 1:09:52 ET]
+Table 'Uppsala' 9-max Seat #2 is the button
+Seat 1: fib5555 ($6.77 in chips) 
+Seat 2: NoName35387 ($5.61 in chips) 
+Seat 3: T-Bone881969 ($4.81 in chips) 
+Seat 4: BlackCat0812 ($12.92 in chips) 
+Seat 5: leopoker1 ($5.47 in chips) 
+Seat 6: mafiaalan10 ($2.84 in chips) 
+Seat 7: CPS2017 ($4.95 in chips) 
+Seat 9: Dorex2007 ($5.69 in chips) 
+T-Bone881969: posts small blind $0.02
+BlackCat0812: posts big blind $0.05
+RedDragon310: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 3c]
+leopoker1: raises $0.05 to $0.10
+mafiaalan10: folds 
+CPS2017: folds 
+Dorex2007: folds 
+fib5555: folds 
+NoName35387: folds 
+T-Bone881969: calls $0.08
+BlackCat0812: calls $0.05
+*** FLOP *** [7h Qd Kc]
+T-Bone881969: checks 
+BlackCat0812: checks 
+leopoker1: bets $0.15
+T-Bone881969: calls $0.15
+BlackCat0812: folds 
+*** TURN *** [7h Qd Kc] [Th]
+T-Bone881969: checks 
+leopoker1: checks 
+*** RIVER *** [7h Qd Kc Th] [Qc]
+T-Bone881969: checks 
+leopoker1: checks 
+*** SHOW DOWN ***
+T-Bone881969: shows [9c Tc] (two pair, Queens and Tens)
+leopoker1: mucks hand 
+T-Bone881969 collected $0.58 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [7h Qd Kc Th Qc]
+Seat 1: fib5555 folded before Flop (didn't bet)
+Seat 2: NoName35387 (button) folded before Flop (didn't bet)
+Seat 3: T-Bone881969 (small blind) showed [9c Tc] and won ($0.58) with two pair, Queens and Tens
+Seat 4: BlackCat0812 (big blind) folded on the Flop
+Seat 5: leopoker1 mucked [7c 6c]
+Seat 6: mafiaalan10 folded before Flop (didn't bet)
+Seat 7: CPS2017 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361984555:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:10:53 PT [2022/09/02 1:10:53 ET]
+Table 'Uppsala' 9-max Seat #3 is the button
+Seat 1: fib5555 ($6.77 in chips) 
+Seat 2: NoName35387 ($5.61 in chips) 
+Seat 3: T-Bone881969 ($5.14 in chips) 
+Seat 4: BlackCat0812 ($12.82 in chips) 
+Seat 5: leopoker1 ($5.22 in chips) 
+Seat 6: mafiaalan10 ($2.84 in chips) 
+Seat 7: CPS2017 ($4.95 in chips) 
+Seat 9: Dorex2007 ($5.69 in chips) 
+BlackCat0812: posts small blind $0.02
+leopoker1: posts big blind $0.05
+RedDragon310: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 8h]
+mafiaalan10: folds 
+CPS2017: folds 
+Dorex2007: folds 
+fib5555: folds 
+NoName35387: folds 
+T-Bone881969: folds 
+BlackCat0812: calls $0.03
+leopoker1: checks 
+*** FLOP *** [3h Th 5s]
+BlackCat0812: checks 
+leopoker1: checks 
+*** TURN *** [3h Th 5s] [7d]
+BlackCat0812: checks 
+leopoker1: checks 
+*** RIVER *** [3h Th 5s 7d] [Kd]
+BlackCat0812: checks 
+leopoker1: bets $0.10
+BlackCat0812: calls $0.10
+*** SHOW DOWN ***
+leopoker1: shows [Kh 2s] (a pair of Kings)
+BlackCat0812: shows [8s Ks] (a pair of Kings - Ten+Eight kicker)
+BlackCat0812 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [3h Th 5s 7d Kd]
+Seat 1: fib5555 folded before Flop (didn't bet)
+Seat 2: NoName35387 folded before Flop (didn't bet)
+Seat 3: T-Bone881969 (button) folded before Flop (didn't bet)
+Seat 4: BlackCat0812 (small blind) showed [8s Ks] and won ($0.29) with a pair of Kings
+Seat 5: leopoker1 (big blind) showed [Kh 2s] and lost with a pair of Kings
+Seat 6: mafiaalan10 folded before Flop (didn't bet)
+Seat 7: CPS2017 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238361995545:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:12:30 PT [2022/09/02 1:12:30 ET]
+Table 'Uppsala' 9-max Seat #4 is the button
+Seat 1: fib5555 ($6.77 in chips) 
+Seat 2: NoName35387 ($5.61 in chips) 
+Seat 3: T-Bone881969 ($5.14 in chips) 
+Seat 4: BlackCat0812 ($12.96 in chips) 
+Seat 5: leopoker1 ($5.07 in chips) 
+Seat 6: mafiaalan10 ($2.84 in chips) 
+Seat 7: CPS2017 ($4.95 in chips) 
+Seat 9: Dorex2007 ($5.69 in chips) 
+leopoker1: posts small blind $0.02
+mafiaalan10: posts big blind $0.05
+RedDragon310: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h Ah]
+CPS2017: folds 
+Dorex2007: folds 
+fib5555: calls $0.05
+NoName35387: folds 
+T-Bone881969: folds 
+BlackCat0812: folds 
+leopoker1: folds 
+mafiaalan10: checks 
+*** FLOP *** [4s Js Jd]
+mafiaalan10: bets $0.05
+fib5555: calls $0.05
+*** TURN *** [4s Js Jd] [8h]
+mafiaalan10: bets $0.10
+fib5555: calls $0.10
+*** RIVER *** [4s Js Jd 8h] [7s]
+mafiaalan10: checks 
+fib5555: bets $0.25
+mafiaalan10: folds 
+Uncalled bet ($0.25) returned to fib5555
+fib5555 collected $0.40 from pot
+fib5555: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.02 
+Board [4s Js Jd 8h 7s]
+Seat 1: fib5555 collected ($0.40)
+Seat 2: NoName35387 folded before Flop (didn't bet)
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 (button) folded before Flop (didn't bet)
+Seat 5: leopoker1 (small blind) folded before Flop
+Seat 6: mafiaalan10 (big blind) folded on the River
+Seat 7: CPS2017 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362000298:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:13:12 PT [2022/09/02 1:13:12 ET]
+Table 'Uppsala' 9-max Seat #5 is the button
+Seat 1: fib5555 ($6.97 in chips) 
+Seat 2: NoName35387 ($5.61 in chips) 
+Seat 3: T-Bone881969 ($5.14 in chips) 
+Seat 4: BlackCat0812 ($12.96 in chips) 
+Seat 5: leopoker1 ($5.05 in chips) 
+Seat 6: mafiaalan10 ($2.64 in chips) 
+Seat 7: CPS2017 ($4.95 in chips) 
+Seat 9: Dorex2007 ($5.69 in chips) 
+mafiaalan10: posts small blind $0.02
+CPS2017: posts big blind $0.05
+RedDragon310: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td Jd]
+Dorex2007: folds 
+fib5555: calls $0.05
+NoName35387: calls $0.05
+T-Bone881969: folds 
+BlackCat0812: folds 
+leopoker1: folds 
+mafiaalan10: raises $0.05 to $0.10
+CPS2017: folds 
+fib5555: calls $0.05
+NoName35387: calls $0.05
+*** FLOP *** [Qh Ac 3s]
+mafiaalan10: bets $0.15
+fib5555: calls $0.15
+NoName35387: folds 
+*** TURN *** [Qh Ac 3s] [Kh]
+mafiaalan10: checks 
+fib5555: bets $0.25
+mafiaalan10: calls $0.25
+*** RIVER *** [Qh Ac 3s Kh] [Tc]
+mafiaalan10: checks 
+fib5555: bets $0.45
+mafiaalan10: folds 
+Uncalled bet ($0.45) returned to fib5555
+fib5555 collected $1.10 from pot
+fib5555: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [Qh Ac 3s Kh Tc]
+Seat 1: fib5555 collected ($1.10)
+Seat 2: NoName35387 folded on the Flop
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: leopoker1 (button) folded before Flop (didn't bet)
+Seat 6: mafiaalan10 (small blind) folded on the River
+Seat 7: CPS2017 (big blind) folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362009863:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:14:37 PT [2022/09/02 1:14:37 ET]
+Table 'Uppsala' 9-max Seat #6 is the button
+Seat 1: fib5555 ($7.57 in chips) 
+Seat 2: NoName35387 ($5.51 in chips) 
+Seat 3: T-Bone881969 ($5.14 in chips) 
+Seat 4: BlackCat0812 ($12.96 in chips) 
+Seat 5: leopoker1 ($5.05 in chips) 
+Seat 6: mafiaalan10 ($2.14 in chips) 
+Seat 7: CPS2017 ($4.90 in chips) 
+Seat 8: RedDragon310 ($2 in chips) 
+Seat 9: Dorex2007 ($5.69 in chips) 
+CPS2017: posts small blind $0.02
+RedDragon310: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 9c]
+Dorex2007: folds 
+fib5555: folds 
+NoName35387: raises $0.15 to $0.20
+T-Bone881969: folds 
+BlackCat0812: folds 
+leopoker1: raises $0.50 to $0.70
+mafiaalan10: folds 
+CPS2017: folds 
+RedDragon310: folds 
+NoName35387: calls $0.50
+*** FLOP *** [4s Jd 3c]
+NoName35387: checks 
+leopoker1: bets $0.83
+NoName35387: calls $0.83
+*** TURN *** [4s Jd 3c] [5s]
+NoName35387: checks 
+leopoker1: bets $3.52 and is all-in
+NoName35387: folds 
+Uncalled bet ($3.52) returned to leopoker1
+leopoker1 collected $3 from pot
+leopoker1: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.13 | Rake $0.13 
+Board [4s Jd 3c 5s]
+Seat 1: fib5555 folded before Flop (didn't bet)
+Seat 2: NoName35387 folded on the Turn
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: leopoker1 collected ($3)
+Seat 6: mafiaalan10 (button) folded before Flop (didn't bet)
+Seat 7: CPS2017 (small blind) folded before Flop
+Seat 8: RedDragon310 (big blind) folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362021102:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:16:14 PT [2022/09/02 1:16:14 ET]
+Table 'Uppsala' 9-max Seat #7 is the button
+Seat 1: fib5555 ($7.57 in chips) 
+Seat 2: NoName35387 ($3.98 in chips) 
+Seat 3: T-Bone881969 ($5.14 in chips) 
+Seat 4: BlackCat0812 ($12.96 in chips) 
+Seat 5: leopoker1 ($6.52 in chips) 
+Seat 6: mafiaalan10 ($2.14 in chips) 
+Seat 7: CPS2017 ($4.88 in chips) 
+Seat 8: RedDragon310 ($1.95 in chips) 
+Seat 9: Dorex2007 ($5.69 in chips) 
+RedDragon310: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Tc]
+fib5555: folds 
+NoName35387: calls $0.05
+T-Bone881969: folds 
+BlackCat0812: folds 
+leopoker1: folds 
+mafiaalan10: folds 
+CPS2017: folds 
+RedDragon310: calls $0.03
+Dorex2007: checks 
+*** FLOP *** [6h 2d Qd]
+RedDragon310: checks 
+Dorex2007: checks 
+NoName35387: bets $0.12
+RedDragon310: folds 
+Dorex2007: folds 
+Uncalled bet ($0.12) returned to NoName35387
+NoName35387 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [6h 2d Qd]
+Seat 1: fib5555 folded before Flop (didn't bet)
+Seat 2: NoName35387 collected ($0.14)
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: leopoker1 folded before Flop (didn't bet)
+Seat 6: mafiaalan10 folded before Flop (didn't bet)
+Seat 7: CPS2017 (button) folded before Flop (didn't bet)
+Seat 8: RedDragon310 (small blind) folded on the Flop
+Seat 9: Dorex2007 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #238362024954:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:16:48 PT [2022/09/02 1:16:48 ET]
+Table 'Uppsala' 9-max Seat #8 is the button
+Seat 1: fib5555 ($7.57 in chips) 
+Seat 2: NoName35387 ($4.07 in chips) 
+Seat 3: T-Bone881969 ($5.14 in chips) 
+Seat 4: BlackCat0812 ($12.96 in chips) 
+Seat 5: leopoker1 ($6.52 in chips) 
+Seat 6: mafiaalan10 ($2.14 in chips) 
+Seat 7: CPS2017 ($4.88 in chips) 
+Seat 8: RedDragon310 ($1.90 in chips) 
+Seat 9: Dorex2007 ($5.64 in chips) 
+Dorex2007: posts small blind $0.02
+fib5555: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Qs]
+NoName35387: folds 
+T-Bone881969: folds 
+BlackCat0812: folds 
+leopoker1: folds 
+mafiaalan10: raises $0.10 to $0.15
+CPS2017: folds 
+RedDragon310: folds 
+Dorex2007: folds 
+fib5555: calls $0.10
+*** FLOP *** [6h As 6s]
+fib5555: checks 
+mafiaalan10: checks 
+*** TURN *** [6h As 6s] [9d]
+fib5555: bets $0.15
+mafiaalan10: folds 
+Uncalled bet ($0.15) returned to fib5555
+fib5555 collected $0.31 from pot
+fib5555: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [6h As 6s 9d]
+Seat 1: fib5555 (big blind) collected ($0.31)
+Seat 2: NoName35387 folded before Flop (didn't bet)
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: leopoker1 folded before Flop (didn't bet)
+Seat 6: mafiaalan10 folded on the Turn
+Seat 7: CPS2017 folded before Flop (didn't bet)
+Seat 8: RedDragon310 (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #238362029591:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:17:29 PT [2022/09/02 1:17:29 ET]
+Table 'Uppsala' 9-max Seat #9 is the button
+Seat 1: fib5555 ($7.73 in chips) 
+Seat 2: NoName35387 ($4.07 in chips) 
+Seat 3: T-Bone881969 ($5.14 in chips) 
+Seat 4: BlackCat0812 ($12.96 in chips) 
+Seat 5: leopoker1 ($6.52 in chips) 
+Seat 6: mafiaalan10 ($1.99 in chips) 
+Seat 7: CPS2017 ($4.88 in chips) 
+Seat 8: RedDragon310 ($1.90 in chips) 
+Seat 9: Dorex2007 ($5.62 in chips) 
+fib5555: posts small blind $0.02
+NoName35387: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Qs]
+T-Bone881969: folds 
+BlackCat0812: folds 
+leopoker1: folds 
+mafiaalan10: folds 
+CPS2017: raises $0.10 to $0.15
+RedDragon310: folds 
+Dorex2007: folds 
+fib5555: calls $0.13
+NoName35387: folds 
+*** FLOP *** [4s 4h Ad]
+fib5555: checks 
+CPS2017: bets $0.20
+fib5555: folds 
+Uncalled bet ($0.20) returned to CPS2017
+CPS2017 collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [4s 4h Ad]
+Seat 1: fib5555 (small blind) folded on the Flop
+Seat 2: NoName35387 (big blind) folded before Flop
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: leopoker1 folded before Flop (didn't bet)
+Seat 6: mafiaalan10 folded before Flop (didn't bet)
+Seat 7: CPS2017 collected ($0.34)
+Seat 8: RedDragon310 folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362034925:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:18:17 PT [2022/09/02 1:18:17 ET]
+Table 'Uppsala' 9-max Seat #1 is the button
+Seat 1: fib5555 ($7.58 in chips) 
+Seat 2: NoName35387 ($4.02 in chips) 
+Seat 3: T-Bone881969 ($5.14 in chips) 
+Seat 4: BlackCat0812 ($12.96 in chips) 
+Seat 5: leopoker1 ($6.52 in chips) 
+Seat 6: mafiaalan10 ($1.99 in chips) 
+Seat 7: CPS2017 ($5.07 in chips) 
+Seat 8: RedDragon310 ($1.90 in chips) 
+Seat 9: Dorex2007 ($5.62 in chips) 
+NoName35387: posts small blind $0.02
+T-Bone881969: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Ah]
+BlackCat0812: calls $0.05
+leopoker1: folds 
+mafiaalan10: folds 
+CPS2017: calls $0.05
+RedDragon310: folds 
+Dorex2007: folds 
+fib5555: calls $0.05
+NoName35387: raises $0.15 to $0.20
+T-Bone881969: folds 
+BlackCat0812: folds 
+CPS2017: calls $0.15
+fib5555: calls $0.15
+*** FLOP *** [Ac Qd 5s]
+NoName35387: checks 
+CPS2017: checks 
+fib5555: checks 
+*** TURN *** [Ac Qd 5s] [Js]
+NoName35387: checks 
+CPS2017: checks 
+fib5555: checks 
+*** RIVER *** [Ac Qd 5s Js] [6s]
+NoName35387: bets $0.33
+CPS2017: folds 
+fib5555: folds 
+Uncalled bet ($0.33) returned to NoName35387
+NoName35387 collected $0.67 from pot
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [Ac Qd 5s Js 6s]
+Seat 1: fib5555 (button) folded on the River
+Seat 2: NoName35387 (small blind) collected ($0.67)
+Seat 3: T-Bone881969 (big blind) folded before Flop
+Seat 4: BlackCat0812 folded before Flop
+Seat 5: leopoker1 folded before Flop (didn't bet)
+Seat 6: mafiaalan10 folded before Flop (didn't bet)
+Seat 7: CPS2017 folded on the River
+Seat 8: RedDragon310 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362047624:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:20:10 PT [2022/09/02 1:20:10 ET]
+Table 'Uppsala' 9-max Seat #2 is the button
+Seat 1: fib5555 ($7.38 in chips) 
+Seat 2: NoName35387 ($4.49 in chips) 
+Seat 3: T-Bone881969 ($5.09 in chips) 
+Seat 4: BlackCat0812 ($12.91 in chips) 
+Seat 5: leopoker1 ($6.52 in chips) 
+Seat 6: mafiaalan10 ($1.99 in chips) 
+Seat 7: CPS2017 ($4.87 in chips) 
+Seat 8: RedDragon310 ($1.90 in chips) 
+Seat 9: Dorex2007 ($5.62 in chips) 
+T-Bone881969: posts small blind $0.02
+BlackCat0812: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks As]
+leopoker1: folds 
+mafiaalan10: folds 
+CPS2017: raises $0.10 to $0.15
+RedDragon310: calls $0.15
+Dorex2007: calls $0.15
+fib5555: folds 
+NoName35387: calls $0.15
+T-Bone881969: calls $0.13
+BlackCat0812: folds 
+*** FLOP *** [7c Qd 4s]
+T-Bone881969: checks 
+CPS2017: checks 
+RedDragon310: bets $1.75 and is all-in
+Dorex2007: folds 
+NoName35387: calls $1.75
+T-Bone881969: folds 
+CPS2017: folds 
+*** TURN *** [7c Qd 4s] [7s]
+*** RIVER *** [7c Qd 4s 7s] [6h]
+*** SHOW DOWN ***
+RedDragon310: shows [Kh Qs] (two pair, Queens and Sevens)
+NoName35387: shows [Kd Qh] (two pair, Queens and Sevens)
+RedDragon310 collected $2.04 from pot
+NoName35387 collected $2.06 from pot
+*** SUMMARY ***
+Total pot $4.30 | Rake $0.20 
+Board [7c Qd 4s 7s 6h]
+Seat 1: fib5555 folded before Flop (didn't bet)
+Seat 2: NoName35387 (button) showed [Kd Qh] and won ($2.06) with two pair, Queens and Sevens
+Seat 3: T-Bone881969 (small blind) folded on the Flop
+Seat 4: BlackCat0812 (big blind) folded before Flop
+Seat 5: leopoker1 folded before Flop (didn't bet)
+Seat 6: mafiaalan10 folded before Flop (didn't bet)
+Seat 7: CPS2017 folded on the Flop
+Seat 8: RedDragon310 showed [Kh Qs] and won ($2.04) with two pair, Queens and Sevens
+Seat 9: Dorex2007 folded on the Flop
+
+
+
+PokerStars Hand #238362053234:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:21:01 PT [2022/09/02 1:21:01 ET]
+Table 'Uppsala' 9-max Seat #3 is the button
+Seat 1: fib5555 ($7.38 in chips) 
+Seat 2: NoName35387 ($4.65 in chips) 
+Seat 3: T-Bone881969 ($4.94 in chips) 
+Seat 4: BlackCat0812 ($12.86 in chips) 
+Seat 5: leopoker1 ($6.52 in chips) 
+Seat 6: mafiaalan10 ($1.99 in chips) 
+Seat 7: CPS2017 ($4.72 in chips) 
+Seat 8: RedDragon310 ($2.04 in chips) 
+Seat 9: Dorex2007 ($5.47 in chips) 
+BlackCat0812: posts small blind $0.02
+leopoker1: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c Ac]
+mafiaalan10: raises $0.05 to $0.10
+CPS2017: calls $0.10
+RedDragon310: folds 
+Dorex2007: folds 
+fib5555: folds 
+NoName35387: folds 
+T-Bone881969: folds 
+BlackCat0812: folds 
+leopoker1: calls $0.05
+*** FLOP *** [6d 6s Kh]
+leopoker1: checks 
+mafiaalan10: checks 
+CPS2017: checks 
+*** TURN *** [6d 6s Kh] [Td]
+leopoker1: checks 
+mafiaalan10: bets $0.15
+CPS2017: calls $0.15
+leopoker1: folds 
+*** RIVER *** [6d 6s Kh Td] [Qd]
+mafiaalan10: bets $0.10
+CPS2017: raises $0.20 to $0.30
+mafiaalan10: folds 
+Uncalled bet ($0.20) returned to CPS2017
+CPS2017 collected $0.79 from pot
+*** SUMMARY ***
+Total pot $0.82 | Rake $0.03 
+Board [6d 6s Kh Td Qd]
+Seat 1: fib5555 folded before Flop (didn't bet)
+Seat 2: NoName35387 folded before Flop (didn't bet)
+Seat 3: T-Bone881969 (button) folded before Flop (didn't bet)
+Seat 4: BlackCat0812 (small blind) folded before Flop
+Seat 5: leopoker1 (big blind) folded on the Turn
+Seat 6: mafiaalan10 folded on the River
+Seat 7: CPS2017 collected ($0.79)
+Seat 8: RedDragon310 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362058762:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:21:51 PT [2022/09/02 1:21:51 ET]
+Table 'Uppsala' 9-max Seat #4 is the button
+Seat 1: fib5555 ($7.38 in chips) 
+Seat 2: NoName35387 ($4.65 in chips) 
+Seat 3: T-Bone881969 ($4.94 in chips) 
+Seat 4: BlackCat0812 ($12.84 in chips) 
+Seat 5: leopoker1 ($6.42 in chips) 
+Seat 6: mafiaalan10 ($1.64 in chips) 
+Seat 7: CPS2017 ($5.16 in chips) 
+Seat 8: RedDragon310 ($2.04 in chips) 
+Seat 9: Dorex2007 ($5.47 in chips) 
+leopoker1: posts small blind $0.02
+mafiaalan10: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 2d]
+CPS2017: folds 
+RedDragon310: calls $0.05
+Dorex2007: folds 
+fib5555: calls $0.05
+NoName35387: folds 
+T-Bone881969: folds 
+BlackCat0812: calls $0.05
+leopoker1: raises $0.46 to $0.51
+mafiaalan10: raises $1.13 to $1.64 and is all-in
+RedDragon310: folds 
+fib5555: folds 
+BlackCat0812: folds 
+leopoker1: calls $1.13
+*** FLOP *** [9s 8c Qs]
+*** TURN *** [9s 8c Qs] [6d]
+*** RIVER *** [9s 8c Qs 6d] [Js]
+*** SHOW DOWN ***
+leopoker1: shows [Kh Kd] (a pair of Kings)
+mafiaalan10: shows [Jh As] (a pair of Jacks)
+leopoker1 collected $3.29 from pot
+*** SUMMARY ***
+Total pot $3.43 | Rake $0.14 
+Board [9s 8c Qs 6d Js]
+Seat 1: fib5555 folded before Flop
+Seat 2: NoName35387 folded before Flop (didn't bet)
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 (button) folded before Flop
+Seat 5: leopoker1 (small blind) showed [Kh Kd] and won ($3.29) with a pair of Kings
+Seat 6: mafiaalan10 (big blind) showed [Jh As] and lost with a pair of Jacks
+Seat 7: CPS2017 folded before Flop (didn't bet)
+Seat 8: RedDragon310 folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362066177:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:22:57 PT [2022/09/02 1:22:57 ET]
+Table 'Uppsala' 9-max Seat #5 is the button
+Seat 1: fib5555 ($7.33 in chips) 
+Seat 2: NoName35387 ($4.65 in chips) 
+Seat 3: T-Bone881969 ($4.94 in chips) 
+Seat 4: BlackCat0812 ($12.79 in chips) 
+Seat 5: leopoker1 ($8.07 in chips) 
+Seat 7: CPS2017 ($5.16 in chips) 
+Seat 8: RedDragon310 ($1.99 in chips) 
+Seat 9: Dorex2007 ($5.47 in chips) 
+CPS2017: posts small blind $0.02
+RedDragon310: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d 2h]
+Dorex2007: folds 
+fib5555: calls $0.05
+NoName35387: calls $0.05
+T-Bone881969: folds 
+BlackCat0812: folds 
+leopoker1: folds 
+CPS2017: calls $0.03
+RedDragon310: checks 
+*** FLOP *** [Qs 7s 3h]
+CPS2017: checks 
+RedDragon310: checks 
+fib5555: checks 
+NoName35387: checks 
+*** TURN *** [Qs 7s 3h] [2s]
+CPS2017: checks 
+RedDragon310: checks 
+fib5555: checks 
+NoName35387: checks 
+*** RIVER *** [Qs 7s 3h 2s] [Jc]
+CPS2017: checks 
+RedDragon310: checks 
+fib5555: checks 
+NoName35387: checks 
+*** SHOW DOWN ***
+CPS2017: shows [Td Kd] (high card King)
+RedDragon310: mucks hand 
+fib5555: shows [Ah 9d] (high card Ace)
+NoName35387: mucks hand 
+fib5555 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Qs 7s 3h 2s Jc]
+Seat 1: fib5555 showed [Ah 9d] and won ($0.19) with high card Ace
+Seat 2: NoName35387 mucked [Kc 8s]
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: leopoker1 (button) folded before Flop (didn't bet)
+Seat 7: CPS2017 (small blind) showed [Td Kd] and lost with high card King
+Seat 8: RedDragon310 (big blind) mucked [4d 9h]
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362072410:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:23:53 PT [2022/09/02 1:23:53 ET]
+Table 'Uppsala' 9-max Seat #7 is the button
+Seat 1: fib5555 ($7.47 in chips) 
+Seat 2: NoName35387 ($4.60 in chips) 
+Seat 3: T-Bone881969 ($4.94 in chips) 
+Seat 4: BlackCat0812 ($12.79 in chips) 
+Seat 5: leopoker1 ($8.07 in chips) 
+Seat 6: mafiaalan10 ($5 in chips) 
+Seat 7: CPS2017 ($5.11 in chips) 
+Seat 8: RedDragon310 ($1.94 in chips) 
+Seat 9: Dorex2007 ($5.47 in chips) 
+RedDragon310: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+mafiaalan10: posts small blind $0.02
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Jh]
+fib5555: folds 
+NoName35387: calls $0.05
+T-Bone881969: folds 
+BlackCat0812: folds 
+leopoker1 has timed out
+leopoker1: folds 
+mafiaalan10: folds 
+CPS2017: calls $0.05
+RedDragon310: raises $0.22 to $0.27
+Dorex2007: calls $0.22
+NoName35387: folds 
+CPS2017: calls $0.22
+*** FLOP *** [Ts 9c Jd]
+RedDragon310: bets $1.67 and is all-in
+Dorex2007: calls $1.67
+CPS2017: raises $3.17 to $4.84 and is all-in
+Dorex2007: calls $3.17
+*** TURN *** [Ts 9c Jd] [9h]
+*** RIVER *** [Ts 9c Jd 9h] [Tc]
+*** SHOW DOWN ***
+Dorex2007: shows [Ah Jh] (two pair, Jacks and Tens)
+CPS2017: shows [Js Kh] (two pair, Jacks and Tens - lower kicker)
+RedDragon310: shows [As 8s] (two pair, Tens and Nines)
+CPS2017 cashed out the hand for $3.26 | Cash Out Fee $0.03
+Dorex2007 cashed out the hand for $7.26 | Cash Out Fee $0.07
+*** SUMMARY ***
+Total pot $12.23 Main pot $5.65. Side pot $6.07. | Rake $0.51 
+Board [Ts 9c Jd 9h Tc]
+Seat 1: fib5555 folded before Flop (didn't bet)
+Seat 2: NoName35387 folded before Flop
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: leopoker1 folded before Flop (didn't bet)
+Seat 6: mafiaalan10 folded before Flop (didn't bet)
+Seat 7: CPS2017 (button) showed [Js Kh] and lost with two pair, Jacks and Tens (cashed out).
+Seat 8: RedDragon310 (small blind) showed [As 8s] and lost with two pair, Tens and Nines
+Seat 9: Dorex2007 (big blind) showed [Ah Jh] and won ($11.72) with two pair, Jacks and Tens (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #238362080754:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:25:09 PT [2022/09/02 1:25:09 ET]
+Table 'Uppsala' 9-max Seat #9 is the button
+Seat 1: fib5555 ($7.47 in chips) 
+Seat 2: NoName35387 ($4.55 in chips) 
+Seat 3: T-Bone881969 ($4.94 in chips) 
+Seat 4: BlackCat0812 ($12.79 in chips) 
+Seat 5: leopoker1 ($8.07 in chips) 
+Seat 6: mafiaalan10 ($4.98 in chips) 
+Seat 7: CPS2017 ($3.26 in chips) 
+Seat 9: Dorex2007 ($7.62 in chips) 
+fib5555: posts small blind $0.02
+NoName35387: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 6h]
+T-Bone881969: folds 
+BlackCat0812: calls $0.05
+leopoker1: calls $0.05
+mafiaalan10: folds 
+CPS2017: calls $0.05
+Dorex2007: folds 
+RedDragon310 leaves the table
+fib5555: raises $0.20 to $0.25
+NoName35387: folds 
+BlackCat0812: folds 
+enixblr joins the table at seat #8 
+leopoker1: calls $0.20
+CPS2017: calls $0.20
+*** FLOP *** [7d Kh Jc]
+fib5555: checks 
+leopoker1: checks 
+CPS2017: bets $0.30
+fib5555: calls $0.30
+leopoker1: folds 
+*** TURN *** [7d Kh Jc] [6d]
+fib5555: checks 
+CPS2017: bets $0.50
+fib5555: folds 
+Uncalled bet ($0.50) returned to CPS2017
+CPS2017 collected $1.39 from pot
+*** SUMMARY ***
+Total pot $1.45 | Rake $0.06 
+Board [7d Kh Jc 6d]
+Seat 1: fib5555 (small blind) folded on the Turn
+Seat 2: NoName35387 (big blind) folded before Flop
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop
+Seat 5: leopoker1 folded on the Flop
+Seat 6: mafiaalan10 folded before Flop (didn't bet)
+Seat 7: CPS2017 collected ($1.39)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362091310:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:26:44 PT [2022/09/02 1:26:44 ET]
+Table 'Uppsala' 9-max Seat #1 is the button
+Seat 1: fib5555 ($6.92 in chips) 
+Seat 2: NoName35387 ($4.50 in chips) 
+Seat 3: T-Bone881969 ($4.94 in chips) 
+Seat 4: BlackCat0812 ($12.74 in chips) 
+Seat 5: leopoker1 ($7.82 in chips) 
+Seat 6: mafiaalan10 ($4.98 in chips) 
+Seat 7: CPS2017 ($4.10 in chips) 
+Seat 9: Dorex2007 ($7.62 in chips) 
+NoName35387: posts small blind $0.02
+T-Bone881969: posts big blind $0.05
+enixblr: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 2d]
+BlackCat0812: calls $0.05
+leopoker1: calls $0.05
+mafiaalan10: folds 
+CPS2017: raises $0.15 to $0.20
+Dorex2007: folds 
+fib5555: folds 
+NoName35387: folds 
+T-Bone881969: calls $0.15
+BlackCat0812: calls $0.15
+NoName35387 is disconnected 
+leopoker1: calls $0.15
+*** FLOP *** [6d 3c Qh]
+T-Bone881969: checks 
+BlackCat0812: bets $0.15
+leopoker1: folds 
+CPS2017: raises $0.90 to $1.05
+T-Bone881969: folds 
+BlackCat0812: calls $0.90
+*** TURN *** [6d 3c Qh] [8c]
+BlackCat0812: bets $0.15
+CPS2017: raises $2.70 to $2.85 and is all-in
+BlackCat0812: calls $2.70
+*** RIVER *** [6d 3c Qh 8c] [Ks]
+*** SHOW DOWN ***
+BlackCat0812: shows [Kd Qc] (two pair, Kings and Queens)
+CPS2017: shows [Ad Ah] (a pair of Aces)
+BlackCat0812 collected $8.26 from pot
+CPS2017 cashed out the hand for $7.25 | Cash Out Fee $0.07
+*** SUMMARY ***
+Total pot $8.62 | Rake $0.36 
+Board [6d 3c Qh 8c Ks]
+Seat 1: fib5555 (button) folded before Flop (didn't bet)
+Seat 2: NoName35387 (small blind) folded before Flop
+Seat 3: T-Bone881969 (big blind) folded on the Flop
+Seat 4: BlackCat0812 showed [Kd Qc] and won ($8.26) with two pair, Kings and Queens
+Seat 5: leopoker1 folded on the Flop
+Seat 6: mafiaalan10 folded before Flop (didn't bet)
+Seat 7: CPS2017 showed [Ad Ah] and lost with a pair of Aces (cashed out).
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362100510:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:28:08 PT [2022/09/02 1:28:08 ET]
+Table 'Uppsala' 9-max Seat #2 is the button
+Seat 1: fib5555 ($6.92 in chips) 
+Seat 2: NoName35387 ($4.48 in chips) 
+Seat 3: T-Bone881969 ($4.74 in chips) 
+Seat 4: BlackCat0812 ($16.90 in chips) 
+Seat 5: leopoker1 ($7.62 in chips) 
+Seat 6: mafiaalan10 ($4.98 in chips) 
+Seat 7: CPS2017 ($7.25 in chips) 
+Seat 9: Dorex2007 ($7.62 in chips) 
+T-Bone881969: posts small blind $0.02
+BlackCat0812: posts big blind $0.05
+enixblr: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c Kd]
+leopoker1: folds 
+mafiaalan10: folds 
+CPS2017: folds 
+Dorex2007: folds 
+fib5555: folds 
+NoName35387 has timed out while disconnected
+NoName35387: folds 
+T-Bone881969: calls $0.03
+BlackCat0812: checks 
+*** FLOP *** [4h 8c 5c]
+T-Bone881969: checks 
+BlackCat0812: checks 
+*** TURN *** [4h 8c 5c] [7d]
+T-Bone881969: checks 
+BlackCat0812: bets $0.10
+T-Bone881969: folds 
+Uncalled bet ($0.10) returned to BlackCat0812
+BlackCat0812 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [4h 8c 5c 7d]
+Seat 1: fib5555 folded before Flop (didn't bet)
+Seat 2: NoName35387 (button) folded before Flop (didn't bet)
+Seat 3: T-Bone881969 (small blind) folded on the Turn
+Seat 4: BlackCat0812 (big blind) collected ($0.10)
+Seat 5: leopoker1 folded before Flop (didn't bet)
+Seat 6: mafiaalan10 folded before Flop (didn't bet)
+Seat 7: CPS2017 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362104909:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:28:48 PT [2022/09/02 1:28:48 ET]
+Table 'Uppsala' 9-max Seat #3 is the button
+Seat 1: fib5555 ($6.92 in chips) 
+Seat 3: T-Bone881969 ($4.69 in chips) 
+Seat 4: BlackCat0812 ($16.95 in chips) 
+Seat 5: leopoker1 ($7.62 in chips) 
+Seat 6: mafiaalan10 ($4.98 in chips) 
+Seat 7: CPS2017 ($7.25 in chips) 
+Seat 9: Dorex2007 ($7.62 in chips) 
+BlackCat0812: posts small blind $0.02
+leopoker1: posts big blind $0.05
+enixblr: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Qc]
+mafiaalan10: folds 
+CPS2017: raises $0.10 to $0.15
+Dorex2007: folds 
+fib5555: folds 
+T-Bone881969: folds 
+BlackCat0812: folds 
+leopoker1: calls $0.10
+*** FLOP *** [2c Jh 3d]
+leopoker1: checks 
+CPS2017: checks 
+*** TURN *** [2c Jh 3d] [6s]
+leopoker1: bets $0.10
+CPS2017: calls $0.10
+*** RIVER *** [2c Jh 3d 6s] [7d]
+leopoker1: bets $0.15
+CPS2017: folds 
+Uncalled bet ($0.15) returned to leopoker1
+leopoker1 collected $0.50 from pot
+leopoker1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [2c Jh 3d 6s 7d]
+Seat 1: fib5555 folded before Flop (didn't bet)
+Seat 3: T-Bone881969 (button) folded before Flop (didn't bet)
+Seat 4: BlackCat0812 (small blind) folded before Flop
+Seat 5: leopoker1 (big blind) collected ($0.50)
+Seat 6: mafiaalan10 folded before Flop (didn't bet)
+Seat 7: CPS2017 folded on the River
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362109017:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:29:26 PT [2022/09/02 1:29:26 ET]
+Table 'Uppsala' 9-max Seat #4 is the button
+Seat 1: fib5555 ($6.92 in chips) 
+Seat 3: T-Bone881969 ($4.69 in chips) 
+Seat 4: BlackCat0812 ($16.93 in chips) 
+Seat 5: leopoker1 ($7.87 in chips) 
+Seat 6: mafiaalan10 ($4.98 in chips) 
+Seat 7: CPS2017 ($7 in chips) 
+Seat 9: Dorex2007 ($7.62 in chips) 
+leopoker1: posts small blind $0.02
+mafiaalan10: posts big blind $0.05
+enixblr: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 6s]
+CPS2017: folds 
+CPS2017 leaves the table
+Dorex2007: folds 
+fib5555: calls $0.05
+T-Bone881969: calls $0.05
+K.Yurka joins the table at seat #7 
+BlackCat0812: folds 
+leopoker1: calls $0.03
+mafiaalan10: checks 
+*** FLOP *** [9d Td As]
+leopoker1: checks 
+mafiaalan10: checks 
+fib5555: checks 
+T-Bone881969: checks 
+*** TURN *** [9d Td As] [Jd]
+leopoker1: checks 
+mafiaalan10: checks 
+fib5555: bets $0.10
+T-Bone881969: folds 
+leopoker1: folds 
+mafiaalan10: folds 
+Uncalled bet ($0.10) returned to fib5555
+fib5555 collected $0.19 from pot
+fib5555: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [9d Td As Jd]
+Seat 1: fib5555 collected ($0.19)
+Seat 3: T-Bone881969 folded on the Turn
+Seat 4: BlackCat0812 (button) folded before Flop (didn't bet)
+Seat 5: leopoker1 (small blind) folded on the Turn
+Seat 6: mafiaalan10 (big blind) folded on the Turn
+Seat 7: CPS2017 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362117134:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:30:40 PT [2022/09/02 1:30:40 ET]
+Table 'Uppsala' 9-max Seat #5 is the button
+Seat 1: fib5555 ($7.06 in chips) 
+Seat 3: T-Bone881969 ($4.64 in chips) 
+Seat 4: BlackCat0812 ($16.93 in chips) 
+Seat 5: leopoker1 ($7.82 in chips) 
+Seat 6: mafiaalan10 ($4.93 in chips) 
+Seat 7: K.Yurka ($5 in chips) 
+Seat 9: Dorex2007 ($7.62 in chips) 
+mafiaalan10: posts small blind $0.02
+K.Yurka: posts big blind $0.05
+enixblr: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d Th]
+Dorex2007: folds 
+fib5555: folds 
+T-Bone881969: folds 
+BlackCat0812: calls $0.05
+leopoker1: folds 
+mafiaalan10: folds 
+K.Yurka: raises $0.15 to $0.20
+BlackCat0812: folds 
+Uncalled bet ($0.15) returned to K.Yurka
+K.Yurka collected $0.12 from pot
+K.Yurka: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: fib5555 folded before Flop (didn't bet)
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop
+Seat 5: leopoker1 (button) folded before Flop (didn't bet)
+Seat 6: mafiaalan10 (small blind) folded before Flop
+Seat 7: K.Yurka (big blind) collected ($0.12)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362119820:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:31:05 PT [2022/09/02 1:31:05 ET]
+Table 'Uppsala' 9-max Seat #6 is the button
+Seat 1: fib5555 ($7.06 in chips) 
+Seat 3: T-Bone881969 ($4.64 in chips) 
+Seat 4: BlackCat0812 ($16.88 in chips) 
+Seat 5: leopoker1 ($7.82 in chips) 
+Seat 6: mafiaalan10 ($4.91 in chips) 
+Seat 7: K.Yurka ($5.07 in chips) 
+Seat 8: enixblr ($13.74 in chips) 
+Seat 9: Dorex2007 ($7.62 in chips) 
+K.Yurka: posts small blind $0.02
+enixblr: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d Ac]
+Dorex2007: folds 
+fib5555: folds 
+T-Bone881969: folds 
+BlackCat0812: folds 
+leopoker1: raises $0.05 to $0.10
+mafiaalan10: calls $0.10
+K.Yurka: folds 
+enixblr: folds 
+*** FLOP *** [Tc Th Td]
+leopoker1: bets $0.05
+mafiaalan10: calls $0.05
+*** TURN *** [Tc Th Td] [9d]
+leopoker1: bets $0.30
+mafiaalan10: calls $0.30
+*** RIVER *** [Tc Th Td 9d] [6h]
+enixblr leaves the table
+leopoker1: checks 
+mafiaalan10: bets $0.46
+leopoker1: folds 
+Uncalled bet ($0.46) returned to mafiaalan10
+mafiaalan10 collected $0.93 from pot
+mafiaalan10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.97 | Rake $0.04 
+Board [Tc Th Td 9d 6h]
+Seat 1: fib5555 folded before Flop (didn't bet)
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: leopoker1 folded on the River
+Seat 6: mafiaalan10 (button) collected ($0.93)
+Seat 7: K.Yurka (small blind) folded before Flop
+Seat 8: enixblr (big blind) folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362127275:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:32:13 PT [2022/09/02 1:32:13 ET]
+Table 'Uppsala' 9-max Seat #7 is the button
+Seat 1: fib5555 ($7.06 in chips) 
+Seat 2: NoName35387 ($4.48 in chips) 
+Seat 3: T-Bone881969 ($4.64 in chips) 
+Seat 4: BlackCat0812 ($16.88 in chips) 
+Seat 5: leopoker1 ($7.37 in chips) 
+Seat 6: mafiaalan10 ($5.39 in chips) 
+Seat 7: K.Yurka ($5.05 in chips) 
+Seat 9: Dorex2007 ($7.62 in chips) 
+Dorex2007: posts small blind $0.02
+fib5555: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4d 3d]
+NoName35387: folds 
+T-Bone881969: folds 
+BlackCat0812: calls $0.05
+leopoker1: folds 
+mafiaalan10: folds 
+K.Yurka: folds 
+Dorex2007: folds 
+fib5555: checks 
+*** FLOP *** [4c Ks 4h]
+fib5555: bets $0.12
+gio119 joins the table at seat #8 
+BlackCat0812: calls $0.12
+*** TURN *** [4c Ks 4h] [Tc]
+fib5555: bets $0.20
+BlackCat0812: calls $0.20
+*** RIVER *** [4c Ks 4h Tc] [As]
+fib5555: checks 
+BlackCat0812: checks 
+*** SHOW DOWN ***
+fib5555: shows [8c 2d] (a pair of Fours)
+BlackCat0812: shows [Js Kh] (two pair, Kings and Fours)
+BlackCat0812 collected $0.73 from pot
+*** SUMMARY ***
+Total pot $0.76 | Rake $0.03 
+Board [4c Ks 4h Tc As]
+Seat 1: fib5555 (big blind) showed [8c 2d] and lost with a pair of Fours
+Seat 2: NoName35387 folded before Flop (didn't bet)
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 showed [Js Kh] and won ($0.73) with two pair, Kings and Fours
+Seat 5: leopoker1 folded before Flop (didn't bet)
+Seat 6: mafiaalan10 folded before Flop (didn't bet)
+Seat 7: K.Yurka (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #238362135625:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:33:29 PT [2022/09/02 1:33:29 ET]
+Table 'Uppsala' 9-max Seat #9 is the button
+Seat 1: fib5555 ($6.69 in chips) 
+Seat 2: NoName35387 ($4.48 in chips) 
+Seat 3: T-Bone881969 ($4.64 in chips) 
+Seat 4: BlackCat0812 ($17.24 in chips) 
+Seat 5: leopoker1 ($7.37 in chips) 
+Seat 6: mafiaalan10 ($5.39 in chips) 
+Seat 7: K.Yurka ($5.05 in chips) 
+Seat 8: gio119 ($4 in chips) 
+Seat 9: Dorex2007 ($7.60 in chips) 
+fib5555: posts small blind $0.02
+NoName35387: posts big blind $0.05
+gio119: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 3h]
+T-Bone881969: folds 
+BlackCat0812 has timed out
+BlackCat0812: folds 
+leopoker1: folds 
+mafiaalan10: folds 
+K.Yurka: folds 
+gio119: checks 
+Dorex2007: folds 
+fib5555: folds 
+NoName35387: checks 
+*** FLOP *** [9s 2c 3s]
+fib5555 leaves the table
+NoName35387: checks 
+Emm89 joins the table at seat #1 
+gio119: bets $0.12
+NoName35387: folds 
+Uncalled bet ($0.12) returned to gio119
+gio119 collected $0.12 from pot
+gio119: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [9s 2c 3s]
+Seat 1: fib5555 (small blind) folded before Flop
+Seat 2: NoName35387 (big blind) folded on the Flop
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: leopoker1 folded before Flop (didn't bet)
+Seat 6: mafiaalan10 folded before Flop (didn't bet)
+Seat 7: K.Yurka folded before Flop (didn't bet)
+Seat 8: gio119 collected ($0.12)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362141116:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:34:19 PT [2022/09/02 1:34:19 ET]
+Table 'Uppsala' 9-max Seat #2 is the button
+Seat 2: NoName35387 ($4.43 in chips) 
+Seat 3: T-Bone881969 ($4.64 in chips) 
+Seat 4: BlackCat0812 ($17.24 in chips) 
+Seat 5: leopoker1 ($7.37 in chips) 
+Seat 6: mafiaalan10 ($5.39 in chips) 
+Seat 7: K.Yurka ($5.05 in chips) 
+Seat 8: gio119 ($4.07 in chips) 
+Seat 9: Dorex2007 ($7.60 in chips) 
+T-Bone881969: posts small blind $0.02
+BlackCat0812: posts big blind $0.05
+Emm89: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 4s]
+leopoker1: folds 
+mafiaalan10: raises $0.05 to $0.10
+K.Yurka: folds 
+gio119: folds 
+Dorex2007: folds 
+NoName35387: folds 
+T-Bone881969: calls $0.08
+BlackCat0812: folds 
+*** FLOP *** [2d 8s As]
+T-Bone881969: checks 
+mafiaalan10: bets $0.10
+T-Bone881969: calls $0.10
+*** TURN *** [2d 8s As] [8h]
+T-Bone881969: checks 
+mafiaalan10: checks 
+*** RIVER *** [2d 8s As 8h] [3c]
+T-Bone881969: checks 
+mafiaalan10: bets $0.15
+T-Bone881969: folds 
+Uncalled bet ($0.15) returned to mafiaalan10
+mafiaalan10 collected $0.43 from pot
+mafiaalan10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [2d 8s As 8h 3c]
+Seat 2: NoName35387 (button) folded before Flop (didn't bet)
+Seat 3: T-Bone881969 (small blind) folded on the River
+Seat 4: BlackCat0812 (big blind) folded before Flop
+Seat 5: leopoker1 folded before Flop (didn't bet)
+Seat 6: mafiaalan10 collected ($0.43)
+Seat 7: K.Yurka folded before Flop (didn't bet)
+Seat 8: gio119 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362147145:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:35:14 PT [2022/09/02 1:35:14 ET]
+Table 'Uppsala' 9-max Seat #3 is the button
+Seat 2: NoName35387 ($4.43 in chips) 
+Seat 3: T-Bone881969 ($4.44 in chips) 
+Seat 4: BlackCat0812 ($17.19 in chips) 
+Seat 5: leopoker1 ($7.37 in chips) 
+Seat 6: mafiaalan10 ($5.62 in chips) 
+Seat 7: K.Yurka ($5.05 in chips) 
+Seat 8: gio119 ($4.07 in chips) 
+Seat 9: Dorex2007 ($7.60 in chips) 
+BlackCat0812: posts small blind $0.02
+leopoker1: posts big blind $0.05
+Emm89: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Td]
+mafiaalan10: raises $0.10 to $0.15
+K.Yurka: folds 
+gio119: folds 
+Dorex2007: folds 
+NoName35387: folds 
+T-Bone881969: folds 
+BlackCat0812: folds 
+leopoker1: calls $0.10
+*** FLOP *** [Qc 9d Ks]
+leopoker1: checks 
+mafiaalan10: checks 
+*** TURN *** [Qc 9d Ks] [Jh]
+leopoker1: checks 
+mafiaalan10: bets $0.20
+leopoker1: folds 
+Uncalled bet ($0.20) returned to mafiaalan10
+mafiaalan10 collected $0.31 from pot
+mafiaalan10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Qc 9d Ks Jh]
+Seat 2: NoName35387 folded before Flop (didn't bet)
+Seat 3: T-Bone881969 (button) folded before Flop (didn't bet)
+Seat 4: BlackCat0812 (small blind) folded before Flop
+Seat 5: leopoker1 (big blind) folded on the Turn
+Seat 6: mafiaalan10 collected ($0.31)
+Seat 7: K.Yurka folded before Flop (didn't bet)
+Seat 8: gio119 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362152550:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:36:03 PT [2022/09/02 1:36:03 ET]
+Table 'Uppsala' 9-max Seat #4 is the button
+Seat 2: NoName35387 ($4.43 in chips) 
+Seat 3: T-Bone881969 ($4.44 in chips) 
+Seat 4: BlackCat0812 ($17.17 in chips) 
+Seat 5: leopoker1 ($7.22 in chips) 
+Seat 6: mafiaalan10 ($5.78 in chips) 
+Seat 7: K.Yurka ($5.05 in chips) 
+Seat 8: gio119 ($4.07 in chips) 
+Seat 9: Dorex2007 ($7.60 in chips) 
+leopoker1: posts small blind $0.02
+mafiaalan10: posts big blind $0.05
+Emm89: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s Ac]
+K.Yurka: folds 
+gio119: folds 
+Dorex2007: folds 
+NoName35387: calls $0.05
+T-Bone881969: folds 
+BlackCat0812: folds 
+leopoker1: calls $0.03
+mafiaalan10: checks 
+*** FLOP *** [7s Tc Ks]
+leopoker1: checks 
+mafiaalan10: checks 
+NoName35387: checks 
+*** TURN *** [7s Tc Ks] [Td]
+leopoker1: checks 
+mafiaalan10: checks 
+NoName35387: checks 
+*** RIVER *** [7s Tc Ks Td] [4c]
+leopoker1: checks 
+mafiaalan10: checks 
+NoName35387: checks 
+*** SHOW DOWN ***
+leopoker1: shows [7d 9h] (two pair, Tens and Sevens)
+mafiaalan10: mucks hand 
+NoName35387: mucks hand 
+leopoker1 collected $0.14 from pot
+gio119 is disconnected 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7s Tc Ks Td 4c]
+Seat 2: NoName35387 mucked [6h 8c]
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 (button) folded before Flop (didn't bet)
+Seat 5: leopoker1 (small blind) showed [7d 9h] and won ($0.14) with two pair, Tens and Sevens
+Seat 6: mafiaalan10 (big blind) mucked [As 8h]
+Seat 7: K.Yurka folded before Flop (didn't bet)
+Seat 8: gio119 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362160895:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:37:19 PT [2022/09/02 1:37:19 ET]
+Table 'Uppsala' 9-max Seat #5 is the button
+Seat 2: NoName35387 ($4.38 in chips) 
+Seat 3: T-Bone881969 ($4.44 in chips) 
+Seat 4: BlackCat0812 ($17.17 in chips) 
+Seat 5: leopoker1 ($7.31 in chips) 
+Seat 6: mafiaalan10 ($5.73 in chips) 
+Seat 7: K.Yurka ($5.05 in chips) 
+Seat 8: gio119 ($4.07 in chips) 
+Seat 9: Dorex2007 ($7.60 in chips) 
+mafiaalan10: posts small blind $0.02
+K.Yurka: posts big blind $0.05
+Emm89: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 4s]
+gio119 has timed out while disconnected
+gio119: folds 
+Dorex2007: folds 
+NoName35387: calls $0.05
+T-Bone881969: raises $0.35 to $0.40
+BlackCat0812: calls $0.40
+leopoker1: folds 
+mafiaalan10: folds 
+K.Yurka: folds 
+NoName35387: folds 
+*** FLOP *** [5c 4h Tc]
+T-Bone881969: bets $0.44
+BlackCat0812: calls $0.44
+*** TURN *** [5c 4h Tc] [Ts]
+T-Bone881969: checks 
+BlackCat0812: bets $16.33 and is all-in
+T-Bone881969: folds 
+Uncalled bet ($16.33) returned to BlackCat0812
+BlackCat0812 collected $1.73 from pot
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.07 
+Board [5c 4h Tc Ts]
+Seat 2: NoName35387 folded before Flop
+Seat 3: T-Bone881969 folded on the Turn
+Seat 4: BlackCat0812 collected ($1.73)
+Seat 5: leopoker1 (button) folded before Flop (didn't bet)
+Seat 6: mafiaalan10 (small blind) folded before Flop
+Seat 7: K.Yurka (big blind) folded before Flop
+Seat 8: gio119 folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362166228:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:38:09 PT [2022/09/02 1:38:09 ET]
+Table 'Uppsala' 9-max Seat #6 is the button
+Seat 2: NoName35387 ($4.33 in chips) 
+Seat 3: T-Bone881969 ($3.60 in chips) 
+Seat 4: BlackCat0812 ($18.06 in chips) 
+Seat 5: leopoker1 ($7.31 in chips) 
+Seat 6: mafiaalan10 ($5.71 in chips) 
+Seat 7: K.Yurka ($5 in chips) 
+Seat 9: Dorex2007 ($7.60 in chips) 
+K.Yurka: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+Emm89: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 8c]
+NoName35387: folds 
+T-Bone881969: folds 
+BlackCat0812: folds 
+leopoker1: raises $0.05 to $0.10
+mafiaalan10: folds 
+K.Yurka: folds 
+Dorex2007: calls $0.05
+*** FLOP *** [Jh Kc 4s]
+Dorex2007: checks 
+leopoker1: bets $0.15
+Dorex2007: folds 
+Uncalled bet ($0.15) returned to leopoker1
+leopoker1 collected $0.21 from pot
+leopoker1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Jh Kc 4s]
+Seat 2: NoName35387 folded before Flop (didn't bet)
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: leopoker1 collected ($0.21)
+Seat 6: mafiaalan10 (button) folded before Flop (didn't bet)
+Seat 7: K.Yurka (small blind) folded before Flop
+Seat 9: Dorex2007 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #238362170758:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:38:50 PT [2022/09/02 1:38:50 ET]
+Table 'Uppsala' 9-max Seat #7 is the button
+Seat 1: Emm89 ($5 in chips) 
+Seat 2: NoName35387 ($4.33 in chips) 
+Seat 3: T-Bone881969 ($3.60 in chips) 
+Seat 4: BlackCat0812 ($18.06 in chips) 
+Seat 5: leopoker1 ($7.42 in chips) 
+Seat 6: mafiaalan10 ($5.71 in chips) 
+Seat 7: K.Yurka ($5 in chips) 
+Seat 9: Dorex2007 ($7.50 in chips) 
+Dorex2007: posts small blind $0.02
+Emm89: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 6d]
+NoName35387: calls $0.05
+T-Bone881969: folds 
+BlackCat0812: folds 
+leopoker1: folds 
+mafiaalan10: folds 
+K.Yurka: folds 
+Dorex2007: calls $0.03
+Emm89: raises $0.20 to $0.25
+NoName35387: folds 
+Dorex2007: folds 
+Uncalled bet ($0.20) returned to Emm89
+Emm89 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Emm89 (big blind) collected ($0.15)
+Seat 2: NoName35387 folded before Flop
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: leopoker1 folded before Flop (didn't bet)
+Seat 6: mafiaalan10 folded before Flop (didn't bet)
+Seat 7: K.Yurka (button) folded before Flop (didn't bet)
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #238362174338:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:39:23 PT [2022/09/02 1:39:23 ET]
+Table 'Uppsala' 9-max Seat #9 is the button
+Seat 1: Emm89 ($5.10 in chips) 
+Seat 2: NoName35387 ($4.28 in chips) 
+Seat 3: T-Bone881969 ($3.60 in chips) 
+Seat 4: BlackCat0812 ($18.06 in chips) 
+Seat 5: leopoker1 ($7.42 in chips) 
+Seat 6: mafiaalan10 ($5.71 in chips) 
+Seat 7: K.Yurka ($5 in chips) 
+Seat 9: Dorex2007 ($7.45 in chips) 
+Emm89: posts small blind $0.02
+NoName35387: posts big blind $0.05
+gio119: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 8d]
+T-Bone881969: folds 
+BlackCat0812: folds 
+leopoker1: folds 
+mafiaalan10: folds 
+K.Yurka: folds 
+Dorex2007: folds 
+Emm89: folds 
+Uncalled bet ($0.03) returned to NoName35387
+NoName35387 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Emm89 (small blind) folded before Flop
+Seat 2: NoName35387 (big blind) collected ($0.04)
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: leopoker1 folded before Flop (didn't bet)
+Seat 6: mafiaalan10 folded before Flop (didn't bet)
+Seat 7: K.Yurka folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362177358:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:39:50 PT [2022/09/02 1:39:50 ET]
+Table 'Uppsala' 9-max Seat #1 is the button
+Seat 1: Emm89 ($5.08 in chips) 
+Seat 2: NoName35387 ($4.30 in chips) 
+Seat 3: T-Bone881969 ($3.60 in chips) 
+Seat 4: BlackCat0812 ($18.06 in chips) 
+Seat 5: leopoker1 ($7.42 in chips) 
+Seat 6: mafiaalan10 ($5.71 in chips) 
+Seat 7: K.Yurka ($5 in chips) 
+Seat 9: Dorex2007 ($7.45 in chips) 
+NoName35387: posts small blind $0.02
+T-Bone881969: posts big blind $0.05
+gio119: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah 5h]
+BlackCat0812: folds 
+leopoker1: folds 
+mafiaalan10: raises $0.10 to $0.15
+K.Yurka: folds 
+Dorex2007: folds 
+Emm89: folds 
+NoName35387: calls $0.13
+T-Bone881969: folds 
+*** FLOP *** [Ac 8h 3s]
+NoName35387: checks 
+mafiaalan10: bets $0.05
+NoName35387: folds 
+Uncalled bet ($0.05) returned to mafiaalan10
+mafiaalan10 collected $0.34 from pot
+mafiaalan10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [Ac 8h 3s]
+Seat 1: Emm89 (button) folded before Flop (didn't bet)
+Seat 2: NoName35387 (small blind) folded on the Flop
+Seat 3: T-Bone881969 (big blind) folded before Flop
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: leopoker1 folded before Flop (didn't bet)
+Seat 6: mafiaalan10 collected ($0.34)
+Seat 7: K.Yurka folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362181372:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:40:27 PT [2022/09/02 1:40:27 ET]
+Table 'Uppsala' 9-max Seat #2 is the button
+Seat 1: Emm89 ($5.08 in chips) 
+Seat 2: NoName35387 ($4.15 in chips) 
+Seat 3: T-Bone881969 ($3.55 in chips) 
+Seat 4: BlackCat0812 ($18.06 in chips) 
+Seat 5: leopoker1 ($7.42 in chips) 
+Seat 6: mafiaalan10 ($5.90 in chips) 
+Seat 7: K.Yurka ($5 in chips) 
+Seat 9: Dorex2007 ($7.45 in chips) 
+T-Bone881969: posts small blind $0.02
+BlackCat0812: posts big blind $0.05
+gio119: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 2s]
+leopoker1: raises $0.05 to $0.10
+mafiaalan10: folds 
+K.Yurka: folds 
+Dorex2007: folds 
+Emm89: folds 
+NoName35387: folds 
+T-Bone881969: folds 
+BlackCat0812: folds 
+Uncalled bet ($0.05) returned to leopoker1
+leopoker1 collected $0.12 from pot
+leopoker1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Emm89 folded before Flop (didn't bet)
+Seat 2: NoName35387 (button) folded before Flop (didn't bet)
+Seat 3: T-Bone881969 (small blind) folded before Flop
+Seat 4: BlackCat0812 (big blind) folded before Flop
+Seat 5: leopoker1 collected ($0.12)
+Seat 6: mafiaalan10 folded before Flop (didn't bet)
+Seat 7: K.Yurka folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362184914:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:40:59 PT [2022/09/02 1:40:59 ET]
+Table 'Uppsala' 9-max Seat #3 is the button
+Seat 1: Emm89 ($5.08 in chips) 
+Seat 2: NoName35387 ($4.15 in chips) 
+Seat 3: T-Bone881969 ($3.53 in chips) 
+Seat 4: BlackCat0812 ($18.01 in chips) 
+Seat 5: leopoker1 ($7.49 in chips) 
+Seat 6: mafiaalan10 ($5.90 in chips) 
+Seat 7: K.Yurka ($5 in chips) 
+Seat 9: Dorex2007 ($7.45 in chips) 
+BlackCat0812: posts small blind $0.02
+leopoker1: posts big blind $0.05
+gio119: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6d 2h]
+mafiaalan10: folds 
+K.Yurka: raises $0.10 to $0.15
+Dorex2007: folds 
+Emm89: folds 
+NoName35387: folds 
+T-Bone881969: folds 
+BlackCat0812: calls $0.13
+leopoker1: folds 
+*** FLOP *** [9c 6s Kh]
+BlackCat0812: bets $0.15
+K.Yurka: calls $0.15
+*** TURN *** [9c 6s Kh] [8h]
+BlackCat0812: bets $0.15
+K.Yurka: calls $0.15
+*** RIVER *** [9c 6s Kh 8h] [Ac]
+BlackCat0812: checks 
+K.Yurka: checks 
+*** SHOW DOWN ***
+BlackCat0812: shows [Ts Tc] (a pair of Tens)
+K.Yurka: shows [Qd Qc] (a pair of Queens)
+K.Yurka collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [9c 6s Kh 8h Ac]
+Seat 1: Emm89 folded before Flop (didn't bet)
+Seat 2: NoName35387 folded before Flop (didn't bet)
+Seat 3: T-Bone881969 (button) folded before Flop (didn't bet)
+Seat 4: BlackCat0812 (small blind) showed [Ts Tc] and lost with a pair of Tens
+Seat 5: leopoker1 (big blind) folded before Flop
+Seat 6: mafiaalan10 folded before Flop (didn't bet)
+Seat 7: K.Yurka showed [Qd Qc] and won ($0.91) with a pair of Queens
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362189566:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:41:41 PT [2022/09/02 1:41:41 ET]
+Table 'Uppsala' 9-max Seat #4 is the button
+Seat 1: Emm89 ($5.08 in chips) 
+Seat 2: NoName35387 ($4.15 in chips) 
+Seat 3: T-Bone881969 ($3.53 in chips) 
+Seat 4: BlackCat0812 ($17.56 in chips) 
+Seat 5: leopoker1 ($7.44 in chips) 
+Seat 6: mafiaalan10 ($5.90 in chips) 
+Seat 7: K.Yurka ($5.46 in chips) 
+Seat 9: Dorex2007 ($7.45 in chips) 
+leopoker1: posts small blind $0.02
+mafiaalan10: posts big blind $0.05
+gio119: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Th]
+K.Yurka: folds 
+Dorex2007: folds 
+Emm89: folds 
+NoName35387: calls $0.05
+T-Bone881969: folds 
+BlackCat0812: calls $0.05
+leopoker1: raises $0.30 to $0.35
+mafiaalan10: folds 
+NoName35387: folds 
+BlackCat0812: folds 
+Uncalled bet ($0.30) returned to leopoker1
+leopoker1 collected $0.20 from pot
+leopoker1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Emm89 folded before Flop (didn't bet)
+Seat 2: NoName35387 folded before Flop
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 (button) folded before Flop
+Seat 5: leopoker1 (small blind) collected ($0.20)
+Seat 6: mafiaalan10 (big blind) folded before Flop
+Seat 7: K.Yurka folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362194243:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:42:24 PT [2022/09/02 1:42:24 ET]
+Table 'Uppsala' 9-max Seat #5 is the button
+Seat 1: Emm89 ($5.08 in chips) 
+Seat 2: NoName35387 ($4.10 in chips) 
+Seat 3: T-Bone881969 ($3.53 in chips) 
+Seat 4: BlackCat0812 ($17.51 in chips) 
+Seat 5: leopoker1 ($7.59 in chips) 
+Seat 6: mafiaalan10 ($5.85 in chips) 
+Seat 7: K.Yurka ($5.46 in chips) 
+Seat 9: Dorex2007 ($7.45 in chips) 
+mafiaalan10: posts small blind $0.02
+K.Yurka: posts big blind $0.05
+gio119: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h 3c]
+Dorex2007: folds 
+Emm89: folds 
+NoName35387: folds 
+T-Bone881969: folds 
+BlackCat0812: calls $0.05
+leopoker1: calls $0.05
+mafiaalan10: raises $0.10 to $0.15
+K.Yurka: folds 
+BlackCat0812: folds 
+leopoker1: calls $0.10
+*** FLOP *** [5h 5s As]
+mafiaalan10: bets $0.20
+leopoker1: calls $0.20
+*** TURN *** [5h 5s As] [4h]
+mafiaalan10: bets $0.30
+leopoker1: calls $0.30
+*** RIVER *** [5h 5s As 4h] [Qd]
+mafiaalan10: bets $0.20
+leopoker1: calls $0.20
+*** SHOW DOWN ***
+mafiaalan10: shows [Kd Qs] (two pair, Queens and Fives)
+leopoker1: shows [Ac Th] (two pair, Aces and Fives)
+leopoker1 collected $1.73 from pot
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.07 
+Board [5h 5s As 4h Qd]
+Seat 1: Emm89 folded before Flop (didn't bet)
+Seat 2: NoName35387 folded before Flop (didn't bet)
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop
+Seat 5: leopoker1 (button) showed [Ac Th] and won ($1.73) with two pair, Aces and Fives
+Seat 6: mafiaalan10 (small blind) showed [Kd Qs] and lost with two pair, Queens and Fives
+Seat 7: K.Yurka (big blind) folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362200198:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:43:18 PT [2022/09/02 1:43:18 ET]
+Table 'Uppsala' 9-max Seat #6 is the button
+Seat 1: Emm89 ($5.08 in chips) 
+Seat 2: NoName35387 ($4.10 in chips) 
+Seat 3: T-Bone881969 ($3.53 in chips) 
+Seat 4: BlackCat0812 ($17.46 in chips) 
+Seat 5: leopoker1 ($8.47 in chips) 
+Seat 6: mafiaalan10 ($5 in chips) 
+Seat 7: K.Yurka ($5.41 in chips) 
+Seat 8: gio119 ($4.07 in chips) 
+Seat 9: Dorex2007 ($7.45 in chips) 
+K.Yurka: posts small blind $0.02
+gio119: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 9s]
+Dorex2007: folds 
+Emm89: folds 
+NoName35387: folds 
+T-Bone881969: folds 
+BlackCat0812: folds 
+leopoker1: raises $0.10 to $0.15
+mafiaalan10: folds 
+K.Yurka: folds 
+gio119 has timed out
+gio119: folds 
+Uncalled bet ($0.10) returned to leopoker1
+leopoker1 collected $0.12 from pot
+leopoker1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Emm89 folded before Flop (didn't bet)
+Seat 2: NoName35387 folded before Flop (didn't bet)
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: leopoker1 collected ($0.12)
+Seat 6: mafiaalan10 (button) folded before Flop (didn't bet)
+Seat 7: K.Yurka (small blind) folded before Flop
+Seat 8: gio119 (big blind) folded before Flop
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362206637:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:44:18 PT [2022/09/02 1:44:18 ET]
+Table 'Uppsala' 9-max Seat #7 is the button
+Seat 1: Emm89 ($5.08 in chips) 
+Seat 2: NoName35387 ($4.10 in chips) 
+Seat 3: T-Bone881969 ($3.53 in chips) 
+Seat 4: BlackCat0812 ($17.46 in chips) 
+Seat 5: leopoker1 ($8.54 in chips) 
+Seat 6: mafiaalan10 ($5 in chips) 
+Seat 7: K.Yurka ($5.39 in chips) 
+Seat 9: Dorex2007 ($7.45 in chips) 
+Dorex2007: posts small blind $0.02
+Emm89: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 9c]
+NoName35387: calls $0.05
+T-Bone881969: folds 
+BlackCat0812: folds 
+leopoker1: folds 
+mafiaalan10: folds 
+K.Yurka: calls $0.05
+Dorex2007: folds 
+Emm89: checks 
+*** FLOP *** [Tc As 3c]
+Emm89: checks 
+NoName35387: checks 
+K.Yurka: checks 
+*** TURN *** [Tc As 3c] [Qs]
+Emm89: checks 
+NoName35387: checks 
+K.Yurka: checks 
+*** RIVER *** [Tc As 3c Qs] [4s]
+Emm89: checks 
+NoName35387: checks 
+K.Yurka: checks 
+*** SHOW DOWN ***
+Emm89: shows [8h 7c] (high card Ace)
+NoName35387: shows [Jh 4h] (a pair of Fours)
+K.Yurka: mucks hand 
+NoName35387 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Tc As 3c Qs 4s]
+Seat 1: Emm89 (big blind) showed [8h 7c] and lost with high card Ace
+Seat 2: NoName35387 showed [Jh 4h] and won ($0.16) with a pair of Fours
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: leopoker1 folded before Flop (didn't bet)
+Seat 6: mafiaalan10 folded before Flop (didn't bet)
+Seat 7: K.Yurka (button) mucked [Kd 2d]
+Seat 9: Dorex2007 (small blind) folded before Flop
+
+
+
+PokerStars Hand #238362211476:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:45:02 PT [2022/09/02 1:45:02 ET]
+Table 'Uppsala' 9-max Seat #9 is the button
+Seat 1: Emm89 ($5.03 in chips) 
+Seat 2: NoName35387 ($4.21 in chips) 
+Seat 3: T-Bone881969 ($3.53 in chips) 
+Seat 4: BlackCat0812 ($17.46 in chips) 
+Seat 5: leopoker1 ($8.54 in chips) 
+Seat 6: mafiaalan10 ($5 in chips) 
+Seat 7: K.Yurka ($5.34 in chips) 
+Seat 9: Dorex2007 ($7.43 in chips) 
+Emm89: posts small blind $0.02
+NoName35387: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Th]
+T-Bone881969: folds 
+BlackCat0812: folds 
+leopoker1: folds 
+mafiaalan10: raises $0.10 to $0.15
+K.Yurka: folds 
+Dorex2007: folds 
+Emm89: calls $0.13
+NoName35387: folds 
+*** FLOP *** [Ad 8s 3d]
+Emm89: checks 
+mafiaalan10: checks 
+*** TURN *** [Ad 8s 3d] [Kh]
+Emm89: bets $0.17
+mafiaalan10: calls $0.17
+*** RIVER *** [Ad 8s 3d Kh] [9d]
+Emm89: checks 
+mafiaalan10: bets $1.15
+Emm89: folds 
+Uncalled bet ($1.15) returned to mafiaalan10
+mafiaalan10 collected $0.66 from pot
+mafiaalan10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.69 | Rake $0.03 
+Board [Ad 8s 3d Kh 9d]
+Seat 1: Emm89 (small blind) folded on the River
+Seat 2: NoName35387 (big blind) folded before Flop
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: leopoker1 folded before Flop (didn't bet)
+Seat 6: mafiaalan10 collected ($0.66)
+Seat 7: K.Yurka folded before Flop (didn't bet)
+Seat 9: Dorex2007 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362216569:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:45:48 PT [2022/09/02 1:45:48 ET]
+Table 'Uppsala' 9-max Seat #1 is the button
+Seat 1: Emm89 ($4.71 in chips) 
+Seat 2: NoName35387 ($4.16 in chips) 
+Seat 3: T-Bone881969 ($3.53 in chips) 
+Seat 4: BlackCat0812 ($17.46 in chips) 
+Seat 5: leopoker1 ($8.54 in chips) 
+Seat 6: mafiaalan10 ($5.34 in chips) 
+Seat 7: K.Yurka ($5.34 in chips) 
+Seat 9: Dorex2007 ($7.43 in chips) 
+NoName35387: posts small blind $0.02
+T-Bone881969: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Jh]
+BlackCat0812: folds 
+leopoker1: folds 
+mafiaalan10: folds 
+K.Yurka: folds 
+Dorex2007: folds 
+Emm89: raises $0.10 to $0.15
+NoName35387: folds 
+T-Bone881969: calls $0.10
+*** FLOP *** [Tc 3s Ah]
+T-Bone881969: checks 
+Emm89: bets $0.15
+T-Bone881969: calls $0.15
+*** TURN *** [Tc 3s Ah] [Kc]
+T-Bone881969: checks 
+Emm89: bets $0.29
+T-Bone881969: calls $0.29
+*** RIVER *** [Tc 3s Ah Kc] [Ad]
+T-Bone881969: checks 
+Emm89: checks 
+*** SHOW DOWN ***
+T-Bone881969: shows [Kd Qc] (two pair, Aces and Kings)
+Emm89: mucks hand 
+T-Bone881969 collected $1.15 from pot
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.05 
+Board [Tc 3s Ah Kc Ad]
+Seat 1: Emm89 (button) mucked [Ks Js]
+Seat 2: NoName35387 (small blind) folded before Flop
+Seat 3: T-Bone881969 (big blind) showed [Kd Qc] and won ($1.15) with two pair, Aces and Kings
+Seat 4: BlackCat0812 folded before Flop (didn't bet)
+Seat 5: leopoker1 folded before Flop (didn't bet)
+Seat 6: mafiaalan10 folded before Flop (didn't bet)
+Seat 7: K.Yurka folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362223503:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:46:53 PT [2022/09/02 1:46:53 ET]
+Table 'Uppsala' 9-max Seat #2 is the button
+Seat 1: Emm89 ($4.12 in chips) 
+Seat 2: NoName35387 ($4.14 in chips) 
+Seat 3: T-Bone881969 ($4.09 in chips) 
+Seat 4: BlackCat0812 ($17.46 in chips) 
+Seat 5: leopoker1 ($8.54 in chips) 
+Seat 6: mafiaalan10 ($5.34 in chips) 
+Seat 7: K.Yurka ($5.34 in chips) 
+Seat 9: Dorex2007 ($7.43 in chips) 
+T-Bone881969: posts small blind $0.02
+BlackCat0812: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 4c]
+leopoker1: folds 
+mafiaalan10: folds 
+K.Yurka: folds 
+Dorex2007: folds 
+Emm89: raises $0.10 to $0.15
+NoName35387: folds 
+T-Bone881969: folds 
+BlackCat0812: folds 
+Uncalled bet ($0.10) returned to Emm89
+Emm89 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Emm89 collected ($0.12)
+Seat 2: NoName35387 (button) folded before Flop (didn't bet)
+Seat 3: T-Bone881969 (small blind) folded before Flop
+Seat 4: BlackCat0812 (big blind) folded before Flop
+Seat 5: leopoker1 folded before Flop (didn't bet)
+Seat 6: mafiaalan10 folded before Flop (didn't bet)
+Seat 7: K.Yurka folded before Flop (didn't bet)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238362226703:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:47:23 PT [2022/09/02 1:47:23 ET]
+Table 'Uppsala' 9-max Seat #3 is the button
+Seat 1: Emm89 ($4.19 in chips) 
+Seat 2: NoName35387 ($4.14 in chips) 
+Seat 3: T-Bone881969 ($4.07 in chips) 
+Seat 4: BlackCat0812 ($17.41 in chips) 
+Seat 6: mafiaalan10 ($5.34 in chips) 
+Seat 7: K.Yurka ($5.34 in chips) 
+Seat 9: Dorex2007 ($7.43 in chips) 
+BlackCat0812: posts small blind $0.02
+leopoker1: is sitting out 
+mafiaalan10: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ah Ad]
+leopoker1 leaves the table
+K.Yurka: folds 
+Dorex2007: raises $0.12 to $0.17
+Emm89: folds 
+NoName35387: calls $0.17
+T-Bone881969: folds 
+BlackCat0812: folds 
+mafiaalan10: folds 
+*** FLOP *** [Tc 9s 7c]
+Dorex2007: bets $7.26 and is all-in
+jiovanhy joins the table at seat #5 
+NoName35387: calls $3.97 and is all-in
+Uncalled bet ($3.29) returned to Dorex2007
+*** TURN *** [Tc 9s 7c] [5c]
+*** RIVER *** [Tc 9s 7c 5c] [Ks]
+*** SHOW DOWN ***
+Dorex2007: shows [Ah Ad] (a pair of Aces)
+NoName35387: shows [4c Qc] (a flush, Queen high)
+NoName35387 collected $8 from pot
+Dorex2007 cashed out the hand for $4.85 | Cash Out Fee $0.05
+*** SUMMARY ***
+Total pot $8.35 | Rake $0.35 
+Board [Tc 9s 7c 5c Ks]
+Seat 1: Emm89 folded before Flop (didn't bet)
+Seat 2: NoName35387 showed [4c Qc] and won ($8) with a flush, Queen high
+Seat 3: T-Bone881969 (button) folded before Flop (didn't bet)
+Seat 4: BlackCat0812 (small blind) folded before Flop
+Seat 6: mafiaalan10 (big blind) folded before Flop
+Seat 7: K.Yurka folded before Flop (didn't bet)
+Seat 9: Dorex2007 showed [Ah Ad] and lost with a pair of Aces (cashed out).
+
+
+
+PokerStars Hand #238362234231:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/01 22:48:34 PT [2022/09/02 1:48:34 ET]
+Table 'Uppsala' 9-max Seat #4 is the button
+Seat 1: Emm89 ($4.19 in chips) 
+Seat 2: NoName35387 ($8 in chips) 
+Seat 3: T-Bone881969 ($4.07 in chips) 
+Seat 4: BlackCat0812 ($17.39 in chips) 
+Seat 6: mafiaalan10 ($5.29 in chips) 
+Seat 7: K.Yurka ($5.34 in chips) 
+Seat 9: Dorex2007 ($8.14 in chips) 
+mafiaalan10: posts small blind $0.02
+K.Yurka: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 3s]
+Dorex2007: folds 
+Emm89: folds 
+NoName35387: folds 
+T-Bone881969: folds 
+BlackCat0812: folds 
+mafiaalan10: folds 
+Uncalled bet ($0.03) returned to K.Yurka
+K.Yurka collected $0.04 from pot
+K.Yurka: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Emm89 folded before Flop (didn't bet)
+Seat 2: NoName35387 folded before Flop (didn't bet)
+Seat 3: T-Bone881969 folded before Flop (didn't bet)
+Seat 4: BlackCat0812 (button) folded before Flop (didn't bet)
+Seat 6: mafiaalan10 (small blind) folded before Flop
+Seat 7: K.Yurka (big blind) collected ($0.04)
+Seat 9: Dorex2007 folded before Flop (didn't bet)
+
+
+
