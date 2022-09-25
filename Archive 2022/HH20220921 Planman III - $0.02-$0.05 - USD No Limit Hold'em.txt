@@ -1,0 +1,717 @@
+﻿PokerStars Hand #238782284936:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/21 17:42:47 PT [2022/09/21 20:42:47 ET]
+Table 'Planman III' 9-max Seat #7 is the button
+Seat 2: ANNA MARIE ($3.51 in chips) 
+Seat 3: gmitoi ($6.38 in chips) 
+Seat 5: Dorex2007 ($5 in chips) 
+Seat 6: JavierACP ($7.18 in chips) 
+Seat 7: BigJim42069 ($10.14 in chips) 
+Seat 9: In-Solem ($5.28 in chips) 
+In-Solem: posts small blind $0.02
+laureano290: is sitting out 
+ANNA MARIE: posts big blind $0.05
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 2s]
+gmitoi: folds 
+Dorex2007: checks 
+laureano290 leaves the table
+JavierACP: folds 
+BigJim42069: folds 
+In-Solem: raises $0.30 to $0.35
+ANNA MARIE: folds 
+Dorex2007: folds 
+Uncalled bet ($0.30) returned to In-Solem
+In-Solem collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 2: ANNA MARIE (big blind) folded before Flop
+Seat 3: gmitoi folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: JavierACP folded before Flop (didn't bet)
+Seat 7: BigJim42069 (button) folded before Flop (didn't bet)
+Seat 9: In-Solem (small blind) collected ($0.15)
+
+
+
+PokerStars Hand #238782289837:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/21 17:43:10 PT [2022/09/21 20:43:10 ET]
+Table 'Planman III' 9-max Seat #9 is the button
+Seat 2: ANNA MARIE ($3.46 in chips) 
+Seat 3: gmitoi ($6.38 in chips) 
+Seat 5: Dorex2007 ($5 in chips) 
+Seat 6: JavierACP ($7.18 in chips) 
+Seat 7: BigJim42069 ($10.14 in chips) 
+Seat 8: Kisame42 ($3.18 in chips) 
+Seat 9: In-Solem ($5.38 in chips) 
+ANNA MARIE: posts small blind $0.02
+gmitoi: posts big blind $0.05
+Kisame42: posts small & big blinds $0.07
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Jd]
+Dorex2007: folds 
+JavierACP: folds 
+BigJim42069: folds 
+Kisame42: raises $0.05 to $0.10
+In-Solem: folds 
+ANNA MARIE: calls $0.08
+gmitoi: calls $0.05
+*** FLOP *** [4s Kc 9c]
+Idivide&conquer joins the table at seat #1 
+ANNA MARIE: checks 
+gmitoi: checks 
+Kisame42: bets $0.15
+ANNA MARIE: folds 
+gmitoi: calls $0.15
+*** TURN *** [4s Kc 9c] [Jh]
+gmitoi: checks 
+Kisame42: bets $0.59
+gmitoi: folds 
+Uncalled bet ($0.59) returned to Kisame42
+Kisame42 collected $0.59 from pot
+Kisame42: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.03 
+Board [4s Kc 9c Jh]
+Seat 2: ANNA MARIE (small blind) folded on the Flop
+Seat 3: gmitoi (big blind) folded on the Turn
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: JavierACP folded before Flop (didn't bet)
+Seat 7: BigJim42069 folded before Flop (didn't bet)
+Seat 8: Kisame42 collected ($0.59)
+Seat 9: In-Solem (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238782298823:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/21 17:43:53 PT [2022/09/21 20:43:53 ET]
+Table 'Planman III' 9-max Seat #2 is the button
+Seat 2: ANNA MARIE ($3.91 in chips) 
+Seat 3: gmitoi ($6.13 in chips) 
+Seat 5: Dorex2007 ($5 in chips) 
+Seat 6: JavierACP ($7.18 in chips) 
+Seat 7: BigJim42069 ($10.14 in chips) 
+Seat 8: Kisame42 ($3.50 in chips) 
+Seat 9: In-Solem ($5.38 in chips) 
+gmitoi: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+Idivide&conquer: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 4h]
+JavierACP: folds 
+BigJim42069: calls $0.05
+Kisame42: raises $0.05 to $0.10
+In-Solem: folds 
+ANNA MARIE: raises $0.15 to $0.25
+gmitoi: folds 
+Dorex2007: folds 
+BigJim42069: folds 
+Kisame42: calls $0.15
+*** FLOP *** [Ad Qs 4c]
+Kisame42: checks 
+ANNA MARIE: bets $0.25
+Kisame42: calls $0.25
+*** TURN *** [Ad Qs 4c] [8s]
+Kisame42: checks 
+ANNA MARIE: checks 
+*** RIVER *** [Ad Qs 4c 8s] [Kh]
+Kisame42: checks 
+ANNA MARIE: checks 
+*** SHOW DOWN ***
+Kisame42: shows [6s 4s] (a pair of Fours)
+ANNA MARIE: shows [Th Ts] (a pair of Tens)
+ANNA MARIE collected $1.07 from pot
+*** SUMMARY ***
+Total pot $1.12 | Rake $0.05 
+Board [Ad Qs 4c 8s Kh]
+Seat 2: ANNA MARIE (button) showed [Th Ts] and won ($1.07) with a pair of Tens
+Seat 3: gmitoi (small blind) folded before Flop
+Seat 5: Dorex2007 (big blind) folded before Flop
+Seat 6: JavierACP folded before Flop (didn't bet)
+Seat 7: BigJim42069 folded before Flop
+Seat 8: Kisame42 showed [6s 4s] and lost with a pair of Fours
+Seat 9: In-Solem folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238782308402:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/21 17:44:38 PT [2022/09/21 20:44:38 ET]
+Table 'Planman III' 9-max Seat #3 is the button
+Seat 2: ANNA MARIE ($4.83 in chips) 
+Seat 3: gmitoi ($6.11 in chips) 
+Seat 5: Dorex2007 ($5 in chips) 
+Seat 6: JavierACP ($7.18 in chips) 
+Seat 7: BigJim42069 ($10.09 in chips) 
+Seat 8: Kisame42 ($3 in chips) 
+Seat 9: In-Solem ($5.38 in chips) 
+Dorex2007: posts small blind $0.02
+JavierACP: posts big blind $0.05
+Idivide&conquer: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 7d]
+BigJim42069: folds 
+Kisame42: raises $0.10 to $0.15
+In-Solem: raises $0.20 to $0.35
+ANNA MARIE: folds 
+gmitoi: folds 
+Dorex2007: folds 
+JavierACP: folds 
+Kisame42: raises $2.65 to $3 and is all-in
+In-Solem: calls $2.65
+*** FLOP *** [Tc 5h Ts]
+*** TURN *** [Tc 5h Ts] [Ks]
+*** RIVER *** [Tc 5h Ts Ks] [5d]
+*** SHOW DOWN ***
+Kisame42: shows [9c 9d] (two pair, Tens and Nines)
+In-Solem: shows [Qh Kh] (two pair, Kings and Tens)
+In-Solem cashed out the hand for $2.74 | Cash Out Fee $0.03
+*** SUMMARY ***
+Total pot $6.07 | Rake $0.25 
+Board [Tc 5h Ts Ks 5d]
+Seat 2: ANNA MARIE folded before Flop (didn't bet)
+Seat 3: gmitoi (button) folded before Flop (didn't bet)
+Seat 5: Dorex2007 (small blind) folded before Flop
+Seat 6: JavierACP (big blind) folded before Flop
+Seat 7: BigJim42069 folded before Flop (didn't bet)
+Seat 8: Kisame42 showed [9c 9d] and lost with two pair, Tens and Nines
+Seat 9: In-Solem showed [Qh Kh] and won ($5.82) with two pair, Kings and Tens (pot not awarded as player cashed out)
+
+
+
+PokerStars Hand #238782315135:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/21 17:45:09 PT [2022/09/21 20:45:09 ET]
+Table 'Planman III' 9-max Seat #5 is the button
+Seat 2: ANNA MARIE ($4.83 in chips) 
+Seat 3: gmitoi ($6.11 in chips) 
+Seat 4: rAmAsse75 ($7.94 in chips) 
+Seat 5: Dorex2007 ($5 in chips) 
+Seat 6: JavierACP ($7.13 in chips) 
+Seat 7: BigJim42069 ($10.09 in chips) 
+Seat 9: In-Solem ($5.12 in chips) 
+JavierACP: posts small blind $0.02
+BigJim42069: posts big blind $0.05
+Idivide&conquer: sits out 
+rAmAsse75: posts small & big blinds $0.07
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s Ad]
+In-Solem: raises $0.20 to $0.25
+ANNA MARIE: folds 
+gmitoi: folds 
+Kisame42 leaves the table
+rAmAsse75: calls $0.20
+Dorex2007: folds 
+JavierACP: folds 
+laureano290 joins the table at seat #8 
+BigJim42069: folds 
+*** FLOP *** [Jc 2s 6c]
+In-Solem: checks 
+rAmAsse75: checks 
+*** TURN *** [Jc 2s 6c] [6d]
+In-Solem: bets $0.57
+rAmAsse75: calls $0.57
+*** RIVER *** [Jc 2s 6c 6d] [Ac]
+In-Solem: checks 
+rAmAsse75: bets $0.55
+In-Solem: calls $0.55
+*** SHOW DOWN ***
+rAmAsse75: shows [Kc Qc] (a flush, Ace high)
+In-Solem: mucks hand 
+rAmAsse75 collected $2.71 from pot
+*** SUMMARY ***
+Total pot $2.83 | Rake $0.12 
+Board [Jc 2s 6c 6d Ac]
+Seat 2: ANNA MARIE folded before Flop (didn't bet)
+Seat 3: gmitoi folded before Flop (didn't bet)
+Seat 4: rAmAsse75 showed [Kc Qc] and won ($2.71) with a flush, Ace high
+Seat 5: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 6: JavierACP (small blind) folded before Flop
+Seat 7: BigJim42069 (big blind) folded before Flop
+Seat 9: In-Solem mucked [Th As]
+
+
+
+PokerStars Hand #238782326950:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/21 17:46:05 PT [2022/09/21 20:46:05 ET]
+Table 'Planman III' 9-max Seat #6 is the button
+Seat 2: ANNA MARIE ($4.83 in chips) 
+Seat 3: gmitoi ($6.11 in chips) 
+Seat 4: rAmAsse75 ($9.26 in chips) 
+Seat 5: Dorex2007 ($5 in chips) 
+Seat 6: JavierACP ($7.11 in chips) 
+Seat 7: BigJim42069 ($10.04 in chips) 
+Seat 8: laureano290 ($5 in chips) 
+Seat 9: In-Solem ($5 in chips) 
+BigJim42069: posts small blind $0.02
+laureano290: posts big blind $0.05
+Idivide&conquer: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh 8c]
+In-Solem: folds 
+ANNA MARIE: raises $0.05 to $0.10
+gmitoi: calls $0.10
+rAmAsse75: folds 
+Dorex2007: folds 
+JavierACP: calls $0.10
+BigJim42069: raises $0.45 to $0.55
+laureano290: folds 
+ANNA MARIE: calls $0.45
+gmitoi: folds 
+JavierACP: calls $0.45
+*** FLOP *** [Js Tc 7h]
+BigJim42069: bets $1.73
+ANNA MARIE: calls $1.73
+JavierACP: calls $1.73
+*** TURN *** [Js Tc 7h] [Qs]
+BigJim42069: bets $7.76 and is all-in
+ANNA MARIE: calls $2.55 and is all-in
+JavierACP: calls $4.83 and is all-in
+Uncalled bet ($2.93) returned to BigJim42069
+*** RIVER *** [Js Tc 7h Qs] [Kd]
+*** SHOW DOWN ***
+BigJim42069: shows [Jh Th] (two pair, Jacks and Tens)
+JavierACP: shows [7s 7d] (three of a kind, Sevens)
+ANNA MARIE: shows [Jd Ad] (a straight, Ten to Ace)
+ANNA MARIE collected $14.03 from main pot
+JavierACP cashed out the hand for $15.58 | Cash Out Fee $0.16
+*** SUMMARY ***
+Total pot $19.20 Main pot $14.03. Side pot $4.37. | Rake $0.80 
+Board [Js Tc 7h Qs Kd]
+Seat 2: ANNA MARIE showed [Jd Ad] and won ($14.03) with a straight, Ten to Ace
+Seat 3: gmitoi folded before Flop
+Seat 4: rAmAsse75 folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: JavierACP (button) showed [7s 7d] and won ($4.37) with three of a kind, Sevens (pot not awarded as player cashed out)
+Seat 7: BigJim42069 (small blind) showed [Jh Th] and lost with two pair, Jacks and Tens
+Seat 8: laureano290 (big blind) folded before Flop
+Seat 9: In-Solem folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238782344994:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/21 17:47:31 PT [2022/09/21 20:47:31 ET]
+Table 'Planman III' 9-max Seat #7 is the button
+Seat 2: ANNA MARIE ($14.03 in chips) 
+Seat 3: gmitoi ($6.01 in chips) 
+Seat 4: rAmAsse75 ($9.26 in chips) 
+Seat 5: Dorex2007 ($5 in chips) 
+Seat 6: JavierACP ($15.58 in chips) 
+Seat 7: BigJim42069 ($2.93 in chips) 
+Seat 8: laureano290 ($5 in chips) 
+Seat 9: In-Solem ($5 in chips) 
+laureano290: posts small blind $0.02
+In-Solem: posts big blind $0.05
+Idivide&conquer: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Ah]
+ANNA MARIE: folds 
+gmitoi: folds 
+rAmAsse75: folds 
+Dorex2007: raises $0.10 to $0.15
+JavierACP: folds 
+BigJim42069: folds 
+BigJim42069 leaves the table
+laureano290: folds 
+In-Solem: folds 
+Uncalled bet ($0.10) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 2: ANNA MARIE folded before Flop (didn't bet)
+Seat 3: gmitoi folded before Flop (didn't bet)
+Seat 4: rAmAsse75 folded before Flop (didn't bet)
+Seat 5: Dorex2007 collected ($0.12)
+Seat 6: JavierACP folded before Flop (didn't bet)
+Seat 7: BigJim42069 (button) folded before Flop (didn't bet)
+Seat 8: laureano290 (small blind) folded before Flop
+Seat 9: In-Solem (big blind) folded before Flop
+
+
+
+PokerStars Hand #238782352131:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/21 17:48:05 PT [2022/09/21 20:48:05 ET]
+Table 'Planman III' 9-max Seat #8 is the button
+Seat 1: Idivide&conquer ($5 in chips) 
+Seat 2: ANNA MARIE ($14.03 in chips) 
+Seat 3: gmitoi ($6.01 in chips) 
+Seat 4: rAmAsse75 ($9.26 in chips) 
+Seat 5: Dorex2007 ($5.07 in chips) 
+Seat 6: JavierACP ($15.58 in chips) 
+Seat 8: laureano290 ($5 in chips) 
+Seat 9: In-Solem ($4.95 in chips) 
+ColinCave joins the table at seat #7 
+In-Solem: posts small blind $0.02
+Idivide&conquer: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As 8h]
+ANNA MARIE: calls $0.05
+gmitoi: calls $0.05
+rAmAsse75: folds 
+Dorex2007: folds 
+JavierACP has timed out
+JavierACP: folds 
+laureano290: folds 
+In-Solem: folds 
+Idivide&conquer: checks 
+*** FLOP *** [3s 3h 7s]
+Idivide&conquer: checks 
+ANNA MARIE: bets $0.15
+gmitoi: folds 
+Idivide&conquer: folds 
+Uncalled bet ($0.15) returned to ANNA MARIE
+ANNA MARIE collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [3s 3h 7s]
+Seat 1: Idivide&conquer (big blind) folded on the Flop
+Seat 2: ANNA MARIE collected ($0.16)
+Seat 3: gmitoi folded on the Flop
+Seat 4: rAmAsse75 folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: JavierACP folded before Flop (didn't bet)
+Seat 8: laureano290 (button) folded before Flop (didn't bet)
+Seat 9: In-Solem (small blind) folded before Flop
+
+
+
+PokerStars Hand #238782361229:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/21 17:48:49 PT [2022/09/21 20:48:49 ET]
+Table 'Planman III' 9-max Seat #9 is the button
+Seat 1: Idivide&conquer ($4.95 in chips) 
+Seat 4: rAmAsse75 ($9.26 in chips) 
+Seat 5: Dorex2007 ($5.07 in chips) 
+Seat 6: JavierACP ($15.58 in chips) 
+Seat 7: ColinCave ($5 in chips) 
+Seat 8: laureano290 ($5 in chips) 
+Seat 9: In-Solem ($4.93 in chips) 
+Idivide&conquer: posts small blind $0.02
+ANNA MARIE: is sitting out 
+gmitoi: is sitting out 
+rAmAsse75: posts big blind $0.05
+gmitoi leaves the table
+ColinCave: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5c As]
+Dorex2007: folds 
+JavierACP: calls $0.05
+HAEMHuk2009 joins the table at seat #3 
+ColinCave: checks 
+laureano290: folds 
+In-Solem: folds 
+Idivide&conquer: folds 
+rAmAsse75: checks 
+*** FLOP *** [5s Kh Ah]
+rAmAsse75: checks 
+JavierACP: checks 
+ColinCave: checks 
+*** TURN *** [5s Kh Ah] [8d]
+rAmAsse75: checks 
+JavierACP: checks 
+ColinCave: checks 
+*** RIVER *** [5s Kh Ah 8d] [7c]
+rAmAsse75: bets $0.12
+JavierACP: folds 
+ColinCave: folds 
+Uncalled bet ($0.12) returned to rAmAsse75
+rAmAsse75 collected $0.16 from pot
+rAmAsse75: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [5s Kh Ah 8d 7c]
+Seat 1: Idivide&conquer (small blind) folded before Flop
+Seat 4: rAmAsse75 (big blind) collected ($0.16)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: JavierACP folded on the River
+Seat 7: ColinCave folded on the River (didn't bet)
+Seat 8: laureano290 folded before Flop (didn't bet)
+Seat 9: In-Solem (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238782372439:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/21 17:49:42 PT [2022/09/21 20:49:42 ET]
+Table 'Planman III' 9-max Seat #1 is the button
+Seat 1: Idivide&conquer ($4.93 in chips) 
+Seat 4: rAmAsse75 ($9.37 in chips) 
+Seat 5: Dorex2007 ($5.07 in chips) 
+Seat 6: JavierACP ($15.53 in chips) 
+Seat 7: ColinCave ($4.95 in chips) 
+Seat 8: laureano290 ($5 in chips) 
+Seat 9: In-Solem ($4.93 in chips) 
+rAmAsse75: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2c 3c]
+JavierACP: folds 
+ColinCave: calls $0.05
+laureano290: folds 
+In-Solem: folds 
+Idivide&conquer: folds 
+rAmAsse75: folds 
+Dorex2007: checks 
+*** FLOP *** [6d Kh 3s]
+Dorex2007: checks 
+ColinCave: checks 
+*** TURN *** [6d Kh 3s] [Qd]
+Dorex2007: checks 
+ColinCave: checks 
+*** RIVER *** [6d Kh 3s Qd] [Ac]
+Dorex2007: checks 
+ColinCave: checks 
+*** SHOW DOWN ***
+Dorex2007: shows [2c 3c] (a pair of Threes)
+ColinCave: mucks hand 
+Dorex2007 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [6d Kh 3s Qd Ac]
+Seat 1: Idivide&conquer (button) folded before Flop (didn't bet)
+Seat 4: rAmAsse75 (small blind) folded before Flop
+Seat 5: Dorex2007 (big blind) showed [2c 3c] and won ($0.12) with a pair of Threes
+Seat 6: JavierACP folded before Flop (didn't bet)
+Seat 7: ColinCave mucked [5h 7h]
+Seat 8: laureano290 folded before Flop (didn't bet)
+Seat 9: In-Solem folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238782380650:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/21 17:50:22 PT [2022/09/21 20:50:22 ET]
+Table 'Planman III' 9-max Seat #4 is the button
+Seat 1: Idivide&conquer ($4.93 in chips) 
+Seat 2: ANNA MARIE ($14.14 in chips) 
+Seat 4: rAmAsse75 ($9.35 in chips) 
+Seat 5: Dorex2007 ($5.14 in chips) 
+Seat 6: JavierACP ($15.53 in chips) 
+Seat 7: ColinCave ($4.90 in chips) 
+Seat 8: laureano290 ($5 in chips) 
+Seat 9: In-Solem ($4.93 in chips) 
+Dorex2007: posts small blind $0.02
+JavierACP: posts big blind $0.05
+ANNA MARIE: posts small & big blinds $0.07
+HAEMHuk2009: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 3h]
+ColinCave: raises $0.09 to $0.14
+laureano290: folds 
+In-Solem: folds 
+Idivide&conquer: folds 
+ANNA MARIE: calls $0.09
+rAmAsse75: calls $0.14
+Dorex2007: folds 
+JavierACP: folds 
+*** FLOP *** [6d Ts Ks]
+ColinCave: bets $0.24
+ANNA MARIE: folds 
+rAmAsse75: folds 
+Uncalled bet ($0.24) returned to ColinCave
+ColinCave collected $0.49 from pot
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [6d Ts Ks]
+Seat 1: Idivide&conquer folded before Flop (didn't bet)
+Seat 2: ANNA MARIE folded on the Flop
+Seat 4: rAmAsse75 (button) folded on the Flop
+Seat 5: Dorex2007 (small blind) folded before Flop
+Seat 6: JavierACP (big blind) folded before Flop
+Seat 7: ColinCave collected ($0.49)
+Seat 8: laureano290 folded before Flop (didn't bet)
+Seat 9: In-Solem folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238782389255:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/21 17:51:03 PT [2022/09/21 20:51:03 ET]
+Table 'Planman III' 9-max Seat #5 is the button
+Seat 1: Idivide&conquer ($4.93 in chips) 
+Seat 2: ANNA MARIE ($13.98 in chips) 
+Seat 4: rAmAsse75 ($9.21 in chips) 
+Seat 5: Dorex2007 ($5.12 in chips) 
+Seat 6: JavierACP ($15.48 in chips) 
+Seat 7: ColinCave ($5.25 in chips) 
+Seat 8: laureano290 ($5 in chips) 
+Seat 9: In-Solem ($4.93 in chips) 
+JavierACP: posts small blind $0.02
+ColinCave: posts big blind $0.05
+HAEMHuk2009: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 5s]
+laureano290: folds 
+In-Solem: folds 
+Idivide&conquer: folds 
+ANNA MARIE: folds 
+rAmAsse75: folds 
+Dorex2007: folds 
+JavierACP: folds 
+Uncalled bet ($0.03) returned to ColinCave
+ColinCave collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Idivide&conquer folded before Flop (didn't bet)
+Seat 2: ANNA MARIE folded before Flop (didn't bet)
+Seat 4: rAmAsse75 folded before Flop (didn't bet)
+Seat 5: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 6: JavierACP (small blind) folded before Flop
+Seat 7: ColinCave (big blind) collected ($0.04)
+Seat 8: laureano290 folded before Flop (didn't bet)
+Seat 9: In-Solem folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238782392249:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/21 17:51:18 PT [2022/09/21 20:51:18 ET]
+Table 'Planman III' 9-max Seat #6 is the button
+Seat 1: Idivide&conquer ($4.93 in chips) 
+Seat 2: ANNA MARIE ($13.98 in chips) 
+Seat 4: rAmAsse75 ($9.21 in chips) 
+Seat 5: Dorex2007 ($5.12 in chips) 
+Seat 6: JavierACP ($15.46 in chips) 
+Seat 7: ColinCave ($5.27 in chips) 
+Seat 8: laureano290 ($5 in chips) 
+Seat 9: In-Solem ($4.93 in chips) 
+ColinCave: posts small blind $0.02
+laureano290: posts big blind $0.05
+HAEMHuk2009: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 2s]
+In-Solem: folds 
+Idivide&conquer: folds 
+ANNA MARIE: folds 
+rAmAsse75: folds 
+Dorex2007: folds 
+JavierACP: raises $0.10 to $0.15
+ColinCave: folds 
+laureano290: folds 
+Uncalled bet ($0.10) returned to JavierACP
+JavierACP collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Idivide&conquer folded before Flop (didn't bet)
+Seat 2: ANNA MARIE folded before Flop (didn't bet)
+Seat 4: rAmAsse75 folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: JavierACP (button) collected ($0.12)
+Seat 7: ColinCave (small blind) folded before Flop
+Seat 8: laureano290 (big blind) folded before Flop
+Seat 9: In-Solem folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238782396754:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/21 17:51:39 PT [2022/09/21 20:51:39 ET]
+Table 'Planman III' 9-max Seat #7 is the button
+Seat 1: Idivide&conquer ($4.93 in chips) 
+Seat 2: ANNA MARIE ($13.98 in chips) 
+Seat 4: rAmAsse75 ($9.21 in chips) 
+Seat 5: Dorex2007 ($5.12 in chips) 
+Seat 6: JavierACP ($15.53 in chips) 
+Seat 7: ColinCave ($5.25 in chips) 
+Seat 8: laureano290 ($5 in chips) 
+Seat 9: In-Solem ($4.93 in chips) 
+laureano290: posts small blind $0.02
+In-Solem: posts big blind $0.05
+HAEMHuk2009: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 4d]
+Idivide&conquer: folds 
+ANNA MARIE: calls $0.05
+rAmAsse75: folds 
+Dorex2007: folds 
+JavierACP: folds 
+ColinCave: calls $0.05
+laureano290: calls $0.03
+In-Solem: checks 
+*** FLOP *** [2s Kd 2h]
+laureano290: checks 
+In-Solem: checks 
+ANNA MARIE: bets $0.15
+ColinCave: folds 
+laureano290: folds 
+In-Solem: calls $0.15
+*** TURN *** [2s Kd 2h] [Kc]
+In-Solem: checks 
+ANNA MARIE: bets $0.75
+In-Solem: folds 
+Uncalled bet ($0.75) returned to ANNA MARIE
+ANNA MARIE collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [2s Kd 2h Kc]
+Seat 1: Idivide&conquer folded before Flop (didn't bet)
+Seat 2: ANNA MARIE collected ($0.48)
+Seat 4: rAmAsse75 folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: JavierACP folded before Flop (didn't bet)
+Seat 7: ColinCave (button) folded on the Flop
+Seat 8: laureano290 (small blind) folded on the Flop
+Seat 9: In-Solem (big blind) folded on the Turn
+
+
+
+PokerStars Hand #238782409451:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/21 17:52:41 PT [2022/09/21 20:52:41 ET]
+Table 'Planman III' 9-max Seat #8 is the button
+Seat 1: Idivide&conquer ($4.93 in chips) 
+Seat 2: ANNA MARIE ($14.26 in chips) 
+Seat 4: rAmAsse75 ($9.21 in chips) 
+Seat 5: Dorex2007 ($5.12 in chips) 
+Seat 6: JavierACP ($15.53 in chips) 
+Seat 7: ColinCave ($5.20 in chips) 
+Seat 8: laureano290 ($5 in chips) 
+Seat 9: In-Solem ($4.73 in chips) 
+In-Solem: posts small blind $0.02
+Idivide&conquer: posts big blind $0.05
+HAEMHuk2009: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 6h]
+ANNA MARIE: folds 
+rAmAsse75: folds 
+Dorex2007: folds 
+JavierACP: folds 
+ColinCave: raises $0.05 to $0.10
+laureano290: folds 
+In-Solem: folds 
+Idivide&conquer: folds 
+Uncalled bet ($0.05) returned to ColinCave
+ColinCave collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Idivide&conquer (big blind) folded before Flop
+Seat 2: ANNA MARIE folded before Flop (didn't bet)
+Seat 4: rAmAsse75 folded before Flop (didn't bet)
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: JavierACP folded before Flop (didn't bet)
+Seat 7: ColinCave collected ($0.12)
+Seat 8: laureano290 (button) folded before Flop (didn't bet)
+Seat 9: In-Solem (small blind) folded before Flop
+
+
+
+PokerStars Hand #238782414943:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/21 17:53:08 PT [2022/09/21 20:53:08 ET]
+Table 'Planman III' 9-max Seat #9 is the button
+Seat 1: Idivide&conquer ($4.88 in chips) 
+Seat 2: ANNA MARIE ($14.26 in chips) 
+Seat 4: rAmAsse75 ($9.21 in chips) 
+Seat 5: Dorex2007 ($5.12 in chips) 
+Seat 6: JavierACP ($15.53 in chips) 
+Seat 7: ColinCave ($5.27 in chips) 
+Seat 8: laureano290 ($5 in chips) 
+Seat 9: In-Solem ($4.71 in chips) 
+Idivide&conquer: posts small blind $0.02
+ANNA MARIE: posts big blind $0.05
+HAEMHuk2009: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 2h]
+rAmAsse75: calls $0.05
+Dorex2007: folds 
+JavierACP: folds 
+ColinCave: folds 
+laureano290: folds 
+In-Solem: folds 
+Idivide&conquer: folds 
+ANNA MARIE: raises $0.10 to $0.15
+rAmAsse75: calls $0.10
+*** FLOP *** [Td Ks 9s]
+ANNA MARIE: bets $0.15
+rAmAsse75: folds 
+Uncalled bet ($0.15) returned to ANNA MARIE
+ANNA MARIE collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Td Ks 9s]
+Seat 1: Idivide&conquer (small blind) folded before Flop
+Seat 2: ANNA MARIE (big blind) collected ($0.31)
+Seat 4: rAmAsse75 folded on the Flop
+Seat 5: Dorex2007 folded before Flop (didn't bet)
+Seat 6: JavierACP folded before Flop (didn't bet)
+Seat 7: ColinCave folded before Flop (didn't bet)
+Seat 8: laureano290 folded before Flop (didn't bet)
+Seat 9: In-Solem (button) folded before Flop (didn't bet)
+
+
+

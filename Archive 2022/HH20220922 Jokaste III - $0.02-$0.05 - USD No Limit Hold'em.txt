@@ -1,0 +1,4096 @@
+﻿PokerStars Hand #238794274125:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:44:48 PT [2022/09/22 13:44:48 ET]
+Table 'Jokaste III' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Pheelts ($6.63 in chips) 
+Seat 4: vladimir5421 ($10.09 in chips) 
+Seat 5: soldim327 ($5.04 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 8: Alex.Petrovskiy ($10.79 in chips) 
+Seat 9: thegreatcurve ($4.98 in chips) 
+vladimir5421: posts small blind $0.02
+soldim327: posts big blind $0.05
+sc2005: sits out 
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 9d]
+andrei_lint: folds 
+Alex.Petrovskiy: folds 
+thegreatcurve: folds 
+Dorex2007: checks 
+Pheelts: calls $0.05
+vladimir5421: folds 
+soldim327: checks 
+*** FLOP *** [9h Qd Js]
+soldim327: checks 
+Dorex2007: checks 
+Pheelts: checks 
+*** TURN *** [9h Qd Js] [Ad]
+soldim327: checks 
+Dorex2007: checks 
+Pheelts: bets $0.08
+soldim327: folds 
+Dorex2007: folds 
+Uncalled bet ($0.08) returned to Pheelts
+Pheelts collected $0.16 from pot
+Pheelts: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [9h Qd Js Ad]
+Seat 1: Dorex2007 folded on the Turn (didn't bet)
+Seat 2: Pheelts (button) collected ($0.16)
+Seat 4: vladimir5421 (small blind) folded before Flop
+Seat 5: soldim327 (big blind) folded on the Turn
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 8: Alex.Petrovskiy folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794285618:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:45:19 PT [2022/09/22 13:45:19 ET]
+Table 'Jokaste III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Pheelts ($6.74 in chips) 
+Seat 4: vladimir5421 ($10.07 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 8: Alex.Petrovskiy ($10.79 in chips) 
+Seat 9: thegreatcurve ($4.98 in chips) 
+soldim327: posts small blind $0.02
+andrei_lint: posts big blind $0.05
+sc2005: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s Ah]
+Alex.Petrovskiy: raises $0.10 to $0.15
+thegreatcurve: folds 
+Dorex2007: folds 
+Pheelts: folds 
+vladimir5421: folds 
+soldim327: folds 
+andrei_lint: folds 
+Uncalled bet ($0.10) returned to Alex.Petrovskiy
+Alex.Petrovskiy collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Pheelts folded before Flop (didn't bet)
+Seat 4: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 5: soldim327 (small blind) folded before Flop
+Seat 6: andrei_lint (big blind) folded before Flop
+Seat 8: Alex.Petrovskiy collected ($0.12)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794292441:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:45:37 PT [2022/09/22 13:45:37 ET]
+Table 'Jokaste III' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Pheelts ($6.74 in chips) 
+Seat 4: vladimir5421 ($10.07 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: sc2005 ($5 in chips) 
+Seat 8: Alex.Petrovskiy ($10.86 in chips) 
+Seat 9: thegreatcurve ($4.98 in chips) 
+andrei_lint: posts small blind $0.02
+sc2005: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c Qs]
+mumisber leaves the table
+Alex.Petrovskiy: folds 
+thegreatcurve: raises $0.10 to $0.15
+Dorex2007: folds 
+Pheelts: folds 
+vladimir5421: folds 
+soldim327: folds 
+andrei_lint: folds 
+sc2005: calls $0.10
+*** FLOP *** [Jc 8d 8h]
+Gabesz19810811 joins the table at seat #3 
+sc2005: checks 
+thegreatcurve: bets $0.15
+sc2005: calls $0.15
+*** TURN *** [Jc 8d 8h] [3c]
+sc2005: checks 
+thegreatcurve: bets $0.30
+sc2005: calls $0.30
+*** RIVER *** [Jc 8d 8h 3c] [Ah]
+sc2005: checks 
+thegreatcurve: checks 
+*** SHOW DOWN ***
+sc2005: shows [Ts 9s] (a pair of Eights)
+thegreatcurve: shows [Kd Js] (two pair, Jacks and Eights)
+thegreatcurve collected $1.17 from pot
+*** SUMMARY ***
+Total pot $1.22 | Rake $0.05 
+Board [Jc 8d 8h 3c Ah]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Pheelts folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: soldim327 (button) folded before Flop (didn't bet)
+Seat 6: andrei_lint (small blind) folded before Flop
+Seat 7: sc2005 (big blind) showed [Ts 9s] and lost with a pair of Eights
+Seat 8: Alex.Petrovskiy folded before Flop (didn't bet)
+Seat 9: thegreatcurve showed [Kd Js] and won ($1.17) with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #238794311130:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:46:26 PT [2022/09/22 13:46:26 ET]
+Table 'Jokaste III' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Pheelts ($6.74 in chips) 
+Seat 4: vladimir5421 ($10.07 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: sc2005 ($5 in chips) 
+Seat 8: Alex.Petrovskiy ($10.86 in chips) 
+Seat 9: thegreatcurve ($5.55 in chips) 
+sc2005: posts small blind $0.02
+Alex.Petrovskiy: posts big blind $0.05
+Gabesz19810811: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qd 4s]
+thegreatcurve: folds 
+Dorex2007: folds 
+Pheelts: raises $0.05 to $0.10
+vladimir5421: calls $0.10
+soldim327: calls $0.10
+andrei_lint: folds 
+sc2005 has timed out
+sc2005: folds 
+Alex.Petrovskiy: folds 
+*** FLOP *** [Jd 2h 5h]
+Pheelts: checks 
+vladimir5421: checks 
+soldim327: checks 
+*** TURN *** [Jd 2h 5h] [Kh]
+Pheelts: bets $0.35
+vladimir5421: folds 
+soldim327: folds 
+Uncalled bet ($0.35) returned to Pheelts
+Pheelts collected $0.35 from pot
+Pheelts: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [Jd 2h 5h Kh]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Pheelts collected ($0.35)
+Seat 4: vladimir5421 folded on the Turn
+Seat 5: soldim327 folded on the Turn
+Seat 6: andrei_lint (button) folded before Flop (didn't bet)
+Seat 7: sc2005 (small blind) folded before Flop
+Seat 8: Alex.Petrovskiy (big blind) folded before Flop
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794346083:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:47:57 PT [2022/09/22 13:47:57 ET]
+Table 'Jokaste III' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Pheelts ($6.99 in chips) 
+Seat 4: vladimir5421 ($9.97 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: sc2005 ($5 in chips) 
+Seat 8: Alex.Petrovskiy ($10.81 in chips) 
+Seat 9: thegreatcurve ($5.55 in chips) 
+Alex.Petrovskiy: posts small blind $0.02
+thegreatcurve: posts big blind $0.05
+Gabesz19810811: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 9h]
+Dorex2007: folds 
+Pheelts: folds 
+vladimir5421: folds 
+soldim327: folds 
+andrei_lint: folds 
+sc2005: folds 
+Alex.Petrovskiy: folds 
+Uncalled bet ($0.03) returned to thegreatcurve
+thegreatcurve collected $0.04 from pot
+thegreatcurve: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Pheelts folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: soldim327 folded before Flop (didn't bet)
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: sc2005 (button) folded before Flop (didn't bet)
+Seat 8: Alex.Petrovskiy (small blind) folded before Flop
+Seat 9: thegreatcurve (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #238794352008:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:48:13 PT [2022/09/22 13:48:13 ET]
+Table 'Jokaste III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Pheelts ($6.99 in chips) 
+Seat 4: vladimir5421 ($9.97 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: sc2005 ($5 in chips) 
+Seat 8: Alex.Petrovskiy ($10.79 in chips) 
+Seat 9: thegreatcurve ($5.57 in chips) 
+thegreatcurve: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+Gabesz19810811: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 2h]
+Pheelts: folds 
+vladimir5421: folds 
+soldim327: folds 
+andrei_lint: folds 
+sc2005: folds 
+Alex.Petrovskiy: raises $0.08 to $0.13
+thegreatcurve: folds 
+Dorex2007: folds 
+Uncalled bet ($0.08) returned to Alex.Petrovskiy
+Alex.Petrovskiy collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: Pheelts folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: soldim327 folded before Flop (didn't bet)
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: Alex.Petrovskiy (button) collected ($0.12)
+Seat 9: thegreatcurve (small blind) folded before Flop
+
+
+
+PokerStars Hand #238794357778:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:48:28 PT [2022/09/22 13:48:28 ET]
+Table 'Jokaste III' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Pheelts ($6.99 in chips) 
+Seat 4: vladimir5421 ($9.97 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: sc2005 ($5 in chips) 
+Seat 8: Alex.Petrovskiy ($10.86 in chips) 
+Seat 9: thegreatcurve ($5.55 in chips) 
+Dorex2007: posts small blind $0.02
+Pheelts: posts big blind $0.05
+Gabesz19810811: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 7s]
+vladimir5421: raises $0.10 to $0.15
+soldim327: folds 
+andrei_lint: folds 
+sc2005: folds 
+Alex.Petrovskiy: folds 
+thegreatcurve: folds 
+Dorex2007: folds 
+Pheelts: folds 
+Uncalled bet ($0.10) returned to vladimir5421
+vladimir5421 collected $0.12 from pot
+vladimir5421: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: Pheelts (big blind) folded before Flop
+Seat 4: vladimir5421 collected ($0.12)
+Seat 5: soldim327 folded before Flop (didn't bet)
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: Alex.Petrovskiy folded before Flop (didn't bet)
+Seat 9: thegreatcurve (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794368111:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:48:55 PT [2022/09/22 13:48:55 ET]
+Table 'Jokaste III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Pheelts ($6.94 in chips) 
+Seat 3: Gabesz19810811 ($2 in chips) 
+Seat 4: vladimir5421 ($10.04 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: sc2005 ($5 in chips) 
+Seat 8: Alex.Petrovskiy ($10.86 in chips) 
+Seat 9: thegreatcurve ($5.55 in chips) 
+Pheelts: posts small blind $0.02
+Gabesz19810811: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 7d]
+vladimir5421: folds 
+soldim327: folds 
+andrei_lint: folds 
+sc2005: folds 
+Alex.Petrovskiy: folds 
+thegreatcurve: folds 
+Dorex2007: folds 
+Pheelts: calls $0.03
+Gabesz19810811: checks 
+*** FLOP *** [5c 3h 7s]
+Pheelts: checks 
+Gabesz19810811: bets $0.05
+Pheelts: calls $0.05
+*** TURN *** [5c 3h 7s] [Kh]
+Pheelts: bets $0.09
+Gabesz19810811: calls $0.09
+*** RIVER *** [5c 3h 7s Kh] [4s]
+Pheelts: checks 
+Gabesz19810811: checks 
+*** SHOW DOWN ***
+Pheelts: shows [Jd 8s] (high card King)
+Gabesz19810811: shows [Ks 3c] (two pair, Kings and Threes)
+Gabesz19810811 collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.02 
+Board [5c 3h 7s Kh 4s]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: Pheelts (small blind) showed [Jd 8s] and lost with high card King
+Seat 3: Gabesz19810811 (big blind) showed [Ks 3c] and won ($0.36) with two pair, Kings and Threes
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: soldim327 folded before Flop (didn't bet)
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: Alex.Petrovskiy folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794385224:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:49:40 PT [2022/09/22 13:49:40 ET]
+Table 'Jokaste III' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Pheelts ($6.75 in chips) 
+Seat 3: Gabesz19810811 ($2.17 in chips) 
+Seat 4: vladimir5421 ($10.04 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: sc2005 ($5 in chips) 
+Seat 8: Alex.Petrovskiy ($10.86 in chips) 
+Gabesz19810811: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 6s]
+soldim327: raises $0.07 to $0.12
+andrei_lint: calls $0.12
+sc2005: calls $0.12
+Alex.Petrovskiy: folds 
+Dorex2007: folds 
+Pheelts: folds 
+Gabesz19810811: calls $0.10
+vladimir5421: folds 
+*** FLOP *** [Th 5s Kc]
+Gabesz19810811: checks 
+soldim327: checks 
+andrei_lint: checks 
+sc2005: checks 
+*** TURN *** [Th 5s Kc] [3s]
+Gabesz19810811: checks 
+soldim327: checks 
+andrei_lint: checks 
+sc2005: bets $0.34
+Gabesz19810811: folds 
+soldim327: folds 
+andrei_lint: folds 
+Uncalled bet ($0.34) returned to sc2005
+sc2005 collected $0.51 from pot
+sc2005: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [Th 5s Kc 3s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Pheelts (button) folded before Flop (didn't bet)
+Seat 3: Gabesz19810811 (small blind) folded on the Turn
+Seat 4: vladimir5421 (big blind) folded before Flop
+Seat 5: soldim327 folded on the Turn
+Seat 6: andrei_lint folded on the Turn
+Seat 7: sc2005 collected ($0.51)
+Seat 8: Alex.Petrovskiy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794399599:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:50:18 PT [2022/09/22 13:50:18 ET]
+Table 'Jokaste III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Pheelts ($6.75 in chips) 
+Seat 3: Gabesz19810811 ($2.05 in chips) 
+Seat 4: vladimir5421 ($9.99 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: sc2005 ($5.39 in chips) 
+Seat 8: Alex.Petrovskiy ($10.86 in chips) 
+vladimir5421: posts small blind $0.02
+soldim327: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qh Td]
+andrei_lint: folds 
+sc2005: raises $0.10 to $0.15
+Alex.Petrovskiy: folds 
+Dorex2007: folds 
+Pheelts: folds 
+Gabesz19810811: folds 
+vladimir5421: folds 
+soldim327: folds 
+Uncalled bet ($0.10) returned to sc2005
+sc2005 collected $0.12 from pot
+sc2005: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Pheelts folded before Flop (didn't bet)
+Seat 3: Gabesz19810811 (button) folded before Flop (didn't bet)
+Seat 4: vladimir5421 (small blind) folded before Flop
+Seat 5: soldim327 (big blind) folded before Flop
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: sc2005 collected ($0.12)
+Seat 8: Alex.Petrovskiy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794404471:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:50:31 PT [2022/09/22 13:50:31 ET]
+Table 'Jokaste III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Pheelts ($6.75 in chips) 
+Seat 3: Gabesz19810811 ($2.05 in chips) 
+Seat 4: vladimir5421 ($9.97 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: sc2005 ($5.46 in chips) 
+Seat 8: Alex.Petrovskiy ($10.86 in chips) 
+soldim327: posts small blind $0.02
+andrei_lint: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 8c]
+sc2005: folds 
+Alex.Petrovskiy: folds 
+Dorex2007: folds 
+Pheelts: raises $0.10 to $0.15
+Gabesz19810811: calls $0.15
+vladimir5421: calls $0.15
+soldim327: folds 
+andrei_lint: folds 
+*** FLOP *** [7s 9c 7h]
+Pheelts: checks 
+Gabesz19810811: checks 
+vladimir5421: checks 
+*** TURN *** [7s 9c 7h] [6d]
+Pheelts: checks 
+Gabesz19810811: checks 
+vladimir5421: checks 
+*** RIVER *** [7s 9c 7h 6d] [Qc]
+Pheelts: bets $1.50
+Gabesz19810811: folds 
+vladimir5421: folds 
+Uncalled bet ($1.50) returned to Pheelts
+Pheelts collected $0.50 from pot
+Pheelts: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [7s 9c 7h 6d Qc]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Pheelts collected ($0.50)
+Seat 3: Gabesz19810811 folded on the River
+Seat 4: vladimir5421 (button) folded on the River
+Seat 5: soldim327 (small blind) folded before Flop
+Seat 6: andrei_lint (big blind) folded before Flop
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: Alex.Petrovskiy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794425612:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:51:27 PT [2022/09/22 13:51:27 ET]
+Table 'Jokaste III' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Pheelts ($7.10 in chips) 
+Seat 3: Gabesz19810811 ($1.90 in chips) 
+Seat 4: vladimir5421 ($9.82 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: sc2005 ($5.46 in chips) 
+Seat 8: Alex.Petrovskiy ($10.86 in chips) 
+andrei_lint: posts small blind $0.02
+sc2005: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 3h]
+Alex.Petrovskiy: folds 
+Dorex2007: folds 
+Pheelts: folds 
+Gabesz19810811: raises $0.05 to $0.10
+vladimir5421: folds 
+soldim327: folds 
+andrei_lint: folds 
+sc2005: folds 
+Uncalled bet ($0.05) returned to Gabesz19810811
+Gabesz19810811 collected $0.12 from pot
+Gabesz19810811: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Pheelts folded before Flop (didn't bet)
+Seat 3: Gabesz19810811 collected ($0.12)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: soldim327 (button) folded before Flop (didn't bet)
+Seat 6: andrei_lint (small blind) folded before Flop
+Seat 7: sc2005 (big blind) folded before Flop
+Seat 8: Alex.Petrovskiy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794438620:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:52:01 PT [2022/09/22 13:52:01 ET]
+Table 'Jokaste III' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Pheelts ($7.10 in chips) 
+Seat 3: Gabesz19810811 ($1.97 in chips) 
+Seat 4: vladimir5421 ($9.82 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: sc2005 ($5.41 in chips) 
+Seat 8: Alex.Petrovskiy ($10.86 in chips) 
+sc2005: posts small blind $0.02
+Alex.Petrovskiy: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c 6h]
+Dorex2007: calls $0.05
+Pheelts: folds 
+Gabesz19810811: calls $0.05
+vladimir5421: folds 
+soldim327: folds 
+andrei_lint: folds 
+sc2005: folds 
+Alex.Petrovskiy: checks 
+*** FLOP *** [8d Tc Qh]
+Alex.Petrovskiy: checks 
+Dorex2007: checks 
+Gabesz19810811: bets $0.16
+Alex.Petrovskiy: folds 
+Dorex2007: folds 
+Uncalled bet ($0.16) returned to Gabesz19810811
+Gabesz19810811 collected $0.16 from pot
+Gabesz19810811: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [8d Tc Qh]
+Seat 1: Dorex2007 folded on the Flop
+Seat 2: Pheelts folded before Flop (didn't bet)
+Seat 3: Gabesz19810811 collected ($0.16)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: soldim327 folded before Flop (didn't bet)
+Seat 6: andrei_lint (button) folded before Flop (didn't bet)
+Seat 7: sc2005 (small blind) folded before Flop
+Seat 8: Alex.Petrovskiy (big blind) folded on the Flop
+
+
+
+PokerStars Hand #238794450831:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:52:33 PT [2022/09/22 13:52:33 ET]
+Table 'Jokaste III' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Pheelts ($7.10 in chips) 
+Seat 3: Gabesz19810811 ($2.08 in chips) 
+Seat 4: vladimir5421 ($9.82 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: andrei_lint ($5 in chips) 
+Seat 7: sc2005 ($5.39 in chips) 
+Seat 8: Alex.Petrovskiy ($10.81 in chips) 
+Alex.Petrovskiy: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s Qh]
+Pheelts: raises $0.05 to $0.10
+Gabesz19810811: folds 
+vladimir5421: folds 
+soldim327: folds 
+andrei_lint: raises $0.25 to $0.35
+sc2005: folds 
+Alex.Petrovskiy: folds 
+Dorex2007: folds 
+Pheelts: folds 
+Uncalled bet ($0.25) returned to andrei_lint
+andrei_lint collected $0.27 from pot
+andrei_lint: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0 
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: Pheelts folded before Flop
+Seat 3: Gabesz19810811 folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: soldim327 folded before Flop (didn't bet)
+Seat 6: andrei_lint collected ($0.27)
+Seat 7: sc2005 (button) folded before Flop (didn't bet)
+Seat 8: Alex.Petrovskiy (small blind) folded before Flop
+
+
+
+PokerStars Hand #238794470105:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:53:24 PT [2022/09/22 13:53:24 ET]
+Table 'Jokaste III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Pheelts ($7 in chips) 
+Seat 3: Gabesz19810811 ($2.08 in chips) 
+Seat 4: vladimir5421 ($9.82 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: andrei_lint ($5.17 in chips) 
+Seat 7: sc2005 ($5.39 in chips) 
+Seat 8: Alex.Petrovskiy ($10.79 in chips) 
+Dorex2007: posts small blind $0.02
+Pheelts: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ts 5s]
+Gabesz19810811: raises $0.05 to $0.10
+vladimir5421: folds 
+soldim327: folds 
+andrei_lint: folds 
+sc2005: folds 
+Alex.Petrovskiy: folds 
+Dorex2007: folds 
+Pheelts: folds 
+Uncalled bet ($0.05) returned to Gabesz19810811
+Gabesz19810811 collected $0.12 from pot
+Gabesz19810811: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: Pheelts (big blind) folded before Flop
+Seat 3: Gabesz19810811 collected ($0.12)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: soldim327 folded before Flop (didn't bet)
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: Alex.Petrovskiy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794476456:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:53:41 PT [2022/09/22 13:53:41 ET]
+Table 'Jokaste III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Pheelts ($6.95 in chips) 
+Seat 3: Gabesz19810811 ($2.15 in chips) 
+Seat 4: vladimir5421 ($9.82 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: andrei_lint ($5.17 in chips) 
+Seat 7: sc2005 ($5.39 in chips) 
+Seat 8: Alex.Petrovskiy ($10.79 in chips) 
+Pheelts: posts small blind $0.02
+Gabesz19810811: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 3d]
+vladimir5421: folds 
+soldim327: folds 
+andrei_lint: folds 
+sc2005: raises $0.10 to $0.15
+Alex.Petrovskiy: folds 
+Dorex2007: folds 
+Pheelts: folds 
+Gabesz19810811: folds 
+Uncalled bet ($0.10) returned to sc2005
+sc2005 collected $0.12 from pot
+sc2005: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: Pheelts (small blind) folded before Flop
+Seat 3: Gabesz19810811 (big blind) folded before Flop
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: soldim327 folded before Flop (didn't bet)
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: sc2005 collected ($0.12)
+Seat 8: Alex.Petrovskiy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794482340:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:53:57 PT [2022/09/22 13:53:57 ET]
+Table 'Jokaste III' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Pheelts ($6.93 in chips) 
+Seat 3: Gabesz19810811 ($2.10 in chips) 
+Seat 4: vladimir5421 ($9.82 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: andrei_lint ($5.17 in chips) 
+Seat 7: sc2005 ($5.46 in chips) 
+Seat 8: Alex.Petrovskiy ($10.79 in chips) 
+Gabesz19810811: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 3s]
+soldim327: folds 
+andrei_lint: folds 
+sc2005: folds 
+Alex.Petrovskiy: folds 
+Dorex2007: folds 
+Pheelts: calls $0.05
+Gabesz19810811: calls $0.03
+vladimir5421: checks 
+*** FLOP *** [Kh 2s 7h]
+Gabesz19810811: bets $0.05
+vladimir5421: calls $0.05
+Pheelts: calls $0.05
+*** TURN *** [Kh 2s 7h] [3d]
+Gabesz19810811: bets $0.29
+vladimir5421: folds 
+Pheelts: folds 
+Uncalled bet ($0.29) returned to Gabesz19810811
+Gabesz19810811 collected $0.29 from pot
+Gabesz19810811: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Kh 2s 7h 3d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Pheelts (button) folded on the Turn
+Seat 3: Gabesz19810811 (small blind) collected ($0.29)
+Seat 4: vladimir5421 (big blind) folded on the Turn
+Seat 5: soldim327 folded before Flop (didn't bet)
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: Alex.Petrovskiy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794497007:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:54:36 PT [2022/09/22 13:54:36 ET]
+Table 'Jokaste III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 2: Pheelts ($6.83 in chips) 
+Seat 3: Gabesz19810811 ($2.29 in chips) 
+Seat 4: vladimir5421 ($9.72 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: andrei_lint ($5.17 in chips) 
+Seat 7: sc2005 ($5.46 in chips) 
+Seat 8: Alex.Petrovskiy ($10.79 in chips) 
+vladimir5421: posts small blind $0.02
+soldim327: posts big blind $0.05
+thegreatcurve: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 2c]
+andrei_lint: folds 
+sc2005: folds 
+Alex.Petrovskiy: folds 
+Dorex2007: folds 
+Pheelts: folds 
+Pheelts leaves the table
+Gabesz19810811: calls $0.05
+vladimir5421: calls $0.03
+soldim327: raises $0.21 to $0.26
+Gabesz19810811: folds 
+vladimir5421: calls $0.21
+*** FLOP *** [Qd Qc 2s]
+vladimir5421: checks 
+soldim327: checks 
+*** TURN *** [Qd Qc 2s] [9h]
+vladimir5421: checks 
+soldim327: checks 
+*** RIVER *** [Qd Qc 2s 9h] [6h]
+vladimir5421: checks 
+soldim327: checks 
+*** SHOW DOWN ***
+vladimir5421: shows [5h 5c] (two pair, Queens and Fives)
+soldim327: mucks hand 
+vladimir5421 collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [Qd Qc 2s 9h 6h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: Pheelts folded before Flop (didn't bet)
+Seat 3: Gabesz19810811 (button) folded before Flop
+Seat 4: vladimir5421 (small blind) showed [5h 5c] and won ($0.55) with two pair, Queens and Fives
+Seat 5: soldim327 (big blind) mucked [Js Kh]
+Seat 6: andrei_lint folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: Alex.Petrovskiy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794514488:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:55:29 PT [2022/09/22 13:55:29 ET]
+Table 'Jokaste III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 3: Gabesz19810811 ($2.24 in chips) 
+Seat 4: vladimir5421 ($10.01 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: andrei_lint ($5.17 in chips) 
+Seat 7: sc2005 ($5.46 in chips) 
+Seat 8: Alex.Petrovskiy ($10.79 in chips) 
+soldim327: posts small blind $0.02
+andrei_lint: posts big blind $0.05
+thegreatcurve: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 9s]
+sc2005: folds 
+Alex.Petrovskiy: folds 
+Dorex2007: folds 
+Gabesz19810811: raises $0.05 to $0.10
+vladimir5421: calls $0.10
+soldim327: calls $0.08
+andrei_lint: folds 
+*** FLOP *** [4d Jh Kd]
+soldim327: checks 
+Gabesz19810811: checks 
+vladimir5421: checks 
+*** TURN *** [4d Jh Kd] [Td]
+soldim327: checks 
+Gabesz19810811: checks 
+vladimir5421: checks 
+*** RIVER *** [4d Jh Kd Td] [3h]
+soldim327: checks 
+Gabesz19810811: checks 
+vladimir5421: checks 
+*** SHOW DOWN ***
+soldim327: shows [7s 7d] (a pair of Sevens)
+Gabesz19810811: mucks hand 
+vladimir5421: shows [Tc Ah] (a pair of Tens)
+vladimir5421 collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [4d Jh Kd Td 3h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Gabesz19810811 mucked [4h 2d]
+Seat 4: vladimir5421 (button) showed [Tc Ah] and won ($0.34) with a pair of Tens
+Seat 5: soldim327 (small blind) showed [7s 7d] and lost with a pair of Sevens
+Seat 6: andrei_lint (big blind) folded before Flop
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: Alex.Petrovskiy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794527462:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:56:19 PT [2022/09/22 13:56:19 ET]
+Table 'Jokaste III' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 3: Gabesz19810811 ($2.14 in chips) 
+Seat 4: vladimir5421 ($10.25 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: andrei_lint ($5.12 in chips) 
+Seat 7: sc2005 ($5.46 in chips) 
+Seat 8: Alex.Petrovskiy ($10.79 in chips) 
+andrei_lint: posts small blind $0.02
+sc2005: posts big blind $0.05
+thegreatcurve: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Qh]
+Alex.Petrovskiy: folds 
+Dorex2007: folds 
+Gabesz19810811: raises $0.05 to $0.10
+vladimir5421: folds 
+soldim327: folds 
+andrei_lint: folds 
+sc2005: folds 
+Uncalled bet ($0.05) returned to Gabesz19810811
+andrei_lint leaves the table
+Gabesz19810811 collected $0.12 from pot
+Gabesz19810811: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Gabesz19810811 collected ($0.12)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: soldim327 (button) folded before Flop (didn't bet)
+Seat 6: andrei_lint (small blind) folded before Flop
+Seat 7: sc2005 (big blind) folded before Flop
+Seat 8: Alex.Petrovskiy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794531565:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:56:35 PT [2022/09/22 13:56:35 ET]
+Table 'Jokaste III' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 3: Gabesz19810811 ($2.21 in chips) 
+Seat 4: vladimir5421 ($10.25 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 7: sc2005 ($5.41 in chips) 
+Seat 8: Alex.Petrovskiy ($10.79 in chips) 
+Seat 9: thegreatcurve ($5.55 in chips) 
+Alex.Petrovskiy: posts small blind $0.02
+thegreatcurve: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 7h]
+Dorex2007: folds 
+Gabesz19810811: calls $0.05
+vladimir5421: folds 
+soldim327: folds 
+sc2005: raises $0.10 to $0.15
+Alex.Petrovskiy: folds 
+thegreatcurve: calls $0.10
+Gabesz19810811: calls $0.10
+*** FLOP *** [6d 2c 4h]
+thegreatcurve: checks 
+Gabesz19810811: checks 
+sc2005: checks 
+*** TURN *** [6d 2c 4h] [4d]
+thegreatcurve: bets $0.25
+Gabesz19810811: folds 
+sc2005: folds 
+Uncalled bet ($0.25) returned to thegreatcurve
+thegreatcurve collected $0.45 from pot
+thegreatcurve: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [6d 2c 4h 4d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Gabesz19810811 folded on the Turn
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: soldim327 folded before Flop (didn't bet)
+Seat 7: sc2005 (button) folded on the Turn
+Seat 8: Alex.Petrovskiy (small blind) folded before Flop
+Seat 9: thegreatcurve (big blind) collected ($0.45)
+
+
+
+PokerStars Hand #238794539508:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:57:06 PT [2022/09/22 13:57:06 ET]
+Table 'Jokaste III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 3: Gabesz19810811 ($2.06 in chips) 
+Seat 4: vladimir5421 ($10.25 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 7: sc2005 ($5.26 in chips) 
+Seat 8: Alex.Petrovskiy ($10.77 in chips) 
+Seat 9: thegreatcurve ($5.85 in chips) 
+thegreatcurve: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c As]
+Gabesz19810811: calls $0.05
+vladimir5421: folds 
+soldim327: folds 
+sc2005: calls $0.05
+Alex.Petrovskiy: folds 
+thegreatcurve: folds 
+Dorex2007: checks 
+*** FLOP *** [2s 4s 5h]
+Dorex2007: checks 
+Gabesz19810811: bets $0.16
+sc2005: folds 
+Dorex2007: folds 
+Uncalled bet ($0.16) returned to Gabesz19810811
+Gabesz19810811 collected $0.16 from pot
+Gabesz19810811: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [2s 4s 5h]
+Seat 1: Dorex2007 (big blind) folded on the Flop
+Seat 3: Gabesz19810811 collected ($0.16)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: soldim327 folded before Flop (didn't bet)
+Seat 7: sc2005 folded on the Flop
+Seat 8: Alex.Petrovskiy (button) folded before Flop (didn't bet)
+Seat 9: thegreatcurve (small blind) folded before Flop
+
+
+
+PokerStars Hand #238794547481:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:57:37 PT [2022/09/22 13:57:37 ET]
+Table 'Jokaste III' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($5 in chips) 
+Seat 3: Gabesz19810811 ($2.17 in chips) 
+Seat 4: vladimir5421 ($10.25 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 7: sc2005 ($5.21 in chips) 
+Seat 8: Alex.Petrovskiy ($10.77 in chips) 
+Seat 9: thegreatcurve ($5.83 in chips) 
+Dorex2007: posts small blind $0.02
+Gabesz19810811: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs Ad]
+vladimir5421: calls $0.05
+soldim327: folds 
+sc2005: folds 
+Alex.Petrovskiy: folds 
+thegreatcurve: raises $0.10 to $0.15
+Dorex2007: calls $0.13
+Gabesz19810811: calls $0.10
+vladimir5421: calls $0.10
+*** FLOP *** [Jh Qh Ts]
+Dorex2007: bets $0.58
+Gabesz19810811: folds 
+dankev888 joins the table at seat #6 
+vladimir5421: folds 
+thegreatcurve: raises $1.74 to $2.32
+Dorex2007: calls $1.74
+*** TURN *** [Jh Qh Ts] [Tc]
+Dorex2007: bets $2.53 and is all-in
+thegreatcurve: folds 
+Uncalled bet ($2.53) returned to Dorex2007
+Dorex2007 collected $5.02 from pot
+iguiguana joins the table at seat #2 
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.24 | Rake $0.22 
+Board [Jh Qh Ts Tc]
+Seat 1: Dorex2007 (small blind) collected ($5.02)
+Seat 3: Gabesz19810811 (big blind) folded on the Flop
+Seat 4: vladimir5421 folded on the Flop
+Seat 5: soldim327 folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: Alex.Petrovskiy folded before Flop (didn't bet)
+Seat 9: thegreatcurve (button) folded on the Turn
+
+
+
+PokerStars Hand #238794560200:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:58:25 PT [2022/09/22 13:58:25 ET]
+Table 'Jokaste III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($7.55 in chips) 
+Seat 3: Gabesz19810811 ($2.02 in chips) 
+Seat 4: vladimir5421 ($10.10 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 7: sc2005 ($5.21 in chips) 
+Seat 8: Alex.Petrovskiy ($10.77 in chips) 
+Seat 9: thegreatcurve ($3.36 in chips) 
+Gabesz19810811: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+dankev888: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c 4d]
+soldim327: folds 
+sc2005: folds 
+Alex.Petrovskiy: folds 
+thegreatcurve: folds 
+Dorex2007: folds 
+Gabesz19810811: raises $0.05 to $0.10
+vladimir5421: calls $0.05
+*** FLOP *** [As Ac 4s]
+Gabesz19810811: checks 
+vladimir5421: bets $0.10
+Gabesz19810811: folds 
+Uncalled bet ($0.10) returned to vladimir5421
+vladimir5421 collected $0.19 from pot
+vladimir5421: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [As Ac 4s]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: Gabesz19810811 (small blind) folded on the Flop
+Seat 4: vladimir5421 (big blind) collected ($0.19)
+Seat 5: soldim327 folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: Alex.Petrovskiy folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794569011:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:58:59 PT [2022/09/22 13:58:59 ET]
+Table 'Jokaste III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($7.55 in chips) 
+Seat 3: Gabesz19810811 ($1.92 in chips) 
+Seat 4: vladimir5421 ($10.19 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 7: sc2005 ($5.21 in chips) 
+Seat 8: Alex.Petrovskiy ($10.77 in chips) 
+Seat 9: thegreatcurve ($5 in chips) 
+vladimir5421: posts small blind $0.02
+soldim327: posts big blind $0.05
+dankev888: sits out 
+iguiguana: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 9d]
+sc2005: folds 
+Alex.Petrovskiy: folds 
+thegreatcurve: folds 
+Dorex2007: folds 
+Gabesz19810811: raises $0.05 to $0.10
+vladimir5421: folds 
+soldim327: folds 
+Uncalled bet ($0.05) returned to Gabesz19810811
+Gabesz19810811 collected $0.12 from pot
+Gabesz19810811: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Gabesz19810811 (button) collected ($0.12)
+Seat 4: vladimir5421 (small blind) folded before Flop
+Seat 5: soldim327 (big blind) folded before Flop
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: Alex.Petrovskiy folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794573285:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 10:59:15 PT [2022/09/22 13:59:15 ET]
+Table 'Jokaste III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($7.55 in chips) 
+Seat 3: Gabesz19810811 ($1.99 in chips) 
+Seat 4: vladimir5421 ($10.17 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: dankev888 ($4 in chips) 
+Seat 7: sc2005 ($5.21 in chips) 
+Seat 8: Alex.Petrovskiy ($10.77 in chips) 
+Seat 9: thegreatcurve ($5 in chips) 
+soldim327: posts small blind $0.02
+dankev888: posts big blind $0.05
+iguiguana: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Qs]
+sc2005: folds 
+Alex.Petrovskiy: folds 
+thegreatcurve: raises $0.10 to $0.15
+Dorex2007: folds 
+Gabesz19810811: calls $0.15
+vladimir5421: folds 
+soldim327: folds 
+dankev888: calls $0.10
+*** FLOP *** [5c Qd Jh]
+dankev888: checks 
+thegreatcurve: bets $0.25
+Gabesz19810811: folds 
+dankev888: calls $0.25
+*** TURN *** [5c Qd Jh] [Tc]
+dankev888: checks 
+thegreatcurve: checks 
+*** RIVER *** [5c Qd Jh Tc] [Td]
+dankev888: bets $0.46
+thegreatcurve: folds 
+Uncalled bet ($0.46) returned to dankev888
+dankev888 collected $0.93 from pot
+dankev888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.97 | Rake $0.04 
+Board [5c Qd Jh Tc Td]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Gabesz19810811 folded on the Flop
+Seat 4: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 5: soldim327 (small blind) folded before Flop
+Seat 6: dankev888 (big blind) collected ($0.93)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: Alex.Petrovskiy folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded on the River
+
+
+
+PokerStars Hand #238794588003:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:00:09 PT [2022/09/22 14:00:09 ET]
+Table 'Jokaste III' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($7.55 in chips) 
+Seat 3: Gabesz19810811 ($1.84 in chips) 
+Seat 4: vladimir5421 ($10.17 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: dankev888 ($4.53 in chips) 
+Seat 7: sc2005 ($5.21 in chips) 
+Seat 8: Alex.Petrovskiy ($10.77 in chips) 
+Seat 9: thegreatcurve ($4.60 in chips) 
+dankev888: posts small blind $0.02
+sc2005: posts big blind $0.05
+iguiguana: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 4d]
+Alex.Petrovskiy: folds 
+thegreatcurve: folds 
+Dorex2007: folds 
+Gabesz19810811: raises $0.05 to $0.10
+vladimir5421: folds 
+soldim327: folds 
+dankev888: calls $0.08
+sc2005: folds 
+*** FLOP *** [9s 7d 2h]
+dankev888: checks 
+Gabesz19810811: bets $0.24
+dankev888: calls $0.24
+*** TURN *** [9s 7d 2h] [Kd]
+dankev888: checks 
+Gabesz19810811: checks 
+*** RIVER *** [9s 7d 2h Kd] [3s]
+dankev888: bets $0.35
+Gabesz19810811: folds 
+Uncalled bet ($0.35) returned to dankev888
+dankev888 collected $0.70 from pot
+dankev888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [9s 7d 2h Kd 3s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Gabesz19810811 folded on the River
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: soldim327 (button) folded before Flop (didn't bet)
+Seat 6: dankev888 (small blind) collected ($0.70)
+Seat 7: sc2005 (big blind) folded before Flop
+Seat 8: Alex.Petrovskiy folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794600968:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:00:54 PT [2022/09/22 14:00:54 ET]
+Table 'Jokaste III' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($7.55 in chips) 
+Seat 3: Gabesz19810811 ($1.50 in chips) 
+Seat 4: vladimir5421 ($10.17 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: dankev888 ($4.89 in chips) 
+Seat 7: sc2005 ($5.16 in chips) 
+Seat 9: thegreatcurve ($4.60 in chips) 
+sc2005: posts small blind $0.02
+Alex.Petrovskiy: is sitting out 
+thegreatcurve: posts big blind $0.05
+iguiguana: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h Ad]
+Dorex2007: folds 
+Gabesz19810811: raises $0.05 to $0.10
+vladimir5421: folds 
+soldim327: folds 
+dankev888: folds 
+sc2005: folds 
+thegreatcurve: calls $0.05
+*** FLOP *** [Td Ts 7h]
+thegreatcurve: bets $0.10
+Gabesz19810811: raises $0.20 to $0.30
+thegreatcurve: folds 
+Uncalled bet ($0.20) returned to Gabesz19810811
+Gabesz19810811 collected $0.40 from pot
+Gabesz19810811: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.02 
+Board [Td Ts 7h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: Gabesz19810811 collected ($0.40)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: soldim327 folded before Flop (didn't bet)
+Seat 6: dankev888 (button) folded before Flop (didn't bet)
+Seat 7: sc2005 (small blind) folded before Flop
+Seat 9: thegreatcurve (big blind) folded on the Flop
+
+
+
+PokerStars Hand #238794608453:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:01:17 PT [2022/09/22 14:01:17 ET]
+Table 'Jokaste III' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($7.55 in chips) 
+Seat 3: Gabesz19810811 ($1.70 in chips) 
+Seat 4: vladimir5421 ($10.17 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: dankev888 ($4.89 in chips) 
+Seat 7: sc2005 ($5.14 in chips) 
+Seat 9: thegreatcurve ($4.40 in chips) 
+thegreatcurve: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+iguiguana: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 7c]
+Gabesz19810811: folds 
+vladimir5421: raises $0.10 to $0.15
+soldim327: folds 
+dankev888: folds 
+sc2005: folds 
+Alex.Petrovskiy leaves the table
+thegreatcurve: calls $0.13
+Dorex2007: folds 
+*** FLOP *** [4c Qd 3c]
+PodPolk joins the table at seat #8 
+thegreatcurve: bets $0.20
+vladimir5421: folds 
+Uncalled bet ($0.20) returned to thegreatcurve
+thegreatcurve collected $0.34 from pot
+thegreatcurve: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [4c Qd 3c]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 3: Gabesz19810811 folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded on the Flop
+Seat 5: soldim327 folded before Flop (didn't bet)
+Seat 6: dankev888 folded before Flop (didn't bet)
+Seat 7: sc2005 (button) folded before Flop (didn't bet)
+Seat 9: thegreatcurve (small blind) collected ($0.34)
+
+
+
+PokerStars Hand #238794619238:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:01:49 PT [2022/09/22 14:01:49 ET]
+Table 'Jokaste III' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($7.50 in chips) 
+Seat 2: iguiguana ($4 in chips) 
+Seat 3: Gabesz19810811 ($1.70 in chips) 
+Seat 4: vladimir5421 ($10.02 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: dankev888 ($4.89 in chips) 
+Seat 7: sc2005 ($5.14 in chips) 
+Seat 9: thegreatcurve ($4.59 in chips) 
+Dorex2007: posts small blind $0.02
+iguiguana: posts big blind $0.05
+PodPolk: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d Jh]
+Gabesz19810811: raises $0.05 to $0.10
+vladimir5421: calls $0.10
+soldim327: folds 
+dankev888: folds 
+sc2005: raises $5.04 to $5.14 and is all-in
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: folds 
+Gabesz19810811: calls $1.60 and is all-in
+vladimir5421: folds 
+Uncalled bet ($3.44) returned to sc2005
+*** FLOP *** [2s Js Td]
+*** TURN *** [2s Js Td] [9s]
+*** RIVER *** [2s Js Td 9s] [9d]
+*** SHOW DOWN ***
+Gabesz19810811: shows [Kd Jc] (two pair, Jacks and Nines)
+sc2005: shows [Ac As] (two pair, Aces and Nines)
+sc2005 collected $3.42 from pot
+*** SUMMARY ***
+Total pot $3.57 | Rake $0.15 
+Board [2s Js Td 9s 9d]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: iguiguana (big blind) folded before Flop
+Seat 3: Gabesz19810811 showed [Kd Jc] and lost with two pair, Jacks and Nines
+Seat 4: vladimir5421 folded before Flop
+Seat 5: soldim327 folded before Flop (didn't bet)
+Seat 6: dankev888 folded before Flop (didn't bet)
+Seat 7: sc2005 showed [Ac As] and won ($3.42) with two pair, Aces and Nines
+Seat 9: thegreatcurve (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794635692:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:02:32 PT [2022/09/22 14:02:32 ET]
+Table 'Jokaste III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($7.48 in chips) 
+Seat 2: iguiguana ($3.95 in chips) 
+Seat 4: vladimir5421 ($9.92 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: dankev888 ($4.89 in chips) 
+Seat 7: sc2005 ($6.86 in chips) 
+Seat 9: thegreatcurve ($4.59 in chips) 
+iguiguana: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+PodPolk: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Kc]
+soldim327: folds 
+Gabesz19810811 leaves the table
+dankev888: folds 
+sc2005: folds 
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: folds 
+Uncalled bet ($0.03) returned to vladimir5421
+vladimir5421 collected $0.04 from pot
+vladimir5421: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: iguiguana (small blind) folded before Flop
+Seat 4: vladimir5421 (big blind) collected ($0.04)
+Seat 5: soldim327 folded before Flop (didn't bet)
+Seat 6: dankev888 folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794640457:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:02:45 PT [2022/09/22 14:02:45 ET]
+Table 'Jokaste III' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($7.48 in chips) 
+Seat 2: iguiguana ($3.93 in chips) 
+Seat 4: vladimir5421 ($9.94 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: dankev888 ($4.89 in chips) 
+Seat 7: sc2005 ($6.86 in chips) 
+Seat 9: thegreatcurve ($4.59 in chips) 
+vladimir5421: posts small blind $0.02
+soldim327: posts big blind $0.05
+PodPolk: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh Js]
+dankev888: folds 
+sc2005: folds 
+thegreatcurve: folds 
+Dorex2007: raises $0.12 to $0.17
+iguiguana: folds 
+vladimir5421: folds 
+soldim327: folds 
+Uncalled bet ($0.12) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 collected ($0.12)
+Seat 2: iguiguana (button) folded before Flop (didn't bet)
+Seat 4: vladimir5421 (small blind) folded before Flop
+Seat 5: soldim327 (big blind) folded before Flop
+Seat 6: dankev888 folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794644968:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:02:57 PT [2022/09/22 14:02:57 ET]
+Table 'Jokaste III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($7.55 in chips) 
+Seat 2: iguiguana ($3.93 in chips) 
+Seat 4: vladimir5421 ($9.92 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: dankev888 ($4.89 in chips) 
+Seat 7: sc2005 ($6.86 in chips) 
+Seat 9: thegreatcurve ($4.59 in chips) 
+soldim327: posts small blind $0.02
+dankev888: posts big blind $0.05
+PodPolk: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s As]
+sc2005: folds 
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: folds 
+vladimir5421: folds 
+soldim327: folds 
+Uncalled bet ($0.03) returned to dankev888
+dankev888 collected $0.04 from pot
+dankev888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 4: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 5: soldim327 (small blind) folded before Flop
+Seat 6: dankev888 (big blind) collected ($0.04)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794648620:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:03:07 PT [2022/09/22 14:03:07 ET]
+Table 'Jokaste III' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($7.55 in chips) 
+Seat 2: iguiguana ($3.93 in chips) 
+Seat 4: vladimir5421 ($9.92 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: dankev888 ($4.91 in chips) 
+Seat 7: sc2005 ($6.86 in chips) 
+Seat 9: thegreatcurve ($4.59 in chips) 
+dankev888: posts small blind $0.02
+sc2005: posts big blind $0.05
+PodPolk: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 2h]
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: folds 
+tomashovka55 joins the table at seat #3 
+vladimir5421: folds 
+soldim327: folds 
+dankev888: calls $0.03
+sc2005: raises $0.10 to $0.15
+dankev888: calls $0.10
+*** FLOP *** [6s Qd 4d]
+dankev888: checks 
+sc2005: checks 
+*** TURN *** [6s Qd 4d] [4h]
+dankev888: checks 
+sc2005: bets $0.15
+dankev888: calls $0.15
+*** RIVER *** [6s Qd 4d 4h] [Kc]
+dankev888: bets $0.29
+sc2005: calls $0.29
+*** SHOW DOWN ***
+dankev888: shows [Ah Tc] (a pair of Fours)
+sc2005: shows [Td Kd] (two pair, Kings and Fours)
+sc2005 collected $1.13 from pot
+*** SUMMARY ***
+Total pot $1.18 | Rake $0.05 
+Board [6s Qd 4d 4h Kc]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: soldim327 (button) folded before Flop (didn't bet)
+Seat 6: dankev888 (small blind) showed [Ah Tc] and lost with a pair of Fours
+Seat 7: sc2005 (big blind) showed [Td Kd] and won ($1.13) with two pair, Kings and Fours
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794670248:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:04:03 PT [2022/09/22 14:04:03 ET]
+Table 'Jokaste III' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($7.55 in chips) 
+Seat 2: iguiguana ($3.93 in chips) 
+Seat 4: vladimir5421 ($9.92 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: dankev888 ($4.32 in chips) 
+Seat 7: sc2005 ($7.40 in chips) 
+Seat 8: PodPolk ($5 in chips) 
+Seat 9: thegreatcurve ($4.59 in chips) 
+sc2005: posts small blind $0.02
+PodPolk: posts big blind $0.05
+tomashovka55: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Ad]
+thegreatcurve: folds 
+Dorex2007: raises $0.10 to $0.15
+iguiguana: folds 
+vladimir5421: folds 
+soldim327: folds 
+dankev888: folds 
+sc2005: folds 
+PodPolk: folds 
+Uncalled bet ($0.10) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 collected ($0.12)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: soldim327 folded before Flop (didn't bet)
+Seat 6: dankev888 (button) folded before Flop (didn't bet)
+Seat 7: sc2005 (small blind) folded before Flop
+Seat 8: PodPolk (big blind) folded before Flop
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794674913:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:04:15 PT [2022/09/22 14:04:15 ET]
+Table 'Jokaste III' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($7.62 in chips) 
+Seat 2: iguiguana ($3.93 in chips) 
+Seat 4: vladimir5421 ($9.92 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: dankev888 ($4.32 in chips) 
+Seat 7: sc2005 ($7.38 in chips) 
+Seat 8: PodPolk ($5 in chips) 
+Seat 9: thegreatcurve ($4.59 in chips) 
+PodPolk: posts small blind $0.02
+thegreatcurve: posts big blind $0.05
+tomashovka55: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6h 7d]
+Dorex2007: folds 
+iguiguana: folds 
+vladimir5421: folds 
+soldim327: folds 
+dankev888: folds 
+sc2005: folds 
+PodPolk: folds 
+Uncalled bet ($0.03) returned to thegreatcurve
+thegreatcurve collected $0.04 from pot
+thegreatcurve: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: soldim327 folded before Flop (didn't bet)
+Seat 6: dankev888 folded before Flop (didn't bet)
+Seat 7: sc2005 (button) folded before Flop (didn't bet)
+Seat 8: PodPolk (small blind) folded before Flop
+Seat 9: thegreatcurve (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #238794678558:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:04:25 PT [2022/09/22 14:04:25 ET]
+Table 'Jokaste III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($7.62 in chips) 
+Seat 2: iguiguana ($3.93 in chips) 
+Seat 4: vladimir5421 ($9.92 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: dankev888 ($4.32 in chips) 
+Seat 7: sc2005 ($7.38 in chips) 
+Seat 8: PodPolk ($5 in chips) 
+Seat 9: thegreatcurve ($4.61 in chips) 
+thegreatcurve: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+tomashovka55: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 8s]
+iguiguana: folds 
+vladimir5421: folds 
+soldim327: folds 
+dankev888: folds 
+sc2005: folds 
+PodPolk: raises $0.10 to $0.15
+thegreatcurve: folds 
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to PodPolk
+PodPolk collected $0.12 from pot
+PodPolk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: soldim327 folded before Flop (didn't bet)
+Seat 6: dankev888 folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk (button) collected ($0.12)
+Seat 9: thegreatcurve (small blind) folded before Flop
+
+
+
+PokerStars Hand #238794685911:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:04:44 PT [2022/09/22 14:04:44 ET]
+Table 'Jokaste III' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($7.57 in chips) 
+Seat 2: iguiguana ($3.93 in chips) 
+Seat 4: vladimir5421 ($9.92 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: dankev888 ($4.32 in chips) 
+Seat 7: sc2005 ($7.38 in chips) 
+Seat 8: PodPolk ($5.07 in chips) 
+Seat 9: thegreatcurve ($4.59 in chips) 
+Dorex2007: posts small blind $0.02
+iguiguana: posts big blind $0.05
+tomashovka55: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jh 5s]
+vladimir5421: folds 
+soldim327: folds 
+dankev888: folds 
+sc2005: folds 
+PodPolk: raises $0.10 to $0.15
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: folds 
+Uncalled bet ($0.10) returned to PodPolk
+PodPolk collected $0.12 from pot
+PodPolk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: iguiguana (big blind) folded before Flop
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: soldim327 folded before Flop (didn't bet)
+Seat 6: dankev888 folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk collected ($0.12)
+Seat 9: thegreatcurve (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794699205:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:05:18 PT [2022/09/22 14:05:18 ET]
+Table 'Jokaste III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($7.55 in chips) 
+Seat 2: iguiguana ($3.88 in chips) 
+Seat 3: tomashovka55 ($5 in chips) 
+Seat 4: vladimir5421 ($9.92 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: dankev888 ($4.32 in chips) 
+Seat 7: sc2005 ($7.38 in chips) 
+Seat 8: PodPolk ($5.14 in chips) 
+Seat 9: thegreatcurve ($4.59 in chips) 
+iguiguana: posts small blind $0.02
+tomashovka55: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h Td]
+vladimir5421 has timed out
+vladimir5421: folds 
+soldim327: folds 
+dankev888: folds 
+sc2005: folds 
+PodPolk: folds 
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: calls $0.03
+tomashovka55: checks 
+*** FLOP *** [Kd Ks 6d]
+iguiguana: checks 
+tomashovka55: checks 
+*** TURN *** [Kd Ks 6d] [2h]
+iguiguana: checks 
+tomashovka55: checks 
+*** RIVER *** [Kd Ks 6d 2h] [8c]
+iguiguana: checks 
+tomashovka55: checks 
+*** SHOW DOWN ***
+iguiguana: shows [8s 7s] (two pair, Kings and Eights)
+tomashovka55: mucks hand 
+iguiguana collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Kd Ks 6d 2h 8c]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: iguiguana (small blind) showed [8s 7s] and won ($0.10) with two pair, Kings and Eights
+Seat 3: tomashovka55 (big blind) mucked [4d 9c]
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: soldim327 folded before Flop (didn't bet)
+Seat 6: dankev888 folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794715151:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:05:59 PT [2022/09/22 14:05:59 ET]
+Table 'Jokaste III' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($7.55 in chips) 
+Seat 2: iguiguana ($3.93 in chips) 
+Seat 3: tomashovka55 ($5 in chips) 
+Seat 4: vladimir5421 ($9.92 in chips) 
+Seat 5: soldim327 ($5 in chips) 
+Seat 6: dankev888 ($4.32 in chips) 
+Seat 7: sc2005 ($7.38 in chips) 
+Seat 8: PodPolk ($5.14 in chips) 
+Seat 9: thegreatcurve ($4.59 in chips) 
+tomashovka55: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 7c]
+soldim327: folds 
+soldim327 leaves the table
+dankev888: folds 
+sc2005: folds 
+PodPolk: folds 
+thegreatcurve: folds 
+eddila joins the table at seat #5 
+Dorex2007: raises $0.10 to $0.15
+iguiguana: folds 
+tomashovka55: calls $0.13
+vladimir5421: folds 
+*** FLOP *** [4s 5d Jc]
+tomashovka55: checks 
+Dorex2007: bets $0.17
+tomashovka55: calls $0.17
+*** TURN *** [4s 5d Jc] [4c]
+tomashovka55: checks 
+Dorex2007: checks 
+*** RIVER *** [4s 5d Jc 4c] [4h]
+tomashovka55: bets $0.40
+Dorex2007: calls $0.40
+*** SHOW DOWN ***
+tomashovka55: shows [9s Js] (a full house, Fours full of Jacks)
+Dorex2007: mucks hand 
+tomashovka55 collected $1.43 from pot
+*** SUMMARY ***
+Total pot $1.49 | Rake $0.06 
+Board [4s 5d Jc 4c 4h]
+Seat 1: Dorex2007 mucked [7d 7c]
+Seat 2: iguiguana (button) folded before Flop (didn't bet)
+Seat 3: tomashovka55 (small blind) showed [9s Js] and won ($1.43) with a full house, Fours full of Jacks
+Seat 4: vladimir5421 (big blind) folded before Flop
+Seat 5: soldim327 folded before Flop (didn't bet)
+Seat 6: dankev888 folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794735506:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:06:51 PT [2022/09/22 14:06:51 ET]
+Table 'Jokaste III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($6.83 in chips) 
+Seat 2: iguiguana ($3.93 in chips) 
+Seat 3: tomashovka55 ($5.71 in chips) 
+Seat 4: vladimir5421 ($9.87 in chips) 
+Seat 5: eddila ($5 in chips) 
+Seat 6: dankev888 ($4.32 in chips) 
+Seat 7: sc2005 ($7.38 in chips) 
+Seat 8: PodPolk ($5.14 in chips) 
+Seat 9: thegreatcurve ($4.59 in chips) 
+vladimir5421: posts small blind $0.02
+eddila: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 4s]
+dankev888: folds 
+sc2005: raises $0.10 to $0.15
+PodPolk: folds 
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: folds 
+tomashovka55: calls $0.15
+vladimir5421: folds 
+eddila: calls $0.10
+*** FLOP *** [8c Kc 3h]
+eddila: checks 
+sc2005: bets $0.25
+tomashovka55: folds 
+eddila: folds 
+Uncalled bet ($0.25) returned to sc2005
+sc2005 collected $0.45 from pot
+sc2005: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [8c Kc 3h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 3: tomashovka55 (button) folded on the Flop
+Seat 4: vladimir5421 (small blind) folded before Flop
+Seat 5: eddila (big blind) folded on the Flop
+Seat 6: dankev888 folded before Flop (didn't bet)
+Seat 7: sc2005 collected ($0.45)
+Seat 8: PodPolk folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794748561:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:07:24 PT [2022/09/22 14:07:24 ET]
+Table 'Jokaste III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($6.83 in chips) 
+Seat 2: iguiguana ($3.93 in chips) 
+Seat 3: tomashovka55 ($5.56 in chips) 
+Seat 4: vladimir5421 ($9.85 in chips) 
+Seat 5: eddila ($5 in chips) 
+Seat 6: dankev888 ($4.32 in chips) 
+Seat 7: sc2005 ($7.68 in chips) 
+Seat 8: PodPolk ($5.14 in chips) 
+Seat 9: thegreatcurve ($4.59 in chips) 
+eddila: posts small blind $0.02
+dankev888: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 7h]
+sc2005: folds 
+PodPolk: folds 
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: folds 
+tomashovka55: folds 
+vladimir5421: raises $0.10 to $0.15
+eddila: folds 
+dankev888: calls $0.10
+*** FLOP *** [Ts 6c 8c]
+dankev888: checks 
+vladimir5421: bets $0.25
+dankev888: calls $0.25
+*** TURN *** [Ts 6c 8c] [8d]
+dankev888: checks 
+vladimir5421: bets $0.39
+dankev888: calls $0.39
+*** RIVER *** [Ts 6c 8c 8d] [2h]
+dankev888: checks 
+vladimir5421: checks 
+*** SHOW DOWN ***
+dankev888: shows [Jd Jc] (two pair, Jacks and Eights)
+vladimir5421: mucks hand 
+dankev888 collected $1.53 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.07 
+Board [Ts 6c 8c 8d 2h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 3: tomashovka55 folded before Flop (didn't bet)
+Seat 4: vladimir5421 (button) mucked [Qd Td]
+Seat 5: eddila (small blind) folded before Flop
+Seat 6: dankev888 (big blind) showed [Jd Jc] and won ($1.53) with two pair, Jacks and Eights
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794763719:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:08:03 PT [2022/09/22 14:08:03 ET]
+Table 'Jokaste III' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($6.83 in chips) 
+Seat 2: iguiguana ($3.93 in chips) 
+Seat 3: tomashovka55 ($5.56 in chips) 
+Seat 4: vladimir5421 ($9.06 in chips) 
+Seat 5: eddila ($5 in chips) 
+Seat 6: dankev888 ($5.06 in chips) 
+Seat 7: sc2005 ($7.68 in chips) 
+Seat 8: PodPolk ($5.14 in chips) 
+dankev888: posts small blind $0.02
+sc2005: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s Ts]
+PodPolk: raises $0.10 to $0.15
+Dorex2007: folds 
+iguiguana: folds 
+tomashovka55: folds 
+vladimir5421: folds 
+eddila: calls $0.15
+dankev888: folds 
+sc2005: folds 
+*** FLOP *** [9c Jc 2c]
+PodPolk: checks 
+eddila: bets $0.35
+PodPolk: folds 
+Uncalled bet ($0.35) returned to eddila
+eddila collected $0.35 from pot
+eddila: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [9c Jc 2c]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 3: tomashovka55 folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila (button) collected ($0.35)
+Seat 6: dankev888 (small blind) folded before Flop
+Seat 7: sc2005 (big blind) folded before Flop
+Seat 8: PodPolk folded on the Flop
+
+
+
+PokerStars Hand #238794775054:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:08:32 PT [2022/09/22 14:08:32 ET]
+Table 'Jokaste III' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($6.83 in chips) 
+Seat 2: iguiguana ($3.93 in chips) 
+Seat 3: tomashovka55 ($5.56 in chips) 
+Seat 4: vladimir5421 ($9.06 in chips) 
+Seat 5: eddila ($5.20 in chips) 
+Seat 7: sc2005 ($7.63 in chips) 
+Seat 8: PodPolk ($5 in chips) 
+PodPolk: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3d 4c]
+iguiguana: raises $0.05 to $0.10
+tomashovka55: folds 
+vladimir5421: folds 
+eddila: folds 
+sc2005: folds 
+PodPolk: folds 
+Dorex2007: folds 
+Uncalled bet ($0.05) returned to iguiguana
+iguiguana collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: iguiguana collected ($0.12)
+Seat 3: tomashovka55 folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 7: sc2005 (button) folded before Flop (didn't bet)
+Seat 8: PodPolk (small blind) folded before Flop
+
+
+
+PokerStars Hand #238794781460:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:08:48 PT [2022/09/22 14:08:48 ET]
+Table 'Jokaste III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($6.78 in chips) 
+Seat 2: iguiguana ($4 in chips) 
+Seat 3: tomashovka55 ($5.56 in chips) 
+Seat 4: vladimir5421 ($9.06 in chips) 
+Seat 5: eddila ($5.20 in chips) 
+Seat 7: sc2005 ($7.63 in chips) 
+Seat 8: PodPolk ($5 in chips) 
+Dorex2007: posts small blind $0.02
+iguiguana: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 5d]
+tomashovka55: folds 
+vladimir5421: folds 
+eddila: folds 
+sc2005: folds 
+PodPolk: folds 
+Dorex2007: folds 
+Uncalled bet ($0.03) returned to iguiguana
+iguiguana collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: iguiguana (big blind) collected ($0.04)
+Seat 3: tomashovka55 folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794784692:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:08:56 PT [2022/09/22 14:08:56 ET]
+Table 'Jokaste III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($6.76 in chips) 
+Seat 2: iguiguana ($4.02 in chips) 
+Seat 3: tomashovka55 ($5.56 in chips) 
+Seat 4: vladimir5421 ($9.06 in chips) 
+Seat 5: eddila ($5.20 in chips) 
+Seat 7: sc2005 ($7.63 in chips) 
+Seat 8: PodPolk ($5 in chips) 
+iguiguana: posts small blind $0.02
+tomashovka55: posts big blind $0.05
+thegreatcurve: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 2h]
+vladimir5421: folds 
+eddila: folds 
+sc2005: folds 
+PodPolk: folds 
+Dorex2007: folds 
+iguiguana: calls $0.03
+tomashovka55: checks 
+*** FLOP *** [5d 6s 6d]
+iguiguana: checks 
+tomashovka55: checks 
+*** TURN *** [5d 6s 6d] [Qh]
+iguiguana: checks 
+tomashovka55: checks 
+*** RIVER *** [5d 6s 6d Qh] [7s]
+iguiguana: checks 
+tomashovka55: checks 
+*** SHOW DOWN ***
+iguiguana: shows [Ts Ad] (a pair of Sixes)
+tomashovka55: mucks hand 
+iguiguana collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [5d 6s 6d Qh 7s]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: iguiguana (small blind) showed [Ts Ad] and won ($0.10) with a pair of Sixes
+Seat 3: tomashovka55 (big blind) mucked [As 8s]
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794797551:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:09:29 PT [2022/09/22 14:09:29 ET]
+Table 'Jokaste III' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($6.76 in chips) 
+Seat 2: iguiguana ($4.07 in chips) 
+Seat 3: tomashovka55 ($5.51 in chips) 
+Seat 4: vladimir5421 ($9.06 in chips) 
+Seat 5: eddila ($5.20 in chips) 
+Seat 7: sc2005 ($7.63 in chips) 
+Seat 8: PodPolk ($5 in chips) 
+tomashovka55: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+thegreatcurve: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd Jh]
+eddila: raises $0.10 to $0.15
+sc2005: folds 
+PodPolk: folds 
+Dorex2007: calls $0.15
+iguiguana: folds 
+tomashovka55: folds 
+vladimir5421: folds 
+*** FLOP *** [Kc 2s 2c]
+eddila: bets $0.17
+Dorex2007: calls $0.17
+*** TURN *** [Kc 2s 2c] [4s]
+eddila: bets $0.34
+Dorex2007: folds 
+Uncalled bet ($0.34) returned to eddila
+eddila collected $0.67 from pot
+eddila: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.04 
+Board [Kc 2s 2c 4s]
+Seat 1: Dorex2007 folded on the Turn
+Seat 2: iguiguana (button) folded before Flop (didn't bet)
+Seat 3: tomashovka55 (small blind) folded before Flop
+Seat 4: vladimir5421 (big blind) folded before Flop
+Seat 5: eddila collected ($0.67)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794810242:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:10:02 PT [2022/09/22 14:10:02 ET]
+Table 'Jokaste III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($6.44 in chips) 
+Seat 2: iguiguana ($4.07 in chips) 
+Seat 3: tomashovka55 ($5.49 in chips) 
+Seat 4: vladimir5421 ($9.01 in chips) 
+Seat 5: eddila ($5.55 in chips) 
+Seat 7: sc2005 ($7.63 in chips) 
+Seat 8: PodPolk ($5 in chips) 
+vladimir5421: posts small blind $0.02
+eddila: posts big blind $0.05
+thegreatcurve: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 6s]
+sc2005: folds 
+PodPolk: folds 
+Dorex2007: folds 
+iguiguana: folds 
+tomashovka55: folds 
+vladimir5421: folds 
+Uncalled bet ($0.03) returned to eddila
+eddila collected $0.04 from pot
+eddila: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 3: tomashovka55 (button) folded before Flop (didn't bet)
+Seat 4: vladimir5421 (small blind) folded before Flop
+Seat 5: eddila (big blind) collected ($0.04)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794815228:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:10:14 PT [2022/09/22 14:10:14 ET]
+Table 'Jokaste III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($6.44 in chips) 
+Seat 2: iguiguana ($4.07 in chips) 
+Seat 3: tomashovka55 ($5.49 in chips) 
+Seat 4: vladimir5421 ($8.99 in chips) 
+Seat 5: eddila ($5.57 in chips) 
+Seat 7: sc2005 ($7.63 in chips) 
+Seat 8: PodPolk ($5 in chips) 
+eddila: posts small blind $0.02
+sc2005: posts big blind $0.05
+thegreatcurve: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Tc 7s]
+PodPolk: folds 
+Dorex2007: folds 
+iguiguana: raises $0.07 to $0.12
+tomashovka55: folds 
+vladimir5421: folds 
+eddila: folds 
+sc2005: folds 
+Uncalled bet ($0.07) returned to iguiguana
+iguiguana collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana collected ($0.12)
+Seat 3: tomashovka55 folded before Flop (didn't bet)
+Seat 4: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 5: eddila (small blind) folded before Flop
+Seat 7: sc2005 (big blind) folded before Flop
+Seat 8: PodPolk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794822538:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:10:33 PT [2022/09/22 14:10:33 ET]
+Table 'Jokaste III' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($6.44 in chips) 
+Seat 2: iguiguana ($4.14 in chips) 
+Seat 3: tomashovka55 ($5.49 in chips) 
+Seat 4: vladimir5421 ($8.99 in chips) 
+Seat 5: eddila ($5.55 in chips) 
+Seat 7: sc2005 ($7.58 in chips) 
+Seat 8: PodPolk ($5 in chips) 
+sc2005: posts small blind $0.02
+PodPolk: posts big blind $0.05
+thegreatcurve: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 4h]
+Dorex2007: folds 
+iguiguana: folds 
+tomashovka55: raises $0.07 to $0.12
+vladimir5421: calls $0.12
+eddila: folds 
+sc2005: calls $0.10
+PodPolk: folds 
+*** FLOP *** [6d 2c Td]
+sc2005: checks 
+tomashovka55: bets $0.18
+vladimir5421: folds 
+sc2005: folds 
+Uncalled bet ($0.18) returned to tomashovka55
+tomashovka55 collected $0.39 from pot
+tomashovka55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.02 
+Board [6d 2c Td]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 3: tomashovka55 collected ($0.39)
+Seat 4: vladimir5421 folded on the Flop
+Seat 5: eddila (button) folded before Flop (didn't bet)
+Seat 7: sc2005 (small blind) folded on the Flop
+Seat 8: PodPolk (big blind) folded before Flop
+
+
+
+PokerStars Hand #238794838784:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:11:14 PT [2022/09/22 14:11:14 ET]
+Table 'Jokaste III' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($6.44 in chips) 
+Seat 2: iguiguana ($4.14 in chips) 
+Seat 3: tomashovka55 ($5.76 in chips) 
+Seat 4: vladimir5421 ($8.87 in chips) 
+Seat 5: eddila ($5.55 in chips) 
+Seat 6: dankev888 ($5.04 in chips) 
+Seat 7: sc2005 ($7.46 in chips) 
+Seat 8: PodPolk ($5 in chips) 
+Seat 9: thegreatcurve ($5 in chips) 
+PodPolk: posts small blind $0.02
+thegreatcurve: posts big blind $0.05
+dankev888: posts small & big blinds $0.07
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qs 6c]
+Dorex2007: folds 
+iguiguana: folds 
+tomashovka55: folds 
+vladimir5421: calls $0.05
+eddila: folds 
+dankev888: checks 
+sc2005: folds 
+PodPolk: folds 
+thegreatcurve: checks 
+*** FLOP *** [Tc Kh 2h]
+thegreatcurve: bets $0.05
+vladimir5421: calls $0.05
+dankev888: calls $0.05
+*** TURN *** [Tc Kh 2h] [2s]
+thegreatcurve: checks 
+vladimir5421: checks 
+dankev888: checks 
+*** RIVER *** [Tc Kh 2h 2s] [9h]
+thegreatcurve: bets $0.20
+vladimir5421: calls $0.20
+dankev888: calls $0.20
+*** SHOW DOWN ***
+thegreatcurve: shows [Td 7c] (two pair, Tens and Deuces)
+vladimir5421: shows [7h 6h] (a flush, King high)
+dankev888: mucks hand 
+vladimir5421 collected $0.90 from pot
+*** SUMMARY ***
+Total pot $0.94 | Rake $0.04 
+Board [Tc Kh 2h 2s 9h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 3: tomashovka55 folded before Flop (didn't bet)
+Seat 4: vladimir5421 showed [7h 6h] and won ($0.90) with a flush, King high
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 6: dankev888 mucked [Kd Qh]
+Seat 7: sc2005 (button) folded before Flop (didn't bet)
+Seat 8: PodPolk (small blind) folded before Flop
+Seat 9: thegreatcurve (big blind) showed [Td 7c] and lost with two pair, Tens and Deuces
+
+
+
+PokerStars Hand #238794858552:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:12:04 PT [2022/09/22 14:12:04 ET]
+Table 'Jokaste III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($6.44 in chips) 
+Seat 2: iguiguana ($4.14 in chips) 
+Seat 3: tomashovka55 ($5.76 in chips) 
+Seat 4: vladimir5421 ($9.47 in chips) 
+Seat 5: eddila ($5.55 in chips) 
+Seat 6: dankev888 ($4.72 in chips) 
+Seat 7: sc2005 ($7.46 in chips) 
+Seat 8: PodPolk ($5 in chips) 
+Seat 9: thegreatcurve ($4.70 in chips) 
+thegreatcurve: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 6s]
+iguiguana: folds 
+tomashovka55: raises $0.07 to $0.12
+vladimir5421: folds 
+eddila: folds 
+dankev888: calls $0.12
+sc2005: calls $0.12
+PodPolk: calls $0.12
+thegreatcurve: folds 
+Dorex2007: folds 
+*** FLOP *** [9d 3s Ah]
+tomashovka55: bets $0.20
+dankev888: folds 
+sc2005: folds 
+PodPolk: folds 
+Uncalled bet ($0.20) returned to tomashovka55
+tomashovka55 collected $0.53 from pot
+tomashovka55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [9d 3s Ah]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 3: tomashovka55 collected ($0.53)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 6: dankev888 folded on the Flop
+Seat 7: sc2005 folded on the Flop
+Seat 8: PodPolk (button) folded on the Flop
+Seat 9: thegreatcurve (small blind) folded before Flop
+
+
+
+PokerStars Hand #238794870670:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:12:35 PT [2022/09/22 14:12:35 ET]
+Table 'Jokaste III' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($6.39 in chips) 
+Seat 2: iguiguana ($4.14 in chips) 
+Seat 3: tomashovka55 ($6.17 in chips) 
+Seat 4: vladimir5421 ($9.47 in chips) 
+Seat 5: eddila ($5.55 in chips) 
+Seat 6: dankev888 ($4.60 in chips) 
+Seat 7: sc2005 ($7.34 in chips) 
+Seat 8: PodPolk ($5 in chips) 
+Seat 9: thegreatcurve ($4.68 in chips) 
+Dorex2007: posts small blind $0.02
+iguiguana: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8s Qd]
+tomashovka55: folds 
+vladimir5421: folds 
+eddila: folds 
+dankev888: calls $0.05
+sc2005: folds 
+PodPolk: calls $0.05
+thegreatcurve: calls $0.05
+Dorex2007: folds 
+iguiguana: checks 
+*** FLOP *** [Kh 7s Js]
+iguiguana: checks 
+dankev888: checks 
+PodPolk: checks 
+thegreatcurve: bets $0.15
+iguiguana: folds 
+dankev888: calls $0.15
+PodPolk: calls $0.15
+*** TURN *** [Kh 7s Js] [Qh]
+dankev888: checks 
+PodPolk: checks 
+thegreatcurve: bets $0.40
+dankev888: folds 
+PodPolk: raises $4.40 to $4.80 and is all-in
+thegreatcurve: calls $4.08 and is all-in
+Uncalled bet ($0.32) returned to PodPolk
+*** RIVER *** [Kh 7s Js Qh] [Td]
+*** SHOW DOWN ***
+PodPolk: shows [Tc Ac] (a straight, Ten to Ace)
+thegreatcurve: shows [7c Kc] (two pair, Kings and Sevens)
+PodPolk cashed out the hand for $8.32 | Cash Out Fee $0.08
+*** SUMMARY ***
+Total pot $9.63 | Rake $0.40 
+Board [Kh 7s Js Qh Td]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: iguiguana (big blind) folded on the Flop
+Seat 3: tomashovka55 folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 6: dankev888 folded on the Turn
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk showed [Tc Ac] and won ($9.23) with a straight, Ten to Ace (pot not awarded as player cashed out)
+Seat 9: thegreatcurve (button) showed [7c Kc] and lost with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #238794900782:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:13:51 PT [2022/09/22 14:13:51 ET]
+Table 'Jokaste III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($6.37 in chips) 
+Seat 2: iguiguana ($4.09 in chips) 
+Seat 3: tomashovka55 ($6.17 in chips) 
+Seat 4: vladimir5421 ($9.47 in chips) 
+Seat 5: eddila ($5.55 in chips) 
+Seat 6: dankev888 ($4.40 in chips) 
+Seat 7: sc2005 ($7.34 in chips) 
+Seat 8: PodPolk ($8.64 in chips) 
+iguiguana: posts small blind $0.02
+tomashovka55: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kd 7d]
+vladimir5421: folds 
+eddila: folds 
+dankev888: calls $0.05
+sc2005: folds 
+PodPolk: calls $0.05
+Dorex2007: folds 
+iguiguana: calls $0.03
+tomashovka55: checks 
+*** FLOP *** [2c 5s 8s]
+iguiguana: checks 
+tomashovka55: checks 
+dankev888: checks 
+PodPolk: checks 
+*** TURN *** [2c 5s 8s] [Td]
+iguiguana: bets $0.05
+tomashovka55: calls $0.05
+dankev888: calls $0.05
+PodPolk: folds 
+*** RIVER *** [2c 5s 8s Td] [Qc]
+iguiguana: bets $0.17
+tomashovka55: folds 
+dankev888: folds 
+Uncalled bet ($0.17) returned to iguiguana
+iguiguana collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [2c 5s 8s Td Qc]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: iguiguana (small blind) collected ($0.34)
+Seat 3: tomashovka55 (big blind) folded on the River
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 6: dankev888 folded on the River
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk folded on the Turn
+
+
+
+PokerStars Hand #238794926608:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:14:57 PT [2022/09/22 14:14:57 ET]
+Table 'Jokaste III' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($6.37 in chips) 
+Seat 2: iguiguana ($4.33 in chips) 
+Seat 3: tomashovka55 ($6.07 in chips) 
+Seat 4: vladimir5421 ($9.47 in chips) 
+Seat 5: eddila ($5.55 in chips) 
+Seat 6: dankev888 ($4.30 in chips) 
+Seat 7: sc2005 ($7.34 in chips) 
+Seat 8: PodPolk ($8.59 in chips) 
+Seat 9: thegreatcurve ($5 in chips) 
+tomashovka55: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th 9h]
+eddila: folds 
+dankev888: folds 
+sc2005: folds 
+PodPolk: folds 
+thegreatcurve: raises $0.10 to $0.15
+Dorex2007: folds 
+iguiguana: calls $0.15
+tomashovka55: calls $0.13
+vladimir5421: folds 
+*** FLOP *** [2s 4s 6s]
+tomashovka55: checks 
+thegreatcurve: bets $0.25
+iguiguana: calls $0.25
+tomashovka55: folds 
+*** TURN *** [2s 4s 6s] [3s]
+thegreatcurve: bets $0.50
+iguiguana: calls $0.50
+*** RIVER *** [2s 4s 6s 3s] [As]
+thegreatcurve: checks 
+iguiguana: checks 
+*** SHOW DOWN ***
+thegreatcurve: shows [7c 7s] (a flush, Ace high)
+iguiguana: shows [Qc Qs] (a flush, Ace high - Queen higher)
+iguiguana collected $1.92 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0.08 
+Board [2s 4s 6s 3s As]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana (button) showed [Qc Qs] and won ($1.92) with a flush, Ace high
+Seat 3: tomashovka55 (small blind) folded on the Flop
+Seat 4: vladimir5421 (big blind) folded before Flop
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 6: dankev888 folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk folded before Flop (didn't bet)
+Seat 9: thegreatcurve showed [7c 7s] and lost with a flush, Ace high
+
+
+
+PokerStars Hand #238794948804:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:15:54 PT [2022/09/22 14:15:54 ET]
+Table 'Jokaste III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($6.37 in chips) 
+Seat 2: iguiguana ($5.35 in chips) 
+Seat 3: tomashovka55 ($5.92 in chips) 
+Seat 4: vladimir5421 ($9.42 in chips) 
+Seat 5: eddila ($5.55 in chips) 
+Seat 6: dankev888 ($4.30 in chips) 
+Seat 7: sc2005 ($7.34 in chips) 
+Seat 8: PodPolk ($8.59 in chips) 
+Seat 9: thegreatcurve ($4.10 in chips) 
+vladimir5421: posts small blind $0.02
+eddila: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 6s]
+dankev888: folds 
+sc2005: folds 
+PodPolk: folds 
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: folds 
+tomashovka55: folds 
+vladimir5421: folds 
+Uncalled bet ($0.03) returned to eddila
+eddila collected $0.04 from pot
+eddila: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 3: tomashovka55 (button) folded before Flop (didn't bet)
+Seat 4: vladimir5421 (small blind) folded before Flop
+Seat 5: eddila (big blind) collected ($0.04)
+Seat 6: dankev888 folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794957193:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:16:16 PT [2022/09/22 14:16:16 ET]
+Table 'Jokaste III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($6.37 in chips) 
+Seat 2: iguiguana ($5.35 in chips) 
+Seat 3: tomashovka55 ($5.92 in chips) 
+Seat 4: vladimir5421 ($9.40 in chips) 
+Seat 5: eddila ($5.57 in chips) 
+Seat 6: dankev888 ($4.30 in chips) 
+Seat 7: sc2005 ($7.34 in chips) 
+Seat 8: PodPolk ($8.59 in chips) 
+Seat 9: thegreatcurve ($5 in chips) 
+eddila: posts small blind $0.02
+dankev888: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5h 7c]
+sc2005: raises $0.10 to $0.15
+PodPolk: folds 
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: folds 
+tomashovka55: calls $0.15
+vladimir5421: folds 
+eddila: folds 
+dankev888: folds 
+*** FLOP *** [Qs 8s 4s]
+sc2005: bets $0.23
+tomashovka55: folds 
+Uncalled bet ($0.23) returned to sc2005
+sc2005 collected $0.35 from pot
+sc2005: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [Qs 8s 4s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 3: tomashovka55 folded on the Flop
+Seat 4: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 5: eddila (small blind) folded before Flop
+Seat 6: dankev888 (big blind) folded before Flop
+Seat 7: sc2005 collected ($0.35)
+Seat 8: PodPolk folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794970444:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:16:49 PT [2022/09/22 14:16:49 ET]
+Table 'Jokaste III' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($6.37 in chips) 
+Seat 2: iguiguana ($5.35 in chips) 
+Seat 3: tomashovka55 ($5.77 in chips) 
+Seat 4: vladimir5421 ($9.40 in chips) 
+Seat 5: eddila ($5.55 in chips) 
+Seat 6: dankev888 ($4.25 in chips) 
+Seat 7: sc2005 ($7.54 in chips) 
+Seat 8: PodPolk ($8.59 in chips) 
+Seat 9: thegreatcurve ($5 in chips) 
+dankev888: posts small blind $0.02
+sc2005: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4c 7h]
+PodPolk: folds 
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: folds 
+tomashovka55: folds 
+vladimir5421: folds 
+eddila: folds 
+dankev888: folds 
+Uncalled bet ($0.03) returned to sc2005
+sc2005 collected $0.04 from pot
+sc2005: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 3: tomashovka55 folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila (button) folded before Flop (didn't bet)
+Seat 6: dankev888 (small blind) folded before Flop
+Seat 7: sc2005 (big blind) collected ($0.04)
+Seat 8: PodPolk folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794977090:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:17:07 PT [2022/09/22 14:17:07 ET]
+Table 'Jokaste III' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($6.37 in chips) 
+Seat 2: iguiguana ($5.35 in chips) 
+Seat 3: tomashovka55 ($5.77 in chips) 
+Seat 4: vladimir5421 ($9.40 in chips) 
+Seat 5: eddila ($5.55 in chips) 
+Seat 6: dankev888 ($4.23 in chips) 
+Seat 7: sc2005 ($7.56 in chips) 
+Seat 8: PodPolk ($8.59 in chips) 
+Seat 9: thegreatcurve ($5 in chips) 
+sc2005: posts small blind $0.02
+PodPolk: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Qc 4d]
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: folds 
+tomashovka55: folds 
+vladimir5421: folds 
+eddila: folds 
+dankev888: folds 
+sc2005: folds 
+Uncalled bet ($0.03) returned to PodPolk
+PodPolk collected $0.04 from pot
+PodPolk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 3: tomashovka55 folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 6: dankev888 (button) folded before Flop (didn't bet)
+Seat 7: sc2005 (small blind) folded before Flop
+Seat 8: PodPolk (big blind) collected ($0.04)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238794985099:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:17:27 PT [2022/09/22 14:17:27 ET]
+Table 'Jokaste III' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($6.37 in chips) 
+Seat 2: iguiguana ($5.35 in chips) 
+Seat 3: tomashovka55 ($5.77 in chips) 
+Seat 4: vladimir5421 ($9.40 in chips) 
+Seat 5: eddila ($5.55 in chips) 
+Seat 6: dankev888 ($4.23 in chips) 
+Seat 7: sc2005 ($7.54 in chips) 
+Seat 8: PodPolk ($8.61 in chips) 
+Seat 9: thegreatcurve ($5 in chips) 
+PodPolk: posts small blind $0.02
+thegreatcurve: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c 8s]
+Dorex2007: folds 
+iguiguana: folds 
+tomashovka55: folds 
+vladimir5421: raises $0.10 to $0.15
+eddila: folds 
+dankev888: folds 
+sc2005: folds 
+PodPolk: folds 
+thegreatcurve: calls $0.10
+*** FLOP *** [Kh 9c 4h]
+thegreatcurve: checks 
+vladimir5421: checks 
+*** TURN *** [Kh 9c 4h] [6h]
+thegreatcurve: bets $0.20
+vladimir5421: folds 
+Uncalled bet ($0.20) returned to thegreatcurve
+thegreatcurve collected $0.31 from pot
+thegreatcurve: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Kh 9c 4h 6h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 3: tomashovka55 folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded on the Turn
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 6: dankev888 folded before Flop (didn't bet)
+Seat 7: sc2005 (button) folded before Flop (didn't bet)
+Seat 8: PodPolk (small blind) folded before Flop
+Seat 9: thegreatcurve (big blind) collected ($0.31)
+
+
+
+PokerStars Hand #238795000587:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:18:07 PT [2022/09/22 14:18:07 ET]
+Table 'Jokaste III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($6.37 in chips) 
+Seat 2: iguiguana ($5.35 in chips) 
+Seat 3: tomashovka55 ($5.77 in chips) 
+Seat 4: vladimir5421 ($9.25 in chips) 
+Seat 5: eddila ($5.55 in chips) 
+Seat 6: dankev888 ($4.23 in chips) 
+Seat 7: sc2005 ($7.54 in chips) 
+Seat 8: PodPolk ($8.59 in chips) 
+Seat 9: thegreatcurve ($5.16 in chips) 
+thegreatcurve: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 9c]
+iguiguana: folds 
+tomashovka55: folds 
+vladimir5421: raises $0.10 to $0.15
+eddila: folds 
+dankev888: folds 
+sc2005: folds 
+PodPolk: folds 
+thegreatcurve: folds 
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to vladimir5421
+vladimir5421 collected $0.12 from pot
+vladimir5421: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 3: tomashovka55 folded before Flop (didn't bet)
+Seat 4: vladimir5421 collected ($0.12)
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 6: dankev888 folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk (button) folded before Flop (didn't bet)
+Seat 9: thegreatcurve (small blind) folded before Flop
+
+
+
+PokerStars Hand #238795007438:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:18:25 PT [2022/09/22 14:18:25 ET]
+Table 'Jokaste III' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($6.32 in chips) 
+Seat 2: iguiguana ($5.35 in chips) 
+Seat 3: tomashovka55 ($5.77 in chips) 
+Seat 4: vladimir5421 ($9.32 in chips) 
+Seat 5: eddila ($5.55 in chips) 
+Seat 6: dankev888 ($4.23 in chips) 
+Seat 7: sc2005 ($7.54 in chips) 
+Seat 8: PodPolk ($8.59 in chips) 
+Seat 9: thegreatcurve ($5.14 in chips) 
+Dorex2007: posts small blind $0.02
+iguiguana: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc 5d]
+tomashovka55: raises $0.07 to $0.12
+vladimir5421: calls $0.12
+eddila: calls $0.12
+dankev888: folds 
+sc2005: folds 
+PodPolk: folds 
+thegreatcurve: calls $0.12
+Dorex2007: folds 
+iguiguana: folds 
+*** FLOP *** [Jd 9c 5c]
+tomashovka55: checks 
+vladimir5421: checks 
+eddila: bets $0.40
+thegreatcurve: folds 
+tomashovka55: folds 
+vladimir5421: folds 
+Uncalled bet ($0.40) returned to eddila
+eddila collected $0.53 from pot
+eddila: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Jd 9c 5c]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: iguiguana (big blind) folded before Flop
+Seat 3: tomashovka55 folded on the Flop
+Seat 4: vladimir5421 folded on the Flop
+Seat 5: eddila collected ($0.53)
+Seat 6: dankev888 folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk folded before Flop (didn't bet)
+Seat 9: thegreatcurve (button) folded on the Flop
+
+
+
+PokerStars Hand #238795025804:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:19:12 PT [2022/09/22 14:19:12 ET]
+Table 'Jokaste III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($6.30 in chips) 
+Seat 2: iguiguana ($5.30 in chips) 
+Seat 3: tomashovka55 ($5.65 in chips) 
+Seat 4: vladimir5421 ($9.20 in chips) 
+Seat 5: eddila ($5.96 in chips) 
+Seat 6: dankev888 ($4.23 in chips) 
+Seat 7: sc2005 ($7.54 in chips) 
+Seat 8: PodPolk ($8.59 in chips) 
+Seat 9: thegreatcurve ($5.02 in chips) 
+iguiguana: posts small blind $0.02
+tomashovka55: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8c 3s]
+vladimir5421: folds 
+eddila: folds 
+dankev888: folds 
+sc2005: folds 
+PodPolk has timed out
+PodPolk: folds 
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: folds 
+Uncalled bet ($0.03) returned to tomashovka55
+tomashovka55 collected $0.04 from pot
+tomashovka55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: iguiguana (small blind) folded before Flop
+Seat 3: tomashovka55 (big blind) collected ($0.04)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 6: dankev888 folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238795037571:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:19:42 PT [2022/09/22 14:19:42 ET]
+Table 'Jokaste III' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($6.30 in chips) 
+Seat 2: iguiguana ($5.28 in chips) 
+Seat 3: tomashovka55 ($5.67 in chips) 
+Seat 4: vladimir5421 ($9.20 in chips) 
+Seat 5: eddila ($5.96 in chips) 
+Seat 6: dankev888 ($4.23 in chips) 
+Seat 7: sc2005 ($7.54 in chips) 
+Seat 8: PodPolk ($8.59 in chips) 
+Seat 9: thegreatcurve ($5.02 in chips) 
+tomashovka55: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h 2c]
+eddila: folds 
+dankev888: folds 
+sc2005: folds 
+PodPolk: folds 
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: raises $0.07 to $0.12
+tomashovka55: folds 
+vladimir5421: folds 
+Uncalled bet ($0.07) returned to iguiguana
+iguiguana collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana (button) collected ($0.12)
+Seat 3: tomashovka55 (small blind) folded before Flop
+Seat 4: vladimir5421 (big blind) folded before Flop
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 6: dankev888 folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238795049470:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:20:13 PT [2022/09/22 14:20:13 ET]
+Table 'Jokaste III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($6.30 in chips) 
+Seat 2: iguiguana ($5.35 in chips) 
+Seat 3: tomashovka55 ($5.65 in chips) 
+Seat 4: vladimir5421 ($9.15 in chips) 
+Seat 5: eddila ($5.96 in chips) 
+Seat 6: dankev888 ($4.23 in chips) 
+Seat 7: sc2005 ($7.54 in chips) 
+Seat 8: PodPolk ($8.59 in chips) 
+Seat 9: thegreatcurve ($5.02 in chips) 
+vladimir5421: posts small blind $0.02
+eddila: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6s 5c]
+dankev888: folds 
+sc2005: raises $0.07 to $0.12
+PodPolk: calls $0.12
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: folds 
+tomashovka55: folds 
+vladimir5421: folds 
+eddila: folds 
+*** FLOP *** [9h 4c 2s]
+sc2005: bets $0.20
+PodPolk: calls $0.20
+*** TURN *** [9h 4c 2s] [3d]
+sc2005: checks 
+PodPolk: checks 
+*** RIVER *** [9h 4c 2s 3d] [Ah]
+sc2005: bets $0.34
+PodPolk: calls $0.34
+*** SHOW DOWN ***
+sc2005: shows [Kh Qc] (high card Ace)
+PodPolk: shows [Kd Ac] (a pair of Aces)
+PodPolk collected $1.33 from pot
+*** SUMMARY ***
+Total pot $1.39 | Rake $0.06 
+Board [9h 4c 2s 3d Ah]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 3: tomashovka55 (button) folded before Flop (didn't bet)
+Seat 4: vladimir5421 (small blind) folded before Flop
+Seat 5: eddila (big blind) folded before Flop
+Seat 6: dankev888 folded before Flop (didn't bet)
+Seat 7: sc2005 showed [Kh Qc] and lost with high card Ace
+Seat 8: PodPolk showed [Kd Ac] and won ($1.33) with a pair of Aces
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238795063071:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:20:48 PT [2022/09/22 14:20:48 ET]
+Table 'Jokaste III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($6.30 in chips) 
+Seat 2: iguiguana ($5.35 in chips) 
+Seat 3: tomashovka55 ($5.65 in chips) 
+Seat 4: vladimir5421 ($9.13 in chips) 
+Seat 5: eddila ($5.91 in chips) 
+Seat 6: dankev888 ($4.23 in chips) 
+Seat 7: sc2005 ($6.88 in chips) 
+Seat 8: PodPolk ($9.26 in chips) 
+Seat 9: thegreatcurve ($5.02 in chips) 
+eddila: posts small blind $0.02
+dankev888: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s 5h]
+sc2005: folds 
+PodPolk: folds 
+thegreatcurve: calls $0.05
+Dorex2007: folds 
+iguiguana: folds 
+tomashovka55: folds 
+vladimir5421: folds 
+eddila: raises $0.10 to $0.15
+dankev888: folds 
+thegreatcurve: calls $0.10
+*** FLOP *** [3s Ac 2d]
+eddila: bets $0.26
+thegreatcurve: folds 
+Uncalled bet ($0.26) returned to eddila
+eddila collected $0.34 from pot
+eddila: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [3s Ac 2d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 3: tomashovka55 folded before Flop (didn't bet)
+Seat 4: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 5: eddila (small blind) collected ($0.34)
+Seat 6: dankev888 (big blind) folded before Flop
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded on the Flop
+
+
+
+PokerStars Hand #238795075749:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:21:20 PT [2022/09/22 14:21:20 ET]
+Table 'Jokaste III' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($6.30 in chips) 
+Seat 2: iguiguana ($5.35 in chips) 
+Seat 3: tomashovka55 ($5.65 in chips) 
+Seat 4: vladimir5421 ($9.13 in chips) 
+Seat 5: eddila ($6.10 in chips) 
+Seat 6: dankev888 ($4.18 in chips) 
+Seat 7: sc2005 ($6.88 in chips) 
+Seat 8: PodPolk ($9.26 in chips) 
+Seat 9: thegreatcurve ($4.87 in chips) 
+dankev888: posts small blind $0.02
+sc2005: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7s Ts]
+PodPolk: folds 
+thegreatcurve: raises $0.10 to $0.15
+Dorex2007: folds 
+iguiguana: calls $0.15
+tomashovka55: folds 
+vladimir5421: folds 
+eddila: folds 
+dankev888: folds 
+sc2005: folds 
+*** FLOP *** [Qh Td 3d]
+thegreatcurve: bets $0.20
+iguiguana: calls $0.20
+*** TURN *** [Qh Td 3d] [3s]
+thegreatcurve: checks 
+iguiguana: bets $0.37
+thegreatcurve: folds 
+Uncalled bet ($0.37) returned to iguiguana
+iguiguana collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [Qh Td 3d 3s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana collected ($0.74)
+Seat 3: tomashovka55 folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila (button) folded before Flop (didn't bet)
+Seat 6: dankev888 (small blind) folded before Flop
+Seat 7: sc2005 (big blind) folded before Flop
+Seat 8: PodPolk folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded on the Turn
+
+
+
+PokerStars Hand #238795092453:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:22:03 PT [2022/09/22 14:22:03 ET]
+Table 'Jokaste III' 9-max Seat #6 is the button
+Seat 1: Dorex2007 ($6.30 in chips) 
+Seat 2: iguiguana ($5.74 in chips) 
+Seat 3: tomashovka55 ($5.65 in chips) 
+Seat 4: vladimir5421 ($9.13 in chips) 
+Seat 5: eddila ($6.10 in chips) 
+Seat 6: dankev888 ($4.16 in chips) 
+Seat 7: sc2005 ($6.83 in chips) 
+Seat 8: PodPolk ($9.26 in chips) 
+Seat 9: thegreatcurve ($4.52 in chips) 
+sc2005: posts small blind $0.02
+PodPolk: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 4d]
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: folds 
+tomashovka55: folds 
+vladimir5421: folds 
+eddila: folds 
+dankev888: folds 
+sc2005: folds 
+Uncalled bet ($0.03) returned to PodPolk
+PodPolk collected $0.04 from pot
+PodPolk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 3: tomashovka55 folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 6: dankev888 (button) folded before Flop (didn't bet)
+Seat 7: sc2005 (small blind) folded before Flop
+Seat 8: PodPolk (big blind) collected ($0.04)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238795099043:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:22:20 PT [2022/09/22 14:22:20 ET]
+Table 'Jokaste III' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($6.30 in chips) 
+Seat 2: iguiguana ($5.74 in chips) 
+Seat 3: tomashovka55 ($5.65 in chips) 
+Seat 4: vladimir5421 ($9.13 in chips) 
+Seat 5: eddila ($6.10 in chips) 
+Seat 6: dankev888 ($4.16 in chips) 
+Seat 7: sc2005 ($6.81 in chips) 
+Seat 8: PodPolk ($9.28 in chips) 
+Seat 9: thegreatcurve ($4.52 in chips) 
+PodPolk: posts small blind $0.02
+thegreatcurve: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Jh]
+Dorex2007: folds 
+iguiguana: folds 
+tomashovka55: folds 
+vladimir5421: folds 
+eddila: folds 
+dankev888: folds 
+sc2005: folds 
+PodPolk: folds 
+Uncalled bet ($0.03) returned to thegreatcurve
+thegreatcurve collected $0.04 from pot
+thegreatcurve: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 3: tomashovka55 folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 6: dankev888 folded before Flop (didn't bet)
+Seat 7: sc2005 (button) folded before Flop (didn't bet)
+Seat 8: PodPolk (small blind) folded before Flop
+Seat 9: thegreatcurve (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #238795108243:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:22:44 PT [2022/09/22 14:22:44 ET]
+Table 'Jokaste III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($6.30 in chips) 
+Seat 2: iguiguana ($5.74 in chips) 
+Seat 3: tomashovka55 ($5.65 in chips) 
+Seat 4: vladimir5421 ($9.13 in chips) 
+Seat 5: eddila ($6.10 in chips) 
+Seat 6: dankev888 ($4.16 in chips) 
+Seat 7: sc2005 ($6.81 in chips) 
+Seat 8: PodPolk ($9.26 in chips) 
+Seat 9: thegreatcurve ($4.54 in chips) 
+thegreatcurve: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kh 8s]
+iguiguana: folds 
+tomashovka55: folds 
+vladimir5421: folds 
+eddila: folds 
+dankev888: folds 
+sc2005: folds 
+PodPolk: folds 
+thegreatcurve: raises $0.10 to $0.15
+Dorex2007: folds 
+Uncalled bet ($0.10) returned to thegreatcurve
+thegreatcurve collected $0.10 from pot
+thegreatcurve: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 3: tomashovka55 folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 6: dankev888 folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk (button) folded before Flop (didn't bet)
+Seat 9: thegreatcurve (small blind) collected ($0.10)
+
+
+
+PokerStars Hand #238795116286:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:23:04 PT [2022/09/22 14:23:04 ET]
+Table 'Jokaste III' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($6.25 in chips) 
+Seat 2: iguiguana ($5.74 in chips) 
+Seat 3: tomashovka55 ($5.65 in chips) 
+Seat 4: vladimir5421 ($9.13 in chips) 
+Seat 5: eddila ($6.10 in chips) 
+Seat 6: dankev888 ($4.16 in chips) 
+Seat 7: sc2005 ($6.81 in chips) 
+Seat 8: PodPolk ($9.26 in chips) 
+Seat 9: thegreatcurve ($4.59 in chips) 
+Dorex2007: posts small blind $0.02
+iguiguana: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jc 8h]
+tomashovka55: folds 
+vladimir5421: folds 
+eddila: raises $0.10 to $0.15
+dankev888 has timed out
+dankev888: folds 
+sc2005: folds 
+PodPolk: folds 
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: folds 
+Uncalled bet ($0.10) returned to eddila
+eddila collected $0.12 from pot
+eddila: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: iguiguana (big blind) folded before Flop
+Seat 3: tomashovka55 folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila collected ($0.12)
+Seat 6: dankev888 folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk folded before Flop (didn't bet)
+Seat 9: thegreatcurve (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238795130521:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:23:41 PT [2022/09/22 14:23:41 ET]
+Table 'Jokaste III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($6.23 in chips) 
+Seat 2: iguiguana ($5.69 in chips) 
+Seat 3: tomashovka55 ($5.65 in chips) 
+Seat 4: vladimir5421 ($9.13 in chips) 
+Seat 5: eddila ($6.17 in chips) 
+Seat 7: sc2005 ($6.81 in chips) 
+Seat 8: PodPolk ($9.26 in chips) 
+Seat 9: thegreatcurve ($4.59 in chips) 
+iguiguana: posts small blind $0.02
+tomashovka55: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d 9s]
+vladimir5421: folds 
+eddila: folds 
+sc2005: folds 
+PodPolk: folds 
+thegreatcurve: folds 
+Dorex2007: raises $0.12 to $0.17
+iguiguana: folds 
+tomashovka55: folds 
+Uncalled bet ($0.12) returned to Dorex2007
+Dorex2007 collected $0.12 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 (button) collected ($0.12)
+Seat 2: iguiguana (small blind) folded before Flop
+Seat 3: tomashovka55 (big blind) folded before Flop
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238795138916:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:24:02 PT [2022/09/22 14:24:02 ET]
+Table 'Jokaste III' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($6.30 in chips) 
+Seat 2: iguiguana ($5.67 in chips) 
+Seat 3: tomashovka55 ($5.60 in chips) 
+Seat 4: vladimir5421 ($9.13 in chips) 
+Seat 5: eddila ($6.17 in chips) 
+Seat 7: sc2005 ($6.81 in chips) 
+Seat 8: PodPolk ($9.26 in chips) 
+Seat 9: thegreatcurve ($4.59 in chips) 
+tomashovka55: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ks Qs]
+eddila: folds 
+sc2005: folds 
+PodPolk: raises $0.10 to $0.15
+thegreatcurve: folds 
+Dorex2007: calls $0.15
+iguiguana: folds 
+tomashovka55: folds 
+vladimir5421: folds 
+*** FLOP *** [4h 2s 2d]
+PodPolk: checks 
+Dorex2007: checks 
+*** TURN *** [4h 2s 2d] [Ts]
+PodPolk: checks 
+Dorex2007: checks 
+*** RIVER *** [4h 2s 2d Ts] [3c]
+PodPolk: checks 
+Dorex2007: checks 
+*** SHOW DOWN ***
+PodPolk: shows [Jh Ad] (a pair of Deuces)
+Dorex2007: mucks hand 
+PodPolk collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [4h 2s 2d Ts 3c]
+Seat 1: Dorex2007 mucked [Ks Qs]
+Seat 2: iguiguana (button) folded before Flop (didn't bet)
+Seat 3: tomashovka55 (small blind) folded before Flop
+Seat 4: vladimir5421 (big blind) folded before Flop
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk showed [Jh Ad] and won ($0.35) with a pair of Deuces
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238795157698:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:24:50 PT [2022/09/22 14:24:50 ET]
+Table 'Jokaste III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($6.15 in chips) 
+Seat 2: iguiguana ($5.67 in chips) 
+Seat 3: tomashovka55 ($5.58 in chips) 
+Seat 4: vladimir5421 ($9.08 in chips) 
+Seat 5: eddila ($6.17 in chips) 
+Seat 7: sc2005 ($6.81 in chips) 
+Seat 8: PodPolk ($9.46 in chips) 
+Seat 9: thegreatcurve ($4.59 in chips) 
+vladimir5421: posts small blind $0.02
+eddila: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Td 3c]
+sc2005: folds 
+PodPolk: folds 
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: folds 
+tomashovka55: folds 
+vladimir5421: folds 
+Uncalled bet ($0.03) returned to eddila
+eddila collected $0.04 from pot
+eddila: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 3: tomashovka55 (button) folded before Flop (didn't bet)
+Seat 4: vladimir5421 (small blind) folded before Flop
+Seat 5: eddila (big blind) collected ($0.04)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238795164238:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:25:07 PT [2022/09/22 14:25:07 ET]
+Table 'Jokaste III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($6.15 in chips) 
+Seat 2: iguiguana ($5.67 in chips) 
+Seat 4: vladimir5421 ($9.06 in chips) 
+Seat 5: eddila ($6.19 in chips) 
+Seat 7: sc2005 ($6.81 in chips) 
+Seat 8: PodPolk ($9.46 in chips) 
+Seat 9: thegreatcurve ($4.59 in chips) 
+eddila: posts small blind $0.02
+sc2005: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Js 9h]
+PodPolk: folds 
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: folds 
+vladimir5421: folds 
+eddila: folds 
+Uncalled bet ($0.03) returned to sc2005
+sc2005 collected $0.04 from pot
+sc2005: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 4: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 5: eddila (small blind) folded before Flop
+Seat 7: sc2005 (big blind) collected ($0.04)
+Seat 8: PodPolk folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238795170578:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:25:23 PT [2022/09/22 14:25:23 ET]
+Table 'Jokaste III' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($6.15 in chips) 
+Seat 2: iguiguana ($5.67 in chips) 
+Seat 4: vladimir5421 ($9.06 in chips) 
+Seat 5: eddila ($6.17 in chips) 
+Seat 7: sc2005 ($6.83 in chips) 
+Seat 8: PodPolk ($9.46 in chips) 
+Seat 9: thegreatcurve ($4.59 in chips) 
+sc2005: posts small blind $0.02
+PodPolk: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [As Kc]
+thegreatcurve: folds 
+Dorex2007: raises $0.10 to $0.15
+iguiguana: folds 
+vladimir5421: folds 
+eddila: folds 
+sc2005: folds 
+PodPolk: calls $0.10
+*** FLOP *** [3s 5d 7h]
+PodPolk: checks 
+Dorex2007: bets $0.31
+PodPolk: folds 
+Uncalled bet ($0.31) returned to Dorex2007
+Dorex2007 collected $0.31 from pot
+Dorex2007: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [3s 5d 7h]
+Seat 1: Dorex2007 collected ($0.31)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila (button) folded before Flop (didn't bet)
+Seat 7: sc2005 (small blind) folded before Flop
+Seat 8: PodPolk (big blind) folded on the Flop
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238795179039:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:25:45 PT [2022/09/22 14:25:45 ET]
+Table 'Jokaste III' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($6.31 in chips) 
+Seat 2: iguiguana ($5.67 in chips) 
+Seat 4: vladimir5421 ($9.06 in chips) 
+Seat 5: eddila ($6.17 in chips) 
+Seat 7: sc2005 ($6.81 in chips) 
+Seat 8: PodPolk ($9.31 in chips) 
+Seat 9: thegreatcurve ($4.59 in chips) 
+PodPolk: posts small blind $0.02
+thegreatcurve: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [6c Ts]
+Dorex2007: folds 
+iguiguana: folds 
+vladimir5421: folds 
+eddila: folds 
+sc2005: folds 
+PodPolk: folds 
+Uncalled bet ($0.03) returned to thegreatcurve
+thegreatcurve collected $0.04 from pot
+thegreatcurve: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 7: sc2005 (button) folded before Flop (didn't bet)
+Seat 8: PodPolk (small blind) folded before Flop
+Seat 9: thegreatcurve (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #238795186482:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:26:04 PT [2022/09/22 14:26:04 ET]
+Table 'Jokaste III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($6.31 in chips) 
+Seat 2: iguiguana ($5.67 in chips) 
+Seat 4: vladimir5421 ($9.06 in chips) 
+Seat 5: eddila ($6.17 in chips) 
+Seat 7: sc2005 ($6.81 in chips) 
+Seat 8: PodPolk ($9.29 in chips) 
+Seat 9: thegreatcurve ($4.61 in chips) 
+thegreatcurve: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Th Qh]
+iguiguana: raises $0.05 to $0.10
+vladimir5421: folds 
+eddila: calls $0.10
+sc2005: folds 
+PodPolk: folds 
+thegreatcurve: folds 
+Dorex2007: calls $0.05
+*** FLOP *** [5s 2s Td]
+Dorex2007: bets $0.21
+iguiguana: calls $0.21
+eddila: calls $0.21
+*** TURN *** [5s 2s Td] [7h]
+Dorex2007: checks 
+iguiguana: checks 
+eddila: bets $0.45
+Dorex2007: folds 
+iguiguana: calls $0.45
+*** RIVER *** [5s 2s Td 7h] [9c]
+iguiguana: checks 
+eddila: checks 
+*** SHOW DOWN ***
+iguiguana: shows [Jc Tc] (a pair of Tens)
+eddila: mucks hand 
+iguiguana collected $1.77 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08 
+Board [5s 2s Td 7h 9c]
+Seat 1: Dorex2007 (big blind) folded on the Turn
+Seat 2: iguiguana showed [Jc Tc] and won ($1.77) with a pair of Tens
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila mucked [6s 7s]
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk (button) folded before Flop (didn't bet)
+Seat 9: thegreatcurve (small blind) folded before Flop
+
+
+
+PokerStars Hand #238795207056:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:26:56 PT [2022/09/22 14:26:56 ET]
+Table 'Jokaste III' 9-max Seat #9 is the button
+Seat 1: Dorex2007 ($6 in chips) 
+Seat 2: iguiguana ($6.68 in chips) 
+Seat 4: vladimir5421 ($9.06 in chips) 
+Seat 5: eddila ($5.41 in chips) 
+Seat 7: sc2005 ($6.81 in chips) 
+Seat 8: PodPolk ($9.29 in chips) 
+Seat 9: thegreatcurve ($4.59 in chips) 
+Dorex2007: posts small blind $0.02
+iguiguana: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 6s]
+vladimir5421: folds 
+eddila: raises $0.10 to $0.15
+sc2005: folds 
+PodPolk: folds 
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: folds 
+Uncalled bet ($0.10) returned to eddila
+eddila collected $0.12 from pot
+eddila: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: iguiguana (big blind) folded before Flop
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila collected ($0.12)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk folded before Flop (didn't bet)
+Seat 9: thegreatcurve (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238795214126:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:27:14 PT [2022/09/22 14:27:14 ET]
+Table 'Jokaste III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($5.98 in chips) 
+Seat 2: iguiguana ($6.63 in chips) 
+Seat 4: vladimir5421 ($9.06 in chips) 
+Seat 5: eddila ($5.48 in chips) 
+Seat 7: sc2005 ($6.81 in chips) 
+Seat 8: PodPolk ($9.29 in chips) 
+Seat 9: thegreatcurve ($5 in chips) 
+iguiguana: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7d 8h]
+eddila: folds 
+sc2005: folds 
+PodPolk: folds 
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: folds 
+Uncalled bet ($0.03) returned to vladimir5421
+vladimir5421 collected $0.04 from pot
+vladimir5421: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: iguiguana (small blind) folded before Flop
+Seat 4: vladimir5421 (big blind) collected ($0.04)
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238795219483:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:27:28 PT [2022/09/22 14:27:28 ET]
+Table 'Jokaste III' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($5.98 in chips) 
+Seat 2: iguiguana ($6.61 in chips) 
+Seat 4: vladimir5421 ($9.08 in chips) 
+Seat 5: eddila ($5.48 in chips) 
+Seat 7: sc2005 ($6.81 in chips) 
+Seat 8: PodPolk ($9.29 in chips) 
+Seat 9: thegreatcurve ($5 in chips) 
+vladimir5421: posts small blind $0.02
+eddila: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5s 7c]
+sc2005: raises $0.10 to $0.15
+PodPolk: calls $0.15
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: folds 
+vladimir5421: folds 
+eddila: folds 
+*** FLOP *** [5d 4d Js]
+sc2005: checks 
+PodPolk: checks 
+*** TURN *** [5d 4d Js] [Jh]
+sc2005: checks 
+PodPolk: bets $0.17
+sc2005: calls $0.17
+*** RIVER *** [5d 4d Js Jh] [8d]
+sc2005: checks 
+PodPolk: bets $0.68
+sc2005: folds 
+Uncalled bet ($0.68) returned to PodPolk
+PodPolk collected $0.68 from pot
+PodPolk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.71 | Rake $0.03 
+Board [5d 4d Js Jh 8d]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana (button) folded before Flop (didn't bet)
+Seat 4: vladimir5421 (small blind) folded before Flop
+Seat 5: eddila (big blind) folded before Flop
+Seat 7: sc2005 folded on the River
+Seat 8: PodPolk collected ($0.68)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238795235520:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:28:09 PT [2022/09/22 14:28:09 ET]
+Table 'Jokaste III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($5.98 in chips) 
+Seat 2: iguiguana ($6.61 in chips) 
+Seat 4: vladimir5421 ($9.06 in chips) 
+Seat 5: eddila ($5.43 in chips) 
+Seat 7: sc2005 ($6.49 in chips) 
+Seat 8: PodPolk ($9.65 in chips) 
+Seat 9: thegreatcurve ($5 in chips) 
+eddila: posts small blind $0.02
+sc2005: posts big blind $0.05
+tomashovka55: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2s 9s]
+PodPolk: folds 
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: folds 
+vladimir5421: folds 
+eddila: folds 
+Uncalled bet ($0.03) returned to sc2005
+sc2005 collected $0.04 from pot
+sc2005: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 4: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 5: eddila (small blind) folded before Flop
+Seat 7: sc2005 (big blind) collected ($0.04)
+Seat 8: PodPolk folded before Flop (didn't bet)
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238795240261:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:28:21 PT [2022/09/22 14:28:21 ET]
+Table 'Jokaste III' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($5.98 in chips) 
+Seat 2: iguiguana ($6.61 in chips) 
+Seat 4: vladimir5421 ($9.06 in chips) 
+Seat 5: eddila ($5.41 in chips) 
+Seat 7: sc2005 ($6.51 in chips) 
+Seat 8: PodPolk ($9.65 in chips) 
+Seat 9: thegreatcurve ($5 in chips) 
+sc2005: posts small blind $0.02
+PodPolk: posts big blind $0.05
+tomashovka55: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Ac 4c]
+thegreatcurve: folds 
+Dorex2007: folds 
+iguiguana: folds 
+vladimir5421: folds 
+eddila: raises $0.10 to $0.15
+sc2005: folds 
+PodPolk: calls $0.10
+*** FLOP *** [8c Kc 2s]
+PodPolk: checks 
+eddila: checks 
+*** TURN *** [8c Kc 2s] [3d]
+PodPolk: checks 
+eddila: checks 
+*** RIVER *** [8c Kc 2s 3d] [7h]
+PodPolk: checks 
+eddila: checks 
+*** SHOW DOWN ***
+PodPolk: shows [As 4s] (high card Ace)
+eddila: shows [Ah 9h] (high card Ace - King+Nine kicker)
+eddila collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [8c Kc 2s 3d 7h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila (button) showed [Ah 9h] and won ($0.31) with high card Ace
+Seat 7: sc2005 (small blind) folded before Flop
+Seat 8: PodPolk (big blind) showed [As 4s] and lost with high card Ace
+Seat 9: thegreatcurve folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238795251945:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:28:51 PT [2022/09/22 14:28:51 ET]
+Table 'Jokaste III' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($5.98 in chips) 
+Seat 2: iguiguana ($6.61 in chips) 
+Seat 4: vladimir5421 ($9.06 in chips) 
+Seat 5: eddila ($5.57 in chips) 
+Seat 7: sc2005 ($6.49 in chips) 
+Seat 8: PodPolk ($9.50 in chips) 
+Seat 9: thegreatcurve ($5 in chips) 
+PodPolk: posts small blind $0.02
+thegreatcurve: posts big blind $0.05
+tomashovka55: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 3c]
+Dorex2007: folds 
+iguiguana: folds 
+vladimir5421: folds 
+eddila: folds 
+sc2005: folds 
+PodPolk: calls $0.03
+thegreatcurve: checks 
+*** FLOP *** [2d 4c Th]
+PodPolk: checks 
+thegreatcurve: checks 
+*** TURN *** [2d 4c Th] [Ad]
+PodPolk: checks 
+thegreatcurve: bets $0.10
+PodPolk: calls $0.10
+*** RIVER *** [2d 4c Th Ad] [Qd]
+PodPolk: checks 
+thegreatcurve: bets $0.29
+PodPolk: calls $0.29
+*** SHOW DOWN ***
+thegreatcurve: shows [4d 4s] (three of a kind, Fours)
+PodPolk: mucks hand 
+thegreatcurve collected $0.84 from pot
+*** SUMMARY ***
+Total pot $0.88 | Rake $0.04 
+Board [2d 4c Th Ad Qd]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: iguiguana folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 7: sc2005 (button) folded before Flop (didn't bet)
+Seat 8: PodPolk (small blind) mucked [Js Qs]
+Seat 9: thegreatcurve (big blind) showed [4d 4s] and won ($0.84) with three of a kind, Fours
+
+
+
+PokerStars Hand #238795270303:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:29:38 PT [2022/09/22 14:29:38 ET]
+Table 'Jokaste III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($5.98 in chips) 
+Seat 3: tomashovka55 ($5.58 in chips) 
+Seat 4: vladimir5421 ($9.06 in chips) 
+Seat 5: eddila ($5.57 in chips) 
+Seat 7: sc2005 ($6.49 in chips) 
+Seat 8: PodPolk ($9.06 in chips) 
+Dorex2007: posts small blind $0.02
+iguiguana: is sitting out 
+tomashovka55: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3h 5d]
+vladimir5421: folds 
+iguiguana leaves the table
+eddila: folds 
+sc2005: folds 
+PodPolk: folds 
+Dorex2007: folds 
+Uncalled bet ($0.03) returned to tomashovka55
+tomashovka55 collected $0.04 from pot
+tomashovka55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 3: tomashovka55 (big blind) collected ($0.04)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238795276249:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:29:53 PT [2022/09/22 14:29:53 ET]
+Table 'Jokaste III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($5.96 in chips) 
+Seat 3: tomashovka55 ($5.60 in chips) 
+Seat 4: vladimir5421 ($9.06 in chips) 
+Seat 5: eddila ($5.57 in chips) 
+Seat 7: sc2005 ($6.49 in chips) 
+Seat 8: PodPolk ($9.06 in chips) 
+tomashovka55: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 2s]
+eddila: folds 
+sc2005: folds 
+PodPolk: folds 
+Dorex2007: folds 
+tomashovka55: folds 
+Uncalled bet ($0.03) returned to vladimir5421
+vladimir5421 collected $0.04 from pot
+vladimir5421: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: tomashovka55 (small blind) folded before Flop
+Seat 4: vladimir5421 (big blind) collected ($0.04)
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238795279241:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:30:01 PT [2022/09/22 14:30:01 ET]
+Table 'Jokaste III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($5.96 in chips) 
+Seat 3: tomashovka55 ($5.58 in chips) 
+Seat 4: vladimir5421 ($9.08 in chips) 
+Seat 5: eddila ($5.57 in chips) 
+Seat 7: sc2005 ($6.49 in chips) 
+Seat 8: PodPolk ($9.06 in chips) 
+vladimir5421: posts small blind $0.02
+eddila: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Jd 9h]
+sc2005: folds 
+marcuscup joins the table at seat #2 
+PodPolk: raises $0.10 to $0.15
+Dorex2007: folds 
+tomashovka55: folds 
+vladimir5421: folds 
+eddila: calls $0.10
+*** FLOP *** [Jh Th Qd]
+eddila: checks 
+PodPolk: bets $0.15
+eddila: calls $0.15
+*** TURN *** [Jh Th Qd] [9d]
+eddila: checks 
+PodPolk: checks 
+*** RIVER *** [Jh Th Qd 9d] [7s]
+eddila: checks 
+PodPolk: checks 
+*** SHOW DOWN ***
+eddila: shows [Ad Ts] (a pair of Tens)
+PodPolk: mucks hand 
+eddila collected $0.58 from pot
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.04 
+Board [Jh Th Qd 9d 7s]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 3: tomashovka55 (button) folded before Flop (didn't bet)
+Seat 4: vladimir5421 (small blind) folded before Flop
+Seat 5: eddila (big blind) showed [Ad Ts] and won ($0.58) with a pair of Tens
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk mucked [4h 4d]
+
+
+
+PokerStars Hand #238795292126:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:30:33 PT [2022/09/22 14:30:33 ET]
+Table 'Jokaste III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($5.96 in chips) 
+Seat 2: marcuscup ($5 in chips) 
+Seat 3: tomashovka55 ($5.58 in chips) 
+Seat 4: vladimir5421 ($9.06 in chips) 
+Seat 5: eddila ($5.85 in chips) 
+Seat 7: sc2005 ($6.49 in chips) 
+Seat 8: PodPolk ($8.76 in chips) 
+eddila: posts small blind $0.02
+sc2005: posts big blind $0.05
+marcuscup: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4s 8d]
+PodPolk: folds 
+Dorex2007: folds 
+marcuscup: checks 
+tomashovka55: raises $0.62 to $0.67
+vladimir5421: folds 
+eddila: folds 
+sc2005: folds 
+marcuscup: folds 
+Uncalled bet ($0.62) returned to tomashovka55
+tomashovka55 collected $0.17 from pot
+tomashovka55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: marcuscup folded before Flop (didn't bet)
+Seat 3: tomashovka55 collected ($0.17)
+Seat 4: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 5: eddila (small blind) folded before Flop
+Seat 7: sc2005 (big blind) folded before Flop
+Seat 8: PodPolk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238795301545:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:30:57 PT [2022/09/22 14:30:57 ET]
+Table 'Jokaste III' 9-max Seat #5 is the button
+Seat 1: Dorex2007 ($5.96 in chips) 
+Seat 2: marcuscup ($4.95 in chips) 
+Seat 3: tomashovka55 ($5.70 in chips) 
+Seat 4: vladimir5421 ($9.06 in chips) 
+Seat 5: eddila ($5.83 in chips) 
+Seat 7: sc2005 ($6.44 in chips) 
+Seat 8: PodPolk ($8.76 in chips) 
+sc2005: posts small blind $0.02
+PodPolk: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3s 3c]
+Dorex2007: folds 
+marcuscup: folds 
+tomashovka55: folds 
+vladimir5421: raises $0.10 to $0.15
+eddila: folds 
+sc2005: folds 
+PodPolk: folds 
+Uncalled bet ($0.10) returned to vladimir5421
+vladimir5421 collected $0.12 from pot
+vladimir5421: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: marcuscup folded before Flop (didn't bet)
+Seat 3: tomashovka55 folded before Flop (didn't bet)
+Seat 4: vladimir5421 collected ($0.12)
+Seat 5: eddila (button) folded before Flop (didn't bet)
+Seat 7: sc2005 (small blind) folded before Flop
+Seat 8: PodPolk (big blind) folded before Flop
+
+
+
+PokerStars Hand #238795310198:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:31:19 PT [2022/09/22 14:31:19 ET]
+Table 'Jokaste III' 9-max Seat #7 is the button
+Seat 1: Dorex2007 ($5.96 in chips) 
+Seat 2: marcuscup ($4.95 in chips) 
+Seat 3: tomashovka55 ($5.70 in chips) 
+Seat 4: vladimir5421 ($9.13 in chips) 
+Seat 5: eddila ($5.83 in chips) 
+Seat 7: sc2005 ($6.42 in chips) 
+Seat 8: PodPolk ($8.71 in chips) 
+PodPolk: posts small blind $0.02
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [Kc Qs]
+marcuscup: folds 
+tomashovka55: raises $0.10 to $0.15
+vladimir5421: folds 
+eddila: folds 
+sc2005: calls $0.15
+PodPolk: folds 
+Dorex2007: folds 
+*** FLOP *** [4c 8c 7d]
+tomashovka55: checks 
+sc2005: bets $0.30
+tomashovka55: folds 
+Uncalled bet ($0.30) returned to sc2005
+sc2005 collected $0.35 from pot
+sc2005: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [4c 8c 7d]
+Seat 1: Dorex2007 (big blind) folded before Flop
+Seat 2: marcuscup folded before Flop (didn't bet)
+Seat 3: tomashovka55 folded on the Flop
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 7: sc2005 (button) collected ($0.35)
+Seat 8: PodPolk (small blind) folded before Flop
+
+
+
+PokerStars Hand #238795322733:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:31:51 PT [2022/09/22 14:31:51 ET]
+Table 'Jokaste III' 9-max Seat #8 is the button
+Seat 1: Dorex2007 ($5.91 in chips) 
+Seat 2: marcuscup ($4.95 in chips) 
+Seat 3: tomashovka55 ($5.55 in chips) 
+Seat 4: vladimir5421 ($9.13 in chips) 
+Seat 5: eddila ($5.83 in chips) 
+Seat 6: dankev888 ($4.16 in chips) 
+Seat 7: sc2005 ($6.62 in chips) 
+Seat 8: PodPolk ($8.69 in chips) 
+Dorex2007: posts small blind $0.02
+marcuscup: posts big blind $0.05
+dankev888: posts small & big blinds $0.07
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2h Qc]
+tomashovka55: folds 
+vladimir5421 has timed out
+vladimir5421: folds 
+eddila: folds 
+dankev888: checks 
+sc2005: folds 
+PodPolk: folds 
+Dorex2007: folds 
+marcuscup: checks 
+*** FLOP *** [4h 5s As]
+marcuscup: checks 
+dankev888: checks 
+*** TURN *** [4h 5s As] [7h]
+marcuscup: checks 
+dankev888: checks 
+*** RIVER *** [4h 5s As 7h] [Th]
+marcuscup: checks 
+dankev888: checks 
+*** SHOW DOWN ***
+marcuscup: shows [Tc 3d] (a pair of Tens)
+dankev888: mucks hand 
+marcuscup collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0.01 
+Board [4h 5s As 7h Th]
+Seat 1: Dorex2007 (small blind) folded before Flop
+Seat 2: marcuscup (big blind) showed [Tc 3d] and won ($0.13) with a pair of Tens
+Seat 3: tomashovka55 folded before Flop (didn't bet)
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 6: dankev888 mucked [6c 5d]
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238795340504:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:32:36 PT [2022/09/22 14:32:36 ET]
+Table 'Jokaste III' 9-max Seat #1 is the button
+Seat 1: Dorex2007 ($5.89 in chips) 
+Seat 2: marcuscup ($5.03 in chips) 
+Seat 3: tomashovka55 ($5.55 in chips) 
+Seat 4: vladimir5421 ($9.13 in chips) 
+Seat 5: eddila ($5.83 in chips) 
+Seat 6: dankev888 ($4.09 in chips) 
+Seat 7: sc2005 ($6.62 in chips) 
+Seat 8: PodPolk ($8.69 in chips) 
+marcuscup: posts small blind $0.02
+tomashovka55: posts big blind $0.05
+thegreatcurve: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h 3c]
+vladimir5421: folds 
+eddila: calls $0.05
+dankev888: calls $0.05
+sc2005: folds 
+PodPolk: calls $0.05
+Dorex2007: folds 
+marcuscup: calls $0.03
+tomashovka55: checks 
+*** FLOP *** [7d 8d 7c]
+marcuscup: checks 
+tomashovka55: checks 
+eddila: checks 
+dankev888: checks 
+PodPolk: checks 
+*** TURN *** [7d 8d 7c] [9h]
+marcuscup: bets $0.05
+tomashovka55: folds 
+eddila: folds 
+dankev888: calls $0.05
+PodPolk: calls $0.05
+*** RIVER *** [7d 8d 7c 9h] [Ks]
+marcuscup: bets $0.10
+dankev888: calls $0.10
+PodPolk: folds 
+*** SHOW DOWN ***
+marcuscup: shows [8h Jc] (two pair, Eights and Sevens)
+dankev888: shows [Ts Td] (two pair, Tens and Sevens)
+dankev888 collected $0.58 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [7d 8d 7c 9h Ks]
+Seat 1: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 2: marcuscup (small blind) showed [8h Jc] and lost with two pair, Eights and Sevens
+Seat 3: tomashovka55 (big blind) folded on the Turn
+Seat 4: vladimir5421 folded before Flop (didn't bet)
+Seat 5: eddila folded on the Turn
+Seat 6: dankev888 showed [Ts Td] and won ($0.58) with two pair, Tens and Sevens
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk folded on the River
+
+
+
+PokerStars Hand #238795364514:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:33:38 PT [2022/09/22 14:33:38 ET]
+Table 'Jokaste III' 9-max Seat #2 is the button
+Seat 1: Dorex2007 ($5.89 in chips) 
+Seat 2: marcuscup ($4.83 in chips) 
+Seat 3: tomashovka55 ($5.50 in chips) 
+Seat 4: vladimir5421 ($9.13 in chips) 
+Seat 5: eddila ($5.78 in chips) 
+Seat 6: dankev888 ($4.47 in chips) 
+Seat 7: sc2005 ($6.62 in chips) 
+Seat 8: PodPolk ($8.59 in chips) 
+tomashovka55: posts small blind $0.02
+vladimir5421: posts big blind $0.05
+thegreatcurve: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [8h Ts]
+eddila: folds 
+dankev888: folds 
+sc2005: folds 
+PodPolk: folds 
+PodPolk leaves the table
+Dorex2007: folds 
+marcuscup: raises $0.12 to $0.17
+tomashovka55: folds 
+vladimir5421: folds 
+Uncalled bet ($0.12) returned to marcuscup
+marcuscup collected $0.12 from pot
+Kroki66 joins the table at seat #8 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: marcuscup (button) collected ($0.12)
+Seat 3: tomashovka55 (small blind) folded before Flop
+Seat 4: vladimir5421 (big blind) folded before Flop
+Seat 5: eddila folded before Flop (didn't bet)
+Seat 6: dankev888 folded before Flop (didn't bet)
+Seat 7: sc2005 folded before Flop (didn't bet)
+Seat 8: PodPolk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238795372871:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:33:59 PT [2022/09/22 14:33:59 ET]
+Table 'Jokaste III' 9-max Seat #3 is the button
+Seat 1: Dorex2007 ($5.89 in chips) 
+Seat 2: marcuscup ($4.90 in chips) 
+Seat 3: tomashovka55 ($5.48 in chips) 
+Seat 4: vladimir5421 ($9.08 in chips) 
+Seat 6: dankev888 ($4.47 in chips) 
+Seat 7: sc2005 ($6.62 in chips) 
+vladimir5421: posts small blind $0.02
+dankev888: posts big blind $0.05
+Kroki66: sits out 
+thegreatcurve: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [3c Tc]
+sc2005: folds 
+Dorex2007: folds 
+marcuscup: calls $0.05
+tomashovka55: folds 
+vladimir5421: folds 
+dankev888: checks 
+*** FLOP *** [5d 8d 6h]
+dankev888: checks 
+marcuscup: checks 
+*** TURN *** [5d 8d 6h] [9c]
+dankev888: checks 
+marcuscup: checks 
+*** RIVER *** [5d 8d 6h 9c] [9h]
+dankev888: checks 
+marcuscup: checks 
+*** SHOW DOWN ***
+dankev888: shows [5s Jd] (two pair, Nines and Fives)
+marcuscup: mucks hand 
+dankev888 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [5d 8d 6h 9c 9h]
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: marcuscup mucked [Kc Qs]
+Seat 3: tomashovka55 (button) folded before Flop (didn't bet)
+Seat 4: vladimir5421 (small blind) folded before Flop
+Seat 6: dankev888 (big blind) showed [5s Jd] and won ($0.12) with two pair, Nines and Fives
+Seat 7: sc2005 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #238795386503:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/09/22 11:34:34 PT [2022/09/22 14:34:34 ET]
+Table 'Jokaste III' 9-max Seat #4 is the button
+Seat 1: Dorex2007 ($5.89 in chips) 
+Seat 2: marcuscup ($4.85 in chips) 
+Seat 3: tomashovka55 ($5.48 in chips) 
+Seat 4: vladimir5421 ($9.06 in chips) 
+Seat 6: dankev888 ($4.54 in chips) 
+Seat 7: sc2005 ($6.62 in chips) 
+dankev888: posts small blind $0.02
+sc2005: posts big blind $0.05
+Kroki66: sits out 
+thegreatcurve: sits out 
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7h Qd]
+Dorex2007: folds 
+marcuscup: folds 
+tomashovka55: folds 
+vladimir5421: folds 
+dankev888: folds 
+Uncalled bet ($0.03) returned to sc2005
+sc2005 collected $0.04 from pot
+sc2005: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Dorex2007 folded before Flop (didn't bet)
+Seat 2: marcuscup folded before Flop (didn't bet)
+Seat 3: tomashovka55 folded before Flop (didn't bet)
+Seat 4: vladimir5421 (button) folded before Flop (didn't bet)
+Seat 6: dankev888 (small blind) folded before Flop
+Seat 7: sc2005 (big blind) collected ($0.04)
+
+
+
