@@ -1,0 +1,442 @@
+﻿PokerStars Hand #239042906043:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/10/04 20:52:02 PT [2022/10/04 23:52:02 ET]
+Table 'Williams II' 9-max Seat #4 is the button
+Seat 1: zecrai ($10.37 in chips) 
+Seat 2: Dorex2007 ($5 in chips) 
+Seat 3: WARLOKCH ($4.40 in chips) 
+Seat 4: HARIMIT ($7.37 in chips) 
+Seat 5: BlackCat0812 ($5.49 in chips) 
+Seat 7: PufferFishPassr ($5 in chips) 
+Seat 8: AGVsmarT ($3.91 in chips) 
+Seat 9: BrenoVns ($6.70 in chips) 
+BlackCat0812: posts small blind $0.02
+PufferFishPassr: posts big blind $0.05
+Dorex2007: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [5d Kc]
+AGVsmarT: folds 
+BrenoVns: folds 
+zecrai: calls $0.05
+Dorex2007: checks 
+WARLOKCH: raises $0.35 to $0.40
+HARIMIT: folds 
+BlackCat0812: folds 
+PufferFishPassr: folds 
+zecrai: folds 
+Dorex2007: folds 
+Uncalled bet ($0.35) returned to WARLOKCH
+WARLOKCH collected $0.22 from pot
+WARLOKCH: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0 
+Seat 1: zecrai folded before Flop
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: WARLOKCH collected ($0.22)
+Seat 4: HARIMIT (button) folded before Flop (didn't bet)
+Seat 5: BlackCat0812 (small blind) folded before Flop
+Seat 7: PufferFishPassr (big blind) folded before Flop
+Seat 8: AGVsmarT folded before Flop (didn't bet)
+Seat 9: BrenoVns folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239042910772:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/10/04 20:52:39 PT [2022/10/04 23:52:39 ET]
+Table 'Williams II' 9-max Seat #5 is the button
+Seat 1: zecrai ($10.32 in chips) 
+Seat 2: Dorex2007 ($5 in chips) 
+Seat 3: WARLOKCH ($4.57 in chips) 
+Seat 4: HARIMIT ($7.37 in chips) 
+Seat 5: BlackCat0812 ($5.47 in chips) 
+Seat 7: PufferFishPassr ($5 in chips) 
+Seat 8: AGVsmarT ($3.91 in chips) 
+Seat 9: BrenoVns ($6.70 in chips) 
+PufferFishPassr: posts small blind $0.02
+AGVsmarT: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9d Kd]
+BrenoVns: folds 
+zecrai: raises $0.10 to $0.15
+Dorex2007: folds 
+WARLOKCH: folds 
+HARIMIT: calls $0.15
+BlackCat0812: calls $0.15
+PufferFishPassr: raises $0.30 to $0.45
+AGVsmarT: folds 
+zecrai: calls $0.30
+HARIMIT: calls $0.30
+BlackCat0812: raises $5.02 to $5.47 and is all-in
+PufferFishPassr: calls $4.55 and is all-in
+zecrai: folds 
+HARIMIT: folds 
+Uncalled bet ($0.47) returned to BlackCat0812
+*** FLOP *** [5h Ks 8c]
+*** TURN *** [5h Ks 8c] [Ad]
+*** RIVER *** [5h Ks 8c Ad] [Td]
+*** SHOW DOWN ***
+PufferFishPassr: shows [Jc Ac] (a pair of Aces)
+BlackCat0812: shows [Ah As] (three of a kind, Aces)
+BlackCat0812 cashed out the hand for $9.05 | Cash Out Fee $0.09
+*** SUMMARY ***
+Total pot $10.95 | Rake $0.45 
+Board [5h Ks 8c Ad Td]
+Seat 1: zecrai folded before Flop
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: WARLOKCH folded before Flop (didn't bet)
+Seat 4: HARIMIT folded before Flop
+Seat 5: BlackCat0812 (button) showed [Ah As] and won ($10.50) with three of a kind, Aces (pot not awarded as player cashed out)
+Seat 7: PufferFishPassr (small blind) showed [Jc Ac] and lost with a pair of Aces
+Seat 8: AGVsmarT (big blind) folded before Flop
+Seat 9: BrenoVns folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239042918303:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/10/04 20:53:40 PT [2022/10/04 23:53:40 ET]
+Table 'Williams II' 9-max Seat #7 is the button
+Seat 1: zecrai ($9.87 in chips) 
+Seat 2: Dorex2007 ($5 in chips) 
+Seat 3: WARLOKCH ($4.57 in chips) 
+Seat 4: HARIMIT ($6.92 in chips) 
+Seat 5: BlackCat0812 ($9.52 in chips) 
+Seat 7: PufferFishPassr ($5 in chips) 
+Seat 8: AGVsmarT ($3.86 in chips) 
+Seat 9: BrenoVns ($6.70 in chips) 
+AGVsmarT: posts small blind $0.02
+BrenoVns: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c 8d]
+zecrai: raises $0.05 to $0.10
+Dorex2007: folds 
+WARLOKCH: raises $0.15 to $0.25
+HARIMIT: folds 
+BlackCat0812: folds 
+PufferFishPassr: folds 
+AGVsmarT: folds 
+BrenoVns: folds 
+zecrai: calls $0.15
+*** FLOP *** [Jd 5h Qd]
+zecrai: checks 
+dagaffo leaves the table
+WARLOKCH: bets $0.45
+zecrai: calls $0.45
+*** TURN *** [Jd 5h Qd] [Qs]
+zecrai: checks 
+WARLOKCH: bets $0.90
+zecrai: calls $0.90
+*** RIVER *** [Jd 5h Qd Qs] [4s]
+zecrai: checks 
+WARLOKCH: checks 
+*** SHOW DOWN ***
+zecrai: shows [Ks Th] (a pair of Queens)
+WARLOKCH: shows [Tc Ts] (two pair, Queens and Tens)
+WARLOKCH collected $3.13 from pot
+*** SUMMARY ***
+Total pot $3.27 | Rake $0.14 
+Board [Jd 5h Qd Qs 4s]
+Seat 1: zecrai showed [Ks Th] and lost with a pair of Queens
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: WARLOKCH showed [Tc Ts] and won ($3.13) with two pair, Queens and Tens
+Seat 4: HARIMIT folded before Flop (didn't bet)
+Seat 5: BlackCat0812 folded before Flop (didn't bet)
+Seat 7: PufferFishPassr (button) folded before Flop (didn't bet)
+Seat 8: AGVsmarT (small blind) folded before Flop
+Seat 9: BrenoVns (big blind) folded before Flop
+
+
+
+PokerStars Hand #239042927559:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/10/04 20:54:54 PT [2022/10/04 23:54:54 ET]
+Table 'Williams II' 9-max Seat #8 is the button
+Seat 1: zecrai ($8.27 in chips) 
+Seat 2: Dorex2007 ($5 in chips) 
+Seat 3: WARLOKCH ($6.10 in chips) 
+Seat 4: HARIMIT ($6.92 in chips) 
+Seat 5: BlackCat0812 ($9.52 in chips) 
+Seat 7: PufferFishPassr ($5 in chips) 
+Seat 8: AGVsmarT ($5 in chips) 
+Seat 9: BrenoVns ($6.65 in chips) 
+BrenoVns: posts small blind $0.02
+zecrai: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9s 8c]
+Dorex2007: folds 
+WARLOKCH: calls $0.05
+HARIMIT: calls $0.05
+BlackCat0812: calls $0.05
+PufferFishPassr: calls $0.05
+AGVsmarT: calls $0.05
+BrenoVns: raises $0.25 to $0.30
+zecrai: folds 
+WARLOKCH: folds 
+HARIMIT: folds 
+BlackCat0812: folds 
+r4yjz248 joins the table at seat #6 
+PufferFishPassr: calls $0.25
+AGVsmarT: folds 
+*** FLOP *** [Qc 9h 5c]
+zecrai leaves the table
+BrenoVns: checks 
+PufferFishPassr: bets $0.40
+BrenoVns: calls $0.40
+*** TURN *** [Qc 9h 5c] [7s]
+BrenoVns: checks 
+PufferFishPassr: checks 
+*** RIVER *** [Qc 9h 5c 7s] [3c]
+blkflag joins the table at seat #1 
+BrenoVns: checks 
+PufferFishPassr: checks 
+*** SHOW DOWN ***
+BrenoVns: shows [Ah Kh] (high card Ace)
+PufferFishPassr: mucks hand 
+BrenoVns collected $1.58 from pot
+*** SUMMARY ***
+Total pot $1.65 | Rake $0.07 
+Board [Qc 9h 5c 7s 3c]
+Seat 1: zecrai (big blind) folded before Flop
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: WARLOKCH folded before Flop
+Seat 4: HARIMIT folded before Flop
+Seat 5: BlackCat0812 folded before Flop
+Seat 7: PufferFishPassr mucked [As 2s]
+Seat 8: AGVsmarT (button) folded before Flop
+Seat 9: BrenoVns (small blind) showed [Ah Kh] and won ($1.58) with high card Ace
+
+
+
+PokerStars Hand #239042936674:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/10/04 20:56:18 PT [2022/10/04 23:56:18 ET]
+Table 'Williams II' 9-max Seat #9 is the button
+Seat 2: Dorex2007 ($5 in chips) 
+Seat 3: WARLOKCH ($6.05 in chips) 
+Seat 4: HARIMIT ($6.87 in chips) 
+Seat 5: BlackCat0812 ($9.47 in chips) 
+Seat 6: r4yjz248 ($5 in chips) 
+Seat 7: PufferFishPassr ($5 in chips) 
+Seat 8: AGVsmarT ($4.95 in chips) 
+Seat 9: BrenoVns ($7.53 in chips) 
+Dorex2007: posts small blind $0.02
+WARLOKCH: posts big blind $0.05
+r4yjz248: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [2d 7s]
+HARIMIT: raises $0.05 to $0.10
+BlackCat0812: folds 
+r4yjz248: folds 
+PufferFishPassr: folds 
+AGVsmarT: calls $0.10
+BrenoVns: folds 
+Dorex2007: folds 
+WARLOKCH: calls $0.05
+*** FLOP *** [9h 6d 9d]
+WARLOKCH: checks 
+HARIMIT: checks 
+AGVsmarT: bets $0.15
+WARLOKCH: folds 
+HARIMIT: folds 
+Uncalled bet ($0.15) returned to AGVsmarT
+AGVsmarT collected $0.35 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [9h 6d 9d]
+Seat 2: Dorex2007 (small blind) folded before Flop
+Seat 3: WARLOKCH (big blind) folded on the Flop
+Seat 4: HARIMIT folded on the Flop
+Seat 5: BlackCat0812 folded before Flop (didn't bet)
+Seat 6: r4yjz248 folded before Flop (didn't bet)
+Seat 7: PufferFishPassr folded before Flop (didn't bet)
+Seat 8: AGVsmarT collected ($0.35)
+Seat 9: BrenoVns (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239042941119:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/10/04 20:57:01 PT [2022/10/04 23:57:01 ET]
+Table 'Williams II' 9-max Seat #2 is the button
+Seat 1: blkflag ($5 in chips) 
+Seat 2: Dorex2007 ($5 in chips) 
+Seat 3: WARLOKCH ($5.95 in chips) 
+Seat 5: BlackCat0812 ($9.47 in chips) 
+Seat 6: r4yjz248 ($4.95 in chips) 
+Seat 7: PufferFishPassr ($5 in chips) 
+Seat 8: AGVsmarT ($5.20 in chips) 
+Seat 9: BrenoVns ($7.53 in chips) 
+WARLOKCH: posts small blind $0.02
+HARIMIT: is sitting out 
+BlackCat0812: posts big blind $0.05
+blkflag: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9h 4s]
+r4yjz248: folds 
+PufferFishPassr: folds 
+HARIMIT leaves the table
+AGVsmarT: folds 
+BrenoVns: folds 
+blkflag: checks 
+Dorex2007: folds 
+WARLOKCH: calls $0.03
+BlackCat0812: checks 
+*** FLOP *** [6c Kc 7d]
+WARLOKCH: checks 
+BlackCat0812: checks 
+blkflag: bets $0.10
+WARLOKCH: folds 
+BlackCat0812: folds 
+Uncalled bet ($0.10) returned to blkflag
+blkflag collected $0.14 from pot
+blkflag: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [6c Kc 7d]
+Seat 1: blkflag collected ($0.14)
+Seat 2: Dorex2007 (button) folded before Flop (didn't bet)
+Seat 3: WARLOKCH (small blind) folded on the Flop
+Seat 5: BlackCat0812 (big blind) folded on the Flop
+Seat 6: r4yjz248 folded before Flop (didn't bet)
+Seat 7: PufferFishPassr folded before Flop (didn't bet)
+Seat 8: AGVsmarT folded before Flop (didn't bet)
+Seat 9: BrenoVns folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239042943754:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/10/04 20:57:26 PT [2022/10/04 23:57:26 ET]
+Table 'Williams II' 9-max Seat #3 is the button
+Seat 1: blkflag ($5.09 in chips) 
+Seat 2: Dorex2007 ($5 in chips) 
+Seat 3: WARLOKCH ($5.90 in chips) 
+Seat 5: BlackCat0812 ($9.42 in chips) 
+Seat 6: r4yjz248 ($4.95 in chips) 
+Seat 7: PufferFishPassr ($5 in chips) 
+Seat 8: AGVsmarT ($5.20 in chips) 
+Seat 9: BrenoVns ($7.53 in chips) 
+BlackCat0812: posts small blind $0.02
+r4yjz248: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [7c Qc]
+PufferFishPassr: folds 
+AGVsmarT: calls $0.05
+BrenoVns: folds 
+blkflag: folds 
+Dorex2007: folds 
+WARLOKCH: folds 
+BlackCat0812: calls $0.03
+r4yjz248: checks 
+*** FLOP *** [3c Ah 4h]
+BlackCat0812: checks 
+r4yjz248: checks 
+AGVsmarT: checks 
+*** TURN *** [3c Ah 4h] [7s]
+BlackCat0812: checks 
+r4yjz248: checks 
+AGVsmarT: checks 
+*** RIVER *** [3c Ah 4h 7s] [Tc]
+BlackCat0812: bets $0.14
+r4yjz248: folds 
+AGVsmarT: folds 
+Uncalled bet ($0.14) returned to BlackCat0812
+BlackCat0812 collected $0.14 from pot
+BlackCat0812: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3c Ah 4h 7s Tc]
+Seat 1: blkflag folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: WARLOKCH (button) folded before Flop (didn't bet)
+Seat 5: BlackCat0812 (small blind) collected ($0.14)
+Seat 6: r4yjz248 (big blind) folded on the River
+Seat 7: PufferFishPassr folded before Flop (didn't bet)
+Seat 8: AGVsmarT folded on the River
+Seat 9: BrenoVns folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239042949202:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/10/04 20:58:19 PT [2022/10/04 23:58:19 ET]
+Table 'Williams II' 9-max Seat #5 is the button
+Seat 1: blkflag ($5.09 in chips) 
+Seat 2: Dorex2007 ($5 in chips) 
+Seat 3: WARLOKCH ($5.90 in chips) 
+Seat 5: BlackCat0812 ($9.51 in chips) 
+Seat 6: r4yjz248 ($4.90 in chips) 
+Seat 7: PufferFishPassr ($5 in chips) 
+Seat 8: AGVsmarT ($5.15 in chips) 
+Seat 9: BrenoVns ($7.53 in chips) 
+r4yjz248: posts small blind $0.02
+PufferFishPassr: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [4h Qh]
+AGVsmarT: folds 
+BrenoVns: folds 
+blkflag: folds 
+Dorex2007: folds 
+WARLOKCH: folds 
+BlackCat0812: calls $0.05
+r4yjz248: folds 
+PufferFishPassr: checks 
+*** FLOP *** [2c Ts As]
+PufferFishPassr: bets $0.11
+BlackCat0812: calls $0.11
+*** TURN *** [2c Ts As] [3d]
+PufferFishPassr: bets $0.21
+BlackCat0812: calls $0.21
+*** RIVER *** [2c Ts As 3d] [Kd]
+PufferFishPassr: checks 
+BlackCat0812: checks 
+*** SHOW DOWN ***
+PufferFishPassr: shows [7s Ac] (a pair of Aces)
+BlackCat0812: mucks hand 
+PufferFishPassr collected $0.73 from pot
+*** SUMMARY ***
+Total pot $0.76 | Rake $0.03 
+Board [2c Ts As 3d Kd]
+Seat 1: blkflag folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: WARLOKCH folded before Flop (didn't bet)
+Seat 5: BlackCat0812 (button) mucked [Td Jd]
+Seat 6: r4yjz248 (small blind) folded before Flop
+Seat 7: PufferFishPassr (big blind) showed [7s Ac] and won ($0.73) with a pair of Aces
+Seat 8: AGVsmarT folded before Flop (didn't bet)
+Seat 9: BrenoVns folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #239042955348:  Hold'em No Limit ($0.02/$0.05 USD) - 2022/10/04 20:59:19 PT [2022/10/04 23:59:19 ET]
+Table 'Williams II' 9-max Seat #6 is the button
+Seat 1: blkflag ($5.09 in chips) 
+Seat 2: Dorex2007 ($5 in chips) 
+Seat 3: WARLOKCH ($5.90 in chips) 
+Seat 5: BlackCat0812 ($9.14 in chips) 
+Seat 6: r4yjz248 ($4.88 in chips) 
+Seat 7: PufferFishPassr ($5.36 in chips) 
+Seat 8: AGVsmarT ($5.15 in chips) 
+Seat 9: BrenoVns ($7.53 in chips) 
+PufferFishPassr: posts small blind $0.02
+AGVsmarT: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to Dorex2007 [9c Jc]
+BrenoVns: raises $0.07 to $0.12
+blkflag: folds 
+Dorex2007: folds 
+WARLOKCH: calls $0.12
+BlackCat0812: calls $0.12
+r4yjz248: folds 
+PufferFishPassr: folds 
+AGVsmarT: calls $0.07
+*** FLOP *** [3c 7h Kd]
+AGVsmarT: bets $0.15
+63Mac joins the table at seat #4 
+BrenoVns: calls $0.15
+WARLOKCH: folds 
+BlackCat0812: folds 
+*** TURN *** [3c 7h Kd] [Ah]
+AGVsmarT: bets $0.77
+BrenoVns: folds 
+Uncalled bet ($0.77) returned to AGVsmarT
+AGVsmarT collected $0.77 from pot
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.03 
+Board [3c 7h Kd Ah]
+Seat 1: blkflag folded before Flop (didn't bet)
+Seat 2: Dorex2007 folded before Flop (didn't bet)
+Seat 3: WARLOKCH folded on the Flop
+Seat 5: BlackCat0812 folded on the Flop
+Seat 6: r4yjz248 (button) folded before Flop (didn't bet)
+Seat 7: PufferFishPassr (small blind) folded before Flop
+Seat 8: AGVsmarT (big blind) collected ($0.77)
+Seat 9: BrenoVns folded on the Turn
+
+
+
